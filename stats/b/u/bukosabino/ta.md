@@ -1,10 +1,10 @@
 # bukosabino/ta - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 754
 
-★ Stars: 3339
+★ Stars: 3340
 
 [Open repository](https://github.com/bukosabino/ta)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 3340 | 754 | 
 | 2022-11-17 | 3339 | 754 | 
 | 2022-11-16 | 3336 | 754 | 
 | 2022-11-15 | 3334 | 754 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 3299 | 751 | 
 | 2022-10-21 | 3298 | 751 | 
 | 2022-10-20 | 3298 | 751 | 
-| 2022-10-19 | 3297 | 751 | 
 

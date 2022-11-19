@@ -1,6 +1,6 @@
 # microsoft/FHIR-Converter - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 120
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 268 | 120 | 
 | 2022-11-17 | 268 | 120 | 
 | 2022-11-16 | 266 | 119 | 
 | 2022-11-15 | 265 | 119 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 261 | 118 | 
 | 2022-10-21 | 261 | 118 | 
 | 2022-10-20 | 260 | 118 | 
-| 2022-10-19 | 260 | 118 | 
 

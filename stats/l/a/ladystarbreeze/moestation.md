@@ -1,10 +1,10 @@
 # ladystarbreeze/moestation - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 0
 
-★ Stars: 21
+★ Stars: 27
 
 [Open repository](https://github.com/ladystarbreeze/moestation)
 
@@ -13,5 +13,6 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 27 | - | 
 | 2022-11-17 | 21 | - | 
 

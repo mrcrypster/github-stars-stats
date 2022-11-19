@@ -1,6 +1,6 @@
 # schemaorg/schemaorg - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 830
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 4740 | 830 | 
 | 2022-11-17 | 4740 | 830 | 
 | 2022-11-16 | 4737 | 829 | 
 | 2022-11-15 | 4735 | 829 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 4697 | 827 | 
 | 2022-10-21 | 4696 | 828 | 
 | 2022-10-20 | 4694 | 828 | 
-| 2022-10-19 | 4693 | 827 | 
 

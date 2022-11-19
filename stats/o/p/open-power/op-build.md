@@ -1,10 +1,10 @@
 # open-power/op-build - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 171
 
-★ Stars: 91
+★ Stars: 92
 
 [Open repository](https://github.com/open-power/op-build)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 92 | 171 | 
 | 2022-11-17 | 91 | 171 | 
 | 2022-11-16 | 91 | 171 | 
 | 2022-11-15 | 91 | 171 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 91 | 171 | 
 | 2022-10-21 | 91 | 171 | 
 | 2022-10-20 | 91 | 171 | 
-| 2022-10-19 | 91 | 171 | 
 

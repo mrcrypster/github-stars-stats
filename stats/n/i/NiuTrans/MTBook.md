@@ -1,10 +1,10 @@
 # NiuTrans/MTBook - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 827
 
-★ Stars: 2542
+★ Stars: 2543
 
 [Open repository](https://github.com/NiuTrans/MTBook)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 2543 | 827 | 
 | 2022-11-17 | 2542 | 827 | 
 | 2022-11-16 | 2534 | 826 | 
 | 2022-11-15 | 2529 | 826 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 2494 | 826 | 
 | 2022-10-21 | 2493 | 826 | 
 | 2022-10-20 | 2491 | 826 | 
-| 2022-10-19 | 2487 | 825 | 
 

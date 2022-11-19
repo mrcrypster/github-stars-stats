@@ -1,10 +1,10 @@
 # p0dalirius/Coercer - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 70
 
-★ Stars: 742
+★ Stars: 743
 
 [Open repository](https://github.com/p0dalirius/Coercer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 743 | 70 | 
 | 2022-11-17 | 742 | 70 | 
 | 2022-11-16 | 742 | 70 | 
 | 2022-11-15 | 740 | 70 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 693 | 68 | 
 | 2022-10-21 | 690 | 67 | 
 | 2022-10-20 | 689 | 67 | 
-| 2022-10-19 | 686 | 67 | 
 

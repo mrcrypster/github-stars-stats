@@ -1,10 +1,10 @@
 # weihaox/awesome-gan-inversion - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 72
 
-★ Stars: 832
+★ Stars: 831
 
 [Open repository](https://github.com/weihaox/awesome-gan-inversion)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 831 | 72 | 
 | 2022-11-18 | 832 | 72 | 
 | 2022-11-16 | 831 | 72 | 
 | 2022-11-15 | 831 | 72 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 817 | 71 | 
 | 2022-10-22 | 816 | 71 | 
 | 2022-10-21 | 816 | 71 | 
-| 2022-10-20 | 816 | 71 | 
 

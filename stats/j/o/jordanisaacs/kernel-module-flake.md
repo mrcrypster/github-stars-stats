@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 18
 
 ☋ Forks: 0
 
-★ Stars: 24
+★ Stars: 26
 
 [Open repository](https://github.com/jordanisaacs/kernel-module-flake)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-18 | 24 | - | 
+| 2022-11-18 | 26 | - | 
 | 2022-11-17 | 24 | - | 
 

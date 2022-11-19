@@ -1,8 +1,8 @@
 # BL-MSCH-C220-F22/Exercise-03d-Shaders - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
-☋ Forks: 42
+☋ Forks: 43
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | - | 43 | 
 | 2022-11-17 | - | 42 | 
 | 2022-11-16 | - | 42 | 
 | 2022-11-15 | - | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | - | 40 | 
 | 2022-10-21 | - | 40 | 
 | 2022-10-20 | - | 40 | 
-| 2022-10-19 | - | 40 | 
 

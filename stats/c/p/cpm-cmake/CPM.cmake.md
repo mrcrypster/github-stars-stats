@@ -1,10 +1,10 @@
 # cpm-cmake/CPM.cmake - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
-☋ Forks: 111
+☋ Forks: 110
 
-★ Stars: 1472
+★ Stars: 1476
 
 [Open repository](https://github.com/cpm-cmake/CPM.cmake)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 1476 | 110 | 
 | 2022-11-17 | 1472 | 111 | 
 | 2022-11-16 | 1471 | 111 | 
 | 2022-11-15 | 1469 | 111 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 1413 | 111 | 
 | 2022-10-21 | 1411 | 111 | 
 | 2022-10-20 | 1406 | 110 | 
-| 2022-10-19 | 1397 | 110 | 
 

@@ -1,6 +1,6 @@
 # balena-os/balena-seeed-x86 - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 3 | 2 | 
 | 2022-11-18 | 3 | 2 | 
 | 2022-11-16 | 3 | 2 | 
 | 2022-11-15 | 3 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-22 | 2 | 2 | 
 | 2022-10-21 | 2 | 2 | 
 | 2022-10-20 | 2 | 2 | 
-| 2022-10-19 | 2 | 2 | 
 

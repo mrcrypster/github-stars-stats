@@ -1,8 +1,8 @@
 # poole/lanyon - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
-☋ Forks: 2850
+☋ Forks: 2852
 
 ★ Stars: 3053
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 3053 | 2852 | 
 | 2022-11-17 | 3053 | 2850 | 
 | 2022-11-16 | 3052 | 2851 | 
 | 2022-11-15 | 3049 | 2849 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 3044 | 2844 | 
 | 2022-10-21 | 3043 | 2844 | 
 | 2022-10-20 | 3042 | 2843 | 
-| 2022-10-19 | 3042 | 2844 | 
 

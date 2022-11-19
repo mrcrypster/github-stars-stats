@@ -1,6 +1,6 @@
 # byxor/thug-pro-reshade - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 1 | 19 | 
 | 2022-11-17 | 1 | 19 | 
 | 2022-11-16 | 1 | 19 | 
 | 2022-11-15 | 1 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-23 | 1 | 17 | 
 | 2022-10-22 | 1 | 16 | 
 | 2022-10-21 | 1 | 16 | 
-| 2022-10-19 | 1 | 16 | 
 

@@ -1,10 +1,10 @@
 # http-rs/tide - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 311
 
-★ Stars: 4017
+★ Stars: 4019
 
 [Open repository](https://github.com/http-rs/tide)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 4019 | 311 | 
 | 2022-11-17 | 4017 | 311 | 
 | 2022-11-16 | 4013 | 311 | 
 | 2022-11-15 | 4011 | 311 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 3992 | 312 | 
 | 2022-10-21 | 3990 | 311 | 
 | 2022-10-20 | 3989 | 311 | 
-| 2022-10-19 | 3988 | 311 | 
 

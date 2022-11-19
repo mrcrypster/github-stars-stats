@@ -1,10 +1,10 @@
 # mossr/BeautifulAlgorithms.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 78
 
-★ Stars: 1196
+★ Stars: 1197
 
 [Open repository](https://github.com/mossr/BeautifulAlgorithms.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 1197 | 78 | 
 | 2022-11-17 | 1196 | 78 | 
 | 2022-11-16 | 1196 | 78 | 
 | 2022-11-15 | 1190 | 77 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 1174 | 73 | 
 | 2022-10-21 | 1173 | 73 | 
 | 2022-10-20 | 1173 | 73 | 
-| 2022-10-19 | 1172 | 74 | 
 

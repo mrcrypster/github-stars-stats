@@ -1,10 +1,10 @@
 # renerocksai/telekasten.nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 39
 
-★ Stars: 546
+★ Stars: 550
 
 [Open repository](https://github.com/renerocksai/telekasten.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 550 | 39 | 
 | 2022-11-17 | 546 | 39 | 
 | 2022-11-16 | 544 | 39 | 
 | 2022-11-15 | 544 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 510 | 36 | 
 | 2022-10-21 | 507 | 36 | 
 | 2022-10-20 | 506 | 35 | 
-| 2022-10-19 | 502 | 35 | 
 

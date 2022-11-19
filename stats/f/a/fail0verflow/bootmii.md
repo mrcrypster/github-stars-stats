@@ -1,6 +1,6 @@
 # fail0verflow/bootmii - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 112 | 2 | 
 | 2022-11-17 | 112 | 2 | 
 | 2022-11-16 | 111 | 2 | 
 | 2022-11-15 | 111 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 108 | 2 | 
 | 2022-10-21 | 108 | 2 | 
 | 2022-10-20 | 107 | 2 | 
-| 2022-10-19 | 107 | 3 | 
 

@@ -1,10 +1,10 @@
 # benoitc/hackney - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 424
 
-★ Stars: 1247
+★ Stars: 1248
 
 [Open repository](https://github.com/benoitc/hackney)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 1248 | 424 | 
 | 2022-11-17 | 1247 | 424 | 
 | 2022-11-16 | 1247 | 424 | 
 | 2022-11-15 | 1247 | 424 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 1246 | 423 | 
 | 2022-10-21 | 1246 | 423 | 
 | 2022-10-20 | 1246 | 423 | 
-| 2022-10-19 | 1246 | 423 | 
 

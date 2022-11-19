@@ -1,6 +1,6 @@
 # Himujjal/zig-json5 - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 20 | - | 
 | 2022-11-17 | 20 | - | 
 | 2022-11-16 | 20 | - | 
 | 2022-11-15 | 20 | - | 

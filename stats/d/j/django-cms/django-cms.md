@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 18
 
 ☋ Forks: 2852
 
-★ Stars: 8997
+★ Stars: 9003
 
 [Open repository](https://github.com/django-cms/django-cms)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-18 | 8997 | 2852 | 
+| 2022-11-18 | 9003 | 2852 | 
 | 2022-11-17 | 8996 | 2852 | 
 

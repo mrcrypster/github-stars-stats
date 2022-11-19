@@ -1,6 +1,6 @@
 # UNRaf-PROGRAMACION/ejemplo-escenas-tiled - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | - | 16 | 
 | 2022-11-18 | - | 16 | 
 | 2022-11-17 | - | 16 | 
 | 2022-11-15 | - | 16 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-22 | - | 16 | 
 | 2022-10-21 | - | 16 | 
 | 2022-10-20 | - | 16 | 
-| 2022-10-19 | - | 16 | 
 

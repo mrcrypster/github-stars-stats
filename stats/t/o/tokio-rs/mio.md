@@ -1,6 +1,6 @@
 # tokio-rs/mio - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 617
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 5177 | 617 | 
 | 2022-11-17 | 5177 | 617 | 
 | 2022-11-16 | 5178 | 617 | 
 | 2022-11-15 | 5177 | 617 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 5105 | 613 | 
 | 2022-10-21 | 5102 | 613 | 
 | 2022-10-20 | 5098 | 613 | 
-| 2022-10-19 | 5095 | 612 | 
 

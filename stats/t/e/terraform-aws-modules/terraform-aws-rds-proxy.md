@@ -1,6 +1,6 @@
 # terraform-aws-modules/terraform-aws-rds-proxy - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 40 | 16 | 
 | 2022-11-18 | 40 | 16 | 
 | 2022-11-17 | 40 | 16 | 
 | 2022-11-15 | 39 | 16 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-22 | 39 | 15 | 
 | 2022-10-21 | 39 | 15 | 
 | 2022-10-20 | 40 | 15 | 
-| 2022-10-19 | 40 | 15 | 
 

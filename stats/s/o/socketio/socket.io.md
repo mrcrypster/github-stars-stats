@@ -1,10 +1,10 @@
 # socketio/socket.io - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 10101
 
-★ Stars: 57088
+★ Stars: 57093
 
 [Open repository](https://github.com/socketio/socket.io)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 57093 | 10101 | 
 | 2022-11-17 | 57088 | 10101 | 
 | 2022-11-16 | 57081 | 10101 | 
 | 2022-11-15 | 57073 | 10102 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 56898 | 10085 | 
 | 2022-10-21 | 56892 | 10085 | 
 | 2022-10-20 | 56882 | 10086 | 
-| 2022-10-19 | 56868 | 10087 | 
 

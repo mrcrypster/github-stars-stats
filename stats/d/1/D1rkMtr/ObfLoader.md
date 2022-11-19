@@ -1,10 +1,10 @@
 # D1rkMtr/ObfLoader - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 34
 
-★ Stars: 194
+★ Stars: 195
 
 [Open repository](https://github.com/D1rkMtr/ObfLoader)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 195 | 34 | 
 | 2022-11-17 | 194 | 34 | 
 | 2022-11-16 | 194 | 34 | 
 | 2022-11-15 | 194 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 177 | 31 | 
 | 2022-10-21 | 177 | 31 | 
 | 2022-10-20 | 177 | 30 | 
-| 2022-10-19 | 175 | 30 | 
 

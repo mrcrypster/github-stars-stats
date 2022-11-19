@@ -1,10 +1,10 @@
 # janestreet/learn-ocaml-workshop - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 105
 
-★ Stars: 386
+★ Stars: 385
 
 [Open repository](https://github.com/janestreet/learn-ocaml-workshop)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 385 | 105 | 
 | 2022-11-17 | 386 | 105 | 
 | 2022-11-16 | 386 | 105 | 
 | 2022-11-15 | 386 | 105 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 383 | 105 | 
 | 2022-10-21 | 384 | 105 | 
 | 2022-10-20 | 384 | 105 | 
-| 2022-10-19 | 384 | 105 | 
 

@@ -1,6 +1,6 @@
 # SAP/macOS-enterprise-privileges - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 121
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 962 | 121 | 
 | 2022-11-17 | 962 | 121 | 
 | 2022-11-16 | 961 | 120 | 
 | 2022-11-15 | 961 | 120 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 951 | 118 | 
 | 2022-10-21 | 951 | 118 | 
 | 2022-10-20 | 951 | 118 | 
-| 2022-10-19 | 949 | 118 | 
 

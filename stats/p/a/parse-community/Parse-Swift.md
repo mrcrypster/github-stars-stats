@@ -1,6 +1,6 @@
 # parse-community/Parse-Swift - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 249 | 54 | 
 | 2022-11-17 | 249 | 54 | 
 | 2022-11-16 | 249 | 54 | 
 | 2022-11-15 | 249 | 54 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 245 | 53 | 
 | 2022-10-21 | 245 | 52 | 
 | 2022-10-20 | 245 | 52 | 
-| 2022-10-19 | 245 | 52 | 
 

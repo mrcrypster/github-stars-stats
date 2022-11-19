@@ -1,10 +1,10 @@
 # pointfreeco/swift-clocks - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
-☋ Forks: 1
+☋ Forks: 2
 
-★ Stars: 119
+★ Stars: 121
 
 [Open repository](https://github.com/pointfreeco/swift-clocks)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 121 | 2 | 
 | 2022-11-17 | 119 | 1 | 
 | 2022-11-16 | 118 | 1 | 
 | 2022-11-15 | 116 | 1 | 

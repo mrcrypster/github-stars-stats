@@ -1,10 +1,10 @@
 # UtkuJS/botclub-website - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 20
 
-★ Stars: 30
+★ Stars: 29
 
 [Open repository](https://github.com/UtkuJS/botclub-website)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 29 | 20 | 
 | 2022-11-17 | 30 | 20 | 
 | 2022-11-16 | 30 | 19 | 
 | 2022-11-15 | 30 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-23 | 28 | 18 | 
 | 2022-10-22 | 28 | 18 | 
 | 2022-10-21 | 28 | 18 | 
-| 2022-10-20 | 28 | 18 | 
 

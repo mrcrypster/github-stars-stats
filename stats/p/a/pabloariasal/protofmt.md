@@ -1,6 +1,6 @@
 # pabloariasal/protofmt - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 24 | - | 
 | 2022-11-17 | 24 | - | 
 | 2022-11-16 | 24 | - | 
 | 2022-11-15 | 24 | - | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 22 | - | 
 | 2022-10-21 | 22 | - | 
 | 2022-10-20 | 22 | - | 
-| 2022-10-19 | 22 | - | 
 

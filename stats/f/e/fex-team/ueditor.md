@@ -1,10 +1,10 @@
 # fex-team/ueditor - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
-☋ Forks: 2371
+☋ Forks: 2370
 
-★ Stars: 6263
+★ Stars: 6264
 
 [Open repository](https://github.com/fex-team/ueditor)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 6264 | 2370 | 
 | 2022-11-17 | 6263 | 2371 | 
 | 2022-11-16 | 6262 | 2370 | 
 | 2022-11-15 | 6262 | 2370 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 6240 | 2369 | 
 | 2022-10-21 | 6239 | 2368 | 
 | 2022-10-20 | 6239 | 2368 | 
-| 2022-10-19 | 6235 | 2366 | 
 

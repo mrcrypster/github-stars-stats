@@ -1,6 +1,6 @@
 # IRPTeam/IRP - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 72 | 65 | 
 | 2022-11-17 | 72 | 65 | 
 | 2022-11-16 | 72 | 65 | 
 | 2022-11-15 | 72 | 65 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 69 | 65 | 
 | 2022-10-21 | 69 | 65 | 
 | 2022-10-20 | 69 | 65 | 
-| 2022-10-19 | 69 | 65 | 
 

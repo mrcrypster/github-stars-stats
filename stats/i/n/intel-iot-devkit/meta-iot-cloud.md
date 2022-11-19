@@ -1,6 +1,6 @@
 # intel-iot-devkit/meta-iot-cloud - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 78
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 61 | 78 | 
 | 2022-11-17 | 61 | 78 | 
 | 2022-11-16 | 61 | 78 | 
 | 2022-11-15 | 61 | 78 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 61 | 78 | 
 | 2022-10-21 | 61 | 78 | 
 | 2022-10-20 | 61 | 78 | 
-| 2022-10-19 | 61 | 78 | 
 

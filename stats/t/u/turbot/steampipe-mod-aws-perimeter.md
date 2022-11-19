@@ -1,6 +1,6 @@
 # turbot/steampipe-mod-aws-perimeter - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 96 | 4 | 
 | 2022-11-17 | 96 | 4 | 
 | 2022-11-16 | 96 | 4 | 
 | 2022-11-15 | 96 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-23 | 94 | 4 | 
 | 2022-10-22 | 94 | 4 | 
 | 2022-10-21 | 94 | 4 | 
-| 2022-10-20 | 94 | 4 | 
 

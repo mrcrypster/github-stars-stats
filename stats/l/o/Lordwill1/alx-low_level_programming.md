@@ -1,10 +1,10 @@
 # Lordwill1/alx-low_level_programming - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 77
 
-★ Stars: 54
+★ Stars: 55
 
 [Open repository](https://github.com/Lordwill1/alx-low_level_programming)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 55 | 77 | 
 | 2022-11-17 | 54 | 77 | 
 | 2022-11-16 | 54 | 77 | 
 | 2022-11-15 | 54 | 77 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 48 | 74 | 
 | 2022-10-21 | 47 | 69 | 
 | 2022-10-20 | 47 | 66 | 
-| 2022-10-19 | 47 | 67 | 
 

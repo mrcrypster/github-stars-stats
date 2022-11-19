@@ -1,10 +1,10 @@
 # deepinsight/insightface - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
-☋ Forks: 4048
+☋ Forks: 4050
 
-★ Stars: 12955
+★ Stars: 12959
 
 [Open repository](https://github.com/deepinsight/insightface)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 12959 | 4050 | 
 | 2022-11-17 | 12955 | 4048 | 
 | 2022-11-16 | 12935 | 4045 | 
 | 2022-11-15 | 12926 | 4044 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 12808 | 4007 | 
 | 2022-10-21 | 12805 | 4005 | 
 | 2022-10-20 | 12795 | 4004 | 
-| 2022-10-19 | 12786 | 4003 | 
 

@@ -1,6 +1,6 @@
 # DataDog/rules_oci - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 7 | - | 
 | 2022-11-17 | 7 | - | 
 | 2022-11-16 | 7 | - | 
 | 2022-11-15 | 6 | - | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 6 | - | 
 | 2022-10-21 | 6 | - | 
 | 2022-10-20 | 6 | - | 
-| 2022-10-19 | 6 | - | 
 

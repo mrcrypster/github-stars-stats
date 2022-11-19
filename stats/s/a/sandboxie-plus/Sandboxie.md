@@ -1,10 +1,10 @@
 # sandboxie-plus/Sandboxie - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
-☋ Forks: 901
+☋ Forks: 902
 
-★ Stars: 8439
+★ Stars: 8448
 
 [Open repository](https://github.com/sandboxie-plus/Sandboxie)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 8448 | 902 | 
 | 2022-11-17 | 8439 | 901 | 
 | 2022-11-16 | 8434 | 900 | 
 | 2022-11-15 | 8429 | 900 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 8274 | 885 | 
 | 2022-10-21 | 8269 | 885 | 
 | 2022-10-20 | 8265 | 886 | 
-| 2022-10-19 | 8250 | 885 | 
 

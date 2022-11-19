@@ -1,10 +1,10 @@
 # pytorch/torchrec - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
-☋ Forks: 184
+☋ Forks: 185
 
-★ Stars: 1198
+★ Stars: 1200
 
 [Open repository](https://github.com/pytorch/torchrec)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 1200 | 185 | 
 | 2022-11-17 | 1198 | 184 | 
 | 2022-11-16 | 1197 | 183 | 
 | 2022-11-15 | 1196 | 182 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-23 | 1161 | 169 | 
 | 2022-10-22 | 1161 | 169 | 
 | 2022-10-21 | 1160 | 168 | 
-| 2022-10-20 | 1159 | 166 | 
 

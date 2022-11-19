@@ -1,10 +1,10 @@
 # p0xeidon-labs/zkPoker - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 2
 
-★ Stars: 12
+★ Stars: 14
 
 [Open repository](https://github.com/p0xeidon-labs/zkPoker)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 14 | 2 | 
 | 2022-11-17 | 12 | 2 | 
 | 2022-11-16 | 12 | 1 | 
 | 2022-11-15 | 11 | 1 | 

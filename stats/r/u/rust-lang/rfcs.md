@@ -1,6 +1,6 @@
 # rust-lang/rfcs - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 1423
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 4800 | 1423 | 
 | 2022-11-18 | 4800 | 1423 | 
 | 2022-11-16 | 4800 | 1422 | 
 | 2022-11-15 | 4799 | 1423 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-22 | 4737 | 1408 | 
 | 2022-10-21 | 4735 | 1407 | 
 | 2022-10-20 | 4732 | 1405 | 
-| 2022-10-19 | 4732 | 1405 | 
 

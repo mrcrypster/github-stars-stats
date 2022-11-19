@@ -1,8 +1,8 @@
 # tweag/haskell-training - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
-☋ Forks: 3
+☋ Forks: 4
 
 ★ Stars: 22
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 22 | 4 | 
 | 2022-11-17 | 22 | 3 | 
 | 2022-11-16 | 22 | 3 | 
 | 2022-11-15 | 22 | 3 | 

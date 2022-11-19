@@ -1,6 +1,6 @@
 # ant-design/ant-design-mobile-rn - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 582
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 2613 | 582 | 
 | 2022-11-17 | 2613 | 582 | 
 | 2022-11-16 | 2612 | 582 | 
 | 2022-11-15 | 2612 | 582 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-23 | 2597 | 582 | 
 | 2022-10-22 | 2597 | 582 | 
 | 2022-10-21 | 2597 | 581 | 
-| 2022-10-19 | 2597 | 581 | 
 

@@ -1,6 +1,6 @@
 # lucaszischka/BottomSheet - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 76
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 609 | 76 | 
 | 2022-11-17 | 609 | 76 | 
 | 2022-11-16 | 608 | 76 | 
 | 2022-11-15 | 609 | 76 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 596 | 73 | 
 | 2022-10-21 | 596 | 73 | 
 | 2022-10-20 | 595 | 73 | 
-| 2022-10-19 | 594 | 73 | 
 

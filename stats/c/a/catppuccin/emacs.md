@@ -1,10 +1,10 @@
 # catppuccin/emacs - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 9
 
-★ Stars: 67
+★ Stars: 68
 
 [Open repository](https://github.com/catppuccin/emacs)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 68 | 9 | 
 | 2022-11-17 | 67 | 9 | 
 | 2022-11-16 | 67 | 9 | 
 | 2022-11-15 | 66 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 60 | 9 | 
 | 2022-10-21 | 60 | 9 | 
 | 2022-10-20 | 60 | 9 | 
-| 2022-10-19 | 60 | 9 | 
 

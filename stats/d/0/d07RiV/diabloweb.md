@@ -1,10 +1,10 @@
 # d07RiV/diabloweb - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
-☋ Forks: 152
+☋ Forks: 153
 
-★ Stars: 1978
+★ Stars: 1977
 
 [Open repository](https://github.com/d07RiV/diabloweb)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 1977 | 153 | 
 | 2022-11-17 | 1978 | 152 | 
 | 2022-11-16 | 1978 | 152 | 
 | 2022-11-15 | 1977 | 152 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 1969 | 152 | 
 | 2022-10-21 | 1969 | 152 | 
 | 2022-10-20 | 1969 | 152 | 
-| 2022-10-19 | 1969 | 152 | 
 

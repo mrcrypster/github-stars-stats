@@ -1,6 +1,6 @@
 # AammarTufail/pythonkachilla_version2 - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 243
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 444 | 243 | 
 | 2022-11-17 | 444 | 243 | 
 | 2022-11-16 | 444 | 243 | 
 | 2022-11-15 | 444 | 243 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 440 | 241 | 
 | 2022-10-21 | 439 | 241 | 
 | 2022-10-20 | 439 | 241 | 
-| 2022-10-19 | 439 | 241 | 
 

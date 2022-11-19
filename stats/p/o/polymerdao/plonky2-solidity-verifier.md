@@ -1,10 +1,10 @@
 # polymerdao/plonky2-solidity-verifier - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 1
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/polymerdao/plonky2-solidity-verifier)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 26 | 1 | 
 | 2022-11-17 | 25 | 1 | 
 | 2022-11-16 | 25 | 1 | 
 | 2022-11-15 | 25 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-23 | 25 | 1 | 
 | 2022-10-22 | 25 | 1 | 
 | 2022-10-21 | 25 | 1 | 
-| 2022-10-20 | 25 | 1 | 
 

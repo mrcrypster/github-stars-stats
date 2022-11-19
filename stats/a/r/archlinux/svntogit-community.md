@@ -1,10 +1,10 @@
 # archlinux/svntogit-community - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 295
 
-★ Stars: 255
+★ Stars: 256
 
 [Open repository](https://github.com/archlinux/svntogit-community)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 256 | 295 | 
 | 2022-11-17 | 255 | 295 | 
 | 2022-11-16 | 255 | 295 | 
 | 2022-11-15 | 254 | 295 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 248 | 293 | 
 | 2022-10-21 | 247 | 285 | 
 | 2022-10-20 | 247 | 285 | 
-| 2022-10-19 | 247 | 283 | 
 

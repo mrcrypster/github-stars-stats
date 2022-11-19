@@ -1,10 +1,10 @@
 # lnbook/lnbook - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 594
 
-★ Stars: 2431
+★ Stars: 2435
 
 [Open repository](https://github.com/lnbook/lnbook)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 2435 | 594 | 
 | 2022-11-17 | 2431 | 594 | 
 | 2022-11-16 | 2431 | 594 | 
 | 2022-11-15 | 2432 | 595 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 2407 | 585 | 
 | 2022-10-21 | 2406 | 585 | 
 | 2022-10-20 | 2405 | 585 | 
-| 2022-10-19 | 2403 | 584 | 
 

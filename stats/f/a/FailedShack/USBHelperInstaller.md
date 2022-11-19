@@ -1,6 +1,6 @@
 # FailedShack/USBHelperInstaller - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 71
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 688 | 71 | 
 | 2022-11-17 | 688 | 71 | 
 | 2022-11-16 | 686 | 71 | 
 | 2022-11-15 | 685 | 71 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 664 | 71 | 
 | 2022-10-21 | 664 | 71 | 
 | 2022-10-20 | 663 | 71 | 
-| 2022-10-19 | 661 | 70 | 
 

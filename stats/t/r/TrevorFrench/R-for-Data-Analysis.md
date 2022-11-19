@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 18
 
-☋ Forks: 5
+☋ Forks: 6
 
-★ Stars: 35
+★ Stars: 37
 
 [Open repository](https://github.com/TrevorFrench/R-for-Data-Analysis)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-18 | 35 | 5 | 
+| 2022-11-18 | 37 | 6 | 
 | 2022-11-17 | 33 | 5 | 
 | 2022-11-16 | 30 | 4 | 
 

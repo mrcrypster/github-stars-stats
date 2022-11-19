@@ -1,10 +1,10 @@
 # tiimgreen/github-cheat-sheet - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 5187
 
-★ Stars: 37837
+★ Stars: 37844
 
 [Open repository](https://github.com/tiimgreen/github-cheat-sheet)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 37844 | 5187 | 
 | 2022-11-17 | 37837 | 5187 | 
 | 2022-11-16 | 37826 | 5187 | 
 | 2022-11-15 | 37814 | 5186 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 37421 | 5173 | 
 | 2022-10-21 | 37406 | 5174 | 
 | 2022-10-20 | 37389 | 5174 | 
-| 2022-10-19 | 37383 | 5172 | 
 

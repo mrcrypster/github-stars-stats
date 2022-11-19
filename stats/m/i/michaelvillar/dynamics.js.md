@@ -1,6 +1,6 @@
 # michaelvillar/dynamics.js - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 419
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 7505 | 419 | 
 | 2022-11-17 | 7505 | 419 | 
 | 2022-11-16 | 7505 | 419 | 
 | 2022-11-15 | 7503 | 419 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 7495 | 418 | 
 | 2022-10-21 | 7496 | 418 | 
 | 2022-10-20 | 7495 | 418 | 
-| 2022-10-19 | 7495 | 418 | 
 

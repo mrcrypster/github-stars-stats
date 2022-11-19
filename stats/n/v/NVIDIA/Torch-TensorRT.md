@@ -1,10 +1,10 @@
 # NVIDIA/Torch-TensorRT - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 241
 
-★ Stars: 1735
+★ Stars: 1734
 
 [Open repository](https://github.com/NVIDIA/Torch-TensorRT)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 1734 | 241 | 
 | 2022-11-17 | 1735 | 241 | 
 | 2022-11-16 | 1735 | 240 | 
 | 2022-11-15 | 1735 | 240 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 1697 | 235 | 
 | 2022-10-21 | 1695 | 235 | 
 | 2022-10-20 | 1692 | 235 | 
-| 2022-10-19 | 1690 | 231 | 
 

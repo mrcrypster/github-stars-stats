@@ -1,6 +1,6 @@
 # mac-cain13/R.swift - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 686
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 8886 | 686 | 
 | 2022-11-17 | 8886 | 686 | 
 | 2022-11-16 | 8884 | 686 | 
 | 2022-11-15 | 8883 | 686 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 8836 | 675 | 
 | 2022-10-21 | 8836 | 675 | 
 | 2022-10-20 | 8835 | 675 | 
-| 2022-10-19 | 8835 | 675 | 
 

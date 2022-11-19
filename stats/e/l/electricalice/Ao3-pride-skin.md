@@ -1,10 +1,10 @@
 # electricalice/Ao3-pride-skin - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 3
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/electricalice/Ao3-pride-skin)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 3 | 3 | 
 | 2022-11-17 | 2 | 3 | 
 | 2022-11-16 | 2 | 3 | 
 | 2022-11-15 | 2 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 2 | 3 | 
 | 2022-10-21 | 2 | 3 | 
 | 2022-10-20 | 2 | 3 | 
-| 2022-10-19 | 2 | 3 | 
 

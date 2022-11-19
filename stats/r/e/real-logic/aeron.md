@@ -1,10 +1,10 @@
 # real-logic/aeron - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 780
 
-★ Stars: 6207
+★ Stars: 6208
 
 [Open repository](https://github.com/real-logic/aeron)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 6208 | 780 | 
 | 2022-11-18 | 6207 | 780 | 
 | 2022-11-17 | 6205 | 778 | 
 | 2022-11-15 | 6203 | 778 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 6177 | 771 | 
 | 2022-10-22 | 6177 | 772 | 
 | 2022-10-21 | 6176 | 772 | 
-| 2022-10-20 | 6177 | 772 | 
 

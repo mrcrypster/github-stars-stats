@@ -1,10 +1,10 @@
 # wasp-lang/wasp - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 109
 
-★ Stars: 1982
+★ Stars: 1984
 
 [Open repository](https://github.com/wasp-lang/wasp)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 1984 | 109 | 
 | 2022-11-17 | 1982 | 109 | 
 | 2022-11-16 | 1980 | 109 | 
 | 2022-11-15 | 1980 | 109 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 1956 | 100 | 
 | 2022-10-21 | 1940 | 98 | 
 | 2022-10-20 | 1937 | 98 | 
-| 2022-10-19 | 1936 | 97 | 
 

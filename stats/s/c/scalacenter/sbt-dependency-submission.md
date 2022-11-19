@@ -1,8 +1,8 @@
 # scalacenter/sbt-dependency-submission - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
-☋ Forks: 6
+☋ Forks: 7
 
 ★ Stars: 35
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 35 | 7 | 
 | 2022-11-17 | 35 | 6 | 
 | 2022-11-16 | 35 | 6 | 
 | 2022-11-15 | 34 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 32 | 7 | 
 | 2022-10-21 | 32 | 7 | 
 | 2022-10-20 | 32 | 7 | 
-| 2022-10-19 | 32 | 6 | 
 

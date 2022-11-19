@@ -1,10 +1,10 @@
 # j-easy/easy-rules - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 934
 
-★ Stars: 4147
+★ Stars: 4150
 
 [Open repository](https://github.com/j-easy/easy-rules)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 4150 | 934 | 
 | 2022-11-17 | 4147 | 934 | 
 | 2022-11-16 | 4144 | 934 | 
 | 2022-11-15 | 4143 | 933 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 4104 | 927 | 
 | 2022-10-21 | 4104 | 927 | 
 | 2022-10-20 | 4102 | 927 | 
-| 2022-10-19 | 4101 | 927 | 
 

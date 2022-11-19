@@ -1,10 +1,10 @@
 # CloudDectective-Harmonycloud/kindling - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
-☋ Forks: 51
+☋ Forks: 52
 
-★ Stars: 254
+★ Stars: 255
 
 [Open repository](https://github.com/CloudDectective-Harmonycloud/kindling)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 255 | 52 | 
 | 2022-11-17 | 254 | 51 | 
 | 2022-11-16 | 253 | 51 | 
 | 2022-11-15 | 251 | 51 | 

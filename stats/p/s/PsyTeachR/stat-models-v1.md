@@ -1,6 +1,6 @@
 # PsyTeachR/stat-models-v1 - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 13 | 12 | 
 | 2022-11-17 | 13 | 12 | 
 | 2022-11-16 | 13 | 12 | 
 | 2022-11-15 | 13 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 13 | 12 | 
 | 2022-10-21 | 13 | 12 | 
 | 2022-10-20 | 13 | 12 | 
-| 2022-10-19 | 13 | 12 | 
 

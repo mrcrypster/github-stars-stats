@@ -1,6 +1,6 @@
 # roundcube/roundcubemail - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 1518
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 4666 | 1518 | 
 | 2022-11-17 | 4666 | 1518 | 
 | 2022-11-16 | 4662 | 1517 | 
 | 2022-11-15 | 4662 | 1517 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 4597 | 1516 | 
 | 2022-10-21 | 4597 | 1516 | 
 | 2022-10-20 | 4597 | 1516 | 
-| 2022-10-19 | 4597 | 1516 | 
 

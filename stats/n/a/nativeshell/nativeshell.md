@@ -1,10 +1,10 @@
 # nativeshell/nativeshell - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 33
 
-★ Stars: 542
+★ Stars: 544
 
 [Open repository](https://github.com/nativeshell/nativeshell)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 544 | 33 | 
 | 2022-11-17 | 542 | 33 | 
 | 2022-11-16 | 542 | 33 | 
 | 2022-11-15 | 542 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-23 | 539 | 33 | 
 | 2022-10-22 | 539 | 33 | 
 | 2022-10-21 | 539 | 33 | 
-| 2022-10-20 | 539 | 33 | 
 

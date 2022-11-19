@@ -1,6 +1,6 @@
 # juckettd/RaspberryPiCM4Handheld7Inch - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 240 | 19 | 
 | 2022-11-17 | 240 | 19 | 
 | 2022-11-15 | 240 | 19 | 
 | 2022-11-14 | 240 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 239 | 19 | 
 | 2022-10-21 | 239 | 19 | 
 | 2022-10-20 | 239 | 19 | 
-| 2022-10-19 | 239 | 19 | 
 

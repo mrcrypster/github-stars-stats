@@ -1,6 +1,6 @@
 # davydog187/marx - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 25 | - | 
 | 2022-11-17 | 25 | - | 
 | 2022-11-16 | 25 | - | 
 | 2022-11-15 | 25 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-23 | 25 | - | 
 | 2022-10-22 | 25 | - | 
 | 2022-10-21 | 25 | - | 
-| 2022-10-20 | 25 | - | 
 

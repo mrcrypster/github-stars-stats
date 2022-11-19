@@ -1,8 +1,8 @@
 # vvo/iron-session - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
-☋ Forks: 212
+☋ Forks: 214
 
 ★ Stars: 2051
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 2051 | 214 | 
 | 2022-11-17 | 2051 | 212 | 
 | 2022-11-16 | 2048 | 211 | 
 | 2022-11-15 | 2046 | 210 | 

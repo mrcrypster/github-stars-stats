@@ -1,6 +1,6 @@
 # ylv-io/devcon-bogota-workshop-2022 - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 15 | 1 | 
 | 2022-11-17 | 15 | 1 | 
 | 2022-11-16 | 13 | 1 | 
 | 2022-11-15 | 13 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 12 | 1 | 
 | 2022-10-21 | 12 | 1 | 
 | 2022-10-20 | 11 | 1 | 
-| 2022-10-19 | 11 | 1 | 
 

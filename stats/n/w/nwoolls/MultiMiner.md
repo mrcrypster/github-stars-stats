@@ -1,6 +1,6 @@
 # nwoolls/MultiMiner - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 368
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 828 | 368 | 
 | 2022-11-17 | 828 | 368 | 
 | 2022-11-16 | 828 | 367 | 
 | 2022-11-15 | 828 | 367 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 823 | 368 | 
 | 2022-10-21 | 823 | 368 | 
 | 2022-10-20 | 823 | 368 | 
-| 2022-10-19 | 823 | 368 | 
 

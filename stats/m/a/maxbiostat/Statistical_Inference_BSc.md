@@ -1,6 +1,6 @@
 # maxbiostat/Statistical_Inference_BSc - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 49 | 14 | 
 | 2022-11-17 | 49 | 14 | 
 | 2022-11-16 | 49 | 14 | 
 | 2022-11-15 | 49 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 48 | 12 | 
 | 2022-10-21 | 48 | 12 | 
 | 2022-10-20 | 48 | 12 | 
-| 2022-10-19 | 48 | 12 | 
 

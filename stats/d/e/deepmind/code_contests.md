@@ -1,10 +1,10 @@
 # deepmind/code_contests - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 136
 
-★ Stars: 1222
+★ Stars: 1221
 
 [Open repository](https://github.com/deepmind/code_contests)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 1221 | 136 | 
 | 2022-11-17 | 1222 | 136 | 
 | 2022-11-16 | 1222 | 136 | 
 | 2022-11-15 | 1222 | 136 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 1213 | 135 | 
 | 2022-10-21 | 1213 | 135 | 
 | 2022-10-20 | 1213 | 135 | 
-| 2022-10-19 | 1213 | 135 | 
 

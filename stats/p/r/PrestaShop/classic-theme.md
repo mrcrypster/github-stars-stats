@@ -1,6 +1,6 @@
 # PrestaShop/classic-theme - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 20 | 47 | 
 | 2022-11-18 | 20 | 47 | 
 | 2022-11-17 | 19 | 46 | 
 | 2022-11-15 | 19 | 46 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-22 | 17 | 40 | 
 | 2022-10-21 | 17 | 40 | 
 | 2022-10-20 | 17 | 40 | 
-| 2022-10-19 | 17 | 40 | 
 

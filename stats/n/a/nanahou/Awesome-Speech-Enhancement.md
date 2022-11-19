@@ -1,10 +1,10 @@
 # nanahou/Awesome-Speech-Enhancement - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
-☋ Forks: 131
+☋ Forks: 132
 
-★ Stars: 524
+★ Stars: 525
 
 [Open repository](https://github.com/nanahou/Awesome-Speech-Enhancement)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 525 | 132 | 
 | 2022-11-17 | 524 | 131 | 
 | 2022-11-16 | 524 | 131 | 
 | 2022-11-15 | 524 | 130 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 521 | 128 | 
 | 2022-10-21 | 521 | 128 | 
 | 2022-10-20 | 520 | 128 | 
-| 2022-10-19 | 520 | 128 | 
 

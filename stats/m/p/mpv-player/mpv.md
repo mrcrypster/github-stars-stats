@@ -1,10 +1,10 @@
 # mpv-player/mpv - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
-☋ Forks: 2463
+☋ Forks: 2464
 
-★ Stars: 20663
+★ Stars: 20674
 
 [Open repository](https://github.com/mpv-player/mpv)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 20674 | 2464 | 
 | 2022-11-17 | 20663 | 2463 | 
 | 2022-11-16 | 20660 | 2462 | 
 | 2022-11-15 | 20654 | 2460 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 20321 | 2432 | 
 | 2022-10-21 | 20315 | 2431 | 
 | 2022-10-20 | 20309 | 2434 | 
-| 2022-10-19 | 20303 | 2435 | 
 

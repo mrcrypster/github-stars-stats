@@ -1,10 +1,10 @@
 # baldurk/renderdoc - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 1075
 
-★ Stars: 6869
+★ Stars: 6874
 
 [Open repository](https://github.com/baldurk/renderdoc)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 6874 | 1075 | 
 | 2022-11-17 | 6869 | 1075 | 
 | 2022-11-15 | 6866 | 1076 | 
 | 2022-11-14 | 6862 | 1074 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 6787 | 1060 | 
 | 2022-10-21 | 6783 | 1059 | 
 | 2022-10-20 | 6780 | 1058 | 
-| 2022-10-19 | 6778 | 1057 | 
 

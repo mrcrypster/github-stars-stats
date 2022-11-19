@@ -1,8 +1,8 @@
 # YunoHost/doc - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
-☋ Forks: 399
+☋ Forks: 398
 
 ★ Stars: 125
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 125 | 398 | 
 | 2022-11-17 | 125 | 399 | 
 | 2022-11-16 | 123 | 398 | 
 | 2022-11-15 | 122 | 398 | 

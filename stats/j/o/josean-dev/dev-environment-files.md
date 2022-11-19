@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 18
 
-☋ Forks: 114
+☋ Forks: 116
 
-★ Stars: 282
+★ Stars: 287
 
 [Open repository](https://github.com/josean-dev/dev-environment-files)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-18 | 282 | 114 | 
+| 2022-11-18 | 287 | 116 | 
 | 2022-11-17 | 282 | 114 | 
 | 2022-11-16 | 276 | 115 | 
 | 2022-11-15 | 267 | 106 | 

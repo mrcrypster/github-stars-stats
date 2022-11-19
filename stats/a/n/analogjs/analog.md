@@ -1,10 +1,10 @@
 # analogjs/analog - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 35
 
-★ Stars: 504
+★ Stars: 511
 
 [Open repository](https://github.com/analogjs/analog)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 511 | 35 | 
 | 2022-11-17 | 504 | 35 | 
 | 2022-11-16 | 504 | 35 | 
 | 2022-11-15 | 492 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 401 | 30 | 
 | 2022-10-21 | 395 | 30 | 
 | 2022-10-20 | 392 | 29 | 
-| 2022-10-19 | 391 | 29 | 
 

@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 18
 
 ☋ Forks: 1
 
-★ Stars: 38
+★ Stars: 39
 
 [Open repository](https://github.com/IllustratedMan-code/make-help)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-18 | 38 | 1 | 
+| 2022-11-18 | 39 | 1 | 
 | 2022-11-17 | 38 | 1 | 
 

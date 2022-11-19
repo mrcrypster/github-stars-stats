@@ -1,6 +1,6 @@
 # Azure/caf-terraform-landingzones - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 549
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 616 | 549 | 
 | 2022-11-17 | 616 | 549 | 
 | 2022-11-16 | 615 | 549 | 
 | 2022-11-15 | 615 | 550 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 609 | 544 | 
 | 2022-10-21 | 609 | 544 | 
 | 2022-10-20 | 609 | 542 | 
-| 2022-10-19 | 609 | 543 | 
 

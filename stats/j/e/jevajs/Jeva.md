@@ -1,10 +1,10 @@
 # jevajs/Jeva - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
-☋ Forks: 1382
+☋ Forks: 1384
 
-★ Stars: 180
+★ Stars: 181
 
 [Open repository](https://github.com/jevajs/Jeva)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 181 | 1384 | 
 | 2022-11-17 | 180 | 1382 | 
 | 2022-11-16 | 179 | 1382 | 
 | 2022-11-15 | 179 | 1383 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 178 | 1375 | 
 | 2022-10-21 | 178 | 1374 | 
 | 2022-10-20 | 178 | 1374 | 
-| 2022-10-19 | 178 | 1374 | 
 

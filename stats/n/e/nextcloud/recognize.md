@@ -1,10 +1,10 @@
 # nextcloud/recognize - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 22
 
-★ Stars: 207
+★ Stars: 208
 
 [Open repository](https://github.com/nextcloud/recognize)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 208 | 22 | 
 | 2022-11-17 | 207 | 22 | 
 | 2022-11-16 | 205 | 22 | 
 | 2022-11-15 | 205 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 166 | 20 | 
 | 2022-10-21 | 164 | 20 | 
 | 2022-10-20 | 161 | 19 | 
-| 2022-10-19 | 157 | 18 | 
 

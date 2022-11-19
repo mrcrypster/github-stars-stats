@@ -1,10 +1,10 @@
 # soketi/soketi - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 128
 
-★ Stars: 3067
+★ Stars: 3073
 
 [Open repository](https://github.com/soketi/soketi)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 3073 | 128 | 
 | 2022-11-17 | 3067 | 128 | 
 | 2022-11-16 | 3064 | 128 | 
 | 2022-11-15 | 3059 | 129 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 2949 | 125 | 
 | 2022-10-21 | 2948 | 125 | 
 | 2022-10-20 | 2944 | 124 | 
-| 2022-10-19 | 2938 | 123 | 
 

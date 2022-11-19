@@ -1,10 +1,10 @@
 # briandelmsft/SentinelAutomationModules - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 16
 
-★ Stars: 68
+★ Stars: 69
 
 [Open repository](https://github.com/briandelmsft/SentinelAutomationModules)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 69 | 16 | 
 | 2022-11-17 | 68 | 16 | 
 | 2022-11-16 | 66 | 16 | 
 | 2022-11-15 | 62 | 16 | 

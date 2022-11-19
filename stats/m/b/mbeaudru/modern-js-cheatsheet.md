@@ -1,10 +1,10 @@
 # mbeaudru/modern-js-cheatsheet - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
-☋ Forks: 2740
+☋ Forks: 2741
 
-★ Stars: 23653
+★ Stars: 23658
 
 [Open repository](https://github.com/mbeaudru/modern-js-cheatsheet)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 23658 | 2741 | 
 | 2022-11-17 | 23653 | 2740 | 
 | 2022-11-16 | 23651 | 2738 | 
 | 2022-11-15 | 23647 | 2734 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 23556 | 2719 | 
 | 2022-10-21 | 23555 | 2717 | 
 | 2022-10-20 | 23549 | 2712 | 
-| 2022-10-19 | 23548 | 2711 | 
 

@@ -1,6 +1,6 @@
 # OpenXiangShan/XiangShan - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 382
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 3098 | 382 | 
 | 2022-11-17 | 3098 | 382 | 
 | 2022-11-16 | 3096 | 381 | 
 | 2022-11-15 | 3094 | 381 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 3062 | 376 | 
 | 2022-10-21 | 3061 | 376 | 
 | 2022-10-20 | 3061 | 376 | 
-| 2022-10-19 | 3060 | 375 | 
 

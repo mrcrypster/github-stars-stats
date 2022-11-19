@@ -1,10 +1,10 @@
 # nix-community/poetry2nix - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
-☋ Forks: 166
+☋ Forks: 165
 
-★ Stars: 383
+★ Stars: 384
 
 [Open repository](https://github.com/nix-community/poetry2nix)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 384 | 165 | 
 | 2022-11-17 | 383 | 166 | 
 | 2022-11-16 | 383 | 165 | 
 | 2022-11-15 | 382 | 165 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 376 | 157 | 
 | 2022-10-21 | 375 | 157 | 
 | 2022-10-20 | 375 | 157 | 
-| 2022-10-19 | 375 | 155 | 
 

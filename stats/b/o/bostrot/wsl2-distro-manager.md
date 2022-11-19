@@ -1,10 +1,10 @@
 # bostrot/wsl2-distro-manager - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 37
 
-★ Stars: 352
+★ Stars: 353
 
 [Open repository](https://github.com/bostrot/wsl2-distro-manager)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 353 | 37 | 
 | 2022-11-17 | 352 | 37 | 
 | 2022-11-16 | 352 | 37 | 
 | 2022-11-15 | 349 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 335 | 35 | 
 | 2022-10-21 | 333 | 35 | 
 | 2022-10-20 | 333 | 35 | 
-| 2022-10-19 | 332 | 35 | 
 

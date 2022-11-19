@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 18
 
 ☋ Forks: 1
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/crytic/echidna-streaming-series)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-18 | 19 | 1 | 
+| 2022-11-18 | 20 | 1 | 
 | 2022-11-17 | 19 | 1 | 
 

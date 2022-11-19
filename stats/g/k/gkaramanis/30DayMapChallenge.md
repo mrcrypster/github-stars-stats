@@ -1,10 +1,10 @@
 # gkaramanis/30DayMapChallenge - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 7
 
-★ Stars: 48
+★ Stars: 49
 
 [Open repository](https://github.com/gkaramanis/30DayMapChallenge)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 49 | 7 | 
 | 2022-11-17 | 48 | 7 | 
 | 2022-11-16 | 48 | 7 | 
 | 2022-11-15 | 46 | 7 | 

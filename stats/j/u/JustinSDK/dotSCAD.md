@@ -1,10 +1,10 @@
 # JustinSDK/dotSCAD - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
-☋ Forks: 74
+☋ Forks: 75
 
-★ Stars: 584
+★ Stars: 588
 
 [Open repository](https://github.com/JustinSDK/dotSCAD)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 588 | 75 | 
 | 2022-11-17 | 584 | 74 | 
 | 2022-11-16 | 583 | 74 | 
 | 2022-11-15 | 583 | 74 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 578 | 73 | 
 | 2022-10-21 | 578 | 73 | 
 | 2022-10-20 | 578 | 73 | 
-| 2022-10-19 | 578 | 73 | 
 

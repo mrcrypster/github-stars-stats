@@ -1,10 +1,10 @@
 # mttaggart/OffensiveNotion - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 82
 
-★ Stars: 740
+★ Stars: 741
 
 [Open repository](https://github.com/mttaggart/OffensiveNotion)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 741 | 82 | 
 | 2022-11-17 | 740 | 82 | 
 | 2022-11-16 | 740 | 82 | 
 | 2022-11-15 | 739 | 82 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 723 | 81 | 
 | 2022-10-21 | 723 | 81 | 
 | 2022-10-20 | 722 | 81 | 
-| 2022-10-19 | 722 | 81 | 
 

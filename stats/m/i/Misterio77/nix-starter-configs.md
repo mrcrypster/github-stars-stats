@@ -1,10 +1,10 @@
 # Misterio77/nix-starter-configs - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 8
 
-★ Stars: 238
+★ Stars: 243
 
 [Open repository](https://github.com/Misterio77/nix-starter-configs)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 243 | 8 | 
 | 2022-11-17 | 238 | 8 | 
 | 2022-11-16 | 237 | 8 | 
 | 2022-11-15 | 235 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 191 | 6 | 
 | 2022-10-21 | 191 | 6 | 
 | 2022-10-20 | 191 | 6 | 
-| 2022-10-19 | 189 | 5 | 
 

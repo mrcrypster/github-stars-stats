@@ -1,10 +1,10 @@
 # itgoyo/TelegramGroup - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 329
+☋ Forks: 330
 
-★ Stars: 3580
+★ Stars: 3589
 
 [Open repository](https://github.com/itgoyo/TelegramGroup)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 3589 | 330 | 
 | 2022-11-18 | 3580 | 329 | 
 | 2022-11-17 | 3572 | 328 | 
 | 2022-11-15 | 3558 | 328 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-22 | 3234 | 312 | 
 | 2022-10-21 | 3228 | 312 | 
 | 2022-10-20 | 3221 | 309 | 
-| 2022-10-19 | 3219 | 309 | 
 

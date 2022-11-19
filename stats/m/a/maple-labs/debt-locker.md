@@ -1,6 +1,6 @@
 # maple-labs/debt-locker - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 6 | - | 
 | 2022-11-17 | 6 | - | 
 | 2022-11-15 | 5 | - | 
 | 2022-11-14 | 5 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 4 | - | 
 | 2022-10-21 | 4 | - | 
 | 2022-10-20 | 4 | - | 
-| 2022-10-19 | 4 | - | 
 

@@ -1,6 +1,6 @@
 # Anuken/animdustry - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 173 | 9 | 
 | 2022-11-17 | 173 | 9 | 
 | 2022-11-16 | 173 | 9 | 
 | 2022-11-15 | 173 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 171 | 9 | 
 | 2022-10-21 | 171 | 9 | 
 | 2022-10-20 | 171 | 9 | 
-| 2022-10-19 | 171 | 9 | 
 

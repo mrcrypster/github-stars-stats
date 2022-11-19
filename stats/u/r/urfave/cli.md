@@ -1,10 +1,10 @@
 # urfave/cli - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
-☋ Forks: 1634
+☋ Forks: 1635
 
-★ Stars: 19297
+★ Stars: 19300
 
 [Open repository](https://github.com/urfave/cli)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 19300 | 1635 | 
 | 2022-11-17 | 19297 | 1634 | 
 | 2022-11-16 | 19290 | 1634 | 
 | 2022-11-15 | 19289 | 1632 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 19163 | 1627 | 
 | 2022-10-21 | 19159 | 1627 | 
 | 2022-10-20 | 19157 | 1626 | 
-| 2022-10-19 | 19150 | 1625 | 
 

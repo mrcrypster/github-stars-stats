@@ -1,6 +1,6 @@
 # ekzhang/redis-rope - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 102 | 1 | 
 | 2022-11-17 | 102 | 1 | 
 | 2022-11-16 | 102 | 1 | 
 | 2022-11-15 | 102 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-23 | 102 | 1 | 
 | 2022-10-22 | 102 | 1 | 
 | 2022-10-21 | 102 | 1 | 
-| 2022-10-20 | 102 | 1 | 
 

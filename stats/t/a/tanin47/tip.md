@@ -1,10 +1,10 @@
 # tanin47/tip - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 28
 
-★ Stars: 904
+★ Stars: 903
 
 [Open repository](https://github.com/tanin47/tip)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 903 | 28 | 
 | 2022-11-17 | 904 | 28 | 
 | 2022-11-16 | 904 | 28 | 
 | 2022-11-15 | 904 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 898 | 28 | 
 | 2022-10-21 | 898 | 28 | 
 | 2022-10-20 | 898 | 28 | 
-| 2022-10-19 | 897 | 28 | 
 

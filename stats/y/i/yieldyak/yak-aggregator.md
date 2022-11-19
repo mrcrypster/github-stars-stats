@@ -1,6 +1,6 @@
 # yieldyak/yak-aggregator - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 56 | 24 | 
 | 2022-11-17 | 56 | 24 | 
 | 2022-11-16 | 56 | 24 | 
 | 2022-11-15 | 56 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 53 | 22 | 
 | 2022-10-21 | 53 | 22 | 
 | 2022-10-20 | 53 | 22 | 
-| 2022-10-19 | 53 | 22 | 
 

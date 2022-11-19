@@ -1,6 +1,6 @@
 # claranet/terraform-aws-lambda - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 126
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 158 | 126 | 
 | 2022-11-17 | 158 | 126 | 
 | 2022-11-16 | 158 | 126 | 
 | 2022-11-15 | 158 | 126 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 158 | 126 | 
 | 2022-10-21 | 158 | 126 | 
 | 2022-10-20 | 158 | 126 | 
-| 2022-10-19 | 158 | 126 | 
 

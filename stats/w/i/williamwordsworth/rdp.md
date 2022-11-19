@@ -1,10 +1,8 @@
 # williamwordsworth/rdp - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+☋ Forks: 
 
-☋ Forks: 280
-
-★ Stars: 2
+★ Stars: 
 
 [Open repository](https://github.com/williamwordsworth/rdp)
 
@@ -13,5 +11,4 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-19 | 2 | 280 | 
 

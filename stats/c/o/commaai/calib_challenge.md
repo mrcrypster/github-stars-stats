@@ -1,10 +1,10 @@
 # commaai/calib_challenge - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 176
 
-★ Stars: 658
+★ Stars: 659
 
 [Open repository](https://github.com/commaai/calib_challenge)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 659 | 176 | 
 | 2022-11-17 | 658 | 176 | 
 | 2022-11-16 | 656 | 176 | 
 | 2022-11-15 | 656 | 176 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 655 | 173 | 
 | 2022-10-21 | 653 | 173 | 
 | 2022-10-20 | 653 | 173 | 
-| 2022-10-19 | 653 | 173 | 
 

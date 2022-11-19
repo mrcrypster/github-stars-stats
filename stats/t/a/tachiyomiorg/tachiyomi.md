@@ -1,10 +1,10 @@
 # tachiyomiorg/tachiyomi - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
-☋ Forks: 2291
+☋ Forks: 2296
 
-★ Stars: 19687
+★ Stars: 19699
 
 [Open repository](https://github.com/tachiyomiorg/tachiyomi)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 19699 | 2296 | 
 | 2022-11-17 | 19687 | 2291 | 
 | 2022-11-16 | 19671 | 2292 | 
 | 2022-11-15 | 19657 | 2291 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 19191 | 2265 | 
 | 2022-10-21 | 19177 | 2264 | 
 | 2022-10-20 | 19165 | 2263 | 
-| 2022-10-19 | 19148 | 2262 | 
 

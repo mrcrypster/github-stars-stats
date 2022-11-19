@@ -1,6 +1,6 @@
 # MicrosoftDocs/microsoft-365-docs-pr.zh-CN - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 10 | 11 | 
 | 2022-11-17 | 10 | 11 | 
 | 2022-11-16 | 10 | 11 | 
 | 2022-11-15 | 10 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-23 | 10 | 11 | 
 | 2022-10-22 | 10 | 11 | 
 | 2022-10-21 | 10 | 11 | 
-| 2022-10-20 | 10 | 11 | 
 

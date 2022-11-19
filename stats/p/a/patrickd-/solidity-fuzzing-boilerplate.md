@@ -1,6 +1,6 @@
 # patrickd-/solidity-fuzzing-boilerplate - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 136 | 11 | 
 | 2022-11-17 | 136 | 11 | 
 | 2022-11-16 | 136 | 11 | 
 | 2022-11-15 | 136 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-23 | 136 | 9 | 
 | 2022-10-22 | 136 | 9 | 
 | 2022-10-21 | 135 | 9 | 
-| 2022-10-20 | 135 | 9 | 
 

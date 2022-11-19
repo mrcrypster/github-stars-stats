@@ -1,10 +1,10 @@
 # IbrahimSobh/Segmentation - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 9
 
-★ Stars: 59
+★ Stars: 60
 
 [Open repository](https://github.com/IbrahimSobh/Segmentation)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 60 | 9 | 
 | 2022-11-17 | 59 | 9 | 
 | 2022-11-16 | 59 | 9 | 
 | 2022-11-15 | 59 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 60 | 9 | 
 | 2022-10-21 | 60 | 9 | 
 | 2022-10-20 | 60 | 9 | 
-| 2022-10-19 | 60 | 9 | 
 

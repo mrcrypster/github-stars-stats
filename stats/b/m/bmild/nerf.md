@@ -1,10 +1,10 @@
 # bmild/nerf - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
-☋ Forks: 931
+☋ Forks: 933
 
-★ Stars: 6228
+★ Stars: 6235
 
 [Open repository](https://github.com/bmild/nerf)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 6235 | 933 | 
 | 2022-11-17 | 6228 | 931 | 
 | 2022-11-16 | 6213 | 929 | 
 | 2022-11-15 | 6204 | 927 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 6020 | 899 | 
 | 2022-10-21 | 6019 | 899 | 
 | 2022-10-20 | 6011 | 898 | 
-| 2022-10-19 | 5998 | 894 | 
 

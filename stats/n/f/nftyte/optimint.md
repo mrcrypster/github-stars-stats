@@ -1,10 +1,10 @@
 # nftyte/optimint - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 0
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/nftyte/optimint)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 28 | - | 
 | 2022-11-17 | 27 | - | 
 | 2022-11-16 | 27 | - | 
 | 2022-11-15 | 27 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 27 | - | 
 | 2022-10-21 | 27 | - | 
 | 2022-10-20 | 27 | - | 
-| 2022-10-19 | 27 | - | 
 

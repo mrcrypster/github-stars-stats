@@ -1,6 +1,6 @@
 # Studiosity/grover - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 551 | 62 | 
 | 2022-11-17 | 551 | 62 | 
 | 2022-11-16 | 551 | 61 | 
 | 2022-11-15 | 551 | 61 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 545 | 59 | 
 | 2022-10-21 | 545 | 59 | 
 | 2022-10-20 | 543 | 59 | 
-| 2022-10-19 | 542 | 59 | 
 

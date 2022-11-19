@@ -1,10 +1,10 @@
 # symfony/dependency-injection - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 84
 
-★ Stars: 3830
+★ Stars: 3828
 
 [Open repository](https://github.com/symfony/dependency-injection)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 3828 | 84 | 
 | 2022-11-17 | 3830 | 84 | 
 | 2022-11-16 | 3830 | 84 | 
 | 2022-11-15 | 3828 | 84 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 3816 | 84 | 
 | 2022-10-21 | 3816 | 84 | 
 | 2022-10-20 | 3816 | 84 | 
-| 2022-10-19 | 3815 | 84 | 
 

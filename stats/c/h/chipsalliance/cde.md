@@ -1,10 +1,10 @@
 # chipsalliance/cde - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 15
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/chipsalliance/cde)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 24 | 15 | 
 | 2022-11-17 | 23 | 15 | 
 | 2022-11-16 | 22 | 14 | 
 | 2022-11-15 | 22 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 21 | 14 | 
 | 2022-10-21 | 21 | 14 | 
 | 2022-10-20 | 21 | 14 | 
-| 2022-10-19 | 19 | 14 | 
 

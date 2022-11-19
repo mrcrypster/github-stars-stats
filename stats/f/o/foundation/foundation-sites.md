@@ -1,6 +1,6 @@
 # foundation/foundation-sites - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 5636
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 29340 | 5636 | 
 | 2022-11-17 | 29340 | 5636 | 
 | 2022-11-16 | 29339 | 5636 | 
 | 2022-11-15 | 29339 | 5636 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 29319 | 5633 | 
 | 2022-10-21 | 29320 | 5634 | 
 | 2022-10-20 | 29319 | 5636 | 
-| 2022-10-19 | 29319 | 5635 | 
 

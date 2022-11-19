@@ -1,6 +1,6 @@
 # cli-guidelines/cli-guidelines - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 70
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 1988 | 70 | 
 | 2022-11-17 | 1988 | 70 | 
 | 2022-11-16 | 1987 | 70 | 
 | 2022-11-15 | 1986 | 70 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 1964 | 70 | 
 | 2022-10-21 | 1962 | 70 | 
 | 2022-10-20 | 1960 | 70 | 
-| 2022-10-19 | 1959 | 70 | 
 

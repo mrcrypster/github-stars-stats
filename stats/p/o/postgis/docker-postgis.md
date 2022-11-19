@@ -1,10 +1,10 @@
 # postgis/docker-postgis - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
-☋ Forks: 428
+☋ Forks: 429
 
-★ Stars: 1044
+★ Stars: 1045
 
 [Open repository](https://github.com/postgis/docker-postgis)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 1045 | 429 | 
 | 2022-11-17 | 1044 | 428 | 
 | 2022-11-16 | 1044 | 428 | 
 | 2022-11-15 | 1043 | 429 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 1035 | 423 | 
 | 2022-10-21 | 1035 | 423 | 
 | 2022-10-20 | 1034 | 423 | 
-| 2022-10-19 | 1033 | 423 | 
 

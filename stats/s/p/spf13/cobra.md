@@ -1,10 +1,10 @@
 # spf13/cobra - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
-☋ Forks: 2553
+☋ Forks: 2552
 
-★ Stars: 29565
+★ Stars: 29582
 
 [Open repository](https://github.com/spf13/cobra)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 29582 | 2552 | 
 | 2022-11-17 | 29565 | 2553 | 
 | 2022-11-16 | 29518 | 2546 | 
 | 2022-11-15 | 29486 | 2544 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 29123 | 2528 | 
 | 2022-10-21 | 29114 | 2526 | 
 | 2022-10-20 | 29098 | 2521 | 
-| 2022-10-19 | 29079 | 2515 | 
 

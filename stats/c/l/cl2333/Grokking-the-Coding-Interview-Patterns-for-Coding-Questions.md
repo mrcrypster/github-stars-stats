@@ -1,10 +1,10 @@
 # cl2333/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
-☋ Forks: 950
+☋ Forks: 951
 
-★ Stars: 2535
+★ Stars: 2536
 
 [Open repository](https://github.com/cl2333/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 2536 | 951 | 
 | 2022-11-17 | 2535 | 950 | 
 | 2022-11-16 | 2533 | 950 | 
 | 2022-11-15 | 2531 | 946 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 2459 | 916 | 
 | 2022-10-21 | 2457 | 916 | 
 | 2022-10-20 | 2454 | 915 | 
-| 2022-10-19 | 2454 | 915 | 
 

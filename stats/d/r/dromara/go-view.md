@@ -1,10 +1,10 @@
 # dromara/go-view - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 15
 
-★ Stars: 52
+★ Stars: 54
 
 [Open repository](https://github.com/dromara/go-view)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 54 | 15 | 
 | 2022-11-17 | 52 | 15 | 
 | 2022-11-16 | 52 | 15 | 
 | 2022-11-15 | 52 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 39 | 12 | 
 | 2022-10-21 | 39 | 12 | 
 | 2022-10-20 | 39 | 12 | 
-| 2022-10-19 | 39 | 11 | 
 

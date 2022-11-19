@@ -1,10 +1,10 @@
 # dom96/jester - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 109
 
-★ Stars: 1373
+★ Stars: 1374
 
 [Open repository](https://github.com/dom96/jester)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 1374 | 109 | 
 | 2022-11-17 | 1373 | 109 | 
 | 2022-11-16 | 1372 | 109 | 
 | 2022-11-15 | 1369 | 109 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-23 | 1348 | 109 | 
 | 2022-10-21 | 1348 | 109 | 
 | 2022-10-20 | 1348 | 109 | 
-| 2022-10-19 | 1348 | 109 | 
 

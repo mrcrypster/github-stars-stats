@@ -1,10 +1,10 @@
 # leanprover/lean4 - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
-☋ Forks: 177
+☋ Forks: 178
 
-★ Stars: 1902
+★ Stars: 1903
 
 [Open repository](https://github.com/leanprover/lean4)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 1903 | 178 | 
 | 2022-11-17 | 1902 | 177 | 
 | 2022-11-16 | 1901 | 177 | 
 | 2022-11-15 | 1899 | 177 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 1859 | 174 | 
 | 2022-10-21 | 1859 | 173 | 
 | 2022-10-20 | 1857 | 173 | 
-| 2022-10-19 | 1855 | 173 | 
 

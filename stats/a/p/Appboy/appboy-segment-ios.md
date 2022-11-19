@@ -1,6 +1,6 @@
 # Appboy/appboy-segment-ios - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 13 | 40 | 
 | 2022-11-17 | 13 | 40 | 
 | 2022-11-16 | 13 | 40 | 
 | 2022-11-15 | 13 | 40 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 11 | 40 | 
 | 2022-10-21 | 11 | 40 | 
 | 2022-10-20 | 11 | 40 | 
-| 2022-10-19 | 11 | 40 | 
 

@@ -1,10 +1,10 @@
 # alibaba/EasyNLP - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
-☋ Forks: 145
+☋ Forks: 149
 
-★ Stars: 1212
+★ Stars: 1215
 
 [Open repository](https://github.com/alibaba/EasyNLP)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 1215 | 149 | 
 | 2022-11-17 | 1212 | 145 | 
 | 2022-11-16 | 1206 | 144 | 
 | 2022-11-15 | 1200 | 144 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 1133 | 129 | 
 | 2022-10-21 | 1131 | 129 | 
 | 2022-10-20 | 1125 | 129 | 
-| 2022-10-19 | 1118 | 129 | 
 

@@ -1,10 +1,10 @@
 # cloudbees/jenkins-scripts - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 376
 
-★ Stars: 604
+★ Stars: 605
 
 [Open repository](https://github.com/cloudbees/jenkins-scripts)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 605 | 376 | 
 | 2022-11-17 | 604 | 376 | 
 | 2022-11-16 | 604 | 376 | 
 | 2022-11-15 | 604 | 376 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 602 | 372 | 
 | 2022-10-21 | 602 | 372 | 
 | 2022-10-20 | 602 | 372 | 
-| 2022-10-19 | 602 | 372 | 
 

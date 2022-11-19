@@ -1,10 +1,10 @@
 # dlang/dub - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 227
 
-★ Stars: 607
+★ Stars: 608
 
 [Open repository](https://github.com/dlang/dub)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 608 | 227 | 
 | 2022-11-17 | 607 | 227 | 
 | 2022-11-16 | 607 | 227 | 
 | 2022-11-15 | 607 | 227 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-23 | 603 | 228 | 
 | 2022-10-22 | 603 | 228 | 
 | 2022-10-21 | 603 | 228 | 
-| 2022-10-20 | 603 | 228 | 
 

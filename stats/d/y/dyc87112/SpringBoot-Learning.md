@@ -1,10 +1,10 @@
 # dyc87112/SpringBoot-Learning - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
-☋ Forks: 4804
+☋ Forks: 4805
 
-★ Stars: 14841
+★ Stars: 14842
 
 [Open repository](https://github.com/dyc87112/SpringBoot-Learning)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 14842 | 4805 | 
 | 2022-11-17 | 14841 | 4804 | 
 | 2022-11-16 | 14839 | 4804 | 
 | 2022-11-15 | 14837 | 4803 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 14797 | 4793 | 
 | 2022-10-21 | 14794 | 4794 | 
 | 2022-10-20 | 14792 | 4793 | 
-| 2022-10-19 | 14792 | 4792 | 
 

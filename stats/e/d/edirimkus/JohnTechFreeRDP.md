@@ -1,10 +1,8 @@
 # edirimkus/JohnTechFreeRDP - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+☋ Forks: 
 
-☋ Forks: 85
-
-★ Stars: 1
+★ Stars: 
 
 [Open repository](https://github.com/edirimkus/JohnTechFreeRDP)
 
@@ -13,5 +11,4 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-19 | 1 | 85 | 
 

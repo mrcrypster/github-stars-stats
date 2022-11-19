@@ -1,10 +1,10 @@
 # pulp-platform/riscv-dbg - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 57
 
-★ Stars: 118
+★ Stars: 119
 
 [Open repository](https://github.com/pulp-platform/riscv-dbg)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 119 | 57 | 
 | 2022-11-17 | 118 | 57 | 
 | 2022-11-16 | 118 | 57 | 
 | 2022-11-15 | 118 | 57 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 111 | 57 | 
 | 2022-10-21 | 111 | 57 | 
 | 2022-10-20 | 110 | 57 | 
-| 2022-10-19 | 110 | 57 | 
 

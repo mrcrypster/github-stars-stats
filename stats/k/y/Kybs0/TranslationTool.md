@@ -1,10 +1,10 @@
 # Kybs0/TranslationTool - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 17
 
-★ Stars: 23
+★ Stars: 25
 
 [Open repository](https://github.com/Kybs0/TranslationTool)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 25 | 17 | 
 | 2022-11-17 | 23 | 17 | 
 | 2022-11-16 | 22 | 16 | 
 

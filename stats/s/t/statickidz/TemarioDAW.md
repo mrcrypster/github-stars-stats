@@ -1,10 +1,10 @@
 # statickidz/TemarioDAW - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 213
 
-★ Stars: 408
+★ Stars: 409
 
 [Open repository](https://github.com/statickidz/TemarioDAW)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 409 | 213 | 
 | 2022-11-17 | 408 | 213 | 
 | 2022-11-16 | 408 | 212 | 
 | 2022-11-15 | 408 | 213 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 398 | 205 | 
 | 2022-10-21 | 398 | 205 | 
 | 2022-10-20 | 397 | 205 | 
-| 2022-10-19 | 396 | 205 | 
 

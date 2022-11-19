@@ -1,10 +1,10 @@
 # Listenbourg/ListenPASS - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 6
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/Listenbourg/ListenPASS)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 35 | 6 | 
 | 2022-11-17 | 34 | 6 | 
 | 2022-11-16 | 34 | 6 | 
 | 2022-11-15 | 34 | 6 | 

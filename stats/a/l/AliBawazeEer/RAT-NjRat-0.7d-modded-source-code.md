@@ -1,10 +1,10 @@
 # AliBawazeEer/RAT-NjRat-0.7d-modded-source-code - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 355
 
-★ Stars: 354
+★ Stars: 355
 
 [Open repository](https://github.com/AliBawazeEer/RAT-NjRat-0.7d-modded-source-code)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 355 | 355 | 
 | 2022-11-17 | 354 | 355 | 
 | 2022-11-16 | 354 | 355 | 
 | 2022-11-15 | 354 | 355 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 355 | 349 | 
 | 2022-10-21 | 355 | 349 | 
 | 2022-10-20 | 355 | 349 | 
-| 2022-10-19 | 355 | 349 | 
 

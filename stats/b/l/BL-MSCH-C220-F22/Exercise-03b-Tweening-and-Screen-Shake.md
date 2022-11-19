@@ -1,8 +1,8 @@
 # BL-MSCH-C220-F22/Exercise-03b-Tweening-and-Screen-Shake - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
-☋ Forks: 45
+☋ Forks: 46
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | - | 46 | 
 | 2022-11-17 | - | 45 | 
 | 2022-11-16 | - | 44 | 
 | 2022-11-15 | - | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | - | 43 | 
 | 2022-10-21 | - | 43 | 
 | 2022-10-20 | - | 43 | 
-| 2022-10-19 | - | 43 | 
 

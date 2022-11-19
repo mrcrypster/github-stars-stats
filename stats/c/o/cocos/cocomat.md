@@ -1,10 +1,10 @@
 # cocos/cocomat - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 52
 
-★ Stars: 136
+★ Stars: 137
 
 [Open repository](https://github.com/cocos/cocomat)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 137 | 52 | 
 | 2022-11-18 | 136 | 52 | 
 | 2022-11-16 | 136 | 52 | 
 | 2022-11-15 | 136 | 52 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-22 | 135 | 50 | 
 | 2022-10-21 | 135 | 50 | 
 | 2022-10-20 | 135 | 50 | 
-| 2022-10-19 | 135 | 50 | 
 

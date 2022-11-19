@@ -1,10 +1,10 @@
 # dharmikumbhani/buidl.so-frontend-test - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 33
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/dharmikumbhani/buidl.so-frontend-test)
 
@@ -13,5 +13,6 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 22 | 33 | 
 | 2022-11-17 | 21 | 33 | 
 

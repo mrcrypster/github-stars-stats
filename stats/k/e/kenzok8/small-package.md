@@ -1,10 +1,10 @@
 # kenzok8/small-package - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
-☋ Forks: 372
+☋ Forks: 374
 
-★ Stars: 486
+★ Stars: 489
 
 [Open repository](https://github.com/kenzok8/small-package)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 489 | 374 | 
 | 2022-11-17 | 486 | 372 | 
 | 2022-11-16 | 484 | 371 | 
 | 2022-11-15 | 481 | 372 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 446 | 352 | 
 | 2022-10-21 | 445 | 352 | 
 | 2022-10-20 | 443 | 351 | 
-| 2022-10-19 | 443 | 351 | 
 

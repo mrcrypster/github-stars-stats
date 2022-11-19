@@ -1,6 +1,6 @@
 # iskdrews/awesome-solidity-gas-optimization - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 70
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 852 | 70 | 
+| 2022-11-18 | 852 | 70 | 
 | 2022-11-17 | 852 | 70 | 
 | 2022-11-16 | 847 | 70 | 
 | 2022-11-15 | 847 | 70 | 
@@ -41,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 827 | 66 | 
 | 2022-10-21 | 825 | 66 | 
 | 2022-10-20 | 823 | 66 | 
-| 2022-10-19 | 818 | 66 | 
 

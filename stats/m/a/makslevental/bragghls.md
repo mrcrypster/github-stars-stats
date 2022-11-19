@@ -1,6 +1,6 @@
 # makslevental/bragghls - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 34 | 5 | 
 | 2022-11-17 | 34 | 5 | 
 | 2022-11-16 | 34 | 5 | 
 | 2022-11-15 | 34 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 30 | 5 | 
 | 2022-10-21 | 30 | 5 | 
 | 2022-10-20 | 30 | 5 | 
-| 2022-10-19 | 30 | 5 | 
 

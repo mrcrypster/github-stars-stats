@@ -1,6 +1,6 @@
 # tocttou/hacker-blog - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 443
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 238 | 443 | 
 | 2022-11-17 | 238 | 443 | 
 | 2022-11-16 | 237 | 443 | 
 | 2022-11-15 | 236 | 444 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-23 | 237 | 433 | 
 | 2022-10-22 | 237 | 434 | 
 | 2022-10-21 | 237 | 434 | 
-| 2022-10-20 | 237 | 434 | 
 

@@ -1,10 +1,10 @@
 # matrix-org/synapse - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 1884
 
-★ Stars: 10164
+★ Stars: 10171
 
 [Open repository](https://github.com/matrix-org/synapse)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 10171 | 1884 | 
 | 2022-11-18 | 10164 | 1884 | 
 | 2022-11-16 | 10158 | 1883 | 
 | 2022-11-15 | 10152 | 1881 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-22 | 10048 | 1871 | 
 | 2022-10-21 | 10048 | 1870 | 
 | 2022-10-20 | 10044 | 1870 | 
-| 2022-10-19 | 10042 | 1871 | 
 

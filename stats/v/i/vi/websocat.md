@@ -1,10 +1,10 @@
 # vi/websocat - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 195
 
-★ Stars: 4765
+★ Stars: 4768
 
 [Open repository](https://github.com/vi/websocat)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 4768 | 195 | 
 | 2022-11-17 | 4765 | 195 | 
 | 2022-11-16 | 4760 | 195 | 
 | 2022-11-15 | 4756 | 195 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 4690 | 194 | 
 | 2022-10-21 | 4689 | 194 | 
 | 2022-10-20 | 4687 | 194 | 
-| 2022-10-19 | 4683 | 194 | 
 

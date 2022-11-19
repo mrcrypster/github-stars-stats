@@ -1,10 +1,10 @@
 # taviso/wpunix - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 9
 
-★ Stars: 282
+★ Stars: 283
 
 [Open repository](https://github.com/taviso/wpunix)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 283 | 9 | 
 | 2022-11-17 | 282 | 9 | 
 | 2022-11-16 | 282 | 9 | 
 | 2022-11-15 | 281 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-23 | 275 | 9 | 
 | 2022-10-22 | 275 | 9 | 
 | 2022-10-21 | 275 | 9 | 
-| 2022-10-20 | 275 | 9 | 
 

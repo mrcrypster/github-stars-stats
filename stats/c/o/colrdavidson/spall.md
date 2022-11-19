@@ -1,10 +1,10 @@
 # colrdavidson/spall - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 2
 
-★ Stars: 55
+★ Stars: 58
 
 [Open repository](https://github.com/colrdavidson/spall)
 
@@ -13,7 +13,8 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-18 | 55 | 2 | 
+| 2022-11-19 | 58 | 2 | 
+| 2022-11-18 | 58 | 2 | 
 | 2022-11-16 | 51 | 2 | 
 | 2022-11-15 | 44 | 2 | 
 | 2022-11-14 | 44 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-22 | 32 | 2 | 
 | 2022-10-21 | 32 | 2 | 
 | 2022-10-20 | 32 | 2 | 
-| 2022-10-19 | 32 | 2 | 
 

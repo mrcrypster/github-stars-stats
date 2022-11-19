@@ -1,10 +1,10 @@
 # 89996462/HTTP-Catcher - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
-☋ Forks: 23
+☋ Forks: 24
 
-★ Stars: 120
+★ Stars: 121
 
 [Open repository](https://github.com/89996462/HTTP-Catcher)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 121 | 24 | 
 | 2022-11-17 | 120 | 23 | 
 | 2022-11-16 | 120 | 23 | 
 | 2022-11-15 | 121 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-23 | 103 | 15 | 
 | 2022-10-22 | 102 | 15 | 
 | 2022-10-21 | 102 | 15 | 
-| 2022-10-20 | 101 | 15 | 
 

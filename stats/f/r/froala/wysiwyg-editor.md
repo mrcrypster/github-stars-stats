@@ -1,6 +1,6 @@
 # froala/wysiwyg-editor - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 655
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 5000 | 655 | 
 | 2022-11-17 | 5000 | 655 | 
 | 2022-11-16 | 5000 | 655 | 
 | 2022-11-15 | 5000 | 654 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 4984 | 654 | 
 | 2022-10-21 | 4983 | 654 | 
 | 2022-10-20 | 4983 | 653 | 
-| 2022-10-19 | 4983 | 653 | 
 

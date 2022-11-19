@@ -1,8 +1,8 @@
 # terraform-aws-modules/terraform-aws-security-group - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
-☋ Forks: 799
+☋ Forks: 800
 
 ★ Stars: 473
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 473 | 800 | 
 | 2022-11-17 | 473 | 799 | 
 | 2022-11-16 | 473 | 798 | 
 | 2022-11-15 | 472 | 799 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 471 | 778 | 
 | 2022-10-21 | 471 | 777 | 
 | 2022-10-20 | 471 | 776 | 
-| 2022-10-19 | 471 | 775 | 
 

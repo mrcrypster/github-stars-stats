@@ -1,8 +1,8 @@
 # HKUST-Aerial-Robotics/VINS-Mono - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
-☋ Forks: 1873
+☋ Forks: 1874
 
 ★ Stars: 3897
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 3897 | 1874 | 
 | 2022-11-17 | 3897 | 1873 | 
 | 2022-11-16 | 3894 | 1873 | 
 | 2022-11-15 | 3891 | 1872 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-23 | 3848 | 1862 | 
 | 2022-10-22 | 3846 | 1862 | 
 | 2022-10-21 | 3844 | 1862 | 
-| 2022-10-20 | 3843 | 1861 | 
 

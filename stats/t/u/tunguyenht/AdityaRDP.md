@@ -1,10 +1,8 @@
 # tunguyenht/AdityaRDP - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+☋ Forks: 
 
-☋ Forks: 84
-
-★ Stars: 3
+★ Stars: 
 
 [Open repository](https://github.com/tunguyenht/AdityaRDP)
 
@@ -13,5 +11,4 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-19 | 3 | 84 | 
 

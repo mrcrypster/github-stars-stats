@@ -1,6 +1,6 @@
 # Dr-Incognito/V2Ray-Desktop - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 194
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 1336 | 194 | 
 | 2022-11-17 | 1336 | 194 | 
 | 2022-11-16 | 1335 | 193 | 
 | 2022-11-15 | 1331 | 191 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 1309 | 186 | 
 | 2022-10-21 | 1309 | 186 | 
 | 2022-10-20 | 1308 | 186 | 
-| 2022-10-19 | 1306 | 186 | 
 

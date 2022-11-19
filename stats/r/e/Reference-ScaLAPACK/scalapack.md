@@ -1,6 +1,6 @@
 # Reference-ScaLAPACK/scalapack - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 71 | 39 | 
 | 2022-11-17 | 71 | 39 | 
 | 2022-11-16 | 71 | 39 | 
 | 2022-11-14 | 71 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 69 | 39 | 
 | 2022-10-21 | 69 | 39 | 
 | 2022-10-20 | 69 | 39 | 
-| 2022-10-19 | 69 | 39 | 
 

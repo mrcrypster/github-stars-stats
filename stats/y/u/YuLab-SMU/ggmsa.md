@@ -1,6 +1,6 @@
 # YuLab-SMU/ggmsa - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 152 | 20 | 
 | 2022-11-17 | 152 | 20 | 
 | 2022-11-16 | 152 | 20 | 
 | 2022-11-15 | 152 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-23 | 151 | 20 | 
 | 2022-10-22 | 151 | 20 | 
 | 2022-10-21 | 151 | 20 | 
-| 2022-10-20 | 151 | 20 | 
 

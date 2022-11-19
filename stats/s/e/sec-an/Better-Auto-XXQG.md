@@ -1,6 +1,6 @@
 # sec-an/Better-Auto-XXQG - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 139
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 480 | 139 | 
 | 2022-11-17 | 480 | 139 | 
 | 2022-11-16 | 477 | 136 | 
 | 2022-11-15 | 476 | 136 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 441 | 127 | 
 | 2022-10-21 | 441 | 127 | 
 | 2022-10-20 | 441 | 127 | 
-| 2022-10-19 | 441 | 126 | 
 

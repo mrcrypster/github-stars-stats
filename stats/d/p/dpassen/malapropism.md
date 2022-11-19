@@ -1,10 +1,10 @@
 # dpassen/malapropism - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 1
 
-★ Stars: 15
+★ Stars: 18
 
 [Open repository](https://github.com/dpassen/malapropism)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 18 | 1 | 
 | 2022-11-17 | 15 | 1 | 
 | 2022-11-16 | 15 | 1 | 
 | 2022-11-15 | 15 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-23 | 14 | 1 | 
 | 2022-10-22 | 14 | 1 | 
 | 2022-10-21 | 14 | 1 | 
-| 2022-10-20 | 14 | 1 | 
 

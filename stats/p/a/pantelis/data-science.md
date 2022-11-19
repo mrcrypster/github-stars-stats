@@ -1,8 +1,8 @@
 # pantelis/data-science - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
-☋ Forks: 10
+☋ Forks: 9
 
 ★ Stars: 7
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 7 | 9 | 
 | 2022-11-17 | 7 | 10 | 
 | 2022-11-16 | 6 | 10 | 
 | 2022-11-15 | 6 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 6 | 10 | 
 | 2022-10-21 | 6 | 10 | 
 | 2022-10-20 | 6 | 10 | 
-| 2022-10-19 | 6 | 10 | 
 

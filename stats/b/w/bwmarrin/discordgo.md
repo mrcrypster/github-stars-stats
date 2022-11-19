@@ -1,10 +1,10 @@
 # bwmarrin/discordgo - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 750
 
-★ Stars: 3508
+★ Stars: 3511
 
 [Open repository](https://github.com/bwmarrin/discordgo)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 3511 | 750 | 
 | 2022-11-17 | 3508 | 750 | 
 | 2022-11-15 | 3505 | 749 | 
 | 2022-11-14 | 3500 | 748 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 3444 | 635 | 
 | 2022-10-21 | 3443 | 632 | 
 | 2022-10-20 | 3442 | 632 | 
-| 2022-10-19 | 3442 | 633 | 
 

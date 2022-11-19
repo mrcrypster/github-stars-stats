@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 18
 
 ☋ Forks: 444
 
-★ Stars: 2510
+★ Stars: 2515
 
 [Open repository](https://github.com/S3cur3Th1sSh1t/WinPwn)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-18 | 2510 | 444 | 
+| 2022-11-18 | 2515 | 444 | 
 | 2022-11-17 | 2510 | 444 | 
 | 2022-11-16 | 2502 | 443 | 
 | 2022-11-15 | 2490 | 443 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-22 | 2464 | 439 | 
 | 2022-10-21 | 2464 | 439 | 
 | 2022-10-20 | 2462 | 438 | 
-| 2022-10-19 | 2460 | 438 | 
 

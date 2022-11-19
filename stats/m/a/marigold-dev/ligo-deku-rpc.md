@@ -1,10 +1,10 @@
 # marigold-dev/ligo-deku-rpc - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 0
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/marigold-dev/ligo-deku-rpc)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 1 | - | 
 | 2022-11-17 | - | - | 
 | 2022-11-16 | - | - | 
 | 2022-11-15 | - | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | - | - | 
 | 2022-10-21 | - | - | 
 | 2022-10-20 | - | - | 
-| 2022-10-19 | - | - | 
 

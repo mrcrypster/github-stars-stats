@@ -1,6 +1,6 @@
 # sparanoid/path-menu - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 80 | 11 | 
 | 2022-11-17 | 80 | 11 | 
 | 2022-11-16 | 80 | 11 | 
 | 2022-11-15 | 80 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 80 | 11 | 
 | 2022-10-21 | 80 | 11 | 
 | 2022-10-20 | 80 | 11 | 
-| 2022-10-19 | 80 | 11 | 
 

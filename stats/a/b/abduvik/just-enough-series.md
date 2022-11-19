@@ -1,6 +1,6 @@
 # abduvik/just-enough-series - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 487 | 32 | 
 | 2022-11-17 | 487 | 32 | 
 | 2022-11-16 | 487 | 32 | 
 | 2022-11-15 | 487 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 485 | 32 | 
 | 2022-10-21 | 485 | 32 | 
 | 2022-10-20 | 485 | 32 | 
-| 2022-10-19 | 485 | 32 | 
 

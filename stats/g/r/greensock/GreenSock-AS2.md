@@ -1,6 +1,6 @@
 # greensock/GreenSock-AS2 - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 34 | 18 | 
 | 2022-11-17 | 34 | 18 | 
 | 2022-11-16 | 34 | 18 | 
 | 2022-11-15 | 34 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 34 | 18 | 
 | 2022-10-21 | 34 | 18 | 
 | 2022-10-20 | 34 | 18 | 
-| 2022-10-19 | 34 | 18 | 
 

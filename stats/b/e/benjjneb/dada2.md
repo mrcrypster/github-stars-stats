@@ -1,6 +1,6 @@
 # benjjneb/dada2 - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 124
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 365 | 124 | 
 | 2022-11-17 | 365 | 124 | 
 | 2022-11-16 | 365 | 124 | 
 | 2022-11-15 | 364 | 124 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 362 | 123 | 
 | 2022-10-21 | 362 | 123 | 
 | 2022-10-20 | 363 | 123 | 
-| 2022-10-19 | 363 | 123 | 
 

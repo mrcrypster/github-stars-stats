@@ -1,6 +1,6 @@
 # Czechitas-podklady-WEB/Cafe-Lora - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 96
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 1 | 96 | 
 | 2022-11-17 | 1 | 96 | 
 | 2022-11-16 | 1 | 96 | 
 | 2022-11-15 | 1 | 97 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 1 | 98 | 
 | 2022-10-21 | 1 | 98 | 
 | 2022-10-20 | 1 | 98 | 
-| 2022-10-19 | 1 | 98 | 
 

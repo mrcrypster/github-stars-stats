@@ -1,10 +1,10 @@
 # devsuperior/sds-dsmeta - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
-☋ Forks: 200
+☋ Forks: 202
 
-★ Stars: 402
+★ Stars: 405
 
 [Open repository](https://github.com/devsuperior/sds-dsmeta)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 405 | 202 | 
 | 2022-11-17 | 402 | 200 | 
 | 2022-11-16 | 388 | 194 | 
 | 2022-11-15 | 370 | 183 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 324 | 171 | 
 | 2022-10-21 | 325 | 171 | 
 | 2022-10-20 | 325 | 171 | 
-| 2022-10-19 | 326 | 171 | 
 

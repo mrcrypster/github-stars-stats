@@ -1,10 +1,10 @@
 # tpope/vim-rake - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 20
 
-★ Stars: 234
+★ Stars: 235
 
 [Open repository](https://github.com/tpope/vim-rake)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 235 | 20 | 
 | 2022-11-18 | 234 | 20 | 
 | 2022-11-16 | 233 | 20 | 
 | 2022-11-15 | 233 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-22 | 232 | 20 | 
 | 2022-10-21 | 232 | 20 | 
 | 2022-10-20 | 232 | 20 | 
-| 2022-10-19 | 232 | 20 | 
 

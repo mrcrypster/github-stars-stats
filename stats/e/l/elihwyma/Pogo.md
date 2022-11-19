@@ -1,10 +1,10 @@
 # elihwyma/Pogo - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 12
 
-★ Stars: 79
+★ Stars: 80
 
 [Open repository](https://github.com/elihwyma/Pogo)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 80 | 12 | 
 | 2022-11-17 | 79 | 12 | 
 | 2022-11-16 | 78 | 12 | 
 | 2022-11-15 | 78 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 74 | 9 | 
 | 2022-10-21 | 74 | 9 | 
 | 2022-10-20 | 74 | 9 | 
-| 2022-10-19 | 74 | 9 | 
 

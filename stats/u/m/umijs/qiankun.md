@@ -1,10 +1,10 @@
 # umijs/qiankun - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 1774
 
-★ Stars: 13675
+★ Stars: 13682
 
 [Open repository](https://github.com/umijs/qiankun)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 13682 | 1774 | 
 | 2022-11-17 | 13675 | 1774 | 
 | 2022-11-16 | 13670 | 1774 | 
 | 2022-11-15 | 13666 | 1772 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 13552 | 1753 | 
 | 2022-10-21 | 13547 | 1752 | 
 | 2022-10-20 | 13541 | 1752 | 
-| 2022-10-19 | 13527 | 1752 | 
 

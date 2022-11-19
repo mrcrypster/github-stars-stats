@@ -1,8 +1,8 @@
 # MasterQ32/zig-network - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
-☋ Forks: 25
+☋ Forks: 26
 
 ★ Stars: 219
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 219 | 26 | 
 | 2022-11-17 | 219 | 25 | 
 | 2022-11-16 | 219 | 25 | 
 | 2022-11-15 | 218 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 208 | 25 | 
 | 2022-10-21 | 208 | 25 | 
 | 2022-10-20 | 208 | 25 | 
-| 2022-10-19 | 209 | 25 | 
 

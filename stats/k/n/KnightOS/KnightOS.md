@@ -1,10 +1,10 @@
 # KnightOS/KnightOS - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 199
 
-★ Stars: 1244
+★ Stars: 1245
 
 [Open repository](https://github.com/KnightOS/KnightOS)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 1245 | 199 | 
 | 2022-11-17 | 1244 | 199 | 
 | 2022-11-16 | 1243 | 199 | 
 | 2022-11-15 | 1243 | 199 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 1244 | 200 | 
 | 2022-10-21 | 1244 | 200 | 
 | 2022-10-20 | 1243 | 200 | 
-| 2022-10-19 | 1243 | 200 | 
 

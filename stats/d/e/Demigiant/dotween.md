@@ -1,10 +1,10 @@
 # Demigiant/dotween - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
-☋ Forks: 315
+☋ Forks: 316
 
-★ Stars: 1850
+★ Stars: 1852
 
 [Open repository](https://github.com/Demigiant/dotween)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 1852 | 316 | 
 | 2022-11-17 | 1850 | 315 | 
 | 2022-11-16 | 1850 | 315 | 
 | 2022-11-15 | 1849 | 315 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 1838 | 314 | 
 | 2022-10-21 | 1837 | 314 | 
 | 2022-10-20 | 1836 | 314 | 
-| 2022-10-19 | 1835 | 314 | 
 

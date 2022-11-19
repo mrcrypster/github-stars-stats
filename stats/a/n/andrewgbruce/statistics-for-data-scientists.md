@@ -1,8 +1,8 @@
 # andrewgbruce/statistics-for-data-scientists - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
-☋ Forks: 617
+☋ Forks: 618
 
 ★ Stars: 972
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 972 | 618 | 
 | 2022-11-17 | 972 | 617 | 
 | 2022-11-16 | 972 | 617 | 
 | 2022-11-14 | 972 | 617 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 964 | 612 | 
 | 2022-10-21 | 964 | 612 | 
 | 2022-10-20 | 963 | 612 | 
-| 2022-10-19 | 962 | 612 | 
 

@@ -1,6 +1,6 @@
 # Mitradis/Windows-10-DISM-Scripts - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 25 | 5 | 
 | 2022-11-17 | 25 | 5 | 
 | 2022-11-16 | 25 | 5 | 
 | 2022-11-15 | 25 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 25 | 5 | 
 | 2022-10-21 | 25 | 5 | 
 | 2022-10-20 | 24 | 5 | 
-| 2022-10-19 | 24 | 5 | 
 

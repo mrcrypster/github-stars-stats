@@ -1,10 +1,10 @@
 # IAOldman/parallels - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 20
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/IAOldman/parallels)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 31 | 20 | 
 | 2022-11-17 | 30 | 20 | 
 | 2022-11-16 | 30 | 20 | 
 | 2022-11-15 | 30 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 28 | 17 | 
 | 2022-10-21 | 28 | 17 | 
 | 2022-10-20 | 28 | 17 | 
-| 2022-10-19 | 28 | 17 | 
 

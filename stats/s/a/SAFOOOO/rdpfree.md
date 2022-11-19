@@ -1,10 +1,8 @@
 # SAFOOOO/rdpfree - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+☋ Forks: 
 
-☋ Forks: 445
-
-★ Stars: 3
+★ Stars: 
 
 [Open repository](https://github.com/SAFOOOO/rdpfree)
 
@@ -13,5 +11,4 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-19 | 3 | 445 | 
 

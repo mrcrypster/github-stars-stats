@@ -1,10 +1,10 @@
 # whitenois3/nplate - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 1
 
-★ Stars: 101
+★ Stars: 102
 
 [Open repository](https://github.com/whitenois3/nplate)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 102 | 1 | 
 | 2022-11-17 | 101 | 1 | 
 | 2022-11-16 | 101 | 1 | 
 | 2022-11-14 | 101 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 92 | 1 | 
 | 2022-10-21 | 92 | 1 | 
 | 2022-10-20 | 92 | 1 | 
-| 2022-10-19 | 90 | 1 | 
 

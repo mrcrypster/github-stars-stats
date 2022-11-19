@@ -1,10 +1,10 @@
 # cvxgrp/WaveOperators.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 0
 
-★ Stars: 2
+★ Stars: 4
 
 [Open repository](https://github.com/cvxgrp/WaveOperators.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 4 | - | 
 | 2022-11-17 | 2 | - | 
 | 2022-11-16 | 2 | - | 
 

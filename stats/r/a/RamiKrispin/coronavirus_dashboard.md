@@ -1,6 +1,6 @@
 # RamiKrispin/coronavirus_dashboard - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 135
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 104 | 135 | 
 | 2022-11-17 | 104 | 135 | 
 | 2022-11-16 | 104 | 135 | 
 | 2022-11-15 | 104 | 135 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-23 | 104 | 135 | 
 | 2022-10-22 | 104 | 135 | 
 | 2022-10-21 | 104 | 135 | 
-| 2022-10-20 | 104 | 135 | 
 

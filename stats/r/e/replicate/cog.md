@@ -1,6 +1,6 @@
 # replicate/cog - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 158
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 3311 | 158 | 
 | 2022-11-17 | 3311 | 158 | 
 | 2022-11-16 | 3309 | 158 | 
 | 2022-11-15 | 3304 | 158 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 3219 | 145 | 
 | 2022-10-21 | 3217 | 145 | 
 | 2022-10-20 | 3211 | 145 | 
-| 2022-10-19 | 3210 | 142 | 
 

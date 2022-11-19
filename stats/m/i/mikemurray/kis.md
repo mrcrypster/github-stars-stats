@@ -1,6 +1,6 @@
 # mikemurray/kis - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 6 | 1 | 
 | 2022-11-17 | 6 | 1 | 
 | 2022-11-16 | 6 | 1 | 
 | 2022-11-15 | 6 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 5 | 1 | 
 | 2022-10-21 | 5 | 1 | 
 | 2022-10-20 | 5 | 1 | 
-| 2022-10-19 | 5 | 1 | 
 

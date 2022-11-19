@@ -1,10 +1,10 @@
 # pry0cc/axiom - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 479
 
-★ Stars: 2966
+★ Stars: 2970
 
 [Open repository](https://github.com/pry0cc/axiom)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 2970 | 479 | 
 | 2022-11-17 | 2966 | 479 | 
 | 2022-11-16 | 2965 | 479 | 
 | 2022-11-15 | 2963 | 479 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 2935 | 478 | 
 | 2022-10-21 | 2934 | 478 | 
 | 2022-10-20 | 2933 | 478 | 
-| 2022-10-19 | 2931 | 478 | 
 

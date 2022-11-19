@@ -1,10 +1,10 @@
 # argoproj/argo-events - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
-☋ Forks: 588
+☋ Forks: 589
 
-★ Stars: 1728
+★ Stars: 1729
 
 [Open repository](https://github.com/argoproj/argo-events)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 1729 | 589 | 
 | 2022-11-17 | 1728 | 588 | 
 | 2022-11-16 | 1726 | 587 | 
 | 2022-11-15 | 1726 | 587 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 1700 | 579 | 
 | 2022-10-21 | 1698 | 579 | 
 | 2022-10-20 | 1696 | 579 | 
-| 2022-10-19 | 1696 | 577 | 
 

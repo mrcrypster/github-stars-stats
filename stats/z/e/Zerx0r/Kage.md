@@ -1,6 +1,6 @@
 # Zerx0r/Kage - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 270
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 985 | 270 | 
 | 2022-11-17 | 985 | 270 | 
 | 2022-11-16 | 985 | 270 | 
 | 2022-11-15 | 985 | 270 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 977 | 269 | 
 | 2022-10-21 | 977 | 269 | 
 | 2022-10-20 | 975 | 269 | 
-| 2022-10-19 | 974 | 269 | 
 

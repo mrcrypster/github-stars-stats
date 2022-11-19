@@ -1,6 +1,6 @@
 # PlaceOS/PlaceOS - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 21 | 5 | 
 | 2022-11-17 | 21 | 5 | 
 | 2022-11-16 | 21 | 5 | 
 | 2022-11-15 | 19 | 4 | 

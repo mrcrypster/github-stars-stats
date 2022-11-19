@@ -1,10 +1,10 @@
 # ultramsg/php-whatsapp-chatbot - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 27
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/ultramsg/php-whatsapp-chatbot)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 33 | 27 | 
 | 2022-11-17 | 32 | 27 | 
 | 2022-11-16 | 32 | 28 | 
 | 2022-11-15 | 32 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 32 | 26 | 
 | 2022-10-21 | 32 | 26 | 
 | 2022-10-20 | 32 | 26 | 
-| 2022-10-19 | 31 | 26 | 
 

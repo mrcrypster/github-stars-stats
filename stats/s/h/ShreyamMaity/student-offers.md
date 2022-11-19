@@ -1,6 +1,6 @@
 # ShreyamMaity/student-offers - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 81
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 54 | 81 | 
 | 2022-11-17 | 54 | 81 | 
 | 2022-11-16 | 54 | 81 | 
 | 2022-11-15 | 54 | 81 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-22 | 46 | 64 | 
 | 2022-10-21 | 45 | 63 | 
 | 2022-10-20 | 44 | 59 | 
-| 2022-10-19 | 43 | 56 | 
 

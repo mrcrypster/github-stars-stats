@@ -1,6 +1,6 @@
 # OfficeDev/office-scripts-docs-reference.es-ES - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 1 | 2 | 
 | 2022-11-17 | 1 | 2 | 
 | 2022-11-16 | 1 | 2 | 
 | 2022-11-15 | 1 | 2 | 

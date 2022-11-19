@@ -1,10 +1,10 @@
 # primait/prima_opentelemetry_ex - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 2
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/primait/prima_opentelemetry_ex)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 4 | 2 | 
 | 2022-11-17 | 3 | 2 | 
 | 2022-11-16 | 3 | 2 | 
 | 2022-11-15 | 3 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-23 | 3 | 2 | 
 | 2022-10-22 | 3 | 2 | 
 | 2022-10-21 | 3 | 2 | 
-| 2022-10-20 | 3 | 1 | 
 
