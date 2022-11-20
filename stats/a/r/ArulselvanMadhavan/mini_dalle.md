@@ -1,10 +1,10 @@
 # ArulselvanMadhavan/mini_dalle - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 0
 
-★ Stars: 27
+★ Stars: 26
 
 [Open repository](https://github.com/ArulselvanMadhavan/mini_dalle)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 26 | - | 
 | 2022-11-18 | 27 | - | 
 | 2022-11-17 | 27 | - | 
 | 2022-11-16 | 27 | - | 

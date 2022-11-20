@@ -1,8 +1,8 @@
 # citation-style-language/styles - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 3396
+☋ Forks: 3395
 
 ★ Stars: 2777
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 2777 | 3395 | 
 | 2022-11-18 | 2777 | 3396 | 
 | 2022-11-17 | 2777 | 3395 | 
 | 2022-11-16 | 2778 | 3394 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 2746 | 3378 | 
 | 2022-10-22 | 2745 | 3375 | 
 | 2022-10-21 | 2744 | 3376 | 
-| 2022-10-20 | 2743 | 3376 | 
 

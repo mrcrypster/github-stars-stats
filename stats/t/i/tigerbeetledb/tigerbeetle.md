@@ -1,6 +1,6 @@
 # tigerbeetledb/tigerbeetle - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 69
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 1454 | 69 | 
 | 2022-11-18 | 1454 | 69 | 
 | 2022-11-17 | 1452 | 69 | 
 | 2022-11-16 | 1452 | 68 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 1379 | 63 | 
 | 2022-10-22 | 1371 | 63 | 
 | 2022-10-21 | 1363 | 63 | 
-| 2022-10-20 | 1361 | 63 | 
 

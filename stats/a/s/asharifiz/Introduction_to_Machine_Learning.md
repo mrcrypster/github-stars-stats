@@ -1,8 +1,8 @@
 # asharifiz/Introduction_to_Machine_Learning - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 18
+☋ Forks: 19
 
 ★ Stars: 108
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 108 | 19 | 
 | 2022-11-18 | 108 | 18 | 
 | 2022-11-17 | 106 | 17 | 
 | 2022-11-16 | 105 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 87 | 13 | 
 | 2022-10-22 | 87 | 13 | 
 | 2022-10-21 | 86 | 13 | 
-| 2022-10-20 | 86 | 13 | 
 

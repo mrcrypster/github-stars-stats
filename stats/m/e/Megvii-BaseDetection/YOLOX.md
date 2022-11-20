@@ -1,10 +1,10 @@
 # Megvii-BaseDetection/YOLOX - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 1803
+☋ Forks: 1804
 
-★ Stars: 7559
+★ Stars: 7563
 
 [Open repository](https://github.com/Megvii-BaseDetection/YOLOX)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 7563 | 1804 | 
 | 2022-11-18 | 7559 | 1803 | 
 | 2022-11-17 | 7556 | 1803 | 
 | 2022-11-16 | 7550 | 1801 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 7469 | 1780 | 
 | 2022-10-22 | 7468 | 1781 | 
 | 2022-10-21 | 7464 | 1781 | 
-| 2022-10-20 | 7462 | 1780 | 
 

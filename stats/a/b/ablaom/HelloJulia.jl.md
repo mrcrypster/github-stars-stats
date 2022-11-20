@@ -1,6 +1,6 @@
 # ablaom/HelloJulia.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 56 | 20 | 
 | 2022-11-18 | 56 | 20 | 
 | 2022-11-17 | 56 | 20 | 
 | 2022-11-16 | 56 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 55 | 18 | 
 | 2022-10-22 | 55 | 18 | 
 | 2022-10-21 | 55 | 18 | 
-| 2022-10-20 | 55 | 18 | 
 

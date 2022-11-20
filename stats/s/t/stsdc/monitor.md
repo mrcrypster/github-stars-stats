@@ -1,10 +1,10 @@
 # stsdc/monitor - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 41
 
-★ Stars: 252
+★ Stars: 253
 
 [Open repository](https://github.com/stsdc/monitor)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 253 | 41 | 
 | 2022-11-18 | 252 | 41 | 
 | 2022-11-17 | 251 | 41 | 
 | 2022-11-16 | 251 | 41 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 250 | 42 | 
 | 2022-10-22 | 250 | 41 | 
 | 2022-10-21 | 250 | 41 | 
-| 2022-10-20 | 251 | 41 | 
 

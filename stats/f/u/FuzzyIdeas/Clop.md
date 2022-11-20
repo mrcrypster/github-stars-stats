@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 19
 
 ☋ Forks: 6
 
-★ Stars: 142
+★ Stars: 143
 
 [Open repository](https://github.com/FuzzyIdeas/Clop)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-19 | 142 | 6 | 
+| 2022-11-19 | 143 | 6 | 
 | 2022-11-18 | 141 | 6 | 
 

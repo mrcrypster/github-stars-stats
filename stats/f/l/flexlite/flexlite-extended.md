@@ -1,6 +1,6 @@
 # flexlite/flexlite-extended - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 12 | 14 | 
 | 2022-11-18 | 12 | 14 | 
 | 2022-11-17 | 12 | 14 | 
 | 2022-11-16 | 12 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 12 | 14 | 
 | 2022-10-22 | 12 | 14 | 
 | 2022-10-21 | 12 | 14 | 
-| 2022-10-20 | 12 | 14 | 
 

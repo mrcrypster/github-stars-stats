@@ -1,8 +1,8 @@
 # stripe/stripe-php - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 794
+☋ Forks: 795
 
 ★ Stars: 3250
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 3250 | 795 | 
 | 2022-11-18 | 3250 | 794 | 
 | 2022-11-17 | 3247 | 794 | 
 | 2022-11-16 | 3248 | 794 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 3232 | 787 | 
 | 2022-10-22 | 3232 | 787 | 
 | 2022-10-21 | 3230 | 788 | 
-| 2022-10-20 | 3230 | 788 | 
 

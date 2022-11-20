@@ -1,10 +1,10 @@
 # kubernetes/kops - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 4457
+☋ Forks: 4458
 
-★ Stars: 14485
+★ Stars: 14487
 
 [Open repository](https://github.com/kubernetes/kops)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 14487 | 4458 | 
 | 2022-11-18 | 14485 | 4457 | 
 | 2022-11-17 | 14484 | 4457 | 
 | 2022-11-16 | 14485 | 4456 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 14423 | 4439 | 
 | 2022-10-22 | 14421 | 4438 | 
 | 2022-10-21 | 14421 | 4439 | 
-| 2022-10-20 | 14419 | 4438 | 
 

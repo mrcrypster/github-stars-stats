@@ -1,8 +1,8 @@
 # fengyuanchen/cropperjs - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 2265
+☋ Forks: 2267
 
 ★ Stars: 11255
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 11255 | 2267 | 
 | 2022-11-18 | 11255 | 2265 | 
 | 2022-11-17 | 11251 | 2265 | 
 | 2022-11-16 | 11248 | 2265 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 11190 | 2253 | 
 | 2022-10-22 | 11188 | 2253 | 
 | 2022-10-21 | 11186 | 2252 | 
-| 2022-10-20 | 11184 | 2251 | 
 

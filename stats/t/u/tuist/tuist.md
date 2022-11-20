@@ -1,10 +1,10 @@
 # tuist/tuist - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 321
+☋ Forks: 322
 
-★ Stars: 3049
+★ Stars: 3048
 
 [Open repository](https://github.com/tuist/tuist)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 3048 | 322 | 
 | 2022-11-18 | 3049 | 321 | 
 | 2022-11-17 | 3048 | 320 | 
 | 2022-11-16 | 3048 | 321 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 3004 | 318 | 
 | 2022-10-22 | 3004 | 318 | 
 | 2022-10-21 | 3001 | 317 | 
-| 2022-10-20 | 3001 | 318 | 
 

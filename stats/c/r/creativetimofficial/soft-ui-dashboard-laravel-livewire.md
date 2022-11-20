@@ -1,6 +1,6 @@
 # creativetimofficial/soft-ui-dashboard-laravel-livewire - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 47 | 55 | 
 | 2022-11-18 | 47 | 55 | 
 | 2022-11-17 | 47 | 55 | 
 | 2022-11-16 | 46 | 55 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 42 | 40 | 
 | 2022-10-22 | 42 | 40 | 
 | 2022-10-21 | 42 | 40 | 
-| 2022-10-20 | 42 | 40 | 
 

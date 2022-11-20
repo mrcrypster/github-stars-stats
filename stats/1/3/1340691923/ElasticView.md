@@ -1,10 +1,10 @@
 # 1340691923/ElasticView - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 112
 
-★ Stars: 633
+★ Stars: 634
 
 [Open repository](https://github.com/1340691923/ElasticView)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 634 | 112 | 
 | 2022-11-18 | 633 | 112 | 
 | 2022-11-17 | 632 | 112 | 
 | 2022-11-16 | 631 | 112 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 617 | 110 | 
 | 2022-10-22 | 617 | 110 | 
 | 2022-10-21 | 616 | 110 | 
-| 2022-10-20 | 615 | 110 | 
 

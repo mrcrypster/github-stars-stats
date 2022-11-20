@@ -1,10 +1,10 @@
 # liyupi/code-nav - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 485
 
-★ Stars: 2263
+★ Stars: 2264
 
 [Open repository](https://github.com/liyupi/code-nav)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 2264 | 485 | 
 | 2022-11-18 | 2263 | 485 | 
 | 2022-11-17 | 2263 | 485 | 
 | 2022-11-16 | 2263 | 484 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 2235 | 474 | 
 | 2022-10-22 | 2236 | 474 | 
 | 2022-10-21 | 2235 | 474 | 
-| 2022-10-20 | 2235 | 474 | 
 

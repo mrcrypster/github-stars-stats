@@ -1,6 +1,6 @@
 # terra-rebels/classic - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 233 | 7 | 
 | 2022-11-18 | 233 | 7 | 
 | 2022-11-17 | 233 | 6 | 
 | 2022-11-16 | 233 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 225 | 3 | 
 | 2022-10-22 | 224 | 3 | 
 | 2022-10-21 | 223 | 3 | 
-| 2022-10-20 | 222 | 3 | 
 

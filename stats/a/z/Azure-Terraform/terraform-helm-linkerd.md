@@ -1,6 +1,6 @@
 # Azure-Terraform/terraform-helm-linkerd - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 6 | 11 | 
 | 2022-11-18 | 6 | 11 | 
 | 2022-11-17 | 6 | 11 | 
 | 2022-11-15 | 6 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 5 | 11 | 
 | 2022-10-22 | 5 | 11 | 
 | 2022-10-21 | 5 | 11 | 
-| 2022-10-20 | 5 | 11 | 
 

@@ -1,10 +1,10 @@
 # zinclabs/zinc - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 547
 
-★ Stars: 12745
+★ Stars: 12748
 
 [Open repository](https://github.com/zinclabs/zinc)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 12748 | 547 | 
 | 2022-11-18 | 12745 | 547 | 
 | 2022-11-17 | 12737 | 546 | 
 | 2022-11-16 | 12732 | 545 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 12526 | 529 | 
 | 2022-10-22 | 12523 | 528 | 
 | 2022-10-21 | 12516 | 528 | 
-| 2022-10-20 | 12513 | 528 | 
 

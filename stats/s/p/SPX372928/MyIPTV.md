@@ -1,10 +1,10 @@
 # SPX372928/MyIPTV - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 483
+☋ Forks: 484
 
-★ Stars: 1722
+★ Stars: 1725
 
 [Open repository](https://github.com/SPX372928/MyIPTV)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 1725 | 484 | 
 | 2022-11-18 | 1722 | 483 | 
 | 2022-11-17 | 1721 | 482 | 
 | 2022-11-16 | 1717 | 482 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-24 | 1695 | 478 | 
 | 2022-10-23 | 1695 | 477 | 
 | 2022-10-21 | 1696 | 477 | 
-| 2022-10-20 | 1694 | 477 | 
 

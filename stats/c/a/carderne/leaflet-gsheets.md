@@ -1,10 +1,10 @@
 # carderne/leaflet-gsheets - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 85
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/carderne/leaflet-gsheets)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 14 | 85 | 
 | 2022-11-18 | 13 | 85 | 
 | 2022-11-17 | 13 | 85 | 
 | 2022-11-16 | 13 | 85 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 13 | 86 | 
 | 2022-10-22 | 13 | 86 | 
 | 2022-10-21 | 13 | 86 | 
-| 2022-10-20 | 13 | 86 | 
 

@@ -1,6 +1,6 @@
 # mavam/stat-cookbook - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 326
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 2086 | 326 | 
 | 2022-11-18 | 2086 | 326 | 
 | 2022-11-17 | 2086 | 326 | 
 | 2022-11-16 | 2087 | 326 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 2086 | 326 | 
 | 2022-10-22 | 2087 | 326 | 
 | 2022-10-21 | 2087 | 326 | 
-| 2022-10-20 | 2087 | 326 | 
 

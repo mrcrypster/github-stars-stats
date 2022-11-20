@@ -1,10 +1,10 @@
 # tittoassini/notebook - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 0
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/tittoassini/notebook)
 
@@ -13,5 +13,6 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 33 | - | 
 | 2022-11-18 | 32 | - | 
 

@@ -1,10 +1,10 @@
 # TechMagister/liquid.cr - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 16
 
-★ Stars: 62
+★ Stars: 63
 
 [Open repository](https://github.com/TechMagister/liquid.cr)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 63 | 16 | 
 | 2022-11-18 | 62 | 16 | 
 | 2022-11-17 | 62 | 16 | 
 | 2022-11-16 | 61 | 15 | 

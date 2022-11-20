@@ -1,10 +1,10 @@
 # fontsource/fontsource - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 116
 
-★ Stars: 3192
+★ Stars: 3193
 
 [Open repository](https://github.com/fontsource/fontsource)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 3193 | 116 | 
 | 2022-11-18 | 3192 | 116 | 
 | 2022-11-17 | 3191 | 116 | 
 | 2022-11-16 | 3184 | 116 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 3109 | 111 | 
 | 2022-10-22 | 3106 | 111 | 
 | 2022-10-21 | 3102 | 111 | 
-| 2022-10-20 | 3098 | 110 | 
 

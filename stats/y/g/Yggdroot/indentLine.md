@@ -1,10 +1,10 @@
 # Yggdroot/indentLine - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 216
 
-★ Stars: 3991
+★ Stars: 3990
 
 [Open repository](https://github.com/Yggdroot/indentLine)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 3990 | 216 | 
 | 2022-11-18 | 3991 | 216 | 
 | 2022-11-17 | 3990 | 216 | 
 | 2022-11-16 | 3992 | 216 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 3975 | 213 | 
 | 2022-10-22 | 3974 | 213 | 
 | 2022-10-21 | 3974 | 213 | 
-| 2022-10-20 | 3974 | 213 | 
 

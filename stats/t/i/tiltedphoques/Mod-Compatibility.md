@@ -1,6 +1,6 @@
 # tiltedphoques/Mod-Compatibility - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 31 | 2 | 
 | 2022-11-18 | 31 | 2 | 
 | 2022-11-17 | 31 | 2 | 
 | 2022-11-16 | 31 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-24 | 30 | 2 | 
 | 2022-10-23 | 30 | 2 | 
 | 2022-10-22 | 30 | 2 | 
-| 2022-10-21 | 30 | 2 | 
 

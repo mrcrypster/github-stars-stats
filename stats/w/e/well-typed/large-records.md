@@ -1,6 +1,6 @@
 # well-typed/large-records - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 34 | 11 | 
 | 2022-11-18 | 34 | 11 | 
 | 2022-11-17 | 34 | 11 | 
 | 2022-11-16 | 34 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-24 | 34 | 11 | 
 | 2022-10-23 | 34 | 11 | 
 | 2022-10-22 | 34 | 11 | 
-| 2022-10-21 | 34 | 11 | 
 

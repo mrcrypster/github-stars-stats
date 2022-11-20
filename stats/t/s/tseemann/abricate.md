@@ -1,8 +1,8 @@
 # tseemann/abricate - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 67
+☋ Forks: 66
 
 ★ Stars: 239
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 239 | 66 | 
 | 2022-11-18 | 239 | 67 | 
 | 2022-11-17 | 239 | 67 | 
 | 2022-11-16 | 239 | 67 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 234 | 67 | 
 | 2022-10-22 | 234 | 67 | 
 | 2022-10-21 | 234 | 67 | 
-| 2022-10-20 | 234 | 66 | 
 

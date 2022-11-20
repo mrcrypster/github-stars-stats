@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 19
 
 ☋ Forks: 39
 
-★ Stars: 1680
+★ Stars: 1691
 
 [Open repository](https://github.com/tummychow/git-absorb)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-19 | 1680 | 39 | 
+| 2022-11-19 | 1691 | 39 | 
 | 2022-11-18 | 1672 | 39 | 
 

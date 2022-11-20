@@ -1,6 +1,6 @@
 # donut-party/datapotato - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 68 | 1 | 
 | 2022-11-18 | 68 | 1 | 
 | 2022-11-17 | 62 | 1 | 
 | 2022-11-16 | 57 | 1 | 

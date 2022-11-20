@@ -1,6 +1,6 @@
 # pytorch/audio - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 495
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 1891 | 495 | 
 | 2022-11-18 | 1891 | 495 | 
 | 2022-11-17 | 1889 | 495 | 
 | 2022-11-16 | 1888 | 495 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-24 | 1867 | 485 | 
 | 2022-10-22 | 1866 | 485 | 
 | 2022-10-21 | 1866 | 485 | 
-| 2022-10-20 | 1865 | 485 | 
 

@@ -1,6 +1,6 @@
 # Tencent/tdesign-mobile-vue - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 70
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 101 | 70 | 
 | 2022-11-18 | 101 | 70 | 
 | 2022-11-17 | 101 | 70 | 
 | 2022-11-16 | 101 | 70 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 91 | 69 | 
 | 2022-10-22 | 91 | 69 | 
 | 2022-10-21 | 91 | 69 | 
-| 2022-10-20 | 91 | 68 | 
 

@@ -1,10 +1,10 @@
 # rajkumardusad/IP-Tracer - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 275
 
-★ Stars: 1183
+★ Stars: 1184
 
 [Open repository](https://github.com/rajkumardusad/IP-Tracer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 1184 | 275 | 
 | 2022-11-18 | 1183 | 275 | 
 | 2022-11-17 | 1180 | 275 | 
 | 2022-11-16 | 1178 | 275 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 1150 | 270 | 
 | 2022-10-22 | 1150 | 270 | 
 | 2022-10-21 | 1149 | 269 | 
-| 2022-10-20 | 1147 | 268 | 
 

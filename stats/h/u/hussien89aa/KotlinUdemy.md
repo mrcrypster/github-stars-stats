@@ -1,6 +1,6 @@
 # hussien89aa/KotlinUdemy - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 5025
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 1547 | 5025 | 
 | 2022-11-18 | 1547 | 5025 | 
 | 2022-11-17 | 1546 | 5025 | 
 | 2022-11-16 | 1545 | 5025 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 1538 | 5021 | 
 | 2022-10-22 | 1535 | 5022 | 
 | 2022-10-21 | 1534 | 5022 | 
-| 2022-10-20 | 1534 | 5022 | 
 

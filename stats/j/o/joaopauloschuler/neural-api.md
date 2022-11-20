@@ -1,6 +1,6 @@
 # joaopauloschuler/neural-api - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 159
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 256 | 159 | 
 | 2022-11-18 | 256 | 159 | 
 | 2022-11-17 | 256 | 159 | 
 | 2022-11-16 | 256 | 159 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 257 | 160 | 
 | 2022-10-22 | 257 | 160 | 
 | 2022-10-21 | 257 | 161 | 
-| 2022-10-20 | 255 | 161 | 
 

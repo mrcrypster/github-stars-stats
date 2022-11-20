@@ -1,10 +1,10 @@
 # pwn1sher/frostbyte - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 40
 
-★ Stars: 320
+★ Stars: 321
 
 [Open repository](https://github.com/pwn1sher/frostbyte)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 321 | 40 | 
 | 2022-11-18 | 320 | 40 | 
 | 2022-11-17 | 320 | 40 | 
 | 2022-11-16 | 320 | 40 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 315 | 39 | 
 | 2022-10-22 | 315 | 39 | 
 | 2022-10-21 | 315 | 39 | 
-| 2022-10-20 | 315 | 39 | 
 

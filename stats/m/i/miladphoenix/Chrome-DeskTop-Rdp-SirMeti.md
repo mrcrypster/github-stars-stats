@@ -1,10 +1,8 @@
 # miladphoenix/Chrome-DeskTop-Rdp-SirMeti - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+☋ Forks: 
 
-☋ Forks: 328
-
-★ Stars: 25
+★ Stars: 
 
 [Open repository](https://github.com/miladphoenix/Chrome-DeskTop-Rdp-SirMeti)
 
@@ -13,5 +11,4 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-20 | 25 | 328 | 
 

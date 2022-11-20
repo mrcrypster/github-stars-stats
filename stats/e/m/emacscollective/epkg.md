@@ -1,10 +1,10 @@
 # emacscollective/epkg - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 6
 
-★ Stars: 45
+★ Stars: 46
 
 [Open repository](https://github.com/emacscollective/epkg)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 46 | 6 | 
 | 2022-11-18 | 45 | 6 | 
 | 2022-11-17 | 45 | 6 | 
 | 2022-11-16 | 45 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 45 | 6 | 
 | 2022-10-22 | 45 | 6 | 
 | 2022-10-21 | 45 | 6 | 
-| 2022-10-20 | 45 | 6 | 
 

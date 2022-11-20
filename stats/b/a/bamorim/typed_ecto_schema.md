@@ -1,6 +1,6 @@
 # bamorim/typed_ecto_schema - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 201 | 12 | 
 | 2022-11-18 | 201 | 12 | 
 | 2022-11-17 | 201 | 12 | 
 | 2022-11-16 | 201 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-24 | 195 | 12 | 
 | 2022-10-23 | 195 | 12 | 
 | 2022-10-22 | 194 | 12 | 
-| 2022-10-20 | 194 | 12 | 
 

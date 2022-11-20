@@ -1,10 +1,10 @@
 # abo-abo/avy - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 97
 
-★ Stars: 1426
+★ Stars: 1427
 
 [Open repository](https://github.com/abo-abo/avy)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 1427 | 97 | 
 | 2022-11-18 | 1426 | 97 | 
 | 2022-11-17 | 1426 | 97 | 
 | 2022-11-16 | 1426 | 97 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 1417 | 97 | 
 | 2022-10-22 | 1417 | 97 | 
 | 2022-10-21 | 1416 | 97 | 
-| 2022-10-20 | 1416 | 97 | 
 

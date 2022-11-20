@@ -1,6 +1,6 @@
 # cncf/tag-security - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 381
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 1519 | 381 | 
 | 2022-11-18 | 1519 | 381 | 
 | 2022-11-17 | 1517 | 381 | 
 | 2022-11-16 | 1515 | 380 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 1482 | 372 | 
 | 2022-10-22 | 1481 | 372 | 
 | 2022-10-21 | 1481 | 372 | 
-| 2022-10-20 | 1478 | 372 | 
 

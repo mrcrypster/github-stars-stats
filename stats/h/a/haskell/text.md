@@ -1,6 +1,6 @@
 # haskell/text - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 146
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 359 | 146 | 
 | 2022-11-18 | 359 | 146 | 
 | 2022-11-17 | 359 | 146 | 
 | 2022-11-16 | 359 | 146 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 355 | 146 | 
 | 2022-10-22 | 355 | 146 | 
 | 2022-10-21 | 355 | 146 | 
-| 2022-10-20 | 355 | 146 | 
 

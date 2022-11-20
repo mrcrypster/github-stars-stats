@@ -1,10 +1,10 @@
 # twitter/birdwatch - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 2
 
-★ Stars: 59
+★ Stars: 58
 
 [Open repository](https://github.com/twitter/birdwatch)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 58 | 2 | 
 | 2022-11-18 | 59 | 2 | 
 | 2022-11-17 | 59 | 2 | 
 | 2022-11-16 | 58 | 1 | 

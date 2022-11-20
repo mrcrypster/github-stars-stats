@@ -1,10 +1,10 @@
 # nix-community/fenix - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 23
+☋ Forks: 22
 
-★ Stars: 206
+★ Stars: 207
 
 [Open repository](https://github.com/nix-community/fenix)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 207 | 22 | 
 | 2022-11-18 | 206 | 23 | 
 | 2022-11-17 | 205 | 23 | 
 | 2022-11-16 | 205 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 197 | 22 | 
 | 2022-10-22 | 197 | 22 | 
 | 2022-10-21 | 196 | 22 | 
-| 2022-10-20 | 196 | 22 | 
 

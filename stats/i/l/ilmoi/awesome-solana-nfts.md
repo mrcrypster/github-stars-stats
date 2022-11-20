@@ -1,10 +1,10 @@
 # ilmoi/awesome-solana-nfts - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 174
 
-★ Stars: 860
+★ Stars: 861
 
 [Open repository](https://github.com/ilmoi/awesome-solana-nfts)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 861 | 174 | 
 | 2022-11-18 | 860 | 174 | 
 | 2022-11-17 | 861 | 174 | 
 | 2022-11-16 | 859 | 174 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 854 | 170 | 
 | 2022-10-22 | 854 | 170 | 
 | 2022-10-21 | 854 | 170 | 
-| 2022-10-20 | 853 | 170 | 
 

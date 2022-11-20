@@ -1,6 +1,6 @@
 # mparlak/Flee - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 109
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 500 | 109 | 
 | 2022-11-18 | 500 | 109 | 
 | 2022-11-17 | 500 | 109 | 
 | 2022-11-16 | 500 | 109 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 495 | 108 | 
 | 2022-10-22 | 495 | 108 | 
 | 2022-10-21 | 494 | 108 | 
-| 2022-10-20 | 493 | 108 | 
 

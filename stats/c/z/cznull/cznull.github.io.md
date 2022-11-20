@@ -1,10 +1,10 @@
 # cznull/cznull.github.io - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 38
 
-★ Stars: 61
+★ Stars: 62
 
 [Open repository](https://github.com/cznull/cznull.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 62 | 38 | 
 | 2022-11-18 | 61 | 38 | 
 | 2022-11-17 | 61 | 38 | 
 | 2022-11-16 | 61 | 38 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 60 | 37 | 
 | 2022-10-22 | 60 | 37 | 
 | 2022-10-21 | 60 | 37 | 
-| 2022-10-20 | 60 | 37 | 
 

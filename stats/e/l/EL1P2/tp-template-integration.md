@@ -1,6 +1,6 @@
 # EL1P2/tp-template-integration - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | - | 42 | 
 | 2022-11-18 | - | 42 | 
 | 2022-11-17 | - | 42 | 
 | 2022-11-16 | - | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-24 | - | 44 | 
 | 2022-10-23 | - | 44 | 
 | 2022-10-22 | - | 44 | 
-| 2022-10-21 | - | 44 | 
 

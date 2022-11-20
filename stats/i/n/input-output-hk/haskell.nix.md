@@ -1,10 +1,10 @@
 # input-output-hk/haskell.nix - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 204
 
-★ Stars: 446
+★ Stars: 448
 
 [Open repository](https://github.com/input-output-hk/haskell.nix)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 448 | 204 | 
 | 2022-11-18 | 446 | 204 | 
 | 2022-11-17 | 446 | 204 | 
 | 2022-11-16 | 446 | 204 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 439 | 203 | 
 | 2022-10-22 | 439 | 203 | 
 | 2022-10-21 | 439 | 203 | 
-| 2022-10-20 | 439 | 202 | 
 

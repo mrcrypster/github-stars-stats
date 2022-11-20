@@ -1,6 +1,6 @@
 # rust-lang/rust.vim - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 270
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 3304 | 270 | 
 | 2022-11-18 | 3304 | 270 | 
 | 2022-11-17 | 3303 | 270 | 
 | 2022-11-16 | 3300 | 271 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 3270 | 270 | 
 | 2022-10-22 | 3267 | 270 | 
 | 2022-10-21 | 3267 | 270 | 
-| 2022-10-20 | 3264 | 270 | 
 

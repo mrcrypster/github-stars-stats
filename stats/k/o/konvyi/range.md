@@ -1,6 +1,6 @@
 # konvyi/range - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 45 | 8 | 
 | 2022-11-18 | 45 | 8 | 
 | 2022-11-17 | 45 | 8 | 
 | 2022-11-16 | 45 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 45 | 8 | 
 | 2022-10-22 | 45 | 8 | 
 | 2022-10-21 | 45 | 8 | 
-| 2022-10-20 | 45 | 8 | 
 

@@ -1,6 +1,6 @@
 # OpenEtherCATsociety/SOEM - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 498
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 859 | 498 | 
 | 2022-11-18 | 859 | 498 | 
 | 2022-11-17 | 858 | 498 | 
 | 2022-11-16 | 857 | 497 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 847 | 493 | 
 | 2022-10-22 | 847 | 493 | 
 | 2022-10-21 | 847 | 493 | 
-| 2022-10-20 | 846 | 493 | 
 

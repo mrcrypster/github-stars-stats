@@ -1,6 +1,6 @@
 # ifreund/zig-wayland - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 55 | 18 | 
 | 2022-11-18 | 55 | 18 | 
 | 2022-11-17 | 55 | 18 | 
 | 2022-11-16 | 55 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-24 | 51 | 17 | 
 | 2022-10-23 | 51 | 17 | 
 | 2022-10-22 | 51 | 16 | 
-| 2022-10-21 | 51 | 16 | 
 

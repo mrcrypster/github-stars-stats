@@ -1,10 +1,10 @@
 # YMFE/yapi - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 4475
+☋ Forks: 4476
 
-★ Stars: 25325
+★ Stars: 25328
 
 [Open repository](https://github.com/YMFE/yapi)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 25328 | 4476 | 
 | 2022-11-18 | 25325 | 4475 | 
 | 2022-11-17 | 25316 | 4471 | 
 | 2022-11-16 | 25304 | 4470 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 25145 | 4445 | 
 | 2022-10-22 | 25142 | 4444 | 
 | 2022-10-21 | 25139 | 4444 | 
-| 2022-10-20 | 25135 | 4444 | 
 

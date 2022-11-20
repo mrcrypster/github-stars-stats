@@ -1,10 +1,10 @@
 # imsyy/home - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 117
+☋ Forks: 118
 
-★ Stars: 367
+★ Stars: 368
 
 [Open repository](https://github.com/imsyy/home)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 368 | 118 | 
 | 2022-11-18 | 367 | 117 | 
 | 2022-11-17 | 364 | 115 | 
 | 2022-11-16 | 360 | 115 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 309 | 99 | 
 | 2022-10-22 | 306 | 96 | 
 | 2022-10-21 | 301 | 93 | 
-| 2022-10-20 | 302 | 93 | 
 

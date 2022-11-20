@@ -1,6 +1,6 @@
 # cortexproject/cortex - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 706
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 4912 | 706 | 
 | 2022-11-18 | 4912 | 706 | 
 | 2022-11-17 | 4911 | 706 | 
 | 2022-11-15 | 4910 | 705 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 4892 | 702 | 
 | 2022-10-22 | 4892 | 701 | 
 | 2022-10-21 | 4890 | 701 | 
-| 2022-10-20 | 4890 | 701 | 
 

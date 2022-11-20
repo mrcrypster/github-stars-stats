@@ -1,6 +1,6 @@
 # OWASP/www-project-vulnerable-flask-app - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 52 | 3 | 
 | 2022-11-18 | 52 | 3 | 
 | 2022-11-17 | 52 | 3 | 
 | 2022-11-16 | 52 | 3 | 

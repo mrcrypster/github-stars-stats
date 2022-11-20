@@ -1,10 +1,10 @@
 # rails/webpacker - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 1478
 
-★ Stars: 5318
+★ Stars: 5317
 
 [Open repository](https://github.com/rails/webpacker)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 5317 | 1478 | 
 | 2022-11-18 | 5318 | 1478 | 
 | 2022-11-17 | 5318 | 1479 | 
 | 2022-11-16 | 5318 | 1479 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 5314 | 1481 | 
 | 2022-10-22 | 5313 | 1481 | 
 | 2022-10-21 | 5313 | 1481 | 
-| 2022-10-20 | 5312 | 1480 | 
 

@@ -1,6 +1,6 @@
 # oracle/learning-library - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 1062
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 618 | 1062 | 
 | 2022-11-18 | 618 | 1062 | 
 | 2022-11-17 | 618 | 1062 | 
 | 2022-11-16 | 618 | 1062 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 619 | 1061 | 
 | 2022-10-22 | 619 | 1061 | 
 | 2022-10-21 | 619 | 1061 | 
-| 2022-10-20 | 619 | 1061 | 
 

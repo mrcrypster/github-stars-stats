@@ -1,6 +1,6 @@
 # Sorenon/MCXR - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 321 | 38 | 
 | 2022-11-18 | 321 | 38 | 
 | 2022-11-17 | 321 | 38 | 
 | 2022-11-16 | 321 | 38 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 315 | 38 | 
 | 2022-10-22 | 315 | 38 | 
 | 2022-10-21 | 316 | 38 | 
-| 2022-10-20 | 315 | 38 | 
 

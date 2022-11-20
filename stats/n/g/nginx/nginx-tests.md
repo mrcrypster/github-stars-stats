@@ -1,6 +1,6 @@
 # nginx/nginx-tests - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 69
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 75 | 69 | 
 | 2022-11-18 | 75 | 69 | 
 | 2022-11-17 | 75 | 69 | 
 | 2022-11-16 | 75 | 69 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 73 | 66 | 
 | 2022-10-22 | 73 | 66 | 
 | 2022-10-21 | 73 | 66 | 
-| 2022-10-20 | 73 | 66 | 
 

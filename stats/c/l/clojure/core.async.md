@@ -1,6 +1,6 @@
 # clojure/core.async - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 214
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 1884 | 214 | 
 | 2022-11-18 | 1884 | 214 | 
 | 2022-11-17 | 1884 | 213 | 
 | 2022-11-16 | 1883 | 213 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-24 | 1878 | 214 | 
 | 2022-10-23 | 1878 | 214 | 
 | 2022-10-22 | 1878 | 214 | 
-| 2022-10-21 | 1878 | 214 | 
 

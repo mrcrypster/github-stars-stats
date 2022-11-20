@@ -1,10 +1,10 @@
 # ic3w0lf22/Roblox-Account-Manager - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 96
+☋ Forks: 97
 
-★ Stars: 195
+★ Stars: 194
 
 [Open repository](https://github.com/ic3w0lf22/Roblox-Account-Manager)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 194 | 97 | 
 | 2022-11-18 | 195 | 96 | 
 | 2022-11-17 | 193 | 96 | 
 | 2022-11-16 | 192 | 95 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 190 | 79 | 
 | 2022-10-22 | 190 | 79 | 
 | 2022-10-21 | 190 | 79 | 
-| 2022-10-20 | 189 | 79 | 
 

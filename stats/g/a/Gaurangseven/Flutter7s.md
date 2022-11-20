@@ -1,6 +1,6 @@
 # Gaurangseven/Flutter7s - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 18 | 25 | 
 | 2022-11-18 | 18 | 25 | 
 | 2022-11-17 | 17 | 24 | 
 | 2022-11-16 | 17 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 12 | 17 | 
 | 2022-10-22 | 12 | 17 | 
 | 2022-10-21 | 12 | 17 | 
-| 2022-10-20 | 12 | 17 | 
 

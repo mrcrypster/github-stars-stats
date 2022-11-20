@@ -1,10 +1,10 @@
 # stick-i/scblogs - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 17
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/stick-i/scblogs)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 30 | 17 | 
 | 2022-11-18 | 29 | 17 | 
 | 2022-11-17 | 29 | 16 | 
 | 2022-11-16 | 28 | 16 | 

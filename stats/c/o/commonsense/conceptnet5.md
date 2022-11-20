@@ -1,6 +1,6 @@
 # commonsense/conceptnet5 - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 345
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 2550 | 345 | 
 | 2022-11-18 | 2550 | 345 | 
 | 2022-11-17 | 2549 | 344 | 
 | 2022-11-15 | 2547 | 344 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 2529 | 345 | 
 | 2022-10-22 | 2529 | 345 | 
 | 2022-10-21 | 2529 | 345 | 
-| 2022-10-20 | 2528 | 345 | 
 

@@ -1,10 +1,10 @@
 # elixirschool/school_house - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 34
 
-★ Stars: 122
+★ Stars: 123
 
 [Open repository](https://github.com/elixirschool/school_house)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 123 | 34 | 
 | 2022-11-18 | 122 | 34 | 
 | 2022-11-17 | 122 | 34 | 
 | 2022-11-16 | 122 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 121 | 34 | 
 | 2022-10-22 | 121 | 34 | 
 | 2022-10-21 | 121 | 34 | 
-| 2022-10-20 | 121 | 34 | 
 

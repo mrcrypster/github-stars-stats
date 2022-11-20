@@ -1,6 +1,6 @@
 # uribo/tokupon_ds - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 52 | - | 
 | 2022-11-18 | 52 | - | 
 | 2022-11-17 | 52 | - | 
 | 2022-11-16 | 52 | - | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 52 | - | 
 | 2022-10-22 | 52 | - | 
 | 2022-10-21 | 52 | - | 
-| 2022-10-20 | 52 | - | 
 

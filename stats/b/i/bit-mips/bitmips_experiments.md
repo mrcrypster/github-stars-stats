@@ -1,6 +1,6 @@
 # bit-mips/bitmips_experiments - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 26 | 7 | 
 | 2022-11-18 | 26 | 7 | 
 | 2022-11-17 | 26 | 7 | 
 | 2022-11-16 | 26 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 26 | 7 | 
 | 2022-10-22 | 26 | 7 | 
 | 2022-10-21 | 26 | 7 | 
-| 2022-10-20 | 25 | 7 | 
 

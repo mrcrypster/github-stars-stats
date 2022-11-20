@@ -1,10 +1,10 @@
 # ispacekid/ispacekid.github.io - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 22
+☋ Forks: 23
 
-★ Stars: 37
+★ Stars: 39
 
 [Open repository](https://github.com/ispacekid/ispacekid.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 39 | 23 | 
 | 2022-11-18 | 37 | 22 | 
 | 2022-11-17 | 33 | 19 | 
 

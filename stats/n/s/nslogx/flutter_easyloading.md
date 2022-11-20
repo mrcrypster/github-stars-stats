@@ -1,6 +1,6 @@
 # nslogx/flutter_easyloading - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 154
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 992 | 154 | 
 | 2022-11-18 | 992 | 154 | 
 | 2022-11-17 | 991 | 153 | 
 | 2022-11-16 | 991 | 153 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 979 | 151 | 
 | 2022-10-22 | 979 | 151 | 
 | 2022-10-21 | 979 | 151 | 
-| 2022-10-20 | 979 | 151 | 
 

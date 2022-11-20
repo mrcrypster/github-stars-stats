@@ -1,10 +1,10 @@
 # Ningstyle/mzlui-react - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 23
 
-★ Stars: 15
+★ Stars: 17
 
 [Open repository](https://github.com/Ningstyle/mzlui-react)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 17 | 23 | 
 | 2022-11-18 | 15 | 23 | 
 | 2022-11-17 | 14 | 22 | 
 | 2022-11-16 | 14 | 22 | 

@@ -1,10 +1,10 @@
 # surajadkhari/user_profile_riverpod-futureprovider - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 9
+☋ Forks: 10
 
-★ Stars: 52
+★ Stars: 53
 
 [Open repository](https://github.com/surajadkhari/user_profile_riverpod-futureprovider)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 53 | 10 | 
 | 2022-11-18 | 52 | 9 | 
 | 2022-11-17 | 52 | 9 | 
 | 2022-11-16 | 52 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 52 | 9 | 
 | 2022-10-22 | 52 | 9 | 
 | 2022-10-21 | 52 | 9 | 
-| 2022-10-20 | 51 | 9 | 
 

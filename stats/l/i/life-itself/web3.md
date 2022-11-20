@@ -1,10 +1,10 @@
 # life-itself/web3 - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 98
 
-★ Stars: 1222
+★ Stars: 1223
 
 [Open repository](https://github.com/life-itself/web3)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 1223 | 98 | 
 | 2022-11-18 | 1222 | 98 | 
 | 2022-11-17 | 1221 | 98 | 
 | 2022-11-16 | 1221 | 98 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 1202 | 96 | 
 | 2022-10-22 | 1202 | 96 | 
 | 2022-10-21 | 1200 | 96 | 
-| 2022-10-20 | 1199 | 96 | 
 

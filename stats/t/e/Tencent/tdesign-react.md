@@ -1,6 +1,6 @@
 # Tencent/tdesign-react - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 198
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 574 | 198 | 
 | 2022-11-19 | 574 | 198 | 
 | 2022-11-17 | 573 | 196 | 
 | 2022-11-16 | 573 | 196 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-23 | 563 | 190 | 
 | 2022-10-22 | 563 | 189 | 
 | 2022-10-21 | 563 | 188 | 
-| 2022-10-20 | 563 | 188 | 
 

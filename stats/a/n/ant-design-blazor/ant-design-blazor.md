@@ -1,10 +1,10 @@
 # ant-design-blazor/ant-design-blazor - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 717
 
-★ Stars: 4572
+★ Stars: 4574
 
 [Open repository](https://github.com/ant-design-blazor/ant-design-blazor)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 4574 | 717 | 
 | 2022-11-18 | 4572 | 717 | 
 | 2022-11-17 | 4569 | 717 | 
 | 2022-11-16 | 4568 | 717 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 4520 | 706 | 
 | 2022-10-22 | 4518 | 707 | 
 | 2022-10-21 | 4516 | 707 | 
-| 2022-10-20 | 4515 | 708 | 
 

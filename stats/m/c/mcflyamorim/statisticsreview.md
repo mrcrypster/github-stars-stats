@@ -1,10 +1,10 @@
 # mcflyamorim/statisticsreview - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 2
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/mcflyamorim/statisticsreview)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 8 | 2 | 
 | 2022-11-19 | 7 | 2 | 
 | 2022-11-18 | 7 | 2 | 
 | 2022-11-16 | 7 | 2 | 

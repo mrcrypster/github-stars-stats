@@ -1,10 +1,10 @@
 # AngelSecurityTeam/Cam-Hackers - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 359
+☋ Forks: 360
 
-★ Stars: 1048
+★ Stars: 1049
 
 [Open repository](https://github.com/AngelSecurityTeam/Cam-Hackers)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 1049 | 360 | 
 | 2022-11-18 | 1048 | 359 | 
 | 2022-11-17 | 1046 | 359 | 
 | 2022-11-16 | 1042 | 359 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 1010 | 352 | 
 | 2022-10-22 | 1010 | 352 | 
 | 2022-10-21 | 1009 | 352 | 
-| 2022-10-20 | 1008 | 352 | 
 

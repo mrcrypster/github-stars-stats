@@ -1,10 +1,10 @@
 # livebud/bud - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 159
 
-★ Stars: 4850
+★ Stars: 4851
 
 [Open repository](https://github.com/livebud/bud)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 4851 | 159 | 
 | 2022-11-18 | 4850 | 159 | 
 | 2022-11-17 | 4846 | 159 | 
 | 2022-11-16 | 4845 | 159 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 4798 | 160 | 
 | 2022-10-22 | 4798 | 160 | 
 | 2022-10-21 | 4796 | 160 | 
-| 2022-10-20 | 4795 | 160 | 
 

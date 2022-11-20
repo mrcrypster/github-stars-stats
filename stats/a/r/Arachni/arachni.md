@@ -1,10 +1,10 @@
 # Arachni/arachni - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 705
+☋ Forks: 704
 
-★ Stars: 3190
+★ Stars: 3189
 
 [Open repository](https://github.com/Arachni/arachni)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 3189 | 704 | 
 | 2022-11-18 | 3190 | 705 | 
 | 2022-11-17 | 3189 | 705 | 
 | 2022-11-16 | 3185 | 705 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-24 | 3170 | 707 | 
 | 2022-10-23 | 3169 | 707 | 
 | 2022-10-22 | 3170 | 706 | 
-| 2022-10-21 | 3170 | 707 | 
 

@@ -1,10 +1,10 @@
 # QianMo/Real-Time-Rendering-4th-Bibliography-Collection - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 879
 
-★ Stars: 2725
+★ Stars: 2726
 
 [Open repository](https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 2726 | 879 | 
 | 2022-11-18 | 2725 | 879 | 
 | 2022-11-17 | 2723 | 878 | 
 | 2022-11-16 | 2722 | 877 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 2691 | 870 | 
 | 2022-10-22 | 2688 | 870 | 
 | 2022-10-21 | 2687 | 870 | 
-| 2022-10-20 | 2686 | 869 | 
 

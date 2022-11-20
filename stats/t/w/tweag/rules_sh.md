@@ -1,10 +1,10 @@
 # tweag/rules_sh - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 1
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/tweag/rules_sh)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 25 | 1 | 
 | 2022-11-18 | 24 | 1 | 
 | 2022-11-17 | 23 | 1 | 
 | 2022-11-16 | 23 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 23 | 1 | 
 | 2022-10-22 | 23 | 1 | 
 | 2022-10-21 | 23 | 1 | 
-| 2022-10-20 | 23 | 1 | 
 

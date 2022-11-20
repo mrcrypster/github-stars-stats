@@ -1,10 +1,10 @@
 # xmonad/xmonad - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 267
 
-★ Stars: 2774
+★ Stars: 2775
 
 [Open repository](https://github.com/xmonad/xmonad)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 2775 | 267 | 
 | 2022-11-18 | 2774 | 267 | 
 | 2022-11-17 | 2774 | 267 | 
 | 2022-11-16 | 2774 | 267 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 2760 | 265 | 
 | 2022-10-22 | 2760 | 265 | 
 | 2022-10-21 | 2760 | 265 | 
-| 2022-10-20 | 2757 | 266 | 
 

@@ -1,10 +1,10 @@
 # mattrberry/crab - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 5
 
-★ Stars: 54
+★ Stars: 55
 
 [Open repository](https://github.com/mattrberry/crab)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 55 | 5 | 
 | 2022-11-18 | 54 | 5 | 
 | 2022-11-17 | 54 | 5 | 
 | 2022-11-16 | 54 | 5 | 

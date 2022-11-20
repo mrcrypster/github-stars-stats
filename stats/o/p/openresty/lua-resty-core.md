@@ -1,6 +1,6 @@
 # openresty/lua-resty-core - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 256
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 712 | 256 | 
 | 2022-11-18 | 712 | 256 | 
 | 2022-11-17 | 711 | 255 | 
 | 2022-11-16 | 711 | 255 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 708 | 253 | 
 | 2022-10-22 | 708 | 253 | 
 | 2022-10-21 | 708 | 253 | 
-| 2022-10-20 | 708 | 253 | 
 

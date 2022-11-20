@@ -1,10 +1,10 @@
 # openzipkin/zipkin - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 3009
 
-★ Stars: 15803
+★ Stars: 15805
 
 [Open repository](https://github.com/openzipkin/zipkin)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 15805 | 3009 | 
 | 2022-11-18 | 15803 | 3009 | 
 | 2022-11-17 | 15801 | 3010 | 
 | 2022-11-16 | 15793 | 3010 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 15737 | 3010 | 
 | 2022-10-22 | 15735 | 3010 | 
 | 2022-10-21 | 15734 | 3008 | 
-| 2022-10-20 | 15729 | 3008 | 
 

@@ -1,6 +1,6 @@
 # UW-ACL/SCPToolbox.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 127 | 29 | 
 | 2022-11-18 | 127 | 29 | 
 | 2022-11-17 | 126 | 29 | 
 | 2022-11-16 | 126 | 29 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 117 | 24 | 
 | 2022-10-22 | 117 | 24 | 
 | 2022-10-21 | 116 | 24 | 
-| 2022-10-20 | 116 | 24 | 
 

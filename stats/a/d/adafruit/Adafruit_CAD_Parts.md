@@ -1,10 +1,10 @@
 # adafruit/Adafruit_CAD_Parts - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 165
 
-★ Stars: 732
+★ Stars: 734
 
 [Open repository](https://github.com/adafruit/Adafruit_CAD_Parts)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 734 | 165 | 
 | 2022-11-18 | 732 | 165 | 
 | 2022-11-17 | 732 | 165 | 
 | 2022-11-16 | 731 | 164 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 722 | 160 | 
 | 2022-10-22 | 721 | 160 | 
 | 2022-10-21 | 721 | 160 | 
-| 2022-10-20 | 721 | 160 | 
 

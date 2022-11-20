@@ -1,6 +1,6 @@
 # TheLortex/mirage-monorepo - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 13 | 3 | 
 | 2022-11-18 | 13 | 3 | 
 | 2022-11-17 | 13 | 3 | 
 | 2022-11-16 | 13 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 13 | 3 | 
 | 2022-10-22 | 12 | 3 | 
 | 2022-10-21 | 12 | 2 | 
-| 2022-10-20 | 12 | 2 | 
 

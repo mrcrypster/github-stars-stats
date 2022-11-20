@@ -1,8 +1,8 @@
 # google/material-design-lite - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 5204
+☋ Forks: 5203
 
 ★ Stars: 32102
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 32102 | 5203 | 
 | 2022-11-18 | 32102 | 5204 | 
 | 2022-11-17 | 32103 | 5205 | 
 | 2022-11-16 | 32105 | 5206 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 32107 | 5210 | 
 | 2022-10-22 | 32107 | 5210 | 
 | 2022-10-21 | 32108 | 5210 | 
-| 2022-10-20 | 32109 | 5211 | 
 

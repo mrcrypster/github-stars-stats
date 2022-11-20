@@ -1,10 +1,10 @@
 # SitronX/UnityTimeRewinder - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 15
 
-★ Stars: 141
+★ Stars: 142
 
 [Open repository](https://github.com/SitronX/UnityTimeRewinder)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 142 | 15 | 
 | 2022-11-19 | 141 | 15 | 
 | 2022-11-18 | 140 | 14 | 
 | 2022-11-16 | 138 | 14 | 

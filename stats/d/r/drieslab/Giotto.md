@@ -1,6 +1,6 @@
 # drieslab/Giotto - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 83
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 157 | 83 | 
 | 2022-11-18 | 157 | 83 | 
 | 2022-11-17 | 156 | 83 | 
 | 2022-11-16 | 156 | 83 | 

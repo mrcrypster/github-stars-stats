@@ -1,10 +1,10 @@
 # jordibruin/Swift-Charts-Examples - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 65
+☋ Forks: 66
 
-★ Stars: 1156
+★ Stars: 1157
 
 [Open repository](https://github.com/jordibruin/Swift-Charts-Examples)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 1157 | 66 | 
 | 2022-11-18 | 1156 | 65 | 
 | 2022-11-17 | 1154 | 65 | 
 | 2022-11-16 | 1153 | 65 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 1124 | 66 | 
 | 2022-10-22 | 1123 | 66 | 
 | 2022-10-21 | 1123 | 66 | 
-| 2022-10-20 | 1121 | 66 | 
 

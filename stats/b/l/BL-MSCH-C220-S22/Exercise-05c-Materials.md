@@ -1,6 +1,6 @@
 # BL-MSCH-C220-S22/Exercise-05c-Materials - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | - | 39 | 
 | 2022-11-18 | - | 39 | 
 | 2022-11-17 | - | 39 | 
 | 2022-11-16 | - | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | - | 39 | 
 | 2022-10-22 | - | 39 | 
 | 2022-10-21 | - | 39 | 
-| 2022-10-20 | - | 39 | 
 

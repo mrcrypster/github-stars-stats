@@ -1,6 +1,6 @@
 # pooler/cpuminer - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 1176
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 2555 | 1176 | 
 | 2022-11-18 | 2555 | 1176 | 
 | 2022-11-17 | 2555 | 1176 | 
 | 2022-11-16 | 2555 | 1177 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 2558 | 1179 | 
 | 2022-10-22 | 2558 | 1179 | 
 | 2022-10-21 | 2558 | 1179 | 
-| 2022-10-20 | 2559 | 1179 | 
 

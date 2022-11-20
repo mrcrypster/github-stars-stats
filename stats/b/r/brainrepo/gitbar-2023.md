@@ -1,0 +1,17 @@
+# brainrepo/gitbar-2023 - stars & forks statistics
+
+Stats updated on Nov 2022, 19
+
+☋ Forks: 3
+
+★ Stars: 13
+
+[Open repository](https://github.com/brainrepo/gitbar-2023)
+
+[Open detailed stats for brainrepo/gitbar-2023](https://reviewgithub.com/rep/brainrepo/gitbar-2023)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-11-19 | 13 | 3 | 
+

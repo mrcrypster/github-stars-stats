@@ -1,10 +1,10 @@
 # Dwarf-Fortress-13/Dwarf-Fortress-13 - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 10
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/Dwarf-Fortress-13/Dwarf-Fortress-13)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 7 | 10 | 
 | 2022-11-18 | 6 | 10 | 
 | 2022-11-17 | 6 | 10 | 
 | 2022-11-16 | 5 | 10 | 

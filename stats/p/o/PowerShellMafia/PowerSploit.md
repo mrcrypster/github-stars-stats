@@ -1,10 +1,10 @@
 # PowerShellMafia/PowerSploit - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 4267
+☋ Forks: 4268
 
-★ Stars: 10064
+★ Stars: 10069
 
 [Open repository](https://github.com/PowerShellMafia/PowerSploit)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 10069 | 4268 | 
 | 2022-11-18 | 10064 | 4267 | 
 | 2022-11-17 | 10062 | 4266 | 
 | 2022-11-16 | 10061 | 4263 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 9979 | 4235 | 
 | 2022-10-22 | 9977 | 4234 | 
 | 2022-10-21 | 9976 | 4234 | 
-| 2022-10-20 | 9973 | 4231 | 
 

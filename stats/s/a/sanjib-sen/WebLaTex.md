@@ -1,10 +1,10 @@
 # sanjib-sen/WebLaTex - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 55
+☋ Forks: 56
 
-★ Stars: 64
+★ Stars: 66
 
 [Open repository](https://github.com/sanjib-sen/WebLaTex)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 66 | 56 | 
 | 2022-11-18 | 64 | 55 | 
 | 2022-11-17 | 63 | 54 | 
 | 2022-11-16 | 62 | 53 | 

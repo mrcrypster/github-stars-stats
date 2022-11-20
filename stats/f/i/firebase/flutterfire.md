@@ -1,10 +1,10 @@
 # firebase/flutterfire - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 3554
 
-★ Stars: 7269
+★ Stars: 7272
 
 [Open repository](https://github.com/firebase/flutterfire)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 7272 | 3554 | 
 | 2022-11-18 | 7269 | 3554 | 
 | 2022-11-17 | 7267 | 3554 | 
 | 2022-11-16 | 7263 | 3549 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 7193 | 3501 | 
 | 2022-10-22 | 7189 | 3501 | 
 | 2022-10-21 | 7189 | 3501 | 
-| 2022-10-20 | 7184 | 3498 | 
 

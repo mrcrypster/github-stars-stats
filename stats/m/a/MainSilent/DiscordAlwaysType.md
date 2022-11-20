@@ -1,10 +1,10 @@
 # MainSilent/DiscordAlwaysType - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 18
 
-★ Stars: 46
+★ Stars: 47
 
 [Open repository](https://github.com/MainSilent/DiscordAlwaysType)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 47 | 18 | 
 | 2022-11-19 | 46 | 18 | 
 | 2022-11-18 | 46 | 18 | 
 | 2022-11-17 | 46 | 18 | 

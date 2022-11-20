@@ -1,6 +1,6 @@
 # hmlongco/Factory - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 489 | 40 | 
 | 2022-11-18 | 489 | 40 | 
 | 2022-11-17 | 487 | 40 | 
 | 2022-11-16 | 487 | 40 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 430 | 33 | 
 | 2022-10-22 | 429 | 32 | 
 | 2022-10-21 | 429 | 32 | 
-| 2022-10-20 | 427 | 32 | 
 

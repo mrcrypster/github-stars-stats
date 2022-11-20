@@ -1,6 +1,6 @@
 # asahilina/gpu-rust-playground - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 130 | 5 | 
 | 2022-11-18 | 130 | 5 | 
 | 2022-11-17 | 130 | 5 | 
 | 2022-11-16 | 130 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 124 | 5 | 
 | 2022-10-22 | 124 | 5 | 
 | 2022-10-21 | 124 | 5 | 
-| 2022-10-20 | 124 | 5 | 
 

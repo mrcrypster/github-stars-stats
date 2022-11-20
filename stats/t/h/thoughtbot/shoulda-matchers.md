@@ -1,6 +1,6 @@
 # thoughtbot/shoulda-matchers - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 900
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 3326 | 900 | 
 | 2022-11-18 | 3326 | 900 | 
 | 2022-11-17 | 3326 | 899 | 
 | 2022-11-16 | 3326 | 899 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 3320 | 902 | 
 | 2022-10-22 | 3319 | 903 | 
 | 2022-10-21 | 3318 | 903 | 
-| 2022-10-20 | 3317 | 903 | 
 

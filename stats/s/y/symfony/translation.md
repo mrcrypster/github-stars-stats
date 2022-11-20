@@ -1,10 +1,10 @@
 # symfony/translation - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 81
 
-★ Stars: 6365
+★ Stars: 6366
 
 [Open repository](https://github.com/symfony/translation)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 6366 | 81 | 
 | 2022-11-18 | 6365 | 81 | 
 | 2022-11-17 | 6368 | 81 | 
 | 2022-11-16 | 6368 | 81 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 6353 | 79 | 
 | 2022-10-22 | 6353 | 79 | 
 | 2022-10-21 | 6353 | 79 | 
-| 2022-10-20 | 6353 | 79 | 
 

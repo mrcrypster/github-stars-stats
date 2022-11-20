@@ -1,10 +1,10 @@
 # aws-ia/terraform-aws-eks-blueprints - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 678
 
-★ Stars: 1351
+★ Stars: 1352
 
 [Open repository](https://github.com/aws-ia/terraform-aws-eks-blueprints)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 1352 | 678 | 
 | 2022-11-18 | 1351 | 678 | 
 | 2022-11-17 | 1343 | 667 | 
 | 2022-11-16 | 1342 | 665 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 1263 | 607 | 
 | 2022-10-22 | 1260 | 607 | 
 | 2022-10-21 | 1255 | 605 | 
-| 2022-10-20 | 1251 | 603 | 
 

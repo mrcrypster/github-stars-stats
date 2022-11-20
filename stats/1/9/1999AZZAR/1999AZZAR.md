@@ -1,8 +1,8 @@
 # 1999AZZAR/1999AZZAR - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 19
+☋ Forks: 20
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 2 | 20 | 
 | 2022-11-18 | 2 | 19 | 
 | 2022-11-17 | 2 | 19 | 
 | 2022-11-16 | 2 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 1 | 20 | 
 | 2022-10-22 | 1 | 19 | 
 | 2022-10-21 | 1 | 19 | 
-| 2022-10-20 | 1 | 19 | 
 

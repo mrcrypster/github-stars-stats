@@ -1,10 +1,10 @@
 # adrianosantostreina/MobileExperts - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 6
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/adrianosantostreina/MobileExperts)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 25 | 6 | 
 | 2022-11-19 | 24 | 6 | 
 | 2022-11-18 | 24 | 6 | 
 | 2022-11-16 | 24 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-23 | 21 | 4 | 
 | 2022-10-22 | 21 | 4 | 
 | 2022-10-21 | 18 | 4 | 
-| 2022-10-20 | 18 | 4 | 
 

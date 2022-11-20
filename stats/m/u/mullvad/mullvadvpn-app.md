@@ -1,10 +1,10 @@
 # mullvad/mullvadvpn-app - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 241
 
-★ Stars: 2965
+★ Stars: 2968
 
 [Open repository](https://github.com/mullvad/mullvadvpn-app)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 2968 | 241 | 
 | 2022-11-18 | 2965 | 241 | 
 | 2022-11-17 | 2963 | 241 | 
 | 2022-11-15 | 2962 | 242 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 2885 | 239 | 
 | 2022-10-22 | 2882 | 239 | 
 | 2022-10-21 | 2880 | 239 | 
-| 2022-10-20 | 2878 | 239 | 
 

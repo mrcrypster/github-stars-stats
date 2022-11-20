@@ -1,10 +1,10 @@
 # CarterCommunity/Carter - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 145
 
-★ Stars: 1565
+★ Stars: 1566
 
 [Open repository](https://github.com/CarterCommunity/Carter)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 1566 | 145 | 
 | 2022-11-18 | 1565 | 145 | 
 | 2022-11-17 | 1561 | 145 | 
 | 2022-11-16 | 1561 | 145 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 1545 | 143 | 
 | 2022-10-22 | 1544 | 143 | 
 | 2022-10-21 | 1543 | 143 | 
-| 2022-10-20 | 1542 | 143 | 
 

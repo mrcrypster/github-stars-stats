@@ -1,10 +1,10 @@
 # apache/incubator-pekko - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 20
 
-☋ Forks: 18
+☋ Forks: 19
 
-★ Stars: 144
+★ Stars: 151
 
 [Open repository](https://github.com/apache/incubator-pekko)
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 151 | 19 | 
+| 2022-11-19 | 151 | 19 | 
 | 2022-11-18 | 144 | 18 | 
 | 2022-11-17 | 142 | 18 | 
 | 2022-11-16 | 139 | 16 | 

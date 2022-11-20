@@ -1,6 +1,6 @@
 # robotframework/robotframework - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 2043
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 7545 | 2043 | 
 | 2022-11-18 | 7545 | 2043 | 
 | 2022-11-17 | 7540 | 2042 | 
 | 2022-11-16 | 7537 | 2041 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 7401 | 2033 | 
 | 2022-10-22 | 7400 | 2033 | 
 | 2022-10-21 | 7394 | 2033 | 
-| 2022-10-20 | 7389 | 2033 | 
 

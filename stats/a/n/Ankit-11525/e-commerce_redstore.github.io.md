@@ -1,6 +1,6 @@
 # Ankit-11525/e-commerce_redstore.github.io - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 88
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 39 | 88 | 
 | 2022-11-18 | 39 | 88 | 
 | 2022-11-17 | 39 | 89 | 
 | 2022-11-16 | 38 | 89 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 32 | 85 | 
 | 2022-10-22 | 32 | 85 | 
 | 2022-10-21 | 32 | 85 | 
-| 2022-10-20 | 32 | 85 | 
 

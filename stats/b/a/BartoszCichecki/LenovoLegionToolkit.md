@@ -1,10 +1,10 @@
 # BartoszCichecki/LenovoLegionToolkit - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 81
 
-★ Stars: 1268
+★ Stars: 1273
 
 [Open repository](https://github.com/BartoszCichecki/LenovoLegionToolkit)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 1273 | 81 | 
 | 2022-11-18 | 1268 | 81 | 
 | 2022-11-17 | 1253 | 81 | 
 | 2022-11-16 | 1248 | 81 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 897 | 57 | 
 | 2022-10-22 | 846 | 55 | 
 | 2022-10-21 | 816 | 52 | 
-| 2022-10-20 | 790 | 51 | 
 

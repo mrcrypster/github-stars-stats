@@ -1,6 +1,6 @@
 # joinum/parzival - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 5 | 3 | 
 | 2022-11-19 | 5 | 3 | 
 | 2022-11-17 | 5 | 3 | 
 | 2022-11-16 | 5 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-23 | 6 | 3 | 
 | 2022-10-22 | 6 | 3 | 
 | 2022-10-21 | 6 | 3 | 
-| 2022-10-20 | 6 | 3 | 
 

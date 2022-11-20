@@ -1,6 +1,6 @@
 # AnshMittal1811/MachineLearning-AI - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 124 | 40 | 
 | 2022-11-18 | 124 | 40 | 
 | 2022-11-17 | 124 | 40 | 
 | 2022-11-16 | 124 | 40 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 116 | 39 | 
 | 2022-10-22 | 116 | 39 | 
 | 2022-10-21 | 116 | 39 | 
-| 2022-10-20 | 116 | 39 | 
 

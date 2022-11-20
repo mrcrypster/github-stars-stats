@@ -1,6 +1,6 @@
 # TRON-Developer-Hub/TRC20-Contract-Template - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 443
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 80 | 443 | 
 | 2022-11-18 | 80 | 443 | 
 | 2022-11-17 | 80 | 443 | 
 | 2022-11-16 | 80 | 443 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 71 | 437 | 
 | 2022-10-22 | 71 | 436 | 
 | 2022-10-21 | 71 | 436 | 
-| 2022-10-20 | 71 | 435 | 
 

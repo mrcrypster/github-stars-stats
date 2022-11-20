@@ -1,6 +1,6 @@
 # okyyds/yydspure - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 37 | 27 | 
 | 2022-11-18 | 37 | 27 | 
 | 2022-11-17 | 37 | 27 | 
 | 2022-11-16 | 37 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 32 | 25 | 
 | 2022-10-22 | 29 | 25 | 
 | 2022-10-21 | 29 | 25 | 
-| 2022-10-20 | 29 | 25 | 
 

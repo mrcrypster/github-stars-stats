@@ -1,6 +1,6 @@
 # erikdarlingdata/DarlingData - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 77
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 280 | 77 | 
 | 2022-11-19 | 280 | 77 | 
 | 2022-11-17 | 280 | 77 | 
 | 2022-11-16 | 280 | 77 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-23 | 270 | 73 | 
 | 2022-10-22 | 270 | 73 | 
 | 2022-10-21 | 269 | 73 | 
-| 2022-10-20 | 268 | 73 | 
 

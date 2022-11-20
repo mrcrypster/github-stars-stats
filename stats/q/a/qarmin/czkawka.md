@@ -1,10 +1,10 @@
 # qarmin/czkawka - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 247
 
-★ Stars: 8789
+★ Stars: 8794
 
 [Open repository](https://github.com/qarmin/czkawka)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 8794 | 247 | 
 | 2022-11-18 | 8789 | 247 | 
 | 2022-11-17 | 8781 | 247 | 
 | 2022-11-16 | 8769 | 247 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 8622 | 243 | 
 | 2022-10-22 | 8616 | 243 | 
 | 2022-10-21 | 8614 | 243 | 
-| 2022-10-20 | 8612 | 243 | 
 

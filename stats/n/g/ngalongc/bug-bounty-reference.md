@@ -1,10 +1,10 @@
 # ngalongc/bug-bounty-reference - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 950
 
-★ Stars: 3122
+★ Stars: 3121
 
 [Open repository](https://github.com/ngalongc/bug-bounty-reference)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 3121 | 950 | 
 | 2022-11-18 | 3122 | 950 | 
 | 2022-11-17 | 3122 | 950 | 
 | 2022-11-16 | 3121 | 950 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 3097 | 944 | 
 | 2022-10-22 | 3096 | 944 | 
 | 2022-10-21 | 3095 | 944 | 
-| 2022-10-20 | 3094 | 944 | 
 

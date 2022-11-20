@@ -1,10 +1,10 @@
 # AsahiLinux/asahi-installer - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 46
 
-★ Stars: 440
+★ Stars: 441
 
 [Open repository](https://github.com/AsahiLinux/asahi-installer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 441 | 46 | 
 | 2022-11-18 | 440 | 46 | 
 | 2022-11-17 | 437 | 46 | 
 | 2022-11-16 | 436 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 429 | 43 | 
 | 2022-10-22 | 430 | 43 | 
 | 2022-10-21 | 430 | 43 | 
-| 2022-10-20 | 430 | 43 | 
 

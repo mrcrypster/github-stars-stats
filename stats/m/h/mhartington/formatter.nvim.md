@@ -1,10 +1,10 @@
 # mhartington/formatter.nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 77
+☋ Forks: 76
 
-★ Stars: 678
+★ Stars: 681
 
 [Open repository](https://github.com/mhartington/formatter.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 681 | 76 | 
 | 2022-11-18 | 678 | 77 | 
 | 2022-11-17 | 678 | 77 | 
 | 2022-11-16 | 678 | 77 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 651 | 73 | 
 | 2022-10-22 | 650 | 73 | 
 | 2022-10-21 | 649 | 74 | 
-| 2022-10-20 | 647 | 74 | 
 

@@ -1,6 +1,6 @@
 # bigtreetech/BIQU-B1 - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 91
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 119 | 91 | 
 | 2022-11-18 | 119 | 91 | 
 | 2022-11-17 | 119 | 91 | 
 | 2022-11-16 | 119 | 90 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 117 | 89 | 
 | 2022-10-22 | 117 | 89 | 
 | 2022-10-21 | 118 | 89 | 
-| 2022-10-20 | 118 | 89 | 
 

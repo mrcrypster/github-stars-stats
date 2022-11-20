@@ -1,10 +1,10 @@
 # cym1102/nginxWebUI - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 196
 
-★ Stars: 1055
+★ Stars: 1057
 
 [Open repository](https://github.com/cym1102/nginxWebUI)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 1057 | 196 | 
 | 2022-11-18 | 1055 | 196 | 
 | 2022-11-17 | 1055 | 196 | 
 | 2022-11-16 | 1055 | 196 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 1025 | 190 | 
 | 2022-10-22 | 1024 | 189 | 
 | 2022-10-21 | 1023 | 189 | 
-| 2022-10-20 | 1020 | 189 | 
 

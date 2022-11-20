@@ -1,6 +1,6 @@
 # EsupPortail/esup-pstage - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 4 | 6 | 
 | 2022-11-18 | 4 | 6 | 
 | 2022-11-17 | 4 | 6 | 
 | 2022-11-16 | 4 | 6 | 

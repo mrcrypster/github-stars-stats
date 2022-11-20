@@ -1,10 +1,10 @@
 # datawhalechina/easy-rl - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 1362
+☋ Forks: 1365
 
-★ Stars: 5558
+★ Stars: 5562
 
 [Open repository](https://github.com/datawhalechina/easy-rl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 5562 | 1365 | 
 | 2022-11-18 | 5558 | 1362 | 
 | 2022-11-17 | 5556 | 1361 | 
 | 2022-11-16 | 5547 | 1362 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 5467 | 1347 | 
 | 2022-10-22 | 5461 | 1346 | 
 | 2022-10-21 | 5460 | 1345 | 
-| 2022-10-20 | 5452 | 1344 | 
 

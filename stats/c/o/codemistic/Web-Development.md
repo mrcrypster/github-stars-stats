@@ -1,8 +1,8 @@
 # codemistic/Web-Development - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 310
+☋ Forks: 309
 
 ★ Stars: 146
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 146 | 309 | 
 | 2022-11-18 | 146 | 310 | 
 | 2022-11-17 | 146 | 310 | 
 | 2022-11-16 | 146 | 310 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 144 | 308 | 
 | 2022-10-22 | 144 | 309 | 
 | 2022-10-21 | 143 | 308 | 
-| 2022-10-20 | 141 | 309 | 
 

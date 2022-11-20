@@ -1,10 +1,10 @@
 # jeremyevans/sequel - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 1066
 
-★ Stars: 4696
+★ Stars: 4697
 
 [Open repository](https://github.com/jeremyevans/sequel)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 4697 | 1066 | 
 | 2022-11-18 | 4696 | 1066 | 
 | 2022-11-17 | 4695 | 1066 | 
 | 2022-11-16 | 4693 | 1066 | 

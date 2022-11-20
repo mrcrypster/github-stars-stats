@@ -1,8 +1,8 @@
 # odoo/design-themes - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 126
+☋ Forks: 128
 
 ★ Stars: 69
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 69 | 128 | 
 | 2022-11-18 | 69 | 126 | 
 | 2022-11-17 | 69 | 125 | 
 | 2022-11-16 | 69 | 125 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 68 | 118 | 
 | 2022-10-22 | 68 | 118 | 
 | 2022-10-21 | 68 | 118 | 
-| 2022-10-20 | 68 | 118 | 
 

@@ -1,10 +1,10 @@
 # danba340/minecraft-freecodecamp - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 90
+☋ Forks: 91
 
-★ Stars: 158
+★ Stars: 159
 
 [Open repository](https://github.com/danba340/minecraft-freecodecamp)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 159 | 91 | 
 | 2022-11-18 | 158 | 90 | 
 | 2022-11-17 | 156 | 90 | 
 | 2022-11-16 | 155 | 89 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 130 | 74 | 
 | 2022-10-22 | 129 | 74 | 
 | 2022-10-21 | 127 | 72 | 
-| 2022-10-20 | 126 | 72 | 
 

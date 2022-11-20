@@ -1,8 +1,8 @@
 # Disabled-Coding/dc-adminmenu - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 35
+☋ Forks: 36
 
 ★ Stars: 60
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 60 | 36 | 
 | 2022-11-18 | 60 | 35 | 
 | 2022-11-17 | 60 | 35 | 
 | 2022-11-16 | 60 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 58 | 34 | 
 | 2022-10-22 | 58 | 34 | 
 | 2022-10-21 | 56 | 34 | 
-| 2022-10-20 | 57 | 34 | 
 

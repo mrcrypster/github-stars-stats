@@ -1,10 +1,8 @@
 # Kentacok03/rdpfree - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+☋ Forks: 
 
-☋ Forks: 609
-
-★ Stars: 10
+★ Stars: 
 
 [Open repository](https://github.com/Kentacok03/rdpfree)
 
@@ -13,5 +11,4 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-20 | 10 | 609 | 
 

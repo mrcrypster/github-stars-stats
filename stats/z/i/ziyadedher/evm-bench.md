@@ -1,10 +1,10 @@
 # ziyadedher/evm-bench - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 1
 
-★ Stars: 88
+★ Stars: 89
 
 [Open repository](https://github.com/ziyadedher/evm-bench)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 89 | 1 | 
 | 2022-11-18 | 88 | 1 | 
 | 2022-11-17 | 87 | 1 | 
 | 2022-11-16 | 65 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 42 | - | 
 | 2022-10-22 | 42 | - | 
 | 2022-10-21 | 41 | - | 
-| 2022-10-20 | 40 | - | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 19
 
-☋ Forks: 1018
+☋ Forks: 1019
 
-★ Stars: 6163
+★ Stars: 6165
 
 [Open repository](https://github.com/vuejs/vitepress)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-19 | 6163 | 1018 | 
+| 2022-11-19 | 6165 | 1019 | 
 | 2022-11-18 | 6162 | 1017 | 
 | 2022-11-17 | 6137 | 1007 | 
 | 2022-11-16 | 6123 | 1001 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-23 | 5925 | 952 | 
 | 2022-10-22 | 5917 | 949 | 
 | 2022-10-21 | 5911 | 948 | 
-| 2022-10-20 | 5906 | 947 | 
 

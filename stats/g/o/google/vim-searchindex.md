@@ -1,10 +1,10 @@
 # google/vim-searchindex - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 29
 
-★ Stars: 352
+★ Stars: 353
 
 [Open repository](https://github.com/google/vim-searchindex)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 353 | 29 | 
 | 2022-11-18 | 352 | 29 | 
 | 2022-11-17 | 352 | 29 | 
 | 2022-11-16 | 352 | 29 | 

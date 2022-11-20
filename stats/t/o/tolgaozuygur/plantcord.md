@@ -1,6 +1,6 @@
 # tolgaozuygur/plantcord - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 87 | 26 | 
 | 2022-11-18 | 87 | 26 | 
 | 2022-11-17 | 87 | 26 | 
 | 2022-11-15 | 87 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 86 | 26 | 
 | 2022-10-22 | 86 | 26 | 
 | 2022-10-21 | 85 | 26 | 
-| 2022-10-20 | 85 | 25 | 
 

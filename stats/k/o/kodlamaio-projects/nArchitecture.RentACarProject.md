@@ -1,10 +1,10 @@
 # kodlamaio-projects/nArchitecture.RentACarProject - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 112
 
-★ Stars: 544
+★ Stars: 545
 
 [Open repository](https://github.com/kodlamaio-projects/nArchitecture.RentACarProject)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 545 | 112 | 
 | 2022-11-18 | 544 | 112 | 
 | 2022-11-17 | 541 | 112 | 
 | 2022-11-16 | 539 | 111 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 465 | 98 | 
 | 2022-10-22 | 465 | 98 | 
 | 2022-10-21 | 462 | 97 | 
-| 2022-10-20 | 461 | 96 | 
 

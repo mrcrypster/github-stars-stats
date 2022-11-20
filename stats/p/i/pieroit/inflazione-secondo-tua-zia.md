@@ -1,10 +1,10 @@
 # pieroit/inflazione-secondo-tua-zia - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 4
 
-★ Stars: 63
+★ Stars: 64
 
 [Open repository](https://github.com/pieroit/inflazione-secondo-tua-zia)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 64 | 4 | 
 | 2022-11-18 | 63 | 4 | 
 | 2022-11-17 | 61 | 4 | 
 | 2022-11-16 | 61 | 4 | 

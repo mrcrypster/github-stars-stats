@@ -1,6 +1,6 @@
 # sanette/snoke - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 15 | 2 | 
 | 2022-11-18 | 15 | 2 | 
 | 2022-11-17 | 15 | 2 | 
 | 2022-11-16 | 15 | 2 | 

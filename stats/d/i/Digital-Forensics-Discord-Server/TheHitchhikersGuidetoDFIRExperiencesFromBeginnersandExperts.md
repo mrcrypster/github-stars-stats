@@ -1,8 +1,8 @@
 # Digital-Forensics-Discord-Server/TheHitchhikersGuidetoDFIRExperiencesFromBeginnersandExperts - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 15
+☋ Forks: 16
 
 ★ Stars: 127
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 127 | 16 | 
 | 2022-11-18 | 127 | 15 | 
 | 2022-11-17 | 127 | 15 | 
 | 2022-11-16 | 127 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 121 | 13 | 
 | 2022-10-22 | 121 | 13 | 
 | 2022-10-21 | 121 | 13 | 
-| 2022-10-20 | 121 | 13 | 
 

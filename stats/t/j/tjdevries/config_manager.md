@@ -1,8 +1,8 @@
 # tjdevries/config_manager - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 105
+☋ Forks: 106
 
 ★ Stars: 786
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 786 | 106 | 
 | 2022-11-18 | 786 | 105 | 
 | 2022-11-17 | 786 | 105 | 
 | 2022-11-15 | 785 | 105 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 772 | 103 | 
 | 2022-10-22 | 769 | 103 | 
 | 2022-10-21 | 767 | 103 | 
-| 2022-10-20 | 766 | 103 | 
 

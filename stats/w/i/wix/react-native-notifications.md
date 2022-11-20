@@ -1,8 +1,8 @@
 # wix/react-native-notifications - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 703
+☋ Forks: 704
 
 ★ Stars: 2880
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 2880 | 704 | 
 | 2022-11-18 | 2880 | 703 | 
 | 2022-11-17 | 2877 | 703 | 
 | 2022-11-15 | 2877 | 701 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 2857 | 700 | 
 | 2022-10-22 | 2856 | 700 | 
 | 2022-10-21 | 2856 | 701 | 
-| 2022-10-20 | 2856 | 701 | 
 

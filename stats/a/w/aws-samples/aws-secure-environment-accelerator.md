@@ -1,8 +1,8 @@
 # aws-samples/aws-secure-environment-accelerator - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 207
+☋ Forks: 208
 
 ★ Stars: 603
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 603 | 208 | 
 | 2022-11-18 | 603 | 207 | 
 | 2022-11-17 | 603 | 206 | 
 | 2022-11-16 | 603 | 206 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 565 | 200 | 
 | 2022-10-22 | 565 | 200 | 
 | 2022-10-21 | 565 | 200 | 
-| 2022-10-20 | 564 | 198 | 
 

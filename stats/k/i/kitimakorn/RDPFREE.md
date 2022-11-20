@@ -1,10 +1,8 @@
 # kitimakorn/RDPFREE - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+☋ Forks: 
 
-☋ Forks: 174
-
-★ Stars: 4
+★ Stars: 
 
 [Open repository](https://github.com/kitimakorn/RDPFREE)
 
@@ -13,5 +11,4 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-20 | 4 | 174 | 
 

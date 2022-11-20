@@ -1,6 +1,6 @@
 # getzola/zola - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 701
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 9750 | 701 | 
 | 2022-11-18 | 9750 | 701 | 
 | 2022-11-17 | 9749 | 700 | 
 | 2022-11-16 | 9740 | 699 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 9610 | 693 | 
 | 2022-10-22 | 9603 | 691 | 
 | 2022-10-21 | 9599 | 691 | 
-| 2022-10-20 | 9593 | 691 | 
 

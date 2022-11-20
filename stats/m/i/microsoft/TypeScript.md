@@ -1,10 +1,10 @@
 # microsoft/TypeScript - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 11180
+☋ Forks: 11185
 
-★ Stars: 86067
+★ Stars: 86096
 
 [Open repository](https://github.com/microsoft/TypeScript)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 86096 | 11185 | 
 | 2022-11-18 | 86067 | 11180 | 
 | 2022-11-17 | 86053 | 11177 | 
 | 2022-11-16 | 86016 | 11174 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 85308 | 11083 | 
 | 2022-10-22 | 85292 | 11082 | 
 | 2022-10-21 | 85265 | 11080 | 
-| 2022-10-20 | 85225 | 11075 | 
 

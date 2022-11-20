@@ -1,10 +1,10 @@
 # xinntao/Real-ESRGAN-ncnn-vulkan - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 54
 
-★ Stars: 473
+★ Stars: 480
 
 [Open repository](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 480 | 54 | 
 | 2022-11-18 | 473 | 54 | 
 | 2022-11-17 | 462 | 53 | 
 | 2022-11-15 | 454 | 53 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 407 | 47 | 
 | 2022-10-22 | 405 | 47 | 
 | 2022-10-21 | 405 | 47 | 
-| 2022-10-20 | 403 | 47 | 
 

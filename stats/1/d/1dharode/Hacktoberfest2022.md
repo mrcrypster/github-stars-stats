@@ -1,10 +1,10 @@
 # 1dharode/Hacktoberfest2022 - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 1942
 
-★ Stars: 300
+★ Stars: 299
 
 [Open repository](https://github.com/1dharode/Hacktoberfest2022)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 299 | 1942 | 
 | 2022-11-18 | 300 | 1942 | 
 | 2022-11-17 | 300 | 1942 | 
 | 2022-11-16 | 300 | 1944 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 287 | 1618 | 
 | 2022-10-22 | 286 | 1563 | 
 | 2022-10-21 | 283 | 1517 | 
-| 2022-10-20 | 279 | 1488 | 
 

@@ -1,6 +1,6 @@
 # Roger-Melo/pokedex - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 78 | 68 | 
 | 2022-11-18 | 78 | 68 | 
 | 2022-11-17 | 78 | 67 | 
 | 2022-11-16 | 78 | 67 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 78 | 67 | 
 | 2022-10-22 | 78 | 67 | 
 | 2022-10-21 | 78 | 66 | 
-| 2022-10-20 | 78 | 66 | 
 

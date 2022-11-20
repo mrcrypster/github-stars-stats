@@ -1,6 +1,6 @@
 # http4s/http4s - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 744
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 2348 | 744 | 
 | 2022-11-18 | 2348 | 744 | 
 | 2022-11-17 | 2348 | 744 | 
 | 2022-11-16 | 2347 | 744 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 2331 | 745 | 
 | 2022-10-22 | 2331 | 745 | 
 | 2022-10-21 | 2330 | 745 | 
-| 2022-10-20 | 2329 | 745 | 
 

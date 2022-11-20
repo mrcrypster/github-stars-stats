@@ -1,10 +1,10 @@
 # krisleech/wisper - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 139
 
-★ Stars: 3100
+★ Stars: 3101
 
 [Open repository](https://github.com/krisleech/wisper)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 3101 | 139 | 
 | 2022-11-18 | 3100 | 139 | 
 | 2022-11-17 | 3100 | 139 | 
 | 2022-11-16 | 3100 | 139 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 3096 | 139 | 
 | 2022-10-22 | 3096 | 139 | 
 | 2022-10-21 | 3096 | 139 | 
-| 2022-10-20 | 3096 | 138 | 
 

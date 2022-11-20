@@ -1,10 +1,10 @@
 # roots/sage - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 3015
 
-★ Stars: 11970
+★ Stars: 11972
 
 [Open repository](https://github.com/roots/sage)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 11972 | 3015 | 
 | 2022-11-18 | 11970 | 3015 | 
 | 2022-11-17 | 11970 | 3015 | 
 | 2022-11-16 | 11968 | 3013 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 11927 | 3008 | 
 | 2022-10-22 | 11926 | 3008 | 
 | 2022-10-21 | 11925 | 3007 | 
-| 2022-10-20 | 11924 | 3008 | 
 

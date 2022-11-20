@@ -1,10 +1,10 @@
 # messense/aliyundrive-fuse - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 89
 
-★ Stars: 742
+★ Stars: 743
 
 [Open repository](https://github.com/messense/aliyundrive-fuse)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 743 | 89 | 
 | 2022-11-18 | 742 | 89 | 
 | 2022-11-17 | 742 | 89 | 
 | 2022-11-16 | 742 | 89 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 714 | 86 | 
 | 2022-10-22 | 712 | 86 | 
 | 2022-10-21 | 709 | 85 | 
-| 2022-10-20 | 708 | 85 | 
 

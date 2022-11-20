@@ -1,6 +1,6 @@
 # theajack/dingdong-node - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 42 | 10 | 
 | 2022-11-18 | 42 | 10 | 
 | 2022-11-17 | 42 | 10 | 
 | 2022-11-16 | 42 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 43 | 10 | 
 | 2022-10-22 | 43 | 10 | 
 | 2022-10-21 | 43 | 10 | 
-| 2022-10-20 | 43 | 10 | 
 

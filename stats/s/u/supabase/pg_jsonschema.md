@@ -1,10 +1,10 @@
 # supabase/pg_jsonschema - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 5
 
-★ Stars: 607
+★ Stars: 608
 
 [Open repository](https://github.com/supabase/pg_jsonschema)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 608 | 5 | 
 | 2022-11-18 | 607 | 5 | 
 | 2022-11-17 | 604 | 5 | 
 | 2022-11-16 | 603 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-24 | 596 | 4 | 
 | 2022-10-23 | 596 | 4 | 
 | 2022-10-22 | 595 | 4 | 
-| 2022-10-21 | 594 | 4 | 
 

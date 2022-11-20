@@ -1,6 +1,6 @@
 # evildevill/instahack - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 210
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 780 | 210 | 
 | 2022-11-18 | 780 | 210 | 
 | 2022-11-17 | 779 | 210 | 
 | 2022-11-16 | 777 | 210 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-24 | 764 | 209 | 
 | 2022-10-23 | 764 | 209 | 
 | 2022-10-22 | 764 | 209 | 
-| 2022-10-21 | 763 | 210 | 
 

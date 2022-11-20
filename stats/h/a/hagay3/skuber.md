@@ -1,6 +1,6 @@
 # hagay3/skuber - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 64 | 40 | 
 | 2022-11-18 | 64 | 40 | 
 | 2022-11-17 | 64 | 40 | 
 | 2022-11-16 | 64 | 40 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 62 | 40 | 
 | 2022-10-22 | 62 | 40 | 
 | 2022-10-21 | 62 | 40 | 
-| 2022-10-20 | 62 | 40 | 
 

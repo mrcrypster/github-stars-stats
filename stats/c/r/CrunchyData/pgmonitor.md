@@ -1,6 +1,6 @@
 # CrunchyData/pgmonitor - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 70
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 379 | 70 | 
 | 2022-11-18 | 379 | 70 | 
 | 2022-11-17 | 378 | 70 | 
 | 2022-11-16 | 378 | 70 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 373 | 67 | 
 | 2022-10-22 | 373 | 67 | 
 | 2022-10-21 | 373 | 67 | 
-| 2022-10-20 | 373 | 67 | 
 

@@ -1,8 +1,8 @@
 # Yara-Rules/rules - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 882
+☋ Forks: 883
 
 ★ Stars: 3334
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 3334 | 883 | 
 | 2022-11-18 | 3334 | 882 | 
 | 2022-11-17 | 3333 | 881 | 
 | 2022-11-16 | 3333 | 881 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 3293 | 876 | 
 | 2022-10-22 | 3291 | 876 | 
 | 2022-10-21 | 3290 | 875 | 
-| 2022-10-20 | 3290 | 875 | 
 

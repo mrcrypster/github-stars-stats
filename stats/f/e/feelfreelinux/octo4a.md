@@ -1,10 +1,10 @@
 # feelfreelinux/octo4a - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 87
 
-★ Stars: 974
+★ Stars: 977
 
 [Open repository](https://github.com/feelfreelinux/octo4a)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 977 | 87 | 
 | 2022-11-18 | 974 | 87 | 
 | 2022-11-17 | 972 | 87 | 
 | 2022-11-16 | 971 | 88 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 931 | 86 | 
 | 2022-10-22 | 930 | 86 | 
 | 2022-10-21 | 928 | 86 | 
-| 2022-10-20 | 924 | 86 | 
 

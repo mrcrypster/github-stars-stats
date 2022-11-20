@@ -1,8 +1,8 @@
 # segmentio/ksuid - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
-☋ Forks: 153
+☋ Forks: 154
 
 ★ Stars: 3785
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 3785 | 154 | 
 | 2022-11-19 | 3785 | 153 | 
 | 2022-11-18 | 3784 | 153 | 
 | 2022-11-16 | 3779 | 152 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-23 | 3749 | 151 | 
 | 2022-10-22 | 3748 | 151 | 
 | 2022-10-21 | 3746 | 151 | 
-| 2022-10-20 | 3744 | 151 | 
 

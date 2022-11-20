@@ -1,10 +1,10 @@
 # kaich/Yuedu - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 87
 
-★ Stars: 867
+★ Stars: 870
 
 [Open repository](https://github.com/kaich/Yuedu)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 870 | 87 | 
 | 2022-11-18 | 867 | 87 | 
 | 2022-11-17 | 867 | 87 | 
 | 2022-11-16 | 866 | 87 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 843 | 85 | 
 | 2022-10-22 | 842 | 85 | 
 | 2022-10-21 | 842 | 85 | 
-| 2022-10-20 | 842 | 85 | 
 

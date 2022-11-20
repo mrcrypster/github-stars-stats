@@ -1,6 +1,6 @@
 # giantswarm/capa-app-collection - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | - | - | 
 | 2022-11-18 | - | - | 
 | 2022-11-17 | - | - | 
 | 2022-11-16 | - | - | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | - | - | 
 | 2022-10-22 | - | - | 
 | 2022-10-21 | - | - | 
-| 2022-10-20 | - | - | 
 

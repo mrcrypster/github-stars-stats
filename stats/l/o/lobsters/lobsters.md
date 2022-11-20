@@ -1,10 +1,10 @@
 # lobsters/lobsters - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 731
+☋ Forks: 730
 
-★ Stars: 3372
+★ Stars: 3373
 
 [Open repository](https://github.com/lobsters/lobsters)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 3373 | 730 | 
 | 2022-11-18 | 3372 | 731 | 
 | 2022-11-17 | 3369 | 731 | 
 | 2022-11-16 | 3369 | 731 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 3354 | 730 | 
 | 2022-10-22 | 3354 | 730 | 
 | 2022-10-21 | 3353 | 730 | 
-| 2022-10-20 | 3353 | 730 | 
 

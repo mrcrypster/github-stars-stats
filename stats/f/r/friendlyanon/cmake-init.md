@@ -1,6 +1,6 @@
 # friendlyanon/cmake-init - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 928 | 41 | 
 | 2022-11-18 | 928 | 41 | 
 | 2022-11-17 | 928 | 41 | 
 | 2022-11-16 | 927 | 41 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 907 | 38 | 
 | 2022-10-22 | 905 | 38 | 
 | 2022-10-21 | 905 | 38 | 
-| 2022-10-20 | 905 | 38 | 
 

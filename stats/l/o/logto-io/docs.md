@@ -1,8 +1,8 @@
 # logto-io/docs - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 10
+☋ Forks: 11
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 5 | 11 | 
 | 2022-11-18 | 5 | 10 | 
 | 2022-11-17 | 5 | 10 | 
 | 2022-11-16 | 5 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 5 | 10 | 
 | 2022-10-22 | 5 | 10 | 
 | 2022-10-21 | 5 | 10 | 
-| 2022-10-20 | 5 | 10 | 
 

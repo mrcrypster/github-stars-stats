@@ -1,6 +1,6 @@
 # betaflight/betaflight-tx-lua-scripts - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 138
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 462 | 138 | 
 | 2022-11-18 | 462 | 138 | 
 | 2022-11-17 | 461 | 138 | 
 | 2022-11-16 | 461 | 138 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 461 | 137 | 
 | 2022-10-22 | 460 | 137 | 
 | 2022-10-21 | 460 | 137 | 
-| 2022-10-20 | 460 | 137 | 
 

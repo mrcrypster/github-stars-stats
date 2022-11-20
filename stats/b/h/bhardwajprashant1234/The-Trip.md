@@ -1,6 +1,6 @@
 # bhardwajprashant1234/The-Trip - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | - | 7 | 
 | 2022-11-18 | - | 7 | 
 | 2022-11-17 | - | 7 | 
 | 2022-11-16 | - | 7 | 

@@ -1,10 +1,10 @@
 # sourcelocation/DebToIPA - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 9
 
-★ Stars: 227
+★ Stars: 228
 
 [Open repository](https://github.com/sourcelocation/DebToIPA)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 228 | 9 | 
 | 2022-11-18 | 227 | 9 | 
 | 2022-11-17 | 227 | 9 | 
 | 2022-11-16 | 226 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 174 | 7 | 
 | 2022-10-22 | 166 | 7 | 
 | 2022-10-21 | 150 | 5 | 
-| 2022-10-20 | 148 | 5 | 
 

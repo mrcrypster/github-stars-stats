@@ -1,10 +1,10 @@
 # awesomeWM/awesome - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 544
 
-★ Stars: 5216
+★ Stars: 5218
 
 [Open repository](https://github.com/awesomeWM/awesome)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 5218 | 544 | 
 | 2022-11-18 | 5216 | 544 | 
 | 2022-11-17 | 5214 | 544 | 
 | 2022-11-16 | 5210 | 543 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 5148 | 539 | 
 | 2022-10-22 | 5145 | 539 | 
 | 2022-10-21 | 5145 | 539 | 
-| 2022-10-20 | 5143 | 539 | 
 

@@ -1,6 +1,6 @@
 # ouangyb3/makeitrealcampt - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 56 | 25 | 
 | 2022-11-18 | 56 | 25 | 
 | 2022-11-17 | 56 | 25 | 
 | 2022-11-16 | 56 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 56 | 25 | 
 | 2022-10-22 | 56 | 25 | 
 | 2022-10-21 | 56 | 25 | 
-| 2022-10-20 | 56 | 25 | 
 

@@ -1,6 +1,6 @@
 # StatisticsNZ/simplevis - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 83 | 10 | 
 | 2022-11-18 | 83 | 10 | 
 | 2022-11-17 | 83 | 10 | 
 | 2022-11-16 | 83 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 82 | 10 | 
 | 2022-10-22 | 82 | 10 | 
 | 2022-10-21 | 82 | 10 | 
-| 2022-10-20 | 82 | 10 | 
 

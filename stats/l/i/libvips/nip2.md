@@ -1,6 +1,6 @@
 # libvips/nip2 - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 277 | 12 | 
 | 2022-11-18 | 277 | 12 | 
 | 2022-11-17 | 277 | 12 | 
 | 2022-11-16 | 276 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 273 | 12 | 
 | 2022-10-22 | 273 | 12 | 
 | 2022-10-21 | 273 | 12 | 
-| 2022-10-20 | 273 | 12 | 
 

@@ -1,6 +1,6 @@
 # guilhermeborgesbastos/live-resume - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 197
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 339 | 197 | 
 | 2022-11-18 | 339 | 197 | 
 | 2022-11-17 | 338 | 197 | 
 | 2022-11-16 | 338 | 197 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 334 | 195 | 
 | 2022-10-22 | 333 | 195 | 
 | 2022-10-21 | 333 | 195 | 
-| 2022-10-20 | 333 | 195 | 
 

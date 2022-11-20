@@ -1,6 +1,6 @@
 # iElden/BetterBalancedGame - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 20 | 29 | 
 | 2022-11-18 | 20 | 29 | 
 | 2022-11-17 | 20 | 29 | 
 | 2022-11-16 | 20 | 29 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 19 | 29 | 
 | 2022-10-22 | 19 | 29 | 
 | 2022-10-21 | 19 | 29 | 
-| 2022-10-20 | 19 | 29 | 
 

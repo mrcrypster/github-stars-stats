@@ -1,10 +1,10 @@
 # apache/arrow - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 2615
+☋ Forks: 2616
 
-★ Stars: 10650
+★ Stars: 10658
 
 [Open repository](https://github.com/apache/arrow)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 10658 | 2616 | 
 | 2022-11-18 | 10650 | 2615 | 
 | 2022-11-17 | 10649 | 2614 | 
 | 2022-11-16 | 10644 | 2613 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 10482 | 2583 | 
 | 2022-10-22 | 10482 | 2580 | 
 | 2022-10-21 | 10481 | 2578 | 
-| 2022-10-20 | 10478 | 2577 | 
 

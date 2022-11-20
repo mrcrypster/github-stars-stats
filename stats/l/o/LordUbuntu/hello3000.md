@@ -1,6 +1,6 @@
 # LordUbuntu/hello3000 - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | - | 10 | 
 | 2022-11-18 | - | 10 | 
 | 2022-11-17 | - | 10 | 
 | 2022-11-16 | - | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | - | 9 | 
 | 2022-10-22 | - | 8 | 
 | 2022-10-21 | - | 8 | 
-| 2022-10-20 | - | 7 | 
 

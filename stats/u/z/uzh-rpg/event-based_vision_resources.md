@@ -1,6 +1,6 @@
 # uzh-rpg/event-based_vision_resources - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 517
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 2023 | 517 | 
 | 2022-11-18 | 2023 | 517 | 
 | 2022-11-17 | 2023 | 517 | 
 | 2022-11-16 | 2023 | 517 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 1971 | 508 | 
 | 2022-10-22 | 1970 | 507 | 
 | 2022-10-21 | 1970 | 507 | 
-| 2022-10-20 | 1969 | 507 | 
 

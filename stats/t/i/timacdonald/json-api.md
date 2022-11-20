@@ -1,6 +1,6 @@
 # timacdonald/json-api - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 232 | 18 | 
 | 2022-11-18 | 232 | 18 | 
 | 2022-11-17 | 232 | 18 | 
 | 2022-11-16 | 232 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 223 | 18 | 
 | 2022-10-22 | 221 | 18 | 
 | 2022-10-21 | 221 | 18 | 
-| 2022-10-20 | 221 | 18 | 
 

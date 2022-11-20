@@ -1,10 +1,10 @@
 # SegoCode/AutoWall - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 41
 
-★ Stars: 368
+★ Stars: 370
 
 [Open repository](https://github.com/SegoCode/AutoWall)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 370 | 41 | 
 | 2022-11-18 | 368 | 41 | 
 | 2022-11-17 | 367 | 41 | 
 | 2022-11-16 | 367 | 41 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-24 | 366 | 40 | 
 | 2022-10-22 | 365 | 40 | 
 | 2022-10-21 | 365 | 40 | 
-| 2022-10-20 | 365 | 40 | 
 

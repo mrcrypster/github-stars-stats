@@ -1,10 +1,8 @@
 # datpusheen123/NgrokRDP - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+☋ Forks: 
 
-☋ Forks: 2169
-
-★ Stars: 33
+★ Stars: 
 
 [Open repository](https://github.com/datpusheen123/NgrokRDP)
 
@@ -13,5 +11,4 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-20 | 33 | 2169 | 
 

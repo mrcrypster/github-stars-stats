@@ -1,8 +1,8 @@
 # Team-Kujira/docs - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 24
+☋ Forks: 25
 
 ★ Stars: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 6 | 25 | 
 | 2022-11-18 | 6 | 24 | 
 | 2022-11-17 | 6 | 24 | 
 | 2022-11-16 | 6 | 24 | 

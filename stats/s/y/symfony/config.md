@@ -1,10 +1,10 @@
 # symfony/config - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 42
 
-★ Stars: 3944
+★ Stars: 3945
 
 [Open repository](https://github.com/symfony/config)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 3945 | 42 | 
 | 2022-11-18 | 3944 | 42 | 
 | 2022-11-17 | 3946 | 42 | 
 | 2022-11-16 | 3946 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 3932 | 40 | 
 | 2022-10-22 | 3932 | 40 | 
 | 2022-10-21 | 3932 | 40 | 
-| 2022-10-20 | 3931 | 40 | 
 

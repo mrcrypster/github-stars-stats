@@ -1,10 +1,10 @@
 # nextcloud/nextcloud-vue - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 56
+☋ Forks: 55
 
-★ Stars: 137
+★ Stars: 139
 
 [Open repository](https://github.com/nextcloud/nextcloud-vue)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 139 | 55 | 
 | 2022-11-18 | 137 | 56 | 
 | 2022-11-17 | 137 | 55 | 
 | 2022-11-16 | 137 | 55 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 133 | 54 | 
 | 2022-10-22 | 133 | 54 | 
 | 2022-10-21 | 133 | 54 | 
-| 2022-10-20 | 133 | 54 | 
 

@@ -1,10 +1,10 @@
 # mljar/mljar-supervised - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 304
+☋ Forks: 307
 
-★ Stars: 2339
+★ Stars: 2340
 
 [Open repository](https://github.com/mljar/mljar-supervised)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 2340 | 307 | 
 | 2022-11-18 | 2339 | 304 | 
 | 2022-11-17 | 2339 | 304 | 
 | 2022-11-16 | 2338 | 303 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-24 | 2306 | 301 | 
 | 2022-10-23 | 2305 | 300 | 
 | 2022-10-21 | 2302 | 300 | 
-| 2022-10-20 | 2301 | 300 | 
 

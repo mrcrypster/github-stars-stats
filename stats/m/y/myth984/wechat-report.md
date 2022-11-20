@@ -1,6 +1,6 @@
 # myth984/wechat-report - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 122
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 1014 | 122 | 
 | 2022-11-18 | 1014 | 122 | 
 | 2022-11-17 | 1014 | 122 | 
 | 2022-11-16 | 1014 | 122 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 1007 | 123 | 
 | 2022-10-22 | 1007 | 123 | 
 | 2022-10-21 | 1007 | 123 | 
-| 2022-10-20 | 1007 | 123 | 
 

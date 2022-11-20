@@ -1,10 +1,10 @@
 # phillipi/pix2pix - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 1636
+☋ Forks: 1637
 
-★ Stars: 9208
+★ Stars: 9211
 
 [Open repository](https://github.com/phillipi/pix2pix)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 9211 | 1637 | 
 | 2022-11-18 | 9208 | 1636 | 
 | 2022-11-17 | 9208 | 1634 | 
 | 2022-11-16 | 9205 | 1633 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 9163 | 1630 | 
 | 2022-10-22 | 9163 | 1630 | 
 | 2022-10-21 | 9162 | 1631 | 
-| 2022-10-20 | 9161 | 1631 | 
 

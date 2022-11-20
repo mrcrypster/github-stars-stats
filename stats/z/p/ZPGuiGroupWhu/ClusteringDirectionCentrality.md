@@ -1,6 +1,6 @@
 # ZPGuiGroupWhu/ClusteringDirectionCentrality - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 36 | 2 | 
 | 2022-11-18 | 36 | 2 | 
 | 2022-11-17 | 36 | 2 | 
 | 2022-11-16 | 36 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 29 | 1 | 
 | 2022-10-22 | 29 | 1 | 
 | 2022-10-21 | 29 | 1 | 
-| 2022-10-20 | 29 | 1 | 
 

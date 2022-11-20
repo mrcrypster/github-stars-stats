@@ -1,6 +1,6 @@
 # bigbluebutton/bigbluebutton - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 5814
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 7744 | 5814 | 
 | 2022-11-18 | 7744 | 5814 | 
 | 2022-11-17 | 7743 | 5815 | 
 | 2022-11-16 | 7743 | 5814 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 7701 | 5798 | 
 | 2022-10-22 | 7701 | 5797 | 
 | 2022-10-21 | 7701 | 5797 | 
-| 2022-10-20 | 7700 | 5796 | 
 

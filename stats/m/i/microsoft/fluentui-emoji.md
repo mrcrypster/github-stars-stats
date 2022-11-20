@@ -1,10 +1,10 @@
 # microsoft/fluentui-emoji - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 340
 
-★ Stars: 6603
+★ Stars: 6605
 
 [Open repository](https://github.com/microsoft/fluentui-emoji)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 6605 | 340 | 
 | 2022-11-18 | 6603 | 340 | 
 | 2022-11-17 | 6602 | 340 | 
 | 2022-11-15 | 6594 | 339 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 6457 | 325 | 
 | 2022-10-22 | 6388 | 323 | 
 | 2022-10-21 | 6263 | 323 | 
-| 2022-10-20 | 6179 | 312 | 
 

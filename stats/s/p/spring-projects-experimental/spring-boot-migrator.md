@@ -1,6 +1,6 @@
 # spring-projects-experimental/spring-boot-migrator - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 185 | 32 | 
 | 2022-11-18 | 185 | 32 | 
 | 2022-11-17 | 183 | 32 | 
 | 2022-11-16 | 181 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 167 | 28 | 
 | 2022-10-22 | 164 | 28 | 
 | 2022-10-21 | 162 | 28 | 
-| 2022-10-20 | 160 | 28 | 
 

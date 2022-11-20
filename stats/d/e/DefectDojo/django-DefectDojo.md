@@ -1,10 +1,10 @@
 # DefectDojo/django-DefectDojo - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 1171
 
-★ Stars: 2490
+★ Stars: 2492
 
 [Open repository](https://github.com/DefectDojo/django-DefectDojo)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 2492 | 1171 | 
 | 2022-11-18 | 2490 | 1171 | 
 | 2022-11-17 | 2490 | 1171 | 
 | 2022-11-16 | 2489 | 1170 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 2452 | 1150 | 
 | 2022-10-22 | 2451 | 1150 | 
 | 2022-10-21 | 2451 | 1150 | 
-| 2022-10-20 | 2450 | 1150 | 
 

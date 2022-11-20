@@ -1,6 +1,6 @@
 # httpwg/http-core - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 440 | 46 | 
 | 2022-11-18 | 440 | 46 | 
 | 2022-11-17 | 440 | 46 | 
 | 2022-11-16 | 440 | 46 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 438 | 46 | 
 | 2022-10-22 | 438 | 46 | 
 | 2022-10-21 | 438 | 46 | 
-| 2022-10-20 | 438 | 46 | 
 

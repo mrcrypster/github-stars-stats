@@ -1,6 +1,6 @@
 # dotnet/dotnet-monitor - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 70
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 446 | 70 | 
 | 2022-11-18 | 446 | 70 | 
 | 2022-11-17 | 445 | 70 | 
 | 2022-11-16 | 442 | 70 | 

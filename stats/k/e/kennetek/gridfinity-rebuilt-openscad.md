@@ -1,10 +1,10 @@
 # kennetek/gridfinity-rebuilt-openscad - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 10
 
-★ Stars: 135
+★ Stars: 137
 
 [Open repository](https://github.com/kennetek/gridfinity-rebuilt-openscad)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 137 | 10 | 
 | 2022-11-18 | 135 | 10 | 
 | 2022-11-17 | 132 | 10 | 
 | 2022-11-16 | 132 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 94 | 8 | 
 | 2022-10-22 | 90 | 8 | 
 | 2022-10-21 | 88 | 8 | 
-| 2022-10-20 | 86 | 8 | 
 

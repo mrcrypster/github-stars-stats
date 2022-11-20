@@ -1,10 +1,10 @@
 # locomotivemtl/locomotive-scroll - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
-☋ Forks: 981
+☋ Forks: 982
 
-★ Stars: 5790
+★ Stars: 5792
 
 [Open repository](https://github.com/locomotivemtl/locomotive-scroll)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 5792 | 982 | 
 | 2022-11-19 | 5790 | 981 | 
 | 2022-11-17 | 5786 | 979 | 
 | 2022-11-16 | 5784 | 977 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-23 | 5612 | 951 | 
 | 2022-10-22 | 5609 | 951 | 
 | 2022-10-21 | 5608 | 950 | 
-| 2022-10-20 | 5607 | 948 | 
 

@@ -1,6 +1,6 @@
 # callstack/reassure - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 768 | 8 | 
 | 2022-11-18 | 768 | 8 | 
 | 2022-11-17 | 767 | 7 | 
 | 2022-11-16 | 766 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 724 | 4 | 
 | 2022-10-22 | 722 | 4 | 
 | 2022-10-21 | 720 | 4 | 
-| 2022-10-20 | 718 | 4 | 
 

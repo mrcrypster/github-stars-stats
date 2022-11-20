@@ -1,10 +1,10 @@
 # baptisteArno/typebot.io - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 143
 
-★ Stars: 1523
+★ Stars: 1524
 
 [Open repository](https://github.com/baptisteArno/typebot.io)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 1524 | 143 | 
 | 2022-11-18 | 1523 | 143 | 
 | 2022-11-17 | 1522 | 143 | 
 | 2022-11-16 | 1519 | 142 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 1464 | 134 | 
 | 2022-10-22 | 1464 | 134 | 
 | 2022-10-21 | 1460 | 132 | 
-| 2022-10-20 | 1457 | 132 | 
 

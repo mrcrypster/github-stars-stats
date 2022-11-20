@@ -1,8 +1,8 @@
 # MVIG-SJTU/AlphaPose - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 1788
+☋ Forks: 1787
 
 ★ Stars: 6585
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 6585 | 1787 | 
 | 2022-11-18 | 6585 | 1788 | 
 | 2022-11-17 | 6582 | 1786 | 
 | 2022-11-16 | 6581 | 1785 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 6505 | 1780 | 
 | 2022-10-22 | 6505 | 1780 | 
 | 2022-10-21 | 6504 | 1779 | 
-| 2022-10-20 | 6502 | 1779 | 
 

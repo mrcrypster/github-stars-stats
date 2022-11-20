@@ -1,6 +1,6 @@
 # ppareit/graphviz-dot-mode - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 188 | 44 | 
 | 2022-11-18 | 188 | 44 | 
 | 2022-11-17 | 188 | 44 | 
 | 2022-11-16 | 188 | 44 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 187 | 44 | 
 | 2022-10-22 | 187 | 44 | 
 | 2022-10-21 | 187 | 44 | 
-| 2022-10-20 | 187 | 44 | 
 

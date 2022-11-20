@@ -1,6 +1,6 @@
 # countercept/CallStackSpoofer - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 252 | 38 | 
 | 2022-11-18 | 252 | 38 | 
 | 2022-11-17 | 251 | 38 | 
 | 2022-11-16 | 251 | 38 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 246 | 38 | 
 | 2022-10-22 | 246 | 38 | 
 | 2022-10-21 | 246 | 38 | 
-| 2022-10-20 | 246 | 38 | 
 

@@ -1,6 +1,6 @@
 # Countly/countly-sdk-ios - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 239
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 606 | 239 | 
 | 2022-11-18 | 606 | 239 | 
 | 2022-11-17 | 606 | 239 | 
 | 2022-11-15 | 606 | 239 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 606 | 240 | 
 | 2022-10-22 | 606 | 240 | 
 | 2022-10-21 | 606 | 241 | 
-| 2022-10-20 | 606 | 240 | 
 

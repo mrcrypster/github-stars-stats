@@ -1,8 +1,8 @@
 # ShadowMario/FNF-PsychEngine - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 1560
+☋ Forks: 1563
 
 ★ Stars: 702
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 702 | 1563 | 
 | 2022-11-18 | 702 | 1560 | 
 | 2022-11-17 | 701 | 1561 | 
 | 2022-11-16 | 698 | 1559 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 677 | 1504 | 
 | 2022-10-22 | 677 | 1499 | 
 | 2022-10-21 | 677 | 1491 | 
-| 2022-10-20 | 677 | 1490 | 
 

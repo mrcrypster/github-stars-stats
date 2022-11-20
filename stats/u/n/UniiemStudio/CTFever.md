@@ -1,10 +1,10 @@
 # UniiemStudio/CTFever - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 26
 
-★ Stars: 250
+★ Stars: 251
 
 [Open repository](https://github.com/UniiemStudio/CTFever)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 251 | 26 | 
 | 2022-11-18 | 250 | 26 | 
 | 2022-11-17 | 250 | 26 | 
 | 2022-11-16 | 250 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 246 | 25 | 
 | 2022-10-22 | 245 | 25 | 
 | 2022-10-21 | 245 | 25 | 
-| 2022-10-20 | 245 | 25 | 
 

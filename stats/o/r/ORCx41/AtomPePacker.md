@@ -1,10 +1,10 @@
 # ORCx41/AtomPePacker - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 94
 
-★ Stars: 519
+★ Stars: 518
 
 [Open repository](https://github.com/ORCx41/AtomPePacker)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 518 | 94 | 
 | 2022-11-18 | 519 | 94 | 
 | 2022-11-17 | 517 | 94 | 
 | 2022-11-16 | 517 | 94 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 458 | 81 | 
 | 2022-10-22 | 441 | 77 | 
 | 2022-10-21 | 429 | 75 | 
-| 2022-10-20 | 424 | 75 | 
 

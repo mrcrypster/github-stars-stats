@@ -1,10 +1,10 @@
 # Mixtape-Sessions/Difference-in-Differences - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 56
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/Mixtape-Sessions/Difference-in-Differences)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 28 | 56 | 
 | 2022-11-18 | 27 | 56 | 
 | 2022-11-17 | 27 | 56 | 
 | 2022-11-16 | 27 | 56 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 26 | 56 | 
 | 2022-10-22 | 26 | 56 | 
 | 2022-10-21 | 26 | 56 | 
-| 2022-10-20 | 26 | 56 | 
 

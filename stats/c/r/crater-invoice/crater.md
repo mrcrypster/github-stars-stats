@@ -1,10 +1,10 @@
 # crater-invoice/crater - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 1263
 
-★ Stars: 6613
+★ Stars: 6615
 
 [Open repository](https://github.com/crater-invoice/crater)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 6615 | 1263 | 
 | 2022-11-18 | 6613 | 1263 | 
 | 2022-11-17 | 6610 | 1263 | 
 | 2022-11-16 | 6606 | 1260 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 6559 | 1246 | 
 | 2022-10-22 | 6557 | 1246 | 
 | 2022-10-21 | 6556 | 1246 | 
-| 2022-10-20 | 6552 | 1245 | 
 

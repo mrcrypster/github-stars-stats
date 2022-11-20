@@ -1,6 +1,6 @@
 # darklow/django-suit - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 675
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 2190 | 675 | 
 | 2022-11-18 | 2190 | 675 | 
 | 2022-11-17 | 2190 | 675 | 
 | 2022-11-16 | 2189 | 675 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 2183 | 674 | 
 | 2022-10-22 | 2183 | 674 | 
 | 2022-10-21 | 2182 | 674 | 
-| 2022-10-20 | 2181 | 674 | 
 

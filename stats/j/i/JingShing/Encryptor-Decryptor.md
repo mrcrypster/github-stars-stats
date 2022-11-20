@@ -1,10 +1,10 @@
 # JingShing/Encryptor-Decryptor - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 13
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/JingShing/Encryptor-Decryptor)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 37 | 13 | 
 | 2022-11-19 | 36 | 13 | 
 | 2022-11-18 | 34 | 13 | 
 | 2022-11-16 | 34 | 13 | 

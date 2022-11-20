@@ -1,10 +1,10 @@
 # square/moshi - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 707
 
-★ Stars: 8637
+★ Stars: 8639
 
 [Open repository](https://github.com/square/moshi)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 8639 | 707 | 
 | 2022-11-18 | 8637 | 707 | 
 | 2022-11-17 | 8637 | 707 | 
 | 2022-11-16 | 8637 | 707 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 8570 | 706 | 
 | 2022-10-22 | 8568 | 706 | 
 | 2022-10-21 | 8559 | 706 | 
-| 2022-10-20 | 8559 | 706 | 
 

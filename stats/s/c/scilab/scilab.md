@@ -1,6 +1,6 @@
 # scilab/scilab - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 66
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 231 | 66 | 
 | 2022-11-18 | 231 | 66 | 
 | 2022-11-17 | 231 | 66 | 
 | 2022-11-16 | 230 | 66 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 221 | 63 | 
 | 2022-10-22 | 221 | 63 | 
 | 2022-10-21 | 221 | 63 | 
-| 2022-10-20 | 221 | 63 | 
 

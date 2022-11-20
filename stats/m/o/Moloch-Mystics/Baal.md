@@ -1,6 +1,6 @@
 # Moloch-Mystics/Baal - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 84 | 42 | 
 | 2022-11-18 | 84 | 42 | 
 | 2022-11-17 | 84 | 42 | 
 | 2022-11-16 | 84 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 83 | 40 | 
 | 2022-10-22 | 83 | 40 | 
 | 2022-10-21 | 82 | 40 | 
-| 2022-10-20 | 82 | 40 | 
 

@@ -1,10 +1,10 @@
 # sebastianbergmann/global-state - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 18
 
-★ Stars: 6267
+★ Stars: 6269
 
 [Open repository](https://github.com/sebastianbergmann/global-state)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 6269 | 18 | 
 | 2022-11-18 | 6267 | 18 | 
 | 2022-11-17 | 6268 | 18 | 
 | 2022-11-16 | 6271 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-24 | 6256 | 18 | 
 | 2022-10-23 | 6256 | 18 | 
 | 2022-10-22 | 6255 | 18 | 
-| 2022-10-21 | 6255 | 18 | 
 

@@ -1,10 +1,10 @@
 # veloren/veloren - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 222
 
-★ Stars: 3031
+★ Stars: 3035
 
 [Open repository](https://github.com/veloren/veloren)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 3035 | 222 | 
 | 2022-11-19 | 3031 | 222 | 
 | 2022-11-17 | 3027 | 222 | 
 | 2022-11-16 | 3023 | 221 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-23 | 2945 | 214 | 
 | 2022-10-22 | 2944 | 214 | 
 | 2022-10-21 | 2941 | 215 | 
-| 2022-10-20 | 2936 | 214 | 
 

@@ -1,6 +1,6 @@
 # snu-csl/ca-pa3 - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 4 | 4 | 
 | 2022-11-18 | 4 | 4 | 
 | 2022-11-17 | 4 | 4 | 
 | 2022-11-16 | 4 | 4 | 

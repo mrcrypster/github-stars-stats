@@ -1,8 +1,8 @@
 # meisnate12/Plex-Meta-Manager-Configs - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 312
+☋ Forks: 313
 
 ★ Stars: 344
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 344 | 313 | 
 | 2022-11-18 | 344 | 312 | 
 | 2022-11-17 | 343 | 311 | 
 | 2022-11-16 | 341 | 310 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 317 | 295 | 
 | 2022-10-22 | 314 | 294 | 
 | 2022-10-21 | 313 | 294 | 
-| 2022-10-20 | 312 | 293 | 
 

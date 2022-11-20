@@ -1,10 +1,10 @@
 # IntelLabs/control-flag - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 112
 
-★ Stars: 1222
+★ Stars: 1223
 
 [Open repository](https://github.com/IntelLabs/control-flag)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 1223 | 112 | 
 | 2022-11-18 | 1222 | 112 | 
 | 2022-11-17 | 1221 | 112 | 
 | 2022-11-16 | 1221 | 112 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 1218 | 111 | 
 | 2022-10-22 | 1218 | 111 | 
 | 2022-10-21 | 1217 | 111 | 
-| 2022-10-20 | 1217 | 111 | 
 

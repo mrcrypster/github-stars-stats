@@ -1,6 +1,6 @@
 # F-Society-Freaks/TikTok-Shares-Botter - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 154
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 109 | 154 | 
 | 2022-11-18 | 109 | 154 | 
 | 2022-11-17 | 110 | 154 | 
 | 2022-11-16 | 110 | 153 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 105 | 153 | 
 | 2022-10-22 | 105 | 153 | 
 | 2022-10-21 | 105 | 152 | 
-| 2022-10-20 | 105 | 152 | 
 

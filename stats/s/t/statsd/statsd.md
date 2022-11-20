@@ -1,6 +1,6 @@
 # statsd/statsd - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 1983
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 16751 | 1983 | 
 | 2022-11-18 | 16751 | 1983 | 
 | 2022-11-17 | 16747 | 1983 | 
 | 2022-11-16 | 16745 | 1983 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 16712 | 1985 | 
 | 2022-10-22 | 16710 | 1985 | 
 | 2022-10-21 | 16709 | 1985 | 
-| 2022-10-20 | 16706 | 1985 | 
 

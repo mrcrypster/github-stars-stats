@@ -1,6 +1,6 @@
 # polybassa/PIC-Bootloader - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 1
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 2 | 1 | 
+| 2022-11-19 | 2 | 1 | 
 | 2022-11-18 | 2 | 1 | 
 | 2022-11-17 | 2 | 1 | 
 | 2022-11-16 | 2 | 1 | 
@@ -41,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-24 | 2 | 1 | 
 | 2022-10-23 | 2 | 1 | 
 | 2022-10-22 | 2 | 1 | 
-| 2022-10-21 | 2 | 1 | 
 

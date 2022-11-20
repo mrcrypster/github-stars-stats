@@ -1,6 +1,6 @@
 # burrito-elixir/burrito - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 507 | 11 | 
 | 2022-11-18 | 507 | 11 | 
 | 2022-11-17 | 505 | 11 | 
 | 2022-11-16 | 505 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 496 | 11 | 
 | 2022-10-22 | 495 | 11 | 
 | 2022-10-21 | 495 | 11 | 
-| 2022-10-20 | 495 | 11 | 
 

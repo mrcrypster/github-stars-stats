@@ -1,6 +1,6 @@
 # MCHPR/MCHPRS - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 1085 | 49 | 
 | 2022-11-18 | 1085 | 49 | 
 | 2022-11-17 | 1085 | 49 | 
 | 2022-11-16 | 1084 | 49 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 1053 | 49 | 
 | 2022-10-22 | 1052 | 49 | 
 | 2022-10-21 | 1050 | 49 | 
-| 2022-10-20 | 1049 | 49 | 
 

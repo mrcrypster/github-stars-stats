@@ -1,6 +1,6 @@
 # ruiaureliano/X-SwiftFormat - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 706 | 22 | 
 | 2022-11-18 | 706 | 22 | 
 | 2022-11-17 | 706 | 22 | 
 | 2022-11-16 | 706 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 696 | 21 | 
 | 2022-10-22 | 696 | 21 | 
 | 2022-10-21 | 696 | 21 | 
-| 2022-10-20 | 694 | 21 | 
 

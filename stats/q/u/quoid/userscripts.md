@@ -1,10 +1,10 @@
 # quoid/userscripts - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 62
 
-★ Stars: 1488
+★ Stars: 1494
 
 [Open repository](https://github.com/quoid/userscripts)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 1494 | 62 | 
 | 2022-11-18 | 1488 | 62 | 
 | 2022-11-17 | 1487 | 62 | 
 | 2022-11-16 | 1483 | 62 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 1423 | 59 | 
 | 2022-10-22 | 1423 | 59 | 
 | 2022-10-21 | 1423 | 59 | 
-| 2022-10-20 | 1423 | 59 | 
 

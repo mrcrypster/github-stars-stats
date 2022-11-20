@@ -1,6 +1,6 @@
 # kiwanami/emacs-epc - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 184 | 26 | 
 | 2022-11-18 | 184 | 26 | 
 | 2022-11-17 | 185 | 26 | 
 | 2022-11-16 | 185 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-24 | 184 | 26 | 
 | 2022-10-23 | 184 | 26 | 
 | 2022-10-22 | 184 | 26 | 
-| 2022-10-21 | 184 | 26 | 
 

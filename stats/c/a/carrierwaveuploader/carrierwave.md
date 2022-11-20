@@ -1,6 +1,6 @@
 # carrierwaveuploader/carrierwave - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 1634
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 8734 | 1634 | 
 | 2022-11-18 | 8734 | 1634 | 
 | 2022-11-17 | 8732 | 1634 | 
 | 2022-11-16 | 8731 | 1633 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 8727 | 1632 | 
 | 2022-10-22 | 8727 | 1632 | 
 | 2022-10-21 | 8727 | 1632 | 
-| 2022-10-20 | 8726 | 1632 | 
 

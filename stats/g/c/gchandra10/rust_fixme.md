@@ -1,10 +1,10 @@
 # gchandra10/rust_fixme - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 23
 
-★ Stars: 16
+★ Stars: 19
 
 [Open repository](https://github.com/gchandra10/rust_fixme)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-19 | 16 | 23 | 
+| 2022-11-20 | 19 | 23 | 
+| 2022-11-19 | 19 | 23 | 
 | 2022-11-18 | 17 | 23 | 
 

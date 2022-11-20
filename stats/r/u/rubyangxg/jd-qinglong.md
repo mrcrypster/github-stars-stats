@@ -1,10 +1,10 @@
 # rubyangxg/jd-qinglong - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 78
 
-★ Stars: 170
+★ Stars: 171
 
 [Open repository](https://github.com/rubyangxg/jd-qinglong)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 171 | 78 | 
 | 2022-11-18 | 170 | 78 | 
 | 2022-11-17 | 169 | 77 | 
 | 2022-11-16 | 167 | 76 | 

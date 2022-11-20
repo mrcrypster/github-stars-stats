@@ -1,6 +1,6 @@
 # RestedXP/RXPGuides - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 64 | 32 | 
 | 2022-11-18 | 64 | 32 | 
 | 2022-11-17 | 64 | 32 | 
 | 2022-11-16 | 64 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 61 | 29 | 
 | 2022-10-22 | 61 | 29 | 
 | 2022-10-21 | 61 | 29 | 
-| 2022-10-20 | 61 | 28 | 
 

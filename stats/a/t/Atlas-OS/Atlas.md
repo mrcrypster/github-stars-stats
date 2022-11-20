@@ -1,6 +1,6 @@
 # Atlas-OS/Atlas - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 506 | 45 | 
 | 2022-11-18 | 506 | 45 | 
 | 2022-11-17 | 506 | 44 | 
 | 2022-11-16 | 501 | 44 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 475 | 44 | 
 | 2022-10-22 | 473 | 44 | 
 | 2022-10-21 | 472 | 44 | 
-| 2022-10-20 | 472 | 44 | 
 

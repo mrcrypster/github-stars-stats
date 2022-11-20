@@ -1,10 +1,10 @@
 # donnemartin/data-science-ipython-notebooks - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 7384
+☋ Forks: 7389
 
-★ Stars: 24201
+★ Stars: 24217
 
 [Open repository](https://github.com/donnemartin/data-science-ipython-notebooks)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 24217 | 7389 | 
 | 2022-11-18 | 24201 | 7384 | 
 | 2022-11-17 | 24195 | 7382 | 
 | 2022-11-16 | 24189 | 7380 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 24014 | 7339 | 
 | 2022-10-22 | 24004 | 7337 | 
 | 2022-10-21 | 23993 | 7334 | 
-| 2022-10-20 | 23977 | 7328 | 
 

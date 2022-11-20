@@ -1,10 +1,10 @@
 # JuliaDiff/ForwardDiff.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 124
 
-★ Stars: 709
+★ Stars: 710
 
 [Open repository](https://github.com/JuliaDiff/ForwardDiff.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 710 | 124 | 
 | 2022-11-18 | 709 | 124 | 
 | 2022-11-17 | 708 | 124 | 
 | 2022-11-16 | 703 | 124 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 700 | 124 | 
 | 2022-10-22 | 700 | 124 | 
 | 2022-10-21 | 700 | 124 | 
-| 2022-10-20 | 700 | 124 | 
 

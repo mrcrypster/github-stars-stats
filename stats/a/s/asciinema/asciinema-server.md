@@ -1,6 +1,6 @@
 # asciinema/asciinema-server - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 240
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 1995 | 240 | 
 | 2022-11-18 | 1995 | 240 | 
 | 2022-11-17 | 1995 | 240 | 
 | 2022-11-16 | 1994 | 240 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 1984 | 241 | 
 | 2022-10-22 | 1984 | 241 | 
 | 2022-10-21 | 1983 | 241 | 
-| 2022-10-20 | 1982 | 241 | 
 

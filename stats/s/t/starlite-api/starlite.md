@@ -1,10 +1,10 @@
 # starlite-api/starlite - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
-☋ Forks: 123
+☋ Forks: 122
 
-★ Stars: 1437
+★ Stars: 1436
 
 [Open repository](https://github.com/starlite-api/starlite)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 1436 | 122 | 
 | 2022-11-18 | 1437 | 123 | 
 | 2022-11-17 | 1436 | 123 | 
 | 2022-11-16 | 1435 | 123 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 1337 | 116 | 
 | 2022-10-22 | 1335 | 115 | 
 | 2022-10-21 | 1331 | 113 | 
-| 2022-10-20 | 1323 | 112 | 
 

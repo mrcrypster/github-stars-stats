@@ -1,6 +1,6 @@
 # axa-group/Parsr - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 255
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 5004 | 255 | 
 | 2022-11-18 | 5004 | 255 | 
 | 2022-11-17 | 5002 | 255 | 
 | 2022-11-16 | 5001 | 255 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 4957 | 251 | 
 | 2022-10-22 | 4957 | 251 | 
 | 2022-10-21 | 4958 | 251 | 
-| 2022-10-20 | 4956 | 250 | 
 

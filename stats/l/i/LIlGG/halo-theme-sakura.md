@@ -1,10 +1,10 @@
 # LIlGG/halo-theme-sakura - stars & forks statistics
 
-Stats updated on Nov 2022, 18
+Stats updated on Nov 2022, 19
 
 ☋ Forks: 113
 
-★ Stars: 537
+★ Stars: 538
 
 [Open repository](https://github.com/LIlGG/halo-theme-sakura)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-19 | 538 | 113 | 
 | 2022-11-18 | 537 | 113 | 
 | 2022-11-17 | 537 | 113 | 
 | 2022-11-16 | 536 | 112 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 18
 | 2022-10-23 | 530 | 111 | 
 | 2022-10-22 | 529 | 111 | 
 | 2022-10-21 | 527 | 111 | 
-| 2022-10-20 | 527 | 111 | 
 
