@@ -1,10 +1,10 @@
 # provectus/kafka-ui - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 508
 
-★ Stars: 3995
+★ Stars: 3998
 
 [Open repository](https://github.com/provectus/kafka-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 3998 | 508 | 
 | 2022-11-19 | 3995 | 508 | 
 | 2022-11-18 | 3989 | 506 | 
 | 2022-11-17 | 3985 | 505 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 3847 | 482 | 
 | 2022-10-23 | 3843 | 482 | 
 | 2022-10-22 | 3837 | 482 | 
-| 2022-10-21 | 3830 | 480 | 
 

@@ -1,10 +1,10 @@
 # dosisod/refurb - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 34
 
-★ Stars: 1965
+★ Stars: 1975
 
 [Open repository](https://github.com/dosisod/refurb)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 1975 | 34 | 
 | 2022-11-19 | 1965 | 34 | 
 | 2022-11-18 | 1948 | 34 | 
 | 2022-11-17 | 1909 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 1634 | 28 | 
 | 2022-10-23 | 1630 | 28 | 
 | 2022-10-22 | 1617 | 28 | 
-| 2022-10-21 | 1613 | 28 | 
 

@@ -1,8 +1,8 @@
 # next-step/infra-subway-deploy - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
-☋ Forks: 354
+☋ Forks: 361
 
 ★ Stars: 13
 
@@ -13,7 +13,8 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-20 | 13 | 354 | 
+| 2022-11-21 | 13 | 361 | 
+| 2022-11-20 | 13 | 361 | 
 | 2022-11-19 | 13 | 354 | 
 | 2022-11-18 | 13 | 342 | 
 | 2022-11-17 | 13 | 336 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-24 | 12 | 324 | 
 | 2022-10-23 | 12 | 324 | 
 | 2022-10-22 | 12 | 324 | 
-| 2022-10-21 | 12 | 324 | 
 

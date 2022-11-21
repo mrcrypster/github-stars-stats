@@ -1,8 +1,8 @@
 # vuejs/devtools - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
-☋ Forks: 3988
+☋ Forks: 3989
 
 ★ Stars: 23106
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 23106 | 3989 | 
 | 2022-11-20 | 23106 | 3988 | 
 | 2022-11-19 | 23106 | 3988 | 
 | 2022-11-17 | 23103 | 3987 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-24 | 23023 | 3954 | 
 | 2022-10-23 | 23021 | 3951 | 
 | 2022-10-22 | 23017 | 3951 | 
-| 2022-10-21 | 23018 | 3948 | 
 

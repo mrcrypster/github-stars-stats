@@ -1,6 +1,6 @@
 # X-Lucifer/AI-Lossless-Zoomer - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 122
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 908 | 122 | 
 | 2022-11-19 | 908 | 122 | 
 | 2022-11-18 | 905 | 122 | 
 | 2022-11-17 | 902 | 121 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 870 | 115 | 
 | 2022-10-23 | 867 | 115 | 
 | 2022-10-22 | 866 | 115 | 
-| 2022-10-21 | 863 | 114 | 
 

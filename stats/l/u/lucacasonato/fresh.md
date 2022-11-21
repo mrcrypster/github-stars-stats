@@ -1,10 +1,10 @@
 # lucacasonato/fresh - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
-☋ Forks: 379
+☋ Forks: 380
 
-★ Stars: 9436
+★ Stars: 9439
 
 [Open repository](https://github.com/lucacasonato/fresh)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 9439 | 380 | 
 | 2022-11-19 | 9436 | 379 | 
 | 2022-11-18 | 9430 | 380 | 
 | 2022-11-17 | 9427 | 378 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 9292 | 367 | 
 | 2022-10-23 | 9276 | 366 | 
 | 2022-10-22 | 9269 | 366 | 
-| 2022-10-21 | 9261 | 364 | 
 

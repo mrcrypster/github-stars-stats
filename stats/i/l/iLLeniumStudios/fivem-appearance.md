@@ -1,6 +1,6 @@
 # iLLeniumStudios/fivem-appearance - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 91
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 99 | 91 | 
 | 2022-11-19 | 99 | 91 | 
 | 2022-11-18 | 99 | 91 | 
 | 2022-11-17 | 99 | 91 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 93 | 88 | 
 | 2022-10-23 | 93 | 87 | 
 | 2022-10-22 | 93 | 88 | 
-| 2022-10-21 | 93 | 87 | 
 

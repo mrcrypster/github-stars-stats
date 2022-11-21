@@ -1,6 +1,6 @@
 # iqrabismi/YouTubeDemo-NodeJsSampleAPI - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 1 | 34 | 
 | 2022-11-19 | 1 | 34 | 
 | 2022-11-18 | 1 | 33 | 
 | 2022-11-17 | 1 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | - | 33 | 
 | 2022-10-23 | - | 33 | 
 | 2022-10-22 | - | 32 | 
-| 2022-10-21 | - | 32 | 
 

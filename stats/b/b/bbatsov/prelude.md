@@ -1,8 +1,8 @@
 # bbatsov/prelude - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
-☋ Forks: 1846
+☋ Forks: 1848
 
 ★ Stars: 4897
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 4897 | 1848 | 
 | 2022-11-19 | 4897 | 1846 | 
 | 2022-11-18 | 4897 | 1845 | 
 | 2022-11-17 | 4897 | 1845 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 4876 | 1840 | 
 | 2022-10-23 | 4876 | 1840 | 
 | 2022-10-22 | 4876 | 1840 | 
-| 2022-10-21 | 4876 | 1840 | 
 

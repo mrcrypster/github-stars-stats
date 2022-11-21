@@ -1,10 +1,10 @@
 # dizzyliam/pigeon - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
-☋ Forks: 0
+☋ Forks: 1
 
-★ Stars: 28
+★ Stars: 31
 
 [Open repository](https://github.com/dizzyliam/pigeon)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 31 | 1 | 
 | 2022-11-20 | 28 | - | 
 | 2022-11-19 | 25 | - | 
 | 2022-11-17 | 25 | - | 

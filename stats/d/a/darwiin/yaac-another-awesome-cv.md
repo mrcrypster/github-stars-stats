@@ -1,10 +1,10 @@
 # darwiin/yaac-another-awesome-cv - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 201
 
-★ Stars: 728
+★ Stars: 729
 
 [Open repository](https://github.com/darwiin/yaac-another-awesome-cv)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 729 | 201 | 
 | 2022-11-19 | 728 | 201 | 
 | 2022-11-18 | 728 | 201 | 
 | 2022-11-17 | 728 | 201 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 721 | 202 | 
 | 2022-10-23 | 721 | 202 | 
 | 2022-10-22 | 721 | 202 | 
-| 2022-10-21 | 721 | 202 | 
 

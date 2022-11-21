@@ -1,10 +1,10 @@
 # italiaremote/awesome-italia-remote - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 196
 
-★ Stars: 1304
+★ Stars: 1305
 
 [Open repository](https://github.com/italiaremote/awesome-italia-remote)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 1305 | 196 | 
 | 2022-11-19 | 1304 | 196 | 
 | 2022-11-18 | 1303 | 196 | 
 | 2022-11-17 | 1303 | 196 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 1285 | 193 | 
 | 2022-10-23 | 1285 | 193 | 
 | 2022-10-22 | 1285 | 193 | 
-| 2022-10-21 | 1285 | 193 | 
 

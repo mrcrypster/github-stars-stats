@@ -1,8 +1,8 @@
 # ned1313/Getting-Started-Terraform - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
-☋ Forks: 1017
+☋ Forks: 1016
 
 ★ Stars: 397
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 397 | 1016 | 
 | 2022-11-19 | 397 | 1017 | 
 | 2022-11-18 | 396 | 1019 | 
 | 2022-11-17 | 397 | 1016 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 390 | 975 | 
 | 2022-10-23 | 390 | 976 | 
 | 2022-10-22 | 390 | 975 | 
-| 2022-10-21 | 389 | 974 | 
 

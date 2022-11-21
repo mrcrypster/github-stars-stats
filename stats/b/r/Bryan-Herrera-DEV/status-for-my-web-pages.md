@@ -1,10 +1,10 @@
 # Bryan-Herrera-DEV/status-for-my-web-pages - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 0
 
-★ Stars: 6
+★ Stars: 5
 
 [Open repository](https://github.com/Bryan-Herrera-DEV/status-for-my-web-pages)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 5 | - | 
 | 2022-11-19 | 6 | - | 
 | 2022-11-18 | 6 | - | 
 | 2022-11-17 | 6 | - | 

@@ -1,6 +1,6 @@
 # QueueClassic/queue_classic - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 157
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 1190 | 157 | 
 | 2022-11-19 | 1190 | 157 | 
 | 2022-11-18 | 1190 | 157 | 
 | 2022-11-17 | 1190 | 157 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 1188 | 159 | 
 | 2022-10-23 | 1188 | 159 | 
 | 2022-10-22 | 1188 | 159 | 
-| 2022-10-21 | 1188 | 159 | 
 

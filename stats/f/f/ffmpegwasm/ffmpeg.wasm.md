@@ -1,10 +1,10 @@
 # ffmpegwasm/ffmpeg.wasm - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 469
 
-★ Stars: 9006
+★ Stars: 9014
 
 [Open repository](https://github.com/ffmpegwasm/ffmpeg.wasm)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 9014 | 469 | 
 | 2022-11-20 | 9006 | 469 | 
 | 2022-11-19 | 9004 | 469 | 
 | 2022-11-18 | 8997 | 469 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-24 | 8719 | 454 | 
 | 2022-10-23 | 8712 | 450 | 
 | 2022-10-22 | 8705 | 449 | 
-| 2022-10-21 | 8701 | 449 | 
 

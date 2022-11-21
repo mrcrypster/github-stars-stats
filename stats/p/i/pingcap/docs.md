@@ -1,6 +1,6 @@
 # pingcap/docs - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 555
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 505 | 555 | 
 | 2022-11-19 | 505 | 555 | 
 | 2022-11-18 | 505 | 556 | 
 | 2022-11-17 | 505 | 553 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 505 | 548 | 
 | 2022-10-23 | 505 | 548 | 
 | 2022-10-22 | 505 | 548 | 
-| 2022-10-21 | 505 | 548 | 
 

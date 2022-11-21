@@ -1,6 +1,6 @@
 # hadley/r4ds - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 3753
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 3776 | 3753 | 
 | 2022-11-19 | 3776 | 3753 | 
 | 2022-11-18 | 3775 | 3753 | 
 | 2022-11-17 | 3773 | 3751 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 3734 | 3729 | 
 | 2022-10-23 | 3732 | 3729 | 
 | 2022-10-22 | 3731 | 3729 | 
-| 2022-10-21 | 3730 | 3729 | 
 

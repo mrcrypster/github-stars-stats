@@ -1,10 +1,10 @@
 # reach-sh/reach-lang - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 170
 
-★ Stars: 564
+★ Stars: 565
 
 [Open repository](https://github.com/reach-sh/reach-lang)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 565 | 170 | 
 | 2022-11-19 | 564 | 170 | 
 | 2022-11-18 | 564 | 170 | 
 | 2022-11-17 | 563 | 169 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 558 | 168 | 
 | 2022-10-23 | 558 | 168 | 
 | 2022-10-22 | 558 | 168 | 
-| 2022-10-21 | 558 | 168 | 
 

@@ -1,10 +1,10 @@
 # cube-root/directory-serve - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 15
 
-★ Stars: 383
+★ Stars: 384
 
 [Open repository](https://github.com/cube-root/directory-serve)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 384 | 15 | 
 | 2022-11-19 | 383 | 15 | 
 | 2022-11-18 | 382 | 15 | 
 | 2022-11-17 | 380 | 15 | 

@@ -1,6 +1,6 @@
 # mcchrish/zenbones.nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 346 | 17 | 
 | 2022-11-19 | 346 | 17 | 
 | 2022-11-18 | 344 | 17 | 
 | 2022-11-17 | 345 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 334 | 17 | 
 | 2022-10-23 | 333 | 17 | 
 | 2022-10-22 | 333 | 17 | 
-| 2022-10-21 | 333 | 17 | 
 

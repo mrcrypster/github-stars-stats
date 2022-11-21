@@ -1,10 +1,10 @@
 # vercel/turborepo - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
-☋ Forks: 967
+☋ Forks: 970
 
-★ Stars: 17490
+★ Stars: 17524
 
 [Open repository](https://github.com/vercel/turborepo)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 17524 | 970 | 
 | 2022-11-19 | 17490 | 967 | 
 | 2022-11-18 | 17439 | 964 | 
 | 2022-11-17 | 17390 | 953 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 10141 | 677 | 
 | 2022-10-23 | 10072 | 675 | 
 | 2022-10-22 | 9978 | 676 | 
-| 2022-10-21 | 9968 | 667 | 
 

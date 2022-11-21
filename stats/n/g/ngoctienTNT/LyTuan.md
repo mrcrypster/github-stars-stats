@@ -1,6 +1,6 @@
 # ngoctienTNT/LyTuan - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 7 | 33 | 
 | 2022-11-19 | 7 | 33 | 
 | 2022-11-18 | 7 | 33 | 
 | 2022-11-17 | 7 | 33 | 

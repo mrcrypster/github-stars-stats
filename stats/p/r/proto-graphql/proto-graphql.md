@@ -1,6 +1,6 @@
 # proto-graphql/proto-graphql - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 2 | - | 
 | 2022-11-20 | 2 | - | 
 | 2022-11-18 | 2 | - | 
 | 2022-11-17 | 2 | - | 

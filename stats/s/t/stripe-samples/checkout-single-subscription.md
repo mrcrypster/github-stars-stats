@@ -1,6 +1,6 @@
 # stripe-samples/checkout-single-subscription - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 279
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 560 | 279 | 
 | 2022-11-20 | 560 | 279 | 
 | 2022-11-18 | 560 | 279 | 
 | 2022-11-17 | 559 | 279 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-24 | 550 | 276 | 
 | 2022-10-23 | 549 | 276 | 
 | 2022-10-22 | 548 | 276 | 
-| 2022-10-21 | 549 | 277 | 
 

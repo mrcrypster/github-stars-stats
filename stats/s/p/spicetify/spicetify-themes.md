@@ -1,10 +1,10 @@
 # spicetify/spicetify-themes - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
-☋ Forks: 1184
+☋ Forks: 1185
 
-★ Stars: 3930
+★ Stars: 3929
 
 [Open repository](https://github.com/spicetify/spicetify-themes)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 3929 | 1185 | 
 | 2022-11-19 | 3930 | 1184 | 
 | 2022-11-18 | 3929 | 1184 | 
 | 2022-11-17 | 3928 | 1184 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 3874 | 1163 | 
 | 2022-10-23 | 3874 | 1163 | 
 | 2022-10-22 | 3873 | 1163 | 
-| 2022-10-21 | 3871 | 1161 | 
 

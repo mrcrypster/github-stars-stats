@@ -1,10 +1,10 @@
 # abhishekkrthakur/approachingalmost - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 656
 
-★ Stars: 3459
+★ Stars: 3461
 
 [Open repository](https://github.com/abhishekkrthakur/approachingalmost)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 3461 | 656 | 
 | 2022-11-19 | 3459 | 656 | 
 | 2022-11-18 | 3456 | 655 | 
 | 2022-11-17 | 3454 | 655 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-25 | 3425 | 652 | 
 | 2022-10-24 | 3425 | 652 | 
 | 2022-10-23 | 3422 | 651 | 
-| 2022-10-22 | 3421 | 651 | 
 

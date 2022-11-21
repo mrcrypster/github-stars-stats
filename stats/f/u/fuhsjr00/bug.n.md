@@ -1,6 +1,6 @@
 # fuhsjr00/bug.n - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 221
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 3072 | 221 | 
 | 2022-11-19 | 3072 | 221 | 
 | 2022-11-18 | 3070 | 221 | 
 | 2022-11-17 | 3069 | 221 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 3056 | 221 | 
 | 2022-10-23 | 3057 | 221 | 
 | 2022-10-22 | 3058 | 221 | 
-| 2022-10-21 | 3057 | 221 | 
 

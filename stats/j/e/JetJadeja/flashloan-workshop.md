@@ -1,10 +1,10 @@
 # JetJadeja/flashloan-workshop - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 3
 
-★ Stars: 48
+★ Stars: 49
 
 [Open repository](https://github.com/JetJadeja/flashloan-workshop)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 49 | 3 | 
 | 2022-11-19 | 48 | 3 | 
 | 2022-11-18 | 48 | 3 | 
 | 2022-11-17 | 47 | 3 | 

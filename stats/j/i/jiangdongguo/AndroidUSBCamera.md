@@ -1,10 +1,10 @@
 # jiangdongguo/AndroidUSBCamera - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 561
 
-★ Stars: 1549
+★ Stars: 1551
 
 [Open repository](https://github.com/jiangdongguo/AndroidUSBCamera)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 1551 | 561 | 
 | 2022-11-19 | 1549 | 561 | 
 | 2022-11-18 | 1548 | 561 | 
 | 2022-11-17 | 1547 | 560 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 1527 | 556 | 
 | 2022-10-23 | 1527 | 556 | 
 | 2022-10-22 | 1527 | 556 | 
-| 2022-10-21 | 1526 | 556 | 
 

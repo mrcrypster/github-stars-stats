@@ -1,10 +1,10 @@
 # dalanicolai/emacs-key-guide - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 0
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/dalanicolai/emacs-key-guide)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 3 | - | 
 | 2022-11-19 | 2 | - | 
 | 2022-11-18 | 2 | - | 
 | 2022-11-17 | 2 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | - | - | 
 | 2022-10-23 | - | - | 
 | 2022-10-22 | - | - | 
-| 2022-10-21 | - | - | 
 

@@ -1,10 +1,10 @@
 # eludadev/css-docs - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 36
 
-★ Stars: 217
+★ Stars: 218
 
 [Open repository](https://github.com/eludadev/css-docs)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 218 | 36 | 
 | 2022-11-19 | 217 | 36 | 
 | 2022-11-18 | 216 | 36 | 
 | 2022-11-17 | 215 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 199 | 32 | 
 | 2022-10-23 | 199 | 32 | 
 | 2022-10-22 | 199 | 32 | 
-| 2022-10-21 | 199 | 32 | 
 

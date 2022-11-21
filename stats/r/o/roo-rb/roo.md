@@ -1,6 +1,6 @@
 # roo-rb/roo - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 486
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 2623 | 486 | 
 | 2022-11-19 | 2623 | 486 | 
 | 2022-11-18 | 2623 | 486 | 
 | 2022-11-17 | 2622 | 486 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 2621 | 486 | 
 | 2022-10-23 | 2620 | 486 | 
 | 2022-10-22 | 2620 | 486 | 
-| 2022-10-21 | 2620 | 486 | 
 

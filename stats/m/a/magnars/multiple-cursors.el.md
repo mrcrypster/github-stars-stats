@@ -1,10 +1,10 @@
 # magnars/multiple-cursors.el - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 163
 
-★ Stars: 2029
+★ Stars: 2030
 
 [Open repository](https://github.com/magnars/multiple-cursors.el)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 2030 | 163 | 
 | 2022-11-19 | 2029 | 163 | 
 | 2022-11-18 | 2029 | 163 | 
 | 2022-11-17 | 2029 | 163 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 2025 | 164 | 
 | 2022-10-23 | 2024 | 164 | 
 | 2022-10-22 | 2024 | 164 | 
-| 2022-10-21 | 2024 | 164 | 
 

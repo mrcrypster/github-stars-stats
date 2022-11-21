@@ -1,10 +1,10 @@
 # hdl-util/hdmi - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 82
 
-★ Stars: 781
+★ Stars: 782
 
 [Open repository](https://github.com/hdl-util/hdmi)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 782 | 82 | 
 | 2022-11-19 | 781 | 82 | 
 | 2022-11-18 | 780 | 82 | 
 | 2022-11-17 | 778 | 81 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 767 | 79 | 
 | 2022-10-23 | 767 | 79 | 
 | 2022-10-22 | 765 | 79 | 
-| 2022-10-21 | 762 | 78 | 
 

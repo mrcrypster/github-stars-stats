@@ -1,6 +1,6 @@
 # plume-design/meta-rdk-opensync - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 1 | 4 | 
 | 2022-11-19 | 1 | 4 | 
 | 2022-11-18 | 1 | 4 | 
 | 2022-11-17 | 1 | 4 | 

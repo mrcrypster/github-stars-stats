@@ -1,6 +1,6 @@
 # Freescale/meta-freescale-distro - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 66
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 55 | 66 | 
 | 2022-11-19 | 55 | 66 | 
 | 2022-11-18 | 55 | 66 | 
 | 2022-11-17 | 55 | 66 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 53 | 66 | 
 | 2022-10-23 | 53 | 66 | 
 | 2022-10-22 | 53 | 66 | 
-| 2022-10-21 | 53 | 66 | 
 

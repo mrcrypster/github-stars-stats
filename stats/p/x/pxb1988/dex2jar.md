@@ -1,10 +1,10 @@
 # pxb1988/dex2jar - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
-☋ Forks: 1920
+☋ Forks: 1921
 
-★ Stars: 10377
+★ Stars: 10378
 
 [Open repository](https://github.com/pxb1988/dex2jar)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 10378 | 1921 | 
 | 2022-11-19 | 10377 | 1920 | 
 | 2022-11-18 | 10374 | 1920 | 
 | 2022-11-17 | 10368 | 1920 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 10299 | 1907 | 
 | 2022-10-23 | 10299 | 1907 | 
 | 2022-10-22 | 10296 | 1907 | 
-| 2022-10-21 | 10293 | 1906 | 
 

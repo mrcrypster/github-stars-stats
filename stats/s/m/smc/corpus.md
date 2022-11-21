@@ -1,6 +1,6 @@
 # smc/corpus - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 13 | 13 | 
 | 2022-11-19 | 13 | 13 | 
 | 2022-11-18 | 13 | 13 | 
 | 2022-11-17 | 13 | 13 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 13 | 13 | 
 | 2022-10-23 | 13 | 13 | 
 | 2022-10-22 | 13 | 13 | 
-| 2022-10-21 | 13 | 13 | 
 

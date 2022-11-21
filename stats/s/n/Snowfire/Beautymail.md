@@ -1,6 +1,6 @@
 # Snowfire/Beautymail - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 192
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 1081 | 192 | 
 | 2022-11-20 | 1081 | 192 | 
 | 2022-11-19 | 1081 | 192 | 
 | 2022-11-17 | 1081 | 192 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-24 | 1070 | 188 | 
 | 2022-10-23 | 1069 | 188 | 
 | 2022-10-22 | 1068 | 187 | 
-| 2022-10-21 | 1068 | 187 | 
 

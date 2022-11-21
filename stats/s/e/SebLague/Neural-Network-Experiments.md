@@ -1,6 +1,6 @@
 # SebLague/Neural-Network-Experiments - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 212 | 28 | 
 | 2022-11-19 | 212 | 28 | 
 | 2022-11-18 | 212 | 27 | 
 | 2022-11-17 | 212 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 202 | 21 | 
 | 2022-10-23 | 203 | 21 | 
 | 2022-10-22 | 203 | 21 | 
-| 2022-10-21 | 202 | 21 | 
 

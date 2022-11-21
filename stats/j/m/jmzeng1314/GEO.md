@@ -1,6 +1,6 @@
 # jmzeng1314/GEO - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 494
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 590 | 494 | 
 | 2022-11-19 | 590 | 494 | 
 | 2022-11-18 | 590 | 494 | 
 | 2022-11-17 | 590 | 494 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 581 | 492 | 
 | 2022-10-23 | 581 | 492 | 
 | 2022-10-22 | 581 | 492 | 
-| 2022-10-21 | 581 | 492 | 
 

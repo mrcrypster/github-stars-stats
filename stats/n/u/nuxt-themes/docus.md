@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 20
 
 ☋ Forks: 7
 
-★ Stars: 261
+★ Stars: 262
 
 [Open repository](https://github.com/nuxt-themes/docus)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-20 | 261 | 7 | 
+| 2022-11-20 | 262 | 7 | 
 | 2022-11-19 | 261 | 7 | 
 

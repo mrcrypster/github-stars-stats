@@ -1,10 +1,10 @@
 # Pierro55/Loop - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 3
 
-★ Stars: 43
+★ Stars: 44
 
 [Open repository](https://github.com/Pierro55/Loop)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 44 | 3 | 
 | 2022-11-19 | 43 | 3 | 
 | 2022-11-18 | 43 | 3 | 
 | 2022-11-17 | 43 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-25 | 42 | 3 | 
 | 2022-10-24 | 42 | 3 | 
 | 2022-10-23 | 42 | 3 | 
-| 2022-10-22 | 42 | 3 | 
 

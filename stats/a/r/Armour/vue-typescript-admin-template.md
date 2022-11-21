@@ -1,8 +1,8 @@
 # Armour/vue-typescript-admin-template - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
-☋ Forks: 1668
+☋ Forks: 1669
 
 ★ Stars: 4895
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 4895 | 1669 | 
 | 2022-11-19 | 4895 | 1668 | 
 | 2022-11-18 | 4894 | 1669 | 
 | 2022-11-17 | 4892 | 1668 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 4856 | 1661 | 
 | 2022-10-23 | 4854 | 1661 | 
 | 2022-10-22 | 4854 | 1661 | 
-| 2022-10-21 | 4852 | 1659 | 
 

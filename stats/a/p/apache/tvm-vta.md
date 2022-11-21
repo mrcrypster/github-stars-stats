@@ -1,8 +1,8 @@
 # apache/tvm-vta - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
-☋ Forks: 62
+☋ Forks: 63
 
 ★ Stars: 167
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 167 | 63 | 
 | 2022-11-19 | 167 | 62 | 
 | 2022-11-18 | 167 | 62 | 
 | 2022-11-17 | 165 | 62 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 160 | 62 | 
 | 2022-10-23 | 160 | 62 | 
 | 2022-10-22 | 160 | 62 | 
-| 2022-10-21 | 160 | 62 | 
 

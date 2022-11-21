@@ -1,8 +1,8 @@
 # profandyfield/discovr - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
-☋ Forks: 14
+☋ Forks: 13
 
 ★ Stars: 91
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 91 | 13 | 
 | 2022-11-19 | 91 | 14 | 
 | 2022-11-18 | 91 | 14 | 
 | 2022-11-17 | 90 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 89 | 14 | 
 | 2022-10-23 | 89 | 14 | 
 | 2022-10-22 | 89 | 14 | 
-| 2022-10-21 | 88 | 14 | 
 

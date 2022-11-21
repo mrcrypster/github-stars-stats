@@ -1,6 +1,6 @@
 # shirooo39/Windows-11-Bypass - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 51 | 12 | 
 | 2022-11-19 | 51 | 12 | 
 | 2022-11-18 | 51 | 12 | 
 | 2022-11-17 | 51 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 49 | 11 | 
 | 2022-10-23 | 49 | 11 | 
 | 2022-10-22 | 48 | 11 | 
-| 2022-10-21 | 48 | 10 | 
 

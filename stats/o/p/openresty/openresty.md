@@ -1,10 +1,10 @@
 # openresty/openresty - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 1437
 
-★ Stars: 10977
+★ Stars: 10978
 
 [Open repository](https://github.com/openresty/openresty)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 10978 | 1437 | 
 | 2022-11-19 | 10977 | 1437 | 
 | 2022-11-18 | 10977 | 1437 | 
 | 2022-11-17 | 10975 | 1437 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 10933 | 1429 | 
 | 2022-10-23 | 10929 | 1429 | 
 | 2022-10-22 | 10927 | 1429 | 
-| 2022-10-21 | 10926 | 1428 | 
 

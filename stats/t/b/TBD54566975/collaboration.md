@@ -1,6 +1,6 @@
 # TBD54566975/collaboration - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 240 | 23 | 
 | 2022-11-19 | 240 | 23 | 
 | 2022-11-18 | 240 | 23 | 
 | 2022-11-17 | 240 | 23 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 233 | 22 | 
 | 2022-10-23 | 233 | 22 | 
 | 2022-10-22 | 233 | 22 | 
-| 2022-10-21 | 233 | 22 | 
 

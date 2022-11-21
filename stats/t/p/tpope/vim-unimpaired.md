@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 20
 
 ☋ Forks: 203
 
-★ Stars: 2964
+★ Stars: 2965
 
 [Open repository](https://github.com/tpope/vim-unimpaired)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-20 | 2964 | 203 | 
+| 2022-11-20 | 2965 | 203 | 
 | 2022-11-19 | 2964 | 203 | 
 | 2022-11-18 | 2964 | 203 | 
 | 2022-11-17 | 2962 | 203 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-24 | 2941 | 201 | 
 | 2022-10-23 | 2940 | 201 | 
 | 2022-10-22 | 2939 | 201 | 
-| 2022-10-21 | 2939 | 201 | 
 

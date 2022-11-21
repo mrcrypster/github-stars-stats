@@ -1,6 +1,6 @@
 # ifreund/waylock - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 179 | 11 | 
 | 2022-11-19 | 179 | 11 | 
 | 2022-11-18 | 178 | 11 | 
 | 2022-11-17 | 178 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 174 | 11 | 
 | 2022-10-23 | 174 | 11 | 
 | 2022-10-22 | 173 | 11 | 
-| 2022-10-21 | 173 | 11 | 
 

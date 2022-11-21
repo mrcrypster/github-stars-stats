@@ -1,6 +1,6 @@
 # AbdulMalikDev/PythonCheatSheet - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 466 | 63 | 
 | 2022-11-19 | 466 | 63 | 
 | 2022-11-18 | 466 | 63 | 
 | 2022-11-17 | 464 | 63 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 450 | 57 | 
 | 2022-10-23 | 448 | 57 | 
 | 2022-10-22 | 448 | 57 | 
-| 2022-10-21 | 446 | 57 | 
 

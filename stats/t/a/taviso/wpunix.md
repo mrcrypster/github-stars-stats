@@ -1,6 +1,6 @@
 # taviso/wpunix - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 283 | 9 | 
 | 2022-11-19 | 283 | 9 | 
 | 2022-11-18 | 283 | 9 | 
 | 2022-11-17 | 282 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-25 | 275 | 9 | 
 | 2022-10-24 | 275 | 9 | 
 | 2022-10-23 | 275 | 9 | 
-| 2022-10-22 | 275 | 9 | 
 

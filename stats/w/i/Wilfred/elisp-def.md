@@ -1,6 +1,6 @@
 # Wilfred/elisp-def - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 58 | 6 | 
 | 2022-11-19 | 58 | 6 | 
 | 2022-11-18 | 58 | 6 | 
 | 2022-11-17 | 58 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 57 | 6 | 
 | 2022-10-23 | 57 | 6 | 
 | 2022-10-22 | 57 | 6 | 
-| 2022-10-21 | 57 | 6 | 
 

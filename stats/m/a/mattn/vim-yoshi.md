@@ -1,6 +1,6 @@
 # mattn/vim-yoshi - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 38 | - | 
 | 2022-11-19 | 38 | - | 
 | 2022-11-18 | 37 | - | 
 

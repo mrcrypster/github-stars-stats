@@ -1,10 +1,10 @@
 # ykwon0407/WeightedSHAP - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 10
 
-★ Stars: 124
+★ Stars: 125
 
 [Open repository](https://github.com/ykwon0407/WeightedSHAP)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 125 | 10 | 
 | 2022-11-19 | 124 | 10 | 
 | 2022-11-18 | 122 | 10 | 
 | 2022-11-17 | 121 | 10 | 

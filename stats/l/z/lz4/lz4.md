@@ -1,10 +1,10 @@
 # lz4/lz4 - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 1174
 
-★ Stars: 7748
+★ Stars: 7751
 
 [Open repository](https://github.com/lz4/lz4)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 7751 | 1174 | 
 | 2022-11-19 | 7748 | 1174 | 
 | 2022-11-18 | 7746 | 1174 | 
 | 2022-11-17 | 7744 | 1172 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 7670 | 1168 | 
 | 2022-10-23 | 7669 | 1167 | 
 | 2022-10-22 | 7668 | 1167 | 
-| 2022-10-21 | 7663 | 1166 | 
 

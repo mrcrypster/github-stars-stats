@@ -1,6 +1,6 @@
 # hamsterwk/whucs-beamer - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 22 | 6 | 
 | 2022-11-20 | 22 | 6 | 
 | 2022-11-19 | 22 | 6 | 
 | 2022-11-17 | 22 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-24 | 21 | 5 | 
 | 2022-10-23 | 21 | 5 | 
 | 2022-10-22 | 21 | 5 | 
-| 2022-10-21 | 21 | 5 | 
 

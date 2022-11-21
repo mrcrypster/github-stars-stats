@@ -1,6 +1,6 @@
 # LayerZero-Labs/solidity-examples - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 115
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 195 | 115 | 
 | 2022-11-19 | 195 | 115 | 
 | 2022-11-18 | 194 | 115 | 
 | 2022-11-17 | 192 | 115 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 174 | 102 | 
 | 2022-10-23 | 172 | 102 | 
 | 2022-10-22 | 169 | 102 | 
-| 2022-10-21 | 165 | 101 | 
 

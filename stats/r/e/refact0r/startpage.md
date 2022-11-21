@@ -1,10 +1,10 @@
 # refact0r/startpage - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 13
 
-★ Stars: 50
+★ Stars: 51
 
 [Open repository](https://github.com/refact0r/startpage)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 51 | 13 | 
 | 2022-11-19 | 50 | 13 | 
 | 2022-11-18 | 50 | 13 | 
 | 2022-11-17 | 50 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 46 | 13 | 
 | 2022-10-23 | 46 | 13 | 
 | 2022-10-22 | 46 | 13 | 
-| 2022-10-21 | 46 | 13 | 
 

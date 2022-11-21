@@ -1,6 +1,6 @@
 # kevinhwang91/nvim-ufo - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 782 | 12 | 
 | 2022-11-19 | 782 | 12 | 
 | 2022-11-18 | 780 | 12 | 
 | 2022-11-17 | 779 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 751 | 11 | 
 | 2022-10-23 | 748 | 11 | 
 | 2022-10-22 | 744 | 11 | 
-| 2022-10-21 | 742 | 11 | 
 

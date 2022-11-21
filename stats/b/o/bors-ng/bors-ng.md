@@ -1,6 +1,6 @@
 # bors-ng/bors-ng - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 166
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 1372 | 166 | 
 | 2022-11-19 | 1372 | 166 | 
 | 2022-11-18 | 1372 | 166 | 
 | 2022-11-17 | 1372 | 165 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 1357 | 164 | 
 | 2022-10-23 | 1357 | 164 | 
 | 2022-10-22 | 1357 | 164 | 
-| 2022-10-21 | 1357 | 164 | 
 

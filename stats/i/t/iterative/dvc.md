@@ -1,6 +1,6 @@
 # iterative/dvc - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 996
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 10681 | 996 | 
 | 2022-11-19 | 10681 | 996 | 
 | 2022-11-18 | 10676 | 996 | 
 | 2022-11-17 | 10668 | 995 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 10561 | 986 | 
 | 2022-10-23 | 10555 | 986 | 
 | 2022-10-22 | 10552 | 985 | 
-| 2022-10-21 | 10547 | 986 | 
 

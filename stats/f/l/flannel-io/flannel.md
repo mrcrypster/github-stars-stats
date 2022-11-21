@@ -1,10 +1,10 @@
 # flannel-io/flannel - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
-☋ Forks: 2747
+☋ Forks: 2748
 
-★ Stars: 7604
+★ Stars: 7606
 
 [Open repository](https://github.com/flannel-io/flannel)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 7606 | 2748 | 
 | 2022-11-19 | 7604 | 2747 | 
 | 2022-11-18 | 7599 | 2746 | 
 | 2022-11-17 | 7598 | 2747 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 7557 | 2731 | 
 | 2022-10-23 | 7553 | 2730 | 
 | 2022-10-22 | 7554 | 2729 | 
-| 2022-10-21 | 7552 | 2729 | 
 

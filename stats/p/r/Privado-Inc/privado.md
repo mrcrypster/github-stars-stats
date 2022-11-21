@@ -1,10 +1,10 @@
 # Privado-Inc/privado - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 28
 
-★ Stars: 335
+★ Stars: 336
 
 [Open repository](https://github.com/Privado-Inc/privado)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 336 | 28 | 
 | 2022-11-19 | 335 | 28 | 
 | 2022-11-18 | 334 | 27 | 
 | 2022-11-17 | 333 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 304 | 22 | 
 | 2022-10-23 | 300 | 22 | 
 | 2022-10-22 | 297 | 21 | 
-| 2022-10-21 | 293 | 21 | 
 

@@ -1,6 +1,6 @@
 # Snektron/vulkan-zig - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 190 | 14 | 
 | 2022-11-19 | 190 | 14 | 
 | 2022-11-18 | 190 | 14 | 
 | 2022-11-17 | 190 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 188 | 14 | 
 | 2022-10-23 | 188 | 14 | 
 | 2022-10-22 | 187 | 14 | 
-| 2022-10-21 | 187 | 14 | 
 

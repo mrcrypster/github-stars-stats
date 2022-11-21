@@ -1,10 +1,10 @@
 # widdix/aws-cf-templates - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 1343
 
-★ Stars: 2580
+★ Stars: 2581
 
 [Open repository](https://github.com/widdix/aws-cf-templates)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 2581 | 1343 | 
 | 2022-11-19 | 2580 | 1343 | 
 | 2022-11-18 | 2580 | 1343 | 
 | 2022-11-17 | 2581 | 1342 | 

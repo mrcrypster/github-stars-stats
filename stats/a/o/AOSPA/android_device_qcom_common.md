@@ -1,10 +1,10 @@
 # AOSPA/android_device_qcom_common - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 68
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/AOSPA/android_device_qcom_common)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 12 | 68 | 
 | 2022-11-19 | 11 | 68 | 
 | 2022-11-18 | 11 | 68 | 
 | 2022-11-17 | 11 | 66 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 12 | 64 | 
 | 2022-10-23 | 12 | 64 | 
 | 2022-10-22 | 12 | 63 | 
-| 2022-10-21 | 12 | 63 | 
 

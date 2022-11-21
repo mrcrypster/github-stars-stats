@@ -1,10 +1,10 @@
 # HelixLauncher/HelixLauncher - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 1
 
-★ Stars: 24
+★ Stars: 30
 
 [Open repository](https://github.com/HelixLauncher/HelixLauncher)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 30 | 1 | 
 | 2022-11-19 | 24 | 1 | 
 | 2022-11-18 | 24 | 1 | 
 | 2022-11-17 | 23 | 1 | 

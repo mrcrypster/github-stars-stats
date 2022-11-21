@@ -1,10 +1,10 @@
 # hachyderm/hack - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 6
 
-★ Stars: 68
+★ Stars: 69
 
 [Open repository](https://github.com/hachyderm/hack)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 69 | 6 | 
 | 2022-11-19 | 68 | 6 | 
 | 2022-11-18 | 63 | 6 | 
 | 2022-11-17 | 61 | 6 | 

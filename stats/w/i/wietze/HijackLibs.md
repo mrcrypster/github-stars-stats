@@ -1,10 +1,10 @@
 # wietze/HijackLibs - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 32
 
-★ Stars: 354
+★ Stars: 355
 
 [Open repository](https://github.com/wietze/HijackLibs)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 355 | 32 | 
 | 2022-11-19 | 354 | 32 | 
 | 2022-11-18 | 354 | 32 | 
 | 2022-11-17 | 354 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 324 | 31 | 
 | 2022-10-23 | 323 | 31 | 
 | 2022-10-22 | 322 | 31 | 
-| 2022-10-21 | 321 | 31 | 
 

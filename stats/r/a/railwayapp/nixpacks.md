@@ -1,10 +1,10 @@
 # railwayapp/nixpacks - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
-☋ Forks: 66
+☋ Forks: 67
 
-★ Stars: 1263
+★ Stars: 1265
 
 [Open repository](https://github.com/railwayapp/nixpacks)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 1265 | 67 | 
 | 2022-11-19 | 1263 | 66 | 
 | 2022-11-18 | 1261 | 66 | 
 | 2022-11-17 | 1261 | 66 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 1213 | 55 | 
 | 2022-10-23 | 1211 | 55 | 
 | 2022-10-22 | 1210 | 54 | 
-| 2022-10-21 | 1207 | 54 | 
 

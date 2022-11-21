@@ -1,6 +1,6 @@
 # NsCDE/NsCDE - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 1302 | 40 | 
 | 2022-11-19 | 1302 | 40 | 
 | 2022-11-18 | 1302 | 41 | 
 | 2022-11-17 | 1301 | 40 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 1270 | 38 | 
 | 2022-10-23 | 1266 | 37 | 
 | 2022-10-22 | 1264 | 37 | 
-| 2022-10-21 | 1262 | 37 | 
 

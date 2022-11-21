@@ -1,10 +1,10 @@
 # kubernetes-sigs/kustomize - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 1941
 
-★ Stars: 9045
+★ Stars: 9047
 
 [Open repository](https://github.com/kubernetes-sigs/kustomize)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 9047 | 1941 | 
 | 2022-11-19 | 9045 | 1941 | 
 | 2022-11-18 | 9043 | 1941 | 
 | 2022-11-17 | 9040 | 1942 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 8963 | 1928 | 
 | 2022-10-23 | 8960 | 1927 | 
 | 2022-10-22 | 8959 | 1926 | 
-| 2022-10-21 | 8957 | 1925 | 
 

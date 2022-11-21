@@ -1,8 +1,8 @@
 # oracle/apex - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
-☋ Forks: 145
+☋ Forks: 146
 
 ★ Stars: 210
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 210 | 146 | 
 | 2022-11-19 | 210 | 145 | 
 | 2022-11-18 | 211 | 145 | 
 | 2022-11-17 | 208 | 145 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 201 | 144 | 
 | 2022-10-23 | 201 | 144 | 
 | 2022-10-22 | 201 | 144 | 
-| 2022-10-21 | 201 | 144 | 
 

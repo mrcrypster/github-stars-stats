@@ -1,10 +1,10 @@
 # ViewComponent/view_component - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 347
 
-★ Stars: 2724
+★ Stars: 2725
 
 [Open repository](https://github.com/ViewComponent/view_component)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 2725 | 347 | 
 | 2022-11-19 | 2724 | 347 | 
 | 2022-11-18 | 2724 | 347 | 
 | 2022-11-17 | 2723 | 347 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 2686 | 341 | 
 | 2022-10-23 | 2685 | 341 | 
 | 2022-10-22 | 2685 | 341 | 
-| 2022-10-21 | 2681 | 341 | 
 

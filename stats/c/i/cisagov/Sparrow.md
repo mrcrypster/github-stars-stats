@@ -1,6 +1,6 @@
 # cisagov/Sparrow - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 183
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 1352 | 183 | 
 | 2022-11-19 | 1352 | 183 | 
 | 2022-11-18 | 1351 | 183 | 
 | 2022-11-17 | 1351 | 183 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 1345 | 181 | 
 | 2022-10-23 | 1345 | 181 | 
 | 2022-10-22 | 1345 | 181 | 
-| 2022-10-21 | 1343 | 181 | 
 

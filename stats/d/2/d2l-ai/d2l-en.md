@@ -1,10 +1,10 @@
 # d2l-ai/d2l-en - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 3405
 
-★ Stars: 15575
+★ Stars: 15584
 
 [Open repository](https://github.com/d2l-ai/d2l-en)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 15584 | 3405 | 
 | 2022-11-19 | 15575 | 3405 | 
 | 2022-11-18 | 15563 | 3401 | 
 | 2022-11-17 | 15546 | 3400 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-25 | 15256 | 3368 | 
 | 2022-10-24 | 15246 | 3366 | 
 | 2022-10-23 | 15243 | 3364 | 
-| 2022-10-22 | 15236 | 3363 | 
 

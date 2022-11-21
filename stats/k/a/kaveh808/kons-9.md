@@ -1,10 +1,10 @@
 # kaveh808/kons-9 - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 23
 
-★ Stars: 377
+★ Stars: 378
 
 [Open repository](https://github.com/kaveh808/kons-9)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 378 | 23 | 
 | 2022-11-19 | 377 | 23 | 
 | 2022-11-18 | 374 | 23 | 
 | 2022-11-17 | 374 | 23 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 317 | 19 | 
 | 2022-10-23 | 316 | 19 | 
 | 2022-10-22 | 316 | 19 | 
-| 2022-10-21 | 316 | 19 | 
 

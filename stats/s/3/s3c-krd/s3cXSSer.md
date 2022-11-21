@@ -1,6 +1,6 @@
 # s3c-krd/s3cXSSer - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 126 | 16 | 
 | 2022-11-19 | 126 | 16 | 
 | 2022-11-18 | 125 | 16 | 
 | 2022-11-17 | 124 | 16 | 

@@ -1,6 +1,6 @@
 # xmos/lib_xud - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 4 | 15 | 
 | 2022-11-19 | 4 | 15 | 
 | 2022-11-18 | 4 | 15 | 
 | 2022-11-17 | 4 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 4 | 15 | 
 | 2022-10-23 | 4 | 15 | 
 | 2022-10-22 | 4 | 15 | 
-| 2022-10-21 | 4 | 15 | 
 

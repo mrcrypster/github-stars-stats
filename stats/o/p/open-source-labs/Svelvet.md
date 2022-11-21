@@ -1,10 +1,10 @@
 # open-source-labs/Svelvet - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
-☋ Forks: 60
+☋ Forks: 61
 
-★ Stars: 1327
+★ Stars: 1328
 
 [Open repository](https://github.com/open-source-labs/Svelvet)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 1328 | 61 | 
 | 2022-11-19 | 1327 | 60 | 
 | 2022-11-18 | 1326 | 61 | 
 | 2022-11-17 | 1325 | 61 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 1271 | 54 | 
 | 2022-10-23 | 1270 | 54 | 
 | 2022-10-22 | 1270 | 54 | 
-| 2022-10-21 | 1269 | 54 | 
 

@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 20
 
 ☋ Forks: 2
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/PascalVault/Lazarus_7zip)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-20 | 9 | 2 | 
+| 2022-11-20 | 10 | 2 | 
 | 2022-11-19 | 9 | 2 | 
 

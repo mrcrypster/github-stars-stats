@@ -1,10 +1,10 @@
 # ARMmbed/mbed-os - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 2854
 
-★ Stars: 4224
+★ Stars: 4225
 
 [Open repository](https://github.com/ARMmbed/mbed-os)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 4225 | 2854 | 
 | 2022-11-19 | 4224 | 2854 | 
 | 2022-11-18 | 4224 | 2854 | 
 | 2022-11-17 | 4224 | 2854 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 4209 | 2849 | 
 | 2022-10-23 | 4210 | 2849 | 
 | 2022-10-22 | 4210 | 2848 | 
-| 2022-10-21 | 4210 | 2848 | 
 

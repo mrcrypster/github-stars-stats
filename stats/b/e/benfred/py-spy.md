@@ -1,10 +1,10 @@
 # benfred/py-spy - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 339
 
-★ Stars: 9341
+★ Stars: 9345
 
 [Open repository](https://github.com/benfred/py-spy)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 9345 | 339 | 
 | 2022-11-19 | 9341 | 339 | 
 | 2022-11-18 | 9335 | 339 | 
 | 2022-11-17 | 9332 | 339 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 9251 | 333 | 
 | 2022-10-23 | 9247 | 333 | 
 | 2022-10-22 | 9242 | 333 | 
-| 2022-10-21 | 9238 | 333 | 
 

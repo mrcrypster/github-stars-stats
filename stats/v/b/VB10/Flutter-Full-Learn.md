@@ -1,6 +1,6 @@
 # VB10/Flutter-Full-Learn - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 182 | 33 | 
 | 2022-11-19 | 182 | 33 | 
 | 2022-11-18 | 179 | 33 | 
 | 2022-11-17 | 179 | 33 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 171 | 29 | 
 | 2022-10-23 | 170 | 28 | 
 | 2022-10-22 | 170 | 28 | 
-| 2022-10-21 | 170 | 28 | 
 

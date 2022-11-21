@@ -1,10 +1,10 @@
 # koka-lang/koka - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 119
 
-★ Stars: 2369
+★ Stars: 2370
 
 [Open repository](https://github.com/koka-lang/koka)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 2370 | 119 | 
 | 2022-11-19 | 2369 | 119 | 
 | 2022-11-18 | 2367 | 119 | 
 | 2022-11-17 | 2365 | 119 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 2339 | 114 | 
 | 2022-10-23 | 2338 | 114 | 
 | 2022-10-22 | 2338 | 113 | 
-| 2022-10-21 | 2337 | 113 | 
 

@@ -1,8 +1,8 @@
 # TgCatUB/nekopack - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
-☋ Forks: 6000
+☋ Forks: 6001
 
 ★ Stars: 1520
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 1520 | 6001 | 
 | 2022-11-19 | 1520 | 6000 | 
 | 2022-11-18 | 1520 | 6001 | 
 | 2022-11-17 | 1520 | 6000 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 1520 | 5955 | 
 | 2022-10-23 | 1519 | 5949 | 
 | 2022-10-22 | 1519 | 5948 | 
-| 2022-10-21 | 1520 | 5945 | 
 

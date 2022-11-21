@@ -1,6 +1,6 @@
 # Wh04m1001/DiagTrackEoP - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 78 | 14 | 
 | 2022-11-20 | 78 | 14 | 
 | 2022-11-19 | 78 | 14 | 
 | 2022-11-18 | 78 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-24 | 78 | 14 | 
 | 2022-10-23 | 78 | 14 | 
 | 2022-10-22 | 78 | 14 | 
-| 2022-10-21 | 78 | 14 | 
 

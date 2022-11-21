@@ -1,10 +1,10 @@
 # d4rckh/grc2 - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 34
 
-★ Stars: 310
+★ Stars: 312
 
 [Open repository](https://github.com/d4rckh/grc2)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 312 | 34 | 
 | 2022-11-19 | 310 | 34 | 
 | 2022-11-18 | 308 | 34 | 
 | 2022-11-17 | 307 | 34 | 

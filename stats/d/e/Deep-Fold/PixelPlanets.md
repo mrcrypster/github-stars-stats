@@ -1,6 +1,6 @@
 # Deep-Fold/PixelPlanets - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 88
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 651 | 88 | 
 | 2022-11-19 | 651 | 88 | 
 | 2022-11-18 | 650 | 88 | 
 | 2022-11-17 | 650 | 88 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 637 | 88 | 
 | 2022-10-23 | 636 | 88 | 
 | 2022-10-22 | 636 | 88 | 
-| 2022-10-21 | 636 | 88 | 
 

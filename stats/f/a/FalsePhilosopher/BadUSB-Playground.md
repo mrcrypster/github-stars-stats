@@ -1,6 +1,6 @@
 # FalsePhilosopher/BadUSB-Playground - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 47 | 6 | 
 | 2022-11-19 | 47 | 6 | 
 | 2022-11-18 | 47 | 6 | 
 | 2022-11-17 | 47 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-25 | 40 | 4 | 
 | 2022-10-24 | 39 | 4 | 
 | 2022-10-23 | 39 | 3 | 
-| 2022-10-21 | 39 | 3 | 
 

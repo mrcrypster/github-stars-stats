@@ -1,10 +1,10 @@
 # Demindiro/agreper - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 18
 
-★ Stars: 584
+★ Stars: 583
 
 [Open repository](https://github.com/Demindiro/agreper)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 583 | 18 | 
 | 2022-11-19 | 584 | 18 | 
 | 2022-11-18 | 584 | 18 | 
 | 2022-11-17 | 584 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 531 | 14 | 
 | 2022-10-23 | 526 | 14 | 
 | 2022-10-22 | 521 | 14 | 
-| 2022-10-21 | 519 | 14 | 
 

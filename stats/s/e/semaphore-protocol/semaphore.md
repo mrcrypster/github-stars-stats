@@ -1,6 +1,6 @@
 # semaphore-protocol/semaphore - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 100
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 543 | 100 | 
 | 2022-11-19 | 543 | 100 | 
 | 2022-11-18 | 543 | 100 | 
 | 2022-11-17 | 542 | 100 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 522 | 97 | 
 | 2022-10-23 | 521 | 97 | 
 | 2022-10-22 | 521 | 97 | 
-| 2022-10-21 | 520 | 97 | 
 

@@ -1,6 +1,6 @@
 # PauloGoncalvesBH/aprenda-tdd-na-pratica - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 465 | 23 | 
 | 2022-11-19 | 465 | 23 | 
 | 2022-11-18 | 465 | 23 | 
 | 2022-11-17 | 465 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 460 | 22 | 
 | 2022-10-23 | 460 | 23 | 
 | 2022-10-22 | 460 | 23 | 
-| 2022-10-21 | 460 | 23 | 
 

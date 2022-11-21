@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 20
 
-☋ Forks: 63
+☋ Forks: 65
 
-★ Stars: 79
+★ Stars: 82
 
 [Open repository](https://github.com/cryptoc0ding/pancakeswap-sniper-bot)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-20 | 79 | 63 | 
+| 2022-11-20 | 82 | 65 | 
 | 2022-11-19 | 79 | 63 | 
 

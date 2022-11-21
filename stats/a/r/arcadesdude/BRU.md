@@ -1,10 +1,10 @@
 # arcadesdude/BRU - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 18
 
-★ Stars: 289
+★ Stars: 291
 
 [Open repository](https://github.com/arcadesdude/BRU)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 291 | 18 | 
 | 2022-11-19 | 289 | 18 | 
 | 2022-11-18 | 289 | 18 | 
 | 2022-11-17 | 289 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 278 | 17 | 
 | 2022-10-23 | 278 | 17 | 
 | 2022-10-22 | 278 | 17 | 
-| 2022-10-21 | 275 | 17 | 
 

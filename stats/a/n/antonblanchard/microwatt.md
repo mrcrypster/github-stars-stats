@@ -1,10 +1,10 @@
 # antonblanchard/microwatt - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 86
 
-★ Stars: 521
+★ Stars: 522
 
 [Open repository](https://github.com/antonblanchard/microwatt)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 522 | 86 | 
 | 2022-11-19 | 521 | 86 | 
 | 2022-11-18 | 521 | 86 | 
 | 2022-11-17 | 521 | 86 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 516 | 84 | 
 | 2022-10-23 | 516 | 84 | 
 | 2022-10-22 | 516 | 84 | 
-| 2022-10-21 | 516 | 84 | 
 

@@ -1,6 +1,6 @@
 # corpnewt/gibMacOS - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 661
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 4730 | 661 | 
 | 2022-11-19 | 4730 | 661 | 
 | 2022-11-18 | 4729 | 661 | 
 | 2022-11-17 | 4727 | 661 | 

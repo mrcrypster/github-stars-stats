@@ -1,10 +1,10 @@
 # gerardog/gsudo - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 85
 
-★ Stars: 2927
+★ Stars: 2929
 
 [Open repository](https://github.com/gerardog/gsudo)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 2929 | 85 | 
 | 2022-11-19 | 2927 | 85 | 
 | 2022-11-18 | 2924 | 85 | 
 | 2022-11-17 | 2916 | 83 | 

@@ -1,10 +1,10 @@
 # XIU2/TrackersListCollection - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 21
 
-☋ Forks: 1235
+☋ Forks: 1237
 
-★ Stars: 15290
+★ Stars: 15319
 
 [Open repository](https://github.com/XIU2/TrackersListCollection)
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 15319 | 1237 | 
+| 2022-11-20 | 15319 | 1237 | 
 | 2022-11-19 | 15290 | 1235 | 
 | 2022-11-18 | 15275 | 1232 | 
 | 2022-11-17 | 15262 | 1230 | 
@@ -41,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 14929 | 1217 | 
 | 2022-10-23 | 14916 | 1218 | 
 | 2022-10-22 | 14906 | 1217 | 
-| 2022-10-21 | 14890 | 1219 | 
 

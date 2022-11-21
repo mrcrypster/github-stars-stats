@@ -1,10 +1,10 @@
 # YOURLS/YOURLS - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
-☋ Forks: 1780
+☋ Forks: 1782
 
-★ Stars: 8555
+★ Stars: 8561
 
 [Open repository](https://github.com/YOURLS/YOURLS)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 8561 | 1782 | 
 | 2022-11-19 | 8555 | 1780 | 
 | 2022-11-18 | 8553 | 1779 | 
 | 2022-11-17 | 8550 | 1779 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 8492 | 1767 | 
 | 2022-10-23 | 8491 | 1766 | 
 | 2022-10-22 | 8490 | 1766 | 
-| 2022-10-21 | 8489 | 1766 | 
 

@@ -1,10 +1,10 @@
 # jordansissel/fpm - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 1055
 
-★ Stars: 10599
+★ Stars: 10598
 
 [Open repository](https://github.com/jordansissel/fpm)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 10598 | 1055 | 
 | 2022-11-19 | 10599 | 1055 | 
 | 2022-11-18 | 10599 | 1055 | 
 | 2022-11-17 | 10597 | 1055 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 10570 | 1052 | 
 | 2022-10-23 | 10569 | 1051 | 
 | 2022-10-22 | 10568 | 1051 | 
-| 2022-10-21 | 10568 | 1051 | 
 

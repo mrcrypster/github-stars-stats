@@ -1,6 +1,6 @@
 # hpjansson/chafa - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 1760 | 37 | 
 | 2022-11-19 | 1760 | 37 | 
 | 2022-11-18 | 1757 | 36 | 
 | 2022-11-17 | 1757 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 1731 | 37 | 
 | 2022-10-23 | 1730 | 37 | 
 | 2022-10-22 | 1728 | 37 | 
-| 2022-10-21 | 1728 | 37 | 
 

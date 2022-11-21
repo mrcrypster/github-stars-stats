@@ -1,6 +1,6 @@
 # aws/eks-anywhere-build-tooling - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 30 | 61 | 
 | 2022-11-19 | 30 | 61 | 
 | 2022-11-18 | 30 | 61 | 
 | 2022-11-17 | 30 | 61 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 29 | 60 | 
 | 2022-10-23 | 29 | 60 | 
 | 2022-10-22 | 29 | 60 | 
-| 2022-10-21 | 29 | 60 | 
 

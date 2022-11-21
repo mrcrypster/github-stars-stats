@@ -1,10 +1,10 @@
 # dotnet/samples - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
-☋ Forks: 4395
+☋ Forks: 4400
 
-★ Stars: 2530
+★ Stars: 2532
 
 [Open repository](https://github.com/dotnet/samples)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 2532 | 4400 | 
 | 2022-11-19 | 2530 | 4395 | 
 | 2022-11-18 | 2527 | 4398 | 
 | 2022-11-17 | 2527 | 4392 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 2440 | 4326 | 
 | 2022-10-23 | 2440 | 4322 | 
 | 2022-10-22 | 2440 | 4318 | 
-| 2022-10-21 | 2439 | 4316 | 
 

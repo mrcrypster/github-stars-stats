@@ -1,10 +1,10 @@
 # Dec0ne/KrbRelayUp - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
-☋ Forks: 158
+☋ Forks: 157
 
-★ Stars: 1156
+★ Stars: 1157
 
 [Open repository](https://github.com/Dec0ne/KrbRelayUp)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 1157 | 157 | 
 | 2022-11-19 | 1156 | 158 | 
 | 2022-11-18 | 1155 | 158 | 
 | 2022-11-17 | 1154 | 158 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 1138 | 156 | 
 | 2022-10-23 | 1135 | 156 | 
 | 2022-10-22 | 1134 | 156 | 
-| 2022-10-21 | 1133 | 156 | 
 

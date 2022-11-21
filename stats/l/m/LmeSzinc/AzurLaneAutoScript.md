@@ -1,10 +1,10 @@
 # LmeSzinc/AzurLaneAutoScript - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
-☋ Forks: 366
+☋ Forks: 368
 
-★ Stars: 2451
+★ Stars: 2454
 
 [Open repository](https://github.com/LmeSzinc/AzurLaneAutoScript)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 2454 | 368 | 
 | 2022-11-19 | 2451 | 366 | 
 | 2022-11-18 | 2448 | 364 | 
 | 2022-11-17 | 2446 | 363 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 2343 | 349 | 
 | 2022-10-23 | 2335 | 349 | 
 | 2022-10-22 | 2321 | 346 | 
-| 2022-10-21 | 2298 | 340 | 
 

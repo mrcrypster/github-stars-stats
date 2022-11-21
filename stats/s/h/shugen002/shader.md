@@ -1,8 +1,8 @@
 # shugen002/shader - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
-☋ Forks: 17
+☋ Forks: 18
 
 ★ Stars: 10
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 10 | 18 | 
 | 2022-11-19 | 10 | 17 | 
 | 2022-11-18 | 10 | 17 | 
 | 2022-11-17 | 10 | 17 | 

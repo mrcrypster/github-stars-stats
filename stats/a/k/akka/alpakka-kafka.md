@@ -1,6 +1,6 @@
 # akka/alpakka-kafka - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 400
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 1390 | 400 | 
 | 2022-11-19 | 1390 | 400 | 
 | 2022-11-18 | 1390 | 400 | 
 | 2022-11-17 | 1390 | 398 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 1392 | 399 | 
 | 2022-10-23 | 1392 | 399 | 
 | 2022-10-22 | 1392 | 399 | 
-| 2022-10-21 | 1391 | 399 | 
 

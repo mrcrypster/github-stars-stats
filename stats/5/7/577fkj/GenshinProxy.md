@@ -1,6 +1,6 @@
 # 577fkj/GenshinProxy - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 347 | 53 | 
 | 2022-11-19 | 347 | 53 | 
 | 2022-11-18 | 345 | 53 | 
 | 2022-11-17 | 344 | 53 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-25 | 320 | 48 | 
 | 2022-10-24 | 319 | 48 | 
 | 2022-10-23 | 319 | 47 | 
-| 2022-10-22 | 319 | 47 | 
 

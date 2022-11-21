@@ -1,10 +1,10 @@
 # HibiKier/zhenxun_bot - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 576
 
-★ Stars: 2491
+★ Stars: 2492
 
 [Open repository](https://github.com/HibiKier/zhenxun_bot)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 2492 | 576 | 
 | 2022-11-19 | 2491 | 576 | 
 | 2022-11-18 | 2488 | 576 | 
 | 2022-11-17 | 2487 | 577 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 2443 | 573 | 
 | 2022-10-23 | 2441 | 571 | 
 | 2022-10-22 | 2439 | 570 | 
-| 2022-10-21 | 2438 | 570 | 
 

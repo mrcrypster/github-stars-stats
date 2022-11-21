@@ -1,6 +1,6 @@
 # apptentive/apptentive-ios - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 106
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 147 | 106 | 
 | 2022-11-19 | 147 | 106 | 
 | 2022-11-18 | 147 | 106 | 
 | 2022-11-17 | 147 | 106 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 146 | 106 | 
 | 2022-10-23 | 146 | 106 | 
 | 2022-10-22 | 146 | 106 | 
-| 2022-10-21 | 146 | 106 | 
 

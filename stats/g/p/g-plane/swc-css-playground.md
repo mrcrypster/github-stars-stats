@@ -1,10 +1,10 @@
 # g-plane/swc-css-playground - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
-☋ Forks: 2
+☋ Forks: 3
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/g-plane/swc-css-playground)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 19 | 3 | 
 | 2022-11-19 | 18 | 2 | 
 | 2022-11-18 | 18 | 2 | 
 | 2022-11-17 | 18 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 16 | 1 | 
 | 2022-10-23 | 16 | 1 | 
 | 2022-10-22 | 16 | 1 | 
-| 2022-10-21 | 16 | 1 | 
 

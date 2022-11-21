@@ -1,10 +1,10 @@
 # MauriceNino/dashdot - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 40
 
-★ Stars: 909
+★ Stars: 910
 
 [Open repository](https://github.com/MauriceNino/dashdot)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 910 | 40 | 
 | 2022-11-19 | 909 | 40 | 
 | 2022-11-18 | 907 | 40 | 
 | 2022-11-17 | 904 | 40 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 852 | 36 | 
 | 2022-10-23 | 851 | 36 | 
 | 2022-10-22 | 848 | 36 | 
-| 2022-10-21 | 847 | 36 | 
 

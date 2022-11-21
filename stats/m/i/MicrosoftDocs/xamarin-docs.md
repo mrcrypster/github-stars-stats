@@ -1,6 +1,6 @@
 # MicrosoftDocs/xamarin-docs - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 585
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 172 | 585 | 
 | 2022-11-19 | 172 | 585 | 
 | 2022-11-18 | 172 | 585 | 
 | 2022-11-17 | 172 | 585 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 168 | 583 | 
 | 2022-10-23 | 168 | 583 | 
 | 2022-10-22 | 169 | 583 | 
-| 2022-10-21 | 169 | 583 | 
 

@@ -1,6 +1,6 @@
 # grafana/tns - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 139 | 36 | 
 | 2022-11-19 | 139 | 36 | 
 | 2022-11-18 | 139 | 36 | 
 | 2022-11-17 | 138 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 130 | 36 | 
 | 2022-10-23 | 130 | 36 | 
 | 2022-10-22 | 130 | 36 | 
-| 2022-10-21 | 130 | 36 | 
 

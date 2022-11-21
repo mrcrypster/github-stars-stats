@@ -1,10 +1,10 @@
 # quackduck/devzat - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 75
 
-★ Stars: 1394
+★ Stars: 1401
 
 [Open repository](https://github.com/quackduck/devzat)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 1401 | 75 | 
 | 2022-11-19 | 1394 | 75 | 
 | 2022-11-18 | 1394 | 75 | 
 | 2022-11-17 | 1394 | 75 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 1386 | 74 | 
 | 2022-10-23 | 1386 | 74 | 
 | 2022-10-22 | 1386 | 73 | 
-| 2022-10-21 | 1386 | 73 | 
 

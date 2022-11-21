@@ -1,8 +1,8 @@
 # techwithtim/Flask-Web-App-Tutorial - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
-☋ Forks: 624
+☋ Forks: 628
 
 ★ Stars: 510
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 510 | 628 | 
 | 2022-11-19 | 510 | 624 | 
 | 2022-11-18 | 507 | 623 | 
 | 2022-11-17 | 504 | 622 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 477 | 595 | 
 | 2022-10-23 | 477 | 593 | 
 | 2022-10-22 | 477 | 593 | 
-| 2022-10-21 | 476 | 592 | 
 

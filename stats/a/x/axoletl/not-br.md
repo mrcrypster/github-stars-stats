@@ -1,6 +1,6 @@
 # axoletl/not-br - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 195 | 23 | 
 | 2022-11-19 | 195 | 23 | 
 | 2022-11-18 | 195 | 23 | 
 | 2022-11-17 | 195 | 23 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 192 | 23 | 
 | 2022-10-23 | 192 | 23 | 
 | 2022-10-22 | 192 | 23 | 
-| 2022-10-21 | 192 | 23 | 
 

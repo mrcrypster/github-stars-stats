@@ -1,10 +1,10 @@
 # mskcc/vcf2maf - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 194
 
-★ Stars: 306
+★ Stars: 307
 
 [Open repository](https://github.com/mskcc/vcf2maf)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 307 | 194 | 
 | 2022-11-19 | 306 | 194 | 
 | 2022-11-18 | 306 | 194 | 
 | 2022-11-17 | 306 | 194 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-25 | 303 | 194 | 
 | 2022-10-24 | 303 | 194 | 
 | 2022-10-23 | 303 | 194 | 
-| 2022-10-22 | 303 | 194 | 
 

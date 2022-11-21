@@ -1,10 +1,10 @@
 # algorithm-archivists/algorithm-archive - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
-☋ Forks: 335
+☋ Forks: 336
 
-★ Stars: 2063
+★ Stars: 2069
 
 [Open repository](https://github.com/algorithm-archivists/algorithm-archive)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 2069 | 336 | 
 | 2022-11-19 | 2063 | 335 | 
 | 2022-11-18 | 2051 | 334 | 
 | 2022-11-17 | 2050 | 334 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 2043 | 335 | 
 | 2022-10-23 | 2042 | 335 | 
 | 2022-10-22 | 2042 | 335 | 
-| 2022-10-21 | 2042 | 335 | 
 

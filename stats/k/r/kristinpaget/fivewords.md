@@ -1,10 +1,10 @@
 # kristinpaget/fivewords - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 3
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/kristinpaget/fivewords)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 25 | 3 | 
 | 2022-11-19 | 24 | 3 | 
 | 2022-11-18 | 24 | 3 | 
 | 2022-11-17 | 24 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 19 | 3 | 
 | 2022-10-23 | 19 | 2 | 
 | 2022-10-22 | 16 | 2 | 
-| 2022-10-21 | 16 | 2 | 
 

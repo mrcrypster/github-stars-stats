@@ -1,6 +1,6 @@
 # hivedb/hive - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 311
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 3301 | 311 | 
 | 2022-11-19 | 3301 | 311 | 
 | 2022-11-18 | 3301 | 311 | 
 | 2022-11-17 | 3301 | 312 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 3272 | 312 | 
 | 2022-10-23 | 3268 | 312 | 
 | 2022-10-22 | 3265 | 312 | 
-| 2022-10-21 | 3265 | 312 | 
 

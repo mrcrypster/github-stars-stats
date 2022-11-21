@@ -1,6 +1,6 @@
 # eemlcommunity/PracticalSessions2022 - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 48 | 14 | 
 | 2022-11-19 | 48 | 14 | 
 | 2022-11-18 | 48 | 14 | 
 | 2022-11-17 | 48 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 49 | 14 | 
 | 2022-10-23 | 49 | 14 | 
 | 2022-10-22 | 49 | 14 | 
-| 2022-10-21 | 49 | 14 | 
 

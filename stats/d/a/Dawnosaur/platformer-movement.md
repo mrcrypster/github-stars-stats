@@ -1,6 +1,6 @@
 # Dawnosaur/platformer-movement - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 102 | 30 | 
 | 2022-11-19 | 102 | 30 | 
 | 2022-11-18 | 102 | 29 | 
 | 2022-11-17 | 102 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-25 | 94 | 29 | 
 | 2022-10-24 | 94 | 29 | 
 | 2022-10-23 | 94 | 29 | 
-| 2022-10-22 | 93 | 29 | 
 

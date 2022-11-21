@@ -1,10 +1,10 @@
 # Frogging-Family/linux-tkg - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 120
 
-★ Stars: 782
+★ Stars: 784
 
 [Open repository](https://github.com/Frogging-Family/linux-tkg)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 784 | 120 | 
 | 2022-11-20 | 782 | 120 | 
 | 2022-11-19 | 782 | 119 | 
 | 2022-11-18 | 781 | 119 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-24 | 768 | 117 | 
 | 2022-10-23 | 768 | 117 | 
 | 2022-10-22 | 767 | 117 | 
-| 2022-10-21 | 766 | 117 | 
 

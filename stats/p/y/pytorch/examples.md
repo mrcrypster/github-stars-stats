@@ -1,10 +1,10 @@
 # pytorch/examples - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
-☋ Forks: 8947
+☋ Forks: 8949
 
-★ Stars: 19254
+★ Stars: 19260
 
 [Open repository](https://github.com/pytorch/examples)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 19260 | 8949 | 
 | 2022-11-20 | 19254 | 8947 | 
 | 2022-11-19 | 19251 | 8948 | 
 | 2022-11-17 | 19246 | 8946 | 

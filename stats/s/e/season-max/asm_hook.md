@@ -1,10 +1,10 @@
 # season-max/asm_hook - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 5
 
-★ Stars: 41
+★ Stars: 42
 
 [Open repository](https://github.com/season-max/asm_hook)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 42 | 5 | 
 | 2022-11-19 | 41 | 5 | 
 | 2022-11-18 | 41 | 5 | 
 | 2022-11-17 | 41 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-25 | 41 | 5 | 
 | 2022-10-24 | 41 | 5 | 
 | 2022-10-23 | 41 | 5 | 
-| 2022-10-22 | 41 | 5 | 
 

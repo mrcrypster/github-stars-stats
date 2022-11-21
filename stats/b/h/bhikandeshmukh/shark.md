@@ -1,6 +1,6 @@
 # bhikandeshmukh/shark - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 263 | 24 | 
 | 2022-11-19 | 263 | 24 | 
 | 2022-11-18 | 263 | 24 | 
 | 2022-11-17 | 263 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 255 | 23 | 
 | 2022-10-23 | 255 | 23 | 
 | 2022-10-22 | 255 | 23 | 
-| 2022-10-21 | 254 | 23 | 
 

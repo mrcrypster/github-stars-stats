@@ -1,8 +1,8 @@
 # juliansteenbakker/mobile_scanner - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
-☋ Forks: 176
+☋ Forks: 178
 
 ★ Stars: 284
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 284 | 178 | 
 | 2022-11-19 | 284 | 176 | 
 | 2022-11-18 | 284 | 174 | 
 | 2022-11-17 | 284 | 174 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 261 | 161 | 
 | 2022-10-23 | 261 | 161 | 
 | 2022-10-22 | 261 | 158 | 
-| 2022-10-21 | 260 | 157 | 
 

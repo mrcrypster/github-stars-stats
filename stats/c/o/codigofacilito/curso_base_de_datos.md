@@ -1,8 +1,8 @@
 # codigofacilito/curso_base_de_datos - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
-☋ Forks: 86
+☋ Forks: 87
 
 ★ Stars: 81
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 81 | 87 | 
 | 2022-11-19 | 81 | 86 | 
 | 2022-11-18 | 80 | 86 | 
 | 2022-11-17 | 80 | 86 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 77 | 85 | 
 | 2022-10-23 | 77 | 85 | 
 | 2022-10-22 | 77 | 85 | 
-| 2022-10-21 | 77 | 85 | 
 

@@ -1,6 +1,6 @@
 # ashleydavis/docker-nodejs-examples - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 15 | 22 | 
 | 2022-11-19 | 15 | 22 | 
 | 2022-11-18 | 15 | 22 | 
 | 2022-11-17 | 15 | 22 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 15 | 21 | 
 | 2022-10-23 | 15 | 21 | 
 | 2022-10-22 | 15 | 20 | 
-| 2022-10-21 | 15 | 20 | 
 

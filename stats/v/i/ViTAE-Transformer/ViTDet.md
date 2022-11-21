@@ -1,10 +1,10 @@
 # ViTAE-Transformer/ViTDet - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 34
 
-★ Stars: 372
+★ Stars: 373
 
 [Open repository](https://github.com/ViTAE-Transformer/ViTDet)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 373 | 34 | 
 | 2022-11-19 | 372 | 34 | 
 | 2022-11-18 | 372 | 34 | 
 | 2022-11-17 | 371 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 314 | 30 | 
 | 2022-10-23 | 311 | 30 | 
 | 2022-10-22 | 309 | 30 | 
-| 2022-10-21 | 309 | 30 | 
 

@@ -1,6 +1,6 @@
 # mathematical-tours/mathematical-tours.github.io - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 80
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 386 | 80 | 
 | 2022-11-19 | 386 | 80 | 
 | 2022-11-18 | 386 | 80 | 
 | 2022-11-17 | 386 | 80 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 386 | 80 | 
 | 2022-10-23 | 386 | 80 | 
 | 2022-10-22 | 386 | 80 | 
-| 2022-10-21 | 386 | 80 | 
 

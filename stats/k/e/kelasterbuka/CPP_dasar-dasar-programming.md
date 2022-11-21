@@ -1,10 +1,10 @@
 # kelasterbuka/CPP_dasar-dasar-programming - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 121
 
-★ Stars: 158
+★ Stars: 159
 
 [Open repository](https://github.com/kelasterbuka/CPP_dasar-dasar-programming)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 159 | 121 | 
 | 2022-11-19 | 158 | 121 | 
 | 2022-11-18 | 158 | 121 | 
 | 2022-11-17 | 158 | 121 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 158 | 120 | 
 | 2022-10-23 | 158 | 120 | 
 | 2022-10-22 | 158 | 120 | 
-| 2022-10-21 | 158 | 120 | 
 

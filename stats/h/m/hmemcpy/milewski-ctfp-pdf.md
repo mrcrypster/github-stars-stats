@@ -1,10 +1,10 @@
 # hmemcpy/milewski-ctfp-pdf - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 516
 
-★ Stars: 9821
+★ Stars: 9824
 
 [Open repository](https://github.com/hmemcpy/milewski-ctfp-pdf)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 9824 | 516 | 
 | 2022-11-19 | 9821 | 516 | 
 | 2022-11-18 | 9821 | 516 | 
 | 2022-11-17 | 9816 | 516 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 9765 | 516 | 
 | 2022-10-23 | 9764 | 516 | 
 | 2022-10-22 | 9765 | 516 | 
-| 2022-10-21 | 9763 | 516 | 
 

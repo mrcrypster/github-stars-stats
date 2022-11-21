@@ -1,10 +1,10 @@
 # smallhadroncollider/taskell - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 60
 
-★ Stars: 1507
+★ Stars: 1508
 
 [Open repository](https://github.com/smallhadroncollider/taskell)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 1508 | 60 | 
 | 2022-11-19 | 1507 | 60 | 
 | 2022-11-18 | 1507 | 60 | 
 | 2022-11-17 | 1507 | 60 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 1493 | 58 | 
 | 2022-10-23 | 1493 | 58 | 
 | 2022-10-22 | 1493 | 58 | 
-| 2022-10-21 | 1493 | 58 | 
 

@@ -1,6 +1,6 @@
 # calc84maniac/tiboyce - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 252 | 17 | 
 | 2022-11-19 | 252 | 17 | 
 | 2022-11-18 | 251 | 17 | 
 | 2022-11-17 | 251 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 247 | 18 | 
 | 2022-10-23 | 247 | 18 | 
 | 2022-10-22 | 247 | 18 | 
-| 2022-10-21 | 247 | 18 | 
 

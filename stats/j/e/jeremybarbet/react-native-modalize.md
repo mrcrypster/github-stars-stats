@@ -1,10 +1,10 @@
 # jeremybarbet/react-native-modalize - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 264
 
-★ Stars: 2553
+★ Stars: 2554
 
 [Open repository](https://github.com/jeremybarbet/react-native-modalize)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 2554 | 264 | 
 | 2022-11-19 | 2553 | 264 | 
 | 2022-11-18 | 2553 | 264 | 
 | 2022-11-17 | 2549 | 263 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 2535 | 263 | 
 | 2022-10-23 | 2534 | 263 | 
 | 2022-10-22 | 2534 | 263 | 
-| 2022-10-21 | 2534 | 263 | 
 

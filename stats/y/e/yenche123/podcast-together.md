@@ -1,6 +1,6 @@
 # yenche123/podcast-together - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 245 | 19 | 
 | 2022-11-19 | 245 | 19 | 
 | 2022-11-18 | 226 | 18 | 
 | 2022-11-17 | 226 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 223 | 17 | 
 | 2022-10-23 | 223 | 17 | 
 | 2022-10-22 | 223 | 17 | 
-| 2022-10-21 | 223 | 18 | 
 

@@ -1,6 +1,6 @@
 # golangci/golangci-lint - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 1129
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 11496 | 1129 | 
 | 2022-11-19 | 11496 | 1129 | 
 | 2022-11-18 | 11492 | 1128 | 
 | 2022-11-17 | 11487 | 1127 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 11376 | 1116 | 
 | 2022-10-23 | 11370 | 1116 | 
 | 2022-10-22 | 11361 | 1116 | 
-| 2022-10-21 | 11356 | 1116 | 
 

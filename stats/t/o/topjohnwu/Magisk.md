@@ -1,10 +1,10 @@
 # topjohnwu/Magisk - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
-☋ Forks: 8062
+☋ Forks: 8071
 
-★ Stars: 30313
+★ Stars: 30344
 
 [Open repository](https://github.com/topjohnwu/Magisk)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 30344 | 8071 | 
 | 2022-11-19 | 30313 | 8062 | 
 | 2022-11-18 | 30290 | 8057 | 
 | 2022-11-17 | 30278 | 8051 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 29841 | 7879 | 
 | 2022-10-23 | 29822 | 7868 | 
 | 2022-10-22 | 29802 | 7855 | 
-| 2022-10-21 | 29783 | 7847 | 
 

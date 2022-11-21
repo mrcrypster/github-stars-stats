@@ -1,6 +1,6 @@
 # skuro/plantuml-mode - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 79
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 416 | 79 | 
 | 2022-11-19 | 416 | 79 | 
 | 2022-11-18 | 415 | 79 | 
 | 2022-11-17 | 415 | 79 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 414 | 80 | 
 | 2022-10-23 | 414 | 79 | 
 | 2022-10-22 | 414 | 79 | 
-| 2022-10-21 | 414 | 79 | 
 

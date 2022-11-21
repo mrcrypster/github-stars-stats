@@ -1,6 +1,6 @@
 # crosire/scripthookvdotnet - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 391
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 920 | 391 | 
 | 2022-11-19 | 920 | 391 | 
 | 2022-11-18 | 920 | 388 | 
 | 2022-11-17 | 920 | 388 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 913 | 389 | 
 | 2022-10-23 | 913 | 389 | 
 | 2022-10-22 | 911 | 389 | 
-| 2022-10-21 | 910 | 388 | 
 

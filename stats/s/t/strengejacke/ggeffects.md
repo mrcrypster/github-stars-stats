@@ -1,6 +1,6 @@
 # strengejacke/ggeffects - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 419 | 30 | 
 | 2022-11-19 | 419 | 30 | 
 | 2022-11-18 | 419 | 30 | 
 | 2022-11-17 | 419 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 419 | 30 | 
 | 2022-10-23 | 417 | 30 | 
 | 2022-10-22 | 417 | 30 | 
-| 2022-10-21 | 417 | 30 | 
 

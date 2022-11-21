@@ -1,8 +1,8 @@
 # lgsvl/simulator - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
-☋ Forks: 666
+☋ Forks: 667
 
 ★ Stars: 1934
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 1934 | 667 | 
 | 2022-11-19 | 1934 | 666 | 
 | 2022-11-18 | 1933 | 666 | 
 | 2022-11-17 | 1933 | 666 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 1911 | 668 | 
 | 2022-10-23 | 1910 | 668 | 
 | 2022-10-22 | 1909 | 668 | 
-| 2022-10-21 | 1909 | 669 | 
 

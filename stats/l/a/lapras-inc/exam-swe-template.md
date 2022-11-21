@@ -1,6 +1,6 @@
 # lapras-inc/exam-swe-template - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 129 | 1 | 
 | 2022-11-19 | 129 | 1 | 
 | 2022-11-18 | 129 | 1 | 
 | 2022-11-17 | 129 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-25 | 128 | 1 | 
 | 2022-10-24 | 127 | 1 | 
 | 2022-10-23 | 127 | 1 | 
-| 2022-10-21 | 127 | 1 | 
 

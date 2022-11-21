@@ -1,10 +1,10 @@
 # seth-brown/describe - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 3
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/seth-brown/describe)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 37 | 3 | 
 | 2022-11-19 | 36 | 3 | 
 | 2022-11-18 | 36 | 3 | 
 | 2022-11-17 | 36 | 3 | 

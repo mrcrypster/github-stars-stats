@@ -1,6 +1,6 @@
 # Yoast/wordpress-seo - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 821
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 1553 | 821 | 
 | 2022-11-19 | 1553 | 821 | 
 | 2022-11-18 | 1553 | 821 | 
 | 2022-11-17 | 1551 | 819 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 1543 | 815 | 
 | 2022-10-23 | 1542 | 815 | 
 | 2022-10-22 | 1542 | 814 | 
-| 2022-10-21 | 1542 | 814 | 
 

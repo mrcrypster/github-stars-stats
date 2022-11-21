@@ -1,6 +1,6 @@
 # revolut-mobile/kompot - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 79 | 3 | 
 | 2022-11-19 | 79 | 3 | 
 | 2022-11-18 | 79 | 3 | 
 | 2022-11-17 | 78 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 78 | 3 | 
 | 2022-10-23 | 78 | 3 | 
 | 2022-10-22 | 78 | 3 | 
-| 2022-10-21 | 78 | 3 | 
 

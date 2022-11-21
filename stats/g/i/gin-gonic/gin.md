@@ -1,10 +1,10 @@
 # gin-gonic/gin - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 7060
 
-★ Stars: 64471
+★ Stars: 64477
 
 [Open repository](https://github.com/gin-gonic/gin)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 64477 | 7060 | 
 | 2022-11-19 | 64471 | 7060 | 
 | 2022-11-18 | 64446 | 7055 | 
 | 2022-11-17 | 64419 | 7053 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 63809 | 6998 | 
 | 2022-10-23 | 63782 | 6996 | 
 | 2022-10-22 | 63775 | 6996 | 
-| 2022-10-21 | 63738 | 6992 | 
 

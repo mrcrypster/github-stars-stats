@@ -1,10 +1,10 @@
 # SubtitleEdit/subtitleedit - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 653
 
-★ Stars: 4489
+★ Stars: 4491
 
 [Open repository](https://github.com/SubtitleEdit/subtitleedit)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 4491 | 653 | 
 | 2022-11-19 | 4489 | 653 | 
 | 2022-11-18 | 4487 | 653 | 
 | 2022-11-17 | 4481 | 653 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 4355 | 644 | 
 | 2022-10-23 | 4354 | 644 | 
 | 2022-10-22 | 4352 | 644 | 
-| 2022-10-21 | 4351 | 644 | 
 

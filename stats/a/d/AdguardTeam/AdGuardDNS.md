@@ -1,6 +1,6 @@
 # AdguardTeam/AdGuardDNS - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 543 | 50 | 
 | 2022-11-19 | 543 | 50 | 
 | 2022-11-18 | 543 | 50 | 
 | 2022-11-17 | 542 | 50 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 533 | 48 | 
 | 2022-10-23 | 533 | 48 | 
 | 2022-10-22 | 531 | 47 | 
-| 2022-10-21 | 531 | 47 | 
 

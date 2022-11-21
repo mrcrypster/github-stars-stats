@@ -1,10 +1,10 @@
 # upb-lea/reinforcement_learning_course_materials - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 168
 
-★ Stars: 767
+★ Stars: 768
 
 [Open repository](https://github.com/upb-lea/reinforcement_learning_course_materials)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 768 | 168 | 
 | 2022-11-20 | 767 | 168 | 
 | 2022-11-19 | 767 | 168 | 
 | 2022-11-17 | 766 | 169 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-24 | 762 | 167 | 
 | 2022-10-23 | 762 | 167 | 
 | 2022-10-22 | 762 | 167 | 
-| 2022-10-21 | 762 | 167 | 
 

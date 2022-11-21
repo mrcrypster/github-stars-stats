@@ -1,10 +1,10 @@
 # farmergreg/vim-lastplace - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 24
 
-★ Stars: 412
+★ Stars: 413
 
 [Open repository](https://github.com/farmergreg/vim-lastplace)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 413 | 24 | 
 | 2022-11-19 | 412 | 24 | 
 | 2022-11-18 | 412 | 24 | 
 | 2022-11-17 | 412 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 405 | 24 | 
 | 2022-10-23 | 405 | 24 | 
 | 2022-10-22 | 405 | 24 | 
-| 2022-10-21 | 405 | 24 | 
 

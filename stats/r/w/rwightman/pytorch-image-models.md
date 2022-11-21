@@ -1,10 +1,10 @@
 # rwightman/pytorch-image-models - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
-☋ Forks: 3671
+☋ Forks: 3673
 
-★ Stars: 22036
+★ Stars: 22043
 
 [Open repository](https://github.com/rwightman/pytorch-image-models)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 22043 | 3673 | 
 | 2022-11-19 | 22036 | 3671 | 
 | 2022-11-18 | 22026 | 3670 | 
 | 2022-11-17 | 22005 | 3668 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 21579 | 3567 | 
 | 2022-10-23 | 21558 | 3562 | 
 | 2022-10-22 | 21549 | 3558 | 
-| 2022-10-21 | 21529 | 3554 | 
 

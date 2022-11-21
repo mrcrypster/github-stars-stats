@@ -1,6 +1,6 @@
 # olafhartong/sysmon-modular - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 441
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 2024 | 441 | 
 | 2022-11-19 | 2024 | 441 | 
 | 2022-11-18 | 2024 | 441 | 
 | 2022-11-17 | 2019 | 440 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 1998 | 431 | 
 | 2022-10-23 | 1996 | 431 | 
 | 2022-10-22 | 1994 | 431 | 
-| 2022-10-21 | 1993 | 431 | 
 

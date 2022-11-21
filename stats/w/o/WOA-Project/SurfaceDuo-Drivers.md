@@ -1,10 +1,10 @@
 # WOA-Project/SurfaceDuo-Drivers - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 8
 
-★ Stars: 71
+★ Stars: 72
 
 [Open repository](https://github.com/WOA-Project/SurfaceDuo-Drivers)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 72 | 8 | 
 | 2022-11-19 | 71 | 8 | 
 | 2022-11-18 | 71 | 8 | 
 | 2022-11-17 | 70 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 66 | 7 | 
 | 2022-10-23 | 66 | 6 | 
 | 2022-10-22 | 66 | 6 | 
-| 2022-10-21 | 66 | 6 | 
 

@@ -1,6 +1,6 @@
 # terraform-aws-modules/terraform-aws-dynamodb-table - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 122
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 63 | 122 | 
 | 2022-11-19 | 63 | 122 | 
 | 2022-11-18 | 63 | 122 | 
 | 2022-11-17 | 63 | 122 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 59 | 118 | 
 | 2022-10-23 | 59 | 118 | 
 | 2022-10-22 | 59 | 118 | 
-| 2022-10-21 | 59 | 117 | 
 

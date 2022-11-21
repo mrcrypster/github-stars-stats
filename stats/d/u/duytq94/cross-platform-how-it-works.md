@@ -1,10 +1,10 @@
 # duytq94/cross-platform-how-it-works - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 15
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/duytq94/cross-platform-how-it-works)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 29 | 15 | 
 | 2022-11-19 | 28 | 15 | 
 | 2022-11-18 | 28 | 15 | 
 | 2022-11-17 | 28 | 15 | 

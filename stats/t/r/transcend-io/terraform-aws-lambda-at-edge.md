@@ -1,6 +1,6 @@
 # transcend-io/terraform-aws-lambda-at-edge - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 21 | 33 | 
 | 2022-11-19 | 21 | 33 | 
 | 2022-11-18 | 21 | 33 | 
 | 2022-11-17 | 21 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 20 | 30 | 
 | 2022-10-23 | 20 | 30 | 
 | 2022-10-22 | 20 | 30 | 
-| 2022-10-21 | 20 | 30 | 
 

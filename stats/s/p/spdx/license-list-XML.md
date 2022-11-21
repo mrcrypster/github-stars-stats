@@ -1,10 +1,10 @@
 # spdx/license-list-XML - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
-☋ Forks: 226
+☋ Forks: 227
 
-★ Stars: 221
+★ Stars: 224
 
 [Open repository](https://github.com/spdx/license-list-XML)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 224 | 227 | 
 | 2022-11-19 | 221 | 226 | 
 | 2022-11-18 | 221 | 227 | 
 | 2022-11-17 | 220 | 227 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 213 | 219 | 
 | 2022-10-23 | 213 | 219 | 
 | 2022-10-22 | 213 | 219 | 
-| 2022-10-21 | 213 | 219 | 
 

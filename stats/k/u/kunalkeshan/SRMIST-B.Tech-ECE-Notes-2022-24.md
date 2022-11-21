@@ -1,6 +1,6 @@
 # kunalkeshan/SRMIST-B.Tech-ECE-Notes-2022-24 - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 21 | 17 | 
 | 2022-11-19 | 21 | 17 | 
 | 2022-11-18 | 21 | 17 | 
 | 2022-11-17 | 21 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 19 | 15 | 
 | 2022-10-23 | 19 | 14 | 
 | 2022-10-22 | 19 | 14 | 
-| 2022-10-21 | 19 | 13 | 
 

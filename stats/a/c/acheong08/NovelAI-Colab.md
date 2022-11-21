@@ -1,10 +1,10 @@
 # acheong08/NovelAI-Colab - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 21
 
-★ Stars: 163
+★ Stars: 165
 
 [Open repository](https://github.com/acheong08/NovelAI-Colab)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 165 | 21 | 
 | 2022-11-19 | 163 | 21 | 
 | 2022-11-18 | 162 | 21 | 
 | 2022-11-17 | 161 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 92 | 16 | 
 | 2022-10-23 | 86 | 14 | 
 | 2022-10-22 | 83 | 14 | 
-| 2022-10-21 | 76 | 13 | 
 

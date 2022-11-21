@@ -1,10 +1,10 @@
 # dolphin-emu/dolphin - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
-☋ Forks: 2086
+☋ Forks: 2085
 
-★ Stars: 9243
+★ Stars: 9245
 
 [Open repository](https://github.com/dolphin-emu/dolphin)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 9245 | 2085 | 
 | 2022-11-19 | 9243 | 2086 | 
 | 2022-11-18 | 9240 | 2086 | 
 | 2022-11-17 | 9237 | 2085 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 9163 | 2068 | 
 | 2022-10-23 | 9160 | 2068 | 
 | 2022-10-22 | 9152 | 2069 | 
-| 2022-10-21 | 9149 | 2067 | 
 

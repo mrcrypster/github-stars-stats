@@ -1,10 +1,10 @@
 # pangloss/vim-javascript - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 364
 
-★ Stars: 3762
+★ Stars: 3763
 
 [Open repository](https://github.com/pangloss/vim-javascript)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 3763 | 364 | 
 | 2022-11-19 | 3762 | 364 | 
 | 2022-11-18 | 3760 | 364 | 
 | 2022-11-17 | 3758 | 364 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 3753 | 365 | 
 | 2022-10-23 | 3753 | 365 | 
 | 2022-10-22 | 3753 | 365 | 
-| 2022-10-21 | 3752 | 365 | 
 

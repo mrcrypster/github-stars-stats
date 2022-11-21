@@ -1,10 +1,10 @@
 # nanomsg/nng - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 392
 
-★ Stars: 2962
+★ Stars: 2963
 
 [Open repository](https://github.com/nanomsg/nng)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 2963 | 392 | 
 | 2022-11-19 | 2962 | 392 | 
 | 2022-11-18 | 2960 | 392 | 
 | 2022-11-17 | 2959 | 392 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 2936 | 390 | 
 | 2022-10-23 | 2933 | 390 | 
 | 2022-10-22 | 2930 | 389 | 
-| 2022-10-21 | 2927 | 389 | 
 

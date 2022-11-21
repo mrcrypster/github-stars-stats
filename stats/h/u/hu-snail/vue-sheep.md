@@ -1,6 +1,6 @@
 # hu-snail/vue-sheep - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 22 | 7 | 
 | 2022-11-19 | 22 | 7 | 
 | 2022-11-18 | 21 | 7 | 
 | 2022-11-17 | 21 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 20 | 7 | 
 | 2022-10-23 | 20 | 7 | 
 | 2022-10-22 | 20 | 7 | 
-| 2022-10-21 | 20 | 7 | 
 

@@ -1,6 +1,6 @@
 # code-423n4/2022-10-traderjoe - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 5 | 10 | 
 | 2022-11-19 | 5 | 10 | 
 | 2022-11-18 | 5 | 10 | 
 | 2022-11-17 | 5 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 5 | 9 | 
 | 2022-10-23 | 4 | 8 | 
 | 2022-10-22 | 3 | 7 | 
-| 2022-10-21 | 4 | 6 | 
 

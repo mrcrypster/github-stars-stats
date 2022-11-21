@@ -1,10 +1,10 @@
 # emacs-lsp/lsp-mode - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 732
 
-★ Stars: 4217
+★ Stars: 4218
 
 [Open repository](https://github.com/emacs-lsp/lsp-mode)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 4218 | 732 | 
 | 2022-11-19 | 4217 | 732 | 
 | 2022-11-18 | 4216 | 732 | 
 | 2022-11-17 | 4214 | 731 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 4188 | 724 | 
 | 2022-10-23 | 4187 | 724 | 
 | 2022-10-22 | 4186 | 724 | 
-| 2022-10-21 | 4184 | 724 | 
 

@@ -1,6 +1,6 @@
 # phpredis/phpredis - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 2109
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 9512 | 2109 | 
 | 2022-11-19 | 9512 | 2109 | 
 | 2022-11-18 | 9511 | 2108 | 
 | 2022-11-17 | 9508 | 2108 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 9479 | 2112 | 
 | 2022-10-23 | 9478 | 2112 | 
 | 2022-10-22 | 9476 | 2112 | 
-| 2022-10-21 | 9474 | 2112 | 
 

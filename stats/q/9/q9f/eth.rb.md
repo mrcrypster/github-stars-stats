@@ -1,8 +1,8 @@
 # q9f/eth.rb - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
-☋ Forks: 40
+☋ Forks: 39
 
 ★ Stars: 139
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 139 | 39 | 
 | 2022-11-19 | 139 | 40 | 
 | 2022-11-18 | 138 | 40 | 
 | 2022-11-17 | 138 | 40 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 133 | 39 | 
 | 2022-10-23 | 133 | 39 | 
 | 2022-10-22 | 133 | 39 | 
-| 2022-10-21 | 133 | 39 | 
 

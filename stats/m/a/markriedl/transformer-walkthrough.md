@@ -1,6 +1,6 @@
 # markriedl/transformer-walkthrough - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 173 | 9 | 
 | 2022-11-20 | 173 | 9 | 
 | 2022-11-19 | 173 | 9 | 
 | 2022-11-18 | 172 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-24 | 172 | 9 | 
 | 2022-10-23 | 172 | 9 | 
 | 2022-10-22 | 172 | 9 | 
-| 2022-10-21 | 172 | 9 | 
 

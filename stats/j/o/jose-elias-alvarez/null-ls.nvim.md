@@ -1,10 +1,10 @@
 # jose-elias-alvarez/null-ls.nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
-☋ Forks: 520
+☋ Forks: 521
 
-★ Stars: 2302
+★ Stars: 2306
 
 [Open repository](https://github.com/jose-elias-alvarez/null-ls.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 2306 | 521 | 
 | 2022-11-19 | 2302 | 520 | 
 | 2022-11-18 | 2285 | 519 | 
 | 2022-11-17 | 2282 | 518 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 2173 | 492 | 
 | 2022-10-23 | 2171 | 492 | 
 | 2022-10-22 | 2167 | 490 | 
-| 2022-10-21 | 2156 | 487 | 
 

@@ -1,6 +1,6 @@
 # pliang279/awesome-phd-advice - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 67
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 901 | 67 | 
 | 2022-11-19 | 901 | 67 | 
 | 2022-11-18 | 901 | 67 | 
 | 2022-11-17 | 900 | 67 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 868 | 64 | 
 | 2022-10-23 | 868 | 64 | 
 | 2022-10-22 | 868 | 64 | 
-| 2022-10-21 | 868 | 64 | 
 

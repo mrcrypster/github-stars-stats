@@ -1,6 +1,6 @@
 # xxlllq/system_architect - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 1274
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 3596 | 1274 | 
 | 2022-11-20 | 3596 | 1274 | 
 | 2022-11-19 | 3595 | 1275 | 
 | 2022-11-18 | 3590 | 1274 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-24 | 3475 | 1247 | 
 | 2022-10-23 | 3470 | 1247 | 
 | 2022-10-22 | 3467 | 1245 | 
-| 2022-10-21 | 3466 | 1245 | 
 

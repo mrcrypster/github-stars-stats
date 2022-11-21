@@ -1,8 +1,8 @@
 # GameDevChef/CarController - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
-☋ Forks: 76
+☋ Forks: 75
 
 ★ Stars: 42
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 42 | 75 | 
 | 2022-11-19 | 42 | 76 | 
 | 2022-11-18 | 42 | 76 | 
 | 2022-11-17 | 42 | 76 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 39 | 77 | 
 | 2022-10-23 | 39 | 77 | 
 | 2022-10-22 | 39 | 77 | 
-| 2022-10-21 | 39 | 77 | 
 

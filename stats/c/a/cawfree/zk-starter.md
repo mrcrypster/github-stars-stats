@@ -1,6 +1,6 @@
 # cawfree/zk-starter - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 63 | 1 | 
 | 2022-11-19 | 63 | 1 | 
 | 2022-11-18 | 63 | 1 | 
 | 2022-11-17 | 63 | 1 | 

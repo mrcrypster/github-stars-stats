@@ -1,8 +1,8 @@
 # vihangayt0/VihangaBot-MD-V3 - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
-☋ Forks: 1315
+☋ Forks: 1317
 
 ★ Stars: 394
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 394 | 1317 | 
 | 2022-11-19 | 394 | 1315 | 
 | 2022-11-18 | 394 | 1311 | 
 | 2022-11-17 | 394 | 1308 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 380 | 1249 | 
 | 2022-10-23 | 377 | 1243 | 
 | 2022-10-22 | 376 | 1240 | 
-| 2022-10-21 | 374 | 1237 | 
 

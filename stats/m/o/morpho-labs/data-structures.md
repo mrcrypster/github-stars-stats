@@ -1,10 +1,10 @@
 # morpho-labs/data-structures - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
-☋ Forks: 3
+☋ Forks: 4
 
-★ Stars: 55
+★ Stars: 56
 
 [Open repository](https://github.com/morpho-labs/data-structures)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 56 | 4 | 
 | 2022-11-19 | 55 | 3 | 
 | 2022-11-18 | 55 | 2 | 
 | 2022-11-17 | 54 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 50 | 2 | 
 | 2022-10-23 | 50 | 2 | 
 | 2022-10-22 | 50 | 2 | 
-| 2022-10-21 | 50 | 2 | 
 

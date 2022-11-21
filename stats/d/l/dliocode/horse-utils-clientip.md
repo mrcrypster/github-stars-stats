@@ -1,6 +1,6 @@
 # dliocode/horse-utils-clientip - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 16 | 7 | 
 | 2022-11-19 | 16 | 7 | 
 | 2022-11-18 | 16 | 7 | 
 | 2022-11-17 | 16 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 16 | 6 | 
 | 2022-10-23 | 16 | 6 | 
 | 2022-10-22 | 16 | 6 | 
-| 2022-10-21 | 15 | 6 | 
 

@@ -1,10 +1,10 @@
 # Jzou44/photo2pixel - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 37
 
-★ Stars: 119
+★ Stars: 120
 
 [Open repository](https://github.com/Jzou44/photo2pixel)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 120 | 37 | 
 | 2022-11-19 | 119 | 37 | 
 | 2022-11-18 | 119 | 37 | 
 | 2022-11-17 | 117 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 115 | 36 | 
 | 2022-10-23 | 115 | 36 | 
 | 2022-10-22 | 115 | 36 | 
-| 2022-10-21 | 115 | 36 | 
 

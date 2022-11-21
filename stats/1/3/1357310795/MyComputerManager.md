@@ -1,10 +1,10 @@
 # 1357310795/MyComputerManager - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 38
 
-★ Stars: 1161
+★ Stars: 1164
 
 [Open repository](https://github.com/1357310795/MyComputerManager)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 1164 | 38 | 
 | 2022-11-19 | 1161 | 38 | 
 | 2022-11-18 | 1161 | 39 | 
 | 2022-11-17 | 1161 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 1126 | 37 | 
 | 2022-10-23 | 1124 | 37 | 
 | 2022-10-22 | 1123 | 37 | 
-| 2022-10-21 | 1118 | 37 | 
 

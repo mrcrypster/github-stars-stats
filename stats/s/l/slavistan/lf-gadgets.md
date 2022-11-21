@@ -1,6 +1,6 @@
 # slavistan/lf-gadgets - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 67 | 13 | 
 | 2022-11-19 | 67 | 13 | 
 | 2022-11-18 | 67 | 13 | 
 | 2022-11-17 | 67 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 64 | 13 | 
 | 2022-10-23 | 64 | 13 | 
 | 2022-10-22 | 64 | 13 | 
-| 2022-10-21 | 64 | 13 | 
 

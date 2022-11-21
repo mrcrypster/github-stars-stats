@@ -1,10 +1,10 @@
 # wasimreja/book-finder - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 136
 
-★ Stars: 75
+★ Stars: 76
 
 [Open repository](https://github.com/wasimreja/book-finder)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 76 | 136 | 
 | 2022-11-19 | 75 | 136 | 
 | 2022-11-18 | 75 | 136 | 
 | 2022-11-17 | 75 | 136 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 75 | 138 | 
 | 2022-10-23 | 74 | 137 | 
 | 2022-10-22 | 73 | 140 | 
-| 2022-10-21 | 70 | 138 | 
 

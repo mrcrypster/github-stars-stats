@@ -1,10 +1,10 @@
 # atp-mipt/ljv - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 11
 
-★ Stars: 246
+★ Stars: 247
 
 [Open repository](https://github.com/atp-mipt/ljv)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 247 | 11 | 
 | 2022-11-19 | 246 | 11 | 
 | 2022-11-18 | 245 | 10 | 
 | 2022-11-17 | 245 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 242 | 10 | 
 | 2022-10-23 | 242 | 10 | 
 | 2022-10-22 | 242 | 10 | 
-| 2022-10-21 | 242 | 10 | 
 

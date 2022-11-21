@@ -1,10 +1,10 @@
 # D3Ext/AORT - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 68
 
-★ Stars: 512
+★ Stars: 519
 
 [Open repository](https://github.com/D3Ext/AORT)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 519 | 68 | 
 | 2022-11-19 | 512 | 68 | 
 | 2022-11-18 | 512 | 68 | 
 | 2022-11-17 | 510 | 68 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 449 | 60 | 
 | 2022-10-23 | 447 | 60 | 
 | 2022-10-22 | 446 | 60 | 
-| 2022-10-21 | 445 | 60 | 
 

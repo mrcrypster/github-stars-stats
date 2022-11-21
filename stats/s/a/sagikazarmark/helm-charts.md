@@ -1,6 +1,6 @@
 # sagikazarmark/helm-charts - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 31 | 35 | 
 | 2022-11-19 | 31 | 35 | 
 | 2022-11-18 | 30 | 35 | 
 | 2022-11-17 | 30 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 30 | 33 | 
 | 2022-10-23 | 30 | 33 | 
 | 2022-10-22 | 30 | 33 | 
-| 2022-10-21 | 30 | 33 | 
 

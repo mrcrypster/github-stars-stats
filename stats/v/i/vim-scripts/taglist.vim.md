@@ -1,10 +1,10 @@
 # vim-scripts/taglist.vim - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 268
 
-★ Stars: 643
+★ Stars: 644
 
 [Open repository](https://github.com/vim-scripts/taglist.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 644 | 268 | 
 | 2022-11-19 | 643 | 268 | 
 | 2022-11-18 | 643 | 268 | 
 | 2022-11-17 | 643 | 268 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 640 | 265 | 
 | 2022-10-23 | 640 | 265 | 
 | 2022-10-22 | 640 | 265 | 
-| 2022-10-21 | 640 | 265 | 
 

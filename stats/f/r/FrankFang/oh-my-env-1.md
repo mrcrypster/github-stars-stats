@@ -1,6 +1,6 @@
 # FrankFang/oh-my-env-1 - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 26 | 19 | 
 | 2022-11-19 | 26 | 19 | 
 | 2022-11-18 | 26 | 19 | 
 | 2022-11-17 | 26 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-25 | 24 | 17 | 
 | 2022-10-24 | 24 | 17 | 
 | 2022-10-23 | 24 | 17 | 
-| 2022-10-22 | 24 | 17 | 
 

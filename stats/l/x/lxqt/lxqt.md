@@ -1,10 +1,10 @@
 # lxqt/lxqt - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 129
 
-★ Stars: 1393
+★ Stars: 1394
 
 [Open repository](https://github.com/lxqt/lxqt)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 1394 | 129 | 
 | 2022-11-19 | 1393 | 129 | 
 | 2022-11-18 | 1393 | 129 | 
 | 2022-11-17 | 1392 | 129 | 

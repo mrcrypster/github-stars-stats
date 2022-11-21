@@ -1,6 +1,6 @@
 # mist64/msbasic - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 207 | 62 | 
 | 2022-11-19 | 207 | 62 | 
 | 2022-11-18 | 207 | 62 | 
 | 2022-11-17 | 207 | 62 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 203 | 61 | 
 | 2022-10-23 | 202 | 61 | 
 | 2022-10-22 | 202 | 61 | 
-| 2022-10-21 | 202 | 61 | 
 

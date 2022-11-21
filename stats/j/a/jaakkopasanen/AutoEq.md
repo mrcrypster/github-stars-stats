@@ -1,10 +1,10 @@
 # jaakkopasanen/AutoEq - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
-☋ Forks: 2110
+☋ Forks: 2116
 
-★ Stars: 9210
+★ Stars: 9223
 
 [Open repository](https://github.com/jaakkopasanen/AutoEq)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 9223 | 2116 | 
 | 2022-11-19 | 9210 | 2110 | 
 | 2022-11-18 | 9195 | 2104 | 
 | 2022-11-17 | 9180 | 2104 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 8971 | 2053 | 
 | 2022-10-23 | 8966 | 2053 | 
 | 2022-10-22 | 8957 | 2048 | 
-| 2022-10-21 | 8950 | 2046 | 
 

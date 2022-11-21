@@ -1,6 +1,6 @@
 # radixdlt/radixdlt-scrypto - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 87
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 318 | 87 | 
 | 2022-11-19 | 318 | 87 | 
 | 2022-11-18 | 318 | 87 | 
 | 2022-11-17 | 318 | 87 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 312 | 87 | 
 | 2022-10-23 | 312 | 87 | 
 | 2022-10-22 | 312 | 87 | 
-| 2022-10-21 | 312 | 86 | 
 

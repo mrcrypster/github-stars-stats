@@ -1,6 +1,6 @@
 # jgru/consult-org-roam - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 52 | 5 | 
 | 2022-11-19 | 52 | 5 | 
 | 2022-11-18 | 52 | 5 | 
 | 2022-11-17 | 51 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 50 | 4 | 
 | 2022-10-23 | 50 | 4 | 
 | 2022-10-22 | 50 | 4 | 
-| 2022-10-21 | 50 | 4 | 
 

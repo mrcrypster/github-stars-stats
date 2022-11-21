@@ -1,6 +1,6 @@
 # unbalancedparentheses/data_science_in_julia_for_hackers - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 99 | 23 | 
 | 2022-11-19 | 99 | 23 | 
 | 2022-11-18 | 99 | 23 | 
 | 2022-11-17 | 99 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 97 | 24 | 
 | 2022-10-23 | 97 | 24 | 
 | 2022-10-22 | 97 | 24 | 
-| 2022-10-21 | 97 | 24 | 
 

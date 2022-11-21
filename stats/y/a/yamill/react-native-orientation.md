@@ -1,6 +1,6 @@
 # yamill/react-native-orientation - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 757
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 1683 | 757 | 
 | 2022-11-19 | 1683 | 757 | 
 | 2022-11-18 | 1683 | 756 | 
 | 2022-11-17 | 1683 | 756 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 1680 | 746 | 
 | 2022-10-23 | 1680 | 745 | 
 | 2022-10-22 | 1680 | 745 | 
-| 2022-10-21 | 1680 | 745 | 
 

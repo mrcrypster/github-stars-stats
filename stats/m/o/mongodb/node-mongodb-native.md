@@ -1,10 +1,10 @@
 # mongodb/node-mongodb-native - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 1749
 
-★ Stars: 9587
+★ Stars: 9589
 
 [Open repository](https://github.com/mongodb/node-mongodb-native)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 9589 | 1749 | 
 | 2022-11-19 | 9587 | 1749 | 
 | 2022-11-18 | 9587 | 1750 | 
 | 2022-11-17 | 9586 | 1749 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 9562 | 1750 | 
 | 2022-10-23 | 9561 | 1750 | 
 | 2022-10-22 | 9561 | 1750 | 
-| 2022-10-21 | 9559 | 1750 | 
 

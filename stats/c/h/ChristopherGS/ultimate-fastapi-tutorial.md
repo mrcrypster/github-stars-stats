@@ -1,8 +1,8 @@
 # ChristopherGS/ultimate-fastapi-tutorial - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
-☋ Forks: 221
+☋ Forks: 223
 
 ★ Stars: 478
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 478 | 223 | 
 | 2022-11-19 | 478 | 221 | 
 | 2022-11-18 | 478 | 221 | 
 | 2022-11-17 | 477 | 221 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 450 | 200 | 
 | 2022-10-23 | 448 | 200 | 
 | 2022-10-22 | 448 | 199 | 
-| 2022-10-21 | 445 | 199 | 
 

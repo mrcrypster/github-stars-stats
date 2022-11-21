@@ -1,6 +1,6 @@
 # ak47morozov/Delphi-Libxml2 - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 9 | 4 | 
 | 2022-11-20 | 9 | 4 | 
 | 2022-11-19 | 9 | 4 | 
 | 2022-11-18 | 9 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-24 | 9 | 4 | 
 | 2022-10-23 | 9 | 4 | 
 | 2022-10-22 | 9 | 4 | 
-| 2022-10-21 | 9 | 4 | 
 

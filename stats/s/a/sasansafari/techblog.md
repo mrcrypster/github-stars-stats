@@ -1,6 +1,6 @@
 # sasansafari/techblog - stars & forks statistics
 
-Stats updated on Nov 2022, 19
+Stats updated on Nov 2022, 20
 
 ☋ Forks: 81
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-20 | 77 | 81 | 
 | 2022-11-19 | 77 | 81 | 
 | 2022-11-18 | 77 | 81 | 
 | 2022-11-17 | 76 | 79 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 19
 | 2022-10-24 | 73 | 76 | 
 | 2022-10-23 | 72 | 76 | 
 | 2022-10-22 | 72 | 75 | 
-| 2022-10-21 | 71 | 76 | 
 

@@ -1,10 +1,10 @@
 # bentrevett/pytorch-sentiment-analysis - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
-☋ Forks: 1044
+☋ Forks: 1046
 
-★ Stars: 3684
+★ Stars: 3689
 
 [Open repository](https://github.com/bentrevett/pytorch-sentiment-analysis)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 3689 | 1046 | 
 | 2022-11-20 | 3684 | 1044 | 
 | 2022-11-19 | 3683 | 1044 | 
 | 2022-11-18 | 3683 | 1044 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-24 | 3639 | 1036 | 
 | 2022-10-23 | 3636 | 1036 | 
 | 2022-10-22 | 3635 | 1035 | 
-| 2022-10-21 | 3635 | 1035 | 
 

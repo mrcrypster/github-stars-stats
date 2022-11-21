@@ -1,10 +1,10 @@
 # rnkn/fountain-mode - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 14
 
-★ Stars: 343
+★ Stars: 344
 
 [Open repository](https://github.com/rnkn/fountain-mode)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 344 | 14 | 
 | 2022-11-20 | 343 | 14 | 
 | 2022-11-19 | 343 | 14 | 
 | 2022-11-18 | 343 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-24 | 342 | 14 | 
 | 2022-10-23 | 342 | 14 | 
 | 2022-10-22 | 342 | 14 | 
-| 2022-10-21 | 342 | 14 | 
 
