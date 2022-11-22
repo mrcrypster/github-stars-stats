@@ -1,10 +1,10 @@
 # kkailiwang/erc20r - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 2
 
-★ Stars: 47
+★ Stars: 48
 
 [Open repository](https://github.com/kkailiwang/erc20r)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 48 | 2 | 
 | 2022-11-20 | 47 | 2 | 
 | 2022-11-19 | 47 | 2 | 
 | 2022-11-18 | 47 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 47 | 2 | 
 | 2022-10-24 | 47 | 2 | 
 | 2022-10-23 | 47 | 2 | 
-| 2022-10-22 | 46 | 1 | 
 

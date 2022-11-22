@@ -1,6 +1,6 @@
 # libretro/Lakka-LibreELEC - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 256
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 1375 | 256 | 
 | 2022-11-20 | 1375 | 256 | 
 | 2022-11-19 | 1374 | 256 | 
 | 2022-11-18 | 1372 | 256 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 1366 | 255 | 
 | 2022-10-24 | 1365 | 255 | 
 | 2022-10-23 | 1365 | 255 | 
-| 2022-10-22 | 1365 | 255 | 
 

@@ -1,6 +1,6 @@
 # software-mansion/react-native-svg - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 963
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 6454 | 963 | 
 | 2022-11-20 | 6454 | 963 | 
 | 2022-11-19 | 6454 | 963 | 
 | 2022-11-18 | 6454 | 963 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 6392 | 949 | 
 | 2022-10-24 | 6391 | 948 | 
 | 2022-10-23 | 6389 | 948 | 
-| 2022-10-22 | 6387 | 948 | 
 

@@ -1,10 +1,10 @@
 # bestony/logoly - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
-☋ Forks: 704
+☋ Forks: 706
 
-★ Stars: 6538
+★ Stars: 6540
 
 [Open repository](https://github.com/bestony/logoly)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 6540 | 706 | 
 | 2022-11-20 | 6538 | 704 | 
 | 2022-11-19 | 6539 | 704 | 
 | 2022-11-18 | 6537 | 704 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 6529 | 708 | 
 | 2022-10-24 | 6526 | 708 | 
 | 2022-10-23 | 6525 | 708 | 
-| 2022-10-22 | 6521 | 707 | 
 

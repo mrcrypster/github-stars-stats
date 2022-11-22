@@ -1,6 +1,6 @@
 # Weik1/Artillery - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 456 | 57 | 
 | 2022-11-20 | 456 | 57 | 
 | 2022-11-19 | 455 | 57 | 
 | 2022-11-18 | 455 | 57 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 452 | 57 | 
 | 2022-10-24 | 451 | 57 | 
 | 2022-10-23 | 450 | 57 | 
-| 2022-10-22 | 449 | 57 | 
 

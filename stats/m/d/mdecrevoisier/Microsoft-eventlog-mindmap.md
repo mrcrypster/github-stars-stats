@@ -1,10 +1,10 @@
 # mdecrevoisier/Microsoft-eventlog-mindmap - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 144
 
-★ Stars: 802
+★ Stars: 803
 
 [Open repository](https://github.com/mdecrevoisier/Microsoft-eventlog-mindmap)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 803 | 144 | 
 | 2022-11-20 | 802 | 144 | 
 | 2022-11-19 | 802 | 144 | 
 | 2022-11-18 | 801 | 144 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-26 | 774 | 141 | 
 | 2022-10-25 | 774 | 141 | 
 | 2022-10-24 | 774 | 141 | 
-| 2022-10-23 | 774 | 141 | 
 

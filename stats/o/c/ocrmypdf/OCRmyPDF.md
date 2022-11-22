@@ -1,10 +1,10 @@
 # ocrmypdf/OCRmyPDF - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 637
 
-★ Stars: 7706
+★ Stars: 7708
 
 [Open repository](https://github.com/ocrmypdf/OCRmyPDF)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 7708 | 637 | 
 | 2022-11-20 | 7706 | 637 | 
 | 2022-11-19 | 7697 | 637 | 
 | 2022-11-18 | 7692 | 636 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 7555 | 626 | 
 | 2022-10-24 | 7545 | 626 | 
 | 2022-10-23 | 7541 | 626 | 
-| 2022-10-22 | 7537 | 625 | 
 

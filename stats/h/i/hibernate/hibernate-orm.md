@@ -1,6 +1,6 @@
 # hibernate/hibernate-orm - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 3183
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 5153 | 3183 | 
 | 2022-11-20 | 5153 | 3183 | 
 | 2022-11-19 | 5152 | 3183 | 
 | 2022-11-18 | 5151 | 3183 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 5126 | 3175 | 
 | 2022-10-24 | 5125 | 3175 | 
 | 2022-10-23 | 5124 | 3175 | 
-| 2022-10-22 | 5122 | 3174 | 
 

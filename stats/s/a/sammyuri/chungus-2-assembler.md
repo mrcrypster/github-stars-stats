@@ -1,10 +1,10 @@
 # sammyuri/chungus-2-assembler - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 14
 
-★ Stars: 244
+★ Stars: 245
 
 [Open repository](https://github.com/sammyuri/chungus-2-assembler)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 245 | 14 | 
 | 2022-11-20 | 244 | 14 | 
 | 2022-11-19 | 244 | 14 | 
 | 2022-11-18 | 244 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 240 | 14 | 
 | 2022-10-24 | 240 | 14 | 
 | 2022-10-23 | 240 | 14 | 
-| 2022-10-22 | 240 | 14 | 
 

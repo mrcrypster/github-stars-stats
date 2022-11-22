@@ -1,8 +1,8 @@
 # xiph/rnnoise - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
-☋ Forks: 788
+☋ Forks: 789
 
 ★ Stars: 2779
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 2779 | 789 | 
 | 2022-11-20 | 2779 | 788 | 
 | 2022-11-19 | 2776 | 788 | 
 | 2022-11-18 | 2776 | 787 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 2743 | 784 | 
 | 2022-10-24 | 2742 | 784 | 
 | 2022-10-23 | 2742 | 782 | 
-| 2022-10-22 | 2742 | 782 | 
 

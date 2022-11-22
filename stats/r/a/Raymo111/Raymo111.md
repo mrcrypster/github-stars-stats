@@ -1,6 +1,6 @@
 # Raymo111/Raymo111 - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 309
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 136 | 309 | 
 | 2022-11-20 | 136 | 309 | 
 | 2022-11-19 | 136 | 310 | 
 | 2022-11-18 | 136 | 310 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 133 | 300 | 
 | 2022-10-24 | 133 | 299 | 
 | 2022-10-23 | 132 | 299 | 
-| 2022-10-22 | 132 | 299 | 
 

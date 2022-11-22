@@ -1,10 +1,10 @@
 # amfoss/website_old - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 12
 
-★ Stars: 537
+★ Stars: 540
 
 [Open repository](https://github.com/amfoss/website_old)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 540 | 12 | 
 | 2022-11-20 | 537 | 12 | 
 | 2022-11-19 | 534 | 12 | 
 | 2022-11-18 | 530 | 12 | 

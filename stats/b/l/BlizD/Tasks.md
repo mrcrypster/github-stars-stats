@@ -1,6 +1,6 @@
 # BlizD/Tasks - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 146
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 222 | 146 | 
 | 2022-11-20 | 222 | 146 | 
 | 2022-11-19 | 222 | 146 | 
 | 2022-11-18 | 222 | 146 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 219 | 147 | 
 | 2022-10-24 | 220 | 147 | 
 | 2022-10-23 | 220 | 147 | 
-| 2022-10-22 | 220 | 147 | 
 

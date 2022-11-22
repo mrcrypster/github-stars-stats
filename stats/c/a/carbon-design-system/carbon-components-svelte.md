@@ -1,10 +1,10 @@
 # carbon-design-system/carbon-components-svelte - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
-☋ Forks: 211
+☋ Forks: 212
 
-★ Stars: 1845
+★ Stars: 1846
 
 [Open repository](https://github.com/carbon-design-system/carbon-components-svelte)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 1846 | 212 | 
 | 2022-11-20 | 1845 | 211 | 
 | 2022-11-19 | 1845 | 209 | 
 | 2022-11-18 | 1844 | 209 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 1794 | 209 | 
 | 2022-10-24 | 1789 | 207 | 
 | 2022-10-23 | 1788 | 207 | 
-| 2022-10-22 | 1787 | 207 | 
 

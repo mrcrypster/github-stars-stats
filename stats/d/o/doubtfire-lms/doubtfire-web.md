@@ -1,8 +1,8 @@
 # doubtfire-lms/doubtfire-web - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 22
 
-☋ Forks: 222
+☋ Forks: 223
 
 ★ Stars: 34
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 34 | 223 | 
+| 2022-11-21 | 34 | 223 | 
 | 2022-11-20 | 34 | 222 | 
 | 2022-11-19 | 34 | 222 | 
 | 2022-11-18 | 34 | 222 | 
@@ -41,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 33 | 217 | 
 | 2022-10-24 | 33 | 217 | 
 | 2022-10-23 | 33 | 217 | 
-| 2022-10-22 | 33 | 217 | 
 

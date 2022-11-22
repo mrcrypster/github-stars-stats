@@ -1,10 +1,10 @@
 # abysshint/tor-control-panel - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 1
 
-★ Stars: 9
+★ Stars: 11
 
 [Open repository](https://github.com/abysshint/tor-control-panel)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 11 | 1 | 
 | 2022-11-20 | 9 | 1 | 
 | 2022-11-19 | 9 | 1 | 
 | 2022-11-18 | 9 | 1 | 

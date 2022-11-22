@@ -1,6 +1,6 @@
 # Inochi2D/inochi-creator - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 349 | 24 | 
 | 2022-11-20 | 349 | 24 | 
 | 2022-11-19 | 348 | 24 | 
 | 2022-11-18 | 345 | 24 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 321 | 24 | 
 | 2022-10-24 | 318 | 24 | 
 | 2022-10-23 | 315 | 24 | 
-| 2022-10-22 | 314 | 24 | 
 

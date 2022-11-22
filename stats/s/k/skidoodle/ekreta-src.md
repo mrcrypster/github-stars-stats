@@ -1,8 +1,8 @@
 # skidoodle/ekreta-src - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
-☋ Forks: 94
+☋ Forks: 95
 
 ★ Stars: 324
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 324 | 95 | 
 | 2022-11-20 | 324 | 94 | 
 | 2022-11-19 | 324 | 94 | 
 | 2022-11-18 | 322 | 94 | 

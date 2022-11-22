@@ -1,10 +1,10 @@
 # github-for-unity/Unity - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 436
 
-★ Stars: 2704
+★ Stars: 2706
 
 [Open repository](https://github.com/github-for-unity/Unity)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 2706 | 436 | 
 | 2022-11-20 | 2704 | 436 | 
 | 2022-11-19 | 2705 | 436 | 
 | 2022-11-18 | 2705 | 436 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 2692 | 436 | 
 | 2022-10-24 | 2693 | 436 | 
 | 2022-10-23 | 2693 | 436 | 
-| 2022-10-22 | 2693 | 436 | 
 

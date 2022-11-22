@@ -1,10 +1,10 @@
 # patrickmn/go-cache - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
-☋ Forks: 799
+☋ Forks: 801
 
-★ Stars: 6677
+★ Stars: 6681
 
 [Open repository](https://github.com/patrickmn/go-cache)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 6681 | 801 | 
 | 2022-11-20 | 6677 | 799 | 
 | 2022-11-19 | 6675 | 797 | 
 | 2022-11-18 | 6674 | 796 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 6599 | 790 | 
 | 2022-10-24 | 6594 | 790 | 
 | 2022-10-23 | 6592 | 790 | 
-| 2022-10-22 | 6588 | 789 | 
 

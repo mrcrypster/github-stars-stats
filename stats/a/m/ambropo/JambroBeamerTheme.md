@@ -1,10 +1,10 @@
 # ambropo/JambroBeamerTheme - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 17
 
-★ Stars: 78
+★ Stars: 80
 
 [Open repository](https://github.com/ambropo/JambroBeamerTheme)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 80 | 17 | 
 | 2022-11-20 | 78 | 17 | 
 | 2022-11-19 | 75 | 17 | 
 | 2022-11-18 | 69 | 17 | 

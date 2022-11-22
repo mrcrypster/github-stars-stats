@@ -1,10 +1,10 @@
 # yakaz/yamerl - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 55
 
-★ Stars: 192
+★ Stars: 193
 
 [Open repository](https://github.com/yakaz/yamerl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 193 | 55 | 
 | 2022-11-20 | 192 | 55 | 
 | 2022-11-19 | 192 | 55 | 
 | 2022-11-18 | 192 | 55 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 191 | 52 | 
 | 2022-10-24 | 191 | 53 | 
 | 2022-10-23 | 191 | 53 | 
-| 2022-10-22 | 191 | 53 | 
 

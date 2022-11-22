@@ -1,6 +1,6 @@
 # Amovane/aptos-NFT-marketplace - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 42 | 36 | 
 | 2022-11-20 | 42 | 36 | 
 | 2022-11-19 | 41 | 35 | 
 | 2022-11-18 | 41 | 35 | 

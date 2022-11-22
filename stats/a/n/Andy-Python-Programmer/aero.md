@@ -1,10 +1,10 @@
 # Andy-Python-Programmer/aero - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 35
 
-★ Stars: 598
+★ Stars: 600
 
 [Open repository](https://github.com/Andy-Python-Programmer/aero)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 600 | 35 | 
 | 2022-11-20 | 598 | 35 | 
 | 2022-11-19 | 598 | 35 | 
 | 2022-11-18 | 598 | 35 | 

@@ -1,6 +1,6 @@
 # HariSekhon/DevOps-Bash-tools - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 335
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 839 | 335 | 
 | 2022-11-20 | 839 | 335 | 
 | 2022-11-19 | 837 | 335 | 
 | 2022-11-18 | 836 | 335 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 808 | 327 | 
 | 2022-10-24 | 807 | 328 | 
 | 2022-10-23 | 806 | 327 | 
-| 2022-10-22 | 806 | 327 | 
 

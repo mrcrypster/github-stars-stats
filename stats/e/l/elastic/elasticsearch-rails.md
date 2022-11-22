@@ -1,10 +1,10 @@
 # elastic/elasticsearch-rails - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
-☋ Forks: 771
+☋ Forks: 772
 
-★ Stars: 2976
+★ Stars: 2977
 
 [Open repository](https://github.com/elastic/elasticsearch-rails)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 2977 | 772 | 
 | 2022-11-20 | 2976 | 771 | 
 | 2022-11-19 | 2976 | 772 | 
 | 2022-11-18 | 2976 | 772 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 2973 | 772 | 
 | 2022-10-24 | 2973 | 772 | 
 | 2022-10-23 | 2973 | 772 | 
-| 2022-10-22 | 2973 | 772 | 
 

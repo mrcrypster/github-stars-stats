@@ -1,6 +1,6 @@
 # hi-dhl/AndroidX-Jetpack-Practice - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 150
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 1383 | 150 | 
 | 2022-11-20 | 1383 | 150 | 
 | 2022-11-19 | 1383 | 150 | 
 | 2022-11-18 | 1383 | 150 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 1375 | 151 | 
 | 2022-10-24 | 1374 | 151 | 
 | 2022-10-23 | 1373 | 151 | 
-| 2022-10-22 | 1373 | 151 | 
 

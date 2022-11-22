@@ -1,8 +1,8 @@
 # apache/pulsar - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
-☋ Forks: 3147
+☋ Forks: 3151
 
 ★ Stars: 11966
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 11966 | 3151 | 
 | 2022-11-20 | 11966 | 3147 | 
 | 2022-11-19 | 11966 | 3149 | 
 | 2022-11-18 | 11958 | 3147 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 11746 | 3107 | 
 | 2022-10-24 | 11740 | 3106 | 
 | 2022-10-23 | 11735 | 3103 | 
-| 2022-10-22 | 11733 | 3103 | 
 

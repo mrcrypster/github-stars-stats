@@ -1,10 +1,10 @@
 # nanoninja/docker-nginx-php-mysql - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
-☋ Forks: 820
+☋ Forks: 821
 
-★ Stars: 1596
+★ Stars: 1597
 
 [Open repository](https://github.com/nanoninja/docker-nginx-php-mysql)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 1597 | 821 | 
 | 2022-11-20 | 1596 | 820 | 
 | 2022-11-19 | 1596 | 820 | 
 | 2022-11-18 | 1595 | 820 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 1592 | 812 | 
 | 2022-10-24 | 1591 | 812 | 
 | 2022-10-23 | 1591 | 812 | 
-| 2022-10-22 | 1591 | 812 | 
 

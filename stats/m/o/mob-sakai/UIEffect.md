@@ -1,8 +1,8 @@
 # mob-sakai/UIEffect - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
-☋ Forks: 613
+☋ Forks: 612
 
 ★ Stars: 4157
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 4157 | 612 | 
 | 2022-11-20 | 4157 | 613 | 
 | 2022-11-19 | 4156 | 613 | 
 | 2022-11-18 | 4156 | 613 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 4111 | 607 | 
 | 2022-10-24 | 4112 | 607 | 
 | 2022-10-23 | 4110 | 607 | 
-| 2022-10-22 | 4109 | 606 | 
 

@@ -1,8 +1,8 @@
 # CodingGarden/mac-setup - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
-☋ Forks: 33
+☋ Forks: 34
 
 ★ Stars: 131
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 131 | 34 | 
 | 2022-11-20 | 131 | 33 | 
 | 2022-11-19 | 131 | 33 | 
 | 2022-11-18 | 129 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-26 | 119 | 29 | 
 | 2022-10-25 | 118 | 29 | 
 | 2022-10-24 | 117 | 26 | 
-| 2022-10-23 | 117 | 26 | 
 

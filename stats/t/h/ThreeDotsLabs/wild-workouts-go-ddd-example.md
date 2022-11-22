@@ -1,8 +1,8 @@
 # ThreeDotsLabs/wild-workouts-go-ddd-example - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
-☋ Forks: 320
+☋ Forks: 319
 
 ★ Stars: 3245
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 3245 | 319 | 
 | 2022-11-20 | 3245 | 320 | 
 | 2022-11-19 | 3241 | 319 | 
 | 2022-11-18 | 3240 | 319 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 3161 | 311 | 
 | 2022-10-24 | 3156 | 310 | 
 | 2022-10-23 | 3152 | 310 | 
-| 2022-10-22 | 3150 | 310 | 
 

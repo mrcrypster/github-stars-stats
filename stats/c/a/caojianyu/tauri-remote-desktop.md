@@ -1,10 +1,10 @@
 # caojianyu/tauri-remote-desktop - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 6
 
-★ Stars: 43
+★ Stars: 45
 
 [Open repository](https://github.com/caojianyu/tauri-remote-desktop)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 45 | 6 | 
 | 2022-11-20 | 43 | 6 | 
 | 2022-11-19 | 43 | 6 | 
 | 2022-11-18 | 43 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 39 | 5 | 
 | 2022-10-24 | 39 | 5 | 
 | 2022-10-23 | 38 | 5 | 
-| 2022-10-22 | 38 | 5 | 
 

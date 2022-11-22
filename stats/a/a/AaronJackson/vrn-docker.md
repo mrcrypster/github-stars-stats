@@ -1,6 +1,6 @@
 # AaronJackson/vrn-docker - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 132
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 245 | 132 | 
 | 2022-11-20 | 245 | 132 | 
 | 2022-11-19 | 244 | 132 | 
 | 2022-11-18 | 243 | 132 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 232 | 128 | 
 | 2022-10-24 | 231 | 129 | 
 | 2022-10-23 | 231 | 129 | 
-| 2022-10-22 | 229 | 129 | 
 

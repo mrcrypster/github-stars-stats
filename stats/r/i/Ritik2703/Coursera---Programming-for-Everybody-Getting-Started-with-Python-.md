@@ -1,10 +1,10 @@
 # Ritik2703/Coursera---Programming-for-Everybody-Getting-Started-with-Python- - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 33
 
-★ Stars: 46
+★ Stars: 47
 
 [Open repository](https://github.com/Ritik2703/Coursera---Programming-for-Everybody-Getting-Started-with-Python-)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 47 | 33 | 
 | 2022-11-20 | 46 | 33 | 
 | 2022-11-19 | 46 | 33 | 
 | 2022-11-18 | 46 | 33 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 42 | 33 | 
 | 2022-10-24 | 42 | 33 | 
 | 2022-10-23 | 42 | 33 | 
-| 2022-10-22 | 42 | 33 | 
 

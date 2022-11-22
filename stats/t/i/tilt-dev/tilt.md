@@ -1,6 +1,6 @@
 # tilt-dev/tilt - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 237
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 6173 | 237 | 
 | 2022-11-20 | 6173 | 237 | 
 | 2022-11-19 | 6172 | 237 | 
 | 2022-11-18 | 6170 | 237 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 6113 | 235 | 
 | 2022-10-24 | 6112 | 235 | 
 | 2022-10-23 | 6109 | 235 | 
-| 2022-10-22 | 6107 | 233 | 
 

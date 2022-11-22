@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 21
 
 ☋ Forks: 22
 
-★ Stars: 135
+★ Stars: 136
 
 [Open repository](https://github.com/farcasterxyz/hub)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-21 | 135 | 22 | 
+| 2022-11-21 | 136 | 22 | 
 | 2022-11-20 | 135 | 22 | 
 

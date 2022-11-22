@@ -1,10 +1,10 @@
 # aantron/dream - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 79
 
-★ Stars: 997
+★ Stars: 996
 
 [Open repository](https://github.com/aantron/dream)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 996 | 79 | 
 | 2022-11-20 | 997 | 79 | 
 | 2022-11-19 | 997 | 79 | 
 | 2022-11-18 | 997 | 79 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 986 | 76 | 
 | 2022-10-24 | 986 | 76 | 
 | 2022-10-23 | 986 | 76 | 
-| 2022-10-22 | 985 | 76 | 
 

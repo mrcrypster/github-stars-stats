@@ -1,8 +1,8 @@
 # Uniswap/interface - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
-☋ Forks: 3560
+☋ Forks: 3567
 
 ★ Stars: 3779
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 3779 | 3567 | 
 | 2022-11-20 | 3779 | 3560 | 
 | 2022-11-19 | 3778 | 3557 | 
 | 2022-11-18 | 3777 | 3554 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 3737 | 3492 | 
 | 2022-10-24 | 3732 | 3490 | 
 | 2022-10-23 | 3732 | 3491 | 
-| 2022-10-22 | 3732 | 3492 | 
 

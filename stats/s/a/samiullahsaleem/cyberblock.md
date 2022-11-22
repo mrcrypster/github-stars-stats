@@ -1,6 +1,6 @@
 # samiullahsaleem/cyberblock - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 195
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 36 | 195 | 
 | 2022-11-21 | 36 | 195 | 
 | 2022-11-19 | 36 | 195 | 
 | 2022-11-18 | 36 | 195 | 

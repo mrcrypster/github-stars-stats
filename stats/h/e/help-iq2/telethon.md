@@ -1,10 +1,10 @@
 # help-iq2/telethon - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 2798
 
-★ Stars: 2080
+★ Stars: 2079
 
 [Open repository](https://github.com/help-iq2/telethon)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 2079 | 2798 | 
 | 2022-11-20 | 2080 | 2798 | 
 | 2022-11-19 | 2084 | 2798 | 
 | 2022-11-18 | 2084 | 2798 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 2085 | 2792 | 
 | 2022-10-24 | 2085 | 2792 | 
 | 2022-10-23 | 2085 | 2792 | 
-| 2022-10-22 | 2085 | 2792 | 
 

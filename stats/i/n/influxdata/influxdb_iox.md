@@ -1,10 +1,10 @@
 # influxdata/influxdb_iox - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 148
 
-★ Stars: 1419
+★ Stars: 1420
 
 [Open repository](https://github.com/influxdata/influxdb_iox)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 1420 | 148 | 
 | 2022-11-20 | 1419 | 148 | 
 | 2022-11-19 | 1419 | 148 | 
 | 2022-11-18 | 1417 | 149 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 1315 | 141 | 
 | 2022-10-24 | 1315 | 141 | 
 | 2022-10-23 | 1313 | 141 | 
-| 2022-10-22 | 1312 | 141 | 
 

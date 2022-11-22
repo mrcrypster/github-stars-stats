@@ -1,6 +1,6 @@
 # romainthomas/the-poor-mans-obfuscator - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 193 | 16 | 
 | 2022-11-20 | 193 | 16 | 
 | 2022-11-19 | 193 | 16 | 
 | 2022-11-18 | 193 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 191 | 16 | 
 | 2022-10-24 | 191 | 16 | 
 | 2022-10-23 | 190 | 16 | 
-| 2022-10-22 | 190 | 16 | 
 

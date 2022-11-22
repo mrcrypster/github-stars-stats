@@ -1,6 +1,6 @@
 # Azure/ccodashboard - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 175
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 571 | 175 | 
 | 2022-11-20 | 571 | 175 | 
 | 2022-11-19 | 571 | 175 | 
 | 2022-11-18 | 571 | 175 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 552 | 173 | 
 | 2022-10-24 | 553 | 173 | 
 | 2022-10-23 | 553 | 173 | 
-| 2022-10-22 | 553 | 173 | 
 

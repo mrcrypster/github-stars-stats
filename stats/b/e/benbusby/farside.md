@@ -1,6 +1,6 @@
 # benbusby/farside - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 305 | 24 | 
 | 2022-11-20 | 305 | 24 | 
 | 2022-11-19 | 305 | 24 | 
 | 2022-11-18 | 304 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 290 | 24 | 
 | 2022-10-24 | 289 | 24 | 
 | 2022-10-23 | 288 | 24 | 
-| 2022-10-22 | 288 | 24 | 
 

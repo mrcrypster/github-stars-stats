@@ -1,8 +1,8 @@
 # EthicalSource/contributor_covenant - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
-☋ Forks: 1143
+☋ Forks: 1142
 
 ★ Stars: 1549
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 1549 | 1142 | 
 | 2022-11-20 | 1549 | 1143 | 
 | 2022-11-19 | 1548 | 1143 | 
 | 2022-11-18 | 1548 | 1143 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 1534 | 1129 | 
 | 2022-10-24 | 1534 | 1129 | 
 | 2022-10-23 | 1533 | 1128 | 
-| 2022-10-22 | 1533 | 1128 | 
 

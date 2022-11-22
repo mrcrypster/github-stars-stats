@@ -1,6 +1,6 @@
 # spdb-opensource/salmon - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 31 | 22 | 
 | 2022-11-20 | 31 | 22 | 
 | 2022-11-19 | 31 | 22 | 
 | 2022-11-18 | 31 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 32 | 22 | 
 | 2022-10-24 | 32 | 22 | 
 | 2022-10-23 | 32 | 22 | 
-| 2022-10-22 | 32 | 22 | 
 

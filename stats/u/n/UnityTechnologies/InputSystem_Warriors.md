@@ -1,10 +1,10 @@
 # UnityTechnologies/InputSystem_Warriors - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 92
 
-★ Stars: 396
+★ Stars: 395
 
 [Open repository](https://github.com/UnityTechnologies/InputSystem_Warriors)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 395 | 92 | 
 | 2022-11-20 | 396 | 92 | 
 | 2022-11-19 | 396 | 92 | 
 | 2022-11-18 | 396 | 92 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 392 | 93 | 
 | 2022-10-24 | 392 | 93 | 
 | 2022-10-23 | 392 | 94 | 
-| 2022-10-22 | 391 | 94 | 
 

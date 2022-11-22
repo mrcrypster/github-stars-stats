@@ -1,10 +1,10 @@
 # red-prig/fpPS4 - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 24
 
-★ Stars: 322
+★ Stars: 324
 
 [Open repository](https://github.com/red-prig/fpPS4)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 324 | 24 | 
 | 2022-11-20 | 322 | 24 | 
 | 2022-11-19 | 321 | 24 | 
 | 2022-11-18 | 319 | 24 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 235 | 20 | 
 | 2022-10-24 | 235 | 20 | 
 | 2022-10-23 | 235 | 20 | 
-| 2022-10-22 | 234 | 20 | 
 

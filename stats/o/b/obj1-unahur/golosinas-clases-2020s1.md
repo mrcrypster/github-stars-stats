@@ -1,6 +1,6 @@
 # obj1-unahur/golosinas-clases-2020s1 - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | - | 19 | 
 | 2022-11-21 | - | 19 | 
 | 2022-11-20 | - | 19 | 
 | 2022-11-19 | - | 19 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-25 | - | 19 | 
 | 2022-10-24 | - | 19 | 
 | 2022-10-23 | - | 19 | 
-| 2022-10-22 | - | 19 | 
 

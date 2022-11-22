@@ -1,6 +1,6 @@
 # Ahm7dKhalifa/System_Design_And_Advance_Backend_Engineering_Topics - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 80 | 12 | 
 | 2022-11-20 | 80 | 12 | 
 | 2022-11-19 | 79 | 12 | 
 | 2022-11-18 | 79 | 12 | 

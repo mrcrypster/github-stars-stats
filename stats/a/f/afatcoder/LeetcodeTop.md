@@ -1,10 +1,10 @@
 # afatcoder/LeetcodeTop - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
-☋ Forks: 2436
+☋ Forks: 2439
 
-★ Stars: 15685
+★ Stars: 15686
 
 [Open repository](https://github.com/afatcoder/LeetcodeTop)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 15686 | 2439 | 
 | 2022-11-20 | 15685 | 2436 | 
 | 2022-11-19 | 15681 | 2435 | 
 | 2022-11-18 | 15678 | 2435 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-26 | 15554 | 2415 | 
 | 2022-10-25 | 15551 | 2416 | 
 | 2022-10-24 | 15542 | 2415 | 
-| 2022-10-23 | 15541 | 2414 | 
 

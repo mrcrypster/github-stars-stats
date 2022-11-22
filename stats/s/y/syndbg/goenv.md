@@ -1,10 +1,10 @@
 # syndbg/goenv - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 221
 
-★ Stars: 1470
+★ Stars: 1472
 
 [Open repository](https://github.com/syndbg/goenv)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 1472 | 221 | 
 | 2022-11-20 | 1470 | 221 | 
 | 2022-11-19 | 1469 | 220 | 
 | 2022-11-18 | 1466 | 220 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 1451 | 218 | 
 | 2022-10-24 | 1450 | 218 | 
 | 2022-10-23 | 1449 | 218 | 
-| 2022-10-22 | 1449 | 218 | 
 

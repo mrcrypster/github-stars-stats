@@ -1,8 +1,8 @@
 # DonHulieo/don-jewelery - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 10
+☋ Forks: 11
 
 ★ Stars: 22
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 22 | 11 | 
 | 2022-11-21 | 22 | 10 | 
 | 2022-11-20 | 22 | 10 | 
 | 2022-11-19 | 22 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-25 | 7 | 9 | 
 | 2022-10-24 | 7 | 9 | 
 | 2022-10-23 | 7 | 9 | 
-| 2022-10-22 | 7 | 8 | 
 

@@ -1,10 +1,10 @@
 # fabianschmauder/cgn-aws-22-3-job-notifier - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 10
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/fabianschmauder/cgn-aws-22-3-job-notifier)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 1 | 10 | 
 | 2022-11-20 | - | 10 | 
 | 2022-11-19 | - | 10 | 
 | 2022-11-18 | - | 10 | 

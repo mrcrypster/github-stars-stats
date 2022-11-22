@@ -1,8 +1,8 @@
 # banchichen/TZImagePickerController - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
-☋ Forks: 1819
+☋ Forks: 1820
 
 ★ Stars: 7899
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 7899 | 1820 | 
 | 2022-11-20 | 7899 | 1819 | 
 | 2022-11-19 | 7899 | 1819 | 
 | 2022-11-18 | 7898 | 1819 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 7878 | 1813 | 
 | 2022-10-24 | 7877 | 1812 | 
 | 2022-10-23 | 7876 | 1812 | 
-| 2022-10-22 | 7876 | 1812 | 
 

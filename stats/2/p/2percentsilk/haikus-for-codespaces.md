@@ -1,10 +1,10 @@
 # 2percentsilk/haikus-for-codespaces - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
-☋ Forks: 2091
+☋ Forks: 2092
 
-★ Stars: 977
+★ Stars: 981
 
 [Open repository](https://github.com/2percentsilk/haikus-for-codespaces)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 981 | 2092 | 
 | 2022-11-20 | 977 | 2091 | 
 | 2022-11-19 | 974 | 2090 | 
 | 2022-11-18 | 974 | 2086 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 933 | 2021 | 
 | 2022-10-24 | 929 | 2019 | 
 | 2022-10-23 | 926 | 2016 | 
-| 2022-10-22 | 925 | 2017 | 
 

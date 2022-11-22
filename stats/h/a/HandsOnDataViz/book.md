@@ -1,6 +1,6 @@
 # HandsOnDataViz/book - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 81
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 236 | 81 | 
 | 2022-11-21 | 236 | 81 | 
 | 2022-11-20 | 236 | 81 | 
 | 2022-11-19 | 236 | 81 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-25 | 227 | 80 | 
 | 2022-10-24 | 227 | 80 | 
 | 2022-10-23 | 227 | 80 | 
-| 2022-10-22 | 227 | 80 | 
 

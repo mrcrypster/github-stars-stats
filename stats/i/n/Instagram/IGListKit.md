@@ -1,8 +1,8 @@
 # Instagram/IGListKit - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
-☋ Forks: 1555
+☋ Forks: 1556
 
 ★ Stars: 12517
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 12517 | 1556 | 
 | 2022-11-20 | 12517 | 1555 | 
 | 2022-11-19 | 12517 | 1555 | 
 | 2022-11-18 | 12516 | 1555 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 12500 | 1548 | 
 | 2022-10-24 | 12499 | 1548 | 
 | 2022-10-23 | 12496 | 1547 | 
-| 2022-10-22 | 12496 | 1547 | 
 

@@ -1,10 +1,10 @@
 # vlang/vinix - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
-☋ Forks: 104
+☋ Forks: 105
 
-★ Stars: 1432
+★ Stars: 1433
 
 [Open repository](https://github.com/vlang/vinix)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 1433 | 105 | 
 | 2022-11-20 | 1432 | 104 | 
 | 2022-11-19 | 1432 | 104 | 
 | 2022-11-18 | 1428 | 105 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 1408 | 98 | 
 | 2022-10-24 | 1406 | 98 | 
 | 2022-10-23 | 1405 | 98 | 
-| 2022-10-22 | 1405 | 98 | 
 

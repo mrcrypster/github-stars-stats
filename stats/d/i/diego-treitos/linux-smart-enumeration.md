@@ -1,8 +1,8 @@
 # diego-treitos/linux-smart-enumeration - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
-☋ Forks: 491
+☋ Forks: 492
 
 ★ Stars: 2501
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 2501 | 492 | 
 | 2022-11-20 | 2501 | 491 | 
 | 2022-11-19 | 2500 | 491 | 
 | 2022-11-18 | 2498 | 491 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 2470 | 490 | 
 | 2022-10-24 | 2470 | 490 | 
 | 2022-10-23 | 2470 | 491 | 
-| 2022-10-22 | 2470 | 491 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 21
 
-☋ Forks: 31
+☋ Forks: 33
 
-★ Stars: 444
+★ Stars: 456
 
 [Open repository](https://github.com/liudf0716/xfrpc)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-21 | 444 | 31 | 
+| 2022-11-21 | 456 | 33 | 
 | 2022-11-20 | 440 | 31 | 
 

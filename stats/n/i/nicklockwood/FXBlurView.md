@@ -1,10 +1,10 @@
 # nicklockwood/FXBlurView - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 732
 
-★ Stars: 4972
+★ Stars: 4971
 
 [Open repository](https://github.com/nicklockwood/FXBlurView)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 4971 | 732 | 
 | 2022-11-20 | 4972 | 732 | 
 | 2022-11-19 | 4972 | 732 | 
 | 2022-11-18 | 4972 | 732 | 

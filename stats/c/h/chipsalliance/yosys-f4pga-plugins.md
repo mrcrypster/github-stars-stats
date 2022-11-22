@@ -1,10 +1,10 @@
 # chipsalliance/yosys-f4pga-plugins - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 35
 
-★ Stars: 58
+★ Stars: 59
 
 [Open repository](https://github.com/chipsalliance/yosys-f4pga-plugins)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 59 | 35 | 
 | 2022-11-20 | 58 | 35 | 
 | 2022-11-19 | 58 | 35 | 
 | 2022-11-18 | 58 | 35 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 55 | 33 | 
 | 2022-10-24 | 55 | 33 | 
 | 2022-10-23 | 55 | 33 | 
-| 2022-10-22 | 55 | 33 | 
 

@@ -1,10 +1,10 @@
 # patriciogonzalezvivo/thebookofshaders - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 578
 
-★ Stars: 4783
+★ Stars: 4789
 
 [Open repository](https://github.com/patriciogonzalezvivo/thebookofshaders)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 4789 | 578 | 
 | 2022-11-20 | 4783 | 578 | 
 | 2022-11-19 | 4781 | 577 | 
 | 2022-11-18 | 4780 | 576 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 4731 | 570 | 
 | 2022-10-24 | 4723 | 569 | 
 | 2022-10-23 | 4719 | 568 | 
-| 2022-10-22 | 4714 | 567 | 
 

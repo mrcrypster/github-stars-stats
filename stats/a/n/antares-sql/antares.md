@@ -1,10 +1,10 @@
 # antares-sql/antares - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 63
 
-★ Stars: 856
+★ Stars: 858
 
 [Open repository](https://github.com/antares-sql/antares)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 858 | 63 | 
 | 2022-11-20 | 856 | 63 | 
 | 2022-11-19 | 854 | 63 | 
 | 2022-11-18 | 853 | 63 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 826 | 62 | 
 | 2022-10-24 | 822 | 62 | 
 | 2022-10-23 | 822 | 62 | 
-| 2022-10-22 | 822 | 62 | 
 

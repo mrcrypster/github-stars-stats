@@ -1,10 +1,10 @@
 # JuliaSymbolics/Symbolics.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 104
 
-★ Stars: 1072
+★ Stars: 1073
 
 [Open repository](https://github.com/JuliaSymbolics/Symbolics.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 1073 | 104 | 
 | 2022-11-20 | 1072 | 104 | 
 | 2022-11-19 | 1072 | 104 | 
 | 2022-11-18 | 1072 | 104 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 1053 | 102 | 
 | 2022-10-24 | 1053 | 102 | 
 | 2022-10-23 | 1052 | 102 | 
-| 2022-10-22 | 1051 | 102 | 
 

@@ -1,10 +1,10 @@
 # michael-rubel/laravel-value-objects - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 5
 
-★ Stars: 100
+★ Stars: 101
 
 [Open repository](https://github.com/michael-rubel/laravel-value-objects)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 101 | 5 | 
 | 2022-11-20 | 100 | 5 | 
 | 2022-11-19 | 100 | 5 | 
 | 2022-11-18 | 100 | 5 | 

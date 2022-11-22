@@ -1,10 +1,10 @@
 # membraneframework/membrane_rtc_engine - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 5
 
-★ Stars: 59
+★ Stars: 60
 
 [Open repository](https://github.com/membraneframework/membrane_rtc_engine)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 60 | 5 | 
 | 2022-11-20 | 59 | 5 | 
 | 2022-11-19 | 59 | 5 | 
 | 2022-11-18 | 59 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 56 | 5 | 
 | 2022-10-24 | 56 | 5 | 
 | 2022-10-23 | 56 | 5 | 
-| 2022-10-22 | 55 | 5 | 
 

@@ -1,10 +1,10 @@
 # gperftools/gperftools - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 1386
 
-★ Stars: 7233
+★ Stars: 7238
 
 [Open repository](https://github.com/gperftools/gperftools)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 7238 | 1386 | 
 | 2022-11-20 | 7233 | 1386 | 
 | 2022-11-19 | 7227 | 1386 | 
 | 2022-11-18 | 7225 | 1386 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-26 | 7162 | 1383 | 
 | 2022-10-25 | 7160 | 1382 | 
 | 2022-10-24 | 7158 | 1382 | 
-| 2022-10-23 | 7157 | 1381 | 
 

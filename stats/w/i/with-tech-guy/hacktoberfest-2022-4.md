@@ -1,6 +1,6 @@
 # with-tech-guy/hacktoberfest-2022-4 - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 64
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 1 | 64 | 
 | 2022-11-20 | 1 | 64 | 
 | 2022-11-19 | 1 | 64 | 
 | 2022-11-18 | 1 | 64 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 1 | 64 | 
 | 2022-10-24 | 1 | 64 | 
 | 2022-10-23 | 1 | 64 | 
-| 2022-10-22 | 1 | 64 | 
 

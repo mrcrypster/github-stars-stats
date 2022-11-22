@@ -1,10 +1,10 @@
 # CSSInDepth/css-in-depth - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 325
 
-★ Stars: 678
+★ Stars: 679
 
 [Open repository](https://github.com/CSSInDepth/css-in-depth)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 679 | 325 | 
 | 2022-11-20 | 678 | 325 | 
 | 2022-11-19 | 678 | 325 | 
 | 2022-11-18 | 679 | 324 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 674 | 320 | 
 | 2022-10-24 | 674 | 320 | 
 | 2022-10-23 | 674 | 320 | 
-| 2022-10-22 | 674 | 320 | 
 

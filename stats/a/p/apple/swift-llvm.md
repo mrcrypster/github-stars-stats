@@ -1,6 +1,6 @@
 # apple/swift-llvm - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 195
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 813 | 195 | 
 | 2022-11-20 | 813 | 195 | 
 | 2022-11-19 | 813 | 195 | 
 | 2022-11-18 | 813 | 195 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 814 | 197 | 
 | 2022-10-24 | 814 | 197 | 
 | 2022-10-23 | 814 | 197 | 
-| 2022-10-22 | 814 | 197 | 
 

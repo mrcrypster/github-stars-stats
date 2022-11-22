@@ -1,10 +1,10 @@
 # Roblox/luau - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 243
 
-★ Stars: 2769
+★ Stars: 2771
 
 [Open repository](https://github.com/Roblox/luau)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 2771 | 243 | 
 | 2022-11-20 | 2769 | 243 | 
 | 2022-11-19 | 2769 | 243 | 
 | 2022-11-18 | 2769 | 243 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 2741 | 241 | 
 | 2022-10-24 | 2741 | 241 | 
 | 2022-10-23 | 2741 | 241 | 
-| 2022-10-22 | 2741 | 239 | 
 

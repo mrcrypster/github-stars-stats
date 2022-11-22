@@ -1,10 +1,10 @@
 # zacksiri/eventful - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 1
 
-★ Stars: 22
+★ Stars: 25
 
 [Open repository](https://github.com/zacksiri/eventful)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 25 | 1 | 
 | 2022-11-20 | 22 | 1 | 
 | 2022-11-19 | 22 | 1 | 
 | 2022-11-18 | 21 | 1 | 

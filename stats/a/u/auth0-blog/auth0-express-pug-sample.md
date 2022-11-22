@@ -1,10 +1,10 @@
 # auth0-blog/auth0-express-pug-sample - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 11
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/auth0-blog/auth0-express-pug-sample)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 7 | 11 | 
 | 2022-11-20 | 6 | 11 | 
 | 2022-11-19 | 6 | 11 | 
 | 2022-11-18 | 6 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 6 | 11 | 
 | 2022-10-24 | 6 | 11 | 
 | 2022-10-23 | 6 | 11 | 
-| 2022-10-22 | 6 | 11 | 
 

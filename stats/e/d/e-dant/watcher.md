@@ -1,10 +1,10 @@
 # e-dant/watcher - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 23
 
-★ Stars: 562
+★ Stars: 564
 
 [Open repository](https://github.com/e-dant/watcher)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 564 | 23 | 
 | 2022-11-20 | 562 | 23 | 
 | 2022-11-19 | 562 | 23 | 
 | 2022-11-18 | 563 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 518 | 20 | 
 | 2022-10-24 | 514 | 19 | 
 | 2022-10-23 | 503 | 19 | 
-| 2022-10-22 | 493 | 18 | 
 

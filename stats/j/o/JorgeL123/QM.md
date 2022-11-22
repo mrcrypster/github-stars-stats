@@ -1,6 +1,6 @@
 # JorgeL123/QM - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 40 | 4 | 
 | 2022-11-20 | 40 | 4 | 
 | 2022-11-19 | 40 | 4 | 
 | 2022-11-18 | 40 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 36 | 4 | 
 | 2022-10-24 | 36 | 4 | 
 | 2022-10-23 | 36 | 4 | 
-| 2022-10-22 | 36 | 4 | 
 

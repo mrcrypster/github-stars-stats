@@ -1,10 +1,10 @@
 # Spyware007/Animating-Buttons - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 102
 
-★ Stars: 57
+★ Stars: 58
 
 [Open repository](https://github.com/Spyware007/Animating-Buttons)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 58 | 102 | 
 | 2022-11-20 | 57 | 102 | 
 | 2022-11-19 | 57 | 102 | 
 | 2022-11-18 | 57 | 102 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 39 | 90 | 
 | 2022-10-24 | 41 | 86 | 
 | 2022-10-23 | 41 | 81 | 
-| 2022-10-22 | 36 | 69 | 
 

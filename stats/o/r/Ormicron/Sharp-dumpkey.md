@@ -1,10 +1,10 @@
 # Ormicron/Sharp-dumpkey - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 51
 
-★ Stars: 305
+★ Stars: 307
 
 [Open repository](https://github.com/Ormicron/Sharp-dumpkey)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 307 | 51 | 
 | 2022-11-20 | 305 | 51 | 
 | 2022-11-19 | 303 | 51 | 
 | 2022-11-18 | 299 | 48 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 272 | 43 | 
 | 2022-10-24 | 271 | 43 | 
 | 2022-10-23 | 269 | 43 | 
-| 2022-10-22 | 268 | 42 | 
 

@@ -1,6 +1,6 @@
 # wyeworks/boom - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 73 | 10 | 
 | 2022-11-20 | 73 | 10 | 
 | 2022-11-19 | 73 | 10 | 
 | 2022-11-18 | 73 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 73 | 10 | 
 | 2022-10-24 | 73 | 10 | 
 | 2022-10-23 | 73 | 10 | 
-| 2022-10-22 | 73 | 10 | 
 

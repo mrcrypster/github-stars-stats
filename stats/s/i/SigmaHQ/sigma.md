@@ -1,10 +1,10 @@
 # SigmaHQ/sigma - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
-☋ Forks: 1695
+☋ Forks: 1697
 
-★ Stars: 5756
+★ Stars: 5763
 
 [Open repository](https://github.com/SigmaHQ/sigma)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 5763 | 1697 | 
 | 2022-11-20 | 5756 | 1695 | 
 | 2022-11-19 | 5754 | 1695 | 
 | 2022-11-18 | 5752 | 1695 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 5652 | 1665 | 
 | 2022-10-24 | 5650 | 1665 | 
 | 2022-10-23 | 5646 | 1665 | 
-| 2022-10-22 | 5644 | 1666 | 
 

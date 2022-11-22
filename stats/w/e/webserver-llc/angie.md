@@ -1,10 +1,10 @@
 # webserver-llc/angie - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 16
 
-★ Stars: 235
+★ Stars: 236
 
 [Open repository](https://github.com/webserver-llc/angie)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 236 | 16 | 
 | 2022-11-21 | 235 | 16 | 
 | 2022-11-20 | 234 | 16 | 
 | 2022-11-19 | 230 | 16 | 

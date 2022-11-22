@@ -1,6 +1,6 @@
 # beyond-all-reason/Beyond-All-Reason - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 97
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 744 | 97 | 
 | 2022-11-20 | 744 | 97 | 
 | 2022-11-19 | 743 | 97 | 
 | 2022-11-18 | 743 | 97 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 731 | 95 | 
 | 2022-10-24 | 731 | 95 | 
 | 2022-10-23 | 731 | 94 | 
-| 2022-10-22 | 729 | 94 | 
 

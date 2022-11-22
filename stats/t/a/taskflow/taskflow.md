@@ -1,10 +1,10 @@
 # taskflow/taskflow - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
-☋ Forks: 893
+☋ Forks: 894
 
-★ Stars: 7497
+★ Stars: 7502
 
 [Open repository](https://github.com/taskflow/taskflow)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 7502 | 894 | 
 | 2022-11-20 | 7497 | 893 | 
 | 2022-11-19 | 7494 | 893 | 
 | 2022-11-18 | 7489 | 893 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 7359 | 881 | 
 | 2022-10-24 | 7357 | 881 | 
 | 2022-10-23 | 7358 | 880 | 
-| 2022-10-22 | 7356 | 880 | 
 

@@ -1,6 +1,6 @@
 # abntex/abntex2 - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 211
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 885 | 211 | 
 | 2022-11-20 | 885 | 211 | 
 | 2022-11-19 | 885 | 211 | 
 | 2022-11-18 | 885 | 211 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 874 | 209 | 
 | 2022-10-24 | 874 | 209 | 
 | 2022-10-23 | 874 | 209 | 
-| 2022-10-22 | 874 | 209 | 
 

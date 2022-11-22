@@ -1,6 +1,6 @@
 # Homebrew/homebrew-cask-drivers - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 464
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 427 | 464 | 
 | 2022-11-20 | 427 | 464 | 
 | 2022-11-19 | 427 | 464 | 
 | 2022-11-18 | 427 | 464 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 421 | 460 | 
 | 2022-10-24 | 419 | 461 | 
 | 2022-10-23 | 418 | 461 | 
-| 2022-10-22 | 418 | 460 | 
 

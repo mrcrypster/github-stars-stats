@@ -1,10 +1,10 @@
 # Gabattal/Scripts-LeagueOfLegends - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 6
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/Gabattal/Scripts-LeagueOfLegends)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 27 | 6 | 
 | 2022-11-20 | 26 | 6 | 
 | 2022-11-19 | 27 | 6 | 
 | 2022-11-18 | 27 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 26 | 6 | 
 | 2022-10-24 | 26 | 6 | 
 | 2022-10-23 | 26 | 6 | 
-| 2022-10-22 | 26 | 6 | 
 

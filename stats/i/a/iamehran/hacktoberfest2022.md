@@ -1,8 +1,8 @@
 # iamehran/hacktoberfest2022 - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
-☋ Forks: 112
+☋ Forks: 111
 
 ★ Stars: 29
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 29 | 111 | 
 | 2022-11-20 | 29 | 112 | 
 | 2022-11-19 | 29 | 112 | 
 | 2022-11-18 | 29 | 112 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 28 | 103 | 
 | 2022-10-24 | 27 | 98 | 
 | 2022-10-23 | 26 | 94 | 
-| 2022-10-22 | 25 | 88 | 
 

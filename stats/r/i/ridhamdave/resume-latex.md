@@ -1,6 +1,6 @@
 # ridhamdave/resume-latex - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 91
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 36 | 91 | 
 | 2022-11-20 | 36 | 91 | 
 | 2022-11-19 | 36 | 91 | 
 | 2022-11-18 | 36 | 91 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 36 | 87 | 
 | 2022-10-24 | 36 | 87 | 
 | 2022-10-23 | 36 | 87 | 
-| 2022-10-22 | 36 | 87 | 
 

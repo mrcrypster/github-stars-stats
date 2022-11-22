@@ -1,6 +1,6 @@
 # curated-intel/CTI-fundamentals - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 311 | 27 | 
 | 2022-11-20 | 311 | 27 | 
 | 2022-11-19 | 311 | 27 | 
 | 2022-11-18 | 310 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 305 | 25 | 
 | 2022-10-24 | 304 | 24 | 
 | 2022-10-23 | 303 | 24 | 
-| 2022-10-22 | 302 | 24 | 
 

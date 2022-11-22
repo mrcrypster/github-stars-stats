@@ -1,6 +1,6 @@
 # jsk-ros-pkg/jsk_robot - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 90
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 64 | 90 | 
 | 2022-11-20 | 64 | 90 | 
 | 2022-11-19 | 64 | 90 | 
 | 2022-11-18 | 64 | 90 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 59 | 89 | 
 | 2022-10-24 | 59 | 89 | 
 | 2022-10-23 | 59 | 89 | 
-| 2022-10-22 | 59 | 89 | 
 

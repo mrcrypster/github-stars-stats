@@ -1,10 +1,10 @@
 # openFudan/fudan-coursera - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 54
 
-★ Stars: 238
+★ Stars: 239
 
 [Open repository](https://github.com/openFudan/fudan-coursera)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 239 | 54 | 
 | 2022-11-20 | 238 | 54 | 
 | 2022-11-19 | 238 | 54 | 
 | 2022-11-18 | 238 | 54 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 229 | 52 | 
 | 2022-10-24 | 229 | 52 | 
 | 2022-10-23 | 229 | 52 | 
-| 2022-10-22 | 229 | 52 | 
 

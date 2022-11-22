@@ -1,8 +1,8 @@
 # VictorInacio/curso-clojure-mybank - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 17
+☋ Forks: 18
 
 ★ Stars: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 4 | 18 | 
 | 2022-11-21 | 4 | 17 | 
 | 2022-11-20 | 4 | 17 | 
 | 2022-11-19 | 4 | 17 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-25 | 4 | 15 | 
 | 2022-10-24 | 4 | 15 | 
 | 2022-10-23 | 4 | 15 | 
-| 2022-10-22 | 4 | 15 | 
 

@@ -1,10 +1,10 @@
 # badtuxx/DescomplicandoKubernetes - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
-☋ Forks: 1106
+☋ Forks: 1107
 
-★ Stars: 3119
+★ Stars: 3125
 
 [Open repository](https://github.com/badtuxx/DescomplicandoKubernetes)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 3125 | 1107 | 
 | 2022-11-20 | 3119 | 1106 | 
 | 2022-11-19 | 3116 | 1103 | 
 | 2022-11-18 | 3115 | 1104 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 3060 | 1073 | 
 | 2022-10-24 | 3058 | 1074 | 
 | 2022-10-23 | 3058 | 1074 | 
-| 2022-10-22 | 3057 | 1074 | 
 

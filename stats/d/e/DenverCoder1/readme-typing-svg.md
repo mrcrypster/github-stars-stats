@@ -1,6 +1,6 @@
 # DenverCoder1/readme-typing-svg - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 343
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 1796 | 343 | 
 | 2022-11-20 | 1796 | 343 | 
 | 2022-11-19 | 1789 | 342 | 
 | 2022-11-18 | 1787 | 342 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 1677 | 316 | 
 | 2022-10-24 | 1674 | 316 | 
 | 2022-10-23 | 1671 | 317 | 
-| 2022-10-22 | 1664 | 313 | 
 

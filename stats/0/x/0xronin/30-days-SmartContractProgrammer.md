@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 21
 
 ☋ Forks: 9
 
-★ Stars: 79
+★ Stars: 80
 
 [Open repository](https://github.com/0xronin/30-days-SmartContractProgrammer)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-21 | 79 | 9 | 
+| 2022-11-21 | 80 | 9 | 
 | 2022-11-20 | 79 | 9 | 
 | 2022-11-19 | 79 | 9 | 
 | 2022-11-18 | 78 | 8 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-25 | 48 | 5 | 
 | 2022-10-24 | 48 | 5 | 
 | 2022-10-23 | 48 | 5 | 
-| 2022-10-22 | 48 | 5 | 
 

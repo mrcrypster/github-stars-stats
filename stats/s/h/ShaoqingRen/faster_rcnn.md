@@ -1,6 +1,6 @@
 # ShaoqingRen/faster_rcnn - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 1219
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 2572 | 1219 | 
 | 2022-11-20 | 2572 | 1219 | 
 | 2022-11-19 | 2571 | 1219 | 
 | 2022-11-18 | 2571 | 1220 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 2564 | 1219 | 
 | 2022-10-24 | 2564 | 1219 | 
 | 2022-10-23 | 2564 | 1219 | 
-| 2022-10-22 | 2564 | 1220 | 
 

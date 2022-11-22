@@ -1,10 +1,10 @@
 # falcosecurity/falco - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 720
 
-★ Stars: 5372
+★ Stars: 5376
 
 [Open repository](https://github.com/falcosecurity/falco)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 5376 | 720 | 
 | 2022-11-20 | 5372 | 720 | 
 | 2022-11-19 | 5372 | 720 | 
 | 2022-11-18 | 5368 | 719 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 5290 | 704 | 
 | 2022-10-24 | 5284 | 703 | 
 | 2022-10-23 | 5284 | 703 | 
-| 2022-10-22 | 5284 | 703 | 
 

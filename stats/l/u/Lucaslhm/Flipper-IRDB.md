@@ -1,10 +1,10 @@
 # Lucaslhm/Flipper-IRDB - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
-☋ Forks: 285
+☋ Forks: 287
 
-★ Stars: 538
+★ Stars: 540
 
 [Open repository](https://github.com/Lucaslhm/Flipper-IRDB)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 540 | 287 | 
 | 2022-11-20 | 538 | 285 | 
 | 2022-11-19 | 535 | 282 | 
 | 2022-11-18 | 530 | 279 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 478 | 248 | 
 | 2022-10-24 | 473 | 246 | 
 | 2022-10-23 | 471 | 245 | 
-| 2022-10-22 | 470 | 245 | 
 

@@ -1,10 +1,10 @@
 # greglook/clj-hiera - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 6
 
-★ Stars: 51
+★ Stars: 54
 
 [Open repository](https://github.com/greglook/clj-hiera)
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 54 | 6 | 
+| 2022-11-21 | 54 | 6 | 
 | 2022-11-20 | 51 | 6 | 
 | 2022-11-19 | 51 | 6 | 
 

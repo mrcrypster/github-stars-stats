@@ -1,6 +1,6 @@
 # baiyutang/meetup - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 304
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 1200 | 304 | 
 | 2022-11-21 | 1200 | 304 | 
 | 2022-11-20 | 1199 | 304 | 
 | 2022-11-19 | 1198 | 304 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-25 | 1175 | 300 | 
 | 2022-10-24 | 1173 | 300 | 
 | 2022-10-23 | 1172 | 300 | 
-| 2022-10-22 | 1172 | 300 | 
 

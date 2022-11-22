@@ -1,10 +1,10 @@
 # Prince-1501/Complete-DSA-Preparation - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
-☋ Forks: 232
+☋ Forks: 233
 
-★ Stars: 704
+★ Stars: 707
 
 [Open repository](https://github.com/Prince-1501/Complete-DSA-Preparation)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 707 | 233 | 
 | 2022-11-20 | 704 | 232 | 
 | 2022-11-19 | 702 | 232 | 
 | 2022-11-18 | 701 | 232 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 672 | 227 | 
 | 2022-10-24 | 672 | 227 | 
 | 2022-10-23 | 672 | 227 | 
-| 2022-10-22 | 672 | 227 | 
 

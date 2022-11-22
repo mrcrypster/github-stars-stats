@@ -1,6 +1,6 @@
 # pharo-nosql/voyage - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 31 | 21 | 
 | 2022-11-20 | 31 | 21 | 
 | 2022-11-19 | 31 | 21 | 
 | 2022-11-18 | 31 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 31 | 21 | 
 | 2022-10-24 | 31 | 21 | 
 | 2022-10-23 | 31 | 21 | 
-| 2022-10-22 | 31 | 21 | 
 

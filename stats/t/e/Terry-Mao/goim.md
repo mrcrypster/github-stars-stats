@@ -1,10 +1,10 @@
 # Terry-Mao/goim - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 1704
 
-★ Stars: 6625
+★ Stars: 6629
 
 [Open repository](https://github.com/Terry-Mao/goim)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 6629 | 1704 | 
 | 2022-11-20 | 6625 | 1704 | 
 | 2022-11-19 | 6625 | 1704 | 
 | 2022-11-18 | 6623 | 1703 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 6589 | 1696 | 
 | 2022-10-24 | 6587 | 1695 | 
 | 2022-10-23 | 6587 | 1695 | 
-| 2022-10-22 | 6586 | 1695 | 
 

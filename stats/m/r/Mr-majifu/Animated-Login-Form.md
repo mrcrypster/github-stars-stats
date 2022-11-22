@@ -1,10 +1,10 @@
 # Mr-majifu/Animated-Login-Form - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 8
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/Mr-majifu/Animated-Login-Form)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 19 | 8 | 
 | 2022-11-20 | 18 | 8 | 
 | 2022-11-19 | 18 | 8 | 
 

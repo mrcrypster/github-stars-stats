@@ -1,10 +1,10 @@
 # onevcat/Kingfisher - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
-☋ Forks: 2347
+☋ Forks: 2348
 
-★ Stars: 20754
+★ Stars: 20762
 
 [Open repository](https://github.com/onevcat/Kingfisher)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 20762 | 2348 | 
 | 2022-11-20 | 20754 | 2347 | 
 | 2022-11-19 | 20751 | 2347 | 
 | 2022-11-18 | 20749 | 2346 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 20675 | 2339 | 
 | 2022-10-24 | 20673 | 2339 | 
 | 2022-10-23 | 20670 | 2338 | 
-| 2022-10-22 | 20670 | 2337 | 
 

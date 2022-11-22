@@ -1,6 +1,6 @@
 # armbian/build - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 1386
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 2411 | 1386 | 
 | 2022-11-20 | 2411 | 1386 | 
 | 2022-11-19 | 2408 | 1381 | 
 | 2022-11-18 | 2407 | 1381 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 2351 | 1354 | 
 | 2022-10-24 | 2350 | 1351 | 
 | 2022-10-23 | 2350 | 1350 | 
-| 2022-10-22 | 2350 | 1350 | 
 

@@ -1,10 +1,10 @@
 # Processus-Thief/HEKATOMB - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 25
 
-★ Stars: 228
+★ Stars: 229
 
 [Open repository](https://github.com/Processus-Thief/HEKATOMB)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 229 | 25 | 
 | 2022-11-20 | 228 | 25 | 
 | 2022-11-19 | 228 | 25 | 
 | 2022-11-18 | 228 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 203 | 22 | 
 | 2022-10-24 | 199 | 22 | 
 | 2022-10-23 | 193 | 21 | 
-| 2022-10-22 | 193 | 21 | 
 

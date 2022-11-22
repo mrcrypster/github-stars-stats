@@ -1,10 +1,10 @@
 # nicolai256/Stable-textual-inversion_win - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 33
 
-★ Stars: 189
+★ Stars: 190
 
 [Open repository](https://github.com/nicolai256/Stable-textual-inversion_win)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 190 | 33 | 
 | 2022-11-20 | 189 | 33 | 
 | 2022-11-19 | 190 | 33 | 
 | 2022-11-18 | 190 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 182 | 27 | 
 | 2022-10-24 | 183 | 27 | 
 | 2022-10-23 | 182 | 26 | 
-| 2022-10-22 | 180 | 25 | 
 

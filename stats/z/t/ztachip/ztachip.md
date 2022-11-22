@@ -1,6 +1,6 @@
 # ztachip/ztachip - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 111 | 15 | 
 | 2022-11-20 | 111 | 15 | 
 | 2022-11-19 | 111 | 15 | 
 | 2022-11-18 | 111 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 102 | 13 | 
 | 2022-10-24 | 102 | 13 | 
 | 2022-10-23 | 102 | 13 | 
-| 2022-10-22 | 102 | 13 | 
 

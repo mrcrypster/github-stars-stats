@@ -1,6 +1,6 @@
 # Pulya10c/news-JS - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 415
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 7 | 415 | 
 | 2022-11-20 | 7 | 415 | 
 | 2022-11-19 | 7 | 415 | 
 | 2022-11-18 | 7 | 415 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 8 | 422 | 
 | 2022-10-24 | 8 | 422 | 
 | 2022-10-23 | 8 | 423 | 
-| 2022-10-22 | 8 | 423 | 
 

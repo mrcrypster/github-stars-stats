@@ -1,10 +1,10 @@
 # HeidiSQL/HeidiSQL - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 375
 
-★ Stars: 3525
+★ Stars: 3527
 
 [Open repository](https://github.com/HeidiSQL/HeidiSQL)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 3527 | 375 | 
 | 2022-11-20 | 3525 | 375 | 
 | 2022-11-19 | 3523 | 375 | 
 | 2022-11-18 | 3519 | 375 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 3478 | 365 | 
 | 2022-10-24 | 3477 | 365 | 
 | 2022-10-23 | 3471 | 365 | 
-| 2022-10-22 | 3470 | 365 | 
 

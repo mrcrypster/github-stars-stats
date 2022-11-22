@@ -1,6 +1,6 @@
 # sloganking/codevis - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 190 | 6 | 
 | 2022-11-20 | 190 | 6 | 
 | 2022-11-19 | 190 | 6 | 
 | 2022-11-18 | 189 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-26 | 190 | 6 | 
 | 2022-10-25 | 190 | 6 | 
 | 2022-10-23 | 189 | 6 | 
-| 2022-10-22 | 189 | 6 | 
 

@@ -1,10 +1,10 @@
 # DiceDB/dice - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
-☋ Forks: 55
+☋ Forks: 56
 
-★ Stars: 186
+★ Stars: 190
 
 [Open repository](https://github.com/DiceDB/dice)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 190 | 56 | 
 | 2022-11-20 | 186 | 55 | 
 | 2022-11-19 | 184 | 55 | 
 | 2022-11-18 | 180 | 55 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 133 | 39 | 
 | 2022-10-24 | 130 | 38 | 
 | 2022-10-23 | 129 | 38 | 
-| 2022-10-22 | 127 | 38 | 
 

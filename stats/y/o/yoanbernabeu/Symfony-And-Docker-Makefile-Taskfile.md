@@ -1,10 +1,10 @@
 # yoanbernabeu/Symfony-And-Docker-Makefile-Taskfile - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 13
 
-★ Stars: 60
+★ Stars: 61
 
 [Open repository](https://github.com/yoanbernabeu/Symfony-And-Docker-Makefile-Taskfile)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 61 | 13 | 
 | 2022-11-20 | 60 | 13 | 
 | 2022-11-19 | 60 | 13 | 
 | 2022-11-18 | 60 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 57 | 11 | 
 | 2022-10-24 | 56 | 11 | 
 | 2022-10-23 | 56 | 11 | 
-| 2022-10-22 | 56 | 11 | 
 

@@ -1,6 +1,6 @@
 # KALTCHUK/Z80_Modular_Computer - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 64 | 6 | 
 | 2022-11-20 | 64 | 6 | 
 | 2022-11-19 | 64 | 6 | 
 | 2022-11-18 | 64 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 63 | 5 | 
 | 2022-10-24 | 63 | 5 | 
 | 2022-10-23 | 63 | 5 | 
-| 2022-10-22 | 63 | 5 | 
 

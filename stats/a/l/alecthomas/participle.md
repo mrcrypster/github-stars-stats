@@ -1,6 +1,6 @@
 # alecthomas/participle - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 159
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 2729 | 159 | 
 | 2022-11-20 | 2729 | 159 | 
 | 2022-11-19 | 2728 | 159 | 
 | 2022-11-18 | 2727 | 159 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 2705 | 160 | 
 | 2022-10-24 | 2703 | 160 | 
 | 2022-10-23 | 2701 | 160 | 
-| 2022-10-22 | 2699 | 160 | 
 

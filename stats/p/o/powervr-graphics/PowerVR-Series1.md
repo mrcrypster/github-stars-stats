@@ -1,6 +1,6 @@
 # powervr-graphics/PowerVR-Series1 - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 267 | 15 | 
 | 2022-11-20 | 267 | 15 | 
 | 2022-11-19 | 267 | 15 | 
 | 2022-11-18 | 267 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 268 | 15 | 
 | 2022-10-24 | 268 | 15 | 
 | 2022-10-23 | 268 | 15 | 
-| 2022-10-22 | 268 | 15 | 
 

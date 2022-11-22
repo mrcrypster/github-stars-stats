@@ -1,6 +1,6 @@
 # microsoft/azure-sql-tips - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 130 | 43 | 
 | 2022-11-20 | 130 | 43 | 
 | 2022-11-19 | 130 | 43 | 
 | 2022-11-18 | 130 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 129 | 42 | 
 | 2022-10-24 | 129 | 42 | 
 | 2022-10-23 | 129 | 42 | 
-| 2022-10-22 | 129 | 42 | 
 

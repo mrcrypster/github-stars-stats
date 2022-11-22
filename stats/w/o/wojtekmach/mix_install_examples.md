@@ -1,10 +1,10 @@
 # wojtekmach/mix_install_examples - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 23
 
-★ Stars: 221
+★ Stars: 222
 
 [Open repository](https://github.com/wojtekmach/mix_install_examples)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 222 | 23 | 
 | 2022-11-20 | 221 | 23 | 
 | 2022-11-19 | 221 | 23 | 
 | 2022-11-18 | 221 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 217 | 22 | 
 | 2022-10-24 | 217 | 22 | 
 | 2022-10-23 | 217 | 22 | 
-| 2022-10-22 | 217 | 22 | 
 

@@ -1,10 +1,10 @@
 # dropwizard/dropwizard - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 3448
 
-★ Stars: 8308
+★ Stars: 8307
 
 [Open repository](https://github.com/dropwizard/dropwizard)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 8307 | 3448 | 
 | 2022-11-20 | 8308 | 3448 | 
 | 2022-11-19 | 8309 | 3448 | 
 | 2022-11-18 | 8309 | 3448 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 8301 | 3446 | 
 | 2022-10-24 | 8300 | 3446 | 
 | 2022-10-23 | 8300 | 3445 | 
-| 2022-10-22 | 8300 | 3445 | 
 

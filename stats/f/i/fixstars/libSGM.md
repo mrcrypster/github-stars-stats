@@ -1,6 +1,6 @@
 # fixstars/libSGM - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 175
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 472 | 175 | 
 | 2022-11-20 | 472 | 175 | 
 | 2022-11-19 | 472 | 175 | 
 | 2022-11-18 | 472 | 175 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 470 | 175 | 
 | 2022-10-24 | 470 | 175 | 
 | 2022-10-23 | 470 | 175 | 
-| 2022-10-22 | 470 | 174 | 
 

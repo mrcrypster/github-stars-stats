@@ -1,6 +1,6 @@
 # SonarSource/sonarcloud-github-action - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 144
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 455 | 144 | 
 | 2022-11-20 | 455 | 144 | 
 | 2022-11-19 | 455 | 144 | 
 | 2022-11-18 | 455 | 145 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 448 | 144 | 
 | 2022-10-24 | 446 | 144 | 
 | 2022-10-23 | 446 | 144 | 
-| 2022-10-22 | 444 | 144 | 
 

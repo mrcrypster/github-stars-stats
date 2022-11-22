@@ -1,10 +1,10 @@
 # mlfoundations/open_clip - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 223
 
-★ Stars: 2190
+★ Stars: 2197
 
 [Open repository](https://github.com/mlfoundations/open_clip)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 2197 | 223 | 
 | 2022-11-20 | 2190 | 223 | 
 | 2022-11-19 | 2184 | 222 | 
 | 2022-11-18 | 2179 | 220 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 2054 | 199 | 
 | 2022-10-24 | 2046 | 198 | 
 | 2022-10-23 | 2043 | 197 | 
-| 2022-10-22 | 2042 | 196 | 
 

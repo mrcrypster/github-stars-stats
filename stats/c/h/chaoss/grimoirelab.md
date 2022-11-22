@@ -1,10 +1,10 @@
 # chaoss/grimoirelab - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 144
 
-★ Stars: 376
+★ Stars: 377
 
 [Open repository](https://github.com/chaoss/grimoirelab)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 377 | 144 | 
 | 2022-11-20 | 376 | 144 | 
 | 2022-11-19 | 376 | 144 | 
 | 2022-11-18 | 376 | 144 | 

@@ -1,10 +1,10 @@
 # biaochenxuying/blog-vue-typescript - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 600
 
-★ Stars: 2295
+★ Stars: 2297
 
 [Open repository](https://github.com/biaochenxuying/blog-vue-typescript)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 2297 | 600 | 
 | 2022-11-20 | 2295 | 600 | 
 | 2022-11-19 | 2295 | 600 | 
 | 2022-11-18 | 2295 | 600 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 2273 | 597 | 
 | 2022-10-24 | 2271 | 597 | 
 | 2022-10-23 | 2271 | 598 | 
-| 2022-10-22 | 2269 | 598 | 
 

@@ -1,10 +1,10 @@
 # AammarTufail/machinelearning_ka_chilla - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
-☋ Forks: 163
+☋ Forks: 164
 
-★ Stars: 296
+★ Stars: 297
 
 [Open repository](https://github.com/AammarTufail/machinelearning_ka_chilla)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 297 | 164 | 
 | 2022-11-20 | 296 | 163 | 
 | 2022-11-19 | 296 | 163 | 
 | 2022-11-18 | 296 | 163 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 295 | 164 | 
 | 2022-10-24 | 295 | 164 | 
 | 2022-10-23 | 294 | 164 | 
-| 2022-10-22 | 294 | 164 | 
 

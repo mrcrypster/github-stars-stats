@@ -1,10 +1,10 @@
 # weitieda/bottom-sheet - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 46
 
-★ Stars: 577
+★ Stars: 578
 
 [Open repository](https://github.com/weitieda/bottom-sheet)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 578 | 46 | 
 | 2022-11-20 | 577 | 46 | 
 | 2022-11-19 | 577 | 46 | 
 | 2022-11-18 | 577 | 46 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 569 | 44 | 
 | 2022-10-24 | 568 | 44 | 
 | 2022-10-23 | 568 | 44 | 
-| 2022-10-22 | 568 | 44 | 
 

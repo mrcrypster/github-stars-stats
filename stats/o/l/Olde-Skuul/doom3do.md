@@ -1,10 +1,10 @@
 # Olde-Skuul/doom3do - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 121
 
-★ Stars: 905
+★ Stars: 906
 
 [Open repository](https://github.com/Olde-Skuul/doom3do)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 906 | 121 | 
 | 2022-11-21 | 905 | 121 | 
 | 2022-11-20 | 905 | 121 | 
 | 2022-11-19 | 904 | 121 | 

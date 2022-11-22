@@ -1,10 +1,10 @@
 # MaxwellGengYF/Unity-Volumetric-Light - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 73
 
-★ Stars: 399
+★ Stars: 400
 
 [Open repository](https://github.com/MaxwellGengYF/Unity-Volumetric-Light)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 400 | 73 | 
 | 2022-11-20 | 399 | 73 | 
 | 2022-11-19 | 399 | 73 | 
 | 2022-11-18 | 399 | 73 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-26 | 398 | 72 | 
 | 2022-10-24 | 398 | 72 | 
 | 2022-10-23 | 398 | 72 | 
-| 2022-10-22 | 398 | 72 | 
 

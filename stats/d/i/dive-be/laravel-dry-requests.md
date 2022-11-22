@@ -1,6 +1,6 @@
 # dive-be/laravel-dry-requests - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 198 | 3 | 
 | 2022-11-20 | 198 | 3 | 
 | 2022-11-19 | 197 | 3 | 
 | 2022-11-18 | 197 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 195 | 3 | 
 | 2022-10-24 | 195 | 3 | 
 | 2022-10-23 | 194 | 3 | 
-| 2022-10-22 | 194 | 3 | 
 

@@ -1,8 +1,8 @@
 # bringmetheaugust/welcome_to_TE - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
-☋ Forks: 75
+☋ Forks: 76
 
 ★ Stars: 17
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 17 | 76 | 
 | 2022-11-20 | 17 | 75 | 
 | 2022-11-19 | 16 | 75 | 
 | 2022-11-18 | 16 | 75 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 15 | 76 | 
 | 2022-10-24 | 15 | 75 | 
 | 2022-10-23 | 15 | 75 | 
-| 2022-10-22 | 15 | 75 | 
 

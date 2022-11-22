@@ -1,6 +1,6 @@
 # SeppPenner/awesome-german-piracy - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 239 | 26 | 
 | 2022-11-20 | 239 | 26 | 
 | 2022-11-19 | 240 | 26 | 
 | 2022-11-18 | 240 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 232 | 25 | 
 | 2022-10-24 | 232 | 25 | 
 | 2022-10-23 | 226 | 24 | 
-| 2022-10-22 | 225 | 24 | 
 

@@ -1,10 +1,10 @@
 # yoyo-nb/Thin-Plate-Spline-Motion-Model - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 171
 
-★ Stars: 1287
+★ Stars: 1290
 
 [Open repository](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 1290 | 171 | 
 | 2022-11-20 | 1287 | 171 | 
 | 2022-11-19 | 1286 | 171 | 
 | 2022-11-18 | 1284 | 169 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 1151 | 147 | 
 | 2022-10-24 | 1148 | 147 | 
 | 2022-10-23 | 1145 | 147 | 
-| 2022-10-22 | 1128 | 139 | 
 

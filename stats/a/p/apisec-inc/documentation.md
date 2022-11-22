@@ -1,6 +1,6 @@
 # apisec-inc/documentation - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 26 | - | 
 | 2022-11-20 | 26 | - | 
 | 2022-11-19 | 26 | - | 
 | 2022-11-18 | 26 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 25 | - | 
 | 2022-10-24 | 25 | - | 
 | 2022-10-23 | 25 | - | 
-| 2022-10-22 | 25 | - | 
 

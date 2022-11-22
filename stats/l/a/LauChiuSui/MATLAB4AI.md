@@ -1,6 +1,6 @@
 # LauChiuSui/MATLAB4AI - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 6 | 6 | 
 | 2022-11-21 | 6 | 6 | 
 | 2022-11-20 | 6 | 6 | 
 | 2022-11-19 | 6 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-25 | 6 | 6 | 
 | 2022-10-24 | 6 | 6 | 
 | 2022-10-23 | 6 | 6 | 
-| 2022-10-22 | 6 | 6 | 
 

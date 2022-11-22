@@ -1,10 +1,10 @@
 # alibaba/hooks - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 22
 
-☋ Forks: 1978
+☋ Forks: 1983
 
-★ Stars: 10844
+★ Stars: 10851
 
 [Open repository](https://github.com/alibaba/hooks)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 10851 | 1983 | 
 | 2022-11-20 | 10844 | 1978 | 
 | 2022-11-19 | 10838 | 1976 | 
 | 2022-11-18 | 10832 | 1976 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 10665 | 1925 | 
 | 2022-10-24 | 10657 | 1922 | 
 | 2022-10-23 | 10649 | 1920 | 
-| 2022-10-22 | 10645 | 1919 | 
 

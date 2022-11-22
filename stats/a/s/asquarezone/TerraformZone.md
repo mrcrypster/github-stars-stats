@@ -1,6 +1,6 @@
 # asquarezone/TerraformZone - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 218
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 11 | 218 | 
 | 2022-11-20 | 11 | 218 | 
 | 2022-11-19 | 11 | 218 | 
 | 2022-11-18 | 11 | 218 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 11 | 208 | 
 | 2022-10-24 | 11 | 207 | 
 | 2022-10-23 | 11 | 206 | 
-| 2022-10-22 | 11 | 206 | 
 

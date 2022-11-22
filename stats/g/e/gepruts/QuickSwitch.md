@@ -1,10 +1,10 @@
 # gepruts/QuickSwitch - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 16
 
-★ Stars: 126
+★ Stars: 127
 
 [Open repository](https://github.com/gepruts/QuickSwitch)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 127 | 16 | 
 | 2022-11-20 | 126 | 16 | 
 | 2022-11-19 | 124 | 16 | 
 | 2022-11-18 | 124 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-26 | 111 | 16 | 
 | 2022-10-25 | 110 | 16 | 
 | 2022-10-24 | 110 | 16 | 
-| 2022-10-23 | 109 | 16 | 
 

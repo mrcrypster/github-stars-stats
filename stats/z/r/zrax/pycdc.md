@@ -1,10 +1,10 @@
 # zrax/pycdc - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
-☋ Forks: 360
+☋ Forks: 363
 
-★ Stars: 1547
+★ Stars: 1549
 
 [Open repository](https://github.com/zrax/pycdc)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 1549 | 363 | 
 | 2022-11-20 | 1547 | 360 | 
 | 2022-11-19 | 1547 | 360 | 
 | 2022-11-18 | 1542 | 360 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 1505 | 354 | 
 | 2022-10-24 | 1503 | 354 | 
 | 2022-10-23 | 1502 | 354 | 
-| 2022-10-22 | 1502 | 354 | 
 

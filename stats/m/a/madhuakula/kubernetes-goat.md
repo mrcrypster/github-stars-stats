@@ -1,6 +1,6 @@
 # madhuakula/kubernetes-goat - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 430
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 2790 | 430 | 
 | 2022-11-21 | 2790 | 430 | 
 | 2022-11-20 | 2788 | 430 | 
 | 2022-11-19 | 2786 | 430 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-25 | 2752 | 417 | 
 | 2022-10-24 | 2751 | 417 | 
 | 2022-10-23 | 2748 | 416 | 
-| 2022-10-22 | 2748 | 416 | 
 

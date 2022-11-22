@@ -1,6 +1,6 @@
 # github/semantic - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 496
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 8541 | 496 | 
 | 2022-11-20 | 8541 | 496 | 
 | 2022-11-19 | 8540 | 496 | 
 | 2022-11-18 | 8539 | 496 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 8524 | 496 | 
 | 2022-10-24 | 8523 | 495 | 
 | 2022-10-23 | 8523 | 495 | 
-| 2022-10-22 | 8521 | 495 | 
 

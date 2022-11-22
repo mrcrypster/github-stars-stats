@@ -1,10 +1,10 @@
 # reason-seoul/rescript-7guis - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 2
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/reason-seoul/rescript-7guis)
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 13 | 2 | 
+| 2022-11-21 | 13 | 2 | 
 | 2022-11-20 | 12 | 2 | 
 | 2022-11-19 | 12 | 2 | 
 | 2022-11-18 | 12 | 2 | 

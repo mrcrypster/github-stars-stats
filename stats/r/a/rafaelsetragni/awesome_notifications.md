@@ -1,6 +1,6 @@
 # rafaelsetragni/awesome_notifications - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 211
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 542 | 211 | 
 | 2022-11-20 | 542 | 211 | 
 | 2022-11-19 | 542 | 211 | 
 | 2022-11-18 | 541 | 211 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 535 | 201 | 
 | 2022-10-24 | 534 | 201 | 
 | 2022-10-23 | 534 | 201 | 
-| 2022-10-22 | 534 | 201 | 
 

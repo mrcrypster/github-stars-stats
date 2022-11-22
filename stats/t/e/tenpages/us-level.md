@@ -1,6 +1,6 @@
 # tenpages/us-level - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 166 | 42 | 
 | 2022-11-20 | 166 | 42 | 
 | 2022-11-19 | 166 | 41 | 
 | 2022-11-18 | 166 | 41 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 20 | 4 | 
 | 2022-10-24 | 20 | 3 | 
 | 2022-10-23 | 19 | 3 | 
-| 2022-10-22 | 19 | 3 | 
 

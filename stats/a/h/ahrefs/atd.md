@@ -1,6 +1,6 @@
 # ahrefs/atd - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 263 | 41 | 
 | 2022-11-20 | 263 | 41 | 
 | 2022-11-19 | 263 | 41 | 
 | 2022-11-18 | 263 | 41 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 260 | 41 | 
 | 2022-10-24 | 260 | 41 | 
 | 2022-10-23 | 260 | 41 | 
-| 2022-10-22 | 260 | 41 | 
 

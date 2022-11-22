@@ -1,6 +1,6 @@
 # IGJoshua/coffi - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 200 | 1 | 
 | 2022-11-20 | 200 | 1 | 
 | 2022-11-19 | 200 | 1 | 
 | 2022-11-18 | 200 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 196 | 1 | 
 | 2022-10-24 | 196 | 1 | 
 | 2022-10-23 | 195 | 1 | 
-| 2022-10-22 | 195 | 1 | 
 

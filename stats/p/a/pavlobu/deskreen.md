@@ -1,10 +1,10 @@
 # pavlobu/deskreen - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
-☋ Forks: 736
+☋ Forks: 735
 
-★ Stars: 13603
+★ Stars: 13607
 
 [Open repository](https://github.com/pavlobu/deskreen)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 13607 | 735 | 
 | 2022-11-20 | 13603 | 736 | 
 | 2022-11-19 | 13603 | 736 | 
 | 2022-11-18 | 13600 | 736 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 13545 | 729 | 
 | 2022-10-24 | 13542 | 729 | 
 | 2022-10-23 | 13540 | 728 | 
-| 2022-10-22 | 13534 | 728 | 
 

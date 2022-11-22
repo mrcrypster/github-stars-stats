@@ -1,10 +1,10 @@
 # pcottle/learnGitBranching - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
-☋ Forks: 5422
+☋ Forks: 5423
 
-★ Stars: 26035
+★ Stars: 26043
 
 [Open repository](https://github.com/pcottle/learnGitBranching)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 26043 | 5423 | 
 | 2022-11-20 | 26035 | 5422 | 
 | 2022-11-19 | 26030 | 5422 | 
 | 2022-11-18 | 26026 | 5421 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 25859 | 5395 | 
 | 2022-10-24 | 25851 | 5396 | 
 | 2022-10-23 | 25845 | 5396 | 
-| 2022-10-22 | 25844 | 5396 | 
 

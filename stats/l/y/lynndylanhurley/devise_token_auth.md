@@ -1,10 +1,10 @@
 # lynndylanhurley/devise_token_auth - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 1111
 
-★ Stars: 3392
+★ Stars: 3394
 
 [Open repository](https://github.com/lynndylanhurley/devise_token_auth)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 3394 | 1111 | 
 | 2022-11-20 | 3392 | 1111 | 
 | 2022-11-19 | 3392 | 1111 | 
 | 2022-11-18 | 3391 | 1111 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 3381 | 1105 | 
 | 2022-10-24 | 3381 | 1105 | 
 | 2022-10-23 | 3381 | 1104 | 
-| 2022-10-22 | 3380 | 1105 | 
 

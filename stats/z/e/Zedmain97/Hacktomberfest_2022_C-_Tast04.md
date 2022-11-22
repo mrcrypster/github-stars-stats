@@ -1,6 +1,6 @@
 # Zedmain97/Hacktomberfest_2022_C-_Tast04 - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 1 | 8 | 
 | 2022-11-21 | 1 | 8 | 
 | 2022-11-20 | 1 | 8 | 
 | 2022-11-19 | 1 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-25 | 1 | 7 | 
 | 2022-10-24 | 1 | 7 | 
 | 2022-10-23 | 1 | 7 | 
-| 2022-10-22 | 1 | 7 | 
 

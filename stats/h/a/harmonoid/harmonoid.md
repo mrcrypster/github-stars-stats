@@ -1,10 +1,10 @@
 # harmonoid/harmonoid - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 150
 
-★ Stars: 2204
+★ Stars: 2208
 
 [Open repository](https://github.com/harmonoid/harmonoid)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 2208 | 150 | 
 | 2022-11-20 | 2204 | 150 | 
 | 2022-11-19 | 2204 | 150 | 
 | 2022-11-18 | 2203 | 150 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 2136 | 143 | 
 | 2022-10-24 | 2134 | 143 | 
 | 2022-10-23 | 2126 | 143 | 
-| 2022-10-22 | 2126 | 143 | 
 

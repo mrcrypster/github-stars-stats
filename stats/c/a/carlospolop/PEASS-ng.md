@@ -1,10 +1,10 @@
 # carlospolop/PEASS-ng - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
-☋ Forks: 2458
+☋ Forks: 2460
 
-★ Stars: 10632
+★ Stars: 10637
 
 [Open repository](https://github.com/carlospolop/PEASS-ng)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 10637 | 2460 | 
 | 2022-11-20 | 10632 | 2458 | 
 | 2022-11-19 | 10629 | 2455 | 
 | 2022-11-18 | 10623 | 2452 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 10424 | 2424 | 
 | 2022-10-24 | 10415 | 2422 | 
 | 2022-10-23 | 10405 | 2421 | 
-| 2022-10-22 | 10400 | 2418 | 
 

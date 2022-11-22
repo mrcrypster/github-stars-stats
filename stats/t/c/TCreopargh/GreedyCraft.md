@@ -1,6 +1,6 @@
 # TCreopargh/GreedyCraft - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 100 | 41 | 
 | 2022-11-20 | 100 | 41 | 
 | 2022-11-19 | 100 | 41 | 
 | 2022-11-18 | 100 | 41 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 96 | 39 | 
 | 2022-10-24 | 96 | 39 | 
 | 2022-10-23 | 96 | 39 | 
-| 2022-10-22 | 95 | 39 | 
 

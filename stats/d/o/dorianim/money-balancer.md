@@ -1,10 +1,10 @@
 # dorianim/money-balancer - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 1
 
-★ Stars: 71
+★ Stars: 72
 
 [Open repository](https://github.com/dorianim/money-balancer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 72 | 1 | 
 | 2022-11-20 | 71 | 1 | 
 | 2022-11-19 | 71 | 1 | 
 | 2022-11-18 | 71 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 69 | 1 | 
 | 2022-10-24 | 69 | 1 | 
 | 2022-10-23 | 69 | 1 | 
-| 2022-10-22 | 68 | 1 | 
 

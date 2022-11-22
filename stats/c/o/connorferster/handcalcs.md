@@ -1,10 +1,10 @@
 # connorferster/handcalcs - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 389
 
-★ Stars: 4948
+★ Stars: 4947
 
 [Open repository](https://github.com/connorferster/handcalcs)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 4947 | 389 | 
 | 2022-11-20 | 4948 | 389 | 
 | 2022-11-19 | 4948 | 388 | 
 | 2022-11-18 | 4945 | 388 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 4934 | 386 | 
 | 2022-10-24 | 4934 | 386 | 
 | 2022-10-23 | 4934 | 386 | 
-| 2022-10-22 | 4934 | 386 | 
 

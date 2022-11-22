@@ -1,10 +1,10 @@
 # supabase/pg_graphql - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 45
 
-★ Stars: 2074
+★ Stars: 2075
 
 [Open repository](https://github.com/supabase/pg_graphql)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 2075 | 45 | 
 | 2022-11-20 | 2074 | 45 | 
 | 2022-11-19 | 2074 | 45 | 
 | 2022-11-18 | 2074 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 2054 | 44 | 
 | 2022-10-24 | 2054 | 43 | 
 | 2022-10-23 | 2053 | 43 | 
-| 2022-10-22 | 2050 | 41 | 
 

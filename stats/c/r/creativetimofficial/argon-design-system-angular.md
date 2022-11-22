@@ -1,8 +1,8 @@
 # creativetimofficial/argon-design-system-angular - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
-☋ Forks: 119
+☋ Forks: 120
 
 ★ Stars: 237
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 237 | 120 | 
 | 2022-11-20 | 237 | 119 | 
 | 2022-11-19 | 236 | 119 | 
 | 2022-11-18 | 236 | 118 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 236 | 114 | 
 | 2022-10-24 | 236 | 114 | 
 | 2022-10-23 | 236 | 114 | 
-| 2022-10-22 | 236 | 114 | 
 

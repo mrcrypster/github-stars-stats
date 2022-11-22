@@ -1,6 +1,6 @@
 # junyanz/CycleGAN - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 1909
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 11466 | 1909 | 
 | 2022-11-20 | 11466 | 1909 | 
 | 2022-11-19 | 11465 | 1909 | 
 | 2022-11-18 | 11466 | 1909 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 11416 | 1906 | 
 | 2022-10-24 | 11416 | 1907 | 
 | 2022-10-23 | 11413 | 1907 | 
-| 2022-10-22 | 11408 | 1907 | 
 

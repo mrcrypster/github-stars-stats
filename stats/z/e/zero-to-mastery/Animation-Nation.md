@@ -1,8 +1,8 @@
 # zero-to-mastery/Animation-Nation - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
-☋ Forks: 2607
+☋ Forks: 2609
 
 ★ Stars: 160
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 160 | 2609 | 
 | 2022-11-20 | 160 | 2607 | 
 | 2022-11-19 | 160 | 2606 | 
 | 2022-11-18 | 160 | 2607 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 157 | 2596 | 
 | 2022-10-24 | 157 | 2595 | 
 | 2022-10-23 | 157 | 2595 | 
-| 2022-10-22 | 158 | 2595 | 
 

@@ -1,10 +1,10 @@
 # adium/adium - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 18
 
-★ Stars: 193
+★ Stars: 194
 
 [Open repository](https://github.com/adium/adium)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 194 | 18 | 
 | 2022-11-20 | 193 | 18 | 
 | 2022-11-19 | 194 | 18 | 
 | 2022-11-18 | 194 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 194 | 17 | 
 | 2022-10-24 | 194 | 17 | 
 | 2022-10-23 | 194 | 17 | 
-| 2022-10-22 | 194 | 17 | 
 

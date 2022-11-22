@@ -1,10 +1,10 @@
 # timholy/Revise.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 87
 
-★ Stars: 980
+★ Stars: 979
 
 [Open repository](https://github.com/timholy/Revise.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 979 | 87 | 
 | 2022-11-20 | 980 | 87 | 
 | 2022-11-19 | 980 | 87 | 
 | 2022-11-18 | 980 | 87 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 973 | 87 | 
 | 2022-10-24 | 973 | 87 | 
 | 2022-10-23 | 973 | 87 | 
-| 2022-10-22 | 973 | 87 | 
 

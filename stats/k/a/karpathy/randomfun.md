@@ -1,6 +1,6 @@
 # karpathy/randomfun - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 81
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 389 | 81 | 
 | 2022-11-20 | 389 | 81 | 
 | 2022-11-19 | 389 | 81 | 
 | 2022-11-18 | 389 | 81 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 385 | 81 | 
 | 2022-10-24 | 385 | 81 | 
 | 2022-10-23 | 385 | 81 | 
-| 2022-10-22 | 385 | 81 | 
 

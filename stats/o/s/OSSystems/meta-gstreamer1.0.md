@@ -1,8 +1,8 @@
 # OSSystems/meta-gstreamer1.0 - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
-☋ Forks: 249
+☋ Forks: 248
 
 ★ Stars: 143
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 143 | 248 | 
 | 2022-11-20 | 143 | 249 | 
 | 2022-11-19 | 143 | 249 | 
 | 2022-11-18 | 143 | 249 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 143 | 249 | 
 | 2022-10-24 | 143 | 249 | 
 | 2022-10-23 | 143 | 249 | 
-| 2022-10-22 | 143 | 249 | 
 

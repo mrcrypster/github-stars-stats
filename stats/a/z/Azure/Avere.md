@@ -1,6 +1,6 @@
 # Azure/Avere - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 67 | 31 | 
 | 2022-11-20 | 67 | 31 | 
 | 2022-11-19 | 67 | 31 | 
 | 2022-11-18 | 67 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 67 | 31 | 
 | 2022-10-24 | 67 | 31 | 
 | 2022-10-23 | 67 | 31 | 
-| 2022-10-22 | 67 | 31 | 
 

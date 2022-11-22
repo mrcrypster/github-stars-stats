@@ -1,10 +1,10 @@
 # K-Sato1995/svelte-vertical-timeline - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 4
 
-★ Stars: 35
+★ Stars: 36
 
 [Open repository](https://github.com/K-Sato1995/svelte-vertical-timeline)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 36 | 4 | 
 | 2022-11-20 | 35 | 4 | 
 | 2022-11-19 | 35 | 4 | 
 | 2022-11-18 | 35 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 33 | 3 | 
 | 2022-10-24 | 33 | 3 | 
 | 2022-10-23 | 33 | 3 | 
-| 2022-10-22 | 33 | 3 | 
 

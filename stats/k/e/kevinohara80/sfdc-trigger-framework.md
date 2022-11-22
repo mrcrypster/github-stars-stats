@@ -1,10 +1,10 @@
 # kevinohara80/sfdc-trigger-framework - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
-☋ Forks: 423
+☋ Forks: 426
 
-★ Stars: 723
+★ Stars: 724
 
 [Open repository](https://github.com/kevinohara80/sfdc-trigger-framework)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 724 | 426 | 
 | 2022-11-20 | 723 | 423 | 
 | 2022-11-19 | 723 | 423 | 
 | 2022-11-18 | 722 | 423 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 713 | 418 | 
 | 2022-10-24 | 712 | 416 | 
 | 2022-10-23 | 712 | 416 | 
-| 2022-10-22 | 712 | 416 | 
 

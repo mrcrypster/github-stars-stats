@@ -1,10 +1,10 @@
 # microsoft/winget-pkgs - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
-☋ Forks: 2575
+☋ Forks: 2583
 
-★ Stars: 6213
+★ Stars: 6218
 
 [Open repository](https://github.com/microsoft/winget-pkgs)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 6218 | 2583 | 
 | 2022-11-20 | 6213 | 2575 | 
 | 2022-11-19 | 6211 | 2576 | 
 | 2022-11-18 | 6210 | 2576 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 6137 | 2508 | 
 | 2022-10-24 | 6135 | 2501 | 
 | 2022-10-23 | 6134 | 2500 | 
-| 2022-10-22 | 6132 | 2499 | 
 

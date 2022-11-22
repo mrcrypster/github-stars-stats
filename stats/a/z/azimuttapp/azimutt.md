@@ -1,6 +1,6 @@
 # azimuttapp/azimutt - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 381 | 27 | 
 | 2022-11-20 | 381 | 27 | 
 | 2022-11-19 | 381 | 27 | 
 | 2022-11-18 | 379 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 357 | 24 | 
 | 2022-10-24 | 357 | 24 | 
 | 2022-10-23 | 356 | 24 | 
-| 2022-10-22 | 356 | 24 | 
 

@@ -1,10 +1,10 @@
 # Processus-Thief/ETWMonitor - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 8
 
-★ Stars: 77
+★ Stars: 78
 
 [Open repository](https://github.com/Processus-Thief/ETWMonitor)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 78 | 8 | 
 | 2022-11-21 | 77 | 8 | 
 | 2022-11-19 | 77 | 7 | 
 | 2022-11-18 | 77 | 7 | 

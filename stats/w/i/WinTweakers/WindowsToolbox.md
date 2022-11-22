@@ -1,6 +1,6 @@
 # WinTweakers/WindowsToolbox - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 116 | 49 | 
 | 2022-11-20 | 116 | 49 | 
 | 2022-11-19 | 116 | 49 | 
 | 2022-11-18 | 116 | 49 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 116 | 47 | 
 | 2022-10-24 | 116 | 47 | 
 | 2022-10-23 | 116 | 47 | 
-| 2022-10-22 | 116 | 47 | 
 

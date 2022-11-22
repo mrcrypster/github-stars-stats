@@ -1,10 +1,10 @@
 # chrisbra/csv.vim - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 56
 
-★ Stars: 1135
+★ Stars: 1136
 
 [Open repository](https://github.com/chrisbra/csv.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 1136 | 56 | 
 | 2022-11-20 | 1135 | 56 | 
 | 2022-11-19 | 1135 | 56 | 
 | 2022-11-18 | 1134 | 56 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 1130 | 56 | 
 | 2022-10-24 | 1129 | 56 | 
 | 2022-10-23 | 1128 | 56 | 
-| 2022-10-22 | 1128 | 56 | 
 

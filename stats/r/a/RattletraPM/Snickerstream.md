@@ -1,10 +1,10 @@
 # RattletraPM/Snickerstream - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 16
 
-★ Stars: 236
+★ Stars: 237
 
 [Open repository](https://github.com/RattletraPM/Snickerstream)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 237 | 16 | 
 | 2022-11-20 | 236 | 16 | 
 | 2022-11-19 | 236 | 16 | 
 | 2022-11-18 | 236 | 16 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 235 | 16 | 
 | 2022-10-24 | 235 | 16 | 
 | 2022-10-23 | 235 | 16 | 
-| 2022-10-22 | 233 | 16 | 
 

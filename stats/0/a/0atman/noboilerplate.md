@@ -1,8 +1,8 @@
 # 0atman/noboilerplate - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
-☋ Forks: 15
+☋ Forks: 16
 
 ★ Stars: 230
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 230 | 16 | 
 | 2022-11-20 | 230 | 15 | 
 | 2022-11-19 | 228 | 15 | 
 | 2022-11-18 | 228 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 208 | 13 | 
 | 2022-10-24 | 208 | 12 | 
 | 2022-10-23 | 209 | 12 | 
-| 2022-10-22 | 209 | 12 | 
 

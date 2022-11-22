@@ -1,6 +1,6 @@
 # pojiezhiyuanjun/freev2 - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 457
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 740 | 457 | 
 | 2022-11-20 | 740 | 457 | 
 | 2022-11-19 | 739 | 457 | 
 | 2022-11-18 | 739 | 456 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 714 | 443 | 
 | 2022-10-24 | 712 | 442 | 
 | 2022-10-23 | 708 | 441 | 
-| 2022-10-22 | 708 | 441 | 
 

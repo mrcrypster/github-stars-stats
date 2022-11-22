@@ -1,10 +1,10 @@
 # discord/sorted_set_nif - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 88
 
-★ Stars: 1448
+★ Stars: 1449
 
 [Open repository](https://github.com/discord/sorted_set_nif)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 1449 | 88 | 
 | 2022-11-20 | 1448 | 88 | 
 | 2022-11-19 | 1449 | 88 | 
 | 2022-11-18 | 1449 | 88 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 1441 | 89 | 
 | 2022-10-24 | 1441 | 89 | 
 | 2022-10-23 | 1440 | 89 | 
-| 2022-10-22 | 1440 | 89 | 
 

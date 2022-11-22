@@ -1,6 +1,6 @@
 # erlang-lager/lager - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 450
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 1092 | 450 | 
 | 2022-11-20 | 1092 | 450 | 
 | 2022-11-19 | 1091 | 450 | 
 | 2022-11-18 | 1091 | 450 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 1092 | 448 | 
 | 2022-10-24 | 1092 | 448 | 
 | 2022-10-23 | 1092 | 448 | 
-| 2022-10-22 | 1092 | 448 | 
 

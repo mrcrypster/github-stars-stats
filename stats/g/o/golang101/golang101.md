@@ -1,10 +1,10 @@
 # golang101/golang101 - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 374
 
-★ Stars: 3610
+★ Stars: 3611
 
 [Open repository](https://github.com/golang101/golang101)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 3611 | 374 | 
 | 2022-11-20 | 3610 | 374 | 
 | 2022-11-19 | 3610 | 375 | 
 | 2022-11-18 | 3608 | 375 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 3568 | 375 | 
 | 2022-10-24 | 3568 | 374 | 
 | 2022-10-23 | 3567 | 374 | 
-| 2022-10-22 | 3567 | 374 | 
 

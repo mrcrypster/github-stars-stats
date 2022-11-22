@@ -1,6 +1,6 @@
 # stacksimplify/terraform-cloud-demo1 - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 435
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 18 | 435 | 
 | 2022-11-20 | 18 | 435 | 
 | 2022-11-19 | 18 | 433 | 
 | 2022-11-18 | 18 | 433 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 17 | 427 | 
 | 2022-10-24 | 17 | 427 | 
 | 2022-10-23 | 17 | 427 | 
-| 2022-10-22 | 17 | 427 | 
 

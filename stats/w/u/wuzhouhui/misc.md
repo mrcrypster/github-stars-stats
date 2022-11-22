@@ -1,10 +1,10 @@
 # wuzhouhui/misc - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 411
 
-★ Stars: 993
+★ Stars: 994
 
 [Open repository](https://github.com/wuzhouhui/misc)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 994 | 411 | 
 | 2022-11-20 | 993 | 411 | 
 | 2022-11-19 | 993 | 411 | 
 | 2022-11-18 | 992 | 408 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 958 | 387 | 
 | 2022-10-24 | 958 | 387 | 
 | 2022-10-23 | 958 | 387 | 
-| 2022-10-22 | 955 | 387 | 
 

@@ -1,10 +1,10 @@
 # paulrobustelli/CHEM101.6 - stars & forks statistics
 
-Stats updated on Nov 2022, 20
+Stats updated on Nov 2022, 21
 
 ☋ Forks: 17
 
-★ Stars: 102
+★ Stars: 103
 
 [Open repository](https://github.com/paulrobustelli/CHEM101.6)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-21 | 103 | 17 | 
 | 2022-11-20 | 102 | 17 | 
 | 2022-11-19 | 101 | 17 | 
 | 2022-11-18 | 99 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 20
 | 2022-10-25 | 96 | 14 | 
 | 2022-10-24 | 96 | 13 | 
 | 2022-10-23 | 96 | 13 | 
-| 2022-10-22 | 96 | 13 | 
 
