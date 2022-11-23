@@ -1,10 +1,10 @@
 # bazelbuild/remote-apis - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 88
 
-★ Stars: 207
+★ Stars: 208
 
 [Open repository](https://github.com/bazelbuild/remote-apis)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 208 | 88 | 
 | 2022-11-21 | 207 | 88 | 
 | 2022-11-20 | 206 | 88 | 
 | 2022-11-19 | 206 | 88 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-27 | 202 | 87 | 
 | 2022-10-26 | 202 | 87 | 
 | 2022-10-24 | 202 | 87 | 
-| 2022-10-23 | 202 | 87 | 
 

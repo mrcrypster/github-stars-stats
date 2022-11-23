@@ -1,10 +1,10 @@
 # ajeetdsouza/zoxide - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 291
 
-★ Stars: 8280
+★ Stars: 8297
 
 [Open repository](https://github.com/ajeetdsouza/zoxide)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 8297 | 291 | 
 | 2022-11-21 | 8280 | 291 | 
 | 2022-11-20 | 8266 | 291 | 
 | 2022-11-18 | 8235 | 290 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 8019 | 277 | 
 | 2022-10-25 | 8006 | 277 | 
 | 2022-10-24 | 7996 | 276 | 
-| 2022-10-23 | 7978 | 275 | 
 

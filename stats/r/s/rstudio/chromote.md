@@ -1,6 +1,6 @@
 # rstudio/chromote - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 128 | 18 | 
 | 2022-11-21 | 128 | 18 | 
 | 2022-11-20 | 128 | 18 | 
 | 2022-11-19 | 128 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 128 | 18 | 
 | 2022-10-25 | 128 | 18 | 
 | 2022-10-24 | 127 | 18 | 
-| 2022-10-23 | 127 | 18 | 
 

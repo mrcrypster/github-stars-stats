@@ -1,10 +1,10 @@
 # apache/skywalking - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 5987
+☋ Forks: 5991
 
-★ Stars: 20803
+★ Stars: 20805
 
 [Open repository](https://github.com/apache/skywalking)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 20805 | 5991 | 
 | 2022-11-21 | 20803 | 5987 | 
 | 2022-11-20 | 20796 | 5986 | 
 | 2022-11-19 | 20793 | 5985 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 20668 | 5947 | 
 | 2022-10-25 | 20657 | 5943 | 
 | 2022-10-24 | 20646 | 5938 | 
-| 2022-10-23 | 20635 | 5935 | 
 

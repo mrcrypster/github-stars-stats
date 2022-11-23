@@ -1,6 +1,6 @@
 # Gabriella439/defaultable-map - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 15 | - | 
 | 2022-11-22 | 15 | - | 
 | 2022-11-21 | 15 | - | 
 | 2022-11-19 | 15 | - | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-26 | 15 | - | 
 | 2022-10-25 | 15 | - | 
 | 2022-10-24 | 15 | - | 
-| 2022-10-23 | 15 | - | 
 

@@ -1,10 +1,10 @@
 # PillFall/languagetool.el - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 3
 
-★ Stars: 70
+★ Stars: 71
 
 [Open repository](https://github.com/PillFall/languagetool.el)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 71 | 3 | 
 | 2022-11-21 | 70 | 3 | 
 | 2022-11-20 | 70 | 3 | 
 | 2022-11-19 | 69 | 3 | 

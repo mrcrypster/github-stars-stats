@@ -1,10 +1,10 @@
 # sonph/onehalf - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 238
 
-★ Stars: 1549
+★ Stars: 1550
 
 [Open repository](https://github.com/sonph/onehalf)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 1550 | 238 | 
 | 2022-11-21 | 1549 | 238 | 
 | 2022-11-20 | 1548 | 238 | 
 | 2022-11-19 | 1547 | 238 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 1534 | 234 | 
 | 2022-10-25 | 1533 | 234 | 
 | 2022-10-24 | 1533 | 234 | 
-| 2022-10-23 | 1533 | 234 | 
 

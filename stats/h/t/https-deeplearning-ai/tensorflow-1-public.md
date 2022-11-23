@@ -1,10 +1,10 @@
 # https-deeplearning-ai/tensorflow-1-public - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 1370
+☋ Forks: 1374
 
-★ Stars: 1073
+★ Stars: 1077
 
 [Open repository](https://github.com/https-deeplearning-ai/tensorflow-1-public)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 1077 | 1374 | 
 | 2022-11-21 | 1073 | 1370 | 
 | 2022-11-20 | 1071 | 1368 | 
 | 2022-11-19 | 1068 | 1366 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 1026 | 1322 | 
 | 2022-10-25 | 1018 | 1317 | 
 | 2022-10-24 | 1014 | 1316 | 
-| 2022-10-23 | 1013 | 1317 | 
 

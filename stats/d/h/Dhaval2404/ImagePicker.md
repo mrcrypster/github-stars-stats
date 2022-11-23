@@ -1,10 +1,10 @@
 # Dhaval2404/ImagePicker - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 291
 
-★ Stars: 1263
+★ Stars: 1264
 
 [Open repository](https://github.com/Dhaval2404/ImagePicker)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 1264 | 291 | 
 | 2022-11-22 | 1263 | 291 | 
 | 2022-11-21 | 1262 | 291 | 
 | 2022-11-19 | 1262 | 291 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-26 | 1236 | 289 | 
 | 2022-10-25 | 1236 | 289 | 
 | 2022-10-24 | 1234 | 289 | 
-| 2022-10-23 | 1232 | 289 | 
 

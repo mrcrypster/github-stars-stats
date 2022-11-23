@@ -1,10 +1,10 @@
 # cacjs/cac - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 99
 
-★ Stars: 1992
+★ Stars: 1997
 
 [Open repository](https://github.com/cacjs/cac)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 1997 | 99 | 
 | 2022-11-21 | 1992 | 99 | 
 | 2022-11-20 | 1991 | 98 | 
 | 2022-11-19 | 1987 | 98 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 1957 | 97 | 
 | 2022-10-25 | 1956 | 97 | 
 | 2022-10-24 | 1947 | 97 | 
-| 2022-10-23 | 1945 | 97 | 
 

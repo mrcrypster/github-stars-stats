@@ -1,8 +1,8 @@
 # sendgrid/sendgrid-php - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 621
+☋ Forks: 622
 
 ★ Stars: 1381
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 1381 | 622 | 
 | 2022-11-21 | 1381 | 621 | 
 | 2022-11-20 | 1381 | 621 | 
 | 2022-11-19 | 1381 | 621 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-27 | 1375 | 622 | 
 | 2022-10-26 | 1375 | 623 | 
 | 2022-10-24 | 1374 | 623 | 
-| 2022-10-23 | 1373 | 625 | 
 

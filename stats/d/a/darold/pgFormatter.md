@@ -1,6 +1,6 @@
 # darold/pgFormatter - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 89
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 1378 | 89 | 
 | 2022-11-21 | 1378 | 89 | 
 | 2022-11-20 | 1377 | 89 | 
 | 2022-11-19 | 1377 | 88 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-27 | 1371 | 90 | 
 | 2022-10-26 | 1371 | 90 | 
 | 2022-10-25 | 1371 | 90 | 
-| 2022-10-24 | 1371 | 90 | 
 

@@ -1,6 +1,6 @@
 # ShiftForward/icfpc2012 - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 3 | 4 | 
 | 2022-11-21 | 3 | 4 | 
 | 2022-11-20 | 3 | 4 | 
 | 2022-11-19 | 3 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-27 | 3 | 4 | 
 | 2022-10-26 | 3 | 4 | 
 | 2022-10-25 | 3 | 4 | 
-| 2022-10-24 | 3 | 4 | 
 

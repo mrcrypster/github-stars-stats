@@ -1,10 +1,10 @@
 # ParrotSec/mimikatz - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 76
 
-★ Stars: 326
+★ Stars: 328
 
 [Open repository](https://github.com/ParrotSec/mimikatz)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 328 | 76 | 
 | 2022-11-21 | 326 | 76 | 
 | 2022-11-20 | 326 | 76 | 
 | 2022-11-19 | 325 | 76 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 292 | 74 | 
 | 2022-10-25 | 290 | 74 | 
 | 2022-10-24 | 288 | 74 | 
-| 2022-10-23 | 287 | 74 | 
 

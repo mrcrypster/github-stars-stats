@@ -1,10 +1,10 @@
 # moby/buildkit - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 800
+☋ Forks: 801
 
-★ Stars: 5981
+★ Stars: 5984
 
 [Open repository](https://github.com/moby/buildkit)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 5984 | 801 | 
 | 2022-11-21 | 5981 | 800 | 
 | 2022-11-20 | 5976 | 800 | 
 | 2022-11-19 | 5971 | 800 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 5887 | 786 | 
 | 2022-10-25 | 5883 | 785 | 
 | 2022-10-24 | 5879 | 785 | 
-| 2022-10-23 | 5875 | 785 | 
 

@@ -1,10 +1,10 @@
 # chokcoco/iCSS - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 1517
+☋ Forks: 1519
 
-★ Stars: 14110
+★ Stars: 14123
 
 [Open repository](https://github.com/chokcoco/iCSS)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 14123 | 1519 | 
 | 2022-11-21 | 14110 | 1517 | 
 | 2022-11-20 | 14106 | 1517 | 
 | 2022-11-19 | 14104 | 1518 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 13962 | 1495 | 
 | 2022-10-25 | 13950 | 1494 | 
 | 2022-10-24 | 13946 | 1493 | 
-| 2022-10-23 | 13938 | 1493 | 
 

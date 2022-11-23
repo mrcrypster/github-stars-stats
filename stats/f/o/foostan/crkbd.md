@@ -1,10 +1,10 @@
 # foostan/crkbd - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 703
 
-★ Stars: 3007
+★ Stars: 3009
 
 [Open repository](https://github.com/foostan/crkbd)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 3009 | 703 | 
 | 2022-11-21 | 3007 | 703 | 
 | 2022-11-20 | 3002 | 702 | 
 | 2022-11-19 | 2998 | 702 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 2917 | 687 | 
 | 2022-10-25 | 2917 | 687 | 
 | 2022-10-24 | 2914 | 687 | 
-| 2022-10-23 | 2911 | 688 | 
 

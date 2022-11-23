@@ -1,6 +1,6 @@
 # rlleshi/phar - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 108 | 13 | 
 | 2022-11-21 | 108 | 13 | 
 | 2022-11-20 | 108 | 13 | 
 | 2022-11-19 | 108 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 105 | 13 | 
 | 2022-10-25 | 105 | 13 | 
 | 2022-10-24 | 105 | 13 | 
-| 2022-10-23 | 105 | 13 | 
 

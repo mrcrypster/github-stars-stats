@@ -1,6 +1,6 @@
 # replugged-org/replugged - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 365 | 41 | 
 | 2022-11-21 | 365 | 41 | 
 | 2022-11-20 | 365 | 42 | 
 | 2022-11-19 | 365 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 355 | 41 | 
 | 2022-10-25 | 355 | 41 | 
 | 2022-10-24 | 353 | 41 | 
-| 2022-10-23 | 351 | 40 | 
 

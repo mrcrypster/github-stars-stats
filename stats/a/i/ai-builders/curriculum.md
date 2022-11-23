@@ -1,10 +1,10 @@
 # ai-builders/curriculum - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 39
 
-★ Stars: 127
+★ Stars: 128
 
 [Open repository](https://github.com/ai-builders/curriculum)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 128 | 39 | 
 | 2022-11-21 | 127 | 39 | 
 | 2022-11-20 | 127 | 39 | 
 | 2022-11-19 | 127 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-27 | 125 | 36 | 
 | 2022-10-26 | 125 | 36 | 
 | 2022-10-25 | 125 | 36 | 
-| 2022-10-24 | 125 | 36 | 
 

@@ -1,8 +1,8 @@
 # RandomCoderOrg/ubuntu-on-android - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 67
+☋ Forks: 66
 
 ★ Stars: 657
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 657 | 66 | 
 | 2022-11-21 | 657 | 67 | 
 | 2022-11-20 | 656 | 67 | 
 | 2022-11-19 | 654 | 67 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 622 | 64 | 
 | 2022-10-25 | 618 | 64 | 
 | 2022-10-24 | 618 | 62 | 
-| 2022-10-23 | 616 | 62 | 
 

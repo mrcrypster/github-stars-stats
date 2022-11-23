@@ -1,8 +1,8 @@
 # Leonidariogamer/WindowsServerFreeVPS - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 46
+☋ Forks: 47
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 1 | 47 | 
 | 2022-11-21 | 1 | 46 | 
 | 2022-11-20 | 1 | 46 | 
 | 2022-11-19 | 1 | 44 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 1 | 34 | 
 | 2022-10-25 | 1 | 32 | 
 | 2022-10-24 | 1 | 30 | 
-| 2022-10-23 | 1 | 30 | 
 

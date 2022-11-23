@@ -1,10 +1,10 @@
 # NLog/NLog - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 1333
 
-★ Stars: 5678
+★ Stars: 5679
 
 [Open repository](https://github.com/NLog/NLog)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 5679 | 1333 | 
 | 2022-11-21 | 5678 | 1333 | 
 | 2022-11-20 | 5678 | 1333 | 
 | 2022-11-19 | 5679 | 1334 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-27 | 5653 | 1331 | 
 | 2022-10-26 | 5652 | 1330 | 
 | 2022-10-25 | 5651 | 1330 | 
-| 2022-10-24 | 5651 | 1330 | 
 

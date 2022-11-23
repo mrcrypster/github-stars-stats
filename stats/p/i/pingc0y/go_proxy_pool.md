@@ -1,10 +1,10 @@
 # pingc0y/go_proxy_pool - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 34
+☋ Forks: 35
 
-★ Stars: 324
+★ Stars: 335
 
 [Open repository](https://github.com/pingc0y/go_proxy_pool)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 335 | 35 | 
 | 2022-11-21 | 324 | 34 | 
 | 2022-11-20 | 272 | 29 | 
 | 2022-11-19 | 218 | 27 | 

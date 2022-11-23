@@ -1,10 +1,10 @@
 # JannsenYang/dingdong-helper - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 519
+☋ Forks: 518
 
-★ Stars: 1348
+★ Stars: 1347
 
 [Open repository](https://github.com/JannsenYang/dingdong-helper)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 1347 | 518 | 
 | 2022-11-21 | 1348 | 519 | 
 | 2022-11-20 | 1348 | 520 | 
 | 2022-11-19 | 1348 | 520 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 1350 | 523 | 
 | 2022-10-25 | 1350 | 523 | 
 | 2022-10-24 | 1350 | 523 | 
-| 2022-10-23 | 1350 | 523 | 
 

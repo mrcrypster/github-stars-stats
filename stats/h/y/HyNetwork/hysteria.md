@@ -1,10 +1,10 @@
 # HyNetwork/hysteria - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 559
 
-★ Stars: 4144
+★ Stars: 4161
 
 [Open repository](https://github.com/HyNetwork/hysteria)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 4161 | 559 | 
 | 2022-11-21 | 4144 | 559 | 
 | 2022-11-20 | 4133 | 558 | 
 | 2022-11-19 | 4121 | 558 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 3806 | 531 | 
 | 2022-10-25 | 3775 | 527 | 
 | 2022-10-24 | 3757 | 525 | 
-| 2022-10-23 | 3749 | 525 | 
 

@@ -1,10 +1,10 @@
 # Simulation-Software-Engineering/Lecture-Material - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 40
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/Simulation-Software-Engineering/Lecture-Material)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 24 | 40 | 
 | 2022-11-21 | 23 | 40 | 
 | 2022-11-20 | 23 | 40 | 
 | 2022-11-19 | 23 | 40 | 

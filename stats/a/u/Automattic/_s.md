@@ -1,10 +1,10 @@
 # Automattic/_s - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 3142
+☋ Forks: 3144
 
-★ Stars: 10627
+★ Stars: 10628
 
 [Open repository](https://github.com/Automattic/_s)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 10628 | 3144 | 
 | 2022-11-21 | 10627 | 3142 | 
 | 2022-11-20 | 10626 | 3143 | 
 | 2022-11-19 | 10626 | 3144 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 10613 | 3141 | 
 | 2022-10-25 | 10613 | 3141 | 
 | 2022-10-24 | 10610 | 3141 | 
-| 2022-10-23 | 10611 | 3141 | 
 

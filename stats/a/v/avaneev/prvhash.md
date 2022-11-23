@@ -1,6 +1,6 @@
 # avaneev/prvhash - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 197 | 15 | 
 | 2022-11-21 | 197 | 15 | 
 | 2022-11-20 | 197 | 15 | 
 | 2022-11-19 | 197 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 193 | 15 | 
 | 2022-10-25 | 193 | 15 | 
 | 2022-10-24 | 193 | 15 | 
-| 2022-10-23 | 193 | 15 | 
 

@@ -1,10 +1,10 @@
 # kiranshila/Doplarr - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 18
 
-★ Stars: 215
+★ Stars: 216
 
 [Open repository](https://github.com/kiranshila/Doplarr)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 216 | 18 | 
 | 2022-11-21 | 215 | 18 | 
 | 2022-11-20 | 215 | 18 | 
 | 2022-11-19 | 215 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-27 | 209 | 17 | 
 | 2022-10-26 | 209 | 17 | 
 | 2022-10-25 | 209 | 17 | 
-| 2022-10-24 | 210 | 17 | 
 

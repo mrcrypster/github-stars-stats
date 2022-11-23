@@ -1,10 +1,10 @@
 # http4s/http4s - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 744
 
-★ Stars: 2350
+★ Stars: 2351
 
 [Open repository](https://github.com/http4s/http4s)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 2351 | 744 | 
 | 2022-11-21 | 2350 | 744 | 
 | 2022-11-20 | 2350 | 744 | 
 | 2022-11-19 | 2348 | 744 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 2330 | 745 | 
 | 2022-10-25 | 2330 | 745 | 
 | 2022-10-24 | 2330 | 745 | 
-| 2022-10-23 | 2331 | 745 | 
 

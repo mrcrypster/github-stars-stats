@@ -1,6 +1,6 @@
 # ksemaev/project_template - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 215
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 70 | 215 | 
 | 2022-11-21 | 70 | 215 | 
 | 2022-11-20 | 70 | 215 | 
 | 2022-11-19 | 70 | 215 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 70 | 214 | 
 | 2022-10-25 | 70 | 214 | 
 | 2022-10-24 | 70 | 214 | 
-| 2022-10-23 | 69 | 214 | 
 

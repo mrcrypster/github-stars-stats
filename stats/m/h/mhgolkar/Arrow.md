@@ -1,10 +1,10 @@
 # mhgolkar/Arrow - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 28
 
-★ Stars: 556
+★ Stars: 557
 
 [Open repository](https://github.com/mhgolkar/Arrow)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 557 | 28 | 
 | 2022-11-21 | 556 | 28 | 
 | 2022-11-20 | 556 | 28 | 
 | 2022-11-19 | 556 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 550 | 28 | 
 | 2022-10-25 | 549 | 28 | 
 | 2022-10-24 | 549 | 28 | 
-| 2022-10-23 | 546 | 28 | 
 

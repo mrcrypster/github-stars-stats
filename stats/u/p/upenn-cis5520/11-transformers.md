@@ -1,6 +1,6 @@
 # upenn-cis5520/11-transformers - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | - | 7 | 
 | 2022-11-21 | - | 7 | 
 | 2022-11-20 | - | 7 | 
 | 2022-11-19 | - | 7 | 

@@ -1,6 +1,6 @@
 # sfvsfv/meisai - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 68 | 23 | 
 | 2022-11-21 | 68 | 23 | 
 | 2022-11-20 | 68 | 23 | 
 | 2022-11-19 | 68 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 64 | 24 | 
 | 2022-10-25 | 64 | 24 | 
 | 2022-10-24 | 64 | 24 | 
-| 2022-10-23 | 64 | 24 | 
 

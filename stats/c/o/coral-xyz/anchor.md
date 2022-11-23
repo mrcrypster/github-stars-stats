@@ -1,10 +1,10 @@
 # coral-xyz/anchor - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 911
+☋ Forks: 910
 
-★ Stars: 2560
+★ Stars: 2561
 
 [Open repository](https://github.com/coral-xyz/anchor)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 2561 | 910 | 
 | 2022-11-21 | 2560 | 911 | 
 | 2022-11-20 | 2558 | 911 | 
 | 2022-11-19 | 2557 | 911 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 2525 | 902 | 
 | 2022-10-25 | 2526 | 903 | 
 | 2022-10-24 | 2525 | 902 | 
-| 2022-10-23 | 2523 | 902 | 
 

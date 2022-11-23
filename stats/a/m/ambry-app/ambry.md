@@ -1,6 +1,6 @@
 # ambry-app/ambry - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 35 | 4 | 
 | 2022-11-22 | 35 | 4 | 
 | 2022-11-20 | 35 | 4 | 
 | 2022-11-19 | 35 | 4 | 

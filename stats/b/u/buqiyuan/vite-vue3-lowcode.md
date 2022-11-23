@@ -1,10 +1,10 @@
 # buqiyuan/vite-vue3-lowcode - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 541
+☋ Forks: 542
 
-★ Stars: 2036
+★ Stars: 2041
 
 [Open repository](https://github.com/buqiyuan/vite-vue3-lowcode)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 2041 | 542 | 
 | 2022-11-21 | 2036 | 541 | 
 | 2022-11-20 | 2035 | 540 | 
 | 2022-11-19 | 2035 | 540 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 1968 | 532 | 
 | 2022-10-25 | 1966 | 532 | 
 | 2022-10-24 | 1960 | 532 | 
-| 2022-10-23 | 1957 | 531 | 
 

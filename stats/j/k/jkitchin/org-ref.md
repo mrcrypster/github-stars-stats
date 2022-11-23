@@ -1,6 +1,6 @@
 # jkitchin/org-ref - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 244
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 1200 | 244 | 
 | 2022-11-21 | 1200 | 244 | 
 | 2022-11-20 | 1200 | 243 | 
 | 2022-11-19 | 1199 | 242 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-27 | 1194 | 243 | 
 | 2022-10-26 | 1194 | 243 | 
 | 2022-10-25 | 1194 | 243 | 
-| 2022-10-24 | 1194 | 243 | 
 

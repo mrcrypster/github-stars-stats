@@ -1,6 +1,6 @@
 # jiangmiao/auto-pairs - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 362
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 3811 | 362 | 
 | 2022-11-21 | 3811 | 362 | 
 | 2022-11-20 | 3811 | 363 | 
 | 2022-11-19 | 3808 | 363 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 3790 | 360 | 
 | 2022-10-25 | 3789 | 359 | 
 | 2022-10-24 | 3789 | 359 | 
-| 2022-10-23 | 3788 | 359 | 
 

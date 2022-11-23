@@ -1,6 +1,6 @@
 # Lakshitabathija/appium-CSharp-permissions - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 18 | 9 | 
 | 2022-11-21 | 18 | 9 | 
 | 2022-11-20 | 18 | 9 | 
 | 2022-11-19 | 18 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 18 | 9 | 
 | 2022-10-25 | 18 | 9 | 
 | 2022-10-24 | 18 | 9 | 
-| 2022-10-23 | 18 | 9 | 
 

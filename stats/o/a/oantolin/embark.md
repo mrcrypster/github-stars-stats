@@ -1,10 +1,10 @@
 # oantolin/embark - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 41
 
-★ Stars: 541
+★ Stars: 542
 
 [Open repository](https://github.com/oantolin/embark)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 542 | 41 | 
 | 2022-11-21 | 541 | 41 | 
 | 2022-11-20 | 540 | 40 | 
 | 2022-11-19 | 540 | 40 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 522 | 39 | 
 | 2022-10-25 | 522 | 39 | 
 | 2022-10-24 | 522 | 39 | 
-| 2022-10-23 | 522 | 39 | 
 

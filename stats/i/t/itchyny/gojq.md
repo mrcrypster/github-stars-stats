@@ -1,10 +1,10 @@
 # itchyny/gojq - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 77
 
-★ Stars: 2333
+★ Stars: 2334
 
 [Open repository](https://github.com/itchyny/gojq)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 2334 | 77 | 
 | 2022-11-21 | 2333 | 77 | 
 | 2022-11-20 | 2332 | 77 | 
 | 2022-11-19 | 2332 | 77 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 2292 | 76 | 
 | 2022-10-25 | 2289 | 76 | 
 | 2022-10-24 | 2287 | 76 | 
-| 2022-10-23 | 2287 | 76 | 
 

@@ -1,10 +1,10 @@
 # etracslgurepo/etracs255-server-workshop-muni - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 0
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/etracslgurepo/etracs255-server-workshop-muni)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 2 | - | 
 | 2022-11-21 | 1 | - | 
 | 2022-11-20 | 1 | - | 
 | 2022-11-19 | 1 | - | 

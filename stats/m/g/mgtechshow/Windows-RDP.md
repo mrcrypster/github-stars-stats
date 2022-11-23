@@ -1,6 +1,6 @@
 # mgtechshow/Windows-RDP - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 94
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 2 | 94 | 
 | 2022-11-21 | 2 | 94 | 
 | 2022-11-20 | 2 | 94 | 
 | 2022-11-19 | 2 | 93 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 2 | 53 | 
 | 2022-10-25 | 2 | 51 | 
 | 2022-10-24 | 2 | 48 | 
-| 2022-10-23 | 2 | 48 | 
 

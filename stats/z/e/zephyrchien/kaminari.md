@@ -1,10 +1,10 @@
 # zephyrchien/kaminari - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 37
 
-★ Stars: 256
+★ Stars: 257
 
 [Open repository](https://github.com/zephyrchien/kaminari)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 257 | 37 | 
 | 2022-11-21 | 256 | 37 | 
 | 2022-11-20 | 257 | 37 | 
 | 2022-11-19 | 256 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 251 | 34 | 
 | 2022-10-25 | 251 | 34 | 
 | 2022-10-24 | 251 | 34 | 
-| 2022-10-23 | 249 | 34 | 
 

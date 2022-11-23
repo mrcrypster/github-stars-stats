@@ -1,6 +1,6 @@
 # AppsFlyerSDK/AppsFlyerFramework - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 132 | 75 | 
 | 2022-11-21 | 132 | 75 | 
 | 2022-11-20 | 132 | 75 | 
 | 2022-11-19 | 132 | 75 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 131 | 75 | 
 | 2022-10-25 | 131 | 75 | 
 | 2022-10-24 | 131 | 75 | 
-| 2022-10-23 | 131 | 75 | 
 

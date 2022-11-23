@@ -1,6 +1,6 @@
 # openasic-org/h265-encoder-rtl - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 141 | 51 | 
 | 2022-11-21 | 141 | 51 | 
 | 2022-11-20 | 141 | 51 | 
 | 2022-11-19 | 141 | 51 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-27 | 140 | 50 | 
 | 2022-10-26 | 140 | 50 | 
 | 2022-10-25 | 140 | 50 | 
-| 2022-10-24 | 140 | 50 | 
 

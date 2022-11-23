@@ -1,8 +1,8 @@
 # bufbuild/plugins - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 2
+☋ Forks: 3
 
 ★ Stars: 14
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 14 | 3 | 
 | 2022-11-21 | 14 | 2 | 
 | 2022-11-20 | 14 | 2 | 
 | 2022-11-19 | 14 | 2 | 

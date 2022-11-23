@@ -1,6 +1,6 @@
 # open-telemetry/opentelemetry-lambda - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 80
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 123 | 80 | 
 | 2022-11-21 | 123 | 80 | 
 | 2022-11-20 | 123 | 80 | 
 | 2022-11-19 | 123 | 80 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 113 | 79 | 
 | 2022-10-25 | 113 | 79 | 
 | 2022-10-24 | 113 | 78 | 
-| 2022-10-23 | 113 | 78 | 
 

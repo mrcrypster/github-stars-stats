@@ -1,10 +1,10 @@
 # OWASP/crAPI - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 117
 
-★ Stars: 496
+★ Stars: 499
 
 [Open repository](https://github.com/OWASP/crAPI)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 499 | 117 | 
 | 2022-11-21 | 496 | 117 | 
 | 2022-11-20 | 495 | 117 | 
 | 2022-11-19 | 494 | 117 | 

@@ -1,10 +1,10 @@
 # fukamachi/dexador - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 35
 
-★ Stars: 289
+★ Stars: 290
 
 [Open repository](https://github.com/fukamachi/dexador)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 290 | 35 | 
 | 2022-11-21 | 289 | 35 | 
 | 2022-11-20 | 289 | 35 | 
 | 2022-11-19 | 289 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 288 | 35 | 
 | 2022-10-25 | 288 | 35 | 
 | 2022-10-24 | 288 | 35 | 
-| 2022-10-23 | 288 | 35 | 
 

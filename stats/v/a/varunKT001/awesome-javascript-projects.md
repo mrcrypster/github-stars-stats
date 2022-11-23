@@ -1,6 +1,6 @@
 # varunKT001/awesome-javascript-projects - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 32 | 44 | 
 | 2022-11-21 | 32 | 44 | 
 | 2022-11-20 | 32 | 44 | 
 | 2022-11-19 | 32 | 44 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 32 | 43 | 
 | 2022-10-25 | 32 | 43 | 
 | 2022-10-24 | 31 | 42 | 
-| 2022-10-23 | 30 | 42 | 
 

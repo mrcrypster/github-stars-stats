@@ -1,10 +1,10 @@
 # zesterer/tao - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 17
 
-★ Stars: 832
+★ Stars: 833
 
 [Open repository](https://github.com/zesterer/tao)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 833 | 17 | 
 | 2022-11-21 | 832 | 17 | 
 | 2022-11-20 | 831 | 17 | 
 | 2022-11-19 | 829 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 817 | 17 | 
 | 2022-10-25 | 817 | 17 | 
 | 2022-10-24 | 817 | 17 | 
-| 2022-10-23 | 817 | 17 | 
 

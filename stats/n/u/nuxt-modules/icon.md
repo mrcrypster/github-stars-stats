@@ -1,10 +1,10 @@
 # nuxt-modules/icon - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 6
 
-★ Stars: 320
+★ Stars: 322
 
 [Open repository](https://github.com/nuxt-modules/icon)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 322 | 6 | 
 | 2022-11-21 | 320 | 6 | 
 | 2022-11-20 | 318 | 6 | 
 | 2022-11-19 | 317 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-27 | 280 | 5 | 
 | 2022-10-26 | 280 | 5 | 
 | 2022-10-25 | 276 | 5 | 
-| 2022-10-23 | 272 | 5 | 
 

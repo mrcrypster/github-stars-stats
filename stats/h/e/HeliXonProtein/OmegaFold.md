@@ -1,8 +1,8 @@
 # HeliXonProtein/OmegaFold - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 38
+☋ Forks: 40
 
 ★ Stars: 375
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 375 | 40 | 
 | 2022-11-21 | 375 | 38 | 
 | 2022-11-20 | 375 | 38 | 
 | 2022-11-19 | 374 | 38 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 363 | 38 | 
 | 2022-10-25 | 362 | 38 | 
 | 2022-10-24 | 360 | 38 | 
-| 2022-10-23 | 359 | 38 | 
 

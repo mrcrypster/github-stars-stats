@@ -1,6 +1,6 @@
 # cvpaperchallenge/Ascender - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 139 | 9 | 
 | 2022-11-21 | 139 | 9 | 
 | 2022-11-20 | 139 | 9 | 
 | 2022-11-19 | 139 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-27 | 134 | 9 | 
 | 2022-10-26 | 130 | 9 | 
 | 2022-10-25 | 130 | 9 | 
-| 2022-10-24 | 128 | 9 | 
 

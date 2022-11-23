@@ -1,6 +1,6 @@
 # JingShing/Sorry-NovelAI - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 35 | 22 | 
 | 2022-11-21 | 35 | 22 | 
 | 2022-11-20 | 35 | 22 | 
 | 2022-11-19 | 35 | 22 | 

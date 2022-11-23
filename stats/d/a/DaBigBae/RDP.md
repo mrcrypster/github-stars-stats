@@ -1,8 +1,8 @@
 # DaBigBae/RDP - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 59
+☋ Forks: 60
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | - | 60 | 
 | 2022-11-21 | - | 59 | 
 | 2022-11-20 | - | 58 | 
 | 2022-11-19 | - | 57 | 

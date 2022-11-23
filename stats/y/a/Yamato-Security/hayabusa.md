@@ -1,10 +1,10 @@
 # Yamato-Security/hayabusa - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 74
 
-★ Stars: 883
+★ Stars: 887
 
 [Open repository](https://github.com/Yamato-Security/hayabusa)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 887 | 74 | 
 | 2022-11-21 | 883 | 74 | 
 | 2022-11-20 | 882 | 74 | 
 | 2022-11-19 | 881 | 74 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 804 | 70 | 
 | 2022-10-25 | 804 | 70 | 
 | 2022-10-24 | 799 | 70 | 
-| 2022-10-23 | 798 | 70 | 
 

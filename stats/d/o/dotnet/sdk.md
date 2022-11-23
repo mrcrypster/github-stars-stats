@@ -1,10 +1,10 @@
 # dotnet/sdk - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 853
+☋ Forks: 852
 
-★ Stars: 2043
+★ Stars: 2044
 
 [Open repository](https://github.com/dotnet/sdk)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 2044 | 852 | 
 | 2022-11-21 | 2043 | 853 | 
 | 2022-11-20 | 2041 | 852 | 
 | 2022-11-19 | 2040 | 852 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 2002 | 852 | 
 | 2022-10-25 | 1998 | 852 | 
 | 2022-10-24 | 1996 | 852 | 
-| 2022-10-23 | 1997 | 852 | 
 

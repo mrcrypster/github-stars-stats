@@ -1,6 +1,6 @@
 # Roblox/avatar - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 70 | 60 | 
 | 2022-11-21 | 70 | 60 | 
 | 2022-11-20 | 70 | 60 | 
 | 2022-11-19 | 69 | 60 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 68 | 57 | 
 | 2022-10-25 | 68 | 57 | 
 | 2022-10-24 | 68 | 57 | 
-| 2022-10-23 | 68 | 57 | 
 

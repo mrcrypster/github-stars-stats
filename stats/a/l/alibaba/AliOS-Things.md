@@ -1,8 +1,8 @@
 # alibaba/AliOS-Things - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 1055
+☋ Forks: 1056
 
 ★ Stars: 4298
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 4298 | 1056 | 
 | 2022-11-21 | 4298 | 1055 | 
 | 2022-11-20 | 4298 | 1055 | 
 | 2022-11-19 | 4298 | 1055 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 4287 | 1054 | 
 | 2022-10-25 | 4288 | 1054 | 
 | 2022-10-24 | 4288 | 1054 | 
-| 2022-10-23 | 4287 | 1053 | 
 

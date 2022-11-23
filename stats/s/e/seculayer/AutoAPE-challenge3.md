@@ -1,10 +1,10 @@
 # seculayer/AutoAPE-challenge3 - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 25
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/seculayer/AutoAPE-challenge3)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 22 | 25 | 
 | 2022-11-21 | 21 | 25 | 
 | 2022-11-20 | 20 | 24 | 
 | 2022-11-19 | 20 | 24 | 

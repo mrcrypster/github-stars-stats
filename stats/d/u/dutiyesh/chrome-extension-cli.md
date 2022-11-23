@@ -1,10 +1,10 @@
 # dutiyesh/chrome-extension-cli - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 67
 
-★ Stars: 1568
+★ Stars: 1569
 
 [Open repository](https://github.com/dutiyesh/chrome-extension-cli)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 1569 | 67 | 
 | 2022-11-21 | 1568 | 67 | 
 | 2022-11-20 | 1569 | 67 | 
 | 2022-11-19 | 1569 | 67 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-27 | 1547 | 65 | 
 | 2022-10-26 | 1547 | 65 | 
 | 2022-10-25 | 1547 | 65 | 
-| 2022-10-24 | 1546 | 65 | 
 

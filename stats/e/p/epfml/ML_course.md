@@ -1,8 +1,8 @@
 # epfml/ML_course - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 743
+☋ Forks: 744
 
 ★ Stars: 997
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 997 | 744 | 
 | 2022-11-21 | 997 | 743 | 
 | 2022-11-20 | 997 | 742 | 
 | 2022-11-19 | 997 | 742 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 988 | 735 | 
 | 2022-10-25 | 987 | 735 | 
 | 2022-10-24 | 986 | 732 | 
-| 2022-10-23 | 986 | 731 | 
 

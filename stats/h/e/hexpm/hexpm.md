@@ -1,10 +1,10 @@
 # hexpm/hexpm - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 274
 
-★ Stars: 946
+★ Stars: 948
 
 [Open repository](https://github.com/hexpm/hexpm)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 948 | 274 | 
 | 2022-11-21 | 946 | 274 | 
 | 2022-11-20 | 945 | 274 | 
 | 2022-11-19 | 945 | 274 | 

@@ -1,10 +1,10 @@
 # ruesandora/gitopia - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 110
+☋ Forks: 112
 
-★ Stars: 53
+★ Stars: 55
 
 [Open repository](https://github.com/ruesandora/gitopia)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 55 | 112 | 
 | 2022-11-21 | 53 | 110 | 
 | 2022-11-20 | 50 | 108 | 
 | 2022-11-19 | 49 | 102 | 

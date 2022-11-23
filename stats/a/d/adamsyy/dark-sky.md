@@ -1,6 +1,6 @@
 # adamsyy/dark-sky - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 2 | 8 | 
 | 2022-11-21 | 2 | 8 | 
 | 2022-11-20 | 2 | 8 | 
 | 2022-11-19 | 2 | 8 | 

@@ -1,10 +1,10 @@
 # cute-jumper/evil-embrace.el - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 5
 
-★ Stars: 42
+★ Stars: 43
 
 [Open repository](https://github.com/cute-jumper/evil-embrace.el)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 43 | 5 | 
 | 2022-11-22 | 42 | 5 | 
 | 2022-11-21 | 42 | 5 | 
 | 2022-11-20 | 42 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-26 | 40 | 5 | 
 | 2022-10-25 | 40 | 5 | 
 | 2022-10-24 | 40 | 5 | 
-| 2022-10-23 | 40 | 5 | 
 

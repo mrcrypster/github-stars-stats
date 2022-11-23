@@ -1,10 +1,10 @@
 # evilashz/NimFileBinder - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 33
 
-★ Stars: 104
+★ Stars: 105
 
 [Open repository](https://github.com/evilashz/NimFileBinder)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 105 | 33 | 
 | 2022-11-21 | 104 | 33 | 
 | 2022-11-20 | 104 | 33 | 
 | 2022-11-19 | 104 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 99 | 33 | 
 | 2022-10-25 | 99 | 33 | 
 | 2022-10-24 | 99 | 33 | 
-| 2022-10-23 | 99 | 33 | 
 

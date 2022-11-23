@@ -1,10 +1,10 @@
 # matijapretnar/millet - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 0
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/matijapretnar/millet)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 15 | - | 
 | 2022-11-21 | 14 | - | 
 | 2022-11-20 | 14 | - | 
 | 2022-11-19 | 14 | - | 

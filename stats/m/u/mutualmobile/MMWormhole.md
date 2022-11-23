@@ -1,6 +1,6 @@
 # mutualmobile/MMWormhole - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 304
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 3891 | 304 | 
 | 2022-11-21 | 3891 | 304 | 
 | 2022-11-20 | 3892 | 304 | 
 | 2022-11-19 | 3892 | 304 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 3886 | 304 | 
 | 2022-10-25 | 3886 | 304 | 
 | 2022-10-24 | 3885 | 304 | 
-| 2022-10-23 | 3885 | 304 | 
 

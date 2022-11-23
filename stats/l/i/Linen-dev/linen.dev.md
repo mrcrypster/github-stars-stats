@@ -1,10 +1,10 @@
 # Linen-dev/linen.dev - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 21
 
-★ Stars: 986
+★ Stars: 987
 
 [Open repository](https://github.com/Linen-dev/linen.dev)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 987 | 21 | 
 | 2022-11-22 | 986 | 21 | 
 | 2022-11-21 | 984 | 20 | 
 | 2022-11-20 | 979 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-26 | 887 | 14 | 
 | 2022-10-25 | 858 | 11 | 
 | 2022-10-24 | 831 | 10 | 
-| 2022-10-23 | 778 | 10 | 
 

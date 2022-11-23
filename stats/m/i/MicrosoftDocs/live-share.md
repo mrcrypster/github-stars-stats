@@ -1,8 +1,8 @@
 # MicrosoftDocs/live-share - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 244
+☋ Forks: 245
 
 ★ Stars: 2054
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 2054 | 245 | 
 | 2022-11-21 | 2054 | 244 | 
 | 2022-11-20 | 2054 | 244 | 
 | 2022-11-19 | 2055 | 244 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 2052 | 243 | 
 | 2022-10-25 | 2052 | 243 | 
 | 2022-10-24 | 2052 | 243 | 
-| 2022-10-23 | 2052 | 243 | 
 

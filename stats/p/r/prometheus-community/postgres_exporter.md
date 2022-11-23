@@ -1,6 +1,6 @@
 # prometheus-community/postgres_exporter - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 593
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 1886 | 593 | 
 | 2022-11-21 | 1886 | 593 | 
 | 2022-11-20 | 1885 | 593 | 
 | 2022-11-19 | 1884 | 593 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 1856 | 591 | 
 | 2022-10-25 | 1855 | 591 | 
 | 2022-10-24 | 1851 | 591 | 
-| 2022-10-23 | 1848 | 591 | 
 

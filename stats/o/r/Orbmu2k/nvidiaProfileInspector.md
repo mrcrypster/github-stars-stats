@@ -1,10 +1,10 @@
 # Orbmu2k/nvidiaProfileInspector - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 182
 
-★ Stars: 1783
+★ Stars: 1785
 
 [Open repository](https://github.com/Orbmu2k/nvidiaProfileInspector)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 1785 | 182 | 
 | 2022-11-21 | 1783 | 182 | 
 | 2022-11-20 | 1781 | 182 | 
 | 2022-11-19 | 1779 | 182 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 1675 | 162 | 
 | 2022-10-25 | 1674 | 162 | 
 | 2022-10-24 | 1676 | 162 | 
-| 2022-10-23 | 1674 | 162 | 
 

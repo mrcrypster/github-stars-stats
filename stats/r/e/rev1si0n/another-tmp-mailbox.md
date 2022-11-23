@@ -1,10 +1,10 @@
 # rev1si0n/another-tmp-mailbox - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 52
 
-★ Stars: 182
+★ Stars: 183
 
 [Open repository](https://github.com/rev1si0n/another-tmp-mailbox)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 183 | 52 | 
 | 2022-11-21 | 182 | 52 | 
 | 2022-11-20 | 182 | 52 | 
 | 2022-11-19 | 182 | 52 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 178 | 50 | 
 | 2022-10-25 | 178 | 50 | 
 | 2022-10-24 | 178 | 50 | 
-| 2022-10-23 | 177 | 49 | 
 

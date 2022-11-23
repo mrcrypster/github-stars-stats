@@ -1,10 +1,10 @@
 # Mr-xn/Penetration_Testing_POC - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 1665
+☋ Forks: 1666
 
-★ Stars: 4837
+★ Stars: 4844
 
 [Open repository](https://github.com/Mr-xn/Penetration_Testing_POC)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 4844 | 1666 | 
 | 2022-11-21 | 4837 | 1665 | 
 | 2022-11-20 | 4834 | 1664 | 
 | 2022-11-19 | 4834 | 1663 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 4780 | 1651 | 
 | 2022-10-25 | 4777 | 1651 | 
 | 2022-10-24 | 4774 | 1651 | 
-| 2022-10-23 | 4772 | 1650 | 
 

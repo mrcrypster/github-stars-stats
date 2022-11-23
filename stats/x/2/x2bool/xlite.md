@@ -1,6 +1,6 @@
 # x2bool/xlite - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 1100 | 33 | 
 | 2022-11-21 | 1100 | 33 | 
 | 2022-11-20 | 1100 | 33 | 
 | 2022-11-19 | 1100 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 1092 | 33 | 
 | 2022-10-25 | 1092 | 33 | 
 | 2022-10-24 | 1092 | 33 | 
-| 2022-10-23 | 1092 | 33 | 
 

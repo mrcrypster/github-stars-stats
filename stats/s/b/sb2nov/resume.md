@@ -1,10 +1,10 @@
 # sb2nov/resume - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 1110
+☋ Forks: 1114
 
-★ Stars: 3434
+★ Stars: 3436
 
 [Open repository](https://github.com/sb2nov/resume)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 3436 | 1114 | 
 | 2022-11-21 | 3434 | 1110 | 
 | 2022-11-20 | 3434 | 1110 | 
 | 2022-11-19 | 3432 | 1110 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 3383 | 1102 | 
 | 2022-10-25 | 3378 | 1100 | 
 | 2022-10-24 | 3377 | 1100 | 
-| 2022-10-23 | 3371 | 1100 | 
 

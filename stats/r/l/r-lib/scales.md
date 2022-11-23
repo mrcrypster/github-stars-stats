@@ -1,10 +1,10 @@
 # r-lib/scales - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 99
 
-★ Stars: 342
+★ Stars: 343
 
 [Open repository](https://github.com/r-lib/scales)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 343 | 99 | 
 | 2022-11-21 | 342 | 99 | 
 | 2022-11-20 | 342 | 99 | 
 | 2022-11-19 | 342 | 99 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 337 | 99 | 
 | 2022-10-25 | 337 | 99 | 
 | 2022-10-24 | 337 | 99 | 
-| 2022-10-23 | 337 | 99 | 
 

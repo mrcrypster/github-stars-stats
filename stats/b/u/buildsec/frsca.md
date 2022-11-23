@@ -1,6 +1,6 @@
 # buildsec/frsca - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 131 | 26 | 
 | 2022-11-21 | 131 | 26 | 
 | 2022-11-20 | 131 | 26 | 
 | 2022-11-19 | 131 | 26 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 120 | 25 | 
 | 2022-10-25 | 120 | 25 | 
 | 2022-10-24 | 118 | 23 | 
-| 2022-10-23 | 117 | 23 | 
 

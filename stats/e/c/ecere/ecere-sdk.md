@@ -1,10 +1,10 @@
 # ecere/ecere-sdk - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 90
 
-★ Stars: 301
+★ Stars: 302
 
 [Open repository](https://github.com/ecere/ecere-sdk)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 302 | 90 | 
 | 2022-11-21 | 301 | 90 | 
 | 2022-11-20 | 301 | 90 | 
 | 2022-11-19 | 300 | 90 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 298 | 90 | 
 | 2022-10-25 | 298 | 90 | 
 | 2022-10-24 | 298 | 90 | 
-| 2022-10-23 | 298 | 90 | 
 

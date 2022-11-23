@@ -1,10 +1,10 @@
 # cakephp/cakephp - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 3460
+☋ Forks: 3459
 
-★ Stars: 8574
+★ Stars: 8576
 
 [Open repository](https://github.com/cakephp/cakephp)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 8576 | 3459 | 
 | 2022-11-22 | 8574 | 3460 | 
 | 2022-11-21 | 8574 | 3460 | 
 | 2022-11-20 | 8574 | 3462 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-26 | 8559 | 3461 | 
 | 2022-10-25 | 8558 | 3459 | 
 | 2022-10-24 | 8557 | 3459 | 
-| 2022-10-23 | 8557 | 3459 | 
 

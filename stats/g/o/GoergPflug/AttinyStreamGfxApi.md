@@ -1,6 +1,6 @@
 # GoergPflug/AttinyStreamGfxApi - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 113 | 4 | 
 | 2022-11-22 | 113 | 4 | 
 | 2022-11-21 | 113 | 4 | 
 | 2022-11-20 | 113 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-26 | 109 | 4 | 
 | 2022-10-25 | 109 | 4 | 
 | 2022-10-24 | 109 | 4 | 
-| 2022-10-23 | 109 | 4 | 
 

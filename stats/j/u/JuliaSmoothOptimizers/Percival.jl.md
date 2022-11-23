@@ -1,10 +1,10 @@
 # JuliaSmoothOptimizers/Percival.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 12
 
-★ Stars: 41
+★ Stars: 42
 
 [Open repository](https://github.com/JuliaSmoothOptimizers/Percival.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 42 | 12 | 
 | 2022-11-21 | 41 | 12 | 
 | 2022-11-20 | 41 | 12 | 
 | 2022-11-19 | 41 | 12 | 

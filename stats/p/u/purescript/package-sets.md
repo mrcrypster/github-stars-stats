@@ -1,6 +1,6 @@
 # purescript/package-sets - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 320
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 197 | 320 | 
 | 2022-11-22 | 197 | 320 | 
 | 2022-11-21 | 197 | 320 | 
 | 2022-11-19 | 197 | 320 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-26 | 197 | 320 | 
 | 2022-10-25 | 197 | 320 | 
 | 2022-10-24 | 197 | 320 | 
-| 2022-10-23 | 197 | 320 | 
 

@@ -1,10 +1,10 @@
 # Biktorgj/pinephone_modem_sdk - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 52
 
-★ Stars: 400
+★ Stars: 399
 
 [Open repository](https://github.com/Biktorgj/pinephone_modem_sdk)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 399 | 52 | 
 | 2022-11-21 | 400 | 52 | 
 | 2022-11-20 | 400 | 52 | 
 | 2022-11-19 | 400 | 52 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 392 | 49 | 
 | 2022-10-25 | 392 | 49 | 
 | 2022-10-24 | 392 | 49 | 
-| 2022-10-23 | 392 | 49 | 
 

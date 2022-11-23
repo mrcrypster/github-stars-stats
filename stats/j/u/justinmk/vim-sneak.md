@@ -1,10 +1,10 @@
 # justinmk/vim-sneak - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 78
 
-★ Stars: 2829
+★ Stars: 2830
 
 [Open repository](https://github.com/justinmk/vim-sneak)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 2830 | 78 | 
 | 2022-11-21 | 2829 | 78 | 
 | 2022-11-20 | 2829 | 78 | 
 | 2022-11-19 | 2827 | 78 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 2805 | 79 | 
 | 2022-10-25 | 2803 | 79 | 
 | 2022-10-24 | 2803 | 78 | 
-| 2022-10-23 | 2803 | 78 | 
 

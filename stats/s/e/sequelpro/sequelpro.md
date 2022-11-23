@@ -1,10 +1,10 @@
 # sequelpro/sequelpro - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 850
+☋ Forks: 851
 
-★ Stars: 8773
+★ Stars: 8774
 
 [Open repository](https://github.com/sequelpro/sequelpro)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 8774 | 851 | 
 | 2022-11-22 | 8773 | 850 | 
 | 2022-11-21 | 8773 | 850 | 
 | 2022-11-19 | 8772 | 850 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-26 | 8758 | 854 | 
 | 2022-10-25 | 8759 | 855 | 
 | 2022-10-24 | 8756 | 855 | 
-| 2022-10-23 | 8753 | 855 | 
 

@@ -1,6 +1,6 @@
 # ThomasYeoLab/CBIG - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 320
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 405 | 320 | 
 | 2022-11-21 | 405 | 320 | 
 | 2022-11-20 | 404 | 317 | 
 | 2022-11-19 | 404 | 317 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 393 | 314 | 
 | 2022-10-25 | 392 | 314 | 
 | 2022-10-24 | 392 | 314 | 
-| 2022-10-23 | 392 | 314 | 
 

@@ -1,6 +1,6 @@
 # pal1000/mesa-dist-win - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 483 | 55 | 
 | 2022-11-21 | 483 | 55 | 
 | 2022-11-20 | 484 | 55 | 
 | 2022-11-19 | 480 | 55 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 468 | 53 | 
 | 2022-10-25 | 468 | 53 | 
 | 2022-10-24 | 467 | 53 | 
-| 2022-10-23 | 467 | 52 | 
 

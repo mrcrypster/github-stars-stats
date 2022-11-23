@@ -1,10 +1,10 @@
 # vuejs/vue-cli - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 6381
+☋ Forks: 6378
 
-★ Stars: 29528
+★ Stars: 29530
 
 [Open repository](https://github.com/vuejs/vue-cli)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 29530 | 6378 | 
 | 2022-11-21 | 29528 | 6381 | 
 | 2022-11-20 | 29529 | 6380 | 
 | 2022-11-19 | 29528 | 6380 | 

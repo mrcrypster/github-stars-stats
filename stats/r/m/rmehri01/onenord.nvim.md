@@ -1,10 +1,10 @@
 # rmehri01/onenord.nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 23
 
-★ Stars: 293
+★ Stars: 294
 
 [Open repository](https://github.com/rmehri01/onenord.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 294 | 23 | 
 | 2022-11-21 | 293 | 23 | 
 | 2022-11-20 | 293 | 23 | 
 | 2022-11-19 | 294 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-27 | 291 | 22 | 
 | 2022-10-26 | 288 | 23 | 
 | 2022-10-25 | 288 | 23 | 
-| 2022-10-24 | 288 | 23 | 
 

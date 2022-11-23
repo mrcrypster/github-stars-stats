@@ -1,6 +1,6 @@
 # KhaosT/MacVM - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 90
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 1190 | 90 | 
 | 2022-11-21 | 1190 | 90 | 
 | 2022-11-20 | 1189 | 90 | 
 | 2022-11-19 | 1188 | 90 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 1183 | 90 | 
 | 2022-10-25 | 1183 | 90 | 
 | 2022-10-24 | 1181 | 90 | 
-| 2022-10-23 | 1180 | 90 | 
 

@@ -1,6 +1,6 @@
 # chrisamaphone/interactive-lp - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 249 | 20 | 
 | 2022-11-21 | 249 | 20 | 
 | 2022-11-20 | 249 | 20 | 
 | 2022-11-19 | 249 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 249 | 20 | 
 | 2022-10-25 | 249 | 20 | 
 | 2022-10-24 | 249 | 20 | 
-| 2022-10-23 | 249 | 20 | 
 

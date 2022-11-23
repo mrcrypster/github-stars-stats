@@ -1,6 +1,6 @@
 # radicle-dev/radicle-upstream - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 627 | 59 | 
 | 2022-11-21 | 627 | 59 | 
 | 2022-11-20 | 627 | 59 | 
 | 2022-11-19 | 627 | 59 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 627 | 59 | 
 | 2022-10-25 | 627 | 59 | 
 | 2022-10-24 | 627 | 59 | 
-| 2022-10-23 | 627 | 59 | 
 

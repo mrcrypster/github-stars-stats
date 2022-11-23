@@ -1,10 +1,10 @@
 # LEGO/kong-aws-request-signing - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 4
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/LEGO/kong-aws-request-signing)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 35 | 4 | 
 | 2022-11-21 | 34 | 4 | 
 | 2022-11-20 | 34 | 4 | 
 | 2022-11-19 | 34 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 34 | 4 | 
 | 2022-10-25 | 33 | 4 | 
 | 2022-10-24 | 33 | 4 | 
-| 2022-10-23 | 33 | 4 | 
 

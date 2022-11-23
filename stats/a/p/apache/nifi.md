@@ -1,10 +1,10 @@
 # apache/nifi - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 2375
+☋ Forks: 2376
 
-★ Stars: 3511
+★ Stars: 3512
 
 [Open repository](https://github.com/apache/nifi)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 3512 | 2376 | 
 | 2022-11-21 | 3511 | 2375 | 
 | 2022-11-20 | 3510 | 2374 | 
 | 2022-11-19 | 3510 | 2374 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 3479 | 2363 | 
 | 2022-10-25 | 3473 | 2360 | 
 | 2022-10-24 | 3473 | 2359 | 
-| 2022-10-23 | 3472 | 2359 | 
 

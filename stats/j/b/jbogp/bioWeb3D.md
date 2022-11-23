@@ -1,6 +1,6 @@
 # jbogp/bioWeb3D - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 22 | 10 | 
 | 2022-11-21 | 22 | 10 | 
 | 2022-11-20 | 22 | 10 | 
 | 2022-11-19 | 22 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-27 | 22 | 10 | 
 | 2022-10-26 | 22 | 10 | 
 | 2022-10-25 | 22 | 10 | 
-| 2022-10-24 | 22 | 10 | 
 

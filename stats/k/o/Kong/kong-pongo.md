@@ -1,10 +1,10 @@
 # Kong/kong-pongo - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 42
 
-★ Stars: 99
+★ Stars: 100
 
 [Open repository](https://github.com/Kong/kong-pongo)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 100 | 42 | 
 | 2022-11-21 | 99 | 42 | 
 | 2022-11-20 | 99 | 42 | 
 | 2022-11-19 | 99 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 93 | 41 | 
 | 2022-10-25 | 93 | 41 | 
 | 2022-10-24 | 93 | 41 | 
-| 2022-10-23 | 93 | 41 | 
 

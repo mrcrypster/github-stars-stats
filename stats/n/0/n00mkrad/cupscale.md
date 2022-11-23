@@ -1,10 +1,10 @@
 # n00mkrad/cupscale - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 81
 
-★ Stars: 1505
+★ Stars: 1506
 
 [Open repository](https://github.com/n00mkrad/cupscale)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 1506 | 81 | 
 | 2022-11-21 | 1505 | 81 | 
 | 2022-11-20 | 1503 | 81 | 
 | 2022-11-19 | 1501 | 81 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 1433 | 80 | 
 | 2022-10-25 | 1433 | 80 | 
 | 2022-10-24 | 1432 | 80 | 
-| 2022-10-23 | 1425 | 78 | 
 

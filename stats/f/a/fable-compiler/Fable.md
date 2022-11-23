@@ -1,10 +1,10 @@
 # fable-compiler/Fable - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 274
 
-★ Stars: 2510
+★ Stars: 2511
 
 [Open repository](https://github.com/fable-compiler/Fable)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 2511 | 274 | 
 | 2022-11-21 | 2510 | 274 | 
 | 2022-11-20 | 2510 | 274 | 
 | 2022-11-19 | 2510 | 274 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 2492 | 273 | 
 | 2022-10-25 | 2492 | 273 | 
 | 2022-10-24 | 2489 | 273 | 
-| 2022-10-23 | 2486 | 273 | 
 

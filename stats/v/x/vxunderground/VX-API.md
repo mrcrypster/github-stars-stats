@@ -1,6 +1,6 @@
 # vxunderground/VX-API - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 112
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 627 | 112 | 
 | 2022-11-21 | 627 | 112 | 
 | 2022-11-20 | 626 | 111 | 
 | 2022-11-19 | 626 | 110 | 

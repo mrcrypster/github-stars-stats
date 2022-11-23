@@ -1,10 +1,10 @@
 # rafi/vim-config - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 468
+☋ Forks: 467
 
-★ Stars: 1647
+★ Stars: 1649
 
 [Open repository](https://github.com/rafi/vim-config)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 1649 | 467 | 
 | 2022-11-21 | 1647 | 468 | 
 | 2022-11-20 | 1646 | 468 | 
 | 2022-11-19 | 1644 | 469 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 1635 | 469 | 
 | 2022-10-25 | 1634 | 469 | 
 | 2022-10-24 | 1634 | 469 | 
-| 2022-10-23 | 1634 | 470 | 
 

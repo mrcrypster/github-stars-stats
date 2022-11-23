@@ -1,6 +1,6 @@
 # Lameguy64/n00brom - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 26 | 4 | 
 | 2022-11-21 | 26 | 4 | 
 | 2022-11-20 | 26 | 4 | 
 | 2022-11-19 | 26 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 26 | 3 | 
 | 2022-10-25 | 26 | 3 | 
 | 2022-10-24 | 26 | 3 | 
-| 2022-10-23 | 26 | 3 | 
 

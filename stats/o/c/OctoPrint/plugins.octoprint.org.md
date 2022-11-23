@@ -1,6 +1,6 @@
 # OctoPrint/plugins.octoprint.org - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 295
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 101 | 295 | 
 | 2022-11-21 | 101 | 295 | 
 | 2022-11-20 | 101 | 295 | 
 | 2022-11-19 | 101 | 295 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 100 | 295 | 
 | 2022-10-25 | 100 | 295 | 
 | 2022-10-24 | 100 | 295 | 
-| 2022-10-23 | 100 | 295 | 
 

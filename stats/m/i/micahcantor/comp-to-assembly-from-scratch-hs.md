@@ -1,10 +1,10 @@
 # micahcantor/comp-to-assembly-from-scratch-hs - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 0
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/micahcantor/comp-to-assembly-from-scratch-hs)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 14 | - | 
 | 2022-11-21 | 13 | - | 
 | 2022-11-20 | 13 | - | 
 | 2022-11-19 | 13 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 13 | - | 
 | 2022-10-25 | 13 | - | 
 | 2022-10-24 | 13 | - | 
-| 2022-10-23 | 13 | - | 
 

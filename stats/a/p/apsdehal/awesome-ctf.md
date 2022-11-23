@@ -1,10 +1,10 @@
 # apsdehal/awesome-ctf - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 1366
 
-★ Stars: 7494
+★ Stars: 7499
 
 [Open repository](https://github.com/apsdehal/awesome-ctf)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 7499 | 1366 | 
 | 2022-11-21 | 7494 | 1366 | 
 | 2022-11-20 | 7490 | 1366 | 
 | 2022-11-19 | 7484 | 1365 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 7416 | 1365 | 
 | 2022-10-25 | 7407 | 1365 | 
 | 2022-10-24 | 7401 | 1364 | 
-| 2022-10-23 | 7399 | 1363 | 
 

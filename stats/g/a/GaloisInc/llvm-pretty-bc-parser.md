@@ -1,6 +1,6 @@
 # GaloisInc/llvm-pretty-bc-parser - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 44 | 6 | 
 | 2022-11-21 | 44 | 6 | 
 | 2022-11-20 | 44 | 6 | 
 | 2022-11-19 | 44 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 44 | 6 | 
 | 2022-10-25 | 44 | 6 | 
 | 2022-10-24 | 44 | 6 | 
-| 2022-10-23 | 44 | 6 | 
 

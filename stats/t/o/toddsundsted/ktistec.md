@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 22
 
-☋ Forks: 12
+☋ Forks: 13
 
-★ Stars: 169
+★ Stars: 191
 
 [Open repository](https://github.com/toddsundsted/ktistec)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-22 | 169 | 12 | 
+| 2022-11-22 | 191 | 13 | 
 | 2022-11-21 | 168 | 12 | 
 | 2022-11-20 | 141 | 11 | 
 | 2022-11-19 | 142 | 10 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 104 | 4 | 
 | 2022-10-26 | 104 | 4 | 
 | 2022-10-25 | 103 | 4 | 
-| 2022-10-24 | 103 | 4 | 
 

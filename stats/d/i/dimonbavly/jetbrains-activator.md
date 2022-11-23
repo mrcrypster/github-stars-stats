@@ -1,10 +1,10 @@
 # dimonbavly/jetbrains-activator - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 15
+☋ Forks: 16
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/dimonbavly/jetbrains-activator)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 16 | 16 | 
 | 2022-11-21 | 15 | 15 | 
 | 2022-11-20 | 15 | 15 | 
 | 2022-11-19 | 14 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-27 | 12 | 14 | 
 | 2022-10-26 | 12 | 14 | 
 | 2022-10-25 | 12 | 14 | 
-| 2022-10-24 | 12 | 14 | 
 

@@ -1,10 +1,10 @@
 # vercel/swr - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 966
+☋ Forks: 968
 
-★ Stars: 24642
+★ Stars: 24652
 
 [Open repository](https://github.com/vercel/swr)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 24652 | 968 | 
 | 2022-11-21 | 24642 | 966 | 
 | 2022-11-20 | 24632 | 964 | 
 | 2022-11-19 | 24624 | 964 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 24364 | 945 | 
 | 2022-10-25 | 24349 | 944 | 
 | 2022-10-24 | 24341 | 943 | 
-| 2022-10-23 | 24331 | 944 | 
 

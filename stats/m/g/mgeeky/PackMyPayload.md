@@ -1,10 +1,10 @@
 # mgeeky/PackMyPayload - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 92
 
-★ Stars: 551
+★ Stars: 557
 
 [Open repository](https://github.com/mgeeky/PackMyPayload)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 557 | 92 | 
 | 2022-11-21 | 551 | 92 | 
 | 2022-11-20 | 536 | 90 | 
 | 2022-11-19 | 534 | 88 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-27 | 520 | 84 | 
 | 2022-10-26 | 518 | 83 | 
 | 2022-10-25 | 518 | 83 | 
-| 2022-10-24 | 516 | 83 | 
 

@@ -1,10 +1,10 @@
 # KennethJudd/CompEcon2020 - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 173
 
-★ Stars: 383
+★ Stars: 384
 
 [Open repository](https://github.com/KennethJudd/CompEcon2020)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 384 | 173 | 
 | 2022-11-21 | 383 | 173 | 
 | 2022-11-20 | 383 | 173 | 
 | 2022-11-19 | 383 | 173 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 381 | 172 | 
 | 2022-10-25 | 381 | 172 | 
 | 2022-10-24 | 381 | 172 | 
-| 2022-10-23 | 381 | 172 | 
 

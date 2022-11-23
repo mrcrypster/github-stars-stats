@@ -1,8 +1,8 @@
 # Tamsiree/RxTool - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 2851
+☋ Forks: 2850
 
 ★ Stars: 11839
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 11839 | 2850 | 
 | 2022-11-21 | 11839 | 2851 | 
 | 2022-11-20 | 11838 | 2850 | 
 | 2022-11-19 | 11837 | 2848 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 11821 | 2850 | 
 | 2022-10-25 | 11821 | 2850 | 
 | 2022-10-24 | 11820 | 2850 | 
-| 2022-10-23 | 11820 | 2850 | 
 

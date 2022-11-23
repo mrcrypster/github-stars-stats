@@ -1,10 +1,10 @@
 # davidwernhart/AlDente - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 221
 
-★ Stars: 5578
+★ Stars: 5579
 
 [Open repository](https://github.com/davidwernhart/AlDente)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 5579 | 221 | 
 | 2022-11-21 | 5578 | 221 | 
 | 2022-11-20 | 5573 | 221 | 
 | 2022-11-19 | 5572 | 221 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 5450 | 218 | 
 | 2022-10-25 | 5442 | 218 | 
 | 2022-10-24 | 5409 | 218 | 
-| 2022-10-23 | 5394 | 217 | 
 

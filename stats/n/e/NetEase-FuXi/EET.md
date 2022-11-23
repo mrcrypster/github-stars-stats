@@ -1,6 +1,6 @@
 # NetEase-FuXi/EET - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 201 | 41 | 
 | 2022-11-21 | 201 | 41 | 
 | 2022-11-20 | 201 | 41 | 
 | 2022-11-19 | 201 | 41 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-27 | 196 | 41 | 
 | 2022-10-26 | 196 | 41 | 
 | 2022-10-25 | 196 | 41 | 
-| 2022-10-24 | 196 | 41 | 
 

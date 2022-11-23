@@ -1,10 +1,10 @@
 # JSQLParser/JSqlParser - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 1163
 
-★ Stars: 4051
+★ Stars: 4053
 
 [Open repository](https://github.com/JSQLParser/JSqlParser)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 4053 | 1163 | 
 | 2022-11-21 | 4051 | 1163 | 
 | 2022-11-20 | 4050 | 1163 | 
 | 2022-11-19 | 4048 | 1163 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 4007 | 1162 | 
 | 2022-10-25 | 4007 | 1164 | 
 | 2022-10-24 | 4002 | 1164 | 
-| 2022-10-23 | 4000 | 1165 | 
 

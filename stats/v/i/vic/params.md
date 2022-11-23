@@ -1,6 +1,6 @@
 # vic/params - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 309 | 33 | 
 | 2022-11-21 | 309 | 33 | 
 | 2022-11-20 | 308 | 33 | 
 | 2022-11-19 | 308 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 307 | 33 | 
 | 2022-10-25 | 307 | 33 | 
 | 2022-10-24 | 307 | 33 | 
-| 2022-10-23 | 307 | 33 | 
 

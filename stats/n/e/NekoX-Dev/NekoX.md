@@ -1,10 +1,10 @@
 # NekoX-Dev/NekoX - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 287
+☋ Forks: 288
 
-★ Stars: 3244
+★ Stars: 3247
 
 [Open repository](https://github.com/NekoX-Dev/NekoX)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 3247 | 288 | 
 | 2022-11-21 | 3244 | 287 | 
 | 2022-11-20 | 3238 | 287 | 
 | 2022-11-19 | 3232 | 287 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 3049 | 277 | 
 | 2022-10-25 | 3045 | 276 | 
 | 2022-10-24 | 3040 | 276 | 
-| 2022-10-23 | 3037 | 276 | 
 

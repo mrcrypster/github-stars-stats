@@ -1,10 +1,10 @@
 # hujie-frank/SENet - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 819
+☋ Forks: 820
 
-★ Stars: 3046
+★ Stars: 3047
 
 [Open repository](https://github.com/hujie-frank/SENet)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 3047 | 820 | 
 | 2022-11-21 | 3046 | 819 | 
 | 2022-11-20 | 3046 | 819 | 
 | 2022-11-19 | 3044 | 818 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 3029 | 815 | 
 | 2022-10-25 | 3029 | 815 | 
 | 2022-10-24 | 3029 | 815 | 
-| 2022-10-23 | 3027 | 815 | 
 

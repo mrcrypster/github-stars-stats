@@ -1,8 +1,8 @@
 # genepi/nf-gwas - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 7
+☋ Forks: 8
 
 ★ Stars: 25
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 25 | 8 | 
 | 2022-11-21 | 25 | 7 | 
 | 2022-11-20 | 25 | 7 | 
 | 2022-11-19 | 25 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 25 | 7 | 
 | 2022-10-25 | 25 | 7 | 
 | 2022-10-24 | 25 | 7 | 
-| 2022-10-23 | 25 | 7 | 
 

@@ -1,6 +1,6 @@
 # dark-kingA/superSearchPlus - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 202 | 18 | 
 | 2022-11-21 | 202 | 18 | 
 | 2022-11-20 | 202 | 18 | 
 | 2022-11-19 | 202 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 170 | 14 | 
 | 2022-10-25 | 169 | 14 | 
 | 2022-10-24 | 159 | 14 | 
-| 2022-10-23 | 144 | 12 | 
 

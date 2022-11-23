@@ -1,10 +1,10 @@
 # kubeslice/kubeslice - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 2
 
-★ Stars: 41
+★ Stars: 42
 
 [Open repository](https://github.com/kubeslice/kubeslice)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 42 | 2 | 
 | 2022-11-21 | 41 | 2 | 
 | 2022-11-20 | 41 | 2 | 
 | 2022-11-19 | 41 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 39 | 2 | 
 | 2022-10-25 | 38 | 2 | 
 | 2022-10-24 | 38 | 2 | 
-| 2022-10-23 | 38 | 2 | 
 

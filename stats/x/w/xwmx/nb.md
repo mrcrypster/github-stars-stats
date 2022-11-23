@@ -1,10 +1,10 @@
 # xwmx/nb - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 135
 
-★ Stars: 4922
+★ Stars: 4924
 
 [Open repository](https://github.com/xwmx/nb)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 4924 | 135 | 
 | 2022-11-21 | 4922 | 135 | 
 | 2022-11-20 | 4920 | 135 | 
 | 2022-11-19 | 4917 | 135 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 4851 | 133 | 
 | 2022-10-25 | 4849 | 133 | 
 | 2022-10-24 | 4846 | 132 | 
-| 2022-10-23 | 4843 | 132 | 
 

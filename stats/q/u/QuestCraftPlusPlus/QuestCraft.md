@@ -1,10 +1,10 @@
 # QuestCraftPlusPlus/QuestCraft - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 161
 
-★ Stars: 449
+★ Stars: 450
 
 [Open repository](https://github.com/QuestCraftPlusPlus/QuestCraft)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 450 | 161 | 
 | 2022-11-21 | 449 | 161 | 
 | 2022-11-20 | 448 | 161 | 
 | 2022-11-19 | 448 | 161 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 441 | 156 | 
 | 2022-10-25 | 440 | 156 | 
 | 2022-10-24 | 440 | 156 | 
-| 2022-10-23 | 440 | 156 | 
 

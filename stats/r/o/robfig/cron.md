@@ -1,10 +1,10 @@
 # robfig/cron - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 1444
 
-★ Stars: 10557
+★ Stars: 10563
 
 [Open repository](https://github.com/robfig/cron)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 10563 | 1444 | 
 | 2022-11-21 | 10557 | 1444 | 
 | 2022-11-20 | 10553 | 1445 | 
 | 2022-11-19 | 10551 | 1445 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 10424 | 1432 | 
 | 2022-10-25 | 10422 | 1432 | 
 | 2022-10-24 | 10415 | 1431 | 
-| 2022-10-23 | 10411 | 1429 | 
 

@@ -1,10 +1,10 @@
 # RetroPie/RetroPie-Setup - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 1370
 
-★ Stars: 9590
+★ Stars: 9591
 
 [Open repository](https://github.com/RetroPie/RetroPie-Setup)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 9591 | 1370 | 
 | 2022-11-21 | 9590 | 1370 | 
 | 2022-11-20 | 9588 | 1369 | 
 | 2022-11-19 | 9587 | 1370 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 9574 | 1370 | 
 | 2022-10-25 | 9574 | 1370 | 
 | 2022-10-24 | 9574 | 1370 | 
-| 2022-10-23 | 9571 | 1370 | 
 

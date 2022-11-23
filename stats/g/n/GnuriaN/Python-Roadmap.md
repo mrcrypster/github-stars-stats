@@ -1,10 +1,10 @@
 # GnuriaN/Python-Roadmap - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 196
+☋ Forks: 197
 
-★ Stars: 1130
+★ Stars: 1131
 
 [Open repository](https://github.com/GnuriaN/Python-Roadmap)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 1131 | 197 | 
 | 2022-11-21 | 1130 | 196 | 
 | 2022-11-20 | 1127 | 195 | 
 | 2022-11-19 | 1126 | 195 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-27 | 1039 | 181 | 
 | 2022-10-26 | 1039 | 181 | 
 | 2022-10-25 | 1038 | 181 | 
-| 2022-10-24 | 1037 | 180 | 
 

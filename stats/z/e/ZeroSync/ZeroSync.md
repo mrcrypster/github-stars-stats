@@ -1,6 +1,6 @@
 # ZeroSync/ZeroSync - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 145 | 13 | 
 | 2022-11-21 | 145 | 13 | 
 | 2022-11-20 | 144 | 13 | 
 | 2022-11-19 | 144 | 13 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 122 | 10 | 
 | 2022-10-25 | 120 | 9 | 
 | 2022-10-24 | 118 | 9 | 
-| 2022-10-23 | 114 | 7 | 
 

@@ -1,10 +1,10 @@
 # hypothesis/client - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 169
+☋ Forks: 170
 
-★ Stars: 536
+★ Stars: 537
 
 [Open repository](https://github.com/hypothesis/client)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 537 | 170 | 
 | 2022-11-21 | 536 | 169 | 
 | 2022-11-20 | 536 | 169 | 
 | 2022-11-19 | 536 | 169 | 

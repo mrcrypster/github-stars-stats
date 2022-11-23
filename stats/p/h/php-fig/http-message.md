@@ -1,6 +1,6 @@
 # php-fig/http-message - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 177
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 6643 | 177 | 
 | 2022-11-21 | 6643 | 177 | 
 | 2022-11-20 | 6642 | 177 | 
 | 2022-11-19 | 6642 | 177 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 6629 | 174 | 
 | 2022-10-25 | 6628 | 174 | 
 | 2022-10-24 | 6626 | 174 | 
-| 2022-10-23 | 6626 | 174 | 
 

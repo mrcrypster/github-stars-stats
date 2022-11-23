@@ -1,10 +1,10 @@
 # Taeyoung96/Awesome-LiDAR-IMU-calibration - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 8
+☋ Forks: 9
 
-★ Stars: 80
+★ Stars: 83
 
 [Open repository](https://github.com/Taeyoung96/Awesome-LiDAR-IMU-calibration)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 83 | 9 | 
 | 2022-11-21 | 80 | 8 | 
 | 2022-11-20 | 79 | 8 | 
 | 2022-11-19 | 79 | 8 | 

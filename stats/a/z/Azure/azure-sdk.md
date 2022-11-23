@@ -1,6 +1,6 @@
 # Azure/azure-sdk - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 233
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 340 | 233 | 
 | 2022-11-21 | 340 | 233 | 
 | 2022-11-20 | 340 | 233 | 
 | 2022-11-19 | 340 | 233 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 332 | 231 | 
 | 2022-10-25 | 332 | 231 | 
 | 2022-10-24 | 332 | 231 | 
-| 2022-10-23 | 331 | 231 | 
 

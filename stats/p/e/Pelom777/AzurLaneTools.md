@@ -1,6 +1,6 @@
 # Pelom777/AzurLaneTools - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 23 | 2 | 
 | 2022-11-21 | 23 | 2 | 
 | 2022-11-20 | 23 | 2 | 
 | 2022-11-19 | 23 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 19 | 2 | 
 | 2022-10-25 | 19 | 2 | 
 | 2022-10-24 | 19 | 2 | 
-| 2022-10-23 | 19 | 2 | 
 

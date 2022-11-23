@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-1-mock-cc-ramen-rater - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 1502
+☋ Forks: 1504
 
 ★ Stars: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 6 | 1504 | 
 | 2022-11-21 | 6 | 1502 | 
 | 2022-11-20 | 6 | 1500 | 
 | 2022-11-19 | 6 | 1500 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 6 | 1424 | 
 | 2022-10-25 | 6 | 1424 | 
 | 2022-10-24 | 6 | 1423 | 
-| 2022-10-23 | 6 | 1422 | 
 

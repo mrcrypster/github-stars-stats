@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 22
 
-☋ Forks: 8
+☋ Forks: 29
 
-★ Stars: 114
+★ Stars: 221
 
 [Open repository](https://github.com/chronicle/GCTI)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-22 | 114 | 8 | 
+| 2022-11-22 | 221 | 29 | 
 | 2022-11-21 | 102 | 6 | 
 | 2022-11-20 | 57 | 3 | 
 | 2022-11-19 | 41 | 3 | 

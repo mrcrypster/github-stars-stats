@@ -1,10 +1,10 @@
 # enkerewpo/OI-Public-Library - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 326
 
-★ Stars: 1068
+★ Stars: 1070
 
 [Open repository](https://github.com/enkerewpo/OI-Public-Library)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 1070 | 326 | 
 | 2022-11-21 | 1068 | 326 | 
 | 2022-11-20 | 1067 | 326 | 
 | 2022-11-19 | 1067 | 326 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 1061 | 326 | 
 | 2022-10-25 | 1060 | 326 | 
 | 2022-10-24 | 1060 | 326 | 
-| 2022-10-23 | 1060 | 326 | 
 

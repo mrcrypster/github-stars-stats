@@ -1,10 +1,10 @@
 # Azure/osdu-bicep - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 4
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/Azure/osdu-bicep)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 3 | 4 | 
 | 2022-11-21 | 2 | 4 | 
 | 2022-11-20 | 2 | 4 | 
 | 2022-11-19 | 2 | 4 | 

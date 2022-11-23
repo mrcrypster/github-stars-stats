@@ -1,10 +1,10 @@
 # skiselkov/BetterPushbackC - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 119
 
-★ Stars: 440
+★ Stars: 439
 
 [Open repository](https://github.com/skiselkov/BetterPushbackC)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 439 | 119 | 
 | 2022-11-21 | 440 | 119 | 
 | 2022-11-20 | 440 | 119 | 
 | 2022-11-19 | 439 | 119 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 436 | 117 | 
 | 2022-10-25 | 435 | 117 | 
 | 2022-10-24 | 434 | 117 | 
-| 2022-10-23 | 434 | 117 | 
 

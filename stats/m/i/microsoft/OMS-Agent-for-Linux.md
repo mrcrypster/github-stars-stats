@@ -1,8 +1,8 @@
 # microsoft/OMS-Agent-for-Linux - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 317
+☋ Forks: 318
 
 ★ Stars: 377
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 377 | 318 | 
 | 2022-11-21 | 377 | 317 | 
 | 2022-11-20 | 377 | 317 | 
 | 2022-11-19 | 377 | 317 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 374 | 317 | 
 | 2022-10-25 | 374 | 317 | 
 | 2022-10-24 | 375 | 316 | 
-| 2022-10-23 | 375 | 316 | 
 

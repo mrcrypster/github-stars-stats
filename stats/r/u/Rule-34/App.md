@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 22
 
 ☋ Forks: 8
 
-★ Stars: 53
+★ Stars: 54
 
 [Open repository](https://github.com/Rule-34/App)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-22 | 53 | 8 | 
+| 2022-11-22 | 54 | 8 | 
 | 2022-11-21 | 53 | 8 | 
 | 2022-11-20 | 53 | 8 | 
 | 2022-11-19 | 52 | 8 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-26 | 48 | 8 | 
 | 2022-10-25 | 48 | 8 | 
 | 2022-10-24 | 47 | 8 | 
-| 2022-10-23 | 47 | 8 | 
 

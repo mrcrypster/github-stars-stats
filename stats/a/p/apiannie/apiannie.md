@@ -1,10 +1,10 @@
 # apiannie/apiannie - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 15
 
-★ Stars: 178
+★ Stars: 177
 
 [Open repository](https://github.com/apiannie/apiannie)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 177 | 15 | 
 | 2022-11-21 | 178 | 15 | 
 | 2022-11-20 | 179 | 15 | 
 | 2022-11-19 | 179 | 15 | 

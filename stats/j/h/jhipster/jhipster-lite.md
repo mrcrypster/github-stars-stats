@@ -1,10 +1,10 @@
 # jhipster/jhipster-lite - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 114
 
-★ Stars: 233
+★ Stars: 235
 
 [Open repository](https://github.com/jhipster/jhipster-lite)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 235 | 114 | 
 | 2022-11-21 | 233 | 114 | 
 | 2022-11-20 | 232 | 114 | 
 | 2022-11-19 | 232 | 114 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 221 | 105 | 
 | 2022-10-25 | 219 | 102 | 
 | 2022-10-24 | 219 | 102 | 
-| 2022-10-23 | 217 | 100 | 
 

@@ -1,8 +1,8 @@
 # jishenghua/jshERP - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 779
+☋ Forks: 780
 
 ★ Stars: 1757
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 1757 | 780 | 
 | 2022-11-21 | 1757 | 779 | 
 | 2022-11-20 | 1757 | 780 | 
 | 2022-11-19 | 1756 | 780 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 1714 | 766 | 
 | 2022-10-25 | 1710 | 764 | 
 | 2022-10-24 | 1710 | 762 | 
-| 2022-10-23 | 1709 | 762 | 
 

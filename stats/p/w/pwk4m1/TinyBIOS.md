@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 22
 
 ☋ Forks: 9
 
-★ Stars: 263
+★ Stars: 267
 
 [Open repository](https://github.com/pwk4m1/TinyBIOS)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-22 | 263 | 9 | 
+| 2022-11-22 | 267 | 9 | 
 | 2022-11-21 | 262 | 9 | 
 

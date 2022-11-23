@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 22
 
 ☋ Forks: 179
 
-★ Stars: 2169
+★ Stars: 2170
 
 [Open repository](https://github.com/vinceliuice/grub2-themes)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-22 | 2169 | 179 | 
+| 2022-11-22 | 2170 | 179 | 
 | 2022-11-21 | 2169 | 179 | 
 | 2022-11-20 | 2164 | 180 | 
 | 2022-11-19 | 2159 | 180 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-26 | 2118 | 180 | 
 | 2022-10-25 | 2118 | 180 | 
 | 2022-10-24 | 2119 | 179 | 
-| 2022-10-23 | 2117 | 179 | 
 

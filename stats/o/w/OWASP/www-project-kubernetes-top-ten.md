@@ -1,10 +1,10 @@
 # OWASP/www-project-kubernetes-top-ten - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 55
+☋ Forks: 56
 
-★ Stars: 412
+★ Stars: 417
 
 [Open repository](https://github.com/OWASP/www-project-kubernetes-top-ten)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 417 | 56 | 
 | 2022-11-21 | 412 | 55 | 
 | 2022-11-20 | 410 | 55 | 
 | 2022-11-19 | 403 | 54 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 375 | 50 | 
 | 2022-10-25 | 370 | 49 | 
 | 2022-10-24 | 365 | 49 | 
-| 2022-10-23 | 364 | 48 | 
 

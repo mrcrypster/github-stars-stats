@@ -1,10 +1,10 @@
 # mikeroyal/Windows-11-Guide - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 25
 
-★ Stars: 370
+★ Stars: 371
 
 [Open repository](https://github.com/mikeroyal/Windows-11-Guide)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 371 | 25 | 
 | 2022-11-21 | 370 | 25 | 
 | 2022-11-20 | 367 | 25 | 
 | 2022-11-19 | 366 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 323 | 19 | 
 | 2022-10-25 | 321 | 19 | 
 | 2022-10-24 | 320 | 19 | 
-| 2022-10-23 | 317 | 18 | 
 

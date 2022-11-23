@@ -1,6 +1,6 @@
 # SpinalHDL/SpinalTemplateSbt - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 54 | 48 | 
 | 2022-11-21 | 54 | 48 | 
 | 2022-11-20 | 54 | 48 | 
 | 2022-11-19 | 54 | 48 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 53 | 48 | 
 | 2022-10-25 | 53 | 48 | 
 | 2022-10-24 | 53 | 48 | 
-| 2022-10-23 | 53 | 48 | 
 

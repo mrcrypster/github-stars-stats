@@ -1,10 +1,10 @@
 # oppsec/Pinkerton - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 27
 
-★ Stars: 176
+★ Stars: 177
 
 [Open repository](https://github.com/oppsec/Pinkerton)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 177 | 27 | 
 | 2022-11-21 | 176 | 27 | 
 | 2022-11-20 | 176 | 27 | 
 | 2022-11-19 | 176 | 27 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 174 | 27 | 
 | 2022-10-25 | 174 | 27 | 
 | 2022-10-24 | 173 | 27 | 
-| 2022-10-23 | 173 | 27 | 
 

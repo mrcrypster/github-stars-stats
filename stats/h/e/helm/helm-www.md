@@ -1,8 +1,8 @@
 # helm/helm-www - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 385
+☋ Forks: 386
 
 ★ Stars: 149
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 149 | 386 | 
 | 2022-11-21 | 149 | 385 | 
 | 2022-11-20 | 149 | 385 | 
 | 2022-11-19 | 149 | 385 | 

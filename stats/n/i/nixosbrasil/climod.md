@@ -1,10 +1,10 @@
 # nixosbrasil/climod - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 2
 
-★ Stars: 33
+★ Stars: 34
 
 [Open repository](https://github.com/nixosbrasil/climod)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 34 | 2 | 
 | 2022-11-21 | 33 | 2 | 
 | 2022-11-20 | 33 | 2 | 
 | 2022-11-19 | 33 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 33 | 2 | 
 | 2022-10-25 | 33 | 2 | 
 | 2022-10-24 | 33 | 2 | 
-| 2022-10-23 | 33 | 2 | 
 

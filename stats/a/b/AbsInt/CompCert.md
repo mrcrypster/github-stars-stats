@@ -1,6 +1,6 @@
 # AbsInt/CompCert - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 187
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 1489 | 187 | 
 | 2022-11-21 | 1489 | 187 | 
 | 2022-11-20 | 1489 | 187 | 
 | 2022-11-19 | 1489 | 187 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 1475 | 187 | 
 | 2022-10-25 | 1475 | 185 | 
 | 2022-10-24 | 1474 | 185 | 
-| 2022-10-23 | 1473 | 184 | 
 

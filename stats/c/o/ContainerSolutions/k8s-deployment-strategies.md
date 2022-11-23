@@ -1,8 +1,8 @@
 # ContainerSolutions/k8s-deployment-strategies - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 792
+☋ Forks: 793
 
 ★ Stars: 3042
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 3042 | 793 | 
 | 2022-11-21 | 3042 | 792 | 
 | 2022-11-20 | 3041 | 791 | 
 | 2022-11-19 | 3041 | 791 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 3025 | 782 | 
 | 2022-10-25 | 3024 | 782 | 
 | 2022-10-24 | 3024 | 781 | 
-| 2022-10-23 | 3022 | 780 | 
 

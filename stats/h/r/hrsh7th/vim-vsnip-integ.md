@@ -1,8 +1,8 @@
 # hrsh7th/vim-vsnip-integ - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 14
+☋ Forks: 13
 
 ★ Stars: 108
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 108 | 13 | 
 | 2022-11-21 | 108 | 14 | 
 | 2022-11-20 | 108 | 14 | 
 | 2022-11-19 | 108 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 103 | 12 | 
 | 2022-10-25 | 103 | 12 | 
 | 2022-10-24 | 103 | 12 | 
-| 2022-10-23 | 103 | 12 | 
 

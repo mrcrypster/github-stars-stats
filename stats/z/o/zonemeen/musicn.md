@@ -1,10 +1,10 @@
 # zonemeen/musicn - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 116
 
-★ Stars: 1139
+★ Stars: 1140
 
 [Open repository](https://github.com/zonemeen/musicn)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 1140 | 116 | 
 | 2022-11-21 | 1139 | 116 | 
 | 2022-11-20 | 1137 | 116 | 
 | 2022-11-19 | 1135 | 116 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 1098 | 110 | 
 | 2022-10-25 | 1096 | 110 | 
 | 2022-10-24 | 1096 | 110 | 
-| 2022-10-23 | 1096 | 110 | 
 

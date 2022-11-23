@@ -1,6 +1,6 @@
 # berkeley-cs164-2022/class-compiler-f22 - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 5 | 1 | 
 | 2022-11-21 | 5 | 1 | 
 | 2022-11-20 | 5 | 1 | 
 | 2022-11-19 | 5 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-27 | 5 | 1 | 
 | 2022-10-26 | 5 | 1 | 
 | 2022-10-25 | 4 | 1 | 
-| 2022-10-24 | 4 | 1 | 
 

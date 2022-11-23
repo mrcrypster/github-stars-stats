@@ -1,8 +1,8 @@
 # openfoodfacts/openfoodfacts-server - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 233
+☋ Forks: 234
 
 ★ Stars: 471
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 471 | 234 | 
 | 2022-11-21 | 471 | 233 | 
 | 2022-11-20 | 471 | 233 | 
 | 2022-11-19 | 471 | 233 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 466 | 231 | 
 | 2022-10-25 | 464 | 231 | 
 | 2022-10-24 | 463 | 229 | 
-| 2022-10-23 | 463 | 229 | 
 

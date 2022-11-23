@@ -1,10 +1,10 @@
 # zeeka-network/bazuka - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 413
+☋ Forks: 414
 
-★ Stars: 1026
+★ Stars: 1023
 
 [Open repository](https://github.com/zeeka-network/bazuka)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 1023 | 414 | 
 | 2022-11-21 | 1026 | 413 | 
 | 2022-11-20 | 1026 | 413 | 
 | 2022-11-19 | 1026 | 413 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 1013 | 396 | 
 | 2022-10-25 | 1011 | 392 | 
 | 2022-10-24 | 1010 | 392 | 
-| 2022-10-23 | 975 | 378 | 
 

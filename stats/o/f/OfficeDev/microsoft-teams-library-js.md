@@ -1,6 +1,6 @@
 # OfficeDev/microsoft-teams-library-js - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 159
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 325 | 159 | 
 | 2022-11-21 | 325 | 159 | 
 | 2022-11-20 | 325 | 159 | 
 | 2022-11-19 | 324 | 159 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 322 | 157 | 
 | 2022-10-25 | 321 | 155 | 
 | 2022-10-24 | 321 | 155 | 
-| 2022-10-23 | 321 | 155 | 
 

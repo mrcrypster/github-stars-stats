@@ -1,10 +1,10 @@
 # ffuf/ffuf - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 929
+☋ Forks: 930
 
-★ Stars: 8173
+★ Stars: 8181
 
 [Open repository](https://github.com/ffuf/ffuf)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 8181 | 930 | 
 | 2022-11-21 | 8173 | 929 | 
 | 2022-11-20 | 8163 | 929 | 
 | 2022-11-19 | 8162 | 928 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 8018 | 914 | 
 | 2022-10-25 | 8011 | 914 | 
 | 2022-10-24 | 8001 | 913 | 
-| 2022-10-23 | 7989 | 909 | 
 

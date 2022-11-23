@@ -1,10 +1,10 @@
 # jedisct1/libsodium - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 1631
+☋ Forks: 1632
 
-★ Stars: 10576
+★ Stars: 10580
 
 [Open repository](https://github.com/jedisct1/libsodium)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 10580 | 1632 | 
 | 2022-11-21 | 10576 | 1631 | 
 | 2022-11-20 | 10576 | 1631 | 
 | 2022-11-19 | 10573 | 1632 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 10534 | 1622 | 
 | 2022-10-25 | 10531 | 1622 | 
 | 2022-10-24 | 10523 | 1622 | 
-| 2022-10-23 | 10522 | 1623 | 
 

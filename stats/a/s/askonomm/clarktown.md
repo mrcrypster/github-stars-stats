@@ -1,6 +1,6 @@
 # askonomm/clarktown - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 70 | - | 
 | 2022-11-21 | 70 | - | 
 | 2022-11-20 | 71 | - | 
 | 2022-11-19 | 71 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 70 | - | 
 | 2022-10-25 | 70 | - | 
 | 2022-10-24 | 70 | - | 
-| 2022-10-23 | 70 | - | 
 

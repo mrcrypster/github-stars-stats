@@ -1,10 +1,10 @@
 # samczsun/ethereum-transaction-viewer-frontend - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 34
 
-★ Stars: 320
+★ Stars: 322
 
 [Open repository](https://github.com/samczsun/ethereum-transaction-viewer-frontend)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 322 | 34 | 
 | 2022-11-21 | 320 | 34 | 
 | 2022-11-20 | 320 | 33 | 
 | 2022-11-19 | 320 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 295 | 26 | 
 | 2022-10-25 | 294 | 25 | 
 | 2022-10-24 | 287 | 23 | 
-| 2022-10-23 | 284 | 21 | 
 

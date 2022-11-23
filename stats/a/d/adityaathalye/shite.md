@@ -1,6 +1,6 @@
 # adityaathalye/shite - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 82 | - | 
 | 2022-11-21 | 82 | - | 
 | 2022-11-20 | 81 | - | 
 | 2022-11-19 | 81 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-27 | 80 | - | 
 | 2022-10-26 | 80 | - | 
 | 2022-10-25 | 80 | - | 
-| 2022-10-24 | 80 | - | 
 

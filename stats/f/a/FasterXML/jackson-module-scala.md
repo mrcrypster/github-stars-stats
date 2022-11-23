@@ -1,6 +1,6 @@
 # FasterXML/jackson-module-scala - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 137
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 477 | 137 | 
 | 2022-11-21 | 477 | 137 | 
 | 2022-11-20 | 477 | 137 | 
 | 2022-11-19 | 477 | 137 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 476 | 138 | 
 | 2022-10-25 | 475 | 138 | 
 | 2022-10-24 | 475 | 138 | 
-| 2022-10-23 | 475 | 137 | 
 

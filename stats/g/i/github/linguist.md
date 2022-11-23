@@ -1,10 +1,10 @@
 # github/linguist - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 3835
+☋ Forks: 3836
 
-★ Stars: 10464
+★ Stars: 10465
 
 [Open repository](https://github.com/github/linguist)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 10465 | 3836 | 
 | 2022-11-21 | 10464 | 3835 | 
 | 2022-11-20 | 10461 | 3834 | 
 | 2022-11-19 | 10458 | 3831 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 10349 | 3788 | 
 | 2022-10-25 | 10340 | 3786 | 
 | 2022-10-24 | 10338 | 3784 | 
-| 2022-10-23 | 10335 | 3785 | 
 

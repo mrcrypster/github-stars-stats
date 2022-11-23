@@ -1,10 +1,10 @@
 # yanjiaxuan/TOMATOX - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 76
 
-★ Stars: 180
+★ Stars: 181
 
 [Open repository](https://github.com/yanjiaxuan/TOMATOX)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 181 | 76 | 
 | 2022-11-21 | 180 | 76 | 
 | 2022-11-20 | 180 | 76 | 
 | 2022-11-19 | 180 | 76 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-27 | 166 | 72 | 
 | 2022-10-26 | 166 | 72 | 
 | 2022-10-25 | 166 | 72 | 
-| 2022-10-24 | 165 | 72 | 
 

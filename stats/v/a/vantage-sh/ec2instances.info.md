@@ -1,6 +1,6 @@
 # vantage-sh/ec2instances.info - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 541
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 4048 | 541 | 
 | 2022-11-21 | 4048 | 541 | 
 | 2022-11-20 | 4046 | 541 | 
 | 2022-11-19 | 4044 | 541 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 4005 | 540 | 
 | 2022-10-25 | 4002 | 540 | 
 | 2022-10-24 | 3998 | 540 | 
-| 2022-10-23 | 3994 | 540 | 
 

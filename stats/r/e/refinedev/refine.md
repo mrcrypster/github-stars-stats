@@ -1,10 +1,10 @@
 # refinedev/refine - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 411
 
-★ Stars: 5753
+★ Stars: 5789
 
 [Open repository](https://github.com/refinedev/refine)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 5789 | 411 | 
 | 2022-11-21 | 5753 | 411 | 
 | 2022-11-20 | 5724 | 406 | 
 | 2022-11-19 | 5699 | 403 | 

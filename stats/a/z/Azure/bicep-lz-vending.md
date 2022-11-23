@@ -1,6 +1,6 @@
 # Azure/bicep-lz-vending - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 20 | 6 | 
 | 2022-11-21 | 20 | 6 | 
 | 2022-11-20 | 20 | 6 | 
 | 2022-11-19 | 20 | 6 | 

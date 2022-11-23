@@ -1,6 +1,6 @@
 # lvyufeng/step_into_mips - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 118
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 446 | 118 | 
 | 2022-11-21 | 446 | 118 | 
 | 2022-11-20 | 446 | 118 | 
 | 2022-11-19 | 446 | 118 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-27 | 440 | 115 | 
 | 2022-10-25 | 440 | 115 | 
 | 2022-10-24 | 439 | 115 | 
-| 2022-10-23 | 440 | 115 | 
 

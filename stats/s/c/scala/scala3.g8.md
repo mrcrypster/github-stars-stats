@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 22
 
 ☋ Forks: 47
 
-★ Stars: 86
+★ Stars: 87
 
 [Open repository](https://github.com/scala/scala3.g8)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-22 | 86 | 47 | 
+| 2022-11-22 | 87 | 47 | 
 | 2022-11-21 | 86 | 47 | 
 

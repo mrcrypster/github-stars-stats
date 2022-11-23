@@ -1,6 +1,6 @@
 # IDEACVR/MaskDINO - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 384 | 8 | 
 | 2022-11-21 | 384 | 8 | 
 | 2022-11-20 | 381 | 8 | 
 | 2022-11-19 | 381 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-27 | 363 | 7 | 
 | 2022-10-26 | 363 | 7 | 
 | 2022-10-25 | 363 | 7 | 
-| 2022-10-24 | 362 | 7 | 
 

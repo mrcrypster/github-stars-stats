@@ -1,6 +1,6 @@
 # BIMK/PlatEMO - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 368
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 907 | 368 | 
 | 2022-11-21 | 907 | 368 | 
 | 2022-11-20 | 906 | 368 | 
 | 2022-11-19 | 905 | 368 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 866 | 361 | 
 | 2022-10-25 | 865 | 360 | 
 | 2022-10-24 | 865 | 360 | 
-| 2022-10-23 | 865 | 360 | 
 

@@ -1,10 +1,10 @@
 # mdgrs-mei/FancyClearHost - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 1
 
-★ Stars: 42
+★ Stars: 44
 
 [Open repository](https://github.com/mdgrs-mei/FancyClearHost)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 44 | 1 | 
 | 2022-11-21 | 42 | 1 | 
 | 2022-11-20 | 42 | 1 | 
 | 2022-11-19 | 42 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 36 | 1 | 
 | 2022-10-25 | 36 | 1 | 
 | 2022-10-24 | 36 | 1 | 
-| 2022-10-23 | 35 | 1 | 
 

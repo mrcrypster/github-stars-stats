@@ -1,6 +1,6 @@
 # kicad-spice-library/KiCad-Spice-Library - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 121 | 35 | 
 | 2022-11-21 | 121 | 35 | 
 | 2022-11-20 | 121 | 35 | 
 | 2022-11-19 | 121 | 35 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 118 | 36 | 
 | 2022-10-25 | 117 | 36 | 
 | 2022-10-24 | 116 | 36 | 
-| 2022-10-23 | 116 | 36 | 
 

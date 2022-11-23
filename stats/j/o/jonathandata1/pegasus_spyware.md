@@ -1,6 +1,6 @@
 # jonathandata1/pegasus_spyware - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 444
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 1591 | 444 | 
+| 2022-11-22 | 1591 | 444 | 
 | 2022-11-21 | 1591 | 444 | 
 | 2022-11-20 | 1589 | 444 | 
 | 2022-11-19 | 1589 | 444 | 
@@ -41,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 1566 | 437 | 
 | 2022-10-25 | 1566 | 437 | 
 | 2022-10-24 | 1566 | 437 | 
-| 2022-10-23 | 1566 | 437 | 
 

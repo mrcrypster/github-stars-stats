@@ -1,8 +1,8 @@
 # thisislexar/Gitopia-Testnet - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 94
+☋ Forks: 98
 
 ★ Stars: 22
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 22 | 98 | 
 | 2022-11-21 | 22 | 94 | 
 | 2022-11-20 | 21 | 88 | 
 | 2022-11-19 | 20 | 88 | 

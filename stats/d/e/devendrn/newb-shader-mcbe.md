@@ -1,6 +1,6 @@
 # devendrn/newb-shader-mcbe - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 21 | 5 | 
 | 2022-11-21 | 21 | 5 | 
 | 2022-11-20 | 21 | 5 | 
 | 2022-11-19 | 21 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 20 | 5 | 
 | 2022-10-25 | 20 | 5 | 
 | 2022-10-24 | 20 | 5 | 
-| 2022-10-23 | 20 | 5 | 
 

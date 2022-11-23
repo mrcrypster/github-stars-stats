@@ -1,10 +1,10 @@
 # gitbucket/gitbucket - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 1244
 
-★ Stars: 8786
+★ Stars: 8788
 
 [Open repository](https://github.com/gitbucket/gitbucket)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 8788 | 1244 | 
 | 2022-11-21 | 8786 | 1244 | 
 | 2022-11-20 | 8786 | 1244 | 
 | 2022-11-19 | 8785 | 1243 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 8770 | 1241 | 
 | 2022-10-25 | 8769 | 1241 | 
 | 2022-10-24 | 8769 | 1241 | 
-| 2022-10-23 | 8769 | 1241 | 
 

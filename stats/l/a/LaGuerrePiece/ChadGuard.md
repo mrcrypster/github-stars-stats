@@ -1,10 +1,10 @@
 # LaGuerrePiece/ChadGuard - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 8
 
-★ Stars: 46
+★ Stars: 45
 
 [Open repository](https://github.com/LaGuerrePiece/ChadGuard)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 45 | 8 | 
 | 2022-11-21 | 46 | 8 | 
 | 2022-11-20 | 46 | 8 | 
 | 2022-11-19 | 46 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 46 | 8 | 
 | 2022-10-25 | 46 | 8 | 
 | 2022-10-24 | 46 | 8 | 
-| 2022-10-23 | 46 | 8 | 
 

@@ -1,10 +1,10 @@
 # TBD54566975/tbdex-whitepaper - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 42
 
-★ Stars: 577
+★ Stars: 578
 
 [Open repository](https://github.com/TBD54566975/tbdex-whitepaper)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 578 | 42 | 
 | 2022-11-21 | 577 | 42 | 
 | 2022-11-20 | 577 | 42 | 
 | 2022-11-19 | 576 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 573 | 42 | 
 | 2022-10-25 | 573 | 42 | 
 | 2022-10-24 | 573 | 42 | 
-| 2022-10-23 | 572 | 41 | 
 

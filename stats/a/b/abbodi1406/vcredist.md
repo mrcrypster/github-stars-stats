@@ -1,6 +1,6 @@
 # abbodi1406/vcredist - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 232
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 2905 | 232 | 
 | 2022-11-21 | 2905 | 232 | 
 | 2022-11-20 | 2901 | 232 | 
 | 2022-11-19 | 2898 | 232 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-27 | 2829 | 229 | 
 | 2022-10-26 | 2826 | 229 | 
 | 2022-10-25 | 2821 | 229 | 
-| 2022-10-24 | 2819 | 229 | 
 

@@ -1,6 +1,6 @@
 # behzatce/Cairo-NFT-Lending-Auction - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 20 | - | 
 | 2022-11-21 | 20 | - | 
 | 2022-11-20 | 20 | - | 
 | 2022-11-19 | 20 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-27 | 20 | - | 
 | 2022-10-25 | 20 | - | 
 | 2022-10-24 | 20 | - | 
-| 2022-10-23 | 20 | - | 
 

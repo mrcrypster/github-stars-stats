@@ -1,10 +1,10 @@
 # android/nowinandroid - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 993
+☋ Forks: 1001
 
-★ Stars: 8390
+★ Stars: 8414
 
 [Open repository](https://github.com/android/nowinandroid)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 8414 | 1001 | 
 | 2022-11-21 | 8390 | 993 | 
 | 2022-11-20 | 8358 | 989 | 
 | 2022-11-19 | 8332 | 985 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 7739 | 876 | 
 | 2022-10-25 | 7708 | 864 | 
 | 2022-10-24 | 7653 | 851 | 
-| 2022-10-23 | 7648 | 849 | 
 

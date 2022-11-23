@@ -1,6 +1,6 @@
 # starpos/develop-transaction-system - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 142 | 4 | 
 | 2022-11-21 | 142 | 4 | 
 | 2022-11-20 | 142 | 4 | 
 | 2022-11-19 | 142 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 141 | 4 | 
 | 2022-10-25 | 140 | 4 | 
 | 2022-10-24 | 140 | 4 | 
-| 2022-10-23 | 140 | 4 | 
 

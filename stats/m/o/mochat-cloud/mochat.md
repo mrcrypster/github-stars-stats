@@ -1,6 +1,6 @@
 # mochat-cloud/mochat - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 425
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 1811 | 425 | 
 | 2022-11-21 | 1811 | 425 | 
 | 2022-11-20 | 1811 | 425 | 
 | 2022-11-19 | 1811 | 425 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 1796 | 420 | 
 | 2022-10-25 | 1795 | 419 | 
 | 2022-10-24 | 1793 | 419 | 
-| 2022-10-23 | 1793 | 419 | 
 

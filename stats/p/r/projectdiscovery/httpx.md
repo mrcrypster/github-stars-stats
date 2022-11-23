@@ -1,10 +1,10 @@
 # projectdiscovery/httpx - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 527
 
-★ Stars: 4012
+★ Stars: 4020
 
 [Open repository](https://github.com/projectdiscovery/httpx)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 4020 | 527 | 
 | 2022-11-21 | 4012 | 527 | 
 | 2022-11-20 | 4002 | 526 | 
 | 2022-11-19 | 3998 | 526 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 3864 | 507 | 
 | 2022-10-25 | 3863 | 506 | 
 | 2022-10-24 | 3860 | 501 | 
-| 2022-10-23 | 3860 | 501 | 
 

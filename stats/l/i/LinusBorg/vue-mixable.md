@@ -1,10 +1,10 @@
 # LinusBorg/vue-mixable - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 8
 
-★ Stars: 267
+★ Stars: 268
 
 [Open repository](https://github.com/LinusBorg/vue-mixable)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 268 | 8 | 
 | 2022-11-21 | 267 | 8 | 
 | 2022-11-20 | 267 | 8 | 
 | 2022-11-19 | 267 | 8 | 

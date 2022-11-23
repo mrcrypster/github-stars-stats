@@ -1,10 +1,10 @@
 # LinkedInLearning/hands-on-java-3080245 - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 80
+☋ Forks: 90
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/LinkedInLearning/hands-on-java-3080245)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 5 | 90 | 
 | 2022-11-21 | 4 | 80 | 
 | 2022-11-20 | 4 | 67 | 
 | 2022-11-19 | 4 | 63 | 

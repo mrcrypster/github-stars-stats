@@ -1,6 +1,6 @@
 # PrideChung/FontAwesomeKit - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 315
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 2816 | 315 | 
 | 2022-11-21 | 2816 | 315 | 
 | 2022-11-20 | 2816 | 315 | 
 | 2022-11-19 | 2816 | 315 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-27 | 2813 | 315 | 
 | 2022-10-26 | 2813 | 315 | 
 | 2022-10-25 | 2813 | 315 | 
-| 2022-10-24 | 2813 | 315 | 
 

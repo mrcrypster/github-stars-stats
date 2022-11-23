@@ -1,6 +1,6 @@
 # apache/hbase-connectors - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 159
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 198 | 159 | 
 | 2022-11-21 | 198 | 159 | 
 | 2022-11-20 | 198 | 159 | 
 | 2022-11-19 | 198 | 158 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 198 | 158 | 
 | 2022-10-25 | 198 | 158 | 
 | 2022-10-24 | 198 | 158 | 
-| 2022-10-23 | 198 | 158 | 
 

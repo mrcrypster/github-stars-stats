@@ -1,10 +1,10 @@
 # rodrigorgtic/nlwcopa-mobile-components - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 60
 
-★ Stars: 131
+★ Stars: 132
 
 [Open repository](https://github.com/rodrigorgtic/nlwcopa-mobile-components)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 132 | 60 | 
 | 2022-11-21 | 131 | 60 | 
 | 2022-11-20 | 131 | 60 | 
 | 2022-11-19 | 131 | 60 | 

@@ -1,6 +1,6 @@
 # silentsignal/burp-text4shell - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 174 | 18 | 
 | 2022-11-21 | 174 | 18 | 
 | 2022-11-20 | 174 | 18 | 
 | 2022-11-19 | 174 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 146 | 17 | 
 | 2022-10-25 | 137 | 16 | 
 | 2022-10-24 | 132 | 15 | 
-| 2022-10-23 | 127 | 15 | 
 

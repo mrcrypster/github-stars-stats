@@ -1,10 +1,10 @@
 # sarveshrulz/nixos_config - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 1
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/sarveshrulz/nixos_config)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 14 | 1 | 
 | 2022-11-21 | 13 | 1 | 
 | 2022-11-20 | 13 | 1 | 
 | 2022-11-19 | 13 | 1 | 

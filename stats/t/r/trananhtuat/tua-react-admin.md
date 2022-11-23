@@ -1,6 +1,6 @@
 # trananhtuat/tua-react-admin - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 184
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 204 | 184 | 
 | 2022-11-21 | 204 | 184 | 
 | 2022-11-20 | 204 | 184 | 
 | 2022-11-19 | 204 | 184 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-27 | 204 | 182 | 
 | 2022-10-26 | 204 | 182 | 
 | 2022-10-25 | 204 | 182 | 
-| 2022-10-24 | 204 | 181 | 
 

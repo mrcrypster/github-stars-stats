@@ -1,6 +1,6 @@
 # davidgiven/cpm65 - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 128 | 5 | 
 | 2022-11-21 | 128 | 5 | 
 | 2022-11-20 | 127 | 5 | 
 | 2022-11-19 | 127 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 122 | 5 | 
 | 2022-10-25 | 121 | 3 | 
 | 2022-10-24 | 120 | 3 | 
-| 2022-10-23 | 120 | 3 | 
 

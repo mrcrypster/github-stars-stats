@@ -1,6 +1,6 @@
 # Silex/docker.el - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 70
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 632 | 70 | 
 | 2022-11-21 | 632 | 70 | 
 | 2022-11-20 | 632 | 70 | 
 | 2022-11-19 | 632 | 70 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 630 | 70 | 
 | 2022-10-25 | 630 | 70 | 
 | 2022-10-24 | 630 | 70 | 
-| 2022-10-23 | 630 | 70 | 
 

@@ -1,10 +1,10 @@
 # libAtoms/QUIP - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 101
 
-★ Stars: 256
+★ Stars: 257
 
 [Open repository](https://github.com/libAtoms/QUIP)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 257 | 101 | 
 | 2022-11-21 | 256 | 101 | 
 | 2022-11-20 | 256 | 101 | 
 | 2022-11-19 | 257 | 101 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 256 | 101 | 
 | 2022-10-25 | 256 | 101 | 
 | 2022-10-24 | 256 | 101 | 
-| 2022-10-23 | 256 | 101 | 
 

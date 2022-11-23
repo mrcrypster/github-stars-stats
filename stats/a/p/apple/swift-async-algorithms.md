@@ -1,10 +1,10 @@
 # apple/swift-async-algorithms - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 81
 
-★ Stars: 1810
+★ Stars: 1811
 
 [Open repository](https://github.com/apple/swift-async-algorithms)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 1811 | 81 | 
 | 2022-11-21 | 1810 | 81 | 
 | 2022-11-20 | 1805 | 80 | 
 | 2022-11-19 | 1805 | 80 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 1771 | 79 | 
 | 2022-10-25 | 1770 | 79 | 
 | 2022-10-24 | 1770 | 79 | 
-| 2022-10-23 | 1769 | 79 | 
 

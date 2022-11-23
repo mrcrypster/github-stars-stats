@@ -1,10 +1,10 @@
 # aelassas/wexflow - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 15
+☋ Forks: 18
 
-★ Stars: 69
+★ Stars: 70
 
 [Open repository](https://github.com/aelassas/wexflow)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 70 | 18 | 
 | 2022-11-21 | 69 | 15 | 
 | 2022-11-20 | 68 | 15 | 
 | 2022-11-19 | 68 | 15 | 

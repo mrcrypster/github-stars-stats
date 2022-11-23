@@ -1,10 +1,10 @@
 # GoogleCloudPlatform/golang-samples - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 1586
+☋ Forks: 1585
 
-★ Stars: 3656
+★ Stars: 3657
 
 [Open repository](https://github.com/GoogleCloudPlatform/golang-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 3657 | 1585 | 
 | 2022-11-21 | 3656 | 1586 | 
 | 2022-11-20 | 3656 | 1586 | 
 | 2022-11-19 | 3656 | 1586 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 3606 | 1571 | 
 | 2022-10-25 | 3605 | 1571 | 
 | 2022-10-24 | 3605 | 1571 | 
-| 2022-10-23 | 3605 | 1571 | 
 

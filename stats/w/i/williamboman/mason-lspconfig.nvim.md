@@ -1,6 +1,6 @@
 # williamboman/mason-lspconfig.nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 557 | 25 | 
 | 2022-11-21 | 557 | 25 | 
 | 2022-11-20 | 554 | 25 | 
 | 2022-11-19 | 549 | 24 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 480 | 18 | 
 | 2022-10-25 | 480 | 18 | 
 | 2022-10-24 | 472 | 18 | 
-| 2022-10-23 | 469 | 17 | 
 

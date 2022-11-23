@@ -1,10 +1,10 @@
 # cedarbdd/cedar - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 152
 
-★ Stars: 1190
+★ Stars: 1191
 
 [Open repository](https://github.com/cedarbdd/cedar)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 1191 | 152 | 
 | 2022-11-21 | 1190 | 152 | 
 | 2022-11-20 | 1190 | 152 | 
 | 2022-11-19 | 1190 | 152 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 1191 | 152 | 
 | 2022-10-25 | 1191 | 152 | 
 | 2022-10-24 | 1191 | 152 | 
-| 2022-10-23 | 1191 | 152 | 
 

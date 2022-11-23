@@ -1,10 +1,10 @@
 # CrazyMelody/v2ex_style - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 30
 
-★ Stars: 50
+★ Stars: 51
 
 [Open repository](https://github.com/CrazyMelody/v2ex_style)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 51 | 30 | 
 | 2022-11-21 | 50 | 30 | 
 | 2022-11-20 | 50 | 30 | 
 | 2022-11-19 | 50 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 50 | 29 | 
 | 2022-10-25 | 50 | 29 | 
 | 2022-10-24 | 50 | 29 | 
-| 2022-10-23 | 50 | 29 | 
 

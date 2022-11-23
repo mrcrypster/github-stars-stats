@@ -1,10 +1,10 @@
 # laravel/docs - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 4237
+☋ Forks: 4238
 
-★ Stars: 2551
+★ Stars: 2552
 
 [Open repository](https://github.com/laravel/docs)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 2552 | 4238 | 
 | 2022-11-21 | 2551 | 4237 | 
 | 2022-11-20 | 2551 | 4239 | 
 | 2022-11-19 | 2550 | 4240 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 2538 | 4216 | 
 | 2022-10-25 | 2537 | 4215 | 
 | 2022-10-24 | 2535 | 4212 | 
-| 2022-10-23 | 2534 | 4211 | 
 

@@ -1,6 +1,6 @@
 # sudhamshu091/32-Verilog-Mini-Projects - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 180 | 63 | 
 | 2022-11-21 | 180 | 63 | 
 | 2022-11-20 | 178 | 63 | 
 | 2022-11-19 | 178 | 63 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 158 | 63 | 
 | 2022-10-25 | 158 | 63 | 
 | 2022-10-24 | 158 | 63 | 
-| 2022-10-23 | 157 | 62 | 
 

@@ -1,10 +1,10 @@
 # smkplus/ShaderMan - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 173
 
-★ Stars: 1128
+★ Stars: 1130
 
 [Open repository](https://github.com/smkplus/ShaderMan)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 1130 | 173 | 
 | 2022-11-21 | 1128 | 173 | 
 | 2022-11-20 | 1128 | 173 | 
 | 2022-11-19 | 1129 | 173 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 1114 | 173 | 
 | 2022-10-25 | 1114 | 173 | 
 | 2022-10-24 | 1111 | 173 | 
-| 2022-10-23 | 1110 | 173 | 
 

@@ -1,10 +1,10 @@
 # CoderMJLee/MJRefresh - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 3559
 
-★ Stars: 13675
+★ Stars: 13676
 
 [Open repository](https://github.com/CoderMJLee/MJRefresh)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 13676 | 3559 | 
 | 2022-11-22 | 13675 | 3559 | 
 | 2022-11-21 | 13674 | 3559 | 
 | 2022-11-20 | 13674 | 3559 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-26 | 13666 | 3560 | 
 | 2022-10-25 | 13664 | 3560 | 
 | 2022-10-24 | 13664 | 3560 | 
-| 2022-10-23 | 13664 | 3559 | 
 

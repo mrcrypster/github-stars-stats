@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 22
 
-☋ Forks: 67
+☋ Forks: 74
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/RavensVenix/Free-RDP)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-22 | 4 | 67 | 
+| 2022-11-22 | 5 | 74 | 
 | 2022-11-21 | 4 | 65 | 
 | 2022-11-20 | 4 | 56 | 
 | 2022-11-19 | 4 | 39 | 

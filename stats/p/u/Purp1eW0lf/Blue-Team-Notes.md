@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 22
 
-☋ Forks: 101
+☋ Forks: 103
 
-★ Stars: 782
+★ Stars: 786
 
 [Open repository](https://github.com/Purp1eW0lf/Blue-Team-Notes)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-22 | 782 | 101 | 
+| 2022-11-22 | 786 | 103 | 
 | 2022-11-21 | 779 | 101 | 
 | 2022-11-20 | 665 | 96 | 
 

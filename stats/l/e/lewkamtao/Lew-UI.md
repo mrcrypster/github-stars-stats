@@ -1,6 +1,6 @@
 # lewkamtao/Lew-UI - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 726 | 48 | 
 | 2022-11-21 | 726 | 48 | 
 | 2022-11-20 | 726 | 48 | 
 | 2022-11-19 | 726 | 48 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 725 | 49 | 
 | 2022-10-25 | 724 | 49 | 
 | 2022-10-24 | 724 | 49 | 
-| 2022-10-23 | 724 | 48 | 
 

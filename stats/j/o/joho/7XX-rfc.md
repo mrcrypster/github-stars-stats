@@ -1,6 +1,6 @@
 # joho/7XX-rfc - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 280
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 4293 | 280 | 
 | 2022-11-21 | 4293 | 280 | 
 | 2022-11-20 | 4292 | 280 | 
 | 2022-11-19 | 4291 | 280 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 4287 | 280 | 
 | 2022-10-25 | 4287 | 280 | 
 | 2022-10-24 | 4287 | 280 | 
-| 2022-10-23 | 4286 | 280 | 
 

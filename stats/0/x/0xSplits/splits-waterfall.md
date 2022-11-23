@@ -1,10 +1,10 @@
 # 0xSplits/splits-waterfall - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 1
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/0xSplits/splits-waterfall)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 25 | 1 | 
 | 2022-11-21 | 24 | 1 | 
 | 2022-11-20 | 24 | 1 | 
 | 2022-11-19 | 24 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 20 | 1 | 
 | 2022-10-25 | 20 | 1 | 
 | 2022-10-24 | 20 | 1 | 
-| 2022-10-23 | 20 | 1 | 
 

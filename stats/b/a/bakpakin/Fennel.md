@@ -1,6 +1,6 @@
 # bakpakin/Fennel - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 102
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 1852 | 102 | 
 | 2022-11-21 | 1852 | 102 | 
 | 2022-11-20 | 1852 | 102 | 
 | 2022-11-19 | 1849 | 101 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 1823 | 101 | 
 | 2022-10-25 | 1824 | 101 | 
 | 2022-10-24 | 1824 | 101 | 
-| 2022-10-23 | 1823 | 101 | 
 

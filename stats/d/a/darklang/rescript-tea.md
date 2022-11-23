@@ -1,10 +1,10 @@
 # darklang/rescript-tea - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 6
 
-★ Stars: 68
+★ Stars: 70
 
 [Open repository](https://github.com/darklang/rescript-tea)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 70 | 6 | 
 | 2022-11-21 | 68 | 6 | 
 | 2022-11-20 | 68 | 6 | 
 | 2022-11-19 | 66 | 6 | 

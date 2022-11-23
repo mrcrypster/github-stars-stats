@@ -1,10 +1,10 @@
 # buildship-dev/nft-contracts - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 55
 
-★ Stars: 160
+★ Stars: 159
 
 [Open repository](https://github.com/buildship-dev/nft-contracts)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 159 | 55 | 
 | 2022-11-21 | 160 | 55 | 
 | 2022-11-20 | 160 | 55 | 
 | 2022-11-19 | 160 | 55 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 152 | 52 | 
 | 2022-10-25 | 151 | 52 | 
 | 2022-10-24 | 150 | 51 | 
-| 2022-10-23 | 149 | 51 | 
 

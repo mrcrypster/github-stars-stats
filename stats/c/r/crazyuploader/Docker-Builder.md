@@ -1,10 +1,10 @@
 # crazyuploader/Docker-Builder - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 0
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/crazyuploader/Docker-Builder)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 3 | - | 
 | 2022-11-21 | 2 | - | 
 | 2022-11-20 | 2 | - | 
 | 2022-11-19 | 2 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 2 | - | 
 | 2022-10-25 | 2 | - | 
 | 2022-10-24 | 2 | - | 
-| 2022-10-23 | 2 | - | 
 

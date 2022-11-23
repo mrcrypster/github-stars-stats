@@ -1,10 +1,10 @@
 # samjwill/nvim-unception - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 2
 
-★ Stars: 124
+★ Stars: 126
 
 [Open repository](https://github.com/samjwill/nvim-unception)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 126 | 2 | 
 | 2022-11-21 | 124 | 2 | 
 | 2022-11-20 | 121 | 2 | 
 | 2022-11-19 | 121 | 2 | 

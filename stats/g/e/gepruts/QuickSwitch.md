@@ -1,6 +1,6 @@
 # gepruts/QuickSwitch - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 127 | 16 | 
 | 2022-11-21 | 127 | 16 | 
 | 2022-11-20 | 126 | 16 | 
 | 2022-11-19 | 124 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-27 | 111 | 16 | 
 | 2022-10-26 | 111 | 16 | 
 | 2022-10-25 | 110 | 16 | 
-| 2022-10-24 | 110 | 16 | 
 

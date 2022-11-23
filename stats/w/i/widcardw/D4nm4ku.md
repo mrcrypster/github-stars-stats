@@ -1,6 +1,6 @@
 # widcardw/D4nm4ku - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 208 | 6 | 
 | 2022-11-21 | 208 | 6 | 
 | 2022-11-20 | 208 | 6 | 
 | 2022-11-19 | 208 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 204 | 5 | 
 | 2022-10-25 | 203 | 5 | 
 | 2022-10-24 | 203 | 5 | 
-| 2022-10-23 | 203 | 5 | 
 

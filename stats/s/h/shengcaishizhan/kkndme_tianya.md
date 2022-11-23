@@ -1,10 +1,10 @@
 # shengcaishizhan/kkndme_tianya - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 2541
+☋ Forks: 2544
 
-★ Stars: 12104
+★ Stars: 12122
 
 [Open repository](https://github.com/shengcaishizhan/kkndme_tianya)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 12122 | 2544 | 
 | 2022-11-21 | 12104 | 2541 | 
 | 2022-11-20 | 12097 | 2542 | 
 | 2022-11-19 | 12092 | 2542 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 11810 | 2481 | 
 | 2022-10-25 | 11798 | 2481 | 
 | 2022-10-24 | 11784 | 2476 | 
-| 2022-10-23 | 11774 | 2470 | 
 

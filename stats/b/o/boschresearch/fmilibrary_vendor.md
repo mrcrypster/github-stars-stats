@@ -1,10 +1,10 @@
 # boschresearch/fmilibrary_vendor - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 0
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/boschresearch/fmilibrary_vendor)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 2 | - | 
 | 2022-11-22 | 1 | - | 
 | 2022-11-21 | 1 | - | 
 | 2022-11-20 | 1 | - | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-26 | 1 | - | 
 | 2022-10-25 | 1 | - | 
 | 2022-10-24 | 1 | - | 
-| 2022-10-23 | 1 | - | 
 

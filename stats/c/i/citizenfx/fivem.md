@@ -1,8 +1,8 @@
 # citizenfx/fivem - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 1588
+☋ Forks: 1589
 
 ★ Stars: 2667
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 2667 | 1589 | 
 | 2022-11-21 | 2667 | 1588 | 
 | 2022-11-20 | 2667 | 1587 | 
 | 2022-11-19 | 2665 | 1587 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 2640 | 1579 | 
 | 2022-10-25 | 2638 | 1579 | 
 | 2022-10-24 | 2637 | 1579 | 
-| 2022-10-23 | 2638 | 1578 | 
 

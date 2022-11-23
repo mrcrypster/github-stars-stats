@@ -1,10 +1,10 @@
 # SpecularL2/specular - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 1
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/SpecularL2/specular)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 6 | 1 | 
 | 2022-11-21 | 5 | 1 | 
 | 2022-11-20 | 5 | 1 | 
 | 2022-11-19 | 5 | 1 | 

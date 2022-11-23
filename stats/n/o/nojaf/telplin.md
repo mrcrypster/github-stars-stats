@@ -1,6 +1,6 @@
 # nojaf/telplin - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 13 | 2 | 
 | 2022-11-21 | 13 | 2 | 
 | 2022-11-20 | 13 | 2 | 
 | 2022-11-19 | 13 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 13 | 2 | 
 | 2022-10-25 | 12 | 2 | 
 | 2022-10-24 | 12 | 2 | 
-| 2022-10-23 | 12 | 1 | 
 

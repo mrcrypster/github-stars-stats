@@ -1,10 +1,10 @@
 # kafka4beam/snabbkaffe - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 4
 
-★ Stars: 20
+★ Stars: 22
 
 [Open repository](https://github.com/kafka4beam/snabbkaffe)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 22 | 4 | 
 | 2022-11-21 | 20 | 4 | 
 | 2022-11-20 | 20 | 4 | 
 | 2022-11-19 | 20 | 4 | 

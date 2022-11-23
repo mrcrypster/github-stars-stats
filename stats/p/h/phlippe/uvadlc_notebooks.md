@@ -1,8 +1,8 @@
 # phlippe/uvadlc_notebooks - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 278
+☋ Forks: 280
 
 ★ Stars: 924
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 924 | 280 | 
 | 2022-11-21 | 924 | 278 | 
 | 2022-11-20 | 921 | 278 | 
 | 2022-11-19 | 921 | 277 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 859 | 267 | 
 | 2022-10-25 | 855 | 266 | 
 | 2022-10-24 | 852 | 266 | 
-| 2022-10-23 | 851 | 265 | 
 

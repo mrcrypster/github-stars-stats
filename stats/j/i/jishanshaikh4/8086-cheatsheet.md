@@ -1,10 +1,10 @@
 # jishanshaikh4/8086-cheatsheet - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 14
 
-★ Stars: 80
+★ Stars: 81
 
 [Open repository](https://github.com/jishanshaikh4/8086-cheatsheet)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 81 | 14 | 
 | 2022-11-21 | 80 | 14 | 
 | 2022-11-20 | 80 | 14 | 
 | 2022-11-19 | 80 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 77 | 14 | 
 | 2022-10-25 | 77 | 14 | 
 | 2022-10-24 | 77 | 14 | 
-| 2022-10-23 | 77 | 14 | 
 

@@ -1,6 +1,6 @@
 # qbcore-framework/qb-customs - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 193
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 28 | 193 | 
 | 2022-11-21 | 28 | 193 | 
 | 2022-11-20 | 28 | 192 | 
 | 2022-11-19 | 28 | 192 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-27 | 27 | 190 | 
 | 2022-10-26 | 27 | 190 | 
 | 2022-10-25 | 27 | 190 | 
-| 2022-10-24 | 27 | 190 | 
 

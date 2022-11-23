@@ -1,6 +1,6 @@
 # mr-r3b00t/parse_win_log - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 14 | 1 | 
 | 2022-11-22 | 14 | 1 | 
 | 2022-11-21 | 14 | 1 | 
 | 2022-11-19 | 14 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-26 | 14 | 1 | 
 | 2022-10-25 | 14 | 1 | 
 | 2022-10-24 | 14 | 1 | 
-| 2022-10-23 | 14 | 1 | 
 

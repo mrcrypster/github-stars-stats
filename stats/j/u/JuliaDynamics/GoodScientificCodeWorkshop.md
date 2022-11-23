@@ -1,10 +1,10 @@
 # JuliaDynamics/GoodScientificCodeWorkshop - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 12
 
-★ Stars: 162
+★ Stars: 163
 
 [Open repository](https://github.com/JuliaDynamics/GoodScientificCodeWorkshop)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 163 | 12 | 
 | 2022-11-21 | 162 | 12 | 
 | 2022-11-20 | 162 | 12 | 
 | 2022-11-19 | 162 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 158 | 12 | 
 | 2022-10-25 | 158 | 12 | 
 | 2022-10-24 | 158 | 12 | 
-| 2022-10-23 | 158 | 12 | 
 

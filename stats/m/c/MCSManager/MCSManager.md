@@ -1,10 +1,10 @@
 # MCSManager/MCSManager - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 251
+☋ Forks: 252
 
-★ Stars: 1821
+★ Stars: 1824
 
 [Open repository](https://github.com/MCSManager/MCSManager)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 1824 | 252 | 
 | 2022-11-21 | 1821 | 251 | 
 | 2022-11-20 | 1820 | 251 | 
 | 2022-11-19 | 1819 | 251 | 

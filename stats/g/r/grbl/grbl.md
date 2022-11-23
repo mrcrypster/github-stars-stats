@@ -1,6 +1,6 @@
 # grbl/grbl - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 2864
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 4822 | 2864 | 
 | 2022-11-21 | 4822 | 2864 | 
 | 2022-11-20 | 4822 | 2865 | 
 | 2022-11-19 | 4822 | 2865 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 4797 | 2855 | 
 | 2022-10-25 | 4797 | 2855 | 
 | 2022-10-24 | 4795 | 2854 | 
-| 2022-10-23 | 4795 | 2853 | 
 

@@ -1,8 +1,8 @@
 # kamucantik/RDP-FREE-WINDOWSA - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 356
+☋ Forks: 360
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 2 | 360 | 
 | 2022-11-21 | 2 | 356 | 
 | 2022-11-20 | 2 | 345 | 
 | 2022-11-19 | 2 | 330 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | - | 83 | 
 | 2022-10-25 | - | 73 | 
 | 2022-10-24 | - | 67 | 
-| 2022-10-23 | - | 54 | 
 

@@ -1,6 +1,6 @@
 # FastReports/FastReport - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 483
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 2058 | 483 | 
 | 2022-11-21 | 2058 | 483 | 
 | 2022-11-20 | 2056 | 483 | 
 | 2022-11-19 | 2055 | 483 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 2040 | 477 | 
 | 2022-10-25 | 2039 | 477 | 
 | 2022-10-24 | 2038 | 477 | 
-| 2022-10-23 | 2038 | 476 | 
 

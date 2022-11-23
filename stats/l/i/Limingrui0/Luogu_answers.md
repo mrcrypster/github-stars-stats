@@ -1,6 +1,6 @@
 # Limingrui0/Luogu_answers - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 136 | 29 | 
 | 2022-11-21 | 136 | 29 | 
 | 2022-11-20 | 135 | 29 | 
 | 2022-11-19 | 134 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 125 | 27 | 
 | 2022-10-25 | 125 | 27 | 
 | 2022-10-24 | 124 | 26 | 
-| 2022-10-23 | 123 | 25 | 
 

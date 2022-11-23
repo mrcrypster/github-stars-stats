@@ -1,10 +1,10 @@
 # beefproject/beef - stars & forks statistics
 
-Stats updated on Nov 2022, 21
+Stats updated on Nov 2022, 22
 
-☋ Forks: 1823
+☋ Forks: 1825
 
-★ Stars: 7867
+★ Stars: 7870
 
 [Open repository](https://github.com/beefproject/beef)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-22 | 7870 | 1825 | 
 | 2022-11-21 | 7867 | 1823 | 
 | 2022-11-20 | 7865 | 1824 | 
 | 2022-11-19 | 7860 | 1824 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 21
 | 2022-10-26 | 7769 | 1808 | 
 | 2022-10-25 | 7767 | 1806 | 
 | 2022-10-24 | 7766 | 1805 | 
-| 2022-10-23 | 7765 | 1804 | 
 
