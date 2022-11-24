@@ -1,10 +1,10 @@
 # pulp-platform/iDMA - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 6
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/pulp-platform/iDMA)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 16 | 6 | 
 | 2022-11-22 | 15 | 6 | 
 | 2022-11-21 | 15 | 6 | 
 | 2022-11-20 | 15 | 6 | 

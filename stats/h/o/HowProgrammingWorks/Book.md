@@ -1,10 +1,10 @@
 # HowProgrammingWorks/Book - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 69
 
-★ Stars: 369
+★ Stars: 370
 
 [Open repository](https://github.com/HowProgrammingWorks/Book)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 370 | 69 | 
 | 2022-11-22 | 369 | 69 | 
 | 2022-11-21 | 369 | 69 | 
 | 2022-11-20 | 369 | 69 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 364 | 68 | 
 | 2022-10-26 | 364 | 68 | 
 | 2022-10-25 | 364 | 68 | 
-| 2022-10-24 | 364 | 68 | 
 

@@ -1,10 +1,10 @@
 # actualbudget/actual-server - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 275
 
-★ Stars: 1269
+★ Stars: 1271
 
 [Open repository](https://github.com/actualbudget/actual-server)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 1271 | 275 | 
 | 2022-11-23 | 1269 | 275 | 
 | 2022-11-22 | 1269 | 275 | 
 | 2022-11-20 | 1270 | 275 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-27 | 1235 | 267 | 
 | 2022-10-26 | 1233 | 267 | 
 | 2022-10-25 | 1231 | 268 | 
-| 2022-10-24 | 1228 | 268 | 
 

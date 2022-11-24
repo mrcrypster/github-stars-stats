@@ -1,10 +1,10 @@
 # tihmstar/jbinit - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 29
 
-★ Stars: 152
+★ Stars: 151
 
 [Open repository](https://github.com/tihmstar/jbinit)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 151 | 29 | 
 | 2022-11-22 | 152 | 29 | 
 | 2022-11-21 | 152 | 29 | 
 | 2022-11-20 | 152 | 29 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 149 | 29 | 
 | 2022-10-26 | 149 | 29 | 
 | 2022-10-25 | 149 | 29 | 
-| 2022-10-24 | 149 | 29 | 
 

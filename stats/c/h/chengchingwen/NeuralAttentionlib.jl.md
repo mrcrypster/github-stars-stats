@@ -1,10 +1,10 @@
 # chengchingwen/NeuralAttentionlib.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 2
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/chengchingwen/NeuralAttentionlib.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 28 | 2 | 
 | 2022-11-22 | 27 | 2 | 
 | 2022-11-21 | 27 | 2 | 
 | 2022-11-20 | 27 | 2 | 

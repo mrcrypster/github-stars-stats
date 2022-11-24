@@ -1,6 +1,6 @@
 # overtone/overtone - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 450
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 5554 | 450 | 
 | 2022-11-23 | 5554 | 450 | 
 | 2022-11-21 | 5553 | 450 | 
 | 2022-11-20 | 5552 | 450 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-27 | 5537 | 447 | 
 | 2022-10-26 | 5537 | 447 | 
 | 2022-10-25 | 5536 | 447 | 
-| 2022-10-24 | 5537 | 447 | 
 

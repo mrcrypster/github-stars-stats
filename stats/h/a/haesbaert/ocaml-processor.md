@@ -1,10 +1,10 @@
 # haesbaert/ocaml-processor - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 0
 
-★ Stars: 33
+★ Stars: 34
 
 [Open repository](https://github.com/haesbaert/ocaml-processor)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 34 | - | 
 | 2022-11-22 | 33 | - | 
 | 2022-11-21 | 33 | - | 
 | 2022-11-20 | 33 | - | 

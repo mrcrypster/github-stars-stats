@@ -1,6 +1,6 @@
 # Ahopness/GodotRetro - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 237 | 15 | 
 | 2022-11-22 | 237 | 15 | 
 | 2022-11-21 | 236 | 15 | 
 | 2022-11-20 | 235 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-28 | 225 | 13 | 
 | 2022-10-27 | 225 | 13 | 
 | 2022-10-26 | 224 | 13 | 
-| 2022-10-25 | 224 | 13 | 
 

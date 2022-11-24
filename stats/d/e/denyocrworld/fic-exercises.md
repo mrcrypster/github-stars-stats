@@ -1,8 +1,8 @@
 # denyocrworld/fic-exercises - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 3
+☋ Forks: 5
 
 ★ Stars: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 6 | 5 | 
 | 2022-11-22 | 6 | 3 | 
 | 2022-11-21 | 5 | 3 | 
 

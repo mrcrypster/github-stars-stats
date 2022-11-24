@@ -1,10 +1,10 @@
 # terraform-google-modules/terraform-google-lb-http - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 285
+☋ Forks: 286
 
-★ Stars: 231
+★ Stars: 232
 
 [Open repository](https://github.com/terraform-google-modules/terraform-google-lb-http)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 232 | 286 | 
 | 2022-11-22 | 231 | 285 | 
 | 2022-11-21 | 231 | 284 | 
 | 2022-11-20 | 231 | 283 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 229 | 281 | 
 | 2022-10-26 | 229 | 281 | 
 | 2022-10-25 | 229 | 280 | 
-| 2022-10-24 | 229 | 279 | 
 

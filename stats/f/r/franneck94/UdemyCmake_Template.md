@@ -1,10 +1,10 @@
 # franneck94/UdemyCmake_Template - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 14
 
-★ Stars: 9
+★ Stars: 11
 
 [Open repository](https://github.com/franneck94/UdemyCmake_Template)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 11 | 14 | 
 | 2022-11-22 | 9 | 14 | 
 | 2022-11-21 | 9 | 13 | 
 | 2022-11-20 | 9 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 8 | 12 | 
 | 2022-10-26 | 8 | 12 | 
 | 2022-10-25 | 8 | 12 | 
-| 2022-10-24 | 8 | 12 | 
 

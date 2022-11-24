@@ -1,10 +1,10 @@
 # daffainfo/match-replace-burp - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 31
 
-★ Stars: 186
+★ Stars: 187
 
 [Open repository](https://github.com/daffainfo/match-replace-burp)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 187 | 31 | 
 | 2022-11-22 | 186 | 31 | 
 | 2022-11-21 | 183 | 31 | 
 | 2022-11-20 | 183 | 30 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 177 | 28 | 
 | 2022-10-26 | 177 | 28 | 
 | 2022-10-25 | 177 | 28 | 
-| 2022-10-24 | 177 | 28 | 
 

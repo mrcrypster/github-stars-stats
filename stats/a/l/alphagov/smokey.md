@@ -1,6 +1,6 @@
 # alphagov/smokey - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 40 | 13 | 
 | 2022-11-23 | 40 | 13 | 
 | 2022-11-22 | 40 | 13 | 
 | 2022-11-21 | 40 | 13 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-27 | 40 | 14 | 
 | 2022-10-26 | 40 | 14 | 
 | 2022-10-25 | 40 | 14 | 
-| 2022-10-24 | 40 | 14 | 
 

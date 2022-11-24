@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 23
 
 ☋ Forks: 5
 
-★ Stars: 97
+★ Stars: 100
 
 [Open repository](https://github.com/MohmmedAshraf/blade-flags)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-23 | 97 | 5 | 
+| 2022-11-23 | 100 | 5 | 
 | 2022-11-22 | 96 | 5 | 
 | 2022-11-21 | 93 | 5 | 
 | 2022-11-20 | 68 | 5 | 

@@ -1,6 +1,6 @@
 # Shopify/function-runner - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 16 | - | 
 | 2022-11-22 | 16 | - | 
 | 2022-11-21 | 16 | - | 
 | 2022-11-20 | 16 | - | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 13 | - | 
 | 2022-10-26 | 13 | - | 
 | 2022-10-25 | 12 | - | 
-| 2022-10-24 | 12 | - | 
 

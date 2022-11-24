@@ -1,10 +1,10 @@
 # lutzenfried/Methodology - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 42
 
-★ Stars: 261
+★ Stars: 263
 
 [Open repository](https://github.com/lutzenfried/Methodology)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 263 | 42 | 
 | 2022-11-22 | 261 | 42 | 
 | 2022-11-21 | 261 | 42 | 
 | 2022-11-20 | 261 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 197 | 31 | 
 | 2022-10-26 | 189 | 29 | 
 | 2022-10-25 | 125 | 21 | 
-| 2022-10-24 | 117 | 19 | 
 

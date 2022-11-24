@@ -1,6 +1,6 @@
 # ufosc/Club_Website_2 - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 11 | 19 | 
 | 2022-11-22 | 11 | 19 | 
 | 2022-11-21 | 11 | 18 | 
 | 2022-11-20 | 11 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 10 | 15 | 
 | 2022-10-26 | 10 | 15 | 
 | 2022-10-25 | 10 | 14 | 
-| 2022-10-24 | 10 | 14 | 
 

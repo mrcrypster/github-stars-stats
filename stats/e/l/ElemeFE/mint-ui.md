@@ -1,6 +1,6 @@
 # ElemeFE/mint-ui - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 3558
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 16539 | 3558 | 
 | 2022-11-22 | 16539 | 3558 | 
 | 2022-11-21 | 16539 | 3557 | 
 | 2022-11-20 | 16538 | 3557 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 16539 | 3560 | 
 | 2022-10-26 | 16540 | 3561 | 
 | 2022-10-25 | 16540 | 3562 | 
-| 2022-10-24 | 16540 | 3562 | 
 

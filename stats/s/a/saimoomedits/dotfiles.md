@@ -1,6 +1,6 @@
 # saimoomedits/dotfiles - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 663 | 43 | 
 | 2022-11-22 | 663 | 43 | 
 | 2022-11-21 | 663 | 43 | 
 | 2022-11-20 | 660 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 634 | 38 | 
 | 2022-10-26 | 633 | 38 | 
 | 2022-10-25 | 631 | 38 | 
-| 2022-10-24 | 630 | 38 | 
 

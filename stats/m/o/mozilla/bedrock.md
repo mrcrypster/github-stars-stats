@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 23
 
 ☋ Forks: 927
 
-★ Stars: 1057
+★ Stars: 1058
 
 [Open repository](https://github.com/mozilla/bedrock)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-23 | 1057 | 927 | 
+| 2022-11-23 | 1058 | 927 | 
 | 2022-11-22 | 1057 | 927 | 
 

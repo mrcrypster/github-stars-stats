@@ -1,10 +1,10 @@
 # v2fly/v2ray-examples - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 620
+☋ Forks: 619
 
-★ Stars: 1603
+★ Stars: 1605
 
 [Open repository](https://github.com/v2fly/v2ray-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 1605 | 619 | 
 | 2022-11-22 | 1603 | 620 | 
 | 2022-11-21 | 1602 | 620 | 
 | 2022-11-20 | 1601 | 619 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 1559 | 612 | 
 | 2022-10-26 | 1557 | 612 | 
 | 2022-10-25 | 1557 | 612 | 
-| 2022-10-24 | 1555 | 611 | 
 

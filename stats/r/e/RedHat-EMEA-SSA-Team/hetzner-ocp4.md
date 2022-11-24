@@ -1,6 +1,6 @@
 # RedHat-EMEA-SSA-Team/hetzner-ocp4 - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 93
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 122 | 93 | 
 | 2022-11-22 | 122 | 93 | 
 | 2022-11-21 | 122 | 93 | 
 | 2022-11-20 | 122 | 93 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 119 | 91 | 
 | 2022-10-26 | 119 | 91 | 
 | 2022-10-25 | 119 | 91 | 
-| 2022-10-24 | 119 | 91 | 
 

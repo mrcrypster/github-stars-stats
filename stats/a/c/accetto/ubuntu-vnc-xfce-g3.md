@@ -1,10 +1,10 @@
 # accetto/ubuntu-vnc-xfce-g3 - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 44
+☋ Forks: 45
 
-★ Stars: 97
+★ Stars: 98
 
 [Open repository](https://github.com/accetto/ubuntu-vnc-xfce-g3)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 98 | 45 | 
 | 2022-11-22 | 97 | 44 | 
 | 2022-11-21 | 96 | 44 | 
 | 2022-11-20 | 96 | 44 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 90 | 42 | 
 | 2022-10-26 | 90 | 41 | 
 | 2022-10-25 | 90 | 41 | 
-| 2022-10-24 | 90 | 41 | 
 

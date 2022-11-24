@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 23
 
 ☋ Forks: 5
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/eraporsmk/erapor6)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-23 | 7 | 5 | 
+| 2022-11-23 | 8 | 5 | 
 | 2022-11-22 | 7 | 4 | 
 

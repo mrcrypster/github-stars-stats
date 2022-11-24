@@ -1,10 +1,10 @@
 # gh0stkey/HaE - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 163
 
-★ Stars: 1428
+★ Stars: 1431
 
 [Open repository](https://github.com/gh0stkey/HaE)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 1431 | 163 | 
 | 2022-11-22 | 1428 | 163 | 
 | 2022-11-21 | 1428 | 163 | 
 | 2022-11-20 | 1426 | 163 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 1396 | 160 | 
 | 2022-10-26 | 1396 | 160 | 
 | 2022-10-25 | 1395 | 160 | 
-| 2022-10-24 | 1393 | 160 | 
 

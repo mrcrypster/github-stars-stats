@@ -1,6 +1,6 @@
 # ucoruh/course-note-template - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 4 | 47 | 
 | 2022-11-22 | 4 | 47 | 
 | 2022-11-21 | 4 | 47 | 
 | 2022-11-20 | 4 | 47 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 4 | 47 | 
 | 2022-10-26 | 4 | 47 | 
 | 2022-10-25 | 4 | 47 | 
-| 2022-10-24 | 4 | 46 | 
 

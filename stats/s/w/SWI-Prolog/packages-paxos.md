@@ -1,6 +1,6 @@
 # SWI-Prolog/packages-paxos - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 4 | 4 | 
 | 2022-11-22 | 4 | 4 | 
 | 2022-11-21 | 4 | 4 | 
 | 2022-11-20 | 4 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 4 | 4 | 
 | 2022-10-26 | 4 | 4 | 
 | 2022-10-25 | 4 | 4 | 
-| 2022-10-24 | 4 | 4 | 
 

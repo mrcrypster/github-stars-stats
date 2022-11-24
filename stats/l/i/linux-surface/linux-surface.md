@@ -1,10 +1,10 @@
 # linux-surface/linux-surface - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 157
 
-★ Stars: 2978
+★ Stars: 2981
 
 [Open repository](https://github.com/linux-surface/linux-surface)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 2981 | 157 | 
 | 2022-11-22 | 2978 | 157 | 
 | 2022-11-21 | 2977 | 157 | 
 | 2022-11-20 | 2971 | 157 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 2890 | 154 | 
 | 2022-10-26 | 2887 | 154 | 
 | 2022-10-25 | 2885 | 154 | 
-| 2022-10-24 | 2882 | 154 | 
 

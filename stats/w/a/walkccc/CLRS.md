@@ -1,10 +1,10 @@
 # walkccc/CLRS - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 1140
+☋ Forks: 1143
 
-★ Stars: 3796
+★ Stars: 3798
 
 [Open repository](https://github.com/walkccc/CLRS)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 3798 | 1143 | 
 | 2022-11-22 | 3796 | 1140 | 
 | 2022-11-21 | 3790 | 1138 | 
 | 2022-11-20 | 3790 | 1139 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 3756 | 1133 | 
 | 2022-10-26 | 3755 | 1133 | 
 | 2022-10-25 | 3752 | 1133 | 
-| 2022-10-24 | 3752 | 1133 | 
 

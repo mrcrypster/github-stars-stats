@@ -1,6 +1,6 @@
 # purescript/purescript-either - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 25 | 28 | 
 | 2022-11-22 | 25 | 28 | 
 | 2022-11-21 | 25 | 28 | 
 | 2022-11-20 | 25 | 28 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 25 | 28 | 
 | 2022-10-26 | 25 | 28 | 
 | 2022-10-25 | 25 | 28 | 
-| 2022-10-24 | 25 | 28 | 
 

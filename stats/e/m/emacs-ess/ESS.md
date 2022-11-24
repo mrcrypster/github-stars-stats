@@ -1,6 +1,6 @@
 # emacs-ess/ESS - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 176
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 587 | 176 | 
 | 2022-11-22 | 587 | 176 | 
 | 2022-11-21 | 587 | 176 | 
 | 2022-11-20 | 587 | 176 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 583 | 176 | 
 | 2022-10-26 | 583 | 176 | 
 | 2022-10-25 | 583 | 176 | 
-| 2022-10-24 | 583 | 176 | 
 

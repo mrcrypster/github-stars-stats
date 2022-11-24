@@ -1,6 +1,6 @@
 # ProjectElixir-Devices/Changelogs - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 25 | 36 | 
 | 2022-11-22 | 25 | 36 | 
 | 2022-11-21 | 25 | 35 | 
 | 2022-11-20 | 25 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-28 | 22 | 34 | 
 | 2022-10-27 | 22 | 34 | 
 | 2022-10-26 | 22 | 34 | 
-| 2022-10-25 | 22 | 34 | 
 

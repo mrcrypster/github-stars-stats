@@ -1,6 +1,6 @@
 # patriciogonzalezvivo/lygia_p5_examples - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 19 | - | 
 | 2022-11-22 | 19 | - | 
 | 2022-11-21 | 19 | - | 
 | 2022-11-20 | 19 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 18 | - | 
 | 2022-10-26 | 18 | - | 
 | 2022-10-25 | 17 | - | 
-| 2022-10-24 | 17 | - | 
 

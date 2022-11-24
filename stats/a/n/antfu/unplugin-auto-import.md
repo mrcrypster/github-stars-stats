@@ -1,10 +1,10 @@
 # antfu/unplugin-auto-import - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 108
 
-★ Stars: 1554
+★ Stars: 1562
 
 [Open repository](https://github.com/antfu/unplugin-auto-import)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 1562 | 108 | 
 | 2022-11-22 | 1554 | 108 | 
 | 2022-11-21 | 1550 | 107 | 
 | 2022-11-20 | 1546 | 107 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 1479 | 106 | 
 | 2022-10-26 | 1473 | 106 | 
 | 2022-10-25 | 1472 | 106 | 
-| 2022-10-24 | 1467 | 106 | 
 

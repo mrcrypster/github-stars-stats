@@ -1,10 +1,10 @@
 # JaseZiv/worldfootballR - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 31
 
-★ Stars: 262
+★ Stars: 263
 
 [Open repository](https://github.com/JaseZiv/worldfootballR)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 263 | 31 | 
 | 2022-11-22 | 262 | 31 | 
 | 2022-11-21 | 262 | 31 | 
 | 2022-11-20 | 262 | 31 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 256 | 28 | 
 | 2022-10-26 | 256 | 28 | 
 | 2022-10-25 | 255 | 28 | 
-| 2022-10-24 | 255 | 28 | 
 

@@ -1,10 +1,10 @@
 # cashapp/zipline - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 121
 
-★ Stars: 1454
+★ Stars: 1455
 
 [Open repository](https://github.com/cashapp/zipline)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 1455 | 121 | 
 | 2022-11-22 | 1454 | 121 | 
 | 2022-11-21 | 1452 | 121 | 
 | 2022-11-20 | 1446 | 121 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-28 | 1431 | 121 | 
 | 2022-10-27 | 1431 | 121 | 
 | 2022-10-26 | 1431 | 122 | 
-| 2022-10-25 | 1430 | 121 | 
 

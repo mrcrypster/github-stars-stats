@@ -1,10 +1,10 @@
 # r-lgbtq/tidyrainbow - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 3
 
-★ Stars: 29
+★ Stars: 31
 
 [Open repository](https://github.com/r-lgbtq/tidyrainbow)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 31 | 3 | 
 | 2022-11-22 | 29 | 3 | 
 | 2022-11-21 | 27 | 2 | 
 | 2022-11-20 | 26 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 24 | 2 | 
 | 2022-10-26 | 24 | 2 | 
 | 2022-10-25 | 24 | 2 | 
-| 2022-10-24 | 24 | 2 | 
 

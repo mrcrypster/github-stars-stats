@@ -1,10 +1,10 @@
 # wtfutil/wtf - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 774
 
-★ Stars: 14132
+★ Stars: 14136
 
 [Open repository](https://github.com/wtfutil/wtf)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 14136 | 774 | 
 | 2022-11-22 | 14132 | 774 | 
 | 2022-11-21 | 14129 | 774 | 
 | 2022-11-20 | 14129 | 774 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 14070 | 774 | 
 | 2022-10-26 | 14068 | 774 | 
 | 2022-10-25 | 14065 | 774 | 
-| 2022-10-24 | 14061 | 774 | 
 

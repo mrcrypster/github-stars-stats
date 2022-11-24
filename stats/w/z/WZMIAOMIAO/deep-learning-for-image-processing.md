@@ -1,10 +1,10 @@
 # WZMIAOMIAO/deep-learning-for-image-processing - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 5839
+☋ Forks: 5844
 
-★ Stars: 12977
+★ Stars: 13008
 
 [Open repository](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 13008 | 5844 | 
 | 2022-11-22 | 12977 | 5839 | 
 | 2022-11-21 | 12958 | 5829 | 
 | 2022-11-20 | 12939 | 5819 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 12323 | 5585 | 
 | 2022-10-26 | 12287 | 5575 | 
 | 2022-10-25 | 12263 | 5558 | 
-| 2022-10-24 | 12239 | 5552 | 
 

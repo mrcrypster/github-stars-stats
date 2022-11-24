@@ -1,8 +1,8 @@
 # jenkins-x/jx3-pipeline-catalog - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 112
+☋ Forks: 113
 
 ★ Stars: 17
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 17 | 113 | 
 | 2022-11-22 | 17 | 112 | 
 | 2022-11-21 | 17 | 112 | 
 | 2022-11-20 | 17 | 112 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 17 | 111 | 
 | 2022-10-26 | 17 | 111 | 
 | 2022-10-25 | 17 | 111 | 
-| 2022-10-24 | 17 | 111 | 
 

@@ -1,6 +1,6 @@
 # saurabhksingh/DSLs - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 0
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | - | - | 
+| 2022-11-23 | - | - | 
 | 2022-11-22 | - | - | 
 | 2022-11-21 | - | - | 
 | 2022-11-20 | - | - | 
@@ -41,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-28 | - | - | 
 | 2022-10-27 | - | - | 
 | 2022-10-26 | - | - | 
-| 2022-10-25 | - | - | 
 

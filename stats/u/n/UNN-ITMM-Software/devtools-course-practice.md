@@ -1,6 +1,6 @@
 # UNN-ITMM-Software/devtools-course-practice - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 99
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 1 | 99 | 
 | 2022-11-22 | 1 | 99 | 
 | 2022-11-21 | 1 | 99 | 
 | 2022-11-20 | 1 | 99 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | - | 99 | 
 | 2022-10-26 | - | 93 | 
 | 2022-10-25 | - | 93 | 
-| 2022-10-24 | - | 93 | 
 

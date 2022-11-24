@@ -1,10 +1,10 @@
 # prisma/prisma - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 964
+☋ Forks: 965
 
-★ Stars: 27067
+★ Stars: 27095
 
 [Open repository](https://github.com/prisma/prisma)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 27095 | 965 | 
 | 2022-11-22 | 27067 | 964 | 
 | 2022-11-21 | 27016 | 963 | 
 | 2022-11-20 | 26991 | 961 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 26483 | 944 | 
 | 2022-10-26 | 26466 | 944 | 
 | 2022-10-25 | 26459 | 942 | 
-| 2022-10-24 | 26416 | 943 | 
 

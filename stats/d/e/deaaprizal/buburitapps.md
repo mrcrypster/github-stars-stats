@@ -1,10 +1,10 @@
 # deaaprizal/buburitapps - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 13
 
-★ Stars: 57
+★ Stars: 58
 
 [Open repository](https://github.com/deaaprizal/buburitapps)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 58 | 13 | 
 | 2022-11-22 | 57 | 13 | 
 | 2022-11-21 | 57 | 13 | 
 | 2022-11-20 | 57 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 55 | 12 | 
 | 2022-10-26 | 55 | 12 | 
 | 2022-10-25 | 55 | 12 | 
-| 2022-10-24 | 55 | 12 | 
 

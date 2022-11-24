@@ -1,10 +1,10 @@
 # jakevdp/PythonDataScienceHandbook - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 16196
+☋ Forks: 16199
 
-★ Stars: 36612
+★ Stars: 36623
 
 [Open repository](https://github.com/jakevdp/PythonDataScienceHandbook)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 36623 | 16199 | 
 | 2022-11-22 | 36612 | 16196 | 
 | 2022-11-21 | 36598 | 16198 | 
 | 2022-11-20 | 36591 | 16196 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 36339 | 16102 | 
 | 2022-10-26 | 36335 | 16097 | 
 | 2022-10-25 | 36319 | 16084 | 
-| 2022-10-24 | 36305 | 16080 | 
 

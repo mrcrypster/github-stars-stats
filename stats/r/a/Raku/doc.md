@@ -1,6 +1,6 @@
 # Raku/doc - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 290
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 272 | 290 | 
 | 2022-11-22 | 272 | 290 | 
 | 2022-11-21 | 272 | 290 | 
 | 2022-11-20 | 272 | 290 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-28 | 271 | 290 | 
 | 2022-10-26 | 271 | 290 | 
 | 2022-10-25 | 271 | 290 | 
-| 2022-10-24 | 271 | 290 | 
 

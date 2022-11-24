@@ -1,10 +1,10 @@
 # joaotavora/sly - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 112
 
-★ Stars: 998
+★ Stars: 999
 
 [Open repository](https://github.com/joaotavora/sly)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 999 | 112 | 
 | 2022-11-22 | 998 | 112 | 
 | 2022-11-21 | 997 | 112 | 
 | 2022-11-20 | 997 | 112 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 991 | 108 | 
 | 2022-10-26 | 991 | 108 | 
 | 2022-10-25 | 991 | 108 | 
-| 2022-10-24 | 991 | 108 | 
 

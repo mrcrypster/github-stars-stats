@@ -1,10 +1,10 @@
 # offa/android-foss - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 147
 
-★ Stars: 2435
+★ Stars: 2438
 
 [Open repository](https://github.com/offa/android-foss)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 2438 | 147 | 
 | 2022-11-22 | 2435 | 147 | 
 | 2022-11-21 | 2433 | 147 | 
 | 2022-11-20 | 2432 | 147 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 2393 | 145 | 
 | 2022-10-26 | 2391 | 145 | 
 | 2022-10-25 | 2388 | 145 | 
-| 2022-10-24 | 2387 | 145 | 
 

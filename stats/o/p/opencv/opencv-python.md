@@ -1,10 +1,10 @@
 # opencv/opencv-python - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 611
+☋ Forks: 612
 
-★ Stars: 3103
+★ Stars: 3107
 
 [Open repository](https://github.com/opencv/opencv-python)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 3107 | 612 | 
 | 2022-11-22 | 3103 | 611 | 
 | 2022-11-21 | 3104 | 610 | 
 | 2022-11-20 | 3103 | 609 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 3053 | 602 | 
 | 2022-10-26 | 3050 | 602 | 
 | 2022-10-25 | 3047 | 602 | 
-| 2022-10-24 | 3043 | 602 | 
 

@@ -1,10 +1,10 @@
 # ldodds/scifi-terminals - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 10
 
-★ Stars: 392
+★ Stars: 393
 
 [Open repository](https://github.com/ldodds/scifi-terminals)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 393 | 10 | 
 | 2022-11-22 | 392 | 10 | 
 | 2022-11-21 | 391 | 10 | 
 | 2022-11-20 | 390 | 10 | 

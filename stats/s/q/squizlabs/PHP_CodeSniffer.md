@@ -1,10 +1,10 @@
 # squizlabs/PHP_CodeSniffer - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 1480
 
-★ Stars: 9832
+★ Stars: 9833
 
 [Open repository](https://github.com/squizlabs/PHP_CodeSniffer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 9833 | 1480 | 
 | 2022-11-22 | 9832 | 1480 | 
 | 2022-11-21 | 9830 | 1480 | 
 | 2022-11-20 | 9827 | 1478 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 9780 | 1476 | 
 | 2022-10-26 | 9775 | 1476 | 
 | 2022-10-25 | 9770 | 1476 | 
-| 2022-10-24 | 9766 | 1476 | 
 

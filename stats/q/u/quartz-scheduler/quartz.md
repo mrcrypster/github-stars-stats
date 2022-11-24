@@ -1,6 +1,6 @@
 # quartz-scheduler/quartz - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 1756
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 5318 | 1756 | 
 | 2022-11-22 | 5318 | 1756 | 
 | 2022-11-21 | 5317 | 1756 | 
 | 2022-11-20 | 5316 | 1756 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-28 | 5270 | 1746 | 
 | 2022-10-27 | 5266 | 1746 | 
 | 2022-10-25 | 5266 | 1746 | 
-| 2022-10-24 | 5265 | 1745 | 
 

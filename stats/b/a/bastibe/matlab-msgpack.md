@@ -1,6 +1,6 @@
 # bastibe/matlab-msgpack - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 13 | 5 | 
 | 2022-11-22 | 13 | 5 | 
 | 2022-11-21 | 13 | 5 | 
 | 2022-11-20 | 13 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 13 | 5 | 
 | 2022-10-26 | 13 | 5 | 
 | 2022-10-25 | 13 | 5 | 
-| 2022-10-24 | 13 | 5 | 
 

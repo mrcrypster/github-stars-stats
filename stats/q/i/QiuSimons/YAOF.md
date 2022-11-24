@@ -1,6 +1,6 @@
 # QiuSimons/YAOF - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 523
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 1750 | 523 | 
 | 2022-11-22 | 1750 | 523 | 
 | 2022-11-21 | 1749 | 523 | 
 | 2022-11-20 | 1749 | 522 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-28 | 1734 | 517 | 
 | 2022-10-27 | 1733 | 517 | 
 | 2022-10-25 | 1731 | 517 | 
-| 2022-10-24 | 1728 | 517 | 
 

@@ -1,10 +1,10 @@
 # muxinc/stats-sdk-objc - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 4
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/muxinc/stats-sdk-objc)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 14 | 4 | 
 | 2022-11-22 | 13 | 4 | 
 | 2022-11-21 | 13 | 4 | 
 | 2022-11-20 | 13 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 13 | 5 | 
 | 2022-10-26 | 13 | 5 | 
 | 2022-10-25 | 13 | 5 | 
-| 2022-10-24 | 13 | 5 | 
 

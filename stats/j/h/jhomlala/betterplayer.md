@@ -1,10 +1,10 @@
 # jhomlala/betterplayer - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 527
 
-★ Stars: 711
+★ Stars: 713
 
 [Open repository](https://github.com/jhomlala/betterplayer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 713 | 527 | 
 | 2022-11-22 | 711 | 527 | 
 | 2022-11-21 | 711 | 525 | 
 | 2022-11-20 | 711 | 525 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 705 | 510 | 
 | 2022-10-26 | 704 | 508 | 
 | 2022-10-25 | 704 | 508 | 
-| 2022-10-24 | 704 | 509 | 
 

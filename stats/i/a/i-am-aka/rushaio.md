@@ -1,6 +1,6 @@
 # i-am-aka/rushaio - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 137 | 43 | 
 | 2022-11-22 | 137 | 43 | 
 | 2022-11-21 | 137 | 43 | 
 | 2022-11-20 | 136 | 43 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 133 | 41 | 
 | 2022-10-26 | 133 | 41 | 
 | 2022-10-25 | 131 | 41 | 
-| 2022-10-24 | 131 | 41 | 
 

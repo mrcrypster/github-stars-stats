@@ -1,10 +1,10 @@
 # cosmos/relayer - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 1579
 
-★ Stars: 260
+★ Stars: 261
 
 [Open repository](https://github.com/cosmos/relayer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 261 | 1579 | 
 | 2022-11-22 | 260 | 1579 | 
 | 2022-11-21 | 260 | 1579 | 
 | 2022-11-20 | 260 | 1578 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-28 | 253 | 1566 | 
 | 2022-10-27 | 251 | 1566 | 
 | 2022-10-26 | 251 | 1565 | 
-| 2022-10-25 | 251 | 1565 | 
 

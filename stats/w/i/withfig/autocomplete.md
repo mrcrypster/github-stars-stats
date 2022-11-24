@@ -1,10 +1,10 @@
 # withfig/autocomplete - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 4771
+☋ Forks: 4773
 
-★ Stars: 20679
+★ Stars: 20690
 
 [Open repository](https://github.com/withfig/autocomplete)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 20690 | 4773 | 
 | 2022-11-23 | 20679 | 4771 | 
 | 2022-11-22 | 20666 | 4770 | 
 | 2022-11-21 | 20659 | 4771 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-27 | 20446 | 4736 | 
 | 2022-10-26 | 20434 | 4730 | 
 | 2022-10-25 | 20414 | 4729 | 
-| 2022-10-24 | 20413 | 4730 | 
 

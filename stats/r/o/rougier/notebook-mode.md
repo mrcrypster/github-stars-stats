@@ -1,10 +1,10 @@
 # rougier/notebook-mode - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 27
 
-★ Stars: 456
+★ Stars: 458
 
 [Open repository](https://github.com/rougier/notebook-mode)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 458 | 27 | 
 | 2022-11-22 | 456 | 27 | 
 | 2022-11-21 | 456 | 27 | 
 | 2022-11-20 | 455 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 452 | 26 | 
 | 2022-10-26 | 452 | 26 | 
 | 2022-10-25 | 451 | 26 | 
-| 2022-10-24 | 451 | 26 | 
 

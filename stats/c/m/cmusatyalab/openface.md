@@ -1,10 +1,10 @@
 # cmusatyalab/openface - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 3594
 
-★ Stars: 14557
+★ Stars: 14558
 
 [Open repository](https://github.com/cmusatyalab/openface)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 14558 | 3594 | 
 | 2022-11-22 | 14557 | 3594 | 
 | 2022-11-21 | 14555 | 3594 | 
 | 2022-11-20 | 14555 | 3594 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 14530 | 3592 | 
 | 2022-10-26 | 14529 | 3592 | 
 | 2022-10-25 | 14526 | 3592 | 
-| 2022-10-24 | 14524 | 3592 | 
 

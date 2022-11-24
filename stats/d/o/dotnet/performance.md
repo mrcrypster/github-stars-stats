@@ -1,6 +1,6 @@
 # dotnet/performance - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 218
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 578 | 218 | 
 | 2022-11-22 | 578 | 218 | 
 | 2022-11-21 | 578 | 218 | 
 | 2022-11-20 | 577 | 218 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 572 | 219 | 
 | 2022-10-26 | 572 | 219 | 
 | 2022-10-25 | 571 | 219 | 
-| 2022-10-24 | 571 | 219 | 
 

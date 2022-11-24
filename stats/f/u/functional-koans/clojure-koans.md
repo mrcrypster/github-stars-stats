@@ -1,8 +1,8 @@
 # functional-koans/clojure-koans - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 2088
+☋ Forks: 2087
 
 ★ Stars: 3605
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 3605 | 2087 | 
 | 2022-11-23 | 3605 | 2088 | 
 | 2022-11-22 | 3606 | 2088 | 
 | 2022-11-21 | 3606 | 2088 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-27 | 3600 | 2088 | 
 | 2022-10-26 | 3600 | 2087 | 
 | 2022-10-25 | 3599 | 2087 | 
-| 2022-10-24 | 3598 | 2086 | 
 

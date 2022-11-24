@@ -1,8 +1,8 @@
 # cjhutto/vaderSentiment - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 916
+☋ Forks: 917
 
 ★ Stars: 3792
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 3792 | 917 | 
 | 2022-11-22 | 3792 | 916 | 
 | 2022-11-21 | 3791 | 914 | 
 | 2022-11-20 | 3789 | 914 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 3765 | 908 | 
 | 2022-10-26 | 3764 | 908 | 
 | 2022-10-25 | 3763 | 908 | 
-| 2022-10-24 | 3763 | 908 | 
 

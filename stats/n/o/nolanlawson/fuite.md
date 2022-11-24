@@ -1,10 +1,10 @@
 # nolanlawson/fuite - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 56
 
-★ Stars: 3376
+★ Stars: 3381
 
 [Open repository](https://github.com/nolanlawson/fuite)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 3381 | 56 | 
 | 2022-11-22 | 3376 | 56 | 
 | 2022-11-21 | 3374 | 56 | 
 | 2022-11-20 | 3374 | 56 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 3363 | 56 | 
 | 2022-10-26 | 3362 | 56 | 
 | 2022-10-25 | 3362 | 56 | 
-| 2022-10-24 | 3363 | 56 | 
 

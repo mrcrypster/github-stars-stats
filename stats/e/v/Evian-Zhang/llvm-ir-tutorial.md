@@ -1,10 +1,10 @@
 # Evian-Zhang/llvm-ir-tutorial - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 96
 
-★ Stars: 741
+★ Stars: 744
 
 [Open repository](https://github.com/Evian-Zhang/llvm-ir-tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 744 | 96 | 
 | 2022-11-22 | 741 | 96 | 
 | 2022-11-21 | 741 | 96 | 
 | 2022-11-20 | 741 | 96 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 713 | 96 | 
 | 2022-10-26 | 712 | 96 | 
 | 2022-10-25 | 711 | 96 | 
-| 2022-10-24 | 712 | 96 | 
 

@@ -1,10 +1,10 @@
 # phpredis/phpredis - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 2107
 
-★ Stars: 9514
+★ Stars: 9515
 
 [Open repository](https://github.com/phpredis/phpredis)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 9515 | 2107 | 
 | 2022-11-22 | 9514 | 2107 | 
 | 2022-11-21 | 9511 | 2107 | 
 | 2022-11-20 | 9512 | 2109 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 9482 | 2112 | 
 | 2022-10-26 | 9480 | 2112 | 
 | 2022-10-25 | 9480 | 2112 | 
-| 2022-10-24 | 9479 | 2112 | 
 

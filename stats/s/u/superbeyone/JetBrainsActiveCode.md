@@ -1,8 +1,8 @@
 # superbeyone/JetBrainsActiveCode - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 47
+☋ Forks: 46
 
 ★ Stars: 246
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 246 | 46 | 
 | 2022-11-22 | 246 | 47 | 
 | 2022-11-21 | 246 | 47 | 
 | 2022-11-20 | 246 | 46 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 246 | 46 | 
 | 2022-10-26 | 246 | 46 | 
 | 2022-10-25 | 245 | 46 | 
-| 2022-10-24 | 245 | 46 | 
 

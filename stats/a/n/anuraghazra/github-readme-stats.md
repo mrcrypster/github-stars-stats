@@ -1,10 +1,10 @@
 # anuraghazra/github-readme-stats - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 12163
+☋ Forks: 12181
 
-★ Stars: 48220
+★ Stars: 48248
 
 [Open repository](https://github.com/anuraghazra/github-readme-stats)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 48248 | 12181 | 
 | 2022-11-22 | 48220 | 12163 | 
 | 2022-11-21 | 48187 | 12141 | 
 | 2022-11-20 | 48154 | 12126 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 47447 | 11891 | 
 | 2022-10-26 | 47411 | 11873 | 
 | 2022-10-25 | 47390 | 11868 | 
-| 2022-10-24 | 47349 | 11859 | 
 

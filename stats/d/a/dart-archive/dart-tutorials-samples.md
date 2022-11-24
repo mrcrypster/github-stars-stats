@@ -1,6 +1,6 @@
 # dart-archive/dart-tutorials-samples - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 203
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 190 | 203 | 
 | 2022-11-22 | 190 | 203 | 
 | 2022-11-21 | 190 | 203 | 
 | 2022-11-20 | 190 | 203 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 190 | 204 | 
 | 2022-10-26 | 190 | 204 | 
 | 2022-10-25 | 190 | 204 | 
-| 2022-10-24 | 190 | 204 | 
 

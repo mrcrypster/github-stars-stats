@@ -1,6 +1,6 @@
 # purescript/purescript-lazy - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 26 | 26 | 
 | 2022-11-22 | 26 | 26 | 
 | 2022-11-21 | 26 | 26 | 
 | 2022-11-20 | 26 | 26 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 26 | 26 | 
 | 2022-10-26 | 26 | 26 | 
 | 2022-10-25 | 26 | 26 | 
-| 2022-10-24 | 26 | 26 | 
 

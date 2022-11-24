@@ -1,10 +1,10 @@
 # morhetz/gruvbox - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 1076
 
-★ Stars: 11586
+★ Stars: 11589
 
 [Open repository](https://github.com/morhetz/gruvbox)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 11589 | 1076 | 
 | 2022-11-22 | 11586 | 1076 | 
 | 2022-11-21 | 11583 | 1075 | 
 | 2022-11-20 | 11580 | 1076 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 11429 | 1062 | 
 | 2022-10-26 | 11427 | 1062 | 
 | 2022-10-25 | 11422 | 1062 | 
-| 2022-10-24 | 11419 | 1063 | 
 

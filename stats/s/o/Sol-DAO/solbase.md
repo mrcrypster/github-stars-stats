@@ -1,10 +1,10 @@
 # Sol-DAO/solbase - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 16
 
-★ Stars: 164
+★ Stars: 163
 
 [Open repository](https://github.com/Sol-DAO/solbase)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 163 | 16 | 
 | 2022-11-22 | 164 | 16 | 
 | 2022-11-21 | 164 | 16 | 
 | 2022-11-20 | 164 | 16 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 133 | 11 | 
 | 2022-10-26 | 130 | 10 | 
 | 2022-10-25 | 119 | 8 | 
-| 2022-10-24 | 86 | 7 | 
 

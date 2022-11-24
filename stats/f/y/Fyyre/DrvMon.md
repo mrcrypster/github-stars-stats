@@ -1,6 +1,6 @@
 # Fyyre/DrvMon - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 149 | 42 | 
 | 2022-11-22 | 149 | 42 | 
 | 2022-11-21 | 149 | 42 | 
 | 2022-11-20 | 149 | 42 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 148 | 41 | 
 | 2022-10-26 | 148 | 41 | 
 | 2022-10-25 | 148 | 41 | 
-| 2022-10-24 | 148 | 41 | 
 

@@ -1,8 +1,8 @@
 # BL-MSCH-C220-F22/Exercise-04c-Hide-and-Seek - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 42
+☋ Forks: 43
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | - | 43 | 
 | 2022-11-22 | - | 42 | 
 | 2022-11-21 | - | 42 | 
 | 2022-11-20 | - | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | - | 38 | 
 | 2022-10-26 | - | 35 | 
 | 2022-10-25 | - | 26 | 
-| 2022-10-24 | - | 15 | 
 

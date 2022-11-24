@@ -1,10 +1,10 @@
 # rspec/rspec-core - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 741
 
-★ Stars: 1136
+★ Stars: 1137
 
 [Open repository](https://github.com/rspec/rspec-core)
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 1137 | 741 | 
+| 2022-11-23 | 1137 | 741 | 
 | 2022-11-22 | 1136 | 741 | 
 | 2022-11-21 | 1136 | 741 | 
 | 2022-11-20 | 1136 | 742 | 
@@ -41,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 1129 | 743 | 
 | 2022-10-26 | 1129 | 744 | 
 | 2022-10-25 | 1129 | 744 | 
-| 2022-10-24 | 1128 | 744 | 
 

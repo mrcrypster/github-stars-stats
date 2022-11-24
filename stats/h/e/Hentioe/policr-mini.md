@@ -1,10 +1,10 @@
 # Hentioe/policr-mini - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 80
 
-★ Stars: 656
+★ Stars: 657
 
 [Open repository](https://github.com/Hentioe/policr-mini)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 657 | 80 | 
 | 2022-11-22 | 656 | 80 | 
 | 2022-11-21 | 657 | 79 | 
 | 2022-11-20 | 658 | 79 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 628 | 78 | 
 | 2022-10-26 | 627 | 77 | 
 | 2022-10-25 | 627 | 77 | 
-| 2022-10-24 | 627 | 77 | 
 

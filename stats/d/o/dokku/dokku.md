@@ -1,6 +1,6 @@
 # dokku/dokku - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 1767
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 23925 | 1767 | 
 | 2022-11-22 | 23925 | 1767 | 
 | 2022-11-21 | 23922 | 1767 | 
 | 2022-11-20 | 23922 | 1767 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 23820 | 1764 | 
 | 2022-10-26 | 23815 | 1764 | 
 | 2022-10-25 | 23814 | 1765 | 
-| 2022-10-24 | 23811 | 1766 | 
 

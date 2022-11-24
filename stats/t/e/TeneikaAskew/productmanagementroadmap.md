@@ -1,6 +1,6 @@
 # TeneikaAskew/productmanagementroadmap - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 51 | 4 | 
 | 2022-11-22 | 51 | 4 | 
 | 2022-11-21 | 51 | 4 | 
 | 2022-11-20 | 51 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 49 | 4 | 
 | 2022-10-26 | 48 | 4 | 
 | 2022-10-25 | 48 | 4 | 
-| 2022-10-24 | 48 | 4 | 
 

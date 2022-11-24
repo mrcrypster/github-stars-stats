@@ -1,10 +1,10 @@
 # samuelclay/NewsBlur - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 959
+☋ Forks: 960
 
-★ Stars: 6140
+★ Stars: 6144
 
 [Open repository](https://github.com/samuelclay/NewsBlur)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 6144 | 960 | 
 | 2022-11-22 | 6140 | 959 | 
 | 2022-11-21 | 6139 | 959 | 
 | 2022-11-20 | 6138 | 959 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 6119 | 959 | 
 | 2022-10-26 | 6117 | 959 | 
 | 2022-10-25 | 6117 | 960 | 
-| 2022-10-24 | 6116 | 960 | 
 

@@ -1,6 +1,6 @@
 # TalEliyahu/awesome-security-newsletters - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 454 | 39 | 
 | 2022-11-22 | 454 | 39 | 
 | 2022-11-21 | 450 | 39 | 
 | 2022-11-20 | 446 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 326 | 31 | 
 | 2022-10-26 | 326 | 29 | 
 | 2022-10-25 | 326 | 29 | 
-| 2022-10-24 | 326 | 29 | 
 

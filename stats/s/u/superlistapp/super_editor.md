@@ -1,6 +1,6 @@
 # superlistapp/super_editor - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 135
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 908 | 135 | 
 | 2022-11-22 | 908 | 135 | 
 | 2022-11-21 | 907 | 135 | 
 | 2022-11-20 | 903 | 135 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-28 | 876 | 133 | 
 | 2022-10-27 | 876 | 133 | 
 | 2022-10-26 | 875 | 133 | 
-| 2022-10-24 | 875 | 132 | 
 

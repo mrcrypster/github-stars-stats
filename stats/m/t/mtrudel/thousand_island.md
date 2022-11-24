@@ -1,10 +1,10 @@
 # mtrudel/thousand_island - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 16
 
-★ Stars: 278
+★ Stars: 282
 
 [Open repository](https://github.com/mtrudel/thousand_island)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 282 | 16 | 
 | 2022-11-22 | 278 | 16 | 
 | 2022-11-21 | 276 | 16 | 
 | 2022-11-20 | 276 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 258 | 16 | 
 | 2022-10-26 | 258 | 16 | 
 | 2022-10-25 | 258 | 16 | 
-| 2022-10-24 | 258 | 16 | 
 

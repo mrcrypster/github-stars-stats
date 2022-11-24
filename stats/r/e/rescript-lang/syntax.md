@@ -1,6 +1,6 @@
 # rescript-lang/syntax - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 258 | 37 | 
 | 2022-11-22 | 258 | 37 | 
 | 2022-11-21 | 257 | 37 | 
 | 2022-11-20 | 257 | 37 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 254 | 37 | 
 | 2022-10-26 | 254 | 37 | 
 | 2022-10-25 | 254 | 37 | 
-| 2022-10-24 | 254 | 36 | 
 

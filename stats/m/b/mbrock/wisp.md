@@ -1,10 +1,10 @@
 # mbrock/wisp - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 2
 
-★ Stars: 135
+★ Stars: 136
 
 [Open repository](https://github.com/mbrock/wisp)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 136 | 2 | 
 | 2022-11-23 | 135 | 2 | 
 | 2022-11-22 | 135 | 2 | 
 | 2022-11-21 | 134 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-27 | 93 | 1 | 
 | 2022-10-26 | 93 | 1 | 
 | 2022-10-25 | 93 | 1 | 
-| 2022-10-24 | 93 | 1 | 
 

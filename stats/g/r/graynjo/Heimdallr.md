@@ -1,10 +1,10 @@
 # graynjo/Heimdallr - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 51
 
-★ Stars: 566
+★ Stars: 572
 
 [Open repository](https://github.com/graynjo/Heimdallr)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 572 | 51 | 
 | 2022-11-22 | 566 | 51 | 
 | 2022-11-21 | 561 | 51 | 
 | 2022-11-20 | 552 | 51 | 

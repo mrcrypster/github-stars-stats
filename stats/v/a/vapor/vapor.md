@@ -1,10 +1,10 @@
 # vapor/vapor - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 1384
 
-★ Stars: 22267
+★ Stars: 22266
 
 [Open repository](https://github.com/vapor/vapor)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 22266 | 1384 | 
 | 2022-11-22 | 22267 | 1384 | 
 | 2022-11-21 | 22268 | 1384 | 
 | 2022-11-20 | 22263 | 1383 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 22199 | 1378 | 
 | 2022-10-26 | 22195 | 1379 | 
 | 2022-10-25 | 22193 | 1379 | 
-| 2022-10-24 | 22187 | 1379 | 
 

@@ -1,10 +1,10 @@
 # LucidVR/lucidgloves - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 207
 
-★ Stars: 1547
+★ Stars: 1548
 
 [Open repository](https://github.com/LucidVR/lucidgloves)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 1548 | 207 | 
 | 2022-11-22 | 1547 | 207 | 
 | 2022-11-21 | 1546 | 207 | 
 | 2022-11-20 | 1546 | 206 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 1522 | 199 | 
 | 2022-10-26 | 1520 | 199 | 
 | 2022-10-25 | 1518 | 199 | 
-| 2022-10-24 | 1518 | 199 | 
 

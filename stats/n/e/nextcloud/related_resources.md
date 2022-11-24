@@ -1,6 +1,6 @@
 # nextcloud/related_resources - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 2 | 1 | 
 | 2022-11-22 | 2 | 1 | 
 | 2022-11-21 | 2 | 1 | 
 | 2022-11-20 | 2 | 1 | 

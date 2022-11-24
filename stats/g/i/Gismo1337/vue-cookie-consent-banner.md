@@ -1,6 +1,6 @@
 # Gismo1337/vue-cookie-consent-banner - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 4 | 24 | 
 | 2022-11-22 | 4 | 24 | 
 | 2022-11-21 | 4 | 24 | 
 | 2022-11-20 | 4 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 4 | 25 | 
 | 2022-10-26 | 4 | 25 | 
 | 2022-10-25 | 4 | 25 | 
-| 2022-10-24 | 4 | 25 | 
 

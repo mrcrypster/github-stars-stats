@@ -1,6 +1,6 @@
 # ntt360/pmon2 - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 101
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 734 | 101 | 
 | 2022-11-22 | 734 | 101 | 
 | 2022-11-21 | 733 | 101 | 
 | 2022-11-20 | 734 | 101 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 730 | 101 | 
 | 2022-10-26 | 730 | 101 | 
 | 2022-10-25 | 731 | 101 | 
-| 2022-10-24 | 731 | 101 | 
 

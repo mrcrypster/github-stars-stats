@@ -1,8 +1,8 @@
 # TurtleZhong/AVP-SLAM-SIM - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 110
+☋ Forks: 109
 
 ★ Stars: 330
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 330 | 109 | 
 | 2022-11-22 | 330 | 110 | 
 | 2022-11-21 | 330 | 110 | 
 | 2022-11-20 | 331 | 110 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 329 | 109 | 
 | 2022-10-26 | 329 | 109 | 
 | 2022-10-25 | 327 | 109 | 
-| 2022-10-24 | 327 | 108 | 
 

@@ -1,6 +1,6 @@
 # Yue-plus/hexo-theme-arknights - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 399 | 50 | 
 | 2022-11-22 | 399 | 50 | 
 | 2022-11-21 | 399 | 50 | 
 | 2022-11-20 | 398 | 49 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 386 | 46 | 
 | 2022-10-26 | 385 | 46 | 
 | 2022-10-25 | 384 | 46 | 
-| 2022-10-24 | 383 | 46 | 
 

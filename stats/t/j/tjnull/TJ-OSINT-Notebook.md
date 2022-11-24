@@ -1,10 +1,10 @@
 # tjnull/TJ-OSINT-Notebook - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 14
+☋ Forks: 16
 
-★ Stars: 170
+★ Stars: 184
 
 [Open repository](https://github.com/tjnull/TJ-OSINT-Notebook)
 
@@ -13,5 +13,6 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 184 | 16 | 
 | 2022-11-22 | 170 | 14 | 
 

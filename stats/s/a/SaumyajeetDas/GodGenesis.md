@@ -1,10 +1,10 @@
 # SaumyajeetDas/GodGenesis - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 54
+☋ Forks: 55
 
-★ Stars: 266
+★ Stars: 267
 
 [Open repository](https://github.com/SaumyajeetDas/GodGenesis)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 267 | 55 | 
 | 2022-11-23 | 266 | 54 | 
 | 2022-11-22 | 266 | 53 | 
 | 2022-11-21 | 265 | 53 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-27 | 207 | 37 | 
 | 2022-10-26 | 205 | 37 | 
 | 2022-10-25 | 202 | 37 | 
-| 2022-10-24 | 199 | 36 | 
 

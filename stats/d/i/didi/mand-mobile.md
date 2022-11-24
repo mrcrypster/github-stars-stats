@@ -1,10 +1,10 @@
 # didi/mand-mobile - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 754
 
-★ Stars: 3331
+★ Stars: 3333
 
 [Open repository](https://github.com/didi/mand-mobile)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 3333 | 754 | 
 | 2022-11-22 | 3331 | 754 | 
 | 2022-11-21 | 3331 | 754 | 
 | 2022-11-20 | 3329 | 754 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 3322 | 753 | 
 | 2022-10-26 | 3322 | 753 | 
 | 2022-10-25 | 3322 | 753 | 
-| 2022-10-24 | 3323 | 753 | 
 

@@ -1,10 +1,10 @@
 # anthonydb/practical-sql-2 - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 142
 
-★ Stars: 153
+★ Stars: 154
 
 [Open repository](https://github.com/anthonydb/practical-sql-2)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 154 | 142 | 
 | 2022-11-22 | 153 | 142 | 
 | 2022-11-21 | 153 | 141 | 
 | 2022-11-20 | 153 | 141 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 142 | 132 | 
 | 2022-10-26 | 141 | 131 | 
 | 2022-10-25 | 141 | 131 | 
-| 2022-10-24 | 141 | 131 | 
 

@@ -1,8 +1,8 @@
 # rundocs/jekyll-rtd-theme - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 381
+☋ Forks: 382
 
 ★ Stars: 226
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 226 | 382 | 
 | 2022-11-22 | 226 | 381 | 
 | 2022-11-21 | 225 | 379 | 
 | 2022-11-20 | 225 | 379 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 222 | 374 | 
 | 2022-10-26 | 222 | 373 | 
 | 2022-10-25 | 222 | 372 | 
-| 2022-10-24 | 222 | 373 | 
 

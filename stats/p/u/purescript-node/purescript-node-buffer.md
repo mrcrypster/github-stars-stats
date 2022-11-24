@@ -1,6 +1,6 @@
 # purescript-node/purescript-node-buffer - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 10 | 19 | 
 | 2022-11-23 | 10 | 19 | 
 | 2022-11-22 | 10 | 19 | 
 | 2022-11-20 | 10 | 19 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-27 | 10 | 19 | 
 | 2022-10-26 | 10 | 19 | 
 | 2022-10-25 | 10 | 19 | 
-| 2022-10-24 | 10 | 19 | 
 

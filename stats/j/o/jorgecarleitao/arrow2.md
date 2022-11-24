@@ -1,10 +1,10 @@
 # jorgecarleitao/arrow2 - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 145
 
-★ Stars: 644
+★ Stars: 647
 
 [Open repository](https://github.com/jorgecarleitao/arrow2)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 647 | 145 | 
 | 2022-11-22 | 644 | 145 | 
 | 2022-11-21 | 643 | 145 | 
 | 2022-11-20 | 643 | 145 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 614 | 139 | 
 | 2022-10-26 | 611 | 139 | 
 | 2022-10-25 | 610 | 139 | 
-| 2022-10-24 | 609 | 139 | 
 

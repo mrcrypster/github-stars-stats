@@ -1,10 +1,10 @@
 # elixir-europe/biohackathon-projects-2022 - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 21
 
-★ Stars: 18
+★ Stars: 17
 
 [Open repository](https://github.com/elixir-europe/biohackathon-projects-2022)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 17 | 21 | 
 | 2022-11-22 | 18 | 21 | 
 | 2022-11-21 | 18 | 21 | 
 | 2022-11-20 | 17 | 21 | 

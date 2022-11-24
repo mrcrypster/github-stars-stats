@@ -1,10 +1,10 @@
 # colaiven/cola-designer - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 24
 
-☋ Forks: 40
+☋ Forks: 41
 
-★ Stars: 108
+★ Stars: 110
 
 [Open repository](https://github.com/colaiven/cola-designer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 110 | 41 | 
 | 2022-11-22 | 108 | 40 | 
 | 2022-11-21 | 108 | 40 | 
 | 2022-11-20 | 108 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-28 | 94 | 36 | 
 | 2022-10-27 | 94 | 36 | 
 | 2022-10-26 | 94 | 36 | 
-| 2022-10-25 | 94 | 36 | 
 

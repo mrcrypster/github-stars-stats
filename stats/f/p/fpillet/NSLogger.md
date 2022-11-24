@@ -1,10 +1,10 @@
 # fpillet/NSLogger - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 580
 
-★ Stars: 4953
+★ Stars: 4954
 
 [Open repository](https://github.com/fpillet/NSLogger)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 4954 | 580 | 
 | 2022-11-22 | 4953 | 580 | 
 | 2022-11-21 | 4953 | 580 | 
 | 2022-11-20 | 4953 | 580 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 4947 | 580 | 
 | 2022-10-26 | 4935 | 580 | 
 | 2022-10-25 | 4935 | 580 | 
-| 2022-10-24 | 4935 | 580 | 
 

@@ -1,6 +1,6 @@
 # nuanxinqing123/QLTools - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 401 | 73 | 
 | 2022-11-22 | 401 | 73 | 
 | 2022-11-21 | 400 | 73 | 
 | 2022-11-20 | 397 | 72 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 376 | 71 | 
 | 2022-10-26 | 374 | 71 | 
 | 2022-10-25 | 372 | 71 | 
-| 2022-10-24 | 370 | 71 | 
 

@@ -1,10 +1,10 @@
 # foxglove/studio - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 147
+☋ Forks: 149
 
-★ Stars: 989
+★ Stars: 991
 
 [Open repository](https://github.com/foxglove/studio)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 991 | 149 | 
 | 2022-11-22 | 989 | 147 | 
 | 2022-11-21 | 989 | 147 | 
 | 2022-11-20 | 988 | 147 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 959 | 139 | 
 | 2022-10-26 | 956 | 139 | 
 | 2022-10-25 | 954 | 138 | 
-| 2022-10-24 | 950 | 138 | 
 

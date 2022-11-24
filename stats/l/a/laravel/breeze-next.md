@@ -1,10 +1,10 @@
 # laravel/breeze-next - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 173
 
-★ Stars: 682
+★ Stars: 684
 
 [Open repository](https://github.com/laravel/breeze-next)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 684 | 173 | 
 | 2022-11-22 | 682 | 173 | 
 | 2022-11-21 | 682 | 172 | 
 | 2022-11-20 | 679 | 170 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 657 | 166 | 
 | 2022-10-26 | 657 | 165 | 
 | 2022-10-25 | 657 | 165 | 
-| 2022-10-24 | 653 | 166 | 
 

@@ -1,10 +1,10 @@
 # xamarin/monodroid-samples - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 4137
 
-★ Stars: 2185
+★ Stars: 2184
 
 [Open repository](https://github.com/xamarin/monodroid-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 2184 | 4137 | 
 | 2022-11-22 | 2185 | 4137 | 
 | 2022-11-21 | 2185 | 4139 | 
 | 2022-11-20 | 2184 | 4139 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 2185 | 4142 | 
 | 2022-10-26 | 2185 | 4141 | 
 | 2022-10-25 | 2185 | 4141 | 
-| 2022-10-24 | 2185 | 4140 | 
 

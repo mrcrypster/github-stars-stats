@@ -1,10 +1,10 @@
 # move-language/move - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 312
 
-★ Stars: 1394
+★ Stars: 1396
 
 [Open repository](https://github.com/move-language/move)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 1396 | 312 | 
 | 2022-11-22 | 1394 | 312 | 
 | 2022-11-21 | 1389 | 311 | 
 | 2022-11-20 | 1385 | 311 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 1255 | 286 | 
 | 2022-10-26 | 1240 | 279 | 
 | 2022-10-25 | 1234 | 278 | 
-| 2022-10-24 | 1222 | 274 | 
 

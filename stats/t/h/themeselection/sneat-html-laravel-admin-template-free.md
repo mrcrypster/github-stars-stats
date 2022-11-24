@@ -1,6 +1,6 @@
 # themeselection/sneat-html-laravel-admin-template-free - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 159 | 45 | 
 | 2022-11-22 | 159 | 45 | 
 | 2022-11-21 | 159 | 45 | 
 | 2022-11-20 | 158 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 145 | 41 | 
 | 2022-10-26 | 145 | 41 | 
 | 2022-10-25 | 145 | 41 | 
-| 2022-10-24 | 143 | 41 | 
 

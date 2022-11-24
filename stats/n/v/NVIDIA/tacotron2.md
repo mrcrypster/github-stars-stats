@@ -1,10 +1,10 @@
 # NVIDIA/tacotron2 - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 1174
+☋ Forks: 1176
 
-★ Stars: 4003
+★ Stars: 4004
 
 [Open repository](https://github.com/NVIDIA/tacotron2)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 4004 | 1176 | 
 | 2022-11-22 | 4003 | 1174 | 
 | 2022-11-21 | 4001 | 1174 | 
 | 2022-11-20 | 4001 | 1174 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 3964 | 1171 | 
 | 2022-10-26 | 3962 | 1171 | 
 | 2022-10-25 | 3959 | 1171 | 
-| 2022-10-24 | 3958 | 1172 | 
 

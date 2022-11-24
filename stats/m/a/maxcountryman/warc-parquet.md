@@ -1,6 +1,6 @@
 # maxcountryman/warc-parquet - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 84 | - | 
 | 2022-11-23 | 84 | - | 
 | 2022-11-22 | 83 | - | 
 | 2022-11-21 | 83 | - | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-27 | 82 | - | 
 | 2022-10-26 | 82 | - | 
 | 2022-10-25 | 82 | - | 
-| 2022-10-24 | 82 | - | 
 

@@ -1,10 +1,10 @@
 # sshnet/SSH.NET - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 805
 
-★ Stars: 3135
+★ Stars: 3137
 
 [Open repository](https://github.com/sshnet/SSH.NET)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 3137 | 805 | 
 | 2022-11-22 | 3135 | 805 | 
 | 2022-11-21 | 3131 | 805 | 
 | 2022-11-20 | 3130 | 805 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 3102 | 801 | 
 | 2022-10-26 | 3101 | 801 | 
 | 2022-10-25 | 3101 | 800 | 
-| 2022-10-24 | 3100 | 800 | 
 

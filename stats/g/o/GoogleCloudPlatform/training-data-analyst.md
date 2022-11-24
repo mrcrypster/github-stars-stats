@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 23
 
-☋ Forks: 5164
+☋ Forks: 5163
 
-★ Stars: 6443
+★ Stars: 6445
 
 [Open repository](https://github.com/GoogleCloudPlatform/training-data-analyst)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-23 | 6443 | 5164 | 
+| 2022-11-23 | 6445 | 5163 | 
 | 2022-11-22 | 6443 | 5164 | 
 | 2022-11-21 | 6436 | 5160 | 
 | 2022-11-20 | 6429 | 5160 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-27 | 6395 | 5107 | 
 | 2022-10-26 | 6396 | 5106 | 
 | 2022-10-25 | 6394 | 5102 | 
-| 2022-10-24 | 6393 | 5098 | 
 

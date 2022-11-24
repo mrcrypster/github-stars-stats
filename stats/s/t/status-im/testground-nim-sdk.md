@@ -1,8 +1,8 @@
 # status-im/testground-nim-sdk - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 3
+☋ Forks: 4
 
 ★ Stars: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 4 | 4 | 
 | 2022-11-22 | 4 | 3 | 
 | 2022-11-21 | 4 | 3 | 
 | 2022-11-20 | 4 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-28 | 3 | 1 | 
 | 2022-10-27 | 3 | 1 | 
 | 2022-10-26 | 3 | 1 | 
-| 2022-10-25 | 3 | 1 | 
 

@@ -1,10 +1,10 @@
 # haze/zig-libressl - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 2
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/haze/zig-libressl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 23 | 2 | 
 | 2022-11-22 | 22 | 2 | 
 | 2022-11-21 | 22 | 2 | 
 | 2022-11-20 | 20 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 16 | 1 | 
 | 2022-10-26 | 16 | 1 | 
 | 2022-10-25 | 16 | 1 | 
-| 2022-10-24 | 16 | 1 | 
 

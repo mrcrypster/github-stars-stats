@@ -1,10 +1,10 @@
 # react-native-elements/react-native-elements - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 4475
 
-★ Stars: 23020
+★ Stars: 23027
 
 [Open repository](https://github.com/react-native-elements/react-native-elements)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 23027 | 4475 | 
 | 2022-11-23 | 23020 | 4475 | 
 | 2022-11-22 | 23019 | 4475 | 
 | 2022-11-21 | 23017 | 4476 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-27 | 22939 | 4460 | 
 | 2022-10-26 | 22935 | 4459 | 
 | 2022-10-25 | 22933 | 4460 | 
-| 2022-10-24 | 22931 | 4459 | 
 

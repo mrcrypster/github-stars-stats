@@ -1,6 +1,6 @@
 # eryajf/HowToStartOpenSource - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 816 | 48 | 
 | 2022-11-22 | 816 | 48 | 
 | 2022-11-21 | 816 | 48 | 
 | 2022-11-20 | 815 | 48 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 804 | 48 | 
 | 2022-10-26 | 805 | 48 | 
 | 2022-10-25 | 804 | 48 | 
-| 2022-10-24 | 804 | 48 | 
 

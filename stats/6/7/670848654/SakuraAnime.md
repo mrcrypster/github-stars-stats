@@ -1,10 +1,10 @@
 # 670848654/SakuraAnime - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 75
 
-★ Stars: 892
+★ Stars: 893
 
 [Open repository](https://github.com/670848654/SakuraAnime)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 893 | 75 | 
 | 2022-11-22 | 892 | 75 | 
 | 2022-11-21 | 891 | 75 | 
 | 2022-11-20 | 889 | 75 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 860 | 73 | 
 | 2022-10-26 | 857 | 73 | 
 | 2022-10-25 | 847 | 72 | 
-| 2022-10-24 | 846 | 72 | 
 

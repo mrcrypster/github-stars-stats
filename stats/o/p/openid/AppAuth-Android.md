@@ -1,10 +1,10 @@
 # openid/AppAuth-Android - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 807
+☋ Forks: 808
 
-★ Stars: 2276
+★ Stars: 2275
 
 [Open repository](https://github.com/openid/AppAuth-Android)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 2275 | 808 | 
 | 2022-11-22 | 2276 | 807 | 
 | 2022-11-21 | 2276 | 806 | 
 | 2022-11-20 | 2275 | 806 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 2264 | 803 | 
 | 2022-10-26 | 2263 | 803 | 
 | 2022-10-25 | 2263 | 802 | 
-| 2022-10-24 | 2263 | 802 | 
 

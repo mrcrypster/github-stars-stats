@@ -1,6 +1,6 @@
 # honserver/honserver - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 39 | 20 | 
 | 2022-11-22 | 39 | 20 | 
 | 2022-11-21 | 39 | 20 | 
 | 2022-11-20 | 39 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-28 | 39 | 19 | 
 | 2022-10-27 | 39 | 19 | 
 | 2022-10-26 | 39 | 19 | 
-| 2022-10-25 | 39 | 19 | 
 

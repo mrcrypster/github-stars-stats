@@ -1,10 +1,10 @@
 # winterbe/java8-tutorial - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 3934
+☋ Forks: 3935
 
-★ Stars: 16063
+★ Stars: 16061
 
 [Open repository](https://github.com/winterbe/java8-tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 16061 | 3935 | 
 | 2022-11-22 | 16063 | 3934 | 
 | 2022-11-21 | 16062 | 3934 | 
 | 2022-11-20 | 16062 | 3932 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-28 | 16026 | 3930 | 
 | 2022-10-27 | 16026 | 3929 | 
 | 2022-10-25 | 16022 | 3929 | 
-| 2022-10-24 | 16019 | 3929 | 
 

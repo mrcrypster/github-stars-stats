@@ -1,10 +1,10 @@
 # artart222/CodeArt - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 40
 
-★ Stars: 813
+★ Stars: 814
 
 [Open repository](https://github.com/artart222/CodeArt)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 814 | 40 | 
 | 2022-11-23 | 813 | 40 | 
 | 2022-11-22 | 813 | 40 | 
 | 2022-11-21 | 812 | 40 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-27 | 805 | 39 | 
 | 2022-10-26 | 805 | 39 | 
 | 2022-10-25 | 803 | 39 | 
-| 2022-10-24 | 803 | 39 | 
 

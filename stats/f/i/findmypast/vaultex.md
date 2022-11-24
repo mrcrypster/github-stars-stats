@@ -1,10 +1,10 @@
 # findmypast/vaultex - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 35
 
-★ Stars: 101
+★ Stars: 100
 
 [Open repository](https://github.com/findmypast/vaultex)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 100 | 35 | 
 | 2022-11-22 | 101 | 35 | 
 | 2022-11-21 | 101 | 35 | 
 | 2022-11-20 | 101 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 102 | 35 | 
 | 2022-10-26 | 102 | 35 | 
 | 2022-10-25 | 102 | 35 | 
-| 2022-10-24 | 102 | 35 | 
 

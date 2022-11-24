@@ -1,10 +1,10 @@
 # google/benchmark - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 1378
 
-★ Stars: 7017
+★ Stars: 7018
 
 [Open repository](https://github.com/google/benchmark)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 7018 | 1378 | 
 | 2022-11-22 | 7017 | 1378 | 
 | 2022-11-21 | 7009 | 1378 | 
 | 2022-11-20 | 7005 | 1377 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 6947 | 1361 | 
 | 2022-10-26 | 6944 | 1360 | 
 | 2022-10-25 | 6940 | 1360 | 
-| 2022-10-24 | 6936 | 1360 | 
 

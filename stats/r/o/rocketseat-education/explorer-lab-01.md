@@ -1,6 +1,6 @@
 # rocketseat-education/explorer-lab-01 - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 636
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 261 | 636 | 
 | 2022-11-22 | 261 | 636 | 
 | 2022-11-21 | 261 | 637 | 
 | 2022-11-20 | 261 | 638 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 258 | 258 | 
 | 2022-10-26 | 257 | 261 | 
 | 2022-10-25 | 257 | 259 | 
-| 2022-10-24 | 256 | 259 | 
 

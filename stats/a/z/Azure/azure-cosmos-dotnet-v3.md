@@ -1,10 +1,10 @@
 # Azure/azure-cosmos-dotnet-v3 - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 400
 
-★ Stars: 566
+★ Stars: 567
 
 [Open repository](https://github.com/Azure/azure-cosmos-dotnet-v3)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 567 | 400 | 
 | 2022-11-22 | 566 | 400 | 
 | 2022-11-21 | 566 | 400 | 
 | 2022-11-20 | 566 | 398 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 560 | 399 | 
 | 2022-10-26 | 560 | 400 | 
 | 2022-10-25 | 558 | 400 | 
-| 2022-10-24 | 558 | 400 | 
 

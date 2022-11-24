@@ -1,10 +1,10 @@
 # Lissy93/dashy - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 584
+☋ Forks: 585
 
-★ Stars: 8286
+★ Stars: 8300
 
 [Open repository](https://github.com/Lissy93/dashy)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 8300 | 585 | 
 | 2022-11-22 | 8286 | 584 | 
 | 2022-11-21 | 8283 | 584 | 
 | 2022-11-20 | 8278 | 582 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 8046 | 552 | 
 | 2022-10-26 | 8022 | 547 | 
 | 2022-10-25 | 8004 | 546 | 
-| 2022-10-24 | 7988 | 543 | 
 

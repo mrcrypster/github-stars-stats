@@ -1,8 +1,8 @@
 # AdobeDocs/experience-manager-65.en - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 100
+☋ Forks: 102
 
 ★ Stars: 52
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 52 | 102 | 
 | 2022-11-22 | 52 | 100 | 
 | 2022-11-21 | 52 | 100 | 
 | 2022-11-20 | 52 | 100 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 50 | 100 | 
 | 2022-10-26 | 50 | 100 | 
 | 2022-10-25 | 50 | 100 | 
-| 2022-10-24 | 50 | 100 | 
 

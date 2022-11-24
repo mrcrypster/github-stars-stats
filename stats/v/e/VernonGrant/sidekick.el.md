@@ -1,10 +1,10 @@
 # VernonGrant/sidekick.el - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 5
 
-★ Stars: 34
+★ Stars: 37
 
 [Open repository](https://github.com/VernonGrant/sidekick.el)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 37 | 5 | 
 | 2022-11-22 | 34 | 5 | 
 | 2022-11-21 | 34 | 5 | 
 | 2022-11-20 | 34 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 33 | 4 | 
 | 2022-10-26 | 33 | 4 | 
 | 2022-10-25 | 33 | 4 | 
-| 2022-10-24 | 33 | 4 | 
 

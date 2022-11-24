@@ -1,10 +1,10 @@
 # manateelazycat/deno-bridge - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 0
 
-★ Stars: 39
+★ Stars: 40
 
 [Open repository](https://github.com/manateelazycat/deno-bridge)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 40 | - | 
 | 2022-11-22 | 39 | - | 
 | 2022-11-21 | 39 | - | 
 | 2022-11-20 | 37 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 27 | - | 
 | 2022-10-26 | 27 | - | 
 | 2022-10-25 | 27 | - | 
-| 2022-10-24 | 27 | - | 
 

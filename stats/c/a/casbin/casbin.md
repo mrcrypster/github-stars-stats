@@ -1,10 +1,10 @@
 # casbin/casbin - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 1444
 
-★ Stars: 13233
+★ Stars: 13237
 
 [Open repository](https://github.com/casbin/casbin)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 13237 | 1444 | 
 | 2022-11-22 | 13233 | 1444 | 
 | 2022-11-21 | 13230 | 1445 | 
 | 2022-11-20 | 13214 | 1443 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 13083 | 1421 | 
 | 2022-10-26 | 13078 | 1421 | 
 | 2022-10-25 | 13075 | 1420 | 
-| 2022-10-24 | 13068 | 1419 | 
 

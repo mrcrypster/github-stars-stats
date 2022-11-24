@@ -1,10 +1,10 @@
 # bast/gtest-demo - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 149
 
-★ Stars: 304
+★ Stars: 305
 
 [Open repository](https://github.com/bast/gtest-demo)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 305 | 149 | 
 | 2022-11-22 | 304 | 149 | 
 | 2022-11-21 | 304 | 149 | 
 | 2022-11-20 | 304 | 149 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 303 | 148 | 
 | 2022-10-26 | 303 | 148 | 
 | 2022-10-25 | 303 | 148 | 
-| 2022-10-24 | 303 | 149 | 
 

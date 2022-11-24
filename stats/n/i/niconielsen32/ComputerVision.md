@@ -1,6 +1,6 @@
 # niconielsen32/ComputerVision - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 399
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 486 | 399 | 
 | 2022-11-23 | 486 | 399 | 
 | 2022-11-22 | 482 | 398 | 
 | 2022-11-21 | 481 | 397 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-27 | 454 | 375 | 
 | 2022-10-26 | 452 | 375 | 
 | 2022-10-25 | 452 | 374 | 
-| 2022-10-24 | 449 | 374 | 
 

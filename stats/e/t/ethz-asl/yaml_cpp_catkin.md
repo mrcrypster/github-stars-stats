@@ -1,6 +1,6 @@
 # ethz-asl/yaml_cpp_catkin - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 5 | 23 | 
 | 2022-11-23 | 5 | 23 | 
 | 2022-11-21 | 5 | 23 | 
 | 2022-11-20 | 5 | 23 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-27 | 5 | 22 | 
 | 2022-10-26 | 5 | 22 | 
 | 2022-10-25 | 5 | 22 | 
-| 2022-10-24 | 5 | 22 | 
 

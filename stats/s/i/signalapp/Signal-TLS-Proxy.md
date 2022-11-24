@@ -1,10 +1,10 @@
 # signalapp/Signal-TLS-Proxy - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 77
 
-★ Stars: 437
+★ Stars: 438
 
 [Open repository](https://github.com/signalapp/Signal-TLS-Proxy)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 438 | 77 | 
 | 2022-11-22 | 437 | 77 | 
 | 2022-11-21 | 437 | 77 | 
 | 2022-11-20 | 435 | 77 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 417 | 72 | 
 | 2022-10-26 | 415 | 72 | 
 | 2022-10-25 | 414 | 72 | 
-| 2022-10-24 | 413 | 72 | 
 

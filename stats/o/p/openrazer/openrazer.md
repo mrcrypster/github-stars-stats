@@ -1,10 +1,10 @@
 # openrazer/openrazer - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 443
+☋ Forks: 444
 
-★ Stars: 2921
+★ Stars: 2924
 
 [Open repository](https://github.com/openrazer/openrazer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 2924 | 444 | 
 | 2022-11-22 | 2921 | 443 | 
 | 2022-11-21 | 2916 | 443 | 
 | 2022-11-20 | 2909 | 442 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 2890 | 438 | 
 | 2022-10-26 | 2888 | 438 | 
 | 2022-10-25 | 2888 | 438 | 
-| 2022-10-24 | 2887 | 438 | 
 

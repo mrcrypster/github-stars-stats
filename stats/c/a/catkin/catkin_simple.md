@@ -1,10 +1,10 @@
 # catkin/catkin_simple - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 137
 
-★ Stars: 130
+★ Stars: 131
 
 [Open repository](https://github.com/catkin/catkin_simple)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 131 | 137 | 
 | 2022-11-22 | 130 | 137 | 
 | 2022-11-21 | 130 | 137 | 
 | 2022-11-20 | 130 | 137 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 127 | 137 | 
 | 2022-10-26 | 127 | 137 | 
 | 2022-10-25 | 127 | 137 | 
-| 2022-10-24 | 127 | 137 | 
 

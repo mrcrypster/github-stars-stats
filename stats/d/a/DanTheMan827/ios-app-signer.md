@@ -1,10 +1,10 @@
 # DanTheMan827/ios-app-signer - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 945
 
-★ Stars: 4697
+★ Stars: 4698
 
 [Open repository](https://github.com/DanTheMan827/ios-app-signer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 4698 | 945 | 
 | 2022-11-22 | 4697 | 945 | 
 | 2022-11-21 | 4697 | 944 | 
 | 2022-11-20 | 4696 | 943 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 4661 | 939 | 
 | 2022-10-26 | 4661 | 939 | 
 | 2022-10-25 | 4661 | 939 | 
-| 2022-10-24 | 4660 | 939 | 
 

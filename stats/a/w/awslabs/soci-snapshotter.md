@@ -1,10 +1,10 @@
 # awslabs/soci-snapshotter - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 19
+☋ Forks: 20
 
-★ Stars: 201
+★ Stars: 202
 
 [Open repository](https://github.com/awslabs/soci-snapshotter)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 202 | 20 | 
 | 2022-11-22 | 201 | 19 | 
 | 2022-11-21 | 201 | 19 | 
 | 2022-11-20 | 201 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 193 | 16 | 
 | 2022-10-26 | 193 | 16 | 
 | 2022-10-25 | 193 | 16 | 
-| 2022-10-24 | 192 | 16 | 
 

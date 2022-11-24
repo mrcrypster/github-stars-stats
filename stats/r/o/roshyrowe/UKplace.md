@@ -1,6 +1,6 @@
 # roshyrowe/UKplace - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 27 | 13 | 
 | 2022-11-22 | 27 | 13 | 
 | 2022-11-21 | 27 | 13 | 
 | 2022-11-20 | 27 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 27 | 14 | 
 | 2022-10-26 | 27 | 14 | 
 | 2022-10-25 | 27 | 14 | 
-| 2022-10-24 | 27 | 14 | 
 

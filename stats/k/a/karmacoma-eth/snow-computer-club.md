@@ -1,10 +1,10 @@
 # karmacoma-eth/snow-computer-club - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 0
 
-★ Stars: 18
+★ Stars: 17
 
 [Open repository](https://github.com/karmacoma-eth/snow-computer-club)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 17 | - | 
 | 2022-11-22 | 18 | - | 
 | 2022-11-21 | 18 | - | 
 | 2022-11-20 | 18 | - | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 18 | - | 
 | 2022-10-26 | 18 | - | 
 | 2022-10-25 | 18 | - | 
-| 2022-10-24 | 18 | - | 
 

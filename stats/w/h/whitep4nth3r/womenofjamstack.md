@@ -1,6 +1,6 @@
 # whitep4nth3r/womenofjamstack - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 37 | 55 | 
 | 2022-11-23 | 37 | 55 | 
 | 2022-11-21 | 37 | 55 | 
 | 2022-11-20 | 37 | 55 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-27 | 37 | 56 | 
 | 2022-10-26 | 37 | 56 | 
 | 2022-10-25 | 37 | 56 | 
-| 2022-10-24 | 37 | 56 | 
 

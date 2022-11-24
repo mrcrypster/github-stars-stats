@@ -1,10 +1,10 @@
 # omniedgeio/omniedge - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 20
 
-★ Stars: 567
+★ Stars: 570
 
 [Open repository](https://github.com/omniedgeio/omniedge)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 570 | 20 | 
 | 2022-11-22 | 567 | 20 | 
 | 2022-11-21 | 565 | 20 | 
 | 2022-11-20 | 561 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-28 | 492 | 17 | 
 | 2022-10-27 | 489 | 17 | 
 | 2022-10-26 | 486 | 17 | 
-| 2022-10-25 | 485 | 17 | 
 

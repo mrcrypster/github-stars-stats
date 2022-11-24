@@ -1,6 +1,6 @@
 # jacoborus/tender.vim - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 76
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 991 | 76 | 
 | 2022-11-23 | 991 | 76 | 
 | 2022-11-22 | 991 | 76 | 
 | 2022-11-21 | 991 | 76 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-27 | 983 | 77 | 
 | 2022-10-26 | 982 | 77 | 
 | 2022-10-25 | 982 | 77 | 
-| 2022-10-24 | 982 | 77 | 
 

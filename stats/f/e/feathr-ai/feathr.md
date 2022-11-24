@@ -1,10 +1,10 @@
 # feathr-ai/feathr - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 156
 
-★ Stars: 1304
+★ Stars: 1308
 
 [Open repository](https://github.com/feathr-ai/feathr)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 1308 | 156 | 
 | 2022-11-22 | 1304 | 156 | 
 | 2022-11-21 | 1302 | 155 | 
 | 2022-11-20 | 1300 | 155 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 1252 | 150 | 
 | 2022-10-26 | 1245 | 150 | 
 | 2022-10-25 | 1221 | 147 | 
-| 2022-10-24 | 1218 | 147 | 
 

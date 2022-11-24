@@ -1,10 +1,10 @@
 # vinceliuice/Layan-kde - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 20
 
-★ Stars: 269
+★ Stars: 270
 
 [Open repository](https://github.com/vinceliuice/Layan-kde)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 270 | 20 | 
 | 2022-11-22 | 269 | 20 | 
 | 2022-11-21 | 269 | 20 | 
 | 2022-11-20 | 269 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 266 | 20 | 
 | 2022-10-26 | 266 | 20 | 
 | 2022-10-25 | 265 | 20 | 
-| 2022-10-24 | 265 | 20 | 
 

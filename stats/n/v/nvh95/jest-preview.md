@@ -1,6 +1,6 @@
 # nvh95/jest-preview - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 2029 | 47 | 
 | 2022-11-22 | 2029 | 47 | 
 | 2022-11-21 | 2027 | 47 | 
 | 2022-11-20 | 2025 | 47 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 1993 | 45 | 
 | 2022-10-26 | 1992 | 45 | 
 | 2022-10-25 | 1991 | 45 | 
-| 2022-10-24 | 1981 | 44 | 
 

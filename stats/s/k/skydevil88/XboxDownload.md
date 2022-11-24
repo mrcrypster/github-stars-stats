@@ -1,10 +1,10 @@
 # skydevil88/XboxDownload - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 88
 
-★ Stars: 1047
+★ Stars: 1048
 
 [Open repository](https://github.com/skydevil88/XboxDownload)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 1048 | 88 | 
 | 2022-11-22 | 1047 | 88 | 
 | 2022-11-21 | 1043 | 88 | 
 | 2022-11-20 | 1042 | 87 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 988 | 83 | 
 | 2022-10-26 | 986 | 83 | 
 | 2022-10-25 | 982 | 83 | 
-| 2022-10-24 | 975 | 82 | 
 

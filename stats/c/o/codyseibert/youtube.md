@@ -1,10 +1,10 @@
 # codyseibert/youtube - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 383
 
-★ Stars: 257
+★ Stars: 259
 
 [Open repository](https://github.com/codyseibert/youtube)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 259 | 383 | 
 | 2022-11-22 | 257 | 383 | 
 | 2022-11-21 | 257 | 382 | 
 | 2022-11-20 | 257 | 381 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 243 | 369 | 
 | 2022-10-26 | 242 | 369 | 
 | 2022-10-25 | 241 | 368 | 
-| 2022-10-24 | 241 | 368 | 
 

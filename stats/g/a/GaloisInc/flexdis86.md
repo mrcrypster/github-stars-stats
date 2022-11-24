@@ -1,6 +1,6 @@
 # GaloisInc/flexdis86 - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 31 | 8 | 
 | 2022-11-22 | 31 | 8 | 
 | 2022-11-21 | 31 | 8 | 
 | 2022-11-20 | 31 | 8 | 

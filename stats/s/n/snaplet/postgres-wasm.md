@@ -1,10 +1,10 @@
 # snaplet/postgres-wasm - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 54
 
-★ Stars: 1896
+★ Stars: 1897
 
 [Open repository](https://github.com/snaplet/postgres-wasm)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 1897 | 54 | 
 | 2022-11-23 | 1896 | 54 | 
 | 2022-11-22 | 1894 | 54 | 
 | 2022-11-21 | 1894 | 54 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-27 | 1819 | 51 | 
 | 2022-10-26 | 1808 | 51 | 
 | 2022-10-25 | 1798 | 51 | 
-| 2022-10-24 | 1794 | 50 | 
 

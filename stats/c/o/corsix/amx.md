@@ -1,6 +1,6 @@
 # corsix/amx - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 489 | 24 | 
 | 2022-11-22 | 489 | 24 | 
 | 2022-11-21 | 489 | 24 | 
 | 2022-11-20 | 489 | 24 | 

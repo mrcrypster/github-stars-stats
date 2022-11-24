@@ -1,10 +1,10 @@
 # googleapis/google-api-php-client - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 3478
 
-★ Stars: 8342
+★ Stars: 8343
 
 [Open repository](https://github.com/googleapis/google-api-php-client)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 8343 | 3478 | 
 | 2022-11-22 | 8342 | 3478 | 
 | 2022-11-21 | 8342 | 3479 | 
 | 2022-11-20 | 8340 | 3478 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 8321 | 3472 | 
 | 2022-10-26 | 8318 | 3471 | 
 | 2022-10-25 | 8316 | 3471 | 
-| 2022-10-24 | 8313 | 3471 | 
 

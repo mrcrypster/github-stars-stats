@@ -1,8 +1,8 @@
 # QInzhengk/Math-Model-and-Machine-Learning - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 64
+☋ Forks: 63
 
 ★ Stars: 166
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 166 | 63 | 
 | 2022-11-22 | 166 | 64 | 
 | 2022-11-21 | 166 | 63 | 
 | 2022-11-20 | 165 | 63 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 156 | 59 | 
 | 2022-10-26 | 155 | 59 | 
 | 2022-10-25 | 155 | 58 | 
-| 2022-10-24 | 155 | 58 | 
 

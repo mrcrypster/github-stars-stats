@@ -1,10 +1,10 @@
 # surrealdb/www.surrealdb.com - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 31
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/surrealdb/www.surrealdb.com)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 26 | 31 | 
 | 2022-11-22 | 25 | 31 | 
 | 2022-11-21 | 25 | 31 | 
 | 2022-11-20 | 25 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 22 | 29 | 
 | 2022-10-26 | 22 | 30 | 
 | 2022-10-25 | 21 | 30 | 
-| 2022-10-24 | 20 | 30 | 
 

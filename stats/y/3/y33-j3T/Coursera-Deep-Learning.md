@@ -1,6 +1,6 @@
 # y33-j3T/Coursera-Deep-Learning - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 197
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 184 | 197 | 
 | 2022-11-22 | 184 | 197 | 
 | 2022-11-21 | 184 | 197 | 
 | 2022-11-20 | 184 | 196 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 174 | 190 | 
 | 2022-10-26 | 174 | 190 | 
 | 2022-10-25 | 174 | 190 | 
-| 2022-10-24 | 174 | 190 | 
 

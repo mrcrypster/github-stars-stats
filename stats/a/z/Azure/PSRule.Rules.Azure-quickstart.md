@@ -1,10 +1,10 @@
 # Azure/PSRule.Rules.Azure-quickstart - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 11
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/Azure/PSRule.Rules.Azure-quickstart)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 17 | 11 | 
 | 2022-11-22 | 16 | 11 | 
 | 2022-11-21 | 16 | 11 | 
 | 2022-11-20 | 16 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 15 | 10 | 
 | 2022-10-26 | 15 | 10 | 
 | 2022-10-25 | 15 | 9 | 
-| 2022-10-24 | 15 | 9 | 
 

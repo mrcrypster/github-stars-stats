@@ -1,10 +1,10 @@
 # getsentry/sentry-javascript - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 1337
+☋ Forks: 1338
 
-★ Stars: 6687
+★ Stars: 6690
 
 [Open repository](https://github.com/getsentry/sentry-javascript)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 6690 | 1338 | 
 | 2022-11-22 | 6687 | 1337 | 
 | 2022-11-21 | 6686 | 1337 | 
 | 2022-11-20 | 6684 | 1336 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 6629 | 1331 | 
 | 2022-10-26 | 6627 | 1328 | 
 | 2022-10-25 | 6625 | 1326 | 
-| 2022-10-24 | 6624 | 1325 | 
 

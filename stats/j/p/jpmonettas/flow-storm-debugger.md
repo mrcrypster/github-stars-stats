@@ -1,6 +1,6 @@
 # jpmonettas/flow-storm-debugger - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 366 | 10 | 
 | 2022-11-22 | 366 | 10 | 
 | 2022-11-21 | 366 | 10 | 
 | 2022-11-20 | 365 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 354 | 8 | 
 | 2022-10-26 | 353 | 8 | 
 | 2022-10-25 | 352 | 8 | 
-| 2022-10-24 | 352 | 8 | 
 

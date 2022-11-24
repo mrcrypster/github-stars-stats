@@ -1,6 +1,6 @@
 # doocs/technical-books - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 885
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 4787 | 885 | 
 | 2022-11-22 | 4787 | 885 | 
 | 2022-11-21 | 4782 | 884 | 
 | 2022-11-20 | 4779 | 885 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 4748 | 881 | 
 | 2022-10-26 | 4745 | 881 | 
 | 2022-10-25 | 4744 | 881 | 
-| 2022-10-24 | 4741 | 881 | 
 

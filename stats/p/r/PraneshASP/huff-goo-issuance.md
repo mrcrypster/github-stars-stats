@@ -1,10 +1,10 @@
 # PraneshASP/huff-goo-issuance - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 1
 
-★ Stars: 34
+★ Stars: 33
 
 [Open repository](https://github.com/PraneshASP/huff-goo-issuance)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 33 | 1 | 
 | 2022-11-22 | 34 | 1 | 
 | 2022-11-21 | 34 | 1 | 
 | 2022-11-20 | 34 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 34 | 1 | 
 | 2022-10-26 | 33 | 1 | 
 | 2022-10-25 | 33 | 1 | 
-| 2022-10-24 | 33 | 1 | 
 

@@ -1,10 +1,10 @@
 # mmistakes/so-simple-theme - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 2419
+☋ Forks: 2421
 
-★ Stars: 1814
+★ Stars: 1816
 
 [Open repository](https://github.com/mmistakes/so-simple-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 1816 | 2421 | 
 | 2022-11-22 | 1814 | 2419 | 
 | 2022-11-21 | 1814 | 2417 | 
 | 2022-11-20 | 1814 | 2417 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 1803 | 2412 | 
 | 2022-10-26 | 1803 | 2413 | 
 | 2022-10-25 | 1803 | 2412 | 
-| 2022-10-24 | 1802 | 2413 | 
 

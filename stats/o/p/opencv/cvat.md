@@ -1,10 +1,10 @@
 # opencv/cvat - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 2207
+☋ Forks: 2209
 
-★ Stars: 8297
+★ Stars: 8376
 
 [Open repository](https://github.com/opencv/cvat)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 8376 | 2209 | 
 | 2022-11-22 | 8297 | 2207 | 
 | 2022-11-21 | 8224 | 2207 | 
 | 2022-11-20 | 8210 | 2201 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 8080 | 2176 | 
 | 2022-10-26 | 8066 | 2176 | 
 | 2022-10-25 | 8059 | 2174 | 
-| 2022-10-24 | 8052 | 2170 | 
 

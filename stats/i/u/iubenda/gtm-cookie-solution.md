@@ -1,10 +1,10 @@
 # iubenda/gtm-cookie-solution - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 0
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/iubenda/gtm-cookie-solution)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 1 | - | 
 | 2022-11-23 | - | - | 
 | 2022-11-21 | - | - | 
 | 2022-11-20 | - | - | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-27 | - | - | 
 | 2022-10-26 | - | - | 
 | 2022-10-25 | - | - | 
-| 2022-10-24 | - | - | 
 

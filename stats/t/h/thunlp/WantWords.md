@@ -1,10 +1,10 @@
 # thunlp/WantWords - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 551
 
-★ Stars: 6221
+★ Stars: 6225
 
 [Open repository](https://github.com/thunlp/WantWords)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 6225 | 551 | 
 | 2022-11-22 | 6221 | 551 | 
 | 2022-11-21 | 6218 | 550 | 
 | 2022-11-20 | 6215 | 549 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 6151 | 549 | 
 | 2022-10-26 | 6148 | 549 | 
 | 2022-10-25 | 6146 | 549 | 
-| 2022-10-24 | 6143 | 548 | 
 

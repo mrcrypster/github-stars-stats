@@ -1,8 +1,8 @@
 # NelosG/fp-tests - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 9
+☋ Forks: 10
 
 ★ Stars: 29
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 29 | 10 | 
 | 2022-11-23 | 29 | 9 | 
 | 2022-11-22 | 29 | 9 | 
 | 2022-11-21 | 29 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-27 | 29 | 9 | 
 | 2022-10-26 | 29 | 9 | 
 | 2022-10-25 | 29 | 9 | 
-| 2022-10-24 | 29 | 9 | 
 

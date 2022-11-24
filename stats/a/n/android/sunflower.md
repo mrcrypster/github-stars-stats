@@ -1,10 +1,10 @@
 # android/sunflower - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 24
 
-☋ Forks: 4289
+☋ Forks: 4294
 
-★ Stars: 16301
+★ Stars: 16312
 
 [Open repository](https://github.com/android/sunflower)
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 16312 | 4294 | 
+| 2022-11-23 | 16312 | 4294 | 
 | 2022-11-22 | 16301 | 4289 | 
 | 2022-11-21 | 16301 | 4288 | 
 | 2022-11-20 | 16298 | 4287 | 
@@ -41,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 16218 | 4272 | 
 | 2022-10-26 | 16214 | 4271 | 
 | 2022-10-25 | 16212 | 4269 | 
-| 2022-10-24 | 16211 | 4268 | 
 

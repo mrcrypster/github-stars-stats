@@ -1,10 +1,10 @@
 # JingShing/Sorry-NxxxxAI - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 22
 
-★ Stars: 35
+★ Stars: 36
 
 [Open repository](https://github.com/JingShing/Sorry-NxxxxAI)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 36 | 22 | 
 | 2022-11-22 | 35 | 22 | 
 | 2022-11-21 | 35 | 22 | 
 | 2022-11-20 | 35 | 22 | 

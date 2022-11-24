@@ -1,10 +1,10 @@
 # DestinyItemManager/DIM - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 534
 
-★ Stars: 1725
+★ Stars: 1727
 
 [Open repository](https://github.com/DestinyItemManager/DIM)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 1727 | 534 | 
 | 2022-11-22 | 1725 | 534 | 
 | 2022-11-21 | 1723 | 534 | 
 | 2022-11-20 | 1723 | 534 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 1713 | 536 | 
 | 2022-10-26 | 1711 | 537 | 
 | 2022-10-25 | 1710 | 537 | 
-| 2022-10-24 | 1709 | 537 | 
 

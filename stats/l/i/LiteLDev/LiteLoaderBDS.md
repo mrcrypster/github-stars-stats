@@ -1,10 +1,10 @@
 # LiteLDev/LiteLoaderBDS - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 75
 
-★ Stars: 525
+★ Stars: 526
 
 [Open repository](https://github.com/LiteLDev/LiteLoaderBDS)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 526 | 75 | 
 | 2022-11-22 | 525 | 75 | 
 | 2022-11-21 | 524 | 75 | 
 | 2022-11-20 | 523 | 75 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 506 | 77 | 
 | 2022-10-26 | 504 | 77 | 
 | 2022-10-25 | 502 | 77 | 
-| 2022-10-24 | 501 | 78 | 
 

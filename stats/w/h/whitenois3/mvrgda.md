@@ -1,10 +1,10 @@
 # whitenois3/mvrgda - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 0
 
-★ Stars: 36
+★ Stars: 35
 
 [Open repository](https://github.com/whitenois3/mvrgda)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 35 | - | 
 | 2022-11-22 | 36 | - | 
 | 2022-11-21 | 36 | - | 
 | 2022-11-20 | 36 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 36 | - | 
 | 2022-10-26 | 36 | - | 
 | 2022-10-25 | 36 | - | 
-| 2022-10-24 | 36 | - | 
 

@@ -1,10 +1,10 @@
 # rmcelreath/stat_rethinking_2022 - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 385
+☋ Forks: 386
 
-★ Stars: 3817
+★ Stars: 3822
 
 [Open repository](https://github.com/rmcelreath/stat_rethinking_2022)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 3822 | 386 | 
 | 2022-11-22 | 3817 | 385 | 
 | 2022-11-21 | 3815 | 384 | 
 | 2022-11-20 | 3811 | 384 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 3743 | 372 | 
 | 2022-10-26 | 3743 | 373 | 
 | 2022-10-25 | 3737 | 371 | 
-| 2022-10-24 | 3734 | 371 | 
 

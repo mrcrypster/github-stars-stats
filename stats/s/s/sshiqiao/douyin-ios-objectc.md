@@ -1,6 +1,6 @@
 # sshiqiao/douyin-ios-objectc - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 625
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 2191 | 625 | 
 | 2022-11-22 | 2191 | 625 | 
 | 2022-11-21 | 2190 | 625 | 
 | 2022-11-20 | 2189 | 625 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-28 | 2178 | 621 | 
 | 2022-10-27 | 2177 | 621 | 
 | 2022-10-26 | 2176 | 621 | 
-| 2022-10-25 | 2176 | 621 | 
 

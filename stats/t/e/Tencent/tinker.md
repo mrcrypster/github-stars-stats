@@ -1,10 +1,10 @@
 # Tencent/tinker - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 3320
+☋ Forks: 3321
 
-★ Stars: 16606
+★ Stars: 16609
 
 [Open repository](https://github.com/Tencent/tinker)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 16609 | 3321 | 
 | 2022-11-22 | 16606 | 3320 | 
 | 2022-11-21 | 16609 | 3320 | 
 | 2022-11-20 | 16610 | 3320 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 16592 | 3313 | 
 | 2022-10-26 | 16589 | 3312 | 
 | 2022-10-25 | 16588 | 3312 | 
-| 2022-10-24 | 16585 | 3312 | 
 

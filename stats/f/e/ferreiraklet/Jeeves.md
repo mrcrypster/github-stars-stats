@@ -1,10 +1,10 @@
 # ferreiraklet/Jeeves - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 38
 
-★ Stars: 164
+★ Stars: 165
 
 [Open repository](https://github.com/ferreiraklet/Jeeves)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 165 | 38 | 
 | 2022-11-22 | 164 | 38 | 
 | 2022-11-21 | 163 | 38 | 
 | 2022-11-20 | 164 | 38 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 162 | 38 | 
 | 2022-10-26 | 162 | 38 | 
 | 2022-10-25 | 162 | 38 | 
-| 2022-10-24 | 162 | 38 | 
 

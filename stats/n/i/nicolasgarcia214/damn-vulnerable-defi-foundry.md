@@ -1,8 +1,8 @@
 # nicolasgarcia214/damn-vulnerable-defi-foundry - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 78
+☋ Forks: 79
 
 ★ Stars: 303
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 303 | 79 | 
 | 2022-11-22 | 303 | 78 | 
 | 2022-11-21 | 303 | 77 | 
 | 2022-11-20 | 303 | 77 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 302 | 76 | 
 | 2022-10-26 | 302 | 76 | 
 | 2022-10-25 | 302 | 76 | 
-| 2022-10-24 | 301 | 75 | 
 

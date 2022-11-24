@@ -1,6 +1,6 @@
 # samuelcolvin/pydantic-core - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 655 | 53 | 
 | 2022-11-22 | 655 | 53 | 
 | 2022-11-21 | 655 | 53 | 
 | 2022-11-20 | 655 | 53 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 568 | 47 | 
 | 2022-10-26 | 563 | 46 | 
 | 2022-10-25 | 561 | 45 | 
-| 2022-10-24 | 560 | 44 | 
 

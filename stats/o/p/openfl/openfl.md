@@ -1,6 +1,6 @@
 # openfl/openfl - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 396
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 1721 | 396 | 
 | 2022-11-22 | 1721 | 396 | 
 | 2022-11-21 | 1721 | 396 | 
 | 2022-11-20 | 1721 | 395 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 1711 | 392 | 
 | 2022-10-26 | 1711 | 392 | 
 | 2022-10-25 | 1710 | 392 | 
-| 2022-10-24 | 1710 | 393 | 
 

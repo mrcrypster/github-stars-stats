@@ -1,6 +1,6 @@
 # square/picasso - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 4031
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 18415 | 4031 | 
 | 2022-11-22 | 18415 | 4031 | 
 | 2022-11-21 | 18412 | 4031 | 
 | 2022-11-20 | 18412 | 4031 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 18393 | 4030 | 
 | 2022-10-26 | 18393 | 4030 | 
 | 2022-10-25 | 18395 | 4031 | 
-| 2022-10-24 | 18392 | 4031 | 
 

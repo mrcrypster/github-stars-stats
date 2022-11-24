@@ -1,8 +1,8 @@
 # udacity/cd0046-SQL-and-Data-Modeling-for-the-Web - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 454
+☋ Forks: 455
 
 ★ Stars: 59
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 59 | 455 | 
 | 2022-11-22 | 59 | 454 | 
 | 2022-11-21 | 59 | 454 | 
 | 2022-11-20 | 59 | 454 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 59 | 448 | 
 | 2022-10-26 | 59 | 448 | 
 | 2022-10-25 | 59 | 449 | 
-| 2022-10-24 | 59 | 450 | 
 

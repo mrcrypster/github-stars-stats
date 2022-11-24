@@ -1,10 +1,10 @@
 # mikangogo/JRTrainPack - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 5
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/mikangogo/JRTrainPack)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 9 | 5 | 
 | 2022-11-22 | 8 | 5 | 
 | 2022-11-21 | 8 | 5 | 
 | 2022-11-20 | 8 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 8 | 5 | 
 | 2022-10-26 | 8 | 5 | 
 | 2022-10-25 | 8 | 5 | 
-| 2022-10-24 | 8 | 5 | 
 

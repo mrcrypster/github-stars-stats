@@ -1,8 +1,8 @@
 # vmware-samples/packer-examples-for-vsphere - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 150
+☋ Forks: 151
 
 ★ Stars: 372
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 372 | 151 | 
 | 2022-11-22 | 372 | 150 | 
 | 2022-11-21 | 371 | 150 | 
 | 2022-11-20 | 371 | 150 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 343 | 136 | 
 | 2022-10-26 | 342 | 134 | 
 | 2022-10-25 | 339 | 133 | 
-| 2022-10-24 | 337 | 132 | 
 

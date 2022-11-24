@@ -1,6 +1,6 @@
 # HarbourMasters/Shipwright - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 288
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 1572 | 288 | 
 | 2022-11-22 | 1572 | 288 | 
 | 2022-11-21 | 1571 | 288 | 
 | 2022-11-20 | 1568 | 288 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 1527 | 279 | 
 | 2022-10-26 | 1526 | 279 | 
 | 2022-10-25 | 1522 | 278 | 
-| 2022-10-24 | 1519 | 278 | 
 

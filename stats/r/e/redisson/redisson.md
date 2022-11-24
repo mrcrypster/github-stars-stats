@@ -1,10 +1,10 @@
 # redisson/redisson - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 4868
+☋ Forks: 4870
 
-★ Stars: 20187
+★ Stars: 20190
 
 [Open repository](https://github.com/redisson/redisson)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 20190 | 4870 | 
 | 2022-11-22 | 20187 | 4868 | 
 | 2022-11-21 | 20176 | 4866 | 
 | 2022-11-20 | 20166 | 4864 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 20025 | 4842 | 
 | 2022-10-26 | 20020 | 4842 | 
 | 2022-10-25 | 20016 | 4841 | 
-| 2022-10-24 | 20009 | 4839 | 
 

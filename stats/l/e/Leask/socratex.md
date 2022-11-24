@@ -1,10 +1,10 @@
 # Leask/socratex - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 21
 
-★ Stars: 214
+★ Stars: 215
 
 [Open repository](https://github.com/Leask/socratex)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 215 | 21 | 
 | 2022-11-22 | 214 | 21 | 
 | 2022-11-21 | 214 | 21 | 
 | 2022-11-20 | 214 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 209 | 22 | 
 | 2022-10-26 | 209 | 22 | 
 | 2022-10-25 | 209 | 22 | 
-| 2022-10-24 | 209 | 21 | 
 

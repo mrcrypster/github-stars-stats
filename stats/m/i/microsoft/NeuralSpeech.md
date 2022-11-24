@@ -1,10 +1,10 @@
 # microsoft/NeuralSpeech - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 79
+☋ Forks: 80
 
-★ Stars: 656
+★ Stars: 657
 
 [Open repository](https://github.com/microsoft/NeuralSpeech)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 657 | 80 | 
 | 2022-11-22 | 656 | 79 | 
 | 2022-11-21 | 656 | 79 | 
 | 2022-11-20 | 656 | 79 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 632 | 77 | 
 | 2022-10-26 | 631 | 77 | 
 | 2022-10-25 | 629 | 76 | 
-| 2022-10-24 | 629 | 76 | 
 

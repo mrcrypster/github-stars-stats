@@ -1,10 +1,10 @@
 # opensearch-project/OpenSearch - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 818
 
-★ Stars: 6031
+★ Stars: 6035
 
 [Open repository](https://github.com/opensearch-project/OpenSearch)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 6035 | 818 | 
 | 2022-11-22 | 6031 | 818 | 
 | 2022-11-21 | 6023 | 817 | 
 | 2022-11-20 | 6019 | 815 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 5919 | 792 | 
 | 2022-10-26 | 5913 | 791 | 
 | 2022-10-25 | 5907 | 789 | 
-| 2022-10-24 | 5897 | 787 | 
 

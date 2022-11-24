@@ -1,10 +1,10 @@
 # ismayc/thesisdown - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 344
+☋ Forks: 343
 
-★ Stars: 729
+★ Stars: 730
 
 [Open repository](https://github.com/ismayc/thesisdown)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 730 | 343 | 
 | 2022-11-22 | 729 | 344 | 
 | 2022-11-21 | 729 | 344 | 
 | 2022-11-20 | 728 | 343 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 723 | 345 | 
 | 2022-10-26 | 723 | 345 | 
 | 2022-10-25 | 722 | 345 | 
-| 2022-10-24 | 722 | 345 | 
 

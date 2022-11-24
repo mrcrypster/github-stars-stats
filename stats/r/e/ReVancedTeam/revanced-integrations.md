@@ -1,8 +1,8 @@
 # ReVancedTeam/revanced-integrations - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 90
+☋ Forks: 91
 
 ★ Stars: 367
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 367 | 91 | 
 | 2022-11-22 | 367 | 90 | 
 | 2022-11-21 | 366 | 90 | 
 | 2022-11-20 | 366 | 89 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-28 | 349 | 85 | 
 | 2022-10-27 | 349 | 84 | 
 | 2022-10-25 | 349 | 84 | 
-| 2022-10-24 | 349 | 83 | 
 

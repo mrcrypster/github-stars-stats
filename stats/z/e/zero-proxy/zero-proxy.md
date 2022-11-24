@@ -1,10 +1,10 @@
 # zero-proxy/zero-proxy - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 19
 
-★ Stars: 287
+★ Stars: 288
 
 [Open repository](https://github.com/zero-proxy/zero-proxy)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 288 | 19 | 
 | 2022-11-22 | 287 | 19 | 
 | 2022-11-21 | 287 | 19 | 
 | 2022-11-20 | 287 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-28 | 287 | 19 | 
 | 2022-10-27 | 287 | 19 | 
 | 2022-10-25 | 287 | 19 | 
-| 2022-10-24 | 287 | 19 | 
 

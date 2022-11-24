@@ -1,6 +1,6 @@
 # EnzymeAD/Enzyme.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 247 | 26 | 
 | 2022-11-22 | 247 | 26 | 
 | 2022-11-21 | 247 | 26 | 
 | 2022-11-20 | 245 | 27 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 236 | 27 | 
 | 2022-10-26 | 236 | 27 | 
 | 2022-10-25 | 236 | 27 | 
-| 2022-10-24 | 234 | 27 | 
 

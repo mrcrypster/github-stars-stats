@@ -1,10 +1,10 @@
 # virtualagc/virtualagc - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 317
 
-★ Stars: 2224
+★ Stars: 2225
 
 [Open repository](https://github.com/virtualagc/virtualagc)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 2225 | 317 | 
 | 2022-11-22 | 2224 | 317 | 
 | 2022-11-21 | 2223 | 317 | 
 | 2022-11-20 | 2223 | 317 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 2216 | 317 | 
 | 2022-10-26 | 2216 | 317 | 
 | 2022-10-25 | 2216 | 317 | 
-| 2022-10-24 | 2215 | 317 | 
 

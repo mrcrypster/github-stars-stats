@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 23
 
 ☋ Forks: 165
 
-★ Stars: 7072
+★ Stars: 7078
 
 [Open repository](https://github.com/volta-cli/volta)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-23 | 7072 | 165 | 
+| 2022-11-23 | 7078 | 165 | 
 | 2022-11-22 | 7070 | 165 | 
 | 2022-11-21 | 7034 | 164 | 
 | 2022-11-20 | 7027 | 164 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-27 | 6860 | 161 | 
 | 2022-10-26 | 6853 | 161 | 
 | 2022-10-25 | 6849 | 161 | 
-| 2022-10-24 | 6844 | 160 | 
 

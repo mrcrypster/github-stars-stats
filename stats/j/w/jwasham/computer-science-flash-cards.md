@@ -1,10 +1,10 @@
 # jwasham/computer-science-flash-cards - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 1805
 
-★ Stars: 7194
+★ Stars: 7196
 
 [Open repository](https://github.com/jwasham/computer-science-flash-cards)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 7196 | 1805 | 
 | 2022-11-23 | 7194 | 1805 | 
 | 2022-11-21 | 7194 | 1805 | 
 | 2022-11-20 | 7193 | 1803 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 7140 | 1791 | 
 | 2022-10-27 | 7139 | 1790 | 
 | 2022-10-25 | 7139 | 1790 | 
-| 2022-10-24 | 7137 | 1790 | 
 

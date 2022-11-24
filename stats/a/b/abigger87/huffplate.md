@@ -1,10 +1,10 @@
 # abigger87/huffplate - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 1
 
-★ Stars: 25
+★ Stars: 24
 
 [Open repository](https://github.com/abigger87/huffplate)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 24 | 1 | 
 | 2022-11-22 | 25 | 1 | 
 | 2022-11-21 | 25 | 1 | 
 | 2022-11-20 | 25 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 25 | 1 | 
 | 2022-10-26 | 25 | 1 | 
 | 2022-10-25 | 25 | 1 | 
-| 2022-10-24 | 18 | 1 | 
 

@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 23
 
 ☋ Forks: 188
 
-★ Stars: 581
+★ Stars: 582
 
 [Open repository](https://github.com/devrimgunduz/pagila)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-23 | 581 | 188 | 
+| 2022-11-23 | 582 | 188 | 
 | 2022-11-22 | 581 | 188 | 
 | 2022-11-21 | 578 | 187 | 
 | 2022-11-20 | 578 | 187 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-27 | 568 | 182 | 
 | 2022-10-26 | 568 | 182 | 
 | 2022-10-25 | 567 | 181 | 
-| 2022-10-24 | 567 | 181 | 
 

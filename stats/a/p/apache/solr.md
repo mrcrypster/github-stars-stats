@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 23
 
 ☋ Forks: 385
 
-★ Stars: 583
+★ Stars: 585
 
 [Open repository](https://github.com/apache/solr)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-23 | 583 | 385 | 
+| 2022-11-23 | 585 | 385 | 
 | 2022-11-22 | 583 | 385 | 
 | 2022-11-21 | 581 | 383 | 
 | 2022-11-20 | 580 | 383 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-27 | 560 | 370 | 
 | 2022-10-26 | 559 | 369 | 
 | 2022-10-25 | 557 | 367 | 
-| 2022-10-24 | 557 | 366 | 
 

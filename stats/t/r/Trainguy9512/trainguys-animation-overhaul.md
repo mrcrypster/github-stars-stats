@@ -1,6 +1,6 @@
 # Trainguy9512/trainguys-animation-overhaul - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 155
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 214 | 155 | 
 | 2022-11-22 | 214 | 155 | 
 | 2022-11-21 | 214 | 154 | 
 | 2022-11-20 | 213 | 153 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 211 | 147 | 
 | 2022-10-26 | 211 | 147 | 
 | 2022-10-25 | 211 | 147 | 
-| 2022-10-24 | 211 | 147 | 
 

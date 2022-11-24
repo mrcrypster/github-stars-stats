@@ -1,6 +1,6 @@
 # asdf-vm/asdf-erlang - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 98
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 342 | 98 | 
 | 2022-11-22 | 342 | 98 | 
 | 2022-11-21 | 342 | 98 | 
 | 2022-11-20 | 341 | 98 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 338 | 97 | 
 | 2022-10-26 | 338 | 97 | 
 | 2022-10-25 | 338 | 97 | 
-| 2022-10-24 | 338 | 97 | 
 

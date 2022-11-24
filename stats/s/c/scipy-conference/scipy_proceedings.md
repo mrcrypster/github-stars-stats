@@ -1,6 +1,6 @@
 # scipy-conference/scipy_proceedings - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 430
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 199 | 430 | 
 | 2022-11-22 | 199 | 430 | 
 | 2022-11-21 | 199 | 430 | 
 | 2022-11-20 | 199 | 430 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 199 | 431 | 
 | 2022-10-26 | 199 | 431 | 
 | 2022-10-25 | 199 | 431 | 
-| 2022-10-24 | 199 | 431 | 
 

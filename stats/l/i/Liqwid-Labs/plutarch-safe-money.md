@@ -1,10 +1,10 @@
 # Liqwid-Labs/plutarch-safe-money - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 1
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/Liqwid-Labs/plutarch-safe-money)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 3 | 1 | 
 | 2022-11-22 | 2 | 1 | 
 | 2022-11-21 | 2 | 1 | 
 | 2022-11-20 | 2 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 2 | 1 | 
 | 2022-10-26 | 2 | 1 | 
 | 2022-10-25 | 2 | 1 | 
-| 2022-10-24 | 2 | 1 | 
 

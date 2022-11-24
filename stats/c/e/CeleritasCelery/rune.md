@@ -1,6 +1,6 @@
 # CeleritasCelery/rune - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 120 | 6 | 
 | 2022-11-22 | 120 | 6 | 
 | 2022-11-21 | 119 | 6 | 
 | 2022-11-20 | 119 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 117 | 7 | 
 | 2022-10-26 | 117 | 8 | 
 | 2022-10-25 | 117 | 8 | 
-| 2022-10-24 | 117 | 8 | 
 

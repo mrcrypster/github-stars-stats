@@ -1,10 +1,10 @@
 # w3c/webdriver-bidi - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 26
 
-★ Stars: 126
+★ Stars: 127
 
 [Open repository](https://github.com/w3c/webdriver-bidi)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 127 | 26 | 
 | 2022-11-22 | 126 | 26 | 
 | 2022-11-21 | 126 | 26 | 
 | 2022-11-20 | 126 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 124 | 24 | 
 | 2022-10-26 | 124 | 24 | 
 | 2022-10-25 | 124 | 24 | 
-| 2022-10-24 | 124 | 24 | 
 

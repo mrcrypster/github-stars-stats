@@ -1,6 +1,6 @@
 # ChimeHQ/ConcurrencyPlus - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 192 | 10 | 
 | 2022-11-22 | 192 | 10 | 
 | 2022-11-21 | 191 | 10 | 
 | 2022-11-20 | 191 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 139 | 8 | 
 | 2022-10-26 | 137 | 7 | 
 | 2022-10-25 | 135 | 7 | 
-| 2022-10-24 | 128 | 7 | 
 

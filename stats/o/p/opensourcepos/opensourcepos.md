@@ -1,10 +1,10 @@
 # opensourcepos/opensourcepos - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 1878
 
-★ Stars: 2670
+★ Stars: 2672
 
 [Open repository](https://github.com/opensourcepos/opensourcepos)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 2672 | 1878 | 
 | 2022-11-23 | 2670 | 1878 | 
 | 2022-11-22 | 2669 | 1878 | 
 | 2022-11-21 | 2667 | 1878 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-27 | 2638 | 1873 | 
 | 2022-10-26 | 2638 | 1871 | 
 | 2022-10-25 | 2636 | 1871 | 
-| 2022-10-24 | 2637 | 1871 | 
 

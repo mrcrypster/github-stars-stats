@@ -1,10 +1,10 @@
 # kkoomen/pointless - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 55
 
-★ Stars: 886
+★ Stars: 887
 
 [Open repository](https://github.com/kkoomen/pointless)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 887 | 55 | 
 | 2022-11-22 | 886 | 55 | 
 | 2022-11-21 | 885 | 55 | 
 | 2022-11-20 | 884 | 55 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 860 | 50 | 
 | 2022-10-26 | 861 | 50 | 
 | 2022-10-25 | 860 | 50 | 
-| 2022-10-24 | 859 | 50 | 
 

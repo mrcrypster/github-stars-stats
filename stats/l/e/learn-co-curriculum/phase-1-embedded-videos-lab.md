@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-1-embedded-videos-lab - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 535
+☋ Forks: 536
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 2 | 536 | 
 | 2022-11-22 | 2 | 535 | 
 | 2022-11-21 | 2 | 534 | 
 | 2022-11-20 | 2 | 534 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 1 | 529 | 
 | 2022-10-26 | 1 | 529 | 
 | 2022-10-25 | 1 | 529 | 
-| 2022-10-24 | 1 | 529 | 
 

@@ -1,6 +1,6 @@
 # flyerhq/flutter_chat_ui - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 315
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 610 | 315 | 
 | 2022-11-22 | 610 | 315 | 
 | 2022-11-21 | 611 | 314 | 
 | 2022-11-20 | 611 | 312 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 565 | 300 | 
 | 2022-10-26 | 564 | 300 | 
 | 2022-10-25 | 563 | 299 | 
-| 2022-10-24 | 561 | 300 | 
 

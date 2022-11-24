@@ -1,6 +1,6 @@
 # CondensedMilk7/countryfetch - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 119 | 8 | 
 | 2022-11-23 | 119 | 8 | 
 | 2022-11-22 | 119 | 8 | 
 | 2022-11-21 | 119 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-27 | 118 | 8 | 
 | 2022-10-26 | 118 | 8 | 
 | 2022-10-25 | 118 | 8 | 
-| 2022-10-24 | 118 | 9 | 
 

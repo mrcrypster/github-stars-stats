@@ -1,10 +1,10 @@
 # zeroruka/GI-Assets - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 24
 
-☋ Forks: 806
+☋ Forks: 808
 
-★ Stars: 978
+★ Stars: 982
 
 [Open repository](https://github.com/zeroruka/GI-Assets)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 982 | 808 | 
 | 2022-11-22 | 978 | 806 | 
 | 2022-11-21 | 979 | 806 | 
 | 2022-11-20 | 979 | 806 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 942 | 768 | 
 | 2022-10-26 | 939 | 767 | 
 | 2022-10-25 | 936 | 764 | 
-| 2022-10-24 | 936 | 764 | 
 

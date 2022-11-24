@@ -1,8 +1,8 @@
 # iiop123/workers-image-hosting - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 20
+☋ Forks: 21
 
 ★ Stars: 47
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 47 | 21 | 
 | 2022-11-22 | 47 | 20 | 
 | 2022-11-21 | 46 | 20 | 
 | 2022-11-20 | 46 | 20 | 

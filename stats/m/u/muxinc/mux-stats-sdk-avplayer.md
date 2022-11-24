@@ -1,8 +1,8 @@
 # muxinc/mux-stats-sdk-avplayer - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 19
+☋ Forks: 20
 
 ★ Stars: 32
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 32 | 20 | 
 | 2022-11-22 | 32 | 19 | 
 | 2022-11-21 | 31 | 19 | 
 | 2022-11-20 | 31 | 19 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 29 | 20 | 
 | 2022-10-26 | 29 | 20 | 
 | 2022-10-25 | 29 | 20 | 
-| 2022-10-24 | 29 | 20 | 
 

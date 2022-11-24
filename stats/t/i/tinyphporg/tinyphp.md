@@ -1,6 +1,6 @@
 # tinyphporg/tinyphp - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 210 | 41 | 
 | 2022-11-23 | 210 | 41 | 
 | 2022-11-22 | 210 | 41 | 
 | 2022-11-21 | 210 | 41 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-27 | 207 | 41 | 
 | 2022-10-26 | 208 | 41 | 
 | 2022-10-25 | 208 | 41 | 
-| 2022-10-24 | 208 | 41 | 
 

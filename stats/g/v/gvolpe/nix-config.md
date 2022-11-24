@@ -1,10 +1,10 @@
 # gvolpe/nix-config - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 48
 
-★ Stars: 397
+★ Stars: 399
 
 [Open repository](https://github.com/gvolpe/nix-config)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 399 | 48 | 
 | 2022-11-22 | 397 | 48 | 
 | 2022-11-21 | 391 | 48 | 
 | 2022-11-20 | 390 | 48 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 369 | 46 | 
 | 2022-10-26 | 366 | 46 | 
 | 2022-10-25 | 366 | 46 | 
-| 2022-10-24 | 367 | 47 | 
 

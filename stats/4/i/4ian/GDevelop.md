@@ -1,10 +1,10 @@
 # 4ian/GDevelop - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 590
 
-★ Stars: 4316
+★ Stars: 4317
 
 [Open repository](https://github.com/4ian/GDevelop)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 4317 | 590 | 
 | 2022-11-22 | 4316 | 590 | 
 | 2022-11-21 | 4299 | 589 | 
 | 2022-11-20 | 4296 | 589 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-28 | 4261 | 582 | 
 | 2022-10-27 | 4260 | 582 | 
 | 2022-10-26 | 4259 | 582 | 
-| 2022-10-25 | 4258 | 582 | 
 

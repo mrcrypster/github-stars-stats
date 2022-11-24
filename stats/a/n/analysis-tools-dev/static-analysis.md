@@ -1,10 +1,10 @@
 # analysis-tools-dev/static-analysis - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 1189
 
-★ Stars: 10560
+★ Stars: 10563
 
 [Open repository](https://github.com/analysis-tools-dev/static-analysis)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 10563 | 1189 | 
 | 2022-11-22 | 10560 | 1189 | 
 | 2022-11-21 | 10555 | 1188 | 
 | 2022-11-20 | 10549 | 1187 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 10417 | 1185 | 
 | 2022-10-26 | 10411 | 1185 | 
 | 2022-10-25 | 10407 | 1185 | 
-| 2022-10-24 | 10401 | 1185 | 
 

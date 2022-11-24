@@ -1,6 +1,6 @@
 # Bl4ckM1rror/FUD-UUID-Shellcode - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 190 | 41 | 
 | 2022-11-22 | 190 | 41 | 
 | 2022-11-21 | 189 | 39 | 
 | 2022-11-20 | 186 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 155 | 35 | 
 | 2022-10-26 | 151 | 34 | 
 | 2022-10-25 | 151 | 34 | 
-| 2022-10-24 | 147 | 34 | 
 

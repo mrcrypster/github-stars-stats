@@ -1,6 +1,6 @@
 # ahrm/chrome-fastread - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 219 | 19 | 
 | 2022-11-22 | 219 | 19 | 
 | 2022-11-21 | 218 | 19 | 
 | 2022-11-20 | 218 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-28 | 219 | 19 | 
 | 2022-10-27 | 219 | 19 | 
 | 2022-10-26 | 219 | 19 | 
-| 2022-10-25 | 219 | 19 | 
 

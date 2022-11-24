@@ -1,6 +1,6 @@
 # jmglov/blambda - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 40 | 3 | 
 | 2022-11-22 | 40 | 3 | 
 | 2022-11-21 | 40 | 3 | 
 | 2022-11-20 | 40 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 40 | 3 | 
 | 2022-10-26 | 40 | 3 | 
 | 2022-10-25 | 40 | 3 | 
-| 2022-10-24 | 40 | 3 | 
 

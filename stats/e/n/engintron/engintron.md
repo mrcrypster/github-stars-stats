@@ -1,6 +1,6 @@
 # engintron/engintron - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 176
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 632 | 176 | 
 | 2022-11-22 | 632 | 176 | 
 | 2022-11-21 | 632 | 176 | 
 | 2022-11-20 | 632 | 176 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 632 | 174 | 
 | 2022-10-26 | 632 | 174 | 
 | 2022-10-25 | 631 | 174 | 
-| 2022-10-24 | 631 | 174 | 
 

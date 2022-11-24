@@ -1,10 +1,10 @@
 # pnp/List-Formatting - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 690
 
-★ Stars: 1175
+★ Stars: 1178
 
 [Open repository](https://github.com/pnp/List-Formatting)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 1178 | 690 | 
 | 2022-11-22 | 1175 | 690 | 
 | 2022-11-21 | 1173 | 690 | 
 | 2022-11-20 | 1173 | 689 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-28 | 1140 | 680 | 
 | 2022-10-27 | 1140 | 679 | 
 | 2022-10-25 | 1140 | 679 | 
-| 2022-10-24 | 1141 | 680 | 
 

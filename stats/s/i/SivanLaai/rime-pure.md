@@ -1,10 +1,10 @@
 # SivanLaai/rime-pure - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 62
 
-★ Stars: 436
+★ Stars: 438
 
 [Open repository](https://github.com/SivanLaai/rime-pure)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 438 | 62 | 
 | 2022-11-22 | 436 | 62 | 
 | 2022-11-21 | 435 | 62 | 
 | 2022-11-20 | 433 | 62 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 417 | 56 | 
 | 2022-10-26 | 415 | 56 | 
 | 2022-10-25 | 414 | 56 | 
-| 2022-10-24 | 413 | 56 | 
 

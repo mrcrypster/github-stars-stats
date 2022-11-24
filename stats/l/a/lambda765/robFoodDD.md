@@ -1,10 +1,10 @@
 # lambda765/robFoodDD - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 198
+☋ Forks: 197
 
-★ Stars: 184
+★ Stars: 183
 
 [Open repository](https://github.com/lambda765/robFoodDD)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 183 | 197 | 
 | 2022-11-22 | 184 | 198 | 
 | 2022-11-21 | 184 | 198 | 
 | 2022-11-20 | 184 | 198 | 

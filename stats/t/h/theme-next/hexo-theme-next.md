@@ -1,10 +1,10 @@
 # theme-next/hexo-theme-next - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 2056
+☋ Forks: 2055
 
-★ Stars: 7783
+★ Stars: 7785
 
 [Open repository](https://github.com/theme-next/hexo-theme-next)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 7785 | 2055 | 
 | 2022-11-22 | 7783 | 2056 | 
 | 2022-11-21 | 7783 | 2056 | 
 | 2022-11-20 | 7782 | 2056 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 7763 | 2052 | 
 | 2022-10-26 | 7762 | 2052 | 
 | 2022-10-25 | 7762 | 2050 | 
-| 2022-10-24 | 7760 | 2051 | 
 

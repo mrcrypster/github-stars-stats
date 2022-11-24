@@ -1,6 +1,6 @@
 # stellar/stellar-xdr-next - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 4 | 9 | 
 | 2022-11-22 | 4 | 9 | 
 | 2022-11-21 | 5 | 9 | 
 | 2022-11-20 | 5 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-28 | 3 | 7 | 
 | 2022-10-27 | 3 | 7 | 
 | 2022-10-25 | 3 | 7 | 
-| 2022-10-24 | 3 | 7 | 
 

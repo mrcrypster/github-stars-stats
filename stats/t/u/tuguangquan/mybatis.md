@@ -1,10 +1,10 @@
 # tuguangquan/mybatis - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 2223
 
-★ Stars: 4157
+★ Stars: 4161
 
 [Open repository](https://github.com/tuguangquan/mybatis)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 4161 | 2223 | 
 | 2022-11-22 | 4157 | 2223 | 
 | 2022-11-21 | 4156 | 2223 | 
 | 2022-11-20 | 4156 | 2221 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 4131 | 2214 | 
 | 2022-10-26 | 4129 | 2213 | 
 | 2022-10-25 | 4128 | 2212 | 
-| 2022-10-24 | 4128 | 2212 | 
 

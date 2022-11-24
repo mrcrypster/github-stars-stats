@@ -1,10 +1,10 @@
 # antariksh17/Reddit-wiki-programming - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 113
 
-★ Stars: 987
+★ Stars: 989
 
 [Open repository](https://github.com/antariksh17/Reddit-wiki-programming)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 989 | 113 | 
 | 2022-11-23 | 987 | 113 | 
 | 2022-11-22 | 986 | 113 | 
 | 2022-11-21 | 982 | 113 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-27 | 802 | 91 | 
 | 2022-10-26 | 799 | 91 | 
 | 2022-10-25 | 795 | 91 | 
-| 2022-10-24 | 794 | 91 | 
 

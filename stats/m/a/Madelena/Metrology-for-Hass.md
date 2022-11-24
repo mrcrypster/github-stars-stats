@@ -1,10 +1,10 @@
 # Madelena/Metrology-for-Hass - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 12
 
-★ Stars: 237
+★ Stars: 238
 
 [Open repository](https://github.com/Madelena/Metrology-for-Hass)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 238 | 12 | 
 | 2022-11-22 | 237 | 12 | 
 | 2022-11-21 | 237 | 12 | 
 | 2022-11-20 | 237 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 226 | 11 | 
 | 2022-10-26 | 225 | 11 | 
 | 2022-10-25 | 225 | 11 | 
-| 2022-10-24 | 225 | 10 | 
 

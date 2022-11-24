@@ -1,10 +1,10 @@
 # duo-lang/duo-lang - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 1
 
-★ Stars: 33
+★ Stars: 34
 
 [Open repository](https://github.com/duo-lang/duo-lang)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 34 | 1 | 
 | 2022-11-22 | 33 | 1 | 
 | 2022-11-21 | 33 | 1 | 
 | 2022-11-20 | 33 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 29 | 1 | 
 | 2022-10-26 | 29 | 1 | 
 | 2022-10-25 | 29 | 1 | 
-| 2022-10-24 | 29 | 1 | 
 

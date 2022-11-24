@@ -1,10 +1,10 @@
 # symfony/http-kernel - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 89
 
-★ Stars: 7776
+★ Stars: 7777
 
 [Open repository](https://github.com/symfony/http-kernel)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 7777 | 89 | 
 | 2022-11-22 | 7776 | 89 | 
 | 2022-11-21 | 7776 | 89 | 
 | 2022-11-20 | 7775 | 89 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 7756 | 89 | 
 | 2022-10-26 | 7756 | 89 | 
 | 2022-10-25 | 7756 | 89 | 
-| 2022-10-24 | 7755 | 89 | 
 

@@ -1,10 +1,10 @@
 # stellar/stellar-protocol - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 332
 
-★ Stars: 445
+★ Stars: 446
 
 [Open repository](https://github.com/stellar/stellar-protocol)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 446 | 332 | 
 | 2022-11-22 | 445 | 332 | 
 | 2022-11-21 | 444 | 330 | 
 | 2022-11-20 | 444 | 330 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 439 | 325 | 
 | 2022-10-26 | 439 | 325 | 
 | 2022-10-25 | 440 | 325 | 
-| 2022-10-24 | 440 | 325 | 
 

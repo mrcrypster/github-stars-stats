@@ -1,6 +1,6 @@
 # pkg/errors - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 646
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 7939 | 646 | 
 | 2022-11-22 | 7939 | 646 | 
 | 2022-11-21 | 7938 | 646 | 
 | 2022-11-20 | 7940 | 646 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 7930 | 647 | 
 | 2022-10-26 | 7929 | 647 | 
 | 2022-10-25 | 7927 | 647 | 
-| 2022-10-24 | 7925 | 647 | 
 

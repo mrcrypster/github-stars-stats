@@ -1,10 +1,10 @@
 # six7/figma-tokens - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 141
 
-★ Stars: 929
+★ Stars: 931
 
 [Open repository](https://github.com/six7/figma-tokens)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 931 | 141 | 
 | 2022-11-22 | 929 | 141 | 
 | 2022-11-21 | 926 | 141 | 
 | 2022-11-20 | 925 | 141 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 899 | 135 | 
 | 2022-10-26 | 897 | 135 | 
 | 2022-10-25 | 894 | 136 | 
-| 2022-10-24 | 892 | 136 | 
 

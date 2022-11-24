@@ -1,10 +1,10 @@
 # antonbabenko/pre-commit-terraform - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 433
 
-★ Stars: 2175
+★ Stars: 2177
 
 [Open repository](https://github.com/antonbabenko/pre-commit-terraform)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 2177 | 433 | 
 | 2022-11-22 | 2175 | 433 | 
 | 2022-11-21 | 2175 | 433 | 
 | 2022-11-20 | 2173 | 433 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 2126 | 425 | 
 | 2022-10-26 | 2124 | 424 | 
 | 2022-10-25 | 2121 | 424 | 
-| 2022-10-24 | 2120 | 425 | 
 

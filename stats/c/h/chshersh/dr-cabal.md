@@ -1,10 +1,10 @@
 # chshersh/dr-cabal - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 6
 
-★ Stars: 63
+★ Stars: 64
 
 [Open repository](https://github.com/chshersh/dr-cabal)
 
@@ -13,7 +13,8 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-23 | 63 | 6 | 
+| 2022-11-24 | 64 | 6 | 
+| 2022-11-23 | 64 | 6 | 
 | 2022-11-22 | 58 | 6 | 
 | 2022-11-20 | 52 | 5 | 
 | 2022-11-19 | 52 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-27 | 51 | 5 | 
 | 2022-10-26 | 51 | 5 | 
 | 2022-10-25 | 51 | 5 | 
-| 2022-10-24 | 51 | 5 | 
 

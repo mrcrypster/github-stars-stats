@@ -1,6 +1,6 @@
 # WebReflection/highlighted-code - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 171 | 3 | 
 | 2022-11-22 | 171 | 3 | 
 | 2022-11-21 | 171 | 3 | 
 | 2022-11-20 | 171 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 171 | 3 | 
 | 2022-10-26 | 171 | 3 | 
 | 2022-10-25 | 171 | 3 | 
-| 2022-10-24 | 171 | 3 | 
 

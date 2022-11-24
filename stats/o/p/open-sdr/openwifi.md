@@ -1,6 +1,6 @@
 # open-sdr/openwifi - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 463
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 2759 | 463 | 
 | 2022-11-22 | 2759 | 463 | 
 | 2022-11-21 | 2757 | 462 | 
 | 2022-11-20 | 2757 | 462 | 
@@ -40,5 +41,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-28 | 2728 | 456 | 
 | 2022-10-27 | 2727 | 455 | 
 | 2022-10-26 | 2721 | 453 | 
-| 2022-10-25 | 2719 | 451 | 
 

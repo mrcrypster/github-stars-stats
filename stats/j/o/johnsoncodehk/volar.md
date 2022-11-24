@@ -1,10 +1,10 @@
 # johnsoncodehk/volar - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 212
+☋ Forks: 213
 
-★ Stars: 4008
+★ Stars: 4014
 
 [Open repository](https://github.com/johnsoncodehk/volar)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 4014 | 213 | 
 | 2022-11-22 | 4008 | 212 | 
 | 2022-11-21 | 4005 | 213 | 
 | 2022-11-20 | 4003 | 212 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 3904 | 204 | 
 | 2022-10-26 | 3899 | 204 | 
 | 2022-10-25 | 3896 | 204 | 
-| 2022-10-24 | 3890 | 203 | 
 

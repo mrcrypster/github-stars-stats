@@ -1,6 +1,6 @@
 # S3cur3Th1sSh1t/NimGetSyscallStub - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 180 | 34 | 
 | 2022-11-22 | 180 | 34 | 
 | 2022-11-21 | 180 | 34 | 
 | 2022-11-20 | 180 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 175 | 33 | 
 | 2022-10-26 | 174 | 33 | 
 | 2022-10-25 | 174 | 33 | 
-| 2022-10-24 | 174 | 33 | 
 

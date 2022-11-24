@@ -1,6 +1,6 @@
 # lorenzofiamingo/swiftui-cached-async-image - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 246 | 30 | 
 | 2022-11-22 | 246 | 30 | 
 | 2022-11-21 | 243 | 30 | 
 | 2022-11-20 | 242 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-28 | 229 | 27 | 
 | 2022-10-27 | 227 | 27 | 
 | 2022-10-26 | 227 | 27 | 
-| 2022-10-25 | 226 | 27 | 
 

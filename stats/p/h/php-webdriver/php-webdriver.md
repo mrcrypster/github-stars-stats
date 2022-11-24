@@ -1,10 +1,10 @@
 # php-webdriver/php-webdriver - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 844
 
-★ Stars: 4705
+★ Stars: 4707
 
 [Open repository](https://github.com/php-webdriver/php-webdriver)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 4707 | 844 | 
 | 2022-11-22 | 4705 | 844 | 
 | 2022-11-21 | 4705 | 844 | 
 | 2022-11-20 | 4705 | 844 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 4694 | 845 | 
 | 2022-10-26 | 4692 | 845 | 
 | 2022-10-25 | 4692 | 844 | 
-| 2022-10-24 | 4692 | 844 | 
 

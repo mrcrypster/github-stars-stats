@@ -1,10 +1,10 @@
 # haugene/docker-transmission-openvpn - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 1083
+☋ Forks: 1084
 
-★ Stars: 3290
+★ Stars: 3292
 
 [Open repository](https://github.com/haugene/docker-transmission-openvpn)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 3292 | 1084 | 
 | 2022-11-22 | 3290 | 1083 | 
 | 2022-11-21 | 3289 | 1083 | 
 | 2022-11-20 | 3289 | 1083 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 3261 | 1076 | 
 | 2022-10-26 | 3261 | 1076 | 
 | 2022-10-25 | 3262 | 1076 | 
-| 2022-10-24 | 3261 | 1076 | 
 

@@ -1,6 +1,6 @@
 # michael-brade/LaTeX.js - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 564 | 46 | 
 | 2022-11-22 | 564 | 46 | 
 | 2022-11-21 | 564 | 46 | 
 | 2022-11-20 | 564 | 46 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-28 | 561 | 44 | 
 | 2022-10-27 | 561 | 44 | 
 | 2022-10-26 | 561 | 44 | 
-| 2022-10-25 | 561 | 44 | 
 

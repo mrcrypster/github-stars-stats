@@ -1,6 +1,6 @@
 # knative/docs - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 1106
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 3707 | 1106 | 
 | 2022-11-22 | 3707 | 1106 | 
 | 2022-11-21 | 3707 | 1105 | 
 | 2022-11-20 | 3706 | 1105 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 3667 | 1104 | 
 | 2022-10-26 | 3665 | 1103 | 
 | 2022-10-25 | 3662 | 1103 | 
-| 2022-10-24 | 3661 | 1103 | 
 

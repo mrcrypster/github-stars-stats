@@ -1,10 +1,10 @@
 # wg/wrk - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 2757
+☋ Forks: 2756
 
-★ Stars: 33325
+★ Stars: 33333
 
 [Open repository](https://github.com/wg/wrk)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 33333 | 2756 | 
 | 2022-11-22 | 33325 | 2757 | 
 | 2022-11-21 | 33319 | 2755 | 
 | 2022-11-20 | 33310 | 2754 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 33144 | 2748 | 
 | 2022-10-26 | 33135 | 2748 | 
 | 2022-10-25 | 33125 | 2748 | 
-| 2022-10-24 | 33116 | 2747 | 
 

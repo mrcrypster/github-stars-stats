@@ -1,6 +1,6 @@
 # CliMA/ClimateMachine.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 76
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 430 | 76 | 
 | 2022-11-22 | 430 | 76 | 
 | 2022-11-21 | 430 | 75 | 
 | 2022-11-20 | 430 | 75 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 428 | 76 | 
 | 2022-10-26 | 428 | 76 | 
 | 2022-10-25 | 428 | 76 | 
-| 2022-10-24 | 427 | 76 | 
 

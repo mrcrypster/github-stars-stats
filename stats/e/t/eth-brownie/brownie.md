@@ -1,6 +1,6 @@
 # eth-brownie/brownie - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 462
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 2284 | 462 | 
 | 2022-11-22 | 2284 | 462 | 
 | 2022-11-21 | 2282 | 462 | 
 | 2022-11-20 | 2283 | 462 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 2257 | 455 | 
 | 2022-10-26 | 2255 | 453 | 
 | 2022-10-25 | 2252 | 452 | 
-| 2022-10-24 | 2252 | 452 | 
 

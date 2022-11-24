@@ -1,10 +1,10 @@
 # wll8/lodash-utils - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
 ☋ Forks: 138
 
-★ Stars: 222
+★ Stars: 223
 
 [Open repository](https://github.com/wll8/lodash-utils)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 223 | 138 | 
 | 2022-11-22 | 222 | 138 | 
 | 2022-11-21 | 222 | 137 | 
 | 2022-11-20 | 222 | 137 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-28 | 212 | 131 | 
 | 2022-10-26 | 212 | 131 | 
 | 2022-10-25 | 211 | 132 | 
-| 2022-10-24 | 211 | 132 | 
 

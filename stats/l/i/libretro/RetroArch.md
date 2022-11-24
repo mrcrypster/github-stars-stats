@@ -1,10 +1,10 @@
 # libretro/RetroArch - stars & forks statistics
 
-Stats updated on Nov 2022, 22
+Stats updated on Nov 2022, 23
 
-☋ Forks: 1490
+☋ Forks: 1492
 
-★ Stars: 7258
+★ Stars: 7261
 
 [Open repository](https://github.com/libretro/RetroArch)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-23 | 7261 | 1492 | 
 | 2022-11-22 | 7258 | 1490 | 
 | 2022-11-21 | 7241 | 1488 | 
 | 2022-11-20 | 7241 | 1488 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 22
 | 2022-10-27 | 7161 | 1476 | 
 | 2022-10-26 | 7158 | 1476 | 
 | 2022-10-25 | 7157 | 1477 | 
-| 2022-10-24 | 7152 | 1473 | 
 
