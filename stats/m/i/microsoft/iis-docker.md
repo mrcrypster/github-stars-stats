@@ -1,6 +1,6 @@
 # microsoft/iis-docker - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 128
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 227 | 128 | 
 | 2022-11-23 | 227 | 128 | 
 | 2022-11-22 | 227 | 128 | 
 | 2022-11-21 | 227 | 128 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 225 | 128 | 
 | 2022-10-27 | 225 | 128 | 
 | 2022-10-26 | 225 | 128 | 
-| 2022-10-25 | 225 | 128 | 
 

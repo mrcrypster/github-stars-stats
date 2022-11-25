@@ -1,10 +1,10 @@
 # ardalis/Specification - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 179
 
-★ Stars: 1156
+★ Stars: 1157
 
 [Open repository](https://github.com/ardalis/Specification)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 1157 | 179 | 
 | 2022-11-23 | 1156 | 179 | 
 | 2022-11-22 | 1155 | 177 | 
 | 2022-11-21 | 1154 | 177 | 

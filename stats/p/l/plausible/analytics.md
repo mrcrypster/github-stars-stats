@@ -1,10 +1,10 @@
 # plausible/analytics - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 654
+☋ Forks: 655
 
-★ Stars: 13103
+★ Stars: 13108
 
 [Open repository](https://github.com/plausible/analytics)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 13108 | 655 | 
 | 2022-11-23 | 13103 | 654 | 
 | 2022-11-22 | 13096 | 653 | 
 | 2022-11-21 | 13090 | 653 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 12877 | 644 | 
 | 2022-10-27 | 12868 | 644 | 
 | 2022-10-26 | 12858 | 644 | 
-| 2022-10-25 | 12846 | 644 | 
 

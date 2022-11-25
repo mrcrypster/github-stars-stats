@@ -1,6 +1,6 @@
 # pablosnt/rekono - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 208 | 43 | 
 | 2022-11-23 | 208 | 43 | 
 | 2022-11-22 | 207 | 43 | 
 | 2022-11-21 | 206 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 195 | 42 | 
 | 2022-10-27 | 193 | 42 | 
 | 2022-10-26 | 193 | 41 | 
-| 2022-10-25 | 192 | 41 | 
 

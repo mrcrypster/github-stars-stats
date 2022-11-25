@@ -1,10 +1,10 @@
 # vasanthk/react-bits - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 943
 
-★ Stars: 14052
+★ Stars: 14059
 
 [Open repository](https://github.com/vasanthk/react-bits)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 14059 | 943 | 
 | 2022-11-23 | 14052 | 943 | 
 | 2022-11-22 | 14040 | 942 | 
 | 2022-11-21 | 14033 | 942 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 13334 | 873 | 
 | 2022-10-27 | 13316 | 872 | 
 | 2022-10-26 | 13287 | 869 | 
-| 2022-10-25 | 13275 | 867 | 
 

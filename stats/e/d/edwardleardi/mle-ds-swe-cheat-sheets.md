@@ -1,6 +1,6 @@
 # edwardleardi/mle-ds-swe-cheat-sheets - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 273 | 15 | 
 | 2022-11-23 | 273 | 15 | 
 | 2022-11-22 | 273 | 15 | 
 | 2022-11-21 | 273 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 272 | 15 | 
 | 2022-10-27 | 272 | 15 | 
 | 2022-10-26 | 272 | 15 | 
-| 2022-10-25 | 272 | 15 | 
 

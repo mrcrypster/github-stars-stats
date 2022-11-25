@@ -1,10 +1,10 @@
 # binji/smolnes - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 10
+☋ Forks: 11
 
-★ Stars: 484
+★ Stars: 487
 
 [Open repository](https://github.com/binji/smolnes)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 487 | 11 | 
 | 2022-11-23 | 484 | 10 | 
 | 2022-11-22 | 484 | 10 | 
 | 2022-11-21 | 484 | 10 | 

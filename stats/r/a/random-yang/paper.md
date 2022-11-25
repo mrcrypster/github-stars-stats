@@ -1,10 +1,10 @@
 # random-yang/paper - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 24
 
-★ Stars: 200
+★ Stars: 201
 
 [Open repository](https://github.com/random-yang/paper)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 201 | 24 | 
 | 2022-11-23 | 200 | 24 | 
 | 2022-11-22 | 200 | 24 | 
 | 2022-11-21 | 200 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 199 | 24 | 
 | 2022-10-27 | 199 | 24 | 
 | 2022-10-26 | 198 | 24 | 
-| 2022-10-25 | 198 | 25 | 
 

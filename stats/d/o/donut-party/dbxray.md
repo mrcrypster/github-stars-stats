@@ -1,8 +1,8 @@
 # donut-party/dbxray - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 3
+☋ Forks: 4
 
 ★ Stars: 93
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 93 | 4 | 
 | 2022-11-23 | 93 | 3 | 
 | 2022-11-22 | 90 | 3 | 
 | 2022-11-21 | 90 | 3 | 

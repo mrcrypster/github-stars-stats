@@ -1,6 +1,6 @@
 # cmdparkour/vue-admin-box - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 191
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 1106 | 191 | 
 | 2022-11-23 | 1106 | 191 | 
 | 2022-11-22 | 1105 | 191 | 
 | 2022-11-21 | 1107 | 190 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 1081 | 187 | 
 | 2022-10-27 | 1078 | 188 | 
 | 2022-10-26 | 1077 | 188 | 
-| 2022-10-25 | 1074 | 188 | 
 

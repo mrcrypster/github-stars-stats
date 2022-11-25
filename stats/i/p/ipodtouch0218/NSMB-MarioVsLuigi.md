@@ -1,6 +1,6 @@
 # ipodtouch0218/NSMB-MarioVsLuigi - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 103
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 280 | 103 | 
 | 2022-11-23 | 280 | 103 | 
 | 2022-11-22 | 278 | 100 | 
 | 2022-11-21 | 277 | 100 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 255 | 92 | 
 | 2022-10-27 | 254 | 91 | 
 | 2022-10-26 | 254 | 91 | 
-| 2022-10-25 | 254 | 91 | 
 

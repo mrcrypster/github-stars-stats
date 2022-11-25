@@ -1,6 +1,6 @@
 # Ed-Fi-Alliance-OSS/Ed-Fi-ODS-Docker - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 5 | 9 | 
 | 2022-11-23 | 5 | 9 | 
 | 2022-11-22 | 5 | 9 | 
 | 2022-11-21 | 5 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 5 | 9 | 
 | 2022-10-27 | 5 | 9 | 
 | 2022-10-26 | 5 | 9 | 
-| 2022-10-25 | 5 | 9 | 
 

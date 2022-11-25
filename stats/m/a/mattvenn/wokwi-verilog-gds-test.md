@@ -1,6 +1,6 @@
 # mattvenn/wokwi-verilog-gds-test - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 54 | 18 | 
 | 2022-11-23 | 54 | 18 | 
 | 2022-11-22 | 54 | 18 | 
 | 2022-11-21 | 54 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 53 | 18 | 
 | 2022-10-27 | 53 | 18 | 
 | 2022-10-26 | 53 | 18 | 
-| 2022-10-25 | 53 | 18 | 
 

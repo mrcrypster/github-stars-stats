@@ -1,6 +1,6 @@
 # rockthejvm/spark-essentials - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 256
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 174 | 256 | 
 | 2022-11-23 | 174 | 256 | 
 | 2022-11-22 | 174 | 256 | 
 | 2022-11-21 | 172 | 255 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 171 | 255 | 
 | 2022-10-27 | 169 | 254 | 
 | 2022-10-26 | 169 | 254 | 
-| 2022-10-25 | 169 | 254 | 
 

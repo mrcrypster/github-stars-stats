@@ -1,10 +1,10 @@
 # ermaozi/get_subscribe - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 407
+☋ Forks: 408
 
-★ Stars: 3157
+★ Stars: 3164
 
 [Open repository](https://github.com/ermaozi/get_subscribe)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 3164 | 408 | 
 | 2022-11-23 | 3157 | 407 | 
 | 2022-11-22 | 3150 | 406 | 
 | 2022-11-21 | 3147 | 405 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 2959 | 385 | 
 | 2022-10-27 | 2951 | 384 | 
 | 2022-10-26 | 2947 | 384 | 
-| 2022-10-25 | 2935 | 385 | 
 

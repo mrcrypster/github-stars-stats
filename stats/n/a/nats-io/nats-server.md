@@ -1,10 +1,10 @@
 # nats-io/nats-server - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 1158
+☋ Forks: 1159
 
-★ Stars: 11861
+★ Stars: 11866
 
 [Open repository](https://github.com/nats-io/nats-server)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 11866 | 1159 | 
 | 2022-11-23 | 11861 | 1158 | 
 | 2022-11-22 | 11856 | 1159 | 
 | 2022-11-21 | 11842 | 1159 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 11747 | 1148 | 
 | 2022-10-27 | 11744 | 1147 | 
 | 2022-10-26 | 11736 | 1147 | 
-| 2022-10-25 | 11733 | 1147 | 
 

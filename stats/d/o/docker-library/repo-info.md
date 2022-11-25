@@ -1,8 +1,8 @@
 # docker-library/repo-info - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 348
+☋ Forks: 350
 
 ★ Stars: 429
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 429 | 350 | 
 | 2022-11-23 | 429 | 348 | 
 | 2022-11-22 | 428 | 348 | 
 | 2022-11-21 | 427 | 347 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 420 | 339 | 
 | 2022-10-27 | 420 | 339 | 
 | 2022-10-26 | 420 | 339 | 
-| 2022-10-25 | 420 | 339 | 
 

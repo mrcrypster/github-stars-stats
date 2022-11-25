@@ -1,6 +1,6 @@
 # pages-themes/leap-day - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 426
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 160 | 426 | 
 | 2022-11-23 | 160 | 426 | 
 | 2022-11-22 | 160 | 427 | 
 | 2022-11-21 | 160 | 426 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 159 | 426 | 
 | 2022-10-27 | 159 | 426 | 
 | 2022-10-26 | 159 | 424 | 
-| 2022-10-25 | 159 | 423 | 
 

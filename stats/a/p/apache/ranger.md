@@ -1,10 +1,10 @@
 # apache/ranger - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 741
+☋ Forks: 742
 
-★ Stars: 678
+★ Stars: 679
 
 [Open repository](https://github.com/apache/ranger)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 679 | 742 | 
 | 2022-11-23 | 678 | 741 | 
 | 2022-11-22 | 678 | 741 | 
 | 2022-11-21 | 676 | 740 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-29 | 666 | 725 | 
 | 2022-10-28 | 666 | 726 | 
 | 2022-10-27 | 666 | 726 | 
-| 2022-10-26 | 666 | 723 | 
 

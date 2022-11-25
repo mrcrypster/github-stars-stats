@@ -1,6 +1,6 @@
 # illright/attractions - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 750 | 26 | 
 | 2022-11-23 | 750 | 26 | 
 | 2022-11-22 | 750 | 25 | 
 | 2022-11-21 | 750 | 25 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 736 | 26 | 
 | 2022-10-27 | 736 | 26 | 
 | 2022-10-26 | 734 | 26 | 
-| 2022-10-25 | 734 | 26 | 
 

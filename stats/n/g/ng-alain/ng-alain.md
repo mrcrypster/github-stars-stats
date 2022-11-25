@@ -1,10 +1,10 @@
 # ng-alain/ng-alain - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 1129
 
-★ Stars: 4392
+★ Stars: 4391
 
 [Open repository](https://github.com/ng-alain/ng-alain)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 4391 | 1129 | 
 | 2022-11-23 | 4392 | 1129 | 
 | 2022-11-22 | 4392 | 1129 | 
 | 2022-11-21 | 4394 | 1129 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 4384 | 1128 | 
 | 2022-10-27 | 4385 | 1128 | 
 | 2022-10-26 | 4385 | 1128 | 
-| 2022-10-25 | 4383 | 1127 | 
 

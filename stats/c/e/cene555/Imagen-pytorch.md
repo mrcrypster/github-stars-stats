@@ -1,6 +1,6 @@
 # cene555/Imagen-pytorch - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 264 | 49 | 
 | 2022-11-23 | 264 | 49 | 
 | 2022-11-22 | 264 | 49 | 
 | 2022-11-21 | 264 | 49 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 260 | 49 | 
 | 2022-10-27 | 260 | 49 | 
 | 2022-10-26 | 261 | 49 | 
-| 2022-10-25 | 259 | 49 | 
 

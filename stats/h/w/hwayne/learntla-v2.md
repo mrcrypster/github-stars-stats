@@ -1,6 +1,6 @@
 # hwayne/learntla-v2 - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 109 | 22 | 
 | 2022-11-23 | 109 | 22 | 
 | 2022-11-22 | 107 | 21 | 
 | 2022-11-21 | 106 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 104 | 20 | 
 | 2022-10-27 | 104 | 20 | 
 | 2022-10-26 | 104 | 20 | 
-| 2022-10-25 | 103 | 20 | 
 

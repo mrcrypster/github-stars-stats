@@ -1,10 +1,10 @@
 # skyline75489/what-happens-when-zh_CN - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 811
 
-★ Stars: 7561
+★ Stars: 7562
 
 [Open repository](https://github.com/skyline75489/what-happens-when-zh_CN)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 7562 | 811 | 
 | 2022-11-23 | 7561 | 811 | 
 | 2022-11-22 | 7561 | 811 | 
 | 2022-11-21 | 7561 | 811 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 7541 | 806 | 
 | 2022-10-27 | 7540 | 806 | 
 | 2022-10-26 | 7539 | 807 | 
-| 2022-10-25 | 7537 | 806 | 
 

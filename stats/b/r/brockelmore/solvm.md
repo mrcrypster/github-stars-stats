@@ -1,10 +1,10 @@
 # brockelmore/solvm - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 5
 
-★ Stars: 166
+★ Stars: 165
 
 [Open repository](https://github.com/brockelmore/solvm)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 165 | 5 | 
 | 2022-11-23 | 166 | 5 | 
 | 2022-11-22 | 166 | 5 | 
 | 2022-11-21 | 166 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 163 | 5 | 
 | 2022-10-27 | 163 | 5 | 
 | 2022-10-26 | 162 | 5 | 
-| 2022-10-25 | 161 | 5 | 
 

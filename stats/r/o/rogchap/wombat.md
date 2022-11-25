@@ -1,10 +1,10 @@
 # rogchap/wombat - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 43
 
-★ Stars: 1229
+★ Stars: 1230
 
 [Open repository](https://github.com/rogchap/wombat)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 1230 | 43 | 
 | 2022-11-23 | 1229 | 43 | 
 | 2022-11-22 | 1229 | 43 | 
 | 2022-11-21 | 1228 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 1219 | 41 | 
 | 2022-10-27 | 1218 | 41 | 
 | 2022-10-26 | 1217 | 41 | 
-| 2022-10-25 | 1217 | 41 | 
 

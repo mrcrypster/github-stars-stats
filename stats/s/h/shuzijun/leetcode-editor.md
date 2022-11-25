@@ -1,10 +1,10 @@
 # shuzijun/leetcode-editor - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 331
 
-★ Stars: 2861
+★ Stars: 2866
 
 [Open repository](https://github.com/shuzijun/leetcode-editor)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 2866 | 331 | 
 | 2022-11-23 | 2861 | 331 | 
 | 2022-11-22 | 2860 | 330 | 
 | 2022-11-21 | 2859 | 330 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 2830 | 327 | 
 | 2022-10-27 | 2829 | 326 | 
 | 2022-10-26 | 2829 | 326 | 
-| 2022-10-25 | 2828 | 326 | 
 

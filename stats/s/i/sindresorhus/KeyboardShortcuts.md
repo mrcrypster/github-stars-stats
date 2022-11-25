@@ -1,6 +1,6 @@
 # sindresorhus/KeyboardShortcuts - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 94
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 1086 | 94 | 
 | 2022-11-23 | 1086 | 94 | 
 | 2022-11-22 | 1083 | 94 | 
 | 2022-11-21 | 1082 | 94 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 1060 | 94 | 
 | 2022-10-27 | 1060 | 93 | 
 | 2022-10-26 | 1060 | 92 | 
-| 2022-10-25 | 1059 | 92 | 
 

@@ -1,6 +1,6 @@
 # airbus-cert/Invoke-Bof - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 217 | 30 | 
 | 2022-11-23 | 217 | 30 | 
 | 2022-11-22 | 217 | 30 | 
 | 2022-11-21 | 217 | 30 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 216 | 30 | 
 | 2022-10-27 | 216 | 30 | 
 | 2022-10-26 | 216 | 30 | 
-| 2022-10-25 | 216 | 30 | 
 

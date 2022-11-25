@@ -1,10 +1,10 @@
 # 3293172751/cs-awesome-Block_Chain - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 76
 
-★ Stars: 478
+★ Stars: 484
 
 [Open repository](https://github.com/3293172751/cs-awesome-Block_Chain)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 484 | 76 | 
 | 2022-11-23 | 478 | 76 | 
 | 2022-11-22 | 476 | 76 | 
 | 2022-11-21 | 462 | 73 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 400 | 66 | 
 | 2022-10-27 | 396 | 66 | 
 | 2022-10-26 | 393 | 66 | 
-| 2022-10-25 | 387 | 66 | 
 

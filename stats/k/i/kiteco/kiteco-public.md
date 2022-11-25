@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 24
 
-☋ Forks: 61
+☋ Forks: 68
 
-★ Stars: 324
+★ Stars: 365
 
 [Open repository](https://github.com/kiteco/kiteco-public)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-24 | 324 | 61 | 
+| 2022-11-24 | 365 | 68 | 
 | 2022-11-23 | 319 | 60 | 
 

@@ -1,6 +1,6 @@
 # kassambara/survminer - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 145
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 401 | 145 | 
 | 2022-11-23 | 401 | 145 | 
 | 2022-11-22 | 401 | 145 | 
 | 2022-11-21 | 401 | 144 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 397 | 141 | 
 | 2022-10-27 | 397 | 141 | 
 | 2022-10-26 | 396 | 141 | 
-| 2022-10-25 | 396 | 141 | 
 

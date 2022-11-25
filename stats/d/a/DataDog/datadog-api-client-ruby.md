@@ -1,6 +1,6 @@
 # DataDog/datadog-api-client-ruby - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 16 | 14 | 
 | 2022-11-23 | 16 | 14 | 
 | 2022-11-22 | 16 | 14 | 
 | 2022-11-21 | 16 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 15 | 14 | 
 | 2022-10-27 | 15 | 14 | 
 | 2022-10-26 | 15 | 14 | 
-| 2022-10-25 | 15 | 14 | 
 

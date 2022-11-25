@@ -1,6 +1,6 @@
 # antfu/antfu.me - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 105
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 329 | 105 | 
 | 2022-11-23 | 329 | 105 | 
 | 2022-11-22 | 329 | 106 | 
 | 2022-11-21 | 329 | 106 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 318 | 106 | 
 | 2022-10-27 | 317 | 105 | 
 | 2022-10-26 | 315 | 104 | 
-| 2022-10-25 | 315 | 104 | 
 

@@ -1,10 +1,10 @@
 # niefy/wx-manage - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 375
 
-★ Stars: 893
+★ Stars: 895
 
 [Open repository](https://github.com/niefy/wx-manage)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 895 | 375 | 
 | 2022-11-23 | 893 | 375 | 
 | 2022-11-22 | 892 | 374 | 
 | 2022-11-21 | 892 | 374 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-29 | 861 | 367 | 
 | 2022-10-28 | 860 | 367 | 
 | 2022-10-27 | 859 | 367 | 
-| 2022-10-26 | 858 | 366 | 
 

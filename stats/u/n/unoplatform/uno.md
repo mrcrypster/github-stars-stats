@@ -1,10 +1,10 @@
 # unoplatform/uno - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 597
 
-★ Stars: 7203
+★ Stars: 7205
 
 [Open repository](https://github.com/unoplatform/uno)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 7205 | 597 | 
 | 2022-11-23 | 7203 | 597 | 
 | 2022-11-22 | 7200 | 596 | 
 | 2022-11-21 | 7198 | 595 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 7118 | 591 | 
 | 2022-10-27 | 7112 | 589 | 
 | 2022-10-26 | 7106 | 587 | 
-| 2022-10-25 | 7100 | 586 | 
 

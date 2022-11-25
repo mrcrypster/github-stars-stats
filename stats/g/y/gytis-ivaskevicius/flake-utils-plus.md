@@ -1,6 +1,6 @@
 # gytis-ivaskevicius/flake-utils-plus - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 297 | 29 | 
 | 2022-11-23 | 297 | 29 | 
 | 2022-11-22 | 296 | 29 | 
 | 2022-11-21 | 296 | 29 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 286 | 29 | 
 | 2022-10-27 | 285 | 29 | 
 | 2022-10-26 | 285 | 29 | 
-| 2022-10-25 | 286 | 29 | 
 

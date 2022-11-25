@@ -1,8 +1,8 @@
 # lxwily/yanglegeyang - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 25
+☋ Forks: 24
 
 ★ Stars: 121
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 121 | 24 | 
 | 2022-11-23 | 121 | 25 | 
 | 2022-11-22 | 121 | 25 | 
 | 2022-11-21 | 121 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 124 | 25 | 
 | 2022-10-27 | 124 | 25 | 
 | 2022-10-26 | 125 | 25 | 
-| 2022-10-25 | 124 | 25 | 
 

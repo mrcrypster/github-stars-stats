@@ -1,6 +1,6 @@
 # H-M-H/Weylus - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 152
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 4146 | 152 | 
 | 2022-11-23 | 4146 | 152 | 
 | 2022-11-22 | 4142 | 152 | 
 | 2022-11-21 | 4141 | 152 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 4084 | 147 | 
 | 2022-10-27 | 4080 | 146 | 
 | 2022-10-26 | 4079 | 146 | 
-| 2022-10-25 | 4076 | 146 | 
 

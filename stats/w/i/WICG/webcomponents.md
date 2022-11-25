@@ -1,6 +1,6 @@
 # WICG/webcomponents - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 367
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 4097 | 367 | 
 | 2022-11-23 | 4097 | 367 | 
 | 2022-11-22 | 4095 | 367 | 
 | 2022-11-21 | 4095 | 367 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 4079 | 367 | 
 | 2022-10-27 | 4079 | 367 | 
 | 2022-10-26 | 4079 | 366 | 
-| 2022-10-25 | 4079 | 366 | 
 

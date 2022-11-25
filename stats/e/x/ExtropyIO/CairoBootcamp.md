@@ -1,8 +1,8 @@
 # ExtropyIO/CairoBootcamp - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 29
+☋ Forks: 30
 
 ★ Stars: 7
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 7 | 30 | 
 | 2022-11-23 | 7 | 29 | 
 | 2022-11-22 | 7 | 29 | 
 | 2022-11-21 | 7 | 29 | 

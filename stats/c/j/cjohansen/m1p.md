@@ -1,10 +1,10 @@
 # cjohansen/m1p - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 0
 
-★ Stars: 14
+★ Stars: 16
 
 [Open repository](https://github.com/cjohansen/m1p)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 16 | - | 
 | 2022-11-23 | 14 | - | 
 | 2022-11-22 | 14 | - | 
 | 2022-11-21 | 13 | - | 

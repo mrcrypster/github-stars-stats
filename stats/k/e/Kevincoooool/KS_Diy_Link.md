@@ -1,10 +1,10 @@
 # Kevincoooool/KS_Diy_Link - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 225
 
-★ Stars: 374
+★ Stars: 376
 
 [Open repository](https://github.com/Kevincoooool/KS_Diy_Link)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 376 | 225 | 
 | 2022-11-23 | 374 | 225 | 
 | 2022-11-22 | 372 | 225 | 
 | 2022-11-21 | 372 | 224 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 371 | 220 | 
 | 2022-10-27 | 371 | 220 | 
 | 2022-10-26 | 372 | 220 | 
-| 2022-10-25 | 371 | 221 | 
 

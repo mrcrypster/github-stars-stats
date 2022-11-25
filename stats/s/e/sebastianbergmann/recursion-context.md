@@ -1,6 +1,6 @@
 # sebastianbergmann/recursion-context - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 6252 | 15 | 
 | 2022-11-23 | 6252 | 15 | 
 | 2022-11-22 | 6250 | 15 | 
 | 2022-11-21 | 6250 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 6240 | 15 | 
 | 2022-10-27 | 6240 | 15 | 
 | 2022-10-26 | 6239 | 15 | 
-| 2022-10-25 | 6238 | 15 | 
 

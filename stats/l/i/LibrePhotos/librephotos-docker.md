@@ -1,10 +1,10 @@
 # LibrePhotos/librephotos-docker - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 59
 
-★ Stars: 97
+★ Stars: 98
 
 [Open repository](https://github.com/LibrePhotos/librephotos-docker)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 98 | 59 | 
 | 2022-11-24 | 97 | 59 | 
 | 2022-11-23 | 98 | 60 | 
 | 2022-11-22 | 98 | 60 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-28 | 97 | 59 | 
 | 2022-10-27 | 97 | 59 | 
 | 2022-10-26 | 96 | 59 | 
-| 2022-10-25 | 96 | 59 | 
 

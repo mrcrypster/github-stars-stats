@@ -1,10 +1,10 @@
 # luc-tielen/eclair-lang - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 7
 
-★ Stars: 113
+★ Stars: 115
 
 [Open repository](https://github.com/luc-tielen/eclair-lang)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 115 | 7 | 
 | 2022-11-23 | 113 | 7 | 
 | 2022-11-22 | 108 | 6 | 
 | 2022-11-21 | 106 | 6 | 

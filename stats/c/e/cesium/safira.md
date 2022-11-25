@@ -1,10 +1,10 @@
 # cesium/safira - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 3
 
-★ Stars: 38
+★ Stars: 37
 
 [Open repository](https://github.com/cesium/safira)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 37 | 3 | 
 | 2022-11-23 | 38 | 3 | 
 | 2022-11-22 | 38 | 3 | 
 | 2022-11-21 | 38 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 37 | 3 | 
 | 2022-10-27 | 37 | 3 | 
 | 2022-10-26 | 37 | 3 | 
-| 2022-10-25 | 37 | 3 | 
 

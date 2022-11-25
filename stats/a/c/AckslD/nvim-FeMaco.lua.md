@@ -1,6 +1,6 @@
 # AckslD/nvim-FeMaco.lua - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 187 | 4 | 
 | 2022-11-23 | 187 | 4 | 
 | 2022-11-22 | 186 | 4 | 
 | 2022-11-21 | 186 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 171 | 4 | 
 | 2022-10-27 | 171 | 4 | 
 | 2022-10-26 | 171 | 4 | 
-| 2022-10-25 | 171 | 4 | 
 

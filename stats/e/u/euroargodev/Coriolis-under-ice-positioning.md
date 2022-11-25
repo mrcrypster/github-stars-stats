@@ -1,0 +1,18 @@
+# euroargodev/Coriolis-under-ice-positioning - stars & forks statistics
+
+Stats updated on Nov 2022, 25
+
+☋ Forks: 0
+
+★ Stars: 0
+
+[Open repository](https://github.com/euroargodev/Coriolis-under-ice-positioning)
+
+[Open detailed stats for euroargodev/Coriolis-under-ice-positioning](https://reviewgithub.com/rep/euroargodev/Coriolis-under-ice-positioning)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-11-25 | - | - | 
+| 2022-11-24 | - | - | 
+

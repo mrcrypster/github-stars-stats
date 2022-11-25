@@ -1,10 +1,10 @@
 # dunglas/frankenphp-drupal - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 2
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/dunglas/frankenphp-drupal)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 20 | 2 | 
 | 2022-11-23 | 19 | 2 | 
 | 2022-11-22 | 19 | 2 | 
 | 2022-11-21 | 19 | 2 | 

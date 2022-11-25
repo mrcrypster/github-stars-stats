@@ -1,10 +1,10 @@
 # facebookresearch/Geo-metric - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 1
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/facebookresearch/Geo-metric)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 17 | 1 | 
 | 2022-11-23 | 16 | 1 | 
 | 2022-11-22 | 15 | 1 | 
 | 2022-11-21 | 14 | 1 | 

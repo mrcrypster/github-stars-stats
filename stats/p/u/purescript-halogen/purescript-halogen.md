@@ -1,10 +1,10 @@
 # purescript-halogen/purescript-halogen - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 211
 
-★ Stars: 1417
+★ Stars: 1416
 
 [Open repository](https://github.com/purescript-halogen/purescript-halogen)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 1416 | 211 | 
 | 2022-11-23 | 1417 | 211 | 
 | 2022-11-22 | 1417 | 211 | 
 | 2022-11-21 | 1417 | 211 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 1412 | 211 | 
 | 2022-10-27 | 1410 | 211 | 
 | 2022-10-26 | 1410 | 211 | 
-| 2022-10-25 | 1410 | 211 | 
 

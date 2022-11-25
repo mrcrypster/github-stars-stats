@@ -1,10 +1,10 @@
 # resumejob/free-project-course - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 412
 
-★ Stars: 3094
+★ Stars: 3096
 
 [Open repository](https://github.com/resumejob/free-project-course)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 3096 | 412 | 
 | 2022-11-23 | 3094 | 412 | 
 | 2022-11-22 | 3093 | 411 | 
 | 2022-11-21 | 3090 | 411 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-29 | 3045 | 408 | 
 | 2022-10-28 | 3041 | 408 | 
 | 2022-10-27 | 3037 | 407 | 
-| 2022-10-26 | 3034 | 406 | 
 

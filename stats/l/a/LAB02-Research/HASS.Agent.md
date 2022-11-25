@@ -1,10 +1,10 @@
 # LAB02-Research/HASS.Agent - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 18
 
-★ Stars: 601
+★ Stars: 602
 
 [Open repository](https://github.com/LAB02-Research/HASS.Agent)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 602 | 18 | 
 | 2022-11-23 | 601 | 18 | 
 | 2022-11-22 | 598 | 18 | 
 | 2022-11-21 | 595 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-29 | 540 | 20 | 
 | 2022-10-28 | 537 | 20 | 
 | 2022-10-27 | 537 | 20 | 
-| 2022-10-26 | 531 | 20 | 
 

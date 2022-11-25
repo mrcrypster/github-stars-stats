@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-4-rails-putting-it-all-together-auth - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 1205
+☋ Forks: 1208
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 2 | 1208 | 
 | 2022-11-23 | 2 | 1205 | 
 | 2022-11-22 | 2 | 1205 | 
 | 2022-11-21 | 2 | 1202 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-29 | 1 | 1137 | 
 | 2022-10-28 | 1 | 1137 | 
 | 2022-10-27 | 1 | 1136 | 
-| 2022-10-26 | 1 | 1129 | 
 

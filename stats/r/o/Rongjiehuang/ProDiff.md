@@ -1,10 +1,10 @@
 # Rongjiehuang/ProDiff - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 34
 
-★ Stars: 273
+★ Stars: 275
 
 [Open repository](https://github.com/Rongjiehuang/ProDiff)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 275 | 34 | 
 | 2022-11-23 | 273 | 34 | 
 | 2022-11-22 | 273 | 34 | 
 | 2022-11-21 | 273 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-29 | 254 | 31 | 
 | 2022-10-28 | 253 | 30 | 
 | 2022-10-27 | 251 | 30 | 
-| 2022-10-26 | 247 | 30 | 
 

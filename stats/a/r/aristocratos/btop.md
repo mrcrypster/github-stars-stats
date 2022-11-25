@@ -1,10 +1,10 @@
 # aristocratos/btop - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 322
+☋ Forks: 321
 
-★ Stars: 9535
+★ Stars: 9543
 
 [Open repository](https://github.com/aristocratos/btop)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 9543 | 321 | 
 | 2022-11-23 | 9535 | 322 | 
 | 2022-11-22 | 9520 | 321 | 
 | 2022-11-21 | 9490 | 320 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 9299 | 310 | 
 | 2022-10-27 | 9286 | 310 | 
 | 2022-10-26 | 9206 | 309 | 
-| 2022-10-25 | 9196 | 308 | 
 

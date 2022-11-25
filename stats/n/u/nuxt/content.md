@@ -1,10 +1,10 @@
 # nuxt/content - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 471
 
-★ Stars: 2259
+★ Stars: 2262
 
 [Open repository](https://github.com/nuxt/content)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 2262 | 471 | 
 | 2022-11-24 | 2259 | 471 | 
 | 2022-11-23 | 2257 | 471 | 
 | 2022-11-22 | 2254 | 471 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-28 | 2222 | 461 | 
 | 2022-10-27 | 2221 | 461 | 
 | 2022-10-26 | 2220 | 461 | 
-| 2022-10-25 | 2220 | 461 | 
 

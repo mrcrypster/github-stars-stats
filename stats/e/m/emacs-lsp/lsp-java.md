@@ -1,10 +1,10 @@
 # emacs-lsp/lsp-java - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 73
+☋ Forks: 74
 
-★ Stars: 558
+★ Stars: 559
 
 [Open repository](https://github.com/emacs-lsp/lsp-java)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 559 | 74 | 
 | 2022-11-23 | 558 | 73 | 
 | 2022-11-22 | 558 | 73 | 
 | 2022-11-21 | 558 | 73 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 556 | 72 | 
 | 2022-10-27 | 556 | 72 | 
 | 2022-10-26 | 556 | 72 | 
-| 2022-10-25 | 557 | 72 | 
 

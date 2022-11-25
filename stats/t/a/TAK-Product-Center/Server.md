@@ -1,6 +1,6 @@
 # TAK-Product-Center/Server - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 119 | 41 | 
 | 2022-11-23 | 119 | 41 | 
 | 2022-11-22 | 118 | 39 | 
 | 2022-11-21 | 118 | 39 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 108 | 35 | 
 | 2022-10-27 | 107 | 35 | 
 | 2022-10-26 | 107 | 35 | 
-| 2022-10-25 | 107 | 35 | 
 

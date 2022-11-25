@@ -1,10 +1,10 @@
 # christianhaitian/PortMaster - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 35
 
-★ Stars: 160
+★ Stars: 161
 
 [Open repository](https://github.com/christianhaitian/PortMaster)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 161 | 35 | 
 | 2022-11-23 | 160 | 35 | 
 | 2022-11-22 | 160 | 34 | 
 | 2022-11-21 | 159 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-29 | 145 | 33 | 
 | 2022-10-28 | 145 | 33 | 
 | 2022-10-27 | 144 | 33 | 
-| 2022-10-26 | 143 | 33 | 
 

@@ -1,10 +1,10 @@
 # fbsamples/graph-api-webhooks-samples - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 353
 
-★ Stars: 188
+★ Stars: 189
 
 [Open repository](https://github.com/fbsamples/graph-api-webhooks-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 189 | 353 | 
 | 2022-11-23 | 188 | 353 | 
 | 2022-11-22 | 188 | 353 | 
 | 2022-11-21 | 188 | 353 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 187 | 348 | 
 | 2022-10-27 | 187 | 347 | 
 | 2022-10-26 | 187 | 344 | 
-| 2022-10-25 | 187 | 342 | 
 

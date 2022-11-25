@@ -1,6 +1,6 @@
 # kprotty/zap - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 301 | 11 | 
 | 2022-11-24 | 301 | 11 | 
 | 2022-11-23 | 301 | 11 | 
 | 2022-11-21 | 301 | 11 | 

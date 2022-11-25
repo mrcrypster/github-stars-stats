@@ -1,6 +1,6 @@
 # rwema3/FlutterBookApp - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 31 | - | 
 | 2022-11-23 | 31 | - | 
 | 2022-11-22 | 31 | - | 
 | 2022-11-21 | 31 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-29 | 31 | - | 
 | 2022-10-28 | 31 | - | 
 | 2022-10-26 | 31 | - | 
-| 2022-10-25 | 31 | - | 
 

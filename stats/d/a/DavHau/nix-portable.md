@@ -1,6 +1,6 @@
 # DavHau/nix-portable - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 373 | 11 | 
 | 2022-11-23 | 373 | 11 | 
 | 2022-11-22 | 373 | 11 | 
 | 2022-11-21 | 372 | 11 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 355 | 11 | 
 | 2022-10-27 | 355 | 11 | 
 | 2022-10-26 | 355 | 11 | 
-| 2022-10-25 | 355 | 11 | 
 

@@ -1,10 +1,10 @@
 # cdelledonne/llresume - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 1
+☋ Forks: 2
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/cdelledonne/llresume)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 14 | 2 | 
 | 2022-11-23 | 13 | 1 | 
 | 2022-11-22 | 13 | 1 | 
 | 2022-11-21 | 13 | 1 | 

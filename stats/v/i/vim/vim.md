@@ -1,10 +1,10 @@
 # vim/vim - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 4474
+☋ Forks: 4472
 
-★ Stars: 28948
+★ Stars: 28951
 
 [Open repository](https://github.com/vim/vim)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 28951 | 4472 | 
 | 2022-11-23 | 28948 | 4474 | 
 | 2022-11-22 | 28942 | 4474 | 
 | 2022-11-21 | 28938 | 4474 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 28733 | 4434 | 
 | 2022-10-27 | 28723 | 4435 | 
 | 2022-10-26 | 28702 | 4426 | 
-| 2022-10-25 | 28702 | 4426 | 
 

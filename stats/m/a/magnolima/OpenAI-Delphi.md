@@ -1,6 +1,6 @@
 # magnolima/OpenAI-Delphi - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 20 | 5 | 
 | 2022-11-23 | 20 | 5 | 
 | 2022-11-22 | 20 | 5 | 
 | 2022-11-21 | 20 | 5 | 

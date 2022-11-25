@@ -1,10 +1,10 @@
 # doctrine/annotations - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 235
 
-★ Stars: 6542
+★ Stars: 6543
 
 [Open repository](https://github.com/doctrine/annotations)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 6543 | 235 | 
 | 2022-11-23 | 6542 | 235 | 
 | 2022-11-22 | 6542 | 235 | 
 | 2022-11-21 | 6542 | 235 | 

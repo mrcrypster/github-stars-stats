@@ -1,10 +1,10 @@
 # doxygen/doxygen - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 1131
 
-★ Stars: 4427
+★ Stars: 4428
 
 [Open repository](https://github.com/doxygen/doxygen)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 4428 | 1131 | 
 | 2022-11-23 | 4427 | 1131 | 
 | 2022-11-22 | 4423 | 1129 | 
 | 2022-11-21 | 4423 | 1129 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 4384 | 1124 | 
 | 2022-10-27 | 4382 | 1124 | 
 | 2022-10-26 | 4381 | 1124 | 
-| 2022-10-25 | 4381 | 1123 | 
 

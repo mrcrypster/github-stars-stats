@@ -1,6 +1,6 @@
 # iioter/iotgateway - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 143
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 462 | 143 | 
 | 2022-11-23 | 462 | 143 | 
 | 2022-11-22 | 462 | 143 | 
 | 2022-11-21 | 462 | 143 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 449 | 141 | 
 | 2022-10-27 | 449 | 141 | 
 | 2022-10-26 | 449 | 141 | 
-| 2022-10-25 | 449 | 141 | 
 

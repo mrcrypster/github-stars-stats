@@ -1,10 +1,10 @@
 # aurae-runtime/auraescript - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 32
 
-★ Stars: 817
+★ Stars: 837
 
 [Open repository](https://github.com/aurae-runtime/auraescript)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 837 | 32 | 
 | 2022-11-23 | 817 | 32 | 
 | 2022-11-22 | 781 | 30 | 
 | 2022-11-21 | 687 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 332 | 20 | 
 | 2022-10-27 | 328 | 20 | 
 | 2022-10-26 | 312 | 18 | 
-| 2022-10-25 | 301 | 17 | 
 

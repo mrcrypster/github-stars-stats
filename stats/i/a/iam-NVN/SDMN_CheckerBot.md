@@ -1,6 +1,6 @@
 # iam-NVN/SDMN_CheckerBot - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 318
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 179 | 318 | 
 | 2022-11-23 | 179 | 318 | 
 | 2022-11-22 | 179 | 318 | 
 | 2022-11-21 | 179 | 318 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-29 | 171 | 310 | 
 | 2022-10-28 | 171 | 310 | 
 | 2022-10-27 | 171 | 310 | 
-| 2022-10-26 | 168 | 307 | 
 

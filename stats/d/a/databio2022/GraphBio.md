@@ -1,6 +1,6 @@
 # databio2022/GraphBio - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 16 | 8 | 
 | 2022-11-23 | 16 | 8 | 
 | 2022-11-22 | 16 | 8 | 
 | 2022-11-21 | 16 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 14 | 8 | 
 | 2022-10-27 | 13 | 8 | 
 | 2022-10-26 | 13 | 8 | 
-| 2022-10-25 | 13 | 8 | 
 

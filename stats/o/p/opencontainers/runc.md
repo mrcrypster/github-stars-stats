@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 24
 
 ☋ Forks: 1858
 
-★ Stars: 9775
+★ Stars: 9777
 
 [Open repository](https://github.com/opencontainers/runc)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-24 | 9775 | 1858 | 
+| 2022-11-24 | 9777 | 1858 | 
 | 2022-11-23 | 9775 | 1858 | 
 | 2022-11-22 | 9769 | 1856 | 
 

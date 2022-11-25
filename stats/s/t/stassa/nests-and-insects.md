@@ -1,10 +1,10 @@
 # stassa/nests-and-insects - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 2
 
-★ Stars: 46
+★ Stars: 47
 
 [Open repository](https://github.com/stassa/nests-and-insects)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 47 | 2 | 
 | 2022-11-23 | 46 | 2 | 
 | 2022-11-22 | 46 | 2 | 
 | 2022-11-21 | 46 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 45 | 1 | 
 | 2022-10-27 | 45 | 1 | 
 | 2022-10-26 | 45 | 1 | 
-| 2022-10-25 | 45 | 1 | 
 

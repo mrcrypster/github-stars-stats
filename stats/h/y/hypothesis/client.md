@@ -1,6 +1,6 @@
 # hypothesis/client - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 170
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 538 | 170 | 
 | 2022-11-23 | 538 | 170 | 
 | 2022-11-22 | 537 | 170 | 
 | 2022-11-21 | 536 | 169 | 

@@ -1,8 +1,8 @@
 # bbrumm/databasestar - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 26
+☋ Forks: 27
 
 ★ Stars: 23
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 23 | 27 | 
 | 2022-11-23 | 23 | 26 | 
 | 2022-11-22 | 22 | 26 | 
 | 2022-11-21 | 22 | 26 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 14 | 16 | 
 | 2022-10-27 | 13 | 16 | 
 | 2022-10-26 | 13 | 16 | 
-| 2022-10-25 | 13 | 16 | 
 

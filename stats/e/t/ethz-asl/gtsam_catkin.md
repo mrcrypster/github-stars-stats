@@ -1,10 +1,10 @@
 # ethz-asl/gtsam_catkin - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 15
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/ethz-asl/gtsam_catkin)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 10 | 15 | 
 | 2022-11-23 | 9 | 15 | 
 | 2022-11-22 | 9 | 15 | 
 | 2022-11-21 | 9 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 9 | 15 | 
 | 2022-10-27 | 9 | 15 | 
 | 2022-10-26 | 9 | 15 | 
-| 2022-10-25 | 9 | 15 | 
 

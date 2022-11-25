@@ -1,10 +1,10 @@
 # Guray00/IngegneriaInformatica - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 38
 
-★ Stars: 133
+★ Stars: 134
 
 [Open repository](https://github.com/Guray00/IngegneriaInformatica)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 134 | 38 | 
 | 2022-11-23 | 133 | 38 | 
 | 2022-11-22 | 133 | 38 | 
 | 2022-11-21 | 133 | 38 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 130 | 37 | 
 | 2022-10-27 | 129 | 37 | 
 | 2022-10-26 | 129 | 37 | 
-| 2022-10-25 | 129 | 37 | 
 

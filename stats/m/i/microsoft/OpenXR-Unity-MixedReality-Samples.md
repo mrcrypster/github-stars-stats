@@ -1,10 +1,10 @@
 # microsoft/OpenXR-Unity-MixedReality-Samples - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 44
 
-★ Stars: 141
+★ Stars: 142
 
 [Open repository](https://github.com/microsoft/OpenXR-Unity-MixedReality-Samples)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 142 | 44 | 
 | 2022-11-23 | 141 | 44 | 
 | 2022-11-22 | 141 | 44 | 
 | 2022-11-21 | 141 | 44 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 135 | 41 | 
 | 2022-10-27 | 135 | 40 | 
 | 2022-10-26 | 135 | 40 | 
-| 2022-10-25 | 135 | 40 | 
 

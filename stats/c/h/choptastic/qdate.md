@@ -1,6 +1,6 @@
 # choptastic/qdate - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 82
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 235 | 82 | 
 | 2022-11-23 | 235 | 82 | 
 | 2022-11-22 | 235 | 82 | 
 | 2022-11-21 | 235 | 82 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 235 | 82 | 
 | 2022-10-27 | 235 | 82 | 
 | 2022-10-26 | 235 | 82 | 
-| 2022-10-25 | 235 | 82 | 
 

@@ -1,10 +1,10 @@
 # sr2echa/Monotone-HWID-Spoofer - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 62
 
-★ Stars: 176
+★ Stars: 175
 
 [Open repository](https://github.com/sr2echa/Monotone-HWID-Spoofer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 175 | 62 | 
 | 2022-11-23 | 176 | 62 | 
 | 2022-11-22 | 176 | 61 | 
 | 2022-11-21 | 175 | 61 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 165 | 55 | 
 | 2022-10-27 | 165 | 55 | 
 | 2022-10-26 | 165 | 55 | 
-| 2022-10-25 | 165 | 55 | 
 

@@ -1,10 +1,10 @@
 # Project-Interactions/Interactions - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 8
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/Project-Interactions/Interactions)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 11 | 8 | 
 | 2022-11-23 | 10 | 8 | 
 | 2022-11-22 | 10 | 8 | 
 | 2022-11-21 | 10 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 9 | 6 | 
 | 2022-10-27 | 9 | 6 | 
 | 2022-10-26 | 9 | 6 | 
-| 2022-10-25 | 9 | 6 | 
 

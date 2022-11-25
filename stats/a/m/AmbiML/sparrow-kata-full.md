@@ -1,10 +1,10 @@
 # AmbiML/sparrow-kata-full - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 14
 
-★ Stars: 223
+★ Stars: 222
 
 [Open repository](https://github.com/AmbiML/sparrow-kata-full)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 222 | 14 | 
 | 2022-11-23 | 223 | 14 | 
 | 2022-11-22 | 222 | 14 | 
 | 2022-11-21 | 221 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 193 | 10 | 
 | 2022-10-27 | 190 | 8 | 
 | 2022-10-26 | 187 | 7 | 
-| 2022-10-25 | 185 | 7 | 
 

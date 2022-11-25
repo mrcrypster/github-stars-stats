@@ -1,10 +1,10 @@
 # pointfreeco/swift-snapshot-testing - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 394
 
-★ Stars: 2918
+★ Stars: 2920
 
 [Open repository](https://github.com/pointfreeco/swift-snapshot-testing)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 2920 | 394 | 
 | 2022-11-23 | 2918 | 394 | 
 | 2022-11-22 | 2917 | 393 | 
 | 2022-11-21 | 2916 | 393 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 2877 | 389 | 
 | 2022-10-27 | 2874 | 387 | 
 | 2022-10-26 | 2870 | 386 | 
-| 2022-10-25 | 2869 | 385 | 
 

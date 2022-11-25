@@ -1,10 +1,10 @@
 # lewkamtao/Lew-UI - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 48
 
-★ Stars: 727
+★ Stars: 728
 
 [Open repository](https://github.com/lewkamtao/Lew-UI)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 728 | 48 | 
 | 2022-11-23 | 727 | 48 | 
 | 2022-11-22 | 726 | 48 | 
 | 2022-11-21 | 726 | 48 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 726 | 49 | 
 | 2022-10-27 | 726 | 49 | 
 | 2022-10-26 | 725 | 49 | 
-| 2022-10-25 | 724 | 49 | 
 

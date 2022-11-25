@@ -1,6 +1,6 @@
 # ksz-ksz/rxjs-insights - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 314 | 11 | 
 | 2022-11-23 | 314 | 11 | 
 | 2022-11-22 | 313 | 11 | 
 | 2022-11-21 | 313 | 11 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 276 | 10 | 
 | 2022-10-27 | 276 | 10 | 
 | 2022-10-26 | 276 | 10 | 
-| 2022-10-25 | 275 | 10 | 
 

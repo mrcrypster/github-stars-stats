@@ -1,8 +1,8 @@
 # Ewenwan/Ros - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 336
+☋ Forks: 337
 
 ★ Stars: 752
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 752 | 337 | 
 | 2022-11-23 | 752 | 336 | 
 | 2022-11-22 | 752 | 336 | 
 | 2022-11-21 | 751 | 336 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 741 | 332 | 
 | 2022-10-27 | 741 | 332 | 
 | 2022-10-26 | 741 | 332 | 
-| 2022-10-25 | 740 | 331 | 
 

@@ -1,10 +1,10 @@
 # lmcinnes/umap - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 690
 
-★ Stars: 5915
+★ Stars: 5916
 
 [Open repository](https://github.com/lmcinnes/umap)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 5916 | 690 | 
 | 2022-11-23 | 5915 | 690 | 
 | 2022-11-22 | 5912 | 690 | 
 | 2022-11-21 | 5909 | 690 | 

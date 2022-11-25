@@ -1,6 +1,6 @@
 # zsh-users/zsh-history-substring-search - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 136
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 1980 | 136 | 
 | 2022-11-24 | 1980 | 136 | 
 | 2022-11-23 | 1980 | 136 | 
 | 2022-11-22 | 1980 | 136 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-28 | 1961 | 135 | 
 | 2022-10-27 | 1960 | 135 | 
 | 2022-10-26 | 1960 | 135 | 
-| 2022-10-25 | 1960 | 135 | 
 

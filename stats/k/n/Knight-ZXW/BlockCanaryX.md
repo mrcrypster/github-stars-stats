@@ -1,6 +1,6 @@
 # Knight-ZXW/BlockCanaryX - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 267 | 23 | 
 | 2022-11-23 | 267 | 23 | 
 | 2022-11-22 | 266 | 23 | 
 | 2022-11-21 | 265 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-29 | 254 | 23 | 
 | 2022-10-28 | 253 | 22 | 
 | 2022-10-27 | 251 | 22 | 
-| 2022-10-26 | 250 | 22 | 
 

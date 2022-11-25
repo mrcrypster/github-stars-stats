@@ -1,6 +1,6 @@
 # chainsulting/ethereum-2.0-validator-setup-guide - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 82 | 57 | 
 | 2022-11-23 | 82 | 57 | 
 | 2022-11-22 | 82 | 57 | 
 | 2022-11-21 | 82 | 57 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 78 | 55 | 
 | 2022-10-27 | 78 | 55 | 
 | 2022-10-26 | 78 | 55 | 
-| 2022-10-25 | 78 | 55 | 
 

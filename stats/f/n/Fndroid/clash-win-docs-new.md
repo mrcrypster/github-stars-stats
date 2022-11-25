@@ -1,10 +1,10 @@
 # Fndroid/clash-win-docs-new - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 502
+☋ Forks: 503
 
-★ Stars: 673
+★ Stars: 675
 
 [Open repository](https://github.com/Fndroid/clash-win-docs-new)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 675 | 503 | 
 | 2022-11-23 | 673 | 502 | 
 | 2022-11-22 | 672 | 500 | 
 | 2022-11-21 | 671 | 500 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 640 | 479 | 
 | 2022-10-27 | 639 | 476 | 
 | 2022-10-26 | 636 | 475 | 
-| 2022-10-25 | 634 | 474 | 
 

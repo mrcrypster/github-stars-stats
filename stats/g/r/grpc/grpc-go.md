@@ -1,10 +1,10 @@
 # grpc/grpc-go - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 3830
+☋ Forks: 3831
 
-★ Stars: 17144
+★ Stars: 17150
 
 [Open repository](https://github.com/grpc/grpc-go)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 17150 | 3831 | 
 | 2022-11-23 | 17144 | 3830 | 
 | 2022-11-22 | 17137 | 3828 | 
 | 2022-11-21 | 17134 | 3828 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 17016 | 3794 | 
 | 2022-10-27 | 17011 | 3791 | 
 | 2022-10-26 | 17001 | 3791 | 
-| 2022-10-25 | 16994 | 3789 | 
 

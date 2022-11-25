@@ -1,10 +1,10 @@
 # chrismwilliams/astro-theme-cactus - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 14
 
-★ Stars: 81
+★ Stars: 80
 
 [Open repository](https://github.com/chrismwilliams/astro-theme-cactus)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 80 | 14 | 
 | 2022-11-23 | 81 | 14 | 
 | 2022-11-22 | 80 | 14 | 
 | 2022-11-21 | 80 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 73 | 11 | 
 | 2022-10-27 | 72 | 11 | 
 | 2022-10-26 | 72 | 11 | 
-| 2022-10-25 | 72 | 11 | 
 

@@ -1,6 +1,6 @@
 # yasan-org/status.yasan.dev - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 6 | - | 
 | 2022-11-23 | 6 | - | 
 | 2022-11-22 | 6 | - | 
 | 2022-11-21 | 6 | - | 

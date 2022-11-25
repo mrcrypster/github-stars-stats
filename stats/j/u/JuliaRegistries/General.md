@@ -1,6 +1,6 @@
 # JuliaRegistries/General - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 349
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 474 | 349 | 
 | 2022-11-23 | 474 | 349 | 
 | 2022-11-22 | 474 | 349 | 
 | 2022-11-21 | 473 | 349 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 463 | 344 | 
 | 2022-10-27 | 463 | 343 | 
 | 2022-10-26 | 463 | 343 | 
-| 2022-10-25 | 463 | 341 | 
 

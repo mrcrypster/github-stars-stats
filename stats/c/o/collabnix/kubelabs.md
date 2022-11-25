@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 24
 
 ☋ Forks: 643
 
-★ Stars: 1711
+★ Stars: 1713
 
 [Open repository](https://github.com/collabnix/kubelabs)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-24 | 1711 | 643 | 
+| 2022-11-24 | 1713 | 643 | 
 | 2022-11-23 | 1710 | 643 | 
 | 2022-11-22 | 1705 | 639 | 
 | 2022-11-21 | 1688 | 632 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 1663 | 619 | 
 | 2022-10-27 | 1663 | 619 | 
 | 2022-10-26 | 1663 | 619 | 
-| 2022-10-25 | 1662 | 619 | 
 

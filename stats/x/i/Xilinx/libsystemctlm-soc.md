@@ -1,10 +1,10 @@
 # Xilinx/libsystemctlm-soc - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 43
 
-★ Stars: 109
+★ Stars: 110
 
 [Open repository](https://github.com/Xilinx/libsystemctlm-soc)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 110 | 43 | 
 | 2022-11-23 | 109 | 43 | 
 | 2022-11-22 | 109 | 43 | 
 | 2022-11-21 | 108 | 43 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 104 | 43 | 
 | 2022-10-27 | 103 | 43 | 
 | 2022-10-26 | 103 | 43 | 
-| 2022-10-25 | 103 | 43 | 
 

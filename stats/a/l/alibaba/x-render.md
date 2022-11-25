@@ -1,10 +1,10 @@
 # alibaba/x-render - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 777
+☋ Forks: 776
 
-★ Stars: 5251
+★ Stars: 5255
 
 [Open repository](https://github.com/alibaba/x-render)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 5255 | 776 | 
 | 2022-11-23 | 5251 | 777 | 
 | 2022-11-22 | 5247 | 776 | 
 | 2022-11-21 | 5243 | 776 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 5141 | 759 | 
 | 2022-10-27 | 5137 | 759 | 
 | 2022-10-26 | 5133 | 758 | 
-| 2022-10-25 | 5130 | 758 | 
 

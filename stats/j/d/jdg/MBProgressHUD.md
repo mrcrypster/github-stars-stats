@@ -1,6 +1,6 @@
 # jdg/MBProgressHUD - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 3515
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 15965 | 3515 | 
 | 2022-11-23 | 15965 | 3515 | 
 | 2022-11-22 | 15966 | 3515 | 
 | 2022-11-21 | 15965 | 3515 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 15968 | 3520 | 
 | 2022-10-27 | 15968 | 3520 | 
 | 2022-10-26 | 15969 | 3520 | 
-| 2022-10-25 | 15970 | 3519 | 
 

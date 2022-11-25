@@ -1,6 +1,6 @@
 # r-lib/rig - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 318 | 12 | 
 | 2022-11-23 | 318 | 12 | 
 | 2022-11-22 | 319 | 12 | 
 | 2022-11-21 | 319 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 311 | 12 | 
 | 2022-10-27 | 311 | 12 | 
 | 2022-10-26 | 310 | 12 | 
-| 2022-10-25 | 310 | 12 | 
 

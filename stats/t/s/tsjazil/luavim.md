@@ -1,6 +1,6 @@
 # tsjazil/luavim - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 63 | - | 
 | 2022-11-23 | 63 | - | 
 | 2022-11-22 | 63 | - | 
 | 2022-11-21 | 63 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 63 | - | 
 | 2022-10-27 | 63 | - | 
 | 2022-10-26 | 63 | - | 
-| 2022-10-25 | 63 | - | 
 

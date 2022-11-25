@@ -1,6 +1,6 @@
 # GameServerManagers/LinuxGSM - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 712
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 3463 | 712 | 
 | 2022-11-23 | 3463 | 712 | 
 | 2022-11-22 | 3462 | 712 | 
 | 2022-11-21 | 3461 | 711 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 3436 | 710 | 
 | 2022-10-27 | 3432 | 710 | 
 | 2022-10-26 | 3432 | 710 | 
-| 2022-10-25 | 3433 | 711 | 
 

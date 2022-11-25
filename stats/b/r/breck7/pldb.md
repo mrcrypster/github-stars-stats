@@ -1,6 +1,6 @@
 # breck7/pldb - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 64
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 604 | 64 | 
 | 2022-11-23 | 604 | 64 | 
 | 2022-11-22 | 604 | 64 | 
 | 2022-11-21 | 602 | 64 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 590 | 65 | 
 | 2022-10-27 | 590 | 64 | 
 | 2022-10-26 | 589 | 64 | 
-| 2022-10-25 | 588 | 64 | 
 

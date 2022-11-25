@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 24
 
-☋ Forks: 12
+☋ Forks: 13
 
-★ Stars: 162
+★ Stars: 175
 
 [Open repository](https://github.com/0xacb/recollapse)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-24 | 162 | 12 | 
+| 2022-11-24 | 175 | 13 | 
 | 2022-11-23 | 160 | 12 | 
 

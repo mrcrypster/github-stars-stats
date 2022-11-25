@@ -1,8 +1,8 @@
 # googlemaps/js-samples - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 730
+☋ Forks: 731
 
 ★ Stars: 589
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 589 | 731 | 
 | 2022-11-23 | 589 | 730 | 
 | 2022-11-22 | 589 | 730 | 
 | 2022-11-21 | 589 | 729 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 585 | 724 | 
 | 2022-10-27 | 585 | 723 | 
 | 2022-10-26 | 585 | 721 | 
-| 2022-10-25 | 585 | 721 | 
 

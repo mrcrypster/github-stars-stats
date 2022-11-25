@@ -1,6 +1,6 @@
 # blankly-finance/blankly - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 172
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 1322 | 172 | 
 | 2022-11-23 | 1322 | 172 | 
 | 2022-11-22 | 1320 | 172 | 
 | 2022-11-21 | 1319 | 173 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 1278 | 171 | 
 | 2022-10-27 | 1276 | 171 | 
 | 2022-10-26 | 1273 | 171 | 
-| 2022-10-25 | 1272 | 171 | 
 

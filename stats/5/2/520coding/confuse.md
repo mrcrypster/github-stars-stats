@@ -1,8 +1,8 @@
 # 520coding/confuse - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 154
+☋ Forks: 153
 
 ★ Stars: 1070
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 1070 | 153 | 
 | 2022-11-23 | 1070 | 154 | 
 | 2022-11-22 | 1069 | 154 | 
 | 2022-11-21 | 1067 | 153 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 1029 | 150 | 
 | 2022-10-27 | 1026 | 150 | 
 | 2022-10-26 | 1023 | 150 | 
-| 2022-10-25 | 1024 | 150 | 
 

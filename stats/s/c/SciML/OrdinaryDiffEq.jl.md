@@ -1,10 +1,10 @@
 # SciML/OrdinaryDiffEq.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 154
 
-★ Stars: 388
+★ Stars: 387
 
 [Open repository](https://github.com/SciML/OrdinaryDiffEq.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 387 | 154 | 
 | 2022-11-23 | 388 | 154 | 
 | 2022-11-22 | 388 | 154 | 
 | 2022-11-21 | 388 | 154 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 382 | 151 | 
 | 2022-10-27 | 382 | 151 | 
 | 2022-10-26 | 382 | 151 | 
-| 2022-10-25 | 382 | 151 | 
 

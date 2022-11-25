@@ -1,10 +1,10 @@
 # open-mmlab/mmtracking - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 445
+☋ Forks: 446
 
-★ Stars: 2651
+★ Stars: 2652
 
 [Open repository](https://github.com/open-mmlab/mmtracking)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 2652 | 446 | 
 | 2022-11-23 | 2651 | 445 | 
 | 2022-11-22 | 2648 | 444 | 
 | 2022-11-21 | 2646 | 441 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 2597 | 433 | 
 | 2022-10-27 | 2595 | 433 | 
 | 2022-10-26 | 2592 | 433 | 
-| 2022-10-25 | 2589 | 433 | 
 

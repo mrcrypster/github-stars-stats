@@ -1,6 +1,6 @@
 # XploitWizer/XploitSPY - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 505
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 794 | 505 | 
 | 2022-11-23 | 794 | 505 | 
 | 2022-11-22 | 793 | 504 | 
 | 2022-11-21 | 794 | 504 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 784 | 503 | 
 | 2022-10-27 | 784 | 503 | 
 | 2022-10-26 | 784 | 503 | 
-| 2022-10-25 | 784 | 503 | 
 

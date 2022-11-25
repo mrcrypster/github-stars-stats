@@ -1,6 +1,6 @@
 # cboxdoerfer/fsearch - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 184
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 2178 | 184 | 
 | 2022-11-23 | 2178 | 184 | 
 | 2022-11-22 | 2177 | 184 | 
 | 2022-11-21 | 2174 | 184 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 2146 | 183 | 
 | 2022-10-27 | 2146 | 183 | 
 | 2022-10-26 | 2144 | 183 | 
-| 2022-10-25 | 2143 | 182 | 
 

@@ -1,8 +1,8 @@
 # dokato/todor - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 11
+☋ Forks: 10
 
 ★ Stars: 207
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 207 | 10 | 
 | 2022-11-23 | 207 | 11 | 
 | 2022-11-22 | 207 | 11 | 
 | 2022-11-21 | 207 | 11 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 204 | 11 | 
 | 2022-10-27 | 204 | 11 | 
 | 2022-10-26 | 204 | 11 | 
-| 2022-10-25 | 204 | 11 | 
 

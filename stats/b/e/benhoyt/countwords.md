@@ -1,6 +1,6 @@
 # benhoyt/countwords - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 93
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 286 | 93 | 
 | 2022-11-23 | 286 | 93 | 
 | 2022-11-22 | 286 | 93 | 
 | 2022-11-21 | 286 | 93 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 287 | 93 | 
 | 2022-10-27 | 287 | 93 | 
 | 2022-10-26 | 287 | 93 | 
-| 2022-10-25 | 287 | 93 | 
 

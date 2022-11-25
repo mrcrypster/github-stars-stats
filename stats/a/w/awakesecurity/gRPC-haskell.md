@@ -1,8 +1,8 @@
 # awakesecurity/gRPC-haskell - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 66
+☋ Forks: 67
 
 ★ Stars: 207
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 207 | 67 | 
 | 2022-11-23 | 207 | 66 | 
 | 2022-11-22 | 207 | 66 | 
 | 2022-11-21 | 207 | 66 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-29 | 205 | 66 | 
 | 2022-10-28 | 205 | 66 | 
 | 2022-10-27 | 205 | 66 | 
-| 2022-10-26 | 205 | 66 | 
 

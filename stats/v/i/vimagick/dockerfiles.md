@@ -1,6 +1,6 @@
 # vimagick/dockerfiles - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 755
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 2901 | 755 | 
 | 2022-11-23 | 2901 | 755 | 
 | 2022-11-22 | 2901 | 755 | 
 | 2022-11-21 | 2902 | 754 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 2891 | 753 | 
 | 2022-10-27 | 2891 | 753 | 
 | 2022-10-26 | 2891 | 753 | 
-| 2022-10-25 | 2891 | 753 | 
 

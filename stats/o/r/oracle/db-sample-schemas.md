@@ -1,6 +1,6 @@
 # oracle/db-sample-schemas - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 457
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 546 | 457 | 
 | 2022-11-23 | 546 | 457 | 
 | 2022-11-22 | 546 | 457 | 
 | 2022-11-21 | 545 | 456 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 540 | 453 | 
 | 2022-10-27 | 539 | 454 | 
 | 2022-10-26 | 539 | 453 | 
-| 2022-10-25 | 538 | 452 | 
 

@@ -1,6 +1,6 @@
 # db0/Stable-Horde-Client - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 59 | 7 | 
 | 2022-11-23 | 59 | 7 | 
 | 2022-11-22 | 59 | 7 | 
 | 2022-11-21 | 59 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 48 | 4 | 
 | 2022-10-27 | 48 | 4 | 
 | 2022-10-26 | 44 | 4 | 
-| 2022-10-25 | 33 | 4 | 
 

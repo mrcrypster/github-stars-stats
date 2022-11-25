@@ -1,6 +1,6 @@
 # vinceliuice/Mojave-gtk-theme - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 253
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 1378 | 253 | 
 | 2022-11-23 | 1378 | 253 | 
 | 2022-11-22 | 1379 | 253 | 
 | 2022-11-21 | 1380 | 252 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 1374 | 252 | 
 | 2022-10-27 | 1374 | 252 | 
 | 2022-10-26 | 1374 | 252 | 
-| 2022-10-25 | 1373 | 252 | 
 

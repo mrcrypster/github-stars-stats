@@ -1,10 +1,10 @@
 # facebookresearch/Mask2Former - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 202
+☋ Forks: 203
 
-★ Stars: 1165
+★ Stars: 1168
 
 [Open repository](https://github.com/facebookresearch/Mask2Former)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 1168 | 203 | 
 | 2022-11-23 | 1165 | 202 | 
 | 2022-11-22 | 1161 | 202 | 
 | 2022-11-21 | 1158 | 202 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 1122 | 186 | 
 | 2022-10-27 | 1119 | 186 | 
 | 2022-10-26 | 1116 | 186 | 
-| 2022-10-25 | 1114 | 186 | 
 

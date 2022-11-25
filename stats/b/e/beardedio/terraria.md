@@ -1,6 +1,6 @@
 # beardedio/terraria - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 71 | 46 | 
 | 2022-11-23 | 71 | 46 | 
 | 2022-11-22 | 71 | 46 | 
 | 2022-11-21 | 71 | 46 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 70 | 43 | 
 | 2022-10-27 | 70 | 43 | 
 | 2022-10-26 | 70 | 43 | 
-| 2022-10-25 | 70 | 43 | 
 

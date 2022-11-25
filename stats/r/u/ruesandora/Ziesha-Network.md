@@ -1,10 +1,10 @@
 # ruesandora/Ziesha-Network - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 72
+☋ Forks: 80
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/ruesandora/Ziesha-Network)
 
@@ -13,5 +13,6 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 37 | 80 | 
 | 2022-11-23 | 36 | 72 | 
 

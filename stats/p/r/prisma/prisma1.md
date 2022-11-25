@@ -1,6 +1,6 @@
 # prisma/prisma1 - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 919
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 16779 | 919 | 
 | 2022-11-23 | 16779 | 919 | 
 | 2022-11-22 | 16779 | 919 | 
 | 2022-11-21 | 16780 | 919 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-29 | 16789 | 921 | 
 | 2022-10-28 | 16791 | 921 | 
 | 2022-10-27 | 16791 | 921 | 
-| 2022-10-26 | 16791 | 921 | 
 

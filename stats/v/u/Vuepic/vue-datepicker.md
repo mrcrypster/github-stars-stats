@@ -1,10 +1,10 @@
 # Vuepic/vue-datepicker - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 42
 
-★ Stars: 454
+★ Stars: 457
 
 [Open repository](https://github.com/Vuepic/vue-datepicker)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 457 | 42 | 
 | 2022-11-23 | 454 | 42 | 
 | 2022-11-22 | 454 | 42 | 
 | 2022-11-21 | 453 | 42 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 406 | 35 | 
 | 2022-10-27 | 402 | 35 | 
 | 2022-10-26 | 399 | 35 | 
-| 2022-10-25 | 395 | 34 | 
 

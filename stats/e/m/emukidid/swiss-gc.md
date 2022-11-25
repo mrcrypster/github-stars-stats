@@ -1,6 +1,6 @@
 # emukidid/swiss-gc - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 82
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 872 | 82 | 
 | 2022-11-23 | 872 | 82 | 
 | 2022-11-22 | 873 | 82 | 
 | 2022-11-21 | 873 | 82 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 856 | 83 | 
 | 2022-10-27 | 854 | 83 | 
 | 2022-10-26 | 853 | 82 | 
-| 2022-10-25 | 852 | 83 | 
 

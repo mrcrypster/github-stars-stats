@@ -1,6 +1,6 @@
 # chris1111/Geforce-Kepler-patcher - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 270 | 43 | 
 | 2022-11-23 | 270 | 43 | 
 | 2022-11-22 | 269 | 43 | 
 | 2022-11-21 | 269 | 43 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 253 | 42 | 
 | 2022-10-27 | 253 | 42 | 
 | 2022-10-26 | 252 | 42 | 
-| 2022-10-25 | 253 | 42 | 
 

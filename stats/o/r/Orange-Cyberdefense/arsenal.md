@@ -1,10 +1,10 @@
 # Orange-Cyberdefense/arsenal - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 278
 
-★ Stars: 1783
+★ Stars: 1787
 
 [Open repository](https://github.com/Orange-Cyberdefense/arsenal)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 1787 | 278 | 
 | 2022-11-23 | 1783 | 278 | 
 | 2022-11-22 | 1783 | 278 | 
 | 2022-11-21 | 1783 | 278 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 1706 | 266 | 
 | 2022-10-27 | 1701 | 266 | 
 | 2022-10-26 | 1697 | 265 | 
-| 2022-10-25 | 1696 | 265 | 
 

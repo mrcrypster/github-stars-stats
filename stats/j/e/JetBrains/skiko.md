@@ -1,10 +1,10 @@
 # JetBrains/skiko - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 62
 
-★ Stars: 1118
+★ Stars: 1119
 
 [Open repository](https://github.com/JetBrains/skiko)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 1119 | 62 | 
 | 2022-11-23 | 1118 | 62 | 
 | 2022-11-22 | 1117 | 62 | 
 | 2022-11-21 | 1116 | 61 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 1090 | 60 | 
 | 2022-10-27 | 1089 | 60 | 
 | 2022-10-26 | 1087 | 60 | 
-| 2022-10-25 | 1086 | 60 | 
 

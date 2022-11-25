@@ -1,6 +1,6 @@
 # laravel/nova-log-viewer - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 118 | 12 | 
 | 2022-11-23 | 118 | 12 | 
 | 2022-11-22 | 118 | 12 | 
 | 2022-11-21 | 118 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 118 | 12 | 
 | 2022-10-27 | 118 | 12 | 
 | 2022-10-26 | 117 | 12 | 
-| 2022-10-25 | 116 | 12 | 
 

@@ -1,10 +1,10 @@
 # hathach/tinyusb - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 656
+☋ Forks: 659
 
-★ Stars: 3212
+★ Stars: 3216
 
 [Open repository](https://github.com/hathach/tinyusb)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 3216 | 659 | 
 | 2022-11-23 | 3212 | 656 | 
 | 2022-11-22 | 3209 | 655 | 
 | 2022-11-21 | 3207 | 655 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 3148 | 639 | 
 | 2022-10-27 | 3145 | 639 | 
 | 2022-10-26 | 3143 | 638 | 
-| 2022-10-25 | 3141 | 638 | 
 

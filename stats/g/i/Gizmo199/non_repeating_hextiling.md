@@ -1,10 +1,10 @@
 # Gizmo199/non_repeating_hextiling - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 2
 
-★ Stars: 39
+★ Stars: 40
 
 [Open repository](https://github.com/Gizmo199/non_repeating_hextiling)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 40 | 2 | 
 | 2022-11-23 | 39 | 2 | 
 | 2022-11-22 | 39 | 2 | 
 | 2022-11-21 | 39 | 2 | 

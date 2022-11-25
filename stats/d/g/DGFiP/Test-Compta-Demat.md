@@ -1,8 +1,8 @@
 # DGFiP/Test-Compta-Demat - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 19
+☋ Forks: 20
 
 ★ Stars: 43
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 43 | 20 | 
 | 2022-11-23 | 43 | 19 | 
 | 2022-11-22 | 43 | 19 | 
 | 2022-11-21 | 43 | 19 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 43 | 18 | 
 | 2022-10-27 | 43 | 18 | 
 | 2022-10-26 | 43 | 18 | 
-| 2022-10-25 | 43 | 18 | 
 

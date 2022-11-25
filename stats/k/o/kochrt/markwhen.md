@@ -1,10 +1,10 @@
 # kochrt/markwhen - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 77
 
-★ Stars: 2051
+★ Stars: 2052
 
 [Open repository](https://github.com/kochrt/markwhen)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 2052 | 77 | 
 | 2022-11-23 | 2051 | 77 | 
 | 2022-11-22 | 2049 | 77 | 
 | 2022-11-21 | 2049 | 77 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 2019 | 77 | 
 | 2022-10-27 | 2018 | 77 | 
 | 2022-10-26 | 2017 | 77 | 
-| 2022-10-25 | 2016 | 76 | 
 

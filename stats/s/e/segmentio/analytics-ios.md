@@ -1,6 +1,6 @@
 # segmentio/analytics-ios - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 328
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 383 | 328 | 
 | 2022-11-23 | 383 | 328 | 
 | 2022-11-22 | 382 | 328 | 
 | 2022-11-21 | 382 | 328 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 381 | 328 | 
 | 2022-10-27 | 381 | 328 | 
 | 2022-10-26 | 380 | 328 | 
-| 2022-10-25 | 380 | 328 | 
 

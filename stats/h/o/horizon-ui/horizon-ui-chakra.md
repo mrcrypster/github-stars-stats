@@ -1,8 +1,8 @@
 # horizon-ui/horizon-ui-chakra - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 128
+☋ Forks: 130
 
 ★ Stars: 1250
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 1250 | 130 | 
 | 2022-11-23 | 1250 | 128 | 
 | 2022-11-22 | 1249 | 127 | 
 | 2022-11-21 | 1249 | 128 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 1177 | 124 | 
 | 2022-10-27 | 1177 | 123 | 
 | 2022-10-26 | 1177 | 123 | 
-| 2022-10-25 | 1175 | 123 | 
 

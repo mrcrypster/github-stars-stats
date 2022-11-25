@@ -1,10 +1,10 @@
 # gmingchen/vue3-element-plus-admin - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 120
 
-★ Stars: 494
+★ Stars: 496
 
 [Open repository](https://github.com/gmingchen/vue3-element-plus-admin)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 496 | 120 | 
 | 2022-11-23 | 494 | 120 | 
 | 2022-11-22 | 493 | 120 | 
 | 2022-11-21 | 493 | 120 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 472 | 117 | 
 | 2022-10-27 | 472 | 117 | 
 | 2022-10-26 | 472 | 117 | 
-| 2022-10-25 | 471 | 117 | 
 

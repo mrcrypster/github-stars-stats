@@ -1,6 +1,6 @@
 # willowtreeapps/Hyperion-iOS - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 89
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 2007 | 89 | 
 | 2022-11-23 | 2007 | 89 | 
 | 2022-11-22 | 2007 | 89 | 
 | 2022-11-21 | 2007 | 89 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 2004 | 88 | 
 | 2022-10-27 | 2004 | 88 | 
 | 2022-10-26 | 2004 | 88 | 
-| 2022-10-25 | 2004 | 88 | 
 

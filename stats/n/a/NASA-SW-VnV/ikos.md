@@ -1,10 +1,10 @@
 # NASA-SW-VnV/ikos - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 127
 
-★ Stars: 1729
+★ Stars: 1730
 
 [Open repository](https://github.com/NASA-SW-VnV/ikos)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 1730 | 127 | 
 | 2022-11-23 | 1729 | 127 | 
 | 2022-11-22 | 1729 | 128 | 
 | 2022-11-21 | 1729 | 128 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 1712 | 126 | 
 | 2022-10-27 | 1709 | 126 | 
 | 2022-10-26 | 1709 | 126 | 
-| 2022-10-25 | 1709 | 126 | 
 

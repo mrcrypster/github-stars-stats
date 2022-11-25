@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 24
 
 ☋ Forks: 1610
 
-★ Stars: 3724
+★ Stars: 3725
 
 [Open repository](https://github.com/docker/cli)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-24 | 3724 | 1610 | 
+| 2022-11-24 | 3725 | 1610 | 
 | 2022-11-23 | 3724 | 1610 | 
 

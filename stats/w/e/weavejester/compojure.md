@@ -1,6 +1,6 @@
 # weavejester/compojure - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 260
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 3972 | 260 | 
 | 2022-11-23 | 3972 | 260 | 
 | 2022-11-22 | 3972 | 260 | 
 | 2022-11-21 | 3972 | 260 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 3970 | 259 | 
 | 2022-10-27 | 3970 | 259 | 
 | 2022-10-26 | 3968 | 259 | 
-| 2022-10-25 | 3966 | 259 | 
 

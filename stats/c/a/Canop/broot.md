@@ -1,10 +1,10 @@
 # Canop/broot - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 185
+☋ Forks: 186
 
-★ Stars: 7876
+★ Stars: 7879
 
 [Open repository](https://github.com/Canop/broot)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 7879 | 186 | 
 | 2022-11-23 | 7876 | 185 | 
 | 2022-11-22 | 7876 | 185 | 
 | 2022-11-21 | 7871 | 185 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 7762 | 182 | 
 | 2022-10-27 | 7757 | 182 | 
 | 2022-10-26 | 7754 | 182 | 
-| 2022-10-25 | 7754 | 181 | 
 

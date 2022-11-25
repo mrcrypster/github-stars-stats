@@ -1,6 +1,6 @@
 # pixlsus/registry.gimp.org_static - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 127
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 156 | 127 | 
 | 2022-11-23 | 156 | 127 | 
 | 2022-11-22 | 156 | 127 | 
 | 2022-11-21 | 156 | 127 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 154 | 124 | 
 | 2022-10-27 | 154 | 124 | 
 | 2022-10-26 | 154 | 124 | 
-| 2022-10-25 | 154 | 124 | 
 

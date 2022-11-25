@@ -1,8 +1,8 @@
 # vipo/bimaru-client - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 3
+☋ Forks: 4
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 2 | 4 | 
 | 2022-11-23 | 2 | 3 | 
 | 2022-11-22 | 1 | 3 | 
 | 2022-11-21 | 1 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 1 | 3 | 
 | 2022-10-27 | 1 | 3 | 
 | 2022-10-26 | 1 | 3 | 
-| 2022-10-25 | 1 | 3 | 
 

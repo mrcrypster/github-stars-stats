@@ -1,10 +1,10 @@
 # sindresorhus/Defaults - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 88
 
-★ Stars: 1268
+★ Stars: 1269
 
 [Open repository](https://github.com/sindresorhus/Defaults)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 1269 | 88 | 
 | 2022-11-23 | 1268 | 88 | 
 | 2022-11-22 | 1266 | 88 | 
 | 2022-11-21 | 1256 | 88 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 1226 | 85 | 
 | 2022-10-27 | 1225 | 85 | 
 | 2022-10-26 | 1223 | 85 | 
-| 2022-10-25 | 1223 | 85 | 
 

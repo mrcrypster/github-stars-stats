@@ -1,10 +1,10 @@
 # gzc/CLRS - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 2712
+☋ Forks: 2714
 
-★ Stars: 8774
+★ Stars: 8775
 
 [Open repository](https://github.com/gzc/CLRS)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 8775 | 2714 | 
 | 2022-11-23 | 8774 | 2712 | 
 | 2022-11-22 | 8775 | 2712 | 
 | 2022-11-21 | 8775 | 2712 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 8734 | 2704 | 
 | 2022-10-27 | 8732 | 2703 | 
 | 2022-10-26 | 8728 | 2703 | 
-| 2022-10-25 | 8729 | 2701 | 
 

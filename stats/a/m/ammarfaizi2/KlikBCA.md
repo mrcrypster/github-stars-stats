@@ -1,6 +1,6 @@
 # ammarfaizi2/KlikBCA - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 66 | 25 | 
 | 2022-11-23 | 66 | 25 | 
 | 2022-11-22 | 66 | 25 | 
 | 2022-11-21 | 66 | 25 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 66 | 25 | 
 | 2022-10-27 | 66 | 25 | 
 | 2022-10-26 | 66 | 25 | 
-| 2022-10-25 | 66 | 25 | 
 

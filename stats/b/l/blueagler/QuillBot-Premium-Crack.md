@@ -1,10 +1,10 @@
 # blueagler/QuillBot-Premium-Crack - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 74
+☋ Forks: 75
 
-★ Stars: 366
+★ Stars: 367
 
 [Open repository](https://github.com/blueagler/QuillBot-Premium-Crack)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 367 | 75 | 
 | 2022-11-23 | 366 | 74 | 
 | 2022-11-22 | 366 | 74 | 
 | 2022-11-21 | 364 | 74 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 348 | 71 | 
 | 2022-10-27 | 348 | 71 | 
 | 2022-10-26 | 347 | 71 | 
-| 2022-10-25 | 346 | 71 | 
 

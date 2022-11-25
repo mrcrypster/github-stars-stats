@@ -1,10 +1,10 @@
 # fsprojects/Fabulous - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 123
 
-★ Stars: 973
+★ Stars: 974
 
 [Open repository](https://github.com/fsprojects/Fabulous)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 974 | 123 | 
 | 2022-11-23 | 973 | 123 | 
 | 2022-11-22 | 973 | 123 | 
 | 2022-11-21 | 972 | 123 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 967 | 123 | 
 | 2022-10-27 | 967 | 123 | 
 | 2022-10-26 | 966 | 123 | 
-| 2022-10-25 | 966 | 123 | 
 

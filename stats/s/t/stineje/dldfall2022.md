@@ -1,6 +1,6 @@
 # stineje/dldfall2022 - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 7 | 9 | 
 | 2022-11-23 | 7 | 9 | 
 | 2022-11-22 | 7 | 9 | 
 | 2022-11-21 | 7 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 6 | 7 | 
 | 2022-10-27 | 6 | 7 | 
 | 2022-10-26 | 6 | 7 | 
-| 2022-10-25 | 6 | 7 | 
 

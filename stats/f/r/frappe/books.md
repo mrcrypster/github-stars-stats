@@ -1,10 +1,10 @@
 # frappe/books - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 379
 
-★ Stars: 1717
+★ Stars: 1715
 
 [Open repository](https://github.com/frappe/books)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 1715 | 379 | 
 | 2022-11-23 | 1717 | 379 | 
 | 2022-11-22 | 1717 | 379 | 
 | 2022-11-21 | 1717 | 379 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 1693 | 373 | 
 | 2022-10-27 | 1691 | 372 | 
 | 2022-10-26 | 1691 | 371 | 
-| 2022-10-25 | 1689 | 370 | 
 

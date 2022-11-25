@@ -1,6 +1,6 @@
 # Azure/terraform-azurerm-vnet - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 226
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 83 | 226 | 
 | 2022-11-23 | 83 | 226 | 
 | 2022-11-22 | 83 | 225 | 
 | 2022-11-21 | 83 | 224 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 81 | 219 | 
 | 2022-10-27 | 81 | 217 | 
 | 2022-10-26 | 81 | 217 | 
-| 2022-10-25 | 81 | 216 | 
 

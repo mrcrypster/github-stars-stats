@@ -1,10 +1,10 @@
 # wolfi-dev/os - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 19
 
-★ Stars: 142
+★ Stars: 144
 
 [Open repository](https://github.com/wolfi-dev/os)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 144 | 19 | 
 | 2022-11-23 | 142 | 19 | 
 | 2022-11-22 | 142 | 19 | 
 | 2022-11-21 | 141 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 119 | 10 | 
 | 2022-10-27 | 115 | 10 | 
 | 2022-10-26 | 115 | 10 | 
-| 2022-10-25 | 115 | 9 | 
 

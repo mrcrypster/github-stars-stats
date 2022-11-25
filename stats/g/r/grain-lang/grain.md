@@ -1,6 +1,6 @@
 # grain-lang/grain - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 100
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 2701 | 100 | 
 | 2022-11-23 | 2701 | 100 | 
 | 2022-11-22 | 2701 | 100 | 
 | 2022-11-21 | 2700 | 100 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 2670 | 100 | 
 | 2022-10-27 | 2668 | 100 | 
 | 2022-10-26 | 2667 | 100 | 
-| 2022-10-25 | 2666 | 100 | 
 

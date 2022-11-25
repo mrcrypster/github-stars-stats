@@ -1,10 +1,10 @@
 # intel/confidential-computing-zoo - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 32
 
-★ Stars: 163
+★ Stars: 165
 
 [Open repository](https://github.com/intel/confidential-computing-zoo)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 165 | 32 | 
 | 2022-11-23 | 163 | 32 | 
 | 2022-11-22 | 163 | 32 | 
 | 2022-11-21 | 162 | 32 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 156 | 29 | 
 | 2022-10-27 | 156 | 29 | 
 | 2022-10-26 | 156 | 28 | 
-| 2022-10-25 | 156 | 28 | 
 

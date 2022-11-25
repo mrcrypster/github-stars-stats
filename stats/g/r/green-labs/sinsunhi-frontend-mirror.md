@@ -1,10 +1,10 @@
 # green-labs/sinsunhi-frontend-mirror - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 0
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/green-labs/sinsunhi-frontend-mirror)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 29 | - | 
 | 2022-11-23 | 28 | - | 
 | 2022-11-22 | 28 | - | 
 | 2022-11-21 | 28 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 26 | - | 
 | 2022-10-27 | 26 | - | 
 | 2022-10-26 | 26 | - | 
-| 2022-10-25 | 26 | - | 
 

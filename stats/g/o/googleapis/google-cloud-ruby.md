@@ -1,10 +1,10 @@
 # googleapis/google-cloud-ruby - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 521
 
-★ Stars: 1221
+★ Stars: 1222
 
 [Open repository](https://github.com/googleapis/google-cloud-ruby)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 1222 | 521 | 
 | 2022-11-23 | 1221 | 521 | 
 | 2022-11-22 | 1221 | 520 | 
 | 2022-11-21 | 1221 | 520 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 1215 | 519 | 
 | 2022-10-27 | 1215 | 519 | 
 | 2022-10-26 | 1215 | 519 | 
-| 2022-10-25 | 1214 | 519 | 
 

@@ -1,10 +1,10 @@
 # bloomrpc/bloomrpc - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 431
+☋ Forks: 430
 
-★ Stars: 8792
+★ Stars: 8798
 
 [Open repository](https://github.com/bloomrpc/bloomrpc)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 8798 | 430 | 
 | 2022-11-23 | 8792 | 431 | 
 | 2022-11-22 | 8788 | 431 | 
 | 2022-11-21 | 8785 | 430 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 8701 | 425 | 
 | 2022-10-27 | 8698 | 425 | 
 | 2022-10-26 | 8691 | 425 | 
-| 2022-10-25 | 8688 | 425 | 
 

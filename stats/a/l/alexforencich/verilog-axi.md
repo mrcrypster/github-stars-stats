@@ -1,10 +1,10 @@
 # alexforencich/verilog-axi - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 294
 
-★ Stars: 781
+★ Stars: 783
 
 [Open repository](https://github.com/alexforencich/verilog-axi)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 783 | 294 | 
 | 2022-11-23 | 781 | 294 | 
 | 2022-11-22 | 779 | 294 | 
 | 2022-11-21 | 779 | 294 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 762 | 285 | 
 | 2022-10-27 | 761 | 285 | 
 | 2022-10-26 | 760 | 285 | 
-| 2022-10-25 | 759 | 285 | 
 

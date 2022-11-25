@@ -1,6 +1,6 @@
 # rocketseat-education/nlw-06-discover - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 221
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 402 | 221 | 
 | 2022-11-23 | 402 | 221 | 
 | 2022-11-22 | 402 | 221 | 
 | 2022-11-21 | 402 | 221 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 401 | 220 | 
 | 2022-10-27 | 401 | 220 | 
 | 2022-10-26 | 401 | 220 | 
-| 2022-10-25 | 401 | 220 | 
 

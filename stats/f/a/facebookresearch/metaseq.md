@@ -1,10 +1,10 @@
 # facebookresearch/metaseq - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 409
+☋ Forks: 410
 
-★ Stars: 3902
+★ Stars: 3905
 
 [Open repository](https://github.com/facebookresearch/metaseq)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 3905 | 410 | 
 | 2022-11-23 | 3902 | 409 | 
 | 2022-11-22 | 3902 | 409 | 
 | 2022-11-21 | 3902 | 409 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 3846 | 402 | 
 | 2022-10-27 | 3842 | 401 | 
 | 2022-10-26 | 3839 | 401 | 
-| 2022-10-25 | 3833 | 401 | 
 

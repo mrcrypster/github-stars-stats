@@ -1,10 +1,10 @@
 # docker-library/redis - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 530
 
-★ Stars: 997
+★ Stars: 998
 
 [Open repository](https://github.com/docker-library/redis)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 998 | 530 | 
 | 2022-11-23 | 997 | 530 | 
 | 2022-11-22 | 997 | 530 | 
 | 2022-11-21 | 997 | 531 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 995 | 530 | 
 | 2022-10-27 | 994 | 529 | 
 | 2022-10-26 | 994 | 528 | 
-| 2022-10-25 | 994 | 528 | 
 

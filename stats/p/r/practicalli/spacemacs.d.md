@@ -1,6 +1,6 @@
 # practicalli/spacemacs.d - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 378
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 102 | 378 | 
 | 2022-11-23 | 102 | 378 | 
 | 2022-11-22 | 102 | 378 | 
 | 2022-11-21 | 102 | 377 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 99 | 367 | 
 | 2022-10-27 | 99 | 367 | 
 | 2022-10-26 | 99 | 367 | 
-| 2022-10-25 | 98 | 365 | 
 

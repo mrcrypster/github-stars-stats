@@ -1,10 +1,10 @@
 # YousefED/BlockNote - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 27
 
-★ Stars: 641
+★ Stars: 642
 
 [Open repository](https://github.com/YousefED/BlockNote)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 642 | 27 | 
 | 2022-11-23 | 641 | 27 | 
 | 2022-11-22 | 641 | 27 | 
 | 2022-11-21 | 638 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 512 | 26 | 
 | 2022-10-27 | 510 | 26 | 
 | 2022-10-26 | 508 | 26 | 
-| 2022-10-25 | 508 | 26 | 
 

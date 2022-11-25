@@ -1,10 +1,10 @@
 # pret/pokeemerald - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 1059
 
-★ Stars: 1331
+★ Stars: 1333
 
 [Open repository](https://github.com/pret/pokeemerald)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 1333 | 1059 | 
 | 2022-11-23 | 1331 | 1059 | 
 | 2022-11-22 | 1331 | 1061 | 
 | 2022-11-21 | 1330 | 1060 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 1301 | 1028 | 
 | 2022-10-27 | 1300 | 1025 | 
 | 2022-10-26 | 1297 | 1025 | 
-| 2022-10-25 | 1296 | 1024 | 
 

@@ -1,6 +1,6 @@
 # mcmanigle/OxThesis - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 141 | 68 | 
 | 2022-11-24 | 141 | 68 | 
 | 2022-11-22 | 141 | 68 | 
 | 2022-11-21 | 141 | 68 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-28 | 141 | 69 | 
 | 2022-10-27 | 141 | 69 | 
 | 2022-10-26 | 141 | 69 | 
-| 2022-10-25 | 141 | 69 | 
 

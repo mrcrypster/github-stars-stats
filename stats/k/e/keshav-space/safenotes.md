@@ -1,10 +1,10 @@
 # keshav-space/safenotes - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 14
 
-★ Stars: 94
+★ Stars: 96
 
 [Open repository](https://github.com/keshav-space/safenotes)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 96 | 14 | 
 | 2022-11-23 | 94 | 14 | 
 | 2022-11-22 | 94 | 14 | 
 | 2022-11-21 | 94 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 47 | 7 | 
 | 2022-10-27 | 45 | 7 | 
 | 2022-10-26 | 42 | 7 | 
-| 2022-10-25 | 41 | 7 | 
 

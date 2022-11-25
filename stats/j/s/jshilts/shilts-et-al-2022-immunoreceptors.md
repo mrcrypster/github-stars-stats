@@ -1,10 +1,10 @@
 # jshilts/shilts-et-al-2022-immunoreceptors - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 3
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/jshilts/shilts-et-al-2022-immunoreceptors)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 23 | 3 | 
 | 2022-11-23 | 22 | 3 | 
 | 2022-11-22 | 22 | 3 | 
 | 2022-11-21 | 22 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 20 | 4 | 
 | 2022-10-27 | 20 | 4 | 
 | 2022-10-26 | 20 | 4 | 
-| 2022-10-25 | 19 | 4 | 
 

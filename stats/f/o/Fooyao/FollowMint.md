@@ -1,6 +1,6 @@
 # Fooyao/FollowMint - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 66
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 92 | 66 | 
 | 2022-11-23 | 92 | 66 | 
 | 2022-11-22 | 92 | 66 | 
 | 2022-11-21 | 92 | 66 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 89 | 65 | 
 | 2022-10-27 | 89 | 65 | 
 | 2022-10-26 | 89 | 65 | 
-| 2022-10-25 | 89 | 65 | 
 

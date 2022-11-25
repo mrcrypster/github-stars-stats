@@ -1,6 +1,6 @@
 # yaoyao-liu/minimal-light - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 96
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 126 | 96 | 
 | 2022-11-23 | 126 | 96 | 
 | 2022-11-22 | 126 | 96 | 
 | 2022-11-21 | 125 | 96 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 121 | 91 | 
 | 2022-10-27 | 121 | 91 | 
 | 2022-10-26 | 121 | 90 | 
-| 2022-10-25 | 119 | 90 | 
 

@@ -1,10 +1,10 @@
 # theory/pgtap - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 84
 
-★ Stars: 768
+★ Stars: 769
 
 [Open repository](https://github.com/theory/pgtap)
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 769 | 84 | 
+| 2022-11-24 | 769 | 84 | 
 | 2022-11-23 | 768 | 84 | 
 | 2022-11-22 | 768 | 84 | 
 | 2022-11-21 | 768 | 84 | 
@@ -41,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 766 | 85 | 
 | 2022-10-27 | 766 | 85 | 
 | 2022-10-26 | 766 | 85 | 
-| 2022-10-25 | 766 | 85 | 
 

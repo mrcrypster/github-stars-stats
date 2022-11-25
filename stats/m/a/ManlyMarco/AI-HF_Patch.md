@@ -1,10 +1,10 @@
 # ManlyMarco/AI-HF_Patch - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 38
 
-★ Stars: 187
+★ Stars: 188
 
 [Open repository](https://github.com/ManlyMarco/AI-HF_Patch)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 188 | 38 | 
 | 2022-11-23 | 187 | 38 | 
 | 2022-11-22 | 186 | 38 | 
 | 2022-11-21 | 186 | 38 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 184 | 37 | 
 | 2022-10-27 | 184 | 37 | 
 | 2022-10-26 | 184 | 37 | 
-| 2022-10-25 | 184 | 37 | 
 

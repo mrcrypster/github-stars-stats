@@ -1,10 +1,10 @@
 # microsoft/vscode-remote-try-go - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 173
 
-★ Stars: 233
+★ Stars: 234
 
 [Open repository](https://github.com/microsoft/vscode-remote-try-go)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 234 | 173 | 
 | 2022-11-23 | 233 | 173 | 
 | 2022-11-22 | 233 | 173 | 
 | 2022-11-21 | 233 | 173 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 228 | 170 | 
 | 2022-10-27 | 228 | 170 | 
 | 2022-10-26 | 228 | 170 | 
-| 2022-10-25 | 228 | 170 | 
 

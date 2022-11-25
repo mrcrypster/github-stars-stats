@@ -1,6 +1,6 @@
 # openhwgroup/cva6 - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 456
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 1602 | 456 | 
 | 2022-11-23 | 1602 | 456 | 
 | 2022-11-22 | 1602 | 456 | 
 | 2022-11-21 | 1603 | 456 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 1581 | 449 | 
 | 2022-10-27 | 1580 | 449 | 
 | 2022-10-26 | 1580 | 448 | 
-| 2022-10-25 | 1579 | 446 | 
 

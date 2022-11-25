@@ -1,10 +1,10 @@
 # NorfairKing/feedback - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 4
 
-★ Stars: 40
+★ Stars: 41
 
 [Open repository](https://github.com/NorfairKing/feedback)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 41 | 4 | 
 | 2022-11-23 | 40 | 4 | 
 | 2022-11-22 | 40 | 4 | 
 | 2022-11-21 | 40 | 4 | 

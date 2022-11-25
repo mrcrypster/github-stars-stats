@@ -1,6 +1,6 @@
 # plotters-rs/plotters - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 188
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 2577 | 188 | 
 | 2022-11-23 | 2577 | 188 | 
 | 2022-11-22 | 2573 | 188 | 
 | 2022-11-21 | 2573 | 188 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 2477 | 189 | 
 | 2022-10-27 | 2475 | 189 | 
 | 2022-10-26 | 2474 | 189 | 
-| 2022-10-25 | 2470 | 188 | 
 

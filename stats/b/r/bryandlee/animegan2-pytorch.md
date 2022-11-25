@@ -1,10 +1,10 @@
 # bryandlee/animegan2-pytorch - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 557
 
-★ Stars: 3899
+★ Stars: 3903
 
 [Open repository](https://github.com/bryandlee/animegan2-pytorch)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 3903 | 557 | 
 | 2022-11-24 | 3899 | 557 | 
 | 2022-11-23 | 3896 | 557 | 
 | 2022-11-22 | 3892 | 557 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-28 | 3860 | 553 | 
 | 2022-10-27 | 3856 | 552 | 
 | 2022-10-26 | 3853 | 552 | 
-| 2022-10-25 | 3849 | 552 | 
 

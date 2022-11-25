@@ -1,10 +1,10 @@
 # saurabhdaware/text-to-handwriting - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 1005
 
-★ Stars: 4169
+★ Stars: 4170
 
 [Open repository](https://github.com/saurabhdaware/text-to-handwriting)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 4170 | 1005 | 
 | 2022-11-23 | 4169 | 1005 | 
 | 2022-11-22 | 4169 | 1006 | 
 | 2022-11-21 | 4167 | 1005 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-29 | 4153 | 994 | 
 | 2022-10-28 | 4153 | 994 | 
 | 2022-10-27 | 4152 | 993 | 
-| 2022-10-26 | 4152 | 994 | 
 

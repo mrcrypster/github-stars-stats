@@ -1,6 +1,6 @@
 # karaxnim/karax - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 74
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 877 | 74 | 
 | 2022-11-23 | 877 | 74 | 
 | 2022-11-22 | 876 | 74 | 
 | 2022-11-21 | 876 | 74 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 869 | 74 | 
 | 2022-10-27 | 869 | 74 | 
 | 2022-10-26 | 868 | 74 | 
-| 2022-10-25 | 868 | 74 | 
 

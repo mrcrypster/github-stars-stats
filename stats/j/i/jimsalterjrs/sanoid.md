@@ -1,6 +1,6 @@
 # jimsalterjrs/sanoid - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 251
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 2343 | 251 | 
 | 2022-11-23 | 2343 | 251 | 
 | 2022-11-22 | 2342 | 251 | 
 | 2022-11-21 | 2342 | 251 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 2320 | 249 | 
 | 2022-10-27 | 2319 | 249 | 
 | 2022-10-26 | 2319 | 249 | 
-| 2022-10-25 | 2319 | 249 | 
 

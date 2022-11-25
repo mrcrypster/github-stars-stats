@@ -1,6 +1,6 @@
 # mikro-orm/mikro-orm - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 351
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 5309 | 351 | 
 | 2022-11-23 | 5309 | 351 | 
 | 2022-11-22 | 5306 | 351 | 
 | 2022-11-21 | 5302 | 350 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 5228 | 345 | 
 | 2022-10-27 | 5225 | 345 | 
 | 2022-10-26 | 5220 | 344 | 
-| 2022-10-25 | 5216 | 344 | 
 

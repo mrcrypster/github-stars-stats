@@ -1,10 +1,10 @@
 # apexcharts/apexcharts.js - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 1036
 
-★ Stars: 12020
+★ Stars: 12025
 
 [Open repository](https://github.com/apexcharts/apexcharts.js)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 12025 | 1036 | 
 | 2022-11-23 | 12020 | 1036 | 
 | 2022-11-22 | 12015 | 1035 | 
 | 2022-11-21 | 12012 | 1032 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 11912 | 1019 | 
 | 2022-10-27 | 11907 | 1019 | 
 | 2022-10-26 | 11901 | 1018 | 
-| 2022-10-25 | 11897 | 1015 | 
 

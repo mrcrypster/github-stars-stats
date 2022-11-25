@@ -1,10 +1,10 @@
 # microsoft/Quantum - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 893
 
-★ Stars: 3611
+★ Stars: 3612
 
 [Open repository](https://github.com/microsoft/Quantum)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 3612 | 893 | 
 | 2022-11-23 | 3611 | 893 | 
 | 2022-11-22 | 3611 | 893 | 
 | 2022-11-21 | 3611 | 893 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 3599 | 891 | 
 | 2022-10-27 | 3598 | 891 | 
 | 2022-10-26 | 3596 | 891 | 
-| 2022-10-25 | 3595 | 891 | 
 

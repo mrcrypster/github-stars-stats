@@ -1,6 +1,6 @@
 # rajkumaar23/notify-abroad - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 55 | 8 | 
 | 2022-11-23 | 55 | 8 | 
 | 2022-11-22 | 55 | 8 | 
 | 2022-11-21 | 55 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 54 | 8 | 
 | 2022-10-27 | 54 | 7 | 
 | 2022-10-26 | 52 | 7 | 
-| 2022-10-25 | 48 | 6 | 
 

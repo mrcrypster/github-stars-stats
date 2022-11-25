@@ -1,10 +1,10 @@
 # logicopslab/JenkinsAutomation - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 66
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/logicopslab/JenkinsAutomation)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 3 | 66 | 
 | 2022-11-23 | 2 | 66 | 
 | 2022-11-22 | 2 | 66 | 
 | 2022-11-21 | 2 | 65 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 2 | 57 | 
 | 2022-10-27 | 2 | 57 | 
 | 2022-10-26 | 2 | 57 | 
-| 2022-10-25 | 2 | 57 | 
 

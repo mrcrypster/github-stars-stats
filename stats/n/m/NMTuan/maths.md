@@ -1,6 +1,6 @@
 # NMTuan/maths - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 127 | 37 | 
 | 2022-11-23 | 127 | 37 | 
 | 2022-11-22 | 126 | 37 | 
 | 2022-11-21 | 126 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 122 | 36 | 
 | 2022-10-27 | 122 | 36 | 
 | 2022-10-26 | 122 | 35 | 
-| 2022-10-25 | 122 | 35 | 
 

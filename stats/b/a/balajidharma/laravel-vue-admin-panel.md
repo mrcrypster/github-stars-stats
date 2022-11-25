@@ -1,6 +1,6 @@
 # balajidharma/laravel-vue-admin-panel - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 85 | 21 | 
 | 2022-11-23 | 85 | 21 | 
 | 2022-11-22 | 85 | 21 | 
 | 2022-11-21 | 84 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 78 | 19 | 
 | 2022-10-27 | 78 | 19 | 
 | 2022-10-26 | 76 | 19 | 
-| 2022-10-25 | 75 | 19 | 
 

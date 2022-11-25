@@ -1,10 +1,10 @@
 # 0voice/audio_video_streaming - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 768
+☋ Forks: 769
 
-★ Stars: 3512
+★ Stars: 3519
 
 [Open repository](https://github.com/0voice/audio_video_streaming)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 3519 | 769 | 
 | 2022-11-23 | 3512 | 768 | 
 | 2022-11-22 | 3510 | 763 | 
 | 2022-11-21 | 3509 | 763 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 3446 | 748 | 
 | 2022-10-27 | 3446 | 747 | 
 | 2022-10-26 | 3444 | 746 | 
-| 2022-10-25 | 3439 | 746 | 
 

@@ -1,10 +1,10 @@
 # apache/hive - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 4237
 
-★ Stars: 4548
+★ Stars: 4549
 
 [Open repository](https://github.com/apache/hive)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 4549 | 4237 | 
 | 2022-11-23 | 4548 | 4237 | 
 | 2022-11-22 | 4547 | 4236 | 
 | 2022-11-21 | 4547 | 4231 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 4514 | 4209 | 
 | 2022-10-27 | 4514 | 4208 | 
 | 2022-10-26 | 4513 | 4209 | 
-| 2022-10-25 | 4511 | 4205 | 
 

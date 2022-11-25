@@ -1,6 +1,6 @@
 # Suzhou-Tongyuan/TyOOP.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 63 | 4 | 
 | 2022-11-23 | 63 | 4 | 
 | 2022-11-22 | 63 | 4 | 
 | 2022-11-21 | 63 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-29 | 57 | 4 | 
 | 2022-10-28 | 57 | 4 | 
 | 2022-10-27 | 57 | 4 | 
-| 2022-10-26 | 57 | 4 | 
 

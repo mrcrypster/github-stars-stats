@@ -1,6 +1,6 @@
 # arnabbiswas1/kaggle_pipeline_tps_aug_22 - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 192 | 23 | 
 | 2022-11-23 | 192 | 23 | 
 | 2022-11-22 | 192 | 23 | 
 | 2022-11-21 | 192 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 189 | 23 | 
 | 2022-10-27 | 189 | 23 | 
 | 2022-10-26 | 189 | 23 | 
-| 2022-10-25 | 189 | 23 | 
 

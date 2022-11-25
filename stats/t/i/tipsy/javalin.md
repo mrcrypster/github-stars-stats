@@ -1,10 +1,10 @@
 # tipsy/javalin - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 504
+☋ Forks: 503
 
-★ Stars: 6158
+★ Stars: 6159
 
 [Open repository](https://github.com/tipsy/javalin)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 6159 | 503 | 
 | 2022-11-23 | 6158 | 504 | 
 | 2022-11-22 | 6156 | 504 | 
 | 2022-11-21 | 6157 | 504 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 6101 | 505 | 
 | 2022-10-27 | 6099 | 505 | 
 | 2022-10-26 | 6094 | 505 | 
-| 2022-10-25 | 6088 | 505 | 
 

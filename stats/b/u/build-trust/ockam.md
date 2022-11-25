@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 24
 
 ☋ Forks: 276
 
-★ Stars: 2669
+★ Stars: 2672
 
 [Open repository](https://github.com/build-trust/ockam)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-24 | 2669 | 276 | 
+| 2022-11-24 | 2672 | 276 | 
 | 2022-11-23 | 2668 | 276 | 
 | 2022-11-22 | 2659 | 275 | 
 | 2022-11-21 | 2647 | 272 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-28 | 2610 | 268 | 
 | 2022-10-27 | 2609 | 269 | 
 | 2022-10-26 | 2605 | 266 | 
-| 2022-10-25 | 2599 | 265 | 
 

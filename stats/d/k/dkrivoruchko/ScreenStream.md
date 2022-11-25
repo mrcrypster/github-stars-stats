@@ -1,10 +1,10 @@
 # dkrivoruchko/ScreenStream - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 269
 
-★ Stars: 1125
+★ Stars: 1128
 
 [Open repository](https://github.com/dkrivoruchko/ScreenStream)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 1128 | 269 | 
 | 2022-11-23 | 1125 | 269 | 
 | 2022-11-22 | 1125 | 269 | 
 | 2022-11-21 | 1125 | 269 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 1078 | 267 | 
 | 2022-10-27 | 1076 | 267 | 
 | 2022-10-26 | 1075 | 267 | 
-| 2022-10-25 | 1073 | 267 | 
 

@@ -1,8 +1,8 @@
 # hashicorp/learn-private-module-root - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 542
+☋ Forks: 541
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 2 | 541 | 
 | 2022-11-23 | 2 | 542 | 
 | 2022-11-22 | 2 | 542 | 
 | 2022-11-21 | 2 | 542 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 2 | 537 | 
 | 2022-10-27 | 2 | 538 | 
 | 2022-10-26 | 2 | 538 | 
-| 2022-10-25 | 2 | 538 | 
 

@@ -1,10 +1,10 @@
 # nginxinc/docker-nginx - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 1578
+☋ Forks: 1579
 
-★ Stars: 2722
+★ Stars: 2724
 
 [Open repository](https://github.com/nginxinc/docker-nginx)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 2724 | 1579 | 
 | 2022-11-23 | 2722 | 1578 | 
 | 2022-11-22 | 2720 | 1577 | 
 | 2022-11-21 | 2720 | 1576 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-29 | 2695 | 1556 | 
 | 2022-10-28 | 2694 | 1555 | 
 | 2022-10-27 | 2691 | 1554 | 
-| 2022-10-26 | 2691 | 1553 | 
 

@@ -1,6 +1,6 @@
 # FundingCircle/jackdaw - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 79
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 339 | 79 | 
 | 2022-11-23 | 339 | 79 | 
 | 2022-11-22 | 338 | 79 | 
 | 2022-11-21 | 338 | 79 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 337 | 79 | 
 | 2022-10-27 | 337 | 79 | 
 | 2022-10-26 | 337 | 79 | 
-| 2022-10-25 | 337 | 79 | 
 

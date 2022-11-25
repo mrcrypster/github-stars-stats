@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 24
 
 ☋ Forks: 8
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/lbenz730/world_cup_2022)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-24 | 26 | 8 | 
+| 2022-11-24 | 27 | 8 | 
 | 2022-11-23 | 26 | 8 | 
 | 2022-11-22 | 25 | 7 | 
 | 2022-11-21 | 23 | 6 | 

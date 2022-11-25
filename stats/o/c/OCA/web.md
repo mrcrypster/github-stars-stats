@@ -1,8 +1,8 @@
 # OCA/web - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 1661
+☋ Forks: 1664
 
 ★ Stars: 705
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 705 | 1664 | 
 | 2022-11-23 | 705 | 1661 | 
 | 2022-11-22 | 705 | 1661 | 
 | 2022-11-21 | 705 | 1661 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 701 | 1648 | 
 | 2022-10-27 | 700 | 1647 | 
 | 2022-10-26 | 699 | 1647 | 
-| 2022-10-25 | 699 | 1647 | 
 

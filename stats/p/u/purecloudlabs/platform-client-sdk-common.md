@@ -1,6 +1,6 @@
 # purecloudlabs/platform-client-sdk-common - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 4 | 27 | 
 | 2022-11-24 | 4 | 27 | 
 | 2022-11-23 | 4 | 27 | 
 | 2022-11-22 | 4 | 27 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-28 | 4 | 27 | 
 | 2022-10-27 | 4 | 27 | 
 | 2022-10-26 | 4 | 26 | 
-| 2022-10-25 | 4 | 26 | 
 

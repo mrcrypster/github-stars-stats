@@ -1,6 +1,6 @@
 # ModByDaylight/PrivateServer - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 37 | 8 | 
 | 2022-11-23 | 37 | 8 | 
 | 2022-11-22 | 37 | 8 | 
 | 2022-11-21 | 37 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 35 | 9 | 
 | 2022-10-27 | 35 | 9 | 
 | 2022-10-26 | 35 | 9 | 
-| 2022-10-25 | 35 | 9 | 
 

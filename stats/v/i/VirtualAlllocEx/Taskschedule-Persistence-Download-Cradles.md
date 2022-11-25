@@ -1,6 +1,6 @@
 # VirtualAlllocEx/Taskschedule-Persistence-Download-Cradles - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 79 | 15 | 
 | 2022-11-23 | 79 | 15 | 
 | 2022-11-22 | 79 | 15 | 
 | 2022-11-21 | 79 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 77 | 15 | 
 | 2022-10-27 | 77 | 15 | 
 | 2022-10-26 | 76 | 15 | 
-| 2022-10-25 | 76 | 15 | 
 

@@ -1,8 +1,8 @@
 # home-assistant/frontend - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 1840
+☋ Forks: 1842
 
 ★ Stars: 2635
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 2635 | 1842 | 
 | 2022-11-23 | 2635 | 1840 | 
 | 2022-11-22 | 2634 | 1840 | 
 | 2022-11-21 | 2633 | 1840 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 2596 | 1813 | 
 | 2022-10-27 | 2593 | 1812 | 
 | 2022-10-26 | 2591 | 1808 | 
-| 2022-10-25 | 2588 | 1808 | 
 

@@ -1,10 +1,10 @@
 # megaease/easeprobe - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 125
 
-★ Stars: 1371
+★ Stars: 1374
 
 [Open repository](https://github.com/megaease/easeprobe)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 1374 | 125 | 
 | 2022-11-23 | 1371 | 125 | 
 | 2022-11-22 | 1366 | 125 | 
 | 2022-11-21 | 1351 | 125 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-29 | 1292 | 124 | 
 | 2022-10-28 | 1283 | 124 | 
 | 2022-10-27 | 1281 | 124 | 
-| 2022-10-26 | 1279 | 124 | 
 

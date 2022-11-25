@@ -1,6 +1,6 @@
 # nianticlabs/simplerecon - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 69
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 885 | 69 | 
 | 2022-11-23 | 885 | 69 | 
 | 2022-11-22 | 883 | 68 | 
 | 2022-11-21 | 879 | 68 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 822 | 58 | 
 | 2022-10-27 | 815 | 58 | 
 | 2022-10-26 | 803 | 56 | 
-| 2022-10-25 | 795 | 55 | 
 

@@ -1,8 +1,8 @@
 # emilybache/GildedRose-Refactoring-Kata - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 3791
+☋ Forks: 3794
 
 ★ Stars: 2540
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 2540 | 3794 | 
 | 2022-11-23 | 2540 | 3791 | 
 | 2022-11-22 | 2538 | 3787 | 
 | 2022-11-21 | 2536 | 3786 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 2504 | 3713 | 
 | 2022-10-27 | 2500 | 3711 | 
 | 2022-10-26 | 2498 | 3707 | 
-| 2022-10-25 | 2496 | 3702 | 
 

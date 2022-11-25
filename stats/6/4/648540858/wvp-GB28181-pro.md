@@ -1,10 +1,10 @@
 # 648540858/wvp-GB28181-pro - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 744
+☋ Forks: 745
 
-★ Stars: 2208
+★ Stars: 2211
 
 [Open repository](https://github.com/648540858/wvp-GB28181-pro)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 2211 | 745 | 
 | 2022-11-23 | 2208 | 744 | 
 | 2022-11-22 | 2207 | 744 | 
 | 2022-11-21 | 2200 | 741 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 2129 | 718 | 
 | 2022-10-27 | 2124 | 717 | 
 | 2022-10-26 | 2113 | 711 | 
-| 2022-10-25 | 2108 | 711 | 
 

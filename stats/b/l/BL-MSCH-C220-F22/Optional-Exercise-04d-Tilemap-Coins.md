@@ -1,6 +1,6 @@
 # BL-MSCH-C220-F22/Optional-Exercise-04d-Tilemap-Coins - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | - | 11 | 
 | 2022-11-23 | - | 11 | 
 | 2022-11-22 | - | 11 | 
 | 2022-11-21 | - | 11 | 

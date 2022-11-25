@@ -1,10 +1,10 @@
 # AlperenAkkuncu/PlainDAQ - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 6
 
-★ Stars: 159
+★ Stars: 160
 
 [Open repository](https://github.com/AlperenAkkuncu/PlainDAQ)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 160 | 6 | 
 | 2022-11-23 | 159 | 6 | 
 | 2022-11-22 | 159 | 6 | 
 | 2022-11-21 | 158 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 157 | 6 | 
 | 2022-10-27 | 157 | 6 | 
 | 2022-10-26 | 157 | 6 | 
-| 2022-10-25 | 157 | 6 | 
 

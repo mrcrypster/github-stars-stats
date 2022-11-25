@@ -1,8 +1,8 @@
 # DjangoGirls/tutorial - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 1798
+☋ Forks: 1797
 
 ★ Stars: 1418
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 1418 | 1797 | 
 | 2022-11-23 | 1418 | 1798 | 
 | 2022-11-22 | 1418 | 1798 | 
 | 2022-11-21 | 1418 | 1799 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 1412 | 1796 | 
 | 2022-10-27 | 1411 | 1796 | 
 | 2022-10-26 | 1411 | 1796 | 
-| 2022-10-25 | 1411 | 1795 | 
 

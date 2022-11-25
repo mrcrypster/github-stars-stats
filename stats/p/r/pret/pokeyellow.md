@@ -1,10 +1,10 @@
 # pret/pokeyellow - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 176
 
-★ Stars: 530
+★ Stars: 531
 
 [Open repository](https://github.com/pret/pokeyellow)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 531 | 176 | 
 | 2022-11-23 | 530 | 176 | 
 | 2022-11-22 | 529 | 176 | 
 | 2022-11-21 | 528 | 176 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-29 | 526 | 173 | 
 | 2022-10-28 | 526 | 174 | 
 | 2022-10-27 | 526 | 174 | 
-| 2022-10-26 | 526 | 174 | 
 

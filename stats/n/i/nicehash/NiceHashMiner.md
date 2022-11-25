@@ -1,8 +1,8 @@
 # nicehash/NiceHashMiner - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 203
+☋ Forks: 202
 
 ★ Stars: 386
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 386 | 202 | 
 | 2022-11-23 | 386 | 203 | 
 | 2022-11-22 | 386 | 203 | 
 | 2022-11-21 | 386 | 202 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 381 | 202 | 
 | 2022-10-27 | 381 | 202 | 
 | 2022-10-26 | 381 | 202 | 
-| 2022-10-25 | 381 | 202 | 
 

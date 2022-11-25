@@ -1,6 +1,6 @@
 # sayajin-labs/kakarot - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 193 | 32 | 
 | 2022-11-23 | 193 | 32 | 
 | 2022-11-22 | 190 | 32 | 
 | 2022-11-21 | 187 | 31 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 87 | 17 | 
 | 2022-10-27 | 78 | 13 | 
 | 2022-10-26 | 54 | 10 | 
-| 2022-10-25 | 53 | 10 | 
 

@@ -1,10 +1,10 @@
 # Anof-cyber/APTRS - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 29
+☋ Forks: 30
 
-★ Stars: 470
+★ Stars: 472
 
 [Open repository](https://github.com/Anof-cyber/APTRS)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 472 | 30 | 
 | 2022-11-24 | 470 | 29 | 
 | 2022-11-23 | 468 | 29 | 
 | 2022-11-21 | 468 | 29 | 

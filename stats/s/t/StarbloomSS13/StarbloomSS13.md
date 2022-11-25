@@ -1,6 +1,6 @@
 # StarbloomSS13/StarbloomSS13 - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 7 | 28 | 
 | 2022-11-23 | 7 | 28 | 
 | 2022-11-22 | 7 | 28 | 
 | 2022-11-21 | 7 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 5 | 28 | 
 | 2022-10-27 | 5 | 28 | 
 | 2022-10-26 | 5 | 28 | 
-| 2022-10-25 | 5 | 28 | 
 

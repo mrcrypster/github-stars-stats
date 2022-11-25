@@ -1,6 +1,6 @@
 # alastairtree/LazyCache - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 140
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 1456 | 140 | 
 | 2022-11-23 | 1456 | 140 | 
 | 2022-11-22 | 1455 | 140 | 
 | 2022-11-21 | 1454 | 140 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 1429 | 141 | 
 | 2022-10-27 | 1429 | 141 | 
 | 2022-10-26 | 1429 | 141 | 
-| 2022-10-25 | 1428 | 141 | 
 

@@ -1,8 +1,8 @@
 # HoussemDellai/azure-bicep-course - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 41
+☋ Forks: 42
 
 ★ Stars: 18
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 18 | 42 | 
 | 2022-11-24 | 18 | 41 | 
 | 2022-11-22 | 18 | 41 | 
 | 2022-11-21 | 18 | 41 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-28 | 17 | 36 | 
 | 2022-10-27 | 17 | 36 | 
 | 2022-10-26 | 17 | 36 | 
-| 2022-10-25 | 17 | 36 | 
 

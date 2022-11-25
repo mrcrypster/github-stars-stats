@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 24
 
 ☋ Forks: 4
 
-★ Stars: 291
+★ Stars: 294
 
 [Open repository](https://github.com/NEST-Protocol/NEST-Oracle-V4.0)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-24 | 291 | 4 | 
+| 2022-11-24 | 294 | 4 | 
 | 2022-11-23 | 290 | 4 | 
 | 2022-11-22 | 261 | 3 | 
 | 2022-11-21 | 246 | 3 | 

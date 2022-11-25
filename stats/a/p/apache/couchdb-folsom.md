@@ -1,6 +1,6 @@
 # apache/couchdb-folsom - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 3 | 11 | 
 | 2022-11-23 | 3 | 11 | 
 | 2022-11-22 | 3 | 11 | 
 | 2022-11-21 | 3 | 11 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 4 | 10 | 
 | 2022-10-27 | 4 | 10 | 
 | 2022-10-26 | 4 | 10 | 
-| 2022-10-25 | 4 | 10 | 
 

@@ -1,10 +1,10 @@
 # proofrock/pupcloud - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 3
 
-★ Stars: 117
+★ Stars: 118
 
 [Open repository](https://github.com/proofrock/pupcloud)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 118 | 3 | 
 | 2022-11-23 | 117 | 3 | 
 | 2022-11-22 | 117 | 3 | 
 | 2022-11-21 | 117 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 116 | 3 | 
 | 2022-10-27 | 116 | 3 | 
 | 2022-10-26 | 116 | 3 | 
-| 2022-10-25 | 116 | 3 | 
 

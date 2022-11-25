@@ -1,10 +1,10 @@
 # PurpleI2P/i2pdbrowser - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 43
+☋ Forks: 44
 
-★ Stars: 315
+★ Stars: 321
 
 [Open repository](https://github.com/PurpleI2P/i2pdbrowser)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 321 | 44 | 
 | 2022-11-23 | 315 | 43 | 
 | 2022-11-22 | 291 | 42 | 
 | 2022-11-21 | 283 | 41 | 

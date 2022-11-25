@@ -1,10 +1,10 @@
 # ruanqizhen/labview_book - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 89
+☋ Forks: 90
 
-★ Stars: 120
+★ Stars: 121
 
 [Open repository](https://github.com/ruanqizhen/labview_book)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 121 | 90 | 
 | 2022-11-23 | 120 | 89 | 
 | 2022-11-22 | 120 | 89 | 
 | 2022-11-21 | 118 | 89 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 113 | 88 | 
 | 2022-10-27 | 112 | 87 | 
 | 2022-10-26 | 112 | 87 | 
-| 2022-10-25 | 112 | 87 | 
 

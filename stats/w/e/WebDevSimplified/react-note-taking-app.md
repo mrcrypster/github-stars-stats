@@ -1,10 +1,10 @@
 # WebDevSimplified/react-note-taking-app - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 13
+☋ Forks: 15
 
-★ Stars: 50
+★ Stars: 52
 
 [Open repository](https://github.com/WebDevSimplified/react-note-taking-app)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 52 | 15 | 
 | 2022-11-23 | 50 | 13 | 
 | 2022-11-22 | 49 | 13 | 
 | 2022-11-21 | 46 | 12 | 

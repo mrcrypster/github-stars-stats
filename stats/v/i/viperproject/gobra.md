@@ -1,6 +1,6 @@
 # viperproject/gobra - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 67 | 19 | 
 | 2022-11-23 | 67 | 19 | 
 | 2022-11-22 | 67 | 19 | 
 | 2022-11-21 | 67 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 63 | 19 | 
 | 2022-10-27 | 63 | 19 | 
 | 2022-10-26 | 63 | 19 | 
-| 2022-10-25 | 63 | 19 | 
 

@@ -1,6 +1,6 @@
 # SchedMD/slurm - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 522
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 1630 | 522 | 
 | 2022-11-23 | 1630 | 522 | 
 | 2022-11-22 | 1630 | 522 | 
 | 2022-11-21 | 1630 | 521 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 1601 | 519 | 
 | 2022-10-27 | 1600 | 519 | 
 | 2022-10-26 | 1599 | 518 | 
-| 2022-10-25 | 1597 | 518 | 
 

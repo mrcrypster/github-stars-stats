@@ -1,10 +1,10 @@
 # drewlearns/OS_100days - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 12
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/drewlearns/OS_100days)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 19 | 12 | 
 | 2022-11-24 | 18 | 12 | 
 | 2022-11-23 | 18 | 12 | 
 | 2022-11-22 | 18 | 12 | 

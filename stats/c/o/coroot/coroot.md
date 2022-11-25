@@ -1,6 +1,6 @@
 # coroot/coroot - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 1647 | 42 | 
 | 2022-11-23 | 1647 | 42 | 
 | 2022-11-22 | 1645 | 42 | 
 | 2022-11-21 | 1643 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 1565 | 40 | 
 | 2022-10-27 | 1552 | 39 | 
 | 2022-10-26 | 1543 | 39 | 
-| 2022-10-25 | 1538 | 38 | 
 

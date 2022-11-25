@@ -1,6 +1,6 @@
 # EvgeniyMukhamedjanov/liquid-ajax-cart - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 102 | 11 | 
 | 2022-11-23 | 102 | 11 | 
 | 2022-11-22 | 100 | 11 | 
 | 2022-11-21 | 100 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 92 | 11 | 
 | 2022-10-27 | 91 | 10 | 
 | 2022-10-26 | 90 | 10 | 
-| 2022-10-25 | 90 | 10 | 
 

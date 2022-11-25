@@ -1,10 +1,10 @@
 # facebookresearch/multiface - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 34
 
-★ Stars: 503
+★ Stars: 504
 
 [Open repository](https://github.com/facebookresearch/multiface)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 504 | 34 | 
 | 2022-11-23 | 503 | 34 | 
 | 2022-11-22 | 501 | 34 | 
 | 2022-11-21 | 500 | 34 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 480 | 33 | 
 | 2022-10-27 | 480 | 33 | 
 | 2022-10-26 | 480 | 33 | 
-| 2022-10-25 | 479 | 33 | 
 

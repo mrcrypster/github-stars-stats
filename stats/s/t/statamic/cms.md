@@ -1,10 +1,10 @@
 # statamic/cms - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 338
 
-★ Stars: 2281
+★ Stars: 2283
 
 [Open repository](https://github.com/statamic/cms)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 2283 | 338 | 
 | 2022-11-23 | 2281 | 338 | 
 | 2022-11-22 | 2276 | 338 | 
 | 2022-11-21 | 2273 | 338 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 2208 | 331 | 
 | 2022-10-27 | 2207 | 331 | 
 | 2022-10-26 | 2201 | 329 | 
-| 2022-10-25 | 2199 | 329 | 
 

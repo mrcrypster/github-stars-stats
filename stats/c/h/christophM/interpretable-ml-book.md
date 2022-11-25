@@ -1,8 +1,8 @@
 # christophM/interpretable-ml-book - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 932
+☋ Forks: 931
 
 ★ Stars: 4306
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 4306 | 931 | 
 | 2022-11-23 | 4306 | 932 | 
 | 2022-11-22 | 4305 | 932 | 
 | 2022-11-21 | 4303 | 932 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 4275 | 922 | 
 | 2022-10-27 | 4275 | 922 | 
 | 2022-10-26 | 4273 | 921 | 
-| 2022-10-25 | 4273 | 921 | 
 

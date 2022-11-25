@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 24
 
-☋ Forks: 77
+☋ Forks: 95
 
-★ Stars: 1280
+★ Stars: 1704
 
 [Open repository](https://github.com/filipedeschamps/tabnews.com.br)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-24 | 1280 | 77 | 
+| 2022-11-24 | 1704 | 95 | 
 | 2022-11-23 | 1134 | 70 | 
 

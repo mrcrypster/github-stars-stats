@@ -1,10 +1,10 @@
 # pyenv/pyenv-installer - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 367
 
-★ Stars: 3469
+★ Stars: 3474
 
 [Open repository](https://github.com/pyenv/pyenv-installer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 3474 | 367 | 
 | 2022-11-24 | 3469 | 367 | 
 | 2022-11-23 | 3469 | 367 | 
 | 2022-11-22 | 3469 | 367 | 

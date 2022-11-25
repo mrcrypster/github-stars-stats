@@ -1,6 +1,6 @@
 # Mee12345/GWater-V3 - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 39 | 23 | 
 | 2022-11-23 | 39 | 23 | 
 | 2022-11-22 | 39 | 23 | 
 | 2022-11-21 | 39 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 39 | 23 | 
 | 2022-10-27 | 39 | 23 | 
 | 2022-10-26 | 38 | 23 | 
-| 2022-10-25 | 38 | 23 | 
 

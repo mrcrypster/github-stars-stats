@@ -1,10 +1,10 @@
 # r-lib/prettycode - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 7
 
-★ Stars: 95
+★ Stars: 96
 
 [Open repository](https://github.com/r-lib/prettycode)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 96 | 7 | 
 | 2022-11-23 | 95 | 7 | 
 | 2022-11-22 | 95 | 7 | 
 | 2022-11-21 | 95 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 94 | 6 | 
 | 2022-10-27 | 94 | 6 | 
 | 2022-10-26 | 94 | 6 | 
-| 2022-10-25 | 94 | 6 | 
 

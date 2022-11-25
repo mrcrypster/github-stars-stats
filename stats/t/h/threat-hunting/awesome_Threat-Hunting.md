@@ -1,10 +1,10 @@
 # threat-hunting/awesome_Threat-Hunting - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 99
 
-★ Stars: 447
+★ Stars: 448
 
 [Open repository](https://github.com/threat-hunting/awesome_Threat-Hunting)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 448 | 99 | 
 | 2022-11-23 | 447 | 99 | 
 | 2022-11-22 | 447 | 99 | 
 | 2022-11-21 | 447 | 99 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 445 | 99 | 
 | 2022-10-27 | 445 | 99 | 
 | 2022-10-26 | 444 | 99 | 
-| 2022-10-25 | 444 | 98 | 
 

@@ -1,6 +1,6 @@
 # Mofiqul/dracula.nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 310 | 49 | 
 | 2022-11-23 | 310 | 49 | 
 | 2022-11-22 | 309 | 49 | 
 | 2022-11-21 | 308 | 49 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 290 | 44 | 
 | 2022-10-27 | 289 | 44 | 
 | 2022-10-26 | 289 | 44 | 
-| 2022-10-25 | 287 | 43 | 
 

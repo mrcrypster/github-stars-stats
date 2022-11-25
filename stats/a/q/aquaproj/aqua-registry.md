@@ -1,6 +1,6 @@
 # aquaproj/aqua-registry - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 44 | 34 | 
 | 2022-11-24 | 44 | 34 | 
 | 2022-11-23 | 44 | 33 | 
 | 2022-11-22 | 44 | 33 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-28 | 40 | 33 | 
 | 2022-10-27 | 40 | 33 | 
 | 2022-10-26 | 40 | 33 | 
-| 2022-10-25 | 40 | 33 | 
 

@@ -1,6 +1,6 @@
 # tinyBigGAMES/SDL - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 11 | 4 | 
 | 2022-11-23 | 11 | 4 | 
 | 2022-11-22 | 11 | 4 | 
 | 2022-11-21 | 11 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 11 | 3 | 
 | 2022-10-27 | 11 | 3 | 
 | 2022-10-26 | 11 | 3 | 
-| 2022-10-25 | 11 | 3 | 
 

@@ -1,6 +1,6 @@
 # instructure/canvas-lms - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 2053
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 4619 | 2053 | 
 | 2022-11-23 | 4619 | 2053 | 
 | 2022-11-22 | 4618 | 2052 | 
 | 2022-11-21 | 4617 | 2051 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 4575 | 2037 | 
 | 2022-10-27 | 4575 | 2037 | 
 | 2022-10-26 | 4570 | 2033 | 
-| 2022-10-25 | 4568 | 2032 | 
 

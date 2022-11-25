@@ -1,6 +1,6 @@
 # PrismLauncher/prismlauncher.github.io - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 35 | 55 | 
 | 2022-11-23 | 35 | 55 | 
 | 2022-11-22 | 35 | 54 | 
 | 2022-11-21 | 35 | 56 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 33 | 52 | 
 | 2022-10-27 | 32 | 50 | 
 | 2022-10-26 | 29 | 50 | 
-| 2022-10-25 | 28 | 49 | 
 

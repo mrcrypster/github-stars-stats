@@ -1,10 +1,10 @@
 # auroral-ui/hexo-theme-aurora - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 120
+☋ Forks: 121
 
-★ Stars: 694
+★ Stars: 697
 
 [Open repository](https://github.com/auroral-ui/hexo-theme-aurora)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 697 | 121 | 
 | 2022-11-23 | 694 | 120 | 
 | 2022-11-22 | 694 | 120 | 
 | 2022-11-21 | 692 | 119 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 624 | 110 | 
 | 2022-10-27 | 622 | 108 | 
 | 2022-10-26 | 622 | 108 | 
-| 2022-10-25 | 622 | 108 | 
 

@@ -1,6 +1,6 @@
 # drand/tlock - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 350 | 13 | 
 | 2022-11-23 | 350 | 13 | 
 | 2022-11-22 | 351 | 13 | 
 | 2022-11-21 | 351 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 346 | 11 | 
 | 2022-10-27 | 346 | 11 | 
 | 2022-10-26 | 346 | 11 | 
-| 2022-10-25 | 346 | 11 | 
 

@@ -1,6 +1,6 @@
 # vulxdev/Vulx - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 37 | 13 | 
 | 2022-11-23 | 37 | 13 | 
 | 2022-11-22 | 36 | 13 | 
 | 2022-11-21 | 36 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 31 | 10 | 
 | 2022-10-27 | 28 | 9 | 
 | 2022-10-26 | 28 | 9 | 
-| 2022-10-25 | 28 | 9 | 
 

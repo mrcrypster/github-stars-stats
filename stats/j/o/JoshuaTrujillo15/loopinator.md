@@ -1,10 +1,10 @@
 # JoshuaTrujillo15/loopinator - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 5
 
-★ Stars: 105
+★ Stars: 104
 
 [Open repository](https://github.com/JoshuaTrujillo15/loopinator)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 104 | 5 | 
 | 2022-11-23 | 105 | 5 | 
 | 2022-11-22 | 104 | 5 | 
 | 2022-11-21 | 104 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 104 | 5 | 
 | 2022-10-27 | 104 | 5 | 
 | 2022-10-26 | 104 | 5 | 
-| 2022-10-25 | 104 | 5 | 
 

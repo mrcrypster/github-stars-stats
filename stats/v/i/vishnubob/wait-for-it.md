@@ -1,10 +1,10 @@
 # vishnubob/wait-for-it - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 2218
+☋ Forks: 2220
 
-★ Stars: 8203
+★ Stars: 8206
 
 [Open repository](https://github.com/vishnubob/wait-for-it)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 8206 | 2220 | 
 | 2022-11-23 | 8203 | 2218 | 
 | 2022-11-22 | 8200 | 2219 | 
 | 2022-11-21 | 8196 | 2216 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 8127 | 2201 | 
 | 2022-10-27 | 8126 | 2201 | 
 | 2022-10-26 | 8123 | 2200 | 
-| 2022-10-25 | 8121 | 2200 | 
 

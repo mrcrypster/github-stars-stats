@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 24
 
 ☋ Forks: 16
 
-★ Stars: 58
+★ Stars: 59
 
 [Open repository](https://github.com/espressif/idf-installer)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-24 | 58 | 16 | 
+| 2022-11-24 | 59 | 16 | 
 | 2022-11-23 | 58 | 16 | 
 | 2022-11-22 | 58 | 16 | 
 | 2022-11-21 | 58 | 16 | 

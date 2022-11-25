@@ -1,6 +1,6 @@
 # submariner-io/submariner-charts - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 14 | 25 | 
 | 2022-11-24 | 14 | 25 | 
 | 2022-11-22 | 14 | 25 | 
 | 2022-11-21 | 14 | 25 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-28 | 14 | 26 | 
 | 2022-10-27 | 14 | 26 | 
 | 2022-10-26 | 14 | 26 | 
-| 2022-10-25 | 14 | 26 | 
 

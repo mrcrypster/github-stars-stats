@@ -1,10 +1,10 @@
 # microsoftgraph/msgraph-typescript-typings - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 32
 
-★ Stars: 90
+★ Stars: 91
 
 [Open repository](https://github.com/microsoftgraph/msgraph-typescript-typings)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 91 | 32 | 
 | 2022-11-23 | 90 | 32 | 
 | 2022-11-22 | 90 | 32 | 
 | 2022-11-21 | 90 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 90 | 31 | 
 | 2022-10-27 | 90 | 31 | 
 | 2022-10-26 | 90 | 31 | 
-| 2022-10-25 | 90 | 31 | 
 

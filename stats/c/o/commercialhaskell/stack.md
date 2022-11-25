@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 24
 
 ☋ Forks: 849
 
-★ Stars: 3799
+★ Stars: 3800
 
 [Open repository](https://github.com/commercialhaskell/stack)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-24 | 3799 | 849 | 
+| 2022-11-24 | 3800 | 849 | 
 | 2022-11-23 | 3799 | 849 | 
 | 2022-11-22 | 3798 | 850 | 
 | 2022-11-21 | 3798 | 850 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-28 | 3791 | 847 | 
 | 2022-10-27 | 3791 | 847 | 
 | 2022-10-26 | 3791 | 846 | 
-| 2022-10-25 | 3790 | 846 | 
 

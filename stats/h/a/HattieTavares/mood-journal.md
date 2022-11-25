@@ -1,6 +1,6 @@
 # HattieTavares/mood-journal - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 5 | 9 | 
 | 2022-11-23 | 5 | 9 | 
 | 2022-11-22 | 5 | 9 | 
 

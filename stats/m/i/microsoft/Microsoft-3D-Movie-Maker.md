@@ -1,6 +1,6 @@
 # microsoft/Microsoft-3D-Movie-Maker - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 251
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 3577 | 251 | 
 | 2022-11-23 | 3577 | 251 | 
 | 2022-11-22 | 3576 | 251 | 
 | 2022-11-21 | 3576 | 251 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 3533 | 249 | 
 | 2022-10-27 | 3531 | 249 | 
 | 2022-10-26 | 3531 | 249 | 
-| 2022-10-25 | 3527 | 250 | 
 

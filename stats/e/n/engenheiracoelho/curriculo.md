@@ -1,6 +1,6 @@
 # engenheiracoelho/curriculo - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 862 | 32 | 
 | 2022-11-23 | 862 | 32 | 
 | 2022-11-22 | 861 | 32 | 
 | 2022-11-21 | 860 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-29 | 833 | 29 | 
 | 2022-10-28 | 831 | 29 | 
 | 2022-10-27 | 828 | 29 | 
-| 2022-10-25 | 825 | 29 | 
 

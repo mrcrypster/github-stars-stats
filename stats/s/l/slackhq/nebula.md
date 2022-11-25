@@ -1,8 +1,8 @@
 # slackhq/nebula - stars & forks statistics
 
-Stats updated on Nov 2022, 23
+Stats updated on Nov 2022, 24
 
-☋ Forks: 752
+☋ Forks: 753
 
 ★ Stars: 10836
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-24 | 10836 | 753 | 
 | 2022-11-23 | 10836 | 752 | 
 | 2022-11-22 | 10829 | 751 | 
 | 2022-11-21 | 10827 | 750 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 23
 | 2022-10-28 | 10706 | 742 | 
 | 2022-10-27 | 10702 | 742 | 
 | 2022-10-26 | 10699 | 742 | 
-| 2022-10-25 | 10692 | 740 | 
 
