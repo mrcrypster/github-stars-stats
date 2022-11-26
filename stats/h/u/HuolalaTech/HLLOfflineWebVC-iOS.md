@@ -1,10 +1,10 @@
 # HuolalaTech/HLLOfflineWebVC-iOS - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 15
 
-★ Stars: 193
+★ Stars: 195
 
 [Open repository](https://github.com/HuolalaTech/HLLOfflineWebVC-iOS)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 195 | 15 | 
 | 2022-11-24 | 193 | 15 | 
 | 2022-11-23 | 193 | 15 | 
 | 2022-11-22 | 193 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 184 | 14 | 
 | 2022-10-28 | 183 | 14 | 
 | 2022-10-27 | 183 | 14 | 
-| 2022-10-26 | 182 | 14 | 
 

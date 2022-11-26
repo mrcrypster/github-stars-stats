@@ -1,10 +1,10 @@
 # simonw/action-transcription - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 18
 
-★ Stars: 123
+★ Stars: 124
 
 [Open repository](https://github.com/simonw/action-transcription)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 124 | 18 | 
 | 2022-11-24 | 123 | 18 | 
 | 2022-11-23 | 123 | 18 | 
 | 2022-11-22 | 123 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 114 | 17 | 
 | 2022-10-28 | 114 | 16 | 
 | 2022-10-27 | 114 | 15 | 
-| 2022-10-26 | 113 | 15 | 
 

@@ -1,6 +1,6 @@
 # purcell/mmm-mode - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 308 | 29 | 
 | 2022-11-24 | 308 | 29 | 
 | 2022-11-23 | 308 | 29 | 
 | 2022-11-22 | 308 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 305 | 29 | 
 | 2022-10-28 | 304 | 29 | 
 | 2022-10-27 | 304 | 29 | 
-| 2022-10-26 | 304 | 29 | 
 

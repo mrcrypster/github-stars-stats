@@ -1,6 +1,6 @@
 # cch123/golang-notes - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 621
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 3580 | 621 | 
 | 2022-11-24 | 3580 | 621 | 
 | 2022-11-23 | 3580 | 621 | 
 | 2022-11-22 | 3580 | 621 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-30 | 3560 | 617 | 
 | 2022-10-29 | 3560 | 616 | 
 | 2022-10-28 | 3559 | 616 | 
-| 2022-10-27 | 3558 | 616 | 
 

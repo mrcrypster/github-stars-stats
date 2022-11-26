@@ -1,6 +1,6 @@
 # maple-labs/erc20 - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 57 | 8 | 
 | 2022-11-24 | 57 | 8 | 
 | 2022-11-23 | 57 | 8 | 
 | 2022-11-22 | 57 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 57 | 8 | 
 | 2022-10-28 | 57 | 8 | 
 | 2022-10-27 | 57 | 8 | 
-| 2022-10-26 | 57 | 8 | 
 

@@ -1,8 +1,8 @@
 # ashutoshaks/COA-Laboratory-CS39001 - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 5
+☋ Forks: 4
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | - | 4 | 
 | 2022-11-24 | - | 5 | 
 | 2022-11-23 | - | 5 | 
 | 2022-11-22 | - | 5 | 

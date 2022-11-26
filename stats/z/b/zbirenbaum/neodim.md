@@ -1,10 +1,10 @@
 # zbirenbaum/neodim - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 5
 
-★ Stars: 105
+★ Stars: 106
 
 [Open repository](https://github.com/zbirenbaum/neodim)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 106 | 5 | 
 | 2022-11-25 | 105 | 5 | 
 | 2022-11-24 | 105 | 5 | 
 | 2022-11-23 | 105 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-29 | 90 | 5 | 
 | 2022-10-28 | 89 | 5 | 
 | 2022-10-27 | 88 | 5 | 
-| 2022-10-26 | 88 | 5 | 
 

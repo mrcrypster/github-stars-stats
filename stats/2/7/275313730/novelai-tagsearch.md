@@ -1,6 +1,6 @@
 # 275313730/novelai-tagsearch - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 59 | 7 | 
 | 2022-11-24 | 59 | 7 | 
 | 2022-11-23 | 59 | 7 | 
 | 2022-11-22 | 60 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 53 | 6 | 
 | 2022-10-28 | 51 | 6 | 
 | 2022-10-27 | 50 | 6 | 
-| 2022-10-26 | 49 | 6 | 
 

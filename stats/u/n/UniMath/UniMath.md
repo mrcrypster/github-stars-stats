@@ -1,10 +1,10 @@
 # UniMath/UniMath - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 145
 
-★ Stars: 784
+★ Stars: 785
 
 [Open repository](https://github.com/UniMath/UniMath)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 785 | 145 | 
 | 2022-11-24 | 784 | 145 | 
 | 2022-11-23 | 784 | 145 | 
 | 2022-11-22 | 784 | 145 | 

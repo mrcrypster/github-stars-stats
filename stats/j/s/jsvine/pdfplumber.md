@@ -1,10 +1,10 @@
 # jsvine/pdfplumber - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 452
 
-★ Stars: 3229
+★ Stars: 3230
 
 [Open repository](https://github.com/jsvine/pdfplumber)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 3230 | 452 | 
 | 2022-11-24 | 3229 | 452 | 
 | 2022-11-23 | 3227 | 451 | 
 | 2022-11-22 | 3224 | 450 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 3156 | 443 | 
 | 2022-10-28 | 3152 | 443 | 
 | 2022-10-27 | 3150 | 443 | 
-| 2022-10-26 | 3149 | 443 | 
 

@@ -1,8 +1,8 @@
 # ybayle/awesome-deep-learning-music - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 330
+☋ Forks: 329
 
 ★ Stars: 2432
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 2432 | 329 | 
 | 2022-11-24 | 2432 | 330 | 
 | 2022-11-23 | 2430 | 330 | 
 | 2022-11-22 | 2429 | 330 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 2411 | 329 | 
 | 2022-10-28 | 2410 | 329 | 
 | 2022-10-27 | 2409 | 329 | 
-| 2022-10-26 | 2409 | 329 | 
 

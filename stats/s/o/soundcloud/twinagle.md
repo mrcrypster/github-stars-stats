@@ -1,10 +1,10 @@
 # soundcloud/twinagle - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 9
 
-★ Stars: 42
+★ Stars: 43
 
 [Open repository](https://github.com/soundcloud/twinagle)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 43 | 9 | 
 | 2022-11-24 | 42 | 9 | 
 | 2022-11-23 | 42 | 9 | 
 | 2022-11-22 | 42 | 9 | 

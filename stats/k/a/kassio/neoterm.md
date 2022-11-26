@@ -1,6 +1,6 @@
 # kassio/neoterm - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 118
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 1239 | 118 | 
 | 2022-11-24 | 1239 | 118 | 
 | 2022-11-23 | 1239 | 118 | 
 | 2022-11-22 | 1238 | 118 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 1225 | 119 | 
 | 2022-10-28 | 1225 | 119 | 
 | 2022-10-27 | 1225 | 119 | 
-| 2022-10-26 | 1225 | 119 | 
 

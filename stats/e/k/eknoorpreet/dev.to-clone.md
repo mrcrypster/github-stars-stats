@@ -1,10 +1,10 @@
 # eknoorpreet/dev.to-clone - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 81
 
-★ Stars: 322
+★ Stars: 323
 
 [Open repository](https://github.com/eknoorpreet/dev.to-clone)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 323 | 81 | 
 | 2022-11-24 | 322 | 81 | 
 | 2022-11-23 | 322 | 81 | 
 | 2022-11-22 | 322 | 81 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 318 | 79 | 
 | 2022-10-28 | 318 | 79 | 
 | 2022-10-27 | 318 | 79 | 
-| 2022-10-26 | 318 | 79 | 
 

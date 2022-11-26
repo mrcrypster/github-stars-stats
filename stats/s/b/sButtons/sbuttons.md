@@ -1,6 +1,6 @@
 # sButtons/sbuttons - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 576
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 413 | 576 | 
 | 2022-11-24 | 413 | 576 | 
 | 2022-11-23 | 413 | 576 | 
 | 2022-11-22 | 413 | 576 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 413 | 576 | 
 | 2022-10-28 | 413 | 576 | 
 | 2022-10-27 | 413 | 576 | 
-| 2022-10-26 | 413 | 576 | 
 

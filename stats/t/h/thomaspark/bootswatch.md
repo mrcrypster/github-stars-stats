@@ -1,6 +1,6 @@
 # thomaspark/bootswatch - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 3661
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 13897 | 3661 | 
 | 2022-11-24 | 13897 | 3661 | 
 | 2022-11-23 | 13893 | 3660 | 
 | 2022-11-22 | 13890 | 3660 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-30 | 13848 | 3666 | 
 | 2022-10-29 | 13846 | 3668 | 
 | 2022-10-28 | 13845 | 3666 | 
-| 2022-10-27 | 13843 | 3666 | 
 

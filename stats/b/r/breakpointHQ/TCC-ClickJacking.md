@@ -1,10 +1,10 @@
 # breakpointHQ/TCC-ClickJacking - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 15
 
-★ Stars: 63
+★ Stars: 64
 
 [Open repository](https://github.com/breakpointHQ/TCC-ClickJacking)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 64 | 15 | 
 | 2022-11-25 | 63 | 15 | 
 | 2022-11-24 | 63 | 15 | 
 | 2022-11-23 | 63 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-29 | 62 | 14 | 
 | 2022-10-28 | 62 | 14 | 
 | 2022-10-27 | 62 | 14 | 
-| 2022-10-26 | 62 | 14 | 
 

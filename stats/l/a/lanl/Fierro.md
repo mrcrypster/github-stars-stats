@@ -1,6 +1,6 @@
 # lanl/Fierro - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 11 | 6 | 
 | 2022-11-24 | 11 | 6 | 
 | 2022-11-23 | 11 | 6 | 
 | 2022-11-22 | 11 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 9 | 6 | 
 | 2022-10-28 | 9 | 6 | 
 | 2022-10-27 | 9 | 6 | 
-| 2022-10-26 | 9 | 6 | 
 

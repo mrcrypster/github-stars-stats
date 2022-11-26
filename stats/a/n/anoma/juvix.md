@@ -1,10 +1,10 @@
 # anoma/juvix - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 30
 
-★ Stars: 346
+★ Stars: 345
 
 [Open repository](https://github.com/anoma/juvix)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 345 | 30 | 
 | 2022-11-24 | 346 | 30 | 
 | 2022-11-23 | 345 | 30 | 
 | 2022-11-22 | 345 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 330 | 26 | 
 | 2022-10-28 | 330 | 26 | 
 | 2022-10-27 | 328 | 23 | 
-| 2022-10-26 | 328 | 23 | 
 

@@ -1,8 +1,8 @@
 # ForstaGlobal/frontend-candidate-challenge - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 11
+☋ Forks: 12
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | - | 12 | 
 | 2022-11-24 | - | 11 | 
 | 2022-11-23 | - | 12 | 
 | 2022-11-22 | - | 12 | 

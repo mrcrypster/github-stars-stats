@@ -1,6 +1,6 @@
 # kristoff-it/allyourcodebase.com - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 20 | 12 | 
 | 2022-11-24 | 20 | 12 | 
 | 2022-11-23 | 20 | 12 | 
 | 2022-11-22 | 20 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 19 | 12 | 
 | 2022-10-28 | 19 | 12 | 
 | 2022-10-27 | 19 | 12 | 
-| 2022-10-26 | 19 | 12 | 
 

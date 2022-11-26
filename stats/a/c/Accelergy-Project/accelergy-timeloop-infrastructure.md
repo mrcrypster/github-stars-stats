@@ -1,10 +1,10 @@
 # Accelergy-Project/accelergy-timeloop-infrastructure - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 18
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/Accelergy-Project/accelergy-timeloop-infrastructure)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 18 | 18 | 
 | 2022-11-24 | 17 | 18 | 
 | 2022-11-23 | 17 | 18 | 
 | 2022-11-22 | 17 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 17 | 18 | 
 | 2022-10-28 | 17 | 18 | 
 | 2022-10-27 | 16 | 18 | 
-| 2022-10-26 | 16 | 18 | 
 

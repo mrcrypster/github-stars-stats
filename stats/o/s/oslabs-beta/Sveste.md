@@ -1,6 +1,6 @@
 # oslabs-beta/Sveste - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 31 | - | 
 | 2022-11-24 | 31 | - | 
 | 2022-11-23 | 31 | - | 
 | 2022-11-22 | 31 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 30 | - | 
 | 2022-10-28 | 30 | - | 
 | 2022-10-27 | 29 | - | 
-| 2022-10-26 | 29 | - | 
 

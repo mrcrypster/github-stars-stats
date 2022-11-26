@@ -1,10 +1,10 @@
 # SmartToolFactory/Compose-Image - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 9
 
-★ Stars: 200
+★ Stars: 201
 
 [Open repository](https://github.com/SmartToolFactory/Compose-Image)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 201 | 9 | 
 | 2022-11-24 | 200 | 9 | 
 | 2022-11-23 | 199 | 9 | 
 | 2022-11-22 | 199 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 198 | 9 | 
 | 2022-10-28 | 198 | 9 | 
 | 2022-10-27 | 198 | 9 | 
-| 2022-10-26 | 198 | 9 | 
 

@@ -1,6 +1,6 @@
 # ZiuChen/ClipboardManager - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 96 | 21 | 
 | 2022-11-24 | 96 | 21 | 
 | 2022-11-23 | 95 | 21 | 
 | 2022-11-22 | 95 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 72 | 18 | 
 | 2022-10-28 | 72 | 18 | 
 | 2022-10-27 | 72 | 18 | 
-| 2022-10-26 | 72 | 18 | 
 

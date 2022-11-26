@@ -1,10 +1,10 @@
 # Rongjiehuang/FastDiff - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 44
 
-★ Stars: 288
+★ Stars: 290
 
 [Open repository](https://github.com/Rongjiehuang/FastDiff)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 290 | 44 | 
 | 2022-11-24 | 288 | 44 | 
 | 2022-11-23 | 288 | 44 | 
 | 2022-11-22 | 288 | 44 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 268 | 42 | 
 | 2022-10-28 | 268 | 42 | 
 | 2022-10-27 | 268 | 41 | 
-| 2022-10-26 | 268 | 41 | 
 

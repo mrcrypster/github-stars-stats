@@ -1,6 +1,6 @@
 # chr4/nginx.vim - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 425 | 40 | 
 | 2022-11-24 | 425 | 40 | 
 | 2022-11-23 | 425 | 40 | 
 | 2022-11-22 | 425 | 40 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 423 | 39 | 
 | 2022-10-28 | 423 | 40 | 
 | 2022-10-27 | 423 | 40 | 
-| 2022-10-26 | 423 | 40 | 
 

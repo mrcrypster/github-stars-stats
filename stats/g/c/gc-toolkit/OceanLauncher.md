@@ -1,6 +1,6 @@
 # gc-toolkit/OceanLauncher - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 96 | 13 | 
 | 2022-11-24 | 96 | 13 | 
 | 2022-11-23 | 95 | 14 | 
 | 2022-11-22 | 95 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-30 | 96 | 15 | 
 | 2022-10-29 | 96 | 15 | 
 | 2022-10-28 | 96 | 15 | 
-| 2022-10-27 | 96 | 15 | 
 

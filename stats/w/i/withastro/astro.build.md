@@ -1,6 +1,6 @@
 # withastro/astro.build - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 125 | 57 | 
 | 2022-11-24 | 125 | 57 | 
 | 2022-11-23 | 124 | 57 | 
 | 2022-11-22 | 123 | 55 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 108 | 52 | 
 | 2022-10-28 | 108 | 52 | 
 | 2022-10-27 | 107 | 52 | 
-| 2022-10-26 | 107 | 52 | 
 

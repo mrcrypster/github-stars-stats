@@ -1,10 +1,10 @@
 # jp-gouin/helm-openldap - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 69
 
-★ Stars: 103
+★ Stars: 104
 
 [Open repository](https://github.com/jp-gouin/helm-openldap)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 104 | 69 | 
 | 2022-11-24 | 103 | 69 | 
 | 2022-11-23 | 103 | 69 | 
 | 2022-11-22 | 102 | 69 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 100 | 69 | 
 | 2022-10-28 | 98 | 69 | 
 | 2022-10-27 | 98 | 69 | 
-| 2022-10-26 | 98 | 68 | 
 

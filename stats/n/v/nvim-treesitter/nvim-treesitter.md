@@ -1,10 +1,10 @@
 # nvim-treesitter/nvim-treesitter - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 517
+☋ Forks: 518
 
-★ Stars: 5313
+★ Stars: 5321
 
 [Open repository](https://github.com/nvim-treesitter/nvim-treesitter)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 5321 | 518 | 
 | 2022-11-24 | 5313 | 517 | 
 | 2022-11-23 | 5306 | 520 | 
 | 2022-11-22 | 5297 | 519 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 5138 | 506 | 
 | 2022-10-28 | 5133 | 505 | 
 | 2022-10-27 | 5126 | 502 | 
-| 2022-10-26 | 5108 | 500 | 
 

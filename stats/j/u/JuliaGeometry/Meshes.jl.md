@@ -1,6 +1,6 @@
 # JuliaGeometry/Meshes.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 234 | 52 | 
 | 2022-11-24 | 234 | 52 | 
 | 2022-11-23 | 234 | 52 | 
 | 2022-11-22 | 233 | 53 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 224 | 51 | 
 | 2022-10-28 | 224 | 51 | 
 | 2022-10-27 | 223 | 51 | 
-| 2022-10-26 | 223 | 51 | 
 

@@ -1,10 +1,10 @@
 # VirtualHotBar/HotPEToolBox - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 10
 
-★ Stars: 96
+★ Stars: 95
 
 [Open repository](https://github.com/VirtualHotBar/HotPEToolBox)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 95 | 10 | 
 | 2022-11-24 | 96 | 10 | 
 | 2022-11-23 | 96 | 10 | 
 | 2022-11-22 | 95 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 75 | 9 | 
 | 2022-10-28 | 73 | 9 | 
 | 2022-10-27 | 72 | 9 | 
-| 2022-10-26 | 71 | 9 | 
 

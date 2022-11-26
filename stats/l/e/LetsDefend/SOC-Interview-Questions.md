@@ -1,10 +1,10 @@
 # LetsDefend/SOC-Interview-Questions - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 60
 
-★ Stars: 424
+★ Stars: 425
 
 [Open repository](https://github.com/LetsDefend/SOC-Interview-Questions)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 425 | 60 | 
 | 2022-11-24 | 424 | 60 | 
 | 2022-11-23 | 424 | 60 | 
 | 2022-11-22 | 424 | 60 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 366 | 49 | 
 | 2022-10-28 | 359 | 46 | 
 | 2022-10-27 | 353 | 45 | 
-| 2022-10-26 | 335 | 43 | 
 

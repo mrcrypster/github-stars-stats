@@ -1,10 +1,10 @@
 # RealityNet/Android-Forensics-References - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 10
 
-★ Stars: 91
+★ Stars: 92
 
 [Open repository](https://github.com/RealityNet/Android-Forensics-References)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 92 | 10 | 
 | 2022-11-24 | 91 | 10 | 
 | 2022-11-23 | 90 | 10 | 
 | 2022-11-22 | 90 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 81 | 7 | 
 | 2022-10-28 | 81 | 7 | 
 | 2022-10-27 | 81 | 7 | 
-| 2022-10-26 | 80 | 7 | 
 

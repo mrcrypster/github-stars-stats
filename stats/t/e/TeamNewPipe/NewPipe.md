@@ -1,10 +1,10 @@
 # TeamNewPipe/NewPipe - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 2529
+☋ Forks: 2530
 
-★ Stars: 22050
+★ Stars: 22055
 
 [Open repository](https://github.com/TeamNewPipe/NewPipe)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 22055 | 2530 | 
 | 2022-11-24 | 22050 | 2529 | 
 | 2022-11-23 | 22044 | 2528 | 
 | 2022-11-22 | 22035 | 2528 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 21524 | 2497 | 
 | 2022-10-28 | 21508 | 2498 | 
 | 2022-10-27 | 21502 | 2497 | 
-| 2022-10-26 | 21488 | 2496 | 
 

@@ -1,10 +1,10 @@
 # laminas/laminas-diactoros - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 47
 
-★ Stars: 337
+★ Stars: 338
 
 [Open repository](https://github.com/laminas/laminas-diactoros)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 338 | 47 | 
 | 2022-11-24 | 337 | 47 | 
 | 2022-11-23 | 337 | 47 | 
 | 2022-11-22 | 337 | 47 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-30 | 334 | 45 | 
 | 2022-10-29 | 334 | 45 | 
 | 2022-10-28 | 335 | 45 | 
-| 2022-10-27 | 335 | 45 | 
 

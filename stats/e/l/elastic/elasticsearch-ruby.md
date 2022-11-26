@@ -1,6 +1,6 @@
 # elastic/elasticsearch-ruby - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 592
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 1904 | 592 | 
 | 2022-11-24 | 1904 | 592 | 
 | 2022-11-23 | 1903 | 592 | 
 | 2022-11-22 | 1903 | 592 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 1903 | 591 | 
 | 2022-10-28 | 1903 | 591 | 
 | 2022-10-27 | 1903 | 591 | 
-| 2022-10-26 | 1903 | 591 | 
 

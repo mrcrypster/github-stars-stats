@@ -1,6 +1,6 @@
 # creativetimofficial/paper-kit-react - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 107
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 123 | 107 | 
 | 2022-11-24 | 123 | 107 | 
 | 2022-11-23 | 123 | 106 | 
 | 2022-11-22 | 123 | 105 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-30 | 123 | 96 | 
 | 2022-10-29 | 123 | 96 | 
 | 2022-10-28 | 123 | 96 | 
-| 2022-10-27 | 123 | 93 | 
 

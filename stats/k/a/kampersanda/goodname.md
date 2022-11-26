@@ -1,10 +1,10 @@
 # kampersanda/goodname - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 2
 
-★ Stars: 118
+★ Stars: 117
 
 [Open repository](https://github.com/kampersanda/goodname)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 117 | 2 | 
 | 2022-11-24 | 118 | 2 | 
 | 2022-11-23 | 118 | 2 | 
 | 2022-11-22 | 117 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 115 | 2 | 
 | 2022-10-28 | 115 | 2 | 
 | 2022-10-27 | 115 | 2 | 
-| 2022-10-26 | 115 | 2 | 
 

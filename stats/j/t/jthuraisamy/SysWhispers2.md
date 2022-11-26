@@ -1,6 +1,6 @@
 # jthuraisamy/SysWhispers2 - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 191
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 1150 | 191 | 
 | 2022-11-24 | 1150 | 191 | 
 | 2022-11-23 | 1149 | 191 | 
 | 2022-11-22 | 1147 | 191 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 1124 | 189 | 
 | 2022-10-28 | 1123 | 188 | 
 | 2022-10-27 | 1123 | 188 | 
-| 2022-10-26 | 1120 | 188 | 
 

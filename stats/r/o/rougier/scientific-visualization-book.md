@@ -1,6 +1,6 @@
 # rougier/scientific-visualization-book - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 824
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 8526 | 824 | 
 | 2022-11-24 | 8526 | 824 | 
 | 2022-11-23 | 8523 | 824 | 
 | 2022-11-22 | 8522 | 823 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 8458 | 814 | 
 | 2022-10-28 | 8456 | 812 | 
 | 2022-10-27 | 8454 | 812 | 
-| 2022-10-26 | 8454 | 813 | 
 

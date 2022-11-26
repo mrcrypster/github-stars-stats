@@ -1,6 +1,6 @@
 # tlaplus/tlaplus - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 162
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 1916 | 162 | 
 | 2022-11-24 | 1916 | 162 | 
 | 2022-11-23 | 1915 | 162 | 
 | 2022-11-22 | 1913 | 162 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 1898 | 162 | 
 | 2022-10-28 | 1898 | 162 | 
 | 2022-10-27 | 1897 | 162 | 
-| 2022-10-26 | 1896 | 162 | 
 

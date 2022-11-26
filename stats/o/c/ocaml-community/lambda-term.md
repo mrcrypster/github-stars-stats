@@ -1,10 +1,10 @@
 # ocaml-community/lambda-term - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 39
 
-★ Stars: 191
+★ Stars: 192
 
 [Open repository](https://github.com/ocaml-community/lambda-term)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 192 | 39 | 
 | 2022-11-24 | 191 | 39 | 
 | 2022-11-23 | 191 | 39 | 
 | 2022-11-22 | 191 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 191 | 39 | 
 | 2022-10-28 | 191 | 39 | 
 | 2022-10-27 | 191 | 39 | 
-| 2022-10-26 | 191 | 39 | 
 

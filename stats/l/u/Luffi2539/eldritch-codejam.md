@@ -1,8 +1,8 @@
 # Luffi2539/eldritch-codejam - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 505
+☋ Forks: 504
 
 ★ Stars: 9
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 9 | 504 | 
 | 2022-11-24 | 9 | 505 | 
 | 2022-11-23 | 9 | 505 | 
 | 2022-11-22 | 9 | 505 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 9 | 513 | 
 | 2022-10-28 | 9 | 513 | 
 | 2022-10-27 | 9 | 513 | 
-| 2022-10-26 | 9 | 515 | 
 

@@ -1,6 +1,6 @@
 # minad/tempel - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 243 | 15 | 
 | 2022-11-24 | 243 | 15 | 
 | 2022-11-23 | 242 | 15 | 
 | 2022-11-22 | 241 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 221 | 12 | 
 | 2022-10-28 | 219 | 12 | 
 | 2022-10-27 | 219 | 12 | 
-| 2022-10-26 | 219 | 12 | 
 

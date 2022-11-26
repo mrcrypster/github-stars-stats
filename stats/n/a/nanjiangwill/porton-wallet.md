@@ -1,8 +1,8 @@
 # nanjiangwill/porton-wallet - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 26
 
-☋ Forks: 4
+☋ Forks: 5
 
 ★ Stars: 21
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 21 | 5 | 
 | 2022-11-24 | 21 | 4 | 
 | 2022-11-23 | 21 | 4 | 
 | 2022-11-22 | 21 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 15 | 2 | 
 | 2022-10-28 | 15 | 2 | 
 | 2022-10-27 | 13 | - | 
-| 2022-10-26 | 12 | - | 
 

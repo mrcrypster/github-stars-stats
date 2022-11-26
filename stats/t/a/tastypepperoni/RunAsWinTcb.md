@@ -1,6 +1,6 @@
 # tastypepperoni/RunAsWinTcb - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 103 | 13 | 
 | 2022-11-24 | 103 | 13 | 
 | 2022-11-23 | 103 | 13 | 
 | 2022-11-22 | 103 | 13 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 103 | 13 | 
 | 2022-10-28 | 103 | 13 | 
 | 2022-10-27 | 103 | 13 | 
-| 2022-10-26 | 103 | 13 | 
 

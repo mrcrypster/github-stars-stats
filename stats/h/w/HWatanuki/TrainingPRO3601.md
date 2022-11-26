@@ -1,6 +1,6 @@
 # HWatanuki/TrainingPRO3601 - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 1 | 36 | 
 | 2022-11-24 | 1 | 36 | 
 | 2022-11-23 | 1 | 36 | 
 | 2022-11-22 | 1 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-30 | 1 | 36 | 
 | 2022-10-29 | 1 | 36 | 
 | 2022-10-28 | 1 | 36 | 
-| 2022-10-27 | 1 | 36 | 
 

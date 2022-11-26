@@ -1,6 +1,6 @@
 # naksyn/Pyramid - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 231 | 21 | 
 | 2022-11-24 | 231 | 21 | 
 | 2022-11-23 | 230 | 21 | 
 | 2022-11-22 | 229 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 222 | 22 | 
 | 2022-10-28 | 222 | 22 | 
 | 2022-10-27 | 222 | 22 | 
-| 2022-10-26 | 222 | 22 | 
 

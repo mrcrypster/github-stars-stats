@@ -1,10 +1,10 @@
 # hashicorp/terraform-aws-consul - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 466
 
-★ Stars: 404
+★ Stars: 403
 
 [Open repository](https://github.com/hashicorp/terraform-aws-consul)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 403 | 466 | 
 | 2022-11-24 | 404 | 466 | 
 | 2022-11-23 | 404 | 466 | 
 | 2022-11-22 | 404 | 466 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 403 | 465 | 
 | 2022-10-28 | 403 | 465 | 
 | 2022-10-27 | 403 | 465 | 
-| 2022-10-26 | 403 | 466 | 
 

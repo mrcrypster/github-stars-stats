@@ -1,8 +1,8 @@
 # EFPrefix/EFQRCode - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 461
+☋ Forks: 462
 
 ★ Stars: 4316
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 4316 | 462 | 
 | 2022-11-24 | 4316 | 461 | 
 | 2022-11-23 | 4315 | 461 | 
 | 2022-11-22 | 4315 | 461 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 4298 | 459 | 
 | 2022-10-28 | 4297 | 459 | 
 | 2022-10-27 | 4297 | 459 | 
-| 2022-10-26 | 4297 | 459 | 
 

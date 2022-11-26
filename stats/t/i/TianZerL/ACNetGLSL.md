@@ -1,6 +1,6 @@
 # TianZerL/ACNetGLSL - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 90 | 4 | 
 | 2022-11-24 | 90 | 4 | 
 | 2022-11-23 | 89 | 4 | 
 | 2022-11-22 | 89 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 89 | 4 | 
 | 2022-10-28 | 90 | 4 | 
 | 2022-10-27 | 90 | 4 | 
-| 2022-10-26 | 90 | 4 | 
 

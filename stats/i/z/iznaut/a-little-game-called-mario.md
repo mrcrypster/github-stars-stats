@@ -1,6 +1,6 @@
 # iznaut/a-little-game-called-mario - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 183
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 1204 | 183 | 
 | 2022-11-24 | 1204 | 183 | 
 | 2022-11-23 | 1204 | 183 | 
 | 2022-11-22 | 1204 | 183 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-30 | 1202 | 183 | 
 | 2022-10-29 | 1202 | 183 | 
 | 2022-10-28 | 1202 | 184 | 
-| 2022-10-26 | 1202 | 184 | 
 

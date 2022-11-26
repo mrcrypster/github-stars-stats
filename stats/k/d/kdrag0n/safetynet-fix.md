@@ -1,10 +1,10 @@
 # kdrag0n/safetynet-fix - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 201
 
-★ Stars: 4088
+★ Stars: 4092
 
 [Open repository](https://github.com/kdrag0n/safetynet-fix)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 4092 | 201 | 
 | 2022-11-24 | 4088 | 201 | 
 | 2022-11-23 | 4084 | 201 | 
 | 2022-11-22 | 4081 | 200 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 3968 | 195 | 
 | 2022-10-28 | 3963 | 195 | 
 | 2022-10-27 | 3956 | 195 | 
-| 2022-10-26 | 3954 | 195 | 
 

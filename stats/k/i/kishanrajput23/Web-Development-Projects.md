@@ -1,10 +1,10 @@
 # kishanrajput23/Web-Development-Projects - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 93
 
-★ Stars: 45
+★ Stars: 44
 
 [Open repository](https://github.com/kishanrajput23/Web-Development-Projects)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 44 | 93 | 
 | 2022-11-24 | 45 | 93 | 
 | 2022-11-23 | 45 | 93 | 
 | 2022-11-22 | 45 | 93 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 43 | 93 | 
 | 2022-10-28 | 43 | 94 | 
 | 2022-10-27 | 43 | 94 | 
-| 2022-10-26 | 43 | 94 | 
 

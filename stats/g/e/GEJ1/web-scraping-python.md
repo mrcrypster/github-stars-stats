@@ -1,6 +1,6 @@
 # GEJ1/web-scraping-python - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 50 | 13 | 
 | 2022-11-24 | 50 | 13 | 
 | 2022-11-23 | 50 | 13 | 
 | 2022-11-22 | 50 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 48 | 13 | 
 | 2022-10-28 | 48 | 13 | 
 | 2022-10-27 | 48 | 13 | 
-| 2022-10-26 | 48 | 13 | 
 

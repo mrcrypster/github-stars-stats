@@ -1,10 +1,10 @@
 # primefaces/sakai-ng - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 149
 
-★ Stars: 172
+★ Stars: 171
 
 [Open repository](https://github.com/primefaces/sakai-ng)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 171 | 149 | 
 | 2022-11-24 | 172 | 149 | 
 | 2022-11-23 | 172 | 148 | 
 | 2022-11-22 | 172 | 147 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 163 | 138 | 
 | 2022-10-28 | 163 | 138 | 
 | 2022-10-27 | 160 | 136 | 
-| 2022-10-26 | 160 | 137 | 
 

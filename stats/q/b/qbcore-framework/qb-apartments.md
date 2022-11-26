@@ -1,6 +1,6 @@
 # qbcore-framework/qb-apartments - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 188
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 17 | 188 | 
 | 2022-11-24 | 17 | 188 | 
 | 2022-11-23 | 17 | 188 | 
 | 2022-11-22 | 17 | 189 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 16 | 185 | 
 | 2022-10-28 | 16 | 185 | 
 | 2022-10-27 | 16 | 184 | 
-| 2022-10-26 | 16 | 183 | 
 

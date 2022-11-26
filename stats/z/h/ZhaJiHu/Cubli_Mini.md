@@ -1,6 +1,6 @@
 # ZhaJiHu/Cubli_Mini - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 107
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 523 | 107 | 
 | 2022-11-24 | 523 | 107 | 
 | 2022-11-23 | 523 | 107 | 
 | 2022-11-22 | 522 | 107 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 515 | 106 | 
 | 2022-10-28 | 515 | 106 | 
 | 2022-10-27 | 515 | 105 | 
-| 2022-10-26 | 515 | 105 | 
 

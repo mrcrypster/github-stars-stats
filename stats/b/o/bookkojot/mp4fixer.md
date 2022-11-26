@@ -1,6 +1,6 @@
 # bookkojot/mp4fixer - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 274 | 60 | 
 | 2022-11-24 | 274 | 60 | 
 | 2022-11-23 | 274 | 60 | 
 | 2022-11-22 | 274 | 60 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-30 | 272 | 60 | 
 | 2022-10-29 | 272 | 60 | 
 | 2022-10-28 | 272 | 60 | 
-| 2022-10-27 | 272 | 60 | 
 

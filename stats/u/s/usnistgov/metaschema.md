@@ -1,6 +1,6 @@
 # usnistgov/metaschema - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 17 | 9 | 
 | 2022-11-24 | 17 | 9 | 
 | 2022-11-23 | 17 | 9 | 
 | 2022-11-22 | 17 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-30 | 11 | 9 | 
 | 2022-10-29 | 11 | 9 | 
 | 2022-10-28 | 11 | 9 | 
-| 2022-10-27 | 11 | 9 | 
 

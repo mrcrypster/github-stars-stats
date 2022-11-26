@@ -1,6 +1,6 @@
 # MinesIT-Club/MinesITClub - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 2 | 18 | 
 | 2022-11-25 | 2 | 18 | 
 | 2022-11-24 | 2 | 18 | 
 | 2022-11-22 | 2 | 18 | 

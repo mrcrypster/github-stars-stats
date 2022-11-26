@@ -1,10 +1,10 @@
 # iamlooper/MemeUI-Enhancer - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 1
 
-★ Stars: 67
+★ Stars: 66
 
 [Open repository](https://github.com/iamlooper/MemeUI-Enhancer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 66 | 1 | 
 | 2022-11-24 | 67 | 1 | 
 | 2022-11-23 | 67 | 1 | 
 | 2022-11-22 | 67 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 65 | 1 | 
 | 2022-10-28 | 64 | 1 | 
 | 2022-10-27 | 62 | 1 | 
-| 2022-10-26 | 62 | 1 | 
 

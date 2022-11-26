@@ -1,8 +1,8 @@
 # Supernova-Studio/exporter-documentation - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 28
+☋ Forks: 29
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 3 | 29 | 
 | 2022-11-24 | 3 | 28 | 
 | 2022-11-23 | 3 | 28 | 
 | 2022-11-22 | 3 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-30 | 1 | 27 | 
 | 2022-10-29 | 1 | 27 | 
 | 2022-10-27 | 1 | 27 | 
-| 2022-10-26 | 1 | 27 | 
 

@@ -1,10 +1,10 @@
 # persistence-info/persistence-info.github.io - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 36
+☋ Forks: 37
 
-★ Stars: 338
+★ Stars: 340
 
 [Open repository](https://github.com/persistence-info/persistence-info.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 340 | 37 | 
 | 2022-11-24 | 338 | 36 | 
 | 2022-11-23 | 336 | 35 | 
 | 2022-11-22 | 336 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 329 | 31 | 
 | 2022-10-28 | 328 | 31 | 
 | 2022-10-27 | 328 | 31 | 
-| 2022-10-26 | 328 | 31 | 
 

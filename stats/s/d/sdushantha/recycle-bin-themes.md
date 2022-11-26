@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 25
 
-☋ Forks: 31
+☋ Forks: 32
 
-★ Stars: 305
+★ Stars: 307
 
 [Open repository](https://github.com/sdushantha/recycle-bin-themes)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-25 | 305 | 31 | 
+| 2022-11-25 | 307 | 32 | 
 | 2022-11-24 | 305 | 31 | 
 | 2022-11-23 | 300 | 30 | 
 | 2022-11-21 | 287 | 25 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-29 | 276 | 25 | 
 | 2022-10-28 | 276 | 25 | 
 | 2022-10-27 | 276 | 25 | 
-| 2022-10-26 | 276 | 25 | 
 

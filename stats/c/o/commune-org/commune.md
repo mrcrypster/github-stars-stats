@@ -1,6 +1,6 @@
 # commune-org/commune - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 157 | 3 | 
 | 2022-11-24 | 157 | 3 | 
 | 2022-11-23 | 157 | 3 | 
 | 2022-11-22 | 157 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 154 | 2 | 
 | 2022-10-28 | 154 | 2 | 
 | 2022-10-27 | 154 | 2 | 
-| 2022-10-26 | 154 | 2 | 
 

@@ -1,10 +1,10 @@
 # antfu/icones - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 133
 
-★ Stars: 2717
+★ Stars: 2721
 
 [Open repository](https://github.com/antfu/icones)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 2721 | 133 | 
 | 2022-11-24 | 2717 | 133 | 
 | 2022-11-23 | 2715 | 133 | 
 | 2022-11-22 | 2714 | 133 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 2644 | 131 | 
 | 2022-10-28 | 2641 | 132 | 
 | 2022-10-27 | 2641 | 132 | 
-| 2022-10-26 | 2637 | 131 | 
 

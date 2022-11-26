@@ -1,6 +1,6 @@
 # microsoft/appcenter-sdk-apple - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 224
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 482 | 224 | 
 | 2022-11-24 | 482 | 224 | 
 | 2022-11-23 | 481 | 223 | 
 | 2022-11-22 | 481 | 223 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 477 | 221 | 
 | 2022-10-28 | 477 | 221 | 
 | 2022-10-27 | 477 | 221 | 
-| 2022-10-26 | 477 | 221 | 
 

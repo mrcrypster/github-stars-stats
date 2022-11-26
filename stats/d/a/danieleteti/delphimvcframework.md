@@ -1,6 +1,6 @@
 # danieleteti/delphimvcframework - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 302
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 998 | 302 | 
 | 2022-11-24 | 998 | 302 | 
 | 2022-11-23 | 997 | 302 | 
 | 2022-11-22 | 996 | 301 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 985 | 300 | 
 | 2022-10-28 | 985 | 300 | 
 | 2022-10-27 | 985 | 300 | 
-| 2022-10-26 | 984 | 300 | 
 

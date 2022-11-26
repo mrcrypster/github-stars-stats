@@ -1,10 +1,10 @@
 # tylertreat/comcast - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 381
 
-★ Stars: 9775
+★ Stars: 9776
 
 [Open repository](https://github.com/tylertreat/comcast)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 9776 | 381 | 
 | 2022-11-24 | 9775 | 381 | 
 | 2022-11-23 | 9774 | 381 | 
 | 2022-11-22 | 9772 | 381 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-30 | 9757 | 381 | 
 | 2022-10-29 | 9758 | 381 | 
 | 2022-10-27 | 9753 | 381 | 
-| 2022-10-26 | 9751 | 381 | 
 

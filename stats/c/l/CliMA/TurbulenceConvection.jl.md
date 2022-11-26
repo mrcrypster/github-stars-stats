@@ -1,10 +1,10 @@
 # CliMA/TurbulenceConvection.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 3
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/CliMA/TurbulenceConvection.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 22 | 3 | 
 | 2022-11-24 | 21 | 3 | 
 | 2022-11-23 | 21 | 3 | 
 | 2022-11-22 | 21 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 21 | 3 | 
 | 2022-10-28 | 21 | 3 | 
 | 2022-10-27 | 21 | 3 | 
-| 2022-10-26 | 21 | 3 | 
 

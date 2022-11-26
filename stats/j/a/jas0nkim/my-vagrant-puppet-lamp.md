@@ -1,6 +1,6 @@
 # jas0nkim/my-vagrant-puppet-lamp - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 103
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 26 | 103 | 
 | 2022-11-24 | 26 | 103 | 
 | 2022-11-23 | 26 | 103 | 
 | 2022-11-22 | 26 | 103 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-30 | 26 | 103 | 
 | 2022-10-29 | 26 | 103 | 
 | 2022-10-28 | 26 | 103 | 
-| 2022-10-27 | 26 | 103 | 
 

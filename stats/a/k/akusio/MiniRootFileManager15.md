@@ -1,6 +1,6 @@
 # akusio/MiniRootFileManager15 - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 49 | 10 | 
 | 2022-11-24 | 49 | 10 | 
 | 2022-11-23 | 49 | 10 | 
 | 2022-11-22 | 49 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 48 | 10 | 
 | 2022-10-28 | 48 | 10 | 
 | 2022-10-27 | 48 | 10 | 
-| 2022-10-26 | 48 | 10 | 
 

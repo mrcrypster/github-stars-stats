@@ -1,6 +1,6 @@
 # benedekrozemberczki/tigerlily - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 90 | 9 | 
 | 2022-11-25 | 90 | 9 | 
 | 2022-11-24 | 90 | 9 | 
 | 2022-11-23 | 90 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-29 | 90 | 9 | 
 | 2022-10-28 | 90 | 9 | 
 | 2022-10-27 | 90 | 9 | 
-| 2022-10-26 | 90 | 9 | 
 

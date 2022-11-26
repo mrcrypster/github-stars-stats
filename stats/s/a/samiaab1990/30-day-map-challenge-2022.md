@@ -1,6 +1,6 @@
 # samiaab1990/30-day-map-challenge-2022 - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 15 | 1 | 
 | 2022-11-24 | 15 | 1 | 
 | 2022-11-23 | 15 | 1 | 
 | 2022-11-22 | 15 | 1 | 

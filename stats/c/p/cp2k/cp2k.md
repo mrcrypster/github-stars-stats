@@ -1,10 +1,10 @@
 # cp2k/cp2k - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 293
+☋ Forks: 294
 
-★ Stars: 529
+★ Stars: 532
 
 [Open repository](https://github.com/cp2k/cp2k)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 532 | 294 | 
 | 2022-11-24 | 529 | 293 | 
 | 2022-11-23 | 527 | 293 | 
 | 2022-11-22 | 528 | 294 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 517 | 288 | 
 | 2022-10-28 | 517 | 288 | 
 | 2022-10-27 | 517 | 287 | 
-| 2022-10-26 | 517 | 287 | 
 

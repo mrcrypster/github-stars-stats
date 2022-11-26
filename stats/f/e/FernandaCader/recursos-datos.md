@@ -1,8 +1,8 @@
 # FernandaCader/recursos-datos - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 14
+☋ Forks: 15
 
 ★ Stars: 134
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 134 | 15 | 
 | 2022-11-24 | 134 | 14 | 
 | 2022-11-23 | 134 | 14 | 
 | 2022-11-22 | 134 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 131 | 15 | 
 | 2022-10-28 | 131 | 15 | 
 | 2022-10-27 | 131 | 14 | 
-| 2022-10-26 | 131 | 14 | 
 

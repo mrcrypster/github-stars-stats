@@ -1,6 +1,6 @@
 # insightsengineering/teal - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 35 | 5 | 
 | 2022-11-24 | 35 | 5 | 
 | 2022-11-23 | 35 | 5 | 
 | 2022-11-22 | 35 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 29 | 5 | 
 | 2022-10-28 | 29 | 5 | 
 | 2022-10-27 | 29 | 5 | 
-| 2022-10-26 | 29 | 5 | 
 

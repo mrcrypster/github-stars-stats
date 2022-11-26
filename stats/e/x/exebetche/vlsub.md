@@ -1,10 +1,10 @@
 # exebetche/vlsub - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 351
 
-★ Stars: 1264
+★ Stars: 1265
 
 [Open repository](https://github.com/exebetche/vlsub)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 1265 | 351 | 
 | 2022-11-24 | 1264 | 351 | 
 | 2022-11-23 | 1264 | 352 | 
 | 2022-11-22 | 1264 | 352 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 1260 | 352 | 
 | 2022-10-28 | 1260 | 352 | 
 | 2022-10-27 | 1259 | 352 | 
-| 2022-10-26 | 1259 | 352 | 
 

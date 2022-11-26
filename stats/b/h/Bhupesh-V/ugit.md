@@ -1,10 +1,10 @@
 # Bhupesh-V/ugit - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 39
 
-★ Stars: 1019
+★ Stars: 1021
 
 [Open repository](https://github.com/Bhupesh-V/ugit)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 1021 | 39 | 
 | 2022-11-24 | 1019 | 39 | 
 | 2022-11-23 | 1019 | 39 | 
 | 2022-11-22 | 1019 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-30 | 1004 | 37 | 
 | 2022-10-29 | 1001 | 37 | 
 | 2022-10-28 | 999 | 37 | 
-| 2022-10-27 | 998 | 37 | 
 

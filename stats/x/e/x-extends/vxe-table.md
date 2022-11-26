@@ -1,6 +1,6 @@
 # x-extends/vxe-table - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 828
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 5502 | 828 | 
 | 2022-11-24 | 5502 | 828 | 
 | 2022-11-23 | 5500 | 828 | 
 | 2022-11-22 | 5497 | 828 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 5401 | 810 | 
 | 2022-10-28 | 5396 | 810 | 
 | 2022-10-27 | 5392 | 810 | 
-| 2022-10-26 | 5389 | 808 | 
 

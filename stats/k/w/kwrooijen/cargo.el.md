@@ -1,10 +1,10 @@
 # kwrooijen/cargo.el - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 63
 
-★ Stars: 161
+★ Stars: 162
 
 [Open repository](https://github.com/kwrooijen/cargo.el)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 162 | 63 | 
 | 2022-11-24 | 161 | 63 | 
 | 2022-11-23 | 161 | 63 | 
 | 2022-11-22 | 161 | 63 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 160 | 63 | 
 | 2022-10-28 | 160 | 63 | 
 | 2022-10-27 | 160 | 63 | 
-| 2022-10-26 | 160 | 63 | 
 

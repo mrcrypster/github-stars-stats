@@ -1,10 +1,10 @@
 # overextended/ox_target - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 32
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/overextended/ox_target)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 31 | 32 | 
 | 2022-11-24 | 30 | 32 | 
 | 2022-11-23 | 30 | 32 | 
 | 2022-11-22 | 30 | 32 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 24 | 15 | 
 | 2022-10-28 | 24 | 15 | 
 | 2022-10-27 | 23 | 15 | 
-| 2022-10-26 | 23 | 15 | 
 

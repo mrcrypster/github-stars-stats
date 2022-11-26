@@ -1,10 +1,10 @@
 # wimpysworld/deb-get - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 94
 
-★ Stars: 823
+★ Stars: 824
 
 [Open repository](https://github.com/wimpysworld/deb-get)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 824 | 94 | 
 | 2022-11-24 | 823 | 94 | 
 | 2022-11-23 | 821 | 94 | 
 | 2022-11-22 | 821 | 94 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-30 | 798 | 95 | 
 | 2022-10-29 | 796 | 95 | 
 | 2022-10-28 | 795 | 95 | 
-| 2022-10-27 | 792 | 95 | 
 

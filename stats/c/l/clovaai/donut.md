@@ -1,10 +1,10 @@
 # clovaai/donut - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 87
+☋ Forks: 89
 
-★ Stars: 882
+★ Stars: 883
 
 [Open repository](https://github.com/clovaai/donut)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 883 | 89 | 
 | 2022-11-24 | 882 | 87 | 
 | 2022-11-23 | 878 | 87 | 
 | 2022-11-22 | 876 | 87 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 797 | 73 | 
 | 2022-10-28 | 797 | 73 | 
 | 2022-10-27 | 796 | 73 | 
-| 2022-10-26 | 794 | 72 | 
 

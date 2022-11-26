@@ -1,6 +1,6 @@
 # linty-org/key-menu.nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 196 | 5 | 
 | 2022-11-24 | 196 | 5 | 
 | 2022-11-23 | 196 | 5 | 
 | 2022-11-22 | 196 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 188 | 4 | 
 | 2022-10-28 | 188 | 4 | 
 | 2022-10-27 | 188 | 4 | 
-| 2022-10-26 | 187 | 4 | 
 

@@ -1,10 +1,10 @@
 # OverflowCat/zhihu-watermark-remover - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 13
 
-★ Stars: 244
+★ Stars: 245
 
 [Open repository](https://github.com/OverflowCat/zhihu-watermark-remover)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 245 | 13 | 
 | 2022-11-24 | 244 | 13 | 
 | 2022-11-23 | 244 | 13 | 
 | 2022-11-22 | 244 | 13 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 243 | 13 | 
 | 2022-10-28 | 243 | 13 | 
 | 2022-10-27 | 243 | 13 | 
-| 2022-10-26 | 243 | 13 | 
 

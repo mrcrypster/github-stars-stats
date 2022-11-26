@@ -1,6 +1,6 @@
 # adanlobato/scrumify-trello - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 8 | 2 | 
 | 2022-11-24 | 8 | 2 | 
 | 2022-11-23 | 8 | 2 | 
 | 2022-11-22 | 8 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 8 | 2 | 
 | 2022-10-28 | 8 | 2 | 
 | 2022-10-27 | 8 | 2 | 
-| 2022-10-26 | 8 | 2 | 
 

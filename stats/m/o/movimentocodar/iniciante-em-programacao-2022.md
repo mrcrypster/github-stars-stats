@@ -1,6 +1,6 @@
 # movimentocodar/iniciante-em-programacao-2022 - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | - | 41 | 
 | 2022-11-25 | - | 41 | 
 | 2022-11-23 | - | 41 | 
 | 2022-11-22 | - | 41 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-29 | - | 41 | 
 | 2022-10-28 | - | 41 | 
 | 2022-10-27 | - | 41 | 
-| 2022-10-26 | - | 41 | 
 

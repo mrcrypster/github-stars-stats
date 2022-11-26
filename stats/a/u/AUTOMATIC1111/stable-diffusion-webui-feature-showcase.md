@@ -1,6 +1,6 @@
 # AUTOMATIC1111/stable-diffusion-webui-feature-showcase - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 563 | 42 | 
 | 2022-11-24 | 563 | 42 | 
 | 2022-11-23 | 562 | 42 | 
 | 2022-11-22 | 561 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 507 | 36 | 
 | 2022-10-28 | 507 | 36 | 
 | 2022-10-27 | 506 | 35 | 
-| 2022-10-26 | 504 | 34 | 
 

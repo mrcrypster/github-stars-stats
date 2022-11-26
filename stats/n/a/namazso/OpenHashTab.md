@@ -1,6 +1,6 @@
 # namazso/OpenHashTab - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 79
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 1637 | 79 | 
 | 2022-11-24 | 1637 | 79 | 
 | 2022-11-23 | 1635 | 79 | 
 | 2022-11-22 | 1634 | 79 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 1568 | 76 | 
 | 2022-10-28 | 1567 | 76 | 
 | 2022-10-27 | 1565 | 76 | 
-| 2022-10-26 | 1563 | 76 | 
 

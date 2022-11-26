@@ -1,6 +1,6 @@
 # guchengwuyue/yshop-gin - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 127 | 40 | 
 | 2022-11-24 | 127 | 40 | 
 | 2022-11-23 | 127 | 40 | 
 | 2022-11-22 | 126 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-30 | 122 | 37 | 
 | 2022-10-28 | 122 | 37 | 
 | 2022-10-27 | 122 | 37 | 
-| 2022-10-26 | 121 | 37 | 
 

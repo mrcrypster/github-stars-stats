@@ -1,6 +1,6 @@
 # Grasscutters/gcgm-plugin - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 38 | 10 | 
 | 2022-11-24 | 38 | 10 | 
 | 2022-11-23 | 38 | 10 | 
 | 2022-11-22 | 38 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-30 | 38 | 10 | 
 | 2022-10-29 | 38 | 10 | 
 | 2022-10-28 | 38 | 10 | 
-| 2022-10-27 | 38 | 10 | 
 

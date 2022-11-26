@@ -1,6 +1,6 @@
 # MorneVenter/godot-blueprint - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 45 | 2 | 
 | 2022-11-24 | 45 | 2 | 
 | 2022-11-23 | 45 | 2 | 
 | 2022-11-22 | 45 | 2 | 

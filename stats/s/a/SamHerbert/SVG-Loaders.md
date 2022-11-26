@@ -1,8 +1,8 @@
 # SamHerbert/SVG-Loaders - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 2247
+☋ Forks: 2248
 
 ★ Stars: 5583
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 5583 | 2248 | 
 | 2022-11-24 | 5583 | 2247 | 
 | 2022-11-23 | 5583 | 2247 | 
 | 2022-11-22 | 5583 | 2245 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 5565 | 2212 | 
 | 2022-10-28 | 5565 | 2211 | 
 | 2022-10-27 | 5563 | 2206 | 
-| 2022-10-26 | 5562 | 2202 | 
 

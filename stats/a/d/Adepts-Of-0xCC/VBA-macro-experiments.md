@@ -1,6 +1,6 @@
 # Adepts-Of-0xCC/VBA-macro-experiments - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 145 | 15 | 
 | 2022-11-24 | 145 | 15 | 
 | 2022-11-23 | 145 | 15 | 
 | 2022-11-22 | 145 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 145 | 15 | 
 | 2022-10-28 | 145 | 15 | 
 | 2022-10-27 | 145 | 15 | 
-| 2022-10-26 | 145 | 15 | 
 

@@ -1,10 +1,10 @@
 # dilshan/star-pointer - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 3
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/dilshan/star-pointer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 15 | 3 | 
 | 2022-11-24 | 14 | 3 | 
 | 2022-11-23 | 14 | 3 | 
 | 2022-11-22 | 14 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 14 | 3 | 
 | 2022-10-28 | 14 | 3 | 
 | 2022-10-27 | 14 | 3 | 
-| 2022-10-26 | 14 | 3 | 
 

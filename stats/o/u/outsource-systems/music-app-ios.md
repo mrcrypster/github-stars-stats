@@ -1,6 +1,6 @@
 # outsource-systems/music-app-ios - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 135 | 25 | 
 | 2022-11-24 | 135 | 25 | 
 | 2022-11-23 | 135 | 25 | 
 | 2022-11-22 | 135 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 137 | 24 | 
 | 2022-10-28 | 137 | 24 | 
 | 2022-10-27 | 137 | 24 | 
-| 2022-10-26 | 137 | 24 | 
 

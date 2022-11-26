@@ -1,8 +1,8 @@
 # jonathan-laurent/AlphaZero.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 108
+☋ Forks: 109
 
 ★ Stars: 1084
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 1084 | 109 | 
 | 2022-11-24 | 1084 | 108 | 
 | 2022-11-23 | 1084 | 108 | 
 | 2022-11-22 | 1084 | 108 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 1070 | 106 | 
 | 2022-10-28 | 1070 | 106 | 
 | 2022-10-27 | 1069 | 106 | 
-| 2022-10-26 | 1069 | 106 | 
 

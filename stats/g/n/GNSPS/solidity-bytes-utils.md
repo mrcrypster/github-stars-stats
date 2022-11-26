@@ -1,6 +1,6 @@
 # GNSPS/solidity-bytes-utils - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 76
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 355 | 76 | 
 | 2022-11-24 | 355 | 76 | 
 | 2022-11-23 | 355 | 76 | 
 | 2022-11-22 | 355 | 76 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 348 | 75 | 
 | 2022-10-28 | 347 | 75 | 
 | 2022-10-27 | 347 | 75 | 
-| 2022-10-26 | 347 | 75 | 
 

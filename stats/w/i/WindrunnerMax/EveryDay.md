@@ -1,10 +1,10 @@
 # WindrunnerMax/EveryDay - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 165
 
-★ Stars: 1012
+★ Stars: 1013
 
 [Open repository](https://github.com/WindrunnerMax/EveryDay)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 1013 | 165 | 
 | 2022-11-24 | 1012 | 165 | 
 | 2022-11-23 | 1011 | 165 | 
 | 2022-11-22 | 1008 | 165 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 980 | 161 | 
 | 2022-10-28 | 980 | 161 | 
 | 2022-10-27 | 979 | 161 | 
-| 2022-10-26 | 976 | 161 | 
 

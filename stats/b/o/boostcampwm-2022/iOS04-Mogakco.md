@@ -1,10 +1,10 @@
 # boostcampwm-2022/iOS04-Mogakco - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 1
 
-★ Stars: 29
+★ Stars: 33
 
 [Open repository](https://github.com/boostcampwm-2022/iOS04-Mogakco)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 33 | 1 | 
 | 2022-11-24 | 29 | 1 | 
 | 2022-11-23 | 29 | 1 | 
 | 2022-11-22 | 29 | 1 | 

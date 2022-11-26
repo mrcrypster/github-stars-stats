@@ -1,10 +1,10 @@
 # CapitaineJSparrow/emusak-ui - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 107
 
-★ Stars: 967
+★ Stars: 968
 
 [Open repository](https://github.com/CapitaineJSparrow/emusak-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 968 | 107 | 
 | 2022-11-24 | 967 | 107 | 
 | 2022-11-23 | 966 | 106 | 
 | 2022-11-22 | 967 | 106 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 949 | 102 | 
 | 2022-10-28 | 949 | 102 | 
 | 2022-10-27 | 949 | 102 | 
-| 2022-10-26 | 949 | 102 | 
 

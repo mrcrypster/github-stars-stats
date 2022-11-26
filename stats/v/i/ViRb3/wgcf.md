@@ -1,10 +1,10 @@
 # ViRb3/wgcf - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 291
 
-★ Stars: 2321
+★ Stars: 2324
 
 [Open repository](https://github.com/ViRb3/wgcf)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 2324 | 291 | 
 | 2022-11-24 | 2321 | 291 | 
 | 2022-11-23 | 2320 | 291 | 
 | 2022-11-22 | 2318 | 291 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 2261 | 282 | 
 | 2022-10-28 | 2257 | 282 | 
 | 2022-10-27 | 2254 | 282 | 
-| 2022-10-26 | 2251 | 280 | 
 

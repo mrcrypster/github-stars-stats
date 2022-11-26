@@ -1,10 +1,10 @@
 # dotnet/machinelearning - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
-☋ Forks: 1791
+☋ Forks: 1792
 
-★ Stars: 8203
+★ Stars: 8207
 
 [Open repository](https://github.com/dotnet/machinelearning)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 8207 | 1792 | 
 | 2022-11-25 | 8203 | 1791 | 
 | 2022-11-24 | 8202 | 1791 | 
 | 2022-11-23 | 8200 | 1790 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-29 | 8149 | 1780 | 
 | 2022-10-28 | 8148 | 1781 | 
 | 2022-10-27 | 8145 | 1782 | 
-| 2022-10-26 | 8142 | 1780 | 
 

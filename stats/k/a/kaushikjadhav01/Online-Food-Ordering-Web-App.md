@@ -1,6 +1,6 @@
 # kaushikjadhav01/Online-Food-Ordering-Web-App - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 69
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 111 | 69 | 
 | 2022-11-24 | 111 | 69 | 
 | 2022-11-23 | 110 | 69 | 
 | 2022-11-22 | 110 | 69 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 105 | 62 | 
 | 2022-10-28 | 105 | 62 | 
 | 2022-10-27 | 105 | 62 | 
-| 2022-10-26 | 105 | 62 | 
 

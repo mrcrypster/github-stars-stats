@@ -1,10 +1,10 @@
 # microsoft/vscode-dev-containers - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 1358
+☋ Forks: 1360
 
-★ Stars: 4051
+★ Stars: 4055
 
 [Open repository](https://github.com/microsoft/vscode-dev-containers)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 4055 | 1360 | 
 | 2022-11-24 | 4051 | 1358 | 
 | 2022-11-23 | 4046 | 1355 | 
 | 2022-11-22 | 4044 | 1352 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 3947 | 1340 | 
 | 2022-10-28 | 3943 | 1340 | 
 | 2022-10-27 | 3939 | 1339 | 
-| 2022-10-26 | 3937 | 1340 | 
 

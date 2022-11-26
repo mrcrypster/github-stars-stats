@@ -1,6 +1,6 @@
 # mtijanic/nwccc - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 13 | 2 | 
 | 2022-11-24 | 13 | 2 | 
 | 2022-11-23 | 13 | 2 | 
 | 2022-11-22 | 13 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 10 | 2 | 
 | 2022-10-28 | 9 | 1 | 
 | 2022-10-27 | 9 | 1 | 
-| 2022-10-26 | 8 | 1 | 
 

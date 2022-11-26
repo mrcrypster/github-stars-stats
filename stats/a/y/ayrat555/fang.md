@@ -1,6 +1,6 @@
 # ayrat555/fang - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 417 | 11 | 
 | 2022-11-24 | 417 | 11 | 
 | 2022-11-23 | 417 | 11 | 
 | 2022-11-22 | 417 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-30 | 399 | 11 | 
 | 2022-10-29 | 399 | 11 | 
 | 2022-10-28 | 398 | 11 | 
-| 2022-10-26 | 398 | 11 | 
 

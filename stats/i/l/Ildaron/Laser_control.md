@@ -1,6 +1,6 @@
 # Ildaron/Laser_control - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 94
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 1002 | 94 | 
 | 2022-11-24 | 1002 | 94 | 
 | 2022-11-23 | 1003 | 94 | 
 | 2022-11-22 | 1002 | 93 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 989 | 87 | 
 | 2022-10-28 | 988 | 87 | 
 | 2022-10-27 | 985 | 85 | 
-| 2022-10-26 | 983 | 84 | 
 

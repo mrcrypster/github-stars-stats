@@ -1,10 +1,10 @@
 # inconvergent/cl-grph - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 0
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/inconvergent/cl-grph)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 20 | - | 
 | 2022-11-24 | 19 | - | 
 | 2022-11-23 | 16 | - | 
 | 2022-11-22 | 16 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 9 | - | 
 | 2022-10-28 | 9 | - | 
 | 2022-10-27 | 9 | - | 
-| 2022-10-26 | 9 | - | 
 

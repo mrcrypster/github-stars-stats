@@ -1,6 +1,6 @@
 # rubyforgood/casa - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 327
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 181 | 327 | 
 | 2022-11-24 | 181 | 327 | 
 | 2022-11-23 | 181 | 327 | 
 | 2022-11-22 | 181 | 327 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 176 | 325 | 
 | 2022-10-28 | 176 | 324 | 
 | 2022-10-27 | 176 | 323 | 
-| 2022-10-26 | 175 | 321 | 
 

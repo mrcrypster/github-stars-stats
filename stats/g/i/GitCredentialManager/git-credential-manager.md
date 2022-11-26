@@ -1,10 +1,10 @@
 # GitCredentialManager/git-credential-manager - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 964
+☋ Forks: 969
 
-★ Stars: 3506
+★ Stars: 3510
 
 [Open repository](https://github.com/GitCredentialManager/git-credential-manager)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 3510 | 969 | 
 | 2022-11-24 | 3506 | 964 | 
 | 2022-11-23 | 3505 | 960 | 
 | 2022-11-22 | 3495 | 957 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 3367 | 875 | 
 | 2022-10-28 | 3363 | 875 | 
 | 2022-10-27 | 3360 | 868 | 
-| 2022-10-26 | 3354 | 863 | 
 

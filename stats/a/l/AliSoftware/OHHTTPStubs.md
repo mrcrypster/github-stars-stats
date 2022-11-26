@@ -1,10 +1,10 @@
 # AliSoftware/OHHTTPStubs - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 607
 
-★ Stars: 4935
+★ Stars: 4936
 
 [Open repository](https://github.com/AliSoftware/OHHTTPStubs)
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 4936 | 607 | 
+| 2022-11-25 | 4936 | 607 | 
 | 2022-11-24 | 4935 | 607 | 
 | 2022-11-23 | 4935 | 607 | 
 | 2022-11-22 | 4936 | 607 | 
@@ -41,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 4930 | 608 | 
 | 2022-10-28 | 4930 | 608 | 
 | 2022-10-27 | 4929 | 608 | 
-| 2022-10-26 | 4929 | 608 | 
 

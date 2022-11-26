@@ -1,6 +1,6 @@
 # codesuki/add-node-modules-path - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 125 | 14 | 
 | 2022-11-24 | 125 | 14 | 
 | 2022-11-23 | 125 | 14 | 
 | 2022-11-22 | 125 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 124 | 14 | 
 | 2022-10-28 | 124 | 14 | 
 | 2022-10-27 | 124 | 14 | 
-| 2022-10-26 | 124 | 14 | 
 

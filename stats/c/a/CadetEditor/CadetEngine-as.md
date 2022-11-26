@@ -1,6 +1,6 @@
 # CadetEditor/CadetEngine-as - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 67 | 21 | 
 | 2022-11-24 | 67 | 21 | 
 | 2022-11-23 | 67 | 21 | 
 | 2022-11-22 | 67 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 67 | 21 | 
 | 2022-10-28 | 67 | 21 | 
 | 2022-10-27 | 67 | 21 | 
-| 2022-10-26 | 67 | 21 | 
 

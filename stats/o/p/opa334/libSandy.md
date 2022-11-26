@@ -1,10 +1,10 @@
 # opa334/libSandy - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 0
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/opa334/libSandy)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 35 | - | 
 | 2022-11-24 | 34 | - | 
 | 2022-11-23 | 34 | - | 
 | 2022-11-22 | 34 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-30 | 34 | - | 
 | 2022-10-29 | 34 | - | 
 | 2022-10-28 | 34 | - | 
-| 2022-10-27 | 34 | - | 
 

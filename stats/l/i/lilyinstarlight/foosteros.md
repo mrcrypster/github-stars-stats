@@ -1,6 +1,6 @@
 # lilyinstarlight/foosteros - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 14 | - | 
 | 2022-11-25 | 14 | - | 
 | 2022-11-24 | 14 | - | 
 | 2022-11-23 | 14 | - | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-29 | 12 | - | 
 | 2022-10-28 | 12 | - | 
 | 2022-10-27 | 12 | - | 
-| 2022-10-26 | 12 | - | 
 

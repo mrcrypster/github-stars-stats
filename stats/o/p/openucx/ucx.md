@@ -1,6 +1,6 @@
 # openucx/ucx - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 317
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 759 | 317 | 
 | 2022-11-24 | 759 | 317 | 
 | 2022-11-23 | 758 | 317 | 
 | 2022-11-22 | 758 | 317 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 755 | 312 | 
 | 2022-10-28 | 755 | 313 | 
 | 2022-10-27 | 755 | 313 | 
-| 2022-10-26 | 754 | 313 | 
 

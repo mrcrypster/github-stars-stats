@@ -1,6 +1,6 @@
 # skyfunkman2/sharkrdp - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 168
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 1 | 168 | 
 | 2022-11-24 | 1 | 168 | 
 | 2022-11-23 | 1 | 167 | 
 | 2022-11-22 | 1 | 165 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 1 | 150 | 
 | 2022-10-28 | 1 | 150 | 
 | 2022-10-27 | 1 | 149 | 
-| 2022-10-26 | 1 | 149 | 
 

@@ -1,6 +1,6 @@
 # LaoMengFlutter/flutter-do - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 496
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 2251 | 496 | 
 | 2022-11-24 | 2251 | 496 | 
 | 2022-11-23 | 2251 | 495 | 
 | 2022-11-22 | 2249 | 495 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 2240 | 492 | 
 | 2022-10-28 | 2240 | 492 | 
 | 2022-10-27 | 2240 | 492 | 
-| 2022-10-26 | 2241 | 492 | 
 

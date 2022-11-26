@@ -1,10 +1,10 @@
 # crawlab-team/crawlab - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 1560
 
-★ Stars: 9362
+★ Stars: 9364
 
 [Open repository](https://github.com/crawlab-team/crawlab)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 9364 | 1560 | 
 | 2022-11-24 | 9362 | 1560 | 
 | 2022-11-23 | 9361 | 1559 | 
 | 2022-11-22 | 9354 | 1558 | 

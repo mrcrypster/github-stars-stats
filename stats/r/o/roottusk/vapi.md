@@ -1,6 +1,6 @@
 # roottusk/vapi - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 149
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 761 | 149 | 
 | 2022-11-24 | 761 | 149 | 
 | 2022-11-23 | 761 | 148 | 
 | 2022-11-22 | 761 | 147 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-30 | 754 | 145 | 
 | 2022-10-29 | 754 | 145 | 
 | 2022-10-28 | 753 | 145 | 
-| 2022-10-27 | 753 | 143 | 
 

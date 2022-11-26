@@ -1,8 +1,8 @@
 # oracle-terraform-modules/terraform-oci-vcn - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 43
+☋ Forks: 44
 
 ★ Stars: 26
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 26 | 44 | 
 | 2022-11-24 | 26 | 43 | 
 | 2022-11-23 | 26 | 43 | 
 | 2022-11-22 | 26 | 43 | 

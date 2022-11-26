@@ -1,8 +1,8 @@
 # tidymodels/workshops - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 13
+☋ Forks: 14
 
 ★ Stars: 38
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 38 | 14 | 
 | 2022-11-24 | 38 | 13 | 
 | 2022-11-23 | 38 | 13 | 
 | 2022-11-22 | 38 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-30 | 37 | 13 | 
 | 2022-10-29 | 37 | 13 | 
 | 2022-10-28 | 37 | 13 | 
-| 2022-10-27 | 37 | 13 | 
 

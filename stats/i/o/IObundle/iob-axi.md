@@ -1,10 +1,10 @@
 # IObundle/iob-axi - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 4
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/IObundle/iob-axi)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 5 | 4 | 
 | 2022-11-24 | 4 | 4 | 
 | 2022-11-23 | 4 | 4 | 
 | 2022-11-22 | 4 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 4 | 4 | 
 | 2022-10-28 | 4 | 4 | 
 | 2022-10-27 | 4 | 4 | 
-| 2022-10-26 | 4 | 4 | 
 

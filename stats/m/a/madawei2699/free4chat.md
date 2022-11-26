@@ -1,10 +1,10 @@
 # madawei2699/free4chat - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 104
 
-★ Stars: 788
+★ Stars: 792
 
 [Open repository](https://github.com/madawei2699/free4chat)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 792 | 104 | 
 | 2022-11-24 | 788 | 104 | 
 | 2022-11-23 | 788 | 104 | 
 | 2022-11-22 | 786 | 104 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 749 | 103 | 
 | 2022-10-28 | 749 | 103 | 
 | 2022-10-27 | 744 | 103 | 
-| 2022-10-26 | 740 | 101 | 
 

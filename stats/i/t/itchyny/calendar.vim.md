@@ -1,10 +1,10 @@
 # itchyny/calendar.vim - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 72
 
-★ Stars: 1795
+★ Stars: 1796
 
 [Open repository](https://github.com/itchyny/calendar.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 1796 | 72 | 
 | 2022-11-24 | 1795 | 72 | 
 | 2022-11-23 | 1795 | 72 | 
 | 2022-11-22 | 1795 | 72 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 1789 | 72 | 
 | 2022-10-28 | 1789 | 72 | 
 | 2022-10-27 | 1788 | 72 | 
-| 2022-10-26 | 1788 | 72 | 
 

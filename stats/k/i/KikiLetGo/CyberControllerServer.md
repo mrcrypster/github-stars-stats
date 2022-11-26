@@ -1,10 +1,10 @@
 # KikiLetGo/CyberControllerServer - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 134
 
-★ Stars: 352
+★ Stars: 354
 
 [Open repository](https://github.com/KikiLetGo/CyberControllerServer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 354 | 134 | 
 | 2022-11-24 | 352 | 134 | 
 | 2022-11-23 | 351 | 135 | 
 | 2022-11-22 | 349 | 135 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 337 | 129 | 
 | 2022-10-28 | 337 | 129 | 
 | 2022-10-27 | 337 | 128 | 
-| 2022-10-26 | 336 | 128 | 
 

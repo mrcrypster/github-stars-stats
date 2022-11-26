@@ -1,10 +1,10 @@
 # m3rcer/Chisel-Strike - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 50
 
-★ Stars: 372
+★ Stars: 374
 
 [Open repository](https://github.com/m3rcer/Chisel-Strike)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 374 | 50 | 
 | 2022-11-25 | 372 | 50 | 
 | 2022-11-24 | 372 | 50 | 
 | 2022-11-23 | 372 | 50 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-29 | 367 | 50 | 
 | 2022-10-28 | 367 | 50 | 
 | 2022-10-27 | 366 | 50 | 
-| 2022-10-26 | 363 | 50 | 
 

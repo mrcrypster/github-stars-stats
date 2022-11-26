@@ -1,10 +1,10 @@
 # LawnchairLauncher/lawnicons - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 268
+☋ Forks: 269
 
-★ Stars: 573
+★ Stars: 574
 
 [Open repository](https://github.com/LawnchairLauncher/lawnicons)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 574 | 269 | 
 | 2022-11-24 | 573 | 268 | 
 | 2022-11-23 | 573 | 268 | 
 | 2022-11-22 | 571 | 267 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 536 | 257 | 
 | 2022-10-28 | 536 | 254 | 
 | 2022-10-27 | 535 | 254 | 
-| 2022-10-26 | 534 | 253 | 
 

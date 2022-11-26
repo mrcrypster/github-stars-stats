@@ -1,8 +1,8 @@
 # MultiMC/Launcher - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 732
+☋ Forks: 731
 
 ★ Stars: 3662
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 3662 | 731 | 
 | 2022-11-24 | 3662 | 732 | 
 | 2022-11-23 | 3662 | 732 | 
 | 2022-11-22 | 3662 | 732 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-30 | 3639 | 729 | 
 | 2022-10-29 | 3639 | 730 | 
 | 2022-10-28 | 3639 | 730 | 
-| 2022-10-27 | 3638 | 729 | 
 

@@ -1,6 +1,6 @@
 # qbcore-framework/qb-mechanicjob - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 151
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 23 | 151 | 
 | 2022-11-24 | 23 | 151 | 
 | 2022-11-23 | 23 | 151 | 
 | 2022-11-22 | 23 | 152 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-30 | 23 | 148 | 
 | 2022-10-29 | 23 | 148 | 
 | 2022-10-28 | 23 | 148 | 
-| 2022-10-27 | 23 | 148 | 
 

@@ -1,10 +1,10 @@
 # synopse/mORMot - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 310
 
-★ Stars: 725
+★ Stars: 726
 
 [Open repository](https://github.com/synopse/mORMot)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 726 | 310 | 
 | 2022-11-24 | 725 | 310 | 
 | 2022-11-23 | 725 | 310 | 
 | 2022-11-22 | 725 | 310 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 719 | 310 | 
 | 2022-10-28 | 719 | 310 | 
 | 2022-10-27 | 719 | 310 | 
-| 2022-10-26 | 719 | 310 | 
 

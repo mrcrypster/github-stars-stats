@@ -1,6 +1,6 @@
 # razzmatazz/csharp-language-server - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 156 | 11 | 
 | 2022-11-24 | 156 | 11 | 
 | 2022-11-23 | 156 | 11 | 
 | 2022-11-22 | 155 | 11 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 144 | 11 | 
 | 2022-10-28 | 143 | 11 | 
 | 2022-10-27 | 142 | 11 | 
-| 2022-10-26 | 140 | 11 | 
 

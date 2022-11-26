@@ -1,6 +1,6 @@
 # ca-risken/doc - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 18 | - | 
 | 2022-11-24 | 18 | - | 
 | 2022-11-23 | 18 | - | 
 | 2022-11-22 | 18 | - | 

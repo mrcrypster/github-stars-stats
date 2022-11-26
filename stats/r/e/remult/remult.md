@@ -1,10 +1,10 @@
 # remult/remult - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 62
 
-★ Stars: 1610
+★ Stars: 1615
 
 [Open repository](https://github.com/remult/remult)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 1615 | 62 | 
 | 2022-11-24 | 1610 | 62 | 
 | 2022-11-23 | 1608 | 62 | 
 | 2022-11-22 | 1606 | 62 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 1535 | 62 | 
 | 2022-10-28 | 1534 | 62 | 
 | 2022-10-27 | 1531 | 62 | 
-| 2022-10-26 | 1526 | 62 | 
 

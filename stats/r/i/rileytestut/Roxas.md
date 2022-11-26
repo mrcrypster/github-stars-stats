@@ -1,6 +1,6 @@
 # rileytestut/Roxas - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 88 | 20 | 
 | 2022-11-24 | 88 | 20 | 
 | 2022-11-23 | 88 | 20 | 
 | 2022-11-22 | 88 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 86 | 20 | 
 | 2022-10-28 | 86 | 20 | 
 | 2022-10-27 | 86 | 20 | 
-| 2022-10-26 | 86 | 20 | 
 

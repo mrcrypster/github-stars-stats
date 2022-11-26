@@ -1,6 +1,6 @@
 # scrimba/learn-javascript - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 765
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 388 | 765 | 
 | 2022-11-24 | 388 | 765 | 
 | 2022-11-23 | 388 | 765 | 
 | 2022-11-22 | 388 | 765 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-30 | 373 | 737 | 
 | 2022-10-29 | 373 | 737 | 
 | 2022-10-28 | 373 | 736 | 
-| 2022-10-27 | 372 | 735 | 
 

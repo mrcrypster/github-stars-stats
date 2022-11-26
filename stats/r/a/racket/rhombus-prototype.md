@@ -1,6 +1,6 @@
 # racket/rhombus-prototype - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 220 | 32 | 
 | 2022-11-24 | 220 | 32 | 
 | 2022-11-23 | 220 | 32 | 
 | 2022-11-22 | 219 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-30 | 215 | 32 | 
 | 2022-10-29 | 215 | 32 | 
 | 2022-10-28 | 215 | 32 | 
-| 2022-10-27 | 215 | 32 | 
 

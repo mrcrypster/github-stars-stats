@@ -1,8 +1,8 @@
 # invictus-ir/Microsoft-365-Extractor-Suite - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 17
+☋ Forks: 18
 
 ★ Stars: 91
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 91 | 18 | 
 | 2022-11-24 | 91 | 17 | 
 | 2022-11-23 | 90 | 17 | 
 | 2022-11-22 | 90 | 17 | 

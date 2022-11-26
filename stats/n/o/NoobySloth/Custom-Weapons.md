@@ -1,6 +1,6 @@
 # NoobySloth/Custom-Weapons - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 33 | 37 | 
 | 2022-11-24 | 33 | 37 | 
 | 2022-11-23 | 33 | 36 | 
 | 2022-11-22 | 33 | 36 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 28 | 32 | 
 | 2022-10-28 | 28 | 32 | 
 | 2022-10-27 | 28 | 31 | 
-| 2022-10-26 | 28 | 30 | 
 

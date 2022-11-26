@@ -1,10 +1,10 @@
 # DavidBuchanan314/monomorph - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 54
 
-★ Stars: 694
+★ Stars: 696
 
 [Open repository](https://github.com/DavidBuchanan314/monomorph)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 696 | 54 | 
 | 2022-11-24 | 694 | 54 | 
 | 2022-11-23 | 693 | 54 | 
 | 2022-11-22 | 692 | 54 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 681 | 53 | 
 | 2022-10-28 | 681 | 53 | 
 | 2022-10-27 | 679 | 52 | 
-| 2022-10-26 | 678 | 52 | 
 

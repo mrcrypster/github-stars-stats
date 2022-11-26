@@ -1,6 +1,6 @@
 # jruby/jruby - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 917
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 3651 | 917 | 
 | 2022-11-24 | 3651 | 917 | 
 | 2022-11-23 | 3650 | 916 | 
 | 2022-11-22 | 3651 | 915 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 3644 | 909 | 
 | 2022-10-28 | 3643 | 909 | 
 | 2022-10-27 | 3643 | 909 | 
-| 2022-10-26 | 3643 | 909 | 
 

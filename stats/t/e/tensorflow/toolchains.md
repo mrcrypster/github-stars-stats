@@ -1,6 +1,6 @@
 # tensorflow/toolchains - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 15 | 20 | 
 | 2022-11-24 | 15 | 20 | 
 | 2022-11-23 | 15 | 20 | 
 | 2022-11-22 | 15 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 15 | 21 | 
 | 2022-10-28 | 15 | 21 | 
 | 2022-10-27 | 15 | 21 | 
-| 2022-10-26 | 15 | 21 | 
 

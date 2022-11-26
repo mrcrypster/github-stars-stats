@@ -1,6 +1,6 @@
 # pnnl/QASMBench - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 36 | 13 | 
 | 2022-11-24 | 36 | 13 | 
 | 2022-11-23 | 36 | 13 | 
 | 2022-11-22 | 36 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 34 | 13 | 
 | 2022-10-28 | 34 | 13 | 
 | 2022-10-27 | 33 | 13 | 
-| 2022-10-26 | 33 | 13 | 
 

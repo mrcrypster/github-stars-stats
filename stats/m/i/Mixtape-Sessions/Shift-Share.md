@@ -1,6 +1,6 @@
 # Mixtape-Sessions/Shift-Share - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 28 | 42 | 
 | 2022-11-24 | 28 | 42 | 
 | 2022-11-23 | 27 | 42 | 
 | 2022-11-22 | 27 | 42 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 21 | 35 | 
 | 2022-10-28 | 20 | 35 | 
 | 2022-10-27 | 20 | 35 | 
-| 2022-10-26 | 19 | 35 | 
 

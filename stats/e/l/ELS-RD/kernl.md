@@ -1,6 +1,6 @@
 # ELS-RD/kernl - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 806 | 34 | 
 | 2022-11-24 | 806 | 34 | 
 | 2022-11-23 | 803 | 33 | 
 | 2022-11-22 | 802 | 33 | 

@@ -1,0 +1,17 @@
+# BL-MSCH-C220-F22/Exercise-06d-Unit-Testing - stars & forks statistics
+
+Stats updated on Nov 2022, 25
+
+☋ Forks: 7
+
+★ Stars: 0
+
+[Open repository](https://github.com/BL-MSCH-C220-F22/Exercise-06d-Unit-Testing)
+
+[Open detailed stats for BL-MSCH-C220-F22/Exercise-06d-Unit-Testing](https://reviewgithub.com/rep/BL-MSCH-C220-F22/Exercise-06d-Unit-Testing)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-11-25 | - | 7 | 
+

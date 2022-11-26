@@ -1,10 +1,10 @@
 # Orz-3/QuantumultX - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 580
 
-★ Stars: 2681
+★ Stars: 2687
 
 [Open repository](https://github.com/Orz-3/QuantumultX)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 2687 | 580 | 
 | 2022-11-24 | 2681 | 580 | 
 | 2022-11-23 | 2678 | 580 | 
 | 2022-11-22 | 2675 | 580 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 2592 | 566 | 
 | 2022-10-28 | 2590 | 566 | 
 | 2022-10-27 | 2586 | 565 | 
-| 2022-10-26 | 2585 | 565 | 
 

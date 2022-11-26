@@ -1,10 +1,10 @@
 # kevinjycui/bad-apple - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 111
+☋ Forks: 110
 
-★ Stars: 703
+★ Stars: 704
 
 [Open repository](https://github.com/kevinjycui/bad-apple)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 704 | 110 | 
 | 2022-11-24 | 703 | 111 | 
 | 2022-11-23 | 703 | 111 | 
 | 2022-11-22 | 702 | 111 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 582 | 79 | 
 | 2022-10-28 | 578 | 78 | 
 | 2022-10-27 | 573 | 77 | 
-| 2022-10-26 | 569 | 76 | 
 

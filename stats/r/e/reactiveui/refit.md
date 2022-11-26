@@ -1,6 +1,6 @@
 # reactiveui/refit - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 669
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 6627 | 669 | 
 | 2022-11-25 | 6627 | 669 | 
 | 2022-11-24 | 6623 | 668 | 
 | 2022-11-23 | 6620 | 666 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-29 | 6563 | 663 | 
 | 2022-10-28 | 6560 | 663 | 
 | 2022-10-27 | 6553 | 662 | 
-| 2022-10-26 | 6546 | 661 | 
 

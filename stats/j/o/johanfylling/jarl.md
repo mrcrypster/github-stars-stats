@@ -1,6 +1,6 @@
 # johanfylling/jarl - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 18 | 1 | 
 | 2022-11-25 | 18 | 1 | 
 | 2022-11-23 | 18 | 1 | 
 | 2022-11-22 | 17 | 1 | 

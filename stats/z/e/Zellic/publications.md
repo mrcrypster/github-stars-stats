@@ -1,10 +1,10 @@
 # Zellic/publications - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 7
 
-★ Stars: 73
+★ Stars: 74
 
 [Open repository](https://github.com/Zellic/publications)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 74 | 7 | 
 | 2022-11-24 | 73 | 7 | 
 | 2022-11-23 | 73 | 7 | 
 | 2022-11-22 | 73 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 62 | 6 | 
 | 2022-10-28 | 62 | 6 | 
 | 2022-10-27 | 62 | 6 | 
-| 2022-10-26 | 61 | 6 | 
 

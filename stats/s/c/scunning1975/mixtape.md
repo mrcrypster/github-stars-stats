@@ -1,6 +1,6 @@
 # scunning1975/mixtape - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 167
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 271 | 167 | 
 | 2022-11-24 | 271 | 167 | 
 | 2022-11-23 | 271 | 167 | 
 | 2022-11-22 | 271 | 167 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 267 | 166 | 
 | 2022-10-28 | 267 | 166 | 
 | 2022-10-27 | 267 | 166 | 
-| 2022-10-26 | 267 | 166 | 
 

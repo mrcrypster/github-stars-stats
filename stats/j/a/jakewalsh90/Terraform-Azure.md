@@ -1,6 +1,6 @@
 # jakewalsh90/Terraform-Azure - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 83
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 47 | 83 | 
 | 2022-11-24 | 47 | 83 | 
 | 2022-11-23 | 47 | 84 | 
 | 2022-11-22 | 47 | 84 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-30 | 44 | 84 | 
 | 2022-10-29 | 44 | 84 | 
 | 2022-10-28 | 44 | 84 | 
-| 2022-10-27 | 44 | 84 | 
 

@@ -1,6 +1,6 @@
 # ethz-asl/pcl_catkin - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 15 | 18 | 
 | 2022-11-24 | 15 | 18 | 
 | 2022-11-23 | 15 | 18 | 
 | 2022-11-22 | 15 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 15 | 17 | 
 | 2022-10-28 | 14 | 17 | 
 | 2022-10-27 | 14 | 17 | 
-| 2022-10-26 | 14 | 17 | 
 

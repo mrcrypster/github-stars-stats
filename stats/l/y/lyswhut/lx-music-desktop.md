@@ -1,10 +1,10 @@
 # lyswhut/lx-music-desktop - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 3889
+☋ Forks: 3892
 
-★ Stars: 22411
+★ Stars: 22437
 
 [Open repository](https://github.com/lyswhut/lx-music-desktop)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 22437 | 3892 | 
 | 2022-11-24 | 22411 | 3889 | 
 | 2022-11-23 | 22382 | 3879 | 
 | 2022-11-22 | 22350 | 3877 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 21753 | 3816 | 
 | 2022-10-28 | 21729 | 3812 | 
 | 2022-10-27 | 21705 | 3808 | 
-| 2022-10-26 | 21675 | 3804 | 
 

@@ -1,10 +1,10 @@
 # rocboss/paopao-ce - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 377
+☋ Forks: 378
 
-★ Stars: 2578
+★ Stars: 2580
 
 [Open repository](https://github.com/rocboss/paopao-ce)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 2580 | 378 | 
 | 2022-11-24 | 2578 | 377 | 
 | 2022-11-23 | 2576 | 377 | 
 | 2022-11-22 | 2574 | 376 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 2505 | 358 | 
 | 2022-10-28 | 2501 | 357 | 
 | 2022-10-27 | 2498 | 355 | 
-| 2022-10-26 | 2495 | 353 | 
 

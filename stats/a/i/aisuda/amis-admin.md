@@ -1,10 +1,10 @@
 # aisuda/amis-admin - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 26
 
-☋ Forks: 356
+☋ Forks: 357
 
-★ Stars: 1152
+★ Stars: 1153
 
 [Open repository](https://github.com/aisuda/amis-admin)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 1153 | 357 | 
 | 2022-11-24 | 1152 | 356 | 
 | 2022-11-23 | 1151 | 356 | 
 | 2022-11-22 | 1151 | 356 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 1140 | 353 | 
 | 2022-10-28 | 1140 | 353 | 
 | 2022-10-27 | 1140 | 353 | 
-| 2022-10-26 | 1140 | 352 | 
 

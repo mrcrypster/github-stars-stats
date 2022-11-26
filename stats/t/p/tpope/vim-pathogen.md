@@ -1,8 +1,8 @@
 # tpope/vim-pathogen - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 1220
+☋ Forks: 1219
 
 ★ Stars: 11963
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 11963 | 1219 | 
 | 2022-11-24 | 11963 | 1220 | 
 | 2022-11-23 | 11962 | 1220 | 
 | 2022-11-22 | 11960 | 1220 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 11946 | 1222 | 
 | 2022-10-28 | 11945 | 1222 | 
 | 2022-10-27 | 11944 | 1222 | 
-| 2022-10-26 | 11945 | 1223 | 
 

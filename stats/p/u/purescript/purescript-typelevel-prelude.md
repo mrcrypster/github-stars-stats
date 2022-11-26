@@ -1,6 +1,6 @@
 # purescript/purescript-typelevel-prelude - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 62 | 23 | 
 | 2022-11-24 | 62 | 23 | 
 | 2022-11-23 | 62 | 23 | 
 | 2022-11-22 | 62 | 23 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 62 | 22 | 
 | 2022-10-28 | 62 | 22 | 
 | 2022-10-27 | 62 | 22 | 
-| 2022-10-26 | 62 | 22 | 
 

@@ -1,6 +1,6 @@
 # dcomtois/summarytools - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 70
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 454 | 70 | 
 | 2022-11-24 | 454 | 70 | 
 | 2022-11-23 | 454 | 70 | 
 | 2022-11-22 | 454 | 70 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 453 | 69 | 
 | 2022-10-28 | 453 | 69 | 
 | 2022-10-27 | 453 | 69 | 
-| 2022-10-26 | 453 | 69 | 
 

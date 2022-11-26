@@ -1,6 +1,6 @@
 # 0xTim/Vapor-PasskeyDemo - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 67 | 6 | 
 | 2022-11-24 | 67 | 6 | 
 | 2022-11-23 | 67 | 6 | 
 | 2022-11-22 | 66 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 65 | 5 | 
 | 2022-10-28 | 65 | 5 | 
 | 2022-10-27 | 65 | 5 | 
-| 2022-10-26 | 65 | 5 | 
 

@@ -1,6 +1,6 @@
 # aserowy/tmux.nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 293 | 15 | 
 | 2022-11-24 | 293 | 15 | 
 | 2022-11-23 | 293 | 15 | 
 | 2022-11-22 | 293 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 277 | 15 | 
 | 2022-10-28 | 277 | 15 | 
 | 2022-10-27 | 276 | 15 | 
-| 2022-10-26 | 274 | 15 | 
 

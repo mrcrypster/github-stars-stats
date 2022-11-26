@@ -1,6 +1,6 @@
 # dikshantrajput/Hacktoberfest-accepted-2022 - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 560
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 140 | 560 | 
 | 2022-11-24 | 140 | 560 | 
 | 2022-11-23 | 141 | 561 | 
 | 2022-11-22 | 141 | 561 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 153 | 567 | 
 | 2022-10-28 | 152 | 558 | 
 | 2022-10-27 | 144 | 544 | 
-| 2022-10-26 | 141 | 531 | 
 

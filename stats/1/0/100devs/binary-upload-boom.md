@@ -1,6 +1,6 @@
 # 100devs/binary-upload-boom - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 982
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 174 | 982 | 
 | 2022-11-24 | 174 | 982 | 
 | 2022-11-23 | 174 | 982 | 
 | 2022-11-22 | 174 | 979 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-30 | 167 | 969 | 
 | 2022-10-29 | 167 | 968 | 
 | 2022-10-28 | 167 | 968 | 
-| 2022-10-26 | 166 | 968 | 
 

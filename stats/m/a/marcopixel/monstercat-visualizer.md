@@ -1,6 +1,6 @@
 # marcopixel/monstercat-visualizer - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 98
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 771 | 98 | 
 | 2022-11-24 | 771 | 98 | 
 | 2022-11-23 | 771 | 97 | 
 | 2022-11-22 | 771 | 97 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 762 | 96 | 
 | 2022-10-28 | 761 | 96 | 
 | 2022-10-27 | 760 | 96 | 
-| 2022-10-26 | 758 | 96 | 
 

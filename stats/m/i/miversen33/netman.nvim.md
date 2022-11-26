@@ -1,6 +1,6 @@
 # miversen33/netman.nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 155 | - | 
 | 2022-11-24 | 155 | - | 
 | 2022-11-23 | 155 | - | 
 | 2022-11-22 | 155 | - | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 137 | - | 
 | 2022-10-28 | 137 | - | 
 | 2022-10-27 | 135 | - | 
-| 2022-10-26 | 134 | - | 
 

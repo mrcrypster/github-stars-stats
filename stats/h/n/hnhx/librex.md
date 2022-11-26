@@ -1,10 +1,10 @@
 # hnhx/librex - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 37
 
-★ Stars: 283
+★ Stars: 285
 
 [Open repository](https://github.com/hnhx/librex)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 285 | 37 | 
 | 2022-11-24 | 283 | 37 | 
 | 2022-11-23 | 283 | 36 | 
 | 2022-11-22 | 284 | 36 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 263 | 29 | 
 | 2022-10-28 | 263 | 28 | 
 | 2022-10-27 | 263 | 27 | 
-| 2022-10-26 | 260 | 26 | 
 

@@ -1,10 +1,10 @@
 # coder/code-server - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 4831
+☋ Forks: 4833
 
-★ Stars: 57762
+★ Stars: 57787
 
 [Open repository](https://github.com/coder/code-server)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 57787 | 4833 | 
 | 2022-11-24 | 57762 | 4831 | 
 | 2022-11-23 | 57741 | 4827 | 
 | 2022-11-22 | 57728 | 4827 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 57344 | 4788 | 
 | 2022-10-28 | 57330 | 4787 | 
 | 2022-10-27 | 57307 | 4783 | 
-| 2022-10-26 | 57291 | 4782 | 
 

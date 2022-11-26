@@ -1,10 +1,10 @@
 # awesomekling/ladybird - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 108
+☋ Forks: 109
 
-★ Stars: 1491
+★ Stars: 1493
 
 [Open repository](https://github.com/awesomekling/ladybird)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 1493 | 109 | 
 | 2022-11-24 | 1491 | 108 | 
 | 2022-11-23 | 1488 | 107 | 
 | 2022-11-22 | 1488 | 107 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 1358 | 96 | 
 | 2022-10-28 | 1353 | 96 | 
 | 2022-10-27 | 1352 | 96 | 
-| 2022-10-26 | 1348 | 96 | 
 

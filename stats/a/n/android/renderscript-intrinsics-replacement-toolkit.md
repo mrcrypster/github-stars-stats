@@ -1,10 +1,10 @@
 # android/renderscript-intrinsics-replacement-toolkit - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 60
+☋ Forks: 61
 
-★ Stars: 209
+★ Stars: 210
 
 [Open repository](https://github.com/android/renderscript-intrinsics-replacement-toolkit)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 210 | 61 | 
 | 2022-11-24 | 209 | 60 | 
 | 2022-11-23 | 208 | 60 | 
 | 2022-11-22 | 208 | 59 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 198 | 52 | 
 | 2022-10-28 | 198 | 52 | 
 | 2022-10-27 | 198 | 52 | 
-| 2022-10-26 | 197 | 52 | 
 

@@ -1,10 +1,10 @@
 # jesseweed/seti-ui - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 278
 
-★ Stars: 913
+★ Stars: 915
 
 [Open repository](https://github.com/jesseweed/seti-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 915 | 278 | 
 | 2022-11-25 | 913 | 278 | 
 | 2022-11-24 | 913 | 278 | 
 | 2022-11-23 | 913 | 278 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-29 | 911 | 277 | 
 | 2022-10-28 | 911 | 277 | 
 | 2022-10-27 | 911 | 277 | 
-| 2022-10-26 | 911 | 277 | 
 

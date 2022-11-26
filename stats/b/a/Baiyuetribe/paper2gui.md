@@ -1,10 +1,10 @@
 # Baiyuetribe/paper2gui - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 478
+☋ Forks: 500
 
-★ Stars: 6323
+★ Stars: 6397
 
 [Open repository](https://github.com/Baiyuetribe/paper2gui)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 6397 | 500 | 
 | 2022-11-24 | 6323 | 478 | 
 | 2022-11-23 | 6284 | 477 | 
 | 2022-11-22 | 6257 | 474 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 5636 | 432 | 
 | 2022-10-28 | 5623 | 430 | 
 | 2022-10-27 | 5612 | 427 | 
-| 2022-10-26 | 5586 | 424 | 
 

@@ -1,10 +1,10 @@
 # siqichen-usc/LeetCode-SQL-Summary - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 76
 
-★ Stars: 195
+★ Stars: 196
 
 [Open repository](https://github.com/siqichen-usc/LeetCode-SQL-Summary)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 196 | 76 | 
 | 2022-11-24 | 195 | 76 | 
 | 2022-11-23 | 195 | 76 | 
 | 2022-11-22 | 194 | 76 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 188 | 75 | 
 | 2022-10-28 | 188 | 75 | 
 | 2022-10-27 | 188 | 75 | 
-| 2022-10-26 | 188 | 75 | 
 

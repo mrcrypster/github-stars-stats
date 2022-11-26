@@ -1,10 +1,10 @@
 # wxWidgets/wxWidgets - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 1522
+☋ Forks: 1523
 
-★ Stars: 4727
+★ Stars: 4729
 
 [Open repository](https://github.com/wxWidgets/wxWidgets)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 4729 | 1523 | 
 | 2022-11-24 | 4727 | 1522 | 
 | 2022-11-23 | 4722 | 1521 | 
 | 2022-11-22 | 4722 | 1521 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 4671 | 1518 | 
 | 2022-10-28 | 4669 | 1519 | 
 | 2022-10-27 | 4666 | 1519 | 
-| 2022-10-26 | 4664 | 1519 | 
 

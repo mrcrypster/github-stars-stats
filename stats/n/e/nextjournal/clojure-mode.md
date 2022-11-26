@@ -1,10 +1,10 @@
 # nextjournal/clojure-mode - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 13
 
-★ Stars: 112
+★ Stars: 113
 
 [Open repository](https://github.com/nextjournal/clojure-mode)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 113 | 13 | 
 | 2022-11-24 | 112 | 13 | 
 | 2022-11-23 | 112 | 13 | 
 | 2022-11-22 | 112 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-30 | 112 | 13 | 
 | 2022-10-29 | 112 | 13 | 
 | 2022-10-28 | 112 | 13 | 
-| 2022-10-27 | 112 | 13 | 
 

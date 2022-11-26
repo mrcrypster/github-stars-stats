@@ -1,10 +1,10 @@
 # danger/danger - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 462
 
-★ Stars: 4970
+★ Stars: 4972
 
 [Open repository](https://github.com/danger/danger)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 4972 | 462 | 
 | 2022-11-24 | 4970 | 462 | 
 | 2022-11-23 | 4970 | 462 | 
 | 2022-11-22 | 4971 | 462 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 4955 | 463 | 
 | 2022-10-28 | 4954 | 463 | 
 | 2022-10-27 | 4954 | 463 | 
-| 2022-10-26 | 4954 | 463 | 
 

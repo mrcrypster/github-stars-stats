@@ -1,6 +1,6 @@
 # rhysd/clever-f.vim - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 909 | 43 | 
 | 2022-11-24 | 909 | 43 | 
 | 2022-11-23 | 908 | 43 | 
 | 2022-11-22 | 907 | 43 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 901 | 44 | 
 | 2022-10-28 | 901 | 44 | 
 | 2022-10-27 | 900 | 44 | 
-| 2022-10-26 | 900 | 44 | 
 

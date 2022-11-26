@@ -1,10 +1,10 @@
 # LeaVerou/color.js - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 59
 
-★ Stars: 1307
+★ Stars: 1309
 
 [Open repository](https://github.com/LeaVerou/color.js)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 1309 | 59 | 
 | 2022-11-24 | 1307 | 59 | 
 | 2022-11-23 | 1304 | 59 | 
 | 2022-11-22 | 1304 | 59 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 1266 | 55 | 
 | 2022-10-28 | 1264 | 55 | 
 | 2022-10-27 | 1264 | 55 | 
-| 2022-10-26 | 1262 | 55 | 
 

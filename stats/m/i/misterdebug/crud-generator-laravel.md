@@ -1,10 +1,10 @@
 # misterdebug/crud-generator-laravel - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 4
 
-★ Stars: 50
+★ Stars: 51
 
 [Open repository](https://github.com/misterdebug/crud-generator-laravel)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 51 | 4 | 
 | 2022-11-24 | 50 | 4 | 
 | 2022-11-23 | 50 | 4 | 
 | 2022-11-22 | 50 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 43 | 3 | 
 | 2022-10-28 | 43 | 3 | 
 | 2022-10-27 | 43 | 3 | 
-| 2022-10-26 | 42 | 3 | 
 

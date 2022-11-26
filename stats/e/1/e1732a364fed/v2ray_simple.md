@@ -1,6 +1,6 @@
 # e1732a364fed/v2ray_simple - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 90
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 433 | 90 | 
 | 2022-11-24 | 433 | 90 | 
 | 2022-11-23 | 433 | 90 | 
 | 2022-11-22 | 433 | 90 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 419 | 87 | 
 | 2022-10-28 | 418 | 87 | 
 | 2022-10-27 | 417 | 87 | 
-| 2022-10-26 | 411 | 87 | 
 

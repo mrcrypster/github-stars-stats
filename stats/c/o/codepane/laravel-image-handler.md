@@ -1,10 +1,10 @@
 # codepane/laravel-image-handler - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 3
 
-★ Stars: 40
+★ Stars: 42
 
 [Open repository](https://github.com/codepane/laravel-image-handler)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 42 | 3 | 
 | 2022-11-24 | 40 | 3 | 
 | 2022-11-23 | 39 | 3 | 
 | 2022-11-22 | 39 | 3 | 

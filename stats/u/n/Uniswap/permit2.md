@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 25
 
 ☋ Forks: 13
 
-★ Stars: 274
+★ Stars: 276
 
 [Open repository](https://github.com/Uniswap/permit2)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-25 | 274 | 13 | 
+| 2022-11-25 | 276 | 13 | 
 | 2022-11-24 | 273 | 13 | 
 | 2022-11-23 | 270 | 13 | 
 | 2022-11-22 | 268 | 13 | 

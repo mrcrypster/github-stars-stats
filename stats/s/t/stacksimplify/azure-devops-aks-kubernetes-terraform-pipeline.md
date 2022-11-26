@@ -1,8 +1,8 @@
 # stacksimplify/azure-devops-aks-kubernetes-terraform-pipeline - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 2045
+☋ Forks: 2051
 
 ★ Stars: 52
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 52 | 2051 | 
 | 2022-11-24 | 52 | 2045 | 
 | 2022-11-23 | 52 | 2040 | 
 | 2022-11-22 | 52 | 2037 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 50 | 1974 | 
 | 2022-10-28 | 50 | 1973 | 
 | 2022-10-27 | 49 | 1971 | 
-| 2022-10-26 | 49 | 1971 | 
 

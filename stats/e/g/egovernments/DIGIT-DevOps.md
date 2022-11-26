@@ -1,8 +1,8 @@
 # egovernments/DIGIT-DevOps - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 52
+☋ Forks: 53
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 5 | 53 | 
 | 2022-11-24 | 5 | 52 | 
 | 2022-11-23 | 5 | 52 | 
 | 2022-11-22 | 5 | 52 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 4 | 44 | 
 | 2022-10-28 | 4 | 43 | 
 | 2022-10-27 | 4 | 43 | 
-| 2022-10-26 | 4 | 43 | 
 

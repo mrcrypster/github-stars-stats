@@ -1,10 +1,10 @@
 # ldqk/ImageSearch - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 28
 
-★ Stars: 177
+★ Stars: 179
 
 [Open repository](https://github.com/ldqk/ImageSearch)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 179 | 28 | 
 | 2022-11-24 | 177 | 28 | 
 | 2022-11-23 | 175 | 28 | 
 | 2022-11-22 | 171 | 28 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 155 | 26 | 
 | 2022-10-28 | 155 | 26 | 
 | 2022-10-27 | 155 | 26 | 
-| 2022-10-26 | 155 | 26 | 
 

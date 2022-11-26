@@ -1,6 +1,6 @@
 # BirchKwok/spinesTS - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 54 | 9 | 
 | 2022-11-24 | 54 | 9 | 
 | 2022-11-23 | 54 | 9 | 
 | 2022-11-22 | 54 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-30 | 53 | 9 | 
 | 2022-10-29 | 53 | 9 | 
 | 2022-10-28 | 53 | 9 | 
-| 2022-10-27 | 53 | 9 | 
 

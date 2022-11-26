@@ -1,10 +1,8 @@
 # freezed-purple/localisationsim - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+☋ Forks: 
 
-☋ Forks: 1
-
-★ Stars: 30
+★ Stars: 
 
 [Open repository](https://github.com/freezed-purple/localisationsim)
 
@@ -13,5 +11,4 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-26 | 30 | 1 | 
 

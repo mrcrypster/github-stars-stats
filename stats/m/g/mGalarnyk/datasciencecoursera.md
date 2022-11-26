@@ -1,6 +1,6 @@
 # mGalarnyk/datasciencecoursera - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 2031
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 2094 | 2031 | 
 | 2022-11-24 | 2094 | 2031 | 
 | 2022-11-23 | 2094 | 2030 | 
 | 2022-11-22 | 2094 | 2029 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 2093 | 2021 | 
 | 2022-10-28 | 2091 | 2020 | 
 | 2022-10-27 | 2091 | 2019 | 
-| 2022-10-26 | 2091 | 2018 | 
 

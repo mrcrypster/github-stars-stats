@@ -1,6 +1,6 @@
 # HaveAGitGat/Tdarr - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 71
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 1774 | 71 | 
 | 2022-11-24 | 1774 | 71 | 
 | 2022-11-23 | 1774 | 71 | 
 | 2022-11-22 | 1774 | 71 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 1728 | 69 | 
 | 2022-10-28 | 1724 | 68 | 
 | 2022-10-27 | 1713 | 68 | 
-| 2022-10-26 | 1711 | 68 | 
 

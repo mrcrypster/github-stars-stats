@@ -1,10 +1,10 @@
 # kabinspace/AstroVim - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 412
+☋ Forks: 413
 
-★ Stars: 5658
+★ Stars: 5685
 
 [Open repository](https://github.com/kabinspace/AstroVim)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 5685 | 413 | 
 | 2022-11-24 | 5658 | 412 | 
 | 2022-11-23 | 5650 | 411 | 
 | 2022-11-22 | 5627 | 410 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 5263 | 383 | 
 | 2022-10-28 | 5239 | 381 | 
 | 2022-10-27 | 5219 | 383 | 
-| 2022-10-26 | 5190 | 383 | 
 

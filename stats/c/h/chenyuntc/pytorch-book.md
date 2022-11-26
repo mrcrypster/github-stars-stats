@@ -1,10 +1,10 @@
 # chenyuntc/pytorch-book - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 3596
+☋ Forks: 3597
 
-★ Stars: 10496
+★ Stars: 10497
 
 [Open repository](https://github.com/chenyuntc/pytorch-book)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 10497 | 3597 | 
 | 2022-11-24 | 10496 | 3596 | 
 | 2022-11-23 | 10493 | 3597 | 
 | 2022-11-22 | 10489 | 3595 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-30 | 10424 | 3590 | 
 | 2022-10-29 | 10419 | 3590 | 
 | 2022-10-28 | 10416 | 3590 | 
-| 2022-10-27 | 10415 | 3590 | 
 

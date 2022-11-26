@@ -1,6 +1,6 @@
 # MoeidHeidari/Machine_learning_jurnal - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 19 | - | 
 | 2022-11-24 | 19 | - | 
 | 2022-11-23 | 19 | - | 
 | 2022-11-22 | 19 | - | 

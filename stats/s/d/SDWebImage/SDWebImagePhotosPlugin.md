@@ -1,10 +1,10 @@
 # SDWebImage/SDWebImagePhotosPlugin - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 6
 
-★ Stars: 45
+★ Stars: 46
 
 [Open repository](https://github.com/SDWebImage/SDWebImagePhotosPlugin)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 46 | 6 | 
 | 2022-11-25 | 45 | 6 | 
 | 2022-11-24 | 45 | 6 | 
 | 2022-11-23 | 45 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-29 | 45 | 6 | 
 | 2022-10-28 | 45 | 6 | 
 | 2022-10-27 | 45 | 6 | 
-| 2022-10-26 | 45 | 6 | 
 

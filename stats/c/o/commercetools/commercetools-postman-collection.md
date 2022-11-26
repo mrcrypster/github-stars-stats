@@ -1,8 +1,8 @@
 # commercetools/commercetools-postman-collection - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 113
+☋ Forks: 114
 
 ★ Stars: 69
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 69 | 114 | 
 | 2022-11-24 | 69 | 113 | 
 | 2022-11-23 | 68 | 112 | 
 | 2022-11-22 | 68 | 112 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 65 | 108 | 
 | 2022-10-28 | 65 | 108 | 
 | 2022-10-27 | 65 | 108 | 
-| 2022-10-26 | 65 | 108 | 
 

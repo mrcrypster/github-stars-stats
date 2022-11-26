@@ -1,8 +1,8 @@
 # telatin/nextflow-example - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 6
+☋ Forks: 5
 
 ★ Stars: 47
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 47 | 5 | 
 | 2022-11-24 | 47 | 6 | 
 | 2022-11-23 | 47 | 6 | 
 | 2022-11-22 | 47 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-30 | 53 | 6 | 
 | 2022-10-29 | 53 | 6 | 
 | 2022-10-28 | 53 | 5 | 
-| 2022-10-27 | 53 | 5 | 
 

@@ -1,10 +1,10 @@
 # getferdi/ferdi - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 59
 
-★ Stars: 592
+★ Stars: 595
 
 [Open repository](https://github.com/getferdi/ferdi)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 595 | 59 | 
 | 2022-11-25 | 592 | 59 | 
 | 2022-11-24 | 590 | 59 | 
 | 2022-11-23 | 589 | 59 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-29 | 540 | 57 | 
 | 2022-10-28 | 539 | 57 | 
 | 2022-10-27 | 537 | 56 | 
-| 2022-10-26 | 534 | 56 | 
 

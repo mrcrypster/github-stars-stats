@@ -1,10 +1,10 @@
 # hunar4321/life_code - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 186
 
-★ Stars: 1644
+★ Stars: 1645
 
 [Open repository](https://github.com/hunar4321/life_code)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 1645 | 186 | 
 | 2022-11-24 | 1644 | 186 | 
 | 2022-11-23 | 1644 | 186 | 
 | 2022-11-22 | 1644 | 186 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-30 | 1618 | 180 | 
 | 2022-10-29 | 1618 | 180 | 
 | 2022-10-28 | 1617 | 180 | 
-| 2022-10-27 | 1615 | 180 | 
 

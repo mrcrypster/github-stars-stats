@@ -1,10 +1,10 @@
 # KurtBestor/Hitomi-Downloader - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
-☋ Forks: 1210
+☋ Forks: 1212
 
-★ Stars: 10757
+★ Stars: 10769
 
 [Open repository](https://github.com/KurtBestor/Hitomi-Downloader)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 10769 | 1212 | 
 | 2022-11-25 | 10757 | 1210 | 
 | 2022-11-24 | 10744 | 1208 | 
 | 2022-11-23 | 10738 | 1208 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-29 | 10404 | 1172 | 
 | 2022-10-28 | 10402 | 1173 | 
 | 2022-10-27 | 10389 | 1171 | 
-| 2022-10-26 | 10378 | 1169 | 
 

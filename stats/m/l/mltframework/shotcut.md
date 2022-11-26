@@ -1,10 +1,10 @@
 # mltframework/shotcut - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 836
 
-★ Stars: 7202
+★ Stars: 7207
 
 [Open repository](https://github.com/mltframework/shotcut)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 7207 | 836 | 
 | 2022-11-24 | 7202 | 836 | 
 | 2022-11-23 | 7199 | 836 | 
 | 2022-11-22 | 7194 | 836 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 7106 | 828 | 
 | 2022-10-28 | 7104 | 829 | 
 | 2022-10-27 | 7102 | 828 | 
-| 2022-10-26 | 7100 | 828 | 
 

@@ -1,8 +1,8 @@
 # Yubico/yubioath-flutter - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 102
+☋ Forks: 103
 
 ★ Stars: 680
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 680 | 103 | 
 | 2022-11-24 | 680 | 102 | 
 | 2022-11-23 | 681 | 102 | 
 | 2022-11-22 | 681 | 102 | 

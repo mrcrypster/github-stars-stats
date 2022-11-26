@@ -1,10 +1,10 @@
 # StefanTheCode/OptimizeMePlease - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 57
 
-★ Stars: 42
+★ Stars: 43
 
 [Open repository](https://github.com/StefanTheCode/OptimizeMePlease)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 43 | 57 | 
 | 2022-11-24 | 42 | 57 | 
 | 2022-11-23 | 42 | 57 | 
 | 2022-11-22 | 42 | 57 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 40 | 54 | 
 | 2022-10-28 | 40 | 54 | 
 | 2022-10-27 | 40 | 54 | 
-| 2022-10-26 | 40 | 53 | 
 

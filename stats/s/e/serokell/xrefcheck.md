@@ -1,10 +1,10 @@
 # serokell/xrefcheck - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 0
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/serokell/xrefcheck)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 30 | - | 
 | 2022-11-24 | 29 | - | 
 | 2022-11-23 | 29 | - | 
 | 2022-11-22 | 29 | - | 

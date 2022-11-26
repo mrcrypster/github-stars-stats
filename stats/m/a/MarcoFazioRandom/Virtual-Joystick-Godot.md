@@ -1,6 +1,6 @@
 # MarcoFazioRandom/Virtual-Joystick-Godot - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 286 | 32 | 
 | 2022-11-24 | 286 | 32 | 
 | 2022-11-23 | 285 | 32 | 
 | 2022-11-22 | 285 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 278 | 32 | 
 | 2022-10-28 | 278 | 32 | 
 | 2022-10-27 | 278 | 32 | 
-| 2022-10-26 | 277 | 32 | 
 

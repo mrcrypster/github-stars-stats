@@ -1,8 +1,8 @@
 # sefyudem/Sliding-Sign-In-Sign-Up-Form - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 617
+☋ Forks: 619
 
 ★ Stars: 649
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 649 | 619 | 
 | 2022-11-24 | 649 | 617 | 
 | 2022-11-23 | 647 | 617 | 
 | 2022-11-22 | 647 | 617 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 637 | 613 | 
 | 2022-10-28 | 637 | 613 | 
 | 2022-10-27 | 637 | 614 | 
-| 2022-10-26 | 637 | 614 | 
 

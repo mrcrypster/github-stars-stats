@@ -1,6 +1,6 @@
 # alex-sokolov2011/100_Numpy_exercises_Rus_ver - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 106 | 24 | 
 | 2022-11-24 | 106 | 24 | 
 | 2022-11-23 | 106 | 24 | 
 | 2022-11-22 | 106 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 98 | 23 | 
 | 2022-10-28 | 98 | 23 | 
 | 2022-10-27 | 98 | 23 | 
-| 2022-10-26 | 96 | 21 | 
 

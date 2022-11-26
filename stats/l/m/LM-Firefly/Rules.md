@@ -1,8 +1,8 @@
 # LM-Firefly/Rules - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 79
+☋ Forks: 80
 
 ★ Stars: 332
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 332 | 80 | 
 | 2022-11-24 | 332 | 79 | 
 | 2022-11-23 | 332 | 79 | 
 | 2022-11-22 | 332 | 79 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 323 | 78 | 
 | 2022-10-28 | 324 | 78 | 
 | 2022-10-27 | 323 | 78 | 
-| 2022-10-26 | 323 | 78 | 
 

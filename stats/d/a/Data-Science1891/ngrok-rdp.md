@@ -1,6 +1,6 @@
 # Data-Science1891/ngrok-rdp - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 9
 
@@ -13,5 +13,6 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 2 | 9 | 
 | 2022-11-24 | 2 | 9 | 
 

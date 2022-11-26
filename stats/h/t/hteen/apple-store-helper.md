@@ -1,10 +1,10 @@
 # hteen/apple-store-helper - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 110
 
-★ Stars: 705
+★ Stars: 707
 
 [Open repository](https://github.com/hteen/apple-store-helper)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 707 | 110 | 
 | 2022-11-24 | 705 | 110 | 
 | 2022-11-23 | 705 | 110 | 
 | 2022-11-22 | 705 | 110 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-30 | 700 | 107 | 
 | 2022-10-29 | 700 | 107 | 
 | 2022-10-27 | 699 | 107 | 
-| 2022-10-26 | 699 | 107 | 
 

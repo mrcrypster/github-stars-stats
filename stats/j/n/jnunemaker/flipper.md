@@ -1,10 +1,10 @@
 # jnunemaker/flipper - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 380
 
-★ Stars: 3099
+★ Stars: 3100
 
 [Open repository](https://github.com/jnunemaker/flipper)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 3100 | 380 | 
 | 2022-11-24 | 3099 | 380 | 
 | 2022-11-23 | 3099 | 380 | 
 | 2022-11-22 | 3098 | 380 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 3076 | 377 | 
 | 2022-10-28 | 3076 | 377 | 
 | 2022-10-27 | 3075 | 377 | 
-| 2022-10-26 | 3075 | 377 | 
 

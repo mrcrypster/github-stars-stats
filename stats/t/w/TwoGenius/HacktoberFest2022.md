@@ -1,8 +1,8 @@
 # TwoGenius/HacktoberFest2022 - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 122
+☋ Forks: 121
 
 ★ Stars: 28
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 28 | 121 | 
 | 2022-11-24 | 28 | 122 | 
 | 2022-11-23 | 28 | 122 | 
 | 2022-11-22 | 28 | 122 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 30 | 120 | 
 | 2022-10-28 | 29 | 119 | 
 | 2022-10-27 | 29 | 120 | 
-| 2022-10-26 | 29 | 118 | 
 

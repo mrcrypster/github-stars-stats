@@ -1,6 +1,6 @@
 # Malabarba/aggressive-indent-mode - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 760 | 36 | 
 | 2022-11-24 | 760 | 36 | 
 | 2022-11-23 | 759 | 36 | 
 | 2022-11-22 | 758 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 748 | 37 | 
 | 2022-10-28 | 747 | 37 | 
 | 2022-10-27 | 746 | 37 | 
-| 2022-10-26 | 745 | 37 | 
 

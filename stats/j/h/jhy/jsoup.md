@@ -1,10 +1,10 @@
 # jhy/jsoup - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 2059
 
-★ Stars: 9861
+★ Stars: 9863
 
 [Open repository](https://github.com/jhy/jsoup)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 9863 | 2059 | 
 | 2022-11-24 | 9861 | 2059 | 
 | 2022-11-23 | 9857 | 2060 | 
 | 2022-11-22 | 9853 | 2061 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 9811 | 2053 | 
 | 2022-10-28 | 9809 | 2053 | 
 | 2022-10-27 | 9805 | 2053 | 
-| 2022-10-26 | 9802 | 2053 | 
 

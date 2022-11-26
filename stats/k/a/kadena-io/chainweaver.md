@@ -1,8 +1,8 @@
 # kadena-io/chainweaver - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 30
+☋ Forks: 29
 
 ★ Stars: 57
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 57 | 29 | 
 | 2022-11-24 | 57 | 30 | 
 | 2022-11-23 | 57 | 30 | 
 | 2022-11-22 | 57 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 57 | 30 | 
 | 2022-10-28 | 57 | 30 | 
 | 2022-10-27 | 57 | 30 | 
-| 2022-10-26 | 57 | 30 | 
 

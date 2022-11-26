@@ -1,6 +1,6 @@
 # pangeo-data/pangeo-docker-images - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 80 | 62 | 
 | 2022-11-24 | 80 | 62 | 
 | 2022-11-23 | 80 | 62 | 
 | 2022-11-22 | 80 | 62 | 

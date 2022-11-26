@@ -1,10 +1,10 @@
 # rotemtzaban/STIT - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 140
+☋ Forks: 142
 
-★ Stars: 1029
+★ Stars: 1030
 
 [Open repository](https://github.com/rotemtzaban/STIT)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 1030 | 142 | 
 | 2022-11-24 | 1029 | 140 | 
 | 2022-11-23 | 1029 | 139 | 
 | 2022-11-22 | 1029 | 139 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 1021 | 138 | 
 | 2022-10-28 | 1021 | 138 | 
 | 2022-10-27 | 1021 | 138 | 
-| 2022-10-26 | 1021 | 138 | 
 

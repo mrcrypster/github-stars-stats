@@ -1,10 +1,10 @@
 # jafarlihi/rssnix - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 3
 
-★ Stars: 151
+★ Stars: 153
 
 [Open repository](https://github.com/jafarlihi/rssnix)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 153 | 3 | 
 | 2022-11-24 | 151 | 3 | 
 | 2022-11-23 | 149 | 2 | 
 | 2022-11-22 | 145 | 2 | 

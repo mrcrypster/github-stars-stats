@@ -1,6 +1,6 @@
 # Chudry/Xerror - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 100
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 422 | 100 | 
 | 2022-11-24 | 422 | 100 | 
 | 2022-11-23 | 422 | 100 | 
 | 2022-11-22 | 422 | 99 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 423 | 97 | 
 | 2022-10-28 | 423 | 97 | 
 | 2022-10-27 | 423 | 97 | 
-| 2022-10-26 | 423 | 97 | 
 

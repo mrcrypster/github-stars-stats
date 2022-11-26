@@ -1,6 +1,6 @@
 # tpkg/tpkg.github.com - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 3 | 1 | 
 | 2022-11-25 | 3 | 1 | 
 | 2022-11-24 | 3 | 1 | 
 | 2022-11-23 | 3 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-29 | 3 | 1 | 
 | 2022-10-28 | 3 | 1 | 
 | 2022-10-27 | 3 | 1 | 
-| 2022-10-26 | 3 | 1 | 
 

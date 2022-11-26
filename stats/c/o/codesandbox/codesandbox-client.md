@@ -1,10 +1,10 @@
 # codesandbox/codesandbox-client - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 2069
+☋ Forks: 2070
 
-★ Stars: 12037
+★ Stars: 12041
 
 [Open repository](https://github.com/codesandbox/codesandbox-client)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 12041 | 2070 | 
 | 2022-11-24 | 12037 | 2069 | 
 | 2022-11-23 | 12033 | 2068 | 
 | 2022-11-22 | 12031 | 2067 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 11967 | 2051 | 
 | 2022-10-28 | 11962 | 2049 | 
 | 2022-10-27 | 11963 | 2051 | 
-| 2022-10-26 | 11961 | 2049 | 
 

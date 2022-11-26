@@ -1,10 +1,10 @@
 # darkconsole/dse-display-model - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 2
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/darkconsole/dse-display-model)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 17 | 2 | 
 | 2022-11-24 | 16 | 2 | 
 | 2022-11-23 | 16 | 2 | 
 | 2022-11-22 | 16 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-30 | 16 | 2 | 
 | 2022-10-29 | 16 | 2 | 
 | 2022-10-28 | 16 | 2 | 
-| 2022-10-27 | 16 | 2 | 
 

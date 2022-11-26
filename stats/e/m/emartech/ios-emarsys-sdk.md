@@ -1,6 +1,6 @@
 # emartech/ios-emarsys-sdk - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 15 | 19 | 
 | 2022-11-24 | 15 | 19 | 
 | 2022-11-23 | 15 | 19 | 
 | 2022-11-22 | 15 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 15 | 18 | 
 | 2022-10-28 | 15 | 18 | 
 | 2022-10-27 | 15 | 18 | 
-| 2022-10-26 | 15 | 18 | 
 

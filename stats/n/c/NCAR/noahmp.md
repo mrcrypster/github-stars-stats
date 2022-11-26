@@ -1,6 +1,6 @@
 # NCAR/noahmp - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 24 | 30 | 
 | 2022-11-24 | 24 | 30 | 
 | 2022-11-23 | 24 | 30 | 
 | 2022-11-22 | 23 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 22 | 28 | 
 | 2022-10-28 | 22 | 28 | 
 | 2022-10-27 | 22 | 28 | 
-| 2022-10-26 | 22 | 28 | 
 

@@ -1,8 +1,8 @@
 # lemonchann/lemonchann.github.io - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 293
+☋ Forks: 294
 
 ★ Stars: 70
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 70 | 294 | 
 | 2022-11-24 | 70 | 293 | 
 | 2022-11-23 | 70 | 292 | 
 | 2022-11-22 | 70 | 292 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 62 | 281 | 
 | 2022-10-28 | 62 | 282 | 
 | 2022-10-27 | 62 | 281 | 
-| 2022-10-26 | 61 | 279 | 
 

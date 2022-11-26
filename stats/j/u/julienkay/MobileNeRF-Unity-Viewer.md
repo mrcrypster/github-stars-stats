@@ -1,10 +1,10 @@
 # julienkay/MobileNeRF-Unity-Viewer - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 24
 
-★ Stars: 237
+★ Stars: 240
 
 [Open repository](https://github.com/julienkay/MobileNeRF-Unity-Viewer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 240 | 24 | 
 | 2022-11-24 | 237 | 24 | 
 | 2022-11-23 | 237 | 24 | 
 | 2022-11-22 | 236 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 227 | 20 | 
 | 2022-10-28 | 227 | 20 | 
 | 2022-10-27 | 227 | 20 | 
-| 2022-10-26 | 224 | 20 | 
 

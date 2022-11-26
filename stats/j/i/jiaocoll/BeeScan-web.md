@@ -1,6 +1,6 @@
 # jiaocoll/BeeScan-web - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 268 | 42 | 
 | 2022-11-24 | 268 | 42 | 
 | 2022-11-23 | 267 | 42 | 
 | 2022-11-22 | 266 | 43 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 226 | 33 | 
 | 2022-10-28 | 226 | 33 | 
 | 2022-10-27 | 226 | 33 | 
-| 2022-10-26 | 226 | 33 | 
 

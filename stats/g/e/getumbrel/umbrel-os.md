@@ -1,6 +1,6 @@
 # getumbrel/umbrel-os - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 410 | 48 | 
 | 2022-11-24 | 410 | 48 | 
 | 2022-11-23 | 410 | 48 | 
 | 2022-11-22 | 410 | 48 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 406 | 49 | 
 | 2022-10-28 | 405 | 49 | 
 | 2022-10-27 | 405 | 49 | 
-| 2022-10-26 | 404 | 49 | 
 

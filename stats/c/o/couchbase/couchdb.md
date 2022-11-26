@@ -1,6 +1,6 @@
 # couchbase/couchdb - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 125 | 55 | 
 | 2022-11-24 | 125 | 55 | 
 | 2022-11-23 | 125 | 55 | 
 | 2022-11-22 | 125 | 55 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 125 | 55 | 
 | 2022-10-28 | 125 | 55 | 
 | 2022-10-27 | 125 | 55 | 
-| 2022-10-26 | 125 | 55 | 
 

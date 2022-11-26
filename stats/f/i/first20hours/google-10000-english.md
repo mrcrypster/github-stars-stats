@@ -1,8 +1,8 @@
 # first20hours/google-10000-english - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
-☋ Forks: 1920
+☋ Forks: 1921
 
 ★ Stars: 3381
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 3381 | 1921 | 
 | 2022-11-24 | 3381 | 1920 | 
 | 2022-11-23 | 3380 | 1918 | 
 | 2022-11-22 | 3376 | 1918 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 3363 | 1912 | 
 | 2022-10-28 | 3362 | 1913 | 
 | 2022-10-27 | 3360 | 1915 | 
-| 2022-10-26 | 3358 | 1916 | 
 

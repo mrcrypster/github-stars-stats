@@ -1,6 +1,6 @@
 # enkomio/AlanFramework - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 391 | 56 | 
 | 2022-11-24 | 391 | 56 | 
 | 2022-11-23 | 391 | 56 | 
 | 2022-11-22 | 391 | 56 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 387 | 55 | 
 | 2022-10-28 | 387 | 55 | 
 | 2022-10-27 | 387 | 55 | 
-| 2022-10-26 | 387 | 55 | 
 

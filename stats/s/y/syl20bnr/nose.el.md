@@ -1,6 +1,6 @@
 # syl20bnr/nose.el - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 6 | 6 | 
 | 2022-11-24 | 6 | 6 | 
 | 2022-11-23 | 5 | 6 | 
 | 2022-11-22 | 5 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 5 | 6 | 
 | 2022-10-28 | 5 | 6 | 
 | 2022-10-27 | 5 | 6 | 
-| 2022-10-26 | 5 | 6 | 
 

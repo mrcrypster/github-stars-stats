@@ -1,6 +1,6 @@
 # vthiery/cpp-statsd-client - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 43 | 14 | 
 | 2022-11-24 | 43 | 14 | 
 | 2022-11-23 | 43 | 14 | 
 | 2022-11-22 | 43 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 43 | 13 | 
 | 2022-10-28 | 43 | 13 | 
 | 2022-10-27 | 43 | 13 | 
-| 2022-10-26 | 43 | 12 | 
 

@@ -1,6 +1,6 @@
 # haskell-effectful/effectful - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 217 | 18 | 
 | 2022-11-25 | 217 | 18 | 
 | 2022-11-24 | 216 | 18 | 
 | 2022-11-23 | 216 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-29 | 206 | 16 | 
 | 2022-10-28 | 205 | 16 | 
 | 2022-10-27 | 204 | 16 | 
-| 2022-10-26 | 202 | 16 | 
 

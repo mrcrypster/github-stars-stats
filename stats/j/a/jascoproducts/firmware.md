@@ -1,6 +1,6 @@
 # jascoproducts/firmware - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 291 | 26 | 
 | 2022-11-24 | 291 | 26 | 
 | 2022-11-23 | 291 | 26 | 
 | 2022-11-22 | 289 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 285 | 26 | 
 | 2022-10-28 | 282 | 26 | 
 | 2022-10-27 | 281 | 26 | 
-| 2022-10-26 | 281 | 26 | 
 

@@ -1,6 +1,6 @@
 # vitaly-sazonov/kanban-rest - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 155
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 55 | 155 | 
 | 2022-11-24 | 55 | 155 | 
 | 2022-11-23 | 55 | 155 | 
 | 2022-11-22 | 55 | 151 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 55 | 117 | 
 | 2022-10-28 | 55 | 116 | 
 | 2022-10-27 | 55 | 114 | 
-| 2022-10-26 | 55 | 114 | 
 

@@ -1,6 +1,6 @@
 # DAOStartup/TheDAOProject - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 7 | 12 | 
 | 2022-11-25 | 7 | 12 | 
 | 2022-11-24 | 7 | 12 | 
 | 2022-11-23 | 7 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-29 | 6 | 12 | 
 | 2022-10-28 | 6 | 12 | 
 | 2022-10-27 | 6 | 12 | 
-| 2022-10-26 | 6 | 12 | 
 

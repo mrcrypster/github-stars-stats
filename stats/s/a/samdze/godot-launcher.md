@@ -1,6 +1,6 @@
 # samdze/godot-launcher - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 110 | 4 | 
 | 2022-11-25 | 110 | 4 | 
 | 2022-11-23 | 110 | 4 | 
 | 2022-11-22 | 110 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-29 | 107 | 4 | 
 | 2022-10-28 | 107 | 4 | 
 | 2022-10-27 | 107 | 4 | 
-| 2022-10-26 | 107 | 4 | 
 

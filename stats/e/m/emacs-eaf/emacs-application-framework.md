@@ -1,10 +1,10 @@
 # emacs-eaf/emacs-application-framework - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 202
 
-★ Stars: 2419
+★ Stars: 2422
 
 [Open repository](https://github.com/emacs-eaf/emacs-application-framework)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 2422 | 202 | 
 | 2022-11-24 | 2419 | 202 | 
 | 2022-11-23 | 2418 | 202 | 
 | 2022-11-22 | 2417 | 202 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 2384 | 196 | 
 | 2022-10-28 | 2383 | 195 | 
 | 2022-10-27 | 2379 | 195 | 
-| 2022-10-26 | 2375 | 195 | 
 

@@ -1,10 +1,10 @@
 # borkdude/deps.clj - stars & forks statistics
 
-Stats updated on Nov 2022, 24
+Stats updated on Nov 2022, 25
 
 ☋ Forks: 15
 
-★ Stars: 200
+★ Stars: 201
 
 [Open repository](https://github.com/borkdude/deps.clj)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-25 | 201 | 15 | 
 | 2022-11-24 | 200 | 15 | 
 | 2022-11-23 | 200 | 15 | 
 | 2022-11-22 | 200 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 24
 | 2022-10-29 | 196 | 13 | 
 | 2022-10-28 | 196 | 13 | 
 | 2022-10-27 | 196 | 13 | 
-| 2022-10-26 | 196 | 13 | 
 
