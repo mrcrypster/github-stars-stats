@@ -1,10 +1,10 @@
 # tektoncd/pipeline - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
-☋ Forks: 1592
+☋ Forks: 1591
 
-★ Stars: 7460
+★ Stars: 7461
 
 [Open repository](https://github.com/tektoncd/pipeline)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 7461 | 1591 | 
 | 2022-11-25 | 7460 | 1592 | 
 | 2022-11-24 | 7459 | 1592 | 
 | 2022-11-23 | 7455 | 1591 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 7416 | 1576 | 
 | 2022-10-29 | 7415 | 1577 | 
 | 2022-10-28 | 7413 | 1577 | 
-| 2022-10-27 | 7412 | 1576 | 
 

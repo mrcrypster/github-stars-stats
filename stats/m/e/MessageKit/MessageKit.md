@@ -1,6 +1,6 @@
 # MessageKit/MessageKit - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 1055
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 5355 | 1055 | 
 | 2022-11-25 | 5355 | 1055 | 
 | 2022-11-24 | 5353 | 1053 | 
 | 2022-11-23 | 5350 | 1053 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 5332 | 1051 | 
 | 2022-10-29 | 5332 | 1052 | 
 | 2022-10-28 | 5331 | 1052 | 
-| 2022-10-27 | 5330 | 1050 | 
 

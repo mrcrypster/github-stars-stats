@@ -1,6 +1,6 @@
 # jgillich/godot-snappy - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 22 | 3 | 
 | 2022-11-25 | 22 | 3 | 
 | 2022-11-24 | 22 | 3 | 
 | 2022-11-23 | 22 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 19 | 3 | 
 | 2022-10-29 | 19 | 3 | 
 | 2022-10-28 | 19 | 3 | 
-| 2022-10-27 | 19 | 3 | 
 

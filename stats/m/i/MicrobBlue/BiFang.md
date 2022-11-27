@@ -1,6 +1,6 @@
 # MicrobBlue/BiFang - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 217 | 41 | 
 | 2022-11-25 | 217 | 41 | 
 | 2022-11-24 | 216 | 41 | 
 | 2022-11-23 | 214 | 41 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 198 | 39 | 
 | 2022-10-29 | 198 | 39 | 
 | 2022-10-28 | 198 | 39 | 
-| 2022-10-27 | 198 | 39 | 
 

@@ -1,10 +1,10 @@
 # dfinity/ic - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 197
 
-★ Stars: 1162
+★ Stars: 1163
 
 [Open repository](https://github.com/dfinity/ic)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 1163 | 197 | 
 | 2022-11-25 | 1162 | 197 | 
 | 2022-11-24 | 1162 | 197 | 
 | 2022-11-23 | 1161 | 196 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 1149 | 189 | 
 | 2022-10-29 | 1149 | 189 | 
 | 2022-10-28 | 1149 | 189 | 
-| 2022-10-27 | 1149 | 189 | 
 

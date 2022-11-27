@@ -1,10 +1,10 @@
 # riti2409/DBMS_SQL-Notes - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 121
 
-★ Stars: 339
+★ Stars: 340
 
 [Open repository](https://github.com/riti2409/DBMS_SQL-Notes)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 340 | 121 | 
 | 2022-11-25 | 339 | 121 | 
 | 2022-11-24 | 339 | 121 | 
 | 2022-11-23 | 339 | 121 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 334 | 120 | 
 | 2022-10-29 | 334 | 120 | 
 | 2022-10-28 | 334 | 120 | 
-| 2022-10-27 | 333 | 120 | 
 

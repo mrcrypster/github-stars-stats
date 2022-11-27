@@ -1,6 +1,6 @@
 # dharmanshu9930/Website - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 293
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 24 | 293 | 
 | 2022-11-25 | 24 | 293 | 
 | 2022-11-24 | 24 | 293 | 
 | 2022-11-23 | 24 | 293 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 23 | 287 | 
 | 2022-10-29 | 22 | 276 | 
 | 2022-10-28 | 22 | 270 | 
-| 2022-10-27 | 22 | 264 | 
 

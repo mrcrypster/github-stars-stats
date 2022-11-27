@@ -1,6 +1,6 @@
 # jstedfast/MailKit - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 744
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 5076 | 744 | 
 | 2022-11-25 | 5076 | 744 | 
 | 2022-11-24 | 5074 | 743 | 
 | 2022-11-23 | 5072 | 743 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 5031 | 735 | 
 | 2022-10-29 | 5030 | 735 | 
 | 2022-10-28 | 5029 | 736 | 
-| 2022-10-27 | 5026 | 736 | 
 

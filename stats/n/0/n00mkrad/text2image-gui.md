@@ -1,6 +1,6 @@
 # n00mkrad/text2image-gui - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 251 | 35 | 
 | 2022-11-26 | 251 | 35 | 
 | 2022-11-24 | 251 | 35 | 
 | 2022-11-23 | 246 | 35 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-30 | 183 | 25 | 
 | 2022-10-29 | 179 | 25 | 
 | 2022-10-28 | 171 | 22 | 
-| 2022-10-27 | 169 | 20 | 
 

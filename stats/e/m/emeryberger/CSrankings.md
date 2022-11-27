@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 26
 
 ☋ Forks: 2196
 
-★ Stars: 1975
+★ Stars: 1977
 
 [Open repository](https://github.com/emeryberger/CSrankings)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-26 | 1975 | 2196 | 
+| 2022-11-26 | 1977 | 2196 | 
 | 2022-11-25 | 1975 | 2194 | 
 

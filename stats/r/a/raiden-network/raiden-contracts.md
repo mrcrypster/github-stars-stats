@@ -1,6 +1,6 @@
 # raiden-network/raiden-contracts - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 48 | 48 | 
 | 2022-11-25 | 48 | 48 | 
 | 2022-11-24 | 48 | 48 | 
 | 2022-11-23 | 48 | 48 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 48 | 48 | 
 | 2022-10-29 | 48 | 48 | 
 | 2022-10-28 | 48 | 48 | 
-| 2022-10-27 | 48 | 48 | 
 

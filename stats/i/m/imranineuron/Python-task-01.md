@@ -1,8 +1,8 @@
 # imranineuron/Python-task-01 - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
-☋ Forks: 36
+☋ Forks: 38
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 5 | 38 | 
 | 2022-11-25 | 5 | 36 | 
 | 2022-11-24 | 4 | 35 | 
 | 2022-11-23 | 4 | 35 | 

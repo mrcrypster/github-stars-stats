@@ -1,6 +1,6 @@
 # lewis6991/spellsitter.nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 446 | 24 | 
 | 2022-11-25 | 446 | 24 | 
 | 2022-11-24 | 446 | 24 | 
 | 2022-11-23 | 445 | 24 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 443 | 24 | 
 | 2022-10-29 | 443 | 24 | 
 | 2022-10-28 | 443 | 24 | 
-| 2022-10-27 | 443 | 24 | 
 

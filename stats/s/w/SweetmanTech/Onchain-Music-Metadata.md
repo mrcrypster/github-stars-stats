@@ -1,10 +1,10 @@
 # SweetmanTech/Onchain-Music-Metadata - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 1
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/SweetmanTech/Onchain-Music-Metadata)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 23 | 1 | 
 | 2022-11-25 | 22 | 1 | 
 | 2022-11-24 | 22 | 1 | 
 | 2022-11-23 | 22 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 22 | 1 | 
 | 2022-10-29 | 22 | 1 | 
 | 2022-10-28 | 22 | 1 | 
-| 2022-10-27 | 22 | 1 | 
 

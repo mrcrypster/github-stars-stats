@@ -1,10 +1,10 @@
 # grafana/phlare - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 42
 
-★ Stars: 1748
+★ Stars: 1750
 
 [Open repository](https://github.com/grafana/phlare)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 1750 | 42 | 
 | 2022-11-25 | 1748 | 42 | 
 | 2022-11-24 | 1748 | 41 | 
 | 2022-11-23 | 1745 | 38 | 

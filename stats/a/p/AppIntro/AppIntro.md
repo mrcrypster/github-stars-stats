@@ -1,6 +1,6 @@
 # AppIntro/AppIntro - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 1767
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 10252 | 1767 | 
 | 2022-11-25 | 10252 | 1767 | 
 | 2022-11-24 | 10251 | 1767 | 
 | 2022-11-23 | 10249 | 1766 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 10233 | 1765 | 
 | 2022-10-29 | 10233 | 1766 | 
 | 2022-10-28 | 10232 | 1766 | 
-| 2022-10-27 | 10233 | 1766 | 
 

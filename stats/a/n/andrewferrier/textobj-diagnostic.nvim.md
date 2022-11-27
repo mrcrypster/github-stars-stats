@@ -1,10 +1,10 @@
 # andrewferrier/textobj-diagnostic.nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 3
 
-★ Stars: 83
+★ Stars: 84
 
 [Open repository](https://github.com/andrewferrier/textobj-diagnostic.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 84 | 3 | 
 | 2022-11-26 | 83 | 3 | 
 | 2022-11-24 | 83 | 3 | 
 | 2022-11-23 | 83 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-30 | 82 | 3 | 
 | 2022-10-29 | 82 | 3 | 
 | 2022-10-28 | 82 | 3 | 
-| 2022-10-27 | 82 | 3 | 
 

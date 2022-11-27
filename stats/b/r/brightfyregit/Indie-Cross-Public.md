@@ -1,6 +1,6 @@
 # brightfyregit/Indie-Cross-Public - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 74
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 55 | 74 | 
 | 2022-11-25 | 55 | 74 | 
 | 2022-11-24 | 55 | 75 | 
 | 2022-11-23 | 55 | 74 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 51 | 71 | 
 | 2022-10-29 | 51 | 73 | 
 | 2022-10-28 | 51 | 73 | 
-| 2022-10-27 | 51 | 72 | 
 

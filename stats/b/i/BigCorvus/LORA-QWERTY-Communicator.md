@@ -1,6 +1,6 @@
 # BigCorvus/LORA-QWERTY-Communicator - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 141 | 7 | 
 | 2022-11-25 | 141 | 7 | 
 | 2022-11-24 | 140 | 7 | 
 | 2022-11-23 | 139 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 137 | 7 | 
 | 2022-10-29 | 137 | 7 | 
 | 2022-10-28 | 137 | 7 | 
-| 2022-10-27 | 137 | 7 | 
 

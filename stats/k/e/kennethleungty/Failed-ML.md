@@ -1,10 +1,10 @@
 # kennethleungty/Failed-ML - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 28
 
-★ Stars: 414
+★ Stars: 416
 
 [Open repository](https://github.com/kennethleungty/Failed-ML)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 416 | 28 | 
 | 2022-11-25 | 414 | 28 | 
 | 2022-11-24 | 407 | 28 | 
 | 2022-11-23 | 401 | 26 | 

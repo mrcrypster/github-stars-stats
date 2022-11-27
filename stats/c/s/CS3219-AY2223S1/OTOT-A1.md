@@ -1,6 +1,6 @@
 # CS3219-AY2223S1/OTOT-A1 - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 112
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | - | 112 | 
 | 2022-11-25 | - | 112 | 
 | 2022-11-24 | - | 112 | 
 | 2022-11-23 | - | 112 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | - | 98 | 
 | 2022-10-29 | - | 99 | 
 | 2022-10-28 | - | 99 | 
-| 2022-10-27 | - | 96 | 
 

@@ -1,10 +1,10 @@
 # nvim-pack/nvim-spectre - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 27
 
-★ Stars: 657
+★ Stars: 658
 
 [Open repository](https://github.com/nvim-pack/nvim-spectre)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 658 | 27 | 
 | 2022-11-25 | 657 | 27 | 
 | 2022-11-24 | 657 | 27 | 
 | 2022-11-23 | 654 | 27 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 614 | 26 | 
 | 2022-10-29 | 615 | 26 | 
 | 2022-10-28 | 614 | 26 | 
-| 2022-10-27 | 613 | 26 | 
 

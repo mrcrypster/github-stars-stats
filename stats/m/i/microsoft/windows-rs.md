@@ -1,10 +1,10 @@
 # microsoft/windows-rs - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 316
 
-★ Stars: 7533
+★ Stars: 7536
 
 [Open repository](https://github.com/microsoft/windows-rs)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 7536 | 316 | 
 | 2022-11-26 | 7533 | 316 | 
 | 2022-11-25 | 7531 | 315 | 
 | 2022-11-24 | 7529 | 315 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-30 | 7389 | 308 | 
 | 2022-10-29 | 7386 | 308 | 
 | 2022-10-28 | 7384 | 308 | 
-| 2022-10-27 | 7382 | 308 | 
 

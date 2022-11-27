@@ -1,10 +1,10 @@
 # monicahq/chandler - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 5
 
-★ Stars: 155
+★ Stars: 156
 
 [Open repository](https://github.com/monicahq/chandler)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 156 | 5 | 
 | 2022-11-25 | 155 | 5 | 
 | 2022-11-24 | 153 | 5 | 
 | 2022-11-23 | 152 | 5 | 

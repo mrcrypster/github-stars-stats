@@ -1,10 +1,10 @@
 # tobbelobb/hangprinter - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 100
 
-★ Stars: 449
+★ Stars: 450
 
 [Open repository](https://github.com/tobbelobb/hangprinter)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 450 | 100 | 
 | 2022-11-25 | 449 | 100 | 
 | 2022-11-24 | 449 | 100 | 
 | 2022-11-23 | 449 | 100 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 449 | 101 | 
 | 2022-10-29 | 449 | 101 | 
 | 2022-10-28 | 449 | 101 | 
-| 2022-10-27 | 449 | 101 | 
 

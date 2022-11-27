@@ -1,6 +1,6 @@
 # DeveloperAcademy-POSTECH/swift-style-guide - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 159 | 24 | 
 | 2022-11-25 | 159 | 24 | 
 | 2022-11-24 | 159 | 24 | 
 | 2022-11-23 | 159 | 24 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 152 | 20 | 
 | 2022-10-29 | 150 | 20 | 
 | 2022-10-28 | 150 | 20 | 
-| 2022-10-27 | 151 | 20 | 
 

@@ -1,10 +1,10 @@
 # iamthefrogy/frogy - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 111
 
-★ Stars: 552
+★ Stars: 553
 
 [Open repository](https://github.com/iamthefrogy/frogy)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 553 | 111 | 
 | 2022-11-25 | 552 | 111 | 
 | 2022-11-24 | 552 | 111 | 
 | 2022-11-23 | 551 | 111 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 533 | 106 | 
 | 2022-10-29 | 533 | 106 | 
 | 2022-10-28 | 533 | 106 | 
-| 2022-10-27 | 533 | 106 | 
 

@@ -1,10 +1,10 @@
 # akshat46/FlyingFox - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 82
 
-★ Stars: 1366
+★ Stars: 1365
 
 [Open repository](https://github.com/akshat46/FlyingFox)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 1365 | 82 | 
 | 2022-11-25 | 1366 | 82 | 
 | 2022-11-24 | 1366 | 82 | 
 | 2022-11-23 | 1366 | 81 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-31 | 1359 | 80 | 
 | 2022-10-30 | 1359 | 80 | 
 | 2022-10-29 | 1359 | 80 | 
-| 2022-10-28 | 1358 | 80 | 
 

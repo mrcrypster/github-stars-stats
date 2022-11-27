@@ -1,6 +1,6 @@
 # ahmedkhalf/project.nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 652 | 48 | 
 | 2022-11-25 | 652 | 48 | 
 | 2022-11-24 | 653 | 48 | 
 | 2022-11-23 | 652 | 48 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 630 | 47 | 
 | 2022-10-29 | 630 | 47 | 
 | 2022-10-28 | 628 | 47 | 
-| 2022-10-27 | 628 | 47 | 
 

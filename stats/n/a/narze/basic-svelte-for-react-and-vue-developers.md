@@ -1,6 +1,6 @@
 # narze/basic-svelte-for-react-and-vue-developers - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 10 | 2 | 
 | 2022-11-25 | 10 | 2 | 
 | 2022-11-24 | 10 | 2 | 
 | 2022-11-23 | 10 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 10 | 2 | 
 | 2022-10-29 | 10 | 2 | 
 | 2022-10-28 | 10 | 2 | 
-| 2022-10-27 | 10 | 2 | 
 

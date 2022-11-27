@@ -1,10 +1,10 @@
 # dotnet/reactive - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 673
 
-★ Stars: 5658
+★ Stars: 5660
 
 [Open repository](https://github.com/dotnet/reactive)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 5660 | 673 | 
 | 2022-11-25 | 5658 | 673 | 
 | 2022-11-24 | 5656 | 673 | 
 | 2022-11-23 | 5656 | 673 | 

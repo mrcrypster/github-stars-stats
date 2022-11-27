@@ -1,10 +1,10 @@
 # shijiaoliang/go-sensitive - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
-☋ Forks: 12
+☋ Forks: 13
 
-★ Stars: 97
+★ Stars: 101
 
 [Open repository](https://github.com/shijiaoliang/go-sensitive)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 101 | 13 | 
 | 2022-11-25 | 97 | 12 | 
 | 2022-11-24 | 95 | 12 | 
 | 2022-11-23 | 67 | 10 | 

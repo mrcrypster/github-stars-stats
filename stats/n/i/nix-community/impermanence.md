@@ -1,10 +1,10 @@
 # nix-community/impermanence - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 32
 
-★ Stars: 375
+★ Stars: 376
 
 [Open repository](https://github.com/nix-community/impermanence)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 376 | 32 | 
 | 2022-11-25 | 375 | 32 | 
 | 2022-11-24 | 374 | 32 | 
 | 2022-11-23 | 374 | 32 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 350 | 31 | 
 | 2022-10-29 | 350 | 31 | 
 | 2022-10-28 | 350 | 30 | 
-| 2022-10-27 | 350 | 29 | 
 

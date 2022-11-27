@@ -1,10 +1,10 @@
 # frmdstryr/zhp - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 18
 
-★ Stars: 222
+★ Stars: 223
 
 [Open repository](https://github.com/frmdstryr/zhp)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 223 | 18 | 
 | 2022-11-25 | 222 | 18 | 
 | 2022-11-24 | 221 | 17 | 
 | 2022-11-23 | 221 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 219 | 16 | 
 | 2022-10-29 | 219 | 16 | 
 | 2022-10-28 | 218 | 16 | 
-| 2022-10-27 | 218 | 16 | 
 

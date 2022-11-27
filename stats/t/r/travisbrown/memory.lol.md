@@ -1,10 +1,10 @@
 # travisbrown/memory.lol - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 14
 
-★ Stars: 271
+★ Stars: 272
 
 [Open repository](https://github.com/travisbrown/memory.lol)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 272 | 14 | 
 | 2022-11-26 | 271 | 14 | 
 | 2022-11-25 | 271 | 14 | 
 | 2022-11-24 | 271 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-30 | 266 | 15 | 
 | 2022-10-29 | 266 | 15 | 
 | 2022-10-28 | 266 | 15 | 
-| 2022-10-27 | 265 | 15 | 
 

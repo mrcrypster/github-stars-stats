@@ -1,10 +1,10 @@
 # Stephan-S/FS22_AutoDrive - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 89
 
-★ Stars: 437
+★ Stars: 438
 
 [Open repository](https://github.com/Stephan-S/FS22_AutoDrive)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 438 | 89 | 
 | 2022-11-25 | 437 | 89 | 
 | 2022-11-24 | 437 | 89 | 
 | 2022-11-23 | 437 | 89 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 431 | 87 | 
 | 2022-10-29 | 431 | 87 | 
 | 2022-10-28 | 431 | 87 | 
-| 2022-10-27 | 431 | 87 | 
 

@@ -1,10 +1,10 @@
 # widdix/mastodon-on-aws - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 10
 
-★ Stars: 44
+★ Stars: 46
 
 [Open repository](https://github.com/widdix/mastodon-on-aws)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 46 | 10 | 
 | 2022-11-25 | 44 | 10 | 
 | 2022-11-24 | 43 | 10 | 
 | 2022-11-23 | 41 | 9 | 

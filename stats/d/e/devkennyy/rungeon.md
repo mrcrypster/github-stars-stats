@@ -1,6 +1,6 @@
 # devkennyy/rungeon - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 16 | 19 | 
 | 2022-11-25 | 16 | 19 | 
 | 2022-11-24 | 16 | 19 | 
 | 2022-11-23 | 16 | 19 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 16 | 20 | 
 | 2022-10-29 | 16 | 20 | 
 | 2022-10-28 | 16 | 20 | 
-| 2022-10-27 | 16 | 20 | 
 

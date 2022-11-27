@@ -1,10 +1,10 @@
 # Discord-Custom-Covers/usrbg - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 135
 
-★ Stars: 332
+★ Stars: 331
 
 [Open repository](https://github.com/Discord-Custom-Covers/usrbg)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 331 | 135 | 
 | 2022-11-25 | 332 | 135 | 
 | 2022-11-24 | 333 | 135 | 
 | 2022-11-23 | 333 | 135 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 328 | 135 | 
 | 2022-10-29 | 328 | 135 | 
 | 2022-10-28 | 328 | 135 | 
-| 2022-10-27 | 328 | 135 | 
 

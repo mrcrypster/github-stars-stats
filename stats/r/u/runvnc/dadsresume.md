@@ -1,10 +1,10 @@
 # runvnc/dadsresume - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 25
 
-★ Stars: 1700
+★ Stars: 1702
 
 [Open repository](https://github.com/runvnc/dadsresume)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 1702 | 25 | 
 | 2022-11-25 | 1700 | 25 | 
 | 2022-11-24 | 1700 | 25 | 
 | 2022-11-23 | 1699 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 1617 | 24 | 
 | 2022-10-29 | 1597 | 23 | 
 | 2022-10-28 | 1555 | 22 | 
-| 2022-10-27 | 1544 | 21 | 
 

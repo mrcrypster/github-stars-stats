@@ -1,10 +1,10 @@
 # AzureAD/microsoft-authentication-library-for-js - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
-☋ Forks: 2245
+☋ Forks: 2248
 
-★ Stars: 2710
+★ Stars: 2711
 
 [Open repository](https://github.com/AzureAD/microsoft-authentication-library-for-js)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 2711 | 2248 | 
 | 2022-11-25 | 2710 | 2245 | 
 | 2022-11-24 | 2708 | 2244 | 
 | 2022-11-23 | 2705 | 2245 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 2654 | 2205 | 
 | 2022-10-29 | 2654 | 2204 | 
 | 2022-10-28 | 2654 | 2202 | 
-| 2022-10-27 | 2654 | 2196 | 
 

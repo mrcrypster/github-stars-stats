@@ -1,6 +1,6 @@
 # taozhi8833998/node-sql-parser - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 116
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 439 | 116 | 
 | 2022-11-25 | 439 | 116 | 
 | 2022-11-24 | 439 | 115 | 
 | 2022-11-23 | 439 | 115 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 429 | 111 | 
 | 2022-10-29 | 429 | 111 | 
 | 2022-10-28 | 429 | 111 | 
-| 2022-10-27 | 429 | 110 | 
 

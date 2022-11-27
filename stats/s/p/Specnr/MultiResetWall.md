@@ -1,10 +1,10 @@
 # Specnr/MultiResetWall - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 15
 
-★ Stars: 40
+★ Stars: 41
 
 [Open repository](https://github.com/Specnr/MultiResetWall)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 41 | 15 | 
 | 2022-11-25 | 40 | 15 | 
 | 2022-11-24 | 40 | 15 | 
 | 2022-11-23 | 40 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 36 | 13 | 
 | 2022-10-29 | 36 | 13 | 
 | 2022-10-28 | 36 | 12 | 
-| 2022-10-27 | 36 | 12 | 
 

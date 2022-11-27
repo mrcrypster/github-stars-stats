@@ -1,6 +1,6 @@
 # pyimgui/pyimgui - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 158
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 924 | 158 | 
 | 2022-11-25 | 924 | 158 | 
 | 2022-11-24 | 922 | 158 | 
 | 2022-11-23 | 922 | 158 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 903 | 157 | 
 | 2022-10-29 | 902 | 157 | 
 | 2022-10-28 | 901 | 156 | 
-| 2022-10-27 | 899 | 156 | 
 

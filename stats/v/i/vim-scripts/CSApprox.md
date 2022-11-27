@@ -1,6 +1,6 @@
 # vim-scripts/CSApprox - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 38 | 6 | 
 | 2022-11-25 | 38 | 6 | 
 | 2022-11-24 | 38 | 6 | 
 | 2022-11-23 | 38 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 38 | 6 | 
 | 2022-10-29 | 38 | 6 | 
 | 2022-10-28 | 38 | 6 | 
-| 2022-10-27 | 38 | 6 | 
 

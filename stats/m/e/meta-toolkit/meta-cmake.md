@@ -1,10 +1,10 @@
 # meta-toolkit/meta-cmake - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 4
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/meta-toolkit/meta-cmake)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 7 | 4 | 
 | 2022-11-25 | 6 | 4 | 
 | 2022-11-24 | 6 | 4 | 
 | 2022-11-23 | 6 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 6 | 4 | 
 | 2022-10-29 | 6 | 4 | 
 | 2022-10-28 | 6 | 4 | 
-| 2022-10-27 | 6 | 4 | 
 

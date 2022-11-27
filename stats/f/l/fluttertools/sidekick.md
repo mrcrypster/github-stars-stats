@@ -1,10 +1,10 @@
 # fluttertools/sidekick - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 70
 
-★ Stars: 1085
+★ Stars: 1087
 
 [Open repository](https://github.com/fluttertools/sidekick)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 1087 | 70 | 
 | 2022-11-25 | 1085 | 70 | 
 | 2022-11-24 | 1084 | 70 | 
 | 2022-11-23 | 1083 | 70 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 1059 | 70 | 
 | 2022-10-29 | 1057 | 70 | 
 | 2022-10-28 | 1057 | 70 | 
-| 2022-10-27 | 1057 | 70 | 
 

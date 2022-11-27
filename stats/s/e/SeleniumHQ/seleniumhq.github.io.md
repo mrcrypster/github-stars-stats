@@ -1,10 +1,10 @@
 # SeleniumHQ/seleniumhq.github.io - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 755
 
-★ Stars: 467
+★ Stars: 468
 
 [Open repository](https://github.com/SeleniumHQ/seleniumhq.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 468 | 755 | 
 | 2022-11-25 | 467 | 755 | 
 | 2022-11-24 | 466 | 751 | 
 | 2022-11-23 | 465 | 750 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 444 | 734 | 
 | 2022-10-29 | 444 | 734 | 
 | 2022-10-28 | 443 | 733 | 
-| 2022-10-27 | 443 | 732 | 
 

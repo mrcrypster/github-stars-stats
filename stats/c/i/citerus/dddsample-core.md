@@ -1,8 +1,8 @@
 # citerus/dddsample-core - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
-☋ Forks: 1309
+☋ Forks: 1308
 
 ★ Stars: 4193
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 4193 | 1308 | 
 | 2022-11-25 | 4193 | 1309 | 
 | 2022-11-24 | 4193 | 1309 | 
 | 2022-11-23 | 4193 | 1309 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 4162 | 1294 | 
 | 2022-10-29 | 4162 | 1294 | 
 | 2022-10-28 | 4162 | 1294 | 
-| 2022-10-27 | 4160 | 1294 | 
 

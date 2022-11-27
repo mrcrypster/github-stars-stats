@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 26
 
-☋ Forks: 7
+☋ Forks: 8
 
-★ Stars: 94
+★ Stars: 97
 
 [Open repository](https://github.com/HuolalaTech/hll-wp-glog)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-26 | 94 | 7 | 
+| 2022-11-26 | 97 | 8 | 
 | 2022-11-25 | 93 | 7 | 
 

@@ -1,10 +1,10 @@
 # tldr-pages/tldr - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 3487
 
-★ Stars: 41700
+★ Stars: 41702
 
 [Open repository](https://github.com/tldr-pages/tldr)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 41702 | 3487 | 
 | 2022-11-25 | 41700 | 3487 | 
 | 2022-11-24 | 41691 | 3487 | 
 | 2022-11-23 | 41678 | 3485 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 41296 | 3458 | 
 | 2022-10-29 | 41282 | 3457 | 
 | 2022-10-28 | 41263 | 3454 | 
-| 2022-10-27 | 41252 | 3452 | 
 

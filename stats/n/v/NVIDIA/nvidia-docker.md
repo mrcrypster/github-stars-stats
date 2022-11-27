@@ -1,6 +1,6 @@
 # NVIDIA/nvidia-docker - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 1988
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 15457 | 1988 | 
 | 2022-11-25 | 15457 | 1988 | 
 | 2022-11-24 | 15451 | 1988 | 
 | 2022-11-23 | 15449 | 1989 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 15330 | 1976 | 
 | 2022-10-29 | 15327 | 1976 | 
 | 2022-10-28 | 15326 | 1976 | 
-| 2022-10-27 | 15323 | 1976 | 
 

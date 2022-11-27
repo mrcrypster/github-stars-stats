@@ -1,10 +1,10 @@
 # channable/vaultenv - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 25
 
-★ Stars: 378
+★ Stars: 379
 
 [Open repository](https://github.com/channable/vaultenv)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 379 | 25 | 
 | 2022-11-25 | 378 | 25 | 
 | 2022-11-24 | 378 | 25 | 
 | 2022-11-23 | 378 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 374 | 25 | 
 | 2022-10-29 | 373 | 24 | 
 | 2022-10-28 | 373 | 24 | 
-| 2022-10-27 | 373 | 24 | 
 

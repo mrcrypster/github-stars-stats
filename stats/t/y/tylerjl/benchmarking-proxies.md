@@ -1,6 +1,6 @@
 # tylerjl/benchmarking-proxies - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 22 | 4 | 
 | 2022-11-25 | 22 | 4 | 
 | 2022-11-24 | 21 | 4 | 
 | 2022-11-23 | 21 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 20 | 3 | 
 | 2022-10-29 | 20 | 3 | 
 | 2022-10-28 | 20 | 3 | 
-| 2022-10-27 | 20 | 3 | 
 

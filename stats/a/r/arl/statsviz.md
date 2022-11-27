@@ -1,6 +1,6 @@
 # arl/statsviz - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 88
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 2594 | 88 | 
 | 2022-11-25 | 2594 | 88 | 
 | 2022-11-24 | 2580 | 88 | 
 | 2022-11-23 | 2580 | 88 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 2416 | 84 | 
 | 2022-10-29 | 2415 | 83 | 
 | 2022-10-28 | 2410 | 82 | 
-| 2022-10-27 | 2407 | 82 | 
 

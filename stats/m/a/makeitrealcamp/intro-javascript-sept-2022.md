@@ -1,6 +1,6 @@
 # makeitrealcamp/intro-javascript-sept-2022 - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 37 | 16 | 
 | 2022-11-25 | 37 | 16 | 
 | 2022-11-24 | 37 | 16 | 
 | 2022-11-23 | 37 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 36 | 16 | 
 | 2022-10-29 | 36 | 16 | 
 | 2022-10-28 | 36 | 16 | 
-| 2022-10-27 | 36 | 16 | 
 

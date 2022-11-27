@@ -1,6 +1,6 @@
 # niltea/hanarisa-button - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 13 | 1 | 
 | 2022-11-25 | 13 | 1 | 
 | 2022-11-24 | 13 | 1 | 
 | 2022-11-23 | 13 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 13 | 1 | 
 | 2022-10-29 | 13 | 1 | 
 | 2022-10-28 | 12 | 1 | 
-| 2022-10-27 | 12 | 1 | 
 

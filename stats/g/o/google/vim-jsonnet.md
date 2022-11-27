@@ -1,6 +1,6 @@
 # google/vim-jsonnet - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 141 | 31 | 
 | 2022-11-25 | 141 | 31 | 
 | 2022-11-24 | 141 | 31 | 
 | 2022-11-23 | 141 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 139 | 31 | 
 | 2022-10-29 | 139 | 31 | 
 | 2022-10-28 | 139 | 31 | 
-| 2022-10-27 | 139 | 31 | 
 

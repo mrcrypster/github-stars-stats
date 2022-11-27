@@ -1,6 +1,6 @@
 # Kamikaze94/WolfHUD - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 209
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 426 | 209 | 
 | 2022-11-25 | 426 | 209 | 
 | 2022-11-24 | 426 | 209 | 
 | 2022-11-23 | 426 | 209 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 426 | 211 | 
 | 2022-10-29 | 426 | 211 | 
 | 2022-10-28 | 426 | 212 | 
-| 2022-10-27 | 426 | 212 | 
 

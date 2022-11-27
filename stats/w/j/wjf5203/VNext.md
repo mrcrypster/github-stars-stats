@@ -1,10 +1,10 @@
 # wjf5203/VNext - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 42
 
-★ Stars: 453
+★ Stars: 454
 
 [Open repository](https://github.com/wjf5203/VNext)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 454 | 42 | 
 | 2022-11-25 | 453 | 42 | 
 | 2022-11-24 | 453 | 42 | 
 | 2022-11-23 | 453 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 442 | 38 | 
 | 2022-10-29 | 441 | 37 | 
 | 2022-10-28 | 440 | 37 | 
-| 2022-10-27 | 439 | 37 | 
 

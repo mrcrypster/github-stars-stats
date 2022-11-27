@@ -1,6 +1,6 @@
 # honjow/FEhViewer - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 1189 | 65 | 
 | 2022-11-25 | 1189 | 65 | 
 | 2022-11-24 | 1183 | 64 | 
 | 2022-11-23 | 1175 | 64 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 1029 | 56 | 
 | 2022-10-29 | 1024 | 56 | 
 | 2022-10-28 | 1021 | 56 | 
-| 2022-10-27 | 1016 | 56 | 
 

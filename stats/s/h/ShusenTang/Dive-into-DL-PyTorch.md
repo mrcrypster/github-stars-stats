@@ -1,10 +1,10 @@
 # ShusenTang/Dive-into-DL-PyTorch - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
-☋ Forks: 5032
+☋ Forks: 5035
 
-★ Stars: 15727
+★ Stars: 15733
 
 [Open repository](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 15733 | 5035 | 
 | 2022-11-25 | 15727 | 5032 | 
 | 2022-11-24 | 15728 | 5032 | 
 | 2022-11-23 | 15725 | 5032 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 15646 | 5012 | 
 | 2022-10-29 | 15641 | 5012 | 
 | 2022-10-28 | 15638 | 5012 | 
-| 2022-10-27 | 15628 | 5008 | 
 

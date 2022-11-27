@@ -1,6 +1,6 @@
 # ostis-ai/ostis-standard - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 13 | 32 | 
 | 2022-11-25 | 13 | 32 | 
 | 2022-11-24 | 13 | 32 | 
 | 2022-11-23 | 13 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 11 | 33 | 
 | 2022-10-29 | 9 | 33 | 
 | 2022-10-28 | 9 | 33 | 
-| 2022-10-27 | 9 | 33 | 
 

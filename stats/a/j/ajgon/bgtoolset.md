@@ -1,10 +1,10 @@
 # ajgon/bgtoolset - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 17
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/ajgon/bgtoolset)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 21 | 17 | 
 | 2022-11-25 | 20 | 17 | 
 | 2022-11-24 | 20 | 17 | 
 | 2022-11-23 | 20 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 16 | 11 | 
 | 2022-10-29 | 16 | 11 | 
 | 2022-10-28 | 16 | 11 | 
-| 2022-10-27 | 16 | 11 | 
 

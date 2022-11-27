@@ -1,10 +1,10 @@
 # smjonas/inc-rename.nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 3
 
-★ Stars: 235
+★ Stars: 237
 
 [Open repository](https://github.com/smjonas/inc-rename.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 237 | 3 | 
 | 2022-11-25 | 235 | 3 | 
 | 2022-11-24 | 234 | 3 | 
 | 2022-11-23 | 233 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 222 | 3 | 
 | 2022-10-29 | 220 | 3 | 
 | 2022-10-28 | 216 | 3 | 
-| 2022-10-27 | 207 | 3 | 
 

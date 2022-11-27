@@ -1,10 +1,10 @@
 # Inochi2D/inochi-session - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 9
 
-★ Stars: 61
+★ Stars: 62
 
 [Open repository](https://github.com/Inochi2D/inochi-session)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 62 | 9 | 
 | 2022-11-25 | 61 | 9 | 
 | 2022-11-24 | 61 | 9 | 
 | 2022-11-23 | 61 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 52 | 8 | 
 | 2022-10-29 | 51 | 7 | 
 | 2022-10-28 | 50 | 7 | 
-| 2022-10-27 | 48 | 7 | 
 

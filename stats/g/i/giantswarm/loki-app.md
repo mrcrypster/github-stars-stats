@@ -1,10 +1,10 @@
 # giantswarm/loki-app - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 3
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/giantswarm/loki-app)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 2 | 3 | 
 | 2022-11-25 | 1 | 3 | 
 | 2022-11-24 | 1 | 3 | 
 | 2022-11-23 | 1 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | - | 3 | 
 | 2022-10-29 | - | 3 | 
 | 2022-10-28 | - | 3 | 
-| 2022-10-27 | - | 3 | 
 

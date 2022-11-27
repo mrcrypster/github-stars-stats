@@ -1,10 +1,10 @@
 # apple/swift-evolution - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
-☋ Forks: 2314
+☋ Forks: 2313
 
-★ Stars: 13808
+★ Stars: 13810
 
 [Open repository](https://github.com/apple/swift-evolution)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 13810 | 2313 | 
 | 2022-11-25 | 13808 | 2314 | 
 | 2022-11-24 | 13807 | 2313 | 
 | 2022-11-23 | 13805 | 2312 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 13753 | 2303 | 
 | 2022-10-29 | 13752 | 2303 | 
 | 2022-10-28 | 13751 | 2302 | 
-| 2022-10-27 | 13747 | 2303 | 
 

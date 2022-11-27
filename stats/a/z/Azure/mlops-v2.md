@@ -1,6 +1,6 @@
 # Azure/mlops-v2 - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 212 | 61 | 
 | 2022-11-25 | 212 | 61 | 
 | 2022-11-24 | 211 | 61 | 
 | 2022-11-23 | 211 | 61 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 199 | 56 | 
 | 2022-10-29 | 199 | 56 | 
 | 2022-10-28 | 199 | 56 | 
-| 2022-10-27 | 199 | 56 | 
 

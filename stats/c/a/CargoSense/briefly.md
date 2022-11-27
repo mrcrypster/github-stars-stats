@@ -1,10 +1,10 @@
 # CargoSense/briefly - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 28
 
-★ Stars: 201
+★ Stars: 203
 
 [Open repository](https://github.com/CargoSense/briefly)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 203 | 28 | 
 | 2022-11-25 | 201 | 28 | 
 | 2022-11-24 | 201 | 28 | 
 | 2022-11-23 | 201 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-31 | 200 | 28 | 
 | 2022-10-30 | 200 | 28 | 
 | 2022-10-29 | 200 | 28 | 
-| 2022-10-28 | 200 | 28 | 
 

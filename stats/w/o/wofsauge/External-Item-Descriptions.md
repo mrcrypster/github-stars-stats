@@ -1,8 +1,8 @@
 # wofsauge/External-Item-Descriptions - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
-☋ Forks: 80
+☋ Forks: 81
 
 ★ Stars: 105
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 105 | 81 | 
 | 2022-11-25 | 105 | 80 | 
 | 2022-11-24 | 105 | 79 | 
 | 2022-11-23 | 104 | 79 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 98 | 77 | 
 | 2022-10-29 | 98 | 76 | 
 | 2022-10-28 | 98 | 76 | 
-| 2022-10-27 | 98 | 76 | 
 

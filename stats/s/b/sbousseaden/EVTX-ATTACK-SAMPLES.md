@@ -1,10 +1,10 @@
 # sbousseaden/EVTX-ATTACK-SAMPLES - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 341
 
-★ Stars: 1783
+★ Stars: 1784
 
 [Open repository](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 1784 | 341 | 
 | 2022-11-25 | 1783 | 341 | 
 | 2022-11-24 | 1781 | 340 | 
 | 2022-11-23 | 1781 | 340 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 1766 | 333 | 
 | 2022-10-29 | 1766 | 333 | 
 | 2022-10-28 | 1766 | 333 | 
-| 2022-10-27 | 1766 | 333 | 
 

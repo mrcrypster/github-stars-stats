@@ -1,6 +1,6 @@
 # status-im/nim-libp2p - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 187 | 37 | 
 | 2022-11-26 | 187 | 37 | 
 | 2022-11-25 | 186 | 37 | 
 | 2022-11-24 | 186 | 37 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-30 | 174 | 34 | 
 | 2022-10-29 | 174 | 34 | 
 | 2022-10-28 | 174 | 34 | 
-| 2022-10-27 | 174 | 34 | 
 

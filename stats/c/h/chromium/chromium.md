@@ -1,10 +1,10 @@
 # chromium/chromium - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
-☋ Forks: 5086
+☋ Forks: 5085
 
-★ Stars: 13510
+★ Stars: 13514
 
 [Open repository](https://github.com/chromium/chromium)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 13514 | 5085 | 
 | 2022-11-25 | 13510 | 5086 | 
 | 2022-11-24 | 13504 | 5083 | 
 | 2022-11-23 | 13493 | 5078 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 13323 | 5026 | 
 | 2022-10-29 | 13321 | 5025 | 
 | 2022-10-28 | 13310 | 5023 | 
-| 2022-10-27 | 13303 | 5020 | 
 

@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 26
 
 ☋ Forks: 21
 
-★ Stars: 181
+★ Stars: 186
 
 [Open repository](https://github.com/tweetback/tweetback)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-26 | 181 | 21 | 
+| 2022-11-26 | 186 | 21 | 
 | 2022-11-25 | 177 | 22 | 
 | 2022-11-24 | 161 | 18 | 
 | 2022-11-23 | 129 | 12 | 

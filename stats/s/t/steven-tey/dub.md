@@ -1,10 +1,10 @@
 # steven-tey/dub - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
-☋ Forks: 176
+☋ Forks: 177
 
-★ Stars: 3928
+★ Stars: 3942
 
 [Open repository](https://github.com/steven-tey/dub)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 3942 | 177 | 
 | 2022-11-25 | 3928 | 176 | 
 | 2022-11-24 | 3906 | 174 | 
 | 2022-11-23 | 3869 | 173 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 3500 | 149 | 
 | 2022-10-29 | 3485 | 148 | 
 | 2022-10-28 | 3477 | 148 | 
-| 2022-10-27 | 3467 | 146 | 
 

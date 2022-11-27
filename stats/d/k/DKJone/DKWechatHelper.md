@@ -1,10 +1,10 @@
 # DKJone/DKWechatHelper - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 323
 
-★ Stars: 1637
+★ Stars: 1640
 
 [Open repository](https://github.com/DKJone/DKWechatHelper)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 1640 | 323 | 
 | 2022-11-25 | 1637 | 323 | 
 | 2022-11-24 | 1636 | 322 | 
 | 2022-11-23 | 1635 | 322 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 1618 | 316 | 
 | 2022-10-29 | 1617 | 316 | 
 | 2022-10-28 | 1617 | 316 | 
-| 2022-10-27 | 1619 | 316 | 
 

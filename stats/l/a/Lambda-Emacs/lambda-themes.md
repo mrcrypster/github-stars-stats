@@ -1,6 +1,6 @@
 # Lambda-Emacs/lambda-themes - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 71 | 2 | 
 | 2022-11-26 | 71 | 2 | 
 | 2022-11-25 | 71 | 2 | 
 | 2022-11-24 | 70 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-30 | 63 | 2 | 
 | 2022-10-29 | 63 | 2 | 
 | 2022-10-28 | 63 | 2 | 
-| 2022-10-27 | 63 | 2 | 
 

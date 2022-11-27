@@ -1,6 +1,6 @@
 # weuz-github/FNF-OSEngine - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 112
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 48 | 112 | 
 | 2022-11-25 | 48 | 112 | 
 | 2022-11-24 | 48 | 111 | 
 | 2022-11-23 | 48 | 111 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 45 | 99 | 
 | 2022-10-29 | 44 | 99 | 
 | 2022-10-28 | 44 | 98 | 
-| 2022-10-27 | 44 | 98 | 
 

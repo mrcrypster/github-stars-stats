@@ -1,10 +1,10 @@
 # SelfExplainML/PiML-Toolbox - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 51
 
-★ Stars: 475
+★ Stars: 477
 
 [Open repository](https://github.com/SelfExplainML/PiML-Toolbox)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 477 | 51 | 
 | 2022-11-25 | 475 | 51 | 
 | 2022-11-24 | 475 | 51 | 
 | 2022-11-23 | 475 | 51 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 443 | 48 | 
 | 2022-10-29 | 441 | 47 | 
 | 2022-10-28 | 436 | 46 | 
-| 2022-10-27 | 436 | 46 | 
 

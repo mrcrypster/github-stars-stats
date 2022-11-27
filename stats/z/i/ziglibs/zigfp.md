@@ -1,10 +1,10 @@
 # ziglibs/zigfp - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 0
 
-★ Stars: 12
+★ Stars: 11
 
 [Open repository](https://github.com/ziglibs/zigfp)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 11 | - | 
 | 2022-11-25 | 12 | - | 
 | 2022-11-24 | 12 | - | 
 | 2022-11-23 | 12 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 12 | - | 
 | 2022-10-29 | 12 | - | 
 | 2022-10-28 | 12 | - | 
-| 2022-10-27 | 12 | - | 
 

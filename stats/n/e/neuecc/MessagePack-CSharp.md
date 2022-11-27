@@ -1,8 +1,8 @@
 # neuecc/MessagePack-CSharp - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
-☋ Forks: 589
+☋ Forks: 591
 
 ★ Stars: 4291
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 4291 | 591 | 
 | 2022-11-25 | 4291 | 589 | 
 | 2022-11-24 | 4287 | 589 | 
 | 2022-11-23 | 4287 | 588 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 4227 | 581 | 
 | 2022-10-29 | 4226 | 580 | 
 | 2022-10-28 | 4225 | 581 | 
-| 2022-10-27 | 4222 | 579 | 
 

@@ -1,10 +1,10 @@
 # bangpateng/inery - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 23
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/bangpateng/inery)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 17 | 23 | 
 | 2022-11-25 | 16 | 23 | 
 | 2022-11-24 | 16 | 23 | 
 | 2022-11-23 | 16 | 23 | 

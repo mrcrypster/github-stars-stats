@@ -1,8 +1,8 @@
 # objectionary/dejump - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
-☋ Forks: 2
+☋ Forks: 3
 
 ★ Stars: 9
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 9 | 3 | 
 | 2022-11-25 | 9 | 2 | 
 | 2022-11-24 | 9 | 2 | 
 | 2022-11-23 | 9 | 2 | 

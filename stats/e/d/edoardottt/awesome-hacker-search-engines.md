@@ -1,10 +1,10 @@
 # edoardottt/awesome-hacker-search-engines - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 294
 
-★ Stars: 3924
+★ Stars: 3932
 
 [Open repository](https://github.com/edoardottt/awesome-hacker-search-engines)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 3932 | 294 | 
 | 2022-11-25 | 3924 | 294 | 
 | 2022-11-24 | 3918 | 294 | 
 | 2022-11-23 | 3916 | 293 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 3753 | 280 | 
 | 2022-10-29 | 3747 | 280 | 
 | 2022-10-28 | 3742 | 281 | 
-| 2022-10-27 | 3736 | 281 | 
 

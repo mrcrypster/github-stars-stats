@@ -1,6 +1,6 @@
 # starikcetin/Eflatun.SceneReference - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 44 | 3 | 
 | 2022-11-25 | 44 | 3 | 
 | 2022-11-24 | 44 | 3 | 
 | 2022-11-23 | 44 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 37 | 2 | 
 | 2022-10-29 | 37 | 2 | 
 | 2022-10-28 | 37 | 2 | 
-| 2022-10-27 | 37 | 2 | 
 

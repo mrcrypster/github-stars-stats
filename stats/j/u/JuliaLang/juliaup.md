@@ -1,6 +1,6 @@
 # JuliaLang/juliaup - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 400 | 38 | 
 | 2022-11-25 | 400 | 38 | 
 | 2022-11-24 | 398 | 38 | 
 | 2022-11-23 | 398 | 38 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 381 | 34 | 
 | 2022-10-29 | 381 | 34 | 
 | 2022-10-28 | 381 | 34 | 
-| 2022-10-27 | 381 | 33 | 
 

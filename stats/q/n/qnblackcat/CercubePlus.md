@@ -1,8 +1,8 @@
 # qnblackcat/CercubePlus - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
-☋ Forks: 50
+☋ Forks: 51
 
 ★ Stars: 468
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 468 | 51 | 
 | 2022-11-25 | 468 | 50 | 
 | 2022-11-24 | 465 | 50 | 
 | 2022-11-23 | 463 | 49 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 421 | 45 | 
 | 2022-10-29 | 418 | 45 | 
 | 2022-10-28 | 412 | 45 | 
-| 2022-10-27 | 409 | 45 | 
 

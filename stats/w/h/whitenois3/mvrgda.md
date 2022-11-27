@@ -1,6 +1,6 @@
 # whitenois3/mvrgda - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 35 | - | 
 | 2022-11-25 | 35 | - | 
 | 2022-11-24 | 35 | - | 
 | 2022-11-23 | 35 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 36 | - | 
 | 2022-10-29 | 36 | - | 
 | 2022-10-28 | 36 | - | 
-| 2022-10-27 | 36 | - | 
 

@@ -1,10 +1,10 @@
 # StaticMania/hugo-apsho - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 30
 
-★ Stars: 64
+★ Stars: 63
 
 [Open repository](https://github.com/StaticMania/hugo-apsho)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 63 | 30 | 
 | 2022-11-25 | 64 | 30 | 
 | 2022-11-24 | 64 | 30 | 
 | 2022-11-23 | 63 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 59 | 30 | 
 | 2022-10-29 | 59 | 30 | 
 | 2022-10-28 | 59 | 30 | 
-| 2022-10-27 | 59 | 29 | 
 

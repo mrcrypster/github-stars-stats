@@ -1,10 +1,10 @@
 # adrianhajdin/project_web3_battle_game - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 39
 
-★ Stars: 168
+★ Stars: 169
 
 [Open repository](https://github.com/adrianhajdin/project_web3_battle_game)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 169 | 39 | 
 | 2022-11-25 | 168 | 39 | 
 | 2022-11-24 | 166 | 39 | 
 | 2022-11-23 | 164 | 39 | 

@@ -1,6 +1,6 @@
 # Plutonomicon/plutarch - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 100 | 56 | 
 | 2022-11-25 | 100 | 56 | 
 | 2022-11-24 | 99 | 56 | 
 | 2022-11-23 | 97 | 56 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 94 | 56 | 
 | 2022-10-29 | 94 | 56 | 
 | 2022-10-28 | 94 | 57 | 
-| 2022-10-27 | 94 | 57 | 
 

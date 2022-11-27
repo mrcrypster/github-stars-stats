@@ -1,10 +1,10 @@
 # flower-corp/lotusdb - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 99
 
-★ Stars: 1011
+★ Stars: 1013
 
 [Open repository](https://github.com/flower-corp/lotusdb)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 1013 | 99 | 
 | 2022-11-25 | 1011 | 99 | 
 | 2022-11-24 | 1011 | 99 | 
 | 2022-11-23 | 1008 | 99 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 996 | 99 | 
 | 2022-10-29 | 996 | 99 | 
 | 2022-10-28 | 993 | 99 | 
-| 2022-10-27 | 991 | 99 | 
 

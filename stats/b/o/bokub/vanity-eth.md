@@ -1,8 +1,8 @@
 # bokub/vanity-eth - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
-☋ Forks: 158
+☋ Forks: 160
 
 ★ Stars: 527
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 527 | 160 | 
 | 2022-11-25 | 527 | 158 | 
 | 2022-11-24 | 526 | 157 | 
 | 2022-11-23 | 526 | 156 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 516 | 152 | 
 | 2022-10-29 | 517 | 152 | 
 | 2022-10-28 | 517 | 152 | 
-| 2022-10-27 | 517 | 152 | 
 

@@ -1,6 +1,6 @@
 # avinash201199/weather-app - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 86
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 45 | 86 | 
 | 2022-11-25 | 45 | 86 | 
 | 2022-11-24 | 45 | 86 | 
 | 2022-11-23 | 45 | 86 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 44 | 89 | 
 | 2022-10-29 | 44 | 89 | 
 | 2022-10-28 | 44 | 88 | 
-| 2022-10-27 | 45 | 87 | 
 

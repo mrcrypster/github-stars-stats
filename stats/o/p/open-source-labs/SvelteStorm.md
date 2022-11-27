@@ -1,6 +1,6 @@
 # open-source-labs/SvelteStorm - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 97
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 888 | 97 | 
 | 2022-11-25 | 888 | 97 | 
 | 2022-11-24 | 887 | 97 | 
 | 2022-11-23 | 887 | 97 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 879 | 96 | 
 | 2022-10-29 | 877 | 96 | 
 | 2022-10-28 | 877 | 96 | 
-| 2022-10-27 | 873 | 96 | 
 

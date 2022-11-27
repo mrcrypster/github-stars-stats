@@ -1,10 +1,10 @@
 # hashicorp/go-multierror - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 110
 
-★ Stars: 1755
+★ Stars: 1757
 
 [Open repository](https://github.com/hashicorp/go-multierror)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 1757 | 110 | 
 | 2022-11-25 | 1755 | 110 | 
 | 2022-11-24 | 1755 | 110 | 
 | 2022-11-23 | 1755 | 110 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 1739 | 108 | 
 | 2022-10-29 | 1739 | 108 | 
 | 2022-10-28 | 1738 | 109 | 
-| 2022-10-27 | 1738 | 109 | 
 

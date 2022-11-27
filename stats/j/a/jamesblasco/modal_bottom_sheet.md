@@ -1,10 +1,10 @@
 # jamesblasco/modal_bottom_sheet - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
-☋ Forks: 263
+☋ Forks: 264
 
-★ Stars: 1446
+★ Stars: 1447
 
 [Open repository](https://github.com/jamesblasco/modal_bottom_sheet)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 1447 | 264 | 
 | 2022-11-25 | 1446 | 263 | 
 | 2022-11-24 | 1446 | 262 | 
 | 2022-11-23 | 1445 | 262 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-31 | 1428 | 258 | 
 | 2022-10-29 | 1428 | 258 | 
 | 2022-10-28 | 1428 | 258 | 
-| 2022-10-27 | 1429 | 257 | 
 

@@ -1,10 +1,10 @@
 # tjackenpacken/taskbar-groups - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 152
 
-★ Stars: 1910
+★ Stars: 1911
 
 [Open repository](https://github.com/tjackenpacken/taskbar-groups)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 1911 | 152 | 
 | 2022-11-25 | 1910 | 152 | 
 | 2022-11-24 | 1910 | 151 | 
 | 2022-11-23 | 1908 | 151 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 1887 | 149 | 
 | 2022-10-29 | 1886 | 149 | 
 | 2022-10-28 | 1886 | 149 | 
-| 2022-10-27 | 1887 | 149 | 
 

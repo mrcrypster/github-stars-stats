@@ -1,6 +1,6 @@
 # quran/quran_android - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 819
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 1563 | 819 | 
 | 2022-11-25 | 1563 | 819 | 
 | 2022-11-24 | 1563 | 819 | 
 | 2022-11-23 | 1563 | 819 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 1555 | 818 | 
 | 2022-10-29 | 1554 | 818 | 
 | 2022-10-28 | 1554 | 818 | 
-| 2022-10-27 | 1554 | 819 | 
 

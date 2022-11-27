@@ -1,8 +1,8 @@
 # WeAreMahsaAmini/FreeInternet - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
-☋ Forks: 53
+☋ Forks: 54
 
 ★ Stars: 344
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 344 | 54 | 
 | 2022-11-26 | 344 | 53 | 
 | 2022-11-24 | 342 | 53 | 
 | 2022-11-23 | 341 | 53 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-30 | 277 | 40 | 
 | 2022-10-29 | 270 | 39 | 
 | 2022-10-28 | 266 | 38 | 
-| 2022-10-27 | 262 | 38 | 
 

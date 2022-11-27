@@ -1,10 +1,10 @@
 # kylechui/nvim-surround - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 26
 
-★ Stars: 1032
+★ Stars: 1036
 
 [Open repository](https://github.com/kylechui/nvim-surround)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 1036 | 26 | 
 | 2022-11-26 | 1032 | 26 | 
 | 2022-11-25 | 1029 | 26 | 
 | 2022-11-24 | 1026 | 25 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-30 | 932 | 22 | 
 | 2022-10-29 | 923 | 22 | 
 | 2022-10-28 | 921 | 22 | 
-| 2022-10-27 | 919 | 21 | 
 

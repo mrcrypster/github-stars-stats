@@ -1,10 +1,10 @@
 # Fabayu/CP-Solutions-Algorithm - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 16
 
-★ Stars: 4
+★ Stars: 3
 
 [Open repository](https://github.com/Fabayu/CP-Solutions-Algorithm)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 3 | 16 | 
 | 2022-11-26 | 4 | 16 | 
 | 2022-11-24 | 4 | 16 | 
 | 2022-11-23 | 4 | 16 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-30 | 4 | 13 | 
 | 2022-10-29 | 4 | 13 | 
 | 2022-10-28 | 4 | 13 | 
-| 2022-10-27 | 4 | 13 | 
 

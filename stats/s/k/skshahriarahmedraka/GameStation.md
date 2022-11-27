@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 26
 
 ☋ Forks: 0
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/skshahriarahmedraka/GameStation)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-26 | 12 | - | 
+| 2022-11-26 | 13 | - | 
 | 2022-11-25 | 12 | - | 
 

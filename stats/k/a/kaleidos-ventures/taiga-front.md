@@ -1,6 +1,6 @@
 # kaleidos-ventures/taiga-front - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 131 | 50 | 
 | 2022-11-25 | 131 | 50 | 
 | 2022-11-24 | 131 | 50 | 
 | 2022-11-23 | 131 | 50 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 130 | 49 | 
 | 2022-10-29 | 130 | 49 | 
 | 2022-10-28 | 130 | 49 | 
-| 2022-10-27 | 130 | 49 | 
 

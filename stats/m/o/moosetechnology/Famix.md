@@ -1,6 +1,6 @@
 # moosetechnology/Famix - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 9 | 19 | 
 | 2022-11-26 | 9 | 19 | 
 | 2022-11-25 | 9 | 19 | 
 | 2022-11-24 | 9 | 19 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-30 | 8 | 18 | 
 | 2022-10-29 | 8 | 18 | 
 | 2022-10-28 | 8 | 18 | 
-| 2022-10-27 | 8 | 18 | 
 

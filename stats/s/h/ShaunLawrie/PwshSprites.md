@@ -1,10 +1,10 @@
 # ShaunLawrie/PwshSprites - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 4
 
-★ Stars: 172
+★ Stars: 173
 
 [Open repository](https://github.com/ShaunLawrie/PwshSprites)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 173 | 4 | 
 | 2022-11-25 | 172 | 4 | 
 | 2022-11-24 | 172 | 4 | 
 | 2022-11-23 | 171 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 28 | 2 | 
 | 2022-10-29 | 26 | 2 | 
 | 2022-10-28 | 26 | 2 | 
-| 2022-10-27 | 26 | 2 | 
 

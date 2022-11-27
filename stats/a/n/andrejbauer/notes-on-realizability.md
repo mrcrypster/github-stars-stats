@@ -1,10 +1,10 @@
 # andrejbauer/notes-on-realizability - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 4
 
-★ Stars: 48
+★ Stars: 49
 
 [Open repository](https://github.com/andrejbauer/notes-on-realizability)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 49 | 4 | 
 | 2022-11-25 | 48 | 4 | 
 | 2022-11-24 | 47 | 4 | 
 | 2022-11-23 | 46 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 46 | 4 | 
 | 2022-10-29 | 46 | 4 | 
 | 2022-10-28 | 46 | 4 | 
-| 2022-10-27 | 46 | 4 | 
 

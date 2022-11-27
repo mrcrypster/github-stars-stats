@@ -1,8 +1,8 @@
 # Tencent/matrix - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
-☋ Forks: 1677
+☋ Forks: 1678
 
 ★ Stars: 10435
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 10435 | 1678 | 
 | 2022-11-25 | 10435 | 1677 | 
 | 2022-11-24 | 10432 | 1676 | 
 | 2022-11-23 | 10431 | 1675 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 10372 | 1661 | 
 | 2022-10-29 | 10370 | 1661 | 
 | 2022-10-28 | 10370 | 1661 | 
-| 2022-10-27 | 10365 | 1660 | 
 

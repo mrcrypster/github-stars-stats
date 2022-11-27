@@ -1,10 +1,10 @@
 # hashicorp/learn-terraform-provision-eks-cluster - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 769
 
-★ Stars: 274
+★ Stars: 275
 
 [Open repository](https://github.com/hashicorp/learn-terraform-provision-eks-cluster)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 275 | 769 | 
 | 2022-11-25 | 274 | 769 | 
 | 2022-11-24 | 274 | 769 | 
 | 2022-11-23 | 274 | 769 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 269 | 744 | 
 | 2022-10-29 | 269 | 743 | 
 | 2022-10-28 | 269 | 743 | 
-| 2022-10-27 | 269 | 742 | 
 

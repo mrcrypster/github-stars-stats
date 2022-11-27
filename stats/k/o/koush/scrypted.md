@@ -1,10 +1,10 @@
 # koush/scrypted - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 94
 
-★ Stars: 1351
+★ Stars: 1357
 
 [Open repository](https://github.com/koush/scrypted)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 1357 | 94 | 
 | 2022-11-25 | 1351 | 94 | 
 | 2022-11-24 | 1344 | 93 | 
 | 2022-11-23 | 1340 | 93 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-31 | 1223 | 88 | 
 | 2022-10-30 | 1222 | 88 | 
 | 2022-10-29 | 1221 | 88 | 
-| 2022-10-28 | 1221 | 88 | 
 

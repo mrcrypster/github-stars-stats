@@ -1,10 +1,10 @@
 # exoscale/tools.project - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 0
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/exoscale/tools.project)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 24 | - | 
 | 2022-11-25 | 23 | - | 
 | 2022-11-24 | 23 | - | 
 | 2022-11-23 | 23 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 23 | - | 
 | 2022-10-29 | 23 | - | 
 | 2022-10-28 | 23 | - | 
-| 2022-10-27 | 23 | - | 
 

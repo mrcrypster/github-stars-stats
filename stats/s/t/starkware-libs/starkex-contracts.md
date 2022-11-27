@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 26
 
 ☋ Forks: 63
 
-★ Stars: 179
+★ Stars: 180
 
 [Open repository](https://github.com/starkware-libs/starkex-contracts)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-26 | 179 | 63 | 
+| 2022-11-26 | 180 | 63 | 
 | 2022-11-25 | 179 | 63 | 
 | 2022-11-24 | 178 | 63 | 
 

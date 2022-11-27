@@ -1,6 +1,6 @@
 # hahwul/dalfox - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 281
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 2170 | 281 | 
 | 2022-11-25 | 2170 | 281 | 
 | 2022-11-24 | 2168 | 280 | 
 | 2022-11-23 | 2163 | 280 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 2099 | 276 | 
 | 2022-10-29 | 2100 | 276 | 
 | 2022-10-28 | 2098 | 275 | 
-| 2022-10-27 | 2096 | 273 | 
 

@@ -1,10 +1,10 @@
 # Thomas-George-T/HackerRank-SQL-Challenges-Solutions - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 126
 
-★ Stars: 355
+★ Stars: 356
 
 [Open repository](https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 356 | 126 | 
 | 2022-11-25 | 355 | 126 | 
 | 2022-11-24 | 355 | 126 | 
 | 2022-11-23 | 355 | 126 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 343 | 124 | 
 | 2022-10-29 | 343 | 124 | 
 | 2022-10-28 | 342 | 124 | 
-| 2022-10-27 | 341 | 124 | 
 

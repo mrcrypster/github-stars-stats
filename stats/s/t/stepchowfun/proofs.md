@@ -1,6 +1,6 @@
 # stepchowfun/proofs - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 237 | 10 | 
 | 2022-11-26 | 237 | 10 | 
 | 2022-11-25 | 236 | 9 | 
 | 2022-11-23 | 236 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-30 | 234 | 9 | 
 | 2022-10-29 | 234 | 9 | 
 | 2022-10-28 | 234 | 9 | 
-| 2022-10-27 | 234 | 9 | 
 

@@ -1,10 +1,10 @@
 # patriciogonzalezvivo/lygia_unity_examples - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 1
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/patriciogonzalezvivo/lygia_unity_examples)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 21 | 1 | 
 | 2022-11-25 | 20 | 1 | 
 | 2022-11-24 | 20 | 1 | 
 | 2022-11-23 | 19 | 1 | 

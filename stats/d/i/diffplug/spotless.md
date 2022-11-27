@@ -1,10 +1,10 @@
 # diffplug/spotless - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
-☋ Forks: 336
+☋ Forks: 337
 
-★ Stars: 2983
+★ Stars: 2985
 
 [Open repository](https://github.com/diffplug/spotless)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 2985 | 337 | 
 | 2022-11-25 | 2983 | 336 | 
 | 2022-11-24 | 2979 | 335 | 
 | 2022-11-23 | 2978 | 334 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 2937 | 327 | 
 | 2022-10-29 | 2934 | 328 | 
 | 2022-10-28 | 2934 | 328 | 
-| 2022-10-27 | 2932 | 328 | 
 

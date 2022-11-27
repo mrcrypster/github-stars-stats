@@ -1,6 +1,6 @@
 # sbuslab/persistent-stash - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 0
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 3 | - | 
+| 2022-11-26 | 3 | - | 
 | 2022-11-25 | 3 | - | 
 | 2022-11-24 | 3 | - | 
 | 2022-11-23 | 3 | - | 
@@ -41,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 2 | - | 
 | 2022-10-29 | 2 | - | 
 | 2022-10-28 | 2 | - | 
-| 2022-10-27 | 2 | - | 
 

@@ -1,10 +1,10 @@
 # Ranchero-Software/NetNewsWire - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
-☋ Forks: 431
+☋ Forks: 430
 
-★ Stars: 6208
+★ Stars: 6210
 
 [Open repository](https://github.com/Ranchero-Software/NetNewsWire)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 6210 | 430 | 
 | 2022-11-25 | 6208 | 431 | 
 | 2022-11-24 | 6205 | 431 | 
 | 2022-11-23 | 6201 | 431 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 6125 | 429 | 
 | 2022-10-29 | 6124 | 430 | 
 | 2022-10-28 | 6121 | 430 | 
-| 2022-10-27 | 6120 | 430 | 
 

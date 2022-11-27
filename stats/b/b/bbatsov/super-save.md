@@ -1,6 +1,6 @@
 # bbatsov/super-save - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 252 | 23 | 
 | 2022-11-25 | 252 | 23 | 
 | 2022-11-24 | 252 | 23 | 
 | 2022-11-23 | 252 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 251 | 23 | 
 | 2022-10-29 | 251 | 23 | 
 | 2022-10-28 | 251 | 23 | 
-| 2022-10-27 | 250 | 23 | 
 

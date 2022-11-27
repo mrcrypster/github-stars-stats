@@ -1,10 +1,10 @@
 # dokan-dev/dokany - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 597
 
-★ Stars: 4494
+★ Stars: 4499
 
 [Open repository](https://github.com/dokan-dev/dokany)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 4499 | 597 | 
 | 2022-11-25 | 4494 | 597 | 
 | 2022-11-24 | 4493 | 597 | 
 | 2022-11-23 | 4492 | 597 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 4457 | 595 | 
 | 2022-10-29 | 4453 | 595 | 
 | 2022-10-28 | 4452 | 595 | 
-| 2022-10-27 | 4452 | 595 | 
 

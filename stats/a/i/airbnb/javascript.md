@@ -1,10 +1,10 @@
 # airbnb/javascript - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
-☋ Forks: 24580
+☋ Forks: 24585
 
-★ Stars: 128994
+★ Stars: 129048
 
 [Open repository](https://github.com/airbnb/javascript)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 129048 | 24585 | 
 | 2022-11-25 | 128994 | 24580 | 
 | 2022-11-24 | 128899 | 24572 | 
 | 2022-11-23 | 128876 | 24570 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 128222 | 24435 | 
 | 2022-10-29 | 128212 | 24436 | 
 | 2022-10-28 | 128174 | 24435 | 
-| 2022-10-27 | 128103 | 24424 | 
 

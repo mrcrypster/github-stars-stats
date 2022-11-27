@@ -1,6 +1,6 @@
 # schoeberl/chisel-book - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 110
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 512 | 110 | 
 | 2022-11-25 | 512 | 110 | 
 | 2022-11-24 | 511 | 110 | 
 | 2022-11-23 | 510 | 110 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 502 | 109 | 
 | 2022-10-29 | 502 | 109 | 
 | 2022-10-28 | 502 | 109 | 
-| 2022-10-27 | 501 | 109 | 
 

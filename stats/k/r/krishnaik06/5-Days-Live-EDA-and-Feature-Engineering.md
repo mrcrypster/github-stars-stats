@@ -1,8 +1,8 @@
 # krishnaik06/5-Days-Live-EDA-and-Feature-Engineering - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
-☋ Forks: 141
+☋ Forks: 142
 
 ★ Stars: 100
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 100 | 142 | 
 | 2022-11-26 | 100 | 141 | 
 | 2022-11-25 | 100 | 141 | 
 | 2022-11-24 | 100 | 140 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-30 | 96 | 131 | 
 | 2022-10-29 | 96 | 132 | 
 | 2022-10-28 | 94 | 131 | 
-| 2022-10-27 | 94 | 131 | 
 

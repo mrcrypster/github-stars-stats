@@ -1,6 +1,6 @@
 # CargoSense/absinthe_client - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 45 | - | 
 | 2022-11-25 | 45 | - | 
 | 2022-11-24 | 45 | - | 
 | 2022-11-23 | 45 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 44 | - | 
 | 2022-10-29 | 44 | - | 
 | 2022-10-28 | 42 | - | 
-| 2022-10-27 | 42 | - | 
 

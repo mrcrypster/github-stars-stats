@@ -1,8 +1,8 @@
 # harness/drone - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
-☋ Forks: 2553
+☋ Forks: 2554
 
 ★ Stars: 26095
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 26095 | 2554 | 
 | 2022-11-25 | 26095 | 2553 | 
 | 2022-11-24 | 26090 | 2553 | 
 | 2022-11-23 | 26085 | 2552 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 25926 | 2539 | 
 | 2022-10-29 | 25926 | 2540 | 
 | 2022-10-28 | 25925 | 2541 | 
-| 2022-10-27 | 25918 | 2540 | 
 

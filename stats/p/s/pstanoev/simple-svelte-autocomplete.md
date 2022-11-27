@@ -1,10 +1,10 @@
 # pstanoev/simple-svelte-autocomplete - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 72
 
-★ Stars: 344
+★ Stars: 347
 
 [Open repository](https://github.com/pstanoev/simple-svelte-autocomplete)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 347 | 72 | 
 | 2022-11-25 | 344 | 72 | 
 | 2022-11-24 | 344 | 72 | 
 | 2022-11-23 | 344 | 72 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 339 | 72 | 
 | 2022-10-29 | 339 | 72 | 
 | 2022-10-28 | 339 | 71 | 
-| 2022-10-27 | 337 | 71 | 
 

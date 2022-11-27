@@ -1,6 +1,6 @@
 # allegro/bigcache - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 525
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 6147 | 525 | 
 | 2022-11-25 | 6147 | 525 | 
 | 2022-11-24 | 6146 | 524 | 
 | 2022-11-23 | 6144 | 524 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 6093 | 521 | 
 | 2022-10-29 | 6092 | 522 | 
 | 2022-10-28 | 6086 | 522 | 
-| 2022-10-27 | 6079 | 522 | 
 

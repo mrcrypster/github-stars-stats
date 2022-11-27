@@ -1,10 +1,10 @@
 # yhirose/cpp-httplib - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 1711
 
-★ Stars: 8144
+★ Stars: 8146
 
 [Open repository](https://github.com/yhirose/cpp-httplib)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 8146 | 1711 | 
 | 2022-11-25 | 8144 | 1711 | 
 | 2022-11-24 | 8139 | 1710 | 
 | 2022-11-23 | 8129 | 1709 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 8002 | 1672 | 
 | 2022-10-29 | 8000 | 1672 | 
 | 2022-10-28 | 7991 | 1670 | 
-| 2022-10-27 | 7987 | 1668 | 
 

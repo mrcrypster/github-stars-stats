@@ -1,6 +1,6 @@
 # unhackedctf/schnoodle - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 20 | 10 | 
 | 2022-11-25 | 20 | 10 | 
 | 2022-11-24 | 20 | 10 | 
 | 2022-11-23 | 20 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 20 | 11 | 
 | 2022-10-29 | 20 | 11 | 
 | 2022-10-28 | 19 | 11 | 
-| 2022-10-27 | 19 | 11 | 
 

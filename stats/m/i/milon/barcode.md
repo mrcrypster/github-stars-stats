@@ -1,6 +1,6 @@
 # milon/barcode - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 287
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 1077 | 287 | 
 | 2022-11-25 | 1077 | 287 | 
 | 2022-11-24 | 1076 | 287 | 
 | 2022-11-23 | 1076 | 287 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 1060 | 286 | 
 | 2022-10-29 | 1060 | 286 | 
 | 2022-10-28 | 1059 | 286 | 
-| 2022-10-27 | 1059 | 286 | 
 

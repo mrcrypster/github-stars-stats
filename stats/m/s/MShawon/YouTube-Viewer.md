@@ -1,8 +1,8 @@
 # MShawon/YouTube-Viewer - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
-☋ Forks: 536
+☋ Forks: 537
 
 ★ Stars: 834
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 834 | 537 | 
 | 2022-11-25 | 834 | 536 | 
 | 2022-11-24 | 832 | 535 | 
 | 2022-11-23 | 830 | 535 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 794 | 515 | 
 | 2022-10-29 | 791 | 514 | 
 | 2022-10-28 | 788 | 513 | 
-| 2022-10-27 | 787 | 511 | 
 

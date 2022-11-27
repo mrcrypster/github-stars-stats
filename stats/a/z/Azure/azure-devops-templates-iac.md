@@ -1,6 +1,6 @@
 # Azure/azure-devops-templates-iac - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 17 | 3 | 
 | 2022-11-25 | 17 | 3 | 
 | 2022-11-24 | 17 | 3 | 
 | 2022-11-23 | 17 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 9 | - | 
 | 2022-10-29 | 9 | - | 
 | 2022-10-28 | 9 | - | 
-| 2022-10-27 | 9 | - | 
 

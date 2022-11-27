@@ -1,10 +1,10 @@
 # mermaid-js/mermaid - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
-☋ Forks: 4000
+☋ Forks: 4003
 
-★ Stars: 51653
+★ Stars: 51677
 
 [Open repository](https://github.com/mermaid-js/mermaid)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 51677 | 4003 | 
 | 2022-11-25 | 51653 | 4000 | 
 | 2022-11-24 | 51637 | 4001 | 
 | 2022-11-23 | 51577 | 3999 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 50902 | 3957 | 
 | 2022-10-29 | 50891 | 3957 | 
 | 2022-10-28 | 50870 | 3954 | 
-| 2022-10-27 | 50857 | 3954 | 
 

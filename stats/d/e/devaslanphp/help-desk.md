@@ -1,6 +1,6 @@
 # devaslanphp/help-desk - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 137 | 30 | 
 | 2022-11-25 | 137 | 30 | 
 | 2022-11-24 | 137 | 31 | 
 | 2022-11-23 | 136 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 131 | 29 | 
 | 2022-10-29 | 130 | 29 | 
 | 2022-10-28 | 130 | 29 | 
-| 2022-10-27 | 130 | 29 | 
 

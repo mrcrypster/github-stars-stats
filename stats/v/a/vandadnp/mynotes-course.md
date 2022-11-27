@@ -1,6 +1,6 @@
 # vandadnp/mynotes-course - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 117
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 279 | 117 | 
 | 2022-11-25 | 279 | 117 | 
 | 2022-11-24 | 279 | 117 | 
 | 2022-11-23 | 278 | 115 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 259 | 106 | 
 | 2022-10-29 | 259 | 106 | 
 | 2022-10-28 | 258 | 106 | 
-| 2022-10-27 | 257 | 104 | 
 

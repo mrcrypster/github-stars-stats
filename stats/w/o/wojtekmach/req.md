@@ -1,6 +1,6 @@
 # wojtekmach/req - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 418 | 38 | 
 | 2022-11-25 | 418 | 38 | 
 | 2022-11-24 | 418 | 38 | 
 | 2022-11-23 | 418 | 38 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 404 | 36 | 
 | 2022-10-29 | 404 | 36 | 
 | 2022-10-28 | 402 | 35 | 
-| 2022-10-27 | 401 | 35 | 
 

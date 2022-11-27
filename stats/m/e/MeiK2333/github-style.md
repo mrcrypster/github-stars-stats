@@ -1,6 +1,6 @@
 # MeiK2333/github-style - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 108
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 356 | 108 | 
 | 2022-11-26 | 356 | 108 | 
 | 2022-11-25 | 355 | 108 | 
 | 2022-11-24 | 354 | 108 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 345 | 106 | 
 | 2022-10-30 | 345 | 106 | 
 | 2022-10-29 | 345 | 105 | 
-| 2022-10-28 | 344 | 105 | 
 

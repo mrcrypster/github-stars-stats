@@ -1,10 +1,10 @@
 # gbrindisi/dockerfile-security - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 54
 
-★ Stars: 232
+★ Stars: 233
 
 [Open repository](https://github.com/gbrindisi/dockerfile-security)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 233 | 54 | 
 | 2022-11-25 | 232 | 54 | 
 | 2022-11-24 | 232 | 54 | 
 | 2022-11-23 | 232 | 53 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 231 | 50 | 
 | 2022-10-29 | 231 | 50 | 
 | 2022-10-28 | 231 | 49 | 
-| 2022-10-27 | 231 | 48 | 
 

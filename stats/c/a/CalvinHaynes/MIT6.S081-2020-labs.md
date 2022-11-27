@@ -1,6 +1,6 @@
 # CalvinHaynes/MIT6.S081-2020-labs - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 16 | 50 | 
 | 2022-11-25 | 16 | 50 | 
 | 2022-11-24 | 16 | 50 | 
 | 2022-11-23 | 16 | 51 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 15 | 49 | 
 | 2022-10-29 | 15 | 49 | 
 | 2022-10-28 | 15 | 48 | 
-| 2022-10-27 | 15 | 48 | 
 

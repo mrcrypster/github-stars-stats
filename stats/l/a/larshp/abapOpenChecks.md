@@ -1,10 +1,10 @@
 # larshp/abapOpenChecks - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 64
 
-★ Stars: 193
+★ Stars: 194
 
 [Open repository](https://github.com/larshp/abapOpenChecks)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 194 | 64 | 
 | 2022-11-25 | 193 | 64 | 
 | 2022-11-24 | 193 | 64 | 
 | 2022-11-23 | 193 | 64 | 

@@ -1,10 +1,10 @@
 # rougier/svg-tag-mode - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 20
 
-★ Stars: 348
+★ Stars: 350
 
 [Open repository](https://github.com/rougier/svg-tag-mode)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 350 | 20 | 
 | 2022-11-25 | 348 | 20 | 
 | 2022-11-24 | 347 | 20 | 
 | 2022-11-23 | 347 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 339 | 20 | 
 | 2022-10-29 | 339 | 20 | 
 | 2022-10-28 | 339 | 20 | 
-| 2022-10-27 | 339 | 20 | 
 

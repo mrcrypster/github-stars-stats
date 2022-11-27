@@ -1,10 +1,10 @@
 # ohmybash/oh-my-bash - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 463
 
-★ Stars: 3623
+★ Stars: 3628
 
 [Open repository](https://github.com/ohmybash/oh-my-bash)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 3628 | 463 | 
 | 2022-11-25 | 3623 | 463 | 
 | 2022-11-24 | 3619 | 462 | 
 | 2022-11-23 | 3617 | 462 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 3557 | 454 | 
 | 2022-10-29 | 3556 | 453 | 
 | 2022-10-28 | 3552 | 453 | 
-| 2022-10-27 | 3545 | 452 | 
 

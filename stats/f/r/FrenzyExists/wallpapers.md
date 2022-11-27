@@ -1,6 +1,6 @@
 # FrenzyExists/wallpapers - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 391 | 31 | 
 | 2022-11-25 | 391 | 31 | 
 | 2022-11-24 | 391 | 31 | 
 | 2022-11-23 | 390 | 31 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 378 | 32 | 
 | 2022-10-29 | 378 | 32 | 
 | 2022-10-28 | 378 | 32 | 
-| 2022-10-27 | 378 | 32 | 
 

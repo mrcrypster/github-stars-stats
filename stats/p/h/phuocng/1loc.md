@@ -1,10 +1,10 @@
 # phuocng/1loc - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 495
 
-★ Stars: 6311
+★ Stars: 6312
 
 [Open repository](https://github.com/phuocng/1loc)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 6312 | 495 | 
 | 2022-11-25 | 6311 | 495 | 
 | 2022-11-24 | 6310 | 495 | 
 | 2022-11-23 | 6305 | 495 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 6275 | 494 | 
 | 2022-10-29 | 6277 | 494 | 
 | 2022-10-28 | 6276 | 494 | 
-| 2022-10-27 | 6276 | 494 | 
 

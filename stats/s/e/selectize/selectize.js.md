@@ -1,8 +1,8 @@
 # selectize/selectize.js - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
-☋ Forks: 3704
+☋ Forks: 3703
 
 ★ Stars: 12868
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 12868 | 3703 | 
 | 2022-11-25 | 12868 | 3704 | 
 | 2022-11-24 | 12867 | 3704 | 
 | 2022-11-23 | 12866 | 3705 | 

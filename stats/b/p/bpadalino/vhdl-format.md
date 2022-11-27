@@ -1,6 +1,6 @@
 # bpadalino/vhdl-format - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 23 | 1 | 
 | 2022-11-26 | 23 | 1 | 
 | 2022-11-25 | 23 | 1 | 
 | 2022-11-24 | 23 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-30 | 21 | 1 | 
 | 2022-10-29 | 21 | 1 | 
 | 2022-10-28 | 21 | 1 | 
-| 2022-10-27 | 21 | 1 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 26
 
-☋ Forks: 1866
+☋ Forks: 1870
 
-★ Stars: 8778
+★ Stars: 8788
 
 [Open repository](https://github.com/librespeed/speedtest)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-26 | 8778 | 1866 | 
+| 2022-11-26 | 8788 | 1870 | 
 | 2022-11-25 | 8763 | 1855 | 
 | 2022-11-24 | 8757 | 1852 | 
 | 2022-11-23 | 8749 | 1851 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-30 | 8616 | 1831 | 
 | 2022-10-29 | 8613 | 1830 | 
 | 2022-10-28 | 8603 | 1829 | 
-| 2022-10-27 | 8601 | 1829 | 
 

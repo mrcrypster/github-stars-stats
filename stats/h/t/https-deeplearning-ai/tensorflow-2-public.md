@@ -1,6 +1,6 @@
 # https-deeplearning-ai/tensorflow-2-public - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 441
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 173 | 441 | 
 | 2022-11-25 | 173 | 441 | 
 | 2022-11-24 | 173 | 441 | 
 | 2022-11-23 | 173 | 441 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-31 | 168 | 433 | 
 | 2022-10-30 | 168 | 433 | 
 | 2022-10-29 | 168 | 433 | 
-| 2022-10-28 | 168 | 433 | 
 

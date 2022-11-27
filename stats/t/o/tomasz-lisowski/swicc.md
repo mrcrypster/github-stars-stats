@@ -1,10 +1,10 @@
 # tomasz-lisowski/swicc - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 8
 
-★ Stars: 99
+★ Stars: 100
 
 [Open repository](https://github.com/tomasz-lisowski/swicc)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 100 | 8 | 
 | 2022-11-25 | 99 | 8 | 
 | 2022-11-24 | 99 | 8 | 
 | 2022-11-23 | 98 | 8 | 

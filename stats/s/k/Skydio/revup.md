@@ -1,6 +1,6 @@
 # Skydio/revup - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 226 | 19 | 
 | 2022-11-25 | 226 | 19 | 
 | 2022-11-24 | 226 | 19 | 
 | 2022-11-23 | 226 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 221 | 16 | 
 | 2022-10-29 | 219 | 16 | 
 | 2022-10-28 | 219 | 16 | 
-| 2022-10-27 | 219 | 16 | 
 

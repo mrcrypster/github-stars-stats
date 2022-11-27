@@ -1,10 +1,10 @@
 # thoughtbot/ex_machina - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 140
 
-★ Stars: 1784
+★ Stars: 1785
 
 [Open repository](https://github.com/thoughtbot/ex_machina)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 1785 | 140 | 
 | 2022-11-25 | 1784 | 140 | 
 | 2022-11-24 | 1784 | 140 | 
 | 2022-11-23 | 1783 | 140 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 1776 | 140 | 
 | 2022-10-29 | 1775 | 140 | 
 | 2022-10-28 | 1774 | 140 | 
-| 2022-10-27 | 1774 | 139 | 
 

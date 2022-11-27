@@ -1,10 +1,10 @@
 # ColorlibHQ/AdminLTE - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
-☋ Forks: 17876
+☋ Forks: 17878
 
-★ Stars: 41787
+★ Stars: 41788
 
 [Open repository](https://github.com/ColorlibHQ/AdminLTE)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 41788 | 17878 | 
 | 2022-11-25 | 41787 | 17876 | 
 | 2022-11-24 | 41791 | 17875 | 
 | 2022-11-23 | 41788 | 17876 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 41687 | 17832 | 
 | 2022-10-29 | 41684 | 17832 | 
 | 2022-10-28 | 41677 | 17833 | 
-| 2022-10-27 | 41671 | 17830 | 
 

@@ -1,6 +1,6 @@
 # elastic/ansible-beats - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 86
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 129 | 86 | 
 | 2022-11-25 | 129 | 86 | 
 | 2022-11-24 | 129 | 86 | 
 | 2022-11-23 | 129 | 86 | 
@@ -40,5 +41,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-31 | 129 | 87 | 
 | 2022-10-30 | 129 | 87 | 
 | 2022-10-29 | 130 | 87 | 
-| 2022-10-28 | 130 | 87 | 
 

@@ -1,6 +1,6 @@
 # itorr/eva-title - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 569 | 28 | 
 | 2022-11-26 | 569 | 28 | 
 | 2022-11-25 | 569 | 28 | 
 | 2022-11-23 | 568 | 28 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-30 | 550 | 26 | 
 | 2022-10-29 | 550 | 26 | 
 | 2022-10-28 | 549 | 26 | 
-| 2022-10-27 | 549 | 26 | 
 

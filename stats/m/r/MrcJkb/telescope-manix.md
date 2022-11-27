@@ -1,10 +1,10 @@
 # MrcJkb/telescope-manix - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 0
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/MrcJkb/telescope-manix)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 28 | - | 
 | 2022-11-25 | 27 | - | 
 | 2022-11-24 | 27 | - | 
 | 2022-11-23 | 27 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 23 | - | 
 | 2022-10-29 | 23 | - | 
 | 2022-10-28 | 23 | - | 
-| 2022-10-27 | 23 | - | 
 

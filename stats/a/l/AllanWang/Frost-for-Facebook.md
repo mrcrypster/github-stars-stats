@@ -1,10 +1,10 @@
 # AllanWang/Frost-for-Facebook - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 86
 
-★ Stars: 882
+★ Stars: 883
 
 [Open repository](https://github.com/AllanWang/Frost-for-Facebook)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 883 | 86 | 
 | 2022-11-25 | 882 | 86 | 
 | 2022-11-24 | 880 | 86 | 
 | 2022-11-23 | 880 | 86 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 876 | 86 | 
 | 2022-10-29 | 872 | 86 | 
 | 2022-10-28 | 872 | 86 | 
-| 2022-10-27 | 872 | 86 | 
 

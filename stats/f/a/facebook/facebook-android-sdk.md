@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 26
 
 ☋ Forks: 3677
 
-★ Stars: 5768
+★ Stars: 5770
 
 [Open repository](https://github.com/facebook/facebook-android-sdk)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-26 | 5768 | 3677 | 
+| 2022-11-26 | 5770 | 3677 | 
 | 2022-11-25 | 5768 | 3677 | 
 | 2022-11-24 | 5768 | 3676 | 
 | 2022-11-23 | 5768 | 3675 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-30 | 5751 | 3671 | 
 | 2022-10-29 | 5752 | 3671 | 
 | 2022-10-28 | 5751 | 3672 | 
-| 2022-10-27 | 5749 | 3673 | 
 

@@ -1,6 +1,6 @@
 # minhaj-313/Facts-Website - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 23 | 38 | 
 | 2022-11-25 | 23 | 38 | 
 | 2022-11-24 | 23 | 38 | 
 | 2022-11-23 | 23 | 38 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 23 | 39 | 
 | 2022-10-29 | 23 | 39 | 
 | 2022-10-28 | 23 | 38 | 
-| 2022-10-27 | 23 | 38 | 
 

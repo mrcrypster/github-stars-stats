@@ -1,10 +1,10 @@
 # hitchao/Jvedio - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 186
 
-★ Stars: 1384
+★ Stars: 1383
 
 [Open repository](https://github.com/hitchao/Jvedio)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 1383 | 186 | 
 | 2022-11-25 | 1384 | 186 | 
 | 2022-11-24 | 1381 | 186 | 
 | 2022-11-23 | 1381 | 186 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 1267 | 181 | 
 | 2022-10-29 | 1266 | 181 | 
 | 2022-10-28 | 1266 | 181 | 
-| 2022-10-27 | 1265 | 181 | 
 

@@ -1,10 +1,10 @@
 # IronWarrior/UnityOutlineShader - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 97
 
-★ Stars: 684
+★ Stars: 687
 
 [Open repository](https://github.com/IronWarrior/UnityOutlineShader)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 687 | 97 | 
 | 2022-11-25 | 684 | 97 | 
 | 2022-11-24 | 684 | 97 | 
 | 2022-11-23 | 683 | 97 | 

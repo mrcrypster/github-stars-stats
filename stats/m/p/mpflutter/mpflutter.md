@@ -1,10 +1,10 @@
 # mpflutter/mpflutter - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 75
 
-★ Stars: 1030
+★ Stars: 1031
 
 [Open repository](https://github.com/mpflutter/mpflutter)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 1031 | 75 | 
 | 2022-11-25 | 1030 | 75 | 
 | 2022-11-24 | 1026 | 75 | 
 | 2022-11-23 | 1021 | 73 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 980 | 71 | 
 | 2022-10-29 | 979 | 71 | 
 | 2022-10-28 | 978 | 70 | 
-| 2022-10-27 | 976 | 70 | 
 

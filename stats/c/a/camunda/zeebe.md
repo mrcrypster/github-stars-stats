@@ -1,10 +1,10 @@
 # camunda/zeebe - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 463
 
-★ Stars: 2581
+★ Stars: 2584
 
 [Open repository](https://github.com/camunda/zeebe)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 2584 | 463 | 
 | 2022-11-25 | 2581 | 463 | 
 | 2022-11-24 | 2579 | 463 | 
 | 2022-11-23 | 2576 | 462 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-31 | 2548 | 459 | 
 | 2022-10-30 | 2548 | 459 | 
 | 2022-10-29 | 2545 | 460 | 
-| 2022-10-28 | 2545 | 461 | 
 

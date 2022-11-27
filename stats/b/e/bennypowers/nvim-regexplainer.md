@@ -1,10 +1,10 @@
 # bennypowers/nvim-regexplainer - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 2
 
-★ Stars: 364
+★ Stars: 368
 
 [Open repository](https://github.com/bennypowers/nvim-regexplainer)
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 368 | 2 | 
+| 2022-11-26 | 367 | 2 | 
 | 2022-11-25 | 364 | 2 | 
 | 2022-11-24 | 359 | 2 | 
 | 2022-11-23 | 355 | 2 | 
@@ -41,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 348 | 2 | 
 | 2022-10-29 | 348 | 2 | 
 | 2022-10-28 | 348 | 2 | 
-| 2022-10-27 | 348 | 2 | 
 

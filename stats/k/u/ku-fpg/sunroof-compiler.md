@@ -1,6 +1,6 @@
 # ku-fpg/sunroof-compiler - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 70 | 7 | 
 | 2022-11-25 | 70 | 7 | 
 | 2022-11-24 | 70 | 7 | 
 | 2022-11-23 | 70 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-31 | 70 | 7 | 
 | 2022-10-30 | 70 | 7 | 
 | 2022-10-29 | 70 | 7 | 
-| 2022-10-27 | 70 | 7 | 
 

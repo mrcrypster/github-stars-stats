@@ -1,6 +1,6 @@
 # Gamua/Starling-Framework - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 835
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 2572 | 835 | 
 | 2022-11-26 | 2572 | 835 | 
 | 2022-11-25 | 2572 | 835 | 
 | 2022-11-24 | 2572 | 835 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-30 | 2560 | 838 | 
 | 2022-10-29 | 2560 | 839 | 
 | 2022-10-28 | 2560 | 839 | 
-| 2022-10-27 | 2560 | 839 | 
 

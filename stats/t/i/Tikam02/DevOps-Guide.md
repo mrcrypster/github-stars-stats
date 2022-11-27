@@ -1,6 +1,6 @@
 # Tikam02/DevOps-Guide - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 1002
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 5485 | 1002 | 
 | 2022-11-25 | 5485 | 1002 | 
 | 2022-11-24 | 5482 | 1002 | 
 | 2022-11-23 | 5478 | 1001 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 5385 | 968 | 
 | 2022-10-29 | 5376 | 968 | 
 | 2022-10-28 | 5375 | 965 | 
-| 2022-10-27 | 5365 | 961 | 
 

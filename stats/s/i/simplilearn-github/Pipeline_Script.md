@@ -1,6 +1,6 @@
 # simplilearn-github/Pipeline_Script - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 378
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 17 | 378 | 
 | 2022-11-26 | 17 | 378 | 
 | 2022-11-25 | 17 | 377 | 
 | 2022-11-24 | 17 | 377 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-30 | 17 | 372 | 
 | 2022-10-29 | 17 | 371 | 
 | 2022-10-28 | 17 | 370 | 
-| 2022-10-27 | 17 | 370 | 
 

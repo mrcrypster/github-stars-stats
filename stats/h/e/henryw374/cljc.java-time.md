@@ -1,6 +1,6 @@
 # henryw374/cljc.java-time - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 115 | 8 | 
 | 2022-11-25 | 115 | 8 | 
 | 2022-11-24 | 115 | 8 | 
 | 2022-11-23 | 115 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 115 | 8 | 
 | 2022-10-29 | 115 | 8 | 
 | 2022-10-28 | 115 | 8 | 
-| 2022-10-27 | 115 | 8 | 
 

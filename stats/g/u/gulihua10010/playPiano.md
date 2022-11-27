@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 26
 
-☋ Forks: 24
+☋ Forks: 39
 
-★ Stars: 52
+★ Stars: 100
 
 [Open repository](https://github.com/gulihua10010/playPiano)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-26 | 52 | 24 | 
+| 2022-11-26 | 100 | 39 | 
 | 2022-11-25 | 52 | 24 | 
 

@@ -1,6 +1,6 @@
 # Shopify/unite-workshop-online-store-performance - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | - | 4 | 
 | 2022-11-25 | - | 4 | 
 | 2022-11-24 | - | 4 | 
 | 2022-11-23 | - | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | - | 4 | 
 | 2022-10-29 | - | 4 | 
 | 2022-10-28 | - | 4 | 
-| 2022-10-27 | - | 4 | 
 

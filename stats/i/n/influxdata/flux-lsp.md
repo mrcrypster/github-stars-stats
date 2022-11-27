@@ -1,10 +1,10 @@
 # influxdata/flux-lsp - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 4
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/influxdata/flux-lsp)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 20 | 4 | 
 | 2022-11-25 | 19 | 4 | 
 | 2022-11-24 | 19 | 4 | 
 | 2022-11-23 | 19 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 17 | 4 | 
 | 2022-10-29 | 17 | 4 | 
 | 2022-10-28 | 17 | 4 | 
-| 2022-10-27 | 17 | 4 | 
 

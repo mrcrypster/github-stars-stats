@@ -1,6 +1,6 @@
 # puppetlabs/ring-middleware - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 8 | 20 | 
 | 2022-11-25 | 8 | 20 | 
 | 2022-11-24 | 8 | 20 | 
 | 2022-11-23 | 8 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 8 | 20 | 
 | 2022-10-29 | 8 | 20 | 
 | 2022-10-28 | 8 | 20 | 
-| 2022-10-27 | 8 | 20 | 
 

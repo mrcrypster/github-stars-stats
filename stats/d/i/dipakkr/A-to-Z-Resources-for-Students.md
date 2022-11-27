@@ -1,10 +1,10 @@
 # dipakkr/A-to-Z-Resources-for-Students - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
-☋ Forks: 4350
+☋ Forks: 4351
 
-★ Stars: 14731
+★ Stars: 14736
 
 [Open repository](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 14736 | 4351 | 
 | 2022-11-25 | 14731 | 4350 | 
 | 2022-11-24 | 14730 | 4351 | 
 | 2022-11-23 | 14724 | 4350 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 14623 | 4341 | 
 | 2022-10-29 | 14617 | 4340 | 
 | 2022-10-28 | 14613 | 4339 | 
-| 2022-10-27 | 14609 | 4339 | 
 

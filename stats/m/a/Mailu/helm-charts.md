@@ -1,10 +1,10 @@
 # Mailu/helm-charts - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 107
 
-★ Stars: 76
+★ Stars: 77
 
 [Open repository](https://github.com/Mailu/helm-charts)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 77 | 107 | 
 | 2022-11-25 | 76 | 107 | 
 | 2022-11-24 | 76 | 107 | 
 | 2022-11-23 | 76 | 107 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 75 | 105 | 
 | 2022-10-29 | 75 | 105 | 
 | 2022-10-28 | 75 | 105 | 
-| 2022-10-27 | 74 | 105 | 
 

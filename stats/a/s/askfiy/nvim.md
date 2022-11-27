@@ -1,6 +1,6 @@
 # askfiy/nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 148 | 21 | 
 | 2022-11-25 | 148 | 21 | 
 | 2022-11-24 | 148 | 22 | 
 | 2022-11-23 | 147 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-31 | 140 | 23 | 
 | 2022-10-30 | 140 | 22 | 
 | 2022-10-29 | 140 | 22 | 
-| 2022-10-27 | 140 | 22 | 
 

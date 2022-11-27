@@ -1,10 +1,10 @@
 # ChmaraX/forensix - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 20
 
-★ Stars: 80
+★ Stars: 81
 
 [Open repository](https://github.com/ChmaraX/forensix)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 81 | 20 | 
 | 2022-11-25 | 80 | 20 | 
 | 2022-11-24 | 80 | 20 | 
 | 2022-11-23 | 80 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-31 | 78 | 20 | 
 | 2022-10-30 | 78 | 20 | 
 | 2022-10-29 | 78 | 20 | 
-| 2022-10-27 | 78 | 20 | 
 

@@ -1,6 +1,6 @@
 # S3cur3Th1sSh1t/PowerSharpPack - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 240
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 978 | 240 | 
 | 2022-11-25 | 978 | 240 | 
 | 2022-11-24 | 976 | 241 | 
 | 2022-11-23 | 976 | 241 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 950 | 232 | 
 | 2022-10-29 | 949 | 229 | 
 | 2022-10-28 | 948 | 229 | 
-| 2022-10-27 | 947 | 229 | 
 

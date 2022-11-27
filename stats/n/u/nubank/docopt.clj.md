@@ -1,10 +1,10 @@
 # nubank/docopt.clj - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 3
 
-★ Stars: 69
+★ Stars: 70
 
 [Open repository](https://github.com/nubank/docopt.clj)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 70 | 3 | 
 | 2022-11-25 | 69 | 3 | 
 | 2022-11-24 | 69 | 3 | 
 | 2022-11-23 | 69 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 66 | 3 | 
 | 2022-10-29 | 66 | 3 | 
 | 2022-10-28 | 66 | 3 | 
-| 2022-10-27 | 66 | 3 | 
 

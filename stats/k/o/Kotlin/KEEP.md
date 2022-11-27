@@ -1,10 +1,10 @@
 # Kotlin/KEEP - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
-☋ Forks: 343
+☋ Forks: 344
 
-★ Stars: 2815
+★ Stars: 2816
 
 [Open repository](https://github.com/Kotlin/KEEP)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 2816 | 344 | 
 | 2022-11-25 | 2815 | 343 | 
 | 2022-11-24 | 2815 | 343 | 
 | 2022-11-23 | 2814 | 343 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 2799 | 339 | 
 | 2022-10-29 | 2799 | 339 | 
 | 2022-10-28 | 2797 | 339 | 
-| 2022-10-27 | 2798 | 339 | 
 

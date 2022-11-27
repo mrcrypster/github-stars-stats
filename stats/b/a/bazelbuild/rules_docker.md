@@ -1,6 +1,6 @@
 # bazelbuild/rules_docker - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 655
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 987 | 655 | 
 | 2022-11-25 | 987 | 655 | 
 | 2022-11-24 | 987 | 655 | 
 | 2022-11-23 | 986 | 655 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 978 | 655 | 
 | 2022-10-29 | 978 | 655 | 
 | 2022-10-28 | 978 | 656 | 
-| 2022-10-27 | 977 | 656 | 
 

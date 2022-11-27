@@ -1,6 +1,6 @@
 # auth0-samples/auth0-express-webapp-sample - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 72
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 44 | 72 | 
 | 2022-11-25 | 44 | 72 | 
 | 2022-11-24 | 44 | 72 | 
 | 2022-11-23 | 44 | 72 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 42 | 68 | 
 | 2022-10-29 | 42 | 68 | 
 | 2022-10-28 | 42 | 68 | 
-| 2022-10-27 | 41 | 68 | 
 

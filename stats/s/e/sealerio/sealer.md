@@ -1,6 +1,6 @@
 # sealerio/sealer - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 314
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 1711 | 314 | 
 | 2022-11-25 | 1711 | 314 | 
 | 2022-11-24 | 1711 | 314 | 
 | 2022-11-23 | 1710 | 314 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 1685 | 312 | 
 | 2022-10-29 | 1685 | 312 | 
 | 2022-10-28 | 1685 | 313 | 
-| 2022-10-27 | 1684 | 313 | 
 

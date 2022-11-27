@@ -1,6 +1,6 @@
 # para-space/paraspace-core - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 15 | 7 | 
 | 2022-11-25 | 15 | 7 | 
 | 2022-11-24 | 15 | 7 | 
 | 2022-11-23 | 15 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 11 | 4 | 
 | 2022-10-29 | 11 | 4 | 
 | 2022-10-28 | 11 | 4 | 
-| 2022-10-27 | 11 | 4 | 
 

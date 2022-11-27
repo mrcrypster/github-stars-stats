@@ -1,10 +1,10 @@
 # tidyverse/tibble - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 121
 
-★ Stars: 584
+★ Stars: 585
 
 [Open repository](https://github.com/tidyverse/tibble)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 585 | 121 | 
 | 2022-11-25 | 584 | 121 | 
 | 2022-11-24 | 584 | 121 | 
 | 2022-11-23 | 584 | 121 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 578 | 120 | 
 | 2022-10-29 | 578 | 120 | 
 | 2022-10-28 | 578 | 120 | 
-| 2022-10-27 | 577 | 120 | 
 

@@ -1,6 +1,6 @@
 # nd-phuc/windows-rdp - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 3 | 56 | 
 | 2022-11-25 | 3 | 56 | 
 | 2022-11-24 | 3 | 55 | 
 | 2022-11-23 | 3 | 54 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 2 | 52 | 
 | 2022-10-29 | 2 | 52 | 
 | 2022-10-28 | 2 | 51 | 
-| 2022-10-27 | 2 | 51 | 
 

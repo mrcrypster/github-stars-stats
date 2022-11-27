@@ -1,10 +1,10 @@
 # octavian-ganea/equidock_public - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 39
 
-★ Stars: 146
+★ Stars: 147
 
 [Open repository](https://github.com/octavian-ganea/equidock_public)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 147 | 39 | 
 | 2022-11-25 | 146 | 39 | 
 | 2022-11-24 | 146 | 39 | 
 | 2022-11-23 | 145 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-31 | 140 | 39 | 
 | 2022-10-30 | 139 | 39 | 
 | 2022-10-29 | 139 | 39 | 
-| 2022-10-28 | 139 | 39 | 
 

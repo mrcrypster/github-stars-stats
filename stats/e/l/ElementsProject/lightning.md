@@ -1,6 +1,6 @@
 # ElementsProject/lightning - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 779
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 2393 | 779 | 
 | 2022-11-25 | 2393 | 779 | 
 | 2022-11-24 | 2394 | 778 | 
 | 2022-11-23 | 2393 | 776 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-31 | 2364 | 768 | 
 | 2022-10-30 | 2364 | 766 | 
 | 2022-10-29 | 2364 | 767 | 
-| 2022-10-28 | 2364 | 767 | 
 

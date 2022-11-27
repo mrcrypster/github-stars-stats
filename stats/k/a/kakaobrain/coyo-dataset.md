@@ -1,6 +1,6 @@
 # kakaobrain/coyo-dataset - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 758 | 25 | 
 | 2022-11-25 | 758 | 25 | 
 | 2022-11-24 | 754 | 25 | 
 | 2022-11-23 | 754 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-31 | 725 | 23 | 
 | 2022-10-30 | 725 | 23 | 
 | 2022-10-29 | 725 | 23 | 
-| 2022-10-28 | 725 | 23 | 
 

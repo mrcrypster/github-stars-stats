@@ -1,6 +1,6 @@
 # Qubus0/diceRoller - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 16 | 3 | 
 | 2022-11-25 | 16 | 3 | 
 | 2022-11-24 | 16 | 3 | 
 | 2022-11-23 | 16 | 3 | 

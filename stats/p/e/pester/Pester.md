@@ -1,10 +1,10 @@
 # pester/Pester - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 453
 
-★ Stars: 2816
+★ Stars: 2815
 
 [Open repository](https://github.com/pester/Pester)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 2815 | 453 | 
 | 2022-11-25 | 2816 | 453 | 
 | 2022-11-24 | 2815 | 454 | 
 | 2022-11-23 | 2815 | 454 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 2800 | 454 | 
 | 2022-10-29 | 2799 | 455 | 
 | 2022-10-28 | 2799 | 455 | 
-| 2022-10-27 | 2799 | 456 | 
 

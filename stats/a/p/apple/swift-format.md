@@ -1,10 +1,10 @@
 # apple/swift-format - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 145
 
-★ Stars: 1742
+★ Stars: 1746
 
 [Open repository](https://github.com/apple/swift-format)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 1746 | 145 | 
 | 2022-11-25 | 1742 | 145 | 
 | 2022-11-24 | 1744 | 145 | 
 | 2022-11-23 | 1745 | 145 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 1711 | 138 | 
 | 2022-10-29 | 1711 | 138 | 
 | 2022-10-28 | 1711 | 138 | 
-| 2022-10-27 | 1710 | 138 | 
 

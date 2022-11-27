@@ -1,10 +1,10 @@
 # meyskens/mastodon-for-workgroups - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 1
 
-★ Stars: 76
+★ Stars: 82
 
 [Open repository](https://github.com/meyskens/mastodon-for-workgroups)
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 82 | 1 | 
+| 2022-11-26 | 82 | 1 | 
 | 2022-11-25 | 76 | 1 | 
 | 2022-11-24 | 65 | 1 | 
 | 2022-11-23 | 63 | 1 | 

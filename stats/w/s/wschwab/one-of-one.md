@@ -1,6 +1,6 @@
 # wschwab/one-of-one - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 36 | 1 | 
 | 2022-11-25 | 36 | 1 | 
 | 2022-11-24 | 36 | 1 | 
 | 2022-11-23 | 36 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 36 | 1 | 
 | 2022-10-29 | 36 | 1 | 
 | 2022-10-28 | 36 | 1 | 
-| 2022-10-27 | 36 | 1 | 
 

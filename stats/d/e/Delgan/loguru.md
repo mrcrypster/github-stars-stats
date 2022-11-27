@@ -1,6 +1,6 @@
 # Delgan/loguru - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 566
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 13400 | 566 | 
 | 2022-11-25 | 13400 | 566 | 
 | 2022-11-24 | 13398 | 566 | 
 | 2022-11-23 | 13386 | 566 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 13212 | 557 | 
 | 2022-10-29 | 13209 | 557 | 
 | 2022-10-28 | 13206 | 558 | 
-| 2022-10-27 | 13198 | 558 | 
 

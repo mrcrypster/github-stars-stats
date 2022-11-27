@@ -1,10 +1,10 @@
 # v2rayA/v2rayA - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
-☋ Forks: 539
+☋ Forks: 542
 
-★ Stars: 4444
+★ Stars: 4450
 
 [Open repository](https://github.com/v2rayA/v2rayA)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 4450 | 542 | 
 | 2022-11-25 | 4444 | 539 | 
 | 2022-11-24 | 4432 | 538 | 
 | 2022-11-23 | 4425 | 538 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 4216 | 516 | 
 | 2022-10-29 | 4208 | 518 | 
 | 2022-10-28 | 4202 | 517 | 
-| 2022-10-27 | 4191 | 517 | 
 

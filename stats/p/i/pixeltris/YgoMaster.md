@@ -1,10 +1,10 @@
 # pixeltris/YgoMaster - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 59
 
-★ Stars: 302
+★ Stars: 304
 
 [Open repository](https://github.com/pixeltris/YgoMaster)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 304 | 59 | 
 | 2022-11-25 | 302 | 59 | 
 | 2022-11-24 | 302 | 59 | 
 | 2022-11-23 | 302 | 59 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 289 | 57 | 
 | 2022-10-29 | 288 | 57 | 
 | 2022-10-28 | 288 | 57 | 
-| 2022-10-27 | 288 | 57 | 
 

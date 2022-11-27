@@ -1,6 +1,6 @@
 # microsoft/navcontainerhelper - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 214
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 266 | 214 | 
 | 2022-11-25 | 266 | 214 | 
 | 2022-11-24 | 266 | 214 | 
 | 2022-11-23 | 266 | 214 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 263 | 211 | 
 | 2022-10-29 | 263 | 211 | 
 | 2022-10-28 | 263 | 211 | 
-| 2022-10-27 | 263 | 211 | 
 

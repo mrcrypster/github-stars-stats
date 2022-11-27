@@ -1,10 +1,10 @@
 # Tencent/tdesign-mobile-vue - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 70
 
-★ Stars: 103
+★ Stars: 104
 
 [Open repository](https://github.com/Tencent/tdesign-mobile-vue)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 104 | 70 | 
 | 2022-11-25 | 103 | 70 | 
 | 2022-11-24 | 102 | 70 | 
 | 2022-11-23 | 102 | 70 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 93 | 69 | 
 | 2022-10-29 | 92 | 69 | 
 | 2022-10-28 | 92 | 69 | 
-| 2022-10-27 | 91 | 69 | 
 

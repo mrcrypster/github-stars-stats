@@ -1,6 +1,6 @@
 # rdegnan/yuki - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 29 | 3 | 
 | 2022-11-26 | 29 | 3 | 
 | 2022-11-24 | 29 | 3 | 
 | 2022-11-23 | 29 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-30 | 29 | 3 | 
 | 2022-10-29 | 29 | 3 | 
 | 2022-10-28 | 29 | 3 | 
-| 2022-10-27 | 29 | 3 | 
 

@@ -1,10 +1,10 @@
 # karb94/neoscroll.nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 23
 
-★ Stars: 718
+★ Stars: 719
 
 [Open repository](https://github.com/karb94/neoscroll.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 719 | 23 | 
 | 2022-11-25 | 718 | 23 | 
 | 2022-11-24 | 717 | 23 | 
 | 2022-11-23 | 718 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 681 | 22 | 
 | 2022-10-29 | 681 | 21 | 
 | 2022-10-28 | 677 | 22 | 
-| 2022-10-27 | 677 | 22 | 
 

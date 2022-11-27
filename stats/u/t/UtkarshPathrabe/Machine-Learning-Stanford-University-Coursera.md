@@ -1,6 +1,6 @@
 # UtkarshPathrabe/Machine-Learning-Stanford-University-Coursera - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 91
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 173 | 91 | 
 | 2022-11-25 | 173 | 91 | 
 | 2022-11-24 | 173 | 91 | 
 | 2022-11-23 | 173 | 91 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 169 | 91 | 
 | 2022-10-29 | 169 | 90 | 
 | 2022-10-28 | 169 | 90 | 
-| 2022-10-27 | 169 | 90 | 
 

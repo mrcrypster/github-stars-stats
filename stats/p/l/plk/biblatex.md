@@ -1,6 +1,6 @@
 # plk/biblatex - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 119
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 404 | 119 | 
 | 2022-11-25 | 404 | 119 | 
 | 2022-11-24 | 403 | 119 | 
 | 2022-11-23 | 403 | 119 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 397 | 119 | 
 | 2022-10-29 | 397 | 119 | 
 | 2022-10-28 | 397 | 119 | 
-| 2022-10-27 | 397 | 119 | 
 

@@ -1,6 +1,6 @@
 # pybind/pybind11_bazel - stars & forks statistics
 
-Stats updated on Nov 2022, 25
+Stats updated on Nov 2022, 26
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-26 | 61 | 43 | 
 | 2022-11-25 | 61 | 43 | 
 | 2022-11-24 | 61 | 43 | 
 | 2022-11-23 | 61 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 25
 | 2022-10-30 | 61 | 41 | 
 | 2022-10-29 | 61 | 41 | 
 | 2022-10-28 | 61 | 41 | 
-| 2022-10-27 | 61 | 41 | 
 
