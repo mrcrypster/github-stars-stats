@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 27
 
 ☋ Forks: 10
 
-★ Stars: 26
+★ Stars: 28
 
 [Open repository](https://github.com/chenzomi12/DeepLearningSystem)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-27 | 26 | 10 | 
+| 2022-11-27 | 28 | 10 | 
 | 2022-11-26 | 26 | 10 | 
 

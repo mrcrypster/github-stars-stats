@@ -1,6 +1,6 @@
 # Kimmy7070/Oasis-main - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 4
 
@@ -13,5 +13,6 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | - | 4 | 
 | 2022-11-26 | - | 4 | 
 

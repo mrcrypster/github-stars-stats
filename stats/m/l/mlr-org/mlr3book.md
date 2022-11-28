@@ -1,6 +1,6 @@
 # mlr-org/mlr3book - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 131 | 43 | 
 | 2022-11-26 | 131 | 43 | 
 | 2022-11-25 | 131 | 43 | 
 | 2022-11-24 | 131 | 43 | 

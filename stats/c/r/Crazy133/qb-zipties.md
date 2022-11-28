@@ -1,6 +1,6 @@
 # Crazy133/qb-zipties - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 20 | 9 | 
 | 2022-11-26 | 20 | 9 | 
 | 2022-11-25 | 19 | 9 | 
 | 2022-11-24 | 18 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 13 | 8 | 
 | 2022-10-30 | 13 | 8 | 
 | 2022-10-29 | 13 | 8 | 
-| 2022-10-28 | 13 | 8 | 
 

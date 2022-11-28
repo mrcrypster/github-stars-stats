@@ -1,10 +1,10 @@
 # giaf/blasfeo - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 60
 
-★ Stars: 202
+★ Stars: 204
 
 [Open repository](https://github.com/giaf/blasfeo)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 204 | 60 | 
 | 2022-11-26 | 202 | 60 | 
 | 2022-11-25 | 202 | 59 | 
 | 2022-11-24 | 202 | 59 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 201 | 58 | 
 | 2022-10-30 | 201 | 58 | 
 | 2022-10-29 | 201 | 58 | 
-| 2022-10-28 | 201 | 58 | 
 

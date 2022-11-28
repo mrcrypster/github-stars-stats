@@ -1,6 +1,6 @@
 # cmdcolin/oddgenes - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 170 | 10 | 
 | 2022-11-26 | 170 | 10 | 
 | 2022-11-25 | 170 | 10 | 
 | 2022-11-24 | 169 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 169 | 10 | 
 | 2022-10-30 | 169 | 10 | 
 | 2022-10-29 | 169 | 10 | 
-| 2022-10-28 | 169 | 10 | 
 

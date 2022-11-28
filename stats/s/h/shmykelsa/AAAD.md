@@ -1,10 +1,10 @@
 # shmykelsa/AAAD - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 120
 
-★ Stars: 819
+★ Stars: 820
 
 [Open repository](https://github.com/shmykelsa/AAAD)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 820 | 120 | 
 | 2022-11-26 | 819 | 120 | 
 | 2022-11-25 | 818 | 120 | 
 | 2022-11-24 | 818 | 120 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 787 | 119 | 
 | 2022-10-30 | 787 | 119 | 
 | 2022-10-29 | 786 | 119 | 
-| 2022-10-28 | 785 | 119 | 
 

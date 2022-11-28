@@ -1,10 +1,10 @@
 # flutter/gallery - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 1187
 
-★ Stars: 4670
+★ Stars: 4673
 
 [Open repository](https://github.com/flutter/gallery)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 4673 | 1187 | 
 | 2022-11-26 | 4670 | 1187 | 
 | 2022-11-25 | 4667 | 1184 | 
 | 2022-11-24 | 4664 | 1182 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 4579 | 1156 | 
 | 2022-10-30 | 4578 | 1156 | 
 | 2022-10-29 | 4571 | 1155 | 
-| 2022-10-28 | 4569 | 1155 | 
 

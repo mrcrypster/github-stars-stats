@@ -1,6 +1,6 @@
 # marcusabate/dbow2_catkin - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | - | 6 | 
 | 2022-11-27 | - | 6 | 
 | 2022-11-25 | - | 6 | 
 | 2022-11-24 | - | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-10-31 | - | 6 | 
 | 2022-10-30 | - | 6 | 
 | 2022-10-29 | - | 6 | 
-| 2022-10-28 | - | 6 | 
 

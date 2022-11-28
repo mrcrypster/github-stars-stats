@@ -1,10 +1,10 @@
 # yami-beta/asyncomplete-omni.vim - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 10
 
-★ Stars: 39
+★ Stars: 38
 
 [Open repository](https://github.com/yami-beta/asyncomplete-omni.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 38 | 10 | 
 | 2022-11-26 | 39 | 10 | 
 | 2022-11-25 | 39 | 10 | 
 | 2022-11-24 | 39 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 39 | 10 | 
 | 2022-10-30 | 39 | 10 | 
 | 2022-10-29 | 39 | 10 | 
-| 2022-10-28 | 39 | 10 | 
 

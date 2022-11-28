@@ -1,6 +1,6 @@
 # lamw/vsphere-8-lab-deployment - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 36 | 7 | 
 | 2022-11-26 | 36 | 7 | 
 | 2022-11-25 | 36 | 7 | 
 | 2022-11-24 | 35 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 29 | 7 | 
 | 2022-10-30 | 29 | 7 | 
 | 2022-10-29 | 29 | 7 | 
-| 2022-10-28 | 28 | 7 | 
 

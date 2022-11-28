@@ -1,6 +1,6 @@
 # nitely/nim-unicodedb - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 26 | 4 | 
 | 2022-11-26 | 26 | 4 | 
 | 2022-11-25 | 26 | 4 | 
 | 2022-11-24 | 26 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 23 | 3 | 
 | 2022-10-30 | 23 | 3 | 
 | 2022-10-29 | 23 | 3 | 
-| 2022-10-28 | 23 | 3 | 
 

@@ -1,10 +1,10 @@
 # elastic/dbt - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 0
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/elastic/dbt)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 10 | - | 
 | 2022-11-26 | 9 | - | 
 | 2022-11-25 | 9 | - | 
 | 2022-11-24 | 9 | - | 

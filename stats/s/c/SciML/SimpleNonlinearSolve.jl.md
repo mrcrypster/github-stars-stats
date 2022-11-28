@@ -1,10 +1,10 @@
 # SciML/SimpleNonlinearSolve.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 0
 
-★ Stars: 17
+★ Stars: 20
 
 [Open repository](https://github.com/SciML/SimpleNonlinearSolve.jl)
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 20 | - | 
+| 2022-11-27 | 19 | - | 
 | 2022-11-26 | 17 | - | 
 | 2022-11-25 | 17 | - | 
 

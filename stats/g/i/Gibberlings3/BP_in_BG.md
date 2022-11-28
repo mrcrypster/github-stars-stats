@@ -1,6 +1,6 @@
 # Gibberlings3/BP_in_BG - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 3 | - | 
 | 2022-11-27 | 3 | - | 
 | 2022-11-25 | 3 | - | 
 | 2022-11-24 | 3 | - | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-10-31 | 2 | - | 
 | 2022-10-30 | 2 | - | 
 | 2022-10-29 | 2 | - | 
-| 2022-10-28 | 2 | - | 
 

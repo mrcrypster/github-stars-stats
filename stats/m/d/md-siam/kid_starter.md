@@ -1,6 +1,6 @@
 # md-siam/kid_starter - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 29 | 23 | 
 | 2022-11-27 | 29 | 23 | 
 | 2022-11-26 | 29 | 23 | 
 | 2022-11-25 | 29 | 23 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-10-31 | 29 | 23 | 
 | 2022-10-30 | 29 | 23 | 
 | 2022-10-29 | 29 | 23 | 
-| 2022-10-28 | 29 | 23 | 
 

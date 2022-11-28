@@ -1,10 +1,10 @@
 # NPCat/bad-apple-bot - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 105
 
-★ Stars: 335
+★ Stars: 336
 
 [Open repository](https://github.com/NPCat/bad-apple-bot)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 336 | 105 | 
 | 2022-11-27 | 335 | 105 | 
 | 2022-11-26 | 335 | 104 | 
 | 2022-11-25 | 335 | 104 | 

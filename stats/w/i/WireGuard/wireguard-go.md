@@ -1,6 +1,6 @@
 # WireGuard/wireguard-go - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 324
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 1648 | 324 | 
 | 2022-11-26 | 1648 | 324 | 
 | 2022-11-25 | 1648 | 323 | 
 | 2022-11-24 | 1643 | 322 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-11-01 | 1575 | 315 | 
 | 2022-10-31 | 1569 | 315 | 
 | 2022-10-30 | 1569 | 314 | 
-| 2022-10-29 | 1566 | 313 | 
 

@@ -1,6 +1,6 @@
 # hktalent/TOP - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 285 | 59 | 
 | 2022-11-26 | 285 | 59 | 
 | 2022-11-25 | 285 | 59 | 
 | 2022-11-24 | 285 | 59 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 267 | 59 | 
 | 2022-10-30 | 267 | 58 | 
 | 2022-10-29 | 266 | 58 | 
-| 2022-10-28 | 266 | 58 | 
 

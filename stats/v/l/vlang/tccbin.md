@@ -1,6 +1,6 @@
 # vlang/tccbin - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 20 | 12 | 
 | 2022-11-26 | 20 | 12 | 
 | 2022-11-25 | 20 | 12 | 
 | 2022-11-24 | 20 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-11-01 | 20 | 12 | 
 | 2022-10-31 | 20 | 12 | 
 | 2022-10-30 | 20 | 12 | 
-| 2022-10-29 | 20 | 12 | 
 

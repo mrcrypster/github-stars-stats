@@ -1,8 +1,8 @@
 # boostorg/beast - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
-☋ Forks: 593
+☋ Forks: 594
 
 ★ Stars: 3585
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 3585 | 594 | 
 | 2022-11-26 | 3585 | 593 | 
 | 2022-11-25 | 3584 | 592 | 
 | 2022-11-24 | 3583 | 592 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-11-01 | 3563 | 585 | 
 | 2022-10-31 | 3562 | 583 | 
 | 2022-10-30 | 3561 | 583 | 
-| 2022-10-28 | 3561 | 584 | 
 

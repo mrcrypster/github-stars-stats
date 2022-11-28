@@ -1,6 +1,6 @@
 # edwinyzh/ZipMaster - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 13 | 3 | 
 | 2022-11-27 | 13 | 3 | 
 | 2022-11-26 | 13 | 3 | 
 | 2022-11-24 | 13 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-10-31 | 12 | 3 | 
 | 2022-10-30 | 12 | 3 | 
 | 2022-10-29 | 12 | 3 | 
-| 2022-10-28 | 12 | 3 | 
 

@@ -1,6 +1,6 @@
 # lucidrains/parti-pytorch - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 375 | 13 | 
 | 2022-11-26 | 375 | 13 | 
 | 2022-11-25 | 375 | 13 | 
 | 2022-11-24 | 374 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 372 | 13 | 
 | 2022-10-30 | 372 | 13 | 
 | 2022-10-29 | 372 | 13 | 
-| 2022-10-28 | 372 | 13 | 
 

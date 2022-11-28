@@ -1,6 +1,6 @@
 # oyvindkinsey/easyXDM - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 273
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 2386 | 273 | 
 | 2022-11-26 | 2386 | 273 | 
 | 2022-11-25 | 2386 | 273 | 
 | 2022-11-24 | 2386 | 273 | 

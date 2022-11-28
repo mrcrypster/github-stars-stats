@@ -1,6 +1,6 @@
 # splewis/csgo-practice-mode - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 70
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 393 | 70 | 
+| 2022-11-27 | 393 | 70 | 
 | 2022-11-26 | 393 | 70 | 
 | 2022-11-25 | 392 | 70 | 
 | 2022-11-24 | 391 | 70 | 
@@ -41,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 381 | 70 | 
 | 2022-10-30 | 381 | 70 | 
 | 2022-10-29 | 381 | 70 | 
-| 2022-10-28 | 381 | 70 | 
 

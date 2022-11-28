@@ -1,6 +1,6 @@
 # fsprojects/SIMDArray - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 123 | 16 | 
 | 2022-11-26 | 123 | 16 | 
 | 2022-11-25 | 123 | 16 | 
 | 2022-11-24 | 123 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 120 | 16 | 
 | 2022-10-30 | 120 | 16 | 
 | 2022-10-29 | 120 | 16 | 
-| 2022-10-28 | 120 | 16 | 
 

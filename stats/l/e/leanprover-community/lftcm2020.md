@@ -1,6 +1,6 @@
 # leanprover-community/lftcm2020 - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 74
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 57 | 74 | 
 | 2022-11-26 | 57 | 74 | 
 | 2022-11-25 | 57 | 74 | 
 | 2022-11-24 | 57 | 74 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 57 | 74 | 
 | 2022-10-30 | 57 | 74 | 
 | 2022-10-29 | 57 | 74 | 
-| 2022-10-28 | 57 | 74 | 
 

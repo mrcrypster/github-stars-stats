@@ -1,6 +1,6 @@
 # ros-planning/navigation2 - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 783
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 1248 | 783 | 
 | 2022-11-27 | 1248 | 783 | 
 | 2022-11-26 | 1249 | 783 | 
 | 2022-11-25 | 1248 | 783 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-10-31 | 1215 | 768 | 
 | 2022-10-30 | 1214 | 767 | 
 | 2022-10-29 | 1214 | 767 | 
-| 2022-10-28 | 1212 | 768 | 
 

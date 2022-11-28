@@ -1,10 +1,10 @@
 # cilium/tetragon - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 152
 
-★ Stars: 1949
+★ Stars: 1951
 
 [Open repository](https://github.com/cilium/tetragon)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 1951 | 152 | 
 | 2022-11-26 | 1949 | 152 | 
 | 2022-11-25 | 1946 | 152 | 
 | 2022-11-24 | 1942 | 153 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 1895 | 144 | 
 | 2022-10-30 | 1893 | 142 | 
 | 2022-10-29 | 1890 | 142 | 
-| 2022-10-28 | 1888 | 141 | 
 

@@ -1,10 +1,10 @@
 # liudf0716/xfrpc - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 38
 
-★ Stars: 515
+★ Stars: 516
 
 [Open repository](https://github.com/liudf0716/xfrpc)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 516 | 38 | 
 | 2022-11-26 | 515 | 38 | 
 | 2022-11-25 | 510 | 38 | 
 | 2022-11-24 | 504 | 37 | 

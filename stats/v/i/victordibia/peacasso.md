@@ -1,10 +1,10 @@
 # victordibia/peacasso - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 37
 
-★ Stars: 287
+★ Stars: 288
 
 [Open repository](https://github.com/victordibia/peacasso)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 288 | 37 | 
 | 2022-11-26 | 287 | 37 | 
 | 2022-11-25 | 286 | 37 | 
 | 2022-11-24 | 285 | 37 | 

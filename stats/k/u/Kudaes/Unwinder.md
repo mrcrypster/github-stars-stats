@@ -1,10 +1,10 @@
 # Kudaes/Unwinder - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 12
 
-★ Stars: 100
+★ Stars: 101
 
 [Open repository](https://github.com/Kudaes/Unwinder)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 101 | 12 | 
 | 2022-11-26 | 100 | 12 | 
 | 2022-11-25 | 98 | 12 | 
 | 2022-11-24 | 95 | 12 | 

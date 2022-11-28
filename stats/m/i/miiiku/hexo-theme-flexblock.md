@@ -1,6 +1,6 @@
 # miiiku/hexo-theme-flexblock - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 382 | 59 | 
 | 2022-11-26 | 382 | 59 | 
 | 2022-11-25 | 382 | 59 | 
 | 2022-11-24 | 381 | 59 | 

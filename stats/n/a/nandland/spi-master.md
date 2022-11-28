@@ -1,6 +1,6 @@
 # nandland/spi-master - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 70
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 132 | 70 | 
 | 2022-11-26 | 132 | 70 | 
 | 2022-11-25 | 132 | 70 | 
 | 2022-11-24 | 131 | 70 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 129 | 67 | 
 | 2022-10-30 | 128 | 66 | 
 | 2022-10-29 | 128 | 66 | 
-| 2022-10-28 | 128 | 66 | 
 

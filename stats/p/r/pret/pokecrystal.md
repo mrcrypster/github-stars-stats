@@ -1,8 +1,8 @@
 # pret/pokecrystal - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
-☋ Forks: 555
+☋ Forks: 554
 
 ★ Stars: 1713
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 1713 | 554 | 
 | 2022-11-26 | 1713 | 555 | 
 | 2022-11-25 | 1713 | 555 | 
 | 2022-11-24 | 1712 | 554 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 1699 | 552 | 
 | 2022-10-30 | 1699 | 550 | 
 | 2022-10-29 | 1699 | 550 | 
-| 2022-10-28 | 1699 | 551 | 
 

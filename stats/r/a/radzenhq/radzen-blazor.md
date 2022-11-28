@@ -1,10 +1,10 @@
 # radzenhq/radzen-blazor - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
-☋ Forks: 424
+☋ Forks: 425
 
-★ Stars: 2002
+★ Stars: 2003
 
 [Open repository](https://github.com/radzenhq/radzen-blazor)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 2003 | 425 | 
 | 2022-11-26 | 2002 | 424 | 
 | 2022-11-25 | 2000 | 423 | 
 | 2022-11-24 | 1999 | 423 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 1957 | 403 | 
 | 2022-10-30 | 1957 | 403 | 
 | 2022-10-29 | 1957 | 404 | 
-| 2022-10-28 | 1955 | 404 | 
 

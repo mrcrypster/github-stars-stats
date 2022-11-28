@@ -1,6 +1,6 @@
 # USEPA/CMAQ - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 175
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 207 | 175 | 
 | 2022-11-26 | 207 | 175 | 
 | 2022-11-25 | 207 | 175 | 
 | 2022-11-24 | 207 | 175 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 201 | 172 | 
 | 2022-10-30 | 201 | 172 | 
 | 2022-10-29 | 200 | 172 | 
-| 2022-10-28 | 200 | 172 | 
 

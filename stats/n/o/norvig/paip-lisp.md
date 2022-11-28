@@ -1,10 +1,10 @@
 # norvig/paip-lisp - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
-☋ Forks: 662
+☋ Forks: 663
 
-★ Stars: 6471
+★ Stars: 6470
 
 [Open repository](https://github.com/norvig/paip-lisp)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 6470 | 663 | 
 | 2022-11-26 | 6471 | 662 | 
 | 2022-11-25 | 6466 | 661 | 
 | 2022-11-24 | 6465 | 660 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 6445 | 658 | 
 | 2022-10-30 | 6444 | 658 | 
 | 2022-10-29 | 6444 | 658 | 
-| 2022-10-28 | 6440 | 660 | 
 

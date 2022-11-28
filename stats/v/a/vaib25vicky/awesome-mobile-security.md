@@ -1,6 +1,6 @@
 # vaib25vicky/awesome-mobile-security - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 285
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 2269 | 285 | 
 | 2022-11-26 | 2269 | 285 | 
 | 2022-11-25 | 2268 | 285 | 
 | 2022-11-24 | 2267 | 285 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 2229 | 287 | 
 | 2022-10-30 | 2229 | 287 | 
 | 2022-10-29 | 2228 | 287 | 
-| 2022-10-28 | 2228 | 287 | 
 

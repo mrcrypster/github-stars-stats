@@ -1,6 +1,6 @@
 # schacon/blink - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 1679
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 58 | 1679 | 
 | 2022-11-26 | 58 | 1679 | 
 | 2022-11-25 | 58 | 1679 | 
 | 2022-11-24 | 58 | 1680 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 56 | 1674 | 
 | 2022-10-30 | 56 | 1674 | 
 | 2022-10-29 | 56 | 1673 | 
-| 2022-10-28 | 56 | 1672 | 
 

@@ -1,10 +1,10 @@
 # hashicorp/hcl - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
-☋ Forks: 508
+☋ Forks: 509
 
-★ Stars: 4399
+★ Stars: 4402
 
 [Open repository](https://github.com/hashicorp/hcl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 4402 | 509 | 
 | 2022-11-26 | 4399 | 508 | 
 | 2022-11-25 | 4399 | 508 | 
 | 2022-11-24 | 4399 | 507 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 4302 | 496 | 
 | 2022-10-30 | 4302 | 496 | 
 | 2022-10-29 | 4300 | 497 | 
-| 2022-10-28 | 4301 | 497 | 
 

@@ -1,6 +1,6 @@
 # fazeelkhalid/COAL-labs-FastNu-fall-2020--processor-8080-or-8086- - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 3 | 6 | 
 | 2022-11-26 | 3 | 6 | 
 | 2022-11-25 | 3 | 6 | 
 | 2022-11-24 | 3 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 3 | 6 | 
 | 2022-10-30 | 3 | 6 | 
 | 2022-10-29 | 3 | 6 | 
-| 2022-10-28 | 3 | 6 | 
 

@@ -1,6 +1,6 @@
 # btkrausen/hashicorp - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 443
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 448 | 443 | 
 | 2022-11-26 | 448 | 443 | 
 | 2022-11-25 | 447 | 441 | 
 | 2022-11-24 | 445 | 437 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 427 | 392 | 
 | 2022-10-30 | 426 | 390 | 
 | 2022-10-29 | 425 | 390 | 
-| 2022-10-28 | 423 | 390 | 
 

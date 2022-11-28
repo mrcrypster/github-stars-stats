@@ -1,10 +1,10 @@
 # FinanceData/FinanceDataReader - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 297
+☋ Forks: 298
 
-★ Stars: 847
+★ Stars: 848
 
 [Open repository](https://github.com/FinanceData/FinanceDataReader)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 848 | 298 | 
 | 2022-11-27 | 847 | 297 | 
 | 2022-11-25 | 847 | 296 | 
 | 2022-11-24 | 847 | 296 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-10-31 | 837 | 290 | 
 | 2022-10-30 | 837 | 290 | 
 | 2022-10-29 | 837 | 290 | 
-| 2022-10-28 | 836 | 290 | 
 

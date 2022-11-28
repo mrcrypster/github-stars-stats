@@ -1,8 +1,8 @@
 # note286/xduts - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
-☋ Forks: 14
+☋ Forks: 15
 
 ★ Stars: 162
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 162 | 15 | 
 | 2022-11-26 | 162 | 14 | 
 | 2022-11-25 | 162 | 14 | 
 | 2022-11-24 | 161 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 132 | 13 | 
 | 2022-10-30 | 132 | 13 | 
 | 2022-10-29 | 132 | 13 | 
-| 2022-10-28 | 132 | 13 | 
 

@@ -1,10 +1,10 @@
 # pages-themes/primer - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 244
 
-★ Stars: 218
+★ Stars: 219
 
 [Open repository](https://github.com/pages-themes/primer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 219 | 244 | 
 | 2022-11-26 | 218 | 244 | 
 | 2022-11-25 | 218 | 243 | 
 | 2022-11-24 | 218 | 243 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 216 | 241 | 
 | 2022-10-30 | 216 | 241 | 
 | 2022-10-29 | 216 | 241 | 
-| 2022-10-28 | 216 | 241 | 
 

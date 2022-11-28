@@ -1,10 +1,10 @@
 # pharo-contributions/OSWinSubprocess - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 1
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/pharo-contributions/OSWinSubprocess)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 4 | 1 | 
 | 2022-11-26 | 3 | 1 | 
 | 2022-11-25 | 3 | 1 | 
 | 2022-11-24 | 3 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 3 | 1 | 
 | 2022-10-30 | 3 | 1 | 
 | 2022-10-29 | 3 | 1 | 
-| 2022-10-28 | 3 | 1 | 
 

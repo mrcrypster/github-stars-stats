@@ -1,10 +1,10 @@
 # bensuperpc/docker-crosstool-ng - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 0
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/bensuperpc/docker-crosstool-ng)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 5 | - | 
 | 2022-11-26 | 4 | - | 
 | 2022-11-25 | 4 | - | 
 | 2022-11-24 | 4 | - | 

@@ -1,10 +1,10 @@
 # adamschwartz/log - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 152
 
-★ Stars: 2959
+★ Stars: 2960
 
 [Open repository](https://github.com/adamschwartz/log)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 2960 | 152 | 
 | 2022-11-26 | 2959 | 152 | 
 | 2022-11-25 | 2959 | 152 | 
 | 2022-11-24 | 2959 | 152 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 2955 | 152 | 
 | 2022-10-30 | 2955 | 152 | 
 | 2022-10-29 | 2956 | 152 | 
-| 2022-10-28 | 2956 | 152 | 
 

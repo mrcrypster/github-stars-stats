@@ -1,10 +1,10 @@
 # kidando/gkanban - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
-☋ Forks: 0
+☋ Forks: 1
 
-★ Stars: 35
+★ Stars: 36
 
 [Open repository](https://github.com/kidando/gkanban)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 36 | 1 | 
 | 2022-11-26 | 35 | - | 
 | 2022-11-25 | 35 | - | 
 | 2022-11-24 | 35 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 35 | - | 
 | 2022-10-30 | 35 | - | 
 | 2022-10-29 | 34 | - | 
-| 2022-10-28 | 34 | - | 
 

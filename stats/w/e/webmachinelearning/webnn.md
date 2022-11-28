@@ -1,10 +1,10 @@
 # webmachinelearning/webnn - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 27
 
-★ Stars: 203
+★ Stars: 204
 
 [Open repository](https://github.com/webmachinelearning/webnn)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 204 | 27 | 
 | 2022-11-26 | 203 | 27 | 
 | 2022-11-25 | 203 | 27 | 
 | 2022-11-24 | 203 | 27 | 

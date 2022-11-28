@@ -1,6 +1,6 @@
 # zgzhengSEU/HWStatusCodeAutoQuery - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 214
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 112 | 214 | 
 | 2022-11-26 | 112 | 214 | 
 | 2022-11-25 | 112 | 214 | 
 | 2022-11-24 | 112 | 214 | 

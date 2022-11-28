@@ -1,10 +1,10 @@
 # khezen/compose-postgres - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 700
 
-★ Stars: 967
+★ Stars: 968
 
 [Open repository](https://github.com/khezen/compose-postgres)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 968 | 700 | 
 | 2022-11-26 | 967 | 700 | 
 | 2022-11-25 | 966 | 698 | 
 | 2022-11-24 | 964 | 696 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 940 | 682 | 
 | 2022-10-30 | 938 | 681 | 
 | 2022-10-29 | 937 | 682 | 
-| 2022-10-28 | 936 | 682 | 
 

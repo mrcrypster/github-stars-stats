@@ -1,6 +1,6 @@
 # EnixCoda/Gitako - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 83
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 2020 | 83 | 
 | 2022-11-26 | 2020 | 83 | 
 | 2022-11-25 | 2019 | 83 | 
 | 2022-11-24 | 2018 | 83 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 1991 | 83 | 
 | 2022-10-30 | 1991 | 83 | 
 | 2022-10-29 | 1989 | 83 | 
-| 2022-10-28 | 1988 | 83 | 
 

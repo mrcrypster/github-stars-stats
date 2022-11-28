@@ -1,6 +1,6 @@
 # IGJoshua/farolero - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 287 | 3 | 
 | 2022-11-26 | 287 | 3 | 
 | 2022-11-25 | 287 | 3 | 
 | 2022-11-24 | 287 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 283 | 2 | 
 | 2022-10-30 | 283 | 2 | 
 | 2022-10-29 | 283 | 2 | 
-| 2022-10-28 | 283 | 2 | 
 

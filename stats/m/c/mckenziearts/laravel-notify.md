@@ -1,6 +1,6 @@
 # mckenziearts/laravel-notify - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 143
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 1219 | 143 | 
 | 2022-11-27 | 1219 | 143 | 
 | 2022-11-26 | 1219 | 143 | 
 | 2022-11-25 | 1218 | 143 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-10-31 | 1204 | 143 | 
 | 2022-10-30 | 1204 | 143 | 
 | 2022-10-29 | 1203 | 143 | 
-| 2022-10-28 | 1204 | 143 | 
 

@@ -1,10 +1,10 @@
 # GetStream/motionscape-app - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 12
 
-★ Stars: 124
+★ Stars: 125
 
 [Open repository](https://github.com/GetStream/motionscape-app)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 125 | 12 | 
 | 2022-11-26 | 124 | 12 | 
 | 2022-11-25 | 123 | 12 | 
 | 2022-11-24 | 123 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 122 | 12 | 
 | 2022-10-30 | 122 | 12 | 
 | 2022-10-29 | 122 | 12 | 
-| 2022-10-28 | 122 | 12 | 
 

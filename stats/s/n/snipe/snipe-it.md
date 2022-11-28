@@ -1,8 +1,8 @@
 # snipe/snipe-it - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
-☋ Forks: 2427
+☋ Forks: 2429
 
 ★ Stars: 7023
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 7023 | 2429 | 
 | 2022-11-26 | 7023 | 2427 | 
 | 2022-11-25 | 7020 | 2427 | 
 | 2022-11-24 | 7014 | 2423 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 6946 | 2364 | 
 | 2022-10-30 | 6942 | 2363 | 
 | 2022-10-29 | 6942 | 2363 | 
-| 2022-10-28 | 6932 | 2366 | 
 

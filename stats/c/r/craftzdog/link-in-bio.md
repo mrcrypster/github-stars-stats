@@ -1,10 +1,10 @@
 # craftzdog/link-in-bio - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
-☋ Forks: 71
+☋ Forks: 72
 
-★ Stars: 138
+★ Stars: 139
 
 [Open repository](https://github.com/craftzdog/link-in-bio)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 139 | 72 | 
 | 2022-11-26 | 138 | 71 | 
 | 2022-11-25 | 138 | 72 | 
 | 2022-11-24 | 137 | 72 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 136 | 72 | 
 | 2022-10-30 | 136 | 72 | 
 | 2022-10-29 | 135 | 71 | 
-| 2022-10-28 | 135 | 71 | 
 

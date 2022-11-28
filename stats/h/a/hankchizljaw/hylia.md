@@ -1,6 +1,6 @@
 # hankchizljaw/hylia - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 229
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 898 | 229 | 
 | 2022-11-26 | 898 | 229 | 
 | 2022-11-25 | 897 | 230 | 
 | 2022-11-24 | 897 | 230 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 894 | 230 | 
 | 2022-10-30 | 894 | 230 | 
 | 2022-10-29 | 894 | 230 | 
-| 2022-10-28 | 894 | 230 | 
 

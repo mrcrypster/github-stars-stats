@@ -1,6 +1,6 @@
 # gennaro-tedesco/nvim-peekup - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 200 | 4 | 
 | 2022-11-26 | 200 | 4 | 
 | 2022-11-25 | 199 | 4 | 
 | 2022-11-24 | 198 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 188 | 4 | 
 | 2022-10-30 | 187 | 4 | 
 | 2022-10-29 | 187 | 4 | 
-| 2022-10-28 | 186 | 4 | 
 

@@ -1,6 +1,6 @@
 # hdgarrood/purescript-ansi - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 5
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 10 | 5 | 
+| 2022-11-27 | 10 | 5 | 
 | 2022-11-26 | 10 | 5 | 
 | 2022-11-25 | 10 | 5 | 
 | 2022-11-24 | 10 | 5 | 
@@ -41,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 10 | 5 | 
 | 2022-10-30 | 10 | 5 | 
 | 2022-10-29 | 10 | 5 | 
-| 2022-10-28 | 10 | 5 | 
 

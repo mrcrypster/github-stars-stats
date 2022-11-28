@@ -1,6 +1,6 @@
 # FatimaAlmashhor/Wakelny - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 3 | 4 | 
 | 2022-11-27 | 3 | 4 | 
 | 2022-11-26 | 3 | 4 | 
 | 2022-11-24 | 3 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-10-31 | 3 | 4 | 
 | 2022-10-30 | 3 | 4 | 
 | 2022-10-29 | 3 | 4 | 
-| 2022-10-28 | 3 | 4 | 
 

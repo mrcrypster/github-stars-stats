@@ -1,6 +1,6 @@
 # thirtythreeforty/businesscard-linux - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 175
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 1669 | 175 | 
 | 2022-11-26 | 1669 | 175 | 
 | 2022-11-25 | 1669 | 175 | 
 | 2022-11-24 | 1669 | 174 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 1667 | 174 | 
 | 2022-10-30 | 1666 | 174 | 
 | 2022-10-29 | 1666 | 174 | 
-| 2022-10-28 | 1666 | 174 | 
 

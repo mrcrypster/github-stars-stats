@@ -1,6 +1,6 @@
 # elastic/docs - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 311
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 225 | 311 | 
 | 2022-11-26 | 225 | 311 | 
 | 2022-11-25 | 225 | 311 | 
 | 2022-11-24 | 225 | 311 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 223 | 309 | 
 | 2022-10-30 | 223 | 309 | 
 | 2022-10-29 | 223 | 310 | 
-| 2022-10-28 | 223 | 310 | 
 

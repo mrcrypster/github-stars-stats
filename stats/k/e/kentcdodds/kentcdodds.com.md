@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 27
 
-☋ Forks: 482
+☋ Forks: 483
 
-★ Stars: 1662
+★ Stars: 1667
 
 [Open repository](https://github.com/kentcdodds/kentcdodds.com)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-27 | 1662 | 482 | 
+| 2022-11-27 | 1667 | 483 | 
 | 2022-11-26 | 1661 | 482 | 
 | 2022-11-25 | 1654 | 481 | 
 | 2022-11-24 | 1653 | 480 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-10-31 | 1612 | 483 | 
 | 2022-10-30 | 1612 | 484 | 
 | 2022-10-29 | 1610 | 481 | 
-| 2022-10-28 | 1609 | 481 | 
 

@@ -1,6 +1,6 @@
 # stsquad/dired-rsync - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 93 | 15 | 
 | 2022-11-26 | 93 | 15 | 
 | 2022-11-25 | 93 | 15 | 
 | 2022-11-24 | 93 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 93 | 15 | 
 | 2022-10-30 | 93 | 15 | 
 | 2022-10-29 | 92 | 15 | 
-| 2022-10-28 | 92 | 15 | 
 

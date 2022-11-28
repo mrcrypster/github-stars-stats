@@ -1,10 +1,10 @@
 # spinnaker/gate - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
-☋ Forks: 718
+☋ Forks: 719
 
-★ Stars: 115
+★ Stars: 116
 
 [Open repository](https://github.com/spinnaker/gate)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 116 | 719 | 
 | 2022-11-26 | 115 | 718 | 
 | 2022-11-25 | 115 | 718 | 
 | 2022-11-24 | 115 | 718 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 114 | 713 | 
 | 2022-10-30 | 114 | 713 | 
 | 2022-10-29 | 114 | 713 | 
-| 2022-10-28 | 114 | 714 | 
 

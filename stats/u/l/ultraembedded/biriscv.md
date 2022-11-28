@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 27
 
 ☋ Forks: 94
 
-★ Stars: 496
+★ Stars: 497
 
 [Open repository](https://github.com/ultraembedded/biriscv)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-27 | 496 | 94 | 
+| 2022-11-27 | 497 | 94 | 
 | 2022-11-26 | 496 | 94 | 
 | 2022-11-25 | 494 | 92 | 
 | 2022-11-24 | 493 | 92 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-10-31 | 474 | 87 | 
 | 2022-10-30 | 473 | 87 | 
 | 2022-10-29 | 473 | 87 | 
-| 2022-10-28 | 473 | 87 | 
 

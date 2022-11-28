@@ -1,10 +1,10 @@
 # mawoka-myblock/ClassQuiz - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 23
 
-★ Stars: 119
+★ Stars: 120
 
 [Open repository](https://github.com/mawoka-myblock/ClassQuiz)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 120 | 23 | 
 | 2022-11-26 | 119 | 23 | 
 | 2022-11-25 | 119 | 22 | 
 | 2022-11-24 | 118 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 110 | 22 | 
 | 2022-10-30 | 110 | 22 | 
 | 2022-10-29 | 110 | 22 | 
-| 2022-10-28 | 110 | 22 | 
 

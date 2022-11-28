@@ -1,6 +1,6 @@
 # zobront/xchain - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 74 | 3 | 
 | 2022-11-26 | 74 | 3 | 
 | 2022-11-25 | 74 | 3 | 
 | 2022-11-24 | 74 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 74 | 3 | 
 | 2022-10-30 | 74 | 3 | 
 | 2022-10-29 | 74 | 3 | 
-| 2022-10-28 | 74 | 3 | 
 

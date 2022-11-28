@@ -1,6 +1,6 @@
 # arcones/kc-devops-6-cicd-jenkins-system - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 1 | 2 | 
 | 2022-11-26 | 1 | 2 | 
 | 2022-11-25 | 1 | 2 | 
 | 2022-11-24 | 1 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | - | - | 
 | 2022-10-30 | - | - | 
 | 2022-10-29 | - | - | 
-| 2022-10-28 | - | - | 
 

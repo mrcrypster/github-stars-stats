@@ -1,10 +1,10 @@
 # showyourwork/showyourwork - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 22
 
-★ Stars: 367
+★ Stars: 368
 
 [Open repository](https://github.com/showyourwork/showyourwork)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 368 | 22 | 
 | 2022-11-26 | 367 | 22 | 
 | 2022-11-25 | 367 | 22 | 
 | 2022-11-24 | 367 | 22 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 363 | 22 | 
 | 2022-10-30 | 363 | 22 | 
 | 2022-10-29 | 363 | 22 | 
-| 2022-10-28 | 362 | 22 | 
 

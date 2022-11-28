@@ -1,10 +1,10 @@
 # for-GET/jesse - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 58
 
-★ Stars: 109
+★ Stars: 110
 
 [Open repository](https://github.com/for-GET/jesse)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 110 | 58 | 
 | 2022-11-26 | 109 | 58 | 
 | 2022-11-25 | 109 | 58 | 
 | 2022-11-24 | 109 | 58 | 

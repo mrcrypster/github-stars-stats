@@ -1,6 +1,6 @@
 # cognitedata/spark-jdbc-sink - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 1 | 1 | 
 | 2022-11-26 | 1 | 1 | 
 | 2022-11-25 | 1 | 1 | 
 | 2022-11-24 | 1 | 1 | 

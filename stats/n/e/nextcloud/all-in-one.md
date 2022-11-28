@@ -1,10 +1,10 @@
 # nextcloud/all-in-one - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 142
 
-★ Stars: 965
+★ Stars: 970
 
 [Open repository](https://github.com/nextcloud/all-in-one)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 970 | 142 | 
 | 2022-11-26 | 965 | 142 | 
 | 2022-11-25 | 965 | 141 | 
 | 2022-11-24 | 962 | 140 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 832 | 124 | 
 | 2022-10-30 | 818 | 121 | 
 | 2022-10-29 | 805 | 116 | 
-| 2022-10-28 | 803 | 116 | 
 

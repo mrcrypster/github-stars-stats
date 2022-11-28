@@ -1,10 +1,10 @@
 # cilium/cilium - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 1904
 
-★ Stars: 13620
+★ Stars: 13623
 
 [Open repository](https://github.com/cilium/cilium)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 13623 | 1904 | 
 | 2022-11-26 | 13620 | 1904 | 
 | 2022-11-25 | 13615 | 1904 | 
 | 2022-11-24 | 13604 | 1899 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 13373 | 1856 | 
 | 2022-10-30 | 13364 | 1854 | 
 | 2022-10-29 | 13356 | 1855 | 
-| 2022-10-28 | 13350 | 1852 | 
 

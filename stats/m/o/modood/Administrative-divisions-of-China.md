@@ -1,10 +1,10 @@
 # modood/Administrative-divisions-of-China - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 6602
 
-★ Stars: 14347
+★ Stars: 14350
 
 [Open repository](https://github.com/modood/Administrative-divisions-of-China)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 14350 | 6602 | 
 | 2022-11-26 | 14347 | 6602 | 
 | 2022-11-25 | 14345 | 6601 | 
 | 2022-11-24 | 14341 | 6600 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-11-01 | 14226 | 6562 | 
 | 2022-10-31 | 14219 | 6556 | 
 | 2022-10-30 | 14218 | 6555 | 
-| 2022-10-29 | 14216 | 6553 | 
 

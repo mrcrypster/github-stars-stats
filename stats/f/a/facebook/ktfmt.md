@@ -1,6 +1,6 @@
 # facebook/ktfmt - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 564 | 41 | 
 | 2022-11-27 | 564 | 41 | 
 | 2022-11-26 | 563 | 41 | 
 | 2022-11-25 | 562 | 40 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-10-31 | 538 | 40 | 
 | 2022-10-30 | 532 | 40 | 
 | 2022-10-29 | 527 | 40 | 
-| 2022-10-28 | 524 | 40 | 
 

@@ -1,6 +1,6 @@
 # mohitmishra786/hacktoberfest-2022 - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 88
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 33 | 88 | 
 | 2022-11-26 | 33 | 88 | 
 | 2022-11-25 | 33 | 88 | 
 | 2022-11-24 | 33 | 88 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 36 | 90 | 
 | 2022-10-30 | 36 | 89 | 
 | 2022-10-29 | 36 | 87 | 
-| 2022-10-28 | 35 | 86 | 
 

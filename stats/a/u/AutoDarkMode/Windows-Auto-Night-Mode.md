@@ -1,10 +1,10 @@
 # AutoDarkMode/Windows-Auto-Night-Mode - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 202
+☋ Forks: 203
 
-★ Stars: 4876
+★ Stars: 4878
 
 [Open repository](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 4878 | 203 | 
 | 2022-11-27 | 4876 | 202 | 
 | 2022-11-25 | 4869 | 202 | 
 | 2022-11-24 | 4863 | 201 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-10-31 | 4719 | 200 | 
 | 2022-10-30 | 4713 | 199 | 
 | 2022-10-29 | 4710 | 199 | 
-| 2022-10-28 | 4705 | 199 | 
 

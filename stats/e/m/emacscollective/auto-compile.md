@@ -1,6 +1,6 @@
 # emacscollective/auto-compile - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 141 | 15 | 
 | 2022-11-27 | 141 | 15 | 
 | 2022-11-26 | 141 | 15 | 
 | 2022-11-24 | 141 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-10-31 | 140 | 15 | 
 | 2022-10-30 | 140 | 15 | 
 | 2022-10-29 | 140 | 15 | 
-| 2022-10-28 | 140 | 15 | 
 

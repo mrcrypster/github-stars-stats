@@ -1,10 +1,10 @@
 # pion/opus - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
-☋ Forks: 8
+☋ Forks: 9
 
-★ Stars: 239
+★ Stars: 240
 
 [Open repository](https://github.com/pion/opus)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 240 | 9 | 
 | 2022-11-26 | 239 | 8 | 
 | 2022-11-25 | 239 | 8 | 
 | 2022-11-24 | 239 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 237 | 8 | 
 | 2022-10-30 | 236 | 8 | 
 | 2022-10-29 | 236 | 8 | 
-| 2022-10-28 | 236 | 8 | 
 

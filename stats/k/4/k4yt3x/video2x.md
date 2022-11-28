@@ -1,10 +1,10 @@
 # k4yt3x/video2x - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 602
 
-★ Stars: 5710
+★ Stars: 5716
 
 [Open repository](https://github.com/k4yt3x/video2x)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 5716 | 602 | 
 | 2022-11-26 | 5710 | 602 | 
 | 2022-11-25 | 5707 | 602 | 
 | 2022-11-24 | 5701 | 602 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 5559 | 591 | 
 | 2022-10-30 | 5553 | 590 | 
 | 2022-10-29 | 5546 | 589 | 
-| 2022-10-28 | 5541 | 587 | 
 

@@ -1,10 +1,10 @@
 # BetaSu/fe-hunter - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 120
 
-★ Stars: 1519
+★ Stars: 1520
 
 [Open repository](https://github.com/BetaSu/fe-hunter)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 1520 | 120 | 
 | 2022-11-26 | 1519 | 120 | 
 | 2022-11-25 | 1517 | 120 | 
 | 2022-11-24 | 1516 | 120 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 1473 | 117 | 
 | 2022-10-30 | 1472 | 117 | 
 | 2022-10-29 | 1472 | 117 | 
-| 2022-10-28 | 1471 | 118 | 
 

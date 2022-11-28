@@ -1,10 +1,10 @@
 # Anuj-Kumar-Sharma/Web-Development-Course - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 24
 
-★ Stars: 70
+★ Stars: 74
 
 [Open repository](https://github.com/Anuj-Kumar-Sharma/Web-Development-Course)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 74 | 24 | 
 | 2022-11-26 | 70 | 24 | 
 | 2022-11-25 | 70 | 22 | 
 | 2022-11-24 | 70 | 22 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 64 | 15 | 
 | 2022-10-30 | 64 | 15 | 
 | 2022-10-29 | 64 | 15 | 
-| 2022-10-28 | 64 | 15 | 
 

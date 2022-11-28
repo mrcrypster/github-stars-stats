@@ -1,10 +1,10 @@
 # nf-core/methylseq - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 102
 
-★ Stars: 93
+★ Stars: 94
 
 [Open repository](https://github.com/nf-core/methylseq)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 94 | 102 | 
 | 2022-11-27 | 93 | 102 | 
 | 2022-11-25 | 93 | 102 | 
 | 2022-11-24 | 93 | 102 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-10-31 | 90 | 100 | 
 | 2022-10-30 | 90 | 100 | 
 | 2022-10-29 | 90 | 100 | 
-| 2022-10-28 | 90 | 100 | 
 

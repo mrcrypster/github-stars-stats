@@ -1,6 +1,6 @@
 # fnando/i18n-js - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 526
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 3617 | 526 | 
 | 2022-11-26 | 3617 | 526 | 
 | 2022-11-25 | 3618 | 526 | 
 | 2022-11-24 | 3617 | 524 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 3617 | 523 | 
 | 2022-10-30 | 3616 | 523 | 
 | 2022-10-29 | 3616 | 523 | 
-| 2022-10-28 | 3615 | 524 | 
 

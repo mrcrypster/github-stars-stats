@@ -1,6 +1,6 @@
 # databricks/spark-xml - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 218
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 426 | 218 | 
 | 2022-11-26 | 426 | 218 | 
 | 2022-11-25 | 426 | 218 | 
 | 2022-11-24 | 426 | 218 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 422 | 219 | 
 | 2022-10-30 | 422 | 219 | 
 | 2022-10-29 | 422 | 219 | 
-| 2022-10-28 | 422 | 219 | 
 

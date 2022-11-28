@@ -1,8 +1,8 @@
 # Brackeys/Health-Bar - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
-☋ Forks: 221
+☋ Forks: 222
 
 ★ Stars: 67
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 67 | 222 | 
 | 2022-11-26 | 67 | 221 | 
 | 2022-11-25 | 67 | 222 | 
 | 2022-11-24 | 67 | 222 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 68 | 218 | 
 | 2022-10-30 | 68 | 217 | 
 | 2022-10-29 | 68 | 217 | 
-| 2022-10-28 | 68 | 217 | 
 

@@ -1,8 +1,8 @@
 # beurtschipper/Depix - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
-☋ Forks: 2801
+☋ Forks: 2800
 
 ★ Stars: 22968
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 22968 | 2800 | 
 | 2022-11-26 | 22968 | 2801 | 
 | 2022-11-25 | 22969 | 2801 | 
 | 2022-11-24 | 22968 | 2800 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 22885 | 2783 | 
 | 2022-10-30 | 22882 | 2783 | 
 | 2022-10-29 | 22875 | 2783 | 
-| 2022-10-28 | 22875 | 2783 | 
 

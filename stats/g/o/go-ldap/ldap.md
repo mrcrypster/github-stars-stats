@@ -1,10 +1,10 @@
 # go-ldap/ldap - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 311
 
-★ Stars: 1825
+★ Stars: 1826
 
 [Open repository](https://github.com/go-ldap/ldap)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 1826 | 311 | 
 | 2022-11-26 | 1825 | 311 | 
 | 2022-11-25 | 1822 | 311 | 
 | 2022-11-24 | 1820 | 310 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 1804 | 310 | 
 | 2022-10-30 | 1804 | 310 | 
 | 2022-10-29 | 1804 | 311 | 
-| 2022-10-28 | 1804 | 311 | 
 

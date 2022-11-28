@@ -1,6 +1,6 @@
 # HyukIsBack/KARMA-DDoS - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 147
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 241 | 147 | 
 | 2022-11-26 | 241 | 147 | 
 | 2022-11-25 | 241 | 147 | 
 | 2022-11-24 | 240 | 145 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 228 | 136 | 
 | 2022-10-30 | 228 | 136 | 
 | 2022-10-29 | 227 | 135 | 
-| 2022-10-28 | 227 | 135 | 
 

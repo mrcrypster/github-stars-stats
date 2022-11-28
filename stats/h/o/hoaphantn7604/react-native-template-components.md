@@ -1,6 +1,6 @@
 # hoaphantn7604/react-native-template-components - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 102 | 43 | 
 | 2022-11-26 | 102 | 43 | 
 | 2022-11-25 | 102 | 43 | 
 | 2022-11-24 | 102 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 97 | 39 | 
 | 2022-10-30 | 97 | 39 | 
 | 2022-10-29 | 97 | 38 | 
-| 2022-10-28 | 96 | 38 | 
 

@@ -1,6 +1,6 @@
 # SciML/DiffEqBase.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 86
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 208 | 86 | 
 | 2022-11-26 | 208 | 86 | 
 | 2022-11-25 | 208 | 86 | 
 | 2022-11-24 | 208 | 86 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 206 | 86 | 
 | 2022-10-30 | 206 | 86 | 
 | 2022-10-29 | 206 | 86 | 
-| 2022-10-28 | 206 | 86 | 
 

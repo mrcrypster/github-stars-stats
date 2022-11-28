@@ -1,10 +1,10 @@
 # input-output-hk/devx - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 2
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/input-output-hk/devx)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 3 | 2 | 
 | 2022-11-26 | 2 | 2 | 
 | 2022-11-25 | 2 | 2 | 
 | 2022-11-24 | 2 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 2 | 1 | 
 | 2022-10-30 | 2 | 1 | 
 | 2022-10-29 | 2 | 1 | 
-| 2022-10-28 | 2 | 1 | 
 

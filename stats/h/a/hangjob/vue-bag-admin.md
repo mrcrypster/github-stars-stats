@@ -1,6 +1,6 @@
 # hangjob/vue-bag-admin - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 71
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 329 | 71 | 
 | 2022-11-27 | 329 | 71 | 
 | 2022-11-25 | 329 | 71 | 
 | 2022-11-24 | 328 | 71 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-10-31 | 319 | 68 | 
 | 2022-10-30 | 318 | 68 | 
 | 2022-10-29 | 318 | 68 | 
-| 2022-10-28 | 317 | 68 | 
 

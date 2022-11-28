@@ -1,10 +1,10 @@
 # aeternity/aeternity - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 28
 
-☋ Forks: 236
+☋ Forks: 235
 
-★ Stars: 1024
+★ Stars: 1026
 
 [Open repository](https://github.com/aeternity/aeternity)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 1026 | 235 | 
 | 2022-11-26 | 1024 | 236 | 
 | 2022-11-25 | 1024 | 236 | 
 | 2022-11-24 | 1024 | 236 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 1021 | 233 | 
 | 2022-10-30 | 1021 | 233 | 
 | 2022-10-29 | 1021 | 233 | 
-| 2022-10-28 | 1021 | 233 | 
 

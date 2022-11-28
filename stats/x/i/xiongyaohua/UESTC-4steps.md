@@ -1,6 +1,6 @@
 # xiongyaohua/UESTC-4steps - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | - | 6 | 
 | 2022-11-26 | - | 6 | 
 | 2022-11-25 | - | 6 | 
 | 2022-11-24 | - | 6 | 

@@ -1,10 +1,10 @@
 # antonioCoco/ConPtyShell - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 115
 
-★ Stars: 685
+★ Stars: 686
 
 [Open repository](https://github.com/antonioCoco/ConPtyShell)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 686 | 115 | 
 | 2022-11-26 | 685 | 115 | 
 | 2022-11-25 | 685 | 115 | 
 | 2022-11-24 | 683 | 115 | 

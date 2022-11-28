@@ -1,6 +1,6 @@
 # FStarLang/karamel - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 342 | 53 | 
 | 2022-11-26 | 342 | 53 | 
 | 2022-11-25 | 342 | 53 | 
 | 2022-11-24 | 342 | 53 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 340 | 53 | 
 | 2022-10-30 | 340 | 53 | 
 | 2022-10-29 | 340 | 53 | 
-| 2022-10-28 | 340 | 53 | 
 

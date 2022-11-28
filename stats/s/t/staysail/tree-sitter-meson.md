@@ -1,6 +1,6 @@
 # staysail/tree-sitter-meson - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 0
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | - | - | 
+| 2022-11-27 | - | - | 
 | 2022-11-26 | - | - | 
 | 2022-11-25 | - | - | 
 | 2022-11-24 | - | - | 

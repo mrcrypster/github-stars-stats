@@ -1,6 +1,6 @@
 # dotnet-presentations/blazor-workshop - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 1321
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 2977 | 1321 | 
 | 2022-11-26 | 2977 | 1321 | 
 | 2022-11-25 | 2977 | 1320 | 
 | 2022-11-24 | 2977 | 1320 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 2966 | 1310 | 
 | 2022-10-30 | 2965 | 1308 | 
 | 2022-10-29 | 2964 | 1308 | 
-| 2022-10-28 | 2961 | 1309 | 
 

@@ -1,10 +1,10 @@
 # klauspost/compress - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 234
 
-★ Stars: 3352
+★ Stars: 3354
 
 [Open repository](https://github.com/klauspost/compress)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 3354 | 234 | 
 | 2022-11-26 | 3352 | 234 | 
 | 2022-11-25 | 3352 | 234 | 
 | 2022-11-24 | 3347 | 234 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 3310 | 231 | 
 | 2022-10-30 | 3309 | 229 | 
 | 2022-10-29 | 3309 | 229 | 
-| 2022-10-28 | 3304 | 231 | 
 

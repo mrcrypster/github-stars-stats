@@ -1,6 +1,6 @@
 # silkeh/docker-clang - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 71 | 33 | 
 | 2022-11-26 | 71 | 33 | 
 | 2022-11-25 | 71 | 33 | 
 | 2022-11-24 | 71 | 33 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 69 | 33 | 
 | 2022-10-30 | 69 | 33 | 
 | 2022-10-29 | 69 | 33 | 
-| 2022-10-28 | 69 | 33 | 
 

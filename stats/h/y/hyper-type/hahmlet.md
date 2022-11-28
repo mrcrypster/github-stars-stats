@@ -1,10 +1,10 @@
 # hyper-type/hahmlet - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 10
 
-★ Stars: 43
+★ Stars: 45
 
 [Open repository](https://github.com/hyper-type/hahmlet)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 45 | 10 | 
 | 2022-11-26 | 43 | 10 | 
 | 2022-11-25 | 38 | 10 | 
 | 2022-11-24 | 38 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 37 | 9 | 
 | 2022-10-30 | 37 | 9 | 
 | 2022-10-29 | 36 | 9 | 
-| 2022-10-28 | 36 | 9 | 
 

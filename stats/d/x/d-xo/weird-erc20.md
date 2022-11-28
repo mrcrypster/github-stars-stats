@@ -1,10 +1,10 @@
 # d-xo/weird-erc20 - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
-☋ Forks: 44
+☋ Forks: 45
 
-★ Stars: 433
+★ Stars: 434
 
 [Open repository](https://github.com/d-xo/weird-erc20)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 434 | 45 | 
 | 2022-11-26 | 433 | 44 | 
 | 2022-11-25 | 431 | 43 | 
 | 2022-11-24 | 431 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 425 | 43 | 
 | 2022-10-30 | 425 | 44 | 
 | 2022-10-29 | 424 | 44 | 
-| 2022-10-28 | 424 | 44 | 
 

@@ -1,6 +1,6 @@
 # kommitters/kadena.ex - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 2 | 7 | 
 | 2022-11-27 | 2 | 7 | 
 | 2022-11-26 | 2 | 7 | 
 | 2022-11-25 | 2 | 7 | 

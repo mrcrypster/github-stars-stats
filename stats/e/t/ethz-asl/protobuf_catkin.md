@@ -1,6 +1,6 @@
 # ethz-asl/protobuf_catkin - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 16 | 26 | 
 | 2022-11-26 | 16 | 26 | 
 | 2022-11-25 | 16 | 26 | 
 | 2022-11-24 | 16 | 26 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 15 | 26 | 
 | 2022-10-30 | 15 | 26 | 
 | 2022-10-29 | 15 | 26 | 
-| 2022-10-28 | 15 | 26 | 
 

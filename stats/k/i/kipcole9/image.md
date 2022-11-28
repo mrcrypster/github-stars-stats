@@ -1,8 +1,8 @@
 # kipcole9/image - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
-☋ Forks: 12
+☋ Forks: 13
 
 ★ Stars: 120
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 120 | 13 | 
 | 2022-11-26 | 120 | 12 | 
 | 2022-11-25 | 120 | 12 | 
 | 2022-11-24 | 120 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 111 | 12 | 
 | 2022-10-30 | 110 | 12 | 
 | 2022-10-29 | 110 | 12 | 
-| 2022-10-28 | 107 | 12 | 
 

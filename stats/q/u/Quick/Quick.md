@@ -1,8 +1,8 @@
 # Quick/Quick - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
-☋ Forks: 907
+☋ Forks: 908
 
 ★ Stars: 9563
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 9563 | 908 | 
 | 2022-11-26 | 9563 | 907 | 
 | 2022-11-25 | 9564 | 907 | 
 | 2022-11-24 | 9565 | 906 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 9547 | 907 | 
 | 2022-10-30 | 9546 | 907 | 
 | 2022-10-29 | 9546 | 907 | 
-| 2022-10-28 | 9545 | 907 | 
 

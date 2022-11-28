@@ -1,8 +1,8 @@
 # phpmd/phpmd - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
-☋ Forks: 345
+☋ Forks: 344
 
 ★ Stars: 2125
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 2125 | 344 | 
 | 2022-11-26 | 2125 | 345 | 
 | 2022-11-25 | 2124 | 345 | 
 | 2022-11-24 | 2124 | 345 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 2119 | 344 | 
 | 2022-10-30 | 2119 | 344 | 
 | 2022-10-29 | 2119 | 345 | 
-| 2022-10-28 | 2119 | 345 | 
 

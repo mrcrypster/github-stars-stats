@@ -1,10 +1,10 @@
 # YoYoGames/GameMaker-HTML5 - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 18
 
-★ Stars: 133
+★ Stars: 135
 
 [Open repository](https://github.com/YoYoGames/GameMaker-HTML5)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 135 | 18 | 
 | 2022-11-26 | 133 | 18 | 
 | 2022-11-25 | 134 | 18 | 
 | 2022-11-24 | 133 | 18 | 

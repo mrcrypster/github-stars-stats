@@ -1,6 +1,6 @@
 # guruhariharaun/Registration-and-Login-Form-in-Nodejs-and-MongoDB - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 70 | 42 | 
 | 2022-11-26 | 70 | 42 | 
 | 2022-11-25 | 70 | 42 | 
 | 2022-11-24 | 70 | 42 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 67 | 37 | 
 | 2022-10-30 | 66 | 36 | 
 | 2022-10-29 | 65 | 36 | 
-| 2022-10-28 | 65 | 36 | 
 

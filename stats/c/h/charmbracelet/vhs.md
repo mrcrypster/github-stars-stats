@@ -1,10 +1,10 @@
 # charmbracelet/vhs - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
-☋ Forks: 117
+☋ Forks: 118
 
-★ Stars: 8304
+★ Stars: 8403
 
 [Open repository](https://github.com/charmbracelet/vhs)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 8403 | 118 | 
 | 2022-11-26 | 8304 | 117 | 
 | 2022-11-25 | 8256 | 114 | 
 | 2022-11-24 | 8228 | 112 | 

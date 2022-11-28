@@ -1,10 +1,10 @@
 # coding-parrot/Low-Level-Design - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 293
 
-★ Stars: 714
+★ Stars: 715
 
 [Open repository](https://github.com/coding-parrot/Low-Level-Design)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 715 | 293 | 
 | 2022-11-26 | 714 | 293 | 
 | 2022-11-25 | 713 | 292 | 
 | 2022-11-24 | 713 | 292 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 694 | 285 | 
 | 2022-10-30 | 691 | 285 | 
 | 2022-10-29 | 689 | 284 | 
-| 2022-10-28 | 689 | 284 | 
 

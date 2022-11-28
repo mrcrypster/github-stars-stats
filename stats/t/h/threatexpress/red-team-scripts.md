@@ -1,6 +1,6 @@
 # threatexpress/red-team-scripts - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 186
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 1039 | 186 | 
 | 2022-11-26 | 1039 | 186 | 
 | 2022-11-25 | 1039 | 186 | 
 | 2022-11-24 | 1040 | 186 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-11-01 | 1037 | 185 | 
 | 2022-10-31 | 1036 | 185 | 
 | 2022-10-30 | 1036 | 185 | 
-| 2022-10-29 | 1036 | 185 | 
 

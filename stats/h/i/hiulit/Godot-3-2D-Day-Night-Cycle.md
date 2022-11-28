@@ -1,10 +1,10 @@
 # hiulit/Godot-3-2D-Day-Night-Cycle - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 16
 
-★ Stars: 253
+★ Stars: 254
 
 [Open repository](https://github.com/hiulit/Godot-3-2D-Day-Night-Cycle)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 254 | 16 | 
 | 2022-11-26 | 253 | 16 | 
 | 2022-11-25 | 253 | 16 | 
 | 2022-11-24 | 253 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 249 | 18 | 
 | 2022-10-30 | 249 | 18 | 
 | 2022-10-29 | 248 | 18 | 
-| 2022-10-28 | 248 | 17 | 
 

@@ -1,6 +1,6 @@
 # rsksmart/rif-relay-contracts - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 3 | 9 | 
 | 2022-11-26 | 3 | 9 | 
 | 2022-11-25 | 3 | 9 | 
 | 2022-11-24 | 3 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 2 | 9 | 
 | 2022-10-30 | 2 | 9 | 
 | 2022-10-29 | 2 | 9 | 
-| 2022-10-28 | 2 | 9 | 
 

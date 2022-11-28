@@ -1,10 +1,10 @@
 # pizzaboxer/bloxstrap - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 6
 
-★ Stars: 74
+★ Stars: 75
 
 [Open repository](https://github.com/pizzaboxer/bloxstrap)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 75 | 6 | 
 | 2022-11-26 | 74 | 6 | 
 | 2022-11-25 | 74 | 6 | 
 | 2022-11-24 | 73 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 58 | 5 | 
 | 2022-10-30 | 58 | 5 | 
 | 2022-10-29 | 58 | 5 | 
-| 2022-10-28 | 57 | 5 | 
 

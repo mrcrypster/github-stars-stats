@@ -1,6 +1,6 @@
 # BSData/phalanx - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 118 | 22 | 
 | 2022-11-26 | 118 | 22 | 
 | 2022-11-25 | 118 | 22 | 
 | 2022-11-24 | 117 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 110 | 21 | 
 | 2022-10-30 | 109 | 21 | 
 | 2022-10-29 | 109 | 21 | 
-| 2022-10-28 | 109 | 21 | 
 

@@ -1,10 +1,10 @@
 # typesense/typesense - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 340
 
-★ Stars: 11716
+★ Stars: 11721
 
 [Open repository](https://github.com/typesense/typesense)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 11721 | 340 | 
 | 2022-11-26 | 11716 | 340 | 
 | 2022-11-25 | 11709 | 340 | 
 | 2022-11-24 | 11701 | 338 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 11536 | 333 | 
 | 2022-10-30 | 11521 | 331 | 
 | 2022-10-29 | 11513 | 332 | 
-| 2022-10-28 | 11507 | 332 | 
 

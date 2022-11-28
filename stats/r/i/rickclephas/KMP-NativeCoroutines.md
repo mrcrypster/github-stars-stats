@@ -1,10 +1,10 @@
 # rickclephas/KMP-NativeCoroutines - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 20
 
-★ Stars: 476
+★ Stars: 479
 
 [Open repository](https://github.com/rickclephas/KMP-NativeCoroutines)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 479 | 20 | 
 | 2022-11-26 | 476 | 20 | 
 | 2022-11-25 | 468 | 20 | 
 | 2022-11-24 | 467 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 447 | 19 | 
 | 2022-10-30 | 445 | 19 | 
 | 2022-10-29 | 445 | 19 | 
-| 2022-10-28 | 445 | 19 | 
 

@@ -1,10 +1,10 @@
 # xijaja/love-you - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 4
 
-★ Stars: 4
+★ Stars: 6
 
 [Open repository](https://github.com/xijaja/love-you)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 6 | 4 | 
 | 2022-11-26 | 4 | 4 | 
 | 2022-11-25 | 4 | 4 | 
 | 2022-11-24 | 4 | 4 | 

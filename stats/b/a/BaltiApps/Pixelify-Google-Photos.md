@@ -1,6 +1,6 @@
 # BaltiApps/Pixelify-Google-Photos - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 471 | 24 | 
 | 2022-11-26 | 471 | 24 | 
 | 2022-11-25 | 471 | 24 | 
 | 2022-11-24 | 469 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 445 | 25 | 
 | 2022-10-30 | 444 | 25 | 
 | 2022-10-29 | 442 | 25 | 
-| 2022-10-28 | 442 | 25 | 
 

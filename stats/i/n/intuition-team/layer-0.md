@@ -1,6 +1,6 @@
 # intuition-team/layer-0 - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 4 | 29 | 
 | 2022-11-26 | 4 | 29 | 
 | 2022-11-25 | 4 | 29 | 
 | 2022-11-24 | 4 | 29 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 4 | 29 | 
 | 2022-10-30 | 4 | 29 | 
 | 2022-10-29 | 4 | 29 | 
-| 2022-10-28 | 4 | 29 | 
 

@@ -1,6 +1,6 @@
 # frohoff/ysoserial - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 1577
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 5901 | 1577 | 
 | 2022-11-26 | 5901 | 1577 | 
 | 2022-11-25 | 5899 | 1577 | 
 | 2022-11-24 | 5899 | 1577 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 5826 | 1562 | 
 | 2022-10-30 | 5821 | 1562 | 
 | 2022-10-29 | 5819 | 1561 | 
-| 2022-10-28 | 5814 | 1560 | 
 

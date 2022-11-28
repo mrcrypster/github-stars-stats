@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 27
 
 ☋ Forks: 39
 
-★ Stars: 286
+★ Stars: 287
 
 [Open repository](https://github.com/Didnelpsun/Math)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-27 | 286 | 39 | 
+| 2022-11-27 | 287 | 39 | 
 | 2022-11-26 | 284 | 39 | 
 | 2022-11-24 | 283 | 39 | 
 | 2022-11-23 | 282 | 39 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-10-31 | 256 | 36 | 
 | 2022-10-30 | 256 | 36 | 
 | 2022-10-29 | 256 | 36 | 
-| 2022-10-28 | 256 | 36 | 
 

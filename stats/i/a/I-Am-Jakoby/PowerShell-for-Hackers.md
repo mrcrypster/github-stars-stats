@@ -1,6 +1,6 @@
 # I-Am-Jakoby/PowerShell-for-Hackers - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 298 | 25 | 
 | 2022-11-26 | 298 | 25 | 
 | 2022-11-25 | 298 | 24 | 
 | 2022-11-24 | 298 | 24 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 273 | 23 | 
 | 2022-10-30 | 271 | 23 | 
 | 2022-10-29 | 270 | 23 | 
-| 2022-10-28 | 269 | 23 | 
 

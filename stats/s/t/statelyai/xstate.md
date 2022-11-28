@@ -1,10 +1,10 @@
 # statelyai/xstate - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 1032
 
-★ Stars: 21803
+★ Stars: 21807
 
 [Open repository](https://github.com/statelyai/xstate)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 21807 | 1032 | 
 | 2022-11-26 | 21803 | 1032 | 
 | 2022-11-25 | 21803 | 1032 | 
 | 2022-11-24 | 21801 | 1031 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 21620 | 1022 | 
 | 2022-10-30 | 21611 | 1023 | 
 | 2022-10-29 | 21612 | 1023 | 
-| 2022-10-28 | 21607 | 1022 | 
 

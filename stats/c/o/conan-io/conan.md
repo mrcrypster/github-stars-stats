@@ -1,10 +1,10 @@
 # conan-io/conan - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 813
 
-★ Stars: 6367
+★ Stars: 6372
 
 [Open repository](https://github.com/conan-io/conan)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 6372 | 813 | 
 | 2022-11-26 | 6367 | 813 | 
 | 2022-11-25 | 6365 | 813 | 
 | 2022-11-24 | 6361 | 812 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 6296 | 803 | 
 | 2022-10-30 | 6292 | 803 | 
 | 2022-10-29 | 6287 | 804 | 
-| 2022-10-28 | 6286 | 804 | 
 

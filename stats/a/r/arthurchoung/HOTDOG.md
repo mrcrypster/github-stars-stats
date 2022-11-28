@@ -1,6 +1,6 @@
 # arthurchoung/HOTDOG - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 197 | 6 | 
 | 2022-11-26 | 197 | 6 | 
 | 2022-11-25 | 197 | 6 | 
 | 2022-11-24 | 197 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 195 | 6 | 
 | 2022-10-30 | 195 | 6 | 
 | 2022-10-29 | 194 | 6 | 
-| 2022-10-28 | 194 | 6 | 
 

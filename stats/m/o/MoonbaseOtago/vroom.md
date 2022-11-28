@@ -1,6 +1,6 @@
 # MoonbaseOtago/vroom - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 299 | 9 | 
 | 2022-11-26 | 299 | 9 | 
 | 2022-11-25 | 299 | 9 | 
 | 2022-11-24 | 299 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 297 | 9 | 
 | 2022-10-30 | 297 | 9 | 
 | 2022-10-29 | 297 | 9 | 
-| 2022-10-28 | 297 | 9 | 
 

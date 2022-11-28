@@ -1,10 +1,10 @@
 # absinthe-graphql/absinthe - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 487
 
-★ Stars: 4044
+★ Stars: 4046
 
 [Open repository](https://github.com/absinthe-graphql/absinthe)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 4046 | 487 | 
 | 2022-11-26 | 4044 | 487 | 
 | 2022-11-25 | 4044 | 487 | 
 | 2022-11-24 | 4043 | 487 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 4030 | 484 | 
 | 2022-10-30 | 4030 | 484 | 
 | 2022-10-29 | 4028 | 484 | 
-| 2022-10-28 | 4028 | 484 | 
 

@@ -1,8 +1,8 @@
 # staltz/ttosa - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
-☋ Forks: 14
+☋ Forks: 13
 
 ★ Stars: 71
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 71 | 13 | 
 | 2022-11-26 | 71 | 14 | 
 | 2022-11-25 | 71 | 14 | 
 | 2022-11-24 | 71 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-11-01 | 70 | 14 | 
 | 2022-10-31 | 70 | 14 | 
 | 2022-10-30 | 70 | 14 | 
-| 2022-10-29 | 70 | 14 | 
 

@@ -1,8 +1,8 @@
 # Nuno-Filipe-Studios/FNF-HD-Psych-Engine-Port-Source-Code - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
-☋ Forks: 13
+☋ Forks: 12
 
 ★ Stars: 8
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 8 | 12 | 
 | 2022-11-26 | 8 | 13 | 
 | 2022-11-25 | 8 | 13 | 
 | 2022-11-24 | 8 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 5 | 11 | 
 | 2022-10-30 | 5 | 11 | 
 | 2022-10-29 | 5 | 11 | 
-| 2022-10-28 | 5 | 11 | 
 

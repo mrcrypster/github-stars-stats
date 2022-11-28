@@ -1,6 +1,6 @@
 # wix/AppleSimulatorUtils - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 545 | 51 | 
 | 2022-11-26 | 545 | 51 | 
 | 2022-11-25 | 544 | 51 | 
 | 2022-11-24 | 544 | 51 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 537 | 50 | 
 | 2022-10-30 | 537 | 50 | 
 | 2022-10-29 | 537 | 50 | 
-| 2022-10-28 | 536 | 50 | 
 

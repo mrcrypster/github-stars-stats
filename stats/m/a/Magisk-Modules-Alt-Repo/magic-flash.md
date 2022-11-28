@@ -1,10 +1,10 @@
 # Magisk-Modules-Alt-Repo/magic-flash - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 6
 
-★ Stars: 94
+★ Stars: 95
 
 [Open repository](https://github.com/Magisk-Modules-Alt-Repo/magic-flash)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 95 | 6 | 
 | 2022-11-26 | 94 | 6 | 
 | 2022-11-25 | 94 | 6 | 
 | 2022-11-24 | 94 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 91 | 6 | 
 | 2022-10-30 | 91 | 6 | 
 | 2022-10-29 | 91 | 6 | 
-| 2022-10-28 | 92 | 6 | 
 

@@ -1,10 +1,10 @@
 # CnCNet/cncnet-yr-client-package - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 13
 
-★ Stars: 72
+★ Stars: 73
 
 [Open repository](https://github.com/CnCNet/cncnet-yr-client-package)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 73 | 13 | 
 | 2022-11-26 | 72 | 13 | 
 | 2022-11-25 | 72 | 13 | 
 | 2022-11-24 | 72 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 71 | 13 | 
 | 2022-10-30 | 71 | 13 | 
 | 2022-10-29 | 70 | 13 | 
-| 2022-10-28 | 70 | 13 | 
 

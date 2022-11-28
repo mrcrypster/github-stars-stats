@@ -1,6 +1,6 @@
 # dotbalo/k8s - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 264
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 245 | 264 | 
 | 2022-11-26 | 245 | 264 | 
 | 2022-11-25 | 245 | 264 | 
 | 2022-11-24 | 245 | 263 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 240 | 258 | 
 | 2022-10-30 | 240 | 258 | 
 | 2022-10-29 | 240 | 258 | 
-| 2022-10-28 | 240 | 257 | 
 

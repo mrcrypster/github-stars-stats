@@ -1,10 +1,10 @@
 # kevmodrome/kitbase - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 2
 
-★ Stars: 29
+★ Stars: 31
 
 [Open repository](https://github.com/kevmodrome/kitbase)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 31 | 2 | 
 | 2022-11-26 | 29 | 2 | 
 | 2022-11-25 | 29 | 1 | 
 | 2022-11-24 | 29 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 21 | 1 | 
 | 2022-10-30 | 21 | 1 | 
 | 2022-10-29 | 21 | 1 | 
-| 2022-10-28 | 21 | 1 | 
 

@@ -1,8 +1,8 @@
 # HackerUSA-CE/CSS-CSS-Animations - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
-☋ Forks: 562
+☋ Forks: 564
 
 ★ Stars: 8
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 8 | 564 | 
 | 2022-11-26 | 8 | 562 | 
 | 2022-11-25 | 8 | 562 | 
 | 2022-11-24 | 8 | 562 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 8 | 546 | 
 | 2022-10-30 | 8 | 546 | 
 | 2022-10-29 | 8 | 534 | 
-| 2022-10-28 | 8 | 534 | 
 

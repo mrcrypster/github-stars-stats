@@ -1,6 +1,6 @@
 # MicrosoftDocs/microsoftgraph-docs-powershell - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 8 | 4 | 
 | 2022-11-26 | 8 | 4 | 
 | 2022-11-25 | 8 | 4 | 
 | 2022-11-24 | 8 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-11-01 | 6 | 4 | 
 | 2022-10-31 | 6 | 4 | 
 | 2022-10-30 | 6 | 4 | 
-| 2022-10-29 | 6 | 4 | 
 

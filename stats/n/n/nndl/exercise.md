@@ -1,6 +1,6 @@
 # nndl/exercise - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 1352
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 2964 | 1352 | 
 | 2022-11-26 | 2964 | 1352 | 
 | 2022-11-25 | 2962 | 1352 | 
 | 2022-11-24 | 2960 | 1352 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 2944 | 1348 | 
 | 2022-10-30 | 2945 | 1349 | 
 | 2022-10-29 | 2945 | 1349 | 
-| 2022-10-28 | 2944 | 1350 | 
 

@@ -1,6 +1,6 @@
 # aws/aws-mwaa-local-runner - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 371
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 350 | 371 | 
 | 2022-11-26 | 350 | 371 | 
 | 2022-11-25 | 350 | 371 | 
 | 2022-11-24 | 350 | 370 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 337 | 355 | 
 | 2022-10-30 | 336 | 355 | 
 | 2022-10-29 | 335 | 355 | 
-| 2022-10-28 | 335 | 354 | 
 

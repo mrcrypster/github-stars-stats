@@ -1,6 +1,6 @@
 # datawhalechina/thorough-pytorch - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 207
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 742 | 207 | 
 | 2022-11-26 | 742 | 207 | 
 | 2022-11-25 | 741 | 205 | 
 | 2022-11-24 | 741 | 205 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 712 | 196 | 
 | 2022-10-30 | 711 | 196 | 
 | 2022-10-29 | 708 | 195 | 
-| 2022-10-28 | 706 | 195 | 
 

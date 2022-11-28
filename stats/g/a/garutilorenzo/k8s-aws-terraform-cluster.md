@@ -1,6 +1,6 @@
 # garutilorenzo/k8s-aws-terraform-cluster - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 64 | 16 | 
 | 2022-11-26 | 64 | 16 | 
 | 2022-11-25 | 64 | 16 | 
 | 2022-11-24 | 64 | 16 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 62 | 12 | 
 | 2022-10-30 | 62 | 12 | 
 | 2022-10-29 | 62 | 12 | 
-| 2022-10-28 | 62 | 12 | 
 

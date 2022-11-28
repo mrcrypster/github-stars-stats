@@ -1,10 +1,10 @@
 # ccwav/QLScript2 - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 248
 
-★ Stars: 284
+★ Stars: 285
 
 [Open repository](https://github.com/ccwav/QLScript2)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 285 | 248 | 
 | 2022-11-26 | 284 | 248 | 
 | 2022-11-25 | 284 | 248 | 
 | 2022-11-24 | 282 | 247 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 262 | 232 | 
 | 2022-10-30 | 261 | 232 | 
 | 2022-10-29 | 261 | 231 | 
-| 2022-10-28 | 259 | 231 | 
 

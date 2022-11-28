@@ -1,10 +1,10 @@
 # OpenNative/open-native - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 1
 
-★ Stars: 250
+★ Stars: 253
 
 [Open repository](https://github.com/OpenNative/open-native)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 253 | 1 | 
 | 2022-11-27 | 250 | 1 | 
 | 2022-11-25 | 250 | 1 | 
 | 2022-11-24 | 248 | 1 | 

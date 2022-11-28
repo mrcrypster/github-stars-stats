@@ -1,6 +1,6 @@
 # code-corps/stripity_stripe - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 296
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 750 | 296 | 
 | 2022-11-26 | 750 | 296 | 
 | 2022-11-25 | 750 | 296 | 
 | 2022-11-24 | 750 | 296 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 747 | 296 | 
 | 2022-10-30 | 747 | 296 | 
 | 2022-10-29 | 746 | 296 | 
-| 2022-10-28 | 746 | 296 | 
 

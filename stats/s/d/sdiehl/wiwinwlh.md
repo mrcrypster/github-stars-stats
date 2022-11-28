@@ -1,6 +1,6 @@
 # sdiehl/wiwinwlh - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 235
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 2403 | 235 | 
 | 2022-11-26 | 2403 | 235 | 
 | 2022-11-25 | 2403 | 235 | 
 | 2022-11-24 | 2403 | 235 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-11-01 | 2398 | 235 | 
 | 2022-10-31 | 2399 | 235 | 
 | 2022-10-30 | 2399 | 235 | 
-| 2022-10-29 | 2399 | 236 | 
 

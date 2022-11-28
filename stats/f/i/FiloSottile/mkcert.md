@@ -1,10 +1,10 @@
 # FiloSottile/mkcert - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
-☋ Forks: 1939
+☋ Forks: 1940
 
-★ Stars: 38500
+★ Stars: 38509
 
 [Open repository](https://github.com/FiloSottile/mkcert)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 38509 | 1940 | 
 | 2022-11-26 | 38500 | 1939 | 
 | 2022-11-25 | 38482 | 1937 | 
 | 2022-11-24 | 38465 | 1939 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 37526 | 1887 | 
 | 2022-10-30 | 37386 | 1885 | 
 | 2022-10-29 | 37373 | 1884 | 
-| 2022-10-28 | 37363 | 1884 | 
 

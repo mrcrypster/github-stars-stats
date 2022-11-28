@@ -1,10 +1,10 @@
 # BYVoid/OpenCC - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 892
 
-★ Stars: 6769
+★ Stars: 6771
 
 [Open repository](https://github.com/BYVoid/OpenCC)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 6771 | 892 | 
 | 2022-11-27 | 6769 | 892 | 
 | 2022-11-26 | 6768 | 892 | 
 | 2022-11-24 | 6767 | 892 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-10-31 | 6693 | 889 | 
 | 2022-10-30 | 6691 | 888 | 
 | 2022-10-29 | 6689 | 888 | 
-| 2022-10-28 | 6689 | 887 | 
 

@@ -1,10 +1,10 @@
 # zalandoresearch/fashion-mnist - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 2703
 
-★ Stars: 10425
+★ Stars: 10429
 
 [Open repository](https://github.com/zalandoresearch/fashion-mnist)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 10429 | 2703 | 
 | 2022-11-26 | 10425 | 2703 | 
 | 2022-11-25 | 10425 | 2701 | 
 | 2022-11-24 | 10422 | 2700 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 10370 | 2689 | 
 | 2022-10-30 | 10366 | 2689 | 
 | 2022-10-29 | 10362 | 2687 | 
-| 2022-10-28 | 10359 | 2687 | 
 

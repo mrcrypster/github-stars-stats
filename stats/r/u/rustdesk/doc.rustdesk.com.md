@@ -1,8 +1,8 @@
 # rustdesk/doc.rustdesk.com - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 95
+☋ Forks: 96
 
 ★ Stars: 121
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 121 | 96 | 
 | 2022-11-27 | 121 | 95 | 
 | 2022-11-26 | 121 | 95 | 
 | 2022-11-25 | 121 | 95 | 

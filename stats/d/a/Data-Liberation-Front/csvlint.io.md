@@ -1,6 +1,6 @@
 # Data-Liberation-Front/csvlint.io - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 72 | 10 | 
 | 2022-11-26 | 72 | 10 | 
 | 2022-11-25 | 72 | 10 | 
 | 2022-11-24 | 72 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 72 | 10 | 
 | 2022-10-30 | 72 | 10 | 
 | 2022-10-29 | 72 | 10 | 
-| 2022-10-28 | 72 | 10 | 
 

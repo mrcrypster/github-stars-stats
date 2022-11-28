@@ -1,6 +1,6 @@
 # jverdi/JVFloatLabeledTextField - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 753
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 7165 | 753 | 
 | 2022-11-26 | 7165 | 753 | 
 | 2022-11-25 | 7165 | 753 | 
 | 2022-11-24 | 7163 | 753 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 7158 | 755 | 
 | 2022-10-30 | 7157 | 755 | 
 | 2022-10-29 | 7157 | 756 | 
-| 2022-10-28 | 7157 | 756 | 
 

@@ -1,10 +1,10 @@
 # Suwayomi/Tachidesk-Server - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 87
 
-★ Stars: 1428
+★ Stars: 1445
 
 [Open repository](https://github.com/Suwayomi/Tachidesk-Server)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 1445 | 87 | 
 | 2022-11-26 | 1428 | 87 | 
 | 2022-11-25 | 1425 | 86 | 
 | 2022-11-24 | 1424 | 86 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-11-01 | 1369 | 85 | 
 | 2022-10-31 | 1368 | 85 | 
 | 2022-10-30 | 1368 | 85 | 
-| 2022-10-29 | 1363 | 84 | 
 

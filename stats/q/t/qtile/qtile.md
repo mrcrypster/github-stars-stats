@@ -1,10 +1,10 @@
 # qtile/qtile - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 632
 
-★ Stars: 3715
+★ Stars: 3720
 
 [Open repository](https://github.com/qtile/qtile)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 3720 | 632 | 
 | 2022-11-26 | 3715 | 632 | 
 | 2022-11-25 | 3709 | 632 | 
 | 2022-11-24 | 3707 | 630 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 3653 | 624 | 
 | 2022-10-30 | 3652 | 622 | 
 | 2022-10-29 | 3647 | 623 | 
-| 2022-10-28 | 3645 | 622 | 
 

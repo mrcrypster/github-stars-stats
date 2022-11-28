@@ -1,10 +1,10 @@
 # papercups-io/papercups - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 398
 
-★ Stars: 5046
+★ Stars: 5047
 
 [Open repository](https://github.com/papercups-io/papercups)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 5047 | 398 | 
 | 2022-11-26 | 5046 | 398 | 
 | 2022-11-25 | 5046 | 398 | 
 | 2022-11-24 | 5047 | 398 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 5035 | 392 | 
 | 2022-10-30 | 5035 | 392 | 
 | 2022-10-29 | 5035 | 392 | 
-| 2022-10-28 | 5034 | 392 | 
 

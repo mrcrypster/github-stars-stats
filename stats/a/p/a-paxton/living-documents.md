@@ -1,6 +1,6 @@
 # a-paxton/living-documents - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 47 | 1 | 
 | 2022-11-26 | 47 | 1 | 
 | 2022-11-25 | 47 | 1 | 
 | 2022-11-24 | 47 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 46 | 1 | 
 | 2022-10-30 | 46 | 1 | 
 | 2022-10-29 | 46 | 1 | 
-| 2022-10-28 | 46 | 1 | 
 

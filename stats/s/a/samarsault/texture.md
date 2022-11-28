@@ -1,10 +1,10 @@
 # samarsault/texture - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 335
 
-★ Stars: 206
+★ Stars: 207
 
 [Open repository](https://github.com/samarsault/texture)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 207 | 335 | 
 | 2022-11-26 | 206 | 335 | 
 | 2022-11-25 | 206 | 335 | 
 | 2022-11-24 | 206 | 335 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-11-01 | 206 | 336 | 
 | 2022-10-31 | 206 | 336 | 
 | 2022-10-30 | 206 | 336 | 
-| 2022-10-29 | 206 | 336 | 
 

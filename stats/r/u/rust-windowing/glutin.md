@@ -1,10 +1,10 @@
 # rust-windowing/glutin - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
-☋ Forks: 445
+☋ Forks: 444
 
-★ Stars: 1750
+★ Stars: 1751
 
 [Open repository](https://github.com/rust-windowing/glutin)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 1751 | 444 | 
 | 2022-11-26 | 1750 | 445 | 
 | 2022-11-25 | 1748 | 445 | 
 | 2022-11-24 | 1748 | 446 | 

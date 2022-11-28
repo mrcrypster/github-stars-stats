@@ -1,10 +1,10 @@
 # Djancyp/better-comments.nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 2
 
-★ Stars: 90
+★ Stars: 91
 
 [Open repository](https://github.com/Djancyp/better-comments.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 91 | 2 | 
 | 2022-11-26 | 90 | 2 | 
 | 2022-11-25 | 89 | 2 | 
 | 2022-11-24 | 89 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 86 | 2 | 
 | 2022-10-30 | 86 | 2 | 
 | 2022-10-29 | 86 | 2 | 
-| 2022-10-28 | 86 | 2 | 
 

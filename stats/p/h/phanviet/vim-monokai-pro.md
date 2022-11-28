@@ -1,10 +1,10 @@
 # phanviet/vim-monokai-pro - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 46
 
-★ Stars: 207
+★ Stars: 208
 
 [Open repository](https://github.com/phanviet/vim-monokai-pro)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 208 | 46 | 
 | 2022-11-26 | 207 | 46 | 
 | 2022-11-25 | 207 | 46 | 
 | 2022-11-24 | 207 | 46 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-11-01 | 206 | 46 | 
 | 2022-10-31 | 206 | 46 | 
 | 2022-10-30 | 206 | 46 | 
-| 2022-10-29 | 206 | 46 | 
 

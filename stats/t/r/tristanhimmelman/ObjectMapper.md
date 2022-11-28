@@ -1,6 +1,6 @@
 # tristanhimmelman/ObjectMapper - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 1018
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 9015 | 1018 | 
 | 2022-11-26 | 9015 | 1018 | 
 | 2022-11-25 | 9015 | 1018 | 
 | 2022-11-24 | 9015 | 1018 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-11-01 | 9001 | 1013 | 
 | 2022-10-31 | 9000 | 1013 | 
 | 2022-10-30 | 9000 | 1013 | 
-| 2022-10-29 | 9000 | 1014 | 
 

@@ -1,6 +1,6 @@
 # xgadget-lab/nexttrace - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 559 | 26 | 
 | 2022-11-26 | 559 | 26 | 
 | 2022-11-25 | 557 | 26 | 
 | 2022-11-24 | 556 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 522 | 26 | 
 | 2022-10-30 | 522 | 26 | 
 | 2022-10-29 | 522 | 26 | 
-| 2022-10-28 | 521 | 26 | 
 

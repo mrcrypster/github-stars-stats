@@ -1,10 +1,10 @@
 # evolution-gaming/scala-bootcamp - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 75
 
-★ Stars: 108
+★ Stars: 109
 
 [Open repository](https://github.com/evolution-gaming/scala-bootcamp)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 109 | 75 | 
 | 2022-11-26 | 108 | 75 | 
 | 2022-11-25 | 108 | 75 | 
 | 2022-11-24 | 108 | 76 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 105 | 75 | 
 | 2022-10-30 | 105 | 75 | 
 | 2022-10-29 | 105 | 75 | 
-| 2022-10-28 | 105 | 75 | 
 

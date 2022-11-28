@@ -1,6 +1,6 @@
 # karthik/wesanderson - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 126
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 1646 | 126 | 
 | 2022-11-26 | 1646 | 126 | 
 | 2022-11-25 | 1646 | 126 | 
 | 2022-11-24 | 1646 | 126 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 1635 | 126 | 
 | 2022-10-30 | 1635 | 126 | 
 | 2022-10-29 | 1635 | 126 | 
-| 2022-10-28 | 1634 | 126 | 
 

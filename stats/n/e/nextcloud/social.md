@@ -1,6 +1,6 @@
 # nextcloud/social - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 417 | 52 | 
 | 2022-11-27 | 417 | 52 | 
 | 2022-11-26 | 416 | 52 | 
 | 2022-11-25 | 416 | 52 | 

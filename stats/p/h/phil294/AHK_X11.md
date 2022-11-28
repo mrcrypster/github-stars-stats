@@ -1,10 +1,10 @@
 # phil294/AHK_X11 - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 6
 
-★ Stars: 503
+★ Stars: 504
 
 [Open repository](https://github.com/phil294/AHK_X11)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 504 | 6 | 
 | 2022-11-26 | 503 | 6 | 
 | 2022-11-25 | 503 | 6 | 
 | 2022-11-24 | 503 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 495 | 6 | 
 | 2022-10-30 | 493 | 6 | 
 | 2022-10-29 | 493 | 6 | 
-| 2022-10-28 | 490 | 6 | 
 

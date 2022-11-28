@@ -1,10 +1,10 @@
 # Carthage/Carthage - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 1614
 
-★ Stars: 14694
+★ Stars: 14695
 
 [Open repository](https://github.com/Carthage/Carthage)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 14695 | 1614 | 
 | 2022-11-26 | 14694 | 1614 | 
 | 2022-11-25 | 14693 | 1614 | 
 | 2022-11-24 | 14692 | 1614 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 14682 | 1609 | 
 | 2022-10-30 | 14682 | 1608 | 
 | 2022-10-29 | 14682 | 1608 | 
-| 2022-10-28 | 14682 | 1607 | 
 

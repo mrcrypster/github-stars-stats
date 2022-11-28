@@ -1,10 +1,10 @@
 # input-output-hk/io-sim - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 9
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/input-output-hk/io-sim)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 16 | 9 | 
 | 2022-11-26 | 15 | 9 | 
 | 2022-11-25 | 15 | 9 | 
 | 2022-11-24 | 15 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 15 | 8 | 
 | 2022-10-30 | 15 | 8 | 
 | 2022-10-29 | 15 | 8 | 
-| 2022-10-28 | 15 | 8 | 
 

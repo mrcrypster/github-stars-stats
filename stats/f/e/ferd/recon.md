@@ -1,6 +1,6 @@
 # ferd/recon - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 265
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 1247 | 265 | 
 | 2022-11-26 | 1247 | 265 | 
 | 2022-11-25 | 1248 | 265 | 
 | 2022-11-24 | 1248 | 265 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 1244 | 261 | 
 | 2022-10-30 | 1244 | 261 | 
 | 2022-10-29 | 1244 | 261 | 
-| 2022-10-28 | 1244 | 261 | 
 

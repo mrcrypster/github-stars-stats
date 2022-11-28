@@ -1,6 +1,6 @@
 # symfony/demo - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 1628
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 2233 | 1628 | 
 | 2022-11-26 | 2233 | 1628 | 
 | 2022-11-25 | 2233 | 1628 | 
 | 2022-11-24 | 2232 | 1628 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 2222 | 1619 | 
 | 2022-10-30 | 2222 | 1618 | 
 | 2022-10-29 | 2223 | 1619 | 
-| 2022-10-28 | 2223 | 1618 | 
 

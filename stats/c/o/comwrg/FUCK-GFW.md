@@ -1,10 +1,10 @@
 # comwrg/FUCK-GFW - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 49
 
-★ Stars: 737
+★ Stars: 738
 
 [Open repository](https://github.com/comwrg/FUCK-GFW)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 738 | 49 | 
 | 2022-11-26 | 737 | 49 | 
 | 2022-11-25 | 737 | 49 | 
 | 2022-11-24 | 737 | 49 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 730 | 49 | 
 | 2022-10-30 | 730 | 49 | 
 | 2022-10-29 | 730 | 49 | 
-| 2022-10-28 | 730 | 49 | 
 

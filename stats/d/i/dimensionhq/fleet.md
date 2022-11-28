@@ -1,6 +1,6 @@
 # dimensionhq/fleet - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 2204 | 51 | 
 | 2022-11-26 | 2204 | 51 | 
 | 2022-11-25 | 2204 | 50 | 
 | 2022-11-24 | 2204 | 50 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 2183 | 50 | 
 | 2022-10-30 | 2183 | 50 | 
 | 2022-10-29 | 2182 | 50 | 
-| 2022-10-28 | 2178 | 49 | 
 

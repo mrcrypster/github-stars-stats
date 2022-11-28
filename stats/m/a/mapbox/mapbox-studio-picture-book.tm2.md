@@ -1,6 +1,6 @@
 # mapbox/mapbox-studio-picture-book.tm2 - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 29 | 5 | 
 | 2022-11-26 | 29 | 5 | 
 | 2022-11-25 | 29 | 5 | 
 | 2022-11-24 | 29 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 29 | 5 | 
 | 2022-10-30 | 29 | 5 | 
 | 2022-10-29 | 29 | 5 | 
-| 2022-10-28 | 29 | 5 | 
 

@@ -1,6 +1,6 @@
 # cakecatz/garage - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 168
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 11 | 168 | 
 | 2022-11-26 | 11 | 168 | 
 | 2022-11-25 | 11 | 167 | 
 | 2022-11-24 | 11 | 167 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 11 | 167 | 
 | 2022-10-30 | 11 | 167 | 
 | 2022-10-29 | 11 | 167 | 
-| 2022-10-28 | 11 | 167 | 
 

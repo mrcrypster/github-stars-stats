@@ -1,6 +1,6 @@
 # ayush714/data-science-roadmap - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 347 | 44 | 
 | 2022-11-26 | 347 | 44 | 
 | 2022-11-25 | 347 | 44 | 
 | 2022-11-24 | 346 | 44 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 307 | 33 | 
 | 2022-10-30 | 304 | 33 | 
 | 2022-10-29 | 300 | 32 | 
-| 2022-10-28 | 299 | 32 | 
 

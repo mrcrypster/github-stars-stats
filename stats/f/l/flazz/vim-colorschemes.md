@@ -1,10 +1,10 @@
 # flazz/vim-colorschemes - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 639
 
-★ Stars: 3322
+★ Stars: 3323
 
 [Open repository](https://github.com/flazz/vim-colorschemes)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 3323 | 639 | 
 | 2022-11-26 | 3322 | 639 | 
 | 2022-11-25 | 3322 | 639 | 
 | 2022-11-24 | 3321 | 639 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 3318 | 639 | 
 | 2022-10-30 | 3318 | 638 | 
 | 2022-10-29 | 3317 | 638 | 
-| 2022-10-28 | 3316 | 638 | 
 

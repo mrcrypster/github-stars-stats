@@ -1,10 +1,10 @@
 # vuejs/rfcs - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 546
 
-★ Stars: 4505
+★ Stars: 4508
 
 [Open repository](https://github.com/vuejs/rfcs)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 4508 | 546 | 
 | 2022-11-26 | 4505 | 546 | 
 | 2022-11-25 | 4504 | 546 | 
 | 2022-11-24 | 4502 | 546 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-11-01 | 4473 | 544 | 
 | 2022-10-31 | 4473 | 543 | 
 | 2022-10-30 | 4474 | 543 | 
-| 2022-10-29 | 4474 | 543 | 
 

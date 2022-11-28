@@ -1,10 +1,10 @@
 # goldbergyoni/javascript-testing-best-practices - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 1734
 
-★ Stars: 19476
+★ Stars: 19491
 
 [Open repository](https://github.com/goldbergyoni/javascript-testing-best-practices)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 19491 | 1734 | 
 | 2022-11-26 | 19476 | 1734 | 
 | 2022-11-25 | 19473 | 1732 | 
 | 2022-11-24 | 19456 | 1732 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 19289 | 1720 | 
 | 2022-10-30 | 19286 | 1720 | 
 | 2022-10-29 | 19279 | 1721 | 
-| 2022-10-28 | 19271 | 1720 | 
 

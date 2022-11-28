@@ -1,6 +1,6 @@
 # sylhare/Type-on-Strap - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 807
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 680 | 807 | 
 | 2022-11-26 | 680 | 807 | 
 | 2022-11-25 | 677 | 807 | 
 | 2022-11-24 | 676 | 808 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 669 | 806 | 
 | 2022-10-30 | 669 | 806 | 
 | 2022-10-29 | 669 | 806 | 
-| 2022-10-28 | 669 | 806 | 
 

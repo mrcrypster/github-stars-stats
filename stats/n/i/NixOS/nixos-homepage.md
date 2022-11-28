@@ -1,6 +1,6 @@
 # NixOS/nixos-homepage - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 235
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 168 | 235 | 
 | 2022-11-26 | 168 | 235 | 
 | 2022-11-25 | 168 | 234 | 
 | 2022-11-24 | 168 | 234 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 168 | 233 | 
 | 2022-10-30 | 167 | 233 | 
 | 2022-10-29 | 167 | 233 | 
-| 2022-10-28 | 167 | 233 | 
 

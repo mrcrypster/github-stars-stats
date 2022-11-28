@@ -1,6 +1,6 @@
 # alexbatalov/fallout2-re - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 221 | 19 | 
 | 2022-11-26 | 221 | 19 | 
 | 2022-11-25 | 220 | 18 | 
 | 2022-11-24 | 220 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 215 | 19 | 
 | 2022-10-30 | 214 | 19 | 
 | 2022-10-29 | 213 | 19 | 
-| 2022-10-28 | 213 | 19 | 
 

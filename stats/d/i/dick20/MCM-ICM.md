@@ -1,6 +1,6 @@
 # dick20/MCM-ICM - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 318
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 1410 | 318 | 
 | 2022-11-26 | 1410 | 318 | 
 | 2022-11-25 | 1411 | 318 | 
 | 2022-11-24 | 1411 | 318 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-11-01 | 1402 | 313 | 
 | 2022-10-31 | 1402 | 313 | 
 | 2022-10-29 | 1401 | 313 | 
-| 2022-10-28 | 1401 | 313 | 
 

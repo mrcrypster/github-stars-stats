@@ -1,6 +1,6 @@
 # KovaaK/InterAccel - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 205 | 24 | 
 | 2022-11-27 | 205 | 24 | 
 | 2022-11-25 | 205 | 24 | 
 | 2022-11-24 | 205 | 24 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-10-31 | 205 | 24 | 
 | 2022-10-30 | 205 | 24 | 
 | 2022-10-29 | 205 | 24 | 
-| 2022-10-28 | 205 | 24 | 
 

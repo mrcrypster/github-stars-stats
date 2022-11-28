@@ -1,6 +1,6 @@
 # saucepoint/anvil-instancing - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 55 | 4 | 
 | 2022-11-26 | 55 | 4 | 
 | 2022-11-25 | 55 | 4 | 
 | 2022-11-24 | 55 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 55 | 4 | 
 | 2022-10-30 | 55 | 4 | 
 | 2022-10-29 | 55 | 4 | 
-| 2022-10-28 | 55 | 4 | 
 

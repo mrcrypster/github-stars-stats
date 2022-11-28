@@ -1,6 +1,6 @@
 # alura-cursos/logica_programacion_parte3 - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 27 | 30 | 
 | 2022-11-26 | 27 | 30 | 
 | 2022-11-25 | 27 | 30 | 
 | 2022-11-24 | 27 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 26 | 29 | 
 | 2022-10-30 | 26 | 29 | 
 | 2022-10-29 | 26 | 29 | 
-| 2022-10-28 | 26 | 29 | 
 

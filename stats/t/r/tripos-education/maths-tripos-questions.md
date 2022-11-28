@@ -1,6 +1,6 @@
 # tripos-education/maths-tripos-questions - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 5 | 7 | 
 | 2022-11-26 | 5 | 7 | 
 | 2022-11-25 | 5 | 7 | 
 | 2022-11-24 | 5 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-11-01 | 5 | 7 | 
 | 2022-10-31 | 5 | 7 | 
 | 2022-10-30 | 5 | 7 | 
-| 2022-10-29 | 5 | 7 | 
 

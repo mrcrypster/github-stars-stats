@@ -1,6 +1,6 @@
 # ComplementaryDevelopment/ComplementaryReimagined - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 56 | 9 | 
 | 2022-11-26 | 56 | 9 | 
 | 2022-11-25 | 56 | 9 | 
 | 2022-11-24 | 56 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 49 | 7 | 
 | 2022-10-30 | 49 | 7 | 
 | 2022-10-29 | 49 | 7 | 
-| 2022-10-28 | 49 | 7 | 
 

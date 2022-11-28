@@ -1,6 +1,6 @@
 # haosulab/cvpr-tutorial-2022 - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 25 | 3 | 
 | 2022-11-27 | 25 | 3 | 
 | 2022-11-25 | 24 | 3 | 
 | 2022-11-24 | 23 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-10-31 | 22 | 3 | 
 | 2022-10-30 | 22 | 3 | 
 | 2022-10-29 | 21 | 3 | 
-| 2022-10-28 | 21 | 3 | 
 

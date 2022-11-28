@@ -1,10 +1,10 @@
 # WordPress/WordPress - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
-☋ Forks: 11840
+☋ Forks: 11839
 
-★ Stars: 16878
+★ Stars: 16885
 
 [Open repository](https://github.com/WordPress/WordPress)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 16885 | 11839 | 
 | 2022-11-26 | 16878 | 11840 | 
 | 2022-11-25 | 16876 | 11835 | 
 | 2022-11-24 | 16872 | 11834 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 16789 | 11752 | 
 | 2022-10-30 | 16778 | 11747 | 
 | 2022-10-29 | 16774 | 11743 | 
-| 2022-10-28 | 16769 | 11741 | 
 

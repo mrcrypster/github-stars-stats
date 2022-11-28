@@ -1,10 +1,10 @@
 # pocopico/rp-ext - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 280
 
-★ Stars: 415
+★ Stars: 416
 
 [Open repository](https://github.com/pocopico/rp-ext)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 416 | 280 | 
 | 2022-11-26 | 415 | 280 | 
 | 2022-11-25 | 415 | 280 | 
 | 2022-11-24 | 414 | 281 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 382 | 273 | 
 | 2022-10-30 | 383 | 272 | 
 | 2022-10-29 | 380 | 270 | 
-| 2022-10-28 | 379 | 270 | 
 

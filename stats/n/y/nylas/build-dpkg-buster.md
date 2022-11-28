@@ -1,6 +1,6 @@
 # nylas/build-dpkg-buster - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 16 | 14 | 
 | 2022-11-27 | 16 | 14 | 
 | 2022-11-26 | 16 | 14 | 
 | 2022-11-24 | 16 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-10-31 | 16 | 15 | 
 | 2022-10-30 | 16 | 15 | 
 | 2022-10-29 | 16 | 15 | 
-| 2022-10-28 | 16 | 15 | 
 

@@ -1,8 +1,8 @@
 # chesterhow/tale - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
-☋ Forks: 846
+☋ Forks: 844
 
 ★ Stars: 899
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 899 | 844 | 
 | 2022-11-26 | 899 | 846 | 
 | 2022-11-25 | 900 | 846 | 
 | 2022-11-24 | 899 | 846 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 895 | 852 | 
 | 2022-10-30 | 896 | 853 | 
 | 2022-10-29 | 896 | 853 | 
-| 2022-10-28 | 896 | 853 | 
 

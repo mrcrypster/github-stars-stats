@@ -1,10 +1,10 @@
 # voletro/wsa-toolbox - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 222
 
-★ Stars: 588
+★ Stars: 589
 
 [Open repository](https://github.com/voletro/wsa-toolbox)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 589 | 222 | 
 | 2022-11-27 | 588 | 222 | 
 | 2022-11-25 | 588 | 222 | 
 | 2022-11-24 | 590 | 222 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-10-31 | 583 | 218 | 
 | 2022-10-30 | 583 | 218 | 
 | 2022-10-29 | 582 | 218 | 
-| 2022-10-28 | 581 | 218 | 
 

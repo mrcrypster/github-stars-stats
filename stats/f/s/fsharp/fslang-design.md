@@ -1,6 +1,6 @@
 # fsharp/fslang-design - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 127
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 441 | 127 | 
 | 2022-11-26 | 441 | 127 | 
 | 2022-11-25 | 441 | 126 | 
 | 2022-11-24 | 441 | 126 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 435 | 124 | 
 | 2022-10-30 | 435 | 124 | 
 | 2022-10-29 | 435 | 124 | 
-| 2022-10-28 | 435 | 124 | 
 

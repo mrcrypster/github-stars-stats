@@ -1,6 +1,6 @@
 # react-native-image-picker/react-native-image-picker - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 1977
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 7810 | 1977 | 
 | 2022-11-26 | 7810 | 1977 | 
 | 2022-11-25 | 7807 | 1978 | 
 | 2022-11-24 | 7804 | 1978 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-11-01 | 7778 | 1972 | 
 | 2022-10-31 | 7777 | 1970 | 
 | 2022-10-30 | 7777 | 1969 | 
-| 2022-10-29 | 7776 | 1970 | 
 

@@ -1,6 +1,6 @@
 # facebookresearch/SlowFast - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 1057
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 5269 | 1057 | 
 | 2022-11-26 | 5269 | 1057 | 
 | 2022-11-25 | 5267 | 1057 | 
 | 2022-11-24 | 5266 | 1057 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 5218 | 1043 | 
 | 2022-10-30 | 5215 | 1043 | 
 | 2022-10-29 | 5213 | 1043 | 
-| 2022-10-28 | 5212 | 1042 | 
 

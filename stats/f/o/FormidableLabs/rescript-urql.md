@@ -1,6 +1,6 @@
 # FormidableLabs/rescript-urql - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 235 | 29 | 
 | 2022-11-26 | 235 | 29 | 
 | 2022-11-25 | 235 | 29 | 
 | 2022-11-24 | 235 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 234 | 29 | 
 | 2022-10-30 | 234 | 29 | 
 | 2022-10-29 | 234 | 29 | 
-| 2022-10-28 | 234 | 29 | 
 

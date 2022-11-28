@@ -1,6 +1,6 @@
 # sahandghavidel/HTML-CSS-JavaScript-projects-for-beginners - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 103
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 206 | 103 | 
 | 2022-11-26 | 206 | 103 | 
 | 2022-11-25 | 206 | 102 | 
 | 2022-11-24 | 205 | 102 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 181 | 97 | 
 | 2022-10-30 | 180 | 97 | 
 | 2022-10-29 | 180 | 98 | 
-| 2022-10-28 | 179 | 98 | 
 

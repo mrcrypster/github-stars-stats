@@ -1,10 +1,10 @@
 # succinctlabs/eth-proof-of-consensus - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
-☋ Forks: 14
+☋ Forks: 15
 
-★ Stars: 57
+★ Stars: 59
 
 [Open repository](https://github.com/succinctlabs/eth-proof-of-consensus)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 59 | 15 | 
 | 2022-11-26 | 57 | 14 | 
 | 2022-11-25 | 46 | 13 | 
 | 2022-11-24 | 45 | 12 | 

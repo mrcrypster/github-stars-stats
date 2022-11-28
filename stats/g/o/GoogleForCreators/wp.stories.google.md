@@ -1,6 +1,6 @@
 # GoogleForCreators/wp.stories.google - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 7 | 2 | 
 | 2022-11-27 | 7 | 2 | 
 | 2022-11-25 | 7 | 2 | 
 | 2022-11-24 | 7 | 2 | 

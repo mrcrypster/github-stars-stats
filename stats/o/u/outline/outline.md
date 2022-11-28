@@ -1,6 +1,6 @@
 # outline/outline - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 1487
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 17566 | 1487 | 
 | 2022-11-26 | 17566 | 1487 | 
 | 2022-11-25 | 17559 | 1488 | 
 | 2022-11-24 | 17551 | 1488 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 17114 | 1472 | 
 | 2022-10-30 | 17094 | 1470 | 
 | 2022-10-29 | 17090 | 1469 | 
-| 2022-10-28 | 17085 | 1469 | 
 

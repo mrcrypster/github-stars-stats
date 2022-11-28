@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 27
 
 ☋ Forks: 25
 
-★ Stars: 1299
+★ Stars: 1366
 
 [Open repository](https://github.com/GyulyVGC/sniffnet)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-27 | 1299 | 25 | 
+| 2022-11-27 | 1366 | 25 | 
 | 2022-11-26 | 1265 | 25 | 
 | 2022-11-25 | 1113 | 23 | 
 | 2022-11-24 | 794 | 17 | 

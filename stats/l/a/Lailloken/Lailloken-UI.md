@@ -1,6 +1,6 @@
 # Lailloken/Lailloken-UI - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 144 | 10 | 
 | 2022-11-26 | 144 | 10 | 
 | 2022-11-25 | 144 | 10 | 
 | 2022-11-24 | 144 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 138 | 9 | 
 | 2022-10-30 | 138 | 9 | 
 | 2022-10-29 | 138 | 9 | 
-| 2022-10-28 | 138 | 9 | 
 

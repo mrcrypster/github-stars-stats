@@ -1,8 +1,8 @@
 # WebDevSimplified/Introduction-to-Web-Development - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
-☋ Forks: 2528
+☋ Forks: 2529
 
 ★ Stars: 652
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 652 | 2529 | 
 | 2022-11-26 | 652 | 2528 | 
 | 2022-11-25 | 652 | 2526 | 
 | 2022-11-24 | 651 | 2526 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 633 | 2505 | 
 | 2022-10-30 | 632 | 2500 | 
 | 2022-10-29 | 632 | 2499 | 
-| 2022-10-28 | 632 | 2497 | 
 

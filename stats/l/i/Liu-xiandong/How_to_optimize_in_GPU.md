@@ -1,10 +1,10 @@
 # Liu-xiandong/How_to_optimize_in_GPU - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
-☋ Forks: 39
+☋ Forks: 40
 
-★ Stars: 221
+★ Stars: 222
 
 [Open repository](https://github.com/Liu-xiandong/How_to_optimize_in_GPU)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 222 | 40 | 
 | 2022-11-26 | 221 | 39 | 
 | 2022-11-25 | 221 | 39 | 
 | 2022-11-24 | 221 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 214 | 37 | 
 | 2022-10-30 | 213 | 36 | 
 | 2022-10-29 | 213 | 36 | 
-| 2022-10-28 | 213 | 36 | 
 

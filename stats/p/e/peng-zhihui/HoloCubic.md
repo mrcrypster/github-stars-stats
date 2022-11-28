@@ -1,10 +1,10 @@
 # peng-zhihui/HoloCubic - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 1001
 
-★ Stars: 4823
+★ Stars: 4825
 
 [Open repository](https://github.com/peng-zhihui/HoloCubic)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 4825 | 1001 | 
 | 2022-11-26 | 4823 | 1001 | 
 | 2022-11-25 | 4821 | 999 | 
 | 2022-11-24 | 4819 | 998 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 4771 | 988 | 
 | 2022-10-30 | 4769 | 987 | 
 | 2022-10-29 | 4768 | 987 | 
-| 2022-10-28 | 4766 | 986 | 
 

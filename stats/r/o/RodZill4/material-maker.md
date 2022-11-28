@@ -1,10 +1,10 @@
 # RodZill4/material-maker - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 162
 
-★ Stars: 2123
+★ Stars: 2125
 
 [Open repository](https://github.com/RodZill4/material-maker)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 2125 | 162 | 
 | 2022-11-26 | 2123 | 162 | 
 | 2022-11-25 | 2122 | 162 | 
 | 2022-11-24 | 2119 | 160 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 2084 | 160 | 
 | 2022-10-30 | 2083 | 160 | 
 | 2022-10-29 | 2081 | 160 | 
-| 2022-10-28 | 2081 | 159 | 
 

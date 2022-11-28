@@ -1,8 +1,8 @@
 # naynam242/TestRDP - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
-☋ Forks: 41
+☋ Forks: 42
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 1 | 42 | 
 | 2022-11-26 | 1 | 41 | 
 | 2022-11-25 | 1 | 41 | 
 | 2022-11-24 | 1 | 41 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-11-01 | 1 | 39 | 
 | 2022-10-31 | 1 | 39 | 
 | 2022-10-30 | 1 | 39 | 
-| 2022-10-29 | 1 | 39 | 
 

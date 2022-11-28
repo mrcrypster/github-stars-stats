@@ -1,6 +1,6 @@
 # KikiLetGo/CyberController - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 253
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 1302 | 253 | 
 | 2022-11-26 | 1302 | 253 | 
 | 2022-11-25 | 1302 | 253 | 
 | 2022-11-24 | 1299 | 253 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 1271 | 248 | 
 | 2022-10-30 | 1270 | 247 | 
 | 2022-10-29 | 1270 | 247 | 
-| 2022-10-28 | 1270 | 247 | 
 

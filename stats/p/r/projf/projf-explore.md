@@ -1,10 +1,10 @@
 # projf/projf-explore - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 47
 
-★ Stars: 364
+★ Stars: 366
 
 [Open repository](https://github.com/projf/projf-explore)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 366 | 47 | 
 | 2022-11-26 | 364 | 47 | 
 | 2022-11-25 | 364 | 47 | 
 | 2022-11-24 | 364 | 47 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 359 | 44 | 
 | 2022-10-30 | 358 | 44 | 
 | 2022-10-29 | 358 | 44 | 
-| 2022-10-28 | 357 | 44 | 
 

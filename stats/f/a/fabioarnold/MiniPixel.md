@@ -1,10 +1,10 @@
 # fabioarnold/MiniPixel - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 4
 
-★ Stars: 106
+★ Stars: 107
 
 [Open repository](https://github.com/fabioarnold/MiniPixel)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 107 | 4 | 
 | 2022-11-26 | 106 | 4 | 
 | 2022-11-25 | 104 | 4 | 
 | 2022-11-24 | 102 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 95 | 3 | 
 | 2022-10-30 | 94 | 3 | 
 | 2022-10-29 | 93 | 3 | 
-| 2022-10-28 | 93 | 3 | 
 

@@ -1,10 +1,10 @@
 # dotnet/maui-samples - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
-☋ Forks: 561
+☋ Forks: 563
 
-★ Stars: 1785
+★ Stars: 1786
 
 [Open repository](https://github.com/dotnet/maui-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 1786 | 563 | 
 | 2022-11-26 | 1785 | 561 | 
 | 2022-11-25 | 1784 | 561 | 
 | 2022-11-24 | 1782 | 560 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 1683 | 483 | 
 | 2022-10-30 | 1683 | 481 | 
 | 2022-10-29 | 1681 | 479 | 
-| 2022-10-28 | 1680 | 479 | 
 

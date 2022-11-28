@@ -1,10 +1,10 @@
 # mattpannella/pocket-updater-utility - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 11
 
-★ Stars: 262
+★ Stars: 265
 
 [Open repository](https://github.com/mattpannella/pocket-updater-utility)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 265 | 11 | 
 | 2022-11-27 | 262 | 11 | 
 | 2022-11-26 | 260 | 11 | 
 | 2022-11-24 | 258 | 11 | 

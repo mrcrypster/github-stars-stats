@@ -1,10 +1,10 @@
 # Neargye/magic_enum - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 305
 
-★ Stars: 3231
+★ Stars: 3233
 
 [Open repository](https://github.com/Neargye/magic_enum)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 3233 | 305 | 
 | 2022-11-26 | 3231 | 305 | 
 | 2022-11-25 | 3228 | 305 | 
 | 2022-11-24 | 3225 | 305 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 3166 | 299 | 
 | 2022-10-30 | 3165 | 299 | 
 | 2022-10-29 | 3163 | 299 | 
-| 2022-10-28 | 3162 | 299 | 
 

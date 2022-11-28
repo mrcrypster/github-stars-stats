@@ -1,10 +1,10 @@
 # sakumisu/CherryUSB - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 85
 
-★ Stars: 505
+★ Stars: 507
 
 [Open repository](https://github.com/sakumisu/CherryUSB)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 507 | 85 | 
 | 2022-11-26 | 505 | 85 | 
 | 2022-11-25 | 505 | 85 | 
 | 2022-11-24 | 505 | 85 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 485 | 81 | 
 | 2022-10-30 | 485 | 81 | 
 | 2022-10-29 | 485 | 81 | 
-| 2022-10-28 | 484 | 81 | 
 

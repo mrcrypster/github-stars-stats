@@ -1,10 +1,10 @@
 # cpojer/vite-ts-react-tailwind-template - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 9
 
-★ Stars: 287
+★ Stars: 288
 
 [Open repository](https://github.com/cpojer/vite-ts-react-tailwind-template)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 288 | 9 | 
 | 2022-11-26 | 287 | 9 | 
 | 2022-11-25 | 287 | 9 | 
 | 2022-11-24 | 286 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 268 | 7 | 
 | 2022-10-30 | 268 | 7 | 
 | 2022-10-29 | 267 | 7 | 
-| 2022-10-28 | 267 | 7 | 
 

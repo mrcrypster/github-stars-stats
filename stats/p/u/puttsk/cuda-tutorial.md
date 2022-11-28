@@ -1,6 +1,6 @@
 # puttsk/cuda-tutorial - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 78 | 21 | 
 | 2022-11-26 | 78 | 21 | 
 | 2022-11-25 | 78 | 21 | 
 | 2022-11-24 | 78 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 77 | 21 | 
 | 2022-10-30 | 77 | 21 | 
 | 2022-10-29 | 77 | 20 | 
-| 2022-10-28 | 77 | 20 | 
 

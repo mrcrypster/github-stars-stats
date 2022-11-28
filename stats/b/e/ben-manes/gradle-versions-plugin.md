@@ -1,10 +1,10 @@
 # ben-manes/gradle-versions-plugin - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 195
 
-★ Stars: 3456
+★ Stars: 3457
 
 [Open repository](https://github.com/ben-manes/gradle-versions-plugin)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 3457 | 195 | 
 | 2022-11-26 | 3456 | 195 | 
 | 2022-11-25 | 3455 | 195 | 
 | 2022-11-24 | 3452 | 195 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 3432 | 194 | 
 | 2022-10-30 | 3431 | 194 | 
 | 2022-10-29 | 3430 | 194 | 
-| 2022-10-28 | 3429 | 194 | 
 

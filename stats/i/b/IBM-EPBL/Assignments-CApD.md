@@ -1,8 +1,8 @@
 # IBM-EPBL/Assignments-CApD - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
-☋ Forks: 107
+☋ Forks: 106
 
 ★ Stars: 117
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 117 | 106 | 
 | 2022-11-26 | 117 | 107 | 
 | 2022-11-25 | 117 | 107 | 
 | 2022-11-24 | 117 | 105 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 95 | 61 | 
 | 2022-10-30 | 94 | 59 | 
 | 2022-10-29 | 93 | 59 | 
-| 2022-10-28 | 92 | 59 | 
 

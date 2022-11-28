@@ -1,10 +1,10 @@
 # LaravelDaily/laravel-tips - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
-☋ Forks: 1095
+☋ Forks: 1097
 
-★ Stars: 5210
+★ Stars: 5213
 
 [Open repository](https://github.com/LaravelDaily/laravel-tips)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 5213 | 1097 | 
 | 2022-11-26 | 5210 | 1095 | 
 | 2022-11-25 | 5203 | 1095 | 
 | 2022-11-24 | 5193 | 1095 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 4939 | 1051 | 
 | 2022-10-30 | 4939 | 1050 | 
 | 2022-10-29 | 4937 | 1050 | 
-| 2022-10-28 | 4935 | 1049 | 
 

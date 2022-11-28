@@ -1,6 +1,6 @@
 # farrukh90/artemis - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | - | 43 | 
 | 2022-11-26 | - | 43 | 
 | 2022-11-25 | - | 43 | 
 | 2022-11-24 | - | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | - | 42 | 
 | 2022-10-30 | - | 42 | 
 | 2022-10-29 | - | 42 | 
-| 2022-10-28 | - | 42 | 
 

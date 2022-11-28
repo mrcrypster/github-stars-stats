@@ -1,6 +1,6 @@
 # Learn-with-Sumit/think-in-a-redux-way - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 100 | 65 | 
 | 2022-11-26 | 100 | 65 | 
 | 2022-11-25 | 100 | 65 | 
 | 2022-11-24 | 100 | 64 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 98 | 62 | 
 | 2022-10-30 | 97 | 62 | 
 | 2022-10-29 | 97 | 62 | 
-| 2022-10-28 | 97 | 61 | 
 

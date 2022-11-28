@@ -1,6 +1,6 @@
 # oakes/vim_cubed - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 2661 | 40 | 
 | 2022-11-26 | 2661 | 40 | 
 | 2022-11-25 | 2661 | 40 | 
 | 2022-11-24 | 2661 | 40 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 2650 | 40 | 
 | 2022-10-30 | 2650 | 40 | 
 | 2022-10-29 | 2651 | 40 | 
-| 2022-10-28 | 2651 | 40 | 
 

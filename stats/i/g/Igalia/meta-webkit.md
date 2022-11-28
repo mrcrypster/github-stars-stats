@@ -1,6 +1,6 @@
 # Igalia/meta-webkit - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 97 | 58 | 
 | 2022-11-26 | 97 | 58 | 
 | 2022-11-25 | 97 | 58 | 
 | 2022-11-24 | 96 | 58 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 94 | 58 | 
 | 2022-10-30 | 94 | 58 | 
 | 2022-10-29 | 94 | 58 | 
-| 2022-10-28 | 94 | 58 | 
 

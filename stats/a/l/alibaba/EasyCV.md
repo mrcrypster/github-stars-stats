@@ -1,6 +1,6 @@
 # alibaba/EasyCV - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 127
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 1271 | 127 | 
 | 2022-11-26 | 1271 | 127 | 
 | 2022-11-25 | 1270 | 127 | 
 | 2022-11-24 | 1267 | 127 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-11-01 | 1215 | 122 | 
 | 2022-10-31 | 1212 | 121 | 
 | 2022-10-30 | 1212 | 118 | 
-| 2022-10-29 | 1211 | 118 | 
 

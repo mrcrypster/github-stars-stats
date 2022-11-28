@@ -1,6 +1,6 @@
 # hkchengrex/XMem - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 81
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 858 | 81 | 
 | 2022-11-26 | 858 | 81 | 
 | 2022-11-25 | 857 | 81 | 
 | 2022-11-24 | 857 | 80 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-11-01 | 830 | 78 | 
 | 2022-10-31 | 829 | 78 | 
 | 2022-10-30 | 829 | 78 | 
-| 2022-10-29 | 829 | 78 | 
 

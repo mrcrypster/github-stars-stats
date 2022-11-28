@@ -1,10 +1,10 @@
 # Ashinch/ReadYou - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
-☋ Forks: 66
+☋ Forks: 65
 
-★ Stars: 1343
+★ Stars: 1348
 
 [Open repository](https://github.com/Ashinch/ReadYou)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 1348 | 65 | 
 | 2022-11-26 | 1343 | 66 | 
 | 2022-11-25 | 1340 | 66 | 
 | 2022-11-24 | 1339 | 65 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 1257 | 65 | 
 | 2022-10-30 | 1255 | 65 | 
 | 2022-10-29 | 1252 | 65 | 
-| 2022-10-28 | 1246 | 64 | 
 

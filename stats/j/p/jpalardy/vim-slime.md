@@ -1,10 +1,10 @@
 # jpalardy/vim-slime - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 207
 
-★ Stars: 1551
+★ Stars: 1550
 
 [Open repository](https://github.com/jpalardy/vim-slime)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 1550 | 207 | 
 | 2022-11-26 | 1551 | 207 | 
 | 2022-11-25 | 1550 | 207 | 
 | 2022-11-24 | 1547 | 208 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 1542 | 209 | 
 | 2022-10-30 | 1542 | 209 | 
 | 2022-10-29 | 1541 | 208 | 
-| 2022-10-28 | 1541 | 208 | 
 

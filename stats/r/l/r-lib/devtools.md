@@ -1,10 +1,10 @@
 # r-lib/devtools - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 750
 
-★ Stars: 2241
+★ Stars: 2242
 
 [Open repository](https://github.com/r-lib/devtools)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 2242 | 750 | 
 | 2022-11-26 | 2241 | 750 | 
 | 2022-11-25 | 2241 | 750 | 
 | 2022-11-24 | 2240 | 750 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 2227 | 750 | 
 | 2022-10-30 | 2227 | 750 | 
 | 2022-10-29 | 2227 | 750 | 
-| 2022-10-28 | 2227 | 750 | 
 

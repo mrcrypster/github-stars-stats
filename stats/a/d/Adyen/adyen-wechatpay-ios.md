@@ -1,10 +1,10 @@
 # Adyen/adyen-wechatpay-ios - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 2
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/Adyen/adyen-wechatpay-ios)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 5 | 2 | 
 | 2022-11-26 | 4 | 2 | 
 | 2022-11-25 | 4 | 2 | 
 | 2022-11-24 | 4 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 4 | 2 | 
 | 2022-10-30 | 4 | 2 | 
 | 2022-10-29 | 4 | 2 | 
-| 2022-10-28 | 4 | 2 | 
 

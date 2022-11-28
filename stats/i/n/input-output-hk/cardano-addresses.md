@@ -1,10 +1,10 @@
 # input-output-hk/cardano-addresses - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 33
 
-★ Stars: 113
+★ Stars: 114
 
 [Open repository](https://github.com/input-output-hk/cardano-addresses)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 114 | 33 | 
 | 2022-11-26 | 113 | 33 | 
 | 2022-11-25 | 113 | 33 | 
 | 2022-11-24 | 113 | 33 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 111 | 31 | 
 | 2022-10-30 | 111 | 31 | 
 | 2022-10-29 | 111 | 31 | 
-| 2022-10-28 | 111 | 31 | 
 

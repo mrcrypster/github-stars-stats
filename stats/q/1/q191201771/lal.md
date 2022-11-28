@@ -1,6 +1,6 @@
 # q191201771/lal - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 297
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 1798 | 297 | 
 | 2022-11-26 | 1798 | 297 | 
 | 2022-11-25 | 1796 | 297 | 
 | 2022-11-24 | 1793 | 297 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 1729 | 285 | 
 | 2022-10-30 | 1729 | 285 | 
 | 2022-10-29 | 1727 | 285 | 
-| 2022-10-28 | 1727 | 285 | 
 

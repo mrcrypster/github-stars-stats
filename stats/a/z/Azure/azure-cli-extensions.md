@@ -1,6 +1,6 @@
 # Azure/azure-cli-extensions - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 777
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 253 | 777 | 
 | 2022-11-26 | 253 | 777 | 
 | 2022-11-25 | 253 | 777 | 
 | 2022-11-24 | 253 | 778 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 251 | 764 | 
 | 2022-10-30 | 251 | 763 | 
 | 2022-10-29 | 251 | 764 | 
-| 2022-10-28 | 251 | 764 | 
 

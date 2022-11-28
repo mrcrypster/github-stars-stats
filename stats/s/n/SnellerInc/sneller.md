@@ -1,6 +1,6 @@
 # SnellerInc/sneller - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 690 | 25 | 
 | 2022-11-27 | 690 | 25 | 
 | 2022-11-25 | 689 | 25 | 
 | 2022-11-24 | 689 | 25 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-10-31 | 676 | 25 | 
 | 2022-10-30 | 676 | 25 | 
 | 2022-10-29 | 675 | 25 | 
-| 2022-10-28 | 674 | 25 | 
 

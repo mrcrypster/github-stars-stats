@@ -1,10 +1,10 @@
 # vrm-c/UniVRM - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 316
 
-★ Stars: 1729
+★ Stars: 1731
 
 [Open repository](https://github.com/vrm-c/UniVRM)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 1731 | 316 | 
 | 2022-11-26 | 1729 | 316 | 
 | 2022-11-25 | 1731 | 316 | 
 | 2022-11-24 | 1731 | 316 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 1694 | 314 | 
 | 2022-10-30 | 1693 | 313 | 
 | 2022-10-29 | 1691 | 314 | 
-| 2022-10-28 | 1691 | 313 | 
 

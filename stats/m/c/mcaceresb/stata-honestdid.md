@@ -1,10 +1,10 @@
 # mcaceresb/stata-honestdid - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 5
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/mcaceresb/stata-honestdid)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 32 | 5 | 
 | 2022-11-26 | 31 | 5 | 
 | 2022-11-25 | 31 | 5 | 
 | 2022-11-24 | 31 | 5 | 

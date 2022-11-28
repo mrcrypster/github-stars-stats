@@ -1,10 +1,10 @@
 # chef/omnibus - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 295
 
-★ Stars: 1243
+★ Stars: 1244
 
 [Open repository](https://github.com/chef/omnibus)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 1244 | 295 | 
 | 2022-11-26 | 1243 | 295 | 
 | 2022-11-25 | 1242 | 295 | 
 | 2022-11-24 | 1242 | 295 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 1240 | 294 | 
 | 2022-10-30 | 1240 | 294 | 
 | 2022-10-29 | 1239 | 295 | 
-| 2022-10-28 | 1239 | 295 | 
 

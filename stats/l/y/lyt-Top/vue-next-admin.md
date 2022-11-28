@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 27
 
-☋ Forks: 113
+☋ Forks: 114
 
-★ Stars: 678
+★ Stars: 684
 
 [Open repository](https://github.com/lyt-Top/vue-next-admin)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-27 | 678 | 113 | 
+| 2022-11-27 | 684 | 114 | 
 | 2022-11-26 | 678 | 113 | 
 

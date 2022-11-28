@@ -1,6 +1,6 @@
 # TomAPU/poc_and_exp - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 200 | 55 | 
 | 2022-11-26 | 200 | 55 | 
 | 2022-11-25 | 200 | 55 | 
 | 2022-11-24 | 200 | 55 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 202 | 55 | 
 | 2022-10-30 | 201 | 55 | 
 | 2022-10-29 | 201 | 55 | 
-| 2022-10-28 | 201 | 55 | 
 

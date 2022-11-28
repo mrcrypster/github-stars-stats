@@ -1,10 +1,10 @@
 # tnalpgge/rank-amateur-cowsay - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 61
 
-★ Stars: 289
+★ Stars: 290
 
 [Open repository](https://github.com/tnalpgge/rank-amateur-cowsay)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 290 | 61 | 
 | 2022-11-26 | 289 | 61 | 
 | 2022-11-25 | 289 | 61 | 
 | 2022-11-24 | 289 | 61 | 

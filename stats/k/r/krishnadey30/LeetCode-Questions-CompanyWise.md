@@ -1,6 +1,6 @@
 # krishnadey30/LeetCode-Questions-CompanyWise - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 1159
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 1912 | 1159 | 
 | 2022-11-26 | 1912 | 1159 | 
 | 2022-11-25 | 1911 | 1159 | 
 | 2022-11-24 | 1909 | 1157 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 1871 | 1138 | 
 | 2022-10-30 | 1870 | 1136 | 
 | 2022-10-29 | 1868 | 1135 | 
-| 2022-10-28 | 1867 | 1133 | 
 

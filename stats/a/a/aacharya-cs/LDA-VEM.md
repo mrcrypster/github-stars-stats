@@ -1,6 +1,6 @@
 # aacharya-cs/LDA-VEM - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 3 | 5 | 
 | 2022-11-26 | 3 | 5 | 
 | 2022-11-25 | 3 | 5 | 
 | 2022-11-24 | 3 | 5 | 

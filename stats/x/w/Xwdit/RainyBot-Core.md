@@ -1,10 +1,10 @@
 # Xwdit/RainyBot-Core - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 11
 
-★ Stars: 95
+★ Stars: 94
 
 [Open repository](https://github.com/Xwdit/RainyBot-Core)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 94 | 11 | 
 | 2022-11-26 | 95 | 11 | 
 | 2022-11-25 | 95 | 11 | 
 | 2022-11-24 | 95 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 91 | 10 | 
 | 2022-10-30 | 91 | 10 | 
 | 2022-10-29 | 91 | 9 | 
-| 2022-10-28 | 91 | 9 | 
 

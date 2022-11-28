@@ -1,6 +1,6 @@
 # apache/incubator-shenyu - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 2549
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 7466 | 2549 | 
 | 2022-11-26 | 7466 | 2549 | 
 | 2022-11-25 | 7462 | 2548 | 
 | 2022-11-24 | 7457 | 2545 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-11-01 | 7381 | 2516 | 
 | 2022-10-31 | 7373 | 2515 | 
 | 2022-10-30 | 7371 | 2512 | 
-| 2022-10-28 | 7366 | 2511 | 
 

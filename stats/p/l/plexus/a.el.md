@@ -1,10 +1,10 @@
 # plexus/a.el - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 9
 
-★ Stars: 81
+★ Stars: 82
 
 [Open repository](https://github.com/plexus/a.el)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 82 | 9 | 
 | 2022-11-27 | 81 | 9 | 
 | 2022-11-26 | 81 | 9 | 
 | 2022-11-25 | 81 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-10-31 | 80 | 9 | 
 | 2022-10-30 | 80 | 9 | 
 | 2022-10-29 | 80 | 9 | 
-| 2022-10-28 | 80 | 9 | 
 

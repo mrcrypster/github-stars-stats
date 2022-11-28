@@ -1,6 +1,6 @@
 # WICG/turtledove - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 119
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 407 | 119 | 
 | 2022-11-26 | 407 | 119 | 
 | 2022-11-25 | 407 | 119 | 
 | 2022-11-24 | 407 | 119 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 398 | 114 | 
 | 2022-10-30 | 398 | 114 | 
 | 2022-10-29 | 398 | 114 | 
-| 2022-10-28 | 398 | 114 | 
 

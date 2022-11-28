@@ -1,6 +1,6 @@
 # spatie/laravel-login-link - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 227 | 12 | 
 | 2022-11-26 | 227 | 12 | 
 | 2022-11-25 | 227 | 12 | 
 | 2022-11-24 | 227 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 221 | 12 | 
 | 2022-10-30 | 221 | 12 | 
 | 2022-10-29 | 221 | 12 | 
-| 2022-10-28 | 221 | 12 | 
 

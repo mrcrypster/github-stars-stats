@@ -1,6 +1,6 @@
 # github4bhavin/Forex - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 2 | 3 | 
 | 2022-11-27 | 2 | 3 | 
 | 2022-11-26 | 2 | 3 | 
 | 2022-11-24 | 2 | 3 | 

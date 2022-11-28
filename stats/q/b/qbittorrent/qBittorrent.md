@@ -1,10 +1,10 @@
 # qbittorrent/qBittorrent - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
-☋ Forks: 3017
+☋ Forks: 3016
 
-★ Stars: 17937
+★ Stars: 17953
 
 [Open repository](https://github.com/qbittorrent/qBittorrent)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 17953 | 3016 | 
 | 2022-11-26 | 17937 | 3017 | 
 | 2022-11-25 | 17930 | 3017 | 
 | 2022-11-24 | 17921 | 3019 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 17641 | 2997 | 
 | 2022-10-30 | 17624 | 2995 | 
 | 2022-10-29 | 17621 | 2995 | 
-| 2022-10-28 | 17612 | 2993 | 
 

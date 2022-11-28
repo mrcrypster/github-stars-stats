@@ -1,6 +1,6 @@
 # Apiki/devops-challenge-junior - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 1 | 10 | 
 | 2022-11-27 | 1 | 10 | 
 | 2022-11-25 | 1 | 10 | 
 | 2022-11-24 | 1 | 10 | 

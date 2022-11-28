@@ -1,6 +1,6 @@
 # tchiotludo/akhq - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 522
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 2754 | 522 | 
 | 2022-11-26 | 2754 | 522 | 
 | 2022-11-25 | 2753 | 521 | 
 | 2022-11-24 | 2752 | 519 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 2716 | 505 | 
 | 2022-10-30 | 2716 | 504 | 
 | 2022-10-29 | 2715 | 505 | 
-| 2022-10-28 | 2714 | 505 | 
 

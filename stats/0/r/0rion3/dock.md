@@ -1,6 +1,6 @@
 # 0rion3/dock - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 77 | 7 | 
 | 2022-11-26 | 77 | 7 | 
 | 2022-11-25 | 77 | 7 | 
 | 2022-11-24 | 77 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 76 | 7 | 
 | 2022-10-30 | 76 | 7 | 
 | 2022-10-29 | 75 | 7 | 
-| 2022-10-28 | 75 | 7 | 
 

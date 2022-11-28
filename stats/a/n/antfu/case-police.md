@@ -1,6 +1,6 @@
 # antfu/case-police - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 72
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 946 | 72 | 
 | 2022-11-26 | 946 | 72 | 
 | 2022-11-25 | 946 | 72 | 
 | 2022-11-24 | 946 | 72 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 943 | 73 | 
 | 2022-10-30 | 943 | 73 | 
 | 2022-10-29 | 943 | 73 | 
-| 2022-10-28 | 943 | 74 | 
 

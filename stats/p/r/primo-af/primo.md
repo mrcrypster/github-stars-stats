@@ -1,10 +1,10 @@
 # primo-af/primo - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 42
 
-★ Stars: 505
+★ Stars: 515
 
 [Open repository](https://github.com/primo-af/primo)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 515 | 42 | 
 | 2022-11-26 | 505 | 42 | 
 | 2022-11-25 | 500 | 42 | 
 | 2022-11-24 | 499 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 487 | 42 | 
 | 2022-10-30 | 487 | 42 | 
 | 2022-10-29 | 487 | 42 | 
-| 2022-10-28 | 487 | 42 | 
 

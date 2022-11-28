@@ -1,6 +1,6 @@
 # cr0mll/cyberclopaedia - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 130 | 10 | 
 | 2022-11-26 | 130 | 10 | 
 | 2022-11-25 | 130 | 10 | 
 | 2022-11-24 | 130 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 127 | 10 | 
 | 2022-10-30 | 127 | 10 | 
 | 2022-10-29 | 127 | 10 | 
-| 2022-10-28 | 127 | 10 | 
 

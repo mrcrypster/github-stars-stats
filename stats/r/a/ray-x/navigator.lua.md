@@ -1,10 +1,10 @@
 # ray-x/navigator.lua - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 47
 
-★ Stars: 855
+★ Stars: 856
 
 [Open repository](https://github.com/ray-x/navigator.lua)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 856 | 47 | 
 | 2022-11-26 | 855 | 47 | 
 | 2022-11-25 | 854 | 47 | 
 | 2022-11-24 | 852 | 47 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 812 | 47 | 
 | 2022-10-30 | 813 | 47 | 
 | 2022-10-29 | 813 | 47 | 
-| 2022-10-28 | 813 | 47 | 
 

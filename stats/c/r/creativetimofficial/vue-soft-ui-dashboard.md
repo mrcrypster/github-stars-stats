@@ -1,6 +1,6 @@
 # creativetimofficial/vue-soft-ui-dashboard - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 82
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 53 | 82 | 
 | 2022-11-26 | 53 | 82 | 
 | 2022-11-25 | 53 | 82 | 
 | 2022-11-24 | 53 | 81 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 49 | 67 | 
 | 2022-10-30 | 49 | 67 | 
 | 2022-10-29 | 49 | 66 | 
-| 2022-10-28 | 49 | 66 | 
 

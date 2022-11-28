@@ -1,10 +1,10 @@
 # YetiForceCompany/YetiForceCRM - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 609
 
-★ Stars: 1296
+★ Stars: 1297
 
 [Open repository](https://github.com/YetiForceCompany/YetiForceCRM)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 1297 | 609 | 
 | 2022-11-27 | 1296 | 609 | 
 | 2022-11-26 | 1296 | 608 | 
 | 2022-11-24 | 1297 | 608 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-10-31 | 1286 | 605 | 
 | 2022-10-30 | 1286 | 605 | 
 | 2022-10-29 | 1286 | 605 | 
-| 2022-10-28 | 1285 | 605 | 
 

@@ -1,10 +1,10 @@
 # AmazingAng/WTFSolidity - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
-☋ Forks: 636
+☋ Forks: 639
 
-★ Stars: 4385
+★ Stars: 4395
 
 [Open repository](https://github.com/AmazingAng/WTFSolidity)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 4395 | 639 | 
 | 2022-11-26 | 4385 | 636 | 
 | 2022-11-25 | 4375 | 636 | 
 | 2022-11-24 | 4361 | 633 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 3818 | 548 | 
 | 2022-10-30 | 3730 | 536 | 
 | 2022-10-29 | 3711 | 530 | 
-| 2022-10-28 | 3666 | 516 | 
 

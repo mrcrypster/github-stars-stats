@@ -1,10 +1,10 @@
 # fluxcd/flagger - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 593
 
-★ Stars: 3964
+★ Stars: 3965
 
 [Open repository](https://github.com/fluxcd/flagger)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 3965 | 593 | 
 | 2022-11-26 | 3964 | 593 | 
 | 2022-11-25 | 3963 | 593 | 
 | 2022-11-24 | 3958 | 592 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 3928 | 588 | 
 | 2022-10-30 | 3928 | 587 | 
 | 2022-10-29 | 3928 | 588 | 
-| 2022-10-28 | 3925 | 588 | 
 

@@ -1,6 +1,6 @@
 # Bishwas-py/deviser-club - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 90 | 6 | 
 | 2022-11-26 | 90 | 6 | 
 | 2022-11-25 | 90 | 6 | 
 | 2022-11-24 | 90 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-11-01 | 85 | 6 | 
 | 2022-10-31 | 85 | 6 | 
 | 2022-10-30 | 84 | 6 | 
-| 2022-10-29 | 84 | 6 | 
 

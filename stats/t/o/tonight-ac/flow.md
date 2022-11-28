@@ -1,6 +1,6 @@
 # tonight-ac/flow - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 43 | 9 | 
 | 2022-11-26 | 43 | 9 | 
 | 2022-11-25 | 43 | 9 | 
 | 2022-11-24 | 43 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-11-01 | 43 | 9 | 
 | 2022-10-31 | 43 | 9 | 
 | 2022-10-30 | 43 | 9 | 
-| 2022-10-29 | 43 | 9 | 
 

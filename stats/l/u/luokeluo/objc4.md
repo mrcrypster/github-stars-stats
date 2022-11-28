@@ -1,6 +1,6 @@
 # luokeluo/objc4 - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 23 | 4 | 
 | 2022-11-26 | 23 | 4 | 
 | 2022-11-25 | 23 | 4 | 
 | 2022-11-24 | 23 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-11-01 | 24 | 4 | 
 | 2022-10-30 | 24 | 4 | 
 | 2022-10-29 | 24 | 4 | 
-| 2022-10-28 | 24 | 4 | 
 

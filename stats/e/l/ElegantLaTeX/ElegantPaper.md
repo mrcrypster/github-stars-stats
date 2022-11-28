@@ -1,10 +1,10 @@
 # ElegantLaTeX/ElegantPaper - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 206
 
-★ Stars: 1009
+★ Stars: 1010
 
 [Open repository](https://github.com/ElegantLaTeX/ElegantPaper)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 1010 | 206 | 
 | 2022-11-26 | 1009 | 206 | 
 | 2022-11-25 | 1008 | 205 | 
 | 2022-11-24 | 1007 | 205 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 988 | 204 | 
 | 2022-10-30 | 988 | 204 | 
 | 2022-10-29 | 988 | 204 | 
-| 2022-10-28 | 987 | 204 | 
 

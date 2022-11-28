@@ -1,8 +1,8 @@
 # google-research/simclr - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
-☋ Forks: 541
+☋ Forks: 540
 
 ★ Stars: 3280
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 3280 | 540 | 
 | 2022-11-26 | 3280 | 541 | 
 | 2022-11-25 | 3278 | 539 | 
 | 2022-11-24 | 3275 | 538 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 3243 | 527 | 
 | 2022-10-30 | 3242 | 527 | 
 | 2022-10-29 | 3242 | 527 | 
-| 2022-10-28 | 3241 | 527 | 
 

@@ -1,10 +1,10 @@
 # NiclasEriksen/game-of-leif - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 3
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/NiclasEriksen/game-of-leif)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 26 | 3 | 
 | 2022-11-26 | 25 | 3 | 
 | 2022-11-25 | 25 | 3 | 
 | 2022-11-24 | 25 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-11-01 | 23 | 3 | 
 | 2022-10-30 | 23 | 3 | 
 | 2022-10-29 | 23 | 3 | 
-| 2022-10-28 | 23 | 3 | 
 

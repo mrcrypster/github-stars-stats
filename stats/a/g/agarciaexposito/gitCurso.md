@@ -1,6 +1,6 @@
 # agarciaexposito/gitCurso - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 1 | 16 | 
 | 2022-11-26 | 1 | 16 | 
 | 2022-11-25 | 1 | 16 | 
 | 2022-11-24 | 1 | 16 | 

@@ -1,8 +1,8 @@
 # Stealerium/Stealerium - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
-☋ Forks: 95
+☋ Forks: 96
 
 ★ Stars: 273
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 273 | 96 | 
 | 2022-11-26 | 273 | 95 | 
 | 2022-11-25 | 271 | 95 | 
 | 2022-11-24 | 269 | 94 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 245 | 84 | 
 | 2022-10-30 | 245 | 84 | 
 | 2022-10-29 | 245 | 84 | 
-| 2022-10-28 | 245 | 84 | 
 

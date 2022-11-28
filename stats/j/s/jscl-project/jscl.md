@@ -1,10 +1,10 @@
 # jscl-project/jscl - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 102
 
-★ Stars: 803
+★ Stars: 804
 
 [Open repository](https://github.com/jscl-project/jscl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 804 | 102 | 
 | 2022-11-26 | 803 | 102 | 
 | 2022-11-25 | 803 | 102 | 
 | 2022-11-24 | 803 | 102 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 800 | 102 | 
 | 2022-10-30 | 800 | 102 | 
 | 2022-10-29 | 800 | 102 | 
-| 2022-10-28 | 800 | 102 | 
 

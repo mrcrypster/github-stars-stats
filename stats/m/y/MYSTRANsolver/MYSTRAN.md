@@ -1,10 +1,10 @@
 # MYSTRANsolver/MYSTRAN - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 5
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/MYSTRANsolver/MYSTRAN)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 12 | 5 | 
 | 2022-11-26 | 11 | 5 | 
 | 2022-11-25 | 11 | 5 | 
 | 2022-11-24 | 11 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-11-01 | 8 | 3 | 
 | 2022-10-31 | 8 | 3 | 
 | 2022-10-29 | 8 | 3 | 
-| 2022-10-28 | 7 | 3 | 
 

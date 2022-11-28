@@ -1,10 +1,10 @@
 # apple/unityplugins - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 37
 
-★ Stars: 448
+★ Stars: 449
 
 [Open repository](https://github.com/apple/unityplugins)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 449 | 37 | 
 | 2022-11-26 | 448 | 37 | 
 | 2022-11-25 | 448 | 37 | 
 | 2022-11-24 | 448 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 434 | 36 | 
 | 2022-10-30 | 434 | 35 | 
 | 2022-10-29 | 434 | 36 | 
-| 2022-10-28 | 434 | 36 | 
 

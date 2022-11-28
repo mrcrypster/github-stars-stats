@@ -1,10 +1,10 @@
 # LoL-Fantome/lolcustomskin-tools - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 60
 
-★ Stars: 147
+★ Stars: 149
 
 [Open repository](https://github.com/LoL-Fantome/lolcustomskin-tools)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 149 | 60 | 
 | 2022-11-26 | 147 | 60 | 
 | 2022-11-25 | 142 | 60 | 
 | 2022-11-24 | 138 | 60 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 134 | 59 | 
 | 2022-10-30 | 134 | 59 | 
 | 2022-10-29 | 134 | 59 | 
-| 2022-10-28 | 134 | 59 | 
 

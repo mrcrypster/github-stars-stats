@@ -1,10 +1,10 @@
 # balena-io/etcher - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 1764
 
-★ Stars: 24298
+★ Stars: 24306
 
 [Open repository](https://github.com/balena-io/etcher)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 24306 | 1764 | 
 | 2022-11-26 | 24298 | 1764 | 
 | 2022-11-25 | 24289 | 1763 | 
 | 2022-11-24 | 24279 | 1763 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 24084 | 1743 | 
 | 2022-10-30 | 24080 | 1743 | 
 | 2022-10-29 | 24072 | 1741 | 
-| 2022-10-28 | 24066 | 1742 | 
 

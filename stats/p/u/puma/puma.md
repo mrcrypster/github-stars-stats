@@ -1,6 +1,6 @@
 # puma/puma - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 1363
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 7253 | 1363 | 
 | 2022-11-26 | 7253 | 1363 | 
 | 2022-11-25 | 7254 | 1362 | 
 | 2022-11-24 | 7253 | 1363 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 7234 | 1355 | 
 | 2022-10-30 | 7234 | 1354 | 
 | 2022-10-29 | 7235 | 1355 | 
-| 2022-10-28 | 7233 | 1353 | 
 

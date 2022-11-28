@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 27
 
 ☋ Forks: 16
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/Ruimusume/PMSV)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-27 | 18 | 16 | 
+| 2022-11-27 | 19 | 16 | 
 | 2022-11-26 | 18 | 16 | 
 | 2022-11-25 | 16 | 16 | 
 | 2022-11-24 | 16 | 15 | 

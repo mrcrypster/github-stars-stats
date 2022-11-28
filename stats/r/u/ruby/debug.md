@@ -1,10 +1,10 @@
 # ruby/debug - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 73
 
-★ Stars: 801
+★ Stars: 802
 
 [Open repository](https://github.com/ruby/debug)
 
@@ -13,7 +13,8 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-27 | 801 | 73 | 
+| 2022-11-28 | 802 | 73 | 
+| 2022-11-27 | 802 | 73 | 
 | 2022-11-26 | 800 | 73 | 
 | 2022-11-25 | 799 | 73 | 
 | 2022-11-24 | 798 | 73 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-10-31 | 779 | 70 | 
 | 2022-10-30 | 778 | 70 | 
 | 2022-10-29 | 777 | 70 | 
-| 2022-10-28 | 777 | 71 | 
 

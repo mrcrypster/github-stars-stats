@@ -1,10 +1,10 @@
 # aleksandr-oliferuk/pcap2squid - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 6
 
-★ Stars: 63
+★ Stars: 64
 
 [Open repository](https://github.com/aleksandr-oliferuk/pcap2squid)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 64 | 6 | 
 | 2022-11-27 | 63 | 6 | 
 | 2022-11-26 | 63 | 6 | 
 | 2022-11-24 | 63 | 6 | 

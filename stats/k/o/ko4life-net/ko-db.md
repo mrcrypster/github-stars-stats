@@ -1,6 +1,6 @@
 # ko4life-net/ko-db - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 3 | 2 | 
 | 2022-11-26 | 3 | 2 | 
 | 2022-11-25 | 3 | 2 | 
 | 2022-11-24 | 3 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 3 | 1 | 
 | 2022-10-30 | 2 | 1 | 
 | 2022-10-29 | 2 | 1 | 
-| 2022-10-28 | 2 | 1 | 
 

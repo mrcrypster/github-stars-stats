@@ -1,10 +1,10 @@
 # Kinnara/ModernWpf - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 372
 
-★ Stars: 3344
+★ Stars: 3348
 
 [Open repository](https://github.com/Kinnara/ModernWpf)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 3348 | 372 | 
 | 2022-11-26 | 3344 | 372 | 
 | 2022-11-25 | 3340 | 372 | 
 | 2022-11-24 | 3337 | 371 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 3290 | 367 | 
 | 2022-10-30 | 3286 | 368 | 
 | 2022-10-29 | 3282 | 368 | 
-| 2022-10-28 | 3281 | 368 | 
 

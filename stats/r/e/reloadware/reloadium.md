@@ -1,10 +1,10 @@
 # reloadware/reloadium - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 17
 
-★ Stars: 1553
+★ Stars: 1560
 
 [Open repository](https://github.com/reloadware/reloadium)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 1560 | 17 | 
 | 2022-11-26 | 1553 | 17 | 
 | 2022-11-25 | 1551 | 17 | 
 | 2022-11-24 | 1541 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 1448 | 15 | 
 | 2022-10-30 | 1448 | 15 | 
 | 2022-10-29 | 1447 | 15 | 
-| 2022-10-28 | 1447 | 15 | 
 

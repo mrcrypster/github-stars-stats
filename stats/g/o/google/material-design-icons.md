@@ -1,8 +1,8 @@
 # google/material-design-icons - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
-☋ Forks: 9430
+☋ Forks: 9432
 
 ★ Stars: 46844
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 46844 | 9432 | 
 | 2022-11-26 | 46844 | 9430 | 
 | 2022-11-25 | 46843 | 9430 | 
 | 2022-11-24 | 46839 | 9431 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 46716 | 9419 | 
 | 2022-10-30 | 46711 | 9417 | 
 | 2022-10-29 | 46704 | 9415 | 
-| 2022-10-28 | 46701 | 9412 | 
 

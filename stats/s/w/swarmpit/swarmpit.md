@@ -1,6 +1,6 @@
 # swarmpit/swarmpit - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 256
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 2521 | 256 | 
 | 2022-11-26 | 2521 | 256 | 
 | 2022-11-25 | 2521 | 256 | 
 | 2022-11-24 | 2521 | 256 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 2501 | 254 | 
 | 2022-10-30 | 2500 | 254 | 
 | 2022-10-29 | 2500 | 254 | 
-| 2022-10-28 | 2498 | 254 | 
 

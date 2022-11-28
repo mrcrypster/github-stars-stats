@@ -1,10 +1,10 @@
 # redpanda-data/console - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 255
 
-★ Stars: 2849
+★ Stars: 2851
 
 [Open repository](https://github.com/redpanda-data/console)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 2851 | 255 | 
 | 2022-11-26 | 2849 | 255 | 
 | 2022-11-25 | 2849 | 254 | 
 | 2022-11-24 | 2847 | 254 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 2801 | 245 | 
 | 2022-10-30 | 2798 | 245 | 
 | 2022-10-29 | 2798 | 245 | 
-| 2022-10-28 | 2797 | 246 | 
 

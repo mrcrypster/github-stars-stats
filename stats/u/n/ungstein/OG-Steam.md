@@ -1,10 +1,10 @@
 # ungstein/OG-Steam - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 12
 
-★ Stars: 296
+★ Stars: 297
 
 [Open repository](https://github.com/ungstein/OG-Steam)
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 297 | 12 | 
+| 2022-11-27 | 297 | 12 | 
 | 2022-11-26 | 296 | 12 | 
 | 2022-11-25 | 296 | 12 | 
 | 2022-11-24 | 296 | 12 | 
@@ -41,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 279 | 12 | 
 | 2022-10-30 | 279 | 12 | 
 | 2022-10-29 | 279 | 12 | 
-| 2022-10-28 | 279 | 12 | 
 

@@ -1,8 +1,8 @@
 # posse-ap/assets-ph1-website - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
-☋ Forks: 10
+☋ Forks: 12
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | - | 12 | 
 | 2022-11-26 | - | 10 | 
 | 2022-11-25 | - | 6 | 
 | 2022-11-24 | - | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | - | 1 | 
 | 2022-10-30 | - | 1 | 
 | 2022-10-29 | - | 1 | 
-| 2022-10-28 | - | 1 | 
 

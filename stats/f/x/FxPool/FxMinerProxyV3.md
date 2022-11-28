@@ -1,10 +1,10 @@
 # FxPool/FxMinerProxyV3 - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
-☋ Forks: 98
+☋ Forks: 101
 
-★ Stars: 760
+★ Stars: 782
 
 [Open repository](https://github.com/FxPool/FxMinerProxyV3)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 782 | 101 | 
 | 2022-11-26 | 760 | 98 | 
 | 2022-11-25 | 749 | 95 | 
 | 2022-11-24 | 731 | 91 | 

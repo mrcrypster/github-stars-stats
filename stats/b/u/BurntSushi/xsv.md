@@ -1,10 +1,10 @@
 # BurntSushi/xsv - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 286
 
-★ Stars: 8815
+★ Stars: 8817
 
 [Open repository](https://github.com/BurntSushi/xsv)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 8817 | 286 | 
 | 2022-11-26 | 8815 | 286 | 
 | 2022-11-25 | 8813 | 286 | 
 | 2022-11-24 | 8810 | 286 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 8770 | 283 | 
 | 2022-10-30 | 8767 | 284 | 
 | 2022-10-29 | 8766 | 284 | 
-| 2022-10-28 | 8763 | 284 | 
 

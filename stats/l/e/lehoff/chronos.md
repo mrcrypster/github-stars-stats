@@ -1,6 +1,6 @@
 # lehoff/chronos - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 83 | 31 | 
 | 2022-11-26 | 83 | 31 | 
 | 2022-11-25 | 83 | 31 | 
 | 2022-11-24 | 83 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 83 | 31 | 
 | 2022-10-30 | 82 | 31 | 
 | 2022-10-29 | 82 | 31 | 
-| 2022-10-28 | 82 | 31 | 
 

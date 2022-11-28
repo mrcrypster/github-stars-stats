@@ -1,10 +1,10 @@
 # prysmaticlabs/prysm-web-ui - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 24
 
-★ Stars: 35
+★ Stars: 36
 
 [Open repository](https://github.com/prysmaticlabs/prysm-web-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 36 | 24 | 
 | 2022-11-26 | 35 | 24 | 
 | 2022-11-25 | 35 | 24 | 
 | 2022-11-24 | 35 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 35 | 24 | 
 | 2022-10-30 | 35 | 24 | 
 | 2022-10-29 | 35 | 24 | 
-| 2022-10-28 | 35 | 24 | 
 

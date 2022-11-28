@@ -1,10 +1,10 @@
 # MinerProxyBTC/GoMinerTool - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 86
 
-★ Stars: 470
+★ Stars: 471
 
 [Open repository](https://github.com/MinerProxyBTC/GoMinerTool)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 471 | 86 | 
 | 2022-11-26 | 470 | 86 | 
 | 2022-11-25 | 470 | 86 | 
 | 2022-11-24 | 470 | 86 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 469 | 86 | 
 | 2022-10-30 | 469 | 86 | 
 | 2022-10-29 | 469 | 86 | 
-| 2022-10-28 | 469 | 86 | 
 

@@ -1,6 +1,6 @@
 # codemistic/HacktoberFest - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 121
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 131 | 121 | 
 | 2022-11-27 | 131 | 121 | 
 | 2022-11-25 | 131 | 122 | 
 | 2022-11-24 | 131 | 122 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-10-31 | 133 | 123 | 
 | 2022-10-30 | 133 | 123 | 
 | 2022-10-29 | 134 | 122 | 
-| 2022-10-28 | 134 | 122 | 
 

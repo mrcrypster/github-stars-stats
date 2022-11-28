@@ -1,6 +1,6 @@
 # yanghaoi/CobaltStrike_CNA - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 333 | 63 | 
 | 2022-11-26 | 333 | 63 | 
 | 2022-11-25 | 332 | 63 | 
 | 2022-11-24 | 332 | 63 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 329 | 63 | 
 | 2022-10-30 | 328 | 62 | 
 | 2022-10-29 | 328 | 62 | 
-| 2022-10-28 | 328 | 62 | 
 

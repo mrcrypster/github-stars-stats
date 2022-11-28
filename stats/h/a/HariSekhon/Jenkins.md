@@ -1,10 +1,10 @@
 # HariSekhon/Jenkins - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 12
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/HariSekhon/Jenkins)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 21 | 12 | 
 | 2022-11-26 | 20 | 12 | 
 | 2022-11-25 | 20 | 12 | 
 | 2022-11-24 | 19 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 18 | 10 | 
 | 2022-10-30 | 17 | 10 | 
 | 2022-10-29 | 17 | 10 | 
-| 2022-10-28 | 17 | 10 | 
 

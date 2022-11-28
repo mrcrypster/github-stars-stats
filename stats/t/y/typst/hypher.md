@@ -1,6 +1,6 @@
 # typst/hypher - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 63 | 2 | 
 | 2022-11-26 | 63 | 2 | 
 | 2022-11-25 | 63 | 2 | 
 | 2022-11-24 | 63 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-11-01 | 60 | 2 | 
 | 2022-10-31 | 60 | 2 | 
 | 2022-10-30 | 60 | 2 | 
-| 2022-10-29 | 60 | 2 | 
 

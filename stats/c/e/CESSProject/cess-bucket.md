@@ -1,6 +1,6 @@
 # CESSProject/cess-bucket - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 60 | 19 | 
 | 2022-11-26 | 60 | 19 | 
 | 2022-11-25 | 60 | 19 | 
 | 2022-11-24 | 60 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 60 | 19 | 
 | 2022-10-30 | 59 | 19 | 
 | 2022-10-29 | 59 | 19 | 
-| 2022-10-28 | 59 | 19 | 
 

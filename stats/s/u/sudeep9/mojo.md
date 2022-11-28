@@ -1,10 +1,10 @@
 # sudeep9/mojo - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 2
 
-★ Stars: 219
+★ Stars: 220
 
 [Open repository](https://github.com/sudeep9/mojo)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 220 | 2 | 
 | 2022-11-26 | 219 | 2 | 
 | 2022-11-25 | 219 | 2 | 
 | 2022-11-24 | 219 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 219 | 2 | 
 | 2022-10-30 | 219 | 2 | 
 | 2022-10-29 | 219 | 2 | 
-| 2022-10-28 | 219 | 2 | 
 

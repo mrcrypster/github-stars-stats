@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 27
 
-☋ Forks: 74
+☋ Forks: 75
 
-★ Stars: 1059
+★ Stars: 1060
 
 [Open repository](https://github.com/a16z/helios)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-27 | 1059 | 74 | 
+| 2022-11-27 | 1060 | 75 | 
 | 2022-11-26 | 1059 | 74 | 
 | 2022-11-25 | 1049 | 73 | 
 | 2022-11-24 | 978 | 62 | 

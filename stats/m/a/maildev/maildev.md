@@ -1,10 +1,10 @@
 # maildev/maildev - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 445
 
-★ Stars: 3679
+★ Stars: 3680
 
 [Open repository](https://github.com/maildev/maildev)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 3680 | 445 | 
 | 2022-11-26 | 3679 | 445 | 
 | 2022-11-25 | 3679 | 445 | 
 | 2022-11-24 | 3679 | 445 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 3635 | 440 | 
 | 2022-10-30 | 3633 | 440 | 
 | 2022-10-29 | 3630 | 438 | 
-| 2022-10-28 | 3631 | 438 | 
 

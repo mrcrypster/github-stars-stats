@@ -1,6 +1,6 @@
 # spf13/afero - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 457
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 4885 | 457 | 
 | 2022-11-26 | 4885 | 457 | 
 | 2022-11-25 | 4884 | 457 | 
 | 2022-11-24 | 4884 | 456 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 26
 | 2022-11-01 | 4848 | 450 | 
 | 2022-10-31 | 4848 | 450 | 
 | 2022-10-30 | 4845 | 450 | 
-| 2022-10-29 | 4843 | 451 | 
 

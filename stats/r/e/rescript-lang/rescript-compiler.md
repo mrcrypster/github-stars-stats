@@ -1,10 +1,10 @@
 # rescript-lang/rescript-compiler - stars & forks statistics
 
-Stats updated on Nov 2022, 26
+Stats updated on Nov 2022, 27
 
 ☋ Forks: 416
 
-★ Stars: 5969
+★ Stars: 5971
 
 [Open repository](https://github.com/rescript-lang/rescript-compiler)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-27 | 5971 | 416 | 
 | 2022-11-26 | 5969 | 416 | 
 | 2022-11-25 | 5969 | 416 | 
 | 2022-11-24 | 5968 | 415 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 26
 | 2022-10-31 | 5929 | 412 | 
 | 2022-10-30 | 5927 | 411 | 
 | 2022-10-29 | 5922 | 411 | 
-| 2022-10-28 | 5922 | 412 | 
 

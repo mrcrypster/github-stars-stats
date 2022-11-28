@@ -1,6 +1,6 @@
 # apple/ml-gaudi - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 516 | 21 | 
 | 2022-11-27 | 516 | 21 | 
 | 2022-11-26 | 516 | 21 | 
 | 2022-11-25 | 516 | 21 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-10-31 | 472 | 21 | 
 | 2022-10-30 | 472 | 21 | 
 | 2022-10-29 | 472 | 21 | 
-| 2022-10-28 | 472 | 21 | 
 

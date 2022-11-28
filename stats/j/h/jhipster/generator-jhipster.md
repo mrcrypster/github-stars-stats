@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 27
 
 ☋ Forks: 3904
 
-★ Stars: 20124
+★ Stars: 20123
 
 [Open repository](https://github.com/jhipster/generator-jhipster)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-27 | 20124 | 3904 | 
+| 2022-11-27 | 20123 | 3904 | 
 | 2022-11-26 | 20124 | 3903 | 
 | 2022-11-25 | 20121 | 3903 | 
 | 2022-11-24 | 20111 | 3902 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-10-31 | 20056 | 3892 | 
 | 2022-10-30 | 20052 | 3891 | 
 | 2022-10-29 | 20050 | 3892 | 
-| 2022-10-28 | 20043 | 3890 | 
 
