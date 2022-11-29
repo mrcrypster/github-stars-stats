@@ -1,6 +1,6 @@
 # naumen-student/naumen.scala.course.2022.autumn - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 2 | 27 | 
 | 2022-11-27 | 2 | 27 | 
 | 2022-11-26 | 2 | 27 | 
 | 2022-11-25 | 2 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 2 | 27 | 
 | 2022-10-31 | 2 | 27 | 
 | 2022-10-30 | 2 | 27 | 
-| 2022-10-29 | 2 | 27 | 
 

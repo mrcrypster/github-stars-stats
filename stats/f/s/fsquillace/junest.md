@@ -1,10 +1,10 @@
 # fsquillace/junest - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 104
+☋ Forks: 105
 
-★ Stars: 1579
+★ Stars: 1580
 
 [Open repository](https://github.com/fsquillace/junest)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 1580 | 105 | 
 | 2022-11-27 | 1579 | 104 | 
 | 2022-11-26 | 1579 | 104 | 
 | 2022-11-25 | 1579 | 104 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 1563 | 102 | 
 | 2022-10-31 | 1562 | 102 | 
 | 2022-10-30 | 1562 | 102 | 
-| 2022-10-29 | 1561 | 101 | 
 

@@ -1,6 +1,6 @@
 # sanjaydahiya332/cloudknowledge - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | - | 75 | 
 | 2022-11-27 | - | 75 | 
 | 2022-11-26 | - | 75 | 
 | 2022-11-25 | - | 75 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | - | 74 | 
 | 2022-10-31 | - | 74 | 
 | 2022-10-30 | - | 74 | 
-| 2022-10-29 | - | 74 | 
 

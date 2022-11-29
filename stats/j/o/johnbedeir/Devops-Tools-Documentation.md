@@ -1,6 +1,6 @@
 # johnbedeir/Devops-Tools-Documentation - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 43 | 51 | 
 | 2022-11-27 | 43 | 51 | 
 | 2022-11-26 | 43 | 51 | 
 | 2022-11-25 | 43 | 50 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 40 | 47 | 
 | 2022-10-31 | 40 | 47 | 
 | 2022-10-30 | 40 | 47 | 
-| 2022-10-29 | 40 | 47 | 
 

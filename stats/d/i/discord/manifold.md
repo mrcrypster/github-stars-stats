@@ -1,6 +1,6 @@
 # discord/manifold - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 1524 | 56 | 
 | 2022-11-27 | 1524 | 56 | 
 | 2022-11-26 | 1524 | 56 | 
 | 2022-11-25 | 1524 | 56 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-02 | 1514 | 56 | 
 | 2022-11-01 | 1515 | 56 | 
 | 2022-10-31 | 1515 | 56 | 
-| 2022-10-30 | 1514 | 56 | 
 

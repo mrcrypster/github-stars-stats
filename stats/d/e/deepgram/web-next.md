@@ -1,10 +1,10 @@
 # deepgram/web-next - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 3
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/deepgram/web-next)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 3 | 3 | 
 | 2022-11-27 | 2 | 3 | 
 | 2022-11-26 | 2 | 3 | 
 | 2022-11-25 | 2 | 3 | 

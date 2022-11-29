@@ -1,6 +1,6 @@
 # mg979/vim-visual-multi - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 2629 | 52 | 
 | 2022-11-27 | 2629 | 52 | 
 | 2022-11-26 | 2628 | 51 | 
 | 2022-11-25 | 2626 | 51 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 2558 | 52 | 
 | 2022-10-31 | 2557 | 52 | 
 | 2022-10-30 | 2556 | 52 | 
-| 2022-10-29 | 2554 | 51 | 
 

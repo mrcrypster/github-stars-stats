@@ -1,6 +1,6 @@
 # maize-tech/laravel-markable - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 484 | 13 | 
 | 2022-11-27 | 484 | 13 | 
 | 2022-11-26 | 484 | 13 | 
 | 2022-11-25 | 483 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 475 | 13 | 
 | 2022-10-31 | 475 | 13 | 
 | 2022-10-30 | 475 | 13 | 
-| 2022-10-29 | 475 | 13 | 
 

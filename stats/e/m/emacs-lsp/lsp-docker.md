@@ -1,10 +1,10 @@
 # emacs-lsp/lsp-docker - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 28
 
-★ Stars: 196
+★ Stars: 197
 
 [Open repository](https://github.com/emacs-lsp/lsp-docker)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 197 | 28 | 
 | 2022-11-27 | 196 | 28 | 
 | 2022-11-26 | 196 | 28 | 
 | 2022-11-25 | 196 | 28 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 195 | 28 | 
 | 2022-10-31 | 195 | 28 | 
 | 2022-10-30 | 195 | 28 | 
-| 2022-10-29 | 195 | 28 | 
 

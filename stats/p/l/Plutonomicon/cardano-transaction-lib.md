@@ -1,6 +1,6 @@
 # Plutonomicon/cardano-transaction-lib - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 59 | 32 | 
 | 2022-11-27 | 59 | 32 | 
 | 2022-11-26 | 59 | 32 | 
 | 2022-11-25 | 59 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 59 | 31 | 
 | 2022-10-31 | 59 | 31 | 
 | 2022-10-30 | 59 | 31 | 
-| 2022-10-29 | 59 | 31 | 
 

@@ -1,6 +1,6 @@
 # TrimarcJake/Locksmith - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 132 | 11 | 
 | 2022-11-27 | 132 | 11 | 
 | 2022-11-26 | 131 | 11 | 
 | 2022-11-25 | 131 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 112 | 11 | 
 | 2022-10-31 | 104 | 11 | 
 | 2022-10-30 | 104 | 11 | 
-| 2022-10-29 | 91 | 10 | 
 

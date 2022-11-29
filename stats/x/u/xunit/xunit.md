@@ -1,10 +1,10 @@
 # xunit/xunit - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 729
 
-★ Stars: 3526
+★ Stars: 3529
 
 [Open repository](https://github.com/xunit/xunit)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 3529 | 729 | 
 | 2022-11-28 | 3526 | 729 | 
 | 2022-11-27 | 3524 | 729 | 
 | 2022-11-25 | 3524 | 728 | 

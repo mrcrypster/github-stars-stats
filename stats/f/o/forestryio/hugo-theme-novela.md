@@ -1,10 +1,10 @@
 # forestryio/hugo-theme-novela - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 195
+☋ Forks: 196
 
-★ Stars: 341
+★ Stars: 342
 
 [Open repository](https://github.com/forestryio/hugo-theme-novela)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 342 | 196 | 
 | 2022-11-27 | 341 | 195 | 
 | 2022-11-26 | 341 | 195 | 
 | 2022-11-25 | 341 | 195 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 342 | 196 | 
 | 2022-10-31 | 343 | 196 | 
 | 2022-10-30 | 344 | 196 | 
-| 2022-10-29 | 344 | 196 | 
 

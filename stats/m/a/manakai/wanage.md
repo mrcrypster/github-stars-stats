@@ -1,10 +1,10 @@
 # manakai/wanage - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 0
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/manakai/wanage)
 
@@ -13,7 +13,8 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-28 | 6 | - | 
+| 2022-11-29 | 7 | - | 
+| 2022-11-28 | 7 | - | 
 | 2022-11-27 | 6 | - | 
 | 2022-11-26 | 6 | - | 
 | 2022-11-25 | 6 | - | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-01 | 5 | - | 
 | 2022-10-31 | 5 | - | 
 | 2022-10-30 | 5 | - | 
-| 2022-10-29 | 5 | - | 
 

@@ -1,10 +1,10 @@
 # kanaka/mal - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 2202
 
-★ Stars: 9031
+★ Stars: 9034
 
 [Open repository](https://github.com/kanaka/mal)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 9034 | 2202 | 
 | 2022-11-27 | 9031 | 2202 | 
 | 2022-11-26 | 9030 | 2201 | 
 | 2022-11-25 | 9022 | 2199 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 8983 | 2181 | 
 | 2022-10-31 | 8966 | 2180 | 
 | 2022-10-30 | 8965 | 2179 | 
-| 2022-10-29 | 8962 | 2175 | 
 

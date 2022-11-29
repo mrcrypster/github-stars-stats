@@ -1,10 +1,10 @@
 # rustlang-cn/rusty-book - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 70
 
-★ Stars: 1044
+★ Stars: 1047
 
 [Open repository](https://github.com/rustlang-cn/rusty-book)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 1047 | 70 | 
 | 2022-11-27 | 1044 | 70 | 
 | 2022-11-26 | 1041 | 70 | 
 | 2022-11-25 | 1039 | 70 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 960 | 65 | 
 | 2022-10-31 | 952 | 65 | 
 | 2022-10-30 | 949 | 65 | 
-| 2022-10-29 | 949 | 65 | 
 

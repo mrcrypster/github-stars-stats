@@ -1,8 +1,8 @@
 # udacity/cloud-developer - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 3359
+☋ Forks: 3361
 
 ★ Stars: 347
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 347 | 3361 | 
 | 2022-11-27 | 347 | 3359 | 
 | 2022-11-26 | 347 | 3354 | 
 | 2022-11-25 | 346 | 3351 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 344 | 3285 | 
 | 2022-10-31 | 344 | 3283 | 
 | 2022-10-30 | 344 | 3281 | 
-| 2022-10-29 | 344 | 3279 | 
 

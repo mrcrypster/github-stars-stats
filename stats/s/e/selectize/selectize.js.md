@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 28
 
 ☋ Forks: 3703
 
-★ Stars: 12867
+★ Stars: 12868
 
 [Open repository](https://github.com/selectize/selectize.js)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-28 | 12867 | 3703 | 
+| 2022-11-28 | 12868 | 3703 | 
 | 2022-11-27 | 12867 | 3703 | 
 | 2022-11-26 | 12868 | 3703 | 
 | 2022-11-25 | 12868 | 3704 | 

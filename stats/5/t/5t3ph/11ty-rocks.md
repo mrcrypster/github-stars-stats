@@ -1,6 +1,6 @@
 # 5t3ph/11ty-rocks - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 20 | 5 | 
 | 2022-11-27 | 20 | 5 | 
 | 2022-11-26 | 20 | 5 | 
 | 2022-11-25 | 20 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 19 | 4 | 
 | 2022-10-31 | 19 | 4 | 
 | 2022-10-30 | 19 | 4 | 
-| 2022-10-29 | 19 | 4 | 
 

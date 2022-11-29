@@ -1,10 +1,10 @@
 # kiali/helm-charts - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 88
 
-★ Stars: 37
+★ Stars: 38
 
 [Open repository](https://github.com/kiali/helm-charts)
 
@@ -13,7 +13,8 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-28 | 37 | 88 | 
+| 2022-11-29 | 38 | 88 | 
+| 2022-11-28 | 38 | 88 | 
 | 2022-11-27 | 37 | 88 | 
 | 2022-11-26 | 37 | 87 | 
 | 2022-11-25 | 37 | 87 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-01 | 36 | 85 | 
 | 2022-10-31 | 36 | 85 | 
 | 2022-10-30 | 36 | 85 | 
-| 2022-10-29 | 36 | 85 | 
 

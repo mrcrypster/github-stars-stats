@@ -1,10 +1,10 @@
 # wzpan/cmake-demo - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 772
 
-★ Stars: 1575
+★ Stars: 1576
 
 [Open repository](https://github.com/wzpan/cmake-demo)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 1576 | 772 | 
 | 2022-11-27 | 1575 | 772 | 
 | 2022-11-26 | 1575 | 772 | 
 | 2022-11-25 | 1573 | 772 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 1558 | 766 | 
 | 2022-10-31 | 1557 | 766 | 
 | 2022-10-30 | 1554 | 765 | 
-| 2022-10-29 | 1552 | 765 | 
 

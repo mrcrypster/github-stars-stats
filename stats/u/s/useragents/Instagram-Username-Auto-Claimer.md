@@ -1,10 +1,10 @@
 # useragents/Instagram-Username-Auto-Claimer - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 19
 
-★ Stars: 259
+★ Stars: 258
 
 [Open repository](https://github.com/useragents/Instagram-Username-Auto-Claimer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 258 | 19 | 
 | 2022-11-27 | 259 | 19 | 
 | 2022-11-26 | 259 | 19 | 
 | 2022-11-25 | 259 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-02 | 256 | 18 | 
 | 2022-11-01 | 256 | 17 | 
 | 2022-10-31 | 256 | 17 | 
-| 2022-10-30 | 256 | 17 | 
 

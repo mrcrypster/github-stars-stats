@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 28
 
 ☋ Forks: 6
 
-★ Stars: 65
+★ Stars: 66
 
 [Open repository](https://github.com/yejianfengblue/dactyl-generator-demo)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-28 | 65 | 6 | 
+| 2022-11-28 | 66 | 6 | 
 | 2022-11-27 | 65 | 6 | 
 | 2022-11-26 | 65 | 6 | 
 | 2022-11-25 | 64 | 6 | 

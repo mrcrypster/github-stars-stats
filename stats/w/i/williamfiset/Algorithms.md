@@ -1,10 +1,10 @@
 # williamfiset/Algorithms - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 3779
 
-★ Stars: 13914
+★ Stars: 13920
 
 [Open repository](https://github.com/williamfiset/Algorithms)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 13920 | 3779 | 
 | 2022-11-27 | 13914 | 3779 | 
 | 2022-11-26 | 13907 | 3778 | 
 | 2022-11-25 | 13902 | 3779 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-02 | 13728 | 3747 | 
 | 2022-11-01 | 13720 | 3747 | 
 | 2022-10-31 | 13717 | 3747 | 
-| 2022-10-30 | 13713 | 3743 | 
 

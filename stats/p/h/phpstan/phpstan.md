@@ -1,6 +1,6 @@
 # phpstan/phpstan - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 818
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 11481 | 818 | 
 | 2022-11-27 | 11481 | 818 | 
 | 2022-11-26 | 11480 | 817 | 
 | 2022-11-25 | 11476 | 816 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 11416 | 814 | 
 | 2022-10-31 | 11415 | 814 | 
 | 2022-10-30 | 11411 | 814 | 
-| 2022-10-29 | 11406 | 814 | 
 

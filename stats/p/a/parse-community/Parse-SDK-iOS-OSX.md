@@ -1,8 +1,8 @@
 # parse-community/Parse-SDK-iOS-OSX - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 884
+☋ Forks: 885
 
 ★ Stars: 2786
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 2786 | 885 | 
 | 2022-11-27 | 2786 | 884 | 
 | 2022-11-26 | 2786 | 884 | 
 | 2022-11-25 | 2786 | 884 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 2784 | 882 | 
 | 2022-10-31 | 2784 | 882 | 
 | 2022-10-30 | 2784 | 882 | 
-| 2022-10-29 | 2784 | 882 | 
 

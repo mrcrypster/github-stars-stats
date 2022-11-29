@@ -1,6 +1,6 @@
 # acepleiades/XP32-Maximum-Skeleton-Special-Extended - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 4 | - | 
 | 2022-11-27 | 4 | - | 
 | 2022-11-26 | 4 | - | 
 | 2022-11-25 | 4 | - | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 1 | - | 
 | 2022-10-31 | 1 | - | 
 | 2022-10-30 | 1 | - | 
-| 2022-10-29 | 1 | - | 
 

@@ -1,10 +1,10 @@
 # jina-ai/dalle-flow - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 175
 
-★ Stars: 2503
+★ Stars: 2505
 
 [Open repository](https://github.com/jina-ai/dalle-flow)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 2505 | 175 | 
 | 2022-11-27 | 2503 | 175 | 
 | 2022-11-26 | 2501 | 172 | 
 | 2022-11-25 | 2498 | 171 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 2430 | 167 | 
 | 2022-10-31 | 2428 | 167 | 
 | 2022-10-30 | 2426 | 167 | 
-| 2022-10-29 | 2426 | 167 | 
 

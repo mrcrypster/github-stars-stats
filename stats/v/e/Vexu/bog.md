@@ -1,10 +1,10 @@
 # Vexu/bog - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 5
 
-★ Stars: 194
+★ Stars: 195
 
 [Open repository](https://github.com/Vexu/bog)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 195 | 5 | 
 | 2022-11-27 | 194 | 5 | 
 | 2022-11-26 | 194 | 5 | 
 | 2022-11-25 | 194 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 181 | 4 | 
 | 2022-10-31 | 181 | 4 | 
 | 2022-10-30 | 180 | 4 | 
-| 2022-10-29 | 180 | 4 | 
 

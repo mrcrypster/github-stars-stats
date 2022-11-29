@@ -1,10 +1,10 @@
 # janestreet/bonsai - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 29
 
-★ Stars: 241
+★ Stars: 243
 
 [Open repository](https://github.com/janestreet/bonsai)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 243 | 29 | 
 | 2022-11-27 | 241 | 29 | 
 | 2022-11-26 | 241 | 29 | 
 | 2022-11-25 | 241 | 29 | 

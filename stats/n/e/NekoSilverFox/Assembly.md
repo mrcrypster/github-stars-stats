@@ -1,10 +1,10 @@
 # NekoSilverFox/Assembly - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 34
 
-★ Stars: 128
+★ Stars: 130
 
 [Open repository](https://github.com/NekoSilverFox/Assembly)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 130 | 34 | 
 | 2022-11-28 | 128 | 34 | 
 | 2022-11-27 | 128 | 34 | 
 | 2022-11-26 | 128 | 34 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-01 | 122 | 34 | 
 | 2022-10-31 | 122 | 34 | 
 | 2022-10-30 | 122 | 34 | 
-| 2022-10-29 | 122 | 34 | 
 

@@ -1,6 +1,6 @@
 # FuPeiJiang/VD.ahk - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 107 | 16 | 
 | 2022-11-27 | 107 | 16 | 
 | 2022-11-26 | 105 | 16 | 
 | 2022-11-25 | 105 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 101 | 16 | 
 | 2022-10-31 | 101 | 16 | 
 | 2022-10-30 | 101 | 16 | 
-| 2022-10-29 | 101 | 16 | 
 

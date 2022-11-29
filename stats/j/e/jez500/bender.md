@@ -1,10 +1,10 @@
 # jez500/bender - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 0
 
-★ Stars: 67
+★ Stars: 66
 
 [Open repository](https://github.com/jez500/bender)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 66 | - | 
 | 2022-11-27 | 67 | - | 
 | 2022-11-26 | 66 | - | 
 | 2022-11-25 | 66 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 64 | - | 
 | 2022-10-31 | 64 | - | 
 | 2022-10-30 | 64 | - | 
-| 2022-10-29 | 64 | - | 
 

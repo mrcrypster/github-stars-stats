@@ -1,10 +1,10 @@
 # ddnexus/pagy - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 340
 
-★ Stars: 3861
+★ Stars: 3864
 
 [Open repository](https://github.com/ddnexus/pagy)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 3864 | 340 | 
 | 2022-11-27 | 3861 | 340 | 
 | 2022-11-26 | 3861 | 340 | 
 | 2022-11-25 | 3859 | 340 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 3829 | 333 | 
 | 2022-10-31 | 3829 | 333 | 
 | 2022-10-30 | 3828 | 333 | 
-| 2022-10-29 | 3828 | 334 | 
 

@@ -1,6 +1,6 @@
 # sherubthakur/dotfiles - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 108 | 8 | 
 | 2022-11-27 | 108 | 8 | 
 | 2022-11-26 | 108 | 8 | 
 | 2022-11-25 | 108 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 110 | 7 | 
 | 2022-10-31 | 110 | 7 | 
 | 2022-10-30 | 110 | 7 | 
-| 2022-10-29 | 110 | 7 | 
 

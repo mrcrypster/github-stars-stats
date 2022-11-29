@@ -1,6 +1,6 @@
 # terraform-aws-modules/terraform-aws-sqs - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 160
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 72 | 160 | 
 | 2022-11-27 | 72 | 160 | 
 | 2022-11-26 | 72 | 160 | 
 | 2022-11-25 | 72 | 160 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 65 | 153 | 
 | 2022-10-31 | 65 | 153 | 
 | 2022-10-30 | 65 | 153 | 
-| 2022-10-29 | 65 | 153 | 
 

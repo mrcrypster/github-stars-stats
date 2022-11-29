@@ -1,8 +1,8 @@
 # ViktoryiaYatskova/clean-code-s1e1 - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 3775
+☋ Forks: 3774
 
 ★ Stars: 26
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 26 | 3774 | 
 | 2022-11-27 | 26 | 3775 | 
 | 2022-11-26 | 26 | 3775 | 
 | 2022-11-25 | 26 | 3776 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 25 | 3801 | 
 | 2022-10-31 | 22 | 3797 | 
 | 2022-10-30 | 20 | 3668 | 
-| 2022-10-29 | 20 | 3536 | 
 

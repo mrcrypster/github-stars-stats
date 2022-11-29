@@ -1,6 +1,6 @@
 # fossasia/events.fossasia.org - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 1512 | 55 | 
 | 2022-11-27 | 1512 | 55 | 
 | 2022-11-26 | 1512 | 55 | 
 | 2022-11-25 | 1512 | 55 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 1516 | 55 | 
 | 2022-10-31 | 1516 | 55 | 
 | 2022-10-30 | 1516 | 55 | 
-| 2022-10-29 | 1516 | 55 | 
 

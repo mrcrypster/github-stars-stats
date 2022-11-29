@@ -1,6 +1,6 @@
 # npocmaka/batch.scripts - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 693
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 882 | 693 | 
 | 2022-11-27 | 882 | 693 | 
 | 2022-11-26 | 882 | 693 | 
 | 2022-11-25 | 882 | 694 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 875 | 682 | 
 | 2022-10-31 | 874 | 682 | 
 | 2022-10-30 | 874 | 682 | 
-| 2022-10-29 | 873 | 681 | 
 

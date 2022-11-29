@@ -1,10 +1,10 @@
 # Eugeny/tabby - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 2510
+☋ Forks: 2512
 
-★ Stars: 40927
+★ Stars: 40955
 
 [Open repository](https://github.com/Eugeny/tabby)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 40955 | 2512 | 
 | 2022-11-27 | 40927 | 2510 | 
 | 2022-11-26 | 40889 | 2503 | 
 | 2022-11-25 | 40869 | 2501 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 39786 | 2432 | 
 | 2022-10-31 | 39723 | 2426 | 
 | 2022-10-30 | 39659 | 2425 | 
-| 2022-10-29 | 39644 | 2424 | 
 

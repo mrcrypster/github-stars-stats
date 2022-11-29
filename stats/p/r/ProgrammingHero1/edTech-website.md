@@ -1,6 +1,6 @@
 # ProgrammingHero1/edTech-website - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 18 | 6 | 
 | 2022-11-28 | 18 | 6 | 
 | 2022-11-26 | 18 | 6 | 
 | 2022-11-25 | 18 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-01 | 18 | 6 | 
 | 2022-10-31 | 18 | 6 | 
 | 2022-10-30 | 18 | 6 | 
-| 2022-10-29 | 18 | 6 | 
 

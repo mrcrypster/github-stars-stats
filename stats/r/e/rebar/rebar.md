@@ -1,6 +1,6 @@
 # rebar/rebar - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 296
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 940 | 296 | 
 | 2022-11-28 | 940 | 296 | 
 | 2022-11-27 | 940 | 296 | 
 | 2022-11-26 | 940 | 296 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-01 | 939 | 297 | 
 | 2022-10-31 | 939 | 297 | 
 | 2022-10-30 | 939 | 297 | 
-| 2022-10-29 | 939 | 297 | 
 

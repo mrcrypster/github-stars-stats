@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 28
 
 ☋ Forks: 1
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/smallbraingames/words3-contracts)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-28 | 18 | 1 | 
+| 2022-11-28 | 19 | 1 | 
 | 2022-11-27 | 18 | 1 | 
 | 2022-11-26 | 18 | 1 | 
 

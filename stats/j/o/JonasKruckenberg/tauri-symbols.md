@@ -1,10 +1,10 @@
 # JonasKruckenberg/tauri-symbols - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 2
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/JonasKruckenberg/tauri-symbols)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 20 | 2 | 
 | 2022-11-27 | 19 | 2 | 
 | 2022-11-26 | 19 | 2 | 
 | 2022-11-25 | 19 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 17 | 2 | 
 | 2022-10-31 | 17 | 2 | 
 | 2022-10-30 | 17 | 2 | 
-| 2022-10-29 | 17 | 2 | 
 

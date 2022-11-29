@@ -1,6 +1,6 @@
 # zeldaret/oot - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 500
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 3911 | 500 | 
 | 2022-11-27 | 3911 | 500 | 
 | 2022-11-26 | 3910 | 500 | 
 | 2022-11-25 | 3907 | 499 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 3884 | 499 | 
 | 2022-10-31 | 3883 | 499 | 
 | 2022-10-30 | 3883 | 498 | 
-| 2022-10-29 | 3884 | 497 | 
 

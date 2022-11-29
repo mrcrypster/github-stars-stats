@@ -1,8 +1,8 @@
 # Toxblh/MTMR - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 206
+☋ Forks: 205
 
 ★ Stars: 3862
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 3862 | 205 | 
 | 2022-11-28 | 3862 | 206 | 
 | 2022-11-27 | 3862 | 206 | 
 | 2022-11-26 | 3861 | 207 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-01 | 3834 | 206 | 
 | 2022-10-31 | 3832 | 206 | 
 | 2022-10-30 | 3829 | 207 | 
-| 2022-10-29 | 3829 | 207 | 
 

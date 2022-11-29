@@ -1,6 +1,6 @@
 # redis/hiredis - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 1722
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 5510 | 1722 | 
 | 2022-11-27 | 5510 | 1722 | 
 | 2022-11-26 | 5509 | 1723 | 
 | 2022-11-25 | 5509 | 1723 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 5477 | 1719 | 
 | 2022-10-31 | 5476 | 1718 | 
 | 2022-10-30 | 5475 | 1716 | 
-| 2022-10-29 | 5474 | 1717 | 
 

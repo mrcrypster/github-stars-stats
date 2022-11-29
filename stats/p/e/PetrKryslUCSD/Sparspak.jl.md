@@ -1,10 +1,10 @@
 # PetrKryslUCSD/Sparspak.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 3
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/PetrKryslUCSD/Sparspak.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 30 | 3 | 
 | 2022-11-27 | 29 | 3 | 
 | 2022-11-26 | 29 | 3 | 
 | 2022-11-25 | 29 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 25 | 3 | 
 | 2022-10-31 | 25 | 3 | 
 | 2022-10-30 | 25 | 3 | 
-| 2022-10-29 | 25 | 3 | 
 

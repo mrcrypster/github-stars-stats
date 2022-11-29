@@ -1,6 +1,6 @@
 # DartVonRyuu/SuperiorSurvivors_Revisited - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 11 | 7 | 
 | 2022-11-27 | 11 | 7 | 
 | 2022-11-26 | 11 | 7 | 
 | 2022-11-25 | 11 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 11 | 7 | 
 | 2022-10-31 | 11 | 7 | 
 | 2022-10-30 | 11 | 7 | 
-| 2022-10-29 | 11 | 7 | 
 

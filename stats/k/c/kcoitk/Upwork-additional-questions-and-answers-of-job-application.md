@@ -1,6 +1,6 @@
 # kcoitk/Upwork-additional-questions-and-answers-of-job-application - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 95
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 112 | 95 | 
 | 2022-11-27 | 112 | 95 | 
 | 2022-11-26 | 112 | 95 | 
 | 2022-11-25 | 112 | 95 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 112 | 94 | 
 | 2022-10-31 | 112 | 94 | 
 | 2022-10-30 | 112 | 94 | 
-| 2022-10-29 | 112 | 94 | 
 

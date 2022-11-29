@@ -1,10 +1,10 @@
 # TalEliyahu/awesome-cybersecurity-conferences - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 23
 
-★ Stars: 194
+★ Stars: 195
 
 [Open repository](https://github.com/TalEliyahu/awesome-cybersecurity-conferences)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 195 | 23 | 
 | 2022-11-27 | 194 | 23 | 
 | 2022-11-26 | 191 | 23 | 
 | 2022-11-25 | 189 | 23 | 

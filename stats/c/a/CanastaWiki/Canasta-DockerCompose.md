@@ -1,6 +1,6 @@
 # CanastaWiki/Canasta-DockerCompose - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 9 | 8 | 
 | 2022-11-27 | 9 | 8 | 
 | 2022-11-26 | 9 | 8 | 
 | 2022-11-25 | 9 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 8 | 7 | 
 | 2022-10-31 | 8 | 7 | 
 | 2022-10-30 | 8 | 7 | 
-| 2022-10-29 | 8 | 7 | 
 

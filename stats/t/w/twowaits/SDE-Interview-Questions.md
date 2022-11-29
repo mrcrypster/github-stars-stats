@@ -1,10 +1,10 @@
 # twowaits/SDE-Interview-Questions - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 1928
 
-★ Stars: 6355
+★ Stars: 6357
 
 [Open repository](https://github.com/twowaits/SDE-Interview-Questions)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 6357 | 1928 | 
 | 2022-11-27 | 6355 | 1928 | 
 | 2022-11-26 | 6354 | 1927 | 
 | 2022-11-25 | 6352 | 1928 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 6309 | 1910 | 
 | 2022-10-31 | 6307 | 1910 | 
 | 2022-10-30 | 6306 | 1909 | 
-| 2022-10-29 | 6304 | 1908 | 
 

@@ -1,6 +1,6 @@
 # zendesk/chat_sdk_ios - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 15 | 12 | 
 | 2022-11-27 | 15 | 12 | 
 | 2022-11-26 | 15 | 12 | 
 | 2022-11-25 | 15 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-02 | 15 | 12 | 
 | 2022-11-01 | 15 | 12 | 
 | 2022-10-30 | 15 | 12 | 
-| 2022-10-29 | 15 | 12 | 
 

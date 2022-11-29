@@ -1,6 +1,6 @@
 # holbertonschool/Betty - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 1004
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 618 | 1004 | 
 | 2022-11-27 | 618 | 1004 | 
 | 2022-11-26 | 618 | 1004 | 
 | 2022-11-25 | 618 | 1003 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 613 | 994 | 
 | 2022-10-31 | 613 | 994 | 
 | 2022-10-30 | 613 | 994 | 
-| 2022-10-29 | 611 | 994 | 
 

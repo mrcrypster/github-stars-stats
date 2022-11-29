@@ -1,6 +1,6 @@
 # Baystation12/Baystation12 - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 1476
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 379 | 1476 | 
 | 2022-11-27 | 379 | 1476 | 
 | 2022-11-26 | 379 | 1476 | 
 | 2022-11-25 | 379 | 1477 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 379 | 1472 | 
 | 2022-10-31 | 378 | 1471 | 
 | 2022-10-30 | 378 | 1471 | 
-| 2022-10-29 | 378 | 1471 | 
 

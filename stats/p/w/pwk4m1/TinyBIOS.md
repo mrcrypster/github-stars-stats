@@ -1,10 +1,10 @@
 # pwk4m1/TinyBIOS - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 9
+☋ Forks: 10
 
-★ Stars: 281
+★ Stars: 283
 
 [Open repository](https://github.com/pwk4m1/TinyBIOS)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 283 | 10 | 
 | 2022-11-27 | 281 | 9 | 
 | 2022-11-26 | 279 | 9 | 
 | 2022-11-25 | 278 | 9 | 

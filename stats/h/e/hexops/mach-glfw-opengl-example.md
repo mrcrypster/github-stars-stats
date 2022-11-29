@@ -1,10 +1,10 @@
 # hexops/mach-glfw-opengl-example - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 0
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/hexops/mach-glfw-opengl-example)
 
@@ -13,5 +13,6 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 11 | - | 
 | 2022-11-27 | 10 | - | 
 

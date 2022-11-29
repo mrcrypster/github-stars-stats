@@ -1,10 +1,10 @@
 # alphagov/govuk-content-schemas - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 11
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/alphagov/govuk-content-schemas)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 25 | 11 | 
 | 2022-11-27 | 24 | 11 | 
 | 2022-11-26 | 24 | 11 | 
 | 2022-11-25 | 24 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 24 | 11 | 
 | 2022-10-31 | 24 | 11 | 
 | 2022-10-30 | 24 | 11 | 
-| 2022-10-29 | 24 | 11 | 
 

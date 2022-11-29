@@ -1,8 +1,8 @@
 # Azure-Samples/msdocs-flask-postgresql-sample-app - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 80
+☋ Forks: 81
 
 ★ Stars: 12
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 12 | 81 | 
 | 2022-11-27 | 12 | 80 | 
 | 2022-11-26 | 12 | 78 | 
 | 2022-11-25 | 12 | 78 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 9 | 48 | 
 | 2022-10-31 | 9 | 47 | 
 | 2022-10-30 | 9 | 45 | 
-| 2022-10-29 | 8 | 45 | 
 

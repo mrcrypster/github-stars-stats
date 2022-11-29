@@ -1,10 +1,10 @@
 # simbleau/nbody-wasm-sim - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 8
 
-★ Stars: 90
+★ Stars: 91
 
 [Open repository](https://github.com/simbleau/nbody-wasm-sim)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 91 | 8 | 
 | 2022-11-27 | 90 | 8 | 
 | 2022-11-26 | 90 | 8 | 
 | 2022-11-25 | 90 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-02 | 83 | 8 | 
 | 2022-11-01 | 83 | 8 | 
 | 2022-10-30 | 83 | 8 | 
-| 2022-10-29 | 83 | 8 | 
 

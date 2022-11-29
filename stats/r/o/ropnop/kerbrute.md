@@ -1,8 +1,8 @@
 # ropnop/kerbrute - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 309
+☋ Forks: 310
 
 ★ Stars: 1730
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 1730 | 310 | 
 | 2022-11-27 | 1730 | 309 | 
 | 2022-11-26 | 1727 | 308 | 
 | 2022-11-25 | 1724 | 308 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 1686 | 302 | 
 | 2022-10-31 | 1684 | 302 | 
 | 2022-10-30 | 1683 | 302 | 
-| 2022-10-29 | 1682 | 302 | 
 

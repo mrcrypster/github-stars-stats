@@ -1,6 +1,6 @@
 # bazelbuild/rules_jsonnet - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 70
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 55 | 70 | 
 | 2022-11-27 | 55 | 70 | 
 | 2022-11-26 | 55 | 70 | 
 | 2022-11-25 | 56 | 70 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 55 | 70 | 
 | 2022-10-31 | 55 | 70 | 
 | 2022-10-30 | 55 | 70 | 
-| 2022-10-29 | 55 | 70 | 
 

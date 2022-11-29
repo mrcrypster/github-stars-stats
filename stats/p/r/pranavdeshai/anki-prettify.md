@@ -1,6 +1,6 @@
 # pranavdeshai/anki-prettify - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 96 | 5 | 
 | 2022-11-27 | 96 | 5 | 
 | 2022-11-26 | 96 | 5 | 
 | 2022-11-25 | 94 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 93 | 5 | 
 | 2022-10-31 | 92 | 5 | 
 | 2022-10-30 | 92 | 5 | 
-| 2022-10-29 | 91 | 5 | 
 

@@ -1,10 +1,10 @@
 # dellhpc/omnia - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 81
 
-★ Stars: 146
+★ Stars: 148
 
 [Open repository](https://github.com/dellhpc/omnia)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 148 | 81 | 
 | 2022-11-27 | 146 | 81 | 
 | 2022-11-26 | 146 | 81 | 
 | 2022-11-25 | 146 | 81 | 

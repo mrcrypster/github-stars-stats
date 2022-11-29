@@ -1,10 +1,10 @@
 # smortexa/laravel-arkitect - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 0
 
-★ Stars: 53
+★ Stars: 54
 
 [Open repository](https://github.com/smortexa/laravel-arkitect)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 54 | - | 
 | 2022-11-27 | 53 | - | 
 | 2022-11-26 | 53 | - | 
 | 2022-11-25 | 53 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-02 | 52 | - | 
 | 2022-11-01 | 52 | - | 
 | 2022-10-31 | 52 | - | 
-| 2022-10-30 | 52 | - | 
 

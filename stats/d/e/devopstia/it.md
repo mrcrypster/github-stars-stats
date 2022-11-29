@@ -1,6 +1,6 @@
 # devopstia/it - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | - | 23 | 
 | 2022-11-27 | - | 23 | 
 | 2022-11-26 | - | 22 | 
 | 2022-11-25 | - | 22 | 

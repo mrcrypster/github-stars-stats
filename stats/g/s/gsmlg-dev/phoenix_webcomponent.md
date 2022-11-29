@@ -1,6 +1,6 @@
 # gsmlg-dev/phoenix_webcomponent - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 79 | - | 
 | 2022-11-27 | 79 | - | 
 | 2022-11-26 | 79 | - | 
 | 2022-11-25 | 79 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 77 | - | 
 | 2022-10-31 | 77 | - | 
 | 2022-10-30 | 77 | - | 
-| 2022-10-29 | 77 | - | 
 

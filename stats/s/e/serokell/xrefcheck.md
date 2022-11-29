@@ -1,6 +1,6 @@
 # serokell/xrefcheck - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 30 | - | 
 | 2022-11-27 | 30 | - | 
 | 2022-11-26 | 30 | - | 
 | 2022-11-25 | 30 | - | 

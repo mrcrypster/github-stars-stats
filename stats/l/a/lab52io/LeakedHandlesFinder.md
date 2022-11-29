@@ -1,6 +1,6 @@
 # lab52io/LeakedHandlesFinder - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 210 | 37 | 
 | 2022-11-27 | 210 | 37 | 
 | 2022-11-26 | 209 | 37 | 
 | 2022-11-25 | 209 | 37 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 206 | 35 | 
 | 2022-10-31 | 206 | 35 | 
 | 2022-10-30 | 205 | 35 | 
-| 2022-10-29 | 205 | 35 | 
 

@@ -1,10 +1,10 @@
 # keluokeda/hs_tracker - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 26
+☋ Forks: 27
 
-★ Stars: 105
+★ Stars: 109
 
 [Open repository](https://github.com/keluokeda/hs_tracker)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 109 | 27 | 
 | 2022-11-27 | 105 | 26 | 
 | 2022-11-26 | 105 | 23 | 
 | 2022-11-25 | 105 | 20 | 

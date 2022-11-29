@@ -1,10 +1,10 @@
 # alex000kim/nsfw_data_scraper - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 2883
 
-★ Stars: 11783
+★ Stars: 11786
 
 [Open repository](https://github.com/alex000kim/nsfw_data_scraper)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 11786 | 2883 | 
 | 2022-11-27 | 11783 | 2883 | 
 | 2022-11-26 | 11781 | 2881 | 
 | 2022-11-25 | 11780 | 2881 | 

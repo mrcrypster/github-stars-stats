@@ -1,10 +1,10 @@
 # NetSPI/PowerHuntShares - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 28
 
-★ Stars: 181
+★ Stars: 182
 
 [Open repository](https://github.com/NetSPI/PowerHuntShares)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 182 | 28 | 
 | 2022-11-27 | 181 | 28 | 
 | 2022-11-26 | 180 | 28 | 
 | 2022-11-25 | 180 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 152 | 25 | 
 | 2022-10-31 | 152 | 25 | 
 | 2022-10-30 | 151 | 25 | 
-| 2022-10-29 | 150 | 25 | 
 

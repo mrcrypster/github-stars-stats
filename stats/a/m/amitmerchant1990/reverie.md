@@ -1,10 +1,10 @@
 # amitmerchant1990/reverie - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 525
+☋ Forks: 526
 
-★ Stars: 652
+★ Stars: 653
 
 [Open repository](https://github.com/amitmerchant1990/reverie)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 653 | 526 | 
 | 2022-11-27 | 652 | 525 | 
 | 2022-11-26 | 652 | 526 | 
 | 2022-11-25 | 651 | 526 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 639 | 515 | 
 | 2022-10-31 | 638 | 515 | 
 | 2022-10-30 | 638 | 515 | 
-| 2022-10-29 | 638 | 514 | 
 

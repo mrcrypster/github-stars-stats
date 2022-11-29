@@ -1,10 +1,10 @@
 # Everblush/everblush.vim - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 20
 
-★ Stars: 280
+★ Stars: 281
 
 [Open repository](https://github.com/Everblush/everblush.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 281 | 20 | 
 | 2022-11-27 | 280 | 20 | 
 | 2022-11-26 | 280 | 20 | 
 | 2022-11-25 | 280 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 282 | 20 | 
 | 2022-10-31 | 282 | 20 | 
 | 2022-10-30 | 282 | 20 | 
-| 2022-10-29 | 282 | 20 | 
 

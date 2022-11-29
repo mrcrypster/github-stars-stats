@@ -1,6 +1,6 @@
 # DapperDino/Unity-Multiplayer-Tutorials - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 80 | 48 | 
 | 2022-11-28 | 80 | 48 | 
 | 2022-11-27 | 81 | 47 | 
 | 2022-11-25 | 80 | 47 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-01 | 80 | 42 | 
 | 2022-10-31 | 80 | 42 | 
 | 2022-10-30 | 80 | 42 | 
-| 2022-10-29 | 80 | 41 | 
 

@@ -1,10 +1,10 @@
 # MathewSachin/Captura - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 1524
 
-★ Stars: 7851
+★ Stars: 7859
 
 [Open repository](https://github.com/MathewSachin/Captura)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 7859 | 1524 | 
 | 2022-11-28 | 7851 | 1524 | 
 | 2022-11-27 | 7849 | 1526 | 
 | 2022-11-25 | 7844 | 1526 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-01 | 7752 | 1511 | 
 | 2022-10-31 | 7749 | 1509 | 
 | 2022-10-30 | 7745 | 1509 | 
-| 2022-10-29 | 7738 | 1508 | 
 

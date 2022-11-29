@@ -1,6 +1,6 @@
 # ezgiturali/Machine-Learning-Deep-Learning-Resources - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 332 | 20 | 
 | 2022-11-27 | 332 | 20 | 
 | 2022-11-26 | 331 | 20 | 
 | 2022-11-25 | 332 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-02 | 324 | 20 | 
 | 2022-11-01 | 323 | 19 | 
 | 2022-10-31 | 320 | 19 | 
-| 2022-10-30 | 319 | 19 | 
 

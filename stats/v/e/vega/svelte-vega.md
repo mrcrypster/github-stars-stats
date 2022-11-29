@@ -1,6 +1,6 @@
 # vega/svelte-vega - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 49 | 2 | 
 | 2022-11-28 | 49 | 2 | 
 | 2022-11-27 | 49 | 2 | 
 | 2022-11-25 | 49 | 2 | 

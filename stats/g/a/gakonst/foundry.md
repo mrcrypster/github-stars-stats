@@ -1,10 +1,10 @@
 # gakonst/foundry - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 651
 
-★ Stars: 4782
+★ Stars: 4790
 
 [Open repository](https://github.com/gakonst/foundry)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 4790 | 651 | 
 | 2022-11-27 | 4782 | 651 | 
 | 2022-11-26 | 4775 | 647 | 
 | 2022-11-25 | 4770 | 647 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 4581 | 614 | 
 | 2022-10-31 | 4565 | 612 | 
 | 2022-10-30 | 4553 | 612 | 
-| 2022-10-29 | 4550 | 612 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 28
 
-☋ Forks: 24155
+☋ Forks: 24162
 
-★ Stars: 6857
+★ Stars: 6859
 
 [Open repository](https://github.com/academicpages/academicpages.github.io)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-28 | 6857 | 24155 | 
+| 2022-11-28 | 6859 | 24162 | 
 | 2022-11-27 | 6856 | 24154 | 
 | 2022-11-26 | 6851 | 24130 | 
 | 2022-11-25 | 6843 | 24115 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 6699 | 23563 | 
 | 2022-11-01 | 6694 | 23544 | 
 | 2022-10-31 | 6687 | 23508 | 
-| 2022-10-30 | 6681 | 23488 | 
 

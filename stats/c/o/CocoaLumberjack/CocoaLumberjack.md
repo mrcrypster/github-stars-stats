@@ -1,10 +1,10 @@
 # CocoaLumberjack/CocoaLumberjack - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 2240
 
-★ Stars: 12839
+★ Stars: 12840
 
 [Open repository](https://github.com/CocoaLumberjack/CocoaLumberjack)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 12840 | 2240 | 
 | 2022-11-27 | 12839 | 2240 | 
 | 2022-11-26 | 12839 | 2239 | 
 | 2022-11-25 | 12839 | 2238 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 12812 | 2231 | 
 | 2022-10-31 | 12810 | 2231 | 
 | 2022-10-30 | 12810 | 2230 | 
-| 2022-10-29 | 12808 | 2230 | 
 

@@ -1,6 +1,6 @@
 # Gethe/wow-ui-source - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 88
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 412 | 88 | 
 | 2022-11-27 | 412 | 88 | 
 | 2022-11-26 | 411 | 88 | 
 | 2022-11-25 | 410 | 88 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 392 | 84 | 
 | 2022-10-31 | 391 | 83 | 
 | 2022-10-30 | 389 | 83 | 
-| 2022-10-29 | 387 | 83 | 
 

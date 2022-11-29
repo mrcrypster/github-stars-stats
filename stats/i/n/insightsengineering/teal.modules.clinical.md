@@ -1,6 +1,6 @@
 # insightsengineering/teal.modules.clinical - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 14 | 3 | 
 | 2022-11-27 | 14 | 3 | 
 | 2022-11-26 | 14 | 3 | 
 | 2022-11-25 | 14 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 10 | 3 | 
 | 2022-10-31 | 10 | 3 | 
 | 2022-10-30 | 10 | 3 | 
-| 2022-10-29 | 10 | 3 | 
 

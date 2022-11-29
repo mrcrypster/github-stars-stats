@@ -1,6 +1,6 @@
 # scriban/scriban - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 297
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 2197 | 297 | 
 | 2022-11-27 | 2197 | 297 | 
 | 2022-11-26 | 2197 | 297 | 
 | 2022-11-25 | 2196 | 297 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 2175 | 295 | 
 | 2022-10-31 | 2174 | 295 | 
 | 2022-10-30 | 2173 | 293 | 
-| 2022-10-29 | 2173 | 294 | 
 

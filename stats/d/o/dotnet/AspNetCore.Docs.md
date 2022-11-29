@@ -1,10 +1,10 @@
 # dotnet/AspNetCore.Docs - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 25027
+☋ Forks: 25030
 
-★ Stars: 11137
+★ Stars: 11140
 
 [Open repository](https://github.com/dotnet/AspNetCore.Docs)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 11140 | 25030 | 
 | 2022-11-27 | 11137 | 25027 | 
 | 2022-11-26 | 11137 | 25027 | 
 | 2022-11-25 | 11135 | 25026 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 11044 | 24908 | 
 | 2022-10-31 | 11036 | 24904 | 
 | 2022-10-30 | 11036 | 24899 | 
-| 2022-10-29 | 11033 | 24901 | 
 

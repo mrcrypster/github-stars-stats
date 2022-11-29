@@ -1,8 +1,8 @@
 # adrianhajdin/project_professional_portfolio - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 368
+☋ Forks: 367
 
 ★ Stars: 1409
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 1409 | 367 | 
 | 2022-11-27 | 1409 | 368 | 
 | 2022-11-26 | 1407 | 366 | 
 | 2022-11-25 | 1406 | 362 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 1344 | 339 | 
 | 2022-10-31 | 1339 | 339 | 
 | 2022-10-30 | 1333 | 339 | 
-| 2022-10-29 | 1330 | 339 | 
 

@@ -1,10 +1,10 @@
 # code-423n4/2022-09-artgobblers - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 9
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/code-423n4/2022-09-artgobblers)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 20 | 9 | 
 | 2022-11-27 | 19 | 9 | 
 | 2022-11-26 | 19 | 9 | 
 | 2022-11-25 | 19 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 19 | 9 | 
 | 2022-10-31 | 18 | 9 | 
 | 2022-10-30 | 18 | 8 | 
-| 2022-10-29 | 17 | 8 | 
 

@@ -1,6 +1,6 @@
 # dennyzhang/cheatsheet-docker-A4 - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 91 | 59 | 
 | 2022-11-27 | 91 | 59 | 
 | 2022-11-26 | 91 | 59 | 
 | 2022-11-25 | 91 | 59 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 88 | 60 | 
 | 2022-10-31 | 88 | 59 | 
 | 2022-10-30 | 88 | 59 | 
-| 2022-10-29 | 88 | 59 | 
 

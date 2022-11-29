@@ -1,10 +1,10 @@
 # Nyr/wireguard-install - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 559
+☋ Forks: 562
 
-★ Stars: 2430
+★ Stars: 2435
 
 [Open repository](https://github.com/Nyr/wireguard-install)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 2435 | 562 | 
 | 2022-11-27 | 2430 | 559 | 
 | 2022-11-26 | 2428 | 558 | 
 | 2022-11-25 | 2427 | 558 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 2359 | 533 | 
 | 2022-10-31 | 2358 | 532 | 
 | 2022-10-30 | 2356 | 530 | 
-| 2022-10-29 | 2353 | 530 | 
 

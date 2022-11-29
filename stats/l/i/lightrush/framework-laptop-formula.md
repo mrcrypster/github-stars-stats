@@ -1,6 +1,6 @@
 # lightrush/framework-laptop-formula - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 80 | 6 | 
 | 2022-11-27 | 80 | 6 | 
 | 2022-11-26 | 80 | 6 | 
 | 2022-11-25 | 80 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 80 | 6 | 
 | 2022-10-31 | 80 | 6 | 
 | 2022-10-30 | 80 | 6 | 
-| 2022-10-29 | 80 | 6 | 
 

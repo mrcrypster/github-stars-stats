@@ -1,10 +1,10 @@
 # ambrosia13/ForgetMeNot-Shaders - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 4
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/ambrosia13/ForgetMeNot-Shaders)
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 20 | 4 | 
+| 2022-11-28 | 20 | 4 | 
 | 2022-11-27 | 19 | 4 | 
 | 2022-11-26 | 19 | 4 | 
 | 2022-11-25 | 19 | 4 | 

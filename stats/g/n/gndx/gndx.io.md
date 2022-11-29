@@ -1,6 +1,6 @@
 # gndx/gndx.io - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 60 | 38 | 
 | 2022-11-27 | 60 | 38 | 
 | 2022-11-26 | 60 | 37 | 
 | 2022-11-25 | 60 | 36 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 59 | 28 | 
 | 2022-10-31 | 59 | 28 | 
 | 2022-10-30 | 59 | 28 | 
-| 2022-10-29 | 59 | 28 | 
 

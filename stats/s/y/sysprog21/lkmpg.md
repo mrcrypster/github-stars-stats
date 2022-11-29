@@ -1,10 +1,10 @@
 # sysprog21/lkmpg - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 300
 
-★ Stars: 5156
+★ Stars: 5158
 
 [Open repository](https://github.com/sysprog21/lkmpg)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 5158 | 300 | 
 | 2022-11-27 | 5156 | 300 | 
 | 2022-11-26 | 5155 | 300 | 
 | 2022-11-25 | 5153 | 300 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 4951 | 292 | 
 | 2022-10-31 | 4949 | 292 | 
 | 2022-10-30 | 4950 | 292 | 
-| 2022-10-29 | 4950 | 292 | 
 

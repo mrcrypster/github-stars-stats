@@ -1,6 +1,6 @@
 # utkarsh006/Eazy-Android - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 22 | 13 | 
 | 2022-11-27 | 22 | 13 | 
 | 2022-11-26 | 21 | 13 | 
 | 2022-11-25 | 21 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 19 | 13 | 
 | 2022-10-31 | 19 | 13 | 
 | 2022-10-30 | 19 | 13 | 
-| 2022-10-29 | 20 | 13 | 
 

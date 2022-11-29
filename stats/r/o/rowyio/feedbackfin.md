@@ -1,10 +1,10 @@
 # rowyio/feedbackfin - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 15
 
-★ Stars: 212
+★ Stars: 213
 
 [Open repository](https://github.com/rowyio/feedbackfin)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 213 | 15 | 
 | 2022-11-27 | 212 | 15 | 
 | 2022-11-26 | 212 | 15 | 
 | 2022-11-25 | 211 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 206 | 15 | 
 | 2022-10-31 | 206 | 15 | 
 | 2022-10-30 | 206 | 15 | 
-| 2022-10-29 | 206 | 15 | 
 

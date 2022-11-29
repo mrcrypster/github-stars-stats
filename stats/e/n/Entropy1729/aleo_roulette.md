@@ -1,10 +1,10 @@
 # Entropy1729/aleo_roulette - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 2
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/Entropy1729/aleo_roulette)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 5 | 2 | 
 | 2022-11-27 | 4 | 2 | 
 | 2022-11-26 | 4 | 2 | 
 | 2022-11-25 | 4 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-02 | 4 | 2 | 
 | 2022-11-01 | 4 | 2 | 
 | 2022-10-31 | 4 | 2 | 
-| 2022-10-30 | 4 | 2 | 
 

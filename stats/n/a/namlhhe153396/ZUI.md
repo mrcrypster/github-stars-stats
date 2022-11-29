@@ -1,8 +1,8 @@
 # namlhhe153396/ZUI - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 16
+☋ Forks: 17
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 3 | 17 | 
 | 2022-11-27 | 3 | 16 | 
 | 2022-11-26 | 3 | 16 | 
 | 2022-11-25 | 3 | 16 | 

@@ -1,10 +1,10 @@
 # tc39/proposal-pipeline-operator - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 108
 
-★ Stars: 6510
+★ Stars: 6511
 
 [Open repository](https://github.com/tc39/proposal-pipeline-operator)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 6511 | 108 | 
 | 2022-11-27 | 6510 | 108 | 
 | 2022-11-26 | 6510 | 108 | 
 | 2022-11-25 | 6510 | 108 | 
@@ -40,5 +41,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-02 | 6464 | 104 | 
 | 2022-11-01 | 6463 | 104 | 
 | 2022-10-31 | 6462 | 104 | 
-| 2022-10-30 | 6459 | 104 | 
 

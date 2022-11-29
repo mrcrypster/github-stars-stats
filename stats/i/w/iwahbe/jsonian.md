@@ -1,10 +1,10 @@
 # iwahbe/jsonian - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 6
 
-★ Stars: 69
+★ Stars: 70
 
 [Open repository](https://github.com/iwahbe/jsonian)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 70 | 6 | 
 | 2022-11-27 | 69 | 6 | 
 | 2022-11-26 | 58 | 6 | 
 | 2022-11-25 | 57 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 56 | 6 | 
 | 2022-10-31 | 56 | 6 | 
 | 2022-10-30 | 56 | 6 | 
-| 2022-10-29 | 56 | 6 | 
 

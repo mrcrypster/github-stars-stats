@@ -1,6 +1,6 @@
 # CMSgov/bcda-app - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 32 | 16 | 
 | 2022-11-27 | 32 | 16 | 
 | 2022-11-26 | 32 | 16 | 
 | 2022-11-25 | 32 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-02 | 30 | 16 | 
 | 2022-11-01 | 30 | 16 | 
 | 2022-10-30 | 30 | 16 | 
-| 2022-10-29 | 30 | 16 | 
 

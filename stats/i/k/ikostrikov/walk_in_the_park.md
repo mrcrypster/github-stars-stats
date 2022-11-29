@@ -1,6 +1,6 @@
 # ikostrikov/walk_in_the_park - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 157 | 22 | 
 | 2022-11-27 | 157 | 22 | 
 | 2022-11-26 | 157 | 22 | 
 | 2022-11-25 | 158 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 154 | 21 | 
 | 2022-10-31 | 153 | 21 | 
 | 2022-10-30 | 153 | 21 | 
-| 2022-10-29 | 152 | 21 | 
 

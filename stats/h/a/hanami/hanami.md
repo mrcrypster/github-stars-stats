@@ -1,10 +1,10 @@
 # hanami/hanami - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 522
+☋ Forks: 523
 
-★ Stars: 5928
+★ Stars: 5935
 
 [Open repository](https://github.com/hanami/hanami)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 5935 | 523 | 
 | 2022-11-27 | 5928 | 522 | 
 | 2022-11-26 | 5924 | 523 | 
 | 2022-11-25 | 5922 | 523 | 

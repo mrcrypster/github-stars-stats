@@ -1,8 +1,8 @@
 # Azure/osdu-bicep - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 4
+☋ Forks: 5
 
 ★ Stars: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 4 | 5 | 
 | 2022-11-27 | 4 | 4 | 
 | 2022-11-26 | 3 | 4 | 
 | 2022-11-25 | 3 | 4 | 

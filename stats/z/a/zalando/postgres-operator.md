@@ -1,6 +1,6 @@
 # zalando/postgres-operator - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 791
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 2943 | 791 | 
 | 2022-11-27 | 2943 | 791 | 
 | 2022-11-26 | 2940 | 790 | 
 | 2022-11-25 | 2938 | 790 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 2871 | 771 | 
 | 2022-10-31 | 2868 | 769 | 
 | 2022-10-30 | 2867 | 769 | 
-| 2022-10-29 | 2863 | 770 | 
 

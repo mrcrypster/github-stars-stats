@@ -1,6 +1,6 @@
 # hrkrshnn/seaport-utils - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 19 | - | 
 | 2022-11-27 | 19 | - | 
 | 2022-11-26 | 19 | - | 
 | 2022-11-25 | 19 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 20 | - | 
 | 2022-10-31 | 20 | - | 
 | 2022-10-30 | 20 | - | 
-| 2022-10-29 | 20 | - | 
 

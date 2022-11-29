@@ -1,10 +1,10 @@
 # bnb-chain/BEPs - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 313
 
-★ Stars: 465
+★ Stars: 467
 
 [Open repository](https://github.com/bnb-chain/BEPs)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 467 | 313 | 
 | 2022-11-27 | 465 | 313 | 
 | 2022-11-26 | 465 | 313 | 
 | 2022-11-25 | 465 | 313 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 447 | 302 | 
 | 2022-10-31 | 447 | 302 | 
 | 2022-10-30 | 447 | 302 | 
-| 2022-10-29 | 446 | 302 | 
 

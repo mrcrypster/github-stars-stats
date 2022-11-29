@@ -1,10 +1,10 @@
 # mbbill/undotree - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 77
 
-★ Stars: 2292
+★ Stars: 2293
 
 [Open repository](https://github.com/mbbill/undotree)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 2293 | 77 | 
 | 2022-11-27 | 2292 | 77 | 
 | 2022-11-26 | 2290 | 77 | 
 | 2022-11-25 | 2289 | 77 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 2236 | 77 | 
 | 2022-10-31 | 2236 | 77 | 
 | 2022-10-30 | 2235 | 76 | 
-| 2022-10-29 | 2235 | 76 | 
 

@@ -1,10 +1,10 @@
 # elm-land/elm-land - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 7
 
-★ Stars: 146
+★ Stars: 147
 
 [Open repository](https://github.com/elm-land/elm-land)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 147 | 7 | 
 | 2022-11-27 | 146 | 7 | 
 | 2022-11-26 | 145 | 7 | 
 | 2022-11-25 | 145 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 135 | 7 | 
 | 2022-10-31 | 135 | 7 | 
 | 2022-10-30 | 135 | 7 | 
-| 2022-10-29 | 135 | 7 | 
 

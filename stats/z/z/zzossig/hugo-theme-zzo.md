@@ -1,10 +1,10 @@
 # zzossig/hugo-theme-zzo - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 245
 
-★ Stars: 653
+★ Stars: 654
 
 [Open repository](https://github.com/zzossig/hugo-theme-zzo)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 654 | 245 | 
 | 2022-11-27 | 653 | 245 | 
 | 2022-11-26 | 653 | 244 | 
 | 2022-11-25 | 653 | 244 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 653 | 244 | 
 | 2022-10-31 | 653 | 243 | 
 | 2022-10-30 | 651 | 241 | 
-| 2022-10-29 | 650 | 241 | 
 

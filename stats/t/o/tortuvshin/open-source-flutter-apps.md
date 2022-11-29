@@ -1,10 +1,10 @@
 # tortuvshin/open-source-flutter-apps - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 544
+☋ Forks: 545
 
-★ Stars: 2595
+★ Stars: 2597
 
 [Open repository](https://github.com/tortuvshin/open-source-flutter-apps)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 2597 | 545 | 
 | 2022-11-27 | 2595 | 544 | 
 | 2022-11-26 | 2593 | 544 | 
 | 2022-11-25 | 2593 | 544 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 2569 | 536 | 
 | 2022-10-31 | 2570 | 536 | 
 | 2022-10-30 | 2570 | 536 | 
-| 2022-10-29 | 2569 | 536 | 
 

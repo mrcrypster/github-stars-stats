@@ -1,10 +1,10 @@
 # tonyaldon/jack - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 0
+☋ Forks: 1
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/tonyaldon/jack)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 14 | 1 | 
 | 2022-11-27 | 13 | - | 
 | 2022-11-26 | 13 | - | 
 | 2022-11-25 | 12 | - | 

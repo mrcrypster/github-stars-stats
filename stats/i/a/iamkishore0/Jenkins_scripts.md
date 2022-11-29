@@ -1,8 +1,8 @@
 # iamkishore0/Jenkins_scripts - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 14
+☋ Forks: 15
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 1 | 15 | 
 | 2022-11-27 | 1 | 14 | 
 | 2022-11-26 | 1 | 14 | 
 | 2022-11-25 | 1 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 1 | 9 | 
 | 2022-10-31 | 1 | 9 | 
 | 2022-10-30 | 1 | 9 | 
-| 2022-10-29 | 1 | 9 | 
 

@@ -1,6 +1,6 @@
 # SteamDatabase/GameTracking-Dota2 - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 175
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 548 | 175 | 
 | 2022-11-27 | 548 | 175 | 
 | 2022-11-26 | 548 | 175 | 
 | 2022-11-25 | 548 | 175 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 540 | 175 | 
 | 2022-10-31 | 537 | 175 | 
 | 2022-10-30 | 537 | 175 | 
-| 2022-10-29 | 537 | 175 | 
 

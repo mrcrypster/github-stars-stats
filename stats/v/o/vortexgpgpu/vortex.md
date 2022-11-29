@@ -1,10 +1,10 @@
 # vortexgpgpu/vortex - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 136
 
-★ Stars: 690
+★ Stars: 691
 
 [Open repository](https://github.com/vortexgpgpu/vortex)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 691 | 136 | 
 | 2022-11-27 | 690 | 136 | 
 | 2022-11-26 | 690 | 136 | 
 | 2022-11-25 | 690 | 136 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 681 | 129 | 
 | 2022-10-31 | 680 | 129 | 
 | 2022-10-30 | 681 | 129 | 
-| 2022-10-29 | 681 | 129 | 
 

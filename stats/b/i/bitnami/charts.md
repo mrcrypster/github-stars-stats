@@ -1,10 +1,10 @@
 # bitnami/charts - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 7194
+☋ Forks: 7196
 
-★ Stars: 6313
+★ Stars: 6322
 
 [Open repository](https://github.com/bitnami/charts)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 6322 | 7196 | 
 | 2022-11-27 | 6313 | 7194 | 
 | 2022-11-26 | 6308 | 7195 | 
 | 2022-11-25 | 6304 | 7193 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 6199 | 7038 | 
 | 2022-10-31 | 6192 | 7034 | 
 | 2022-10-30 | 6187 | 7032 | 
-| 2022-10-29 | 6186 | 7033 | 
 

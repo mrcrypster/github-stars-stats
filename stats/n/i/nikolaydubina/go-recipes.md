@@ -1,10 +1,10 @@
 # nikolaydubina/go-recipes - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 78
 
-★ Stars: 2261
+★ Stars: 2264
 
 [Open repository](https://github.com/nikolaydubina/go-recipes)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 2264 | 78 | 
 | 2022-11-27 | 2261 | 78 | 
 | 2022-11-26 | 2261 | 78 | 
 | 2022-11-25 | 2259 | 78 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 2142 | 76 | 
 | 2022-10-31 | 2141 | 75 | 
 | 2022-10-30 | 2136 | 75 | 
-| 2022-10-29 | 2132 | 75 | 
 

@@ -1,10 +1,10 @@
 # leon-kfd/Dashboard - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 58
+☋ Forks: 62
 
-★ Stars: 453
+★ Stars: 493
 
 [Open repository](https://github.com/leon-kfd/Dashboard)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 493 | 62 | 
 | 2022-11-27 | 453 | 58 | 
 | 2022-11-26 | 452 | 58 | 
 | 2022-11-25 | 452 | 58 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 441 | 56 | 
 | 2022-10-31 | 440 | 55 | 
 | 2022-10-30 | 437 | 54 | 
-| 2022-10-29 | 437 | 54 | 
 

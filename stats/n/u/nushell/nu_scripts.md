@@ -1,8 +1,8 @@
 # nushell/nu_scripts - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 83
+☋ Forks: 84
 
 ★ Stars: 213
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 213 | 84 | 
 | 2022-11-27 | 213 | 83 | 
 | 2022-11-26 | 213 | 83 | 
 | 2022-11-25 | 212 | 83 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 190 | 79 | 
 | 2022-10-31 | 189 | 79 | 
 | 2022-10-30 | 188 | 79 | 
-| 2022-10-29 | 188 | 79 | 
 

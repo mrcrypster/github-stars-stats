@@ -1,6 +1,6 @@
 # digitalblossom/alternative-frontends - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 1113 | 17 | 
 | 2022-11-27 | 1113 | 17 | 
 | 2022-11-26 | 1109 | 17 | 
 | 2022-11-25 | 1109 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 1068 | 17 | 
 | 2022-10-31 | 1062 | 17 | 
 | 2022-10-30 | 1060 | 17 | 
-| 2022-10-29 | 1056 | 17 | 
 

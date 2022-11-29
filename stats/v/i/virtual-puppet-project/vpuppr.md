@@ -1,6 +1,6 @@
 # virtual-puppet-project/vpuppr - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 369 | 30 | 
 | 2022-11-27 | 369 | 30 | 
 | 2022-11-26 | 369 | 30 | 
 | 2022-11-25 | 369 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-02 | 360 | 30 | 
 | 2022-10-31 | 360 | 30 | 
 | 2022-10-30 | 359 | 30 | 
-| 2022-10-29 | 358 | 30 | 
 

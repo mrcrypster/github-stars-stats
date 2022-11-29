@@ -1,8 +1,8 @@
 # node-red/node-red - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 2935
+☋ Forks: 2936
 
 ★ Stars: 15644
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 15644 | 2936 | 
 | 2022-11-27 | 15644 | 2935 | 
 | 2022-11-26 | 15642 | 2936 | 
 | 2022-11-25 | 15638 | 2936 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 15489 | 2913 | 
 | 2022-10-31 | 15480 | 2913 | 
 | 2022-10-30 | 15478 | 2913 | 
-| 2022-10-29 | 15477 | 2913 | 
 

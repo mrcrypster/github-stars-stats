@@ -1,8 +1,8 @@
 # haskell/bytestring - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 29
 
-☋ Forks: 126
+☋ Forks: 127
 
 ★ Stars: 250
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 250 | 127 | 
 | 2022-11-27 | 250 | 126 | 
 | 2022-11-26 | 250 | 126 | 
 | 2022-11-25 | 250 | 126 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 249 | 126 | 
 | 2022-10-31 | 249 | 126 | 
 | 2022-10-30 | 248 | 126 | 
-| 2022-10-29 | 248 | 126 | 
 

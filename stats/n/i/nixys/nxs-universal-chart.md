@@ -1,6 +1,6 @@
 # nixys/nxs-universal-chart - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 106 | 23 | 
 | 2022-11-28 | 106 | 23 | 
 | 2022-11-26 | 106 | 23 | 
 | 2022-11-25 | 106 | 23 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-01 | 104 | 19 | 
 | 2022-10-31 | 104 | 19 | 
 | 2022-10-30 | 104 | 19 | 
-| 2022-10-29 | 103 | 19 | 
 

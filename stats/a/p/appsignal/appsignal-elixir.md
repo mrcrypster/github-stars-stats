@@ -1,6 +1,6 @@
 # appsignal/appsignal-elixir - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 240 | 75 | 
 | 2022-11-27 | 240 | 75 | 
 | 2022-11-26 | 240 | 75 | 
 | 2022-11-25 | 240 | 75 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-02 | 239 | 74 | 
 | 2022-11-01 | 239 | 74 | 
 | 2022-10-31 | 239 | 74 | 
-| 2022-10-30 | 239 | 74 | 
 

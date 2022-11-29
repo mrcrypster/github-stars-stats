@@ -1,10 +1,10 @@
 # amazon-research/alexa-teacher-models - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 13
 
-★ Stars: 280
+★ Stars: 282
 
 [Open repository](https://github.com/amazon-research/alexa-teacher-models)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 282 | 13 | 
 | 2022-11-27 | 280 | 13 | 
 | 2022-11-26 | 279 | 13 | 
 | 2022-11-25 | 279 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 271 | 12 | 
 | 2022-10-31 | 271 | 12 | 
 | 2022-10-30 | 271 | 12 | 
-| 2022-10-29 | 271 | 12 | 
 

@@ -1,10 +1,10 @@
 # Logitech/slimserver - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 249
 
-★ Stars: 810
+★ Stars: 811
 
 [Open repository](https://github.com/Logitech/slimserver)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 811 | 249 | 
 | 2022-11-27 | 810 | 249 | 
 | 2022-11-26 | 810 | 249 | 
 | 2022-11-25 | 810 | 249 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 800 | 248 | 
 | 2022-10-31 | 799 | 248 | 
 | 2022-10-30 | 798 | 248 | 
-| 2022-10-29 | 797 | 248 | 
 

@@ -1,6 +1,6 @@
 # rspec/rspec-rails - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 985
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 4890 | 985 | 
 | 2022-11-27 | 4890 | 985 | 
 | 2022-11-26 | 4889 | 985 | 
 | 2022-11-25 | 4888 | 986 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 4878 | 985 | 
 | 2022-10-31 | 4878 | 985 | 
 | 2022-10-30 | 4878 | 985 | 
-| 2022-10-29 | 4878 | 985 | 
 

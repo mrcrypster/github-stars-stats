@@ -1,10 +1,10 @@
 # mwotton/squealgen - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 3
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/mwotton/squealgen)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 24 | 3 | 
 | 2022-11-27 | 23 | 3 | 
 | 2022-11-26 | 23 | 3 | 
 | 2022-11-25 | 23 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 23 | 3 | 
 | 2022-10-31 | 23 | 3 | 
 | 2022-10-30 | 23 | 3 | 
-| 2022-10-29 | 23 | 3 | 
 

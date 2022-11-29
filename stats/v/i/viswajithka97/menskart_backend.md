@@ -1,6 +1,6 @@
 # viswajithka97/menskart_backend - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 15 | - | 
 | 2022-11-27 | 15 | - | 
 | 2022-11-26 | 15 | - | 
 | 2022-11-25 | 15 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 16 | - | 
 | 2022-10-31 | 16 | - | 
 | 2022-10-30 | 16 | - | 
-| 2022-10-29 | 16 | - | 
 

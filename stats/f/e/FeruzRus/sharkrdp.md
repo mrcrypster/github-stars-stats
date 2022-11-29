@@ -1,8 +1,8 @@
 # FeruzRus/sharkrdp - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 533
+☋ Forks: 542
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 3 | 542 | 
 | 2022-11-28 | 3 | 533 | 
 | 2022-11-27 | 3 | 530 | 
 | 2022-11-26 | 3 | 526 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-01 | 3 | 374 | 
 | 2022-10-31 | 2 | 364 | 
 | 2022-10-30 | 2 | 350 | 
-| 2022-10-29 | 2 | 348 | 
 

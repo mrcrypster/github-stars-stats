@@ -1,10 +1,10 @@
 # XaFF-XaFF/Cronos-Rootkit - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 143
 
-★ Stars: 609
+★ Stars: 610
 
 [Open repository](https://github.com/XaFF-XaFF/Cronos-Rootkit)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 610 | 143 | 
 | 2022-11-27 | 609 | 143 | 
 | 2022-11-26 | 609 | 143 | 
 | 2022-11-25 | 609 | 143 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 602 | 140 | 
 | 2022-10-31 | 602 | 140 | 
 | 2022-10-30 | 602 | 139 | 
-| 2022-10-29 | 601 | 139 | 
 

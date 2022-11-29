@@ -1,6 +1,6 @@
 # PuruVJ/svelte-confetti-explosion - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 56 | 4 | 
 | 2022-11-27 | 56 | 4 | 
 | 2022-11-26 | 56 | 4 | 
 | 2022-11-25 | 56 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 55 | 4 | 
 | 2022-10-31 | 54 | 4 | 
 | 2022-10-30 | 54 | 4 | 
-| 2022-10-29 | 54 | 4 | 
 

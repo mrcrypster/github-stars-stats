@@ -1,6 +1,6 @@
 # macherel/Barcode-Wallet - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 34 | 7 | 
 | 2022-11-27 | 34 | 7 | 
 | 2022-11-26 | 34 | 7 | 
 | 2022-11-25 | 34 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 34 | 7 | 
 | 2022-10-31 | 34 | 7 | 
 | 2022-10-30 | 34 | 7 | 
-| 2022-10-29 | 34 | 7 | 
 

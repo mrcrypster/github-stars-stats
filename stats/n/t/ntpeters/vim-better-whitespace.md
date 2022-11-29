@@ -1,6 +1,6 @@
 # ntpeters/vim-better-whitespace - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 80
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 1254 | 80 | 
 | 2022-11-27 | 1254 | 80 | 
 | 2022-11-26 | 1254 | 80 | 
 | 2022-11-25 | 1254 | 80 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 1249 | 80 | 
 | 2022-10-31 | 1250 | 80 | 
 | 2022-10-30 | 1250 | 80 | 
-| 2022-10-29 | 1250 | 80 | 
 

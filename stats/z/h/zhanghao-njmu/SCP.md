@@ -1,6 +1,6 @@
 # zhanghao-njmu/SCP - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 35 | 4 | 
 | 2022-11-27 | 35 | 4 | 
 | 2022-11-26 | 35 | 4 | 
 | 2022-11-25 | 35 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 26 | 4 | 
 | 2022-10-31 | 26 | 4 | 
 | 2022-10-30 | 26 | 4 | 
-| 2022-10-29 | 26 | 4 | 
 

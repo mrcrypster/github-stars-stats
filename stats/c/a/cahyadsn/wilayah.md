@@ -1,10 +1,10 @@
 # cahyadsn/wilayah - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 233
+☋ Forks: 234
 
-★ Stars: 520
+★ Stars: 521
 
 [Open repository](https://github.com/cahyadsn/wilayah)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 521 | 234 | 
 | 2022-11-27 | 520 | 233 | 
 | 2022-11-26 | 520 | 234 | 
 | 2022-11-25 | 520 | 234 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 510 | 229 | 
 | 2022-10-31 | 510 | 229 | 
 | 2022-10-30 | 509 | 229 | 
-| 2022-10-29 | 509 | 228 | 
 

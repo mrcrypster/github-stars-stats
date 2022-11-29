@@ -1,10 +1,10 @@
 # JoePenna/Dreambooth-Stable-Diffusion - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 379
+☋ Forks: 382
 
-★ Stars: 2180
+★ Stars: 2188
 
 [Open repository](https://github.com/JoePenna/Dreambooth-Stable-Diffusion)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 2188 | 382 | 
 | 2022-11-27 | 2180 | 379 | 
 | 2022-11-26 | 2175 | 377 | 
 | 2022-11-25 | 2173 | 376 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 1909 | 272 | 
 | 2022-10-31 | 1877 | 268 | 
 | 2022-10-30 | 1848 | 264 | 
-| 2022-10-29 | 1832 | 264 | 
 

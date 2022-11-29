@@ -1,10 +1,10 @@
 # vangberg/foreign-dispatch - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 29
 
-☋ Forks: 1
+☋ Forks: 2
 
-★ Stars: 46
+★ Stars: 47
 
 [Open repository](https://github.com/vangberg/foreign-dispatch)
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 47 | 2 | 
+| 2022-11-28 | 47 | 2 | 
 | 2022-11-27 | 46 | 1 | 
 | 2022-11-26 | 46 | 1 | 
 | 2022-11-25 | 46 | 1 | 

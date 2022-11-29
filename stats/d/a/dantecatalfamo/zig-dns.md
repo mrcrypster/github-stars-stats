@@ -1,10 +1,10 @@
 # dantecatalfamo/zig-dns - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 0
 
-★ Stars: 46
+★ Stars: 47
 
 [Open repository](https://github.com/dantecatalfamo/zig-dns)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 47 | - | 
 | 2022-11-27 | 46 | - | 
 | 2022-11-26 | 46 | - | 
 | 2022-11-25 | 46 | - | 

@@ -1,6 +1,6 @@
 # fsharp-mobile/Fabulous.Maui - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 1
 
@@ -13,5 +13,6 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 6 | 1 | 
 | 2022-11-27 | 6 | 1 | 
 

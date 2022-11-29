@@ -1,10 +1,10 @@
 # archinetai/surgeon-pytorch - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 10
 
-★ Stars: 373
+★ Stars: 374
 
 [Open repository](https://github.com/archinetai/surgeon-pytorch)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 374 | 10 | 
 | 2022-11-27 | 373 | 10 | 
 | 2022-11-26 | 373 | 10 | 
 | 2022-11-25 | 373 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 368 | 10 | 
 | 2022-10-31 | 367 | 10 | 
 | 2022-10-30 | 366 | 10 | 
-| 2022-10-29 | 366 | 10 | 
 

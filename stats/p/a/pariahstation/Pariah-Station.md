@@ -1,6 +1,6 @@
 # pariahstation/Pariah-Station - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 3 | 34 | 
 | 2022-11-27 | 3 | 34 | 
 | 2022-11-26 | 3 | 34 | 
 | 2022-11-25 | 3 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-02 | 3 | 35 | 
 | 2022-11-01 | 3 | 35 | 
 | 2022-10-31 | 3 | 35 | 
-| 2022-10-30 | 3 | 35 | 
 

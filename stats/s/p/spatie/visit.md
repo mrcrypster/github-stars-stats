@@ -1,6 +1,6 @@
 # spatie/visit - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 370 | 10 | 
 | 2022-11-28 | 370 | 10 | 
 | 2022-11-27 | 370 | 10 | 
 | 2022-11-26 | 370 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-01 | 365 | 10 | 
 | 2022-10-31 | 365 | 10 | 
 | 2022-10-30 | 364 | 10 | 
-| 2022-10-29 | 364 | 10 | 
 

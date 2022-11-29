@@ -1,10 +1,10 @@
 # johannesjo/super-productivity - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 552
+☋ Forks: 553
 
-★ Stars: 5930
+★ Stars: 5933
 
 [Open repository](https://github.com/johannesjo/super-productivity)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 5933 | 553 | 
 | 2022-11-27 | 5930 | 552 | 
 | 2022-11-26 | 5927 | 550 | 
 | 2022-11-25 | 5921 | 549 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 5823 | 542 | 
 | 2022-10-31 | 5819 | 541 | 
 | 2022-10-30 | 5815 | 539 | 
-| 2022-10-29 | 5810 | 538 | 
 

@@ -1,10 +1,10 @@
 # abuanwar072/Welcome-Login-Signup-Page-Flutter - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 741
+☋ Forks: 742
 
-★ Stars: 987
+★ Stars: 988
 
 [Open repository](https://github.com/abuanwar072/Welcome-Login-Signup-Page-Flutter)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 988 | 742 | 
 | 2022-11-27 | 987 | 741 | 
 | 2022-11-26 | 986 | 741 | 
 | 2022-11-25 | 984 | 738 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 973 | 732 | 
 | 2022-10-31 | 971 | 732 | 
 | 2022-10-30 | 971 | 732 | 
-| 2022-10-29 | 969 | 731 | 
 

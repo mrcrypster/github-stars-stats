@@ -1,10 +1,10 @@
 # BanchouBoo/accord - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 0
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/BanchouBoo/accord)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 26 | - | 
 | 2022-11-27 | 25 | - | 
 | 2022-11-26 | 25 | - | 
 | 2022-11-25 | 25 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 25 | - | 
 | 2022-10-31 | 25 | - | 
 | 2022-10-30 | 25 | - | 
-| 2022-10-29 | 25 | - | 
 

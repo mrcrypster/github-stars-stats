@@ -1,8 +1,8 @@
 # nymanjens/quizmaster - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 29
 
-☋ Forks: 17
+☋ Forks: 18
 
 ★ Stars: 135
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 135 | 18 | 
 | 2022-11-27 | 135 | 17 | 
 | 2022-11-26 | 135 | 17 | 
 | 2022-11-25 | 135 | 17 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 129 | 17 | 
 | 2022-10-31 | 128 | 17 | 
 | 2022-10-30 | 128 | 17 | 
-| 2022-10-29 | 127 | 17 | 
 

@@ -1,10 +1,10 @@
 # huxuxuya/KafkaConfluentRESTProxyAdapter1C - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 8
 
-★ Stars: 26
+★ Stars: 25
 
 [Open repository](https://github.com/huxuxuya/KafkaConfluentRESTProxyAdapter1C)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 25 | 8 | 
 | 2022-11-27 | 26 | 8 | 
 | 2022-11-26 | 26 | 8 | 
 | 2022-11-25 | 26 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 25 | 7 | 
 | 2022-10-31 | 25 | 7 | 
 | 2022-10-30 | 25 | 7 | 
-| 2022-10-29 | 25 | 7 | 
 

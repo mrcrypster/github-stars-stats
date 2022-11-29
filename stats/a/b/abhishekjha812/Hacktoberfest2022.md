@@ -1,8 +1,8 @@
 # abhishekjha812/Hacktoberfest2022 - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 207
+☋ Forks: 206
 
 ★ Stars: 28
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 28 | 206 | 
 | 2022-11-27 | 28 | 207 | 
 | 2022-11-26 | 28 | 208 | 
 | 2022-11-25 | 28 | 208 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 29 | 218 | 
 | 2022-10-31 | 29 | 215 | 
 | 2022-10-30 | 28 | 211 | 
-| 2022-10-29 | 27 | 203 | 
 

@@ -1,10 +1,10 @@
 # developer-job-simulation/vanilla-login-form - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 183
+☋ Forks: 189
 
-★ Stars: 144
+★ Stars: 145
 
 [Open repository](https://github.com/developer-job-simulation/vanilla-login-form)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 145 | 189 | 
 | 2022-11-27 | 144 | 183 | 
 | 2022-11-26 | 142 | 182 | 
 | 2022-11-25 | 141 | 181 | 

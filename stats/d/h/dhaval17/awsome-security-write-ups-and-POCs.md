@@ -1,6 +1,6 @@
 # dhaval17/awsome-security-write-ups-and-POCs - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 111
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 441 | 111 | 
 | 2022-11-27 | 441 | 111 | 
 | 2022-11-26 | 441 | 111 | 
 | 2022-11-25 | 440 | 111 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 436 | 111 | 
 | 2022-10-31 | 436 | 111 | 
 | 2022-10-30 | 436 | 111 | 
-| 2022-10-29 | 434 | 111 | 
 

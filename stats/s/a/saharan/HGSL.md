@@ -1,10 +1,10 @@
 # saharan/HGSL - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 2
 
-★ Stars: 96
+★ Stars: 97
 
 [Open repository](https://github.com/saharan/HGSL)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 97 | 2 | 
 | 2022-11-27 | 96 | 2 | 
 | 2022-11-26 | 96 | 2 | 
 | 2022-11-25 | 96 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 91 | 2 | 
 | 2022-10-31 | 91 | 2 | 
 | 2022-10-30 | 90 | 2 | 
-| 2022-10-29 | 90 | 2 | 
 

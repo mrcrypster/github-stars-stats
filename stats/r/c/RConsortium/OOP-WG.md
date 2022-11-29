@@ -1,6 +1,6 @@
 # RConsortium/OOP-WG - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 184 | 23 | 
 | 2022-11-27 | 184 | 23 | 
 | 2022-11-26 | 184 | 23 | 
 | 2022-11-25 | 184 | 23 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 175 | 21 | 
 | 2022-10-31 | 175 | 21 | 
 | 2022-10-30 | 175 | 21 | 
-| 2022-10-29 | 175 | 21 | 
 

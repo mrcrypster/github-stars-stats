@@ -1,10 +1,10 @@
 # rougier/nano-emacs - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 154
+☋ Forks: 155
 
-★ Stars: 1899
+★ Stars: 1902
 
 [Open repository](https://github.com/rougier/nano-emacs)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 1902 | 155 | 
 | 2022-11-27 | 1899 | 154 | 
 | 2022-11-26 | 1899 | 154 | 
 | 2022-11-25 | 1900 | 154 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 1867 | 150 | 
 | 2022-10-31 | 1844 | 147 | 
 | 2022-10-30 | 1834 | 147 | 
-| 2022-10-29 | 1834 | 147 | 
 

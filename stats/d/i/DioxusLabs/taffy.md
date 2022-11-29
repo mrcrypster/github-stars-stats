@@ -1,10 +1,10 @@
 # DioxusLabs/taffy - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 35
 
-★ Stars: 608
+★ Stars: 611
 
 [Open repository](https://github.com/DioxusLabs/taffy)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 611 | 35 | 
 | 2022-11-27 | 608 | 35 | 
 | 2022-11-26 | 595 | 35 | 
 | 2022-11-25 | 568 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 496 | 30 | 
 | 2022-10-31 | 496 | 30 | 
 | 2022-10-30 | 496 | 30 | 
-| 2022-10-29 | 496 | 30 | 
 

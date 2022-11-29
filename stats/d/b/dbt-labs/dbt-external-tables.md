@@ -1,6 +1,6 @@
 # dbt-labs/dbt-external-tables - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 72
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 170 | 72 | 
 | 2022-11-27 | 170 | 72 | 
 | 2022-11-26 | 170 | 72 | 
 | 2022-11-25 | 170 | 72 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 164 | 70 | 
 | 2022-10-31 | 164 | 70 | 
 | 2022-10-30 | 164 | 70 | 
-| 2022-10-29 | 164 | 70 | 
 

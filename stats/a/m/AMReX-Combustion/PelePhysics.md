@@ -1,10 +1,10 @@
 # AMReX-Combustion/PelePhysics - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 28
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/AMReX-Combustion/PelePhysics)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 37 | 28 | 
 | 2022-11-27 | 36 | 28 | 
 | 2022-11-26 | 36 | 28 | 
 | 2022-11-25 | 35 | 28 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 34 | 28 | 
 | 2022-10-31 | 34 | 28 | 
 | 2022-10-30 | 34 | 28 | 
-| 2022-10-29 | 34 | 28 | 
 

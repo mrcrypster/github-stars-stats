@@ -1,6 +1,6 @@
 # elastic/apm-pipeline-library - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 47 | 39 | 
 | 2022-11-27 | 47 | 39 | 
 | 2022-11-26 | 47 | 39 | 
 | 2022-11-25 | 47 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 45 | 39 | 
 | 2022-10-31 | 45 | 39 | 
 | 2022-10-30 | 45 | 39 | 
-| 2022-10-29 | 45 | 39 | 
 

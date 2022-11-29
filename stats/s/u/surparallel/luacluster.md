@@ -1,6 +1,6 @@
 # surparallel/luacluster - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 207 | 48 | 
 | 2022-11-27 | 207 | 48 | 
 | 2022-11-26 | 205 | 48 | 
 | 2022-11-25 | 205 | 48 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 188 | 45 | 
 | 2022-10-31 | 188 | 44 | 
 | 2022-10-30 | 188 | 44 | 
-| 2022-10-29 | 187 | 44 | 
 

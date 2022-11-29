@@ -1,8 +1,8 @@
 # Gurobi/modeling-examples - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 153
+☋ Forks: 154
 
 ★ Stars: 261
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 261 | 154 | 
 | 2022-11-27 | 261 | 153 | 
 | 2022-11-26 | 261 | 152 | 
 | 2022-11-25 | 259 | 150 | 

@@ -1,10 +1,10 @@
 # BritCardSoc/QR-lifetime-2011-native - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 1
 
-★ Stars: 3
+★ Stars: 2
 
 [Open repository](https://github.com/BritCardSoc/QR-lifetime-2011-native)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 2 | 1 | 
 | 2022-11-27 | 3 | 1 | 
 | 2022-11-26 | 3 | 1 | 
 | 2022-11-25 | 3 | 1 | 

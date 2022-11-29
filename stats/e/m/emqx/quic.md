@@ -1,6 +1,6 @@
 # emqx/quic - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 131 | 25 | 
 | 2022-11-27 | 131 | 25 | 
 | 2022-11-26 | 131 | 25 | 
 | 2022-11-25 | 130 | 25 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 126 | 22 | 
 | 2022-10-31 | 125 | 22 | 
 | 2022-10-30 | 124 | 22 | 
-| 2022-10-29 | 123 | 22 | 
 

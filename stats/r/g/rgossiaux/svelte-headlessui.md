@@ -1,10 +1,10 @@
 # rgossiaux/svelte-headlessui - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 58
 
-★ Stars: 1125
+★ Stars: 1126
 
 [Open repository](https://github.com/rgossiaux/svelte-headlessui)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 1126 | 58 | 
 | 2022-11-27 | 1125 | 58 | 
 | 2022-11-26 | 1123 | 58 | 
 | 2022-11-25 | 1123 | 58 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 1081 | 55 | 
 | 2022-10-31 | 1078 | 55 | 
 | 2022-10-30 | 1072 | 55 | 
-| 2022-10-29 | 1070 | 55 | 
 

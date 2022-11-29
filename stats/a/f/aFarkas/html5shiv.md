@@ -1,10 +1,10 @@
 # aFarkas/html5shiv - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 2706
 
-★ Stars: 9878
+★ Stars: 9877
 
 [Open repository](https://github.com/aFarkas/html5shiv)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 9877 | 2706 | 
 | 2022-11-27 | 9878 | 2706 | 
 | 2022-11-26 | 9878 | 2706 | 
 | 2022-11-25 | 9879 | 2706 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 9878 | 2708 | 
 | 2022-10-31 | 9877 | 2709 | 
 | 2022-10-30 | 9877 | 2709 | 
-| 2022-10-29 | 9877 | 2710 | 
 

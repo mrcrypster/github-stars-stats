@@ -1,10 +1,10 @@
 # hadolint/hadolint - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 345
 
-★ Stars: 7830
+★ Stars: 7831
 
 [Open repository](https://github.com/hadolint/hadolint)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 7831 | 345 | 
 | 2022-11-27 | 7830 | 345 | 
 | 2022-11-26 | 7829 | 345 | 
 | 2022-11-25 | 7821 | 345 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 7710 | 335 | 
 | 2022-10-31 | 7697 | 335 | 
 | 2022-10-30 | 7681 | 334 | 
-| 2022-10-29 | 7677 | 334 | 
 

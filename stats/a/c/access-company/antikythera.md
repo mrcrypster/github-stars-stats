@@ -1,6 +1,6 @@
 # access-company/antikythera - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 163 | 16 | 
 | 2022-11-27 | 163 | 16 | 
 | 2022-11-26 | 163 | 16 | 
 | 2022-11-25 | 162 | 16 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 161 | 16 | 
 | 2022-10-31 | 161 | 16 | 
 | 2022-10-30 | 161 | 16 | 
-| 2022-10-29 | 161 | 16 | 
 

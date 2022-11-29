@@ -1,10 +1,10 @@
 # 71/stadiacontroller - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 17
 
-★ Stars: 142
+★ Stars: 143
 
 [Open repository](https://github.com/71/stadiacontroller)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 143 | 17 | 
 | 2022-11-27 | 142 | 17 | 
 | 2022-11-26 | 142 | 17 | 
 | 2022-11-25 | 142 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 136 | 15 | 
 | 2022-10-31 | 136 | 15 | 
 | 2022-10-30 | 136 | 15 | 
-| 2022-10-29 | 135 | 15 | 
 

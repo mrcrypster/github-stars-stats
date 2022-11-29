@@ -1,10 +1,10 @@
 # j3ssie/osmedeus - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 793
 
-★ Stars: 4184
+★ Stars: 4187
 
 [Open repository](https://github.com/j3ssie/osmedeus)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 4187 | 793 | 
 | 2022-11-27 | 4184 | 793 | 
 | 2022-11-26 | 4183 | 793 | 
 | 2022-11-25 | 4182 | 793 | 

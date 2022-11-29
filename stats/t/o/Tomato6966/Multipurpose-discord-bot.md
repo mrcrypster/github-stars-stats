@@ -1,8 +1,8 @@
 # Tomato6966/Multipurpose-discord-bot - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 554
+☋ Forks: 555
 
 ★ Stars: 464
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 464 | 555 | 
 | 2022-11-27 | 464 | 554 | 
 | 2022-11-26 | 464 | 554 | 
 | 2022-11-25 | 464 | 555 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 455 | 544 | 
 | 2022-10-31 | 454 | 545 | 
 | 2022-10-30 | 451 | 545 | 
-| 2022-10-29 | 450 | 545 | 
 

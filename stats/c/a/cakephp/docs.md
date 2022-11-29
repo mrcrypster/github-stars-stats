@@ -1,6 +1,6 @@
 # cakephp/docs - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 2592
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 669 | 2592 | 
 | 2022-11-27 | 669 | 2592 | 
 | 2022-11-26 | 669 | 2592 | 
 | 2022-11-25 | 669 | 2592 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 668 | 2595 | 
 | 2022-10-31 | 668 | 2595 | 
 | 2022-10-30 | 668 | 2595 | 
-| 2022-10-29 | 668 | 2595 | 
 

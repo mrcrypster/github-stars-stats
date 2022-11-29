@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 28
 
 ☋ Forks: 73
 
-★ Stars: 802
+★ Stars: 803
 
 [Open repository](https://github.com/ruby/debug)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-28 | 802 | 73 | 
+| 2022-11-28 | 803 | 73 | 
 | 2022-11-27 | 802 | 73 | 
 | 2022-11-26 | 800 | 73 | 
 | 2022-11-25 | 799 | 73 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-01 | 779 | 70 | 
 | 2022-10-31 | 779 | 70 | 
 | 2022-10-30 | 778 | 70 | 
-| 2022-10-29 | 777 | 70 | 
 

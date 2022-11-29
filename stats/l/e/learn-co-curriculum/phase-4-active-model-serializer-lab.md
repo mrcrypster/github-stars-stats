@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 28
 
-☋ Forks: 1425
+☋ Forks: 1498
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/learn-co-curriculum/phase-4-active-model-serializer-lab)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-28 | - | 1425 | 
+| 2022-11-28 | 1 | 1498 | 
 | 2022-11-27 | - | 1421 | 
 

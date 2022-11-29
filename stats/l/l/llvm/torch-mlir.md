@@ -1,6 +1,6 @@
 # llvm/torch-mlir - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 158
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 603 | 158 | 
 | 2022-11-27 | 603 | 158 | 
 | 2022-11-26 | 603 | 158 | 
 | 2022-11-25 | 603 | 158 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 587 | 151 | 
 | 2022-10-31 | 586 | 151 | 
 | 2022-10-30 | 584 | 151 | 
-| 2022-10-29 | 584 | 151 | 
 

@@ -1,6 +1,6 @@
 # walidshaari/Kubernetes-Certified-Administrator - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 1513
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 3955 | 1513 | 
 | 2022-11-27 | 3955 | 1513 | 
 | 2022-11-26 | 3954 | 1513 | 
 | 2022-11-25 | 3954 | 1512 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 3941 | 1501 | 
 | 2022-10-31 | 3940 | 1500 | 
 | 2022-10-30 | 3939 | 1501 | 
-| 2022-10-29 | 3939 | 1501 | 
 

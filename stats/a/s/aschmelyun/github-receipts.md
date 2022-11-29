@@ -1,6 +1,6 @@
 # aschmelyun/github-receipts - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 173 | 10 | 
 | 2022-11-27 | 173 | 10 | 
 | 2022-11-26 | 173 | 10 | 
 | 2022-11-25 | 173 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 173 | 10 | 
 | 2022-10-31 | 173 | 10 | 
 | 2022-10-30 | 172 | 10 | 
-| 2022-10-29 | 172 | 10 | 
 

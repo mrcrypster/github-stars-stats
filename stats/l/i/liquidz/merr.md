@@ -1,6 +1,6 @@
 # liquidz/merr - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 47 | 1 | 
 | 2022-11-28 | 47 | 1 | 
 | 2022-11-26 | 47 | 1 | 
 | 2022-11-25 | 47 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-01 | 45 | 1 | 
 | 2022-10-31 | 45 | 1 | 
 | 2022-10-30 | 45 | 1 | 
-| 2022-10-29 | 45 | 1 | 
 

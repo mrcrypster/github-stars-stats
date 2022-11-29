@@ -1,6 +1,6 @@
 # apache/commons-lang - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 1445
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 2376 | 1445 | 
 | 2022-11-27 | 2376 | 1445 | 
 | 2022-11-26 | 2375 | 1444 | 
 | 2022-11-25 | 2375 | 1444 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 2366 | 1438 | 
 | 2022-10-31 | 2365 | 1438 | 
 | 2022-10-30 | 2365 | 1437 | 
-| 2022-10-29 | 2365 | 1437 | 
 

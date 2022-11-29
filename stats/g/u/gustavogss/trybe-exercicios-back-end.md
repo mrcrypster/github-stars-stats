@@ -1,10 +1,10 @@
 # gustavogss/trybe-exercicios-back-end - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 3
 
-★ Stars: 9
+★ Stars: 8
 
 [Open repository](https://github.com/gustavogss/trybe-exercicios-back-end)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 8 | 3 | 
 | 2022-11-27 | 9 | 3 | 
 | 2022-11-26 | 9 | 3 | 
 | 2022-11-25 | 9 | 3 | 

@@ -1,8 +1,8 @@
 # TheCherno/Walnut - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 120
+☋ Forks: 121
 
 ★ Stars: 643
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 643 | 121 | 
 | 2022-11-27 | 643 | 120 | 
 | 2022-11-26 | 641 | 119 | 
 | 2022-11-25 | 641 | 119 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 627 | 110 | 
 | 2022-10-31 | 627 | 109 | 
 | 2022-10-30 | 627 | 109 | 
-| 2022-10-29 | 626 | 109 | 
 

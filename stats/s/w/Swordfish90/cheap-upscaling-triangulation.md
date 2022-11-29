@@ -1,6 +1,6 @@
 # Swordfish90/cheap-upscaling-triangulation - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 24 | 1 | 
 | 2022-11-27 | 24 | 1 | 
 | 2022-11-26 | 24 | 1 | 
 | 2022-11-25 | 24 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 24 | 1 | 
 | 2022-10-31 | 24 | 1 | 
 | 2022-10-30 | 24 | 1 | 
-| 2022-10-29 | 24 | 1 | 
 

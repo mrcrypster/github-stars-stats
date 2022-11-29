@@ -1,6 +1,6 @@
 # krahets/LeetCode-Book - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 198
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 1224 | 198 | 
 | 2022-11-28 | 1224 | 198 | 
 | 2022-11-27 | 1223 | 198 | 
 | 2022-11-25 | 1221 | 198 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-01 | 1203 | 196 | 
 | 2022-10-31 | 1201 | 195 | 
 | 2022-10-30 | 1199 | 195 | 
-| 2022-10-29 | 1199 | 196 | 
 

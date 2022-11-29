@@ -1,6 +1,6 @@
 # commanded/commanded - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 218
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 1625 | 218 | 
 | 2022-11-27 | 1625 | 218 | 
 | 2022-11-26 | 1625 | 218 | 
 | 2022-11-25 | 1625 | 218 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 1612 | 217 | 
 | 2022-10-31 | 1611 | 217 | 
 | 2022-10-30 | 1610 | 217 | 
-| 2022-10-29 | 1610 | 217 | 
 

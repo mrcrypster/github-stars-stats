@@ -1,10 +1,10 @@
 # dftbplus/dftbplus - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 141
 
-★ Stars: 235
+★ Stars: 236
 
 [Open repository](https://github.com/dftbplus/dftbplus)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 236 | 141 | 
 | 2022-11-27 | 235 | 141 | 
 | 2022-11-26 | 235 | 141 | 
 | 2022-11-25 | 235 | 141 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-02 | 234 | 138 | 
 | 2022-11-01 | 233 | 138 | 
 | 2022-10-31 | 233 | 138 | 
-| 2022-10-29 | 233 | 138 | 
 

@@ -1,6 +1,6 @@
 # asishgeorge/50Projects50Days - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 102
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 65 | 102 | 
 | 2022-11-27 | 65 | 102 | 
 | 2022-11-26 | 65 | 102 | 
 | 2022-11-25 | 65 | 100 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 62 | 99 | 
 | 2022-10-31 | 62 | 99 | 
 | 2022-10-30 | 62 | 100 | 
-| 2022-10-29 | 62 | 100 | 
 

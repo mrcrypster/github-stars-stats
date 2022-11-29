@@ -1,10 +1,10 @@
 # gdgand/ComposeCamp2022 - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 645
+☋ Forks: 650
 
-★ Stars: 94
+★ Stars: 95
 
 [Open repository](https://github.com/gdgand/ComposeCamp2022)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 95 | 650 | 
 | 2022-11-27 | 94 | 645 | 
 | 2022-11-26 | 94 | 640 | 
 | 2022-11-25 | 93 | 637 | 

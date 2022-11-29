@@ -1,10 +1,10 @@
 # onflow/flow-ft - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 41
 
-★ Stars: 122
+★ Stars: 123
 
 [Open repository](https://github.com/onflow/flow-ft)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 123 | 41 | 
 | 2022-11-27 | 122 | 41 | 
 | 2022-11-26 | 122 | 41 | 
 | 2022-11-25 | 122 | 41 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 120 | 41 | 
 | 2022-10-31 | 120 | 41 | 
 | 2022-10-30 | 120 | 41 | 
-| 2022-10-29 | 120 | 41 | 
 

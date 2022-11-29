@@ -1,10 +1,10 @@
 # chenxiaolong/BCR - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 26
 
-★ Stars: 351
+★ Stars: 353
 
 [Open repository](https://github.com/chenxiaolong/BCR)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 353 | 26 | 
 | 2022-11-27 | 351 | 26 | 
 | 2022-11-26 | 349 | 26 | 
 | 2022-11-25 | 347 | 26 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 315 | 24 | 
 | 2022-10-31 | 316 | 24 | 
 | 2022-10-30 | 315 | 24 | 
-| 2022-10-29 | 315 | 24 | 
 

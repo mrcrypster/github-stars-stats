@@ -1,10 +1,10 @@
 # nuttyartist/notes - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 251
 
-★ Stars: 2553
+★ Stars: 2554
 
 [Open repository](https://github.com/nuttyartist/notes)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 2554 | 251 | 
 | 2022-11-27 | 2553 | 251 | 
 | 2022-11-26 | 2552 | 251 | 
 | 2022-11-25 | 2550 | 251 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 2490 | 251 | 
 | 2022-10-31 | 2487 | 251 | 
 | 2022-10-30 | 2486 | 251 | 
-| 2022-10-29 | 2486 | 251 | 
 

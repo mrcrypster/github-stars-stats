@@ -1,8 +1,8 @@
 # mate-academy/js_2048_game - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 195
+☋ Forks: 196
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | - | 196 | 
 | 2022-11-27 | - | 195 | 
 | 2022-11-26 | - | 195 | 
 | 2022-11-25 | - | 195 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | - | 173 | 
 | 2022-10-31 | - | 172 | 
 | 2022-10-30 | - | 172 | 
-| 2022-10-29 | - | 172 | 
 

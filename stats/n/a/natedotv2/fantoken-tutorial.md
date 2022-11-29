@@ -1,6 +1,6 @@
 # natedotv2/fantoken-tutorial - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 6 | 9 | 
 | 2022-11-28 | 6 | 9 | 
 | 2022-11-27 | 6 | 9 | 
 | 2022-11-25 | 5 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-01 | 3 | 8 | 
 | 2022-10-31 | 3 | 8 | 
 | 2022-10-30 | 3 | 8 | 
-| 2022-10-29 | 4 | 8 | 
 

@@ -1,6 +1,6 @@
 # sindresorhus/Gifski - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 253
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 6432 | 253 | 
 | 2022-11-27 | 6432 | 253 | 
 | 2022-11-26 | 6431 | 253 | 
 | 2022-11-25 | 6429 | 253 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 6379 | 250 | 
 | 2022-10-31 | 6377 | 250 | 
 | 2022-10-30 | 6376 | 250 | 
-| 2022-10-29 | 6375 | 250 | 
 

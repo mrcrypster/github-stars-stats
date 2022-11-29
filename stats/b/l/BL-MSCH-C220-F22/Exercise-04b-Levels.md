@@ -1,6 +1,6 @@
 # BL-MSCH-C220-F22/Exercise-04b-Levels - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | - | 44 | 
 | 2022-11-28 | - | 44 | 
 | 2022-11-26 | - | 44 | 
 | 2022-11-25 | - | 44 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-01 | - | 41 | 
 | 2022-10-31 | - | 41 | 
 | 2022-10-30 | - | 41 | 
-| 2022-10-29 | - | 40 | 
 

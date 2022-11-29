@@ -1,6 +1,6 @@
 # devkitPro/installer - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 277 | 36 | 
 | 2022-11-27 | 277 | 36 | 
 | 2022-11-26 | 277 | 36 | 
 | 2022-11-25 | 276 | 36 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 271 | 36 | 
 | 2022-10-31 | 271 | 36 | 
 | 2022-10-30 | 270 | 36 | 
-| 2022-10-29 | 269 | 36 | 
 

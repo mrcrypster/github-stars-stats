@@ -1,10 +1,10 @@
 # online-ml/river - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 429
 
-★ Stars: 3879
+★ Stars: 3884
 
 [Open repository](https://github.com/online-ml/river)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 3884 | 429 | 
 | 2022-11-27 | 3879 | 429 | 
 | 2022-11-26 | 3871 | 429 | 
 | 2022-11-25 | 3859 | 428 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 3780 | 419 | 
 | 2022-10-31 | 3773 | 418 | 
 | 2022-10-30 | 3769 | 418 | 
-| 2022-10-29 | 3770 | 420 | 
 

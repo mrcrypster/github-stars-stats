@@ -1,10 +1,10 @@
 # thoas/go-funk - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 244
 
-★ Stars: 3998
+★ Stars: 3999
 
 [Open repository](https://github.com/thoas/go-funk)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 3999 | 244 | 
 | 2022-11-27 | 3998 | 244 | 
 | 2022-11-26 | 3997 | 244 | 
 | 2022-11-25 | 3996 | 244 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-02 | 3927 | 239 | 
 | 2022-11-01 | 3924 | 238 | 
 | 2022-10-30 | 3919 | 238 | 
-| 2022-10-29 | 3918 | 238 | 
 

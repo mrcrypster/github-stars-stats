@@ -1,6 +1,6 @@
 # preservim/vimux - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 159
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 2072 | 159 | 
 | 2022-11-27 | 2072 | 159 | 
 | 2022-11-26 | 2072 | 159 | 
 | 2022-11-25 | 2072 | 159 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 2067 | 159 | 
 | 2022-10-31 | 2067 | 159 | 
 | 2022-10-30 | 2067 | 159 | 
-| 2022-10-29 | 2067 | 159 | 
 

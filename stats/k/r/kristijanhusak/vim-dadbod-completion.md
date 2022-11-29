@@ -1,10 +1,10 @@
 # kristijanhusak/vim-dadbod-completion - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 8
 
-★ Stars: 355
+★ Stars: 356
 
 [Open repository](https://github.com/kristijanhusak/vim-dadbod-completion)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 356 | 8 | 
 | 2022-11-27 | 355 | 8 | 
 | 2022-11-26 | 355 | 8 | 
 | 2022-11-25 | 355 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 353 | 8 | 
 | 2022-10-31 | 353 | 8 | 
 | 2022-10-30 | 351 | 8 | 
-| 2022-10-29 | 350 | 8 | 
 

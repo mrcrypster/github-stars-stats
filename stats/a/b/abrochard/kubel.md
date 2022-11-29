@@ -1,10 +1,10 @@
 # abrochard/kubel - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 36
 
-★ Stars: 225
+★ Stars: 226
 
 [Open repository](https://github.com/abrochard/kubel)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 226 | 36 | 
 | 2022-11-27 | 225 | 36 | 
 | 2022-11-26 | 225 | 36 | 
 | 2022-11-25 | 225 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-02 | 224 | 36 | 
 | 2022-11-01 | 224 | 36 | 
 | 2022-10-31 | 224 | 36 | 
-| 2022-10-30 | 224 | 36 | 
 

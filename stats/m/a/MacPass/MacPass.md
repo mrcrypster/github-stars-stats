@@ -1,6 +1,6 @@
 # MacPass/MacPass - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 456
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 6408 | 456 | 
 | 2022-11-27 | 6408 | 456 | 
 | 2022-11-26 | 6408 | 456 | 
 | 2022-11-25 | 6407 | 456 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 6394 | 454 | 
 | 2022-10-31 | 6392 | 454 | 
 | 2022-10-30 | 6391 | 454 | 
-| 2022-10-29 | 6390 | 454 | 
 

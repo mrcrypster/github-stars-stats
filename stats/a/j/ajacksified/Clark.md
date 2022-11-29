@@ -1,6 +1,6 @@
 # ajacksified/Clark - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 8 | 3 | 
 | 2022-11-27 | 8 | 3 | 
 | 2022-11-26 | 8 | 3 | 
 | 2022-11-25 | 8 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 8 | 3 | 
 | 2022-10-31 | 8 | 3 | 
 | 2022-10-30 | 8 | 3 | 
-| 2022-10-29 | 8 | 3 | 
 

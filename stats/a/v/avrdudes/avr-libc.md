@@ -1,8 +1,8 @@
 # avrdudes/avr-libc - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 23
+☋ Forks: 24
 
 ★ Stars: 86
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 86 | 24 | 
 | 2022-11-27 | 86 | 23 | 
 | 2022-11-26 | 86 | 23 | 
 | 2022-11-25 | 86 | 23 | 

@@ -1,6 +1,6 @@
 # discordia-space/CEV-Eris - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 462
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 131 | 462 | 
 | 2022-11-27 | 131 | 462 | 
 | 2022-11-26 | 131 | 461 | 
 | 2022-11-25 | 131 | 462 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 131 | 457 | 
 | 2022-10-31 | 130 | 457 | 
 | 2022-10-30 | 130 | 456 | 
-| 2022-10-29 | 130 | 456 | 
 

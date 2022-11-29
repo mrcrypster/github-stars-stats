@@ -1,6 +1,6 @@
 # tuist/XcodeProj - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 251
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 1721 | 251 | 
 | 2022-11-27 | 1721 | 251 | 
 | 2022-11-26 | 1721 | 250 | 
 | 2022-11-25 | 1721 | 250 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-02 | 1709 | 251 | 
 | 2022-11-01 | 1709 | 250 | 
 | 2022-10-31 | 1709 | 250 | 
-| 2022-10-30 | 1709 | 250 | 
 

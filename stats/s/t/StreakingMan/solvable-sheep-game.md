@@ -1,6 +1,6 @@
 # StreakingMan/solvable-sheep-game - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 149
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 344 | 149 | 
 | 2022-11-27 | 344 | 149 | 
 | 2022-11-26 | 343 | 149 | 
 | 2022-11-25 | 343 | 149 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 329 | 144 | 
 | 2022-10-31 | 327 | 144 | 
 | 2022-10-30 | 326 | 143 | 
-| 2022-10-29 | 326 | 143 | 
 

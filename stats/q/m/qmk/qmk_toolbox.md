@@ -1,10 +1,10 @@
 # qmk/qmk_toolbox - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 430
+☋ Forks: 429
 
-★ Stars: 1741
+★ Stars: 1742
 
 [Open repository](https://github.com/qmk/qmk_toolbox)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 1742 | 429 | 
 | 2022-11-27 | 1741 | 430 | 
 | 2022-11-26 | 1738 | 430 | 
 | 2022-11-25 | 1736 | 430 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-02 | 1707 | 428 | 
 | 2022-10-31 | 1707 | 428 | 
 | 2022-10-30 | 1705 | 427 | 
-| 2022-10-29 | 1706 | 427 | 
 

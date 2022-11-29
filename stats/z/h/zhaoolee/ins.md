@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 28
 
-☋ Forks: 33
+☋ Forks: 35
 
-★ Stars: 833
+★ Stars: 944
 
 [Open repository](https://github.com/zhaoolee/ins)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-28 | 833 | 33 | 
+| 2022-11-28 | 944 | 35 | 
 | 2022-11-27 | 820 | 33 | 
 

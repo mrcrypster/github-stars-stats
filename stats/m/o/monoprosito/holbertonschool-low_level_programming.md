@@ -1,6 +1,6 @@
 # monoprosito/holbertonschool-low_level_programming - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 146
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 21 | 146 | 
 | 2022-11-27 | 21 | 146 | 
 | 2022-11-26 | 21 | 146 | 
 | 2022-11-25 | 21 | 146 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 17 | 146 | 
 | 2022-10-31 | 18 | 148 | 
 | 2022-10-30 | 18 | 147 | 
-| 2022-10-29 | 18 | 147 | 
 

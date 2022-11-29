@@ -1,6 +1,6 @@
 # IObundle/iob-soc - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 95 | 73 | 
 | 2022-11-27 | 95 | 73 | 
 | 2022-11-26 | 95 | 73 | 
 | 2022-11-25 | 95 | 73 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 93 | 64 | 
 | 2022-10-31 | 93 | 64 | 
 | 2022-10-30 | 93 | 64 | 
-| 2022-10-29 | 93 | 64 | 
 

@@ -1,8 +1,8 @@
 # qbcore-framework/qb-houses - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 218
+☋ Forks: 217
 
 ★ Stars: 36
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 36 | 217 | 
 | 2022-11-27 | 36 | 218 | 
 | 2022-11-26 | 36 | 218 | 
 | 2022-11-25 | 36 | 218 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 34 | 216 | 
 | 2022-10-31 | 34 | 216 | 
 | 2022-10-30 | 34 | 216 | 
-| 2022-10-29 | 34 | 215 | 
 

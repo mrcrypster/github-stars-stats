@@ -1,10 +1,10 @@
 # cypress-io/cypress-example-kitchensink - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 1730
+☋ Forks: 1737
 
-★ Stars: 1032
+★ Stars: 1036
 
 [Open repository](https://github.com/cypress-io/cypress-example-kitchensink)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 1036 | 1737 | 
 | 2022-11-27 | 1032 | 1730 | 
 | 2022-11-26 | 1031 | 1729 | 
 | 2022-11-25 | 1031 | 1727 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 1024 | 1696 | 
 | 2022-10-31 | 1024 | 1696 | 
 | 2022-10-30 | 1024 | 1696 | 
-| 2022-10-29 | 1024 | 1696 | 
 

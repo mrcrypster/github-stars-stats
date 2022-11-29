@@ -1,10 +1,10 @@
 # Tencent/mars - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 3508
+☋ Forks: 3510
 
-★ Stars: 16555
+★ Stars: 16556
 
 [Open repository](https://github.com/Tencent/mars)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 16556 | 3510 | 
 | 2022-11-27 | 16555 | 3508 | 
 | 2022-11-26 | 16555 | 3508 | 
 | 2022-11-25 | 16531 | 3505 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 16465 | 3488 | 
 | 2022-10-31 | 16466 | 3487 | 
 | 2022-10-30 | 16463 | 3487 | 
-| 2022-10-29 | 16464 | 3487 | 
 

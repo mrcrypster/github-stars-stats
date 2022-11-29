@@ -1,6 +1,6 @@
 # salesforce/bazel-mystery - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 29 | 1 | 
 | 2022-11-27 | 29 | 1 | 
 | 2022-11-26 | 29 | 1 | 
 | 2022-11-25 | 29 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 26 | 1 | 
 | 2022-10-31 | 26 | 1 | 
 | 2022-10-30 | 25 | 1 | 
-| 2022-10-29 | 25 | 1 | 
 

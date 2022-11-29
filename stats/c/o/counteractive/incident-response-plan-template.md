@@ -1,6 +1,6 @@
 # counteractive/incident-response-plan-template - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 138
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 366 | 138 | 
 | 2022-11-27 | 366 | 138 | 
 | 2022-11-26 | 366 | 138 | 
 | 2022-11-25 | 366 | 138 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 355 | 133 | 
 | 2022-10-31 | 353 | 132 | 
 | 2022-10-30 | 352 | 132 | 
-| 2022-10-29 | 352 | 132 | 
 

@@ -1,10 +1,10 @@
 # github/personal-website - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 6746
+☋ Forks: 6747
 
-★ Stars: 7123
+★ Stars: 7127
 
 [Open repository](https://github.com/github/personal-website)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 7127 | 6747 | 
 | 2022-11-27 | 7123 | 6746 | 
 | 2022-11-26 | 7120 | 6745 | 
 | 2022-11-25 | 7119 | 6744 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 7100 | 6755 | 
 | 2022-10-31 | 7098 | 6756 | 
 | 2022-10-30 | 7097 | 6757 | 
-| 2022-10-29 | 7097 | 6757 | 
 

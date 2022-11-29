@@ -1,6 +1,6 @@
 # CliMA/ClimaCoupler.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 9 | 1 | 
 | 2022-11-27 | 9 | 1 | 
 | 2022-11-26 | 9 | 1 | 
 | 2022-11-25 | 9 | 1 | 

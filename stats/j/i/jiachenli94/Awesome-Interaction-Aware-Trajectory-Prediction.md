@@ -1,6 +1,6 @@
 # jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 246
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 1013 | 246 | 
 | 2022-11-27 | 1013 | 246 | 
 | 2022-11-26 | 1012 | 246 | 
 | 2022-11-25 | 1012 | 246 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 993 | 246 | 
 | 2022-10-31 | 992 | 246 | 
 | 2022-10-30 | 989 | 246 | 
-| 2022-10-29 | 989 | 246 | 
 

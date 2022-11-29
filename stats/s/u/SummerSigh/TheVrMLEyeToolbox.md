@@ -1,10 +1,10 @@
 # SummerSigh/TheVrMLEyeToolbox - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 15
 
-★ Stars: 338
+★ Stars: 337
 
 [Open repository](https://github.com/SummerSigh/TheVrMLEyeToolbox)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 337 | 15 | 
 | 2022-11-27 | 338 | 15 | 
 | 2022-11-26 | 338 | 15 | 
 | 2022-11-25 | 338 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 335 | 15 | 
 | 2022-10-31 | 335 | 15 | 
 | 2022-10-30 | 334 | 15 | 
-| 2022-10-29 | 334 | 15 | 
 

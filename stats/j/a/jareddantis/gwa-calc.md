@@ -1,6 +1,6 @@
 # jareddantis/gwa-calc - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 3 | - | 
 | 2022-11-27 | 3 | - | 
 | 2022-11-26 | 3 | - | 
 | 2022-11-25 | 3 | - | 

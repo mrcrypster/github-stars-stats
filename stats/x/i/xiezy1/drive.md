@@ -1,10 +1,10 @@
 # xiezy1/drive - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 14
 
-★ Stars: 57
+★ Stars: 58
 
 [Open repository](https://github.com/xiezy1/drive)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 58 | 14 | 
 | 2022-11-27 | 57 | 14 | 
 | 2022-11-26 | 57 | 14 | 
 | 2022-11-25 | 56 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 55 | 13 | 
 | 2022-10-31 | 55 | 13 | 
 | 2022-10-30 | 55 | 13 | 
-| 2022-10-29 | 55 | 13 | 
 

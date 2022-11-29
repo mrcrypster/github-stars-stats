@@ -1,10 +1,10 @@
 # jagrosh/MusicBot - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 1829
 
-★ Stars: 3516
+★ Stars: 3517
 
 [Open repository](https://github.com/jagrosh/MusicBot)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 3517 | 1829 | 
 | 2022-11-27 | 3516 | 1829 | 
 | 2022-11-26 | 3516 | 1829 | 
 | 2022-11-25 | 3516 | 1829 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 3466 | 1811 | 
 | 2022-10-31 | 3462 | 1811 | 
 | 2022-10-30 | 3462 | 1810 | 
-| 2022-10-29 | 3461 | 1806 | 
 

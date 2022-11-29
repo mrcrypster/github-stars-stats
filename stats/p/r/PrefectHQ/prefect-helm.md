@@ -1,8 +1,8 @@
 # PrefectHQ/prefect-helm - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 20
+☋ Forks: 21
 
 ★ Stars: 29
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 29 | 21 | 
 | 2022-11-27 | 29 | 20 | 
 | 2022-11-26 | 29 | 20 | 
 | 2022-11-25 | 29 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 24 | 17 | 
 | 2022-10-31 | 24 | 17 | 
 | 2022-10-30 | 24 | 17 | 
-| 2022-10-29 | 24 | 17 | 
 

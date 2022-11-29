@@ -1,10 +1,10 @@
 # macmade/Hot - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 42
 
-★ Stars: 1239
+★ Stars: 1241
 
 [Open repository](https://github.com/macmade/Hot)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 1241 | 42 | 
 | 2022-11-27 | 1239 | 42 | 
 | 2022-11-26 | 1239 | 42 | 
 | 2022-11-25 | 1237 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 1202 | 43 | 
 | 2022-10-31 | 1199 | 43 | 
 | 2022-10-30 | 1197 | 43 | 
-| 2022-10-29 | 1196 | 43 | 
 

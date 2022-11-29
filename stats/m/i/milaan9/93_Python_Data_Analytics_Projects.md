@@ -1,10 +1,10 @@
 # milaan9/93_Python_Data_Analytics_Projects - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 220
 
-★ Stars: 256
+★ Stars: 254
 
 [Open repository](https://github.com/milaan9/93_Python_Data_Analytics_Projects)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 254 | 220 | 
 | 2022-11-27 | 256 | 220 | 
 | 2022-11-26 | 255 | 219 | 
 | 2022-11-25 | 254 | 218 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 241 | 210 | 
 | 2022-10-31 | 240 | 210 | 
 | 2022-10-30 | 239 | 210 | 
-| 2022-10-29 | 239 | 208 | 
 

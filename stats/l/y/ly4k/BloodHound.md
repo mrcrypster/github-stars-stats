@@ -1,6 +1,6 @@
 # ly4k/BloodHound - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 39 | - | 
 | 2022-11-27 | 39 | - | 
 | 2022-11-26 | 39 | - | 
 | 2022-11-25 | 39 | - | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 35 | - | 
 | 2022-10-31 | 35 | - | 
 | 2022-10-30 | 35 | - | 
-| 2022-10-29 | 35 | - | 
 

@@ -1,10 +1,10 @@
 # lukencode/FluentEmail - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 365
 
-★ Stars: 2404
+★ Stars: 2405
 
 [Open repository](https://github.com/lukencode/FluentEmail)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 2405 | 365 | 
 | 2022-11-27 | 2404 | 365 | 
 | 2022-11-26 | 2401 | 365 | 
 | 2022-11-25 | 2400 | 364 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 2357 | 361 | 
 | 2022-10-31 | 2354 | 360 | 
 | 2022-10-30 | 2352 | 358 | 
-| 2022-10-29 | 2351 | 359 | 
 

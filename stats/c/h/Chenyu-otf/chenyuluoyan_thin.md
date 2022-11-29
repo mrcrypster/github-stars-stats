@@ -1,10 +1,10 @@
 # Chenyu-otf/chenyuluoyan_thin - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 24
 
-★ Stars: 1066
+★ Stars: 1068
 
 [Open repository](https://github.com/Chenyu-otf/chenyuluoyan_thin)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 1068 | 24 | 
 | 2022-11-27 | 1066 | 24 | 
 | 2022-11-26 | 1066 | 24 | 
 | 2022-11-25 | 1066 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 1052 | 23 | 
 | 2022-10-31 | 1046 | 23 | 
 | 2022-10-30 | 1046 | 23 | 
-| 2022-10-29 | 1046 | 23 | 
 

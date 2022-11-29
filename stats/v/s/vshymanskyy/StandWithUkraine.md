@@ -1,10 +1,10 @@
 # vshymanskyy/StandWithUkraine - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 196
+☋ Forks: 198
 
-★ Stars: 1075
+★ Stars: 1077
 
 [Open repository](https://github.com/vshymanskyy/StandWithUkraine)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 1077 | 198 | 
 | 2022-11-27 | 1075 | 196 | 
 | 2022-11-26 | 1075 | 196 | 
 | 2022-11-25 | 1074 | 196 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-02 | 1053 | 194 | 
 | 2022-11-01 | 1051 | 192 | 
 | 2022-10-31 | 1049 | 192 | 
-| 2022-10-30 | 1048 | 192 | 
 

@@ -1,6 +1,6 @@
 # AlgebraicJulia/Decapodes.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 17 | 7 | 
 | 2022-11-27 | 17 | 7 | 
 | 2022-11-26 | 17 | 7 | 
 | 2022-11-25 | 17 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 15 | 7 | 
 | 2022-10-31 | 15 | 7 | 
 | 2022-10-30 | 15 | 7 | 
-| 2022-10-29 | 15 | 7 | 
 

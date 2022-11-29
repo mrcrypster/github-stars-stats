@@ -1,10 +1,10 @@
 # udayvir-singh/tangerine.nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 6
 
-★ Stars: 123
+★ Stars: 125
 
 [Open repository](https://github.com/udayvir-singh/tangerine.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 125 | 6 | 
 | 2022-11-27 | 123 | 6 | 
 | 2022-11-26 | 123 | 6 | 
 | 2022-11-25 | 123 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 120 | 7 | 
 | 2022-10-31 | 120 | 7 | 
 | 2022-10-30 | 120 | 7 | 
-| 2022-10-29 | 120 | 7 | 
 

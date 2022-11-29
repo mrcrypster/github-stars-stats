@@ -1,10 +1,10 @@
 # justbur/emacs-which-key - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 81
 
-★ Stars: 1447
+★ Stars: 1446
 
 [Open repository](https://github.com/justbur/emacs-which-key)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 1446 | 81 | 
 | 2022-11-27 | 1447 | 81 | 
 | 2022-11-26 | 1447 | 81 | 
 | 2022-11-25 | 1447 | 81 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 1442 | 81 | 
 | 2022-10-31 | 1440 | 81 | 
 | 2022-10-30 | 1440 | 81 | 
-| 2022-10-29 | 1440 | 81 | 
 

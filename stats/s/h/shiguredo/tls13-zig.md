@@ -1,10 +1,10 @@
 # shiguredo/tls13-zig - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 4
 
-★ Stars: 95
+★ Stars: 96
 
 [Open repository](https://github.com/shiguredo/tls13-zig)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 96 | 4 | 
 | 2022-11-27 | 95 | 4 | 
 | 2022-11-26 | 95 | 4 | 
 | 2022-11-25 | 95 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 87 | 4 | 
 | 2022-10-31 | 86 | 4 | 
 | 2022-10-30 | 85 | 4 | 
-| 2022-10-29 | 85 | 4 | 
 

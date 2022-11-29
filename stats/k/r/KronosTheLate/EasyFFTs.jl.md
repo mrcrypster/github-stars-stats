@@ -1,6 +1,6 @@
 # KronosTheLate/EasyFFTs.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 10 | 2 | 
 | 2022-11-27 | 10 | 2 | 
 | 2022-11-26 | 10 | 2 | 
 | 2022-11-25 | 10 | 2 | 

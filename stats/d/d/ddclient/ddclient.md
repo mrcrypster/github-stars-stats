@@ -1,6 +1,6 @@
 # ddclient/ddclient - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 244
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 1353 | 244 | 
 | 2022-11-27 | 1353 | 244 | 
 | 2022-11-26 | 1353 | 243 | 
 | 2022-11-25 | 1352 | 243 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 1314 | 238 | 
 | 2022-10-31 | 1313 | 238 | 
 | 2022-10-30 | 1312 | 238 | 
-| 2022-10-29 | 1311 | 238 | 
 

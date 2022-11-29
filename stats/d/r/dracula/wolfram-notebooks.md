@@ -1,6 +1,6 @@
 # dracula/wolfram-notebooks - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 4
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 26 | 4 | 
+| 2022-11-28 | 26 | 4 | 
 | 2022-11-27 | 26 | 4 | 
 | 2022-11-26 | 26 | 4 | 
 | 2022-11-25 | 26 | 4 | 
@@ -41,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 26 | 4 | 
 | 2022-10-31 | 26 | 4 | 
 | 2022-10-30 | 25 | 4 | 
-| 2022-10-29 | 25 | 4 | 
 

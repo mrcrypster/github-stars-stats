@@ -1,6 +1,6 @@
 # jeecgboot/jeecg-uniapp - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 421
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 746 | 421 | 
 | 2022-11-27 | 746 | 421 | 
 | 2022-11-26 | 746 | 421 | 
 | 2022-11-25 | 745 | 420 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 713 | 397 | 
 | 2022-10-31 | 711 | 396 | 
 | 2022-10-30 | 709 | 394 | 
-| 2022-10-29 | 708 | 393 | 
 

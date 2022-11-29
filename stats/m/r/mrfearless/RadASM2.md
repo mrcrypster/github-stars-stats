@@ -1,6 +1,6 @@
 # mrfearless/RadASM2 - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 262 | 60 | 
 | 2022-11-27 | 262 | 60 | 
 | 2022-11-26 | 262 | 60 | 
 | 2022-11-25 | 262 | 60 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-02 | 254 | 58 | 
 | 2022-11-01 | 254 | 58 | 
 | 2022-10-31 | 253 | 58 | 
-| 2022-10-30 | 253 | 58 | 
 

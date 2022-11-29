@@ -1,6 +1,6 @@
 # mlewandowska/architektura_serwisow - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 4 | 1 | 
 | 2022-11-27 | 4 | 1 | 
 | 2022-11-26 | 4 | 1 | 
 | 2022-11-25 | 4 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 4 | 1 | 
 | 2022-10-31 | 4 | 1 | 
 | 2022-10-30 | 4 | 1 | 
-| 2022-10-29 | 4 | 1 | 
 

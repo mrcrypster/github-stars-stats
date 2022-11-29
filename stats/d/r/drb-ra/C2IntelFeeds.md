@@ -1,6 +1,6 @@
 # drb-ra/C2IntelFeeds - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 236 | 28 | 
 | 2022-11-27 | 236 | 28 | 
 | 2022-11-26 | 236 | 28 | 
 | 2022-11-25 | 236 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 214 | 26 | 
 | 2022-10-31 | 214 | 26 | 
 | 2022-10-30 | 212 | 26 | 
-| 2022-10-29 | 212 | 26 | 
 

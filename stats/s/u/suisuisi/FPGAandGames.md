@@ -1,10 +1,10 @@
 # suisuisi/FPGAandGames - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 10
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/suisuisi/FPGAandGames)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 17 | 10 | 
 | 2022-11-27 | 16 | 10 | 
 | 2022-11-26 | 16 | 10 | 
 | 2022-11-25 | 16 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 15 | 10 | 
 | 2022-10-31 | 15 | 10 | 
 | 2022-10-30 | 15 | 10 | 
-| 2022-10-29 | 15 | 10 | 
 

@@ -1,10 +1,10 @@
 # heathbm/BatchPool - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 6
 
-★ Stars: 166
+★ Stars: 167
 
 [Open repository](https://github.com/heathbm/BatchPool)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 167 | 6 | 
 | 2022-11-27 | 166 | 6 | 
 | 2022-11-26 | 166 | 6 | 
 | 2022-11-25 | 166 | 6 | 

@@ -1,8 +1,8 @@
 # gndx/js-portfolio - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 179
+☋ Forks: 178
 
 ★ Stars: 41
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 41 | 178 | 
 | 2022-11-27 | 41 | 179 | 
 | 2022-11-26 | 41 | 178 | 
 | 2022-11-25 | 41 | 178 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 40 | 172 | 
 | 2022-10-31 | 40 | 172 | 
 | 2022-10-30 | 40 | 172 | 
-| 2022-10-29 | 40 | 172 | 
 

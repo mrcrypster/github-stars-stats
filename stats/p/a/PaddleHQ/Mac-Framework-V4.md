@@ -1,6 +1,6 @@
 # PaddleHQ/Mac-Framework-V4 - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 47 | 9 | 
 | 2022-11-28 | 47 | 9 | 
 | 2022-11-27 | 47 | 9 | 
 | 2022-11-25 | 47 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-01 | 46 | 9 | 
 | 2022-10-31 | 46 | 9 | 
 | 2022-10-30 | 46 | 9 | 
-| 2022-10-29 | 46 | 9 | 
 

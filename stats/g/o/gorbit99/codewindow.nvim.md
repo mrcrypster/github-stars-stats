@@ -1,10 +1,10 @@
 # gorbit99/codewindow.nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 4
 
-★ Stars: 176
+★ Stars: 177
 
 [Open repository](https://github.com/gorbit99/codewindow.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 177 | 4 | 
 | 2022-11-27 | 176 | 4 | 
 | 2022-11-26 | 176 | 4 | 
 | 2022-11-25 | 176 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 165 | 5 | 
 | 2022-10-31 | 162 | 5 | 
 | 2022-10-30 | 161 | 5 | 
-| 2022-10-29 | 161 | 5 | 
 

@@ -1,6 +1,6 @@
 # cruz/iic2333-course - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 58 | - | 
 | 2022-11-27 | 58 | - | 
 | 2022-11-26 | 58 | - | 
 | 2022-11-25 | 58 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 59 | - | 
 | 2022-10-31 | 60 | - | 
 | 2022-10-30 | 60 | - | 
-| 2022-10-29 | 60 | - | 
 

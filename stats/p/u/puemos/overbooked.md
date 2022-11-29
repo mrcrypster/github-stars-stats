@@ -1,6 +1,6 @@
 # puemos/overbooked - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 44 | - | 
 | 2022-11-28 | 44 | - | 
 | 2022-11-26 | 44 | - | 
 | 2022-11-25 | 44 | - | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-01 | 29 | - | 
 | 2022-10-31 | 28 | - | 
 | 2022-10-30 | 28 | - | 
-| 2022-10-29 | 28 | - | 
 

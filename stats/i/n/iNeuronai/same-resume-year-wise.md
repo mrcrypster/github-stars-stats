@@ -1,10 +1,10 @@
 # iNeuronai/same-resume-year-wise - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 94
+☋ Forks: 95
 
-★ Stars: 142
+★ Stars: 143
 
 [Open repository](https://github.com/iNeuronai/same-resume-year-wise)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 143 | 95 | 
 | 2022-11-27 | 142 | 94 | 
 | 2022-11-26 | 142 | 94 | 
 | 2022-11-25 | 142 | 94 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 136 | 91 | 
 | 2022-10-31 | 136 | 91 | 
 | 2022-10-30 | 135 | 91 | 
-| 2022-10-29 | 134 | 90 | 
 

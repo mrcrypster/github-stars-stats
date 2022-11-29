@@ -1,6 +1,6 @@
 # graph-quilt/graphql-orchestrator-java - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 23 | 12 | 
 | 2022-11-27 | 23 | 12 | 
 | 2022-11-26 | 23 | 12 | 
 | 2022-11-25 | 23 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 16 | 11 | 
 | 2022-10-31 | 16 | 11 | 
 | 2022-10-30 | 16 | 11 | 
-| 2022-10-29 | 16 | 10 | 
 

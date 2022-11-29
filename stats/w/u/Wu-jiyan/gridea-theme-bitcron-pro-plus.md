@@ -1,6 +1,6 @@
 # Wu-jiyan/gridea-theme-bitcron-pro-plus - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 28 | - | 
 | 2022-11-27 | 28 | - | 
 | 2022-11-26 | 28 | - | 
 | 2022-11-25 | 28 | - | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 29 | - | 
 | 2022-10-31 | 29 | - | 
 | 2022-10-30 | 23 | - | 
-| 2022-10-29 | 22 | - | 
 

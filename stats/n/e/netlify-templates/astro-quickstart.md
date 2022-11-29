@@ -1,6 +1,6 @@
 # netlify-templates/astro-quickstart - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 22 | 29 | 
 | 2022-11-27 | 22 | 29 | 
 | 2022-11-26 | 22 | 29 | 
 | 2022-11-25 | 22 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-02 | 21 | 29 | 
 | 2022-11-01 | 21 | 28 | 
 | 2022-10-31 | 21 | 28 | 
-| 2022-10-30 | 21 | 28 | 
 

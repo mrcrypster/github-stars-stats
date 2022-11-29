@@ -1,10 +1,10 @@
 # lidangzzz/Best-Practice-for-Building-A-Startup-in-Delaware-with-Tech-Tools - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 31
 
-★ Stars: 523
+★ Stars: 522
 
 [Open repository](https://github.com/lidangzzz/Best-Practice-for-Building-A-Startup-in-Delaware-with-Tech-Tools)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 522 | 31 | 
 | 2022-11-27 | 523 | 31 | 
 | 2022-11-26 | 523 | 31 | 
 | 2022-11-25 | 523 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-02 | 467 | 29 | 
 | 2022-11-01 | 467 | 29 | 
 | 2022-10-31 | 466 | 29 | 
-| 2022-10-30 | 465 | 29 | 
 

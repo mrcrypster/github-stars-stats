@@ -1,10 +1,10 @@
 # xushengfeng/eSearch - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 82
 
-★ Stars: 858
+★ Stars: 859
 
 [Open repository](https://github.com/xushengfeng/eSearch)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 859 | 82 | 
 | 2022-11-27 | 858 | 82 | 
 | 2022-11-26 | 853 | 82 | 
 | 2022-11-25 | 850 | 82 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 712 | 77 | 
 | 2022-10-31 | 700 | 77 | 
 | 2022-10-30 | 684 | 77 | 
-| 2022-10-29 | 681 | 77 | 
 

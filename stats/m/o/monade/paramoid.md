@@ -1,6 +1,6 @@
 # monade/paramoid - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 71 | - | 
 | 2022-11-27 | 71 | - | 
 | 2022-11-26 | 71 | - | 
 | 2022-11-25 | 71 | - | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 71 | - | 
 | 2022-10-31 | 71 | - | 
 | 2022-10-30 | 71 | - | 
-| 2022-10-29 | 71 | - | 
 

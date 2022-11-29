@@ -1,8 +1,8 @@
 # joemilc/cards - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 4
+☋ Forks: 5
 
 ★ Stars: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 6 | 5 | 
 | 2022-11-28 | 6 | 4 | 
 | 2022-11-27 | 6 | 4 | 
 | 2022-11-26 | 6 | 4 | 

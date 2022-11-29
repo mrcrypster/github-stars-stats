@@ -1,6 +1,6 @@
 # xmos/xmos_cmake_toolchain - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 2 | 2 | 
 | 2022-11-27 | 2 | 2 | 
 | 2022-11-26 | 2 | 2 | 
 | 2022-11-25 | 2 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 2 | 2 | 
 | 2022-10-31 | 2 | 2 | 
 | 2022-10-30 | 2 | 2 | 
-| 2022-10-29 | 2 | 2 | 
 

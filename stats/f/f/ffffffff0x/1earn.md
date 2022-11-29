@@ -1,6 +1,6 @@
 # ffffffff0x/1earn - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 911
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 4086 | 911 | 
 | 2022-11-27 | 4086 | 911 | 
 | 2022-11-26 | 4085 | 911 | 
 | 2022-11-25 | 4082 | 909 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-02 | 4012 | 889 | 
 | 2022-11-01 | 4011 | 889 | 
 | 2022-10-31 | 4007 | 889 | 
-| 2022-10-30 | 4006 | 889 | 
 

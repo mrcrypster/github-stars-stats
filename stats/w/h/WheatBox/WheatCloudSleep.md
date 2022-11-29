@@ -1,6 +1,6 @@
 # WheatBox/WheatCloudSleep - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 308 | 38 | 
 | 2022-11-27 | 308 | 38 | 
 | 2022-11-26 | 308 | 38 | 
 | 2022-11-25 | 307 | 37 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 305 | 36 | 
 | 2022-10-31 | 305 | 36 | 
 | 2022-10-30 | 305 | 36 | 
-| 2022-10-29 | 304 | 36 | 
 

@@ -1,10 +1,10 @@
 # sycamore-rs/sycamore - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 112
 
-★ Stars: 1727
+★ Stars: 1733
 
 [Open repository](https://github.com/sycamore-rs/sycamore)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 1733 | 112 | 
 | 2022-11-27 | 1727 | 112 | 
 | 2022-11-26 | 1723 | 112 | 
 | 2022-11-25 | 1720 | 112 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 1575 | 107 | 
 | 2022-10-31 | 1555 | 107 | 
 | 2022-10-30 | 1553 | 107 | 
-| 2022-10-29 | 1546 | 107 | 
 

@@ -1,10 +1,10 @@
 # mentebinaria/retoolkit - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 363
 
-★ Stars: 3533
+★ Stars: 3534
 
 [Open repository](https://github.com/mentebinaria/retoolkit)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 3534 | 363 | 
 | 2022-11-27 | 3533 | 363 | 
 | 2022-11-26 | 3533 | 363 | 
 | 2022-11-25 | 3531 | 363 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 3432 | 341 | 
 | 2022-10-31 | 3432 | 341 | 
 | 2022-10-30 | 3431 | 341 | 
-| 2022-10-29 | 3428 | 341 | 
 

@@ -1,10 +1,10 @@
 # fox-it/BloodHound.py - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 228
 
-★ Stars: 1270
+★ Stars: 1271
 
 [Open repository](https://github.com/fox-it/BloodHound.py)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 1271 | 228 | 
 | 2022-11-27 | 1270 | 228 | 
 | 2022-11-26 | 1270 | 228 | 
 | 2022-11-25 | 1268 | 227 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 1253 | 221 | 
 | 2022-10-31 | 1253 | 221 | 
 | 2022-10-30 | 1253 | 221 | 
-| 2022-10-29 | 1251 | 221 | 
 

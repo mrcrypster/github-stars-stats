@@ -1,8 +1,8 @@
 # rokudev/samples - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 250
+☋ Forks: 251
 
 ★ Stars: 343
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 343 | 251 | 
 | 2022-11-27 | 343 | 250 | 
 | 2022-11-26 | 343 | 249 | 
 | 2022-11-25 | 344 | 248 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 341 | 244 | 
 | 2022-10-31 | 341 | 244 | 
 | 2022-10-30 | 342 | 244 | 
-| 2022-10-29 | 342 | 244 | 
 

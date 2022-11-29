@@ -1,6 +1,6 @@
 # bugbiteme/demo-tform-aws-vpc - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 137
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 49 | 137 | 
 | 2022-11-27 | 49 | 137 | 
 | 2022-11-26 | 49 | 137 | 
 | 2022-11-25 | 49 | 137 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 48 | 134 | 
 | 2022-10-31 | 48 | 134 | 
 | 2022-10-30 | 48 | 133 | 
-| 2022-10-29 | 48 | 133 | 
 

@@ -1,6 +1,6 @@
 # Kudaes/Dumpy - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 109 | 16 | 
 | 2022-11-27 | 109 | 16 | 
 | 2022-11-26 | 109 | 16 | 
 | 2022-11-25 | 109 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 109 | 16 | 
 | 2022-10-31 | 109 | 16 | 
 | 2022-10-30 | 109 | 16 | 
-| 2022-10-29 | 109 | 16 | 
 

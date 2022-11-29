@@ -1,10 +1,10 @@
 # xinliangnote/go-gin-api - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 805
+☋ Forks: 807
 
-★ Stars: 4038
+★ Stars: 4041
 
 [Open repository](https://github.com/xinliangnote/go-gin-api)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 4041 | 807 | 
 | 2022-11-27 | 4038 | 805 | 
 | 2022-11-26 | 4036 | 805 | 
 | 2022-11-25 | 4035 | 805 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 3964 | 785 | 
 | 2022-10-31 | 3963 | 785 | 
 | 2022-10-30 | 3958 | 785 | 
-| 2022-10-29 | 3958 | 786 | 
 

@@ -1,6 +1,6 @@
 # betascribbles/alx-low_level_programming - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 133
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 60 | 133 | 
 | 2022-11-27 | 60 | 133 | 
 | 2022-11-26 | 60 | 133 | 
 | 2022-11-25 | 60 | 133 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 57 | 126 | 
 | 2022-10-31 | 56 | 126 | 
 | 2022-10-30 | 55 | 127 | 
-| 2022-10-29 | 55 | 127 | 
 

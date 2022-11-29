@@ -1,10 +1,10 @@
 # edenhill/kcat - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 428
 
-★ Stars: 4549
+★ Stars: 4551
 
 [Open repository](https://github.com/edenhill/kcat)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 4551 | 428 | 
 | 2022-11-27 | 4549 | 428 | 
 | 2022-11-26 | 4549 | 428 | 
 | 2022-11-25 | 4549 | 428 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 4507 | 424 | 
 | 2022-10-31 | 4506 | 424 | 
 | 2022-10-30 | 4505 | 424 | 
-| 2022-10-29 | 4506 | 424 | 
 

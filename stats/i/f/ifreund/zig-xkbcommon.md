@@ -1,10 +1,10 @@
 # ifreund/zig-xkbcommon - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 4
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/ifreund/zig-xkbcommon)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 11 | 4 | 
 | 2022-11-28 | 10 | 4 | 
 | 2022-11-26 | 10 | 4 | 
 | 2022-11-25 | 10 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-01 | 10 | 4 | 
 | 2022-10-31 | 10 | 4 | 
 | 2022-10-30 | 10 | 4 | 
-| 2022-10-29 | 10 | 4 | 
 

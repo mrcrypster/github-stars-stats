@@ -1,6 +1,6 @@
 # herbsjs/herbs-cli - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 29 | 28 | 
 | 2022-11-27 | 29 | 28 | 
 | 2022-11-26 | 28 | 28 | 
 | 2022-11-25 | 28 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 27 | 28 | 
 | 2022-10-31 | 27 | 28 | 
 | 2022-10-30 | 27 | 28 | 
-| 2022-10-29 | 27 | 28 | 
 

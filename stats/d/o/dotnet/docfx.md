@@ -1,8 +1,8 @@
 # dotnet/docfx - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 760
+☋ Forks: 761
 
 ★ Stars: 3235
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 3235 | 761 | 
 | 2022-11-27 | 3235 | 760 | 
 | 2022-11-26 | 3235 | 760 | 
 | 2022-11-25 | 3235 | 760 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-02 | 3207 | 760 | 
 | 2022-11-01 | 3207 | 759 | 
 | 2022-10-31 | 3204 | 758 | 
-| 2022-10-30 | 3204 | 758 | 
 

@@ -1,8 +1,8 @@
 # pancakeswap/pancake-frontend - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 3022
+☋ Forks: 3026
 
 ★ Stars: 2042
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 2042 | 3026 | 
 | 2022-11-27 | 2042 | 3022 | 
 | 2022-11-26 | 2040 | 3019 | 
 | 2022-11-25 | 2039 | 3019 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 2006 | 2979 | 
 | 2022-10-31 | 2004 | 2978 | 
 | 2022-10-30 | 2002 | 2978 | 
-| 2022-10-29 | 2000 | 2977 | 
 

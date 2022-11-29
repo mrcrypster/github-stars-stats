@@ -1,6 +1,6 @@
 # LeonBlade/DalamudPlugins - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 30 | 7 | 
 | 2022-11-27 | 30 | 7 | 
 | 2022-11-26 | 30 | 7 | 
 | 2022-11-25 | 30 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 29 | 7 | 
 | 2022-10-31 | 29 | 7 | 
 | 2022-10-30 | 29 | 7 | 
-| 2022-10-29 | 29 | 7 | 
 

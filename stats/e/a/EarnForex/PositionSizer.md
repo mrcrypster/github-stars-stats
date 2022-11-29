@@ -1,6 +1,6 @@
 # EarnForex/PositionSizer - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 86
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 172 | 86 | 
 | 2022-11-27 | 172 | 86 | 
 | 2022-11-26 | 171 | 86 | 
 | 2022-11-25 | 171 | 86 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-02 | 166 | 84 | 
 | 2022-11-01 | 166 | 84 | 
 | 2022-10-31 | 166 | 84 | 
-| 2022-10-30 | 166 | 84 | 
 

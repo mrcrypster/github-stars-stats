@@ -1,8 +1,8 @@
 # microsoft/Windows-classic-samples - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 2857
+☋ Forks: 2856
 
 ★ Stars: 3879
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 3879 | 2856 | 
 | 2022-11-27 | 3879 | 2857 | 
 | 2022-11-26 | 3877 | 2856 | 
 | 2022-11-25 | 3874 | 2855 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 3816 | 2824 | 
 | 2022-10-31 | 3806 | 2820 | 
 | 2022-10-30 | 3803 | 2820 | 
-| 2022-10-29 | 3802 | 2818 | 
 

@@ -1,8 +1,8 @@
 # supabase-community/auth-helpers - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 123
+☋ Forks: 125
 
 ★ Stars: 458
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 458 | 125 | 
 | 2022-11-27 | 458 | 123 | 
 | 2022-11-26 | 457 | 121 | 
 | 2022-11-25 | 456 | 121 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 420 | 111 | 
 | 2022-10-31 | 421 | 111 | 
 | 2022-10-30 | 419 | 111 | 
-| 2022-10-29 | 416 | 111 | 
 

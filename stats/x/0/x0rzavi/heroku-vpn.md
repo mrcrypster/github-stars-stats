@@ -1,10 +1,10 @@
 # x0rzavi/heroku-vpn - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 38
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/x0rzavi/heroku-vpn)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 35 | 38 | 
 | 2022-11-27 | 34 | 38 | 
 | 2022-11-26 | 34 | 38 | 
 | 2022-11-25 | 33 | 38 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 33 | 37 | 
 | 2022-10-31 | 33 | 37 | 
 | 2022-10-30 | 33 | 37 | 
-| 2022-10-29 | 33 | 37 | 
 

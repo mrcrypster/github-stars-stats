@@ -1,8 +1,8 @@
 # MyEtherWallet/MyEtherWallet - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 729
+☋ Forks: 728
 
 ★ Stars: 1157
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 1157 | 728 | 
 | 2022-11-27 | 1157 | 729 | 
 | 2022-11-26 | 1157 | 729 | 
 | 2022-11-25 | 1157 | 729 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 1150 | 724 | 
 | 2022-10-31 | 1150 | 724 | 
 | 2022-10-30 | 1150 | 724 | 
-| 2022-10-29 | 1149 | 724 | 
 

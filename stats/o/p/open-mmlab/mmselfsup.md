@@ -1,10 +1,10 @@
 # open-mmlab/mmselfsup - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 351
 
-★ Stars: 2399
+★ Stars: 2403
 
 [Open repository](https://github.com/open-mmlab/mmselfsup)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 2403 | 351 | 
 | 2022-11-27 | 2399 | 351 | 
 | 2022-11-26 | 2398 | 351 | 
 | 2022-11-25 | 2397 | 351 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 2349 | 339 | 
 | 2022-10-31 | 2348 | 336 | 
 | 2022-10-30 | 2344 | 336 | 
-| 2022-10-29 | 2343 | 336 | 
 

@@ -1,6 +1,6 @@
 # Liqwid-Labs/agora - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 41 | 13 | 
 | 2022-11-27 | 41 | 13 | 
 | 2022-11-26 | 41 | 13 | 
 | 2022-11-25 | 41 | 13 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 39 | 14 | 
 | 2022-10-31 | 38 | 14 | 
 | 2022-10-30 | 38 | 13 | 
-| 2022-10-29 | 38 | 13 | 
 

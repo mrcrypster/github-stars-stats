@@ -1,6 +1,6 @@
 # dom96/choosenim - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 550 | 59 | 
 | 2022-11-27 | 550 | 59 | 
 | 2022-11-26 | 548 | 59 | 
 | 2022-11-25 | 548 | 59 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-02 | 532 | 58 | 
 | 2022-11-01 | 531 | 58 | 
 | 2022-10-31 | 530 | 58 | 
-| 2022-10-30 | 530 | 58 | 
 

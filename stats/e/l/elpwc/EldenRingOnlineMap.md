@@ -1,6 +1,6 @@
 # elpwc/EldenRingOnlineMap - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 218 | 22 | 
 | 2022-11-27 | 218 | 22 | 
 | 2022-11-26 | 218 | 22 | 
 | 2022-11-25 | 218 | 22 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 218 | 22 | 
 | 2022-10-31 | 218 | 22 | 
 | 2022-10-30 | 218 | 22 | 
-| 2022-10-29 | 218 | 22 | 
 

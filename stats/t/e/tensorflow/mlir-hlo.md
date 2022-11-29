@@ -1,8 +1,8 @@
 # tensorflow/mlir-hlo - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 51
+☋ Forks: 52
 
 ★ Stars: 258
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 258 | 52 | 
 | 2022-11-27 | 258 | 51 | 
 | 2022-11-26 | 256 | 51 | 
 | 2022-11-25 | 256 | 51 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 251 | 49 | 
 | 2022-10-31 | 251 | 49 | 
 | 2022-10-30 | 249 | 49 | 
-| 2022-10-29 | 249 | 49 | 
 

@@ -1,10 +1,10 @@
 # D1rkMtr/IORI_Loader - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 35
 
-★ Stars: 158
+★ Stars: 159
 
 [Open repository](https://github.com/D1rkMtr/IORI_Loader)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 159 | 35 | 
 | 2022-11-28 | 158 | 35 | 
 | 2022-11-27 | 158 | 35 | 
 | 2022-11-26 | 158 | 35 | 

@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 28
 
-☋ Forks: 1122
+☋ Forks: 1123
 
-★ Stars: 1064
+★ Stars: 1066
 
 [Open repository](https://github.com/GoogleChrome/developer.chrome.com)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-28 | 1064 | 1122 | 
+| 2022-11-28 | 1066 | 1123 | 
 | 2022-11-27 | 1064 | 1122 | 
 | 2022-11-26 | 1059 | 1118 | 
 | 2022-11-25 | 1056 | 1116 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-01 | 1008 | 1077 | 
 | 2022-10-31 | 1005 | 1071 | 
 | 2022-10-30 | 1003 | 1070 | 
-| 2022-10-29 | 1002 | 1070 | 
 

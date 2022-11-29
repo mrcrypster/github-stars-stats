@@ -1,10 +1,10 @@
 # PlaceOS/PlaceOS - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 5
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/PlaceOS/PlaceOS)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 23 | 5 | 
 | 2022-11-27 | 22 | 5 | 
 | 2022-11-26 | 22 | 5 | 
 | 2022-11-25 | 22 | 5 | 

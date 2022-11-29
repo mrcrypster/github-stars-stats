@@ -1,10 +1,10 @@
 # kubkon/zcoff - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 0
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/kubkon/zcoff)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 19 | - | 
 | 2022-11-27 | 18 | - | 
 | 2022-11-26 | 18 | - | 
 | 2022-11-25 | 18 | - | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 18 | - | 
 | 2022-10-31 | 18 | - | 
 | 2022-10-30 | 18 | - | 
-| 2022-10-29 | 18 | - | 
 

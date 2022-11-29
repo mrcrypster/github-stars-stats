@@ -1,10 +1,10 @@
 # denoland/deno - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 4660
+☋ Forks: 4659
 
-★ Stars: 86544
+★ Stars: 86547
 
 [Open repository](https://github.com/denoland/deno)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 86547 | 4659 | 
 | 2022-11-27 | 86544 | 4660 | 
 | 2022-11-26 | 86521 | 4660 | 
 | 2022-11-25 | 86502 | 4661 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 86107 | 4653 | 
 | 2022-10-31 | 86101 | 4652 | 
 | 2022-10-30 | 86092 | 4652 | 
-| 2022-10-29 | 86072 | 4650 | 
 

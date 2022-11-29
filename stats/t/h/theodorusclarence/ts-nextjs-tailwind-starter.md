@@ -1,10 +1,10 @@
 # theodorusclarence/ts-nextjs-tailwind-starter - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 180
+☋ Forks: 181
 
-★ Stars: 1261
+★ Stars: 1263
 
 [Open repository](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 1263 | 181 | 
 | 2022-11-27 | 1261 | 180 | 
 | 2022-11-26 | 1261 | 180 | 
 | 2022-11-25 | 1259 | 180 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-02 | 1205 | 174 | 
 | 2022-11-01 | 1201 | 174 | 
 | 2022-10-31 | 1200 | 174 | 
-| 2022-10-30 | 1199 | 174 | 
 

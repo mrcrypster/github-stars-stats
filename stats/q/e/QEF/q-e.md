@@ -1,10 +1,10 @@
 # QEF/q-e - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 251
 
-★ Stars: 489
+★ Stars: 490
 
 [Open repository](https://github.com/QEF/q-e)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 490 | 251 | 
 | 2022-11-27 | 489 | 251 | 
 | 2022-11-26 | 488 | 251 | 
 | 2022-11-25 | 488 | 251 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 482 | 251 | 
 | 2022-10-31 | 482 | 251 | 
 | 2022-10-30 | 482 | 250 | 
-| 2022-10-29 | 482 | 250 | 
 

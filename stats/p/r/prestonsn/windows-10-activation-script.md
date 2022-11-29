@@ -1,6 +1,6 @@
 # prestonsn/windows-10-activation-script - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 78
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 136 | 78 | 
 | 2022-11-27 | 136 | 78 | 
 | 2022-11-26 | 136 | 78 | 
 | 2022-11-25 | 136 | 77 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 138 | 76 | 
 | 2022-10-31 | 138 | 76 | 
 | 2022-10-30 | 138 | 76 | 
-| 2022-10-29 | 138 | 76 | 
 

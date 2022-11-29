@@ -1,10 +1,10 @@
 # 2factorauth/twofactorauth - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 1750
 
-★ Stars: 3163
+★ Stars: 3166
 
 [Open repository](https://github.com/2factorauth/twofactorauth)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 3166 | 1750 | 
 | 2022-11-27 | 3163 | 1750 | 
 | 2022-11-26 | 3163 | 1750 | 
 | 2022-11-25 | 3163 | 1750 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 3156 | 1745 | 
 | 2022-10-31 | 3155 | 1743 | 
 | 2022-10-30 | 3155 | 1742 | 
-| 2022-10-29 | 3155 | 1744 | 
 

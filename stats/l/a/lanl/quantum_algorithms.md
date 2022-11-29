@@ -1,6 +1,6 @@
 # lanl/quantum_algorithms - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 168 | 32 | 
 | 2022-11-27 | 168 | 32 | 
 | 2022-11-26 | 168 | 32 | 
 | 2022-11-25 | 168 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 166 | 32 | 
 | 2022-10-31 | 166 | 32 | 
 | 2022-10-30 | 166 | 32 | 
-| 2022-10-29 | 166 | 32 | 
 

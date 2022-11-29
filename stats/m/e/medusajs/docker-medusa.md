@@ -1,10 +1,10 @@
 # medusajs/docker-medusa - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 31
 
-★ Stars: 49
+★ Stars: 50
 
 [Open repository](https://github.com/medusajs/docker-medusa)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 50 | 31 | 
 | 2022-11-27 | 49 | 31 | 
 | 2022-11-26 | 49 | 31 | 
 | 2022-11-25 | 49 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 46 | 27 | 
 | 2022-10-31 | 46 | 27 | 
 | 2022-10-30 | 46 | 26 | 
-| 2022-10-29 | 46 | 26 | 
 

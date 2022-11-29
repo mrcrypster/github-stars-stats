@@ -1,8 +1,8 @@
 # chaosprint/glicol - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 47
+☋ Forks: 46
 
 ★ Stars: 1141
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 1141 | 46 | 
 | 2022-11-27 | 1141 | 47 | 
 | 2022-11-26 | 1141 | 47 | 
 | 2022-11-25 | 1139 | 47 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-02 | 1112 | 46 | 
 | 2022-11-01 | 1111 | 46 | 
 | 2022-10-31 | 1108 | 46 | 
-| 2022-10-30 | 1108 | 46 | 
 

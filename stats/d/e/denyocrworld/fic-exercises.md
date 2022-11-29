@@ -1,10 +1,10 @@
 # denyocrworld/fic-exercises - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 5
 
-★ Stars: 6
+★ Stars: 9
 
 [Open repository](https://github.com/denyocrworld/fic-exercises)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 9 | 5 | 
 | 2022-11-27 | 6 | 5 | 
 | 2022-11-26 | 6 | 5 | 
 | 2022-11-25 | 6 | 5 | 

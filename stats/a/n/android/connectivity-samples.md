@@ -1,10 +1,10 @@
 # android/connectivity-samples - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 1139
+☋ Forks: 1140
 
-★ Stars: 1235
+★ Stars: 1236
 
 [Open repository](https://github.com/android/connectivity-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 1236 | 1140 | 
 | 2022-11-27 | 1235 | 1139 | 
 | 2022-11-26 | 1234 | 1138 | 
 | 2022-11-25 | 1234 | 1138 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-02 | 1216 | 1121 | 
 | 2022-11-01 | 1215 | 1121 | 
 | 2022-10-31 | 1214 | 1120 | 
-| 2022-10-30 | 1211 | 1119 | 
 

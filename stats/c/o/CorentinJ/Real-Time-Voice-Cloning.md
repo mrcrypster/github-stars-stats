@@ -1,10 +1,10 @@
 # CorentinJ/Real-Time-Voice-Cloning - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 6937
+☋ Forks: 6938
 
-★ Stars: 37952
+★ Stars: 37974
 
 [Open repository](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 37974 | 6938 | 
 | 2022-11-27 | 37952 | 6937 | 
 | 2022-11-26 | 37934 | 6934 | 
 | 2022-11-25 | 37916 | 6929 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 37328 | 6841 | 
 | 2022-10-31 | 37321 | 6837 | 
 | 2022-10-30 | 37308 | 6835 | 
-| 2022-10-29 | 37292 | 6830 | 
 

@@ -1,6 +1,6 @@
 # ScalaOtus/scala-dev-mooc-2022-06 - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | - | 22 | 
 | 2022-11-27 | - | 22 | 
 | 2022-11-26 | - | 22 | 
 | 2022-11-25 | - | 22 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 1 | 20 | 
 | 2022-10-31 | 1 | 20 | 
 | 2022-10-30 | 1 | 20 | 
-| 2022-10-29 | 1 | 20 | 
 

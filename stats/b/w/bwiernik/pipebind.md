@@ -1,10 +1,10 @@
 # bwiernik/pipebind - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
 ☋ Forks: 2
 
-★ Stars: 45
+★ Stars: 46
 
 [Open repository](https://github.com/bwiernik/pipebind)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 46 | 2 | 
 | 2022-11-27 | 45 | 2 | 
 | 2022-11-26 | 45 | 2 | 
 | 2022-11-25 | 45 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 39 | 2 | 
 | 2022-10-31 | 39 | 2 | 
 | 2022-10-30 | 39 | 2 | 
-| 2022-10-29 | 39 | 2 | 
 

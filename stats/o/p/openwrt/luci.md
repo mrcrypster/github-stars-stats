@@ -1,10 +1,10 @@
 # openwrt/luci - stars & forks statistics
 
-Stats updated on Nov 2022, 27
+Stats updated on Nov 2022, 28
 
-☋ Forks: 2114
+☋ Forks: 2116
 
-★ Stars: 4729
+★ Stars: 4732
 
 [Open repository](https://github.com/openwrt/luci)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-28 | 4732 | 2116 | 
 | 2022-11-27 | 4729 | 2114 | 
 | 2022-11-26 | 4729 | 2112 | 
 | 2022-11-25 | 4725 | 2112 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 27
 | 2022-11-01 | 4649 | 2090 | 
 | 2022-10-31 | 4646 | 2091 | 
 | 2022-10-30 | 4643 | 2090 | 
-| 2022-10-29 | 4641 | 2089 | 
 

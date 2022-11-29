@@ -1,6 +1,6 @@
 # ICPverse/analytics - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 35 | - | 
 | 2022-11-28 | 35 | - | 
 | 2022-11-26 | 35 | - | 
 | 2022-11-25 | 35 | - | 
