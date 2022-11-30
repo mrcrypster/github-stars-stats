@@ -1,6 +1,6 @@
 # hysnsec/awesome-threat-modelling - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 158
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 799 | 158 | 
 | 2022-11-28 | 799 | 158 | 
 | 2022-11-27 | 799 | 158 | 
 | 2022-11-26 | 799 | 158 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 777 | 159 | 
 | 2022-11-01 | 777 | 159 | 
 | 2022-10-31 | 777 | 158 | 
-| 2022-10-30 | 777 | 158 | 
 

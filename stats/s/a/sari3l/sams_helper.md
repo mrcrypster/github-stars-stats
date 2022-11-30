@@ -1,6 +1,6 @@
 # sari3l/sams_helper - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 185 | 68 | 
 | 2022-11-28 | 185 | 68 | 
 | 2022-11-27 | 185 | 68 | 
 | 2022-11-26 | 185 | 68 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 184 | 68 | 
 | 2022-11-01 | 184 | 68 | 
 | 2022-10-31 | 184 | 68 | 
-| 2022-10-30 | 184 | 68 | 
 

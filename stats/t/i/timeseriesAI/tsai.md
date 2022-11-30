@@ -1,10 +1,10 @@
 # timeseriesAI/tsai - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 384
 
-★ Stars: 2717
+★ Stars: 2725
 
 [Open repository](https://github.com/timeseriesAI/tsai)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 2725 | 384 | 
 | 2022-11-28 | 2717 | 384 | 
 | 2022-11-27 | 2702 | 384 | 
 | 2022-11-26 | 2703 | 384 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 2556 | 371 | 
 | 2022-11-01 | 2548 | 371 | 
 | 2022-10-31 | 2543 | 370 | 
-| 2022-10-30 | 2535 | 370 | 
 

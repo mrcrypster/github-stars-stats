@@ -1,8 +1,8 @@
 # alelievr/libft-unit-test - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 88
+☋ Forks: 89
 
 ★ Stars: 390
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 390 | 89 | 
 | 2022-11-28 | 390 | 88 | 
 | 2022-11-27 | 390 | 88 | 
 | 2022-11-26 | 390 | 88 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 377 | 85 | 
 | 2022-11-01 | 377 | 85 | 
 | 2022-10-31 | 376 | 86 | 
-| 2022-10-30 | 376 | 86 | 
 

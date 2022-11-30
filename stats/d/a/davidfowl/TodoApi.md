@@ -1,10 +1,10 @@
 # davidfowl/TodoApi - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 30
 
-☋ Forks: 121
+☋ Forks: 127
 
-★ Stars: 978
+★ Stars: 1064
 
 [Open repository](https://github.com/davidfowl/TodoApi)
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 1064 | 127 | 
+| 2022-11-29 | 1056 | 127 | 
 | 2022-11-28 | 978 | 121 | 
 | 2022-11-27 | 853 | 108 | 
 | 2022-11-26 | 787 | 99 | 

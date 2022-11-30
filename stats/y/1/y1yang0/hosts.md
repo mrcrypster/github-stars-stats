@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 29
 
 ☋ Forks: 7646
 
-★ Stars: 16576
+★ Stars: 16577
 
 [Open repository](https://github.com/y1yang0/hosts)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-29 | 16576 | 7646 | 
+| 2022-11-29 | 16577 | 7646 | 
 | 2022-11-28 | 16576 | 7646 | 
 

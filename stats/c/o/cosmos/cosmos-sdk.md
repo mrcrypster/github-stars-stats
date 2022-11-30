@@ -1,10 +1,10 @@
 # cosmos/cosmos-sdk - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 2342
+☋ Forks: 2349
 
-★ Stars: 4699
+★ Stars: 4703
 
 [Open repository](https://github.com/cosmos/cosmos-sdk)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 4703 | 2349 | 
 | 2022-11-28 | 4699 | 2342 | 
 | 2022-11-27 | 4699 | 2338 | 
 | 2022-11-26 | 4698 | 2339 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 4634 | 2275 | 
 | 2022-11-01 | 4632 | 2272 | 
 | 2022-10-31 | 4623 | 2271 | 
-| 2022-10-30 | 4617 | 2265 | 
 

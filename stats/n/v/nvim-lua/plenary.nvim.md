@@ -1,8 +1,8 @@
 # nvim-lua/plenary.nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 177
+☋ Forks: 179
 
 ★ Stars: 1285
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 1285 | 179 | 
 | 2022-11-28 | 1285 | 177 | 
 | 2022-11-27 | 1284 | 177 | 
 | 2022-11-26 | 1283 | 177 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 1228 | 175 | 
 | 2022-11-01 | 1227 | 175 | 
 | 2022-10-31 | 1225 | 175 | 
-| 2022-10-30 | 1220 | 175 | 
 

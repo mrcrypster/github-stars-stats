@@ -1,6 +1,6 @@
 # voxpupuli/puppet-drbd - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 20 | 57 | 
 | 2022-11-28 | 20 | 57 | 
 | 2022-11-27 | 20 | 57 | 
 | 2022-11-26 | 20 | 57 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 20 | 57 | 
 | 2022-11-01 | 20 | 57 | 
 | 2022-10-31 | 20 | 57 | 
-| 2022-10-30 | 20 | 57 | 
 

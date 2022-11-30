@@ -1,6 +1,6 @@
 # lengfengwujing/IWantToRun - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 561 | 53 | 
 | 2022-11-28 | 561 | 53 | 
 | 2022-11-27 | 561 | 53 | 
 | 2022-11-26 | 561 | 53 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 557 | 53 | 
 | 2022-11-01 | 557 | 53 | 
 | 2022-10-31 | 556 | 53 | 
-| 2022-10-30 | 556 | 53 | 
 

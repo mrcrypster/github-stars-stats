@@ -1,10 +1,10 @@
 # SortableJS/vue.draggable.next - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 355
 
-★ Stars: 1950
+★ Stars: 1952
 
 [Open repository](https://github.com/SortableJS/vue.draggable.next)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 1952 | 355 | 
 | 2022-11-28 | 1950 | 355 | 
 | 2022-11-27 | 1949 | 355 | 
 | 2022-11-26 | 1949 | 355 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 1873 | 344 | 
 | 2022-11-01 | 1870 | 344 | 
 | 2022-10-31 | 1863 | 344 | 
-| 2022-10-30 | 1862 | 341 | 
 

@@ -1,10 +1,10 @@
 # Querz/mcaselector - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 142
 
-★ Stars: 2007
+★ Stars: 2012
 
 [Open repository](https://github.com/Querz/mcaselector)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 2012 | 142 | 
 | 2022-11-28 | 2007 | 142 | 
 | 2022-11-27 | 2005 | 143 | 
 | 2022-11-26 | 2006 | 143 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 1976 | 143 | 
 | 2022-11-01 | 1976 | 142 | 
 | 2022-10-31 | 1972 | 141 | 
-| 2022-10-30 | 1970 | 141 | 
 

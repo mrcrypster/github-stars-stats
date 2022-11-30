@@ -1,6 +1,6 @@
 # 6r6/maicai.ddxq.tools - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 117 | 47 | 
 | 2022-11-28 | 117 | 47 | 
 | 2022-11-27 | 117 | 47 | 
 | 2022-11-26 | 117 | 47 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 117 | 48 | 
 | 2022-11-01 | 117 | 48 | 
 | 2022-10-31 | 117 | 48 | 
-| 2022-10-30 | 117 | 48 | 
 

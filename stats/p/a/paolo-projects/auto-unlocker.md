@@ -1,10 +1,10 @@
 # paolo-projects/auto-unlocker - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 382
 
-★ Stars: 2649
+★ Stars: 2650
 
 [Open repository](https://github.com/paolo-projects/auto-unlocker)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 2650 | 382 | 
 | 2022-11-28 | 2649 | 382 | 
 | 2022-11-27 | 2648 | 382 | 
 | 2022-11-26 | 2641 | 380 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-03 | 2574 | 371 | 
 | 2022-11-02 | 2572 | 371 | 
 | 2022-11-01 | 2569 | 371 | 
-| 2022-10-31 | 2568 | 371 | 
 

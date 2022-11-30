@@ -1,6 +1,6 @@
 # asg017/sqlite-lines - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 335 | 9 | 
 | 2022-11-28 | 335 | 9 | 
 | 2022-11-27 | 335 | 9 | 
 | 2022-11-26 | 335 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 332 | 9 | 
 | 2022-11-01 | 331 | 9 | 
 | 2022-10-31 | 331 | 9 | 
-| 2022-10-30 | 331 | 9 | 
 

@@ -1,10 +1,10 @@
 # facebook/zstd - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 1796
+☋ Forks: 1794
 
-★ Stars: 18713
+★ Stars: 18720
 
 [Open repository](https://github.com/facebook/zstd)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 18720 | 1794 | 
 | 2022-11-28 | 18713 | 1796 | 
 | 2022-11-27 | 18708 | 1796 | 
 | 2022-11-26 | 18704 | 1797 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 18577 | 1786 | 
 | 2022-11-01 | 18574 | 1785 | 
 | 2022-10-31 | 18567 | 1785 | 
-| 2022-10-30 | 18563 | 1782 | 
 

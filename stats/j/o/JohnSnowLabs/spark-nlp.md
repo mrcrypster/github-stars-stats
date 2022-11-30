@@ -1,10 +1,10 @@
 # JohnSnowLabs/spark-nlp - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 619
+☋ Forks: 620
 
-★ Stars: 3011
+★ Stars: 3013
 
 [Open repository](https://github.com/JohnSnowLabs/spark-nlp)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 3013 | 620 | 
 | 2022-11-28 | 3011 | 619 | 
 | 2022-11-27 | 3009 | 619 | 
 | 2022-11-26 | 3008 | 617 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 2987 | 613 | 
 | 2022-11-01 | 2984 | 612 | 
 | 2022-10-31 | 2980 | 610 | 
-| 2022-10-30 | 2976 | 609 | 
 

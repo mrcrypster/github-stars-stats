@@ -1,6 +1,6 @@
 # rkhatibi/puppet-cloudpassage - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 3 | 6 | 
 | 2022-11-28 | 3 | 6 | 
 | 2022-11-27 | 3 | 6 | 
 | 2022-11-26 | 3 | 6 | 

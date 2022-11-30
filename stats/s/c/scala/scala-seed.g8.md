@@ -1,6 +1,6 @@
 # scala/scala-seed.g8 - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 124
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 132 | 124 | 
 | 2022-11-28 | 132 | 124 | 
 | 2022-11-27 | 132 | 124 | 
 | 2022-11-26 | 132 | 124 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 130 | 123 | 
 | 2022-11-01 | 130 | 123 | 
 | 2022-10-31 | 130 | 123 | 
-| 2022-10-30 | 130 | 123 | 
 

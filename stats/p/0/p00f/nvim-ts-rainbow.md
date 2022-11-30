@@ -1,6 +1,6 @@
 # p00f/nvim-ts-rainbow - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 823 | 40 | 
 | 2022-11-28 | 823 | 40 | 
 | 2022-11-27 | 822 | 40 | 
 | 2022-11-26 | 817 | 40 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-03 | 789 | 36 | 
 | 2022-11-02 | 788 | 36 | 
 | 2022-11-01 | 788 | 36 | 
-| 2022-10-31 | 786 | 36 | 
 

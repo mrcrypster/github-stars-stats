@@ -1,10 +1,10 @@
 # rescript-lang/rescript-vscode - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 47
 
-★ Stars: 267
+★ Stars: 268
 
 [Open repository](https://github.com/rescript-lang/rescript-vscode)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 268 | 47 | 
 | 2022-11-28 | 267 | 47 | 
 | 2022-11-27 | 267 | 47 | 
 | 2022-11-26 | 267 | 47 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 262 | 46 | 
 | 2022-11-01 | 262 | 46 | 
 | 2022-10-31 | 261 | 46 | 
-| 2022-10-30 | 261 | 46 | 
 

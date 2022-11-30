@@ -1,6 +1,6 @@
 # TASEmulators/desmume - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 381
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 1850 | 381 | 
 | 2022-11-28 | 1850 | 381 | 
 | 2022-11-27 | 1849 | 380 | 
 | 2022-11-26 | 1850 | 380 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 1809 | 376 | 
 | 2022-11-01 | 1807 | 377 | 
 | 2022-10-31 | 1806 | 377 | 
-| 2022-10-30 | 1804 | 376 | 
 

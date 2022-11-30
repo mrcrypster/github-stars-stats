@@ -1,6 +1,6 @@
 # EngineHub/WorldEdit - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 773
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 2630 | 773 | 
 | 2022-11-28 | 2630 | 773 | 
 | 2022-11-27 | 2629 | 773 | 
 | 2022-11-26 | 2628 | 773 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-03 | 2607 | 768 | 
 | 2022-11-02 | 2607 | 767 | 
 | 2022-11-01 | 2607 | 767 | 
-| 2022-10-31 | 2606 | 767 | 
 

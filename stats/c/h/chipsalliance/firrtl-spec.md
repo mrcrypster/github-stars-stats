@@ -1,6 +1,6 @@
 # chipsalliance/firrtl-spec - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 16 | 11 | 
 | 2022-11-28 | 16 | 11 | 
 | 2022-11-27 | 16 | 10 | 
 | 2022-11-26 | 16 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 15 | 10 | 
 | 2022-11-01 | 14 | 10 | 
 | 2022-10-31 | 14 | 10 | 
-| 2022-10-30 | 14 | 10 | 
 

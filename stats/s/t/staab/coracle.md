@@ -1,6 +1,6 @@
 # staab/coracle - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 2
 
@@ -13,5 +13,6 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 9 | 2 | 
 | 2022-11-28 | 9 | 2 | 
 

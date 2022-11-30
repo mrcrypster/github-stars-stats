@@ -1,6 +1,6 @@
 # corybrunson/ggalluvial - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 426 | 29 | 
 | 2022-11-28 | 426 | 29 | 
 | 2022-11-27 | 426 | 29 | 
 | 2022-11-26 | 426 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 426 | 29 | 
 | 2022-11-01 | 425 | 29 | 
 | 2022-10-31 | 425 | 29 | 
-| 2022-10-30 | 425 | 29 | 
 

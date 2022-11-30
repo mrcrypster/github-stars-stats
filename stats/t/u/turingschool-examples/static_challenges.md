@@ -1,6 +1,6 @@
 # turingschool-examples/static_challenges - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 713
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | - | 713 | 
 | 2022-11-28 | - | 713 | 
 | 2022-11-27 | - | 707 | 
 | 2022-11-26 | - | 707 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | - | 691 | 
 | 2022-11-01 | - | 691 | 
 | 2022-10-31 | - | 691 | 
-| 2022-10-30 | - | 691 | 
 

@@ -1,8 +1,8 @@
 # SkriptLang/Skript - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 298
+☋ Forks: 299
 
 ★ Stars: 742
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 742 | 299 | 
 | 2022-11-28 | 742 | 298 | 
 | 2022-11-27 | 741 | 298 | 
 | 2022-11-26 | 740 | 299 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-03 | 722 | 297 | 
 | 2022-11-02 | 721 | 297 | 
 | 2022-11-01 | 721 | 296 | 
-| 2022-10-31 | 721 | 296 | 
 

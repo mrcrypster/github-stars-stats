@@ -1,6 +1,6 @@
 # macloujulian/nodejsapp - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 1 | 61 | 
 | 2022-11-28 | 1 | 61 | 
 | 2022-11-27 | 1 | 61 | 
 | 2022-11-26 | 1 | 61 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 1 | 58 | 
 | 2022-11-01 | 1 | 58 | 
 | 2022-10-31 | 1 | 58 | 
-| 2022-10-30 | 1 | 58 | 
 

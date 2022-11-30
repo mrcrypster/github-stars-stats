@@ -1,6 +1,6 @@
 # eugene-krivosheyev/podman - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 1 | 23 | 
 | 2022-11-28 | 1 | 23 | 
 | 2022-11-27 | 1 | 23 | 
 | 2022-11-26 | 1 | 23 | 

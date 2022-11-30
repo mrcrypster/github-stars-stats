@@ -1,8 +1,8 @@
 # peburrows/goth - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 98
+☋ Forks: 97
 
 ★ Stars: 251
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 251 | 97 | 
 | 2022-11-28 | 251 | 98 | 
 | 2022-11-27 | 251 | 98 | 
 | 2022-11-26 | 251 | 98 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 251 | 98 | 
 | 2022-11-01 | 251 | 99 | 
 | 2022-10-31 | 251 | 99 | 
-| 2022-10-30 | 251 | 99 | 
 

@@ -1,10 +1,10 @@
 # lorien/awesome-web-scraping - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 740
+☋ Forks: 743
 
-★ Stars: 5522
+★ Stars: 5523
 
 [Open repository](https://github.com/lorien/awesome-web-scraping)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 5523 | 743 | 
 | 2022-11-28 | 5522 | 740 | 
 | 2022-11-27 | 5521 | 740 | 
 | 2022-11-26 | 5521 | 740 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 5461 | 736 | 
 | 2022-11-01 | 5459 | 735 | 
 | 2022-10-31 | 5457 | 735 | 
-| 2022-10-30 | 5454 | 735 | 
 

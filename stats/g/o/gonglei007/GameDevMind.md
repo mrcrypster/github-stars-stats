@@ -1,8 +1,8 @@
 # gonglei007/GameDevMind - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 110
+☋ Forks: 111
 
 ★ Stars: 769
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 769 | 111 | 
 | 2022-11-28 | 769 | 110 | 
 | 2022-11-27 | 767 | 110 | 
 | 2022-11-26 | 763 | 110 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 685 | 102 | 
 | 2022-11-01 | 684 | 102 | 
 | 2022-10-31 | 680 | 102 | 
-| 2022-10-30 | 676 | 100 | 
 

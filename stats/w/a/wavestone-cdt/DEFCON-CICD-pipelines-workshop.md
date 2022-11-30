@@ -1,10 +1,10 @@
 # wavestone-cdt/DEFCON-CICD-pipelines-workshop - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 12
 
-★ Stars: 76
+★ Stars: 77
 
 [Open repository](https://github.com/wavestone-cdt/DEFCON-CICD-pipelines-workshop)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 77 | 12 | 
 | 2022-11-28 | 76 | 12 | 
 | 2022-11-27 | 76 | 11 | 
 | 2022-11-26 | 76 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 64 | 11 | 
 | 2022-11-01 | 63 | 11 | 
 | 2022-10-31 | 63 | 11 | 
-| 2022-10-30 | 62 | 11 | 
 

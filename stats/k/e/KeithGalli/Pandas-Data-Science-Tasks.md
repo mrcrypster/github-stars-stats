@@ -1,10 +1,10 @@
 # KeithGalli/Pandas-Data-Science-Tasks - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 2343
 
-★ Stars: 643
+★ Stars: 642
 
 [Open repository](https://github.com/KeithGalli/Pandas-Data-Science-Tasks)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 642 | 2343 | 
 | 2022-11-28 | 643 | 2343 | 
 | 2022-11-27 | 643 | 2339 | 
 | 2022-11-26 | 643 | 2338 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 634 | 2306 | 
 | 2022-11-01 | 632 | 2306 | 
 | 2022-10-31 | 632 | 2300 | 
-| 2022-10-30 | 631 | 2297 | 
 

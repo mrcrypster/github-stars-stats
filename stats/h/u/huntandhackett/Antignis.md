@@ -1,10 +1,10 @@
 # huntandhackett/Antignis - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 1
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/huntandhackett/Antignis)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 33 | 1 | 
 | 2022-11-28 | 32 | 1 | 
 | 2022-11-27 | 32 | 1 | 
 | 2022-11-26 | 32 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 30 | 1 | 
 | 2022-11-01 | 30 | 1 | 
 | 2022-10-31 | 30 | 1 | 
-| 2022-10-30 | 29 | 1 | 
 

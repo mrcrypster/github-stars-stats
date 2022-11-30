@@ -1,10 +1,10 @@
 # fw876/helloworld - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 1815
 
-★ Stars: 2636
+★ Stars: 2639
 
 [Open repository](https://github.com/fw876/helloworld)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 2639 | 1815 | 
 | 2022-11-28 | 2636 | 1815 | 
 | 2022-11-27 | 2636 | 1813 | 
 | 2022-11-26 | 2633 | 1812 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 2601 | 1789 | 
 | 2022-11-01 | 2601 | 1789 | 
 | 2022-10-31 | 2597 | 1788 | 
-| 2022-10-30 | 2597 | 1788 | 
 

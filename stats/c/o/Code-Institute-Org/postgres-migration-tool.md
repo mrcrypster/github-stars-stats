@@ -1,8 +1,8 @@
 # Code-Institute-Org/postgres-migration-tool - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 13
+☋ Forks: 14
 
 ★ Stars: 15
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 15 | 14 | 
 | 2022-11-28 | 15 | 13 | 
 | 2022-11-27 | 13 | 11 | 
 | 2022-11-26 | 12 | 11 | 

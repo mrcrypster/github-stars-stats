@@ -1,10 +1,10 @@
 # solana-labs/token-list - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 12033
+☋ Forks: 12034
 
-★ Stars: 1248
+★ Stars: 1247
 
 [Open repository](https://github.com/solana-labs/token-list)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 1247 | 12034 | 
 | 2022-11-28 | 1248 | 12033 | 
 | 2022-11-27 | 1248 | 12032 | 
 | 2022-11-26 | 1248 | 12031 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 1240 | 11985 | 
 | 2022-11-01 | 1240 | 11981 | 
 | 2022-10-31 | 1240 | 11975 | 
-| 2022-10-30 | 1237 | 11968 | 
 

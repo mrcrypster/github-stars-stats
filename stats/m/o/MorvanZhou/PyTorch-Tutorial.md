@@ -1,10 +1,10 @@
 # MorvanZhou/PyTorch-Tutorial - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 3072
 
-★ Stars: 7172
+★ Stars: 7178
 
 [Open repository](https://github.com/MorvanZhou/PyTorch-Tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 7178 | 3072 | 
 | 2022-11-28 | 7172 | 3072 | 
 | 2022-11-27 | 7171 | 3072 | 
 | 2022-11-26 | 7170 | 3073 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 7118 | 3073 | 
 | 2022-11-01 | 7114 | 3072 | 
 | 2022-10-31 | 7109 | 3073 | 
-| 2022-10-30 | 7100 | 3073 | 
 

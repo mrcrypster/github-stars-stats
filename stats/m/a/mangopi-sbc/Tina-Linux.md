@@ -1,10 +1,10 @@
 # mangopi-sbc/Tina-Linux - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 27
 
-★ Stars: 45
+★ Stars: 47
 
 [Open repository](https://github.com/mangopi-sbc/Tina-Linux)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 47 | 27 | 
 | 2022-11-28 | 45 | 27 | 
 | 2022-11-27 | 45 | 27 | 
 | 2022-11-26 | 44 | 27 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 37 | 20 | 
 | 2022-11-01 | 37 | 20 | 
 | 2022-10-31 | 37 | 19 | 
-| 2022-10-30 | 36 | 18 | 
 

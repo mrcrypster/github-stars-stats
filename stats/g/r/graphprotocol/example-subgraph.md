@@ -1,6 +1,6 @@
 # graphprotocol/example-subgraph - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 115
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 143 | 115 | 
 | 2022-11-28 | 143 | 115 | 
 | 2022-11-27 | 143 | 115 | 
 | 2022-11-26 | 143 | 114 | 
@@ -40,5 +41,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-03 | 143 | 114 | 
 | 2022-11-02 | 143 | 114 | 
 | 2022-11-01 | 142 | 114 | 
-| 2022-10-31 | 140 | 113 | 
 

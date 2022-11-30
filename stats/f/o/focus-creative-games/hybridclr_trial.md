@@ -1,6 +1,6 @@
 # focus-creative-games/hybridclr_trial - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 85
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 251 | 85 | 
 | 2022-11-28 | 251 | 85 | 
 | 2022-11-27 | 251 | 85 | 
 | 2022-11-26 | 250 | 85 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 224 | 78 | 
 | 2022-11-01 | 225 | 78 | 
 | 2022-10-31 | 224 | 78 | 
-| 2022-10-30 | 221 | 78 | 
 

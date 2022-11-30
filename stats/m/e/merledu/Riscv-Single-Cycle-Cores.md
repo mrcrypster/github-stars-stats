@@ -1,6 +1,6 @@
 # merledu/Riscv-Single-Cycle-Cores - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 5 | 15 | 
 | 2022-11-28 | 5 | 15 | 
 | 2022-11-27 | 5 | 15 | 
 | 2022-11-26 | 5 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 5 | 15 | 
 | 2022-11-01 | 5 | 15 | 
 | 2022-10-31 | 4 | 15 | 
-| 2022-10-30 | 4 | 15 | 
 

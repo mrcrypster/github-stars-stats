@@ -1,10 +1,10 @@
 # linuxdeepin/unilang - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 32
 
-★ Stars: 528
+★ Stars: 530
 
 [Open repository](https://github.com/linuxdeepin/unilang)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 530 | 32 | 
 | 2022-11-28 | 528 | 32 | 
 | 2022-11-27 | 524 | 31 | 
 | 2022-11-26 | 524 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 511 | 28 | 
 | 2022-11-01 | 510 | 28 | 
 | 2022-10-31 | 509 | 28 | 
-| 2022-10-30 | 509 | 28 | 
 

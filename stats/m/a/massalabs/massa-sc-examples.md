@@ -1,6 +1,6 @@
 # massalabs/massa-sc-examples - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 5 | 9 | 
 | 2022-11-28 | 5 | 9 | 
 | 2022-11-27 | 5 | 9 | 
 | 2022-11-26 | 5 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-03 | 4 | 8 | 
 | 2022-11-02 | 4 | 8 | 
 | 2022-11-01 | 4 | 7 | 
-| 2022-10-31 | 4 | 7 | 
 

@@ -1,10 +1,10 @@
 # pierozannini/coolr - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 0
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/pierozannini/coolr)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 19 | - | 
 | 2022-11-28 | 18 | - | 
 | 2022-11-27 | 18 | - | 
 | 2022-11-26 | 18 | - | 

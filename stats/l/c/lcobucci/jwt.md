@@ -1,6 +1,6 @@
 # lcobucci/jwt - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 572
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 6819 | 572 | 
 | 2022-11-28 | 6819 | 572 | 
 | 2022-11-27 | 6818 | 572 | 
 | 2022-11-26 | 6818 | 572 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 6800 | 567 | 
 | 2022-11-01 | 6800 | 566 | 
 | 2022-10-31 | 6800 | 566 | 
-| 2022-10-30 | 6800 | 566 | 
 

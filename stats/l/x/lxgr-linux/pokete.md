@@ -1,10 +1,10 @@
 # lxgr-linux/pokete - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 135
 
-★ Stars: 2522
+★ Stars: 2523
 
 [Open repository](https://github.com/lxgr-linux/pokete)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 2523 | 135 | 
 | 2022-11-28 | 2522 | 135 | 
 | 2022-11-27 | 2523 | 135 | 
 | 2022-11-26 | 2523 | 135 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 2514 | 132 | 
 | 2022-11-01 | 2515 | 132 | 
 | 2022-10-31 | 2514 | 132 | 
-| 2022-10-30 | 2513 | 132 | 
 

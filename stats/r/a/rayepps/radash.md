@@ -1,10 +1,10 @@
 # rayepps/radash - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 59
 
-★ Stars: 1832
+★ Stars: 1835
 
 [Open repository](https://github.com/rayepps/radash)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 1835 | 59 | 
 | 2022-11-28 | 1832 | 59 | 
 | 2022-11-27 | 1830 | 59 | 
 | 2022-11-26 | 1828 | 59 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-03 | 1805 | 58 | 
 | 2022-11-02 | 1800 | 58 | 
 | 2022-11-01 | 1792 | 59 | 
-| 2022-10-31 | 1788 | 59 | 
 

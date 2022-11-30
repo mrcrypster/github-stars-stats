@@ -1,10 +1,10 @@
 # gustavoguanabara/git-github - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 1072
+☋ Forks: 1073
 
-★ Stars: 1912
+★ Stars: 1914
 
 [Open repository](https://github.com/gustavoguanabara/git-github)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 1914 | 1073 | 
 | 2022-11-28 | 1912 | 1072 | 
 | 2022-11-27 | 1912 | 1072 | 
 | 2022-11-26 | 1910 | 1071 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 1882 | 1055 | 
 | 2022-11-01 | 1881 | 1055 | 
 | 2022-10-31 | 1881 | 1054 | 
-| 2022-10-30 | 1881 | 1054 | 
 

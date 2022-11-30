@@ -1,6 +1,6 @@
 # xz5116/ActivateMicrosoftProduct - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 6 | 25 | 
 | 2022-11-29 | 6 | 25 | 
 | 2022-11-28 | 6 | 25 | 
 | 2022-11-26 | 6 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 6 | 23 | 
 | 2022-11-02 | 6 | 23 | 
 | 2022-11-01 | 6 | 23 | 
-| 2022-10-30 | 6 | 23 | 
 

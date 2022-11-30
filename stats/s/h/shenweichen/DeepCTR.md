@@ -1,6 +1,6 @@
 # shenweichen/DeepCTR - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 2019
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 6518 | 2019 | 
 | 2022-11-28 | 6518 | 2019 | 
 | 2022-11-27 | 6516 | 2018 | 
 | 2022-11-26 | 6511 | 2018 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 6468 | 2006 | 
 | 2022-11-01 | 6465 | 2006 | 
 | 2022-10-31 | 6465 | 2005 | 
-| 2022-10-30 | 6463 | 2005 | 
 

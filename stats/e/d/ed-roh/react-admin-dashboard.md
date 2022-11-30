@@ -1,10 +1,10 @@
 # ed-roh/react-admin-dashboard - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 271
+☋ Forks: 278
 
-★ Stars: 261
+★ Stars: 265
 
 [Open repository](https://github.com/ed-roh/react-admin-dashboard)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 265 | 278 | 
 | 2022-11-28 | 261 | 271 | 
 | 2022-11-27 | 254 | 264 | 
 | 2022-11-26 | 248 | 259 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 167 | 126 | 
 | 2022-11-01 | 158 | 120 | 
 | 2022-10-31 | 153 | 116 | 
-| 2022-10-30 | 151 | 112 | 
 

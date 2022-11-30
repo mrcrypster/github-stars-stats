@@ -1,8 +1,8 @@
 # privacy-scaling-explorations/zkevm-circuits - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 209
+☋ Forks: 210
 
 ★ Stars: 425
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 425 | 210 | 
 | 2022-11-28 | 425 | 209 | 
 | 2022-11-27 | 424 | 209 | 
 | 2022-11-26 | 423 | 209 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-03 | 393 | 196 | 
 | 2022-11-02 | 391 | 195 | 
 | 2022-11-01 | 389 | 194 | 
-| 2022-10-31 | 388 | 194 | 
 

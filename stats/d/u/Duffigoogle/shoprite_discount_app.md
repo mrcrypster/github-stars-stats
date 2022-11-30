@@ -1,6 +1,6 @@
 # Duffigoogle/shoprite_discount_app - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | - | 8 | 
 | 2022-11-28 | - | 8 | 
 | 2022-11-27 | - | 8 | 
 | 2022-11-26 | - | 8 | 

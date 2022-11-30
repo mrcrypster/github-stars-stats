@@ -1,6 +1,6 @@
 # bandprotocol/bandchain - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 230 | 60 | 
 | 2022-11-28 | 230 | 60 | 
 | 2022-11-27 | 230 | 60 | 
 | 2022-11-26 | 230 | 60 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 230 | 59 | 
 | 2022-11-01 | 230 | 59 | 
 | 2022-10-31 | 230 | 59 | 
-| 2022-10-30 | 230 | 59 | 
 

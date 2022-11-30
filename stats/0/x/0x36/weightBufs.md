@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 29
 
 ☋ Forks: 16
 
-★ Stars: 205
+★ Stars: 206
 
 [Open repository](https://github.com/0x36/weightBufs)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-29 | 205 | 16 | 
+| 2022-11-29 | 206 | 16 | 
 | 2022-11-28 | 205 | 16 | 
 | 2022-11-27 | 202 | 16 | 
 | 2022-11-26 | 198 | 16 | 

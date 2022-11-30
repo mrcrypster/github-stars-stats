@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 29
 
-☋ Forks: 21
+☋ Forks: 32
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/BL-MSCH-C220-F22/Exercise-06d-Unit-Testing)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-29 | 1 | 21 | 
+| 2022-11-29 | 2 | 32 | 
 | 2022-11-28 | 1 | 17 | 
 | 2022-11-27 | - | 8 | 
 | 2022-11-26 | - | 7 | 

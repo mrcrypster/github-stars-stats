@@ -1,10 +1,10 @@
 # facebookresearch/ParlAI - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 1964
+☋ Forks: 1967
 
-★ Stars: 9619
+★ Stars: 9623
 
 [Open repository](https://github.com/facebookresearch/ParlAI)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 9623 | 1967 | 
 | 2022-11-28 | 9619 | 1964 | 
 | 2022-11-27 | 9619 | 1963 | 
 | 2022-11-26 | 9613 | 1961 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 9519 | 1941 | 
 | 2022-11-01 | 9517 | 1941 | 
 | 2022-10-31 | 9514 | 1940 | 
-| 2022-10-30 | 9513 | 1939 | 
 

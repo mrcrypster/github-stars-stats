@@ -1,6 +1,6 @@
 # ludovicchabant/vim-gutentags - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 159
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 2134 | 159 | 
 | 2022-11-28 | 2134 | 159 | 
 | 2022-11-27 | 2134 | 158 | 
 | 2022-11-26 | 2134 | 158 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 2123 | 157 | 
 | 2022-11-01 | 2123 | 157 | 
 | 2022-10-31 | 2122 | 157 | 
-| 2022-10-30 | 2122 | 157 | 
 

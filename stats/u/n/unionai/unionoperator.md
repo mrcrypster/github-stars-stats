@@ -1,10 +1,10 @@
 # unionai/unionoperator - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 2
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/unionai/unionoperator)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 5 | 2 | 
 | 2022-11-28 | 4 | 2 | 
 | 2022-11-27 | 4 | 2 | 
 | 2022-11-26 | 4 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 3 | 2 | 
 | 2022-11-01 | 3 | 2 | 
 | 2022-10-31 | 3 | 2 | 
-| 2022-10-30 | 3 | 2 | 
 

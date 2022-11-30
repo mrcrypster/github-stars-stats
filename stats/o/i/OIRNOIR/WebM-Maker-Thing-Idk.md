@@ -1,8 +1,8 @@
 # OIRNOIR/WebM-Maker-Thing-Idk - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 30
 
-☋ Forks: 64
+☋ Forks: 63
 
 ★ Stars: 552
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 552 | 63 | 
 | 2022-11-28 | 552 | 64 | 
 | 2022-11-27 | 552 | 64 | 
 | 2022-11-26 | 552 | 64 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 537 | 61 | 
 | 2022-11-01 | 535 | 61 | 
 | 2022-10-31 | 535 | 61 | 
-| 2022-10-30 | 535 | 61 | 
 

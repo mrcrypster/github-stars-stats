@@ -1,6 +1,6 @@
 # inspurer/WorkAttendanceSystem - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 201
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 455 | 201 | 
 | 2022-11-28 | 455 | 201 | 
 | 2022-11-27 | 454 | 200 | 
 | 2022-11-26 | 453 | 200 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-03 | 446 | 201 | 
 | 2022-11-02 | 446 | 201 | 
 | 2022-11-01 | 446 | 201 | 
-| 2022-10-31 | 446 | 201 | 
 

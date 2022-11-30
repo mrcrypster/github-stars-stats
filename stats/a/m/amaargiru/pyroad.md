@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 29
 
 ☋ Forks: 22
 
-★ Stars: 168
+★ Stars: 171
 
 [Open repository](https://github.com/amaargiru/pyroad)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-29 | 168 | 22 | 
+| 2022-11-29 | 171 | 22 | 
 | 2022-11-28 | 168 | 22 | 
 | 2022-11-27 | 155 | 20 | 
 | 2022-11-26 | 119 | 19 | 

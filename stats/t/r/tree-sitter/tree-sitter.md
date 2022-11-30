@@ -1,10 +1,10 @@
 # tree-sitter/tree-sitter - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 584
+☋ Forks: 583
 
-★ Stars: 10265
+★ Stars: 10273
 
 [Open repository](https://github.com/tree-sitter/tree-sitter)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 10273 | 583 | 
 | 2022-11-28 | 10265 | 584 | 
 | 2022-11-27 | 10257 | 584 | 
 | 2022-11-26 | 10246 | 582 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 9916 | 566 | 
 | 2022-11-01 | 9913 | 563 | 
 | 2022-10-31 | 9910 | 564 | 
-| 2022-10-30 | 9906 | 562 | 
 

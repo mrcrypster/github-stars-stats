@@ -1,10 +1,10 @@
 # killgcd/justmysocks - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 73
 
-★ Stars: 344
+★ Stars: 345
 
 [Open repository](https://github.com/killgcd/justmysocks)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 345 | 73 | 
 | 2022-11-28 | 344 | 73 | 
 | 2022-11-27 | 344 | 73 | 
 | 2022-11-26 | 343 | 73 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 338 | 71 | 
 | 2022-11-01 | 338 | 71 | 
 | 2022-10-31 | 338 | 71 | 
-| 2022-10-30 | 338 | 71 | 
 

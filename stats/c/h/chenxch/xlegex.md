@@ -1,10 +1,10 @@
 # chenxch/xlegex - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 42
 
-★ Stars: 135
+★ Stars: 136
 
 [Open repository](https://github.com/chenxch/xlegex)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 136 | 42 | 
 | 2022-11-28 | 135 | 42 | 
 | 2022-11-27 | 135 | 42 | 
 | 2022-11-26 | 135 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 117 | 35 | 
 | 2022-11-01 | 114 | 35 | 
 | 2022-10-31 | 113 | 35 | 
-| 2022-10-30 | 109 | 34 | 
 

@@ -1,10 +1,10 @@
 # savonet/liquidsoap - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 107
 
-★ Stars: 1031
+★ Stars: 1032
 
 [Open repository](https://github.com/savonet/liquidsoap)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 1032 | 107 | 
 | 2022-11-28 | 1031 | 107 | 
 | 2022-11-27 | 1031 | 107 | 
 | 2022-11-26 | 1031 | 107 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-03 | 1023 | 108 | 
 | 2022-11-02 | 1023 | 108 | 
 | 2022-11-01 | 1023 | 108 | 
-| 2022-10-31 | 1022 | 108 | 
 

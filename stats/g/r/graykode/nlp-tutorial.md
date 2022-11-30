@@ -1,10 +1,10 @@
 # graykode/nlp-tutorial - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 3548
+☋ Forks: 3549
 
-★ Stars: 11774
+★ Stars: 11775
 
 [Open repository](https://github.com/graykode/nlp-tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 11775 | 3549 | 
 | 2022-11-28 | 11774 | 3548 | 
 | 2022-11-27 | 11769 | 3544 | 
 | 2022-11-26 | 11768 | 3541 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 11656 | 3505 | 
 | 2022-11-01 | 11649 | 3504 | 
 | 2022-10-31 | 11645 | 3499 | 
-| 2022-10-30 | 11639 | 3496 | 
 

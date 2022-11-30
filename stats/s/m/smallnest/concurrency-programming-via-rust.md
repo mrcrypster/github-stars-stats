@@ -1,10 +1,10 @@
 # smallnest/concurrency-programming-via-rust - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 38
+☋ Forks: 37
 
-★ Stars: 1032
+★ Stars: 1035
 
 [Open repository](https://github.com/smallnest/concurrency-programming-via-rust)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 1035 | 37 | 
 | 2022-11-28 | 1032 | 38 | 
 | 2022-11-27 | 1032 | 38 | 
 | 2022-11-26 | 1031 | 38 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 984 | 34 | 
 | 2022-11-01 | 980 | 33 | 
 | 2022-10-31 | 977 | 33 | 
-| 2022-10-30 | 972 | 33 | 
 

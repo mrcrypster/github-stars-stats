@@ -1,6 +1,6 @@
 # blueimp/jQuery-File-Upload - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 8169
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 31056 | 8169 | 
 | 2022-11-28 | 31056 | 8169 | 
 | 2022-11-27 | 31056 | 8168 | 
 | 2022-11-26 | 31057 | 8168 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 31053 | 8180 | 
 | 2022-11-01 | 31055 | 8180 | 
 | 2022-10-31 | 31055 | 8181 | 
-| 2022-10-30 | 31055 | 8182 | 
 

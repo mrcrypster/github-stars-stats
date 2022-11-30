@@ -1,6 +1,6 @@
 # nrepl/nrepl - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 91
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 637 | 91 | 
 | 2022-11-28 | 637 | 91 | 
 | 2022-11-27 | 637 | 91 | 
 | 2022-11-26 | 638 | 91 | 

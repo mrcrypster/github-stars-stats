@@ -1,10 +1,10 @@
 # wraikny/Do.fs - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 1
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/wraikny/Do.fs)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 16 | 1 | 
 | 2022-11-28 | 15 | 1 | 
 | 2022-11-27 | 15 | 1 | 
 | 2022-11-26 | 15 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 15 | 1 | 
 | 2022-11-01 | 15 | 1 | 
 | 2022-10-31 | 15 | 1 | 
-| 2022-10-30 | 15 | 1 | 
 

@@ -1,6 +1,6 @@
 # thinca/vim-quickrun - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 105
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 740 | 105 | 
 | 2022-11-28 | 740 | 105 | 
 | 2022-11-27 | 740 | 105 | 
 | 2022-11-26 | 740 | 105 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 740 | 105 | 
 | 2022-11-01 | 740 | 105 | 
 | 2022-10-31 | 740 | 105 | 
-| 2022-10-30 | 741 | 105 | 
 

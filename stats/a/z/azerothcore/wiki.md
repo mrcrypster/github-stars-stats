@@ -1,8 +1,8 @@
 # azerothcore/wiki - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 324
+☋ Forks: 326
 
 ★ Stars: 46
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 46 | 326 | 
 | 2022-11-29 | 46 | 324 | 
 | 2022-11-28 | 46 | 322 | 
 | 2022-11-27 | 46 | 322 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-02 | 46 | 317 | 
 | 2022-11-01 | 46 | 317 | 
 | 2022-10-31 | 46 | 317 | 
-| 2022-10-30 | 46 | 317 | 
 

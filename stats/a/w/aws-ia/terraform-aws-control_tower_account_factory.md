@@ -1,6 +1,6 @@
 # aws-ia/terraform-aws-control_tower_account_factory - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 194
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 347 | 194 | 
 | 2022-11-28 | 347 | 194 | 
 | 2022-11-27 | 347 | 193 | 
 | 2022-11-26 | 347 | 193 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 332 | 176 | 
 | 2022-11-01 | 332 | 176 | 
 | 2022-10-31 | 332 | 174 | 
-| 2022-10-30 | 332 | 174 | 
 

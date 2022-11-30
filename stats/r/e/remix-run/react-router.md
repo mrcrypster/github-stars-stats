@@ -1,10 +1,10 @@
 # remix-run/react-router - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 9631
+☋ Forks: 9632
 
-★ Stars: 48912
+★ Stars: 48917
 
 [Open repository](https://github.com/remix-run/react-router)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 48917 | 9632 | 
 | 2022-11-28 | 48912 | 9631 | 
 | 2022-11-27 | 48901 | 9627 | 
 | 2022-11-26 | 48894 | 9625 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 48656 | 9552 | 
 | 2022-11-01 | 48643 | 9548 | 
 | 2022-10-31 | 48630 | 9545 | 
-| 2022-10-30 | 48619 | 9545 | 
 

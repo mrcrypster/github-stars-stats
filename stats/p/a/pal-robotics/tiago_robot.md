@@ -1,6 +1,6 @@
 # pal-robotics/tiago_robot - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 18 | 25 | 
 | 2022-11-28 | 18 | 25 | 
 | 2022-11-27 | 18 | 24 | 
 | 2022-11-26 | 18 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 18 | 20 | 
 | 2022-11-01 | 18 | 20 | 
 | 2022-10-31 | 18 | 20 | 
-| 2022-10-30 | 18 | 20 | 
 

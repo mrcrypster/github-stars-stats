@@ -1,6 +1,6 @@
 # cplusplus/papers - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 458 | 16 | 
 | 2022-11-28 | 458 | 16 | 
 | 2022-11-27 | 457 | 16 | 
 | 2022-11-26 | 457 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 447 | 16 | 
 | 2022-11-01 | 447 | 16 | 
 | 2022-10-31 | 447 | 16 | 
-| 2022-10-30 | 447 | 16 | 
 

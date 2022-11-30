@@ -1,10 +1,10 @@
 # preactjs/preact - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 1840
 
-★ Stars: 33379
+★ Stars: 33384
 
 [Open repository](https://github.com/preactjs/preact)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 33384 | 1840 | 
 | 2022-11-28 | 33379 | 1840 | 
 | 2022-11-27 | 33372 | 1840 | 
 | 2022-11-26 | 33360 | 1838 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 33235 | 1828 | 
 | 2022-11-01 | 33222 | 1828 | 
 | 2022-10-31 | 33207 | 1828 | 
-| 2022-10-30 | 33202 | 1828 | 
 

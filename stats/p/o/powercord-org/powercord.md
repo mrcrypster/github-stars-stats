@@ -1,10 +1,10 @@
 # powercord-org/powercord - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 172
 
-★ Stars: 1219
+★ Stars: 1218
 
 [Open repository](https://github.com/powercord-org/powercord)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 1218 | 172 | 
 | 2022-11-28 | 1219 | 172 | 
 | 2022-11-27 | 1219 | 172 | 
 | 2022-11-26 | 1218 | 172 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 1221 | 175 | 
 | 2022-11-01 | 1221 | 175 | 
 | 2022-10-31 | 1221 | 175 | 
-| 2022-10-30 | 1220 | 175 | 
 

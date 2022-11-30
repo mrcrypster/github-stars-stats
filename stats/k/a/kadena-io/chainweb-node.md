@@ -1,8 +1,8 @@
 # kadena-io/chainweb-node - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 82
+☋ Forks: 83
 
 ★ Stars: 209
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 209 | 83 | 
 | 2022-11-28 | 209 | 82 | 
 | 2022-11-27 | 209 | 82 | 
 | 2022-11-26 | 209 | 82 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-03 | 209 | 82 | 
 | 2022-11-02 | 209 | 82 | 
 | 2022-11-01 | 208 | 82 | 
-| 2022-10-31 | 208 | 82 | 
 

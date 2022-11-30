@@ -1,10 +1,10 @@
 # LabyrinthCore/Labyrinth - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 4
 
-★ Stars: 38
+★ Stars: 39
 
 [Open repository](https://github.com/LabyrinthCore/Labyrinth)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 39 | 4 | 
 | 2022-11-29 | 38 | 4 | 
 | 2022-11-28 | 38 | 4 | 
 | 2022-11-26 | 38 | 4 | 

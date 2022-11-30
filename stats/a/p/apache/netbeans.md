@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 29
 
 ☋ Forks: 728
 
-★ Stars: 2088
+★ Stars: 2089
 
 [Open repository](https://github.com/apache/netbeans)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-29 | 2088 | 728 | 
+| 2022-11-29 | 2089 | 728 | 
 | 2022-11-28 | 2088 | 728 | 
 

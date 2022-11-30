@@ -1,10 +1,10 @@
 # doublecmd/doublecmd - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 120
 
-★ Stars: 1321
+★ Stars: 1324
 
 [Open repository](https://github.com/doublecmd/doublecmd)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 1324 | 120 | 
 | 2022-11-28 | 1321 | 120 | 
 | 2022-11-27 | 1318 | 120 | 
 | 2022-11-26 | 1315 | 120 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 1281 | 116 | 
 | 2022-11-01 | 1280 | 116 | 
 | 2022-10-31 | 1277 | 116 | 
-| 2022-10-30 | 1275 | 117 | 
 

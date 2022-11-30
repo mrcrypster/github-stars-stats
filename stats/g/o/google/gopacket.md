@@ -1,10 +1,10 @@
 # google/gopacket - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 974
+☋ Forks: 975
 
-★ Stars: 5251
+★ Stars: 5255
 
 [Open repository](https://github.com/google/gopacket)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 5255 | 975 | 
 | 2022-11-28 | 5251 | 974 | 
 | 2022-11-27 | 5247 | 973 | 
 | 2022-11-26 | 5246 | 972 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 5190 | 971 | 
 | 2022-11-01 | 5186 | 971 | 
 | 2022-10-31 | 5185 | 970 | 
-| 2022-10-30 | 5183 | 970 | 
 

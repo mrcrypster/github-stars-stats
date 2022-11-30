@@ -1,10 +1,10 @@
 # niuhuan/daisy - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 12
 
-★ Stars: 292
+★ Stars: 293
 
 [Open repository](https://github.com/niuhuan/daisy)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 293 | 12 | 
 | 2022-11-28 | 292 | 12 | 
 | 2022-11-27 | 291 | 12 | 
 | 2022-11-26 | 291 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 257 | 10 | 
 | 2022-11-01 | 257 | 10 | 
 | 2022-10-31 | 255 | 10 | 
-| 2022-10-30 | 254 | 10 | 
 

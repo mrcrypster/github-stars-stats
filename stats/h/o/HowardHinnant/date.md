@@ -1,6 +1,6 @@
 # HowardHinnant/date - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 593
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 2701 | 593 | 
 | 2022-11-28 | 2701 | 593 | 
 | 2022-11-27 | 2701 | 594 | 
 | 2022-11-26 | 2701 | 594 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 2684 | 594 | 
 | 2022-11-01 | 2684 | 594 | 
 | 2022-10-31 | 2683 | 594 | 
-| 2022-10-30 | 2683 | 594 | 
 

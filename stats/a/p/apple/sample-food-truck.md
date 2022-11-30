@@ -1,6 +1,6 @@
 # apple/sample-food-truck - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 79
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 1319 | 79 | 
 | 2022-11-28 | 1319 | 79 | 
 | 2022-11-27 | 1316 | 79 | 
 | 2022-11-26 | 1316 | 79 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 1279 | 78 | 
 | 2022-11-01 | 1276 | 78 | 
 | 2022-10-31 | 1276 | 78 | 
-| 2022-10-30 | 1274 | 78 | 
 

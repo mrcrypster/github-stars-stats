@@ -1,6 +1,6 @@
 # woowacourse/woowacourse-docs - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 323
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 231 | 323 | 
 | 2022-11-29 | 231 | 323 | 
 | 2022-11-28 | 231 | 323 | 
 | 2022-11-26 | 231 | 322 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-02 | 219 | 287 | 
 | 2022-11-01 | 215 | 282 | 
 | 2022-10-31 | 204 | 256 | 
-| 2022-10-30 | 194 | 234 | 
 

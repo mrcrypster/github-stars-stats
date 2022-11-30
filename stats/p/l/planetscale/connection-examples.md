@@ -1,6 +1,6 @@
 # planetscale/connection-examples - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 38 | 2 | 
 | 2022-11-28 | 38 | 2 | 
 | 2022-11-27 | 38 | 2 | 
 | 2022-11-26 | 38 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 38 | 2 | 
 | 2022-11-01 | 38 | 2 | 
 | 2022-10-31 | 38 | 2 | 
-| 2022-10-30 | 38 | 2 | 
 

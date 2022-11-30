@@ -1,10 +1,10 @@
 # tukui-org/ElvUI - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 78
 
-★ Stars: 203
+★ Stars: 207
 
 [Open repository](https://github.com/tukui-org/ElvUI)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 207 | 78 | 
 | 2022-11-28 | 203 | 78 | 
 | 2022-11-27 | 202 | 77 | 
 | 2022-11-26 | 202 | 77 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 179 | 73 | 
 | 2022-11-01 | 177 | 73 | 
 | 2022-10-31 | 177 | 73 | 
-| 2022-10-30 | 173 | 70 | 
 

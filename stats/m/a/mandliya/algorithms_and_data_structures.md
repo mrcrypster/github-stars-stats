@@ -1,8 +1,8 @@
 # mandliya/algorithms_and_data_structures - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 1242
+☋ Forks: 1243
 
 ★ Stars: 5123
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 5123 | 1243 | 
 | 2022-11-28 | 5123 | 1242 | 
 | 2022-11-27 | 5122 | 1242 | 
 | 2022-11-26 | 5116 | 1243 | 

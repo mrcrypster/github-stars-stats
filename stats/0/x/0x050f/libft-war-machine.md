@@ -1,10 +1,10 @@
 # 0x050f/libft-war-machine - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 37
 
-★ Stars: 169
+★ Stars: 170
 
 [Open repository](https://github.com/0x050f/libft-war-machine)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 170 | 37 | 
 | 2022-11-28 | 169 | 37 | 
 | 2022-11-27 | 168 | 38 | 
 | 2022-11-26 | 168 | 37 | 

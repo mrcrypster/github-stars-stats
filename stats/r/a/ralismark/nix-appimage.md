@@ -1,6 +1,6 @@
 # ralismark/nix-appimage - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 51 | 1 | 
 | 2022-11-28 | 51 | 1 | 
 | 2022-11-27 | 48 | 1 | 
 | 2022-11-26 | 46 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 46 | 1 | 
 | 2022-11-01 | 46 | 1 | 
 | 2022-10-31 | 46 | 1 | 
-| 2022-10-30 | 45 | 1 | 
 

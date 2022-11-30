@@ -1,6 +1,6 @@
 # quil/quil - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 160
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 2810 | 160 | 
 | 2022-11-28 | 2810 | 160 | 
 | 2022-11-27 | 2809 | 160 | 
 | 2022-11-26 | 2808 | 160 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 2802 | 160 | 
 | 2022-11-01 | 2802 | 160 | 
 | 2022-10-31 | 2803 | 160 | 
-| 2022-10-30 | 2803 | 160 | 
 

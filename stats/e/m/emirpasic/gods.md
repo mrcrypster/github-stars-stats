@@ -1,10 +1,10 @@
 # emirpasic/gods - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 1522
 
-★ Stars: 12879
+★ Stars: 12883
 
 [Open repository](https://github.com/emirpasic/gods)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 12883 | 1522 | 
 | 2022-11-28 | 12879 | 1522 | 
 | 2022-11-27 | 12869 | 1520 | 
 | 2022-11-26 | 12866 | 1519 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 12748 | 1503 | 
 | 2022-11-01 | 12743 | 1503 | 
 | 2022-10-31 | 12734 | 1502 | 
-| 2022-10-30 | 12731 | 1501 | 
 

@@ -1,6 +1,6 @@
 # devsuperior/sds-dsmovie - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 255
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 450 | 255 | 
 | 2022-11-28 | 450 | 255 | 
 | 2022-11-27 | 450 | 255 | 
 | 2022-11-26 | 450 | 255 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 451 | 254 | 
 | 2022-11-01 | 451 | 254 | 
 | 2022-10-31 | 451 | 254 | 
-| 2022-10-30 | 451 | 254 | 
 

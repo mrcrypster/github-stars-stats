@@ -1,6 +1,6 @@
 # mytechnotalent/Hacking-Windows - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 83
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 1058 | 83 | 
 | 2022-11-28 | 1058 | 83 | 
 | 2022-11-27 | 1057 | 83 | 
 | 2022-11-26 | 1057 | 83 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 1046 | 82 | 
 | 2022-11-01 | 1045 | 82 | 
 | 2022-10-31 | 1044 | 82 | 
-| 2022-10-30 | 1043 | 82 | 
 

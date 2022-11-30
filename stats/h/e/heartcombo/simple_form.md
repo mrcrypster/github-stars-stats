@@ -1,10 +1,10 @@
 # heartcombo/simple_form - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 1315
 
-★ Stars: 8049
+★ Stars: 8050
 
 [Open repository](https://github.com/heartcombo/simple_form)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 8050 | 1315 | 
 | 2022-11-28 | 8049 | 1315 | 
 | 2022-11-27 | 8049 | 1315 | 
 | 2022-11-26 | 8048 | 1315 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 8035 | 1314 | 
 | 2022-11-01 | 8034 | 1314 | 
 | 2022-10-31 | 8034 | 1314 | 
-| 2022-10-30 | 8034 | 1314 | 
 

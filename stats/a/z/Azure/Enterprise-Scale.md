@@ -1,8 +1,8 @@
 # Azure/Enterprise-Scale - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 757
+☋ Forks: 758
 
 ★ Stars: 1161
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 1161 | 758 | 
 | 2022-11-28 | 1161 | 757 | 
 | 2022-11-27 | 1161 | 757 | 
 | 2022-11-26 | 1161 | 757 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 1142 | 741 | 
 | 2022-11-01 | 1141 | 741 | 
 | 2022-10-31 | 1139 | 738 | 
-| 2022-10-30 | 1139 | 738 | 
 

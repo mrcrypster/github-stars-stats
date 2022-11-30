@@ -1,6 +1,6 @@
 # liyupi/yuindex - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 604
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 1591 | 604 | 
 | 2022-11-28 | 1591 | 604 | 
 | 2022-11-27 | 1589 | 604 | 
 | 2022-11-26 | 1589 | 604 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 1560 | 588 | 
 | 2022-11-01 | 1559 | 589 | 
 | 2022-10-31 | 1556 | 585 | 
-| 2022-10-30 | 1555 | 586 | 
 

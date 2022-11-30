@@ -1,10 +1,10 @@
 # soxoj/maigret - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 548
+☋ Forks: 547
 
-★ Stars: 7542
+★ Stars: 7550
 
 [Open repository](https://github.com/soxoj/maigret)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 7550 | 547 | 
 | 2022-11-28 | 7542 | 548 | 
 | 2022-11-27 | 7535 | 547 | 
 | 2022-11-26 | 7524 | 547 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 7238 | 535 | 
 | 2022-11-01 | 7190 | 534 | 
 | 2022-10-31 | 7165 | 532 | 
-| 2022-10-30 | 7156 | 532 | 
 

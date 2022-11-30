@@ -1,6 +1,6 @@
 # MiSTer-devel/PokemonMini_MiSTer - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 7 | 1 | 
 | 2022-11-28 | 7 | 1 | 
 | 2022-11-27 | 7 | 1 | 
 | 2022-11-26 | 7 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 8 | 1 | 
 | 2022-11-01 | 8 | 1 | 
 | 2022-10-31 | 8 | 1 | 
-| 2022-10-30 | 8 | 1 | 
 

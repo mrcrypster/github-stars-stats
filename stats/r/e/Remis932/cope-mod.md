@@ -1,10 +1,10 @@
 # Remis932/cope-mod - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 0
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/Remis932/cope-mod)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 6 | - | 
 | 2022-11-28 | 5 | - | 
 | 2022-11-27 | 5 | - | 
 | 2022-11-26 | 5 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 4 | - | 
 | 2022-11-01 | 4 | - | 
 | 2022-10-31 | 4 | - | 
-| 2022-10-30 | 4 | - | 
 

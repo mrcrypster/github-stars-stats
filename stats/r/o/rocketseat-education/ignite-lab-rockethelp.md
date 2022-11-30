@@ -1,6 +1,6 @@
 # rocketseat-education/ignite-lab-rockethelp - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 133 | 62 | 
 | 2022-11-28 | 133 | 62 | 
 | 2022-11-27 | 133 | 62 | 
 | 2022-11-26 | 133 | 62 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 134 | 62 | 
 | 2022-11-01 | 134 | 62 | 
 | 2022-10-31 | 135 | 62 | 
-| 2022-10-30 | 135 | 62 | 
 

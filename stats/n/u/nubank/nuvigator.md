@@ -1,6 +1,6 @@
 # nubank/nuvigator - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 239 | 27 | 
 | 2022-11-28 | 239 | 27 | 
 | 2022-11-27 | 239 | 27 | 
 | 2022-11-26 | 239 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 238 | 27 | 
 | 2022-11-01 | 238 | 27 | 
 | 2022-10-31 | 238 | 27 | 
-| 2022-10-30 | 237 | 27 | 
 

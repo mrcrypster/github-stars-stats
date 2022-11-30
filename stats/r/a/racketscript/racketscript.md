@@ -1,6 +1,6 @@
 # racketscript/racketscript - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 636 | 30 | 
 | 2022-11-28 | 636 | 30 | 
 | 2022-11-27 | 636 | 30 | 
 | 2022-11-26 | 635 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 628 | 29 | 
 | 2022-11-01 | 611 | 29 | 
 | 2022-10-31 | 582 | 28 | 
-| 2022-10-30 | 582 | 28 | 
 

@@ -1,6 +1,6 @@
 # yuyasugano/pancake-bakery-arbitrage - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 188
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 272 | 188 | 
 | 2022-11-28 | 272 | 188 | 
 | 2022-11-27 | 272 | 188 | 
 | 2022-11-26 | 272 | 188 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 268 | 184 | 
 | 2022-11-01 | 266 | 183 | 
 | 2022-10-31 | 266 | 183 | 
-| 2022-10-30 | 265 | 183 | 
 

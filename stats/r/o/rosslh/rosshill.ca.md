@@ -1,10 +1,10 @@
 # rosslh/rosshill.ca - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 7
 
-★ Stars: 84
+★ Stars: 83
 
 [Open repository](https://github.com/rosslh/rosshill.ca)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 83 | 7 | 
 | 2022-11-28 | 84 | 7 | 
 | 2022-11-27 | 84 | 7 | 
 | 2022-11-26 | 84 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-03 | 83 | 7 | 
 | 2022-11-01 | 83 | 7 | 
 | 2022-10-31 | 83 | 7 | 
-| 2022-10-30 | 83 | 7 | 
 

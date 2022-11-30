@@ -1,10 +1,10 @@
 # FQrabbit/SSTap-Rule - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 1155
 
-★ Stars: 5406
+★ Stars: 5407
 
 [Open repository](https://github.com/FQrabbit/SSTap-Rule)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 5407 | 1155 | 
 | 2022-11-28 | 5406 | 1155 | 
 | 2022-11-27 | 5403 | 1156 | 
 | 2022-11-26 | 5404 | 1156 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 5358 | 1154 | 
 | 2022-11-01 | 5357 | 1155 | 
 | 2022-10-31 | 5356 | 1155 | 
-| 2022-10-30 | 5356 | 1155 | 
 

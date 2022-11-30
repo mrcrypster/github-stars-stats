@@ -1,6 +1,6 @@
 # yesodweb/wai - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 249
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 759 | 249 | 
 | 2022-11-28 | 759 | 249 | 
 | 2022-11-27 | 759 | 249 | 
 | 2022-11-26 | 759 | 249 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 758 | 250 | 
 | 2022-11-01 | 758 | 249 | 
 | 2022-10-31 | 758 | 249 | 
-| 2022-10-30 | 758 | 249 | 
 

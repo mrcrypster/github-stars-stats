@@ -1,10 +1,10 @@
 # Azure/Azure-Network-Security - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 194
+☋ Forks: 193
 
-★ Stars: 496
+★ Stars: 497
 
 [Open repository](https://github.com/Azure/Azure-Network-Security)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 497 | 193 | 
 | 2022-11-28 | 496 | 194 | 
 | 2022-11-27 | 496 | 194 | 
 | 2022-11-26 | 496 | 194 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 481 | 190 | 
 | 2022-11-01 | 481 | 190 | 
 | 2022-10-31 | 481 | 190 | 
-| 2022-10-30 | 480 | 190 | 
 

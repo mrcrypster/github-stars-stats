@@ -1,6 +1,6 @@
 # teamdigitale/innovazione.gov.it-site - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 7
 
@@ -13,5 +13,6 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 8 | 7 | 
 | 2022-11-28 | 8 | 7 | 
 

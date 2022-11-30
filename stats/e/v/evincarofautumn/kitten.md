@@ -1,6 +1,6 @@
 # evincarofautumn/kitten - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 1006 | 42 | 
 | 2022-11-28 | 1006 | 42 | 
 | 2022-11-27 | 1006 | 42 | 
 | 2022-11-26 | 1007 | 42 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 1005 | 42 | 
 | 2022-11-01 | 1005 | 42 | 
 | 2022-10-31 | 1005 | 42 | 
-| 2022-10-30 | 1005 | 42 | 
 

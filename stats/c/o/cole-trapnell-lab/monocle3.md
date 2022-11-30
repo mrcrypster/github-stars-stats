@@ -1,6 +1,6 @@
 # cole-trapnell-lab/monocle3 - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 72
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 213 | 72 | 
 | 2022-11-28 | 213 | 72 | 
 | 2022-11-27 | 213 | 72 | 
 | 2022-11-26 | 213 | 72 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 203 | 71 | 
 | 2022-11-01 | 203 | 71 | 
 | 2022-10-31 | 203 | 71 | 
-| 2022-10-30 | 203 | 71 | 
 

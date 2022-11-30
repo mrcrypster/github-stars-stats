@@ -1,10 +1,10 @@
 # study-everything/study-antd - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 64
+☋ Forks: 65
 
-★ Stars: 160
+★ Stars: 161
 
 [Open repository](https://github.com/study-everything/study-antd)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 161 | 65 | 
 | 2022-11-28 | 160 | 64 | 
 | 2022-11-27 | 158 | 64 | 
 | 2022-11-26 | 158 | 63 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 155 | 62 | 
 | 2022-11-01 | 155 | 62 | 
 | 2022-10-31 | 155 | 62 | 
-| 2022-10-30 | 155 | 62 | 
 

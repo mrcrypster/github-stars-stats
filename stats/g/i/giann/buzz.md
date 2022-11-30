@@ -1,10 +1,10 @@
 # giann/buzz - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 8
+☋ Forks: 7
 
-★ Stars: 458
+★ Stars: 476
 
 [Open repository](https://github.com/giann/buzz)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 476 | 7 | 
 | 2022-11-28 | 458 | 8 | 
 | 2022-11-27 | 449 | 8 | 
 | 2022-11-26 | 446 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-03 | 93 | 3 | 
 | 2022-11-02 | 92 | 3 | 
 | 2022-11-01 | 92 | 3 | 
-| 2022-10-31 | 92 | 3 | 
 

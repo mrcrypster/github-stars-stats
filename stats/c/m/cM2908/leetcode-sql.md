@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 29
 
-☋ Forks: 26
+☋ Forks: 27
 
-★ Stars: 104
+★ Stars: 109
 
 [Open repository](https://github.com/cM2908/leetcode-sql)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-29 | 104 | 26 | 
+| 2022-11-29 | 109 | 27 | 
 | 2022-11-28 | 104 | 26 | 
 

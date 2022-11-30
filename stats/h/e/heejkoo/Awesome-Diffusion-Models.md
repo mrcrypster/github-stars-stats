@@ -1,10 +1,10 @@
 # heejkoo/Awesome-Diffusion-Models - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 366
+☋ Forks: 367
 
-★ Stars: 4518
+★ Stars: 4543
 
 [Open repository](https://github.com/heejkoo/Awesome-Diffusion-Models)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 4543 | 367 | 
 | 2022-11-28 | 4518 | 366 | 
 | 2022-11-27 | 4498 | 366 | 
 | 2022-11-26 | 4486 | 363 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 4019 | 326 | 
 | 2022-11-01 | 3998 | 321 | 
 | 2022-10-31 | 3977 | 316 | 
-| 2022-10-30 | 3963 | 313 | 
 

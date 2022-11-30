@@ -1,10 +1,10 @@
 # ErfanRht/MovieLab - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 13
 
-★ Stars: 90
+★ Stars: 94
 
 [Open repository](https://github.com/ErfanRht/MovieLab)
 
@@ -13,5 +13,6 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 94 | 13 | 
 | 2022-11-28 | 90 | 13 | 
 

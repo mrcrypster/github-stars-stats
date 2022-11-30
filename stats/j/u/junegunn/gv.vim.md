@@ -1,6 +1,6 @@
 # junegunn/gv.vim - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 1202 | 54 | 
 | 2022-11-28 | 1202 | 54 | 
 | 2022-11-27 | 1202 | 54 | 
 | 2022-11-26 | 1202 | 54 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 1188 | 54 | 
 | 2022-11-01 | 1187 | 54 | 
 | 2022-10-31 | 1187 | 54 | 
-| 2022-10-30 | 1187 | 54 | 
 

@@ -1,10 +1,10 @@
 # apache/tvm - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 2813
 
-★ Stars: 8811
+★ Stars: 8813
 
 [Open repository](https://github.com/apache/tvm)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 8813 | 2813 | 
 | 2022-11-28 | 8811 | 2813 | 
 | 2022-11-27 | 8808 | 2812 | 
 | 2022-11-26 | 8807 | 2812 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 8714 | 2768 | 
 | 2022-11-01 | 8708 | 2767 | 
 | 2022-10-31 | 8707 | 2767 | 
-| 2022-10-30 | 8705 | 2765 | 
 

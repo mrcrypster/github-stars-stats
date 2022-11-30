@@ -1,6 +1,6 @@
 # ahmedkhlief/Ninja - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 146
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 642 | 146 | 
 | 2022-11-28 | 642 | 146 | 
 | 2022-11-27 | 641 | 146 | 
 | 2022-11-26 | 640 | 146 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 623 | 144 | 
 | 2022-11-01 | 623 | 144 | 
 | 2022-10-31 | 621 | 144 | 
-| 2022-10-30 | 621 | 144 | 
 

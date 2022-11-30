@@ -1,10 +1,10 @@
 # vinceliuice/Qogir-theme - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 108
 
-★ Stars: 1309
+★ Stars: 1310
 
 [Open repository](https://github.com/vinceliuice/Qogir-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 1310 | 108 | 
 | 2022-11-29 | 1309 | 108 | 
 | 2022-11-27 | 1309 | 109 | 
 | 2022-11-26 | 1310 | 109 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-02 | 1295 | 109 | 
 | 2022-11-01 | 1295 | 109 | 
 | 2022-10-31 | 1294 | 109 | 
-| 2022-10-30 | 1295 | 109 | 
 

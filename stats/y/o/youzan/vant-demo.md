@@ -1,6 +1,6 @@
 # youzan/vant-demo - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 1070
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 1687 | 1070 | 
 | 2022-11-28 | 1687 | 1070 | 
 | 2022-11-27 | 1686 | 1070 | 
 | 2022-11-26 | 1686 | 1070 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 1669 | 1069 | 
 | 2022-11-01 | 1667 | 1068 | 
 | 2022-10-31 | 1666 | 1067 | 
-| 2022-10-30 | 1666 | 1067 | 
 

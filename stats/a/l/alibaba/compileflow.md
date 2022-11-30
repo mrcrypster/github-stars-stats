@@ -1,6 +1,6 @@
 # alibaba/compileflow - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 200
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 1255 | 200 | 
 | 2022-11-28 | 1255 | 200 | 
 | 2022-11-27 | 1253 | 199 | 
 | 2022-11-26 | 1252 | 198 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 1222 | 195 | 
 | 2022-11-01 | 1222 | 194 | 
 | 2022-10-31 | 1220 | 194 | 
-| 2022-10-30 | 1219 | 194 | 
 

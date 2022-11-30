@@ -1,10 +1,10 @@
 # smorabit/hdWGCNA - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 11
 
-★ Stars: 125
+★ Stars: 126
 
 [Open repository](https://github.com/smorabit/hdWGCNA)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 126 | 11 | 
 | 2022-11-28 | 125 | 11 | 
 | 2022-11-27 | 125 | 11 | 
 | 2022-11-26 | 125 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 120 | 11 | 
 | 2022-11-01 | 119 | 11 | 
 | 2022-10-31 | 119 | 11 | 
-| 2022-10-30 | 119 | 11 | 
 

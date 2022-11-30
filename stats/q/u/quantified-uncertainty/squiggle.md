@@ -1,6 +1,6 @@
 # quantified-uncertainty/squiggle - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 79 | 16 | 
 | 2022-11-29 | 79 | 16 | 
 | 2022-11-27 | 79 | 16 | 
 | 2022-11-26 | 79 | 16 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-02 | 71 | 16 | 
 | 2022-11-01 | 71 | 16 | 
 | 2022-10-31 | 70 | 16 | 
-| 2022-10-30 | 69 | 16 | 
 

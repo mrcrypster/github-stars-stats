@@ -1,6 +1,6 @@
 # guindilla/coursera-statistics-002 - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 35 | 54 | 
 | 2022-11-28 | 35 | 54 | 
 | 2022-11-27 | 35 | 54 | 
 | 2022-11-26 | 35 | 54 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 35 | 54 | 
 | 2022-11-01 | 35 | 54 | 
 | 2022-10-31 | 35 | 54 | 
-| 2022-10-30 | 35 | 54 | 
 

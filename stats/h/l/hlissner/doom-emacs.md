@@ -1,10 +1,10 @@
 # hlissner/doom-emacs - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 2824
+☋ Forks: 2825
 
-★ Stars: 15504
+★ Stars: 15515
 
 [Open repository](https://github.com/hlissner/doom-emacs)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 15515 | 2825 | 
 | 2022-11-28 | 15504 | 2824 | 
 | 2022-11-27 | 15498 | 2824 | 
 | 2022-11-26 | 15492 | 2821 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-03 | 15336 | 2810 | 
 | 2022-11-02 | 15328 | 2808 | 
 | 2022-11-01 | 15321 | 2807 | 
-| 2022-10-31 | 15315 | 2806 | 
 

@@ -1,10 +1,10 @@
 # zenith391/zgt - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 16
 
-★ Stars: 556
+★ Stars: 558
 
 [Open repository](https://github.com/zenith391/zgt)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 558 | 16 | 
 | 2022-11-28 | 556 | 16 | 
 | 2022-11-27 | 555 | 16 | 
 | 2022-11-26 | 553 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-03 | 535 | 16 | 
 | 2022-11-02 | 534 | 16 | 
 | 2022-11-01 | 532 | 16 | 
-| 2022-10-31 | 531 | 16 | 
 

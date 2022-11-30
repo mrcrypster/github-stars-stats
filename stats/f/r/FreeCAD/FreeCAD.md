@@ -1,10 +1,10 @@
 # FreeCAD/FreeCAD - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 3005
 
-★ Stars: 12650
+★ Stars: 12659
 
 [Open repository](https://github.com/FreeCAD/FreeCAD)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 12659 | 3005 | 
 | 2022-11-28 | 12650 | 3005 | 
 | 2022-11-27 | 12647 | 3004 | 
 | 2022-11-26 | 12642 | 3004 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 12465 | 2986 | 
 | 2022-11-01 | 12456 | 2986 | 
 | 2022-10-31 | 12444 | 2984 | 
-| 2022-10-30 | 12441 | 2984 | 
 

@@ -1,10 +1,10 @@
 # gonum/gonum - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 30
 
-☋ Forks: 486
+☋ Forks: 485
 
-★ Stars: 6194
+★ Stars: 6196
 
 [Open repository](https://github.com/gonum/gonum)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 6196 | 485 | 
 | 2022-11-28 | 6194 | 486 | 
 | 2022-11-27 | 6192 | 486 | 
 | 2022-11-26 | 6188 | 486 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 6139 | 481 | 
 | 2022-11-01 | 6138 | 481 | 
 | 2022-10-31 | 6134 | 480 | 
-| 2022-10-30 | 6132 | 480 | 
 

@@ -1,10 +1,10 @@
 # aws/thinkbox-cm-library - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 1
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/aws/thinkbox-cm-library)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 4 | 1 | 
 | 2022-11-28 | 3 | 1 | 
 | 2022-11-27 | 3 | 1 | 
 | 2022-11-26 | 3 | 1 | 

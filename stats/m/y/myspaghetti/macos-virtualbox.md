@@ -1,10 +1,10 @@
 # myspaghetti/macos-virtualbox - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 1048
+☋ Forks: 1049
 
-★ Stars: 12605
+★ Stars: 12609
 
 [Open repository](https://github.com/myspaghetti/macos-virtualbox)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 12609 | 1049 | 
 | 2022-11-28 | 12605 | 1048 | 
 | 2022-11-27 | 12605 | 1049 | 
 | 2022-11-26 | 12604 | 1047 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 12558 | 1038 | 
 | 2022-11-01 | 12554 | 1037 | 
 | 2022-10-31 | 12553 | 1037 | 
-| 2022-10-30 | 12551 | 1037 | 
 

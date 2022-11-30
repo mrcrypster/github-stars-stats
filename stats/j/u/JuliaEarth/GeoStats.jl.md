@@ -1,8 +1,8 @@
 # JuliaEarth/GeoStats.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 55
+☋ Forks: 56
 
 ★ Stars: 380
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 380 | 56 | 
 | 2022-11-28 | 380 | 55 | 
 | 2022-11-27 | 379 | 55 | 
 | 2022-11-26 | 379 | 55 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 378 | 57 | 
 | 2022-11-01 | 378 | 57 | 
 | 2022-10-31 | 378 | 57 | 
-| 2022-10-30 | 378 | 57 | 
 

@@ -1,10 +1,10 @@
 # RavelloH/RTheme - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 3
 
-★ Stars: 48
+★ Stars: 49
 
 [Open repository](https://github.com/RavelloH/RTheme)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 49 | 3 | 
 | 2022-11-28 | 48 | 3 | 
 | 2022-11-27 | 48 | 3 | 
 | 2022-11-26 | 48 | 3 | 

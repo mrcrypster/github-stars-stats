@@ -1,6 +1,6 @@
 # kurbos/bevy-shell-template - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 214 | 12 | 
 | 2022-11-28 | 214 | 12 | 
 | 2022-11-27 | 214 | 12 | 
 | 2022-11-26 | 214 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 209 | 13 | 
 | 2022-11-01 | 209 | 13 | 
 | 2022-10-31 | 208 | 13 | 
-| 2022-10-30 | 207 | 13 | 
 

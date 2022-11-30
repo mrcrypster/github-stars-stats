@@ -1,10 +1,10 @@
 # moonrepo/moon - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 26
 
-★ Stars: 1126
+★ Stars: 1128
 
 [Open repository](https://github.com/moonrepo/moon)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 1128 | 26 | 
 | 2022-11-28 | 1126 | 26 | 
 | 2022-11-27 | 1126 | 26 | 
 | 2022-11-26 | 1126 | 26 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 1081 | 24 | 
 | 2022-11-01 | 1081 | 24 | 
 | 2022-10-31 | 1077 | 24 | 
-| 2022-10-30 | 1075 | 24 | 
 

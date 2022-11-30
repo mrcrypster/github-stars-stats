@@ -1,6 +1,6 @@
 # Justice-Through-Code/simple-frontend - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | - | 14 | 
 | 2022-11-28 | - | 14 | 
 | 2022-11-27 | - | 14 | 
 | 2022-11-26 | - | 14 | 

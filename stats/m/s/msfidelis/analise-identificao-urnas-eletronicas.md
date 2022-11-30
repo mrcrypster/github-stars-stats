@@ -1,10 +1,10 @@
 # msfidelis/analise-identificao-urnas-eletronicas - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 0
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/msfidelis/analise-identificao-urnas-eletronicas)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 12 | - | 
 | 2022-11-28 | 11 | - | 
 | 2022-11-27 | 11 | - | 
 

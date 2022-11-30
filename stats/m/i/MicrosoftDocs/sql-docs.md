@@ -1,8 +1,8 @@
 # MicrosoftDocs/sql-docs - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 2484
+☋ Forks: 2485
 
 ★ Stars: 880
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 880 | 2485 | 
 | 2022-11-28 | 880 | 2484 | 
 | 2022-11-27 | 880 | 2481 | 
 | 2022-11-26 | 880 | 2480 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 870 | 2450 | 
 | 2022-11-01 | 868 | 2449 | 
 | 2022-10-31 | 867 | 2449 | 
-| 2022-10-30 | 867 | 2449 | 
 

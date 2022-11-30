@@ -1,6 +1,6 @@
 # infinispan/infinispan-helm-charts - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 9 | 11 | 
 | 2022-11-28 | 9 | 11 | 
 | 2022-11-27 | 9 | 11 | 
 | 2022-11-26 | 9 | 11 | 

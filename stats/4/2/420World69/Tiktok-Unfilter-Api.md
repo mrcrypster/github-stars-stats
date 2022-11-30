@@ -1,10 +1,10 @@
 # 420World69/Tiktok-Unfilter-Api - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 18
 
-★ Stars: 103
+★ Stars: 104
 
 [Open repository](https://github.com/420World69/Tiktok-Unfilter-Api)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 104 | 18 | 
 | 2022-11-28 | 103 | 18 | 
 | 2022-11-27 | 102 | 18 | 
 | 2022-11-26 | 102 | 18 | 

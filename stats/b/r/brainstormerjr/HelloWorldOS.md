@@ -1,6 +1,6 @@
 # brainstormerjr/HelloWorldOS - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 178 | 20 | 
 | 2022-11-28 | 178 | 20 | 
 | 2022-11-27 | 178 | 20 | 
 | 2022-11-26 | 178 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 175 | 19 | 
 | 2022-11-01 | 174 | 19 | 
 | 2022-10-31 | 174 | 19 | 
-| 2022-10-30 | 174 | 19 | 
 

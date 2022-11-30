@@ -1,10 +1,10 @@
 # tbnobody/OpenDTU - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 70
 
-★ Stars: 390
+★ Stars: 393
 
 [Open repository](https://github.com/tbnobody/OpenDTU)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 393 | 70 | 
 | 2022-11-28 | 390 | 70 | 
 | 2022-11-27 | 388 | 69 | 
 | 2022-11-26 | 385 | 69 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 282 | 52 | 
 | 2022-11-01 | 279 | 51 | 
 | 2022-10-31 | 279 | 51 | 
-| 2022-10-30 | 268 | 48 | 
 

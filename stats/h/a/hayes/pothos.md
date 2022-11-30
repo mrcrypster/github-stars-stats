@@ -1,10 +1,10 @@
 # hayes/pothos - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 84
 
-★ Stars: 1393
+★ Stars: 1394
 
 [Open repository](https://github.com/hayes/pothos)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 1394 | 84 | 
 | 2022-11-28 | 1393 | 84 | 
 | 2022-11-27 | 1390 | 84 | 
 | 2022-11-26 | 1388 | 84 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 1320 | 76 | 
 | 2022-11-01 | 1316 | 76 | 
 | 2022-10-31 | 1316 | 76 | 
-| 2022-10-30 | 1311 | 76 | 
 

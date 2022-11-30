@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 29
 
-☋ Forks: 445
+☋ Forks: 446
 
-★ Stars: 2999
+★ Stars: 3002
 
 [Open repository](https://github.com/FrancescoXX/free-Web3-resources)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-29 | 2999 | 445 | 
+| 2022-11-29 | 3002 | 446 | 
 | 2022-11-28 | 2998 | 445 | 
 | 2022-11-27 | 2988 | 444 | 
 | 2022-11-26 | 2981 | 444 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-02 | 2854 | 408 | 
 | 2022-11-01 | 2849 | 408 | 
 | 2022-10-31 | 2849 | 407 | 
-| 2022-10-30 | 2836 | 400 | 
 

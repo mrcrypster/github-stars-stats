@@ -1,10 +1,10 @@
 # AllenDowney/ThinkDSP - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 2800
 
-★ Stars: 3136
+★ Stars: 3139
 
 [Open repository](https://github.com/AllenDowney/ThinkDSP)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 3139 | 2800 | 
 | 2022-11-28 | 3136 | 2800 | 
 | 2022-11-27 | 3134 | 2798 | 
 | 2022-11-26 | 3132 | 2799 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 3072 | 2777 | 
 | 2022-11-01 | 3066 | 2776 | 
 | 2022-10-31 | 3060 | 2775 | 
-| 2022-10-30 | 3055 | 2773 | 
 

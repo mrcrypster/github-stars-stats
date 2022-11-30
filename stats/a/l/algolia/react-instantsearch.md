@@ -1,10 +1,10 @@
 # algolia/react-instantsearch - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 411
 
-★ Stars: 1945
+★ Stars: 1946
 
 [Open repository](https://github.com/algolia/react-instantsearch)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 1946 | 411 | 
 | 2022-11-28 | 1945 | 411 | 
 | 2022-11-27 | 1945 | 411 | 
 | 2022-11-26 | 1944 | 411 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 1928 | 406 | 
 | 2022-11-01 | 1928 | 406 | 
 | 2022-10-31 | 1928 | 406 | 
-| 2022-10-30 | 1927 | 406 | 
 

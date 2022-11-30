@@ -1,10 +1,10 @@
 # FireCubeStudios/FluentFlyouts3 - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 13
 
-★ Stars: 163
+★ Stars: 164
 
 [Open repository](https://github.com/FireCubeStudios/FluentFlyouts3)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 164 | 13 | 
 | 2022-11-28 | 163 | 13 | 
 | 2022-11-27 | 163 | 13 | 
 | 2022-11-26 | 163 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 154 | 9 | 
 | 2022-11-01 | 154 | 9 | 
 | 2022-10-31 | 153 | 9 | 
-| 2022-10-30 | 153 | 9 | 
 

@@ -1,10 +1,10 @@
 # iptv-org/epg - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 270
+☋ Forks: 272
 
-★ Stars: 903
+★ Stars: 907
 
 [Open repository](https://github.com/iptv-org/epg)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 907 | 272 | 
 | 2022-11-28 | 903 | 270 | 
 | 2022-11-27 | 898 | 270 | 
 | 2022-11-26 | 892 | 269 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 833 | 257 | 
 | 2022-11-01 | 833 | 257 | 
 | 2022-10-31 | 831 | 257 | 
-| 2022-10-30 | 831 | 257 | 
 

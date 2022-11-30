@@ -1,8 +1,8 @@
 # pentagonxyz/movemate - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 44
+☋ Forks: 45
 
 ★ Stars: 167
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 167 | 45 | 
 | 2022-11-29 | 167 | 44 | 
 | 2022-11-27 | 167 | 43 | 
 | 2022-11-26 | 166 | 43 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-02 | 154 | 35 | 
 | 2022-11-01 | 151 | 35 | 
 | 2022-10-31 | 150 | 35 | 
-| 2022-10-30 | 150 | 35 | 
 

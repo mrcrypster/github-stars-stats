@@ -1,8 +1,8 @@
 # quarkusio/quarkus-quickstarts - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 1238
+☋ Forks: 1236
 
 ★ Stars: 1609
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 1609 | 1236 | 
 | 2022-11-28 | 1609 | 1238 | 
 | 2022-11-27 | 1609 | 1238 | 
 | 2022-11-26 | 1609 | 1238 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 1593 | 1221 | 
 | 2022-11-01 | 1593 | 1218 | 
 | 2022-10-31 | 1594 | 1217 | 
-| 2022-10-30 | 1592 | 1217 | 
 

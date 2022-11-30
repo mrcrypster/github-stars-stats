@@ -1,10 +1,10 @@
 # Lisp-Stat/lisp-stat - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 9
 
-★ Stars: 116
+★ Stars: 117
 
 [Open repository](https://github.com/Lisp-Stat/lisp-stat)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 117 | 9 | 
 | 2022-11-28 | 116 | 9 | 
 | 2022-11-27 | 116 | 9 | 
 | 2022-11-26 | 116 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 114 | 9 | 
 | 2022-11-01 | 114 | 9 | 
 | 2022-10-31 | 114 | 9 | 
-| 2022-10-30 | 114 | 9 | 
 

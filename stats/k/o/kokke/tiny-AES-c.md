@@ -1,6 +1,6 @@
 # kokke/tiny-AES-c - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 1158
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 3354 | 1158 | 
 | 2022-11-28 | 3354 | 1158 | 
 | 2022-11-27 | 3352 | 1159 | 
 | 2022-11-26 | 3352 | 1159 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 3330 | 1153 | 
 | 2022-11-01 | 3328 | 1153 | 
 | 2022-10-31 | 3325 | 1151 | 
-| 2022-10-30 | 3324 | 1150 | 
 

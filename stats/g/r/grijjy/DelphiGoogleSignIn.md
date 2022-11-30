@@ -1,6 +1,6 @@
 # grijjy/DelphiGoogleSignIn - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 37 | 7 | 
 | 2022-11-28 | 37 | 7 | 
 | 2022-11-27 | 37 | 7 | 
 | 2022-11-26 | 37 | 7 | 

@@ -1,6 +1,6 @@
 # woshiwzy/OpenProxyJ - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 58 | 11 | 
 | 2022-11-28 | 58 | 11 | 
 | 2022-11-27 | 58 | 11 | 
 | 2022-11-26 | 58 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-03 | 58 | 11 | 
 | 2022-11-02 | 58 | 11 | 
 | 2022-11-01 | 58 | 11 | 
-| 2022-10-30 | 58 | 11 | 
 

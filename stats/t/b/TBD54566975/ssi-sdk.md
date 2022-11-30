@@ -1,8 +1,8 @@
 # TBD54566975/ssi-sdk - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 33
+☋ Forks: 34
 
 ★ Stars: 137
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 137 | 34 | 
 | 2022-11-28 | 137 | 33 | 
 | 2022-11-27 | 137 | 32 | 
 | 2022-11-26 | 137 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 133 | 31 | 
 | 2022-11-01 | 132 | 31 | 
 | 2022-10-31 | 131 | 31 | 
-| 2022-10-30 | 131 | 30 | 
 

@@ -1,6 +1,6 @@
 # KovaaK/SensitivityMatcher - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 383 | 26 | 
 | 2022-11-28 | 383 | 26 | 
 | 2022-11-27 | 383 | 26 | 
 | 2022-11-26 | 383 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 381 | 26 | 
 | 2022-11-01 | 381 | 26 | 
 | 2022-10-31 | 381 | 26 | 
-| 2022-10-30 | 381 | 26 | 
 

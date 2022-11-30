@@ -1,8 +1,8 @@
 # 88250/solo - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 383
+☋ Forks: 384
 
 ★ Stars: 1201
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 1201 | 384 | 
 | 2022-11-29 | 1201 | 383 | 
 | 2022-11-28 | 1200 | 383 | 
 | 2022-11-26 | 1199 | 383 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-02 | 1184 | 381 | 
 | 2022-11-01 | 1184 | 381 | 
 | 2022-10-31 | 1184 | 380 | 
-| 2022-10-30 | 1184 | 380 | 
 

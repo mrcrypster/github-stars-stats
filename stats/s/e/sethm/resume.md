@@ -1,10 +1,10 @@
 # sethm/resume - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 4
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/sethm/resume)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 19 | 4 | 
 | 2022-11-28 | 18 | 4 | 
 | 2022-11-27 | 18 | 4 | 
 | 2022-11-26 | 18 | 4 | 

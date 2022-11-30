@@ -1,6 +1,6 @@
 # uwdub/web-dub - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 7 | 55 | 
 | 2022-11-28 | 7 | 55 | 
 | 2022-11-27 | 7 | 55 | 
 | 2022-11-26 | 7 | 55 | 

@@ -1,10 +1,10 @@
 # MenacingMecha/gd_fpcc - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 1
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/MenacingMecha/gd_fpcc)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 23 | 1 | 
 | 2022-11-28 | 22 | 1 | 
 | 2022-11-27 | 22 | 1 | 
 | 2022-11-26 | 22 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-03 | 22 | 1 | 
 | 2022-11-02 | 22 | 1 | 
 | 2022-11-01 | 22 | 1 | 
-| 2022-10-31 | 22 | 1 | 
 

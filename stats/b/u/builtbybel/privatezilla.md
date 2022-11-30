@@ -1,10 +1,10 @@
 # builtbybel/privatezilla - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 148
 
-★ Stars: 2773
+★ Stars: 2778
 
 [Open repository](https://github.com/builtbybel/privatezilla)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 2778 | 148 | 
 | 2022-11-28 | 2773 | 148 | 
 | 2022-11-27 | 2772 | 148 | 
 | 2022-11-26 | 2769 | 148 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 2729 | 148 | 
 | 2022-11-01 | 2727 | 148 | 
 | 2022-10-31 | 2725 | 148 | 
-| 2022-10-30 | 2722 | 148 | 
 

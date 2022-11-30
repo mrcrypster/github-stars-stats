@@ -1,6 +1,6 @@
 # CICE-Consortium/Icepack - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 96
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 19 | 96 | 
 | 2022-11-29 | 19 | 96 | 
 | 2022-11-28 | 19 | 96 | 
 | 2022-11-27 | 19 | 96 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-02 | 18 | 95 | 
 | 2022-11-01 | 18 | 95 | 
 | 2022-10-31 | 18 | 95 | 
-| 2022-10-30 | 18 | 95 | 
 

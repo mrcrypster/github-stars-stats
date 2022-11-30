@@ -1,6 +1,6 @@
 # pratikratadiya/awesome-ml-internships - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 355 | 36 | 
 | 2022-11-28 | 355 | 36 | 
 | 2022-11-27 | 355 | 36 | 
 | 2022-11-26 | 352 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-03 | 346 | 34 | 
 | 2022-11-02 | 346 | 34 | 
 | 2022-11-01 | 346 | 34 | 
-| 2022-10-31 | 345 | 34 | 
 

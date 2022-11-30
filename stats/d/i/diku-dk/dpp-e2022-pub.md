@@ -1,10 +1,10 @@
 # diku-dk/dpp-e2022-pub - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 0
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/diku-dk/dpp-e2022-pub)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 8 | - | 
 | 2022-11-28 | 7 | - | 
 | 2022-11-27 | 7 | - | 
 | 2022-11-26 | 7 | - | 

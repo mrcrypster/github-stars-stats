@@ -1,8 +1,8 @@
 # bradjasper/ImportJSON - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 1013
+☋ Forks: 1014
 
 ★ Stars: 1915
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 1915 | 1014 | 
 | 2022-11-28 | 1915 | 1013 | 
 | 2022-11-27 | 1915 | 1013 | 
 | 2022-11-26 | 1915 | 1013 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 1901 | 1012 | 
 | 2022-11-01 | 1901 | 1012 | 
 | 2022-10-31 | 1900 | 1012 | 
-| 2022-10-30 | 1899 | 1012 | 
 

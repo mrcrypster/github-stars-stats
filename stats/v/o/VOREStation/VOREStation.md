@@ -1,8 +1,8 @@
 # VOREStation/VOREStation - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 409
+☋ Forks: 411
 
 ★ Stars: 65
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 65 | 411 | 
 | 2022-11-28 | 65 | 409 | 
 | 2022-11-27 | 65 | 409 | 
 | 2022-11-26 | 65 | 409 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 64 | 408 | 
 | 2022-11-01 | 64 | 408 | 
 | 2022-10-31 | 64 | 407 | 
-| 2022-10-30 | 64 | 407 | 
 

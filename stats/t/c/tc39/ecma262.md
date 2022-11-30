@@ -1,10 +1,10 @@
 # tc39/ecma262 - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 1278
 
-★ Stars: 13761
+★ Stars: 13764
 
 [Open repository](https://github.com/tc39/ecma262)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 13764 | 1278 | 
 | 2022-11-28 | 13761 | 1278 | 
 | 2022-11-27 | 13758 | 1278 | 
 | 2022-11-26 | 13757 | 1278 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 13697 | 1269 | 
 | 2022-11-01 | 13693 | 1267 | 
 | 2022-10-31 | 13691 | 1266 | 
-| 2022-10-30 | 13686 | 1265 | 
 

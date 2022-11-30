@@ -1,6 +1,6 @@
 # Mixtape-Sessions/Causal-Inference - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 81
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 68 | 81 | 
 | 2022-11-28 | 68 | 81 | 
 | 2022-11-27 | 68 | 81 | 
 | 2022-11-26 | 68 | 81 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 66 | 79 | 
 | 2022-11-01 | 66 | 79 | 
 | 2022-10-31 | 65 | 78 | 
-| 2022-10-30 | 65 | 78 | 
 

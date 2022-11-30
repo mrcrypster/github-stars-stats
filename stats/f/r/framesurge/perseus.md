@@ -1,10 +1,10 @@
 # framesurge/perseus - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 40
 
-★ Stars: 1133
+★ Stars: 1132
 
 [Open repository](https://github.com/framesurge/perseus)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 1132 | 40 | 
 | 2022-11-29 | 1133 | 40 | 
 | 2022-11-28 | 1128 | 41 | 
 | 2022-11-26 | 1125 | 41 | 

@@ -1,6 +1,6 @@
 # yous/YousList - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 261 | 35 | 
 | 2022-11-28 | 261 | 35 | 
 | 2022-11-27 | 261 | 35 | 
 | 2022-11-26 | 261 | 35 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 257 | 34 | 
 | 2022-11-01 | 257 | 34 | 
 | 2022-10-31 | 257 | 34 | 
-| 2022-10-30 | 257 | 34 | 
 

@@ -1,6 +1,6 @@
 # jquense/react-big-calendar - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 2014
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 6177 | 2014 | 
 | 2022-11-28 | 6177 | 2014 | 
 | 2022-11-27 | 6174 | 2013 | 
 | 2022-11-26 | 6174 | 2013 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 6135 | 1998 | 
 | 2022-11-01 | 6133 | 1998 | 
 | 2022-10-31 | 6131 | 1997 | 
-| 2022-10-30 | 6127 | 1997 | 
 

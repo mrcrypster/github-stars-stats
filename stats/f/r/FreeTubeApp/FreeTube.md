@@ -1,10 +1,10 @@
 # FreeTubeApp/FreeTube - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 427
 
-★ Stars: 6270
+★ Stars: 6298
 
 [Open repository](https://github.com/FreeTubeApp/FreeTube)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 6298 | 427 | 
 | 2022-11-28 | 6270 | 427 | 
 | 2022-11-27 | 6145 | 425 | 
 | 2022-11-26 | 6144 | 423 | 

@@ -1,10 +1,10 @@
 # robinrodricks/FluentFTP - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 562
 
-★ Stars: 2359
+★ Stars: 2364
 
 [Open repository](https://github.com/robinrodricks/FluentFTP)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 2364 | 562 | 
 | 2022-11-28 | 2359 | 562 | 
 | 2022-11-27 | 2358 | 561 | 
 | 2022-11-26 | 2356 | 561 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 2316 | 556 | 
 | 2022-11-01 | 2315 | 556 | 
 | 2022-10-31 | 2315 | 555 | 
-| 2022-10-30 | 2314 | 555 | 
 

@@ -1,10 +1,10 @@
 # apollographql/apollo-server - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 1990
+☋ Forks: 1991
 
-★ Stars: 13038
+★ Stars: 13041
 
 [Open repository](https://github.com/apollographql/apollo-server)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 13041 | 1991 | 
 | 2022-11-28 | 13038 | 1990 | 
 | 2022-11-27 | 13036 | 1990 | 
 | 2022-11-26 | 13030 | 1990 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 12987 | 1986 | 
 | 2022-11-01 | 12984 | 1987 | 
 | 2022-10-31 | 12983 | 1986 | 
-| 2022-10-30 | 12981 | 1987 | 
 

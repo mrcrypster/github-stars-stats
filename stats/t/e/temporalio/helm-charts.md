@@ -1,6 +1,6 @@
 # temporalio/helm-charts - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 183
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 148 | 183 | 
 | 2022-11-28 | 148 | 183 | 
 | 2022-11-27 | 148 | 183 | 
 | 2022-11-26 | 148 | 182 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 142 | 177 | 
 | 2022-11-01 | 141 | 177 | 
 | 2022-10-31 | 141 | 176 | 
-| 2022-10-30 | 141 | 176 | 
 

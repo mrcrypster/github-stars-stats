@@ -1,10 +1,10 @@
 # wangshusen/DeepLearning - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 623
+☋ Forks: 625
 
-★ Stars: 2487
+★ Stars: 2492
 
 [Open repository](https://github.com/wangshusen/DeepLearning)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 2492 | 625 | 
 | 2022-11-28 | 2487 | 623 | 
 | 2022-11-27 | 2483 | 623 | 
 | 2022-11-26 | 2476 | 619 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 2383 | 605 | 
 | 2022-11-01 | 2378 | 604 | 
 | 2022-10-31 | 2378 | 604 | 
-| 2022-10-30 | 2375 | 605 | 
 

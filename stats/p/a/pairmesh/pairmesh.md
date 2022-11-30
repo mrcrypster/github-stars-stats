@@ -1,6 +1,6 @@
 # pairmesh/pairmesh - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 161 | 33 | 
 | 2022-11-29 | 161 | 33 | 
 | 2022-11-28 | 161 | 33 | 
 | 2022-11-27 | 161 | 33 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-02 | 157 | 31 | 
 | 2022-11-01 | 157 | 31 | 
 | 2022-10-31 | 157 | 31 | 
-| 2022-10-30 | 157 | 31 | 
 

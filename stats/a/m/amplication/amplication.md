@@ -1,10 +1,10 @@
 # amplication/amplication - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 740
+☋ Forks: 742
 
-★ Stars: 9016
+★ Stars: 9023
 
 [Open repository](https://github.com/amplication/amplication)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 9023 | 742 | 
 | 2022-11-28 | 9016 | 740 | 
 | 2022-11-27 | 9013 | 741 | 
 | 2022-11-26 | 9009 | 742 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 8935 | 722 | 
 | 2022-11-01 | 8930 | 723 | 
 | 2022-10-31 | 8922 | 721 | 
-| 2022-10-30 | 8916 | 717 | 
 

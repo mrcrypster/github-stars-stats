@@ -1,10 +1,10 @@
 # ucsdsysnet/blephytracking - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 4
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/ucsdsysnet/blephytracking)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 20 | 4 | 
 | 2022-11-28 | 19 | 4 | 
 | 2022-11-27 | 19 | 4 | 
 | 2022-11-26 | 19 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 19 | 4 | 
 | 2022-11-01 | 19 | 4 | 
 | 2022-10-31 | 19 | 4 | 
-| 2022-10-30 | 19 | 4 | 
 

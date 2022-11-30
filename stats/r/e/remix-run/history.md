@@ -1,10 +1,10 @@
 # remix-run/history - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 1002
+☋ Forks: 1003
 
-★ Stars: 7997
+★ Stars: 8000
 
 [Open repository](https://github.com/remix-run/history)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 8000 | 1003 | 
 | 2022-11-28 | 7997 | 1002 | 
 | 2022-11-27 | 7995 | 1003 | 
 | 2022-11-26 | 7994 | 1002 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 7967 | 999 | 
 | 2022-11-01 | 7968 | 999 | 
 | 2022-10-31 | 7966 | 999 | 
-| 2022-10-30 | 7965 | 998 | 
 

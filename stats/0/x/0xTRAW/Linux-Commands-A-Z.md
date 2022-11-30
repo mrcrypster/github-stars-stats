@@ -1,6 +1,6 @@
 # 0xTRAW/Linux-Commands-A-Z - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 103 | 19 | 
 | 2022-11-29 | 103 | 19 | 
 | 2022-11-27 | 103 | 19 | 
 | 2022-11-26 | 103 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-02 | 101 | 20 | 
 | 2022-11-01 | 100 | 20 | 
 | 2022-10-31 | 98 | 20 | 
-| 2022-10-30 | 96 | 20 | 
 

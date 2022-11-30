@@ -1,10 +1,10 @@
 # hasura/graphql-engine - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 2534
 
-★ Stars: 28747
+★ Stars: 28751
 
 [Open repository](https://github.com/hasura/graphql-engine)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 28751 | 2534 | 
 | 2022-11-28 | 28747 | 2534 | 
 | 2022-11-27 | 28743 | 2534 | 
 | 2022-11-26 | 28738 | 2533 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 28547 | 2511 | 
 | 2022-11-01 | 28538 | 2509 | 
 | 2022-10-31 | 28533 | 2505 | 
-| 2022-10-30 | 28521 | 2502 | 
 

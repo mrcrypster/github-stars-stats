@@ -1,6 +1,6 @@
 # epi-osdev/workshop-student - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 8 | 8 | 
 | 2022-11-28 | 8 | 8 | 
 | 2022-11-27 | 8 | 8 | 
 | 2022-11-26 | 8 | 8 | 

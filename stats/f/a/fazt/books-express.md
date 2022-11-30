@@ -1,8 +1,8 @@
 # fazt/books-express - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 33
+☋ Forks: 32
 
 ★ Stars: 14
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 14 | 32 | 
 | 2022-11-28 | 14 | 33 | 
 | 2022-11-27 | 14 | 33 | 
 | 2022-11-26 | 14 | 33 | 

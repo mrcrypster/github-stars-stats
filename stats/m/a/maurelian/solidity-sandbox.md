@@ -1,6 +1,6 @@
 # maurelian/solidity-sandbox - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 73 | 5 | 
 | 2022-11-28 | 73 | 5 | 
 | 2022-11-27 | 73 | 5 | 
 | 2022-11-26 | 73 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 69 | 4 | 
 | 2022-11-01 | 69 | 4 | 
 | 2022-10-31 | 69 | 4 | 
-| 2022-10-30 | 69 | 4 | 
 

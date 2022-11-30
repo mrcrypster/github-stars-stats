@@ -1,8 +1,8 @@
 # emalderson/ThePhish - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 115
+☋ Forks: 116
 
 ★ Stars: 658
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 658 | 116 | 
 | 2022-11-28 | 658 | 115 | 
 | 2022-11-27 | 658 | 115 | 
 | 2022-11-26 | 658 | 114 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 647 | 107 | 
 | 2022-11-01 | 646 | 107 | 
 | 2022-10-31 | 646 | 107 | 
-| 2022-10-30 | 646 | 107 | 
 

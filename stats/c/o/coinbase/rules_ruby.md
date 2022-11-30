@@ -1,6 +1,6 @@
 # coinbase/rules_ruby - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 20 | 15 | 
 | 2022-11-29 | 20 | 15 | 
 | 2022-11-27 | 20 | 15 | 
 | 2022-11-26 | 20 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-02 | 20 | 15 | 
 | 2022-11-01 | 19 | 15 | 
 | 2022-10-31 | 19 | 15 | 
-| 2022-10-30 | 19 | 15 | 
 

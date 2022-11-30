@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 29
 
 ☋ Forks: 17
 
-★ Stars: 209
+★ Stars: 210
 
 [Open repository](https://github.com/unxsh/nitch)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-29 | 209 | 17 | 
+| 2022-11-29 | 210 | 17 | 
 | 2022-11-28 | 209 | 17 | 
 | 2022-11-27 | 209 | 17 | 
 | 2022-11-26 | 206 | 17 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 187 | 16 | 
 | 2022-11-02 | 186 | 16 | 
 | 2022-11-01 | 185 | 16 | 
-| 2022-10-31 | 185 | 16 | 
 

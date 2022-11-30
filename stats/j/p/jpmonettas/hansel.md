@@ -1,10 +1,10 @@
 # jpmonettas/hansel - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 0
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/jpmonettas/hansel)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 13 | - | 
 | 2022-11-28 | 12 | - | 
 | 2022-11-27 | 12 | - | 
 | 2022-11-26 | 12 | - | 

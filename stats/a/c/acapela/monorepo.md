@@ -1,10 +1,10 @@
 # acapela/monorepo - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 12
 
-★ Stars: 120
+★ Stars: 121
 
 [Open repository](https://github.com/acapela/monorepo)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 121 | 12 | 
 | 2022-11-28 | 120 | 12 | 
 | 2022-11-27 | 120 | 12 | 
 | 2022-11-26 | 120 | 12 | 

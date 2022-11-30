@@ -1,10 +1,10 @@
 # gedoor/legado - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 2014
+☋ Forks: 2017
 
-★ Stars: 11871
+★ Stars: 11898
 
 [Open repository](https://github.com/gedoor/legado)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 11898 | 2017 | 
 | 2022-11-28 | 11871 | 2014 | 
 | 2022-11-27 | 11854 | 2014 | 
 | 2022-11-26 | 11845 | 2014 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 11286 | 1953 | 
 | 2022-11-01 | 11275 | 1951 | 
 | 2022-10-31 | 11261 | 1948 | 
-| 2022-10-30 | 11250 | 1948 | 
 

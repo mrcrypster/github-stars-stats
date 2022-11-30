@@ -1,10 +1,10 @@
 # focus-creative-games/huatuo - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 10
 
-★ Stars: 42
+★ Stars: 43
 
 [Open repository](https://github.com/focus-creative-games/huatuo)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 43 | 10 | 
 | 2022-11-29 | 42 | 10 | 
 | 2022-11-27 | 40 | 10 | 
 | 2022-11-26 | 40 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-02 | 36 | 9 | 
 | 2022-11-01 | 36 | 9 | 
 | 2022-10-31 | 36 | 9 | 
-| 2022-10-30 | 36 | 9 | 
 

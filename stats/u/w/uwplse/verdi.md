@@ -1,10 +1,10 @@
 # uwplse/verdi - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 56
 
-★ Stars: 538
+★ Stars: 539
 
 [Open repository](https://github.com/uwplse/verdi)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 539 | 56 | 
 | 2022-11-28 | 538 | 56 | 
 | 2022-11-27 | 538 | 56 | 
 | 2022-11-26 | 538 | 56 | 

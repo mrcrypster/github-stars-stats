@@ -1,6 +1,6 @@
 # Davidsdy/Painel-web-Conecta4G - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 12 | 12 | 
 | 2022-11-28 | 12 | 12 | 
 | 2022-11-27 | 12 | 12 | 
 | 2022-11-26 | 11 | 11 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 10 | 9 | 
 | 2022-11-01 | 10 | 9 | 
 | 2022-10-31 | 10 | 9 | 
-| 2022-10-30 | 10 | 9 | 
 

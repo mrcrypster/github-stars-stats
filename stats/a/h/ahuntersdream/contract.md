@@ -1,6 +1,6 @@
 # ahuntersdream/contract - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 10 | 8 | 
 | 2022-11-28 | 10 | 8 | 
 | 2022-11-27 | 10 | 8 | 
 | 2022-11-26 | 10 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-03 | 10 | 8 | 
 | 2022-11-02 | 10 | 8 | 
 | 2022-11-01 | 10 | 8 | 
-| 2022-10-30 | 10 | 8 | 
 

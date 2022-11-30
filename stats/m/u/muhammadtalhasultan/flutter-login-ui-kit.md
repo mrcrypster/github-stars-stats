@@ -1,10 +1,10 @@
 # muhammadtalhasultan/flutter-login-ui-kit - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 32
 
-★ Stars: 128
+★ Stars: 129
 
 [Open repository](https://github.com/muhammadtalhasultan/flutter-login-ui-kit)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 129 | 32 | 
 | 2022-11-28 | 128 | 32 | 
 | 2022-11-27 | 128 | 32 | 
 | 2022-11-26 | 128 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 127 | 32 | 
 | 2022-11-01 | 126 | 32 | 
 | 2022-10-31 | 126 | 32 | 
-| 2022-10-30 | 126 | 32 | 
 

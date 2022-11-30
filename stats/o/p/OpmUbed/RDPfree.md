@@ -1,8 +1,8 @@
 # OpmUbed/RDPfree - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 30
 
-☋ Forks: 39
+☋ Forks: 40
 
 ★ Stars: 0
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | - | 40 | 
+| 2022-11-29 | - | 40 | 
 | 2022-11-28 | - | 39 | 
 | 2022-11-27 | - | 38 | 
 | 2022-11-26 | - | 38 | 

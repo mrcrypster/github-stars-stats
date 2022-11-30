@@ -1,10 +1,10 @@
 # P3TERX/Actions-OpenWrt - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 6114
+☋ Forks: 6115
 
-★ Stars: 5932
+★ Stars: 5933
 
 [Open repository](https://github.com/P3TERX/Actions-OpenWrt)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 5933 | 6115 | 
 | 2022-11-28 | 5932 | 6114 | 
 | 2022-11-27 | 5925 | 6115 | 
 | 2022-11-26 | 5912 | 6103 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 5847 | 6042 | 
 | 2022-11-01 | 5839 | 6033 | 
 | 2022-10-31 | 5834 | 6031 | 
-| 2022-10-30 | 5831 | 6026 | 
 

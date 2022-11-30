@@ -1,8 +1,8 @@
 # FStarLang/FStar - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 219
+☋ Forks: 218
 
 ★ Stars: 2330
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 2330 | 218 | 
 | 2022-11-28 | 2330 | 219 | 
 | 2022-11-27 | 2330 | 219 | 
 | 2022-11-26 | 2331 | 219 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 2318 | 217 | 
 | 2022-11-01 | 2318 | 217 | 
 | 2022-10-31 | 2318 | 217 | 
-| 2022-10-30 | 2317 | 217 | 
 

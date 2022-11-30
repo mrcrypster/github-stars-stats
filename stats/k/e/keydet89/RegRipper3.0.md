@@ -1,8 +1,8 @@
 # keydet89/RegRipper3.0 - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 80
+☋ Forks: 81
 
 ★ Stars: 314
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 314 | 81 | 
 | 2022-11-28 | 314 | 80 | 
 | 2022-11-27 | 314 | 80 | 
 | 2022-11-26 | 314 | 80 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 304 | 78 | 
 | 2022-11-01 | 304 | 78 | 
 | 2022-10-31 | 304 | 78 | 
-| 2022-10-30 | 304 | 78 | 
 

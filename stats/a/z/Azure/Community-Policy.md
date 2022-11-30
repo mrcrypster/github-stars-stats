@@ -1,6 +1,6 @@
 # Azure/Community-Policy - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 227
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 382 | 227 | 
 | 2022-11-28 | 382 | 227 | 
 | 2022-11-27 | 381 | 227 | 
 | 2022-11-26 | 380 | 227 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 373 | 215 | 
 | 2022-11-01 | 372 | 215 | 
 | 2022-10-31 | 372 | 216 | 
-| 2022-10-30 | 372 | 216 | 
 

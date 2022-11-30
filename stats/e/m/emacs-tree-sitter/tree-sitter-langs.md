@@ -1,6 +1,6 @@
 # emacs-tree-sitter/tree-sitter-langs - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 97
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 122 | 97 | 
 | 2022-11-29 | 122 | 97 | 
 | 2022-11-28 | 122 | 97 | 
 | 2022-11-27 | 122 | 96 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-02 | 117 | 93 | 
 | 2022-11-01 | 117 | 93 | 
 | 2022-10-31 | 117 | 93 | 
-| 2022-10-30 | 117 | 93 | 
 

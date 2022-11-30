@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-1-practice-toy-tale - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 1910
+☋ Forks: 1932
 
 ★ Stars: 8
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 8 | 1932 | 
 | 2022-11-29 | 8 | 1910 | 
 | 2022-11-27 | 8 | 1911 | 
 | 2022-11-26 | 8 | 1911 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-02 | 7 | 1820 | 
 | 2022-11-01 | 7 | 1819 | 
 | 2022-10-31 | 7 | 1818 | 
-| 2022-10-30 | 7 | 1819 | 
 

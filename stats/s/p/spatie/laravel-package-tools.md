@@ -1,6 +1,6 @@
 # spatie/laravel-package-tools - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 86
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 515 | 86 | 
 | 2022-11-28 | 515 | 86 | 
 | 2022-11-27 | 515 | 86 | 
 | 2022-11-26 | 515 | 86 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-03 | 506 | 84 | 
 | 2022-11-02 | 504 | 83 | 
 | 2022-11-01 | 504 | 83 | 
-| 2022-10-31 | 505 | 83 | 
 

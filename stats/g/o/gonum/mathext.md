@@ -1,6 +1,6 @@
 # gonum/mathext - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 17 | 5 | 
 | 2022-11-28 | 17 | 5 | 
 | 2022-11-27 | 17 | 5 | 
 | 2022-11-26 | 17 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-03 | 17 | 5 | 
 | 2022-11-02 | 17 | 5 | 
 | 2022-11-01 | 17 | 5 | 
-| 2022-10-31 | 17 | 5 | 
 

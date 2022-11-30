@@ -1,8 +1,8 @@
 # apple/swift-package-manager - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 1232
+☋ Forks: 1231
 
 ★ Stars: 9009
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 9009 | 1231 | 
 | 2022-11-28 | 9009 | 1232 | 
 | 2022-11-27 | 9008 | 1229 | 
 | 2022-11-26 | 9007 | 1229 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 8983 | 1222 | 
 | 2022-11-01 | 8982 | 1222 | 
 | 2022-10-31 | 8980 | 1220 | 
-| 2022-10-30 | 8978 | 1219 | 
 

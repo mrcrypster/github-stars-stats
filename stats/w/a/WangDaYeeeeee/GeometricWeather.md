@@ -1,6 +1,6 @@
 # WangDaYeeeeee/GeometricWeather - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 155
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 1518 | 155 | 
 | 2022-11-28 | 1518 | 155 | 
 | 2022-11-27 | 1516 | 155 | 
 | 2022-11-26 | 1515 | 155 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-03 | 1469 | 154 | 
 | 2022-11-02 | 1467 | 154 | 
 | 2022-11-01 | 1465 | 154 | 
-| 2022-10-31 | 1461 | 154 | 
 

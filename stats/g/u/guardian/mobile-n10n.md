@@ -1,10 +1,10 @@
 # guardian/mobile-n10n - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 4
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/guardian/mobile-n10n)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 14 | 4 | 
 | 2022-11-28 | 13 | 4 | 
 | 2022-11-27 | 13 | 4 | 
 | 2022-11-26 | 13 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 13 | 4 | 
 | 2022-11-01 | 13 | 4 | 
 | 2022-10-31 | 13 | 4 | 
-| 2022-10-30 | 12 | 4 | 
 

@@ -1,6 +1,6 @@
 # lvbag/BAG-API - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 35 | 15 | 
 | 2022-11-28 | 35 | 15 | 
 | 2022-11-27 | 35 | 15 | 
 | 2022-11-26 | 35 | 15 | 

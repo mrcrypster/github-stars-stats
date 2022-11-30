@@ -1,10 +1,10 @@
 # B4-Group/swe_b4 - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 8
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/B4-Group/swe_b4)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 7 | 8 | 
 | 2022-11-28 | 6 | 8 | 
 | 2022-11-27 | 5 | 8 | 
 | 2022-11-26 | 5 | 8 | 

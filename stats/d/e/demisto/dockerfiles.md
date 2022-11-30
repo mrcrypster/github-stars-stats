@@ -1,10 +1,10 @@
 # demisto/dockerfiles - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 95
 
-★ Stars: 45
+★ Stars: 46
 
 [Open repository](https://github.com/demisto/dockerfiles)
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 46 | 95 | 
+| 2022-11-29 | 46 | 95 | 
 | 2022-11-28 | 45 | 95 | 
 | 2022-11-27 | 43 | 96 | 
 | 2022-11-26 | 43 | 95 | 
@@ -41,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-03 | 43 | 95 | 
 | 2022-11-02 | 43 | 95 | 
 | 2022-11-01 | 43 | 95 | 
-| 2022-10-31 | 42 | 95 | 
 

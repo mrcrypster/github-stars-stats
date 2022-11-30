@@ -1,6 +1,6 @@
 # cleverca22/not-os - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 429 | 25 | 
 | 2022-11-28 | 429 | 25 | 
 | 2022-11-27 | 429 | 25 | 
 | 2022-11-26 | 429 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 419 | 24 | 
 | 2022-11-01 | 418 | 24 | 
 | 2022-10-31 | 418 | 24 | 
-| 2022-10-30 | 418 | 24 | 
 

@@ -1,10 +1,10 @@
 # romainguy/combo-breaker - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 7
+☋ Forks: 8
 
-★ Stars: 341
+★ Stars: 351
 
 [Open repository](https://github.com/romainguy/combo-breaker)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 351 | 8 | 
 | 2022-11-28 | 341 | 7 | 
 | 2022-11-27 | 339 | 7 | 
 | 2022-11-26 | 336 | 7 | 

@@ -1,10 +1,10 @@
 # StackStorm/st2 - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 688
 
-★ Stars: 5245
+★ Stars: 5248
 
 [Open repository](https://github.com/StackStorm/st2)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 5248 | 688 | 
 | 2022-11-28 | 5245 | 688 | 
 | 2022-11-27 | 5236 | 688 | 
 | 2022-11-26 | 5230 | 688 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 4996 | 680 | 
 | 2022-11-01 | 4993 | 680 | 
 | 2022-10-31 | 4991 | 680 | 
-| 2022-10-30 | 4989 | 680 | 
 

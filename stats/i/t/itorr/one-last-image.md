@@ -1,10 +1,10 @@
 # itorr/one-last-image - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 14
 
-★ Stars: 501
+★ Stars: 503
 
 [Open repository](https://github.com/itorr/one-last-image)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 503 | 14 | 
 | 2022-11-28 | 501 | 14 | 
 | 2022-11-27 | 502 | 14 | 
 | 2022-11-26 | 502 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 495 | 14 | 
 | 2022-11-01 | 494 | 14 | 
 | 2022-10-31 | 494 | 14 | 
-| 2022-10-30 | 494 | 14 | 
 

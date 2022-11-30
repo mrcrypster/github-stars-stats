@@ -1,8 +1,8 @@
 # uvdesk/community-skeleton - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 324
+☋ Forks: 325
 
 ★ Stars: 967
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 967 | 325 | 
 | 2022-11-28 | 967 | 324 | 
 | 2022-11-27 | 967 | 324 | 
 | 2022-11-26 | 967 | 324 | 

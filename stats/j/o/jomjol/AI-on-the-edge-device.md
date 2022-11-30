@@ -1,6 +1,6 @@
 # jomjol/AI-on-the-edge-device - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 371
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 2758 | 371 | 
 | 2022-11-28 | 2758 | 371 | 
 | 2022-11-27 | 2756 | 368 | 
 | 2022-11-26 | 2747 | 368 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 2604 | 350 | 
 | 2022-11-01 | 2601 | 350 | 
 | 2022-10-31 | 2601 | 348 | 
-| 2022-10-30 | 2596 | 347 | 
 

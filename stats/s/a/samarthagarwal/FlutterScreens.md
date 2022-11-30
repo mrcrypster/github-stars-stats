@@ -1,6 +1,6 @@
 # samarthagarwal/FlutterScreens - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 1246
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 4960 | 1246 | 
 | 2022-11-29 | 4960 | 1246 | 
 | 2022-11-28 | 4960 | 1245 | 
 | 2022-11-26 | 4960 | 1245 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-02 | 4931 | 1239 | 
 | 2022-11-01 | 4928 | 1239 | 
 | 2022-10-31 | 4926 | 1238 | 
-| 2022-10-30 | 4927 | 1236 | 
 

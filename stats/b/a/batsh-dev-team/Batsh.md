@@ -1,10 +1,10 @@
 # batsh-dev-team/Batsh - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 189
 
-★ Stars: 4194
+★ Stars: 4193
 
 [Open repository](https://github.com/batsh-dev-team/Batsh)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 4193 | 189 | 
 | 2022-11-28 | 4194 | 189 | 
 | 2022-11-27 | 4194 | 189 | 
 | 2022-11-26 | 4194 | 189 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 4190 | 189 | 
 | 2022-11-01 | 4191 | 189 | 
 | 2022-10-31 | 4191 | 189 | 
-| 2022-10-30 | 4189 | 189 | 
 

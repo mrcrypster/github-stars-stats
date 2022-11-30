@@ -1,6 +1,6 @@
 # AnasImloul/Leetcode-Solutions - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 91
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 283 | 91 | 
 | 2022-11-28 | 283 | 91 | 
 | 2022-11-27 | 282 | 91 | 
 | 2022-11-26 | 282 | 91 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 273 | 92 | 
 | 2022-11-01 | 271 | 92 | 
 | 2022-10-31 | 271 | 92 | 
-| 2022-10-30 | 270 | 92 | 
 

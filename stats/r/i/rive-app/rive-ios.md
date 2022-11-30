@@ -1,10 +1,10 @@
 # rive-app/rive-ios - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 21
 
-★ Stars: 201
+★ Stars: 202
 
 [Open repository](https://github.com/rive-app/rive-ios)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 202 | 21 | 
 | 2022-11-28 | 201 | 21 | 
 | 2022-11-27 | 200 | 21 | 
 | 2022-11-26 | 200 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 171 | 18 | 
 | 2022-11-01 | 171 | 18 | 
 | 2022-10-31 | 171 | 18 | 
-| 2022-10-30 | 171 | 18 | 
 

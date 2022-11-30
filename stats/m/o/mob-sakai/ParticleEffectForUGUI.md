@@ -1,10 +1,10 @@
 # mob-sakai/ParticleEffectForUGUI - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 414
 
-★ Stars: 2628
+★ Stars: 2635
 
 [Open repository](https://github.com/mob-sakai/ParticleEffectForUGUI)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 2635 | 414 | 
 | 2022-11-29 | 2628 | 414 | 
 | 2022-11-27 | 2624 | 414 | 
 | 2022-11-26 | 2621 | 412 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-02 | 2571 | 410 | 
 | 2022-11-01 | 2568 | 411 | 
 | 2022-10-31 | 2566 | 410 | 
-| 2022-10-30 | 2565 | 409 | 
 

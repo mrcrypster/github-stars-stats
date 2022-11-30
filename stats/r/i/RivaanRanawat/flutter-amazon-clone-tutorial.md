@@ -1,10 +1,10 @@
 # RivaanRanawat/flutter-amazon-clone-tutorial - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
-☋ Forks: 145
+☋ Forks: 148
 
-★ Stars: 279
+★ Stars: 284
 
 [Open repository](https://github.com/RivaanRanawat/flutter-amazon-clone-tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 284 | 148 | 
 | 2022-11-28 | 279 | 145 | 
 | 2022-11-27 | 269 | 142 | 
 | 2022-11-26 | 267 | 142 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 256 | 130 | 
 | 2022-11-01 | 256 | 129 | 
 | 2022-10-31 | 256 | 129 | 
-| 2022-10-30 | 256 | 129 | 
 

@@ -1,10 +1,10 @@
 # instant-markdown/vim-instant-markdown - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 252
 
-★ Stars: 2615
+★ Stars: 2616
 
 [Open repository](https://github.com/instant-markdown/vim-instant-markdown)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 2616 | 252 | 
 | 2022-11-28 | 2615 | 252 | 
 | 2022-11-27 | 2615 | 252 | 
 | 2022-11-26 | 2615 | 252 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 2609 | 253 | 
 | 2022-11-01 | 2607 | 253 | 
 | 2022-10-31 | 2607 | 254 | 
-| 2022-10-30 | 2607 | 254 | 
 

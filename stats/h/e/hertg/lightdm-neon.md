@@ -1,6 +1,6 @@
 # hertg/lightdm-neon - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 56 | - | 
 | 2022-11-29 | 56 | - | 
 | 2022-11-27 | 55 | - | 
 | 2022-11-26 | 55 | - | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-02 | 51 | - | 
 | 2022-11-01 | 51 | - | 
 | 2022-10-31 | 51 | - | 
-| 2022-10-30 | 50 | - | 
 

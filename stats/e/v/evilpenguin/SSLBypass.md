@@ -1,10 +1,10 @@
 # evilpenguin/SSLBypass - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 44
 
-★ Stars: 223
+★ Stars: 224
 
 [Open repository](https://github.com/evilpenguin/SSLBypass)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 224 | 44 | 
 | 2022-11-28 | 223 | 44 | 
 | 2022-11-27 | 223 | 44 | 
 | 2022-11-26 | 223 | 44 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-02 | 221 | 44 | 
 | 2022-11-01 | 221 | 44 | 
 | 2022-10-31 | 221 | 44 | 
-| 2022-10-30 | 221 | 44 | 
 

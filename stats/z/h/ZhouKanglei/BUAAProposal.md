@@ -1,10 +1,10 @@
 # ZhouKanglei/BUAAProposal - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 3
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/ZhouKanglei/BUAAProposal)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 16 | 3 | 
 | 2022-11-28 | 15 | 3 | 
 | 2022-11-27 | 15 | 3 | 
 | 2022-11-26 | 14 | 3 | 

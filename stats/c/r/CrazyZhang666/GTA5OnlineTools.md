@@ -1,6 +1,6 @@
 # CrazyZhang666/GTA5OnlineTools - stars & forks statistics
 
-Stats updated on Nov 2022, 28
+Stats updated on Nov 2022, 29
 
 ☋ Forks: 77
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-29 | 607 | 77 | 
 | 2022-11-28 | 607 | 77 | 
 | 2022-11-27 | 605 | 77 | 
 | 2022-11-26 | 603 | 76 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 28
 | 2022-11-03 | 590 | 73 | 
 | 2022-11-01 | 590 | 73 | 
 | 2022-10-31 | 590 | 74 | 
-| 2022-10-30 | 586 | 72 | 
 
