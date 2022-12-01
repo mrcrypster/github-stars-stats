@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 30
 
 ☋ Forks: 0
 
-★ Stars: 26
+★ Stars: 29
 
 [Open repository](https://github.com/toshiossada/conversor_moedas_fatec)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-30 | 26 | - | 
+| 2022-11-30 | 29 | - | 
 | 2022-11-29 | 26 | - | 
 

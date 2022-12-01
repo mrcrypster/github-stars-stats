@@ -1,10 +1,10 @@
 # lukeaschenbrenner/TxtNet-Browser - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 6
 
-★ Stars: 265
+★ Stars: 266
 
 [Open repository](https://github.com/lukeaschenbrenner/TxtNet-Browser)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 266 | 6 | 
 | 2022-11-29 | 265 | 6 | 
 | 2022-11-28 | 264 | 6 | 
 | 2022-11-27 | 264 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 257 | 5 | 
 | 2022-11-02 | 257 | 5 | 
 | 2022-11-01 | 257 | 5 | 
-| 2022-10-31 | 256 | 5 | 
 

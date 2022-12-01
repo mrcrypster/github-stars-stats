@@ -1,6 +1,6 @@
 # chriscrowe/docker-pihole-unbound - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 176
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 649 | 176 | 
 | 2022-11-29 | 649 | 176 | 
 | 2022-11-28 | 649 | 175 | 
 | 2022-11-27 | 648 | 174 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-04 | 625 | 173 | 
 | 2022-11-03 | 626 | 173 | 
 | 2022-11-02 | 626 | 173 | 
-| 2022-11-01 | 625 | 173 | 
 

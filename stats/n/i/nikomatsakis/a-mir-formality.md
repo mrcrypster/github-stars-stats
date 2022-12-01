@@ -1,10 +1,10 @@
 # nikomatsakis/a-mir-formality - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 18
 
-★ Stars: 114
+★ Stars: 115
 
 [Open repository](https://github.com/nikomatsakis/a-mir-formality)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 115 | 18 | 
 | 2022-11-29 | 114 | 18 | 
 | 2022-11-28 | 110 | 17 | 
 | 2022-11-27 | 110 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-04 | 108 | 17 | 
 | 2022-11-03 | 108 | 17 | 
 | 2022-11-02 | 108 | 17 | 
-| 2022-11-01 | 108 | 17 | 
 

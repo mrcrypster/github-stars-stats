@@ -1,6 +1,6 @@
 # assetnote/wordlists - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 87
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 751 | 87 | 
 | 2022-11-29 | 751 | 87 | 
 | 2022-11-28 | 748 | 87 | 
 | 2022-11-27 | 746 | 87 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-04 | 733 | 85 | 
 | 2022-11-03 | 734 | 85 | 
 | 2022-11-02 | 733 | 85 | 
-| 2022-11-01 | 733 | 85 | 
 

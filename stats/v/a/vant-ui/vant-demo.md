@@ -1,8 +1,8 @@
 # vant-ui/vant-demo - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 1070
+☋ Forks: 1072
 
 ★ Stars: 1687
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 1687 | 1072 | 
 | 2022-11-29 | 1687 | 1070 | 
 | 2022-11-28 | 1687 | 1070 | 
 | 2022-11-27 | 1686 | 1070 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 1669 | 1070 | 
 | 2022-11-02 | 1669 | 1069 | 
 | 2022-11-01 | 1668 | 1068 | 
-| 2022-10-31 | 1666 | 1067 | 
 

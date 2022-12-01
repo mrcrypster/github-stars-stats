@@ -1,10 +1,10 @@
 # quickwit-oss/tantivy - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 433
 
-★ Stars: 7313
+★ Stars: 7338
 
 [Open repository](https://github.com/quickwit-oss/tantivy)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 7338 | 433 | 
 | 2022-11-29 | 7313 | 433 | 
 | 2022-11-28 | 7311 | 435 | 
 | 2022-11-27 | 7309 | 435 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 7224 | 431 | 
 | 2022-11-02 | 7220 | 431 | 
 | 2022-11-01 | 7218 | 431 | 
-| 2022-10-31 | 7212 | 432 | 
 

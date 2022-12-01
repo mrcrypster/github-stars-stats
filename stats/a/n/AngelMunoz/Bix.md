@@ -1,10 +1,10 @@
 # AngelMunoz/Bix - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 0
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/AngelMunoz/Bix)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 24 | - | 
 | 2022-11-29 | 23 | - | 
 | 2022-11-28 | 23 | - | 
 | 2022-11-27 | 23 | - | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 23 | - | 
 | 2022-11-02 | 23 | - | 
 | 2022-11-01 | 23 | - | 
-| 2022-10-31 | 23 | - | 
 

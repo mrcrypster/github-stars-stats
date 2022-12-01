@@ -1,10 +1,10 @@
 # DGP-Studio/Snap.Hutao - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 28
 
-★ Stars: 630
+★ Stars: 631
 
 [Open repository](https://github.com/DGP-Studio/Snap.Hutao)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 631 | 28 | 
 | 2022-11-29 | 630 | 28 | 
 | 2022-11-28 | 624 | 27 | 
 | 2022-11-27 | 619 | 27 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 486 | 24 | 
 | 2022-11-02 | 477 | 23 | 
 | 2022-11-01 | 468 | 23 | 
-| 2022-10-31 | 466 | 23 | 
 

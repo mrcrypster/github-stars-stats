@@ -1,10 +1,10 @@
 # serhii-londar/open-source-mac-os-apps - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 2115
+☋ Forks: 2116
 
-★ Stars: 33161
+★ Stars: 33172
 
 [Open repository](https://github.com/serhii-londar/open-source-mac-os-apps)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 33172 | 2116 | 
 | 2022-11-29 | 33161 | 2115 | 
 | 2022-11-28 | 33144 | 2115 | 
 | 2022-11-27 | 33130 | 2115 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 32809 | 2111 | 
 | 2022-11-02 | 32786 | 2112 | 
 | 2022-11-01 | 32771 | 2112 | 
-| 2022-10-31 | 32761 | 2112 | 
 

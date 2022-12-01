@@ -1,10 +1,10 @@
 # faridrashidi/kaggle-solutions - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 703
 
-★ Stars: 2245
+★ Stars: 2246
 
 [Open repository](https://github.com/faridrashidi/kaggle-solutions)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 2246 | 703 | 
 | 2022-11-29 | 2245 | 703 | 
 | 2022-11-28 | 2244 | 703 | 
 | 2022-11-27 | 2244 | 702 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 2208 | 688 | 
 | 2022-11-02 | 2205 | 684 | 
 | 2022-11-01 | 2202 | 684 | 
-| 2022-10-31 | 2195 | 683 | 
 

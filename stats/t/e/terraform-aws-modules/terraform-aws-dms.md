@@ -1,10 +1,10 @@
 # terraform-aws-modules/terraform-aws-dms - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 45
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/terraform-aws-modules/terraform-aws-dms)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 37 | 45 | 
 | 2022-11-29 | 36 | 45 | 
 | 2022-11-28 | 36 | 45 | 
 | 2022-11-27 | 36 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 34 | 44 | 
 | 2022-11-02 | 34 | 44 | 
 | 2022-11-01 | 34 | 44 | 
-| 2022-10-31 | 34 | 45 | 
 

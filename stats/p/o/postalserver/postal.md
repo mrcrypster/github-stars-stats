@@ -1,10 +1,10 @@
 # postalserver/postal - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 882
+☋ Forks: 883
 
-★ Stars: 12194
+★ Stars: 12195
 
 [Open repository](https://github.com/postalserver/postal)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 12195 | 883 | 
 | 2022-11-29 | 12194 | 882 | 
 | 2022-11-28 | 12194 | 882 | 
 | 2022-11-27 | 12190 | 881 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 12156 | 875 | 
 | 2022-11-02 | 12156 | 875 | 
 | 2022-11-01 | 12152 | 874 | 
-| 2022-10-31 | 12148 | 874 | 
 

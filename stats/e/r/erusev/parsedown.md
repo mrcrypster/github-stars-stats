@@ -1,6 +1,6 @@
 # erusev/parsedown - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 1094
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 14276 | 1094 | 
 | 2022-11-29 | 14276 | 1094 | 
 | 2022-11-28 | 14279 | 1093 | 
 | 2022-11-27 | 14280 | 1093 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 14258 | 1089 | 
 | 2022-11-02 | 14258 | 1089 | 
 | 2022-11-01 | 14257 | 1088 | 
-| 2022-10-31 | 14257 | 1088 | 
 

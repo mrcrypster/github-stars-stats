@@ -1,10 +1,10 @@
 # jeremyjh/dialyxir - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 123
 
-★ Stars: 1489
+★ Stars: 1491
 
 [Open repository](https://github.com/jeremyjh/dialyxir)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 1491 | 123 | 
 | 2022-11-29 | 1489 | 123 | 
 | 2022-11-28 | 1489 | 123 | 
 | 2022-11-27 | 1489 | 123 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 1486 | 123 | 
 | 2022-11-02 | 1483 | 123 | 
 | 2022-11-01 | 1483 | 123 | 
-| 2022-10-31 | 1482 | 123 | 
 

@@ -1,6 +1,6 @@
 # deemp/terrafix - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 5 | 1 | 
 | 2022-11-29 | 5 | 1 | 
 | 2022-11-28 | 5 | 1 | 
 

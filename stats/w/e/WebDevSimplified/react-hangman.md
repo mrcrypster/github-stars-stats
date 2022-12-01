@@ -1,8 +1,8 @@
 # WebDevSimplified/react-hangman - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 23
+☋ Forks: 24
 
 ★ Stars: 25
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 25 | 24 | 
 | 2022-11-30 | 25 | 23 | 
 | 2022-11-28 | 25 | 23 | 
 | 2022-11-27 | 25 | 23 | 

@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 30
 
 ☋ Forks: 2
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/courselab/snaskii22)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-30 | 6 | 2 | 
+| 2022-11-30 | 7 | 2 | 
 | 2022-11-29 | 5 | 1 | 
 | 2022-11-28 | 2 | 2 | 
 | 2022-11-26 | 2 | 2 | 

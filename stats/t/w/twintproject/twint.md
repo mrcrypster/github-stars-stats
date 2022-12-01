@@ -1,10 +1,10 @@
 # twintproject/twint - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 2420
 
-★ Stars: 14117
+★ Stars: 14121
 
 [Open repository](https://github.com/twintproject/twint)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 14121 | 2420 | 
 | 2022-11-29 | 14117 | 2420 | 
 | 2022-11-28 | 14114 | 2418 | 
 | 2022-11-27 | 14104 | 2418 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 13958 | 2397 | 
 | 2022-11-02 | 13957 | 2395 | 
 | 2022-11-01 | 13956 | 2395 | 
-| 2022-10-31 | 13955 | 2397 | 
 

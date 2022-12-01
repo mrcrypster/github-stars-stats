@@ -1,6 +1,6 @@
 # bentoml/BentoML - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 494
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 4269 | 494 | 
 | 2022-11-30 | 4269 | 494 | 
 | 2022-11-28 | 4269 | 494 | 
 | 2022-11-27 | 4264 | 493 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-03 | 4172 | 482 | 
 | 2022-11-02 | 4167 | 482 | 
 | 2022-11-01 | 4164 | 482 | 
-| 2022-10-31 | 4160 | 482 | 
 

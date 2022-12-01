@@ -1,10 +1,10 @@
 # SwiftcordApp/Swiftcord - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 41
 
-★ Stars: 1026
+★ Stars: 1027
 
 [Open repository](https://github.com/SwiftcordApp/Swiftcord)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 1027 | 41 | 
 | 2022-11-29 | 1026 | 41 | 
 | 2022-11-28 | 1025 | 41 | 
 | 2022-11-27 | 1025 | 41 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 983 | 38 | 
 | 2022-11-02 | 983 | 38 | 
 | 2022-11-01 | 981 | 38 | 
-| 2022-10-31 | 980 | 38 | 
 

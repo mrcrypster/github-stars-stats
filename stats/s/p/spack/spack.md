@@ -1,8 +1,8 @@
 # spack/spack - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 1783
+☋ Forks: 1784
 
 ★ Stars: 3078
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 3078 | 1784 | 
 | 2022-11-30 | 3078 | 1783 | 
 | 2022-11-29 | 3073 | 1783 | 
 | 2022-11-28 | 3072 | 1782 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-03 | 3035 | 1759 | 
 | 2022-11-02 | 3036 | 1758 | 
 | 2022-11-01 | 3034 | 1757 | 
-| 2022-10-31 | 3027 | 1756 | 
 

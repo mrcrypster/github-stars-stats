@@ -1,8 +1,8 @@
 # Charca/astro-view-transitions - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 2
+☋ Forks: 3
 
 ★ Stars: 58
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 58 | 3 | 
 | 2022-11-29 | 58 | 2 | 
 | 2022-11-28 | 55 | 2 | 
 | 2022-11-27 | 55 | 2 | 

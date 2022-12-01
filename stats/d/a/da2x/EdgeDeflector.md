@@ -1,8 +1,8 @@
 # da2x/EdgeDeflector - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 149
+☋ Forks: 148
 
 ★ Stars: 2838
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 2838 | 148 | 
 | 2022-11-29 | 2838 | 149 | 
 | 2022-11-28 | 2838 | 149 | 
 | 2022-11-27 | 2838 | 149 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 2828 | 149 | 
 | 2022-11-02 | 2828 | 149 | 
 | 2022-11-01 | 2827 | 150 | 
-| 2022-10-31 | 2827 | 150 | 
 

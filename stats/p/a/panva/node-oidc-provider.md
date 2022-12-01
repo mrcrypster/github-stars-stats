@@ -1,10 +1,10 @@
 # panva/node-oidc-provider - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 671
+☋ Forks: 672
 
-★ Stars: 2465
+★ Stars: 2468
 
 [Open repository](https://github.com/panva/node-oidc-provider)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 2468 | 672 | 
 | 2022-11-29 | 2465 | 671 | 
 | 2022-11-28 | 2464 | 669 | 
 | 2022-11-27 | 2461 | 668 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 2445 | 663 | 
 | 2022-11-02 | 2446 | 663 | 
 | 2022-11-01 | 2445 | 663 | 
-| 2022-10-31 | 2443 | 661 | 
 

@@ -1,8 +1,8 @@
 # allnes/par_pro_2022_mpi - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Dec 2022, 01
 
-☋ Forks: 37
+☋ Forks: 38
 
 ★ Stars: 0
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | - | 38 | 
+| 2022-11-30 | - | 38 | 
 | 2022-11-29 | - | 37 | 
 | 2022-11-28 | - | 37 | 
 | 2022-11-27 | - | 37 | 

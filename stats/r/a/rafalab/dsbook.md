@@ -1,10 +1,10 @@
 # rafalab/dsbook - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 918
+☋ Forks: 920
 
-★ Stars: 899
+★ Stars: 900
 
 [Open repository](https://github.com/rafalab/dsbook)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 900 | 920 | 
 | 2022-11-29 | 899 | 918 | 
 | 2022-11-28 | 899 | 918 | 
 | 2022-11-27 | 898 | 918 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 896 | 915 | 
 | 2022-11-02 | 895 | 915 | 
 | 2022-11-01 | 896 | 915 | 
-| 2022-10-31 | 895 | 916 | 
 

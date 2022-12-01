@@ -1,6 +1,6 @@
 # lbenz730/world_cup_2022 - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 27 | 9 | 
 | 2022-11-29 | 27 | 9 | 
 | 2022-11-28 | 27 | 9 | 
 | 2022-11-27 | 27 | 9 | 

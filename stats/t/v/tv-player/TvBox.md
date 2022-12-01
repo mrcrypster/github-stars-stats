@@ -1,10 +1,10 @@
 # tv-player/TvBox - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 153
+☋ Forks: 154
 
-★ Stars: 563
+★ Stars: 569
 
 [Open repository](https://github.com/tv-player/TvBox)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 569 | 154 | 
 | 2022-11-30 | 563 | 153 | 
 | 2022-11-29 | 552 | 152 | 
 | 2022-11-27 | 544 | 151 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-03 | 419 | 123 | 
 | 2022-11-02 | 413 | 123 | 
 | 2022-11-01 | 408 | 122 | 
-| 2022-10-31 | 403 | 122 | 
 

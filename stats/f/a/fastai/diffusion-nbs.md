@@ -1,10 +1,10 @@
 # fastai/diffusion-nbs - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 81
+☋ Forks: 82
 
-★ Stars: 208
+★ Stars: 209
 
 [Open repository](https://github.com/fastai/diffusion-nbs)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 209 | 82 | 
 | 2022-11-30 | 208 | 81 | 
 | 2022-11-29 | 206 | 80 | 
 | 2022-11-27 | 203 | 80 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-03 | 152 | 60 | 
 | 2022-11-02 | 149 | 58 | 
 | 2022-11-01 | 146 | 58 | 
-| 2022-10-31 | 143 | 56 | 
 

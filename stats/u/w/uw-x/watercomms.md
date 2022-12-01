@@ -1,10 +1,10 @@
 # uw-x/watercomms - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 5
 
-★ Stars: 60
+★ Stars: 61
 
 [Open repository](https://github.com/uw-x/watercomms)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 61 | 5 | 
 | 2022-11-30 | 60 | 5 | 
 | 2022-11-28 | 60 | 5 | 
 | 2022-11-27 | 60 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-03 | 59 | 4 | 
 | 2022-11-02 | 59 | 4 | 
 | 2022-11-01 | 59 | 4 | 
-| 2022-10-31 | 59 | 4 | 
 

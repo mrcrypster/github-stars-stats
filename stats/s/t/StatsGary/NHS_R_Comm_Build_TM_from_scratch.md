@@ -1,10 +1,10 @@
 # StatsGary/NHS_R_Comm_Build_TM_from_scratch - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 4
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/StatsGary/NHS_R_Comm_Build_TM_from_scratch)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 17 | 4 | 
 | 2022-11-29 | 16 | 4 | 
 | 2022-11-28 | 16 | 4 | 
 | 2022-11-27 | 16 | 4 | 

@@ -1,10 +1,10 @@
 # safe6Sec/CodeqlNote - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 97
 
-★ Stars: 666
+★ Stars: 667
 
 [Open repository](https://github.com/safe6Sec/CodeqlNote)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 667 | 97 | 
 | 2022-11-30 | 666 | 97 | 
 | 2022-11-28 | 666 | 97 | 
 | 2022-11-27 | 664 | 97 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-03 | 657 | 96 | 
 | 2022-11-02 | 657 | 96 | 
 | 2022-11-01 | 657 | 96 | 
-| 2022-10-31 | 656 | 96 | 
 

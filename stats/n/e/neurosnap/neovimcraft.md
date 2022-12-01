@@ -1,6 +1,6 @@
 # neurosnap/neovimcraft - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 154 | 20 | 
 | 2022-11-29 | 154 | 20 | 
 | 2022-11-28 | 154 | 20 | 
 | 2022-11-27 | 154 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 146 | 18 | 
 | 2022-11-02 | 146 | 18 | 
 | 2022-11-01 | 145 | 18 | 
-| 2022-10-31 | 145 | 18 | 
 

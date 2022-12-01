@@ -1,8 +1,8 @@
 # daem0nc0re/AtomicSyscall - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 44
+☋ Forks: 45
 
 ★ Stars: 225
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 225 | 45 | 
 | 2022-11-30 | 225 | 44 | 
 | 2022-11-28 | 225 | 44 | 
 | 2022-11-27 | 225 | 44 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-03 | 187 | 34 | 
 | 2022-11-02 | 186 | 34 | 
 | 2022-11-01 | 179 | 34 | 
-| 2022-10-31 | 151 | 28 | 
 

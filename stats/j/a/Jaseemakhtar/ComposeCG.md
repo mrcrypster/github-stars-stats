@@ -1,10 +1,10 @@
 # Jaseemakhtar/ComposeCG - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 8
 
-★ Stars: 160
+★ Stars: 161
 
 [Open repository](https://github.com/Jaseemakhtar/ComposeCG)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 161 | 8 | 
 | 2022-11-29 | 160 | 8 | 
 | 2022-11-28 | 160 | 8 | 
 | 2022-11-27 | 160 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 160 | 8 | 
 | 2022-11-02 | 160 | 8 | 
 | 2022-11-01 | 160 | 8 | 
-| 2022-10-31 | 160 | 8 | 
 

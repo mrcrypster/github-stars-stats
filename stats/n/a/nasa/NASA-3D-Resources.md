@@ -1,10 +1,10 @@
 # nasa/NASA-3D-Resources - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 424
 
-★ Stars: 2611
+★ Stars: 2614
 
 [Open repository](https://github.com/nasa/NASA-3D-Resources)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 2614 | 424 | 
 | 2022-11-29 | 2611 | 424 | 
 | 2022-11-28 | 2611 | 424 | 
 | 2022-11-27 | 2610 | 424 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-04 | 2600 | 421 | 
 | 2022-11-03 | 2599 | 421 | 
 | 2022-11-02 | 2599 | 421 | 
-| 2022-11-01 | 2596 | 421 | 
 

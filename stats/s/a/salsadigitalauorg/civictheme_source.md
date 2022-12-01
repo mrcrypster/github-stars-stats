@@ -1,10 +1,10 @@
 # salsadigitalauorg/civictheme_source - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 1
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/salsadigitalauorg/civictheme_source)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 7 | 1 | 
 | 2022-11-29 | 6 | 1 | 
 | 2022-11-28 | 6 | 1 | 
 | 2022-11-27 | 6 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-04 | 4 | 1 | 
 | 2022-11-03 | 4 | 1 | 
 | 2022-11-02 | 4 | 1 | 
-| 2022-11-01 | 4 | 1 | 
 

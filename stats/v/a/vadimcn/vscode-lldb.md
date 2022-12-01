@@ -1,10 +1,10 @@
 # vadimcn/vscode-lldb - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 182
 
-★ Stars: 1583
+★ Stars: 1587
 
 [Open repository](https://github.com/vadimcn/vscode-lldb)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 1587 | 182 | 
 | 2022-11-29 | 1583 | 182 | 
 | 2022-11-28 | 1581 | 182 | 
 | 2022-11-27 | 1581 | 182 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 1553 | 179 | 
 | 2022-11-02 | 1554 | 180 | 
 | 2022-11-01 | 1550 | 180 | 
-| 2022-10-31 | 1550 | 180 | 
 

@@ -1,8 +1,8 @@
 # apache/ignite - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 1817
+☋ Forks: 1818
 
 ★ Stars: 4335
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 4335 | 1818 | 
 | 2022-11-29 | 4335 | 1817 | 
 | 2022-11-28 | 4332 | 1816 | 
 | 2022-11-27 | 4330 | 1815 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-04 | 4310 | 1807 | 
 | 2022-11-03 | 4309 | 1807 | 
 | 2022-11-02 | 4311 | 1807 | 
-| 2022-11-01 | 4310 | 1807 | 
 

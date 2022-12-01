@@ -1,10 +1,10 @@
 # bootandy/dust - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 124
 
-★ Stars: 5288
+★ Stars: 5293
 
 [Open repository](https://github.com/bootandy/dust)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 5293 | 124 | 
 | 2022-11-29 | 5288 | 124 | 
 | 2022-11-28 | 5284 | 123 | 
 | 2022-11-27 | 5279 | 123 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 5156 | 117 | 
 | 2022-11-02 | 5155 | 117 | 
 | 2022-11-01 | 5150 | 117 | 
-| 2022-10-31 | 5146 | 117 | 
 

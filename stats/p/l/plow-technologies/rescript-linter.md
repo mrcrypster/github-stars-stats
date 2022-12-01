@@ -1,10 +1,10 @@
 # plow-technologies/rescript-linter - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 1
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/plow-technologies/rescript-linter)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 10 | 1 | 
 | 2022-11-30 | 9 | 1 | 
 | 2022-11-28 | 9 | 1 | 
 | 2022-11-27 | 9 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-03 | 9 | 1 | 
 | 2022-11-02 | 9 | 1 | 
 | 2022-11-01 | 9 | 1 | 
-| 2022-10-31 | 9 | 1 | 
 

@@ -1,8 +1,8 @@
 # fylz1125/ShaderDemos - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 350
+☋ Forks: 351
 
 ★ Stars: 940
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 940 | 351 | 
 | 2022-11-29 | 940 | 350 | 
 | 2022-11-28 | 940 | 350 | 
 | 2022-11-27 | 940 | 350 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 934 | 351 | 
 | 2022-11-02 | 934 | 351 | 
 | 2022-11-01 | 934 | 351 | 
-| 2022-10-31 | 934 | 351 | 
 

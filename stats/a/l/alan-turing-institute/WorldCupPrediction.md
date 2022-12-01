@@ -1,10 +1,10 @@
 # alan-turing-institute/WorldCupPrediction - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 7
 
-★ Stars: 59
+★ Stars: 61
 
 [Open repository](https://github.com/alan-turing-institute/WorldCupPrediction)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 61 | 7 | 
 | 2022-11-29 | 59 | 7 | 
 | 2022-11-28 | 58 | 7 | 
 | 2022-11-27 | 50 | 6 | 

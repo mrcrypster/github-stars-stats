@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-service-control-policies - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 22 | 13 | 
 | 2022-11-29 | 22 | 13 | 
 | 2022-11-28 | 22 | 13 | 
 | 2022-11-27 | 22 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 21 | 12 | 
 | 2022-11-02 | 21 | 12 | 
 | 2022-11-01 | 21 | 12 | 
-| 2022-10-31 | 21 | 12 | 
 

@@ -1,10 +1,10 @@
 # joaocarvalhoopen/How_to_learn_modern_Rust - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 64
 
-★ Stars: 2506
+★ Stars: 2508
 
 [Open repository](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 2508 | 64 | 
 | 2022-11-29 | 2506 | 64 | 
 | 2022-11-28 | 2506 | 64 | 
 | 2022-11-27 | 2505 | 64 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 2483 | 64 | 
 | 2022-11-02 | 2482 | 64 | 
 | 2022-11-01 | 2480 | 64 | 
-| 2022-10-31 | 2478 | 64 | 
 

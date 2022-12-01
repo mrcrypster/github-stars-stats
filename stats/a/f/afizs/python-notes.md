@@ -1,10 +1,10 @@
 # afizs/python-notes - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 13
+☋ Forks: 14
 
-★ Stars: 93
+★ Stars: 96
 
 [Open repository](https://github.com/afizs/python-notes)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 96 | 14 | 
 | 2022-11-29 | 93 | 13 | 
 | 2022-11-28 | 92 | 13 | 
 | 2022-11-27 | 90 | 13 | 

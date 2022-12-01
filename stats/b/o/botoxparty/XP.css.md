@@ -1,10 +1,10 @@
 # botoxparty/XP.css - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 75
 
-★ Stars: 1629
+★ Stars: 1632
 
 [Open repository](https://github.com/botoxparty/XP.css)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 1632 | 75 | 
 | 2022-11-29 | 1629 | 75 | 
 | 2022-11-28 | 1629 | 76 | 
 | 2022-11-27 | 1626 | 75 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 1603 | 72 | 
 | 2022-11-02 | 1602 | 72 | 
 | 2022-11-01 | 1601 | 72 | 
-| 2022-10-31 | 1601 | 72 | 
 

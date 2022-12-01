@@ -1,10 +1,10 @@
 # lorenzofiamingo/swiftui-cached-async-image - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 31
 
-★ Stars: 249
+★ Stars: 250
 
 [Open repository](https://github.com/lorenzofiamingo/swiftui-cached-async-image)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 250 | 31 | 
 | 2022-11-29 | 249 | 31 | 
 | 2022-11-28 | 249 | 31 | 
 | 2022-11-27 | 249 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-04 | 233 | 29 | 
 | 2022-11-03 | 232 | 28 | 
 | 2022-11-02 | 231 | 27 | 
-| 2022-11-01 | 230 | 27 | 
 

@@ -1,8 +1,8 @@
 # harvester/harvester - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 335
+☋ Forks: 336
 
 ★ Stars: 2562
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 2562 | 336 | 
 | 2022-11-30 | 2562 | 335 | 
 | 2022-11-29 | 2560 | 335 | 
 | 2022-11-27 | 2554 | 335 | 

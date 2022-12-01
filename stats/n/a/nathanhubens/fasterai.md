@@ -1,10 +1,10 @@
 # nathanhubens/fasterai - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 13
 
-★ Stars: 186
+★ Stars: 187
 
 [Open repository](https://github.com/nathanhubens/fasterai)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 187 | 13 | 
 | 2022-11-29 | 186 | 13 | 
 | 2022-11-28 | 186 | 13 | 
 | 2022-11-27 | 186 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 184 | 13 | 
 | 2022-11-02 | 184 | 13 | 
 | 2022-11-01 | 184 | 13 | 
-| 2022-10-31 | 184 | 13 | 
 

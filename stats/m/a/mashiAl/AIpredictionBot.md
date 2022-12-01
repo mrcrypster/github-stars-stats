@@ -1,6 +1,6 @@
 # mashiAl/AIpredictionBot - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 404
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 345 | 404 | 
 | 2022-11-29 | 345 | 404 | 
 | 2022-11-28 | 345 | 404 | 
 | 2022-11-27 | 344 | 404 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 233 | 234 | 
 | 2022-11-02 | 210 | 200 | 
 | 2022-11-01 | 207 | 198 | 
-| 2022-10-31 | 172 | 168 | 
 

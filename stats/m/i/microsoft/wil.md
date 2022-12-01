@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 30
 
 ☋ Forks: 184
 
-★ Stars: 2112
+★ Stars: 2116
 
 [Open repository](https://github.com/microsoft/wil)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-30 | 2112 | 184 | 
+| 2022-11-30 | 2116 | 184 | 
 | 2022-11-29 | 2112 | 184 | 
 

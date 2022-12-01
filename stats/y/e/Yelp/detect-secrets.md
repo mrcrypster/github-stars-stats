@@ -1,6 +1,6 @@
 # Yelp/detect-secrets - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 327
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 2593 | 327 | 
 | 2022-11-29 | 2593 | 327 | 
 | 2022-11-28 | 2591 | 327 | 
 | 2022-11-27 | 2591 | 327 | 

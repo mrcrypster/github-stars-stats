@@ -1,8 +1,8 @@
 # starburstdata/metabase-driver - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 2
+☋ Forks: 3
 
 ★ Stars: 39
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 39 | 3 | 
 | 2022-11-30 | 39 | 2 | 
 | 2022-11-28 | 39 | 2 | 
 | 2022-11-27 | 39 | 2 | 

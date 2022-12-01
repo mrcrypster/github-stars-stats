@@ -1,6 +1,6 @@
 # bdebon/quick-parcel-project - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 83
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 190 | 83 | 
 | 2022-11-29 | 190 | 83 | 
 | 2022-11-28 | 189 | 83 | 
 | 2022-11-27 | 189 | 83 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-04 | 186 | 80 | 
 | 2022-11-03 | 186 | 80 | 
 | 2022-11-01 | 186 | 80 | 
-| 2022-10-31 | 185 | 79 | 
 

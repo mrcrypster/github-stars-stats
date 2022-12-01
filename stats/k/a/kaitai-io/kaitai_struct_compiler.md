@@ -1,6 +1,6 @@
 # kaitai-io/kaitai_struct_compiler - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 116
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 382 | 116 | 
 | 2022-11-29 | 382 | 116 | 
 | 2022-11-28 | 382 | 116 | 
 | 2022-11-27 | 382 | 116 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 374 | 115 | 
 | 2022-11-02 | 373 | 115 | 
 | 2022-11-01 | 373 | 115 | 
-| 2022-10-31 | 373 | 115 | 
 

@@ -1,10 +1,10 @@
 # dromara/Sa-Token - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 1978
+☋ Forks: 1979
 
-★ Stars: 10904
+★ Stars: 10916
 
 [Open repository](https://github.com/dromara/Sa-Token)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 10916 | 1979 | 
 | 2022-11-29 | 10904 | 1978 | 
 | 2022-11-28 | 10895 | 1978 | 
 | 2022-11-27 | 10885 | 1974 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 10650 | 1927 | 
 | 2022-11-02 | 10641 | 1924 | 
 | 2022-11-01 | 10635 | 1923 | 
-| 2022-10-31 | 10623 | 1919 | 
 

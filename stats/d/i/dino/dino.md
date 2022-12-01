@@ -1,6 +1,6 @@
 # dino/dino - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 209
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 1911 | 209 | 
 | 2022-11-29 | 1911 | 209 | 
 | 2022-11-28 | 1911 | 209 | 
 | 2022-11-27 | 1910 | 209 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 1901 | 209 | 
 | 2022-11-02 | 1900 | 208 | 
 | 2022-11-01 | 1899 | 208 | 
-| 2022-10-31 | 1899 | 208 | 
 

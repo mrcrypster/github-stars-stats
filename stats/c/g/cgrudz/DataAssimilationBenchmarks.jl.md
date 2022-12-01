@@ -1,6 +1,6 @@
 # cgrudz/DataAssimilationBenchmarks.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 13 | 5 | 
 | 2022-11-29 | 13 | 5 | 
 | 2022-11-28 | 13 | 5 | 
 | 2022-11-27 | 13 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 13 | 5 | 
 | 2022-11-02 | 12 | 5 | 
 | 2022-11-01 | 12 | 4 | 
-| 2022-10-31 | 11 | 4 | 
 

@@ -1,6 +1,6 @@
 # thenickdude/wacom-driver-fix - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 1121 | 52 | 
 | 2022-11-29 | 1121 | 52 | 
 | 2022-11-28 | 1121 | 52 | 
 | 2022-11-27 | 1121 | 52 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 1109 | 52 | 
 | 2022-11-02 | 1108 | 52 | 
 | 2022-11-01 | 1107 | 52 | 
-| 2022-10-31 | 1107 | 52 | 
 

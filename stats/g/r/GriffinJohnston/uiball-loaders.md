@@ -1,10 +1,10 @@
 # GriffinJohnston/uiball-loaders - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 26
 
-★ Stars: 823
+★ Stars: 825
 
 [Open repository](https://github.com/GriffinJohnston/uiball-loaders)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 825 | 26 | 
 | 2022-11-29 | 823 | 26 | 
 | 2022-11-28 | 824 | 26 | 
 | 2022-11-27 | 823 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 817 | 26 | 
 | 2022-11-02 | 815 | 26 | 
 | 2022-11-01 | 815 | 26 | 
-| 2022-10-31 | 815 | 26 | 
 

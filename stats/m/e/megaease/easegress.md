@@ -1,10 +1,10 @@
 # megaease/easegress - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 421
 
-★ Stars: 4893
+★ Stars: 4892
 
 [Open repository](https://github.com/megaease/easegress)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 4892 | 421 | 
 | 2022-11-29 | 4893 | 421 | 
 | 2022-11-28 | 4890 | 422 | 
 | 2022-11-27 | 4889 | 422 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 4865 | 425 | 
 | 2022-11-02 | 4865 | 424 | 
 | 2022-11-01 | 4863 | 424 | 
-| 2022-10-31 | 4860 | 423 | 
 

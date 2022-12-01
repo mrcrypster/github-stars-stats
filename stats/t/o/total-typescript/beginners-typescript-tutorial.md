@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 30
 
-☋ Forks: 758
+☋ Forks: 760
 
-★ Stars: 6849
+★ Stars: 6850
 
 [Open repository](https://github.com/total-typescript/beginners-typescript-tutorial)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-30 | 6849 | 758 | 
+| 2022-11-30 | 6850 | 760 | 
 | 2022-11-29 | 6846 | 758 | 
 | 2022-11-28 | 6828 | 754 | 
 | 2022-11-27 | 6821 | 755 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-03 | 6698 | 716 | 
 | 2022-11-02 | 6686 | 712 | 
 | 2022-11-01 | 6679 | 707 | 
-| 2022-10-31 | 6669 | 704 | 
 

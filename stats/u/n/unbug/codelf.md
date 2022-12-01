@@ -1,6 +1,6 @@
 # unbug/codelf - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 972
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 13292 | 972 | 
 | 2022-11-29 | 13292 | 972 | 
 | 2022-11-28 | 13287 | 971 | 
 | 2022-11-27 | 13287 | 971 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 13242 | 968 | 
 | 2022-11-02 | 13239 | 968 | 
 | 2022-11-01 | 13234 | 967 | 
-| 2022-10-31 | 13231 | 967 | 
 

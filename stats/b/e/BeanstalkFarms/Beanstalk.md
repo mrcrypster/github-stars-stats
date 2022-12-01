@@ -1,10 +1,10 @@
 # BeanstalkFarms/Beanstalk - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 39
 
-★ Stars: 81
+★ Stars: 82
 
 [Open repository](https://github.com/BeanstalkFarms/Beanstalk)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 82 | 39 | 
 | 2022-11-29 | 81 | 39 | 
 | 2022-11-28 | 81 | 39 | 
 | 2022-11-27 | 81 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 79 | 34 | 
 | 2022-11-02 | 79 | 34 | 
 | 2022-11-01 | 78 | 34 | 
-| 2022-10-31 | 78 | 34 | 
 

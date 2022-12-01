@@ -1,10 +1,10 @@
 # Tiledesk/tiledesk-deployment - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 11
 
-★ Stars: 28
+★ Stars: 30
 
 [Open repository](https://github.com/Tiledesk/tiledesk-deployment)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 30 | 11 | 
 | 2022-11-30 | 28 | 11 | 
 | 2022-11-29 | 28 | 11 | 
 | 2022-11-27 | 28 | 11 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-03 | 25 | 10 | 
 | 2022-11-02 | 25 | 10 | 
 | 2022-11-01 | 25 | 10 | 
-| 2022-10-31 | 25 | 10 | 
 

@@ -1,10 +1,10 @@
 # Uniswap/permit2 - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 15
+☋ Forks: 16
 
-★ Stars: 296
+★ Stars: 302
 
 [Open repository](https://github.com/Uniswap/permit2)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 302 | 16 | 
 | 2022-11-29 | 296 | 15 | 
 | 2022-11-28 | 290 | 14 | 
 | 2022-11-27 | 282 | 13 | 

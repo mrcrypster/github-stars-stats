@@ -1,10 +1,10 @@
 # ossrs/srs - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 4758
+☋ Forks: 4759
 
-★ Stars: 20050
+★ Stars: 20070
 
 [Open repository](https://github.com/ossrs/srs)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 20070 | 4759 | 
 | 2022-11-29 | 20050 | 4758 | 
 | 2022-11-28 | 20034 | 4756 | 
 | 2022-11-27 | 20024 | 4751 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 19668 | 4701 | 
 | 2022-11-02 | 19651 | 4700 | 
 | 2022-11-01 | 19626 | 4696 | 
-| 2022-10-31 | 19579 | 4693 | 
 

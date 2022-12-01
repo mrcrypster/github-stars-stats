@@ -1,6 +1,6 @@
 # CodegirlSchool/pets-shop - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 1 | 24 | 
 | 2022-11-29 | 1 | 24 | 
 | 2022-11-28 | 1 | 24 | 
 | 2022-11-27 | 1 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-04 | 1 | 20 | 
 | 2022-11-03 | 1 | 20 | 
 | 2022-11-02 | 1 | 19 | 
-| 2022-11-01 | 1 | 19 | 
 

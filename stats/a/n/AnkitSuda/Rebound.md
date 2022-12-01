@@ -1,10 +1,10 @@
 # AnkitSuda/Rebound - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 14
 
-★ Stars: 95
+★ Stars: 97
 
 [Open repository](https://github.com/AnkitSuda/Rebound)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 97 | 14 | 
 | 2022-11-29 | 95 | 14 | 
 | 2022-11-28 | 93 | 14 | 
 | 2022-11-27 | 91 | 14 | 

@@ -1,6 +1,6 @@
 # post-cyberlabs/Offensive_tools - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 269 | 56 | 
 | 2022-11-29 | 269 | 56 | 
 | 2022-11-28 | 269 | 56 | 
 | 2022-11-27 | 269 | 56 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 268 | 55 | 
 | 2022-11-02 | 268 | 55 | 
 | 2022-11-01 | 268 | 55 | 
-| 2022-10-31 | 268 | 55 | 
 

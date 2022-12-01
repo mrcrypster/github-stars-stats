@@ -1,10 +1,10 @@
 # epwalsh/obsidian.nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 9
 
-★ Stars: 158
+★ Stars: 162
 
 [Open repository](https://github.com/epwalsh/obsidian.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 162 | 9 | 
 | 2022-11-29 | 158 | 9 | 
 | 2022-11-28 | 157 | 9 | 
 | 2022-11-27 | 155 | 9 | 

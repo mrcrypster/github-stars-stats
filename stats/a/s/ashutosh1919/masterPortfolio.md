@@ -1,10 +1,10 @@
 # ashutosh1919/masterPortfolio - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 809
+☋ Forks: 808
 
-★ Stars: 2132
+★ Stars: 2136
 
 [Open repository](https://github.com/ashutosh1919/masterPortfolio)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 2136 | 808 | 
 | 2022-11-29 | 2132 | 809 | 
 | 2022-11-28 | 2133 | 807 | 
 | 2022-11-27 | 2131 | 806 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 2099 | 787 | 
 | 2022-11-02 | 2098 | 786 | 
 | 2022-11-01 | 2098 | 786 | 
-| 2022-10-31 | 2097 | 785 | 
 

@@ -1,6 +1,6 @@
 # svelteland/svelte-kit-blog-demo - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 145 | 55 | 
 | 2022-11-29 | 145 | 55 | 
 | 2022-11-28 | 145 | 55 | 
 | 2022-11-27 | 145 | 56 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 143 | 57 | 
 | 2022-11-02 | 143 | 57 | 
 | 2022-11-01 | 143 | 57 | 
-| 2022-10-31 | 143 | 57 | 
 

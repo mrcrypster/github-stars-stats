@@ -1,10 +1,10 @@
 # optiv/Mangle - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 98
 
-★ Stars: 732
+★ Stars: 733
 
 [Open repository](https://github.com/optiv/Mangle)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 733 | 98 | 
 | 2022-11-29 | 732 | 98 | 
 | 2022-11-28 | 731 | 97 | 
 | 2022-11-27 | 731 | 97 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 671 | 85 | 
 | 2022-11-02 | 671 | 85 | 
 | 2022-11-01 | 668 | 82 | 
-| 2022-10-31 | 663 | 82 | 
 

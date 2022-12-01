@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 30
 
 ☋ Forks: 137
 
-★ Stars: 930
+★ Stars: 932
 
 [Open repository](https://github.com/superlistapp/super_editor)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-30 | 930 | 137 | 
+| 2022-11-30 | 932 | 137 | 
 | 2022-11-29 | 928 | 137 | 
 | 2022-11-28 | 921 | 137 | 
 | 2022-11-27 | 920 | 137 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 883 | 134 | 
 | 2022-11-03 | 881 | 134 | 
 | 2022-11-02 | 880 | 134 | 
-| 2022-11-01 | 880 | 134 | 
 

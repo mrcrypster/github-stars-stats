@@ -1,10 +1,10 @@
 # KaTeX/KaTeX - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 1087
+☋ Forks: 1088
 
-★ Stars: 16020
+★ Stars: 16025
 
 [Open repository](https://github.com/KaTeX/KaTeX)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 16025 | 1088 | 
 | 2022-11-29 | 16020 | 1087 | 
 | 2022-11-28 | 16016 | 1087 | 
 | 2022-11-27 | 16007 | 1087 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-04 | 15929 | 1084 | 
 | 2022-11-03 | 15927 | 1083 | 
 | 2022-11-02 | 15921 | 1082 | 
-| 2022-11-01 | 15915 | 1082 | 
 

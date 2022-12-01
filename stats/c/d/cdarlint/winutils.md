@@ -1,10 +1,10 @@
 # cdarlint/winutils - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 1670
+☋ Forks: 1671
 
-★ Stars: 1346
+★ Stars: 1347
 
 [Open repository](https://github.com/cdarlint/winutils)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 1347 | 1671 | 
 | 2022-11-29 | 1346 | 1670 | 
 | 2022-11-28 | 1345 | 1669 | 
 | 2022-11-27 | 1343 | 1667 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 1326 | 1642 | 
 | 2022-11-02 | 1324 | 1642 | 
 | 2022-11-01 | 1323 | 1642 | 
-| 2022-10-31 | 1321 | 1642 | 
 

@@ -1,10 +1,10 @@
 # aliahmad-1987/DataAnalystProjectFromScratch_PBI_SQL_SalesAnalysis - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 48
 
-★ Stars: 27
+★ Stars: 29
 
 [Open repository](https://github.com/aliahmad-1987/DataAnalystProjectFromScratch_PBI_SQL_SalesAnalysis)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 29 | 48 | 
 | 2022-11-29 | 27 | 48 | 
 | 2022-11-28 | 27 | 47 | 
 | 2022-11-27 | 27 | 46 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 26 | 39 | 
 | 2022-11-02 | 26 | 39 | 
 | 2022-11-01 | 26 | 39 | 
-| 2022-10-31 | 26 | 39 | 
 

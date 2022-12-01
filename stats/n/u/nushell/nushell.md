@@ -1,10 +1,10 @@
 # nushell/nushell - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 1075
+☋ Forks: 1077
 
-★ Stars: 22036
+★ Stars: 22052
 
 [Open repository](https://github.com/nushell/nushell)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 22052 | 1077 | 
 | 2022-11-29 | 22036 | 1075 | 
 | 2022-11-28 | 22024 | 1076 | 
 | 2022-11-27 | 22004 | 1076 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 21528 | 1051 | 
 | 2022-11-02 | 21431 | 1048 | 
 | 2022-11-01 | 21281 | 1044 | 
-| 2022-10-31 | 21268 | 1045 | 
 

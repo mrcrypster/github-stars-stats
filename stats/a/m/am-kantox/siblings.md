@@ -1,10 +1,10 @@
 # am-kantox/siblings - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 0
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/am-kantox/siblings)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 27 | - | 
 | 2022-11-29 | 26 | - | 
 | 2022-11-28 | 26 | - | 
 | 2022-11-27 | 26 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 26 | 1 | 
 | 2022-11-02 | 26 | 1 | 
 | 2022-11-01 | 26 | 1 | 
-| 2022-10-31 | 26 | 1 | 
 

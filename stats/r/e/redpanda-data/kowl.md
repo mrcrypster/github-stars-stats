@@ -1,10 +1,10 @@
 # redpanda-data/kowl - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 256
 
-★ Stars: 2852
+★ Stars: 2855
 
 [Open repository](https://github.com/redpanda-data/kowl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 2855 | 256 | 
 | 2022-11-29 | 2852 | 256 | 
 | 2022-11-28 | 2851 | 255 | 
 | 2022-11-27 | 2851 | 255 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 2807 | 248 | 
 | 2022-11-02 | 2802 | 248 | 
 | 2022-11-01 | 2801 | 247 | 
-| 2022-10-31 | 2800 | 245 | 
 

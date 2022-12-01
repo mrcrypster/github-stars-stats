@@ -1,10 +1,10 @@
 # zhaobozhen/LibChecker - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 184
 
-★ Stars: 2151
+★ Stars: 2153
 
 [Open repository](https://github.com/zhaobozhen/LibChecker)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 2153 | 184 | 
 | 2022-11-29 | 2151 | 184 | 
 | 2022-11-28 | 2146 | 184 | 
 | 2022-11-27 | 2144 | 184 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 2088 | 184 | 
 | 2022-11-02 | 2086 | 184 | 
 | 2022-11-01 | 2085 | 184 | 
-| 2022-10-31 | 2080 | 183 | 
 

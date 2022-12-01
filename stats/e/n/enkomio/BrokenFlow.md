@@ -1,10 +1,10 @@
 # enkomio/BrokenFlow - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 17
 
-★ Stars: 93
+★ Stars: 96
 
 [Open repository](https://github.com/enkomio/BrokenFlow)
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 96 | 17 | 
+| 2022-11-30 | 96 | 17 | 
 | 2022-11-29 | 93 | 17 | 
 | 2022-11-28 | 91 | 16 | 
 | 2022-11-27 | 90 | 16 | 

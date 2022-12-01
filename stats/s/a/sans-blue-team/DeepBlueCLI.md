@@ -1,10 +1,10 @@
 # sans-blue-team/DeepBlueCLI - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 291
 
-★ Stars: 1634
+★ Stars: 1635
 
 [Open repository](https://github.com/sans-blue-team/DeepBlueCLI)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 1635 | 291 | 
 | 2022-11-29 | 1634 | 291 | 
 | 2022-11-28 | 1633 | 291 | 
 | 2022-11-27 | 1632 | 291 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 1618 | 290 | 
 | 2022-11-02 | 1618 | 290 | 
 | 2022-11-01 | 1618 | 291 | 
-| 2022-10-31 | 1616 | 291 | 
 

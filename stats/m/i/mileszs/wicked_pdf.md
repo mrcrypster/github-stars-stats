@@ -1,6 +1,6 @@
 # mileszs/wicked_pdf - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 613
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 3387 | 613 | 
 | 2022-11-29 | 3387 | 613 | 
 | 2022-11-28 | 3387 | 613 | 
 | 2022-11-27 | 3387 | 613 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 3376 | 615 | 
 | 2022-11-02 | 3376 | 614 | 
 | 2022-11-01 | 3376 | 613 | 
-| 2022-10-31 | 3376 | 613 | 
 

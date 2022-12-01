@@ -1,6 +1,6 @@
 # ps2homebrew/Open-PS2-Loader - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 181
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 1338 | 181 | 
 | 2022-11-29 | 1338 | 181 | 
 | 2022-11-28 | 1338 | 181 | 
 | 2022-11-27 | 1337 | 181 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-04 | 1314 | 179 | 
 | 2022-11-02 | 1312 | 179 | 
 | 2022-11-01 | 1311 | 179 | 
-| 2022-10-31 | 1311 | 180 | 
 

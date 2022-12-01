@@ -1,6 +1,6 @@
 # jbaysolutions/vue-grid-layout - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 1263
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 5980 | 1263 | 
 | 2022-11-29 | 5980 | 1263 | 
 | 2022-11-28 | 5977 | 1263 | 
 | 2022-11-27 | 5972 | 1262 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 5923 | 1252 | 
 | 2022-11-02 | 5920 | 1250 | 
 | 2022-11-01 | 5920 | 1253 | 
-| 2022-10-31 | 5916 | 1251 | 
 

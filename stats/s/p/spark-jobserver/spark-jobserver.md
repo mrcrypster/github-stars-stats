@@ -1,6 +1,6 @@
 # spark-jobserver/spark-jobserver - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 1012
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 2800 | 1012 | 
 | 2022-11-29 | 2800 | 1012 | 
 | 2022-11-28 | 2799 | 1011 | 
 | 2022-11-27 | 2799 | 1011 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 2794 | 1012 | 
 | 2022-11-02 | 2794 | 1012 | 
 | 2022-11-01 | 2793 | 1012 | 
-| 2022-10-31 | 2793 | 1012 | 
 

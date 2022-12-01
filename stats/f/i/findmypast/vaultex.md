@@ -1,6 +1,6 @@
 # findmypast/vaultex - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 100 | 36 | 
 | 2022-11-29 | 100 | 36 | 
 | 2022-11-28 | 100 | 36 | 
 | 2022-11-27 | 100 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 102 | 35 | 
 | 2022-11-02 | 102 | 35 | 
 | 2022-11-01 | 102 | 35 | 
-| 2022-10-31 | 102 | 35 | 
 

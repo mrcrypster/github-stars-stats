@@ -1,6 +1,6 @@
 # sdslabs/playCTF - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 48 | 2 | 
 | 2022-11-29 | 48 | 2 | 
 | 2022-11-28 | 48 | 2 | 
 | 2022-11-27 | 47 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 46 | 2 | 
 | 2022-11-02 | 46 | 2 | 
 | 2022-11-01 | 46 | 2 | 
-| 2022-10-31 | 46 | 2 | 
 

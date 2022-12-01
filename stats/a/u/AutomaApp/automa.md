@@ -1,10 +1,10 @@
 # AutomaApp/automa - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 567
+☋ Forks: 569
 
-★ Stars: 5908
+★ Stars: 5910
 
 [Open repository](https://github.com/AutomaApp/automa)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 5910 | 569 | 
 | 2022-11-29 | 5908 | 567 | 
 | 2022-11-28 | 5901 | 566 | 
 | 2022-11-27 | 5901 | 566 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 5782 | 554 | 
 | 2022-11-02 | 5777 | 553 | 
 | 2022-11-01 | 5766 | 553 | 
-| 2022-10-31 | 5760 | 550 | 
 

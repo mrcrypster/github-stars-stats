@@ -1,6 +1,6 @@
 # bagder/uncurled - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 455 | 38 | 
 | 2022-11-29 | 455 | 38 | 
 | 2022-11-28 | 455 | 38 | 
 | 2022-11-27 | 455 | 38 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 448 | 39 | 
 | 2022-11-02 | 448 | 39 | 
 | 2022-11-01 | 448 | 39 | 
-| 2022-10-31 | 448 | 39 | 
 

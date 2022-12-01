@@ -1,6 +1,6 @@
 # bitnami/bitnami-docker-php-fpm - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 259 | 75 | 
 | 2022-11-29 | 259 | 75 | 
 | 2022-11-28 | 259 | 75 | 
 | 2022-11-27 | 259 | 75 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-04 | 259 | 76 | 
 | 2022-11-03 | 259 | 76 | 
 | 2022-11-02 | 259 | 76 | 
-| 2022-11-01 | 259 | 76 | 
 

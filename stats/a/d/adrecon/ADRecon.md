@@ -1,10 +1,10 @@
 # adrecon/ADRecon - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 59
 
-★ Stars: 347
+★ Stars: 350
 
 [Open repository](https://github.com/adrecon/ADRecon)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 350 | 59 | 
 | 2022-11-29 | 347 | 59 | 
 | 2022-11-28 | 346 | 59 | 
 | 2022-11-27 | 344 | 58 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-04 | 338 | 59 | 
 | 2022-11-03 | 338 | 60 | 
 | 2022-11-02 | 337 | 59 | 
-| 2022-11-01 | 337 | 59 | 
 

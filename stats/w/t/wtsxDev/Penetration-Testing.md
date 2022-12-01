@@ -1,6 +1,6 @@
 # wtsxDev/Penetration-Testing - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 647
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 2014 | 647 | 
 | 2022-11-29 | 2014 | 647 | 
 | 2022-11-28 | 2014 | 646 | 
 | 2022-11-27 | 2015 | 645 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 2010 | 643 | 
 | 2022-11-02 | 2009 | 643 | 
 | 2022-11-01 | 2009 | 642 | 
-| 2022-10-31 | 2008 | 642 | 
 

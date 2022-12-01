@@ -1,6 +1,6 @@
 # Cyb3rG0dzilla/Docker-Web - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 1 | 24 | 
 | 2022-11-30 | 1 | 24 | 
 | 2022-11-28 | 1 | 24 | 
 | 2022-11-27 | 1 | 24 | 

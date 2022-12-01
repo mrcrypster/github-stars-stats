@@ -1,8 +1,8 @@
 # quinn-rs/quinn - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 220
+☋ Forks: 221
 
 ★ Stars: 2438
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 2438 | 221 | 
 | 2022-11-29 | 2438 | 220 | 
 | 2022-11-28 | 2434 | 220 | 
 

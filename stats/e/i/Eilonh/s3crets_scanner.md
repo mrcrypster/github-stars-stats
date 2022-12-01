@@ -1,10 +1,10 @@
 # Eilonh/s3crets_scanner - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 52
+☋ Forks: 53
 
-★ Stars: 461
+★ Stars: 462
 
 [Open repository](https://github.com/Eilonh/s3crets_scanner)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 462 | 53 | 
 | 2022-11-29 | 461 | 52 | 
 | 2022-11-28 | 458 | 52 | 
 | 2022-11-27 | 456 | 52 | 

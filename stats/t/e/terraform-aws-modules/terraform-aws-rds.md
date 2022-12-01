@@ -1,10 +1,10 @@
 # terraform-aws-modules/terraform-aws-rds - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 1100
+☋ Forks: 1101
 
-★ Stars: 678
+★ Stars: 679
 
 [Open repository](https://github.com/terraform-aws-modules/terraform-aws-rds)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 679 | 1101 | 
 | 2022-11-29 | 678 | 1100 | 
 | 2022-11-28 | 677 | 1098 | 
 | 2022-11-27 | 677 | 1098 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 668 | 1079 | 
 | 2022-11-02 | 667 | 1078 | 
 | 2022-11-01 | 667 | 1078 | 
-| 2022-10-31 | 666 | 1076 | 
 

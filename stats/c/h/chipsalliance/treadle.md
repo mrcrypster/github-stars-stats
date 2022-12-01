@@ -1,6 +1,6 @@
 # chipsalliance/treadle - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 129 | 28 | 
 | 2022-11-29 | 129 | 28 | 
 | 2022-11-28 | 128 | 28 | 
 | 2022-11-27 | 128 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 125 | 28 | 
 | 2022-11-02 | 125 | 27 | 
 | 2022-11-01 | 125 | 27 | 
-| 2022-10-31 | 125 | 27 | 
 

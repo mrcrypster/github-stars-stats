@@ -1,10 +1,10 @@
 # raysalemi/uvmprimer - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 159
 
-★ Stars: 325
+★ Stars: 324
 
 [Open repository](https://github.com/raysalemi/uvmprimer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 324 | 159 | 
 | 2022-11-29 | 325 | 159 | 
 | 2022-11-28 | 325 | 159 | 
 | 2022-11-27 | 324 | 159 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 319 | 157 | 
 | 2022-11-02 | 317 | 157 | 
 | 2022-11-01 | 316 | 157 | 
-| 2022-10-31 | 315 | 157 | 
 

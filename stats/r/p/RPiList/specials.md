@@ -1,10 +1,10 @@
 # RPiList/specials - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 216
+☋ Forks: 217
 
-★ Stars: 993
+★ Stars: 999
 
 [Open repository](https://github.com/RPiList/specials)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 999 | 217 | 
 | 2022-11-29 | 993 | 216 | 
 | 2022-11-28 | 993 | 216 | 
 | 2022-11-27 | 993 | 216 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 979 | 216 | 
 | 2022-11-02 | 979 | 216 | 
 | 2022-11-01 | 978 | 216 | 
-| 2022-10-31 | 976 | 216 | 
 

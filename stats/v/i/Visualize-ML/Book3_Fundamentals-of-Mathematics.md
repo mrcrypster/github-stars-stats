@@ -1,10 +1,10 @@
 # Visualize-ML/Book3_Fundamentals-of-Mathematics - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 120
+☋ Forks: 131
 
-★ Stars: 829
+★ Stars: 1035
 
 [Open repository](https://github.com/Visualize-ML/Book3_Fundamentals-of-Mathematics)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 1035 | 131 | 
 | 2022-11-29 | 829 | 120 | 
 | 2022-11-28 | 741 | 113 | 
 | 2022-11-27 | 591 | 100 | 

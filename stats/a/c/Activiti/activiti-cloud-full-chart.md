@@ -1,10 +1,10 @@
 # Activiti/activiti-cloud-full-chart - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 21
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/Activiti/activiti-cloud-full-chart)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 13 | 21 | 
 | 2022-11-29 | 12 | 21 | 
 | 2022-11-28 | 12 | 21 | 
 | 2022-11-27 | 12 | 21 | 

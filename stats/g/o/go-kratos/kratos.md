@@ -1,10 +1,10 @@
 # go-kratos/kratos - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Dec 2022, 01
 
-☋ Forks: 3680
+☋ Forks: 3682
 
-★ Stars: 19365
+★ Stars: 19367
 
 [Open repository](https://github.com/go-kratos/kratos)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 19367 | 3682 | 
 | 2022-11-29 | 19365 | 3680 | 
 | 2022-11-28 | 19361 | 3680 | 
 | 2022-11-27 | 19358 | 3679 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 19193 | 3669 | 
 | 2022-11-02 | 19178 | 3666 | 
 | 2022-11-01 | 19169 | 3666 | 
-| 2022-10-31 | 19162 | 3664 | 
 

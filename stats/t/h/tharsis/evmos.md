@@ -1,8 +1,8 @@
 # tharsis/evmos - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 574
+☋ Forks: 577
 
 ★ Stars: 1376
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 1376 | 577 | 
 | 2022-11-29 | 1376 | 574 | 
 | 2022-11-28 | 1376 | 573 | 
 | 2022-11-27 | 1375 | 572 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-04 | 1364 | 530 | 
 | 2022-11-03 | 1363 | 526 | 
 | 2022-11-02 | 1363 | 521 | 
-| 2022-11-01 | 1361 | 518 | 
 

@@ -1,6 +1,6 @@
 # S3cur3Th1sSh1t/OffensiveVBA - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 185
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 913 | 185 | 
 | 2022-11-29 | 913 | 185 | 
 | 2022-11-28 | 913 | 185 | 
 | 2022-11-27 | 913 | 185 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 907 | 184 | 
 | 2022-11-02 | 906 | 184 | 
 | 2022-11-01 | 906 | 183 | 
-| 2022-10-31 | 906 | 183 | 
 

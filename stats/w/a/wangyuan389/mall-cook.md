@@ -1,10 +1,10 @@
 # wangyuan389/mall-cook - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 809
 
-★ Stars: 3499
+★ Stars: 3500
 
 [Open repository](https://github.com/wangyuan389/mall-cook)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 3500 | 809 | 
 | 2022-11-29 | 3499 | 809 | 
 | 2022-11-28 | 3497 | 808 | 
 | 2022-11-27 | 3496 | 808 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 3403 | 781 | 
 | 2022-11-02 | 3399 | 780 | 
 | 2022-11-01 | 3395 | 778 | 
-| 2022-10-31 | 3394 | 778 | 
 

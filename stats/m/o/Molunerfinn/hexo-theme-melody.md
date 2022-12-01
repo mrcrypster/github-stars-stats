@@ -1,10 +1,10 @@
 # Molunerfinn/hexo-theme-melody - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 205
 
-★ Stars: 1492
+★ Stars: 1491
 
 [Open repository](https://github.com/Molunerfinn/hexo-theme-melody)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 1491 | 205 | 
 | 2022-11-29 | 1492 | 205 | 
 | 2022-11-28 | 1492 | 205 | 
 | 2022-11-27 | 1490 | 205 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 1480 | 205 | 
 | 2022-11-02 | 1480 | 205 | 
 | 2022-11-01 | 1480 | 205 | 
-| 2022-10-31 | 1480 | 205 | 
 

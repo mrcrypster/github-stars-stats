@@ -1,10 +1,10 @@
 # ndd7xv/heh - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 9
 
-★ Stars: 279
+★ Stars: 281
 
 [Open repository](https://github.com/ndd7xv/heh)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 281 | 9 | 
 | 2022-11-29 | 279 | 9 | 
 | 2022-11-28 | 279 | 9 | 
 | 2022-11-27 | 278 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 268 | 9 | 
 | 2022-11-02 | 268 | 9 | 
 | 2022-11-01 | 267 | 9 | 
-| 2022-10-31 | 267 | 9 | 
 

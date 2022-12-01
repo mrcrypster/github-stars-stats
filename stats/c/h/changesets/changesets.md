@@ -1,10 +1,10 @@
 # changesets/changesets - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 333
 
-★ Stars: 4740
+★ Stars: 4745
 
 [Open repository](https://github.com/changesets/changesets)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 4745 | 333 | 
 | 2022-11-29 | 4740 | 333 | 
 | 2022-11-28 | 4731 | 333 | 
 | 2022-11-27 | 4730 | 333 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 4573 | 321 | 
 | 2022-11-02 | 4567 | 321 | 
 | 2022-11-01 | 4558 | 321 | 
-| 2022-10-31 | 4550 | 319 | 
 

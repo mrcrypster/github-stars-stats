@@ -1,10 +1,10 @@
 # dkarter/bullets.vim - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 36
 
-★ Stars: 361
+★ Stars: 363
 
 [Open repository](https://github.com/dkarter/bullets.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 363 | 36 | 
 | 2022-11-29 | 361 | 36 | 
 | 2022-11-28 | 360 | 36 | 
 | 2022-11-27 | 359 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 355 | 36 | 
 | 2022-11-02 | 355 | 36 | 
 | 2022-11-01 | 355 | 36 | 
-| 2022-10-31 | 355 | 36 | 
 

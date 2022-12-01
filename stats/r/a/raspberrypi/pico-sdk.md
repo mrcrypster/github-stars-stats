@@ -1,8 +1,8 @@
 # raspberrypi/pico-sdk - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 465
+☋ Forks: 464
 
 ★ Stars: 1833
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 1833 | 464 | 
 | 2022-11-30 | 1833 | 465 | 
 | 2022-11-29 | 1832 | 464 | 
 | 2022-11-27 | 1829 | 463 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-03 | 1781 | 449 | 
 | 2022-11-02 | 1775 | 448 | 
 | 2022-11-01 | 1771 | 447 | 
-| 2022-10-31 | 1771 | 447 | 
 

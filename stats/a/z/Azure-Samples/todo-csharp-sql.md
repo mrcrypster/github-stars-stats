@@ -1,8 +1,8 @@
 # Azure-Samples/todo-csharp-sql - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 8
+☋ Forks: 7
 
 ★ Stars: 12
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 12 | 7 | 
 | 2022-11-30 | 12 | 8 | 
 | 2022-11-29 | 12 | 8 | 
 | 2022-11-27 | 12 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-03 | 10 | 5 | 
 | 2022-11-02 | 10 | 5 | 
 | 2022-11-01 | 10 | 4 | 
-| 2022-10-31 | 10 | 3 | 
 

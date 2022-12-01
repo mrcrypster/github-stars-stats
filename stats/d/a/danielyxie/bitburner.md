@@ -1,10 +1,10 @@
 # danielyxie/bitburner - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 799
+☋ Forks: 798
 
-★ Stars: 2503
+★ Stars: 2505
 
 [Open repository](https://github.com/danielyxie/bitburner)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 2505 | 798 | 
 | 2022-11-29 | 2503 | 799 | 
 | 2022-11-28 | 2502 | 799 | 
 | 2022-11-27 | 2499 | 799 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 2458 | 795 | 
 | 2022-11-02 | 2456 | 795 | 
 | 2022-11-01 | 2455 | 793 | 
-| 2022-10-31 | 2454 | 792 | 
 

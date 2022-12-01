@@ -1,6 +1,6 @@
 # Autodesk-Forge/forge-tutorial-postman - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 165
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 70 | 165 | 
 | 2022-11-29 | 70 | 165 | 
 | 2022-11-28 | 70 | 165 | 
 | 2022-11-27 | 69 | 165 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 69 | 162 | 
 | 2022-11-02 | 69 | 162 | 
 | 2022-11-01 | 69 | 162 | 
-| 2022-10-31 | 69 | 162 | 
 

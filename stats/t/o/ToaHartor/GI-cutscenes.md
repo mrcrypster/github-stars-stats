@@ -1,10 +1,10 @@
 # ToaHartor/GI-cutscenes - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 46
 
-★ Stars: 276
+★ Stars: 277
 
 [Open repository](https://github.com/ToaHartor/GI-cutscenes)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 277 | 46 | 
 | 2022-11-29 | 276 | 46 | 
 | 2022-11-28 | 276 | 46 | 
 | 2022-11-27 | 276 | 46 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 251 | 41 | 
 | 2022-11-02 | 250 | 41 | 
 | 2022-11-01 | 249 | 41 | 
-| 2022-10-31 | 244 | 40 | 
 

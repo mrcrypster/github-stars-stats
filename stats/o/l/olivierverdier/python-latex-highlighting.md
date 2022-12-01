@@ -1,10 +1,10 @@
 # olivierverdier/python-latex-highlighting - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 119
 
-★ Stars: 384
+★ Stars: 385
 
 [Open repository](https://github.com/olivierverdier/python-latex-highlighting)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 385 | 119 | 
 | 2022-11-29 | 384 | 119 | 
 | 2022-11-28 | 384 | 119 | 
 | 2022-11-27 | 384 | 119 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 378 | 116 | 
 | 2022-11-02 | 378 | 116 | 
 | 2022-11-01 | 378 | 116 | 
-| 2022-10-31 | 378 | 116 | 
 

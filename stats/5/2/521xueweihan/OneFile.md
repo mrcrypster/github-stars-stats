@@ -1,10 +1,10 @@
 # 521xueweihan/OneFile - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 103
 
-★ Stars: 857
+★ Stars: 858
 
 [Open repository](https://github.com/521xueweihan/OneFile)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 858 | 103 | 
 | 2022-11-29 | 857 | 103 | 
 | 2022-11-28 | 857 | 103 | 
 | 2022-11-27 | 857 | 103 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-04 | 848 | 100 | 
 | 2022-11-03 | 848 | 100 | 
 | 2022-11-02 | 847 | 100 | 
-| 2022-11-01 | 846 | 101 | 
 

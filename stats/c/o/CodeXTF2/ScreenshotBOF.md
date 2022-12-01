@@ -1,8 +1,8 @@
 # CodeXTF2/ScreenshotBOF - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 38
+☋ Forks: 39
 
 ★ Stars: 229
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 229 | 39 | 
 | 2022-11-29 | 229 | 38 | 
 | 2022-11-28 | 228 | 38 | 
 | 2022-11-27 | 228 | 38 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 211 | 32 | 
 | 2022-11-02 | 208 | 31 | 
 | 2022-11-01 | 207 | 31 | 
-| 2022-10-31 | 202 | 30 | 
 

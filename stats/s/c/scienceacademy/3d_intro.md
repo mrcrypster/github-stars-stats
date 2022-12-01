@@ -1,6 +1,6 @@
 # scienceacademy/3d_intro - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | - | 6 | 
 | 2022-11-29 | - | 6 | 
 | 2022-11-28 | - | 6 | 
 | 2022-11-27 | - | 6 | 

@@ -1,8 +1,8 @@
 # QuiltMC/quiltmc.org - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 20
+☋ Forks: 21
 
 ★ Stars: 39
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 39 | 21 | 
 | 2022-11-29 | 39 | 20 | 
 | 2022-11-28 | 39 | 20 | 
 | 2022-11-27 | 39 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 38 | 18 | 
 | 2022-11-02 | 38 | 18 | 
 | 2022-11-01 | 37 | 17 | 
-| 2022-10-31 | 37 | 18 | 
 

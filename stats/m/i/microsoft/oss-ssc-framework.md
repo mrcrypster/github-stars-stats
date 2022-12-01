@@ -1,10 +1,10 @@
 # microsoft/oss-ssc-framework - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 9
 
-★ Stars: 223
+★ Stars: 224
 
 [Open repository](https://github.com/microsoft/oss-ssc-framework)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 224 | 9 | 
 | 2022-11-29 | 223 | 9 | 
 | 2022-11-28 | 223 | 9 | 
 | 2022-11-27 | 223 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 220 | 8 | 
 | 2022-11-02 | 218 | 8 | 
 | 2022-11-01 | 218 | 8 | 
-| 2022-10-31 | 218 | 8 | 
 

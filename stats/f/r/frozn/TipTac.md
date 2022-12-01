@@ -1,10 +1,10 @@
 # frozn/TipTac - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 13
 
-★ Stars: 94
+★ Stars: 96
 
 [Open repository](https://github.com/frozn/TipTac)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 96 | 13 | 
 | 2022-11-29 | 94 | 13 | 
 | 2022-11-28 | 94 | 13 | 
 | 2022-11-27 | 93 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 79 | 13 | 
 | 2022-11-02 | 75 | 13 | 
 | 2022-11-01 | 73 | 13 | 
-| 2022-10-31 | 73 | 13 | 
 

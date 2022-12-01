@@ -1,6 +1,6 @@
 # acicts/BITS22 - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 11 | 12 | 
 | 2022-11-29 | 11 | 12 | 
 | 2022-11-28 | 10 | 12 | 
 | 2022-11-27 | 10 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 7 | 10 | 
 | 2022-11-02 | 7 | 10 | 
 | 2022-11-01 | 7 | 10 | 
-| 2022-10-31 | 7 | 8 | 
 

@@ -1,6 +1,6 @@
 # swim2sun/migu-music-dl - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 98 | 7 | 
 | 2022-11-30 | 98 | 7 | 
 | 2022-11-29 | 98 | 7 | 
 | 2022-11-28 | 98 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-03 | 96 | 7 | 
 | 2022-11-02 | 96 | 7 | 
 | 2022-11-01 | 96 | 7 | 
-| 2022-10-31 | 96 | 7 | 
 

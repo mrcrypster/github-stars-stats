@@ -1,10 +1,10 @@
 # filecoin-project/FEVM-Hardhat-Kit - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 21
+☋ Forks: 22
 
-★ Stars: 45
+★ Stars: 47
 
 [Open repository](https://github.com/filecoin-project/FEVM-Hardhat-Kit)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 47 | 22 | 
 | 2022-11-29 | 45 | 21 | 
 | 2022-11-28 | 43 | 18 | 
 | 2022-11-27 | 43 | 18 | 

@@ -1,8 +1,8 @@
 # opensearch-project/project-website - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 181
+☋ Forks: 182
 
 ★ Stars: 25
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 25 | 182 | 
 | 2022-11-29 | 25 | 181 | 
 | 2022-11-28 | 25 | 181 | 
 | 2022-11-27 | 25 | 181 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 24 | 174 | 
 | 2022-11-02 | 24 | 174 | 
 | 2022-11-01 | 24 | 174 | 
-| 2022-10-31 | 24 | 174 | 
 

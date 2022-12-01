@@ -1,8 +1,8 @@
 # andreyvit/json-diff - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 112
+☋ Forks: 111
 
 ★ Stars: 909
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 909 | 111 | 
 | 2022-11-29 | 909 | 112 | 
 | 2022-11-28 | 909 | 112 | 
 | 2022-11-27 | 909 | 112 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 895 | 112 | 
 | 2022-11-02 | 894 | 110 | 
 | 2022-11-01 | 894 | 110 | 
-| 2022-10-31 | 893 | 109 | 
 

@@ -1,8 +1,8 @@
 # akashyap2013/Blooger_Website - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 589
+☋ Forks: 590
 
 ★ Stars: 378
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 378 | 590 | 
 | 2022-11-29 | 378 | 589 | 
 | 2022-11-28 | 378 | 589 | 
 | 2022-11-27 | 378 | 589 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 376 | 583 | 
 | 2022-11-02 | 376 | 585 | 
 | 2022-11-01 | 376 | 585 | 
-| 2022-10-31 | 376 | 585 | 
 

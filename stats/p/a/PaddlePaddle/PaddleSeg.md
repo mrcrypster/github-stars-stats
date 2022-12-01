@@ -1,10 +1,10 @@
 # PaddlePaddle/PaddleSeg - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 1280
+☋ Forks: 1283
 
-★ Stars: 6067
+★ Stars: 6073
 
 [Open repository](https://github.com/PaddlePaddle/PaddleSeg)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 6073 | 1283 | 
 | 2022-11-29 | 6067 | 1280 | 
 | 2022-11-28 | 6060 | 1279 | 
 | 2022-11-27 | 6053 | 1279 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 5883 | 1244 | 
 | 2022-11-02 | 5866 | 1243 | 
 | 2022-11-01 | 5825 | 1236 | 
-| 2022-10-31 | 5790 | 1227 | 
 

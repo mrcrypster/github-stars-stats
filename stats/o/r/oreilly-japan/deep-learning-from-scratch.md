@@ -1,10 +1,10 @@
 # oreilly-japan/deep-learning-from-scratch - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 2989
+☋ Forks: 2991
 
-★ Stars: 3286
+★ Stars: 3288
 
 [Open repository](https://github.com/oreilly-japan/deep-learning-from-scratch)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 3288 | 2991 | 
 | 2022-11-29 | 3286 | 2989 | 
 | 2022-11-28 | 3286 | 2990 | 
 | 2022-11-27 | 3286 | 2988 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 3267 | 2961 | 
 | 2022-11-02 | 3267 | 2961 | 
 | 2022-11-01 | 3267 | 2961 | 
-| 2022-10-31 | 3266 | 2961 | 
 

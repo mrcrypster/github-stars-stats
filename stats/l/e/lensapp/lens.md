@@ -1,10 +1,10 @@
 # lensapp/lens - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 1126
+☋ Forks: 1129
 
-★ Stars: 19958
+★ Stars: 19965
 
 [Open repository](https://github.com/lensapp/lens)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 19965 | 1129 | 
 | 2022-11-29 | 19958 | 1126 | 
 | 2022-11-28 | 19952 | 1125 | 
 | 2022-11-27 | 19939 | 1124 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-04 | 19741 | 1108 | 
 | 2022-11-03 | 19737 | 1107 | 
 | 2022-11-02 | 19721 | 1103 | 
-| 2022-11-01 | 19695 | 1098 | 
 

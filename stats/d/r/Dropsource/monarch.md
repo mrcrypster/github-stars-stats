@@ -1,6 +1,6 @@
 # Dropsource/monarch - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 322 | 8 | 
 | 2022-11-29 | 322 | 8 | 
 | 2022-11-28 | 322 | 8 | 
 | 2022-11-27 | 322 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-04 | 267 | 8 | 
 | 2022-11-03 | 267 | 8 | 
 | 2022-11-02 | 267 | 8 | 
-| 2022-11-01 | 267 | 8 | 
 

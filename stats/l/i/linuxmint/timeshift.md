@@ -1,10 +1,10 @@
 # linuxmint/timeshift - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 28
 
-★ Stars: 428
+★ Stars: 430
 
 [Open repository](https://github.com/linuxmint/timeshift)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 430 | 28 | 
 | 2022-11-29 | 428 | 28 | 
 | 2022-11-28 | 424 | 28 | 
 | 2022-11-27 | 423 | 27 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 375 | 24 | 
 | 2022-11-02 | 374 | 24 | 
 | 2022-11-01 | 373 | 24 | 
-| 2022-10-31 | 370 | 24 | 
 

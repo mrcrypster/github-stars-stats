@@ -1,10 +1,10 @@
 # archcraft-os/archcraft - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 101
 
-★ Stars: 2201
+★ Stars: 2204
 
 [Open repository](https://github.com/archcraft-os/archcraft)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 2204 | 101 | 
 | 2022-11-30 | 2201 | 101 | 
 | 2022-11-29 | 2199 | 101 | 
 | 2022-11-27 | 2198 | 101 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-03 | 2152 | 102 | 
 | 2022-11-02 | 2147 | 102 | 
 | 2022-11-01 | 2146 | 102 | 
-| 2022-10-31 | 2143 | 102 | 
 

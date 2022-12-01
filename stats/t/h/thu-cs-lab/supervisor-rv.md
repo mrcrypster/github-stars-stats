@@ -1,6 +1,6 @@
 # thu-cs-lab/supervisor-rv - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 82 | 16 | 
 | 2022-11-29 | 82 | 16 | 
 | 2022-11-28 | 82 | 16 | 
 | 2022-11-27 | 82 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-04 | 80 | 15 | 
 | 2022-11-03 | 80 | 15 | 
 | 2022-11-02 | 80 | 15 | 
-| 2022-10-31 | 80 | 15 | 
 

@@ -1,10 +1,10 @@
 # sumatrapdfreader/sumatrapdf - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 1469
+☋ Forks: 1470
 
-★ Stars: 9182
+★ Stars: 9185
 
 [Open repository](https://github.com/sumatrapdfreader/sumatrapdf)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 9185 | 1470 | 
 | 2022-11-29 | 9182 | 1469 | 
 | 2022-11-28 | 9179 | 1470 | 
 | 2022-11-27 | 9173 | 1469 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 9073 | 1469 | 
 | 2022-11-02 | 9066 | 1471 | 
 | 2022-11-01 | 9061 | 1471 | 
-| 2022-10-31 | 9054 | 1470 | 
 

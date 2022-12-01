@@ -1,10 +1,10 @@
 # dair-ai/ML-Notebooks - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 395
+☋ Forks: 394
 
-★ Stars: 2737
+★ Stars: 2738
 
 [Open repository](https://github.com/dair-ai/ML-Notebooks)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 2738 | 394 | 
 | 2022-11-29 | 2737 | 395 | 
 | 2022-11-28 | 2737 | 395 | 
 | 2022-11-27 | 2736 | 395 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 2680 | 385 | 
 | 2022-11-02 | 2680 | 385 | 
 | 2022-11-01 | 2678 | 383 | 
-| 2022-10-31 | 2678 | 383 | 
 

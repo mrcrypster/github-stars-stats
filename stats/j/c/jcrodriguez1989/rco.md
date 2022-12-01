@@ -1,8 +1,8 @@
 # jcrodriguez1989/rco - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 20
+☋ Forks: 19
 
 ★ Stars: 75
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 75 | 19 | 
 | 2022-11-29 | 75 | 20 | 
 | 2022-11-28 | 75 | 20 | 
 | 2022-11-27 | 75 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 75 | 20 | 
 | 2022-11-02 | 75 | 20 | 
 | 2022-11-01 | 75 | 20 | 
-| 2022-10-31 | 75 | 20 | 
 

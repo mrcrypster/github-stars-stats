@@ -1,10 +1,10 @@
 # flutter/samples - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 6335
+☋ Forks: 6341
 
-★ Stars: 13855
+★ Stars: 13860
 
 [Open repository](https://github.com/flutter/samples)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 13860 | 6341 | 
 | 2022-11-29 | 13855 | 6335 | 
 | 2022-11-28 | 13851 | 6329 | 
 | 2022-11-27 | 13845 | 6326 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 13717 | 6219 | 
 | 2022-11-02 | 13712 | 6212 | 
 | 2022-11-01 | 13705 | 6205 | 
-| 2022-10-31 | 13694 | 6199 | 
 

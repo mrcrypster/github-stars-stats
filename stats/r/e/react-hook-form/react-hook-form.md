@@ -1,10 +1,10 @@
 # react-hook-form/react-hook-form - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 1582
+☋ Forks: 1584
 
-★ Stars: 31913
+★ Stars: 31932
 
 [Open repository](https://github.com/react-hook-form/react-hook-form)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 31932 | 1584 | 
 | 2022-11-29 | 31913 | 1582 | 
 | 2022-11-28 | 31897 | 1578 | 
 | 2022-11-27 | 31890 | 1577 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 31498 | 1563 | 
 | 2022-11-02 | 31484 | 1562 | 
 | 2022-11-01 | 31459 | 1562 | 
-| 2022-10-31 | 31439 | 1561 | 
 

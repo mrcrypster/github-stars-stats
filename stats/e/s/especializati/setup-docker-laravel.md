@@ -1,6 +1,6 @@
 # especializati/setup-docker-laravel - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 98
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 136 | 98 | 
 | 2022-11-29 | 136 | 98 | 
 | 2022-11-28 | 137 | 98 | 
 | 2022-11-27 | 137 | 98 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-04 | 130 | 97 | 
 | 2022-11-03 | 130 | 97 | 
 | 2022-11-02 | 129 | 97 | 
-| 2022-11-01 | 129 | 97 | 
 

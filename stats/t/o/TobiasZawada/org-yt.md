@@ -1,6 +1,6 @@
 # TobiasZawada/org-yt - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 31 | 9 | 
 | 2022-11-29 | 31 | 9 | 
 | 2022-11-28 | 31 | 9 | 
 | 2022-11-27 | 31 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 32 | 9 | 
 | 2022-11-02 | 32 | 9 | 
 | 2022-11-01 | 32 | 9 | 
-| 2022-10-31 | 32 | 9 | 
 

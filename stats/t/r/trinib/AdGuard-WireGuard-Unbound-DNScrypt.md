@@ -1,10 +1,10 @@
 # trinib/AdGuard-WireGuard-Unbound-DNScrypt - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 42
 
-★ Stars: 416
+★ Stars: 417
 
 [Open repository](https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 417 | 42 | 
 | 2022-11-29 | 416 | 42 | 
 | 2022-11-28 | 414 | 42 | 
 | 2022-11-27 | 413 | 42 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 387 | 40 | 
 | 2022-11-02 | 386 | 40 | 
 | 2022-11-01 | 385 | 39 | 
-| 2022-10-31 | 384 | 39 | 
 

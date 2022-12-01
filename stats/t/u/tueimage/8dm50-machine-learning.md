@@ -1,6 +1,6 @@
 # tueimage/8dm50-machine-learning - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 76
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 10 | 76 | 
 | 2022-11-29 | 10 | 76 | 
 | 2022-11-28 | 10 | 76 | 
 | 2022-11-27 | 10 | 76 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-04 | 10 | 77 | 
 | 2022-11-03 | 10 | 77 | 
 | 2022-11-02 | 10 | 77 | 
-| 2022-11-01 | 10 | 77 | 
 

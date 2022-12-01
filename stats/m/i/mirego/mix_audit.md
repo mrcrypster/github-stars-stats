@@ -1,10 +1,10 @@
 # mirego/mix_audit - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 7
 
-★ Stars: 233
+★ Stars: 234
 
 [Open repository](https://github.com/mirego/mix_audit)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 234 | 7 | 
 | 2022-11-29 | 233 | 7 | 
 | 2022-11-28 | 232 | 7 | 
 | 2022-11-27 | 232 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-04 | 224 | 7 | 
 | 2022-11-03 | 223 | 7 | 
 | 2022-11-01 | 223 | 7 | 
-| 2022-10-31 | 223 | 7 | 
 

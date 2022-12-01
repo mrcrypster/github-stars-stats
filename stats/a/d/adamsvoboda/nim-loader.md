@@ -1,6 +1,6 @@
 # adamsvoboda/nim-loader - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 163 | 29 | 
 | 2022-11-29 | 163 | 29 | 
 | 2022-11-28 | 163 | 29 | 
 | 2022-11-27 | 163 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 158 | 27 | 
 | 2022-11-02 | 157 | 27 | 
 | 2022-11-01 | 157 | 27 | 
-| 2022-10-31 | 157 | 27 | 
 

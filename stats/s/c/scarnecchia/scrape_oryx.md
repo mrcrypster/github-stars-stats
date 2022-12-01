@@ -1,10 +1,10 @@
 # scarnecchia/scrape_oryx - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 9
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/scarnecchia/scrape_oryx)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 23 | 9 | 
 | 2022-11-29 | 22 | 9 | 
 | 2022-11-28 | 22 | 9 | 
 | 2022-11-27 | 22 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 22 | 9 | 
 | 2022-11-02 | 22 | 9 | 
 | 2022-11-01 | 22 | 9 | 
-| 2022-10-31 | 21 | 9 | 
 

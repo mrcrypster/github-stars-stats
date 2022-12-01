@@ -1,8 +1,8 @@
 # csseky/cskaoyan - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 1487
+☋ Forks: 1488
 
 ★ Stars: 6939
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 6939 | 1488 | 
 | 2022-11-29 | 6939 | 1487 | 
 | 2022-11-28 | 6934 | 1485 | 
 | 2022-11-27 | 6930 | 1485 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 6818 | 1473 | 
 | 2022-11-02 | 6817 | 1473 | 
 | 2022-11-01 | 6807 | 1470 | 
-| 2022-10-31 | 6803 | 1471 | 
 

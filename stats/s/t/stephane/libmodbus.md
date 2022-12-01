@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 30
 
 ☋ Forks: 1484
 
-★ Stars: 2476
+★ Stars: 2478
 
 [Open repository](https://github.com/stephane/libmodbus)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-30 | 2476 | 1484 | 
+| 2022-11-30 | 2478 | 1484 | 
 | 2022-11-29 | 2476 | 1484 | 
 | 2022-11-28 | 2473 | 1478 | 
 | 2022-11-27 | 2469 | 1478 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-03 | 2451 | 1465 | 
 | 2022-11-02 | 2451 | 1464 | 
 | 2022-11-01 | 2448 | 1462 | 
-| 2022-10-31 | 2446 | 1460 | 
 

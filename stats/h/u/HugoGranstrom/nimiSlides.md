@@ -1,6 +1,6 @@
 # HugoGranstrom/nimiSlides - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 60 | 2 | 
 | 2022-11-29 | 60 | 2 | 
 | 2022-11-28 | 60 | 2 | 
 | 2022-11-27 | 59 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 58 | 2 | 
 | 2022-11-02 | 57 | 2 | 
 | 2022-11-01 | 57 | 2 | 
-| 2022-10-31 | 57 | 2 | 
 

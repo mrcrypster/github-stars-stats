@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 30
 
 ☋ Forks: 1535
 
-★ Stars: 9160
+★ Stars: 9163
 
 [Open repository](https://github.com/qazbnm456/awesome-web-security)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-30 | 9160 | 1535 | 
+| 2022-11-30 | 9163 | 1535 | 
 | 2022-11-29 | 9160 | 1535 | 
 | 2022-11-28 | 9127 | 1527 | 
 | 2022-11-27 | 9061 | 1520 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-03 | 8965 | 1513 | 
 | 2022-11-02 | 8964 | 1513 | 
 | 2022-11-01 | 8961 | 1513 | 
-| 2022-10-31 | 8961 | 1511 | 
 

@@ -1,6 +1,6 @@
 # zealotCE/America-Against-America - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 289
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 2191 | 289 | 
 | 2022-11-29 | 2191 | 289 | 
 | 2022-11-28 | 2191 | 289 | 
 | 2022-11-27 | 2191 | 289 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 2180 | 283 | 
 | 2022-11-02 | 2178 | 283 | 
 | 2022-11-01 | 2175 | 283 | 
-| 2022-10-31 | 2174 | 282 | 
 

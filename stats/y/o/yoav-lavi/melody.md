@@ -1,10 +1,10 @@
 # yoav-lavi/melody - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 54
 
-★ Stars: 4020
+★ Stars: 4021
 
 [Open repository](https://github.com/yoav-lavi/melody)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 4021 | 54 | 
 | 2022-11-29 | 4020 | 54 | 
 | 2022-11-28 | 4018 | 55 | 
 | 2022-11-27 | 4017 | 55 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 4003 | 55 | 
 | 2022-11-02 | 4002 | 55 | 
 | 2022-11-01 | 4001 | 54 | 
-| 2022-10-31 | 4001 | 54 | 
 

@@ -1,6 +1,6 @@
 # lostisland/faraday - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 937
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 5394 | 937 | 
 | 2022-11-29 | 5394 | 937 | 
 | 2022-11-28 | 5394 | 936 | 
 | 2022-11-27 | 5394 | 936 | 

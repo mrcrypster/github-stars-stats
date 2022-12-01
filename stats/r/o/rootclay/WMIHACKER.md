@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 30
 
 ☋ Forks: 207
 
-★ Stars: 955
+★ Stars: 957
 
 [Open repository](https://github.com/rootclay/WMIHACKER)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-30 | 955 | 207 | 
+| 2022-11-30 | 957 | 207 | 
 | 2022-11-29 | 955 | 207 | 
 | 2022-11-28 | 954 | 207 | 
 | 2022-11-27 | 952 | 205 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 908 | 194 | 
 | 2022-11-03 | 907 | 194 | 
 | 2022-11-02 | 905 | 194 | 
-| 2022-11-01 | 903 | 194 | 
 

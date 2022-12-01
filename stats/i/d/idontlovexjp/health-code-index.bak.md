@@ -1,10 +1,10 @@
 # idontlovexjp/health-code-index.bak - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Dec 2022, 01
 
-☋ Forks: 32
+☋ Forks: 37
 
-★ Stars: 122
+★ Stars: 141
 
 [Open repository](https://github.com/idontlovexjp/health-code-index.bak)
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 141 | 37 | 
+| 2022-11-30 | 139 | 37 | 
 | 2022-11-29 | 122 | 32 | 
 | 2022-11-28 | 116 | 30 | 
 

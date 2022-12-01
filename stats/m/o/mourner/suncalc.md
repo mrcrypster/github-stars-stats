@@ -1,10 +1,10 @@
 # mourner/suncalc - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 345
 
-★ Stars: 2742
+★ Stars: 2743
 
 [Open repository](https://github.com/mourner/suncalc)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 2743 | 345 | 
 | 2022-11-29 | 2742 | 345 | 
 | 2022-11-28 | 2738 | 345 | 
 | 2022-11-27 | 2736 | 345 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 2719 | 345 | 
 | 2022-11-02 | 2718 | 345 | 
 | 2022-11-01 | 2719 | 345 | 
-| 2022-10-31 | 2718 | 345 | 
 

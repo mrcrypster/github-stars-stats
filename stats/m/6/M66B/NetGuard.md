@@ -1,10 +1,10 @@
 # M66B/NetGuard - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 70
 
-★ Stars: 544
+★ Stars: 546
 
 [Open repository](https://github.com/M66B/NetGuard)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 546 | 70 | 
 | 2022-11-30 | 544 | 70 | 
 | 2022-11-28 | 543 | 70 | 
 | 2022-11-27 | 539 | 70 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-03 | 497 | 67 | 
 | 2022-11-02 | 496 | 67 | 
 | 2022-11-01 | 490 | 67 | 
-| 2022-10-31 | 487 | 67 | 
 

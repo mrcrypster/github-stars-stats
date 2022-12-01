@@ -1,10 +1,10 @@
 # parallax/jsPDF - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 4407
+☋ Forks: 4408
 
-★ Stars: 25553
+★ Stars: 25563
 
 [Open repository](https://github.com/parallax/jsPDF)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 25563 | 4408 | 
 | 2022-11-29 | 25553 | 4407 | 
 | 2022-11-28 | 25549 | 4407 | 
 | 2022-11-27 | 25545 | 4405 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 25417 | 4395 | 
 | 2022-11-02 | 25410 | 4394 | 
 | 2022-11-01 | 25401 | 4392 | 
-| 2022-10-31 | 25390 | 4391 | 
 

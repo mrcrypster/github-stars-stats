@@ -1,8 +1,8 @@
 # cheatfate/nimcrypto - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 21
+☋ Forks: 20
 
 ★ Stars: 140
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 140 | 20 | 
 | 2022-11-29 | 140 | 21 | 
 | 2022-11-28 | 139 | 21 | 
 | 2022-11-27 | 139 | 21 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 136 | 20 | 
 | 2022-11-02 | 134 | 20 | 
 | 2022-11-01 | 134 | 20 | 
-| 2022-10-31 | 134 | 20 | 
 

@@ -1,10 +1,10 @@
 # dbt-labs/jaffle_shop - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 414
+☋ Forks: 415
 
-★ Stars: 171
+★ Stars: 172
 
 [Open repository](https://github.com/dbt-labs/jaffle_shop)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 172 | 415 | 
 | 2022-11-29 | 171 | 414 | 
 | 2022-11-28 | 171 | 413 | 
 | 2022-11-27 | 171 | 412 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 164 | 389 | 
 | 2022-11-02 | 164 | 387 | 
 | 2022-11-01 | 162 | 387 | 
-| 2022-10-31 | 158 | 384 | 
 

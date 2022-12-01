@@ -1,6 +1,6 @@
 # choltreppe/nim_serclim - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 26 | 1 | 
 | 2022-11-29 | 26 | 1 | 
 | 2022-11-28 | 26 | 1 | 
 | 2022-11-27 | 26 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 26 | 1 | 
 | 2022-11-02 | 27 | 1 | 
 | 2022-11-01 | 27 | 1 | 
-| 2022-10-31 | 27 | 1 | 
 

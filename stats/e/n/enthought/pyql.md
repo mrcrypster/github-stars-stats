@@ -1,10 +1,10 @@
 # enthought/pyql - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 172
 
-★ Stars: 716
+★ Stars: 717
 
 [Open repository](https://github.com/enthought/pyql)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 717 | 172 | 
 | 2022-11-29 | 716 | 172 | 
 | 2022-11-28 | 716 | 172 | 
 | 2022-11-27 | 715 | 172 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-04 | 692 | 168 | 
 | 2022-11-03 | 692 | 168 | 
 | 2022-11-02 | 691 | 168 | 
-| 2022-11-01 | 691 | 169 | 
 

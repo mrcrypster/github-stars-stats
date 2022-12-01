@@ -1,10 +1,10 @@
 # rails/jsbundling-rails - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 100
+☋ Forks: 101
 
-★ Stars: 614
+★ Stars: 615
 
 [Open repository](https://github.com/rails/jsbundling-rails)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 615 | 101 | 
 | 2022-11-29 | 614 | 100 | 
 | 2022-11-28 | 613 | 100 | 
 | 2022-11-27 | 612 | 100 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 601 | 100 | 
 | 2022-11-02 | 601 | 99 | 
 | 2022-11-01 | 599 | 99 | 
-| 2022-10-31 | 597 | 99 | 
 

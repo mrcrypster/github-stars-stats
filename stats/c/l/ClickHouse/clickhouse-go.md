@@ -1,10 +1,10 @@
 # ClickHouse/clickhouse-go - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 418
+☋ Forks: 420
 
-★ Stars: 2181
+★ Stars: 2182
 
 [Open repository](https://github.com/ClickHouse/clickhouse-go)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 2182 | 420 | 
 | 2022-11-29 | 2181 | 418 | 
 | 2022-11-28 | 2180 | 418 | 
 | 2022-11-27 | 2179 | 418 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 2151 | 409 | 
 | 2022-11-02 | 2150 | 409 | 
 | 2022-11-01 | 2149 | 409 | 
-| 2022-10-31 | 2149 | 408 | 
 

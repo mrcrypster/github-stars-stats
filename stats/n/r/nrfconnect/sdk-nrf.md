@@ -1,10 +1,10 @@
 # nrfconnect/sdk-nrf - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 884
+☋ Forks: 888
 
-★ Stars: 563
+★ Stars: 564
 
 [Open repository](https://github.com/nrfconnect/sdk-nrf)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 564 | 888 | 
 | 2022-11-29 | 563 | 884 | 
 | 2022-11-28 | 562 | 884 | 
 | 2022-11-27 | 561 | 884 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 546 | 871 | 
 | 2022-11-02 | 544 | 868 | 
 | 2022-11-01 | 542 | 864 | 
-| 2022-10-31 | 542 | 864 | 
 

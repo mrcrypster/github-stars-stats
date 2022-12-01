@@ -1,8 +1,8 @@
 # wp-cli/wp-cli-bundle - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 19
+☋ Forks: 20
 
 ★ Stars: 65
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 65 | 20 | 
 | 2022-11-29 | 65 | 19 | 
 | 2022-11-28 | 65 | 19 | 
 | 2022-11-27 | 65 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 65 | 19 | 
 | 2022-11-02 | 65 | 19 | 
 | 2022-11-01 | 65 | 19 | 
-| 2022-10-31 | 65 | 19 | 
 

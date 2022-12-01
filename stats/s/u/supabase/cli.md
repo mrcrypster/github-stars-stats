@@ -1,10 +1,10 @@
 # supabase/cli - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 67
 
-★ Stars: 294
+★ Stars: 295
 
 [Open repository](https://github.com/supabase/cli)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 295 | 67 | 
 | 2022-11-29 | 294 | 67 | 
 | 2022-11-28 | 293 | 66 | 
 | 2022-11-27 | 292 | 66 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 283 | 62 | 
 | 2022-11-02 | 283 | 62 | 
 | 2022-11-01 | 282 | 62 | 
-| 2022-10-31 | 281 | 61 | 
 

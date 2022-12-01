@@ -1,6 +1,6 @@
 # m1911star/affine-client - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 215 | 8 | 
 | 2022-11-29 | 215 | 8 | 
 | 2022-11-28 | 215 | 8 | 
 | 2022-11-27 | 215 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-04 | 213 | 8 | 
 | 2022-11-03 | 213 | 8 | 
 | 2022-11-02 | 213 | 8 | 
-| 2022-11-01 | 213 | 8 | 
 

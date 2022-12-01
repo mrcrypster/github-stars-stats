@@ -1,6 +1,6 @@
 # hopsoft/turbo_ready - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 188 | 10 | 
 | 2022-11-30 | 188 | 10 | 
 | 2022-11-29 | 188 | 10 | 
 | 2022-11-27 | 188 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-03 | 179 | 9 | 
 | 2022-11-02 | 179 | 9 | 
 | 2022-11-01 | 178 | 9 | 
-| 2022-10-31 | 177 | 9 | 
 

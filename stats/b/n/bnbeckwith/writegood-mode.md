@@ -1,6 +1,6 @@
 # bnbeckwith/writegood-mode - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 419 | 33 | 
 | 2022-11-29 | 419 | 33 | 
 | 2022-11-28 | 419 | 33 | 
 | 2022-11-27 | 419 | 33 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 417 | 33 | 
 | 2022-11-02 | 416 | 33 | 
 | 2022-11-01 | 416 | 33 | 
-| 2022-10-31 | 416 | 33 | 
 

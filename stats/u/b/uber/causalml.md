@@ -1,10 +1,10 @@
 # uber/causalml - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 575
+☋ Forks: 576
 
-★ Stars: 3598
+★ Stars: 3600
 
 [Open repository](https://github.com/uber/causalml)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 3600 | 576 | 
 | 2022-11-29 | 3598 | 575 | 
 | 2022-11-28 | 3596 | 575 | 
 | 2022-11-27 | 3595 | 574 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-04 | 3563 | 564 | 
 | 2022-11-03 | 3557 | 564 | 
 | 2022-11-01 | 3551 | 563 | 
-| 2022-10-31 | 3550 | 563 | 
 

@@ -1,8 +1,8 @@
 # DaCoolOne/DumbIdeas - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 9
+☋ Forks: 8
 
 ★ Stars: 60
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 60 | 8 | 
 | 2022-11-29 | 60 | 9 | 
 | 2022-11-28 | 60 | 9 | 
 | 2022-11-27 | 60 | 9 | 

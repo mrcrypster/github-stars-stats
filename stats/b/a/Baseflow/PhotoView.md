@@ -1,10 +1,10 @@
 # Baseflow/PhotoView - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 3898
 
-★ Stars: 18391
+★ Stars: 18393
 
 [Open repository](https://github.com/Baseflow/PhotoView)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 18393 | 3898 | 
 | 2022-11-29 | 18391 | 3898 | 
 | 2022-11-28 | 18391 | 3898 | 
 | 2022-11-27 | 18393 | 3899 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 18381 | 3896 | 
 | 2022-11-02 | 18382 | 3896 | 
 | 2022-11-01 | 18382 | 3896 | 
-| 2022-10-31 | 18381 | 3896 | 
 

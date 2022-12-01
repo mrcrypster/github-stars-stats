@@ -1,10 +1,10 @@
 # codebasics/data-structures-algorithms-python - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 1172
+☋ Forks: 1173
 
-★ Stars: 784
+★ Stars: 785
 
 [Open repository](https://github.com/codebasics/data-structures-algorithms-python)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 785 | 1173 | 
 | 2022-11-29 | 784 | 1172 | 
 | 2022-11-28 | 783 | 1171 | 
 | 2022-11-27 | 782 | 1172 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 762 | 1156 | 
 | 2022-11-02 | 762 | 1156 | 
 | 2022-11-01 | 762 | 1153 | 
-| 2022-10-31 | 761 | 1152 | 
 

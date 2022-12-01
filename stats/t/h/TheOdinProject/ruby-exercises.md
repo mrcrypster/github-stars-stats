@@ -1,8 +1,8 @@
 # TheOdinProject/ruby-exercises - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 504
+☋ Forks: 503
 
 ★ Stars: 107
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 107 | 503 | 
 | 2022-11-29 | 107 | 504 | 
 | 2022-11-28 | 107 | 503 | 
 | 2022-11-27 | 107 | 501 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 103 | 466 | 
 | 2022-11-02 | 103 | 465 | 
 | 2022-11-01 | 102 | 463 | 
-| 2022-10-31 | 102 | 462 | 
 

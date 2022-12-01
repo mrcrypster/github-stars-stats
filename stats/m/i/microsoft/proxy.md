@@ -1,10 +1,10 @@
 # microsoft/proxy - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 22
 
-★ Stars: 399
+★ Stars: 400
 
 [Open repository](https://github.com/microsoft/proxy)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 400 | 22 | 
 | 2022-11-29 | 399 | 22 | 
 | 2022-11-28 | 398 | 22 | 
 | 2022-11-27 | 398 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 334 | 18 | 
 | 2022-11-02 | 333 | 18 | 
 | 2022-11-01 | 333 | 18 | 
-| 2022-10-31 | 333 | 18 | 
 

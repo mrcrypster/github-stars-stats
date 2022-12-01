@@ -1,10 +1,10 @@
 # therealgliz/blooket-hacks - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 1531
+☋ Forks: 1536
 
-★ Stars: 375
+★ Stars: 378
 
 [Open repository](https://github.com/therealgliz/blooket-hacks)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 378 | 1536 | 
 | 2022-11-29 | 375 | 1531 | 
 | 2022-11-28 | 373 | 1529 | 
 | 2022-11-27 | 373 | 1528 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 344 | 1429 | 
 | 2022-11-02 | 341 | 1420 | 
 | 2022-11-01 | 340 | 1412 | 
-| 2022-10-31 | 340 | 1406 | 
 

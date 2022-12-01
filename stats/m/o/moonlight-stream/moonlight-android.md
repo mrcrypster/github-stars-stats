@@ -1,10 +1,10 @@
 # moonlight-stream/moonlight-android - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 360
 
-★ Stars: 1838
+★ Stars: 1837
 
 [Open repository](https://github.com/moonlight-stream/moonlight-android)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 1837 | 360 | 
 | 2022-11-29 | 1838 | 360 | 
 | 2022-11-28 | 1836 | 360 | 
 | 2022-11-27 | 1837 | 359 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 1803 | 353 | 
 | 2022-11-02 | 1803 | 353 | 
 | 2022-11-01 | 1803 | 353 | 
-| 2022-10-31 | 1802 | 353 | 
 

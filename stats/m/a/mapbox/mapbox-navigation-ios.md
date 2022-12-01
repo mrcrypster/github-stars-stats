@@ -1,8 +1,8 @@
 # mapbox/mapbox-navigation-ios - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
-☋ Forks: 284
+☋ Forks: 285
 
 ★ Stars: 774
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 774 | 285 | 
 | 2022-11-29 | 774 | 284 | 
 | 2022-11-28 | 774 | 284 | 
 | 2022-11-27 | 774 | 284 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 769 | 280 | 
 | 2022-11-02 | 769 | 280 | 
 | 2022-11-01 | 769 | 280 | 
-| 2022-10-31 | 770 | 280 | 
 

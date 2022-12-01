@@ -1,6 +1,6 @@
 # egovernments/CIOps - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 2 | 32 | 
 | 2022-11-29 | 2 | 32 | 
 | 2022-11-28 | 2 | 32 | 
 | 2022-11-27 | 2 | 32 | 

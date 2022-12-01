@@ -1,10 +1,10 @@
 # markparticle/WebServer - stars & forks statistics
 
-Stats updated on Nov 2022, 29
+Stats updated on Nov 2022, 30
 
 ☋ Forks: 461
 
-★ Stars: 1710
+★ Stars: 1714
 
 [Open repository](https://github.com/markparticle/WebServer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-30 | 1714 | 461 | 
 | 2022-11-29 | 1710 | 461 | 
 | 2022-11-28 | 1709 | 461 | 
 | 2022-11-27 | 1704 | 459 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 29
 | 2022-11-03 | 1655 | 447 | 
 | 2022-11-02 | 1653 | 447 | 
 | 2022-11-01 | 1650 | 446 | 
-| 2022-10-31 | 1644 | 445 | 
 
