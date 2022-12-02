@@ -1,6 +1,6 @@
 # dunwu/blog - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 208
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 676 | 208 | 
 | 2022-11-30 | 676 | 208 | 
 | 2022-11-29 | 676 | 208 | 
 | 2022-11-28 | 676 | 208 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 675 | 206 | 
 | 2022-11-03 | 675 | 206 | 
 | 2022-11-02 | 675 | 205 | 
-| 2022-11-01 | 675 | 205 | 
 

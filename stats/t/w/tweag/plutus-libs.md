@@ -1,6 +1,6 @@
 # tweag/plutus-libs - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 23 | 9 | 
 | 2022-12-01 | 23 | 9 | 
 | 2022-11-30 | 23 | 9 | 
 | 2022-11-28 | 23 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-04 | 20 | 8 | 
 | 2022-11-03 | 20 | 8 | 
 | 2022-11-02 | 20 | 8 | 
-| 2022-11-01 | 20 | 8 | 
 

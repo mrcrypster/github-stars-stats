@@ -1,6 +1,6 @@
 # nolanw/HTMLReader - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 776 | 73 | 
 | 2022-11-30 | 776 | 73 | 
 | 2022-11-29 | 776 | 73 | 
 | 2022-11-28 | 776 | 73 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 775 | 73 | 
 | 2022-11-03 | 775 | 73 | 
 | 2022-11-02 | 775 | 73 | 
-| 2022-11-01 | 775 | 73 | 
 

@@ -1,10 +1,10 @@
 # tiltedphoques/TiltedEvolution - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 132
+☋ Forks: 133
 
-★ Stars: 736
+★ Stars: 737
 
 [Open repository](https://github.com/tiltedphoques/TiltedEvolution)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 737 | 133 | 
 | 2022-11-30 | 736 | 132 | 
 | 2022-11-29 | 736 | 132 | 
 | 2022-11-27 | 735 | 131 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 712 | 126 | 
 | 2022-11-03 | 711 | 126 | 
 | 2022-11-02 | 710 | 126 | 
-| 2022-11-01 | 710 | 126 | 
 

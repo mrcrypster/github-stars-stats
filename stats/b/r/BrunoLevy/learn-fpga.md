@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 01
 
 ☋ Forks: 126
 
-★ Stars: 1320
+★ Stars: 1323
 
 [Open repository](https://github.com/BrunoLevy/learn-fpga)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-01 | 1320 | 126 | 
+| 2022-12-01 | 1323 | 126 | 
 | 2022-11-30 | 1319 | 126 | 
 

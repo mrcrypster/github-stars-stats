@@ -1,8 +1,8 @@
 # VOICEVOX/voicevox - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 161
+☋ Forks: 160
 
 ★ Stars: 1281
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 1281 | 160 | 
 | 2022-11-30 | 1281 | 161 | 
 | 2022-11-29 | 1280 | 161 | 
 | 2022-11-28 | 1277 | 160 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-05 | 1242 | 156 | 
 | 2022-11-03 | 1241 | 155 | 
 | 2022-11-02 | 1241 | 155 | 
-| 2022-11-01 | 1240 | 155 | 
 

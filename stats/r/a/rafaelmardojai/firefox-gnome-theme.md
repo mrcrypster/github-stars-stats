@@ -1,10 +1,10 @@
 # rafaelmardojai/firefox-gnome-theme - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 111
+☋ Forks: 113
 
-★ Stars: 2086
+★ Stars: 2088
 
 [Open repository](https://github.com/rafaelmardojai/firefox-gnome-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 2088 | 113 | 
 | 2022-11-30 | 2086 | 111 | 
 | 2022-11-29 | 2082 | 111 | 
 | 2022-11-28 | 2077 | 111 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 2021 | 107 | 
 | 2022-11-03 | 2018 | 107 | 
 | 2022-11-02 | 2017 | 107 | 
-| 2022-11-01 | 2016 | 107 | 
 

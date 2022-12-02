@@ -1,6 +1,6 @@
 # Daily-Datapackers/datapack - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 8 | 4 | 
 | 2022-11-30 | 8 | 4 | 
 | 2022-11-29 | 8 | 4 | 
 | 2022-11-28 | 8 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-05 | 7 | 4 | 
 | 2022-11-04 | 7 | 4 | 
 | 2022-11-03 | 7 | 4 | 
-| 2022-11-02 | 7 | 4 | 
 

@@ -1,10 +1,10 @@
 # github/markup - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 3618
 
-★ Stars: 5558
+★ Stars: 5559
 
 [Open repository](https://github.com/github/markup)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 5559 | 3618 | 
 | 2022-11-30 | 5558 | 3618 | 
 | 2022-11-29 | 5557 | 3618 | 
 | 2022-11-28 | 5555 | 3618 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 5541 | 3619 | 
 | 2022-11-03 | 5541 | 3618 | 
 | 2022-11-02 | 5543 | 3618 | 
-| 2022-11-01 | 5542 | 3617 | 
 

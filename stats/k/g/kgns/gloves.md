@@ -1,10 +1,10 @@
 # kgns/gloves - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 46
 
-★ Stars: 129
+★ Stars: 128
 
 [Open repository](https://github.com/kgns/gloves)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 128 | 46 | 
 | 2022-11-30 | 129 | 46 | 
 | 2022-11-29 | 129 | 46 | 
 | 2022-11-28 | 129 | 46 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 125 | 47 | 
 | 2022-11-03 | 125 | 47 | 
 | 2022-11-02 | 125 | 47 | 
-| 2022-11-01 | 125 | 47 | 
 

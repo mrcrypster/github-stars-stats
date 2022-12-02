@@ -1,10 +1,10 @@
 # eehhh/naviii - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 13
 
-★ Stars: 89
+★ Stars: 91
 
 [Open repository](https://github.com/eehhh/naviii)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 91 | 13 | 
 | 2022-11-30 | 89 | 13 | 
 | 2022-11-29 | 89 | 13 | 
 | 2022-11-28 | 89 | 13 | 

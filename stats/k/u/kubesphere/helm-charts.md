@@ -1,8 +1,8 @@
 # kubesphere/helm-charts - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 128
+☋ Forks: 129
 
 ★ Stars: 77
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 77 | 129 | 
 | 2022-11-30 | 77 | 128 | 
 | 2022-11-29 | 77 | 128 | 
 | 2022-11-28 | 77 | 128 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 78 | 127 | 
 | 2022-11-03 | 78 | 127 | 
 | 2022-11-02 | 78 | 126 | 
-| 2022-11-01 | 78 | 125 | 
 

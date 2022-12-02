@@ -1,6 +1,6 @@
 # slashmili/alchemist.vim - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 659 | 35 | 
 | 2022-11-30 | 659 | 35 | 
 | 2022-11-29 | 659 | 35 | 
 | 2022-11-28 | 659 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 657 | 35 | 
 | 2022-11-03 | 657 | 35 | 
 | 2022-11-02 | 657 | 35 | 
-| 2022-11-01 | 657 | 35 | 
 

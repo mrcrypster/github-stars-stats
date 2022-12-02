@@ -1,6 +1,6 @@
 # EECS150/fpga_project_skeleton_fa22 - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 4 | 2 | 
 | 2022-11-30 | 4 | 2 | 
 | 2022-11-29 | 4 | 2 | 
 | 2022-11-28 | 4 | 1 | 

@@ -1,10 +1,10 @@
 # Jsnzkpg/Jsnzkpg - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 98
 
-★ Stars: 852
+★ Stars: 853
 
 [Open repository](https://github.com/Jsnzkpg/Jsnzkpg)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 853 | 98 | 
 | 2022-11-30 | 852 | 98 | 
 | 2022-11-29 | 851 | 98 | 
 | 2022-11-28 | 849 | 98 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 797 | 93 | 
 | 2022-11-03 | 795 | 92 | 
 | 2022-11-02 | 792 | 92 | 
-| 2022-11-01 | 785 | 92 | 
 

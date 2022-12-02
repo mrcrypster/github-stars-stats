@@ -1,6 +1,6 @@
 # vendrinc/elm-gql - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 53 | 5 | 
 | 2022-11-30 | 53 | 5 | 
 | 2022-11-29 | 53 | 5 | 
 | 2022-11-28 | 53 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 20 | 2 | 
 | 2022-11-03 | 20 | 2 | 
 | 2022-11-02 | 20 | 2 | 
-| 2022-11-01 | 20 | 2 | 
 

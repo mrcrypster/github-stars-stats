@@ -1,6 +1,6 @@
 # invoiceninja/admin-portal - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 437
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 1280 | 437 | 
 | 2022-11-30 | 1280 | 437 | 
 | 2022-11-29 | 1279 | 437 | 
 | 2022-11-28 | 1278 | 437 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 1275 | 433 | 
 | 2022-11-03 | 1274 | 433 | 
 | 2022-11-02 | 1275 | 433 | 
-| 2022-11-01 | 1275 | 433 | 
 

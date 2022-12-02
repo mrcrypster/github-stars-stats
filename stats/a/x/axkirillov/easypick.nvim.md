@@ -1,10 +1,10 @@
 # axkirillov/easypick.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 1
 
-★ Stars: 152
+★ Stars: 153
 
 [Open repository](https://github.com/axkirillov/easypick.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 153 | 1 | 
 | 2022-12-01 | 152 | 1 | 
 | 2022-11-29 | 152 | 1 | 
 | 2022-11-28 | 151 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-04 | 136 | - | 
 | 2022-11-03 | 135 | - | 
 | 2022-11-02 | 136 | - | 
-| 2022-11-01 | 136 | - | 
 

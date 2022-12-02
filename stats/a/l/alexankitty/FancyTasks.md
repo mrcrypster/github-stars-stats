@@ -1,6 +1,6 @@
 # alexankitty/FancyTasks - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 53 | 3 | 
 | 2022-11-30 | 53 | 3 | 
 | 2022-11-29 | 53 | 3 | 
 | 2022-11-28 | 53 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 45 | 3 | 
 | 2022-11-03 | 44 | 3 | 
 | 2022-11-02 | 44 | 3 | 
-| 2022-11-01 | 41 | 3 | 
 

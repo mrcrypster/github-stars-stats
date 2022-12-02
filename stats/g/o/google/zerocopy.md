@@ -1,6 +1,6 @@
 # google/zerocopy - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 424 | 22 | 
 | 2022-11-30 | 424 | 22 | 
 | 2022-11-29 | 424 | 22 | 
 | 2022-11-28 | 424 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 406 | 21 | 
 | 2022-11-03 | 405 | 21 | 
 | 2022-11-02 | 405 | 21 | 
-| 2022-11-01 | 405 | 21 | 
 

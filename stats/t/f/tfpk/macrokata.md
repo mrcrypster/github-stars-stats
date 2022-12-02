@@ -1,10 +1,10 @@
 # tfpk/macrokata - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 15
 
-★ Stars: 433
+★ Stars: 434
 
 [Open repository](https://github.com/tfpk/macrokata)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 434 | 15 | 
 | 2022-11-30 | 433 | 15 | 
 | 2022-11-29 | 431 | 16 | 
 | 2022-11-28 | 430 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 405 | 15 | 
 | 2022-11-03 | 403 | 15 | 
 | 2022-11-02 | 398 | 15 | 
-| 2022-11-01 | 391 | 14 | 
 

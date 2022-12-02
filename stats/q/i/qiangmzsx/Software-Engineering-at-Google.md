@@ -1,6 +1,6 @@
 # qiangmzsx/Software-Engineering-at-Google - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 382
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 3062 | 382 | 
 | 2022-11-30 | 3062 | 382 | 
 | 2022-11-29 | 3061 | 382 | 
 | 2022-11-28 | 3058 | 382 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 3004 | 370 | 
 | 2022-11-03 | 3003 | 370 | 
 | 2022-11-02 | 2998 | 367 | 
-| 2022-11-01 | 2993 | 366 | 
 

@@ -1,8 +1,8 @@
 # librespot-org/librespot - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 438
+☋ Forks: 437
 
 ★ Stars: 3416
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 3416 | 437 | 
 | 2022-11-30 | 3416 | 438 | 
 | 2022-11-29 | 3414 | 438 | 
 | 2022-11-28 | 3413 | 438 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 3378 | 432 | 
 | 2022-11-03 | 3377 | 430 | 
 | 2022-11-02 | 3377 | 429 | 
-| 2022-11-01 | 3377 | 429 | 
 

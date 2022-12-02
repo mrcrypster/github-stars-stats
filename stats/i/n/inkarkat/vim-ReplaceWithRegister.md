@@ -1,6 +1,6 @@
 # inkarkat/vim-ReplaceWithRegister - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 60 | 2 | 
 | 2022-11-30 | 60 | 2 | 
 | 2022-11-29 | 60 | 2 | 
 | 2022-11-28 | 60 | 2 | 

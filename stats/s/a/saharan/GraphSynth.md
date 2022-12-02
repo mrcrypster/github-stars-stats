@@ -1,6 +1,6 @@
 # saharan/GraphSynth - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 110 | 3 | 
 | 2022-11-30 | 110 | 3 | 
 | 2022-11-29 | 109 | 3 | 
 | 2022-11-28 | 109 | 3 | 

@@ -1,10 +1,10 @@
 # open-telemetry/opentelemetry-specification - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 780
+☋ Forks: 781
 
-★ Stars: 2973
+★ Stars: 2974
 
 [Open repository](https://github.com/open-telemetry/opentelemetry-specification)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 2974 | 781 | 
 | 2022-11-30 | 2973 | 780 | 
 | 2022-11-29 | 2971 | 781 | 
 | 2022-11-28 | 2967 | 781 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 2922 | 771 | 
 | 2022-11-03 | 2922 | 769 | 
 | 2022-11-02 | 2922 | 769 | 
-| 2022-11-01 | 2919 | 768 | 
 

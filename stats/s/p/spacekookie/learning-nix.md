@@ -1,8 +1,8 @@
 # spacekookie/learning-nix - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 2
+☋ Forks: 4
 
 ★ Stars: 30
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 30 | 4 | 
 | 2022-11-30 | 30 | 2 | 
 | 2022-11-29 | 30 | 2 | 
 | 2022-11-28 | 26 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 25 | 1 | 
 | 2022-11-03 | 25 | 1 | 
 | 2022-11-02 | 25 | 1 | 
-| 2022-11-01 | 25 | 1 | 
 

@@ -1,8 +1,8 @@
 # BL-MSCH-C220-F22/Exercise-05d-Networked-Game - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 02
 
-☋ Forks: 37
+☋ Forks: 38
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | - | 38 | 
 | 2022-11-30 | - | 37 | 
 | 2022-11-29 | - | 37 | 
 | 2022-11-28 | - | 37 | 

@@ -1,10 +1,10 @@
 # simplex-chat/simplexmq - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 14
 
-★ Stars: 152
+★ Stars: 153
 
 [Open repository](https://github.com/simplex-chat/simplexmq)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 153 | 14 | 
 | 2022-11-30 | 152 | 14 | 
 | 2022-11-29 | 147 | 14 | 
 | 2022-11-28 | 145 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 141 | 13 | 
 | 2022-11-03 | 141 | 13 | 
 | 2022-11-02 | 141 | 13 | 
-| 2022-11-01 | 141 | 13 | 
 

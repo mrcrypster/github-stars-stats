@@ -1,6 +1,6 @@
 # javahometech/dockeransiblejenkins - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 618
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 5 | 618 | 
 | 2022-11-30 | 5 | 618 | 
 | 2022-11-29 | 5 | 617 | 
 | 2022-11-28 | 5 | 617 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 5 | 592 | 
 | 2022-11-03 | 5 | 591 | 
 | 2022-11-02 | 5 | 590 | 
-| 2022-11-01 | 5 | 590 | 
 

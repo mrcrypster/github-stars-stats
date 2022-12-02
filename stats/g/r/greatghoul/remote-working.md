@@ -1,10 +1,10 @@
 # greatghoul/remote-working - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 770
+☋ Forks: 771
 
-★ Stars: 8486
+★ Stars: 8488
 
 [Open repository](https://github.com/greatghoul/remote-working)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 8488 | 771 | 
 | 2022-11-30 | 8486 | 770 | 
 | 2022-11-29 | 8483 | 770 | 
 | 2022-11-28 | 8482 | 769 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 8406 | 767 | 
 | 2022-11-03 | 8400 | 767 | 
 | 2022-11-02 | 8392 | 767 | 
-| 2022-11-01 | 8386 | 767 | 
 

@@ -1,10 +1,10 @@
 # janleigh/dotfiles - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 36
 
-★ Stars: 795
+★ Stars: 796
 
 [Open repository](https://github.com/janleigh/dotfiles)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 796 | 36 | 
 | 2022-11-30 | 795 | 36 | 
 | 2022-11-29 | 793 | 36 | 
 | 2022-11-28 | 793 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-05 | 780 | 36 | 
 | 2022-11-04 | 779 | 36 | 
 | 2022-11-03 | 779 | 36 | 
-| 2022-11-02 | 779 | 36 | 
 

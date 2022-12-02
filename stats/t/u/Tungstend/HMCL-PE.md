@@ -1,10 +1,10 @@
 # Tungstend/HMCL-PE - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 35
 
-★ Stars: 190
+★ Stars: 191
 
 [Open repository](https://github.com/Tungstend/HMCL-PE)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 191 | 35 | 
 | 2022-11-30 | 190 | 35 | 
 | 2022-11-29 | 188 | 35 | 
 | 2022-11-28 | 185 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 148 | 29 | 
 | 2022-11-03 | 149 | 29 | 
 | 2022-11-02 | 149 | 29 | 
-| 2022-11-01 | 146 | 29 | 
 

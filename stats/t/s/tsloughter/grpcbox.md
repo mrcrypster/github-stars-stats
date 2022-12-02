@@ -1,8 +1,8 @@
 # tsloughter/grpcbox - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 45
+☋ Forks: 46
 
 ★ Stars: 119
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 119 | 46 | 
 | 2022-11-30 | 119 | 45 | 
 | 2022-11-29 | 119 | 45 | 
 | 2022-11-28 | 119 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 116 | 45 | 
 | 2022-11-03 | 116 | 45 | 
 | 2022-11-02 | 116 | 45 | 
-| 2022-11-01 | 116 | 45 | 
 

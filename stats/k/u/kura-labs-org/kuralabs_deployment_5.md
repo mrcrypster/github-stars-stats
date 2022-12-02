@@ -1,6 +1,6 @@
 # kura-labs-org/kuralabs_deployment_5 - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | - | 34 | 
 | 2022-11-30 | - | 34 | 
 | 2022-11-29 | - | 34 | 
 | 2022-11-28 | - | 34 | 

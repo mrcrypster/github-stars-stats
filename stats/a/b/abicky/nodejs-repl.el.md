@@ -1,6 +1,6 @@
 # abicky/nodejs-repl.el - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 180 | 36 | 
 | 2022-11-30 | 180 | 36 | 
 | 2022-11-29 | 180 | 36 | 
 | 2022-11-28 | 180 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 179 | 35 | 
 | 2022-11-03 | 179 | 35 | 
 | 2022-11-02 | 179 | 35 | 
-| 2022-11-01 | 179 | 35 | 
 

@@ -1,10 +1,10 @@
 # ClustProject/KUDataRepresentation - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 19
+☋ Forks: 20
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/ClustProject/KUDataRepresentation)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 20 | 20 | 
 | 2022-11-30 | 19 | 19 | 
 | 2022-11-29 | 19 | 19 | 
 | 2022-11-28 | 19 | 19 | 

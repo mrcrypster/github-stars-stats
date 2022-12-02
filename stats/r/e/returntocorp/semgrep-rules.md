@@ -1,8 +1,8 @@
 # returntocorp/semgrep-rules - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 254
+☋ Forks: 255
 
 ★ Stars: 461
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 461 | 255 | 
 | 2022-11-30 | 461 | 254 | 
 | 2022-11-29 | 461 | 254 | 
 | 2022-11-28 | 461 | 254 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 449 | 241 | 
 | 2022-11-03 | 448 | 241 | 
 | 2022-11-02 | 448 | 240 | 
-| 2022-11-01 | 448 | 240 | 
 

@@ -1,10 +1,10 @@
 # fcampelo/EC-Bestiary - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 51
 
-★ Stars: 491
+★ Stars: 492
 
 [Open repository](https://github.com/fcampelo/EC-Bestiary)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 492 | 51 | 
 | 2022-11-30 | 491 | 51 | 
 | 2022-11-29 | 490 | 51 | 
 | 2022-11-28 | 490 | 51 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 486 | 51 | 
 | 2022-11-03 | 486 | 51 | 
 | 2022-11-02 | 486 | 51 | 
-| 2022-11-01 | 486 | 51 | 
 

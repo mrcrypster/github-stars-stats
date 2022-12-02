@@ -1,6 +1,6 @@
 # baum1810/fixed-token-grabber - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 56 | 40 | 
 | 2022-12-01 | 56 | 40 | 
 | 2022-11-29 | 56 | 40 | 
 | 2022-11-28 | 56 | 40 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 54 | 39 | 
 | 2022-11-04 | 54 | 39 | 
 | 2022-11-03 | 54 | 39 | 
-| 2022-11-02 | 54 | 39 | 
 

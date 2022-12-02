@@ -1,10 +1,10 @@
 # lucthienphong1120/universe - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 11
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/lucthienphong1120/universe)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 16 | 11 | 
 | 2022-11-30 | 15 | 11 | 
 | 2022-11-29 | 15 | 11 | 
 | 2022-11-28 | 15 | 11 | 

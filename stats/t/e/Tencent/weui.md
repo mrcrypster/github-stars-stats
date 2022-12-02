@@ -1,10 +1,10 @@
 # Tencent/weui - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 6511
 
-★ Stars: 26625
+★ Stars: 26626
 
 [Open repository](https://github.com/Tencent/weui)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 26626 | 6511 | 
 | 2022-11-30 | 26625 | 6511 | 
 | 2022-11-29 | 26623 | 6511 | 
 | 2022-11-28 | 26619 | 6510 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-05 | 26591 | 6512 | 
 | 2022-11-04 | 26590 | 6512 | 
 | 2022-11-03 | 26590 | 6511 | 
-| 2022-11-02 | 26587 | 6511 | 
 

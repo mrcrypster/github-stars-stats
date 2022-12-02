@@ -1,10 +1,10 @@
 # TryGOTry/DogCs4.4 - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 74
 
-★ Stars: 488
+★ Stars: 489
 
 [Open repository](https://github.com/TryGOTry/DogCs4.4)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 489 | 74 | 
 | 2022-11-30 | 488 | 74 | 
 | 2022-11-29 | 487 | 74 | 
 | 2022-11-28 | 484 | 74 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 466 | 73 | 
 | 2022-11-03 | 465 | 73 | 
 | 2022-11-02 | 463 | 73 | 
-| 2022-11-01 | 462 | 73 | 
 

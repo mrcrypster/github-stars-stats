@@ -1,10 +1,10 @@
 # namazso/physmem_drivers - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 54
 
-★ Stars: 167
+★ Stars: 168
 
 [Open repository](https://github.com/namazso/physmem_drivers)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 168 | 54 | 
 | 2022-11-30 | 167 | 54 | 
 | 2022-11-29 | 167 | 53 | 
 | 2022-11-28 | 167 | 53 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 160 | 51 | 
 | 2022-11-03 | 160 | 51 | 
 | 2022-11-02 | 160 | 51 | 
-| 2022-11-01 | 160 | 51 | 
 

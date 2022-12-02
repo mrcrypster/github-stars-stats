@@ -1,10 +1,10 @@
 # themesberg/flowbite-svelte - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 56
+☋ Forks: 55
 
-★ Stars: 362
+★ Stars: 364
 
 [Open repository](https://github.com/themesberg/flowbite-svelte)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 364 | 55 | 
 | 2022-11-30 | 362 | 56 | 
 | 2022-11-29 | 361 | 55 | 
 | 2022-11-28 | 357 | 55 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 308 | 47 | 
 | 2022-11-03 | 308 | 47 | 
 | 2022-11-02 | 307 | 47 | 
-| 2022-11-01 | 307 | 47 | 
 

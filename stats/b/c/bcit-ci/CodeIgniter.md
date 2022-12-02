@@ -1,10 +1,10 @@
 # bcit-ci/CodeIgniter - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 7730
 
-★ Stars: 18181
+★ Stars: 18180
 
 [Open repository](https://github.com/bcit-ci/CodeIgniter)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 18180 | 7730 | 
 | 2022-11-30 | 18181 | 7730 | 
 | 2022-11-29 | 18180 | 7730 | 
 | 2022-11-28 | 18182 | 7729 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 18186 | 7732 | 
 | 2022-11-03 | 18185 | 7731 | 
 | 2022-11-02 | 18185 | 7731 | 
-| 2022-11-01 | 18185 | 7732 | 
 

@@ -1,10 +1,10 @@
 # supabase/postgres - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 68
 
-★ Stars: 875
+★ Stars: 876
 
 [Open repository](https://github.com/supabase/postgres)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 876 | 68 | 
 | 2022-11-30 | 875 | 68 | 
 | 2022-11-29 | 874 | 68 | 
 | 2022-11-28 | 874 | 68 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 862 | 64 | 
 | 2022-11-03 | 862 | 64 | 
 | 2022-11-02 | 861 | 64 | 
-| 2022-11-01 | 860 | 64 | 
 

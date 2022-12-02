@@ -1,6 +1,6 @@
 # apache/logging-log4j2 - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 1463
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 2971 | 1463 | 
 | 2022-11-30 | 2971 | 1463 | 
 | 2022-11-29 | 2970 | 1464 | 
 | 2022-11-28 | 2969 | 1464 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 2963 | 1454 | 
 | 2022-11-03 | 2959 | 1455 | 
 | 2022-11-02 | 2958 | 1455 | 
-| 2022-11-01 | 2957 | 1455 | 
 

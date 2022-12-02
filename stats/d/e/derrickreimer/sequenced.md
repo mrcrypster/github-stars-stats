@@ -1,10 +1,10 @@
 # derrickreimer/sequenced - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 55
 
-★ Stars: 375
+★ Stars: 376
 
 [Open repository](https://github.com/derrickreimer/sequenced)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 376 | 55 | 
 | 2022-11-30 | 375 | 55 | 
 | 2022-11-29 | 375 | 55 | 
 | 2022-11-28 | 375 | 55 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-05 | 370 | 54 | 
 | 2022-11-04 | 370 | 54 | 
 | 2022-11-03 | 370 | 55 | 
-| 2022-11-02 | 370 | 55 | 
 

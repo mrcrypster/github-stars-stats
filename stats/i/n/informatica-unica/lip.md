@@ -1,6 +1,6 @@
 # informatica-unica/lip - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 72
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 6 | 72 | 
 | 2022-11-30 | 6 | 72 | 
 | 2022-11-29 | 6 | 72 | 
 | 2022-11-28 | 6 | 72 | 

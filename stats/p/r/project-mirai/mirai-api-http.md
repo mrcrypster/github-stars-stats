@@ -1,10 +1,10 @@
 # project-mirai/mirai-api-http - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 316
 
-★ Stars: 1132
+★ Stars: 1133
 
 [Open repository](https://github.com/project-mirai/mirai-api-http)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 1133 | 316 | 
 | 2022-11-30 | 1132 | 316 | 
 | 2022-11-29 | 1132 | 316 | 
 | 2022-11-28 | 1131 | 317 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 1117 | 313 | 
 | 2022-11-03 | 1117 | 313 | 
 | 2022-11-02 | 1114 | 313 | 
-| 2022-11-01 | 1113 | 313 | 
 

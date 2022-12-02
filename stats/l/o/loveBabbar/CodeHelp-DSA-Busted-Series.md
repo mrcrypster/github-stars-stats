@@ -1,10 +1,10 @@
 # loveBabbar/CodeHelp-DSA-Busted-Series - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 1224
+☋ Forks: 1227
 
-★ Stars: 1563
+★ Stars: 1564
 
 [Open repository](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 1564 | 1227 | 
 | 2022-11-30 | 1563 | 1224 | 
 | 2022-11-29 | 1559 | 1219 | 
 | 2022-11-28 | 1555 | 1216 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 1460 | 1135 | 
 | 2022-11-03 | 1454 | 1135 | 
 | 2022-11-02 | 1446 | 1131 | 
-| 2022-11-01 | 1439 | 1126 | 
 

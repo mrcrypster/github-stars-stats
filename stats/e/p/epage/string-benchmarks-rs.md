@@ -1,10 +1,10 @@
 # epage/string-benchmarks-rs - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 2
 
-★ Stars: 56
+★ Stars: 57
 
 [Open repository](https://github.com/epage/string-benchmarks-rs)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 57 | 2 | 
 | 2022-11-30 | 56 | 2 | 
 | 2022-11-29 | 56 | 2 | 
 | 2022-11-28 | 56 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 57 | 2 | 
 | 2022-11-03 | 57 | 2 | 
 | 2022-11-02 | 57 | 2 | 
-| 2022-11-01 | 57 | 2 | 
 

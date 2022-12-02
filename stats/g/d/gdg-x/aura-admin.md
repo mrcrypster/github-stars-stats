@@ -1,6 +1,6 @@
 # gdg-x/aura-admin - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 141
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 59 | 141 | 
 | 2022-11-30 | 59 | 141 | 
 | 2022-11-29 | 59 | 141 | 
 | 2022-11-28 | 59 | 141 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-05 | 59 | 142 | 
 | 2022-11-04 | 59 | 142 | 
 | 2022-11-03 | 59 | 142 | 
-| 2022-11-02 | 59 | 142 | 
 

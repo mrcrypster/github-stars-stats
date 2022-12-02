@@ -1,6 +1,6 @@
 # arendst/Tasmota - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 4186
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 18714 | 4186 | 
 | 2022-11-30 | 18714 | 4186 | 
 | 2022-11-29 | 18705 | 4177 | 
 | 2022-11-28 | 18703 | 4177 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 18572 | 4152 | 
 | 2022-11-03 | 18564 | 4152 | 
 | 2022-11-02 | 18558 | 4147 | 
-| 2022-11-01 | 18555 | 4145 | 
 

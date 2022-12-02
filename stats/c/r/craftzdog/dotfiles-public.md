@@ -1,10 +1,10 @@
 # craftzdog/dotfiles-public - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 941
+☋ Forks: 943
 
-★ Stars: 4052
+★ Stars: 4055
 
 [Open repository](https://github.com/craftzdog/dotfiles-public)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 4055 | 943 | 
 | 2022-11-30 | 4052 | 941 | 
 | 2022-11-29 | 4050 | 940 | 
 | 2022-11-28 | 4043 | 936 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 3904 | 899 | 
 | 2022-11-03 | 3899 | 898 | 
 | 2022-11-02 | 3889 | 895 | 
-| 2022-11-01 | 3884 | 895 | 
 

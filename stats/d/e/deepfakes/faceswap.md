@@ -1,10 +1,10 @@
 # deepfakes/faceswap - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 11998
 
-★ Stars: 42867
+★ Stars: 42877
 
 [Open repository](https://github.com/deepfakes/faceswap)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 42877 | 11998 | 
 | 2022-11-30 | 42867 | 11998 | 
 | 2022-11-29 | 42857 | 11998 | 
 | 2022-11-28 | 42850 | 11997 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 42658 | 11979 | 
 | 2022-11-03 | 42652 | 11979 | 
 | 2022-11-02 | 42639 | 11978 | 
-| 2022-11-01 | 42623 | 11974 | 
 

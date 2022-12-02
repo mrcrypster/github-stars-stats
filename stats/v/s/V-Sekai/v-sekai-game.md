@@ -1,6 +1,6 @@
 # V-Sekai/v-sekai-game - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 45 | 2 | 
 | 2022-11-30 | 45 | 2 | 
 | 2022-11-29 | 44 | 2 | 
 | 2022-11-28 | 44 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 41 | 2 | 
 | 2022-11-03 | 41 | 2 | 
 | 2022-11-02 | 41 | 2 | 
-| 2022-11-01 | 41 | 2 | 
 

@@ -1,6 +1,6 @@
 # maromalo/DefinitelyNotSHC - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 54 | 6 | 
 | 2022-11-30 | 54 | 6 | 
 | 2022-11-29 | 54 | 6 | 
 | 2022-11-28 | 54 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-05 | 53 | 3 | 
 | 2022-11-04 | 53 | 3 | 
 | 2022-11-02 | 53 | 3 | 
-| 2022-11-01 | 53 | 3 | 
 

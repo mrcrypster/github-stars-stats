@@ -1,10 +1,10 @@
 # AOMediaCodec/libavif - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 129
 
-★ Stars: 957
+★ Stars: 959
 
 [Open repository](https://github.com/AOMediaCodec/libavif)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 959 | 129 | 
 | 2022-11-30 | 957 | 129 | 
 | 2022-11-29 | 957 | 128 | 
 | 2022-11-28 | 956 | 127 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 942 | 124 | 
 | 2022-11-03 | 942 | 125 | 
 | 2022-11-02 | 940 | 125 | 
-| 2022-11-01 | 938 | 125 | 
 

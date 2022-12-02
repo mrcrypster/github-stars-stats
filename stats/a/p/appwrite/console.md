@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 01
 
 ☋ Forks: 9
 
-★ Stars: 163
+★ Stars: 164
 
 [Open repository](https://github.com/appwrite/console)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-01 | 163 | 9 | 
+| 2022-12-01 | 164 | 9 | 
 | 2022-11-30 | 163 | 9 | 
 | 2022-11-29 | 158 | 9 | 
 | 2022-11-28 | 154 | 9 | 

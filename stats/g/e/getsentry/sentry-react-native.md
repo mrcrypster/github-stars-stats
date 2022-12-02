@@ -1,6 +1,6 @@
 # getsentry/sentry-react-native - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 294
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 1333 | 294 | 
 | 2022-11-30 | 1333 | 294 | 
 | 2022-11-29 | 1332 | 294 | 
 | 2022-11-28 | 1331 | 294 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 1326 | 294 | 
 | 2022-11-03 | 1326 | 294 | 
 | 2022-11-02 | 1325 | 293 | 
-| 2022-11-01 | 1325 | 292 | 
 

@@ -1,10 +1,10 @@
 # academiadocodigo/SimpleORM - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 89
 
-★ Stars: 126
+★ Stars: 127
 
 [Open repository](https://github.com/academiadocodigo/SimpleORM)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 127 | 89 | 
 | 2022-11-30 | 126 | 89 | 
 | 2022-11-29 | 126 | 89 | 
 | 2022-11-28 | 126 | 89 | 

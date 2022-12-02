@@ -1,10 +1,10 @@
 # tans/online-editor - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 6
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/tans/online-editor)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 22 | 6 | 
 | 2022-11-30 | 21 | 6 | 
 | 2022-11-29 | 21 | 6 | 
 | 2022-11-28 | 21 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 20 | 7 | 
 | 2022-11-03 | 20 | 7 | 
 | 2022-11-02 | 20 | 7 | 
-| 2022-11-01 | 19 | 7 | 
 

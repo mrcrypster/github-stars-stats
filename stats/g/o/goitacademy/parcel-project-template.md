@@ -1,6 +1,6 @@
 # goitacademy/parcel-project-template - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 1274
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 254 | 1274 | 
 | 2022-11-30 | 254 | 1274 | 
 | 2022-11-29 | 253 | 1271 | 
 | 2022-11-28 | 252 | 1270 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 234 | 1228 | 
 | 2022-11-03 | 234 | 1226 | 
 | 2022-11-02 | 232 | 1227 | 
-| 2022-11-01 | 231 | 1227 | 
 

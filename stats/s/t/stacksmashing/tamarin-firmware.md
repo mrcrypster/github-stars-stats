@@ -1,6 +1,6 @@
 # stacksmashing/tamarin-firmware - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 231 | 21 | 
 | 2022-11-30 | 231 | 21 | 
 | 2022-11-29 | 230 | 21 | 
 | 2022-11-28 | 228 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 180 | 16 | 
 | 2022-11-03 | 169 | 16 | 
 | 2022-11-02 | 166 | 15 | 
-| 2022-11-01 | 159 | 13 | 
 

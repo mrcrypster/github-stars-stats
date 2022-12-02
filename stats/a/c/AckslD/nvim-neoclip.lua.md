@@ -1,10 +1,10 @@
 # AckslD/nvim-neoclip.lua - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 15
 
-★ Stars: 550
+★ Stars: 551
 
 [Open repository](https://github.com/AckslD/nvim-neoclip.lua)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 551 | 15 | 
 | 2022-11-30 | 550 | 15 | 
 | 2022-11-29 | 550 | 15 | 
 | 2022-11-28 | 550 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 539 | 15 | 
 | 2022-11-03 | 538 | 15 | 
 | 2022-11-02 | 537 | 15 | 
-| 2022-11-01 | 537 | 15 | 
 

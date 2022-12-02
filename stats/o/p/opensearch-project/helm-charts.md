@@ -1,8 +1,8 @@
 # opensearch-project/helm-charts - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 139
+☋ Forks: 141
 
 ★ Stars: 89
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 89 | 141 | 
 | 2022-11-30 | 89 | 139 | 
 | 2022-11-29 | 89 | 139 | 
 | 2022-11-28 | 87 | 138 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 86 | 138 | 
 | 2022-11-03 | 86 | 140 | 
 | 2022-11-02 | 86 | 137 | 
-| 2022-11-01 | 86 | 138 | 
 

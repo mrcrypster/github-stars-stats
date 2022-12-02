@@ -1,10 +1,10 @@
 # OctoPrint/OctoPrint - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 1593
 
-★ Stars: 7037
+★ Stars: 7039
 
 [Open repository](https://github.com/OctoPrint/OctoPrint)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 7039 | 1593 | 
 | 2022-11-30 | 7037 | 1593 | 
 | 2022-11-29 | 7036 | 1594 | 
 | 2022-11-28 | 7033 | 1593 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 6996 | 1588 | 
 | 2022-11-03 | 6995 | 1587 | 
 | 2022-11-02 | 6993 | 1587 | 
-| 2022-11-01 | 6987 | 1587 | 
 

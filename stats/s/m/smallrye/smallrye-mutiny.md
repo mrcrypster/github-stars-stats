@@ -1,10 +1,10 @@
 # smallrye/smallrye-mutiny - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 100
 
-★ Stars: 583
+★ Stars: 585
 
 [Open repository](https://github.com/smallrye/smallrye-mutiny)
 
@@ -13,5 +13,6 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 585 | 100 | 
 | 2022-11-30 | 583 | 100 | 
 

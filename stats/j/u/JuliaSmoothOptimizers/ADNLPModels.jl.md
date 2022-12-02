@@ -1,6 +1,6 @@
 # JuliaSmoothOptimizers/ADNLPModels.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 14 | 7 | 
 | 2022-11-30 | 14 | 7 | 
 | 2022-11-29 | 14 | 7 | 
 | 2022-11-28 | 14 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-05 | 13 | 7 | 
 | 2022-11-04 | 13 | 7 | 
 | 2022-11-03 | 13 | 7 | 
-| 2022-11-02 | 13 | 7 | 
 

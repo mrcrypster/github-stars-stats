@@ -1,10 +1,10 @@
 # cydrobolt/polr - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 843
+☋ Forks: 842
 
-★ Stars: 4530
+★ Stars: 4533
 
 [Open repository](https://github.com/cydrobolt/polr)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 4533 | 842 | 
 | 2022-11-30 | 4530 | 843 | 
 | 2022-11-29 | 4527 | 843 | 
 | 2022-11-28 | 4525 | 843 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 4506 | 840 | 
 | 2022-11-03 | 4504 | 840 | 
 | 2022-11-02 | 4503 | 840 | 
-| 2022-11-01 | 4499 | 840 | 
 

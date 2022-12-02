@@ -1,6 +1,6 @@
 # ZhangMYihua/webpack-from-scratch - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 435
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 9 | 435 | 
 | 2022-11-30 | 9 | 435 | 
 | 2022-11-29 | 9 | 433 | 
 | 2022-11-28 | 9 | 433 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 8 | 419 | 
 | 2022-11-03 | 8 | 419 | 
 | 2022-11-02 | 8 | 418 | 
-| 2022-11-01 | 8 | 417 | 
 

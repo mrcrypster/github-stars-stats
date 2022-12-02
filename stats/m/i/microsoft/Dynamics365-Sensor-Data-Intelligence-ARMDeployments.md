@@ -1,6 +1,6 @@
 # microsoft/Dynamics365-Sensor-Data-Intelligence-ARMDeployments - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 1 | 3 | 
 | 2022-11-30 | 1 | 3 | 
 | 2022-11-29 | 1 | 3 | 
 | 2022-11-28 | 1 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 2 | 3 | 
 | 2022-11-03 | 2 | 3 | 
 | 2022-11-02 | 2 | 3 | 
-| 2022-11-01 | 2 | 3 | 
 

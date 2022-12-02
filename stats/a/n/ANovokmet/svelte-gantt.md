@@ -1,10 +1,10 @@
 # ANovokmet/svelte-gantt - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 65
 
-★ Stars: 282
+★ Stars: 283
 
 [Open repository](https://github.com/ANovokmet/svelte-gantt)
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 283 | 65 | 
+| 2022-12-01 | 283 | 65 | 
 | 2022-11-30 | 282 | 65 | 
 | 2022-11-29 | 281 | 64 | 
 | 2022-11-28 | 280 | 63 | 
@@ -41,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 268 | 59 | 
 | 2022-11-03 | 268 | 59 | 
 | 2022-11-02 | 268 | 59 | 
-| 2022-11-01 | 268 | 59 | 
 

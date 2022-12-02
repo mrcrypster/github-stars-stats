@@ -1,10 +1,10 @@
 # aio-libs/aiohttp - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 1834
+☋ Forks: 1833
 
-★ Stars: 13056
+★ Stars: 13058
 
 [Open repository](https://github.com/aio-libs/aiohttp)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 13058 | 1833 | 
 | 2022-11-30 | 13056 | 1834 | 
 | 2022-11-29 | 13050 | 1834 | 
 | 2022-11-28 | 13045 | 1834 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 12981 | 1826 | 
 | 2022-11-03 | 12982 | 1824 | 
 | 2022-11-02 | 12980 | 1824 | 
-| 2022-11-01 | 12974 | 1823 | 
 

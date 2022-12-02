@@ -1,8 +1,8 @@
 # mentorchita/my_yourname_site - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 111
+☋ Forks: 113
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | - | 113 | 
 | 2022-11-30 | - | 111 | 
 | 2022-11-29 | - | 109 | 
 | 2022-11-28 | - | 108 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | - | 72 | 
 | 2022-11-03 | - | 72 | 
 | 2022-11-02 | - | 72 | 
-| 2022-11-01 | - | 72 | 
 

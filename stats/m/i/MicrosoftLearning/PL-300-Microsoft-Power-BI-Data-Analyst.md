@@ -1,6 +1,6 @@
 # MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 91
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 128 | 91 | 
 | 2022-11-30 | 128 | 91 | 
 | 2022-11-29 | 128 | 91 | 
 | 2022-11-28 | 128 | 91 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 116 | 83 | 
 | 2022-11-03 | 116 | 83 | 
 | 2022-11-02 | 116 | 83 | 
-| 2022-11-01 | 116 | 83 | 
 

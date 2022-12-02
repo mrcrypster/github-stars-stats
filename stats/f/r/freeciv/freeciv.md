@@ -1,6 +1,6 @@
 # freeciv/freeciv - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 177
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 950 | 177 | 
 | 2022-11-30 | 950 | 177 | 
 | 2022-11-29 | 948 | 177 | 
 | 2022-11-28 | 947 | 177 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 940 | 175 | 
 | 2022-11-03 | 940 | 175 | 
 | 2022-11-02 | 939 | 175 | 
-| 2022-11-01 | 938 | 175 | 
 

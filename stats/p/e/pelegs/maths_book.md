@@ -1,6 +1,6 @@
 # pelegs/maths_book - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 133 | 16 | 
 | 2022-11-30 | 133 | 16 | 
 | 2022-11-29 | 133 | 16 | 
 | 2022-11-28 | 133 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-05 | 125 | 15 | 
 | 2022-11-03 | 125 | 15 | 
 | 2022-11-02 | 125 | 15 | 
-| 2022-11-01 | 124 | 15 | 
 

@@ -1,6 +1,6 @@
 # karpathy/makemore - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 87
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 569 | 87 | 
 | 2022-11-30 | 569 | 87 | 
 | 2022-11-29 | 567 | 86 | 
 | 2022-11-28 | 565 | 87 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 495 | 71 | 
 | 2022-11-03 | 494 | 71 | 
 | 2022-11-02 | 492 | 71 | 
-| 2022-11-01 | 487 | 71 | 
 

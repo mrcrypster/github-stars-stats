@@ -1,10 +1,10 @@
 # ionide/ionide-vscode-fsharp - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 255
 
-★ Stars: 778
+★ Stars: 777
 
 [Open repository](https://github.com/ionide/ionide-vscode-fsharp)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 777 | 255 | 
 | 2022-11-30 | 778 | 255 | 
 | 2022-11-29 | 778 | 254 | 
 | 2022-11-28 | 779 | 254 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-05 | 774 | 252 | 
 | 2022-11-04 | 774 | 252 | 
 | 2022-11-03 | 775 | 252 | 
-| 2022-11-02 | 775 | 252 | 
 

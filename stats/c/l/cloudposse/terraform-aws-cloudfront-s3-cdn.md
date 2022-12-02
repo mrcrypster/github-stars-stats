@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-cloudfront-s3-cdn - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 214
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 241 | 214 | 
 | 2022-11-30 | 241 | 214 | 
 | 2022-11-29 | 241 | 214 | 
 | 2022-11-28 | 240 | 214 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 238 | 213 | 
 | 2022-11-03 | 238 | 213 | 
 | 2022-11-02 | 238 | 211 | 
-| 2022-11-01 | 238 | 212 | 
 

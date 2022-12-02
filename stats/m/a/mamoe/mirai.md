@@ -1,10 +1,10 @@
 # mamoe/mirai - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 2355
 
-★ Stars: 10971
+★ Stars: 10982
 
 [Open repository](https://github.com/mamoe/mirai)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 10982 | 2355 | 
 | 2022-11-30 | 10971 | 2355 | 
 | 2022-11-29 | 10967 | 2355 | 
 | 2022-11-28 | 10958 | 2353 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 10792 | 2333 | 
 | 2022-11-03 | 10776 | 2332 | 
 | 2022-11-02 | 10766 | 2331 | 
-| 2022-11-01 | 10760 | 2332 | 
 

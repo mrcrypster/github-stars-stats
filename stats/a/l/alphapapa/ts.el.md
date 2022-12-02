@@ -1,10 +1,10 @@
 # alphapapa/ts.el - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 11
 
-★ Stars: 149
+★ Stars: 150
 
 [Open repository](https://github.com/alphapapa/ts.el)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 150 | 11 | 
 | 2022-11-30 | 149 | 11 | 
 | 2022-11-29 | 149 | 11 | 
 | 2022-11-28 | 149 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 149 | 11 | 
 | 2022-11-03 | 149 | 11 | 
 | 2022-11-02 | 149 | 11 | 
-| 2022-11-01 | 149 | 11 | 
 

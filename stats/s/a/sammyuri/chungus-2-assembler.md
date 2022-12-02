@@ -1,6 +1,6 @@
 # sammyuri/chungus-2-assembler - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 245 | 14 | 
 | 2022-11-30 | 245 | 14 | 
 | 2022-11-29 | 245 | 14 | 
 | 2022-11-28 | 245 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 244 | 14 | 
 | 2022-11-03 | 244 | 14 | 
 | 2022-11-02 | 244 | 14 | 
-| 2022-11-01 | 243 | 14 | 
 

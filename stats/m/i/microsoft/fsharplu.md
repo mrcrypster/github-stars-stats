@@ -1,10 +1,10 @@
 # microsoft/fsharplu - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 41
 
-★ Stars: 339
+★ Stars: 338
 
 [Open repository](https://github.com/microsoft/fsharplu)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 338 | 41 | 
 | 2022-11-30 | 339 | 41 | 
 | 2022-11-29 | 339 | 41 | 
 | 2022-11-28 | 339 | 41 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 339 | 41 | 
 | 2022-11-03 | 339 | 41 | 
 | 2022-11-02 | 339 | 41 | 
-| 2022-11-01 | 339 | 41 | 
 

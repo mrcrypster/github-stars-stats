@@ -1,6 +1,6 @@
 # udacity/ud120-projects - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 5697
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 1552 | 5697 | 
 | 2022-11-30 | 1552 | 5697 | 
 | 2022-11-29 | 1551 | 5697 | 
 | 2022-11-28 | 1551 | 5697 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 1552 | 5694 | 
 | 2022-11-03 | 1552 | 5694 | 
 | 2022-11-02 | 1551 | 5693 | 
-| 2022-11-01 | 1551 | 5692 | 
 

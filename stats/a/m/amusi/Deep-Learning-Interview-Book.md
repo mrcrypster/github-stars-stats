@@ -1,10 +1,10 @@
 # amusi/Deep-Learning-Interview-Book - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 1071
 
-★ Stars: 4874
+★ Stars: 4881
 
 [Open repository](https://github.com/amusi/Deep-Learning-Interview-Book)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 4881 | 1071 | 
 | 2022-11-30 | 4874 | 1071 | 
 | 2022-11-29 | 4872 | 1070 | 
 | 2022-11-28 | 4867 | 1070 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 4823 | 1064 | 
 | 2022-11-03 | 4822 | 1062 | 
 | 2022-11-02 | 4818 | 1060 | 
-| 2022-11-01 | 4817 | 1060 | 
 

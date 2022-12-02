@@ -1,10 +1,10 @@
 # carlospolop/hacktricks-cloud - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 34
+☋ Forks: 35
 
-★ Stars: 150
+★ Stars: 151
 
 [Open repository](https://github.com/carlospolop/hacktricks-cloud)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 151 | 35 | 
 | 2022-11-30 | 150 | 34 | 
 | 2022-11-29 | 150 | 34 | 
 | 2022-11-28 | 150 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 131 | 29 | 
 | 2022-11-03 | 131 | 28 | 
 | 2022-11-02 | 130 | 28 | 
-| 2022-11-01 | 130 | 28 | 
 

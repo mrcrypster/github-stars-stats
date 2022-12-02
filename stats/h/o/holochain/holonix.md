@@ -1,6 +1,6 @@
 # holochain/holonix - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 78 | 21 | 
 | 2022-11-30 | 78 | 21 | 
 | 2022-11-29 | 76 | 21 | 
 | 2022-11-28 | 76 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-05 | 76 | 22 | 
 | 2022-11-04 | 76 | 22 | 
 | 2022-11-03 | 76 | 22 | 
-| 2022-11-02 | 75 | 22 | 
 

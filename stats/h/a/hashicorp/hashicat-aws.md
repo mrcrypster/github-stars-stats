@@ -1,6 +1,6 @@
 # hashicorp/hashicat-aws - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 1980
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 11 | 1980 | 
 | 2022-12-01 | 11 | 1980 | 
 | 2022-11-30 | 11 | 1966 | 
 | 2022-11-28 | 11 | 1965 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-04 | 11 | 1854 | 
 | 2022-11-03 | 11 | 1854 | 
 | 2022-11-02 | 11 | 1854 | 
-| 2022-11-01 | 11 | 1854 | 
 

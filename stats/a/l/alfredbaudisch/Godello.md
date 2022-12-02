@@ -1,8 +1,8 @@
 # alfredbaudisch/Godello - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 39
+☋ Forks: 38
 
 ★ Stars: 563
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 563 | 38 | 
 | 2022-11-30 | 563 | 39 | 
 | 2022-11-29 | 563 | 39 | 
 | 2022-11-28 | 563 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 557 | 38 | 
 | 2022-11-03 | 557 | 38 | 
 | 2022-11-02 | 556 | 38 | 
-| 2022-11-01 | 556 | 38 | 
 

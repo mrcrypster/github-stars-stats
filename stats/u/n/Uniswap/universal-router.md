@@ -1,10 +1,10 @@
 # Uniswap/universal-router - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 18
 
-★ Stars: 150
+★ Stars: 156
 
 [Open repository](https://github.com/Uniswap/universal-router)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 156 | 18 | 
 | 2022-11-30 | 150 | 18 | 
 | 2022-11-29 | 148 | 17 | 
 | 2022-11-28 | 148 | 17 | 

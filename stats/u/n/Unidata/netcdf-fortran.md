@@ -1,8 +1,8 @@
 # Unidata/netcdf-fortran - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 80
+☋ Forks: 79
 
 ★ Stars: 172
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 172 | 79 | 
 | 2022-11-30 | 172 | 80 | 
 | 2022-11-29 | 172 | 80 | 
 | 2022-11-28 | 172 | 80 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-05 | 171 | 80 | 
 | 2022-11-03 | 171 | 80 | 
 | 2022-11-02 | 171 | 80 | 
-| 2022-11-01 | 171 | 80 | 
 

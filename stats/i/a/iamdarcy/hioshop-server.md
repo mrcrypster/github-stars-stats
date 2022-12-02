@@ -1,6 +1,6 @@
 # iamdarcy/hioshop-server - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 276
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 502 | 276 | 
 | 2022-11-30 | 502 | 276 | 
 | 2022-11-29 | 501 | 276 | 
 | 2022-11-28 | 501 | 276 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 496 | 274 | 
 | 2022-11-03 | 496 | 274 | 
 | 2022-11-02 | 496 | 274 | 
-| 2022-11-01 | 496 | 274 | 
 

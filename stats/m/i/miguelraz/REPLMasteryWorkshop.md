@@ -1,10 +1,10 @@
 # miguelraz/REPLMasteryWorkshop - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 6
 
-★ Stars: 70
+★ Stars: 71
 
 [Open repository](https://github.com/miguelraz/REPLMasteryWorkshop)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 71 | 6 | 
 | 2022-11-30 | 70 | 6 | 
 | 2022-11-29 | 70 | 6 | 
 | 2022-11-28 | 70 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-05 | 69 | 6 | 
 | 2022-11-04 | 69 | 6 | 
 | 2022-11-03 | 69 | 6 | 
-| 2022-11-02 | 69 | 6 | 
 

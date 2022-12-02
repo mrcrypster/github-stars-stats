@@ -1,10 +1,10 @@
 # aragon/aragonOS - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 246
 
-★ Stars: 618
+★ Stars: 619
 
 [Open repository](https://github.com/aragon/aragonOS)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 619 | 246 | 
 | 2022-11-30 | 618 | 246 | 
 | 2022-11-29 | 618 | 246 | 
 | 2022-11-28 | 618 | 246 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 616 | 247 | 
 | 2022-11-03 | 616 | 247 | 
 | 2022-11-02 | 614 | 247 | 
-| 2022-11-01 | 614 | 247 | 
 

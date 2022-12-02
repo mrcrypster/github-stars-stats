@@ -1,6 +1,6 @@
 # mirage/mirage - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 229
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 2020 | 229 | 
 | 2022-11-30 | 2020 | 229 | 
 | 2022-11-29 | 2017 | 229 | 
 | 2022-11-28 | 2015 | 230 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 2005 | 229 | 
 | 2022-11-03 | 2005 | 229 | 
 | 2022-11-02 | 2005 | 229 | 
-| 2022-11-01 | 2003 | 229 | 
 

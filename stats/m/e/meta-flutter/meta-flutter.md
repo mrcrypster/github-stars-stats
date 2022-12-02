@@ -1,10 +1,10 @@
 # meta-flutter/meta-flutter - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 29
 
-★ Stars: 63
+★ Stars: 64
 
 [Open repository](https://github.com/meta-flutter/meta-flutter)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 64 | 29 | 
 | 2022-11-30 | 63 | 29 | 
 | 2022-11-29 | 63 | 29 | 
 | 2022-11-28 | 63 | 29 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 62 | 28 | 
 | 2022-11-03 | 62 | 28 | 
 | 2022-11-02 | 62 | 28 | 
-| 2022-11-01 | 62 | 28 | 
 

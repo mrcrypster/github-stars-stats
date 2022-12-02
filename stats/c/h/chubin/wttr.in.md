@@ -1,10 +1,10 @@
 # chubin/wttr.in - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 958
 
-★ Stars: 19949
+★ Stars: 19955
 
 [Open repository](https://github.com/chubin/wttr.in)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 19955 | 958 | 
 | 2022-11-30 | 19949 | 958 | 
 | 2022-11-29 | 19941 | 957 | 
 | 2022-11-28 | 19927 | 956 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 19750 | 947 | 
 | 2022-11-03 | 19740 | 947 | 
 | 2022-11-02 | 19730 | 947 | 
-| 2022-11-01 | 19714 | 947 | 
 

@@ -1,8 +1,8 @@
 # yonghun8343/Node_study - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 5
+☋ Forks: 6
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 2 | 6 | 
 | 2022-11-30 | 2 | 5 | 
 | 2022-11-29 | 2 | 5 | 
 | 2022-11-28 | 2 | 5 | 

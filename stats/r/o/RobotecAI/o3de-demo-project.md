@@ -1,10 +1,10 @@
 # RobotecAI/o3de-demo-project - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 0
 
-★ Stars: 16
+★ Stars: 15
 
 [Open repository](https://github.com/RobotecAI/o3de-demo-project)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 15 | - | 
 | 2022-11-30 | 16 | - | 
 | 2022-11-29 | 16 | - | 
 | 2022-11-28 | 16 | - | 

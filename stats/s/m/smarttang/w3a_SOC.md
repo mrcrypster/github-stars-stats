@@ -1,6 +1,6 @@
 # smarttang/w3a_SOC - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 161
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 267 | 161 | 
 | 2022-11-30 | 267 | 161 | 
 | 2022-11-29 | 267 | 161 | 
 | 2022-11-28 | 267 | 161 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 265 | 161 | 
 | 2022-11-03 | 265 | 161 | 
 | 2022-11-02 | 264 | 161 | 
-| 2022-11-01 | 264 | 161 | 
 

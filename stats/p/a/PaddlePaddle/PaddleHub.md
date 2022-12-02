@@ -1,10 +1,10 @@
 # PaddlePaddle/PaddleHub - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 1906
+☋ Forks: 1909
 
-★ Stars: 10700
+★ Stars: 10707
 
 [Open repository](https://github.com/PaddlePaddle/PaddleHub)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 10707 | 1909 | 
 | 2022-11-30 | 10700 | 1906 | 
 | 2022-11-29 | 10692 | 1903 | 
 | 2022-11-28 | 10684 | 1903 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 10439 | 1869 | 
 | 2022-11-03 | 10413 | 1869 | 
 | 2022-11-02 | 10404 | 1869 | 
-| 2022-11-01 | 10353 | 1867 | 
 

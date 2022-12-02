@@ -1,10 +1,10 @@
 # toshiossada/ioasysCamp10 - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 0
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/toshiossada/ioasysCamp10)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 29 | - | 
 | 2022-11-30 | 28 | - | 
 | 2022-11-29 | 25 | - | 
 

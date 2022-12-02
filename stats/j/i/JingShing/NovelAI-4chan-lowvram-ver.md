@@ -1,8 +1,8 @@
 # JingShing/NovelAI-4chan-lowvram-ver - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 23
+☋ Forks: 21
 
 ★ Stars: 91
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 91 | 21 | 
 | 2022-11-30 | 91 | 23 | 
 | 2022-11-29 | 91 | 23 | 
 | 2022-11-28 | 91 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 89 | 21 | 
 | 2022-11-03 | 88 | 20 | 
 | 2022-11-02 | 87 | 18 | 
-| 2022-11-01 | 87 | 18 | 
 

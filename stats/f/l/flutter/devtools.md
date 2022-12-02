@@ -1,6 +1,6 @@
 # flutter/devtools - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 237
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 1318 | 237 | 
 | 2022-11-30 | 1318 | 237 | 
 | 2022-11-29 | 1318 | 237 | 
 | 2022-11-28 | 1316 | 237 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 1311 | 231 | 
 | 2022-11-03 | 1310 | 231 | 
 | 2022-11-02 | 1310 | 231 | 
-| 2022-11-01 | 1309 | 231 | 
 

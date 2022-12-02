@@ -1,10 +1,10 @@
 # frontendbr/vagas - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 726
 
-★ Stars: 10097
+★ Stars: 10115
 
 [Open repository](https://github.com/frontendbr/vagas)
 
@@ -13,7 +13,8 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-01 | 10097 | 726 | 
+| 2022-12-02 | 10115 | 726 | 
+| 2022-12-01 | 10112 | 726 | 
 | 2022-11-29 | 10088 | 725 | 
 | 2022-11-28 | 10076 | 725 | 
 | 2022-11-27 | 10072 | 725 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-04 | 9939 | 724 | 
 | 2022-11-03 | 9933 | 724 | 
 | 2022-11-02 | 9931 | 724 | 
-| 2022-11-01 | 9927 | 724 | 
 

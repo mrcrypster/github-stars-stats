@@ -1,10 +1,8 @@
 # getdrive/vps - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+☋ Forks: 
 
-☋ Forks: 83
-
-★ Stars: 0
+★ Stars: 
 
 [Open repository](https://github.com/getdrive/vps)
 
@@ -13,5 +11,4 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-01 | - | 83 | 
 

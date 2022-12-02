@@ -1,6 +1,6 @@
 # rajasegar/svelte-slides - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 46 | 1 | 
 | 2022-12-01 | 46 | 1 | 
 | 2022-11-30 | 46 | 1 | 
 | 2022-11-28 | 45 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-04 | 41 | - | 
 | 2022-11-03 | 41 | - | 
 | 2022-11-02 | 41 | - | 
-| 2022-11-01 | 41 | - | 
 

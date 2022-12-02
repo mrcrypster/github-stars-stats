@@ -1,6 +1,6 @@
 # apache/avro - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 1420
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 2328 | 1420 | 
 | 2022-11-30 | 2328 | 1420 | 
 | 2022-11-29 | 2328 | 1419 | 
 | 2022-11-28 | 2327 | 1419 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 2295 | 1408 | 
 | 2022-11-03 | 2293 | 1408 | 
 | 2022-11-02 | 2292 | 1408 | 
-| 2022-11-01 | 2290 | 1407 | 
 

@@ -1,6 +1,6 @@
 # alt-romes/hegg - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 43 | 3 | 
 | 2022-12-01 | 43 | 3 | 
 | 2022-11-29 | 43 | 3 | 
 | 2022-11-28 | 43 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-04 | 42 | 3 | 
 | 2022-11-03 | 41 | 3 | 
 | 2022-11-02 | 41 | 3 | 
-| 2022-11-01 | 41 | 3 | 
 

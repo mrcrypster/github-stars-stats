@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 01
 
 ☋ Forks: 651
 
-★ Stars: 3105
+★ Stars: 3107
 
 [Open repository](https://github.com/ZyqGitHub1/h-player-v2)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-01 | 3105 | 651 | 
+| 2022-12-01 | 3107 | 651 | 
 | 2022-11-30 | 3105 | 651 | 
 

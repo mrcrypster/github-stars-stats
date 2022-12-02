@@ -1,0 +1,17 @@
+# OneBitCodeBlog/onebitlife - stars & forks statistics
+
+Stats updated on Dec 2022, 01
+
+☋ Forks: 12
+
+★ Stars: 29
+
+[Open repository](https://github.com/OneBitCodeBlog/onebitlife)
+
+[Open detailed stats for OneBitCodeBlog/onebitlife](https://reviewgithub.com/rep/OneBitCodeBlog/onebitlife)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-12-01 | 29 | 12 | 
+

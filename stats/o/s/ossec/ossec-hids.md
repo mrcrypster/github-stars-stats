@@ -1,6 +1,6 @@
 # ossec/ossec-hids - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 980
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 3826 | 980 | 
 | 2022-11-30 | 3826 | 980 | 
 | 2022-11-29 | 3826 | 980 | 
 | 2022-11-28 | 3825 | 981 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-05 | 3818 | 979 | 
 | 2022-11-04 | 3816 | 979 | 
 | 2022-11-03 | 3816 | 979 | 
-| 2022-11-02 | 3815 | 979 | 
 

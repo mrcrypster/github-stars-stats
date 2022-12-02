@@ -1,6 +1,6 @@
 # Andersama/obs-asio - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 502 | 36 | 
 | 2022-11-30 | 502 | 36 | 
 | 2022-11-29 | 501 | 36 | 
 | 2022-11-28 | 501 | 36 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 494 | 36 | 
 | 2022-11-03 | 493 | 36 | 
 | 2022-11-02 | 493 | 36 | 
-| 2022-11-01 | 492 | 36 | 
 

@@ -1,10 +1,10 @@
 # LnL7/nix-darwin - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 263
 
-★ Stars: 1270
+★ Stars: 1271
 
 [Open repository](https://github.com/LnL7/nix-darwin)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 1271 | 263 | 
 | 2022-11-30 | 1270 | 263 | 
 | 2022-11-29 | 1269 | 263 | 
 | 2022-11-28 | 1268 | 262 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 1239 | 257 | 
 | 2022-11-03 | 1239 | 257 | 
 | 2022-11-02 | 1239 | 257 | 
-| 2022-11-01 | 1234 | 257 | 
 

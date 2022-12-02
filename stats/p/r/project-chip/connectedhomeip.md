@@ -1,10 +1,10 @@
 # project-chip/connectedhomeip - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 02
 
-☋ Forks: 1163
+☋ Forks: 1166
 
-★ Stars: 5189
+★ Stars: 5197
 
 [Open repository](https://github.com/project-chip/connectedhomeip)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 5197 | 1166 | 
 | 2022-11-30 | 5189 | 1163 | 
 | 2022-11-29 | 5184 | 1162 | 
 | 2022-11-28 | 5181 | 1160 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 4967 | 1087 | 
 | 2022-11-03 | 4934 | 1080 | 
 | 2022-11-02 | 4924 | 1075 | 
-| 2022-11-01 | 4919 | 1073 | 
 

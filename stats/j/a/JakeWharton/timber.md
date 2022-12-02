@@ -1,10 +1,10 @@
 # JakeWharton/timber - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 940
 
-★ Stars: 9823
+★ Stars: 9826
 
 [Open repository](https://github.com/JakeWharton/timber)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 9826 | 940 | 
 | 2022-11-30 | 9823 | 940 | 
 | 2022-11-29 | 9823 | 940 | 
 | 2022-11-28 | 9820 | 939 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 9788 | 939 | 
 | 2022-11-03 | 9786 | 939 | 
 | 2022-11-02 | 9786 | 939 | 
-| 2022-11-01 | 9786 | 939 | 
 

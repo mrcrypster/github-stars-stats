@@ -1,6 +1,6 @@
 # giswqs/geemap - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 889
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 2397 | 889 | 
 | 2022-11-30 | 2397 | 889 | 
 | 2022-11-29 | 2396 | 887 | 
 | 2022-11-28 | 2393 | 886 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 2355 | 876 | 
 | 2022-11-03 | 2351 | 876 | 
 | 2022-11-02 | 2350 | 875 | 
-| 2022-11-01 | 2347 | 872 | 
 

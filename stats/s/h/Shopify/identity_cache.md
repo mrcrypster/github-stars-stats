@@ -1,10 +1,10 @@
 # Shopify/identity_cache - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 172
 
-★ Stars: 1803
+★ Stars: 1804
 
 [Open repository](https://github.com/Shopify/identity_cache)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 1804 | 172 | 
 | 2022-12-01 | 1803 | 172 | 
 | 2022-11-30 | 1803 | 172 | 
 | 2022-11-29 | 1803 | 172 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-04 | 1802 | 173 | 
 | 2022-11-03 | 1802 | 173 | 
 | 2022-11-02 | 1802 | 173 | 
-| 2022-11-01 | 1802 | 172 | 
 

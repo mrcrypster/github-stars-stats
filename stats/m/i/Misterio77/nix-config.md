@@ -1,6 +1,6 @@
 # Misterio77/nix-config - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 97 | 6 | 
 | 2022-11-30 | 97 | 6 | 
 | 2022-11-29 | 97 | 6 | 
 | 2022-11-28 | 97 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 85 | 4 | 
 | 2022-11-03 | 83 | 5 | 
 | 2022-11-02 | 81 | 5 | 
-| 2022-11-01 | 80 | 5 | 
 

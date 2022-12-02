@@ -1,8 +1,8 @@
 # facebookincubator/dns - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 9
+☋ Forks: 10
 
 ★ Stars: 68
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 68 | 10 | 
 | 2022-11-30 | 68 | 9 | 
 | 2022-11-29 | 68 | 9 | 
 | 2022-11-28 | 68 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 52 | 6 | 
 | 2022-11-03 | 47 | 6 | 
 | 2022-11-02 | 45 | 5 | 
-| 2022-11-01 | 41 | 5 | 
 

@@ -1,6 +1,6 @@
 # christophercalm/if-im-gone - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 127
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 973 | 127 | 
 | 2022-12-01 | 973 | 127 | 
 | 2022-11-30 | 973 | 127 | 
 | 2022-11-29 | 973 | 127 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-04 | 970 | 128 | 
 | 2022-11-03 | 970 | 127 | 
 | 2022-11-02 | 970 | 127 | 
-| 2022-11-01 | 970 | 127 | 
 

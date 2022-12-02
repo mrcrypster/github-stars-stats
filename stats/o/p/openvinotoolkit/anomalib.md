@@ -1,8 +1,8 @@
 # openvinotoolkit/anomalib - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 243
+☋ Forks: 242
 
 ★ Stars: 1438
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 1438 | 242 | 
 | 2022-11-30 | 1438 | 243 | 
 | 2022-11-29 | 1435 | 242 | 
 | 2022-11-28 | 1433 | 240 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 1376 | 222 | 
 | 2022-11-03 | 1371 | 221 | 
 | 2022-11-02 | 1370 | 220 | 
-| 2022-11-01 | 1368 | 220 | 
 

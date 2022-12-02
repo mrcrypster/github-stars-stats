@@ -1,10 +1,10 @@
 # cbpowell/MarqueeLabel - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 532
 
-★ Stars: 3930
+★ Stars: 3931
 
 [Open repository](https://github.com/cbpowell/MarqueeLabel)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 3931 | 532 | 
 | 2022-11-30 | 3930 | 532 | 
 | 2022-11-29 | 3930 | 532 | 
 | 2022-11-28 | 3929 | 532 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 3910 | 531 | 
 | 2022-11-03 | 3909 | 531 | 
 | 2022-11-02 | 3909 | 531 | 
-| 2022-11-01 | 3908 | 530 | 
 

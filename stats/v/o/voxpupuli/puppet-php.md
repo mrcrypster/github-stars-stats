@@ -1,6 +1,6 @@
 # voxpupuli/puppet-php - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 259
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 85 | 259 | 
 | 2022-11-30 | 85 | 259 | 
 | 2022-11-29 | 85 | 259 | 
 | 2022-11-28 | 85 | 259 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-05 | 85 | 260 | 
 | 2022-11-04 | 85 | 260 | 
 | 2022-11-03 | 85 | 260 | 
-| 2022-11-02 | 85 | 260 | 
 

@@ -1,10 +1,10 @@
 # haoict/tiktok-god - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 52
+☋ Forks: 53
 
-★ Stars: 220
+★ Stars: 221
 
 [Open repository](https://github.com/haoict/tiktok-god)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 221 | 53 | 
 | 2022-11-30 | 220 | 52 | 
 | 2022-11-29 | 220 | 52 | 
 | 2022-11-28 | 220 | 52 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 216 | 52 | 
 | 2022-11-03 | 215 | 51 | 
 | 2022-11-02 | 215 | 51 | 
-| 2022-11-01 | 214 | 51 | 
 

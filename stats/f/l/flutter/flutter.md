@@ -1,10 +1,10 @@
 # flutter/flutter - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 23875
+☋ Forks: 23884
 
-★ Stars: 146796
+★ Stars: 146812
 
 [Open repository](https://github.com/flutter/flutter)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 146812 | 23884 | 
 | 2022-11-30 | 146796 | 23875 | 
 | 2022-11-29 | 146774 | 23864 | 
 | 2022-11-28 | 146756 | 23855 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 146233 | 23665 | 
 | 2022-11-03 | 146209 | 23656 | 
 | 2022-11-02 | 146181 | 23645 | 
-| 2022-11-01 | 146158 | 23630 | 
 

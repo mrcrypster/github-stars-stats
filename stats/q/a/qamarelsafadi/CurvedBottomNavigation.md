@@ -1,6 +1,6 @@
 # qamarelsafadi/CurvedBottomNavigation - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 90 | 7 | 
 | 2022-11-30 | 90 | 7 | 
 | 2022-11-29 | 90 | 7 | 
 | 2022-11-28 | 90 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 88 | 7 | 
 | 2022-11-03 | 88 | 7 | 
 | 2022-11-02 | 88 | 7 | 
-| 2022-11-01 | 88 | 7 | 
 

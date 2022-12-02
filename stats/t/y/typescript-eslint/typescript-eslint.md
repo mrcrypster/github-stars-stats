@@ -1,10 +1,10 @@
 # typescript-eslint/typescript-eslint - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 2386
 
-★ Stars: 12573
+★ Stars: 12576
 
 [Open repository](https://github.com/typescript-eslint/typescript-eslint)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 12576 | 2386 | 
 | 2022-11-30 | 12573 | 2386 | 
 | 2022-11-29 | 12562 | 2387 | 
 | 2022-11-28 | 12553 | 2383 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 12433 | 2355 | 
 | 2022-11-03 | 12431 | 2357 | 
 | 2022-11-02 | 12429 | 2356 | 
-| 2022-11-01 | 12425 | 2355 | 
 

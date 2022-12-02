@@ -1,10 +1,10 @@
 # fastai/numerical-linear-algebra - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 2319
 
-★ Stars: 8887
+★ Stars: 8889
 
 [Open repository](https://github.com/fastai/numerical-linear-algebra)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 8889 | 2319 | 
 | 2022-11-30 | 8887 | 2319 | 
 | 2022-11-29 | 8885 | 2317 | 
 | 2022-11-28 | 8882 | 2317 | 

@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 01
 
 ☋ Forks: 524
 
-★ Stars: 1529
+★ Stars: 1530
 
 [Open repository](https://github.com/theniceboy/nvim)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-01 | 1529 | 524 | 
+| 2022-12-01 | 1530 | 524 | 
 | 2022-11-30 | 1529 | 524 | 
 | 2022-11-29 | 1527 | 524 | 
 | 2022-11-28 | 1524 | 525 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-04 | 1499 | 517 | 
 | 2022-11-03 | 1498 | 517 | 
 | 2022-11-02 | 1497 | 516 | 
-| 2022-11-01 | 1495 | 515 | 
 

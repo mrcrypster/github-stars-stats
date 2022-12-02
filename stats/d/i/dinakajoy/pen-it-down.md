@@ -1,6 +1,6 @@
 # dinakajoy/pen-it-down - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 15 | 1 | 
 | 2022-11-30 | 15 | 1 | 
 | 2022-11-29 | 15 | 1 | 
 | 2022-11-28 | 15 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-05 | 14 | 1 | 
 | 2022-11-04 | 14 | 1 | 
 | 2022-11-03 | 14 | 1 | 
-| 2022-11-02 | 14 | 1 | 
 

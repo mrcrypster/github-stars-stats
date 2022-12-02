@@ -1,10 +1,10 @@
 # lifinance/create3-factory - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 0
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/lifinance/create3-factory)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 30 | - | 
 | 2022-11-30 | 29 | - | 
 | 2022-11-29 | 29 | - | 
 | 2022-11-28 | 29 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 28 | - | 
 | 2022-11-03 | 28 | - | 
 | 2022-11-02 | 28 | - | 
-| 2022-11-01 | 28 | - | 
 

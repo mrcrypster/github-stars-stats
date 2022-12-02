@@ -1,6 +1,6 @@
 # thomasleplus/ADO - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 5 | 3 | 
 | 2022-11-30 | 5 | 3 | 
 | 2022-11-29 | 5 | 3 | 
 | 2022-11-28 | 5 | 3 | 

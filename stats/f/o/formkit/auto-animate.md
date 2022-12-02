@@ -1,10 +1,10 @@
 # formkit/auto-animate - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 104
 
-★ Stars: 6229
+★ Stars: 6234
 
 [Open repository](https://github.com/formkit/auto-animate)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 6234 | 104 | 
 | 2022-11-30 | 6229 | 104 | 
 | 2022-11-29 | 6219 | 104 | 
 | 2022-11-28 | 6205 | 104 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 6052 | 103 | 
 | 2022-11-03 | 6049 | 103 | 
 | 2022-11-02 | 6046 | 102 | 
-| 2022-11-01 | 6044 | 102 | 
 

@@ -1,6 +1,6 @@
 # flashbots/simple-arbitrage - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 583
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 1469 | 583 | 
 | 2022-11-30 | 1469 | 583 | 
 | 2022-11-29 | 1467 | 583 | 
 | 2022-11-28 | 1466 | 581 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-05 | 1437 | 568 | 
 | 2022-11-04 | 1436 | 567 | 
 | 2022-11-03 | 1435 | 567 | 
-| 2022-11-02 | 1433 | 565 | 
 

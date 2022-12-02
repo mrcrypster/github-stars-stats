@@ -1,10 +1,10 @@
 # ndmitchell/hlint - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 174
 
-★ Stars: 1321
+★ Stars: 1322
 
 [Open repository](https://github.com/ndmitchell/hlint)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 1322 | 174 | 
 | 2022-11-30 | 1321 | 174 | 
 | 2022-11-29 | 1320 | 174 | 
 | 2022-11-28 | 1320 | 174 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 1318 | 174 | 
 | 2022-11-03 | 1319 | 174 | 
 | 2022-11-02 | 1318 | 174 | 
-| 2022-11-01 | 1316 | 174 | 
 

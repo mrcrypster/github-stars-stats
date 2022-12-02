@@ -1,10 +1,10 @@
 # revanced/revanced-cli - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 71
 
-★ Stars: 305
+★ Stars: 306
 
 [Open repository](https://github.com/revanced/revanced-cli)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 306 | 71 | 
 | 2022-11-30 | 305 | 71 | 
 | 2022-11-29 | 305 | 71 | 
 | 2022-11-28 | 306 | 71 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 289 | 69 | 
 | 2022-11-03 | 289 | 69 | 
 | 2022-11-02 | 288 | 69 | 
-| 2022-11-01 | 286 | 68 | 
 

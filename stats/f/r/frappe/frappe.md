@@ -1,10 +1,10 @@
 # frappe/frappe - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 2288
+☋ Forks: 2290
 
-★ Stars: 4259
+★ Stars: 4262
 
 [Open repository](https://github.com/frappe/frappe)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 4262 | 2290 | 
 | 2022-11-30 | 4259 | 2288 | 
 | 2022-11-29 | 4253 | 2286 | 
 | 2022-11-28 | 4251 | 2284 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 4185 | 2254 | 
 | 2022-11-03 | 4184 | 2252 | 
 | 2022-11-02 | 4182 | 2252 | 
-| 2022-11-01 | 4181 | 2252 | 
 

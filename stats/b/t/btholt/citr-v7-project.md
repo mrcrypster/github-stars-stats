@@ -1,6 +1,6 @@
 # btholt/citr-v7-project - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 315
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 389 | 315 | 
 | 2022-11-30 | 389 | 315 | 
 | 2022-11-29 | 389 | 314 | 
 | 2022-11-28 | 389 | 314 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 363 | 299 | 
 | 2022-11-03 | 363 | 298 | 
 | 2022-11-02 | 363 | 298 | 
-| 2022-11-01 | 361 | 298 | 
 

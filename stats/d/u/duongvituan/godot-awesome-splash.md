@@ -1,10 +1,10 @@
 # duongvituan/godot-awesome-splash - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 9
 
-★ Stars: 139
+★ Stars: 140
 
 [Open repository](https://github.com/duongvituan/godot-awesome-splash)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 140 | 9 | 
 | 2022-11-30 | 139 | 9 | 
 | 2022-11-29 | 139 | 9 | 
 | 2022-11-28 | 139 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-05 | 137 | 9 | 
 | 2022-11-04 | 137 | 9 | 
 | 2022-11-03 | 137 | 9 | 
-| 2022-11-02 | 137 | 9 | 
 

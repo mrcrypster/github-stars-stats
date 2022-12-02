@@ -1,6 +1,6 @@
 # mattermost/mattermost-helm - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 129
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 145 | 129 | 
 | 2022-11-30 | 145 | 129 | 
 | 2022-11-29 | 145 | 129 | 
 | 2022-11-28 | 145 | 129 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 143 | 123 | 
 | 2022-11-03 | 143 | 122 | 
 | 2022-11-02 | 143 | 122 | 
-| 2022-11-01 | 143 | 122 | 
 

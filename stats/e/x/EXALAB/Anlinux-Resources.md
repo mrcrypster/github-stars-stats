@@ -1,6 +1,6 @@
 # EXALAB/Anlinux-Resources - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 521
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 548 | 521 | 
 | 2022-11-30 | 548 | 521 | 
 | 2022-11-29 | 548 | 521 | 
 | 2022-11-28 | 547 | 521 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 533 | 516 | 
 | 2022-11-03 | 533 | 515 | 
 | 2022-11-02 | 531 | 514 | 
-| 2022-11-01 | 531 | 514 | 
 

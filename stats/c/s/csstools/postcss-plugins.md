@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 01
 
-☋ Forks: 43
+☋ Forks: 42
 
-★ Stars: 435
+★ Stars: 438
 
 [Open repository](https://github.com/csstools/postcss-plugins)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-01 | 435 | 43 | 
+| 2022-12-01 | 438 | 42 | 
 | 2022-11-30 | 435 | 43 | 
 | 2022-11-29 | 434 | 42 | 
 | 2022-11-28 | 434 | 42 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-04 | 404 | 38 | 
 | 2022-11-03 | 403 | 38 | 
 | 2022-11-02 | 401 | 38 | 
-| 2022-11-01 | 395 | 37 | 
 

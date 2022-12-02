@@ -1,10 +1,10 @@
 # nojaf/telplin - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 2
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/nojaf/telplin)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 14 | 2 | 
 | 2022-11-30 | 13 | 2 | 
 | 2022-11-29 | 13 | 2 | 
 | 2022-11-28 | 13 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 13 | 2 | 
 | 2022-11-03 | 13 | 2 | 
 | 2022-11-02 | 13 | 2 | 
-| 2022-11-01 | 13 | 2 | 
 

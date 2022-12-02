@@ -1,6 +1,6 @@
 # rezaaa/biainobokhor - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 20 | - | 
 | 2022-11-30 | 20 | - | 
 | 2022-11-29 | 20 | - | 
 | 2022-11-28 | 20 | - | 

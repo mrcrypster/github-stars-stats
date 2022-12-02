@@ -1,10 +1,10 @@
 # Veridise/circom-coq - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 1
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/Veridise/circom-coq)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 18 | 1 | 
 | 2022-11-30 | 17 | 1 | 
 | 2022-11-29 | 17 | 1 | 
 | 2022-11-28 | 17 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 16 | 1 | 
 | 2022-11-03 | 16 | 1 | 
 | 2022-11-02 | 16 | 1 | 
-| 2022-11-01 | 16 | 1 | 
 

@@ -1,10 +1,10 @@
 # InterviewReady/system-design-resources - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 1027
 
-★ Stars: 9288
+★ Stars: 9293
 
 [Open repository](https://github.com/InterviewReady/system-design-resources)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 9293 | 1027 | 
 | 2022-11-30 | 9288 | 1027 | 
 | 2022-11-29 | 9282 | 1027 | 
 | 2022-11-28 | 9280 | 1027 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 9193 | 1015 | 
 | 2022-11-03 | 9188 | 1015 | 
 | 2022-11-02 | 9187 | 1014 | 
-| 2022-11-01 | 9184 | 1015 | 
 

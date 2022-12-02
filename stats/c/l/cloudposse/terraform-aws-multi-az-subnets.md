@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-multi-az-subnets - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 69
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 87 | 69 | 
 | 2022-11-30 | 87 | 69 | 
 | 2022-11-29 | 87 | 69 | 
 | 2022-11-28 | 87 | 69 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 86 | 68 | 
 | 2022-11-03 | 86 | 68 | 
 | 2022-11-02 | 86 | 68 | 
-| 2022-11-01 | 86 | 68 | 
 

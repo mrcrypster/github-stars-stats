@@ -1,6 +1,6 @@
 # mitchelloharawild/vitae - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 190
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 954 | 190 | 
 | 2022-11-30 | 954 | 190 | 
 | 2022-11-29 | 953 | 190 | 
 | 2022-11-28 | 952 | 190 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 934 | 191 | 
 | 2022-11-03 | 932 | 191 | 
 | 2022-11-02 | 931 | 191 | 
-| 2022-11-01 | 931 | 190 | 
 

@@ -1,6 +1,6 @@
 # docker-library/httpd - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 341
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 260 | 341 | 
 | 2022-11-30 | 260 | 341 | 
 | 2022-11-29 | 260 | 341 | 
 | 2022-11-28 | 260 | 341 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 259 | 339 | 
 | 2022-11-03 | 259 | 339 | 
 | 2022-11-02 | 259 | 335 | 
-| 2022-11-01 | 259 | 335 | 
 

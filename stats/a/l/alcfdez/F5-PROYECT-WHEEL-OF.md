@@ -1,8 +1,8 @@
 # alcfdez/F5-PROYECT-WHEEL-OF - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 5
+☋ Forks: 4
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | - | 4 | 
 | 2022-11-30 | - | 5 | 
 | 2022-11-29 | - | 5 | 
 

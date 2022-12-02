@@ -1,8 +1,8 @@
 # ipeaGIT/accessibility - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 3
+☋ Forks: 4
 
 ★ Stars: 32
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 32 | 4 | 
 | 2022-11-30 | 32 | 3 | 
 | 2022-11-29 | 32 | 3 | 
 | 2022-11-28 | 32 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 31 | 3 | 
 | 2022-11-03 | 31 | 3 | 
 | 2022-11-02 | 31 | 3 | 
-| 2022-11-01 | 31 | 3 | 
 

@@ -1,10 +1,10 @@
 # OpenVPN/openvpn - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 2568
+☋ Forks: 2569
 
-★ Stars: 7824
+★ Stars: 7827
 
 [Open repository](https://github.com/OpenVPN/openvpn)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 7827 | 2569 | 
 | 2022-11-30 | 7824 | 2568 | 
 | 2022-11-29 | 7821 | 2568 | 
 | 2022-11-28 | 7817 | 2566 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 7718 | 2552 | 
 | 2022-11-03 | 7711 | 2554 | 
 | 2022-11-02 | 7705 | 2554 | 
-| 2022-11-01 | 7698 | 2550 | 
 

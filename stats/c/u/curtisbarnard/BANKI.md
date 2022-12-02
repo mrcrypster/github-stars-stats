@@ -1,10 +1,10 @@
 # curtisbarnard/BANKI - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 233
 
-★ Stars: 422
+★ Stars: 423
 
 [Open repository](https://github.com/curtisbarnard/BANKI)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 423 | 233 | 
 | 2022-11-30 | 422 | 233 | 
 | 2022-11-29 | 420 | 231 | 
 | 2022-11-28 | 418 | 232 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 378 | 218 | 
 | 2022-11-03 | 372 | 216 | 
 | 2022-11-02 | 372 | 218 | 
-| 2022-11-01 | 370 | 218 | 
 

@@ -1,10 +1,10 @@
 # ucb-bar/dsptools - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 32
 
-★ Stars: 174
+★ Stars: 175
 
 [Open repository](https://github.com/ucb-bar/dsptools)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 175 | 32 | 
 | 2022-11-30 | 174 | 32 | 
 | 2022-11-29 | 174 | 32 | 
 | 2022-11-28 | 174 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 172 | 33 | 
 | 2022-11-03 | 172 | 33 | 
 | 2022-11-02 | 172 | 33 | 
-| 2022-11-01 | 172 | 33 | 
 

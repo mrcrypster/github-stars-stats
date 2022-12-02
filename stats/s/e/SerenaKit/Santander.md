@@ -1,6 +1,6 @@
 # SerenaKit/Santander - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 161 | 27 | 
 | 2022-11-30 | 161 | 27 | 
 | 2022-11-29 | 162 | 27 | 
 | 2022-11-28 | 161 | 27 | 

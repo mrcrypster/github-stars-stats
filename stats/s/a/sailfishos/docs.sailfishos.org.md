@@ -1,10 +1,10 @@
 # sailfishos/docs.sailfishos.org - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 20
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/sailfishos/docs.sailfishos.org)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 12 | 20 | 
 | 2022-11-30 | 11 | 20 | 
 | 2022-11-29 | 11 | 20 | 
 | 2022-11-28 | 10 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 10 | 20 | 
 | 2022-11-03 | 10 | 20 | 
 | 2022-11-02 | 9 | 20 | 
-| 2022-11-01 | 9 | 20 | 
 

@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 01
 
 ☋ Forks: 365
 
-★ Stars: 936
+★ Stars: 939
 
 [Open repository](https://github.com/DavBfr/dart_pdf)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-01 | 936 | 365 | 
+| 2022-12-01 | 939 | 365 | 
 | 2022-11-30 | 935 | 365 | 
 | 2022-11-29 | 932 | 361 | 
 | 2022-11-28 | 931 | 362 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-04 | 920 | 354 | 
 | 2022-11-03 | 919 | 354 | 
 | 2022-11-02 | 916 | 353 | 
-| 2022-11-01 | 916 | 353 | 
 

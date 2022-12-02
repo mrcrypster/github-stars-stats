@@ -1,6 +1,6 @@
 # pwnall/wenlin_db_scanner - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 11 | 5 | 
 | 2022-11-30 | 11 | 5 | 
 | 2022-11-29 | 11 | 5 | 
 | 2022-11-27 | 11 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 10 | 5 | 
 | 2022-11-03 | 10 | 5 | 
 | 2022-11-02 | 10 | 5 | 
-| 2022-11-01 | 10 | 5 | 
 

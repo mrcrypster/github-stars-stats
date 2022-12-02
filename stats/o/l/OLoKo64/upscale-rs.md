@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 01
 
 ☋ Forks: 1
 
-★ Stars: 48
+★ Stars: 50
 
 [Open repository](https://github.com/OLoKo64/upscale-rs)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-01 | 48 | 1 | 
+| 2022-12-01 | 50 | 1 | 
 | 2022-11-30 | 47 | 1 | 
 

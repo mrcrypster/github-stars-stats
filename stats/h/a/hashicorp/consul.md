@@ -1,10 +1,10 @@
 # hashicorp/consul - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 4201
 
-★ Stars: 25721
+★ Stars: 25726
 
 [Open repository](https://github.com/hashicorp/consul)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 25726 | 4201 | 
 | 2022-11-30 | 25721 | 4201 | 
 | 2022-11-29 | 25711 | 4200 | 
 | 2022-11-28 | 25706 | 4198 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 25611 | 4184 | 
 | 2022-11-03 | 25608 | 4184 | 
 | 2022-11-02 | 25604 | 4180 | 
-| 2022-11-01 | 25596 | 4176 | 
 

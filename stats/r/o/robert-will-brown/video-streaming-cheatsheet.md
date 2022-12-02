@@ -1,10 +1,10 @@
 # robert-will-brown/video-streaming-cheatsheet - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 1
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/robert-will-brown/video-streaming-cheatsheet)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 20 | 1 | 
 | 2022-11-30 | 19 | 1 | 
 | 2022-11-29 | 18 | - | 
 | 2022-11-28 | 18 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 18 | - | 
 | 2022-11-03 | 18 | - | 
 | 2022-11-02 | 18 | - | 
-| 2022-11-01 | 18 | - | 
 

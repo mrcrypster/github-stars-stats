@@ -1,6 +1,6 @@
 # qiskit-community/ibm-quantum-spring-challenge-2022 - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 90 | 57 | 
 | 2022-11-30 | 90 | 57 | 
 | 2022-11-29 | 90 | 57 | 
 | 2022-11-28 | 89 | 57 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 86 | 56 | 
 | 2022-11-03 | 86 | 56 | 
 | 2022-11-02 | 86 | 56 | 
-| 2022-11-01 | 86 | 56 | 
 

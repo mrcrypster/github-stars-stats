@@ -1,10 +1,10 @@
 # tw93/Pake - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 142
 
-★ Stars: 2689
+★ Stars: 2695
 
 [Open repository](https://github.com/tw93/Pake)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 2695 | 142 | 
 | 2022-11-30 | 2689 | 142 | 
 | 2022-11-29 | 2679 | 142 | 
 | 2022-11-28 | 2671 | 142 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 1901 | 86 | 
 | 2022-11-03 | 1868 | 84 | 
 | 2022-11-02 | 1858 | 84 | 
-| 2022-11-01 | 1851 | 84 | 
 

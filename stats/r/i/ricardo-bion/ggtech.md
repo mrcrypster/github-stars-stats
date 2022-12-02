@@ -1,10 +1,10 @@
 # ricardo-bion/ggtech - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 57
 
-★ Stars: 339
+★ Stars: 340
 
 [Open repository](https://github.com/ricardo-bion/ggtech)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 340 | 57 | 
 | 2022-11-30 | 339 | 57 | 
 | 2022-11-29 | 339 | 57 | 
 | 2022-11-28 | 338 | 57 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-05 | 332 | 57 | 
 | 2022-11-04 | 331 | 57 | 
 | 2022-11-03 | 331 | 57 | 
-| 2022-11-02 | 331 | 57 | 
 

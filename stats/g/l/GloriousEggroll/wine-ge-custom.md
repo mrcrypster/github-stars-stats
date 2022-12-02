@@ -1,10 +1,10 @@
 # GloriousEggroll/wine-ge-custom - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 27
+☋ Forks: 28
 
-★ Stars: 1127
+★ Stars: 1129
 
 [Open repository](https://github.com/GloriousEggroll/wine-ge-custom)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 1129 | 28 | 
 | 2022-11-30 | 1127 | 27 | 
 | 2022-11-29 | 1124 | 27 | 
 | 2022-11-28 | 1122 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 1080 | 28 | 
 | 2022-11-03 | 1081 | 28 | 
 | 2022-11-02 | 1082 | 28 | 
-| 2022-11-01 | 1071 | 28 | 
 

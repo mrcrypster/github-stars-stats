@@ -1,8 +1,8 @@
 # joy-framework/joy - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 25
+☋ Forks: 24
 
 ★ Stars: 461
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 461 | 24 | 
 | 2022-11-30 | 461 | 25 | 
 | 2022-11-29 | 461 | 25 | 
 | 2022-11-28 | 460 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 459 | 25 | 
 | 2022-11-03 | 459 | 25 | 
 | 2022-11-02 | 459 | 25 | 
-| 2022-11-01 | 459 | 25 | 
 

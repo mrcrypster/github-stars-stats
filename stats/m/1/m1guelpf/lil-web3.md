@@ -1,6 +1,6 @@
 # m1guelpf/lil-web3 - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 94
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 1084 | 94 | 
 | 2022-12-01 | 1084 | 94 | 
 | 2022-11-30 | 1083 | 93 | 
 | 2022-11-29 | 1083 | 93 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-04 | 1077 | 93 | 
 | 2022-11-03 | 1077 | 93 | 
 | 2022-11-02 | 1077 | 93 | 
-| 2022-11-01 | 1076 | 93 | 
 

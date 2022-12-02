@@ -1,6 +1,6 @@
 # vernemq/vernemq - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 358
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 2909 | 358 | 
 | 2022-11-30 | 2909 | 358 | 
 | 2022-11-29 | 2907 | 358 | 
 | 2022-11-28 | 2905 | 358 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 2895 | 351 | 
 | 2022-11-03 | 2895 | 351 | 
 | 2022-11-02 | 2896 | 351 | 
-| 2022-11-01 | 2896 | 351 | 
 

@@ -1,10 +1,10 @@
 # golang-jwt/jwt - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 217
 
-★ Stars: 3715
+★ Stars: 3716
 
 [Open repository](https://github.com/golang-jwt/jwt)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 3716 | 217 | 
 | 2022-11-30 | 3715 | 217 | 
 | 2022-11-29 | 3712 | 217 | 
 | 2022-11-28 | 3706 | 217 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 3587 | 211 | 
 | 2022-11-03 | 3580 | 210 | 
 | 2022-11-02 | 3572 | 210 | 
-| 2022-11-01 | 3562 | 209 | 
 

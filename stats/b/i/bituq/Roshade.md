@@ -1,10 +1,10 @@
 # bituq/Roshade - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 15
 
-★ Stars: 29
+★ Stars: 28
 
 [Open repository](https://github.com/bituq/Roshade)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 28 | 15 | 
 | 2022-11-30 | 29 | 15 | 
 | 2022-11-29 | 29 | 15 | 
 | 2022-11-28 | 29 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 28 | 13 | 
 | 2022-11-03 | 28 | 13 | 
 | 2022-11-02 | 28 | 13 | 
-| 2022-11-01 | 28 | 13 | 
 

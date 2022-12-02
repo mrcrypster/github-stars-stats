@@ -1,6 +1,6 @@
 # JulienMalka/Linkal - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 85 | 4 | 
 | 2022-11-30 | 85 | 4 | 
 | 2022-11-29 | 85 | 4 | 
 | 2022-11-28 | 85 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 84 | 4 | 
 | 2022-11-03 | 84 | 4 | 
 | 2022-11-02 | 84 | 4 | 
-| 2022-11-01 | 84 | 4 | 
 

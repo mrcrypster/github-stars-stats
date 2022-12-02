@@ -1,10 +1,10 @@
 # cisagov/cybersecurity-performance-goals - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 2
 
-★ Stars: 43
+★ Stars: 44
 
 [Open repository](https://github.com/cisagov/cybersecurity-performance-goals)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 44 | 2 | 
 | 2022-11-30 | 43 | 2 | 
 | 2022-11-29 | 43 | 2 | 
 | 2022-11-28 | 43 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 37 | 2 | 
 | 2022-11-03 | 36 | 2 | 
 | 2022-11-02 | 35 | 2 | 
-| 2022-11-01 | 31 | 2 | 
 

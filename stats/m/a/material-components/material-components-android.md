@@ -1,8 +1,8 @@
 # material-components/material-components-android - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 2852
+☋ Forks: 2854
 
 ★ Stars: 14241
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 14241 | 2854 | 
 | 2022-11-30 | 14241 | 2852 | 
 | 2022-11-29 | 14241 | 2851 | 
 | 2022-11-28 | 14238 | 2850 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 14109 | 2824 | 
 | 2022-11-03 | 14107 | 2821 | 
 | 2022-11-02 | 14102 | 2820 | 
-| 2022-11-01 | 14091 | 2819 | 
 

@@ -1,6 +1,6 @@
 # UNN-IASR/mod-lab08-shop - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | - | 28 | 
 | 2022-11-30 | - | 28 | 
 | 2022-11-29 | - | 28 | 
 | 2022-11-28 | - | 28 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | - | 28 | 
 | 2022-11-03 | - | 28 | 
 | 2022-11-02 | - | 28 | 
-| 2022-11-01 | - | 28 | 
 

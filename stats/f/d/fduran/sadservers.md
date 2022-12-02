@@ -1,10 +1,10 @@
 # fduran/sadservers - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 9
 
-★ Stars: 602
+★ Stars: 605
 
 [Open repository](https://github.com/fduran/sadservers)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 605 | 9 | 
 | 2022-11-30 | 602 | 9 | 
 | 2022-11-29 | 598 | 8 | 
 | 2022-11-28 | 592 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 390 | 3 | 
 | 2022-11-03 | 371 | 2 | 
 | 2022-11-02 | 350 | 2 | 
-| 2022-11-01 | 330 | 2 | 
 

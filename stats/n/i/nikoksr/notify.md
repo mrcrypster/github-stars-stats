@@ -1,10 +1,10 @@
 # nikoksr/notify - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 134
+☋ Forks: 135
 
-★ Stars: 1924
+★ Stars: 1929
 
 [Open repository](https://github.com/nikoksr/notify)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 1929 | 135 | 
 | 2022-11-30 | 1924 | 134 | 
 | 2022-11-29 | 1917 | 131 | 
 | 2022-11-28 | 1909 | 132 | 

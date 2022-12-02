@@ -1,8 +1,8 @@
 # cosmos/chain-registry - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
-☋ Forks: 410
+☋ Forks: 411
 
 ★ Stars: 266
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 266 | 411 | 
 | 2022-12-01 | 266 | 410 | 
 | 2022-11-30 | 265 | 410 | 
 | 2022-11-28 | 265 | 410 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-04 | 249 | 371 | 
 | 2022-11-03 | 248 | 371 | 
 | 2022-11-02 | 248 | 370 | 
-| 2022-11-01 | 245 | 365 | 
 

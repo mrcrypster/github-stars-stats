@@ -1,8 +1,8 @@
 # root-project/root - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 1091
+☋ Forks: 1092
 
 ★ Stars: 1983
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 1983 | 1092 | 
 | 2022-11-30 | 1983 | 1091 | 
 | 2022-11-29 | 1982 | 1091 | 
 | 2022-11-28 | 1981 | 1090 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 1955 | 1086 | 
 | 2022-11-03 | 1949 | 1085 | 
 | 2022-11-02 | 1944 | 1085 | 
-| 2022-11-01 | 1943 | 1083 | 
 

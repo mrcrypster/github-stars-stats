@@ -1,6 +1,6 @@
 # logseq/bb-tasks - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 12 | - | 
 | 2022-11-30 | 12 | - | 
 | 2022-11-29 | 12 | - | 
 | 2022-11-28 | 11 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 11 | - | 
 | 2022-11-03 | 11 | - | 
 | 2022-11-02 | 11 | - | 
-| 2022-11-01 | 11 | - | 
 

@@ -1,10 +1,10 @@
 # microsoft/tsyringe - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 129
 
-★ Stars: 3685
+★ Stars: 3689
 
 [Open repository](https://github.com/microsoft/tsyringe)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 3689 | 129 | 
 | 2022-11-30 | 3685 | 129 | 
 | 2022-11-29 | 3685 | 129 | 
 | 2022-11-28 | 3682 | 129 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 3615 | 127 | 
 | 2022-11-03 | 3614 | 127 | 
 | 2022-11-02 | 3608 | 126 | 
-| 2022-11-01 | 3608 | 126 | 
 

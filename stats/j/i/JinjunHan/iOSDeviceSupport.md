@@ -1,6 +1,6 @@
 # JinjunHan/iOSDeviceSupport - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 145
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 874 | 145 | 
 | 2022-11-30 | 874 | 145 | 
 | 2022-11-29 | 873 | 145 | 
 | 2022-11-28 | 873 | 145 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 852 | 139 | 
 | 2022-11-03 | 851 | 138 | 
 | 2022-11-02 | 851 | 138 | 
-| 2022-11-01 | 851 | 138 | 
 

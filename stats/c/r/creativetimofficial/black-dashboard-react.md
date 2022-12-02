@@ -1,8 +1,8 @@
 # creativetimofficial/black-dashboard-react - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 277
+☋ Forks: 281
 
 ★ Stars: 396
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 396 | 281 | 
 | 2022-11-30 | 396 | 277 | 
 | 2022-11-29 | 396 | 277 | 
 | 2022-11-28 | 396 | 276 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 393 | 252 | 
 | 2022-11-03 | 393 | 250 | 
 | 2022-11-02 | 393 | 250 | 
-| 2022-11-01 | 393 | 251 | 
 

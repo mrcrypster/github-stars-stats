@@ -1,10 +1,10 @@
 # MicrosoftDocs/VBA-Docs - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 412
+☋ Forks: 413
 
-★ Stars: 309
+★ Stars: 310
 
 [Open repository](https://github.com/MicrosoftDocs/VBA-Docs)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 310 | 413 | 
 | 2022-11-30 | 309 | 412 | 
 | 2022-11-29 | 308 | 412 | 
 | 2022-11-28 | 307 | 411 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 306 | 410 | 
 | 2022-11-03 | 306 | 410 | 
 | 2022-11-02 | 306 | 410 | 
-| 2022-11-01 | 306 | 410 | 
 

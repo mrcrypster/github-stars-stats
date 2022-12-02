@@ -1,10 +1,10 @@
 # 1998code/iOS16-Live-Activities - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 19
+☋ Forks: 20
 
-★ Stars: 231
+★ Stars: 234
 
 [Open repository](https://github.com/1998code/iOS16-Live-Activities)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 234 | 20 | 
 | 2022-11-30 | 231 | 19 | 
 | 2022-11-29 | 231 | 19 | 
 | 2022-11-28 | 230 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 202 | 16 | 
 | 2022-11-03 | 200 | 16 | 
 | 2022-11-02 | 199 | 16 | 
-| 2022-11-01 | 199 | 16 | 
 

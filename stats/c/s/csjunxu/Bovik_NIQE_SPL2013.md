@@ -1,6 +1,6 @@
 # csjunxu/Bovik_NIQE_SPL2013 - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 41 | 10 | 
 | 2022-11-30 | 41 | 10 | 
 | 2022-11-29 | 41 | 10 | 
 | 2022-11-28 | 41 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 40 | 9 | 
 | 2022-11-03 | 40 | 9 | 
 | 2022-11-02 | 40 | 9 | 
-| 2022-11-01 | 40 | 9 | 
 

@@ -1,10 +1,10 @@
 # CombineCommunity/CombineCocoa - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 90
 
-★ Stars: 1321
+★ Stars: 1322
 
 [Open repository](https://github.com/CombineCommunity/CombineCocoa)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 1322 | 90 | 
 | 2022-11-30 | 1321 | 90 | 
 | 2022-11-29 | 1319 | 90 | 
 | 2022-11-28 | 1316 | 90 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 1303 | 91 | 
 | 2022-11-03 | 1301 | 90 | 
 | 2022-11-02 | 1300 | 90 | 
-| 2022-11-01 | 1299 | 90 | 
 

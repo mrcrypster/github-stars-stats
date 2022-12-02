@@ -1,10 +1,10 @@
 # alex-shpak/hugo-book - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 868
+☋ Forks: 869
 
-★ Stars: 2106
+★ Stars: 2107
 
 [Open repository](https://github.com/alex-shpak/hugo-book)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 2107 | 869 | 
 | 2022-11-30 | 2106 | 868 | 
 | 2022-11-29 | 2104 | 867 | 
 | 2022-11-28 | 2104 | 865 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 2067 | 856 | 
 | 2022-11-03 | 2064 | 856 | 
 | 2022-11-02 | 2061 | 855 | 
-| 2022-11-01 | 2056 | 853 | 
 

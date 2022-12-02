@@ -1,10 +1,10 @@
 # sytone/obsidian-remote - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 30
 
-★ Stars: 214
+★ Stars: 215
 
 [Open repository](https://github.com/sytone/obsidian-remote)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 215 | 30 | 
 | 2022-11-30 | 214 | 30 | 
 | 2022-11-29 | 212 | 30 | 
 | 2022-11-28 | 210 | 30 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 187 | 28 | 
 | 2022-11-03 | 186 | 28 | 
 | 2022-11-02 | 186 | 28 | 
-| 2022-11-01 | 181 | 28 | 
 

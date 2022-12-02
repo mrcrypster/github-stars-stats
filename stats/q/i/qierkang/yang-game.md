@@ -1,6 +1,6 @@
 # qierkang/yang-game - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 73 | 45 | 
 | 2022-11-30 | 73 | 45 | 
 | 2022-11-29 | 73 | 45 | 
 | 2022-11-28 | 73 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-05 | 68 | 44 | 
 | 2022-11-04 | 68 | 44 | 
 | 2022-11-02 | 68 | 44 | 
-| 2022-11-01 | 68 | 44 | 
 

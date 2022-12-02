@@ -1,10 +1,10 @@
 # teacat/tocas - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 22
 
-★ Stars: 460
+★ Stars: 461
 
 [Open repository](https://github.com/teacat/tocas)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 461 | 22 | 
 | 2022-11-30 | 460 | 22 | 
 | 2022-11-29 | 460 | 22 | 
 | 2022-11-28 | 460 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 461 | 22 | 
 | 2022-11-03 | 461 | 22 | 
 | 2022-11-02 | 460 | 22 | 
-| 2022-11-01 | 459 | 22 | 
 

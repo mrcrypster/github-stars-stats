@@ -1,6 +1,6 @@
 # GeekQiaQia/vue3.0-template-admin - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 286
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 898 | 286 | 
 | 2022-11-30 | 898 | 286 | 
 | 2022-11-29 | 896 | 285 | 
 | 2022-11-28 | 894 | 285 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 878 | 279 | 
 | 2022-11-03 | 877 | 279 | 
 | 2022-11-02 | 874 | 279 | 
-| 2022-11-01 | 873 | 279 | 
 

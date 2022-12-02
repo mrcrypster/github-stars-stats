@@ -1,10 +1,10 @@
 # rrpgfirecast/firecast - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 205
+☋ Forks: 207
 
-★ Stars: 65
+★ Stars: 66
 
 [Open repository](https://github.com/rrpgfirecast/firecast)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 66 | 207 | 
 | 2022-11-30 | 65 | 205 | 
 | 2022-11-29 | 65 | 204 | 
 | 2022-11-28 | 65 | 204 | 

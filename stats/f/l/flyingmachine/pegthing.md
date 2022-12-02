@@ -1,6 +1,6 @@
 # flyingmachine/pegthing - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 58 | 54 | 
 | 2022-11-30 | 58 | 54 | 
 | 2022-11-29 | 57 | 54 | 
 | 2022-11-28 | 57 | 54 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 57 | 53 | 
 | 2022-11-03 | 57 | 53 | 
 | 2022-11-02 | 57 | 53 | 
-| 2022-11-01 | 57 | 53 | 
 

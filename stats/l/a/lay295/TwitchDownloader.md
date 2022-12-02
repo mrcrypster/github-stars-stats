@@ -1,10 +1,10 @@
 # lay295/TwitchDownloader - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 117
+☋ Forks: 119
 
-★ Stars: 1041
+★ Stars: 1045
 
 [Open repository](https://github.com/lay295/TwitchDownloader)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 1045 | 119 | 
 | 2022-11-30 | 1041 | 117 | 
 | 2022-11-29 | 1038 | 117 | 
 | 2022-11-28 | 1035 | 116 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 974 | 114 | 
 | 2022-11-03 | 972 | 114 | 
 | 2022-11-02 | 970 | 114 | 
-| 2022-11-01 | 966 | 114 | 
 

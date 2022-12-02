@@ -1,6 +1,6 @@
 # schoen/unicast-extensions - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 148 | 10 | 
 | 2022-11-30 | 148 | 10 | 
 | 2022-11-29 | 148 | 10 | 
 | 2022-11-28 | 148 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 148 | 9 | 
 | 2022-11-03 | 148 | 9 | 
 | 2022-11-02 | 148 | 9 | 
-| 2022-11-01 | 148 | 9 | 
 

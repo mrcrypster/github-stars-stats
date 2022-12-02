@@ -1,10 +1,10 @@
 # CompositionalIT/farmer - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 142
 
-★ Stars: 480
+★ Stars: 479
 
 [Open repository](https://github.com/CompositionalIT/farmer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 479 | 142 | 
 | 2022-11-30 | 480 | 142 | 
 | 2022-11-29 | 480 | 142 | 
 | 2022-11-28 | 480 | 142 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 479 | 141 | 
 | 2022-11-03 | 479 | 141 | 
 | 2022-11-02 | 478 | 141 | 
-| 2022-11-01 | 477 | 141 | 
 

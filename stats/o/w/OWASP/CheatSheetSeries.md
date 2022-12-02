@@ -1,10 +1,10 @@
 # OWASP/CheatSheetSeries - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 3211
 
-★ Stars: 22295
+★ Stars: 22308
 
 [Open repository](https://github.com/OWASP/CheatSheetSeries)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 22308 | 3211 | 
 | 2022-11-30 | 22295 | 3211 | 
 | 2022-11-29 | 22275 | 3207 | 
 | 2022-11-28 | 22268 | 3206 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 22050 | 3177 | 
 | 2022-11-03 | 22039 | 3172 | 
 | 2022-11-02 | 22027 | 3173 | 
-| 2022-11-01 | 22019 | 3171 | 
 

@@ -1,10 +1,10 @@
 # Anish-Agnihotri/flashside - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 106
+☋ Forks: 107
 
-★ Stars: 540
+★ Stars: 541
 
 [Open repository](https://github.com/Anish-Agnihotri/flashside)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 541 | 107 | 
 | 2022-11-30 | 540 | 106 | 
 | 2022-11-29 | 540 | 106 | 
 | 2022-11-28 | 539 | 106 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 539 | 107 | 
 | 2022-11-03 | 538 | 108 | 
 | 2022-11-02 | 536 | 108 | 
-| 2022-11-01 | 536 | 107 | 
 

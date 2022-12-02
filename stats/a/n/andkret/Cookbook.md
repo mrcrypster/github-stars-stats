@@ -1,10 +1,10 @@
 # andkret/Cookbook - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 2099
+☋ Forks: 2098
 
-★ Stars: 11169
+★ Stars: 11171
 
 [Open repository](https://github.com/andkret/Cookbook)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 11171 | 2098 | 
 | 2022-11-30 | 11169 | 2099 | 
 | 2022-11-29 | 11163 | 2097 | 
 | 2022-11-28 | 11161 | 2099 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 11074 | 2090 | 
 | 2022-11-03 | 11073 | 2090 | 
 | 2022-11-02 | 11067 | 2088 | 
-| 2022-11-01 | 11066 | 2087 | 
 

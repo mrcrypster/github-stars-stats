@@ -1,6 +1,6 @@
 # minicruiser/Apex-Specialist-Superbadge - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 7 | 13 | 
 | 2022-11-30 | 7 | 13 | 
 | 2022-11-29 | 7 | 13 | 
 | 2022-11-28 | 7 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 7 | 13 | 
 | 2022-11-03 | 7 | 13 | 
 | 2022-11-02 | 7 | 13 | 
-| 2022-11-01 | 7 | 13 | 
 

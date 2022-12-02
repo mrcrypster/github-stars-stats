@@ -1,10 +1,10 @@
 # milisims/tree-sitter-org - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 15
 
-★ Stars: 151
+★ Stars: 152
 
 [Open repository](https://github.com/milisims/tree-sitter-org)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 152 | 15 | 
 | 2022-11-30 | 151 | 15 | 
 | 2022-11-29 | 151 | 15 | 
 | 2022-11-28 | 151 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-05 | 148 | 14 | 
 | 2022-11-04 | 148 | 14 | 
 | 2022-11-03 | 148 | 14 | 
-| 2022-11-01 | 148 | 14 | 
 

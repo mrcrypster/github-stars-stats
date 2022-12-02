@@ -1,10 +1,10 @@
 # riverscuomo/new-albums - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 19
 
-★ Stars: 126
+★ Stars: 127
 
 [Open repository](https://github.com/riverscuomo/new-albums)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 127 | 19 | 
 | 2022-11-30 | 126 | 19 | 
 | 2022-11-29 | 123 | 19 | 
 | 2022-11-28 | 123 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-05 | 113 | 18 | 
 | 2022-11-04 | 113 | 18 | 
 | 2022-11-03 | 113 | 18 | 
-| 2022-11-02 | 113 | 18 | 
 

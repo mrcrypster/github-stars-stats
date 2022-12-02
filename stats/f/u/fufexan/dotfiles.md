@@ -1,10 +1,10 @@
 # fufexan/dotfiles - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 7
 
-★ Stars: 112
+★ Stars: 114
 
 [Open repository](https://github.com/fufexan/dotfiles)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 114 | 7 | 
 | 2022-11-30 | 112 | 7 | 
 | 2022-11-29 | 112 | 7 | 
 | 2022-11-28 | 112 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 101 | 6 | 
 | 2022-11-03 | 101 | 6 | 
 | 2022-11-02 | 99 | 7 | 
-| 2022-11-01 | 98 | 7 | 
 

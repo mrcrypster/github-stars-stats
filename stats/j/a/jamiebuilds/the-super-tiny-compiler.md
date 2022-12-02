@@ -1,10 +1,10 @@
 # jamiebuilds/the-super-tiny-compiler - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 2643
+☋ Forks: 2645
 
-★ Stars: 24129
+★ Stars: 24143
 
 [Open repository](https://github.com/jamiebuilds/the-super-tiny-compiler)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 24143 | 2645 | 
 | 2022-11-30 | 24129 | 2643 | 
 | 2022-11-29 | 24090 | 2640 | 
 | 2022-11-28 | 24018 | 2637 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 23804 | 2625 | 
 | 2022-11-03 | 23804 | 2623 | 
 | 2022-11-02 | 23803 | 2623 | 
-| 2022-11-01 | 23802 | 2623 | 
 

@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 01
 
 ☋ Forks: 328
 
-★ Stars: 46
+★ Stars: 47
 
 [Open repository](https://github.com/azerothcore/wiki)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-01 | 46 | 328 | 
+| 2022-12-01 | 47 | 328 | 
 | 2022-11-30 | 46 | 328 | 
 | 2022-11-29 | 46 | 324 | 
 | 2022-11-28 | 46 | 322 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-04 | 46 | 318 | 
 | 2022-11-03 | 46 | 317 | 
 | 2022-11-02 | 46 | 317 | 
-| 2022-11-01 | 46 | 317 | 
 

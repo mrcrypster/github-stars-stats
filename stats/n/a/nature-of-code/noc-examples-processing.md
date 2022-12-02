@@ -1,6 +1,6 @@
 # nature-of-code/noc-examples-processing - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 931
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 2396 | 931 | 
 | 2022-11-30 | 2396 | 931 | 
 | 2022-11-29 | 2396 | 931 | 
 | 2022-11-28 | 2395 | 931 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 2390 | 931 | 
 | 2022-11-03 | 2390 | 931 | 
 | 2022-11-02 | 2390 | 930 | 
-| 2022-11-01 | 2389 | 930 | 
 

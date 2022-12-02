@@ -1,10 +1,10 @@
 # opcodesio/log-viewer - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
 ☋ Forks: 113
 
-★ Stars: 2066
+★ Stars: 2071
 
 [Open repository](https://github.com/opcodesio/log-viewer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 2071 | 113 | 
 | 2022-11-30 | 2066 | 113 | 
 | 2022-11-29 | 2061 | 113 | 
 | 2022-11-28 | 2059 | 113 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 1992 | 104 | 
 | 2022-11-03 | 1988 | 104 | 
 | 2022-11-02 | 1981 | 103 | 
-| 2022-11-01 | 1978 | 103 | 
 

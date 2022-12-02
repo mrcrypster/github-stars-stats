@@ -1,8 +1,8 @@
 # LSFLK/MedicinesforLK-DonorAPI - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
-☋ Forks: 9
+☋ Forks: 10
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 2 | 10 | 
 | 2022-12-01 | 2 | 9 | 
 | 2022-11-29 | 2 | 9 | 
 | 2022-11-28 | 2 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-04 | 1 | 9 | 
 | 2022-11-03 | 1 | 9 | 
 | 2022-11-02 | 1 | 9 | 
-| 2022-11-01 | 1 | 9 | 
 

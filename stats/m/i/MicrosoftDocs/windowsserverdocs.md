@@ -1,8 +1,8 @@
 # MicrosoftDocs/windowsserverdocs - stars & forks statistics
 
-Stats updated on Nov 2022, 30
+Stats updated on Dec 2022, 01
 
-☋ Forks: 1699
+☋ Forks: 1701
 
 ★ Stars: 1136
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-01 | 1136 | 1701 | 
 | 2022-11-30 | 1136 | 1699 | 
 | 2022-11-29 | 1135 | 1698 | 
 | 2022-11-28 | 1135 | 1698 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 30
 | 2022-11-04 | 1118 | 1692 | 
 | 2022-11-03 | 1118 | 1691 | 
 | 2022-11-02 | 1117 | 1689 | 
-| 2022-11-01 | 1117 | 1687 | 
 
