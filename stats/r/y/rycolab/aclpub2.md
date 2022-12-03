@@ -1,6 +1,6 @@
 # rycolab/aclpub2 - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 17 | 16 | 
 | 2022-12-01 | 17 | 16 | 
 | 2022-11-30 | 17 | 16 | 
 | 2022-11-29 | 17 | 16 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 17 | 13 | 
 | 2022-11-04 | 17 | 13 | 
 | 2022-11-03 | 16 | 13 | 
-| 2022-11-02 | 16 | 13 | 
 

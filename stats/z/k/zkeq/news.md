@@ -1,10 +1,10 @@
 # zkeq/news - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 21
 
-★ Stars: 66
+★ Stars: 67
 
 [Open repository](https://github.com/zkeq/news)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 67 | 21 | 
 | 2022-12-01 | 66 | 21 | 
 | 2022-11-30 | 66 | 21 | 
 | 2022-11-29 | 66 | 21 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 60 | 19 | 
 | 2022-11-04 | 60 | 19 | 
 | 2022-11-03 | 60 | 19 | 
-| 2022-11-02 | 59 | 19 | 
 

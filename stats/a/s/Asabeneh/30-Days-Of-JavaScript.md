@@ -1,10 +1,10 @@
 # Asabeneh/30-Days-Of-JavaScript - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
-☋ Forks: 6990
+☋ Forks: 7004
 
-★ Stars: 30433
+★ Stars: 30494
 
 [Open repository](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 30494 | 7004 | 
 | 2022-12-01 | 30433 | 6990 | 
 | 2022-11-30 | 30394 | 6973 | 
 | 2022-11-29 | 30371 | 6971 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 28965 | 6676 | 
 | 2022-11-04 | 28945 | 6673 | 
 | 2022-11-03 | 28916 | 6669 | 
-| 2022-11-02 | 28903 | 6655 | 
 

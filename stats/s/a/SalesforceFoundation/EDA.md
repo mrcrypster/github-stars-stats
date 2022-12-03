@@ -1,6 +1,6 @@
 # SalesforceFoundation/EDA - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 139
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 211 | 139 | 
 | 2022-12-01 | 211 | 139 | 
 | 2022-11-30 | 211 | 139 | 
 | 2022-11-29 | 211 | 139 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-06 | 211 | 138 | 
 | 2022-11-05 | 211 | 138 | 
 | 2022-11-04 | 211 | 138 | 
-| 2022-11-02 | 211 | 138 | 
 

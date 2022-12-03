@@ -1,10 +1,10 @@
 # sylefeb/tinygpus - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 2
 
-★ Stars: 42
+★ Stars: 43
 
 [Open repository](https://github.com/sylefeb/tinygpus)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 43 | 2 | 
 | 2022-12-01 | 42 | 2 | 
 | 2022-11-30 | 42 | 2 | 
 | 2022-11-29 | 39 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 39 | 2 | 
 | 2022-11-04 | 39 | 2 | 
 | 2022-11-03 | 39 | 2 | 
-| 2022-11-02 | 39 | 2 | 
 

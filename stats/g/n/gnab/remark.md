@@ -1,6 +1,6 @@
 # gnab/remark - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 870
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 12148 | 870 | 
 | 2022-12-01 | 12148 | 870 | 
 | 2022-11-30 | 12146 | 870 | 
 | 2022-11-29 | 12146 | 870 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 12124 | 870 | 
 | 2022-11-04 | 12122 | 870 | 
 | 2022-11-03 | 12119 | 870 | 
-| 2022-11-02 | 12119 | 870 | 
 

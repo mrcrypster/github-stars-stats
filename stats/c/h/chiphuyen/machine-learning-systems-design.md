@@ -1,10 +1,10 @@
 # chiphuyen/machine-learning-systems-design - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 1218
 
-★ Stars: 7513
+★ Stars: 7515
 
 [Open repository](https://github.com/chiphuyen/machine-learning-systems-design)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 7515 | 1218 | 
 | 2022-12-01 | 7513 | 1218 | 
 | 2022-11-30 | 7510 | 1218 | 
 | 2022-11-29 | 7507 | 1216 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 7441 | 1202 | 
 | 2022-11-04 | 7440 | 1201 | 
 | 2022-11-03 | 7440 | 1201 | 
-| 2022-11-02 | 7438 | 1201 | 
 

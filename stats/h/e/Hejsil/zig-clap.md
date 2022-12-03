@@ -1,8 +1,8 @@
 # Hejsil/zig-clap - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
-☋ Forks: 29
+☋ Forks: 28
 
 ★ Stars: 345
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 345 | 28 | 
 | 2022-12-01 | 345 | 29 | 
 | 2022-11-30 | 344 | 28 | 
 | 2022-11-29 | 343 | 28 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 326 | 27 | 
 | 2022-11-04 | 326 | 27 | 
 | 2022-11-03 | 325 | 27 | 
-| 2022-11-02 | 325 | 27 | 
 

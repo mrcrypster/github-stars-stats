@@ -1,8 +1,8 @@
 # GodotVR/godot-xr-tools - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
-☋ Forks: 28
+☋ Forks: 30
 
 ★ Stars: 212
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 212 | 30 | 
 | 2022-12-01 | 212 | 28 | 
 | 2022-11-30 | 208 | 28 | 
 | 2022-11-29 | 208 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-06 | 197 | 25 | 
 | 2022-11-05 | 194 | 25 | 
 | 2022-11-04 | 192 | 26 | 
-| 2022-11-02 | 192 | 25 | 
 

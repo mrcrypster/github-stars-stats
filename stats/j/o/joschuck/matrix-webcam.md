@@ -1,6 +1,6 @@
 # joschuck/matrix-webcam - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 1305 | 32 | 
 | 2022-12-01 | 1305 | 32 | 
 | 2022-11-30 | 1302 | 32 | 
 | 2022-11-29 | 1299 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 1241 | 27 | 
 | 2022-11-04 | 1238 | 27 | 
 | 2022-11-03 | 1233 | 27 | 
-| 2022-11-02 | 1227 | 26 | 
 

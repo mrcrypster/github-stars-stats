@@ -1,6 +1,6 @@
 # Zhengsh123/HIT-CS-Course - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 33 | 13 | 
 | 2022-12-01 | 33 | 13 | 
 | 2022-11-30 | 33 | 13 | 
 | 2022-11-29 | 33 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 30 | 13 | 
 | 2022-11-04 | 30 | 13 | 
 | 2022-11-03 | 29 | 13 | 
-| 2022-11-02 | 29 | 13 | 
 

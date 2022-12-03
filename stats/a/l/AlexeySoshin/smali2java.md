@@ -1,10 +1,10 @@
 # AlexeySoshin/smali2java - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
-☋ Forks: 73
+☋ Forks: 74
 
-★ Stars: 373
+★ Stars: 374
 
 [Open repository](https://github.com/AlexeySoshin/smali2java)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 374 | 74 | 
 | 2022-12-01 | 373 | 73 | 
 | 2022-11-30 | 373 | 73 | 
 | 2022-11-29 | 373 | 73 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 371 | 73 | 
 | 2022-11-04 | 371 | 73 | 
 | 2022-11-03 | 371 | 73 | 
-| 2022-11-02 | 371 | 73 | 
 

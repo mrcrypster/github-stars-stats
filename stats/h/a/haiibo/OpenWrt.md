@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 02
 
 ☋ Forks: 159
 
-★ Stars: 242
+★ Stars: 246
 
 [Open repository](https://github.com/haiibo/OpenWrt)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-02 | 242 | 159 | 
+| 2022-12-02 | 246 | 159 | 
 | 2022-12-01 | 242 | 159 | 
 

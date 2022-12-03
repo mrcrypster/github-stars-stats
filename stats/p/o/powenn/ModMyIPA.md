@@ -1,6 +1,6 @@
 # powenn/ModMyIPA - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 141 | 10 | 
 | 2022-12-01 | 141 | 10 | 
 | 2022-11-30 | 139 | 10 | 
 | 2022-11-29 | 138 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 113 | 7 | 
 | 2022-11-04 | 109 | 6 | 
 | 2022-11-03 | 108 | 6 | 
-| 2022-11-02 | 107 | 6 | 
 

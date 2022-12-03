@@ -1,10 +1,10 @@
 # The-Shivam-garg/BigB-E-learn-Websit-e - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
-☋ Forks: 157
+☋ Forks: 158
 
-★ Stars: 100
+★ Stars: 99
 
 [Open repository](https://github.com/The-Shivam-garg/BigB-E-learn-Websit-e)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 99 | 158 | 
 | 2022-12-01 | 100 | 157 | 
 | 2022-11-30 | 100 | 157 | 
 | 2022-11-29 | 100 | 157 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 98 | 157 | 
 | 2022-11-04 | 98 | 157 | 
 | 2022-11-03 | 97 | 158 | 
-| 2022-11-02 | 97 | 158 | 
 

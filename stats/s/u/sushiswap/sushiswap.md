@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 02
 
-☋ Forks: 1332
+☋ Forks: 1331
 
-★ Stars: 1628
+★ Stars: 1630
 
 [Open repository](https://github.com/sushiswap/sushiswap)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-02 | 1628 | 1332 | 
+| 2022-12-02 | 1630 | 1331 | 
 | 2022-12-01 | 1628 | 1332 | 
 | 2022-11-30 | 1625 | 1331 | 
 | 2022-11-29 | 1624 | 1328 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 1602 | 1310 | 
 | 2022-11-05 | 1601 | 1310 | 
 | 2022-11-04 | 1600 | 1311 | 
-| 2022-11-03 | 1599 | 1312 | 
 

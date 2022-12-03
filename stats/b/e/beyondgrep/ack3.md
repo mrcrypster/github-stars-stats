@@ -1,8 +1,8 @@
 # beyondgrep/ack3 - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
-☋ Forks: 58
+☋ Forks: 59
 
 ★ Stars: 541
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 541 | 59 | 
 | 2022-12-01 | 541 | 58 | 
 | 2022-11-30 | 541 | 58 | 
 | 2022-11-29 | 538 | 58 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 537 | 56 | 
 | 2022-11-04 | 537 | 56 | 
 | 2022-11-03 | 537 | 56 | 
-| 2022-11-02 | 537 | 56 | 
 

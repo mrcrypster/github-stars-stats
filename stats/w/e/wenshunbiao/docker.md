@@ -1,6 +1,6 @@
 # wenshunbiao/docker - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 104
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 370 | 104 | 
 | 2022-12-01 | 370 | 104 | 
 | 2022-11-30 | 370 | 104 | 
 | 2022-11-29 | 370 | 104 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 368 | 104 | 
 | 2022-11-04 | 368 | 104 | 
 | 2022-11-03 | 368 | 104 | 
-| 2022-11-02 | 368 | 104 | 
 

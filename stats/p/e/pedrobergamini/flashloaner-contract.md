@@ -1,6 +1,6 @@
 # pedrobergamini/flashloaner-contract - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 301
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 457 | 301 | 
 | 2022-12-01 | 457 | 301 | 
 | 2022-11-30 | 457 | 301 | 
 | 2022-11-29 | 457 | 301 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 450 | 299 | 
 | 2022-11-04 | 449 | 299 | 
 | 2022-11-03 | 448 | 298 | 
-| 2022-11-02 | 447 | 298 | 
 

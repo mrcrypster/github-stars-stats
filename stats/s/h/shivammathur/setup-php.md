@@ -1,10 +1,10 @@
 # shivammathur/setup-php - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 279
 
-★ Stars: 2346
+★ Stars: 2347
 
 [Open repository](https://github.com/shivammathur/setup-php)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 2347 | 279 | 
 | 2022-12-01 | 2346 | 279 | 
 | 2022-11-30 | 2346 | 278 | 
 | 2022-11-29 | 2345 | 277 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 2324 | 274 | 
 | 2022-11-04 | 2323 | 274 | 
 | 2022-11-03 | 2322 | 271 | 
-| 2022-11-02 | 2320 | 271 | 
 

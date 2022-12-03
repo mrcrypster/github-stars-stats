@@ -1,6 +1,6 @@
 # aquasecurity/aqua-helm - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 149
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 70 | 149 | 
 | 2022-12-01 | 70 | 149 | 
 | 2022-11-30 | 69 | 149 | 
 | 2022-11-29 | 69 | 149 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 68 | 144 | 
 | 2022-11-04 | 68 | 144 | 
 | 2022-11-03 | 69 | 144 | 
-| 2022-11-02 | 69 | 143 | 
 

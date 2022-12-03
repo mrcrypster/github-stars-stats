@@ -1,6 +1,6 @@
 # peter-iakovlev/Telegram - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 860
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 3078 | 860 | 
 | 2022-12-01 | 3078 | 860 | 
 | 2022-11-30 | 3078 | 860 | 
 | 2022-11-29 | 3076 | 860 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 3068 | 855 | 
 | 2022-11-04 | 3067 | 855 | 
 | 2022-11-03 | 3069 | 855 | 
-| 2022-11-02 | 3069 | 855 | 
 

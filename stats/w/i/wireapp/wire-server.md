@@ -1,10 +1,10 @@
 # wireapp/wire-server - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 341
 
-★ Stars: 2488
+★ Stars: 2489
 
 [Open repository](https://github.com/wireapp/wire-server)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 2489 | 341 | 
 | 2022-12-01 | 2488 | 341 | 
 | 2022-11-30 | 2487 | 341 | 
 | 2022-11-29 | 2486 | 341 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 2485 | 340 | 
 | 2022-11-04 | 2485 | 340 | 
 | 2022-11-03 | 2485 | 340 | 
-| 2022-11-02 | 2485 | 340 | 
 

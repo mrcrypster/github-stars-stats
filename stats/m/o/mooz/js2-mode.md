@@ -1,10 +1,10 @@
 # mooz/js2-mode - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 188
 
-★ Stars: 1294
+★ Stars: 1293
 
 [Open repository](https://github.com/mooz/js2-mode)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 1293 | 188 | 
 | 2022-12-02 | 1294 | 188 | 
 | 2022-12-01 | 1294 | 188 | 
 | 2022-11-30 | 1294 | 188 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-05 | 1293 | 189 | 
 | 2022-11-04 | 1292 | 189 | 
 | 2022-11-03 | 1292 | 189 | 
-| 2022-11-02 | 1292 | 189 | 
 

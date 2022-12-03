@@ -1,10 +1,10 @@
 # NoName-exe/revanced-extended - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 1
 
-★ Stars: 39
+★ Stars: 41
 
 [Open repository](https://github.com/NoName-exe/revanced-extended)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 41 | 1 | 
 | 2022-12-01 | 39 | 1 | 
 | 2022-11-30 | 38 | 1 | 
 | 2022-11-29 | 37 | 1 | 

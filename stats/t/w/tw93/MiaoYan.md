@@ -1,10 +1,10 @@
 # tw93/MiaoYan - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
-☋ Forks: 188
+☋ Forks: 189
 
-★ Stars: 3226
+★ Stars: 3227
 
 [Open repository](https://github.com/tw93/MiaoYan)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 3227 | 189 | 
 | 2022-12-01 | 3226 | 188 | 
 | 2022-11-30 | 3219 | 188 | 
 | 2022-11-29 | 3211 | 188 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 3004 | 172 | 
 | 2022-11-04 | 2999 | 172 | 
 | 2022-11-03 | 2989 | 172 | 
-| 2022-11-02 | 2981 | 172 | 
 

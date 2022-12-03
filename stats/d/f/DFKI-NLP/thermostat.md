@@ -1,6 +1,6 @@
 # DFKI-NLP/thermostat - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 126 | 7 | 
 | 2022-12-01 | 126 | 7 | 
 | 2022-11-30 | 126 | 7 | 
 | 2022-11-29 | 126 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 125 | 6 | 
 | 2022-11-04 | 125 | 6 | 
 | 2022-11-03 | 125 | 6 | 
-| 2022-11-02 | 125 | 6 | 
 

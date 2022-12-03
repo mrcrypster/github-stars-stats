@@ -1,10 +1,10 @@
 # kiteco/vim-plugin - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 44
 
-★ Stars: 286
+★ Stars: 287
 
 [Open repository](https://github.com/kiteco/vim-plugin)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 287 | 44 | 
 | 2022-12-01 | 286 | 44 | 
 | 2022-11-30 | 286 | 44 | 
 | 2022-11-29 | 286 | 44 | 

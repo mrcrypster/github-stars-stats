@@ -1,6 +1,6 @@
 # getmango/Mango - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 89
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 1235 | 89 | 
 | 2022-12-01 | 1235 | 89 | 
 | 2022-11-30 | 1232 | 89 | 
 | 2022-11-29 | 1230 | 88 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 1215 | 87 | 
 | 2022-11-04 | 1214 | 87 | 
 | 2022-11-03 | 1213 | 86 | 
-| 2022-11-02 | 1213 | 86 | 
 

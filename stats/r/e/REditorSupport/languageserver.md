@@ -1,6 +1,6 @@
 # REditorSupport/languageserver - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 475 | 75 | 
 | 2022-12-01 | 475 | 75 | 
 | 2022-11-30 | 475 | 75 | 
 | 2022-11-29 | 475 | 75 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 474 | 73 | 
 | 2022-11-04 | 473 | 73 | 
 | 2022-11-03 | 473 | 73 | 
-| 2022-11-02 | 473 | 73 | 
 

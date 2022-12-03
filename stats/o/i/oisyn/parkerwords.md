@@ -1,6 +1,6 @@
 # oisyn/parkerwords - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 109 | 18 | 
 | 2022-12-01 | 109 | 18 | 
 | 2022-11-30 | 109 | 18 | 
 | 2022-11-29 | 109 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 85 | 14 | 
 | 2022-11-04 | 84 | 14 | 
 | 2022-11-03 | 84 | 14 | 
-| 2022-11-02 | 82 | 14 | 
 

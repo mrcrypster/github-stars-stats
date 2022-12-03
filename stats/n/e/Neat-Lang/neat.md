@@ -1,10 +1,10 @@
 # Neat-Lang/neat - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 3
 
-★ Stars: 38
+★ Stars: 39
 
 [Open repository](https://github.com/Neat-Lang/neat)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 39 | 3 | 
 | 2022-12-01 | 38 | 3 | 
 | 2022-11-30 | 38 | 3 | 
 | 2022-11-29 | 38 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 38 | 2 | 
 | 2022-11-04 | 38 | 2 | 
 | 2022-11-03 | 38 | 2 | 
-| 2022-11-02 | 38 | 2 | 
 

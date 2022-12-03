@@ -1,10 +1,10 @@
 # lambdaisland/launchpad - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 1
 
-★ Stars: 47
+★ Stars: 49
 
 [Open repository](https://github.com/lambdaisland/launchpad)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 49 | 1 | 
 | 2022-12-01 | 47 | 1 | 
 | 2022-11-30 | 47 | 1 | 
 | 2022-11-29 | 47 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-06 | 45 | 1 | 
 | 2022-11-05 | 44 | 1 | 
 | 2022-11-04 | 44 | 1 | 
-| 2022-11-02 | 44 | 1 | 
 

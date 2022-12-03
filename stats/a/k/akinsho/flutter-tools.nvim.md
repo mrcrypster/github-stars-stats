@@ -1,10 +1,10 @@
 # akinsho/flutter-tools.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 35
 
-★ Stars: 407
+★ Stars: 408
 
 [Open repository](https://github.com/akinsho/flutter-tools.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 408 | 35 | 
 | 2022-12-01 | 407 | 35 | 
 | 2022-11-30 | 407 | 35 | 
 | 2022-11-29 | 407 | 35 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 393 | 35 | 
 | 2022-11-04 | 394 | 35 | 
 | 2022-11-03 | 394 | 35 | 
-| 2022-11-02 | 394 | 35 | 
 

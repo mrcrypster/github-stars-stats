@@ -1,6 +1,6 @@
 # zerostaticthemes/hugo-hero-theme - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 205
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 271 | 205 | 
 | 2022-12-01 | 271 | 205 | 
 | 2022-11-30 | 270 | 205 | 
 | 2022-11-29 | 268 | 205 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 261 | 199 | 
 | 2022-11-04 | 261 | 199 | 
 | 2022-11-03 | 261 | 198 | 
-| 2022-11-02 | 261 | 198 | 
 

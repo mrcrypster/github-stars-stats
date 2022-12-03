@@ -1,10 +1,10 @@
 # fengb/wazm - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 4
 
-★ Stars: 88
+★ Stars: 89
 
 [Open repository](https://github.com/fengb/wazm)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 89 | 4 | 
 | 2022-12-01 | 88 | 4 | 
 | 2022-11-30 | 88 | 4 | 
 | 2022-11-29 | 88 | 4 | 

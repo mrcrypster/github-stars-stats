@@ -1,6 +1,6 @@
 # hhru/android-style-guide - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 3
 
@@ -13,5 +13,6 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 32 | 3 | 
 | 2022-12-01 | 32 | 3 | 
 

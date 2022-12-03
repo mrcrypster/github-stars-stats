@@ -1,10 +1,10 @@
 # wavesplatform/Waves - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 423
 
-★ Stars: 1162
+★ Stars: 1161
 
 [Open repository](https://github.com/wavesplatform/Waves)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 1161 | 423 | 
 | 2022-12-01 | 1162 | 423 | 
 | 2022-11-30 | 1162 | 423 | 
 | 2022-11-29 | 1162 | 423 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 1165 | 422 | 
 | 2022-11-04 | 1165 | 422 | 
 | 2022-11-03 | 1165 | 422 | 
-| 2022-11-02 | 1165 | 422 | 
 

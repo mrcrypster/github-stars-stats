@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 02
 
-☋ Forks: 205
+☋ Forks: 208
 
-★ Stars: 154
+★ Stars: 155
 
 [Open repository](https://github.com/insolitum/insolitum)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-02 | 154 | 205 | 
+| 2022-12-02 | 155 | 208 | 
 | 2022-12-01 | 152 | 205 | 
 

@@ -1,10 +1,10 @@
 # errata-ai/vale - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 104
 
-★ Stars: 2778
+★ Stars: 2777
 
 [Open repository](https://github.com/errata-ai/vale)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 2777 | 104 | 
 | 2022-12-01 | 2778 | 104 | 
 | 2022-11-30 | 2776 | 103 | 
 | 2022-11-29 | 2770 | 103 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 2739 | 101 | 
 | 2022-11-04 | 2736 | 101 | 
 | 2022-11-03 | 2736 | 101 | 
-| 2022-11-02 | 2735 | 101 | 
 

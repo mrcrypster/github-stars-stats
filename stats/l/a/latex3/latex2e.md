@@ -1,10 +1,10 @@
 # latex3/latex2e - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 200
 
-★ Stars: 1372
+★ Stars: 1373
 
 [Open repository](https://github.com/latex3/latex2e)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 1373 | 200 | 
 | 2022-12-01 | 1372 | 200 | 
 | 2022-11-30 | 1371 | 200 | 
 | 2022-11-29 | 1368 | 199 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 1356 | 199 | 
 | 2022-11-04 | 1354 | 199 | 
 | 2022-11-03 | 1353 | 199 | 
-| 2022-11-02 | 1352 | 199 | 
 

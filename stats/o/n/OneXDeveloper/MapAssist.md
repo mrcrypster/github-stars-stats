@@ -1,6 +1,6 @@
 # OneXDeveloper/MapAssist - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 245
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 384 | 245 | 
 | 2022-12-01 | 384 | 245 | 
 | 2022-11-30 | 384 | 245 | 
 | 2022-11-29 | 384 | 245 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 386 | 245 | 
 | 2022-11-04 | 386 | 245 | 
 | 2022-11-03 | 386 | 245 | 
-| 2022-11-02 | 386 | 245 | 
 

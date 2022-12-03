@@ -1,10 +1,10 @@
 # arcanis/secretsanta - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 95
 
-★ Stars: 143
+★ Stars: 144
 
 [Open repository](https://github.com/arcanis/secretsanta)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 144 | 95 | 
 | 2022-12-01 | 143 | 95 | 
 | 2022-11-30 | 141 | 93 | 
 | 2022-11-29 | 141 | 92 | 

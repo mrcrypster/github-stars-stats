@@ -1,6 +1,6 @@
 # CRImier/MyKiCad - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 44 | 1 | 
 | 2022-12-01 | 44 | 1 | 
 | 2022-11-30 | 44 | 1 | 
 | 2022-11-29 | 44 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 36 | 1 | 
 | 2022-11-04 | 36 | 1 | 
 | 2022-11-03 | 34 | 1 | 
-| 2022-11-02 | 34 | 1 | 
 

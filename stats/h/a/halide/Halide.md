@@ -1,10 +1,10 @@
 # halide/Halide - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 997
 
-★ Stars: 5196
+★ Stars: 5203
 
 [Open repository](https://github.com/halide/Halide)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 5203 | 997 | 
 | 2022-12-01 | 5196 | 997 | 
 | 2022-11-30 | 5192 | 997 | 
 | 2022-11-29 | 5192 | 997 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 5162 | 994 | 
 | 2022-11-04 | 5161 | 993 | 
 | 2022-11-03 | 5157 | 992 | 
-| 2022-11-02 | 5154 | 993 | 
 

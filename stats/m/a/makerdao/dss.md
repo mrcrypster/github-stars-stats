@@ -1,6 +1,6 @@
 # makerdao/dss - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 343
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 617 | 343 | 
 | 2022-12-01 | 617 | 343 | 
 | 2022-11-30 | 617 | 342 | 
 | 2022-11-29 | 617 | 342 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 613 | 337 | 
 | 2022-11-04 | 613 | 336 | 
 | 2022-11-03 | 612 | 336 | 
-| 2022-11-02 | 612 | 335 | 
 

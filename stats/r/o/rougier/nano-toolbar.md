@@ -1,6 +1,6 @@
 # rougier/nano-toolbar - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 22 | 1 | 
 | 2022-12-01 | 22 | 1 | 
 | 2022-11-30 | 22 | 1 | 
 | 2022-11-29 | 22 | 1 | 

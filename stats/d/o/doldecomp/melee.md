@@ -1,10 +1,10 @@
 # doldecomp/melee - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 49
 
-★ Stars: 367
+★ Stars: 368
 
 [Open repository](https://github.com/doldecomp/melee)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 368 | 49 | 
 | 2022-12-01 | 367 | 49 | 
 | 2022-11-30 | 367 | 49 | 
 | 2022-11-29 | 367 | 49 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 362 | 50 | 
 | 2022-11-04 | 362 | 50 | 
 | 2022-11-03 | 362 | 50 | 
-| 2022-11-02 | 362 | 50 | 
 

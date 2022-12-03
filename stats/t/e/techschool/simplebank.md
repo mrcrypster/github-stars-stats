@@ -1,10 +1,10 @@
 # techschool/simplebank - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
-☋ Forks: 495
+☋ Forks: 497
 
-★ Stars: 1939
+★ Stars: 1942
 
 [Open repository](https://github.com/techschool/simplebank)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 1942 | 497 | 
 | 2022-12-01 | 1939 | 495 | 
 | 2022-11-30 | 1935 | 493 | 
 | 2022-11-29 | 1931 | 489 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 1784 | 462 | 
 | 2022-11-04 | 1783 | 462 | 
 | 2022-11-03 | 1776 | 462 | 
-| 2022-11-02 | 1775 | 461 | 
 

@@ -1,10 +1,10 @@
 # clue-ai/PromptCLUE - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
-☋ Forks: 21
+☋ Forks: 23
 
-★ Stars: 187
+★ Stars: 188
 
 [Open repository](https://github.com/clue-ai/PromptCLUE)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 188 | 23 | 
 | 2022-12-01 | 187 | 21 | 
 | 2022-11-30 | 186 | 21 | 
 | 2022-11-29 | 186 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 155 | 16 | 
 | 2022-11-04 | 153 | 16 | 
 | 2022-11-03 | 152 | 16 | 
-| 2022-11-02 | 149 | 16 | 
 

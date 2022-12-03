@@ -1,10 +1,10 @@
 # rustprooflabs/pgosm-flex - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 18
 
-★ Stars: 66
+★ Stars: 67
 
 [Open repository](https://github.com/rustprooflabs/pgosm-flex)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 67 | 18 | 
 | 2022-12-01 | 66 | 18 | 
 | 2022-11-30 | 66 | 18 | 
 | 2022-11-29 | 66 | 18 | 

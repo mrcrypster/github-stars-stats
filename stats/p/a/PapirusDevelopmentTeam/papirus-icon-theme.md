@@ -1,10 +1,10 @@
 # PapirusDevelopmentTeam/papirus-icon-theme - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 375
 
-★ Stars: 5505
+★ Stars: 5506
 
 [Open repository](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 5506 | 375 | 
 | 2022-12-01 | 5505 | 375 | 
 | 2022-11-30 | 5504 | 375 | 
 | 2022-11-29 | 5498 | 375 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 5470 | 371 | 
 | 2022-11-04 | 5472 | 371 | 
 | 2022-11-03 | 5471 | 371 | 
-| 2022-11-02 | 5470 | 371 | 
 

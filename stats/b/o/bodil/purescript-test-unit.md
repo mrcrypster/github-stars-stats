@@ -1,6 +1,6 @@
 # bodil/purescript-test-unit - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 37
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 86 | 37 | 
+| 2022-12-02 | 86 | 37 | 
 | 2022-12-01 | 86 | 37 | 
 | 2022-11-30 | 86 | 37 | 
 | 2022-11-29 | 86 | 37 | 
@@ -41,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-06 | 86 | 37 | 
 | 2022-11-05 | 86 | 37 | 
 | 2022-11-03 | 86 | 37 | 
-| 2022-11-02 | 86 | 37 | 
 

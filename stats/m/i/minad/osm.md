@@ -1,6 +1,6 @@
 # minad/osm - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 429 | 11 | 
 | 2022-12-01 | 429 | 11 | 
 | 2022-11-30 | 429 | 11 | 
 | 2022-11-29 | 428 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-06 | 423 | 10 | 
 | 2022-11-05 | 423 | 10 | 
 | 2022-11-04 | 422 | 10 | 
-| 2022-11-03 | 413 | 10 | 
 

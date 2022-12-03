@@ -1,6 +1,6 @@
 # worse-666/csgo_external_ahk_hack - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 72
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 54 | 72 | 
 | 2022-12-01 | 54 | 72 | 
 | 2022-11-30 | 54 | 72 | 
 | 2022-11-29 | 53 | 72 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 53 | 68 | 
 | 2022-11-04 | 53 | 67 | 
 | 2022-11-03 | 53 | 67 | 
-| 2022-11-02 | 53 | 67 | 
 

@@ -1,10 +1,10 @@
 # lcpz/awesome-copycats - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 500
 
-★ Stars: 2718
+★ Stars: 2719
 
 [Open repository](https://github.com/lcpz/awesome-copycats)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 2719 | 500 | 
 | 2022-12-01 | 2718 | 500 | 
 | 2022-11-30 | 2718 | 500 | 
 | 2022-11-29 | 2714 | 499 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 2702 | 499 | 
 | 2022-11-04 | 2702 | 500 | 
 | 2022-11-03 | 2702 | 500 | 
-| 2022-11-02 | 2703 | 500 | 
 

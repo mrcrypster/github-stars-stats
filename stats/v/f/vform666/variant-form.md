@@ -1,6 +1,6 @@
 # vform666/variant-form - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 215
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 828 | 215 | 
 | 2022-12-01 | 828 | 215 | 
 | 2022-11-30 | 826 | 215 | 
 | 2022-11-29 | 827 | 216 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 791 | 203 | 
 | 2022-11-04 | 790 | 203 | 
 | 2022-11-03 | 789 | 202 | 
-| 2022-11-02 | 786 | 202 | 
 

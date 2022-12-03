@@ -1,10 +1,10 @@
 # sonic-net/sonic-utilities - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 490
 
-★ Stars: 113
+★ Stars: 114
 
 [Open repository](https://github.com/sonic-net/sonic-utilities)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 114 | 490 | 
 | 2022-12-01 | 113 | 490 | 
 | 2022-11-30 | 112 | 490 | 
 | 2022-11-29 | 111 | 490 | 

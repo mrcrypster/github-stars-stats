@@ -1,10 +1,10 @@
 # ventali/awesome-zk - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 108
 
-★ Stars: 723
+★ Stars: 724
 
 [Open repository](https://github.com/ventali/awesome-zk)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 724 | 108 | 
 | 2022-12-01 | 723 | 108 | 
 | 2022-11-30 | 721 | 108 | 
 | 2022-11-29 | 720 | 108 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 698 | 107 | 
 | 2022-11-04 | 698 | 107 | 
 | 2022-11-03 | 697 | 107 | 
-| 2022-11-02 | 697 | 107 | 
 

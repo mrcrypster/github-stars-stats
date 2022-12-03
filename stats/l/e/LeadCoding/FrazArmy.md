@@ -1,6 +1,6 @@
 # LeadCoding/FrazArmy - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 64
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 67 | 64 | 
 | 2022-12-01 | 67 | 64 | 
 | 2022-11-30 | 68 | 64 | 
 | 2022-11-29 | 68 | 64 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 66 | 64 | 
 | 2022-11-04 | 66 | 63 | 
 | 2022-11-03 | 66 | 63 | 
-| 2022-11-02 | 66 | 63 | 
 

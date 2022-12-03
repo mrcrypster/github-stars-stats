@@ -1,10 +1,10 @@
 # anoma/zkp-compiler-shootout - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 7
 
-★ Stars: 82
+★ Stars: 83
 
 [Open repository](https://github.com/anoma/zkp-compiler-shootout)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 83 | 7 | 
 | 2022-12-01 | 82 | 7 | 
 | 2022-11-30 | 81 | 6 | 
 | 2022-11-29 | 81 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 75 | 7 | 
 | 2022-11-04 | 75 | 7 | 
 | 2022-11-03 | 74 | 7 | 
-| 2022-11-02 | 74 | 7 | 
 

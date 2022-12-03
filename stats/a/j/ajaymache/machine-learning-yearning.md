@@ -1,6 +1,6 @@
 # ajaymache/machine-learning-yearning - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 247
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 805 | 247 | 
 | 2022-12-01 | 805 | 247 | 
 | 2022-11-30 | 806 | 247 | 
 | 2022-11-29 | 805 | 247 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 794 | 247 | 
 | 2022-11-04 | 794 | 247 | 
 | 2022-11-03 | 791 | 246 | 
-| 2022-11-02 | 791 | 246 | 
 

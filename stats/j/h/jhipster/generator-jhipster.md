@@ -1,10 +1,10 @@
 # jhipster/generator-jhipster - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
-☋ Forks: 3903
+☋ Forks: 3904
 
-★ Stars: 20129
+★ Stars: 20128
 
 [Open repository](https://github.com/jhipster/generator-jhipster)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 20128 | 3904 | 
 | 2022-12-01 | 20129 | 3903 | 
 | 2022-11-30 | 20130 | 3903 | 
 | 2022-11-29 | 20129 | 3904 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 20070 | 3894 | 
 | 2022-11-04 | 20063 | 3894 | 
 | 2022-11-03 | 20062 | 3894 | 
-| 2022-11-02 | 20058 | 3893 | 
 

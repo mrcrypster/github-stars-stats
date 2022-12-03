@@ -1,6 +1,6 @@
 # wp-cli/core-command - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 43 | 35 | 
 | 2022-12-01 | 43 | 35 | 
 | 2022-11-30 | 43 | 35 | 
 | 2022-11-29 | 43 | 35 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 42 | 36 | 
 | 2022-11-04 | 42 | 36 | 
 | 2022-11-03 | 42 | 36 | 
-| 2022-11-02 | 42 | 36 | 
 

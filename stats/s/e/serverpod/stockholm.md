@@ -1,10 +1,10 @@
 # serverpod/stockholm - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 7
 
-★ Stars: 81
+★ Stars: 82
 
 [Open repository](https://github.com/serverpod/stockholm)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 82 | 7 | 
 | 2022-12-01 | 81 | 7 | 
 | 2022-11-30 | 81 | 7 | 
 | 2022-11-29 | 81 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-06 | 80 | 7 | 
 | 2022-11-05 | 80 | 7 | 
 | 2022-11-04 | 80 | 7 | 
-| 2022-11-03 | 80 | 7 | 
 

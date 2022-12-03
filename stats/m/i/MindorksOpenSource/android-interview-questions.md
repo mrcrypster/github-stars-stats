@@ -1,10 +1,10 @@
 # MindorksOpenSource/android-interview-questions - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 1999
 
-★ Stars: 9472
+★ Stars: 9475
 
 [Open repository](https://github.com/MindorksOpenSource/android-interview-questions)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 9475 | 1999 | 
 | 2022-12-01 | 9472 | 1999 | 
 | 2022-11-30 | 9470 | 1998 | 
 | 2022-11-29 | 9466 | 1996 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-06 | 9383 | 1982 | 
 | 2022-11-05 | 9380 | 1980 | 
 | 2022-11-04 | 9377 | 1980 | 
-| 2022-11-03 | 9376 | 1979 | 
 

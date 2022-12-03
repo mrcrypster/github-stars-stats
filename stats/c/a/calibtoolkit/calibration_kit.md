@@ -1,6 +1,6 @@
 # calibtoolkit/calibration_kit - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 93
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 247 | 93 | 
 | 2022-12-01 | 247 | 93 | 
 | 2022-11-30 | 245 | 93 | 
 | 2022-11-29 | 245 | 93 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 244 | 91 | 
 | 2022-11-04 | 244 | 91 | 
 | 2022-11-03 | 244 | 90 | 
-| 2022-11-02 | 244 | 90 | 
 

@@ -1,10 +1,10 @@
 # phacility/phabricator - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 1672
 
-★ Stars: 12309
+★ Stars: 12308
 
 [Open repository](https://github.com/phacility/phabricator)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 12308 | 1672 | 
 | 2022-12-01 | 12309 | 1672 | 
 | 2022-11-30 | 12309 | 1672 | 
 | 2022-11-29 | 12308 | 1671 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 12297 | 1663 | 
 | 2022-11-04 | 12297 | 1661 | 
 | 2022-11-03 | 12297 | 1661 | 
-| 2022-11-02 | 12297 | 1662 | 
 

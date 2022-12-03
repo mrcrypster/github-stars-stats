@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 02
 
-☋ Forks: 85
+☋ Forks: 86
 
-★ Stars: 3038
+★ Stars: 3044
 
 [Open repository](https://github.com/Shopify/flash-list)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-02 | 3038 | 85 | 
+| 2022-12-02 | 3044 | 86 | 
 | 2022-12-01 | 3037 | 85 | 
 | 2022-11-30 | 3023 | 85 | 
 | 2022-11-29 | 3001 | 82 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 2910 | 75 | 
 | 2022-11-05 | 2907 | 75 | 
 | 2022-11-04 | 2904 | 75 | 
-| 2022-11-03 | 2898 | 74 | 
 

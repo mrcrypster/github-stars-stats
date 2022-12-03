@@ -1,10 +1,10 @@
 # tindy2013/subconverter - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
-☋ Forks: 1654
+☋ Forks: 1659
 
-★ Stars: 7480
+★ Stars: 7491
 
 [Open repository](https://github.com/tindy2013/subconverter)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 7491 | 1659 | 
 | 2022-12-01 | 7480 | 1654 | 
 | 2022-11-30 | 7468 | 1649 | 
 | 2022-11-29 | 7462 | 1647 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 7235 | 1601 | 
 | 2022-11-04 | 7224 | 1597 | 
 | 2022-11-03 | 7216 | 1596 | 
-| 2022-11-02 | 7208 | 1596 | 
 

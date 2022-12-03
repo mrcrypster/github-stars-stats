@@ -1,10 +1,10 @@
 # giantswarm/prometheus-rules - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 2
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/giantswarm/prometheus-rules)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 10 | 2 | 
 | 2022-12-01 | 9 | 2 | 
 | 2022-11-30 | 9 | 2 | 
 | 2022-11-29 | 8 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 7 | 1 | 
 | 2022-11-04 | 7 | 1 | 
 | 2022-11-03 | 7 | 1 | 
-| 2022-11-02 | 6 | 1 | 
 

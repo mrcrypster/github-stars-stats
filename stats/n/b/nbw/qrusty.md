@@ -1,6 +1,6 @@
 # nbw/qrusty - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 23 | 3 | 
 | 2022-12-01 | 23 | 3 | 
 | 2022-11-30 | 23 | 3 | 
 | 2022-11-29 | 23 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 23 | 3 | 
 | 2022-11-04 | 23 | 3 | 
 | 2022-11-03 | 23 | 3 | 
-| 2022-11-02 | 23 | 3 | 
 

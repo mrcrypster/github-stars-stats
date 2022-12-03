@@ -1,6 +1,6 @@
 # Basir-PD/100-Projects-HTML-CSS-JavaScript - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 250
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 185 | 250 | 
 | 2022-12-01 | 185 | 250 | 
 | 2022-11-30 | 185 | 250 | 
 | 2022-11-29 | 185 | 249 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 180 | 242 | 
 | 2022-11-04 | 179 | 241 | 
 | 2022-11-03 | 178 | 241 | 
-| 2022-11-02 | 178 | 241 | 
 

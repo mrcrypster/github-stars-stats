@@ -1,6 +1,6 @@
 # MI2-Education/2023Z-DataVisualizationTechniques - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 50 | 60 | 
 | 2022-12-01 | 50 | 60 | 
 | 2022-11-30 | 48 | 59 | 
 | 2022-11-29 | 48 | 59 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 48 | 60 | 
 | 2022-11-04 | 48 | 60 | 
 | 2022-11-03 | 48 | 60 | 
-| 2022-11-02 | 48 | 60 | 
 

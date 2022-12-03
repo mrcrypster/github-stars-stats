@@ -1,10 +1,10 @@
 # Zequez/reddit-placebot - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 89
 
-★ Stars: 210
+★ Stars: 211
 
 [Open repository](https://github.com/Zequez/reddit-placebot)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 211 | 89 | 
 | 2022-12-01 | 210 | 89 | 
 | 2022-11-30 | 210 | 89 | 
 | 2022-11-29 | 210 | 89 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 209 | 89 | 
 | 2022-11-04 | 209 | 89 | 
 | 2022-11-03 | 209 | 89 | 
-| 2022-11-02 | 209 | 89 | 
 

@@ -1,6 +1,6 @@
 # tomstillcoding/search - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 14 | 6 | 
 | 2022-12-01 | 14 | 6 | 
 | 2022-11-30 | 14 | 6 | 
 | 2022-11-29 | 14 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-06 | 13 | 6 | 
 | 2022-11-05 | 13 | 6 | 
 | 2022-11-03 | 13 | 6 | 
-| 2022-11-02 | 13 | 6 | 
 

@@ -1,10 +1,10 @@
 # karlstav/cava - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 182
 
-★ Stars: 2835
+★ Stars: 2838
 
 [Open repository](https://github.com/karlstav/cava)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 2838 | 182 | 
 | 2022-12-01 | 2835 | 182 | 
 | 2022-11-30 | 2832 | 181 | 
 | 2022-11-29 | 2828 | 181 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 2794 | 180 | 
 | 2022-11-04 | 2793 | 179 | 
 | 2022-11-03 | 2790 | 179 | 
-| 2022-11-02 | 2787 | 180 | 
 

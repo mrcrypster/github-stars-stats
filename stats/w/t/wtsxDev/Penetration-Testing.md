@@ -1,10 +1,10 @@
 # wtsxDev/Penetration-Testing - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 648
 
-★ Stars: 2015
+★ Stars: 2016
 
 [Open repository](https://github.com/wtsxDev/Penetration-Testing)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 2016 | 648 | 
 | 2022-12-01 | 2015 | 648 | 
 | 2022-11-30 | 2014 | 647 | 
 | 2022-11-29 | 2014 | 647 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-06 | 2010 | 644 | 
 | 2022-11-05 | 2010 | 644 | 
 | 2022-11-03 | 2010 | 643 | 
-| 2022-11-02 | 2009 | 643 | 
 

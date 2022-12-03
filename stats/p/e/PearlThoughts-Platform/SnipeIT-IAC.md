@@ -1,8 +1,8 @@
 # PearlThoughts-Platform/SnipeIT-IAC - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
-☋ Forks: 15
+☋ Forks: 13
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 1 | 13 | 
 | 2022-12-01 | 1 | 15 | 
 | 2022-11-30 | 1 | 14 | 
 | 2022-11-29 | 1 | 13 | 

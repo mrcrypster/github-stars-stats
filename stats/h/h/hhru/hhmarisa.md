@@ -1,6 +1,6 @@
 # hhru/hhmarisa - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 0
 
@@ -13,5 +13,6 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | - | - | 
 | 2022-12-01 | - | - | 
 

@@ -1,10 +1,10 @@
 # mozilla/pdf.js - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
-☋ Forks: 9114
+☋ Forks: 9115
 
-★ Stars: 40734
+★ Stars: 40748
 
 [Open repository](https://github.com/mozilla/pdf.js)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 40748 | 9115 | 
 | 2022-12-01 | 40734 | 9114 | 
 | 2022-11-30 | 40714 | 9113 | 
 | 2022-11-29 | 40704 | 9112 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 40456 | 9072 | 
 | 2022-11-04 | 40449 | 9073 | 
 | 2022-11-03 | 40440 | 9070 | 
-| 2022-11-02 | 40426 | 9068 | 
 

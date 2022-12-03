@@ -1,6 +1,6 @@
 # JuliaSmoothOptimizers/Percival.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 42 | 12 | 
 | 2022-12-01 | 42 | 12 | 
 | 2022-11-30 | 42 | 12 | 
 | 2022-11-29 | 42 | 12 | 

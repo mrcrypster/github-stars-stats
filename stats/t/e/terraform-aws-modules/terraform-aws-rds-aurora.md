@@ -1,6 +1,6 @@
 # terraform-aws-modules/terraform-aws-rds-aurora - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 467
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 303 | 467 | 
 | 2022-12-01 | 303 | 467 | 
 | 2022-11-30 | 303 | 466 | 
 | 2022-11-29 | 303 | 466 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 297 | 457 | 
 | 2022-11-04 | 297 | 457 | 
 | 2022-11-03 | 297 | 457 | 
-| 2022-11-02 | 297 | 457 | 
 

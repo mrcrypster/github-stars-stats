@@ -1,10 +1,10 @@
 # jellydn/typescript-tips - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 81
 
-★ Stars: 296
+★ Stars: 297
 
 [Open repository](https://github.com/jellydn/typescript-tips)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 297 | 81 | 
 | 2022-12-01 | 296 | 81 | 
 | 2022-11-30 | 294 | 81 | 
 | 2022-11-29 | 292 | 81 | 

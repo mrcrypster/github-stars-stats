@@ -1,6 +1,6 @@
 # razrabs-media/editorial - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 90 | 53 | 
 | 2022-12-01 | 90 | 53 | 
 | 2022-11-30 | 90 | 53 | 
 | 2022-11-29 | 90 | 53 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 88 | 50 | 
 | 2022-11-04 | 88 | 50 | 
 | 2022-11-03 | 87 | 50 | 
-| 2022-11-02 | 87 | 50 | 
 

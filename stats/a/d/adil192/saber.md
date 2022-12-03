@@ -1,10 +1,10 @@
 # adil192/saber - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 19
 
-★ Stars: 170
+★ Stars: 171
 
 [Open repository](https://github.com/adil192/saber)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 171 | 19 | 
 | 2022-12-01 | 170 | 19 | 
 | 2022-11-30 | 169 | 19 | 
 | 2022-11-29 | 165 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-06 | 66 | 7 | 
 | 2022-11-04 | 66 | 7 | 
 | 2022-11-03 | 66 | 7 | 
-| 2022-11-02 | 65 | 7 | 
 

@@ -1,6 +1,6 @@
 # mit-plv/fiat-crypto - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 143
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 514 | 143 | 
 | 2022-12-01 | 514 | 143 | 
 | 2022-11-30 | 514 | 143 | 
 | 2022-11-29 | 513 | 144 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 509 | 142 | 
 | 2022-11-04 | 509 | 142 | 
 | 2022-11-03 | 508 | 142 | 
-| 2022-11-02 | 506 | 142 | 
 

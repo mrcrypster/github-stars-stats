@@ -1,10 +1,10 @@
 # SciML/DeepEquilibriumNetworks.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 3
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/SciML/DeepEquilibriumNetworks.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 35 | 3 | 
 | 2022-12-01 | 34 | 3 | 
 | 2022-11-30 | 34 | 3 | 
 | 2022-11-29 | 34 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 34 | 3 | 
 | 2022-11-04 | 34 | 3 | 
 | 2022-11-03 | 34 | 3 | 
-| 2022-11-02 | 34 | 3 | 
 

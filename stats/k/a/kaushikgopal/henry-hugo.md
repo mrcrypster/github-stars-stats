@@ -1,6 +1,6 @@
 # kaushikgopal/henry-hugo - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 27 | 3 | 
 | 2022-12-02 | 27 | 3 | 
 | 2022-11-30 | 27 | 3 | 
 | 2022-11-29 | 27 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-05 | 25 | 1 | 
 | 2022-11-04 | 25 | 1 | 
 | 2022-11-03 | 24 | 1 | 
-| 2022-11-02 | 24 | 1 | 
 

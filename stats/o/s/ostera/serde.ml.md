@@ -1,10 +1,10 @@
 # ostera/serde.ml - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 0
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/ostera/serde.ml)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 27 | - | 
 | 2022-12-01 | 26 | - | 
 | 2022-11-30 | 26 | - | 
 | 2022-11-29 | 26 | - | 

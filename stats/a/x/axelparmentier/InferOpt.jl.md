@@ -1,10 +1,10 @@
 # axelparmentier/InferOpt.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 2
 
-★ Stars: 68
+★ Stars: 69
 
 [Open repository](https://github.com/axelparmentier/InferOpt.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 69 | 2 | 
 | 2022-12-01 | 68 | 2 | 
 | 2022-11-30 | 68 | 2 | 
 | 2022-11-29 | 68 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 66 | 2 | 
 | 2022-11-04 | 66 | 2 | 
 | 2022-11-03 | 65 | 2 | 
-| 2022-11-02 | 65 | 2 | 
 

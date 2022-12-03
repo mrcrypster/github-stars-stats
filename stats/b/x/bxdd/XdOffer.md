@@ -1,6 +1,6 @@
 # bxdd/XdOffer - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 85 | 3 | 
 | 2022-12-01 | 85 | 3 | 
 | 2022-11-30 | 85 | 3 | 
 | 2022-11-29 | 86 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-06 | 86 | 3 | 
 | 2022-11-05 | 86 | 3 | 
 | 2022-11-04 | 86 | 3 | 
-| 2022-11-03 | 86 | 3 | 
 

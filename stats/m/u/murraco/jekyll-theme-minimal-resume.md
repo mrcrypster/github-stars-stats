@@ -1,10 +1,10 @@
 # murraco/jekyll-theme-minimal-resume - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
-☋ Forks: 514
+☋ Forks: 515
 
-★ Stars: 410
+★ Stars: 411
 
 [Open repository](https://github.com/murraco/jekyll-theme-minimal-resume)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 411 | 515 | 
 | 2022-12-01 | 410 | 514 | 
 | 2022-11-30 | 409 | 514 | 
 | 2022-11-29 | 409 | 515 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 407 | 513 | 
 | 2022-11-04 | 407 | 515 | 
 | 2022-11-03 | 408 | 514 | 
-| 2022-11-02 | 407 | 514 | 
 

@@ -1,10 +1,10 @@
 # Alpha-Yang/CS-BAOYAN-2022 - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 191
 
-★ Stars: 926
+★ Stars: 927
 
 [Open repository](https://github.com/Alpha-Yang/CS-BAOYAN-2022)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 927 | 191 | 
 | 2022-12-01 | 926 | 191 | 
 | 2022-11-30 | 927 | 191 | 
 | 2022-11-29 | 926 | 192 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 915 | 191 | 
 | 2022-11-04 | 914 | 191 | 
 | 2022-11-03 | 914 | 191 | 
-| 2022-11-02 | 915 | 191 | 
 

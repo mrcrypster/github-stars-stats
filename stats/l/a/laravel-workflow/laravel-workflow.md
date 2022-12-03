@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 02
 
 ☋ Forks: 1
 
-★ Stars: 168
+★ Stars: 175
 
 [Open repository](https://github.com/laravel-workflow/laravel-workflow)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-02 | 168 | 1 | 
+| 2022-12-02 | 175 | 1 | 
 | 2022-12-01 | 164 | 1 | 
 

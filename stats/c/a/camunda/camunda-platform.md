@@ -1,10 +1,10 @@
 # camunda/camunda-platform - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
-☋ Forks: 81
+☋ Forks: 82
 
-★ Stars: 98
+★ Stars: 99
 
 [Open repository](https://github.com/camunda/camunda-platform)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 99 | 82 | 
 | 2022-12-01 | 98 | 81 | 
 | 2022-11-30 | 98 | 81 | 
 | 2022-11-29 | 98 | 81 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 91 | 75 | 
 | 2022-11-04 | 91 | 75 | 
 | 2022-11-03 | 91 | 74 | 
-| 2022-11-02 | 91 | 75 | 
 

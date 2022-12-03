@@ -1,8 +1,8 @@
 # SauravMukherjee44/CodeIN-Community-Website - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
-☋ Forks: 425
+☋ Forks: 426
 
 ★ Stars: 155
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 155 | 426 | 
 | 2022-12-01 | 155 | 425 | 
 | 2022-11-30 | 155 | 425 | 
 | 2022-11-29 | 155 | 425 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 156 | 432 | 
 | 2022-11-04 | 156 | 432 | 
 | 2022-11-03 | 154 | 433 | 
-| 2022-11-02 | 155 | 435 | 
 

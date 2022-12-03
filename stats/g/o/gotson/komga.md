@@ -1,6 +1,6 @@
 # gotson/komga - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 128
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 1789 | 128 | 
 | 2022-12-02 | 1789 | 128 | 
 | 2022-11-30 | 1790 | 128 | 
 | 2022-11-29 | 1788 | 128 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-05 | 1734 | 126 | 
 | 2022-11-04 | 1731 | 126 | 
 | 2022-11-03 | 1732 | 126 | 
-| 2022-11-02 | 1727 | 125 | 
 

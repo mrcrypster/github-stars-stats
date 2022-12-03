@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 02
 
-☋ Forks: 17
+☋ Forks: 18
 
-★ Stars: 333
+★ Stars: 335
 
 [Open repository](https://github.com/nuxt-themes/docus)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-02 | 333 | 17 | 
+| 2022-12-02 | 335 | 18 | 
 | 2022-12-01 | 333 | 17 | 
 | 2022-11-30 | 330 | 15 | 
 | 2022-11-29 | 322 | 14 | 

@@ -1,6 +1,6 @@
 # amitxv/EVA - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 138 | 24 | 
 | 2022-12-01 | 138 | 24 | 
 | 2022-11-30 | 138 | 24 | 
 | 2022-11-29 | 138 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 122 | 23 | 
 | 2022-11-04 | 121 | 23 | 
 | 2022-11-03 | 121 | 23 | 
-| 2022-11-02 | 121 | 23 | 
 

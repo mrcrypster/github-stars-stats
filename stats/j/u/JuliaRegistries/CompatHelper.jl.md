@@ -1,10 +1,10 @@
 # JuliaRegistries/CompatHelper.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
-☋ Forks: 38
+☋ Forks: 39
 
-★ Stars: 122
+★ Stars: 123
 
 [Open repository](https://github.com/JuliaRegistries/CompatHelper.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 123 | 39 | 
 | 2022-12-01 | 122 | 38 | 
 | 2022-11-30 | 122 | 38 | 
 | 2022-11-29 | 122 | 38 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 119 | 38 | 
 | 2022-11-04 | 119 | 38 | 
 | 2022-11-03 | 119 | 38 | 
-| 2022-11-02 | 119 | 38 | 
 

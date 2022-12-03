@@ -1,10 +1,10 @@
 # spatie/laravel-ignition - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 37
 
-★ Stars: 252
+★ Stars: 253
 
 [Open repository](https://github.com/spatie/laravel-ignition)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 253 | 37 | 
 | 2022-12-01 | 252 | 37 | 
 | 2022-11-30 | 251 | 37 | 
 | 2022-11-29 | 251 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 245 | 35 | 
 | 2022-11-04 | 243 | 35 | 
 | 2022-11-03 | 242 | 35 | 
-| 2022-11-02 | 242 | 35 | 
 

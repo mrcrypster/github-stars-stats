@@ -1,6 +1,6 @@
 # HavocFramework/Modules - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 84 | 18 | 
 | 2022-12-01 | 84 | 18 | 
 | 2022-11-30 | 84 | 18 | 
 | 2022-11-29 | 84 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-06 | 83 | 18 | 
 | 2022-11-05 | 83 | 18 | 
 | 2022-11-04 | 83 | 18 | 
-| 2022-11-02 | 83 | 18 | 
 

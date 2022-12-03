@@ -1,6 +1,6 @@
 # GhostPack/DeepPass - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 113 | 20 | 
 | 2022-12-01 | 113 | 20 | 
 | 2022-11-30 | 112 | 20 | 
 | 2022-11-29 | 112 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 109 | 20 | 
 | 2022-11-04 | 109 | 20 | 
 | 2022-11-03 | 109 | 20 | 
-| 2022-11-02 | 109 | 20 | 
 

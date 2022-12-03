@@ -1,10 +1,10 @@
 # skeletonlabs/skeleton - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 42
 
-★ Stars: 569
+★ Stars: 595
 
 [Open repository](https://github.com/skeletonlabs/skeleton)
 
@@ -13,7 +13,8 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-02 | 569 | 42 | 
+| 2022-12-03 | 595 | 42 | 
+| 2022-12-02 | 591 | 42 | 
 | 2022-12-01 | 569 | 42 | 
 | 2022-11-30 | 563 | 43 | 
 | 2022-11-29 | 553 | 42 | 

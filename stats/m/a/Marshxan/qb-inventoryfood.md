@@ -1,6 +1,6 @@
 # Marshxan/qb-inventoryfood - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 21 | 9 | 
 | 2022-12-01 | 21 | 9 | 
 | 2022-11-30 | 21 | 9 | 
 | 2022-11-29 | 21 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 19 | 8 | 
 | 2022-11-04 | 19 | 8 | 
 | 2022-11-03 | 19 | 7 | 
-| 2022-11-02 | 17 | 7 | 
 

@@ -1,10 +1,10 @@
 # LordOfTrident/pas-wpm - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 0
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/LordOfTrident/pas-wpm)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 13 | - | 
 | 2022-12-01 | 12 | - | 
 | 2022-11-30 | 12 | - | 
 | 2022-11-29 | 12 | - | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 12 | - | 
 | 2022-11-04 | 12 | - | 
 | 2022-11-03 | 12 | - | 
-| 2022-11-02 | 12 | - | 
 

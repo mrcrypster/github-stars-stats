@@ -1,10 +1,10 @@
 # aiven/devportal - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 42
 
-★ Stars: 39
+★ Stars: 40
 
 [Open repository](https://github.com/aiven/devportal)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 40 | 42 | 
 | 2022-12-01 | 39 | 42 | 
 | 2022-11-30 | 39 | 42 | 
 | 2022-11-29 | 38 | 41 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 34 | 38 | 
 | 2022-11-04 | 34 | 38 | 
 | 2022-11-03 | 33 | 38 | 
-| 2022-11-02 | 33 | 38 | 
 

@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 02
 
 ☋ Forks: 5
 
-★ Stars: 211
+★ Stars: 220
 
 [Open repository](https://github.com/0xhiro/thebook)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-02 | 211 | 5 | 
+| 2022-12-02 | 220 | 5 | 
 | 2022-12-01 | 208 | 5 | 
 

@@ -1,10 +1,10 @@
 # HackSoftware/Django-Styleguide - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 303
 
-★ Stars: 2399
+★ Stars: 2406
 
 [Open repository](https://github.com/HackSoftware/Django-Styleguide)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 2406 | 303 | 
 | 2022-12-01 | 2399 | 303 | 
 | 2022-11-30 | 2398 | 303 | 
 | 2022-11-29 | 2393 | 303 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 2332 | 291 | 
 | 2022-11-04 | 2330 | 288 | 
 | 2022-11-03 | 2326 | 288 | 
-| 2022-11-02 | 2324 | 289 | 
 

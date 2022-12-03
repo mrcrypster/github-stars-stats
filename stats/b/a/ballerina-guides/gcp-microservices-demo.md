@@ -1,10 +1,10 @@
 # ballerina-guides/gcp-microservices-demo - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 23
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/ballerina-guides/gcp-microservices-demo)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 7 | 23 | 
 | 2022-12-01 | 6 | 23 | 
 | 2022-11-30 | 6 | 23 | 
 | 2022-11-29 | 6 | 22 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 5 | 6 | 
 | 2022-11-04 | 5 | 6 | 
 | 2022-11-03 | 5 | 6 | 
-| 2022-11-02 | 5 | 6 | 
 

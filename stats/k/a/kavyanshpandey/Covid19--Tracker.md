@@ -1,6 +1,6 @@
 # kavyanshpandey/Covid19--Tracker - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 321
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 19 | 321 | 
 | 2022-12-01 | 19 | 321 | 
 | 2022-11-30 | 19 | 321 | 
 | 2022-11-29 | 19 | 321 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 19 | 322 | 
 | 2022-11-04 | 19 | 322 | 
 | 2022-11-03 | 19 | 323 | 
-| 2022-11-02 | 19 | 323 | 
 

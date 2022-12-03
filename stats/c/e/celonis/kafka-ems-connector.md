@@ -1,6 +1,6 @@
 # celonis/kafka-ems-connector - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 36 | 1 | 
 | 2022-12-01 | 36 | 1 | 
 | 2022-11-30 | 36 | 1 | 
 | 2022-11-29 | 36 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-06 | 36 | - | 
 | 2022-11-05 | 36 | - | 
 | 2022-11-04 | 36 | - | 
-| 2022-11-03 | 36 | - | 
 

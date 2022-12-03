@@ -1,6 +1,6 @@
 # minio/operator - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 355
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 848 | 355 | 
 | 2022-12-01 | 848 | 355 | 
 | 2022-11-30 | 846 | 355 | 
 | 2022-11-29 | 845 | 355 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 834 | 344 | 
 | 2022-11-04 | 834 | 343 | 
 | 2022-11-03 | 834 | 342 | 
-| 2022-11-02 | 834 | 341 | 
 

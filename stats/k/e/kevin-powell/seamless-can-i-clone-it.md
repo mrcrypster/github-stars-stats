@@ -1,10 +1,10 @@
 # kevin-powell/seamless-can-i-clone-it - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 12
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/kevin-powell/seamless-can-i-clone-it)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 37 | 12 | 
 | 2022-12-01 | 36 | 12 | 
 | 2022-11-30 | 36 | 12 | 
 | 2022-11-29 | 36 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 35 | 12 | 
 | 2022-11-04 | 35 | 12 | 
 | 2022-11-03 | 35 | 12 | 
-| 2022-11-02 | 35 | 12 | 
 

@@ -1,6 +1,6 @@
 # ReFil/zmk-config - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 288
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 13 | 288 | 
 | 2022-12-01 | 13 | 288 | 
 | 2022-11-30 | 13 | 288 | 
 | 2022-11-29 | 13 | 288 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 13 | 284 | 
 | 2022-11-04 | 13 | 284 | 
 | 2022-11-03 | 13 | 284 | 
-| 2022-11-02 | 13 | 283 | 
 

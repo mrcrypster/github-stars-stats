@@ -1,6 +1,6 @@
 # AlexMKX/mrvpn - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 141 | 13 | 
 | 2022-12-01 | 141 | 13 | 
 | 2022-11-30 | 141 | 13 | 
 | 2022-11-29 | 141 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 141 | 12 | 
 | 2022-11-04 | 141 | 11 | 
 | 2022-11-03 | 141 | 11 | 
-| 2022-11-02 | 141 | 11 | 
 

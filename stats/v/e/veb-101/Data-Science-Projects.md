@@ -1,10 +1,10 @@
 # veb-101/Data-Science-Projects - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
-☋ Forks: 228
+☋ Forks: 229
 
-★ Stars: 622
+★ Stars: 625
 
 [Open repository](https://github.com/veb-101/Data-Science-Projects)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 625 | 229 | 
 | 2022-12-01 | 622 | 228 | 
 | 2022-11-30 | 621 | 228 | 
 | 2022-11-29 | 620 | 228 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 608 | 224 | 
 | 2022-11-04 | 607 | 224 | 
 | 2022-11-03 | 606 | 224 | 
-| 2022-11-02 | 605 | 224 | 
 

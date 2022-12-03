@@ -1,10 +1,10 @@
 # AllenDowney/ThinkDataStructures - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
-☋ Forks: 1109
+☋ Forks: 1110
 
-★ Stars: 459
+★ Stars: 460
 
 [Open repository](https://github.com/AllenDowney/ThinkDataStructures)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 460 | 1110 | 
 | 2022-12-01 | 459 | 1109 | 
 | 2022-11-30 | 459 | 1109 | 
 | 2022-11-29 | 459 | 1108 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 457 | 1098 | 
 | 2022-11-04 | 457 | 1096 | 
 | 2022-11-03 | 457 | 1096 | 
-| 2022-11-02 | 457 | 1096 | 
 

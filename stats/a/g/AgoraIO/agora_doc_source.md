@@ -1,10 +1,10 @@
 # AgoraIO/agora_doc_source - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 14
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/AgoraIO/agora_doc_source)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 7 | 14 | 
 | 2022-12-01 | 6 | 14 | 
 | 2022-11-30 | 6 | 14 | 
 | 2022-11-29 | 6 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 3 | 12 | 
 | 2022-11-04 | 3 | 12 | 
 | 2022-11-03 | 3 | 12 | 
-| 2022-11-02 | 3 | 12 | 
 

@@ -1,8 +1,8 @@
 # bigfangfang/IBMVPS - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
-☋ Forks: 1223
+☋ Forks: 1224
 
 ★ Stars: 370
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 370 | 1224 | 
 | 2022-12-01 | 370 | 1223 | 
 | 2022-11-30 | 370 | 1223 | 
 | 2022-11-29 | 370 | 1223 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 371 | 1226 | 
 | 2022-11-04 | 371 | 1226 | 
 | 2022-11-03 | 371 | 1226 | 
-| 2022-11-02 | 371 | 1226 | 
 

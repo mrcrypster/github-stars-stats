@@ -1,10 +1,10 @@
 # Grafikart/FileManagerJS - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
-☋ Forks: 11
+☋ Forks: 12
 
-★ Stars: 61
+★ Stars: 62
 
 [Open repository](https://github.com/Grafikart/FileManagerJS)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 62 | 12 | 
 | 2022-12-01 | 61 | 11 | 
 | 2022-11-30 | 61 | 11 | 
 | 2022-11-29 | 61 | 11 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 61 | 11 | 
 | 2022-11-04 | 61 | 11 | 
 | 2022-11-03 | 61 | 11 | 
-| 2022-11-02 | 61 | 11 | 
 

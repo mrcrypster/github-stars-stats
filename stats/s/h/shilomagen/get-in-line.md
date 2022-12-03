@@ -1,6 +1,6 @@
 # shilomagen/get-in-line - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 87 | 13 | 
 | 2022-12-01 | 87 | 13 | 
 | 2022-11-30 | 87 | 13 | 
 | 2022-11-29 | 87 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 87 | 14 | 
 | 2022-11-04 | 87 | 14 | 
 | 2022-11-03 | 87 | 14 | 
-| 2022-11-02 | 87 | 14 | 
 

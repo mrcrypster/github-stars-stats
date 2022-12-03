@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 02
 
 ☋ Forks: 347
 
-★ Stars: 9372
+★ Stars: 9373
 
 [Open repository](https://github.com/tmux-plugins/tmux-resurrect)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-02 | 9372 | 347 | 
+| 2022-12-02 | 9373 | 347 | 
 | 2022-12-01 | 9372 | 347 | 
 | 2022-11-30 | 9349 | 347 | 
 | 2022-11-29 | 9345 | 347 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-05 | 9287 | 345 | 
 | 2022-11-04 | 9285 | 345 | 
 | 2022-11-03 | 9282 | 345 | 
-| 2022-11-02 | 9280 | 345 | 
 

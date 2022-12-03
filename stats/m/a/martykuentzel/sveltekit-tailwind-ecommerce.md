@@ -1,10 +1,10 @@
 # martykuentzel/sveltekit-tailwind-ecommerce - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 6
 
-★ Stars: 39
+★ Stars: 40
 
 [Open repository](https://github.com/martykuentzel/sveltekit-tailwind-ecommerce)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 40 | 6 | 
 | 2022-12-01 | 39 | 6 | 
 | 2022-11-30 | 39 | 6 | 
 | 2022-11-29 | 38 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 36 | 7 | 
 | 2022-11-04 | 36 | 7 | 
 | 2022-11-03 | 36 | 7 | 
-| 2022-11-02 | 36 | 7 | 
 

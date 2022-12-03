@@ -1,10 +1,10 @@
 # DrWaleedAYousef/Teaching - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 292
 
-★ Stars: 800
+★ Stars: 799
 
 [Open repository](https://github.com/DrWaleedAYousef/Teaching)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 799 | 292 | 
 | 2022-12-01 | 800 | 292 | 
 | 2022-11-30 | 800 | 292 | 
 | 2022-11-29 | 800 | 293 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 794 | 290 | 
 | 2022-11-04 | 791 | 290 | 
 | 2022-11-03 | 791 | 290 | 
-| 2022-11-02 | 791 | 290 | 
 

@@ -1,6 +1,6 @@
 # mvr/at - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 53 | 1 | 
 | 2022-12-01 | 53 | 1 | 
 | 2022-11-30 | 53 | 1 | 
 | 2022-11-29 | 53 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 50 | 1 | 
 | 2022-11-04 | 50 | 1 | 
 | 2022-11-03 | 50 | 1 | 
-| 2022-11-02 | 50 | 1 | 
 

@@ -1,6 +1,6 @@
 # Kinnara/ModernWpf - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 371
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 3355 | 371 | 
 | 2022-12-01 | 3355 | 371 | 
 | 2022-11-30 | 3353 | 371 | 
 | 2022-11-29 | 3350 | 371 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 3302 | 368 | 
 | 2022-11-04 | 3298 | 368 | 
 | 2022-11-03 | 3294 | 368 | 
-| 2022-11-02 | 3293 | 368 | 
 

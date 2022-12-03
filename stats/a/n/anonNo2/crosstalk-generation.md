@@ -1,6 +1,6 @@
 # anonNo2/crosstalk-generation - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 149 | 17 | 
 | 2022-12-01 | 149 | 17 | 
 | 2022-11-30 | 149 | 17 | 
 | 2022-11-29 | 149 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 148 | 17 | 
 | 2022-11-04 | 148 | 17 | 
 | 2022-11-03 | 147 | 17 | 
-| 2022-11-02 | 147 | 17 | 
 

@@ -1,10 +1,10 @@
 # endoflife-date/endoflife.date - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 313
 
-★ Stars: 1169
+★ Stars: 1175
 
 [Open repository](https://github.com/endoflife-date/endoflife.date)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 1175 | 313 | 
 | 2022-12-01 | 1169 | 313 | 
 | 2022-11-30 | 1159 | 311 | 
 | 2022-11-29 | 1158 | 310 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 1116 | 304 | 
 | 2022-11-04 | 1115 | 304 | 
 | 2022-11-03 | 1113 | 303 | 
-| 2022-11-02 | 1112 | 303 | 
 

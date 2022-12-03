@@ -1,10 +1,10 @@
 # mxe/mxe - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 491
 
-★ Stars: 1023
+★ Stars: 1024
 
 [Open repository](https://github.com/mxe/mxe)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 1024 | 491 | 
 | 2022-12-01 | 1023 | 491 | 
 | 2022-11-30 | 1023 | 491 | 
 | 2022-11-29 | 1022 | 491 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 1019 | 491 | 
 | 2022-11-04 | 1019 | 491 | 
 | 2022-11-03 | 1019 | 491 | 
-| 2022-11-02 | 1019 | 491 | 
 

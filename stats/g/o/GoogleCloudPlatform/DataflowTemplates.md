@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/DataflowTemplates - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 725
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 921 | 725 | 
 | 2022-12-01 | 921 | 725 | 
 | 2022-11-30 | 920 | 725 | 
 | 2022-11-29 | 920 | 725 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 913 | 713 | 
 | 2022-11-04 | 912 | 712 | 
 | 2022-11-03 | 911 | 712 | 
-| 2022-11-02 | 911 | 709 | 
 

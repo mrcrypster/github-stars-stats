@@ -1,10 +1,10 @@
 # openstreetmap/openstreetmap-website - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
-☋ Forks: 806
+☋ Forks: 807
 
-★ Stars: 1613
+★ Stars: 1615
 
 [Open repository](https://github.com/openstreetmap/openstreetmap-website)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 1615 | 807 | 
 | 2022-12-01 | 1613 | 806 | 
 | 2022-11-30 | 1611 | 806 | 
 | 2022-11-29 | 1608 | 806 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 1591 | 800 | 
 | 2022-11-04 | 1589 | 800 | 
 | 2022-11-03 | 1589 | 800 | 
-| 2022-11-02 | 1589 | 800 | 
 

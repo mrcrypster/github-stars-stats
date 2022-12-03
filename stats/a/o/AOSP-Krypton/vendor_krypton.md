@@ -1,6 +1,6 @@
 # AOSP-Krypton/vendor_krypton - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 2 | 5 | 
 | 2022-12-02 | 2 | 5 | 
 | 2022-11-30 | 2 | 5 | 
 | 2022-11-29 | 2 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 2 | 5 | 
 | 2022-11-05 | 2 | 5 | 
 | 2022-11-04 | 2 | 5 | 
-| 2022-11-03 | 2 | 5 | 
 

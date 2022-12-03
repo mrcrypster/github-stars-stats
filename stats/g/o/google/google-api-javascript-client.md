@@ -1,8 +1,8 @@
 # google/google-api-javascript-client - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
-☋ Forks: 1023
+☋ Forks: 1026
 
 ★ Stars: 2530
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 2530 | 1026 | 
 | 2022-12-01 | 2530 | 1023 | 
 | 2022-11-30 | 2528 | 1023 | 
 | 2022-11-29 | 2526 | 1023 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 2495 | 1014 | 
 | 2022-11-04 | 2493 | 1014 | 
 | 2022-11-03 | 2492 | 1013 | 
-| 2022-11-02 | 2491 | 1013 | 
 

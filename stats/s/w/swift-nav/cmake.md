@@ -1,8 +1,8 @@
 # swift-nav/cmake - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
-☋ Forks: 3
+☋ Forks: 4
 
 ★ Stars: 14
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 14 | 4 | 
 | 2022-12-01 | 14 | 3 | 
 | 2022-11-30 | 14 | 3 | 
 | 2022-11-29 | 14 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 14 | 3 | 
 | 2022-11-04 | 14 | 3 | 
 | 2022-11-03 | 14 | 3 | 
-| 2022-11-02 | 14 | 3 | 
 

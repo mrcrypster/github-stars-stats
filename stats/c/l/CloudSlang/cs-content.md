@@ -1,10 +1,10 @@
 # CloudSlang/cs-content - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 183
 
-★ Stars: 71
+★ Stars: 72
 
 [Open repository](https://github.com/CloudSlang/cs-content)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 72 | 183 | 
 | 2022-12-01 | 71 | 183 | 
 | 2022-11-30 | 71 | 183 | 
 | 2022-11-29 | 71 | 183 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 70 | 182 | 
 | 2022-11-04 | 70 | 182 | 
 | 2022-11-03 | 70 | 182 | 
-| 2022-11-02 | 70 | 182 | 
 

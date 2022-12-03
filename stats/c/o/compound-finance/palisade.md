@@ -1,10 +1,10 @@
 # compound-finance/palisade - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 55
 
-★ Stars: 72
+★ Stars: 73
 
 [Open repository](https://github.com/compound-finance/palisade)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 73 | 55 | 
 | 2022-12-01 | 72 | 55 | 
 | 2022-11-30 | 72 | 55 | 
 | 2022-11-29 | 72 | 55 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 69 | 55 | 
 | 2022-11-04 | 69 | 55 | 
 | 2022-11-03 | 69 | 55 | 
-| 2022-11-02 | 69 | 54 | 
 

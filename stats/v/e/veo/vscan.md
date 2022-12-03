@@ -1,10 +1,10 @@
 # veo/vscan - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
-☋ Forks: 172
+☋ Forks: 173
 
-★ Stars: 905
+★ Stars: 906
 
 [Open repository](https://github.com/veo/vscan)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 906 | 173 | 
 | 2022-12-01 | 905 | 172 | 
 | 2022-11-30 | 903 | 172 | 
 | 2022-11-29 | 902 | 172 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 876 | 169 | 
 | 2022-11-04 | 876 | 169 | 
 | 2022-11-03 | 874 | 169 | 
-| 2022-11-02 | 874 | 168 | 
 

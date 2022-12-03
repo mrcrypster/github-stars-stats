@@ -1,6 +1,6 @@
 # Skalas/nosql2022 - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 4 | 12 | 
 | 2022-12-01 | 4 | 12 | 
 | 2022-11-30 | 4 | 12 | 
 | 2022-11-29 | 4 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 4 | 12 | 
 | 2022-11-04 | 4 | 12 | 
 | 2022-11-03 | 4 | 11 | 
-| 2022-11-02 | 4 | 11 | 
 

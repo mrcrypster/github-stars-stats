@@ -1,10 +1,10 @@
 # RajSolai/TextSnatcher - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 22
 
-★ Stars: 373
+★ Stars: 375
 
 [Open repository](https://github.com/RajSolai/TextSnatcher)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 375 | 22 | 
 | 2022-12-01 | 373 | 22 | 
 | 2022-11-30 | 372 | 22 | 
 | 2022-11-29 | 371 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 334 | 21 | 
 | 2022-11-04 | 334 | 21 | 
 | 2022-11-03 | 334 | 21 | 
-| 2022-11-02 | 333 | 21 | 
 

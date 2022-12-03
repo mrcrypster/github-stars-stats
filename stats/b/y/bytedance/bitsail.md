@@ -1,10 +1,10 @@
 # bytedance/bitsail - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
-☋ Forks: 189
+☋ Forks: 190
 
-★ Stars: 1092
+★ Stars: 1093
 
 [Open repository](https://github.com/bytedance/bitsail)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 1093 | 190 | 
 | 2022-12-01 | 1092 | 189 | 
 | 2022-11-30 | 1092 | 188 | 
 | 2022-11-29 | 1091 | 187 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 941 | 142 | 
 | 2022-11-04 | 927 | 140 | 
 | 2022-11-03 | 902 | 134 | 
-| 2022-11-02 | 881 | 131 | 
 

@@ -1,8 +1,8 @@
 # stripe/stripe-android - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
-☋ Forks: 565
+☋ Forks: 566
 
 ★ Stars: 1020
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 1020 | 566 | 
 | 2022-12-01 | 1020 | 565 | 
 | 2022-11-30 | 1019 | 564 | 
 | 2022-11-29 | 1019 | 564 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 1016 | 560 | 
 | 2022-11-04 | 1016 | 560 | 
 | 2022-11-03 | 1016 | 560 | 
-| 2022-11-02 | 1015 | 560 | 
 

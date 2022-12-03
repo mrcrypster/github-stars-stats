@@ -1,10 +1,10 @@
 # wangrongding/frontend-park - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 75
 
-★ Stars: 143
+★ Stars: 148
 
 [Open repository](https://github.com/wangrongding/frontend-park)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 148 | 75 | 
 | 2022-12-01 | 143 | 75 | 
 | 2022-11-30 | 135 | 74 | 
 | 2022-11-29 | 134 | 73 | 

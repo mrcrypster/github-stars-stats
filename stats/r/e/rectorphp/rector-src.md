@@ -1,6 +1,6 @@
 # rectorphp/rector-src - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 219
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 58 | 219 | 
 | 2022-12-01 | 58 | 219 | 
 | 2022-11-30 | 58 | 219 | 
 | 2022-11-29 | 57 | 218 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 55 | 207 | 
 | 2022-11-04 | 55 | 207 | 
 | 2022-11-03 | 55 | 207 | 
-| 2022-11-02 | 55 | 206 | 
 

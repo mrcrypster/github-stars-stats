@@ -1,6 +1,6 @@
 # praeclarum/Iril - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 83 | 7 | 
 | 2022-12-01 | 83 | 7 | 
 | 2022-11-30 | 83 | 7 | 
 | 2022-11-29 | 83 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-06 | 82 | 7 | 
 | 2022-11-05 | 82 | 7 | 
 | 2022-11-04 | 82 | 7 | 
-| 2022-11-03 | 82 | 7 | 
 

@@ -1,10 +1,10 @@
 # tj/git-extras - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
-☋ Forks: 1195
+☋ Forks: 1196
 
-★ Stars: 15969
+★ Stars: 15975
 
 [Open repository](https://github.com/tj/git-extras)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 15975 | 1196 | 
 | 2022-12-01 | 15969 | 1195 | 
 | 2022-11-30 | 15962 | 1194 | 
 | 2022-11-29 | 15959 | 1194 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 15904 | 1189 | 
 | 2022-11-04 | 15900 | 1189 | 
 | 2022-11-03 | 15895 | 1189 | 
-| 2022-11-02 | 15892 | 1189 | 
 

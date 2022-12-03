@@ -1,6 +1,6 @@
 # feralvam/easse - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 118 | 33 | 
 | 2022-12-01 | 118 | 33 | 
 | 2022-11-30 | 118 | 33 | 
 | 2022-11-29 | 118 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-06 | 115 | 32 | 
 | 2022-11-04 | 115 | 32 | 
 | 2022-11-03 | 114 | 31 | 
-| 2022-11-02 | 113 | 31 | 
 

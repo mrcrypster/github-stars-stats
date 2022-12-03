@@ -1,8 +1,8 @@
 # ardanlabs/gotraining - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
-☋ Forks: 2073
+☋ Forks: 2074
 
 ★ Stars: 10994
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 10994 | 2074 | 
 | 2022-12-01 | 10994 | 2073 | 
 | 2022-11-30 | 10993 | 2071 | 
 | 2022-11-29 | 10989 | 2070 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-06 | 10857 | 2062 | 
 | 2022-11-05 | 10854 | 2061 | 
 | 2022-11-04 | 10854 | 2063 | 
-| 2022-11-03 | 10850 | 2061 | 
 

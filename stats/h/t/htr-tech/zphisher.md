@@ -1,10 +1,10 @@
 # htr-tech/zphisher - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
-☋ Forks: 2391
+☋ Forks: 2392
 
-★ Stars: 6530
+★ Stars: 6538
 
 [Open repository](https://github.com/htr-tech/zphisher)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 6538 | 2392 | 
 | 2022-12-01 | 6530 | 2391 | 
 | 2022-11-30 | 6525 | 2389 | 
 | 2022-11-29 | 6518 | 2388 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 6409 | 2346 | 
 | 2022-11-04 | 6400 | 2342 | 
 | 2022-11-03 | 6396 | 2340 | 
-| 2022-11-02 | 6392 | 2339 | 
 

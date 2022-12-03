@@ -1,10 +1,10 @@
 # MirzaBeig/Post-Processing-Scan - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 65
 
-★ Stars: 472
+★ Stars: 473
 
 [Open repository](https://github.com/MirzaBeig/Post-Processing-Scan)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 473 | 65 | 
 | 2022-12-01 | 472 | 65 | 
 | 2022-11-30 | 472 | 65 | 
 | 2022-11-29 | 472 | 65 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-06 | 463 | 60 | 
 | 2022-11-05 | 463 | 60 | 
 | 2022-11-03 | 462 | 60 | 
-| 2022-11-02 | 461 | 60 | 
 

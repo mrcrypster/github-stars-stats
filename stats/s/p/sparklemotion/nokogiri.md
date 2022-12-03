@@ -1,6 +1,6 @@
 # sparklemotion/nokogiri - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 892
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 5934 | 892 | 
 | 2022-12-01 | 5934 | 892 | 
 | 2022-11-30 | 5934 | 892 | 
 | 2022-11-29 | 5934 | 892 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 5923 | 893 | 
 | 2022-11-04 | 5922 | 893 | 
 | 2022-11-03 | 5921 | 893 | 
-| 2022-11-02 | 5919 | 893 | 
 

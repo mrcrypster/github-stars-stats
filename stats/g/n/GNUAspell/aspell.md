@@ -1,6 +1,6 @@
 # GNUAspell/aspell - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 200 | 50 | 
 | 2022-12-01 | 200 | 50 | 
 | 2022-11-30 | 199 | 50 | 
 | 2022-11-29 | 199 | 50 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 195 | 49 | 
 | 2022-11-04 | 196 | 49 | 
 | 2022-11-03 | 197 | 49 | 
-| 2022-11-02 | 197 | 49 | 
 

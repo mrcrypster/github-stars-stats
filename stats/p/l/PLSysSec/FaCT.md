@@ -1,6 +1,6 @@
 # PLSysSec/FaCT - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 188 | 12 | 
 | 2022-12-01 | 188 | 12 | 
 | 2022-11-30 | 187 | 12 | 
 | 2022-11-29 | 187 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 185 | 13 | 
 | 2022-11-04 | 185 | 13 | 
 | 2022-11-03 | 185 | 13 | 
-| 2022-11-02 | 185 | 13 | 
 

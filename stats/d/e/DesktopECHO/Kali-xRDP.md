@@ -1,6 +1,6 @@
 # DesktopECHO/Kali-xRDP - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 231
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 27 | 231 | 
 | 2022-12-01 | 27 | 231 | 
 | 2022-11-30 | 27 | 231 | 
 | 2022-11-29 | 26 | 231 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 26 | 224 | 
 | 2022-11-04 | 26 | 223 | 
 | 2022-11-03 | 26 | 223 | 
-| 2022-11-02 | 26 | 223 | 
 

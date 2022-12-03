@@ -1,10 +1,10 @@
 # AlexisAhmed/BugBountyToolkit - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 243
 
-★ Stars: 799
+★ Stars: 800
 
 [Open repository](https://github.com/AlexisAhmed/BugBountyToolkit)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 800 | 243 | 
 | 2022-12-01 | 799 | 243 | 
 | 2022-11-30 | 799 | 243 | 
 | 2022-11-29 | 797 | 243 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 778 | 241 | 
 | 2022-11-04 | 778 | 241 | 
 | 2022-11-03 | 777 | 241 | 
-| 2022-11-02 | 776 | 241 | 
 

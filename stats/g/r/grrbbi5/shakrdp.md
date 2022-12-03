@@ -1,8 +1,8 @@
 # grrbbi5/shakrdp - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
-☋ Forks: 216
+☋ Forks: 219
 
 ★ Stars: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 4 | 219 | 
 | 2022-12-01 | 4 | 216 | 
 | 2022-11-30 | 4 | 214 | 
 | 2022-11-29 | 4 | 211 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 1 | 143 | 
 | 2022-11-04 | 1 | 135 | 
 | 2022-11-03 | 1 | 124 | 
-| 2022-11-02 | 1 | 117 | 
 

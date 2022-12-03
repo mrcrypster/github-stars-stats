@@ -1,6 +1,6 @@
 # alexbieber/Bug_Bounty_writeups - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 89
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 610 | 89 | 
 | 2022-12-01 | 610 | 89 | 
 | 2022-11-30 | 610 | 89 | 
 | 2022-11-29 | 610 | 89 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 600 | 88 | 
 | 2022-11-04 | 600 | 88 | 
 | 2022-11-03 | 599 | 88 | 
-| 2022-11-02 | 599 | 88 | 
 

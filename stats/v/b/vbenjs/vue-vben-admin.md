@@ -1,10 +1,10 @@
 # vbenjs/vue-vben-admin - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
-☋ Forks: 4205
+☋ Forks: 4212
 
-★ Stars: 15123
+★ Stars: 15132
 
 [Open repository](https://github.com/vbenjs/vue-vben-admin)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 15132 | 4212 | 
 | 2022-12-01 | 15123 | 4205 | 
 | 2022-11-30 | 15095 | 4198 | 
 | 2022-11-29 | 15083 | 4194 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 14700 | 4072 | 
 | 2022-11-04 | 14688 | 4064 | 
 | 2022-11-03 | 14669 | 4062 | 
-| 2022-11-02 | 14655 | 4057 | 
 

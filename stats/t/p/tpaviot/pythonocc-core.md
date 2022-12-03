@@ -1,10 +1,10 @@
 # tpaviot/pythonocc-core - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 297
 
-★ Stars: 928
+★ Stars: 929
 
 [Open repository](https://github.com/tpaviot/pythonocc-core)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 929 | 297 | 
 | 2022-12-01 | 928 | 297 | 
 | 2022-11-30 | 929 | 297 | 
 | 2022-11-29 | 928 | 297 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 916 | 293 | 
 | 2022-11-04 | 916 | 293 | 
 | 2022-11-03 | 916 | 293 | 
-| 2022-11-02 | 913 | 293 | 
 

@@ -1,6 +1,6 @@
 # perfectsense/training - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 15 | 21 | 
 | 2022-12-01 | 15 | 21 | 
 | 2022-11-30 | 15 | 21 | 
 | 2022-11-29 | 15 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 14 | 21 | 
 | 2022-11-04 | 14 | 21 | 
 | 2022-11-03 | 14 | 20 | 
-| 2022-11-02 | 14 | 20 | 
 

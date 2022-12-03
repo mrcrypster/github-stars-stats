@@ -1,6 +1,6 @@
 # purescript-contrib/purescript-argonaut-traversals - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 10 | 16 | 
 | 2022-12-01 | 10 | 16 | 
 | 2022-11-30 | 10 | 16 | 
 | 2022-11-29 | 10 | 16 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 10 | 16 | 
 | 2022-11-04 | 10 | 16 | 
 | 2022-11-03 | 10 | 16 | 
-| 2022-11-02 | 10 | 16 | 
 

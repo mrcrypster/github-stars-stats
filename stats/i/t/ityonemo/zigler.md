@@ -1,6 +1,6 @@
 # ityonemo/zigler - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 458 | 29 | 
 | 2022-12-01 | 458 | 29 | 
 | 2022-11-30 | 458 | 29 | 
 | 2022-11-29 | 457 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-06 | 443 | 29 | 
 | 2022-11-05 | 442 | 29 | 
 | 2022-11-04 | 442 | 29 | 
-| 2022-11-03 | 442 | 29 | 
 

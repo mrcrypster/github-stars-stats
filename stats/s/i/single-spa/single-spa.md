@@ -1,10 +1,10 @@
 # single-spa/single-spa - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
-☋ Forks: 850
+☋ Forks: 849
 
-★ Stars: 11886
+★ Stars: 11891
 
 [Open repository](https://github.com/single-spa/single-spa)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 11891 | 849 | 
 | 2022-12-01 | 11886 | 850 | 
 | 2022-11-30 | 11881 | 850 | 
 | 2022-11-29 | 11876 | 850 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 11814 | 846 | 
 | 2022-11-04 | 11813 | 845 | 
 | 2022-11-03 | 11811 | 845 | 
-| 2022-11-02 | 11804 | 844 | 
 

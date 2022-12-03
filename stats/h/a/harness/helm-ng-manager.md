@@ -1,10 +1,10 @@
 # harness/helm-ng-manager - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 2
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/harness/helm-ng-manager)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 3 | 2 | 
 | 2022-12-01 | 2 | 2 | 
 | 2022-11-30 | 2 | 2 | 
 | 2022-11-29 | 2 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 2 | 2 | 
 | 2022-11-04 | 2 | 2 | 
 | 2022-11-03 | 2 | 2 | 
-| 2022-11-02 | 2 | 2 | 
 

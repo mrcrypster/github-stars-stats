@@ -1,6 +1,6 @@
 # ba-st/Buoy - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 20 | 1 | 
 | 2022-12-01 | 20 | 1 | 
 | 2022-11-30 | 20 | 1 | 
 | 2022-11-29 | 20 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 20 | 1 | 
 | 2022-11-04 | 20 | 1 | 
 | 2022-11-03 | 20 | 1 | 
-| 2022-11-02 | 20 | 1 | 
 

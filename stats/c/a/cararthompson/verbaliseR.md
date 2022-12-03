@@ -1,10 +1,10 @@
 # cararthompson/verbaliseR - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 0
 
-★ Stars: 13
+★ Stars: 18
 
 [Open repository](https://github.com/cararthompson/verbaliseR)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 18 | - | 
 | 2022-12-01 | 13 | - | 
 | 2022-11-30 | 13 | - | 
 | 2022-11-29 | 13 | - | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 13 | - | 
 | 2022-11-04 | 13 | - | 
 | 2022-11-03 | 13 | - | 
-| 2022-11-02 | 13 | - | 
 

@@ -1,10 +1,10 @@
 # OldUnreal/UnrealTournamentPatches - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 20
 
-★ Stars: 561
+★ Stars: 562
 
 [Open repository](https://github.com/OldUnreal/UnrealTournamentPatches)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 562 | 20 | 
 | 2022-12-01 | 561 | 20 | 
 | 2022-11-30 | 561 | 20 | 
 | 2022-11-29 | 560 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 549 | 19 | 
 | 2022-11-04 | 547 | 19 | 
 | 2022-11-03 | 547 | 19 | 
-| 2022-11-02 | 542 | 19 | 
 

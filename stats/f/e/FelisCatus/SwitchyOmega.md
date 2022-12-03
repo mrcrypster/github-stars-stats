@@ -1,10 +1,10 @@
 # FelisCatus/SwitchyOmega - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 2967
 
-★ Stars: 18803
+★ Stars: 18810
 
 [Open repository](https://github.com/FelisCatus/SwitchyOmega)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 18810 | 2967 | 
 | 2022-12-01 | 18803 | 2967 | 
 | 2022-11-30 | 18800 | 2966 | 
 | 2022-11-29 | 18792 | 2963 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 18682 | 2950 | 
 | 2022-11-04 | 18672 | 2948 | 
 | 2022-11-03 | 18671 | 2947 | 
-| 2022-11-02 | 18669 | 2947 | 
 

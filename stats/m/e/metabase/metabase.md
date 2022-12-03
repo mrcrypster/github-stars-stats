@@ -1,10 +1,10 @@
 # metabase/metabase - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
-☋ Forks: 4164
+☋ Forks: 4162
 
-★ Stars: 30718
+★ Stars: 30731
 
 [Open repository](https://github.com/metabase/metabase)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 30731 | 4162 | 
 | 2022-12-01 | 30718 | 4164 | 
 | 2022-11-30 | 30665 | 4164 | 
 | 2022-11-29 | 30633 | 4161 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 30405 | 4130 | 
 | 2022-11-04 | 30406 | 4129 | 
 | 2022-11-03 | 30395 | 4128 | 
-| 2022-11-02 | 30384 | 4127 | 
 

@@ -1,6 +1,6 @@
 # nategentile/ban_youtube_bots - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 76 | 20 | 
 | 2022-12-01 | 76 | 20 | 
 | 2022-11-30 | 76 | 20 | 
 | 2022-11-29 | 76 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 73 | 20 | 
 | 2022-11-04 | 73 | 20 | 
 | 2022-11-03 | 73 | 20 | 
-| 2022-11-02 | 73 | 20 | 
 

@@ -1,10 +1,10 @@
 # jbhuang0604/awesome-tips - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 105
 
-★ Stars: 1941
+★ Stars: 1953
 
 [Open repository](https://github.com/jbhuang0604/awesome-tips)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 1953 | 105 | 
 | 2022-12-01 | 1941 | 105 | 
 | 2022-11-30 | 1940 | 105 | 
 | 2022-11-29 | 1938 | 105 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 1922 | 103 | 
 | 2022-11-04 | 1922 | 103 | 
 | 2022-11-03 | 1922 | 103 | 
-| 2022-11-02 | 1921 | 103 | 
 

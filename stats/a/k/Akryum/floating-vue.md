@@ -1,10 +1,10 @@
 # Akryum/floating-vue - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
-☋ Forks: 292
+☋ Forks: 291
 
-★ Stars: 2520
+★ Stars: 2522
 
 [Open repository](https://github.com/Akryum/floating-vue)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 2522 | 291 | 
 | 2022-12-01 | 2520 | 292 | 
 | 2022-11-30 | 2519 | 291 | 
 | 2022-11-29 | 2517 | 291 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 2476 | 287 | 
 | 2022-11-04 | 2475 | 287 | 
 | 2022-11-03 | 2475 | 287 | 
-| 2022-11-02 | 2474 | 287 | 
 

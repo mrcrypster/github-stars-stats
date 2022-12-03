@@ -1,10 +1,10 @@
 # esx-framework/esx-legacy - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 584
 
-★ Stars: 219
+★ Stars: 220
 
 [Open repository](https://github.com/esx-framework/esx-legacy)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 220 | 584 | 
 | 2022-12-01 | 219 | 584 | 
 | 2022-11-30 | 219 | 584 | 
 | 2022-11-29 | 219 | 585 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 201 | 558 | 
 | 2022-11-04 | 199 | 558 | 
 | 2022-11-03 | 198 | 556 | 
-| 2022-11-02 | 197 | 555 | 
 

@@ -1,8 +1,8 @@
 # techcode1001/railwayv - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
-☋ Forks: 241
+☋ Forks: 243
 
 ★ Stars: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 10 | 243 | 
 | 2022-12-01 | 10 | 241 | 
 | 2022-11-30 | 10 | 241 | 
 | 2022-11-29 | 10 | 241 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 11 | 240 | 
 | 2022-11-04 | 11 | 240 | 
 | 2022-11-03 | 11 | 240 | 
-| 2022-11-02 | 11 | 240 | 
 

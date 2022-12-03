@@ -1,6 +1,6 @@
 # IAIK/AEPIC - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 102 | 11 | 
 | 2022-12-01 | 102 | 11 | 
 | 2022-11-30 | 102 | 11 | 
 | 2022-11-29 | 101 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-06 | 95 | 11 | 
 | 2022-11-04 | 95 | 11 | 
 | 2022-11-03 | 95 | 11 | 
-| 2022-11-02 | 95 | 11 | 
 

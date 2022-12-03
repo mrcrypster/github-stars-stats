@@ -1,6 +1,6 @@
 # Sagar0-0/DsA - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 217
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 269 | 217 | 
 | 2022-12-01 | 269 | 217 | 
 | 2022-11-30 | 268 | 217 | 
 | 2022-11-29 | 267 | 218 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 251 | 216 | 
 | 2022-11-04 | 250 | 214 | 
 | 2022-11-03 | 248 | 213 | 
-| 2022-11-02 | 247 | 214 | 
 

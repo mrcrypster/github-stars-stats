@@ -1,6 +1,6 @@
 # XusinboyBekchanov/VisualFBEditor - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 93 | 21 | 
 | 2022-12-01 | 93 | 21 | 
 | 2022-11-30 | 93 | 21 | 
 | 2022-11-29 | 94 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 93 | 20 | 
 | 2022-11-04 | 93 | 20 | 
 | 2022-11-03 | 93 | 20 | 
-| 2022-11-02 | 93 | 20 | 
 

@@ -1,6 +1,6 @@
 # haskell/unix - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 82
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 95 | 82 | 
 | 2022-12-01 | 95 | 82 | 
 | 2022-11-30 | 95 | 82 | 
 | 2022-11-29 | 95 | 81 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 95 | 80 | 
 | 2022-11-04 | 94 | 80 | 
 | 2022-11-03 | 94 | 80 | 
-| 2022-11-02 | 93 | 80 | 
 

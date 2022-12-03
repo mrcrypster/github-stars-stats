@@ -1,10 +1,10 @@
 # reportaman/arttime - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 9
 
-★ Stars: 419
+★ Stars: 421
 
 [Open repository](https://github.com/reportaman/arttime)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 421 | 9 | 
 | 2022-12-01 | 419 | 9 | 
 | 2022-11-30 | 419 | 9 | 
 | 2022-11-29 | 418 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 413 | 8 | 
 | 2022-11-04 | 412 | 8 | 
 | 2022-11-03 | 412 | 8 | 
-| 2022-11-02 | 412 | 8 | 
 

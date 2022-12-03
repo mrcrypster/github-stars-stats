@@ -1,10 +1,10 @@
 # AdamISZ/from0k2bp - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 13
 
-★ Stars: 134
+★ Stars: 133
 
 [Open repository](https://github.com/AdamISZ/from0k2bp)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 133 | 13 | 
 | 2022-12-01 | 134 | 13 | 
 | 2022-11-30 | 134 | 13 | 
 | 2022-11-29 | 134 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 133 | 13 | 
 | 2022-11-04 | 129 | 13 | 
 | 2022-11-03 | 129 | 13 | 
-| 2022-11-02 | 128 | 13 | 
 

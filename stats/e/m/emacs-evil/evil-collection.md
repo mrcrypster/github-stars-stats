@@ -1,10 +1,10 @@
 # emacs-evil/evil-collection - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 218
 
-★ Stars: 988
+★ Stars: 989
 
 [Open repository](https://github.com/emacs-evil/evil-collection)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 989 | 218 | 
 | 2022-12-01 | 988 | 218 | 
 | 2022-11-30 | 987 | 219 | 
 | 2022-11-29 | 985 | 219 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 974 | 219 | 
 | 2022-11-04 | 974 | 219 | 
 | 2022-11-03 | 971 | 219 | 
-| 2022-11-02 | 971 | 219 | 
 

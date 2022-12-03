@@ -1,10 +1,10 @@
 # aboelkassem/References_Books - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 84
 
-★ Stars: 234
+★ Stars: 240
 
 [Open repository](https://github.com/aboelkassem/References_Books)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 240 | 84 | 
 | 2022-12-01 | 234 | 84 | 
 | 2022-11-30 | 233 | 84 | 
 | 2022-11-29 | 233 | 84 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 220 | 81 | 
 | 2022-11-04 | 219 | 81 | 
 | 2022-11-03 | 219 | 81 | 
-| 2022-11-02 | 218 | 81 | 
 

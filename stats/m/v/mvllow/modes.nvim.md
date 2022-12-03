@@ -1,10 +1,10 @@
 # mvllow/modes.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
 ☋ Forks: 5
 
-★ Stars: 280
+★ Stars: 281
 
 [Open repository](https://github.com/mvllow/modes.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 281 | 5 | 
 | 2022-12-01 | 280 | 5 | 
 | 2022-11-30 | 279 | 5 | 
 | 2022-11-29 | 279 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 275 | 5 | 
 | 2022-11-04 | 275 | 5 | 
 | 2022-11-03 | 275 | 5 | 
-| 2022-11-02 | 275 | 5 | 
 

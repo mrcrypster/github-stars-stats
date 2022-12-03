@@ -1,10 +1,10 @@
 # beordle/termtunnel - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 02
 
-☋ Forks: 25
+☋ Forks: 26
 
-★ Stars: 324
+★ Stars: 325
 
 [Open repository](https://github.com/beordle/termtunnel)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-02 | 325 | 26 | 
 | 2022-12-01 | 324 | 25 | 
 | 2022-11-30 | 324 | 25 | 
 | 2022-11-29 | 324 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-05 | 323 | 25 | 
 | 2022-11-04 | 323 | 25 | 
 | 2022-11-03 | 323 | 25 | 
-| 2022-11-02 | 323 | 25 | 
 

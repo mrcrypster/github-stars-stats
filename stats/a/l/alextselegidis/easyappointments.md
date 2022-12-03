@@ -1,10 +1,10 @@
 # alextselegidis/easyappointments - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 1022
 
-★ Stars: 2461
+★ Stars: 2464
 
 [Open repository](https://github.com/alextselegidis/easyappointments)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 2464 | 1022 | 
 | 2022-12-01 | 2461 | 1022 | 
 | 2022-11-30 | 2460 | 1022 | 
 | 2022-11-29 | 2458 | 1022 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-06 | 2424 | 1012 | 
 | 2022-11-05 | 2423 | 1012 | 
 | 2022-11-04 | 2420 | 1011 | 
-| 2022-11-03 | 2418 | 1010 | 
 
