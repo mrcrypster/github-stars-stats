@@ -1,10 +1,10 @@
 # Mentrillum/Slender-Fortress-Modified-Versions - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 17
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/Mentrillum/Slender-Fortress-Modified-Versions)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 28 | 17 | 
 | 2022-12-02 | 27 | 17 | 
 | 2022-12-01 | 27 | 17 | 
 | 2022-11-30 | 27 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 26 | 17 | 
 | 2022-11-05 | 26 | 17 | 
 | 2022-11-04 | 26 | 17 | 
-| 2022-11-03 | 26 | 17 | 
 

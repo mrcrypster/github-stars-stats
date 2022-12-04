@@ -1,6 +1,6 @@
 # doceazedo/svelte-flow - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 42 | 3 | 
 | 2022-12-02 | 42 | 3 | 
 | 2022-12-01 | 42 | 3 | 
 | 2022-11-30 | 42 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 41 | 3 | 
 | 2022-11-05 | 41 | 3 | 
 | 2022-11-04 | 41 | 3 | 
-| 2022-11-03 | 41 | 3 | 
 

@@ -1,10 +1,10 @@
 # stevearc/overseer.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 8
 
-★ Stars: 237
+★ Stars: 238
 
 [Open repository](https://github.com/stevearc/overseer.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 238 | 8 | 
 | 2022-12-02 | 237 | 8 | 
 | 2022-12-01 | 236 | 8 | 
 | 2022-11-30 | 235 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 213 | 5 | 
 | 2022-11-05 | 213 | 5 | 
 | 2022-11-04 | 212 | 5 | 
-| 2022-11-03 | 212 | 5 | 
 

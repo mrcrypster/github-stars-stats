@@ -1,10 +1,10 @@
 # filloax/revelations-mirror - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 0
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/filloax/revelations-mirror)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 6 | - | 
 | 2022-12-02 | 5 | - | 
 | 2022-12-01 | 5 | - | 
 | 2022-11-30 | 5 | - | 

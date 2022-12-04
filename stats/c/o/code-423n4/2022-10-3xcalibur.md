@@ -1,10 +1,10 @@
 # code-423n4/2022-10-3xcalibur - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 6
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/code-423n4/2022-10-3xcalibur)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 1 | 6 | 
 | 2022-12-02 | - | 6 | 
 | 2022-12-01 | - | 6 | 
 | 2022-11-30 | - | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | - | 5 | 
 | 2022-11-05 | - | 5 | 
 | 2022-11-04 | - | 5 | 
-| 2022-11-03 | - | 4 | 
 

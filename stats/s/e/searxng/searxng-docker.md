@@ -1,10 +1,10 @@
 # searxng/searxng-docker - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
-☋ Forks: 127
+☋ Forks: 128
 
-★ Stars: 397
+★ Stars: 399
 
 [Open repository](https://github.com/searxng/searxng-docker)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 399 | 128 | 
 | 2022-12-02 | 397 | 127 | 
 | 2022-12-01 | 397 | 126 | 
 | 2022-11-30 | 396 | 126 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 371 | 114 | 
 | 2022-11-05 | 370 | 114 | 
 | 2022-11-04 | 369 | 113 | 
-| 2022-11-03 | 369 | 113 | 
 

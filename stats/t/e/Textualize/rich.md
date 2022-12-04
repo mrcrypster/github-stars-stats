@@ -1,10 +1,10 @@
 # Textualize/rich - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
-☋ Forks: 1427
+☋ Forks: 1428
 
-★ Stars: 40912
+★ Stars: 40922
 
 [Open repository](https://github.com/Textualize/rich)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 40922 | 1428 | 
 | 2022-12-02 | 40912 | 1427 | 
 | 2022-12-01 | 40893 | 1427 | 
 | 2022-11-30 | 40877 | 1426 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 40583 | 1410 | 
 | 2022-11-05 | 40573 | 1410 | 
 | 2022-11-04 | 40568 | 1408 | 
-| 2022-11-03 | 40555 | 1407 | 
 

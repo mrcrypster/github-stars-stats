@@ -1,6 +1,6 @@
 # timothyschoen/PlugData - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 748 | 26 | 
 | 2022-12-02 | 748 | 26 | 
 | 2022-12-01 | 748 | 26 | 
 | 2022-11-30 | 747 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 718 | 24 | 
 | 2022-11-05 | 715 | 24 | 
 | 2022-11-04 | 714 | 23 | 
-| 2022-11-03 | 710 | 21 | 
 

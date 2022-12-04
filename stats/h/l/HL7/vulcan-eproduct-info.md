@@ -1,6 +1,6 @@
 # HL7/vulcan-eproduct-info - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 10 | 7 | 
 | 2022-12-02 | 10 | 7 | 
 | 2022-12-01 | 10 | 7 | 
 | 2022-11-30 | 10 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 8 | 7 | 
 | 2022-11-05 | 8 | 7 | 
 | 2022-11-04 | 8 | 7 | 
-| 2022-11-03 | 8 | 7 | 
 

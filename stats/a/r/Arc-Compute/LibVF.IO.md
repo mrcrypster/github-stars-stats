@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 03
 
 ☋ Forks: 28
 
-★ Stars: 469
+★ Stars: 470
 
 [Open repository](https://github.com/Arc-Compute/LibVF.IO)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-03 | 469 | 28 | 
+| 2022-12-03 | 470 | 28 | 
 | 2022-12-02 | 469 | 28 | 
 | 2022-12-01 | 467 | 28 | 
 | 2022-11-30 | 463 | 28 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-06 | 446 | 25 | 
 | 2022-11-05 | 446 | 25 | 
 | 2022-11-04 | 446 | 25 | 
-| 2022-11-03 | 444 | 25 | 
 

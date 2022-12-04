@@ -1,10 +1,10 @@
 # mack-a/v2ray-agent - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
-☋ Forks: 3076
+☋ Forks: 3096
 
-★ Stars: 7242
+★ Stars: 7239
 
 [Open repository](https://github.com/mack-a/v2ray-agent)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 7239 | 3096 | 
 | 2022-12-02 | 7242 | 3076 | 
 | 2022-12-01 | 7243 | 3163 | 
 | 2022-11-30 | 7251 | 3038 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 6972 | 2941 | 
 | 2022-11-05 | 6960 | 2934 | 
 | 2022-11-04 | 6949 | 2933 | 
-| 2022-11-03 | 6938 | 2930 | 
 

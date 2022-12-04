@@ -1,6 +1,6 @@
 # casavo/action-grafana-dashboards-deploy - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 3 | - | 
 | 2022-12-01 | 3 | - | 
 | 2022-11-30 | 3 | - | 
 | 2022-11-29 | 3 | - | 

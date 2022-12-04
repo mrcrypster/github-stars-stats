@@ -1,10 +1,10 @@
 # reveng007/SharpGmailC2 - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 31
 
-★ Stars: 197
+★ Stars: 198
 
 [Open repository](https://github.com/reveng007/SharpGmailC2)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 198 | 31 | 
 | 2022-12-02 | 197 | 31 | 
 | 2022-12-01 | 197 | 31 | 
 | 2022-11-30 | 197 | 31 | 

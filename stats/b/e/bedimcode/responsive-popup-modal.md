@@ -1,6 +1,6 @@
 # bedimcode/responsive-popup-modal - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 76 | 17 | 
 | 2022-12-02 | 76 | 17 | 
 | 2022-12-01 | 76 | 17 | 
 | 2022-11-30 | 76 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 76 | 17 | 
 | 2022-11-05 | 76 | 17 | 
 | 2022-11-04 | 76 | 17 | 
-| 2022-11-03 | 76 | 17 | 
 

@@ -1,6 +1,6 @@
 # Ormael13/CoCX - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 15 | 13 | 
 | 2022-12-02 | 15 | 13 | 
 | 2022-12-01 | 15 | 13 | 
 | 2022-11-30 | 15 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 14 | 14 | 
 | 2022-11-05 | 14 | 14 | 
 | 2022-11-04 | 13 | 14 | 
-| 2022-11-03 | 13 | 14 | 
 

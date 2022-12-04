@@ -1,10 +1,10 @@
 # slackhq/circuit - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 8
 
-★ Stars: 351
+★ Stars: 358
 
 [Open repository](https://github.com/slackhq/circuit)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 358 | 8 | 
 | 2022-12-02 | 351 | 8 | 
 | 2022-12-01 | 337 | 8 | 
 | 2022-11-30 | 308 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 163 | 4 | 
 | 2022-11-05 | 163 | 4 | 
 | 2022-11-04 | 162 | 4 | 
-| 2022-11-03 | 158 | 4 | 
 

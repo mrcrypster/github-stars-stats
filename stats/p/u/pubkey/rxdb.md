@@ -1,10 +1,10 @@
 # pubkey/rxdb - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
-☋ Forks: 923
+☋ Forks: 924
 
-★ Stars: 18484
+★ Stars: 18487
 
 [Open repository](https://github.com/pubkey/rxdb)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 18487 | 924 | 
 | 2022-12-02 | 18484 | 923 | 
 | 2022-12-01 | 18482 | 923 | 
 | 2022-11-30 | 18479 | 922 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 18354 | 917 | 
 | 2022-11-05 | 18353 | 917 | 
 | 2022-11-04 | 18349 | 917 | 
-| 2022-11-03 | 18347 | 917 | 
 

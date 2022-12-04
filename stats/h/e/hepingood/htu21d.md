@@ -1,10 +1,10 @@
 # hepingood/htu21d - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
-☋ Forks: 12
+☋ Forks: 13
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/hepingood/htu21d)
 
@@ -13,5 +13,6 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 26 | 13 | 
 | 2022-12-02 | 25 | 12 | 
 

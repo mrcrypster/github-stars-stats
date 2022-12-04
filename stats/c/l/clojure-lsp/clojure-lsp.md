@@ -1,6 +1,6 @@
 # clojure-lsp/clojure-lsp - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 117
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 894 | 117 | 
 | 2022-12-02 | 894 | 117 | 
 | 2022-12-01 | 894 | 116 | 
 | 2022-11-30 | 892 | 116 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 883 | 116 | 
 | 2022-11-05 | 883 | 116 | 
 | 2022-11-04 | 883 | 116 | 
-| 2022-11-03 | 883 | 116 | 
 

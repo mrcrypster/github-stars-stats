@@ -1,6 +1,6 @@
 # swxy/NoPixelServer - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 750
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 252 | 750 | 
 | 2022-12-02 | 252 | 750 | 
 | 2022-12-01 | 252 | 751 | 
 | 2022-11-30 | 252 | 749 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-07 | 253 | 748 | 
 | 2022-11-05 | 252 | 750 | 
 | 2022-11-04 | 252 | 750 | 
-| 2022-11-03 | 252 | 750 | 
 

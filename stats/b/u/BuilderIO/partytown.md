@@ -1,10 +1,10 @@
 # BuilderIO/partytown - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
-☋ Forks: 275
+☋ Forks: 276
 
-★ Stars: 10033
+★ Stars: 10041
 
 [Open repository](https://github.com/BuilderIO/partytown)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 10041 | 276 | 
 | 2022-12-02 | 10033 | 275 | 
 | 2022-12-01 | 10031 | 275 | 
 | 2022-11-30 | 10027 | 275 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 9852 | 264 | 
 | 2022-11-05 | 9845 | 264 | 
 | 2022-11-04 | 9838 | 264 | 
-| 2022-11-03 | 9834 | 261 | 
 

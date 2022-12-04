@@ -1,8 +1,8 @@
 # LaGuerrePiece/ChadGuard - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
-☋ Forks: 8
+☋ Forks: 7
 
 ★ Stars: 45
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 45 | 7 | 
 | 2022-12-03 | 45 | 8 | 
 | 2022-12-01 | 45 | 8 | 
 | 2022-11-30 | 45 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 47 | 8 | 
 | 2022-11-06 | 47 | 8 | 
 | 2022-11-05 | 47 | 8 | 
-| 2022-11-04 | 47 | 8 | 
 

@@ -1,10 +1,10 @@
 # gmamaladze/trienet - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 62
 
-★ Stars: 377
+★ Stars: 378
 
 [Open repository](https://github.com/gmamaladze/trienet)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 378 | 62 | 
 | 2022-12-02 | 377 | 62 | 
 | 2022-12-01 | 377 | 62 | 
 | 2022-11-30 | 377 | 62 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 374 | 62 | 
 | 2022-11-05 | 374 | 61 | 
 | 2022-11-04 | 372 | 61 | 
-| 2022-11-03 | 371 | 61 | 
 

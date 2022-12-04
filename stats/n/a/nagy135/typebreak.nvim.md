@@ -1,10 +1,10 @@
 # nagy135/typebreak.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 0
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/nagy135/typebreak.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 26 | - | 
 | 2022-12-02 | 25 | - | 
 | 2022-12-01 | 25 | - | 
 | 2022-11-30 | 25 | - | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 24 | - | 
 | 2022-11-05 | 24 | - | 
 | 2022-11-04 | 24 | - | 
-| 2022-11-03 | 24 | - | 
 

@@ -1,6 +1,6 @@
 # mishoo/UglifyJS - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 1246
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 12356 | 1246 | 
 | 2022-12-02 | 12356 | 1246 | 
 | 2022-12-01 | 12358 | 1246 | 
 | 2022-11-30 | 12354 | 1245 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 12320 | 1246 | 
 | 2022-11-05 | 12321 | 1246 | 
 | 2022-11-04 | 12320 | 1245 | 
-| 2022-11-03 | 12319 | 1244 | 
 

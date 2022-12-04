@@ -1,10 +1,10 @@
 # marmelab/react-admin - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
-☋ Forks: 4654
+☋ Forks: 4658
 
-★ Stars: 21086
+★ Stars: 21095
 
 [Open repository](https://github.com/marmelab/react-admin)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 21095 | 4658 | 
 | 2022-12-02 | 21086 | 4654 | 
 | 2022-12-01 | 21081 | 4653 | 
 | 2022-11-30 | 21072 | 4652 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 20946 | 4618 | 
 | 2022-11-05 | 20939 | 4618 | 
 | 2022-11-04 | 20932 | 4617 | 
-| 2022-11-03 | 20925 | 4617 | 
 

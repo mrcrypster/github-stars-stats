@@ -1,10 +1,10 @@
 # AmosHuKe/Mood-Example - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 22
 
-★ Stars: 136
+★ Stars: 137
 
 [Open repository](https://github.com/AmosHuKe/Mood-Example)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 137 | 22 | 
 | 2022-12-01 | 136 | 22 | 
 | 2022-11-30 | 136 | 22 | 
 | 2022-11-29 | 136 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-06 | 124 | 19 | 
 | 2022-11-05 | 124 | 19 | 
 | 2022-11-04 | 123 | 19 | 
-| 2022-11-03 | 123 | 19 | 
 

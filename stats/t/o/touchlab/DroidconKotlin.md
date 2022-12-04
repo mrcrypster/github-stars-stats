@@ -1,10 +1,10 @@
 # touchlab/DroidconKotlin - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 65
 
-★ Stars: 815
+★ Stars: 816
 
 [Open repository](https://github.com/touchlab/DroidconKotlin)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 816 | 65 | 
 | 2022-12-02 | 815 | 65 | 
 | 2022-12-01 | 814 | 65 | 
 | 2022-11-30 | 814 | 64 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 795 | 62 | 
 | 2022-11-05 | 795 | 62 | 
 | 2022-11-04 | 795 | 62 | 
-| 2022-11-03 | 795 | 62 | 
 

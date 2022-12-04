@@ -1,8 +1,8 @@
 # nf-core/chipseq - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
-☋ Forks: 110
+☋ Forks: 111
 
 ★ Stars: 133
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 133 | 111 | 
 | 2022-12-02 | 133 | 110 | 
 | 2022-12-01 | 132 | 110 | 
 | 2022-11-30 | 132 | 110 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 130 | 107 | 
 | 2022-11-05 | 129 | 107 | 
 | 2022-11-04 | 128 | 107 | 
-| 2022-11-03 | 128 | 107 | 
 

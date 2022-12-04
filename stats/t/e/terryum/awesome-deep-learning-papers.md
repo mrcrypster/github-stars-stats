@@ -1,10 +1,10 @@
 # terryum/awesome-deep-learning-papers - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 4492
 
-★ Stars: 24148
+★ Stars: 24147
 
 [Open repository](https://github.com/terryum/awesome-deep-learning-papers)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 24147 | 4492 | 
 | 2022-12-02 | 24148 | 4492 | 
 | 2022-12-01 | 24146 | 4492 | 
 | 2022-11-30 | 24144 | 4492 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 24082 | 4485 | 
 | 2022-11-05 | 24079 | 4485 | 
 | 2022-11-04 | 24077 | 4485 | 
-| 2022-11-03 | 24074 | 4486 | 
 

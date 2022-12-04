@@ -1,10 +1,10 @@
 # ForrestKnight/Wrestling-Simulation - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 35
 
-★ Stars: 94
+★ Stars: 96
 
 [Open repository](https://github.com/ForrestKnight/Wrestling-Simulation)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 96 | 35 | 
 | 2022-12-02 | 94 | 35 | 
 | 2022-12-01 | 94 | 35 | 
 | 2022-11-30 | 94 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 94 | 33 | 
 | 2022-11-05 | 94 | 33 | 
 | 2022-11-04 | 94 | 33 | 
-| 2022-11-03 | 94 | 33 | 
 

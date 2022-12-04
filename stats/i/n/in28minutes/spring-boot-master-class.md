@@ -1,8 +1,8 @@
 # in28minutes/spring-boot-master-class - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
-☋ Forks: 771
+☋ Forks: 772
 
 ★ Stars: 668
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 668 | 772 | 
 | 2022-12-02 | 668 | 771 | 
 | 2022-12-01 | 667 | 771 | 
 | 2022-11-30 | 666 | 771 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 653 | 767 | 
 | 2022-11-05 | 653 | 766 | 
 | 2022-11-04 | 652 | 766 | 
-| 2022-11-03 | 652 | 765 | 
 

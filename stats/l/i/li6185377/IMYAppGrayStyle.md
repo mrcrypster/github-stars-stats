@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 03
 
 ☋ Forks: 16
 
-★ Stars: 74
+★ Stars: 75
 
 [Open repository](https://github.com/li6185377/IMYAppGrayStyle)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-03 | 74 | 16 | 
+| 2022-12-03 | 75 | 16 | 
 | 2022-12-02 | 74 | 16 | 
 

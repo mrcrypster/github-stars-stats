@@ -1,10 +1,10 @@
 # geoserver/geoserver - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 1959
 
-★ Stars: 2934
+★ Stars: 2935
 
 [Open repository](https://github.com/geoserver/geoserver)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 2935 | 1959 | 
 | 2022-12-02 | 2934 | 1959 | 
 | 2022-12-01 | 2933 | 1959 | 
 | 2022-11-30 | 2930 | 1958 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-07 | 2901 | 1955 | 
 | 2022-11-06 | 2901 | 1955 | 
 | 2022-11-05 | 2901 | 1955 | 
-| 2022-11-04 | 2900 | 1955 | 
 

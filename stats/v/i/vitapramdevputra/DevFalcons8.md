@@ -1,10 +1,10 @@
 # vitapramdevputra/DevFalcons8 - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 5
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/vitapramdevputra/DevFalcons8)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 12 | 5 | 
 | 2022-12-02 | 11 | 5 | 
 | 2022-11-30 | 11 | 5 | 
 | 2022-11-29 | 11 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-07 | 10 | 5 | 
 | 2022-11-06 | 10 | 5 | 
 | 2022-11-05 | 10 | 5 | 
-| 2022-11-04 | 10 | 5 | 
 

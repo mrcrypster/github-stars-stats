@@ -1,10 +1,10 @@
 # CUFTA22/dotfiles - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 5
 
-★ Stars: 39
+★ Stars: 40
 
 [Open repository](https://github.com/CUFTA22/dotfiles)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 40 | 5 | 
 | 2022-12-02 | 39 | 5 | 
 | 2022-12-01 | 39 | 5 | 
 | 2022-11-30 | 39 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 29 | 3 | 
 | 2022-11-05 | 26 | 3 | 
 | 2022-11-04 | 25 | 3 | 
-| 2022-11-03 | 24 | 2 | 
 

@@ -1,6 +1,6 @@
 # doctrine/dbal - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 1233
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 8879 | 1233 | 
 | 2022-12-02 | 8879 | 1233 | 
 | 2022-12-01 | 8878 | 1233 | 
 | 2022-11-30 | 8874 | 1233 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 8852 | 1232 | 
 | 2022-11-05 | 8852 | 1232 | 
 | 2022-11-04 | 8850 | 1233 | 
-| 2022-11-03 | 8847 | 1234 | 
 

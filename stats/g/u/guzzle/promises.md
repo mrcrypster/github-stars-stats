@@ -1,10 +1,10 @@
 # guzzle/promises - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 110
 
-★ Stars: 7284
+★ Stars: 7283
 
 [Open repository](https://github.com/guzzle/promises)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 7283 | 110 | 
 | 2022-12-02 | 7284 | 110 | 
 | 2022-12-01 | 7283 | 110 | 
 | 2022-11-30 | 7282 | 110 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 7274 | 110 | 
 | 2022-11-05 | 7274 | 110 | 
 | 2022-11-04 | 7273 | 110 | 
-| 2022-11-03 | 7271 | 109 | 
 

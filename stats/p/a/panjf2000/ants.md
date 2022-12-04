@@ -1,10 +1,10 @@
 # panjf2000/ants - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
-☋ Forks: 1147
+☋ Forks: 1148
 
-★ Stars: 9523
+★ Stars: 9524
 
 [Open repository](https://github.com/panjf2000/ants)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 9524 | 1148 | 
 | 2022-12-02 | 9523 | 1147 | 
 | 2022-12-01 | 9519 | 1146 | 
 | 2022-11-30 | 9513 | 1145 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-07 | 9376 | 1139 | 
 | 2022-11-05 | 9375 | 1138 | 
 | 2022-11-04 | 9374 | 1138 | 
-| 2022-11-03 | 9365 | 1137 | 
 

@@ -1,6 +1,6 @@
 # vigoux/notifier.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 118 | 5 | 
 | 2022-12-01 | 118 | 5 | 
 | 2022-11-30 | 117 | 5 | 
 | 2022-11-29 | 117 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-06 | 114 | 5 | 
 | 2022-11-05 | 114 | 5 | 
 | 2022-11-04 | 114 | 5 | 
-| 2022-11-03 | 113 | 5 | 
 

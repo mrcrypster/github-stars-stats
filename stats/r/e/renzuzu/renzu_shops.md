@@ -1,6 +1,6 @@
 # renzuzu/renzu_shops - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 12 | 8 | 
 | 2022-12-02 | 12 | 8 | 
 | 2022-12-01 | 11 | 8 | 
 | 2022-11-30 | 11 | 8 | 

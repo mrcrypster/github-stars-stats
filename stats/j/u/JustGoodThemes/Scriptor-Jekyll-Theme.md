@@ -1,10 +1,10 @@
 # JustGoodThemes/Scriptor-Jekyll-Theme - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
-☋ Forks: 105
+☋ Forks: 106
 
-★ Stars: 90
+★ Stars: 92
 
 [Open repository](https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 92 | 106 | 
 | 2022-12-02 | 90 | 105 | 
 | 2022-12-01 | 90 | 104 | 
 | 2022-11-30 | 90 | 103 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 87 | 95 | 
 | 2022-11-05 | 87 | 96 | 
 | 2022-11-04 | 86 | 96 | 
-| 2022-11-03 | 85 | 97 | 
 

@@ -1,10 +1,10 @@
 # code-423n4/2022-11-redactedcartel - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
-☋ Forks: 13
+☋ Forks: 12
 
-★ Stars: 6
+★ Stars: 5
 
 [Open repository](https://github.com/code-423n4/2022-11-redactedcartel)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 5 | 12 | 
 | 2022-12-02 | 6 | 13 | 
 | 2022-12-01 | 6 | 13 | 
 | 2022-11-30 | 6 | 13 | 

@@ -1,10 +1,10 @@
 # beskay/solidity-challenges - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 3
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/beskay/solidity-challenges)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 31 | 3 | 
 | 2022-12-02 | 30 | 3 | 
 | 2022-12-01 | 29 | 3 | 
 | 2022-11-30 | 28 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 28 | 3 | 
 | 2022-11-05 | 28 | 3 | 
 | 2022-11-04 | 28 | 3 | 
-| 2022-11-03 | 28 | 3 | 
 

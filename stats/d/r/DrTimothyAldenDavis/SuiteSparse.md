@@ -1,10 +1,10 @@
 # DrTimothyAldenDavis/SuiteSparse - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 178
 
-★ Stars: 706
+★ Stars: 707
 
 [Open repository](https://github.com/DrTimothyAldenDavis/SuiteSparse)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 707 | 178 | 
 | 2022-12-02 | 706 | 178 | 
 | 2022-12-01 | 706 | 177 | 
 | 2022-11-30 | 705 | 177 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 695 | 174 | 
 | 2022-11-05 | 695 | 173 | 
 | 2022-11-04 | 694 | 173 | 
-| 2022-11-03 | 694 | 173 | 
 

@@ -1,6 +1,6 @@
 # codeNiuMa/yanglegeyang - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 105
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 66 | 105 | 
 | 2022-12-02 | 66 | 105 | 
 | 2022-12-01 | 66 | 105 | 
 | 2022-11-30 | 66 | 105 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 67 | 111 | 
 | 2022-11-05 | 67 | 111 | 
 | 2022-11-04 | 66 | 111 | 
-| 2022-11-03 | 66 | 111 | 
 

@@ -1,8 +1,8 @@
 # midudev/hacktoberfest-2022 - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 04
 
-☋ Forks: 428
+☋ Forks: 427
 
 ★ Stars: 408
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 408 | 427 | 
 | 2022-12-02 | 408 | 428 | 
 | 2022-12-01 | 408 | 428 | 
 | 2022-11-30 | 407 | 429 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-07 | 397 | 436 | 
 | 2022-11-06 | 396 | 437 | 
 | 2022-11-05 | 395 | 438 | 
-| 2022-11-04 | 394 | 438 | 
 

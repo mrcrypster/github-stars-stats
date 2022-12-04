@@ -1,6 +1,6 @@
 # polarfire-soc/meta-polarfire-soc-yocto-bsp - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 27 | 25 | 
 | 2022-12-02 | 27 | 25 | 
 | 2022-12-01 | 27 | 25 | 
 | 2022-11-30 | 27 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 26 | 24 | 
 | 2022-11-05 | 26 | 24 | 
 | 2022-11-04 | 26 | 24 | 
-| 2022-11-03 | 26 | 24 | 
 

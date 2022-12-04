@@ -1,6 +1,6 @@
 # Azure/cloud-rolesandops - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 70 | 16 | 
 | 2022-12-02 | 70 | 16 | 
 | 2022-12-01 | 69 | 16 | 
 | 2022-11-30 | 69 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-07 | 69 | 15 | 
 | 2022-11-06 | 69 | 14 | 
 | 2022-11-05 | 69 | 14 | 
-| 2022-11-04 | 69 | 14 | 
 

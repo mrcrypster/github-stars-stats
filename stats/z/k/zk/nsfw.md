@@ -1,0 +1,18 @@
+# zk/nsfw - stars & forks statistics
+
+Stats updated on Dec 2022, 04
+
+☋ Forks: 1
+
+★ Stars: 7
+
+[Open repository](https://github.com/zk/nsfw)
+
+[Open detailed stats for zk/nsfw](https://reviewgithub.com/rep/zk/nsfw)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-12-04 | 7 | 1 | 
+| 2022-12-03 | 7 | 1 | 
+

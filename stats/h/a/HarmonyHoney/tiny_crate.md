@@ -1,10 +1,10 @@
 # HarmonyHoney/tiny_crate - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 10
 
-★ Stars: 89
+★ Stars: 90
 
 [Open repository](https://github.com/HarmonyHoney/tiny_crate)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 90 | 10 | 
 | 2022-12-01 | 89 | 10 | 
 | 2022-11-30 | 89 | 10 | 
 | 2022-11-29 | 89 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-06 | 83 | 9 | 
 | 2022-11-05 | 83 | 9 | 
 | 2022-11-04 | 83 | 9 | 
-| 2022-11-03 | 83 | 9 | 
 

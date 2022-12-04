@@ -1,6 +1,6 @@
 # ForkAwesome/Fork-Awesome - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 123
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 1133 | 123 | 
 | 2022-12-02 | 1133 | 123 | 
 | 2022-12-01 | 1133 | 123 | 
 | 2022-11-30 | 1133 | 123 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 1120 | 119 | 
 | 2022-11-05 | 1120 | 119 | 
 | 2022-11-04 | 1120 | 119 | 
-| 2022-11-03 | 1117 | 118 | 
 

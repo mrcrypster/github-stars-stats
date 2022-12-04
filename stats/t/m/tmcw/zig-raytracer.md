@@ -1,6 +1,6 @@
 # tmcw/zig-raytracer - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 12 | - | 
 | 2022-12-03 | 12 | - | 
 | 2022-12-01 | 12 | - | 
 | 2022-11-30 | 12 | - | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 13 | - | 
 | 2022-11-06 | 13 | - | 
 | 2022-11-04 | 13 | - | 
-| 2022-11-03 | 13 | - | 
 

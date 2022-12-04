@@ -1,10 +1,10 @@
 # AbdulMalikDev/PythonCheatSheet - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 63
 
-★ Stars: 471
+★ Stars: 473
 
 [Open repository](https://github.com/AbdulMalikDev/PythonCheatSheet)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 473 | 63 | 
 | 2022-12-02 | 471 | 63 | 
 | 2022-12-01 | 471 | 63 | 
 | 2022-11-30 | 471 | 63 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 462 | 61 | 
 | 2022-11-05 | 461 | 60 | 
 | 2022-11-04 | 460 | 60 | 
-| 2022-11-03 | 456 | 60 | 
 

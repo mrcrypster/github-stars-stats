@@ -1,6 +1,6 @@
 # rbkmoney/build_utils - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 8 | 8 | 
 | 2022-12-01 | 8 | 8 | 
 | 2022-11-30 | 8 | 8 | 
 | 2022-11-29 | 8 | 8 | 

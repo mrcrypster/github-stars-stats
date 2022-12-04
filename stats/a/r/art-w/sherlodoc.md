@@ -1,10 +1,10 @@
 # art-w/sherlodoc - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 1
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/art-w/sherlodoc)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 27 | 1 | 
 | 2022-12-02 | 26 | 1 | 
 | 2022-12-01 | 24 | 1 | 
 | 2022-11-30 | 24 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 22 | 1 | 
 | 2022-11-05 | 21 | 1 | 
 | 2022-11-04 | 21 | - | 
-| 2022-11-03 | 21 | - | 
 

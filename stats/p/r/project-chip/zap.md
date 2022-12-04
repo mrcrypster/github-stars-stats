@@ -1,8 +1,8 @@
 # project-chip/zap - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
-☋ Forks: 56
+☋ Forks: 57
 
 ★ Stars: 81
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 81 | 57 | 
 | 2022-12-02 | 81 | 56 | 
 | 2022-12-01 | 81 | 56 | 
 | 2022-11-30 | 81 | 55 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 79 | 50 | 
 | 2022-11-05 | 78 | 50 | 
 | 2022-11-04 | 78 | 50 | 
-| 2022-11-03 | 78 | 50 | 
 

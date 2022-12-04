@@ -1,10 +1,10 @@
 # Bash-it/bash-it - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
-☋ Forks: 2279
+☋ Forks: 2280
 
-★ Stars: 13290
+★ Stars: 13293
 
 [Open repository](https://github.com/Bash-it/bash-it)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 13293 | 2280 | 
 | 2022-12-02 | 13290 | 2279 | 
 | 2022-12-01 | 13288 | 2279 | 
 | 2022-11-30 | 13287 | 2279 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 13253 | 2276 | 
 | 2022-11-05 | 13252 | 2276 | 
 | 2022-11-04 | 13252 | 2276 | 
-| 2022-11-03 | 13251 | 2276 | 
 

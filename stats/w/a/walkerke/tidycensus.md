@@ -1,6 +1,6 @@
 # walkerke/tidycensus - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 77
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 540 | 77 | 
 | 2022-12-02 | 540 | 77 | 
 | 2022-12-01 | 540 | 77 | 
 | 2022-11-30 | 540 | 77 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-07 | 538 | 76 | 
 | 2022-11-06 | 538 | 76 | 
 | 2022-11-05 | 538 | 76 | 
-| 2022-11-04 | 538 | 76 | 
 

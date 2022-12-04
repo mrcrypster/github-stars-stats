@@ -1,10 +1,10 @@
 # MaaSTaaR/539kernel - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 12
 
-★ Stars: 143
+★ Stars: 144
 
 [Open repository](https://github.com/MaaSTaaR/539kernel)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 144 | 12 | 
+| 2022-12-03 | 144 | 12 | 
 | 2022-12-02 | 143 | 12 | 
 | 2022-12-01 | 142 | 12 | 
 | 2022-11-30 | 142 | 12 | 

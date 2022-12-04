@@ -1,10 +1,10 @@
 # engintron/engintron - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 177
 
-★ Stars: 632
+★ Stars: 631
 
 [Open repository](https://github.com/engintron/engintron)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 631 | 177 | 
 | 2022-12-02 | 632 | 177 | 
 | 2022-12-01 | 632 | 177 | 
 | 2022-11-30 | 632 | 177 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 633 | 175 | 
 | 2022-11-05 | 633 | 175 | 
 | 2022-11-04 | 633 | 175 | 
-| 2022-11-03 | 633 | 175 | 
 

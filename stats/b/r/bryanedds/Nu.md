@@ -1,10 +1,10 @@
 # bryanedds/Nu - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 102
 
-★ Stars: 873
+★ Stars: 874
 
 [Open repository](https://github.com/bryanedds/Nu)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 874 | 102 | 
 | 2022-12-02 | 873 | 102 | 
 | 2022-12-01 | 871 | 102 | 
 | 2022-11-30 | 871 | 102 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 866 | 100 | 
 | 2022-11-05 | 866 | 100 | 
 | 2022-11-04 | 866 | 100 | 
-| 2022-11-03 | 866 | 100 | 
 

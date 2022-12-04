@@ -1,6 +1,6 @@
 # HKUST-Aerial-Robotics/VINS-Fusion - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 1097
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 2515 | 1097 | 
 | 2022-12-02 | 2515 | 1097 | 
 | 2022-12-01 | 2515 | 1098 | 
 | 2022-11-30 | 2514 | 1097 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 2457 | 1081 | 
 | 2022-11-05 | 2455 | 1080 | 
 | 2022-11-04 | 2454 | 1079 | 
-| 2022-11-03 | 2451 | 1079 | 
 

@@ -1,10 +1,10 @@
 # htpcBeginner/docker-traefik - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
-☋ Forks: 481
+☋ Forks: 482
 
-★ Stars: 1747
+★ Stars: 1750
 
 [Open repository](https://github.com/htpcBeginner/docker-traefik)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 1750 | 482 | 
 | 2022-12-02 | 1747 | 481 | 
 | 2022-12-01 | 1747 | 480 | 
 | 2022-11-30 | 1747 | 480 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 1721 | 473 | 
 | 2022-11-05 | 1720 | 472 | 
 | 2022-11-04 | 1720 | 471 | 
-| 2022-11-03 | 1720 | 470 | 
 

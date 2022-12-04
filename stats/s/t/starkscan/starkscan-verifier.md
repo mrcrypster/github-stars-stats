@@ -1,10 +1,10 @@
 # starkscan/starkscan-verifier - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
-☋ Forks: 174
+☋ Forks: 177
 
-★ Stars: 1011
+★ Stars: 1021
 
 [Open repository](https://github.com/starkscan/starkscan-verifier)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 1021 | 177 | 
 | 2022-12-02 | 1011 | 174 | 
 | 2022-12-01 | 1007 | 171 | 
 | 2022-11-30 | 1005 | 171 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 603 | 120 | 
 | 2022-11-05 | 575 | 117 | 
 | 2022-11-04 | 561 | 109 | 
-| 2022-11-03 | 523 | 102 | 
 

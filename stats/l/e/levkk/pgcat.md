@@ -1,10 +1,10 @@
 # levkk/pgcat - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 31
 
-★ Stars: 1167
+★ Stars: 1169
 
 [Open repository](https://github.com/levkk/pgcat)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 1169 | 31 | 
 | 2022-12-02 | 1167 | 31 | 
 | 2022-12-01 | 1166 | 31 | 
 | 2022-11-30 | 1165 | 31 | 

@@ -1,6 +1,6 @@
 # wp-cli/embed-command - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 6 | 11 | 
 | 2022-12-02 | 6 | 11 | 
 | 2022-12-01 | 6 | 11 | 
 | 2022-11-29 | 6 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 7 | 11 | 
 | 2022-11-05 | 7 | 11 | 
 | 2022-11-04 | 7 | 11 | 
-| 2022-11-03 | 6 | 11 | 
 

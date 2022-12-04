@@ -1,6 +1,6 @@
 # thelfer/MFrontGallery - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 14 | 11 | 
 | 2022-12-01 | 14 | 11 | 
 | 2022-11-30 | 14 | 11 | 
 | 2022-11-29 | 14 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-07 | 14 | 11 | 
 | 2022-11-06 | 14 | 11 | 
 | 2022-11-05 | 14 | 11 | 
-| 2022-11-04 | 14 | 11 | 
 

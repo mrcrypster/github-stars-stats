@@ -1,10 +1,10 @@
 # MicrosoftDocs/ml-basics - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
-☋ Forks: 1669
+☋ Forks: 1672
 
-★ Stars: 1308
+★ Stars: 1309
 
 [Open repository](https://github.com/MicrosoftDocs/ml-basics)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 1309 | 1672 | 
 | 2022-12-02 | 1308 | 1669 | 
 | 2022-12-01 | 1307 | 1668 | 
 | 2022-11-30 | 1307 | 1668 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 1283 | 1623 | 
 | 2022-11-05 | 1281 | 1619 | 
 | 2022-11-04 | 1279 | 1615 | 
-| 2022-11-03 | 1275 | 1609 | 
 

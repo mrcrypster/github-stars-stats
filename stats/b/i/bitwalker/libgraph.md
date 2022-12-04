@@ -1,10 +1,10 @@
 # bitwalker/libgraph - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 03
 
-☋ Forks: 63
+☋ Forks: 64
 
-★ Stars: 418
+★ Stars: 419
 
 [Open repository](https://github.com/bitwalker/libgraph)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 419 | 64 | 
 | 2022-12-01 | 418 | 63 | 
 | 2022-11-30 | 418 | 63 | 
 | 2022-11-29 | 418 | 63 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-07 | 415 | 65 | 
 | 2022-11-06 | 415 | 65 | 
 | 2022-11-05 | 415 | 64 | 
-| 2022-11-04 | 415 | 64 | 
 

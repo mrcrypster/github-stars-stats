@@ -1,10 +1,10 @@
 # bregman-arie/devops-exercises - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
-☋ Forks: 7606
+☋ Forks: 7610
 
-★ Stars: 33989
+★ Stars: 34072
 
 [Open repository](https://github.com/bregman-arie/devops-exercises)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 34072 | 7610 | 
 | 2022-12-02 | 33989 | 7606 | 
 | 2022-12-01 | 33962 | 7583 | 
 | 2022-11-30 | 33948 | 7582 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 32558 | 7101 | 
 | 2022-11-05 | 32542 | 7090 | 
 | 2022-11-04 | 32516 | 7082 | 
-| 2022-11-03 | 32490 | 7072 | 
 

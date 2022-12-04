@@ -1,6 +1,6 @@
 # learn-co-curriculum/phase-3-mock-code-challenge-freebie-tracker - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 1483
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 1 | 1483 | 
 | 2022-12-02 | 1 | 1483 | 
 | 2022-12-01 | 1 | 1428 | 
 | 2022-11-30 | 1 | 1425 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 1 | 1339 | 
 | 2022-11-05 | 1 | 1332 | 
 | 2022-11-04 | 1 | 1322 | 
-| 2022-11-03 | 1 | 1313 | 
 

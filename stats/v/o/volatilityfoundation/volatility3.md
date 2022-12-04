@@ -1,10 +1,10 @@
 # volatilityfoundation/volatility3 - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 242
 
-★ Stars: 1165
+★ Stars: 1168
 
 [Open repository](https://github.com/volatilityfoundation/volatility3)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 1168 | 242 | 
 | 2022-12-02 | 1165 | 242 | 
 | 2022-12-01 | 1164 | 241 | 
 | 2022-11-30 | 1163 | 240 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 1117 | 235 | 
 | 2022-11-05 | 1115 | 234 | 
 | 2022-11-04 | 1113 | 234 | 
-| 2022-11-03 | 1106 | 234 | 
 

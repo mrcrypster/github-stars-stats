@@ -1,6 +1,6 @@
 # jacobono/gradle-jaxb-plugin - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 46 | 45 | 
 | 2022-12-02 | 46 | 45 | 
 | 2022-12-01 | 46 | 45 | 
 

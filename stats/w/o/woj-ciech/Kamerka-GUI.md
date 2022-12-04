@@ -1,10 +1,10 @@
 # woj-ciech/Kamerka-GUI - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 83
 
-★ Stars: 389
+★ Stars: 390
 
 [Open repository](https://github.com/woj-ciech/Kamerka-GUI)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 390 | 83 | 
 | 2022-12-02 | 389 | 83 | 
 | 2022-12-01 | 389 | 83 | 
 | 2022-11-30 | 388 | 83 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 379 | 81 | 
 | 2022-11-05 | 379 | 81 | 
 | 2022-11-04 | 378 | 81 | 
-| 2022-11-03 | 377 | 80 | 
 

@@ -1,10 +1,10 @@
 # LeetCode-OpenSource/vscode-leetcode - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 585
 
-★ Stars: 7598
+★ Stars: 7600
 
 [Open repository](https://github.com/LeetCode-OpenSource/vscode-leetcode)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 7600 | 585 | 
 | 2022-12-02 | 7598 | 585 | 
 | 2022-12-01 | 7595 | 585 | 
 | 2022-11-30 | 7594 | 586 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 7569 | 583 | 
 | 2022-11-05 | 7569 | 583 | 
 | 2022-11-04 | 7568 | 583 | 
-| 2022-11-03 | 7568 | 583 | 
 

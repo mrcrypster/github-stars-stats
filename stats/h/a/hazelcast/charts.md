@@ -1,10 +1,10 @@
 # hazelcast/charts - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 71
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/hazelcast/charts)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 30 | 71 | 
 | 2022-12-02 | 29 | 71 | 
 | 2022-12-01 | 29 | 71 | 
 | 2022-11-30 | 29 | 70 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 28 | 68 | 
 | 2022-11-05 | 28 | 68 | 
 | 2022-11-04 | 28 | 68 | 
-| 2022-11-03 | 28 | 68 | 
 

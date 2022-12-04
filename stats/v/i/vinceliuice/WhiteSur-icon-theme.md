@@ -1,10 +1,10 @@
 # vinceliuice/WhiteSur-icon-theme - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 73
 
-★ Stars: 717
+★ Stars: 718
 
 [Open repository](https://github.com/vinceliuice/WhiteSur-icon-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 718 | 73 | 
 | 2022-12-02 | 717 | 73 | 
 | 2022-12-01 | 716 | 73 | 
 | 2022-11-30 | 715 | 72 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 690 | 69 | 
 | 2022-11-05 | 691 | 69 | 
 | 2022-11-04 | 691 | 69 | 
-| 2022-11-03 | 691 | 69 | 
 

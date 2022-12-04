@@ -1,10 +1,10 @@
 # FLEXTool/FLEX - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 1615
 
-★ Stars: 13310
+★ Stars: 13311
 
 [Open repository](https://github.com/FLEXTool/FLEX)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 13311 | 1615 | 
 | 2022-12-02 | 13310 | 1615 | 
 | 2022-12-01 | 13308 | 1615 | 
 | 2022-11-30 | 13305 | 1613 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 13259 | 1606 | 
 | 2022-11-05 | 13259 | 1606 | 
 | 2022-11-04 | 13257 | 1606 | 
-| 2022-11-03 | 13251 | 1604 | 
 

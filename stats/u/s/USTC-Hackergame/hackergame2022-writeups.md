@@ -1,6 +1,6 @@
 # USTC-Hackergame/hackergame2022-writeups - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 230 | 49 | 
 | 2022-12-02 | 230 | 49 | 
 | 2022-12-01 | 230 | 50 | 
 | 2022-11-30 | 229 | 50 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 206 | 46 | 
 | 2022-11-05 | 205 | 46 | 
 | 2022-11-04 | 202 | 45 | 
-| 2022-11-03 | 199 | 45 | 
 

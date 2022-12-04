@@ -1,6 +1,6 @@
 # jsanchezperuga/Unity-Mayor-de-tres-con-UI - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 133
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 11 | 133 | 
 | 2022-12-01 | 11 | 133 | 
 | 2022-11-30 | 11 | 133 | 
 | 2022-11-29 | 11 | 133 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-06 | 11 | 133 | 
 | 2022-11-05 | 11 | 133 | 
 | 2022-11-04 | 11 | 133 | 
-| 2022-11-03 | 11 | 133 | 
 

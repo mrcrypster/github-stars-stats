@@ -1,10 +1,10 @@
 # wordpress-mobile/gutenberg-mobile - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 56
 
-★ Stars: 171
+★ Stars: 172
 
 [Open repository](https://github.com/wordpress-mobile/gutenberg-mobile)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 172 | 56 | 
 | 2022-12-02 | 171 | 56 | 
 | 2022-12-01 | 171 | 56 | 
 | 2022-11-30 | 171 | 56 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 173 | 57 | 
 | 2022-11-05 | 173 | 57 | 
 | 2022-11-04 | 173 | 57 | 
-| 2022-11-03 | 173 | 57 | 
 

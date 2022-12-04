@@ -1,10 +1,10 @@
 # ueberdosis/tiptap - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
-☋ Forks: 1561
+☋ Forks: 1562
 
-★ Stars: 17218
+★ Stars: 17228
 
 [Open repository](https://github.com/ueberdosis/tiptap)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 17228 | 1562 | 
 | 2022-12-02 | 17218 | 1561 | 
 | 2022-12-01 | 17207 | 1560 | 
 | 2022-11-30 | 17198 | 1559 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-07 | 16893 | 1538 | 
 | 2022-11-06 | 16873 | 1537 | 
 | 2022-11-05 | 16869 | 1537 | 
-| 2022-11-04 | 16860 | 1537 | 
 

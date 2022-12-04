@@ -1,8 +1,8 @@
 # reorx/sui2 - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
-☋ Forks: 38
+☋ Forks: 37
 
 ★ Stars: 355
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 355 | 37 | 
 | 2022-12-02 | 355 | 38 | 
 | 2022-12-01 | 355 | 38 | 
 | 2022-11-30 | 354 | 38 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 333 | 35 | 
 | 2022-11-05 | 330 | 35 | 
 | 2022-11-04 | 330 | 35 | 
-| 2022-11-03 | 327 | 34 | 
 

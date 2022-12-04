@@ -1,10 +1,10 @@
 # Readarr/Readarr - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 105
 
-★ Stars: 1748
+★ Stars: 1749
 
 [Open repository](https://github.com/Readarr/Readarr)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 1749 | 105 | 
 | 2022-12-02 | 1748 | 105 | 
 | 2022-12-01 | 1746 | 105 | 
 | 2022-11-30 | 1745 | 103 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-07 | 1717 | 103 | 
 | 2022-11-06 | 1717 | 103 | 
 | 2022-11-05 | 1718 | 103 | 
-| 2022-11-04 | 1715 | 103 | 
 

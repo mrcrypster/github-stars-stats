@@ -1,10 +1,10 @@
 # AUK9527/Are-u-ok - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
-☋ Forks: 348
+☋ Forks: 349
 
-★ Stars: 1409
+★ Stars: 1420
 
 [Open repository](https://github.com/AUK9527/Are-u-ok)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 1420 | 349 | 
 | 2022-12-02 | 1409 | 348 | 
 | 2022-12-01 | 1401 | 346 | 
 | 2022-11-30 | 1396 | 345 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 1158 | 293 | 
 | 2022-11-05 | 1152 | 292 | 
 | 2022-11-04 | 1142 | 290 | 
-| 2022-11-03 | 1135 | 287 | 
 

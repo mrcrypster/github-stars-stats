@@ -1,10 +1,10 @@
 # Sqaaakoi/noptcha-patch - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 13
 
-★ Stars: 203
+★ Stars: 202
 
 [Open repository](https://github.com/Sqaaakoi/noptcha-patch)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 202 | 13 | 
 | 2022-12-02 | 203 | 13 | 
 | 2022-12-01 | 203 | 13 | 
 | 2022-11-30 | 203 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-07 | 201 | 12 | 
 | 2022-11-06 | 201 | 12 | 
 | 2022-11-05 | 201 | 12 | 
-| 2022-11-04 | 201 | 12 | 
 

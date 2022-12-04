@@ -1,6 +1,6 @@
 # herotc/hero-rotation - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 104
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 124 | 104 | 
 | 2022-12-02 | 124 | 104 | 
 | 2022-12-01 | 124 | 104 | 
 | 2022-11-30 | 124 | 104 | 

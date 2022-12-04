@@ -1,10 +1,10 @@
 # Bogdanp/awesome-advent-of-code - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
-☋ Forks: 731
+☋ Forks: 745
 
-★ Stars: 1879
+★ Stars: 1922
 
 [Open repository](https://github.com/Bogdanp/awesome-advent-of-code)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 1922 | 745 | 
 | 2022-12-02 | 1879 | 731 | 
 | 2022-12-01 | 1845 | 713 | 
 | 2022-11-30 | 1798 | 677 | 

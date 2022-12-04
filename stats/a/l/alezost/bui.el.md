@@ -1,6 +1,6 @@
 # alezost/bui.el - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 105 | 9 | 
 | 2022-12-02 | 105 | 9 | 
 | 2022-12-01 | 105 | 9 | 
 | 2022-11-30 | 105 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 104 | 9 | 
 | 2022-11-05 | 104 | 9 | 
 | 2022-11-04 | 104 | 9 | 
-| 2022-11-03 | 104 | 9 | 
 

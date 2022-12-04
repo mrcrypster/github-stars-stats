@@ -1,10 +1,10 @@
 # nasa/cFS - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 160
 
-★ Stars: 470
+★ Stars: 471
 
 [Open repository](https://github.com/nasa/cFS)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 471 | 160 | 
 | 2022-12-02 | 470 | 160 | 
 | 2022-12-01 | 469 | 160 | 
 | 2022-11-29 | 469 | 160 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 465 | 160 | 
 | 2022-11-05 | 464 | 160 | 
 | 2022-11-04 | 463 | 160 | 
-| 2022-11-03 | 463 | 160 | 
 

@@ -1,10 +1,10 @@
 # tinevez/matlab-tree - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 33
 
-★ Stars: 43
+★ Stars: 42
 
 [Open repository](https://github.com/tinevez/matlab-tree)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 42 | 33 | 
 | 2022-12-01 | 43 | 33 | 
 | 2022-11-30 | 43 | 33 | 
 | 2022-11-29 | 43 | 33 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-07 | 43 | 33 | 
 | 2022-11-06 | 43 | 33 | 
 | 2022-11-05 | 43 | 33 | 
-| 2022-11-03 | 43 | 33 | 
 

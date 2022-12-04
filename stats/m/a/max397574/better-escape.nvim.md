@@ -1,10 +1,10 @@
 # max397574/better-escape.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 8
 
-★ Stars: 255
+★ Stars: 256
 
 [Open repository](https://github.com/max397574/better-escape.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 256 | 8 | 
 | 2022-12-02 | 255 | 8 | 
 | 2022-12-01 | 254 | 8 | 
 | 2022-11-30 | 254 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 251 | 8 | 
 | 2022-11-05 | 251 | 8 | 
 | 2022-11-04 | 251 | 8 | 
-| 2022-11-03 | 250 | 8 | 
 

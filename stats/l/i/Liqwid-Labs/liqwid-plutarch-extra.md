@@ -1,10 +1,10 @@
 # Liqwid-Labs/liqwid-plutarch-extra - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 2
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/Liqwid-Labs/liqwid-plutarch-extra)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 8 | 2 | 
 | 2022-12-02 | 7 | 2 | 
 | 2022-12-01 | 7 | 2 | 
 | 2022-11-30 | 7 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 7 | 2 | 
 | 2022-11-05 | 7 | 2 | 
 | 2022-11-04 | 7 | 2 | 
-| 2022-11-03 | 7 | 2 | 
 

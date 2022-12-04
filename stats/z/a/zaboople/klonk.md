@@ -1,10 +1,10 @@
 # zaboople/klonk - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 8
 
-★ Stars: 200
+★ Stars: 201
 
 [Open repository](https://github.com/zaboople/klonk)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 201 | 8 | 
 | 2022-12-02 | 200 | 8 | 
 | 2022-12-01 | 200 | 8 | 
 | 2022-11-30 | 199 | 8 | 

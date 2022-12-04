@@ -1,10 +1,10 @@
 # jtmueller/Collections.Pooled - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 42
 
-★ Stars: 397
+★ Stars: 398
 
 [Open repository](https://github.com/jtmueller/Collections.Pooled)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 398 | 42 | 
 | 2022-12-02 | 397 | 42 | 
 | 2022-12-01 | 395 | 42 | 
 | 2022-11-30 | 394 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 380 | 40 | 
 | 2022-11-05 | 380 | 40 | 
 | 2022-11-04 | 380 | 40 | 
-| 2022-11-03 | 380 | 40 | 
 

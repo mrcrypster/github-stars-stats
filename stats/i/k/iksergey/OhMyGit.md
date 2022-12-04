@@ -1,8 +1,8 @@
 # iksergey/OhMyGit - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
-☋ Forks: 352
+☋ Forks: 346
 
 ★ Stars: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 4 | 346 | 
 | 2022-12-02 | 4 | 352 | 
 | 2022-12-01 | 4 | 351 | 
 

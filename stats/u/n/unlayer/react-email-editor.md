@@ -1,6 +1,6 @@
 # unlayer/react-email-editor - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 626
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 3592 | 626 | 
 | 2022-12-02 | 3592 | 626 | 
 | 2022-12-01 | 3592 | 625 | 
 | 2022-11-30 | 3590 | 626 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 3543 | 611 | 
 | 2022-11-05 | 3542 | 611 | 
 | 2022-11-04 | 3542 | 611 | 
-| 2022-11-03 | 3541 | 612 | 
 

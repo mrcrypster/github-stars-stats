@@ -1,6 +1,6 @@
 # purefinance/mmb - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 340 | 55 | 
 | 2022-12-01 | 340 | 55 | 
 | 2022-11-30 | 340 | 55 | 
 | 2022-11-29 | 340 | 55 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-06 | 320 | 52 | 
 | 2022-11-05 | 319 | 52 | 
 | 2022-11-04 | 317 | 52 | 
-| 2022-11-03 | 316 | 51 | 
 

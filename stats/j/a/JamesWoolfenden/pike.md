@@ -1,6 +1,6 @@
 # JamesWoolfenden/pike - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 178 | 8 | 
 | 2022-12-02 | 178 | 8 | 
 | 2022-12-01 | 175 | 8 | 
 | 2022-11-30 | 175 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 167 | 8 | 
 | 2022-11-05 | 166 | 8 | 
 | 2022-11-04 | 166 | 8 | 
-| 2022-11-03 | 166 | 8 | 
 

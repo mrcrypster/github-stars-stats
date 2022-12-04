@@ -1,10 +1,10 @@
 # marko-cerovac/material.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 84
 
-★ Stars: 645
+★ Stars: 647
 
 [Open repository](https://github.com/marko-cerovac/material.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 647 | 84 | 
 | 2022-12-02 | 645 | 84 | 
 | 2022-12-01 | 645 | 84 | 
 | 2022-11-30 | 643 | 84 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 624 | 81 | 
 | 2022-11-05 | 624 | 81 | 
 | 2022-11-04 | 624 | 81 | 
-| 2022-11-03 | 624 | 80 | 
 

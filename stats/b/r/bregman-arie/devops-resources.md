@@ -1,10 +1,10 @@
 # bregman-arie/devops-resources - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
-☋ Forks: 1393
+☋ Forks: 1395
 
-★ Stars: 5999
+★ Stars: 6006
 
 [Open repository](https://github.com/bregman-arie/devops-resources)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 6006 | 1395 | 
 | 2022-12-02 | 5999 | 1393 | 
 | 2022-12-01 | 5971 | 1381 | 
 | 2022-11-30 | 5910 | 1371 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 5825 | 1341 | 
 | 2022-11-05 | 5817 | 1334 | 
 | 2022-11-04 | 5817 | 1333 | 
-| 2022-11-03 | 5812 | 1330 | 
 

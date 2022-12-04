@@ -1,6 +1,6 @@
 # Patalin/HTML-CSS-Image-Hover-Effects - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 30 | 8 | 
 | 2022-12-01 | 30 | 8 | 
 | 2022-11-30 | 30 | 8 | 
 | 2022-11-29 | 30 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-07 | 30 | 7 | 
 | 2022-11-06 | 30 | 7 | 
 | 2022-11-05 | 30 | 7 | 
-| 2022-11-04 | 30 | 7 | 
 

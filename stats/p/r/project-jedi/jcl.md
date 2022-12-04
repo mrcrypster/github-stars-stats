@@ -1,6 +1,6 @@
 # project-jedi/jcl - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 309
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 572 | 309 | 
 | 2022-12-02 | 572 | 309 | 
 | 2022-12-01 | 571 | 310 | 
 | 2022-11-30 | 571 | 310 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 570 | 307 | 
 | 2022-11-05 | 570 | 306 | 
 | 2022-11-04 | 570 | 306 | 
-| 2022-11-03 | 570 | 306 | 
 

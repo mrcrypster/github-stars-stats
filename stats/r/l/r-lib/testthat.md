@@ -1,8 +1,8 @@
 # r-lib/testthat - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
-☋ Forks: 301
+☋ Forks: 300
 
 ★ Stars: 813
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 813 | 300 | 
 | 2022-12-02 | 813 | 301 | 
 | 2022-12-01 | 813 | 301 | 
 | 2022-11-30 | 813 | 301 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 812 | 299 | 
 | 2022-11-05 | 811 | 299 | 
 | 2022-11-04 | 810 | 299 | 
-| 2022-11-03 | 809 | 299 | 
 

@@ -1,10 +1,10 @@
 # pmndrs/zustand - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
-☋ Forks: 723
+☋ Forks: 724
 
-★ Stars: 24199
+★ Stars: 24228
 
 [Open repository](https://github.com/pmndrs/zustand)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 24228 | 724 | 
 | 2022-12-02 | 24199 | 723 | 
 | 2022-12-01 | 24186 | 724 | 
 | 2022-11-30 | 24152 | 722 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 23368 | 698 | 
 | 2022-11-05 | 23344 | 695 | 
 | 2022-11-04 | 23314 | 694 | 
-| 2022-11-03 | 23276 | 691 | 
 

@@ -1,8 +1,8 @@
 # meshery/meshery - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
-☋ Forks: 753
+☋ Forks: 755
 
 ★ Stars: 1607
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 1607 | 755 | 
 | 2022-12-02 | 1607 | 753 | 
 | 2022-12-01 | 1607 | 752 | 
 | 2022-11-30 | 1604 | 752 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 1585 | 739 | 
 | 2022-11-05 | 1584 | 739 | 
 | 2022-11-04 | 1583 | 738 | 
-| 2022-11-03 | 1583 | 736 | 
 

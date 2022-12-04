@@ -1,6 +1,6 @@
 # terraform-aws-modules/terraform-aws-iam - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 717
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 566 | 717 | 
 | 2022-12-02 | 566 | 717 | 
 | 2022-12-01 | 565 | 716 | 
 | 2022-11-30 | 564 | 716 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 554 | 693 | 
 | 2022-11-05 | 554 | 693 | 
 | 2022-11-04 | 554 | 693 | 
-| 2022-11-03 | 555 | 690 | 
 

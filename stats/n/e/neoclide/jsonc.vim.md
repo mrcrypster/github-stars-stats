@@ -1,10 +1,10 @@
 # neoclide/jsonc.vim - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 11
 
-★ Stars: 55
+★ Stars: 54
 
 [Open repository](https://github.com/neoclide/jsonc.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 54 | 11 | 
 | 2022-12-02 | 55 | 11 | 
 | 2022-12-01 | 55 | 11 | 
 | 2022-11-30 | 55 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 55 | 11 | 
 | 2022-11-05 | 55 | 11 | 
 | 2022-11-04 | 55 | 11 | 
-| 2022-11-03 | 55 | 11 | 
 

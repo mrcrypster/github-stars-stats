@@ -1,10 +1,10 @@
 # twitter/twitter-text - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 478
 
-★ Stars: 2884
+★ Stars: 2887
 
 [Open repository](https://github.com/twitter/twitter-text)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 2887 | 478 | 
 | 2022-12-02 | 2884 | 478 | 
 | 2022-12-01 | 2884 | 478 | 
 | 2022-11-30 | 2884 | 478 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 2845 | 470 | 
 | 2022-11-05 | 2843 | 468 | 
 | 2022-11-04 | 2843 | 467 | 
-| 2022-11-03 | 2842 | 466 | 
 

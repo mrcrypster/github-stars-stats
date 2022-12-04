@@ -1,10 +1,10 @@
 # yairEO/tagify - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
-☋ Forks: 391
+☋ Forks: 392
 
-★ Stars: 2774
+★ Stars: 2775
 
 [Open repository](https://github.com/yairEO/tagify)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 2775 | 392 | 
 | 2022-12-02 | 2774 | 391 | 
 | 2022-12-01 | 2774 | 391 | 
 | 2022-11-30 | 2771 | 391 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 2748 | 387 | 
 | 2022-11-05 | 2748 | 387 | 
 | 2022-11-04 | 2748 | 387 | 
-| 2022-11-03 | 2747 | 387 | 
 

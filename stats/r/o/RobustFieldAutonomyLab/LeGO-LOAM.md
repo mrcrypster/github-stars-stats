@@ -1,10 +1,10 @@
 # RobustFieldAutonomyLab/LeGO-LOAM - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 1014
 
-★ Stars: 1844
+★ Stars: 1846
 
 [Open repository](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 1846 | 1014 | 
 | 2022-12-02 | 1844 | 1014 | 
 | 2022-12-01 | 1843 | 1014 | 
 | 2022-11-30 | 1843 | 1015 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 1812 | 1006 | 
 | 2022-11-05 | 1810 | 1007 | 
 | 2022-11-04 | 1810 | 1006 | 
-| 2022-11-03 | 1808 | 1006 | 
 

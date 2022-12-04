@@ -1,6 +1,6 @@
 # burhanrashid52/PhotoEditor - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 890
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 3515 | 890 | 
 | 2022-12-02 | 3515 | 890 | 
 | 2022-12-01 | 3514 | 889 | 
 | 2022-11-30 | 3514 | 888 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 3493 | 884 | 
 | 2022-11-05 | 3489 | 883 | 
 | 2022-11-04 | 3490 | 882 | 
-| 2022-11-03 | 3486 | 882 | 
 

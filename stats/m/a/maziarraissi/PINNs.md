@@ -1,10 +1,10 @@
 # maziarraissi/PINNs - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 03
 
-☋ Forks: 846
+☋ Forks: 847
 
-★ Stars: 1918
+★ Stars: 1919
 
 [Open repository](https://github.com/maziarraissi/PINNs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 1919 | 847 | 
 | 2022-12-01 | 1918 | 846 | 
 | 2022-11-30 | 1914 | 845 | 
 | 2022-11-29 | 1911 | 845 | 

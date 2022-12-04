@@ -2,7 +2,7 @@
 
 Stats updated on Dec 2022, 03
 
-☋ Forks: 7
+☋ Forks: 10
 
 ★ Stars: 17
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-03 | 17 | 7 | 
+| 2022-12-03 | 17 | 10 | 
 | 2022-12-02 | 16 | 7 | 
 | 2022-12-01 | 15 | 6 | 
 

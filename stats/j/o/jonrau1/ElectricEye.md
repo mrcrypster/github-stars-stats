@@ -1,6 +1,6 @@
 # jonrau1/ElectricEye - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 93
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 704 | 93 | 
 | 2022-12-02 | 704 | 93 | 
 | 2022-12-01 | 704 | 93 | 
 | 2022-11-30 | 704 | 93 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 699 | 93 | 
 | 2022-11-05 | 699 | 93 | 
 | 2022-11-04 | 699 | 92 | 
-| 2022-11-03 | 699 | 92 | 
 

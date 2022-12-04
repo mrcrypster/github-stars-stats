@@ -1,6 +1,6 @@
 # TheAlgorithms/Go - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 2011
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 11529 | 2011 | 
 | 2022-12-02 | 11529 | 2011 | 
 | 2022-12-01 | 11522 | 2010 | 
 | 2022-11-30 | 11515 | 2010 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 11361 | 1986 | 
 | 2022-11-05 | 11358 | 1983 | 
 | 2022-11-04 | 11356 | 1981 | 
-| 2022-11-03 | 11352 | 1980 | 
 

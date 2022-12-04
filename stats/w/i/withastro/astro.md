@@ -1,10 +1,10 @@
 # withastro/astro - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
-☋ Forks: 1088
+☋ Forks: 1090
 
-★ Stars: 23025
+★ Stars: 23058
 
 [Open repository](https://github.com/withastro/astro)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 23058 | 1090 | 
 | 2022-12-02 | 23025 | 1088 | 
 | 2022-12-01 | 23007 | 1088 | 
 | 2022-11-30 | 22974 | 1087 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 22027 | 1037 | 
 | 2022-11-05 | 22009 | 1037 | 
 | 2022-11-04 | 21973 | 1037 | 
-| 2022-11-03 | 21922 | 1027 | 
 

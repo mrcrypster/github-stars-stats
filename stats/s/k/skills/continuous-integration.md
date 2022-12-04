@@ -1,10 +1,10 @@
 # skills/continuous-integration - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 36
 
-★ Stars: 108
+★ Stars: 111
 
 [Open repository](https://github.com/skills/continuous-integration)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 111 | 36 | 
 | 2022-12-02 | 108 | 36 | 
 | 2022-12-01 | 108 | 36 | 
 | 2022-11-30 | 108 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 102 | 30 | 
 | 2022-11-05 | 102 | 30 | 
 | 2022-11-04 | 102 | 30 | 
-| 2022-11-03 | 102 | 30 | 
 

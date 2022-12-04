@@ -1,6 +1,6 @@
 # ng-alain/ng-alain - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 1128
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 4393 | 1128 | 
 | 2022-12-02 | 4393 | 1128 | 
 | 2022-12-01 | 4392 | 1128 | 
 | 2022-11-30 | 4392 | 1128 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 4389 | 1129 | 
 | 2022-11-05 | 4388 | 1129 | 
 | 2022-11-04 | 4388 | 1129 | 
-| 2022-11-03 | 4388 | 1129 | 
 

@@ -1,8 +1,8 @@
 # uwiger/gproc - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
-☋ Forks: 229
+☋ Forks: 230
 
 ★ Stars: 1018
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 1018 | 230 | 
 | 2022-12-02 | 1018 | 229 | 
 | 2022-12-01 | 1018 | 229 | 
 | 2022-11-30 | 1018 | 229 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 1013 | 228 | 
 | 2022-11-05 | 1013 | 228 | 
 | 2022-11-04 | 1013 | 228 | 
-| 2022-11-03 | 1013 | 228 | 
 

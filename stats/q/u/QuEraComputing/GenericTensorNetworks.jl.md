@@ -1,6 +1,6 @@
 # QuEraComputing/GenericTensorNetworks.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 44 | 4 | 
 | 2022-12-02 | 44 | 4 | 
 | 2022-12-01 | 44 | 4 | 
 | 2022-11-30 | 44 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-07 | 42 | 4 | 
 | 2022-11-06 | 42 | 4 | 
 | 2022-11-05 | 42 | 4 | 
-| 2022-11-04 | 42 | 4 | 
 

@@ -1,10 +1,10 @@
 # celery/django-celery-beat - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
-☋ Forks: 370
+☋ Forks: 368
 
-★ Stars: 1265
+★ Stars: 1266
 
 [Open repository](https://github.com/celery/django-celery-beat)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 1266 | 368 | 
 | 2022-12-02 | 1265 | 370 | 
 | 2022-12-01 | 1264 | 370 | 
 | 2022-11-30 | 1263 | 369 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 1256 | 365 | 
 | 2022-11-05 | 1255 | 365 | 
 | 2022-11-04 | 1255 | 365 | 
-| 2022-11-03 | 1254 | 365 | 
 

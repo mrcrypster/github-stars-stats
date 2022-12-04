@@ -1,6 +1,6 @@
 # IsotoxalDev/Todot - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 32 | 1 | 
 | 2022-12-02 | 32 | 1 | 
 | 2022-12-01 | 32 | 1 | 
 | 2022-11-30 | 32 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 32 | 1 | 
 | 2022-11-05 | 32 | 1 | 
 | 2022-11-04 | 32 | 1 | 
-| 2022-11-03 | 32 | 1 | 
 

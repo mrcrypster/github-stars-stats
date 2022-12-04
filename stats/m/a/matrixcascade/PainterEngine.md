@@ -1,10 +1,10 @@
 # matrixcascade/PainterEngine - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 187
 
-★ Stars: 1602
+★ Stars: 1604
 
 [Open repository](https://github.com/matrixcascade/PainterEngine)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 1604 | 187 | 
 | 2022-12-02 | 1602 | 187 | 
 | 2022-12-01 | 1599 | 187 | 
 | 2022-11-30 | 1598 | 187 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 1575 | 184 | 
 | 2022-11-05 | 1574 | 184 | 
 | 2022-11-04 | 1573 | 184 | 
-| 2022-11-03 | 1572 | 184 | 
 

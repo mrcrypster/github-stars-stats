@@ -1,10 +1,10 @@
 # invoke-ai/InvokeAI - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
-☋ Forks: 758
+☋ Forks: 772
 
-★ Stars: 5970
+★ Stars: 6234
 
 [Open repository](https://github.com/invoke-ai/InvokeAI)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 6234 | 772 | 
 | 2022-12-02 | 5970 | 758 | 
 | 2022-12-01 | 5740 | 741 | 
 | 2022-11-30 | 5612 | 725 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 5210 | 653 | 
 | 2022-11-05 | 5169 | 648 | 
 | 2022-11-04 | 5111 | 643 | 
-| 2022-11-03 | 5084 | 641 | 
 

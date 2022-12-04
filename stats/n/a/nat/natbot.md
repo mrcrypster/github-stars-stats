@@ -1,10 +1,10 @@
 # nat/natbot - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
-☋ Forks: 95
+☋ Forks: 97
 
-★ Stars: 777
+★ Stars: 788
 
 [Open repository](https://github.com/nat/natbot)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 788 | 97 | 
 | 2022-12-02 | 777 | 95 | 
 | 2022-12-01 | 774 | 94 | 
 | 2022-11-30 | 767 | 94 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 546 | 64 | 
 | 2022-11-05 | 546 | 64 | 
 | 2022-11-04 | 545 | 63 | 
-| 2022-11-03 | 545 | 64 | 
 

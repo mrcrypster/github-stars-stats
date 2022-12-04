@@ -1,10 +1,10 @@
 # chaofengc/Awesome-Image-Quality-Assessment - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 22
 
-★ Stars: 193
+★ Stars: 194
 
 [Open repository](https://github.com/chaofengc/Awesome-Image-Quality-Assessment)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 194 | 22 | 
 | 2022-12-02 | 193 | 22 | 
 | 2022-12-01 | 192 | 22 | 
 | 2022-11-30 | 192 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 168 | 18 | 
 | 2022-11-05 | 168 | 18 | 
 | 2022-11-04 | 167 | 18 | 
-| 2022-11-03 | 166 | 18 | 
 

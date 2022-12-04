@@ -1,8 +1,8 @@
 # akaanuzman/stack_overflow_clone - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 04
 
-☋ Forks: 4
+☋ Forks: 5
 
 ★ Stars: 33
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 33 | 5 | 
 | 2022-12-02 | 33 | 4 | 
 | 2022-12-01 | 32 | 4 | 
 | 2022-11-30 | 32 | 4 | 

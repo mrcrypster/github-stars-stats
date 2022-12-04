@@ -1,10 +1,10 @@
 # deepkit/deepkit-framework - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 88
 
-★ Stars: 2303
+★ Stars: 2305
 
 [Open repository](https://github.com/deepkit/deepkit-framework)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 2305 | 88 | 
 | 2022-12-02 | 2303 | 88 | 
 | 2022-12-01 | 2303 | 88 | 
 | 2022-11-30 | 2298 | 88 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 2285 | 87 | 
 | 2022-11-05 | 2284 | 87 | 
 | 2022-11-04 | 2283 | 87 | 
-| 2022-11-03 | 2282 | 87 | 
 

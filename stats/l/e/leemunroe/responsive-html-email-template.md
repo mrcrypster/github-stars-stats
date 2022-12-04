@@ -1,8 +1,8 @@
 # leemunroe/responsive-html-email-template - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
-☋ Forks: 4223
+☋ Forks: 4222
 
 ★ Stars: 11757
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 11757 | 4222 | 
 | 2022-12-02 | 11757 | 4223 | 
 | 2022-12-01 | 11755 | 4223 | 
 | 2022-11-30 | 11751 | 4221 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 11675 | 4187 | 
 | 2022-11-05 | 11674 | 4187 | 
 | 2022-11-04 | 11668 | 4187 | 
-| 2022-11-03 | 11656 | 4179 | 
 

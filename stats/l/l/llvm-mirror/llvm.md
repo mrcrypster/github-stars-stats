@@ -1,10 +1,10 @@
 # llvm-mirror/llvm - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 2127
 
-★ Stars: 4513
+★ Stars: 4514
 
 [Open repository](https://github.com/llvm-mirror/llvm)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 4514 | 2127 | 
 | 2022-12-02 | 4513 | 2127 | 
 | 2022-12-01 | 4513 | 2127 | 
 | 2022-11-30 | 4513 | 2127 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 4513 | 2125 | 
 | 2022-11-05 | 4514 | 2125 | 
 | 2022-11-04 | 4514 | 2125 | 
-| 2022-11-03 | 4513 | 2123 | 
 

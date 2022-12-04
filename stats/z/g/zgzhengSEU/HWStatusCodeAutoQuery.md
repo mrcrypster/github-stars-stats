@@ -1,10 +1,10 @@
 # zgzhengSEU/HWStatusCodeAutoQuery - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
-☋ Forks: 214
+☋ Forks: 217
 
-★ Stars: 114
+★ Stars: 117
 
 [Open repository](https://github.com/zgzhengSEU/HWStatusCodeAutoQuery)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 117 | 217 | 
 | 2022-12-02 | 114 | 214 | 
 | 2022-12-01 | 114 | 213 | 
 | 2022-11-30 | 114 | 212 | 

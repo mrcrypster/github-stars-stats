@@ -1,10 +1,10 @@
 # inverse-inc/packetfence - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 251
 
-★ Stars: 1051
+★ Stars: 1052
 
 [Open repository](https://github.com/inverse-inc/packetfence)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 1052 | 251 | 
 | 2022-12-02 | 1051 | 251 | 
 | 2022-12-01 | 1051 | 251 | 
 | 2022-11-30 | 1051 | 251 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 1049 | 246 | 
 | 2022-11-05 | 1049 | 246 | 
 | 2022-11-04 | 1048 | 246 | 
-| 2022-11-03 | 1048 | 246 | 
 

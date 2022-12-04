@@ -1,6 +1,6 @@
 # olivere/elastic - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 1136
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 7066 | 1136 | 
 | 2022-12-02 | 7066 | 1136 | 
 | 2022-12-01 | 7064 | 1136 | 
 | 2022-11-30 | 7063 | 1136 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 7039 | 1132 | 
 | 2022-11-05 | 7039 | 1131 | 
 | 2022-11-04 | 7039 | 1131 | 
-| 2022-11-03 | 7039 | 1132 | 
 

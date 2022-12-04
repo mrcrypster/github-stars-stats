@@ -1,6 +1,6 @@
 # helium/erlang-libp2p - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 110 | 32 | 
 | 2022-12-01 | 110 | 32 | 
 | 2022-11-30 | 110 | 32 | 
 | 2022-11-29 | 110 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-06 | 109 | 32 | 
 | 2022-11-05 | 109 | 32 | 
 | 2022-11-04 | 109 | 32 | 
-| 2022-11-03 | 109 | 32 | 
 

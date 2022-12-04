@@ -1,8 +1,8 @@
 # martineausimon/nvim-lilypond-suite - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 65
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 65 | 2 | 
 | 2022-12-02 | 65 | 1 | 
 | 2022-12-01 | 65 | 1 | 
 | 2022-11-30 | 65 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 63 | - | 
 | 2022-11-05 | 63 | - | 
 | 2022-11-04 | 63 | - | 
-| 2022-11-03 | 63 | - | 
 

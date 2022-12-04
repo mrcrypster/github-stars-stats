@@ -1,10 +1,10 @@
 # okyyds/yyds - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 109
 
-★ Stars: 163
+★ Stars: 164
 
 [Open repository](https://github.com/okyyds/yyds)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 164 | 109 | 
 | 2022-12-01 | 163 | 109 | 
 | 2022-11-30 | 162 | 109 | 
 | 2022-11-29 | 162 | 109 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 01
 | 2022-11-07 | 155 | 106 | 
 | 2022-11-06 | 155 | 106 | 
 | 2022-11-05 | 155 | 106 | 
-| 2022-11-04 | 155 | 105 | 
 

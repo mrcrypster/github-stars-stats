@@ -1,10 +1,10 @@
 # MicrosoftDocs/azure-docs-cli - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 428
 
-★ Stars: 160
+★ Stars: 159
 
 [Open repository](https://github.com/MicrosoftDocs/azure-docs-cli)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 159 | 428 | 
 | 2022-12-02 | 160 | 428 | 
 | 2022-12-01 | 160 | 427 | 
 | 2022-11-30 | 160 | 427 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 155 | 425 | 
 | 2022-11-05 | 155 | 426 | 
 | 2022-11-04 | 155 | 426 | 
-| 2022-11-03 | 155 | 426 | 
 

@@ -1,10 +1,10 @@
 # anchore/grype - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 327
 
-★ Stars: 4855
+★ Stars: 4862
 
 [Open repository](https://github.com/anchore/grype)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 4862 | 327 | 
 | 2022-12-02 | 4855 | 327 | 
 | 2022-12-01 | 4847 | 326 | 
 | 2022-11-30 | 4842 | 325 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 4752 | 321 | 
 | 2022-11-05 | 4749 | 321 | 
 | 2022-11-04 | 4738 | 320 | 
-| 2022-11-03 | 4726 | 320 | 
 

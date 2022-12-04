@@ -1,8 +1,8 @@
 # OffcierCia/Crypto-OpSec-SelfGuard-RoadMap - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
-☋ Forks: 54
+☋ Forks: 56
 
 ★ Stars: 588
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 588 | 56 | 
 | 2022-12-02 | 588 | 54 | 
 | 2022-12-01 | 587 | 54 | 
 | 2022-11-30 | 586 | 53 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 565 | 51 | 
 | 2022-11-05 | 565 | 51 | 
 | 2022-11-04 | 564 | 51 | 
-| 2022-11-03 | 563 | 51 | 
 

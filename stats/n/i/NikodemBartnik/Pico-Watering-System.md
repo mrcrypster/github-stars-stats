@@ -1,6 +1,6 @@
 # NikodemBartnik/Pico-Watering-System - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 22 | 6 | 
 | 2022-12-02 | 22 | 6 | 
 | 2022-12-01 | 22 | 6 | 
 | 2022-11-30 | 22 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-07 | 21 | 6 | 
 | 2022-11-06 | 21 | 6 | 
 | 2022-11-05 | 21 | 6 | 
-| 2022-11-04 | 21 | 6 | 
 

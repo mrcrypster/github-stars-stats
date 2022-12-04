@@ -1,10 +1,10 @@
 # damn/engine - stars & forks statistics
 
-Stats updated on Dec 2022, 01
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 1
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/damn/engine)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 18 | 1 | 
 | 2022-12-01 | 17 | 1 | 
 | 2022-11-30 | 17 | 1 | 
 | 2022-11-29 | 17 | 1 | 

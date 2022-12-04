@@ -1,6 +1,6 @@
 # graphql-crystal/benchmarks - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 53 | 8 | 
 | 2022-12-02 | 53 | 8 | 
 | 2022-12-01 | 52 | 8 | 
 | 2022-11-30 | 52 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 47 | 7 | 
 | 2022-11-05 | 47 | 7 | 
 | 2022-11-04 | 47 | 7 | 
-| 2022-11-03 | 46 | 7 | 
 

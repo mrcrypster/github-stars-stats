@@ -1,10 +1,10 @@
 # b2a3e8/jekyll-theme-console - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
-☋ Forks: 351
+☋ Forks: 350
 
-★ Stars: 497
+★ Stars: 498
 
 [Open repository](https://github.com/b2a3e8/jekyll-theme-console)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 498 | 350 | 
 | 2022-12-02 | 497 | 351 | 
 | 2022-12-01 | 496 | 351 | 
 | 2022-11-30 | 496 | 351 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 488 | 352 | 
 | 2022-11-05 | 489 | 352 | 
 | 2022-11-04 | 489 | 352 | 
-| 2022-11-03 | 489 | 352 | 
 

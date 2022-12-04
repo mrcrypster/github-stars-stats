@@ -1,10 +1,10 @@
 # trexminer/T-Rex - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
-☋ Forks: 447
+☋ Forks: 448
 
-★ Stars: 2569
+★ Stars: 2570
 
 [Open repository](https://github.com/trexminer/T-Rex)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 2570 | 448 | 
 | 2022-12-02 | 2569 | 447 | 
 | 2022-12-01 | 2570 | 447 | 
 | 2022-11-30 | 2571 | 447 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 2580 | 447 | 
 | 2022-11-05 | 2580 | 447 | 
 | 2022-11-04 | 2578 | 447 | 
-| 2022-11-03 | 2577 | 447 | 
 

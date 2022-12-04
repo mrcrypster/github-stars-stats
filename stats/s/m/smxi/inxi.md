@@ -1,6 +1,6 @@
 # smxi/inxi - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 83
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 968 | 83 | 
 | 2022-12-02 | 968 | 83 | 
 | 2022-12-01 | 968 | 83 | 
 | 2022-11-30 | 968 | 83 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 957 | 81 | 
 | 2022-11-05 | 957 | 81 | 
 | 2022-11-04 | 957 | 81 | 
-| 2022-11-03 | 957 | 81 | 
 

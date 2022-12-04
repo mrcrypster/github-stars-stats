@@ -1,6 +1,6 @@
 # rstudio/hex-stickers - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 112
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 375 | 112 | 
 | 2022-12-02 | 375 | 112 | 
 | 2022-12-01 | 375 | 112 | 
 | 2022-11-30 | 375 | 112 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 368 | 112 | 
 | 2022-11-05 | 368 | 112 | 
 | 2022-11-04 | 368 | 112 | 
-| 2022-11-03 | 367 | 112 | 
 

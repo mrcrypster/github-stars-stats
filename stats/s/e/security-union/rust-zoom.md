@@ -1,10 +1,10 @@
 # security-union/rust-zoom - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
 ☋ Forks: 48
 
-★ Stars: 726
+★ Stars: 729
 
 [Open repository](https://github.com/security-union/rust-zoom)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 729 | 48 | 
 | 2022-12-02 | 726 | 48 | 
 | 2022-12-01 | 725 | 48 | 
 | 2022-11-30 | 725 | 48 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 666 | 40 | 
 | 2022-11-05 | 666 | 40 | 
 | 2022-11-04 | 664 | 40 | 
-| 2022-11-03 | 661 | 40 | 
 

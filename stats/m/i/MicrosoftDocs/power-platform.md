@@ -1,8 +1,8 @@
 # MicrosoftDocs/power-platform - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
-☋ Forks: 329
+☋ Forks: 330
 
 ★ Stars: 218
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 218 | 330 | 
 | 2022-12-02 | 218 | 329 | 
 | 2022-12-01 | 218 | 328 | 
 | 2022-11-30 | 218 | 328 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 217 | 318 | 
 | 2022-11-05 | 217 | 318 | 
 | 2022-11-04 | 217 | 318 | 
-| 2022-11-03 | 217 | 317 | 
 

@@ -1,8 +1,8 @@
 # mathiasuy/Soluciones-Klenberg - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 03
 
-☋ Forks: 107
+☋ Forks: 106
 
 ★ Stars: 392
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-03 | 392 | 106 | 
 | 2022-12-02 | 392 | 107 | 
 | 2022-12-01 | 391 | 107 | 
 | 2022-11-30 | 391 | 106 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-06 | 384 | 105 | 
 | 2022-11-05 | 383 | 105 | 
 | 2022-11-04 | 384 | 105 | 
-| 2022-11-03 | 382 | 105 | 
 
