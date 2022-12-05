@@ -1,10 +1,10 @@
 # lyswhut/lx-music-mobile - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
-☋ Forks: 421
+☋ Forks: 424
 
-★ Stars: 3062
+★ Stars: 3070
 
 [Open repository](https://github.com/lyswhut/lx-music-mobile)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 3070 | 424 | 
 | 2022-12-03 | 3062 | 421 | 
 | 2022-12-02 | 3050 | 421 | 
 | 2022-12-01 | 3045 | 421 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 2849 | 405 | 
 | 2022-11-06 | 2838 | 404 | 
 | 2022-11-05 | 2835 | 404 | 
-| 2022-11-04 | 2833 | 404 | 
 

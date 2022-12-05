@@ -1,6 +1,6 @@
 # dotnet/format - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 139
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 1596 | 139 | 
 | 2022-12-03 | 1596 | 139 | 
 | 2022-12-02 | 1597 | 139 | 
 | 2022-12-01 | 1595 | 139 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-08 | 1572 | 134 | 
 | 2022-11-06 | 1571 | 134 | 
 | 2022-11-05 | 1568 | 134 | 
-| 2022-11-04 | 1568 | 134 | 
 

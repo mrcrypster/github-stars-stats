@@ -1,6 +1,6 @@
 # drud/ddev - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 412
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 1547 | 412 | 
 | 2022-12-03 | 1547 | 412 | 
 | 2022-12-02 | 1547 | 413 | 
 | 2022-12-01 | 1547 | 413 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 1516 | 406 | 
 | 2022-11-06 | 1513 | 406 | 
 | 2022-11-05 | 1512 | 406 | 
-| 2022-11-04 | 1512 | 406 | 
 

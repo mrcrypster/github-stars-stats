@@ -1,10 +1,10 @@
 # sadanandpai/frontend-mini-challenges - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 83
 
-★ Stars: 582
+★ Stars: 586
 
 [Open repository](https://github.com/sadanandpai/frontend-mini-challenges)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 586 | 83 | 
 | 2022-12-03 | 582 | 83 | 
 | 2022-12-02 | 577 | 83 | 
 | 2022-12-01 | 575 | 82 | 

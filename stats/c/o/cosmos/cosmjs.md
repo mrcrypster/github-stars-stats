@@ -1,6 +1,6 @@
 # cosmos/cosmjs - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 215
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 432 | 215 | 
 | 2022-12-03 | 432 | 215 | 
 | 2022-12-02 | 432 | 216 | 
 | 2022-12-01 | 432 | 216 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 416 | 209 | 
 | 2022-11-06 | 416 | 207 | 
 | 2022-11-05 | 415 | 206 | 
-| 2022-11-04 | 416 | 206 | 
 

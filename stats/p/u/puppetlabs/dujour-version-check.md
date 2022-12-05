@@ -1,6 +1,6 @@
 # puppetlabs/dujour-version-check - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 1 | 12 | 
 | 2022-12-03 | 1 | 12 | 
 | 2022-12-02 | 1 | 12 | 
 | 2022-11-30 | 1 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-08 | 1 | 12 | 
 | 2022-11-07 | 1 | 12 | 
 | 2022-11-06 | 1 | 12 | 
-| 2022-11-05 | 1 | 12 | 
 

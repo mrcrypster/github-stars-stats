@@ -1,10 +1,10 @@
 # google-developer-training/android-kotlin-fundamentals-apps - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 2105
 
-★ Stars: 1481
+★ Stars: 1483
 
 [Open repository](https://github.com/google-developer-training/android-kotlin-fundamentals-apps)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 1483 | 2105 | 
 | 2022-12-03 | 1481 | 2105 | 
 | 2022-12-02 | 1480 | 2103 | 
 | 2022-12-01 | 1479 | 2104 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 1451 | 2084 | 
 | 2022-11-06 | 1450 | 2082 | 
 | 2022-11-05 | 1450 | 2082 | 
-| 2022-11-04 | 1449 | 2080 | 
 

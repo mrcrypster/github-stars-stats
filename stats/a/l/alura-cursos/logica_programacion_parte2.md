@@ -1,10 +1,10 @@
 # alura-cursos/logica_programacion_parte2 - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
-☋ Forks: 62
+☋ Forks: 63
 
-★ Stars: 33
+★ Stars: 35
 
 [Open repository](https://github.com/alura-cursos/logica_programacion_parte2)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 35 | 63 | 
 | 2022-12-03 | 33 | 62 | 
 | 2022-12-02 | 33 | 60 | 
 | 2022-12-01 | 33 | 59 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 32 | 58 | 
 | 2022-11-06 | 32 | 58 | 
 | 2022-11-05 | 32 | 58 | 
-| 2022-11-04 | 32 | 58 | 
 

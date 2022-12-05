@@ -1,8 +1,8 @@
 # HXSecurity/TerraformGoat - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
-☋ Forks: 56
+☋ Forks: 57
 
 ★ Stars: 303
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 303 | 57 | 
 | 2022-12-03 | 303 | 56 | 
 | 2022-12-02 | 303 | 56 | 
 | 2022-12-01 | 301 | 56 | 

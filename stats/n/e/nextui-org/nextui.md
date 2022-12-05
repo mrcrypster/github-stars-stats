@@ -1,10 +1,10 @@
 # nextui-org/nextui - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
-☋ Forks: 458
+☋ Forks: 459
 
-★ Stars: 8461
+★ Stars: 8466
 
 [Open repository](https://github.com/nextui-org/nextui)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 8466 | 459 | 
 | 2022-12-03 | 8461 | 458 | 
 | 2022-12-02 | 8454 | 457 | 
 | 2022-12-01 | 8448 | 456 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 8263 | 447 | 
 | 2022-11-06 | 8255 | 447 | 
 | 2022-11-05 | 8247 | 446 | 
-| 2022-11-04 | 8241 | 446 | 
 

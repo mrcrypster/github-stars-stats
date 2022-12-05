@@ -1,10 +1,10 @@
 # bnjbvr/rouille - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 141
 
-★ Stars: 1060
+★ Stars: 1062
 
 [Open repository](https://github.com/bnjbvr/rouille)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 1062 | 141 | 
 | 2022-12-03 | 1060 | 141 | 
 | 2022-12-02 | 1058 | 141 | 
 | 2022-12-01 | 1059 | 140 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 1002 | 129 | 
 | 2022-11-06 | 998 | 129 | 
 | 2022-11-05 | 997 | 128 | 
-| 2022-11-04 | 994 | 128 | 
 

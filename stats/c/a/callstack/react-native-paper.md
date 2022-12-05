@@ -1,10 +1,10 @@
 # callstack/react-native-paper - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
-☋ Forks: 1809
+☋ Forks: 1811
 
-★ Stars: 10034
+★ Stars: 10036
 
 [Open repository](https://github.com/callstack/react-native-paper)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 10036 | 1811 | 
 | 2022-12-03 | 10034 | 1809 | 
 | 2022-12-02 | 10025 | 1807 | 
 | 2022-12-01 | 10021 | 1807 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 9929 | 1794 | 
 | 2022-11-06 | 9927 | 1792 | 
 | 2022-11-05 | 9925 | 1791 | 
-| 2022-11-04 | 9919 | 1790 | 
 

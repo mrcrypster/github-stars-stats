@@ -1,10 +1,10 @@
 # envoyproxy/envoy - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 4014
 
-★ Stars: 21013
+★ Stars: 21015
 
 [Open repository](https://github.com/envoyproxy/envoy)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 21015 | 4014 | 
 | 2022-12-03 | 21013 | 4014 | 
 | 2022-12-02 | 21001 | 4013 | 
 | 2022-12-01 | 20994 | 4013 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 20817 | 3984 | 
 | 2022-11-06 | 20798 | 3982 | 
 | 2022-11-05 | 20796 | 3981 | 
-| 2022-11-04 | 20782 | 3979 | 
 

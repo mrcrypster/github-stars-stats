@@ -1,6 +1,6 @@
 # markdownlint/markdownlint - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 213
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 1432 | 213 | 
 | 2022-12-03 | 1432 | 213 | 
 | 2022-12-01 | 1431 | 213 | 
 | 2022-11-30 | 1430 | 213 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-08 | 1417 | 210 | 
 | 2022-11-07 | 1416 | 210 | 
 | 2022-11-06 | 1415 | 210 | 
-| 2022-11-05 | 1415 | 211 | 
 

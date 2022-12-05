@@ -1,6 +1,6 @@
 # mgigor/exerc2 - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | - | 21 | 
 | 2022-12-02 | - | 21 | 
 | 2022-12-01 | - | 20 | 
 | 2022-11-30 | - | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-07 | - | 21 | 
 | 2022-11-06 | - | 21 | 
 | 2022-11-05 | - | 21 | 
-| 2022-11-04 | - | 21 | 
 

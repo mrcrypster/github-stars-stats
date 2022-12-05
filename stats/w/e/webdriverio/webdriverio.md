@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 04
 
 ☋ Forks: 2211
 
-★ Stars: 7830
+★ Stars: 7832
 
 [Open repository](https://github.com/webdriverio/webdriverio)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-04 | 7830 | 2211 | 
+| 2022-12-04 | 7832 | 2211 | 
 | 2022-12-03 | 7828 | 2211 | 
 | 2022-12-02 | 7824 | 2209 | 
 | 2022-12-01 | 7820 | 2209 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-07 | 7783 | 2204 | 
 | 2022-11-06 | 7781 | 2203 | 
 | 2022-11-05 | 7782 | 2203 | 
-| 2022-11-04 | 7779 | 2204 | 
 

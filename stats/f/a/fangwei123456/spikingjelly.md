@@ -1,6 +1,6 @@
 # fangwei123456/spikingjelly - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 143
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 533 | 143 | 
 | 2022-12-03 | 533 | 143 | 
 | 2022-12-02 | 532 | 143 | 
 | 2022-11-30 | 531 | 143 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-08 | 505 | 133 | 
 | 2022-11-07 | 504 | 133 | 
 | 2022-11-06 | 504 | 132 | 
-| 2022-11-05 | 504 | 132 | 
 

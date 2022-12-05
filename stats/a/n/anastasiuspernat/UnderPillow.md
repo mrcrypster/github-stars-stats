@@ -1,6 +1,6 @@
 # anastasiuspernat/UnderPillow - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 65 | 53 | 
 | 2022-12-03 | 65 | 53 | 
 | 2022-12-01 | 64 | 53 | 
 | 2022-11-30 | 64 | 53 | 

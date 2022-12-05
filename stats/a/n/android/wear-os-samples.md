@@ -1,8 +1,8 @@
 # android/wear-os-samples - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
-☋ Forks: 462
+☋ Forks: 463
 
 ★ Stars: 679
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 679 | 463 | 
 | 2022-12-03 | 679 | 462 | 
 | 2022-12-02 | 677 | 460 | 
 | 2022-12-01 | 677 | 461 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 653 | 452 | 
 | 2022-11-06 | 653 | 450 | 
 | 2022-11-05 | 653 | 450 | 
-| 2022-11-04 | 652 | 450 | 
 

@@ -1,6 +1,6 @@
 # husky-misc/husky-academy - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 46 | 7 | 
 | 2022-12-03 | 46 | 7 | 
 | 2022-12-01 | 46 | 7 | 
 | 2022-11-30 | 46 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 46 | 7 | 
 | 2022-11-06 | 46 | 7 | 
 | 2022-11-05 | 46 | 7 | 
-| 2022-11-04 | 46 | 7 | 
 

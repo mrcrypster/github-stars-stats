@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 04
 
 ☋ Forks: 74
 
-★ Stars: 304
+★ Stars: 306
 
 [Open repository](https://github.com/architdate/PKHeX-Plugins)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-04 | 304 | 74 | 
+| 2022-12-04 | 306 | 74 | 
 | 2022-12-03 | 303 | 74 | 
 | 2022-12-02 | 296 | 74 | 
 | 2022-12-01 | 292 | 74 | 

@@ -1,8 +1,8 @@
 # Hekili/hekili - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
-☋ Forks: 89
+☋ Forks: 90
 
 ★ Stars: 192
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 192 | 90 | 
 | 2022-12-03 | 192 | 89 | 
 | 2022-12-02 | 190 | 88 | 
 | 2022-12-01 | 190 | 88 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 178 | 82 | 
 | 2022-11-06 | 178 | 81 | 
 | 2022-11-05 | 178 | 81 | 
-| 2022-11-04 | 178 | 81 | 
 

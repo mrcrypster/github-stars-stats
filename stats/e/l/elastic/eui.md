@@ -1,10 +1,10 @@
 # elastic/eui - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 729
 
-★ Stars: 5440
+★ Stars: 5442
 
 [Open repository](https://github.com/elastic/eui)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 5442 | 729 | 
 | 2022-12-03 | 5440 | 729 | 
 | 2022-12-02 | 5438 | 729 | 
 | 2022-12-01 | 5438 | 729 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 5394 | 727 | 
 | 2022-11-06 | 5391 | 725 | 
 | 2022-11-05 | 5391 | 725 | 
-| 2022-11-04 | 5392 | 725 | 
 

@@ -1,10 +1,10 @@
 # andreyvit/json-diff - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
-☋ Forks: 111
+☋ Forks: 112
 
-★ Stars: 909
+★ Stars: 910
 
 [Open repository](https://github.com/andreyvit/json-diff)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 910 | 112 | 
 | 2022-12-03 | 909 | 111 | 
 | 2022-12-02 | 909 | 111 | 
 | 2022-12-01 | 909 | 111 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 898 | 112 | 
 | 2022-11-06 | 897 | 112 | 
 | 2022-11-05 | 896 | 112 | 
-| 2022-11-04 | 895 | 112 | 
 

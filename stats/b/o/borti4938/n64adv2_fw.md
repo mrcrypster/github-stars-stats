@@ -1,10 +1,10 @@
 # borti4938/n64adv2_fw - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 1
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/borti4938/n64adv2_fw)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 16 | 1 | 
 | 2022-12-03 | 15 | 1 | 
 | 2022-12-02 | 15 | 1 | 
 | 2022-12-01 | 15 | 1 | 

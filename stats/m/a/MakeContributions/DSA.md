@@ -1,6 +1,6 @@
 # MakeContributions/DSA - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 521
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 405 | 521 | 
 | 2022-12-03 | 405 | 521 | 
 | 2022-12-02 | 405 | 519 | 
 | 2022-12-01 | 405 | 518 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 389 | 516 | 
 | 2022-11-06 | 388 | 515 | 
 | 2022-11-05 | 387 | 514 | 
-| 2022-11-04 | 386 | 514 | 
 

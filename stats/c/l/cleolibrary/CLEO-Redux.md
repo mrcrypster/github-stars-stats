@@ -1,10 +1,10 @@
 # cleolibrary/CLEO-Redux - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
-☋ Forks: 14
+☋ Forks: 15
 
-★ Stars: 133
+★ Stars: 134
 
 [Open repository](https://github.com/cleolibrary/CLEO-Redux)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 134 | 15 | 
 | 2022-12-03 | 133 | 14 | 
 | 2022-12-02 | 133 | 14 | 
 | 2022-12-01 | 132 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 125 | 15 | 
 | 2022-11-06 | 124 | 15 | 
 | 2022-11-05 | 124 | 15 | 
-| 2022-11-04 | 124 | 15 | 
 

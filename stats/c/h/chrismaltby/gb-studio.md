@@ -1,10 +1,10 @@
 # chrismaltby/gb-studio - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 379
 
-★ Stars: 6633
+★ Stars: 6635
 
 [Open repository](https://github.com/chrismaltby/gb-studio)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 6635 | 379 | 
 | 2022-12-03 | 6633 | 379 | 
 | 2022-12-01 | 6634 | 379 | 
 | 2022-11-30 | 6633 | 379 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-08 | 6599 | 379 | 
 | 2022-11-07 | 6597 | 379 | 
 | 2022-11-06 | 6597 | 379 | 
-| 2022-11-05 | 6597 | 379 | 
 

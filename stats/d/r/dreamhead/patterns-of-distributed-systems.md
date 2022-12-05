@@ -1,10 +1,10 @@
 # dreamhead/patterns-of-distributed-systems - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 481
 
-★ Stars: 3810
+★ Stars: 3813
 
 [Open repository](https://github.com/dreamhead/patterns-of-distributed-systems)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 3813 | 481 | 
 | 2022-12-03 | 3810 | 481 | 
 | 2022-12-02 | 3810 | 480 | 
 | 2022-12-01 | 3809 | 480 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 3672 | 451 | 
 | 2022-11-06 | 3665 | 450 | 
 | 2022-11-05 | 3661 | 448 | 
-| 2022-11-04 | 3660 | 448 | 
 

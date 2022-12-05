@@ -1,10 +1,10 @@
 # woowacourse-precourse/java-onboarding - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 1804
 
-★ Stars: 115
+★ Stars: 114
 
 [Open repository](https://github.com/woowacourse-precourse/java-onboarding)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 114 | 1804 | 
 | 2022-12-03 | 115 | 1804 | 
 | 2022-12-02 | 114 | 1805 | 
 | 2022-12-01 | 114 | 1801 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 108 | 1817 | 
 | 2022-11-06 | 108 | 1816 | 
 | 2022-11-05 | 108 | 1815 | 
-| 2022-11-04 | 109 | 1813 | 
 

@@ -1,10 +1,10 @@
 # FraxFinance/fraxlend - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 9
 
-★ Stars: 45
+★ Stars: 46
 
 [Open repository](https://github.com/FraxFinance/fraxlend)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 46 | 9 | 
 | 2022-12-03 | 45 | 9 | 
 | 2022-12-02 | 45 | 9 | 
 | 2022-12-01 | 45 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 46 | 9 | 
 | 2022-11-06 | 46 | 9 | 
 | 2022-11-05 | 46 | 9 | 
-| 2022-11-04 | 46 | 9 | 
 

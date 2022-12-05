@@ -1,6 +1,6 @@
 # joeldev/JLRoutes - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 700
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 5641 | 700 | 
 | 2022-12-03 | 5641 | 700 | 
 | 2022-12-02 | 5640 | 699 | 
 | 2022-12-01 | 5640 | 699 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 5632 | 700 | 
 | 2022-11-06 | 5632 | 700 | 
 | 2022-11-05 | 5632 | 700 | 
-| 2022-11-04 | 5633 | 700 | 
 

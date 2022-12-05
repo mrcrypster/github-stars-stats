@@ -1,10 +1,10 @@
 # Mereithhh/van-blog - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
-☋ Forks: 121
+☋ Forks: 122
 
-★ Stars: 1048
+★ Stars: 1052
 
 [Open repository](https://github.com/Mereithhh/van-blog)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 1052 | 122 | 
 | 2022-12-03 | 1048 | 121 | 
 | 2022-12-01 | 1039 | 119 | 
 | 2022-11-30 | 1026 | 117 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 968 | 100 | 
 | 2022-11-06 | 965 | 99 | 
 | 2022-11-05 | 963 | 99 | 
-| 2022-11-04 | 960 | 98 | 
 

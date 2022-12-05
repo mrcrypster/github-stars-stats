@@ -1,6 +1,6 @@
 # christoomey/vim-tmux-navigator - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 269
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 3938 | 269 | 
 | 2022-12-03 | 3938 | 269 | 
 | 2022-12-02 | 3937 | 267 | 
 | 2022-12-01 | 3937 | 267 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 3908 | 262 | 
 | 2022-11-06 | 3908 | 261 | 
 | 2022-11-05 | 3908 | 260 | 
-| 2022-11-04 | 3908 | 260 | 
 

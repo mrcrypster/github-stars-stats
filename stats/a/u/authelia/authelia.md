@@ -1,10 +1,10 @@
 # authelia/authelia - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
-☋ Forks: 830
+☋ Forks: 831
 
-★ Stars: 14797
+★ Stars: 14804
 
 [Open repository](https://github.com/authelia/authelia)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 14804 | 831 | 
 | 2022-12-03 | 14797 | 830 | 
 | 2022-12-02 | 14792 | 830 | 
 | 2022-12-01 | 14786 | 828 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-08 | 14594 | 819 | 
 | 2022-11-06 | 14588 | 820 | 
 | 2022-11-05 | 14581 | 820 | 
-| 2022-11-04 | 14573 | 819 | 
 

@@ -1,10 +1,10 @@
 # pawjy/perl-promised-mysqld - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 0
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/pawjy/perl-promised-mysqld)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 2 | - | 
 | 2022-12-03 | 1 | - | 
 | 2022-12-02 | 1 | - | 
 | 2022-12-01 | 1 | - | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 1 | - | 
 | 2022-11-06 | 1 | - | 
 | 2022-11-05 | 1 | - | 
-| 2022-11-04 | 1 | - | 
 

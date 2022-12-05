@@ -1,8 +1,8 @@
 # themeselection/sneat-html-admin-template-free - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
-☋ Forks: 82
+☋ Forks: 83
 
 ★ Stars: 425
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 425 | 83 | 
 | 2022-12-03 | 425 | 82 | 
 | 2022-12-01 | 424 | 82 | 
 | 2022-11-30 | 424 | 82 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 397 | 79 | 
 | 2022-11-06 | 397 | 79 | 
 | 2022-11-05 | 397 | 79 | 
-| 2022-11-04 | 397 | 79 | 
 

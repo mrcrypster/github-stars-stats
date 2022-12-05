@@ -1,10 +1,10 @@
 # guanyingc/latex_paper_writing_tips - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
-☋ Forks: 115
+☋ Forks: 116
 
-★ Stars: 715
+★ Stars: 716
 
 [Open repository](https://github.com/guanyingc/latex_paper_writing_tips)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 716 | 116 | 
 | 2022-12-03 | 715 | 115 | 
 | 2022-12-02 | 715 | 115 | 
 | 2022-12-01 | 715 | 115 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 667 | 110 | 
 | 2022-11-06 | 663 | 109 | 
 | 2022-11-05 | 660 | 107 | 
-| 2022-11-04 | 659 | 107 | 
 

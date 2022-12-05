@@ -1,10 +1,10 @@
 # code-423n4/2022-11-paraspace - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 05
 
-☋ Forks: 13
+☋ Forks: 14
 
-★ Stars: 4
+★ Stars: 6
 
 [Open repository](https://github.com/code-423n4/2022-11-paraspace)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 6 | 14 | 
+| 2022-12-04 | 6 | 13 | 
 | 2022-12-03 | 4 | 13 | 
 | 2022-12-02 | 4 | 11 | 
 | 2022-12-01 | 3 | 11 | 

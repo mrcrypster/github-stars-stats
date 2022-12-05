@@ -1,10 +1,10 @@
 # odoo/docker - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
-☋ Forks: 1312
+☋ Forks: 1313
 
-★ Stars: 724
+★ Stars: 723
 
 [Open repository](https://github.com/odoo/docker)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 723 | 1313 | 
 | 2022-12-03 | 724 | 1312 | 
 | 2022-12-02 | 722 | 1309 | 
 | 2022-12-01 | 722 | 1309 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 716 | 1296 | 
 | 2022-11-06 | 716 | 1295 | 
 | 2022-11-05 | 716 | 1295 | 
-| 2022-11-04 | 715 | 1294 | 
 

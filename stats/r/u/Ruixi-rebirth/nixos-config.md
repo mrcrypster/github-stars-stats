@@ -1,10 +1,10 @@
 # Ruixi-rebirth/nixos-config - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 2
 
-★ Stars: 48
+★ Stars: 50
 
 [Open repository](https://github.com/Ruixi-rebirth/nixos-config)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 50 | 2 | 
 | 2022-12-03 | 48 | 2 | 
 | 2022-12-02 | 48 | 2 | 
 | 2022-12-01 | 48 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 24 | 2 | 
 | 2022-11-06 | 21 | 2 | 
 | 2022-11-05 | 20 | 2 | 
-| 2022-11-04 | 20 | 2 | 
 

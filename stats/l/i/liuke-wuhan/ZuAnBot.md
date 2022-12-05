@@ -1,6 +1,6 @@
 # liuke-wuhan/ZuAnBot - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 213 | 31 | 
 | 2022-12-03 | 213 | 31 | 
 | 2022-12-02 | 212 | 30 | 
 | 2022-12-01 | 212 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-08 | 203 | 30 | 
 | 2022-11-06 | 203 | 30 | 
 | 2022-11-05 | 202 | 30 | 
-| 2022-11-04 | 202 | 30 | 
 

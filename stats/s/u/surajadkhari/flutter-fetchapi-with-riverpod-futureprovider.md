@@ -1,6 +1,6 @@
 # surajadkhari/flutter-fetchapi-with-riverpod-futureprovider - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 53 | 10 | 
 | 2022-12-02 | 53 | 10 | 
 | 2022-12-01 | 53 | 10 | 
 | 2022-11-30 | 53 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-08 | 52 | 9 | 
 | 2022-11-07 | 52 | 9 | 
 | 2022-11-06 | 52 | 9 | 
-| 2022-11-05 | 52 | 9 | 
 

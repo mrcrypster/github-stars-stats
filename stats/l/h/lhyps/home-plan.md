@@ -1,10 +1,10 @@
 # lhyps/home-plan - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 1
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/lhyps/home-plan)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 3 | 1 | 
 | 2022-12-02 | 2 | 1 | 
 | 2022-12-01 | 2 | 1 | 
 | 2022-11-30 | 2 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-07 | 2 | 1 | 
 | 2022-11-06 | 2 | 1 | 
 | 2022-11-05 | 2 | 1 | 
-| 2022-11-04 | 2 | 1 | 
 

@@ -1,6 +1,6 @@
 # CustomEntity/crNormz - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 24 | - | 
 | 2022-12-03 | 24 | - | 
 | 2022-12-01 | 25 | - | 
 | 2022-11-30 | 25 | - | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-08 | 26 | - | 
 | 2022-11-07 | 26 | - | 
 | 2022-11-06 | 26 | - | 
-| 2022-11-05 | 26 | - | 
 

@@ -1,6 +1,6 @@
 # aliyun/surftrace - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 306 | 57 | 
 | 2022-12-03 | 306 | 57 | 
 | 2022-12-01 | 306 | 57 | 
 | 2022-11-30 | 306 | 57 | 

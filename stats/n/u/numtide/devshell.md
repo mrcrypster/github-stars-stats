@@ -1,10 +1,10 @@
 # numtide/devshell - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 57
 
-★ Stars: 671
+★ Stars: 672
 
 [Open repository](https://github.com/numtide/devshell)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 672 | 57 | 
 | 2022-12-03 | 671 | 57 | 
 | 2022-12-02 | 671 | 57 | 
 | 2022-12-01 | 671 | 57 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 645 | 56 | 
 | 2022-11-06 | 644 | 56 | 
 | 2022-11-05 | 643 | 55 | 
-| 2022-11-04 | 640 | 55 | 
 

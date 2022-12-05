@@ -1,10 +1,10 @@
 # suragnair/alpha-zero-general - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 853
 
-★ Stars: 3019
+★ Stars: 3020
 
 [Open repository](https://github.com/suragnair/alpha-zero-general)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 3020 | 853 | 
 | 2022-12-03 | 3019 | 853 | 
 | 2022-12-02 | 3017 | 851 | 
 | 2022-12-01 | 3015 | 851 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 2979 | 848 | 
 | 2022-11-06 | 2979 | 846 | 
 | 2022-11-05 | 2978 | 846 | 
-| 2022-11-04 | 2978 | 846 | 
 

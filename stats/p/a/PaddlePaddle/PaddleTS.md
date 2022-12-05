@@ -1,10 +1,10 @@
 # PaddlePaddle/PaddleTS - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 56
 
-★ Stars: 244
+★ Stars: 245
 
 [Open repository](https://github.com/PaddlePaddle/PaddleTS)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 245 | 56 | 
 | 2022-12-03 | 244 | 56 | 
 | 2022-12-02 | 244 | 56 | 
 | 2022-12-01 | 243 | 56 | 

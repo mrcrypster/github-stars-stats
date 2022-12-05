@@ -1,8 +1,8 @@
 # 4GeeksAcademy/About-4Geeks-Academy - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
-☋ Forks: 1710
+☋ Forks: 1711
 
 ★ Stars: 31
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 31 | 1711 | 
 | 2022-12-03 | 31 | 1710 | 
 | 2022-12-02 | 31 | 1710 | 
 | 2022-12-01 | 31 | 1707 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 29 | 1632 | 
 | 2022-11-06 | 29 | 1632 | 
 | 2022-11-05 | 29 | 1632 | 
-| 2022-11-04 | 29 | 1629 | 
 

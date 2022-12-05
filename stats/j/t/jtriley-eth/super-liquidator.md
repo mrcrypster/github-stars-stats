@@ -1,6 +1,6 @@
 # jtriley-eth/super-liquidator - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 27 | - | 
 | 2022-12-03 | 27 | - | 
 | 2022-12-02 | 27 | - | 
 | 2022-12-01 | 27 | - | 

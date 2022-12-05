@@ -1,10 +1,10 @@
 # lilishop/lilishop - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
-☋ Forks: 774
+☋ Forks: 778
 
-★ Stars: 2783
+★ Stars: 2796
 
 [Open repository](https://github.com/lilishop/lilishop)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 2796 | 778 | 
 | 2022-12-03 | 2783 | 774 | 
 | 2022-12-02 | 2776 | 771 | 
 | 2022-12-01 | 2768 | 770 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 2669 | 742 | 
 | 2022-11-06 | 2664 | 740 | 
 | 2022-11-05 | 2662 | 740 | 
-| 2022-11-04 | 2655 | 738 | 
 

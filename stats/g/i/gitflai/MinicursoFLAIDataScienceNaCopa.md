@@ -1,6 +1,6 @@
 # gitflai/MinicursoFLAIDataScienceNaCopa - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 27 | 19 | 
 | 2022-12-03 | 27 | 19 | 
 | 2022-12-02 | 27 | 19 | 
 | 2022-12-01 | 27 | 18 | 

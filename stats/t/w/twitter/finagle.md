@@ -1,6 +1,6 @@
 # twitter/finagle - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 1432
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 8445 | 1432 | 
 | 2022-12-03 | 8445 | 1432 | 
 | 2022-12-02 | 8443 | 1432 | 
 | 2022-12-01 | 8443 | 1432 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 8385 | 1414 | 
 | 2022-11-06 | 8384 | 1413 | 
 | 2022-11-05 | 8380 | 1413 | 
-| 2022-11-04 | 8376 | 1413 | 
 

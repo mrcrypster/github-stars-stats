@@ -1,10 +1,10 @@
 # laravel-workflow/waterline - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 2
 
-★ Stars: 62
+★ Stars: 64
 
 [Open repository](https://github.com/laravel-workflow/waterline)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 64 | 2 | 
 | 2022-12-03 | 62 | 2 | 
 | 2022-12-02 | 61 | 2 | 
 | 2022-12-01 | 60 | 2 | 

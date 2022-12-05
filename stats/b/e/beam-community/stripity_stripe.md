@@ -1,10 +1,10 @@
 # beam-community/stripity_stripe - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 299
 
-★ Stars: 753
+★ Stars: 754
 
 [Open repository](https://github.com/beam-community/stripity_stripe)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 754 | 299 | 
 | 2022-12-03 | 753 | 299 | 
 | 2022-12-02 | 753 | 298 | 
 | 2022-12-01 | 753 | 297 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 748 | 296 | 
 | 2022-11-06 | 748 | 296 | 
 | 2022-11-05 | 748 | 296 | 
-| 2022-11-04 | 748 | 296 | 
 

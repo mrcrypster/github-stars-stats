@@ -1,10 +1,10 @@
 # numToStr/Comment.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 61
 
-★ Stars: 1715
+★ Stars: 1719
 
 [Open repository](https://github.com/numToStr/Comment.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 1719 | 61 | 
 | 2022-12-03 | 1715 | 61 | 
 | 2022-12-02 | 1715 | 61 | 
 | 2022-12-01 | 1712 | 61 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 1611 | 61 | 
 | 2022-11-06 | 1611 | 61 | 
 | 2022-11-05 | 1605 | 61 | 
-| 2022-11-04 | 1600 | 61 | 
 

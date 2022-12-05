@@ -1,6 +1,6 @@
 # japiirainen/fp - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 99 | 2 | 
 | 2022-12-03 | 99 | 2 | 
 | 2022-12-02 | 98 | 2 | 
 | 2022-12-01 | 98 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 94 | 2 | 
 | 2022-11-06 | 92 | 2 | 
 | 2022-11-05 | 89 | 2 | 
-| 2022-11-04 | 84 | 1 | 
 

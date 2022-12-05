@@ -1,10 +1,10 @@
 # pirunxi/il2cpp_huatuo - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 50
 
-★ Stars: 151
+★ Stars: 152
 
 [Open repository](https://github.com/pirunxi/il2cpp_huatuo)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 152 | 50 | 
 | 2022-12-03 | 151 | 50 | 
 | 2022-12-02 | 151 | 49 | 
 | 2022-12-01 | 151 | 49 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 142 | 47 | 
 | 2022-11-06 | 142 | 47 | 
 | 2022-11-05 | 142 | 47 | 
-| 2022-11-04 | 142 | 47 | 
 

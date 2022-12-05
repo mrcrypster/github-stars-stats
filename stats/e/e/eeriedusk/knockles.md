@@ -1,6 +1,6 @@
 # eeriedusk/knockles - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 194 | 13 | 
 | 2022-12-03 | 194 | 13 | 
 | 2022-12-01 | 194 | 13 | 
 | 2022-11-30 | 194 | 13 | 

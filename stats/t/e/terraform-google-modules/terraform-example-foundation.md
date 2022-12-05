@@ -1,10 +1,10 @@
 # terraform-google-modules/terraform-example-foundation - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
-☋ Forks: 497
+☋ Forks: 496
 
-★ Stars: 766
+★ Stars: 767
 
 [Open repository](https://github.com/terraform-google-modules/terraform-example-foundation)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 767 | 496 | 
 | 2022-12-03 | 766 | 497 | 
 | 2022-12-02 | 764 | 497 | 
 | 2022-12-01 | 762 | 495 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 734 | 484 | 
 | 2022-11-06 | 734 | 484 | 
 | 2022-11-05 | 734 | 484 | 
-| 2022-11-04 | 733 | 483 | 
 

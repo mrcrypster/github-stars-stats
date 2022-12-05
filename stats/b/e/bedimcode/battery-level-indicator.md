@@ -1,10 +1,10 @@
 # bedimcode/battery-level-indicator - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 2
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/bedimcode/battery-level-indicator)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 9 | 2 | 
 | 2022-12-03 | 8 | 2 | 
 | 2022-12-02 | 8 | 2 | 
 | 2022-12-01 | 8 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 7 | - | 
 | 2022-11-06 | 7 | - | 
 | 2022-11-05 | 7 | - | 
-| 2022-11-04 | 7 | - | 
 

@@ -1,10 +1,10 @@
 # NOAA-GFDL/FMS - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 112
 
-★ Stars: 66
+★ Stars: 67
 
 [Open repository](https://github.com/NOAA-GFDL/FMS)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 67 | 112 | 
 | 2022-12-03 | 66 | 112 | 
 | 2022-12-02 | 66 | 112 | 
 | 2022-12-01 | 66 | 112 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 63 | 112 | 
 | 2022-11-06 | 63 | 112 | 
 | 2022-11-05 | 63 | 112 | 
-| 2022-11-04 | 63 | 112 | 
 

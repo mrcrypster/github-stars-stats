@@ -1,10 +1,10 @@
 # irena-flextool/flextool - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 2
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/irena-flextool/flextool)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 15 | 2 | 
 | 2022-12-03 | 14 | 2 | 
 | 2022-12-02 | 14 | 2 | 
 | 2022-11-30 | 14 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 12 | 2 | 
 | 2022-11-06 | 11 | 2 | 
 | 2022-11-05 | 11 | 2 | 
-| 2022-11-04 | 11 | 2 | 
 

@@ -1,8 +1,8 @@
 # mohammedabdulbari/Java-SE - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
-☋ Forks: 208
+☋ Forks: 209
 
 ★ Stars: 136
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 136 | 209 | 
 | 2022-12-03 | 136 | 208 | 
 | 2022-12-02 | 135 | 208 | 
 | 2022-12-01 | 135 | 207 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 131 | 200 | 
 | 2022-11-06 | 131 | 199 | 
 | 2022-11-05 | 130 | 198 | 
-| 2022-11-04 | 130 | 198 | 
 

@@ -1,6 +1,6 @@
 # salesagility/SuiteCRM - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 1701
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 3232 | 1701 | 
 | 2022-12-03 | 3232 | 1701 | 
 | 2022-12-02 | 3230 | 1700 | 
 | 2022-12-01 | 3229 | 1699 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 3208 | 1693 | 
 | 2022-11-06 | 3207 | 1692 | 
 | 2022-11-05 | 3208 | 1692 | 
-| 2022-11-04 | 3206 | 1692 | 
 

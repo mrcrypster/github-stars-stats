@@ -1,10 +1,10 @@
 # Swinject/Swinject - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 455
 
-★ Stars: 5545
+★ Stars: 5546
 
 [Open repository](https://github.com/Swinject/Swinject)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 5546 | 455 | 
 | 2022-12-03 | 5545 | 455 | 
 | 2022-12-02 | 5544 | 455 | 
 | 2022-12-01 | 5542 | 454 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 5492 | 453 | 
 | 2022-11-06 | 5491 | 453 | 
 | 2022-11-05 | 5490 | 453 | 
-| 2022-11-04 | 5488 | 453 | 
 

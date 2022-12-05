@@ -1,10 +1,10 @@
 # 521xueweihan/HelloGitHub - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
-☋ Forks: 8352
+☋ Forks: 8353
 
-★ Stars: 61971
+★ Stars: 62003
 
 [Open repository](https://github.com/521xueweihan/HelloGitHub)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 62003 | 8353 | 
 | 2022-12-03 | 61971 | 8352 | 
 | 2022-12-02 | 61952 | 8346 | 
 | 2022-12-01 | 61918 | 8341 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 61038 | 8123 | 
 | 2022-11-06 | 61003 | 8122 | 
 | 2022-11-05 | 60967 | 8122 | 
-| 2022-11-04 | 60939 | 8117 | 
 

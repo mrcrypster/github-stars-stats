@@ -1,6 +1,6 @@
 # sharanda/manrope - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 1391 | 35 | 
 | 2022-12-03 | 1391 | 35 | 
 | 2022-12-01 | 1391 | 35 | 
 | 2022-11-30 | 1390 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 1378 | 35 | 
 | 2022-11-06 | 1376 | 35 | 
 | 2022-11-05 | 1376 | 35 | 
-| 2022-11-04 | 1376 | 35 | 
 

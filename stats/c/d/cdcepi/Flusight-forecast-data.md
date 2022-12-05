@@ -1,6 +1,6 @@
 # cdcepi/Flusight-forecast-data - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 28 | 55 | 
 | 2022-12-03 | 28 | 55 | 
 | 2022-12-02 | 28 | 55 | 
 | 2022-12-01 | 27 | 55 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 21 | 50 | 
 | 2022-11-06 | 21 | 50 | 
 | 2022-11-05 | 21 | 50 | 
-| 2022-11-04 | 21 | 49 | 
 

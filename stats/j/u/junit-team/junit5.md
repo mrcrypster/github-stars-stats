@@ -1,10 +1,10 @@
 # junit-team/junit5 - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
-☋ Forks: 1246
+☋ Forks: 1247
 
-★ Stars: 5516
+★ Stars: 5518
 
 [Open repository](https://github.com/junit-team/junit5)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 5518 | 1247 | 
 | 2022-12-03 | 5516 | 1246 | 
 | 2022-12-02 | 5517 | 1245 | 
 | 2022-12-01 | 5516 | 1243 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 5483 | 1234 | 
 | 2022-11-06 | 5484 | 1233 | 
 | 2022-11-05 | 5483 | 1230 | 
-| 2022-11-04 | 5482 | 1228 | 
 

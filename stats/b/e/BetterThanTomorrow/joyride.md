@@ -1,10 +1,10 @@
 # BetterThanTomorrow/joyride - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 12
 
-★ Stars: 323
+★ Stars: 325
 
 [Open repository](https://github.com/BetterThanTomorrow/joyride)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 325 | 12 | 
 | 2022-12-03 | 323 | 12 | 
 | 2022-12-02 | 323 | 12 | 
 | 2022-12-01 | 320 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 307 | 12 | 
 | 2022-11-06 | 307 | 12 | 
 | 2022-11-05 | 307 | 12 | 
-| 2022-11-04 | 306 | 12 | 
 

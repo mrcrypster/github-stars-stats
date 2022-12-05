@@ -1,6 +1,6 @@
 # confluentinc/schema-registry - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 1022
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 1865 | 1022 | 
 | 2022-12-03 | 1865 | 1022 | 
 | 2022-12-02 | 1864 | 1022 | 
 | 2022-12-01 | 1862 | 1022 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 1844 | 1014 | 
 | 2022-11-06 | 1843 | 1014 | 
 | 2022-11-05 | 1841 | 1014 | 
-| 2022-11-04 | 1840 | 1014 | 
 

@@ -1,6 +1,6 @@
 # ghostkid130/ex_financial_modeling_prep - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 3 | - | 
 | 2022-12-03 | 3 | - | 
 | 2022-12-02 | 3 | - | 
 | 2022-12-01 | 3 | - | 

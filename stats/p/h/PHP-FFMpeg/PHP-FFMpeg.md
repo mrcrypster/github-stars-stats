@@ -1,10 +1,10 @@
 # PHP-FFMpeg/PHP-FFMpeg - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 843
 
-★ Stars: 4353
+★ Stars: 4354
 
 [Open repository](https://github.com/PHP-FFMpeg/PHP-FFMpeg)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 4354 | 843 | 
 | 2022-12-03 | 4353 | 843 | 
 | 2022-12-02 | 4353 | 843 | 
 | 2022-12-01 | 4352 | 843 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 4333 | 844 | 
 | 2022-11-06 | 4332 | 845 | 
 | 2022-11-05 | 4332 | 845 | 
-| 2022-11-04 | 4332 | 845 | 
 

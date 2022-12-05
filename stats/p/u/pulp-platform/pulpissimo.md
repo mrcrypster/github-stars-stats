@@ -1,8 +1,8 @@
 # pulp-platform/pulpissimo - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
-☋ Forks: 127
+☋ Forks: 128
 
 ★ Stars: 257
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 257 | 128 | 
 | 2022-12-03 | 257 | 127 | 
 | 2022-12-01 | 257 | 127 | 
 | 2022-11-30 | 257 | 127 | 

@@ -1,8 +1,8 @@
 # Jeneko/News-api-migration-walkthrough - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
-☋ Forks: 25
+☋ Forks: 26
 
 ★ Stars: 26
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 26 | 26 | 
 | 2022-12-03 | 26 | 25 | 
 | 2022-12-01 | 26 | 25 | 
 | 2022-11-30 | 26 | 25 | 

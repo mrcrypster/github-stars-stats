@@ -1,8 +1,8 @@
 # scalessec/Toast-Swift - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
-☋ Forks: 504
+☋ Forks: 505
 
 ★ Stars: 3267
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 3267 | 505 | 
 | 2022-12-03 | 3267 | 504 | 
 | 2022-12-01 | 3265 | 503 | 
 | 2022-11-30 | 3263 | 503 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 3253 | 499 | 
 | 2022-11-06 | 3253 | 499 | 
 | 2022-11-05 | 3253 | 499 | 
-| 2022-11-04 | 3253 | 499 | 
 

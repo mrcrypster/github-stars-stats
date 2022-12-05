@@ -1,6 +1,6 @@
 # Spiderpig86/Cirrus - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 1105 | 65 | 
 | 2022-12-03 | 1105 | 65 | 
 | 2022-12-02 | 1104 | 65 | 
 | 2022-11-30 | 1104 | 65 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-08 | 1097 | 64 | 
 | 2022-11-07 | 1096 | 64 | 
 | 2022-11-06 | 1093 | 64 | 
-| 2022-11-05 | 1093 | 64 | 
 

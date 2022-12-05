@@ -1,6 +1,6 @@
 # eikek/docspell - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 69
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 791 | 69 | 
 | 2022-12-03 | 791 | 69 | 
 | 2022-12-02 | 788 | 69 | 
 | 2022-12-01 | 787 | 69 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 757 | 64 | 
 | 2022-11-06 | 757 | 64 | 
 | 2022-11-05 | 756 | 65 | 
-| 2022-11-04 | 755 | 64 | 
 

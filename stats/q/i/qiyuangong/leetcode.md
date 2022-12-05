@@ -1,10 +1,10 @@
 # qiyuangong/leetcode - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
-☋ Forks: 1384
+☋ Forks: 1385
 
-★ Stars: 4603
+★ Stars: 4605
 
 [Open repository](https://github.com/qiyuangong/leetcode)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 4605 | 1385 | 
 | 2022-12-03 | 4603 | 1384 | 
 | 2022-12-02 | 4602 | 1383 | 
 | 2022-12-01 | 4602 | 1382 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 4569 | 1370 | 
 | 2022-11-06 | 4569 | 1370 | 
 | 2022-11-05 | 4566 | 1370 | 
-| 2022-11-04 | 4565 | 1370 | 
 

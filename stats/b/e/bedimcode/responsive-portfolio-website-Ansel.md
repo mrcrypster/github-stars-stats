@@ -1,6 +1,6 @@
 # bedimcode/responsive-portfolio-website-Ansel - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 138
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 260 | 138 | 
 | 2022-12-03 | 260 | 138 | 
 | 2022-12-02 | 260 | 138 | 
 | 2022-12-01 | 260 | 138 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 250 | 133 | 
 | 2022-11-06 | 250 | 133 | 
 | 2022-11-05 | 251 | 133 | 
-| 2022-11-04 | 250 | 133 | 
 

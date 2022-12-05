@@ -1,8 +1,8 @@
 # tw-in-js/twind - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
-☋ Forks: 74
+☋ Forks: 75
 
 ★ Stars: 3004
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 3004 | 75 | 
 | 2022-12-03 | 3004 | 74 | 
 | 2022-12-02 | 2998 | 74 | 
 | 2022-12-01 | 2995 | 74 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 2957 | 74 | 
 | 2022-11-06 | 2955 | 74 | 
 | 2022-11-05 | 2953 | 74 | 
-| 2022-11-04 | 2953 | 74 | 
 

@@ -1,6 +1,6 @@
 # GreaterWMS/GreaterWMS - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 592
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 2370 | 592 | 
 | 2022-12-03 | 2370 | 592 | 
 | 2022-12-02 | 2369 | 593 | 
 | 2022-11-30 | 2368 | 591 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 2316 | 575 | 
 | 2022-11-06 | 2313 | 574 | 
 | 2022-11-05 | 2313 | 574 | 
-| 2022-11-04 | 2312 | 574 | 
 

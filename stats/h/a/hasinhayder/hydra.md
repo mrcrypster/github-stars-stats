@@ -1,10 +1,10 @@
 # hasinhayder/hydra - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 124
 
-★ Stars: 858
+★ Stars: 859
 
 [Open repository](https://github.com/hasinhayder/hydra)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 859 | 124 | 
 | 2022-12-03 | 858 | 124 | 
 | 2022-12-02 | 858 | 124 | 
 | 2022-12-01 | 858 | 124 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 851 | 121 | 
 | 2022-11-06 | 850 | 121 | 
 | 2022-11-05 | 850 | 121 | 
-| 2022-11-04 | 850 | 121 | 
 

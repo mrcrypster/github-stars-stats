@@ -1,10 +1,10 @@
 # ryanoasis/nerd-fonts - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
-☋ Forks: 3117
+☋ Forks: 3120
 
-★ Stars: 40041
+★ Stars: 40057
 
 [Open repository](https://github.com/ryanoasis/nerd-fonts)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 40057 | 3120 | 
 | 2022-12-03 | 40041 | 3117 | 
 | 2022-12-02 | 40009 | 3110 | 
 | 2022-12-01 | 39989 | 3111 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 39380 | 3056 | 
 | 2022-11-06 | 39360 | 3054 | 
 | 2022-11-05 | 39342 | 3050 | 
-| 2022-11-04 | 39319 | 3047 | 
 

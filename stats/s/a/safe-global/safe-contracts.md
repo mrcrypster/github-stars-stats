@@ -1,8 +1,8 @@
 # safe-global/safe-contracts - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
-☋ Forks: 643
+☋ Forks: 644
 
 ★ Stars: 1243
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 1243 | 644 | 
 | 2022-12-03 | 1243 | 643 | 
 | 2022-12-02 | 1241 | 643 | 
 | 2022-12-01 | 1238 | 643 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 1193 | 626 | 
 | 2022-11-06 | 1193 | 626 | 
 | 2022-11-05 | 1191 | 625 | 
-| 2022-11-04 | 1191 | 625 | 
 

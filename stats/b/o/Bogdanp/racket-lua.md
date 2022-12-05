@@ -1,10 +1,10 @@
 # Bogdanp/racket-lua - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 3
 
-★ Stars: 46
+★ Stars: 48
 
 [Open repository](https://github.com/Bogdanp/racket-lua)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 48 | 3 | 
 | 2022-12-03 | 46 | 3 | 
 | 2022-12-02 | 46 | 3 | 
 | 2022-12-01 | 46 | 3 | 

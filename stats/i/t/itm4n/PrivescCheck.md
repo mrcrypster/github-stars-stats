@@ -1,10 +1,10 @@
 # itm4n/PrivescCheck - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 320
 
-★ Stars: 1861
+★ Stars: 1863
 
 [Open repository](https://github.com/itm4n/PrivescCheck)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 1863 | 320 | 
 | 2022-12-03 | 1861 | 320 | 
 | 2022-12-01 | 1860 | 319 | 
 | 2022-11-30 | 1859 | 319 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 1830 | 312 | 
 | 2022-11-06 | 1829 | 312 | 
 | 2022-11-05 | 1828 | 312 | 
-| 2022-11-04 | 1827 | 311 | 
 

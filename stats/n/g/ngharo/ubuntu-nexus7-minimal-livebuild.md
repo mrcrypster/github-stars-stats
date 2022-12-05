@@ -1,6 +1,6 @@
 # ngharo/ubuntu-nexus7-minimal-livebuild - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 1 | 1 | 
 | 2022-12-02 | 1 | 1 | 
 | 2022-12-01 | 1 | 1 | 
 | 2022-11-30 | 1 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-08 | 1 | 1 | 
 | 2022-11-07 | 1 | 1 | 
 | 2022-11-05 | 1 | 1 | 
-| 2022-11-04 | 1 | 1 | 
 

@@ -1,6 +1,6 @@
 # The-Stripes-NFT/the-stripes-nft-contract - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 153
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 76 | 153 | 
 | 2022-12-03 | 76 | 153 | 
 | 2022-12-02 | 76 | 153 | 
 | 2022-12-01 | 76 | 153 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 78 | 150 | 
 | 2022-11-06 | 78 | 150 | 
 | 2022-11-05 | 78 | 150 | 
-| 2022-11-04 | 78 | 150 | 
 

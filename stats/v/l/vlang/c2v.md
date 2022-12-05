@@ -1,6 +1,6 @@
 # vlang/c2v - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 134 | 18 | 
 | 2022-12-03 | 134 | 18 | 
 | 2022-12-01 | 133 | 18 | 
 | 2022-11-30 | 133 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 130 | 18 | 
 | 2022-11-06 | 130 | 18 | 
 | 2022-11-05 | 130 | 18 | 
-| 2022-11-04 | 130 | 18 | 
 

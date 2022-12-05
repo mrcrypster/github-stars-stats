@@ -1,10 +1,10 @@
 # wo52616111/capslock-plus - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 160
 
-★ Stars: 897
+★ Stars: 898
 
 [Open repository](https://github.com/wo52616111/capslock-plus)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 898 | 160 | 
 | 2022-12-03 | 897 | 160 | 
 | 2022-12-02 | 896 | 159 | 
 | 2022-12-01 | 896 | 159 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 884 | 158 | 
 | 2022-11-06 | 884 | 158 | 
 | 2022-11-05 | 883 | 158 | 
-| 2022-11-04 | 883 | 159 | 
 

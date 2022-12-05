@@ -1,10 +1,10 @@
 # krtab/agnos - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 3
 
-★ Stars: 242
+★ Stars: 243
 
 [Open repository](https://github.com/krtab/agnos)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 243 | 3 | 
 | 2022-12-03 | 242 | 3 | 
 | 2022-12-02 | 242 | 3 | 
 | 2022-12-01 | 242 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 230 | 3 | 
 | 2022-11-06 | 230 | 3 | 
 | 2022-11-05 | 229 | 3 | 
-| 2022-11-04 | 229 | 3 | 
 

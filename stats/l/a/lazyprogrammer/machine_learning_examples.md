@@ -1,8 +1,8 @@
 # lazyprogrammer/machine_learning_examples - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
-☋ Forks: 5865
+☋ Forks: 5864
 
 ★ Stars: 7092
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 7092 | 5864 | 
 | 2022-12-03 | 7092 | 5865 | 
 | 2022-12-02 | 7090 | 5866 | 
 | 2022-12-01 | 7090 | 5864 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 7056 | 5841 | 
 | 2022-11-06 | 7057 | 5841 | 
 | 2022-11-05 | 7056 | 5841 | 
-| 2022-11-04 | 7054 | 5841 | 
 

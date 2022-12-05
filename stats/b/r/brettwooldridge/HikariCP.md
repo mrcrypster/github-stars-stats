@@ -1,10 +1,10 @@
 # brettwooldridge/HikariCP - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 2655
 
-★ Stars: 17571
+★ Stars: 17575
 
 [Open repository](https://github.com/brettwooldridge/HikariCP)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 17575 | 2655 | 
 | 2022-12-03 | 17571 | 2655 | 
 | 2022-12-02 | 17571 | 2655 | 
 | 2022-12-01 | 17569 | 2654 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-08 | 17481 | 2650 | 
 | 2022-11-07 | 17477 | 2650 | 
 | 2022-11-06 | 17475 | 2650 | 
-| 2022-11-04 | 17475 | 2650 | 
 

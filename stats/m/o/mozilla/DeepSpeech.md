@@ -1,10 +1,10 @@
 # mozilla/DeepSpeech - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
-☋ Forks: 3618
+☋ Forks: 3619
 
-★ Stars: 20629
+★ Stars: 20639
 
 [Open repository](https://github.com/mozilla/DeepSpeech)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 20639 | 3619 | 
 | 2022-12-03 | 20629 | 3618 | 
 | 2022-12-02 | 20623 | 3618 | 
 | 2022-12-01 | 20617 | 3618 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 20514 | 3607 | 
 | 2022-11-06 | 20512 | 3606 | 
 | 2022-11-05 | 20509 | 3605 | 
-| 2022-11-04 | 20506 | 3604 | 
 

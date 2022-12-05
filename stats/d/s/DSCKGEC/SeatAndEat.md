@@ -1,6 +1,6 @@
 # DSCKGEC/SeatAndEat - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 3 | 14 | 
 | 2022-12-03 | 3 | 14 | 
 | 2022-12-02 | 3 | 15 | 
 | 2022-12-01 | 3 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 3 | 15 | 
 | 2022-11-06 | 3 | 15 | 
 | 2022-11-05 | 3 | 15 | 
-| 2022-11-04 | 3 | 15 | 
 

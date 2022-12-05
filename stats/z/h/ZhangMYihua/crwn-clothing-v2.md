@@ -1,10 +1,10 @@
 # ZhangMYihua/crwn-clothing-v2 - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 05
 
-☋ Forks: 3235
+☋ Forks: 3242
 
-★ Stars: 292
+★ Stars: 295
 
 [Open repository](https://github.com/ZhangMYihua/crwn-clothing-v2)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 295 | 3242 | 
 | 2022-12-03 | 292 | 3235 | 
 | 2022-12-02 | 292 | 3227 | 
 | 2022-12-01 | 292 | 3217 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 277 | 2995 | 
 | 2022-11-06 | 276 | 2982 | 
 | 2022-11-05 | 276 | 2975 | 
-| 2022-11-04 | 275 | 2969 | 
 

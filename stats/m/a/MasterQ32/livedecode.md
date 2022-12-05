@@ -1,10 +1,10 @@
 # MasterQ32/livedecode - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 1
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/MasterQ32/livedecode)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 24 | 1 | 
 | 2022-12-03 | 23 | 1 | 
 | 2022-12-02 | 23 | 1 | 
 | 2022-12-01 | 23 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 22 | 1 | 
 | 2022-11-06 | 22 | 1 | 
 | 2022-11-05 | 22 | 1 | 
-| 2022-11-04 | 22 | 1 | 
 

@@ -1,6 +1,6 @@
 # obsproject/obs-websocket - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 601
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 3123 | 601 | 
 | 2022-12-03 | 3123 | 601 | 
 | 2022-12-01 | 3123 | 601 | 
 | 2022-11-30 | 3123 | 598 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 3098 | 596 | 
 | 2022-11-06 | 3097 | 596 | 
 | 2022-11-05 | 3096 | 596 | 
-| 2022-11-04 | 3093 | 596 | 
 

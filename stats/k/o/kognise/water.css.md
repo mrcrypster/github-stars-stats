@@ -1,10 +1,10 @@
 # kognise/water.css - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
-☋ Forks: 416
+☋ Forks: 418
 
-★ Stars: 7437
+★ Stars: 7438
 
 [Open repository](https://github.com/kognise/water.css)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 7438 | 418 | 
 | 2022-12-03 | 7437 | 416 | 
 | 2022-12-02 | 7437 | 417 | 
 | 2022-12-01 | 7434 | 416 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 7366 | 414 | 
 | 2022-11-06 | 7364 | 414 | 
 | 2022-11-05 | 7363 | 414 | 
-| 2022-11-04 | 7363 | 414 | 
 

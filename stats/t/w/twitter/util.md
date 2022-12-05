@@ -1,6 +1,6 @@
 # twitter/util - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 563
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 2572 | 563 | 
 | 2022-12-03 | 2572 | 563 | 
 | 2022-12-02 | 2572 | 563 | 
 | 2022-12-01 | 2572 | 563 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 2565 | 550 | 
 | 2022-11-06 | 2564 | 551 | 
 | 2022-11-05 | 2564 | 551 | 
-| 2022-11-04 | 2564 | 551 | 
 

@@ -1,6 +1,6 @@
 # idealista/mysql_role - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 18 | 13 | 
 | 2022-12-03 | 18 | 13 | 
 | 2022-12-01 | 18 | 13 | 
 | 2022-11-30 | 18 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-08 | 17 | 13 | 
 | 2022-11-07 | 17 | 13 | 
 | 2022-11-06 | 17 | 13 | 
-| 2022-11-05 | 16 | 13 | 
 

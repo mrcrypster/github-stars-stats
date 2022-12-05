@@ -1,8 +1,8 @@
 # esokolov/ml-course-hse - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
-☋ Forks: 962
+☋ Forks: 963
 
 ★ Stars: 2194
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 2194 | 963 | 
 | 2022-12-03 | 2194 | 962 | 
 | 2022-12-02 | 2192 | 961 | 
 | 2022-12-01 | 2191 | 960 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 2158 | 947 | 
 | 2022-11-06 | 2158 | 947 | 
 | 2022-11-05 | 2158 | 947 | 
-| 2022-11-04 | 2158 | 947 | 
 

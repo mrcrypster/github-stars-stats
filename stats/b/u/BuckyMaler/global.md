@@ -1,10 +1,10 @@
 # BuckyMaler/global - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 708
 
-★ Stars: 1011
+★ Stars: 1013
 
 [Open repository](https://github.com/BuckyMaler/global)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 1013 | 708 | 
 | 2022-12-02 | 1011 | 708 | 
 | 2022-12-01 | 1011 | 708 | 
 | 2022-11-30 | 1011 | 708 | 

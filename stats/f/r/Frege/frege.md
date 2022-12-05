@@ -1,10 +1,10 @@
 # Frege/frege - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 147
 
-★ Stars: 3582
+★ Stars: 3580
 
 [Open repository](https://github.com/Frege/frege)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 3580 | 147 | 
 | 2022-12-03 | 3582 | 147 | 
 | 2022-12-02 | 3582 | 147 | 
 | 2022-12-01 | 3582 | 147 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 3577 | 147 | 
 | 2022-11-06 | 3577 | 147 | 
 | 2022-11-05 | 3577 | 147 | 
-| 2022-11-04 | 3576 | 147 | 
 

@@ -1,8 +1,8 @@
 # vollib/vollib - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
-☋ Forks: 69
+☋ Forks: 70
 
 ★ Stars: 371
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 371 | 70 | 
 | 2022-12-03 | 371 | 69 | 
 | 2022-12-02 | 371 | 69 | 
 | 2022-12-01 | 371 | 69 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 343 | 65 | 
 | 2022-11-06 | 343 | 65 | 
 | 2022-11-05 | 343 | 65 | 
-| 2022-11-04 | 343 | 65 | 
 

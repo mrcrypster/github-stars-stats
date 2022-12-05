@@ -1,6 +1,6 @@
 # ddsjoberg/ggsurvfit - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 26 | 5 | 
 | 2022-12-03 | 26 | 5 | 
 | 2022-12-02 | 26 | 5 | 
 | 2022-11-30 | 26 | 5 | 

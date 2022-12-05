@@ -1,6 +1,6 @@
 # tidymodels/tidymodels - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 640 | 61 | 
 | 2022-12-04 | 640 | 61 | 
 | 2022-12-02 | 639 | 61 | 
 | 2022-12-01 | 639 | 61 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-07 | 637 | 61 | 
 | 2022-11-06 | 637 | 61 | 
 | 2022-11-05 | 636 | 61 | 
-| 2022-11-04 | 636 | 61 | 
 

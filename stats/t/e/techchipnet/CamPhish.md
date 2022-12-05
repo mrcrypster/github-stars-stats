@@ -1,8 +1,8 @@
 # techchipnet/CamPhish - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
-☋ Forks: 536
+☋ Forks: 537
 
 ★ Stars: 1797
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 1797 | 537 | 
 | 2022-12-03 | 1797 | 536 | 
 | 2022-12-02 | 1795 | 536 | 
 | 2022-12-01 | 1793 | 535 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 1747 | 522 | 
 | 2022-11-06 | 1745 | 522 | 
 | 2022-11-05 | 1745 | 522 | 
-| 2022-11-04 | 1745 | 521 | 
 

@@ -1,6 +1,6 @@
 # dbertho/spamcity - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 81 | 14 | 
 | 2022-12-02 | 81 | 14 | 
 | 2022-12-01 | 81 | 14 | 
 | 2022-11-30 | 81 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-07 | 82 | 14 | 
 | 2022-11-06 | 82 | 14 | 
 | 2022-11-05 | 82 | 14 | 
-| 2022-11-04 | 82 | 14 | 
 

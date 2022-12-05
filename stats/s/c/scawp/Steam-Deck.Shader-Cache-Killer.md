@@ -1,10 +1,10 @@
 # scawp/Steam-Deck.Shader-Cache-Killer - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 2
 
-★ Stars: 119
+★ Stars: 123
 
 [Open repository](https://github.com/scawp/Steam-Deck.Shader-Cache-Killer)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 123 | 2 | 
 | 2022-12-03 | 119 | 2 | 
 | 2022-12-02 | 117 | 2 | 
 | 2022-12-01 | 116 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 76 | 2 | 
 | 2022-11-06 | 74 | 2 | 
 | 2022-11-05 | 72 | 2 | 
-| 2022-11-04 | 70 | 2 | 
 

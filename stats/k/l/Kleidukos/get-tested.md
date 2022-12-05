@@ -1,10 +1,10 @@
 # Kleidukos/get-tested - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 0
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/Kleidukos/get-tested)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 21 | - | 
 | 2022-12-03 | 20 | - | 
 | 2022-12-02 | 20 | - | 
 | 2022-12-01 | 20 | - | 

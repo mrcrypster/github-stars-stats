@@ -1,0 +1,17 @@
+# cran/TSSVM - stars & forks statistics
+
+Stats updated on Dec 2022, 04
+
+☋ Forks: 0
+
+★ Stars: 0
+
+[Open repository](https://github.com/cran/TSSVM)
+
+[Open detailed stats for cran/TSSVM](https://reviewgithub.com/rep/cran/TSSVM)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-12-04 | - | - | 
+

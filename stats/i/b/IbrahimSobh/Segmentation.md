@@ -1,6 +1,6 @@
 # IbrahimSobh/Segmentation - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 61 | 8 | 
 | 2022-12-03 | 61 | 8 | 
 | 2022-12-01 | 60 | 8 | 
 | 2022-11-30 | 60 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 59 | 9 | 
 | 2022-11-06 | 59 | 9 | 
 | 2022-11-05 | 59 | 9 | 
-| 2022-11-04 | 59 | 9 | 
 

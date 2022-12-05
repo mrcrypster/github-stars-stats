@@ -1,8 +1,8 @@
 # TheAlgorithms/Julia - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
-☋ Forks: 88
+☋ Forks: 87
 
 ★ Stars: 286
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 286 | 87 | 
 | 2022-12-03 | 286 | 88 | 
 | 2022-12-02 | 286 | 88 | 
 | 2022-12-01 | 286 | 88 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 283 | 87 | 
 | 2022-11-06 | 283 | 87 | 
 | 2022-11-05 | 283 | 87 | 
-| 2022-11-04 | 282 | 87 | 
 

@@ -1,6 +1,6 @@
 # c42f/SQLREPL.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 59 | 1 | 
 | 2022-12-03 | 59 | 1 | 
 | 2022-12-01 | 59 | 1 | 
 | 2022-11-30 | 59 | 1 | 

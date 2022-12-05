@@ -1,6 +1,6 @@
 # lyz-code/blue-book - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 379 | 57 | 
 | 2022-12-03 | 379 | 57 | 
 | 2022-12-02 | 379 | 57 | 
 | 2022-12-01 | 379 | 57 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 364 | 56 | 
 | 2022-11-06 | 363 | 56 | 
 | 2022-11-05 | 362 | 54 | 
-| 2022-11-04 | 362 | 54 | 
 

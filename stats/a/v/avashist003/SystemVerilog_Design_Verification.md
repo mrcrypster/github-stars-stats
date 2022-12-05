@@ -1,10 +1,10 @@
 # avashist003/SystemVerilog_Design_Verification - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 2
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/avashist003/SystemVerilog_Design_Verification)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 12 | 2 | 
 | 2022-12-03 | 11 | 2 | 
 | 2022-12-01 | 11 | 2 | 
 | 2022-11-30 | 11 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 10 | 2 | 
 | 2022-11-06 | 10 | 2 | 
 | 2022-11-05 | 10 | 2 | 
-| 2022-11-04 | 10 | 2 | 
 

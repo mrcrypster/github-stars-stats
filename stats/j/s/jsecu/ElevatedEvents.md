@@ -1,10 +1,10 @@
 # jsecu/ElevatedEvents - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 10
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/jsecu/ElevatedEvents)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 29 | 10 | 
 | 2022-12-02 | 28 | 10 | 
 | 2022-12-01 | 28 | 10 | 
 | 2022-11-30 | 28 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-08 | 26 | 10 | 
 | 2022-11-07 | 26 | 10 | 
 | 2022-11-06 | 26 | 10 | 
-| 2022-11-05 | 26 | 10 | 
 

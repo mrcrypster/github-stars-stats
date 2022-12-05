@@ -1,6 +1,6 @@
 # Benricheson101/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 128 | 54 | 
 | 2022-12-03 | 128 | 54 | 
 | 2022-12-02 | 128 | 55 | 
 | 2022-11-30 | 128 | 55 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 128 | 57 | 
 | 2022-11-06 | 128 | 57 | 
 | 2022-11-05 | 128 | 57 | 
-| 2022-11-04 | 128 | 57 | 
 

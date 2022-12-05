@@ -1,6 +1,6 @@
 # dgrijalva/jwt-go - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 1014
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 10492 | 1014 | 
 | 2022-12-03 | 10492 | 1014 | 
 | 2022-12-02 | 10492 | 1015 | 
 | 2022-12-01 | 10492 | 1015 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 10478 | 1014 | 
 | 2022-11-06 | 10476 | 1014 | 
 | 2022-11-05 | 10474 | 1014 | 
-| 2022-11-04 | 10474 | 1014 | 
 

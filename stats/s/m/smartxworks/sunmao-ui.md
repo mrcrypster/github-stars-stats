@@ -1,6 +1,6 @@
 # smartxworks/sunmao-ui - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 70
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 1064 | 70 | 
 | 2022-12-02 | 1064 | 70 | 
 | 2022-12-01 | 1061 | 70 | 
 | 2022-11-30 | 1060 | 70 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-08 | 1012 | 69 | 
 | 2022-11-07 | 1010 | 69 | 
 | 2022-11-06 | 1008 | 69 | 
-| 2022-11-05 | 1008 | 69 | 
 

@@ -1,8 +1,8 @@
 # chen3feng/stl4go - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 05
 
-☋ Forks: 33
+☋ Forks: 34
 
 ★ Stars: 187
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 187 | 34 | 
 | 2022-12-03 | 187 | 33 | 
 | 2022-12-02 | 187 | 33 | 
 | 2022-12-01 | 187 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 181 | 32 | 
 | 2022-11-06 | 180 | 32 | 
 | 2022-11-05 | 180 | 32 | 
-| 2022-11-04 | 180 | 32 | 
 

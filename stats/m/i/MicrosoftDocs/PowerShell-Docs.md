@@ -1,10 +1,10 @@
 # MicrosoftDocs/PowerShell-Docs - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 1397
 
-★ Stars: 1523
+★ Stars: 1525
 
 [Open repository](https://github.com/MicrosoftDocs/PowerShell-Docs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 1525 | 1397 | 
 | 2022-12-03 | 1523 | 1397 | 
 | 2022-12-02 | 1523 | 1397 | 
 | 2022-12-01 | 1523 | 1395 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 1505 | 1392 | 
 | 2022-11-06 | 1503 | 1394 | 
 | 2022-11-05 | 1503 | 1394 | 
-| 2022-11-04 | 1502 | 1394 | 
 

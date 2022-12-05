@@ -1,6 +1,6 @@
 # immunogenomics/harmony - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 82
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 356 | 82 | 
 | 2022-12-03 | 356 | 82 | 
 | 2022-12-02 | 356 | 82 | 
 | 2022-12-01 | 356 | 82 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 345 | 80 | 
 | 2022-11-06 | 343 | 80 | 
 | 2022-11-05 | 342 | 80 | 
-| 2022-11-04 | 342 | 80 | 
 

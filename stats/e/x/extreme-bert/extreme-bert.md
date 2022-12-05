@@ -1,10 +1,10 @@
 # extreme-bert/extreme-bert - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
-☋ Forks: 6
+☋ Forks: 8
 
-★ Stars: 153
+★ Stars: 167
 
 [Open repository](https://github.com/extreme-bert/extreme-bert)
 
@@ -13,5 +13,6 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 167 | 8 | 
 | 2022-12-03 | 153 | 6 | 
 

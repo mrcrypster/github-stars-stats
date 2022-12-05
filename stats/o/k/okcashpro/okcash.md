@@ -1,10 +1,10 @@
 # okcashpro/okcash - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 671
 
-★ Stars: 975
+★ Stars: 976
 
 [Open repository](https://github.com/okcashpro/okcash)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 976 | 671 | 
 | 2022-12-03 | 975 | 671 | 
 | 2022-12-02 | 975 | 671 | 
 | 2022-12-01 | 975 | 671 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 546 | 536 | 
 | 2022-11-06 | 542 | 532 | 
 | 2022-11-05 | 541 | 531 | 
-| 2022-11-04 | 533 | 523 | 
 

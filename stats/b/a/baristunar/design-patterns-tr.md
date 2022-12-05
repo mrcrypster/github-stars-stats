@@ -1,6 +1,6 @@
 # baristunar/design-patterns-tr - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 225 | 25 | 
 | 2022-12-02 | 225 | 25 | 
 | 2022-12-01 | 225 | 25 | 
 | 2022-11-30 | 225 | 25 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-08 | 222 | 25 | 
 | 2022-11-07 | 222 | 25 | 
 | 2022-11-06 | 219 | 24 | 
-| 2022-11-05 | 219 | 24 | 
 

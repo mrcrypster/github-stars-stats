@@ -1,6 +1,6 @@
 # red/red - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 413
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 4981 | 413 | 
 | 2022-12-03 | 4981 | 413 | 
 | 2022-12-02 | 4981 | 413 | 
 | 2022-12-01 | 4978 | 413 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 4959 | 414 | 
 | 2022-11-06 | 4957 | 413 | 
 | 2022-11-05 | 4957 | 413 | 
-| 2022-11-04 | 4955 | 413 | 
 

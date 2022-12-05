@@ -1,10 +1,10 @@
 # sarbagyastha/youtube_player_flutter - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 558
 
-★ Stars: 548
+★ Stars: 550
 
 [Open repository](https://github.com/sarbagyastha/youtube_player_flutter)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 550 | 558 | 
 | 2022-12-03 | 548 | 558 | 
 | 2022-12-02 | 548 | 556 | 
 | 2022-12-01 | 548 | 556 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 545 | 545 | 
 | 2022-11-06 | 545 | 544 | 
 | 2022-11-05 | 544 | 544 | 
-| 2022-11-04 | 544 | 544 | 
 

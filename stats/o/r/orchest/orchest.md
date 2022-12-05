@@ -1,6 +1,6 @@
 # orchest/orchest - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 208
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 3556 | 208 | 
 | 2022-12-02 | 3556 | 208 | 
 | 2022-12-01 | 3555 | 208 | 
 | 2022-11-30 | 3548 | 208 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-07 | 3518 | 206 | 
 | 2022-11-06 | 3514 | 206 | 
 | 2022-11-05 | 3513 | 206 | 
-| 2022-11-04 | 3513 | 206 | 
 

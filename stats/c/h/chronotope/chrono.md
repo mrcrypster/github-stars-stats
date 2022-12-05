@@ -1,10 +1,10 @@
 # chronotope/chrono - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 387
 
-★ Stars: 2412
+★ Stars: 2413
 
 [Open repository](https://github.com/chronotope/chrono)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 2413 | 387 | 
 | 2022-12-03 | 2412 | 387 | 
 | 2022-12-01 | 2411 | 387 | 
 | 2022-11-30 | 2410 | 387 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 2375 | 378 | 
 | 2022-11-06 | 2375 | 378 | 
 | 2022-11-05 | 2371 | 377 | 
-| 2022-11-04 | 2371 | 377 | 
 

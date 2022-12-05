@@ -1,10 +1,10 @@
 # yt-dlp/yt-dlp - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
-☋ Forks: 2950
+☋ Forks: 2951
 
-★ Stars: 35777
+★ Stars: 35817
 
 [Open repository](https://github.com/yt-dlp/yt-dlp)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 35817 | 2951 | 
 | 2022-12-03 | 35777 | 2950 | 
 | 2022-12-02 | 35740 | 2946 | 
 | 2022-12-01 | 35703 | 2937 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 34715 | 2836 | 
 | 2022-11-06 | 34649 | 2835 | 
 | 2022-11-05 | 34581 | 2831 | 
-| 2022-11-04 | 34539 | 2828 | 
 

@@ -1,10 +1,10 @@
 # electricitymaps/electricitymaps-contrib - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
-☋ Forks: 749
+☋ Forks: 750
 
-★ Stars: 2625
+★ Stars: 2628
 
 [Open repository](https://github.com/electricitymaps/electricitymaps-contrib)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 2628 | 750 | 
 | 2022-12-03 | 2625 | 749 | 
 | 2022-12-02 | 2622 | 749 | 
 | 2022-12-01 | 2620 | 749 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 2575 | 734 | 
 | 2022-11-06 | 2574 | 732 | 
 | 2022-11-05 | 2571 | 732 | 
-| 2022-11-04 | 2569 | 732 | 
 

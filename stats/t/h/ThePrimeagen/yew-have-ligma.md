@@ -1,6 +1,6 @@
 # ThePrimeagen/yew-have-ligma - stars & forks statistics
 
-Stats updated on Dec 2022, 02
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 52 | 4 | 
 | 2022-12-02 | 52 | 4 | 
 | 2022-12-01 | 52 | 4 | 
 | 2022-11-30 | 52 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 02
 | 2022-11-08 | 52 | 4 | 
 | 2022-11-07 | 52 | 4 | 
 | 2022-11-06 | 52 | 4 | 
-| 2022-11-05 | 52 | 4 | 
 

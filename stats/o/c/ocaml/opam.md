@@ -1,10 +1,10 @@
 # ocaml/opam - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 323
 
-★ Stars: 1034
+★ Stars: 1037
 
 [Open repository](https://github.com/ocaml/opam)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 1037 | 323 | 
 | 2022-12-03 | 1034 | 323 | 
 | 2022-12-02 | 1034 | 323 | 
 | 2022-12-01 | 1034 | 323 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 1032 | 322 | 
 | 2022-11-06 | 1032 | 322 | 
 | 2022-11-05 | 1032 | 321 | 
-| 2022-11-04 | 1032 | 320 | 
 

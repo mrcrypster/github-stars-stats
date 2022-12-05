@@ -1,10 +1,10 @@
 # beyond-all-reason/Beyond-All-Reason - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
 ☋ Forks: 96
 
-★ Stars: 746
+★ Stars: 748
 
 [Open repository](https://github.com/beyond-all-reason/Beyond-All-Reason)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 748 | 96 | 
 | 2022-12-03 | 746 | 96 | 
 | 2022-12-02 | 746 | 97 | 
 | 2022-12-01 | 745 | 97 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 739 | 97 | 
 | 2022-11-06 | 739 | 96 | 
 | 2022-11-05 | 738 | 96 | 
-| 2022-11-04 | 737 | 96 | 
 

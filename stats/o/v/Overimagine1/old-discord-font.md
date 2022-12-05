@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 04
 
 ☋ Forks: 13
 
-★ Stars: 36
+★ Stars: 38
 
 [Open repository](https://github.com/Overimagine1/old-discord-font)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-04 | 36 | 13 | 
+| 2022-12-04 | 38 | 13 | 
 | 2022-12-03 | 35 | 12 | 
 

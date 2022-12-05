@@ -1,10 +1,10 @@
 # huggingface/deep-rl-class - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
-☋ Forks: 254
+☋ Forks: 255
 
-★ Stars: 2251
+★ Stars: 2266
 
 [Open repository](https://github.com/huggingface/deep-rl-class)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 2266 | 255 | 
 | 2022-12-03 | 2251 | 254 | 
 | 2022-12-02 | 2209 | 252 | 
 | 2022-12-01 | 2201 | 249 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 2072 | 231 | 
 | 2022-11-06 | 2068 | 231 | 
 | 2022-11-05 | 2065 | 231 | 
-| 2022-11-04 | 2062 | 230 | 
 

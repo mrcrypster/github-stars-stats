@@ -1,10 +1,10 @@
 # gbj/leptos - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
-☋ Forks: 60
+☋ Forks: 62
 
-★ Stars: 2897
+★ Stars: 2931
 
 [Open repository](https://github.com/gbj/leptos)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 2931 | 62 | 
 | 2022-12-03 | 2897 | 60 | 
 | 2022-12-02 | 2708 | 56 | 
 | 2022-12-01 | 2448 | 50 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-07 | 971 | 19 | 
 | 2022-11-06 | 971 | 19 | 
 | 2022-11-05 | 966 | 19 | 
-| 2022-11-04 | 965 | 18 | 
 

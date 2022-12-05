@@ -1,10 +1,10 @@
 # GokuMohandas/Made-With-ML - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 04
 
-☋ Forks: 5262
+☋ Forks: 5264
 
-★ Stars: 31767
+★ Stars: 31779
 
 [Open repository](https://github.com/GokuMohandas/Made-With-ML)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-04 | 31779 | 5264 | 
 | 2022-12-03 | 31767 | 5262 | 
 | 2022-12-02 | 31762 | 5262 | 
 | 2022-12-01 | 31731 | 5254 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-08 | 31431 | 5213 | 
 | 2022-11-07 | 31390 | 5211 | 
 | 2022-11-05 | 31305 | 5207 | 
-| 2022-11-04 | 31301 | 5207 | 
 
