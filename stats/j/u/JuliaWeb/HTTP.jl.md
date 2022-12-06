@@ -1,6 +1,6 @@
 # JuliaWeb/HTTP.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 153
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 570 | 153 | 
 | 2022-12-04 | 570 | 153 | 
 | 2022-12-03 | 570 | 153 | 
 | 2022-12-02 | 568 | 153 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 564 | 148 | 
 | 2022-11-07 | 564 | 148 | 
 | 2022-11-06 | 563 | 148 | 
-| 2022-11-05 | 563 | 148 | 
 

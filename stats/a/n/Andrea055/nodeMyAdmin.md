@@ -1,10 +1,10 @@
 # Andrea055/nodeMyAdmin - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 2
 
-★ Stars: 66
+★ Stars: 68
 
 [Open repository](https://github.com/Andrea055/nodeMyAdmin)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 68 | 2 | 
 | 2022-12-04 | 66 | 2 | 
 | 2022-12-03 | 66 | 2 | 
 | 2022-12-01 | 64 | 2 | 

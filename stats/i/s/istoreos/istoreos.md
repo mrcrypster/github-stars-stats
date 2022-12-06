@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 05
 
 ☋ Forks: 76
 
-★ Stars: 807
+★ Stars: 809
 
 [Open repository](https://github.com/istoreos/istoreos)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-05 | 807 | 76 | 
+| 2022-12-05 | 809 | 76 | 
 | 2022-12-04 | 806 | 76 | 
 | 2022-12-03 | 794 | 75 | 
 | 2022-12-02 | 789 | 74 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-08 | 665 | 67 | 
 | 2022-11-07 | 659 | 66 | 
 | 2022-11-06 | 658 | 64 | 
-| 2022-11-05 | 655 | 64 | 
 

@@ -1,10 +1,10 @@
 # NakanoMikuOrg/arch-guide - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
-☋ Forks: 75
+☋ Forks: 74
 
-★ Stars: 740
+★ Stars: 741
 
 [Open repository](https://github.com/NakanoMikuOrg/arch-guide)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 741 | 74 | 
 | 2022-12-04 | 740 | 75 | 
 | 2022-12-03 | 737 | 75 | 
 | 2022-12-02 | 735 | 74 | 

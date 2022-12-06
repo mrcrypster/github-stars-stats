@@ -1,10 +1,10 @@
 # Librum-Reader/Librum - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 1
 
-★ Stars: 164
+★ Stars: 166
 
 [Open repository](https://github.com/Librum-Reader/Librum)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 166 | 1 | 
 | 2022-12-04 | 164 | 1 | 
 | 2022-12-03 | 164 | 1 | 
 | 2022-12-02 | 163 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 160 | 1 | 
 | 2022-11-07 | 160 | 1 | 
 | 2022-11-06 | 160 | 1 | 
-| 2022-11-05 | 159 | 1 | 
 

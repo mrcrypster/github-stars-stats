@@ -1,6 +1,6 @@
 # danielgtaylor/aglio - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 488
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 4710 | 488 | 
 | 2022-12-03 | 4710 | 488 | 
 | 2022-12-02 | 4710 | 488 | 
 | 2022-12-01 | 4709 | 488 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-09 | 4708 | 488 | 
 | 2022-11-08 | 4707 | 488 | 
 | 2022-11-06 | 4707 | 488 | 
-| 2022-11-05 | 4707 | 488 | 
 

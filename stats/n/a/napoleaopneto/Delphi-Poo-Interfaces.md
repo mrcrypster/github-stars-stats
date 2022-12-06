@@ -1,6 +1,6 @@
 # napoleaopneto/Delphi-Poo-Interfaces - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 11 | 5 | 
 | 2022-12-03 | 11 | 5 | 
 | 2022-12-02 | 11 | 5 | 
 | 2022-12-01 | 11 | 5 | 

@@ -1,6 +1,6 @@
 # skywind3000/preserve-cd - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 336
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 2911 | 336 | 
 | 2022-12-04 | 2911 | 336 | 
 | 2022-12-02 | 2911 | 336 | 
 | 2022-12-01 | 2910 | 336 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 2847 | 329 | 
 | 2022-11-07 | 2845 | 328 | 
 | 2022-11-06 | 2842 | 327 | 
-| 2022-11-05 | 2839 | 327 | 
 

@@ -1,10 +1,10 @@
 # SeldonIO/seldon-core - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 721
 
-★ Stars: 3502
+★ Stars: 3503
 
 [Open repository](https://github.com/SeldonIO/seldon-core)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 3503 | 721 | 
 | 2022-12-04 | 3502 | 721 | 
 | 2022-12-03 | 3502 | 721 | 
 | 2022-12-02 | 3500 | 721 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 3450 | 718 | 
 | 2022-11-07 | 3447 | 718 | 
 | 2022-11-06 | 3445 | 718 | 
-| 2022-11-05 | 3445 | 718 | 
 

@@ -1,10 +1,10 @@
 # REditorSupport/languageserver - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 75
 
-★ Stars: 476
+★ Stars: 475
 
 [Open repository](https://github.com/REditorSupport/languageserver)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 475 | 75 | 
 | 2022-12-04 | 476 | 75 | 
 | 2022-12-03 | 476 | 75 | 
 | 2022-12-02 | 475 | 75 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 474 | 73 | 
 | 2022-11-07 | 474 | 73 | 
 | 2022-11-06 | 474 | 73 | 
-| 2022-11-05 | 474 | 73 | 
 

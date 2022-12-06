@@ -1,8 +1,8 @@
 # vim-python/python-syntax - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
-☋ Forks: 84
+☋ Forks: 85
 
 ★ Stars: 400
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 400 | 85 | 
 | 2022-12-04 | 400 | 84 | 
 | 2022-12-03 | 400 | 84 | 
 | 2022-12-02 | 400 | 84 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 391 | 81 | 
 | 2022-11-07 | 390 | 81 | 
 | 2022-11-06 | 390 | 81 | 
-| 2022-11-05 | 390 | 81 | 
 

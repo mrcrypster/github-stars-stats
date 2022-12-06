@@ -1,6 +1,6 @@
 # exercism/elm - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 99
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 128 | 99 | 
 | 2022-12-03 | 128 | 99 | 
 | 2022-12-02 | 128 | 99 | 
 | 2022-12-01 | 128 | 99 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-09 | 127 | 99 | 
 | 2022-11-08 | 127 | 99 | 
 | 2022-11-07 | 127 | 99 | 
-| 2022-11-05 | 127 | 99 | 
 

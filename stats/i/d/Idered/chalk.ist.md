@@ -1,6 +1,6 @@
 # Idered/chalk.ist - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 449 | 25 | 
 | 2022-12-03 | 449 | 25 | 
 | 2022-12-02 | 449 | 25 | 
 | 2022-12-01 | 449 | 25 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-08 | 444 | 25 | 
 | 2022-11-07 | 443 | 25 | 
 | 2022-11-06 | 443 | 25 | 
-| 2022-11-05 | 443 | 25 | 
 

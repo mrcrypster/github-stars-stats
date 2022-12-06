@@ -1,6 +1,6 @@
 # kowainik/summoner - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 71
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 668 | 71 | 
 | 2022-12-04 | 668 | 71 | 
 | 2022-12-02 | 667 | 71 | 
 | 2022-12-01 | 667 | 71 | 

@@ -1,10 +1,10 @@
 # fuzhengwei/itstack-demo-design - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 1612
 
-★ Stars: 5226
+★ Stars: 5227
 
 [Open repository](https://github.com/fuzhengwei/itstack-demo-design)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 5227 | 1612 | 
 | 2022-12-04 | 5226 | 1612 | 
 | 2022-12-03 | 5226 | 1612 | 
 | 2022-12-02 | 5223 | 1612 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 5180 | 1601 | 
 | 2022-11-07 | 5180 | 1601 | 
 | 2022-11-06 | 5179 | 1600 | 
-| 2022-11-05 | 5178 | 1598 | 
 

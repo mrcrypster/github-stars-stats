@@ -1,6 +1,6 @@
 # TheHive-Project/Cortex - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 176
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 980 | 176 | 
 | 2022-12-04 | 980 | 176 | 
 | 2022-12-03 | 980 | 176 | 
 | 2022-12-01 | 980 | 176 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 974 | 172 | 
 | 2022-11-07 | 974 | 172 | 
 | 2022-11-06 | 973 | 172 | 
-| 2022-11-05 | 972 | 172 | 
 

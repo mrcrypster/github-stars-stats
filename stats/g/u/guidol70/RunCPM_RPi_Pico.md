@@ -1,6 +1,6 @@
 # guidol70/RunCPM_RPi_Pico - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 32 | 7 | 
 | 2022-12-03 | 32 | 7 | 
 | 2022-12-02 | 32 | 7 | 
 | 2022-12-01 | 32 | 7 | 

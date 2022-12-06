@@ -1,6 +1,6 @@
 # binary-com/perl-MooX-Role-Validatable - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | - | 5 | 
 | 2022-12-03 | - | 5 | 
 | 2022-12-02 | - | 5 | 
 | 2022-12-01 | - | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-09 | - | 5 | 
 | 2022-11-08 | - | 5 | 
 | 2022-11-07 | - | 5 | 
-| 2022-11-06 | - | 5 | 
 

@@ -1,10 +1,10 @@
 # vnphanquang/svelte-put - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 2
 
-★ Stars: 128
+★ Stars: 129
 
 [Open repository](https://github.com/vnphanquang/svelte-put)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 129 | 2 | 
 | 2022-12-04 | 128 | 2 | 
 | 2022-12-02 | 126 | 2 | 
 | 2022-12-01 | 125 | 2 | 

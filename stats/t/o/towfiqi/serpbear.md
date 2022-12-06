@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 05
 
 ☋ Forks: 8
 
-★ Stars: 201
+★ Stars: 229
 
 [Open repository](https://github.com/towfiqi/serpbear)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-05 | 201 | 8 | 
+| 2022-12-05 | 229 | 8 | 
 | 2022-12-04 | 179 | 8 | 
 

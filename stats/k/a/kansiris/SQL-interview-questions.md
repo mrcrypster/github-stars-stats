@@ -1,10 +1,10 @@
 # kansiris/SQL-interview-questions - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 63
 
-★ Stars: 194
+★ Stars: 195
 
 [Open repository](https://github.com/kansiris/SQL-interview-questions)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 195 | 63 | 
 | 2022-12-04 | 194 | 63 | 
 | 2022-12-03 | 194 | 63 | 
 | 2022-12-02 | 194 | 63 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 190 | 63 | 
 | 2022-11-07 | 190 | 63 | 
 | 2022-11-06 | 188 | 63 | 
-| 2022-11-05 | 186 | 63 | 
 

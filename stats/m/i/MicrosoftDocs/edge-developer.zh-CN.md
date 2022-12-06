@@ -1,10 +1,10 @@
 # MicrosoftDocs/edge-developer.zh-CN - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 7
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/MicrosoftDocs/edge-developer.zh-CN)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 6 | 7 | 
 | 2022-12-04 | 5 | 7 | 
 | 2022-12-03 | 5 | 7 | 
 | 2022-12-02 | 5 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 5 | 7 | 
 | 2022-11-07 | 5 | 7 | 
 | 2022-11-06 | 5 | 7 | 
-| 2022-11-05 | 5 | 7 | 
 

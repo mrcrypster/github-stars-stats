@@ -1,10 +1,10 @@
 # kamranahmedse/developer-roadmap - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
-☋ Forks: 31852
+☋ Forks: 31859
 
-★ Stars: 220217
+★ Stars: 220284
 
 [Open repository](https://github.com/kamranahmedse/developer-roadmap)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 220284 | 31859 | 
 | 2022-12-04 | 220217 | 31852 | 
 | 2022-12-03 | 220112 | 31838 | 
 | 2022-12-02 | 220021 | 31827 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 217367 | 31412 | 
 | 2022-11-07 | 217291 | 31403 | 
 | 2022-11-06 | 217211 | 31393 | 
-| 2022-11-05 | 217137 | 31386 | 
 

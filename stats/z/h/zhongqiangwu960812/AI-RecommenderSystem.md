@@ -1,10 +1,10 @@
 # zhongqiangwu960812/AI-RecommenderSystem - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
-☋ Forks: 277
+☋ Forks: 278
 
-★ Stars: 924
+★ Stars: 925
 
 [Open repository](https://github.com/zhongqiangwu960812/AI-RecommenderSystem)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 925 | 278 | 
 | 2022-12-04 | 924 | 277 | 
 | 2022-12-03 | 924 | 277 | 
 | 2022-12-02 | 924 | 277 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 899 | 274 | 
 | 2022-11-07 | 898 | 274 | 
 | 2022-11-06 | 897 | 274 | 
-| 2022-11-05 | 896 | 274 | 
 

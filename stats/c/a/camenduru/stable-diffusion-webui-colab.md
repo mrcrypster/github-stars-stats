@@ -1,10 +1,10 @@
 # camenduru/stable-diffusion-webui-colab - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 19
 
-★ Stars: 116
+★ Stars: 117
 
 [Open repository](https://github.com/camenduru/stable-diffusion-webui-colab)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 117 | 19 | 
 | 2022-12-04 | 116 | 19 | 
 | 2022-12-03 | 110 | 17 | 
 | 2022-12-02 | 106 | 17 | 

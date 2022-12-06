@@ -1,10 +1,10 @@
 # abhishek-ch/around-dataengineering - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
-☋ Forks: 200
+☋ Forks: 202
 
-★ Stars: 946
+★ Stars: 947
 
 [Open repository](https://github.com/abhishek-ch/around-dataengineering)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 947 | 202 | 
 | 2022-12-04 | 946 | 200 | 
 | 2022-12-03 | 946 | 200 | 
 | 2022-12-02 | 946 | 200 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 933 | 198 | 
 | 2022-11-07 | 932 | 198 | 
 | 2022-11-06 | 932 | 198 | 
-| 2022-11-05 | 932 | 198 | 
 

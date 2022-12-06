@@ -1,6 +1,6 @@
 # JJTechInc/Terraform - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 82
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 8 | 82 | 
 | 2022-12-04 | 8 | 82 | 
 | 2022-12-02 | 8 | 82 | 
 | 2022-12-01 | 8 | 82 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 7 | 70 | 
 | 2022-11-07 | 7 | 67 | 
 | 2022-11-06 | 7 | 66 | 
-| 2022-11-05 | 7 | 66 | 
 

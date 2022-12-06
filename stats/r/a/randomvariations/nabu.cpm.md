@@ -1,10 +1,10 @@
 # randomvariations/nabu.cpm - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 1
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/randomvariations/nabu.cpm)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 25 | 1 | 
 | 2022-12-04 | 24 | 1 | 
 | 2022-12-03 | 24 | 1 | 
 | 2022-12-02 | 24 | 1 | 

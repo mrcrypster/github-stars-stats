@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 05
 
 ☋ Forks: 77
 
-★ Stars: 357
+★ Stars: 358
 
 [Open repository](https://github.com/GNSPS/solidity-bytes-utils)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-05 | 357 | 77 | 
+| 2022-12-05 | 358 | 77 | 
 | 2022-12-04 | 357 | 77 | 
 | 2022-12-03 | 357 | 76 | 
 | 2022-12-02 | 356 | 76 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-08 | 350 | 75 | 
 | 2022-11-07 | 350 | 75 | 
 | 2022-11-06 | 350 | 75 | 
-| 2022-11-05 | 350 | 75 | 
 

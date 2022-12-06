@@ -1,10 +1,10 @@
 # datvuthanh/HybridNets - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 73
 
-★ Stars: 360
+★ Stars: 362
 
 [Open repository](https://github.com/datvuthanh/HybridNets)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 362 | 73 | 
 | 2022-12-04 | 360 | 73 | 
 | 2022-12-03 | 359 | 72 | 
 | 2022-12-02 | 359 | 71 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 354 | 65 | 
 | 2022-11-07 | 354 | 65 | 
 | 2022-11-06 | 353 | 65 | 
-| 2022-11-05 | 352 | 65 | 
 

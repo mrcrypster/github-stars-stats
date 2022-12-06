@@ -1,6 +1,6 @@
 # Rari-Capital/fuse-contracts - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 27 | 5 | 
 | 2022-12-03 | 27 | 5 | 
 | 2022-12-02 | 27 | 5 | 
 | 2022-12-01 | 27 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-08 | 28 | 5 | 
 | 2022-11-07 | 28 | 5 | 
 | 2022-11-06 | 28 | 5 | 
-| 2022-11-05 | 28 | 5 | 
 

@@ -1,6 +1,6 @@
 # abhinavs/moonwalk - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 278
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 206 | 278 | 
 | 2022-12-04 | 206 | 278 | 
 | 2022-12-03 | 206 | 276 | 
 | 2022-12-02 | 206 | 274 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 193 | 256 | 
 | 2022-11-07 | 193 | 254 | 
 | 2022-11-06 | 193 | 256 | 
-| 2022-11-05 | 193 | 256 | 
 

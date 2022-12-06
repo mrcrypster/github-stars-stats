@@ -1,10 +1,10 @@
 # kingoflolz/mesh-transformer-jax - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 649
 
-★ Stars: 4597
+★ Stars: 4606
 
 [Open repository](https://github.com/kingoflolz/mesh-transformer-jax)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 4606 | 649 | 
 | 2022-12-04 | 4597 | 649 | 
 | 2022-12-03 | 4594 | 649 | 
 | 2022-12-02 | 4593 | 649 | 

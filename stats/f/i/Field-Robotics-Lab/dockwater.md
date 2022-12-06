@@ -1,10 +1,10 @@
 # Field-Robotics-Lab/dockwater - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
-☋ Forks: 5
+☋ Forks: 6
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/Field-Robotics-Lab/dockwater)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 1 | 6 | 
 | 2022-12-04 | - | 5 | 
 | 2022-12-03 | - | 5 | 
 

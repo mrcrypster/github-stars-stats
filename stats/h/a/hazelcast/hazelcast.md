@@ -1,10 +1,10 @@
 # hazelcast/hazelcast - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 1693
 
-★ Stars: 5130
+★ Stars: 5131
 
 [Open repository](https://github.com/hazelcast/hazelcast)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 5131 | 1693 | 
 | 2022-12-04 | 5130 | 1693 | 
 | 2022-12-02 | 5130 | 1693 | 
 | 2022-12-01 | 5129 | 1693 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 5106 | 1694 | 
 | 2022-11-07 | 5102 | 1693 | 
 | 2022-11-06 | 5102 | 1693 | 
-| 2022-11-05 | 5101 | 1693 | 
 

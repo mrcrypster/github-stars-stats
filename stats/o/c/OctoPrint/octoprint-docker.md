@@ -1,10 +1,10 @@
 # OctoPrint/octoprint-docker - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 177
 
-★ Stars: 275
+★ Stars: 276
 
 [Open repository](https://github.com/OctoPrint/octoprint-docker)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 276 | 177 | 
 | 2022-12-04 | 275 | 177 | 
 | 2022-12-03 | 275 | 177 | 
 | 2022-12-01 | 275 | 177 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 267 | 176 | 
 | 2022-11-07 | 266 | 176 | 
 | 2022-11-06 | 266 | 175 | 
-| 2022-11-05 | 266 | 175 | 
 

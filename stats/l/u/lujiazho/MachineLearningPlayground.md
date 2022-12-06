@@ -1,6 +1,6 @@
 # lujiazho/MachineLearningPlayground - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 74 | 25 | 
 | 2022-12-03 | 74 | 25 | 
 | 2022-12-02 | 74 | 25 | 
 | 2022-12-01 | 74 | 25 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-09 | 69 | 24 | 
 | 2022-11-08 | 69 | 24 | 
 | 2022-11-07 | 69 | 24 | 
-| 2022-11-06 | 69 | 24 | 
 

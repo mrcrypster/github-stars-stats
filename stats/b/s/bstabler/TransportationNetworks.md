@@ -1,10 +1,10 @@
 # bstabler/TransportationNetworks - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 383
 
-★ Stars: 526
+★ Stars: 527
 
 [Open repository](https://github.com/bstabler/TransportationNetworks)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 527 | 383 | 
 | 2022-12-04 | 526 | 383 | 
 | 2022-12-03 | 525 | 383 | 
 | 2022-12-02 | 525 | 382 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 516 | 375 | 
 | 2022-11-07 | 515 | 373 | 
 | 2022-11-06 | 515 | 373 | 
-| 2022-11-05 | 514 | 373 | 
 

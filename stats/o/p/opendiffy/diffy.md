@@ -1,6 +1,6 @@
 # opendiffy/diffy - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 110
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 922 | 110 | 
 | 2022-12-03 | 922 | 110 | 
 | 2022-12-02 | 921 | 110 | 
 | 2022-12-01 | 921 | 110 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-08 | 905 | 109 | 
 | 2022-11-07 | 905 | 109 | 
 | 2022-11-06 | 905 | 109 | 
-| 2022-11-05 | 905 | 109 | 
 

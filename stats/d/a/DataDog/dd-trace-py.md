@@ -1,8 +1,8 @@
 # DataDog/dd-trace-py - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
-☋ Forks: 321
+☋ Forks: 320
 
 ★ Stars: 375
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 375 | 320 | 
 | 2022-12-04 | 375 | 321 | 
 | 2022-12-03 | 375 | 321 | 
 | 2022-12-01 | 374 | 321 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 368 | 315 | 
 | 2022-11-07 | 368 | 315 | 
 | 2022-11-06 | 368 | 315 | 
-| 2022-11-05 | 367 | 315 | 
 

@@ -1,8 +1,8 @@
 # OpenFlutter/flutter_screenutil - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
-☋ Forks: 413
+☋ Forks: 412
 
 ★ Stars: 3333
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 3333 | 412 | 
 | 2022-12-04 | 3333 | 413 | 
 | 2022-12-03 | 3332 | 413 | 
 | 2022-12-02 | 3332 | 413 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 3314 | 410 | 
 | 2022-11-07 | 3314 | 410 | 
 | 2022-11-06 | 3313 | 410 | 
-| 2022-11-05 | 3310 | 410 | 
 

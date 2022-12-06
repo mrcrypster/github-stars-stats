@@ -1,8 +1,8 @@
 # mate-academy/react_dynamic-list-of-todos - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
-☋ Forks: 1150
+☋ Forks: 1152
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 1 | 1152 | 
 | 2022-12-04 | 1 | 1150 | 
 | 2022-12-03 | 1 | 1148 | 
 | 2022-12-01 | 1 | 1147 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | - | 1120 | 
 | 2022-11-07 | - | 1119 | 
 | 2022-11-06 | - | 1117 | 
-| 2022-11-05 | - | 1116 | 
 

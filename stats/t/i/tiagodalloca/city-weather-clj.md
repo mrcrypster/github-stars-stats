@@ -1,6 +1,6 @@
 # tiagodalloca/city-weather-clj - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 14 | - | 
 | 2022-12-03 | 14 | - | 
 | 2022-12-02 | 14 | - | 
 | 2022-12-01 | 14 | - | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-08 | 14 | - | 
 | 2022-11-07 | 14 | - | 
 | 2022-11-06 | 14 | - | 
-| 2022-11-05 | 14 | - | 
 

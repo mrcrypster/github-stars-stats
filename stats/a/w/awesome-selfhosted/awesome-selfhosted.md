@@ -1,10 +1,10 @@
 # awesome-selfhosted/awesome-selfhosted - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
-☋ Forks: 6683
+☋ Forks: 6684
 
-★ Stars: 110494
+★ Stars: 110624
 
 [Open repository](https://github.com/awesome-selfhosted/awesome-selfhosted)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 110624 | 6684 | 
 | 2022-12-04 | 110494 | 6683 | 
 | 2022-12-03 | 110346 | 6681 | 
 | 2022-12-02 | 110228 | 6680 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 107728 | 6611 | 
 | 2022-11-07 | 107633 | 6604 | 
 | 2022-11-06 | 107537 | 6600 | 
-| 2022-11-05 | 107421 | 6589 | 
 

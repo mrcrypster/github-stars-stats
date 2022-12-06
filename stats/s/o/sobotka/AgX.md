@@ -1,6 +1,6 @@
 # sobotka/AgX - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 125 | 10 | 
 | 2022-12-03 | 125 | 10 | 
 | 2022-12-02 | 124 | 10 | 
 | 2022-12-01 | 123 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-08 | 117 | 10 | 
 | 2022-11-07 | 113 | 10 | 
 | 2022-11-06 | 112 | 10 | 
-| 2022-11-05 | 112 | 10 | 
 

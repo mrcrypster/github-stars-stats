@@ -1,10 +1,10 @@
 # lifepillar/vim-solarized8 - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 81
 
-★ Stars: 901
+★ Stars: 900
 
 [Open repository](https://github.com/lifepillar/vim-solarized8)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 900 | 81 | 
 | 2022-12-04 | 901 | 81 | 
 | 2022-12-03 | 901 | 81 | 
 | 2022-12-02 | 901 | 81 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 899 | 81 | 
 | 2022-11-07 | 899 | 81 | 
 | 2022-11-06 | 898 | 81 | 
-| 2022-11-05 | 898 | 81 | 
 

@@ -1,6 +1,6 @@
 # PredatorHackerzZ/Renamer-Bot - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 267
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 46 | 267 | 
 | 2022-12-04 | 46 | 267 | 
 | 2022-12-02 | 46 | 267 | 
 | 2022-12-01 | 46 | 268 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 47 | 270 | 
 | 2022-11-07 | 47 | 270 | 
 | 2022-11-06 | 47 | 270 | 
-| 2022-11-05 | 47 | 269 | 
 

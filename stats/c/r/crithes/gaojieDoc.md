@@ -1,6 +1,6 @@
 # crithes/gaojieDoc - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 103 | 32 | 
 | 2022-12-04 | 103 | 32 | 
 | 2022-12-03 | 103 | 32 | 
 | 2022-12-02 | 103 | 32 | 

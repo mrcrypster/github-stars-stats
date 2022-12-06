@@ -1,10 +1,10 @@
 # go-admin-team/go-admin - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 1728
 
-★ Stars: 7978
+★ Stars: 7989
 
 [Open repository](https://github.com/go-admin-team/go-admin)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 7989 | 1728 | 
 | 2022-12-04 | 7978 | 1728 | 
 | 2022-12-02 | 7968 | 1726 | 
 | 2022-12-01 | 7956 | 1725 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 7650 | 1677 | 
 | 2022-11-07 | 7635 | 1672 | 
 | 2022-11-06 | 7610 | 1669 | 
-| 2022-11-05 | 7602 | 1668 | 
 

@@ -1,6 +1,6 @@
 # utrains/provision-eks-cluster-with-terraform - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | - | 17 | 
 | 2022-12-04 | - | 17 | 
 | 2022-12-03 | - | 17 | 
 | 2022-12-02 | - | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | - | 15 | 
 | 2022-11-07 | - | 14 | 
 | 2022-11-06 | - | 14 | 
-| 2022-11-05 | - | 14 | 
 

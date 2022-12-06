@@ -1,10 +1,10 @@
 # Jutho/VectorInterface.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 1
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/Jutho/VectorInterface.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 19 | 1 | 
 | 2022-12-04 | 18 | 1 | 
 | 2022-12-03 | 18 | 1 | 
 | 2022-12-02 | 18 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 17 | 1 | 
 | 2022-11-07 | 17 | 1 | 
 | 2022-11-06 | 17 | 1 | 
-| 2022-11-05 | 17 | 1 | 
 

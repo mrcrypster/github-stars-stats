@@ -1,10 +1,10 @@
 # harshmangalam/sveltekit-video-meet - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 0
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/harshmangalam/sveltekit-video-meet)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 13 | - | 
 | 2022-12-04 | 12 | - | 
 | 2022-12-02 | 11 | - | 
 | 2022-12-01 | 10 | - | 

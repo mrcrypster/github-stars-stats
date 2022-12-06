@@ -1,10 +1,10 @@
 # spf13/viper - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 1798
 
-★ Stars: 21385
+★ Stars: 21394
 
 [Open repository](https://github.com/spf13/viper)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 21394 | 1798 | 
 | 2022-12-04 | 21385 | 1798 | 
 | 2022-12-03 | 21377 | 1797 | 
 | 2022-12-02 | 21371 | 1796 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 21129 | 1778 | 
 | 2022-11-07 | 21116 | 1775 | 
 | 2022-11-06 | 21103 | 1776 | 
-| 2022-11-05 | 21097 | 1776 | 
 

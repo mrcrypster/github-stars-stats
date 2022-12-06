@@ -1,10 +1,10 @@
 # Manta-Network/manta-rs - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
-☋ Forks: 21
+☋ Forks: 22
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/Manta-Network/manta-rs)
 
@@ -13,5 +13,6 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 32 | 22 | 
 | 2022-12-04 | 31 | 21 | 
 

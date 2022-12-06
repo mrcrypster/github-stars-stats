@@ -1,6 +1,6 @@
 # yagiz/Bagel - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 306
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 4191 | 306 | 
 | 2022-12-04 | 4191 | 306 | 
 | 2022-12-02 | 4191 | 306 | 
 | 2022-12-01 | 4191 | 306 | 

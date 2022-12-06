@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-route53-cluster-zone - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 41 | 32 | 
 | 2022-12-04 | 41 | 32 | 
 | 2022-12-02 | 41 | 32 | 
 | 2022-12-01 | 41 | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 41 | 31 | 
 | 2022-11-07 | 41 | 31 | 
 | 2022-11-06 | 41 | 31 | 
-| 2022-11-05 | 41 | 31 | 
 

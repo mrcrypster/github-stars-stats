@@ -1,10 +1,10 @@
 # FiltersHeroes/KAD - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 10
 
-★ Stars: 51
+★ Stars: 52
 
 [Open repository](https://github.com/FiltersHeroes/KAD)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 52 | 10 | 
 | 2022-12-03 | 51 | 10 | 
 | 2022-12-02 | 51 | 10 | 
 | 2022-12-01 | 51 | 10 | 

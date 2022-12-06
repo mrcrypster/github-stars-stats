@@ -1,8 +1,8 @@
 # facebookresearch/pifuhd - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
-☋ Forks: 1187
+☋ Forks: 1188
 
 ★ Stars: 8348
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 8348 | 1188 | 
 | 2022-12-04 | 8348 | 1187 | 
 | 2022-12-02 | 8347 | 1185 | 
 | 2022-12-01 | 8343 | 1185 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 8282 | 1171 | 
 | 2022-11-08 | 8278 | 1170 | 
 | 2022-11-07 | 8273 | 1170 | 
-| 2022-11-06 | 8268 | 1170 | 
 

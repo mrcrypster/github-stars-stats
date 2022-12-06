@@ -1,6 +1,6 @@
 # 2881099/FreeIM - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 340
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 1109 | 340 | 
 | 2022-12-04 | 1109 | 340 | 
 | 2022-12-03 | 1109 | 340 | 
 | 2022-12-01 | 1109 | 340 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 1103 | 338 | 
 | 2022-11-07 | 1100 | 337 | 
 | 2022-11-06 | 1100 | 337 | 
-| 2022-11-05 | 1100 | 337 | 
 

@@ -1,10 +1,10 @@
 # aquasecurity/trivy-plugin-aqua - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 10
 
-★ Stars: 12
+★ Stars: 11
 
 [Open repository](https://github.com/aquasecurity/trivy-plugin-aqua)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 11 | 10 | 
 | 2022-12-04 | 12 | 10 | 
 | 2022-12-03 | 12 | 10 | 
 | 2022-12-02 | 12 | 10 | 

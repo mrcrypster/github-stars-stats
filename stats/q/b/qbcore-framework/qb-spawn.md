@@ -1,6 +1,6 @@
 # qbcore-framework/qb-spawn - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 161
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 15 | 161 | 
 | 2022-12-04 | 15 | 161 | 
 | 2022-12-03 | 15 | 159 | 
 | 2022-12-01 | 15 | 158 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 15 | 154 | 
 | 2022-11-07 | 15 | 154 | 
 | 2022-11-06 | 15 | 154 | 
-| 2022-11-05 | 15 | 156 | 
 

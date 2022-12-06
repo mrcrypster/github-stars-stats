@@ -1,10 +1,10 @@
 # ZhongYi-LinuxDriverDev/CS-EmbeddedLinux-Book - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 202
 
-★ Stars: 935
+★ Stars: 934
 
 [Open repository](https://github.com/ZhongYi-LinuxDriverDev/CS-EmbeddedLinux-Book)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 934 | 202 | 
 | 2022-12-03 | 935 | 202 | 
 | 2022-12-02 | 936 | 201 | 
 | 2022-12-01 | 937 | 201 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-08 | 939 | 201 | 
 | 2022-11-07 | 940 | 201 | 
 | 2022-11-06 | 940 | 201 | 
-| 2022-11-05 | 940 | 201 | 
 

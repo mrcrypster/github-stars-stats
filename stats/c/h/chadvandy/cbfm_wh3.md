@@ -1,6 +1,6 @@
 # chadvandy/cbfm_wh3 - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 14 | 20 | 
 | 2022-12-04 | 14 | 20 | 
 | 2022-12-02 | 14 | 20 | 
 | 2022-12-01 | 14 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 14 | 19 | 
 | 2022-11-07 | 14 | 19 | 
 | 2022-11-06 | 14 | 18 | 
-| 2022-11-05 | 14 | 18 | 
 

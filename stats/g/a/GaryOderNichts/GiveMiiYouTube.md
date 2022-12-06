@@ -1,6 +1,6 @@
 # GaryOderNichts/GiveMiiYouTube - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 31 | 1 | 
 | 2022-12-04 | 31 | 1 | 
 | 2022-12-02 | 31 | 1 | 
 | 2022-12-01 | 31 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 28 | 1 | 
 | 2022-11-08 | 27 | 1 | 
 | 2022-11-07 | 26 | 1 | 
-| 2022-11-06 | 25 | - | 
 

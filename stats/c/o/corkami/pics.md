@@ -1,10 +1,10 @@
 # corkami/pics - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
-☋ Forks: 580
+☋ Forks: 582
 
-★ Stars: 6947
+★ Stars: 6955
 
 [Open repository](https://github.com/corkami/pics)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 6955 | 582 | 
 | 2022-12-04 | 6947 | 580 | 
 | 2022-12-03 | 6945 | 580 | 
 | 2022-12-02 | 6938 | 579 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 6003 | 528 | 
 | 2022-11-07 | 6001 | 528 | 
 | 2022-11-06 | 5999 | 528 | 
-| 2022-11-05 | 5999 | 528 | 
 

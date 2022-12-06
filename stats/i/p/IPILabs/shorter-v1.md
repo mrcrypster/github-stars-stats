@@ -1,8 +1,8 @@
 # IPILabs/shorter-v1 - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
-☋ Forks: 69
+☋ Forks: 68
 
 ★ Stars: 125
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 125 | 68 | 
 | 2022-12-04 | 125 | 69 | 
 | 2022-12-03 | 125 | 69 | 
 | 2022-12-02 | 125 | 69 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 125 | 69 | 
 | 2022-11-07 | 125 | 69 | 
 | 2022-11-06 | 125 | 69 | 
-| 2022-11-05 | 125 | 69 | 
 

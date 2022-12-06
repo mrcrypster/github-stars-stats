@@ -1,6 +1,6 @@
 # remko/waforth - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 255 | 15 | 
 | 2022-12-03 | 255 | 15 | 
 | 2022-12-02 | 254 | 15 | 
 | 2022-12-01 | 253 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-09 | 248 | 15 | 
 | 2022-11-08 | 248 | 15 | 
 | 2022-11-07 | 248 | 15 | 
-| 2022-11-06 | 248 | 15 | 
 

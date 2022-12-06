@@ -1,10 +1,10 @@
 # pyroscope-io/pyroscope - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 388
 
-★ Stars: 6719
+★ Stars: 6721
 
 [Open repository](https://github.com/pyroscope-io/pyroscope)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 6721 | 388 | 
 | 2022-12-04 | 6719 | 388 | 
 | 2022-12-03 | 6718 | 387 | 
 | 2022-12-02 | 6711 | 387 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 6630 | 379 | 
 | 2022-11-07 | 6626 | 378 | 
 | 2022-11-06 | 6617 | 378 | 
-| 2022-11-05 | 6615 | 378 | 
 

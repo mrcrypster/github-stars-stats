@@ -1,6 +1,6 @@
 # microsoft/NUWA - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 142
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 2586 | 142 | 
 | 2022-12-04 | 2586 | 142 | 
 | 2022-12-03 | 2586 | 142 | 
 | 2022-12-02 | 2584 | 142 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 2569 | 141 | 
 | 2022-11-07 | 2569 | 141 | 
 | 2022-11-06 | 2567 | 141 | 
-| 2022-11-05 | 2566 | 141 | 
 

@@ -1,6 +1,6 @@
 # s8ngyu/Mugunghwa - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 205 | 8 | 
 | 2022-12-04 | 205 | 8 | 
 | 2022-12-03 | 205 | 8 | 
 | 2022-12-02 | 205 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 166 | 6 | 
 | 2022-11-07 | 166 | 6 | 
 | 2022-11-06 | 166 | 6 | 
-| 2022-11-05 | 164 | 6 | 
 

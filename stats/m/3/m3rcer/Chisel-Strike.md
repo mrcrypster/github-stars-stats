@@ -1,6 +1,6 @@
 # m3rcer/Chisel-Strike - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 375 | 50 | 
 | 2022-12-04 | 375 | 50 | 
 | 2022-12-03 | 375 | 50 | 
 | 2022-12-02 | 375 | 50 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 370 | 50 | 
 | 2022-11-07 | 370 | 50 | 
 | 2022-11-06 | 371 | 50 | 
-| 2022-11-05 | 371 | 50 | 
 

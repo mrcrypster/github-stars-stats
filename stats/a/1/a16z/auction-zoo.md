@@ -1,10 +1,10 @@
 # a16z/auction-zoo - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 14
 
-★ Stars: 192
+★ Stars: 194
 
 [Open repository](https://github.com/a16z/auction-zoo)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 194 | 14 | 
 | 2022-12-04 | 192 | 14 | 
 | 2022-12-02 | 192 | 14 | 
 | 2022-12-01 | 191 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 118 | 8 | 
 | 2022-11-07 | 118 | 8 | 
 | 2022-11-06 | 117 | 8 | 
-| 2022-11-05 | 117 | 8 | 
 

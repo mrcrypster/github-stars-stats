@@ -1,10 +1,10 @@
 # KieronQuinn/TapTap - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 172
 
-★ Stars: 2812
+★ Stars: 2814
 
 [Open repository](https://github.com/KieronQuinn/TapTap)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 2814 | 172 | 
 | 2022-12-04 | 2812 | 172 | 
 | 2022-12-03 | 2812 | 172 | 
 | 2022-12-02 | 2812 | 172 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 2777 | 170 | 
 | 2022-11-07 | 2775 | 170 | 
 | 2022-11-06 | 2774 | 170 | 
-| 2022-11-05 | 2773 | 170 | 
 

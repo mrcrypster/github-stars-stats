@@ -1,6 +1,6 @@
 # elastic/elasticsearch-formal-models - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 193 | 22 | 
 | 2022-12-04 | 193 | 22 | 
 | 2022-12-03 | 193 | 22 | 
 | 2022-12-01 | 193 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 193 | 22 | 
 | 2022-11-08 | 193 | 22 | 
 | 2022-11-06 | 193 | 22 | 
-| 2022-11-05 | 193 | 22 | 
 

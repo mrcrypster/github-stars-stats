@@ -1,10 +1,10 @@
 # mhanberg/gen_lsp - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 1
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/mhanberg/gen_lsp)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 20 | 1 | 
 | 2022-12-04 | 19 | 1 | 
 | 2022-12-03 | 19 | 1 | 
 | 2022-12-02 | 19 | 1 | 

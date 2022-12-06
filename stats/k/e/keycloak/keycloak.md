@@ -1,10 +1,10 @@
 # keycloak/keycloak - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
-☋ Forks: 4918
+☋ Forks: 4921
 
-★ Stars: 14291
+★ Stars: 14302
 
 [Open repository](https://github.com/keycloak/keycloak)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 14302 | 4921 | 
 | 2022-12-04 | 14291 | 4918 | 
 | 2022-12-02 | 14283 | 4917 | 
 | 2022-12-01 | 14267 | 4913 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 14020 | 4850 | 
 | 2022-11-07 | 14010 | 4846 | 
 | 2022-11-06 | 14005 | 4844 | 
-| 2022-11-05 | 13999 | 4844 | 
 

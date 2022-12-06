@@ -1,10 +1,10 @@
 # matomo-org/matomo - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
-☋ Forks: 2397
+☋ Forks: 2398
 
-★ Stars: 17085
+★ Stars: 17092
 
 [Open repository](https://github.com/matomo-org/matomo)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 17092 | 2398 | 
 | 2022-12-04 | 17085 | 2397 | 
 | 2022-12-03 | 17084 | 2397 | 
 | 2022-12-01 | 17081 | 2395 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 16995 | 2390 | 
 | 2022-11-07 | 16992 | 2389 | 
 | 2022-11-06 | 16987 | 2390 | 
-| 2022-11-05 | 16985 | 2390 | 
 

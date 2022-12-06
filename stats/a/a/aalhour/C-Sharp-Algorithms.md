@@ -1,8 +1,8 @@
 # aalhour/C-Sharp-Algorithms - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
-☋ Forks: 1292
+☋ Forks: 1293
 
 ★ Stars: 5195
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 5195 | 1293 | 
 | 2022-12-04 | 5195 | 1292 | 
 | 2022-12-03 | 5193 | 1291 | 
 | 2022-12-02 | 5194 | 1291 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 5174 | 1283 | 
 | 2022-11-07 | 5173 | 1283 | 
 | 2022-11-06 | 5171 | 1283 | 
-| 2022-11-05 | 5168 | 1283 | 
 

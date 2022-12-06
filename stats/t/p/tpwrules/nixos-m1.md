@@ -1,10 +1,10 @@
 # tpwrules/nixos-m1 - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 24
 
-★ Stars: 193
+★ Stars: 194
 
 [Open repository](https://github.com/tpwrules/nixos-m1)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 194 | 24 | 
 | 2022-12-04 | 193 | 24 | 
 | 2022-12-03 | 192 | 24 | 
 | 2022-12-01 | 192 | 24 | 

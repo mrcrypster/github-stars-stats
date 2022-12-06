@@ -1,10 +1,10 @@
 # Serial-Studio/Serial-Studio - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
-☋ Forks: 422
+☋ Forks: 423
 
-★ Stars: 2987
+★ Stars: 2990
 
 [Open repository](https://github.com/Serial-Studio/Serial-Studio)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 2990 | 423 | 
 | 2022-12-04 | 2987 | 422 | 
 | 2022-12-03 | 2986 | 422 | 
 | 2022-12-01 | 2983 | 422 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 2917 | 408 | 
 | 2022-11-07 | 2915 | 408 | 
 | 2022-11-06 | 2913 | 407 | 
-| 2022-11-05 | 2911 | 407 | 
 

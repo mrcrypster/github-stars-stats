@@ -1,10 +1,10 @@
 # HenryQW/Awesome-TTRSS - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 424
 
-★ Stars: 1752
+★ Stars: 1753
 
 [Open repository](https://github.com/HenryQW/Awesome-TTRSS)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 1753 | 424 | 
 | 2022-12-04 | 1752 | 424 | 
 | 2022-12-03 | 1750 | 424 | 
 | 2022-12-02 | 1750 | 423 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 1726 | 414 | 
 | 2022-11-07 | 1726 | 414 | 
 | 2022-11-06 | 1725 | 414 | 
-| 2022-11-05 | 1725 | 414 | 
 

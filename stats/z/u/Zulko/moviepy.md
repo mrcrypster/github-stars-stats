@@ -1,10 +1,10 @@
 # Zulko/moviepy - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
-☋ Forks: 1302
+☋ Forks: 1303
 
-★ Stars: 9847
+★ Stars: 9859
 
 [Open repository](https://github.com/Zulko/moviepy)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 9859 | 1303 | 
 | 2022-12-04 | 9847 | 1302 | 
 | 2022-12-02 | 9845 | 1302 | 
 | 2022-12-01 | 9845 | 1301 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 9766 | 1291 | 
 | 2022-11-07 | 9759 | 1290 | 
 | 2022-11-06 | 9756 | 1289 | 
-| 2022-11-05 | 9753 | 1289 | 
 

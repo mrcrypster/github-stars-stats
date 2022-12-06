@@ -1,10 +1,10 @@
 # jurassicjs/avantage - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 6
 
-★ Stars: 52
+★ Stars: 53
 
 [Open repository](https://github.com/jurassicjs/avantage)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 53 | 6 | 
 | 2022-12-04 | 52 | 6 | 
 | 2022-12-03 | 50 | 4 | 
 | 2022-12-02 | 49 | 4 | 

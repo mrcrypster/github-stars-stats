@@ -1,10 +1,10 @@
 # carlospolop/hacktricks - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 05
 
-☋ Forks: 1630
+☋ Forks: 1633
 
-★ Stars: 5644
+★ Stars: 5650
 
 [Open repository](https://github.com/carlospolop/hacktricks)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 5650 | 1633 | 
 | 2022-12-03 | 5644 | 1630 | 
 | 2022-12-02 | 5639 | 1630 | 
 | 2022-12-01 | 5633 | 1627 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-08 | 5468 | 1572 | 
 | 2022-11-07 | 5461 | 1568 | 
 | 2022-11-06 | 5458 | 1567 | 
-| 2022-11-05 | 5452 | 1562 | 
 

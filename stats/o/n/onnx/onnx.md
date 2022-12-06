@@ -1,10 +1,10 @@
 # onnx/onnx - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
-☋ Forks: 3195
+☋ Forks: 3194
 
-★ Stars: 13738
+★ Stars: 13747
 
 [Open repository](https://github.com/onnx/onnx)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 13747 | 3194 | 
 | 2022-12-04 | 13738 | 3195 | 
 | 2022-12-03 | 13737 | 3195 | 
 | 2022-12-02 | 13734 | 3195 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 13517 | 3121 | 
 | 2022-11-07 | 13509 | 3121 | 
 | 2022-11-06 | 13505 | 3119 | 
-| 2022-11-05 | 13505 | 3118 | 
 

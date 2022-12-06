@@ -1,10 +1,10 @@
 # tc39/proposal-extractors - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 1
 
-★ Stars: 158
+★ Stars: 159
 
 [Open repository](https://github.com/tc39/proposal-extractors)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 159 | 1 | 
 | 2022-12-04 | 158 | 1 | 
 | 2022-12-02 | 158 | 1 | 
 | 2022-12-01 | 158 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 143 | 1 | 
 | 2022-11-08 | 143 | 1 | 
 | 2022-11-07 | 143 | 1 | 
-| 2022-11-06 | 143 | 1 | 
 

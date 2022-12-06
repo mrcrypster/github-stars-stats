@@ -1,6 +1,6 @@
 # aznamingtool/AzureNamingTool - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 57 | 9 | 
 | 2022-12-04 | 57 | 9 | 
 | 2022-12-02 | 57 | 9 | 
 | 2022-12-01 | 57 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 57 | 9 | 
 | 2022-11-08 | 57 | 9 | 
 | 2022-11-07 | 57 | 9 | 
-| 2022-11-06 | 57 | 9 | 
 

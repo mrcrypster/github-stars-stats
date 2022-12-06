@@ -1,10 +1,10 @@
 # keyding/Operator-Mono - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 05
 
-☋ Forks: 143
+☋ Forks: 144
 
-★ Stars: 442
+★ Stars: 443
 
 [Open repository](https://github.com/keyding/Operator-Mono)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 443 | 144 | 
 | 2022-12-03 | 442 | 143 | 
 | 2022-12-02 | 442 | 143 | 
 | 2022-12-01 | 441 | 143 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-08 | 429 | 138 | 
 | 2022-11-07 | 427 | 138 | 
 | 2022-11-06 | 424 | 137 | 
-| 2022-11-05 | 424 | 137 | 
 

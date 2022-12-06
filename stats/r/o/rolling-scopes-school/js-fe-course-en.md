@@ -1,10 +1,10 @@
 # rolling-scopes-school/js-fe-course-en - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 108
 
-★ Stars: 110
+★ Stars: 111
 
 [Open repository](https://github.com/rolling-scopes-school/js-fe-course-en)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 111 | 108 | 
 | 2022-12-03 | 110 | 108 | 
 | 2022-12-02 | 110 | 109 | 
 | 2022-12-01 | 110 | 109 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-08 | 106 | 93 | 
 | 2022-11-07 | 106 | 92 | 
 | 2022-11-06 | 105 | 92 | 
-| 2022-11-05 | 105 | 91 | 
 

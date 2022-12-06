@@ -1,6 +1,6 @@
 # eehhh/naviii - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 90 | 13 | 
 | 2022-12-04 | 90 | 13 | 
 | 2022-12-03 | 90 | 13 | 
 | 2022-12-02 | 90 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 79 | 11 | 
 | 2022-11-07 | 78 | 11 | 
 | 2022-11-06 | 72 | 9 | 
-| 2022-11-05 | 72 | 9 | 
 

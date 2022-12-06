@@ -1,10 +1,10 @@
 # Leon406/ToolsFx - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 177
 
-★ Stars: 704
+★ Stars: 708
 
 [Open repository](https://github.com/Leon406/ToolsFx)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 708 | 177 | 
 | 2022-12-04 | 704 | 177 | 
 | 2022-12-03 | 704 | 177 | 
 | 2022-12-01 | 703 | 177 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 658 | 174 | 
 | 2022-11-07 | 658 | 174 | 
 | 2022-11-06 | 658 | 174 | 
-| 2022-11-05 | 658 | 174 | 
 

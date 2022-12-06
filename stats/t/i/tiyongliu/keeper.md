@@ -1,8 +1,8 @@
 # tiyongliu/keeper - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 95
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 95 | 2 | 
 | 2022-12-04 | 95 | 1 | 
 | 2022-12-03 | 95 | 1 | 
 | 2022-12-02 | 95 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 89 | 1 | 
 | 2022-11-07 | 88 | 1 | 
 | 2022-11-06 | 88 | 1 | 
-| 2022-11-05 | 88 | 1 | 
 

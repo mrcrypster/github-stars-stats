@@ -1,6 +1,6 @@
 # catzsec/ForceAdmin - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 195 | 37 | 
 | 2022-12-04 | 195 | 37 | 
 | 2022-12-03 | 195 | 37 | 
 | 2022-12-02 | 195 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 193 | 36 | 
 | 2022-11-07 | 193 | 36 | 
 | 2022-11-06 | 193 | 36 | 
-| 2022-11-05 | 193 | 36 | 
 

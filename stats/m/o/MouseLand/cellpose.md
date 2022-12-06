@@ -1,10 +1,10 @@
 # MouseLand/cellpose - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 240
 
-★ Stars: 713
+★ Stars: 716
 
 [Open repository](https://github.com/MouseLand/cellpose)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 716 | 240 | 
 | 2022-12-04 | 713 | 240 | 
 | 2022-12-03 | 712 | 240 | 
 | 2022-12-02 | 710 | 239 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 672 | 232 | 
 | 2022-11-07 | 671 | 232 | 
 | 2022-11-06 | 671 | 231 | 
-| 2022-11-05 | 671 | 231 | 
 

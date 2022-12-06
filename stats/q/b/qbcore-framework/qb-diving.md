@@ -1,8 +1,8 @@
 # qbcore-framework/qb-diving - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 05
 
-☋ Forks: 158
+☋ Forks: 157
 
 ★ Stars: 15
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 15 | 157 | 
 | 2022-12-03 | 15 | 158 | 
 | 2022-12-02 | 15 | 156 | 
 | 2022-12-01 | 15 | 155 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-09 | 15 | 151 | 
 | 2022-11-08 | 15 | 151 | 
 | 2022-11-07 | 15 | 151 | 
-| 2022-11-05 | 15 | 151 | 
 

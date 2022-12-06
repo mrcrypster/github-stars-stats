@@ -1,10 +1,10 @@
 # ryanrudolfoba/SteamDeckPostInstallScript - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 0
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/ryanrudolfoba/SteamDeckPostInstallScript)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 14 | - | 
 | 2022-12-03 | 13 | - | 
 | 2022-12-02 | 13 | - | 
 | 2022-12-01 | 13 | - | 

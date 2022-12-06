@@ -1,10 +1,10 @@
 # rotu/nim-records - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 0
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/rotu/nim-records)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 19 | - | 
 | 2022-12-04 | 18 | - | 
 | 2022-12-03 | 18 | - | 
 | 2022-12-02 | 18 | - | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 18 | - | 
 | 2022-11-07 | 18 | - | 
 | 2022-11-06 | 18 | - | 
-| 2022-11-05 | 18 | - | 
 

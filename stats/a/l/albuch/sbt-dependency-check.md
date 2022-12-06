@@ -1,10 +1,10 @@
 # albuch/sbt-dependency-check - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 33
 
-★ Stars: 236
+★ Stars: 237
 
 [Open repository](https://github.com/albuch/sbt-dependency-check)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 237 | 33 | 
 | 2022-12-04 | 236 | 33 | 
 | 2022-12-03 | 236 | 33 | 
 | 2022-12-02 | 236 | 33 | 

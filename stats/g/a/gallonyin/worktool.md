@@ -1,10 +1,10 @@
 # gallonyin/worktool - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 74
 
-★ Stars: 325
+★ Stars: 327
 
 [Open repository](https://github.com/gallonyin/worktool)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 327 | 74 | 
 | 2022-12-03 | 325 | 74 | 
 | 2022-12-02 | 325 | 74 | 
 | 2022-12-01 | 321 | 74 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-09 | 263 | 69 | 
 | 2022-11-08 | 259 | 69 | 
 | 2022-11-06 | 257 | 69 | 
-| 2022-11-05 | 255 | 69 | 
 

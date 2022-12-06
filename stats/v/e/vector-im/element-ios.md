@@ -1,10 +1,10 @@
 # vector-im/element-ios - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 434
 
-★ Stars: 1505
+★ Stars: 1506
 
 [Open repository](https://github.com/vector-im/element-ios)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 1506 | 434 | 
 | 2022-12-04 | 1505 | 434 | 
 | 2022-12-03 | 1504 | 434 | 
 | 2022-12-01 | 1503 | 434 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 1470 | 429 | 
 | 2022-11-07 | 1469 | 429 | 
 | 2022-11-06 | 1469 | 429 | 
-| 2022-11-05 | 1468 | 429 | 
 

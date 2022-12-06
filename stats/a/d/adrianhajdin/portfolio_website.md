@@ -1,10 +1,10 @@
 # adrianhajdin/portfolio_website - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 479
 
-★ Stars: 2387
+★ Stars: 2389
 
 [Open repository](https://github.com/adrianhajdin/portfolio_website)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 2389 | 479 | 
 | 2022-12-04 | 2387 | 479 | 
 | 2022-12-03 | 2384 | 478 | 
 | 2022-12-01 | 2381 | 477 | 

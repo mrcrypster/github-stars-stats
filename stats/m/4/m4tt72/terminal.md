@@ -1,8 +1,8 @@
 # m4tt72/terminal - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
-☋ Forks: 118
+☋ Forks: 117
 
 ★ Stars: 630
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 630 | 117 | 
 | 2022-12-04 | 630 | 118 | 
 | 2022-12-03 | 629 | 119 | 
 | 2022-12-02 | 629 | 119 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 604 | 116 | 
 | 2022-11-07 | 603 | 115 | 
 | 2022-11-06 | 603 | 115 | 
-| 2022-11-05 | 600 | 115 | 
 

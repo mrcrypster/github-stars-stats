@@ -1,8 +1,8 @@
 # PatrickAlphaC/hardhat-smartcontract-lottery-fcc - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
-☋ Forks: 126
+☋ Forks: 127
 
 ★ Stars: 87
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 87 | 127 | 
 | 2022-12-04 | 87 | 126 | 
 | 2022-12-03 | 86 | 124 | 
 | 2022-12-02 | 84 | 124 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 78 | 114 | 
 | 2022-11-07 | 78 | 115 | 
 | 2022-11-06 | 77 | 115 | 
-| 2022-11-05 | 77 | 116 | 
 

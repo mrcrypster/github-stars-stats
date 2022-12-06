@@ -1,10 +1,10 @@
 # SwiftKickMobile/SwiftMessages - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 712
 
-★ Stars: 6699
+★ Stars: 6700
 
 [Open repository](https://github.com/SwiftKickMobile/SwiftMessages)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 6700 | 712 | 
 | 2022-12-04 | 6699 | 712 | 
 | 2022-12-02 | 6698 | 712 | 
 | 2022-12-01 | 6698 | 712 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 6684 | 710 | 
 | 2022-11-07 | 6684 | 710 | 
 | 2022-11-06 | 6683 | 709 | 
-| 2022-11-05 | 6682 | 709 | 
 

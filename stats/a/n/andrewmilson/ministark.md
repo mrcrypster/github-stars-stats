@@ -1,10 +1,10 @@
 # andrewmilson/ministark - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 4
 
-★ Stars: 147
+★ Stars: 148
 
 [Open repository](https://github.com/andrewmilson/ministark)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 148 | 4 | 
 | 2022-12-03 | 147 | 4 | 
 | 2022-12-02 | 147 | 4 | 
 | 2022-12-01 | 146 | 4 | 

@@ -1,6 +1,6 @@
 # ponylang/ponyup - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 184 | 11 | 
 | 2022-12-04 | 184 | 11 | 
 | 2022-12-03 | 184 | 11 | 
 | 2022-12-02 | 184 | 11 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 183 | 10 | 
 | 2022-11-07 | 183 | 10 | 
 | 2022-11-06 | 183 | 10 | 
-| 2022-11-05 | 183 | 10 | 
 

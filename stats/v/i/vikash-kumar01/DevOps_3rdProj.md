@@ -1,6 +1,6 @@
 # vikash-kumar01/DevOps_3rdProj - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 78
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | - | 78 | 
 | 2022-12-04 | - | 78 | 
 | 2022-12-03 | - | 78 | 
 | 2022-12-02 | - | 77 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | - | 67 | 
 | 2022-11-07 | - | 67 | 
 | 2022-11-06 | - | 67 | 
-| 2022-11-05 | - | 66 | 
 

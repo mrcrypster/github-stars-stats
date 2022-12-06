@@ -1,10 +1,10 @@
 # DLR-RM/BlenderProc - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 331
 
-★ Stars: 1754
+★ Stars: 1755
 
 [Open repository](https://github.com/DLR-RM/BlenderProc)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 1755 | 331 | 
 | 2022-12-03 | 1754 | 331 | 
 | 2022-12-02 | 1751 | 331 | 
 | 2022-12-01 | 1748 | 331 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-08 | 1691 | 322 | 
 | 2022-11-07 | 1690 | 322 | 
 | 2022-11-06 | 1689 | 322 | 
-| 2022-11-05 | 1685 | 322 | 
 

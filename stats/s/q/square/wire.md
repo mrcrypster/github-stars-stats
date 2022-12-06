@@ -1,10 +1,10 @@
 # square/wire - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 543
 
-★ Stars: 3910
+★ Stars: 3911
 
 [Open repository](https://github.com/square/wire)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 3911 | 543 | 
 | 2022-12-04 | 3910 | 543 | 
 | 2022-12-03 | 3910 | 543 | 
 | 2022-12-02 | 3910 | 543 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 3895 | 541 | 
 | 2022-11-07 | 3895 | 540 | 
 | 2022-11-06 | 3894 | 540 | 
-| 2022-11-05 | 3893 | 540 | 
 

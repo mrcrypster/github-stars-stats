@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 05
 
-☋ Forks: 7
+☋ Forks: 8
 
-★ Stars: 25
+★ Stars: 28
 
 [Open repository](https://github.com/zchengo/crm)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-05 | 25 | 7 | 
+| 2022-12-05 | 28 | 8 | 
 | 2022-12-04 | 25 | 7 | 
 

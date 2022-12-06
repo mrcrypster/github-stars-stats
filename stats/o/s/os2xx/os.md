@@ -1,6 +1,6 @@
 # os2xx/os - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 4 | 8 | 
 | 2022-12-04 | 4 | 8 | 
 | 2022-12-03 | 4 | 7 | 
 | 2022-12-02 | 4 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 3 | 7 | 
 | 2022-11-07 | 3 | 7 | 
 | 2022-11-06 | 3 | 7 | 
-| 2022-11-05 | 3 | 7 | 
 

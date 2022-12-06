@@ -1,6 +1,6 @@
 # ourzora/nouns-protocol - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 41 | 7 | 
 | 2022-12-03 | 41 | 7 | 
 | 2022-12-02 | 41 | 7 | 
 | 2022-12-01 | 41 | 7 | 

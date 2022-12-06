@@ -1,10 +1,10 @@
 # Milad-Akarie/auto_route_library - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 290
 
-★ Stars: 1165
+★ Stars: 1166
 
 [Open repository](https://github.com/Milad-Akarie/auto_route_library)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 1166 | 290 | 
 | 2022-12-04 | 1165 | 290 | 
 | 2022-12-03 | 1165 | 290 | 
 | 2022-12-02 | 1164 | 290 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 1144 | 286 | 
 | 2022-11-07 | 1145 | 286 | 
 | 2022-11-06 | 1144 | 287 | 
-| 2022-11-05 | 1144 | 287 | 
 

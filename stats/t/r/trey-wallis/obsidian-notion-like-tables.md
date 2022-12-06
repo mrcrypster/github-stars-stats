@@ -1,10 +1,10 @@
 # trey-wallis/obsidian-notion-like-tables - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 05
 
-☋ Forks: 10
+☋ Forks: 11
 
-★ Stars: 254
+★ Stars: 256
 
 [Open repository](https://github.com/trey-wallis/obsidian-notion-like-tables)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 256 | 11 | 
 | 2022-12-03 | 254 | 10 | 
 | 2022-12-02 | 253 | 10 | 
 | 2022-12-01 | 252 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-09 | 248 | 7 | 
 | 2022-11-08 | 248 | 7 | 
 | 2022-11-07 | 249 | 7 | 
-| 2022-11-06 | 249 | 7 | 
 

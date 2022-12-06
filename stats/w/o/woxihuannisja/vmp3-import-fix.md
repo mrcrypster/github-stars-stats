@@ -1,6 +1,6 @@
 # woxihuannisja/vmp3-import-fix - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 119 | 53 | 
 | 2022-12-04 | 119 | 53 | 
 | 2022-12-03 | 119 | 53 | 
 | 2022-12-02 | 119 | 53 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 112 | 52 | 
 | 2022-11-07 | 111 | 52 | 
 | 2022-11-06 | 111 | 52 | 
-| 2022-11-05 | 111 | 52 | 
 

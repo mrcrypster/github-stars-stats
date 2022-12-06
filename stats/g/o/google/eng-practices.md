@@ -1,6 +1,6 @@
 # google/eng-practices - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 1843
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 18940 | 1843 | 
 | 2022-12-04 | 18940 | 1843 | 
 | 2022-12-02 | 18939 | 1843 | 
 | 2022-12-01 | 18934 | 1843 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 18889 | 1840 | 
 | 2022-11-08 | 18882 | 1841 | 
 | 2022-11-07 | 18878 | 1841 | 
-| 2022-11-06 | 18877 | 1841 | 
 

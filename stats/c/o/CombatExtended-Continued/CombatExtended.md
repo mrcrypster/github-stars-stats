@@ -1,6 +1,6 @@
 # CombatExtended-Continued/CombatExtended - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 190
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 210 | 190 | 
 | 2022-12-04 | 210 | 190 | 
 | 2022-12-02 | 209 | 190 | 
 | 2022-12-01 | 209 | 189 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 192 | 186 | 
 | 2022-11-08 | 190 | 186 | 
 | 2022-11-07 | 190 | 185 | 
-| 2022-11-06 | 190 | 186 | 
 

@@ -1,10 +1,10 @@
 # ntop/n2n - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
-☋ Forks: 753
+☋ Forks: 754
 
-★ Stars: 4517
+★ Stars: 4519
 
 [Open repository](https://github.com/ntop/n2n)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 4519 | 754 | 
 | 2022-12-04 | 4517 | 753 | 
 | 2022-12-02 | 4511 | 753 | 
 | 2022-12-01 | 4506 | 753 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 4428 | 743 | 
 | 2022-11-08 | 4423 | 743 | 
 | 2022-11-07 | 4418 | 743 | 
-| 2022-11-06 | 4415 | 744 | 
 

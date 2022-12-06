@@ -1,6 +1,6 @@
 # meltingice/psd.js - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 368
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 2490 | 368 | 
 | 2022-12-04 | 2490 | 368 | 
 | 2022-12-03 | 2487 | 368 | 
 | 2022-12-02 | 2486 | 368 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 2472 | 367 | 
 | 2022-11-07 | 2472 | 366 | 
 | 2022-11-06 | 2471 | 366 | 
-| 2022-11-05 | 2471 | 365 | 
 

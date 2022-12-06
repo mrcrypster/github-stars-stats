@@ -1,10 +1,10 @@
 # can-lehmann/owlkettle - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 6
 
-★ Stars: 183
+★ Stars: 184
 
 [Open repository](https://github.com/can-lehmann/owlkettle)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 184 | 6 | 
 | 2022-12-04 | 183 | 6 | 
 | 2022-12-03 | 183 | 6 | 
 | 2022-12-02 | 183 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 180 | 5 | 
 | 2022-11-07 | 180 | 5 | 
 | 2022-11-06 | 180 | 5 | 
-| 2022-11-05 | 180 | 5 | 
 

@@ -1,6 +1,6 @@
 # eric-tramel/NRSClassifier - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 2 | 3 | 
 | 2022-12-04 | 2 | 3 | 
 | 2022-12-03 | 2 | 3 | 
 | 2022-12-02 | 2 | 3 | 

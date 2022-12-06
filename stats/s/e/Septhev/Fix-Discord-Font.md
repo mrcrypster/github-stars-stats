@@ -1,0 +1,18 @@
+# Septhev/Fix-Discord-Font - stars & forks statistics
+
+Stats updated on Dec 2022, 06
+
+☋ Forks: 5
+
+★ Stars: 3
+
+[Open repository](https://github.com/Septhev/Fix-Discord-Font)
+
+[Open detailed stats for Septhev/Fix-Discord-Font](https://reviewgithub.com/rep/Septhev/Fix-Discord-Font)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-12-06 | 3 | 5 | 
+| 2022-12-05 | 3 | 5 | 
+

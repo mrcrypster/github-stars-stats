@@ -1,6 +1,6 @@
 # modery/PowerDocu - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 190 | 22 | 
 | 2022-12-04 | 190 | 22 | 
 | 2022-12-02 | 190 | 22 | 
 | 2022-12-01 | 189 | 22 | 

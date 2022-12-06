@@ -1,6 +1,6 @@
 # CharlyKeleb/Animations - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 91 | 34 | 
 | 2022-12-04 | 91 | 34 | 
 | 2022-12-03 | 91 | 34 | 
 | 2022-12-01 | 91 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 92 | 34 | 
 | 2022-11-07 | 92 | 34 | 
 | 2022-11-06 | 92 | 34 | 
-| 2022-11-05 | 92 | 34 | 
 

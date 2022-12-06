@@ -1,10 +1,10 @@
 # Gearbox-protocol/core-v2 - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 2
 
-★ Stars: 39
+★ Stars: 40
 
 [Open repository](https://github.com/Gearbox-protocol/core-v2)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 40 | 2 | 
 | 2022-12-04 | 39 | 2 | 
 | 2022-12-02 | 39 | 2 | 
 | 2022-12-01 | 39 | 2 | 

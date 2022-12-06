@@ -1,6 +1,6 @@
 # volkandindar/agartha - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 216 | 45 | 
 | 2022-12-04 | 216 | 45 | 
 | 2022-12-03 | 216 | 45 | 
 | 2022-12-01 | 216 | 45 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 208 | 43 | 
 | 2022-11-08 | 207 | 43 | 
 | 2022-11-07 | 206 | 43 | 
-| 2022-11-06 | 205 | 43 | 
 

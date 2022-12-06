@@ -1,6 +1,6 @@
 # bmuller/telemetry_metrics_cloudwatch - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 17 | 7 | 
 | 2022-12-04 | 17 | 7 | 
 | 2022-12-02 | 17 | 7 | 
 | 2022-12-01 | 17 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 17 | 7 | 
 | 2022-11-07 | 17 | 7 | 
 | 2022-11-06 | 17 | 7 | 
-| 2022-11-05 | 17 | 7 | 
 

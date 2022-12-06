@@ -1,6 +1,6 @@
 # acl2/acl2 - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 92
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 272 | 92 | 
 | 2022-12-04 | 272 | 92 | 
 | 2022-12-02 | 272 | 92 | 
 | 2022-12-01 | 273 | 92 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 272 | 92 | 
 | 2022-11-08 | 272 | 92 | 
 | 2022-11-07 | 273 | 92 | 
-| 2022-11-05 | 273 | 92 | 
 

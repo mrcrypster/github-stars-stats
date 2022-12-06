@@ -1,6 +1,6 @@
 # spotify/dockerfile-mode - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 74
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 473 | 74 | 
 | 2022-12-04 | 473 | 74 | 
 | 2022-12-02 | 473 | 74 | 
 | 2022-12-01 | 473 | 74 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 469 | 74 | 
 | 2022-11-07 | 468 | 74 | 
 | 2022-11-06 | 468 | 74 | 
-| 2022-11-05 | 468 | 74 | 
 

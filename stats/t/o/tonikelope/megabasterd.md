@@ -1,10 +1,10 @@
 # tonikelope/megabasterd - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 468
 
-★ Stars: 2869
+★ Stars: 2870
 
 [Open repository](https://github.com/tonikelope/megabasterd)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 2870 | 468 | 
 | 2022-12-04 | 2869 | 468 | 
 | 2022-12-03 | 2866 | 469 | 
 | 2022-12-01 | 2866 | 469 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 2809 | 461 | 
 | 2022-11-07 | 2806 | 461 | 
 | 2022-11-06 | 2802 | 461 | 
-| 2022-11-05 | 2801 | 461 | 
 

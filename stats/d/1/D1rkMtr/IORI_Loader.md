@@ -1,6 +1,6 @@
 # D1rkMtr/IORI_Loader - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 161 | 36 | 
 | 2022-12-04 | 161 | 36 | 
 | 2022-12-03 | 161 | 36 | 
 | 2022-12-02 | 159 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 151 | 33 | 
 | 2022-11-07 | 150 | 33 | 
 | 2022-11-06 | 148 | 33 | 
-| 2022-11-05 | 146 | 33 | 
 

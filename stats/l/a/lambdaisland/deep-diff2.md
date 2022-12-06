@@ -1,10 +1,10 @@
 # lambdaisland/deep-diff2 - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 13
 
-★ Stars: 258
+★ Stars: 259
 
 [Open repository](https://github.com/lambdaisland/deep-diff2)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 259 | 13 | 
 | 2022-12-04 | 258 | 13 | 
 | 2022-12-03 | 258 | 13 | 
 | 2022-12-02 | 258 | 13 | 

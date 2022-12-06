@@ -1,10 +1,10 @@
 # ORCx41/TerraLdr - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
-☋ Forks: 57
+☋ Forks: 58
 
-★ Stars: 371
+★ Stars: 372
 
 [Open repository](https://github.com/ORCx41/TerraLdr)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 372 | 58 | 
 | 2022-12-04 | 371 | 57 | 
 | 2022-12-03 | 367 | 57 | 
 | 2022-12-02 | 366 | 57 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 308 | 48 | 
 | 2022-11-07 | 303 | 46 | 
 | 2022-11-06 | 296 | 43 | 
-| 2022-11-05 | 284 | 43 | 
 

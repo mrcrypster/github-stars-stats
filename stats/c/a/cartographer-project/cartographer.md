@@ -1,10 +1,10 @@
 # cartographer-project/cartographer - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
-☋ Forks: 2125
+☋ Forks: 2124
 
-★ Stars: 6286
+★ Stars: 6287
 
 [Open repository](https://github.com/cartographer-project/cartographer)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 6287 | 2124 | 
 | 2022-12-04 | 6286 | 2125 | 
 | 2022-12-02 | 6285 | 2125 | 
 | 2022-12-01 | 6282 | 2124 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 6248 | 2113 | 
 | 2022-11-07 | 6247 | 2113 | 
 | 2022-11-06 | 6244 | 2108 | 
-| 2022-11-05 | 6246 | 2108 | 
 

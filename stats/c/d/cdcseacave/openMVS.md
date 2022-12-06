@@ -1,10 +1,10 @@
 # cdcseacave/openMVS - stars & forks statistics
 
-Stats updated on Dec 2022, 03
+Stats updated on Dec 2022, 05
 
-☋ Forks: 764
+☋ Forks: 765
 
-★ Stars: 2350
+★ Stars: 2353
 
 [Open repository](https://github.com/cdcseacave/openMVS)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 2353 | 765 | 
 | 2022-12-03 | 2350 | 764 | 
 | 2022-12-02 | 2348 | 764 | 
 | 2022-12-01 | 2347 | 763 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 03
 | 2022-11-08 | 2308 | 752 | 
 | 2022-11-07 | 2307 | 751 | 
 | 2022-11-06 | 2304 | 749 | 
-| 2022-11-05 | 2304 | 749 | 
 

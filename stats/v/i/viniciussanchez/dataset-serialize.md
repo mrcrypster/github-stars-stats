@@ -1,8 +1,8 @@
 # viniciussanchez/dataset-serialize - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
-☋ Forks: 117
+☋ Forks: 118
 
 ★ Stars: 459
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 459 | 118 | 
 | 2022-12-04 | 459 | 117 | 
 | 2022-12-03 | 459 | 117 | 
 | 2022-12-02 | 459 | 117 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 449 | 114 | 
 | 2022-11-07 | 449 | 114 | 
 | 2022-11-06 | 448 | 114 | 
-| 2022-11-05 | 448 | 114 | 
 

@@ -1,10 +1,10 @@
 # CarlBugeja/Flexar-Driver - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 05
 
 ☋ Forks: 5
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/CarlBugeja/Flexar-Driver)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-05 | 16 | 5 | 
 | 2022-12-04 | 15 | 5 | 
 | 2022-12-03 | 15 | 5 | 
 | 2022-12-01 | 15 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-08 | 14 | 5 | 
 | 2022-11-07 | 14 | 5 | 
 | 2022-11-06 | 14 | 5 | 
-| 2022-11-05 | 14 | 5 | 
 
