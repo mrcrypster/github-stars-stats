@@ -1,6 +1,6 @@
 # nik012003/ripdrag - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 262 | 10 | 
 | 2022-12-05 | 262 | 10 | 
 | 2022-12-03 | 261 | 10 | 
 | 2022-12-02 | 261 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 250 | 9 | 
 | 2022-11-09 | 249 | 9 | 
 | 2022-11-07 | 249 | 9 | 
-| 2022-11-06 | 248 | 9 | 
 

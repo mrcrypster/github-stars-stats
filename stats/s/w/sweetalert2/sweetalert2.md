@@ -1,10 +1,10 @@
 # sweetalert2/sweetalert2 - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 1522
 
-★ Stars: 15314
+★ Stars: 15318
 
 [Open repository](https://github.com/sweetalert2/sweetalert2)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 15318 | 1522 | 
 | 2022-12-05 | 15314 | 1522 | 
 | 2022-12-04 | 15308 | 1521 | 
 | 2022-12-03 | 15306 | 1520 | 

@@ -1,10 +1,10 @@
 # mashingan/excelin - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 1
 
-★ Stars: 43
+★ Stars: 44
 
 [Open repository](https://github.com/mashingan/excelin)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 44 | 1 | 
 | 2022-12-05 | 43 | 1 | 
 | 2022-12-03 | 43 | 1 | 
 | 2022-12-02 | 43 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 41 | 1 | 
 | 2022-11-08 | 41 | 1 | 
 | 2022-11-07 | 41 | 1 | 
-| 2022-11-06 | 41 | 1 | 
 

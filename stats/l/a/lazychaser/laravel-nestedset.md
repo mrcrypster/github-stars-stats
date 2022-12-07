@@ -1,10 +1,10 @@
 # lazychaser/laravel-nestedset - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 435
 
-★ Stars: 3298
+★ Stars: 3300
 
 [Open repository](https://github.com/lazychaser/laravel-nestedset)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 3300 | 435 | 
 | 2022-12-05 | 3298 | 435 | 
 | 2022-12-03 | 3298 | 434 | 
 | 2022-12-02 | 3297 | 434 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 3281 | 434 | 
 | 2022-11-08 | 3281 | 434 | 
 | 2022-11-07 | 3280 | 433 | 
-| 2022-11-06 | 3280 | 433 | 
 

@@ -1,6 +1,6 @@
 # slaveOftime/Fun.Build - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 44 | 2 | 
 | 2022-12-05 | 44 | 2 | 
 | 2022-12-03 | 44 | 2 | 
 | 2022-12-02 | 44 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 38 | 2 | 
 | 2022-11-08 | 38 | 2 | 
 | 2022-11-07 | 38 | 2 | 
-| 2022-11-06 | 37 | 2 | 
 

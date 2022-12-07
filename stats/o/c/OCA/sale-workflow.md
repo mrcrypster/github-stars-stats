@@ -1,8 +1,8 @@
 # OCA/sale-workflow - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
-☋ Forks: 812
+☋ Forks: 816
 
 ★ Stars: 220
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 220 | 816 | 
 | 2022-12-05 | 220 | 812 | 
 | 2022-12-03 | 219 | 812 | 
 | 2022-12-02 | 219 | 812 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 216 | 803 | 
 | 2022-11-08 | 216 | 803 | 
 | 2022-11-07 | 216 | 803 | 
-| 2022-11-06 | 216 | 803 | 
 

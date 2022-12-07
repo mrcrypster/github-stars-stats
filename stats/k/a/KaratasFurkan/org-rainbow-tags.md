@@ -1,10 +1,10 @@
 # KaratasFurkan/org-rainbow-tags - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 1
 
-★ Stars: 38
+★ Stars: 39
 
 [Open repository](https://github.com/KaratasFurkan/org-rainbow-tags)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 39 | 1 | 
 | 2022-12-05 | 38 | 1 | 
 | 2022-12-03 | 38 | 1 | 
 | 2022-12-02 | 38 | 1 | 

@@ -1,10 +1,10 @@
 # xFutte/futte-newspaper - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
-☋ Forks: 29
+☋ Forks: 28
 
-★ Stars: 35
+★ Stars: 36
 
 [Open repository](https://github.com/xFutte/futte-newspaper)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 36 | 28 | 
 | 2022-12-05 | 35 | 29 | 
 | 2022-12-04 | 34 | 29 | 
 | 2022-12-03 | 34 | 29 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 31 | 28 | 
 | 2022-11-09 | 30 | 28 | 
 | 2022-11-08 | 30 | 28 | 
-| 2022-11-07 | 30 | 28 | 
 

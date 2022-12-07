@@ -1,10 +1,10 @@
 # duckdb/duckdb - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
-☋ Forks: 713
+☋ Forks: 714
 
-★ Stars: 7516
+★ Stars: 7530
 
 [Open repository](https://github.com/duckdb/duckdb)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 7530 | 714 | 
 | 2022-12-05 | 7516 | 713 | 
 | 2022-12-03 | 7503 | 714 | 
 | 2022-12-02 | 7499 | 712 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 7139 | 677 | 
 | 2022-11-08 | 7125 | 676 | 
 | 2022-11-07 | 7113 | 675 | 
-| 2022-11-06 | 7107 | 675 | 
 

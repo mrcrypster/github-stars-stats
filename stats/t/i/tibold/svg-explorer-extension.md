@@ -1,10 +1,10 @@
 # tibold/svg-explorer-extension - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 166
 
-★ Stars: 2596
+★ Stars: 2599
 
 [Open repository](https://github.com/tibold/svg-explorer-extension)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 2599 | 166 | 
 | 2022-12-05 | 2596 | 166 | 
 | 2022-12-04 | 2596 | 166 | 
 | 2022-12-03 | 2596 | 166 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 2573 | 165 | 
 | 2022-11-08 | 2572 | 165 | 
 | 2022-11-07 | 2572 | 165 | 
-| 2022-11-06 | 2571 | 165 | 
 

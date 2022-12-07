@@ -1,10 +1,10 @@
 # ryantibs/conformal - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 44
 
-★ Stars: 157
+★ Stars: 158
 
 [Open repository](https://github.com/ryantibs/conformal)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 158 | 44 | 
 | 2022-12-05 | 157 | 44 | 
 | 2022-12-03 | 157 | 44 | 
 | 2022-12-02 | 157 | 44 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 155 | 44 | 
 | 2022-11-08 | 155 | 44 | 
 | 2022-11-07 | 155 | 44 | 
-| 2022-11-06 | 155 | 44 | 
 

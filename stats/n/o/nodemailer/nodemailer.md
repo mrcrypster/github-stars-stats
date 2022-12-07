@@ -1,10 +1,10 @@
 # nodemailer/nodemailer - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
-☋ Forks: 1336
+☋ Forks: 1337
 
-★ Stars: 15192
+★ Stars: 15198
 
 [Open repository](https://github.com/nodemailer/nodemailer)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 15198 | 1337 | 
 | 2022-12-05 | 15192 | 1336 | 
 | 2022-12-04 | 15192 | 1336 | 
 | 2022-12-03 | 15188 | 1336 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 15135 | 1322 | 
 | 2022-11-08 | 15134 | 1322 | 
 | 2022-11-07 | 15129 | 1322 | 
-| 2022-11-06 | 15125 | 1321 | 
 

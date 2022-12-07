@@ -1,6 +1,6 @@
 # envoy-mobile/envoy-mobile.github.io - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 3 | 1 | 
 | 2022-12-05 | 3 | 1 | 
 | 2022-12-04 | 3 | 1 | 
 | 2022-12-03 | 3 | 1 | 

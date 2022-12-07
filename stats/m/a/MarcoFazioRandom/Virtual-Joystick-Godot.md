@@ -1,10 +1,10 @@
 # MarcoFazioRandom/Virtual-Joystick-Godot - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 32
 
-★ Stars: 288
+★ Stars: 289
 
 [Open repository](https://github.com/MarcoFazioRandom/Virtual-Joystick-Godot)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 289 | 32 | 
 | 2022-12-05 | 288 | 32 | 
 | 2022-12-04 | 288 | 32 | 
 | 2022-12-02 | 288 | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 283 | 32 | 
 | 2022-11-09 | 283 | 32 | 
 | 2022-11-08 | 282 | 32 | 
-| 2022-11-06 | 280 | 32 | 
 

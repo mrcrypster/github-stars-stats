@@ -1,10 +1,10 @@
 # altryne/awesome-ai-art-image-synthesis - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 61
 
-★ Stars: 961
+★ Stars: 963
 
 [Open repository](https://github.com/altryne/awesome-ai-art-image-synthesis)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 963 | 61 | 
 | 2022-12-05 | 961 | 61 | 
 | 2022-12-04 | 960 | 60 | 
 | 2022-12-03 | 959 | 59 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 927 | 56 | 
 | 2022-11-09 | 926 | 55 | 
 | 2022-11-08 | 926 | 55 | 
-| 2022-11-07 | 925 | 55 | 
 

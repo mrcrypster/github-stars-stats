@@ -1,10 +1,10 @@
 # 640-KB/GLaBIOS - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 5
 
-★ Stars: 74
+★ Stars: 75
 
 [Open repository](https://github.com/640-KB/GLaBIOS)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 75 | 5 | 
 | 2022-12-05 | 74 | 5 | 
 | 2022-12-04 | 73 | 5 | 
 | 2022-12-02 | 73 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 64 | 5 | 
 | 2022-11-08 | 63 | 5 | 
 | 2022-11-07 | 63 | 5 | 
-| 2022-11-06 | 63 | 4 | 
 

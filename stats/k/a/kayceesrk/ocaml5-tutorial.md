@@ -1,6 +1,6 @@
 # kayceesrk/ocaml5-tutorial - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 165 | 9 | 
 | 2022-12-05 | 165 | 9 | 
 | 2022-12-03 | 164 | 9 | 
 | 2022-12-02 | 163 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 162 | 9 | 
 | 2022-11-08 | 161 | 8 | 
 | 2022-11-07 | 160 | 8 | 
-| 2022-11-06 | 160 | 8 | 
 

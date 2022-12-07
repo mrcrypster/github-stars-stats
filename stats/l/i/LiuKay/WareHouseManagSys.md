@@ -1,6 +1,6 @@
 # LiuKay/WareHouseManagSys - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 107 | 33 | 
 | 2022-12-05 | 107 | 33 | 
 | 2022-12-04 | 106 | 33 | 
 | 2022-12-03 | 106 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 102 | 33 | 
 | 2022-11-08 | 101 | 33 | 
 | 2022-11-07 | 101 | 33 | 
-| 2022-11-06 | 101 | 33 | 
 

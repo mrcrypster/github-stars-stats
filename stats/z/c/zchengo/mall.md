@@ -1,6 +1,6 @@
 # zchengo/mall - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 76 | 30 | 
 | 2022-12-05 | 76 | 30 | 
 | 2022-12-04 | 74 | 30 | 
 | 2022-12-03 | 74 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 67 | 29 | 
 | 2022-11-08 | 67 | 29 | 
 | 2022-11-07 | 67 | 29 | 
-| 2022-11-06 | 66 | 29 | 
 

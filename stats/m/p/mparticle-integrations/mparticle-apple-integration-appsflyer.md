@@ -1,6 +1,6 @@
 # mparticle-integrations/mparticle-apple-integration-appsflyer - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 4 | 26 | 
 | 2022-12-04 | 4 | 26 | 
 | 2022-12-03 | 4 | 26 | 
 | 2022-12-02 | 4 | 26 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-10 | 4 | 26 | 
 | 2022-11-09 | 4 | 26 | 
 | 2022-11-08 | 4 | 26 | 
-| 2022-11-07 | 4 | 26 | 
 

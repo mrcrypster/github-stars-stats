@@ -1,10 +1,10 @@
 # vercel/commerce - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
-☋ Forks: 2283
+☋ Forks: 2295
 
-★ Stars: 6538
+★ Stars: 6547
 
 [Open repository](https://github.com/vercel/commerce)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 6547 | 2295 | 
 | 2022-12-05 | 6538 | 2283 | 
 | 2022-12-04 | 6531 | 2284 | 
 | 2022-12-03 | 6530 | 2282 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 6446 | 2232 | 
 | 2022-11-08 | 6444 | 2228 | 
 | 2022-11-07 | 6439 | 2226 | 
-| 2022-11-06 | 6432 | 2222 | 
 

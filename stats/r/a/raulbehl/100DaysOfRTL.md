@@ -1,10 +1,10 @@
 # raulbehl/100DaysOfRTL - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 42
 
-★ Stars: 154
+★ Stars: 156
 
 [Open repository](https://github.com/raulbehl/100DaysOfRTL)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 156 | 42 | 
 | 2022-12-05 | 154 | 42 | 
 | 2022-12-03 | 154 | 42 | 
 | 2022-12-02 | 153 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 145 | 36 | 
 | 2022-11-08 | 143 | 36 | 
 | 2022-11-07 | 142 | 36 | 
-| 2022-11-06 | 141 | 36 | 
 

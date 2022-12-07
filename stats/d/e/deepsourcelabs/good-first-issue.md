@@ -1,10 +1,10 @@
 # deepsourcelabs/good-first-issue - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
-☋ Forks: 407
+☋ Forks: 408
 
-★ Stars: 1411
+★ Stars: 1415
 
 [Open repository](https://github.com/deepsourcelabs/good-first-issue)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 1415 | 408 | 
 | 2022-12-05 | 1411 | 407 | 
 | 2022-12-03 | 1411 | 406 | 
 | 2022-12-02 | 1409 | 406 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 1372 | 393 | 
 | 2022-11-08 | 1372 | 392 | 
 | 2022-11-07 | 1370 | 390 | 
-| 2022-11-06 | 1368 | 389 | 
 

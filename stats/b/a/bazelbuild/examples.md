@@ -1,10 +1,10 @@
 # bazelbuild/examples - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
-☋ Forks: 420
+☋ Forks: 421
 
-★ Stars: 637
+★ Stars: 636
 
 [Open repository](https://github.com/bazelbuild/examples)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 636 | 421 | 
 | 2022-12-05 | 637 | 420 | 
 | 2022-12-04 | 637 | 419 | 
 | 2022-12-03 | 636 | 421 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 629 | 415 | 
 | 2022-11-08 | 629 | 415 | 
 | 2022-11-07 | 629 | 415 | 
-| 2022-11-06 | 629 | 415 | 
 

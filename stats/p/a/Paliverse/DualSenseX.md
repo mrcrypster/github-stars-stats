@@ -1,10 +1,10 @@
 # Paliverse/DualSenseX - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 75
 
-★ Stars: 784
+★ Stars: 785
 
 [Open repository](https://github.com/Paliverse/DualSenseX)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 785 | 75 | 
 | 2022-12-05 | 784 | 75 | 
 | 2022-12-04 | 783 | 75 | 
 | 2022-12-03 | 782 | 75 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 747 | 69 | 
 | 2022-11-09 | 746 | 69 | 
 | 2022-11-08 | 745 | 69 | 
-| 2022-11-07 | 744 | 69 | 
 

@@ -1,6 +1,6 @@
 # nubank/state-flow - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 256 | 12 | 
 | 2022-12-04 | 256 | 12 | 
 | 2022-12-03 | 256 | 12 | 
 | 2022-12-02 | 256 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 250 | 11 | 
 | 2022-11-08 | 250 | 11 | 
 | 2022-11-07 | 250 | 11 | 
-| 2022-11-06 | 250 | 11 | 
 

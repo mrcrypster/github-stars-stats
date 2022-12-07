@@ -1,6 +1,6 @@
 # CoolCatsNFTPublic/SolidityInterviewTest - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 7 | 16 | 
 | 2022-12-05 | 7 | 16 | 
 | 2022-12-04 | 7 | 16 | 
 | 2022-12-03 | 7 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 7 | 16 | 
 | 2022-11-08 | 7 | 16 | 
 | 2022-11-07 | 7 | 16 | 
-| 2022-11-06 | 7 | 16 | 
 

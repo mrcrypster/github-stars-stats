@@ -1,10 +1,10 @@
 # GuMengYu/v-player - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 20
 
-★ Stars: 133
+★ Stars: 136
 
 [Open repository](https://github.com/GuMengYu/v-player)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 136 | 20 | 
 | 2022-12-05 | 133 | 20 | 
 | 2022-12-03 | 129 | 20 | 
 | 2022-12-02 | 129 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 95 | 19 | 
 | 2022-11-08 | 95 | 19 | 
 | 2022-11-07 | 95 | 19 | 
-| 2022-11-06 | 95 | 19 | 
 

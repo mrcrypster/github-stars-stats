@@ -1,10 +1,10 @@
 # symfony/event-dispatcher - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 69
 
-★ Stars: 8202
+★ Stars: 8204
 
 [Open repository](https://github.com/symfony/event-dispatcher)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 8204 | 69 | 
 | 2022-12-05 | 8202 | 69 | 
 | 2022-12-04 | 8198 | 69 | 
 | 2022-12-03 | 8196 | 69 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 8173 | 69 | 
 | 2022-11-08 | 8171 | 69 | 
 | 2022-11-07 | 8170 | 69 | 
-| 2022-11-06 | 8170 | 69 | 
 

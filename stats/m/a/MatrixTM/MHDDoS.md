@@ -1,10 +1,10 @@
 # MatrixTM/MHDDoS - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
-☋ Forks: 1576
+☋ Forks: 1579
 
-★ Stars: 7378
+★ Stars: 7391
 
 [Open repository](https://github.com/MatrixTM/MHDDoS)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 7391 | 1579 | 
 | 2022-12-05 | 7378 | 1576 | 
 | 2022-12-03 | 7371 | 1575 | 
 | 2022-12-02 | 7365 | 1573 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 7138 | 1513 | 
 | 2022-11-08 | 7128 | 1509 | 
 | 2022-11-07 | 7112 | 1505 | 
-| 2022-11-06 | 7082 | 1502 | 
 

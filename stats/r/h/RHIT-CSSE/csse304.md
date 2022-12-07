@@ -1,10 +1,10 @@
 # RHIT-CSSE/csse304 - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 19
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/RHIT-CSSE/csse304)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 4 | 19 | 
 | 2022-12-04 | 3 | 19 | 
 | 2022-12-03 | 3 | 19 | 
 | 2022-12-02 | 3 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 2 | 19 | 
 | 2022-11-08 | 2 | 19 | 
 | 2022-11-07 | 2 | 19 | 
-| 2022-11-06 | 2 | 19 | 
 

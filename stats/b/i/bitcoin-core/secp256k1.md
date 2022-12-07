@@ -1,10 +1,10 @@
 # bitcoin-core/secp256k1 - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
-☋ Forks: 887
+☋ Forks: 888
 
-★ Stars: 1578
+★ Stars: 1582
 
 [Open repository](https://github.com/bitcoin-core/secp256k1)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 1582 | 888 | 
 | 2022-12-04 | 1578 | 887 | 
 | 2022-12-03 | 1578 | 886 | 
 | 2022-12-02 | 1579 | 885 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 1567 | 881 | 
 | 2022-11-08 | 1566 | 880 | 
 | 2022-11-07 | 1567 | 880 | 
-| 2022-11-06 | 1567 | 879 | 
 

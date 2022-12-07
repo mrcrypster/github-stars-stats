@@ -1,6 +1,6 @@
 # twitter/TwitterTextEditor - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 122
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 2778 | 122 | 
 | 2022-12-04 | 2778 | 122 | 
 | 2022-12-03 | 2779 | 122 | 
 | 2022-12-02 | 2779 | 122 | 

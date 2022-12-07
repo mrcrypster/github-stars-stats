@@ -1,6 +1,6 @@
 # mapwatch/mapwatch - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 84 | 11 | 
 | 2022-12-05 | 84 | 11 | 
 | 2022-12-04 | 84 | 11 | 
 | 2022-12-02 | 84 | 11 | 

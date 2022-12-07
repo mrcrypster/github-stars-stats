@@ -1,8 +1,8 @@
 # rockthejvm/cats-effect - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
-☋ Forks: 37
+☋ Forks: 38
 
 ★ Stars: 30
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 30 | 38 | 
 | 2022-12-04 | 30 | 37 | 
 | 2022-12-03 | 30 | 36 | 
 | 2022-12-02 | 30 | 36 | 

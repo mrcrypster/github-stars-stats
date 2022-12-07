@@ -1,10 +1,10 @@
 # bitwalker/libcluster - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 174
 
-★ Stars: 1653
+★ Stars: 1654
 
 [Open repository](https://github.com/bitwalker/libcluster)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 1654 | 174 | 
 | 2022-12-05 | 1653 | 174 | 
 | 2022-12-04 | 1653 | 174 | 
 | 2022-12-02 | 1653 | 174 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 1642 | 171 | 
 | 2022-11-08 | 1641 | 171 | 
 | 2022-11-07 | 1641 | 171 | 
-| 2022-11-06 | 1641 | 171 | 
 

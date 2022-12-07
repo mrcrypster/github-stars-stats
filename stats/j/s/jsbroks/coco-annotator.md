@@ -1,10 +1,10 @@
 # jsbroks/coco-annotator - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 387
 
-★ Stars: 1720
+★ Stars: 1721
 
 [Open repository](https://github.com/jsbroks/coco-annotator)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 1721 | 387 | 
 | 2022-12-04 | 1720 | 387 | 
 | 2022-12-03 | 1720 | 387 | 
 | 2022-12-02 | 1720 | 388 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 1697 | 384 | 
 | 2022-11-08 | 1695 | 383 | 
 | 2022-11-07 | 1695 | 383 | 
-| 2022-11-06 | 1695 | 383 | 
 

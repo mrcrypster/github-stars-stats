@@ -1,6 +1,6 @@
 # stokry/wp-sqlite - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 316 | 13 | 
 | 2022-12-05 | 316 | 13 | 
 | 2022-12-04 | 316 | 13 | 
 | 2022-12-03 | 316 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 318 | 13 | 
 | 2022-11-08 | 318 | 13 | 
 | 2022-11-07 | 318 | 13 | 
-| 2022-11-06 | 318 | 13 | 
 

@@ -1,6 +1,6 @@
 # egoist/dropcode - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 563 | 19 | 
 | 2022-12-05 | 563 | 19 | 
 | 2022-12-04 | 562 | 19 | 
 | 2022-12-03 | 561 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 523 | 17 | 
 | 2022-11-08 | 519 | 17 | 
 | 2022-11-07 | 510 | 17 | 
-| 2022-11-06 | 497 | 16 | 
 

@@ -1,0 +1,17 @@
+# EQEmu/spire-quest-snippets - stars & forks statistics
+
+Stats updated on Dec 2022, 06
+
+☋ Forks: 0
+
+★ Stars: 2
+
+[Open repository](https://github.com/EQEmu/spire-quest-snippets)
+
+[Open detailed stats for EQEmu/spire-quest-snippets](https://reviewgithub.com/rep/EQEmu/spire-quest-snippets)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-12-06 | 2 | - | 
+

@@ -1,6 +1,6 @@
 # purescript-contrib/purescript-argonaut-codecs - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 45 | 44 | 
 | 2022-12-05 | 45 | 44 | 
 | 2022-12-04 | 45 | 44 | 
 | 2022-12-02 | 45 | 44 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 45 | 44 | 
 | 2022-11-09 | 46 | 44 | 
 | 2022-11-08 | 46 | 44 | 
-| 2022-11-07 | 46 | 44 | 
 

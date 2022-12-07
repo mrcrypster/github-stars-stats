@@ -1,6 +1,6 @@
 # fzakaria/nix-harden-needed - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 19 | 3 | 
 | 2022-12-05 | 19 | 3 | 
 | 2022-12-04 | 19 | 3 | 
 | 2022-12-02 | 19 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 19 | 2 | 
 | 2022-11-09 | 19 | 2 | 
 | 2022-11-08 | 19 | 2 | 
-| 2022-11-07 | 19 | 2 | 
 

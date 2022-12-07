@@ -1,6 +1,6 @@
 # revanced/revanced-documentation - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 23 | 9 | 
 | 2022-12-05 | 23 | 9 | 
 | 2022-12-04 | 23 | 8 | 
 | 2022-12-02 | 21 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 381 | 23 | 
 | 2022-11-08 | 380 | 23 | 
 | 2022-11-07 | 380 | 23 | 
-| 2022-11-06 | 380 | 23 | 
 

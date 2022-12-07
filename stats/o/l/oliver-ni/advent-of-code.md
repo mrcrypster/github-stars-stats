@@ -1,10 +1,10 @@
 # oliver-ni/advent-of-code - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
-☋ Forks: 7
+☋ Forks: 6
 
-★ Stars: 51
+★ Stars: 59
 
 [Open repository](https://github.com/oliver-ni/advent-of-code)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 59 | 6 | 
 | 2022-12-05 | 51 | 7 | 
 | 2022-12-04 | 42 | 6 | 
 

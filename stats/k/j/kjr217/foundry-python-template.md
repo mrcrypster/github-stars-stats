@@ -1,10 +1,10 @@
 # kjr217/foundry-python-template - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 1
 
-★ Stars: 31
+★ Stars: 33
 
 [Open repository](https://github.com/kjr217/foundry-python-template)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 33 | 1 | 
 | 2022-12-04 | 31 | 1 | 
 | 2022-12-03 | 30 | 1 | 
 | 2022-12-02 | 28 | 1 | 

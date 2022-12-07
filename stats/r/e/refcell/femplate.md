@@ -1,10 +1,10 @@
 # refcell/femplate - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 36
 
-★ Stars: 246
+★ Stars: 247
 
 [Open repository](https://github.com/refcell/femplate)
 
@@ -13,5 +13,6 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 247 | 36 | 
 | 2022-12-05 | 246 | 36 | 
 

@@ -1,10 +1,10 @@
 # davidjerleke/embla-carousel - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 101
 
-★ Stars: 2781
+★ Stars: 2783
 
 [Open repository](https://github.com/davidjerleke/embla-carousel)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 2783 | 101 | 
 | 2022-12-05 | 2781 | 101 | 
 | 2022-12-04 | 2777 | 101 | 
 | 2022-12-03 | 2775 | 101 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 2736 | 100 | 
 | 2022-11-08 | 2733 | 100 | 
 | 2022-11-07 | 2732 | 100 | 
-| 2022-11-06 | 2730 | 100 | 
 

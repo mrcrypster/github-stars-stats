@@ -1,10 +1,10 @@
 # erlyaws/yaws - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 262
 
-★ Stars: 1241
+★ Stars: 1242
 
 [Open repository](https://github.com/erlyaws/yaws)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 1242 | 262 | 
 | 2022-12-05 | 1241 | 262 | 
 | 2022-12-04 | 1241 | 262 | 
 | 2022-12-03 | 1241 | 262 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 1240 | 262 | 
 | 2022-11-08 | 1240 | 262 | 
 | 2022-11-07 | 1240 | 263 | 
-| 2022-11-06 | 1240 | 263 | 
 

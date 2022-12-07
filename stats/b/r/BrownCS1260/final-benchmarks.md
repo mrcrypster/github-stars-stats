@@ -1,8 +1,8 @@
 # BrownCS1260/final-benchmarks - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
-☋ Forks: 47
+☋ Forks: 65
 
 ★ Stars: 0
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | - | 65 | 
+| 2022-12-06 | - | 65 | 
 | 2022-12-05 | - | 47 | 
 | 2022-12-04 | - | 35 | 
 | 2022-12-03 | - | 24 | 

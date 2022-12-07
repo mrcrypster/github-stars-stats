@@ -1,8 +1,8 @@
 # zio/zio-quill - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
-☋ Forks: 333
+☋ Forks: 334
 
 ★ Stars: 2099
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 2099 | 334 | 
 | 2022-12-04 | 2099 | 333 | 
 | 2022-12-03 | 2099 | 333 | 
 | 2022-12-02 | 2099 | 333 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 2093 | 332 | 
 | 2022-11-08 | 2092 | 331 | 
 | 2022-11-07 | 2090 | 331 | 
-| 2022-11-06 | 2090 | 330 | 
 

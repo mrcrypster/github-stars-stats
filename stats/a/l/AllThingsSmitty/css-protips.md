@@ -1,10 +1,10 @@
 # AllThingsSmitty/css-protips - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
-☋ Forks: 1959
+☋ Forks: 1960
 
-★ Stars: 23740
+★ Stars: 23754
 
 [Open repository](https://github.com/AllThingsSmitty/css-protips)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 23754 | 1960 | 
 | 2022-12-04 | 23740 | 1959 | 
 | 2022-12-03 | 23725 | 1958 | 
 | 2022-12-02 | 23720 | 1958 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 23379 | 1918 | 
 | 2022-11-08 | 23370 | 1918 | 
 | 2022-11-07 | 23354 | 1916 | 
-| 2022-11-06 | 23341 | 1914 | 
 

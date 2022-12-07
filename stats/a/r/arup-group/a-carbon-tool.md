@@ -1,10 +1,10 @@
 # arup-group/a-carbon-tool - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 8
 
-★ Stars: 87
+★ Stars: 88
 
 [Open repository](https://github.com/arup-group/a-carbon-tool)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 88 | 8 | 
 | 2022-12-05 | 87 | 8 | 
 | 2022-12-03 | 87 | 8 | 
 | 2022-12-02 | 87 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 84 | 8 | 
 | 2022-11-08 | 84 | 8 | 
 | 2022-11-07 | 83 | 8 | 
-| 2022-11-06 | 83 | 8 | 
 

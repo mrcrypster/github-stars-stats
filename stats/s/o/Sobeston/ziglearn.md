@@ -1,10 +1,10 @@
 # Sobeston/ziglearn - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
-☋ Forks: 85
+☋ Forks: 86
 
-★ Stars: 282
+★ Stars: 283
 
 [Open repository](https://github.com/Sobeston/ziglearn)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 283 | 86 | 
 | 2022-12-05 | 282 | 85 | 
 | 2022-12-04 | 282 | 85 | 
 | 2022-12-03 | 282 | 85 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 276 | 85 | 
 | 2022-11-09 | 276 | 85 | 
 | 2022-11-08 | 276 | 85 | 
-| 2022-11-07 | 276 | 85 | 
 

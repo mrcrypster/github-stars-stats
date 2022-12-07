@@ -1,8 +1,8 @@
 # cdepillabout/stacklock2nix - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 17
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 17 | 2 | 
 | 2022-12-04 | 17 | 1 | 
 | 2022-12-03 | 15 | 1 | 
 | 2022-12-02 | 15 | 1 | 

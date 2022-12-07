@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 06
 
 ☋ Forks: 71
 
-★ Stars: 158
+★ Stars: 160
 
 [Open repository](https://github.com/ChristianLempa/videos)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-06 | 158 | 71 | 
+| 2022-12-06 | 160 | 71 | 
 | 2022-12-05 | 158 | 71 | 
 | 2022-12-04 | 154 | 71 | 
 | 2022-12-02 | 151 | 68 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-09 | 124 | 61 | 
 | 2022-11-08 | 120 | 61 | 
 | 2022-11-07 | 119 | 60 | 
-| 2022-11-06 | 118 | 60 | 
 

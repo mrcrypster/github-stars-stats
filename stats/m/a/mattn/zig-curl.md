@@ -1,10 +1,10 @@
 # mattn/zig-curl - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 1
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/mattn/zig-curl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 24 | 1 | 
 | 2022-12-05 | 23 | 1 | 
 | 2022-12-04 | 23 | 1 | 
 | 2022-12-03 | 23 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 22 | - | 
 | 2022-11-09 | 22 | - | 
 | 2022-11-08 | 22 | - | 
-| 2022-11-07 | 22 | - | 
 

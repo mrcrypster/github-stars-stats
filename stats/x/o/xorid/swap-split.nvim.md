@@ -1,10 +1,10 @@
 # xorid/swap-split.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 0
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/xorid/swap-split.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 31 | - | 
 | 2022-12-04 | 30 | - | 
 | 2022-12-03 | 30 | - | 
 | 2022-12-02 | 29 | - | 

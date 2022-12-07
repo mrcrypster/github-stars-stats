@@ -1,10 +1,10 @@
 # wix/Detox - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 1906
 
-★ Stars: 10042
+★ Stars: 10044
 
 [Open repository](https://github.com/wix/Detox)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 10044 | 1906 | 
 | 2022-12-04 | 10042 | 1906 | 
 | 2022-12-03 | 10041 | 1906 | 
 | 2022-12-02 | 10040 | 1906 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 9991 | 1908 | 
 | 2022-11-08 | 9992 | 1909 | 
 | 2022-11-07 | 9989 | 1909 | 
-| 2022-11-06 | 9986 | 1909 | 
 

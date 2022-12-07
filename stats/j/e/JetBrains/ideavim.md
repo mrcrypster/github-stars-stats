@@ -1,10 +1,10 @@
 # JetBrains/ideavim - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 671
 
-★ Stars: 7041
+★ Stars: 7040
 
 [Open repository](https://github.com/JetBrains/ideavim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 7040 | 671 | 
 | 2022-12-05 | 7041 | 671 | 
 | 2022-12-03 | 7039 | 671 | 
 | 2022-12-02 | 7037 | 671 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 6978 | 663 | 
 | 2022-11-08 | 6977 | 662 | 
 | 2022-11-07 | 6974 | 662 | 
-| 2022-11-06 | 6972 | 662 | 
 

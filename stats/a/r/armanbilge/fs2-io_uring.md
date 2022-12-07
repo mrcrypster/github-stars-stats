@@ -1,8 +1,8 @@
 # armanbilge/fs2-io_uring - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
-☋ Forks: 0
+☋ Forks: 1
 
 ★ Stars: 21
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 21 | 1 | 
 | 2022-12-05 | 21 | - | 
 | 2022-12-03 | 21 | - | 
 | 2022-12-02 | 21 | - | 

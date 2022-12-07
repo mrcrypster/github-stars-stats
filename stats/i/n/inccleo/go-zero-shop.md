@@ -1,6 +1,6 @@
 # inccleo/go-zero-shop - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 99 | 24 | 
 | 2022-12-05 | 99 | 24 | 
 | 2022-12-04 | 98 | 24 | 
 | 2022-12-03 | 98 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 98 | 24 | 
 | 2022-11-08 | 98 | 24 | 
 | 2022-11-07 | 98 | 24 | 
-| 2022-11-06 | 97 | 24 | 
 

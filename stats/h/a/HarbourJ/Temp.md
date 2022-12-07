@@ -1,8 +1,8 @@
 # HarbourJ/Temp - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
-☋ Forks: 161
+☋ Forks: 160
 
 ★ Stars: 99
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 99 | 160 | 
 | 2022-12-05 | 99 | 161 | 
 | 2022-12-04 | 99 | 161 | 
 | 2022-12-03 | 99 | 161 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 100 | 160 | 
 | 2022-11-08 | 100 | 161 | 
 | 2022-11-07 | 100 | 161 | 
-| 2022-11-06 | 100 | 161 | 
 

@@ -1,6 +1,6 @@
 # ServiceNow/picard - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 78
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 209 | 78 | 
 | 2022-12-05 | 209 | 78 | 
 | 2022-12-03 | 209 | 78 | 
 | 2022-12-02 | 208 | 78 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 199 | 72 | 
 | 2022-11-08 | 198 | 72 | 
 | 2022-11-07 | 197 | 72 | 
-| 2022-11-06 | 197 | 72 | 
 

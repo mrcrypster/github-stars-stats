@@ -1,6 +1,6 @@
 # ssblee/TensorNetworks2022 - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 10 | 11 | 
 | 2022-12-05 | 10 | 11 | 
 | 2022-12-04 | 10 | 11 | 
 | 2022-12-03 | 10 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 9 | 11 | 
 | 2022-11-09 | 9 | 11 | 
 | 2022-11-08 | 9 | 11 | 
-| 2022-11-07 | 9 | 11 | 
 

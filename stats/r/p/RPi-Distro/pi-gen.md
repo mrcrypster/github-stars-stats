@@ -1,10 +1,10 @@
 # RPi-Distro/pi-gen - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
-☋ Forks: 1377
+☋ Forks: 1378
 
-★ Stars: 2127
+★ Stars: 2126
 
 [Open repository](https://github.com/RPi-Distro/pi-gen)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 2126 | 1378 | 
 | 2022-12-05 | 2127 | 1377 | 
 | 2022-12-03 | 2125 | 1376 | 
 | 2022-12-02 | 2123 | 1376 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 2111 | 1369 | 
 | 2022-11-09 | 2110 | 1369 | 
 | 2022-11-08 | 2109 | 1366 | 
-| 2022-11-07 | 2109 | 1368 | 
 

@@ -1,10 +1,10 @@
 # bulwarkid/virtual-fido - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
-☋ Forks: 32
+☋ Forks: 31
 
-★ Stars: 903
+★ Stars: 904
 
 [Open repository](https://github.com/bulwarkid/virtual-fido)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 904 | 31 | 
 | 2022-12-05 | 903 | 32 | 
 | 2022-12-03 | 902 | 32 | 
 | 2022-12-02 | 900 | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 886 | 31 | 
 | 2022-11-08 | 886 | 31 | 
 | 2022-11-07 | 885 | 31 | 
-| 2022-11-06 | 884 | 31 | 
 

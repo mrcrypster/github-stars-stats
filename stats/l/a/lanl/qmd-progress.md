@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 06
 
 ☋ Forks: 12
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/lanl/qmd-progress)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-06 | 13 | 12 | 
+| 2022-12-06 | 14 | 12 | 
 | 2022-12-05 | 13 | 12 | 
 | 2022-12-04 | 13 | 12 | 
 | 2022-12-03 | 13 | 12 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-09 | 13 | 12 | 
 | 2022-11-08 | 13 | 12 | 
 | 2022-11-07 | 13 | 12 | 
-| 2022-11-06 | 13 | 12 | 
 

@@ -1,6 +1,6 @@
 # weaveworks/eksctl - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 1195
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 4234 | 1195 | 
 | 2022-12-04 | 4234 | 1195 | 
 | 2022-12-03 | 4234 | 1195 | 
 | 2022-12-02 | 4231 | 1195 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-10 | 4206 | 1188 | 
 | 2022-11-08 | 4204 | 1188 | 
 | 2022-11-07 | 4200 | 1187 | 
-| 2022-11-06 | 4196 | 1185 | 
 

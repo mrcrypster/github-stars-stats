@@ -1,10 +1,10 @@
 # tlbootcamp/tlroadmap - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 466
 
-★ Stars: 4725
+★ Stars: 4727
 
 [Open repository](https://github.com/tlbootcamp/tlroadmap)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 4727 | 466 | 
 | 2022-12-04 | 4725 | 466 | 
 | 2022-12-03 | 4725 | 466 | 
 | 2022-12-02 | 4725 | 466 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 4718 | 466 | 
 | 2022-11-08 | 4717 | 466 | 
 | 2022-11-07 | 4715 | 466 | 
-| 2022-11-06 | 4712 | 466 | 
 

@@ -1,10 +1,10 @@
 # nifanfa/MOOS - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 57
 
-★ Stars: 742
+★ Stars: 744
 
 [Open repository](https://github.com/nifanfa/MOOS)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 744 | 57 | 
 | 2022-12-05 | 742 | 57 | 
 | 2022-12-04 | 740 | 56 | 
 | 2022-12-02 | 737 | 55 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 689 | 49 | 
 | 2022-11-08 | 688 | 49 | 
 | 2022-11-07 | 688 | 49 | 
-| 2022-11-06 | 688 | 49 | 
 

@@ -1,10 +1,10 @@
 # newjersey/d4ad - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 0
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/newjersey/d4ad)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 7 | - | 
 | 2022-12-04 | 6 | - | 
 | 2022-12-03 | 6 | - | 
 | 2022-12-02 | 6 | - | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 6 | - | 
 | 2022-11-08 | 6 | - | 
 | 2022-11-07 | 6 | - | 
-| 2022-11-06 | 6 | - | 
 

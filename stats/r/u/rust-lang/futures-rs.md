@@ -1,10 +1,10 @@
 # rust-lang/futures-rs - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 538
 
-★ Stars: 4622
+★ Stars: 4624
 
 [Open repository](https://github.com/rust-lang/futures-rs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 4624 | 538 | 
 | 2022-12-05 | 4622 | 538 | 
 | 2022-12-03 | 4622 | 538 | 
 | 2022-12-02 | 4620 | 538 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 4582 | 534 | 
 | 2022-11-08 | 4582 | 534 | 
 | 2022-11-07 | 4583 | 534 | 
-| 2022-11-06 | 4581 | 534 | 
 

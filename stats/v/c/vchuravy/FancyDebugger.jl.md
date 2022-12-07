@@ -1,6 +1,6 @@
 # vchuravy/FancyDebugger.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 18 | 1 | 
 | 2022-12-05 | 18 | 1 | 
 | 2022-12-03 | 18 | 1 | 
 | 2022-12-02 | 18 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 18 | 1 | 
 | 2022-11-09 | 18 | 1 | 
 | 2022-11-08 | 18 | 1 | 
-| 2022-11-07 | 18 | 1 | 
 

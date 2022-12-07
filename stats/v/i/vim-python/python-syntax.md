@@ -1,10 +1,10 @@
 # vim-python/python-syntax - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 85
 
-★ Stars: 400
+★ Stars: 401
 
 [Open repository](https://github.com/vim-python/python-syntax)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 401 | 85 | 
 | 2022-12-05 | 400 | 85 | 
 | 2022-12-04 | 400 | 84 | 
 | 2022-12-03 | 400 | 84 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 391 | 81 | 
 | 2022-11-08 | 391 | 81 | 
 | 2022-11-07 | 390 | 81 | 
-| 2022-11-06 | 390 | 81 | 
 

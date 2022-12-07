@@ -1,10 +1,10 @@
 # zalazarc20/Mundial2022 - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
-☋ Forks: 9
+☋ Forks: 11
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/zalazarc20/Mundial2022)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 16 | 11 | 
 | 2022-12-05 | 15 | 9 | 
 | 2022-12-04 | 12 | 9 | 
 | 2022-12-03 | 9 | 8 | 

@@ -1,8 +1,8 @@
 # AnkerLeng/Cpp-0-1-Resource - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
-☋ Forks: 1151
+☋ Forks: 1152
 
 ★ Stars: 2739
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 2739 | 1152 | 
 | 2022-12-05 | 2739 | 1151 | 
 | 2022-12-04 | 2738 | 1151 | 
 | 2022-12-03 | 2737 | 1151 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 2719 | 1149 | 
 | 2022-11-08 | 2719 | 1148 | 
 | 2022-11-07 | 2719 | 1148 | 
-| 2022-11-06 | 2718 | 1148 | 
 

@@ -1,10 +1,10 @@
 # smarty-team/smarty-admin - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 88
 
-★ Stars: 41
+★ Stars: 43
 
 [Open repository](https://github.com/smarty-team/smarty-admin)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 43 | 88 | 
 | 2022-12-05 | 41 | 88 | 
 | 2022-12-04 | 41 | 87 | 
 | 2022-12-02 | 41 | 87 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 38 | 82 | 
 | 2022-11-09 | 38 | 82 | 
 | 2022-11-07 | 38 | 82 | 
-| 2022-11-06 | 36 | 82 | 
 

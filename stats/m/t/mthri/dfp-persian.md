@@ -1,6 +1,6 @@
 # mthri/dfp-persian - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 300 | 63 | 
 | 2022-12-05 | 300 | 63 | 
 | 2022-12-04 | 300 | 63 | 
 | 2022-12-03 | 300 | 63 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 299 | 63 | 
 | 2022-11-08 | 299 | 63 | 
 | 2022-11-07 | 299 | 63 | 
-| 2022-11-06 | 299 | 63 | 
 

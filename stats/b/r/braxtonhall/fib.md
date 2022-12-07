@@ -1,6 +1,6 @@
 # braxtonhall/fib - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 13 | 37 | 
 | 2022-12-05 | 13 | 37 | 
 | 2022-12-04 | 13 | 37 | 
 | 2022-12-03 | 13 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 11 | 35 | 
 | 2022-11-08 | 11 | 35 | 
 | 2022-11-07 | 10 | 35 | 
-| 2022-11-06 | 10 | 35 | 
 

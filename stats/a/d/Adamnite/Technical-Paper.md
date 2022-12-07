@@ -1,10 +1,10 @@
 # Adamnite/Technical-Paper - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 3
 
-★ Stars: 40
+★ Stars: 41
 
 [Open repository](https://github.com/Adamnite/Technical-Paper)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 41 | 3 | 
 | 2022-12-05 | 40 | 3 | 
 | 2022-12-04 | 40 | 3 | 
 | 2022-12-02 | 40 | 3 | 

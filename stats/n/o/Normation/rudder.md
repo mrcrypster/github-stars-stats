@@ -1,10 +1,10 @@
 # Normation/rudder - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 71
 
-★ Stars: 403
+★ Stars: 404
 
 [Open repository](https://github.com/Normation/rudder)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 404 | 71 | 
 | 2022-12-05 | 403 | 71 | 
 | 2022-12-03 | 403 | 71 | 
 | 2022-12-02 | 403 | 70 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 395 | 69 | 
 | 2022-11-08 | 395 | 69 | 
 | 2022-11-07 | 395 | 69 | 
-| 2022-11-06 | 394 | 69 | 
 

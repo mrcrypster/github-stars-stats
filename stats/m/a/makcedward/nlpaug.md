@@ -1,10 +1,10 @@
 # makcedward/nlpaug - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 418
 
-★ Stars: 3664
+★ Stars: 3667
 
 [Open repository](https://github.com/makcedward/nlpaug)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 3667 | 418 | 
 | 2022-12-04 | 3664 | 418 | 
 | 2022-12-03 | 3663 | 418 | 
 | 2022-12-02 | 3661 | 418 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-10 | 3618 | 410 | 
 | 2022-11-08 | 3617 | 410 | 
 | 2022-11-07 | 3614 | 410 | 
-| 2022-11-06 | 3611 | 409 | 
 

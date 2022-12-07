@@ -1,10 +1,10 @@
 # AdaCore/templates-parser - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 18
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/AdaCore/templates-parser)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 5 | 18 | 
 | 2022-12-04 | 4 | 18 | 
 | 2022-12-03 | 4 | 18 | 
 | 2022-12-02 | 4 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 4 | 17 | 
 | 2022-11-08 | 4 | 17 | 
 | 2022-11-07 | 4 | 17 | 
-| 2022-11-06 | 4 | 17 | 
 

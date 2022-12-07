@@ -1,10 +1,10 @@
 # brunopostle/ifcmerge - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 5
 
-★ Stars: 50
+★ Stars: 51
 
 [Open repository](https://github.com/brunopostle/ifcmerge)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 51 | 5 | 
 | 2022-12-04 | 50 | 5 | 
 | 2022-12-03 | 50 | 5 | 
 | 2022-12-02 | 50 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 47 | 3 | 
 | 2022-11-08 | 47 | 3 | 
 | 2022-11-07 | 47 | 3 | 
-| 2022-11-06 | 47 | 3 | 
 

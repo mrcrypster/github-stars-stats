@@ -1,6 +1,6 @@
 # Azure/reddog-containerapps - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 103
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 85 | 103 | 
 | 2022-12-04 | 85 | 103 | 
 | 2022-12-03 | 85 | 103 | 
 | 2022-12-02 | 85 | 103 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 80 | 95 | 
 | 2022-11-08 | 80 | 95 | 
 | 2022-11-07 | 79 | 94 | 
-| 2022-11-06 | 79 | 95 | 
 

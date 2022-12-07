@@ -1,10 +1,10 @@
 # organix/uFork - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 0
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/organix/uFork)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 6 | - | 
 | 2022-12-05 | 5 | - | 
 | 2022-12-04 | 5 | - | 
 | 2022-12-02 | 5 | - | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 1 | - | 
 | 2022-11-09 | 1 | - | 
 | 2022-11-08 | 1 | - | 
-| 2022-11-07 | 1 | - | 
 

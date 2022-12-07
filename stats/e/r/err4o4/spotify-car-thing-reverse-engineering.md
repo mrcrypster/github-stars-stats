@@ -1,6 +1,6 @@
 # err4o4/spotify-car-thing-reverse-engineering - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 200 | 5 | 
 | 2022-12-04 | 200 | 5 | 
 | 2022-12-03 | 200 | 5 | 
 | 2022-12-02 | 200 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 194 | 5 | 
 | 2022-11-08 | 193 | 5 | 
 | 2022-11-07 | 193 | 5 | 
-| 2022-11-06 | 193 | 5 | 
 

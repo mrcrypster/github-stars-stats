@@ -1,10 +1,10 @@
 # ashawkey/raytracing - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 5
 
-★ Stars: 43
+★ Stars: 44
 
 [Open repository](https://github.com/ashawkey/raytracing)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 44 | 5 | 
 | 2022-12-05 | 43 | 5 | 
 | 2022-12-04 | 41 | 5 | 
 | 2022-12-02 | 41 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 39 | 4 | 
 | 2022-11-08 | 39 | 4 | 
 | 2022-11-07 | 39 | 4 | 
-| 2022-11-06 | 39 | 4 | 
 

@@ -1,10 +1,10 @@
 # purefinance/mmb - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 56
 
-★ Stars: 340
+★ Stars: 342
 
 [Open repository](https://github.com/purefinance/mmb)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 342 | 56 | 
 | 2022-12-05 | 340 | 56 | 
 | 2022-12-04 | 340 | 55 | 
 | 2022-12-03 | 340 | 55 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 323 | 52 | 
 | 2022-11-08 | 321 | 52 | 
 | 2022-11-07 | 320 | 52 | 
-| 2022-11-06 | 320 | 52 | 
 

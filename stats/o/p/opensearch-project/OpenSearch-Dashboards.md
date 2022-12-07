@@ -1,10 +1,10 @@
 # opensearch-project/OpenSearch-Dashboards - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 306
 
-★ Stars: 1206
+★ Stars: 1207
 
 [Open repository](https://github.com/opensearch-project/OpenSearch-Dashboards)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 1207 | 306 | 
 | 2022-12-04 | 1206 | 306 | 
 | 2022-12-03 | 1206 | 306 | 
 | 2022-12-02 | 1205 | 306 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 1185 | 300 | 
 | 2022-11-08 | 1185 | 299 | 
 | 2022-11-07 | 1185 | 298 | 
-| 2022-11-06 | 1184 | 297 | 
 

@@ -1,6 +1,6 @@
 # jamf/aftermath - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 228 | 18 | 
 | 2022-12-04 | 228 | 18 | 
 | 2022-12-03 | 228 | 18 | 
 | 2022-12-02 | 227 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 218 | 17 | 
 | 2022-11-08 | 218 | 17 | 
 | 2022-11-07 | 215 | 17 | 
-| 2022-11-06 | 213 | 15 | 
 

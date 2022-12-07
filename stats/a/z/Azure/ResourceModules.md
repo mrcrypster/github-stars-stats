@@ -1,6 +1,6 @@
 # Azure/ResourceModules - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 290
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 422 | 290 | 
 | 2022-12-05 | 422 | 290 | 
 | 2022-12-04 | 422 | 290 | 
 | 2022-12-03 | 422 | 290 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 405 | 272 | 
 | 2022-11-08 | 405 | 270 | 
 | 2022-11-07 | 405 | 269 | 
-| 2022-11-06 | 403 | 268 | 
 

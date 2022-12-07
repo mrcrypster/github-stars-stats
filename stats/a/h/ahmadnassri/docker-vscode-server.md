@@ -1,8 +1,8 @@
 # ahmadnassri/docker-vscode-server - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
-☋ Forks: 7
+☋ Forks: 8
 
 ★ Stars: 15
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 15 | 8 | 
 | 2022-12-04 | 15 | 7 | 
 | 2022-12-03 | 15 | 7 | 
 | 2022-12-02 | 15 | 7 | 

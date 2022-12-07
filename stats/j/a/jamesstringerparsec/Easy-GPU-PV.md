@@ -1,10 +1,10 @@
 # jamesstringerparsec/Easy-GPU-PV - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
-☋ Forks: 241
+☋ Forks: 242
 
-★ Stars: 2385
+★ Stars: 2389
 
 [Open repository](https://github.com/jamesstringerparsec/Easy-GPU-PV)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 2389 | 242 | 
 | 2022-12-05 | 2385 | 241 | 
 | 2022-12-04 | 2384 | 241 | 
 | 2022-12-03 | 2380 | 241 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 2302 | 231 | 
 | 2022-11-08 | 2295 | 230 | 
 | 2022-11-07 | 2292 | 230 | 
-| 2022-11-06 | 2291 | 230 | 
 

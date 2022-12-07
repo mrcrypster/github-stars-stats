@@ -1,10 +1,10 @@
 # geohot/configuration - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 95
 
-★ Stars: 338
+★ Stars: 337
 
 [Open repository](https://github.com/geohot/configuration)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 337 | 95 | 
 | 2022-12-04 | 338 | 95 | 
 | 2022-12-03 | 338 | 95 | 
 | 2022-12-02 | 338 | 95 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 335 | 95 | 
 | 2022-11-08 | 336 | 95 | 
 | 2022-11-07 | 335 | 95 | 
-| 2022-11-06 | 334 | 95 | 
 

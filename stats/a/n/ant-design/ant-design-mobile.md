@@ -1,10 +1,10 @@
 # ant-design/ant-design-mobile - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
-☋ Forks: 2096
+☋ Forks: 2097
 
-★ Stars: 10681
+★ Stars: 10683
 
 [Open repository](https://github.com/ant-design/ant-design-mobile)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 10683 | 2097 | 
 | 2022-12-04 | 10681 | 2096 | 
 | 2022-12-03 | 10680 | 2095 | 
 | 2022-12-02 | 10679 | 2095 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 10633 | 2072 | 
 | 2022-11-08 | 10630 | 2071 | 
 | 2022-11-07 | 10628 | 2069 | 
-| 2022-11-06 | 10627 | 2068 | 
 

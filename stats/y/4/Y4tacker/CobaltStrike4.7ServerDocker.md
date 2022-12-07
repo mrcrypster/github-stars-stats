@@ -1,10 +1,10 @@
 # Y4tacker/CobaltStrike4.7ServerDocker - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 2
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/Y4tacker/CobaltStrike4.7ServerDocker)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 31 | 2 | 
 | 2022-12-05 | 30 | 2 | 
 | 2022-12-04 | 28 | 2 | 
 

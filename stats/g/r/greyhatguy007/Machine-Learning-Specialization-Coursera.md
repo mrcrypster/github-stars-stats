@@ -1,10 +1,10 @@
 # greyhatguy007/Machine-Learning-Specialization-Coursera - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
-☋ Forks: 325
+☋ Forks: 328
 
-★ Stars: 432
+★ Stars: 436
 
 [Open repository](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 436 | 328 | 
 | 2022-12-04 | 432 | 325 | 
 | 2022-12-03 | 428 | 324 | 
 | 2022-12-02 | 423 | 323 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 359 | 266 | 
 | 2022-11-08 | 358 | 265 | 
 | 2022-11-07 | 355 | 256 | 
-| 2022-11-06 | 354 | 256 | 
 

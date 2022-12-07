@@ -1,6 +1,6 @@
 # esl/elibcloud - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 9 | 7 | 
 | 2022-12-04 | 9 | 7 | 
 | 2022-12-03 | 9 | 7 | 
 | 2022-12-02 | 9 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 9 | 7 | 
 | 2022-11-08 | 9 | 7 | 
 | 2022-11-07 | 9 | 7 | 
-| 2022-11-06 | 9 | 7 | 
 

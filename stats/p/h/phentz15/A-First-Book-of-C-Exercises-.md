@@ -1,10 +1,10 @@
 # phentz15/A-First-Book-of-C-Exercises- - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 25
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/phentz15/A-First-Book-of-C-Exercises-)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 28 | 25 | 
 | 2022-12-05 | 27 | 25 | 
 | 2022-12-04 | 27 | 25 | 
 | 2022-12-02 | 27 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 26 | 25 | 
 | 2022-11-08 | 26 | 25 | 
 | 2022-11-07 | 26 | 25 | 
-| 2022-11-06 | 26 | 25 | 
 

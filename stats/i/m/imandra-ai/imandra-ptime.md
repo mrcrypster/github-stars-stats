@@ -1,6 +1,6 @@
 # imandra-ai/imandra-ptime - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 0
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | - | - | 
+| 2022-12-06 | - | - | 
 | 2022-12-04 | - | - | 
 | 2022-12-03 | - | - | 
 | 2022-12-02 | - | - | 

@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 06
 
 ☋ Forks: 29
 
-★ Stars: 399
+★ Stars: 400
 
 [Open repository](https://github.com/mujx/hakatime)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-06 | 399 | 29 | 
+| 2022-12-06 | 400 | 29 | 
 | 2022-12-05 | 399 | 29 | 
 

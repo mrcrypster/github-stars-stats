@@ -1,10 +1,10 @@
 # elastic/go-elasticsearch - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 511
 
-★ Stars: 4585
+★ Stars: 4591
 
 [Open repository](https://github.com/elastic/go-elasticsearch)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 4591 | 511 | 
 | 2022-12-05 | 4585 | 511 | 
 | 2022-12-03 | 4583 | 511 | 
 | 2022-12-02 | 4581 | 510 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 4521 | 504 | 
 | 2022-11-08 | 4518 | 504 | 
 | 2022-11-07 | 4514 | 504 | 
-| 2022-11-06 | 4514 | 503 | 
 

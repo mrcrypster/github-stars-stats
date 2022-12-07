@@ -1,10 +1,10 @@
 # IObundle/iob-lib - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 17
 
-★ Stars: 16
+★ Stars: 15
 
 [Open repository](https://github.com/IObundle/iob-lib)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 15 | 17 | 
 | 2022-12-05 | 16 | 17 | 
 | 2022-12-04 | 16 | 17 | 
 | 2022-12-03 | 16 | 17 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 14 | 17 | 
 | 2022-11-08 | 14 | 17 | 
 | 2022-11-07 | 14 | 17 | 
-| 2022-11-06 | 13 | 17 | 
 

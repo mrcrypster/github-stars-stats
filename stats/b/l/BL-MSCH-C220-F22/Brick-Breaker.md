@@ -1,6 +1,6 @@
 # BL-MSCH-C220-F22/Brick-Breaker - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | - | 16 | 
 | 2022-12-04 | - | 16 | 
 | 2022-12-03 | - | 16 | 
 | 2022-12-02 | - | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | - | 14 | 
 | 2022-11-08 | - | 14 | 
 | 2022-11-07 | - | 14 | 
-| 2022-11-06 | - | 14 | 
 

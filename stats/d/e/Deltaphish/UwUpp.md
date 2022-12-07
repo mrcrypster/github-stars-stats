@@ -1,10 +1,10 @@
 # Deltaphish/UwUpp - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 5
 
-★ Stars: 236
+★ Stars: 237
 
 [Open repository](https://github.com/Deltaphish/UwUpp)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 237 | 5 | 
 | 2022-12-04 | 236 | 5 | 
 | 2022-12-03 | 236 | 4 | 
 | 2022-12-02 | 236 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 234 | 4 | 
 | 2022-11-08 | 232 | 3 | 
 | 2022-11-07 | 232 | 3 | 
-| 2022-11-06 | 232 | 3 | 
 

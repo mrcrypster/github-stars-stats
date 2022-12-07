@@ -1,10 +1,10 @@
 # meetecho/janus-gateway - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
-☋ Forks: 2256
+☋ Forks: 2258
 
-★ Stars: 6861
+★ Stars: 6864
 
 [Open repository](https://github.com/meetecho/janus-gateway)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 6864 | 2258 | 
 | 2022-12-05 | 6861 | 2256 | 
 | 2022-12-04 | 6859 | 2256 | 
 | 2022-12-02 | 6859 | 2256 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 6807 | 2239 | 
 | 2022-11-08 | 6804 | 2237 | 
 | 2022-11-07 | 6803 | 2237 | 
-| 2022-11-06 | 6799 | 2237 | 
 

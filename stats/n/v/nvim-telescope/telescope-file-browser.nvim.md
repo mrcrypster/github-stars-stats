@@ -1,10 +1,10 @@
 # nvim-telescope/telescope-file-browser.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 45
 
-★ Stars: 668
+★ Stars: 667
 
 [Open repository](https://github.com/nvim-telescope/telescope-file-browser.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 667 | 45 | 
 | 2022-12-04 | 668 | 45 | 
 | 2022-12-03 | 666 | 44 | 
 | 2022-12-02 | 665 | 44 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 627 | 44 | 
 | 2022-11-08 | 626 | 44 | 
 | 2022-11-07 | 626 | 44 | 
-| 2022-11-06 | 624 | 44 | 
 

@@ -1,6 +1,6 @@
 # typelevel/cats - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 1191
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 4808 | 1191 | 
 | 2022-12-05 | 4808 | 1191 | 
 | 2022-12-04 | 4807 | 1190 | 
 | 2022-12-03 | 4806 | 1190 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 4795 | 1190 | 
 | 2022-11-08 | 4794 | 1190 | 
 | 2022-11-07 | 4793 | 1190 | 
-| 2022-11-06 | 4793 | 1190 | 
 

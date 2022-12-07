@@ -1,10 +1,10 @@
 # NixOS/nix - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
-☋ Forks: 1014
+☋ Forks: 1018
 
-★ Stars: 7062
+★ Stars: 7070
 
 [Open repository](https://github.com/NixOS/nix)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 7070 | 1018 | 
 | 2022-12-05 | 7062 | 1014 | 
 | 2022-12-04 | 7056 | 1014 | 
 | 2022-12-02 | 7049 | 1013 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 6935 | 1010 | 
 | 2022-11-08 | 6935 | 1010 | 
 | 2022-11-07 | 6931 | 1010 | 
-| 2022-11-06 | 6931 | 1010 | 
 

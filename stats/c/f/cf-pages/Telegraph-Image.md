@@ -1,10 +1,10 @@
 # cf-pages/Telegraph-Image - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
-☋ Forks: 647
+☋ Forks: 652
 
-★ Stars: 477
+★ Stars: 482
 
 [Open repository](https://github.com/cf-pages/Telegraph-Image)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 482 | 652 | 
 | 2022-12-04 | 477 | 647 | 
 | 2022-12-03 | 476 | 646 | 
 | 2022-12-02 | 475 | 645 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 330 | 508 | 
 | 2022-11-08 | 325 | 499 | 
 | 2022-11-07 | 322 | 492 | 
-| 2022-11-06 | 314 | 485 | 
 

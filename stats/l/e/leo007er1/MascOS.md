@@ -1,10 +1,10 @@
 # leo007er1/MascOS - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 0
 
-★ Stars: 22
+★ Stars: 25
 
 [Open repository](https://github.com/leo007er1/MascOS)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 25 | - | 
 | 2022-12-05 | 22 | - | 
 | 2022-12-04 | 20 | - | 
 | 2022-12-03 | 20 | - | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 20 | - | 
 | 2022-11-08 | 20 | - | 
 | 2022-11-07 | 20 | - | 
-| 2022-11-06 | 20 | - | 
 

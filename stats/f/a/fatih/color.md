@@ -1,8 +1,8 @@
 # fatih/color - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
-☋ Forks: 573
+☋ Forks: 574
 
 ★ Stars: 5845
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 5845 | 574 | 
 | 2022-12-05 | 5845 | 573 | 
 | 2022-12-04 | 5844 | 572 | 
 | 2022-12-03 | 5843 | 571 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 5805 | 571 | 
 | 2022-11-08 | 5801 | 571 | 
 | 2022-11-07 | 5799 | 571 | 
-| 2022-11-06 | 5794 | 571 | 
 

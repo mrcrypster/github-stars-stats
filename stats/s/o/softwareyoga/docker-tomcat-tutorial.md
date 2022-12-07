@@ -1,10 +1,10 @@
 # softwareyoga/docker-tomcat-tutorial - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 224
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/softwareyoga/docker-tomcat-tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 17 | 224 | 
 | 2022-12-05 | 16 | 224 | 
 | 2022-12-04 | 16 | 224 | 
 | 2022-12-02 | 16 | 223 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 16 | 221 | 
 | 2022-11-09 | 16 | 221 | 
 | 2022-11-08 | 16 | 221 | 
-| 2022-11-07 | 16 | 221 | 
 

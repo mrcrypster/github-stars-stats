@@ -1,6 +1,6 @@
 # Chemellia/AtomicGraphNets.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 56 | 10 | 
 | 2022-12-05 | 56 | 10 | 
 | 2022-12-04 | 56 | 10 | 
 | 2022-12-02 | 56 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 55 | 10 | 
 | 2022-11-08 | 55 | 10 | 
 | 2022-11-07 | 55 | 10 | 
-| 2022-11-06 | 55 | 10 | 
 

@@ -1,10 +1,10 @@
 # FrancescoXX/100-days-of-Web3 - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
-☋ Forks: 459
+☋ Forks: 460
 
-★ Stars: 3053
+★ Stars: 3060
 
 [Open repository](https://github.com/FrancescoXX/100-days-of-Web3)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 3060 | 460 | 
 | 2022-12-04 | 3053 | 459 | 
 | 2022-12-03 | 3050 | 458 | 
 | 2022-12-02 | 3047 | 458 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 2882 | 421 | 
 | 2022-11-08 | 2878 | 419 | 
 | 2022-11-07 | 2876 | 416 | 
-| 2022-11-06 | 2869 | 415 | 
 

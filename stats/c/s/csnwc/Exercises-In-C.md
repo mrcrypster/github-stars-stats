@@ -1,10 +1,10 @@
 # csnwc/Exercises-In-C - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
-☋ Forks: 15
+☋ Forks: 16
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/csnwc/Exercises-In-C)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 30 | 16 | 
 | 2022-12-04 | 29 | 15 | 
 | 2022-12-03 | 29 | 15 | 
 | 2022-12-02 | 29 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 28 | 12 | 
 | 2022-11-08 | 28 | 12 | 
 | 2022-11-07 | 28 | 12 | 
-| 2022-11-06 | 28 | 12 | 
 

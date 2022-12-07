@@ -1,6 +1,6 @@
 # michaelficarra/cscodegen - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 29 | 7 | 
 | 2022-12-05 | 29 | 7 | 
 | 2022-12-04 | 29 | 7 | 
 | 2022-12-03 | 29 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 29 | 7 | 
 | 2022-11-08 | 29 | 7 | 
 | 2022-11-07 | 29 | 7 | 
-| 2022-11-06 | 29 | 7 | 
 

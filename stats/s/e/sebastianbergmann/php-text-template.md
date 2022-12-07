@@ -1,6 +1,6 @@
 # sebastianbergmann/php-text-template - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 7069 | 32 | 
 | 2022-12-04 | 7069 | 32 | 
 | 2022-12-03 | 7069 | 32 | 
 | 2022-12-02 | 7068 | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 7057 | 32 | 
 | 2022-11-08 | 7056 | 32 | 
 | 2022-11-07 | 7055 | 32 | 
-| 2022-11-06 | 7055 | 32 | 
 

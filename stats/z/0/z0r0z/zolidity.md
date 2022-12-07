@@ -1,10 +1,10 @@
 # z0r0z/zolidity - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 7
 
-★ Stars: 91
+★ Stars: 92
 
 [Open repository](https://github.com/z0r0z/zolidity)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 92 | 7 | 
 | 2022-12-04 | 91 | 7 | 
 | 2022-12-03 | 91 | 7 | 
 | 2022-12-02 | 90 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 87 | 7 | 
 | 2022-11-08 | 87 | 7 | 
 | 2022-11-07 | 87 | 7 | 
-| 2022-11-06 | 87 | 6 | 
 

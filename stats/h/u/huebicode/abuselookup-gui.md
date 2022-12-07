@@ -1,10 +1,10 @@
 # huebicode/abuselookup-gui - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 8
 
-★ Stars: 61
+★ Stars: 62
 
 [Open repository](https://github.com/huebicode/abuselookup-gui)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 62 | 8 | 
 | 2022-12-05 | 61 | 8 | 
 | 2022-12-04 | 61 | 8 | 
 | 2022-12-03 | 61 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 61 | 8 | 
 | 2022-11-08 | 61 | 8 | 
 | 2022-11-07 | 61 | 8 | 
-| 2022-11-06 | 61 | 8 | 
 

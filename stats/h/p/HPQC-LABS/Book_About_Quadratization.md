@@ -1,6 +1,6 @@
 # HPQC-LABS/Book_About_Quadratization - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 17 | 19 | 
 | 2022-12-05 | 17 | 19 | 
 | 2022-12-04 | 17 | 19 | 
 | 2022-12-03 | 17 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 17 | 20 | 
 | 2022-11-08 | 17 | 20 | 
 | 2022-11-07 | 17 | 20 | 
-| 2022-11-06 | 17 | 20 | 
 

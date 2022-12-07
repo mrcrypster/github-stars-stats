@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 06
 
-☋ Forks: 116
+☋ Forks: 118
 
-★ Stars: 753
+★ Stars: 762
 
 [Open repository](https://github.com/liu673cn/xbb)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-06 | 753 | 116 | 
+| 2022-12-06 | 762 | 118 | 
 | 2022-12-05 | 738 | 115 | 
 

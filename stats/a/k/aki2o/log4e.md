@@ -1,6 +1,6 @@
 # aki2o/log4e - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 53 | 14 | 
 | 2022-12-04 | 53 | 14 | 
 | 2022-12-03 | 53 | 14 | 
 | 2022-12-02 | 53 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 53 | 14 | 
 | 2022-11-08 | 53 | 14 | 
 | 2022-11-07 | 53 | 14 | 
-| 2022-11-06 | 53 | 14 | 
 

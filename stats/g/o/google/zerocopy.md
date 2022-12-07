@@ -1,10 +1,10 @@
 # google/zerocopy - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 22
 
-★ Stars: 424
+★ Stars: 425
 
 [Open repository](https://github.com/google/zerocopy)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 425 | 22 | 
 | 2022-12-05 | 424 | 22 | 
 | 2022-12-03 | 424 | 22 | 
 | 2022-12-02 | 424 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 410 | 22 | 
 | 2022-11-08 | 410 | 22 | 
 | 2022-11-07 | 409 | 22 | 
-| 2022-11-06 | 406 | 21 | 
 

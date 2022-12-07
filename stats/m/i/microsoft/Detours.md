@@ -1,10 +1,10 @@
 # microsoft/Detours - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 823
 
-★ Stars: 3836
+★ Stars: 3840
 
 [Open repository](https://github.com/microsoft/Detours)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 3840 | 823 | 
 | 2022-12-04 | 3836 | 823 | 
 | 2022-12-03 | 3834 | 822 | 
 | 2022-12-02 | 3833 | 822 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 3788 | 816 | 
 | 2022-11-08 | 3787 | 817 | 
 | 2022-11-07 | 3782 | 817 | 
-| 2022-11-06 | 3779 | 817 | 
 

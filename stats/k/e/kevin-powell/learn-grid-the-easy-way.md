@@ -1,10 +1,10 @@
 # kevin-powell/learn-grid-the-easy-way - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 331
 
-★ Stars: 190
+★ Stars: 191
 
 [Open repository](https://github.com/kevin-powell/learn-grid-the-easy-way)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 191 | 331 | 
 | 2022-12-05 | 190 | 331 | 
 | 2022-12-04 | 190 | 331 | 
 | 2022-12-03 | 187 | 329 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 181 | 318 | 
 | 2022-11-08 | 180 | 318 | 
 | 2022-11-07 | 179 | 318 | 
-| 2022-11-06 | 179 | 317 | 
 

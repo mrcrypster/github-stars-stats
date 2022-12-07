@@ -1,10 +1,10 @@
 # Warzone2100/warzone2100 - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
-☋ Forks: 453
+☋ Forks: 452
 
-★ Stars: 2482
+★ Stars: 2484
 
 [Open repository](https://github.com/Warzone2100/warzone2100)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 2484 | 452 | 
 | 2022-12-05 | 2482 | 453 | 
 | 2022-12-03 | 2480 | 453 | 
 | 2022-12-02 | 2477 | 453 | 

@@ -1,6 +1,6 @@
 # NNTU-CS/ADS-9 - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 128
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | - | 128 | 
 | 2022-12-05 | - | 128 | 
 | 2022-12-04 | - | 128 | 
 | 2022-12-02 | - | 128 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | - | 128 | 
 | 2022-11-09 | - | 128 | 
 | 2022-11-08 | - | 128 | 
-| 2022-11-06 | - | 128 | 
 

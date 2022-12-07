@@ -1,8 +1,8 @@
 # atralice/Curso.Prep.Henry - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
-☋ Forks: 26255
+☋ Forks: 26280
 
 ★ Stars: 967
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 967 | 26280 | 
 | 2022-12-04 | 967 | 26255 | 
 | 2022-12-03 | 967 | 26247 | 
 | 2022-12-02 | 966 | 26234 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 956 | 25987 | 
 | 2022-11-08 | 955 | 25978 | 
 | 2022-11-07 | 955 | 25967 | 
-| 2022-11-06 | 954 | 25946 | 
 

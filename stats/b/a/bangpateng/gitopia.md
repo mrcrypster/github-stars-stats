@@ -1,6 +1,6 @@
 # bangpateng/gitopia - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 7 | 15 | 
 | 2022-12-05 | 7 | 15 | 
 | 2022-12-04 | 7 | 15 | 
 | 2022-12-02 | 7 | 15 | 

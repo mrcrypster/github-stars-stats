@@ -1,10 +1,10 @@
 # ThrowTheSwitch/Ceedling - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 218
 
-★ Stars: 451
+★ Stars: 453
 
 [Open repository](https://github.com/ThrowTheSwitch/Ceedling)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 453 | 218 | 
 | 2022-12-05 | 451 | 218 | 
 | 2022-12-04 | 450 | 218 | 
 | 2022-12-03 | 450 | 218 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 448 | 217 | 
 | 2022-11-08 | 448 | 217 | 
 | 2022-11-07 | 448 | 217 | 
-| 2022-11-06 | 448 | 217 | 
 

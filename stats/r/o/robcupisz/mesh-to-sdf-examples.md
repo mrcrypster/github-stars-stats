@@ -1,6 +1,6 @@
 # robcupisz/mesh-to-sdf-examples - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 24 | - | 
 | 2022-12-05 | 24 | - | 
 | 2022-12-03 | 24 | - | 
 | 2022-12-02 | 24 | - | 

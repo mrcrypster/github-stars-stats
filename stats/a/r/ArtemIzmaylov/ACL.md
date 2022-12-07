@@ -1,10 +1,10 @@
 # ArtemIzmaylov/ACL - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 15
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/ArtemIzmaylov/ACL)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 25 | 15 | 
 | 2022-12-05 | 24 | 15 | 
 | 2022-12-04 | 24 | 15 | 
 | 2022-12-03 | 24 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 22 | 15 | 
 | 2022-11-08 | 22 | 15 | 
 | 2022-11-07 | 22 | 15 | 
-| 2022-11-06 | 22 | 15 | 
 

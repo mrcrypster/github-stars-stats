@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 06
 
 ☋ Forks: 1
 
-★ Stars: 50
+★ Stars: 57
 
 [Open repository](https://github.com/ashawkey/cubvh)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-06 | 50 | 1 | 
+| 2022-12-06 | 57 | 1 | 
 | 2022-12-05 | 48 | 1 | 
 

@@ -1,10 +1,10 @@
 # jcubic/wayne - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 17
 
-★ Stars: 484
+★ Stars: 485
 
 [Open repository](https://github.com/jcubic/wayne)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 485 | 17 | 
 | 2022-12-05 | 484 | 17 | 
 | 2022-12-04 | 484 | 17 | 
 | 2022-12-03 | 484 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 483 | 17 | 
 | 2022-11-08 | 483 | 17 | 
 | 2022-11-07 | 483 | 16 | 
-| 2022-11-06 | 482 | 16 | 
 

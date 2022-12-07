@@ -1,6 +1,6 @@
 # notapixelstudio/superstarfighter - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 377 | 27 | 
 | 2022-12-05 | 377 | 27 | 
 | 2022-12-04 | 377 | 27 | 
 | 2022-12-03 | 377 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 373 | 26 | 
 | 2022-11-08 | 373 | 26 | 
 | 2022-11-07 | 372 | 26 | 
-| 2022-11-06 | 372 | 26 | 
 

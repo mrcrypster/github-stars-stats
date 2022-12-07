@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 06
 
-☋ Forks: 2225
+☋ Forks: 2226
 
-★ Stars: 17990
+★ Stars: 17993
 
 [Open repository](https://github.com/filebrowser/filebrowser)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-06 | 17990 | 2225 | 
+| 2022-12-06 | 17993 | 2226 | 
 | 2022-12-05 | 17985 | 2225 | 
 | 2022-12-04 | 17951 | 2220 | 
 | 2022-12-03 | 17936 | 2218 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-09 | 17643 | 2190 | 
 | 2022-11-08 | 17628 | 2189 | 
 | 2022-11-07 | 17619 | 2188 | 
-| 2022-11-06 | 17594 | 2188 | 
 

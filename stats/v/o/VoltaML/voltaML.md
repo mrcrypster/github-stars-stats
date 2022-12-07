@@ -1,10 +1,10 @@
 # VoltaML/voltaML - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
-☋ Forks: 28
+☋ Forks: 29
 
-★ Stars: 837
+★ Stars: 878
 
 [Open repository](https://github.com/VoltaML/voltaML)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 878 | 29 | 
 | 2022-12-05 | 837 | 28 | 
 | 2022-12-04 | 802 | 29 | 
 

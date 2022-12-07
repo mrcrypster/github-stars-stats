@@ -1,10 +1,10 @@
 # MetaCoq/metacoq - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 66
 
-★ Stars: 264
+★ Stars: 265
 
 [Open repository](https://github.com/MetaCoq/metacoq)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 265 | 66 | 
 | 2022-12-05 | 264 | 66 | 
 | 2022-12-03 | 264 | 66 | 
 | 2022-12-02 | 264 | 66 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 262 | 65 | 
 | 2022-11-08 | 262 | 65 | 
 | 2022-11-07 | 262 | 65 | 
-| 2022-11-06 | 262 | 65 | 
 

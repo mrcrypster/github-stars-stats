@@ -1,10 +1,10 @@
 # warmcat/libwebsockets - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 1344
 
-★ Stars: 3718
+★ Stars: 3719
 
 [Open repository](https://github.com/warmcat/libwebsockets)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 3719 | 1344 | 
 | 2022-12-04 | 3718 | 1344 | 
 | 2022-12-03 | 3717 | 1344 | 
 | 2022-12-02 | 3715 | 1344 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 3696 | 1333 | 
 | 2022-11-08 | 3695 | 1333 | 
 | 2022-11-07 | 3694 | 1333 | 
-| 2022-11-06 | 3695 | 1334 | 
 

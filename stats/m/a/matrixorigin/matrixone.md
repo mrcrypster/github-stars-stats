@@ -1,8 +1,8 @@
 # matrixorigin/matrixone - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
-☋ Forks: 213
+☋ Forks: 214
 
 ★ Stars: 1355
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 1355 | 214 | 
 | 2022-12-05 | 1355 | 213 | 
 | 2022-12-03 | 1353 | 213 | 
 | 2022-12-02 | 1348 | 213 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 1329 | 209 | 
 | 2022-11-08 | 1330 | 209 | 
 | 2022-11-07 | 1329 | 209 | 
-| 2022-11-06 | 1328 | 208 | 
 

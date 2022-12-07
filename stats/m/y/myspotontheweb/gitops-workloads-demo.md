@@ -1,8 +1,8 @@
 # myspotontheweb/gitops-workloads-demo - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
-☋ Forks: 8
+☋ Forks: 9
 
 ★ Stars: 24
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 24 | 9 | 
 | 2022-12-05 | 24 | 8 | 
 | 2022-12-03 | 24 | 8 | 
 | 2022-12-02 | 24 | 8 | 

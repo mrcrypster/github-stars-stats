@@ -1,10 +1,10 @@
 # micro-joan/BlackStone - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 20
 
-★ Stars: 151
+★ Stars: 152
 
 [Open repository](https://github.com/micro-joan/BlackStone)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 152 | 20 | 
 | 2022-12-05 | 151 | 20 | 
 | 2022-12-03 | 151 | 20 | 
 | 2022-12-02 | 150 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 142 | 17 | 
 | 2022-11-08 | 142 | 17 | 
 | 2022-11-07 | 142 | 17 | 
-| 2022-11-06 | 142 | 17 | 
 

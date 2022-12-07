@@ -1,10 +1,10 @@
 # 0age/HomeWork - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 8
 
-★ Stars: 105
+★ Stars: 106
 
 [Open repository](https://github.com/0age/HomeWork)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 106 | 8 | 
 | 2022-12-05 | 105 | 8 | 
 | 2022-12-03 | 105 | 8 | 
 | 2022-12-02 | 105 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 107 | 8 | 
 | 2022-11-09 | 107 | 8 | 
 | 2022-11-08 | 107 | 8 | 
-| 2022-11-07 | 107 | 8 | 
 

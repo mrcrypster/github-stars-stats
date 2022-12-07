@@ -1,8 +1,8 @@
 # popking159/softcam - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
-☋ Forks: 34
+☋ Forks: 36
 
 ★ Stars: 16
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 16 | 36 | 
 | 2022-12-05 | 16 | 34 | 
 | 2022-12-04 | 16 | 34 | 
 | 2022-12-03 | 16 | 34 | 

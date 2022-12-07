@@ -1,10 +1,10 @@
 # EnterpriseQualityCoding/FizzBuzzEnterpriseEdition - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 727
 
-★ Stars: 18286
+★ Stars: 18295
 
 [Open repository](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 18295 | 727 | 
 | 2022-12-05 | 18286 | 727 | 
 | 2022-12-04 | 18282 | 727 | 
 | 2022-12-03 | 18280 | 726 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 18170 | 723 | 
 | 2022-11-08 | 18164 | 723 | 
 | 2022-11-07 | 18155 | 723 | 
-| 2022-11-06 | 18152 | 723 | 
 

@@ -1,8 +1,8 @@
 # tier3guy/Acadmica - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
-☋ Forks: 57
+☋ Forks: 58
 
 ★ Stars: 29
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 29 | 58 | 
 | 2022-12-05 | 29 | 57 | 
 | 2022-12-04 | 29 | 57 | 
 | 2022-12-03 | 29 | 57 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 29 | 57 | 
 | 2022-11-08 | 29 | 57 | 
 | 2022-11-07 | 29 | 57 | 
-| 2022-11-06 | 29 | 57 | 
 

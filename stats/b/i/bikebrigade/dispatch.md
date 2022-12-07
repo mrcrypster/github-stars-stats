@@ -1,6 +1,6 @@
 # bikebrigade/dispatch - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 59 | 5 | 
 | 2022-12-05 | 59 | 5 | 
 | 2022-12-04 | 59 | 5 | 
 | 2022-12-02 | 59 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 59 | 5 | 
 | 2022-11-09 | 59 | 5 | 
 | 2022-11-08 | 58 | 5 | 
-| 2022-11-07 | 58 | 5 | 
 

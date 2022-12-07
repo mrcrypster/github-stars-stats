@@ -1,10 +1,10 @@
 # home-assistant/home-assistant.io - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
-☋ Forks: 6131
+☋ Forks: 6134
 
-★ Stars: 3291
+★ Stars: 3292
 
 [Open repository](https://github.com/home-assistant/home-assistant.io)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 3292 | 6134 | 
 | 2022-12-04 | 3291 | 6131 | 
 | 2022-12-03 | 3289 | 6130 | 
 | 2022-12-02 | 3289 | 6130 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 3233 | 6100 | 
 | 2022-11-08 | 3232 | 6097 | 
 | 2022-11-07 | 3229 | 6097 | 
-| 2022-11-06 | 3229 | 6097 | 
 

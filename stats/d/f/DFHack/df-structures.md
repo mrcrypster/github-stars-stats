@@ -1,10 +1,10 @@
 # DFHack/df-structures - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 75
 
-★ Stars: 82
+★ Stars: 83
 
 [Open repository](https://github.com/DFHack/df-structures)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 83 | 75 | 
 | 2022-12-05 | 82 | 75 | 
 | 2022-12-03 | 82 | 75 | 
 | 2022-12-02 | 82 | 75 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 81 | 75 | 
 | 2022-11-09 | 81 | 75 | 
 | 2022-11-08 | 81 | 75 | 
-| 2022-11-07 | 81 | 75 | 
 

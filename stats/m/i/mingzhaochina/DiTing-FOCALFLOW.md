@@ -1,6 +1,6 @@
 # mingzhaochina/DiTing-FOCALFLOW - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 6 | - | 
 | 2022-12-05 | 6 | - | 
 | 2022-12-04 | 6 | - | 
 | 2022-12-03 | 6 | - | 

@@ -1,10 +1,10 @@
 # KambizAsadzadeh/CuteMobile - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 2
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/KambizAsadzadeh/CuteMobile)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 12 | 2 | 
 | 2022-12-05 | 11 | 2 | 
 | 2022-12-04 | 11 | 2 | 
 | 2022-12-02 | 11 | 2 | 

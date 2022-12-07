@@ -1,10 +1,10 @@
 # ballerina-platform/ballerina-lang - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
-☋ Forks: 696
+☋ Forks: 697
 
-★ Stars: 3181
+★ Stars: 3182
 
 [Open repository](https://github.com/ballerina-platform/ballerina-lang)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 3182 | 697 | 
 | 2022-12-04 | 3181 | 696 | 
 | 2022-12-03 | 3180 | 696 | 
 | 2022-12-02 | 3180 | 696 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 3177 | 696 | 
 | 2022-11-08 | 3176 | 696 | 
 | 2022-11-07 | 3175 | 696 | 
-| 2022-11-06 | 3176 | 695 | 
 

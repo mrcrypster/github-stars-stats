@@ -1,10 +1,10 @@
 # corpnewt/ProperTree - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 355
 
-★ Stars: 1954
+★ Stars: 1955
 
 [Open repository](https://github.com/corpnewt/ProperTree)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 1955 | 355 | 
 | 2022-12-05 | 1954 | 355 | 
 | 2022-12-04 | 1952 | 355 | 
 | 2022-12-03 | 1951 | 355 | 

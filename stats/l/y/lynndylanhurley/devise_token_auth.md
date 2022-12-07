@@ -1,6 +1,6 @@
 # lynndylanhurley/devise_token_auth - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 1114
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 3400 | 1114 | 
 | 2022-12-04 | 3400 | 1114 | 
 | 2022-12-03 | 3400 | 1113 | 
 | 2022-12-02 | 3399 | 1112 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 3387 | 1111 | 
 | 2022-11-08 | 3386 | 1111 | 
 | 2022-11-07 | 3386 | 1109 | 
-| 2022-11-06 | 3386 | 1109 | 
 

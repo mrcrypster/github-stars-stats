@@ -1,10 +1,10 @@
 # etu/nixconfig - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 11
 
-★ Stars: 62
+★ Stars: 64
 
 [Open repository](https://github.com/etu/nixconfig)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 64 | 11 | 
 | 2022-12-05 | 62 | 11 | 
 | 2022-12-03 | 62 | 11 | 
 | 2022-12-02 | 62 | 11 | 

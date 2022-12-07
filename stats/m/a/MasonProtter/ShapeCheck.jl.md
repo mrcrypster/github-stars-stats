@@ -1,6 +1,6 @@
 # MasonProtter/ShapeCheck.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 35 | - | 
 | 2022-12-05 | 35 | - | 
 | 2022-12-04 | 35 | - | 
 | 2022-12-02 | 35 | - | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 34 | - | 
 | 2022-11-09 | 34 | - | 
 | 2022-11-08 | 34 | - | 
-| 2022-11-07 | 34 | - | 
 

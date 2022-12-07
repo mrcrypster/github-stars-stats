@@ -1,10 +1,10 @@
 # desktop-app/cmake_helpers - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 43
 
-★ Stars: 51
+★ Stars: 52
 
 [Open repository](https://github.com/desktop-app/cmake_helpers)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 52 | 43 | 
 | 2022-12-05 | 51 | 43 | 
 | 2022-12-04 | 51 | 43 | 
 | 2022-12-03 | 51 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 50 | 42 | 
 | 2022-11-08 | 50 | 42 | 
 | 2022-11-07 | 50 | 42 | 
-| 2022-11-06 | 50 | 42 | 
 

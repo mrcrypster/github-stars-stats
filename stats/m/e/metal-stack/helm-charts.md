@@ -1,8 +1,8 @@
 # metal-stack/helm-charts - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | - | 2 | 
 | 2022-12-05 | - | 1 | 
 | 2022-12-04 | - | 1 | 
 | 2022-12-03 | - | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | - | 1 | 
 | 2022-11-09 | - | 1 | 
 | 2022-11-08 | - | 1 | 
-| 2022-11-07 | - | 1 | 
 

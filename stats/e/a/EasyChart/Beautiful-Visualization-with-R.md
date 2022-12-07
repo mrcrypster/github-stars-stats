@@ -1,6 +1,6 @@
 # EasyChart/Beautiful-Visualization-with-R - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 503
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 566 | 503 | 
 | 2022-12-05 | 566 | 503 | 
 | 2022-12-03 | 566 | 503 | 
 | 2022-12-02 | 565 | 503 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 559 | 498 | 
 | 2022-11-08 | 559 | 498 | 
 | 2022-11-07 | 559 | 498 | 
-| 2022-11-06 | 558 | 498 | 
 

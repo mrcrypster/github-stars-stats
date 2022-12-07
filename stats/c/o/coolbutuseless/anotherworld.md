@@ -1,6 +1,6 @@
 # coolbutuseless/anotherworld - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 67 | 2 | 
 | 2022-12-04 | 67 | 2 | 
 | 2022-12-03 | 67 | 2 | 
 | 2022-12-02 | 67 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 66 | 2 | 
 | 2022-11-08 | 66 | 2 | 
 | 2022-11-07 | 66 | 2 | 
-| 2022-11-06 | 66 | 2 | 
 

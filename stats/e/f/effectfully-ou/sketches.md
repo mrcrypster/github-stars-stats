@@ -1,10 +1,10 @@
 # effectfully-ou/sketches - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 4
 
-★ Stars: 112
+★ Stars: 113
 
 [Open repository](https://github.com/effectfully-ou/sketches)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 113 | 4 | 
 | 2022-12-05 | 112 | 4 | 
 | 2022-12-04 | 112 | 4 | 
 

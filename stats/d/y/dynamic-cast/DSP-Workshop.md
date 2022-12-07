@@ -1,6 +1,6 @@
 # dynamic-cast/DSP-Workshop - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 19 | 2 | 
 | 2022-12-05 | 19 | 2 | 
 | 2022-12-03 | 19 | 2 | 
 | 2022-12-02 | 19 | 2 | 

@@ -1,10 +1,10 @@
 # bouteillerAlan/archupdate - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 0
 
-★ Stars: 10
+★ Stars: 9
 
 [Open repository](https://github.com/bouteillerAlan/archupdate)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 9 | - | 
 | 2022-12-04 | 10 | - | 
 | 2022-12-03 | 10 | - | 
 | 2022-12-02 | 10 | - | 

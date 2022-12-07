@@ -1,6 +1,6 @@
 # ElzeroWebSchool/HTML_And_CSS_Template_Three - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 123
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 225 | 123 | 
 | 2022-12-05 | 225 | 123 | 
 | 2022-12-03 | 224 | 121 | 
 | 2022-12-02 | 223 | 120 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 219 | 119 | 
 | 2022-11-08 | 218 | 119 | 
 | 2022-11-07 | 218 | 119 | 
-| 2022-11-06 | 217 | 119 | 
 

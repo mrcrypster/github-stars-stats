@@ -1,10 +1,10 @@
 # gares/math-comp-school-2022 - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 1
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/gares/math-comp-school-2022)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 4 | 1 | 
 | 2022-12-04 | 3 | 1 | 
 | 2022-12-03 | 3 | 1 | 
 | 2022-12-02 | 3 | 1 | 

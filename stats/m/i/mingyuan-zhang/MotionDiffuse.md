@@ -1,10 +1,10 @@
 # mingyuan-zhang/MotionDiffuse - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 43
 
-★ Stars: 445
+★ Stars: 446
 
 [Open repository](https://github.com/mingyuan-zhang/MotionDiffuse)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 446 | 43 | 
 | 2022-12-04 | 445 | 43 | 
 | 2022-12-03 | 445 | 43 | 
 | 2022-12-02 | 443 | 43 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 419 | 41 | 
 | 2022-11-08 | 418 | 40 | 
 | 2022-11-07 | 415 | 40 | 
-| 2022-11-06 | 414 | 40 | 
 

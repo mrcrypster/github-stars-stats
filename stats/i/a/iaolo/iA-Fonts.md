@@ -1,10 +1,10 @@
 # iaolo/iA-Fonts - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 212
 
-★ Stars: 2759
+★ Stars: 2763
 
 [Open repository](https://github.com/iaolo/iA-Fonts)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 2763 | 212 | 
 | 2022-12-05 | 2759 | 212 | 
 | 2022-12-04 | 2759 | 212 | 
 | 2022-12-02 | 2754 | 212 | 

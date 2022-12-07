@@ -1,10 +1,10 @@
 # rs/xid - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 180
 
-★ Stars: 3115
+★ Stars: 3118
 
 [Open repository](https://github.com/rs/xid)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 3118 | 180 | 
 | 2022-12-04 | 3115 | 180 | 
 | 2022-12-03 | 3115 | 180 | 
 | 2022-12-02 | 3114 | 179 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 3076 | 178 | 
 | 2022-11-08 | 3073 | 178 | 
 | 2022-11-07 | 3070 | 178 | 
-| 2022-11-06 | 3070 | 178 | 
 

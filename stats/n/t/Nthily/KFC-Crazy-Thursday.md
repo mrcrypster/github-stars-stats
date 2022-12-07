@@ -1,10 +1,10 @@
 # Nthily/KFC-Crazy-Thursday - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 17
 
-★ Stars: 248
+★ Stars: 249
 
 [Open repository](https://github.com/Nthily/KFC-Crazy-Thursday)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 249 | 17 | 
 | 2022-12-05 | 248 | 17 | 
 | 2022-12-04 | 248 | 17 | 
 | 2022-12-02 | 248 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 243 | 17 | 
 | 2022-11-08 | 243 | 17 | 
 | 2022-11-07 | 242 | 17 | 
-| 2022-11-06 | 242 | 18 | 
 

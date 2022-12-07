@@ -1,10 +1,10 @@
 # bluesky-social/adx - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 115
 
-★ Stars: 2267
+★ Stars: 2269
 
 [Open repository](https://github.com/bluesky-social/adx)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 2269 | 115 | 
 | 2022-12-05 | 2267 | 115 | 
 | 2022-12-04 | 2266 | 115 | 
 | 2022-12-03 | 2267 | 115 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 2089 | 103 | 
 | 2022-11-08 | 2062 | 103 | 
 | 2022-11-07 | 2026 | 98 | 
-| 2022-11-06 | 1992 | 98 | 
 

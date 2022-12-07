@@ -1,10 +1,10 @@
 # borkdude/cherry - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 15
 
-★ Stars: 251
+★ Stars: 252
 
 [Open repository](https://github.com/borkdude/cherry)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 252 | 15 | 
 | 2022-12-04 | 251 | 15 | 
 | 2022-12-03 | 250 | 15 | 
 | 2022-12-02 | 249 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 240 | 13 | 
 | 2022-11-08 | 238 | 13 | 
 | 2022-11-07 | 234 | 13 | 
-| 2022-11-06 | 233 | 13 | 
 

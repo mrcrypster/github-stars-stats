@@ -1,10 +1,10 @@
 # HoangTran0410/useful-script - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
-☋ Forks: 35
+☋ Forks: 36
 
-★ Stars: 106
+★ Stars: 108
 
 [Open repository](https://github.com/HoangTran0410/useful-script)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 108 | 36 | 
 | 2022-12-04 | 106 | 35 | 
 | 2022-12-03 | 105 | 34 | 
 | 2022-12-02 | 103 | 34 | 

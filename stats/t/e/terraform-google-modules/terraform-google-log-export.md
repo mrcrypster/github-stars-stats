@@ -1,10 +1,10 @@
 # terraform-google-modules/terraform-google-log-export - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 79
 
-★ Stars: 55
+★ Stars: 56
 
 [Open repository](https://github.com/terraform-google-modules/terraform-google-log-export)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 56 | 79 | 
 | 2022-12-05 | 55 | 79 | 
 | 2022-12-04 | 55 | 79 | 
 | 2022-12-02 | 55 | 79 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 55 | 79 | 
 | 2022-11-08 | 55 | 79 | 
 | 2022-11-07 | 55 | 79 | 
-| 2022-11-06 | 55 | 79 | 
 

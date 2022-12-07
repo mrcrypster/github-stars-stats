@@ -1,6 +1,6 @@
 # x13a/Wasted - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 229 | 12 | 
 | 2022-12-05 | 229 | 12 | 
 | 2022-12-04 | 227 | 12 | 
 | 2022-12-03 | 227 | 12 | 

@@ -1,10 +1,10 @@
 # licht1stein/obsidian.el - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 7
 
-★ Stars: 101
+★ Stars: 103
 
 [Open repository](https://github.com/licht1stein/obsidian.el)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 103 | 7 | 
 | 2022-12-05 | 101 | 7 | 
 | 2022-12-03 | 100 | 7 | 
 | 2022-12-02 | 100 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 92 | 6 | 
 | 2022-11-08 | 90 | 6 | 
 | 2022-11-07 | 89 | 6 | 
-| 2022-11-06 | 89 | 6 | 
 

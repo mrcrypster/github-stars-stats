@@ -1,10 +1,10 @@
 # status-im/nim-nat-traversal - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 3
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/status-im/nim-nat-traversal)
 
@@ -13,5 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 5 | 3 | 
+| 2022-12-06 | 5 | 3 | 
 | 2022-12-05 | 4 | 3 | 
 

@@ -1,10 +1,10 @@
 # juancarlospaco/faster-than-requests - stars & forks statistics
 
-Stats updated on Dec 2022, 04
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 81
 
-★ Stars: 910
+★ Stars: 915
 
 [Open repository](https://github.com/juancarlospaco/faster-than-requests)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 915 | 81 | 
 | 2022-12-04 | 910 | 81 | 
 | 2022-12-03 | 910 | 81 | 
 | 2022-12-02 | 910 | 81 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 04
 | 2022-11-09 | 891 | 80 | 
 | 2022-11-08 | 891 | 80 | 
 | 2022-11-07 | 891 | 80 | 
-| 2022-11-06 | 892 | 80 | 
 

@@ -1,10 +1,10 @@
 # CocoaPods/CocoaPods - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
-☋ Forks: 2593
+☋ Forks: 2592
 
-★ Stars: 13909
+★ Stars: 13910
 
 [Open repository](https://github.com/CocoaPods/CocoaPods)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 13910 | 2592 | 
 | 2022-12-05 | 13909 | 2593 | 
 | 2022-12-03 | 13908 | 2593 | 
 | 2022-12-02 | 13908 | 2593 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 13891 | 2583 | 
 | 2022-11-08 | 13891 | 2581 | 
 | 2022-11-07 | 13887 | 2578 | 
-| 2022-11-06 | 13885 | 2578 | 
 

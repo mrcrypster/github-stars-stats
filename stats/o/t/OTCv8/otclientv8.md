@@ -1,8 +1,8 @@
 # OTCv8/otclientv8 - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
-☋ Forks: 131
+☋ Forks: 130
 
 ★ Stars: 195
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 195 | 130 | 
 | 2022-12-05 | 195 | 131 | 
 | 2022-12-04 | 195 | 131 | 
 | 2022-12-03 | 195 | 131 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 197 | 129 | 
 | 2022-11-08 | 196 | 129 | 
 | 2022-11-07 | 196 | 129 | 
-| 2022-11-06 | 196 | 129 | 
 

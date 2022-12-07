@@ -1,6 +1,6 @@
 # Gleb777111/lesson_1 - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | - | 23 | 
 | 2022-12-05 | - | 23 | 
 | 2022-12-03 | - | 23 | 
 | 2022-12-02 | - | - | 

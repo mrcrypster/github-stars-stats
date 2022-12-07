@@ -1,6 +1,6 @@
 # autowarefoundation/autoware_msgs - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 6 | 8 | 
 | 2022-12-05 | 6 | 8 | 
 | 2022-12-03 | 6 | 8 | 
 | 2022-12-02 | 6 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 5 | 8 | 
 | 2022-11-08 | 5 | 7 | 
 | 2022-11-07 | 5 | 7 | 
-| 2022-11-06 | 5 | 7 | 
 

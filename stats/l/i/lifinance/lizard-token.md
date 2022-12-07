@@ -1,10 +1,10 @@
 # lifinance/lizard-token - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 5
 
-★ Stars: 30
+★ Stars: 32
 
 [Open repository](https://github.com/lifinance/lizard-token)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 32 | 5 | 
 | 2022-12-05 | 30 | 5 | 
 | 2022-12-04 | 30 | 5 | 
 | 2022-12-03 | 30 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 30 | 5 | 
 | 2022-11-08 | 30 | 5 | 
 | 2022-11-07 | 30 | 5 | 
-| 2022-11-06 | 30 | 5 | 
 

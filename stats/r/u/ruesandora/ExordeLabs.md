@@ -1,10 +1,10 @@
 # ruesandora/ExordeLabs - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
-☋ Forks: 127
+☋ Forks: 129
 
-★ Stars: 57
+★ Stars: 58
 
 [Open repository](https://github.com/ruesandora/ExordeLabs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 58 | 129 | 
 | 2022-12-05 | 57 | 127 | 
 | 2022-12-04 | 57 | 126 | 
 | 2022-12-02 | 57 | 125 | 

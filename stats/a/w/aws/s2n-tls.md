@@ -1,10 +1,10 @@
 # aws/s2n-tls - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
-☋ Forks: 667
+☋ Forks: 666
 
-★ Stars: 4227
+★ Stars: 4228
 
 [Open repository](https://github.com/aws/s2n-tls)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 4228 | 666 | 
 | 2022-12-05 | 4227 | 667 | 
 | 2022-12-04 | 4226 | 667 | 
 | 2022-12-03 | 4225 | 667 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 4213 | 663 | 
 | 2022-11-08 | 4212 | 662 | 
 | 2022-11-07 | 4211 | 661 | 
-| 2022-11-06 | 4211 | 661 | 
 

@@ -1,10 +1,10 @@
 # moj-analytical-services/splink - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 61
 
-★ Stars: 392
+★ Stars: 393
 
 [Open repository](https://github.com/moj-analytical-services/splink)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 393 | 61 | 
 | 2022-12-05 | 392 | 61 | 
 | 2022-12-04 | 391 | 61 | 
 | 2022-12-03 | 391 | 61 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-09 | 354 | 57 | 
 | 2022-11-08 | 351 | 57 | 
 | 2022-11-07 | 351 | 57 | 
-| 2022-11-06 | 350 | 57 | 
 

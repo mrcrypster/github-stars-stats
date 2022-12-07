@@ -1,6 +1,6 @@
 # quanshengwu/wannier_tools - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 118
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 199 | 118 | 
 | 2022-12-05 | 199 | 118 | 
 | 2022-12-03 | 199 | 118 | 
 | 2022-12-02 | 199 | 118 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 197 | 119 | 
 | 2022-11-09 | 197 | 119 | 
 | 2022-11-08 | 196 | 119 | 
-| 2022-11-07 | 196 | 119 | 
 

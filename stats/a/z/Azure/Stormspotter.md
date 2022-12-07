@@ -1,10 +1,10 @@
 # Azure/Stormspotter - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
-☋ Forks: 165
+☋ Forks: 166
 
-★ Stars: 1221
+★ Stars: 1222
 
 [Open repository](https://github.com/Azure/Stormspotter)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 1222 | 166 | 
 | 2022-12-05 | 1221 | 165 | 
 | 2022-12-04 | 1221 | 165 | 
 | 2022-12-02 | 1220 | 165 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 1209 | 162 | 
 | 2022-11-09 | 1208 | 162 | 
 | 2022-11-08 | 1208 | 162 | 
-| 2022-11-07 | 1208 | 162 | 
 

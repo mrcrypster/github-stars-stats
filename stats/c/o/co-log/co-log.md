@@ -1,6 +1,6 @@
 # co-log/co-log - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 06
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-06 | 241 | 49 | 
 | 2022-12-05 | 241 | 49 | 
 | 2022-12-04 | 241 | 49 | 
 | 2022-12-02 | 241 | 49 | 
