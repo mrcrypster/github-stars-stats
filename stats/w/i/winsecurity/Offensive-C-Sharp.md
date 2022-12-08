@@ -1,6 +1,6 @@
 # winsecurity/Offensive-C-Sharp - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 121 | 31 | 
 | 2022-12-06 | 121 | 31 | 
 | 2022-12-04 | 120 | 31 | 
 | 2022-12-03 | 120 | 31 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 114 | 28 | 
 | 2022-11-09 | 113 | 28 | 
 | 2022-11-08 | 111 | 27 | 
-| 2022-11-07 | 111 | 27 | 
 

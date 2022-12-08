@@ -1,6 +1,6 @@
 # Licoy/wordpress-theme-puock - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 214
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 1102 | 214 | 
 | 2022-12-06 | 1102 | 214 | 
 | 2022-12-04 | 1101 | 214 | 
 | 2022-12-03 | 1099 | 213 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 1064 | 207 | 
 | 2022-11-09 | 1046 | 203 | 
 | 2022-11-08 | 1045 | 203 | 
-| 2022-11-07 | 1044 | 202 | 
 

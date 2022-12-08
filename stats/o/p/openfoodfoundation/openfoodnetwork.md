@@ -1,10 +1,10 @@
 # openfoodfoundation/openfoodnetwork - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 621
 
-★ Stars: 900
+★ Stars: 901
 
 [Open repository](https://github.com/openfoodfoundation/openfoodnetwork)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 901 | 621 | 
 | 2022-12-05 | 900 | 621 | 
 | 2022-12-04 | 899 | 621 | 
 | 2022-12-03 | 899 | 621 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 894 | 616 | 
 | 2022-11-09 | 893 | 615 | 
 | 2022-11-08 | 893 | 615 | 
-| 2022-11-07 | 892 | 615 | 
 

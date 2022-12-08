@@ -1,10 +1,10 @@
 # HemantPra389/Flutter-Open-Source-Apps - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
-☋ Forks: 14
+☋ Forks: 16
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/HemantPra389/Flutter-Open-Source-Apps)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 17 | 16 | 
 | 2022-12-06 | 16 | 14 | 
 | 2022-12-05 | 16 | 14 | 
 | 2022-12-03 | 16 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 16 | 14 | 
 | 2022-11-09 | 16 | 14 | 
 | 2022-11-08 | 16 | 14 | 
-| 2022-11-07 | 15 | 14 | 
 

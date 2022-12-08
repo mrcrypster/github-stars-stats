@@ -1,6 +1,6 @@
 # krr-up/asp-macros - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 2 | 3 | 
 | 2022-12-06 | 2 | 3 | 
 | 2022-12-05 | 2 | 3 | 
 | 2022-12-03 | 2 | 3 | 

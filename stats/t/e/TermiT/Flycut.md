@@ -1,6 +1,6 @@
 # TermiT/Flycut - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 189
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 2130 | 189 | 
 | 2022-12-06 | 2130 | 189 | 
 | 2022-12-05 | 2129 | 189 | 
 | 2022-12-04 | 2129 | 189 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 2116 | 190 | 
 | 2022-11-09 | 2116 | 190 | 
 | 2022-11-08 | 2114 | 190 | 
-| 2022-11-07 | 2112 | 190 | 
 

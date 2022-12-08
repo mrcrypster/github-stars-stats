@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 07
 
 ☋ Forks: 13
 
-★ Stars: 580
+★ Stars: 582
 
 [Open repository](https://github.com/VonHeikemen/lsp-zero.nvim)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-07 | 580 | 13 | 
+| 2022-12-07 | 582 | 13 | 
 | 2022-12-06 | 569 | 13 | 
 | 2022-12-04 | 464 | 13 | 
 | 2022-12-03 | 458 | 13 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-10 | 430 | 13 | 
 | 2022-11-09 | 430 | 13 | 
 | 2022-11-08 | 428 | 13 | 
-| 2022-11-07 | 429 | 13 | 
 

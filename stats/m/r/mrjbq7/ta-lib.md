@@ -1,8 +1,8 @@
 # mrjbq7/ta-lib - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
-☋ Forks: 1422
+☋ Forks: 1423
 
 ★ Stars: 7215
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 7215 | 1423 | 
 | 2022-12-06 | 7215 | 1422 | 
 | 2022-12-05 | 7212 | 1422 | 
 | 2022-12-04 | 7209 | 1420 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 7147 | 1417 | 
 | 2022-11-09 | 7144 | 1415 | 
 | 2022-11-08 | 7140 | 1415 | 
-| 2022-11-07 | 7137 | 1414 | 
 

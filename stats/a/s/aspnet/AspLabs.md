@@ -1,10 +1,10 @@
 # aspnet/AspLabs - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 317
 
-★ Stars: 1113
+★ Stars: 1114
 
 [Open repository](https://github.com/aspnet/AspLabs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 1114 | 317 | 
 | 2022-12-06 | 1113 | 317 | 
 | 2022-12-05 | 1112 | 314 | 
 | 2022-12-03 | 1111 | 314 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 1098 | 303 | 
 | 2022-11-09 | 1095 | 303 | 
 | 2022-11-08 | 1095 | 303 | 
-| 2022-11-07 | 1095 | 303 | 
 

@@ -1,6 +1,6 @@
 # LinuxSuRen/remote-jobs-in-china - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 80
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 1945 | 80 | 
 | 2022-12-06 | 1945 | 80 | 
 | 2022-12-04 | 1945 | 80 | 
 | 2022-12-03 | 1945 | 80 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 1909 | 77 | 
 | 2022-11-09 | 1909 | 77 | 
 | 2022-11-08 | 1907 | 78 | 
-| 2022-11-07 | 1907 | 78 | 
 

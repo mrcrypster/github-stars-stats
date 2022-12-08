@@ -1,10 +1,10 @@
 # delta-io/delta-rs - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
-☋ Forks: 151
+☋ Forks: 152
 
-★ Stars: 738
+★ Stars: 741
 
 [Open repository](https://github.com/delta-io/delta-rs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 741 | 152 | 
 | 2022-12-05 | 738 | 151 | 
 | 2022-12-04 | 736 | 151 | 
 | 2022-12-03 | 735 | 151 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 683 | 141 | 
 | 2022-11-09 | 680 | 141 | 
 | 2022-11-08 | 679 | 141 | 
-| 2022-11-07 | 677 | 141 | 
 

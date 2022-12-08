@@ -1,6 +1,6 @@
 # rust-lang/www.rust-lang.org - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 262
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 297 | 262 | 
 | 2022-12-06 | 297 | 262 | 
 | 2022-12-04 | 297 | 262 | 
 | 2022-12-03 | 296 | 262 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 293 | 261 | 
 | 2022-11-09 | 293 | 262 | 
 | 2022-11-08 | 292 | 262 | 
-| 2022-11-07 | 292 | 260 | 
 

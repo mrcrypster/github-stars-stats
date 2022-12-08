@@ -1,10 +1,10 @@
 # un-pany/v3-admin-vite - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
-☋ Forks: 150
+☋ Forks: 152
 
-★ Stars: 588
+★ Stars: 589
 
 [Open repository](https://github.com/un-pany/v3-admin-vite)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 589 | 152 | 
 | 2022-12-06 | 588 | 150 | 
 | 2022-12-05 | 586 | 148 | 
 | 2022-12-03 | 581 | 148 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 487 | 135 | 
 | 2022-11-09 | 486 | 135 | 
 | 2022-11-08 | 481 | 133 | 
-| 2022-11-07 | 476 | 130 | 
 

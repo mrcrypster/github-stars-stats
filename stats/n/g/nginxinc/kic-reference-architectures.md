@@ -1,6 +1,6 @@
 # nginxinc/kic-reference-architectures - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 78
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 556 | 78 | 
 | 2022-12-05 | 556 | 78 | 
 | 2022-12-04 | 556 | 78 | 
 | 2022-12-03 | 555 | 78 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 547 | 76 | 
 | 2022-11-09 | 547 | 75 | 
 | 2022-11-08 | 545 | 75 | 
-| 2022-11-07 | 545 | 75 | 
 

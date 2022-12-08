@@ -1,10 +1,10 @@
 # GavinZhuLei/vue-form-making - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 1395
 
-★ Stars: 4983
+★ Stars: 4984
 
 [Open repository](https://github.com/GavinZhuLei/vue-form-making)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 4984 | 1395 | 
 | 2022-12-06 | 4983 | 1395 | 
 | 2022-12-05 | 4981 | 1396 | 
 | 2022-12-03 | 4981 | 1397 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-11 | 4957 | 1389 | 
 | 2022-11-10 | 4953 | 1389 | 
 | 2022-11-09 | 4952 | 1388 | 
-| 2022-11-08 | 4949 | 1388 | 
 

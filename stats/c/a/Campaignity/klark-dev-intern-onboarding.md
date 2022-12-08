@@ -1,8 +1,8 @@
 # Campaignity/klark-dev-intern-onboarding - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
-☋ Forks: 14
+☋ Forks: 15
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | - | 15 | 
 | 2022-12-05 | - | 14 | 
 | 2022-12-04 | - | 14 | 
 | 2022-12-03 | - | 14 | 

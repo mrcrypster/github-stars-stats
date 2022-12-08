@@ -1,10 +1,10 @@
 # BankSecurity/Red_Team - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 362
 
-★ Stars: 1426
+★ Stars: 1427
 
 [Open repository](https://github.com/BankSecurity/Red_Team)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 1427 | 362 | 
 | 2022-12-05 | 1426 | 362 | 
 | 2022-12-04 | 1426 | 362 | 
 | 2022-12-03 | 1425 | 361 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 1413 | 359 | 
 | 2022-11-09 | 1414 | 359 | 
 | 2022-11-08 | 1414 | 359 | 
-| 2022-11-07 | 1412 | 360 | 
 

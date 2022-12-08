@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 07
 
 ☋ Forks: 116
 
-★ Stars: 876
+★ Stars: 880
 
 [Open repository](https://github.com/FxPool/FXMinerProxy)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-07 | 876 | 116 | 
+| 2022-12-07 | 880 | 116 | 
 | 2022-12-06 | 873 | 115 | 
 | 2022-12-05 | 850 | 111 | 
 | 2022-12-03 | 810 | 106 | 

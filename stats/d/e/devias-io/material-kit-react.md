@@ -1,10 +1,10 @@
 # devias-io/material-kit-react - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 1817
 
-★ Stars: 4241
+★ Stars: 4246
 
 [Open repository](https://github.com/devias-io/material-kit-react)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 4246 | 1817 | 
 | 2022-12-06 | 4241 | 1817 | 
 | 2022-12-05 | 4241 | 1816 | 
 | 2022-12-04 | 4241 | 1816 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 4202 | 1796 | 
 | 2022-11-09 | 4200 | 1794 | 
 | 2022-11-08 | 4199 | 1795 | 
-| 2022-11-07 | 4197 | 1795 | 
 

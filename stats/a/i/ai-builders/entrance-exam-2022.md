@@ -1,8 +1,8 @@
 # ai-builders/entrance-exam-2022 - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
-☋ Forks: 21
+☋ Forks: 22
 
 ★ Stars: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 10 | 22 | 
 | 2022-12-05 | 10 | 21 | 
 | 2022-12-04 | 10 | 21 | 
 | 2022-12-03 | 10 | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 10 | 21 | 
 | 2022-11-09 | 10 | 21 | 
 | 2022-11-08 | 10 | 21 | 
-| 2022-11-07 | 10 | 21 | 
 

@@ -1,10 +1,10 @@
 # tytydraco/LADB - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 318
 
-★ Stars: 1100
+★ Stars: 1104
 
 [Open repository](https://github.com/tytydraco/LADB)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 1104 | 318 | 
 | 2022-12-05 | 1100 | 318 | 
 | 2022-12-04 | 1099 | 318 | 
 | 2022-12-03 | 1098 | 319 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 1070 | 315 | 
 | 2022-11-09 | 1069 | 314 | 
 | 2022-11-08 | 1068 | 314 | 
-| 2022-11-07 | 1067 | 313 | 
 

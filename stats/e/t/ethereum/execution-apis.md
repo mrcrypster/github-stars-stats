@@ -1,10 +1,10 @@
 # ethereum/execution-apis - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
-☋ Forks: 221
+☋ Forks: 223
 
-★ Stars: 518
+★ Stars: 521
 
 [Open repository](https://github.com/ethereum/execution-apis)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 521 | 223 | 
 | 2022-12-06 | 518 | 221 | 
 | 2022-12-05 | 518 | 221 | 
 | 2022-12-04 | 516 | 220 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 487 | 211 | 
 | 2022-11-09 | 486 | 210 | 
 | 2022-11-08 | 483 | 210 | 
-| 2022-11-07 | 481 | 210 | 
 

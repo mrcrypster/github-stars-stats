@@ -1,10 +1,10 @@
 # seanmonstar/reqwest - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
-☋ Forks: 749
+☋ Forks: 750
 
-★ Stars: 6626
+★ Stars: 6638
 
 [Open repository](https://github.com/seanmonstar/reqwest)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 6638 | 750 | 
 | 2022-12-06 | 6626 | 749 | 
 | 2022-12-05 | 6623 | 749 | 
 | 2022-12-04 | 6616 | 749 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 6519 | 745 | 
 | 2022-11-09 | 6514 | 746 | 
 | 2022-11-08 | 6512 | 747 | 
-| 2022-11-07 | 6510 | 745 | 
 

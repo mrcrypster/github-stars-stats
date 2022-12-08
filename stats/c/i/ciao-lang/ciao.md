@@ -1,10 +1,10 @@
 # ciao-lang/ciao - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 14
 
-★ Stars: 181
+★ Stars: 182
 
 [Open repository](https://github.com/ciao-lang/ciao)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 182 | 14 | 
 | 2022-12-06 | 181 | 14 | 
 | 2022-12-04 | 181 | 14 | 
 | 2022-12-03 | 181 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 178 | 14 | 
 | 2022-11-09 | 178 | 14 | 
 | 2022-11-08 | 176 | 14 | 
-| 2022-11-07 | 176 | 14 | 
 

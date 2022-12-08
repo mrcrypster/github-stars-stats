@@ -1,6 +1,6 @@
 # Infinitybeond1/aurc - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 8 | - | 
 | 2022-12-06 | 8 | - | 
 | 2022-12-05 | 8 | - | 
 | 2022-12-04 | 8 | - | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 9 | - | 
 | 2022-11-09 | 9 | - | 
 | 2022-11-08 | 9 | - | 
-| 2022-11-07 | 9 | - | 
 

@@ -1,6 +1,6 @@
 # zo0r/react-native-push-notification - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 1982
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 6519 | 1982 | 
 | 2022-12-05 | 6519 | 1982 | 
 | 2022-12-04 | 6518 | 1979 | 
 | 2022-12-03 | 6517 | 1979 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 6504 | 1976 | 
 | 2022-11-09 | 6502 | 1975 | 
 | 2022-11-08 | 6502 | 1974 | 
-| 2022-11-07 | 6498 | 1973 | 
 

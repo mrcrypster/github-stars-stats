@@ -1,10 +1,10 @@
 # pglombardo/PasswordPusher - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 226
 
-★ Stars: 982
+★ Stars: 984
 
 [Open repository](https://github.com/pglombardo/PasswordPusher)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 984 | 226 | 
 | 2022-12-05 | 982 | 226 | 
 | 2022-12-04 | 980 | 225 | 
 | 2022-12-03 | 979 | 225 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 946 | 222 | 
 | 2022-11-09 | 945 | 222 | 
 | 2022-11-08 | 945 | 222 | 
-| 2022-11-07 | 944 | 222 | 
 

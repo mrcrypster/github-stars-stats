@@ -1,6 +1,6 @@
 # EC-CUBE/ec-cube - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 613
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 693 | 613 | 
 | 2022-12-05 | 693 | 613 | 
 | 2022-12-04 | 693 | 613 | 
 | 2022-12-03 | 693 | 613 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 690 | 615 | 
 | 2022-11-09 | 690 | 615 | 
 | 2022-11-08 | 690 | 615 | 
-| 2022-11-07 | 690 | 615 | 
 

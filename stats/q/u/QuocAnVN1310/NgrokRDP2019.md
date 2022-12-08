@@ -1,6 +1,6 @@
 # QuocAnVN1310/NgrokRDP2019 - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 2 | 38 | 
 | 2022-12-06 | 2 | 38 | 
 | 2022-12-05 | 2 | 38 | 
 | 2022-12-04 | 2 | 38 | 

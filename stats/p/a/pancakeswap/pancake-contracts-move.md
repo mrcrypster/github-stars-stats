@@ -1,6 +1,6 @@
 # pancakeswap/pancake-contracts-move - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 33 | 23 | 
 | 2022-12-06 | 33 | 23 | 
 | 2022-12-04 | 33 | 22 | 
 | 2022-12-03 | 32 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 24 | 16 | 
 | 2022-11-09 | 23 | 15 | 
 | 2022-11-08 | 23 | 14 | 
-| 2022-11-07 | 21 | 14 | 
 

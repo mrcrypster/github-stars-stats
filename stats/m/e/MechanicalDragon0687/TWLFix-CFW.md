@@ -1,6 +1,6 @@
 # MechanicalDragon0687/TWLFix-CFW - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 40 | 3 | 
 | 2022-12-05 | 40 | 3 | 
 | 2022-12-04 | 40 | 3 | 
 | 2022-12-03 | 40 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 39 | 3 | 
 | 2022-11-09 | 39 | 3 | 
 | 2022-11-08 | 39 | 3 | 
-| 2022-11-07 | 39 | 3 | 
 

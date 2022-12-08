@@ -1,6 +1,6 @@
 # maralorn/nix-output-monitor - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 197 | 8 | 
 | 2022-12-06 | 197 | 8 | 
 | 2022-12-05 | 197 | 8 | 
 | 2022-12-04 | 197 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 188 | 8 | 
 | 2022-11-09 | 188 | 8 | 
 | 2022-11-08 | 188 | 8 | 
-| 2022-11-07 | 187 | 8 | 
 

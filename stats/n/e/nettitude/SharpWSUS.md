@@ -1,10 +1,10 @@
 # nettitude/SharpWSUS - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 50
 
-★ Stars: 341
+★ Stars: 342
 
 [Open repository](https://github.com/nettitude/SharpWSUS)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 342 | 50 | 
 | 2022-12-06 | 341 | 50 | 
 | 2022-12-04 | 341 | 50 | 
 | 2022-12-03 | 341 | 50 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 339 | 49 | 
 | 2022-11-09 | 339 | 49 | 
 | 2022-11-08 | 338 | 49 | 
-| 2022-11-07 | 338 | 49 | 
 

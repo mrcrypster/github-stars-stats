@@ -1,10 +1,10 @@
 # quocviethere/Coursera-Machine-Learning-Specialization - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
-☋ Forks: 58
+☋ Forks: 61
 
-★ Stars: 80
+★ Stars: 85
 
 [Open repository](https://github.com/quocviethere/Coursera-Machine-Learning-Specialization)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 85 | 61 | 
 | 2022-12-06 | 80 | 58 | 
 | 2022-12-05 | 80 | 57 | 
 | 2022-12-04 | 80 | 56 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 70 | 52 | 
 | 2022-11-09 | 70 | 51 | 
 | 2022-11-08 | 71 | 51 | 
-| 2022-11-07 | 71 | 50 | 
 

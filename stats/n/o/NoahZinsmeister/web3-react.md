@@ -1,10 +1,10 @@
 # NoahZinsmeister/web3-react - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 1185
 
-★ Stars: 4590
+★ Stars: 4594
 
 [Open repository](https://github.com/NoahZinsmeister/web3-react)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 4594 | 1185 | 
 | 2022-12-06 | 4590 | 1185 | 
 | 2022-12-05 | 4590 | 1184 | 
 | 2022-12-04 | 4586 | 1182 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 4510 | 1157 | 
 | 2022-11-09 | 4506 | 1155 | 
 | 2022-11-08 | 4503 | 1153 | 
-| 2022-11-07 | 4500 | 1149 | 
 

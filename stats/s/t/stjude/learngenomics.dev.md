@@ -1,10 +1,10 @@
 # stjude/learngenomics.dev - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 23
 
-★ Stars: 268
+★ Stars: 269
 
 [Open repository](https://github.com/stjude/learngenomics.dev)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 269 | 23 | 
 | 2022-12-06 | 268 | 23 | 
 | 2022-12-05 | 266 | 23 | 
 | 2022-12-03 | 263 | 23 | 

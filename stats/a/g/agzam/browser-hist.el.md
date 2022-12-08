@@ -1,10 +1,10 @@
 # agzam/browser-hist.el - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 2
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/agzam/browser-hist.el)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 16 | 2 | 
 | 2022-12-06 | 15 | 2 | 
 | 2022-12-04 | 14 | 1 | 
 | 2022-12-03 | 13 | 1 | 

@@ -1,10 +1,10 @@
 # NEST-Protocol/NESTRedEnvelopesBot - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 2
 
-★ Stars: 389
+★ Stars: 391
 
 [Open repository](https://github.com/NEST-Protocol/NESTRedEnvelopesBot)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 391 | 2 | 
 | 2022-12-06 | 389 | 2 | 
 | 2022-12-04 | 387 | 2 | 
 | 2022-12-03 | 385 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 323 | 2 | 
 | 2022-11-09 | 323 | 2 | 
 | 2022-11-08 | 323 | 2 | 
-| 2022-11-07 | 318 | 1 | 
 

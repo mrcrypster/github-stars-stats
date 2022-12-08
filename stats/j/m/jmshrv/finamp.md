@@ -1,10 +1,10 @@
 # jmshrv/finamp - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 53
 
-★ Stars: 692
+★ Stars: 694
 
 [Open repository](https://github.com/jmshrv/finamp)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 694 | 53 | 
 | 2022-12-06 | 692 | 53 | 
 | 2022-12-05 | 693 | 52 | 
 | 2022-12-04 | 693 | 52 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 663 | 50 | 
 | 2022-11-09 | 661 | 50 | 
 | 2022-11-08 | 660 | 50 | 
-| 2022-11-07 | 660 | 50 | 
 

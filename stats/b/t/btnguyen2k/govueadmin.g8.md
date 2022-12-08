@@ -1,10 +1,10 @@
 # btnguyen2k/govueadmin.g8 - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
-☋ Forks: 24
+☋ Forks: 25
 
-★ Stars: 38
+★ Stars: 39
 
 [Open repository](https://github.com/btnguyen2k/govueadmin.g8)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 39 | 25 | 
 | 2022-12-06 | 38 | 24 | 
 | 2022-12-04 | 38 | 24 | 
 | 2022-12-03 | 38 | 24 | 

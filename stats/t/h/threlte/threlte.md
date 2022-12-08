@@ -1,10 +1,10 @@
 # threlte/threlte - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 34
 
-★ Stars: 507
+★ Stars: 510
 
 [Open repository](https://github.com/threlte/threlte)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 510 | 34 | 
 | 2022-12-06 | 507 | 34 | 
 | 2022-12-05 | 501 | 34 | 
 | 2022-12-04 | 496 | 34 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 398 | 24 | 
 | 2022-11-09 | 398 | 24 | 
 | 2022-11-08 | 395 | 24 | 
-| 2022-11-07 | 389 | 24 | 
 

@@ -1,10 +1,10 @@
 # ARF-SS13/coyote-bayou - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
-☋ Forks: 59
+☋ Forks: 60
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/ARF-SS13/coyote-bayou)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 8 | 60 | 
 | 2022-12-06 | 7 | 59 | 
 | 2022-12-04 | 7 | 59 | 
 | 2022-12-03 | 7 | 59 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-11 | 4 | 55 | 
 | 2022-11-10 | 4 | 55 | 
 | 2022-11-09 | 4 | 55 | 
-| 2022-11-08 | 4 | 55 | 
 

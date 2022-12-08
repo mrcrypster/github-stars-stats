@@ -1,10 +1,10 @@
 # external-secrets/external-secrets - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
-☋ Forks: 354
+☋ Forks: 356
 
-★ Stars: 1974
+★ Stars: 1983
 
 [Open repository](https://github.com/external-secrets/external-secrets)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 1983 | 356 | 
 | 2022-12-06 | 1974 | 354 | 
 | 2022-12-04 | 1968 | 353 | 
 | 2022-12-03 | 1964 | 352 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 1880 | 336 | 
 | 2022-11-09 | 1877 | 336 | 
 | 2022-11-08 | 1872 | 335 | 
-| 2022-11-07 | 1870 | 334 | 
 

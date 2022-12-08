@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 07
 
-☋ Forks: 5856
+☋ Forks: 5854
 
-★ Stars: 5961
+★ Stars: 5960
 
 [Open repository](https://github.com/GoogleCloudPlatform/python-docs-samples)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-07 | 5961 | 5856 | 
+| 2022-12-07 | 5960 | 5854 | 
 | 2022-12-06 | 5960 | 5855 | 
 | 2022-12-04 | 5955 | 5852 | 
 | 2022-12-03 | 5955 | 5851 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-10 | 5907 | 5816 | 
 | 2022-11-09 | 5903 | 5810 | 
 | 2022-11-08 | 5901 | 5810 | 
-| 2022-11-07 | 5899 | 5808 | 
 

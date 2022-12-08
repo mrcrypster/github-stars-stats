@@ -1,6 +1,6 @@
 # adobe-fonts/source-han-code-jp - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 1500 | 53 | 
 | 2022-12-06 | 1500 | 53 | 
 | 2022-12-05 | 1500 | 53 | 
 | 2022-12-04 | 1500 | 53 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 1497 | 54 | 
 | 2022-11-09 | 1497 | 54 | 
 | 2022-11-08 | 1497 | 54 | 
-| 2022-11-07 | 1497 | 54 | 
 

@@ -1,6 +1,6 @@
 # kana/vim-textobj-user - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 1374 | 50 | 
 | 2022-12-06 | 1374 | 50 | 
 | 2022-12-05 | 1374 | 50 | 
 | 2022-12-04 | 1374 | 50 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 1363 | 50 | 
 | 2022-11-09 | 1363 | 50 | 
 | 2022-11-08 | 1363 | 50 | 
-| 2022-11-07 | 1363 | 50 | 
 

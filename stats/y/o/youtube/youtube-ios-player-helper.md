@@ -1,10 +1,10 @@
 # youtube/youtube-ios-player-helper - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 671
 
-★ Stars: 1518
+★ Stars: 1519
 
 [Open repository](https://github.com/youtube/youtube-ios-player-helper)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 1519 | 671 | 
 | 2022-12-06 | 1518 | 671 | 
 | 2022-12-05 | 1517 | 671 | 
 | 2022-12-03 | 1517 | 671 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-11 | 1509 | 670 | 
 | 2022-11-10 | 1508 | 670 | 
 | 2022-11-09 | 1507 | 670 | 
-| 2022-11-08 | 1507 | 670 | 
 

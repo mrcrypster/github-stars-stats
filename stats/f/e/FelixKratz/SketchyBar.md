@@ -1,10 +1,10 @@
 # FelixKratz/SketchyBar - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 28
 
-★ Stars: 1330
+★ Stars: 1338
 
 [Open repository](https://github.com/FelixKratz/SketchyBar)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 1338 | 28 | 
 | 2022-12-05 | 1330 | 28 | 
 | 2022-12-04 | 1326 | 28 | 
 | 2022-12-03 | 1322 | 28 | 

@@ -1,6 +1,6 @@
 # tompave/fun_with_flags - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 804 | 58 | 
 | 2022-12-06 | 804 | 58 | 
 | 2022-12-05 | 804 | 58 | 
 | 2022-12-04 | 804 | 58 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 796 | 57 | 
 | 2022-11-09 | 795 | 57 | 
 | 2022-11-08 | 793 | 57 | 
-| 2022-11-07 | 794 | 57 | 
 

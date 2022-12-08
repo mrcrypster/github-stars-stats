@@ -1,10 +1,10 @@
 # ricardocamisa/clsTextBox - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 3
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/ricardocamisa/clsTextBox)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 15 | 3 | 
 | 2022-12-06 | 14 | 3 | 
 | 2022-12-04 | 14 | 3 | 
 | 2022-12-03 | 14 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 13 | 2 | 
 | 2022-11-09 | 13 | 2 | 
 | 2022-11-08 | 13 | 2 | 
-| 2022-11-07 | 13 | 2 | 
 

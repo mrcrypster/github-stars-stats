@@ -1,10 +1,10 @@
 # actions/node-versions - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
-☋ Forks: 59
+☋ Forks: 60
 
-★ Stars: 59
+★ Stars: 60
 
 [Open repository](https://github.com/actions/node-versions)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 60 | 60 | 
 | 2022-12-06 | 59 | 59 | 
 | 2022-12-05 | 59 | 59 | 
 | 2022-12-04 | 59 | 59 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 59 | 57 | 
 | 2022-11-09 | 59 | 57 | 
 | 2022-11-08 | 59 | 57 | 
-| 2022-11-07 | 59 | 57 | 
 

@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 07
 
 ☋ Forks: 243
 
-★ Stars: 4815
+★ Stars: 4820
 
 [Open repository](https://github.com/unisonweb/unison)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-07 | 4815 | 243 | 
+| 2022-12-07 | 4820 | 243 | 
 | 2022-12-05 | 4812 | 243 | 
 | 2022-12-04 | 4810 | 243 | 
 | 2022-12-03 | 4809 | 243 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-10 | 4671 | 238 | 
 | 2022-11-09 | 4671 | 238 | 
 | 2022-11-08 | 4672 | 238 | 
-| 2022-11-07 | 4671 | 240 | 
 

@@ -1,6 +1,6 @@
 # EmeraldSnorlax/manjarno - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 74 | 9 | 
 | 2022-12-06 | 74 | 9 | 
 | 2022-12-05 | 74 | 9 | 
 | 2022-12-03 | 70 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 67 | 9 | 
 | 2022-11-09 | 67 | 9 | 
 | 2022-11-08 | 67 | 9 | 
-| 2022-11-07 | 67 | 9 | 
 

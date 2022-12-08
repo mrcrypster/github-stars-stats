@@ -1,6 +1,6 @@
 # FuckRedTeam/360tianqingRCE - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 68 | 36 | 
 | 2022-12-06 | 68 | 36 | 
 | 2022-12-05 | 68 | 36 | 
 | 2022-12-04 | 68 | 36 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-11 | 67 | 37 | 
 | 2022-11-10 | 67 | 37 | 
 | 2022-11-09 | 68 | 37 | 
-| 2022-11-08 | 68 | 37 | 
 

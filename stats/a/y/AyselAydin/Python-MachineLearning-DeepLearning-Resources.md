@@ -1,10 +1,10 @@
 # AyselAydin/Python-MachineLearning-DeepLearning-Resources - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 1
 
-★ Stars: 66
+★ Stars: 70
 
 [Open repository](https://github.com/AyselAydin/Python-MachineLearning-DeepLearning-Resources)
 
@@ -13,5 +13,6 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 70 | 1 | 
 | 2022-12-06 | 66 | 1 | 
 

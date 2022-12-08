@@ -1,10 +1,10 @@
 # tshort/StaticCompiler.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 22
 
-★ Stars: 349
+★ Stars: 350
 
 [Open repository](https://github.com/tshort/StaticCompiler.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 350 | 22 | 
 | 2022-12-06 | 349 | 22 | 
 | 2022-12-05 | 349 | 22 | 
 | 2022-12-03 | 349 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 342 | 22 | 
 | 2022-11-09 | 342 | 22 | 
 | 2022-11-08 | 341 | 22 | 
-| 2022-11-07 | 341 | 22 | 
 

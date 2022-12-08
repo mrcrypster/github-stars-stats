@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 07
 
 ☋ Forks: 2627
 
-★ Stars: 356
+★ Stars: 358
 
 [Open repository](https://github.com/terraform-aws-modules/terraform-aws-s3-bucket)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-07 | 356 | 2627 | 
+| 2022-12-07 | 358 | 2627 | 
 | 2022-12-06 | 356 | 2624 | 
 | 2022-12-04 | 356 | 2614 | 
 | 2022-12-03 | 356 | 2612 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-10 | 350 | 2551 | 
 | 2022-11-09 | 349 | 2550 | 
 | 2022-11-08 | 349 | 2529 | 
-| 2022-11-07 | 347 | 2523 | 
 

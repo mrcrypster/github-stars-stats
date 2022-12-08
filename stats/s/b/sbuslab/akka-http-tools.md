@@ -1,8 +1,8 @@
 # sbuslab/akka-http-tools - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
-☋ Forks: 2
+☋ Forks: 3
 
 ★ Stars: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 8 | 3 | 
 | 2022-12-06 | 8 | 2 | 
 | 2022-12-04 | 8 | 2 | 
 | 2022-12-03 | 8 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 7 | 2 | 
 | 2022-11-09 | 6 | 2 | 
 | 2022-11-08 | 6 | 2 | 
-| 2022-11-07 | 6 | 2 | 
 

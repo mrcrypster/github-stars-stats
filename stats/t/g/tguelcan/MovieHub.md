@@ -1,10 +1,10 @@
 # tguelcan/MovieHub - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 2
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/tguelcan/MovieHub)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 20 | 2 | 
 | 2022-12-05 | 19 | 2 | 
 | 2022-12-04 | 19 | 2 | 
 | 2022-12-03 | 19 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 18 | 2 | 
 | 2022-11-09 | 18 | 2 | 
 | 2022-11-08 | 18 | 2 | 
-| 2022-11-07 | 18 | 2 | 
 

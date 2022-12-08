@@ -1,10 +1,10 @@
 # jtdaugherty/brick - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
-☋ Forks: 157
+☋ Forks: 158
 
-★ Stars: 1383
+★ Stars: 1384
 
 [Open repository](https://github.com/jtdaugherty/brick)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 1384 | 158 | 
 | 2022-12-06 | 1383 | 157 | 
 | 2022-12-04 | 1383 | 156 | 
 | 2022-12-03 | 1382 | 155 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 1361 | 153 | 
 | 2022-11-09 | 1362 | 153 | 
 | 2022-11-08 | 1362 | 153 | 
-| 2022-11-07 | 1361 | 153 | 
 

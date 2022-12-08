@@ -1,6 +1,6 @@
 # Salmon-family/MovieApp - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 36 | 15 | 
 | 2022-12-05 | 36 | 15 | 
 | 2022-12-04 | 35 | 15 | 
 | 2022-12-03 | 34 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 30 | 12 | 
 | 2022-11-09 | 30 | 12 | 
 | 2022-11-08 | 30 | 11 | 
-| 2022-11-07 | 29 | 11 | 
 

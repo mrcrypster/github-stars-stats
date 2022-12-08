@@ -1,10 +1,10 @@
 # aspnet-contrib/AspNet.Security.OAuth.Providers - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
-☋ Forks: 475
+☋ Forks: 476
 
-★ Stars: 1943
+★ Stars: 1945
 
 [Open repository](https://github.com/aspnet-contrib/AspNet.Security.OAuth.Providers)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 1945 | 476 | 
 | 2022-12-05 | 1943 | 475 | 
 | 2022-12-04 | 1943 | 475 | 
 | 2022-12-03 | 1939 | 474 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 1916 | 469 | 
 | 2022-11-09 | 1916 | 470 | 
 | 2022-11-08 | 1915 | 470 | 
-| 2022-11-07 | 1913 | 470 | 
 

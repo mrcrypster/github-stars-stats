@@ -1,10 +1,10 @@
 # doocs/md - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
-☋ Forks: 487
+☋ Forks: 488
 
-★ Stars: 3559
+★ Stars: 3563
 
 [Open repository](https://github.com/doocs/md)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 3563 | 488 | 
 | 2022-12-05 | 3559 | 487 | 
 | 2022-12-04 | 3553 | 487 | 
 | 2022-12-03 | 3552 | 487 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 3497 | 479 | 
 | 2022-11-09 | 3497 | 480 | 
 | 2022-11-08 | 3495 | 480 | 
-| 2022-11-07 | 3493 | 480 | 
 

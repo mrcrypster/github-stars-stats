@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 07
 
-☋ Forks: 356
+☋ Forks: 357
 
-★ Stars: 1883
+★ Stars: 1885
 
 [Open repository](https://github.com/JetBrains/intellij-platform-plugin-template)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-07 | 1883 | 356 | 
+| 2022-12-07 | 1885 | 357 | 
 | 2022-12-06 | 1883 | 356 | 
 | 2022-12-04 | 1876 | 355 | 
 | 2022-12-03 | 1873 | 354 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-10 | 1832 | 342 | 
 | 2022-11-09 | 1829 | 342 | 
 | 2022-11-08 | 1829 | 341 | 
-| 2022-11-07 | 1827 | 341 | 
 

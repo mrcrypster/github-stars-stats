@@ -1,6 +1,6 @@
 # eigenco/frankenpi - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 83 | 2 | 
 | 2022-12-06 | 83 | 2 | 
 | 2022-12-04 | 82 | 2 | 
 | 2022-12-03 | 82 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 7 | 1 | 
 | 2022-11-09 | 7 | 1 | 
 | 2022-11-08 | 7 | 1 | 
-| 2022-11-07 | 7 | 1 | 
 

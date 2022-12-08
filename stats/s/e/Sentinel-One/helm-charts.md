@@ -1,10 +1,10 @@
 # Sentinel-One/helm-charts - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 5
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/Sentinel-One/helm-charts)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 9 | 5 | 
 | 2022-12-06 | 8 | 5 | 
 | 2022-12-05 | 8 | 5 | 
 | 2022-12-04 | 8 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 8 | 5 | 
 | 2022-11-09 | 8 | 5 | 
 | 2022-11-08 | 8 | 5 | 
-| 2022-11-07 | 8 | 5 | 
 

@@ -1,10 +1,10 @@
 # dendibakh/perf-book - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 75
 
-★ Stars: 975
+★ Stars: 982
 
 [Open repository](https://github.com/dendibakh/perf-book)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 982 | 75 | 
 | 2022-12-05 | 975 | 75 | 
 | 2022-12-04 | 976 | 75 | 
 | 2022-12-03 | 976 | 75 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 972 | 75 | 
 | 2022-11-09 | 972 | 75 | 
 | 2022-11-08 | 972 | 75 | 
-| 2022-11-07 | 972 | 75 | 
 

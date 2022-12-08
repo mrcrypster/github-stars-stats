@@ -1,6 +1,6 @@
 # next-step/atdd-subway-service - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 252
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 15 | 252 | 
 | 2022-12-06 | 15 | 252 | 
 | 2022-12-04 | 15 | 249 | 
 | 2022-12-03 | 15 | 249 | 

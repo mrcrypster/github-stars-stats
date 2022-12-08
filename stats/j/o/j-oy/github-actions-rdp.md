@@ -1,10 +1,8 @@
 # j-oy/github-actions-rdp - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+☋ Forks: 
 
-☋ Forks: 101
-
-★ Stars: 0
+★ Stars: 
 
 [Open repository](https://github.com/j-oy/github-actions-rdp)
 
@@ -13,5 +11,4 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-07 | - | 101 | 
 

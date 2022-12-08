@@ -1,10 +1,10 @@
 # jivoi/awesome-ml-for-cybersecurity - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 1569
 
-★ Stars: 5606
+★ Stars: 5607
 
 [Open repository](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 5607 | 1569 | 
 | 2022-12-06 | 5606 | 1569 | 
 | 2022-12-04 | 5604 | 1569 | 
 | 2022-12-03 | 5602 | 1568 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 5562 | 1564 | 
 | 2022-11-09 | 5563 | 1565 | 
 | 2022-11-08 | 5563 | 1565 | 
-| 2022-11-07 | 5562 | 1565 | 
 

@@ -1,10 +1,8 @@
 # cationx/GitHub-Action-RDP - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+☋ Forks: 
 
-☋ Forks: 138
-
-★ Stars: 27
+★ Stars: 
 
 [Open repository](https://github.com/cationx/GitHub-Action-RDP)
 
@@ -13,5 +11,4 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-07 | 27 | 138 | 
 

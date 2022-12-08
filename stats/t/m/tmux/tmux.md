@@ -1,10 +1,10 @@
 # tmux/tmux - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
-☋ Forks: 1829
+☋ Forks: 1830
 
-★ Stars: 27054
+★ Stars: 27064
 
 [Open repository](https://github.com/tmux/tmux)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 27064 | 1830 | 
 | 2022-12-06 | 27054 | 1829 | 
 | 2022-12-04 | 27049 | 1829 | 
 | 2022-12-03 | 27039 | 1829 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-11 | 26756 | 1822 | 
 | 2022-11-10 | 26748 | 1823 | 
 | 2022-11-09 | 26734 | 1822 | 
-| 2022-11-08 | 26729 | 1822 | 
 

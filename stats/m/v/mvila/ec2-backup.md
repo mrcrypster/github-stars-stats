@@ -1,6 +1,6 @@
 # mvila/ec2-backup - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 3 | - | 
 | 2022-12-05 | 3 | - | 
 | 2022-12-04 | 3 | - | 
 | 2022-12-02 | 3 | - | 

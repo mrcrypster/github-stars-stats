@@ -1,10 +1,10 @@
 # GoldHEN/GoldHEN_Cheat_Repository - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 61
 
-★ Stars: 132
+★ Stars: 134
 
 [Open repository](https://github.com/GoldHEN/GoldHEN_Cheat_Repository)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 134 | 61 | 
 | 2022-12-06 | 132 | 61 | 
 | 2022-12-05 | 131 | 60 | 
 | 2022-12-03 | 130 | 59 | 

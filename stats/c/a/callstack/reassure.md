@@ -1,10 +1,10 @@
 # callstack/reassure - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 8
 
-★ Stars: 797
+★ Stars: 799
 
 [Open repository](https://github.com/callstack/reassure)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 799 | 8 | 
 | 2022-12-06 | 797 | 8 | 
 | 2022-12-04 | 795 | 8 | 
 | 2022-12-03 | 794 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 761 | 7 | 
 | 2022-11-09 | 760 | 7 | 
 | 2022-11-08 | 757 | 7 | 
-| 2022-11-07 | 753 | 7 | 
 

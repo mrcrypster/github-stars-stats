@@ -1,10 +1,10 @@
 # esphome/esphome - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
-☋ Forks: 1934
+☋ Forks: 1935
 
-★ Stars: 5539
+★ Stars: 5546
 
 [Open repository](https://github.com/esphome/esphome)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 5546 | 1935 | 
 | 2022-12-06 | 5539 | 1934 | 
 | 2022-12-05 | 5539 | 1931 | 
 | 2022-12-04 | 5537 | 1931 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 5428 | 1885 | 
 | 2022-11-09 | 5425 | 1885 | 
 | 2022-11-08 | 5420 | 1883 | 
-| 2022-11-07 | 5420 | 1883 | 
 

@@ -1,6 +1,6 @@
 # NafisiAslH/KnowledgeSharing - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 120
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 434 | 120 | 
 | 2022-12-06 | 434 | 120 | 
 | 2022-12-05 | 433 | 120 | 
 | 2022-12-03 | 433 | 120 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-11 | 417 | 120 | 
 | 2022-11-10 | 417 | 120 | 
 | 2022-11-09 | 417 | 120 | 
-| 2022-11-07 | 417 | 120 | 
 

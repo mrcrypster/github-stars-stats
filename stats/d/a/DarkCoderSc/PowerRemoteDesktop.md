@@ -1,10 +1,10 @@
 # DarkCoderSc/PowerRemoteDesktop - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
-☋ Forks: 219
+☋ Forks: 220
 
-★ Stars: 1783
+★ Stars: 1784
 
 [Open repository](https://github.com/DarkCoderSc/PowerRemoteDesktop)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 1784 | 220 | 
 | 2022-12-06 | 1783 | 219 | 
 | 2022-12-05 | 1782 | 219 | 
 | 2022-12-04 | 1780 | 219 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 1773 | 214 | 
 | 2022-11-09 | 1774 | 214 | 
 | 2022-11-08 | 1772 | 213 | 
-| 2022-11-07 | 1771 | 213 | 
 

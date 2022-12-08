@@ -1,6 +1,6 @@
 # arpit20adlakha/Data-Structure-Algorithms-LLD-HLD - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 164
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 894 | 164 | 
 | 2022-12-06 | 894 | 164 | 
 | 2022-12-04 | 894 | 164 | 
 | 2022-12-03 | 894 | 164 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 889 | 161 | 
 | 2022-11-09 | 889 | 161 | 
 | 2022-11-08 | 889 | 161 | 
-| 2022-11-07 | 889 | 161 | 
 

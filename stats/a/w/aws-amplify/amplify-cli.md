@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 07
 
-☋ Forks: 734
+☋ Forks: 735
 
-★ Stars: 2618
+★ Stars: 2619
 
 [Open repository](https://github.com/aws-amplify/amplify-cli)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-07 | 2618 | 734 | 
+| 2022-12-07 | 2619 | 735 | 
 | 2022-12-05 | 2617 | 732 | 
 | 2022-12-04 | 2617 | 732 | 
 | 2022-12-03 | 2617 | 732 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-10 | 2607 | 722 | 
 | 2022-11-09 | 2607 | 722 | 
 | 2022-11-08 | 2607 | 722 | 
-| 2022-11-07 | 2607 | 719 | 
 

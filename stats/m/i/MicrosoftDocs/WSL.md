@@ -1,10 +1,10 @@
 # MicrosoftDocs/WSL - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
-☋ Forks: 487
+☋ Forks: 489
 
-★ Stars: 1550
+★ Stars: 1552
 
 [Open repository](https://github.com/MicrosoftDocs/WSL)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 1552 | 489 | 
 | 2022-12-06 | 1550 | 487 | 
 | 2022-12-04 | 1549 | 487 | 
 | 2022-12-03 | 1548 | 487 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 1527 | 478 | 
 | 2022-11-09 | 1527 | 477 | 
 | 2022-11-08 | 1529 | 477 | 
-| 2022-11-07 | 1529 | 477 | 
 

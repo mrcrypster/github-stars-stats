@@ -1,6 +1,6 @@
 # vinaymancha/Subway-Surfers-AI - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 32 | 21 | 
 | 2022-12-06 | 32 | 21 | 
 | 2022-12-05 | 32 | 21 | 
 | 2022-12-04 | 32 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 32 | 19 | 
 | 2022-11-09 | 32 | 19 | 
 | 2022-11-08 | 32 | 19 | 
-| 2022-11-07 | 32 | 19 | 
 

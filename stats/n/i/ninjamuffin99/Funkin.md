@@ -1,10 +1,10 @@
 # ninjamuffin99/Funkin - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
-☋ Forks: 2012
+☋ Forks: 2010
 
-★ Stars: 2173
+★ Stars: 2175
 
 [Open repository](https://github.com/ninjamuffin99/Funkin)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 2175 | 2010 | 
 | 2022-12-06 | 2173 | 2012 | 
 | 2022-12-05 | 2174 | 2012 | 
 | 2022-12-04 | 2174 | 2012 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 2167 | 2006 | 
 | 2022-11-09 | 2166 | 2006 | 
 | 2022-11-08 | 2165 | 2006 | 
-| 2022-11-07 | 2163 | 2005 | 
 

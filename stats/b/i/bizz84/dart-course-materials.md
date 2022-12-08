@@ -1,8 +1,8 @@
 # bizz84/dart-course-materials - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
-☋ Forks: 152
+☋ Forks: 153
 
 ★ Stars: 241
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 241 | 153 | 
 | 2022-12-06 | 241 | 152 | 
 | 2022-12-04 | 240 | 152 | 
 | 2022-12-03 | 240 | 152 | 

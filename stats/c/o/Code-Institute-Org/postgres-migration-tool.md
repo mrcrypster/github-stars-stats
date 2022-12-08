@@ -1,10 +1,10 @@
 # Code-Institute-Org/postgres-migration-tool - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 15
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/Code-Institute-Org/postgres-migration-tool)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 17 | 15 | 
 | 2022-12-06 | 16 | 15 | 
 | 2022-12-05 | 16 | 14 | 
 | 2022-12-04 | 16 | 14 | 

@@ -1,6 +1,6 @@
 # uken/fluent-plugin-elasticsearch - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 296
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 849 | 296 | 
 | 2022-12-06 | 849 | 296 | 
 | 2022-12-04 | 849 | 296 | 
 | 2022-12-03 | 849 | 296 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 846 | 298 | 
 | 2022-11-09 | 846 | 298 | 
 | 2022-11-08 | 845 | 298 | 
-| 2022-11-07 | 844 | 298 | 
 

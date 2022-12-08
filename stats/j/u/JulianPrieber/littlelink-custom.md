@@ -1,10 +1,10 @@
 # JulianPrieber/littlelink-custom - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
-☋ Forks: 61
+☋ Forks: 60
 
-★ Stars: 580
+★ Stars: 583
 
 [Open repository](https://github.com/JulianPrieber/littlelink-custom)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 583 | 60 | 
 | 2022-12-06 | 580 | 61 | 
 | 2022-12-05 | 580 | 61 | 
 | 2022-12-04 | 578 | 61 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 553 | 49 | 
 | 2022-11-09 | 550 | 49 | 
 | 2022-11-08 | 550 | 50 | 
-| 2022-11-07 | 549 | 49 | 
 

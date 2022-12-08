@@ -1,6 +1,6 @@
 # mhaskar/ExchangeFinder - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 129 | 16 | 
 | 2022-12-05 | 129 | 16 | 
 | 2022-12-04 | 128 | 16 | 
 | 2022-12-03 | 128 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 118 | 13 | 
 | 2022-11-09 | 118 | 11 | 
 | 2022-11-08 | 118 | 11 | 
-| 2022-11-07 | 118 | 11 | 
 

@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 07
 
 ☋ Forks: 92
 
-★ Stars: 460
+★ Stars: 461
 
 [Open repository](https://github.com/node-gradle/gradle-node-plugin)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-07 | 460 | 92 | 
+| 2022-12-07 | 461 | 92 | 
 | 2022-12-06 | 460 | 92 | 
 | 2022-12-04 | 460 | 92 | 
 | 2022-12-03 | 460 | 92 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-10 | 454 | 90 | 
 | 2022-11-09 | 455 | 90 | 
 | 2022-11-08 | 455 | 89 | 
-| 2022-11-07 | 455 | 89 | 
 

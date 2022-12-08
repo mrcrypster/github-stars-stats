@@ -1,10 +1,10 @@
 # kiirsti/ggplot_adventcalendaR - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
-☋ Forks: 14
+☋ Forks: 15
 
-★ Stars: 40
+★ Stars: 43
 
 [Open repository](https://github.com/kiirsti/ggplot_adventcalendaR)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 43 | 15 | 
 | 2022-12-05 | 40 | 14 | 
 | 2022-12-04 | 40 | 12 | 
 | 2022-12-03 | 38 | 12 | 

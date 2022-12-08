@@ -1,10 +1,10 @@
 # passport/todos-express-password - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 363
 
-★ Stars: 751
+★ Stars: 752
 
 [Open repository](https://github.com/passport/todos-express-password)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 752 | 363 | 
 | 2022-12-06 | 751 | 363 | 
 | 2022-12-05 | 750 | 363 | 
 | 2022-12-03 | 750 | 363 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 748 | 358 | 
 | 2022-11-09 | 748 | 358 | 
 | 2022-11-08 | 748 | 358 | 
-| 2022-11-07 | 747 | 358 | 
 

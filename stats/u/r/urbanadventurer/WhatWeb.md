@@ -1,10 +1,10 @@
 # urbanadventurer/WhatWeb - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
-☋ Forks: 836
+☋ Forks: 835
 
-★ Stars: 4241
+★ Stars: 4242
 
 [Open repository](https://github.com/urbanadventurer/WhatWeb)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 4242 | 835 | 
 | 2022-12-06 | 4241 | 836 | 
 | 2022-12-04 | 4239 | 836 | 
 | 2022-12-03 | 4236 | 836 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-11 | 4185 | 834 | 
 | 2022-11-10 | 4184 | 834 | 
 | 2022-11-09 | 4183 | 834 | 
-| 2022-11-08 | 4182 | 834 | 
 

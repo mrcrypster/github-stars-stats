@@ -1,10 +1,10 @@
 # pwntester/octo.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
-☋ Forks: 58
+☋ Forks: 59
 
-★ Stars: 1242
+★ Stars: 1243
 
 [Open repository](https://github.com/pwntester/octo.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 1243 | 59 | 
 | 2022-12-06 | 1242 | 58 | 
 | 2022-12-04 | 1238 | 58 | 
 | 2022-12-03 | 1239 | 58 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 1205 | 59 | 
 | 2022-11-09 | 1205 | 59 | 
 | 2022-11-08 | 1199 | 59 | 
-| 2022-11-07 | 1199 | 59 | 
 

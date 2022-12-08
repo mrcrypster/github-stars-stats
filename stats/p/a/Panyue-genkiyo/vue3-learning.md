@@ -1,10 +1,10 @@
 # Panyue-genkiyo/vue3-learning - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
-☋ Forks: 126
+☋ Forks: 127
 
-★ Stars: 196
+★ Stars: 197
 
 [Open repository](https://github.com/Panyue-genkiyo/vue3-learning)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 197 | 127 | 
 | 2022-12-06 | 196 | 126 | 
 | 2022-12-04 | 195 | 125 | 
 | 2022-12-03 | 195 | 125 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 184 | 115 | 
 | 2022-11-09 | 183 | 115 | 
 | 2022-11-08 | 182 | 114 | 
-| 2022-11-07 | 182 | 114 | 
 

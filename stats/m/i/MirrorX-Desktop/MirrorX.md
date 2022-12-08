@@ -1,10 +1,10 @@
 # MirrorX-Desktop/MirrorX - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 32
 
-★ Stars: 588
+★ Stars: 593
 
 [Open repository](https://github.com/MirrorX-Desktop/MirrorX)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 593 | 32 | 
 | 2022-12-06 | 588 | 32 | 
 | 2022-12-04 | 579 | 32 | 
 | 2022-12-03 | 574 | 32 | 

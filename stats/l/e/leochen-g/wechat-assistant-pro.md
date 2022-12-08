@@ -1,10 +1,10 @@
 # leochen-g/wechat-assistant-pro - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 111
 
-★ Stars: 594
+★ Stars: 596
 
 [Open repository](https://github.com/leochen-g/wechat-assistant-pro)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 596 | 111 | 
 | 2022-12-06 | 594 | 111 | 
 | 2022-12-04 | 593 | 111 | 
 | 2022-12-03 | 593 | 111 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 576 | 107 | 
 | 2022-11-09 | 576 | 107 | 
 | 2022-11-08 | 576 | 107 | 
-| 2022-11-07 | 576 | 107 | 
 

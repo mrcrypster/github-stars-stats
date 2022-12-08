@@ -1,10 +1,10 @@
 # headwaymaps/headway - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 55
 
-★ Stars: 2277
+★ Stars: 2278
 
 [Open repository](https://github.com/headwaymaps/headway)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 2278 | 55 | 
 | 2022-12-06 | 2277 | 55 | 
 | 2022-12-05 | 2278 | 55 | 
 | 2022-12-03 | 2277 | 54 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-11 | 2265 | 55 | 
 | 2022-11-10 | 2265 | 55 | 
 | 2022-11-08 | 2265 | 54 | 
-| 2022-11-07 | 2265 | 54 | 
 

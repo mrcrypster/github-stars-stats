@@ -1,8 +1,8 @@
 # 0xJin/awesome-bugbounty-builder - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
-☋ Forks: 112
+☋ Forks: 113
 
 ★ Stars: 490
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 490 | 113 | 
 | 2022-12-06 | 490 | 112 | 
 | 2022-12-04 | 490 | 112 | 
 | 2022-12-03 | 490 | 112 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 477 | 111 | 
 | 2022-11-09 | 477 | 111 | 
 | 2022-11-08 | 477 | 111 | 
-| 2022-11-07 | 477 | 111 | 
 

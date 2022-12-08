@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 07
 
-☋ Forks: 760
+☋ Forks: 761
 
-★ Stars: 2845
+★ Stars: 2855
 
 [Open repository](https://github.com/apache/iotdb)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-07 | 2845 | 760 | 
+| 2022-12-07 | 2855 | 761 | 
 | 2022-12-06 | 2845 | 760 | 
 | 2022-12-05 | 2823 | 757 | 
 | 2022-12-04 | 2802 | 754 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-10 | 2590 | 739 | 
 | 2022-11-09 | 2594 | 739 | 
 | 2022-11-08 | 2592 | 739 | 
-| 2022-11-07 | 2590 | 738 | 
 

@@ -1,6 +1,6 @@
 # wjoj/qb - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 188 | 33 | 
 | 2022-12-06 | 188 | 33 | 
 | 2022-12-04 | 187 | 33 | 
 | 2022-12-03 | 187 | 33 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-11 | 164 | 29 | 
 | 2022-11-10 | 162 | 29 | 
 | 2022-11-09 | 161 | 29 | 
-| 2022-11-07 | 160 | 29 | 
 

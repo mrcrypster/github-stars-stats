@@ -1,10 +1,10 @@
 # tapdata/tapdata - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
-☋ Forks: 55
+☋ Forks: 56
 
-★ Stars: 226
+★ Stars: 227
 
 [Open repository](https://github.com/tapdata/tapdata)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 227 | 56 | 
 | 2022-12-06 | 226 | 55 | 
 | 2022-12-05 | 226 | 55 | 
 | 2022-12-03 | 225 | 54 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 214 | 48 | 
 | 2022-11-09 | 214 | 48 | 
 | 2022-11-08 | 214 | 48 | 
-| 2022-11-07 | 213 | 48 | 
 

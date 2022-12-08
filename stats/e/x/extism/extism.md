@@ -1,10 +1,10 @@
 # extism/extism - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
-☋ Forks: 22
+☋ Forks: 24
 
-★ Stars: 1078
+★ Stars: 1123
 
 [Open repository](https://github.com/extism/extism)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 1123 | 24 | 
 | 2022-12-06 | 1078 | 22 | 
 | 2022-12-05 | 1055 | 22 | 
 | 2022-12-04 | 971 | 21 | 

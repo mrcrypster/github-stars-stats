@@ -1,6 +1,6 @@
 # bluesky-social/atproto - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 115
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 2269 | 115 | 
 | 2022-12-06 | 2269 | 115 | 
 | 2022-12-04 | 2266 | 115 | 
 | 2022-12-03 | 2267 | 115 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 2108 | 104 | 
 | 2022-11-09 | 2089 | 103 | 
 | 2022-11-08 | 2060 | 103 | 
-| 2022-11-07 | 2023 | 98 | 
 

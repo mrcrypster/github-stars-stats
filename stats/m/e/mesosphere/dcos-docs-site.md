@@ -1,10 +1,10 @@
 # mesosphere/dcos-docs-site - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 130
 
-★ Stars: 55
+★ Stars: 56
 
 [Open repository](https://github.com/mesosphere/dcos-docs-site)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 56 | 130 | 
 | 2022-12-06 | 55 | 130 | 
 | 2022-12-05 | 55 | 130 | 
 | 2022-12-04 | 55 | 130 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 53 | 130 | 
 | 2022-11-09 | 53 | 130 | 
 | 2022-11-08 | 53 | 130 | 
-| 2022-11-07 | 53 | 130 | 
 

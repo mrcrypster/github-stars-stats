@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 07
 
-☋ Forks: 424
+☋ Forks: 425
 
-★ Stars: 239
+★ Stars: 240
 
 [Open repository](https://github.com/MicrosoftDocs/msteams-docs)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-07 | 239 | 424 | 
+| 2022-12-07 | 240 | 425 | 
 | 2022-12-05 | 239 | 423 | 
 | 2022-12-04 | 239 | 423 | 
 | 2022-12-03 | 239 | 423 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-10 | 236 | 423 | 
 | 2022-11-09 | 236 | 423 | 
 | 2022-11-08 | 236 | 423 | 
-| 2022-11-07 | 236 | 423 | 
 

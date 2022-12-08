@@ -1,10 +1,10 @@
 # Zenika/alpine-chrome - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 224
 
-★ Stars: 1268
+★ Stars: 1269
 
 [Open repository](https://github.com/Zenika/alpine-chrome)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 1269 | 224 | 
 | 2022-12-06 | 1268 | 224 | 
 | 2022-12-04 | 1264 | 224 | 
 | 2022-12-03 | 1264 | 224 | 

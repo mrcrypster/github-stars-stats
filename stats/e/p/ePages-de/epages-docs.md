@@ -1,10 +1,10 @@
 # ePages-de/epages-docs - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 60
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/ePages-de/epages-docs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 10 | 60 | 
 | 2022-12-06 | 9 | 60 | 
 | 2022-12-04 | 9 | 60 | 
 | 2022-12-03 | 9 | 60 | 

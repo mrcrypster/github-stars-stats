@@ -1,10 +1,10 @@
 # QiuSimons/YAOF - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 528
 
-★ Stars: 1770
+★ Stars: 1774
 
 [Open repository](https://github.com/QiuSimons/YAOF)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 1774 | 528 | 
 | 2022-12-06 | 1770 | 528 | 
 | 2022-12-04 | 1767 | 529 | 
 | 2022-12-03 | 1765 | 529 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 1745 | 520 | 
 | 2022-11-09 | 1745 | 521 | 
 | 2022-11-08 | 1745 | 521 | 
-| 2022-11-07 | 1744 | 520 | 
 

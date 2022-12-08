@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 07
 
-☋ Forks: 624
+☋ Forks: 625
 
-★ Stars: 495
+★ Stars: 496
 
 [Open repository](https://github.com/saleor/saleor-platform)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-07 | 495 | 624 | 
+| 2022-12-07 | 496 | 625 | 
 | 2022-12-05 | 495 | 625 | 
 | 2022-12-04 | 495 | 624 | 
 | 2022-12-03 | 495 | 624 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-10 | 489 | 616 | 
 | 2022-11-09 | 488 | 616 | 
 | 2022-11-08 | 488 | 617 | 
-| 2022-11-07 | 488 | 617 | 
 

@@ -1,10 +1,10 @@
 # danielbeach/data-engineering-practice - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 184
 
-★ Stars: 713
+★ Stars: 714
 
 [Open repository](https://github.com/danielbeach/data-engineering-practice)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 714 | 184 | 
 | 2022-12-06 | 713 | 184 | 
 | 2022-12-04 | 713 | 184 | 
 | 2022-12-03 | 710 | 184 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 700 | 178 | 
 | 2022-11-09 | 699 | 178 | 
 | 2022-11-08 | 699 | 178 | 
-| 2022-11-07 | 699 | 177 | 
 

@@ -1,10 +1,10 @@
 # dbrgn/tealdeer - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 88
 
-★ Stars: 2730
+★ Stars: 2736
 
 [Open repository](https://github.com/dbrgn/tealdeer)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 2736 | 88 | 
 | 2022-12-05 | 2730 | 88 | 
 | 2022-12-04 | 2729 | 88 | 
 | 2022-12-03 | 2729 | 88 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 2668 | 88 | 
 | 2022-11-09 | 2666 | 88 | 
 | 2022-11-08 | 2662 | 88 | 
-| 2022-11-07 | 2657 | 88 | 
 

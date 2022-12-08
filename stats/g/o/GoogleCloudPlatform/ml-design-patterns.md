@@ -1,10 +1,10 @@
 # GoogleCloudPlatform/ml-design-patterns - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
-☋ Forks: 405
+☋ Forks: 406
 
-★ Stars: 1453
+★ Stars: 1456
 
 [Open repository](https://github.com/GoogleCloudPlatform/ml-design-patterns)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 1456 | 406 | 
 | 2022-12-06 | 1453 | 405 | 
 | 2022-12-05 | 1451 | 405 | 
 | 2022-12-04 | 1451 | 405 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-11 | 1422 | 393 | 
 | 2022-11-10 | 1421 | 393 | 
 | 2022-11-09 | 1421 | 393 | 
-| 2022-11-08 | 1421 | 393 | 
 

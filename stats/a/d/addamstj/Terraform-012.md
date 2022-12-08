@@ -1,8 +1,8 @@
 # addamstj/Terraform-012 - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
-☋ Forks: 441
+☋ Forks: 443
 
 ★ Stars: 77
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 77 | 443 | 
 | 2022-12-06 | 77 | 441 | 
 | 2022-12-05 | 77 | 440 | 
 | 2022-12-04 | 77 | 433 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 75 | 407 | 
 | 2022-11-09 | 75 | 407 | 
 | 2022-11-08 | 74 | 407 | 
-| 2022-11-07 | 74 | 407 | 
 

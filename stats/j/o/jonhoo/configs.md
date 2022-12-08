@@ -1,8 +1,8 @@
 # jonhoo/configs - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
-☋ Forks: 161
+☋ Forks: 163
 
 ★ Stars: 888
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 888 | 163 | 
 | 2022-12-06 | 888 | 161 | 
 | 2022-12-05 | 888 | 161 | 
 | 2022-12-04 | 887 | 161 | 

@@ -1,6 +1,6 @@
 # stwins60/jenkins-csv-upload - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | - | 11 | 
 | 2022-12-05 | - | 11 | 
 | 2022-12-04 | - | 11 | 
 | 2022-12-03 | - | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | - | 11 | 
 | 2022-11-09 | - | 11 | 
 | 2022-11-08 | - | 11 | 
-| 2022-11-07 | - | 11 | 
 

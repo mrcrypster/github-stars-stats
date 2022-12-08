@@ -1,6 +1,6 @@
 # mayuki/Cocona - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 1816 | 49 | 
 | 2022-12-06 | 1816 | 49 | 
 | 2022-12-05 | 1815 | 49 | 
 | 2022-12-03 | 1815 | 49 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-11 | 1788 | 45 | 
 | 2022-11-09 | 1786 | 45 | 
 | 2022-11-08 | 1787 | 45 | 
-| 2022-11-07 | 1777 | 45 | 
 

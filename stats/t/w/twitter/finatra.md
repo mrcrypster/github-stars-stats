@@ -1,10 +1,10 @@
 # twitter/finatra - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 405
 
-★ Stars: 2209
+★ Stars: 2210
 
 [Open repository](https://github.com/twitter/finatra)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 2210 | 405 | 
 | 2022-12-06 | 2209 | 405 | 
 | 2022-12-05 | 2209 | 405 | 
 | 2022-12-03 | 2209 | 405 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 2194 | 395 | 
 | 2022-11-09 | 2194 | 395 | 
 | 2022-11-08 | 2194 | 394 | 
-| 2022-11-07 | 2194 | 395 | 
 

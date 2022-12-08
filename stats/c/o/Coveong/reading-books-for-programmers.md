@@ -1,6 +1,6 @@
 # Coveong/reading-books-for-programmers - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 125 | 3 | 
 | 2022-12-06 | 125 | 3 | 
 | 2022-12-05 | 125 | 3 | 
 | 2022-12-03 | 125 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-11 | 122 | 3 | 
 | 2022-11-10 | 120 | 3 | 
 | 2022-11-08 | 120 | 3 | 
-| 2022-11-07 | 120 | 3 | 
 

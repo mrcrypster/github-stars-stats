@@ -1,6 +1,6 @@
 # Embarcadero/Dev-Cpp - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 210
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 1868 | 210 | 
 | 2022-12-06 | 1868 | 210 | 
 | 2022-12-05 | 1867 | 210 | 
 | 2022-12-04 | 1866 | 210 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 1834 | 203 | 
 | 2022-11-09 | 1831 | 202 | 
 | 2022-11-08 | 1831 | 202 | 
-| 2022-11-07 | 1831 | 202 | 
 

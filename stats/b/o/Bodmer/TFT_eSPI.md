@@ -1,10 +1,10 @@
 # Bodmer/TFT_eSPI - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
-☋ Forks: 726
+☋ Forks: 728
 
-★ Stars: 2260
+★ Stars: 2262
 
 [Open repository](https://github.com/Bodmer/TFT_eSPI)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 2262 | 728 | 
 | 2022-12-06 | 2260 | 726 | 
 | 2022-12-05 | 2254 | 726 | 
 | 2022-12-04 | 2253 | 725 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 2193 | 709 | 
 | 2022-11-09 | 2191 | 708 | 
 | 2022-11-08 | 2190 | 706 | 
-| 2022-11-07 | 2188 | 705 | 
 

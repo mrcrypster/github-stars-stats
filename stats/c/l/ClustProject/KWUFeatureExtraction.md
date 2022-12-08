@@ -1,6 +1,6 @@
 # ClustProject/KWUFeatureExtraction - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 12 | 9 | 
 | 2022-12-06 | 12 | 9 | 
 | 2022-12-04 | 12 | 9 | 
 | 2022-12-03 | 12 | 9 | 

@@ -1,6 +1,6 @@
 # mattn/zig-lisp - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 34 | - | 
 | 2022-12-06 | 34 | - | 
 | 2022-12-04 | 34 | - | 
 | 2022-12-03 | 34 | - | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 33 | - | 
 | 2022-11-09 | 33 | - | 
 | 2022-11-08 | 33 | - | 
-| 2022-11-07 | 33 | - | 
 

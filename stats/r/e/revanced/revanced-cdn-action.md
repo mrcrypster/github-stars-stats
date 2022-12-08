@@ -1,10 +1,10 @@
 # revanced/revanced-cdn-action - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 2
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/revanced/revanced-cdn-action)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 17 | 2 | 
 | 2022-12-05 | 16 | 2 | 
 | 2022-12-04 | 16 | 2 | 
 | 2022-12-03 | 16 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 15 | 2 | 
 | 2022-11-09 | 14 | 2 | 
 | 2022-11-08 | 14 | 2 | 
-| 2022-11-07 | 13 | 2 | 
 

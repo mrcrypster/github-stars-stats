@@ -1,6 +1,6 @@
 # drvinceknight/amwoss - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 102 | 3 | 
 | 2022-12-06 | 102 | 3 | 
 | 2022-12-04 | 101 | 3 | 
 | 2022-12-03 | 101 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 101 | 3 | 
 | 2022-11-09 | 101 | 3 | 
 | 2022-11-08 | 101 | 3 | 
-| 2022-11-07 | 101 | 3 | 
 

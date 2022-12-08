@@ -1,10 +1,10 @@
 # Yczar/chance-dart - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 18
 
-★ Stars: 51
+★ Stars: 52
 
 [Open repository](https://github.com/Yczar/chance-dart)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 52 | 18 | 
 | 2022-12-06 | 51 | 18 | 
 | 2022-12-04 | 51 | 18 | 
 | 2022-12-03 | 50 | 18 | 

@@ -1,10 +1,10 @@
 # PyTorchLightning/pytorch-lightning - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
-☋ Forks: 2659
+☋ Forks: 2662
 
-★ Stars: 20847
+★ Stars: 20858
 
 [Open repository](https://github.com/PyTorchLightning/pytorch-lightning)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 20858 | 2662 | 
 | 2022-12-05 | 20847 | 2659 | 
 | 2022-12-04 | 20834 | 2659 | 
 | 2022-12-03 | 20822 | 2658 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 20566 | 2633 | 
 | 2022-11-09 | 20545 | 2633 | 
 | 2022-11-08 | 20530 | 2632 | 
-| 2022-11-07 | 20520 | 2631 | 
 

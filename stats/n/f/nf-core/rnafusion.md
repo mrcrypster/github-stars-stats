@@ -1,10 +1,10 @@
 # nf-core/rnafusion - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 64
 
-★ Stars: 82
+★ Stars: 83
 
 [Open repository](https://github.com/nf-core/rnafusion)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 83 | 64 | 
 | 2022-12-06 | 82 | 64 | 
 | 2022-12-04 | 82 | 64 | 
 | 2022-12-03 | 82 | 64 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 81 | 63 | 
 | 2022-11-09 | 81 | 63 | 
 | 2022-11-08 | 81 | 63 | 
-| 2022-11-07 | 81 | 63 | 
 

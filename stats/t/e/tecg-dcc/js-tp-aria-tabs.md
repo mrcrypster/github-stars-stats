@@ -1,6 +1,6 @@
 # tecg-dcc/js-tp-aria-tabs - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | - | 18 | 
 | 2022-12-06 | - | 18 | 
 | 2022-12-04 | - | 18 | 
 | 2022-12-03 | - | 18 | 

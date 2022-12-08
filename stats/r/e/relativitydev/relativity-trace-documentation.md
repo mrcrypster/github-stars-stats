@@ -1,10 +1,10 @@
 # relativitydev/relativity-trace-documentation - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 26
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/relativitydev/relativity-trace-documentation)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 7 | 26 | 
 | 2022-12-05 | 6 | 26 | 
 | 2022-12-04 | 6 | 26 | 
 | 2022-12-03 | 6 | 26 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 6 | 25 | 
 | 2022-11-09 | 6 | 25 | 
 | 2022-11-08 | 6 | 25 | 
-| 2022-11-07 | 6 | 25 | 
 

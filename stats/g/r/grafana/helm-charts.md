@@ -1,10 +1,10 @@
 # grafana/helm-charts - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
-☋ Forks: 1637
+☋ Forks: 1640
 
-★ Stars: 1067
+★ Stars: 1068
 
 [Open repository](https://github.com/grafana/helm-charts)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 1068 | 1640 | 
 | 2022-12-06 | 1067 | 1637 | 
 | 2022-12-05 | 1067 | 1635 | 
 | 2022-12-04 | 1067 | 1634 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 1036 | 1578 | 
 | 2022-11-09 | 1035 | 1575 | 
 | 2022-11-08 | 1032 | 1572 | 
-| 2022-11-07 | 1032 | 1570 | 
 

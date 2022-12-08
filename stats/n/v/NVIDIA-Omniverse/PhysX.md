@@ -1,10 +1,10 @@
 # NVIDIA-Omniverse/PhysX - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
-☋ Forks: 118
+☋ Forks: 120
 
-★ Stars: 1442
+★ Stars: 1444
 
 [Open repository](https://github.com/NVIDIA-Omniverse/PhysX)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 1444 | 120 | 
 | 2022-12-05 | 1442 | 118 | 
 | 2022-12-04 | 1435 | 117 | 
 | 2022-12-03 | 1433 | 116 | 

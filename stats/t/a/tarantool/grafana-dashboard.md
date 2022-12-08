@@ -1,0 +1,17 @@
+# tarantool/grafana-dashboard - stars & forks statistics
+
+Stats updated on Dec 2022, 07
+
+☋ Forks: 10
+
+★ Stars: 21
+
+[Open repository](https://github.com/tarantool/grafana-dashboard)
+
+[Open detailed stats for tarantool/grafana-dashboard](https://reviewgithub.com/rep/tarantool/grafana-dashboard)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-12-07 | 21 | 10 | 
+

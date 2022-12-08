@@ -1,6 +1,6 @@
 # overextended/ox_inventory - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 289
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 203 | 289 | 
 | 2022-12-06 | 203 | 289 | 
 | 2022-12-04 | 200 | 289 | 
 | 2022-12-03 | 200 | 289 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 192 | 272 | 
 | 2022-11-09 | 192 | 272 | 
 | 2022-11-08 | 192 | 270 | 
-| 2022-11-07 | 191 | 266 | 
 

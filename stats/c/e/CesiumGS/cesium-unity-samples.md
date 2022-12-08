@@ -1,10 +1,10 @@
 # CesiumGS/cesium-unity-samples - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
-☋ Forks: 5
+☋ Forks: 7
 
-★ Stars: 56
+★ Stars: 61
 
 [Open repository](https://github.com/CesiumGS/cesium-unity-samples)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 61 | 7 | 
+| 2022-12-07 | 61 | 7 | 
 | 2022-12-06 | 56 | 5 | 
 | 2022-12-05 | 56 | 5 | 
 | 2022-12-04 | 56 | 5 | 

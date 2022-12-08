@@ -1,10 +1,10 @@
 # reuters-graphics/example_svelte-graph-patterns - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 6
 
-★ Stars: 106
+★ Stars: 107
 
 [Open repository](https://github.com/reuters-graphics/example_svelte-graph-patterns)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 107 | 6 | 
 | 2022-12-06 | 106 | 6 | 
 | 2022-12-04 | 106 | 6 | 
 | 2022-12-03 | 106 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 106 | 6 | 
 | 2022-11-09 | 106 | 6 | 
 | 2022-11-08 | 106 | 6 | 
-| 2022-11-07 | 105 | 6 | 
 

@@ -1,10 +1,10 @@
 # Fnoberz/COD-Spoofer - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 3
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/Fnoberz/COD-Spoofer)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 13 | 3 | 
 | 2022-12-06 | 12 | 3 | 
 | 2022-12-04 | 12 | 3 | 
 | 2022-12-03 | 12 | 3 | 

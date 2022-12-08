@@ -1,6 +1,6 @@
 # purescript/purescript-parallel - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 41 | 11 | 
 | 2022-12-06 | 41 | 11 | 
 | 2022-12-05 | 41 | 11 | 
 | 2022-12-04 | 41 | 11 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 41 | 11 | 
 | 2022-11-09 | 41 | 11 | 
 | 2022-11-08 | 41 | 11 | 
-| 2022-11-07 | 41 | 11 | 
 

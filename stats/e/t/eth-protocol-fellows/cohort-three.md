@@ -1,10 +1,10 @@
 # eth-protocol-fellows/cohort-three - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
-☋ Forks: 72
+☋ Forks: 73
 
-★ Stars: 160
+★ Stars: 162
 
 [Open repository](https://github.com/eth-protocol-fellows/cohort-three)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 162 | 73 | 
 | 2022-12-05 | 160 | 72 | 
 | 2022-12-04 | 160 | 72 | 
 | 2022-12-03 | 160 | 72 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 154 | 66 | 
 | 2022-11-09 | 154 | 66 | 
 | 2022-11-08 | 153 | 66 | 
-| 2022-11-07 | 152 | 64 | 
 

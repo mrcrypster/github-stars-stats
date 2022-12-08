@@ -1,6 +1,6 @@
 # metacpan/metacpan-api - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 222
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 265 | 222 | 
 | 2022-12-06 | 265 | 222 | 
 | 2022-12-05 | 265 | 222 | 
 | 2022-12-03 | 265 | 222 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 264 | 222 | 
 | 2022-11-09 | 264 | 222 | 
 | 2022-11-08 | 264 | 222 | 
-| 2022-11-07 | 264 | 222 | 
 

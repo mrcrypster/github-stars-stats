@@ -1,6 +1,6 @@
 # partylikeits1983/num_complex_solidity - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 47 | 5 | 
 | 2022-12-05 | 47 | 5 | 
 | 2022-12-04 | 47 | 5 | 
 | 2022-12-03 | 47 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 48 | 5 | 
 | 2022-11-09 | 48 | 5 | 
 | 2022-11-08 | 48 | 5 | 
-| 2022-11-07 | 48 | 5 | 
 

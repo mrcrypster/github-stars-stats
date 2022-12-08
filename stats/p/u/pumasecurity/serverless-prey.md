@@ -1,6 +1,6 @@
 # pumasecurity/serverless-prey - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 202 | 41 | 
 | 2022-12-06 | 202 | 41 | 
 | 2022-12-04 | 202 | 41 | 
 | 2022-12-03 | 202 | 41 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 203 | 41 | 
 | 2022-11-09 | 202 | 41 | 
 | 2022-11-08 | 202 | 41 | 
-| 2022-11-07 | 201 | 41 | 
 

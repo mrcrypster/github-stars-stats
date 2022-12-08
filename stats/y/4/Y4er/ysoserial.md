@@ -1,6 +1,6 @@
 # Y4er/ysoserial - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 250 | 30 | 
 | 2022-12-05 | 250 | 30 | 
 | 2022-12-04 | 249 | 30 | 
 | 2022-12-03 | 249 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 243 | 29 | 
 | 2022-11-09 | 242 | 29 | 
 | 2022-11-08 | 242 | 29 | 
-| 2022-11-07 | 241 | 29 | 
 

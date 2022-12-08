@@ -1,6 +1,6 @@
 # qimengke/html5-canvas - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 1 | 18 | 
 | 2022-12-05 | 1 | 18 | 
 | 2022-12-04 | 1 | 18 | 
 | 2022-12-03 | 1 | 19 | 

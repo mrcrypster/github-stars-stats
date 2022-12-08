@@ -1,10 +1,10 @@
 # BeryJu/k8s - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 3
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/BeryJu/k8s)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 10 | 3 | 
 | 2022-12-06 | 9 | 3 | 
 | 2022-12-04 | 9 | 3 | 
 | 2022-12-03 | 9 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 7 | 3 | 
 | 2022-11-09 | 7 | 3 | 
 | 2022-11-08 | 7 | 3 | 
-| 2022-11-07 | 7 | 3 | 
 

@@ -1,10 +1,10 @@
 # danielgindi/Charts - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
-☋ Forks: 5636
+☋ Forks: 5641
 
-★ Stars: 26253
+★ Stars: 26257
 
 [Open repository](https://github.com/danielgindi/Charts)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 26257 | 5641 | 
 | 2022-12-06 | 26253 | 5636 | 
 | 2022-12-05 | 26252 | 5634 | 
 | 2022-12-04 | 26250 | 5633 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 26200 | 5609 | 
 | 2022-11-09 | 26199 | 5608 | 
 | 2022-11-08 | 26196 | 5606 | 
-| 2022-11-07 | 26192 | 5601 | 
 

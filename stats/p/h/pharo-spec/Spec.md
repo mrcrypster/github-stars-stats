@@ -1,6 +1,6 @@
 # pharo-spec/Spec - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 52 | 48 | 
 | 2022-12-06 | 52 | 48 | 
 | 2022-12-04 | 52 | 48 | 
 | 2022-12-03 | 52 | 48 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 52 | 48 | 
 | 2022-11-09 | 52 | 48 | 
 | 2022-11-08 | 52 | 48 | 
-| 2022-11-07 | 52 | 48 | 
 

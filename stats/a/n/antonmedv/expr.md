@@ -1,10 +1,10 @@
 # antonmedv/expr - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
-☋ Forks: 244
+☋ Forks: 243
 
-★ Stars: 3208
+★ Stars: 3210
 
 [Open repository](https://github.com/antonmedv/expr)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 3210 | 243 | 
 | 2022-12-06 | 3208 | 244 | 
 | 2022-12-04 | 3208 | 244 | 
 | 2022-12-03 | 3206 | 244 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 3157 | 235 | 
 | 2022-11-09 | 3156 | 236 | 
 | 2022-11-08 | 3155 | 236 | 
-| 2022-11-07 | 3151 | 236 | 
 

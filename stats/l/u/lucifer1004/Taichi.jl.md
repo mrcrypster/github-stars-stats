@@ -1,10 +1,10 @@
 # lucifer1004/Taichi.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 0
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/lucifer1004/Taichi.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 30 | - | 
 | 2022-12-05 | 29 | - | 
 | 2022-12-04 | 29 | - | 
 | 2022-12-03 | 29 | - | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 28 | - | 
 | 2022-11-09 | 28 | - | 
 | 2022-11-08 | 28 | - | 
-| 2022-11-07 | 28 | - | 
 

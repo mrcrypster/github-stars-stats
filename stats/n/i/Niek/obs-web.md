@@ -1,10 +1,10 @@
 # Niek/obs-web - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 88
 
-★ Stars: 790
+★ Stars: 791
 
 [Open repository](https://github.com/Niek/obs-web)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 791 | 88 | 
 | 2022-12-05 | 790 | 88 | 
 | 2022-12-04 | 790 | 88 | 
 | 2022-12-03 | 790 | 88 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 778 | 88 | 
 | 2022-11-09 | 778 | 88 | 
 | 2022-11-08 | 778 | 88 | 
-| 2022-11-07 | 775 | 88 | 
 

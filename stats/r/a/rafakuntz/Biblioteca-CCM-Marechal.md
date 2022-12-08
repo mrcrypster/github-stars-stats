@@ -1,6 +1,6 @@
 # rafakuntz/Biblioteca-CCM-Marechal - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 16 | - | 
 | 2022-12-06 | 16 | - | 
 | 2022-12-05 | 16 | - | 
 | 2022-12-04 | 16 | - | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-11 | 16 | - | 
 | 2022-11-10 | 16 | - | 
 | 2022-11-09 | 16 | - | 
-| 2022-11-08 | 16 | - | 
 

@@ -1,8 +1,8 @@
 # DaveGut/HubitatActive - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
-☋ Forks: 42
+☋ Forks: 43
 
 ★ Stars: 46
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 46 | 43 | 
 | 2022-12-06 | 46 | 42 | 
 | 2022-12-04 | 46 | 41 | 
 | 2022-12-03 | 46 | 41 | 

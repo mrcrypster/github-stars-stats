@@ -1,6 +1,6 @@
 # JujuAdams/Input - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 142 | 21 | 
 | 2022-12-06 | 142 | 21 | 
 | 2022-12-04 | 140 | 21 | 
 | 2022-12-03 | 140 | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 139 | 22 | 
 | 2022-11-09 | 138 | 22 | 
 | 2022-11-08 | 138 | 22 | 
-| 2022-11-07 | 138 | 22 | 
 

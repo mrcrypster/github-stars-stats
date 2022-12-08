@@ -1,10 +1,10 @@
 # OpenCTI-Platform/opencti - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
-☋ Forks: 580
+☋ Forks: 581
 
-★ Stars: 3152
+★ Stars: 3154
 
 [Open repository](https://github.com/OpenCTI-Platform/opencti)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 3154 | 581 | 
 | 2022-12-05 | 3152 | 580 | 
 | 2022-12-04 | 3153 | 578 | 
 | 2022-12-03 | 3152 | 578 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 3097 | 563 | 
 | 2022-11-09 | 3098 | 563 | 
 | 2022-11-08 | 3096 | 562 | 
-| 2022-11-07 | 3094 | 562 | 
 

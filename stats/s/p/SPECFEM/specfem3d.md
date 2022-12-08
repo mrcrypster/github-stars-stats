@@ -1,10 +1,10 @@
 # SPECFEM/specfem3d - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 209
 
-★ Stars: 280
+★ Stars: 279
 
 [Open repository](https://github.com/SPECFEM/specfem3d)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 279 | 209 | 
 | 2022-12-06 | 280 | 209 | 
 | 2022-12-05 | 279 | 209 | 
 | 2022-12-03 | 279 | 209 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 279 | 208 | 
 | 2022-11-09 | 277 | 208 | 
 | 2022-11-08 | 277 | 208 | 
-| 2022-11-07 | 275 | 207 | 
 

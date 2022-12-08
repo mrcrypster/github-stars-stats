@@ -1,6 +1,6 @@
 # bitdump/BLHeli - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 988
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 1516 | 988 | 
 | 2022-12-06 | 1516 | 988 | 
 | 2022-12-05 | 1516 | 987 | 
 | 2022-12-04 | 1516 | 986 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 1506 | 985 | 
 | 2022-11-09 | 1506 | 984 | 
 | 2022-11-08 | 1506 | 984 | 
-| 2022-11-07 | 1506 | 984 | 
 

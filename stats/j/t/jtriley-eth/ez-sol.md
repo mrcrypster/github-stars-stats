@@ -1,10 +1,10 @@
 # jtriley-eth/ez-sol - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 0
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/jtriley-eth/ez-sol)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 26 | - | 
 | 2022-12-06 | 25 | - | 
 | 2022-12-05 | 25 | - | 
 | 2022-12-04 | 20 | - | 

@@ -1,6 +1,6 @@
 # Bioruebe/UniExtract2 - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 264
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 2499 | 264 | 
 | 2022-12-06 | 2499 | 264 | 
 | 2022-12-05 | 2498 | 264 | 
 | 2022-12-04 | 2498 | 264 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 2459 | 262 | 
 | 2022-11-09 | 2456 | 262 | 
 | 2022-11-08 | 2456 | 262 | 
-| 2022-11-07 | 2455 | 262 | 
 

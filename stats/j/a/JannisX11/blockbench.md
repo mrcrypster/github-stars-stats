@@ -1,10 +1,10 @@
 # JannisX11/blockbench - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
-☋ Forks: 177
+☋ Forks: 179
 
-★ Stars: 1610
+★ Stars: 1626
 
 [Open repository](https://github.com/JannisX11/blockbench)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 1626 | 179 | 
 | 2022-12-06 | 1610 | 177 | 
 | 2022-12-05 | 1597 | 175 | 
 

@@ -1,6 +1,6 @@
 # ovh/the-bastion - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 71
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 1161 | 71 | 
 | 2022-12-06 | 1161 | 71 | 
 | 2022-12-04 | 1160 | 71 | 
 | 2022-12-03 | 1160 | 71 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 1148 | 69 | 
 | 2022-11-09 | 1147 | 69 | 
 | 2022-11-08 | 1147 | 69 | 
-| 2022-11-07 | 1145 | 69 | 
 

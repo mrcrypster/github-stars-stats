@@ -1,10 +1,10 @@
 # hmcts/hmcts-charts - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 5
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/hmcts/hmcts-charts)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 1 | 5 | 
 | 2022-12-06 | - | 5 | 
 | 2022-12-05 | - | 5 | 
 | 2022-12-04 | - | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | - | 5 | 
 | 2022-11-09 | - | 5 | 
 | 2022-11-08 | - | 5 | 
-| 2022-11-07 | - | 5 | 
 

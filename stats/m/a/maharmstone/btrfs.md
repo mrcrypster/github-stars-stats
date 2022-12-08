@@ -1,6 +1,6 @@
 # maharmstone/btrfs - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 184
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 3579 | 184 | 
 | 2022-12-06 | 3579 | 184 | 
 | 2022-12-05 | 3574 | 184 | 
 | 2022-12-04 | 3572 | 184 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-11 | 3513 | 177 | 
 | 2022-11-10 | 3512 | 177 | 
 | 2022-11-09 | 3507 | 176 | 
-| 2022-11-08 | 3501 | 175 | 
 

@@ -1,10 +1,10 @@
 # minitest/minitest - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 526
 
-★ Stars: 3090
+★ Stars: 3092
 
 [Open repository](https://github.com/minitest/minitest)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 3092 | 526 | 
 | 2022-12-05 | 3090 | 526 | 
 | 2022-12-04 | 3089 | 525 | 
 | 2022-12-03 | 3089 | 525 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 3081 | 523 | 
 | 2022-11-09 | 3080 | 523 | 
 | 2022-11-08 | 3080 | 523 | 
-| 2022-11-07 | 3080 | 523 | 
 

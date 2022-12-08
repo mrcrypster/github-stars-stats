@@ -1,6 +1,6 @@
 # giant-axon/lu.i-neuron-pcb - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 12 | 1 | 
 | 2022-12-06 | 12 | 1 | 
 | 2022-12-05 | 12 | 1 | 
 | 2022-12-03 | 12 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-11 | 11 | 1 | 
 | 2022-11-10 | 11 | 1 | 
 | 2022-11-09 | 11 | 1 | 
-| 2022-11-08 | 11 | 1 | 
 

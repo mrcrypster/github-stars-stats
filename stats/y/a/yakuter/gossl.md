@@ -1,6 +1,6 @@
 # yakuter/gossl - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 186 | 12 | 
 | 2022-12-06 | 186 | 12 | 
 | 2022-12-05 | 186 | 12 | 
 | 2022-12-03 | 186 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 186 | 12 | 
 | 2022-11-09 | 186 | 12 | 
 | 2022-11-08 | 186 | 12 | 
-| 2022-11-07 | 186 | 12 | 
 

@@ -1,10 +1,10 @@
 # NeuraLegion/monitor - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 0
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/NeuraLegion/monitor)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 3 | - | 
 | 2022-12-06 | 2 | - | 
 | 2022-12-04 | 2 | - | 
 | 2022-12-03 | 2 | - | 

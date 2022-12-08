@@ -1,10 +1,10 @@
 # software-mansion/react-native-gesture-handler - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 872
 
-★ Stars: 5159
+★ Stars: 5163
 
 [Open repository](https://github.com/software-mansion/react-native-gesture-handler)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 5163 | 872 | 
 | 2022-12-06 | 5159 | 872 | 
 | 2022-12-04 | 5155 | 871 | 
 | 2022-12-03 | 5155 | 870 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 5118 | 861 | 
 | 2022-11-09 | 5116 | 860 | 
 | 2022-11-08 | 5111 | 860 | 
-| 2022-11-07 | 5106 | 860 | 
 

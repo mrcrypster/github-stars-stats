@@ -1,8 +1,8 @@
 # ptyadana/SQL-Data-Analysis-and-Visualization-Projects - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
-☋ Forks: 262
+☋ Forks: 264
 
 ★ Stars: 486
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 486 | 264 | 
 | 2022-12-06 | 486 | 262 | 
 | 2022-12-04 | 484 | 262 | 
 | 2022-12-03 | 482 | 262 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 464 | 246 | 
 | 2022-11-09 | 463 | 245 | 
 | 2022-11-08 | 462 | 243 | 
-| 2022-11-07 | 461 | 242 | 
 

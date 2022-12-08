@@ -1,10 +1,10 @@
 # alshedivat/al-folio - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
-☋ Forks: 6507
+☋ Forks: 6526
 
-★ Stars: 4439
+★ Stars: 4447
 
 [Open repository](https://github.com/alshedivat/al-folio)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 4447 | 6526 | 
 | 2022-12-05 | 4439 | 6507 | 
 | 2022-12-04 | 4432 | 6486 | 
 | 2022-12-03 | 4424 | 6474 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 4269 | 6223 | 
 | 2022-11-09 | 4264 | 6210 | 
 | 2022-11-08 | 4255 | 6201 | 
-| 2022-11-07 | 4251 | 6197 | 
 

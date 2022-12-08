@@ -1,10 +1,10 @@
 # Shopify/hydrogen - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 310
 
-★ Stars: 3717
+★ Stars: 3721
 
 [Open repository](https://github.com/Shopify/hydrogen)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 3721 | 310 | 
 | 2022-12-05 | 3717 | 310 | 
 | 2022-12-04 | 3715 | 309 | 
 | 2022-12-03 | 3714 | 309 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 3684 | 302 | 
 | 2022-11-09 | 3682 | 302 | 
 | 2022-11-08 | 3679 | 300 | 
-| 2022-11-07 | 3672 | 298 | 
 

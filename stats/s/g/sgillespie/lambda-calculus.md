@@ -1,10 +1,10 @@
 # sgillespie/lambda-calculus - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 15
 
-★ Stars: 62
+★ Stars: 63
 
 [Open repository](https://github.com/sgillespie/lambda-calculus)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 63 | 15 | 
 | 2022-12-06 | 62 | 15 | 
 | 2022-12-05 | 62 | 15 | 
 | 2022-12-04 | 61 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 61 | 14 | 
 | 2022-11-09 | 61 | 14 | 
 | 2022-11-08 | 61 | 14 | 
-| 2022-11-07 | 61 | 14 | 
 

@@ -1,10 +1,10 @@
 # woowacourse/woowacourse-docs - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
-☋ Forks: 323
+☋ Forks: 322
 
-★ Stars: 231
+★ Stars: 230
 
 [Open repository](https://github.com/woowacourse/woowacourse-docs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 230 | 322 | 
 | 2022-12-05 | 231 | 323 | 
 | 2022-12-04 | 232 | 322 | 
 | 2022-12-03 | 233 | 322 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 230 | 318 | 
 | 2022-11-09 | 230 | 318 | 
 | 2022-11-08 | 228 | 315 | 
-| 2022-11-07 | 228 | 311 | 
 

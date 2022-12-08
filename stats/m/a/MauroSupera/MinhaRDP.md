@@ -1,6 +1,6 @@
 # MauroSupera/MinhaRDP - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 1 | 5 | 
 | 2022-12-05 | 1 | 5 | 
 | 2022-12-04 | 1 | 5 | 
 | 2022-12-03 | 1 | 5 | 

@@ -1,10 +1,10 @@
 # przester/wdw21_songbook - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 4
 
-★ Stars: 1
+★ Stars: 3
 
 [Open repository](https://github.com/przester/wdw21_songbook)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 3 | 4 | 
 | 2022-12-06 | 1 | 4 | 
 | 2022-12-04 | 1 | 4 | 
 | 2022-12-03 | 1 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 1 | 3 | 
 | 2022-11-09 | 1 | 3 | 
 | 2022-11-08 | 1 | 3 | 
-| 2022-11-07 | 1 | 3 | 
 

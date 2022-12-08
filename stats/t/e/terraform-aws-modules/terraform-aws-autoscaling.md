@@ -1,6 +1,6 @@
 # terraform-aws-modules/terraform-aws-autoscaling - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 473
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 244 | 473 | 
 | 2022-12-06 | 244 | 473 | 
 | 2022-12-04 | 244 | 473 | 
 | 2022-12-03 | 244 | 473 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 242 | 464 | 
 | 2022-11-09 | 241 | 464 | 
 | 2022-11-08 | 241 | 464 | 
-| 2022-11-07 | 240 | 463 | 
 

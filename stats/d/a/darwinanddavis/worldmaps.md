@@ -1,10 +1,10 @@
 # darwinanddavis/worldmaps - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 7
 
-★ Stars: 55
+★ Stars: 56
 
 [Open repository](https://github.com/darwinanddavis/worldmaps)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 56 | 7 | 
 | 2022-12-05 | 55 | 7 | 
 | 2022-12-04 | 55 | 7 | 
 | 2022-12-03 | 55 | 7 | 

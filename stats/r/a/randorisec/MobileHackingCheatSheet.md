@@ -1,6 +1,6 @@
 # randorisec/MobileHackingCheatSheet - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 172
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 995 | 172 | 
 | 2022-12-06 | 995 | 172 | 
 | 2022-12-05 | 994 | 172 | 
 | 2022-12-04 | 993 | 172 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 985 | 169 | 
 | 2022-11-09 | 985 | 169 | 
 | 2022-11-08 | 985 | 169 | 
-| 2022-11-07 | 985 | 169 | 
 

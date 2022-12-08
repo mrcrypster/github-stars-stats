@@ -1,8 +1,8 @@
 # mviroli/pc2022-code - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
-☋ Forks: 17
+☋ Forks: 18
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 1 | 18 | 
 | 2022-12-06 | 1 | 17 | 
 | 2022-12-05 | 1 | 17 | 
 | 2022-12-04 | 1 | 17 | 

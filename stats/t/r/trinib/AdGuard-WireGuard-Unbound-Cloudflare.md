@@ -1,10 +1,10 @@
 # trinib/AdGuard-WireGuard-Unbound-Cloudflare - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 42
 
-★ Stars: 420
+★ Stars: 423
 
 [Open repository](https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 423 | 42 | 
 | 2022-12-05 | 420 | 42 | 
 | 2022-12-04 | 421 | 42 | 
 | 2022-12-03 | 419 | 42 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 399 | 41 | 
 | 2022-11-09 | 397 | 41 | 
 | 2022-11-08 | 396 | 41 | 
-| 2022-11-07 | 394 | 40 | 
 

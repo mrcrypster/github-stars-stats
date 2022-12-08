@@ -1,10 +1,10 @@
 # letscontrolit/ESPEasy - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
-☋ Forks: 2052
+☋ Forks: 2053
 
-★ Stars: 2842
+★ Stars: 2843
 
 [Open repository](https://github.com/letscontrolit/ESPEasy)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 2843 | 2053 | 
 | 2022-12-06 | 2842 | 2052 | 
 | 2022-12-05 | 2841 | 2051 | 
 | 2022-12-04 | 2839 | 2050 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 2824 | 2044 | 
 | 2022-11-09 | 2824 | 2044 | 
 | 2022-11-08 | 2821 | 2044 | 
-| 2022-11-07 | 2822 | 2044 | 
 

@@ -1,10 +1,10 @@
 # shuding/nextra - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 701
 
-★ Stars: 4793
+★ Stars: 4815
 
 [Open repository](https://github.com/shuding/nextra)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 4815 | 701 | 
 | 2022-12-06 | 4793 | 701 | 
 | 2022-12-05 | 4662 | 699 | 
 | 2022-12-04 | 4546 | 695 | 

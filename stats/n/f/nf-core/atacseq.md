@@ -1,6 +1,6 @@
 # nf-core/atacseq - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 86
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 123 | 86 | 
 | 2022-12-06 | 123 | 86 | 
 | 2022-12-04 | 122 | 86 | 
 | 2022-12-03 | 122 | 86 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 119 | 85 | 
 | 2022-11-09 | 119 | 85 | 
 | 2022-11-08 | 119 | 86 | 
-| 2022-11-07 | 119 | 86 | 
 

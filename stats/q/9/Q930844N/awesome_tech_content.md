@@ -1,10 +1,10 @@
 # Q930844N/awesome_tech_content - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 30
 
-★ Stars: 199
+★ Stars: 198
 
 [Open repository](https://github.com/Q930844N/awesome_tech_content)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 198 | 30 | 
 | 2022-12-06 | 199 | 30 | 
 | 2022-12-04 | 198 | 30 | 
 | 2022-12-03 | 198 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 198 | 30 | 
 | 2022-11-09 | 198 | 30 | 
 | 2022-11-08 | 198 | 30 | 
-| 2022-11-07 | 199 | 30 | 
 

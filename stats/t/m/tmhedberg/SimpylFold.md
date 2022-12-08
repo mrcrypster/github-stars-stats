@@ -1,10 +1,10 @@
 # tmhedberg/SimpylFold - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 57
 
-★ Stars: 615
+★ Stars: 616
 
 [Open repository](https://github.com/tmhedberg/SimpylFold)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 616 | 57 | 
 | 2022-12-06 | 615 | 57 | 
 | 2022-12-04 | 615 | 57 | 
 | 2022-12-03 | 615 | 57 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 612 | 57 | 
 | 2022-11-09 | 612 | 57 | 
 | 2022-11-08 | 612 | 57 | 
-| 2022-11-07 | 612 | 57 | 
 

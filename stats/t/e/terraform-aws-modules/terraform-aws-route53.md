@@ -1,6 +1,6 @@
 # terraform-aws-modules/terraform-aws-route53 - stars & forks statistics
 
-Stats updated on Dec 2022, 05
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 170
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 83 | 170 | 
 | 2022-12-05 | 83 | 170 | 
 | 2022-12-04 | 83 | 171 | 
 | 2022-12-03 | 83 | 171 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 05
 | 2022-11-10 | 79 | 169 | 
 | 2022-11-09 | 79 | 169 | 
 | 2022-11-08 | 79 | 168 | 
-| 2022-11-07 | 78 | 168 | 
 

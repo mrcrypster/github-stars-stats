@@ -1,6 +1,6 @@
 # decentraland/documentation - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 4 | 11 | 
 | 2022-12-06 | 4 | 11 | 
 | 2022-12-04 | 3 | 11 | 
 | 2022-12-03 | 3 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 2 | 9 | 
 | 2022-11-09 | 2 | 8 | 
 | 2022-11-08 | 2 | 6 | 
-| 2022-11-07 | 2 | 6 | 
 

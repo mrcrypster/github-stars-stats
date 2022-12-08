@@ -1,10 +1,10 @@
 # mvisonneau/helm-charts - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 49
 
-★ Stars: 46
+★ Stars: 47
 
 [Open repository](https://github.com/mvisonneau/helm-charts)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 47 | 49 | 
 | 2022-12-06 | 46 | 49 | 
 | 2022-12-05 | 46 | 48 | 
 | 2022-12-04 | 46 | 48 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 45 | 47 | 
 | 2022-11-09 | 45 | 46 | 
 | 2022-11-08 | 44 | 46 | 
-| 2022-11-07 | 44 | 46 | 
 

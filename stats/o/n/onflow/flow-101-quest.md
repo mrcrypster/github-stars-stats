@@ -1,6 +1,6 @@
 # onflow/flow-101-quest - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 07
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-07 | 28 | 25 | 
 | 2022-12-06 | 28 | 25 | 
 | 2022-12-05 | 28 | 25 | 
 | 2022-12-04 | 28 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-10 | 28 | 23 | 
 | 2022-11-09 | 28 | 23 | 
 | 2022-11-08 | 28 | 23 | 
-| 2022-11-07 | 28 | 23 | 
 
