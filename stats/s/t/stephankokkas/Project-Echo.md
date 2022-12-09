@@ -1,10 +1,10 @@
 # stephankokkas/Project-Echo - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 2
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/stephankokkas/Project-Echo)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 5 | 2 | 
 | 2022-12-07 | 4 | 2 | 
 | 2022-12-06 | 4 | 1 | 
 | 2022-12-05 | 4 | 1 | 

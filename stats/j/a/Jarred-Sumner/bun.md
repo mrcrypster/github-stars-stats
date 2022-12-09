@@ -1,10 +1,10 @@
 # Jarred-Sumner/bun - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 866
+☋ Forks: 868
 
-★ Stars: 36515
+★ Stars: 36575
 
 [Open repository](https://github.com/Jarred-Sumner/bun)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 36575 | 868 | 
 | 2022-12-07 | 36515 | 866 | 
 | 2022-12-06 | 36470 | 867 | 
 | 2022-12-05 | 36459 | 867 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 35984 | 854 | 
 | 2022-11-10 | 35914 | 849 | 
 | 2022-11-09 | 35896 | 849 | 
-| 2022-11-08 | 35876 | 849 | 
 

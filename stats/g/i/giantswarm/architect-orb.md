@@ -1,10 +1,10 @@
 # giantswarm/architect-orb - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 1
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/giantswarm/architect-orb)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 3 | 1 | 
 | 2022-12-06 | 2 | 1 | 
 | 2022-12-05 | 2 | 1 | 
 | 2022-12-03 | 2 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-12 | 2 | 1 | 
 | 2022-11-10 | 2 | 1 | 
 | 2022-11-09 | 2 | 1 | 
-| 2022-11-08 | 2 | 1 | 
 

@@ -1,6 +1,6 @@
 # MyLittleSuite/pine - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 34 | 2 | 
 | 2022-12-07 | 34 | 2 | 
 | 2022-12-06 | 34 | 2 | 
 | 2022-12-05 | 33 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 31 | 3 | 
 | 2022-11-10 | 30 | 3 | 
 | 2022-11-09 | 30 | 3 | 
-| 2022-11-08 | 30 | 3 | 
 

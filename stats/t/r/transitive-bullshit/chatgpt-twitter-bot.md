@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 08
 
 ☋ Forks: 7
 
-★ Stars: 91
+★ Stars: 96
 
 [Open repository](https://github.com/transitive-bullshit/chatgpt-twitter-bot)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-08 | 91 | 7 | 
+| 2022-12-08 | 96 | 7 | 
 | 2022-12-07 | 82 | 6 | 
 

@@ -1,6 +1,6 @@
 # jafarlihi/rssnix - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 163 | 6 | 
 | 2022-12-07 | 163 | 6 | 
 | 2022-12-06 | 163 | 6 | 
 | 2022-12-04 | 163 | 6 | 

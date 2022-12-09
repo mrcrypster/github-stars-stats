@@ -1,6 +1,6 @@
 # ismrmrd/siemens_to_ismrmrd - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 22 | 43 | 
 | 2022-12-07 | 22 | 43 | 
 | 2022-12-06 | 22 | 43 | 
 | 2022-12-04 | 22 | 43 | 

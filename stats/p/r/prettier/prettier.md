@@ -1,10 +1,10 @@
 # prettier/prettier - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 3636
 
-★ Stars: 44401
+★ Stars: 44405
 
 [Open repository](https://github.com/prettier/prettier)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 44405 | 3636 | 
 | 2022-12-07 | 44401 | 3636 | 
 | 2022-12-06 | 44390 | 3632 | 
 | 2022-12-04 | 44382 | 3631 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 44211 | 3595 | 
 | 2022-11-10 | 44204 | 3594 | 
 | 2022-11-09 | 44180 | 3592 | 
-| 2022-11-08 | 44172 | 3591 | 
 

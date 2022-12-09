@@ -1,6 +1,6 @@
 # kuis-isle3sw/IoPLMaterials - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 140 | 20 | 
 | 2022-12-07 | 140 | 20 | 
 | 2022-12-05 | 140 | 20 | 
 | 2022-12-04 | 140 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 139 | 20 | 
 | 2022-11-10 | 139 | 20 | 
 | 2022-11-09 | 139 | 20 | 
-| 2022-11-08 | 139 | 20 | 
 

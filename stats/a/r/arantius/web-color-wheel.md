@@ -1,10 +1,10 @@
 # arantius/web-color-wheel - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 8
 
-★ Stars: 92
+★ Stars: 95
 
 [Open repository](https://github.com/arantius/web-color-wheel)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 95 | 8 | 
 | 2022-12-07 | 92 | 8 | 
 | 2022-12-06 | 88 | 8 | 
 | 2022-12-04 | 81 | 8 | 

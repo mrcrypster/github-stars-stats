@@ -1,10 +1,10 @@
 # W4RH4WK/Debloat-Windows-10 - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 839
 
-★ Stars: 5661
+★ Stars: 5662
 
 [Open repository](https://github.com/W4RH4WK/Debloat-Windows-10)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 5662 | 839 | 
 | 2022-12-06 | 5661 | 839 | 
 | 2022-12-05 | 5654 | 837 | 
 | 2022-12-04 | 5654 | 837 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-11 | 5631 | 837 | 
 | 2022-11-10 | 5630 | 837 | 
 | 2022-11-09 | 5628 | 837 | 
-| 2022-11-08 | 5627 | 837 | 
 

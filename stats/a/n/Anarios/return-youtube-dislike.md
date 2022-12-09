@@ -1,10 +1,10 @@
 # Anarios/return-youtube-dislike - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 487
+☋ Forks: 486
 
-★ Stars: 10472
+★ Stars: 10479
 
 [Open repository](https://github.com/Anarios/return-youtube-dislike)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 10479 | 486 | 
 | 2022-12-07 | 10472 | 487 | 
 | 2022-12-05 | 10462 | 486 | 
 | 2022-12-04 | 10459 | 485 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 10363 | 475 | 
 | 2022-11-10 | 10355 | 472 | 
 | 2022-11-09 | 10349 | 472 | 
-| 2022-11-08 | 10341 | 472 | 
 

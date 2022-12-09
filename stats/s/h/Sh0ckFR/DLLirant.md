@@ -1,6 +1,6 @@
 # Sh0ckFR/DLLirant - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 313 | 52 | 
 | 2022-12-07 | 313 | 52 | 
 | 2022-12-05 | 313 | 52 | 
 | 2022-12-04 | 313 | 52 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 311 | 51 | 
 | 2022-11-11 | 311 | 51 | 
 | 2022-11-10 | 311 | 51 | 
-| 2022-11-09 | 311 | 51 | 
 

@@ -1,10 +1,10 @@
 # sebastienros/jint - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 492
+☋ Forks: 494
 
-★ Stars: 3082
+★ Stars: 3088
 
 [Open repository](https://github.com/sebastienros/jint)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 3088 | 494 | 
 | 2022-12-07 | 3082 | 492 | 
 | 2022-12-05 | 3079 | 492 | 
 | 2022-12-04 | 3078 | 492 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 3045 | 490 | 
 | 2022-11-10 | 3042 | 491 | 
 | 2022-11-09 | 3041 | 491 | 
-| 2022-11-08 | 3037 | 490 | 
 

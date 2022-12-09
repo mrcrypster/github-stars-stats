@@ -1,10 +1,10 @@
 # epicmaxco/vuestic-admin - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 1475
 
-★ Stars: 9016
+★ Stars: 9020
 
 [Open repository](https://github.com/epicmaxco/vuestic-admin)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 9020 | 1475 | 
 | 2022-12-06 | 9016 | 1475 | 
 | 2022-12-05 | 9013 | 1475 | 
 | 2022-12-04 | 9012 | 1473 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-11 | 8978 | 1465 | 
 | 2022-11-10 | 8975 | 1465 | 
 | 2022-11-09 | 8977 | 1464 | 
-| 2022-11-08 | 8974 | 1462 | 
 

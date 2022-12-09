@@ -1,6 +1,6 @@
 # deadtrickster/rebar3_elvis_plugin - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 8 | 1 | 
 | 2022-12-07 | 8 | 1 | 
 | 2022-12-06 | 8 | 1 | 
 | 2022-12-05 | 8 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 8 | 1 | 
 | 2022-11-10 | 8 | 1 | 
 | 2022-11-09 | 8 | 1 | 
-| 2022-11-08 | 8 | 1 | 
 

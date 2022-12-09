@@ -1,10 +1,10 @@
 # MasterGeekMX/snap-to-flatpak - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 8
 
-★ Stars: 47
+★ Stars: 48
 
 [Open repository](https://github.com/MasterGeekMX/snap-to-flatpak)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 48 | 8 | 
 | 2022-12-07 | 47 | 8 | 
 | 2022-12-06 | 47 | 8 | 
 | 2022-12-05 | 47 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 47 | 7 | 
 | 2022-11-10 | 47 | 7 | 
 | 2022-11-09 | 47 | 7 | 
-| 2022-11-08 | 47 | 7 | 
 

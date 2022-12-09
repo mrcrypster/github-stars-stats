@@ -1,10 +1,10 @@
 # kevwan/tproxy - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 174
 
-★ Stars: 2509
+★ Stars: 2510
 
 [Open repository](https://github.com/kevwan/tproxy)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 2510 | 174 | 
 | 2022-12-07 | 2509 | 174 | 
 | 2022-12-05 | 2505 | 174 | 
 | 2022-12-04 | 2504 | 174 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 2479 | 169 | 
 | 2022-11-10 | 2479 | 169 | 
 | 2022-11-09 | 2478 | 167 | 
-| 2022-11-08 | 2476 | 167 | 
 

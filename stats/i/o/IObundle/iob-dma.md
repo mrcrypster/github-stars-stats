@@ -1,6 +1,6 @@
 # IObundle/iob-dma - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | - | - | 
 | 2022-12-06 | - | - | 
 | 2022-12-05 | - | - | 
 | 2022-12-04 | - | - | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-12 | - | - | 
 | 2022-11-11 | - | - | 
 | 2022-11-10 | - | - | 
-| 2022-11-09 | - | - | 
 

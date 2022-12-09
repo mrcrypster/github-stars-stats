@@ -1,10 +1,10 @@
 # alphapapa/org-super-agenda - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 100
 
-★ Stars: 1112
+★ Stars: 1113
 
 [Open repository](https://github.com/alphapapa/org-super-agenda)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 1113 | 100 | 
 | 2022-12-06 | 1112 | 100 | 
 | 2022-12-05 | 1112 | 100 | 
 | 2022-12-04 | 1110 | 100 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-11 | 1105 | 100 | 
 | 2022-11-10 | 1104 | 99 | 
 | 2022-11-09 | 1104 | 99 | 
-| 2022-11-08 | 1104 | 98 | 
 

@@ -1,10 +1,10 @@
 # jsmidt/QuantPy - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 80
 
-★ Stars: 391
+★ Stars: 392
 
 [Open repository](https://github.com/jsmidt/QuantPy)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 392 | 80 | 
 | 2022-12-06 | 391 | 80 | 
 | 2022-12-05 | 390 | 80 | 
 | 2022-12-04 | 390 | 79 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-11 | 359 | 75 | 
 | 2022-11-10 | 358 | 75 | 
 | 2022-11-09 | 358 | 75 | 
-| 2022-11-08 | 358 | 75 | 
 

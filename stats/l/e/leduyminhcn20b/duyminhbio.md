@@ -1,8 +1,8 @@
 # leduyminhcn20b/duyminhbio - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 100
+☋ Forks: 101
 
 ★ Stars: 35
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 35 | 101 | 
 | 2022-12-07 | 35 | 100 | 
 | 2022-12-05 | 35 | 99 | 
 | 2022-12-04 | 35 | 99 | 

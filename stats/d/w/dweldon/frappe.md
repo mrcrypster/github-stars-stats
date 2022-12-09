@@ -1,6 +1,6 @@
 # dweldon/frappe - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 9
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 61 | 9 | 
+| 2022-12-08 | 61 | 9 | 
 | 2022-12-07 | 61 | 9 | 
 | 2022-12-06 | 61 | 9 | 
 | 2022-12-04 | 61 | 9 | 

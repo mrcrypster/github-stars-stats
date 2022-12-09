@@ -1,10 +1,10 @@
 # unixsea/dotfiles - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 2
 
-★ Stars: 58
+★ Stars: 59
 
 [Open repository](https://github.com/unixsea/dotfiles)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 59 | 2 | 
 | 2022-12-07 | 58 | 2 | 
 | 2022-12-06 | 58 | 2 | 
 | 2022-12-04 | 58 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 56 | 2 | 
 | 2022-11-10 | 56 | 2 | 
 | 2022-11-09 | 56 | 2 | 
-| 2022-11-08 | 56 | 2 | 
 

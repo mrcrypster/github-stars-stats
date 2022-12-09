@@ -1,8 +1,8 @@
 # RubyMoney/money - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 601
+☋ Forks: 602
 
 ★ Stars: 2549
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 2549 | 602 | 
 | 2022-12-07 | 2549 | 601 | 
 | 2022-12-06 | 2548 | 601 | 
 | 2022-12-04 | 2544 | 602 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 2537 | 599 | 
 | 2022-11-10 | 2537 | 599 | 
 | 2022-11-09 | 2537 | 600 | 
-| 2022-11-08 | 2537 | 600 | 
 

@@ -1,6 +1,6 @@
 # coryodaniel/bonny - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 274 | 23 | 
 | 2022-12-07 | 274 | 23 | 
 | 2022-12-06 | 274 | 23 | 
 | 2022-12-04 | 273 | 23 | 

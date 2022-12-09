@@ -1,10 +1,10 @@
 # epfml/ML_course - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 745
+☋ Forks: 746
 
-★ Stars: 1007
+★ Stars: 1008
 
 [Open repository](https://github.com/epfml/ML_course)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 1008 | 746 | 
 | 2022-12-07 | 1007 | 745 | 
 | 2022-12-06 | 1005 | 744 | 
 | 2022-12-04 | 1002 | 742 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 998 | 740 | 
 | 2022-11-10 | 998 | 739 | 
 | 2022-11-09 | 997 | 738 | 
-| 2022-11-08 | 995 | 738 | 
 

@@ -1,10 +1,10 @@
 # linuxkit/linuxkit - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 969
 
-★ Stars: 7594
+★ Stars: 7595
 
 [Open repository](https://github.com/linuxkit/linuxkit)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 7595 | 969 | 
 | 2022-12-07 | 7594 | 969 | 
 | 2022-12-05 | 7591 | 969 | 
 | 2022-12-04 | 7590 | 969 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 7574 | 972 | 
 | 2022-11-10 | 7573 | 972 | 
 | 2022-11-09 | 7574 | 971 | 
-| 2022-11-08 | 7573 | 971 | 
 

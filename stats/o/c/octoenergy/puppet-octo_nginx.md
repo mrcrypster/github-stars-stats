@@ -1,0 +1,17 @@
+# octoenergy/puppet-octo_nginx - stars & forks statistics
+
+Stats updated on Dec 2022, 08
+
+☋ Forks: 1
+
+★ Stars: 1
+
+[Open repository](https://github.com/octoenergy/puppet-octo_nginx)
+
+[Open detailed stats for octoenergy/puppet-octo_nginx](https://reviewgithub.com/rep/octoenergy/puppet-octo_nginx)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-12-08 | 1 | 1 | 
+

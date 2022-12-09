@@ -1,10 +1,10 @@
 # mdn/browser-compat-data - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 1951
+☋ Forks: 1952
 
-★ Stars: 4320
+★ Stars: 4330
 
 [Open repository](https://github.com/mdn/browser-compat-data)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 4330 | 1952 | 
 | 2022-12-07 | 4320 | 1951 | 
 | 2022-12-06 | 4320 | 1950 | 
 | 2022-12-05 | 4318 | 1949 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 4294 | 1937 | 
 | 2022-11-10 | 4294 | 1937 | 
 | 2022-11-09 | 4292 | 1937 | 
-| 2022-11-08 | 4293 | 1937 | 
 

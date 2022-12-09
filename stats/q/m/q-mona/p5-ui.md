@@ -1,10 +1,10 @@
 # q-mona/p5-ui - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 17
 
-★ Stars: 227
+★ Stars: 228
 
 [Open repository](https://github.com/q-mona/p5-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 228 | 17 | 
 | 2022-12-07 | 227 | 17 | 
 | 2022-12-05 | 226 | 17 | 
 | 2022-12-04 | 224 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 186 | 15 | 
 | 2022-11-10 | 183 | 14 | 
 | 2022-11-09 | 179 | 14 | 
-| 2022-11-08 | 175 | 14 | 
 

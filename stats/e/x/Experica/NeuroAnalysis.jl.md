@@ -1,10 +1,10 @@
 # Experica/NeuroAnalysis.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 6
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/Experica/NeuroAnalysis.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 12 | 6 | 
 | 2022-12-07 | 11 | 6 | 
 | 2022-12-06 | 11 | 6 | 
 | 2022-12-05 | 11 | 6 | 

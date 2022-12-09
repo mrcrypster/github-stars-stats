@@ -1,10 +1,10 @@
 # phpDocumentor/TypeResolver - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 47
 
-★ Stars: 8944
+★ Stars: 8948
 
 [Open repository](https://github.com/phpDocumentor/TypeResolver)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 8948 | 47 | 
 | 2022-12-07 | 8944 | 47 | 
 | 2022-12-06 | 8941 | 47 | 
 | 2022-12-04 | 8940 | 46 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 8929 | 44 | 
 | 2022-11-10 | 8928 | 44 | 
 | 2022-11-09 | 8928 | 44 | 
-| 2022-11-08 | 8926 | 44 | 
 

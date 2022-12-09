@@ -1,10 +1,10 @@
 # clickvisual/clickvisual - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 146
+☋ Forks: 147
 
-★ Stars: 957
+★ Stars: 956
 
 [Open repository](https://github.com/clickvisual/clickvisual)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 956 | 147 | 
 | 2022-12-07 | 957 | 146 | 
 | 2022-12-06 | 952 | 145 | 
 | 2022-12-04 | 949 | 145 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 920 | 142 | 
 | 2022-11-10 | 918 | 142 | 
 | 2022-11-09 | 919 | 141 | 
-| 2022-11-08 | 917 | 140 | 
 

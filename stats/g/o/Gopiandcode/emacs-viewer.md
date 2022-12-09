@@ -1,10 +1,10 @@
 # Gopiandcode/emacs-viewer - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 0
 
-★ Stars: 89
+★ Stars: 91
 
 [Open repository](https://github.com/Gopiandcode/emacs-viewer)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 91 | - | 
 | 2022-12-07 | 89 | - | 
 | 2022-12-06 | 83 | - | 
 | 2022-12-05 | 75 | - | 

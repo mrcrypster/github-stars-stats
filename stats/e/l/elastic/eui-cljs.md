@@ -1,6 +1,6 @@
 # elastic/eui-cljs - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 39 | 6 | 
 | 2022-12-07 | 39 | 6 | 
 | 2022-12-05 | 39 | 6 | 
 | 2022-12-04 | 39 | 6 | 

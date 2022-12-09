@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/python-docs-samples - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 5854
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 5960 | 5854 | 
 | 2022-12-07 | 5960 | 5854 | 
 | 2022-12-06 | 5960 | 5855 | 
 | 2022-12-04 | 5955 | 5852 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 5908 | 5816 | 
 | 2022-11-10 | 5907 | 5816 | 
 | 2022-11-09 | 5903 | 5810 | 
-| 2022-11-08 | 5901 | 5810 | 
 

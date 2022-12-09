@@ -1,6 +1,6 @@
 # Sorangon/Level-Up-Sketch-Open-Project - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 57 | 5 | 
 | 2022-12-07 | 57 | 5 | 
 | 2022-12-06 | 57 | 5 | 
 | 2022-12-04 | 57 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 55 | 4 | 
 | 2022-11-10 | 55 | 4 | 
 | 2022-11-09 | 55 | 4 | 
-| 2022-11-08 | 55 | 4 | 
 

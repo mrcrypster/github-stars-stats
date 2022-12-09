@@ -1,10 +1,10 @@
 # Djancyp/cheat-sheet - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 3
 
-★ Stars: 53
+★ Stars: 54
 
 [Open repository](https://github.com/Djancyp/cheat-sheet)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 54 | 3 | 
 | 2022-12-07 | 53 | 3 | 
 | 2022-12-06 | 53 | 3 | 
 | 2022-12-05 | 53 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 54 | 3 | 
 | 2022-11-11 | 54 | 3 | 
 | 2022-11-09 | 54 | 3 | 
-| 2022-11-08 | 55 | 3 | 
 

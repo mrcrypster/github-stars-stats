@@ -1,6 +1,6 @@
 # atulloh/oddball - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 378 | 30 | 
 | 2022-12-07 | 378 | 30 | 
 | 2022-12-05 | 378 | 30 | 
 | 2022-12-04 | 378 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 370 | 30 | 
 | 2022-11-10 | 369 | 30 | 
 | 2022-11-09 | 369 | 30 | 
-| 2022-11-08 | 369 | 30 | 
 

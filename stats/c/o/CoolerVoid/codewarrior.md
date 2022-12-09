@@ -1,6 +1,6 @@
 # CoolerVoid/codewarrior - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 224 | 57 | 
 | 2022-12-06 | 224 | 57 | 
 | 2022-12-05 | 224 | 57 | 
 | 2022-12-04 | 224 | 57 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-11 | 222 | 56 | 
 | 2022-11-10 | 221 | 56 | 
 | 2022-11-09 | 221 | 56 | 
-| 2022-11-08 | 221 | 56 | 
 

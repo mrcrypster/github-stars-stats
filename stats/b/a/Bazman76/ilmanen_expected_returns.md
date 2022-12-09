@@ -1,10 +1,10 @@
 # Bazman76/ilmanen_expected_returns - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 4
+☋ Forks: 5
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/Bazman76/ilmanen_expected_returns)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 3 | 5 | 
 | 2022-12-07 | 2 | 4 | 
 | 2022-12-06 | 2 | 4 | 
 | 2022-12-05 | 2 | 4 | 

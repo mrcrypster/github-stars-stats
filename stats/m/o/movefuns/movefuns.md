@@ -1,10 +1,10 @@
 # movefuns/movefuns - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 19
 
-★ Stars: 45
+★ Stars: 46
 
 [Open repository](https://github.com/movefuns/movefuns)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 46 | 19 | 
 | 2022-12-06 | 45 | 19 | 
 | 2022-12-05 | 45 | 19 | 
 | 2022-12-04 | 45 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-11 | 40 | 17 | 
 | 2022-11-10 | 40 | 17 | 
 | 2022-11-09 | 40 | 17 | 
-| 2022-11-08 | 40 | 17 | 
 

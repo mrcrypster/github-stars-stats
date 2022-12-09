@@ -1,10 +1,10 @@
 # AdaCore/spark2014 - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
-☋ Forks: 30
+☋ Forks: 29
 
-★ Stars: 181
+★ Stars: 183
 
 [Open repository](https://github.com/AdaCore/spark2014)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 183 | 29 | 
 | 2022-12-06 | 181 | 30 | 
 | 2022-12-05 | 181 | 30 | 
 | 2022-12-03 | 181 | 30 | 

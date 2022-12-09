@@ -1,10 +1,10 @@
 # springfox/springfox - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 1526
 
-★ Stars: 5737
+★ Stars: 5735
 
 [Open repository](https://github.com/springfox/springfox)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 5735 | 1526 | 
 | 2022-12-07 | 5737 | 1526 | 
 | 2022-12-06 | 5737 | 1526 | 
 | 2022-12-04 | 5736 | 1526 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 5717 | 1526 | 
 | 2022-11-10 | 5716 | 1526 | 
 | 2022-11-09 | 5715 | 1525 | 
-| 2022-11-08 | 5712 | 1526 | 
 

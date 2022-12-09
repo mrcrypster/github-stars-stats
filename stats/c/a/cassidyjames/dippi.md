@@ -1,6 +1,6 @@
 # cassidyjames/dippi - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 58 | 25 | 
 | 2022-12-06 | 58 | 25 | 
 | 2022-12-05 | 58 | 25 | 
 | 2022-12-04 | 58 | 25 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-11 | 57 | 25 | 
 | 2022-11-10 | 57 | 25 | 
 | 2022-11-09 | 57 | 25 | 
-| 2022-11-08 | 57 | 25 | 
 

@@ -1,10 +1,10 @@
 # apple/coremltools - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 476
 
-★ Stars: 2978
+★ Stars: 2983
 
 [Open repository](https://github.com/apple/coremltools)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 2983 | 476 | 
 | 2022-12-07 | 2978 | 476 | 
 | 2022-12-05 | 2977 | 476 | 
 | 2022-12-04 | 2974 | 475 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 2937 | 464 | 
 | 2022-11-10 | 2937 | 465 | 
 | 2022-11-09 | 2936 | 464 | 
-| 2022-11-08 | 2934 | 464 | 
 

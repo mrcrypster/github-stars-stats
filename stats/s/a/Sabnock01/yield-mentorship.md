@@ -1,6 +1,6 @@
 # Sabnock01/yield-mentorship - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 23 | - | 
 | 2022-12-07 | 23 | - | 
 | 2022-12-06 | 23 | - | 
 | 2022-12-05 | 23 | - | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 24 | - | 
 | 2022-11-10 | 24 | - | 
 | 2022-11-09 | 24 | - | 
-| 2022-11-08 | 24 | - | 
 

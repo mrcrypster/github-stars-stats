@@ -1,10 +1,10 @@
 # Twipped/InterviewThis - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 401
 
-★ Stars: 6348
+★ Stars: 6349
 
 [Open repository](https://github.com/Twipped/InterviewThis)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 6349 | 401 | 
 | 2022-12-07 | 6348 | 401 | 
 | 2022-12-06 | 6347 | 401 | 
 | 2022-12-05 | 6346 | 401 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 6307 | 398 | 
 | 2022-11-10 | 6305 | 398 | 
 | 2022-11-09 | 6304 | 398 | 
-| 2022-11-08 | 6304 | 397 | 
 

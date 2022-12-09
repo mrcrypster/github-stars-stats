@@ -1,10 +1,10 @@
 # vinceliuice/Graphite-kde-theme - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 5
 
-★ Stars: 90
+★ Stars: 89
 
 [Open repository](https://github.com/vinceliuice/Graphite-kde-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 89 | 5 | 
 | 2022-12-07 | 90 | 5 | 
 | 2022-12-05 | 90 | 5 | 
 | 2022-12-04 | 90 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 88 | 5 | 
 | 2022-11-10 | 88 | 5 | 
 | 2022-11-09 | 88 | 5 | 
-| 2022-11-08 | 86 | 5 | 
 

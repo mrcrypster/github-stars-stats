@@ -1,10 +1,10 @@
 # lewis6991/impatient.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 22
 
-★ Stars: 1085
+★ Stars: 1090
 
 [Open repository](https://github.com/lewis6991/impatient.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 1090 | 22 | 
 | 2022-12-07 | 1085 | 22 | 
 | 2022-12-05 | 1082 | 22 | 
 | 2022-12-04 | 1083 | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 1051 | 18 | 
 | 2022-11-10 | 1050 | 18 | 
 | 2022-11-09 | 1046 | 18 | 
-| 2022-11-08 | 1046 | 18 | 
 

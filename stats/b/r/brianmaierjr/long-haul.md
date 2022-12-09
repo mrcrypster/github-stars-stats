@@ -1,10 +1,10 @@
 # brianmaierjr/long-haul - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 679
 
-★ Stars: 592
+★ Stars: 593
 
 [Open repository](https://github.com/brianmaierjr/long-haul)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 593 | 679 | 
 | 2022-12-07 | 592 | 679 | 
 | 2022-12-06 | 592 | 679 | 
 | 2022-12-05 | 592 | 680 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 587 | 678 | 
 | 2022-11-10 | 587 | 676 | 
 | 2022-11-09 | 587 | 677 | 
-| 2022-11-08 | 588 | 676 | 
 

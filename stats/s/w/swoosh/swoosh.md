@@ -1,10 +1,10 @@
 # swoosh/swoosh - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 171
 
-★ Stars: 1232
+★ Stars: 1233
 
 [Open repository](https://github.com/swoosh/swoosh)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 1233 | 171 | 
 | 2022-12-07 | 1232 | 171 | 
 | 2022-12-05 | 1231 | 172 | 
 | 2022-12-04 | 1229 | 172 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 1225 | 172 | 
 | 2022-11-10 | 1225 | 172 | 
 | 2022-11-09 | 1225 | 172 | 
-| 2022-11-08 | 1225 | 171 | 
 

@@ -1,6 +1,6 @@
 # conda-forge/miniforge-images - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 26 | 12 | 
 | 2022-12-07 | 26 | 12 | 
 | 2022-12-06 | 26 | 12 | 
 | 2022-12-04 | 26 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 25 | 11 | 
 | 2022-11-10 | 25 | 11 | 
 | 2022-11-09 | 25 | 11 | 
-| 2022-11-08 | 25 | 11 | 
 

@@ -1,0 +1,18 @@
+# prosapient/ecto_squash - stars & forks statistics
+
+Stats updated on Dec 2022, 09
+
+☋ Forks: 2
+
+★ Stars: 21
+
+[Open repository](https://github.com/prosapient/ecto_squash)
+
+[Open detailed stats for prosapient/ecto_squash](https://reviewgithub.com/rep/prosapient/ecto_squash)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-12-09 | 21 | 2 | 
+| 2022-12-08 | 19 | 2 | 
+

@@ -1,8 +1,8 @@
 # pharo-project/pharo-llvmDisassembler - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 2
+☋ Forks: 3
 
 ★ Stars: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 6 | 3 | 
 | 2022-12-07 | 6 | 2 | 
 | 2022-12-06 | 6 | 2 | 
 | 2022-12-04 | 6 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 5 | 2 | 
 | 2022-11-10 | 5 | 2 | 
 | 2022-11-09 | 5 | 2 | 
-| 2022-11-08 | 5 | 2 | 
 

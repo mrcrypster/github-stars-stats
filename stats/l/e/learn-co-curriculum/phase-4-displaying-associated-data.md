@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-4-displaying-associated-data - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 1373
+☋ Forks: 1379
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 1 | 1379 | 
 | 2022-12-07 | 1 | 1373 | 
 | 2022-12-06 | 1 | 1367 | 
 | 2022-12-04 | 1 | 1360 | 

@@ -1,10 +1,10 @@
 # gaurangsaini/sipser-computation-3rd-solutions - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 137
+☋ Forks: 138
 
-★ Stars: 577
+★ Stars: 579
 
 [Open repository](https://github.com/gaurangsaini/sipser-computation-3rd-solutions)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 579 | 138 | 
 | 2022-12-07 | 577 | 137 | 
 | 2022-12-06 | 574 | 137 | 
 | 2022-12-04 | 573 | 136 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 554 | 132 | 
 | 2022-11-10 | 553 | 132 | 
 | 2022-11-09 | 551 | 132 | 
-| 2022-11-08 | 549 | 132 | 
 

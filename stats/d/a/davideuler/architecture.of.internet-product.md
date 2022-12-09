@@ -1,10 +1,10 @@
 # davideuler/architecture.of.internet-product - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
-☋ Forks: 4528
+☋ Forks: 4529
 
-★ Stars: 19283
+★ Stars: 19284
 
 [Open repository](https://github.com/davideuler/architecture.of.internet-product)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 19284 | 4529 | 
 | 2022-12-06 | 19283 | 4528 | 
 | 2022-12-05 | 19277 | 4526 | 
 | 2022-12-04 | 19260 | 4526 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-11 | 19195 | 4514 | 
 | 2022-11-10 | 19193 | 4514 | 
 | 2022-11-09 | 19194 | 4513 | 
-| 2022-11-08 | 19192 | 4512 | 
 

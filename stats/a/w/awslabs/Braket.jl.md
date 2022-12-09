@@ -1,10 +1,10 @@
 # awslabs/Braket.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 4
 
-★ Stars: 67
+★ Stars: 69
 
 [Open repository](https://github.com/awslabs/Braket.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 69 | 4 | 
 | 2022-12-07 | 67 | 4 | 
 | 2022-12-06 | 67 | 4 | 
 | 2022-12-04 | 66 | 4 | 

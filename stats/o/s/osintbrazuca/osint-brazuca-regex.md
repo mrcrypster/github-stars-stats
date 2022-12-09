@@ -1,10 +1,10 @@
 # osintbrazuca/osint-brazuca-regex - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 58
+☋ Forks: 57
 
-★ Stars: 742
+★ Stars: 748
 
 [Open repository](https://github.com/osintbrazuca/osint-brazuca-regex)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 748 | 57 | 
 | 2022-12-07 | 742 | 58 | 
 | 2022-12-06 | 736 | 58 | 
 | 2022-12-05 | 734 | 57 | 

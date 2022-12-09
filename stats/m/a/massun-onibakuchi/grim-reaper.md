@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 08
 
 ☋ Forks: 2
 
-★ Stars: 56
+★ Stars: 57
 
 [Open repository](https://github.com/massun-onibakuchi/grim-reaper)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-08 | 56 | 2 | 
+| 2022-12-08 | 57 | 2 | 
 | 2022-12-07 | 55 | 2 | 
 

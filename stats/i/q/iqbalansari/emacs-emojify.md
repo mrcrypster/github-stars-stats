@@ -1,6 +1,6 @@
 # iqbalansari/emacs-emojify - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 373 | 39 | 
 | 2022-12-06 | 373 | 39 | 
 | 2022-12-05 | 372 | 39 | 
 | 2022-12-03 | 372 | 39 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-12 | 369 | 39 | 
 | 2022-11-11 | 369 | 39 | 
 | 2022-11-10 | 369 | 39 | 
-| 2022-11-09 | 368 | 39 | 
 

@@ -1,6 +1,6 @@
 # mhinz/vim-grepper - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 1167 | 62 | 
 | 2022-12-07 | 1167 | 62 | 
 | 2022-12-06 | 1167 | 62 | 
 | 2022-12-04 | 1165 | 61 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 1163 | 60 | 
 | 2022-11-10 | 1162 | 60 | 
 | 2022-11-09 | 1161 | 60 | 
-| 2022-11-08 | 1161 | 60 | 
 

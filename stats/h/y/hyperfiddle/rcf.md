@@ -1,10 +1,10 @@
 # hyperfiddle/rcf - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 6
 
-★ Stars: 216
+★ Stars: 219
 
 [Open repository](https://github.com/hyperfiddle/rcf)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 219 | 6 | 
+| 2022-12-08 | 219 | 6 | 
 | 2022-12-07 | 216 | 6 | 
 | 2022-12-06 | 215 | 6 | 
 | 2022-12-05 | 215 | 6 | 
@@ -40,5 +42,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 208 | 5 | 
 | 2022-11-10 | 208 | 5 | 
 | 2022-11-09 | 207 | 4 | 
-| 2022-11-08 | 207 | 4 | 
 

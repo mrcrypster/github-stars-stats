@@ -1,10 +1,10 @@
 # nullpo-head/wsl-distrod - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
-☋ Forks: 65
+☋ Forks: 66
 
-★ Stars: 1535
+★ Stars: 1537
 
 [Open repository](https://github.com/nullpo-head/wsl-distrod)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 1537 | 66 | 
 | 2022-12-07 | 1535 | 65 | 
 | 2022-12-06 | 1533 | 65 | 
 | 2022-12-05 | 1534 | 65 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 1497 | 65 | 
 | 2022-11-11 | 1497 | 65 | 
 | 2022-11-09 | 1496 | 64 | 
-| 2022-11-08 | 1498 | 64 | 
 

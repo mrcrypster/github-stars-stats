@@ -1,10 +1,10 @@
 # kleampa/not-paid - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 734
+☋ Forks: 735
 
-★ Stars: 9578
+★ Stars: 9580
 
 [Open repository](https://github.com/kleampa/not-paid)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 9580 | 735 | 
 | 2022-12-07 | 9578 | 734 | 
 | 2022-12-06 | 9578 | 734 | 
 | 2022-12-04 | 9577 | 734 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 9575 | 735 | 
 | 2022-11-10 | 9574 | 735 | 
 | 2022-11-09 | 9573 | 736 | 
-| 2022-11-08 | 9572 | 736 | 
 

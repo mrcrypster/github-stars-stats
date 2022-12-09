@@ -1,10 +1,10 @@
 # material-foundation/material-text-accessibility-ios - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 42
 
-★ Stars: 51
+★ Stars: 52
 
 [Open repository](https://github.com/material-foundation/material-text-accessibility-ios)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 52 | 42 | 
 | 2022-12-07 | 51 | 42 | 
 | 2022-12-06 | 51 | 42 | 
 | 2022-12-04 | 51 | 42 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 51 | 41 | 
 | 2022-11-10 | 51 | 41 | 
 | 2022-11-09 | 51 | 41 | 
-| 2022-11-08 | 51 | 41 | 
 

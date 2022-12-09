@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 08
 
 ☋ Forks: 41
 
-★ Stars: 1216
+★ Stars: 1221
 
 [Open repository](https://github.com/cachix/devenv)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-08 | 1216 | 41 | 
+| 2022-12-08 | 1221 | 41 | 
 | 2022-12-07 | 1214 | 41 | 
 | 2022-12-06 | 1207 | 40 | 
 | 2022-12-05 | 1192 | 39 | 

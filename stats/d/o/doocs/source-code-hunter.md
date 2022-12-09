@@ -1,10 +1,10 @@
 # doocs/source-code-hunter - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 2170
+☋ Forks: 2171
 
-★ Stars: 11160
+★ Stars: 11162
 
 [Open repository](https://github.com/doocs/source-code-hunter)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 11162 | 2171 | 
 | 2022-12-07 | 11160 | 2170 | 
 | 2022-12-06 | 11156 | 2169 | 
 | 2022-12-04 | 11152 | 2167 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 11079 | 2147 | 
 | 2022-11-10 | 11073 | 2146 | 
 | 2022-11-09 | 11069 | 2145 | 
-| 2022-11-08 | 11060 | 2144 | 
 

@@ -1,6 +1,6 @@
 # CS-Tao/whu-library-seat - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 767 | 25 | 
 | 2022-12-07 | 767 | 25 | 
 | 2022-12-05 | 767 | 25 | 
 | 2022-12-04 | 767 | 25 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 766 | 25 | 
 | 2022-11-11 | 765 | 25 | 
 | 2022-11-10 | 765 | 25 | 
-| 2022-11-09 | 765 | 25 | 
 

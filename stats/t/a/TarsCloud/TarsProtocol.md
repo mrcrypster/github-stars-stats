@@ -1,6 +1,6 @@
 # TarsCloud/TarsProtocol - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 32 | 21 | 
 | 2022-12-07 | 32 | 21 | 
 | 2022-12-06 | 32 | 21 | 
 | 2022-12-05 | 32 | 21 | 

@@ -1,6 +1,6 @@
 # yuriy-chumak/ol - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 176 | 10 | 
 | 2022-12-07 | 176 | 10 | 
 | 2022-12-06 | 176 | 10 | 
 | 2022-12-05 | 176 | 9 | 

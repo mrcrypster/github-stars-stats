@@ -1,6 +1,6 @@
 # membraneframework/beamchmark - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 74 | 1 | 
 | 2022-12-06 | 74 | 1 | 
 | 2022-12-05 | 74 | 1 | 
 | 2022-12-04 | 74 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-11 | 73 | 1 | 
 | 2022-11-10 | 73 | 1 | 
 | 2022-11-09 | 73 | 1 | 
-| 2022-11-08 | 73 | 1 | 
 

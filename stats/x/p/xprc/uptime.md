@@ -1,10 +1,10 @@
 # xprc/uptime - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 1
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/xprc/uptime)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 4 | 1 | 
 | 2022-12-07 | 3 | 1 | 
 | 2022-12-06 | 3 | 1 | 
 | 2022-12-05 | 3 | 1 | 

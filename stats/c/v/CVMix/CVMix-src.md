@@ -1,10 +1,10 @@
 # CVMix/CVMix-src - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 29
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/CVMix/CVMix-src)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 22 | 29 | 
 | 2022-12-07 | 21 | 29 | 
 | 2022-12-06 | 21 | 29 | 
 | 2022-12-05 | 21 | 29 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 21 | 29 | 
 | 2022-11-10 | 21 | 29 | 
 | 2022-11-09 | 21 | 29 | 
-| 2022-11-08 | 21 | 29 | 
 

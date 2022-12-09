@@ -1,8 +1,8 @@
 # bill-zhanxg/MEMZ_Destructive_Clean-Download - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 25
+☋ Forks: 26
 
 ★ Stars: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 9 | 26 | 
 | 2022-12-07 | 9 | 25 | 
 | 2022-12-05 | 9 | 25 | 
 | 2022-12-04 | 9 | 25 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 9 | 25 | 
 | 2022-11-10 | 9 | 25 | 
 | 2022-11-09 | 9 | 24 | 
-| 2022-11-08 | 9 | 24 | 
 

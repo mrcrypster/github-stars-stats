@@ -1,10 +1,10 @@
 # apple/swift-tools-support-core - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 112
+☋ Forks: 114
 
-★ Stars: 336
+★ Stars: 337
 
 [Open repository](https://github.com/apple/swift-tools-support-core)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 337 | 114 | 
 | 2022-12-07 | 336 | 112 | 
 | 2022-12-05 | 336 | 112 | 
 | 2022-12-04 | 336 | 111 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 331 | 107 | 
 | 2022-11-10 | 331 | 107 | 
 | 2022-11-09 | 331 | 107 | 
-| 2022-11-08 | 331 | 107 | 
 

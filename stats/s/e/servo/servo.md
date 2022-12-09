@@ -1,6 +1,6 @@
 # servo/servo - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 2659
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 21893 | 2659 | 
 | 2022-12-07 | 21893 | 2659 | 
 | 2022-12-06 | 21892 | 2659 | 
 | 2022-12-05 | 21885 | 2657 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 21773 | 2653 | 
 | 2022-11-11 | 21771 | 2653 | 
 | 2022-11-10 | 21765 | 2653 | 
-| 2022-11-09 | 21765 | 2653 | 
 

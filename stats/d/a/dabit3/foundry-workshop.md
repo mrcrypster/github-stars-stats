@@ -1,10 +1,10 @@
 # dabit3/foundry-workshop - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 5
 
-★ Stars: 66
+★ Stars: 67
 
 [Open repository](https://github.com/dabit3/foundry-workshop)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 67 | 5 | 
 | 2022-12-07 | 66 | 5 | 
 | 2022-12-06 | 65 | 5 | 
 | 2022-12-04 | 65 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 60 | 4 | 
 | 2022-11-10 | 60 | 4 | 
 | 2022-11-09 | 60 | 4 | 
-| 2022-11-08 | 60 | 4 | 
 

@@ -1,10 +1,10 @@
 # neondatabase/neon - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 130
 
-★ Stars: 5421
+★ Stars: 5445
 
 [Open repository](https://github.com/neondatabase/neon)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 5445 | 130 | 
 | 2022-12-07 | 5421 | 130 | 
 | 2022-12-05 | 5400 | 130 | 
 | 2022-12-04 | 5382 | 129 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 5134 | 129 | 
 | 2022-11-10 | 5109 | 129 | 
 | 2022-11-09 | 5089 | 128 | 
-| 2022-11-08 | 5073 | 128 | 
 

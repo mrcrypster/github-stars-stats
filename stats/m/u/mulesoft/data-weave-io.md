@@ -1,6 +1,6 @@
 # mulesoft/data-weave-io - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 11 | - | 
 | 2022-12-06 | 11 | - | 
 | 2022-12-05 | 11 | - | 
 | 2022-12-03 | 11 | - | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-12 | 10 | - | 
 | 2022-11-10 | 10 | - | 
 | 2022-11-09 | 10 | - | 
-| 2022-11-08 | 10 | - | 
 

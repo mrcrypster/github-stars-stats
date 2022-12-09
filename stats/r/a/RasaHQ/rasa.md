@@ -1,10 +1,10 @@
 # RasaHQ/rasa - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
-☋ Forks: 4175
+☋ Forks: 4178
 
-★ Stars: 15163
+★ Stars: 15169
 
 [Open repository](https://github.com/RasaHQ/rasa)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 15169 | 4178 | 
 | 2022-12-06 | 15163 | 4175 | 
 | 2022-12-05 | 15150 | 4174 | 
 | 2022-12-03 | 15145 | 4176 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-11 | 15053 | 4158 | 
 | 2022-11-10 | 15049 | 4155 | 
 | 2022-11-09 | 15045 | 4155 | 
-| 2022-11-08 | 15042 | 4153 | 
 

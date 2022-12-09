@@ -1,10 +1,10 @@
 # sebdah/vim-delve - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 23
 
-★ Stars: 470
+★ Stars: 471
 
 [Open repository](https://github.com/sebdah/vim-delve)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 471 | 23 | 
+| 2022-12-08 | 470 | 23 | 
 | 2022-12-07 | 470 | 23 | 
 | 2022-12-05 | 470 | 23 | 
 | 2022-12-04 | 470 | 23 | 
@@ -40,5 +42,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 468 | 24 | 
 | 2022-11-10 | 468 | 24 | 
 | 2022-11-09 | 467 | 24 | 
-| 2022-11-08 | 467 | 24 | 
 

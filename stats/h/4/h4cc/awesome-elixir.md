@@ -1,10 +1,10 @@
 # h4cc/awesome-elixir - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 1121
 
-★ Stars: 11644
+★ Stars: 11646
 
 [Open repository](https://github.com/h4cc/awesome-elixir)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 11646 | 1121 | 
 | 2022-12-07 | 11644 | 1121 | 
 | 2022-12-05 | 11641 | 1121 | 
 | 2022-12-04 | 11639 | 1121 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 11598 | 1121 | 
 | 2022-11-10 | 11596 | 1121 | 
 | 2022-11-09 | 11598 | 1121 | 
-| 2022-11-08 | 11597 | 1121 | 
 

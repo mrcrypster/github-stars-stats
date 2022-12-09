@@ -1,10 +1,10 @@
 # vuepress-theme-hope/vuepress-theme-hope - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 310
+☋ Forks: 315
 
-★ Stars: 877
+★ Stars: 880
 
 [Open repository](https://github.com/vuepress-theme-hope/vuepress-theme-hope)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 880 | 315 | 
 | 2022-12-07 | 877 | 310 | 
 | 2022-12-05 | 875 | 306 | 
 | 2022-12-04 | 871 | 305 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 816 | 277 | 
 | 2022-11-10 | 814 | 276 | 
 | 2022-11-09 | 811 | 275 | 
-| 2022-11-08 | 806 | 276 | 
 

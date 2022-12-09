@@ -1,10 +1,10 @@
 # doctrine/DoctrineBundle - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 429
 
-★ Stars: 4452
+★ Stars: 4454
 
 [Open repository](https://github.com/doctrine/DoctrineBundle)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 4454 | 429 | 
 | 2022-12-06 | 4452 | 429 | 
 | 2022-12-05 | 4452 | 429 | 
 | 2022-12-03 | 4451 | 429 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-12 | 4440 | 427 | 
 | 2022-11-10 | 4439 | 427 | 
 | 2022-11-09 | 4439 | 427 | 
-| 2022-11-08 | 4438 | 427 | 
 

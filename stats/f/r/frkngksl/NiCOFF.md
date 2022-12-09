@@ -1,8 +1,8 @@
 # frkngksl/NiCOFF - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
-☋ Forks: 15
+☋ Forks: 16
 
 ★ Stars: 127
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 127 | 16 | 
 | 2022-12-07 | 127 | 15 | 
 | 2022-12-06 | 127 | 15 | 
 | 2022-12-05 | 127 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 127 | 15 | 
 | 2022-11-10 | 127 | 15 | 
 | 2022-11-09 | 127 | 15 | 
-| 2022-11-08 | 127 | 15 | 
 

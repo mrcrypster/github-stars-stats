@@ -1,6 +1,6 @@
 # antoniojmsjr/FastReportPrinter - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 16 | 7 | 
 | 2022-12-07 | 16 | 7 | 
 | 2022-12-06 | 16 | 7 | 
 | 2022-12-05 | 16 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 16 | 5 | 
 | 2022-11-11 | 16 | 5 | 
 | 2022-11-10 | 16 | 5 | 
-| 2022-11-09 | 16 | 5 | 
 

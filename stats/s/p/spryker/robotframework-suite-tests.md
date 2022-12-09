@@ -1,10 +1,10 @@
 # spryker/robotframework-suite-tests - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 4
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/spryker/robotframework-suite-tests)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 9 | 4 | 
 | 2022-12-07 | 8 | 4 | 
 | 2022-12-06 | 8 | 4 | 
 | 2022-12-04 | 8 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 7 | 3 | 
 | 2022-11-10 | 7 | 3 | 
 | 2022-11-09 | 7 | 3 | 
-| 2022-11-08 | 7 | 3 | 
 

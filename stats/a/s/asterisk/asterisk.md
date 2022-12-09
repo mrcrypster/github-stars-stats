@@ -1,10 +1,10 @@
 # asterisk/asterisk - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 764
+☋ Forks: 765
 
-★ Stars: 1351
+★ Stars: 1353
 
 [Open repository](https://github.com/asterisk/asterisk)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 1353 | 765 | 
 | 2022-12-07 | 1351 | 764 | 
 | 2022-12-06 | 1351 | 764 | 
 | 2022-12-04 | 1348 | 764 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 1335 | 757 | 
 | 2022-11-10 | 1336 | 757 | 
 | 2022-11-09 | 1336 | 757 | 
-| 2022-11-08 | 1336 | 756 | 
 

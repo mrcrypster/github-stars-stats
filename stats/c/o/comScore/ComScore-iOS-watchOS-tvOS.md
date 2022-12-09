@@ -1,6 +1,6 @@
 # comScore/ComScore-iOS-watchOS-tvOS - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 11 | 18 | 
 | 2022-12-07 | 11 | 18 | 
 | 2022-12-06 | 11 | 18 | 
 | 2022-12-04 | 11 | 18 | 

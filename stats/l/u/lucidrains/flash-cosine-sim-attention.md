@@ -1,6 +1,6 @@
 # lucidrains/flash-cosine-sim-attention - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 171 | 7 | 
 | 2022-12-07 | 171 | 7 | 
 | 2022-12-06 | 171 | 7 | 
 | 2022-12-04 | 171 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 169 | 7 | 
 | 2022-11-10 | 169 | 7 | 
 | 2022-11-09 | 169 | 7 | 
-| 2022-11-08 | 169 | 7 | 
 

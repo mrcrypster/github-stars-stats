@@ -1,6 +1,6 @@
 # Hamid-Nasiri/Recurrent-Fuzzy-Neural-Network - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 24 | 3 | 
 | 2022-12-06 | 24 | 3 | 
 | 2022-12-05 | 24 | 3 | 
 | 2022-12-04 | 23 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-12 | 21 | 1 | 
 | 2022-11-11 | 21 | 1 | 
 | 2022-11-10 | 21 | 1 | 
-| 2022-11-09 | 21 | 1 | 
 

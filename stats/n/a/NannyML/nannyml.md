@@ -1,6 +1,6 @@
 # NannyML/nannyml - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 83
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 1279 | 83 | 
 | 2022-12-07 | 1279 | 83 | 
 | 2022-12-06 | 1275 | 83 | 
 | 2022-12-05 | 1273 | 82 | 

@@ -1,8 +1,8 @@
 # HoGentTIN/latex-hogent-bachproef - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 56
+☋ Forks: 57
 
 ★ Stars: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 11 | 57 | 
 | 2022-12-07 | 11 | 56 | 
 | 2022-12-06 | 11 | 56 | 
 | 2022-12-04 | 11 | 55 | 

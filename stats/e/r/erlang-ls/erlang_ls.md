@@ -1,6 +1,6 @@
 # erlang-ls/erlang_ls - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 111
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 527 | 111 | 
 | 2022-12-07 | 527 | 111 | 
 | 2022-12-06 | 526 | 111 | 
 | 2022-12-05 | 525 | 111 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 524 | 109 | 
 | 2022-11-10 | 524 | 109 | 
 | 2022-11-09 | 525 | 109 | 
-| 2022-11-08 | 525 | 109 | 
 

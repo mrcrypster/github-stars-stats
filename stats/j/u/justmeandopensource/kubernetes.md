@@ -1,8 +1,8 @@
 # justmeandopensource/kubernetes - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 2556
+☋ Forks: 2558
 
 ★ Stars: 1364
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 1364 | 2558 | 
 | 2022-12-07 | 1364 | 2556 | 
 | 2022-12-06 | 1362 | 2553 | 
 | 2022-12-04 | 1363 | 2550 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 1349 | 2510 | 
 | 2022-11-10 | 1347 | 2509 | 
 | 2022-11-09 | 1345 | 2507 | 
-| 2022-11-08 | 1343 | 2502 | 
 

@@ -1,6 +1,6 @@
 # elmish/browser - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 32 | 18 | 
 | 2022-12-06 | 32 | 18 | 
 | 2022-12-05 | 32 | 18 | 
 | 2022-12-04 | 32 | 18 | 

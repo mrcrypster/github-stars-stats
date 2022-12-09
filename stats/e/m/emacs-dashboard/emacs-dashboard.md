@@ -1,10 +1,10 @@
 # emacs-dashboard/emacs-dashboard - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 107
 
-★ Stars: 1001
+★ Stars: 1002
 
 [Open repository](https://github.com/emacs-dashboard/emacs-dashboard)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 1002 | 107 | 
 | 2022-12-07 | 1001 | 107 | 
 | 2022-12-06 | 1001 | 107 | 
 | 2022-12-05 | 1000 | 107 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 989 | 109 | 
 | 2022-11-10 | 989 | 109 | 
 | 2022-11-09 | 988 | 109 | 
-| 2022-11-08 | 989 | 109 | 
 

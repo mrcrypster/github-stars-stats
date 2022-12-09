@@ -1,10 +1,10 @@
 # lucidrains/DALLE-pytorch - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 559
 
-★ Stars: 4951
+★ Stars: 4952
 
 [Open repository](https://github.com/lucidrains/DALLE-pytorch)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 4952 | 559 | 
 | 2022-12-07 | 4951 | 559 | 
 | 2022-12-06 | 4950 | 559 | 
 | 2022-12-04 | 4950 | 559 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 4923 | 555 | 
 | 2022-11-10 | 4919 | 555 | 
 | 2022-11-09 | 4919 | 555 | 
-| 2022-11-08 | 4917 | 555 | 
 

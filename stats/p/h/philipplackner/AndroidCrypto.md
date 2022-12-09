@@ -1,8 +1,8 @@
 # philipplackner/AndroidCrypto - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
-☋ Forks: 13
+☋ Forks: 14
 
 ★ Stars: 35
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 35 | 14 | 
 | 2022-12-06 | 35 | 13 | 
 | 2022-12-05 | 35 | 13 | 
 | 2022-12-03 | 35 | 13 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-12 | 30 | 13 | 
 | 2022-11-11 | 30 | 12 | 
 | 2022-11-10 | 30 | 12 | 
-| 2022-11-09 | 30 | 12 | 
 

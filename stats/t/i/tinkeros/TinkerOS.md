@@ -1,6 +1,6 @@
 # tinkeros/TinkerOS - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 100 | 11 | 
 | 2022-12-07 | 100 | 11 | 
 | 2022-12-05 | 100 | 11 | 
 | 2022-12-04 | 100 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 94 | 10 | 
 | 2022-11-10 | 94 | 10 | 
 | 2022-11-09 | 94 | 10 | 
-| 2022-11-08 | 94 | 10 | 
 

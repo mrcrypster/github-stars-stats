@@ -1,10 +1,10 @@
 # chenxuuu/sms_forwarding - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 22
 
-★ Stars: 209
+★ Stars: 211
 
 [Open repository](https://github.com/chenxuuu/sms_forwarding)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 211 | 22 | 
 | 2022-12-07 | 209 | 22 | 
 | 2022-12-06 | 205 | 21 | 
 | 2022-12-04 | 201 | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 88 | 16 | 
 | 2022-11-10 | 88 | 16 | 
 | 2022-11-09 | 86 | 13 | 
-| 2022-11-08 | 82 | 11 | 
 

@@ -1,6 +1,6 @@
 # econia-labs/econia - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 98 | 28 | 
 | 2022-12-07 | 98 | 28 | 
 | 2022-12-05 | 97 | 28 | 
 | 2022-12-04 | 97 | 28 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 87 | 26 | 
 | 2022-11-11 | 87 | 26 | 
 | 2022-11-10 | 87 | 26 | 
-| 2022-11-09 | 87 | 26 | 
 

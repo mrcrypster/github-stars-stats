@@ -1,6 +1,6 @@
 # jsk-ros-pkg/jsk_roseus - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 17 | 55 | 
 | 2022-12-07 | 17 | 55 | 
 | 2022-12-06 | 17 | 55 | 
 | 2022-12-04 | 17 | 55 | 

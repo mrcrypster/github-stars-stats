@@ -1,6 +1,6 @@
 # ioniodi/sitegr - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 131
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 4 | 131 | 
 | 2022-12-07 | 4 | 131 | 
 | 2022-12-06 | 4 | 131 | 
 | 2022-12-04 | 4 | 131 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 4 | 132 | 
 | 2022-11-10 | 4 | 132 | 
 | 2022-11-09 | 4 | 132 | 
-| 2022-11-08 | 4 | 132 | 
 

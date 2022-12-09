@@ -1,8 +1,8 @@
 # lewagon/data-setup - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 378
+☋ Forks: 377
 
 ★ Stars: 1609
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 1609 | 377 | 
 | 2022-12-07 | 1609 | 378 | 
 | 2022-12-06 | 1610 | 378 | 
 | 2022-12-05 | 1610 | 378 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 1607 | 371 | 
 | 2022-11-10 | 1606 | 369 | 
 | 2022-11-09 | 1605 | 369 | 
-| 2022-11-08 | 1605 | 369 | 
 

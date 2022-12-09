@@ -1,10 +1,10 @@
 # starkoora/wanted-pre-onboarding-challenge-fe-1-api - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 146
 
-★ Stars: 51
+★ Stars: 50
 
 [Open repository](https://github.com/starkoora/wanted-pre-onboarding-challenge-fe-1-api)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 50 | 146 | 
 | 2022-12-06 | 51 | 146 | 
 | 2022-12-05 | 51 | 146 | 
 | 2022-12-03 | 51 | 146 | 

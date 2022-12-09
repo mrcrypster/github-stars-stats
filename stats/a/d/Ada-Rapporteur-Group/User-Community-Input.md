@@ -1,6 +1,6 @@
 # Ada-Rapporteur-Group/User-Community-Input - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 15 | 1 | 
 | 2022-12-07 | 15 | 1 | 
 | 2022-12-06 | 15 | 1 | 
 | 2022-12-04 | 15 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 15 | 1 | 
 | 2022-11-10 | 15 | 1 | 
 | 2022-11-09 | 15 | 1 | 
-| 2022-11-08 | 15 | 1 | 
 

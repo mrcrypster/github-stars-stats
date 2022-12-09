@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 08
 
-☋ Forks: 2516
+☋ Forks: 2517
 
-★ Stars: 6491
+★ Stars: 6492
 
 [Open repository](https://github.com/PHPOffice/PHPWord)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-08 | 6491 | 2516 | 
+| 2022-12-08 | 6492 | 2517 | 
 | 2022-12-07 | 6490 | 2516 | 
 | 2022-12-06 | 6486 | 2515 | 
 | 2022-12-04 | 6483 | 2514 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-11 | 6452 | 2514 | 
 | 2022-11-10 | 6452 | 2513 | 
 | 2022-11-09 | 6451 | 2513 | 
-| 2022-11-08 | 6451 | 2513 | 
 

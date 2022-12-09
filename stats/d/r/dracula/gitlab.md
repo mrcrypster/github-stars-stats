@@ -1,6 +1,6 @@
 # dracula/gitlab - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 8 | 2 | 
 | 2022-12-06 | 8 | 2 | 
 | 2022-12-05 | 8 | 2 | 
 | 2022-12-03 | 8 | 2 | 

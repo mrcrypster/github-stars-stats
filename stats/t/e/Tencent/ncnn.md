@@ -1,10 +1,10 @@
 # Tencent/ncnn - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 3681
+☋ Forks: 3684
 
-★ Stars: 16057
+★ Stars: 16063
 
 [Open repository](https://github.com/Tencent/ncnn)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 16063 | 3684 | 
 | 2022-12-07 | 16057 | 3681 | 
 | 2022-12-06 | 16051 | 3679 | 
 | 2022-12-05 | 16044 | 3679 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 15888 | 3654 | 
 | 2022-11-10 | 15875 | 3654 | 
 | 2022-11-09 | 15867 | 3655 | 
-| 2022-11-08 | 15860 | 3658 | 
 

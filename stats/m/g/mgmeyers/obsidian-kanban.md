@@ -1,10 +1,10 @@
 # mgmeyers/obsidian-kanban - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 87
 
-★ Stars: 1597
+★ Stars: 1599
 
 [Open repository](https://github.com/mgmeyers/obsidian-kanban)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 1599 | 87 | 
 | 2022-12-07 | 1597 | 87 | 
 | 2022-12-06 | 1591 | 87 | 
 | 2022-12-05 | 1587 | 87 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 1528 | 84 | 
 | 2022-11-10 | 1524 | 84 | 
 | 2022-11-09 | 1521 | 84 | 
-| 2022-11-08 | 1520 | 84 | 
 

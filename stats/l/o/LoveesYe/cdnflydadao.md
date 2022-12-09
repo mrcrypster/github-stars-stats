@@ -1,6 +1,6 @@
 # LoveesYe/cdnflydadao - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 214
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 146 | 214 | 
 | 2022-12-07 | 146 | 214 | 
 | 2022-12-05 | 146 | 214 | 
 | 2022-12-04 | 146 | 214 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 136 | 204 | 
 | 2022-11-10 | 136 | 204 | 
 | 2022-11-09 | 134 | 204 | 
-| 2022-11-08 | 134 | 204 | 
 

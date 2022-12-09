@@ -1,10 +1,10 @@
 # RivaanRanawat/tiktok-flutter-clone - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 106
 
-★ Stars: 192
+★ Stars: 193
 
 [Open repository](https://github.com/RivaanRanawat/tiktok-flutter-clone)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 193 | 106 | 
 | 2022-12-07 | 192 | 106 | 
 | 2022-12-06 | 191 | 106 | 
 | 2022-12-04 | 191 | 106 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 182 | 99 | 
 | 2022-11-10 | 182 | 97 | 
 | 2022-11-09 | 181 | 97 | 
-| 2022-11-08 | 180 | 96 | 
 

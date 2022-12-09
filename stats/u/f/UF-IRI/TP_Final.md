@@ -1,8 +1,8 @@
 # UF-IRI/TP_Final - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
-☋ Forks: 33
+☋ Forks: 34
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | - | 34 | 
 | 2022-12-06 | - | 33 | 
 | 2022-12-05 | - | 37 | 
 | 2022-12-04 | - | 35 | 

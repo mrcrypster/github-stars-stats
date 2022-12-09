@@ -1,10 +1,10 @@
 # ag-grid/ag-grid - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 1586
+☋ Forks: 1587
 
-★ Stars: 9407
+★ Stars: 9409
 
 [Open repository](https://github.com/ag-grid/ag-grid)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 9409 | 1587 | 
 | 2022-12-07 | 9407 | 1586 | 
 | 2022-12-06 | 9407 | 1586 | 
 | 2022-12-04 | 9404 | 1585 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 9335 | 1579 | 
 | 2022-11-10 | 9332 | 1579 | 
 | 2022-11-09 | 9329 | 1579 | 
-| 2022-11-08 | 9323 | 1575 | 
 

@@ -1,6 +1,6 @@
 # mlabs-haskell/plutus-specification-language - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 5 | 1 | 
 | 2022-12-06 | 5 | 1 | 
 | 2022-12-05 | 5 | 1 | 
 | 2022-12-03 | 5 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-12 | 5 | 1 | 
 | 2022-11-11 | 5 | 1 | 
 | 2022-11-10 | 5 | 1 | 
-| 2022-11-09 | 5 | 1 | 
 

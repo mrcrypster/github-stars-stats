@@ -1,10 +1,10 @@
 # bigskysoftware/missing - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 7
+☋ Forks: 8
 
-★ Stars: 184
+★ Stars: 185
 
 [Open repository](https://github.com/bigskysoftware/missing)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 185 | 8 | 
 | 2022-12-07 | 184 | 7 | 
 | 2022-12-05 | 184 | 7 | 
 | 2022-12-04 | 184 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 168 | 5 | 
 | 2022-11-10 | 168 | 5 | 
 | 2022-11-09 | 168 | 5 | 
-| 2022-11-08 | 168 | 5 | 
 

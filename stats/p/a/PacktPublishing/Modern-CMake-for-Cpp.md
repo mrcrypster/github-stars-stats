@@ -1,10 +1,10 @@
 # PacktPublishing/Modern-CMake-for-Cpp - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 46
+☋ Forks: 47
 
-★ Stars: 172
+★ Stars: 175
 
 [Open repository](https://github.com/PacktPublishing/Modern-CMake-for-Cpp)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 175 | 47 | 
 | 2022-12-07 | 172 | 46 | 
 | 2022-12-05 | 171 | 46 | 
 | 2022-12-04 | 170 | 45 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 159 | 41 | 
 | 2022-11-10 | 159 | 41 | 
 | 2022-11-09 | 158 | 41 | 
-| 2022-11-08 | 157 | 41 | 
 

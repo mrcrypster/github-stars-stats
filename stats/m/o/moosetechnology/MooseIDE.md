@@ -1,10 +1,10 @@
 # moosetechnology/MooseIDE - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 12
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/moosetechnology/MooseIDE)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 9 | 12 | 
 | 2022-12-07 | 8 | 12 | 
 | 2022-12-06 | 8 | 12 | 
 | 2022-12-04 | 8 | 12 | 

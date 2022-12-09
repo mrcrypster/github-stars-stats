@@ -1,10 +1,10 @@
 # 4ra1n/super-xray - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 49
+☋ Forks: 50
 
-★ Stars: 425
+★ Stars: 427
 
 [Open repository](https://github.com/4ra1n/super-xray)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 427 | 50 | 
 | 2022-12-07 | 425 | 49 | 
 | 2022-12-06 | 421 | 49 | 
 | 2022-12-04 | 414 | 48 | 

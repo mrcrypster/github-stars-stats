@@ -1,10 +1,10 @@
 # codacy/codacy-coverage-reporter - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 98
 
-★ Stars: 121
+★ Stars: 122
 
 [Open repository](https://github.com/codacy/codacy-coverage-reporter)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 122 | 98 | 
 | 2022-12-07 | 121 | 98 | 
 | 2022-12-06 | 121 | 98 | 
 | 2022-12-04 | 121 | 98 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 119 | 98 | 
 | 2022-11-11 | 119 | 98 | 
 | 2022-11-09 | 119 | 98 | 
-| 2022-11-08 | 119 | 98 | 
 

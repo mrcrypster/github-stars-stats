@@ -1,10 +1,10 @@
 # DataDog/security-labs-pocs - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 47
+☋ Forks: 46
 
-★ Stars: 327
+★ Stars: 328
 
 [Open repository](https://github.com/DataDog/security-labs-pocs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 328 | 46 | 
 | 2022-12-07 | 327 | 47 | 
 | 2022-12-05 | 327 | 47 | 
 | 2022-12-04 | 326 | 47 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 311 | 40 | 
 | 2022-11-10 | 311 | 40 | 
 | 2022-11-09 | 311 | 40 | 
-| 2022-11-08 | 310 | 40 | 
 

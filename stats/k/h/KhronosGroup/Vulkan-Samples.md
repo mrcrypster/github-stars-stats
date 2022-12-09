@@ -1,10 +1,10 @@
 # KhronosGroup/Vulkan-Samples - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 398
 
-★ Stars: 2772
+★ Stars: 2773
 
 [Open repository](https://github.com/KhronosGroup/Vulkan-Samples)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 2773 | 398 | 
 | 2022-12-07 | 2772 | 398 | 
 | 2022-12-06 | 2767 | 397 | 
 | 2022-12-05 | 2760 | 395 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 2708 | 384 | 
 | 2022-11-10 | 2707 | 384 | 
 | 2022-11-09 | 2704 | 383 | 
-| 2022-11-08 | 2700 | 383 | 
 

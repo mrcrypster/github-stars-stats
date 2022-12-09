@@ -1,10 +1,10 @@
 # MicrosoftDocs/microsoft-365-docs-pr.he-IL - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 1
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/MicrosoftDocs/microsoft-365-docs-pr.he-IL)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 4 | 1 | 
 | 2022-12-07 | 3 | 1 | 
 | 2022-12-05 | 3 | 1 | 
 | 2022-12-04 | 3 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 3 | 1 | 
 | 2022-11-10 | 3 | 1 | 
 | 2022-11-09 | 3 | 1 | 
-| 2022-11-08 | 3 | 1 | 
 

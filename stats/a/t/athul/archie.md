@@ -1,6 +1,6 @@
 # athul/archie - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 185
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 574 | 185 | 
 | 2022-12-07 | 574 | 185 | 
 | 2022-12-06 | 574 | 184 | 
 | 2022-12-04 | 573 | 184 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 565 | 177 | 
 | 2022-11-10 | 565 | 176 | 
 | 2022-11-09 | 564 | 175 | 
-| 2022-11-08 | 563 | 175 | 
 

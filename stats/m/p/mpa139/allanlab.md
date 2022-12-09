@@ -1,8 +1,8 @@
 # mpa139/allanlab - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 782
+☋ Forks: 783
 
 ★ Stars: 191
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 191 | 783 | 
 | 2022-12-07 | 191 | 782 | 
 | 2022-12-06 | 191 | 781 | 
 | 2022-12-04 | 191 | 781 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 187 | 770 | 
 | 2022-11-10 | 187 | 768 | 
 | 2022-11-09 | 187 | 769 | 
-| 2022-11-08 | 187 | 769 | 
 

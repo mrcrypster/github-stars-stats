@@ -1,6 +1,6 @@
 # puppetlabs/trapperkeeper - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 581 | 75 | 
 | 2022-12-07 | 581 | 75 | 
 | 2022-12-05 | 581 | 75 | 
 | 2022-12-04 | 581 | 75 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 581 | 75 | 
 | 2022-11-10 | 581 | 75 | 
 | 2022-11-09 | 581 | 75 | 
-| 2022-11-08 | 582 | 75 | 
 

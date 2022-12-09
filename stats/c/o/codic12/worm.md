@@ -1,10 +1,10 @@
 # codic12/worm - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 26
 
-★ Stars: 613
+★ Stars: 614
 
 [Open repository](https://github.com/codic12/worm)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 614 | 26 | 
 | 2022-12-06 | 613 | 26 | 
 | 2022-12-05 | 612 | 26 | 
 | 2022-12-04 | 612 | 26 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-11 | 597 | 24 | 
 | 2022-11-10 | 597 | 24 | 
 | 2022-11-09 | 596 | 24 | 
-| 2022-11-08 | 596 | 24 | 
 

@@ -1,10 +1,10 @@
 # JulienMalka/Linkal - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 4
 
-★ Stars: 85
+★ Stars: 86
 
 [Open repository](https://github.com/JulienMalka/Linkal)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 86 | 4 | 
 | 2022-12-07 | 85 | 4 | 
 | 2022-12-06 | 85 | 4 | 
 | 2022-12-04 | 85 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 85 | 4 | 
 | 2022-11-10 | 85 | 4 | 
 | 2022-11-09 | 85 | 4 | 
-| 2022-11-08 | 85 | 4 | 
 

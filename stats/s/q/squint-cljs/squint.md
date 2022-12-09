@@ -1,6 +1,6 @@
 # squint-cljs/squint - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 251 | 9 | 
 | 2022-12-07 | 251 | 9 | 
 | 2022-12-05 | 251 | 9 | 
 | 2022-12-04 | 251 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 236 | 9 | 
 | 2022-11-10 | 234 | 8 | 
 | 2022-11-09 | 233 | 8 | 
-| 2022-11-08 | 227 | 8 | 
 

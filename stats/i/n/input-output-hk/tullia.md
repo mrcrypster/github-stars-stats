@@ -1,6 +1,6 @@
 # input-output-hk/tullia - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 9 | 4 | 
 | 2022-12-06 | 9 | 4 | 
 | 2022-12-05 | 9 | 3 | 
 | 2022-12-03 | 9 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-12 | 9 | 2 | 
 | 2022-11-10 | 9 | 2 | 
 | 2022-11-09 | 8 | 2 | 
-| 2022-11-08 | 8 | 2 | 
 

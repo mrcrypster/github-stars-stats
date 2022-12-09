@@ -1,6 +1,6 @@
 # pwp-app/pixiviz - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 118 | 11 | 
 | 2022-12-06 | 118 | 11 | 
 | 2022-12-05 | 118 | 11 | 
 | 2022-12-04 | 118 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-11 | 117 | 10 | 
 | 2022-11-10 | 117 | 10 | 
 | 2022-11-09 | 117 | 10 | 
-| 2022-11-08 | 117 | 10 | 
 

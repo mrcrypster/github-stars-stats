@@ -1,6 +1,6 @@
 # sapbtptraining/carRental - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | - | 8 | 
 | 2022-12-07 | - | 8 | 
 | 2022-12-06 | - | 8 | 
 | 2022-12-04 | - | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | - | 8 | 
 | 2022-11-10 | - | 8 | 
 | 2022-11-09 | - | 8 | 
-| 2022-11-08 | - | 8 | 
 

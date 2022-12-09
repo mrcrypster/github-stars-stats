@@ -1,6 +1,6 @@
 # Jayakrishnan-mk/Node_js_LoginPage - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 20 | - | 
 | 2022-12-07 | 20 | - | 
 | 2022-12-06 | 20 | - | 
 | 2022-12-05 | 20 | - | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 20 | - | 
 | 2022-11-11 | 20 | - | 
 | 2022-11-10 | 20 | - | 
-| 2022-11-09 | 20 | - | 
 

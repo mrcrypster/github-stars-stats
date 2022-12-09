@@ -1,6 +1,6 @@
 # noctuid/link-hint.el - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 135 | 17 | 
 | 2022-12-07 | 135 | 17 | 
 | 2022-12-06 | 135 | 17 | 
 | 2022-12-04 | 135 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 134 | 17 | 
 | 2022-11-10 | 133 | 17 | 
 | 2022-11-09 | 133 | 17 | 
-| 2022-11-08 | 133 | 17 | 
 

@@ -1,10 +1,10 @@
 # hello-efficiency-inc/raven-reader - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 219
 
-★ Stars: 2419
+★ Stars: 2421
 
 [Open repository](https://github.com/hello-efficiency-inc/raven-reader)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 2421 | 219 | 
 | 2022-12-07 | 2419 | 219 | 
 | 2022-12-06 | 2416 | 219 | 
 | 2022-12-04 | 2415 | 218 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 2391 | 216 | 
 | 2022-11-10 | 2391 | 216 | 
 | 2022-11-09 | 2391 | 217 | 
-| 2022-11-08 | 2388 | 216 | 
 

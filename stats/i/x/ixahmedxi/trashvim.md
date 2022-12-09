@@ -1,10 +1,10 @@
 # ixahmedxi/trashvim - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 4
+☋ Forks: 5
 
-★ Stars: 59
+★ Stars: 63
 
 [Open repository](https://github.com/ixahmedxi/trashvim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 63 | 5 | 
 | 2022-12-07 | 59 | 4 | 
 | 2022-12-06 | 57 | 4 | 
 | 2022-12-04 | 43 | 3 | 

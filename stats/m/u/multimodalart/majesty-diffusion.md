@@ -1,6 +1,6 @@
 # multimodalart/majesty-diffusion - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 252 | 42 | 
 | 2022-12-07 | 252 | 42 | 
 | 2022-12-05 | 252 | 42 | 
 | 2022-12-04 | 252 | 42 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 250 | 42 | 
 | 2022-11-10 | 250 | 42 | 
 | 2022-11-09 | 250 | 42 | 
-| 2022-11-08 | 250 | 42 | 
 

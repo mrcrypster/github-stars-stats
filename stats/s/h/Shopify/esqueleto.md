@@ -1,10 +1,10 @@
 # Shopify/esqueleto - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 2
 
-★ Stars: 2
+★ Stars: 1
 
 [Open repository](https://github.com/Shopify/esqueleto)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 1 | 2 | 
 | 2022-12-07 | 2 | 2 | 
 | 2022-12-05 | 2 | 2 | 
 | 2022-12-04 | 2 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 2 | 2 | 
 | 2022-11-10 | 2 | 2 | 
 | 2022-11-09 | 2 | 2 | 
-| 2022-11-08 | 2 | 2 | 
 

@@ -1,6 +1,6 @@
 # ngalongc/bug-bounty-reference - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 951
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 3140 | 951 | 
 | 2022-12-07 | 3140 | 951 | 
 | 2022-12-06 | 3139 | 951 | 
 | 2022-12-05 | 3137 | 949 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 3115 | 950 | 
 | 2022-11-10 | 3111 | 950 | 
 | 2022-11-09 | 3109 | 949 | 
-| 2022-11-08 | 3109 | 948 | 
 

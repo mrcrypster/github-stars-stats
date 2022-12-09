@@ -1,8 +1,8 @@
 # SarnaxLii/HWID.Spoofer - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
-☋ Forks: 29
+☋ Forks: 30
 
 ★ Stars: 111
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 111 | 30 | 
 | 2022-12-06 | 111 | 29 | 
 | 2022-12-05 | 110 | 29 | 
 | 2022-12-04 | 109 | 29 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-11 | 90 | 26 | 
 | 2022-11-10 | 90 | 26 | 
 | 2022-11-09 | 90 | 25 | 
-| 2022-11-08 | 89 | 25 | 
 

@@ -1,10 +1,10 @@
 # nagidev/godot-tutorials - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 3
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/nagidev/godot-tutorials)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 35 | 3 | 
 | 2022-12-07 | 34 | 3 | 
 | 2022-12-06 | 34 | 3 | 
 | 2022-12-04 | 33 | 3 | 

@@ -1,6 +1,6 @@
 # thockin/go-build-template - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 397
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 2888 | 397 | 
 | 2022-12-07 | 2888 | 397 | 
 | 2022-12-06 | 2887 | 397 | 
 | 2022-12-05 | 2883 | 397 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 2867 | 393 | 
 | 2022-11-10 | 2867 | 393 | 
 | 2022-11-09 | 2867 | 393 | 
-| 2022-11-08 | 2865 | 393 | 
 

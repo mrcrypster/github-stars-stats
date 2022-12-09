@@ -1,10 +1,10 @@
 # S3cur3Th1sSh1t/OffensiveVBA - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 187
+☋ Forks: 189
 
-★ Stars: 921
+★ Stars: 922
 
 [Open repository](https://github.com/S3cur3Th1sSh1t/OffensiveVBA)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 922 | 189 | 
 | 2022-12-07 | 921 | 187 | 
 | 2022-12-06 | 920 | 187 | 
 | 2022-12-04 | 917 | 187 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 911 | 185 | 
 | 2022-11-10 | 911 | 185 | 
 | 2022-11-09 | 911 | 185 | 
-| 2022-11-08 | 907 | 185 | 
 

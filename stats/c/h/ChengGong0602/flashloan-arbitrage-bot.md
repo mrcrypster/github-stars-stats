@@ -1,10 +1,10 @@
 # ChengGong0602/flashloan-arbitrage-bot - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 27
 
-★ Stars: 57
+★ Stars: 58
 
 [Open repository](https://github.com/ChengGong0602/flashloan-arbitrage-bot)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 58 | 27 | 
 | 2022-12-06 | 57 | 27 | 
 | 2022-12-05 | 57 | 27 | 
 | 2022-12-03 | 57 | 27 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-11 | 52 | 26 | 
 | 2022-11-10 | 52 | 26 | 
 | 2022-11-09 | 52 | 26 | 
-| 2022-11-08 | 52 | 26 | 
 

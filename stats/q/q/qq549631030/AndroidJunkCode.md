@@ -1,6 +1,6 @@
 # qq549631030/AndroidJunkCode - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 118
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 478 | 118 | 
 | 2022-12-06 | 478 | 118 | 
 | 2022-12-05 | 477 | 118 | 
 | 2022-12-03 | 477 | 118 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-11 | 463 | 114 | 
 | 2022-11-10 | 461 | 112 | 
 | 2022-11-09 | 459 | 111 | 
-| 2022-11-08 | 457 | 111 | 
 

@@ -1,6 +1,6 @@
 # PoomSmart/EmojiLibrary - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 100 | 10 | 
 | 2022-12-07 | 100 | 10 | 
 | 2022-12-05 | 100 | 10 | 
 | 2022-12-04 | 100 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 99 | 10 | 
 | 2022-11-10 | 99 | 10 | 
 | 2022-11-09 | 99 | 10 | 
-| 2022-11-08 | 99 | 10 | 
 

@@ -1,10 +1,10 @@
 # shaunchander/astro-pwa-starter - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 5
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/shaunchander/astro-pwa-starter)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 32 | 5 | 
 | 2022-12-06 | 31 | 5 | 
 | 2022-12-05 | 31 | 5 | 
 | 2022-12-04 | 31 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-11 | 25 | 4 | 
 | 2022-11-10 | 25 | 4 | 
 | 2022-11-09 | 25 | 4 | 
-| 2022-11-08 | 25 | 4 | 
 

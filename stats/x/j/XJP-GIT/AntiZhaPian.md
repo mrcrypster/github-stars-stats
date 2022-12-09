@@ -1,10 +1,10 @@
 # XJP-GIT/AntiZhaPian - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 303
+☋ Forks: 304
 
-★ Stars: 2741
+★ Stars: 2744
 
 [Open repository](https://github.com/XJP-GIT/AntiZhaPian)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 2744 | 304 | 
 | 2022-12-07 | 2741 | 303 | 
 | 2022-12-06 | 2732 | 303 | 
 | 2022-12-04 | 2732 | 303 | 

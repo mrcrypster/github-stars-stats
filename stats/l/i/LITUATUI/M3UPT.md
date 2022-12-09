@@ -1,10 +1,10 @@
 # LITUATUI/M3UPT - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 17
+☋ Forks: 16
 
-★ Stars: 70
+★ Stars: 71
 
 [Open repository](https://github.com/LITUATUI/M3UPT)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 71 | 16 | 
 | 2022-12-07 | 70 | 17 | 
 | 2022-12-06 | 70 | 17 | 
 | 2022-12-05 | 70 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 62 | 15 | 
 | 2022-11-10 | 62 | 15 | 
 | 2022-11-09 | 62 | 16 | 
-| 2022-11-08 | 62 | 16 | 
 

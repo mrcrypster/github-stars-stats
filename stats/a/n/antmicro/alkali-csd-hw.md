@@ -1,6 +1,6 @@
 # antmicro/alkali-csd-hw - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 1 | 3 | 
 | 2022-12-07 | 1 | 3 | 
 | 2022-12-06 | 1 | 3 | 
 | 2022-12-05 | 1 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 1 | 1 | 
 | 2022-11-11 | 1 | 1 | 
 | 2022-11-10 | 1 | 1 | 
-| 2022-11-09 | 1 | 1 | 
 

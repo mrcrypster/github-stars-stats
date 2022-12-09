@@ -1,6 +1,6 @@
 # u17701703484823/PolThmk - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 68 | 28 | 
 | 2022-12-06 | 68 | 28 | 
 | 2022-12-05 | 68 | 28 | 
 | 2022-12-04 | 68 | 28 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-12 | 68 | 28 | 
 | 2022-11-11 | 68 | 28 | 
 | 2022-11-10 | 68 | 28 | 
-| 2022-11-09 | 68 | 28 | 
 

@@ -1,6 +1,6 @@
 # ardumont/markdown-toc - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 98
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 118 | 98 | 
 | 2022-12-07 | 118 | 98 | 
 | 2022-12-05 | 118 | 98 | 
 | 2022-12-04 | 118 | 98 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 116 | 98 | 
 | 2022-11-10 | 116 | 98 | 
 | 2022-11-09 | 116 | 98 | 
-| 2022-11-08 | 116 | 98 | 
 

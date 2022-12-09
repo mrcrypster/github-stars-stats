@@ -1,6 +1,6 @@
 # diku-dk/futhark - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 136
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 1899 | 136 | 
 | 2022-12-07 | 1899 | 136 | 
 | 2022-12-06 | 1899 | 136 | 
 | 2022-12-05 | 1899 | 136 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 1880 | 136 | 
 | 2022-11-10 | 1881 | 136 | 
 | 2022-11-09 | 1880 | 136 | 
-| 2022-11-08 | 1879 | 136 | 
 

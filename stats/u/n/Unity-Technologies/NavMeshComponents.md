@@ -1,10 +1,10 @@
 # Unity-Technologies/NavMeshComponents - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 955
+☋ Forks: 958
 
-★ Stars: 2700
+★ Stars: 2702
 
 [Open repository](https://github.com/Unity-Technologies/NavMeshComponents)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 2702 | 958 | 
 | 2022-12-07 | 2700 | 955 | 
 | 2022-12-06 | 2699 | 954 | 
 | 2022-12-04 | 2699 | 953 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 2676 | 942 | 
 | 2022-11-10 | 2675 | 941 | 
 | 2022-11-09 | 2674 | 941 | 
-| 2022-11-08 | 2673 | 940 | 
 

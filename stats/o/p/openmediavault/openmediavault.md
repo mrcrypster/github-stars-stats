@@ -1,10 +1,10 @@
 # openmediavault/openmediavault - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 400
 
-★ Stars: 3429
+★ Stars: 3431
 
 [Open repository](https://github.com/openmediavault/openmediavault)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 3431 | 400 | 
 | 2022-12-07 | 3429 | 400 | 
 | 2022-12-06 | 3427 | 400 | 
 | 2022-12-04 | 3425 | 399 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 3376 | 398 | 
 | 2022-11-10 | 3374 | 398 | 
 | 2022-11-09 | 3372 | 398 | 
-| 2022-11-08 | 3368 | 398 | 
 

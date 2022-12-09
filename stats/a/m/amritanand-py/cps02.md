@@ -1,6 +1,6 @@
 # amritanand-py/cps02 - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 8 | 28 | 
 | 2022-12-07 | 8 | 28 | 
 | 2022-12-06 | 8 | 28 | 
 | 2022-12-05 | 8 | 28 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 9 | 28 | 
 | 2022-11-10 | 9 | 28 | 
 | 2022-11-09 | 9 | 28 | 
-| 2022-11-08 | 9 | 28 | 
 

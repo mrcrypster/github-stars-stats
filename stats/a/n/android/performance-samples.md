@@ -1,10 +1,10 @@
 # android/performance-samples - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 170
 
-★ Stars: 864
+★ Stars: 865
 
 [Open repository](https://github.com/android/performance-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 865 | 170 | 
 | 2022-12-07 | 864 | 170 | 
 | 2022-12-06 | 860 | 170 | 
 | 2022-12-04 | 859 | 169 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 813 | 167 | 
 | 2022-11-11 | 811 | 167 | 
 | 2022-11-10 | 811 | 167 | 
-| 2022-11-08 | 810 | 167 | 
 

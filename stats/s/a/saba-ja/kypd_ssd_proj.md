@@ -1,6 +1,6 @@
 # saba-ja/kypd_ssd_proj - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | - | 3 | 
 | 2022-12-07 | - | 3 | 
 | 2022-12-06 | - | 3 | 
 | 2022-12-05 | - | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | - | 3 | 
 | 2022-11-10 | - | 3 | 
 | 2022-11-09 | - | 3 | 
-| 2022-11-08 | - | 3 | 
 

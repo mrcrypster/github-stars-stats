@@ -1,6 +1,6 @@
 # Ryan-Gee/RheaGrass - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 278 | 19 | 
 | 2022-12-07 | 278 | 19 | 
 | 2022-12-06 | 278 | 19 | 
 | 2022-12-04 | 278 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 275 | 19 | 
 | 2022-11-10 | 275 | 19 | 
 | 2022-11-09 | 275 | 19 | 
-| 2022-11-08 | 275 | 19 | 
 

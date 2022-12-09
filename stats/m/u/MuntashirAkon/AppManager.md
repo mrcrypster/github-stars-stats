@@ -1,10 +1,10 @@
 # MuntashirAkon/AppManager - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 169
 
-★ Stars: 2202
+★ Stars: 2204
 
 [Open repository](https://github.com/MuntashirAkon/AppManager)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 2204 | 169 | 
 | 2022-12-07 | 2202 | 169 | 
 | 2022-12-06 | 2201 | 169 | 
 | 2022-12-05 | 2196 | 168 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 2113 | 162 | 
 | 2022-11-10 | 2111 | 163 | 
 | 2022-11-09 | 2108 | 163 | 
-| 2022-11-08 | 2107 | 162 | 
 

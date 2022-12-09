@@ -1,6 +1,6 @@
 # emacs-typescript/typescript.el - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 76
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 233 | 76 | 
 | 2022-12-07 | 233 | 76 | 
 | 2022-12-06 | 233 | 76 | 
 | 2022-12-05 | 233 | 76 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 229 | 76 | 
 | 2022-11-10 | 229 | 76 | 
 | 2022-11-09 | 229 | 76 | 
-| 2022-11-08 | 229 | 76 | 
 

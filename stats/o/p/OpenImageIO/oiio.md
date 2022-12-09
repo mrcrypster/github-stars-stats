@@ -1,8 +1,8 @@
 # OpenImageIO/oiio - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
-☋ Forks: 501
+☋ Forks: 503
 
 ★ Stars: 1569
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 1569 | 503 | 
 | 2022-12-07 | 1569 | 501 | 
 | 2022-12-06 | 1569 | 501 | 
 | 2022-12-05 | 1569 | 501 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 1559 | 498 | 
 | 2022-11-10 | 1559 | 498 | 
 | 2022-11-09 | 1559 | 497 | 
-| 2022-11-08 | 1559 | 497 | 
 

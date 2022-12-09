@@ -1,6 +1,6 @@
 # thegooddocsproject/templates - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 155
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 620 | 155 | 
 | 2022-12-06 | 620 | 155 | 
 | 2022-12-05 | 620 | 156 | 
 | 2022-12-03 | 619 | 156 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-12 | 617 | 154 | 
 | 2022-11-10 | 617 | 154 | 
 | 2022-11-09 | 616 | 154 | 
-| 2022-11-08 | 616 | 154 | 
 

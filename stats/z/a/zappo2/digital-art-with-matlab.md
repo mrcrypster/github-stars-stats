@@ -1,6 +1,6 @@
 # zappo2/digital-art-with-matlab - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 25 | 7 | 
 | 2022-12-07 | 25 | 7 | 
 | 2022-12-06 | 25 | 7 | 
 | 2022-12-04 | 25 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 24 | 7 | 
 | 2022-11-10 | 24 | 7 | 
 | 2022-11-09 | 24 | 7 | 
-| 2022-11-08 | 24 | 7 | 
 

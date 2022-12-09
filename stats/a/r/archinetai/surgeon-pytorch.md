@@ -1,8 +1,8 @@
 # archinetai/surgeon-pytorch - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 10
+☋ Forks: 11
 
 ★ Stars: 378
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 378 | 11 | 
 | 2022-12-07 | 378 | 10 | 
 | 2022-12-06 | 376 | 10 | 
 | 2022-12-04 | 376 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 371 | 10 | 
 | 2022-11-10 | 371 | 10 | 
 | 2022-11-09 | 371 | 10 | 
-| 2022-11-08 | 371 | 10 | 
 

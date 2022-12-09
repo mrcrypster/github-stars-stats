@@ -1,10 +1,10 @@
 # dotnet/efcore - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 2856
+☋ Forks: 2858
 
-★ Stars: 11969
+★ Stars: 11971
 
 [Open repository](https://github.com/dotnet/efcore)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 11971 | 2858 | 
 | 2022-12-07 | 11969 | 2856 | 
 | 2022-12-06 | 11963 | 2855 | 
 | 2022-12-05 | 11961 | 2854 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 11882 | 2845 | 
 | 2022-11-10 | 11880 | 2844 | 
 | 2022-11-09 | 11873 | 2839 | 
-| 2022-11-08 | 11870 | 2839 | 
 

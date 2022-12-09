@@ -1,10 +1,10 @@
 # Azure/aks-baseline-automation - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 42
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/Azure/aks-baseline-automation)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 35 | 42 | 
 | 2022-12-07 | 34 | 42 | 
 | 2022-12-06 | 34 | 42 | 
 | 2022-12-05 | 34 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 27 | 37 | 
 | 2022-11-10 | 27 | 37 | 
 | 2022-11-09 | 26 | 36 | 
-| 2022-11-08 | 27 | 35 | 
 

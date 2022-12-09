@@ -1,6 +1,6 @@
 # vaticle/dependencies - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 9 | 16 | 
 | 2022-12-07 | 9 | 16 | 
 | 2022-12-06 | 9 | 15 | 
 | 2022-12-05 | 9 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 9 | 15 | 
 | 2022-11-11 | 9 | 15 | 
 | 2022-11-09 | 9 | 15 | 
-| 2022-11-08 | 9 | 15 | 
 

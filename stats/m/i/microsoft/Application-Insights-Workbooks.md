@@ -1,6 +1,6 @@
 # microsoft/Application-Insights-Workbooks - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 367
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 389 | 367 | 
 | 2022-12-07 | 389 | 367 | 
 | 2022-12-06 | 389 | 368 | 
 | 2022-12-04 | 388 | 366 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 381 | 358 | 
 | 2022-11-10 | 381 | 357 | 
 | 2022-11-09 | 381 | 356 | 
-| 2022-11-08 | 381 | 357 | 
 

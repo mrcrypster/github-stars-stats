@@ -1,10 +1,10 @@
 # rive-app/rive-flutter - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 125
 
-★ Stars: 743
+★ Stars: 745
 
 [Open repository](https://github.com/rive-app/rive-flutter)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 745 | 125 | 
 | 2022-12-07 | 743 | 125 | 
 | 2022-12-05 | 742 | 125 | 
 | 2022-12-04 | 740 | 125 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 734 | 124 | 
 | 2022-11-10 | 733 | 124 | 
 | 2022-11-09 | 733 | 124 | 
-| 2022-11-08 | 733 | 124 | 
 

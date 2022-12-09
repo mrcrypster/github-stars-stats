@@ -1,10 +1,10 @@
 # kaeedo/Scrutiny - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 3
 
-★ Stars: 81
+★ Stars: 82
 
 [Open repository](https://github.com/kaeedo/Scrutiny)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 82 | 3 | 
 | 2022-12-07 | 81 | 3 | 
 | 2022-12-06 | 81 | 3 | 
 | 2022-12-05 | 81 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 81 | 3 | 
 | 2022-11-10 | 81 | 3 | 
 | 2022-11-09 | 81 | 3 | 
-| 2022-11-08 | 81 | 3 | 
 

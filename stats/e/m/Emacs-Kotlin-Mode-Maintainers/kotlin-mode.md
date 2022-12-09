@@ -1,6 +1,6 @@
 # Emacs-Kotlin-Mode-Maintainers/kotlin-mode - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 147 | 42 | 
 | 2022-12-07 | 147 | 42 | 
 | 2022-12-06 | 146 | 42 | 
 | 2022-12-04 | 146 | 42 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 146 | 41 | 
 | 2022-11-11 | 146 | 41 | 
 | 2022-11-09 | 146 | 41 | 
-| 2022-11-08 | 146 | 41 | 
 

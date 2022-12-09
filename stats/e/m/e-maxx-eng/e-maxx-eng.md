@@ -1,10 +1,10 @@
 # e-maxx-eng/e-maxx-eng - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 930
+☋ Forks: 931
 
-★ Stars: 3797
+★ Stars: 3803
 
 [Open repository](https://github.com/e-maxx-eng/e-maxx-eng)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 3803 | 931 | 
 | 2022-12-07 | 3797 | 930 | 
 | 2022-12-06 | 3792 | 929 | 
 | 2022-12-04 | 3784 | 930 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 3671 | 910 | 
 | 2022-11-10 | 3666 | 909 | 
 | 2022-11-09 | 3664 | 910 | 
-| 2022-11-08 | 3657 | 909 | 
 

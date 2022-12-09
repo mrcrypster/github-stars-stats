@@ -1,10 +1,10 @@
 # janestreet/magic-trace - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 66
 
-★ Stars: 3930
+★ Stars: 3932
 
 [Open repository](https://github.com/janestreet/magic-trace)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 3932 | 66 | 
 | 2022-12-07 | 3930 | 66 | 
 | 2022-12-06 | 3926 | 65 | 
 | 2022-12-05 | 3925 | 65 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 3911 | 62 | 
 | 2022-11-10 | 3910 | 62 | 
 | 2022-11-09 | 3910 | 62 | 
-| 2022-11-08 | 3910 | 62 | 
 

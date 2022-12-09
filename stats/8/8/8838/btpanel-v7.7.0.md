@@ -1,10 +1,10 @@
 # 8838/btpanel-v7.7.0 - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 76
+☋ Forks: 81
 
-★ Stars: 76
+★ Stars: 79
 
 [Open repository](https://github.com/8838/btpanel-v7.7.0)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 79 | 81 | 
 | 2022-12-07 | 76 | 76 | 
 | 2022-12-06 | 75 | 74 | 
 | 2022-12-05 | 72 | 72 | 

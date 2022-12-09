@@ -1,10 +1,10 @@
 # dtolnay/syn - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 256
+☋ Forks: 255
 
-★ Stars: 1936
+★ Stars: 1937
 
 [Open repository](https://github.com/dtolnay/syn)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 1937 | 255 | 
 | 2022-12-07 | 1936 | 256 | 
 | 2022-12-05 | 1934 | 255 | 
 | 2022-12-04 | 1932 | 255 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 1894 | 250 | 
 | 2022-11-10 | 1893 | 251 | 
 | 2022-11-09 | 1892 | 252 | 
-| 2022-11-08 | 1890 | 253 | 
 

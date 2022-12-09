@@ -1,6 +1,6 @@
 # b3lik0v-ich/windows-rdp - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 152
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 2 | 152 | 
 | 2022-12-07 | 2 | 152 | 
 | 2022-12-05 | 2 | 152 | 
 | 2022-12-04 | 2 | 150 | 

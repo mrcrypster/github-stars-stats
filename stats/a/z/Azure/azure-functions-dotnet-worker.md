@@ -1,10 +1,10 @@
 # Azure/azure-functions-dotnet-worker - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 87
 
-★ Stars: 262
+★ Stars: 263
 
 [Open repository](https://github.com/Azure/azure-functions-dotnet-worker)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 263 | 87 | 
 | 2022-12-07 | 262 | 87 | 
 | 2022-12-06 | 262 | 87 | 
 | 2022-12-04 | 262 | 86 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 253 | 84 | 
 | 2022-11-10 | 253 | 83 | 
 | 2022-11-09 | 253 | 83 | 
-| 2022-11-08 | 253 | 82 | 
 

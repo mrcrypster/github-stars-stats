@@ -1,6 +1,6 @@
 # SebRollen/AdventOfCode.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 7 | 7 | 
 | 2022-12-07 | 7 | 7 | 
 | 2022-12-06 | 7 | 7 | 
 

@@ -1,6 +1,6 @@
 # ZigZagExchange/token - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 21 | 12 | 
 | 2022-12-07 | 21 | 12 | 
 | 2022-12-05 | 21 | 12 | 
 | 2022-12-04 | 21 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 22 | 11 | 
 | 2022-11-10 | 22 | 11 | 
 | 2022-11-09 | 22 | 11 | 
-| 2022-11-08 | 22 | 11 | 
 

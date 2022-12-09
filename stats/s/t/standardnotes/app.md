@@ -1,8 +1,8 @@
 # standardnotes/app - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
-☋ Forks: 312
+☋ Forks: 313
 
 ★ Stars: 3904
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 3904 | 313 | 
 | 2022-12-06 | 3904 | 312 | 
 | 2022-12-05 | 3901 | 312 | 
 | 2022-12-03 | 3895 | 312 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-12 | 3838 | 310 | 
 | 2022-11-11 | 3836 | 310 | 
 | 2022-11-10 | 3833 | 310 | 
-| 2022-11-09 | 3831 | 310 | 
 

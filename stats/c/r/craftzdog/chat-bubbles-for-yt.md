@@ -1,6 +1,6 @@
 # craftzdog/chat-bubbles-for-yt - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 133
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 530 | 133 | 
 | 2022-12-07 | 530 | 133 | 
 | 2022-12-06 | 529 | 132 | 
 | 2022-12-04 | 528 | 132 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 515 | 131 | 
 | 2022-11-10 | 514 | 131 | 
 | 2022-11-09 | 514 | 131 | 
-| 2022-11-08 | 514 | 131 | 
 

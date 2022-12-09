@@ -1,10 +1,10 @@
 # tpope/vim-commentary - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 219
 
-★ Stars: 5027
+★ Stars: 5028
 
 [Open repository](https://github.com/tpope/vim-commentary)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 5028 | 219 | 
 | 2022-12-07 | 5027 | 219 | 
 | 2022-12-05 | 5024 | 219 | 
 | 2022-12-04 | 5024 | 219 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 4973 | 218 | 
 | 2022-11-10 | 4971 | 218 | 
 | 2022-11-09 | 4971 | 218 | 
-| 2022-11-08 | 4968 | 218 | 
 

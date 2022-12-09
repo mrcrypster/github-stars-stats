@@ -1,8 +1,8 @@
 # ruanyf/document-style-guide - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
-☋ Forks: 2214
+☋ Forks: 2216
 
 ★ Stars: 10393
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 10393 | 2216 | 
 | 2022-12-06 | 10393 | 2214 | 
 | 2022-12-05 | 10383 | 2213 | 
 | 2022-12-03 | 10379 | 2213 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-11 | 10324 | 2210 | 
 | 2022-11-10 | 10319 | 2210 | 
 | 2022-11-09 | 10311 | 2209 | 
-| 2022-11-08 | 10308 | 2209 | 
 

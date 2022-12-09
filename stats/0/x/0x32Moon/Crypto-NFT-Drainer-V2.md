@@ -1,8 +1,8 @@
 # 0x32Moon/Crypto-NFT-Drainer-V2 - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 35
+☋ Forks: 36
 
 ★ Stars: 113
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 113 | 36 | 
 | 2022-12-07 | 113 | 35 | 
 | 2022-12-06 | 112 | 35 | 
 | 2022-12-04 | 112 | 35 | 

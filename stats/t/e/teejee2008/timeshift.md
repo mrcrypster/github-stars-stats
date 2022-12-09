@@ -1,10 +1,10 @@
 # teejee2008/timeshift - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 278
 
-★ Stars: 4464
+★ Stars: 4467
 
 [Open repository](https://github.com/teejee2008/timeshift)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 4467 | 278 | 
 | 2022-12-07 | 4464 | 278 | 
 | 2022-12-06 | 4464 | 278 | 
 | 2022-12-05 | 4464 | 278 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 4452 | 279 | 
 | 2022-11-10 | 4450 | 278 | 
 | 2022-11-09 | 4451 | 278 | 
-| 2022-11-08 | 4451 | 278 | 
 

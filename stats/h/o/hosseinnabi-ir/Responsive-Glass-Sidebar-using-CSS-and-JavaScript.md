@@ -1,10 +1,10 @@
 # hosseinnabi-ir/Responsive-Glass-Sidebar-using-CSS-and-JavaScript - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 28
+☋ Forks: 30
 
-★ Stars: 48
+★ Stars: 50
 
 [Open repository](https://github.com/hosseinnabi-ir/Responsive-Glass-Sidebar-using-CSS-and-JavaScript)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 50 | 30 | 
 | 2022-12-07 | 48 | 28 | 
 | 2022-12-06 | 47 | 27 | 
 | 2022-12-04 | 45 | 25 | 

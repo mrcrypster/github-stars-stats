@@ -1,6 +1,6 @@
 # bnematzadeh/LoggerPlusPlus-API-Filters - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 115 | 20 | 
 | 2022-12-06 | 115 | 20 | 
 | 2022-12-05 | 115 | 20 | 
 | 2022-12-03 | 115 | 20 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-12 | 108 | 19 | 
 | 2022-11-11 | 108 | 19 | 
 | 2022-11-10 | 107 | 19 | 
-| 2022-11-08 | 107 | 19 | 
 

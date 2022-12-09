@@ -1,10 +1,10 @@
 # neutralinojs/neutralinojs - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 284
+☋ Forks: 285
 
-★ Stars: 6232
+★ Stars: 6236
 
 [Open repository](https://github.com/neutralinojs/neutralinojs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 6236 | 285 | 
 | 2022-12-07 | 6232 | 284 | 
 | 2022-12-06 | 6226 | 284 | 
 | 2022-12-04 | 6217 | 284 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 6138 | 281 | 
 | 2022-11-10 | 6134 | 280 | 
 | 2022-11-09 | 6128 | 279 | 
-| 2022-11-08 | 6126 | 277 | 
 

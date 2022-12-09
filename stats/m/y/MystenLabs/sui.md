@@ -1,10 +1,10 @@
 # MystenLabs/sui - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 7118
+☋ Forks: 7162
 
-★ Stars: 2890
+★ Stars: 2894
 
 [Open repository](https://github.com/MystenLabs/sui)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 2894 | 7162 | 
 | 2022-12-07 | 2890 | 7118 | 
 | 2022-12-06 | 2887 | 7054 | 
 | 2022-12-05 | 2873 | 7036 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 2506 | 6650 | 
 | 2022-11-10 | 2501 | 6627 | 
 | 2022-11-09 | 2483 | 6597 | 
-| 2022-11-08 | 2465 | 6561 | 
 

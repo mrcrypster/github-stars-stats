@@ -1,10 +1,10 @@
 # OCamlPro/owi - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 1
 
-★ Stars: 16
+★ Stars: 19
 
 [Open repository](https://github.com/OCamlPro/owi)
 
@@ -13,5 +13,6 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 19 | 1 | 
 | 2022-12-07 | 16 | 1 | 
 

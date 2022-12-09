@@ -1,10 +1,10 @@
 # open-life-science/open-life-science.github.io - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 81
 
-★ Stars: 50
+★ Stars: 52
 
 [Open repository](https://github.com/open-life-science/open-life-science.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 52 | 81 | 
 | 2022-12-07 | 50 | 81 | 
 | 2022-12-06 | 50 | 81 | 
 | 2022-12-04 | 50 | 81 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 50 | 80 | 
 | 2022-11-10 | 50 | 80 | 
 | 2022-11-09 | 50 | 80 | 
-| 2022-11-08 | 50 | 80 | 
 

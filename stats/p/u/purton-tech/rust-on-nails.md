@@ -1,6 +1,6 @@
 # purton-tech/rust-on-nails - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 54 | 5 | 
 | 2022-12-07 | 54 | 5 | 
 | 2022-12-06 | 54 | 4 | 
 | 2022-12-04 | 53 | 4 | 

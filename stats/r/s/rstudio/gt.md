@@ -1,6 +1,6 @@
 # rstudio/gt - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 165
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 1618 | 165 | 
 | 2022-12-07 | 1618 | 165 | 
 | 2022-12-06 | 1617 | 165 | 
 | 2022-12-04 | 1615 | 165 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 1603 | 163 | 
 | 2022-11-10 | 1603 | 163 | 
 | 2022-11-09 | 1602 | 163 | 
-| 2022-11-08 | 1601 | 163 | 
 

@@ -1,6 +1,6 @@
 # StateSmith/StateSmith - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 202 | 15 | 
 | 2022-12-06 | 202 | 15 | 
 | 2022-12-05 | 202 | 15 | 
 | 2022-12-04 | 202 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-12 | 196 | 14 | 
 | 2022-11-10 | 196 | 13 | 
 | 2022-11-09 | 196 | 13 | 
-| 2022-11-08 | 195 | 13 | 
 

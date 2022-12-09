@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 08
 
 ☋ Forks: 3411
 
-★ Stars: 2798
+★ Stars: 2799
 
 [Open repository](https://github.com/citation-style-language/styles)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-08 | 2798 | 3411 | 
+| 2022-12-08 | 2799 | 3411 | 
 | 2022-12-07 | 2798 | 3410 | 
 | 2022-12-06 | 2793 | 3407 | 
 | 2022-12-04 | 2791 | 3403 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-11 | 2767 | 3391 | 
 | 2022-11-10 | 2763 | 3391 | 
 | 2022-11-09 | 2764 | 3390 | 
-| 2022-11-08 | 2764 | 3390 | 
 

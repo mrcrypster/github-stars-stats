@@ -1,10 +1,10 @@
 # Tzwcard/ChinaTelecom-GuangdongIPTV-RTP-List - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 76
 
-★ Stars: 267
+★ Stars: 266
 
 [Open repository](https://github.com/Tzwcard/ChinaTelecom-GuangdongIPTV-RTP-List)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 266 | 76 | 
 | 2022-12-07 | 267 | 76 | 
 | 2022-12-06 | 262 | 75 | 
 | 2022-12-05 | 262 | 75 | 

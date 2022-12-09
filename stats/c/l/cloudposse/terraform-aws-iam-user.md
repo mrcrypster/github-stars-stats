@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-iam-user - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 58 | 52 | 
 | 2022-12-07 | 58 | 52 | 
 | 2022-12-05 | 58 | 52 | 
 | 2022-12-04 | 58 | 52 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 58 | 52 | 
 | 2022-11-10 | 58 | 52 | 
 | 2022-11-09 | 58 | 53 | 
-| 2022-11-08 | 58 | 53 | 
 

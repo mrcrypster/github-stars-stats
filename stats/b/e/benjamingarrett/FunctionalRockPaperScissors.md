@@ -1,6 +1,6 @@
 # benjamingarrett/FunctionalRockPaperScissors - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | - | 15 | 
 | 2022-12-07 | - | 15 | 
 | 2022-12-06 | - | 15 | 
 | 2022-12-05 | - | 15 | 

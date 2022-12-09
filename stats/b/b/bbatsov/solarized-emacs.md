@@ -1,6 +1,6 @@
 # bbatsov/solarized-emacs - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 166
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 709 | 166 | 
 | 2022-12-07 | 709 | 166 | 
 | 2022-12-06 | 709 | 166 | 
 | 2022-12-05 | 709 | 166 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 707 | 168 | 
 | 2022-11-11 | 707 | 168 | 
 | 2022-11-10 | 707 | 168 | 
-| 2022-11-09 | 707 | 168 | 
 

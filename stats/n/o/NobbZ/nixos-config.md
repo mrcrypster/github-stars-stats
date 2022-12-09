@@ -1,6 +1,6 @@
 # NobbZ/nixos-config - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 75 | 5 | 
 | 2022-12-07 | 75 | 5 | 
 | 2022-12-06 | 75 | 5 | 
 | 2022-12-04 | 75 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 72 | 4 | 
 | 2022-11-11 | 72 | 4 | 
 | 2022-11-09 | 72 | 4 | 
-| 2022-11-08 | 72 | 4 | 
 

@@ -1,8 +1,8 @@
 # cea-hpc/modules - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 85
+☋ Forks: 86
 
 ★ Stars: 503
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 503 | 86 | 
 | 2022-12-07 | 503 | 85 | 
 | 2022-12-06 | 503 | 85 | 
 | 2022-12-05 | 503 | 85 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 499 | 85 | 
 | 2022-11-10 | 499 | 85 | 
 | 2022-11-09 | 499 | 85 | 
-| 2022-11-08 | 498 | 85 | 
 

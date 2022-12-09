@@ -1,8 +1,8 @@
 # corona-warn-app/cwa-documentation - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 359
+☋ Forks: 360
 
 ★ Stars: 3345
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 3345 | 360 | 
 | 2022-12-07 | 3345 | 359 | 
 | 2022-12-06 | 3345 | 359 | 
 | 2022-12-05 | 3345 | 359 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 3349 | 359 | 
 | 2022-11-10 | 3348 | 359 | 
 | 2022-11-09 | 3348 | 359 | 
-| 2022-11-08 | 3348 | 359 | 
 

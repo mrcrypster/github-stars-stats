@@ -1,10 +1,10 @@
 # jamieowen/glsl-blend - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 109
 
-★ Stars: 859
+★ Stars: 858
 
 [Open repository](https://github.com/jamieowen/glsl-blend)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 858 | 109 | 
 | 2022-12-07 | 859 | 109 | 
 | 2022-12-06 | 859 | 109 | 
 | 2022-12-05 | 859 | 109 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 850 | 108 | 
 | 2022-11-10 | 850 | 108 | 
 | 2022-11-09 | 850 | 108 | 
-| 2022-11-08 | 850 | 108 | 
 

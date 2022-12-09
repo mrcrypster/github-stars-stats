@@ -1,6 +1,6 @@
 # FWSquatch/do180-practice - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 13 | 65 | 
 | 2022-12-06 | 13 | 65 | 
 | 2022-12-05 | 13 | 65 | 
 | 2022-12-04 | 13 | 64 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-11 | 13 | 60 | 
 | 2022-11-10 | 13 | 60 | 
 | 2022-11-09 | 13 | 59 | 
-| 2022-11-08 | 13 | 58 | 
 

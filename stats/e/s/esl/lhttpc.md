@@ -1,6 +1,6 @@
 # esl/lhttpc - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 141
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 126 | 141 | 
 | 2022-12-07 | 126 | 141 | 
 | 2022-12-06 | 126 | 141 | 
 | 2022-12-04 | 126 | 141 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 126 | 141 | 
 | 2022-11-10 | 126 | 141 | 
 | 2022-11-09 | 126 | 141 | 
-| 2022-11-08 | 126 | 141 | 
 

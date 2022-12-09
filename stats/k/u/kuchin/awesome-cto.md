@@ -1,10 +1,10 @@
 # kuchin/awesome-cto - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 964
+☋ Forks: 967
 
-★ Stars: 17705
+★ Stars: 17797
 
 [Open repository](https://github.com/kuchin/awesome-cto)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 17797 | 967 | 
 | 2022-12-07 | 17705 | 964 | 
 | 2022-12-05 | 17567 | 955 | 
 | 2022-12-04 | 17354 | 946 | 

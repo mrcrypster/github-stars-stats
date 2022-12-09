@@ -1,6 +1,6 @@
 # aXR6/utilitarios - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 4 | 9 | 
 | 2022-12-07 | 4 | 9 | 
 | 2022-12-06 | 4 | 9 | 
 | 2022-12-05 | 4 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 3 | 8 | 
 | 2022-11-11 | 3 | 8 | 
 | 2022-11-09 | 3 | 8 | 
-| 2022-11-08 | 3 | 8 | 
 

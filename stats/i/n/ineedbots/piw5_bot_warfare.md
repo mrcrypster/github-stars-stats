@@ -1,6 +1,6 @@
 # ineedbots/piw5_bot_warfare - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 60 | 28 | 
 | 2022-12-06 | 60 | 28 | 
 | 2022-12-05 | 60 | 28 | 
 | 2022-12-03 | 60 | 28 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-12 | 59 | 28 | 
 | 2022-11-10 | 59 | 28 | 
 | 2022-11-09 | 59 | 28 | 
-| 2022-11-08 | 59 | 27 | 
 

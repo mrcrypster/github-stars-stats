@@ -1,10 +1,10 @@
 # koderover/zadig - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 640
 
-★ Stars: 1830
+★ Stars: 1833
 
 [Open repository](https://github.com/koderover/zadig)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 1833 | 640 | 
 | 2022-12-07 | 1830 | 640 | 
 | 2022-12-06 | 1828 | 640 | 
 | 2022-12-05 | 1824 | 640 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 1778 | 630 | 
 | 2022-11-11 | 1777 | 630 | 
 | 2022-11-10 | 1775 | 628 | 
-| 2022-11-08 | 1773 | 625 | 
 

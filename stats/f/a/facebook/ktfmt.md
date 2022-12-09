@@ -1,10 +1,10 @@
 # facebook/ktfmt - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 42
 
-★ Stars: 569
+★ Stars: 570
 
 [Open repository](https://github.com/facebook/ktfmt)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 570 | 42 | 
 | 2022-12-07 | 569 | 42 | 
 | 2022-12-05 | 570 | 42 | 
 | 2022-12-04 | 568 | 42 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 548 | 40 | 
 | 2022-11-10 | 547 | 40 | 
 | 2022-11-09 | 547 | 40 | 
-| 2022-11-08 | 546 | 40 | 
 

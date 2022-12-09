@@ -1,10 +1,10 @@
 # opencost/opencost - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 310
+☋ Forks: 311
 
-★ Stars: 3075
+★ Stars: 3081
 
 [Open repository](https://github.com/opencost/opencost)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 3081 | 311 | 
 | 2022-12-07 | 3075 | 310 | 
 | 2022-12-05 | 3066 | 310 | 
 | 2022-12-04 | 3063 | 308 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 2922 | 290 | 
 | 2022-11-11 | 2918 | 288 | 
 | 2022-11-10 | 2907 | 288 | 
-| 2022-11-09 | 2894 | 288 | 
 

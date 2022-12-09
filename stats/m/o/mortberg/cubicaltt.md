@@ -1,10 +1,10 @@
 # mortberg/cubicaltt - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 73
 
-★ Stars: 526
+★ Stars: 525
 
 [Open repository](https://github.com/mortberg/cubicaltt)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 525 | 73 | 
 | 2022-12-07 | 526 | 73 | 
 | 2022-12-06 | 526 | 73 | 
 | 2022-12-04 | 527 | 73 | 

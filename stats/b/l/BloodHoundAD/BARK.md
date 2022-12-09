@@ -1,10 +1,10 @@
 # BloodHoundAD/BARK - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 38
 
-★ Stars: 240
+★ Stars: 241
 
 [Open repository](https://github.com/BloodHoundAD/BARK)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 241 | 38 | 
 | 2022-12-07 | 240 | 38 | 
 | 2022-12-05 | 240 | 38 | 
 | 2022-12-04 | 239 | 37 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 236 | 34 | 
 | 2022-11-10 | 236 | 34 | 
 | 2022-11-09 | 237 | 34 | 
-| 2022-11-08 | 237 | 34 | 
 

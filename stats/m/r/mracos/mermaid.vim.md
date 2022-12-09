@@ -1,6 +1,6 @@
 # mracos/mermaid.vim - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 23 | 1 | 
 | 2022-12-07 | 23 | 1 | 
 | 2022-12-06 | 23 | 1 | 
 | 2022-12-05 | 23 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 20 | 1 | 
 | 2022-11-10 | 20 | 1 | 
 | 2022-11-09 | 20 | 1 | 
-| 2022-11-08 | 20 | 1 | 
 

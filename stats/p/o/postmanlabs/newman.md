@@ -1,10 +1,10 @@
 # postmanlabs/newman - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 1081
 
-★ Stars: 6168
+★ Stars: 6169
 
 [Open repository](https://github.com/postmanlabs/newman)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 6169 | 1081 | 
 | 2022-12-07 | 6168 | 1081 | 
 | 2022-12-05 | 6164 | 1080 | 
 | 2022-12-04 | 6163 | 1079 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 6128 | 1072 | 
 | 2022-11-11 | 6125 | 1072 | 
 | 2022-11-10 | 6124 | 1071 | 
-| 2022-11-08 | 6122 | 1071 | 
 

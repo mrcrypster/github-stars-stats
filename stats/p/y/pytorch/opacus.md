@@ -1,10 +1,10 @@
 # pytorch/opacus - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 257
 
-★ Stars: 1298
+★ Stars: 1299
 
 [Open repository](https://github.com/pytorch/opacus)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 1299 | 257 | 
 | 2022-12-07 | 1298 | 257 | 
 | 2022-12-05 | 1297 | 254 | 
 | 2022-12-04 | 1295 | 253 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 1285 | 246 | 
 | 2022-11-10 | 1284 | 246 | 
 | 2022-11-09 | 1284 | 246 | 
-| 2022-11-08 | 1282 | 246 | 
 

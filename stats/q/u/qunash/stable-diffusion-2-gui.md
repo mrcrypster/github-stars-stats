@@ -1,10 +1,10 @@
 # qunash/stable-diffusion-2-gui - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 11
 
-★ Stars: 189
+★ Stars: 208
 
 [Open repository](https://github.com/qunash/stable-diffusion-2-gui)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 208 | 11 | 
 | 2022-12-07 | 189 | 11 | 
 | 2022-12-06 | 187 | 11 | 
 | 2022-12-04 | 159 | 10 | 

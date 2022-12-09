@@ -1,10 +1,10 @@
 # haxi0/TrollApps - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 7
 
-★ Stars: 174
+★ Stars: 175
 
 [Open repository](https://github.com/haxi0/TrollApps)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 175 | 7 | 
 | 2022-12-07 | 174 | 7 | 
 | 2022-12-05 | 171 | 6 | 
 | 2022-12-04 | 171 | 6 | 

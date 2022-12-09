@@ -1,10 +1,10 @@
 # flucont/btcloud - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 311
 
-★ Stars: 575
+★ Stars: 577
 
 [Open repository](https://github.com/flucont/btcloud)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 577 | 311 | 
 | 2022-12-07 | 575 | 311 | 
 | 2022-12-06 | 575 | 311 | 
 | 2022-12-05 | 571 | 307 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 532 | 284 | 
 | 2022-11-10 | 532 | 284 | 
 | 2022-11-09 | 531 | 284 | 
-| 2022-11-08 | 530 | 284 | 
 

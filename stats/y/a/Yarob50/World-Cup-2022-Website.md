@@ -1,10 +1,10 @@
 # Yarob50/World-Cup-2022-Website - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 13
+☋ Forks: 15
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/Yarob50/World-Cup-2022-Website)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 22 | 15 | 
 | 2022-12-07 | 21 | 13 | 
 | 2022-12-06 | 21 | 13 | 
 | 2022-12-04 | 21 | 13 | 

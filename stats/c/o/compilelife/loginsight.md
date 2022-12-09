@@ -1,10 +1,10 @@
 # compilelife/loginsight - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
-☋ Forks: 30
+☋ Forks: 31
 
-★ Stars: 186
+★ Stars: 187
 
 [Open repository](https://github.com/compilelife/loginsight)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 187 | 31 | 
 | 2022-12-06 | 186 | 30 | 
 | 2022-12-05 | 185 | 30 | 
 | 2022-12-03 | 185 | 30 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-12 | 183 | 29 | 
 | 2022-11-11 | 182 | 29 | 
 | 2022-11-10 | 182 | 29 | 
-| 2022-11-09 | 182 | 29 | 
 

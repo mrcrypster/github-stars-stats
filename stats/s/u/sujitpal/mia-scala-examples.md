@@ -1,6 +1,6 @@
 # sujitpal/mia-scala-examples - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 26 | 20 | 
 | 2022-12-07 | 26 | 20 | 
 | 2022-12-06 | 26 | 20 | 
 | 2022-12-05 | 26 | 20 | 

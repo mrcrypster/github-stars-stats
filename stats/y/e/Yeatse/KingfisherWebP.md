@@ -1,6 +1,6 @@
 # Yeatse/KingfisherWebP - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 66
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 250 | 66 | 
 | 2022-12-07 | 250 | 66 | 
 | 2022-12-06 | 250 | 66 | 
 | 2022-12-05 | 250 | 66 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 250 | 64 | 
 | 2022-11-10 | 250 | 64 | 
 | 2022-11-09 | 250 | 64 | 
-| 2022-11-08 | 250 | 64 | 
 

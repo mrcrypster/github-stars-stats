@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 08
 
 ☋ Forks: 56
 
-★ Stars: 48
+★ Stars: 49
 
 [Open repository](https://github.com/mongodb/helm-charts)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-08 | 48 | 56 | 
+| 2022-12-08 | 49 | 56 | 
 | 2022-12-07 | 48 | 56 | 
 | 2022-12-06 | 48 | 55 | 
 | 2022-12-04 | 48 | 55 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-11 | 48 | 54 | 
 | 2022-11-10 | 48 | 54 | 
 | 2022-11-09 | 48 | 54 | 
-| 2022-11-08 | 48 | 54 | 
 

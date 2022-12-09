@@ -1,10 +1,10 @@
 # livekit/livekit - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 323
+☋ Forks: 325
 
-★ Stars: 4292
+★ Stars: 4301
 
 [Open repository](https://github.com/livekit/livekit)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 4301 | 325 | 
 | 2022-12-07 | 4292 | 323 | 
 | 2022-12-06 | 4288 | 323 | 
 | 2022-12-04 | 4278 | 321 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 4189 | 312 | 
 | 2022-11-10 | 4185 | 311 | 
 | 2022-11-09 | 4180 | 311 | 
-| 2022-11-08 | 4178 | 311 | 
 

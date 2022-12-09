@@ -1,6 +1,6 @@
 # scalacenter/scastie - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 97
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 379 | 97 | 
 | 2022-12-07 | 379 | 97 | 
 | 2022-12-06 | 379 | 97 | 
 | 2022-12-04 | 379 | 97 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 377 | 96 | 
 | 2022-11-10 | 377 | 96 | 
 | 2022-11-09 | 377 | 96 | 
-| 2022-11-08 | 377 | 96 | 
 

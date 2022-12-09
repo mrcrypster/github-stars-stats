@@ -1,10 +1,10 @@
 # prettier-solidity/prettier-plugin-solidity - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 63
 
-★ Stars: 600
+★ Stars: 601
 
 [Open repository](https://github.com/prettier-solidity/prettier-plugin-solidity)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 601 | 63 | 
 | 2022-12-07 | 600 | 63 | 
 | 2022-12-05 | 600 | 63 | 
 | 2022-12-04 | 600 | 64 | 

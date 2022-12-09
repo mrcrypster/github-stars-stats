@@ -1,10 +1,10 @@
 # pythonstock/stock - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 1990
 
-★ Stars: 5833
+★ Stars: 5834
 
 [Open repository](https://github.com/pythonstock/stock)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 5834 | 1990 | 
 | 2022-12-06 | 5833 | 1990 | 
 | 2022-12-05 | 5832 | 1989 | 
 | 2022-12-04 | 5831 | 1988 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-11 | 5786 | 1970 | 
 | 2022-11-10 | 5786 | 1969 | 
 | 2022-11-09 | 5782 | 1967 | 
-| 2022-11-08 | 5780 | 1967 | 
 

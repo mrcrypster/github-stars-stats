@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 08
 
 ☋ Forks: 0
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/avsm/eeww)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-08 | 13 | - | 
+| 2022-12-08 | 14 | - | 
 | 2022-12-07 | 13 | - | 
 

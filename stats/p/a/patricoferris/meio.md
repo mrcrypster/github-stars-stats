@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 08
 
 ☋ Forks: 1
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/patricoferris/meio)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-08 | 32 | 1 | 
+| 2022-12-08 | 33 | 1 | 
 | 2022-12-07 | 32 | 1 | 
 

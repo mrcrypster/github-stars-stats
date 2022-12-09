@@ -1,10 +1,10 @@
 # fravoll/solidity-patterns - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 433
+☋ Forks: 432
 
-★ Stars: 2532
+★ Stars: 2536
 
 [Open repository](https://github.com/fravoll/solidity-patterns)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 2536 | 432 | 
 | 2022-12-07 | 2532 | 433 | 
 | 2022-12-06 | 2527 | 432 | 
 | 2022-12-04 | 2525 | 431 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 2490 | 422 | 
 | 2022-11-10 | 2489 | 422 | 
 | 2022-11-09 | 2481 | 421 | 
-| 2022-11-08 | 2479 | 421 | 
 

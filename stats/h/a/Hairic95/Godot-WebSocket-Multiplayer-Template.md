@@ -1,6 +1,6 @@
 # Hairic95/Godot-WebSocket-Multiplayer-Template - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 30 | - | 
 | 2022-12-06 | 30 | - | 
 | 2022-12-05 | 30 | - | 
 | 2022-12-04 | 30 | - | 

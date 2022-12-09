@@ -1,10 +1,10 @@
 # tulios/json-viewer - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 614
 
-★ Stars: 2890
+★ Stars: 2893
 
 [Open repository](https://github.com/tulios/json-viewer)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 2893 | 614 | 
 | 2022-12-06 | 2890 | 614 | 
 | 2022-12-05 | 2890 | 614 | 
 | 2022-12-03 | 2889 | 614 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-12 | 2880 | 612 | 
 | 2022-11-11 | 2880 | 611 | 
 | 2022-11-10 | 2876 | 610 | 
-| 2022-11-08 | 2875 | 610 | 
 

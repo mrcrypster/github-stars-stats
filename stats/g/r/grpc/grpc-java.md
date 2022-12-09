@@ -1,10 +1,10 @@
 # grpc/grpc-java - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
-☋ Forks: 3525
+☋ Forks: 3528
 
-★ Stars: 10179
+★ Stars: 10181
 
 [Open repository](https://github.com/grpc/grpc-java)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 10181 | 3528 | 
 | 2022-12-06 | 10179 | 3525 | 
 | 2022-12-05 | 10177 | 3524 | 
 | 2022-12-03 | 10176 | 3522 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-11 | 10133 | 3502 | 
 | 2022-11-10 | 10131 | 3500 | 
 | 2022-11-09 | 10131 | 3499 | 
-| 2022-11-08 | 10131 | 3493 | 
 

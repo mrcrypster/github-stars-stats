@@ -1,10 +1,10 @@
 # ranger/ranger - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 814
 
-★ Stars: 12503
+★ Stars: 12507
 
 [Open repository](https://github.com/ranger/ranger)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 12507 | 814 | 
 | 2022-12-07 | 12503 | 814 | 
 | 2022-12-06 | 12500 | 814 | 
 | 2022-12-04 | 12486 | 815 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 12382 | 810 | 
 | 2022-11-10 | 12376 | 809 | 
 | 2022-11-09 | 12371 | 811 | 
-| 2022-11-08 | 12370 | 808 | 
 

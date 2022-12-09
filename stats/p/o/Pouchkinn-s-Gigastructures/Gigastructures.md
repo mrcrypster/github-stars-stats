@@ -1,8 +1,8 @@
 # Pouchkinn-s-Gigastructures/Gigastructures - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
-☋ Forks: 4
+☋ Forks: 5
 
 ★ Stars: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 9 | 5 | 
 | 2022-12-06 | 9 | 4 | 
 | 2022-12-05 | 7 | 4 | 
 | 2022-12-04 | 7 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-12 | 7 | 3 | 
 | 2022-11-11 | 7 | 3 | 
 | 2022-11-10 | 7 | 3 | 
-| 2022-11-08 | 7 | 3 | 
 

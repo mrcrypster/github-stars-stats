@@ -1,10 +1,10 @@
 # facebookarchive/xctool - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 779
 
-★ Stars: 6986
+★ Stars: 6985
 
 [Open repository](https://github.com/facebookarchive/xctool)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 6985 | 779 | 
 | 2022-12-07 | 6986 | 779 | 
 | 2022-12-05 | 6986 | 779 | 
 | 2022-12-04 | 6987 | 779 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 6989 | 779 | 
 | 2022-11-10 | 6989 | 779 | 
 | 2022-11-09 | 6989 | 779 | 
-| 2022-11-08 | 6989 | 779 | 
 

@@ -1,10 +1,10 @@
 # Ewenwan/Mathematics - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 241
 
-★ Stars: 575
+★ Stars: 576
 
 [Open repository](https://github.com/Ewenwan/Mathematics)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 576 | 241 | 
 | 2022-12-07 | 575 | 241 | 
 | 2022-12-05 | 575 | 241 | 
 | 2022-12-04 | 575 | 241 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 574 | 238 | 
 | 2022-11-10 | 573 | 238 | 
 | 2022-11-09 | 573 | 238 | 
-| 2022-11-08 | 573 | 238 | 
 

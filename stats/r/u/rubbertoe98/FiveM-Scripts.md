@@ -1,10 +1,10 @@
 # rubbertoe98/FiveM-Scripts - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 646
 
-★ Stars: 108
+★ Stars: 107
 
 [Open repository](https://github.com/rubbertoe98/FiveM-Scripts)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 107 | 646 | 
 | 2022-12-06 | 108 | 646 | 
 | 2022-12-05 | 108 | 646 | 
 | 2022-12-04 | 108 | 646 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-11 | 107 | 644 | 
 | 2022-11-10 | 107 | 643 | 
 | 2022-11-09 | 107 | 643 | 
-| 2022-11-08 | 107 | 643 | 
 

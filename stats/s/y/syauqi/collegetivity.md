@@ -1,10 +1,10 @@
 # syauqi/collegetivity - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 46
 
-★ Stars: 118
+★ Stars: 119
 
 [Open repository](https://github.com/syauqi/collegetivity)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 119 | 46 | 
 | 2022-12-07 | 118 | 46 | 
 | 2022-12-06 | 116 | 46 | 
 | 2022-12-04 | 115 | 46 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 115 | 46 | 
 | 2022-11-10 | 115 | 46 | 
 | 2022-11-09 | 115 | 46 | 
-| 2022-11-08 | 115 | 46 | 
 

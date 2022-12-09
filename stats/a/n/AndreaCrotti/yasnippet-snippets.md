@@ -1,10 +1,10 @@
 # AndreaCrotti/yasnippet-snippets - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 436
 
-★ Stars: 1018
+★ Stars: 1019
 
 [Open repository](https://github.com/AndreaCrotti/yasnippet-snippets)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 1019 | 436 | 
 | 2022-12-07 | 1018 | 436 | 
 | 2022-12-05 | 1018 | 436 | 
 | 2022-12-04 | 1018 | 436 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 1014 | 435 | 
 | 2022-11-10 | 1014 | 434 | 
 | 2022-11-09 | 1013 | 434 | 
-| 2022-11-08 | 1013 | 434 | 
 

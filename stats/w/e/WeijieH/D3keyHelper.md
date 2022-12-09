@@ -1,10 +1,10 @@
 # WeijieH/D3keyHelper - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 40
 
-★ Stars: 188
+★ Stars: 189
 
 [Open repository](https://github.com/WeijieH/D3keyHelper)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 189 | 40 | 
 | 2022-12-07 | 188 | 40 | 
 | 2022-12-06 | 190 | 40 | 
 | 2022-12-05 | 190 | 40 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 189 | 40 | 
 | 2022-11-10 | 189 | 40 | 
 | 2022-11-09 | 189 | 40 | 
-| 2022-11-08 | 189 | 40 | 
 

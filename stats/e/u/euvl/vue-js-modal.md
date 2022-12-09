@@ -1,6 +1,6 @@
 # euvl/vue-js-modal - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 580
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 4155 | 580 | 
 | 2022-12-06 | 4155 | 580 | 
 | 2022-12-05 | 4155 | 580 | 
 | 2022-12-04 | 4154 | 580 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-11 | 4144 | 582 | 
 | 2022-11-10 | 4144 | 582 | 
 | 2022-11-09 | 4142 | 581 | 
-| 2022-11-08 | 4142 | 581 | 
 

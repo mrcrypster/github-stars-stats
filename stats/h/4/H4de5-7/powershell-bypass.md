@@ -1,10 +1,10 @@
 # H4de5-7/powershell-bypass - stars & forks statistics
 
-Stats updated on Dec 2022, 06
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 27
 
-★ Stars: 208
+★ Stars: 209
 
 [Open repository](https://github.com/H4de5-7/powershell-bypass)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 209 | 27 | 
 | 2022-12-06 | 208 | 27 | 
 | 2022-12-05 | 203 | 26 | 
 | 2022-12-03 | 201 | 26 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 06
 | 2022-11-11 | 118 | 13 | 
 | 2022-11-10 | 114 | 13 | 
 | 2022-11-09 | 113 | 13 | 
-| 2022-11-08 | 108 | 12 | 
 

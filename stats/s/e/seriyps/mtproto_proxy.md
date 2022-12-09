@@ -1,8 +1,8 @@
 # seriyps/mtproto_proxy - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 62
+☋ Forks: 63
 
 ★ Stars: 318
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 318 | 63 | 
 | 2022-12-07 | 318 | 62 | 
 | 2022-12-05 | 316 | 62 | 
 | 2022-12-04 | 317 | 62 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 308 | 63 | 
 | 2022-11-10 | 308 | 63 | 
 | 2022-11-09 | 308 | 63 | 
-| 2022-11-08 | 307 | 63 | 
 

@@ -1,10 +1,10 @@
 # tessarakkt/godot4-oceanfft - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 0
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/tessarakkt/godot4-oceanfft)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 33 | - | 
 | 2022-12-07 | 32 | - | 
 | 2022-12-06 | 32 | - | 
 | 2022-12-05 | 30 | - | 

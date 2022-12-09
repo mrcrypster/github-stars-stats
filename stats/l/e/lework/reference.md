@@ -1,10 +1,10 @@
 # lework/reference - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 3
 
-★ Stars: 13
+★ Stars: 15
 
 [Open repository](https://github.com/lework/reference)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 15 | 3 | 
 | 2022-12-07 | 13 | 3 | 
 | 2022-12-06 | 13 | 3 | 
 

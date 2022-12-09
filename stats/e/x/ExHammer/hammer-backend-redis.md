@@ -1,6 +1,6 @@
 # ExHammer/hammer-backend-redis - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 26
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 22 | 26 | 
+| 2022-12-08 | 22 | 26 | 
 | 2022-12-07 | 22 | 26 | 
 | 2022-12-06 | 22 | 26 | 
 | 2022-12-04 | 22 | 26 | 
@@ -41,5 +43,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 19 | 26 | 
 | 2022-11-10 | 19 | 26 | 
 | 2022-11-09 | 19 | 26 | 
-| 2022-11-08 | 19 | 26 | 
 

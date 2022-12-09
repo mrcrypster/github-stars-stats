@@ -1,10 +1,10 @@
 # StakeTake/guidecosmos - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 64
 
-★ Stars: 49
+★ Stars: 50
 
 [Open repository](https://github.com/StakeTake/guidecosmos)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 50 | 64 | 
 | 2022-12-07 | 49 | 64 | 
 | 2022-12-05 | 49 | 64 | 
 | 2022-12-04 | 49 | 64 | 

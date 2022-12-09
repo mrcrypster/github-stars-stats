@@ -1,6 +1,6 @@
 # DISIC/MiNumEco - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 5 | 4 | 
 | 2022-12-07 | 5 | 4 | 
 | 2022-12-06 | 5 | 4 | 
 | 2022-12-04 | 5 | 4 | 

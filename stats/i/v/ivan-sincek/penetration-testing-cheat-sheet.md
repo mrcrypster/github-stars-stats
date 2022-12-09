@@ -1,6 +1,6 @@
 # ivan-sincek/penetration-testing-cheat-sheet - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 79
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 337 | 79 | 
 | 2022-12-07 | 337 | 79 | 
 | 2022-12-05 | 337 | 77 | 
 | 2022-12-04 | 337 | 77 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 317 | 76 | 
 | 2022-11-10 | 315 | 76 | 
 | 2022-11-09 | 311 | 76 | 
-| 2022-11-08 | 311 | 76 | 
 

@@ -1,6 +1,6 @@
 # rack/rack - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 1654
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 4562 | 1654 | 
 | 2022-12-07 | 4562 | 1654 | 
 | 2022-12-06 | 4562 | 1653 | 
 | 2022-12-04 | 4559 | 1653 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 4541 | 1642 | 
 | 2022-11-10 | 4541 | 1643 | 
 | 2022-11-09 | 4539 | 1642 | 
-| 2022-11-08 | 4538 | 1642 | 
 

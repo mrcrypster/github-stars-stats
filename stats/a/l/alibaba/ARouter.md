@@ -1,10 +1,10 @@
 # alibaba/ARouter - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 2520
 
-★ Stars: 14019
+★ Stars: 14020
 
 [Open repository](https://github.com/alibaba/ARouter)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 14020 | 2520 | 
 | 2022-12-07 | 14019 | 2520 | 
 | 2022-12-06 | 14017 | 2520 | 
 | 2022-12-05 | 14016 | 2520 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 13996 | 2511 | 
 | 2022-11-11 | 13996 | 2511 | 
 | 2022-11-10 | 13995 | 2510 | 
-| 2022-11-09 | 13995 | 2510 | 
 

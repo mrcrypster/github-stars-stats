@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 08
 
 ☋ Forks: 4
 
-★ Stars: 121
+★ Stars: 131
 
 [Open repository](https://github.com/ynagatomo/ImgGenSD2)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-08 | 121 | 4 | 
+| 2022-12-08 | 131 | 4 | 
 | 2022-12-07 | 118 | 4 | 
 

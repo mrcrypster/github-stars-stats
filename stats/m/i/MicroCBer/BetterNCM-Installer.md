@@ -1,10 +1,10 @@
 # MicroCBer/BetterNCM-Installer - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 94
+☋ Forks: 95
 
-★ Stars: 822
+★ Stars: 828
 
 [Open repository](https://github.com/MicroCBer/BetterNCM-Installer)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 828 | 95 | 
 | 2022-12-07 | 822 | 94 | 
 | 2022-12-05 | 817 | 93 | 
 | 2022-12-04 | 807 | 93 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 626 | 79 | 
 | 2022-11-10 | 623 | 79 | 
 | 2022-11-09 | 620 | 79 | 
-| 2022-11-08 | 617 | 79 | 
 

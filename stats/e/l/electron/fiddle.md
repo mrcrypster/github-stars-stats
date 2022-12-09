@@ -1,10 +1,10 @@
 # electron/fiddle - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
-☋ Forks: 689
+☋ Forks: 690
 
-★ Stars: 6890
+★ Stars: 6893
 
 [Open repository](https://github.com/electron/fiddle)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 6893 | 690 | 
 | 2022-12-07 | 6890 | 689 | 
 | 2022-12-05 | 6889 | 689 | 
 | 2022-12-04 | 6887 | 688 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 6855 | 680 | 
 | 2022-11-10 | 6854 | 680 | 
 | 2022-11-09 | 6853 | 677 | 
-| 2022-11-08 | 6854 | 677 | 
 

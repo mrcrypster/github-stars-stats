@@ -1,10 +1,10 @@
 # Ennoriel/svelte-awesome-color-picker - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 5
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/Ennoriel/svelte-awesome-color-picker)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 33 | 5 | 
 | 2022-12-07 | 32 | 5 | 
 | 2022-12-05 | 32 | 5 | 
 | 2022-12-04 | 31 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 28 | 4 | 
 | 2022-11-10 | 27 | 4 | 
 | 2022-11-09 | 27 | 4 | 
-| 2022-11-08 | 27 | 4 | 
 

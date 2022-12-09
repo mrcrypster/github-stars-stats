@@ -1,10 +1,10 @@
 # warpdotdev/workflows - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 86
 
-★ Stars: 358
+★ Stars: 360
 
 [Open repository](https://github.com/warpdotdev/workflows)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 360 | 86 | 
 | 2022-12-07 | 358 | 86 | 
 | 2022-12-06 | 357 | 85 | 
 | 2022-12-04 | 357 | 85 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 337 | 77 | 
 | 2022-11-10 | 334 | 76 | 
 | 2022-11-09 | 333 | 76 | 
-| 2022-11-08 | 333 | 76 | 
 

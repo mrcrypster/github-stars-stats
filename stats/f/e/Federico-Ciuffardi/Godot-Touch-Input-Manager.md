@@ -1,6 +1,6 @@
 # Federico-Ciuffardi/Godot-Touch-Input-Manager - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 206 | 18 | 
 | 2022-12-07 | 206 | 18 | 
 | 2022-12-06 | 206 | 18 | 
 | 2022-12-04 | 204 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 202 | 18 | 
 | 2022-11-10 | 201 | 17 | 
 | 2022-11-09 | 200 | 17 | 
-| 2022-11-08 | 200 | 17 | 
 

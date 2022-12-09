@@ -1,6 +1,6 @@
 # Bank-Of-Chain/boc-contract-periphery-eth - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 5 | - | 
 | 2022-12-07 | 5 | - | 
 | 2022-12-05 | 5 | - | 
 | 2022-12-04 | 5 | - | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 3 | - | 
 | 2022-11-11 | 3 | - | 
 | 2022-11-10 | 3 | - | 
-| 2022-11-09 | 3 | - | 
 

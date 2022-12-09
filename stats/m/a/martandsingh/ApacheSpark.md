@@ -1,10 +1,10 @@
 # martandsingh/ApacheSpark - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 08
 
 ☋ Forks: 45
 
-★ Stars: 61
+★ Stars: 62
 
 [Open repository](https://github.com/martandsingh/ApacheSpark)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-08 | 62 | 45 | 
 | 2022-12-07 | 61 | 45 | 
 | 2022-12-05 | 61 | 45 | 
 | 2022-12-04 | 61 | 45 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-11 | 61 | 45 | 
 | 2022-11-10 | 61 | 45 | 
 | 2022-11-09 | 61 | 45 | 
-| 2022-11-08 | 61 | 45 | 
 
