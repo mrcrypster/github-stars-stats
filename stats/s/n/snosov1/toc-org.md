@@ -1,6 +1,6 @@
 # snosov1/toc-org - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 260 | 27 | 
 | 2022-12-07 | 260 | 27 | 
 | 2022-12-06 | 259 | 27 | 
 | 2022-12-05 | 259 | 27 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 259 | 27 | 
 | 2022-11-11 | 259 | 27 | 
 | 2022-11-10 | 259 | 27 | 
-| 2022-11-09 | 259 | 27 | 
 

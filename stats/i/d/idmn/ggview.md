@@ -1,10 +1,10 @@
 # idmn/ggview - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 2
 
-★ Stars: 73
+★ Stars: 74
 
 [Open repository](https://github.com/idmn/ggview)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 74 | 2 | 
 | 2022-12-08 | 73 | 2 | 
 | 2022-12-07 | 73 | 2 | 
 | 2022-12-06 | 71 | 2 | 

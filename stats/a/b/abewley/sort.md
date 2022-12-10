@@ -1,10 +1,10 @@
 # abewley/sort - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 950
+☋ Forks: 952
 
-★ Stars: 3076
+★ Stars: 3077
 
 [Open repository](https://github.com/abewley/sort)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 3077 | 952 | 
 | 2022-12-08 | 3076 | 950 | 
 | 2022-12-07 | 3076 | 950 | 
 | 2022-12-06 | 3073 | 950 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 3048 | 945 | 
 | 2022-11-11 | 3048 | 943 | 
 | 2022-11-10 | 3046 | 944 | 
-| 2022-11-09 | 3046 | 944 | 
 

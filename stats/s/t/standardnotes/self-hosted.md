@@ -1,10 +1,10 @@
 # standardnotes/self-hosted - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 33
 
-★ Stars: 294
+★ Stars: 296
 
 [Open repository](https://github.com/standardnotes/self-hosted)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 296 | 33 | 
 | 2022-12-07 | 294 | 33 | 
 | 2022-12-06 | 293 | 33 | 
 | 2022-12-05 | 293 | 33 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-13 | 282 | 32 | 
 | 2022-11-12 | 281 | 31 | 
 | 2022-11-10 | 280 | 31 | 
-| 2022-11-09 | 280 | 30 | 
 

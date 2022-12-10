@@ -1,10 +1,10 @@
 # grilme99/CorePackages - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 4
 
-★ Stars: 36
+★ Stars: 39
 
 [Open repository](https://github.com/grilme99/CorePackages)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 39 | 4 | 
 | 2022-12-08 | 36 | 4 | 
 | 2022-12-07 | 36 | 3 | 
 | 2022-12-05 | 36 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 27 | 1 | 
 | 2022-11-11 | 26 | 1 | 
 | 2022-11-10 | 26 | 1 | 
-| 2022-11-09 | 25 | 1 | 
 

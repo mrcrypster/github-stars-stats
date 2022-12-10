@@ -1,8 +1,8 @@
 # Open-Bootcamp/HTML-CSS - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
-☋ Forks: 221
+☋ Forks: 223
 
 ★ Stars: 218
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 218 | 223 | 
 | 2022-12-07 | 218 | 221 | 
 | 2022-12-06 | 218 | 219 | 
 | 2022-12-05 | 215 | 218 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 202 | 205 | 
 | 2022-11-11 | 200 | 203 | 
 | 2022-11-10 | 200 | 202 | 
-| 2022-11-09 | 200 | 201 | 
 

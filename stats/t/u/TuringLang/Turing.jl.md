@@ -1,10 +1,10 @@
 # TuringLang/Turing.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 198
 
-★ Stars: 1700
+★ Stars: 1698
 
 [Open repository](https://github.com/TuringLang/Turing.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 1698 | 198 | 
 | 2022-12-08 | 1700 | 198 | 
 | 2022-12-07 | 1700 | 200 | 
 | 2022-12-06 | 1700 | 200 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 1682 | 198 | 
 | 2022-11-11 | 1682 | 197 | 
 | 2022-11-10 | 1680 | 197 | 
-| 2022-11-09 | 1679 | 197 | 
 

@@ -1,6 +1,6 @@
 # DeekshithSN/Helm_charts - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 184
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 16 | 184 | 
 | 2022-12-08 | 16 | 184 | 
 | 2022-12-06 | 16 | 184 | 
 | 2022-12-05 | 16 | 184 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 15 | 180 | 
 | 2022-11-11 | 15 | 180 | 
 | 2022-11-10 | 15 | 180 | 
-| 2022-11-09 | 15 | 179 | 
 

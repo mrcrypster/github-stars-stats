@@ -1,8 +1,8 @@
 # NVIDIA/nccl - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
-☋ Forks: 547
+☋ Forks: 549
 
 ★ Stars: 1924
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 1924 | 549 | 
 | 2022-12-08 | 1924 | 547 | 
 | 2022-12-07 | 1923 | 547 | 
 | 2022-12-06 | 1922 | 547 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 1909 | 538 | 
 | 2022-11-11 | 1909 | 538 | 
 | 2022-11-10 | 1910 | 538 | 
-| 2022-11-09 | 1910 | 538 | 
 

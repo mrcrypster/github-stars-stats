@@ -1,10 +1,10 @@
 # nomad-xyz/ExcessivelySafeCall - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 11
 
-★ Stars: 116
+★ Stars: 117
 
 [Open repository](https://github.com/nomad-xyz/ExcessivelySafeCall)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 117 | 11 | 
 | 2022-12-07 | 116 | 11 | 
 | 2022-12-06 | 116 | 11 | 
 | 2022-12-05 | 116 | 11 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-13 | 114 | 11 | 
 | 2022-11-12 | 114 | 11 | 
 | 2022-11-11 | 114 | 11 | 
-| 2022-11-10 | 115 | 11 | 
 

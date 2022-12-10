@@ -1,6 +1,6 @@
 # nerdypepper/scientifica - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 1485 | 22 | 
 | 2022-12-08 | 1485 | 22 | 
 | 2022-12-07 | 1485 | 22 | 
 | 2022-12-06 | 1485 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 1466 | 23 | 
 | 2022-11-11 | 1464 | 24 | 
 | 2022-11-10 | 1464 | 23 | 
-| 2022-11-09 | 1461 | 23 | 
 

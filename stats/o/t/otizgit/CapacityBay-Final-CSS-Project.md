@@ -1,8 +1,8 @@
 # otizgit/CapacityBay-Final-CSS-Project - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
-☋ Forks: 9
+☋ Forks: 12
 
 ★ Stars: 0
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | - | 12 | 
+| 2022-12-09 | - | 12 | 
 | 2022-12-08 | - | 9 | 
 | 2022-12-07 | - | 10 | 
 | 2022-12-05 | - | 10 | 

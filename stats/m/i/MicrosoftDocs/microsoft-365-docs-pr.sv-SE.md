@@ -1,6 +1,6 @@
 # MicrosoftDocs/microsoft-365-docs-pr.sv-SE - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 9 | 5 | 
 | 2022-12-08 | 9 | 5 | 
 | 2022-12-07 | 9 | 5 | 
 | 2022-12-05 | 9 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 9 | 5 | 
 | 2022-11-11 | 9 | 5 | 
 | 2022-11-10 | 9 | 5 | 
-| 2022-11-09 | 9 | 5 | 
 

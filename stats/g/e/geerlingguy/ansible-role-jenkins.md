@@ -1,8 +1,8 @@
 # geerlingguy/ansible-role-jenkins - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 713
+☋ Forks: 711
 
 ★ Stars: 778
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 778 | 711 | 
 | 2022-12-08 | 778 | 713 | 
 | 2022-12-07 | 778 | 713 | 
 | 2022-12-05 | 778 | 713 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 774 | 709 | 
 | 2022-11-11 | 774 | 709 | 
 | 2022-11-10 | 774 | 710 | 
-| 2022-11-09 | 774 | 710 | 
 

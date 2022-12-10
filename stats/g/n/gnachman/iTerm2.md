@@ -1,10 +1,10 @@
 # gnachman/iTerm2 - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 1127
 
-★ Stars: 13032
+★ Stars: 13034
 
 [Open repository](https://github.com/gnachman/iTerm2)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 13034 | 1127 | 
 | 2022-12-08 | 13032 | 1127 | 
 | 2022-12-07 | 13030 | 1127 | 
 | 2022-12-06 | 13026 | 1128 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 12924 | 1125 | 
 | 2022-11-11 | 12921 | 1125 | 
 | 2022-11-10 | 12916 | 1125 | 
-| 2022-11-09 | 12915 | 1125 | 
 

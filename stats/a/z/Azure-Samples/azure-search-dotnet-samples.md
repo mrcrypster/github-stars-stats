@@ -1,8 +1,8 @@
 # Azure-Samples/azure-search-dotnet-samples - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 280
+☋ Forks: 281
 
 ★ Stars: 90
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 90 | 281 | 
 | 2022-12-08 | 90 | 280 | 
 | 2022-12-07 | 90 | 279 | 
 | 2022-12-05 | 90 | 279 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 88 | 272 | 
 | 2022-11-11 | 88 | 272 | 
 | 2022-11-10 | 88 | 272 | 
-| 2022-11-09 | 88 | 272 | 
 

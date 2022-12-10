@@ -1,6 +1,6 @@
 # vrtbl/passerine - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 994 | 32 | 
 | 2022-12-08 | 994 | 32 | 
 | 2022-12-07 | 994 | 32 | 
 | 2022-12-06 | 994 | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 987 | 33 | 
 | 2022-11-11 | 986 | 33 | 
 | 2022-11-10 | 985 | 33 | 
-| 2022-11-09 | 985 | 33 | 
 

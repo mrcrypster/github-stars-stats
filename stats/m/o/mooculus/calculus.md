@@ -1,6 +1,6 @@
 # mooculus/calculus - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 320
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 110 | 320 | 
 | 2022-12-08 | 110 | 320 | 
 | 2022-12-07 | 110 | 320 | 
 | 2022-12-06 | 110 | 319 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 110 | 315 | 
 | 2022-11-12 | 110 | 315 | 
 | 2022-11-10 | 110 | 315 | 
-| 2022-11-09 | 110 | 315 | 
 

@@ -1,6 +1,6 @@
 # Historical-Expansion-Mod/Greater-Flavor-Mod - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 97
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 141 | 97 | 
 | 2022-12-08 | 141 | 97 | 
 | 2022-12-07 | 141 | 97 | 
 | 2022-12-06 | 141 | 98 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 140 | 92 | 
 | 2022-11-11 | 140 | 92 | 
 | 2022-11-10 | 140 | 92 | 
-| 2022-11-09 | 140 | 93 | 
 

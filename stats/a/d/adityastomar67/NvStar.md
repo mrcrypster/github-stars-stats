@@ -1,6 +1,6 @@
 # adityastomar67/NvStar - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 24 | 1 | 
 | 2022-12-08 | 24 | 1 | 
 | 2022-12-07 | 23 | - | 
 | 2022-12-06 | 23 | - | 

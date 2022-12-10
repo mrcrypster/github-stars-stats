@@ -1,6 +1,6 @@
 # wincent/command-t - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 329
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 2669 | 329 | 
 | 2022-12-07 | 2669 | 329 | 
 | 2022-12-06 | 2668 | 329 | 
 | 2022-12-05 | 2668 | 329 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 2664 | 328 | 
 | 2022-11-11 | 2663 | 328 | 
 | 2022-11-10 | 2663 | 328 | 
-| 2022-11-09 | 2662 | 328 | 
 

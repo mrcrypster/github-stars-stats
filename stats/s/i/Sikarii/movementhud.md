@@ -1,10 +1,10 @@
 # Sikarii/movementhud - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 4
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/Sikarii/movementhud)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 15 | 4 | 
 | 2022-12-08 | 14 | 4 | 
 | 2022-12-07 | 14 | 4 | 
 | 2022-12-06 | 14 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 14 | 4 | 
 | 2022-11-11 | 14 | 4 | 
 | 2022-11-10 | 14 | 4 | 
-| 2022-11-09 | 14 | 4 | 
 

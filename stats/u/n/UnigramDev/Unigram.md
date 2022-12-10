@@ -1,10 +1,10 @@
 # UnigramDev/Unigram - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 354
 
-★ Stars: 2450
+★ Stars: 2453
 
 [Open repository](https://github.com/UnigramDev/Unigram)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 2453 | 354 | 
 | 2022-12-08 | 2450 | 354 | 
 | 2022-12-06 | 2451 | 354 | 
 | 2022-12-05 | 2450 | 354 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 2411 | 352 | 
 | 2022-11-11 | 2411 | 352 | 
 | 2022-11-10 | 2409 | 352 | 
-| 2022-11-09 | 2408 | 350 | 
 

@@ -1,10 +1,10 @@
 # blanchette/logical_verification_2022 - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 4
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/blanchette/logical_verification_2022)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 12 | 4 | 
 | 2022-12-08 | 11 | 4 | 
 | 2022-12-07 | 11 | 4 | 
 | 2022-12-05 | 11 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 9 | 3 | 
 | 2022-11-11 | 9 | 3 | 
 | 2022-11-10 | 9 | 3 | 
-| 2022-11-09 | 9 | 3 | 
 

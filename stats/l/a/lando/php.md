@@ -1,8 +1,8 @@
 # lando/php - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 4
+☋ Forks: 6
 
 ★ Stars: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 6 | 6 | 
 | 2022-12-08 | 6 | 4 | 
 | 2022-12-07 | 6 | 4 | 
 | 2022-12-06 | 6 | 4 | 

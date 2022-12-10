@@ -1,6 +1,6 @@
 # egiusta/whatsasena - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 1 | 53 | 
 | 2022-12-07 | 1 | 53 | 
 | 2022-12-06 | 1 | 53 | 
 | 2022-12-05 | 1 | 53 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-13 | 1 | 53 | 
 | 2022-11-12 | 1 | 53 | 
 | 2022-11-11 | 1 | 53 | 
-| 2022-11-10 | 1 | 53 | 
 

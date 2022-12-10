@@ -1,6 +1,6 @@
 # Fanael/highlight-quoted - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 38 | 3 | 
 | 2022-12-08 | 38 | 3 | 
 | 2022-12-06 | 38 | 3 | 
 | 2022-12-05 | 38 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 38 | 3 | 
 | 2022-11-12 | 38 | 3 | 
 | 2022-11-11 | 38 | 3 | 
-| 2022-11-10 | 38 | 3 | 
 

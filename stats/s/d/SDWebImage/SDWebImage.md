@@ -1,10 +1,10 @@
 # SDWebImage/SDWebImage - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 5858
+☋ Forks: 5859
 
-★ Stars: 24413
+★ Stars: 24414
 
 [Open repository](https://github.com/SDWebImage/SDWebImage)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 24414 | 5859 | 
 | 2022-12-08 | 24413 | 5858 | 
 | 2022-12-07 | 24412 | 5855 | 
 | 2022-12-06 | 24413 | 5855 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 24385 | 5847 | 
 | 2022-11-11 | 24382 | 5847 | 
 | 2022-11-10 | 24381 | 5847 | 
-| 2022-11-09 | 24376 | 5848 | 
 

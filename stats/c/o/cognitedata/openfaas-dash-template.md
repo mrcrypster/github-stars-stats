@@ -1,6 +1,6 @@
 # cognitedata/openfaas-dash-template - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 1 | - | 
 | 2022-12-08 | 1 | - | 
 | 2022-12-06 | 1 | - | 
 | 2022-12-05 | 1 | - | 

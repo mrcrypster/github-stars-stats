@@ -1,6 +1,6 @@
 # apache/arrow-julia - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 216 | 47 | 
 | 2022-12-08 | 216 | 47 | 
 | 2022-12-07 | 216 | 48 | 
 | 2022-12-05 | 216 | 48 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 211 | 45 | 
 | 2022-11-11 | 211 | 45 | 
 | 2022-11-10 | 211 | 46 | 
-| 2022-11-09 | 211 | 46 | 
 

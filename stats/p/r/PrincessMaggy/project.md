@@ -1,6 +1,6 @@
 # PrincessMaggy/project - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | - | 36 | 
 | 2022-12-07 | - | 36 | 
 | 2022-12-06 | - | 36 | 
 | 2022-12-05 | - | 36 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-13 | - | 36 | 
 | 2022-11-12 | - | 36 | 
 | 2022-11-10 | - | 36 | 
-| 2022-11-09 | - | 36 | 
 

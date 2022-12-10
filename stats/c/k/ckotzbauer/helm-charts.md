@@ -1,6 +1,6 @@
 # ckotzbauer/helm-charts - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 30 | 22 | 
 | 2022-12-08 | 30 | 22 | 
 | 2022-12-07 | 30 | 22 | 
 | 2022-12-05 | 30 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 30 | 21 | 
 | 2022-11-11 | 30 | 21 | 
 | 2022-11-10 | 30 | 21 | 
-| 2022-11-09 | 30 | 21 | 
 

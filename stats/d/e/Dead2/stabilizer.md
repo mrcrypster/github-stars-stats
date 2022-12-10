@@ -1,10 +1,10 @@
 # Dead2/stabilizer - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 2
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/Dead2/stabilizer)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 15 | 2 | 
 | 2022-12-08 | 14 | 2 | 
 | 2022-12-06 | 14 | 2 | 
 | 2022-12-05 | 14 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 11 | 1 | 
 | 2022-11-12 | 11 | 1 | 
 | 2022-11-11 | 11 | 1 | 
-| 2022-11-10 | 11 | 1 | 
 

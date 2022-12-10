@@ -1,6 +1,6 @@
 # MiSTer-devel/Arcade-Raizing_MiSTer - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 14 | 7 | 
 | 2022-12-08 | 14 | 7 | 
 | 2022-12-07 | 14 | 7 | 
 | 2022-12-05 | 14 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 15 | 6 | 
 | 2022-11-11 | 15 | 6 | 
 | 2022-11-10 | 15 | 6 | 
-| 2022-11-09 | 15 | 6 | 
 

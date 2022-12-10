@@ -1,6 +1,6 @@
 # droy312/hacktoberfest_2022_flutter_opensource_project - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 5 | 30 | 
 | 2022-12-07 | 5 | 30 | 
 | 2022-12-06 | 5 | 30 | 
 | 2022-12-04 | 5 | 30 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 5 | 31 | 
 | 2022-11-11 | 5 | 31 | 
 | 2022-11-10 | 5 | 31 | 
-| 2022-11-09 | 5 | 31 | 
 

@@ -1,10 +1,10 @@
 # iuricode/readme-template - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
-☋ Forks: 2775
+☋ Forks: 2776
 
-★ Stars: 2073
+★ Stars: 2081
 
 [Open repository](https://github.com/iuricode/readme-template)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 2081 | 2776 | 
 | 2022-12-07 | 2073 | 2775 | 
 | 2022-12-06 | 2070 | 2763 | 
 | 2022-12-05 | 2063 | 2763 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 1975 | 2674 | 
 | 2022-11-11 | 1973 | 2671 | 
 | 2022-11-10 | 1970 | 2658 | 
-| 2022-11-09 | 1967 | 2653 | 
 

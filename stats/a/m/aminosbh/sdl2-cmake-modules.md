@@ -1,6 +1,6 @@
 # aminosbh/sdl2-cmake-modules - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 310 | 50 | 
 | 2022-12-08 | 310 | 50 | 
 | 2022-12-07 | 310 | 50 | 
 | 2022-12-06 | 310 | 50 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 305 | 49 | 
 | 2022-11-11 | 305 | 49 | 
 | 2022-11-10 | 305 | 49 | 
-| 2022-11-09 | 305 | 49 | 
 

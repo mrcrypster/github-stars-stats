@@ -1,6 +1,6 @@
 # LnL7/vim-nix - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 231 | 19 | 
 | 2022-12-08 | 231 | 19 | 
 | 2022-12-06 | 231 | 19 | 
 | 2022-12-05 | 231 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 227 | 19 | 
 | 2022-11-11 | 227 | 19 | 
 | 2022-11-10 | 227 | 19 | 
-| 2022-11-09 | 227 | 19 | 
 

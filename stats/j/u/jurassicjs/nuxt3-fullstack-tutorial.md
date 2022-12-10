@@ -1,10 +1,10 @@
 # jurassicjs/nuxt3-fullstack-tutorial - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 36
 
-★ Stars: 87
+★ Stars: 88
 
 [Open repository](https://github.com/jurassicjs/nuxt3-fullstack-tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 88 | 36 | 
 | 2022-12-08 | 87 | 36 | 
 | 2022-12-07 | 87 | 36 | 
 | 2022-12-06 | 86 | 35 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 66 | 21 | 
 | 2022-11-12 | 65 | 21 | 
 | 2022-11-11 | 65 | 21 | 
-| 2022-11-10 | 64 | 21 | 
 

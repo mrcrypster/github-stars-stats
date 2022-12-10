@@ -1,10 +1,10 @@
 # evmar/retrowin32 - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 5
+☋ Forks: 6
 
-★ Stars: 202
+★ Stars: 203
 
 [Open repository](https://github.com/evmar/retrowin32)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 203 | 6 | 
 | 2022-12-08 | 202 | 5 | 
 | 2022-12-07 | 202 | 5 | 
 | 2022-12-06 | 202 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 198 | 5 | 
 | 2022-11-11 | 198 | 5 | 
 | 2022-11-10 | 197 | 5 | 
-| 2022-11-09 | 197 | 5 | 
 

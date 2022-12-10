@@ -1,6 +1,6 @@
 # lijiejie/EasyPen - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 477 | 55 | 
 | 2022-12-07 | 477 | 55 | 
 | 2022-12-06 | 477 | 55 | 
 | 2022-12-05 | 475 | 55 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 460 | 53 | 
 | 2022-11-11 | 460 | 53 | 
 | 2022-11-10 | 458 | 53 | 
-| 2022-11-09 | 458 | 53 | 
 

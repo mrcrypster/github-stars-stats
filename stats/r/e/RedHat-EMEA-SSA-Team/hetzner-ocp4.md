@@ -1,10 +1,10 @@
 # RedHat-EMEA-SSA-Team/hetzner-ocp4 - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 95
 
-★ Stars: 124
+★ Stars: 125
 
 [Open repository](https://github.com/RedHat-EMEA-SSA-Team/hetzner-ocp4)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 125 | 95 | 
 | 2022-12-08 | 124 | 95 | 
 | 2022-12-07 | 124 | 95 | 
 | 2022-12-06 | 124 | 95 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 122 | 92 | 
 | 2022-11-11 | 122 | 92 | 
 | 2022-11-10 | 121 | 92 | 
-| 2022-11-09 | 121 | 92 | 
 

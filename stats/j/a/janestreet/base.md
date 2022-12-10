@@ -1,10 +1,10 @@
 # janestreet/base - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 87
 
-★ Stars: 640
+★ Stars: 641
 
 [Open repository](https://github.com/janestreet/base)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 641 | 87 | 
 | 2022-12-08 | 640 | 87 | 
 | 2022-12-07 | 638 | 87 | 
 | 2022-12-06 | 638 | 87 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 633 | 87 | 
 | 2022-11-11 | 632 | 87 | 
 | 2022-11-10 | 632 | 87 | 
-| 2022-11-09 | 630 | 87 | 
 

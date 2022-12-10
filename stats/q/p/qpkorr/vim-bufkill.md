@@ -1,10 +1,10 @@
 # qpkorr/vim-bufkill - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 24
 
-★ Stars: 285
+★ Stars: 286
 
 [Open repository](https://github.com/qpkorr/vim-bufkill)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 286 | 24 | 
 | 2022-12-08 | 285 | 24 | 
 | 2022-12-06 | 285 | 24 | 
 | 2022-12-05 | 285 | 24 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 285 | 24 | 
 | 2022-11-11 | 285 | 24 | 
 | 2022-11-10 | 285 | 24 | 
-| 2022-11-09 | 285 | 24 | 
 

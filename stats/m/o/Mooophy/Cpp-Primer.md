@@ -1,10 +1,10 @@
 # Mooophy/Cpp-Primer - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 2974
 
-★ Stars: 7321
+★ Stars: 7322
 
 [Open repository](https://github.com/Mooophy/Cpp-Primer)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 7322 | 2974 | 
 | 2022-12-07 | 7321 | 2974 | 
 | 2022-12-06 | 7322 | 2975 | 
 | 2022-12-05 | 7318 | 2975 | 

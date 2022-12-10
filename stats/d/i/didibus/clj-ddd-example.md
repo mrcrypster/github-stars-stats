@@ -1,10 +1,10 @@
 # didibus/clj-ddd-example - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 3
 
-★ Stars: 57
+★ Stars: 58
 
 [Open repository](https://github.com/didibus/clj-ddd-example)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 58 | 3 | 
 | 2022-12-07 | 57 | 3 | 
 | 2022-12-06 | 57 | 3 | 
 | 2022-12-05 | 57 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 56 | 3 | 
 | 2022-11-11 | 56 | 3 | 
 | 2022-11-10 | 56 | 3 | 
-| 2022-11-09 | 56 | 3 | 
 

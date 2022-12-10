@@ -1,10 +1,10 @@
 # crowsonkb/k-diffusion - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 148
 
-★ Stars: 785
+★ Stars: 788
 
 [Open repository](https://github.com/crowsonkb/k-diffusion)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 788 | 148 | 
 | 2022-12-08 | 785 | 148 | 
 | 2022-12-07 | 782 | 146 | 
 | 2022-12-05 | 781 | 145 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 700 | 122 | 
 | 2022-11-11 | 697 | 122 | 
 | 2022-11-10 | 695 | 121 | 
-| 2022-11-09 | 691 | 121 | 
 

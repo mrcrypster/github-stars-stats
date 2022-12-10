@@ -1,10 +1,10 @@
 # proofofsoulprotocol/soul-wallet-contract - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 7
 
-★ Stars: 39
+★ Stars: 40
 
 [Open repository](https://github.com/proofofsoulprotocol/soul-wallet-contract)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 40 | 7 | 
 | 2022-12-08 | 39 | 7 | 
 | 2022-12-07 | 39 | 7 | 
 | 2022-12-05 | 38 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 29 | 6 | 
 | 2022-11-11 | 29 | 6 | 
 | 2022-11-10 | 29 | 6 | 
-| 2022-11-09 | 29 | 6 | 
 

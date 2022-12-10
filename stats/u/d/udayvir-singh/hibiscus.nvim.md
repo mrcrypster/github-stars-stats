@@ -1,10 +1,10 @@
 # udayvir-singh/hibiscus.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 2
 
-★ Stars: 62
+★ Stars: 61
 
 [Open repository](https://github.com/udayvir-singh/hibiscus.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 61 | 2 | 
 | 2022-12-08 | 62 | 2 | 
 | 2022-12-06 | 61 | 2 | 
 | 2022-12-05 | 61 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 58 | 3 | 
 | 2022-11-12 | 58 | 3 | 
 | 2022-11-11 | 58 | 3 | 
-| 2022-11-10 | 58 | 3 | 
 

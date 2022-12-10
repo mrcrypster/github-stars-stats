@@ -1,10 +1,10 @@
 # lambdaclass/cleopatra_cairo - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 29
+☋ Forks: 30
 
-★ Stars: 255
+★ Stars: 256
 
 [Open repository](https://github.com/lambdaclass/cleopatra_cairo)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 256 | 30 | 
 | 2022-12-08 | 255 | 29 | 
 | 2022-12-06 | 254 | 29 | 
 | 2022-12-05 | 253 | 29 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 234 | 20 | 
 | 2022-11-12 | 234 | 19 | 
 | 2022-11-11 | 234 | 19 | 
-| 2022-11-09 | 233 | 18 | 
 

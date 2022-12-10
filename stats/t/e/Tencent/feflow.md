@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 09
 
-☋ Forks: 226
+☋ Forks: 232
 
-★ Stars: 1266
+★ Stars: 1275
 
 [Open repository](https://github.com/Tencent/feflow)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-09 | 1266 | 226 | 
+| 2022-12-09 | 1275 | 232 | 
 | 2022-12-08 | 1266 | 226 | 
 

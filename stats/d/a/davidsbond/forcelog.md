@@ -1,6 +1,6 @@
 # davidsbond/forcelog - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 37 | 11 | 
 | 2022-12-08 | 37 | 11 | 
 | 2022-12-07 | 37 | 11 | 
 | 2022-12-06 | 37 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 37 | 11 | 
 | 2022-11-11 | 37 | 11 | 
 | 2022-11-10 | 37 | 11 | 
-| 2022-11-09 | 37 | 11 | 
 

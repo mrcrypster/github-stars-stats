@@ -1,10 +1,10 @@
 # tomnomnom/gron - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 283
 
-★ Stars: 11736
+★ Stars: 11738
 
 [Open repository](https://github.com/tomnomnom/gron)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 11738 | 283 | 
 | 2022-12-08 | 11736 | 283 | 
 | 2022-12-07 | 11730 | 283 | 
 | 2022-12-05 | 11708 | 283 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 11632 | 281 | 
 | 2022-11-11 | 11629 | 281 | 
 | 2022-11-10 | 11629 | 281 | 
-| 2022-11-09 | 11625 | 281 | 
 

@@ -1,6 +1,6 @@
 # muhammadtalhasultan/flutter-web-portfolio - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 17 | 9 | 
 | 2022-12-07 | 17 | 9 | 
 | 2022-12-06 | 17 | 9 | 
 | 2022-12-05 | 17 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 17 | 9 | 
 | 2022-11-11 | 17 | 9 | 
 | 2022-11-10 | 17 | 9 | 
-| 2022-11-09 | 17 | 9 | 
 

@@ -1,10 +1,10 @@
 # chrismccord/single_file_phoenix_fly - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 0
 
-★ Stars: 39
+★ Stars: 42
 
 [Open repository](https://github.com/chrismccord/single_file_phoenix_fly)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-09 | 39 | - | 
+| 2022-12-10 | 42 | - | 
+| 2022-12-09 | 40 | - | 
 | 2022-12-08 | 37 | - | 
 

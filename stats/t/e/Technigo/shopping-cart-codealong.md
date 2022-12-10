@@ -1,6 +1,6 @@
 # Technigo/shopping-cart-codealong - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 167
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 1 | 167 | 
 | 2022-12-08 | 1 | 167 | 
 | 2022-12-07 | 1 | 167 | 
 | 2022-12-05 | 1 | 167 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 1 | 169 | 
 | 2022-11-11 | 1 | 169 | 
 | 2022-11-10 | 1 | 169 | 
-| 2022-11-09 | 1 | 169 | 
 

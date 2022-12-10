@@ -1,10 +1,10 @@
 # EmbarkStudios/rust-gpu - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 171
+☋ Forks: 170
 
-★ Stars: 5159
+★ Stars: 5162
 
 [Open repository](https://github.com/EmbarkStudios/rust-gpu)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 5162 | 170 | 
 | 2022-12-08 | 5159 | 171 | 
 | 2022-12-06 | 5159 | 171 | 
 | 2022-12-05 | 5153 | 171 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 5076 | 168 | 
 | 2022-11-12 | 5073 | 168 | 
 | 2022-11-11 | 5073 | 168 | 
-| 2022-11-10 | 5070 | 168 | 
 

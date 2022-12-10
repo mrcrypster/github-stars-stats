@@ -1,6 +1,6 @@
 # Couy69/vue-idle-game - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 132
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 870 | 132 | 
 | 2022-12-08 | 870 | 132 | 
 | 2022-12-07 | 868 | 131 | 
 | 2022-12-06 | 867 | 131 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 848 | 129 | 
 | 2022-11-11 | 849 | 129 | 
 | 2022-11-10 | 849 | 129 | 
-| 2022-11-09 | 847 | 129 | 
 

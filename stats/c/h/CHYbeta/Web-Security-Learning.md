@@ -1,8 +1,8 @@
 # CHYbeta/Web-Security-Learning - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 1026
+☋ Forks: 1025
 
 ★ Stars: 3958
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 3958 | 1025 | 
 | 2022-12-08 | 3958 | 1026 | 
 | 2022-12-07 | 3959 | 1026 | 
 | 2022-12-05 | 3959 | 1026 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 3951 | 1024 | 
 | 2022-11-11 | 3951 | 1024 | 
 | 2022-11-10 | 3951 | 1024 | 
-| 2022-11-09 | 3952 | 1024 | 
 

@@ -1,6 +1,6 @@
 # Leanplum/Leanplum-iOS-SDK - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 65 | 55 | 
 | 2022-12-08 | 65 | 55 | 
 | 2022-12-07 | 65 | 55 | 
 | 2022-12-06 | 65 | 55 | 

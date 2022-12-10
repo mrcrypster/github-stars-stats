@@ -1,6 +1,6 @@
 # sam-astro/Astro8-Computer - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 408 | 46 | 
 | 2022-12-07 | 408 | 46 | 
 | 2022-12-06 | 408 | 46 | 
 | 2022-12-05 | 408 | 46 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-13 | 386 | 41 | 
 | 2022-11-12 | 385 | 40 | 
 | 2022-11-11 | 385 | 40 | 
-| 2022-11-10 | 385 | 40 | 
 

@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 09
 
 ☋ Forks: 122
 
-★ Stars: 14
+★ Stars: 13
 
 [Open repository](https://github.com/eGestor/documentacao-api)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-09 | 14 | 122 | 
+| 2022-12-09 | 13 | 122 | 
 | 2022-12-08 | 14 | 123 | 
 | 2022-12-07 | 14 | 122 | 
 | 2022-12-06 | 14 | 120 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-12 | 13 | 112 | 
 | 2022-11-11 | 13 | 111 | 
 | 2022-11-10 | 13 | 111 | 
-| 2022-11-09 | 13 | 111 | 
 

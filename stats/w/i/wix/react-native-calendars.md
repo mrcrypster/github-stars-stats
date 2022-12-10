@@ -1,8 +1,8 @@
 # wix/react-native-calendars - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 2616
+☋ Forks: 2619
 
 ★ Stars: 8195
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 8195 | 2619 | 
 | 2022-12-08 | 8195 | 2616 | 
 | 2022-12-06 | 8190 | 2615 | 
 | 2022-12-04 | 8189 | 2615 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 8135 | 2605 | 
 | 2022-11-12 | 8134 | 2604 | 
 | 2022-11-11 | 8133 | 2604 | 
-| 2022-11-10 | 8133 | 2604 | 
 

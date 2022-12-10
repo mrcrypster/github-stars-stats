@@ -1,8 +1,8 @@
 # mate-academy/Kickstarter - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 290
+☋ Forks: 291
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 1 | 291 | 
 | 2022-12-08 | 1 | 290 | 
 | 2022-12-07 | 1 | 289 | 
 | 2022-12-06 | 1 | 289 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 1 | 282 | 
 | 2022-11-11 | 1 | 281 | 
 | 2022-11-10 | 1 | 280 | 
-| 2022-11-09 | 1 | 279 | 
 

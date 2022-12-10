@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 09
 
 ☋ Forks: 25
 
-★ Stars: 276
+★ Stars: 278
 
 [Open repository](https://github.com/DebianArch64/DebProvision)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-09 | 276 | 25 | 
+| 2022-12-09 | 278 | 25 | 
 | 2022-12-08 | 276 | 25 | 
 

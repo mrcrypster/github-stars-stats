@@ -1,10 +1,10 @@
 # lidangzzz/How-to-run - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 219
 
-★ Stars: 3241
+★ Stars: 3239
 
 [Open repository](https://github.com/lidangzzz/How-to-run)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 3239 | 219 | 
 | 2022-12-08 | 3241 | 219 | 
 | 2022-12-07 | 3241 | 219 | 
 | 2022-12-06 | 3242 | 218 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 2989 | 201 | 
 | 2022-11-11 | 2974 | 199 | 
 | 2022-11-10 | 2968 | 199 | 
-| 2022-11-09 | 2950 | 198 | 
 

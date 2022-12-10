@@ -1,6 +1,6 @@
 # timothyqiu/godot-open-blive - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 28 | 6 | 
 | 2022-12-08 | 28 | 6 | 
 | 2022-12-07 | 27 | 6 | 
 | 2022-12-06 | 27 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 25 | 4 | 
 | 2022-11-11 | 25 | 4 | 
 | 2022-11-10 | 25 | 4 | 
-| 2022-11-09 | 25 | 4 | 
 

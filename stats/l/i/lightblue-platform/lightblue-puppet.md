@@ -1,6 +1,6 @@
 # lightblue-platform/lightblue-puppet - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 2 | 10 | 
 | 2022-12-08 | 2 | 10 | 
 | 2022-12-07 | 2 | 10 | 
 | 2022-12-05 | 2 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 2 | 10 | 
 | 2022-11-11 | 2 | 10 | 
 | 2022-11-10 | 2 | 10 | 
-| 2022-11-09 | 2 | 10 | 
 

@@ -1,6 +1,6 @@
 # lovishprabhakar/C-Simplify - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 24 | 56 | 
 | 2022-12-08 | 24 | 56 | 
 | 2022-12-07 | 24 | 56 | 
 | 2022-12-06 | 24 | 56 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 24 | 57 | 
 | 2022-11-12 | 24 | 57 | 
 | 2022-11-11 | 24 | 57 | 
-| 2022-11-09 | 24 | 57 | 
 

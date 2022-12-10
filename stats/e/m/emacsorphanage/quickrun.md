@@ -1,6 +1,6 @@
 # emacsorphanage/quickrun - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 437 | 45 | 
 | 2022-12-08 | 437 | 45 | 
 | 2022-12-07 | 438 | 45 | 
 | 2022-12-05 | 438 | 45 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 436 | 45 | 
 | 2022-11-11 | 436 | 45 | 
 | 2022-11-10 | 436 | 45 | 
-| 2022-11-09 | 436 | 45 | 
 

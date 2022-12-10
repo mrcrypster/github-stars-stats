@@ -1,8 +1,8 @@
 # code-423n4/2022-11-looksrare - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 10
+☋ Forks: 11
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 3 | 11 | 
 | 2022-12-08 | 3 | 10 | 
 | 2022-12-07 | 3 | 10 | 
 | 2022-12-05 | 2 | 10 | 

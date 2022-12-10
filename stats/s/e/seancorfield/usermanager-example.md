@@ -1,10 +1,10 @@
 # seancorfield/usermanager-example - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 29
 
-★ Stars: 243
+★ Stars: 244
 
 [Open repository](https://github.com/seancorfield/usermanager-example)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 244 | 29 | 
 | 2022-12-08 | 243 | 29 | 
 | 2022-12-07 | 243 | 29 | 
 | 2022-12-06 | 243 | 29 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 239 | 29 | 
 | 2022-11-11 | 239 | 29 | 
 | 2022-11-10 | 239 | 29 | 
-| 2022-11-09 | 239 | 29 | 
 

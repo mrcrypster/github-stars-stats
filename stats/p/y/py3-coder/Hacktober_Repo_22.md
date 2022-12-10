@@ -1,8 +1,8 @@
 # py3-coder/Hacktober_Repo_22 - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 281
+☋ Forks: 279
 
 ★ Stars: 111
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 111 | 279 | 
 | 2022-12-08 | 111 | 281 | 
 | 2022-12-07 | 111 | 281 | 
 | 2022-12-06 | 111 | 281 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 114 | 289 | 
 | 2022-11-11 | 115 | 289 | 
 | 2022-11-10 | 115 | 290 | 
-| 2022-11-09 | 115 | 290 | 
 

@@ -1,10 +1,10 @@
 # sqlmapproject/sqlmap - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
-☋ Forks: 5057
+☋ Forks: 5058
 
-★ Stars: 25465
+★ Stars: 25479
 
 [Open repository](https://github.com/sqlmapproject/sqlmap)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 25479 | 5058 | 
 | 2022-12-08 | 25465 | 5057 | 
 | 2022-12-07 | 25459 | 5057 | 
 | 2022-12-06 | 25452 | 5054 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 25202 | 5033 | 
 | 2022-11-11 | 25197 | 5031 | 
 | 2022-11-10 | 25192 | 5031 | 
-| 2022-11-09 | 25183 | 5030 | 
 

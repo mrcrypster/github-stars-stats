@@ -1,6 +1,6 @@
 # bedimcode/responsive-watches-website - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 131
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 192 | 131 | 
 | 2022-12-07 | 192 | 131 | 
 | 2022-12-06 | 191 | 131 | 
 | 2022-12-05 | 190 | 130 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-13 | 185 | 128 | 
 | 2022-11-12 | 185 | 128 | 
 | 2022-11-10 | 185 | 128 | 
-| 2022-11-09 | 184 | 128 | 
 

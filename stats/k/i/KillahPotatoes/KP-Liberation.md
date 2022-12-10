@@ -1,6 +1,6 @@
 # KillahPotatoes/KP-Liberation - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 260
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 246 | 260 | 
 | 2022-12-08 | 246 | 260 | 
 | 2022-12-07 | 246 | 260 | 
 | 2022-12-06 | 246 | 260 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 244 | 258 | 
 | 2022-11-12 | 244 | 258 | 
 | 2022-11-10 | 244 | 258 | 
-| 2022-11-09 | 244 | 258 | 
 

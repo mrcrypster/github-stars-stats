@@ -1,8 +1,8 @@
 # payloadartist/offensive-chatgpt - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 8
+☋ Forks: 7
 
 ★ Stars: 56
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 56 | 7 | 
 | 2022-12-08 | 56 | 8 | 
 | 2022-12-07 | 52 | 8 | 
 | 2022-12-06 | 46 | 8 | 

@@ -1,10 +1,10 @@
 # nestybox/dockerfiles - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
-☋ Forks: 16
+☋ Forks: 17
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/nestybox/dockerfiles)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 21 | 17 | 
+| 2022-12-09 | 21 | 17 | 
 | 2022-12-08 | 20 | 16 | 
 | 2022-12-07 | 20 | 16 | 
 | 2022-12-05 | 20 | 16 | 
@@ -40,5 +42,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 20 | 16 | 
 | 2022-11-11 | 20 | 16 | 
 | 2022-11-10 | 20 | 16 | 
-| 2022-11-09 | 20 | 16 | 
 

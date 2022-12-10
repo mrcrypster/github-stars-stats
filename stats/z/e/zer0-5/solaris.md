@@ -1,6 +1,6 @@
 # zer0-5/solaris - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 4 | 1 | 
 | 2022-12-07 | 4 | 1 | 
 | 2022-12-06 | 4 | 1 | 
 | 2022-12-05 | 4 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-13 | 4 | 1 | 
 | 2022-11-11 | 4 | 1 | 
 | 2022-11-10 | 4 | 1 | 
-| 2022-11-09 | 4 | 1 | 
 

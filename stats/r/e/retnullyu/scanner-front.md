@@ -1,10 +1,10 @@
 # retnullyu/scanner-front - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 2
 
-★ Stars: 162
+★ Stars: 161
 
 [Open repository](https://github.com/retnullyu/scanner-front)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 161 | 2 | 
 | 2022-12-08 | 162 | 2 | 
 | 2022-12-07 | 162 | 2 | 
 | 2022-12-06 | 162 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 162 | 2 | 
 | 2022-11-11 | 162 | 2 | 
 | 2022-11-10 | 162 | 2 | 
-| 2022-11-09 | 163 | 2 | 
 

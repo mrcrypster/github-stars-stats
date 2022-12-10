@@ -1,6 +1,6 @@
 # ronmarasigan/LavaLust - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 198
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 356 | 198 | 
 | 2022-12-08 | 356 | 198 | 
 | 2022-12-07 | 356 | 198 | 
 | 2022-12-06 | 356 | 198 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 356 | 197 | 
 | 2022-11-11 | 356 | 197 | 
 | 2022-11-10 | 356 | 197 | 
-| 2022-11-09 | 356 | 196 | 
 

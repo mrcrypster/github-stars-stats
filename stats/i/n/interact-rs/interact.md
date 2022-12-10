@@ -1,10 +1,10 @@
 # interact-rs/interact - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 6
 
-★ Stars: 411
+★ Stars: 412
 
 [Open repository](https://github.com/interact-rs/interact)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 412 | 6 | 
 | 2022-12-08 | 411 | 6 | 
 | 2022-12-07 | 412 | 6 | 
 | 2022-12-05 | 412 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 411 | 6 | 
 | 2022-11-11 | 411 | 6 | 
 | 2022-11-10 | 411 | 6 | 
-| 2022-11-09 | 411 | 6 | 
 

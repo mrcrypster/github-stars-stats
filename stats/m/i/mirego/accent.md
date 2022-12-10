@@ -1,10 +1,10 @@
 # mirego/accent - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 73
 
-★ Stars: 896
+★ Stars: 897
 
 [Open repository](https://github.com/mirego/accent)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 897 | 73 | 
 | 2022-12-08 | 896 | 73 | 
 | 2022-12-07 | 895 | 73 | 
 | 2022-12-05 | 895 | 73 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 892 | 72 | 
 | 2022-11-11 | 891 | 72 | 
 | 2022-11-10 | 890 | 72 | 
-| 2022-11-09 | 890 | 72 | 
 

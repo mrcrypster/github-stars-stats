@@ -1,6 +1,6 @@
 # capt-meelo/KernelCallbackTable-Injection - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 63 | 20 | 
 | 2022-12-08 | 63 | 20 | 
 | 2022-12-06 | 63 | 20 | 
 | 2022-12-05 | 63 | 20 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 63 | 19 | 
 | 2022-11-12 | 63 | 19 | 
 | 2022-11-10 | 63 | 19 | 
-| 2022-11-09 | 63 | 19 | 
 

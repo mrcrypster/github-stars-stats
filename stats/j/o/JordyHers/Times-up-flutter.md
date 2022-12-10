@@ -1,10 +1,10 @@
 # JordyHers/Times-up-flutter - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 11
 
-★ Stars: 38
+★ Stars: 39
 
 [Open repository](https://github.com/JordyHers/Times-up-flutter)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 39 | 11 | 
 | 2022-12-08 | 38 | 11 | 
 | 2022-12-07 | 38 | 11 | 
 | 2022-12-06 | 38 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 37 | 10 | 
 | 2022-11-11 | 37 | 10 | 
 | 2022-11-10 | 37 | 10 | 
-| 2022-11-09 | 37 | 10 | 
 

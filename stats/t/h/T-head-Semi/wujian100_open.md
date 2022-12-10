@@ -1,10 +1,10 @@
 # T-head-Semi/wujian100_open - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 529
+☋ Forks: 530
 
-★ Stars: 1635
+★ Stars: 1636
 
 [Open repository](https://github.com/T-head-Semi/wujian100_open)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 1636 | 530 | 
 | 2022-12-08 | 1635 | 529 | 
 | 2022-12-07 | 1635 | 529 | 
 | 2022-12-05 | 1634 | 529 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 1626 | 527 | 
 | 2022-11-11 | 1627 | 527 | 
 | 2022-11-10 | 1627 | 527 | 
-| 2022-11-09 | 1627 | 527 | 
 

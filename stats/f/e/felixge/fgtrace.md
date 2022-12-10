@@ -1,6 +1,6 @@
 # felixge/fgtrace - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 864 | 11 | 
 | 2022-12-08 | 864 | 11 | 
 | 2022-12-07 | 864 | 11 | 
 | 2022-12-06 | 864 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 856 | 12 | 
 | 2022-11-12 | 856 | 11 | 
 | 2022-11-11 | 856 | 11 | 
-| 2022-11-10 | 856 | 11 | 
 

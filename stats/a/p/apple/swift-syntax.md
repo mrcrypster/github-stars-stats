@@ -1,10 +1,10 @@
 # apple/swift-syntax - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 210
 
-★ Stars: 2029
+★ Stars: 2030
 
 [Open repository](https://github.com/apple/swift-syntax)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 2030 | 210 | 
 | 2022-12-08 | 2029 | 210 | 
 | 2022-12-06 | 2029 | 210 | 
 | 2022-12-05 | 2027 | 210 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 2006 | 204 | 
 | 2022-11-12 | 2001 | 202 | 
 | 2022-11-10 | 1998 | 201 | 
-| 2022-11-09 | 1995 | 201 | 
 

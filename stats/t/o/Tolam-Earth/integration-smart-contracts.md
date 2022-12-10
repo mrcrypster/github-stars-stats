@@ -1,10 +1,10 @@
 # Tolam-Earth/integration-smart-contracts - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 0
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/Tolam-Earth/integration-smart-contracts)
 
@@ -13,5 +13,6 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 1 | - | 
 | 2022-12-08 | - | - | 
 

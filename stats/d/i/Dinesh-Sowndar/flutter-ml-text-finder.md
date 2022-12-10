@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 09
 
 ☋ Forks: 11
 
-★ Stars: 44
+★ Stars: 45
 
 [Open repository](https://github.com/Dinesh-Sowndar/flutter-ml-text-finder)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-09 | 44 | 11 | 
+| 2022-12-09 | 45 | 11 | 
 | 2022-12-08 | 42 | 11 | 
 

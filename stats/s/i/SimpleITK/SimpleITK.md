@@ -1,10 +1,10 @@
 # SimpleITK/SimpleITK - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 186
 
-★ Stars: 670
+★ Stars: 671
 
 [Open repository](https://github.com/SimpleITK/SimpleITK)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 671 | 186 | 
 | 2022-12-08 | 670 | 186 | 
 | 2022-12-07 | 670 | 186 | 
 | 2022-12-06 | 670 | 186 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 663 | 183 | 
 | 2022-11-11 | 663 | 183 | 
 | 2022-11-10 | 663 | 183 | 
-| 2022-11-09 | 663 | 183 | 
 

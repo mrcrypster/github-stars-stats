@@ -1,6 +1,6 @@
 # Reference-LAPACK/lapack - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 338
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 1055 | 338 | 
 | 2022-12-08 | 1055 | 338 | 
 | 2022-12-07 | 1055 | 338 | 
 | 2022-12-06 | 1054 | 338 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 1044 | 334 | 
 | 2022-11-11 | 1043 | 334 | 
 | 2022-11-10 | 1041 | 334 | 
-| 2022-11-09 | 1041 | 333 | 
 

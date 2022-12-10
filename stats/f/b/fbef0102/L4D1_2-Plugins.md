@@ -1,10 +1,10 @@
 # fbef0102/L4D1_2-Plugins - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 35
 
-★ Stars: 60
+★ Stars: 61
 
 [Open repository](https://github.com/fbef0102/L4D1_2-Plugins)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 61 | 35 | 
 | 2022-12-07 | 60 | 35 | 
 | 2022-12-06 | 58 | 35 | 
 | 2022-12-05 | 58 | 36 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-13 | 53 | 33 | 
 | 2022-11-11 | 53 | 33 | 
 | 2022-11-10 | 53 | 33 | 
-| 2022-11-09 | 53 | 33 | 
 

@@ -1,10 +1,10 @@
 # Loyalsoldier/geoip - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 284
 
-★ Stars: 1348
+★ Stars: 1350
 
 [Open repository](https://github.com/Loyalsoldier/geoip)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 1350 | 284 | 
 | 2022-12-08 | 1348 | 284 | 
 | 2022-12-07 | 1344 | 282 | 
 | 2022-12-06 | 1345 | 282 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 1259 | 265 | 
 | 2022-11-11 | 1257 | 265 | 
 | 2022-11-10 | 1253 | 266 | 
-| 2022-11-09 | 1250 | 265 | 
 

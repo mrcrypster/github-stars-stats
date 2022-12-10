@@ -1,10 +1,10 @@
 # verilator/verilator - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 357
 
-★ Stars: 1410
+★ Stars: 1412
 
 [Open repository](https://github.com/verilator/verilator)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 1412 | 357 | 
 | 2022-12-08 | 1410 | 357 | 
 | 2022-12-07 | 1409 | 357 | 
 | 2022-12-05 | 1407 | 356 | 

@@ -1,6 +1,6 @@
 # zeelog/proprietary_vendor_xiaomi - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 113
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 40 | 113 | 
 | 2022-12-08 | 40 | 113 | 
 | 2022-12-06 | 40 | 113 | 
 | 2022-12-05 | 40 | 113 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 41 | 112 | 
 | 2022-11-11 | 41 | 112 | 
 | 2022-11-10 | 41 | 112 | 
-| 2022-11-09 | 41 | 112 | 
 

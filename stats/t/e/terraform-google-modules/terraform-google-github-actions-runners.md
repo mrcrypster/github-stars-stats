@@ -1,6 +1,6 @@
 # terraform-google-modules/terraform-google-github-actions-runners - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 72
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 113 | 72 | 
 | 2022-12-08 | 113 | 72 | 
 | 2022-12-07 | 113 | 72 | 
 | 2022-12-05 | 113 | 72 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 106 | 68 | 
 | 2022-11-11 | 106 | 68 | 
 | 2022-11-10 | 106 | 68 | 
-| 2022-11-09 | 106 | 68 | 
 

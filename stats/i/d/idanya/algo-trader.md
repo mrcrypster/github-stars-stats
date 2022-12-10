@@ -1,6 +1,6 @@
 # idanya/algo-trader - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 605 | 55 | 
 | 2022-12-08 | 605 | 55 | 
 | 2022-12-07 | 604 | 55 | 
 | 2022-12-05 | 598 | 54 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 513 | 40 | 
 | 2022-11-11 | 470 | 40 | 
 | 2022-11-10 | 431 | 37 | 
-| 2022-11-09 | 398 | 33 | 
 

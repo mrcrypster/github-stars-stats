@@ -1,6 +1,6 @@
 # moses-smt/mosesdecoder - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 768
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 1463 | 768 | 
 | 2022-12-08 | 1463 | 768 | 
 | 2022-12-06 | 1463 | 768 | 
 | 2022-12-05 | 1463 | 768 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 1456 | 768 | 
 | 2022-11-11 | 1456 | 768 | 
 | 2022-11-10 | 1456 | 768 | 
-| 2022-11-09 | 1455 | 768 | 
 

@@ -1,6 +1,6 @@
 # diegoveloper/flutter_pizza_selection - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 29 | 9 | 
 | 2022-12-08 | 29 | 9 | 
 | 2022-12-07 | 29 | 9 | 
 | 2022-12-06 | 29 | 9 | 

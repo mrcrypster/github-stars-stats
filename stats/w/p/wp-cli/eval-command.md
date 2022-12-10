@@ -1,8 +1,8 @@
 # wp-cli/eval-command - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 11
+☋ Forks: 12
 
 ★ Stars: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 6 | 12 | 
 | 2022-12-08 | 6 | 11 | 
 | 2022-12-07 | 6 | 11 | 
 | 2022-12-05 | 6 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 6 | 11 | 
 | 2022-11-11 | 6 | 11 | 
 | 2022-11-10 | 6 | 11 | 
-| 2022-11-09 | 6 | 11 | 
 

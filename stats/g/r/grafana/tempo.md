@@ -1,10 +1,10 @@
 # grafana/tempo - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 301
+☋ Forks: 302
 
-★ Stars: 2588
+★ Stars: 2590
 
 [Open repository](https://github.com/grafana/tempo)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 2590 | 302 | 
 | 2022-12-08 | 2588 | 301 | 
 | 2022-12-07 | 2586 | 300 | 
 | 2022-12-05 | 2575 | 299 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 2500 | 296 | 
 | 2022-11-11 | 2487 | 296 | 
 | 2022-11-10 | 2467 | 294 | 
-| 2022-11-09 | 2467 | 292 | 
 

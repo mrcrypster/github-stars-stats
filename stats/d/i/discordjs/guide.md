@@ -1,10 +1,10 @@
 # discordjs/guide - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 2072
+☋ Forks: 2075
 
-★ Stars: 1227
+★ Stars: 1229
 
 [Open repository](https://github.com/discordjs/guide)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 1229 | 2075 | 
 | 2022-12-08 | 1227 | 2072 | 
 | 2022-12-06 | 1225 | 2070 | 
 | 2022-12-05 | 1222 | 2069 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 1200 | 2012 | 
 | 2022-11-11 | 1199 | 2007 | 
 | 2022-11-10 | 1199 | 2003 | 
-| 2022-11-09 | 1198 | 2002 | 
 

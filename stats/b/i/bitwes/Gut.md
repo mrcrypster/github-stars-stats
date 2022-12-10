@@ -1,10 +1,10 @@
 # bitwes/Gut - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 66
 
-★ Stars: 1067
+★ Stars: 1068
 
 [Open repository](https://github.com/bitwes/Gut)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 1068 | 66 | 
 | 2022-12-08 | 1067 | 66 | 
 | 2022-12-07 | 1066 | 66 | 
 | 2022-12-05 | 1065 | 66 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 1051 | 66 | 
 | 2022-11-11 | 1051 | 65 | 
 | 2022-11-10 | 1051 | 65 | 
-| 2022-11-09 | 1050 | 65 | 
 

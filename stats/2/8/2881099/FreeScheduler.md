@@ -1,6 +1,6 @@
 # 2881099/FreeScheduler - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 132 | 20 | 
 | 2022-12-08 | 132 | 20 | 
 | 2022-12-07 | 132 | 19 | 
 | 2022-12-06 | 131 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 126 | 18 | 
 | 2022-11-11 | 126 | 18 | 
 | 2022-11-10 | 126 | 18 | 
-| 2022-11-09 | 126 | 18 | 
 

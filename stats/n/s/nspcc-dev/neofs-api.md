@@ -1,6 +1,6 @@
 # nspcc-dev/neofs-api - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 14 | 13 | 
 | 2022-12-08 | 14 | 13 | 
 | 2022-12-07 | 14 | 13 | 
 | 2022-12-05 | 14 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 14 | 12 | 
 | 2022-11-11 | 14 | 12 | 
 | 2022-11-10 | 14 | 12 | 
-| 2022-11-09 | 14 | 12 | 
 

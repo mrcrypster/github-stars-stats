@@ -1,6 +1,6 @@
 # pluralsh/plural-artifacts - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 24 | 11 | 
 | 2022-12-08 | 24 | 11 | 
 | 2022-12-07 | 23 | 11 | 
 | 2022-12-05 | 23 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 21 | 9 | 
 | 2022-11-11 | 20 | 9 | 
 | 2022-11-10 | 20 | 8 | 
-| 2022-11-09 | 20 | 8 | 
 

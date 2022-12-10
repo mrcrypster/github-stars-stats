@@ -1,10 +1,10 @@
 # unclebob/AdventOfCode2022 - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 2
+☋ Forks: 3
 
-★ Stars: 53
+★ Stars: 54
 
 [Open repository](https://github.com/unclebob/AdventOfCode2022)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 54 | 3 | 
 | 2022-12-09 | 53 | 2 | 
 | 2022-12-08 | 53 | 2 | 
 | 2022-12-07 | 50 | 2 | 

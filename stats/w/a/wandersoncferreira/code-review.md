@@ -1,8 +1,8 @@
 # wandersoncferreira/code-review - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 28
+☋ Forks: 29
 
 ★ Stars: 357
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 357 | 29 | 
 | 2022-12-08 | 357 | 28 | 
 | 2022-12-07 | 358 | 28 | 
 | 2022-12-05 | 357 | 28 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 351 | 26 | 
 | 2022-11-11 | 351 | 26 | 
 | 2022-11-10 | 349 | 26 | 
-| 2022-11-09 | 349 | 27 | 
 

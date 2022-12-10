@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 09
 
-☋ Forks: 19
+☋ Forks: 20
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/LubosKuzma/ITSC204FinalProject)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-09 | - | 19 | 
+| 2022-12-09 | 1 | 20 | 
 | 2022-12-08 | - | 19 | 
 | 2022-12-07 | - | 17 | 
 | 2022-12-05 | - | 17 | 

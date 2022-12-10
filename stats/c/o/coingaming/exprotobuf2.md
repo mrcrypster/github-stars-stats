@@ -1,6 +1,6 @@
 # coingaming/exprotobuf2 - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 15 | - | 
 | 2022-12-07 | 15 | - | 
 | 2022-12-06 | 15 | - | 
 | 2022-12-05 | 15 | - | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 15 | - | 
 | 2022-11-11 | 15 | - | 
 | 2022-11-10 | 15 | - | 
-| 2022-11-09 | 15 | - | 
 

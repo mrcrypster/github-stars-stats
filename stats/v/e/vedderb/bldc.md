@@ -1,10 +1,10 @@
 # vedderb/bldc - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 1055
+☋ Forks: 1057
 
-★ Stars: 1477
+★ Stars: 1478
 
 [Open repository](https://github.com/vedderb/bldc)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 1478 | 1057 | 
 | 2022-12-08 | 1477 | 1055 | 
 | 2022-12-07 | 1477 | 1055 | 
 | 2022-12-06 | 1477 | 1055 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 1456 | 1044 | 
 | 2022-11-11 | 1456 | 1043 | 
 | 2022-11-10 | 1454 | 1042 | 
-| 2022-11-09 | 1453 | 1042 | 
 

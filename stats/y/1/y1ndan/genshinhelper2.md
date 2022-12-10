@@ -1,8 +1,8 @@
 # y1ndan/genshinhelper2 - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 195
+☋ Forks: 196
 
 ★ Stars: 375
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 375 | 196 | 
 | 2022-12-08 | 375 | 195 | 
 | 2022-12-07 | 374 | 195 | 
 | 2022-12-05 | 373 | 194 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 356 | 188 | 
 | 2022-11-11 | 355 | 188 | 
 | 2022-11-10 | 353 | 187 | 
-| 2022-11-09 | 353 | 187 | 
 

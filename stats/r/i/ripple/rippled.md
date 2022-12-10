@@ -1,10 +1,10 @@
 # ripple/rippled - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 1409
+☋ Forks: 1410
 
-★ Stars: 4252
+★ Stars: 4253
 
 [Open repository](https://github.com/ripple/rippled)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 4253 | 1410 | 
 | 2022-12-08 | 4252 | 1409 | 
 | 2022-12-06 | 4251 | 1408 | 
 | 2022-12-05 | 4250 | 1407 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 4239 | 1407 | 
 | 2022-11-12 | 4238 | 1407 | 
 | 2022-11-10 | 4237 | 1406 | 
-| 2022-11-09 | 4238 | 1406 | 
 

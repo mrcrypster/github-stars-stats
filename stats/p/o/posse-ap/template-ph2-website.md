@@ -1,6 +1,6 @@
 # posse-ap/template-ph2-website - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | - | 36 | 
 | 2022-12-08 | - | 36 | 
 | 2022-12-07 | - | 34 | 
 | 2022-12-06 | - | 32 | 

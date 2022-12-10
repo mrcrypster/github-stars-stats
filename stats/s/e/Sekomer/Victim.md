@@ -1,6 +1,6 @@
 # Sekomer/Victim - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 42 | 2 | 
 | 2022-12-08 | 42 | 2 | 
 | 2022-12-07 | 42 | 2 | 
 | 2022-12-06 | 42 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 42 | 2 | 
 | 2022-11-11 | 42 | 2 | 
 | 2022-11-10 | 42 | 2 | 
-| 2022-11-09 | 42 | 2 | 
 

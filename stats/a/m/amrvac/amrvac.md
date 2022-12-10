@@ -1,8 +1,8 @@
 # amrvac/amrvac - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
-☋ Forks: 32
+☋ Forks: 31
 
 ★ Stars: 52
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 52 | 31 | 
 | 2022-12-08 | 52 | 32 | 
 | 2022-12-07 | 52 | 32 | 
 | 2022-12-06 | 52 | 32 | 

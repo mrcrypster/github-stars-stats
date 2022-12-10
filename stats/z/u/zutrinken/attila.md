@@ -1,10 +1,10 @@
 # zutrinken/attila - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 548
 
-★ Stars: 1268
+★ Stars: 1269
 
 [Open repository](https://github.com/zutrinken/attila)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 1269 | 548 | 
 | 2022-12-08 | 1268 | 548 | 
 | 2022-12-07 | 1268 | 548 | 
 | 2022-12-06 | 1265 | 547 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 1260 | 543 | 
 | 2022-11-11 | 1260 | 543 | 
 | 2022-11-10 | 1261 | 543 | 
-| 2022-11-09 | 1261 | 543 | 
 

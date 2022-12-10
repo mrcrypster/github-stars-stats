@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 09
 
-☋ Forks: 10
+☋ Forks: 11
 
-★ Stars: 76
+★ Stars: 77
 
 [Open repository](https://github.com/xljiulang/KestrelApp)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-09 | 76 | 10 | 
+| 2022-12-09 | 77 | 11 | 
 | 2022-12-08 | 76 | 10 | 
 

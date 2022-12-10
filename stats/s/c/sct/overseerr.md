@@ -1,10 +1,10 @@
 # sct/overseerr - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 216
+☋ Forks: 217
 
-★ Stars: 1951
+★ Stars: 1954
 
 [Open repository](https://github.com/sct/overseerr)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 1954 | 217 | 
 | 2022-12-08 | 1951 | 216 | 
 | 2022-12-06 | 1951 | 215 | 
 | 2022-12-05 | 1947 | 215 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 1891 | 211 | 
 | 2022-11-11 | 1890 | 210 | 
 | 2022-11-10 | 1886 | 210 | 
-| 2022-11-09 | 1882 | 210 | 
 

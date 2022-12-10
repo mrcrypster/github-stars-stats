@@ -1,10 +1,10 @@
 # dapr/dapr - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 1575
 
-★ Stars: 19993
+★ Stars: 19999
 
 [Open repository](https://github.com/dapr/dapr)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 19999 | 1575 | 
 | 2022-12-08 | 19993 | 1575 | 
 | 2022-12-07 | 19984 | 1575 | 
 | 2022-12-05 | 19972 | 1575 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 19796 | 1557 | 
 | 2022-11-11 | 19784 | 1555 | 
 | 2022-11-10 | 19775 | 1555 | 
-| 2022-11-09 | 19765 | 1553 | 
 

@@ -1,6 +1,6 @@
 # urbanairship/ios-library - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 266
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 470 | 266 | 
 | 2022-12-08 | 470 | 266 | 
 | 2022-12-07 | 470 | 266 | 
 | 2022-12-06 | 470 | 266 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 469 | 265 | 
 | 2022-11-11 | 469 | 265 | 
 | 2022-11-10 | 468 | 265 | 
-| 2022-11-09 | 468 | 265 | 
 

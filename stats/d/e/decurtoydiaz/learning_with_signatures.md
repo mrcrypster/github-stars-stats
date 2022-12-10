@@ -1,6 +1,6 @@
 # decurtoydiaz/learning_with_signatures - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 54 | 9 | 
 | 2022-12-08 | 54 | 9 | 
 | 2022-12-06 | 54 | 9 | 
 | 2022-12-05 | 54 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 53 | 9 | 
 | 2022-11-11 | 53 | 9 | 
 | 2022-11-10 | 53 | 9 | 
-| 2022-11-09 | 53 | 9 | 
 

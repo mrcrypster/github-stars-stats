@@ -1,6 +1,6 @@
 # tianweiy/CenterPoint - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 361
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 1412 | 361 | 
 | 2022-12-08 | 1412 | 361 | 
 | 2022-12-07 | 1411 | 361 | 
 | 2022-12-05 | 1410 | 360 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 1381 | 354 | 
 | 2022-11-11 | 1381 | 354 | 
 | 2022-11-10 | 1379 | 354 | 
-| 2022-11-09 | 1379 | 353 | 
 

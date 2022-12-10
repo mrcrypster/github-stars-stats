@@ -1,10 +1,10 @@
 # storopoli/Julia-Workshop - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 24
 
-★ Stars: 54
+★ Stars: 55
 
 [Open repository](https://github.com/storopoli/Julia-Workshop)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 55 | 24 | 
 | 2022-12-08 | 54 | 24 | 
 | 2022-12-06 | 54 | 24 | 
 | 2022-12-05 | 54 | 24 | 

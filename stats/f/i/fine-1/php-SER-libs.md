@@ -1,6 +1,6 @@
 # fine-1/php-SER-libs - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 86 | 19 | 
 | 2022-12-08 | 86 | 19 | 
 | 2022-12-07 | 86 | 19 | 
 | 2022-12-06 | 84 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 84 | 19 | 
 | 2022-11-11 | 84 | 19 | 
 | 2022-11-10 | 84 | 19 | 
-| 2022-11-09 | 83 | 19 | 
 

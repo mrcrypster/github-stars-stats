@@ -1,6 +1,6 @@
 # terror/present - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 95 | - | 
 | 2022-12-08 | 95 | - | 
 | 2022-12-07 | 95 | - | 
 | 2022-12-06 | 95 | - | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 95 | - | 
 | 2022-11-11 | 95 | - | 
 | 2022-11-10 | 95 | - | 
-| 2022-11-09 | 95 | - | 
 

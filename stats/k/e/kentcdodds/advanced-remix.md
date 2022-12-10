@@ -1,10 +1,10 @@
 # kentcdodds/advanced-remix - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 45
 
-★ Stars: 386
+★ Stars: 388
 
 [Open repository](https://github.com/kentcdodds/advanced-remix)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 388 | 45 | 
 | 2022-12-08 | 386 | 45 | 
 | 2022-12-07 | 386 | 45 | 
 | 2022-12-06 | 386 | 45 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 388 | 44 | 
 | 2022-11-12 | 388 | 44 | 
 | 2022-11-10 | 387 | 43 | 
-| 2022-11-09 | 386 | 43 | 
 

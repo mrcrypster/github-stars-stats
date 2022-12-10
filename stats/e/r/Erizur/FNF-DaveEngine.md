@@ -1,6 +1,6 @@
 # Erizur/FNF-DaveEngine - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 19 | 16 | 
 | 2022-12-08 | 19 | 16 | 
 | 2022-12-07 | 19 | 16 | 
 | 2022-12-05 | 19 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 15 | 11 | 
 | 2022-11-11 | 15 | 11 | 
 | 2022-11-10 | 15 | 11 | 
-| 2022-11-09 | 14 | 11 | 
 

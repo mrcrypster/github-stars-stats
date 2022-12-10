@@ -1,10 +1,10 @@
 # yarnpkg/yarn - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 2879
+☋ Forks: 2880
 
-★ Stars: 40970
+★ Stars: 40971
 
 [Open repository](https://github.com/yarnpkg/yarn)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 40971 | 2880 | 
 | 2022-12-08 | 40970 | 2879 | 
 | 2022-12-06 | 40969 | 2880 | 
 | 2022-12-05 | 40966 | 2879 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 40926 | 2872 | 
 | 2022-11-11 | 40926 | 2871 | 
 | 2022-11-10 | 40918 | 2872 | 
-| 2022-11-09 | 40916 | 2870 | 
 

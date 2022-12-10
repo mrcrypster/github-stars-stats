@@ -1,8 +1,8 @@
 # caracal-js/Incognito - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
-☋ Forks: 365
+☋ Forks: 370
 
 ★ Stars: 59
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 59 | 370 | 
+| 2022-12-09 | 59 | 370 | 
 | 2022-12-08 | 59 | 365 | 
 | 2022-12-07 | 58 | 362 | 
 | 2022-12-05 | 56 | 352 | 
@@ -41,5 +43,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 54 | 314 | 
 | 2022-11-11 | 54 | 312 | 
 | 2022-11-10 | 53 | 309 | 
-| 2022-11-09 | 52 | 307 | 
 

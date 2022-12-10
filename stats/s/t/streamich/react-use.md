@@ -1,10 +1,10 @@
 # streamich/react-use - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
-☋ Forks: 2728
+☋ Forks: 2729
 
-★ Stars: 34393
+★ Stars: 34418
 
 [Open repository](https://github.com/streamich/react-use)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 34418 | 2729 | 
 | 2022-12-08 | 34393 | 2728 | 
 | 2022-12-07 | 34362 | 2726 | 
 | 2022-12-06 | 34350 | 2725 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 34038 | 2691 | 
 | 2022-11-12 | 34025 | 2691 | 
 | 2022-11-10 | 34012 | 2691 | 
-| 2022-11-09 | 33996 | 2688 | 
 

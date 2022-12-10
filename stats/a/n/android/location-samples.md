@@ -1,8 +1,8 @@
 # android/location-samples - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 2825
+☋ Forks: 2823
 
 ★ Stars: 2602
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 2602 | 2823 | 
 | 2022-12-08 | 2602 | 2825 | 
 | 2022-12-07 | 2601 | 2825 | 
 | 2022-12-06 | 2600 | 2824 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 2594 | 2823 | 
 | 2022-11-11 | 2594 | 2823 | 
 | 2022-11-10 | 2594 | 2823 | 
-| 2022-11-09 | 2595 | 2823 | 
 

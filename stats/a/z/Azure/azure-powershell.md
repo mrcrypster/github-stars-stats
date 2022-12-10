@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 09
 
 ☋ Forks: 3279
 
-★ Stars: 3386
+★ Stars: 3387
 
 [Open repository](https://github.com/Azure/azure-powershell)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-09 | 3386 | 3279 | 
+| 2022-12-09 | 3387 | 3279 | 
 | 2022-12-08 | 3386 | 3279 | 
 | 2022-12-07 | 3384 | 3279 | 
 | 2022-12-06 | 3381 | 3275 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-12 | 3351 | 3247 | 
 | 2022-11-11 | 3351 | 3246 | 
 | 2022-11-10 | 3350 | 3245 | 
-| 2022-11-09 | 3347 | 3244 | 
 

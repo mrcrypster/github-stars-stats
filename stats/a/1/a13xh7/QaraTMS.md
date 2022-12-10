@@ -1,6 +1,6 @@
 # a13xh7/QaraTMS - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 29 | 2 | 
 | 2022-12-08 | 29 | 2 | 
 | 2022-12-07 | 29 | 2 | 
 | 2022-12-06 | 28 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 27 | 3 | 
 | 2022-11-11 | 27 | 3 | 
 | 2022-11-10 | 27 | 3 | 
-| 2022-11-09 | 28 | 3 | 
 

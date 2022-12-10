@@ -1,10 +1,10 @@
 # chroblert/JC-jEnv - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 21
 
-★ Stars: 60
+★ Stars: 61
 
 [Open repository](https://github.com/chroblert/JC-jEnv)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 61 | 21 | 
 | 2022-12-08 | 60 | 21 | 
 | 2022-12-07 | 60 | 21 | 
 | 2022-12-05 | 60 | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 57 | 21 | 
 | 2022-11-11 | 57 | 21 | 
 | 2022-11-10 | 57 | 21 | 
-| 2022-11-09 | 57 | 21 | 
 

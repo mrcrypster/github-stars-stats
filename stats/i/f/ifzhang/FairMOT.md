@@ -1,10 +1,10 @@
 # ifzhang/FairMOT - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 887
 
-★ Stars: 3605
+★ Stars: 3607
 
 [Open repository](https://github.com/ifzhang/FairMOT)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 3607 | 887 | 
 | 2022-12-08 | 3605 | 887 | 
 | 2022-12-06 | 3605 | 887 | 
 | 2022-12-05 | 3605 | 885 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 3586 | 882 | 
 | 2022-11-11 | 3586 | 882 | 
 | 2022-11-10 | 3583 | 882 | 
-| 2022-11-09 | 3582 | 882 | 
 

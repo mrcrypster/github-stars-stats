@@ -1,8 +1,8 @@
 # tiiuae/nixpkgs-spectrum - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 5
+☋ Forks: 6
 
 ★ Stars: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 4 | 6 | 
 | 2022-12-08 | 4 | 5 | 
 | 2022-12-07 | 4 | 5 | 
 | 2022-12-05 | 4 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 4 | 5 | 
 | 2022-11-11 | 4 | 5 | 
 | 2022-11-10 | 4 | 5 | 
-| 2022-11-09 | 4 | 5 | 
 

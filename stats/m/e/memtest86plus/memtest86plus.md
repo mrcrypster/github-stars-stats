@@ -1,10 +1,10 @@
 # memtest86plus/memtest86plus - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 31
+☋ Forks: 32
 
-★ Stars: 459
+★ Stars: 460
 
 [Open repository](https://github.com/memtest86plus/memtest86plus)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 460 | 32 | 
 | 2022-12-08 | 459 | 31 | 
 | 2022-12-07 | 458 | 31 | 
 | 2022-12-05 | 458 | 31 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 435 | 29 | 
 | 2022-11-11 | 434 | 29 | 
 | 2022-11-10 | 433 | 28 | 
-| 2022-11-09 | 433 | 27 | 
 

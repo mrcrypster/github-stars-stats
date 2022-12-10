@@ -1,10 +1,10 @@
 # odriverobotics/ODrive - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 1267
+☋ Forks: 1268
 
-★ Stars: 2130
+★ Stars: 2132
 
 [Open repository](https://github.com/odriverobotics/ODrive)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 2132 | 1268 | 
 | 2022-12-08 | 2130 | 1267 | 
 | 2022-12-07 | 2127 | 1266 | 
 | 2022-12-05 | 2126 | 1266 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 2094 | 1245 | 
 | 2022-11-11 | 2093 | 1245 | 
 | 2022-11-10 | 2093 | 1246 | 
-| 2022-11-09 | 2092 | 1245 | 
 

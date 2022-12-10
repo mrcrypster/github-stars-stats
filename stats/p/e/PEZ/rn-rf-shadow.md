@@ -1,10 +1,10 @@
 # PEZ/rn-rf-shadow - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 40
 
-★ Stars: 255
+★ Stars: 256
 
 [Open repository](https://github.com/PEZ/rn-rf-shadow)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 256 | 40 | 
 | 2022-12-08 | 255 | 40 | 
 | 2022-12-07 | 255 | 40 | 
 | 2022-12-05 | 255 | 40 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 253 | 40 | 
 | 2022-11-11 | 253 | 40 | 
 | 2022-11-10 | 252 | 40 | 
-| 2022-11-09 | 252 | 40 | 
 

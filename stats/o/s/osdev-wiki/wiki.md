@@ -1,6 +1,6 @@
 # osdev-wiki/wiki - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 46 | 13 | 
 | 2022-12-07 | 46 | 13 | 
 | 2022-12-06 | 46 | 14 | 
 | 2022-12-05 | 46 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 45 | 14 | 
 | 2022-11-11 | 45 | 14 | 
 | 2022-11-10 | 45 | 14 | 
-| 2022-11-09 | 45 | 14 | 
 

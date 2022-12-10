@@ -1,6 +1,6 @@
 # rocketseat-education/ignite-lab-01-aulas - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 141 | 68 | 
 | 2022-12-08 | 141 | 68 | 
 | 2022-12-07 | 139 | 68 | 
 | 2022-12-06 | 139 | 67 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 138 | 66 | 
 | 2022-11-11 | 138 | 66 | 
 | 2022-11-10 | 138 | 66 | 
-| 2022-11-09 | 138 | 67 | 
 

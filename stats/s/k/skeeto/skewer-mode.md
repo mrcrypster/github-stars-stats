@@ -1,10 +1,10 @@
 # skeeto/skewer-mode - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 54
 
-★ Stars: 1046
+★ Stars: 1047
 
 [Open repository](https://github.com/skeeto/skewer-mode)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 1047 | 54 | 
 | 2022-12-08 | 1046 | 54 | 
 | 2022-12-06 | 1046 | 54 | 
 | 2022-12-05 | 1046 | 54 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 1044 | 54 | 
 | 2022-11-11 | 1044 | 54 | 
 | 2022-11-10 | 1043 | 54 | 
-| 2022-11-09 | 1043 | 54 | 
 

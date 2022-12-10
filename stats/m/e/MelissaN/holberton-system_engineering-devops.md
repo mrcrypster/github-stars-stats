@@ -1,8 +1,8 @@
 # MelissaN/holberton-system_engineering-devops - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 122
+☋ Forks: 121
 
 ★ Stars: 35
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 35 | 121 | 
 | 2022-12-08 | 35 | 122 | 
 | 2022-12-06 | 35 | 112 | 
 | 2022-12-05 | 35 | 110 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 35 | 111 | 
 | 2022-11-11 | 35 | 111 | 
 | 2022-11-10 | 35 | 111 | 
-| 2022-11-09 | 35 | 111 | 
 

@@ -1,10 +1,10 @@
 # NinjaTrappeur/my-repo-pins - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 2
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/NinjaTrappeur/my-repo-pins)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 24 | 2 | 
 | 2022-12-08 | 23 | 2 | 
 | 2022-12-07 | 23 | 2 | 
 | 2022-12-06 | 23 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 22 | 2 | 
 | 2022-11-11 | 22 | 2 | 
 | 2022-11-10 | 22 | 2 | 
-| 2022-11-09 | 22 | 2 | 
 

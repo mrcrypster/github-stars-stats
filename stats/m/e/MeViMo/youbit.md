@@ -1,6 +1,6 @@
 # MeViMo/youbit - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 650 | 20 | 
 | 2022-12-08 | 650 | 20 | 
 | 2022-12-07 | 650 | 21 | 
 | 2022-12-05 | 650 | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 650 | 21 | 
 | 2022-11-11 | 650 | 21 | 
 | 2022-11-10 | 650 | 21 | 
-| 2022-11-09 | 650 | 21 | 
 

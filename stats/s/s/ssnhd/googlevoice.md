@@ -1,10 +1,10 @@
 # ssnhd/googlevoice - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 149
 
-★ Stars: 1484
+★ Stars: 1485
 
 [Open repository](https://github.com/ssnhd/googlevoice)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 1485 | 149 | 
 | 2022-12-08 | 1484 | 149 | 
 | 2022-12-07 | 1480 | 149 | 
 | 2022-12-06 | 1478 | 150 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 1418 | 143 | 
 | 2022-11-11 | 1418 | 143 | 
 | 2022-11-10 | 1416 | 143 | 
-| 2022-11-09 | 1416 | 143 | 
 

@@ -1,6 +1,6 @@
 # mainmatter/mainmatter.com - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 15 | 9 | 
 | 2022-12-08 | 15 | 9 | 
 | 2022-12-07 | 15 | 9 | 
 | 2022-12-06 | 15 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 15 | 9 | 
 | 2022-11-11 | 15 | 9 | 
 | 2022-11-10 | 15 | 9 | 
-| 2022-11-09 | 15 | 9 | 
 

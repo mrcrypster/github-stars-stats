@@ -1,6 +1,6 @@
 # dotnet/EntityFramework.Docs - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 1795
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 1294 | 1795 | 
 | 2022-12-08 | 1294 | 1795 | 
 | 2022-12-07 | 1291 | 1793 | 
 | 2022-12-05 | 1289 | 1787 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 1275 | 1758 | 
 | 2022-11-11 | 1275 | 1758 | 
 | 2022-11-10 | 1275 | 1758 | 
-| 2022-11-09 | 1275 | 1756 | 
 

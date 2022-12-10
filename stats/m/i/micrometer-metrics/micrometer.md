@@ -1,10 +1,10 @@
 # micrometer-metrics/micrometer - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 842
 
-★ Stars: 3683
+★ Stars: 3684
 
 [Open repository](https://github.com/micrometer-metrics/micrometer)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 3684 | 842 | 
 | 2022-12-08 | 3683 | 842 | 
 | 2022-12-07 | 3682 | 841 | 
 | 2022-12-06 | 3677 | 839 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 3643 | 839 | 
 | 2022-11-11 | 3643 | 839 | 
 | 2022-11-10 | 3643 | 840 | 
-| 2022-11-09 | 3642 | 839 | 
 

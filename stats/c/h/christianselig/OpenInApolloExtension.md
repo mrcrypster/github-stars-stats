@@ -1,10 +1,10 @@
 # christianselig/OpenInApolloExtension - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 9
 
-★ Stars: 190
+★ Stars: 191
 
 [Open repository](https://github.com/christianselig/OpenInApolloExtension)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 191 | 9 | 
 | 2022-12-08 | 190 | 9 | 
 | 2022-12-06 | 190 | 9 | 
 | 2022-12-05 | 191 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 188 | 9 | 
 | 2022-11-12 | 188 | 9 | 
 | 2022-11-11 | 188 | 9 | 
-| 2022-11-10 | 189 | 9 | 
 

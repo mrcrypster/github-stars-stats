@@ -1,10 +1,10 @@
 # Oneflow-Inc/oneflow - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 481
+☋ Forks: 483
 
-★ Stars: 4106
+★ Stars: 4111
 
 [Open repository](https://github.com/Oneflow-Inc/oneflow)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 4111 | 483 | 
 | 2022-12-08 | 4106 | 481 | 
 | 2022-12-07 | 4097 | 479 | 
 | 2022-12-05 | 4090 | 479 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 3955 | 468 | 
 | 2022-11-11 | 3954 | 469 | 
 | 2022-11-10 | 3943 | 469 | 
-| 2022-11-09 | 3871 | 467 | 
 

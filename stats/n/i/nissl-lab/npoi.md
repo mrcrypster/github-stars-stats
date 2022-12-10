@@ -1,10 +1,10 @@
 # nissl-lab/npoi - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 1313
 
-★ Stars: 4767
+★ Stars: 4768
 
 [Open repository](https://github.com/nissl-lab/npoi)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 4768 | 1313 | 
 | 2022-12-08 | 4767 | 1313 | 
 | 2022-12-07 | 4763 | 1313 | 
 | 2022-12-06 | 4762 | 1313 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 4713 | 1295 | 
 | 2022-11-11 | 4712 | 1295 | 
 | 2022-11-10 | 4710 | 1296 | 
-| 2022-11-09 | 4708 | 1296 | 
 

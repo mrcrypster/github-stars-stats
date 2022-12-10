@@ -1,6 +1,6 @@
 # PAMunb/JUnit5Migration - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 5 | 1 | 
 | 2022-12-08 | 5 | 1 | 
 | 2022-12-07 | 5 | 1 | 
 | 2022-12-06 | 5 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 5 | - | 
 | 2022-11-11 | 5 | - | 
 | 2022-11-10 | 5 | - | 
-| 2022-11-09 | 5 | - | 
 

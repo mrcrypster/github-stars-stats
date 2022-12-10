@@ -1,8 +1,8 @@
 # fernandoleonid/speed-code-css-html - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 140
+☋ Forks: 141
 
 ★ Stars: 77
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 77 | 141 | 
 | 2022-12-08 | 77 | 140 | 
 | 2022-12-06 | 77 | 140 | 
 | 2022-12-05 | 77 | 137 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 75 | 136 | 
 | 2022-11-11 | 75 | 136 | 
 | 2022-11-10 | 75 | 135 | 
-| 2022-11-09 | 75 | 136 | 
 

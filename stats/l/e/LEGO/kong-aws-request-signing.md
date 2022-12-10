@@ -1,6 +1,6 @@
 # LEGO/kong-aws-request-signing - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 36 | 5 | 
 | 2022-12-07 | 36 | 5 | 
 | 2022-12-06 | 35 | 5 | 
 | 2022-12-05 | 35 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-13 | 34 | 4 | 
 | 2022-11-12 | 34 | 4 | 
 | 2022-11-11 | 33 | 4 | 
-| 2022-11-10 | 33 | 4 | 
 

@@ -1,6 +1,6 @@
 # Emosewaj/IW4x - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 108 | 13 | 
 | 2022-12-08 | 108 | 13 | 
 | 2022-12-07 | 108 | 13 | 
 | 2022-12-05 | 108 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 108 | 13 | 
 | 2022-11-11 | 108 | 13 | 
 | 2022-11-10 | 108 | 13 | 
-| 2022-11-09 | 108 | 13 | 
 

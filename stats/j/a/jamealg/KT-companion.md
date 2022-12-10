@@ -1,6 +1,6 @@
 # jamealg/KT-companion - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 532 | 13 | 
 | 2022-12-08 | 532 | 13 | 
 | 2022-12-07 | 532 | 13 | 
 | 2022-12-05 | 532 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 526 | 13 | 
 | 2022-11-11 | 523 | 13 | 
 | 2022-11-10 | 520 | 12 | 
-| 2022-11-09 | 518 | 12 | 
 

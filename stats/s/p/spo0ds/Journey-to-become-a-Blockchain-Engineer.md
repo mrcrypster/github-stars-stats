@@ -1,10 +1,10 @@
 # spo0ds/Journey-to-become-a-Blockchain-Engineer - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 142
 
-★ Stars: 562
+★ Stars: 563
 
 [Open repository](https://github.com/spo0ds/Journey-to-become-a-Blockchain-Engineer)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 563 | 142 | 
 | 2022-12-08 | 562 | 142 | 
 | 2022-12-07 | 561 | 143 | 
 | 2022-12-06 | 558 | 143 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 527 | 140 | 
 | 2022-11-11 | 526 | 139 | 
 | 2022-11-10 | 526 | 139 | 
-| 2022-11-09 | 524 | 139 | 
 

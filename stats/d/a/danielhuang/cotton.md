@@ -1,10 +1,10 @@
 # danielhuang/cotton - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 5
 
-★ Stars: 193
+★ Stars: 194
 
 [Open repository](https://github.com/danielhuang/cotton)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 194 | 5 | 
 | 2022-12-08 | 193 | 5 | 
 | 2022-12-07 | 193 | 5 | 
 | 2022-12-06 | 192 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 191 | 5 | 
 | 2022-11-11 | 191 | 5 | 
 | 2022-11-10 | 189 | 5 | 
-| 2022-11-09 | 189 | 5 | 
 

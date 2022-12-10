@@ -1,10 +1,10 @@
 # eimtechnology/STEPFPGA-MXO2Core - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 3
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/eimtechnology/STEPFPGA-MXO2Core)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 21 | 3 | 
 | 2022-12-08 | 20 | 3 | 
 | 2022-12-06 | 20 | 3 | 
 | 2022-12-05 | 20 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 20 | 3 | 
 | 2022-11-11 | 20 | 3 | 
 | 2022-11-10 | 20 | 3 | 
-| 2022-11-09 | 20 | 3 | 
 

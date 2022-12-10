@@ -1,6 +1,6 @@
 # cpitclaudel/biblio.el - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 139 | 16 | 
 | 2022-12-08 | 139 | 16 | 
 | 2022-12-07 | 139 | 16 | 
 | 2022-12-05 | 139 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 139 | 16 | 
 | 2022-11-11 | 139 | 16 | 
 | 2022-11-10 | 138 | 16 | 
-| 2022-11-09 | 138 | 16 | 
 

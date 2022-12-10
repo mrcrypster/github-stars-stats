@@ -1,10 +1,10 @@
 # Tencent/wujie - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 233
 
-★ Stars: 1782
+★ Stars: 1791
 
 [Open repository](https://github.com/Tencent/wujie)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 1791 | 233 | 
 | 2022-12-08 | 1782 | 233 | 
 | 2022-12-07 | 1781 | 233 | 
 | 2022-12-06 | 1776 | 231 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 1661 | 209 | 
 | 2022-11-11 | 1656 | 209 | 
 | 2022-11-10 | 1647 | 208 | 
-| 2022-11-09 | 1642 | 206 | 
 

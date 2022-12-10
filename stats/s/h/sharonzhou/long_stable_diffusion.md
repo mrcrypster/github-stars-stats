@@ -1,10 +1,10 @@
 # sharonzhou/long_stable_diffusion - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 43
 
-★ Stars: 553
+★ Stars: 554
 
 [Open repository](https://github.com/sharonzhou/long_stable_diffusion)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 554 | 43 | 
 | 2022-12-08 | 553 | 43 | 
 | 2022-12-06 | 553 | 43 | 
 | 2022-12-05 | 553 | 43 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 537 | 42 | 
 | 2022-11-12 | 537 | 42 | 
 | 2022-11-11 | 537 | 42 | 
-| 2022-11-10 | 536 | 42 | 
 

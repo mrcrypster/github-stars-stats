@@ -1,10 +1,10 @@
 # x-extends/vxe-table - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 834
+☋ Forks: 835
 
-★ Stars: 5538
+★ Stars: 5545
 
 [Open repository](https://github.com/x-extends/vxe-table)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 5545 | 835 | 
 | 2022-12-08 | 5538 | 834 | 
 | 2022-12-06 | 5534 | 833 | 
 | 2022-12-05 | 5527 | 833 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 5462 | 823 | 
 | 2022-11-12 | 5462 | 823 | 
 | 2022-11-10 | 5454 | 823 | 
-| 2022-11-09 | 5448 | 821 | 
 

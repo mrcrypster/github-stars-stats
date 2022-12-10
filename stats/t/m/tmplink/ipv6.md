@@ -1,10 +1,10 @@
 # tmplink/ipv6 - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 22
 
-★ Stars: 457
+★ Stars: 458
 
 [Open repository](https://github.com/tmplink/ipv6)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 458 | 22 | 
 | 2022-12-08 | 457 | 22 | 
 | 2022-12-07 | 457 | 22 | 
 | 2022-12-06 | 456 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 451 | 22 | 
 | 2022-11-11 | 451 | 22 | 
 | 2022-11-10 | 451 | 22 | 
-| 2022-11-09 | 451 | 22 | 
 

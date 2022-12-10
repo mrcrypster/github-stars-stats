@@ -1,10 +1,10 @@
 # jquesnelle/txt2imghd - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 67
 
-★ Stars: 557
+★ Stars: 558
 
 [Open repository](https://github.com/jquesnelle/txt2imghd)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 558 | 67 | 
 | 2022-12-08 | 557 | 67 | 
 | 2022-12-06 | 557 | 67 | 
 | 2022-12-05 | 557 | 67 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 535 | 67 | 
 | 2022-11-12 | 534 | 67 | 
 | 2022-11-11 | 534 | 67 | 
-| 2022-11-09 | 535 | 67 | 
 

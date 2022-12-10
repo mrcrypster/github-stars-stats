@@ -1,6 +1,6 @@
 # 1c-syntax/bsl-parser - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 24 | 15 | 
 | 2022-12-08 | 24 | 15 | 
 | 2022-12-07 | 24 | 15 | 
 | 2022-12-05 | 24 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 23 | 14 | 
 | 2022-11-11 | 23 | 14 | 
 | 2022-11-10 | 23 | 14 | 
-| 2022-11-09 | 23 | 14 | 
 

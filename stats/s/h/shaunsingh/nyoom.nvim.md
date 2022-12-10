@@ -1,6 +1,6 @@
 # shaunsingh/nyoom.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 429 | 60 | 
 | 2022-12-07 | 429 | 60 | 
 | 2022-12-06 | 427 | 60 | 
 | 2022-12-04 | 424 | 60 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 394 | 61 | 
 | 2022-11-11 | 393 | 61 | 
 | 2022-11-10 | 394 | 61 | 
-| 2022-11-09 | 393 | 58 | 
 

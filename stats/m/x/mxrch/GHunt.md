@@ -1,10 +1,10 @@
 # mxrch/GHunt - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 1063
+☋ Forks: 1065
 
-★ Stars: 12548
+★ Stars: 12565
 
 [Open repository](https://github.com/mxrch/GHunt)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 12565 | 1065 | 
 | 2022-12-08 | 12548 | 1063 | 
 | 2022-12-07 | 12516 | 1061 | 
 | 2022-12-06 | 12501 | 1061 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 12167 | 1045 | 
 | 2022-11-12 | 12164 | 1045 | 
 | 2022-11-11 | 12160 | 1044 | 
-| 2022-11-10 | 12157 | 1043 | 
 

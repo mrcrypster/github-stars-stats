@@ -1,10 +1,10 @@
 # kubernetes-client/python - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 2917
+☋ Forks: 2921
 
-★ Stars: 5334
+★ Stars: 5340
 
 [Open repository](https://github.com/kubernetes-client/python)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 5340 | 2921 | 
 | 2022-12-08 | 5334 | 2917 | 
 | 2022-12-07 | 5329 | 2916 | 
 | 2022-12-05 | 5326 | 2914 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 5278 | 2879 | 
 | 2022-11-11 | 5277 | 2879 | 
 | 2022-11-10 | 5276 | 2873 | 
-| 2022-11-09 | 5275 | 2868 | 
 

@@ -1,10 +1,10 @@
 # protesilaos/ef-themes - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 7
 
-★ Stars: 92
+★ Stars: 93
 
 [Open repository](https://github.com/protesilaos/ef-themes)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 93 | 7 | 
 | 2022-12-08 | 92 | 7 | 
 | 2022-12-06 | 92 | 7 | 
 | 2022-12-05 | 92 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 88 | 7 | 
 | 2022-11-12 | 87 | 7 | 
 | 2022-11-10 | 87 | 7 | 
-| 2022-11-09 | 87 | 7 | 
 

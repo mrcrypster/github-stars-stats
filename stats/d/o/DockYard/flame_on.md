@@ -1,10 +1,10 @@
 # DockYard/flame_on - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 7
 
-★ Stars: 115
+★ Stars: 116
 
 [Open repository](https://github.com/DockYard/flame_on)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 116 | 7 | 
 | 2022-12-08 | 115 | 7 | 
 | 2022-12-07 | 114 | 7 | 
 | 2022-12-05 | 114 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 106 | 6 | 
 | 2022-11-11 | 106 | 6 | 
 | 2022-11-10 | 106 | 6 | 
-| 2022-11-09 | 106 | 6 | 
 

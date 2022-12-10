@@ -1,6 +1,6 @@
 # DataDog/dd-trace-go - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 326
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 456 | 326 | 
 | 2022-12-08 | 456 | 326 | 
 | 2022-12-06 | 455 | 327 | 
 | 2022-12-05 | 452 | 327 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 443 | 325 | 
 | 2022-11-11 | 443 | 324 | 
 | 2022-11-10 | 443 | 325 | 
-| 2022-11-09 | 443 | 325 | 
 

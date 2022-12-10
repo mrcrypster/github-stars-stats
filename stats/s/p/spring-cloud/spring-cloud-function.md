@@ -1,10 +1,10 @@
 # spring-cloud/spring-cloud-function - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 541
 
-★ Stars: 921
+★ Stars: 922
 
 [Open repository](https://github.com/spring-cloud/spring-cloud-function)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 922 | 541 | 
 | 2022-12-08 | 921 | 541 | 
 | 2022-12-07 | 921 | 540 | 
 | 2022-12-06 | 921 | 540 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 919 | 531 | 
 | 2022-11-11 | 919 | 531 | 
 | 2022-11-10 | 919 | 531 | 
-| 2022-11-09 | 919 | 531 | 
 

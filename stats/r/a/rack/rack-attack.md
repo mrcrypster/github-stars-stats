@@ -1,8 +1,8 @@
 # rack/rack-attack - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 338
+☋ Forks: 339
 
 ★ Stars: 5224
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 5224 | 339 | 
 | 2022-12-08 | 5224 | 338 | 
 | 2022-12-07 | 5224 | 338 | 
 | 2022-12-05 | 5224 | 339 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 5208 | 335 | 
 | 2022-11-11 | 5207 | 335 | 
 | 2022-11-10 | 5207 | 337 | 
-| 2022-11-09 | 5207 | 336 | 
 

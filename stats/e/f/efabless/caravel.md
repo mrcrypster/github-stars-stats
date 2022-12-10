@@ -1,6 +1,6 @@
 # efabless/caravel - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 118 | 36 | 
 | 2022-12-07 | 118 | 36 | 
 | 2022-12-06 | 118 | 35 | 
 | 2022-12-04 | 118 | 35 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 111 | 33 | 
 | 2022-11-11 | 111 | 33 | 
 | 2022-11-10 | 111 | 33 | 
-| 2022-11-09 | 111 | 33 | 
 

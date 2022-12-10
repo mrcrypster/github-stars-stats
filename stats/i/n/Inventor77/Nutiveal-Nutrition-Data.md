@@ -1,6 +1,6 @@
 # Inventor77/Nutiveal-Nutrition-Data - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 21 | 22 | 
 | 2022-12-08 | 21 | 22 | 
 | 2022-12-07 | 21 | 22 | 
 | 2022-12-06 | 21 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 20 | 22 | 
 | 2022-11-12 | 20 | 22 | 
 | 2022-11-10 | 20 | 22 | 
-| 2022-11-09 | 20 | 22 | 
 

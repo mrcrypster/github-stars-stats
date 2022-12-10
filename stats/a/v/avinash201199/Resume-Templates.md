@@ -1,6 +1,6 @@
 # avinash201199/Resume-Templates - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 6 | 19 | 
 | 2022-12-08 | 6 | 19 | 
 | 2022-12-07 | 6 | 19 | 
 | 2022-12-06 | 6 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 6 | 19 | 
 | 2022-11-11 | 6 | 19 | 
 | 2022-11-10 | 6 | 19 | 
-| 2022-11-09 | 4 | 19 | 
 

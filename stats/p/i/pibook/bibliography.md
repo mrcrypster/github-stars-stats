@@ -1,6 +1,6 @@
 # pibook/bibliography - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 154
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | - | 154 | 
 | 2022-12-08 | - | 154 | 
 | 2022-12-07 | - | 154 | 
 | 2022-12-06 | - | 154 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | - | 133 | 
 | 2022-11-11 | - | 132 | 
 | 2022-11-10 | - | 131 | 
-| 2022-11-09 | - | 130 | 
 

@@ -1,10 +1,10 @@
 # riskable/void_switch - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 33
 
-★ Stars: 410
+★ Stars: 411
 
 [Open repository](https://github.com/riskable/void_switch)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 411 | 33 | 
 | 2022-12-08 | 410 | 33 | 
 | 2022-12-07 | 410 | 33 | 
 | 2022-12-05 | 409 | 33 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 400 | 33 | 
 | 2022-11-11 | 400 | 33 | 
 | 2022-11-10 | 400 | 33 | 
-| 2022-11-09 | 398 | 33 | 
 

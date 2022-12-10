@@ -1,6 +1,6 @@
 # fanduel/ex_vmstats - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 15 | 12 | 
 | 2022-12-08 | 15 | 12 | 
 | 2022-12-07 | 15 | 12 | 
 | 2022-12-06 | 15 | 12 | 

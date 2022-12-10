@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 09
 
 ☋ Forks: 314
 
-★ Stars: 2124
+★ Stars: 2127
 
 [Open repository](https://github.com/sunzongzheng/music)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-09 | 2124 | 314 | 
+| 2022-12-09 | 2127 | 314 | 
 | 2022-12-08 | 2123 | 314 | 
 | 2022-12-07 | 2117 | 313 | 
 

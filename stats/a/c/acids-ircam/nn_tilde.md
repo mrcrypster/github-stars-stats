@@ -1,10 +1,10 @@
 # acids-ircam/nn_tilde - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 9
 
-★ Stars: 121
+★ Stars: 122
 
 [Open repository](https://github.com/acids-ircam/nn_tilde)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 122 | 9 | 
 | 2022-12-08 | 121 | 9 | 
 | 2022-12-07 | 120 | 9 | 
 | 2022-12-05 | 120 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 114 | 9 | 
 | 2022-11-11 | 114 | 9 | 
 | 2022-11-10 | 114 | 9 | 
-| 2022-11-09 | 114 | 9 | 
 

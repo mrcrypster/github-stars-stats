@@ -1,10 +1,10 @@
 # MScholtes/PS2EXE - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 117
+☋ Forks: 118
 
-★ Stars: 599
+★ Stars: 601
 
 [Open repository](https://github.com/MScholtes/PS2EXE)
 
@@ -13,5 +13,6 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 601 | 118 | 
 | 2022-12-08 | 599 | 117 | 
 

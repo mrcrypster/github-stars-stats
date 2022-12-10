@@ -1,6 +1,6 @@
 # messari/subgraphs - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 140
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 312 | 140 | 
 | 2022-12-07 | 312 | 140 | 
 | 2022-12-06 | 310 | 139 | 
 | 2022-12-05 | 310 | 138 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 296 | 131 | 
 | 2022-11-11 | 296 | 131 | 
 | 2022-11-10 | 295 | 130 | 
-| 2022-11-09 | 294 | 130 | 
 

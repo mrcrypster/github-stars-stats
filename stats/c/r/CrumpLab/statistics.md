@@ -1,10 +1,10 @@
 # CrumpLab/statistics - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 40
 
-★ Stars: 88
+★ Stars: 89
 
 [Open repository](https://github.com/CrumpLab/statistics)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 89 | 40 | 
 | 2022-12-08 | 88 | 40 | 
 | 2022-12-07 | 88 | 40 | 
 | 2022-12-06 | 88 | 40 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 88 | 39 | 
 | 2022-11-11 | 88 | 39 | 
 | 2022-11-10 | 88 | 39 | 
-| 2022-11-09 | 88 | 39 | 
 

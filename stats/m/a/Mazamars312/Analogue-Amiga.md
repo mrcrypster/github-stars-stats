@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 09
 
 ☋ Forks: 1
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/Mazamars312/Analogue-Amiga)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-09 | 27 | 1 | 
+| 2022-12-09 | 28 | 1 | 
 | 2022-12-08 | 26 | 1 | 
 | 2022-12-07 | 25 | 1 | 
 

@@ -1,10 +1,10 @@
 # czj2369/jd_tb_auto - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 413
 
-★ Stars: 1390
+★ Stars: 1391
 
 [Open repository](https://github.com/czj2369/jd_tb_auto)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 1391 | 413 | 
 | 2022-12-08 | 1390 | 413 | 
 | 2022-12-07 | 1390 | 413 | 
 | 2022-12-05 | 1390 | 413 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 1391 | 413 | 
 | 2022-11-11 | 1391 | 412 | 
 | 2022-11-10 | 1390 | 412 | 
-| 2022-11-09 | 1388 | 411 | 
 

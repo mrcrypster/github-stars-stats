@@ -1,6 +1,6 @@
 # purescript-web/purescript-web-events - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 6 | 6 | 
 | 2022-12-08 | 6 | 6 | 
 | 2022-12-07 | 6 | 6 | 
 | 2022-12-06 | 6 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 6 | 6 | 
 | 2022-11-11 | 6 | 6 | 
 | 2022-11-10 | 6 | 6 | 
-| 2022-11-09 | 6 | 6 | 
 

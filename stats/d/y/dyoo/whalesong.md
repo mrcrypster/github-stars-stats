@@ -1,6 +1,6 @@
 # dyoo/whalesong - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 250 | 30 | 
 | 2022-12-08 | 250 | 30 | 
 | 2022-12-06 | 250 | 30 | 
 | 2022-12-05 | 250 | 29 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 250 | 29 | 
 | 2022-11-12 | 250 | 29 | 
 | 2022-11-10 | 250 | 29 | 
-| 2022-11-09 | 250 | 29 | 
 

@@ -1,6 +1,6 @@
 # tomas-fryza/digital-electronics-1 - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 175
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 34 | 175 | 
 | 2022-12-08 | 34 | 175 | 
 | 2022-12-07 | 34 | 175 | 
 | 2022-12-06 | 34 | 175 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 31 | 174 | 
 | 2022-11-11 | 31 | 174 | 
 | 2022-11-10 | 31 | 174 | 
-| 2022-11-09 | 31 | 174 | 
 

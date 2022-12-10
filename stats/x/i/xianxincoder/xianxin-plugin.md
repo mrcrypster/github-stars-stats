@@ -1,10 +1,10 @@
 # xianxincoder/xianxin-plugin - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 5
 
-★ Stars: 73
+★ Stars: 74
 
 [Open repository](https://github.com/xianxincoder/xianxin-plugin)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 74 | 5 | 
 | 2022-12-07 | 73 | 5 | 
 | 2022-12-06 | 73 | 5 | 
 | 2022-12-05 | 73 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 69 | 5 | 
 | 2022-11-11 | 69 | 5 | 
 | 2022-11-10 | 69 | 5 | 
-| 2022-11-09 | 69 | 5 | 
 

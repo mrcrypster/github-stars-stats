@@ -1,6 +1,6 @@
 # Exhen/PotplayerChineseSubs_assrt - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 130 | 24 | 
 | 2022-12-08 | 130 | 24 | 
 | 2022-12-07 | 130 | 24 | 
 | 2022-12-06 | 130 | 24 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 119 | 24 | 
 | 2022-11-11 | 119 | 24 | 
 | 2022-11-10 | 119 | 24 | 
-| 2022-11-09 | 119 | 24 | 
 

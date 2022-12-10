@@ -1,6 +1,6 @@
 # bedimcode/responsive-website-restaurant - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 351
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 349 | 351 | 
 | 2022-12-08 | 349 | 351 | 
 | 2022-12-07 | 350 | 350 | 
 | 2022-12-06 | 350 | 349 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 344 | 343 | 
 | 2022-11-11 | 345 | 341 | 
 | 2022-11-10 | 345 | 341 | 
-| 2022-11-09 | 345 | 341 | 
 

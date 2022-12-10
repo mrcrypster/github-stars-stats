@@ -1,6 +1,6 @@
 # hibem/PDFSigner - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 125 | 29 | 
 | 2022-12-08 | 125 | 29 | 
 | 2022-12-07 | 125 | 29 | 
 | 2022-12-05 | 125 | 29 | 

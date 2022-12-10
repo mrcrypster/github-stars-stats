@@ -1,6 +1,6 @@
 # kesava-wow/kuinameplates2 - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 80 | 38 | 
 | 2022-12-08 | 80 | 38 | 
 | 2022-12-07 | 79 | 38 | 
 | 2022-12-05 | 79 | 38 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 76 | 38 | 
 | 2022-11-11 | 76 | 38 | 
 | 2022-11-10 | 76 | 38 | 
-| 2022-11-09 | 74 | 39 | 
 

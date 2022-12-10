@@ -1,10 +1,10 @@
 # intel/terraform-intel-azure-example-app - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 0
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/intel/terraform-intel-azure-example-app)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 6 | - | 
 | 2022-12-08 | 5 | - | 
 | 2022-12-06 | 5 | - | 
 | 2022-12-05 | 5 | - | 

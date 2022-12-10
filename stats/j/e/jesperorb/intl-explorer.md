@@ -1,6 +1,6 @@
 # jesperorb/intl-explorer - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 106 | 4 | 
 | 2022-12-08 | 106 | 4 | 
 | 2022-12-07 | 106 | 4 | 
 | 2022-12-06 | 106 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 92 | 3 | 
 | 2022-11-11 | 92 | 3 | 
 | 2022-11-10 | 92 | 3 | 
-| 2022-11-09 | 91 | 3 | 
 

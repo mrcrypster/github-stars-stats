@@ -1,6 +1,6 @@
 # pemguin005/Third-Person-Controller---Godot-Souls-like - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 49 | 12 | 
 | 2022-12-08 | 49 | 12 | 
 | 2022-12-06 | 48 | 12 | 
 | 2022-12-05 | 47 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 44 | 9 | 
 | 2022-11-11 | 43 | 9 | 
 | 2022-11-10 | 43 | 9 | 
-| 2022-11-09 | 43 | 9 | 
 

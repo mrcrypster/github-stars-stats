@@ -1,10 +1,10 @@
 # Pradeep-Pandey13/CSS-Cheatsheets - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 61
+☋ Forks: 63
 
-★ Stars: 562
+★ Stars: 570
 
 [Open repository](https://github.com/Pradeep-Pandey13/CSS-Cheatsheets)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 570 | 63 | 
 | 2022-12-08 | 562 | 61 | 
 | 2022-12-07 | 561 | 61 | 
 | 2022-12-06 | 560 | 61 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 517 | 55 | 
 | 2022-11-11 | 516 | 55 | 
 | 2022-11-10 | 516 | 55 | 
-| 2022-11-09 | 514 | 55 | 
 

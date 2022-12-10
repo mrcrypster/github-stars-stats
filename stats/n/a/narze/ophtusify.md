@@ -1,6 +1,6 @@
 # narze/ophtusify - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 27 | 11 | 
 | 2022-12-07 | 27 | 11 | 
 | 2022-12-06 | 27 | 11 | 
 | 2022-12-05 | 27 | 11 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-13 | 27 | 11 | 
 | 2022-11-12 | 27 | 11 | 
 | 2022-11-10 | 27 | 11 | 
-| 2022-11-09 | 27 | 11 | 
 

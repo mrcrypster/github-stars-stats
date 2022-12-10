@@ -1,6 +1,6 @@
 # twbs/bootstrap-npm-starter - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 467
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 1125 | 467 | 
 | 2022-12-08 | 1125 | 467 | 
 | 2022-12-07 | 1124 | 467 | 
 | 2022-12-06 | 1124 | 467 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 1113 | 459 | 
 | 2022-11-11 | 1113 | 457 | 
 | 2022-11-10 | 1113 | 457 | 
-| 2022-11-09 | 1113 | 457 | 
 

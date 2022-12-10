@@ -1,6 +1,6 @@
 # libopencm3/libopencm3-examples - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 311
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 434 | 311 | 
 | 2022-12-07 | 434 | 311 | 
 | 2022-12-06 | 434 | 311 | 
 | 2022-12-05 | 434 | 310 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-13 | 433 | 310 | 
 | 2022-11-12 | 433 | 310 | 
 | 2022-11-11 | 432 | 310 | 
-| 2022-11-10 | 432 | 310 | 
 

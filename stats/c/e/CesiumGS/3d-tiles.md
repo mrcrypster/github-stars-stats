@@ -1,10 +1,10 @@
 # CesiumGS/3d-tiles - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 433
 
-★ Stars: 1597
+★ Stars: 1598
 
 [Open repository](https://github.com/CesiumGS/3d-tiles)
 
@@ -13,7 +13,8 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-09 | 1597 | 433 | 
+| 2022-12-10 | 1598 | 433 | 
+| 2022-12-09 | 1598 | 433 | 
 | 2022-12-08 | 1597 | 433 | 
 | 2022-12-06 | 1596 | 432 | 
 | 2022-12-05 | 1595 | 432 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-12 | 1581 | 428 | 
 | 2022-11-11 | 1581 | 428 | 
 | 2022-11-10 | 1581 | 427 | 
-| 2022-11-09 | 1580 | 427 | 
 

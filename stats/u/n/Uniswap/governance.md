@@ -1,6 +1,6 @@
 # Uniswap/governance - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 108
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 76 | 108 | 
 | 2022-12-08 | 76 | 108 | 
 | 2022-12-07 | 75 | 107 | 
 | 2022-12-05 | 75 | 107 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 75 | 108 | 
 | 2022-11-11 | 75 | 108 | 
 | 2022-11-10 | 75 | 108 | 
-| 2022-11-09 | 75 | 108 | 
 

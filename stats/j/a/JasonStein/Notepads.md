@@ -1,10 +1,10 @@
 # JasonStein/Notepads - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 405
+☋ Forks: 404
 
-★ Stars: 6967
+★ Stars: 6972
 
 [Open repository](https://github.com/JasonStein/Notepads)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 6972 | 404 | 
 | 2022-12-08 | 6967 | 405 | 
 | 2022-12-07 | 6965 | 406 | 
 | 2022-12-05 | 6959 | 405 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 6854 | 402 | 
 | 2022-11-11 | 6851 | 401 | 
 | 2022-11-10 | 6847 | 401 | 
-| 2022-11-09 | 6845 | 401 | 
 

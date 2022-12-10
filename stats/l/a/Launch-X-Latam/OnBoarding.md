@@ -1,10 +1,10 @@
 # Launch-X-Latam/OnBoarding - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 121
 
-★ Stars: 439
+★ Stars: 437
 
 [Open repository](https://github.com/Launch-X-Latam/OnBoarding)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 437 | 121 | 
 | 2022-12-08 | 439 | 121 | 
 | 2022-12-07 | 439 | 121 | 
 | 2022-12-06 | 440 | 121 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 434 | 120 | 
 | 2022-11-12 | 434 | 119 | 
 | 2022-11-10 | 433 | 118 | 
-| 2022-11-09 | 433 | 116 | 
 

@@ -1,10 +1,10 @@
 # mackron/miniaudio - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 215
+☋ Forks: 214
 
-★ Stars: 2554
+★ Stars: 2555
 
 [Open repository](https://github.com/mackron/miniaudio)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 2555 | 214 | 
 | 2022-12-08 | 2554 | 215 | 
 | 2022-12-06 | 2552 | 215 | 
 | 2022-12-05 | 2550 | 214 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 2502 | 207 | 
 | 2022-11-11 | 2501 | 207 | 
 | 2022-11-10 | 2501 | 207 | 
-| 2022-11-09 | 2499 | 207 | 
 

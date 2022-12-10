@@ -1,6 +1,6 @@
 # hashishrajan/cloud-security-vulnerabilities - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 209 | 19 | 
 | 2022-12-08 | 209 | 19 | 
 | 2022-12-07 | 209 | 19 | 
 | 2022-12-06 | 207 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 208 | 19 | 
 | 2022-11-11 | 208 | 19 | 
 | 2022-11-10 | 208 | 19 | 
-| 2022-11-09 | 208 | 19 | 
 

@@ -1,6 +1,6 @@
 # brshallo/funspotr - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 33 | - | 
 | 2022-12-08 | 33 | - | 
 | 2022-12-07 | 33 | - | 
 | 2022-12-05 | 33 | - | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 32 | - | 
 | 2022-11-11 | 32 | - | 
 | 2022-11-10 | 32 | - | 
-| 2022-11-09 | 32 | - | 
 

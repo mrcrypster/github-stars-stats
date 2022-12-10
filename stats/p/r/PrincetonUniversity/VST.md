@@ -1,6 +1,6 @@
 # PrincetonUniversity/VST - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 82
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 355 | 82 | 
 | 2022-12-08 | 355 | 82 | 
 | 2022-12-07 | 354 | 82 | 
 | 2022-12-06 | 354 | 82 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 353 | 82 | 
 | 2022-11-11 | 353 | 82 | 
 | 2022-11-10 | 353 | 82 | 
-| 2022-11-09 | 353 | 82 | 
 

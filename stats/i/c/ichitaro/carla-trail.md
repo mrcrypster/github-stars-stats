@@ -1,6 +1,6 @@
 # ichitaro/carla-trail - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 98 | 12 | 
 | 2022-12-08 | 98 | 12 | 
 | 2022-12-07 | 98 | 12 | 
 | 2022-12-05 | 98 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 96 | 11 | 
 | 2022-11-11 | 96 | 11 | 
 | 2022-11-10 | 96 | 11 | 
-| 2022-11-09 | 96 | 11 | 
 

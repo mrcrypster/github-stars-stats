@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-efs - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 126
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 73 | 126 | 
 | 2022-12-08 | 73 | 126 | 
 | 2022-12-06 | 73 | 126 | 
 | 2022-12-05 | 73 | 126 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 72 | 125 | 
 | 2022-11-12 | 72 | 125 | 
 | 2022-11-11 | 72 | 125 | 
-| 2022-11-10 | 72 | 125 | 
 

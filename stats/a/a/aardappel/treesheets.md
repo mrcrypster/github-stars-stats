@@ -1,8 +1,8 @@
 # aardappel/treesheets - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 161
+☋ Forks: 160
 
 ★ Stars: 1937
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 1937 | 160 | 
 | 2022-12-08 | 1937 | 161 | 
 | 2022-12-06 | 1933 | 160 | 
 | 2022-12-05 | 1932 | 160 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 1916 | 160 | 
 | 2022-11-11 | 1916 | 160 | 
 | 2022-11-10 | 1916 | 160 | 
-| 2022-11-09 | 1915 | 160 | 
 

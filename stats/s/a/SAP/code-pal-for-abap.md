@@ -1,6 +1,6 @@
 # SAP/code-pal-for-abap - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 230 | 51 | 
 | 2022-12-08 | 230 | 51 | 
 | 2022-12-07 | 230 | 51 | 
 | 2022-12-06 | 230 | 51 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 228 | 50 | 
 | 2022-11-11 | 228 | 50 | 
 | 2022-11-10 | 228 | 50 | 
-| 2022-11-09 | 228 | 50 | 
 

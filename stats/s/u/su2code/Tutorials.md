@@ -1,10 +1,10 @@
 # su2code/Tutorials - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 86
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/su2code/Tutorials)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 10 | 86 | 
 | 2022-12-08 | 9 | 86 | 
 | 2022-12-07 | 9 | 85 | 
 | 2022-12-05 | 9 | 84 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 9 | 83 | 
 | 2022-11-12 | 9 | 83 | 
 | 2022-11-11 | 9 | 83 | 
-| 2022-11-10 | 9 | 83 | 
 

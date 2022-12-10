@@ -1,10 +1,10 @@
 # jacobhilton/deep_learning_curriculum - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 31
 
-★ Stars: 526
+★ Stars: 527
 
 [Open repository](https://github.com/jacobhilton/deep_learning_curriculum)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 527 | 31 | 
 | 2022-12-08 | 526 | 31 | 
 | 2022-12-06 | 522 | 31 | 
 | 2022-12-05 | 520 | 31 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 506 | 29 | 
 | 2022-11-11 | 505 | 29 | 
 | 2022-11-10 | 504 | 29 | 
-| 2022-11-09 | 503 | 29 | 
 

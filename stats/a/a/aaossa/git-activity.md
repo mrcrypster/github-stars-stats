@@ -1,10 +1,10 @@
 # aaossa/git-activity - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 6
 
-★ Stars: 135
+★ Stars: 136
 
 [Open repository](https://github.com/aaossa/git-activity)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 136 | 6 | 
 | 2022-12-08 | 135 | 6 | 
 | 2022-12-06 | 135 | 6 | 
 | 2022-12-05 | 135 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 133 | 6 | 
 | 2022-11-11 | 133 | 6 | 
 | 2022-11-10 | 133 | 6 | 
-| 2022-11-09 | 133 | 6 | 
 

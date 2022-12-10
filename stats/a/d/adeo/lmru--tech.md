@@ -1,10 +1,10 @@
 # adeo/lmru--tech - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 13
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/adeo/lmru--tech)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 21 | 13 | 
 | 2022-12-08 | 20 | 13 | 
 | 2022-12-06 | 20 | 13 | 
 | 2022-12-05 | 20 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 19 | 13 | 
 | 2022-11-11 | 19 | 13 | 
 | 2022-11-10 | 19 | 13 | 
-| 2022-11-09 | 19 | 13 | 
 

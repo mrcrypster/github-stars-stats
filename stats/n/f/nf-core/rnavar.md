@@ -1,10 +1,10 @@
 # nf-core/rnavar - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 14
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/nf-core/rnavar)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 14 | 14 | 
 | 2022-12-08 | 13 | 14 | 
 | 2022-12-07 | 13 | 14 | 
 | 2022-12-06 | 13 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 13 | 12 | 
 | 2022-11-11 | 13 | 12 | 
 | 2022-11-10 | 13 | 12 | 
-| 2022-11-09 | 13 | 12 | 
 

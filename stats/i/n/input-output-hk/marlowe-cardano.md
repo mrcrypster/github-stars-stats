@@ -1,6 +1,6 @@
 # input-output-hk/marlowe-cardano - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 66 | 27 | 
 | 2022-12-08 | 66 | 27 | 
 | 2022-12-07 | 66 | 27 | 
 | 2022-12-06 | 66 | 27 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 63 | 25 | 
 | 2022-11-11 | 63 | 25 | 
 | 2022-11-10 | 63 | 26 | 
-| 2022-11-09 | 63 | 26 | 
 

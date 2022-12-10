@@ -1,6 +1,6 @@
 # 9bie/sshdHooker - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 215 | 26 | 
 | 2022-12-08 | 215 | 26 | 
 | 2022-12-07 | 215 | 26 | 
 | 2022-12-06 | 215 | 26 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 208 | 24 | 
 | 2022-11-11 | 208 | 24 | 
 | 2022-11-10 | 208 | 24 | 
-| 2022-11-09 | 209 | 24 | 
 

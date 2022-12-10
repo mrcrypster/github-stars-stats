@@ -1,10 +1,10 @@
 # leoFitz1024/wallhaven - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 60
 
-★ Stars: 579
+★ Stars: 581
 
 [Open repository](https://github.com/leoFitz1024/wallhaven)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 581 | 60 | 
 | 2022-12-08 | 579 | 60 | 
 | 2022-12-07 | 578 | 60 | 
 | 2022-12-05 | 577 | 60 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 566 | 59 | 
 | 2022-11-11 | 565 | 59 | 
 | 2022-11-10 | 563 | 58 | 
-| 2022-11-09 | 563 | 58 | 
 

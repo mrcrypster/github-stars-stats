@@ -1,6 +1,6 @@
 # natefaubion/purescript-variant - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 128 | 19 | 
 | 2022-12-08 | 128 | 19 | 
 | 2022-12-07 | 128 | 19 | 
 | 2022-12-06 | 128 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 128 | 19 | 
 | 2022-11-11 | 128 | 19 | 
 | 2022-11-10 | 128 | 19 | 
-| 2022-11-09 | 128 | 19 | 
 

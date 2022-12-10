@@ -1,10 +1,10 @@
 # axboe/liburing - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 269
+☋ Forks: 270
 
-★ Stars: 1763
+★ Stars: 1767
 
 [Open repository](https://github.com/axboe/liburing)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 1767 | 270 | 
 | 2022-12-08 | 1763 | 269 | 
 | 2022-12-07 | 1760 | 268 | 
 | 2022-12-06 | 1760 | 268 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 1711 | 261 | 
 | 2022-11-11 | 1711 | 261 | 
 | 2022-11-10 | 1710 | 261 | 
-| 2022-11-09 | 1709 | 261 | 
 

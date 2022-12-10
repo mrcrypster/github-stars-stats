@@ -1,10 +1,10 @@
 # ibhagwan/fzf-lua - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 57
+☋ Forks: 58
 
-★ Stars: 858
+★ Stars: 860
 
 [Open repository](https://github.com/ibhagwan/fzf-lua)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 860 | 58 | 
 | 2022-12-08 | 858 | 57 | 
 | 2022-12-06 | 857 | 57 | 
 | 2022-12-05 | 856 | 57 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 825 | 58 | 
 | 2022-11-11 | 825 | 58 | 
 | 2022-11-10 | 825 | 57 | 
-| 2022-11-09 | 821 | 57 | 
 

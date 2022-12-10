@@ -1,6 +1,6 @@
 # Moonlight-Zhao/go-project-example - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 89
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 147 | 89 | 
 | 2022-12-08 | 147 | 89 | 
 | 2022-12-07 | 147 | 89 | 
 | 2022-12-05 | 147 | 90 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 146 | 89 | 
 | 2022-11-11 | 146 | 89 | 
 | 2022-11-10 | 146 | 89 | 
-| 2022-11-09 | 145 | 89 | 
 

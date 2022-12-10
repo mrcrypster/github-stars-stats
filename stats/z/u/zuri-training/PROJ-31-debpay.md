@@ -1,6 +1,6 @@
 # zuri-training/PROJ-31-debpay - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 6 | 23 | 
 | 2022-12-08 | 6 | 23 | 
 | 2022-12-07 | 6 | 23 | 
 | 2022-12-05 | 6 | 23 | 

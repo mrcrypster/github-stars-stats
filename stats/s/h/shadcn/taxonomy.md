@@ -1,10 +1,10 @@
 # shadcn/taxonomy - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 196
+☋ Forks: 200
 
-★ Stars: 3515
+★ Stars: 3529
 
 [Open repository](https://github.com/shadcn/taxonomy)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 3529 | 200 | 
 | 2022-12-08 | 3515 | 196 | 
 | 2022-12-07 | 3497 | 195 | 
 | 2022-12-06 | 3483 | 192 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 2211 | 96 | 
 | 2022-11-11 | 2196 | 95 | 
 | 2022-11-10 | 2156 | 94 | 
-| 2022-11-09 | 2091 | 91 | 
 

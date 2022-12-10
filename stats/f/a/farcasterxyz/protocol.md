@@ -1,10 +1,10 @@
 # farcasterxyz/protocol - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 44
 
-★ Stars: 1013
+★ Stars: 1019
 
 [Open repository](https://github.com/farcasterxyz/protocol)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 1019 | 44 | 
 | 2022-12-08 | 1013 | 44 | 
 | 2022-12-07 | 1004 | 44 | 
 | 2022-12-05 | 993 | 43 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 805 | 34 | 
 | 2022-11-11 | 801 | 33 | 
 | 2022-11-10 | 793 | 33 | 
-| 2022-11-09 | 788 | 33 | 
 

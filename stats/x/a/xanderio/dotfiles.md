@@ -1,10 +1,10 @@
 # xanderio/dotfiles - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 0
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/xanderio/dotfiles)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 4 | - | 
 | 2022-12-08 | 3 | - | 
 | 2022-12-07 | 3 | - | 
 | 2022-12-05 | 3 | - | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 3 | - | 
 | 2022-11-11 | 3 | - | 
 | 2022-11-10 | 3 | - | 
-| 2022-11-09 | 3 | - | 
 

@@ -1,10 +1,10 @@
 # minimal-ui-kit/material-kit-react - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 883
+☋ Forks: 886
 
-★ Stars: 1297
+★ Stars: 1298
 
 [Open repository](https://github.com/minimal-ui-kit/material-kit-react)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 1298 | 886 | 
 | 2022-12-08 | 1297 | 883 | 
 | 2022-12-07 | 1295 | 880 | 
 | 2022-12-06 | 1293 | 876 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 1248 | 843 | 
 | 2022-11-11 | 1244 | 841 | 
 | 2022-11-10 | 1242 | 840 | 
-| 2022-11-09 | 1239 | 837 | 
 

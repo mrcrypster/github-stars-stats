@@ -1,10 +1,10 @@
 # benvp/ex_cva - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 0
 
-★ Stars: 39
+★ Stars: 40
 
 [Open repository](https://github.com/benvp/ex_cva)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 40 | - | 
 | 2022-12-08 | 39 | - | 
 | 2022-12-07 | 39 | - | 
 | 2022-12-06 | 37 | - | 

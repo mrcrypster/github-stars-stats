@@ -1,6 +1,6 @@
 # algoritmos-iii/ejercicios-2022-2c - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 6 | 14 | 
 | 2022-12-08 | 6 | 14 | 
 | 2022-12-07 | 6 | 14 | 
 | 2022-12-06 | 6 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 6 | 11 | 
 | 2022-11-12 | 6 | 11 | 
 | 2022-11-10 | 6 | 11 | 
-| 2022-11-09 | 6 | 11 | 
 

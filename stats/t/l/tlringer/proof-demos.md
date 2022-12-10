@@ -1,6 +1,6 @@
 # tlringer/proof-demos - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 39 | 1 | 
 | 2022-12-08 | 39 | 1 | 
 | 2022-12-07 | 38 | 1 | 
 | 2022-12-06 | 38 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 38 | 1 | 
 | 2022-11-11 | 38 | 1 | 
 | 2022-11-10 | 38 | 1 | 
-| 2022-11-09 | 38 | 1 | 
 

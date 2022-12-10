@@ -1,10 +1,10 @@
 # MaximumADHD/sm64-roblox - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 3
 
-★ Stars: 23
+★ Stars: 22
 
 [Open repository](https://github.com/MaximumADHD/sm64-roblox)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 22 | 3 | 
 | 2022-12-08 | 23 | 3 | 
 | 2022-12-07 | 22 | 3 | 
 | 2022-12-06 | 21 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 16 | 3 | 
 | 2022-11-11 | 16 | 3 | 
 | 2022-11-10 | 16 | 3 | 
-| 2022-11-09 | 16 | 3 | 
 

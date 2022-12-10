@@ -1,6 +1,6 @@
 # ethereum/legacytests - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 15 | 6 | 
 | 2022-12-08 | 15 | 6 | 
 | 2022-12-07 | 15 | 6 | 
 | 2022-12-06 | 15 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 13 | 6 | 
 | 2022-11-11 | 13 | 6 | 
 | 2022-11-10 | 13 | 6 | 
-| 2022-11-09 | 13 | 6 | 
 

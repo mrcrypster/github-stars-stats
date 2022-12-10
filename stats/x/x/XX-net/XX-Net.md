@@ -1,8 +1,8 @@
 # XX-net/XX-Net - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 7766
+☋ Forks: 7764
 
 ★ Stars: 31538
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 31538 | 7764 | 
 | 2022-12-08 | 31538 | 7766 | 
 | 2022-12-07 | 31536 | 7766 | 
 | 2022-12-06 | 31532 | 7765 | 

@@ -1,10 +1,10 @@
 # OffchainLabs/nitro - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 87
 
-★ Stars: 180
+★ Stars: 183
 
 [Open repository](https://github.com/OffchainLabs/nitro)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 183 | 87 | 
 | 2022-12-08 | 180 | 87 | 
 | 2022-12-07 | 180 | 87 | 
 | 2022-12-05 | 178 | 85 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 163 | 77 | 
 | 2022-11-11 | 163 | 78 | 
 | 2022-11-10 | 163 | 75 | 
-| 2022-11-09 | 162 | 74 | 
 

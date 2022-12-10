@@ -1,6 +1,6 @@
 # tldr-devops/startpack - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 1069 | 50 | 
 | 2022-12-08 | 1069 | 50 | 
 | 2022-12-07 | 1068 | 50 | 
 | 2022-12-06 | 1069 | 50 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 1063 | 50 | 
 | 2022-11-11 | 1063 | 50 | 
 | 2022-11-10 | 1061 | 50 | 
-| 2022-11-09 | 1061 | 50 | 
 

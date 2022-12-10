@@ -1,10 +1,10 @@
 # harendra-shakya/uniswap-unwrapped - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 12
 
-★ Stars: 61
+★ Stars: 64
 
 [Open repository](https://github.com/harendra-shakya/uniswap-unwrapped)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 64 | 12 | 
 | 2022-12-08 | 61 | 12 | 
 | 2022-12-07 | 58 | 12 | 
 | 2022-12-06 | 56 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 48 | 10 | 
 | 2022-11-12 | 48 | 10 | 
 | 2022-11-11 | 48 | 10 | 
-| 2022-11-10 | 48 | 10 | 
 

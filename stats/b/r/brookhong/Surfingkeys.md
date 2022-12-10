@@ -1,6 +1,6 @@
 # brookhong/Surfingkeys - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 442
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 4339 | 442 | 
 | 2022-12-08 | 4339 | 442 | 
 | 2022-12-07 | 4337 | 441 | 
 | 2022-12-06 | 4336 | 441 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 4306 | 440 | 
 | 2022-11-12 | 4305 | 440 | 
 | 2022-11-10 | 4303 | 440 | 
-| 2022-11-09 | 4300 | 440 | 
 

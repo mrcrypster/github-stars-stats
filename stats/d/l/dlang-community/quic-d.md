@@ -1,6 +1,6 @@
 # dlang-community/quic-d - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 8 | - | 
 | 2022-12-07 | 8 | - | 
 | 2022-12-06 | 8 | - | 
 | 2022-12-05 | 8 | - | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-13 | 8 | - | 
 | 2022-11-12 | 8 | - | 
 | 2022-11-10 | 8 | - | 
-| 2022-11-09 | 8 | - | 
 

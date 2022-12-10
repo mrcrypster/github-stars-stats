@@ -1,10 +1,10 @@
 # bubelov/news - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 20
 
-★ Stars: 246
+★ Stars: 247
 
 [Open repository](https://github.com/bubelov/news)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 247 | 20 | 
 | 2022-12-08 | 246 | 20 | 
 | 2022-12-06 | 244 | 20 | 
 | 2022-12-05 | 244 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 227 | 19 | 
 | 2022-11-11 | 228 | 19 | 
 | 2022-11-10 | 228 | 19 | 
-| 2022-11-09 | 227 | 19 | 
 

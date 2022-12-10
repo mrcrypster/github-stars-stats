@@ -1,10 +1,10 @@
 # sam-goodwin/typesafe-dynamodb - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 7
 
-★ Stars: 158
+★ Stars: 159
 
 [Open repository](https://github.com/sam-goodwin/typesafe-dynamodb)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 159 | 7 | 
 | 2022-12-08 | 158 | 7 | 
 | 2022-12-07 | 157 | 7 | 
 | 2022-12-05 | 157 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 155 | 7 | 
 | 2022-11-11 | 155 | 7 | 
 | 2022-11-10 | 155 | 7 | 
-| 2022-11-09 | 155 | 7 | 
 

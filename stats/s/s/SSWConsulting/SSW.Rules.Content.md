@@ -1,8 +1,8 @@
 # SSWConsulting/SSW.Rules.Content - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 113
+☋ Forks: 114
 
 ★ Stars: 28
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 28 | 114 | 
 | 2022-12-08 | 28 | 113 | 
 | 2022-12-07 | 27 | 113 | 
 | 2022-12-06 | 27 | 113 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 24 | 109 | 
 | 2022-11-11 | 24 | 109 | 
 | 2022-11-10 | 24 | 109 | 
-| 2022-11-09 | 24 | 109 | 
 

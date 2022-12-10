@@ -1,10 +1,10 @@
 # facebookresearch/moco - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 691
+☋ Forks: 693
 
-★ Stars: 3689
+★ Stars: 3691
 
 [Open repository](https://github.com/facebookresearch/moco)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 3691 | 693 | 
 | 2022-12-08 | 3689 | 691 | 
 | 2022-12-07 | 3689 | 691 | 
 | 2022-12-05 | 3684 | 691 | 

@@ -1,10 +1,10 @@
 # openvinotoolkit/openvino_notebooks - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 318
+☋ Forks: 319
 
-★ Stars: 819
+★ Stars: 820
 
 [Open repository](https://github.com/openvinotoolkit/openvino_notebooks)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 820 | 319 | 
 | 2022-12-08 | 819 | 318 | 
 | 2022-12-07 | 818 | 317 | 
 | 2022-12-05 | 818 | 314 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 790 | 295 | 
 | 2022-11-11 | 790 | 295 | 
 | 2022-11-10 | 790 | 294 | 
-| 2022-11-09 | 790 | 293 | 
 

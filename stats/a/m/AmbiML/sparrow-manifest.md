@@ -1,10 +1,10 @@
 # AmbiML/sparrow-manifest - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 51
+☋ Forks: 52
 
-★ Stars: 1478
+★ Stars: 1480
 
 [Open repository](https://github.com/AmbiML/sparrow-manifest)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 1480 | 52 | 
 | 2022-12-08 | 1478 | 51 | 
 | 2022-12-07 | 1476 | 51 | 
 | 2022-12-06 | 1476 | 51 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 1341 | 44 | 
 | 2022-11-11 | 1338 | 44 | 
 | 2022-11-10 | 1339 | 44 | 
-| 2022-11-09 | 1337 | 44 | 
 

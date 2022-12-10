@@ -1,10 +1,10 @@
 # boyan01/flutter-netease-music - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 756
+☋ Forks: 757
 
-★ Stars: 3080
+★ Stars: 3085
 
 [Open repository](https://github.com/boyan01/flutter-netease-music)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 3085 | 757 | 
 | 2022-12-08 | 3080 | 756 | 
 | 2022-12-06 | 3077 | 755 | 
 | 2022-12-05 | 3075 | 752 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 3041 | 746 | 
 | 2022-11-12 | 3041 | 745 | 
 | 2022-11-11 | 3040 | 745 | 
-| 2022-11-10 | 3038 | 745 | 
 

@@ -1,6 +1,6 @@
 # vinijmoura/Azure-DevOps - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 149
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 566 | 149 | 
 | 2022-12-08 | 566 | 149 | 
 | 2022-12-07 | 565 | 148 | 
 | 2022-12-05 | 565 | 147 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 554 | 144 | 
 | 2022-11-11 | 554 | 144 | 
 | 2022-11-10 | 553 | 144 | 
-| 2022-11-09 | 553 | 144 | 
 

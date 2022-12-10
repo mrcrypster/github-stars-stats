@@ -1,10 +1,10 @@
 # nunocoracao/blowfish - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 45
+☋ Forks: 46
 
-★ Stars: 166
+★ Stars: 169
 
 [Open repository](https://github.com/nunocoracao/blowfish)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 169 | 46 | 
 | 2022-12-08 | 166 | 45 | 
 | 2022-12-07 | 164 | 45 | 
 | 2022-12-05 | 162 | 44 | 

@@ -1,6 +1,6 @@
 # hanoglu/TermiC - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 146 | 3 | 
 | 2022-12-08 | 146 | 3 | 
 | 2022-12-07 | 146 | 3 | 
 | 2022-12-05 | 146 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 146 | 3 | 
 | 2022-11-11 | 146 | 3 | 
 | 2022-11-10 | 145 | 3 | 
-| 2022-11-09 | 145 | 3 | 
 

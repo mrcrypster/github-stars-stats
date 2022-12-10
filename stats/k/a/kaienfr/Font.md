@@ -1,10 +1,10 @@
 # kaienfr/Font - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
-☋ Forks: 255
+☋ Forks: 254
 
-★ Stars: 197
+★ Stars: 198
 
 [Open repository](https://github.com/kaienfr/Font)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 198 | 254 | 
+| 2022-12-09 | 198 | 254 | 
 | 2022-12-08 | 197 | 255 | 
 | 2022-12-07 | 197 | 254 | 
 | 2022-12-05 | 197 | 254 | 
@@ -40,5 +42,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 192 | 249 | 
 | 2022-11-11 | 192 | 249 | 
 | 2022-11-10 | 192 | 249 | 
-| 2022-11-09 | 190 | 249 | 
 

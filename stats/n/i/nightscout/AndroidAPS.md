@@ -1,6 +1,6 @@
 # nightscout/AndroidAPS - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 792
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 411 | 792 | 
 | 2022-12-08 | 411 | 792 | 
 | 2022-12-07 | 410 | 792 | 
 | 2022-12-06 | 409 | 791 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 402 | 788 | 
 | 2022-11-11 | 402 | 786 | 
 | 2022-11-10 | 402 | 784 | 
-| 2022-11-09 | 401 | 784 | 
 

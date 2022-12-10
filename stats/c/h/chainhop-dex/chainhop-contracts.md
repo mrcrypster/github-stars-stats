@@ -1,6 +1,6 @@
 # chainhop-dex/chainhop-contracts - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 40 | 22 | 
 | 2022-12-07 | 40 | 22 | 
 | 2022-12-06 | 39 | 22 | 
 | 2022-12-05 | 38 | 22 | 

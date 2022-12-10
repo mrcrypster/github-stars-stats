@@ -1,10 +1,10 @@
 # ray-cast/ray-mmd - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
-☋ Forks: 542
+☋ Forks: 543
 
-★ Stars: 1402
+★ Stars: 1401
 
 [Open repository](https://github.com/ray-cast/ray-mmd)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 1401 | 543 | 
 | 2022-12-08 | 1402 | 542 | 
 | 2022-12-07 | 1400 | 542 | 
 | 2022-12-06 | 1400 | 542 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 1390 | 540 | 
 | 2022-11-11 | 1389 | 540 | 
 | 2022-11-10 | 1389 | 540 | 
-| 2022-11-09 | 1387 | 540 | 
 

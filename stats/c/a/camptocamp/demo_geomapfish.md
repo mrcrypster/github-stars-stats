@@ -1,6 +1,6 @@
 # camptocamp/demo_geomapfish - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 7 | 15 | 
 | 2022-12-08 | 7 | 15 | 
 | 2022-12-07 | 7 | 15 | 
 | 2022-12-06 | 7 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 6 | 15 | 
 | 2022-11-11 | 6 | 15 | 
 | 2022-11-10 | 6 | 15 | 
-| 2022-11-09 | 6 | 15 | 
 

@@ -1,6 +1,6 @@
 # ethz-asl/kalibr - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 1180
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 3066 | 1180 | 
 | 2022-12-08 | 3066 | 1180 | 
 | 2022-12-07 | 3063 | 1180 | 
 | 2022-12-05 | 3060 | 1179 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 3012 | 1170 | 
 | 2022-11-11 | 3010 | 1170 | 
 | 2022-11-10 | 3010 | 1169 | 
-| 2022-11-09 | 3008 | 1167 | 
 

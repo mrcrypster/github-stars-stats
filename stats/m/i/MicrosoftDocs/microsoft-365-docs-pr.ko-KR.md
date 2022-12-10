@@ -1,10 +1,10 @@
 # MicrosoftDocs/microsoft-365-docs-pr.ko-KR - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 9
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/MicrosoftDocs/microsoft-365-docs-pr.ko-KR)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 10 | 9 | 
 | 2022-12-08 | 9 | 9 | 
 | 2022-12-06 | 9 | 9 | 
 | 2022-12-05 | 9 | 9 | 

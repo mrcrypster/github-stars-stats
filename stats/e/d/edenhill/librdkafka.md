@@ -1,10 +1,10 @@
 # edenhill/librdkafka - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
-☋ Forks: 2889
+☋ Forks: 2890
 
-★ Stars: 6369
+★ Stars: 6374
 
 [Open repository](https://github.com/edenhill/librdkafka)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 6374 | 2890 | 
+| 2022-12-09 | 6374 | 2890 | 
 | 2022-12-08 | 6369 | 2889 | 
 | 2022-12-07 | 6362 | 2889 | 
 | 2022-12-05 | 6357 | 2890 | 
@@ -41,5 +43,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 6289 | 2882 | 
 | 2022-11-11 | 6289 | 2881 | 
 | 2022-11-10 | 6286 | 2882 | 
-| 2022-11-09 | 6286 | 2881 | 
 

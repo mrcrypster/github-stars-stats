@@ -1,10 +1,10 @@
 # VEuPathDB/ApiCommonWebsite - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 1
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/VEuPathDB/ApiCommonWebsite)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 5 | 1 | 
 | 2022-12-08 | 4 | 1 | 
 | 2022-12-07 | 4 | 1 | 
 | 2022-12-05 | 4 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 4 | 1 | 
 | 2022-11-11 | 4 | 1 | 
 | 2022-11-10 | 4 | 1 | 
-| 2022-11-09 | 4 | 1 | 
 

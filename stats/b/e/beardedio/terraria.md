@@ -1,10 +1,10 @@
 # beardedio/terraria - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 46
 
-★ Stars: 72
+★ Stars: 73
 
 [Open repository](https://github.com/beardedio/terraria)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 73 | 46 | 
 | 2022-12-08 | 72 | 46 | 
 | 2022-12-07 | 72 | 46 | 
 | 2022-12-06 | 72 | 46 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 71 | 46 | 
 | 2022-11-12 | 71 | 46 | 
 | 2022-11-10 | 71 | 45 | 
-| 2022-11-09 | 70 | 44 | 
 

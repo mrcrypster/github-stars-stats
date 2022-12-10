@@ -1,10 +1,10 @@
 # pietroborrello/CustomProcessingUnit - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 9
+☋ Forks: 10
 
-★ Stars: 240
+★ Stars: 242
 
 [Open repository](https://github.com/pietroborrello/CustomProcessingUnit)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 242 | 10 | 
 | 2022-12-08 | 240 | 9 | 
 | 2022-12-07 | 239 | 9 | 
 | 2022-12-06 | 238 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 157 | 7 | 
 | 2022-11-11 | 157 | 7 | 
 | 2022-11-10 | 157 | 7 | 
-| 2022-11-09 | 157 | 7 | 
 

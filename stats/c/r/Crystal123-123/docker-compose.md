@@ -1,6 +1,6 @@
 # Crystal123-123/docker-compose - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 80
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | - | 80 | 
 | 2022-12-07 | - | 80 | 
 | 2022-12-06 | - | 80 | 
 | 2022-12-05 | - | 80 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-13 | - | 81 | 
 | 2022-11-12 | - | 81 | 
 | 2022-11-11 | - | 81 | 
-| 2022-11-10 | - | 81 | 
 

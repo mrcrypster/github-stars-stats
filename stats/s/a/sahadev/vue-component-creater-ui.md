@@ -1,6 +1,6 @@
 # sahadev/vue-component-creater-ui - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 137
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 454 | 137 | 
 | 2022-12-08 | 454 | 137 | 
 | 2022-12-07 | 454 | 138 | 
 | 2022-12-06 | 452 | 138 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 435 | 130 | 
 | 2022-11-12 | 435 | 130 | 
 | 2022-11-10 | 434 | 130 | 
-| 2022-11-09 | 433 | 130 | 
 

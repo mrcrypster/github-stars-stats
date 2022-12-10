@@ -1,10 +1,10 @@
 # Kiwi233/Translation-of-GTNH - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 45
 
-★ Stars: 216
+★ Stars: 215
 
 [Open repository](https://github.com/Kiwi233/Translation-of-GTNH)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 215 | 45 | 
 | 2022-12-08 | 216 | 45 | 
 | 2022-12-07 | 216 | 45 | 
 | 2022-12-06 | 216 | 45 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 213 | 45 | 
 | 2022-11-11 | 213 | 45 | 
 | 2022-11-10 | 213 | 45 | 
-| 2022-11-09 | 213 | 45 | 
 

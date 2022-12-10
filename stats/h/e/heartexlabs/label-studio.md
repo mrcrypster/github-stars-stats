@@ -1,10 +1,10 @@
 # heartexlabs/label-studio - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
-☋ Forks: 1316
+☋ Forks: 1317
 
-★ Stars: 11434
+★ Stars: 11441
 
 [Open repository](https://github.com/heartexlabs/label-studio)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 11441 | 1317 | 
 | 2022-12-08 | 11434 | 1316 | 
 | 2022-12-07 | 11423 | 1314 | 
 | 2022-12-06 | 11412 | 1314 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 11188 | 1290 | 
 | 2022-11-11 | 11185 | 1289 | 
 | 2022-11-10 | 11180 | 1289 | 
-| 2022-11-09 | 11168 | 1287 | 
 

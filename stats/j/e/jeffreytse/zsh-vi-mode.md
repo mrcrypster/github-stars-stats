@@ -1,10 +1,10 @@
 # jeffreytse/zsh-vi-mode - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 61
 
-★ Stars: 1594
+★ Stars: 1596
 
 [Open repository](https://github.com/jeffreytse/zsh-vi-mode)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 1596 | 61 | 
 | 2022-12-08 | 1594 | 61 | 
 | 2022-12-07 | 1592 | 60 | 
 | 2022-12-05 | 1587 | 60 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 1537 | 55 | 
 | 2022-11-11 | 1533 | 55 | 
 | 2022-11-10 | 1533 | 54 | 
-| 2022-11-09 | 1530 | 54 | 
 

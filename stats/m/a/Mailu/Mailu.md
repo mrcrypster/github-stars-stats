@@ -1,10 +1,10 @@
 # Mailu/Mailu - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 682
 
-★ Stars: 4096
+★ Stars: 4102
 
 [Open repository](https://github.com/Mailu/Mailu)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 4102 | 682 | 
 | 2022-12-08 | 4096 | 682 | 
 | 2022-12-07 | 4090 | 682 | 
 | 2022-12-05 | 4087 | 683 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 4039 | 679 | 
 | 2022-11-11 | 4036 | 678 | 
 | 2022-11-10 | 4037 | 679 | 
-| 2022-11-09 | 4038 | 678 | 
 

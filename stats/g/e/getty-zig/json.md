@@ -1,10 +1,10 @@
 # getty-zig/json - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 3
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/getty-zig/json)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 28 | 3 | 
 | 2022-12-08 | 27 | 3 | 
 | 2022-12-07 | 25 | 3 | 
 

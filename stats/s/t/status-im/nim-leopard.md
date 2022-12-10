@@ -1,0 +1,17 @@
+# status-im/nim-leopard - stars & forks statistics
+
+Stats updated on Dec 2022, 09
+
+☋ Forks: 2
+
+★ Stars: 2
+
+[Open repository](https://github.com/status-im/nim-leopard)
+
+[Open detailed stats for status-im/nim-leopard](https://reviewgithub.com/rep/status-im/nim-leopard)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-12-09 | 2 | 2 | 
+

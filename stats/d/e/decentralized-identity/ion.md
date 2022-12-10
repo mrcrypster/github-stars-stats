@@ -1,10 +1,10 @@
 # decentralized-identity/ion - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 156
+☋ Forks: 157
 
-★ Stars: 1132
+★ Stars: 1133
 
 [Open repository](https://github.com/decentralized-identity/ion)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 1133 | 157 | 
 | 2022-12-08 | 1132 | 156 | 
 | 2022-12-07 | 1132 | 156 | 
 | 2022-12-06 | 1132 | 156 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 1116 | 156 | 
 | 2022-11-11 | 1116 | 156 | 
 | 2022-11-10 | 1116 | 156 | 
-| 2022-11-09 | 1116 | 156 | 
 

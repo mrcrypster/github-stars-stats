@@ -1,6 +1,6 @@
 # quantum-compiler/quartz - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 49 | 9 | 
 | 2022-12-08 | 49 | 9 | 
 | 2022-12-07 | 49 | 9 | 
 | 2022-12-05 | 49 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 47 | 7 | 
 | 2022-11-11 | 47 | 7 | 
 | 2022-11-10 | 47 | 7 | 
-| 2022-11-09 | 46 | 7 | 
 

@@ -1,10 +1,10 @@
 # fzyzcjy/flutter_rust_bridge - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 115
+☋ Forks: 117
 
-★ Stars: 1993
+★ Stars: 2008
 
 [Open repository](https://github.com/fzyzcjy/flutter_rust_bridge)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 2008 | 117 | 
 | 2022-12-08 | 1993 | 115 | 
 | 2022-12-06 | 1975 | 114 | 
 | 2022-12-05 | 1967 | 113 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 1907 | 110 | 
 | 2022-11-11 | 1904 | 110 | 
 | 2022-11-10 | 1901 | 110 | 
-| 2022-11-09 | 1897 | 110 | 
 

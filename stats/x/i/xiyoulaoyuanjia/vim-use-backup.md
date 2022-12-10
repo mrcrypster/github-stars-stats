@@ -1,0 +1,17 @@
+# xiyoulaoyuanjia/vim-use-backup - stars & forks statistics
+
+Stats updated on Dec 2022, 09
+
+☋ Forks: 1
+
+★ Stars: 1
+
+[Open repository](https://github.com/xiyoulaoyuanjia/vim-use-backup)
+
+[Open detailed stats for xiyoulaoyuanjia/vim-use-backup](https://reviewgithub.com/rep/xiyoulaoyuanjia/vim-use-backup)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-12-09 | 1 | 1 | 
+

@@ -1,6 +1,6 @@
 # microsoft/wil - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 184
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 2129 | 184 | 
 | 2022-12-08 | 2129 | 184 | 
 | 2022-12-07 | 2130 | 184 | 
 | 2022-12-06 | 2128 | 184 | 

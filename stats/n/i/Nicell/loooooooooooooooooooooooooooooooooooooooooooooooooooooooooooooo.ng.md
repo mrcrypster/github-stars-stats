@@ -1,10 +1,10 @@
 # Nicell/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ng - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 4
 
-★ Stars: 118
+★ Stars: 119
 
 [Open repository](https://github.com/Nicell/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ng)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 119 | 4 | 
 | 2022-12-08 | 118 | 4 | 
 | 2022-12-06 | 118 | 4 | 
 | 2022-12-05 | 115 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 109 | 4 | 
 | 2022-11-11 | 109 | 4 | 
 | 2022-11-10 | 109 | 4 | 
-| 2022-11-09 | 109 | 4 | 
 

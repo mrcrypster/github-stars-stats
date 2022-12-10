@@ -1,10 +1,10 @@
 # pedestal/pedestal - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 298
 
-★ Stars: 2562
+★ Stars: 2563
 
 [Open repository](https://github.com/pedestal/pedestal)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 2563 | 298 | 
 | 2022-12-07 | 2562 | 298 | 
 | 2022-12-06 | 2562 | 298 | 
 | 2022-12-05 | 2562 | 298 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 2555 | 297 | 
 | 2022-11-11 | 2555 | 297 | 
 | 2022-11-10 | 2555 | 297 | 
-| 2022-11-09 | 2555 | 297 | 
 

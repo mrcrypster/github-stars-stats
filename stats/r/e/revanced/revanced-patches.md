@@ -1,10 +1,10 @@
 # revanced/revanced-patches - stars & forks statistics
 
-Stats updated on Dec 2022, 07
+Stats updated on Dec 2022, 09
 
-☋ Forks: 248
+☋ Forks: 3
 
-★ Stars: 2043
+★ Stars: 2052
 
 [Open repository](https://github.com/revanced/revanced-patches)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 2052 | 3 | 
 | 2022-12-07 | 2043 | 248 | 
 | 2022-12-06 | 2039 | 247 | 
 | 2022-12-05 | 2035 | 248 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 07
 | 2022-11-12 | 1868 | 225 | 
 | 2022-11-11 | 1859 | 223 | 
 | 2022-11-10 | 1850 | 223 | 
-| 2022-11-09 | 1842 | 223 | 
 

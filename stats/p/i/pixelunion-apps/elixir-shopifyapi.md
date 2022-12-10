@@ -1,6 +1,6 @@
 # pixelunion-apps/elixir-shopifyapi - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 23 | 5 | 
 | 2022-12-08 | 23 | 5 | 
 | 2022-12-06 | 23 | 5 | 
 | 2022-12-04 | 23 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 24 | 5 | 
 | 2022-11-11 | 24 | 5 | 
 | 2022-11-10 | 24 | 5 | 
-| 2022-11-09 | 24 | 5 | 
 

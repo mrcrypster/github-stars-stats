@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-3-intro-to-sinatra - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
-☋ Forks: 1592
+☋ Forks: 1594
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 2 | 1594 | 
 | 2022-12-08 | 2 | 1592 | 
 | 2022-12-07 | 2 | 1592 | 
 | 2022-12-06 | 2 | 1587 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 1 | 1488 | 
 | 2022-11-11 | 1 | 1479 | 
 | 2022-11-10 | 1 | 1473 | 
-| 2022-11-09 | 1 | 1467 | 
 

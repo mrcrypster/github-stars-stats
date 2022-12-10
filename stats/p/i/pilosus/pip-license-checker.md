@@ -1,0 +1,17 @@
+# pilosus/pip-license-checker - stars & forks statistics
+
+Stats updated on Dec 2022, 09
+
+☋ Forks: 2
+
+★ Stars: 53
+
+[Open repository](https://github.com/pilosus/pip-license-checker)
+
+[Open detailed stats for pilosus/pip-license-checker](https://reviewgithub.com/rep/pilosus/pip-license-checker)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-12-09 | 53 | 2 | 
+

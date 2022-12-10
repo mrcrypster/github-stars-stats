@@ -1,8 +1,8 @@
 # tallesairan/FA5PRO - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 126
+☋ Forks: 127
 
 ★ Stars: 153
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 153 | 127 | 
 | 2022-12-08 | 153 | 126 | 
 | 2022-12-06 | 152 | 126 | 
 | 2022-12-05 | 152 | 126 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 148 | 120 | 
 | 2022-11-11 | 148 | 120 | 
 | 2022-11-10 | 148 | 119 | 
-| 2022-11-09 | 147 | 119 | 
 

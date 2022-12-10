@@ -1,8 +1,8 @@
 # Ajaypathak372/gitops-argocd - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 30
+☋ Forks: 31
 
 ★ Stars: 15
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 15 | 31 | 
 | 2022-12-08 | 15 | 30 | 
 | 2022-12-07 | 15 | 30 | 
 | 2022-12-06 | 15 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 15 | 26 | 
 | 2022-11-11 | 15 | 26 | 
 | 2022-11-10 | 15 | 26 | 
-| 2022-11-09 | 15 | 26 | 
 

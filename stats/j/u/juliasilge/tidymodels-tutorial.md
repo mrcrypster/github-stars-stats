@@ -1,10 +1,10 @@
 # juliasilge/tidymodels-tutorial - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 2
 
-★ Stars: 35
+★ Stars: 36
 
 [Open repository](https://github.com/juliasilge/tidymodels-tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 36 | 2 | 
 | 2022-12-08 | 35 | 2 | 
 | 2022-12-06 | 35 | 2 | 
 | 2022-12-05 | 35 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 36 | 2 | 
 | 2022-11-12 | 36 | 2 | 
 | 2022-11-11 | 36 | 2 | 
-| 2022-11-10 | 36 | 2 | 
 

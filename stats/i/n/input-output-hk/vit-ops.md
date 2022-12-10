@@ -1,6 +1,6 @@
 # input-output-hk/vit-ops - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 6 | 3 | 
 | 2022-12-08 | 6 | 3 | 
 | 2022-12-06 | 6 | 3 | 
 | 2022-12-05 | 6 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 5 | 3 | 
 | 2022-11-12 | 5 | 3 | 
 | 2022-11-10 | 5 | 3 | 
-| 2022-11-09 | 5 | 3 | 
 

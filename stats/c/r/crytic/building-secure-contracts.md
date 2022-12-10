@@ -1,10 +1,10 @@
 # crytic/building-secure-contracts - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 215
+☋ Forks: 216
 
-★ Stars: 1353
+★ Stars: 1357
 
 [Open repository](https://github.com/crytic/building-secure-contracts)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 1357 | 216 | 
 | 2022-12-08 | 1353 | 215 | 
 | 2022-12-07 | 1348 | 214 | 
 | 2022-12-05 | 1346 | 213 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 1256 | 198 | 
 | 2022-11-11 | 1252 | 198 | 
 | 2022-11-10 | 1251 | 198 | 
-| 2022-11-09 | 1249 | 198 | 
 

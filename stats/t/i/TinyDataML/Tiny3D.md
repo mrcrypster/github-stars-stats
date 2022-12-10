@@ -1,10 +1,10 @@
 # TinyDataML/Tiny3D - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 60
 
-★ Stars: 588
+★ Stars: 599
 
 [Open repository](https://github.com/TinyDataML/Tiny3D)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 599 | 60 | 
 | 2022-12-08 | 588 | 60 | 
 | 2022-12-07 | 572 | 60 | 
 | 2022-12-06 | 553 | 60 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 195 | 20 | 
 | 2022-11-11 | 193 | 20 | 
 | 2022-11-10 | 191 | 20 | 
-| 2022-11-09 | 191 | 19 | 
 

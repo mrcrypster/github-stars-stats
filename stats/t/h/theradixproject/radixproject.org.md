@@ -1,10 +1,10 @@
 # theradixproject/radixproject.org - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
 ☋ Forks: 1
 
-★ Stars: 10
+★ Stars: 12
 
 [Open repository](https://github.com/theradixproject/radixproject.org)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 12 | 1 | 
 | 2022-12-08 | 10 | 1 | 
 | 2022-12-07 | 10 | 1 | 
 

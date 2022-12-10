@@ -1,10 +1,10 @@
 # hanwckf/rt-n56u - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 09
 
-☋ Forks: 3468
+☋ Forks: 3467
 
-★ Stars: 3060
+★ Stars: 3061
 
 [Open repository](https://github.com/hanwckf/rt-n56u)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-09 | 3061 | 3467 | 
 | 2022-12-08 | 3060 | 3468 | 
 | 2022-12-07 | 3060 | 3471 | 
 | 2022-12-06 | 3059 | 3469 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-12 | 3045 | 3438 | 
 | 2022-11-11 | 3045 | 3439 | 
 | 2022-11-10 | 3043 | 3440 | 
-| 2022-11-09 | 3043 | 3438 | 
 
