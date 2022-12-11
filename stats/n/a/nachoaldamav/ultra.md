@@ -1,6 +1,6 @@
 # nachoaldamav/ultra - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 525 | 14 | 
 | 2022-12-09 | 525 | 14 | 
 | 2022-12-08 | 524 | 14 | 
 | 2022-12-07 | 524 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 505 | 15 | 
 | 2022-11-12 | 499 | 15 | 
 | 2022-11-11 | 498 | 15 | 
-| 2022-11-10 | 497 | 15 | 
 

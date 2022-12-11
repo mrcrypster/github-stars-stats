@@ -1,10 +1,10 @@
 # bdlukaa/fluent_ui - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
-☋ Forks: 281
+☋ Forks: 284
 
-★ Stars: 1776
+★ Stars: 1783
 
 [Open repository](https://github.com/bdlukaa/fluent_ui)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 1783 | 284 | 
 | 2022-12-08 | 1776 | 281 | 
 | 2022-12-07 | 1776 | 281 | 
 | 2022-12-06 | 1774 | 280 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 1730 | 267 | 
 | 2022-11-12 | 1729 | 267 | 
 | 2022-11-11 | 1729 | 267 | 
-| 2022-11-10 | 1728 | 267 | 
 

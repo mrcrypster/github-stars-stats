@@ -1,6 +1,6 @@
 # tonyqtian/weibo_predictor - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 3 | 2 | 
 | 2022-12-08 | 3 | 2 | 
 | 2022-12-07 | 3 | 2 | 
 | 2022-12-06 | 3 | 2 | 

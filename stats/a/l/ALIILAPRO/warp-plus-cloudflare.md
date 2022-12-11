@@ -1,10 +1,10 @@
 # ALIILAPRO/warp-plus-cloudflare - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 532
+☋ Forks: 534
 
-★ Stars: 1595
+★ Stars: 1600
 
 [Open repository](https://github.com/ALIILAPRO/warp-plus-cloudflare)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 1600 | 534 | 
 | 2022-12-09 | 1595 | 532 | 
 | 2022-12-08 | 1593 | 533 | 
 | 2022-12-07 | 1594 | 533 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 1538 | 520 | 
 | 2022-11-12 | 1533 | 520 | 
 | 2022-11-11 | 1530 | 520 | 
-| 2022-11-10 | 1529 | 519 | 
 

@@ -1,6 +1,6 @@
 # MacDownApp/macdown - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 1088
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 9153 | 1088 | 
 | 2022-12-09 | 9153 | 1088 | 
 | 2022-12-08 | 9152 | 1088 | 
 | 2022-12-07 | 9150 | 1088 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 9136 | 1086 | 
 | 2022-11-12 | 9137 | 1086 | 
 | 2022-11-11 | 9136 | 1086 | 
-| 2022-11-10 | 9136 | 1086 | 
 

@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 10
 
 ☋ Forks: 21
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/gazebosim/gz-cmake)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-10 | 13 | 21 | 
+| 2022-12-10 | 14 | 21 | 
 | 2022-12-09 | 13 | 21 | 
 | 2022-12-07 | 13 | 21 | 
 | 2022-12-06 | 13 | 21 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 13 | 21 | 
 | 2022-11-12 | 13 | 21 | 
 | 2022-11-11 | 13 | 21 | 
-| 2022-11-10 | 13 | 21 | 
 

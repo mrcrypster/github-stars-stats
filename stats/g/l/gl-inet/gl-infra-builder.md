@@ -1,6 +1,6 @@
 # gl-inet/gl-infra-builder - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 97 | 68 | 
 | 2022-12-09 | 97 | 68 | 
 | 2022-12-08 | 97 | 68 | 
 | 2022-12-06 | 96 | 68 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 90 | 53 | 
 | 2022-11-12 | 90 | 52 | 
 | 2022-11-11 | 90 | 52 | 
-| 2022-11-10 | 89 | 52 | 
 

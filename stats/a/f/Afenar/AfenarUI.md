@@ -1,10 +1,10 @@
 # Afenar/AfenarUI - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 190
 
-★ Stars: 467
+★ Stars: 468
 
 [Open repository](https://github.com/Afenar/AfenarUI)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 468 | 190 | 
 | 2022-12-08 | 467 | 190 | 
 | 2022-12-07 | 467 | 190 | 
 | 2022-12-06 | 467 | 190 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 457 | 186 | 
 | 2022-11-12 | 457 | 186 | 
 | 2022-11-11 | 457 | 186 | 
-| 2022-11-10 | 457 | 186 | 
 

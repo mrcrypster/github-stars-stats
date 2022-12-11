@@ -1,6 +1,6 @@
 # flawiddsouza/Restfox - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 837 | 37 | 
 | 2022-12-09 | 837 | 37 | 
 | 2022-12-08 | 833 | 37 | 
 | 2022-12-07 | 833 | 37 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 805 | 32 | 
 | 2022-11-12 | 804 | 32 | 
 | 2022-11-11 | 802 | 32 | 
-| 2022-11-10 | 794 | 32 | 
 

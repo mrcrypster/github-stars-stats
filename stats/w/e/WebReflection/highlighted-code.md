@@ -1,10 +1,10 @@
 # WebReflection/highlighted-code - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 3
 
-★ Stars: 171
+★ Stars: 172
 
 [Open repository](https://github.com/WebReflection/highlighted-code)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 172 | 3 | 
 | 2022-12-09 | 171 | 3 | 
 | 2022-12-08 | 171 | 3 | 
 | 2022-12-06 | 171 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 171 | 3 | 
 | 2022-11-13 | 171 | 3 | 
 | 2022-11-12 | 171 | 3 | 
-| 2022-11-10 | 171 | 3 | 
 

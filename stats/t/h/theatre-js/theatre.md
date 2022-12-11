@@ -1,10 +1,10 @@
 # theatre-js/theatre - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 248
 
-★ Stars: 8463
+★ Stars: 8470
 
 [Open repository](https://github.com/theatre-js/theatre)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 8470 | 248 | 
 | 2022-12-09 | 8463 | 248 | 
 | 2022-12-07 | 8455 | 248 | 
 | 2022-12-06 | 8449 | 246 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 8334 | 234 | 
 | 2022-11-12 | 8329 | 234 | 
 | 2022-11-11 | 8323 | 233 | 
-| 2022-11-10 | 8309 | 232 | 
 

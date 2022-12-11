@@ -1,6 +1,6 @@
 # ditto-lab/ditto - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 62 | 3 | 
 | 2022-12-09 | 62 | 3 | 
 | 2022-12-07 | 62 | 3 | 
 | 2022-12-06 | 62 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 60 | 3 | 
 | 2022-11-12 | 60 | 3 | 
 | 2022-11-11 | 59 | 3 | 
-| 2022-11-10 | 59 | 3 | 
 

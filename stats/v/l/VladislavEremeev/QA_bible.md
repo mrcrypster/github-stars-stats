@@ -1,6 +1,6 @@
 # VladislavEremeev/QA_bible - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 533
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 1463 | 533 | 
 | 2022-12-09 | 1463 | 533 | 
 | 2022-12-08 | 1464 | 533 | 
 | 2022-12-06 | 1464 | 533 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 1439 | 525 | 
 | 2022-11-13 | 1439 | 525 | 
 | 2022-11-12 | 1438 | 526 | 
-| 2022-11-10 | 1437 | 527 | 
 

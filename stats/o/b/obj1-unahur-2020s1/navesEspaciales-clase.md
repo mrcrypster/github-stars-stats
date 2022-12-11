@@ -1,6 +1,6 @@
 # obj1-unahur-2020s1/navesEspaciales-clase - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 1 | 39 | 
 | 2022-12-09 | 1 | 39 | 
 | 2022-12-08 | 1 | 39 | 
 | 2022-12-07 | 1 | 39 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 1 | 39 | 
 | 2022-11-13 | 1 | 39 | 
 | 2022-11-11 | 1 | 39 | 
-| 2022-11-10 | 1 | 39 | 
 

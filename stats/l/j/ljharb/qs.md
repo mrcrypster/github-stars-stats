@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 10
 
-☋ Forks: 716
+☋ Forks: 717
 
-★ Stars: 7517
+★ Stars: 7518
 
 [Open repository](https://github.com/ljharb/qs)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-10 | 7517 | 716 | 
+| 2022-12-10 | 7518 | 717 | 
 | 2022-12-09 | 7516 | 716 | 
 

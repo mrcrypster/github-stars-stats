@@ -1,6 +1,6 @@
 # rsuite/rsuite - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 848
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 7254 | 848 | 
 | 2022-12-09 | 7254 | 848 | 
 | 2022-12-08 | 7252 | 847 | 
 | 2022-12-06 | 7249 | 847 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 7189 | 840 | 
 | 2022-11-13 | 7185 | 841 | 
 | 2022-11-12 | 7183 | 841 | 
-| 2022-11-11 | 7176 | 841 | 
 

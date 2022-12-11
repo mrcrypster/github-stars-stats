@@ -1,10 +1,10 @@
 # dorssel/usbipd-win - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 94
 
-★ Stars: 1462
+★ Stars: 1466
 
 [Open repository](https://github.com/dorssel/usbipd-win)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 1466 | 94 | 
 | 2022-12-09 | 1462 | 94 | 
 | 2022-12-08 | 1459 | 94 | 
 | 2022-12-07 | 1456 | 94 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 1387 | 90 | 
 | 2022-11-12 | 1384 | 90 | 
 | 2022-11-11 | 1383 | 90 | 
-| 2022-11-10 | 1382 | 91 | 
 

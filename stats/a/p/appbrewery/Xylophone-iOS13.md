@@ -1,6 +1,6 @@
 # appbrewery/Xylophone-iOS13 - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 376
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 80 | 376 | 
 | 2022-12-09 | 80 | 376 | 
 | 2022-12-08 | 80 | 375 | 
 | 2022-12-06 | 80 | 374 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 80 | 366 | 
 | 2022-11-13 | 80 | 365 | 
 | 2022-11-12 | 80 | 364 | 
-| 2022-11-11 | 80 | 364 | 
 

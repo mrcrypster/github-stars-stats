@@ -1,10 +1,10 @@
 # GorvGoyl/Clone-Wars - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 1945
+☋ Forks: 1946
 
-★ Stars: 22946
+★ Stars: 22958
 
 [Open repository](https://github.com/GorvGoyl/Clone-Wars)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 22958 | 1946 | 
 | 2022-12-09 | 22946 | 1945 | 
 | 2022-12-08 | 22935 | 1943 | 
 | 2022-12-07 | 22901 | 1941 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 22554 | 1921 | 
 | 2022-11-12 | 22546 | 1921 | 
 | 2022-11-11 | 22533 | 1919 | 
-| 2022-11-10 | 22521 | 1918 | 
 

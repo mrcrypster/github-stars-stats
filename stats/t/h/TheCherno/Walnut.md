@@ -1,10 +1,10 @@
 # TheCherno/Walnut - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 123
 
-★ Stars: 652
+★ Stars: 655
 
 [Open repository](https://github.com/TheCherno/Walnut)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 655 | 123 | 
 | 2022-12-09 | 652 | 123 | 
 | 2022-12-08 | 652 | 122 | 
 | 2022-12-06 | 651 | 122 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 633 | 116 | 
 | 2022-11-12 | 633 | 116 | 
 | 2022-11-11 | 633 | 115 | 
-| 2022-11-10 | 633 | 114 | 
 

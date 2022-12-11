@@ -1,10 +1,10 @@
 # JuliaPerf/PProf.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 17
 
-★ Stars: 121
+★ Stars: 122
 
 [Open repository](https://github.com/JuliaPerf/PProf.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 122 | 17 | 
 | 2022-12-09 | 121 | 17 | 
 | 2022-12-07 | 121 | 17 | 
 | 2022-12-06 | 121 | 17 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 115 | 16 | 
 | 2022-11-13 | 115 | 16 | 
 | 2022-11-12 | 115 | 16 | 
-| 2022-11-10 | 115 | 16 | 
 

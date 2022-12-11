@@ -1,10 +1,10 @@
 # Immediate-Mode-UI/Nuklear - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 404
 
-★ Stars: 6320
+★ Stars: 6323
 
 [Open repository](https://github.com/Immediate-Mode-UI/Nuklear)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 6323 | 404 | 
 | 2022-12-09 | 6320 | 404 | 
 | 2022-12-08 | 6315 | 404 | 
 | 2022-12-07 | 6314 | 404 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 6194 | 396 | 
 | 2022-11-12 | 6193 | 397 | 
 | 2022-11-11 | 6189 | 397 | 
-| 2022-11-10 | 6188 | 396 | 
 

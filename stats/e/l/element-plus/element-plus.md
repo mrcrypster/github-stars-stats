@@ -1,10 +1,10 @@
 # element-plus/element-plus - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 7183
+☋ Forks: 7188
 
-★ Stars: 18036
+★ Stars: 18041
 
 [Open repository](https://github.com/element-plus/element-plus)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 18041 | 7188 | 
 | 2022-12-09 | 18036 | 7183 | 
 | 2022-12-08 | 18021 | 7165 | 
 | 2022-12-07 | 18009 | 7149 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 17748 | 6844 | 
 | 2022-11-12 | 17744 | 6840 | 
 | 2022-11-11 | 17732 | 6825 | 
-| 2022-11-10 | 17717 | 6809 | 
 

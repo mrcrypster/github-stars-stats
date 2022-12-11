@@ -1,6 +1,6 @@
 # matsumotokoki/thesis_template - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 4 | 7 | 
 | 2022-12-09 | 4 | 7 | 
 | 2022-12-08 | 4 | 6 | 
 | 2022-12-06 | 4 | 6 | 

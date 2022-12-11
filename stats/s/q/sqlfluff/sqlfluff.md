@@ -1,10 +1,10 @@
 # sqlfluff/sqlfluff - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 406
 
-★ Stars: 5360
+★ Stars: 5368
 
 [Open repository](https://github.com/sqlfluff/sqlfluff)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 5368 | 406 | 
 | 2022-12-08 | 5360 | 406 | 
 | 2022-12-07 | 5352 | 406 | 
 | 2022-12-06 | 5349 | 406 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-14 | 5245 | 391 | 
 | 2022-11-13 | 5241 | 391 | 
 | 2022-11-11 | 5240 | 391 | 
-| 2022-11-10 | 5236 | 390 | 
 

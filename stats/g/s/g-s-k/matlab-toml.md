@@ -1,6 +1,6 @@
 # g-s-k/matlab-toml - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 6 | 6 | 
 | 2022-12-09 | 6 | 6 | 
 | 2022-12-07 | 6 | 6 | 
 | 2022-12-06 | 6 | 6 | 

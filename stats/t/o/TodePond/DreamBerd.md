@@ -1,10 +1,10 @@
 # TodePond/DreamBerd - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 8
+☋ Forks: 9
 
-★ Stars: 263
+★ Stars: 271
 
 [Open repository](https://github.com/TodePond/DreamBerd)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 271 | 9 | 
 | 2022-12-09 | 263 | 8 | 
 | 2022-12-08 | 256 | 8 | 
 | 2022-12-06 | 245 | 7 | 

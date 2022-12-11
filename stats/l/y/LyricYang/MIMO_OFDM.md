@@ -1,10 +1,10 @@
 # LyricYang/MIMO_OFDM - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 213
 
-★ Stars: 418
+★ Stars: 419
 
 [Open repository](https://github.com/LyricYang/MIMO_OFDM)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 419 | 213 | 
 | 2022-12-08 | 418 | 213 | 
 | 2022-12-07 | 418 | 213 | 
 | 2022-12-06 | 418 | 213 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 409 | 209 | 
 | 2022-11-12 | 409 | 209 | 
 | 2022-11-11 | 408 | 209 | 
-| 2022-11-10 | 408 | 209 | 
 

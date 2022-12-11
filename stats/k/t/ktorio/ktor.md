@@ -1,10 +1,10 @@
 # ktorio/ktor - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 879
+☋ Forks: 880
 
-★ Stars: 10563
+★ Stars: 10569
 
 [Open repository](https://github.com/ktorio/ktor)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 10569 | 880 | 
 | 2022-12-09 | 10563 | 879 | 
 | 2022-12-08 | 10559 | 878 | 
 | 2022-12-07 | 10555 | 877 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 10466 | 868 | 
 | 2022-11-12 | 10466 | 868 | 
 | 2022-11-11 | 10463 | 868 | 
-| 2022-11-10 | 10459 | 869 | 
 

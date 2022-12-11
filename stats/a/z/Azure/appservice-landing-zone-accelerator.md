@@ -1,6 +1,6 @@
 # Azure/appservice-landing-zone-accelerator - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 69 | 27 | 
 | 2022-12-08 | 69 | 27 | 
 | 2022-12-07 | 69 | 27 | 
 | 2022-12-06 | 69 | 27 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-14 | 67 | 24 | 
 | 2022-11-13 | 67 | 24 | 
 | 2022-11-12 | 67 | 24 | 
-| 2022-11-11 | 66 | 24 | 
 

@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 10
 
 ☋ Forks: 100
 
-★ Stars: 1695
+★ Stars: 1697
 
 [Open repository](https://github.com/PragmaticFlow/NBomber)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-10 | 1695 | 100 | 
+| 2022-12-10 | 1697 | 100 | 
 | 2022-12-09 | 1693 | 100 | 
 | 2022-12-08 | 1684 | 100 | 
 | 2022-12-07 | 1680 | 98 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-13 | 1647 | 98 | 
 | 2022-11-12 | 1647 | 98 | 
 | 2022-11-11 | 1646 | 98 | 
-| 2022-11-10 | 1644 | 98 | 
 

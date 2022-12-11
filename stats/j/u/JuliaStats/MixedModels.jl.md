@@ -1,6 +1,6 @@
 # JuliaStats/MixedModels.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 342 | 48 | 
 | 2022-12-08 | 342 | 48 | 
 | 2022-12-07 | 341 | 48 | 
 | 2022-12-06 | 341 | 48 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-14 | 342 | 48 | 
 | 2022-11-13 | 342 | 48 | 
 | 2022-11-11 | 342 | 48 | 
-| 2022-11-10 | 342 | 48 | 
 

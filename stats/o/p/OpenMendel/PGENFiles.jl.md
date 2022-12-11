@@ -1,10 +1,10 @@
 # OpenMendel/PGENFiles.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 0
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/OpenMendel/PGENFiles.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 4 | - | 
 | 2022-12-09 | 3 | - | 
 | 2022-12-08 | 3 | - | 
 

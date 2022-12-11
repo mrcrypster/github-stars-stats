@@ -1,6 +1,6 @@
 # grafana/grafonnet-lib - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 212
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 1013 | 212 | 
 | 2022-12-10 | 1013 | 212 | 
 | 2022-12-09 | 1013 | 212 | 
 | 2022-12-08 | 1011 | 211 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-13 | 1006 | 210 | 
 | 2022-11-12 | 1005 | 210 | 
 | 2022-11-11 | 1004 | 210 | 
-| 2022-11-10 | 1004 | 210 | 
 

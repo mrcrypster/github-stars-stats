@@ -1,6 +1,6 @@
 # mgdm/htmlq - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 96
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 6258 | 96 | 
 | 2022-12-09 | 6258 | 96 | 
 | 2022-12-08 | 6257 | 95 | 
 | 2022-12-06 | 6257 | 93 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 6187 | 88 | 
 | 2022-11-12 | 6187 | 88 | 
 | 2022-11-11 | 6184 | 88 | 
-| 2022-11-10 | 6184 | 88 | 
 

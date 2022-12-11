@@ -1,6 +1,6 @@
 # mcrumm/phoenix_profiler - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 169 | 3 | 
 | 2022-12-08 | 169 | 3 | 
 | 2022-12-07 | 169 | 3 | 
 | 2022-12-06 | 169 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-14 | 168 | 3 | 
 | 2022-11-13 | 168 | 3 | 
 | 2022-11-11 | 168 | 3 | 
-| 2022-11-10 | 168 | 3 | 
 

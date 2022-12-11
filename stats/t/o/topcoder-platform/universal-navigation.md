@@ -1,10 +1,10 @@
 # topcoder-platform/universal-navigation - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 0
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/topcoder-platform/universal-navigation)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 2 | - | 
 | 2022-12-09 | 1 | - | 
 | 2022-12-07 | - | - | 
 | 2022-12-06 | - | - | 

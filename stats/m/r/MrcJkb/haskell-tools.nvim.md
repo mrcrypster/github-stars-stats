@@ -1,6 +1,6 @@
 # MrcJkb/haskell-tools.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 127 | 8 | 
 | 2022-12-09 | 127 | 8 | 
 | 2022-12-08 | 125 | 8 | 
 | 2022-12-07 | 125 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 97 | 5 | 
 | 2022-11-12 | 96 | 5 | 
 | 2022-11-11 | 95 | 5 | 
-| 2022-11-10 | 93 | 4 | 
 

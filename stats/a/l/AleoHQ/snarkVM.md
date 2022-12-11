@@ -1,8 +1,8 @@
 # AleoHQ/snarkVM - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 162
+☋ Forks: 163
 
 ★ Stars: 312
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 312 | 163 | 
 | 2022-12-09 | 312 | 162 | 
 | 2022-12-08 | 309 | 161 | 
 | 2022-12-07 | 309 | 159 | 

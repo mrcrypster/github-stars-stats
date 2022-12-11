@@ -1,10 +1,10 @@
 # markteekman/accessible-astro-components - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 6
+☋ Forks: 7
 
-★ Stars: 85
+★ Stars: 86
 
 [Open repository](https://github.com/markteekman/accessible-astro-components)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 86 | 7 | 
 | 2022-12-09 | 85 | 6 | 
 | 2022-12-08 | 85 | 6 | 
 | 2022-12-06 | 85 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 79 | 6 | 
 | 2022-11-12 | 79 | 6 | 
 | 2022-11-11 | 79 | 6 | 
-| 2022-11-10 | 79 | 5 | 
 

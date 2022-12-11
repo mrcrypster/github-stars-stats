@@ -1,10 +1,10 @@
 # hhyo/Archery - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 1371
 
-★ Stars: 4502
+★ Stars: 4503
 
 [Open repository](https://github.com/hhyo/Archery)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 4503 | 1371 | 
 | 2022-12-09 | 4502 | 1371 | 
 | 2022-12-08 | 4499 | 1371 | 
 | 2022-12-07 | 4494 | 1367 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 4429 | 1350 | 
 | 2022-11-12 | 4429 | 1350 | 
 | 2022-11-11 | 4427 | 1350 | 
-| 2022-11-10 | 4423 | 1351 | 
 

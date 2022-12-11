@@ -1,10 +1,10 @@
 # oosayeroo/qb-miniheists - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 2
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/oosayeroo/qb-miniheists)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 6 | 2 | 
 | 2022-12-09 | 5 | 2 | 
 | 2022-12-08 | 5 | 2 | 
 | 2022-12-07 | 5 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 11 | 4 | 
 | 2022-11-12 | 11 | 4 | 
 | 2022-11-11 | 11 | 4 | 
-| 2022-11-10 | 11 | 4 | 
 

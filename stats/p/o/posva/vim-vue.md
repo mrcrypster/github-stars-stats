@@ -1,6 +1,6 @@
 # posva/vim-vue - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 109
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 1288 | 109 | 
 | 2022-12-09 | 1288 | 109 | 
 | 2022-12-08 | 1288 | 109 | 
 | 2022-12-06 | 1288 | 109 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 1287 | 111 | 
 | 2022-11-13 | 1286 | 111 | 
 | 2022-11-12 | 1286 | 111 | 
-| 2022-11-11 | 1286 | 111 | 
 

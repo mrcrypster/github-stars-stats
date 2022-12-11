@@ -1,10 +1,10 @@
 # star-start/Beating_heart - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 42
 
-★ Stars: 56
+★ Stars: 57
 
 [Open repository](https://github.com/star-start/Beating_heart)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 57 | 42 | 
 | 2022-12-09 | 56 | 42 | 
 | 2022-12-08 | 55 | 42 | 
 | 2022-12-06 | 55 | 42 | 

@@ -1,10 +1,10 @@
 # Shashank02051997/VegetableOrderUI-Android - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 37
 
-★ Stars: 325
+★ Stars: 326
 
 [Open repository](https://github.com/Shashank02051997/VegetableOrderUI-Android)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 326 | 37 | 
 | 2022-12-09 | 325 | 37 | 
 | 2022-12-08 | 325 | 37 | 
 | 2022-12-06 | 324 | 37 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 318 | 37 | 
 | 2022-11-12 | 317 | 37 | 
 | 2022-11-11 | 317 | 37 | 
-| 2022-11-10 | 317 | 37 | 
 

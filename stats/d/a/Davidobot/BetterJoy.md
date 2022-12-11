@@ -1,10 +1,10 @@
 # Davidobot/BetterJoy - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 280
+☋ Forks: 281
 
-★ Stars: 2672
+★ Stars: 2675
 
 [Open repository](https://github.com/Davidobot/BetterJoy)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 2675 | 281 | 
 | 2022-12-09 | 2672 | 280 | 
 | 2022-12-08 | 2671 | 280 | 
 | 2022-12-07 | 2666 | 280 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 2604 | 276 | 
 | 2022-11-12 | 2600 | 276 | 
 | 2022-11-11 | 2598 | 277 | 
-| 2022-11-10 | 2599 | 276 | 
 

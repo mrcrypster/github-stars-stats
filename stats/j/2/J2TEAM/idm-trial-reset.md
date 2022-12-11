@@ -1,6 +1,6 @@
 # J2TEAM/idm-trial-reset - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 406
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 1592 | 406 | 
 | 2022-12-09 | 1592 | 406 | 
 | 2022-12-08 | 1591 | 406 | 
 | 2022-12-07 | 1590 | 406 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 1540 | 399 | 
 | 2022-11-12 | 1539 | 399 | 
 | 2022-11-11 | 1538 | 399 | 
-| 2022-11-10 | 1537 | 399 | 
 

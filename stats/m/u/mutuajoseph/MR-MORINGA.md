@@ -1,10 +1,10 @@
 # mutuajoseph/MR-MORINGA - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 17
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/mutuajoseph/MR-MORINGA)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 1 | 17 | 
 | 2022-12-09 | - | 17 | 
 | 2022-12-08 | - | 17 | 
 

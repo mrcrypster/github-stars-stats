@@ -1,10 +1,10 @@
 # williamyang1991/VToonify - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 173
 
-★ Stars: 1573
+★ Stars: 1576
 
 [Open repository](https://github.com/williamyang1991/VToonify)
 
@@ -13,7 +13,8 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-10 | 1573 | 173 | 
+| 2022-12-11 | 1576 | 173 | 
+| 2022-12-10 | 1575 | 173 | 
 | 2022-12-09 | 1571 | 173 | 
 | 2022-12-08 | 1565 | 172 | 
 | 2022-12-06 | 1548 | 171 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-13 | 1470 | 155 | 
 | 2022-11-12 | 1463 | 155 | 
 | 2022-11-11 | 1460 | 155 | 
-| 2022-11-10 | 1448 | 152 | 
 

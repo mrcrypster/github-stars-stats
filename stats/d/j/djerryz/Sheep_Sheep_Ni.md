@@ -1,10 +1,10 @@
 # djerryz/Sheep_Sheep_Ni - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 32
 
-★ Stars: 156
+★ Stars: 157
 
 [Open repository](https://github.com/djerryz/Sheep_Sheep_Ni)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 157 | 32 | 
 | 2022-12-09 | 156 | 32 | 
 | 2022-12-08 | 155 | 32 | 
 | 2022-12-07 | 155 | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 159 | 33 | 
 | 2022-11-13 | 159 | 33 | 
 | 2022-11-12 | 159 | 33 | 
-| 2022-11-11 | 159 | 33 | 
 

@@ -1,10 +1,10 @@
 # xingchenzhang/VIFB - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 58
 
-★ Stars: 223
+★ Stars: 226
 
 [Open repository](https://github.com/xingchenzhang/VIFB)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 226 | 58 | 
 | 2022-12-09 | 223 | 58 | 
 | 2022-12-08 | 223 | 58 | 
 | 2022-12-07 | 222 | 59 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 216 | 60 | 
 | 2022-11-12 | 216 | 60 | 
 | 2022-11-11 | 216 | 60 | 
-| 2022-11-10 | 216 | 60 | 
 

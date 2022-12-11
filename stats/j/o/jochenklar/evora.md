@@ -1,6 +1,6 @@
 # jochenklar/evora - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 4 | 1 | 
 | 2022-12-09 | 4 | 1 | 
 | 2022-12-08 | 4 | 1 | 
 | 2022-12-06 | 4 | 1 | 

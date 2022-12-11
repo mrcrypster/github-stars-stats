@@ -1,0 +1,17 @@
+# schaunwheeler/satp - stars & forks statistics
+
+Stats updated on Dec 2022, 10
+
+☋ Forks: 2
+
+★ Stars: 0
+
+[Open repository](https://github.com/schaunwheeler/satp)
+
+[Open detailed stats for schaunwheeler/satp](https://reviewgithub.com/rep/schaunwheeler/satp)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-12-10 | - | 2 | 
+

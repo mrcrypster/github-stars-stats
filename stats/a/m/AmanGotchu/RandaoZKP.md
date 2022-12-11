@@ -1,10 +1,10 @@
 # AmanGotchu/RandaoZKP - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 0
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/AmanGotchu/RandaoZKP)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 17 | - | 
 | 2022-12-08 | 16 | - | 
 | 2022-12-07 | 16 | - | 
 | 2022-12-06 | 16 | - | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-14 | 16 | - | 
 | 2022-11-13 | 16 | - | 
 | 2022-11-12 | 16 | - | 
-| 2022-11-10 | 16 | - | 
 

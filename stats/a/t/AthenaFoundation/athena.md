@@ -1,6 +1,6 @@
 # AthenaFoundation/athena - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 46 | 2 | 
 | 2022-12-09 | 46 | 2 | 
 | 2022-12-08 | 46 | 2 | 
 | 2022-12-06 | 46 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 46 | 2 | 
 | 2022-11-12 | 46 | 2 | 
 | 2022-11-11 | 46 | 2 | 
-| 2022-11-10 | 45 | 2 | 
 

@@ -1,10 +1,10 @@
 # getsentry/sentry-cocoa - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 235
+☋ Forks: 236
 
-★ Stars: 601
+★ Stars: 602
 
 [Open repository](https://github.com/getsentry/sentry-cocoa)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 602 | 236 | 
 | 2022-12-09 | 601 | 235 | 
 | 2022-12-08 | 601 | 235 | 
 | 2022-12-07 | 601 | 234 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 589 | 230 | 
 | 2022-11-12 | 589 | 230 | 
 | 2022-11-11 | 589 | 230 | 
-| 2022-11-10 | 589 | 231 | 
 

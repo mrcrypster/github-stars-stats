@@ -1,6 +1,6 @@
 # jarp/Consolation - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | - | 1 | 
 | 2022-12-08 | - | 1 | 
 | 2022-12-07 | - | 1 | 
 | 2022-12-06 | - | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-14 | - | 1 | 
 | 2022-11-13 | - | 1 | 
 | 2022-11-12 | - | 1 | 
-| 2022-11-10 | - | 1 | 
 

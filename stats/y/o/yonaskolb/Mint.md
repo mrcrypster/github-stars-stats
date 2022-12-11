@@ -1,10 +1,10 @@
 # yonaskolb/Mint - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 92
 
-★ Stars: 1968
+★ Stars: 1970
 
 [Open repository](https://github.com/yonaskolb/Mint)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 1970 | 92 | 
 | 2022-12-09 | 1968 | 92 | 
 | 2022-12-07 | 1968 | 92 | 
 | 2022-12-06 | 1967 | 92 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 1950 | 92 | 
 | 2022-11-13 | 1949 | 92 | 
 | 2022-11-12 | 1949 | 92 | 
-| 2022-11-11 | 1948 | 92 | 
 

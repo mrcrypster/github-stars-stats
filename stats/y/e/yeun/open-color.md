@@ -1,10 +1,10 @@
 # yeun/open-color - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 230
 
-★ Stars: 4836
+★ Stars: 4838
 
 [Open repository](https://github.com/yeun/open-color)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 4838 | 230 | 
 | 2022-12-09 | 4836 | 230 | 
 | 2022-12-08 | 4836 | 230 | 
 | 2022-12-07 | 4836 | 230 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 4799 | 228 | 
 | 2022-11-12 | 4799 | 228 | 
 | 2022-11-11 | 4789 | 229 | 
-| 2022-11-10 | 4786 | 229 | 
 

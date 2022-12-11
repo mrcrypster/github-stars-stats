@@ -1,10 +1,10 @@
 # doggy-dentures/3dsenpai - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 12
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/doggy-dentures/3dsenpai)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 13 | 12 | 
 | 2022-12-08 | 12 | 12 | 
 | 2022-12-07 | 12 | 12 | 
 | 2022-12-06 | 12 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-14 | 12 | 12 | 
 | 2022-11-12 | 12 | 12 | 
 | 2022-11-11 | 12 | 12 | 
-| 2022-11-10 | 12 | 12 | 
 

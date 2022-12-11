@@ -1,10 +1,10 @@
 # unicorn-engine/unicorn - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 1165
 
-★ Stars: 5938
+★ Stars: 5940
 
 [Open repository](https://github.com/unicorn-engine/unicorn)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 5940 | 1165 | 
 | 2022-12-09 | 5938 | 1165 | 
 | 2022-12-07 | 5937 | 1163 | 
 | 2022-12-06 | 5935 | 1162 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 5878 | 1147 | 
 | 2022-11-12 | 5875 | 1147 | 
 | 2022-11-11 | 5873 | 1147 | 
-| 2022-11-10 | 5871 | 1147 | 
 

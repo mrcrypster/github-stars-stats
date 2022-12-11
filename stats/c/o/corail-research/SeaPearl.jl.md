@@ -1,6 +1,6 @@
 # corail-research/SeaPearl.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 119 | 5 | 
 | 2022-12-08 | 119 | 5 | 
 | 2022-12-07 | 119 | 6 | 
 | 2022-12-06 | 119 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 107 | 6 | 
 | 2022-11-12 | 107 | 6 | 
 | 2022-11-11 | 107 | 6 | 
-| 2022-11-10 | 107 | 6 | 
 

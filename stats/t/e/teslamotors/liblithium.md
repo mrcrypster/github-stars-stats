@@ -1,10 +1,10 @@
 # teslamotors/liblithium - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 14
 
-★ Stars: 251
+★ Stars: 252
 
 [Open repository](https://github.com/teslamotors/liblithium)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 252 | 14 | 
 | 2022-12-09 | 251 | 14 | 
 | 2022-12-07 | 247 | 14 | 
 | 2022-12-06 | 236 | 14 | 

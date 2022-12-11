@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 10
 
 ☋ Forks: 0
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/JohnnyCurran/TimeTravel)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-10 | 21 | - | 
+| 2022-12-10 | 22 | - | 
 | 2022-12-09 | 19 | - | 
 

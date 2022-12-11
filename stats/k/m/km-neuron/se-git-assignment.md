@@ -1,6 +1,6 @@
 # km-neuron/se-git-assignment - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 170
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 3 | 170 | 
 | 2022-12-08 | 3 | 170 | 
 | 2022-12-07 | 3 | 170 | 
 | 2022-12-06 | 3 | 170 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 3 | 170 | 
 | 2022-11-12 | 3 | 170 | 
 | 2022-11-11 | 3 | 170 | 
-| 2022-11-10 | 3 | 170 | 
 

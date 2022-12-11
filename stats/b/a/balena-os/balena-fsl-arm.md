@@ -1,6 +1,6 @@
 # balena-os/balena-fsl-arm - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 5 | 7 | 
 | 2022-12-08 | 5 | 7 | 
 | 2022-12-07 | 5 | 7 | 
 | 2022-12-06 | 5 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 6 | 7 | 
 | 2022-11-12 | 6 | 7 | 
 | 2022-11-11 | 6 | 7 | 
-| 2022-11-10 | 6 | 7 | 
 

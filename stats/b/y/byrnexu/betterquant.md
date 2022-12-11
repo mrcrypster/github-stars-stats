@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 10
 
 ☋ Forks: 27
 
-★ Stars: 68
+★ Stars: 69
 
 [Open repository](https://github.com/byrnexu/betterquant)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-10 | 68 | 27 | 
+| 2022-12-10 | 69 | 27 | 
 | 2022-12-09 | 68 | 27 | 
 

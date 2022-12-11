@@ -1,10 +1,10 @@
 # amitxv/EVA - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 25
 
-★ Stars: 140
+★ Stars: 142
 
 [Open repository](https://github.com/amitxv/EVA)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 142 | 25 | 
 | 2022-12-08 | 140 | 25 | 
 | 2022-12-07 | 141 | 25 | 
 | 2022-12-06 | 140 | 25 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-14 | 126 | 24 | 
 | 2022-11-12 | 126 | 24 | 
 | 2022-11-11 | 125 | 24 | 
-| 2022-11-10 | 125 | 23 | 
 

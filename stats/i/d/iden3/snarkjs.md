@@ -1,10 +1,10 @@
 # iden3/snarkjs - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 265
+☋ Forks: 266
 
-★ Stars: 1164
+★ Stars: 1167
 
 [Open repository](https://github.com/iden3/snarkjs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 1167 | 266 | 
 | 2022-12-09 | 1164 | 265 | 
 | 2022-12-08 | 1164 | 265 | 
 | 2022-12-06 | 1161 | 265 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 1122 | 251 | 
 | 2022-11-12 | 1121 | 249 | 
 | 2022-11-11 | 1120 | 248 | 
-| 2022-11-10 | 1115 | 249 | 
 

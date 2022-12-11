@@ -1,10 +1,10 @@
 # wsargent/docker-cheat-sheet - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 4529
 
-★ Stars: 21253
+★ Stars: 21254
 
 [Open repository](https://github.com/wsargent/docker-cheat-sheet)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 21254 | 4529 | 
 | 2022-12-09 | 21253 | 4529 | 
 | 2022-12-08 | 21252 | 4526 | 
 | 2022-12-07 | 21250 | 4524 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 21208 | 4515 | 
 | 2022-11-12 | 21206 | 4514 | 
 | 2022-11-11 | 21205 | 4514 | 
-| 2022-11-10 | 21204 | 4513 | 
 

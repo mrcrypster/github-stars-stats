@@ -1,6 +1,6 @@
 # divarvel/haskle - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 27 | 4 | 
 | 2022-12-09 | 27 | 4 | 
 | 2022-12-07 | 27 | 4 | 
 | 2022-12-06 | 27 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 27 | 4 | 
 | 2022-11-13 | 27 | 4 | 
 | 2022-11-12 | 27 | 4 | 
-| 2022-11-11 | 27 | 4 | 
 

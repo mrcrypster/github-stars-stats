@@ -1,6 +1,6 @@
 # xlenco/blog - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 6 | 7 | 
 | 2022-12-09 | 6 | 7 | 
 | 2022-12-08 | 6 | 5 | 
 | 2022-12-06 | 6 | 5 | 

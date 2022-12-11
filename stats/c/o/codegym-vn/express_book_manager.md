@@ -1,6 +1,6 @@
 # codegym-vn/express_book_manager - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | - | - | 
 | 2022-12-09 | - | - | 
 | 2022-12-08 | - | - | 
 | 2022-12-07 | - | - | 

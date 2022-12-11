@@ -1,8 +1,8 @@
 # vcodes-xyz/benedict - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 117
+☋ Forks: 118
 
 ★ Stars: 154
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 154 | 118 | 
 | 2022-12-09 | 154 | 117 | 
 | 2022-12-08 | 153 | 117 | 
 | 2022-12-07 | 153 | 117 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 153 | 117 | 
 | 2022-11-13 | 153 | 117 | 
 | 2022-11-12 | 153 | 117 | 
-| 2022-11-10 | 153 | 117 | 
 

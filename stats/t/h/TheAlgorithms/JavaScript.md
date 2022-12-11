@@ -1,10 +1,10 @@
 # TheAlgorithms/JavaScript - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
-☋ Forks: 4137
+☋ Forks: 4140
 
-★ Stars: 23894
+★ Stars: 23902
 
 [Open repository](https://github.com/TheAlgorithms/JavaScript)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 23902 | 4140 | 
 | 2022-12-08 | 23894 | 4137 | 
 | 2022-12-07 | 23883 | 4135 | 
 | 2022-12-06 | 23876 | 4132 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 23690 | 4102 | 
 | 2022-11-12 | 23681 | 4103 | 
 | 2022-11-11 | 23671 | 4103 | 
-| 2022-11-10 | 23669 | 4101 | 
 

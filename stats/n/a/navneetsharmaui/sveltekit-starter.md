@@ -1,6 +1,6 @@
 # navneetsharmaui/sveltekit-starter - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 74
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 463 | 74 | 
 | 2022-12-09 | 463 | 74 | 
 | 2022-12-07 | 462 | 74 | 
 | 2022-12-06 | 461 | 74 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 454 | 74 | 
 | 2022-11-13 | 454 | 74 | 
 | 2022-11-12 | 454 | 74 | 
-| 2022-11-11 | 453 | 74 | 
 

@@ -1,10 +1,10 @@
 # gruberdev/homelab - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 1
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/gruberdev/homelab)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 18 | 1 | 
 | 2022-12-09 | 17 | 1 | 
 | 2022-12-08 | 16 | 1 | 
 | 2022-12-06 | 16 | 1 | 

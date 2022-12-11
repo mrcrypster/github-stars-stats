@@ -1,6 +1,6 @@
 # skibyte/gdb-from-vim - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 29 | 4 | 
 | 2022-12-09 | 29 | 4 | 
 | 2022-12-08 | 29 | 4 | 
 | 2022-12-07 | 29 | 4 | 

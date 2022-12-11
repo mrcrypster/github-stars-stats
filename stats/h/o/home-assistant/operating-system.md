@@ -1,10 +1,10 @@
 # home-assistant/operating-system - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 733
+☋ Forks: 734
 
-★ Stars: 2852
+★ Stars: 2853
 
 [Open repository](https://github.com/home-assistant/operating-system)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 2853 | 734 | 
 | 2022-12-09 | 2852 | 733 | 
 | 2022-12-08 | 2849 | 732 | 
 | 2022-12-06 | 2844 | 732 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 2805 | 723 | 
 | 2022-11-12 | 2801 | 722 | 
 | 2022-11-11 | 2797 | 722 | 
-| 2022-11-10 | 2795 | 720 | 
 

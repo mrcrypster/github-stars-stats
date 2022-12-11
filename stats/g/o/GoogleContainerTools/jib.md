@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 10
 
 ☋ Forks: 1314
 
-★ Stars: 12383
+★ Stars: 12384
 
 [Open repository](https://github.com/GoogleContainerTools/jib)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-10 | 12383 | 1314 | 
+| 2022-12-10 | 12384 | 1314 | 
 | 2022-12-09 | 12381 | 1314 | 
 | 2022-12-08 | 12378 | 1313 | 
 | 2022-12-07 | 12373 | 1312 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-13 | 12313 | 1305 | 
 | 2022-11-12 | 12312 | 1305 | 
 | 2022-11-11 | 12310 | 1305 | 
-| 2022-11-10 | 12304 | 1305 | 
 

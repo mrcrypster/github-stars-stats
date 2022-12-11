@@ -1,10 +1,10 @@
 # YaS5in3/Bug-Bounty-Wordlists - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 63
+☋ Forks: 66
 
-★ Stars: 356
+★ Stars: 363
 
 [Open repository](https://github.com/YaS5in3/Bug-Bounty-Wordlists)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 363 | 66 | 
 | 2022-12-09 | 356 | 63 | 
 | 2022-12-08 | 350 | 62 | 
 | 2022-12-07 | 350 | 62 | 

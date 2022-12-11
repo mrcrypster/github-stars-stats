@@ -1,10 +1,10 @@
 # chaskiq/ex-marcel - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 0
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/chaskiq/ex-marcel)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 25 | - | 
 | 2022-12-09 | 24 | - | 
 | 2022-12-08 | 24 | - | 
 | 2022-12-07 | 24 | - | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 24 | - | 
 | 2022-11-12 | 24 | - | 
 | 2022-11-11 | 24 | - | 
-| 2022-11-10 | 24 | - | 
 

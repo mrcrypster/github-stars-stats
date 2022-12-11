@@ -1,6 +1,6 @@
 # input-output-hk/iohk-monitoring-framework - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 32 | 13 | 
 | 2022-12-08 | 32 | 13 | 
 | 2022-12-07 | 32 | 13 | 
 | 2022-12-06 | 32 | 13 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-14 | 32 | 13 | 
 | 2022-11-13 | 32 | 13 | 
 | 2022-11-12 | 32 | 13 | 
-| 2022-11-10 | 32 | 13 | 
 

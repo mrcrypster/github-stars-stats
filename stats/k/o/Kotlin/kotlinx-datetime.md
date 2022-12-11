@@ -1,10 +1,10 @@
 # Kotlin/kotlinx-datetime - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 66
 
-★ Stars: 1567
+★ Stars: 1568
 
 [Open repository](https://github.com/Kotlin/kotlinx-datetime)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 1568 | 66 | 
 | 2022-12-09 | 1567 | 66 | 
 | 2022-12-07 | 1567 | 66 | 
 | 2022-12-06 | 1564 | 66 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 1545 | 64 | 
 | 2022-11-13 | 1545 | 64 | 
 | 2022-11-11 | 1543 | 64 | 
-| 2022-11-10 | 1541 | 64 | 
 

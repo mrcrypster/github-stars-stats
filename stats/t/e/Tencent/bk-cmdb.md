@@ -1,8 +1,8 @@
 # Tencent/bk-cmdb - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 1482
+☋ Forks: 1483
 
 ★ Stars: 4813
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 4813 | 1483 | 
 | 2022-12-09 | 4813 | 1482 | 
 | 2022-12-08 | 4812 | 1481 | 
 | 2022-12-07 | 4810 | 1480 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 4781 | 1476 | 
 | 2022-11-12 | 4781 | 1476 | 
 | 2022-11-11 | 4782 | 1476 | 
-| 2022-11-10 | 4777 | 1476 | 
 

@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 10
 
 ☋ Forks: 32
 
-★ Stars: 737
+★ Stars: 738
 
 [Open repository](https://github.com/pluralsh/plural)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-10 | 737 | 32 | 
+| 2022-12-10 | 738 | 32 | 
 | 2022-12-09 | 737 | 32 | 
 | 2022-12-08 | 735 | 32 | 
 | 2022-12-07 | 732 | 32 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-13 | 673 | 27 | 
 | 2022-11-12 | 671 | 27 | 
 | 2022-11-11 | 668 | 26 | 
-| 2022-11-10 | 633 | 26 | 
 

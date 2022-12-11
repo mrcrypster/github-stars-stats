@@ -1,8 +1,8 @@
 # getActivity/AndroidGithubBoss - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 95
+☋ Forks: 96
 
 ★ Stars: 872
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 872 | 96 | 
 | 2022-12-09 | 872 | 95 | 
 | 2022-12-07 | 872 | 95 | 
 | 2022-12-06 | 870 | 95 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 857 | 93 | 
 | 2022-11-12 | 857 | 93 | 
 | 2022-11-11 | 855 | 93 | 
-| 2022-11-10 | 854 | 93 | 
 

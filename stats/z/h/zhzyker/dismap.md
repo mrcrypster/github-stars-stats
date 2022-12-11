@@ -1,10 +1,10 @@
 # zhzyker/dismap - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 195
 
-★ Stars: 1362
+★ Stars: 1363
 
 [Open repository](https://github.com/zhzyker/dismap)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 1363 | 195 | 
 | 2022-12-09 | 1362 | 195 | 
 | 2022-12-07 | 1362 | 195 | 
 | 2022-12-06 | 1360 | 195 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 1287 | 184 | 
 | 2022-11-12 | 1287 | 184 | 
 | 2022-11-11 | 1286 | 182 | 
-| 2022-11-10 | 1284 | 182 | 
 

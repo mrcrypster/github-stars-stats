@@ -1,10 +1,10 @@
 # VREMSoftwareDevelopment/WiFiAnalyzer - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 491
 
-★ Stars: 1891
+★ Stars: 1892
 
 [Open repository](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 1892 | 491 | 
 | 2022-12-09 | 1891 | 491 | 
 | 2022-12-08 | 1884 | 491 | 
 | 2022-12-06 | 1881 | 490 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 1857 | 484 | 
 | 2022-11-12 | 1855 | 485 | 
 | 2022-11-11 | 1855 | 484 | 
-| 2022-11-10 | 1855 | 484 | 
 

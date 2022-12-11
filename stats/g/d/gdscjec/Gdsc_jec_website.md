@@ -1,6 +1,6 @@
 # gdscjec/Gdsc_jec_website - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 3 | 26 | 
 | 2022-12-09 | 3 | 26 | 
 | 2022-12-08 | 3 | 26 | 
 | 2022-12-07 | 3 | 26 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 2 | 26 | 
 | 2022-11-13 | 2 | 26 | 
 | 2022-11-11 | 2 | 26 | 
-| 2022-11-10 | 2 | 26 | 
 

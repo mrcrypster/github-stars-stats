@@ -1,6 +1,6 @@
 # azmistudio/simtia - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 8 | 11 | 
 | 2022-12-09 | 8 | 11 | 
 | 2022-12-08 | 8 | 11 | 
 | 2022-12-06 | 8 | 11 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 7 | 9 | 
 | 2022-11-13 | 7 | 9 | 
 | 2022-11-12 | 7 | 9 | 
-| 2022-11-10 | 7 | 9 | 
 

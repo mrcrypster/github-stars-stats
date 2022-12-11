@@ -1,6 +1,6 @@
 # weavejester/cljfmt - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 105
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 1001 | 105 | 
 | 2022-12-09 | 1001 | 105 | 
 | 2022-12-08 | 1001 | 105 | 
 | 2022-12-07 | 1000 | 105 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 995 | 102 | 
 | 2022-11-12 | 994 | 102 | 
 | 2022-11-11 | 993 | 102 | 
-| 2022-11-10 | 993 | 102 | 
 

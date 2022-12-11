@@ -1,10 +1,10 @@
 # RichardLitt/standard-readme - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 2463
+☋ Forks: 2464
 
-★ Stars: 5206
+★ Stars: 5210
 
 [Open repository](https://github.com/RichardLitt/standard-readme)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 5210 | 2464 | 
 | 2022-12-09 | 5206 | 2463 | 
 | 2022-12-08 | 5205 | 2460 | 
 | 2022-12-07 | 5202 | 2460 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 5143 | 2412 | 
 | 2022-11-12 | 5143 | 2410 | 
 | 2022-11-11 | 5141 | 2410 | 
-| 2022-11-10 | 5140 | 2408 | 
 

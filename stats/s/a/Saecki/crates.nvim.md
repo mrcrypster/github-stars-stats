@@ -1,6 +1,6 @@
 # Saecki/crates.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 327 | 7 | 
 | 2022-12-09 | 327 | 7 | 
 | 2022-12-08 | 328 | 7 | 
 | 2022-12-06 | 328 | 7 | 

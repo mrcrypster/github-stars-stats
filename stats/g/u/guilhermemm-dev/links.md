@@ -1,6 +1,6 @@
 # guilhermemm-dev/links - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 371 | 54 | 
 | 2022-12-09 | 371 | 54 | 
 | 2022-12-08 | 371 | 54 | 
 | 2022-12-07 | 371 | 54 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 370 | 54 | 
 | 2022-11-12 | 370 | 54 | 
 | 2022-11-11 | 370 | 53 | 
-| 2022-11-10 | 370 | 53 | 
 

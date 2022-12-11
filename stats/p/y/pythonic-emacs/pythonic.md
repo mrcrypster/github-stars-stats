@@ -1,6 +1,6 @@
 # pythonic-emacs/pythonic - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 43 | 10 | 
 | 2022-12-08 | 43 | 10 | 
 | 2022-12-07 | 43 | 10 | 
 | 2022-12-06 | 43 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-14 | 43 | 10 | 
 | 2022-11-12 | 43 | 10 | 
 | 2022-11-11 | 43 | 10 | 
-| 2022-11-10 | 43 | 10 | 
 

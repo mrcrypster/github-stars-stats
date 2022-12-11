@@ -1,6 +1,6 @@
 # HenryQW/Awesome-TTRSS - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 424
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 1761 | 424 | 
 | 2022-12-09 | 1761 | 424 | 
 | 2022-12-08 | 1759 | 424 | 
 | 2022-12-07 | 1760 | 424 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 1729 | 417 | 
 | 2022-11-12 | 1727 | 417 | 
 | 2022-11-11 | 1727 | 417 | 
-| 2022-11-10 | 1726 | 416 | 
 

@@ -1,10 +1,10 @@
 # cubxxw/cs-awesome-Block_Chain - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
-☋ Forks: 78
+☋ Forks: 79
 
-★ Stars: 519
+★ Stars: 523
 
 [Open repository](https://github.com/cubxxw/cs-awesome-Block_Chain)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 523 | 79 | 
 | 2022-12-08 | 519 | 78 | 
 | 2022-12-07 | 516 | 78 | 
 | 2022-12-06 | 509 | 78 | 

@@ -1,6 +1,6 @@
 # pearofducks/ansible-vim - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 96
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 733 | 96 | 
 | 2022-12-08 | 733 | 96 | 
 | 2022-12-07 | 733 | 96 | 
 | 2022-12-06 | 733 | 96 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-14 | 732 | 97 | 
 | 2022-11-13 | 732 | 97 | 
 | 2022-11-12 | 732 | 97 | 
-| 2022-11-10 | 732 | 97 | 
 

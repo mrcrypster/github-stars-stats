@@ -1,10 +1,10 @@
 # bbatsov/projectile - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 562
+☋ Forks: 563
 
-★ Stars: 3707
+★ Stars: 3708
 
 [Open repository](https://github.com/bbatsov/projectile)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 3708 | 563 | 
 | 2022-12-09 | 3707 | 562 | 
 | 2022-12-08 | 3705 | 562 | 
 | 2022-12-07 | 3704 | 563 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 3685 | 564 | 
 | 2022-11-12 | 3685 | 564 | 
 | 2022-11-11 | 3684 | 563 | 
-| 2022-11-10 | 3684 | 563 | 
 

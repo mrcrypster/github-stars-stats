@@ -1,10 +1,10 @@
 # grindylow/ahoy - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 111
 
-★ Stars: 360
+★ Stars: 363
 
 [Open repository](https://github.com/grindylow/ahoy)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 363 | 111 | 
 | 2022-12-09 | 360 | 111 | 
 | 2022-12-07 | 359 | 111 | 
 | 2022-12-06 | 357 | 110 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 308 | 103 | 
 | 2022-11-12 | 307 | 101 | 
 | 2022-11-11 | 302 | 102 | 
-| 2022-11-10 | 300 | 101 | 
 

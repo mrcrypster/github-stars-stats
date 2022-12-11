@@ -1,10 +1,10 @@
 # balena-os/balena-jetson-orin - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 2
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/balena-os/balena-jetson-orin)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 5 | 2 | 
 | 2022-12-08 | 4 | 2 | 
 | 2022-12-07 | 4 | 2 | 
 | 2022-12-06 | 4 | 2 | 

@@ -1,10 +1,10 @@
 # vancegroup-mirrors/avr-libc - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 183
+☋ Forks: 184
 
-★ Stars: 77
+★ Stars: 78
 
 [Open repository](https://github.com/vancegroup-mirrors/avr-libc)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 78 | 184 | 
 | 2022-12-09 | 77 | 183 | 
 | 2022-12-08 | 77 | 183 | 
 | 2022-12-07 | 77 | 183 | 

@@ -1,10 +1,10 @@
 # kemallaydin/Configuring-CI-CD-on-Kubernetes-with-Jenkins - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 172
 
-★ Stars: 46
+★ Stars: 47
 
 [Open repository](https://github.com/kemallaydin/Configuring-CI-CD-on-Kubernetes-with-Jenkins)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 47 | 172 | 
 | 2022-12-09 | 46 | 172 | 
 | 2022-12-08 | 46 | 172 | 
 | 2022-12-06 | 46 | 172 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 46 | 168 | 
 | 2022-11-13 | 46 | 168 | 
 | 2022-11-12 | 46 | 168 | 
-| 2022-11-11 | 46 | 168 | 
 

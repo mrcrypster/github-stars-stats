@@ -1,10 +1,10 @@
 # activeadmin/activeadmin - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 3313
 
-★ Stars: 9275
+★ Stars: 9276
 
 [Open repository](https://github.com/activeadmin/activeadmin)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 9276 | 3313 | 
 | 2022-12-09 | 9275 | 3313 | 
 | 2022-12-08 | 9274 | 3313 | 
 | 2022-12-07 | 9273 | 3312 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 9263 | 3311 | 
 | 2022-11-12 | 9264 | 3312 | 
 | 2022-11-11 | 9263 | 3313 | 
-| 2022-11-10 | 9262 | 3313 | 
 

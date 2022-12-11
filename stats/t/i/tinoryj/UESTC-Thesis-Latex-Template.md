@@ -1,6 +1,6 @@
 # tinoryj/UESTC-Thesis-Latex-Template - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 100 | 23 | 
 | 2022-12-09 | 100 | 23 | 
 | 2022-12-08 | 100 | 23 | 
 | 2022-12-06 | 98 | 23 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 82 | 16 | 
 | 2022-11-13 | 81 | 16 | 
 | 2022-11-12 | 80 | 15 | 
-| 2022-11-10 | 80 | 15 | 
 

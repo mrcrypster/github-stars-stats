@@ -1,6 +1,6 @@
 # purcell/envrc - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 223 | 23 | 
 | 2022-12-09 | 223 | 23 | 
 | 2022-12-07 | 223 | 23 | 
 | 2022-12-06 | 223 | 23 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 219 | 23 | 
 | 2022-11-13 | 219 | 23 | 
 | 2022-11-12 | 219 | 23 | 
-| 2022-11-11 | 217 | 23 | 
 

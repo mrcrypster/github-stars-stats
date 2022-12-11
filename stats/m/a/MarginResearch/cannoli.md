@@ -1,10 +1,10 @@
 # MarginResearch/cannoli - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 16
 
-★ Stars: 383
+★ Stars: 384
 
 [Open repository](https://github.com/MarginResearch/cannoli)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 384 | 16 | 
 | 2022-12-09 | 383 | 16 | 
 | 2022-12-08 | 382 | 16 | 
 | 2022-12-07 | 382 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 376 | 16 | 
 | 2022-11-12 | 376 | 16 | 
 | 2022-11-11 | 376 | 16 | 
-| 2022-11-10 | 376 | 16 | 
 

@@ -1,6 +1,6 @@
 # nevilparmar11/Attendance-Management-System-Using-Face-Recognition - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 88
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 138 | 88 | 
 | 2022-12-09 | 138 | 88 | 
 | 2022-12-07 | 138 | 88 | 
 | 2022-12-06 | 137 | 88 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 134 | 83 | 
 | 2022-11-13 | 134 | 83 | 
 | 2022-11-12 | 134 | 83 | 
-| 2022-11-10 | 134 | 83 | 
 

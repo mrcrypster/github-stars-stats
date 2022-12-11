@@ -1,6 +1,6 @@
 # PostHog/posthog-ios - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 10 | 20 | 
 | 2022-12-09 | 10 | 20 | 
 | 2022-12-08 | 10 | 20 | 
 | 2022-12-06 | 10 | 20 | 

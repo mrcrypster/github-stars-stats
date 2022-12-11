@@ -1,6 +1,6 @@
 # deedy/Custom-Scheme-Interpreter - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 5 | 4 | 
 | 2022-12-08 | 5 | 4 | 
 | 2022-12-07 | 5 | 4 | 
 | 2022-12-06 | 5 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-14 | 5 | 4 | 
 | 2022-11-12 | 5 | 4 | 
 | 2022-11-11 | 5 | 4 | 
-| 2022-11-10 | 5 | 4 | 
 

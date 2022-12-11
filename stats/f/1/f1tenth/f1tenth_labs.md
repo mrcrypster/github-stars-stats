@@ -1,10 +1,10 @@
 # f1tenth/f1tenth_labs - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 67
 
-★ Stars: 35
+★ Stars: 36
 
 [Open repository](https://github.com/f1tenth/f1tenth_labs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 36 | 67 | 
 | 2022-12-09 | 35 | 67 | 
 | 2022-12-08 | 35 | 67 | 
 | 2022-12-07 | 35 | 67 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 35 | 68 | 
 | 2022-11-12 | 35 | 68 | 
 | 2022-11-11 | 35 | 68 | 
-| 2022-11-10 | 35 | 68 | 
 

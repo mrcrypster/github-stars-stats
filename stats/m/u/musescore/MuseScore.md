@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 10
 
 ☋ Forks: 1997
 
-★ Stars: 7767
+★ Stars: 7768
 
 [Open repository](https://github.com/musescore/MuseScore)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-10 | 7767 | 1997 | 
+| 2022-12-10 | 7768 | 1997 | 
 | 2022-12-09 | 7765 | 1997 | 
 | 2022-12-08 | 7763 | 1993 | 
 | 2022-12-07 | 7755 | 1993 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-13 | 7662 | 1985 | 
 | 2022-11-12 | 7651 | 1985 | 
 | 2022-11-11 | 7648 | 1984 | 
-| 2022-11-10 | 7644 | 1985 | 
 

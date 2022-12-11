@@ -1,6 +1,6 @@
 # ripperhe/bob-popclip - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 143 | 10 | 
 | 2022-12-08 | 143 | 10 | 
 | 2022-12-07 | 143 | 10 | 
 | 2022-12-06 | 143 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-14 | 142 | 10 | 
 | 2022-11-12 | 142 | 10 | 
 | 2022-11-11 | 142 | 10 | 
-| 2022-11-10 | 142 | 10 | 
 

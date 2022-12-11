@@ -1,6 +1,6 @@
 # eliascarv/TruthTables.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 54 | - | 
 | 2022-12-09 | 54 | - | 
 | 2022-12-07 | 54 | - | 
 | 2022-12-06 | 54 | - | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 53 | - | 
 | 2022-11-12 | 53 | - | 
 | 2022-11-11 | 53 | - | 
-| 2022-11-10 | 53 | - | 
 

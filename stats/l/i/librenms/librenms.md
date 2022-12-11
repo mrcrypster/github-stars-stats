@@ -1,6 +1,6 @@
 # librenms/librenms - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 1991
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 2959 | 1991 | 
 | 2022-12-09 | 2959 | 1991 | 
 | 2022-12-08 | 2960 | 1991 | 
 | 2022-12-07 | 2959 | 1990 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 2920 | 1967 | 
 | 2022-11-12 | 2918 | 1967 | 
 | 2022-11-11 | 2918 | 1965 | 
-| 2022-11-10 | 2917 | 1963 | 
 

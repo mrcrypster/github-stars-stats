@@ -1,10 +1,10 @@
 # ShaharMS/Vision - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 5
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/ShaharMS/Vision)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 33 | 5 | 
 | 2022-12-09 | 32 | 5 | 
 | 2022-12-07 | 32 | 5 | 
 | 2022-12-06 | 32 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 28 | 5 | 
 | 2022-11-12 | 28 | 5 | 
 | 2022-11-11 | 28 | 5 | 
-| 2022-11-10 | 27 | 5 | 
 

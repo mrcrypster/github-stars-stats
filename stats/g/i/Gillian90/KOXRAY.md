@@ -1,6 +1,6 @@
 # Gillian90/KOXRAY - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | - | 57 | 
 | 2022-12-09 | - | 57 | 
 | 2022-12-07 | - | 57 | 
 | 2022-12-06 | - | 57 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | - | 54 | 
 | 2022-11-13 | - | 54 | 
 | 2022-11-11 | - | 53 | 
-| 2022-11-10 | - | 53 | 
 

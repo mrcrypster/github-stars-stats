@@ -1,6 +1,6 @@
 # MrToph/goostew - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 48 | 4 | 
 | 2022-12-08 | 48 | 4 | 
 | 2022-12-07 | 48 | 4 | 
 | 2022-12-06 | 48 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-14 | 49 | 4 | 
 | 2022-11-13 | 49 | 4 | 
 | 2022-11-12 | 48 | 4 | 
-| 2022-11-11 | 48 | 4 | 
 

@@ -1,8 +1,8 @@
 # mschwarzmueller/nextjs-course-code - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 1642
+☋ Forks: 1643
 
 ★ Stars: 753
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 753 | 1643 | 
 | 2022-12-09 | 753 | 1642 | 
 | 2022-12-08 | 752 | 1635 | 
 | 2022-12-07 | 749 | 1632 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 723 | 1557 | 
 | 2022-11-13 | 720 | 1552 | 
 | 2022-11-12 | 720 | 1548 | 
-| 2022-11-11 | 718 | 1544 | 
 

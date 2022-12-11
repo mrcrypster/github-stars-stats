@@ -1,6 +1,6 @@
 # isovector/denotational-arithmetic-zurihac - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 6 | 1 | 
 | 2022-12-09 | 6 | 1 | 
 | 2022-12-08 | 6 | 1 | 
 | 2022-12-06 | 6 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 6 | 1 | 
 | 2022-11-12 | 6 | 1 | 
 | 2022-11-11 | 6 | 1 | 
-| 2022-11-10 | 6 | 1 | 
 

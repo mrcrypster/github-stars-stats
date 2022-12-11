@@ -1,6 +1,6 @@
 # msteindorfer/pdb.values.persistent.scala - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 2 | - | 
 | 2022-12-09 | 2 | - | 
 | 2022-12-07 | 2 | - | 
 | 2022-12-06 | 2 | - | 

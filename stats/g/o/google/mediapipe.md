@@ -1,10 +1,10 @@
 # google/mediapipe - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 4135
+☋ Forks: 4139
 
-★ Stars: 19653
+★ Stars: 19666
 
 [Open repository](https://github.com/google/mediapipe)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 19666 | 4139 | 
 | 2022-12-09 | 19653 | 4135 | 
 | 2022-12-08 | 19651 | 4134 | 
 | 2022-12-07 | 19633 | 4133 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 19354 | 4076 | 
 | 2022-11-12 | 19345 | 4073 | 
 | 2022-11-11 | 19326 | 4071 | 
-| 2022-11-10 | 19321 | 4071 | 
 

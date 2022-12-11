@@ -1,8 +1,8 @@
 # vLxve/qb-uwuplushies - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 5
+☋ Forks: 6
 
 ★ Stars: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 4 | 6 | 
 | 2022-12-09 | 4 | 5 | 
 | 2022-12-08 | 4 | 5 | 
 

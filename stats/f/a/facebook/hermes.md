@@ -1,10 +1,10 @@
 # facebook/hermes - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 478
 
-★ Stars: 7597
+★ Stars: 7599
 
 [Open repository](https://github.com/facebook/hermes)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 7599 | 478 | 
 | 2022-12-09 | 7597 | 478 | 
 | 2022-12-08 | 7598 | 477 | 
 | 2022-12-07 | 7598 | 475 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 7563 | 467 | 
 | 2022-11-12 | 7560 | 467 | 
 | 2022-11-11 | 7559 | 467 | 
-| 2022-11-10 | 7559 | 468 | 
 

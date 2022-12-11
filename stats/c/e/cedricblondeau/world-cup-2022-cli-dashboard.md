@@ -1,10 +1,10 @@
 # cedricblondeau/world-cup-2022-cli-dashboard - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 14
+☋ Forks: 15
 
-★ Stars: 421
+★ Stars: 427
 
 [Open repository](https://github.com/cedricblondeau/world-cup-2022-cli-dashboard)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 427 | 15 | 
 | 2022-12-09 | 421 | 14 | 
 | 2022-12-08 | 412 | 14 | 
 | 2022-12-07 | 410 | 14 | 

@@ -1,6 +1,6 @@
 # guanyingc/latex_paper_writing_tips - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 116
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 719 | 116 | 
 | 2022-12-08 | 719 | 116 | 
 | 2022-12-07 | 719 | 116 | 
 | 2022-12-06 | 717 | 116 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 678 | 113 | 
 | 2022-11-12 | 675 | 113 | 
 | 2022-11-11 | 671 | 112 | 
-| 2022-11-10 | 669 | 111 | 
 

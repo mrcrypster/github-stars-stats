@@ -1,10 +1,10 @@
 # yuya373/emacs-slack - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 110
 
-★ Stars: 1058
+★ Stars: 1059
 
 [Open repository](https://github.com/yuya373/emacs-slack)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 1059 | 110 | 
 | 2022-12-09 | 1058 | 110 | 
 | 2022-12-08 | 1058 | 110 | 
 | 2022-12-07 | 1057 | 109 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 1057 | 109 | 
 | 2022-11-12 | 1057 | 109 | 
 | 2022-11-11 | 1056 | 109 | 
-| 2022-11-10 | 1056 | 109 | 
 

@@ -1,10 +1,10 @@
 # davidstutz/latex-resources - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 125
+☋ Forks: 126
 
-★ Stars: 433
+★ Stars: 436
 
 [Open repository](https://github.com/davidstutz/latex-resources)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 436 | 126 | 
 | 2022-12-09 | 433 | 125 | 
 | 2022-12-08 | 433 | 125 | 
 | 2022-12-06 | 433 | 125 | 

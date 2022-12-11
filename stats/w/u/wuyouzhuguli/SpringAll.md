@@ -1,6 +1,6 @@
 # wuyouzhuguli/SpringAll - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 7424
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 24702 | 7424 | 
 | 2022-12-09 | 24702 | 7424 | 
 | 2022-12-08 | 24690 | 7425 | 
 | 2022-12-06 | 24684 | 7425 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 24550 | 7381 | 
 | 2022-11-12 | 24547 | 7381 | 
 | 2022-11-11 | 24542 | 7377 | 
-| 2022-11-10 | 24538 | 7373 | 
 

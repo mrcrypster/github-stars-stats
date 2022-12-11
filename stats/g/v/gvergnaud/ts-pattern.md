@@ -1,6 +1,6 @@
 # gvergnaud/ts-pattern - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 4950 | 51 | 
 | 2022-12-09 | 4950 | 51 | 
 | 2022-12-08 | 4940 | 51 | 
 | 2022-12-06 | 4936 | 51 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 4753 | 48 | 
 | 2022-11-12 | 4750 | 48 | 
 | 2022-11-11 | 4742 | 48 | 
-| 2022-11-10 | 4740 | 48 | 
 

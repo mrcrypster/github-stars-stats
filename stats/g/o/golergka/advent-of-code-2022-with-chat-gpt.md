@@ -1,10 +1,10 @@
 # golergka/advent-of-code-2022-with-chat-gpt - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 6
 
-★ Stars: 34
+★ Stars: 37
 
 [Open repository](https://github.com/golergka/advent-of-code-2022-with-chat-gpt)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 37 | 6 | 
 | 2022-12-09 | 34 | 6 | 
 | 2022-12-07 | 31 | 6 | 
 | 2022-12-06 | 30 | 6 | 

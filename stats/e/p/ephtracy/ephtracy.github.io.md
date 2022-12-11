@@ -1,10 +1,10 @@
 # ephtracy/ephtracy.github.io - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 279
 
-★ Stars: 2177
+★ Stars: 2178
 
 [Open repository](https://github.com/ephtracy/ephtracy.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 2178 | 279 | 
 | 2022-12-09 | 2177 | 279 | 
 | 2022-12-08 | 2176 | 279 | 
 | 2022-12-07 | 2173 | 279 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 2150 | 275 | 
 | 2022-11-12 | 2147 | 275 | 
 | 2022-11-11 | 2147 | 274 | 
-| 2022-11-10 | 2147 | 274 | 
 

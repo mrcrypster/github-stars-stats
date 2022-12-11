@@ -1,10 +1,10 @@
 # shibing624/pycorrector - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 886
 
-★ Stars: 3724
+★ Stars: 3726
 
 [Open repository](https://github.com/shibing624/pycorrector)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 3726 | 886 | 
 | 2022-12-09 | 3724 | 886 | 
 | 2022-12-08 | 3722 | 886 | 
 | 2022-12-07 | 3718 | 886 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 3665 | 879 | 
 | 2022-11-12 | 3666 | 879 | 
 | 2022-11-11 | 3665 | 879 | 
-| 2022-11-10 | 3661 | 879 | 
 

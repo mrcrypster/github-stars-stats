@@ -1,6 +1,6 @@
 # ExamProCo/Terraform-Associate-Labs - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 139
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 71 | 139 | 
 | 2022-12-08 | 71 | 139 | 
 | 2022-12-07 | 71 | 139 | 
 | 2022-12-06 | 71 | 139 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 70 | 138 | 
 | 2022-11-12 | 70 | 138 | 
 | 2022-11-11 | 70 | 138 | 
-| 2022-11-10 | 70 | 138 | 
 

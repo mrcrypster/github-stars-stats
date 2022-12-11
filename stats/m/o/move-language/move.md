@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 10
 
-☋ Forks: 328
+☋ Forks: 329
 
-★ Stars: 1425
+★ Stars: 1428
 
 [Open repository](https://github.com/move-language/move)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-10 | 1425 | 328 | 
+| 2022-12-10 | 1428 | 329 | 
 | 2022-12-08 | 1425 | 326 | 
 | 2022-12-07 | 1424 | 326 | 
 | 2022-12-06 | 1423 | 325 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-13 | 1361 | 305 | 
 | 2022-11-12 | 1356 | 303 | 
 | 2022-11-11 | 1351 | 302 | 
-| 2022-11-10 | 1346 | 300 | 
 

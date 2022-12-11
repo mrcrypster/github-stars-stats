@@ -1,10 +1,10 @@
 # leetal/ios-cmake - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 362
 
-★ Stars: 1403
+★ Stars: 1405
 
 [Open repository](https://github.com/leetal/ios-cmake)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 1405 | 362 | 
 | 2022-12-09 | 1403 | 362 | 
 | 2022-12-08 | 1403 | 362 | 
 | 2022-12-07 | 1403 | 362 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 1390 | 360 | 
 | 2022-11-12 | 1389 | 359 | 
 | 2022-11-11 | 1388 | 358 | 
-| 2022-11-10 | 1388 | 358 | 
 

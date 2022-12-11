@@ -1,10 +1,10 @@
 # Sk05062003/APClubIITP - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 10
+☋ Forks: 13
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/Sk05062003/APClubIITP)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 7 | 13 | 
 | 2022-12-09 | 6 | 10 | 
 | 2022-12-08 | 6 | 10 | 
 

@@ -1,10 +1,10 @@
 # johnrosen1/vpstoolbox - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 551
+☋ Forks: 554
 
-★ Stars: 1627
+★ Stars: 1629
 
 [Open repository](https://github.com/johnrosen1/vpstoolbox)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 1629 | 554 | 
 | 2022-12-09 | 1627 | 551 | 
 | 2022-12-07 | 1625 | 550 | 
 | 2022-12-06 | 1624 | 549 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 1610 | 547 | 
 | 2022-11-12 | 1610 | 548 | 
 | 2022-11-11 | 1610 | 548 | 
-| 2022-11-10 | 1608 | 548 | 
 

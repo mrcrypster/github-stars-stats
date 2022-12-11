@@ -1,6 +1,6 @@
 # cdepillabout/servant-rawm - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 7
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 16 | 7 | 
+| 2022-12-10 | 16 | 7 | 
 | 2022-12-09 | 16 | 7 | 
 | 2022-12-08 | 16 | 7 | 
 | 2022-12-07 | 16 | 7 | 
@@ -41,5 +43,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 16 | 7 | 
 | 2022-11-12 | 16 | 7 | 
 | 2022-11-11 | 16 | 7 | 
-| 2022-11-10 | 16 | 7 | 
 

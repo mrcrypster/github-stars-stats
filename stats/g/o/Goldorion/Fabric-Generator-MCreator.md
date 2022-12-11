@@ -1,6 +1,6 @@
 # Goldorion/Fabric-Generator-MCreator - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 69 | 19 | 
 | 2022-12-08 | 69 | 19 | 
 | 2022-12-07 | 69 | 19 | 
 | 2022-12-06 | 68 | 19 | 

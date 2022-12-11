@@ -1,6 +1,6 @@
 # peijin94/matlabPlotCheatsheet - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 83
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 303 | 83 | 
 | 2022-12-09 | 303 | 83 | 
 | 2022-12-08 | 303 | 83 | 
 | 2022-12-06 | 303 | 83 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 298 | 83 | 
 | 2022-11-12 | 298 | 83 | 
 | 2022-11-11 | 299 | 83 | 
-| 2022-11-10 | 299 | 83 | 
 

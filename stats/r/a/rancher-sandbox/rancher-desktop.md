@@ -1,10 +1,10 @@
 # rancher-sandbox/rancher-desktop - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
-☋ Forks: 193
+☋ Forks: 195
 
-★ Stars: 4264
+★ Stars: 4267
 
 [Open repository](https://github.com/rancher-sandbox/rancher-desktop)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 4267 | 195 | 
 | 2022-12-08 | 4264 | 193 | 
 | 2022-12-07 | 4262 | 193 | 
 | 2022-12-06 | 4258 | 193 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-14 | 4167 | 185 | 
 | 2022-11-13 | 4160 | 185 | 
 | 2022-11-12 | 4158 | 185 | 
-| 2022-11-11 | 4155 | 185 | 
 

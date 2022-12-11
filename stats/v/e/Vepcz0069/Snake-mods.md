@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 10
 
 ☋ Forks: 305
 
-★ Stars: 40
+★ Stars: 41
 
 [Open repository](https://github.com/Vepcz0069/Snake-mods)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-10 | 40 | 305 | 
+| 2022-12-10 | 41 | 305 | 
 | 2022-12-08 | 40 | 304 | 
 | 2022-12-07 | 40 | 303 | 
 | 2022-12-06 | 39 | 301 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-13 | 39 | 296 | 
 | 2022-11-12 | 39 | 296 | 
 | 2022-11-11 | 39 | 296 | 
-| 2022-11-10 | 38 | 296 | 
 

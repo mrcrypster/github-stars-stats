@@ -1,10 +1,10 @@
 # rafi/awesome-vim-colorschemes - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 156
+☋ Forks: 155
 
-★ Stars: 2301
+★ Stars: 2302
 
 [Open repository](https://github.com/rafi/awesome-vim-colorschemes)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 2302 | 155 | 
 | 2022-12-09 | 2301 | 156 | 
 | 2022-12-08 | 2301 | 156 | 
 | 2022-12-07 | 2301 | 156 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 2284 | 153 | 
 | 2022-11-12 | 2284 | 153 | 
 | 2022-11-11 | 2284 | 153 | 
-| 2022-11-10 | 2283 | 153 | 
 

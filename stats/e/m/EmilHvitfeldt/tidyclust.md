@@ -1,10 +1,10 @@
 # EmilHvitfeldt/tidyclust - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 6
 
-★ Stars: 65
+★ Stars: 67
 
 [Open repository](https://github.com/EmilHvitfeldt/tidyclust)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 67 | 6 | 
 | 2022-12-09 | 65 | 6 | 
 | 2022-12-08 | 65 | 6 | 
 | 2022-12-07 | 64 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 57 | 4 | 
 | 2022-11-13 | 57 | 4 | 
 | 2022-11-11 | 57 | 4 | 
-| 2022-11-10 | 57 | 4 | 
 

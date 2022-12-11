@@ -1,6 +1,6 @@
 # syntacore/scr1 - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 206
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 581 | 206 | 
 | 2022-12-09 | 581 | 206 | 
 | 2022-12-07 | 581 | 204 | 
 | 2022-12-06 | 581 | 204 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 573 | 203 | 
 | 2022-11-12 | 572 | 203 | 
 | 2022-11-11 | 572 | 203 | 
-| 2022-11-10 | 571 | 203 | 
 

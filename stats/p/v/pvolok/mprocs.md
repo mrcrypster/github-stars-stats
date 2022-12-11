@@ -1,10 +1,10 @@
 # pvolok/mprocs - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 19
 
-★ Stars: 575
+★ Stars: 576
 
 [Open repository](https://github.com/pvolok/mprocs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 576 | 19 | 
 | 2022-12-09 | 575 | 19 | 
 | 2022-12-07 | 574 | 19 | 
 | 2022-12-06 | 573 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 568 | 19 | 
 | 2022-11-12 | 568 | 19 | 
 | 2022-11-11 | 568 | 19 | 
-| 2022-11-10 | 568 | 19 | 
 

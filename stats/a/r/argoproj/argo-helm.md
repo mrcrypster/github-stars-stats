@@ -1,8 +1,8 @@
 # argoproj/argo-helm - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 1335
+☋ Forks: 1336
 
 ★ Stars: 975
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 975 | 1336 | 
 | 2022-12-09 | 975 | 1335 | 
 | 2022-12-08 | 973 | 1333 | 
 | 2022-12-07 | 969 | 1328 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 942 | 1283 | 
 | 2022-11-12 | 941 | 1284 | 
 | 2022-11-11 | 940 | 1284 | 
-| 2022-11-10 | 934 | 1280 | 
 

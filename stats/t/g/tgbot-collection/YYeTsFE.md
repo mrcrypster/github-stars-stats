@@ -1,6 +1,6 @@
 # tgbot-collection/YYeTsFE - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 178 | 49 | 
 | 2022-12-09 | 178 | 49 | 
 | 2022-12-08 | 178 | 49 | 
 | 2022-12-07 | 178 | 49 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 172 | 49 | 
 | 2022-11-12 | 172 | 49 | 
 | 2022-11-11 | 171 | 49 | 
-| 2022-11-10 | 171 | 49 | 
 

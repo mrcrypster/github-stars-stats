@@ -1,10 +1,10 @@
 # willitscale/learning-solidity - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 589
 
-★ Stars: 1980
+★ Stars: 1979
 
 [Open repository](https://github.com/willitscale/learning-solidity)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 1979 | 589 | 
 | 2022-12-08 | 1980 | 589 | 
 | 2022-12-07 | 1979 | 590 | 
 | 2022-12-06 | 1979 | 590 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 1970 | 591 | 
 | 2022-11-12 | 1970 | 591 | 
 | 2022-11-11 | 1970 | 590 | 
-| 2022-11-10 | 1971 | 590 | 
 

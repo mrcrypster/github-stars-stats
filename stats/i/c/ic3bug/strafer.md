@@ -1,6 +1,6 @@
 # ic3bug/strafer - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 87 | 6 | 
 | 2022-12-09 | 87 | 6 | 
 | 2022-12-08 | 86 | 6 | 
 | 2022-12-06 | 86 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 83 | 6 | 
 | 2022-11-13 | 83 | 6 | 
 | 2022-11-12 | 83 | 6 | 
-| 2022-11-10 | 83 | 6 | 
 

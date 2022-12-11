@@ -1,10 +1,10 @@
 # Gekkio/gb-research - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 7
 
-★ Stars: 203
+★ Stars: 204
 
 [Open repository](https://github.com/Gekkio/gb-research)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 204 | 7 | 
 | 2022-12-09 | 203 | 7 | 
 | 2022-12-08 | 203 | 7 | 
 | 2022-12-07 | 203 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 201 | 5 | 
 | 2022-11-12 | 198 | 5 | 
 | 2022-11-11 | 197 | 5 | 
-| 2022-11-10 | 197 | 5 | 
 

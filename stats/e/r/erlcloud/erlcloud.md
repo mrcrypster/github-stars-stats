@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 10
 
 ☋ Forks: 429
 
-★ Stars: 648
+★ Stars: 649
 
 [Open repository](https://github.com/erlcloud/erlcloud)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-10 | 648 | 429 | 
+| 2022-12-10 | 649 | 429 | 
 | 2022-12-09 | 648 | 429 | 
 | 2022-12-08 | 648 | 429 | 
 | 2022-12-07 | 648 | 429 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-13 | 647 | 426 | 
 | 2022-11-12 | 647 | 426 | 
 | 2022-11-11 | 647 | 426 | 
-| 2022-11-10 | 647 | 426 | 
 

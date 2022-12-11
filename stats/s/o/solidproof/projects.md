@@ -1,10 +1,10 @@
 # solidproof/projects - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 43
 
-★ Stars: 67
+★ Stars: 68
 
 [Open repository](https://github.com/solidproof/projects)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 68 | 43 | 
 | 2022-12-09 | 67 | 43 | 
 | 2022-12-08 | 67 | 43 | 
 | 2022-12-07 | 67 | 43 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 62 | 39 | 
 | 2022-11-12 | 62 | 38 | 
 | 2022-11-11 | 62 | 38 | 
-| 2022-11-10 | 61 | 38 | 
 

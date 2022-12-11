@@ -1,10 +1,10 @@
 # logseq/mldoc - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 9
 
-★ Stars: 167
+★ Stars: 168
 
 [Open repository](https://github.com/logseq/mldoc)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 168 | 9 | 
 | 2022-12-09 | 167 | 9 | 
 | 2022-12-07 | 167 | 9 | 
 | 2022-12-06 | 167 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 163 | 9 | 
 | 2022-11-12 | 163 | 9 | 
 | 2022-11-11 | 163 | 9 | 
-| 2022-11-10 | 163 | 9 | 
 

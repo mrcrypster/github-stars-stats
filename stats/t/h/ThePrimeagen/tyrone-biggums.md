@@ -1,6 +1,6 @@
 # ThePrimeagen/tyrone-biggums - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 334 | 40 | 
 | 2022-12-09 | 334 | 40 | 
 | 2022-12-08 | 334 | 40 | 
 | 2022-12-07 | 333 | 40 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 317 | 39 | 
 | 2022-11-12 | 316 | 39 | 
 | 2022-11-11 | 315 | 39 | 
-| 2022-11-10 | 315 | 39 | 
 

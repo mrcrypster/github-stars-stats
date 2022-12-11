@@ -1,10 +1,10 @@
 # reflex-frp/reflex - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 144
 
-★ Stars: 1010
+★ Stars: 1009
 
 [Open repository](https://github.com/reflex-frp/reflex)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 1009 | 144 | 
 | 2022-12-09 | 1010 | 144 | 
 | 2022-12-08 | 1008 | 144 | 
 | 2022-12-07 | 1008 | 144 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 1007 | 143 | 
 | 2022-11-12 | 1007 | 143 | 
 | 2022-11-11 | 1007 | 143 | 
-| 2022-11-10 | 1007 | 143 | 
 

@@ -1,6 +1,6 @@
 # pstanoev/simple-svelte-autocomplete - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 72
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 350 | 72 | 
 | 2022-12-09 | 350 | 72 | 
 | 2022-12-08 | 350 | 72 | 
 | 2022-12-07 | 350 | 72 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 342 | 72 | 
 | 2022-11-13 | 342 | 72 | 
 | 2022-11-11 | 342 | 72 | 
-| 2022-11-10 | 342 | 72 | 
 

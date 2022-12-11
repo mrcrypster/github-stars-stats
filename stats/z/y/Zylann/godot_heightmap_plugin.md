@@ -1,10 +1,10 @@
 # Zylann/godot_heightmap_plugin - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 116
+☋ Forks: 117
 
-★ Stars: 1149
+★ Stars: 1150
 
 [Open repository](https://github.com/Zylann/godot_heightmap_plugin)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 1150 | 117 | 
 | 2022-12-09 | 1149 | 116 | 
 | 2022-12-08 | 1149 | 115 | 
 | 2022-12-06 | 1148 | 115 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 1133 | 112 | 
 | 2022-11-12 | 1133 | 112 | 
 | 2022-11-11 | 1131 | 112 | 
-| 2022-11-10 | 1131 | 112 | 
 

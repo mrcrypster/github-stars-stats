@@ -1,10 +1,10 @@
 # qier222/YesPlayMusic - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 3065
+☋ Forks: 3066
 
-★ Stars: 20202
+★ Stars: 20215
 
 [Open repository](https://github.com/qier222/YesPlayMusic)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 20215 | 3066 | 
 | 2022-12-09 | 20202 | 3065 | 
 | 2022-12-08 | 20196 | 3057 | 
 | 2022-12-07 | 20183 | 3054 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 19869 | 3009 | 
 | 2022-11-12 | 19867 | 3009 | 
 | 2022-11-11 | 19862 | 3007 | 
-| 2022-11-10 | 19842 | 2999 | 
 

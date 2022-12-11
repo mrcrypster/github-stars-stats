@@ -1,6 +1,6 @@
 # Yemeni-Open-Source/blade-realtime-input - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 50 | 1 | 
 | 2022-12-09 | 50 | 1 | 
 | 2022-12-08 | 50 | 1 | 
 | 2022-12-07 | 50 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 48 | 1 | 
 | 2022-11-12 | 48 | 1 | 
 | 2022-11-11 | 48 | 1 | 
-| 2022-11-10 | 48 | 1 | 
 

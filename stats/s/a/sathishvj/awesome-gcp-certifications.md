@@ -1,8 +1,8 @@
 # sathishvj/awesome-gcp-certifications - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 1099
+☋ Forks: 1100
 
 ★ Stars: 2994
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 2994 | 1100 | 
 | 2022-12-09 | 2994 | 1099 | 
 | 2022-12-08 | 2992 | 1098 | 
 | 2022-12-07 | 2988 | 1097 | 

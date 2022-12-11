@@ -1,6 +1,6 @@
 # stateless-minds/cyber-stasis - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 111 | 2 | 
 | 2022-12-09 | 111 | 2 | 
 | 2022-12-07 | 111 | 2 | 
 | 2022-12-06 | 111 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 108 | 2 | 
 | 2022-11-13 | 107 | 2 | 
 | 2022-11-12 | 107 | 2 | 
-| 2022-11-10 | 107 | 2 | 
 

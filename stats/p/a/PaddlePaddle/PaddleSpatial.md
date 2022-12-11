@@ -1,10 +1,10 @@
 # PaddlePaddle/PaddleSpatial - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 120
 
-★ Stars: 156
+★ Stars: 157
 
 [Open repository](https://github.com/PaddlePaddle/PaddleSpatial)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 157 | 120 | 
 | 2022-12-09 | 156 | 120 | 
 | 2022-12-08 | 156 | 120 | 
 | 2022-12-07 | 156 | 119 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 146 | 119 | 
 | 2022-11-12 | 146 | 119 | 
 | 2022-11-11 | 145 | 119 | 
-| 2022-11-10 | 144 | 119 | 
 

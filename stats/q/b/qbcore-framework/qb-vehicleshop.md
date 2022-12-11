@@ -1,8 +1,8 @@
 # qbcore-framework/qb-vehicleshop - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 249
+☋ Forks: 250
 
 ★ Stars: 34
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 34 | 250 | 
 | 2022-12-09 | 34 | 249 | 
 | 2022-12-08 | 34 | 250 | 
 | 2022-12-06 | 34 | 251 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 33 | 252 | 
 | 2022-11-12 | 33 | 252 | 
 | 2022-11-11 | 32 | 252 | 
-| 2022-11-10 | 32 | 252 | 
 

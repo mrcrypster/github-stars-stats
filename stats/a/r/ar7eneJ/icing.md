@@ -1,6 +1,6 @@
 # ar7eneJ/icing - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 57 | 27 | 
 | 2022-12-08 | 57 | 27 | 
 | 2022-12-07 | 57 | 27 | 
 | 2022-12-06 | 57 | 27 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-14 | 57 | 27 | 
 | 2022-11-12 | 57 | 27 | 
 | 2022-11-11 | 57 | 27 | 
-| 2022-11-10 | 57 | 27 | 
 

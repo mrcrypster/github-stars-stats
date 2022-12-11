@@ -1,10 +1,10 @@
 # ThioJoe/YT-Spammer-Purge - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 394
 
-★ Stars: 4246
+★ Stars: 4247
 
 [Open repository](https://github.com/ThioJoe/YT-Spammer-Purge)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 4247 | 394 | 
 | 2022-12-09 | 4246 | 394 | 
 | 2022-12-08 | 4245 | 394 | 
 | 2022-12-07 | 4246 | 393 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 4229 | 393 | 
 | 2022-11-12 | 4224 | 393 | 
 | 2022-11-11 | 4222 | 393 | 
-| 2022-11-10 | 4222 | 393 | 
 

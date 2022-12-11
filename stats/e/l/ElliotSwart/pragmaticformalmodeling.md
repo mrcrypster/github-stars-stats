@@ -1,10 +1,10 @@
 # ElliotSwart/pragmaticformalmodeling - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 2
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/ElliotSwart/pragmaticformalmodeling)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 32 | 2 | 
 | 2022-12-09 | 31 | 2 | 
 | 2022-12-08 | 31 | 3 | 
 | 2022-12-07 | 31 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 29 | 3 | 
 | 2022-11-12 | 29 | 3 | 
 | 2022-11-11 | 29 | 3 | 
-| 2022-11-10 | 29 | 3 | 
 

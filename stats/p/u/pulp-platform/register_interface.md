@@ -1,10 +1,10 @@
 # pulp-platform/register_interface - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 17
 
-★ Stars: 41
+★ Stars: 42
 
 [Open repository](https://github.com/pulp-platform/register_interface)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 42 | 17 | 
 | 2022-12-09 | 41 | 17 | 
 | 2022-12-08 | 41 | 17 | 
 | 2022-12-07 | 41 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 40 | 15 | 
 | 2022-11-12 | 40 | 15 | 
 | 2022-11-11 | 40 | 15 | 
-| 2022-11-10 | 40 | 15 | 
 

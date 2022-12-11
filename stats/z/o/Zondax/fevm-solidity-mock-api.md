@@ -1,10 +1,10 @@
 # Zondax/fevm-solidity-mock-api - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 6
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/Zondax/fevm-solidity-mock-api)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 7 | 6 | 
 | 2022-12-09 | 6 | 6 | 
 | 2022-12-08 | 6 | 6 | 
 | 2022-12-07 | 6 | 6 | 

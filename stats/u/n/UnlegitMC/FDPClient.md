@@ -1,8 +1,8 @@
 # UnlegitMC/FDPClient - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 78
+☋ Forks: 79
 
 ★ Stars: 68
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 68 | 79 | 
 | 2022-12-09 | 68 | 78 | 
 | 2022-12-08 | 68 | 78 | 
 | 2022-12-07 | 68 | 78 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 69 | 76 | 
 | 2022-11-12 | 69 | 75 | 
 | 2022-11-11 | 69 | 75 | 
-| 2022-11-10 | 68 | 75 | 
 

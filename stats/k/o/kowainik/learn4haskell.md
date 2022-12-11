@@ -1,10 +1,10 @@
 # kowainik/learn4haskell - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 756
 
-★ Stars: 850
+★ Stars: 851
 
 [Open repository](https://github.com/kowainik/learn4haskell)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 851 | 756 | 
 | 2022-12-10 | 850 | 756 | 
 | 2022-12-08 | 850 | 754 | 
 | 2022-12-07 | 849 | 754 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-13 | 836 | 752 | 
 | 2022-11-12 | 836 | 751 | 
 | 2022-11-11 | 836 | 752 | 
-| 2022-11-10 | 835 | 752 | 
 

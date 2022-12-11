@@ -1,10 +1,10 @@
 # dimitri/el-get - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 467
+☋ Forks: 466
 
-★ Stars: 1603
+★ Stars: 1604
 
 [Open repository](https://github.com/dimitri/el-get)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 1604 | 466 | 
 | 2022-12-09 | 1603 | 467 | 
 | 2022-12-08 | 1603 | 467 | 
 | 2022-12-06 | 1602 | 467 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 1599 | 467 | 
 | 2022-11-12 | 1599 | 467 | 
 | 2022-11-11 | 1599 | 467 | 
-| 2022-11-10 | 1599 | 467 | 
 

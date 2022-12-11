@@ -1,10 +1,10 @@
 # vvb2060/MagiskDetector - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 78
 
-★ Stars: 444
+★ Stars: 445
 
 [Open repository](https://github.com/vvb2060/MagiskDetector)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 445 | 78 | 
 | 2022-12-09 | 444 | 78 | 
 | 2022-12-08 | 444 | 78 | 
 | 2022-12-07 | 444 | 78 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 437 | 77 | 
 | 2022-11-12 | 437 | 77 | 
 | 2022-11-11 | 437 | 77 | 
-| 2022-11-10 | 437 | 77 | 
 

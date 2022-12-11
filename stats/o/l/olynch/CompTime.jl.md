@@ -1,6 +1,6 @@
 # olynch/CompTime.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 56 | 2 | 
 | 2022-12-08 | 56 | 2 | 
 | 2022-12-07 | 56 | 2 | 
 | 2022-12-06 | 56 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-14 | 55 | 2 | 
 | 2022-11-13 | 55 | 2 | 
 | 2022-11-11 | 55 | 2 | 
-| 2022-11-10 | 55 | 2 | 
 

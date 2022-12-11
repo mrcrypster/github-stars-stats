@@ -1,6 +1,6 @@
 # r4ds/bookclub-geohealth - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 4 | 3 | 
 | 2022-12-08 | 4 | 3 | 
 | 2022-12-07 | 4 | 3 | 
 | 2022-12-06 | 4 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-14 | 3 | 3 | 
 | 2022-11-13 | 3 | 3 | 
 | 2022-11-12 | 3 | 3 | 
-| 2022-11-10 | 3 | 3 | 
 

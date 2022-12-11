@@ -1,8 +1,8 @@
 # INRIA/scikit-learn-mooc - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 409
+☋ Forks: 411
 
 ★ Stars: 799
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 799 | 411 | 
 | 2022-12-09 | 799 | 409 | 
 | 2022-12-07 | 798 | 408 | 
 | 2022-12-06 | 798 | 408 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 784 | 405 | 
 | 2022-11-12 | 784 | 404 | 
 | 2022-11-11 | 783 | 404 | 
-| 2022-11-10 | 783 | 404 | 
 

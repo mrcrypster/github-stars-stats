@@ -1,10 +1,10 @@
 # juji-io/datalevin - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 39
 
-★ Stars: 839
+★ Stars: 840
 
 [Open repository](https://github.com/juji-io/datalevin)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 840 | 39 | 
 | 2022-12-09 | 839 | 39 | 
 | 2022-12-08 | 839 | 39 | 
 | 2022-12-07 | 839 | 39 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 832 | 38 | 
 | 2022-11-12 | 832 | 38 | 
 | 2022-11-11 | 832 | 38 | 
-| 2022-11-10 | 831 | 38 | 
 

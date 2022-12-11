@@ -1,10 +1,10 @@
 # hpjansson/chafa - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 39
 
-★ Stars: 1775
+★ Stars: 1777
 
 [Open repository](https://github.com/hpjansson/chafa)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 1777 | 39 | 
 | 2022-12-09 | 1775 | 39 | 
 | 2022-12-07 | 1773 | 39 | 
 | 2022-12-06 | 1771 | 39 | 

@@ -1,6 +1,6 @@
 # JohnSnowLabs/spark-nlp-workshop - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 478
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 791 | 478 | 
 | 2022-12-09 | 791 | 478 | 
 | 2022-12-07 | 791 | 478 | 
 | 2022-12-06 | 785 | 476 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 775 | 477 | 
 | 2022-11-13 | 774 | 477 | 
 | 2022-11-12 | 774 | 477 | 
-| 2022-11-10 | 774 | 477 | 
 

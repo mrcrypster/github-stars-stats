@@ -1,10 +1,10 @@
 # vsouza/awesome-ios - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 6683
+☋ Forks: 6682
 
-★ Stars: 41296
+★ Stars: 41304
 
 [Open repository](https://github.com/vsouza/awesome-ios)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 41304 | 6682 | 
 | 2022-12-09 | 41296 | 6683 | 
 | 2022-12-08 | 41289 | 6682 | 
 | 2022-12-07 | 41287 | 6682 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 41075 | 6666 | 
 | 2022-11-12 | 41068 | 6663 | 
 | 2022-11-11 | 41061 | 6660 | 
-| 2022-11-10 | 41055 | 6660 | 
 

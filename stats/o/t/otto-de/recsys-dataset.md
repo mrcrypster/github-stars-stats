@@ -1,10 +1,10 @@
 # otto-de/recsys-dataset - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 16
+☋ Forks: 17
 
-★ Stars: 186
+★ Stars: 188
 
 [Open repository](https://github.com/otto-de/recsys-dataset)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 188 | 17 | 
 | 2022-12-09 | 186 | 16 | 
 | 2022-12-08 | 184 | 16 | 
 | 2022-12-07 | 180 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 100 | 8 | 
 | 2022-11-12 | 94 | 8 | 
 | 2022-11-11 | 92 | 8 | 
-| 2022-11-10 | 88 | 6 | 
 

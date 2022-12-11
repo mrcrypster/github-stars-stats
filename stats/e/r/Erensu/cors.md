@@ -1,10 +1,10 @@
 # Erensu/cors - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 27
+☋ Forks: 29
 
-★ Stars: 50
+★ Stars: 51
 
 [Open repository](https://github.com/Erensu/cors)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 51 | 29 | 
 | 2022-12-09 | 50 | 27 | 
 | 2022-12-08 | 49 | 27 | 
 | 2022-12-07 | 47 | 27 | 

@@ -1,10 +1,10 @@
 # CrazyZhang666/GTA5OnlineTools - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 78
+☋ Forks: 79
 
-★ Stars: 615
+★ Stars: 616
 
 [Open repository](https://github.com/CrazyZhang666/GTA5OnlineTools)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 616 | 79 | 
 | 2022-12-09 | 615 | 78 | 
 | 2022-12-08 | 614 | 78 | 
 | 2022-12-06 | 612 | 78 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 594 | 74 | 
 | 2022-11-12 | 594 | 74 | 
 | 2022-11-11 | 594 | 74 | 
-| 2022-11-10 | 594 | 74 | 
 

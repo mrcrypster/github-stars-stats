@@ -1,6 +1,6 @@
 # zhenyolka/DPITunnel-android - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 254 | 17 | 
 | 2022-12-09 | 254 | 17 | 
 | 2022-12-08 | 254 | 17 | 
 | 2022-12-06 | 254 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 239 | 16 | 
 | 2022-11-12 | 237 | 16 | 
 | 2022-11-11 | 237 | 16 | 
-| 2022-11-10 | 237 | 16 | 
 

@@ -1,6 +1,6 @@
 # GrapheneOS/platform_external_GmsCompatConfig - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 4 | - | 
 | 2022-12-09 | 4 | - | 
 | 2022-12-08 | 4 | - | 
 | 2022-12-07 | 4 | - | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 3 | - | 
 | 2022-11-12 | 3 | - | 
 | 2022-11-11 | 3 | - | 
-| 2022-11-10 | 3 | - | 
 

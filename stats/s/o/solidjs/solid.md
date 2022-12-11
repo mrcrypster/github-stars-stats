@@ -1,10 +1,10 @@
 # solidjs/solid - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 625
+☋ Forks: 627
 
-★ Stars: 23965
+★ Stars: 23989
 
 [Open repository](https://github.com/solidjs/solid)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 23989 | 627 | 
 | 2022-12-09 | 23965 | 625 | 
 | 2022-12-07 | 23942 | 625 | 
 | 2022-12-06 | 23903 | 623 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 23417 | 617 | 
 | 2022-11-12 | 23386 | 615 | 
 | 2022-11-11 | 23326 | 615 | 
-| 2022-11-10 | 23272 | 614 | 
 

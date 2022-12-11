@@ -1,6 +1,6 @@
 # NoRedInk/noredink-ui - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 116 | 11 | 
 | 2022-12-08 | 116 | 11 | 
 | 2022-12-07 | 116 | 11 | 
 | 2022-12-06 | 116 | 11 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-14 | 115 | 10 | 
 | 2022-11-13 | 115 | 10 | 
 | 2022-11-11 | 115 | 10 | 
-| 2022-11-10 | 115 | 10 | 
 

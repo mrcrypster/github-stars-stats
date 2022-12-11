@@ -1,6 +1,6 @@
 # RedditWritesCode/RedditWritesCode - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 231 | 20 | 
 | 2022-12-09 | 231 | 20 | 
 | 2022-12-08 | 230 | 20 | 
 | 2022-12-06 | 230 | 20 | 

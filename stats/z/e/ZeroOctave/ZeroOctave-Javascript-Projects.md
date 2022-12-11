@@ -1,10 +1,10 @@
 # ZeroOctave/ZeroOctave-Javascript-Projects - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 377
 
-★ Stars: 271
+★ Stars: 274
 
 [Open repository](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 274 | 377 | 
 | 2022-12-09 | 271 | 377 | 
 | 2022-12-07 | 271 | 377 | 
 | 2022-12-06 | 272 | 376 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 257 | 375 | 
 | 2022-11-13 | 257 | 376 | 
 | 2022-11-12 | 258 | 376 | 
-| 2022-11-11 | 258 | 376 | 
 

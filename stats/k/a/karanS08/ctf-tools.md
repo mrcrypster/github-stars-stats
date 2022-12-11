@@ -1,8 +1,8 @@
 # karanS08/ctf-tools - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
-☋ Forks: 105
+☋ Forks: 104
 
 ★ Stars: 76
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 76 | 104 | 
 | 2022-12-08 | 76 | 105 | 
 | 2022-12-07 | 76 | 105 | 
 | 2022-12-06 | 76 | 105 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-14 | 78 | 108 | 
 | 2022-11-13 | 78 | 108 | 
 | 2022-11-11 | 78 | 108 | 
-| 2022-11-10 | 78 | 109 | 
 

@@ -1,10 +1,10 @@
 # Chocobozzz/PeerTube - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 1277
 
-★ Stars: 11266
+★ Stars: 11270
 
 [Open repository](https://github.com/Chocobozzz/PeerTube)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 11270 | 1277 | 
 | 2022-12-09 | 11266 | 1277 | 
 | 2022-12-07 | 11265 | 1276 | 
 | 2022-12-06 | 11263 | 1273 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 11154 | 1262 | 
 | 2022-11-13 | 11150 | 1262 | 
 | 2022-11-11 | 11141 | 1262 | 
-| 2022-11-10 | 11139 | 1262 | 
 

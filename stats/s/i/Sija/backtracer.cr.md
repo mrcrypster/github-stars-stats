@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 10
 
 ☋ Forks: 0
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/Sija/backtracer.cr)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-10 | 12 | - | 
+| 2022-12-10 | 13 | - | 
 | 2022-12-08 | 12 | - | 
 | 2022-12-07 | 12 | - | 
 | 2022-12-06 | 11 | - | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-13 | 11 | - | 
 | 2022-11-12 | 11 | - | 
 | 2022-11-11 | 11 | - | 
-| 2022-11-10 | 11 | - | 
 

@@ -1,10 +1,10 @@
 # doctrine/lexer - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 52
 
-★ Stars: 10772
+★ Stars: 10771
 
 [Open repository](https://github.com/doctrine/lexer)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 10771 | 52 | 
 | 2022-12-08 | 10772 | 52 | 
 | 2022-12-07 | 10770 | 52 | 
 | 2022-12-06 | 10767 | 52 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-14 | 10754 | 52 | 
 | 2022-11-13 | 10753 | 52 | 
 | 2022-11-11 | 10753 | 52 | 
-| 2022-11-10 | 10752 | 52 | 
 

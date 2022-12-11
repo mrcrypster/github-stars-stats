@@ -1,6 +1,6 @@
 # reanimate/reanimate - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 937 | 53 | 
 | 2022-12-09 | 937 | 53 | 
 | 2022-12-08 | 937 | 53 | 
 | 2022-12-06 | 937 | 53 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 930 | 52 | 
 | 2022-11-13 | 930 | 52 | 
 | 2022-11-11 | 930 | 52 | 
-| 2022-11-10 | 930 | 52 | 
 

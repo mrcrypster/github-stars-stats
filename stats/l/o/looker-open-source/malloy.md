@@ -1,10 +1,10 @@
 # looker-open-source/malloy - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 43
 
-★ Stars: 1148
+★ Stars: 1152
 
 [Open repository](https://github.com/looker-open-source/malloy)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 1152 | 43 | 
 | 2022-12-08 | 1148 | 43 | 
 | 2022-12-07 | 1136 | 43 | 
 | 2022-12-06 | 1136 | 43 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-14 | 1080 | 41 | 
 | 2022-11-12 | 1080 | 41 | 
 | 2022-11-11 | 1080 | 41 | 
-| 2022-11-10 | 1078 | 41 | 
 

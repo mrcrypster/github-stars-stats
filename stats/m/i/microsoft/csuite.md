@@ -1,10 +1,10 @@
 # microsoft/csuite - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 2
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/microsoft/csuite)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 28 | 2 | 
 | 2022-12-09 | 27 | 2 | 
 | 2022-12-08 | 27 | 2 | 
 | 2022-12-07 | 27 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 26 | 2 | 
 | 2022-11-12 | 26 | 2 | 
 | 2022-11-11 | 26 | 2 | 
-| 2022-11-10 | 26 | 2 | 
 

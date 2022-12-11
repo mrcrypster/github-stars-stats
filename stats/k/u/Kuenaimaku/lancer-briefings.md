@@ -1,10 +1,10 @@
 # Kuenaimaku/lancer-briefings - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 104
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/Kuenaimaku/lancer-briefings)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 21 | 104 | 
 | 2022-12-08 | 20 | 104 | 
 | 2022-12-07 | 20 | 104 | 
 | 2022-12-06 | 20 | 104 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-14 | 20 | 103 | 
 | 2022-11-13 | 20 | 103 | 
 | 2022-11-12 | 20 | 103 | 
-| 2022-11-11 | 20 | 104 | 
 

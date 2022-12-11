@@ -1,10 +1,10 @@
 # TedGoas/Cerberus - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 706
+☋ Forks: 705
 
-★ Stars: 4587
+★ Stars: 4589
 
 [Open repository](https://github.com/TedGoas/Cerberus)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 4589 | 705 | 
 | 2022-12-09 | 4587 | 706 | 
 | 2022-12-08 | 4587 | 706 | 
 | 2022-12-06 | 4588 | 706 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 4576 | 705 | 
 | 2022-11-12 | 4575 | 705 | 
 | 2022-11-11 | 4575 | 705 | 
-| 2022-11-10 | 4575 | 705 | 
 

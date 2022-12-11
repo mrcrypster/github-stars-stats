@@ -1,8 +1,8 @@
 # sefyudem/portfolio-website - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 124
+☋ Forks: 122
 
 ★ Stars: 122
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 122 | 122 | 
 | 2022-12-09 | 122 | 124 | 
 | 2022-12-08 | 122 | 124 | 
 | 2022-12-07 | 121 | 124 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 121 | 120 | 
 | 2022-11-12 | 121 | 120 | 
 | 2022-11-11 | 121 | 120 | 
-| 2022-11-10 | 121 | 120 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 10
 
-☋ Forks: 554
+☋ Forks: 555
 
-★ Stars: 2018
+★ Stars: 2040
 
 [Open repository](https://github.com/pichenettes/eurorack)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-10 | 2018 | 554 | 
+| 2022-12-10 | 2040 | 555 | 
 | 2022-12-09 | 2014 | 553 | 
 

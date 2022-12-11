@@ -1,10 +1,10 @@
 # tayllan/awesome-algorithms - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 2089
+☋ Forks: 2090
 
-★ Stars: 12798
+★ Stars: 12804
 
 [Open repository](https://github.com/tayllan/awesome-algorithms)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 12804 | 2090 | 
 | 2022-12-09 | 12798 | 2089 | 
 | 2022-12-07 | 12795 | 2088 | 
 | 2022-12-06 | 12786 | 2087 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 12602 | 2059 | 
 | 2022-11-13 | 12593 | 2059 | 
 | 2022-11-12 | 12587 | 2059 | 
-| 2022-11-11 | 12584 | 2059 | 
 

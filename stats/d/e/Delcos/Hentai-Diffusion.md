@@ -1,10 +1,10 @@
 # Delcos/Hentai-Diffusion - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
-☋ Forks: 6
+☋ Forks: 7
 
-★ Stars: 70
+★ Stars: 73
 
 [Open repository](https://github.com/Delcos/Hentai-Diffusion)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 73 | 7 | 
 | 2022-12-08 | 70 | 6 | 
 | 2022-12-07 | 67 | 5 | 
 | 2022-12-06 | 64 | 5 | 

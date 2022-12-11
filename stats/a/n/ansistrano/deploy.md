@@ -1,10 +1,10 @@
 # ansistrano/deploy - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 334
 
-★ Stars: 2230
+★ Stars: 2231
 
 [Open repository](https://github.com/ansistrano/deploy)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 2231 | 334 | 
 | 2022-12-09 | 2230 | 334 | 
 | 2022-12-08 | 2230 | 334 | 
 | 2022-12-07 | 2230 | 335 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 2224 | 333 | 
 | 2022-11-12 | 2224 | 333 | 
 | 2022-11-11 | 2224 | 333 | 
-| 2022-11-10 | 2224 | 333 | 
 

@@ -1,6 +1,6 @@
 # emqx/hocon - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 27 | 13 | 
 | 2022-12-09 | 27 | 13 | 
 | 2022-12-08 | 27 | 13 | 
 | 2022-12-07 | 27 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 25 | 13 | 
 | 2022-11-12 | 25 | 13 | 
 | 2022-11-11 | 25 | 13 | 
-| 2022-11-10 | 26 | 13 | 
 

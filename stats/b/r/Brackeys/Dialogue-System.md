@@ -1,6 +1,6 @@
 # Brackeys/Dialogue-System - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 71
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 93 | 71 | 
 | 2022-12-09 | 93 | 71 | 
 | 2022-12-08 | 93 | 71 | 
 | 2022-12-06 | 93 | 71 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 92 | 71 | 
 | 2022-11-13 | 92 | 71 | 
 | 2022-11-11 | 92 | 71 | 
-| 2022-11-10 | 92 | 71 | 
 

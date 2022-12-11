@@ -1,10 +1,10 @@
 # opsdisk/pagodo - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 401
 
-★ Stars: 1954
+★ Stars: 1959
 
 [Open repository](https://github.com/opsdisk/pagodo)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 1959 | 401 | 
 | 2022-12-08 | 1954 | 401 | 
 | 2022-12-07 | 1954 | 401 | 
 | 2022-12-06 | 1952 | 400 | 

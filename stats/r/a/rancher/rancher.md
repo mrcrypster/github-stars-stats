@@ -1,10 +1,10 @@
 # rancher/rancher - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 2705
+☋ Forks: 2706
 
-★ Stars: 20298
+★ Stars: 20302
 
 [Open repository](https://github.com/rancher/rancher)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 20302 | 2706 | 
 | 2022-12-09 | 20298 | 2705 | 
 | 2022-12-08 | 20291 | 2703 | 
 | 2022-12-06 | 20285 | 2701 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 20174 | 2686 | 
 | 2022-11-12 | 20172 | 2686 | 
 | 2022-11-11 | 20166 | 2685 | 
-| 2022-11-10 | 20160 | 2685 | 
 

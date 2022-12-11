@@ -1,10 +1,10 @@
 # dracula/dracula-theme - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 2081
+☋ Forks: 2082
 
-★ Stars: 20117
+★ Stars: 20123
 
 [Open repository](https://github.com/dracula/dracula-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 20123 | 2082 | 
 | 2022-12-09 | 20117 | 2081 | 
 | 2022-12-08 | 20110 | 2082 | 
 | 2022-12-07 | 20098 | 2082 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 19920 | 2064 | 
 | 2022-11-12 | 19911 | 2063 | 
 | 2022-11-11 | 19901 | 2062 | 
-| 2022-11-10 | 19894 | 2059 | 
 

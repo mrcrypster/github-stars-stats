@@ -1,6 +1,6 @@
 # MrToph/nft-enhancement - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 23 | 6 | 
 | 2022-12-09 | 23 | 6 | 
 | 2022-12-08 | 23 | 6 | 
 | 2022-12-07 | 23 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 21 | 5 | 
 | 2022-11-12 | 21 | 5 | 
 | 2022-11-11 | 20 | 5 | 
-| 2022-11-10 | 20 | 5 | 
 

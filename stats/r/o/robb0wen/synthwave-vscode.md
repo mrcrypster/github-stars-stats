@@ -1,10 +1,10 @@
 # robb0wen/synthwave-vscode - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 1184
 
-★ Stars: 4926
+★ Stars: 4929
 
 [Open repository](https://github.com/robb0wen/synthwave-vscode)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 4929 | 1184 | 
 | 2022-12-09 | 4926 | 1184 | 
 | 2022-12-08 | 4921 | 1183 | 
 | 2022-12-06 | 4921 | 1183 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 4904 | 1185 | 
 | 2022-11-12 | 4902 | 1185 | 
 | 2022-11-11 | 4902 | 1185 | 
-| 2022-11-10 | 4899 | 1185 | 
 

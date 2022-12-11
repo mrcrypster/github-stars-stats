@@ -1,6 +1,6 @@
 # espen96/Loop - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 45 | 7 | 
 | 2022-12-08 | 45 | 7 | 
 | 2022-12-07 | 45 | 7 | 
 | 2022-12-06 | 45 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-13 | 45 | 6 | 
 | 2022-11-12 | 45 | 6 | 
 | 2022-11-11 | 45 | 6 | 
-| 2022-11-10 | 45 | 6 | 
 

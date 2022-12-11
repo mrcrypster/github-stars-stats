@@ -1,10 +1,10 @@
 # linkedin/feathr - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 158
 
-★ Stars: 1327
+★ Stars: 1329
 
 [Open repository](https://github.com/linkedin/feathr)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 1329 | 158 | 
 | 2022-12-09 | 1327 | 158 | 
 | 2022-12-08 | 1325 | 158 | 
 | 2022-12-07 | 1324 | 158 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 1283 | 153 | 
 | 2022-11-12 | 1283 | 152 | 
 | 2022-11-11 | 1283 | 152 | 
-| 2022-11-10 | 1281 | 152 | 
 

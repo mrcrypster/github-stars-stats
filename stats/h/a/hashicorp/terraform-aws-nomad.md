@@ -1,10 +1,10 @@
 # hashicorp/terraform-aws-nomad - stars & forks statistics
 
-Stats updated on Dec 2022, 08
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 189
 
-★ Stars: 255
+★ Stars: 256
 
 [Open repository](https://github.com/hashicorp/terraform-aws-nomad)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 256 | 189 | 
 | 2022-12-08 | 255 | 189 | 
 | 2022-12-07 | 255 | 188 | 
 | 2022-12-06 | 255 | 188 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 08
 | 2022-11-14 | 256 | 186 | 
 | 2022-11-13 | 256 | 186 | 
 | 2022-11-12 | 256 | 186 | 
-| 2022-11-11 | 256 | 186 | 
 

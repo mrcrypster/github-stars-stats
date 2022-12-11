@@ -1,10 +1,10 @@
 # github-community/community - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 1744
+☋ Forks: 1747
 
-★ Stars: 4978
+★ Stars: 4983
 
 [Open repository](https://github.com/github-community/community)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 4983 | 1747 | 
 | 2022-12-09 | 4978 | 1744 | 
 | 2022-12-07 | 4967 | 1738 | 
 | 2022-12-06 | 4967 | 1726 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 4799 | 1641 | 
 | 2022-11-12 | 4794 | 1635 | 
 | 2022-11-11 | 4776 | 1631 | 
-| 2022-11-10 | 4763 | 1628 | 
 

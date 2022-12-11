@@ -1,6 +1,6 @@
 # worldcoin/world-id-lens - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 55 | 1 | 
 | 2022-12-09 | 55 | 1 | 
 | 2022-12-08 | 55 | 1 | 
 | 2022-12-07 | 55 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 53 | 1 | 
 | 2022-11-12 | 53 | 1 | 
 | 2022-11-11 | 53 | 1 | 
-| 2022-11-10 | 53 | 1 | 
 

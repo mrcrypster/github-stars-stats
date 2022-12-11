@@ -1,10 +1,10 @@
 # smartpde/telescope-recent-files - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 2
 
-★ Stars: 40
+★ Stars: 41
 
 [Open repository](https://github.com/smartpde/telescope-recent-files)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 41 | 2 | 
 | 2022-12-09 | 40 | 2 | 
 | 2022-12-08 | 40 | 2 | 
 | 2022-12-06 | 40 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 35 | 2 | 
 | 2022-11-13 | 35 | 2 | 
 | 2022-11-12 | 35 | 2 | 
-| 2022-11-11 | 35 | 2 | 
 

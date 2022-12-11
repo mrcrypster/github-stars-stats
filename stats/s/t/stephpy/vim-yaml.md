@@ -1,6 +1,6 @@
 # stephpy/vim-yaml - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 212 | 43 | 
 | 2022-12-09 | 212 | 43 | 
 | 2022-12-08 | 212 | 43 | 
 | 2022-12-06 | 212 | 43 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 212 | 43 | 
 | 2022-11-12 | 212 | 43 | 
 | 2022-11-11 | 212 | 43 | 
-| 2022-11-10 | 212 | 43 | 
 

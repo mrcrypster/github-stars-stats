@@ -1,10 +1,10 @@
 # ecomfe/vue-echarts - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 1409
+☋ Forks: 1410
 
-★ Stars: 7748
+★ Stars: 7747
 
 [Open repository](https://github.com/ecomfe/vue-echarts)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 7747 | 1410 | 
 | 2022-12-09 | 7748 | 1409 | 
 | 2022-12-08 | 7746 | 1407 | 
 | 2022-12-06 | 7738 | 1407 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 7678 | 1403 | 
 | 2022-11-12 | 7677 | 1403 | 
 | 2022-11-11 | 7676 | 1403 | 
-| 2022-11-10 | 7671 | 1402 | 
 

@@ -1,10 +1,10 @@
 # Gictorbit/photoshopCClinux - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 286
+☋ Forks: 285
 
-★ Stars: 3651
+★ Stars: 3652
 
 [Open repository](https://github.com/Gictorbit/photoshopCClinux)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 3652 | 285 | 
 | 2022-12-09 | 3651 | 286 | 
 | 2022-12-08 | 3648 | 286 | 
 | 2022-12-07 | 3644 | 286 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 3621 | 284 | 
 | 2022-11-12 | 3622 | 283 | 
 | 2022-11-11 | 3621 | 283 | 
-| 2022-11-10 | 3620 | 283 | 
 

@@ -1,10 +1,10 @@
 # scrimba/learn-javascript - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 776
 
-★ Stars: 393
+★ Stars: 395
 
 [Open repository](https://github.com/scrimba/learn-javascript)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 395 | 776 | 
 | 2022-12-09 | 393 | 776 | 
 | 2022-12-08 | 393 | 777 | 
 | 2022-12-06 | 392 | 775 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 384 | 752 | 
 | 2022-11-12 | 383 | 752 | 
 | 2022-11-11 | 383 | 752 | 
-| 2022-11-10 | 382 | 751 | 
 

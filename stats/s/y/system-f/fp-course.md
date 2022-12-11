@@ -1,8 +1,8 @@
 # system-f/fp-course - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 1175
+☋ Forks: 1176
 
 ★ Stars: 3934
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 3934 | 1176 | 
 | 2022-12-09 | 3934 | 1175 | 
 | 2022-12-08 | 3934 | 1175 | 
 | 2022-12-07 | 3932 | 1174 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 3927 | 1174 | 
 | 2022-11-12 | 3927 | 1173 | 
 | 2022-11-11 | 3927 | 1173 | 
-| 2022-11-10 | 3926 | 1174 | 
 

@@ -1,10 +1,10 @@
 # xugaoyi/vuepress-theme-vdoing - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 779
+☋ Forks: 780
 
-★ Stars: 2796
+★ Stars: 2797
 
 [Open repository](https://github.com/xugaoyi/vuepress-theme-vdoing)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 2797 | 780 | 
 | 2022-12-09 | 2796 | 779 | 
 | 2022-12-08 | 2794 | 778 | 
 | 2022-12-06 | 2792 | 777 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 2717 | 762 | 
 | 2022-11-12 | 2716 | 762 | 
 | 2022-11-11 | 2714 | 761 | 
-| 2022-11-10 | 2707 | 762 | 
 

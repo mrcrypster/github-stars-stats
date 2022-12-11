@@ -1,6 +1,6 @@
 # johnoseni1/My-Portfolio-V1 - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 32 | 3 | 
 | 2022-12-09 | 32 | 3 | 
 | 2022-12-07 | 32 | 3 | 
 | 2022-12-06 | 32 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 32 | 3 | 
 | 2022-11-13 | 32 | 3 | 
 | 2022-11-12 | 32 | 3 | 
-| 2022-11-10 | 32 | 3 | 
 

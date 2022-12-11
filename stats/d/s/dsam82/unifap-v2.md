@@ -1,6 +1,6 @@
 # dsam82/unifap-v2 - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 54 | 2 | 
 | 2022-12-09 | 54 | 2 | 
 | 2022-12-08 | 54 | 2 | 
 | 2022-12-06 | 54 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 55 | 2 | 
 | 2022-11-12 | 55 | 2 | 
 | 2022-11-11 | 55 | 2 | 
-| 2022-11-10 | 55 | 2 | 
 

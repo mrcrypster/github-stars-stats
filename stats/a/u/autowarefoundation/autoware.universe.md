@@ -1,6 +1,6 @@
 # autowarefoundation/autoware.universe - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 222
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 335 | 222 | 
 | 2022-12-09 | 335 | 222 | 
 | 2022-12-08 | 335 | 221 | 
 | 2022-12-07 | 334 | 220 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 313 | 204 | 
 | 2022-11-12 | 312 | 204 | 
 | 2022-11-11 | 312 | 203 | 
-| 2022-11-10 | 312 | 203 | 
 

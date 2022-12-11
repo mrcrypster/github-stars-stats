@@ -1,10 +1,10 @@
 # traccar/traccar - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 11
 
-☋ Forks: 2179
+☋ Forks: 2181
 
-★ Stars: 3838
+★ Stars: 3839
 
 [Open repository](https://github.com/traccar/traccar)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 3839 | 2181 | 
 | 2022-12-09 | 3838 | 2179 | 
 | 2022-12-08 | 3838 | 2177 | 
 | 2022-12-07 | 3837 | 2175 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 3813 | 2168 | 
 | 2022-11-13 | 3809 | 2169 | 
 | 2022-11-12 | 3809 | 2167 | 
-| 2022-11-10 | 3808 | 2168 | 
 

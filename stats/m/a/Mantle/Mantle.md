@@ -1,6 +1,6 @@
 # Mantle/Mantle - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 1484
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 11322 | 1484 | 
 | 2022-12-09 | 11322 | 1484 | 
 | 2022-12-08 | 11322 | 1484 | 
 | 2022-12-07 | 11322 | 1484 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 11322 | 1485 | 
 | 2022-11-12 | 11322 | 1485 | 
 | 2022-11-11 | 11322 | 1485 | 
-| 2022-11-10 | 11322 | 1485 | 
 

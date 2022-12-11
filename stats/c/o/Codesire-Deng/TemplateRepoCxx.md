@@ -1,10 +1,10 @@
 # Codesire-Deng/TemplateRepoCxx - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 29
+☋ Forks: 31
 
-★ Stars: 82
+★ Stars: 84
 
 [Open repository](https://github.com/Codesire-Deng/TemplateRepoCxx)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 84 | 31 | 
 | 2022-12-09 | 82 | 29 | 
 | 2022-12-08 | 81 | 29 | 
 | 2022-12-07 | 81 | 29 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 78 | 29 | 
 | 2022-11-12 | 78 | 29 | 
 | 2022-11-11 | 78 | 28 | 
-| 2022-11-10 | 78 | 28 | 
 

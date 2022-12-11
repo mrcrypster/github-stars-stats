@@ -1,6 +1,6 @@
 # DSC-Galgotias/Hacktoberfest2022 - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 77
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 12 | 77 | 
 | 2022-12-09 | 12 | 77 | 
 | 2022-12-08 | 12 | 77 | 
 | 2022-12-06 | 12 | 77 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 12 | 77 | 
 | 2022-11-13 | 12 | 77 | 
 | 2022-11-12 | 12 | 77 | 
-| 2022-11-10 | 12 | 77 | 
 

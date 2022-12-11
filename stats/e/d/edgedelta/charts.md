@@ -1,10 +1,10 @@
 # edgedelta/charts - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 4
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/edgedelta/charts)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 3 | 4 | 
 | 2022-12-09 | 2 | 4 | 
 | 2022-12-07 | 2 | 4 | 
 | 2022-12-06 | 2 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 1 | 3 | 
 | 2022-11-13 | 1 | 3 | 
 | 2022-11-12 | 1 | 3 | 
-| 2022-11-10 | 1 | 3 | 
 

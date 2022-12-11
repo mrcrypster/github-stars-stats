@@ -1,10 +1,10 @@
 # ndesai15/coding-java - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 56
+☋ Forks: 55
 
-★ Stars: 57
+★ Stars: 58
 
 [Open repository](https://github.com/ndesai15/coding-java)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 58 | 55 | 
 | 2022-12-09 | 57 | 56 | 
 | 2022-12-08 | 57 | 56 | 
 | 2022-12-06 | 57 | 56 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 57 | 56 | 
 | 2022-11-12 | 57 | 56 | 
 | 2022-11-11 | 57 | 56 | 
-| 2022-11-10 | 57 | 56 | 
 

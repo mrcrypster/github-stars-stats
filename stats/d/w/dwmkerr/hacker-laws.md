@@ -1,10 +1,10 @@
 # dwmkerr/hacker-laws - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 1461
+☋ Forks: 1460
 
-★ Stars: 24393
+★ Stars: 24397
 
 [Open repository](https://github.com/dwmkerr/hacker-laws)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 24397 | 1460 | 
 | 2022-12-09 | 24393 | 1461 | 
 | 2022-12-08 | 24392 | 1461 | 
 | 2022-12-07 | 24392 | 1461 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-13 | 24329 | 1458 | 
 | 2022-11-12 | 24327 | 1458 | 
 | 2022-11-11 | 24327 | 1457 | 
-| 2022-11-10 | 24325 | 1457 | 
 

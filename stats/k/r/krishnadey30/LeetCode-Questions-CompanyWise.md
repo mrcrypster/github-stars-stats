@@ -1,10 +1,10 @@
 # krishnadey30/LeetCode-Questions-CompanyWise - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
-☋ Forks: 1176
+☋ Forks: 1179
 
-★ Stars: 1968
+★ Stars: 1982
 
 [Open repository](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 1982 | 1179 | 
 | 2022-12-09 | 1968 | 1176 | 
 | 2022-12-08 | 1961 | 1175 | 
 | 2022-12-07 | 1959 | 1172 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 1901 | 1151 | 
 | 2022-11-13 | 1900 | 1151 | 
 | 2022-11-11 | 1898 | 1149 | 
-| 2022-11-10 | 1899 | 1149 | 
 

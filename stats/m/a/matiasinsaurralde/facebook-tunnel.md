@@ -1,10 +1,10 @@
 # matiasinsaurralde/facebook-tunnel - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 10
 
 ☋ Forks: 85
 
-★ Stars: 1264
+★ Stars: 1265
 
 [Open repository](https://github.com/matiasinsaurralde/facebook-tunnel)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-10 | 1265 | 85 | 
 | 2022-12-09 | 1264 | 85 | 
 | 2022-12-08 | 1264 | 85 | 
 | 2022-12-07 | 1264 | 85 | 
