@@ -1,10 +1,10 @@
 # ChrisTitusTech/powershell-profile - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 62
 
-★ Stars: 76
+★ Stars: 77
 
 [Open repository](https://github.com/ChrisTitusTech/powershell-profile)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 77 | 62 | 
 | 2022-12-09 | 76 | 62 | 
 | 2022-12-08 | 75 | 60 | 
 | 2022-12-07 | 75 | 60 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 54 | 48 | 
 | 2022-11-13 | 53 | 48 | 
 | 2022-11-12 | 52 | 47 | 
-| 2022-11-11 | 50 | 45 | 
 

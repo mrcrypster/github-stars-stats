@@ -1,8 +1,8 @@
 # supaflare/supaflare - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
-☋ Forks: 24
+☋ Forks: 25
 
 ★ Stars: 90
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 90 | 25 | 
 | 2022-12-10 | 90 | 24 | 
 | 2022-12-09 | 90 | 23 | 
 | 2022-12-08 | 90 | 23 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 88 | 23 | 
 | 2022-11-14 | 88 | 23 | 
 | 2022-11-13 | 87 | 22 | 
-| 2022-11-12 | 87 | 22 | 
 

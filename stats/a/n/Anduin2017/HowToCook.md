@@ -1,10 +1,10 @@
 # Anduin2017/HowToCook - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
-☋ Forks: 7325
+☋ Forks: 7326
 
-★ Stars: 48994
+★ Stars: 49022
 
 [Open repository](https://github.com/Anduin2017/HowToCook)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 49022 | 7326 | 
 | 2022-12-10 | 48994 | 7325 | 
 | 2022-12-09 | 48980 | 7324 | 
 | 2022-12-08 | 48952 | 7315 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 48280 | 7240 | 
 | 2022-11-13 | 48267 | 7237 | 
 | 2022-11-12 | 48255 | 7233 | 
-| 2022-11-11 | 48235 | 7228 | 
 

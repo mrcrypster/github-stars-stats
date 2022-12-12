@@ -1,10 +1,10 @@
 # dream-num/Luckysheet - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 1750
 
-★ Stars: 12640
+★ Stars: 12645
 
 [Open repository](https://github.com/dream-num/Luckysheet)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 12645 | 1750 | 
 | 2022-12-10 | 12640 | 1750 | 
 | 2022-12-09 | 12635 | 1749 | 
 | 2022-12-08 | 12626 | 1749 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 12492 | 1729 | 
 | 2022-11-14 | 12483 | 1728 | 
 | 2022-11-12 | 12481 | 1729 | 
-| 2022-11-11 | 12476 | 1728 | 
 

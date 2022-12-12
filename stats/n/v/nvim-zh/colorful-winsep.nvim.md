@@ -1,6 +1,6 @@
 # nvim-zh/colorful-winsep.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 176 | 4 | 
 | 2022-12-10 | 176 | 4 | 
 | 2022-12-09 | 175 | 4 | 
 | 2022-12-08 | 175 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 141 | 4 | 
 | 2022-11-13 | 137 | 4 | 
 | 2022-11-12 | 126 | 3 | 
-| 2022-11-11 | 125 | 3 | 
 

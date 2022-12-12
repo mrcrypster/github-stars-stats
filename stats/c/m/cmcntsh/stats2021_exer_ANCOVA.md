@@ -1,6 +1,6 @@
 # cmcntsh/stats2021_exer_ANCOVA - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | - | 18 | 
 | 2022-12-10 | - | 18 | 
 | 2022-12-09 | - | 18 | 
 | 2022-12-08 | - | 18 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | - | 18 | 
 | 2022-11-14 | - | 18 | 
 | 2022-11-13 | - | 18 | 
-| 2022-11-12 | - | 18 | 
 

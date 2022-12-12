@@ -1,10 +1,10 @@
 # fspoettel/advent-of-code-rust - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 11
 
-☋ Forks: 10
+☋ Forks: 9
 
-★ Stars: 315
+★ Stars: 318
 
 [Open repository](https://github.com/fspoettel/advent-of-code-rust)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 318 | 9 | 
 | 2022-12-09 | 315 | 10 | 
 | 2022-12-08 | 310 | 10 | 
 | 2022-12-07 | 301 | 10 | 

@@ -1,10 +1,10 @@
 # kestra-io/kestra - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 172
 
-★ Stars: 3044
+★ Stars: 3045
 
 [Open repository](https://github.com/kestra-io/kestra)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 3045 | 172 | 
 | 2022-12-10 | 3044 | 172 | 
 | 2022-12-08 | 3036 | 172 | 
 | 2022-12-07 | 3033 | 172 | 

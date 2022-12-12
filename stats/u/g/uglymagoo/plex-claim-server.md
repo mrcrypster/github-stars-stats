@@ -1,6 +1,6 @@
 # uglymagoo/plex-claim-server - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 70 | 9 | 
 | 2022-12-10 | 70 | 9 | 
 | 2022-12-09 | 69 | 9 | 
 | 2022-12-08 | 69 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 68 | 9 | 
 | 2022-11-13 | 68 | 9 | 
 | 2022-11-12 | 68 | 9 | 
-| 2022-11-11 | 68 | 9 | 
 

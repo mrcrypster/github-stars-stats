@@ -1,10 +1,10 @@
 # Pugmatt/BedrockConnect - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 106
 
-★ Stars: 884
+★ Stars: 885
 
 [Open repository](https://github.com/Pugmatt/BedrockConnect)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 885 | 106 | 
 | 2022-12-10 | 884 | 106 | 
 | 2022-12-09 | 882 | 106 | 
 | 2022-12-08 | 881 | 106 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 860 | 106 | 
 | 2022-11-13 | 859 | 106 | 
 | 2022-11-12 | 859 | 106 | 
-| 2022-11-11 | 859 | 106 | 
 

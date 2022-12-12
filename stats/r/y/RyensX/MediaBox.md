@@ -1,6 +1,6 @@
 # RyensX/MediaBox - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 392 | 24 | 
 | 2022-12-10 | 392 | 24 | 
 | 2022-12-09 | 392 | 24 | 
 | 2022-12-08 | 392 | 24 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 380 | 24 | 
 | 2022-11-13 | 381 | 24 | 
 | 2022-11-12 | 380 | 24 | 
-| 2022-11-11 | 379 | 24 | 
 

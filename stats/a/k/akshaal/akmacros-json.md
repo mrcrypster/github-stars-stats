@@ -1,6 +1,6 @@
 # akshaal/akmacros-json - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 1
 
@@ -13,5 +13,6 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 1 | 1 | 
 | 2022-12-10 | 1 | 1 | 
 

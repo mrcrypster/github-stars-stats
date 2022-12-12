@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 11
 
 ☋ Forks: 60
 
-★ Stars: 1606
+★ Stars: 1608
 
 [Open repository](https://github.com/rebelot/kanagawa.nvim)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-11 | 1606 | 60 | 
+| 2022-12-11 | 1608 | 60 | 
 | 2022-12-10 | 1601 | 60 | 
 | 2022-12-09 | 1596 | 60 | 
 | 2022-12-08 | 1588 | 60 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-14 | 1537 | 58 | 
 | 2022-11-13 | 1532 | 58 | 
 | 2022-11-12 | 1531 | 58 | 
-| 2022-11-11 | 1529 | 58 | 
 

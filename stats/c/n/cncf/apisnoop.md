@@ -1,6 +1,6 @@
 # cncf/apisnoop - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 80 | 40 | 
 | 2022-12-10 | 80 | 40 | 
 | 2022-12-09 | 80 | 40 | 
 | 2022-12-07 | 80 | 40 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 79 | 40 | 
 | 2022-11-13 | 79 | 40 | 
 | 2022-11-12 | 79 | 40 | 
-| 2022-11-11 | 79 | 40 | 
 

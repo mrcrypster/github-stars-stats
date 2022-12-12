@@ -1,6 +1,6 @@
 # elchinoo/tutorials-db - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 24 | 9 | 
 | 2022-12-10 | 24 | 9 | 
 | 2022-12-08 | 24 | 9 | 
 | 2022-12-07 | 24 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 24 | 9 | 
 | 2022-11-13 | 24 | 9 | 
 | 2022-11-12 | 24 | 9 | 
-| 2022-11-11 | 24 | 9 | 
 

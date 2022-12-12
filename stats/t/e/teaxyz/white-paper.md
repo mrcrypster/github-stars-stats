@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 11
 
-☋ Forks: 87
+☋ Forks: 90
 
-★ Stars: 134
+★ Stars: 139
 
 [Open repository](https://github.com/teaxyz/white-paper)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-11 | 134 | 87 | 
+| 2022-12-11 | 139 | 90 | 
 | 2022-12-10 | 134 | 86 | 
 | 2022-12-09 | 133 | 85 | 
 | 2022-12-08 | 127 | 81 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-14 | 101 | 75 | 
 | 2022-11-13 | 101 | 75 | 
 | 2022-11-12 | 101 | 75 | 
-| 2022-11-11 | 101 | 75 | 
 

@@ -1,10 +1,10 @@
 # vlggms/lobotomy-corp13 - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 54
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/vlggms/lobotomy-corp13)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 9 | 54 | 
 | 2022-12-10 | 8 | 54 | 
 | 2022-12-09 | 8 | 54 | 
 | 2022-12-08 | 8 | 54 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 7 | 53 | 
 | 2022-11-13 | 7 | 53 | 
 | 2022-11-12 | 7 | 53 | 
-| 2022-11-11 | 7 | 53 | 
 

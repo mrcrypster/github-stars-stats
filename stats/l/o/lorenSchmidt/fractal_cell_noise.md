@@ -1,10 +1,10 @@
 # lorenSchmidt/fractal_cell_noise - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 9
 
-★ Stars: 237
+★ Stars: 239
 
 [Open repository](https://github.com/lorenSchmidt/fractal_cell_noise)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 239 | 9 | 
 | 2022-12-10 | 237 | 9 | 
 | 2022-12-09 | 234 | 8 | 
 | 2022-12-08 | 230 | 8 | 

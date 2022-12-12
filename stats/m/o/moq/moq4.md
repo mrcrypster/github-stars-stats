@@ -1,10 +1,10 @@
 # moq/moq4 - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 667
 
-★ Stars: 4936
+★ Stars: 4937
 
 [Open repository](https://github.com/moq/moq4)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 4937 | 667 | 
 | 2022-12-10 | 4936 | 667 | 
 | 2022-12-09 | 4936 | 667 | 
 | 2022-12-08 | 4931 | 667 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 4884 | 661 | 
 | 2022-11-13 | 4882 | 660 | 
 | 2022-11-12 | 4882 | 659 | 
-| 2022-11-11 | 4881 | 659 | 
 

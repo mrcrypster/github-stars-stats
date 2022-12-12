@@ -1,10 +1,10 @@
 # saltstack/salt - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
-☋ Forks: 5368
+☋ Forks: 5369
 
-★ Stars: 12894
+★ Stars: 12895
 
 [Open repository](https://github.com/saltstack/salt)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 12895 | 5369 | 
 | 2022-12-10 | 12894 | 5368 | 
 | 2022-12-08 | 12892 | 5365 | 
 | 2022-12-07 | 12891 | 5363 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 12842 | 5350 | 
 | 2022-11-13 | 12840 | 5349 | 
 | 2022-11-12 | 12837 | 5349 | 
-| 2022-11-11 | 12836 | 5351 | 
 

@@ -1,6 +1,6 @@
 # usegalaxy-eu/website - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 94
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 15 | 94 | 
 | 2022-12-10 | 15 | 94 | 
 | 2022-12-08 | 15 | 94 | 
 | 2022-12-07 | 15 | 94 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 15 | 93 | 
 | 2022-11-14 | 15 | 93 | 
 | 2022-11-13 | 15 | 93 | 
-| 2022-11-11 | 15 | 93 | 
 

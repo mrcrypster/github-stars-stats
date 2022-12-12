@@ -1,10 +1,10 @@
 # Akagi201/learning-cmake - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 758
 
-★ Stars: 2859
+★ Stars: 2858
 
 [Open repository](https://github.com/Akagi201/learning-cmake)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 2858 | 758 | 
 | 2022-12-10 | 2859 | 758 | 
 | 2022-12-08 | 2859 | 758 | 
 | 2022-12-07 | 2860 | 758 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 2842 | 755 | 
 | 2022-11-14 | 2842 | 755 | 
 | 2022-11-12 | 2841 | 754 | 
-| 2022-11-11 | 2840 | 752 | 
 

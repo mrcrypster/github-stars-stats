@@ -1,6 +1,6 @@
 # StunlockStudios/vrising-dedicated-server-instructions - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 341 | 31 | 
 | 2022-12-10 | 341 | 31 | 
 | 2022-12-09 | 340 | 31 | 
 | 2022-12-07 | 340 | 31 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 336 | 30 | 
 | 2022-11-13 | 338 | 30 | 
 | 2022-11-12 | 338 | 30 | 
-| 2022-11-11 | 338 | 30 | 
 

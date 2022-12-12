@@ -1,6 +1,6 @@
 # enryteam/smart-city - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 59 | 39 | 
 | 2022-12-10 | 59 | 39 | 
 | 2022-12-09 | 57 | 38 | 
 | 2022-12-07 | 57 | 38 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 49 | 33 | 
 | 2022-11-13 | 49 | 33 | 
 | 2022-11-12 | 49 | 33 | 
-| 2022-11-11 | 49 | 33 | 
 

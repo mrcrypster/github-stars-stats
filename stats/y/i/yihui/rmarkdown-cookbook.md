@@ -1,10 +1,10 @@
 # yihui/rmarkdown-cookbook - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 183
 
-★ Stars: 491
+★ Stars: 492
 
 [Open repository](https://github.com/yihui/rmarkdown-cookbook)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 492 | 183 | 
 | 2022-12-10 | 491 | 183 | 
 | 2022-12-09 | 491 | 183 | 
 | 2022-12-08 | 491 | 183 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 485 | 181 | 
 | 2022-11-14 | 485 | 181 | 
 | 2022-11-13 | 485 | 180 | 
-| 2022-11-12 | 483 | 179 | 
 

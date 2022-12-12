@@ -1,10 +1,10 @@
 # schierlm/collapseos-uxn - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 2
 
-★ Stars: 37
+★ Stars: 38
 
 [Open repository](https://github.com/schierlm/collapseos-uxn)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 38 | 2 | 
 | 2022-12-10 | 37 | 2 | 
 | 2022-12-09 | 36 | 2 | 
 | 2022-12-08 | 36 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 34 | 2 | 
 | 2022-11-13 | 34 | 2 | 
 | 2022-11-12 | 34 | 2 | 
-| 2022-11-11 | 34 | 2 | 
 

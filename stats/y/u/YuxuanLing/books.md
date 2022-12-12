@@ -1,10 +1,10 @@
 # YuxuanLing/books - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 166
 
-★ Stars: 254
+★ Stars: 255
 
 [Open repository](https://github.com/YuxuanLing/books)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 255 | 166 | 
 | 2022-12-10 | 254 | 166 | 
 | 2022-12-09 | 254 | 166 | 
 | 2022-12-07 | 254 | 166 | 

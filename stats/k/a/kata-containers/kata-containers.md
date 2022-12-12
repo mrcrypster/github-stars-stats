@@ -1,8 +1,8 @@
 # kata-containers/kata-containers - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
-☋ Forks: 537
+☋ Forks: 538
 
 ★ Stars: 2744
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 2744 | 538 | 
 | 2022-12-10 | 2744 | 537 | 
 | 2022-12-09 | 2743 | 537 | 
 | 2022-12-08 | 2738 | 537 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 2633 | 520 | 
 | 2022-11-13 | 2632 | 519 | 
 | 2022-11-12 | 2630 | 519 | 
-| 2022-11-11 | 2623 | 519 | 
 

@@ -1,10 +1,10 @@
 # nf-core/mag - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 64
 
-★ Stars: 107
+★ Stars: 108
 
 [Open repository](https://github.com/nf-core/mag)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 108 | 64 | 
 | 2022-12-10 | 107 | 64 | 
 | 2022-12-08 | 107 | 64 | 
 | 2022-12-07 | 106 | 64 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 104 | 61 | 
 | 2022-11-13 | 104 | 61 | 
 | 2022-11-12 | 104 | 61 | 
-| 2022-11-11 | 104 | 61 | 
 

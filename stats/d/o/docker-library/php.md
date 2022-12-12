@@ -1,6 +1,6 @@
 # docker-library/php - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 2021
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 3336 | 2021 | 
 | 2022-12-10 | 3336 | 2021 | 
 | 2022-12-09 | 3334 | 2021 | 
 | 2022-12-08 | 3329 | 2019 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 3314 | 2009 | 
 | 2022-11-13 | 3313 | 2008 | 
 | 2022-11-12 | 3313 | 2008 | 
-| 2022-11-11 | 3312 | 2008 | 
 

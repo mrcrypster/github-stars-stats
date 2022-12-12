@@ -1,10 +1,10 @@
 # Olshansk/interview - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
-☋ Forks: 3529
+☋ Forks: 3531
 
-★ Stars: 15915
+★ Stars: 15919
 
 [Open repository](https://github.com/Olshansk/interview)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 15919 | 3531 | 
 | 2022-12-10 | 15915 | 3529 | 
 | 2022-12-09 | 15914 | 3529 | 
 | 2022-12-07 | 15913 | 3529 | 

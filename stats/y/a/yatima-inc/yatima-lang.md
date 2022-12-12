@@ -1,10 +1,10 @@
 # yatima-inc/yatima-lang - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 2
 
-★ Stars: 37
+★ Stars: 38
 
 [Open repository](https://github.com/yatima-inc/yatima-lang)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 38 | 2 | 
 | 2022-12-10 | 37 | 2 | 
 | 2022-12-09 | 37 | 2 | 
 | 2022-12-08 | 37 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 36 | 2 | 
 | 2022-11-13 | 36 | 2 | 
 | 2022-11-12 | 36 | 2 | 
-| 2022-11-11 | 36 | 2 | 
 

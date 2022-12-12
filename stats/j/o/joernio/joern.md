@@ -1,10 +1,10 @@
 # joernio/joern - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 160
 
-★ Stars: 1137
+★ Stars: 1141
 
 [Open repository](https://github.com/joernio/joern)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 1141 | 160 | 
 | 2022-12-10 | 1137 | 160 | 
 | 2022-12-08 | 1135 | 160 | 
 | 2022-12-07 | 1133 | 160 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 1102 | 154 | 
 | 2022-11-13 | 1100 | 154 | 
 | 2022-11-12 | 1100 | 153 | 
-| 2022-11-11 | 1098 | 153 | 
 

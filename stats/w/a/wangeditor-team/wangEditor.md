@@ -1,10 +1,10 @@
 # wangeditor-team/wangEditor - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 2959
 
-★ Stars: 14813
+★ Stars: 14816
 
 [Open repository](https://github.com/wangeditor-team/wangEditor)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 14816 | 2959 | 
 | 2022-12-10 | 14813 | 2959 | 
 | 2022-12-08 | 14808 | 2957 | 
 | 2022-12-07 | 14806 | 2957 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 14710 | 2942 | 
 | 2022-11-14 | 14706 | 2943 | 
 | 2022-11-13 | 14702 | 2942 | 
-| 2022-11-11 | 14701 | 2941 | 
 

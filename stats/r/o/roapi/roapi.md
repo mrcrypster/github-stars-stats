@@ -1,10 +1,10 @@
 # roapi/roapi - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
-☋ Forks: 132
+☋ Forks: 133
 
-★ Stars: 2528
+★ Stars: 2530
 
 [Open repository](https://github.com/roapi/roapi)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 2530 | 133 | 
 | 2022-12-10 | 2528 | 132 | 
 | 2022-12-09 | 2527 | 132 | 
 | 2022-12-08 | 2526 | 132 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 2501 | 131 | 
 | 2022-11-14 | 2499 | 131 | 
 | 2022-11-13 | 2498 | 130 | 
-| 2022-11-11 | 2495 | 130 | 
 

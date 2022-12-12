@@ -1,6 +1,6 @@
 # dspinellis/unix-history-repo - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 422
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 6028 | 422 | 
 | 2022-12-10 | 6028 | 422 | 
 | 2022-12-09 | 6027 | 422 | 
 | 2022-12-08 | 6026 | 422 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 5964 | 421 | 
 | 2022-11-13 | 5956 | 420 | 
 | 2022-11-12 | 5953 | 420 | 
-| 2022-11-11 | 5951 | 420 | 
 

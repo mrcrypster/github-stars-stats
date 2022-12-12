@@ -1,6 +1,6 @@
 # shumphrey/fugitive-gitlab.vim - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 235 | 24 | 
 | 2022-12-10 | 235 | 24 | 
 | 2022-12-09 | 235 | 24 | 
 | 2022-12-08 | 235 | 24 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 234 | 23 | 
 | 2022-11-14 | 234 | 23 | 
 | 2022-11-13 | 234 | 23 | 
-| 2022-11-12 | 234 | 23 | 
 

@@ -1,6 +1,6 @@
 # giscience-fsu/sperrorest - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 14 | 4 | 
 | 2022-12-10 | 14 | 4 | 
 | 2022-12-08 | 14 | 4 | 
 | 2022-12-07 | 14 | 4 | 

@@ -1,10 +1,10 @@
 # LOUSANPANG/HBuilderX-template - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 9
 
-★ Stars: 249
+★ Stars: 248
 
 [Open repository](https://github.com/LOUSANPANG/HBuilderX-template)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 248 | 9 | 
 | 2022-12-10 | 249 | 9 | 
 | 2022-12-08 | 249 | 9 | 
 | 2022-12-07 | 249 | 9 | 

@@ -1,6 +1,6 @@
 # upenn-cis5520/06-persistent - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | - | 13 | 
 | 2022-12-09 | - | 13 | 
 | 2022-12-08 | - | 13 | 
 | 2022-12-07 | - | 13 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-15 | - | 13 | 
 | 2022-11-14 | - | 13 | 
 | 2022-11-13 | - | 13 | 
-| 2022-11-12 | - | 13 | 
 

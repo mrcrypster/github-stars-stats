@@ -1,8 +1,8 @@
 # qbcore-framework/qb-ambulancejob - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
-☋ Forks: 266
+☋ Forks: 267
 
 ★ Stars: 26
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 26 | 267 | 
 | 2022-12-10 | 26 | 266 | 
 | 2022-12-09 | 26 | 266 | 
 | 2022-12-07 | 26 | 267 | 

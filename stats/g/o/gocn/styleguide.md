@@ -1,10 +1,10 @@
 # gocn/styleguide - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 8
 
-★ Stars: 63
+★ Stars: 66
 
 [Open repository](https://github.com/gocn/styleguide)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 66 | 8 | 
 | 2022-12-10 | 63 | 8 | 
 | 2022-12-09 | 61 | 6 | 
 | 2022-12-08 | 58 | 6 | 

@@ -1,6 +1,6 @@
 # microsoft/AzureADGraphApps - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 28 | 24 | 
 | 2022-12-10 | 28 | 24 | 
 | 2022-12-09 | 28 | 24 | 
 | 2022-12-08 | 28 | 24 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 28 | 24 | 
 | 2022-11-13 | 27 | 24 | 
 | 2022-11-12 | 27 | 24 | 
-| 2022-11-11 | 27 | 24 | 
 

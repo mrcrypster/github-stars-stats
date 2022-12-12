@@ -1,6 +1,6 @@
 # kien/rainbow_parentheses.vim - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 119
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 927 | 119 | 
 | 2022-12-10 | 927 | 119 | 
 | 2022-12-08 | 927 | 119 | 
 | 2022-12-07 | 927 | 119 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 928 | 118 | 
 | 2022-11-13 | 928 | 118 | 
 | 2022-11-12 | 929 | 118 | 
-| 2022-11-11 | 929 | 118 | 
 

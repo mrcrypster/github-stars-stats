@@ -1,10 +1,10 @@
 # yegappan/lsp - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 16
 
-★ Stars: 180
+★ Stars: 183
 
 [Open repository](https://github.com/yegappan/lsp)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 183 | 16 | 
 | 2022-12-09 | 180 | 16 | 
 | 2022-12-08 | 180 | 16 | 
 | 2022-12-07 | 180 | 16 | 

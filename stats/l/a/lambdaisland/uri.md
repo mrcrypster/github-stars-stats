@@ -1,6 +1,6 @@
 # lambdaisland/uri - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 217 | 18 | 
 | 2022-12-10 | 217 | 18 | 
 | 2022-12-09 | 217 | 18 | 
 | 2022-12-07 | 217 | 18 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 216 | 18 | 
 | 2022-11-14 | 216 | 18 | 
 | 2022-11-13 | 216 | 18 | 
-| 2022-11-11 | 216 | 18 | 
 

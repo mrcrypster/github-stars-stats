@@ -1,6 +1,6 @@
 # ShrootBuck/Undiscord - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 103 | 10 | 
 | 2022-12-10 | 103 | 10 | 
 | 2022-12-09 | 103 | 10 | 
 | 2022-12-08 | 103 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 103 | 10 | 
 | 2022-11-14 | 103 | 10 | 
 | 2022-11-13 | 103 | 10 | 
-| 2022-11-12 | 103 | 10 | 
 

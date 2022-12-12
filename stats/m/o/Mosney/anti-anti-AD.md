@@ -1,6 +1,6 @@
 # Mosney/anti-anti-AD - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 319 | 32 | 
 | 2022-12-10 | 319 | 32 | 
 | 2022-12-09 | 319 | 32 | 
 | 2022-12-08 | 319 | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 304 | 31 | 
 | 2022-11-13 | 304 | 31 | 
 | 2022-11-12 | 300 | 31 | 
-| 2022-11-11 | 300 | 31 | 
 

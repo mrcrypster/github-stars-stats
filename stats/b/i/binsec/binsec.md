@@ -1,10 +1,10 @@
 # binsec/binsec - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 23
 
-★ Stars: 221
+★ Stars: 222
 
 [Open repository](https://github.com/binsec/binsec)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 222 | 23 | 
 | 2022-12-10 | 221 | 23 | 
 | 2022-12-09 | 221 | 23 | 
 | 2022-12-08 | 221 | 23 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 211 | 23 | 
 | 2022-11-13 | 211 | 23 | 
 | 2022-11-12 | 211 | 23 | 
-| 2022-11-11 | 210 | 23 | 
 

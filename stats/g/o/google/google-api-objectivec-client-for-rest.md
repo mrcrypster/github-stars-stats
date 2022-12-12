@@ -1,10 +1,10 @@
 # google/google-api-objectivec-client-for-rest - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 341
 
-★ Stars: 658
+★ Stars: 659
 
 [Open repository](https://github.com/google/google-api-objectivec-client-for-rest)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 659 | 341 | 
 | 2022-12-10 | 658 | 341 | 
 | 2022-12-09 | 658 | 341 | 
 | 2022-12-08 | 658 | 341 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 654 | 341 | 
 | 2022-11-13 | 654 | 341 | 
 | 2022-11-12 | 654 | 341 | 
-| 2022-11-11 | 654 | 341 | 
 

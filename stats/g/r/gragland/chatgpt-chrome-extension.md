@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 11
 
-☋ Forks: 48
+☋ Forks: 59
 
-★ Stars: 468
+★ Stars: 551
 
 [Open repository](https://github.com/gragland/chatgpt-chrome-extension)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-11 | 468 | 48 | 
+| 2022-12-11 | 551 | 59 | 
 | 2022-12-10 | 444 | 48 | 
 | 2022-12-09 | 367 | 39 | 
 | 2022-12-08 | 238 | 28 | 

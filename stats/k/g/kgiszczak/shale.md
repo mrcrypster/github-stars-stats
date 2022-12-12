@@ -1,10 +1,10 @@
 # kgiszczak/shale - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 6
 
-★ Stars: 448
+★ Stars: 449
 
 [Open repository](https://github.com/kgiszczak/shale)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 449 | 6 | 
 | 2022-12-11 | 448 | 6 | 
 | 2022-12-09 | 448 | 6 | 
 | 2022-12-08 | 448 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 442 | 6 | 
 | 2022-11-14 | 439 | 6 | 
 | 2022-11-13 | 439 | 6 | 
-| 2022-11-11 | 439 | 6 | 
 

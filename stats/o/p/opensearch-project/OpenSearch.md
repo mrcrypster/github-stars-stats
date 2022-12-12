@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 11
 
 ☋ Forks: 833
 
-★ Stars: 6120
+★ Stars: 6121
 
 [Open repository](https://github.com/opensearch-project/OpenSearch)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-11 | 6120 | 833 | 
+| 2022-12-11 | 6121 | 833 | 
 | 2022-12-10 | 6118 | 833 | 
 | 2022-12-09 | 6110 | 830 | 
 | 2022-12-08 | 6105 | 828 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 5987 | 811 | 
 | 2022-11-14 | 5971 | 808 | 
 | 2022-11-13 | 5971 | 807 | 
-| 2022-11-11 | 5966 | 807 | 
 

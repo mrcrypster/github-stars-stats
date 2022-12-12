@@ -1,10 +1,10 @@
 # vpei/Free-TVUrl-Merge - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 116
 
-★ Stars: 400
+★ Stars: 402
 
 [Open repository](https://github.com/vpei/Free-TVUrl-Merge)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 402 | 116 | 
 | 2022-12-10 | 400 | 116 | 
 | 2022-12-08 | 397 | 117 | 
 | 2022-12-07 | 396 | 116 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 287 | 89 | 
 | 2022-11-14 | 284 | 88 | 
 | 2022-11-13 | 279 | 85 | 
-| 2022-11-12 | 274 | 83 | 
 

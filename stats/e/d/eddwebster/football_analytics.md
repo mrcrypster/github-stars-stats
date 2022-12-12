@@ -1,6 +1,6 @@
 # eddwebster/football_analytics - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 140
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 840 | 140 | 
 | 2022-12-10 | 840 | 140 | 
 | 2022-12-09 | 840 | 140 | 
 | 2022-12-08 | 840 | 139 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 800 | 129 | 
 | 2022-11-13 | 798 | 128 | 
 | 2022-11-12 | 797 | 128 | 
-| 2022-11-11 | 795 | 128 | 
 

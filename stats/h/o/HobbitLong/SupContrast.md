@@ -1,10 +1,10 @@
 # HobbitLong/SupContrast - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 402
 
-★ Stars: 2107
+★ Stars: 2109
 
 [Open repository](https://github.com/HobbitLong/SupContrast)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 2109 | 402 | 
 | 2022-12-10 | 2107 | 402 | 
 | 2022-12-08 | 2104 | 401 | 
 | 2022-12-07 | 2100 | 400 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 2055 | 388 | 
 | 2022-11-14 | 2053 | 388 | 
 | 2022-11-13 | 2050 | 388 | 
-| 2022-11-11 | 2049 | 388 | 
 

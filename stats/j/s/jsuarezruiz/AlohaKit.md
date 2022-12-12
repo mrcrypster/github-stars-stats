@@ -1,6 +1,6 @@
 # jsuarezruiz/AlohaKit - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 265 | 32 | 
 | 2022-12-10 | 265 | 32 | 
 | 2022-12-09 | 265 | 32 | 
 | 2022-12-08 | 262 | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 230 | 29 | 
 | 2022-11-13 | 230 | 29 | 
 | 2022-11-12 | 228 | 29 | 
-| 2022-11-11 | 227 | 29 | 
 

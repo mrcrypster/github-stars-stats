@@ -1,6 +1,6 @@
 # HFQR/xitca-web - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 253 | 19 | 
 | 2022-12-10 | 253 | 19 | 
 | 2022-12-08 | 251 | 19 | 
 | 2022-12-07 | 250 | 19 | 

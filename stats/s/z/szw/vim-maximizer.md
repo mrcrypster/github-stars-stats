@@ -1,6 +1,6 @@
 # szw/vim-maximizer - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 378 | 15 | 
 | 2022-12-10 | 378 | 15 | 
 | 2022-12-09 | 377 | 15 | 
 | 2022-12-08 | 377 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 366 | 15 | 
 | 2022-11-13 | 365 | 15 | 
 | 2022-11-12 | 365 | 15 | 
-| 2022-11-11 | 365 | 15 | 
 

@@ -1,6 +1,6 @@
 # Maclinz/JS_CSS_PortfolioProject - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 353
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 361 | 353 | 
 | 2022-12-10 | 361 | 353 | 
 | 2022-12-09 | 361 | 351 | 
 | 2022-12-08 | 360 | 352 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 344 | 340 | 
 | 2022-11-13 | 344 | 339 | 
 | 2022-11-12 | 345 | 339 | 
-| 2022-11-11 | 345 | 335 | 
 

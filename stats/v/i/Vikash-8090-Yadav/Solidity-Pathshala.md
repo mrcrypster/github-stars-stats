@@ -1,10 +1,10 @@
 # Vikash-8090-Yadav/Solidity-Pathshala - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 34
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/Vikash-8090-Yadav/Solidity-Pathshala)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 26 | 34 | 
 | 2022-12-10 | 25 | 34 | 
 | 2022-12-08 | 25 | 34 | 
 | 2022-12-07 | 25 | 34 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 24 | 33 | 
 | 2022-11-13 | 24 | 33 | 
 | 2022-11-12 | 24 | 33 | 
-| 2022-11-11 | 24 | 33 | 
 

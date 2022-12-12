@@ -1,10 +1,10 @@
 # storopoli/Bayesian-Statistics - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 44
 
-★ Stars: 279
+★ Stars: 280
 
 [Open repository](https://github.com/storopoli/Bayesian-Statistics)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 280 | 44 | 
 | 2022-12-10 | 279 | 44 | 
 | 2022-12-08 | 278 | 44 | 
 | 2022-12-07 | 278 | 44 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 276 | 43 | 
 | 2022-11-14 | 276 | 43 | 
 | 2022-11-13 | 276 | 43 | 
-| 2022-11-11 | 277 | 43 | 
 

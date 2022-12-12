@@ -1,6 +1,6 @@
 # suman-shah/Bootstrap-Examples - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 65 | 65 | 
 | 2022-12-10 | 65 | 65 | 
 | 2022-12-09 | 65 | 65 | 
 | 2022-12-07 | 65 | 65 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 65 | 65 | 
 | 2022-11-14 | 65 | 65 | 
 | 2022-11-13 | 65 | 65 | 
-| 2022-11-12 | 64 | 65 | 
 

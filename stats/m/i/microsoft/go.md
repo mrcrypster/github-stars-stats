@@ -1,6 +1,6 @@
 # microsoft/go - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 39 | 6 | 
 | 2022-12-10 | 39 | 6 | 
 | 2022-12-09 | 39 | 6 | 
 | 2022-12-08 | 39 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 38 | 6 | 
 | 2022-11-13 | 38 | 6 | 
 | 2022-11-12 | 38 | 6 | 
-| 2022-11-11 | 38 | 6 | 
 

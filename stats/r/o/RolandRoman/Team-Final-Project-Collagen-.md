@@ -1,6 +1,6 @@
 # RolandRoman/Team-Final-Project-Collagen- - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | - | 5 | 
 | 2022-12-10 | - | 5 | 
 | 2022-12-08 | - | 5 | 
 | 2022-12-07 | - | 5 | 

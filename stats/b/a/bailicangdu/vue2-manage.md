@@ -1,6 +1,6 @@
 # bailicangdu/vue2-manage - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 4208
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 12438 | 4208 | 
 | 2022-12-10 | 12438 | 4208 | 
 | 2022-12-09 | 12437 | 4208 | 
 | 2022-12-08 | 12436 | 4208 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 12368 | 4195 | 
 | 2022-11-13 | 12367 | 4194 | 
 | 2022-11-12 | 12367 | 4195 | 
-| 2022-11-11 | 12361 | 4194 | 
 

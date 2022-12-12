@@ -1,10 +1,10 @@
 # dzikirqu/dzikirqu-android - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
-☋ Forks: 30
+☋ Forks: 31
 
-★ Stars: 109
+★ Stars: 110
 
 [Open repository](https://github.com/dzikirqu/dzikirqu-android)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 110 | 31 | 
 | 2022-12-10 | 109 | 30 | 
 | 2022-12-09 | 109 | 30 | 
 | 2022-12-07 | 109 | 30 | 

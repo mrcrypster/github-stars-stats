@@ -1,10 +1,10 @@
 # pConst/basic_verilog - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
-☋ Forks: 246
+☋ Forks: 247
 
-★ Stars: 899
+★ Stars: 902
 
 [Open repository](https://github.com/pConst/basic_verilog)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 902 | 247 | 
 | 2022-12-10 | 899 | 246 | 
 | 2022-12-09 | 897 | 245 | 
 | 2022-12-08 | 895 | 245 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 865 | 238 | 
 | 2022-11-13 | 864 | 238 | 
 | 2022-11-12 | 862 | 238 | 
-| 2022-11-11 | 858 | 238 | 
 

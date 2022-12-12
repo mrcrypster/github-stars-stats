@@ -1,10 +1,10 @@
 # mrluanma/chisel-heroku - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
-☋ Forks: 114
+☋ Forks: 115
 
-★ Stars: 56
+★ Stars: 57
 
 [Open repository](https://github.com/mrluanma/chisel-heroku)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 57 | 115 | 
 | 2022-12-10 | 56 | 114 | 
 | 2022-12-09 | 56 | 114 | 
 | 2022-12-08 | 56 | 114 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 57 | 114 | 
 | 2022-11-13 | 57 | 114 | 
 | 2022-11-12 | 57 | 114 | 
-| 2022-11-11 | 57 | 114 | 
 

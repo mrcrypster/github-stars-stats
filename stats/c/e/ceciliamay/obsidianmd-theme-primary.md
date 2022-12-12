@@ -1,6 +1,6 @@
 # ceciliamay/obsidianmd-theme-primary - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 575 | 27 | 
 | 2022-12-10 | 575 | 27 | 
 | 2022-12-09 | 575 | 27 | 
 | 2022-12-08 | 572 | 27 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 552 | 28 | 
 | 2022-11-13 | 550 | 27 | 
 | 2022-11-12 | 549 | 27 | 
-| 2022-11-11 | 548 | 27 | 
 

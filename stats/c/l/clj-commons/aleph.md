@@ -1,10 +1,10 @@
 # clj-commons/aleph - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 239
 
-★ Stars: 2444
+★ Stars: 2443
 
 [Open repository](https://github.com/clj-commons/aleph)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 2443 | 239 | 
 | 2022-12-09 | 2444 | 239 | 
 | 2022-12-08 | 2443 | 239 | 
 | 2022-12-07 | 2443 | 239 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-15 | 2439 | 238 | 
 | 2022-11-14 | 2439 | 238 | 
 | 2022-11-13 | 2439 | 238 | 
-| 2022-11-12 | 2439 | 238 | 
 

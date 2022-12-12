@@ -1,10 +1,10 @@
 # payloadbox/sql-injection-payload-list - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
-☋ Forks: 776
+☋ Forks: 777
 
-★ Stars: 2794
+★ Stars: 2799
 
 [Open repository](https://github.com/payloadbox/sql-injection-payload-list)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 2799 | 777 | 
 | 2022-12-10 | 2794 | 776 | 
 | 2022-12-09 | 2793 | 776 | 
 | 2022-12-07 | 2788 | 775 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 2695 | 756 | 
 | 2022-11-13 | 2690 | 755 | 
 | 2022-11-12 | 2686 | 755 | 
-| 2022-11-11 | 2685 | 755 | 
 

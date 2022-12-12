@@ -1,8 +1,8 @@
 # EIE2-IAC-Labs/Project_Brief - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
-☋ Forks: 17
+☋ Forks: 18
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 5 | 18 | 
 | 2022-12-10 | 5 | 17 | 
 | 2022-12-09 | 5 | 12 | 
 | 2022-12-08 | 5 | 12 | 

@@ -1,10 +1,10 @@
 # loljoshie/lj-inventory - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 143
 
-★ Stars: 59
+★ Stars: 58
 
 [Open repository](https://github.com/loljoshie/lj-inventory)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 58 | 143 | 
 | 2022-12-09 | 59 | 143 | 
 | 2022-12-08 | 59 | 142 | 
 | 2022-12-07 | 59 | 142 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 58 | 140 | 
 | 2022-11-13 | 58 | 139 | 
 | 2022-11-12 | 58 | 138 | 
-| 2022-11-11 | 58 | 138 | 
 

@@ -1,6 +1,6 @@
 # Betterbird/thunderbird-patches - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 188 | 9 | 
 | 2022-12-09 | 188 | 9 | 
 | 2022-12-08 | 189 | 9 | 
 | 2022-12-07 | 189 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-15 | 178 | 8 | 
 | 2022-11-14 | 178 | 8 | 
 | 2022-11-13 | 176 | 8 | 
-| 2022-11-12 | 176 | 8 | 
 

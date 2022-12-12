@@ -1,6 +1,6 @@
 # WeAreMahsaAmini/CelebrityWall - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 204 | 20 | 
 | 2022-12-10 | 204 | 20 | 
 | 2022-12-09 | 204 | 20 | 
 | 2022-12-08 | 204 | 20 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 202 | 20 | 
 | 2022-11-14 | 202 | 20 | 
 | 2022-11-13 | 202 | 20 | 
-| 2022-11-12 | 202 | 20 | 
 

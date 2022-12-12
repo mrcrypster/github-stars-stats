@@ -1,6 +1,6 @@
 # Drag13/react-learning-course-short - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 107 | 15 | 
 | 2022-12-10 | 107 | 15 | 
 | 2022-12-09 | 107 | 15 | 
 | 2022-12-08 | 107 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 104 | 16 | 
 | 2022-11-13 | 103 | 16 | 
 | 2022-11-12 | 102 | 15 | 
-| 2022-11-11 | 102 | 15 | 
 

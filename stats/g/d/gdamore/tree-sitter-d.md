@@ -1,10 +1,10 @@
 # gdamore/tree-sitter-d - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 3
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/gdamore/tree-sitter-d)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 21 | 3 | 
 | 2022-12-10 | 20 | 3 | 
 | 2022-12-09 | 20 | 3 | 
 | 2022-12-08 | 20 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 20 | 2 | 
 | 2022-11-13 | 20 | 2 | 
 | 2022-11-12 | 20 | 2 | 
-| 2022-11-11 | 19 | 2 | 
 

@@ -1,6 +1,6 @@
 # Ryzee119/OpenXenium - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 178 | 34 | 
 | 2022-12-10 | 178 | 34 | 
 | 2022-12-09 | 178 | 34 | 
 | 2022-12-07 | 178 | 34 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 177 | 34 | 
 | 2022-11-13 | 177 | 34 | 
 | 2022-11-12 | 177 | 34 | 
-| 2022-11-11 | 177 | 34 | 
 

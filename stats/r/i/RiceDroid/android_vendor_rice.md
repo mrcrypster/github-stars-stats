@@ -1,8 +1,8 @@
 # RiceDroid/android_vendor_rice - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
-☋ Forks: 30
+☋ Forks: 28
 
 ★ Stars: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 6 | 28 | 
 | 2022-12-10 | 6 | 30 | 
 | 2022-12-09 | 6 | 30 | 
 | 2022-12-08 | 5 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 4 | 31 | 
 | 2022-11-13 | 4 | 31 | 
 | 2022-11-12 | 4 | 29 | 
-| 2022-11-11 | 4 | 29 | 
 

@@ -1,6 +1,6 @@
 # vala-lang/vala-language-server - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 238 | 31 | 
 | 2022-12-10 | 238 | 31 | 
 | 2022-12-08 | 238 | 31 | 
 | 2022-12-07 | 238 | 31 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 235 | 32 | 
 | 2022-11-13 | 235 | 32 | 
 | 2022-11-12 | 235 | 32 | 
-| 2022-11-11 | 234 | 32 | 
 

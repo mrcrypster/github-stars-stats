@@ -1,6 +1,6 @@
 # FoxyLinkIO/FoxyLink - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 89 | 34 | 
 | 2022-12-10 | 89 | 34 | 
 | 2022-12-09 | 89 | 34 | 
 | 2022-12-07 | 89 | 34 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 90 | 34 | 
 | 2022-11-13 | 90 | 34 | 
 | 2022-11-12 | 90 | 34 | 
-| 2022-11-11 | 90 | 34 | 
 

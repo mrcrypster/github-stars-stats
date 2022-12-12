@@ -1,10 +1,10 @@
 # matfantinel/matfantinel.github.io - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 44
 
-★ Stars: 188
+★ Stars: 189
 
 [Open repository](https://github.com/matfantinel/matfantinel.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 189 | 44 | 
 | 2022-12-10 | 188 | 44 | 
 | 2022-12-08 | 187 | 44 | 
 | 2022-12-07 | 186 | 44 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 181 | 45 | 
 | 2022-11-14 | 181 | 45 | 
 | 2022-11-13 | 181 | 45 | 
-| 2022-11-11 | 181 | 44 | 
 

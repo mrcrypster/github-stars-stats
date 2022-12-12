@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 11
 
 ☋ Forks: 2734
 
-★ Stars: 10871
+★ Stars: 10872
 
 [Open repository](https://github.com/microsoft/TypeScript-Node-Starter)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-11 | 10871 | 2734 | 
+| 2022-12-11 | 10872 | 2734 | 
 | 2022-12-09 | 10867 | 2733 | 
 | 2022-12-08 | 10866 | 2732 | 
 | 2022-12-07 | 10865 | 2732 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-14 | 10831 | 2721 | 
 | 2022-11-13 | 10831 | 2720 | 
 | 2022-11-12 | 10828 | 2719 | 
-| 2022-11-11 | 10827 | 2719 | 
 

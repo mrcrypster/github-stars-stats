@@ -1,6 +1,6 @@
 # diagrams/diagrams-core - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 80 | 41 | 
 | 2022-12-10 | 80 | 41 | 
 | 2022-12-09 | 80 | 41 | 
 | 2022-12-08 | 80 | 41 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 79 | 41 | 
 | 2022-11-13 | 79 | 41 | 
 | 2022-11-12 | 79 | 41 | 
-| 2022-11-11 | 79 | 41 | 
 

@@ -1,6 +1,6 @@
 # blcuicall/CCL2022-CLTC - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 95 | 23 | 
 | 2022-12-10 | 95 | 23 | 
 | 2022-12-08 | 94 | 23 | 
 | 2022-12-07 | 94 | 23 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 92 | 22 | 
 | 2022-11-13 | 92 | 22 | 
 | 2022-11-12 | 92 | 22 | 
-| 2022-11-11 | 92 | 22 | 
 

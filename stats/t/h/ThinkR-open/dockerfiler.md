@@ -1,10 +1,10 @@
 # ThinkR-open/dockerfiler - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 21
 
-★ Stars: 142
+★ Stars: 143
 
 [Open repository](https://github.com/ThinkR-open/dockerfiler)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 143 | 21 | 
 | 2022-12-10 | 142 | 21 | 
 | 2022-12-09 | 142 | 21 | 
 | 2022-12-07 | 142 | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 141 | 21 | 
 | 2022-11-13 | 141 | 21 | 
 | 2022-11-12 | 141 | 21 | 
-| 2022-11-11 | 141 | 21 | 
 

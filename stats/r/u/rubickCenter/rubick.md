@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 11
 
 ☋ Forks: 442
 
-★ Stars: 3789
+★ Stars: 3791
 
 [Open repository](https://github.com/rubickCenter/rubick)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-11 | 3789 | 442 | 
+| 2022-12-11 | 3791 | 442 | 
 | 2022-12-10 | 3788 | 442 | 
 | 2022-12-09 | 3780 | 442 | 
 | 2022-12-08 | 3763 | 441 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 3653 | 429 | 
 | 2022-11-14 | 3652 | 429 | 
 | 2022-11-12 | 3652 | 429 | 
-| 2022-11-11 | 3652 | 428 | 
 

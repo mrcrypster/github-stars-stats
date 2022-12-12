@@ -1,10 +1,10 @@
 # bubkoo/html-to-image - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
-☋ Forks: 320
+☋ Forks: 321
 
-★ Stars: 3289
+★ Stars: 3293
 
 [Open repository](https://github.com/bubkoo/html-to-image)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 3293 | 321 | 
 | 2022-12-10 | 3289 | 320 | 
 | 2022-12-09 | 3288 | 320 | 
 | 2022-12-08 | 3280 | 320 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 3208 | 316 | 
 | 2022-11-13 | 3202 | 316 | 
 | 2022-11-12 | 3202 | 316 | 
-| 2022-11-11 | 3198 | 314 | 
 

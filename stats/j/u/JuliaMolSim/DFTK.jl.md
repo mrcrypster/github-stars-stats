@@ -1,10 +1,10 @@
 # JuliaMolSim/DFTK.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 61
 
-★ Stars: 302
+★ Stars: 306
 
 [Open repository](https://github.com/JuliaMolSim/DFTK.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 306 | 61 | 
 | 2022-12-10 | 302 | 61 | 
 | 2022-12-09 | 300 | 61 | 
 | 2022-12-08 | 300 | 61 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 298 | 60 | 
 | 2022-11-14 | 298 | 60 | 
 | 2022-11-13 | 298 | 60 | 
-| 2022-11-12 | 297 | 60 | 
 

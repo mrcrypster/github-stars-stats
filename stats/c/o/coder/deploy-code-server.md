@@ -1,10 +1,10 @@
 # coder/deploy-code-server - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
-☋ Forks: 569
+☋ Forks: 571
 
-★ Stars: 680
+★ Stars: 682
 
 [Open repository](https://github.com/coder/deploy-code-server)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 682 | 571 | 
 | 2022-12-10 | 680 | 569 | 
 | 2022-12-09 | 679 | 568 | 
 | 2022-12-08 | 679 | 567 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 672 | 560 | 
 | 2022-11-13 | 672 | 560 | 
 | 2022-11-12 | 672 | 559 | 
-| 2022-11-11 | 672 | 558 | 
 

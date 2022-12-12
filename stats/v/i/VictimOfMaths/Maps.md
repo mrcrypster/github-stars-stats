@@ -1,6 +1,6 @@
 # VictimOfMaths/Maps - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 26 | 3 | 
 | 2022-12-10 | 26 | 3 | 
 | 2022-12-09 | 26 | 3 | 
 | 2022-12-07 | 26 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 26 | 3 | 
 | 2022-11-14 | 25 | 3 | 
 | 2022-11-13 | 24 | 3 | 
-| 2022-11-12 | 24 | 3 | 
 

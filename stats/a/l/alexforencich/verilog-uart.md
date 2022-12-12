@@ -1,6 +1,6 @@
 # alexforencich/verilog-uart - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 101
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 261 | 101 | 
 | 2022-12-10 | 261 | 101 | 
 | 2022-12-09 | 261 | 101 | 
 | 2022-12-08 | 261 | 101 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 254 | 99 | 
 | 2022-11-13 | 254 | 99 | 
 | 2022-11-12 | 254 | 99 | 
-| 2022-11-11 | 254 | 99 | 
 

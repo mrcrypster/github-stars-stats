@@ -1,8 +1,8 @@
 # exercism/8th - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
-☋ Forks: 6
+☋ Forks: 7
 
 ★ Stars: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 4 | 7 | 
 | 2022-12-10 | 4 | 6 | 
 | 2022-12-08 | 4 | 6 | 
 | 2022-12-07 | 4 | 6 | 

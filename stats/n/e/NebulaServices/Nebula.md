@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 11
 
-☋ Forks: 269
+☋ Forks: 271
 
-★ Stars: 45
+★ Stars: 46
 
 [Open repository](https://github.com/NebulaServices/Nebula)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-11 | 45 | 269 | 
+| 2022-12-11 | 46 | 271 | 
 | 2022-12-10 | 45 | 268 | 
 | 2022-12-09 | 43 | 261 | 
 | 2022-12-08 | 43 | 257 | 

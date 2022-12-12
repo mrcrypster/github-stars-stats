@@ -1,10 +1,10 @@
 # dendibakh/perf-ninja - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 100
 
-★ Stars: 1190
+★ Stars: 1192
 
 [Open repository](https://github.com/dendibakh/perf-ninja)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 1192 | 100 | 
 | 2022-12-10 | 1190 | 100 | 
 | 2022-12-09 | 1187 | 100 | 
 | 2022-12-08 | 1184 | 99 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 1141 | 96 | 
 | 2022-11-14 | 1140 | 94 | 
 | 2022-11-13 | 1139 | 94 | 
-| 2022-11-12 | 1137 | 94 | 
 

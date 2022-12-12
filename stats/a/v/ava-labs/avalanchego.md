@@ -1,10 +1,10 @@
 # ava-labs/avalanchego - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 436
 
-★ Stars: 1731
+★ Stars: 1732
 
 [Open repository](https://github.com/ava-labs/avalanchego)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 1732 | 436 | 
 | 2022-12-09 | 1731 | 436 | 
 | 2022-12-08 | 1731 | 436 | 
 | 2022-12-07 | 1730 | 435 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 1719 | 422 | 
 | 2022-11-13 | 1720 | 421 | 
 | 2022-11-12 | 1717 | 421 | 
-| 2022-11-11 | 1717 | 420 | 
 

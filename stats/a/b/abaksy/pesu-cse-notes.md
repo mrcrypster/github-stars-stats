@@ -1,6 +1,6 @@
 # abaksy/pesu-cse-notes - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 130 | 14 | 
 | 2022-12-10 | 130 | 14 | 
 | 2022-12-09 | 130 | 14 | 
 | 2022-12-07 | 130 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 129 | 13 | 
 | 2022-11-13 | 129 | 13 | 
 | 2022-11-12 | 129 | 13 | 
-| 2022-11-11 | 129 | 13 | 
 

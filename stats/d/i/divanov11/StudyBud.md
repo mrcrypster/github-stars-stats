@@ -1,10 +1,10 @@
 # divanov11/StudyBud - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
-☋ Forks: 436
+☋ Forks: 437
 
-★ Stars: 432
+★ Stars: 433
 
 [Open repository](https://github.com/divanov11/StudyBud)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 433 | 437 | 
 | 2022-12-10 | 432 | 436 | 
 | 2022-12-09 | 431 | 435 | 
 | 2022-12-08 | 430 | 434 | 

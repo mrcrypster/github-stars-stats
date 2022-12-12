@@ -1,6 +1,6 @@
 # 34306/JailedSpeedAds - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 25 | 4 | 
 | 2022-12-10 | 25 | 4 | 
 | 2022-12-09 | 25 | 4 | 
 | 2022-12-07 | 25 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 23 | 3 | 
 | 2022-11-14 | 23 | 3 | 
 | 2022-11-13 | 23 | 3 | 
-| 2022-11-11 | 23 | 3 | 
 

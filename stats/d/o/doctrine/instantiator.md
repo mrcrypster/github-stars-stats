@@ -1,10 +1,10 @@
 # doctrine/instantiator - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 60
 
-★ Stars: 10698
+★ Stars: 10697
 
 [Open repository](https://github.com/doctrine/instantiator)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 10697 | 60 | 
 | 2022-12-10 | 10698 | 60 | 
 | 2022-12-09 | 10697 | 60 | 
 | 2022-12-08 | 10696 | 60 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 10685 | 60 | 
 | 2022-11-14 | 10682 | 60 | 
 | 2022-11-13 | 10681 | 60 | 
-| 2022-11-11 | 10681 | 60 | 
 

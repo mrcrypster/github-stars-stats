@@ -1,6 +1,6 @@
 # Claymore-Dual/Claymore-Dual-Miner - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 135
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 276 | 135 | 
 | 2022-12-10 | 276 | 135 | 
 | 2022-12-09 | 276 | 135 | 
 | 2022-12-07 | 276 | 135 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 276 | 134 | 
 | 2022-11-13 | 276 | 134 | 
 | 2022-11-12 | 276 | 134 | 
-| 2022-11-11 | 276 | 134 | 
 

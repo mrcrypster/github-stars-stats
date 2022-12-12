@@ -1,6 +1,6 @@
 # Masterminds/squirrel - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 407
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 5400 | 407 | 
 | 2022-12-10 | 5400 | 407 | 
 | 2022-12-08 | 5394 | 408 | 
 | 2022-12-07 | 5394 | 408 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 5311 | 404 | 
 | 2022-11-14 | 5308 | 405 | 
 | 2022-11-13 | 5308 | 405 | 
-| 2022-11-12 | 5305 | 405 | 
 

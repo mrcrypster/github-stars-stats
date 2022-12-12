@@ -1,6 +1,6 @@
 # dlang/phobos - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 712
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 1122 | 712 | 
 | 2022-12-10 | 1122 | 712 | 
 | 2022-12-09 | 1122 | 713 | 
 | 2022-12-08 | 1122 | 712 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 1120 | 709 | 
 | 2022-11-13 | 1120 | 709 | 
 | 2022-11-12 | 1118 | 709 | 
-| 2022-11-11 | 1118 | 709 | 
 

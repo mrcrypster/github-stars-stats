@@ -1,6 +1,6 @@
 # iamtrask/Grokking-Deep-Learning - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 1371
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 5716 | 1371 | 
 | 2022-12-10 | 5716 | 1371 | 
 | 2022-12-09 | 5716 | 1371 | 
 | 2022-12-07 | 5714 | 1370 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 5701 | 1367 | 
 | 2022-11-13 | 5700 | 1367 | 
 | 2022-11-12 | 5699 | 1367 | 
-| 2022-11-11 | 5700 | 1367 | 
 

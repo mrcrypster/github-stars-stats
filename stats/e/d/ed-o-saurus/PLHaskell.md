@@ -1,6 +1,6 @@
 # ed-o-saurus/PLHaskell - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 65 | - | 
 | 2022-12-10 | 65 | - | 
 | 2022-12-08 | 65 | - | 
 | 2022-12-07 | 65 | - | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 63 | - | 
 | 2022-11-14 | 63 | - | 
 | 2022-11-12 | 63 | - | 
-| 2022-11-11 | 63 | - | 
 

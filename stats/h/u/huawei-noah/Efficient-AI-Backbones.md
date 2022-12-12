@@ -1,10 +1,10 @@
 # huawei-noah/Efficient-AI-Backbones - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 11
 
-☋ Forks: 591
+☋ Forks: 592
 
-★ Stars: 2942
+★ Stars: 2946
 
 [Open repository](https://github.com/huawei-noah/Efficient-AI-Backbones)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 2946 | 592 | 
 | 2022-12-09 | 2942 | 591 | 
 | 2022-12-08 | 2940 | 590 | 
 | 2022-12-07 | 2936 | 589 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 2830 | 572 | 
 | 2022-11-13 | 2829 | 571 | 
 | 2022-11-12 | 2829 | 570 | 
-| 2022-11-11 | 2828 | 569 | 
 

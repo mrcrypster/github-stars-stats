@@ -1,6 +1,6 @@
 # cgcostume/portfolio - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 14 | 7 | 
 | 2022-12-10 | 14 | 7 | 
 | 2022-12-08 | 14 | 7 | 
 | 2022-12-07 | 14 | 7 | 

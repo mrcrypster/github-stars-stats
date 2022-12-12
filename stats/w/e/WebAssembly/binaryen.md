@@ -1,10 +1,10 @@
 # WebAssembly/binaryen - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
-☋ Forks: 618
+☋ Forks: 619
 
-★ Stars: 6099
+★ Stars: 6104
 
 [Open repository](https://github.com/WebAssembly/binaryen)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 6104 | 619 | 
 | 2022-12-10 | 6099 | 618 | 
 | 2022-12-09 | 6096 | 618 | 
 | 2022-12-08 | 6094 | 618 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 6022 | 611 | 
 | 2022-11-13 | 6017 | 611 | 
 | 2022-11-12 | 6015 | 611 | 
-| 2022-11-11 | 6013 | 611 | 
 

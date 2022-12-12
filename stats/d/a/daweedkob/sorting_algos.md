@@ -1,10 +1,10 @@
 # daweedkob/sorting_algos - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 13
 
-★ Stars: 285
+★ Stars: 287
 
 [Open repository](https://github.com/daweedkob/sorting_algos)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 287 | 13 | 
 | 2022-12-10 | 285 | 13 | 
 | 2022-12-09 | 281 | 12 | 
 | 2022-12-08 | 277 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 138 | 6 | 
 | 2022-11-13 | 136 | 6 | 
 | 2022-11-12 | 131 | 6 | 
-| 2022-11-11 | 128 | 6 | 
 

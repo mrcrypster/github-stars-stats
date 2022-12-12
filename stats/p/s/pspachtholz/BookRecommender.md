@@ -1,8 +1,8 @@
 # pspachtholz/BookRecommender - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
-☋ Forks: 33
+☋ Forks: 34
 
 ★ Stars: 19
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 19 | 34 | 
 | 2022-12-10 | 19 | 33 | 
 | 2022-12-09 | 19 | 33 | 
 

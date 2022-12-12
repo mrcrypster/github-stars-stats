@@ -1,6 +1,6 @@
 # bespoke-silicon-group/bsg_manycore - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 159 | 42 | 
 | 2022-12-10 | 159 | 42 | 
 | 2022-12-09 | 159 | 42 | 
 | 2022-12-07 | 158 | 42 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 154 | 42 | 
 | 2022-11-13 | 154 | 42 | 
 | 2022-11-12 | 154 | 42 | 
-| 2022-11-11 | 154 | 42 | 
 

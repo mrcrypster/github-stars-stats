@@ -1,6 +1,6 @@
 # manwar/perlweeklychallenge-club - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 268
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 149 | 268 | 
 | 2022-12-10 | 149 | 268 | 
 | 2022-12-09 | 149 | 268 | 
 | 2022-12-07 | 149 | 268 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 147 | 267 | 
 | 2022-11-13 | 147 | 267 | 
 | 2022-11-12 | 147 | 267 | 
-| 2022-11-11 | 147 | 267 | 
 

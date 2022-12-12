@@ -1,6 +1,6 @@
 # Fluvian/tpp - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 87 | 17 | 
 | 2022-12-10 | 87 | 17 | 
 | 2022-12-09 | 87 | 17 | 
 | 2022-12-08 | 86 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 84 | 17 | 
 | 2022-11-13 | 84 | 16 | 
 | 2022-11-12 | 83 | 16 | 
-| 2022-11-11 | 82 | 16 | 
 

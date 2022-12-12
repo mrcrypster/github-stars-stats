@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 11
 
 ☋ Forks: 613
 
-★ Stars: 5849
+★ Stars: 5850
 
 [Open repository](https://github.com/RayTracing/raytracing.github.io)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-11 | 5849 | 613 | 
+| 2022-12-11 | 5850 | 613 | 
 | 2022-12-10 | 5848 | 613 | 
 | 2022-12-09 | 5842 | 612 | 
 | 2022-12-08 | 5838 | 611 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-14 | 5772 | 600 | 
 | 2022-11-13 | 5769 | 600 | 
 | 2022-11-12 | 5769 | 600 | 
-| 2022-11-11 | 5765 | 598 | 
 

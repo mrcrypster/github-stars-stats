@@ -1,10 +1,10 @@
 # feramhq/Perspec - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 36
 
-★ Stars: 532
+★ Stars: 533
 
 [Open repository](https://github.com/feramhq/Perspec)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 533 | 36 | 
 | 2022-12-10 | 532 | 36 | 
 | 2022-12-09 | 532 | 36 | 
 | 2022-12-07 | 532 | 36 | 

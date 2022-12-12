@@ -1,8 +1,8 @@
 # abo-abo/swiper - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
-☋ Forks: 342
+☋ Forks: 343
 
 ★ Stars: 2079
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 2079 | 343 | 
 | 2022-12-10 | 2079 | 342 | 
 | 2022-12-09 | 2080 | 343 | 
 | 2022-12-07 | 2079 | 343 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 2077 | 343 | 
 | 2022-11-13 | 2077 | 343 | 
 | 2022-11-12 | 2077 | 343 | 
-| 2022-11-11 | 2077 | 343 | 
 

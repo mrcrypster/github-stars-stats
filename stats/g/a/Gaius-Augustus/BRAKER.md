@@ -1,6 +1,6 @@
 # Gaius-Augustus/BRAKER - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 193 | 65 | 
 | 2022-12-10 | 193 | 65 | 
 | 2022-12-09 | 193 | 65 | 
 | 2022-12-07 | 193 | 65 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 187 | 63 | 
 | 2022-11-13 | 187 | 63 | 
 | 2022-11-12 | 187 | 63 | 
-| 2022-11-11 | 187 | 63 | 
 

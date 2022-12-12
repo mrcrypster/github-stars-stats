@@ -1,10 +1,10 @@
 # NeoApplications/Neo-Launcher - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 55
 
-★ Stars: 939
+★ Stars: 940
 
 [Open repository](https://github.com/NeoApplications/Neo-Launcher)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 940 | 55 | 
 | 2022-12-10 | 939 | 55 | 
 | 2022-12-09 | 936 | 55 | 
 | 2022-12-08 | 938 | 54 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 885 | 53 | 
 | 2022-11-13 | 881 | 52 | 
 | 2022-11-12 | 881 | 52 | 
-| 2022-11-11 | 880 | 52 | 
 

@@ -1,10 +1,10 @@
 # shmup/awesome-cosmopolitan - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
-☋ Forks: 4
+☋ Forks: 5
 
-★ Stars: 196
+★ Stars: 197
 
 [Open repository](https://github.com/shmup/awesome-cosmopolitan)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 197 | 5 | 
 | 2022-12-10 | 196 | 4 | 
 | 2022-12-08 | 196 | 4 | 
 | 2022-12-07 | 196 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 191 | 4 | 
 | 2022-11-14 | 191 | 5 | 
 | 2022-11-13 | 191 | 5 | 
-| 2022-11-11 | 191 | 5 | 
 

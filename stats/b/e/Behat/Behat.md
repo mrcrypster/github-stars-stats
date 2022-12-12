@@ -1,6 +1,6 @@
 # Behat/Behat - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 606
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 3785 | 606 | 
 | 2022-12-10 | 3785 | 606 | 
 | 2022-12-09 | 3785 | 606 | 
 | 2022-12-08 | 3784 | 606 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 3781 | 606 | 
 | 2022-11-13 | 3780 | 606 | 
 | 2022-11-12 | 3780 | 606 | 
-| 2022-11-11 | 3780 | 606 | 
 

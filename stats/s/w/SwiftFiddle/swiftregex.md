@@ -1,10 +1,10 @@
 # SwiftFiddle/swiftregex - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 6
 
-★ Stars: 116
+★ Stars: 117
 
 [Open repository](https://github.com/SwiftFiddle/swiftregex)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 117 | 6 | 
 | 2022-12-10 | 116 | 6 | 
 | 2022-12-09 | 116 | 6 | 
 | 2022-12-08 | 116 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 114 | 6 | 
 | 2022-11-13 | 114 | 6 | 
 | 2022-11-12 | 114 | 6 | 
-| 2022-11-11 | 113 | 6 | 
 

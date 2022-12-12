@@ -1,10 +1,10 @@
 # expo/router - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 24
 
-★ Stars: 550
+★ Stars: 555
 
 [Open repository](https://github.com/expo/router)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 555 | 24 | 
 | 2022-12-10 | 550 | 24 | 
 | 2022-12-08 | 544 | 24 | 
 | 2022-12-07 | 544 | 24 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 495 | 22 | 
 | 2022-11-14 | 494 | 22 | 
 | 2022-11-13 | 488 | 22 | 
-| 2022-11-12 | 486 | 22 | 
 

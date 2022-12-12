@@ -1,8 +1,8 @@
 # ninxsoft/Mist - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
-☋ Forks: 20
+☋ Forks: 21
 
 ★ Stars: 454
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 454 | 21 | 
 | 2022-12-10 | 454 | 20 | 
 | 2022-12-08 | 448 | 20 | 
 | 2022-12-07 | 448 | 20 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 416 | 18 | 
 | 2022-11-13 | 415 | 18 | 
 | 2022-11-12 | 413 | 17 | 
-| 2022-11-11 | 409 | 17 | 
 

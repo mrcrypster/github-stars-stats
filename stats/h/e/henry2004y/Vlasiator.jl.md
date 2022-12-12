@@ -1,10 +1,10 @@
 # henry2004y/Vlasiator.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 3
 
-★ Stars: 5
+★ Stars: 7
 
 [Open repository](https://github.com/henry2004y/Vlasiator.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 7 | 3 | 
 | 2022-12-09 | 5 | 3 | 
 | 2022-12-08 | 5 | 3 | 
 | 2022-12-07 | 5 | 3 | 

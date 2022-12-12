@@ -1,6 +1,6 @@
 # ArtBlnd/rename-future - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 54 | 1 | 
 | 2022-12-10 | 54 | 1 | 
 | 2022-12-08 | 54 | 1 | 
 | 2022-12-07 | 54 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 54 | 1 | 
 | 2022-11-13 | 54 | 1 | 
 | 2022-11-12 | 54 | 1 | 
-| 2022-11-11 | 54 | 1 | 
 

@@ -1,8 +1,8 @@
 # infobigsteptech/React-Challenge-2 - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
-☋ Forks: 13
+☋ Forks: 12
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | - | 12 | 
 | 2022-12-10 | - | 13 | 
 | 2022-12-09 | - | 13 | 
 | 2022-12-07 | - | 13 | 

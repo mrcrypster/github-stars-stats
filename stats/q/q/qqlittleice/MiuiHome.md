@@ -1,6 +1,6 @@
 # qqlittleice/MiuiHome - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 313 | 37 | 
 | 2022-12-09 | 313 | 37 | 
 | 2022-12-08 | 312 | 37 | 
 | 2022-12-07 | 313 | 37 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-15 | 301 | 36 | 
 | 2022-11-14 | 300 | 36 | 
 | 2022-11-13 | 300 | 36 | 
-| 2022-11-11 | 300 | 36 | 
 

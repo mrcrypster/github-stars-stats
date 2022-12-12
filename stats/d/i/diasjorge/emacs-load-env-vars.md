@@ -1,6 +1,6 @@
 # diasjorge/emacs-load-env-vars - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 3
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 7 | 3 | 
+| 2022-12-11 | 7 | 3 | 
 | 2022-12-10 | 7 | 3 | 
 | 2022-12-09 | 7 | 3 | 
 | 2022-12-08 | 7 | 3 | 

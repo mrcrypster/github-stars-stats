@@ -1,6 +1,6 @@
 # joe-ldp/Rawalle - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 19 | 4 | 
 | 2022-12-10 | 19 | 4 | 
 | 2022-12-08 | 18 | 4 | 
 | 2022-12-07 | 18 | 4 | 

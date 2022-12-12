@@ -1,10 +1,10 @@
 # googlemaps/js-samples - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 735
 
-★ Stars: 592
+★ Stars: 593
 
 [Open repository](https://github.com/googlemaps/js-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 593 | 735 | 
 | 2022-12-09 | 592 | 735 | 
 | 2022-12-08 | 590 | 734 | 
 | 2022-12-07 | 589 | 732 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 587 | 728 | 
 | 2022-11-13 | 586 | 728 | 
 | 2022-11-12 | 586 | 729 | 
-| 2022-11-11 | 586 | 729 | 
 

@@ -1,10 +1,10 @@
 # SciML/SciMLBase.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
-☋ Forks: 51
+☋ Forks: 53
 
-★ Stars: 73
+★ Stars: 74
 
 [Open repository](https://github.com/SciML/SciMLBase.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 74 | 53 | 
 | 2022-12-10 | 73 | 51 | 
 | 2022-12-09 | 73 | 51 | 
 | 2022-12-08 | 72 | 51 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 67 | 48 | 
 | 2022-11-13 | 67 | 48 | 
 | 2022-11-12 | 67 | 48 | 
-| 2022-11-11 | 67 | 48 | 
 

@@ -1,10 +1,10 @@
 # ansible/pylibssh - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 19
 
-★ Stars: 42
+★ Stars: 43
 
 [Open repository](https://github.com/ansible/pylibssh)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 43 | 19 | 
 | 2022-12-10 | 42 | 19 | 
 | 2022-12-09 | 42 | 19 | 
 | 2022-12-08 | 42 | 19 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 42 | 19 | 
 | 2022-11-14 | 42 | 19 | 
 | 2022-11-13 | 42 | 19 | 
-| 2022-11-12 | 42 | 19 | 
 

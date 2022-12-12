@@ -1,6 +1,6 @@
 # Vectorized/solady - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 579 | 45 | 
 | 2022-12-10 | 579 | 45 | 
 | 2022-12-09 | 578 | 45 | 
 | 2022-12-08 | 577 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 521 | 41 | 
 | 2022-11-13 | 521 | 41 | 
 | 2022-11-12 | 521 | 41 | 
-| 2022-11-11 | 518 | 39 | 
 

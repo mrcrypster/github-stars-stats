@@ -1,6 +1,6 @@
 # ChrisTitusTech/Fedora-Titus - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 69 | 26 | 
 | 2022-12-10 | 69 | 26 | 
 | 2022-12-09 | 69 | 26 | 
 | 2022-12-08 | 69 | 26 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 64 | 23 | 
 | 2022-11-13 | 64 | 23 | 
 | 2022-11-12 | 64 | 23 | 
-| 2022-11-11 | 64 | 23 | 
 

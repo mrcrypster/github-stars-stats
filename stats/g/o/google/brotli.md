@@ -1,10 +1,10 @@
 # google/brotli - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 1137
 
-★ Stars: 11710
+★ Stars: 11713
 
 [Open repository](https://github.com/google/brotli)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 11713 | 1137 | 
 | 2022-12-10 | 11710 | 1137 | 
 | 2022-12-08 | 11705 | 1137 | 
 | 2022-12-07 | 11696 | 1136 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 11621 | 1126 | 
 | 2022-11-14 | 11616 | 1127 | 
 | 2022-11-13 | 11614 | 1127 | 
-| 2022-11-12 | 11614 | 1128 | 
 

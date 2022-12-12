@@ -1,6 +1,6 @@
 # NVlabs/sionna - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 78
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 308 | 78 | 
 | 2022-12-10 | 308 | 78 | 
 | 2022-12-08 | 308 | 78 | 
 | 2022-12-07 | 305 | 77 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 291 | 73 | 
 | 2022-11-13 | 291 | 73 | 
 | 2022-11-12 | 291 | 73 | 
-| 2022-11-11 | 291 | 73 | 
 

@@ -1,10 +1,10 @@
 # Womsxd/AutoMihoyoBBS - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
-☋ Forks: 347
+☋ Forks: 348
 
-★ Stars: 1318
+★ Stars: 1323
 
 [Open repository](https://github.com/Womsxd/AutoMihoyoBBS)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 1323 | 348 | 
 | 2022-12-10 | 1318 | 347 | 
 | 2022-12-09 | 1318 | 347 | 
 | 2022-12-07 | 1316 | 347 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 1261 | 337 | 
 | 2022-11-14 | 1259 | 335 | 
 | 2022-11-13 | 1258 | 333 | 
-| 2022-11-12 | 1252 | 333 | 
 

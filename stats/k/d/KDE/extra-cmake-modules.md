@@ -1,6 +1,6 @@
 # KDE/extra-cmake-modules - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 104 | 45 | 
 | 2022-12-10 | 104 | 45 | 
 | 2022-12-09 | 104 | 45 | 
 | 2022-12-08 | 104 | 45 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 103 | 44 | 
 | 2022-11-13 | 103 | 44 | 
 | 2022-11-12 | 103 | 44 | 
-| 2022-11-11 | 102 | 45 | 
 

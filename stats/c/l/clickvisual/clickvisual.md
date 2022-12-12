@@ -1,6 +1,6 @@
 # clickvisual/clickvisual - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 147
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 957 | 147 | 
 | 2022-12-10 | 957 | 147 | 
 | 2022-12-08 | 956 | 147 | 
 | 2022-12-07 | 957 | 146 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 923 | 142 | 
 | 2022-11-13 | 922 | 142 | 
 | 2022-11-12 | 920 | 142 | 
-| 2022-11-11 | 920 | 142 | 
 

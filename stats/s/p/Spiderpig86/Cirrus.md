@@ -1,10 +1,10 @@
 # Spiderpig86/Cirrus - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 65
 
-★ Stars: 1106
+★ Stars: 1107
 
 [Open repository](https://github.com/Spiderpig86/Cirrus)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 1107 | 65 | 
 | 2022-12-10 | 1106 | 65 | 
 | 2022-12-08 | 1105 | 65 | 
 | 2022-12-07 | 1105 | 65 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 1099 | 64 | 
 | 2022-11-13 | 1099 | 64 | 
 | 2022-11-12 | 1098 | 64 | 
-| 2022-11-11 | 1099 | 64 | 
 

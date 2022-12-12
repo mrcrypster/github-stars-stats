@@ -1,6 +1,6 @@
 # yasirkula/UnityNativeGallery - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 157
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 1017 | 157 | 
 | 2022-12-10 | 1017 | 157 | 
 | 2022-12-08 | 1017 | 157 | 
 | 2022-12-07 | 1017 | 157 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 1008 | 153 | 
 | 2022-11-13 | 1008 | 153 | 
 | 2022-11-12 | 1007 | 153 | 
-| 2022-11-11 | 1007 | 153 | 
 

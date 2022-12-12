@@ -1,8 +1,8 @@
 # zlib-ng/zlib-ng - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 11
 
-☋ Forks: 190
+☋ Forks: 191
 
 ★ Stars: 1155
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 1155 | 191 | 
 | 2022-12-09 | 1155 | 190 | 
 | 2022-12-08 | 1155 | 190 | 
 | 2022-12-07 | 1155 | 190 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 1147 | 188 | 
 | 2022-11-13 | 1147 | 188 | 
 | 2022-11-12 | 1147 | 188 | 
-| 2022-11-11 | 1147 | 188 | 
 

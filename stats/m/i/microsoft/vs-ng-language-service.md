@@ -1,6 +1,6 @@
 # microsoft/vs-ng-language-service - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 33 | 12 | 
 | 2022-12-10 | 33 | 12 | 
 | 2022-12-09 | 33 | 12 | 
 | 2022-12-08 | 33 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 32 | 12 | 
 | 2022-11-13 | 32 | 12 | 
 | 2022-11-12 | 32 | 12 | 
-| 2022-11-11 | 32 | 12 | 
 

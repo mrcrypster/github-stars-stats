@@ -1,10 +1,10 @@
 # ConfusedPolarBear/intro-skipper - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 13
 
-★ Stars: 444
+★ Stars: 446
 
 [Open repository](https://github.com/ConfusedPolarBear/intro-skipper)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 446 | 13 | 
 | 2022-12-10 | 444 | 13 | 
 | 2022-12-09 | 441 | 13 | 
 | 2022-12-08 | 439 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 392 | 11 | 
 | 2022-11-13 | 391 | 11 | 
 | 2022-11-12 | 387 | 11 | 
-| 2022-11-11 | 387 | 11 | 
 

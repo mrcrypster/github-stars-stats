@@ -1,10 +1,10 @@
 # wpscanteam/wpscan - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
-☋ Forks: 1163
+☋ Forks: 1164
 
-★ Stars: 7160
+★ Stars: 7162
 
 [Open repository](https://github.com/wpscanteam/wpscan)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 7162 | 1164 | 
 | 2022-12-10 | 7160 | 1163 | 
 | 2022-12-08 | 7157 | 1163 | 
 | 2022-12-07 | 7156 | 1161 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 7107 | 1158 | 
 | 2022-11-13 | 7106 | 1158 | 
 | 2022-11-12 | 7104 | 1158 | 
-| 2022-11-11 | 7102 | 1158 | 
 

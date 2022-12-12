@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 11
 
 ☋ Forks: 92
 
-★ Stars: 2202
+★ Stars: 2203
 
 [Open repository](https://github.com/folke/which-key.nvim)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-11 | 2202 | 92 | 
+| 2022-12-11 | 2203 | 92 | 
 | 2022-12-10 | 2198 | 92 | 
 | 2022-12-09 | 2190 | 92 | 
 | 2022-12-08 | 2187 | 92 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-14 | 2096 | 90 | 
 | 2022-11-13 | 2092 | 90 | 
 | 2022-11-12 | 2084 | 90 | 
-| 2022-11-11 | 2083 | 90 | 
 

@@ -1,6 +1,6 @@
 # teelolws/TLDRMissions - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 31 | 9 | 
 | 2022-12-10 | 31 | 9 | 
 | 2022-12-09 | 31 | 9 | 
 | 2022-12-07 | 31 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 30 | 9 | 
 | 2022-11-13 | 30 | 9 | 
 | 2022-11-12 | 30 | 9 | 
-| 2022-11-11 | 30 | 9 | 
 

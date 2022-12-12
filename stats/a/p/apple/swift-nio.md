@@ -1,10 +1,10 @@
 # apple/swift-nio - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 581
 
-★ Stars: 7184
+★ Stars: 7188
 
 [Open repository](https://github.com/apple/swift-nio)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 7188 | 581 | 
 | 2022-12-10 | 7184 | 581 | 
 | 2022-12-08 | 7182 | 581 | 
 | 2022-12-07 | 7180 | 581 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 7154 | 578 | 
 | 2022-11-13 | 7154 | 578 | 
 | 2022-11-12 | 7153 | 577 | 
-| 2022-11-11 | 7152 | 576 | 
 

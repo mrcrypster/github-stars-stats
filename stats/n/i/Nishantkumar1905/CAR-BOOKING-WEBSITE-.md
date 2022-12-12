@@ -1,6 +1,6 @@
 # Nishantkumar1905/CAR-BOOKING-WEBSITE- - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 9
 
@@ -13,5 +13,6 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 3 | 9 | 
 | 2022-12-10 | 3 | 9 | 
 

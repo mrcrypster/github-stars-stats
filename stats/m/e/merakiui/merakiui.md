@@ -1,10 +1,10 @@
 # merakiui/merakiui - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 127
 
-★ Stars: 1581
+★ Stars: 1585
 
 [Open repository](https://github.com/merakiui/merakiui)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 1585 | 127 | 
 | 2022-12-10 | 1581 | 127 | 
 | 2022-12-09 | 1579 | 127 | 
 | 2022-12-08 | 1577 | 127 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 1552 | 123 | 
 | 2022-11-13 | 1548 | 123 | 
 | 2022-11-12 | 1546 | 123 | 
-| 2022-11-11 | 1546 | 123 | 
 

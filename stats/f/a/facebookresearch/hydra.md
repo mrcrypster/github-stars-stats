@@ -1,10 +1,10 @@
 # facebookresearch/hydra - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
-☋ Forks: 524
+☋ Forks: 525
 
-★ Stars: 6581
+★ Stars: 6584
 
 [Open repository](https://github.com/facebookresearch/hydra)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 6584 | 525 | 
 | 2022-12-10 | 6581 | 524 | 
 | 2022-12-09 | 6580 | 524 | 
 | 2022-12-07 | 6573 | 524 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 6499 | 512 | 
 | 2022-11-13 | 6498 | 512 | 
 | 2022-11-12 | 6497 | 510 | 
-| 2022-11-11 | 6495 | 511 | 
 

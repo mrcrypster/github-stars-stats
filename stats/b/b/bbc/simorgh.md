@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 11
 
 ☋ Forks: 144
 
-★ Stars: 895
+★ Stars: 896
 
 [Open repository](https://github.com/bbc/simorgh)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-11 | 895 | 144 | 
+| 2022-12-11 | 896 | 144 | 
 | 2022-12-10 | 894 | 144 | 
 

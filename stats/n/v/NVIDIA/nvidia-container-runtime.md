@@ -1,6 +1,6 @@
 # NVIDIA/nvidia-container-runtime - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 162
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 932 | 162 | 
 | 2022-12-10 | 932 | 162 | 
 | 2022-12-09 | 932 | 162 | 
 | 2022-12-08 | 932 | 161 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 925 | 162 | 
 | 2022-11-13 | 925 | 162 | 
 | 2022-11-12 | 927 | 162 | 
-| 2022-11-11 | 927 | 162 | 
 

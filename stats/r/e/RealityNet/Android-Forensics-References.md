@@ -1,6 +1,6 @@
 # RealityNet/Android-Forensics-References - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 96 | 10 | 
 | 2022-12-10 | 96 | 10 | 
 | 2022-12-09 | 96 | 10 | 
 | 2022-12-07 | 96 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 85 | 8 | 
 | 2022-11-13 | 85 | 8 | 
 | 2022-11-12 | 84 | 7 | 
-| 2022-11-11 | 84 | 7 | 
 

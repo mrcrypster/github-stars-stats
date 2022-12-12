@@ -1,6 +1,6 @@
 # telent/liminix - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 16 | 2 | 
 | 2022-12-10 | 16 | 2 | 
 | 2022-12-09 | 16 | 2 | 
 | 2022-12-08 | 16 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 14 | 1 | 
 | 2022-11-14 | 14 | 1 | 
 | 2022-11-13 | 14 | 1 | 
-| 2022-11-12 | 14 | 1 | 
 

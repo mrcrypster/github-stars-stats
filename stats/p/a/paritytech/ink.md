@@ -1,6 +1,6 @@
 # paritytech/ink - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 343
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 1069 | 343 | 
 | 2022-12-09 | 1069 | 343 | 
 | 2022-12-08 | 1068 | 342 | 
 | 2022-12-07 | 1067 | 342 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-15 | 1050 | 336 | 
 | 2022-11-14 | 1049 | 336 | 
 | 2022-11-12 | 1046 | 337 | 
-| 2022-11-11 | 1046 | 337 | 
 

@@ -1,10 +1,10 @@
 # uwemeyerbaese/DSP_with_FPGAs_ed4 - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 9
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/uwemeyerbaese/DSP_with_FPGAs_ed4)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 15 | 9 | 
 | 2022-12-10 | 14 | 9 | 
 | 2022-12-09 | 14 | 9 | 
 | 2022-12-08 | 14 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 14 | 9 | 
 | 2022-11-13 | 14 | 9 | 
 | 2022-11-12 | 14 | 9 | 
-| 2022-11-11 | 14 | 9 | 
 

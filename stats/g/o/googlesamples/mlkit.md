@@ -1,10 +1,10 @@
 # googlesamples/mlkit - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
-☋ Forks: 2411
+☋ Forks: 2413
 
-★ Stars: 2423
+★ Stars: 2425
 
 [Open repository](https://github.com/googlesamples/mlkit)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 2425 | 2413 | 
 | 2022-12-10 | 2423 | 2411 | 
 | 2022-12-08 | 2422 | 2411 | 
 | 2022-12-07 | 2421 | 2408 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 2380 | 2367 | 
 | 2022-11-13 | 2375 | 2361 | 
 | 2022-11-12 | 2373 | 2361 | 
-| 2022-11-11 | 2371 | 2359 | 
 

@@ -1,6 +1,6 @@
 # AkhileshNS/heroku-deploy - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 227
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 886 | 227 | 
 | 2022-12-10 | 886 | 227 | 
 | 2022-12-09 | 886 | 227 | 
 | 2022-12-08 | 886 | 227 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 884 | 223 | 
 | 2022-11-13 | 884 | 223 | 
 | 2022-11-12 | 884 | 223 | 
-| 2022-11-11 | 884 | 223 | 
 

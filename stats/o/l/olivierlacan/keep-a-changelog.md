@@ -1,10 +1,10 @@
 # olivierlacan/keep-a-changelog - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
-☋ Forks: 3684
+☋ Forks: 3682
 
-★ Stars: 5495
+★ Stars: 5498
 
 [Open repository](https://github.com/olivierlacan/keep-a-changelog)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 5498 | 3682 | 
 | 2022-12-10 | 5495 | 3684 | 
 | 2022-12-09 | 5494 | 3684 | 
 | 2022-12-08 | 5493 | 3684 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 5466 | 3674 | 
 | 2022-11-13 | 5465 | 3674 | 
 | 2022-11-12 | 5465 | 3674 | 
-| 2022-11-11 | 5465 | 3675 | 
 

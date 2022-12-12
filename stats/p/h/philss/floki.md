@@ -1,6 +1,6 @@
 # philss/floki - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 131
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 1800 | 131 | 
 | 2022-12-10 | 1800 | 131 | 
 | 2022-12-09 | 1800 | 131 | 
 | 2022-12-08 | 1800 | 131 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 1790 | 132 | 
 | 2022-11-13 | 1790 | 132 | 
 | 2022-11-12 | 1790 | 132 | 
-| 2022-11-11 | 1790 | 132 | 
 

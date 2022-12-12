@@ -1,10 +1,10 @@
 # icepie/jojo-live - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 12
 
-★ Stars: 134
+★ Stars: 147
 
 [Open repository](https://github.com/icepie/jojo-live)
 
@@ -13,5 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 147 | 12 | 
+| 2022-12-11 | 144 | 12 | 
 | 2022-12-10 | 134 | 12 | 
 

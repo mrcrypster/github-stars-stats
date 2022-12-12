@@ -1,6 +1,6 @@
 # yacan8/valentine - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 89
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 145 | 89 | 
 | 2022-12-10 | 145 | 89 | 
 | 2022-12-09 | 145 | 89 | 
 | 2022-12-08 | 145 | 89 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 145 | 89 | 
 | 2022-11-14 | 144 | 90 | 
 | 2022-11-13 | 144 | 90 | 
-| 2022-11-12 | 144 | 90 | 
 

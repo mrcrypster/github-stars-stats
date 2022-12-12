@@ -1,10 +1,10 @@
 # dealii/publication-list - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 51
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/dealii/publication-list)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 12 | 51 | 
 | 2022-12-10 | 11 | 51 | 
 | 2022-12-08 | 11 | 51 | 
 | 2022-12-07 | 11 | 51 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 11 | 51 | 
 | 2022-11-13 | 11 | 51 | 
 | 2022-11-12 | 11 | 51 | 
-| 2022-11-11 | 11 | 51 | 
 

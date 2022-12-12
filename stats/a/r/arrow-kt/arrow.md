@@ -1,6 +1,6 @@
 # arrow-kt/arrow - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 384
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 5393 | 384 | 
 | 2022-12-10 | 5393 | 384 | 
 | 2022-12-08 | 5391 | 384 | 
 | 2022-12-07 | 5387 | 383 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 5349 | 385 | 
 | 2022-11-14 | 5347 | 386 | 
 | 2022-11-13 | 5346 | 386 | 
-| 2022-11-11 | 5346 | 386 | 
 

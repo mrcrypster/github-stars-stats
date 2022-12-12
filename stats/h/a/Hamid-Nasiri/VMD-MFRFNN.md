@@ -1,6 +1,6 @@
 # Hamid-Nasiri/VMD-MFRFNN - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 23 | 1 | 
 | 2022-12-10 | 23 | 1 | 
 | 2022-12-09 | 22 | 1 | 
 | 2022-12-08 | 22 | 1 | 

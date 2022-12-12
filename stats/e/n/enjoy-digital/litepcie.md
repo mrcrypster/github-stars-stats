@@ -1,10 +1,10 @@
 # enjoy-digital/litepcie - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 75
 
-★ Stars: 334
+★ Stars: 335
 
 [Open repository](https://github.com/enjoy-digital/litepcie)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 335 | 75 | 
 | 2022-12-10 | 334 | 75 | 
 | 2022-12-09 | 334 | 75 | 
 | 2022-12-08 | 334 | 75 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 328 | 73 | 
 | 2022-11-13 | 327 | 73 | 
 | 2022-11-12 | 327 | 73 | 
-| 2022-11-11 | 327 | 73 | 
 

@@ -1,10 +1,10 @@
 # alexforencich/verilog-pcie - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 182
 
-★ Stars: 582
+★ Stars: 583
 
 [Open repository](https://github.com/alexforencich/verilog-pcie)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 583 | 182 | 
 | 2022-12-10 | 582 | 182 | 
 | 2022-12-09 | 582 | 182 | 
 | 2022-12-08 | 580 | 181 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 568 | 179 | 
 | 2022-11-14 | 566 | 178 | 
 | 2022-11-13 | 565 | 177 | 
-| 2022-11-12 | 565 | 177 | 
 

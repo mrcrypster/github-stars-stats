@@ -1,10 +1,10 @@
 # Jeneko/News-api-migration-walkthrough - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
-☋ Forks: 34
+☋ Forks: 36
 
-★ Stars: 35
+★ Stars: 37
 
 [Open repository](https://github.com/Jeneko/News-api-migration-walkthrough)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 37 | 36 | 
 | 2022-12-10 | 35 | 34 | 
 | 2022-12-08 | 33 | 34 | 
 | 2022-12-07 | 31 | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 26 | 24 | 
 | 2022-11-13 | 26 | 24 | 
 | 2022-11-12 | 26 | 24 | 
-| 2022-11-11 | 26 | 24 | 
 

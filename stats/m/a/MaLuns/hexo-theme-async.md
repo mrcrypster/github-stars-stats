@@ -1,10 +1,10 @@
 # MaLuns/hexo-theme-async - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 11
 
-★ Stars: 66
+★ Stars: 67
 
 [Open repository](https://github.com/MaLuns/hexo-theme-async)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 67 | 11 | 
 | 2022-12-10 | 66 | 11 | 
 | 2022-12-08 | 66 | 11 | 
 | 2022-12-07 | 65 | 11 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 55 | 7 | 
 | 2022-11-14 | 55 | 7 | 
 | 2022-11-12 | 55 | 7 | 
-| 2022-11-11 | 55 | 7 | 
 

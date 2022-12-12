@@ -1,10 +1,10 @@
 # racerxdl/riskow - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 7
 
-★ Stars: 109
+★ Stars: 110
 
 [Open repository](https://github.com/racerxdl/riskow)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 110 | 7 | 
 | 2022-12-10 | 109 | 7 | 
 | 2022-12-09 | 109 | 7 | 
 | 2022-12-08 | 109 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 110 | 7 | 
 | 2022-11-13 | 110 | 7 | 
 | 2022-11-12 | 110 | 7 | 
-| 2022-11-11 | 110 | 7 | 
 

@@ -1,6 +1,6 @@
 # vignetteapp/SeeShark - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 112 | 6 | 
 | 2022-12-10 | 112 | 6 | 
 | 2022-12-09 | 112 | 6 | 
 | 2022-12-08 | 112 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 108 | 5 | 
 | 2022-11-13 | 108 | 5 | 
 | 2022-11-12 | 108 | 5 | 
-| 2022-11-11 | 109 | 6 | 
 

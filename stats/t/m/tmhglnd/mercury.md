@@ -1,10 +1,10 @@
 # tmhglnd/mercury - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 12
 
-★ Stars: 193
+★ Stars: 194
 
 [Open repository](https://github.com/tmhglnd/mercury)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 194 | 12 | 
 | 2022-12-10 | 193 | 12 | 
 | 2022-12-09 | 193 | 12 | 
 | 2022-12-08 | 193 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 193 | 12 | 
 | 2022-11-14 | 193 | 12 | 
 | 2022-11-13 | 192 | 12 | 
-| 2022-11-12 | 192 | 12 | 
 

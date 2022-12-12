@@ -1,6 +1,6 @@
 # littlesticksdev/odyssey-theme - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 144 | 40 | 
 | 2022-12-10 | 144 | 40 | 
 | 2022-12-09 | 142 | 40 | 
 | 2022-12-07 | 142 | 40 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 123 | 31 | 
 | 2022-11-14 | 121 | 30 | 
 | 2022-11-13 | 120 | 29 | 
-| 2022-11-11 | 119 | 29 | 
 

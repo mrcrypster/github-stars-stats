@@ -1,6 +1,6 @@
 # tauseedzaman/hospitalMS - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 48 | 30 | 
 | 2022-12-10 | 48 | 30 | 
 | 2022-12-09 | 46 | 30 | 
 | 2022-12-08 | 46 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 43 | 28 | 
 | 2022-11-13 | 42 | 27 | 
 | 2022-11-12 | 42 | 27 | 
-| 2022-11-11 | 41 | 27 | 
 

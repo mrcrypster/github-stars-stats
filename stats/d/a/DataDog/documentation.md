@@ -1,10 +1,10 @@
 # DataDog/documentation - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 708
 
-★ Stars: 260
+★ Stars: 261
 
 [Open repository](https://github.com/DataDog/documentation)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 261 | 708 | 
 | 2022-12-10 | 260 | 708 | 
 | 2022-12-09 | 260 | 706 | 
 | 2022-12-07 | 259 | 705 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 253 | 694 | 
 | 2022-11-13 | 252 | 693 | 
 | 2022-11-12 | 252 | 693 | 
-| 2022-11-11 | 252 | 692 | 
 

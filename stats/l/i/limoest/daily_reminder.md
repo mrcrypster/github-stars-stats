@@ -1,8 +1,8 @@
 # limoest/daily_reminder - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
-☋ Forks: 1450
+☋ Forks: 1449
 
 ★ Stars: 400
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 400 | 1449 | 
 | 2022-12-10 | 400 | 1450 | 
 | 2022-12-09 | 400 | 1447 | 
 | 2022-12-08 | 401 | 1445 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 390 | 1406 | 
 | 2022-11-13 | 387 | 1405 | 
 | 2022-11-12 | 383 | 1400 | 
-| 2022-11-11 | 383 | 1400 | 
 

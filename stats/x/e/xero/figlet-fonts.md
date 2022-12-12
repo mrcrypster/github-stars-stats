@@ -1,6 +1,6 @@
 # xero/figlet-fonts - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 192
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 703 | 192 | 
 | 2022-12-10 | 703 | 192 | 
 | 2022-12-08 | 703 | 192 | 
 | 2022-12-07 | 703 | 192 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 694 | 187 | 
 | 2022-11-14 | 693 | 187 | 
 | 2022-11-13 | 692 | 187 | 
-| 2022-11-12 | 692 | 187 | 
 

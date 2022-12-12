@@ -1,10 +1,10 @@
 # jamessan/vim-gnupg - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 73
 
-★ Stars: 651
+★ Stars: 652
 
 [Open repository](https://github.com/jamessan/vim-gnupg)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 652 | 73 | 
 | 2022-12-10 | 651 | 73 | 
 | 2022-12-08 | 651 | 73 | 
 | 2022-12-07 | 651 | 73 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 651 | 72 | 
 | 2022-11-14 | 651 | 72 | 
 | 2022-11-13 | 651 | 72 | 
-| 2022-11-12 | 651 | 72 | 
 

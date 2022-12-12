@@ -1,10 +1,10 @@
 # brave/brave-ios - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
-☋ Forks: 367
+☋ Forks: 368
 
-★ Stars: 1368
+★ Stars: 1369
 
 [Open repository](https://github.com/brave/brave-ios)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 1369 | 368 | 
 | 2022-12-10 | 1368 | 367 | 
 | 2022-12-09 | 1368 | 368 | 
 | 2022-12-08 | 1366 | 368 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 1348 | 365 | 
 | 2022-11-13 | 1346 | 365 | 
 | 2022-11-12 | 1346 | 366 | 
-| 2022-11-11 | 1346 | 366 | 
 

@@ -1,6 +1,6 @@
 # OP-TED/eForms-SDK - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 25 | 15 | 
 | 2022-12-10 | 25 | 15 | 
 | 2022-12-09 | 25 | 15 | 
 | 2022-12-08 | 24 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 22 | 14 | 
 | 2022-11-13 | 21 | 14 | 
 | 2022-11-12 | 21 | 14 | 
-| 2022-11-11 | 21 | 14 | 
 

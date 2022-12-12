@@ -1,8 +1,8 @@
 # Kaysuto/rdp-windows - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
-☋ Forks: 10
+☋ Forks: 11
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 3 | 11 | 
 | 2022-12-10 | 3 | 10 | 
 | 2022-12-09 | 2 | 7 | 
 | 2022-12-08 | 2 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 2 | 7 | 
 | 2022-11-13 | 2 | 7 | 
 | 2022-11-12 | 2 | 7 | 
-| 2022-11-11 | 2 | 7 | 
 

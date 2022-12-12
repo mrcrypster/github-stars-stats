@@ -1,8 +1,8 @@
 # arcticicestudio/nord-vim - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
-☋ Forks: 270
+☋ Forks: 271
 
 ★ Stars: 2300
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 2300 | 271 | 
 | 2022-12-10 | 2300 | 270 | 
 | 2022-12-08 | 2300 | 269 | 
 | 2022-12-07 | 2300 | 269 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 2285 | 265 | 
 | 2022-11-13 | 2285 | 265 | 
 | 2022-11-12 | 2284 | 265 | 
-| 2022-11-11 | 2284 | 265 | 
 

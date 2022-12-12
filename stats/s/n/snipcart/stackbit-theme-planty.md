@@ -1,6 +1,6 @@
 # snipcart/stackbit-theme-planty - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 186
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 250 | 186 | 
 | 2022-12-10 | 250 | 186 | 
 | 2022-12-09 | 250 | 186 | 
 | 2022-12-08 | 250 | 186 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 248 | 186 | 
 | 2022-11-13 | 248 | 186 | 
 | 2022-11-12 | 248 | 186 | 
-| 2022-11-11 | 248 | 186 | 
 

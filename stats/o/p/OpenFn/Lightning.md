@@ -1,6 +1,6 @@
 # OpenFn/Lightning - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 18 | 7 | 
 | 2022-12-10 | 18 | 7 | 
 | 2022-12-08 | 18 | 7 | 
 | 2022-12-07 | 18 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 16 | 6 | 
 | 2022-11-13 | 16 | 6 | 
 | 2022-11-12 | 16 | 6 | 
-| 2022-11-11 | 16 | 6 | 
 

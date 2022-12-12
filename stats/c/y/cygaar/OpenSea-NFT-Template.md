@@ -1,6 +1,6 @@
 # cygaar/OpenSea-NFT-Template - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 27 | 8 | 
 | 2022-12-10 | 27 | 8 | 
 | 2022-12-09 | 27 | 8 | 
 | 2022-12-08 | 27 | 8 | 

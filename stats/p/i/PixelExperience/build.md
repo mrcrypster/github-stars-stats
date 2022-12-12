@@ -1,8 +1,8 @@
 # PixelExperience/build - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
-☋ Forks: 55
+☋ Forks: 53
 
 ★ Stars: 15
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 15 | 53 | 
 | 2022-12-11 | 15 | 55 | 
 | 2022-12-09 | 15 | 54 | 
 | 2022-12-08 | 15 | 54 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-14 | 15 | 55 | 
 | 2022-11-13 | 15 | 55 | 
 | 2022-11-12 | 15 | 56 | 
-| 2022-11-11 | 15 | 56 | 
 

@@ -1,6 +1,6 @@
 # RTFKT-Ltd/anti-theft - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 25 | 1 | 
 | 2022-12-10 | 25 | 1 | 
 | 2022-12-09 | 25 | 1 | 
 | 2022-12-07 | 25 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 23 | 1 | 
 | 2022-11-13 | 23 | 1 | 
 | 2022-11-12 | 23 | 1 | 
-| 2022-11-11 | 23 | 1 | 
 

@@ -1,10 +1,10 @@
 # prql/prql - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 104
 
-★ Stars: 5370
+★ Stars: 5372
 
 [Open repository](https://github.com/prql/prql)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 5372 | 104 | 
 | 2022-12-10 | 5370 | 104 | 
 | 2022-12-09 | 5368 | 104 | 
 | 2022-12-08 | 5366 | 104 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 5312 | 105 | 
 | 2022-11-13 | 5307 | 105 | 
 | 2022-11-12 | 5291 | 105 | 
-| 2022-11-11 | 5289 | 104 | 
 

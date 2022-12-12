@@ -1,10 +1,10 @@
 # well-typed/large-records - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 11
 
-★ Stars: 35
+★ Stars: 36
 
 [Open repository](https://github.com/well-typed/large-records)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 36 | 11 | 
 | 2022-12-10 | 35 | 11 | 
 | 2022-12-09 | 35 | 11 | 
 | 2022-12-08 | 35 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 34 | 11 | 
 | 2022-11-13 | 34 | 11 | 
 | 2022-11-12 | 34 | 11 | 
-| 2022-11-11 | 34 | 11 | 
 

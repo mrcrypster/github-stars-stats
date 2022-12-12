@@ -1,6 +1,6 @@
 # bkader/KPack - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 20 | 9 | 
 | 2022-12-10 | 20 | 9 | 
 | 2022-12-08 | 20 | 9 | 
 | 2022-12-07 | 20 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 18 | 8 | 
 | 2022-11-14 | 18 | 8 | 
 | 2022-11-13 | 18 | 8 | 
-| 2022-11-12 | 18 | 8 | 
 

@@ -1,10 +1,10 @@
 # cirosantilli/china-dictatorship - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 199
 
-★ Stars: 1097
+★ Stars: 1099
 
 [Open repository](https://github.com/cirosantilli/china-dictatorship)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 1099 | 199 | 
 | 2022-12-10 | 1097 | 199 | 
 | 2022-12-08 | 1095 | 199 | 
 | 2022-12-07 | 1092 | 199 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 1049 | 196 | 
 | 2022-11-13 | 1048 | 196 | 
 | 2022-11-12 | 1048 | 196 | 
-| 2022-11-11 | 1049 | 196 | 
 

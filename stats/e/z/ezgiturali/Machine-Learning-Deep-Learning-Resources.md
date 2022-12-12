@@ -1,10 +1,10 @@
 # ezgiturali/Machine-Learning-Deep-Learning-Resources - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 20
 
-★ Stars: 338
+★ Stars: 339
 
 [Open repository](https://github.com/ezgiturali/Machine-Learning-Deep-Learning-Resources)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 339 | 20 | 
 | 2022-12-10 | 338 | 20 | 
 | 2022-12-09 | 338 | 20 | 
 | 2022-12-08 | 338 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 329 | 20 | 
 | 2022-11-13 | 329 | 20 | 
 | 2022-11-12 | 326 | 20 | 
-| 2022-11-11 | 325 | 20 | 
 

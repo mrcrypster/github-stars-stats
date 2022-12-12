@@ -1,10 +1,10 @@
 # wolfenrain/wattles - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 4
 
-★ Stars: 131
+★ Stars: 132
 
 [Open repository](https://github.com/wolfenrain/wattles)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 132 | 4 | 
 | 2022-12-10 | 131 | 4 | 
 | 2022-12-09 | 131 | 4 | 
 | 2022-12-07 | 131 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 130 | 4 | 
 | 2022-11-13 | 130 | 4 | 
 | 2022-11-12 | 129 | 3 | 
-| 2022-11-11 | 129 | 3 | 
 

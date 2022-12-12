@@ -1,6 +1,6 @@
 # PX4/px4_msgs - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 66
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 30 | 66 | 
 | 2022-12-10 | 30 | 66 | 
 | 2022-12-08 | 30 | 65 | 
 | 2022-12-07 | 30 | 65 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 29 | 62 | 
 | 2022-11-13 | 29 | 61 | 
 | 2022-11-12 | 29 | 61 | 
-| 2022-11-11 | 29 | 61 | 
 

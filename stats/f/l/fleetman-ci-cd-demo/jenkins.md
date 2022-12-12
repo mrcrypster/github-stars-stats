@@ -1,8 +1,8 @@
 # fleetman-ci-cd-demo/jenkins - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
-☋ Forks: 857
+☋ Forks: 858
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 5 | 858 | 
 | 2022-12-10 | 5 | 857 | 
 | 2022-12-09 | 5 | 857 | 
 | 2022-12-07 | 5 | 857 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 5 | 849 | 
 | 2022-11-13 | 5 | 848 | 
 | 2022-11-12 | 5 | 848 | 
-| 2022-11-11 | 5 | 848 | 
 

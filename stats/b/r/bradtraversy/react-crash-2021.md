@@ -1,10 +1,10 @@
 # bradtraversy/react-crash-2021 - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
-☋ Forks: 1687
+☋ Forks: 1688
 
-★ Stars: 1256
+★ Stars: 1257
 
 [Open repository](https://github.com/bradtraversy/react-crash-2021)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 1257 | 1688 | 
 | 2022-12-10 | 1256 | 1687 | 
 | 2022-12-09 | 1255 | 1686 | 
 | 2022-12-08 | 1254 | 1684 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 1244 | 1654 | 
 | 2022-11-13 | 1244 | 1654 | 
 | 2022-11-12 | 1242 | 1654 | 
-| 2022-11-11 | 1242 | 1653 | 
 

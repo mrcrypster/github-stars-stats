@@ -1,8 +1,8 @@
 # KasperskyLab/Kaspresso - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
-☋ Forks: 117
+☋ Forks: 118
 
 ★ Stars: 1443
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 1443 | 118 | 
 | 2022-12-10 | 1443 | 117 | 
 | 2022-12-09 | 1443 | 117 | 
 | 2022-12-08 | 1443 | 117 | 

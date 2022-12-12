@@ -1,6 +1,6 @@
 # turalus/encycloDB - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 74
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 144 | 74 | 
 | 2022-12-09 | 144 | 74 | 
 | 2022-12-08 | 144 | 74 | 
 | 2022-12-07 | 143 | 74 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-15 | 143 | 74 | 
 | 2022-11-14 | 143 | 74 | 
 | 2022-11-13 | 143 | 74 | 
-| 2022-11-11 | 143 | 72 | 
 

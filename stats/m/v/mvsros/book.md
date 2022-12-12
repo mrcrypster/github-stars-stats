@@ -1,8 +1,8 @@
 # mvsros/book - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
-☋ Forks: 30
+☋ Forks: 31
 
 ★ Stars: 14
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 14 | 31 | 
 | 2022-12-10 | 14 | 30 | 
 | 2022-12-09 | 14 | 23 | 
 | 2022-12-08 | 12 | 18 | 

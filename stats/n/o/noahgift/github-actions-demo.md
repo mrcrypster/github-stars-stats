@@ -1,6 +1,6 @@
 # noahgift/github-actions-demo - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 162
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 25 | 162 | 
 | 2022-12-09 | 25 | 162 | 
 | 2022-12-08 | 25 | 161 | 
 | 2022-12-07 | 25 | 159 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 25 | 154 | 
 | 2022-11-13 | 25 | 154 | 
 | 2022-11-12 | 25 | 154 | 
-| 2022-11-11 | 25 | 154 | 
 

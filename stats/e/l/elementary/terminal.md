@@ -1,10 +1,10 @@
 # elementary/terminal - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 91
 
-★ Stars: 360
+★ Stars: 361
 
 [Open repository](https://github.com/elementary/terminal)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 361 | 91 | 
 | 2022-12-09 | 360 | 91 | 
 | 2022-12-08 | 360 | 91 | 
 | 2022-12-07 | 360 | 91 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 361 | 91 | 
 | 2022-11-13 | 361 | 91 | 
 | 2022-11-12 | 361 | 91 | 
-| 2022-11-11 | 361 | 91 | 
 

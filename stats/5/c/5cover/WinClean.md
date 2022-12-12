@@ -1,6 +1,6 @@
 # 5cover/WinClean - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 44 | 5 | 
 | 2022-12-09 | 44 | 5 | 
 | 2022-12-08 | 43 | 5 | 
 | 2022-12-07 | 41 | 5 | 

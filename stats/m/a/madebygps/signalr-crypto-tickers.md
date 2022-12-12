@@ -1,6 +1,6 @@
 # madebygps/signalr-crypto-tickers - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 26 | 20 | 
 | 2022-12-10 | 26 | 20 | 
 | 2022-12-08 | 26 | 20 | 
 | 2022-12-07 | 26 | 20 | 

@@ -1,10 +1,10 @@
 # yzhao062/pyod - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 1215
 
-★ Stars: 6539
+★ Stars: 6542
 
 [Open repository](https://github.com/yzhao062/pyod)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 6542 | 1215 | 
 | 2022-12-09 | 6539 | 1215 | 
 | 2022-12-08 | 6535 | 1215 | 
 | 2022-12-07 | 6529 | 1214 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 6398 | 1199 | 
 | 2022-11-13 | 6395 | 1198 | 
 | 2022-11-12 | 6392 | 1198 | 
-| 2022-11-11 | 6389 | 1198 | 
 

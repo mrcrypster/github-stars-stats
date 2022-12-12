@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 11
 
 ☋ Forks: 4510
 
-★ Stars: 6595
+★ Stars: 6596
 
 [Open repository](https://github.com/awsdocs/aws-doc-sdk-examples)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-11 | 6595 | 4510 | 
+| 2022-12-11 | 6596 | 4510 | 
 | 2022-12-10 | 6593 | 4509 | 
 | 2022-12-09 | 6583 | 4508 | 
 | 2022-12-08 | 6572 | 4503 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-14 | 6397 | 4397 | 
 | 2022-11-13 | 6391 | 4398 | 
 | 2022-11-12 | 6381 | 4394 | 
-| 2022-11-11 | 6377 | 4393 | 
 

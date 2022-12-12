@@ -1,6 +1,6 @@
 # xinliangnote/Go - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 919
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 3048 | 919 | 
 | 2022-12-10 | 3048 | 919 | 
 | 2022-12-09 | 3046 | 919 | 
 | 2022-12-08 | 3046 | 918 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 2985 | 900 | 
 | 2022-11-13 | 2980 | 898 | 
 | 2022-11-12 | 2978 | 898 | 
-| 2022-11-11 | 2977 | 898 | 
 

@@ -1,10 +1,10 @@
 # donut-power/system - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 3
 
-★ Stars: 98
+★ Stars: 99
 
 [Open repository](https://github.com/donut-power/system)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 99 | 3 | 
 | 2022-12-10 | 98 | 3 | 
 | 2022-12-08 | 97 | 3 | 
 | 2022-12-07 | 96 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 92 | 3 | 
 | 2022-11-14 | 92 | 3 | 
 | 2022-11-13 | 92 | 3 | 
-| 2022-11-12 | 92 | 3 | 
 

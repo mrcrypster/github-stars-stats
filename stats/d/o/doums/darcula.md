@@ -1,10 +1,10 @@
 # doums/darcula - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
-☋ Forks: 50
+☋ Forks: 49
 
-★ Stars: 296
+★ Stars: 298
 
 [Open repository](https://github.com/doums/darcula)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 298 | 49 | 
 | 2022-12-10 | 296 | 50 | 
 | 2022-12-09 | 296 | 50 | 
 | 2022-12-07 | 296 | 50 | 

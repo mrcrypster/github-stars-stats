@@ -1,10 +1,10 @@
 # cloudreve/Cloudreve - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
-☋ Forks: 2888
+☋ Forks: 2889
 
-★ Stars: 16721
+★ Stars: 16726
 
 [Open repository](https://github.com/cloudreve/Cloudreve)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 16726 | 2889 | 
 | 2022-12-10 | 16721 | 2888 | 
 | 2022-12-08 | 16711 | 2888 | 
 | 2022-12-07 | 16697 | 2887 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 16412 | 2846 | 
 | 2022-11-13 | 16385 | 2844 | 
 | 2022-11-12 | 16374 | 2842 | 
-| 2022-11-11 | 16364 | 2840 | 
 

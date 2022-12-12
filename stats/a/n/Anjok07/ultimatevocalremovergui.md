@@ -1,10 +1,10 @@
 # Anjok07/ultimatevocalremovergui - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
-☋ Forks: 295
+☋ Forks: 297
 
-★ Stars: 4042
+★ Stars: 4068
 
 [Open repository](https://github.com/Anjok07/ultimatevocalremovergui)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 4068 | 297 | 
 | 2022-12-10 | 4042 | 295 | 
 | 2022-12-09 | 4035 | 295 | 
 | 2022-12-08 | 4027 | 295 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 3922 | 291 | 
 | 2022-11-13 | 3912 | 291 | 
 | 2022-11-12 | 3906 | 289 | 
-| 2022-11-11 | 3899 | 289 | 
 

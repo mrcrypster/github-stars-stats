@@ -1,10 +1,10 @@
 # atom/flight-manual.atom.io - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 2000
 
-★ Stars: 613
+★ Stars: 614
 
 [Open repository](https://github.com/atom/flight-manual.atom.io)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 614 | 2000 | 
 | 2022-12-10 | 613 | 2000 | 
 | 2022-12-09 | 613 | 1998 | 
 | 2022-12-08 | 613 | 1998 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 611 | 1976 | 
 | 2022-11-13 | 611 | 1977 | 
 | 2022-11-12 | 611 | 1975 | 
-| 2022-11-11 | 611 | 1975 | 
 

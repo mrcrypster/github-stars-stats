@@ -1,8 +1,8 @@
 # amrrs/openai-whisper-webapp - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
-☋ Forks: 13
+☋ Forks: 12
 
 ★ Stars: 54
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 54 | 12 | 
 | 2022-12-10 | 54 | 13 | 
 | 2022-12-09 | 54 | 13 | 
 | 2022-12-07 | 54 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 51 | 12 | 
 | 2022-11-13 | 51 | 12 | 
 | 2022-11-12 | 51 | 12 | 
-| 2022-11-11 | 51 | 11 | 
 

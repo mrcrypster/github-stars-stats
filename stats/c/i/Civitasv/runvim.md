@@ -1,10 +1,10 @@
 # Civitasv/runvim - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 3
 
-★ Stars: 52
+★ Stars: 53
 
 [Open repository](https://github.com/Civitasv/runvim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 53 | 3 | 
 | 2022-12-10 | 52 | 3 | 
 | 2022-12-09 | 52 | 3 | 
 | 2022-12-08 | 52 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 51 | 2 | 
 | 2022-11-13 | 51 | 2 | 
 | 2022-11-12 | 51 | 2 | 
-| 2022-11-11 | 51 | 2 | 
 

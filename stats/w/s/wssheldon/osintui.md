@@ -1,10 +1,10 @@
 # wssheldon/osintui - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 30
 
-★ Stars: 631
+★ Stars: 632
 
 [Open repository](https://github.com/wssheldon/osintui)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 632 | 30 | 
 | 2022-12-10 | 631 | 30 | 
 | 2022-12-09 | 631 | 30 | 
 | 2022-12-08 | 631 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 620 | 30 | 
 | 2022-11-13 | 620 | 30 | 
 | 2022-11-12 | 619 | 30 | 
-| 2022-11-11 | 617 | 30 | 
 

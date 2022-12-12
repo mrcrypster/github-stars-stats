@@ -1,10 +1,10 @@
 # xdebug/xdebug - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
-☋ Forks: 535
+☋ Forks: 536
 
-★ Stars: 2751
+★ Stars: 2752
 
 [Open repository](https://github.com/xdebug/xdebug)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 2752 | 536 | 
 | 2022-12-10 | 2751 | 535 | 
 | 2022-12-09 | 2748 | 534 | 
 | 2022-12-08 | 2747 | 532 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 2736 | 530 | 
 | 2022-11-13 | 2736 | 530 | 
 | 2022-11-12 | 2735 | 530 | 
-| 2022-11-11 | 2735 | 530 | 
 

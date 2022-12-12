@@ -1,10 +1,10 @@
 # lukevella/rallly - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 144
 
-★ Stars: 1381
+★ Stars: 1384
 
 [Open repository](https://github.com/lukevella/rallly)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 1384 | 144 | 
 | 2022-12-10 | 1381 | 144 | 
 | 2022-12-09 | 1378 | 143 | 
 | 2022-12-08 | 1377 | 143 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 1303 | 137 | 
 | 2022-11-13 | 1301 | 137 | 
 | 2022-11-12 | 1300 | 137 | 
-| 2022-11-11 | 1299 | 137 | 
 

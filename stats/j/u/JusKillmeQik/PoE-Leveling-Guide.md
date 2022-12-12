@@ -1,6 +1,6 @@
 # JusKillmeQik/PoE-Leveling-Guide - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 293 | 48 | 
 | 2022-12-10 | 293 | 48 | 
 | 2022-12-09 | 293 | 48 | 
 | 2022-12-08 | 291 | 48 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 289 | 46 | 
 | 2022-11-14 | 289 | 46 | 
 | 2022-11-13 | 289 | 46 | 
-| 2022-11-11 | 289 | 46 | 
 

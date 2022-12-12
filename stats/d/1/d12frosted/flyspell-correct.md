@@ -1,6 +1,6 @@
 # d12frosted/flyspell-correct - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 185 | 15 | 
 | 2022-12-10 | 185 | 15 | 
 | 2022-12-08 | 185 | 15 | 
 | 2022-12-07 | 184 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 183 | 15 | 
 | 2022-11-14 | 183 | 15 | 
 | 2022-11-12 | 183 | 15 | 
-| 2022-11-11 | 183 | 15 | 
 

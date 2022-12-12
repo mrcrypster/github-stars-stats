@@ -1,6 +1,6 @@
 # pachterlab/gget - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 554 | 36 | 
 | 2022-12-10 | 554 | 36 | 
 | 2022-12-09 | 554 | 36 | 
 | 2022-12-08 | 551 | 35 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 545 | 35 | 
 | 2022-11-14 | 545 | 35 | 
 | 2022-11-13 | 544 | 35 | 
-| 2022-11-12 | 544 | 35 | 
 

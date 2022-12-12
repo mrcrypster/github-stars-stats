@@ -1,10 +1,10 @@
 # natedotv2/fantoken-tutorial - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 9
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/natedotv2/fantoken-tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 7 | 9 | 
 | 2022-12-10 | 6 | 9 | 
 | 2022-12-09 | 6 | 9 | 
 | 2022-12-08 | 6 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 5 | 9 | 
 | 2022-11-13 | 5 | 9 | 
 | 2022-11-12 | 5 | 9 | 
-| 2022-11-11 | 5 | 9 | 
 

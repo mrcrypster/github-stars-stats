@@ -1,6 +1,6 @@
 # oslabs-beta/canopy - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 78 | 18 | 
 | 2022-12-10 | 78 | 18 | 
 | 2022-12-08 | 78 | 17 | 
 | 2022-12-07 | 78 | 17 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 77 | 17 | 
 | 2022-11-14 | 77 | 17 | 
 | 2022-11-12 | 77 | 17 | 
-| 2022-11-11 | 77 | 17 | 
 

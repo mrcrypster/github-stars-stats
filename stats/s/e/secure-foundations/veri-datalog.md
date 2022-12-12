@@ -1,10 +1,10 @@
 # secure-foundations/veri-datalog - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 0
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/secure-foundations/veri-datalog)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 2 | - | 
 | 2022-12-10 | 1 | - | 
 | 2022-12-09 | 1 | - | 
 | 2022-12-08 | 1 | - | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | - | - | 
 | 2022-11-13 | - | - | 
 | 2022-11-12 | - | - | 
-| 2022-11-11 | - | - | 
 

@@ -1,6 +1,6 @@
 # litmuschaos/litmus - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 537
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 3422 | 537 | 
 | 2022-12-10 | 3422 | 537 | 
 | 2022-12-09 | 3419 | 536 | 
 | 2022-12-08 | 3416 | 534 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 3368 | 529 | 
 | 2022-11-14 | 3366 | 530 | 
 | 2022-11-13 | 3365 | 530 | 
-| 2022-11-12 | 3365 | 530 | 
 

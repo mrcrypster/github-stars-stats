@@ -1,10 +1,10 @@
 # Vanlightly/vsr-tlaplus - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 0
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/Vanlightly/vsr-tlaplus)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 18 | - | 
 | 2022-12-09 | 17 | - | 
 | 2022-12-08 | 17 | - | 
 | 2022-12-07 | 17 | - | 

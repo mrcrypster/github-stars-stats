@@ -1,6 +1,6 @@
 # 0vercl0k/paracosme - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 74 | 19 | 
 | 2022-12-10 | 74 | 19 | 
 | 2022-12-09 | 74 | 19 | 
 | 2022-12-08 | 74 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 74 | 19 | 
 | 2022-11-13 | 74 | 19 | 
 | 2022-11-12 | 73 | 19 | 
-| 2022-11-11 | 73 | 19 | 
 

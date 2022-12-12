@@ -1,10 +1,10 @@
 # glepnir/template.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 6
 
-★ Stars: 79
+★ Stars: 80
 
 [Open repository](https://github.com/glepnir/template.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 80 | 6 | 
 | 2022-12-10 | 79 | 6 | 
 | 2022-12-09 | 78 | 6 | 
 | 2022-12-08 | 77 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 69 | 5 | 
 | 2022-11-14 | 69 | 5 | 
 | 2022-11-12 | 68 | 5 | 
-| 2022-11-11 | 68 | 5 | 
 

@@ -1,10 +1,10 @@
 # yoimiya-kokomi/miao-plugin - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 126
 
-★ Stars: 797
+★ Stars: 802
 
 [Open repository](https://github.com/yoimiya-kokomi/miao-plugin)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 802 | 126 | 
 | 2022-12-10 | 797 | 126 | 
 | 2022-12-08 | 793 | 126 | 
 | 2022-12-07 | 792 | 126 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 722 | 115 | 
 | 2022-11-13 | 718 | 112 | 
 | 2022-11-12 | 715 | 110 | 
-| 2022-11-11 | 711 | 110 | 
 

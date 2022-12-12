@@ -1,10 +1,10 @@
 # sisl/BayesNets.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 50
 
-★ Stars: 209
+★ Stars: 210
 
 [Open repository](https://github.com/sisl/BayesNets.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 210 | 50 | 
 | 2022-12-10 | 209 | 50 | 
 | 2022-12-09 | 209 | 50 | 
 | 2022-12-07 | 209 | 50 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 205 | 51 | 
 | 2022-11-13 | 205 | 51 | 
 | 2022-11-12 | 205 | 51 | 
-| 2022-11-11 | 205 | 51 | 
 

@@ -1,6 +1,6 @@
 # ECburx/Idris2GL - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 58 | 7 | 
 | 2022-12-10 | 58 | 7 | 
 | 2022-12-09 | 58 | 7 | 
 | 2022-12-07 | 58 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 58 | 7 | 
 | 2022-11-14 | 59 | 7 | 
 | 2022-11-13 | 59 | 7 | 
-| 2022-11-12 | 59 | 7 | 
 

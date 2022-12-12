@@ -1,6 +1,6 @@
 # Mr-Un1k0d3r/EDRs - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 288
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 1612 | 288 | 
 | 2022-12-10 | 1612 | 288 | 
 | 2022-12-09 | 1611 | 288 | 
 | 2022-12-08 | 1609 | 288 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 1598 | 284 | 
 | 2022-11-13 | 1597 | 284 | 
 | 2022-11-12 | 1596 | 284 | 
-| 2022-11-11 | 1595 | 284 | 
 

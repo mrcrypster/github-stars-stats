@@ -1,10 +1,10 @@
 # Vanna007/Free-RDP - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
-☋ Forks: 1622
+☋ Forks: 1658
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/Vanna007/Free-RDP)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 18 | 1658 | 
 | 2022-12-10 | 17 | 1622 | 
 | 2022-12-09 | 14 | 1550 | 
 | 2022-12-08 | 13 | 1515 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 8 | 772 | 
 | 2022-11-13 | 8 | 721 | 
 | 2022-11-12 | 6 | 691 | 
-| 2022-11-11 | 6 | 682 | 
 

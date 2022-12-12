@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 11
 
 ☋ Forks: 2291
 
-★ Stars: 3522
+★ Stars: 3523
 
 [Open repository](https://github.com/Azure/MachineLearningNotebooks)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-11 | 3522 | 2291 | 
+| 2022-12-11 | 3523 | 2291 | 
 | 2022-12-10 | 3522 | 2291 | 
 | 2022-12-09 | 3521 | 2290 | 
 | 2022-12-08 | 3520 | 2290 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-14 | 3503 | 2274 | 
 | 2022-11-13 | 3503 | 2274 | 
 | 2022-11-12 | 3503 | 2275 | 
-| 2022-11-11 | 3502 | 2275 | 
 

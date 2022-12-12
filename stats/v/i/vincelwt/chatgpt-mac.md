@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 11
 
-☋ Forks: 97
+☋ Forks: 99
 
-★ Stars: 1925
+★ Stars: 1960
 
 [Open repository](https://github.com/vincelwt/chatgpt-mac)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-11 | 1925 | 97 | 
+| 2022-12-11 | 1960 | 99 | 
 | 2022-12-10 | 1903 | 94 | 
 | 2022-12-09 | 1651 | 84 | 
 | 2022-12-08 | 1365 | 65 | 

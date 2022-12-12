@@ -1,6 +1,6 @@
 # timbze/upptime-sword-repos - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 3 | - | 
 | 2022-12-10 | 3 | - | 
 | 2022-12-09 | 3 | - | 
 | 2022-12-08 | 3 | - | 

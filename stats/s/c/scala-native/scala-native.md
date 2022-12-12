@@ -1,6 +1,6 @@
 # scala-native/scala-native - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 324
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 4248 | 324 | 
 | 2022-12-09 | 4248 | 324 | 
 | 2022-12-08 | 4248 | 323 | 
 | 2022-12-07 | 4247 | 322 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 4228 | 322 | 
 | 2022-11-13 | 4228 | 322 | 
 | 2022-11-12 | 4229 | 322 | 
-| 2022-11-11 | 4227 | 321 | 
 

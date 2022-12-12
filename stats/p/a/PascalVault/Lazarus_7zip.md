@@ -1,6 +1,6 @@
 # PascalVault/Lazarus_7zip - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 10 | 2 | 
 | 2022-12-09 | 10 | 2 | 
 | 2022-12-08 | 10 | 2 | 
 | 2022-12-07 | 10 | 2 | 

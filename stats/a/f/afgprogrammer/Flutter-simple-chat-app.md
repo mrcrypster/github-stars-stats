@@ -1,6 +1,6 @@
 # afgprogrammer/Flutter-simple-chat-app - stars & forks statistics
 
-Stats updated on Dec 2022, 09
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 60 | 17 | 
 | 2022-12-09 | 60 | 17 | 
 | 2022-12-08 | 60 | 17 | 
 | 2022-12-07 | 60 | 17 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 09
 | 2022-11-14 | 54 | 10 | 
 | 2022-11-13 | 54 | 9 | 
 | 2022-11-12 | 54 | 9 | 
-| 2022-11-11 | 54 | 9 | 
 

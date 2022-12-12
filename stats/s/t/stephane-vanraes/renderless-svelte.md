@@ -1,10 +1,10 @@
 # stephane-vanraes/renderless-svelte - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 11
 
-★ Stars: 267
+★ Stars: 268
 
 [Open repository](https://github.com/stephane-vanraes/renderless-svelte)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 268 | 11 | 
 | 2022-12-10 | 267 | 11 | 
 | 2022-12-09 | 267 | 11 | 
 | 2022-12-08 | 267 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 266 | 11 | 
 | 2022-11-13 | 266 | 11 | 
 | 2022-11-12 | 266 | 11 | 
-| 2022-11-11 | 266 | 11 | 
 

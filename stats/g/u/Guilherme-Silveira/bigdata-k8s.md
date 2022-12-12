@@ -1,6 +1,6 @@
 # Guilherme-Silveira/bigdata-k8s - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 50 | 15 | 
 | 2022-12-10 | 50 | 15 | 
 | 2022-12-08 | 49 | 15 | 
 | 2022-12-07 | 49 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 49 | 15 | 
 | 2022-11-14 | 49 | 15 | 
 | 2022-11-13 | 49 | 15 | 
-| 2022-11-11 | 49 | 15 | 
 

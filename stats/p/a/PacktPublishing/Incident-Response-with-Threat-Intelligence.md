@@ -1,6 +1,6 @@
 # PacktPublishing/Incident-Response-with-Threat-Intelligence - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 35 | 12 | 
 | 2022-12-10 | 35 | 12 | 
 | 2022-12-09 | 35 | 12 | 
 | 2022-12-07 | 33 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 32 | 9 | 
 | 2022-11-14 | 32 | 9 | 
 | 2022-11-13 | 32 | 9 | 
-| 2022-11-12 | 32 | 8 | 
 

@@ -1,10 +1,10 @@
 # Modern-CMake-CN/Modern-CMake-zh_CN - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 29
 
-★ Stars: 162
+★ Stars: 163
 
 [Open repository](https://github.com/Modern-CMake-CN/Modern-CMake-zh_CN)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 163 | 29 | 
 | 2022-12-10 | 162 | 29 | 
 | 2022-12-09 | 162 | 29 | 
 | 2022-12-08 | 161 | 29 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 142 | 27 | 
 | 2022-11-13 | 142 | 26 | 
 | 2022-11-12 | 142 | 26 | 
-| 2022-11-11 | 142 | 26 | 
 

@@ -1,6 +1,6 @@
 # danielbeach/dataEngineeringTemplate - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 65 | 18 | 
 | 2022-12-10 | 65 | 18 | 
 | 2022-12-09 | 65 | 18 | 
 | 2022-12-08 | 65 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 65 | 17 | 
 | 2022-11-13 | 65 | 17 | 
 | 2022-11-12 | 65 | 17 | 
-| 2022-11-11 | 65 | 17 | 
 

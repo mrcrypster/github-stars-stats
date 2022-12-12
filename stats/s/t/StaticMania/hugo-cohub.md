@@ -1,10 +1,10 @@
 # StaticMania/hugo-cohub - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 35
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/StaticMania/hugo-cohub)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 35 | 35 | 
 | 2022-12-10 | 34 | 35 | 
 | 2022-12-09 | 34 | 35 | 
 | 2022-12-08 | 33 | 35 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 30 | 34 | 
 | 2022-11-13 | 29 | 34 | 
 | 2022-11-12 | 28 | 35 | 
-| 2022-11-11 | 28 | 35 | 
 

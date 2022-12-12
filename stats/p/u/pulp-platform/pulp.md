@@ -1,10 +1,10 @@
 # pulp-platform/pulp - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 88
 
-★ Stars: 285
+★ Stars: 286
 
 [Open repository](https://github.com/pulp-platform/pulp)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 286 | 88 | 
 | 2022-12-10 | 285 | 88 | 
 | 2022-12-09 | 285 | 88 | 
 | 2022-12-08 | 285 | 88 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 278 | 85 | 
 | 2022-11-13 | 278 | 85 | 
 | 2022-11-12 | 278 | 85 | 
-| 2022-11-11 | 277 | 85 | 
 

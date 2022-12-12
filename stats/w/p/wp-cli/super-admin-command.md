@@ -1,6 +1,6 @@
 # wp-cli/super-admin-command - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 7 | 13 | 
 | 2022-12-10 | 7 | 13 | 
 | 2022-12-09 | 7 | 13 | 
 | 2022-12-07 | 7 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 7 | 13 | 
 | 2022-11-13 | 7 | 13 | 
 | 2022-11-12 | 7 | 13 | 
-| 2022-11-11 | 7 | 13 | 
 

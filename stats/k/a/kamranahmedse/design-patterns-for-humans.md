@@ -1,6 +1,6 @@
 # kamranahmedse/design-patterns-for-humans - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 4457
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 35569 | 4457 | 
 | 2022-12-11 | 35569 | 4457 | 
 | 2022-12-09 | 35564 | 4457 | 
 | 2022-12-08 | 35556 | 4457 | 

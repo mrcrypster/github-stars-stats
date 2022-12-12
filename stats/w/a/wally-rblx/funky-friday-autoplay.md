@@ -1,10 +1,10 @@
 # wally-rblx/funky-friday-autoplay - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 11
 
 ☋ Forks: 96
 
-★ Stars: 21
+★ Stars: 23
 
 [Open repository](https://github.com/wally-rblx/funky-friday-autoplay)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-11 | 23 | 96 | 
 | 2022-12-10 | 21 | 96 | 
 | 2022-12-09 | 21 | 96 | 
 | 2022-12-08 | 21 | 96 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-14 | 21 | 93 | 
 | 2022-11-13 | 21 | 93 | 
 | 2022-11-12 | 21 | 93 | 
-| 2022-11-11 | 21 | 93 | 
 
