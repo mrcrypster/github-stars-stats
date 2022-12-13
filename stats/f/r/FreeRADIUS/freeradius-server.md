@@ -1,6 +1,6 @@
 # FreeRADIUS/freeradius-server - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 980
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 1750 | 980 | 
 | 2022-12-10 | 1750 | 980 | 
 | 2022-12-09 | 1750 | 979 | 
 | 2022-12-08 | 1749 | 978 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 1733 | 977 | 
 | 2022-11-14 | 1733 | 977 | 
 | 2022-11-13 | 1731 | 977 | 
-| 2022-11-12 | 1730 | 978 | 
 

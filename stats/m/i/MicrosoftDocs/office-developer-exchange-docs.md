@@ -1,6 +1,6 @@
 # MicrosoftDocs/office-developer-exchange-docs - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 95
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 26 | 95 | 
 | 2022-12-10 | 26 | 95 | 
 | 2022-12-09 | 26 | 95 | 
 | 2022-12-08 | 25 | 95 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 24 | 96 | 
 | 2022-11-14 | 24 | 96 | 
 | 2022-11-13 | 24 | 95 | 
-| 2022-11-12 | 24 | 95 | 
 

@@ -1,10 +1,10 @@
 # AprilRobotics/apriltag - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 394
 
-★ Stars: 964
+★ Stars: 965
 
 [Open repository](https://github.com/AprilRobotics/apriltag)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 965 | 394 | 
 | 2022-12-11 | 964 | 394 | 
 | 2022-12-10 | 964 | 393 | 
 | 2022-12-09 | 962 | 393 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 948 | 384 | 
 | 2022-11-14 | 948 | 384 | 
 | 2022-11-13 | 947 | 384 | 
-| 2022-11-12 | 947 | 383 | 
 

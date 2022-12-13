@@ -1,6 +1,6 @@
 # zelon88/HRConvert2 - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 379 | 25 | 
 | 2022-12-11 | 379 | 25 | 
 | 2022-12-10 | 378 | 25 | 
 | 2022-12-08 | 378 | 25 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 366 | 23 | 
 | 2022-11-14 | 365 | 23 | 
 | 2022-11-13 | 365 | 23 | 
-| 2022-11-12 | 365 | 23 | 
 

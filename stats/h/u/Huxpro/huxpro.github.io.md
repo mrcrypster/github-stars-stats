@@ -1,10 +1,10 @@
 # Huxpro/huxpro.github.io - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
-☋ Forks: 4281
+☋ Forks: 4280
 
-★ Stars: 6393
+★ Stars: 6396
 
 [Open repository](https://github.com/Huxpro/huxpro.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 6396 | 4280 | 
 | 2022-12-11 | 6393 | 4281 | 
 | 2022-12-10 | 6393 | 4280 | 
 | 2022-12-08 | 6392 | 4282 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 6364 | 4257 | 
 | 2022-11-14 | 6362 | 4257 | 
 | 2022-11-13 | 6360 | 4257 | 
-| 2022-11-12 | 6359 | 4257 | 
 

@@ -1,10 +1,10 @@
 # ruesandora/sei-atlantic-1 - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
-☋ Forks: 234
+☋ Forks: 236
 
-★ Stars: 95
+★ Stars: 96
 
 [Open repository](https://github.com/ruesandora/sei-atlantic-1)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 96 | 236 | 
 | 2022-12-10 | 95 | 234 | 
 | 2022-12-09 | 95 | 233 | 
 | 2022-12-08 | 95 | 232 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 96 | 229 | 
 | 2022-11-14 | 96 | 229 | 
 | 2022-11-13 | 96 | 229 | 
-| 2022-11-12 | 96 | 229 | 
 

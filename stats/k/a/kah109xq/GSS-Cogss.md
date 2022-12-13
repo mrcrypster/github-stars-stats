@@ -1,6 +1,6 @@
 # kah109xq/GSS-Cogss - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 53 | 23 | 
 | 2022-12-10 | 53 | 23 | 
 | 2022-12-09 | 53 | 23 | 
 | 2022-12-08 | 53 | 23 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-16 | 53 | 23 | 
 | 2022-11-14 | 53 | 23 | 
 | 2022-11-13 | 53 | 23 | 
-| 2022-11-12 | 53 | 23 | 
 

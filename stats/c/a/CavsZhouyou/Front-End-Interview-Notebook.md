@@ -1,8 +1,8 @@
 # CavsZhouyou/Front-End-Interview-Notebook - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
-☋ Forks: 1435
+☋ Forks: 1436
 
 ★ Stars: 6110
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 6110 | 1436 | 
 | 2022-12-11 | 6110 | 1435 | 
 | 2022-12-10 | 6107 | 1435 | 
 | 2022-12-09 | 6102 | 1435 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 6021 | 1426 | 
 | 2022-11-15 | 6019 | 1426 | 
 | 2022-11-14 | 6013 | 1425 | 
-| 2022-11-13 | 6007 | 1425 | 
 

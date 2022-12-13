@@ -1,10 +1,10 @@
 # kamranahmedse/roadmap.sh - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 346
 
-★ Stars: 2021
+★ Stars: 2024
 
 [Open repository](https://github.com/kamranahmedse/roadmap.sh)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 2024 | 346 | 
 | 2022-12-11 | 2021 | 346 | 
 | 2022-12-10 | 2021 | 346 | 
 | 2022-12-09 | 2020 | 346 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 1988 | 339 | 
 | 2022-11-15 | 1988 | 339 | 
 | 2022-11-14 | 1986 | 338 | 
-| 2022-11-13 | 1984 | 336 | 
 

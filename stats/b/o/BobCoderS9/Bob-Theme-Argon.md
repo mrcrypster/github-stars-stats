@@ -1,6 +1,6 @@
 # BobCoderS9/Bob-Theme-Argon - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 77
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 191 | 77 | 
 | 2022-12-10 | 191 | 77 | 
 | 2022-12-09 | 191 | 77 | 
 | 2022-12-08 | 191 | 77 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 184 | 75 | 
 | 2022-11-14 | 184 | 75 | 
 | 2022-11-13 | 184 | 75 | 
-| 2022-11-12 | 184 | 75 | 
 

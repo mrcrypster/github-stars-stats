@@ -1,10 +1,10 @@
 # insidegui/VirtualBuddy - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 70
 
-★ Stars: 3170
+★ Stars: 3171
 
 [Open repository](https://github.com/insidegui/VirtualBuddy)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 3171 | 70 | 
 | 2022-12-11 | 3170 | 70 | 
 | 2022-12-09 | 3169 | 70 | 
 | 2022-12-08 | 3167 | 70 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 3116 | 69 | 
 | 2022-11-14 | 3116 | 69 | 
 | 2022-11-13 | 3115 | 69 | 
-| 2022-11-12 | 3114 | 69 | 
 

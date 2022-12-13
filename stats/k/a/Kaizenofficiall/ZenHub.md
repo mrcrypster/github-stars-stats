@@ -1,10 +1,10 @@
 # Kaizenofficiall/ZenHub - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 9
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/Kaizenofficiall/ZenHub)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 4 | 9 | 
 | 2022-12-10 | 3 | 9 | 
 | 2022-12-09 | 2 | 8 | 
 | 2022-12-08 | 2 | 8 | 

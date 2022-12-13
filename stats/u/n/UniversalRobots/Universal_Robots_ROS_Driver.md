@@ -1,10 +1,10 @@
 # UniversalRobots/Universal_Robots_ROS_Driver - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 336
 
-★ Stars: 521
+★ Stars: 522
 
 [Open repository](https://github.com/UniversalRobots/Universal_Robots_ROS_Driver)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 522 | 336 | 
 | 2022-12-11 | 521 | 336 | 
 | 2022-12-10 | 521 | 336 | 
 | 2022-12-09 | 521 | 336 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 514 | 334 | 
 | 2022-11-14 | 513 | 333 | 
 | 2022-11-13 | 513 | 333 | 
-| 2022-11-12 | 513 | 333 | 
 

@@ -1,6 +1,6 @@
 # bitstadium/CrashProbe - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 139 | 49 | 
 | 2022-12-10 | 139 | 49 | 
 | 2022-12-09 | 139 | 49 | 
 | 2022-12-08 | 139 | 49 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 139 | 49 | 
 | 2022-11-14 | 139 | 49 | 
 | 2022-11-13 | 139 | 49 | 
-| 2022-11-12 | 139 | 49 | 
 

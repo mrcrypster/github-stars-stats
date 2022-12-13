@@ -1,10 +1,10 @@
 # anuvyklack/windows.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 7
 
-★ Stars: 289
+★ Stars: 290
 
 [Open repository](https://github.com/anuvyklack/windows.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 290 | 7 | 
 | 2022-12-11 | 289 | 7 | 
 | 2022-12-10 | 289 | 7 | 
 | 2022-12-09 | 288 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 271 | 4 | 
 | 2022-11-14 | 271 | 4 | 
 | 2022-11-13 | 269 | 4 | 
-| 2022-11-12 | 267 | 4 | 
 

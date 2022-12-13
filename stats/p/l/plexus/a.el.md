@@ -1,6 +1,6 @@
 # plexus/a.el - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 82 | 9 | 
 | 2022-12-10 | 82 | 9 | 
 | 2022-12-09 | 82 | 9 | 
 | 2022-12-08 | 82 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 80 | 9 | 
 | 2022-11-14 | 80 | 9 | 
 | 2022-11-13 | 80 | 9 | 
-| 2022-11-12 | 80 | 9 | 
 

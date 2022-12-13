@@ -1,6 +1,6 @@
 # jedisct1/boringssl-wasm - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 38 | - | 
 | 2022-12-11 | 38 | - | 
 | 2022-12-09 | 38 | - | 
 | 2022-12-08 | 38 | - | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 37 | - | 
 | 2022-11-15 | 37 | - | 
 | 2022-11-14 | 37 | - | 
-| 2022-11-13 | 37 | - | 
 

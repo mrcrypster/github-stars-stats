@@ -1,10 +1,10 @@
 # moodymudskipper/unglue - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 3
 
-★ Stars: 139
+★ Stars: 140
 
 [Open repository](https://github.com/moodymudskipper/unglue)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 140 | 3 | 
 | 2022-12-11 | 139 | 3 | 
 | 2022-12-09 | 139 | 3 | 
 | 2022-12-08 | 138 | 3 | 

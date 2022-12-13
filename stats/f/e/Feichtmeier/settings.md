@@ -1,6 +1,6 @@
 # Feichtmeier/settings - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 237 | 48 | 
 | 2022-12-10 | 237 | 48 | 
 | 2022-12-09 | 237 | 48 | 
 | 2022-12-08 | 236 | 48 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 229 | 47 | 
 | 2022-11-14 | 229 | 47 | 
 | 2022-11-13 | 229 | 47 | 
-| 2022-11-12 | 229 | 47 | 
 

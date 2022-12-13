@@ -1,6 +1,6 @@
 # skillcrush/github-repo-gallery - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 383
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 3 | 383 | 
 | 2022-12-10 | 3 | 383 | 
 | 2022-12-09 | 3 | 382 | 
 | 2022-12-08 | 3 | 382 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 3 | 373 | 
 | 2022-11-14 | 3 | 372 | 
 | 2022-11-13 | 3 | 371 | 
-| 2022-11-12 | 3 | 369 | 
 

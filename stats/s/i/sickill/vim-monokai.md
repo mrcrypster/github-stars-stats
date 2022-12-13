@@ -1,10 +1,10 @@
 # sickill/vim-monokai - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 608
 
-★ Stars: 1360
+★ Stars: 1361
 
 [Open repository](https://github.com/sickill/vim-monokai)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 1361 | 608 | 
 | 2022-12-11 | 1360 | 608 | 
 | 2022-12-10 | 1357 | 608 | 
 | 2022-12-09 | 1357 | 608 | 

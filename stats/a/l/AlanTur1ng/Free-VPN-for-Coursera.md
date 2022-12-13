@@ -1,10 +1,10 @@
 # AlanTur1ng/Free-VPN-for-Coursera - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 813
 
-★ Stars: 2610
+★ Stars: 2615
 
 [Open repository](https://github.com/AlanTur1ng/Free-VPN-for-Coursera)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 2615 | 813 | 
 | 2022-12-11 | 2610 | 813 | 
 | 2022-12-09 | 2607 | 813 | 
 | 2022-12-08 | 2604 | 812 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 2580 | 813 | 
 | 2022-11-14 | 2579 | 813 | 
 | 2022-11-13 | 2578 | 813 | 
-| 2022-11-12 | 2577 | 813 | 
 

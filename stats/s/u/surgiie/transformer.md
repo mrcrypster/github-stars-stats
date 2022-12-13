@@ -1,6 +1,6 @@
 # surgiie/transformer - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 112 | 5 | 
 | 2022-12-11 | 112 | 5 | 
 | 2022-12-09 | 111 | 5 | 
 | 2022-12-08 | 110 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 108 | 5 | 
 | 2022-11-15 | 108 | 5 | 
 | 2022-11-13 | 108 | 5 | 
-| 2022-11-12 | 108 | 5 | 
 

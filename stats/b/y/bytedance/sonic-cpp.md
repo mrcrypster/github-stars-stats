@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 12
 
-☋ Forks: 23
+☋ Forks: 25
 
-★ Stars: 287
+★ Stars: 292
 
 [Open repository](https://github.com/bytedance/sonic-cpp)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-12 | 287 | 23 | 
+| 2022-12-12 | 292 | 25 | 
 | 2022-12-11 | 286 | 23 | 
 | 2022-12-10 | 256 | 22 | 
 | 2022-12-09 | 213 | 20 | 

@@ -1,10 +1,10 @@
 # awesome-stable-diffusion/awesome-stable-diffusion - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 38
 
-★ Stars: 732
+★ Stars: 741
 
 [Open repository](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 741 | 38 | 
 | 2022-12-11 | 732 | 38 | 
 | 2022-12-10 | 721 | 38 | 
 | 2022-12-08 | 714 | 38 | 

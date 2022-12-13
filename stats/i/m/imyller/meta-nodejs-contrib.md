@@ -1,6 +1,6 @@
 # imyller/meta-nodejs-contrib - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 12 | 10 | 
 | 2022-12-11 | 12 | 10 | 
 | 2022-12-10 | 12 | 10 | 
 | 2022-12-09 | 12 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 12 | 10 | 
 | 2022-11-14 | 12 | 10 | 
 | 2022-11-13 | 12 | 10 | 
-| 2022-11-12 | 12 | 10 | 
 

@@ -1,10 +1,10 @@
 # invenia/ExprTools.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 8
 
-★ Stars: 70
+★ Stars: 69
 
 [Open repository](https://github.com/invenia/ExprTools.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 69 | 8 | 
 | 2022-12-11 | 70 | 8 | 
 | 2022-12-10 | 70 | 8 | 
 | 2022-12-08 | 70 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 69 | 8 | 
 | 2022-11-15 | 69 | 8 | 
 | 2022-11-14 | 69 | 8 | 
-| 2022-11-12 | 69 | 8 | 
 

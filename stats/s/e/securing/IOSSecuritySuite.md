@@ -1,10 +1,10 @@
 # securing/IOSSecuritySuite - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 186
 
-★ Stars: 1483
+★ Stars: 1485
 
 [Open repository](https://github.com/securing/IOSSecuritySuite)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 1485 | 186 | 
 | 2022-12-11 | 1483 | 186 | 
 | 2022-12-10 | 1481 | 186 | 
 | 2022-12-09 | 1480 | 186 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 1461 | 183 | 
 | 2022-11-14 | 1461 | 183 | 
 | 2022-11-13 | 1461 | 182 | 
-| 2022-11-12 | 1461 | 182 | 
 

@@ -1,10 +1,10 @@
 # adamian98/pulse - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
-☋ Forks: 1407
+☋ Forks: 1406
 
-★ Stars: 6991
+★ Stars: 6998
 
 [Open repository](https://github.com/adamian98/pulse)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 6998 | 1406 | 
 | 2022-12-11 | 6991 | 1407 | 
 | 2022-12-10 | 6988 | 1407 | 
 | 2022-12-09 | 6982 | 1407 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 6713 | 1367 | 
 | 2022-11-14 | 6711 | 1367 | 
 | 2022-11-13 | 6709 | 1365 | 
-| 2022-11-12 | 6708 | 1365 | 
 

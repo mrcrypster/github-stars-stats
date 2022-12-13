@@ -1,10 +1,10 @@
 # rumeysakdogan/DevOps_Workshop - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
-☋ Forks: 22
+☋ Forks: 26
 
-★ Stars: 4
+★ Stars: 6
 
 [Open repository](https://github.com/rumeysakdogan/DevOps_Workshop)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 6 | 26 | 
 | 2022-12-11 | 4 | 22 | 
 | 2022-12-10 | 3 | 21 | 
 | 2022-12-09 | 2 | 18 | 

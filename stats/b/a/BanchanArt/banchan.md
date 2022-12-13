@@ -1,6 +1,6 @@
 # BanchanArt/banchan - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 108 | 24 | 
 | 2022-12-11 | 108 | 24 | 
 | 2022-12-10 | 106 | 24 | 
 | 2022-12-08 | 106 | 24 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 104 | 24 | 
 | 2022-11-15 | 104 | 24 | 
 | 2022-11-14 | 104 | 24 | 
-| 2022-11-12 | 104 | 24 | 
 

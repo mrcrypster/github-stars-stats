@@ -1,6 +1,6 @@
 # xditya/ChannelActionsBot - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 93
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 53 | 93 | 
 | 2022-12-11 | 53 | 93 | 
 | 2022-12-10 | 53 | 93 | 
 | 2022-12-09 | 53 | 93 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 50 | 87 | 
 | 2022-11-14 | 50 | 87 | 
 | 2022-11-13 | 49 | 86 | 
-| 2022-11-12 | 48 | 85 | 
 

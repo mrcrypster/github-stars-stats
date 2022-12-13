@@ -1,10 +1,10 @@
 # TelegramMessenger/Telegram-iOS - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
-☋ Forks: 1116
+☋ Forks: 1120
 
-★ Stars: 4056
+★ Stars: 4062
 
 [Open repository](https://github.com/TelegramMessenger/Telegram-iOS)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 4062 | 1120 | 
 | 2022-12-10 | 4056 | 1116 | 
 | 2022-12-09 | 4056 | 1117 | 
 | 2022-12-08 | 4053 | 1117 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 3998 | 1086 | 
 | 2022-11-14 | 3994 | 1085 | 
 | 2022-11-13 | 3990 | 1084 | 
-| 2022-11-12 | 3987 | 1084 | 
 

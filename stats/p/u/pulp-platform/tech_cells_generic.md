@@ -1,10 +1,10 @@
 # pulp-platform/tech_cells_generic - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 22
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/pulp-platform/tech_cells_generic)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 23 | 22 | 
 | 2022-12-11 | 22 | 22 | 
 | 2022-12-10 | 22 | 22 | 
 | 2022-12-09 | 22 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 19 | 21 | 
 | 2022-11-14 | 19 | 21 | 
 | 2022-11-13 | 19 | 21 | 
-| 2022-11-12 | 19 | 21 | 
 

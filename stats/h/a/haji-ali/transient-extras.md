@@ -1,6 +1,6 @@
 # haji-ali/transient-extras - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 27 | 3 | 
 | 2022-12-11 | 27 | 3 | 
 | 2022-12-10 | 27 | 3 | 
 | 2022-12-08 | 27 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 26 | 3 | 
 | 2022-11-14 | 26 | 3 | 
 | 2022-11-13 | 26 | 3 | 
-| 2022-11-12 | 26 | 3 | 
 

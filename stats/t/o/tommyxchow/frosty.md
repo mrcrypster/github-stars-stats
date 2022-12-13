@@ -1,10 +1,10 @@
 # tommyxchow/frosty - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 15
 
-★ Stars: 239
+★ Stars: 240
 
 [Open repository](https://github.com/tommyxchow/frosty)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 240 | 15 | 
 | 2022-12-11 | 239 | 15 | 
 | 2022-12-10 | 237 | 15 | 
 | 2022-12-09 | 237 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 230 | 16 | 
 | 2022-11-14 | 230 | 16 | 
 | 2022-11-13 | 230 | 16 | 
-| 2022-11-12 | 232 | 16 | 
 

@@ -1,6 +1,6 @@
 # antoinemadec/FixCursorHold.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 264 | 6 | 
 | 2022-12-11 | 264 | 6 | 
 | 2022-12-10 | 264 | 6 | 
 | 2022-12-09 | 264 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 265 | 6 | 
 | 2022-11-15 | 265 | 6 | 
 | 2022-11-14 | 265 | 6 | 
-| 2022-11-12 | 265 | 6 | 
 

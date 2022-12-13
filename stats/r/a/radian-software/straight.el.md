@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 12
 
 ☋ Forks: 142
 
-★ Stars: 2283
+★ Stars: 2284
 
 [Open repository](https://github.com/radian-software/straight.el)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-12 | 2283 | 142 | 
+| 2022-12-12 | 2284 | 142 | 
 | 2022-12-11 | 2282 | 142 | 
 | 2022-12-10 | 2282 | 142 | 
 | 2022-12-09 | 2281 | 142 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-15 | 2261 | 142 | 
 | 2022-11-14 | 2257 | 142 | 
 | 2022-11-13 | 2256 | 142 | 
-| 2022-11-12 | 2256 | 142 | 
 

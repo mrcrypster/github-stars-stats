@@ -1,6 +1,6 @@
 # Dump-GUY/Get-PDInvokeImports - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 45 | 5 | 
 | 2022-12-11 | 45 | 5 | 
 | 2022-12-10 | 45 | 5 | 
 | 2022-12-09 | 45 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 45 | 5 | 
 | 2022-11-14 | 45 | 5 | 
 | 2022-11-13 | 45 | 5 | 
-| 2022-11-12 | 45 | 5 | 
 

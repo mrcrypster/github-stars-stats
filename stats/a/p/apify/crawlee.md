@@ -1,10 +1,10 @@
 # apify/crawlee - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
-☋ Forks: 327
+☋ Forks: 328
 
-★ Stars: 7229
+★ Stars: 7231
 
 [Open repository](https://github.com/apify/crawlee)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 7231 | 328 | 
 | 2022-12-11 | 7229 | 327 | 
 | 2022-12-09 | 7223 | 327 | 
 | 2022-12-08 | 7213 | 327 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 7084 | 326 | 
 | 2022-11-15 | 7078 | 326 | 
 | 2022-11-14 | 7075 | 326 | 
-| 2022-11-12 | 7070 | 325 | 
 

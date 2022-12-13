@@ -1,6 +1,6 @@
 # openxpki/openxpki - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 94
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 424 | 94 | 
 | 2022-12-11 | 424 | 94 | 
 | 2022-12-10 | 423 | 94 | 
 | 2022-12-09 | 423 | 94 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 416 | 94 | 
 | 2022-11-15 | 416 | 94 | 
 | 2022-11-14 | 416 | 94 | 
-| 2022-11-12 | 416 | 94 | 
 

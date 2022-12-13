@@ -1,6 +1,6 @@
 # ivarref/gen-fn - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 11 | - | 
 | 2022-12-11 | 11 | - | 
 | 2022-12-09 | 11 | - | 
 | 2022-12-08 | 11 | - | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 11 | - | 
 | 2022-11-14 | 11 | - | 
 | 2022-11-13 | 11 | - | 
-| 2022-11-12 | 11 | - | 
 

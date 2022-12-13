@@ -1,10 +1,10 @@
 # rstudio-conf-2022/ggplot2-graphic-design - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 47
 
-★ Stars: 105
+★ Stars: 106
 
 [Open repository](https://github.com/rstudio-conf-2022/ggplot2-graphic-design)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 106 | 47 | 
 | 2022-12-11 | 105 | 47 | 
 | 2022-12-10 | 105 | 47 | 
 | 2022-12-08 | 105 | 47 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 103 | 45 | 
 | 2022-11-15 | 103 | 45 | 
 | 2022-11-14 | 103 | 45 | 
-| 2022-11-13 | 103 | 45 | 
 

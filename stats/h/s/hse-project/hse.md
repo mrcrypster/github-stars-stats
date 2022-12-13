@@ -1,10 +1,10 @@
 # hse-project/hse - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 58
 
-★ Stars: 653
+★ Stars: 654
 
 [Open repository](https://github.com/hse-project/hse)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 654 | 58 | 
 | 2022-12-11 | 653 | 58 | 
 | 2022-12-10 | 652 | 58 | 
 | 2022-12-08 | 651 | 58 | 

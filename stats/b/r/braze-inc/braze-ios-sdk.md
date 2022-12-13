@@ -1,6 +1,6 @@
 # braze-inc/braze-ios-sdk - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 8 | 5 | 
 | 2022-12-11 | 8 | 5 | 
 | 2022-12-10 | 8 | 5 | 
 | 2022-12-09 | 8 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 8 | 5 | 
 | 2022-11-14 | 8 | 5 | 
 | 2022-11-13 | 8 | 5 | 
-| 2022-11-12 | 8 | 5 | 
 

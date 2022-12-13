@@ -1,6 +1,6 @@
 # bigby-the-wolf/WebApiTest - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 43 | 3 | 
 | 2022-12-11 | 43 | 3 | 
 | 2022-12-10 | 43 | 3 | 
 | 2022-12-09 | 43 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 43 | 3 | 
 | 2022-11-14 | 43 | 3 | 
 | 2022-11-13 | 43 | 3 | 
-| 2022-11-12 | 43 | 3 | 
 

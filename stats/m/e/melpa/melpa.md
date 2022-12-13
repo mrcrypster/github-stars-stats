@@ -1,8 +1,8 @@
 # melpa/melpa - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 13
 
-☋ Forks: 2224
+☋ Forks: 2226
 
 ★ Stars: 2486
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 2486 | 2226 | 
+| 2022-12-12 | 2486 | 2225 | 
 | 2022-12-10 | 2486 | 2224 | 
 | 2022-12-09 | 2483 | 2224 | 
 | 2022-12-08 | 2482 | 2223 | 
@@ -41,5 +43,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 2474 | 2211 | 
 | 2022-11-14 | 2474 | 2211 | 
 | 2022-11-13 | 2474 | 2211 | 
-| 2022-11-12 | 2473 | 2212 | 
 

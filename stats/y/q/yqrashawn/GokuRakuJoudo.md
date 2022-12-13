@@ -1,10 +1,10 @@
 # yqrashawn/GokuRakuJoudo - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 109
 
-★ Stars: 804
+★ Stars: 803
 
 [Open repository](https://github.com/yqrashawn/GokuRakuJoudo)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 803 | 109 | 
 | 2022-12-11 | 804 | 109 | 
 | 2022-12-09 | 802 | 108 | 
 | 2022-12-08 | 802 | 108 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 785 | 109 | 
 | 2022-11-15 | 784 | 109 | 
 | 2022-11-14 | 783 | 109 | 
-| 2022-11-13 | 782 | 109 | 
 

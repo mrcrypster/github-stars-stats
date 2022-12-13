@@ -1,6 +1,6 @@
 # xioTechnologies/Oscillatory-Motion-Tracking-With-x-IMU - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 148
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 302 | 148 | 
 | 2022-12-11 | 302 | 148 | 
 | 2022-12-10 | 302 | 148 | 
 | 2022-12-09 | 302 | 148 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 297 | 147 | 
 | 2022-11-14 | 296 | 147 | 
 | 2022-11-13 | 296 | 147 | 
-| 2022-11-12 | 296 | 147 | 
 

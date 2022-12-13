@@ -1,6 +1,6 @@
 # voxpupuli/puppet-zabbix - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 221
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 79 | 221 | 
 | 2022-12-10 | 79 | 221 | 
 | 2022-12-09 | 79 | 221 | 
 | 2022-12-08 | 79 | 221 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-16 | 78 | 222 | 
 | 2022-11-14 | 78 | 222 | 
 | 2022-11-13 | 78 | 222 | 
-| 2022-11-12 | 78 | 222 | 
 

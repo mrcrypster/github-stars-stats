@@ -1,6 +1,6 @@
 # diffplug/spotless - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 341
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 3022 | 341 | 
 | 2022-12-11 | 3022 | 341 | 
 | 2022-12-10 | 3022 | 341 | 
 | 2022-12-08 | 3019 | 340 | 

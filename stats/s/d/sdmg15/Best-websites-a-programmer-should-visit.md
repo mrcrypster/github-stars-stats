@@ -1,10 +1,10 @@
 # sdmg15/Best-websites-a-programmer-should-visit - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
-☋ Forks: 6625
+☋ Forks: 6630
 
-★ Stars: 49807
+★ Stars: 49825
 
 [Open repository](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 49825 | 6630 | 
 | 2022-12-11 | 49807 | 6625 | 
 | 2022-12-10 | 49802 | 6624 | 
 | 2022-12-09 | 49779 | 6624 | 

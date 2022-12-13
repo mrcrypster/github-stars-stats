@@ -1,6 +1,6 @@
 # chipsalliance/cde - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 24 | 16 | 
 | 2022-12-11 | 24 | 16 | 
 | 2022-12-10 | 24 | 16 | 
 | 2022-12-08 | 24 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 22 | 14 | 
 | 2022-11-14 | 22 | 14 | 
 | 2022-11-13 | 22 | 14 | 
-| 2022-11-12 | 22 | 14 | 
 

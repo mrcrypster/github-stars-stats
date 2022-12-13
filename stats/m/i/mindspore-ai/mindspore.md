@@ -1,10 +1,10 @@
 # mindspore-ai/mindspore - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
-☋ Forks: 603
+☋ Forks: 604
 
-★ Stars: 3244
+★ Stars: 3246
 
 [Open repository](https://github.com/mindspore-ai/mindspore)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 3246 | 604 | 
 | 2022-12-11 | 3244 | 603 | 
 | 2022-12-10 | 3244 | 603 | 
 | 2022-12-09 | 3244 | 603 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 3209 | 599 | 
 | 2022-11-14 | 3207 | 599 | 
 | 2022-11-13 | 3205 | 599 | 
-| 2022-11-12 | 3205 | 599 | 
 

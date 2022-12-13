@@ -1,10 +1,10 @@
 # Accenture/protobuf-finder - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 21
 
-★ Stars: 186
+★ Stars: 187
 
 [Open repository](https://github.com/Accenture/protobuf-finder)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 187 | 21 | 
 | 2022-12-10 | 186 | 21 | 
 | 2022-12-09 | 185 | 21 | 
 | 2022-12-08 | 185 | 21 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 183 | 21 | 
 | 2022-11-14 | 182 | 21 | 
 | 2022-11-13 | 181 | 21 | 
-| 2022-11-12 | 181 | 21 | 
 

@@ -1,10 +1,10 @@
 # scalameta/nvim-metals - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 60
 
-★ Stars: 263
+★ Stars: 264
 
 [Open repository](https://github.com/scalameta/nvim-metals)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 264 | 60 | 
 | 2022-12-11 | 263 | 60 | 
 | 2022-12-10 | 263 | 60 | 
 | 2022-12-08 | 262 | 60 | 

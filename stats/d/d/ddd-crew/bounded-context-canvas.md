@@ -1,10 +1,10 @@
 # ddd-crew/bounded-context-canvas - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
-☋ Forks: 126
+☋ Forks: 127
 
-★ Stars: 1276
+★ Stars: 1280
 
 [Open repository](https://github.com/ddd-crew/bounded-context-canvas)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 1280 | 127 | 
 | 2022-12-11 | 1276 | 126 | 
 | 2022-12-10 | 1274 | 126 | 
 | 2022-12-09 | 1271 | 126 | 

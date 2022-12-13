@@ -1,6 +1,6 @@
 # js-emacs/js2-refactor.el - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 369 | 47 | 
 | 2022-12-11 | 369 | 47 | 
 | 2022-12-10 | 369 | 47 | 
 | 2022-12-09 | 369 | 47 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 369 | 47 | 
 | 2022-11-14 | 369 | 47 | 
 | 2022-11-13 | 369 | 47 | 
-| 2022-11-12 | 369 | 47 | 
 

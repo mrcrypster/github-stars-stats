@@ -1,8 +1,8 @@
 # robertmartin8/PyPortfolioOpt - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
-☋ Forks: 770
+☋ Forks: 771
 
 ★ Stars: 3150
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 3150 | 771 | 
 | 2022-12-11 | 3150 | 770 | 
 | 2022-12-10 | 3148 | 770 | 
 | 2022-12-09 | 3145 | 769 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 3113 | 759 | 
 | 2022-11-14 | 3112 | 758 | 
 | 2022-11-13 | 3112 | 758 | 
-| 2022-11-12 | 3112 | 757 | 
 

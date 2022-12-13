@@ -1,10 +1,10 @@
 # trimstray/the-book-of-secret-knowledge - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
-☋ Forks: 6692
+☋ Forks: 6697
 
-★ Stars: 84469
+★ Stars: 84564
 
 [Open repository](https://github.com/trimstray/the-book-of-secret-knowledge)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 84564 | 6697 | 
 | 2022-12-11 | 84469 | 6692 | 
 | 2022-12-10 | 84364 | 6691 | 
 | 2022-12-09 | 84335 | 6689 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 82448 | 6617 | 
 | 2022-11-14 | 82253 | 6602 | 
 | 2022-11-13 | 82209 | 6599 | 
-| 2022-11-12 | 82160 | 6595 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 12
 
-☋ Forks: 12
+☋ Forks: 14
 
-★ Stars: 69
+★ Stars: 79
 
 [Open repository](https://github.com/DeJhon-Huang/FernNPR)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-12 | 69 | 12 | 
+| 2022-12-12 | 79 | 14 | 
 | 2022-12-11 | 69 | 11 | 
 

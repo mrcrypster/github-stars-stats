@@ -1,10 +1,10 @@
 # ZainRk/SocialMedia-Frontend - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 59
 
-★ Stars: 86
+★ Stars: 87
 
 [Open repository](https://github.com/ZainRk/SocialMedia-Frontend)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 87 | 59 | 
 | 2022-12-11 | 86 | 59 | 
 | 2022-12-09 | 85 | 57 | 
 | 2022-12-08 | 85 | 57 | 

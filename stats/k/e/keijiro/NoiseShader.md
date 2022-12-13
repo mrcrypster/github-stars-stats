@@ -1,6 +1,6 @@
 # keijiro/NoiseShader - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 114
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 911 | 114 | 
 | 2022-12-11 | 911 | 114 | 
 | 2022-12-10 | 909 | 114 | 
 | 2022-12-09 | 909 | 114 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 906 | 113 | 
 | 2022-11-14 | 906 | 113 | 
 | 2022-11-13 | 906 | 113 | 
-| 2022-11-12 | 906 | 113 | 
 

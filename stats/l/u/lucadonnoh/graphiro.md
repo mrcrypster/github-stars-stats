@@ -1,6 +1,6 @@
 # lucadonnoh/graphiro - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 24 | 1 | 
 | 2022-12-10 | 24 | 1 | 
 | 2022-12-09 | 24 | 1 | 
 | 2022-12-08 | 24 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 25 | 1 | 
 | 2022-11-14 | 25 | 1 | 
 | 2022-11-13 | 25 | 1 | 
-| 2022-11-12 | 25 | 1 | 
 

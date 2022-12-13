@@ -1,6 +1,6 @@
 # purescript-contrib/purescript-js-timers - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 6 | 10 | 
 | 2022-12-11 | 6 | 10 | 
 | 2022-12-10 | 6 | 10 | 
 | 2022-12-09 | 6 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 6 | 10 | 
 | 2022-11-14 | 6 | 10 | 
 | 2022-11-13 | 6 | 10 | 
-| 2022-11-12 | 6 | 10 | 
 

@@ -1,6 +1,6 @@
 # PrincetonUniversity/i2mex - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 1
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 3 | 1 | 
+| 2022-12-12 | 3 | 1 | 
 | 2022-12-10 | 3 | 1 | 
 | 2022-12-09 | 3 | 1 | 
 | 2022-12-08 | 3 | 1 | 
@@ -40,5 +42,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 3 | 1 | 
 | 2022-11-14 | 3 | 1 | 
 | 2022-11-13 | 3 | 1 | 
-| 2022-11-12 | 3 | 1 | 
 

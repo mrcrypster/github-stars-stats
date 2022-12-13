@@ -1,10 +1,10 @@
 # FrozenWinters/SSTs - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 0
 
-★ Stars: 13
+★ Stars: 17
 
 [Open repository](https://github.com/FrozenWinters/SSTs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 17 | - | 
 | 2022-12-11 | 13 | - | 
 | 2022-12-10 | 12 | - | 
 | 2022-12-09 | 12 | - | 

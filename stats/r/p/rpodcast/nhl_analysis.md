@@ -1,6 +1,6 @@
 # rpodcast/nhl_analysis - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 14 | 5 | 
 | 2022-12-11 | 14 | 5 | 
 | 2022-12-10 | 14 | 5 | 
 | 2022-12-08 | 14 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 14 | 5 | 
 | 2022-11-14 | 14 | 5 | 
 | 2022-11-13 | 14 | 5 | 
-| 2022-11-12 | 14 | 5 | 
 

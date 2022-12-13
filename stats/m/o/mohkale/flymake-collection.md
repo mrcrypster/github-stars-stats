@@ -1,6 +1,6 @@
 # mohkale/flymake-collection - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 44 | 5 | 
 | 2022-12-11 | 44 | 5 | 
 | 2022-12-10 | 44 | 5 | 
 | 2022-12-08 | 44 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 41 | 5 | 
 | 2022-11-15 | 41 | 5 | 
 | 2022-11-14 | 41 | 5 | 
-| 2022-11-13 | 41 | 5 | 
 

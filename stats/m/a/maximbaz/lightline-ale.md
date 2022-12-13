@@ -1,10 +1,10 @@
 # maximbaz/lightline-ale - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 13
 
-★ Stars: 250
+★ Stars: 249
 
 [Open repository](https://github.com/maximbaz/lightline-ale)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 249 | 13 | 
 | 2022-12-11 | 250 | 13 | 
 | 2022-12-10 | 250 | 13 | 
 | 2022-12-08 | 250 | 13 | 

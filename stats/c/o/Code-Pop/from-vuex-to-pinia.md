@@ -1,8 +1,8 @@
 # Code-Pop/from-vuex-to-pinia - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
-☋ Forks: 30
+☋ Forks: 31
 
 ★ Stars: 19
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 19 | 31 | 
 | 2022-12-11 | 19 | 30 | 
 | 2022-12-09 | 18 | 30 | 
 | 2022-12-08 | 18 | 30 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 16 | 28 | 
 | 2022-11-15 | 16 | 28 | 
 | 2022-11-14 | 16 | 28 | 
-| 2022-11-12 | 16 | 28 | 
 

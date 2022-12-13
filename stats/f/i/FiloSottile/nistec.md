@@ -1,6 +1,6 @@
 # FiloSottile/nistec - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 35 | 4 | 
 | 2022-12-11 | 35 | 4 | 
 | 2022-12-09 | 35 | 4 | 
 | 2022-12-08 | 35 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 33 | 2 | 
 | 2022-11-15 | 33 | 2 | 
 | 2022-11-14 | 33 | 2 | 
-| 2022-11-12 | 33 | 2 | 
 

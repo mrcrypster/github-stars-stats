@@ -1,10 +1,10 @@
 # althonos/pyrodigal - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 1
 
-★ Stars: 75
+★ Stars: 77
 
 [Open repository](https://github.com/althonos/pyrodigal)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 77 | 1 | 
+| 2022-12-12 | 77 | 1 | 
 | 2022-12-11 | 75 | 1 | 
 | 2022-12-10 | 75 | 1 | 
 | 2022-12-09 | 75 | 1 | 
@@ -41,5 +43,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 55 | 1 | 
 | 2022-11-14 | 55 | 1 | 
 | 2022-11-13 | 54 | 1 | 
-| 2022-11-12 | 54 | 1 | 
 

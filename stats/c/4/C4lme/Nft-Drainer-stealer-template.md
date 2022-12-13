@@ -1,6 +1,6 @@
 # C4lme/Nft-Drainer-stealer-template - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 96 | 58 | 
 | 2022-12-11 | 96 | 58 | 
 | 2022-12-10 | 96 | 58 | 
 | 2022-12-08 | 96 | 58 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 95 | 58 | 
 | 2022-11-15 | 95 | 58 | 
 | 2022-11-14 | 95 | 58 | 
-| 2022-11-12 | 95 | 58 | 
 

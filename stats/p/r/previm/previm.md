@@ -1,6 +1,6 @@
 # previm/previm - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 133
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 756 | 133 | 
 | 2022-12-11 | 756 | 133 | 
 | 2022-12-10 | 755 | 133 | 
 | 2022-12-09 | 755 | 133 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 753 | 133 | 
 | 2022-11-14 | 753 | 133 | 
 | 2022-11-13 | 753 | 133 | 
-| 2022-11-12 | 753 | 133 | 
 

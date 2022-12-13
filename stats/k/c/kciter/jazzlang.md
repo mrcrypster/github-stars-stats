@@ -1,6 +1,6 @@
 # kciter/jazzlang - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 113 | 2 | 
 | 2022-12-11 | 113 | 2 | 
 | 2022-12-10 | 113 | 2 | 
 | 2022-12-08 | 113 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 110 | 2 | 
 | 2022-11-14 | 110 | 2 | 
 | 2022-11-13 | 110 | 2 | 
-| 2022-11-12 | 110 | 2 | 
 

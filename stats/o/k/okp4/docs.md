@@ -1,8 +1,8 @@
 # okp4/docs - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
-☋ Forks: 11
+☋ Forks: 13
 
 ★ Stars: 38
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 38 | 13 | 
 | 2022-12-11 | 38 | 11 | 
 | 2022-12-09 | 38 | 11 | 
 | 2022-12-08 | 38 | 11 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 36 | 9 | 
 | 2022-11-14 | 36 | 9 | 
 | 2022-11-13 | 36 | 9 | 
-| 2022-11-12 | 36 | 9 | 
 

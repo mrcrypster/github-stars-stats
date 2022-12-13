@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 12
 
 ☋ Forks: 10
 
-★ Stars: 202
+★ Stars: 203
 
 [Open repository](https://github.com/skeeto/emacs-aio)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-12 | 202 | 10 | 
+| 2022-12-12 | 203 | 10 | 
 | 2022-12-11 | 203 | 10 | 
 | 2022-12-10 | 203 | 10 | 
 | 2022-12-09 | 203 | 10 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-15 | 203 | 10 | 
 | 2022-11-14 | 203 | 10 | 
 | 2022-11-13 | 203 | 10 | 
-| 2022-11-12 | 203 | 10 | 
 

@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 12
 
 ☋ Forks: 457
 
-★ Stars: 3960
+★ Stars: 3961
 
 [Open repository](https://github.com/cloudflare/cloudflared)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-12 | 3960 | 457 | 
+| 2022-12-12 | 3961 | 457 | 
 | 2022-12-11 | 3960 | 457 | 
 | 2022-12-10 | 3954 | 457 | 
 | 2022-12-09 | 3949 | 457 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 3826 | 445 | 
 | 2022-11-15 | 3822 | 445 | 
 | 2022-11-14 | 3818 | 444 | 
-| 2022-11-13 | 3817 | 442 | 
 

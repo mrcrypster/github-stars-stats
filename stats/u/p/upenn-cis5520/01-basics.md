@@ -1,6 +1,6 @@
 # upenn-cis5520/01-basics - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | - | 31 | 
 | 2022-12-11 | - | 31 | 
 | 2022-12-10 | - | 31 | 
 | 2022-12-09 | - | 31 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | - | 31 | 
 | 2022-11-14 | - | 31 | 
 | 2022-11-13 | - | 31 | 
-| 2022-11-12 | - | 31 | 
 

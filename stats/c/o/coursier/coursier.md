@@ -1,10 +1,10 @@
 # coursier/coursier - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 275
 
-★ Stars: 1925
+★ Stars: 1926
 
 [Open repository](https://github.com/coursier/coursier)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 1926 | 275 | 
 | 2022-12-11 | 1925 | 275 | 
 | 2022-12-10 | 1925 | 275 | 
 | 2022-12-09 | 1925 | 275 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 1920 | 273 | 
 | 2022-11-14 | 1920 | 273 | 
 | 2022-11-13 | 1920 | 273 | 
-| 2022-11-12 | 1921 | 273 | 
 

@@ -1,6 +1,6 @@
 # agkozak/zsh-z - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 1320 | 60 | 
 | 2022-12-11 | 1320 | 60 | 
 | 2022-12-10 | 1318 | 60 | 
 | 2022-12-09 | 1316 | 59 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 1284 | 58 | 
 | 2022-11-14 | 1285 | 58 | 
 | 2022-11-13 | 1284 | 58 | 
-| 2022-11-12 | 1282 | 58 | 
 

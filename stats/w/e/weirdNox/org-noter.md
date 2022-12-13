@@ -1,10 +1,10 @@
 # weirdNox/org-noter - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 83
 
-★ Stars: 935
+★ Stars: 936
 
 [Open repository](https://github.com/weirdNox/org-noter)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 936 | 83 | 
 | 2022-12-11 | 935 | 83 | 
 | 2022-12-09 | 935 | 83 | 
 | 2022-12-08 | 935 | 83 | 

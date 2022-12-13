@@ -1,8 +1,8 @@
 # jonatanhallenberg/sakila-rest-api - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
-☋ Forks: 9
+☋ Forks: 10
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | - | 10 | 
 | 2022-12-11 | - | 9 | 
 | 2022-12-09 | - | 9 | 
 | 2022-12-08 | - | 9 | 

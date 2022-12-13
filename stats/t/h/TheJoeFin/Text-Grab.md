@@ -1,10 +1,10 @@
 # TheJoeFin/Text-Grab - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
-☋ Forks: 99
+☋ Forks: 100
 
-★ Stars: 1372
+★ Stars: 1375
 
 [Open repository](https://github.com/TheJoeFin/Text-Grab)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 1375 | 100 | 
 | 2022-12-10 | 1372 | 99 | 
 | 2022-12-09 | 1370 | 99 | 
 | 2022-12-08 | 1367 | 99 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 1279 | 97 | 
 | 2022-11-14 | 1278 | 97 | 
 | 2022-11-13 | 1274 | 97 | 
-| 2022-11-12 | 1274 | 97 | 
 

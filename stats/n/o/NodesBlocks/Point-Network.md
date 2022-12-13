@@ -1,6 +1,6 @@
 # NodesBlocks/Point-Network - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 68 | 30 | 
 | 2022-12-11 | 68 | 30 | 
 | 2022-12-09 | 68 | 30 | 
 | 2022-12-08 | 68 | 30 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 72 | 30 | 
 | 2022-11-14 | 72 | 30 | 
 | 2022-11-13 | 72 | 30 | 
-| 2022-11-12 | 72 | 30 | 
 

@@ -1,10 +1,10 @@
 # londonappbrewery/TinDog-Start - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
-☋ Forks: 1651
+☋ Forks: 1652
 
-★ Stars: 1208
+★ Stars: 1209
 
 [Open repository](https://github.com/londonappbrewery/TinDog-Start)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 1209 | 1652 | 
 | 2022-12-11 | 1208 | 1651 | 
 | 2022-12-10 | 1206 | 1648 | 
 | 2022-12-09 | 1203 | 1646 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 1187 | 1621 | 
 | 2022-11-14 | 1185 | 1619 | 
 | 2022-11-13 | 1184 | 1617 | 
-| 2022-11-12 | 1184 | 1615 | 
 

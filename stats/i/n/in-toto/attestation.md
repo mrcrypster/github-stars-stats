@@ -1,10 +1,10 @@
 # in-toto/attestation - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 22
 
-★ Stars: 86
+★ Stars: 87
 
 [Open repository](https://github.com/in-toto/attestation)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 87 | 22 | 
 | 2022-12-10 | 86 | 22 | 
 | 2022-12-09 | 86 | 22 | 
 | 2022-12-08 | 86 | 22 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-16 | 81 | 22 | 
 | 2022-11-15 | 80 | 22 | 
 | 2022-11-14 | 80 | 22 | 
-| 2022-11-13 | 79 | 22 | 
 

@@ -1,10 +1,10 @@
 # dropzone/dropzone - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
-☋ Forks: 3320
+☋ Forks: 3321
 
-★ Stars: 16996
+★ Stars: 16995
 
 [Open repository](https://github.com/dropzone/dropzone)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 16995 | 3321 | 
 | 2022-12-10 | 16996 | 3320 | 
 | 2022-12-09 | 16994 | 3320 | 
 | 2022-12-08 | 16994 | 3321 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 16961 | 3320 | 
 | 2022-11-14 | 16960 | 3319 | 
 | 2022-11-13 | 16961 | 3319 | 
-| 2022-11-12 | 16961 | 3320 | 
 

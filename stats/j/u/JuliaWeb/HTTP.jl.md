@@ -1,10 +1,10 @@
 # JuliaWeb/HTTP.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 154
 
-★ Stars: 571
+★ Stars: 570
 
 [Open repository](https://github.com/JuliaWeb/HTTP.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 570 | 154 | 
 | 2022-12-11 | 571 | 154 | 
 | 2022-12-10 | 571 | 153 | 
 | 2022-12-09 | 570 | 153 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 565 | 150 | 
 | 2022-11-14 | 565 | 150 | 
 | 2022-11-13 | 565 | 149 | 
-| 2022-11-12 | 565 | 148 | 
 

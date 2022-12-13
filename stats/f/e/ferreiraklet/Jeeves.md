@@ -1,8 +1,8 @@
 # ferreiraklet/Jeeves - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
-☋ Forks: 40
+☋ Forks: 41
 
 ★ Stars: 165
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 165 | 41 | 
 | 2022-12-11 | 165 | 40 | 
 | 2022-12-10 | 165 | 40 | 
 | 2022-12-08 | 165 | 40 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 163 | 38 | 
 | 2022-11-14 | 163 | 38 | 
 | 2022-11-13 | 163 | 38 | 
-| 2022-11-12 | 163 | 38 | 
 

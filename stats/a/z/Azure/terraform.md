@@ -1,10 +1,10 @@
 # Azure/terraform - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
-☋ Forks: 475
+☋ Forks: 476
 
-★ Stars: 350
+★ Stars: 351
 
 [Open repository](https://github.com/Azure/terraform)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 351 | 476 | 
 | 2022-12-11 | 350 | 475 | 
 | 2022-12-10 | 349 | 474 | 
 | 2022-12-09 | 349 | 473 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 336 | 457 | 
 | 2022-11-14 | 336 | 457 | 
 | 2022-11-13 | 335 | 455 | 
-| 2022-11-12 | 335 | 451 | 
 

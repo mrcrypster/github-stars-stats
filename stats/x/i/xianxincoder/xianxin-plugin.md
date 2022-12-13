@@ -1,8 +1,8 @@
 # xianxincoder/xianxin-plugin - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
-☋ Forks: 5
+☋ Forks: 6
 
 ★ Stars: 74
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 74 | 6 | 
 | 2022-12-11 | 74 | 5 | 
 | 2022-12-10 | 74 | 5 | 
 | 2022-12-09 | 74 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 69 | 5 | 
 | 2022-11-14 | 69 | 5 | 
 | 2022-11-13 | 69 | 5 | 
-| 2022-11-12 | 69 | 5 | 
 

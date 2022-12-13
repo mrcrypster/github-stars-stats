@@ -1,6 +1,6 @@
 # thefLink/DeepSleep - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 270 | 44 | 
 | 2022-12-11 | 270 | 44 | 
 | 2022-12-10 | 270 | 44 | 
 | 2022-12-08 | 270 | 44 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 268 | 44 | 
 | 2022-11-15 | 267 | 44 | 
 | 2022-11-13 | 267 | 44 | 
-| 2022-11-12 | 267 | 44 | 
 

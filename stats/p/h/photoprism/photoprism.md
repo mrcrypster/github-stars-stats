@@ -1,10 +1,10 @@
 # photoprism/photoprism - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
-☋ Forks: 1343
+☋ Forks: 1345
 
-★ Stars: 23568
+★ Stars: 23602
 
 [Open repository](https://github.com/photoprism/photoprism)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 23602 | 1345 | 
+| 2022-12-12 | 23599 | 1345 | 
 | 2022-12-11 | 23568 | 1343 | 
 | 2022-12-09 | 23554 | 1343 | 
 | 2022-12-08 | 23539 | 1341 | 
@@ -40,5 +42,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 23242 | 1314 | 
 | 2022-11-14 | 23224 | 1312 | 
 | 2022-11-13 | 23205 | 1310 | 
-| 2022-11-12 | 23194 | 1310 | 
 

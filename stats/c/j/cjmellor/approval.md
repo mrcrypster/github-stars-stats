@@ -1,10 +1,10 @@
 # cjmellor/approval - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 7
 
-★ Stars: 183
+★ Stars: 184
 
 [Open repository](https://github.com/cjmellor/approval)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 184 | 7 | 
 | 2022-12-10 | 183 | 7 | 
 | 2022-12-09 | 183 | 7 | 
 | 2022-12-08 | 182 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 157 | 5 | 
 | 2022-11-14 | 156 | 4 | 
 | 2022-11-13 | 155 | 4 | 
-| 2022-11-12 | 155 | 4 | 
 

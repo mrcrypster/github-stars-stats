@@ -1,6 +1,6 @@
 # mcreel/Econometrics - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 77
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 200 | 77 | 
 | 2022-12-11 | 200 | 77 | 
 | 2022-12-09 | 200 | 77 | 
 | 2022-12-08 | 200 | 77 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 198 | 75 | 
 | 2022-11-15 | 198 | 75 | 
 | 2022-11-13 | 196 | 75 | 
-| 2022-11-12 | 195 | 75 | 
 

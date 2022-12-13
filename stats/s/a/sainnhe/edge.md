@@ -1,6 +1,6 @@
 # sainnhe/edge - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 661 | 47 | 
 | 2022-12-11 | 661 | 47 | 
 | 2022-12-10 | 659 | 47 | 
 | 2022-12-09 | 659 | 47 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 652 | 46 | 
 | 2022-11-14 | 651 | 47 | 
 | 2022-11-13 | 650 | 46 | 
-| 2022-11-12 | 650 | 46 | 
 

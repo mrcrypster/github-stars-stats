@@ -1,8 +1,8 @@
 # ever-co/ever-gauzy - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
-☋ Forks: 269
+☋ Forks: 271
 
 ★ Stars: 939
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 939 | 271 | 
 | 2022-12-11 | 939 | 269 | 
 | 2022-12-10 | 939 | 269 | 
 | 2022-12-08 | 939 | 269 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 911 | 262 | 
 | 2022-11-14 | 910 | 262 | 
 | 2022-11-13 | 909 | 262 | 
-| 2022-11-12 | 908 | 261 | 
 

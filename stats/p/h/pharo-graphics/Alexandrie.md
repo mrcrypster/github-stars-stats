@@ -1,10 +1,10 @@
 # pharo-graphics/Alexandrie - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 0
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/pharo-graphics/Alexandrie)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 4 | - | 
 | 2022-12-11 | 3 | - | 
 | 2022-12-10 | 3 | - | 
 | 2022-12-08 | 3 | - | 

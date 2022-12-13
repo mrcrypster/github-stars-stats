@@ -1,6 +1,6 @@
 # nixel2007/autumn - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 43 | 4 | 
 | 2022-12-11 | 43 | 4 | 
 | 2022-12-10 | 43 | 4 | 
 | 2022-12-09 | 42 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 40 | 4 | 
 | 2022-11-14 | 39 | 4 | 
 | 2022-11-13 | 39 | 4 | 
-| 2022-11-12 | 39 | 4 | 
 

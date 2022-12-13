@@ -1,6 +1,6 @@
 # zonemeen/musicn - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 118
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 1159 | 118 | 
 | 2022-12-11 | 1159 | 118 | 
 | 2022-12-10 | 1159 | 118 | 
 | 2022-12-09 | 1159 | 118 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 1130 | 116 | 
 | 2022-11-14 | 1128 | 115 | 
 | 2022-11-13 | 1127 | 115 | 
-| 2022-11-12 | 1125 | 115 | 
 

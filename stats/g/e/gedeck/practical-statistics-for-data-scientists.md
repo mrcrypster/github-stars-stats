@@ -1,8 +1,8 @@
 # gedeck/practical-statistics-for-data-scientists - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
-☋ Forks: 1213
+☋ Forks: 1214
 
 ★ Stars: 1679
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 1679 | 1214 | 
 | 2022-12-11 | 1679 | 1213 | 
 | 2022-12-10 | 1676 | 1211 | 
 | 2022-12-09 | 1673 | 1210 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 1641 | 1186 | 
 | 2022-11-14 | 1640 | 1183 | 
 | 2022-11-13 | 1638 | 1181 | 
-| 2022-11-12 | 1633 | 1181 | 
 

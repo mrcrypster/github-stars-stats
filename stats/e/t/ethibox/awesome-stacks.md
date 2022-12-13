@@ -1,10 +1,10 @@
 # ethibox/awesome-stacks - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 90
 
-★ Stars: 481
+★ Stars: 483
 
 [Open repository](https://github.com/ethibox/awesome-stacks)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 483 | 90 | 
 | 2022-12-10 | 481 | 90 | 
 | 2022-12-09 | 481 | 90 | 
 | 2022-12-08 | 480 | 90 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 462 | 85 | 
 | 2022-11-14 | 462 | 85 | 
 | 2022-11-13 | 462 | 85 | 
-| 2022-11-12 | 462 | 85 | 
 

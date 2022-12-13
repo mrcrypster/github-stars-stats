@@ -1,10 +1,10 @@
 # rupin/PiZeroMagicMirror - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 4
 
-★ Stars: 70
+★ Stars: 71
 
 [Open repository](https://github.com/rupin/PiZeroMagicMirror)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 71 | 4 | 
 | 2022-12-11 | 70 | 4 | 
 | 2022-12-09 | 70 | 4 | 
 | 2022-12-08 | 70 | 4 | 

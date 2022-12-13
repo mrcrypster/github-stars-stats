@@ -1,6 +1,6 @@
 # AndreaMiotto/PartialSheet - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 160
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 1358 | 160 | 
 | 2022-12-11 | 1358 | 160 | 
 | 2022-12-10 | 1358 | 160 | 
 | 2022-12-09 | 1358 | 160 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 1353 | 162 | 
 | 2022-11-14 | 1352 | 161 | 
 | 2022-11-13 | 1352 | 161 | 
-| 2022-11-12 | 1353 | 161 | 
 

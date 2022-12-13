@@ -1,6 +1,6 @@
 # BeaconCMS/beacon - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 317 | 25 | 
 | 2022-12-11 | 317 | 25 | 
 | 2022-12-10 | 317 | 25 | 
 | 2022-12-09 | 317 | 25 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 309 | 23 | 
 | 2022-11-14 | 309 | 23 | 
 | 2022-11-13 | 309 | 23 | 
-| 2022-11-12 | 308 | 23 | 
 

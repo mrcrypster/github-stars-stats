@@ -1,8 +1,8 @@
 # grem11n/terraform-aws-vpc-peering - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
-☋ Forks: 79
+☋ Forks: 80
 
 ★ Stars: 89
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 89 | 80 | 
 | 2022-12-10 | 89 | 79 | 
 | 2022-12-09 | 89 | 79 | 
 | 2022-12-08 | 90 | 79 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 89 | 78 | 
 | 2022-11-14 | 89 | 78 | 
 | 2022-11-13 | 89 | 78 | 
-| 2022-11-12 | 89 | 78 | 
 

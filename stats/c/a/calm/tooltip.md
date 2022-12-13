@@ -1,6 +1,6 @@
 # calm/tooltip - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 133 | 22 | 
 | 2022-12-10 | 133 | 22 | 
 | 2022-12-09 | 133 | 22 | 
 | 2022-12-08 | 133 | 22 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 133 | 22 | 
 | 2022-11-14 | 133 | 21 | 
 | 2022-11-13 | 133 | 21 | 
-| 2022-11-12 | 133 | 21 | 
 

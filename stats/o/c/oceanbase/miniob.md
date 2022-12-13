@@ -1,8 +1,8 @@
 # oceanbase/miniob - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
-☋ Forks: 334
+☋ Forks: 333
 
 ★ Stars: 501
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 501 | 333 | 
 | 2022-12-11 | 501 | 334 | 
 | 2022-12-10 | 500 | 333 | 
 | 2022-12-08 | 500 | 333 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 492 | 333 | 
 | 2022-11-14 | 490 | 332 | 
 | 2022-11-13 | 489 | 333 | 
-| 2022-11-12 | 489 | 334 | 
 

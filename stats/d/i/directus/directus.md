@@ -1,10 +1,10 @@
 # directus/directus - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
-☋ Forks: 2226
+☋ Forks: 2227
 
-★ Stars: 18752
+★ Stars: 18766
 
 [Open repository](https://github.com/directus/directus)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 18766 | 2227 | 
 | 2022-12-11 | 18752 | 2226 | 
 | 2022-12-09 | 18739 | 2225 | 
 | 2022-12-08 | 18731 | 2223 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 18443 | 2182 | 
 | 2022-11-14 | 18425 | 2184 | 
 | 2022-11-13 | 18412 | 2182 | 
-| 2022-11-12 | 18405 | 2181 | 
 

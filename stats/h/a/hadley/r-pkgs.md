@@ -1,6 +1,6 @@
 # hadley/r-pkgs - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 560
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 684 | 560 | 
 | 2022-12-10 | 684 | 560 | 
 | 2022-12-09 | 683 | 560 | 
 | 2022-12-08 | 681 | 560 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 670 | 561 | 
 | 2022-11-14 | 670 | 560 | 
 | 2022-11-13 | 670 | 560 | 
-| 2022-11-12 | 670 | 560 | 
 

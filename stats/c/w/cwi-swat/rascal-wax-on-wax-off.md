@@ -1,6 +1,6 @@
 # cwi-swat/rascal-wax-on-wax-off - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | - | 28 | 
 | 2022-12-11 | - | 28 | 
 | 2022-12-09 | - | 28 | 
 | 2022-12-08 | - | 28 | 

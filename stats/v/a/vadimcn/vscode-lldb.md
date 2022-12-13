@@ -1,8 +1,8 @@
 # vadimcn/vscode-lldb - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
-☋ Forks: 184
+☋ Forks: 185
 
 ★ Stars: 1601
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 1601 | 185 | 
 | 2022-12-11 | 1601 | 184 | 
 | 2022-12-10 | 1600 | 184 | 
 | 2022-12-08 | 1598 | 184 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 1568 | 181 | 
 | 2022-11-15 | 1567 | 181 | 
 | 2022-11-13 | 1566 | 181 | 
-| 2022-11-12 | 1566 | 180 | 
 

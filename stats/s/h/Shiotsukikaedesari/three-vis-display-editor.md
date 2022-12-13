@@ -1,10 +1,10 @@
 # Shiotsukikaedesari/three-vis-display-editor - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 18
 
-★ Stars: 49
+★ Stars: 50
 
 [Open repository](https://github.com/Shiotsukikaedesari/three-vis-display-editor)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 50 | 18 | 
 | 2022-12-10 | 49 | 18 | 
 | 2022-12-09 | 49 | 18 | 
 | 2022-12-08 | 49 | 18 | 

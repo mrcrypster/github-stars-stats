@@ -1,10 +1,10 @@
 # cvc5/cvc5 - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 182
 
-★ Stars: 697
+★ Stars: 698
 
 [Open repository](https://github.com/cvc5/cvc5)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 698 | 182 | 
 | 2022-12-11 | 697 | 182 | 
 | 2022-12-10 | 697 | 182 | 
 | 2022-12-08 | 697 | 182 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 688 | 182 | 
 | 2022-11-14 | 687 | 182 | 
 | 2022-11-13 | 687 | 182 | 
-| 2022-11-12 | 687 | 182 | 
 

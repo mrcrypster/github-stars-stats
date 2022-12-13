@@ -1,10 +1,10 @@
 # rhasspy/rhasspy - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 134
 
-★ Stars: 1662
+★ Stars: 1664
 
 [Open repository](https://github.com/rhasspy/rhasspy)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 1664 | 134 | 
 | 2022-12-11 | 1662 | 134 | 
 | 2022-12-10 | 1661 | 134 | 
 | 2022-12-08 | 1658 | 134 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 1280 | 125 | 
 | 2022-11-14 | 1276 | 124 | 
 | 2022-11-13 | 1269 | 124 | 
-| 2022-11-12 | 1268 | 123 | 
 

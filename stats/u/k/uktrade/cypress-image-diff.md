@@ -1,10 +1,10 @@
 # uktrade/cypress-image-diff - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 43
 
-★ Stars: 124
+★ Stars: 125
 
 [Open repository](https://github.com/uktrade/cypress-image-diff)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 125 | 43 | 
 | 2022-12-10 | 124 | 43 | 
 | 2022-12-09 | 122 | 42 | 
 | 2022-12-08 | 122 | 42 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-16 | 119 | 40 | 
 | 2022-11-15 | 117 | 40 | 
 | 2022-11-13 | 116 | 39 | 
-| 2022-11-12 | 116 | 39 | 
 

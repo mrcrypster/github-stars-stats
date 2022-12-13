@@ -1,8 +1,8 @@
 # mikeizbicki/datasets - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
-☋ Forks: 57
+☋ Forks: 59
 
 ★ Stars: 23
 
@@ -13,5 +13,6 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 23 | 59 | 
 | 2022-12-11 | 23 | 57 | 
 

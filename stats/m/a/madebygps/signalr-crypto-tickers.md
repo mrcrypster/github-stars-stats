@@ -1,10 +1,10 @@
 # madebygps/signalr-crypto-tickers - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
-☋ Forks: 20
+☋ Forks: 0
 
-★ Stars: 26
+★ Stars: 0
 
 [Open repository](https://github.com/madebygps/signalr-crypto-tickers)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | - | - | 
 | 2022-12-11 | 26 | 20 | 
 | 2022-12-10 | 26 | 20 | 
 | 2022-12-08 | 26 | 20 | 

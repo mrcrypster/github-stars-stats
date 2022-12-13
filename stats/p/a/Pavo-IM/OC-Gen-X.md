@@ -1,10 +1,10 @@
 # Pavo-IM/OC-Gen-X - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 189
 
-★ Stars: 1644
+★ Stars: 1646
 
 [Open repository](https://github.com/Pavo-IM/OC-Gen-X)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 1646 | 189 | 
 | 2022-12-11 | 1644 | 189 | 
 | 2022-12-10 | 1641 | 188 | 
 | 2022-12-08 | 1639 | 188 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 1627 | 189 | 
 | 2022-11-15 | 1626 | 188 | 
 | 2022-11-14 | 1625 | 188 | 
-| 2022-11-13 | 1625 | 188 | 
 

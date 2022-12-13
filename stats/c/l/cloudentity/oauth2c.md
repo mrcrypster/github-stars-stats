@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 12
 
 ☋ Forks: 6
 
-★ Stars: 548
+★ Stars: 553
 
 [Open repository](https://github.com/cloudentity/oauth2c)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-12 | 548 | 6 | 
+| 2022-12-12 | 553 | 6 | 
 | 2022-12-11 | 537 | 6 | 
 

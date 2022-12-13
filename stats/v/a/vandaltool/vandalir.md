@@ -1,6 +1,6 @@
 # vandaltool/vandalir - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 17 | 2 | 
 | 2022-12-11 | 17 | 2 | 
 | 2022-12-10 | 17 | 2 | 
 | 2022-12-08 | 17 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 17 | 1 | 
 | 2022-11-15 | 17 | 1 | 
 | 2022-11-14 | 17 | 1 | 
-| 2022-11-12 | 17 | 1 | 
 

@@ -1,10 +1,10 @@
 # pythoniclaver/Dent-Clack - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 18
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/pythoniclaver/Dent-Clack)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 31 | 18 | 
 | 2022-12-10 | 30 | 18 | 
 | 2022-12-09 | 30 | 18 | 
 | 2022-12-08 | 30 | 18 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-16 | 30 | 18 | 
 | 2022-11-15 | 30 | 18 | 
 | 2022-11-13 | 30 | 18 | 
-| 2022-11-12 | 30 | 18 | 
 

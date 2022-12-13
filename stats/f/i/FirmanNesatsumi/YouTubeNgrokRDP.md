@@ -1,6 +1,6 @@
 # FirmanNesatsumi/YouTubeNgrokRDP - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | - | 8 | 
 | 2022-12-11 | - | 8 | 
 | 2022-12-09 | - | 7 | 
 | 2022-12-08 | - | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | - | 7 | 
 | 2022-11-15 | - | 7 | 
 | 2022-11-14 | - | 7 | 
-| 2022-11-12 | - | 7 | 
 

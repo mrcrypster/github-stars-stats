@@ -1,10 +1,10 @@
 # captbaritone/webamp - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 612
 
-★ Stars: 8864
+★ Stars: 8865
 
 [Open repository](https://github.com/captbaritone/webamp)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 8865 | 612 | 
 | 2022-12-11 | 8864 | 612 | 
 | 2022-12-10 | 8863 | 612 | 
 | 2022-12-09 | 8862 | 612 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 8840 | 609 | 
 | 2022-11-14 | 8837 | 609 | 
 | 2022-11-13 | 8837 | 609 | 
-| 2022-11-12 | 8836 | 608 | 
 

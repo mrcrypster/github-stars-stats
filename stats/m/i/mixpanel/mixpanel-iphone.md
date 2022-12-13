@@ -1,6 +1,6 @@
 # mixpanel/mixpanel-iphone - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 556
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 994 | 556 | 
 | 2022-12-11 | 994 | 556 | 
 | 2022-12-10 | 994 | 556 | 
 | 2022-12-09 | 994 | 556 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 991 | 557 | 
 | 2022-11-14 | 991 | 557 | 
 | 2022-11-13 | 991 | 557 | 
-| 2022-11-12 | 991 | 557 | 
 

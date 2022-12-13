@@ -1,10 +1,10 @@
 # ddworken/hishtory - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 20
 
-★ Stars: 1424
+★ Stars: 1433
 
 [Open repository](https://github.com/ddworken/hishtory)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 1433 | 20 | 
 | 2022-12-11 | 1424 | 20 | 
 | 2022-12-10 | 1418 | 20 | 
 | 2022-12-09 | 1417 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 1280 | 21 | 
 | 2022-11-14 | 1250 | 20 | 
 | 2022-11-13 | 1184 | 19 | 
-| 2022-11-12 | 1175 | 19 | 
 

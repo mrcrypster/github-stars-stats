@@ -1,6 +1,6 @@
 # wsdjeg/vim-fetch - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 270 | 12 | 
 | 2022-12-11 | 270 | 12 | 
 | 2022-12-09 | 270 | 12 | 
 | 2022-12-08 | 269 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 267 | 12 | 
 | 2022-11-15 | 267 | 12 | 
 | 2022-11-14 | 267 | 12 | 
-| 2022-11-13 | 267 | 12 | 
 

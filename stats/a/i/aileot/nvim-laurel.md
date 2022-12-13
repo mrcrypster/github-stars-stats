@@ -1,10 +1,10 @@
 # aileot/nvim-laurel - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 0
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/aileot/nvim-laurel)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 18 | - | 
 | 2022-12-11 | 17 | - | 
 | 2022-12-10 | 17 | - | 
 | 2022-12-09 | 17 | - | 

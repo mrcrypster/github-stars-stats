@@ -1,6 +1,6 @@
 # fbef0102/L4D1_2-Plugins - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 62 | 35 | 
 | 2022-12-11 | 62 | 35 | 
 | 2022-12-10 | 62 | 35 | 
 | 2022-12-09 | 61 | 35 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 53 | 32 | 
 | 2022-11-15 | 53 | 33 | 
 | 2022-11-14 | 53 | 33 | 
-| 2022-11-13 | 53 | 33 | 
 

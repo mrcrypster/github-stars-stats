@@ -1,6 +1,6 @@
 # Samtech3D/FLSUN-SR-Klipper-Klipper-Screen-Neopixel-Theme - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 6 | 6 | 
 | 2022-12-11 | 6 | 6 | 
 | 2022-12-09 | 6 | 6 | 
 | 2022-12-08 | 6 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 6 | 4 | 
 | 2022-11-14 | 6 | 4 | 
 | 2022-11-13 | 6 | 4 | 
-| 2022-11-12 | 6 | 4 | 
 

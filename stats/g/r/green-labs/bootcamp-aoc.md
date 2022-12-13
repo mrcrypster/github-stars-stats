@@ -1,6 +1,6 @@
 # green-labs/bootcamp-aoc - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 26 | 33 | 
 | 2022-12-11 | 26 | 33 | 
 | 2022-12-10 | 26 | 33 | 
 | 2022-12-08 | 26 | 33 | 

@@ -1,6 +1,6 @@
 # appdev-projects/photogram-final - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | - | 63 | 
 | 2022-12-11 | - | 63 | 
 | 2022-12-10 | - | 63 | 
 | 2022-12-09 | - | 60 | 

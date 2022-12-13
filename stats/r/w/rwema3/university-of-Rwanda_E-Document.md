@@ -1,6 +1,6 @@
 # rwema3/university-of-Rwanda_E-Document - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 32 | - | 
 | 2022-12-11 | 32 | - | 
 | 2022-12-09 | 32 | - | 
 | 2022-12-08 | 32 | - | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 32 | - | 
 | 2022-11-14 | 32 | - | 
 | 2022-11-13 | 32 | - | 
-| 2022-11-12 | 32 | - | 
 

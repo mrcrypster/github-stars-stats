@@ -1,6 +1,6 @@
 # terraform-aws-modules/terraform-aws-eventbridge - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 84
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 88 | 84 | 
 | 2022-12-11 | 88 | 84 | 
 | 2022-12-10 | 88 | 83 | 
 | 2022-12-09 | 88 | 83 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 84 | 81 | 
 | 2022-11-14 | 84 | 81 | 
 | 2022-11-13 | 83 | 80 | 
-| 2022-11-12 | 83 | 80 | 
 

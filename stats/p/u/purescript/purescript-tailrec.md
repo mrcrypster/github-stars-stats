@@ -1,6 +1,6 @@
 # purescript/purescript-tailrec - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 35 | 20 | 
 | 2022-12-11 | 35 | 20 | 
 | 2022-12-10 | 35 | 20 | 
 | 2022-12-09 | 35 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 35 | 20 | 
 | 2022-11-14 | 35 | 20 | 
 | 2022-11-13 | 35 | 20 | 
-| 2022-11-12 | 35 | 20 | 
 

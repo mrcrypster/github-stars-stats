@@ -1,8 +1,8 @@
 # DeekshithSN/shared-library - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
-☋ Forks: 169
+☋ Forks: 170
 
 ★ Stars: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 4 | 170 | 
 | 2022-12-11 | 4 | 169 | 
 | 2022-12-10 | 4 | 169 | 
 | 2022-12-09 | 4 | 169 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 4 | 168 | 
 | 2022-11-15 | 4 | 168 | 
 | 2022-11-14 | 4 | 168 | 
-| 2022-11-13 | 4 | 168 | 
 

@@ -1,6 +1,6 @@
 # CodyReichert/awesome-cl - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 158
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 2002 | 158 | 
 | 2022-12-11 | 2002 | 158 | 
 | 2022-12-10 | 2003 | 158 | 
 | 2022-12-09 | 2001 | 158 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 1974 | 157 | 
 | 2022-11-14 | 1974 | 157 | 
 | 2022-11-13 | 1973 | 157 | 
-| 2022-11-12 | 1972 | 157 | 
 

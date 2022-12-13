@@ -1,10 +1,10 @@
 # igoradamenko/awsm.css - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 63
 
-★ Stars: 1443
+★ Stars: 1444
 
 [Open repository](https://github.com/igoradamenko/awsm.css)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 1444 | 63 | 
 | 2022-12-11 | 1443 | 63 | 
 | 2022-12-10 | 1443 | 63 | 
 | 2022-12-09 | 1443 | 63 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 1435 | 63 | 
 | 2022-11-14 | 1434 | 63 | 
 | 2022-11-13 | 1434 | 63 | 
-| 2022-11-12 | 1434 | 63 | 
 

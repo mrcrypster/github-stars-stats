@@ -1,10 +1,10 @@
 # wseagar/eight-dollars - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 49
 
-★ Stars: 1055
+★ Stars: 1058
 
 [Open repository](https://github.com/wseagar/eight-dollars)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 1058 | 49 | 
 | 2022-12-11 | 1055 | 49 | 
 | 2022-12-10 | 1054 | 49 | 
 | 2022-12-08 | 1052 | 49 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 972 | 47 | 
 | 2022-11-14 | 917 | 45 | 
 | 2022-11-13 | 864 | 44 | 
-| 2022-11-12 | 689 | 38 | 
 

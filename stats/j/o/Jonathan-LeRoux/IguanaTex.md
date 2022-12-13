@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 12
 
 ☋ Forks: 45
 
-★ Stars: 379
+★ Stars: 380
 
 [Open repository](https://github.com/Jonathan-LeRoux/IguanaTex)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-12 | 379 | 45 | 
+| 2022-12-12 | 380 | 45 | 
 | 2022-12-10 | 379 | 45 | 
 | 2022-12-09 | 379 | 45 | 
 | 2022-12-08 | 379 | 45 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-15 | 357 | 45 | 
 | 2022-11-14 | 354 | 45 | 
 | 2022-11-13 | 354 | 45 | 
-| 2022-11-12 | 353 | 45 | 
 

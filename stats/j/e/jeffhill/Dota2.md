@@ -1,6 +1,6 @@
 # jeffhill/Dota2 - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 847 | 32 | 
 | 2022-12-11 | 847 | 32 | 
 | 2022-12-10 | 846 | 32 | 
 | 2022-12-09 | 847 | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 837 | 30 | 
 | 2022-11-14 | 835 | 29 | 
 | 2022-11-13 | 834 | 29 | 
-| 2022-11-12 | 834 | 29 | 
 

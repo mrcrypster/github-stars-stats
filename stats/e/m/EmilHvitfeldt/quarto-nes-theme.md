@@ -1,10 +1,10 @@
 # EmilHvitfeldt/quarto-nes-theme - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 0
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/EmilHvitfeldt/quarto-nes-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 24 | - | 
 | 2022-12-11 | 23 | - | 
 | 2022-12-10 | 23 | - | 
 | 2022-12-09 | 23 | - | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 22 | - | 
 | 2022-11-14 | 22 | - | 
 | 2022-11-13 | 22 | - | 
-| 2022-11-12 | 22 | - | 
 

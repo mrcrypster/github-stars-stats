@@ -1,10 +1,10 @@
 # susam/mathb - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 20
 
-★ Stars: 243
+★ Stars: 244
 
 [Open repository](https://github.com/susam/mathb)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 244 | 20 | 
 | 2022-12-11 | 243 | 20 | 
 | 2022-12-10 | 243 | 20 | 
 | 2022-12-09 | 243 | 20 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 239 | 19 | 
 | 2022-11-15 | 239 | 19 | 
 | 2022-11-14 | 238 | 19 | 
-| 2022-11-13 | 238 | 19 | 
 

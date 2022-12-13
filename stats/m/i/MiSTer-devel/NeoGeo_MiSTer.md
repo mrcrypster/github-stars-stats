@@ -1,6 +1,6 @@
 # MiSTer-devel/NeoGeo_MiSTer - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 106 | 63 | 
 | 2022-12-11 | 106 | 63 | 
 | 2022-12-10 | 106 | 62 | 
 | 2022-12-09 | 106 | 62 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 107 | 61 | 
 | 2022-11-14 | 107 | 61 | 
 | 2022-11-13 | 107 | 61 | 
-| 2022-11-12 | 107 | 61 | 
 

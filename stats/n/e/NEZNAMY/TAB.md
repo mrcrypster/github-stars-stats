@@ -1,8 +1,8 @@
 # NEZNAMY/TAB - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
-☋ Forks: 176
+☋ Forks: 177
 
 ★ Stars: 588
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 588 | 177 | 
 | 2022-12-11 | 588 | 176 | 
 | 2022-12-10 | 587 | 175 | 
 | 2022-12-08 | 586 | 175 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 573 | 174 | 
 | 2022-11-15 | 572 | 174 | 
 | 2022-11-14 | 571 | 175 | 
-| 2022-11-12 | 570 | 175 | 
 

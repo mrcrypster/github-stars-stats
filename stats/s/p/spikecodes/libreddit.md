@@ -1,10 +1,10 @@
 # spikecodes/libreddit - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 197
 
-★ Stars: 3812
+★ Stars: 3814
 
 [Open repository](https://github.com/spikecodes/libreddit)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 3814 | 197 | 
 | 2022-12-11 | 3812 | 197 | 
 | 2022-12-10 | 3806 | 197 | 
 | 2022-12-09 | 3802 | 196 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 3668 | 189 | 
 | 2022-11-14 | 3667 | 188 | 
 | 2022-11-13 | 3658 | 188 | 
-| 2022-11-12 | 3651 | 188 | 
 

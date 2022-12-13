@@ -1,10 +1,10 @@
 # osiset/laravel-shopify - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
-☋ Forks: 379
+☋ Forks: 380
 
-★ Stars: 1195
+★ Stars: 1198
 
 [Open repository](https://github.com/osiset/laravel-shopify)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 1198 | 380 | 
 | 2022-12-11 | 1195 | 379 | 
 | 2022-12-09 | 1195 | 379 | 
 | 2022-12-08 | 1195 | 379 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 1184 | 373 | 
 | 2022-11-14 | 1183 | 372 | 
 | 2022-11-13 | 1182 | 372 | 
-| 2022-11-12 | 1182 | 372 | 
 

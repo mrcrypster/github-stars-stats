@@ -1,10 +1,10 @@
 # spawnfest/tres-web - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 0
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/spawnfest/tres-web)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 3 | - | 
 | 2022-12-11 | 2 | - | 
 | 2022-12-09 | 2 | - | 
 | 2022-12-08 | 2 | - | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 2 | - | 
 | 2022-11-15 | 2 | - | 
 | 2022-11-14 | 2 | - | 
-| 2022-11-12 | 2 | - | 
 

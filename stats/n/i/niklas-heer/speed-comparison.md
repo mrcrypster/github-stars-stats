@@ -1,10 +1,10 @@
 # niklas-heer/speed-comparison - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 46
 
-★ Stars: 238
+★ Stars: 239
 
 [Open repository](https://github.com/niklas-heer/speed-comparison)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 239 | 46 | 
 | 2022-12-11 | 238 | 46 | 
 | 2022-12-10 | 238 | 46 | 
 | 2022-12-09 | 238 | 46 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 233 | 46 | 
 | 2022-11-14 | 230 | 46 | 
 | 2022-11-13 | 228 | 45 | 
-| 2022-11-12 | 226 | 44 | 
 

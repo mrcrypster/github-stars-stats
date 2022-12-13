@@ -1,6 +1,6 @@
 # appdev-projects/if-statements-chapter - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 666
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | - | 666 | 
 | 2022-12-11 | - | 666 | 
 | 2022-12-09 | - | 666 | 
 | 2022-12-08 | - | 666 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | - | 664 | 
 | 2022-11-15 | - | 664 | 
 | 2022-11-14 | - | 664 | 
-| 2022-11-12 | - | 664 | 
 

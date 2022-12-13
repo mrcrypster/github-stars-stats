@@ -1,6 +1,6 @@
 # kurniawanfebri344/-Windows2019RDP-Github - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | - | 33 | 
 | 2022-12-11 | - | 33 | 
 | 2022-12-10 | - | 33 | 
 | 2022-12-09 | - | 33 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | - | 31 | 
 | 2022-11-15 | - | 31 | 
 | 2022-11-14 | - | 31 | 
-| 2022-11-13 | - | 31 | 
 

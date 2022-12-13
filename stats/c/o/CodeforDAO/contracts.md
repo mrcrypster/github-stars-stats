@@ -1,10 +1,10 @@
 # CodeforDAO/contracts - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 99
 
-★ Stars: 586
+★ Stars: 585
 
 [Open repository](https://github.com/CodeforDAO/contracts)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 585 | 99 | 
 | 2022-12-11 | 586 | 99 | 
 | 2022-12-10 | 586 | 99 | 
 | 2022-12-08 | 585 | 99 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 579 | 98 | 
 | 2022-11-15 | 579 | 98 | 
 | 2022-11-14 | 579 | 98 | 
-| 2022-11-12 | 579 | 98 | 
 

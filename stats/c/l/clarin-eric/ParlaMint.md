@@ -1,6 +1,6 @@
 # clarin-eric/ParlaMint - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 21 | 37 | 
 | 2022-12-11 | 21 | 37 | 
 | 2022-12-10 | 21 | 37 | 
 | 2022-12-09 | 21 | 37 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 22 | 33 | 
 | 2022-11-14 | 22 | 33 | 
 | 2022-11-13 | 22 | 33 | 
-| 2022-11-12 | 22 | 33 | 
 

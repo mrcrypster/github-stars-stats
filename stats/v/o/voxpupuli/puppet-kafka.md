@@ -1,6 +1,6 @@
 # voxpupuli/puppet-kafka - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 119
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 30 | 119 | 
 | 2022-12-10 | 30 | 119 | 
 | 2022-12-09 | 30 | 119 | 
 | 2022-12-08 | 30 | 119 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 30 | 119 | 
 | 2022-11-14 | 30 | 119 | 
 | 2022-11-13 | 30 | 119 | 
-| 2022-11-12 | 30 | 119 | 
 

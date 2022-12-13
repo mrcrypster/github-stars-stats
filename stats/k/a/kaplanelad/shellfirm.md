@@ -1,10 +1,10 @@
 # kaplanelad/shellfirm - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 16
 
-★ Stars: 647
+★ Stars: 648
 
 [Open repository](https://github.com/kaplanelad/shellfirm)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 648 | 16 | 
 | 2022-12-11 | 647 | 16 | 
 | 2022-12-10 | 647 | 16 | 
 | 2022-12-09 | 647 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 645 | 16 | 
 | 2022-11-14 | 645 | 16 | 
 | 2022-11-13 | 645 | 16 | 
-| 2022-11-12 | 645 | 16 | 
 

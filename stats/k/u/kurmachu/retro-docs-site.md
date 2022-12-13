@@ -1,6 +1,6 @@
 # kurmachu/retro-docs-site - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 6 | 4 | 
 | 2022-12-11 | 6 | 4 | 
 | 2022-12-09 | 6 | 4 | 
 | 2022-12-08 | 6 | 4 | 

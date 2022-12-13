@@ -1,6 +1,6 @@
 # thedemons/FiddlerMomoPlugin - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 95 | 62 | 
 | 2022-12-11 | 95 | 62 | 
 | 2022-12-10 | 95 | 62 | 
 | 2022-12-08 | 95 | 62 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 94 | 63 | 
 | 2022-11-14 | 94 | 63 | 
 | 2022-11-13 | 94 | 62 | 
-| 2022-11-12 | 94 | 62 | 
 

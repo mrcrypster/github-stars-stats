@@ -1,6 +1,6 @@
 # Azure/azure-docs-json-samples - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 126
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 92 | 126 | 
 | 2022-12-11 | 92 | 126 | 
 | 2022-12-10 | 92 | 126 | 
 | 2022-12-09 | 91 | 126 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 91 | 126 | 
 | 2022-11-14 | 90 | 126 | 
 | 2022-11-13 | 90 | 126 | 
-| 2022-11-12 | 90 | 126 | 
 

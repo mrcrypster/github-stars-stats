@@ -1,6 +1,6 @@
 # friend-nicen/nicen-localize-image - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 54 | 8 | 
 | 2022-12-11 | 54 | 8 | 
 | 2022-12-09 | 54 | 8 | 
 | 2022-12-08 | 54 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 52 | 8 | 
 | 2022-11-15 | 51 | 9 | 
 | 2022-11-14 | 50 | 9 | 
-| 2022-11-12 | 50 | 9 | 
 

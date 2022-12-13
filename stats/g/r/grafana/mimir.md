@@ -1,10 +1,10 @@
 # grafana/mimir - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
-☋ Forks: 215
+☋ Forks: 216
 
-★ Stars: 2672
+★ Stars: 2673
 
 [Open repository](https://github.com/grafana/mimir)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 2673 | 216 | 
 | 2022-12-11 | 2672 | 215 | 
 | 2022-12-09 | 2671 | 216 | 
 | 2022-12-08 | 2668 | 215 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 2601 | 205 | 
 | 2022-11-14 | 2598 | 204 | 
 | 2022-11-13 | 2596 | 204 | 
-| 2022-11-12 | 2594 | 204 | 
 

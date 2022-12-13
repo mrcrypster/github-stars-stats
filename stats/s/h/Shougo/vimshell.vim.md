@@ -1,6 +1,6 @@
 # Shougo/vimshell.vim - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 90
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 1086 | 90 | 
 | 2022-12-10 | 1086 | 90 | 
 | 2022-12-09 | 1086 | 90 | 
 | 2022-12-08 | 1086 | 90 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-16 | 1087 | 90 | 
 | 2022-11-15 | 1087 | 90 | 
 | 2022-11-14 | 1087 | 90 | 
-| 2022-11-13 | 1087 | 90 | 
 

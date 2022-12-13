@@ -1,6 +1,6 @@
 # richardszalay/mockhttp - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 74
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 1228 | 74 | 
 | 2022-12-11 | 1228 | 74 | 
 | 2022-12-09 | 1228 | 74 | 
 | 2022-12-08 | 1226 | 74 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 1206 | 74 | 
 | 2022-11-14 | 1206 | 74 | 
 | 2022-11-13 | 1204 | 74 | 
-| 2022-11-12 | 1204 | 74 | 
 

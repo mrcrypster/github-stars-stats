@@ -1,10 +1,10 @@
 # pmichaillat/latex-paper - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 4
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/pmichaillat/latex-paper)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 28 | 4 | 
 | 2022-12-11 | 27 | 4 | 
 | 2022-12-10 | 27 | 4 | 
 | 2022-12-09 | 27 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 26 | 4 | 
 | 2022-11-14 | 26 | 4 | 
 | 2022-11-13 | 24 | 4 | 
-| 2022-11-12 | 24 | 4 | 
 

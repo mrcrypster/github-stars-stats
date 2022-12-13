@@ -1,10 +1,10 @@
 # libfuse/libfuse - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
-☋ Forks: 957
+☋ Forks: 958
 
-★ Stars: 4196
+★ Stars: 4197
 
 [Open repository](https://github.com/libfuse/libfuse)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 4197 | 958 | 
 | 2022-12-10 | 4196 | 957 | 
 | 2022-12-09 | 4196 | 957 | 
 | 2022-12-08 | 4195 | 957 | 

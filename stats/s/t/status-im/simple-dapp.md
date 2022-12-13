@@ -1,6 +1,6 @@
 # status-im/simple-dapp - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 6 | 4 | 
 | 2022-12-10 | 6 | 4 | 
 | 2022-12-09 | 6 | 4 | 
 | 2022-12-08 | 6 | 4 | 

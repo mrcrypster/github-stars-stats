@@ -1,6 +1,6 @@
 # VUnit/vunit - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 223
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 573 | 223 | 
 | 2022-12-10 | 573 | 223 | 
 | 2022-12-09 | 573 | 223 | 
 | 2022-12-08 | 573 | 223 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 566 | 219 | 
 | 2022-11-14 | 566 | 219 | 
 | 2022-11-13 | 565 | 219 | 
-| 2022-11-12 | 565 | 219 | 
 

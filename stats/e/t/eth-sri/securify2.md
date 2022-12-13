@@ -1,10 +1,10 @@
 # eth-sri/securify2 - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 92
 
-★ Stars: 410
+★ Stars: 411
 
 [Open repository](https://github.com/eth-sri/securify2)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 411 | 92 | 
 | 2022-12-10 | 410 | 92 | 
 | 2022-12-09 | 410 | 92 | 
 | 2022-12-08 | 410 | 92 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-16 | 402 | 87 | 
 | 2022-11-15 | 401 | 87 | 
 | 2022-11-14 | 398 | 86 | 
-| 2022-11-12 | 397 | 86 | 
 

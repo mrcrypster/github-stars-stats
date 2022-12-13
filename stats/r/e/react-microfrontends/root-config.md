@@ -1,6 +1,6 @@
 # react-microfrontends/root-config - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 84
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 176 | 84 | 
 | 2022-12-11 | 176 | 84 | 
 | 2022-12-10 | 176 | 84 | 
 | 2022-12-09 | 176 | 84 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 173 | 82 | 
 | 2022-11-14 | 173 | 82 | 
 | 2022-11-13 | 173 | 82 | 
-| 2022-11-12 | 173 | 82 | 
 

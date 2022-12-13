@@ -1,6 +1,6 @@
 # purescript/purescript-validation - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 46 | 14 | 
 | 2022-12-11 | 46 | 14 | 
 | 2022-12-10 | 46 | 14 | 
 | 2022-12-09 | 46 | 14 | 

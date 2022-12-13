@@ -1,10 +1,10 @@
 # spawnfest/lively - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 0
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/spawnfest/lively)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 18 | - | 
 | 2022-12-10 | 17 | - | 
 | 2022-12-09 | 17 | - | 
 | 2022-12-08 | 17 | - | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-16 | 17 | - | 
 | 2022-11-15 | 17 | - | 
 | 2022-11-14 | 17 | - | 
-| 2022-11-13 | 17 | - | 
 

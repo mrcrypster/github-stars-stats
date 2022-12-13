@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 12
 
-☋ Forks: 4102
+☋ Forks: 4104
 
-★ Stars: 36420
+★ Stars: 36430
 
 [Open repository](https://github.com/golang-standards/project-layout)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-12 | 36420 | 4102 | 
+| 2022-12-12 | 36430 | 4104 | 
 | 2022-12-10 | 36403 | 4099 | 
 | 2022-12-09 | 36386 | 4096 | 
 | 2022-12-08 | 36355 | 4091 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-15 | 35889 | 4041 | 
 | 2022-11-14 | 35866 | 4041 | 
 | 2022-11-13 | 35821 | 4033 | 
-| 2022-11-12 | 35817 | 4032 | 
 

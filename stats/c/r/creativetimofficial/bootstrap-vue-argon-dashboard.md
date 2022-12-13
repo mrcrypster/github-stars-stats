@@ -1,8 +1,8 @@
 # creativetimofficial/bootstrap-vue-argon-dashboard - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
-☋ Forks: 158
+☋ Forks: 159
 
 ★ Stars: 82
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 82 | 159 | 
 | 2022-12-10 | 82 | 158 | 
 | 2022-12-09 | 82 | 158 | 
 | 2022-12-08 | 82 | 154 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 81 | 141 | 
 | 2022-11-14 | 81 | 140 | 
 | 2022-11-13 | 81 | 139 | 
-| 2022-11-12 | 81 | 139 | 
 

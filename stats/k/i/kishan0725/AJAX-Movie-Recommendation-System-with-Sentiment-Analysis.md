@@ -1,10 +1,10 @@
 # kishan0725/AJAX-Movie-Recommendation-System-with-Sentiment-Analysis - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
-☋ Forks: 341
+☋ Forks: 342
 
-★ Stars: 319
+★ Stars: 320
 
 [Open repository](https://github.com/kishan0725/AJAX-Movie-Recommendation-System-with-Sentiment-Analysis)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 320 | 342 | 
 | 2022-12-10 | 319 | 341 | 
 | 2022-12-09 | 319 | 341 | 
 | 2022-12-08 | 318 | 340 | 

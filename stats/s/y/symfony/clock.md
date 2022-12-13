@@ -1,6 +1,6 @@
 # symfony/clock - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 63 | 2 | 
 | 2022-12-11 | 63 | 2 | 
 | 2022-12-09 | 63 | 2 | 
 | 2022-12-08 | 63 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 61 | 3 | 
 | 2022-11-15 | 61 | 3 | 
 | 2022-11-14 | 61 | 3 | 
-| 2022-11-13 | 61 | 3 | 
 

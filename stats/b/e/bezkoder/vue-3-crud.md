@@ -1,10 +1,10 @@
 # bezkoder/vue-3-crud - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 37
 
-★ Stars: 38
+★ Stars: 40
 
 [Open repository](https://github.com/bezkoder/vue-3-crud)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 40 | 37 | 
 | 2022-12-11 | 38 | 37 | 
 | 2022-12-10 | 38 | 37 | 
 | 2022-12-08 | 38 | 37 | 

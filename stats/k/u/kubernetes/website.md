@@ -1,10 +1,10 @@
 # kubernetes/website - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
-☋ Forks: 12019
+☋ Forks: 12025
 
-★ Stars: 3543
+★ Stars: 3547
 
 [Open repository](https://github.com/kubernetes/website)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 3547 | 12025 | 
 | 2022-12-11 | 3543 | 12019 | 
 | 2022-12-10 | 3539 | 12016 | 
 | 2022-12-08 | 3538 | 12007 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 3513 | 11898 | 
 | 2022-11-14 | 3510 | 11896 | 
 | 2022-11-13 | 3506 | 11889 | 
-| 2022-11-12 | 3505 | 11886 | 
 

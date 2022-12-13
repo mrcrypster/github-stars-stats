@@ -1,10 +1,10 @@
 # yichengchen/clashX - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 2747
 
-★ Stars: 21389
+★ Stars: 21414
 
 [Open repository](https://github.com/yichengchen/clashX)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 21414 | 2747 | 
 | 2022-12-11 | 21389 | 2747 | 
 | 2022-12-10 | 21370 | 2745 | 
 | 2022-12-09 | 21345 | 2744 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 20716 | 2686 | 
 | 2022-11-14 | 20703 | 2686 | 
 | 2022-11-13 | 20699 | 2684 | 
-| 2022-11-12 | 20687 | 2682 | 
 

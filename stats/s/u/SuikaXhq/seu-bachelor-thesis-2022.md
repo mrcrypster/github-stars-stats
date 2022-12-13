@@ -1,10 +1,10 @@
 # SuikaXhq/seu-bachelor-thesis-2022 - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 2
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/SuikaXhq/seu-bachelor-thesis-2022)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 37 | 2 | 
 | 2022-12-11 | 36 | 2 | 
 | 2022-12-09 | 36 | 2 | 
 | 2022-12-08 | 36 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 33 | 2 | 
 | 2022-11-15 | 33 | 2 | 
 | 2022-11-14 | 33 | 2 | 
-| 2022-11-13 | 33 | 2 | 
 

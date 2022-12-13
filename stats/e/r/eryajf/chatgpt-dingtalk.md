@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 12
 
-☋ Forks: 8
+☋ Forks: 9
 
-★ Stars: 35
+★ Stars: 44
 
 [Open repository](https://github.com/eryajf/chatgpt-dingtalk)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-12 | 35 | 8 | 
+| 2022-12-12 | 44 | 9 | 
 | 2022-12-11 | 34 | 8 | 
 

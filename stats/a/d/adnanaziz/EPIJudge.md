@@ -1,10 +1,10 @@
 # adnanaziz/EPIJudge - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
-☋ Forks: 1703
+☋ Forks: 1705
 
-★ Stars: 2554
+★ Stars: 2555
 
 [Open repository](https://github.com/adnanaziz/EPIJudge)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 2555 | 1705 | 
 | 2022-12-11 | 2554 | 1703 | 
 | 2022-12-10 | 2554 | 1702 | 
 | 2022-12-09 | 2554 | 1702 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 2547 | 1696 | 
 | 2022-11-14 | 2547 | 1695 | 
 | 2022-11-13 | 2545 | 1695 | 
-| 2022-11-12 | 2545 | 1695 | 
 

@@ -1,8 +1,8 @@
 # iampawan/FlutterExampleApps - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
-☋ Forks: 3467
+☋ Forks: 3468
 
 ★ Stars: 17796
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 17796 | 3468 | 
 | 2022-12-10 | 17796 | 3467 | 
 | 2022-12-09 | 17792 | 3466 | 
 | 2022-12-08 | 17786 | 3463 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 17653 | 3436 | 
 | 2022-11-14 | 17650 | 3437 | 
 | 2022-11-13 | 17649 | 3438 | 
-| 2022-11-12 | 17646 | 3437 | 
 

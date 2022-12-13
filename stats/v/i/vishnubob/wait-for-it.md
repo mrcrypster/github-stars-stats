@@ -1,6 +1,6 @@
 # vishnubob/wait-for-it - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 2226
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 8260 | 2226 | 
 | 2022-12-10 | 8260 | 2226 | 
 | 2022-12-09 | 8258 | 2227 | 
 | 2022-12-08 | 8256 | 2227 | 

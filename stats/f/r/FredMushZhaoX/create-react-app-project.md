@@ -1,6 +1,6 @@
 # FredMushZhaoX/create-react-app-project - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 54 | 24 | 
 | 2022-12-11 | 54 | 24 | 
 | 2022-12-09 | 54 | 24 | 
 | 2022-12-08 | 54 | 24 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 54 | 24 | 
 | 2022-11-14 | 54 | 24 | 
 | 2022-11-13 | 54 | 24 | 
-| 2022-11-12 | 54 | 24 | 
 

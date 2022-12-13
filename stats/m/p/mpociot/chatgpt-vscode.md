@@ -1,10 +1,10 @@
 # mpociot/chatgpt-vscode - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
-☋ Forks: 80
+☋ Forks: 89
 
-★ Stars: 1443
+★ Stars: 1575
 
 [Open repository](https://github.com/mpociot/chatgpt-vscode)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 1575 | 89 | 
 | 2022-12-10 | 1443 | 80 | 
 | 2022-12-09 | 1313 | 72 | 
 | 2022-12-08 | 1201 | 62 | 

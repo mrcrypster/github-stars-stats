@@ -1,10 +1,10 @@
 # guzzle/psr7 - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 274
 
-★ Stars: 7589
+★ Stars: 7590
 
 [Open repository](https://github.com/guzzle/psr7)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 7590 | 274 | 
 | 2022-12-11 | 7589 | 274 | 
 | 2022-12-10 | 7589 | 273 | 
 | 2022-12-09 | 7589 | 273 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 7576 | 269 | 
 | 2022-11-14 | 7573 | 268 | 
 | 2022-11-13 | 7573 | 268 | 
-| 2022-11-12 | 7571 | 268 | 
 

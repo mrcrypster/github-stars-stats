@@ -1,10 +1,10 @@
 # FBlackBox/BlackBox - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
-☋ Forks: 415
+☋ Forks: 416
 
-★ Stars: 1587
+★ Stars: 1592
 
 [Open repository](https://github.com/FBlackBox/BlackBox)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 1592 | 416 | 
 | 2022-12-11 | 1587 | 415 | 
 | 2022-12-10 | 1585 | 415 | 
 | 2022-12-09 | 1584 | 415 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 1546 | 408 | 
 | 2022-11-14 | 1546 | 406 | 
 | 2022-11-13 | 1543 | 406 | 
-| 2022-11-12 | 1540 | 405 | 
 

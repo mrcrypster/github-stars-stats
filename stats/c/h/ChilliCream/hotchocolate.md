@@ -1,8 +1,8 @@
 # ChilliCream/hotchocolate - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
-☋ Forks: 582
+☋ Forks: 583
 
 ★ Stars: 4053
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 4053 | 583 | 
 | 2022-12-11 | 4053 | 582 | 
 | 2022-12-10 | 4052 | 582 | 
 | 2022-12-08 | 4051 | 581 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 3980 | 574 | 
 | 2022-11-14 | 3976 | 574 | 
 | 2022-11-13 | 3975 | 573 | 
-| 2022-11-12 | 3973 | 573 | 
 

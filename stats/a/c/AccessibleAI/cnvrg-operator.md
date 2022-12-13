@@ -1,6 +1,6 @@
 # AccessibleAI/cnvrg-operator - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 12 | 4 | 
 | 2022-12-11 | 12 | 4 | 
 | 2022-12-10 | 12 | 4 | 
 | 2022-12-09 | 12 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 11 | 4 | 
 | 2022-11-14 | 11 | 4 | 
 | 2022-11-13 | 11 | 4 | 
-| 2022-11-12 | 11 | 4 | 
 

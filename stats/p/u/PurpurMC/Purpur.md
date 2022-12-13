@@ -1,8 +1,8 @@
 # PurpurMC/Purpur - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
-☋ Forks: 233
+☋ Forks: 231
 
 ★ Stars: 1324
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 1324 | 231 | 
 | 2022-12-11 | 1324 | 233 | 
 | 2022-12-10 | 1322 | 232 | 
 | 2022-12-09 | 1323 | 233 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 1308 | 232 | 
 | 2022-11-15 | 1305 | 231 | 
 | 2022-11-14 | 1303 | 230 | 
-| 2022-11-13 | 1301 | 231 | 
 

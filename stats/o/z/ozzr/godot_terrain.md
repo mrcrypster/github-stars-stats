@@ -1,6 +1,6 @@
 # ozzr/godot_terrain - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 32 | 2 | 
 | 2022-12-11 | 32 | 2 | 
 | 2022-12-09 | 32 | 2 | 
 | 2022-12-08 | 32 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 23 | 1 | 
 | 2022-11-14 | 23 | 1 | 
 | 2022-11-13 | 22 | 1 | 
-| 2022-11-12 | 22 | 1 | 
 

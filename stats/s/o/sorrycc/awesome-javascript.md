@@ -1,10 +1,10 @@
 # sorrycc/awesome-javascript - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 4138
 
-★ Stars: 29459
+★ Stars: 29474
 
 [Open repository](https://github.com/sorrycc/awesome-javascript)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 29474 | 4138 | 
 | 2022-12-11 | 29459 | 4138 | 
 | 2022-12-10 | 29444 | 4137 | 
 | 2022-12-09 | 29443 | 4137 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 29197 | 4112 | 
 | 2022-11-14 | 29191 | 4111 | 
 | 2022-11-13 | 29183 | 4112 | 
-| 2022-11-12 | 29175 | 4112 | 
 

@@ -1,10 +1,10 @@
 # liuyxpp/MakiePublication.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 4
 
-★ Stars: 55
+★ Stars: 56
 
 [Open repository](https://github.com/liuyxpp/MakiePublication.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 56 | 4 | 
 | 2022-12-11 | 55 | 4 | 
 | 2022-12-09 | 55 | 4 | 
 | 2022-12-08 | 55 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 52 | 4 | 
 | 2022-11-14 | 52 | 4 | 
 | 2022-11-13 | 52 | 4 | 
-| 2022-11-12 | 52 | 4 | 
 

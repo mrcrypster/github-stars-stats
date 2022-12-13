@@ -1,10 +1,10 @@
 # asdf-community/asdf-poetry - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 6
 
-★ Stars: 45
+★ Stars: 46
 
 [Open repository](https://github.com/asdf-community/asdf-poetry)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 46 | 6 | 
 | 2022-12-10 | 45 | 6 | 
 | 2022-12-09 | 45 | 6 | 
 | 2022-12-08 | 45 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 40 | 6 | 
 | 2022-11-14 | 40 | 6 | 
 | 2022-11-13 | 40 | 6 | 
-| 2022-11-12 | 40 | 6 | 
 

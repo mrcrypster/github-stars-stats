@@ -1,10 +1,10 @@
 # elrumo/macOS_Big_Sur_icons_replacements - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 239
 
-★ Stars: 3941
+★ Stars: 3943
 
 [Open repository](https://github.com/elrumo/macOS_Big_Sur_icons_replacements)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 3943 | 239 | 
 | 2022-12-10 | 3941 | 239 | 
 | 2022-12-09 | 3941 | 239 | 
 | 2022-12-08 | 3942 | 239 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-16 | 3934 | 233 | 
 | 2022-11-15 | 3935 | 233 | 
 | 2022-11-14 | 3935 | 233 | 
-| 2022-11-13 | 3933 | 233 | 
 

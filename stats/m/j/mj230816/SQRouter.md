@@ -1,6 +1,6 @@
 # mj230816/SQRouter - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 141 | 21 | 
 | 2022-12-10 | 141 | 21 | 
 | 2022-12-09 | 142 | 21 | 
 | 2022-12-08 | 142 | 21 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 143 | 21 | 
 | 2022-11-14 | 143 | 21 | 
 | 2022-11-13 | 143 | 21 | 
-| 2022-11-12 | 143 | 21 | 
 

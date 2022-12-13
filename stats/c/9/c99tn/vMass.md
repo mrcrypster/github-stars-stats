@@ -1,10 +1,10 @@
 # c99tn/vMass - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 27
 
-★ Stars: 128
+★ Stars: 129
 
 [Open repository](https://github.com/c99tn/vMass)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 129 | 27 | 
 | 2022-12-11 | 128 | 27 | 
 | 2022-12-10 | 127 | 27 | 
 | 2022-12-09 | 125 | 27 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 110 | 27 | 
 | 2022-11-14 | 109 | 27 | 
 | 2022-11-13 | 109 | 27 | 
-| 2022-11-12 | 109 | 27 | 
 

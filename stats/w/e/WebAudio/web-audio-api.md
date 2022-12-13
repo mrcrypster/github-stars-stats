@@ -1,6 +1,6 @@
 # WebAudio/web-audio-api - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 162
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 944 | 162 | 
 | 2022-12-11 | 944 | 162 | 
 | 2022-12-10 | 944 | 162 | 
 | 2022-12-09 | 944 | 162 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 937 | 161 | 
 | 2022-11-15 | 938 | 161 | 
 | 2022-11-14 | 938 | 161 | 
-| 2022-11-13 | 938 | 161 | 
 

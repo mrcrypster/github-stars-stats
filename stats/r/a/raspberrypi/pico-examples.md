@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 12
 
 ☋ Forks: 463
 
-★ Stars: 1600
+★ Stars: 1601
 
 [Open repository](https://github.com/raspberrypi/pico-examples)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-12 | 1600 | 463 | 
+| 2022-12-12 | 1601 | 463 | 
 | 2022-12-11 | 1600 | 463 | 
 | 2022-12-10 | 1595 | 463 | 
 | 2022-12-08 | 1594 | 463 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-15 | 1546 | 443 | 
 | 2022-11-14 | 1541 | 442 | 
 | 2022-11-13 | 1539 | 442 | 
-| 2022-11-12 | 1535 | 439 | 
 

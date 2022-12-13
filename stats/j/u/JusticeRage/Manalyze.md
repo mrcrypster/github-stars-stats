@@ -1,10 +1,10 @@
 # JusticeRage/Manalyze - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 162
 
-★ Stars: 887
+★ Stars: 888
 
 [Open repository](https://github.com/JusticeRage/Manalyze)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 888 | 162 | 
 | 2022-12-11 | 887 | 162 | 
 | 2022-12-10 | 887 | 162 | 
 | 2022-12-09 | 887 | 162 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 873 | 161 | 
 | 2022-11-14 | 873 | 161 | 
 | 2022-11-13 | 873 | 161 | 
-| 2022-11-12 | 873 | 161 | 
 

@@ -1,6 +1,6 @@
 # kishikawakatsumi/KeychainAccess - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 707
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 7134 | 707 | 
 | 2022-12-11 | 7134 | 707 | 
 | 2022-12-10 | 7133 | 707 | 
 | 2022-12-09 | 7133 | 707 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 7115 | 704 | 
 | 2022-11-14 | 7112 | 704 | 
 | 2022-11-13 | 7109 | 705 | 
-| 2022-11-12 | 7109 | 705 | 
 

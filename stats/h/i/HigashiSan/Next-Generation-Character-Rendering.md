@@ -1,6 +1,6 @@
 # HigashiSan/Next-Generation-Character-Rendering - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 19 | 6 | 
 | 2022-12-11 | 19 | 6 | 
 | 2022-12-10 | 19 | 6 | 
 | 2022-12-08 | 19 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 17 | 5 | 
 | 2022-11-14 | 17 | 5 | 
 | 2022-11-13 | 17 | 5 | 
-| 2022-11-12 | 17 | 5 | 
 

@@ -1,10 +1,10 @@
 # PaystackHQ/nigerialogos - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 248
 
-★ Stars: 252
+★ Stars: 253
 
 [Open repository](https://github.com/PaystackHQ/nigerialogos)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 253 | 248 | 
 | 2022-12-10 | 252 | 248 | 
 | 2022-12-09 | 252 | 248 | 
 | 2022-12-08 | 252 | 248 | 

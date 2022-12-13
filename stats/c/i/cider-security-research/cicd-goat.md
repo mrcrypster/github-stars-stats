@@ -1,10 +1,10 @@
 # cider-security-research/cicd-goat - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 104
 
-★ Stars: 1020
+★ Stars: 1022
 
 [Open repository](https://github.com/cider-security-research/cicd-goat)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 1022 | 104 | 
 | 2022-12-11 | 1020 | 104 | 
 | 2022-12-10 | 1020 | 104 | 
 | 2022-12-08 | 1018 | 104 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 938 | 95 | 
 | 2022-11-15 | 935 | 93 | 
 | 2022-11-14 | 927 | 93 | 
-| 2022-11-12 | 926 | 93 | 
 

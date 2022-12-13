@@ -1,10 +1,10 @@
 # danielroe/magic-regexp - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 23
 
-★ Stars: 1465
+★ Stars: 1466
 
 [Open repository](https://github.com/danielroe/magic-regexp)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 1466 | 23 | 
 | 2022-12-10 | 1465 | 23 | 
 | 2022-12-09 | 1465 | 23 | 
 | 2022-12-08 | 1459 | 23 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 1373 | 22 | 
 | 2022-11-14 | 1372 | 22 | 
 | 2022-11-13 | 1372 | 22 | 
-| 2022-11-12 | 1372 | 22 | 
 

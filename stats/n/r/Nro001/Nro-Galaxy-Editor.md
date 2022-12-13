@@ -1,6 +1,6 @@
 # Nro001/Nro-Galaxy-Editor - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 18 | - | 
 | 2022-12-11 | 18 | - | 
 | 2022-12-10 | 18 | - | 
 | 2022-12-08 | 18 | - | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 16 | - | 
 | 2022-11-14 | 16 | - | 
 | 2022-11-13 | 16 | - | 
-| 2022-11-12 | 16 | - | 
 

@@ -1,6 +1,6 @@
 # juxt/jinx - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 89 | 10 | 
 | 2022-12-11 | 89 | 10 | 
 | 2022-12-10 | 89 | 10 | 
 | 2022-12-09 | 89 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 88 | 10 | 
 | 2022-11-14 | 88 | 10 | 
 | 2022-11-13 | 87 | 10 | 
-| 2022-11-12 | 87 | 10 | 
 

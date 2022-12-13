@@ -1,10 +1,10 @@
 # hugomd/parrot.live - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 130
 
-★ Stars: 2912
+★ Stars: 2915
 
 [Open repository](https://github.com/hugomd/parrot.live)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 2915 | 130 | 
 | 2022-12-11 | 2912 | 130 | 
 | 2022-12-10 | 2911 | 130 | 
 | 2022-12-09 | 2911 | 130 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 2890 | 128 | 
 | 2022-11-14 | 2887 | 128 | 
 | 2022-11-13 | 2884 | 128 | 
-| 2022-11-12 | 2884 | 127 | 
 

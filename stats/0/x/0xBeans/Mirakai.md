@@ -1,6 +1,6 @@
 # 0xBeans/Mirakai - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 22 | 10 | 
 | 2022-12-11 | 22 | 10 | 
 | 2022-12-09 | 22 | 10 | 
 | 2022-12-08 | 22 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 22 | 10 | 
 | 2022-11-15 | 21 | 9 | 
 | 2022-11-14 | 21 | 9 | 
-| 2022-11-12 | 21 | 9 | 
 

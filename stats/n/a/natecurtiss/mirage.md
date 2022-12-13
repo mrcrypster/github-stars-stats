@@ -1,10 +1,10 @@
 # natecurtiss/mirage - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 7
 
-★ Stars: 123
+★ Stars: 124
 
 [Open repository](https://github.com/natecurtiss/mirage)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 124 | 7 | 
 | 2022-12-11 | 123 | 7 | 
 | 2022-12-10 | 123 | 7 | 
 | 2022-12-09 | 123 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 122 | 7 | 
 | 2022-11-14 | 120 | 7 | 
 | 2022-11-13 | 119 | 7 | 
-| 2022-11-12 | 119 | 7 | 
 

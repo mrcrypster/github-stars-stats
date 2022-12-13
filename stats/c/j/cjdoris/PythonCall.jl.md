@@ -1,10 +1,10 @@
 # cjdoris/PythonCall.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 32
 
-★ Stars: 407
+★ Stars: 409
 
 [Open repository](https://github.com/cjdoris/PythonCall.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 409 | 32 | 
 | 2022-12-10 | 407 | 32 | 
 | 2022-12-09 | 405 | 32 | 
 | 2022-12-08 | 405 | 32 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 395 | 31 | 
 | 2022-11-14 | 395 | 31 | 
 | 2022-11-13 | 395 | 31 | 
-| 2022-11-12 | 395 | 31 | 
 

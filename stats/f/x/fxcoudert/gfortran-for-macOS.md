@@ -1,10 +1,10 @@
 # fxcoudert/gfortran-for-macOS - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 60
 
-★ Stars: 272
+★ Stars: 273
 
 [Open repository](https://github.com/fxcoudert/gfortran-for-macOS)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 273 | 60 | 
 | 2022-12-11 | 272 | 60 | 
 | 2022-12-10 | 272 | 60 | 
 | 2022-12-09 | 272 | 60 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 269 | 58 | 
 | 2022-11-14 | 269 | 58 | 
 | 2022-11-13 | 269 | 58 | 
-| 2022-11-12 | 268 | 58 | 
 

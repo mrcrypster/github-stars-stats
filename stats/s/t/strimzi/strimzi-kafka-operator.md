@@ -1,10 +1,10 @@
 # strimzi/strimzi-kafka-operator - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 1022
 
-★ Stars: 3592
+★ Stars: 3593
 
 [Open repository](https://github.com/strimzi/strimzi-kafka-operator)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 3593 | 1022 | 
 | 2022-12-11 | 3592 | 1022 | 
 | 2022-12-10 | 3591 | 1021 | 
 | 2022-12-09 | 3590 | 1020 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 3556 | 1014 | 
 | 2022-11-15 | 3550 | 1011 | 
 | 2022-11-14 | 3550 | 1011 | 
-| 2022-11-12 | 3549 | 1012 | 
 

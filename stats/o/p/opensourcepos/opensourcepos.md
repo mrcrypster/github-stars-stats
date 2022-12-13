@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 12
 
-☋ Forks: 1887
+☋ Forks: 1888
 
-★ Stars: 2695
+★ Stars: 2697
 
 [Open repository](https://github.com/opensourcepos/opensourcepos)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-12 | 2695 | 1887 | 
+| 2022-12-12 | 2697 | 1888 | 
 | 2022-12-10 | 2688 | 1884 | 
 | 2022-12-09 | 2687 | 1883 | 
 | 2022-12-08 | 2687 | 1883 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-15 | 2662 | 1877 | 
 | 2022-11-14 | 2659 | 1875 | 
 | 2022-11-13 | 2658 | 1874 | 
-| 2022-11-12 | 2654 | 1874 | 
 

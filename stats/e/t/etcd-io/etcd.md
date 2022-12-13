@@ -1,10 +1,10 @@
 # etcd-io/etcd - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
-☋ Forks: 8968
+☋ Forks: 8971
 
-★ Stars: 42075
+★ Stars: 42085
 
 [Open repository](https://github.com/etcd-io/etcd)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 42085 | 8971 | 
 | 2022-12-10 | 42075 | 8968 | 
 | 2022-12-09 | 42066 | 8966 | 
 | 2022-12-08 | 42056 | 8963 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 41807 | 8920 | 
 | 2022-11-14 | 41786 | 8916 | 
 | 2022-11-13 | 41775 | 8913 | 
-| 2022-11-12 | 41762 | 8910 | 
 

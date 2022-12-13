@@ -1,6 +1,6 @@
 # ziontee113/neo-minimap - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 102 | 3 | 
 | 2022-12-10 | 102 | 3 | 
 | 2022-12-09 | 101 | 3 | 
 | 2022-12-08 | 101 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-16 | 97 | 3 | 
 | 2022-11-15 | 97 | 3 | 
 | 2022-11-14 | 98 | 2 | 
-| 2022-11-12 | 96 | 2 | 
 

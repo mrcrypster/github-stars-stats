@@ -1,6 +1,6 @@
 # airbus-cert/ntTraceControl - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 68 | 8 | 
 | 2022-12-11 | 68 | 8 | 
 | 2022-12-10 | 68 | 8 | 
 | 2022-12-09 | 68 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 67 | 8 | 
 | 2022-11-14 | 67 | 8 | 
 | 2022-11-13 | 67 | 8 | 
-| 2022-11-12 | 67 | 8 | 
 

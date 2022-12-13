@@ -1,10 +1,10 @@
 # linyiLYi/pose-monitor - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
-☋ Forks: 219
+☋ Forks: 220
 
-★ Stars: 1731
+★ Stars: 1733
 
 [Open repository](https://github.com/linyiLYi/pose-monitor)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 1733 | 220 | 
 | 2022-12-10 | 1731 | 219 | 
 | 2022-12-09 | 1724 | 219 | 
 | 2022-12-08 | 1710 | 217 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 1268 | 152 | 
 | 2022-11-14 | 1207 | 147 | 
 | 2022-11-13 | 1160 | 142 | 
-| 2022-11-12 | 1134 | 141 | 
 

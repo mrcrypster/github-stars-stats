@@ -1,6 +1,6 @@
 # spl/ivy - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 15 | 1 | 
 | 2022-12-11 | 15 | 1 | 
 | 2022-12-10 | 15 | 1 | 
 | 2022-12-09 | 15 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 16 | 1 | 
 | 2022-11-15 | 16 | 1 | 
 | 2022-11-14 | 16 | 1 | 
-| 2022-11-12 | 16 | 1 | 
 

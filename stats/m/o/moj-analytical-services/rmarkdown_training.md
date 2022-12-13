@@ -1,6 +1,6 @@
 # moj-analytical-services/rmarkdown_training - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 7 | 1 | 
 | 2022-12-11 | 7 | 1 | 
 | 2022-12-10 | 7 | 1 | 
 | 2022-12-08 | 7 | 1 | 

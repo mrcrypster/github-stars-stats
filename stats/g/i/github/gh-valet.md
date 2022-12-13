@@ -1,10 +1,10 @@
 # github/gh-valet - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 33
 
-★ Stars: 493
+★ Stars: 494
 
 [Open repository](https://github.com/github/gh-valet)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 494 | 33 | 
 | 2022-12-11 | 493 | 33 | 
 | 2022-12-09 | 493 | 33 | 
 | 2022-12-08 | 493 | 33 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 489 | 32 | 
 | 2022-11-14 | 489 | 32 | 
 | 2022-11-13 | 487 | 33 | 
-| 2022-11-12 | 487 | 33 | 
 

@@ -1,8 +1,8 @@
 # QuantumXenon/origins-plus-plus - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
-☋ Forks: 4
+☋ Forks: 5
 
 ★ Stars: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 7 | 5 | 
 | 2022-12-11 | 7 | 4 | 
 | 2022-12-10 | 7 | 4 | 
 | 2022-12-08 | 7 | 4 | 

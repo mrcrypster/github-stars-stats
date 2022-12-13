@@ -1,10 +1,10 @@
 # udacity/nd9991-c2-Infrastructure-as-Code-v1 - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
-☋ Forks: 521
+☋ Forks: 522
 
-★ Stars: 168
+★ Stars: 169
 
 [Open repository](https://github.com/udacity/nd9991-c2-Infrastructure-as-Code-v1)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 169 | 522 | 
 | 2022-12-11 | 168 | 521 | 
 | 2022-12-10 | 168 | 521 | 
 | 2022-12-09 | 167 | 521 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 162 | 506 | 
 | 2022-11-14 | 162 | 505 | 
 | 2022-11-13 | 162 | 505 | 
-| 2022-11-12 | 162 | 505 | 
 

@@ -1,10 +1,10 @@
 # chetanverma16/react-portfolio-template - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 373
 
-★ Stars: 768
+★ Stars: 770
 
 [Open repository](https://github.com/chetanverma16/react-portfolio-template)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 770 | 373 | 
 | 2022-12-11 | 768 | 373 | 
 | 2022-12-09 | 768 | 373 | 
 | 2022-12-08 | 768 | 373 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 754 | 369 | 
 | 2022-11-14 | 751 | 368 | 
 | 2022-11-13 | 750 | 368 | 
-| 2022-11-12 | 749 | 368 | 
 

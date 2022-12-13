@@ -1,6 +1,6 @@
 # rubycdp/cuprite - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 71
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 1002 | 71 | 
 | 2022-12-11 | 1002 | 71 | 
 | 2022-12-10 | 1002 | 71 | 
 | 2022-12-09 | 1002 | 71 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 998 | 69 | 
 | 2022-11-14 | 998 | 69 | 
 | 2022-11-13 | 997 | 69 | 
-| 2022-11-12 | 997 | 69 | 
 

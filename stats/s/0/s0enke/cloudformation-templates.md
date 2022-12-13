@@ -1,6 +1,6 @@
 # s0enke/cloudformation-templates - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 86 | 42 | 
 | 2022-12-11 | 86 | 42 | 
 | 2022-12-10 | 86 | 42 | 
 | 2022-12-09 | 86 | 42 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 85 | 42 | 
 | 2022-11-14 | 85 | 42 | 
 | 2022-11-13 | 85 | 42 | 
-| 2022-11-12 | 85 | 42 | 
 

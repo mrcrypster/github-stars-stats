@@ -1,6 +1,6 @@
 # chatwork/dockerfiles - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 26 | 10 | 
 | 2022-12-11 | 26 | 10 | 
 | 2022-12-09 | 26 | 10 | 
 | 2022-12-08 | 26 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 24 | 10 | 
 | 2022-11-14 | 24 | 10 | 
 | 2022-11-13 | 23 | 10 | 
-| 2022-11-12 | 23 | 10 | 
 

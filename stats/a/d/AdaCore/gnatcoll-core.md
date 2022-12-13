@@ -1,6 +1,6 @@
 # AdaCore/gnatcoll-core - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 39 | 25 | 
 | 2022-12-10 | 39 | 25 | 
 | 2022-12-09 | 39 | 25 | 
 | 2022-12-08 | 39 | 25 | 

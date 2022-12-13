@@ -1,10 +1,10 @@
 # vercel/serve - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 704
 
-★ Stars: 8325
+★ Stars: 8326
 
 [Open repository](https://github.com/vercel/serve)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 8326 | 704 | 
 | 2022-12-10 | 8325 | 704 | 
 | 2022-12-09 | 8322 | 704 | 
 | 2022-12-08 | 8321 | 704 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 8256 | 703 | 
 | 2022-11-14 | 8256 | 703 | 
 | 2022-11-13 | 8253 | 702 | 
-| 2022-11-12 | 8252 | 702 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 12
 
-☋ Forks: 12
+☋ Forks: 13
 
-★ Stars: 17
+★ Stars: 20
 
 [Open repository](https://github.com/Th30neAnd0nly/TrackDown)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-12 | 17 | 12 | 
+| 2022-12-12 | 20 | 13 | 
 | 2022-12-11 | 17 | 12 | 
 | 2022-12-10 | 17 | 12 | 
 | 2022-12-09 | 17 | 11 | 

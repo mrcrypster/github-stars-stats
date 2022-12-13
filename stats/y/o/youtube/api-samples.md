@@ -1,10 +1,10 @@
 # youtube/api-samples - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
-☋ Forks: 2915
+☋ Forks: 2914
 
-★ Stars: 4663
+★ Stars: 4665
 
 [Open repository](https://github.com/youtube/api-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 4665 | 2914 | 
 | 2022-12-11 | 4663 | 2915 | 
 | 2022-12-09 | 4661 | 2913 | 
 | 2022-12-08 | 4659 | 2913 | 

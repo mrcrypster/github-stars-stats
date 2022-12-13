@@ -1,10 +1,10 @@
 # callstack/linaria - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 384
 
-★ Stars: 9932
+★ Stars: 9933
 
 [Open repository](https://github.com/callstack/linaria)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 9933 | 384 | 
 | 2022-12-11 | 9932 | 384 | 
 | 2022-12-09 | 9932 | 384 | 
 | 2022-12-08 | 9926 | 382 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 9836 | 375 | 
 | 2022-11-14 | 9833 | 375 | 
 | 2022-11-13 | 9830 | 375 | 
-| 2022-11-12 | 9826 | 375 | 
 

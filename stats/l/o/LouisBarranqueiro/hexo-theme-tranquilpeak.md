@@ -1,6 +1,6 @@
 # LouisBarranqueiro/hexo-theme-tranquilpeak - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 488
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 1783 | 488 | 
 | 2022-12-11 | 1783 | 488 | 
 | 2022-12-09 | 1783 | 488 | 
 | 2022-12-08 | 1783 | 488 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 1782 | 488 | 
 | 2022-11-15 | 1780 | 488 | 
 | 2022-11-14 | 1781 | 488 | 
-| 2022-11-13 | 1780 | 488 | 
 

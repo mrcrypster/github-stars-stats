@@ -1,6 +1,6 @@
 # engindemirog/NorthwindWithCleanArchitecture - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 102 | 7 | 
 | 2022-12-10 | 102 | 7 | 
 | 2022-12-09 | 102 | 7 | 
 | 2022-12-08 | 102 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-16 | 102 | 7 | 
 | 2022-11-15 | 102 | 7 | 
 | 2022-11-14 | 102 | 7 | 
-| 2022-11-13 | 103 | 7 | 
 

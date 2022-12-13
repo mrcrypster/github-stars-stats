@@ -1,10 +1,10 @@
 # dotnet/wpf - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 984
 
-★ Stars: 6036
+★ Stars: 6035
 
 [Open repository](https://github.com/dotnet/wpf)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 6035 | 984 | 
 | 2022-12-11 | 6036 | 984 | 
 | 2022-12-10 | 6037 | 983 | 
 | 2022-12-08 | 6036 | 982 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 6014 | 974 | 
 | 2022-11-15 | 6014 | 974 | 
 | 2022-11-14 | 6013 | 973 | 
-| 2022-11-12 | 6010 | 973 | 
 

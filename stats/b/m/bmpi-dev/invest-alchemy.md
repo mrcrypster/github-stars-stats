@@ -1,10 +1,10 @@
 # bmpi-dev/invest-alchemy - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 65
 
-★ Stars: 456
+★ Stars: 458
 
 [Open repository](https://github.com/bmpi-dev/invest-alchemy)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 458 | 65 | 
 | 2022-12-11 | 456 | 65 | 
 | 2022-12-10 | 456 | 65 | 
 | 2022-12-08 | 456 | 65 | 

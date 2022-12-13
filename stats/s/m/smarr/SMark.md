@@ -1,6 +1,6 @@
 # smarr/SMark - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 12 | 5 | 
 | 2022-12-11 | 12 | 5 | 
 | 2022-12-10 | 12 | 5 | 
 | 2022-12-08 | 12 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 11 | 5 | 
 | 2022-11-15 | 11 | 5 | 
 | 2022-11-14 | 11 | 5 | 
-| 2022-11-12 | 11 | 5 | 
 

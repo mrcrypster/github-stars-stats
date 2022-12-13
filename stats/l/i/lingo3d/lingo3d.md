@@ -1,6 +1,6 @@
 # lingo3d/lingo3d - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 280
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 2196 | 280 | 
 | 2022-12-11 | 2196 | 280 | 
 | 2022-12-10 | 2196 | 280 | 
 | 2022-12-09 | 2195 | 280 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 2182 | 278 | 
 | 2022-11-14 | 2181 | 278 | 
 | 2022-11-13 | 2180 | 278 | 
-| 2022-11-12 | 2180 | 278 | 
 

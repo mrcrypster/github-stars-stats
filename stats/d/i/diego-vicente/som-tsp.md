@@ -1,10 +1,10 @@
 # diego-vicente/som-tsp - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
-☋ Forks: 483
+☋ Forks: 485
 
-★ Stars: 3059
+★ Stars: 3068
 
 [Open repository](https://github.com/diego-vicente/som-tsp)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 3068 | 485 | 
 | 2022-12-11 | 3059 | 483 | 
 | 2022-12-10 | 3058 | 483 | 
 | 2022-12-08 | 3054 | 482 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 3052 | 482 | 
 | 2022-11-15 | 3052 | 482 | 
 | 2022-11-13 | 3051 | 482 | 
-| 2022-11-12 | 3048 | 482 | 
 

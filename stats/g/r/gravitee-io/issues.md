@@ -1,6 +1,6 @@
 # gravitee-io/issues - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 66 | 25 | 
 | 2022-12-11 | 66 | 25 | 
 | 2022-12-10 | 66 | 25 | 
 | 2022-12-09 | 66 | 25 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 64 | 25 | 
 | 2022-11-14 | 64 | 25 | 
 | 2022-11-13 | 64 | 25 | 
-| 2022-11-12 | 64 | 25 | 
 

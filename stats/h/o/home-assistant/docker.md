@@ -1,6 +1,6 @@
 # home-assistant/docker - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 109 | 50 | 
 | 2022-12-10 | 109 | 50 | 
 | 2022-12-09 | 109 | 50 | 
 | 2022-12-08 | 108 | 50 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 104 | 51 | 
 | 2022-11-14 | 104 | 51 | 
 | 2022-11-13 | 104 | 50 | 
-| 2022-11-12 | 103 | 50 | 
 

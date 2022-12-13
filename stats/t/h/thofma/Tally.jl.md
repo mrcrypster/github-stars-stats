@@ -1,10 +1,10 @@
 # thofma/Tally.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 1
 
-★ Stars: 16
+★ Stars: 18
 
 [Open repository](https://github.com/thofma/Tally.jl)
 
@@ -13,5 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 18 | 1 | 
+| 2022-12-12 | 18 | 1 | 
 | 2022-12-11 | 16 | 1 | 
 

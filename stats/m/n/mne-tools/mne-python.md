@@ -1,8 +1,8 @@
 # mne-tools/mne-python - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
-☋ Forks: 1137
+☋ Forks: 1138
 
 ★ Stars: 2083
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 2083 | 1138 | 
 | 2022-12-10 | 2083 | 1137 | 
 | 2022-12-09 | 2082 | 1137 | 
 | 2022-12-08 | 2080 | 1137 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 2058 | 1133 | 
 | 2022-11-14 | 2058 | 1133 | 
 | 2022-11-13 | 2058 | 1133 | 
-| 2022-11-12 | 2058 | 1133 | 
 

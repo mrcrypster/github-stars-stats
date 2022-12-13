@@ -1,6 +1,6 @@
 # imran-parray/Mind-Maps - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 327
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 1204 | 327 | 
 | 2022-12-11 | 1204 | 327 | 
 | 2022-12-10 | 1204 | 327 | 
 | 2022-12-08 | 1202 | 327 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 1188 | 325 | 
 | 2022-11-15 | 1188 | 324 | 
 | 2022-11-14 | 1188 | 323 | 
-| 2022-11-13 | 1187 | 323 | 
 

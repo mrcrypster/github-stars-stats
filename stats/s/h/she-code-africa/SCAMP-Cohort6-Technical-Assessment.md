@@ -1,6 +1,6 @@
 # she-code-africa/SCAMP-Cohort6-Technical-Assessment - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 94
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 32 | 94 | 
 | 2022-12-11 | 32 | 94 | 
 | 2022-12-10 | 32 | 94 | 
 | 2022-12-09 | 32 | 94 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 32 | 95 | 
 | 2022-11-14 | 32 | 95 | 
 | 2022-11-13 | 32 | 95 | 
-| 2022-11-12 | 32 | 95 | 
 

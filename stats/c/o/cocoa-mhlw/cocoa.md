@@ -1,10 +1,10 @@
 # cocoa-mhlw/cocoa - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 114
 
-★ Stars: 972
+★ Stars: 973
 
 [Open repository](https://github.com/cocoa-mhlw/cocoa)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 973 | 114 | 
 | 2022-12-11 | 972 | 114 | 
 | 2022-12-10 | 972 | 114 | 
 | 2022-12-09 | 971 | 114 | 

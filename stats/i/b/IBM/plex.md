@@ -1,10 +1,10 @@
 # IBM/plex - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 529
 
-★ Stars: 8234
+★ Stars: 8235
 
 [Open repository](https://github.com/IBM/plex)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 8235 | 529 | 
 | 2022-12-11 | 8234 | 529 | 
 | 2022-12-09 | 8234 | 529 | 
 | 2022-12-08 | 8232 | 529 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 8185 | 526 | 
 | 2022-11-14 | 8181 | 526 | 
 | 2022-11-13 | 8179 | 526 | 
-| 2022-11-12 | 8177 | 526 | 
 

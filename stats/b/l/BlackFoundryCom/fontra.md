@@ -1,8 +1,8 @@
 # BlackFoundryCom/fontra - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
-☋ Forks: 10
+☋ Forks: 9
 
 ★ Stars: 107
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 107 | 9 | 
 | 2022-12-11 | 107 | 10 | 
 | 2022-12-10 | 106 | 10 | 
 | 2022-12-09 | 106 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 91 | 8 | 
 | 2022-11-14 | 91 | 8 | 
 | 2022-11-13 | 91 | 8 | 
-| 2022-11-12 | 91 | 8 | 
 

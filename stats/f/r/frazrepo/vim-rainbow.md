@@ -1,6 +1,6 @@
 # frazrepo/vim-rainbow - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 228 | 30 | 
 | 2022-12-11 | 228 | 30 | 
 | 2022-12-10 | 228 | 30 | 
 | 2022-12-09 | 228 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 226 | 29 | 
 | 2022-11-14 | 226 | 29 | 
 | 2022-11-13 | 226 | 29 | 
-| 2022-11-12 | 225 | 29 | 
 

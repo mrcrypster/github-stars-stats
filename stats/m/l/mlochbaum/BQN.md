@@ -1,6 +1,6 @@
 # mlochbaum/BQN - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 528 | 44 | 
 | 2022-12-11 | 528 | 44 | 
 | 2022-12-10 | 528 | 43 | 
 | 2022-12-09 | 525 | 43 | 

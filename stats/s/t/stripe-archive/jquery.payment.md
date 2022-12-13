@@ -1,6 +1,6 @@
 # stripe-archive/jquery.payment - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 710
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 3556 | 710 | 
 | 2022-12-11 | 3556 | 710 | 
 | 2022-12-10 | 3556 | 710 | 
 | 2022-12-08 | 3556 | 710 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 3558 | 707 | 
 | 2022-11-14 | 3558 | 707 | 
 | 2022-11-13 | 3559 | 707 | 
-| 2022-11-12 | 3560 | 707 | 
 

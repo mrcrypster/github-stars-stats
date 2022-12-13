@@ -1,10 +1,10 @@
 # Comfy-Themes/Spicetify - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
-☋ Forks: 21
+☋ Forks: 22
 
-★ Stars: 319
+★ Stars: 320
 
 [Open repository](https://github.com/Comfy-Themes/Spicetify)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 320 | 22 | 
 | 2022-12-11 | 319 | 21 | 
 | 2022-12-10 | 319 | 21 | 
 | 2022-12-09 | 318 | 21 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 308 | 22 | 
 | 2022-11-14 | 308 | 22 | 
 | 2022-11-13 | 308 | 22 | 
-| 2022-11-12 | 307 | 22 | 
 

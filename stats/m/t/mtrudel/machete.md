@@ -1,10 +1,10 @@
 # mtrudel/machete - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 1
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/mtrudel/machete)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 30 | 1 | 
 | 2022-12-11 | 29 | 1 | 
 | 2022-12-10 | 29 | 1 | 
 | 2022-12-09 | 29 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 25 | 1 | 
 | 2022-11-14 | 25 | 1 | 
 | 2022-11-13 | 25 | 1 | 
-| 2022-11-12 | 25 | 1 | 
 

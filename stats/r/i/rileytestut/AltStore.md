@@ -1,10 +1,10 @@
 # rileytestut/AltStore - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
-☋ Forks: 577
+☋ Forks: 578
 
-★ Stars: 8093
+★ Stars: 8102
 
 [Open repository](https://github.com/rileytestut/AltStore)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 8102 | 578 | 
 | 2022-12-11 | 8093 | 577 | 
 | 2022-12-10 | 8090 | 577 | 
 | 2022-12-09 | 8083 | 577 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 7993 | 568 | 
 | 2022-11-14 | 7983 | 565 | 
 | 2022-11-13 | 7982 | 563 | 
-| 2022-11-12 | 7977 | 563 | 
 

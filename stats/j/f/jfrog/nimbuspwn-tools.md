@@ -1,10 +1,10 @@
 # jfrog/nimbuspwn-tools - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 14
 
-★ Stars: 64
+★ Stars: 63
 
 [Open repository](https://github.com/jfrog/nimbuspwn-tools)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 63 | 14 | 
 | 2022-12-11 | 64 | 14 | 
 | 2022-12-09 | 64 | 14 | 
 | 2022-12-08 | 64 | 14 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 64 | 14 | 
 | 2022-11-15 | 64 | 14 | 
 | 2022-11-14 | 64 | 14 | 
-| 2022-11-13 | 64 | 14 | 
 

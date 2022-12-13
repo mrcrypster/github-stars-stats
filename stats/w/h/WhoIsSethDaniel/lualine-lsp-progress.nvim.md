@@ -1,6 +1,6 @@
 # WhoIsSethDaniel/lualine-lsp-progress.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 46 | - | 
 | 2022-12-11 | 46 | - | 
 | 2022-12-10 | 46 | - | 
 | 2022-12-08 | 46 | - | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 42 | - | 
 | 2022-11-14 | 41 | - | 
 | 2022-11-13 | 41 | - | 
-| 2022-11-12 | 41 | - | 
 

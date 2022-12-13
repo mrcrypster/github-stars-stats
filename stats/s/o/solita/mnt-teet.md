@@ -1,6 +1,6 @@
 # solita/mnt-teet - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 6 | 1 | 
 | 2022-12-11 | 6 | 1 | 
 | 2022-12-10 | 6 | 1 | 
 | 2022-12-09 | 6 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 6 | 1 | 
 | 2022-11-14 | 6 | 1 | 
 | 2022-11-13 | 6 | 1 | 
-| 2022-11-12 | 6 | 1 | 
 

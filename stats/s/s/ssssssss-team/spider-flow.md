@@ -1,10 +1,10 @@
 # ssssssss-team/spider-flow - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 1438
 
-★ Stars: 7508
+★ Stars: 7517
 
 [Open repository](https://github.com/ssssssss-team/spider-flow)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 7517 | 1438 | 
 | 2022-12-11 | 7508 | 1438 | 
 | 2022-12-10 | 7506 | 1438 | 
 | 2022-12-09 | 7503 | 1438 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 7416 | 1411 | 
 | 2022-11-14 | 7411 | 1407 | 
 | 2022-11-13 | 7408 | 1408 | 
-| 2022-11-12 | 7406 | 1407 | 
 

@@ -1,6 +1,6 @@
 # tryber/herocker-exercise-frontend - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 160
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 4 | 160 | 
 | 2022-12-11 | 4 | 160 | 
 | 2022-12-10 | 4 | 161 | 
 | 2022-12-09 | 4 | 161 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 4 | 162 | 
 | 2022-11-14 | 3 | 163 | 
 | 2022-11-13 | 3 | 163 | 
-| 2022-11-12 | 3 | 163 | 
 

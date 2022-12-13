@@ -1,8 +1,8 @@
 # movabletype/movabletype - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
-☋ Forks: 110
+☋ Forks: 111
 
 ★ Stars: 385
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 385 | 111 | 
 | 2022-12-11 | 385 | 110 | 
 | 2022-12-10 | 385 | 110 | 
 | 2022-12-09 | 385 | 110 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 385 | 110 | 
 | 2022-11-14 | 385 | 110 | 
 | 2022-11-13 | 385 | 110 | 
-| 2022-11-12 | 385 | 110 | 
 

@@ -1,6 +1,6 @@
 # Sequel-Ace/Sequel-Ace - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 193
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 5142 | 193 | 
 | 2022-12-10 | 5142 | 193 | 
 | 2022-12-09 | 5139 | 193 | 
 | 2022-12-08 | 5139 | 193 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 5073 | 194 | 
 | 2022-11-14 | 5072 | 194 | 
 | 2022-11-13 | 5071 | 193 | 
-| 2022-11-12 | 5069 | 193 | 
 

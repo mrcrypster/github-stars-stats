@@ -1,6 +1,6 @@
 # wdavew/org-excalidraw - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 50 | 3 | 
 | 2022-12-11 | 50 | 3 | 
 | 2022-12-09 | 50 | 3 | 
 | 2022-12-08 | 50 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 49 | 2 | 
 | 2022-11-15 | 49 | 2 | 
 | 2022-11-14 | 49 | 2 | 
-| 2022-11-12 | 49 | 2 | 
 

@@ -1,6 +1,6 @@
 # status-im/nim-presto - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 15 | 5 | 
 | 2022-12-11 | 15 | 5 | 
 | 2022-12-10 | 15 | 5 | 
 | 2022-12-09 | 15 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 11 | 5 | 
 | 2022-11-15 | 11 | 5 | 
 | 2022-11-14 | 11 | 5 | 
-| 2022-11-13 | 11 | 5 | 
 

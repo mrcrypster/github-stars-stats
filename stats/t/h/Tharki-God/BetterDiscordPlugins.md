@@ -1,8 +1,8 @@
 # Tharki-God/BetterDiscordPlugins - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
-☋ Forks: 161
+☋ Forks: 160
 
 ★ Stars: 253
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 253 | 160 | 
 | 2022-12-11 | 253 | 161 | 
 | 2022-12-09 | 251 | 161 | 
 | 2022-12-08 | 249 | 159 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 217 | 136 | 
 | 2022-11-15 | 213 | 135 | 
 | 2022-11-14 | 214 | 134 | 
-| 2022-11-12 | 213 | 133 | 
 

@@ -1,10 +1,10 @@
 # podium/elixir-secure-coding - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 70
 
-★ Stars: 419
+★ Stars: 422
 
 [Open repository](https://github.com/podium/elixir-secure-coding)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 422 | 70 | 
 | 2022-12-11 | 419 | 70 | 
 | 2022-12-10 | 417 | 69 | 
 | 2022-12-09 | 414 | 68 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 378 | 54 | 
 | 2022-11-14 | 376 | 54 | 
 | 2022-11-13 | 376 | 54 | 
-| 2022-11-12 | 375 | 53 | 
 

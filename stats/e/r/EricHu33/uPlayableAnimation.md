@@ -1,6 +1,6 @@
 # EricHu33/uPlayableAnimation - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 45 | 3 | 
 | 2022-12-11 | 45 | 3 | 
 | 2022-12-10 | 44 | 3 | 
 | 2022-12-09 | 44 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 41 | 2 | 
 | 2022-11-14 | 41 | 2 | 
 | 2022-11-13 | 41 | 2 | 
-| 2022-11-12 | 38 | 2 | 
 

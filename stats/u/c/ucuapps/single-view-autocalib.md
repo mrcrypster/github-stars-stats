@@ -1,6 +1,6 @@
 # ucuapps/single-view-autocalib - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 24 | 8 | 
 | 2022-12-11 | 24 | 8 | 
 | 2022-12-09 | 24 | 8 | 
 | 2022-12-08 | 24 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 24 | 8 | 
 | 2022-11-15 | 24 | 8 | 
 | 2022-11-14 | 24 | 8 | 
-| 2022-11-12 | 24 | 8 | 
 

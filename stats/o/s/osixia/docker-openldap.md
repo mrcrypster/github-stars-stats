@@ -1,8 +1,8 @@
 # osixia/docker-openldap - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
-☋ Forks: 916
+☋ Forks: 915
 
 ★ Stars: 3574
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 3574 | 915 | 
 | 2022-12-10 | 3574 | 916 | 
 | 2022-12-09 | 3571 | 916 | 
 | 2022-12-08 | 3569 | 916 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 3554 | 912 | 
 | 2022-11-14 | 3553 | 911 | 
 | 2022-11-13 | 3554 | 911 | 
-| 2022-11-12 | 3553 | 909 | 
 

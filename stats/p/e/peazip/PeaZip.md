@@ -1,10 +1,10 @@
 # peazip/PeaZip - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 157
 
-★ Stars: 2313
+★ Stars: 2314
 
 [Open repository](https://github.com/peazip/PeaZip)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 2314 | 157 | 
 | 2022-12-11 | 2313 | 157 | 
 | 2022-12-10 | 2310 | 157 | 
 | 2022-12-09 | 2307 | 156 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 2252 | 153 | 
 | 2022-11-14 | 2254 | 152 | 
 | 2022-11-13 | 2252 | 152 | 
-| 2022-11-12 | 2249 | 152 | 
 

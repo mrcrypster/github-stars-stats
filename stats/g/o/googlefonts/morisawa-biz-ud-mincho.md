@@ -1,6 +1,6 @@
 # googlefonts/morisawa-biz-ud-mincho - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 405 | 10 | 
 | 2022-12-11 | 405 | 10 | 
 | 2022-12-10 | 404 | 10 | 
 | 2022-12-09 | 403 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 398 | 9 | 
 | 2022-11-14 | 396 | 9 | 
 | 2022-11-13 | 396 | 9 | 
-| 2022-11-12 | 396 | 9 | 
 

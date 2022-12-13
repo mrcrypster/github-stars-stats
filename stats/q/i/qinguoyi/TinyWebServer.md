@@ -1,10 +1,10 @@
 # qinguoyi/TinyWebServer - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
-☋ Forks: 2506
+☋ Forks: 2510
 
-★ Stars: 8859
+★ Stars: 8866
 
 [Open repository](https://github.com/qinguoyi/TinyWebServer)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 8866 | 2510 | 
 | 2022-12-11 | 8859 | 2506 | 
 | 2022-12-09 | 8855 | 2503 | 
 | 2022-12-08 | 8842 | 2502 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 8645 | 2452 | 
 | 2022-11-14 | 8642 | 2452 | 
 | 2022-11-13 | 8630 | 2449 | 
-| 2022-11-12 | 8619 | 2447 | 
 

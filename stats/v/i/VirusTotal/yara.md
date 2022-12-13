@@ -1,6 +1,6 @@
 # VirusTotal/yara - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 1272
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 6229 | 1272 | 
 | 2022-12-10 | 6229 | 1272 | 
 | 2022-12-09 | 6223 | 1273 | 
 | 2022-12-08 | 6220 | 1273 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 6144 | 1258 | 
 | 2022-11-14 | 6140 | 1257 | 
 | 2022-11-13 | 6138 | 1257 | 
-| 2022-11-12 | 6133 | 1257 | 
 

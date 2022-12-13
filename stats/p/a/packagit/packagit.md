@@ -1,10 +1,10 @@
 # packagit/packagit - stars & forks statistics
 
-Stats updated on Dec 2022, 10
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 16
 
-★ Stars: 363
+★ Stars: 364
 
 [Open repository](https://github.com/packagit/packagit)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 364 | 16 | 
 | 2022-12-10 | 363 | 16 | 
 | 2022-12-09 | 363 | 16 | 
 | 2022-12-08 | 363 | 16 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 10
 | 2022-11-15 | 363 | 16 | 
 | 2022-11-14 | 363 | 16 | 
 | 2022-11-13 | 363 | 16 | 
-| 2022-11-12 | 363 | 16 | 
 

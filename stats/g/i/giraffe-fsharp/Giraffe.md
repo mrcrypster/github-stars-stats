@@ -1,10 +1,10 @@
 # giraffe-fsharp/Giraffe - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 12
 
 ☋ Forks: 240
 
-★ Stars: 1845
+★ Stars: 1846
 
 [Open repository](https://github.com/giraffe-fsharp/Giraffe)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-12 | 1846 | 240 | 
 | 2022-12-11 | 1845 | 240 | 
 | 2022-12-10 | 1844 | 240 | 
 | 2022-12-09 | 1843 | 240 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-15 | 1833 | 236 | 
 | 2022-11-14 | 1833 | 236 | 
 | 2022-11-13 | 1833 | 236 | 
-| 2022-11-12 | 1833 | 236 | 
 
