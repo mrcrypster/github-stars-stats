@@ -1,6 +1,6 @@
 # oshi/oshi - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 770
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 3488 | 770 | 
 | 2022-12-12 | 3488 | 770 | 
 | 2022-12-11 | 3488 | 769 | 
 | 2022-12-10 | 3488 | 769 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 3455 | 764 | 
 | 2022-11-15 | 3455 | 764 | 
 | 2022-11-14 | 3453 | 763 | 
-| 2022-11-13 | 3453 | 762 | 
 

@@ -1,6 +1,6 @@
 # LPCIC/elpi - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 208 | 26 | 
 | 2022-12-12 | 208 | 26 | 
 | 2022-12-11 | 208 | 26 | 
 | 2022-12-10 | 208 | 26 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 205 | 26 | 
 | 2022-11-15 | 205 | 26 | 
 | 2022-11-14 | 204 | 26 | 
-| 2022-11-13 | 204 | 26 | 
 

@@ -1,10 +1,10 @@
 # ProtonMail/proton-mail-android - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
-☋ Forks: 147
+☋ Forks: 148
 
-★ Stars: 1323
+★ Stars: 1324
 
 [Open repository](https://github.com/ProtonMail/proton-mail-android)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 1324 | 148 | 
 | 2022-12-11 | 1323 | 147 | 
 | 2022-12-10 | 1323 | 147 | 
 | 2022-12-09 | 1324 | 147 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 1315 | 147 | 
 | 2022-11-15 | 1316 | 147 | 
 | 2022-11-14 | 1315 | 147 | 
-| 2022-11-13 | 1314 | 147 | 
 

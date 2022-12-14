@@ -1,6 +1,6 @@
 # marktoda/forge-gas-snapshot - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 22 | 1 | 
 | 2022-12-12 | 22 | 1 | 
 | 2022-12-11 | 21 | 1 | 
 | 2022-12-10 | 21 | 1 | 

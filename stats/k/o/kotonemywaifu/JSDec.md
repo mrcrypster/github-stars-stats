@@ -1,6 +1,6 @@
 # kotonemywaifu/JSDec - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 107
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 210 | 107 | 
 | 2022-12-11 | 210 | 107 | 
 | 2022-12-10 | 210 | 106 | 
 | 2022-12-09 | 210 | 106 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 207 | 105 | 
 | 2022-11-15 | 207 | 105 | 
 | 2022-11-14 | 207 | 105 | 
-| 2022-11-13 | 206 | 105 | 
 

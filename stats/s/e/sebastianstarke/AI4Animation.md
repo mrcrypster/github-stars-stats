@@ -1,10 +1,10 @@
 # sebastianstarke/AI4Animation - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 822
 
-★ Stars: 5516
+★ Stars: 5518
 
 [Open repository](https://github.com/sebastianstarke/AI4Animation)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 5518 | 822 | 
 | 2022-12-12 | 5516 | 822 | 
 | 2022-12-11 | 5511 | 821 | 
 | 2022-12-10 | 5509 | 821 | 

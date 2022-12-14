@@ -1,10 +1,10 @@
 # aarneranta/chalmers-advanced-python - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
-☋ Forks: 59
+☋ Forks: 61
 
-★ Stars: 40
+★ Stars: 41
 
 [Open repository](https://github.com/aarneranta/chalmers-advanced-python)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 41 | 61 | 
 | 2022-12-12 | 40 | 59 | 
 | 2022-12-11 | 40 | 59 | 
 | 2022-12-09 | 40 | 59 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 36 | 39 | 
 | 2022-11-15 | 35 | 36 | 
 | 2022-11-14 | 33 | 34 | 
-| 2022-11-13 | 33 | 34 | 
 

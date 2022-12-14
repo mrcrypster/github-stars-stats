@@ -1,10 +1,10 @@
 # pulp-platform/apb_timer - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 19
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/pulp-platform/apb_timer)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 7 | 19 | 
 | 2022-12-12 | 6 | 19 | 
 | 2022-12-11 | 6 | 19 | 
 | 2022-12-10 | 6 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 6 | 19 | 
 | 2022-11-15 | 6 | 19 | 
 | 2022-11-14 | 6 | 19 | 
-| 2022-11-13 | 6 | 19 | 
 

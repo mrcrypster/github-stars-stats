@@ -1,6 +1,6 @@
 # ethan-leba/tree-edit - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 301 | 15 | 
 | 2022-12-12 | 301 | 15 | 
 | 2022-12-11 | 301 | 15 | 
 | 2022-12-09 | 300 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 287 | 15 | 
 | 2022-11-15 | 287 | 15 | 
 | 2022-11-14 | 286 | 15 | 
-| 2022-11-13 | 285 | 15 | 
 

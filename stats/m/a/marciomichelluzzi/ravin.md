@@ -1,6 +1,6 @@
 # marciomichelluzzi/ravin - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 3 | 18 | 
 | 2022-12-12 | 3 | 18 | 
 | 2022-12-10 | 3 | 18 | 
 | 2022-12-09 | 3 | 18 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 2 | 19 | 
 | 2022-11-15 | 1 | 19 | 
 | 2022-11-14 | 1 | 19 | 
-| 2022-11-13 | 1 | 19 | 
 

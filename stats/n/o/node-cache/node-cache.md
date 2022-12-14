@@ -1,6 +1,6 @@
 # node-cache/node-cache - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 130
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 1893 | 130 | 
 | 2022-12-11 | 1893 | 130 | 
 | 2022-12-10 | 1891 | 130 | 
 | 2022-12-09 | 1888 | 130 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 1874 | 130 | 
 | 2022-11-15 | 1872 | 130 | 
 | 2022-11-14 | 1872 | 130 | 
-| 2022-11-13 | 1871 | 130 | 
 

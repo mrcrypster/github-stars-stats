@@ -1,6 +1,6 @@
 # Xilinx/XilinxTclStore - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 178
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 278 | 178 | 
 | 2022-12-12 | 278 | 178 | 
 | 2022-12-11 | 278 | 178 | 
 | 2022-12-10 | 278 | 178 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 278 | 178 | 
 | 2022-11-15 | 278 | 178 | 
 | 2022-11-14 | 278 | 178 | 
-| 2022-11-13 | 278 | 178 | 
 

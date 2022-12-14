@@ -1,10 +1,10 @@
 # vjeux/video-editor - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
-☋ Forks: 5
+☋ Forks: 6
 
-★ Stars: 88
+★ Stars: 93
 
 [Open repository](https://github.com/vjeux/video-editor)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 93 | 6 | 
 | 2022-12-11 | 88 | 5 | 
 | 2022-12-10 | 87 | 5 | 
 | 2022-12-09 | 86 | 5 | 

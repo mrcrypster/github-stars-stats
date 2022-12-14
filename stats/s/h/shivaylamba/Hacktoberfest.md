@@ -1,8 +1,8 @@
 # shivaylamba/Hacktoberfest - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
-☋ Forks: 1679
+☋ Forks: 1678
 
 ★ Stars: 204
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 204 | 1678 | 
 | 2022-12-12 | 204 | 1679 | 
 | 2022-12-11 | 204 | 1679 | 
 | 2022-12-10 | 204 | 1680 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 205 | 1687 | 
 | 2022-11-16 | 205 | 1687 | 
 | 2022-11-15 | 205 | 1689 | 
-| 2022-11-14 | 205 | 1691 | 
 

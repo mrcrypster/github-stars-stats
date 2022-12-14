@@ -1,6 +1,6 @@
 # m15a/nixpkgs-vim-extra-plugins - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 20 | 8 | 
 | 2022-12-12 | 20 | 8 | 
 | 2022-12-10 | 20 | 8 | 
 | 2022-12-09 | 20 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 20 | 8 | 
 | 2022-11-15 | 20 | 8 | 
 | 2022-11-14 | 21 | 8 | 
-| 2022-11-13 | 20 | 8 | 
 

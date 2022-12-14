@@ -1,6 +1,6 @@
 # ForsenPlace/Script - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 30 | 17 | 
 | 2022-12-12 | 30 | 17 | 
 | 2022-12-11 | 30 | 17 | 
 | 2022-12-10 | 30 | 17 | 

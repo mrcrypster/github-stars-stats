@@ -1,10 +1,10 @@
 # devopsacademyau/academy - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
-☋ Forks: 217
+☋ Forks: 218
 
-★ Stars: 200
+★ Stars: 201
 
 [Open repository](https://github.com/devopsacademyau/academy)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 201 | 218 | 
 | 2022-12-12 | 200 | 217 | 
 | 2022-12-10 | 196 | 212 | 
 | 2022-12-09 | 195 | 212 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 186 | 203 | 
 | 2022-11-15 | 185 | 203 | 
 | 2022-11-14 | 183 | 199 | 
-| 2022-11-13 | 183 | 199 | 
 

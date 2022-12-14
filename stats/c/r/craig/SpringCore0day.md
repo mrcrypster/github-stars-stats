@@ -1,8 +1,8 @@
 # craig/SpringCore0day - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
-☋ Forks: 182
+☋ Forks: 183
 
 ★ Stars: 391
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 391 | 183 | 
 | 2022-12-12 | 391 | 182 | 
 | 2022-12-11 | 391 | 182 | 
 | 2022-12-10 | 391 | 182 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 387 | 183 | 
 | 2022-11-15 | 387 | 183 | 
 | 2022-11-14 | 387 | 183 | 
-| 2022-11-13 | 387 | 183 | 
 

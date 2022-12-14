@@ -1,6 +1,6 @@
 # WOA-Project/SurfaceDuo-Drivers - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 87 | 12 | 
 | 2022-12-12 | 87 | 12 | 
 | 2022-12-11 | 87 | 12 | 
 | 2022-12-10 | 87 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 70 | 8 | 
 | 2022-11-16 | 70 | 8 | 
 | 2022-11-15 | 70 | 9 | 
-| 2022-11-14 | 70 | 8 | 
 

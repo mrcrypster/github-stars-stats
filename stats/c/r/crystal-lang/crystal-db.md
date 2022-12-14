@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 13
 
 ☋ Forks: 45
 
-★ Stars: 259
+★ Stars: 260
 
 [Open repository](https://github.com/crystal-lang/crystal-db)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-13 | 259 | 45 | 
+| 2022-12-13 | 260 | 45 | 
 | 2022-12-12 | 259 | 45 | 
 | 2022-12-11 | 259 | 45 | 
 | 2022-12-10 | 259 | 45 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 257 | 44 | 
 | 2022-11-16 | 257 | 44 | 
 | 2022-11-15 | 256 | 44 | 
-| 2022-11-13 | 256 | 44 | 
 

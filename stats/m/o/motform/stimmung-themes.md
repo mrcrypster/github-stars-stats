@@ -1,6 +1,6 @@
 # motform/stimmung-themes - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 84 | 8 | 
 | 2022-12-11 | 84 | 8 | 
 | 2022-12-10 | 84 | 8 | 
 | 2022-12-09 | 83 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 82 | 8 | 
 | 2022-11-15 | 82 | 8 | 
 | 2022-11-14 | 81 | 8 | 
-| 2022-11-13 | 81 | 8 | 
 

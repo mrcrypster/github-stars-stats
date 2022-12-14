@@ -1,10 +1,10 @@
 # gabriel-sztejnworcel/pipe-intercept - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 15
 
-★ Stars: 143
+★ Stars: 144
 
 [Open repository](https://github.com/gabriel-sztejnworcel/pipe-intercept)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 144 | 15 | 
 | 2022-12-12 | 143 | 15 | 
 | 2022-12-10 | 143 | 15 | 
 | 2022-12-09 | 143 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 143 | 15 | 
 | 2022-11-15 | 143 | 15 | 
 | 2022-11-14 | 143 | 15 | 
-| 2022-11-13 | 143 | 15 | 
 

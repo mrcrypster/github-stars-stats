@@ -1,6 +1,6 @@
 # notweuz/FNF-OSEngine - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 120
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 48 | 120 | 
 | 2022-12-12 | 48 | 120 | 
 | 2022-12-11 | 48 | 120 | 
 | 2022-12-10 | 48 | 120 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 47 | 111 | 
 | 2022-11-15 | 47 | 109 | 
 | 2022-11-14 | 47 | 109 | 
-| 2022-11-13 | 47 | 109 | 
 

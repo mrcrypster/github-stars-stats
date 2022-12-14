@@ -1,10 +1,10 @@
 # ring-clojure/ring - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
-☋ Forks: 510
+☋ Forks: 511
 
-★ Stars: 3523
+★ Stars: 3524
 
 [Open repository](https://github.com/ring-clojure/ring)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 3524 | 511 | 
 | 2022-12-12 | 3523 | 510 | 
 | 2022-12-10 | 3523 | 511 | 
 | 2022-12-09 | 3523 | 510 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 3519 | 506 | 
 | 2022-11-15 | 3518 | 506 | 
 | 2022-11-14 | 3518 | 506 | 
-| 2022-11-13 | 3517 | 506 | 
 

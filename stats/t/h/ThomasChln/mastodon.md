@@ -1,6 +1,6 @@
 # ThomasChln/mastodon - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 34 | 6 | 
 | 2022-12-11 | 34 | 6 | 
 | 2022-12-10 | 34 | 6 | 
 | 2022-12-09 | 34 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 35 | 6 | 
 | 2022-11-15 | 35 | 5 | 
 | 2022-11-14 | 35 | 5 | 
-| 2022-11-13 | 34 | 5 | 
 

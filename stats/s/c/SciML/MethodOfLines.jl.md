@@ -1,6 +1,6 @@
 # SciML/MethodOfLines.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 97 | 18 | 
 | 2022-12-12 | 97 | 18 | 
 | 2022-12-11 | 96 | 18 | 
 | 2022-12-10 | 95 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 90 | 16 | 
 | 2022-11-15 | 90 | 16 | 
 | 2022-11-14 | 90 | 16 | 
-| 2022-11-13 | 90 | 16 | 
 

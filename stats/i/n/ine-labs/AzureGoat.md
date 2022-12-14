@@ -1,10 +1,10 @@
 # ine-labs/AzureGoat - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 54
 
-★ Stars: 299
+★ Stars: 300
 
 [Open repository](https://github.com/ine-labs/AzureGoat)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 300 | 54 | 
 | 2022-12-12 | 299 | 54 | 
 | 2022-12-10 | 298 | 54 | 
 | 2022-12-09 | 298 | 54 | 

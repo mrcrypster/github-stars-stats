@@ -1,6 +1,6 @@
 # Yin-Hongwei/music-website - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 1080
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 3387 | 1080 | 
 | 2022-12-12 | 3387 | 1080 | 
 | 2022-12-10 | 3380 | 1076 | 
 | 2022-12-09 | 3373 | 1075 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 3280 | 1047 | 
 | 2022-11-15 | 3277 | 1048 | 
 | 2022-11-14 | 3277 | 1047 | 
-| 2022-11-13 | 3276 | 1046 | 
 

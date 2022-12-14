@@ -1,6 +1,6 @@
 # openbiox/thesis-template - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 5 | 13 | 
 | 2022-12-12 | 5 | 13 | 
 | 2022-12-11 | 5 | 13 | 
 | 2022-12-10 | 5 | 13 | 

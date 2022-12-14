@@ -1,6 +1,6 @@
 # abigger87/unix - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 56 | 1 | 
 | 2022-12-11 | 56 | 1 | 
 | 2022-12-10 | 56 | 1 | 
 | 2022-12-09 | 56 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 57 | 1 | 
 | 2022-11-15 | 57 | 1 | 
 | 2022-11-14 | 57 | 1 | 
-| 2022-11-13 | 58 | 1 | 
 

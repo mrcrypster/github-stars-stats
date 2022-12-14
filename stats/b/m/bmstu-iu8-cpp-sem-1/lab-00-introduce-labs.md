@@ -1,6 +1,6 @@
 # bmstu-iu8-cpp-sem-1/lab-00-introduce-labs - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | - | 6 | 
 | 2022-12-12 | - | 6 | 
 | 2022-12-11 | - | 6 | 
 | 2022-12-10 | - | 6 | 

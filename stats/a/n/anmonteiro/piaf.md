@@ -1,6 +1,6 @@
 # anmonteiro/piaf - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 141 | 16 | 
 | 2022-12-12 | 141 | 16 | 
 | 2022-12-10 | 141 | 16 | 
 | 2022-12-09 | 141 | 16 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 139 | 17 | 
 | 2022-11-15 | 139 | 17 | 
 | 2022-11-14 | 139 | 17 | 
-| 2022-11-13 | 139 | 17 | 
 

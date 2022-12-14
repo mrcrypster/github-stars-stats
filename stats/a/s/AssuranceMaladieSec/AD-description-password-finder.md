@@ -1,6 +1,6 @@
 # AssuranceMaladieSec/AD-description-password-finder - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 62 | 10 | 
 | 2022-12-11 | 62 | 10 | 
 | 2022-12-10 | 62 | 10 | 
 | 2022-12-09 | 62 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-17 | 62 | 10 | 
 | 2022-11-15 | 62 | 10 | 
 | 2022-11-14 | 61 | 10 | 
-| 2022-11-13 | 61 | 10 | 
 

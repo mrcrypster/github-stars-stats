@@ -1,6 +1,6 @@
 # ipeaGIT/intro_access_book - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 23 | 7 | 
 | 2022-12-12 | 23 | 7 | 
 | 2022-12-10 | 23 | 7 | 
 | 2022-12-09 | 23 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 21 | 7 | 
 | 2022-11-15 | 20 | 7 | 
 | 2022-11-14 | 20 | 7 | 
-| 2022-11-13 | 19 | 7 | 
 

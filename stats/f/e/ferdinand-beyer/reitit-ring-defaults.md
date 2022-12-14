@@ -1,6 +1,6 @@
 # ferdinand-beyer/reitit-ring-defaults - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 20 | 1 | 
 | 2022-12-11 | 20 | 1 | 
 | 2022-12-10 | 20 | 1 | 
 | 2022-12-09 | 20 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 20 | 1 | 
 | 2022-11-15 | 20 | 1 | 
 | 2022-11-14 | 20 | 1 | 
-| 2022-11-13 | 20 | 1 | 
 

@@ -1,10 +1,10 @@
 # dnschneid/crouton - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 1198
 
-★ Stars: 8236
+★ Stars: 8238
 
 [Open repository](https://github.com/dnschneid/crouton)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 8238 | 1198 | 
 | 2022-12-12 | 8236 | 1198 | 
 | 2022-12-10 | 8236 | 1198 | 
 | 2022-12-09 | 8235 | 1198 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 8216 | 1194 | 
 | 2022-11-15 | 8215 | 1193 | 
 | 2022-11-14 | 8216 | 1193 | 
-| 2022-11-13 | 8216 | 1193 | 
 

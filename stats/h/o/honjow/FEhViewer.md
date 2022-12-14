@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 13
 
 ☋ Forks: 70
 
-★ Stars: 1259
+★ Stars: 1261
 
 [Open repository](https://github.com/honjow/FEhViewer)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-13 | 1259 | 70 | 
+| 2022-12-13 | 1261 | 70 | 
 | 2022-12-12 | 1258 | 70 | 
 | 2022-12-11 | 1250 | 69 | 
 | 2022-12-10 | 1239 | 69 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-16 | 1141 | 61 | 
 | 2022-11-15 | 1138 | 61 | 
 | 2022-11-14 | 1133 | 60 | 
-| 2022-11-13 | 1124 | 60 | 
 

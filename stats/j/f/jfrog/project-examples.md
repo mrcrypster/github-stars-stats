@@ -1,6 +1,6 @@
 # jfrog/project-examples - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 2247
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 939 | 2247 | 
 | 2022-12-12 | 939 | 2247 | 
 | 2022-12-11 | 939 | 2246 | 
 | 2022-12-09 | 939 | 2246 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 937 | 2231 | 
 | 2022-11-16 | 937 | 2232 | 
 | 2022-11-15 | 936 | 2229 | 
-| 2022-11-14 | 936 | 2230 | 
 

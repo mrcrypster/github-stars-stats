@@ -1,10 +1,10 @@
 # niedzielski/cb - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
-☋ Forks: 5
+☋ Forks: 6
 
-★ Stars: 83
+★ Stars: 85
 
 [Open repository](https://github.com/niedzielski/cb)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 85 | 6 | 
 | 2022-12-12 | 83 | 5 | 
 | 2022-12-11 | 78 | 5 | 
 | 2022-12-10 | 72 | 5 | 

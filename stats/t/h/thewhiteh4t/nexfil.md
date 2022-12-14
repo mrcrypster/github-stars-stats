@@ -1,10 +1,10 @@
 # thewhiteh4t/nexfil - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 134
 
-★ Stars: 1219
+★ Stars: 1228
 
 [Open repository](https://github.com/thewhiteh4t/nexfil)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 1228 | 134 | 
 | 2022-12-12 | 1219 | 134 | 
 | 2022-12-11 | 1212 | 134 | 
 | 2022-12-09 | 1203 | 134 | 

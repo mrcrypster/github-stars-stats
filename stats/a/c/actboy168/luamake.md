@@ -1,10 +1,10 @@
 # actboy168/luamake - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 18
 
-★ Stars: 74
+★ Stars: 75
 
 [Open repository](https://github.com/actboy168/luamake)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 75 | 18 | 
 | 2022-12-12 | 74 | 18 | 
 | 2022-12-10 | 74 | 18 | 
 | 2022-12-09 | 73 | 18 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 73 | 18 | 
 | 2022-11-15 | 73 | 18 | 
 | 2022-11-14 | 73 | 18 | 
-| 2022-11-13 | 73 | 18 | 
 

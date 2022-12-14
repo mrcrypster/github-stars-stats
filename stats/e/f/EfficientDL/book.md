@@ -1,6 +1,6 @@
 # EfficientDL/book - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 160 | 19 | 
 | 2022-12-12 | 160 | 19 | 
 | 2022-12-11 | 160 | 19 | 
 | 2022-12-09 | 160 | 19 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 159 | 19 | 
 | 2022-11-15 | 159 | 19 | 
 | 2022-11-14 | 159 | 19 | 
-| 2022-11-13 | 159 | 19 | 
 

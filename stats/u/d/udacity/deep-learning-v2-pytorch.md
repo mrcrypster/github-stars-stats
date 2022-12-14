@@ -1,6 +1,6 @@
 # udacity/deep-learning-v2-pytorch - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 5171
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 4785 | 5171 | 
 | 2022-12-12 | 4785 | 5171 | 
 | 2022-12-10 | 4784 | 5170 | 
 | 2022-12-09 | 4783 | 5170 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 4767 | 5156 | 
 | 2022-11-15 | 4770 | 5155 | 
 | 2022-11-14 | 4771 | 5155 | 
-| 2022-11-13 | 4769 | 5155 | 
 

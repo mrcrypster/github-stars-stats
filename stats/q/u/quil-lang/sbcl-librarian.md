@@ -1,6 +1,6 @@
 # quil-lang/sbcl-librarian - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 60 | 9 | 
 | 2022-12-12 | 60 | 9 | 
 | 2022-12-11 | 60 | 9 | 
 | 2022-12-09 | 60 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 58 | 9 | 
 | 2022-11-16 | 58 | 9 | 
 | 2022-11-15 | 58 | 9 | 
-| 2022-11-14 | 58 | 9 | 
 

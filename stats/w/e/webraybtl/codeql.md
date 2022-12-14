@@ -1,10 +1,10 @@
 # webraybtl/codeql - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 2
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/webraybtl/codeql)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 17 | 2 | 
 | 2022-12-12 | 16 | 2 | 
 | 2022-12-10 | 16 | 2 | 
 | 2022-12-09 | 16 | 2 | 

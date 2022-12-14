@@ -1,10 +1,10 @@
 # golang-china/gopl-zh - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 643
 
-★ Stars: 5299
+★ Stars: 5302
 
 [Open repository](https://github.com/golang-china/gopl-zh)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 5302 | 643 | 
 | 2022-12-12 | 5299 | 643 | 
 | 2022-12-11 | 5298 | 643 | 
 | 2022-12-10 | 5298 | 643 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 5253 | 641 | 
 | 2022-11-15 | 5251 | 641 | 
 | 2022-11-14 | 5247 | 642 | 
-| 2022-11-13 | 5244 | 641 | 
 

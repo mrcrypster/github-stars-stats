@@ -1,6 +1,6 @@
 # Daddeee/FOR_Labs_22-23 - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 19 | 9 | 
 | 2022-12-12 | 19 | 9 | 
 | 2022-12-11 | 19 | 9 | 
 | 2022-12-09 | 19 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 18 | 5 | 
 | 2022-11-15 | 18 | 5 | 
 | 2022-11-14 | 18 | 5 | 
-| 2022-11-13 | 18 | 5 | 
 

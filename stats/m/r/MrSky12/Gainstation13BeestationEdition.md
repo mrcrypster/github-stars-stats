@@ -1,6 +1,6 @@
 # MrSky12/Gainstation13BeestationEdition - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 2 | 4 | 
 | 2022-12-12 | 2 | 4 | 
 | 2022-12-11 | 2 | 4 | 
 | 2022-12-09 | 2 | 4 | 

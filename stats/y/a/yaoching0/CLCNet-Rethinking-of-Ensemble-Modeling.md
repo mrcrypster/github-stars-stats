@@ -1,6 +1,6 @@
 # yaoching0/CLCNet-Rethinking-of-Ensemble-Modeling - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 49 | 12 | 
 | 2022-12-12 | 49 | 12 | 
 | 2022-12-11 | 49 | 12 | 
 | 2022-12-09 | 49 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 49 | 12 | 
 | 2022-11-16 | 49 | 12 | 
 | 2022-11-15 | 49 | 12 | 
-| 2022-11-14 | 49 | 12 | 
 

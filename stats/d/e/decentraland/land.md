@@ -1,10 +1,10 @@
 # decentraland/land - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 53
 
-★ Stars: 118
+★ Stars: 117
 
 [Open repository](https://github.com/decentraland/land)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 117 | 53 | 
 | 2022-12-12 | 118 | 53 | 
 | 2022-12-10 | 118 | 53 | 
 | 2022-12-09 | 118 | 53 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 118 | 52 | 
 | 2022-11-16 | 118 | 52 | 
 | 2022-11-15 | 118 | 52 | 
-| 2022-11-14 | 118 | 52 | 
 

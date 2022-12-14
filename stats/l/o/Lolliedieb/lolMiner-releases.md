@@ -1,10 +1,10 @@
 # Lolliedieb/lolMiner-releases - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 633
 
-★ Stars: 2219
+★ Stars: 2220
 
 [Open repository](https://github.com/Lolliedieb/lolMiner-releases)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 2220 | 633 | 
 | 2022-12-12 | 2219 | 633 | 
 | 2022-12-10 | 2220 | 633 | 
 | 2022-12-09 | 2221 | 633 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 2214 | 632 | 
 | 2022-11-15 | 2215 | 630 | 
 | 2022-11-14 | 2217 | 630 | 
-| 2022-11-13 | 2218 | 630 | 
 

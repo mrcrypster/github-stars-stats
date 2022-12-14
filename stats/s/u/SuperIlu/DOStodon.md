@@ -1,10 +1,10 @@
 # SuperIlu/DOStodon - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
-☋ Forks: 3
+☋ Forks: 4
 
-★ Stars: 154
+★ Stars: 155
 
 [Open repository](https://github.com/SuperIlu/DOStodon)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 155 | 4 | 
 | 2022-12-11 | 154 | 3 | 
 | 2022-12-10 | 154 | 3 | 
 | 2022-12-09 | 152 | 3 | 

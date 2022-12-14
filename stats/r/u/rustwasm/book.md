@@ -1,10 +1,10 @@
 # rustwasm/book - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 186
 
-★ Stars: 1452
+★ Stars: 1455
 
 [Open repository](https://github.com/rustwasm/book)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 1455 | 186 | 
 | 2022-12-12 | 1452 | 186 | 
 | 2022-12-11 | 1451 | 186 | 
 | 2022-12-10 | 1451 | 186 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 1428 | 185 | 
 | 2022-11-15 | 1427 | 185 | 
 | 2022-11-14 | 1427 | 185 | 
-| 2022-11-13 | 1427 | 185 | 
 

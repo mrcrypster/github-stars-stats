@@ -1,10 +1,10 @@
 # iustin24/chameleon - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 30
 
-★ Stars: 252
+★ Stars: 253
 
 [Open repository](https://github.com/iustin24/chameleon)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 253 | 30 | 
 | 2022-12-11 | 252 | 30 | 
 | 2022-12-10 | 252 | 30 | 
 | 2022-12-09 | 252 | 29 | 

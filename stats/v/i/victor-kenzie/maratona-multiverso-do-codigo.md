@@ -1,6 +1,6 @@
 # victor-kenzie/maratona-multiverso-do-codigo - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 21 | 10 | 
 | 2022-12-11 | 21 | 10 | 
 | 2022-12-10 | 21 | 10 | 
 | 2022-12-09 | 21 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 22 | 10 | 
 | 2022-11-15 | 22 | 10 | 
 | 2022-11-14 | 22 | 10 | 
-| 2022-11-13 | 22 | 10 | 
 

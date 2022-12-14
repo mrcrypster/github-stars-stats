@@ -1,6 +1,6 @@
 # sergejhorvat/TensorFlow-Data-and-Deployment-Specialization - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 25 | 44 | 
 | 2022-12-11 | 25 | 44 | 
 | 2022-12-10 | 25 | 44 | 
 | 2022-12-09 | 25 | 44 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-17 | 24 | 44 | 
 | 2022-11-16 | 24 | 44 | 
 | 2022-11-15 | 24 | 44 | 
-| 2022-11-14 | 24 | 44 | 
 

@@ -1,10 +1,10 @@
 # casbin/jcasbin - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
-☋ Forks: 396
+☋ Forks: 398
 
-★ Stars: 1948
+★ Stars: 1951
 
 [Open repository](https://github.com/casbin/jcasbin)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 1951 | 398 | 
 | 2022-12-12 | 1948 | 396 | 
 | 2022-12-10 | 1939 | 396 | 
 | 2022-12-09 | 1938 | 395 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 1918 | 383 | 
 | 2022-11-15 | 1916 | 383 | 
 | 2022-11-14 | 1911 | 384 | 
-| 2022-11-13 | 1910 | 384 | 
 

@@ -1,6 +1,6 @@
 # MahdiMashrur/Awesome-Application-Security-Checklist - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 491 | 52 | 
 | 2022-12-11 | 491 | 52 | 
 | 2022-12-10 | 491 | 52 | 
 | 2022-12-09 | 491 | 52 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 450 | 39 | 
 | 2022-11-15 | 450 | 39 | 
 | 2022-11-14 | 450 | 39 | 
-| 2022-11-13 | 450 | 39 | 
 

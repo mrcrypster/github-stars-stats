@@ -1,6 +1,6 @@
 # PDP-10/its - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 67
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 686 | 67 | 
 | 2022-12-12 | 686 | 67 | 
 | 2022-12-11 | 686 | 67 | 
 | 2022-12-10 | 686 | 67 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 677 | 66 | 
 | 2022-11-15 | 677 | 66 | 
 | 2022-11-14 | 676 | 66 | 
-| 2022-11-13 | 676 | 66 | 
 

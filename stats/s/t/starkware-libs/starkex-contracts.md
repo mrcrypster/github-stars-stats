@@ -1,10 +1,10 @@
 # starkware-libs/starkex-contracts - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
-☋ Forks: 63
+☋ Forks: 64
 
-★ Stars: 185
+★ Stars: 187
 
 [Open repository](https://github.com/starkware-libs/starkex-contracts)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 187 | 64 | 
 | 2022-12-11 | 185 | 63 | 
 | 2022-12-10 | 185 | 63 | 
 | 2022-12-09 | 185 | 63 | 

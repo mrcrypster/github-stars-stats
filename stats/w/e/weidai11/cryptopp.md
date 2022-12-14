@@ -1,10 +1,10 @@
 # weidai11/cryptopp - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
-☋ Forks: 1095
+☋ Forks: 1096
 
-★ Stars: 3712
+★ Stars: 3715
 
 [Open repository](https://github.com/weidai11/cryptopp)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 3715 | 1096 | 
 | 2022-12-12 | 3712 | 1095 | 
 | 2022-12-10 | 3710 | 1094 | 
 | 2022-12-09 | 3708 | 1094 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 3693 | 1083 | 
 | 2022-11-16 | 3692 | 1084 | 
 | 2022-11-15 | 3692 | 1083 | 
-| 2022-11-14 | 3691 | 1083 | 
 

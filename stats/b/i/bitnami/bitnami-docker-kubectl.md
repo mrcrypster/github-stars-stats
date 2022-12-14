@@ -1,6 +1,6 @@
 # bitnami/bitnami-docker-kubectl - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 84 | 52 | 
 | 2022-12-12 | 84 | 52 | 
 | 2022-12-10 | 84 | 52 | 
 | 2022-12-09 | 84 | 52 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 85 | 52 | 
 | 2022-11-15 | 85 | 52 | 
 | 2022-11-14 | 85 | 52 | 
-| 2022-11-13 | 85 | 52 | 
 

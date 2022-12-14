@@ -1,10 +1,10 @@
 # SnellerInc/sneller - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
-☋ Forks: 25
+☋ Forks: 26
 
-★ Stars: 695
+★ Stars: 697
 
 [Open repository](https://github.com/SnellerInc/sneller)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 697 | 26 | 
 | 2022-12-12 | 695 | 25 | 
 | 2022-12-10 | 695 | 25 | 
 | 2022-12-09 | 693 | 25 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 681 | 25 | 
 | 2022-11-15 | 680 | 25 | 
 | 2022-11-14 | 680 | 25 | 
-| 2022-11-13 | 680 | 25 | 
 

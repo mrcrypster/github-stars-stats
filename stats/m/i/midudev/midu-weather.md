@@ -1,6 +1,6 @@
 # midudev/midu-weather - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 13 | 6 | 
 | 2022-12-12 | 13 | 6 | 
 | 2022-12-10 | 13 | 6 | 
 | 2022-12-09 | 13 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 13 | 5 | 
 | 2022-11-16 | 13 | 5 | 
 | 2022-11-14 | 13 | 5 | 
-| 2022-11-13 | 13 | 5 | 
 

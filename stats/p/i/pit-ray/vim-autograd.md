@@ -1,10 +1,10 @@
 # pit-ray/vim-autograd - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 0
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/pit-ray/vim-autograd)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 18 | - | 
 | 2022-12-12 | 17 | - | 
 | 2022-12-10 | 17 | - | 
 | 2022-12-09 | 17 | - | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 17 | - | 
 | 2022-11-15 | 17 | - | 
 | 2022-11-14 | 17 | - | 
-| 2022-11-13 | 17 | - | 
 

@@ -1,6 +1,6 @@
 # kishandiemm/html-portfolio-site - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 29 | 31 | 
 | 2022-12-12 | 29 | 31 | 
 | 2022-12-10 | 29 | 31 | 
 | 2022-12-09 | 29 | 31 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 29 | 31 | 
 | 2022-11-15 | 29 | 31 | 
 | 2022-11-14 | 29 | 31 | 
-| 2022-11-13 | 29 | 31 | 
 

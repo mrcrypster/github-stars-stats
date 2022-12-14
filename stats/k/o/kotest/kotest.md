@@ -1,10 +1,10 @@
 # kotest/kotest - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 556
 
-★ Stars: 3735
+★ Stars: 3736
 
 [Open repository](https://github.com/kotest/kotest)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 3736 | 556 | 
 | 2022-12-12 | 3735 | 556 | 
 | 2022-12-11 | 3732 | 556 | 
 | 2022-12-10 | 3732 | 556 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 3701 | 553 | 
 | 2022-11-15 | 3702 | 552 | 
 | 2022-11-14 | 3699 | 552 | 
-| 2022-11-13 | 3700 | 551 | 
 

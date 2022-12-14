@@ -1,6 +1,6 @@
 # instacart/Nantes - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 74
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 1046 | 74 | 
 | 2022-12-12 | 1046 | 74 | 
 | 2022-12-11 | 1046 | 74 | 
 | 2022-12-10 | 1046 | 74 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 1045 | 74 | 
 | 2022-11-15 | 1045 | 74 | 
 | 2022-11-14 | 1046 | 74 | 
-| 2022-11-13 | 1046 | 74 | 
 

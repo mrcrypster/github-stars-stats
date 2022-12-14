@@ -1,8 +1,8 @@
 # Swofty-Developments/AtlasRedisAPI - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
-☋ Forks: 12
+☋ Forks: 11
 
 ★ Stars: 53
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 53 | 11 | 
 | 2022-12-12 | 53 | 12 | 
 | 2022-12-10 | 53 | 12 | 
 | 2022-12-09 | 53 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 53 | 12 | 
 | 2022-11-15 | 53 | 12 | 
 | 2022-11-14 | 53 | 12 | 
-| 2022-11-13 | 53 | 12 | 
 

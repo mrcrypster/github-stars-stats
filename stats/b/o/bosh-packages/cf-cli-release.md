@@ -1,6 +1,6 @@
 # bosh-packages/cf-cli-release - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 8 | 3 | 
 | 2022-12-12 | 8 | 3 | 
 | 2022-12-11 | 8 | 3 | 
 | 2022-12-10 | 8 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 7 | 3 | 
 | 2022-11-15 | 7 | 3 | 
 | 2022-11-14 | 7 | 3 | 
-| 2022-11-13 | 7 | 3 | 
 

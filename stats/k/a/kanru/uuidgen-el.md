@@ -1,10 +1,10 @@
 # kanru/uuidgen-el - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 8
 
-★ Stars: 43
+★ Stars: 44
 
 [Open repository](https://github.com/kanru/uuidgen-el)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 44 | 8 | 
 | 2022-12-11 | 43 | 8 | 
 | 2022-12-10 | 43 | 8 | 
 | 2022-12-09 | 43 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 43 | 8 | 
 | 2022-11-15 | 43 | 8 | 
 | 2022-11-14 | 43 | 8 | 
-| 2022-11-13 | 43 | 8 | 
 

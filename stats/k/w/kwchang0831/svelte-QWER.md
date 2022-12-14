@@ -1,6 +1,6 @@
 # kwchang0831/svelte-QWER - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 227 | 21 | 
 | 2022-12-12 | 227 | 21 | 
 | 2022-12-11 | 226 | 21 | 
 | 2022-12-10 | 224 | 21 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 218 | 20 | 
 | 2022-11-15 | 217 | 19 | 
 | 2022-11-14 | 217 | 19 | 
-| 2022-11-13 | 216 | 19 | 
 

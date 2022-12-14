@@ -1,6 +1,6 @@
 # epam-deik-cooperation/epam-deik-java-dev - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 66
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 8 | 66 | 
 | 2022-12-12 | 8 | 66 | 
 | 2022-12-11 | 8 | 66 | 
 | 2022-12-09 | 8 | 66 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 8 | 60 | 
 | 2022-11-15 | 8 | 60 | 
 | 2022-11-14 | 8 | 60 | 
-| 2022-11-13 | 8 | 60 | 
 

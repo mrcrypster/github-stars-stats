@@ -1,8 +1,8 @@
 # Flamingo-OS/device_flamingo_sepolicy - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
-☋ Forks: 0
+☋ Forks: 1
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | - | 1 | 
 | 2022-12-12 | - | - | 
 | 2022-12-11 | - | - | 
 | 2022-12-10 | - | - | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | - | - | 
 | 2022-11-15 | - | - | 
 | 2022-11-14 | - | - | 
-| 2022-11-13 | - | - | 
 

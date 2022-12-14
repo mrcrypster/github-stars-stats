@@ -1,6 +1,6 @@
 # bitbart/lip - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 6 | 73 | 
 | 2022-12-12 | 6 | 73 | 
 | 2022-12-10 | 6 | 72 | 
 | 2022-12-09 | 6 | 72 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 4 | 72 | 
 | 2022-11-15 | 4 | 71 | 
 | 2022-11-14 | 4 | 71 | 
-| 2022-11-13 | 4 | 71 | 
 

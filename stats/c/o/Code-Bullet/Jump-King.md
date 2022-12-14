@@ -1,6 +1,6 @@
 # Code-Bullet/Jump-King - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 271 | 55 | 
 | 2022-12-12 | 271 | 55 | 
 | 2022-12-10 | 270 | 55 | 
 | 2022-12-09 | 270 | 55 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 266 | 55 | 
 | 2022-11-16 | 265 | 55 | 
 | 2022-11-14 | 264 | 55 | 
-| 2022-11-13 | 264 | 55 | 
 

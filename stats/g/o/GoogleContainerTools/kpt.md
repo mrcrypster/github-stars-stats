@@ -1,10 +1,10 @@
 # GoogleContainerTools/kpt - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 195
 
-★ Stars: 1368
+★ Stars: 1371
 
 [Open repository](https://github.com/GoogleContainerTools/kpt)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 1371 | 195 | 
 | 2022-12-11 | 1368 | 195 | 
 | 2022-12-10 | 1368 | 195 | 
 | 2022-12-09 | 1367 | 194 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 1341 | 188 | 
 | 2022-11-15 | 1341 | 188 | 
 | 2022-11-14 | 1340 | 188 | 
-| 2022-11-13 | 1340 | 188 | 
 

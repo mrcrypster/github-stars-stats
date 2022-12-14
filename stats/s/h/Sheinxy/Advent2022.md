@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 13
 
 ☋ Forks: 0
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/Sheinxy/Advent2022)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-13 | 16 | - | 
+| 2022-12-13 | 17 | - | 
 | 2022-12-12 | 15 | - | 
 | 2022-12-11 | 14 | - | 
 | 2022-12-10 | 13 | - | 

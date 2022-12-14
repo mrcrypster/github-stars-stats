@@ -1,6 +1,6 @@
 # Shopify/turbograft - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 211 | 28 | 
 | 2022-12-11 | 211 | 28 | 
 | 2022-12-10 | 211 | 28 | 
 | 2022-12-09 | 211 | 28 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 211 | 28 | 
 | 2022-11-15 | 211 | 28 | 
 | 2022-11-14 | 211 | 29 | 
-| 2022-11-13 | 211 | 29 | 
 

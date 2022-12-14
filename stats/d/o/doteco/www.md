@@ -1,10 +1,10 @@
 # doteco/www - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 2
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/doteco/www)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 6 | 2 | 
 | 2022-12-12 | 5 | 2 | 
 | 2022-12-11 | 5 | 2 | 
 | 2022-12-10 | 5 | 2 | 

@@ -1,6 +1,6 @@
 # aws/meta-aws - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 67
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 88 | 67 | 
 | 2022-12-12 | 88 | 67 | 
 | 2022-12-11 | 88 | 67 | 
 | 2022-12-10 | 88 | 67 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 86 | 67 | 
 | 2022-11-15 | 86 | 67 | 
 | 2022-11-14 | 86 | 67 | 
-| 2022-11-13 | 86 | 67 | 
 

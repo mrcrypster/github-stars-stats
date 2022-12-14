@@ -1,10 +1,10 @@
 # epeth0mus/Fugu15 - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 48
 
-★ Stars: 262
+★ Stars: 263
 
 [Open repository](https://github.com/epeth0mus/Fugu15)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 263 | 48 | 
 | 2022-12-11 | 262 | 48 | 
 | 2022-12-10 | 262 | 48 | 
 | 2022-12-09 | 261 | 48 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 257 | 47 | 
 | 2022-11-15 | 258 | 47 | 
 | 2022-11-14 | 258 | 47 | 
-| 2022-11-13 | 258 | 47 | 
 

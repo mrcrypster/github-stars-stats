@@ -1,6 +1,6 @@
 # learn-co-curriculum/phase-3-chatterbox-sinatra-react-lab - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 1137
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 1 | 1137 | 
 | 2022-12-12 | 1 | 1137 | 
 | 2022-12-10 | 1 | 1135 | 
 | 2022-12-09 | 1 | 1135 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 1 | 1077 | 
 | 2022-11-15 | 1 | 1068 | 
 | 2022-11-14 | - | 1061 | 
-| 2022-11-13 | - | 1054 | 
 

@@ -1,10 +1,10 @@
 # stevenjoezhang/live2d-widget - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 2026
 
-★ Stars: 6483
+★ Stars: 6487
 
 [Open repository](https://github.com/stevenjoezhang/live2d-widget)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 6487 | 2026 | 
 | 2022-12-12 | 6483 | 2026 | 
 | 2022-12-11 | 6470 | 2023 | 
 | 2022-12-10 | 6468 | 2023 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 6401 | 2017 | 
 | 2022-11-16 | 6389 | 2016 | 
 | 2022-11-15 | 6385 | 2016 | 
-| 2022-11-14 | 6382 | 2015 | 
 

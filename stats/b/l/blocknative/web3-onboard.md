@@ -1,10 +1,10 @@
 # blocknative/web3-onboard - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
-☋ Forks: 283
+☋ Forks: 284
 
-★ Stars: 516
+★ Stars: 518
 
 [Open repository](https://github.com/blocknative/web3-onboard)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 518 | 284 | 
 | 2022-12-12 | 516 | 283 | 
 | 2022-12-10 | 517 | 282 | 
 | 2022-12-09 | 515 | 281 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 489 | 271 | 
 | 2022-11-15 | 484 | 271 | 
 | 2022-11-14 | 481 | 270 | 
-| 2022-11-13 | 479 | 270 | 
 

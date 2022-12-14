@@ -1,6 +1,6 @@
 # paulrberg/check-same-sign - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 46 | - | 
 | 2022-12-12 | 46 | - | 
 | 2022-12-10 | 46 | - | 
 | 2022-12-09 | 46 | - | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 46 | - | 
 | 2022-11-15 | 46 | - | 
 | 2022-11-14 | 46 | - | 
-| 2022-11-13 | 47 | - | 
 

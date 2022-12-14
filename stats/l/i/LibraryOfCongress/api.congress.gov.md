@@ -1,10 +1,10 @@
 # LibraryOfCongress/api.congress.gov - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 12
 
-★ Stars: 434
+★ Stars: 435
 
 [Open repository](https://github.com/LibraryOfCongress/api.congress.gov)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 435 | 12 | 
 | 2022-12-12 | 434 | 12 | 
 | 2022-12-11 | 434 | 12 | 
 | 2022-12-10 | 434 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 425 | 12 | 
 | 2022-11-15 | 425 | 12 | 
 | 2022-11-14 | 424 | 12 | 
-| 2022-11-13 | 422 | 12 | 
 

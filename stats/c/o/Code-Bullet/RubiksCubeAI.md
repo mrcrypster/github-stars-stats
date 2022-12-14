@@ -1,8 +1,8 @@
 # Code-Bullet/RubiksCubeAI - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
-☋ Forks: 133
+☋ Forks: 132
 
 ★ Stars: 315
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 315 | 132 | 
 | 2022-12-12 | 315 | 133 | 
 | 2022-12-10 | 315 | 133 | 
 | 2022-12-09 | 315 | 133 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 317 | 133 | 
 | 2022-11-15 | 317 | 133 | 
 | 2022-11-14 | 318 | 133 | 
-| 2022-11-13 | 318 | 133 | 
 

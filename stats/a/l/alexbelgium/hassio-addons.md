@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 13
 
 ☋ Forks: 94
 
-★ Stars: 494
+★ Stars: 496
 
 [Open repository](https://github.com/alexbelgium/hassio-addons)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-13 | 494 | 94 | 
+| 2022-12-13 | 496 | 94 | 
 | 2022-12-12 | 494 | 94 | 
 | 2022-12-11 | 492 | 92 | 
 | 2022-12-09 | 490 | 91 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-16 | 457 | 84 | 
 | 2022-11-15 | 454 | 84 | 
 | 2022-11-14 | 447 | 84 | 
-| 2022-11-13 | 443 | 84 | 
 

@@ -1,6 +1,6 @@
 # d-edge/foss-acronyms - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 51 | 41 | 
 | 2022-12-12 | 51 | 41 | 
 | 2022-12-11 | 51 | 41 | 
 | 2022-12-10 | 51 | 41 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 50 | 41 | 
 | 2022-11-16 | 50 | 41 | 
 | 2022-11-15 | 50 | 41 | 
-| 2022-11-13 | 50 | 41 | 
 

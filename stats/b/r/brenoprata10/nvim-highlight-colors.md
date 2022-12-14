@@ -1,10 +1,10 @@
 # brenoprata10/nvim-highlight-colors - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 4
 
-★ Stars: 107
+★ Stars: 106
 
 [Open repository](https://github.com/brenoprata10/nvim-highlight-colors)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 106 | 4 | 
 | 2022-12-12 | 107 | 4 | 
 | 2022-12-11 | 108 | 4 | 
 | 2022-12-09 | 108 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 102 | 4 | 
 | 2022-11-15 | 102 | 4 | 
 | 2022-11-14 | 102 | 4 | 
-| 2022-11-13 | 101 | 4 | 
 

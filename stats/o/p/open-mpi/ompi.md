@@ -1,10 +1,10 @@
 # open-mpi/ompi - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
-☋ Forks: 746
+☋ Forks: 747
 
-★ Stars: 1614
+★ Stars: 1612
 
 [Open repository](https://github.com/open-mpi/ompi)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 1612 | 747 | 
 | 2022-12-12 | 1614 | 746 | 
 | 2022-12-11 | 1612 | 745 | 
 | 2022-12-10 | 1612 | 745 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 1596 | 743 | 
 | 2022-11-15 | 1595 | 743 | 
 | 2022-11-14 | 1596 | 743 | 
-| 2022-11-13 | 1594 | 743 | 
 

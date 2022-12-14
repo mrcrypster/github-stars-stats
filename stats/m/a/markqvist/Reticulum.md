@@ -1,6 +1,6 @@
 # markqvist/Reticulum - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 1010 | 56 | 
 | 2022-12-11 | 1010 | 56 | 
 | 2022-12-10 | 1008 | 56 | 
 | 2022-12-09 | 1007 | 55 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 986 | 55 | 
 | 2022-11-15 | 986 | 55 | 
 | 2022-11-14 | 986 | 55 | 
-| 2022-11-13 | 983 | 55 | 
 

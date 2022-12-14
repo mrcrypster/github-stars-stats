@@ -1,10 +1,10 @@
 # one-aalam/astro-ink - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 45
 
-★ Stars: 256
+★ Stars: 258
 
 [Open repository](https://github.com/one-aalam/astro-ink)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 258 | 45 | 
 | 2022-12-11 | 256 | 45 | 
 | 2022-12-10 | 255 | 45 | 
 | 2022-12-09 | 255 | 45 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 245 | 40 | 
 | 2022-11-15 | 245 | 40 | 
 | 2022-11-14 | 245 | 40 | 
-| 2022-11-13 | 244 | 40 | 
 

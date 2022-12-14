@@ -1,6 +1,6 @@
 # gilbertfontana/DataVisualization - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 23 | 5 | 
 | 2022-12-12 | 23 | 5 | 
 | 2022-12-11 | 23 | 5 | 
 | 2022-12-10 | 23 | 5 | 

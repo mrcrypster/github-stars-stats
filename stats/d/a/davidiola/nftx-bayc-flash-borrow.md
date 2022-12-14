@@ -1,6 +1,6 @@
 # davidiola/nftx-bayc-flash-borrow - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 89
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 218 | 89 | 
 | 2022-12-12 | 218 | 89 | 
 | 2022-12-11 | 218 | 89 | 
 | 2022-12-09 | 218 | 89 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 215 | 87 | 
 | 2022-11-15 | 215 | 85 | 
 | 2022-11-14 | 215 | 85 | 
-| 2022-11-13 | 216 | 85 | 
 

@@ -1,10 +1,10 @@
 # xdd666t/getx_template - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 59
 
-★ Stars: 237
+★ Stars: 238
 
 [Open repository](https://github.com/xdd666t/getx_template)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 238 | 59 | 
 | 2022-12-12 | 237 | 59 | 
 | 2022-12-10 | 237 | 59 | 
 | 2022-12-09 | 237 | 59 | 

@@ -1,8 +1,8 @@
 # Siccity/xNode - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
-☋ Forks: 472
+☋ Forks: 475
 
 ★ Stars: 2609
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 2609 | 475 | 
 | 2022-12-11 | 2609 | 472 | 
 | 2022-12-10 | 2607 | 472 | 
 | 2022-12-09 | 2607 | 472 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-17 | 2582 | 469 | 
 | 2022-11-15 | 2582 | 469 | 
 | 2022-11-14 | 2579 | 469 | 
-| 2022-11-13 | 2579 | 470 | 
 

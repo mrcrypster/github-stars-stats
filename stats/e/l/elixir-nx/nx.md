@@ -1,8 +1,8 @@
 # elixir-nx/nx - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
-☋ Forks: 134
+☋ Forks: 135
 
 ★ Stars: 2010
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 2010 | 135 | 
 | 2022-12-12 | 2010 | 134 | 
 | 2022-12-11 | 2008 | 134 | 
 | 2022-12-10 | 2005 | 134 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 1968 | 131 | 
 | 2022-11-15 | 1968 | 131 | 
 | 2022-11-14 | 1965 | 131 | 
-| 2022-11-13 | 1963 | 131 | 
 

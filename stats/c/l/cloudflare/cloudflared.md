@@ -1,10 +1,10 @@
 # cloudflare/cloudflared - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 457
 
-★ Stars: 3961
+★ Stars: 3967
 
 [Open repository](https://github.com/cloudflare/cloudflared)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 3967 | 457 | 
 | 2022-12-12 | 3961 | 457 | 
 | 2022-12-11 | 3960 | 457 | 
 | 2022-12-10 | 3954 | 457 | 

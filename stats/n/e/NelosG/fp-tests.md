@@ -1,10 +1,10 @@
 # NelosG/fp-tests - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 10
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/NelosG/fp-tests)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 30 | 10 | 
 | 2022-12-11 | 29 | 10 | 
 | 2022-12-10 | 29 | 10 | 
 | 2022-12-09 | 29 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 29 | 9 | 
 | 2022-11-15 | 29 | 9 | 
 | 2022-11-14 | 29 | 9 | 
-| 2022-11-13 | 29 | 9 | 
 

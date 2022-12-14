@@ -1,6 +1,6 @@
 # Leon406/SubCrawler - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 156
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 592 | 156 | 
 | 2022-12-12 | 592 | 156 | 
 | 2022-12-10 | 589 | 156 | 
 | 2022-12-09 | 589 | 155 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 563 | 149 | 
 | 2022-11-15 | 560 | 149 | 
 | 2022-11-14 | 557 | 149 | 
-| 2022-11-13 | 556 | 149 | 
 

@@ -1,6 +1,6 @@
 # longguikeji/arkid - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 256
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 1314 | 256 | 
 | 2022-12-12 | 1314 | 256 | 
 | 2022-12-11 | 1314 | 256 | 
 | 2022-12-10 | 1314 | 255 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 1241 | 249 | 
 | 2022-11-15 | 1226 | 244 | 
 | 2022-11-14 | 1215 | 243 | 
-| 2022-11-13 | 1208 | 241 | 
 

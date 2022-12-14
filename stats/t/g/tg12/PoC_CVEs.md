@@ -1,6 +1,6 @@
 # tg12/PoC_CVEs - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 120 | 14 | 
 | 2022-12-11 | 120 | 14 | 
 | 2022-12-10 | 119 | 14 | 
 | 2022-12-09 | 119 | 14 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 119 | 14 | 
 | 2022-11-15 | 119 | 14 | 
 | 2022-11-14 | 119 | 14 | 
-| 2022-11-13 | 118 | 14 | 
 

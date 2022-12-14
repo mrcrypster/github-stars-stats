@@ -1,6 +1,6 @@
 # sanette/bogue - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 116 | 6 | 
 | 2022-12-12 | 116 | 6 | 
 | 2022-12-11 | 116 | 6 | 
 | 2022-12-09 | 116 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 109 | 6 | 
 | 2022-11-16 | 109 | 6 | 
 | 2022-11-15 | 109 | 6 | 
-| 2022-11-13 | 109 | 6 | 
 

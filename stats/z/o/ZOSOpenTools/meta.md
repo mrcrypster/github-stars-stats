@@ -1,6 +1,6 @@
 # ZOSOpenTools/meta - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 12 | 6 | 
 | 2022-12-12 | 12 | 6 | 
 | 2022-12-10 | 12 | 6 | 
 | 2022-12-09 | 12 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 9 | 4 | 
 | 2022-11-15 | 9 | 4 | 
 | 2022-11-14 | 9 | 4 | 
-| 2022-11-13 | 9 | 4 | 
 

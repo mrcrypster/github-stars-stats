@@ -1,10 +1,10 @@
 # yannickcr/eslint-plugin-react - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 2721
 
-★ Stars: 8194
+★ Stars: 8195
 
 [Open repository](https://github.com/yannickcr/eslint-plugin-react)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 8195 | 2721 | 
 | 2022-12-12 | 8194 | 2721 | 
 | 2022-12-11 | 8193 | 2722 | 
 | 2022-12-10 | 8188 | 2719 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 8145 | 2697 | 
 | 2022-11-15 | 8144 | 2695 | 
 | 2022-11-14 | 8139 | 2692 | 
-| 2022-11-13 | 8139 | 2693 | 
 

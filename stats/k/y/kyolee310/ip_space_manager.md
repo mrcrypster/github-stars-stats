@@ -1,6 +1,6 @@
 # kyolee310/ip_space_manager - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 1 | 1 | 
 | 2022-12-11 | 1 | 1 | 
 | 2022-12-10 | 1 | 1 | 
 | 2022-12-09 | 1 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 1 | 1 | 
 | 2022-11-15 | 1 | 1 | 
 | 2022-11-14 | 1 | 1 | 
-| 2022-11-13 | 1 | 1 | 
 

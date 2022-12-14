@@ -1,10 +1,10 @@
 # erlware/erlcron - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 138
 
-★ Stars: 248
+★ Stars: 247
 
 [Open repository](https://github.com/erlware/erlcron)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 247 | 138 | 
 | 2022-12-11 | 248 | 138 | 
 | 2022-12-10 | 248 | 138 | 
 | 2022-12-09 | 248 | 138 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 247 | 138 | 
 | 2022-11-15 | 247 | 138 | 
 | 2022-11-14 | 248 | 138 | 
-| 2022-11-13 | 248 | 138 | 
 

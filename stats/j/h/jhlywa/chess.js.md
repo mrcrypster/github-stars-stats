@@ -1,10 +1,10 @@
 # jhlywa/chess.js - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 807
 
-★ Stars: 2943
+★ Stars: 2941
 
 [Open repository](https://github.com/jhlywa/chess.js)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 2941 | 807 | 
 | 2022-12-11 | 2943 | 807 | 
 | 2022-12-10 | 2942 | 806 | 
 | 2022-12-09 | 2941 | 805 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 2933 | 800 | 
 | 2022-11-15 | 2932 | 800 | 
 | 2022-11-14 | 2931 | 800 | 
-| 2022-11-13 | 2934 | 800 | 
 

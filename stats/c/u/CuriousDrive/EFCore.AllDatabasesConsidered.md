@@ -1,6 +1,6 @@
 # CuriousDrive/EFCore.AllDatabasesConsidered - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 58 | 42 | 
 | 2022-12-12 | 58 | 42 | 
 | 2022-12-11 | 58 | 42 | 
 | 2022-12-09 | 58 | 42 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 53 | 40 | 
 | 2022-11-16 | 53 | 40 | 
 | 2022-11-14 | 53 | 40 | 
-| 2022-11-13 | 53 | 40 | 
 

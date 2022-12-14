@@ -1,10 +1,10 @@
 # tidyverse/purrr - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 230
 
-★ Stars: 1091
+★ Stars: 1090
 
 [Open repository](https://github.com/tidyverse/purrr)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 1090 | 230 | 
 | 2022-12-12 | 1091 | 230 | 
 | 2022-12-11 | 1091 | 230 | 
 | 2022-12-10 | 1089 | 230 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 1087 | 230 | 
 | 2022-11-15 | 1086 | 230 | 
 | 2022-11-14 | 1085 | 230 | 
-| 2022-11-13 | 1085 | 230 | 
 

@@ -1,10 +1,10 @@
 # Thecosy/IceCMS - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
-☋ Forks: 30
+☋ Forks: 31
 
-★ Stars: 353
+★ Stars: 354
 
 [Open repository](https://github.com/Thecosy/IceCMS)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 354 | 31 | 
 | 2022-12-12 | 353 | 30 | 
 | 2022-12-11 | 348 | 30 | 
 | 2022-12-10 | 347 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 256 | 19 | 
 | 2022-11-15 | 254 | 19 | 
 | 2022-11-14 | 244 | 18 | 
-| 2022-11-13 | 230 | 16 | 
 

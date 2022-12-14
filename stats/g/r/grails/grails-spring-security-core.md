@@ -1,8 +1,8 @@
 # grails/grails-spring-security-core - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
-☋ Forks: 224
+☋ Forks: 225
 
 ★ Stars: 247
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 247 | 225 | 
 | 2022-12-12 | 247 | 224 | 
 | 2022-12-10 | 247 | 224 | 
 | 2022-12-09 | 247 | 224 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 246 | 224 | 
 | 2022-11-15 | 245 | 224 | 
 | 2022-11-14 | 245 | 224 | 
-| 2022-11-13 | 245 | 224 | 
 

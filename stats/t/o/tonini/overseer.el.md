@@ -1,6 +1,6 @@
 # tonini/overseer.el - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 48 | 11 | 
 | 2022-12-12 | 48 | 11 | 
 | 2022-12-11 | 48 | 11 | 
 | 2022-12-10 | 48 | 11 | 

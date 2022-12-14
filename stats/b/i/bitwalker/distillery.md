@@ -1,10 +1,10 @@
 # bitwalker/distillery - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 386
 
-★ Stars: 2913
+★ Stars: 2912
 
 [Open repository](https://github.com/bitwalker/distillery)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 2912 | 386 | 
 | 2022-12-12 | 2913 | 386 | 
 | 2022-12-11 | 2913 | 386 | 
 | 2022-12-10 | 2913 | 386 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 2910 | 383 | 
 | 2022-11-15 | 2910 | 383 | 
 | 2022-11-14 | 2910 | 382 | 
-| 2022-11-13 | 2911 | 382 | 
 

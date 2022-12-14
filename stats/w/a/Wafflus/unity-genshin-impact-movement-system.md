@@ -1,6 +1,6 @@
 # Wafflus/unity-genshin-impact-movement-system - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 261 | 38 | 
 | 2022-12-12 | 261 | 38 | 
 | 2022-12-10 | 261 | 38 | 
 | 2022-12-09 | 261 | 38 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 252 | 36 | 
 | 2022-11-15 | 251 | 35 | 
 | 2022-11-14 | 249 | 35 | 
-| 2022-11-13 | 249 | 35 | 
 

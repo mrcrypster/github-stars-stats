@@ -1,6 +1,6 @@
 # febblin/gitTest - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 100
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 1 | 100 | 
 | 2022-12-12 | 1 | 100 | 
 | 2022-12-11 | 1 | 100 | 
 | 2022-12-09 | 1 | 100 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 1 | 102 | 
 | 2022-11-15 | 1 | 102 | 
 | 2022-11-14 | 1 | 102 | 
-| 2022-11-13 | 1 | 102 | 
 

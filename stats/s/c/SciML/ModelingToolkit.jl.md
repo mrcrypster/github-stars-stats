@@ -1,10 +1,10 @@
 # SciML/ModelingToolkit.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 149
 
-★ Stars: 1113
+★ Stars: 1114
 
 [Open repository](https://github.com/SciML/ModelingToolkit.jl)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 1114 | 149 | 
+| 2022-12-13 | 1114 | 149 | 
 | 2022-12-12 | 1113 | 149 | 
 | 2022-12-10 | 1112 | 149 | 
 | 2022-12-09 | 1111 | 149 | 
@@ -40,5 +42,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 1100 | 147 | 
 | 2022-11-15 | 1100 | 147 | 
 | 2022-11-14 | 1100 | 147 | 
-| 2022-11-13 | 1099 | 147 | 
 

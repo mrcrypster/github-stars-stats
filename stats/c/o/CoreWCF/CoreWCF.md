@@ -1,6 +1,6 @@
 # CoreWCF/CoreWCF - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 234
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 1392 | 234 | 
 | 2022-12-12 | 1392 | 234 | 
 | 2022-12-10 | 1391 | 234 | 
 | 2022-12-09 | 1391 | 234 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 1380 | 229 | 
 | 2022-11-15 | 1378 | 229 | 
 | 2022-11-14 | 1378 | 230 | 
-| 2022-11-13 | 1378 | 230 | 
 

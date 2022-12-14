@@ -1,6 +1,6 @@
 # EnigmaticaModpacks/Enigmatica2Expert - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 89
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 108 | 89 | 
 | 2022-12-12 | 108 | 89 | 
 | 2022-12-11 | 108 | 89 | 
 | 2022-12-10 | 108 | 89 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 108 | 90 | 
 | 2022-11-15 | 108 | 90 | 
 | 2022-11-14 | 108 | 90 | 
-| 2022-11-13 | 108 | 90 | 
 

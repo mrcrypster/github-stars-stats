@@ -1,10 +1,10 @@
 # Bacon/BaconQrCode - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 169
 
-★ Stars: 1489
+★ Stars: 1488
 
 [Open repository](https://github.com/Bacon/BaconQrCode)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 1488 | 169 | 
 | 2022-12-11 | 1489 | 169 | 
 | 2022-12-10 | 1489 | 169 | 
 | 2022-12-09 | 1487 | 169 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 1466 | 167 | 
 | 2022-11-15 | 1465 | 167 | 
 | 2022-11-14 | 1464 | 167 | 
-| 2022-11-13 | 1464 | 167 | 
 

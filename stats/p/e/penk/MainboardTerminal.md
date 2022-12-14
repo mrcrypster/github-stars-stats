@@ -1,6 +1,6 @@
 # penk/MainboardTerminal - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 695 | 13 | 
 | 2022-12-12 | 695 | 13 | 
 | 2022-12-11 | 695 | 13 | 
 | 2022-12-10 | 695 | 13 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 693 | 13 | 
 | 2022-11-16 | 693 | 13 | 
 | 2022-11-15 | 693 | 13 | 
-| 2022-11-14 | 693 | 13 | 
 

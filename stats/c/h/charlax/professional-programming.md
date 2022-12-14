@@ -1,10 +1,10 @@
 # charlax/professional-programming - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 1955
 
-★ Stars: 22209
+★ Stars: 22225
 
 [Open repository](https://github.com/charlax/professional-programming)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 22225 | 1955 | 
 | 2022-12-12 | 22209 | 1955 | 
 | 2022-12-11 | 22196 | 1954 | 
 | 2022-12-10 | 22175 | 1952 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 21195 | 1887 | 
 | 2022-11-15 | 21175 | 1887 | 
 | 2022-11-14 | 21050 | 1880 | 
-| 2022-11-13 | 21027 | 1876 | 
 

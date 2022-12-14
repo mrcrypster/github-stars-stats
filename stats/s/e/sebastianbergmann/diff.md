@@ -1,10 +1,10 @@
 # sebastianbergmann/diff - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 76
 
-★ Stars: 7213
+★ Stars: 7215
 
 [Open repository](https://github.com/sebastianbergmann/diff)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 7215 | 76 | 
 | 2022-12-12 | 7213 | 76 | 
 | 2022-12-11 | 7214 | 76 | 
 | 2022-12-09 | 7213 | 76 | 

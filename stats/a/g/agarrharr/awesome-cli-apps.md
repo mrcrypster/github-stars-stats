@@ -1,10 +1,10 @@
 # agarrharr/awesome-cli-apps - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
-☋ Forks: 731
+☋ Forks: 732
 
-★ Stars: 10520
+★ Stars: 10529
 
 [Open repository](https://github.com/agarrharr/awesome-cli-apps)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 10529 | 732 | 
 | 2022-12-12 | 10520 | 731 | 
 | 2022-12-11 | 10517 | 730 | 
 | 2022-12-10 | 10499 | 730 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 10372 | 725 | 
 | 2022-11-15 | 10369 | 724 | 
 | 2022-11-14 | 10361 | 724 | 
-| 2022-11-13 | 10353 | 724 | 
 

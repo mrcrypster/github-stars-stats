@@ -1,10 +1,10 @@
 # simonbs/KeyboardToolbar - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 8
 
-★ Stars: 194
+★ Stars: 195
 
 [Open repository](https://github.com/simonbs/KeyboardToolbar)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 195 | 8 | 
 | 2022-12-12 | 194 | 8 | 
 | 2022-12-11 | 194 | 8 | 
 | 2022-12-09 | 194 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 192 | 8 | 
 | 2022-11-16 | 192 | 8 | 
 | 2022-11-15 | 192 | 8 | 
-| 2022-11-14 | 192 | 8 | 
 

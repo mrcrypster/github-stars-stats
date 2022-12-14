@@ -1,10 +1,10 @@
 # DaiZiLing/FluxInUnity - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
-☋ Forks: 1
+☋ Forks: 2
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/DaiZiLing/FluxInUnity)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 16 | 2 | 
 | 2022-12-12 | 15 | 1 | 
 | 2022-12-11 | 15 | 1 | 
 

@@ -1,10 +1,10 @@
 # aws-amplify/amplify-ios - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 143
 
-★ Stars: 306
+★ Stars: 308
 
 [Open repository](https://github.com/aws-amplify/amplify-ios)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 308 | 143 | 
 | 2022-12-12 | 306 | 143 | 
 | 2022-12-11 | 306 | 143 | 
 | 2022-12-10 | 306 | 143 | 

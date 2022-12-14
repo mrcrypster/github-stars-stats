@@ -1,8 +1,8 @@
 # fsprojects/FSharp.Data - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
-☋ Forks: 290
+☋ Forks: 291
 
 ★ Stars: 741
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 741 | 291 | 
 | 2022-12-11 | 741 | 290 | 
 | 2022-12-10 | 741 | 290 | 
 | 2022-12-09 | 741 | 290 | 

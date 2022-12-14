@@ -1,6 +1,6 @@
 # kghobbs/job-market-materials - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 35 | 15 | 
 | 2022-12-11 | 35 | 15 | 
 | 2022-12-10 | 35 | 15 | 
 | 2022-12-09 | 35 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 35 | 15 | 
 | 2022-11-15 | 35 | 15 | 
 | 2022-11-14 | 35 | 15 | 
-| 2022-11-13 | 35 | 15 | 
 

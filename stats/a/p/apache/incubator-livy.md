@@ -1,6 +1,6 @@
 # apache/incubator-livy - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 537
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 727 | 537 | 
 | 2022-12-12 | 727 | 537 | 
 | 2022-12-11 | 727 | 537 | 
 | 2022-12-09 | 726 | 537 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 720 | 534 | 
 | 2022-11-15 | 719 | 533 | 
 | 2022-11-14 | 719 | 533 | 
-| 2022-11-13 | 719 | 532 | 
 

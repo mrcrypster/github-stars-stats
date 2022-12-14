@@ -1,6 +1,6 @@
 # quarbby/FYP-LaTeX-Template - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 45 | 40 | 
 | 2022-12-12 | 45 | 40 | 
 | 2022-12-10 | 45 | 40 | 
 | 2022-12-09 | 45 | 40 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 45 | 40 | 
 | 2022-11-15 | 45 | 40 | 
 | 2022-11-14 | 45 | 40 | 
-| 2022-11-13 | 45 | 40 | 
 

@@ -1,10 +1,10 @@
 # ebitengine/purego - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 5
 
-★ Stars: 63
+★ Stars: 64
 
 [Open repository](https://github.com/ebitengine/purego)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 64 | 5 | 
 | 2022-12-12 | 63 | 5 | 
 | 2022-12-10 | 63 | 5 | 
 | 2022-12-09 | 63 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 58 | 5 | 
 | 2022-11-15 | 57 | 5 | 
 | 2022-11-14 | 57 | 5 | 
-| 2022-11-13 | 57 | 5 | 
 

@@ -1,6 +1,6 @@
 # scikit-learn-contrib/hdbscan - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 432
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 2316 | 432 | 
 | 2022-12-12 | 2316 | 432 | 
 | 2022-12-10 | 2316 | 432 | 
 | 2022-12-09 | 2315 | 431 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 2300 | 432 | 
 | 2022-11-16 | 2299 | 432 | 
 | 2022-11-15 | 2299 | 433 | 
-| 2022-11-13 | 2298 | 432 | 
 

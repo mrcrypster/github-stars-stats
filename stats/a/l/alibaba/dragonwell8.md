@@ -1,10 +1,10 @@
 # alibaba/dragonwell8 - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 464
 
-★ Stars: 3781
+★ Stars: 3782
 
 [Open repository](https://github.com/alibaba/dragonwell8)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 3782 | 464 | 
 | 2022-12-11 | 3781 | 464 | 
 | 2022-12-10 | 3780 | 464 | 
 | 2022-12-09 | 3778 | 464 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 3752 | 459 | 
 | 2022-11-15 | 3753 | 457 | 
 | 2022-11-14 | 3750 | 457 | 
-| 2022-11-13 | 3745 | 457 | 
 

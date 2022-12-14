@@ -1,10 +1,10 @@
 # awslabs/aws-data-wrangler - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
-☋ Forks: 557
+☋ Forks: 559
 
-★ Stars: 3249
+★ Stars: 3251
 
 [Open repository](https://github.com/awslabs/aws-data-wrangler)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 3251 | 559 | 
 | 2022-12-12 | 3249 | 557 | 
 | 2022-12-11 | 3248 | 558 | 
 | 2022-12-10 | 3248 | 558 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 3212 | 548 | 
 | 2022-11-15 | 3211 | 548 | 
 | 2022-11-14 | 3209 | 548 | 
-| 2022-11-13 | 3208 | 547 | 
 

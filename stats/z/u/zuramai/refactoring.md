@@ -1,6 +1,6 @@
 # zuramai/refactoring - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 79 | 12 | 
 | 2022-12-12 | 79 | 12 | 
 | 2022-12-11 | 79 | 12 | 
 | 2022-12-10 | 79 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 78 | 12 | 
 | 2022-11-15 | 78 | 12 | 
 | 2022-11-14 | 78 | 12 | 
-| 2022-11-13 | 78 | 12 | 
 

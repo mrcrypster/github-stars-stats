@@ -1,6 +1,6 @@
 # mfem/mfem - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 392
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 1090 | 392 | 
 | 2022-12-12 | 1090 | 392 | 
 | 2022-12-10 | 1090 | 392 | 
 | 2022-12-09 | 1089 | 392 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 1077 | 388 | 
 | 2022-11-15 | 1077 | 387 | 
 | 2022-11-14 | 1073 | 386 | 
-| 2022-11-13 | 1070 | 386 | 
 

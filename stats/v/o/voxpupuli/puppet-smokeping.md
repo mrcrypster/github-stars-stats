@@ -1,6 +1,6 @@
 # voxpupuli/puppet-smokeping - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 13 | 48 | 
 | 2022-12-12 | 13 | 48 | 
 | 2022-12-11 | 13 | 48 | 
 | 2022-12-09 | 13 | 48 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 13 | 48 | 
 | 2022-11-15 | 13 | 48 | 
 | 2022-11-14 | 13 | 48 | 
-| 2022-11-13 | 13 | 48 | 
 

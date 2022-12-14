@@ -1,6 +1,6 @@
 # appsecco/dvna - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 448
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 587 | 448 | 
 | 2022-12-12 | 587 | 448 | 
 | 2022-12-11 | 586 | 447 | 
 | 2022-12-10 | 586 | 447 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 565 | 438 | 
 | 2022-11-15 | 565 | 438 | 
 | 2022-11-14 | 561 | 437 | 
-| 2022-11-13 | 560 | 437 | 
 

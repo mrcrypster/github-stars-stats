@@ -1,6 +1,6 @@
 # squint-cljs/cherry - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 254 | 15 | 
 | 2022-12-11 | 254 | 15 | 
 | 2022-12-10 | 254 | 15 | 
 | 2022-12-09 | 252 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 240 | 14 | 
 | 2022-11-15 | 240 | 14 | 
 | 2022-11-14 | 240 | 14 | 
-| 2022-11-13 | 240 | 14 | 
 

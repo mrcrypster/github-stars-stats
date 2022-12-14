@@ -1,8 +1,8 @@
 # Chishio318/Peanuts-Data-Project - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
-☋ Forks: 12
+☋ Forks: 13
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 1 | 13 | 
 | 2022-12-12 | 1 | 12 | 
 | 2022-12-10 | 1 | 12 | 
 | 2022-12-09 | 1 | 12 | 

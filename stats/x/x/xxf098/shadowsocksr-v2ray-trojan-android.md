@@ -1,10 +1,10 @@
 # xxf098/shadowsocksr-v2ray-trojan-android - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 340
 
-★ Stars: 2629
+★ Stars: 2628
 
 [Open repository](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 2628 | 340 | 
 | 2022-12-12 | 2629 | 340 | 
 | 2022-12-11 | 2629 | 339 | 
 | 2022-12-10 | 2630 | 339 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 2605 | 335 | 
 | 2022-11-15 | 2602 | 335 | 
 | 2022-11-14 | 2602 | 335 | 
-| 2022-11-13 | 2603 | 334 | 
 

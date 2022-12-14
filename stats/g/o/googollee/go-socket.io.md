@@ -1,10 +1,10 @@
 # googollee/go-socket.io - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
-☋ Forks: 780
+☋ Forks: 781
 
-★ Stars: 4930
+★ Stars: 4932
 
 [Open repository](https://github.com/googollee/go-socket.io)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 4932 | 781 | 
 | 2022-12-12 | 4930 | 780 | 
 | 2022-12-11 | 4930 | 780 | 
 | 2022-12-09 | 4930 | 779 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 4899 | 777 | 
 | 2022-11-15 | 4899 | 777 | 
 | 2022-11-14 | 4899 | 777 | 
-| 2022-11-13 | 4899 | 777 | 
 

@@ -1,10 +1,10 @@
 # StefMa/hugo-fresh - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 279
 
-★ Stars: 441
+★ Stars: 443
 
 [Open repository](https://github.com/StefMa/hugo-fresh)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 443 | 279 | 
 | 2022-12-12 | 441 | 279 | 
 | 2022-12-11 | 441 | 278 | 
 | 2022-12-10 | 440 | 278 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 435 | 274 | 
 | 2022-11-15 | 434 | 274 | 
 | 2022-11-14 | 434 | 274 | 
-| 2022-11-13 | 433 | 275 | 
 

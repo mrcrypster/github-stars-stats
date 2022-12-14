@@ -1,10 +1,10 @@
 # cisagov/ScubaGear - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
-☋ Forks: 41
+☋ Forks: 42
 
-★ Stars: 568
+★ Stars: 575
 
 [Open repository](https://github.com/cisagov/ScubaGear)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 575 | 42 | 
 | 2022-12-12 | 568 | 41 | 
 | 2022-12-11 | 568 | 41 | 
 | 2022-12-10 | 567 | 41 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 491 | 30 | 
 | 2022-11-15 | 490 | 30 | 
 | 2022-11-14 | 488 | 30 | 
-| 2022-11-13 | 488 | 30 | 
 

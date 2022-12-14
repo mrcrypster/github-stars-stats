@@ -1,10 +1,10 @@
 # mzlogin/vim-markdown-toc - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 57
 
-★ Stars: 532
+★ Stars: 533
 
 [Open repository](https://github.com/mzlogin/vim-markdown-toc)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 533 | 57 | 
 | 2022-12-11 | 532 | 57 | 
 | 2022-12-10 | 532 | 57 | 
 | 2022-12-09 | 530 | 57 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 527 | 57 | 
 | 2022-11-15 | 527 | 57 | 
 | 2022-11-14 | 527 | 57 | 
-| 2022-11-13 | 527 | 57 | 
 

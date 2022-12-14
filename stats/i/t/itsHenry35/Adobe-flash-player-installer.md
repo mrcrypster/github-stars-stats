@@ -1,6 +1,6 @@
 # itsHenry35/Adobe-flash-player-installer - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 38 | 4 | 
 | 2022-12-12 | 38 | 4 | 
 | 2022-12-10 | 38 | 4 | 
 | 2022-12-09 | 38 | 4 | 

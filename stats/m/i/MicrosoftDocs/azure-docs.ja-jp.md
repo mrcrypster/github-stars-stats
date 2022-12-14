@@ -1,8 +1,8 @@
 # MicrosoftDocs/azure-docs.ja-jp - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
-☋ Forks: 412
+☋ Forks: 411
 
 ★ Stars: 172
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 172 | 411 | 
 | 2022-12-12 | 172 | 412 | 
 | 2022-12-11 | 172 | 412 | 
 | 2022-12-10 | 172 | 412 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 172 | 412 | 
 | 2022-11-15 | 172 | 412 | 
 | 2022-11-14 | 172 | 412 | 
-| 2022-11-13 | 172 | 412 | 
 

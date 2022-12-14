@@ -1,6 +1,6 @@
 # tarsius/hl-todo - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 312 | 20 | 
 | 2022-12-12 | 312 | 20 | 
 | 2022-12-11 | 312 | 20 | 
 | 2022-12-10 | 312 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 313 | 20 | 
 | 2022-11-15 | 313 | 20 | 
 | 2022-11-14 | 313 | 20 | 
-| 2022-11-13 | 313 | 20 | 
 

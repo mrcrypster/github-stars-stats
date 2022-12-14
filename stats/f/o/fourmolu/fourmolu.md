@@ -1,8 +1,8 @@
 # fourmolu/fourmolu - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
-☋ Forks: 35
+☋ Forks: 36
 
 ★ Stars: 219
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 219 | 36 | 
 | 2022-12-12 | 219 | 35 | 
 | 2022-12-11 | 219 | 35 | 
 | 2022-12-10 | 219 | 35 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 204 | 32 | 
 | 2022-11-15 | 204 | 32 | 
 | 2022-11-14 | 203 | 32 | 
-| 2022-11-13 | 203 | 32 | 
 

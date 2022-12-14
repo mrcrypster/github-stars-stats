@@ -1,10 +1,10 @@
 # q191201771/lal - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 304
 
-★ Stars: 1824
+★ Stars: 1828
 
 [Open repository](https://github.com/q191201771/lal)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 1828 | 304 | 
 | 2022-12-12 | 1824 | 304 | 
 | 2022-12-11 | 1824 | 304 | 
 | 2022-12-09 | 1824 | 303 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 1772 | 291 | 
 | 2022-11-15 | 1770 | 291 | 
 | 2022-11-14 | 1768 | 291 | 
-| 2022-11-13 | 1764 | 290 | 
 

@@ -1,6 +1,6 @@
 # groenewege/vim-less - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 608 | 46 | 
 | 2022-12-12 | 608 | 46 | 
 | 2022-12-11 | 608 | 46 | 
 | 2022-12-10 | 608 | 46 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 608 | 46 | 
 | 2022-11-16 | 608 | 46 | 
 | 2022-11-15 | 608 | 46 | 
-| 2022-11-14 | 608 | 46 | 
 

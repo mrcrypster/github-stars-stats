@@ -1,10 +1,10 @@
 # chrislusf/seaweedfs - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 1898
 
-★ Stars: 16131
+★ Stars: 16150
 
 [Open repository](https://github.com/chrislusf/seaweedfs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 16150 | 1898 | 
 | 2022-12-12 | 16131 | 1898 | 
 | 2022-12-11 | 16124 | 1898 | 
 | 2022-12-09 | 16115 | 1899 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 15840 | 1889 | 
 | 2022-11-15 | 15834 | 1890 | 
 | 2022-11-14 | 15823 | 1890 | 
-| 2022-11-13 | 15820 | 1890 | 
 

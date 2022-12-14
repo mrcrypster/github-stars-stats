@@ -1,8 +1,8 @@
 # WebAssembly/profiles - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
-☋ Forks: 2
+☋ Forks: 3
 
 ★ Stars: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 9 | 3 | 
 | 2022-12-12 | 9 | 2 | 
 | 2022-12-11 | 9 | 2 | 
 | 2022-12-10 | 9 | 2 | 

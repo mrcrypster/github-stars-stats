@@ -1,10 +1,10 @@
 # csdjk/LearnUnityShader - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 139
 
-★ Stars: 738
+★ Stars: 739
 
 [Open repository](https://github.com/csdjk/LearnUnityShader)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 739 | 139 | 
 | 2022-12-12 | 738 | 139 | 
 | 2022-12-11 | 736 | 138 | 
 | 2022-12-10 | 736 | 138 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 717 | 129 | 
 | 2022-11-15 | 717 | 128 | 
 | 2022-11-14 | 717 | 128 | 
-| 2022-11-13 | 717 | 128 | 
 

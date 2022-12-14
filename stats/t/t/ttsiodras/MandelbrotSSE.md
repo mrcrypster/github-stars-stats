@@ -1,6 +1,6 @@
 # ttsiodras/MandelbrotSSE - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 77 | 3 | 
 | 2022-12-12 | 77 | 3 | 
 | 2022-12-11 | 77 | 3 | 
 | 2022-12-09 | 77 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 76 | 2 | 
 | 2022-11-15 | 76 | 2 | 
 | 2022-11-14 | 76 | 2 | 
-| 2022-11-13 | 76 | 2 | 
 

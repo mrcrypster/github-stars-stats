@@ -1,10 +1,10 @@
 # zfile-dev/zfile - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
-☋ Forks: 1419
+☋ Forks: 1420
 
-★ Stars: 6678
+★ Stars: 6686
 
 [Open repository](https://github.com/zfile-dev/zfile)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 6686 | 1420 | 
 | 2022-12-12 | 6678 | 1419 | 
 | 2022-12-11 | 6674 | 1418 | 
 | 2022-12-10 | 6671 | 1416 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 6494 | 1383 | 
 | 2022-11-15 | 6487 | 1377 | 
 | 2022-11-14 | 6480 | 1371 | 
-| 2022-11-13 | 6477 | 1370 | 
 

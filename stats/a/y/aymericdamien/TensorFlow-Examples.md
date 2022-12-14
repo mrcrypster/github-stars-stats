@@ -1,10 +1,10 @@
 # aymericdamien/TensorFlow-Examples - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
-☋ Forks: 15165
+☋ Forks: 15167
 
-★ Stars: 42394
+★ Stars: 42395
 
 [Open repository](https://github.com/aymericdamien/TensorFlow-Examples)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 42395 | 15167 | 
 | 2022-12-12 | 42394 | 15165 | 
 | 2022-12-10 | 42391 | 15162 | 
 | 2022-12-09 | 42388 | 15160 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 42354 | 15166 | 
 | 2022-11-15 | 42353 | 15167 | 
 | 2022-11-14 | 42353 | 15167 | 
-| 2022-11-13 | 42350 | 15166 | 
 

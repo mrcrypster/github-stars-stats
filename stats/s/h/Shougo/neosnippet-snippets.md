@@ -1,6 +1,6 @@
 # Shougo/neosnippet-snippets - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 236
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 319 | 236 | 
 | 2022-12-12 | 319 | 236 | 
 | 2022-12-11 | 319 | 236 | 
 | 2022-12-09 | 319 | 236 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 318 | 237 | 
 | 2022-11-15 | 318 | 237 | 
 | 2022-11-14 | 318 | 237 | 
-| 2022-11-13 | 318 | 237 | 
 

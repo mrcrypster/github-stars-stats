@@ -1,6 +1,6 @@
 # kxxt/aspeak - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 349 | 40 | 
 | 2022-12-12 | 349 | 40 | 
 | 2022-12-10 | 348 | 40 | 
 | 2022-12-09 | 348 | 40 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 335 | 38 | 
 | 2022-11-15 | 335 | 38 | 
 | 2022-11-14 | 335 | 38 | 
-| 2022-11-13 | 335 | 38 | 
 

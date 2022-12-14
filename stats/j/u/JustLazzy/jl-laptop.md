@@ -1,10 +1,10 @@
 # JustLazzy/jl-laptop - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 43
 
-★ Stars: 41
+★ Stars: 42
 
 [Open repository](https://github.com/JustLazzy/jl-laptop)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 42 | 43 | 
 | 2022-12-12 | 41 | 43 | 
 | 2022-12-10 | 41 | 42 | 
 | 2022-12-09 | 41 | 42 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 34 | 35 | 
 | 2022-11-15 | 34 | 35 | 
 | 2022-11-14 | 33 | 34 | 
-| 2022-11-13 | 32 | 33 | 
 

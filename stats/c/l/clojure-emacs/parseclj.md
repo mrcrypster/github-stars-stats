@@ -1,6 +1,6 @@
 # clojure-emacs/parseclj - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 48 | 13 | 
 | 2022-12-12 | 48 | 13 | 
 | 2022-12-10 | 48 | 13 | 
 | 2022-12-09 | 48 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 48 | 13 | 
 | 2022-11-15 | 48 | 13 | 
 | 2022-11-14 | 48 | 13 | 
-| 2022-11-13 | 48 | 13 | 
 

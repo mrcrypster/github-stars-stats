@@ -1,10 +1,10 @@
 # rdbende/Sun-Valley-ttk-theme - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 58
 
-★ Stars: 993
+★ Stars: 994
 
 [Open repository](https://github.com/rdbende/Sun-Valley-ttk-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 994 | 58 | 
 | 2022-12-12 | 993 | 58 | 
 | 2022-12-11 | 990 | 58 | 
 | 2022-12-10 | 987 | 58 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 946 | 55 | 
 | 2022-11-15 | 946 | 55 | 
 | 2022-11-14 | 945 | 55 | 
-| 2022-11-13 | 945 | 55 | 
 

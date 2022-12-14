@@ -1,8 +1,8 @@
 # mate-academy/layout_creativeBakery - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
-☋ Forks: 352
+☋ Forks: 351
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 1 | 351 | 
 | 2022-12-12 | 1 | 352 | 
 | 2022-12-11 | 1 | 352 | 
 | 2022-12-10 | 1 | 351 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 1 | 337 | 
 | 2022-11-15 | 1 | 334 | 
 | 2022-11-14 | 1 | 334 | 
-| 2022-11-13 | 1 | 334 | 
 

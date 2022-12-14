@@ -1,6 +1,6 @@
 # atedeg/mdm - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 6 | 2 | 
 | 2022-12-12 | 6 | 2 | 
 | 2022-12-10 | 6 | 2 | 
 | 2022-12-09 | 6 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 6 | 2 | 
 | 2022-11-15 | 6 | 2 | 
 | 2022-11-14 | 6 | 2 | 
-| 2022-11-13 | 6 | 2 | 
 

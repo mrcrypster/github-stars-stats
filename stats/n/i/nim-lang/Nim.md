@@ -1,10 +1,10 @@
 # nim-lang/Nim - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
-☋ Forks: 1360
+☋ Forks: 1361
 
-★ Stars: 14247
+★ Stars: 14252
 
 [Open repository](https://github.com/nim-lang/Nim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 14252 | 1361 | 
 | 2022-12-12 | 14247 | 1360 | 
 | 2022-12-11 | 14243 | 1360 | 
 | 2022-12-10 | 14235 | 1361 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 14066 | 1346 | 
 | 2022-11-15 | 14059 | 1343 | 
 | 2022-11-14 | 14046 | 1344 | 
-| 2022-11-13 | 14036 | 1343 | 
 

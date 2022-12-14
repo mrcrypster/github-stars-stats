@@ -1,8 +1,8 @@
 # ash237/hotline-024 - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
-☋ Forks: 3
+☋ Forks: 4
 
 ★ Stars: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 7 | 4 | 
 | 2022-12-12 | 7 | 3 | 
 | 2022-12-11 | 7 | 3 | 
 | 2022-12-10 | 7 | 3 | 

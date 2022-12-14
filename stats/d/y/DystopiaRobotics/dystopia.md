@@ -1,10 +1,10 @@
 # DystopiaRobotics/dystopia - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 0
 
-★ Stars: 115
+★ Stars: 116
 
 [Open repository](https://github.com/DystopiaRobotics/dystopia)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 116 | - | 
 | 2022-12-12 | 115 | - | 
 | 2022-12-11 | 115 | - | 
 | 2022-12-09 | 115 | - | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 115 | - | 
 | 2022-11-16 | 115 | - | 
 | 2022-11-15 | 115 | - | 
-| 2022-11-13 | 115 | - | 
 

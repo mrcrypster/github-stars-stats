@@ -1,6 +1,6 @@
 # IlluminatiFish/Odyssey - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 41 | 7 | 
 | 2022-12-11 | 41 | 7 | 
 | 2022-12-10 | 41 | 7 | 
 | 2022-12-09 | 41 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 42 | 7 | 
 | 2022-11-15 | 42 | 7 | 
 | 2022-11-14 | 42 | 7 | 
-| 2022-11-13 | 42 | 7 | 
 

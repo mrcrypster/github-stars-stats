@@ -1,6 +1,6 @@
 # PoisonAlien/basegraphics - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 41 | 7 | 
 | 2022-12-12 | 41 | 7 | 
 | 2022-12-11 | 41 | 7 | 
 | 2022-12-10 | 41 | 7 | 

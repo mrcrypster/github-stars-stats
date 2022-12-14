@@ -1,6 +1,6 @@
 # latex3/latex3 - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 156
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 1577 | 156 | 
 | 2022-12-12 | 1577 | 156 | 
 | 2022-12-11 | 1577 | 156 | 
 | 2022-12-10 | 1575 | 156 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 1560 | 152 | 
 | 2022-11-15 | 1560 | 152 | 
 | 2022-11-14 | 1560 | 152 | 
-| 2022-11-13 | 1560 | 152 | 
 

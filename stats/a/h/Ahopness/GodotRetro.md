@@ -1,10 +1,10 @@
 # Ahopness/GodotRetro - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 15
 
-★ Stars: 242
+★ Stars: 243
 
 [Open repository](https://github.com/Ahopness/GodotRetro)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 243 | 15 | 
 | 2022-12-11 | 242 | 15 | 
 | 2022-12-10 | 242 | 15 | 
 | 2022-12-09 | 242 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 233 | 14 | 
 | 2022-11-15 | 231 | 14 | 
 | 2022-11-14 | 231 | 14 | 
-| 2022-11-13 | 231 | 14 | 
 

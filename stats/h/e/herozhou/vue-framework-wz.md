@@ -1,10 +1,10 @@
 # herozhou/vue-framework-wz - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
-☋ Forks: 1328
+☋ Forks: 1329
 
-★ Stars: 4080
+★ Stars: 4084
 
 [Open repository](https://github.com/herozhou/vue-framework-wz)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 4084 | 1329 | 
 | 2022-12-12 | 4080 | 1328 | 
 | 2022-12-10 | 4072 | 1327 | 
 | 2022-12-08 | 4065 | 1326 | 

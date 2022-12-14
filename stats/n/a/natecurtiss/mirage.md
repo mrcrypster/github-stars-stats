@@ -1,6 +1,6 @@
 # natecurtiss/mirage - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 124 | 7 | 
 | 2022-12-12 | 124 | 7 | 
 | 2022-12-11 | 123 | 7 | 
 | 2022-12-10 | 123 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 122 | 7 | 
 | 2022-11-15 | 122 | 7 | 
 | 2022-11-14 | 120 | 7 | 
-| 2022-11-13 | 119 | 7 | 
 

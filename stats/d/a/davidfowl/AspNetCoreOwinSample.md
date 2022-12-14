@@ -1,6 +1,6 @@
 # davidfowl/AspNetCoreOwinSample - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 41 | 2 | 
 | 2022-12-11 | 41 | 2 | 
 | 2022-12-10 | 40 | 2 | 
 | 2022-12-09 | 40 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 39 | 2 | 
 | 2022-11-15 | 39 | 2 | 
 | 2022-11-14 | 39 | 2 | 
-| 2022-11-13 | 39 | 2 | 
 

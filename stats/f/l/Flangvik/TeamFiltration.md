@@ -1,10 +1,10 @@
 # Flangvik/TeamFiltration - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
-☋ Forks: 65
+☋ Forks: 64
 
-★ Stars: 552
+★ Stars: 558
 
 [Open repository](https://github.com/Flangvik/TeamFiltration)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 558 | 64 | 
 | 2022-12-12 | 552 | 65 | 
 | 2022-12-11 | 544 | 63 | 
 | 2022-12-10 | 542 | 63 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 506 | 56 | 
 | 2022-11-16 | 504 | 56 | 
 | 2022-11-15 | 503 | 56 | 
-| 2022-11-14 | 501 | 54 | 
 

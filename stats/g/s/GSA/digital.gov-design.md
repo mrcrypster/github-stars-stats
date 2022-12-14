@@ -1,6 +1,6 @@
 # GSA/digital.gov-design - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 4 | 4 | 
 | 2022-12-12 | 4 | 4 | 
 | 2022-12-11 | 4 | 4 | 
 | 2022-12-09 | 4 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 4 | 4 | 
 | 2022-11-15 | 4 | 4 | 
 | 2022-11-14 | 4 | 4 | 
-| 2022-11-13 | 4 | 4 | 
 

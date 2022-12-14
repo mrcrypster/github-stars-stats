@@ -1,6 +1,6 @@
 # aliyun/aliyun-oss-ios-sdk - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 306
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 423 | 306 | 
 | 2022-12-11 | 423 | 306 | 
 | 2022-12-10 | 423 | 306 | 
 | 2022-12-09 | 423 | 306 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 423 | 304 | 
 | 2022-11-15 | 423 | 303 | 
 | 2022-11-14 | 423 | 303 | 
-| 2022-11-13 | 423 | 303 | 
 

@@ -1,6 +1,6 @@
 # mozilla-l10n/fx-private-relay-l10n - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 4 | 5 | 
 | 2022-12-11 | 4 | 5 | 
 | 2022-12-10 | 4 | 5 | 
 | 2022-12-09 | 4 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 3 | 4 | 
 | 2022-11-15 | 3 | 4 | 
 | 2022-11-14 | 3 | 4 | 
-| 2022-11-13 | 3 | 4 | 
 

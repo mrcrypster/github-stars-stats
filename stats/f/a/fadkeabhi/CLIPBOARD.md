@@ -1,6 +1,6 @@
 # fadkeabhi/CLIPBOARD - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 18 | 39 | 
 | 2022-12-12 | 18 | 39 | 
 | 2022-12-10 | 18 | 39 | 
 | 2022-12-09 | 18 | 39 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 18 | 40 | 
 | 2022-11-15 | 18 | 40 | 
 | 2022-11-14 | 18 | 40 | 
-| 2022-11-13 | 18 | 40 | 
 

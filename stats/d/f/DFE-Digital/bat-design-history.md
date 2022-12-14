@@ -1,10 +1,10 @@
 # DFE-Digital/bat-design-history - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 11
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/DFE-Digital/bat-design-history)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 11 | 11 | 
 | 2022-12-12 | 10 | 11 | 
 | 2022-12-11 | 10 | 11 | 
 | 2022-12-10 | 10 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 10 | 10 | 
 | 2022-11-15 | 10 | 10 | 
 | 2022-11-14 | 10 | 10 | 
-| 2022-11-13 | 10 | 10 | 
 

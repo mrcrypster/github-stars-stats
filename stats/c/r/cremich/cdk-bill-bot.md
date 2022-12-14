@@ -1,10 +1,10 @@
 # cremich/cdk-bill-bot - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
-☋ Forks: 19
+☋ Forks: 20
 
-★ Stars: 477
+★ Stars: 478
 
 [Open repository](https://github.com/cremich/cdk-bill-bot)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 478 | 20 | 
 | 2022-12-11 | 477 | 19 | 
 | 2022-12-10 | 477 | 19 | 
 | 2022-12-09 | 477 | 19 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 474 | 19 | 
 | 2022-11-15 | 474 | 19 | 
 | 2022-11-14 | 473 | 19 | 
-| 2022-11-13 | 472 | 19 | 
 

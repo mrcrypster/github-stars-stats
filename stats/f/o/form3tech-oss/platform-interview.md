@@ -1,8 +1,8 @@
 # form3tech-oss/platform-interview - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
-☋ Forks: 40
+☋ Forks: 41
 
 ★ Stars: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 4 | 41 | 
 | 2022-12-12 | 4 | 40 | 
 | 2022-12-11 | 4 | 40 | 
 | 2022-12-09 | 4 | 40 | 

@@ -1,8 +1,8 @@
 # rudderlabs/rudderstack-helm - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
-☋ Forks: 40
+☋ Forks: 41
 
 ★ Stars: 33
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 33 | 41 | 
 | 2022-12-12 | 33 | 40 | 
 | 2022-12-10 | 33 | 40 | 
 | 2022-12-09 | 33 | 40 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 32 | 38 | 
 | 2022-11-15 | 32 | 38 | 
 | 2022-11-14 | 32 | 38 | 
-| 2022-11-13 | 32 | 37 | 
 

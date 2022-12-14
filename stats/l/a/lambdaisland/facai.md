@@ -1,6 +1,6 @@
 # lambdaisland/facai - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 43 | 1 | 
 | 2022-12-12 | 43 | 1 | 
 | 2022-12-10 | 43 | 1 | 
 | 2022-12-09 | 43 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 40 | 1 | 
 | 2022-11-15 | 39 | 1 | 
 | 2022-11-14 | 39 | 1 | 
-| 2022-11-13 | 38 | 1 | 
 

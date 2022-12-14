@@ -1,10 +1,10 @@
 # othree/html5.vim - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 79
 
-★ Stars: 927
+★ Stars: 928
 
 [Open repository](https://github.com/othree/html5.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 928 | 79 | 
 | 2022-12-12 | 927 | 79 | 
 | 2022-12-11 | 927 | 79 | 
 | 2022-12-10 | 927 | 79 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 927 | 79 | 
 | 2022-11-16 | 927 | 79 | 
 | 2022-11-15 | 927 | 79 | 
-| 2022-11-13 | 927 | 79 | 
 

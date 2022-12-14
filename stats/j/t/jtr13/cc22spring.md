@@ -1,6 +1,6 @@
 # jtr13/cc22spring - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 1 | 57 | 
 | 2022-12-12 | 1 | 57 | 
 | 2022-12-10 | 1 | 57 | 
 | 2022-12-09 | 1 | 57 | 

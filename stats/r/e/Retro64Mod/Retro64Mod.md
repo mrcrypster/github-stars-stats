@@ -1,6 +1,6 @@
 # Retro64Mod/Retro64Mod - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 123 | 27 | 
 | 2022-12-12 | 123 | 27 | 
 | 2022-12-11 | 123 | 27 | 
 | 2022-12-10 | 122 | 27 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 112 | 24 | 
 | 2022-11-15 | 112 | 24 | 
 | 2022-11-14 | 111 | 24 | 
-| 2022-11-13 | 111 | 24 | 
 

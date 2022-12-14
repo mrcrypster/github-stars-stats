@@ -1,10 +1,10 @@
 # olifolkerd/tabulator - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
-☋ Forks: 673
+☋ Forks: 675
 
-★ Stars: 5073
+★ Stars: 5078
 
 [Open repository](https://github.com/olifolkerd/tabulator)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 5078 | 675 | 
 | 2022-12-12 | 5073 | 673 | 
 | 2022-12-11 | 5071 | 673 | 
 | 2022-12-10 | 5069 | 673 | 

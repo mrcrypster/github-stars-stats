@@ -1,6 +1,6 @@
 # Luukdegram/pulima - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 13 | - | 
 | 2022-12-11 | 13 | - | 
 | 2022-12-10 | 13 | - | 
 | 2022-12-09 | 13 | - | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 13 | - | 
 | 2022-11-15 | 13 | - | 
 | 2022-11-14 | 13 | - | 
-| 2022-11-13 | 13 | - | 
 

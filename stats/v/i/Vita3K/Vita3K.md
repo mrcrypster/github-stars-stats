@@ -1,10 +1,10 @@
 # Vita3K/Vita3K - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
-☋ Forks: 265
+☋ Forks: 266
 
-★ Stars: 2274
+★ Stars: 2277
 
 [Open repository](https://github.com/Vita3K/Vita3K)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 2277 | 266 | 
 | 2022-12-12 | 2274 | 265 | 
 | 2022-12-11 | 2273 | 265 | 
 | 2022-12-10 | 2271 | 265 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 2234 | 260 | 
 | 2022-11-15 | 2231 | 259 | 
 | 2022-11-14 | 2229 | 259 | 
-| 2022-11-13 | 2227 | 259 | 
 

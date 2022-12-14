@@ -1,10 +1,10 @@
 # oracle/truffleruby - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 173
 
-★ Stars: 2801
+★ Stars: 2802
 
 [Open repository](https://github.com/oracle/truffleruby)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 2802 | 173 | 
 | 2022-12-12 | 2801 | 173 | 
 | 2022-12-11 | 2800 | 173 | 
 | 2022-12-10 | 2800 | 173 | 

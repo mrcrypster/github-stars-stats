@@ -1,6 +1,6 @@
 # overbound/SonicTimeTwisted - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 48 | 16 | 
 | 2022-12-12 | 48 | 16 | 
 | 2022-12-11 | 48 | 16 | 
 | 2022-12-09 | 48 | 16 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 48 | 16 | 
 | 2022-11-16 | 48 | 16 | 
 | 2022-11-15 | 48 | 16 | 
-| 2022-11-14 | 48 | 16 | 
 

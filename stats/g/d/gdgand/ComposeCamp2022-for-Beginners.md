@@ -1,6 +1,6 @@
 # gdgand/ComposeCamp2022-for-Beginners - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 357
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 44 | 357 | 
 | 2022-12-12 | 44 | 357 | 
 | 2022-12-11 | 44 | 356 | 
 | 2022-12-10 | 44 | 354 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 42 | 297 | 
 | 2022-11-15 | 42 | 295 | 
 | 2022-11-14 | 42 | 286 | 
-| 2022-11-13 | 40 | 276 | 
 

@@ -1,10 +1,10 @@
 # rahuldkjain/github-profile-readme-generator - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
-☋ Forks: 3603
+☋ Forks: 3605
 
-★ Stars: 13660
+★ Stars: 13682
 
 [Open repository](https://github.com/rahuldkjain/github-profile-readme-generator)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 13682 | 3605 | 
 | 2022-12-12 | 13660 | 3603 | 
 | 2022-12-11 | 13641 | 3599 | 
 | 2022-12-09 | 13625 | 3597 | 

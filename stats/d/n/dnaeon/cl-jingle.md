@@ -1,10 +1,10 @@
 # dnaeon/cl-jingle - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 0
 
-★ Stars: 23
+★ Stars: 25
 
 [Open repository](https://github.com/dnaeon/cl-jingle)
 
@@ -13,7 +13,8 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-13 | 23 | - | 
+| 2022-12-14 | 25 | - | 
+| 2022-12-13 | 25 | - | 
 | 2022-12-12 | 18 | - | 
 | 2022-12-11 | 16 | - | 
 

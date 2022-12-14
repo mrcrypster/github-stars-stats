@@ -1,6 +1,6 @@
 # gogochi/githw111 - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | - | 47 | 
 | 2022-12-12 | - | 47 | 
 | 2022-12-11 | - | 47 | 
 | 2022-12-09 | - | 47 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | - | 47 | 
 | 2022-11-16 | - | 47 | 
 | 2022-11-15 | - | 47 | 
-| 2022-11-14 | - | 47 | 
 

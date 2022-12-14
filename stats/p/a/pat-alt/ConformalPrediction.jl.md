@@ -1,10 +1,10 @@
 # pat-alt/ConformalPrediction.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 4
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/pat-alt/ConformalPrediction.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 30 | 4 | 
 | 2022-12-12 | 29 | 4 | 
 | 2022-12-11 | 28 | 2 | 
 | 2022-12-10 | 28 | 2 | 

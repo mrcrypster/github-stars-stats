@@ -1,6 +1,6 @@
 # VincentWong3/automatic-driving-decision-and-planning-for-matlab - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 153
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 334 | 153 | 
 | 2022-12-11 | 334 | 153 | 
 | 2022-12-10 | 333 | 153 | 
 | 2022-12-09 | 332 | 153 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 323 | 140 | 
 | 2022-11-15 | 321 | 139 | 
 | 2022-11-14 | 320 | 139 | 
-| 2022-11-13 | 320 | 139 | 
 

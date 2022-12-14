@@ -1,6 +1,6 @@
 # saiftynet/Wordle - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 29 | - | 
 | 2022-12-12 | 29 | - | 
 | 2022-12-10 | 29 | - | 
 | 2022-12-09 | 30 | - | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 30 | 1 | 
 | 2022-11-15 | 30 | 1 | 
 | 2022-11-14 | 30 | 1 | 
-| 2022-11-13 | 30 | 1 | 
 

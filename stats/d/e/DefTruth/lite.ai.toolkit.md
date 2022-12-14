@@ -1,10 +1,10 @@
 # DefTruth/lite.ai.toolkit - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 521
 
-★ Stars: 2333
+★ Stars: 2341
 
 [Open repository](https://github.com/DefTruth/lite.ai.toolkit)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 2341 | 521 | 
 | 2022-12-11 | 2333 | 521 | 
 | 2022-12-10 | 2332 | 521 | 
 | 2022-12-09 | 2332 | 521 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 2263 | 505 | 
 | 2022-11-15 | 2262 | 505 | 
 | 2022-11-14 | 2256 | 504 | 
-| 2022-11-13 | 2252 | 503 | 
 

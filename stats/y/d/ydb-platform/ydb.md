@@ -1,10 +1,10 @@
 # ydb-platform/ydb - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 185
 
-★ Stars: 2652
+★ Stars: 2656
 
 [Open repository](https://github.com/ydb-platform/ydb)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 2656 | 185 | 
 | 2022-12-12 | 2652 | 185 | 
 | 2022-12-11 | 2652 | 185 | 
 | 2022-12-09 | 2653 | 186 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 2630 | 184 | 
 | 2022-11-16 | 2630 | 184 | 
 | 2022-11-15 | 2630 | 183 | 
-| 2022-11-14 | 2630 | 183 | 
 

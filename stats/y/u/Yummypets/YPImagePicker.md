@@ -1,10 +1,10 @@
 # Yummypets/YPImagePicker - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 889
 
-★ Stars: 3960
+★ Stars: 3962
 
 [Open repository](https://github.com/Yummypets/YPImagePicker)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 3962 | 889 | 
 | 2022-12-11 | 3960 | 889 | 
 | 2022-12-10 | 3960 | 888 | 
 | 2022-12-09 | 3960 | 888 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 3945 | 883 | 
 | 2022-11-15 | 3944 | 883 | 
 | 2022-11-14 | 3942 | 884 | 
-| 2022-11-13 | 3941 | 884 | 
 

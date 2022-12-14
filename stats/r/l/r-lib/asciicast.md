@@ -1,6 +1,6 @@
 # r-lib/asciicast - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 194 | 10 | 
 | 2022-12-12 | 194 | 10 | 
 | 2022-12-11 | 194 | 10 | 
 | 2022-12-10 | 194 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 192 | 9 | 
 | 2022-11-15 | 192 | 9 | 
 | 2022-11-14 | 192 | 9 | 
-| 2022-11-13 | 192 | 9 | 
 

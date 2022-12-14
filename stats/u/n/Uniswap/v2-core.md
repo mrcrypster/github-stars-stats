@@ -1,10 +1,10 @@
 # Uniswap/v2-core - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
-☋ Forks: 2399
+☋ Forks: 2405
 
-★ Stars: 2247
+★ Stars: 2249
 
 [Open repository](https://github.com/Uniswap/v2-core)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 2249 | 2405 | 
 | 2022-12-12 | 2247 | 2399 | 
 | 2022-12-10 | 2246 | 2400 | 
 | 2022-12-09 | 2246 | 2399 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 2205 | 2362 | 
 | 2022-11-15 | 2204 | 2359 | 
 | 2022-11-14 | 2203 | 2357 | 
-| 2022-11-13 | 2200 | 2356 | 
 

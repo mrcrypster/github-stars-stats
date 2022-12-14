@@ -1,8 +1,8 @@
 # pages-themes/primer - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
-☋ Forks: 243
+☋ Forks: 244
 
 ★ Stars: 221
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 221 | 244 | 
 | 2022-12-11 | 221 | 243 | 
 | 2022-12-10 | 221 | 243 | 
 | 2022-12-09 | 221 | 244 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 218 | 243 | 
 | 2022-11-15 | 218 | 243 | 
 | 2022-11-14 | 218 | 243 | 
-| 2022-11-13 | 218 | 243 | 
 

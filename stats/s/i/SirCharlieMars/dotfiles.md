@@ -1,6 +1,6 @@
 # SirCharlieMars/dotfiles - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 316 | 55 | 
 | 2022-12-12 | 316 | 55 | 
 | 2022-12-10 | 315 | 55 | 
 | 2022-12-09 | 315 | 54 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 272 | 44 | 
 | 2022-11-15 | 270 | 44 | 
 | 2022-11-14 | 268 | 44 | 
-| 2022-11-13 | 264 | 43 | 
 

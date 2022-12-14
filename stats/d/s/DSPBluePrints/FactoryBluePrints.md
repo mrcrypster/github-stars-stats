@@ -1,10 +1,10 @@
 # DSPBluePrints/FactoryBluePrints - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
-☋ Forks: 44
+☋ Forks: 45
 
-★ Stars: 110
+★ Stars: 111
 
 [Open repository](https://github.com/DSPBluePrints/FactoryBluePrints)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 111 | 45 | 
 | 2022-12-12 | 110 | 44 | 
 | 2022-12-11 | 107 | 43 | 
 | 2022-12-09 | 106 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 98 | 35 | 
 | 2022-11-15 | 97 | 35 | 
 | 2022-11-14 | 95 | 35 | 
-| 2022-11-13 | 95 | 35 | 
 

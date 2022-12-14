@@ -1,6 +1,6 @@
 # CapsAdmin/pac3 - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 85
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 182 | 85 | 
 | 2022-12-12 | 182 | 85 | 
 | 2022-12-10 | 182 | 85 | 
 | 2022-12-09 | 182 | 85 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 178 | 84 | 
 | 2022-11-15 | 178 | 84 | 
 | 2022-11-14 | 178 | 84 | 
-| 2022-11-13 | 177 | 84 | 
 

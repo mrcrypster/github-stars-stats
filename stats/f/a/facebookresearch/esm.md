@@ -1,10 +1,10 @@
 # facebookresearch/esm - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 297
 
-★ Stars: 1509
+★ Stars: 1515
 
 [Open repository](https://github.com/facebookresearch/esm)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 1515 | 297 | 
 | 2022-12-12 | 1509 | 297 | 
 | 2022-12-11 | 1504 | 297 | 
 | 2022-12-09 | 1504 | 297 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 1449 | 284 | 
 | 2022-11-15 | 1438 | 283 | 
 | 2022-11-14 | 1434 | 283 | 
-| 2022-11-13 | 1429 | 280 | 
 

@@ -1,10 +1,10 @@
 # LogicalAtomist/principia - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 5
 
-★ Stars: 184
+★ Stars: 185
 
 [Open repository](https://github.com/LogicalAtomist/principia)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 185 | 5 | 
 | 2022-12-12 | 184 | 5 | 
 | 2022-12-10 | 184 | 5 | 
 | 2022-12-09 | 184 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 182 | 5 | 
 | 2022-11-15 | 182 | 5 | 
 | 2022-11-14 | 182 | 5 | 
-| 2022-11-13 | 182 | 5 | 
 

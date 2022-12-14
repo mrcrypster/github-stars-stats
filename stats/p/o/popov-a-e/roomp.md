@@ -1,6 +1,6 @@
 # popov-a-e/roomp - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 55 | - | 
 | 2022-12-11 | 55 | - | 
 | 2022-12-10 | 55 | - | 
 | 2022-12-09 | 55 | - | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 55 | - | 
 | 2022-11-15 | 55 | - | 
 | 2022-11-14 | 55 | - | 
-| 2022-11-13 | 55 | - | 
 

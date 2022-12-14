@@ -1,6 +1,6 @@
 # nat-418/boole.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 62 | 3 | 
 | 2022-12-11 | 62 | 3 | 
 | 2022-12-10 | 62 | 3 | 
 | 2022-12-09 | 62 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-17 | 53 | 3 | 
 | 2022-11-15 | 53 | 3 | 
 | 2022-11-14 | 52 | 3 | 
-| 2022-11-13 | 51 | 3 | 
 

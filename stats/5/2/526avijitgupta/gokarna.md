@@ -1,10 +1,10 @@
 # 526avijitgupta/gokarna - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 59
 
-★ Stars: 131
+★ Stars: 132
 
 [Open repository](https://github.com/526avijitgupta/gokarna)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 132 | 59 | 
 | 2022-12-12 | 131 | 59 | 
 | 2022-12-11 | 129 | 59 | 
 | 2022-12-09 | 128 | 58 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 121 | 51 | 
 | 2022-11-15 | 121 | 50 | 
 | 2022-11-14 | 120 | 50 | 
-| 2022-11-13 | 120 | 49 | 
 

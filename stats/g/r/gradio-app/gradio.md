@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 13
 
-☋ Forks: 708
+☋ Forks: 710
 
-★ Stars: 11181
+★ Stars: 11194
 
 [Open repository](https://github.com/gradio-app/gradio)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-13 | 11181 | 708 | 
+| 2022-12-13 | 11194 | 710 | 
 | 2022-12-12 | 11172 | 707 | 
 | 2022-12-11 | 11149 | 703 | 
 | 2022-12-10 | 11121 | 702 | 

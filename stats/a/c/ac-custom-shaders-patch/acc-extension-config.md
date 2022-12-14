@@ -1,6 +1,6 @@
 # ac-custom-shaders-patch/acc-extension-config - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 179
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 152 | 179 | 
 | 2022-12-12 | 152 | 179 | 
 | 2022-12-10 | 152 | 179 | 
 | 2022-12-09 | 152 | 178 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 146 | 178 | 
 | 2022-11-15 | 146 | 178 | 
 | 2022-11-14 | 146 | 178 | 
-| 2022-11-13 | 146 | 178 | 
 

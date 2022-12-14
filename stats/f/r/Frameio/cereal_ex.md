@@ -1,6 +1,6 @@
 # Frameio/cereal_ex - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 4 | 2 | 
 | 2022-12-12 | 4 | 2 | 
 | 2022-12-10 | 4 | 2 | 
 | 2022-12-09 | 4 | 2 | 

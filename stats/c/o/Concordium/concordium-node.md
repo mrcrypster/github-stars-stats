@@ -1,6 +1,6 @@
 # Concordium/concordium-node - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 29 | 13 | 
 | 2022-12-11 | 29 | 13 | 
 | 2022-12-10 | 29 | 13 | 
 | 2022-12-09 | 29 | 13 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-17 | 28 | 10 | 
 | 2022-11-16 | 28 | 10 | 
 | 2022-11-14 | 28 | 10 | 
-| 2022-11-13 | 28 | 10 | 
 

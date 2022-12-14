@@ -1,10 +1,10 @@
 # KwaiAppTeam/SwiftPamphletApp - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 337
 
-★ Stars: 1927
+★ Stars: 1929
 
 [Open repository](https://github.com/KwaiAppTeam/SwiftPamphletApp)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 1929 | 337 | 
 | 2022-12-12 | 1927 | 337 | 
 | 2022-12-10 | 1924 | 337 | 
 | 2022-12-09 | 1924 | 337 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 1910 | 334 | 
 | 2022-11-15 | 1908 | 334 | 
 | 2022-11-14 | 1909 | 333 | 
-| 2022-11-13 | 1909 | 333 | 
 

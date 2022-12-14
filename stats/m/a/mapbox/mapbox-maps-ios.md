@@ -1,10 +1,10 @@
 # mapbox/mapbox-maps-ios - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 103
 
-★ Stars: 265
+★ Stars: 266
 
 [Open repository](https://github.com/mapbox/mapbox-maps-ios)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 266 | 103 | 
 | 2022-12-11 | 265 | 103 | 
 | 2022-12-10 | 265 | 102 | 
 | 2022-12-09 | 265 | 102 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 257 | 99 | 
 | 2022-11-15 | 256 | 97 | 
 | 2022-11-14 | 255 | 96 | 
-| 2022-11-13 | 255 | 95 | 
 

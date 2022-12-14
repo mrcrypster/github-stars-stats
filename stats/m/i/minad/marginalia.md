@@ -1,10 +1,10 @@
 # minad/marginalia - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 23
 
-★ Stars: 479
+★ Stars: 480
 
 [Open repository](https://github.com/minad/marginalia)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 480 | 23 | 
 | 2022-12-12 | 479 | 23 | 
 | 2022-12-11 | 479 | 23 | 
 | 2022-12-10 | 479 | 23 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 461 | 22 | 
 | 2022-11-15 | 461 | 22 | 
 | 2022-11-14 | 459 | 22 | 
-| 2022-11-13 | 458 | 22 | 
 

@@ -1,10 +1,10 @@
 # dcomtois/summarytools - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 70
 
-★ Stars: 456
+★ Stars: 457
 
 [Open repository](https://github.com/dcomtois/summarytools)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 457 | 70 | 
 | 2022-12-12 | 456 | 70 | 
 | 2022-12-11 | 456 | 70 | 
 | 2022-12-09 | 456 | 70 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 454 | 70 | 
 | 2022-11-15 | 454 | 70 | 
 | 2022-11-14 | 454 | 70 | 
-| 2022-11-13 | 454 | 70 | 
 

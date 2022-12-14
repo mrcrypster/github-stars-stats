@@ -1,10 +1,10 @@
 # rafaballerini/LandingPage - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 118
 
-★ Stars: 259
+★ Stars: 258
 
 [Open repository](https://github.com/rafaballerini/LandingPage)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 258 | 118 | 
 | 2022-12-11 | 259 | 118 | 
 | 2022-12-10 | 259 | 118 | 
 | 2022-12-09 | 259 | 118 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 253 | 112 | 
 | 2022-11-15 | 253 | 111 | 
 | 2022-11-14 | 252 | 111 | 
-| 2022-11-13 | 252 | 110 | 
 

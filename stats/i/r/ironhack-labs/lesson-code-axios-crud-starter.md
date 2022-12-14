@@ -1,6 +1,6 @@
 # ironhack-labs/lesson-code-axios-crud-starter - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | - | 59 | 
 | 2022-12-12 | - | 59 | 
 | 2022-12-11 | - | 59 | 
 | 2022-12-10 | - | 59 | 

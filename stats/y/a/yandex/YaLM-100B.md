@@ -1,10 +1,10 @@
 # yandex/YaLM-100B - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
-☋ Forks: 239
+☋ Forks: 240
 
-★ Stars: 3139
+★ Stars: 3145
 
 [Open repository](https://github.com/yandex/YaLM-100B)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 3145 | 240 | 
 | 2022-12-12 | 3139 | 239 | 
 | 2022-12-10 | 3135 | 239 | 
 | 2022-12-09 | 3134 | 239 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 3098 | 236 | 
 | 2022-11-15 | 3096 | 235 | 
 | 2022-11-14 | 3097 | 235 | 
-| 2022-11-13 | 3096 | 234 | 
 

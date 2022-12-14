@@ -1,8 +1,8 @@
 # ONLYOFFICE/Kubernetes-Docs - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
-☋ Forks: 15
+☋ Forks: 16
 
 ★ Stars: 31
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 31 | 16 | 
 | 2022-12-12 | 31 | 15 | 
 | 2022-12-10 | 31 | 15 | 
 | 2022-12-09 | 31 | 15 | 

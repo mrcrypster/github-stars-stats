@@ -1,6 +1,6 @@
 # rainboyOJ/problems - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 19 | 17 | 
 | 2022-12-12 | 19 | 17 | 
 | 2022-12-11 | 19 | 17 | 
 | 2022-12-10 | 19 | 17 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 19 | 17 | 
 | 2022-11-16 | 19 | 17 | 
 | 2022-11-15 | 19 | 17 | 
-| 2022-11-14 | 19 | 17 | 
 

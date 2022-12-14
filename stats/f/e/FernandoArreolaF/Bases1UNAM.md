@@ -1,6 +1,6 @@
 # FernandoArreolaF/Bases1UNAM - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 191
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 19 | 191 | 
 | 2022-12-11 | 19 | 191 | 
 | 2022-12-10 | 19 | 191 | 
 | 2022-12-09 | 19 | 191 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-17 | 19 | 192 | 
 | 2022-11-16 | 19 | 192 | 
 | 2022-11-15 | 19 | 192 | 
-| 2022-11-14 | 19 | 192 | 
 

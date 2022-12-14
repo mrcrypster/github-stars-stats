@@ -1,8 +1,8 @@
 # crobynsc/tiktok-views - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
-☋ Forks: 33
+☋ Forks: 34
 
 ★ Stars: 54
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 54 | 34 | 
 | 2022-12-12 | 54 | 33 | 
 | 2022-12-11 | 53 | 33 | 
 | 2022-12-09 | 53 | 33 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 53 | 33 | 
 | 2022-11-15 | 53 | 33 | 
 | 2022-11-14 | 53 | 33 | 
-| 2022-11-13 | 53 | 33 | 
 

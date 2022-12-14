@@ -1,10 +1,10 @@
 # IDEACVR/DINO - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 113
 
-★ Stars: 1057
+★ Stars: 1059
 
 [Open repository](https://github.com/IDEACVR/DINO)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 1059 | 113 | 
 | 2022-12-11 | 1057 | 113 | 
 | 2022-12-10 | 1056 | 113 | 
 | 2022-12-09 | 1055 | 114 | 

@@ -1,6 +1,6 @@
 # 0xKitsune/Ghost-Contract - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 116 | 11 | 
 | 2022-12-12 | 116 | 11 | 
 | 2022-12-10 | 116 | 11 | 
 | 2022-12-09 | 116 | 11 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 115 | 10 | 
 | 2022-11-15 | 115 | 10 | 
 | 2022-11-14 | 115 | 10 | 
-| 2022-11-13 | 116 | 10 | 
 

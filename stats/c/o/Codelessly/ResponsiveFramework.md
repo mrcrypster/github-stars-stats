@@ -1,10 +1,10 @@
 # Codelessly/ResponsiveFramework - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 110
 
-★ Stars: 918
+★ Stars: 919
 
 [Open repository](https://github.com/Codelessly/ResponsiveFramework)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 919 | 110 | 
 | 2022-12-12 | 918 | 110 | 
 | 2022-12-11 | 918 | 110 | 
 | 2022-12-10 | 917 | 110 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 908 | 105 | 
 | 2022-11-16 | 908 | 105 | 
 | 2022-11-15 | 906 | 105 | 
-| 2022-11-14 | 904 | 105 | 
 

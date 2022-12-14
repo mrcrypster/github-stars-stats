@@ -1,6 +1,6 @@
 # curio-research/contracts - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 47 | 1 | 
 | 2022-12-11 | 47 | 1 | 
 | 2022-12-10 | 47 | 1 | 
 | 2022-12-09 | 47 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 44 | 1 | 
 | 2022-11-15 | 44 | 1 | 
 | 2022-11-14 | 44 | 1 | 
-| 2022-11-13 | 45 | 1 | 
 

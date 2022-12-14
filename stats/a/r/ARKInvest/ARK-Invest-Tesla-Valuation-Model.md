@@ -1,10 +1,10 @@
 # ARKInvest/ARK-Invest-Tesla-Valuation-Model - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 132
 
-★ Stars: 1050
+★ Stars: 1049
 
 [Open repository](https://github.com/ARKInvest/ARK-Invest-Tesla-Valuation-Model)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 1049 | 132 | 
 | 2022-12-12 | 1050 | 132 | 
 | 2022-12-11 | 1051 | 132 | 
 | 2022-12-10 | 1050 | 132 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 1050 | 132 | 
 | 2022-11-15 | 1050 | 132 | 
 | 2022-11-14 | 1051 | 132 | 
-| 2022-11-13 | 1051 | 132 | 
 

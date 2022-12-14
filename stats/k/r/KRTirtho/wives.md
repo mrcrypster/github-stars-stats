@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 13
 
 ☋ Forks: 2
 
-★ Stars: 72
+★ Stars: 75
 
 [Open repository](https://github.com/KRTirtho/wives)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-13 | 72 | 2 | 
+| 2022-12-13 | 75 | 2 | 
 | 2022-12-12 | 70 | 1 | 
 

@@ -1,6 +1,6 @@
 # cuber-cloud/cuber-gem - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 148 | 6 | 
 | 2022-12-12 | 148 | 6 | 
 | 2022-12-10 | 148 | 6 | 
 | 2022-12-09 | 147 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 143 | 5 | 
 | 2022-11-15 | 143 | 5 | 
 | 2022-11-14 | 143 | 5 | 
-| 2022-11-13 | 143 | 5 | 
 

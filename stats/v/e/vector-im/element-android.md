@@ -1,10 +1,10 @@
 # vector-im/element-android - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 533
 
-★ Stars: 2538
+★ Stars: 2540
 
 [Open repository](https://github.com/vector-im/element-android)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 2540 | 533 | 
 | 2022-12-12 | 2538 | 533 | 
 | 2022-12-11 | 2533 | 533 | 
 | 2022-12-10 | 2529 | 531 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 2471 | 522 | 
 | 2022-11-15 | 2467 | 520 | 
 | 2022-11-14 | 2467 | 520 | 
-| 2022-11-13 | 2467 | 521 | 
 

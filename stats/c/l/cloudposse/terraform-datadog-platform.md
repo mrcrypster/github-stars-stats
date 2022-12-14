@@ -1,10 +1,10 @@
 # cloudposse/terraform-datadog-platform - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 43
 
-★ Stars: 67
+★ Stars: 68
 
 [Open repository](https://github.com/cloudposse/terraform-datadog-platform)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 68 | 43 | 
 | 2022-12-11 | 67 | 43 | 
 | 2022-12-10 | 67 | 43 | 
 | 2022-12-09 | 67 | 43 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-17 | 63 | 43 | 
 | 2022-11-16 | 63 | 43 | 
 | 2022-11-15 | 63 | 43 | 
-| 2022-11-14 | 63 | 44 | 
 

@@ -1,10 +1,10 @@
 # nodenv/node-build - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 72
 
-★ Stars: 225
+★ Stars: 226
 
 [Open repository](https://github.com/nodenv/node-build)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 226 | 72 | 
 | 2022-12-12 | 225 | 72 | 
 | 2022-12-11 | 225 | 72 | 
 | 2022-12-10 | 224 | 72 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 220 | 72 | 
 | 2022-11-15 | 220 | 72 | 
 | 2022-11-14 | 220 | 72 | 
-| 2022-11-13 | 220 | 72 | 
 

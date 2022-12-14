@@ -1,10 +1,10 @@
 # google-research/kubric - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
-☋ Forks: 150
+☋ Forks: 151
 
-★ Stars: 1709
+★ Stars: 1713
 
 [Open repository](https://github.com/google-research/kubric)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 1713 | 151 | 
 | 2022-12-11 | 1709 | 150 | 
 | 2022-12-10 | 1708 | 150 | 
 | 2022-12-09 | 1708 | 150 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 1678 | 146 | 
 | 2022-11-15 | 1677 | 146 | 
 | 2022-11-14 | 1675 | 146 | 
-| 2022-11-13 | 1675 | 146 | 
 

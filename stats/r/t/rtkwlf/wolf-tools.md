@@ -1,6 +1,6 @@
 # rtkwlf/wolf-tools - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 57 | 27 | 
 | 2022-12-12 | 57 | 27 | 
 | 2022-12-11 | 57 | 27 | 
 | 2022-12-10 | 57 | 27 | 

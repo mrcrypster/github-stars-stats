@@ -1,6 +1,6 @@
 # benrugg/AI-Render - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 562 | 31 | 
 | 2022-12-12 | 562 | 31 | 
 | 2022-12-11 | 560 | 30 | 
 | 2022-12-10 | 559 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 509 | 28 | 
 | 2022-11-15 | 496 | 28 | 
 | 2022-11-14 | 488 | 28 | 
-| 2022-11-13 | 483 | 27 | 
 

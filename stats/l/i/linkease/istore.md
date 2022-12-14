@@ -1,10 +1,10 @@
 # linkease/istore - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
-☋ Forks: 174
+☋ Forks: 173
 
-★ Stars: 564
+★ Stars: 565
 
 [Open repository](https://github.com/linkease/istore)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 565 | 173 | 
 | 2022-12-12 | 564 | 174 | 
 | 2022-12-10 | 564 | 174 | 
 | 2022-12-09 | 561 | 173 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 530 | 163 | 
 | 2022-11-15 | 529 | 163 | 
 | 2022-11-14 | 529 | 162 | 
-| 2022-11-13 | 526 | 162 | 
 

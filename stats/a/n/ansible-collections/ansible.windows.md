@@ -1,6 +1,6 @@
 # ansible-collections/ansible.windows - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 120
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 166 | 120 | 
 | 2022-12-11 | 166 | 120 | 
 | 2022-12-10 | 166 | 120 | 
 | 2022-12-09 | 166 | 119 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 163 | 116 | 
 | 2022-11-15 | 161 | 116 | 
 | 2022-11-14 | 161 | 116 | 
-| 2022-11-13 | 160 | 116 | 
 

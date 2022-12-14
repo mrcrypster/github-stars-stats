@@ -1,10 +1,10 @@
 # agg23/openfpga-pokemonmini - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 1
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/agg23/openfpga-pokemonmini)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 20 | 1 | 
 | 2022-12-12 | 19 | 1 | 
 | 2022-12-10 | 19 | 1 | 
 | 2022-12-09 | 19 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 16 | 1 | 
 | 2022-11-15 | 16 | 1 | 
 | 2022-11-14 | 16 | 1 | 
-| 2022-11-13 | 15 | 1 | 
 

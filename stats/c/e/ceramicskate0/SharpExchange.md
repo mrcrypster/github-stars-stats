@@ -1,10 +1,10 @@
 # ceramicskate0/SharpExchange - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 10
 
-★ Stars: 90
+★ Stars: 92
 
 [Open repository](https://github.com/ceramicskate0/SharpExchange)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 92 | 10 | 
 | 2022-12-12 | 90 | 10 | 
 | 2022-12-11 | 82 | 8 | 
 | 2022-12-10 | 81 | 8 | 

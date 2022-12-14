@@ -1,6 +1,6 @@
 # code-423n4/2022-08-foundation - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 9 | 8 | 
 | 2022-12-12 | 9 | 8 | 
 | 2022-12-11 | 9 | 8 | 
 | 2022-12-10 | 9 | 8 | 

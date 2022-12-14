@@ -1,6 +1,6 @@
 # hurbcom/vagas - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 23 | 6 | 
 | 2022-12-11 | 23 | 6 | 
 | 2022-12-10 | 23 | 6 | 
 | 2022-12-09 | 23 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 22 | 6 | 
 | 2022-11-15 | 22 | 6 | 
 | 2022-11-14 | 22 | 6 | 
-| 2022-11-13 | 22 | 6 | 
 

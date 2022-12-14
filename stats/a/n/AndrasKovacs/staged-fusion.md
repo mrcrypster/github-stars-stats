@@ -1,10 +1,10 @@
 # AndrasKovacs/staged-fusion - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 2
 
-★ Stars: 48
+★ Stars: 49
 
 [Open repository](https://github.com/AndrasKovacs/staged-fusion)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 49 | 2 | 
 | 2022-12-12 | 48 | 2 | 
 | 2022-12-10 | 48 | 2 | 
 | 2022-12-09 | 48 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 48 | 2 | 
 | 2022-11-15 | 48 | 2 | 
 | 2022-11-14 | 48 | 2 | 
-| 2022-11-13 | 48 | 2 | 
 

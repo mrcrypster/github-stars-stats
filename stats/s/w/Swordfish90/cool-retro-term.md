@@ -1,10 +1,10 @@
 # Swordfish90/cool-retro-term - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 750
 
-★ Stars: 17956
+★ Stars: 17961
 
 [Open repository](https://github.com/Swordfish90/cool-retro-term)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 17961 | 750 | 
 | 2022-12-12 | 17956 | 750 | 
 | 2022-12-11 | 17952 | 749 | 
 | 2022-12-10 | 17942 | 749 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 17843 | 744 | 
 | 2022-11-15 | 17838 | 744 | 
 | 2022-11-14 | 17832 | 744 | 
-| 2022-11-13 | 17822 | 744 | 
 

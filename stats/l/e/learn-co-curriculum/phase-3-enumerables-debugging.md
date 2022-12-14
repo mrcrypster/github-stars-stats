@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-3-enumerables-debugging - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
-☋ Forks: 361
+☋ Forks: 362
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 2 | 362 | 
 | 2022-12-12 | 2 | 361 | 
 | 2022-12-10 | 2 | 360 | 
 | 2022-12-09 | 2 | 360 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 2 | 354 | 
 | 2022-11-15 | 2 | 354 | 
 | 2022-11-14 | 2 | 354 | 
-| 2022-11-13 | 2 | 354 | 
 

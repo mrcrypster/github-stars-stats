@@ -1,6 +1,6 @@
 # he4rt/he4rtoberfest-2022 - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 240
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 278 | 240 | 
 | 2022-12-12 | 278 | 240 | 
 | 2022-12-11 | 278 | 240 | 
 | 2022-12-10 | 278 | 240 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 281 | 240 | 
 | 2022-11-16 | 281 | 240 | 
 | 2022-11-15 | 281 | 240 | 
-| 2022-11-14 | 281 | 240 | 
 

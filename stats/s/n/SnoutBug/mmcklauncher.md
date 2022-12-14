@@ -1,10 +1,10 @@
 # SnoutBug/mmcklauncher - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 14
 
-★ Stars: 88
+★ Stars: 87
 
 [Open repository](https://github.com/SnoutBug/mmcklauncher)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 87 | 14 | 
 | 2022-12-11 | 88 | 14 | 
 | 2022-12-10 | 88 | 15 | 
 | 2022-12-09 | 88 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 86 | 15 | 
 | 2022-11-15 | 86 | 15 | 
 | 2022-11-14 | 86 | 15 | 
-| 2022-11-13 | 86 | 15 | 
 

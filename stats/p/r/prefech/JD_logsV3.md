@@ -1,6 +1,6 @@
 # prefech/JD_logsV3 - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 30 | 15 | 
 | 2022-12-11 | 30 | 15 | 
 | 2022-12-10 | 30 | 15 | 
 | 2022-12-09 | 30 | 15 | 

@@ -1,10 +1,10 @@
 # flanksource/incident-commander-chart - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 0
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/flanksource/incident-commander-chart)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 1 | - | 
 | 2022-12-12 | - | - | 
 | 2022-12-11 | - | - | 
 | 2022-12-09 | - | - | 

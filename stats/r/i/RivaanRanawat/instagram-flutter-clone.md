@@ -1,6 +1,6 @@
 # RivaanRanawat/instagram-flutter-clone - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 305
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 539 | 305 | 
 | 2022-12-12 | 539 | 305 | 
 | 2022-12-10 | 539 | 305 | 
 | 2022-12-09 | 538 | 304 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 524 | 296 | 
 | 2022-11-15 | 523 | 296 | 
 | 2022-11-14 | 523 | 296 | 
-| 2022-11-13 | 523 | 296 | 
 

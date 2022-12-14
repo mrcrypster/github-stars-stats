@@ -1,6 +1,6 @@
 # beyonk-adventures/svelte-googlemaps - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 59 | 16 | 
 | 2022-12-11 | 59 | 16 | 
 | 2022-12-10 | 59 | 16 | 
 | 2022-12-09 | 59 | 16 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-17 | 58 | 16 | 
 | 2022-11-16 | 58 | 16 | 
 | 2022-11-14 | 58 | 16 | 
-| 2022-11-13 | 58 | 16 | 
 

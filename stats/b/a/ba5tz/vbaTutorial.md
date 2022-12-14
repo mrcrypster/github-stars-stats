@@ -1,6 +1,6 @@
 # ba5tz/vbaTutorial - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 8 | 17 | 
 | 2022-12-12 | 8 | 17 | 
 | 2022-12-11 | 8 | 17 | 
 | 2022-12-10 | 8 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 8 | 17 | 
 | 2022-11-15 | 8 | 17 | 
 | 2022-11-14 | 8 | 17 | 
-| 2022-11-13 | 8 | 17 | 
 

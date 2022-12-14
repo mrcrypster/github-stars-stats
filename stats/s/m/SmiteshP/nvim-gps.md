@@ -1,6 +1,6 @@
 # SmiteshP/nvim-gps - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 494 | 32 | 
 | 2022-12-12 | 494 | 32 | 
 | 2022-12-11 | 494 | 32 | 
 | 2022-12-10 | 494 | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 499 | 32 | 
 | 2022-11-15 | 498 | 32 | 
 | 2022-11-14 | 498 | 32 | 
-| 2022-11-13 | 498 | 32 | 
 

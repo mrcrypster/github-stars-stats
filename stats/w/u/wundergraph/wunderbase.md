@@ -1,10 +1,10 @@
 # wundergraph/wunderbase - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
-☋ Forks: 9
+☋ Forks: 10
 
-★ Stars: 398
+★ Stars: 399
 
 [Open repository](https://github.com/wundergraph/wunderbase)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 399 | 10 | 
 | 2022-12-11 | 398 | 9 | 
 | 2022-12-10 | 397 | 9 | 
 | 2022-12-09 | 397 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 384 | 10 | 
 | 2022-11-15 | 383 | 10 | 
 | 2022-11-14 | 383 | 10 | 
-| 2022-11-13 | 383 | 10 | 
 

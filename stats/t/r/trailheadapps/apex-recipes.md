@@ -1,6 +1,6 @@
 # trailheadapps/apex-recipes - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 290
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 682 | 290 | 
 | 2022-12-12 | 682 | 290 | 
 | 2022-12-11 | 682 | 290 | 
 | 2022-12-10 | 682 | 290 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 670 | 283 | 
 | 2022-11-15 | 670 | 283 | 
 | 2022-11-14 | 670 | 283 | 
-| 2022-11-13 | 670 | 283 | 
 

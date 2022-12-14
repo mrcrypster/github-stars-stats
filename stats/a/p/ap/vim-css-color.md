@@ -1,6 +1,6 @@
 # ap/vim-css-color - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 1623 | 73 | 
 | 2022-12-12 | 1623 | 73 | 
 | 2022-12-11 | 1622 | 73 | 
 | 2022-12-10 | 1621 | 73 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 1617 | 74 | 
 | 2022-11-15 | 1617 | 74 | 
 | 2022-11-14 | 1617 | 74 | 
-| 2022-11-13 | 1617 | 74 | 
 

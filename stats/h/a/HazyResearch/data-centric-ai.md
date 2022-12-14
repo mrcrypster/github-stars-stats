@@ -1,6 +1,6 @@
 # HazyResearch/data-centric-ai - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 91
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 839 | 91 | 
 | 2022-12-12 | 839 | 91 | 
 | 2022-12-11 | 839 | 91 | 
 | 2022-12-09 | 839 | 91 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 818 | 87 | 
 | 2022-11-15 | 817 | 87 | 
 | 2022-11-14 | 817 | 87 | 
-| 2022-11-13 | 817 | 87 | 
 

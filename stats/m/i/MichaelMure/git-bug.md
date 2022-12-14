@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 13
 
 ☋ Forks: 228
 
-★ Stars: 7173
+★ Stars: 7193
 
 [Open repository](https://github.com/MichaelMure/git-bug)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-13 | 7173 | 228 | 
+| 2022-12-13 | 7193 | 228 | 
 | 2022-12-12 | 7150 | 227 | 
 | 2022-12-10 | 7046 | 222 | 
 | 2022-12-09 | 7035 | 220 | 

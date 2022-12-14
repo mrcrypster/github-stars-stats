@@ -1,8 +1,8 @@
 # huggingface/hub-docs - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
-☋ Forks: 85
+☋ Forks: 86
 
 ★ Stars: 75
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 75 | 86 | 
 | 2022-12-11 | 75 | 85 | 
 | 2022-12-10 | 75 | 85 | 
 | 2022-12-09 | 74 | 85 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 68 | 81 | 
 | 2022-11-15 | 68 | 81 | 
 | 2022-11-14 | 68 | 81 | 
-| 2022-11-13 | 68 | 81 | 
 

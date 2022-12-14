@@ -1,8 +1,8 @@
 # latexstudio/CUMCMThesis - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 13
 
-☋ Forks: 215
+☋ Forks: 214
 
 ★ Stars: 544
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 544 | 214 | 
 | 2022-12-12 | 544 | 215 | 
 | 2022-12-11 | 544 | 215 | 
 | 2022-12-10 | 544 | 215 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 545 | 212 | 
 | 2022-11-15 | 545 | 213 | 
 | 2022-11-14 | 546 | 213 | 
-| 2022-11-13 | 546 | 213 | 
 

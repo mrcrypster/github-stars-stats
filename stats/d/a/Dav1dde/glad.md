@@ -1,10 +1,10 @@
 # Dav1dde/glad - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
-☋ Forks: 349
+☋ Forks: 351
 
-★ Stars: 2819
+★ Stars: 2821
 
 [Open repository](https://github.com/Dav1dde/glad)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 2821 | 351 | 
 | 2022-12-12 | 2819 | 349 | 
 | 2022-12-11 | 2817 | 349 | 
 | 2022-12-10 | 2816 | 349 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-16 | 2773 | 340 | 
 | 2022-11-15 | 2773 | 339 | 
 | 2022-11-14 | 2772 | 339 | 
-| 2022-11-13 | 2772 | 338 | 
 

@@ -1,6 +1,6 @@
 # benoitc/unicode_util_compat - stars & forks statistics
 
-Stats updated on Dec 2022, 11
+Stats updated on Dec 2022, 13
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-13 | 10 | 10 | 
 | 2022-12-11 | 10 | 10 | 
 | 2022-12-10 | 10 | 10 | 
 | 2022-12-09 | 10 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 11
 | 2022-11-16 | 10 | 10 | 
 | 2022-11-15 | 10 | 10 | 
 | 2022-11-14 | 10 | 10 | 
-| 2022-11-13 | 10 | 10 | 
 
