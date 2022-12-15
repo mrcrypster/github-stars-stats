@@ -1,8 +1,8 @@
 # databricks/Spark-The-Definitive-Guide - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
-☋ Forks: 2484
+☋ Forks: 2487
 
 ★ Stars: 2458
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 2458 | 2487 | 
 | 2022-12-13 | 2458 | 2484 | 
 | 2022-12-12 | 2457 | 2484 | 
 | 2022-12-10 | 2454 | 2480 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 2444 | 2471 | 
 | 2022-11-16 | 2444 | 2472 | 
 | 2022-11-15 | 2444 | 2471 | 
-| 2022-11-14 | 2442 | 2470 | 
 

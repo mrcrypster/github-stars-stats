@@ -1,10 +1,10 @@
 # twireapp/Twire - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 50
 
-★ Stars: 740
+★ Stars: 742
 
 [Open repository](https://github.com/twireapp/Twire)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 742 | 50 | 
 | 2022-12-13 | 740 | 50 | 
 | 2022-12-12 | 740 | 50 | 
 | 2022-12-10 | 738 | 50 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 722 | 49 | 
 | 2022-11-16 | 718 | 49 | 
 | 2022-11-15 | 716 | 49 | 
-| 2022-11-14 | 716 | 49 | 
 

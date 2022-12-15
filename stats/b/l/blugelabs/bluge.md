@@ -1,10 +1,10 @@
 # blugelabs/bluge - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 92
 
-★ Stars: 1517
+★ Stars: 1518
 
 [Open repository](https://github.com/blugelabs/bluge)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 1518 | 92 | 
 | 2022-12-13 | 1517 | 92 | 
 | 2022-12-12 | 1516 | 92 | 
 | 2022-12-11 | 1516 | 92 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 1496 | 87 | 
 | 2022-11-16 | 1495 | 87 | 
 | 2022-11-15 | 1493 | 86 | 
-| 2022-11-14 | 1490 | 86 | 
 

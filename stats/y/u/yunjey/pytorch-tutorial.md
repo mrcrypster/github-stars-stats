@@ -1,10 +1,10 @@
 # yunjey/pytorch-tutorial - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 7526
 
-★ Stars: 25325
+★ Stars: 25334
 
 [Open repository](https://github.com/yunjey/pytorch-tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 25334 | 7526 | 
 | 2022-12-13 | 25325 | 7526 | 
 | 2022-12-11 | 25315 | 7521 | 
 | 2022-12-10 | 25313 | 7520 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 25210 | 7485 | 
 | 2022-11-16 | 25205 | 7482 | 
 | 2022-11-15 | 25199 | 7480 | 
-| 2022-11-14 | 25194 | 7480 | 
 

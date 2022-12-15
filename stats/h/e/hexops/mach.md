@@ -1,8 +1,8 @@
 # hexops/mach - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
-☋ Forks: 67
+☋ Forks: 68
 
 ★ Stars: 1418
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 1418 | 68 | 
 | 2022-12-13 | 1418 | 67 | 
 | 2022-12-12 | 1417 | 67 | 
 | 2022-12-11 | 1414 | 67 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 1379 | 65 | 
 | 2022-11-16 | 1378 | 65 | 
 | 2022-11-15 | 1374 | 65 | 
-| 2022-11-14 | 1374 | 65 | 
 

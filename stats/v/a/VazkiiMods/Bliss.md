@@ -1,10 +1,10 @@
 # VazkiiMods/Bliss - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 6
 
-★ Stars: 16
+★ Stars: 15
 
 [Open repository](https://github.com/VazkiiMods/Bliss)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 15 | 6 | 
 | 2022-12-13 | 16 | 6 | 
 | 2022-12-12 | 16 | 6 | 
 | 2022-12-11 | 16 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 15 | 5 | 
 | 2022-11-16 | 15 | 5 | 
 | 2022-11-15 | 15 | 5 | 
-| 2022-11-14 | 15 | 5 | 
 

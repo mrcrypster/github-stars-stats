@@ -1,10 +1,10 @@
 # terraform-aws-modules/terraform-aws-ecs - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
-☋ Forks: 322
+☋ Forks: 323
 
-★ Stars: 333
+★ Stars: 334
 
 [Open repository](https://github.com/terraform-aws-modules/terraform-aws-ecs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 334 | 323 | 
 | 2022-12-13 | 333 | 322 | 
 | 2022-12-12 | 333 | 320 | 
 | 2022-12-11 | 333 | 320 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 331 | 317 | 
 | 2022-11-16 | 330 | 316 | 
 | 2022-11-15 | 330 | 314 | 
-| 2022-11-14 | 330 | 314 | 
 

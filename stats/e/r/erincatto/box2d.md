@@ -1,10 +1,10 @@
 # erincatto/box2d - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
-☋ Forks: 1230
+☋ Forks: 1231
 
-★ Stars: 6059
+★ Stars: 6060
 
 [Open repository](https://github.com/erincatto/box2d)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 6060 | 1231 | 
 | 2022-12-12 | 6059 | 1230 | 
 | 2022-12-11 | 6058 | 1228 | 
 | 2022-12-10 | 6057 | 1229 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-18 | 6014 | 1224 | 
 | 2022-11-17 | 6011 | 1224 | 
 | 2022-11-16 | 6011 | 1224 | 
-| 2022-11-15 | 6011 | 1224 | 
 

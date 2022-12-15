@@ -1,6 +1,6 @@
 # Orange-OpenSource/towards5gs-helm - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 79 | 58 | 
 | 2022-12-12 | 79 | 58 | 
 | 2022-12-11 | 79 | 58 | 
 | 2022-12-10 | 79 | 58 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 78 | 57 | 
 | 2022-11-16 | 78 | 57 | 
 | 2022-11-15 | 78 | 57 | 
-| 2022-11-14 | 78 | 57 | 
 

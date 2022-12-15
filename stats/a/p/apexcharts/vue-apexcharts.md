@@ -1,10 +1,10 @@
 # apexcharts/vue-apexcharts - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 129
 
-★ Stars: 1172
+★ Stars: 1174
 
 [Open repository](https://github.com/apexcharts/vue-apexcharts)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 1174 | 129 | 
 | 2022-12-13 | 1172 | 129 | 
 | 2022-12-12 | 1172 | 129 | 
 | 2022-12-10 | 1172 | 129 | 

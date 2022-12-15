@@ -1,6 +1,6 @@
 # stkb/Rewrap - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 417 | 48 | 
 | 2022-12-12 | 417 | 48 | 
 | 2022-12-11 | 417 | 48 | 
 | 2022-12-10 | 416 | 48 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 414 | 46 | 
 | 2022-11-16 | 414 | 46 | 
 | 2022-11-15 | 413 | 46 | 
-| 2022-11-14 | 413 | 46 | 
 

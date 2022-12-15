@@ -1,10 +1,10 @@
 # AlejandroAkbal/Image-to-Text-OCR - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 12
 
-★ Stars: 82
+★ Stars: 83
 
 [Open repository](https://github.com/AlejandroAkbal/Image-to-Text-OCR)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 83 | 12 | 
 | 2022-12-13 | 82 | 12 | 
 | 2022-12-12 | 83 | 12 | 
 | 2022-12-11 | 83 | 12 | 

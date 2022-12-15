@@ -1,6 +1,6 @@
 # getoutreach/jsonnet-libs - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 10
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 4 | 10 | 
+| 2022-12-14 | 4 | 10 | 
 | 2022-12-12 | 4 | 10 | 
 | 2022-12-11 | 4 | 10 | 
 | 2022-12-10 | 4 | 10 | 
@@ -40,5 +42,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 3 | 10 | 
 | 2022-11-16 | 3 | 10 | 
 | 2022-11-15 | 3 | 10 | 
-| 2022-11-14 | 3 | 10 | 
 

@@ -1,6 +1,6 @@
 # hamed-shirbandi/TaskoMask - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 81
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 476 | 81 | 
 | 2022-12-13 | 476 | 81 | 
 | 2022-12-11 | 476 | 81 | 
 | 2022-12-10 | 476 | 81 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 469 | 79 | 
 | 2022-11-16 | 469 | 79 | 
 | 2022-11-15 | 469 | 79 | 
-| 2022-11-14 | 467 | 79 | 
 

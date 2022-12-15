@@ -1,6 +1,6 @@
 # VerticalResearchGroup/miaow - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 215
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 780 | 215 | 
 | 2022-12-13 | 780 | 215 | 
 | 2022-12-12 | 780 | 215 | 
 | 2022-12-10 | 780 | 215 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 775 | 214 | 
 | 2022-11-16 | 774 | 214 | 
 | 2022-11-15 | 774 | 214 | 
-| 2022-11-14 | 773 | 214 | 
 

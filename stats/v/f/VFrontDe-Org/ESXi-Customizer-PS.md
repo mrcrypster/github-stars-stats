@@ -1,10 +1,10 @@
 # VFrontDe-Org/ESXi-Customizer-PS - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 129
 
-★ Stars: 454
+★ Stars: 455
 
 [Open repository](https://github.com/VFrontDe-Org/ESXi-Customizer-PS)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 455 | 129 | 
 | 2022-12-13 | 454 | 129 | 
 | 2022-12-12 | 454 | 129 | 
 | 2022-12-10 | 453 | 129 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 443 | 123 | 
 | 2022-11-17 | 442 | 123 | 
 | 2022-11-15 | 442 | 122 | 
-| 2022-11-14 | 442 | 122 | 
 

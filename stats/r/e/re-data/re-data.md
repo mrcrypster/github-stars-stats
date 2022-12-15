@@ -1,10 +1,10 @@
 # re-data/re-data - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 98
 
-★ Stars: 1307
+★ Stars: 1311
 
 [Open repository](https://github.com/re-data/re-data)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 1311 | 98 | 
 | 2022-12-13 | 1307 | 98 | 
 | 2022-12-12 | 1307 | 98 | 
 | 2022-12-10 | 1305 | 98 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 1291 | 97 | 
 | 2022-11-16 | 1291 | 97 | 
 | 2022-11-15 | 1291 | 97 | 
-| 2022-11-14 | 1289 | 97 | 
 

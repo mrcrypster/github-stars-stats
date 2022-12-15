@@ -1,6 +1,6 @@
 # leic-pt/resumos-leic - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 28 | 51 | 
 | 2022-12-12 | 28 | 51 | 
 | 2022-12-11 | 28 | 51 | 
 | 2022-12-09 | 28 | 51 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 27 | 52 | 
 | 2022-11-16 | 27 | 52 | 
 | 2022-11-15 | 27 | 52 | 
-| 2022-11-14 | 27 | 52 | 
 

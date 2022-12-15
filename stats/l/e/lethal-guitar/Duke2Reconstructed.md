@@ -1,6 +1,6 @@
 # lethal-guitar/Duke2Reconstructed - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 284 | 6 | 
 | 2022-12-13 | 284 | 6 | 
 | 2022-12-11 | 284 | 6 | 
 | 2022-12-10 | 283 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 278 | 6 | 
 | 2022-11-16 | 278 | 6 | 
 | 2022-11-15 | 278 | 6 | 
-| 2022-11-14 | 278 | 6 | 
 

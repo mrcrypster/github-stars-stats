@@ -1,6 +1,6 @@
 # SyliusCrafts/BootstrapTheme - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 86 | 43 | 
 | 2022-12-13 | 86 | 43 | 
 | 2022-12-12 | 86 | 43 | 
 | 2022-12-10 | 86 | 43 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 86 | 43 | 
 | 2022-11-16 | 86 | 43 | 
 | 2022-11-15 | 86 | 43 | 
-| 2022-11-14 | 86 | 43 | 
 

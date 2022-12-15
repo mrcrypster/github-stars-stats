@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-elasticache-redis - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 226
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 116 | 226 | 
 | 2022-12-12 | 116 | 226 | 
 | 2022-12-11 | 116 | 226 | 
 | 2022-12-10 | 116 | 226 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 110 | 222 | 
 | 2022-11-16 | 110 | 222 | 
 | 2022-11-15 | 110 | 222 | 
-| 2022-11-14 | 110 | 222 | 
 

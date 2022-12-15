@@ -1,10 +1,10 @@
 # horance-liu/tensorflow-internals - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
-☋ Forks: 576
+☋ Forks: 577
 
-★ Stars: 2825
+★ Stars: 2826
 
 [Open repository](https://github.com/horance-liu/tensorflow-internals)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 2826 | 577 | 
 | 2022-12-13 | 2825 | 576 | 
 | 2022-12-12 | 2825 | 576 | 
 | 2022-12-10 | 2825 | 576 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 2823 | 576 | 
 | 2022-11-17 | 2823 | 576 | 
 | 2022-11-15 | 2823 | 576 | 
-| 2022-11-14 | 2823 | 576 | 
 

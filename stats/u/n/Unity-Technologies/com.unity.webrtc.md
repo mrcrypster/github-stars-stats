@@ -1,8 +1,8 @@
 # Unity-Technologies/com.unity.webrtc - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
-☋ Forks: 143
+☋ Forks: 144
 
 ★ Stars: 592
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 592 | 144 | 
 | 2022-12-13 | 592 | 143 | 
 | 2022-12-12 | 589 | 143 | 
 | 2022-12-11 | 589 | 143 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 578 | 143 | 
 | 2022-11-16 | 578 | 143 | 
 | 2022-11-15 | 577 | 144 | 
-| 2022-11-14 | 573 | 143 | 
 

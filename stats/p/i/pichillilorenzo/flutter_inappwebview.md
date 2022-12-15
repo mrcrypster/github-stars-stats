@@ -1,10 +1,10 @@
 # pichillilorenzo/flutter_inappwebview - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 968
+☋ Forks: 969
 
-★ Stars: 2300
+★ Stars: 2302
 
 [Open repository](https://github.com/pichillilorenzo/flutter_inappwebview)
 
@@ -13,7 +13,8 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-14 | 2300 | 968 | 
+| 2022-12-15 | 2302 | 969 | 
+| 2022-12-14 | 2303 | 969 | 
 | 2022-12-13 | 2300 | 968 | 
 | 2022-12-12 | 2296 | 967 | 
 | 2022-12-11 | 2293 | 966 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-17 | 2252 | 948 | 
 | 2022-11-16 | 2251 | 945 | 
 | 2022-11-15 | 2248 | 946 | 
-| 2022-11-14 | 2247 | 946 | 
 

@@ -1,10 +1,10 @@
 # wsdo/gptapi - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 8
 
-★ Stars: 50
+★ Stars: 51
 
 [Open repository](https://github.com/wsdo/gptapi)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 51 | 8 | 
 | 2022-12-13 | 50 | 8 | 
 | 2022-12-12 | 49 | 8 | 
 | 2022-12-11 | 46 | 8 | 

@@ -1,10 +1,10 @@
 # srush/Tensor-Puzzles - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 69
 
-★ Stars: 862
+★ Stars: 863
 
 [Open repository](https://github.com/srush/Tensor-Puzzles)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 863 | 69 | 
 | 2022-12-13 | 862 | 69 | 
 | 2022-12-12 | 862 | 69 | 
 | 2022-12-10 | 862 | 69 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 850 | 68 | 
 | 2022-11-16 | 849 | 68 | 
 | 2022-11-15 | 849 | 67 | 
-| 2022-11-14 | 848 | 67 | 
 

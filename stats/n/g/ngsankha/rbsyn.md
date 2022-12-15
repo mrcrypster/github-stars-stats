@@ -1,6 +1,6 @@
 # ngsankha/rbsyn - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 93 | 2 | 
 | 2022-12-12 | 93 | 2 | 
 | 2022-12-11 | 93 | 2 | 
 | 2022-12-10 | 93 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 93 | 2 | 
 | 2022-11-16 | 93 | 2 | 
 | 2022-11-15 | 93 | 2 | 
-| 2022-11-14 | 93 | 2 | 
 

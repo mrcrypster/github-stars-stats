@@ -1,10 +1,10 @@
 # mszell/geospatialdatascience - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 47
 
-★ Stars: 263
+★ Stars: 262
 
 [Open repository](https://github.com/mszell/geospatialdatascience)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 262 | 47 | 
 | 2022-12-13 | 263 | 47 | 
 | 2022-12-12 | 263 | 47 | 
 | 2022-12-10 | 262 | 47 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 260 | 45 | 
 | 2022-11-16 | 259 | 45 | 
 | 2022-11-15 | 258 | 45 | 
-| 2022-11-14 | 258 | 45 | 
 

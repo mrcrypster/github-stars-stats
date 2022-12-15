@@ -1,10 +1,10 @@
 # mscststs/gua-area - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 57
 
-★ Stars: 92
+★ Stars: 93
 
 [Open repository](https://github.com/mscststs/gua-area)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 93 | 57 | 
 | 2022-12-12 | 92 | 57 | 
 | 2022-12-11 | 85 | 54 | 
 | 2022-12-10 | 84 | 54 | 

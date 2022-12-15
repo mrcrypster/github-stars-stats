@@ -1,10 +1,10 @@
 # trickerer/Trinity-Bots - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 87
 
-★ Stars: 188
+★ Stars: 189
 
 [Open repository](https://github.com/trickerer/Trinity-Bots)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 189 | 87 | 
 | 2022-12-13 | 188 | 87 | 
 | 2022-12-12 | 188 | 87 | 
 | 2022-12-10 | 186 | 86 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 175 | 82 | 
 | 2022-11-16 | 175 | 82 | 
 | 2022-11-15 | 174 | 82 | 
-| 2022-11-14 | 173 | 82 | 
 

@@ -1,10 +1,10 @@
 # russellventura/HomeAssistant - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
-☋ Forks: 3
+☋ Forks: 4
 
-★ Stars: 22
+★ Stars: 24
 
 [Open repository](https://github.com/russellventura/HomeAssistant)
 
@@ -13,5 +13,6 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 24 | 4 | 
 | 2022-12-13 | 22 | 3 | 
 

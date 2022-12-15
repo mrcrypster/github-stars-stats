@@ -1,10 +1,10 @@
 # rust-lang/crates.io-index - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 186
 
-★ Stars: 405
+★ Stars: 404
 
 [Open repository](https://github.com/rust-lang/crates.io-index)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 404 | 186 | 
 | 2022-12-13 | 405 | 186 | 
 | 2022-12-12 | 404 | 185 | 
 | 2022-12-11 | 404 | 185 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 395 | 184 | 
 | 2022-11-16 | 395 | 184 | 
 | 2022-11-15 | 395 | 184 | 
-| 2022-11-14 | 395 | 184 | 
 

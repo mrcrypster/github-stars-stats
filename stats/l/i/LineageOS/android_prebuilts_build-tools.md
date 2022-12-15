@@ -1,6 +1,6 @@
 # LineageOS/android_prebuilts_build-tools - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 3 | 16 | 
 | 2022-12-13 | 3 | 16 | 
 | 2022-12-12 | 3 | 16 | 
 | 2022-12-11 | 3 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 4 | 16 | 
 | 2022-11-17 | 4 | 16 | 
 | 2022-11-16 | 4 | 16 | 
-| 2022-11-15 | 4 | 16 | 
 

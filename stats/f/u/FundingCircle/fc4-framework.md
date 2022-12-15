@@ -1,6 +1,6 @@
 # FundingCircle/fc4-framework - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 128 | 8 | 
 | 2022-12-13 | 128 | 8 | 
 | 2022-12-12 | 128 | 8 | 
 | 2022-12-11 | 128 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 128 | 8 | 
 | 2022-11-16 | 128 | 8 | 
 | 2022-11-15 | 128 | 8 | 
-| 2022-11-14 | 128 | 8 | 
 

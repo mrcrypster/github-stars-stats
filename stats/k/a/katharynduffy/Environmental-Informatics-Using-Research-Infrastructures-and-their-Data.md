@@ -1,6 +1,6 @@
 # katharynduffy/Environmental-Informatics-Using-Research-Infrastructures-and-their-Data - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 3 | 34 | 
 | 2022-12-12 | 3 | 34 | 
 | 2022-12-11 | 3 | 34 | 
 | 2022-12-10 | 3 | 34 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 3 | 34 | 
 | 2022-11-16 | 3 | 34 | 
 | 2022-11-15 | 3 | 34 | 
-| 2022-11-14 | 3 | 34 | 
 

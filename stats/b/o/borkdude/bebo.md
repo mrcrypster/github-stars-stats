@@ -1,10 +1,10 @@
 # borkdude/bebo - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 0
 
-★ Stars: 90
+★ Stars: 89
 
 [Open repository](https://github.com/borkdude/bebo)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 89 | - | 
 | 2022-12-13 | 90 | - | 
 | 2022-12-11 | 90 | - | 
 | 2022-12-10 | 90 | - | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 88 | - | 
 | 2022-11-16 | 88 | - | 
 | 2022-11-15 | 88 | - | 
-| 2022-11-14 | 88 | - | 
 

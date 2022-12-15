@@ -1,10 +1,10 @@
 # Preston-Sundar/windows-10-activation-script - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 77
 
-★ Stars: 138
+★ Stars: 139
 
 [Open repository](https://github.com/Preston-Sundar/windows-10-activation-script)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 139 | 77 | 
 | 2022-12-12 | 138 | 77 | 
 | 2022-12-11 | 138 | 77 | 
 | 2022-12-10 | 138 | 77 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 138 | 77 | 
 | 2022-11-16 | 138 | 77 | 
 | 2022-11-15 | 138 | 77 | 
-| 2022-11-14 | 138 | 77 | 
 

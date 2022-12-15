@@ -1,10 +1,10 @@
 # datasciencedojo/datasets - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
-☋ Forks: 1289
+☋ Forks: 1293
 
-★ Stars: 89
+★ Stars: 90
 
 [Open repository](https://github.com/datasciencedojo/datasets)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 90 | 1293 | 
 | 2022-12-13 | 89 | 1289 | 
 | 2022-12-12 | 89 | 1287 | 
 | 2022-12-10 | 89 | 1284 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 87 | 1223 | 
 | 2022-11-16 | 87 | 1220 | 
 | 2022-11-15 | 87 | 1219 | 
-| 2022-11-14 | 87 | 1214 | 
 

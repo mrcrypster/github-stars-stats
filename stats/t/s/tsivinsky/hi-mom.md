@@ -1,10 +1,10 @@
 # tsivinsky/hi-mom - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 44
 
-★ Stars: 315
+★ Stars: 316
 
 [Open repository](https://github.com/tsivinsky/hi-mom)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 316 | 44 | 
 | 2022-12-12 | 315 | 44 | 
 | 2022-12-11 | 315 | 44 | 
 | 2022-12-10 | 315 | 44 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-18 | 313 | 43 | 
 | 2022-11-17 | 313 | 43 | 
 | 2022-11-16 | 313 | 43 | 
-| 2022-11-15 | 313 | 43 | 
 

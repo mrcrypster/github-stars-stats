@@ -1,6 +1,6 @@
 # krr-up/bibliography - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 3 | 5 | 
 | 2022-12-13 | 3 | 5 | 
 | 2022-12-12 | 3 | 5 | 
 | 2022-12-11 | 3 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 3 | 4 | 
 | 2022-11-16 | 3 | 4 | 
 | 2022-11-15 | 3 | 4 | 
-| 2022-11-14 | 3 | 4 | 
 

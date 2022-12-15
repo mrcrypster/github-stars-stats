@@ -1,10 +1,10 @@
 # ninenines/gun - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 230
 
-★ Stars: 819
+★ Stars: 818
 
 [Open repository](https://github.com/ninenines/gun)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 818 | 230 | 
+| 2022-12-14 | 819 | 230 | 
 | 2022-12-13 | 819 | 230 | 
 | 2022-12-12 | 819 | 230 | 
 | 2022-12-10 | 818 | 230 | 
@@ -41,5 +43,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 814 | 227 | 
 | 2022-11-16 | 814 | 227 | 
 | 2022-11-15 | 814 | 227 | 
-| 2022-11-14 | 814 | 227 | 
 

@@ -1,10 +1,10 @@
 # nickel-lang/nickel-nix - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 5
 
-★ Stars: 59
+★ Stars: 60
 
 [Open repository](https://github.com/nickel-lang/nickel-nix)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 60 | 5 | 
 | 2022-12-13 | 59 | 5 | 
 | 2022-12-11 | 59 | 5 | 
 | 2022-12-10 | 59 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 56 | 5 | 
 | 2022-11-16 | 56 | 5 | 
 | 2022-11-15 | 55 | 5 | 
-| 2022-11-14 | 55 | 5 | 
 

@@ -1,6 +1,6 @@
 # Tencent/weui-wxss - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 5310
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 14516 | 5310 | 
 | 2022-12-13 | 14516 | 5310 | 
 | 2022-12-12 | 14514 | 5311 | 
 | 2022-12-11 | 14514 | 5312 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 14490 | 5307 | 
 | 2022-11-16 | 14485 | 5308 | 
 | 2022-11-15 | 14482 | 5308 | 
-| 2022-11-14 | 14481 | 5309 | 
 

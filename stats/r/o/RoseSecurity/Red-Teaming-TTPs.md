@@ -1,6 +1,6 @@
 # RoseSecurity/Red-Teaming-TTPs - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 450 | 63 | 
 | 2022-12-13 | 450 | 63 | 
 | 2022-12-12 | 450 | 62 | 
 | 2022-12-11 | 450 | 62 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 445 | 58 | 
 | 2022-11-17 | 444 | 58 | 
 | 2022-11-15 | 443 | 58 | 
-| 2022-11-14 | 442 | 58 | 
 

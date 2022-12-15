@@ -1,10 +1,10 @@
 # memphisdev/memphis-k8s - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 4
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/memphisdev/memphis-k8s)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 18 | 4 | 
 | 2022-12-12 | 17 | 4 | 
 | 2022-12-11 | 17 | 3 | 
 | 2022-12-10 | 17 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 16 | 3 | 
 | 2022-11-16 | 16 | 3 | 
 | 2022-11-15 | 16 | 3 | 
-| 2022-11-14 | 16 | 3 | 
 

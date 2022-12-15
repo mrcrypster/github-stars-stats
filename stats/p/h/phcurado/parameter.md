@@ -1,6 +1,6 @@
 # phcurado/parameter - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 32 | - | 
 | 2022-12-13 | 32 | - | 
 | 2022-12-11 | 32 | - | 
 | 2022-12-10 | 31 | - | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 30 | - | 
 | 2022-11-16 | 29 | - | 
 | 2022-11-15 | 29 | - | 
-| 2022-11-14 | 28 | - | 
 

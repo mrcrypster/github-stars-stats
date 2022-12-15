@@ -1,6 +1,6 @@
 # daviderestivo/galactic-emacs - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 120 | 5 | 
 | 2022-12-13 | 120 | 5 | 
 | 2022-12-12 | 120 | 5 | 
 | 2022-12-10 | 120 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 119 | 5 | 
 | 2022-11-16 | 119 | 5 | 
 | 2022-11-15 | 119 | 5 | 
-| 2022-11-14 | 119 | 5 | 
 

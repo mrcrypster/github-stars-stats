@@ -1,8 +1,8 @@
 # RavensVenix/Free-RDP - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
-☋ Forks: 220
+☋ Forks: 228
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 5 | 228 | 
 | 2022-12-13 | 5 | 220 | 
 | 2022-12-12 | 5 | 210 | 
 | 2022-12-11 | 4 | 197 | 

@@ -1,10 +1,10 @@
 # marktext/marktext - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 2850
 
-★ Stars: 37487
+★ Stars: 37507
 
 [Open repository](https://github.com/marktext/marktext)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 37507 | 2850 | 
 | 2022-12-13 | 37487 | 2850 | 
 | 2022-12-11 | 37460 | 2851 | 
 | 2022-12-10 | 37447 | 2851 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 37087 | 2811 | 
 | 2022-11-16 | 37062 | 2811 | 
 | 2022-11-15 | 37050 | 2804 | 
-| 2022-11-14 | 37034 | 2803 | 
 

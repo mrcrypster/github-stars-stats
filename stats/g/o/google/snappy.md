@@ -1,10 +1,10 @@
 # google/snappy - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 927
 
-★ Stars: 5474
+★ Stars: 5476
 
 [Open repository](https://github.com/google/snappy)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 5476 | 927 | 
 | 2022-12-12 | 5474 | 927 | 
 | 2022-12-11 | 5469 | 927 | 
 | 2022-12-10 | 5468 | 927 | 

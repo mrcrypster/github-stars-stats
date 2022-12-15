@@ -1,6 +1,6 @@
 # nicklockwood/FXBlurView - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 732
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 4972 | 732 | 
 | 2022-12-13 | 4972 | 732 | 
 | 2022-12-12 | 4972 | 732 | 
 | 2022-12-11 | 4972 | 732 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 4972 | 732 | 
 | 2022-11-16 | 4972 | 732 | 
 | 2022-11-15 | 4972 | 732 | 
-| 2022-11-14 | 4972 | 733 | 
 

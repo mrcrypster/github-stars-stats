@@ -1,6 +1,6 @@
 # ryannair05/Little12 - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 96 | 23 | 
 | 2022-12-13 | 96 | 23 | 
 | 2022-12-12 | 96 | 23 | 
 | 2022-12-10 | 96 | 23 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 95 | 23 | 
 | 2022-11-16 | 95 | 23 | 
 | 2022-11-15 | 95 | 23 | 
-| 2022-11-14 | 95 | 23 | 
 

@@ -1,6 +1,6 @@
 # sd805/l4d2vr - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 171 | 9 | 
 | 2022-12-13 | 171 | 9 | 
 | 2022-12-12 | 170 | 9 | 
 | 2022-12-10 | 170 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 166 | 7 | 
 | 2022-11-17 | 165 | 7 | 
 | 2022-11-15 | 165 | 7 | 
-| 2022-11-14 | 165 | 7 | 
 

@@ -1,10 +1,10 @@
 # invenia/Impute.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 9
 
-★ Stars: 67
+★ Stars: 66
 
 [Open repository](https://github.com/invenia/Impute.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 66 | 9 | 
 | 2022-12-13 | 67 | 9 | 
 | 2022-12-12 | 67 | 9 | 
 | 2022-12-11 | 67 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 67 | 9 | 
 | 2022-11-17 | 67 | 9 | 
 | 2022-11-16 | 66 | 9 | 
-| 2022-11-15 | 66 | 9 | 
 

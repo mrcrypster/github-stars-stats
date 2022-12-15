@@ -1,8 +1,8 @@
 # HashLoad/CQLBr - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
-☋ Forks: 6
+☋ Forks: 5
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 3 | 5 | 
 | 2022-12-13 | 3 | 6 | 
 | 2022-12-12 | 3 | 6 | 
 

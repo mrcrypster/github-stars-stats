@@ -1,10 +1,10 @@
 # vdumoulin/conv_arithmetic - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 2168
 
-★ Stars: 12566
+★ Stars: 12567
 
 [Open repository](https://github.com/vdumoulin/conv_arithmetic)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 12567 | 2168 | 
 | 2022-12-13 | 12566 | 2168 | 
 | 2022-12-12 | 12564 | 2166 | 
 | 2022-12-11 | 12562 | 2166 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 12484 | 2154 | 
 | 2022-11-16 | 12480 | 2154 | 
 | 2022-11-15 | 12473 | 2153 | 
-| 2022-11-14 | 12472 | 2153 | 
 

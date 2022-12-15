@@ -1,8 +1,8 @@
 # MicrosoftDocs/minecraft-creator - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
-☋ Forks: 89
+☋ Forks: 90
 
 ★ Stars: 104
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 104 | 90 | 
 | 2022-12-12 | 104 | 89 | 
 | 2022-12-11 | 104 | 89 | 
 | 2022-12-10 | 104 | 89 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-18 | 101 | 88 | 
 | 2022-11-17 | 101 | 88 | 
 | 2022-11-15 | 100 | 88 | 
-| 2022-11-14 | 100 | 88 | 
 

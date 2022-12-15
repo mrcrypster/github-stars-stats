@@ -1,10 +1,10 @@
 # Tinkoff/muffin - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 5
 
-★ Stars: 33
+★ Stars: 34
 
 [Open repository](https://github.com/Tinkoff/muffin)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 34 | 5 | 
 | 2022-12-12 | 33 | 5 | 
 | 2022-12-11 | 33 | 5 | 
 | 2022-12-10 | 33 | 5 | 

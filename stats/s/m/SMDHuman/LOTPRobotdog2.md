@@ -1,6 +1,6 @@
 # SMDHuman/LOTPRobotdog2 - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 52 | 9 | 
 | 2022-12-12 | 52 | 9 | 
 | 2022-12-11 | 52 | 9 | 
 | 2022-12-10 | 52 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 48 | 9 | 
 | 2022-11-16 | 48 | 9 | 
 | 2022-11-15 | 48 | 9 | 
-| 2022-11-14 | 48 | 9 | 
 

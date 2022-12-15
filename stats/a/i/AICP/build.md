@@ -1,6 +1,6 @@
 # AICP/build - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 17 | 68 | 
 | 2022-12-13 | 17 | 68 | 
 | 2022-12-11 | 17 | 68 | 
 | 2022-12-10 | 17 | 68 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 16 | 68 | 
 | 2022-11-16 | 16 | 68 | 
 | 2022-11-15 | 17 | 68 | 
-| 2022-11-14 | 17 | 69 | 
 

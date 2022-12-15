@@ -1,6 +1,6 @@
 # Sweets/tiramisu - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 652 | 18 | 
 | 2022-12-12 | 652 | 18 | 
 | 2022-12-11 | 651 | 18 | 
 | 2022-12-09 | 652 | 18 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-18 | 649 | 18 | 
 | 2022-11-17 | 649 | 18 | 
 | 2022-11-16 | 649 | 18 | 
-| 2022-11-15 | 649 | 18 | 
 

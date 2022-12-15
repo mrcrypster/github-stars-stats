@@ -1,6 +1,6 @@
 # liveshowy/webauthn_live_component - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 60 | 1 | 
 | 2022-12-13 | 60 | 1 | 
 | 2022-12-11 | 60 | 1 | 
 | 2022-12-10 | 60 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 57 | 1 | 
 | 2022-11-16 | 57 | 1 | 
 | 2022-11-15 | 57 | 1 | 
-| 2022-11-14 | 57 | 1 | 
 

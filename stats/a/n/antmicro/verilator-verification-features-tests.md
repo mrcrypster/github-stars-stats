@@ -1,10 +1,10 @@
 # antmicro/verilator-verification-features-tests - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 1
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/antmicro/verilator-verification-features-tests)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 5 | 1 | 
 | 2022-12-13 | 4 | 1 | 
 | 2022-12-12 | 4 | 1 | 
 | 2022-12-10 | 4 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 3 | - | 
 | 2022-11-16 | 3 | - | 
 | 2022-11-15 | 3 | - | 
-| 2022-11-14 | 3 | - | 
 

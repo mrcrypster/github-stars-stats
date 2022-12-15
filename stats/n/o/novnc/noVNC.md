@@ -1,8 +1,8 @@
 # novnc/noVNC - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
-☋ Forks: 1938
+☋ Forks: 1939
 
 ★ Stars: 9307
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 9307 | 1939 | 
 | 2022-12-13 | 9307 | 1938 | 
 | 2022-12-12 | 9304 | 1938 | 
 | 2022-12-10 | 9304 | 1937 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 9250 | 1923 | 
 | 2022-11-16 | 9244 | 1924 | 
 | 2022-11-15 | 9242 | 1925 | 
-| 2022-11-14 | 9239 | 1924 | 
 

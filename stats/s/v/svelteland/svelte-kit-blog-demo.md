@@ -1,10 +1,10 @@
 # svelteland/svelte-kit-blog-demo - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 55
 
-★ Stars: 146
+★ Stars: 147
 
 [Open repository](https://github.com/svelteland/svelte-kit-blog-demo)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 147 | 55 | 
 | 2022-12-12 | 146 | 55 | 
 | 2022-12-11 | 145 | 55 | 
 | 2022-12-10 | 145 | 55 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 144 | 57 | 
 | 2022-11-16 | 144 | 57 | 
 | 2022-11-15 | 144 | 57 | 
-| 2022-11-14 | 144 | 57 | 
 

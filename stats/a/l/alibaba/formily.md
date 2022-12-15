@@ -1,10 +1,10 @@
 # alibaba/formily - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
-☋ Forks: 1258
+☋ Forks: 1259
 
-★ Stars: 8910
+★ Stars: 8919
 
 [Open repository](https://github.com/alibaba/formily)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 8919 | 1259 | 
 | 2022-12-12 | 8910 | 1258 | 
 | 2022-12-11 | 8909 | 1258 | 
 | 2022-12-10 | 8905 | 1257 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-18 | 8803 | 1240 | 
 | 2022-11-17 | 8793 | 1239 | 
 | 2022-11-16 | 8789 | 1239 | 
-| 2022-11-15 | 8784 | 1236 | 
 

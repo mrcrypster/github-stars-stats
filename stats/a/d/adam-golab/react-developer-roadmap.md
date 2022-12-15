@@ -1,10 +1,10 @@
 # adam-golab/react-developer-roadmap - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 1955
 
-★ Stars: 17726
+★ Stars: 17736
 
 [Open repository](https://github.com/adam-golab/react-developer-roadmap)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 17736 | 1955 | 
 | 2022-12-12 | 17726 | 1955 | 
 | 2022-12-11 | 17724 | 1955 | 
 | 2022-12-10 | 17722 | 1955 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-18 | 17553 | 1933 | 
 | 2022-11-17 | 17550 | 1931 | 
 | 2022-11-15 | 17552 | 1931 | 
-| 2022-11-14 | 17548 | 1931 | 
 

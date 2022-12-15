@@ -1,10 +1,10 @@
 # lurk101/pshell - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 7
 
-★ Stars: 169
+★ Stars: 168
 
 [Open repository](https://github.com/lurk101/pshell)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 168 | 7 | 
 | 2022-12-13 | 169 | 7 | 
 | 2022-12-11 | 169 | 7 | 
 | 2022-12-10 | 168 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 158 | 7 | 
 | 2022-11-16 | 157 | 7 | 
 | 2022-11-15 | 157 | 7 | 
-| 2022-11-14 | 157 | 7 | 
 

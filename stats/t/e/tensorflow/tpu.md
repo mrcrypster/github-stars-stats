@@ -1,6 +1,6 @@
 # tensorflow/tpu - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 1760
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 4974 | 1760 | 
 | 2022-12-13 | 4974 | 1760 | 
 | 2022-12-12 | 4972 | 1760 | 
 | 2022-12-11 | 4970 | 1758 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 4948 | 1747 | 
 | 2022-11-16 | 4947 | 1747 | 
 | 2022-11-15 | 4947 | 1748 | 
-| 2022-11-14 | 4946 | 1747 | 
 

@@ -1,6 +1,6 @@
 # jiangtian616/JHenTai - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 362 | 16 | 
 | 2022-12-13 | 362 | 16 | 
 | 2022-12-12 | 351 | 16 | 
 | 2022-12-11 | 340 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 204 | 9 | 
 | 2022-11-16 | 199 | 9 | 
 | 2022-11-15 | 195 | 9 | 
-| 2022-11-14 | 190 | 9 | 
 

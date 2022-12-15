@@ -1,6 +1,6 @@
 # Guest0x0/normalization-bench - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 37 | 2 | 
 | 2022-12-13 | 37 | 2 | 
 | 2022-12-12 | 37 | 2 | 
 | 2022-12-10 | 37 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 37 | 2 | 
 | 2022-11-17 | 37 | 2 | 
 | 2022-11-15 | 37 | 2 | 
-| 2022-11-14 | 37 | 2 | 
 

@@ -1,6 +1,6 @@
 # FaztWeb/first-node-express-app - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 69
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 63 | 69 | 
 | 2022-12-12 | 63 | 69 | 
 | 2022-12-11 | 63 | 69 | 
 | 2022-12-10 | 63 | 69 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 63 | 69 | 
 | 2022-11-16 | 63 | 69 | 
 | 2022-11-15 | 63 | 69 | 
-| 2022-11-14 | 63 | 69 | 
 

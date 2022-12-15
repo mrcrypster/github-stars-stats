@@ -1,10 +1,10 @@
 # sirupsen/logrus - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 2195
 
-★ Stars: 21793
+★ Stars: 21801
 
 [Open repository](https://github.com/sirupsen/logrus)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 21801 | 2195 | 
 | 2022-12-12 | 21793 | 2195 | 
 | 2022-12-11 | 21786 | 2195 | 
 | 2022-12-10 | 21782 | 2196 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 21667 | 2187 | 
 | 2022-11-16 | 21654 | 2185 | 
 | 2022-11-15 | 21645 | 2185 | 
-| 2022-11-14 | 21634 | 2186 | 
 

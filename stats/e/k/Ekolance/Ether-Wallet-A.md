@@ -1,6 +1,6 @@
 # Ekolance/Ether-Wallet-A - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 1 | 8 | 
 | 2022-12-12 | 1 | 8 | 
 | 2022-12-11 | 1 | 8 | 
 | 2022-12-10 | 1 | 8 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-18 | 1 | 8 | 
 | 2022-11-17 | 1 | 8 | 
 | 2022-11-15 | 1 | 8 | 
-| 2022-11-14 | 1 | 8 | 
 

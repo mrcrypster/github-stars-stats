@@ -1,6 +1,6 @@
 # tpope/vim-bundler - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 383 | 30 | 
 | 2022-12-12 | 383 | 30 | 
 | 2022-12-11 | 383 | 30 | 
 | 2022-12-10 | 383 | 30 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 382 | 30 | 
 | 2022-11-16 | 382 | 30 | 
 | 2022-11-15 | 382 | 30 | 
-| 2022-11-14 | 381 | 30 | 
 

@@ -1,6 +1,6 @@
 # lowRISC/muntjac - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 19 | 1 | 
 | 2022-12-12 | 19 | 1 | 
 | 2022-12-11 | 19 | 1 | 
 | 2022-12-10 | 19 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 17 | 1 | 
 | 2022-11-16 | 17 | 1 | 
 | 2022-11-15 | 17 | 1 | 
-| 2022-11-14 | 17 | 1 | 
 

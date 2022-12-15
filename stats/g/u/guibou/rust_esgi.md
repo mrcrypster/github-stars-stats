@@ -1,6 +1,6 @@
 # guibou/rust_esgi - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 1 | 5 | 
 | 2022-12-12 | 1 | 5 | 
 | 2022-12-11 | 1 | 5 | 
 | 2022-12-10 | 1 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 1 | 5 | 
 | 2022-11-16 | 1 | 5 | 
 | 2022-11-15 | 1 | 5 | 
-| 2022-11-14 | 1 | 5 | 
 

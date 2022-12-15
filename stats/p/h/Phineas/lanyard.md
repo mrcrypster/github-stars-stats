@@ -1,10 +1,10 @@
 # Phineas/lanyard - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 100
 
-★ Stars: 554
+★ Stars: 555
 
 [Open repository](https://github.com/Phineas/lanyard)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 555 | 100 | 
 | 2022-12-13 | 554 | 100 | 
 | 2022-12-12 | 554 | 100 | 
 | 2022-12-10 | 554 | 100 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 538 | 94 | 
 | 2022-11-16 | 537 | 94 | 
 | 2022-11-15 | 535 | 94 | 
-| 2022-11-14 | 535 | 94 | 
 

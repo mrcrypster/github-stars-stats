@@ -1,8 +1,8 @@
 # render-examples/metabase - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
-☋ Forks: 101
+☋ Forks: 102
 
 ★ Stars: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 10 | 102 | 
 | 2022-12-13 | 10 | 101 | 
 | 2022-12-12 | 10 | 100 | 
 | 2022-12-11 | 10 | 100 | 

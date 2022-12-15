@@ -1,6 +1,6 @@
 # webmin/webmin - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 494
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 2297 | 494 | 
 | 2022-12-13 | 2297 | 494 | 
 | 2022-12-11 | 2296 | 493 | 
 | 2022-12-10 | 2294 | 493 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 2249 | 489 | 
 | 2022-11-17 | 2248 | 489 | 
 | 2022-11-15 | 2248 | 489 | 
-| 2022-11-14 | 2246 | 489 | 
 

@@ -1,10 +1,10 @@
 # StableCoder/cmake-scripts - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 56
 
-★ Stars: 403
+★ Stars: 404
 
 [Open repository](https://github.com/StableCoder/cmake-scripts)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 404 | 56 | 
 | 2022-12-12 | 403 | 56 | 
 | 2022-12-11 | 401 | 55 | 
 | 2022-12-10 | 402 | 55 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 395 | 55 | 
 | 2022-11-16 | 395 | 55 | 
 | 2022-11-15 | 395 | 55 | 
-| 2022-11-14 | 395 | 55 | 
 

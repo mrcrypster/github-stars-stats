@@ -1,6 +1,6 @@
 # yilozt/mutter-rounded - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 495 | 23 | 
 | 2022-12-13 | 495 | 23 | 
 | 2022-12-12 | 495 | 23 | 
 | 2022-12-10 | 494 | 23 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 492 | 23 | 
 | 2022-11-16 | 492 | 23 | 
 | 2022-11-15 | 492 | 23 | 
-| 2022-11-14 | 491 | 23 | 
 

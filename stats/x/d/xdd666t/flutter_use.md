@@ -1,10 +1,10 @@
 # xdd666t/flutter_use - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 114
 
-★ Stars: 475
+★ Stars: 476
 
 [Open repository](https://github.com/xdd666t/flutter_use)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 476 | 114 | 
 | 2022-12-13 | 475 | 114 | 
 | 2022-12-11 | 474 | 114 | 
 | 2022-12-10 | 473 | 114 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 470 | 112 | 
 | 2022-11-16 | 470 | 112 | 
 | 2022-11-15 | 469 | 112 | 
-| 2022-11-14 | 469 | 112 | 
 

@@ -1,10 +1,10 @@
 # SimulaVR/Simula - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 76
 
-★ Stars: 2561
+★ Stars: 2562
 
 [Open repository](https://github.com/SimulaVR/Simula)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 2562 | 76 | 
 | 2022-12-13 | 2561 | 76 | 
 | 2022-12-12 | 2560 | 76 | 
 | 2022-12-11 | 2560 | 76 | 

@@ -1,6 +1,6 @@
 # next-step/flutter-movie-list - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 3 | 9 | 
 | 2022-12-12 | 3 | 9 | 
 | 2022-12-11 | 3 | 9 | 
 | 2022-12-10 | 3 | 9 | 

@@ -1,10 +1,10 @@
 # misskey-dev/misskey - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
-☋ Forks: 496
+☋ Forks: 495
 
-★ Stars: 3755
+★ Stars: 3760
 
 [Open repository](https://github.com/misskey-dev/misskey)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 3760 | 495 | 
 | 2022-12-13 | 3755 | 496 | 
 | 2022-12-12 | 3750 | 496 | 
 | 2022-12-11 | 3737 | 495 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 3223 | 457 | 
 | 2022-11-16 | 3212 | 457 | 
 | 2022-11-15 | 3199 | 457 | 
-| 2022-11-14 | 3193 | 458 | 
 

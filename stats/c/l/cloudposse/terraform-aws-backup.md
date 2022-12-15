@@ -1,10 +1,10 @@
 # cloudposse/terraform-aws-backup - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 43
 
-★ Stars: 73
+★ Stars: 74
 
 [Open repository](https://github.com/cloudposse/terraform-aws-backup)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 74 | 43 | 
 | 2022-12-13 | 73 | 43 | 
 | 2022-12-11 | 72 | 43 | 
 | 2022-12-10 | 72 | 43 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 71 | 43 | 
 | 2022-11-16 | 71 | 43 | 
 | 2022-11-15 | 71 | 43 | 
-| 2022-11-14 | 71 | 43 | 
 

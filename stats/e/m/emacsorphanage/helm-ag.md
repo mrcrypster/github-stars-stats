@@ -1,10 +1,10 @@
 # emacsorphanage/helm-ag - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 77
 
-★ Stars: 468
+★ Stars: 470
 
 [Open repository](https://github.com/emacsorphanage/helm-ag)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 470 | 77 | 
 | 2022-12-12 | 468 | 77 | 
 | 2022-12-11 | 468 | 77 | 
 | 2022-12-10 | 468 | 77 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 469 | 78 | 
 | 2022-11-16 | 469 | 78 | 
 | 2022-11-15 | 469 | 78 | 
-| 2022-11-14 | 469 | 78 | 
 

@@ -1,6 +1,6 @@
 # hathora/builder - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 483 | 29 | 
 | 2022-12-12 | 483 | 29 | 
 | 2022-12-11 | 483 | 29 | 
 | 2022-12-10 | 483 | 29 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 480 | 29 | 
 | 2022-11-16 | 480 | 29 | 
 | 2022-11-15 | 480 | 29 | 
-| 2022-11-14 | 480 | 29 | 
 

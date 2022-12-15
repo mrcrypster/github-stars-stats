@@ -1,10 +1,10 @@
 # bkerler/mtkclient - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
-☋ Forks: 269
+☋ Forks: 270
 
-★ Stars: 1032
+★ Stars: 1036
 
 [Open repository](https://github.com/bkerler/mtkclient)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 1036 | 270 | 
 | 2022-12-13 | 1032 | 269 | 
 | 2022-12-12 | 1029 | 267 | 
 | 2022-12-10 | 1029 | 268 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 986 | 248 | 
 | 2022-11-16 | 984 | 249 | 
 | 2022-11-15 | 981 | 249 | 
-| 2022-11-14 | 980 | 249 | 
 

@@ -1,10 +1,10 @@
 # arxanas/git-branchless - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 45
 
-★ Stars: 2339
+★ Stars: 2343
 
 [Open repository](https://github.com/arxanas/git-branchless)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 2343 | 45 | 
 | 2022-12-13 | 2339 | 45 | 
 | 2022-12-12 | 2338 | 45 | 
 | 2022-12-11 | 2338 | 45 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 2238 | 42 | 
 | 2022-11-16 | 2226 | 42 | 
 | 2022-11-15 | 2188 | 40 | 
-| 2022-11-14 | 2188 | 39 | 
 

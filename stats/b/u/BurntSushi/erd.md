@@ -1,10 +1,10 @@
 # BurntSushi/erd - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 142
 
-★ Stars: 1637
+★ Stars: 1639
 
 [Open repository](https://github.com/BurntSushi/erd)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 1639 | 142 | 
 | 2022-12-13 | 1637 | 142 | 
 | 2022-12-11 | 1636 | 142 | 
 | 2022-12-10 | 1636 | 142 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 1616 | 143 | 
 | 2022-11-16 | 1616 | 143 | 
 | 2022-11-15 | 1616 | 143 | 
-| 2022-11-14 | 1616 | 143 | 
 

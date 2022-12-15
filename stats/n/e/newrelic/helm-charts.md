@@ -1,6 +1,6 @@
 # newrelic/helm-charts - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 172
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 73 | 172 | 
 | 2022-12-13 | 73 | 172 | 
 | 2022-12-12 | 73 | 172 | 
 | 2022-12-11 | 73 | 172 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 72 | 169 | 
 | 2022-11-16 | 72 | 169 | 
 | 2022-11-15 | 72 | 168 | 
-| 2022-11-14 | 72 | 168 | 
 

@@ -1,6 +1,6 @@
 # zhsitao/gi-bin-output - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 85
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 62 | 85 | 
 | 2022-12-13 | 62 | 85 | 
 | 2022-12-11 | 62 | 85 | 
 | 2022-12-10 | 62 | 85 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 63 | 85 | 
 | 2022-11-16 | 63 | 85 | 
 | 2022-11-15 | 64 | 85 | 
-| 2022-11-14 | 64 | 85 | 
 

@@ -1,6 +1,6 @@
 # REVrobotics/SPARK-MAX-Examples - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 80
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 68 | 80 | 
 | 2022-12-12 | 68 | 80 | 
 | 2022-12-11 | 68 | 80 | 
 | 2022-12-10 | 68 | 80 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 66 | 79 | 
 | 2022-11-16 | 66 | 79 | 
 | 2022-11-15 | 66 | 79 | 
-| 2022-11-14 | 66 | 79 | 
 

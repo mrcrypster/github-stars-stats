@@ -1,10 +1,10 @@
 # Fantom-foundation/Artion-Contracts - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 77
 
-★ Stars: 90
+★ Stars: 89
 
 [Open repository](https://github.com/Fantom-foundation/Artion-Contracts)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 89 | 77 | 
 | 2022-12-12 | 90 | 77 | 
 | 2022-12-11 | 90 | 77 | 
 | 2022-12-10 | 90 | 77 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 88 | 77 | 
 | 2022-11-16 | 88 | 76 | 
 | 2022-11-15 | 88 | 76 | 
-| 2022-11-14 | 88 | 76 | 
 

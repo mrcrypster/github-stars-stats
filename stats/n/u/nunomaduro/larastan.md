@@ -1,10 +1,10 @@
 # nunomaduro/larastan - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 320
 
-★ Stars: 4349
+★ Stars: 4351
 
 [Open repository](https://github.com/nunomaduro/larastan)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 4351 | 320 | 
 | 2022-12-13 | 4349 | 320 | 
 | 2022-12-12 | 4345 | 318 | 
 | 2022-12-11 | 4341 | 316 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 4306 | 309 | 
 | 2022-11-16 | 4302 | 309 | 
 | 2022-11-15 | 4302 | 308 | 
-| 2022-11-14 | 4300 | 307 | 
 

@@ -1,10 +1,10 @@
 # StarRocks/starrocks - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
-☋ Forks: 803
+☋ Forks: 804
 
-★ Stars: 3670
+★ Stars: 3674
 
 [Open repository](https://github.com/StarRocks/starrocks)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 3674 | 804 | 
+| 2022-12-14 | 3675 | 804 | 
 | 2022-12-13 | 3670 | 803 | 
 | 2022-12-12 | 3668 | 803 | 
 | 2022-12-11 | 3662 | 802 | 
@@ -40,5 +42,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 3571 | 780 | 
 | 2022-11-17 | 3564 | 778 | 
 | 2022-11-16 | 3554 | 778 | 
-| 2022-11-15 | 3536 | 777 | 
 

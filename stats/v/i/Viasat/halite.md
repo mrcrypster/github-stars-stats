@@ -1,8 +1,8 @@
 # Viasat/halite - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 6 | 2 | 
 | 2022-12-12 | 6 | 1 | 
 | 2022-12-11 | 6 | 1 | 
 | 2022-12-10 | 6 | 1 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-18 | 4 | 1 | 
 | 2022-11-17 | 4 | 1 | 
 | 2022-11-16 | 4 | 1 | 
-| 2022-11-15 | 4 | 1 | 
 

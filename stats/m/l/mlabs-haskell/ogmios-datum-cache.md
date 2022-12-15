@@ -1,6 +1,6 @@
 # mlabs-haskell/ogmios-datum-cache - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 6 | 5 | 
 | 2022-12-13 | 6 | 5 | 
 | 2022-12-12 | 6 | 5 | 
 | 2022-12-10 | 6 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 6 | 5 | 
 | 2022-11-16 | 6 | 5 | 
 | 2022-11-15 | 6 | 5 | 
-| 2022-11-14 | 5 | 5 | 
 

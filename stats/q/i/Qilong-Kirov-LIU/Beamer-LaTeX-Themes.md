@@ -1,8 +1,8 @@
 # Qilong-Kirov-LIU/Beamer-LaTeX-Themes - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
-☋ Forks: 6
+☋ Forks: 7
 
 ★ Stars: 41
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 41 | 7 | 
 | 2022-12-13 | 41 | 6 | 
 | 2022-12-11 | 40 | 6 | 
 | 2022-12-10 | 40 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 35 | 6 | 
 | 2022-11-16 | 35 | 6 | 
 | 2022-11-15 | 35 | 6 | 
-| 2022-11-14 | 35 | 6 | 
 

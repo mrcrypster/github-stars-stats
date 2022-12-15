@@ -1,10 +1,10 @@
 # rapidsai/cuml - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 438
 
-★ Stars: 3061
+★ Stars: 3062
 
 [Open repository](https://github.com/rapidsai/cuml)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 3062 | 438 | 
 | 2022-12-13 | 3061 | 438 | 
 | 2022-12-12 | 3059 | 438 | 
 | 2022-12-10 | 3058 | 438 | 

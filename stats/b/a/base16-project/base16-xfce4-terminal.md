@@ -1,10 +1,10 @@
 # base16-project/base16-xfce4-terminal - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 23
 
-★ Stars: 198
+★ Stars: 199
 
 [Open repository](https://github.com/base16-project/base16-xfce4-terminal)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 199 | 23 | 
 | 2022-12-13 | 198 | 23 | 
 | 2022-12-12 | 198 | 23 | 
 | 2022-12-10 | 198 | 23 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 198 | 24 | 
 | 2022-11-16 | 198 | 24 | 
 | 2022-11-15 | 197 | 24 | 
-| 2022-11-14 | 197 | 24 | 
 

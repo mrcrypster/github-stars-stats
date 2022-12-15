@@ -1,10 +1,10 @@
 # koslib/helm-eks-action - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 52
 
-★ Stars: 42
+★ Stars: 43
 
 [Open repository](https://github.com/koslib/helm-eks-action)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 43 | 52 | 
 | 2022-12-13 | 42 | 52 | 
 | 2022-12-12 | 42 | 52 | 
 | 2022-12-11 | 42 | 52 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 42 | 51 | 
 | 2022-11-16 | 42 | 51 | 
 | 2022-11-15 | 42 | 51 | 
-| 2022-11-14 | 41 | 51 | 
 

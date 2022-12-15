@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 14
 
-☋ Forks: 1138
+☋ Forks: 1139
 
-★ Stars: 3464
+★ Stars: 3463
 
 [Open repository](https://github.com/actions/checkout)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-14 | 3464 | 1138 | 
+| 2022-12-14 | 3463 | 1139 | 
 | 2022-12-12 | 3457 | 1131 | 
 | 2022-12-11 | 3450 | 1132 | 
 | 2022-12-10 | 3448 | 1128 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-17 | 3365 | 1101 | 
 | 2022-11-16 | 3361 | 1100 | 
 | 2022-11-15 | 3355 | 1098 | 
-| 2022-11-14 | 3352 | 1097 | 
 

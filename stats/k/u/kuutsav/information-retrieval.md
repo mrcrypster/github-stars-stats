@@ -1,10 +1,10 @@
 # kuutsav/information-retrieval - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 12
 
-★ Stars: 100
+★ Stars: 101
 
 [Open repository](https://github.com/kuutsav/information-retrieval)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 101 | 12 | 
 | 2022-12-12 | 100 | 12 | 
 | 2022-12-11 | 100 | 12 | 
 | 2022-12-10 | 100 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 100 | 11 | 
 | 2022-11-16 | 100 | 11 | 
 | 2022-11-15 | 100 | 11 | 
-| 2022-11-14 | 100 | 11 | 
 

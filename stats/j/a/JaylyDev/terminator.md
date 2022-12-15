@@ -1,8 +1,8 @@
 # JaylyDev/terminator - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
-☋ Forks: 5
+☋ Forks: 6
 
 ★ Stars: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 8 | 6 | 
 | 2022-12-13 | 8 | 5 | 
 | 2022-12-12 | 8 | 5 | 
 | 2022-12-10 | 8 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 8 | 5 | 
 | 2022-11-16 | 8 | 5 | 
 | 2022-11-15 | 8 | 5 | 
-| 2022-11-14 | 8 | 5 | 
 

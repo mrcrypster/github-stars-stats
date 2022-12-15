@@ -1,8 +1,8 @@
 # dpgaspar/Flask-AppBuilder - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
-☋ Forks: 1236
+☋ Forks: 1237
 
 ★ Stars: 3984
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 3984 | 1237 | 
 | 2022-12-13 | 3984 | 1236 | 
 | 2022-12-11 | 3982 | 1237 | 
 | 2022-12-10 | 3981 | 1237 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 3961 | 1233 | 
 | 2022-11-16 | 3959 | 1233 | 
 | 2022-11-15 | 3956 | 1233 | 
-| 2022-11-14 | 3952 | 1233 | 
 

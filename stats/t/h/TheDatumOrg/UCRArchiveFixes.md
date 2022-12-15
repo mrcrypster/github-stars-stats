@@ -1,6 +1,6 @@
 # TheDatumOrg/UCRArchiveFixes - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 45 | 47 | 
 | 2022-12-12 | 45 | 47 | 
 | 2022-12-11 | 45 | 47 | 
 | 2022-12-10 | 45 | 47 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 46 | 47 | 
 | 2022-11-16 | 46 | 47 | 
 | 2022-11-15 | 46 | 47 | 
-| 2022-11-14 | 46 | 47 | 
 

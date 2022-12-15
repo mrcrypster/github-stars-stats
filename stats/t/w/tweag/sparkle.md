@@ -1,6 +1,6 @@
 # tweag/sparkle - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 440 | 30 | 
 | 2022-12-13 | 440 | 30 | 
 | 2022-12-11 | 440 | 30 | 
 | 2022-12-10 | 440 | 30 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 440 | 30 | 
 | 2022-11-16 | 440 | 30 | 
 | 2022-11-15 | 440 | 30 | 
-| 2022-11-14 | 440 | 30 | 
 

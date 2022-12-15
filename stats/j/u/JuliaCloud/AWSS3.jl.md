@@ -1,6 +1,6 @@
 # JuliaCloud/AWSS3.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 41 | 36 | 
 | 2022-12-13 | 41 | 36 | 
 | 2022-12-12 | 41 | 36 | 
 | 2022-12-11 | 41 | 36 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 40 | 36 | 
 | 2022-11-16 | 40 | 36 | 
 | 2022-11-15 | 40 | 36 | 
-| 2022-11-14 | 40 | 36 | 
 

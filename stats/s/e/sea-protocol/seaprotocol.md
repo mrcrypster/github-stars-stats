@@ -1,6 +1,6 @@
 # sea-protocol/seaprotocol - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 5069 | 23 | 
 | 2022-12-13 | 5069 | 23 | 
 | 2022-12-12 | 5071 | 23 | 
 | 2022-12-11 | 5069 | 23 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 5008 | 21 | 
 | 2022-11-16 | 4989 | 20 | 
 | 2022-11-15 | 4982 | 20 | 
-| 2022-11-14 | 4976 | 20 | 
 

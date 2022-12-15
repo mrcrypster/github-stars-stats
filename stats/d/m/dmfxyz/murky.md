@@ -1,6 +1,6 @@
 # dmfxyz/murky - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 177 | 10 | 
 | 2022-12-13 | 177 | 10 | 
 | 2022-12-12 | 175 | 10 | 
 | 2022-12-11 | 174 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 159 | 10 | 
 | 2022-11-16 | 159 | 10 | 
 | 2022-11-15 | 159 | 10 | 
-| 2022-11-14 | 159 | 10 | 
 

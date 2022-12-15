@@ -1,10 +1,10 @@
 # google/oboe - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
-☋ Forks: 503
+☋ Forks: 504
 
-★ Stars: 3224
+★ Stars: 3226
 
 [Open repository](https://github.com/google/oboe)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 3226 | 504 | 
 | 2022-12-12 | 3224 | 503 | 
 | 2022-12-11 | 3222 | 503 | 
 | 2022-12-10 | 3220 | 503 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-18 | 3194 | 500 | 
 | 2022-11-17 | 3193 | 500 | 
 | 2022-11-15 | 3193 | 500 | 
-| 2022-11-14 | 3193 | 500 | 
 

@@ -1,6 +1,6 @@
 # mlpack/mlpack4_joss - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | - | 9 | 
 | 2022-12-12 | - | 9 | 
 | 2022-12-11 | - | 9 | 
 | 2022-12-10 | - | 9 | 

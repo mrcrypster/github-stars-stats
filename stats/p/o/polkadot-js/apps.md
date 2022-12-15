@@ -1,10 +1,10 @@
 # polkadot-js/apps - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
-☋ Forks: 1050
+☋ Forks: 1051
 
-★ Stars: 1591
+★ Stars: 1592
 
 [Open repository](https://github.com/polkadot-js/apps)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 1592 | 1051 | 
 | 2022-12-13 | 1591 | 1050 | 
 | 2022-12-12 | 1588 | 1049 | 
 | 2022-12-10 | 1588 | 1049 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 1575 | 1033 | 
 | 2022-11-16 | 1575 | 1033 | 
 | 2022-11-15 | 1574 | 1032 | 
-| 2022-11-14 | 1574 | 1032 | 
 

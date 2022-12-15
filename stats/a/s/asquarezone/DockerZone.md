@@ -1,8 +1,8 @@
 # asquarezone/DockerZone - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
-☋ Forks: 120
+☋ Forks: 121
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 5 | 121 | 
 | 2022-12-13 | 5 | 120 | 
 | 2022-12-12 | 5 | 119 | 
 | 2022-12-10 | 5 | 117 | 

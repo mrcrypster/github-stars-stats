@@ -1,10 +1,10 @@
 # flightsteed/oms-erp - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 153
 
-★ Stars: 668
+★ Stars: 674
 
 [Open repository](https://github.com/flightsteed/oms-erp)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 674 | 153 | 
 | 2022-12-13 | 668 | 153 | 
 | 2022-12-11 | 663 | 153 | 
 | 2022-12-10 | 663 | 153 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 510 | 130 | 
 | 2022-11-16 | 498 | 128 | 
 | 2022-11-15 | 488 | 126 | 
-| 2022-11-14 | 487 | 122 | 
 

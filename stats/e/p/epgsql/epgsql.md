@@ -1,6 +1,6 @@
 # epgsql/epgsql - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 146
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 374 | 146 | 
+| 2022-12-14 | 374 | 146 | 
 | 2022-12-13 | 374 | 146 | 
 | 2022-12-12 | 374 | 146 | 
 | 2022-12-11 | 374 | 146 | 
@@ -41,5 +43,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 373 | 146 | 
 | 2022-11-16 | 373 | 146 | 
 | 2022-11-15 | 373 | 146 | 
-| 2022-11-14 | 373 | 146 | 
 

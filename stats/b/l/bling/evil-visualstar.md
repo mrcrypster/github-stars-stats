@@ -1,6 +1,6 @@
 # bling/evil-visualstar - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 72 | 12 | 
 | 2022-12-13 | 72 | 12 | 
 | 2022-12-12 | 72 | 12 | 
 | 2022-12-10 | 71 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 71 | 12 | 
 | 2022-11-16 | 71 | 12 | 
 | 2022-11-15 | 71 | 12 | 
-| 2022-11-14 | 71 | 12 | 
 

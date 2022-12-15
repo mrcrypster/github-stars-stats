@@ -1,8 +1,8 @@
 # Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2 - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
-☋ Forks: 855
+☋ Forks: 856
 
 ★ Stars: 1098
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 1098 | 856 | 
 | 2022-12-13 | 1098 | 855 | 
 | 2022-12-12 | 1097 | 855 | 
 | 2022-12-11 | 1096 | 855 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 1080 | 844 | 
 | 2022-11-16 | 1080 | 845 | 
 | 2022-11-15 | 1080 | 845 | 
-| 2022-11-14 | 1079 | 845 | 
 

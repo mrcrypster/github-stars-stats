@@ -1,8 +1,8 @@
 # VRCreatorAcademy/vr-creator-academy-collab - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
-☋ Forks: 19
+☋ Forks: 20
 
 ★ Stars: 13
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 13 | 20 | 
 | 2022-12-13 | 13 | 19 | 
 | 2022-12-11 | 12 | 19 | 
 | 2022-12-10 | 12 | 19 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 12 | 18 | 
 | 2022-11-16 | 12 | 18 | 
 | 2022-11-15 | 12 | 18 | 
-| 2022-11-14 | 12 | 18 | 
 

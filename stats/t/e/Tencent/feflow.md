@@ -1,10 +1,10 @@
 # Tencent/feflow - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 231
 
-★ Stars: 1275
+★ Stars: 1274
 
 [Open repository](https://github.com/Tencent/feflow)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 1274 | 231 | 
 | 2022-12-13 | 1275 | 231 | 
 | 2022-12-12 | 1276 | 232 | 
 | 2022-12-10 | 1276 | 232 | 

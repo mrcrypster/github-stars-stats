@@ -1,10 +1,10 @@
 # tgrysztar/fasm - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 24
 
-★ Stars: 272
+★ Stars: 273
 
 [Open repository](https://github.com/tgrysztar/fasm)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 273 | 24 | 
 | 2022-12-12 | 272 | 24 | 
 | 2022-12-11 | 272 | 24 | 
 | 2022-12-10 | 272 | 24 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 269 | 25 | 
 | 2022-11-16 | 268 | 25 | 
 | 2022-11-15 | 268 | 25 | 
-| 2022-11-14 | 268 | 25 | 
 

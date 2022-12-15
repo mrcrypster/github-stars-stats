@@ -1,10 +1,10 @@
 # bezhanSalleh/filament-shield - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 65
 
-★ Stars: 319
+★ Stars: 320
 
 [Open repository](https://github.com/bezhanSalleh/filament-shield)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 320 | 65 | 
 | 2022-12-13 | 319 | 65 | 
 | 2022-12-12 | 319 | 65 | 
 | 2022-12-11 | 319 | 65 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 299 | 62 | 
 | 2022-11-17 | 299 | 61 | 
 | 2022-11-16 | 297 | 60 | 
-| 2022-11-15 | 297 | 60 | 
 

@@ -1,10 +1,10 @@
 # ValveSoftware/Proton - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
-☋ Forks: 834
+☋ Forks: 835
 
-★ Stars: 18880
+★ Stars: 18893
 
 [Open repository](https://github.com/ValveSoftware/Proton)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 18893 | 835 | 
 | 2022-12-13 | 18880 | 834 | 
 | 2022-12-12 | 18869 | 834 | 
 | 2022-12-10 | 18862 | 834 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 18669 | 821 | 
 | 2022-11-16 | 18659 | 821 | 
 | 2022-11-15 | 18654 | 820 | 
-| 2022-11-14 | 18650 | 820 | 
 

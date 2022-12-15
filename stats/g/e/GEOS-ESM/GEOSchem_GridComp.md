@@ -1,10 +1,10 @@
 # GEOS-ESM/GEOSchem_GridComp - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 4
 
-★ Stars: 2
+★ Stars: 1
 
 [Open repository](https://github.com/GEOS-ESM/GEOSchem_GridComp)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 1 | 4 | 
+| 2022-12-14 | 2 | 4 | 
 | 2022-12-13 | 2 | 4 | 
 | 2022-12-12 | 2 | 4 | 
 | 2022-12-11 | 2 | 4 | 
@@ -40,5 +42,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 1 | 4 | 
 | 2022-11-16 | 1 | 4 | 
 | 2022-11-15 | 1 | 4 | 
-| 2022-11-14 | 1 | 4 | 
 

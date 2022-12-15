@@ -1,6 +1,6 @@
 # IObundle/iob-picorv32 - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 8 | 12 | 
 | 2022-12-13 | 8 | 12 | 
 | 2022-12-12 | 8 | 12 | 
 | 2022-12-11 | 8 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 10 | 12 | 
 | 2022-11-16 | 10 | 12 | 
 | 2022-11-15 | 10 | 12 | 
-| 2022-11-14 | 10 | 12 | 
 

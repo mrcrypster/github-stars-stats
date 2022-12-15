@@ -1,10 +1,10 @@
 # kitlangton/zio-tui - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
-☋ Forks: 5
+☋ Forks: 6
 
-★ Stars: 46
+★ Stars: 47
 
 [Open repository](https://github.com/kitlangton/zio-tui)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 47 | 6 | 
 | 2022-12-13 | 46 | 5 | 
 | 2022-12-12 | 46 | 5 | 
 | 2022-12-10 | 46 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 45 | 5 | 
 | 2022-11-16 | 45 | 5 | 
 | 2022-11-15 | 45 | 5 | 
-| 2022-11-14 | 45 | 5 | 
 

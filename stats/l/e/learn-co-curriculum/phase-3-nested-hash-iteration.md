@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-3-nested-hash-iteration - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
-☋ Forks: 508
+☋ Forks: 511
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 1 | 511 | 
 | 2022-12-12 | 1 | 508 | 
 | 2022-12-11 | 1 | 508 | 
 | 2022-12-10 | 1 | 508 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 1 | 502 | 
 | 2022-11-16 | 1 | 502 | 
 | 2022-11-15 | 1 | 502 | 
-| 2022-11-14 | 1 | 502 | 
 

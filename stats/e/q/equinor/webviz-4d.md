@@ -1,6 +1,6 @@
 # equinor/webviz-4d - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | - | 4 | 
 | 2022-12-13 | - | 4 | 
 | 2022-12-12 | - | 4 | 
 | 2022-12-11 | - | 4 | 

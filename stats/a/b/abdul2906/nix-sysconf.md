@@ -1,10 +1,10 @@
 # abdul2906/nix-sysconf - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 2
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/abdul2906/nix-sysconf)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 29 | 2 | 
 | 2022-12-12 | 28 | 2 | 
 | 2022-12-11 | 27 | 2 | 
 | 2022-12-10 | 27 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 27 | 1 | 
 | 2022-11-16 | 27 | 1 | 
 | 2022-11-15 | 27 | 1 | 
-| 2022-11-14 | 26 | 1 | 
 

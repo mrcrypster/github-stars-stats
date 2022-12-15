@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 14
 
-☋ Forks: 491
+☋ Forks: 490
 
-★ Stars: 1965
+★ Stars: 1970
 
 [Open repository](https://github.com/adrianhajdin/project_modern_ui_ux_gpt3)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-14 | 1965 | 491 | 
+| 2022-12-14 | 1970 | 490 | 
 | 2022-12-13 | 1964 | 491 | 
 | 2022-12-12 | 1958 | 490 | 
 | 2022-12-11 | 1952 | 489 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-17 | 1812 | 459 | 
 | 2022-11-16 | 1802 | 457 | 
 | 2022-11-15 | 1798 | 454 | 
-| 2022-11-14 | 1783 | 452 | 
 

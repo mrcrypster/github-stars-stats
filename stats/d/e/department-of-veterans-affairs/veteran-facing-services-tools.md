@@ -1,10 +1,10 @@
 # department-of-veterans-affairs/veteran-facing-services-tools - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 10
 
-★ Stars: 23
+★ Stars: 22
 
 [Open repository](https://github.com/department-of-veterans-affairs/veteran-facing-services-tools)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 22 | 10 | 
 | 2022-12-13 | 23 | 10 | 
 | 2022-12-12 | 23 | 10 | 
 | 2022-12-10 | 23 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 21 | 10 | 
 | 2022-11-16 | 21 | 10 | 
 | 2022-11-15 | 21 | 10 | 
-| 2022-11-14 | 21 | 10 | 
 

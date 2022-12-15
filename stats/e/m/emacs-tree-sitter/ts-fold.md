@@ -1,10 +1,10 @@
 # emacs-tree-sitter/ts-fold - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 14
 
-★ Stars: 46
+★ Stars: 45
 
 [Open repository](https://github.com/emacs-tree-sitter/ts-fold)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 45 | 14 | 
+| 2022-12-14 | 46 | 14 | 
 | 2022-12-13 | 46 | 14 | 
 | 2022-12-12 | 46 | 13 | 
 | 2022-12-11 | 45 | 13 | 

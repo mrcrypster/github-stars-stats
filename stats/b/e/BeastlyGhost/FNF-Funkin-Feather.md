@@ -1,6 +1,6 @@
 # BeastlyGhost/FNF-Funkin-Feather - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 13 | 5 | 
 | 2022-12-13 | 13 | 5 | 
 | 2022-12-12 | 12 | 5 | 
 | 2022-12-10 | 12 | 4 | 

@@ -1,6 +1,6 @@
 # jsk-enshu/robot-programming - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 256
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 32 | 256 | 
 | 2022-12-13 | 32 | 256 | 
 | 2022-12-11 | 32 | 256 | 
 | 2022-12-10 | 32 | 256 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 30 | 256 | 
 | 2022-11-16 | 30 | 256 | 
 | 2022-11-15 | 30 | 256 | 
-| 2022-11-14 | 30 | 256 | 
 

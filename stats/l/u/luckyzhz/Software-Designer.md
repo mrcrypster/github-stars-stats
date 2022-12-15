@@ -1,6 +1,6 @@
 # luckyzhz/Software-Designer - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 110
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 447 | 110 | 
 | 2022-12-13 | 447 | 110 | 
 | 2022-12-12 | 447 | 110 | 
 | 2022-12-10 | 447 | 110 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 439 | 109 | 
 | 2022-11-16 | 439 | 109 | 
 | 2022-11-15 | 439 | 108 | 
-| 2022-11-14 | 439 | 108 | 
 

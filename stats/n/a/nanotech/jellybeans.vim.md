@@ -1,6 +1,6 @@
 # nanotech/jellybeans.vim - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 321
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 1672 | 321 | 
 | 2022-12-13 | 1672 | 321 | 
 | 2022-12-11 | 1672 | 321 | 
 | 2022-12-10 | 1672 | 321 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 1666 | 322 | 
 | 2022-11-17 | 1666 | 322 | 
 | 2022-11-15 | 1666 | 321 | 
-| 2022-11-14 | 1666 | 321 | 
 

@@ -1,8 +1,8 @@
 # codebasics/deep-learning-keras-tf-tutorial - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
-☋ Forks: 1432
+☋ Forks: 1435
 
 ★ Stars: 524
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 524 | 1435 | 
 | 2022-12-13 | 524 | 1432 | 
 | 2022-12-11 | 525 | 1430 | 
 | 2022-12-10 | 525 | 1429 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 512 | 1386 | 
 | 2022-11-16 | 509 | 1386 | 
 | 2022-11-15 | 508 | 1384 | 
-| 2022-11-14 | 508 | 1380 | 
 

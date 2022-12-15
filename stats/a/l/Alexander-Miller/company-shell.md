@@ -1,6 +1,6 @@
 # Alexander-Miller/company-shell - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 89 | 6 | 
 | 2022-12-13 | 89 | 6 | 
 | 2022-12-12 | 89 | 6 | 
 | 2022-12-10 | 89 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 89 | 6 | 
 | 2022-11-16 | 89 | 6 | 
 | 2022-11-15 | 89 | 6 | 
-| 2022-11-14 | 89 | 6 | 
 

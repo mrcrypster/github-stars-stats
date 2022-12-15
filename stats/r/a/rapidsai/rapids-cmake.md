@@ -1,6 +1,6 @@
 # rapidsai/rapids-cmake - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 12 | 16 | 
 | 2022-12-13 | 12 | 16 | 
 | 2022-12-12 | 12 | 16 | 
 | 2022-12-10 | 12 | 16 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 11 | 16 | 
 | 2022-11-17 | 11 | 16 | 
 | 2022-11-15 | 11 | 16 | 
-| 2022-11-14 | 11 | 16 | 
 

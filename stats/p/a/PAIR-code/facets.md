@@ -1,6 +1,6 @@
 # PAIR-code/facets - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 900
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 7046 | 900 | 
 | 2022-12-13 | 7046 | 900 | 
 | 2022-12-11 | 7045 | 900 | 
 | 2022-12-10 | 7045 | 900 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 7028 | 898 | 
 | 2022-11-16 | 7029 | 898 | 
 | 2022-11-15 | 7028 | 898 | 
-| 2022-11-14 | 7027 | 898 | 
 

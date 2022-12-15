@@ -1,10 +1,10 @@
 # nilaoda/N_m3u8DL-RE - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
-☋ Forks: 74
+☋ Forks: 75
 
-★ Stars: 630
+★ Stars: 638
 
 [Open repository](https://github.com/nilaoda/N_m3u8DL-RE)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 638 | 75 | 
 | 2022-12-12 | 630 | 74 | 
 | 2022-12-11 | 618 | 70 | 
 | 2022-12-09 | 614 | 70 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 492 | 51 | 
 | 2022-11-16 | 488 | 50 | 
 | 2022-11-15 | 482 | 50 | 
-| 2022-11-14 | 477 | 50 | 
 

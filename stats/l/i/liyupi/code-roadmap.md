@@ -1,10 +1,10 @@
 # liyupi/code-roadmap - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 713
 
-★ Stars: 2859
+★ Stars: 2862
 
 [Open repository](https://github.com/liyupi/code-roadmap)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 2862 | 713 | 
 | 2022-12-13 | 2859 | 713 | 
 | 2022-12-12 | 2859 | 712 | 
 | 2022-12-10 | 2858 | 710 | 

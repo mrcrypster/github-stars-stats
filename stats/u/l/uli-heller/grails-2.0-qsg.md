@@ -1,6 +1,6 @@
 # uli-heller/grails-2.0-qsg - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 4 | - | 
 | 2022-12-13 | 4 | - | 
 | 2022-12-11 | 4 | - | 
 | 2022-12-10 | 4 | - | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 4 | - | 
 | 2022-11-16 | 4 | - | 
 | 2022-11-15 | 4 | - | 
-| 2022-11-14 | 4 | - | 
 

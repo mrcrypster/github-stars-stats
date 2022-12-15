@@ -1,10 +1,10 @@
 # tikv/tikv - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
-☋ Forks: 1882
+☋ Forks: 1883
 
-★ Stars: 12320
+★ Stars: 12325
 
 [Open repository](https://github.com/tikv/tikv)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 12325 | 1883 | 
 | 2022-12-13 | 12320 | 1882 | 
 | 2022-12-11 | 12318 | 1882 | 
 | 2022-12-10 | 12316 | 1882 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 12216 | 1870 | 
 | 2022-11-16 | 12209 | 1868 | 
 | 2022-11-15 | 12207 | 1868 | 
-| 2022-11-14 | 12202 | 1868 | 
 

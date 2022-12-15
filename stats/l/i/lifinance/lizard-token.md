@@ -1,6 +1,6 @@
 # lifinance/lizard-token - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 32 | 5 | 
 | 2022-12-12 | 32 | 5 | 
 | 2022-12-11 | 32 | 5 | 
 | 2022-12-10 | 32 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 30 | 5 | 
 | 2022-11-16 | 30 | 5 | 
 | 2022-11-15 | 30 | 5 | 
-| 2022-11-14 | 30 | 5 | 
 

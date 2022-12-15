@@ -1,10 +1,10 @@
 # sheepla/pingu - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 58
 
-★ Stars: 1915
+★ Stars: 1914
 
 [Open repository](https://github.com/sheepla/pingu)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 1914 | 58 | 
 | 2022-12-13 | 1915 | 58 | 
 | 2022-12-11 | 1916 | 58 | 
 | 2022-12-10 | 1916 | 58 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 1913 | 57 | 
 | 2022-11-16 | 1912 | 57 | 
 | 2022-11-15 | 1912 | 57 | 
-| 2022-11-14 | 1911 | 57 | 
 

@@ -1,6 +1,6 @@
 # jfversluis/learn-dotnet-maui - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 267 | 16 | 
 | 2022-12-13 | 267 | 16 | 
 | 2022-12-11 | 265 | 16 | 
 | 2022-12-10 | 264 | 16 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 256 | 16 | 
 | 2022-11-16 | 255 | 16 | 
 | 2022-11-15 | 254 | 14 | 
-| 2022-11-14 | 251 | 14 | 
 

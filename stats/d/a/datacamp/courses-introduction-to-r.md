@@ -1,6 +1,6 @@
 # datacamp/courses-introduction-to-r - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 143
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 125 | 143 | 
 | 2022-12-12 | 125 | 143 | 
 | 2022-12-11 | 125 | 143 | 
 | 2022-12-10 | 125 | 143 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 125 | 143 | 
 | 2022-11-16 | 125 | 143 | 
 | 2022-11-15 | 125 | 143 | 
-| 2022-11-14 | 125 | 143 | 
 

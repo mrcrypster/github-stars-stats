@@ -1,6 +1,6 @@
 # 3150601355/code_in_paojie - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 82
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 137 | 82 | 
 | 2022-12-13 | 137 | 82 | 
 | 2022-12-11 | 137 | 82 | 
 | 2022-12-10 | 137 | 82 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 137 | 83 | 
 | 2022-11-16 | 137 | 83 | 
 | 2022-11-15 | 137 | 83 | 
-| 2022-11-14 | 137 | 83 | 
 

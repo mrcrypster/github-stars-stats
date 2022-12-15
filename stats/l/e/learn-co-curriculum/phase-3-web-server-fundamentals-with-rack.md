@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-3-web-server-fundamentals-with-rack - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
-☋ Forks: 1586
+☋ Forks: 1589
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | - | 1589 | 
 | 2022-12-13 | - | 1586 | 
 | 2022-12-12 | - | 1585 | 
 | 2022-12-11 | - | 1584 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | - | 1531 | 
 | 2022-11-16 | - | 1528 | 
 | 2022-11-15 | - | 1520 | 
-| 2022-11-14 | - | 1510 | 
 

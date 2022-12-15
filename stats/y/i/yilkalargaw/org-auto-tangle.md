@@ -1,6 +1,6 @@
 # yilkalargaw/org-auto-tangle - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 83 | 11 | 
 | 2022-12-13 | 83 | 11 | 
 | 2022-12-11 | 83 | 11 | 
 | 2022-12-10 | 82 | 11 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 80 | 11 | 
 | 2022-11-16 | 80 | 11 | 
 | 2022-11-15 | 80 | 11 | 
-| 2022-11-14 | 80 | 11 | 
 

@@ -1,10 +1,10 @@
 # h33tlit/secret-regex-list - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 50
 
-★ Stars: 493
+★ Stars: 494
 
 [Open repository](https://github.com/h33tlit/secret-regex-list)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 494 | 50 | 
 | 2022-12-12 | 493 | 50 | 
 | 2022-12-11 | 492 | 50 | 
 | 2022-12-10 | 492 | 50 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 484 | 50 | 
 | 2022-11-16 | 484 | 50 | 
 | 2022-11-15 | 484 | 50 | 
-| 2022-11-14 | 482 | 50 | 
 

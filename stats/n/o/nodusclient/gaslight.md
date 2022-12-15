@@ -1,10 +1,10 @@
 # nodusclient/gaslight - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 7
 
-★ Stars: 441
+★ Stars: 439
 
 [Open repository](https://github.com/nodusclient/gaslight)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 439 | 7 | 
 | 2022-12-12 | 441 | 7 | 
 | 2022-12-11 | 441 | 7 | 
 | 2022-12-10 | 441 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 443 | 7 | 
 | 2022-11-16 | 443 | 7 | 
 | 2022-11-15 | 443 | 7 | 
-| 2022-11-14 | 443 | 7 | 
 

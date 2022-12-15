@@ -1,10 +1,10 @@
 # chaldea-center/chaldea - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 20
 
-★ Stars: 135
+★ Stars: 136
 
 [Open repository](https://github.com/chaldea-center/chaldea)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 136 | 20 | 
 | 2022-12-13 | 135 | 20 | 
 | 2022-12-12 | 135 | 20 | 
 | 2022-12-11 | 135 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 131 | 19 | 
 | 2022-11-16 | 131 | 19 | 
 | 2022-11-15 | 131 | 19 | 
-| 2022-11-14 | 131 | 19 | 
 

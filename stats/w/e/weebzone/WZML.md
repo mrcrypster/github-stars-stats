@@ -1,10 +1,10 @@
 # weebzone/WZML - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
-☋ Forks: 780
+☋ Forks: 782
 
-★ Stars: 163
+★ Stars: 162
 
 [Open repository](https://github.com/weebzone/WZML)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 162 | 782 | 
 | 2022-12-12 | 163 | 780 | 
 | 2022-12-11 | 164 | 776 | 
 | 2022-12-10 | 163 | 771 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-18 | 109 | 609 | 
 | 2022-11-17 | 108 | 606 | 
 | 2022-11-16 | 106 | 601 | 
-| 2022-11-15 | 102 | 598 | 
 

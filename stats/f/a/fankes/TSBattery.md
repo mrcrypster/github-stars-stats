@@ -1,6 +1,6 @@
 # fankes/TSBattery - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 362 | 12 | 
 | 2022-12-12 | 362 | 12 | 
 | 2022-12-11 | 360 | 12 | 
 | 2022-12-10 | 360 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 338 | 11 | 
 | 2022-11-16 | 337 | 11 | 
 | 2022-11-15 | 336 | 11 | 
-| 2022-11-14 | 335 | 11 | 
 

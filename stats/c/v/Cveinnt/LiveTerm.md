@@ -1,10 +1,10 @@
 # Cveinnt/LiveTerm - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
-☋ Forks: 279
+☋ Forks: 278
 
-★ Stars: 3650
+★ Stars: 3654
 
 [Open repository](https://github.com/Cveinnt/LiveTerm)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 3654 | 278 | 
 | 2022-12-13 | 3650 | 279 | 
 | 2022-12-12 | 3647 | 277 | 
 | 2022-12-11 | 3645 | 276 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 3607 | 274 | 
 | 2022-11-17 | 3603 | 272 | 
 | 2022-11-16 | 3600 | 271 | 
-| 2022-11-15 | 3600 | 271 | 
 

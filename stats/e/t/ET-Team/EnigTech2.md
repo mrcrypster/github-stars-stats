@@ -1,6 +1,6 @@
 # ET-Team/EnigTech2 - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 143 | 36 | 
 | 2022-12-13 | 143 | 36 | 
 | 2022-12-11 | 142 | 36 | 
 | 2022-12-10 | 142 | 36 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 141 | 36 | 
 | 2022-11-17 | 141 | 36 | 
 | 2022-11-15 | 141 | 36 | 
-| 2022-11-14 | 140 | 36 | 
 

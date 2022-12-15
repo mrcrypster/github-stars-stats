@@ -1,10 +1,10 @@
 # spatie/laravel-dynamic-servers - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 9
 
-★ Stars: 187
+★ Stars: 188
 
 [Open repository](https://github.com/spatie/laravel-dynamic-servers)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 188 | 9 | 
 | 2022-12-13 | 187 | 9 | 
 | 2022-12-11 | 187 | 9 | 
 | 2022-12-10 | 187 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 186 | 9 | 
 | 2022-11-16 | 186 | 9 | 
 | 2022-11-15 | 186 | 9 | 
-| 2022-11-14 | 186 | 9 | 
 

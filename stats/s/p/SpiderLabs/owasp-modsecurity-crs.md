@@ -1,10 +1,10 @@
 # SpiderLabs/owasp-modsecurity-crs - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 736
 
-★ Stars: 2374
+★ Stars: 2375
 
 [Open repository](https://github.com/SpiderLabs/owasp-modsecurity-crs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 2375 | 736 | 
 | 2022-12-13 | 2374 | 736 | 
 | 2022-12-12 | 2374 | 736 | 
 | 2022-12-11 | 2374 | 736 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 2374 | 735 | 
 | 2022-11-16 | 2374 | 735 | 
 | 2022-11-15 | 2375 | 735 | 
-| 2022-11-14 | 2375 | 736 | 
 

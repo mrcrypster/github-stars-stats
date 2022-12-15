@@ -1,6 +1,6 @@
 # pentagonxyz/huffmate - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 212 | 22 | 
 | 2022-12-12 | 212 | 22 | 
 | 2022-12-11 | 211 | 22 | 
 | 2022-12-10 | 211 | 22 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 205 | 18 | 
 | 2022-11-16 | 205 | 18 | 
 | 2022-11-15 | 204 | 18 | 
-| 2022-11-14 | 204 | 18 | 
 

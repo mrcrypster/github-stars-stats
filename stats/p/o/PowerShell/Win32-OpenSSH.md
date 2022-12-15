@@ -1,10 +1,10 @@
 # PowerShell/Win32-OpenSSH - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 707
 
-★ Stars: 6380
+★ Stars: 6378
 
 [Open repository](https://github.com/PowerShell/Win32-OpenSSH)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 6378 | 707 | 
 | 2022-12-13 | 6380 | 707 | 
 | 2022-12-12 | 6379 | 705 | 
 | 2022-12-11 | 6377 | 705 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 6339 | 700 | 
 | 2022-11-16 | 6337 | 700 | 
 | 2022-11-15 | 6333 | 699 | 
-| 2022-11-14 | 6331 | 699 | 
 

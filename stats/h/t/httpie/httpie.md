@@ -1,10 +1,10 @@
 # httpie/httpie - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 3715
 
-★ Stars: 25184
+★ Stars: 25204
 
 [Open repository](https://github.com/httpie/httpie)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 25204 | 3715 | 
 | 2022-12-13 | 25184 | 3715 | 
 | 2022-12-12 | 25164 | 3714 | 
 | 2022-12-11 | 25156 | 3715 | 

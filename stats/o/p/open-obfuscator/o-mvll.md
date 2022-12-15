@@ -1,6 +1,6 @@
 # open-obfuscator/o-mvll - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 261 | 24 | 
 | 2022-12-13 | 261 | 24 | 
 | 2022-12-11 | 260 | 24 | 
 | 2022-12-10 | 260 | 24 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 219 | 17 | 
 | 2022-11-16 | 215 | 17 | 
 | 2022-11-15 | 203 | 16 | 
-| 2022-11-14 | 197 | 16 | 
 

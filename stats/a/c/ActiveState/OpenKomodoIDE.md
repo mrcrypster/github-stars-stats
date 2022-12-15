@@ -1,10 +1,10 @@
 # ActiveState/OpenKomodoIDE - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
-☋ Forks: 13
+☋ Forks: 23
 
-★ Stars: 109
+★ Stars: 200
 
 [Open repository](https://github.com/ActiveState/OpenKomodoIDE)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 200 | 23 | 
 | 2022-12-13 | 109 | 13 | 
 | 2022-12-12 | 37 | 7 | 
 | 2022-12-11 | 33 | 7 | 

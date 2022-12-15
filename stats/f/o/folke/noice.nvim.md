@@ -1,10 +1,10 @@
 # folke/noice.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 26
 
-★ Stars: 1607
+★ Stars: 1614
 
 [Open repository](https://github.com/folke/noice.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 1614 | 26 | 
 | 2022-12-13 | 1607 | 26 | 
 | 2022-12-12 | 1605 | 26 | 
 | 2022-12-11 | 1606 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 1531 | 22 | 
 | 2022-11-16 | 1526 | 22 | 
 | 2022-11-15 | 1521 | 22 | 
-| 2022-11-14 | 1514 | 22 | 
 

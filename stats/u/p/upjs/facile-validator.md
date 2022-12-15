@@ -1,10 +1,10 @@
 # upjs/facile-validator - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 11
 
-★ Stars: 313
+★ Stars: 312
 
 [Open repository](https://github.com/upjs/facile-validator)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 312 | 11 | 
 | 2022-12-13 | 313 | 11 | 
 | 2022-12-12 | 313 | 11 | 
 | 2022-12-10 | 313 | 11 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 310 | 11 | 
 | 2022-11-16 | 310 | 11 | 
 | 2022-11-15 | 310 | 11 | 
-| 2022-11-14 | 310 | 11 | 
 

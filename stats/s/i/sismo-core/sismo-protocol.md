@@ -1,10 +1,10 @@
 # sismo-core/sismo-protocol - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
-☋ Forks: 66
+☋ Forks: 90
 
-★ Stars: 2757
+★ Stars: 2813
 
 [Open repository](https://github.com/sismo-core/sismo-protocol)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 2813 | 90 | 
 | 2022-12-13 | 2757 | 66 | 
 | 2022-12-12 | 2673 | 59 | 
 | 2022-12-10 | 2644 | 59 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 2194 | 48 | 
 | 2022-11-16 | 2191 | 48 | 
 | 2022-11-15 | 2187 | 48 | 
-| 2022-11-14 | 2182 | 48 | 
 

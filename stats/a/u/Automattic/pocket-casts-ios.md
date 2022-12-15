@@ -1,10 +1,10 @@
 # Automattic/pocket-casts-ios - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
-☋ Forks: 85
+☋ Forks: 86
 
-★ Stars: 1356
+★ Stars: 1360
 
 [Open repository](https://github.com/Automattic/pocket-casts-ios)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 1360 | 86 | 
 | 2022-12-13 | 1356 | 85 | 
 | 2022-12-12 | 1354 | 85 | 
 | 2022-12-11 | 1354 | 85 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 1319 | 86 | 
 | 2022-11-16 | 1318 | 85 | 
 | 2022-11-15 | 1312 | 84 | 
-| 2022-11-14 | 1309 | 83 | 
 

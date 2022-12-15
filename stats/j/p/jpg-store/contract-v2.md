@@ -1,8 +1,8 @@
 # jpg-store/contract-v2 - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
-☋ Forks: 11
+☋ Forks: 12
 
 ★ Stars: 36
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 36 | 12 | 
 | 2022-12-13 | 36 | 11 | 
 | 2022-12-12 | 36 | 11 | 
 | 2022-12-10 | 36 | 11 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 34 | 11 | 
 | 2022-11-16 | 34 | 11 | 
 | 2022-11-15 | 34 | 11 | 
-| 2022-11-14 | 34 | 11 | 
 

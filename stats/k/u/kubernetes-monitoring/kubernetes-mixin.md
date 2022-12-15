@@ -1,10 +1,10 @@
 # kubernetes-monitoring/kubernetes-mixin - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
-☋ Forks: 511
+☋ Forks: 512
 
-★ Stars: 1678
+★ Stars: 1680
 
 [Open repository](https://github.com/kubernetes-monitoring/kubernetes-mixin)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 1680 | 512 | 
+| 2022-12-14 | 1680 | 512 | 
 | 2022-12-13 | 1678 | 511 | 
 | 2022-12-12 | 1678 | 510 | 
 | 2022-12-11 | 1678 | 510 | 
@@ -41,5 +43,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 1650 | 502 | 
 | 2022-11-16 | 1649 | 501 | 
 | 2022-11-15 | 1648 | 501 | 
-| 2022-11-14 | 1648 | 499 | 
 

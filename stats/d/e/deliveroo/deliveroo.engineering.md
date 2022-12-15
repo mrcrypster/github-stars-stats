@@ -1,6 +1,6 @@
 # deliveroo/deliveroo.engineering - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 50 | 18 | 
 | 2022-12-12 | 50 | 18 | 
 | 2022-12-11 | 50 | 18 | 
 | 2022-12-10 | 50 | 18 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-18 | 49 | 18 | 
 | 2022-11-17 | 49 | 18 | 
 | 2022-11-15 | 49 | 18 | 
-| 2022-11-14 | 49 | 18 | 
 

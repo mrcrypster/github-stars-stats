@@ -1,10 +1,10 @@
 # gimseng/99-ML-Learning-Projects - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 150
 
-★ Stars: 414
+★ Stars: 415
 
 [Open repository](https://github.com/gimseng/99-ML-Learning-Projects)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 415 | 150 | 
 | 2022-12-13 | 414 | 150 | 
 | 2022-12-12 | 415 | 150 | 
 | 2022-12-10 | 415 | 149 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 411 | 150 | 
 | 2022-11-17 | 411 | 150 | 
 | 2022-11-16 | 411 | 150 | 
-| 2022-11-14 | 411 | 150 | 
 

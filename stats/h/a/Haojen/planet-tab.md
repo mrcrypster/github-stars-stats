@@ -1,10 +1,10 @@
 # Haojen/planet-tab - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 4
 
-★ Stars: 77
+★ Stars: 78
 
 [Open repository](https://github.com/Haojen/planet-tab)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 78 | 4 | 
 | 2022-12-13 | 77 | 4 | 
 | 2022-12-12 | 77 | 4 | 
 | 2022-12-11 | 75 | 4 | 

@@ -1,10 +1,10 @@
 # mainframed/DC30_Workshop - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 11
 
-★ Stars: 74
+★ Stars: 75
 
 [Open repository](https://github.com/mainframed/DC30_Workshop)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 75 | 11 | 
 | 2022-12-13 | 74 | 11 | 
 | 2022-12-11 | 74 | 11 | 
 | 2022-12-10 | 74 | 11 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 74 | 11 | 
 | 2022-11-16 | 74 | 11 | 
 | 2022-11-15 | 74 | 11 | 
-| 2022-11-14 | 74 | 11 | 
 

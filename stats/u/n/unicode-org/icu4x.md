@@ -1,10 +1,10 @@
 # unicode-org/icu4x - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
-☋ Forks: 95
+☋ Forks: 96
 
-★ Stars: 868
+★ Stars: 873
 
 [Open repository](https://github.com/unicode-org/icu4x)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 873 | 96 | 
 | 2022-12-13 | 868 | 95 | 
 | 2022-12-12 | 849 | 95 | 
 | 2022-12-11 | 848 | 95 | 

@@ -1,10 +1,10 @@
 # Koenkk/Z-Stack-firmware - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 590
 
-★ Stars: 1630
+★ Stars: 1633
 
 [Open repository](https://github.com/Koenkk/Z-Stack-firmware)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 1633 | 590 | 
 | 2022-12-13 | 1630 | 590 | 
 | 2022-12-12 | 1630 | 590 | 
 | 2022-12-10 | 1627 | 590 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 1587 | 586 | 
 | 2022-11-16 | 1586 | 586 | 
 | 2022-11-15 | 1585 | 586 | 
-| 2022-11-14 | 1583 | 585 | 
 

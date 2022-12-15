@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 14
 
 ☋ Forks: 120
 
-★ Stars: 1021
+★ Stars: 1022
 
 [Open repository](https://github.com/ucsd-progsys/liquidhaskell)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-14 | 1021 | 120 | 
+| 2022-12-14 | 1022 | 120 | 
 | 2022-12-13 | 1021 | 120 | 
 | 2022-12-12 | 1020 | 120 | 
 | 2022-12-11 | 1020 | 120 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 1010 | 118 | 
 | 2022-11-17 | 1010 | 118 | 
 | 2022-11-16 | 1007 | 118 | 
-| 2022-11-15 | 1007 | 118 | 
 

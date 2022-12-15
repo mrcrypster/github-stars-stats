@@ -1,10 +1,10 @@
 # deeplyinc/Parent-Child-Vocal-Interaction-Dataset - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 0
 
-★ Stars: 11
+★ Stars: 10
 
 [Open repository](https://github.com/deeplyinc/Parent-Child-Vocal-Interaction-Dataset)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 10 | - | 
 | 2022-12-13 | 11 | - | 
 | 2022-12-12 | 11 | - | 
 | 2022-12-11 | 11 | - | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 10 | - | 
 | 2022-11-16 | 10 | - | 
 | 2022-11-15 | 10 | - | 
-| 2022-11-14 | 10 | - | 
 

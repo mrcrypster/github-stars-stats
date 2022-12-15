@@ -1,6 +1,6 @@
 # guilhermecomum/emacs.d - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 16 | 1 | 
 | 2022-12-12 | 16 | 1 | 
 | 2022-12-11 | 16 | 1 | 
 | 2022-12-10 | 16 | 1 | 

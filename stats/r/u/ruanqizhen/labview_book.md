@@ -1,8 +1,8 @@
 # ruanqizhen/labview_book - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
-☋ Forks: 91
+☋ Forks: 92
 
 ★ Stars: 127
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 127 | 92 | 
 | 2022-12-12 | 127 | 91 | 
 | 2022-12-11 | 126 | 91 | 
 | 2022-12-10 | 126 | 91 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 117 | 89 | 
 | 2022-11-16 | 117 | 89 | 
 | 2022-11-15 | 115 | 89 | 
-| 2022-11-14 | 115 | 88 | 
 

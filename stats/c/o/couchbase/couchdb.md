@@ -1,10 +1,10 @@
 # couchbase/couchdb - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 56
 
-★ Stars: 127
+★ Stars: 126
 
 [Open repository](https://github.com/couchbase/couchdb)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 126 | 56 | 
+| 2022-12-14 | 127 | 56 | 
 | 2022-12-13 | 127 | 56 | 
 | 2022-12-12 | 127 | 56 | 
 | 2022-12-11 | 126 | 56 | 
@@ -41,5 +43,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 125 | 55 | 
 | 2022-11-16 | 125 | 55 | 
 | 2022-11-15 | 125 | 55 | 
-| 2022-11-14 | 125 | 55 | 
 

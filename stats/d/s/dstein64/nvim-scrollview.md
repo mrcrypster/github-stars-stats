@@ -1,10 +1,10 @@
 # dstein64/nvim-scrollview - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 7
 
-★ Stars: 335
+★ Stars: 334
 
 [Open repository](https://github.com/dstein64/nvim-scrollview)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 334 | 7 | 
 | 2022-12-13 | 335 | 7 | 
 | 2022-12-12 | 335 | 7 | 
 | 2022-12-11 | 335 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 333 | 7 | 
 | 2022-11-16 | 333 | 7 | 
 | 2022-11-15 | 333 | 7 | 
-| 2022-11-14 | 333 | 7 | 
 

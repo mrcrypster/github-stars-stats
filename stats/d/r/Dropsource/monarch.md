@@ -1,10 +1,10 @@
 # Dropsource/monarch - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 10
 
-★ Stars: 326
+★ Stars: 327
 
 [Open repository](https://github.com/Dropsource/monarch)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 327 | 10 | 
 | 2022-12-13 | 326 | 10 | 
 | 2022-12-11 | 325 | 10 | 
 | 2022-12-10 | 324 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 302 | 8 | 
 | 2022-11-16 | 268 | 8 | 
 | 2022-11-15 | 268 | 8 | 
-| 2022-11-14 | 267 | 8 | 
 

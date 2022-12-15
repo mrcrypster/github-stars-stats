@@ -1,10 +1,10 @@
 # seatonjiang/kratos - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 581
 
-★ Stars: 2595
+★ Stars: 2605
 
 [Open repository](https://github.com/seatonjiang/kratos)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 2605 | 581 | 
 | 2022-12-13 | 2595 | 581 | 
 | 2022-12-12 | 2594 | 582 | 
 | 2022-12-10 | 2594 | 582 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 2569 | 576 | 
 | 2022-11-16 | 2566 | 576 | 
 | 2022-11-15 | 2566 | 576 | 
-| 2022-11-14 | 2565 | 577 | 
 

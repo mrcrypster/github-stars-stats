@@ -1,6 +1,6 @@
 # NodesBlocks/testnet-examples - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 66 | 23 | 
 | 2022-12-13 | 66 | 23 | 
 | 2022-12-11 | 66 | 23 | 
 | 2022-12-10 | 66 | 23 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 68 | 23 | 
 | 2022-11-16 | 68 | 23 | 
 | 2022-11-15 | 68 | 23 | 
-| 2022-11-14 | 68 | 23 | 
 

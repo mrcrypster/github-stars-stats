@@ -1,10 +1,10 @@
 # paolo-rossi/delphi-jose-jwt - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 145
 
-★ Stars: 367
+★ Stars: 368
 
 [Open repository](https://github.com/paolo-rossi/delphi-jose-jwt)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 368 | 145 | 
 | 2022-12-12 | 367 | 145 | 
 | 2022-12-11 | 367 | 145 | 
 | 2022-12-10 | 367 | 145 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 362 | 144 | 
 | 2022-11-16 | 362 | 143 | 
 | 2022-11-15 | 362 | 143 | 
-| 2022-11-14 | 362 | 143 | 
 

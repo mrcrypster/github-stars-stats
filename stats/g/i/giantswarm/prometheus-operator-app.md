@@ -1,6 +1,6 @@
 # giantswarm/prometheus-operator-app - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 17 | 6 | 
 | 2022-12-12 | 17 | 6 | 
 | 2022-12-11 | 17 | 6 | 
 | 2022-12-10 | 17 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 15 | 6 | 
 | 2022-11-16 | 15 | 6 | 
 | 2022-11-15 | 15 | 6 | 
-| 2022-11-14 | 15 | 6 | 
 

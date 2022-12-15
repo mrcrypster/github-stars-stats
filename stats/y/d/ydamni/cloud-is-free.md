@@ -1,6 +1,6 @@
 # ydamni/cloud-is-free - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 192 | 27 | 
 | 2022-12-13 | 192 | 27 | 
 | 2022-12-12 | 192 | 27 | 
 | 2022-12-10 | 192 | 27 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 191 | 26 | 
 | 2022-11-16 | 190 | 26 | 
 | 2022-11-15 | 190 | 26 | 
-| 2022-11-14 | 190 | 26 | 
 

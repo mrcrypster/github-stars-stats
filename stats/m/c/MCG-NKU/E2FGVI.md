@@ -1,6 +1,6 @@
 # MCG-NKU/E2FGVI - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 522 | 50 | 
 | 2022-12-12 | 522 | 50 | 
 | 2022-12-11 | 522 | 50 | 
 | 2022-12-10 | 521 | 50 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 500 | 46 | 
 | 2022-11-16 | 499 | 46 | 
 | 2022-11-15 | 499 | 46 | 
-| 2022-11-14 | 497 | 46 | 
 

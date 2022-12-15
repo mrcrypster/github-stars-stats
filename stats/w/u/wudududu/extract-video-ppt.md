@@ -1,10 +1,10 @@
 # wudududu/extract-video-ppt - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 26
 
-★ Stars: 262
+★ Stars: 263
 
 [Open repository](https://github.com/wudududu/extract-video-ppt)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 263 | 26 | 
 | 2022-12-13 | 262 | 26 | 
 | 2022-12-12 | 262 | 26 | 
 | 2022-12-10 | 261 | 26 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 260 | 26 | 
 | 2022-11-16 | 260 | 26 | 
 | 2022-11-15 | 260 | 26 | 
-| 2022-11-14 | 260 | 26 | 
 

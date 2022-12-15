@@ -1,10 +1,10 @@
 # Xabaril/AspNetCore.Diagnostics.HealthChecks - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
-☋ Forks: 633
+☋ Forks: 634
 
-★ Stars: 3140
+★ Stars: 3141
 
 [Open repository](https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 3141 | 634 | 
 | 2022-12-13 | 3140 | 633 | 
 | 2022-12-12 | 3137 | 633 | 
 | 2022-12-11 | 3134 | 633 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 3108 | 635 | 
 | 2022-11-17 | 3105 | 635 | 
 | 2022-11-16 | 3102 | 635 | 
-| 2022-11-15 | 3102 | 635 | 
 

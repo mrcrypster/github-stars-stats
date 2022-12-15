@@ -1,10 +1,10 @@
 # kubesphere/website - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 217
 
-★ Stars: 60
+★ Stars: 59
 
 [Open repository](https://github.com/kubesphere/website)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 59 | 217 | 
 | 2022-12-13 | 60 | 217 | 
 | 2022-12-12 | 60 | 217 | 
 | 2022-12-11 | 60 | 217 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 56 | 211 | 
 | 2022-11-16 | 56 | 210 | 
 | 2022-11-15 | 55 | 210 | 
-| 2022-11-14 | 55 | 209 | 
 

@@ -1,10 +1,10 @@
 # goldfire/howler.js - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
-☋ Forks: 2129
+☋ Forks: 2128
 
-★ Stars: 21037
+★ Stars: 21047
 
 [Open repository](https://github.com/goldfire/howler.js)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 21047 | 2128 | 
 | 2022-12-13 | 21037 | 2129 | 
 | 2022-12-12 | 21030 | 2128 | 
 | 2022-12-10 | 21024 | 2130 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 20926 | 2121 | 
 | 2022-11-16 | 20925 | 2120 | 
 | 2022-11-15 | 20923 | 2120 | 
-| 2022-11-14 | 20919 | 2120 | 
 

@@ -1,10 +1,10 @@
 # aaronwangy/Data-Science-Cheatsheet - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 563
 
-★ Stars: 3918
+★ Stars: 3919
 
 [Open repository](https://github.com/aaronwangy/Data-Science-Cheatsheet)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 3919 | 563 | 
 | 2022-12-13 | 3918 | 563 | 
 | 2022-12-11 | 3914 | 563 | 
 | 2022-12-10 | 3914 | 561 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 3867 | 555 | 
 | 2022-11-16 | 3865 | 555 | 
 | 2022-11-15 | 3865 | 555 | 
-| 2022-11-14 | 3861 | 555 | 
 

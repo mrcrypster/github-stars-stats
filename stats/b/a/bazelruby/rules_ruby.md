@@ -1,6 +1,6 @@
 # bazelruby/rules_ruby - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 86 | 28 | 
 | 2022-12-13 | 86 | 28 | 
 | 2022-12-12 | 86 | 28 | 
 | 2022-12-11 | 86 | 28 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 85 | 28 | 
 | 2022-11-16 | 85 | 28 | 
 | 2022-11-15 | 84 | 28 | 
-| 2022-11-14 | 84 | 28 | 
 

@@ -1,10 +1,10 @@
 # nndl/nndl.github.io - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
-☋ Forks: 3497
+☋ Forks: 3498
 
-★ Stars: 15997
+★ Stars: 15999
 
 [Open repository](https://github.com/nndl/nndl.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 15999 | 3498 | 
 | 2022-12-13 | 15997 | 3497 | 
 | 2022-12-11 | 15997 | 3498 | 
 | 2022-12-10 | 15994 | 3497 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 15963 | 3496 | 
 | 2022-11-16 | 15961 | 3496 | 
 | 2022-11-15 | 15958 | 3495 | 
-| 2022-11-14 | 15955 | 3494 | 
 

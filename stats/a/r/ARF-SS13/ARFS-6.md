@@ -1,6 +1,6 @@
 # ARF-SS13/ARFS-6 - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 3 | 15 | 
 | 2022-12-13 | 3 | 15 | 
 | 2022-12-12 | 3 | 15 | 
 | 2022-12-10 | 3 | 15 | 

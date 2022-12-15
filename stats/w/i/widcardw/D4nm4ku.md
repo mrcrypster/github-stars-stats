@@ -1,10 +1,10 @@
 # widcardw/D4nm4ku - stars & forks statistics
 
-Stats updated on Dec 2022, 12
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 5
 
-★ Stars: 213
+★ Stars: 214
 
 [Open repository](https://github.com/widcardw/D4nm4ku)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 214 | 5 | 
 | 2022-12-12 | 213 | 5 | 
 | 2022-12-11 | 212 | 5 | 
 | 2022-12-10 | 212 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 12
 | 2022-11-17 | 208 | 6 | 
 | 2022-11-16 | 208 | 6 | 
 | 2022-11-15 | 208 | 6 | 
-| 2022-11-14 | 208 | 5 | 
 

@@ -1,10 +1,10 @@
 # dumblob/mysql2sqlite - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
-☋ Forks: 232
+☋ Forks: 233
 
-★ Stars: 1508
+★ Stars: 1510
 
 [Open repository](https://github.com/dumblob/mysql2sqlite)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 1510 | 233 | 
 | 2022-12-13 | 1508 | 232 | 
 | 2022-12-12 | 1506 | 232 | 
 | 2022-12-10 | 1506 | 233 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 1500 | 232 | 
 | 2022-11-16 | 1499 | 232 | 
 | 2022-11-15 | 1496 | 232 | 
-| 2022-11-14 | 1496 | 232 | 
 

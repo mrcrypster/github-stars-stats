@@ -1,8 +1,8 @@
 # Napster2210/ngx-spinner - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
-☋ Forks: 127
+☋ Forks: 128
 
 ★ Stars: 723
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 723 | 128 | 
 | 2022-12-13 | 723 | 127 | 
 | 2022-12-12 | 723 | 127 | 
 | 2022-12-10 | 722 | 127 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 715 | 126 | 
 | 2022-11-16 | 715 | 126 | 
 | 2022-11-15 | 715 | 126 | 
-| 2022-11-14 | 715 | 126 | 
 

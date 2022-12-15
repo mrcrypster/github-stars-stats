@@ -1,6 +1,6 @@
 # ansiwave/nimwave - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 391 | 2 | 
 | 2022-12-13 | 391 | 2 | 
 | 2022-12-12 | 391 | 2 | 
 | 2022-12-11 | 391 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 390 | 2 | 
 | 2022-11-17 | 390 | 2 | 
 | 2022-11-16 | 390 | 2 | 
-| 2022-11-14 | 390 | 2 | 
 

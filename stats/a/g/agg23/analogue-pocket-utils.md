@@ -1,10 +1,10 @@
 # agg23/analogue-pocket-utils - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 14
 
 ☋ Forks: 4
 
-★ Stars: 33
+★ Stars: 34
 
 [Open repository](https://github.com/agg23/analogue-pocket-utils)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-14 | 34 | 4 | 
 | 2022-12-13 | 33 | 4 | 
 | 2022-12-12 | 33 | 4 | 
 | 2022-12-11 | 32 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-17 | 22 | 2 | 
 | 2022-11-16 | 22 | 2 | 
 | 2022-11-15 | 22 | 2 | 
-| 2022-11-14 | 21 | 2 | 
 
