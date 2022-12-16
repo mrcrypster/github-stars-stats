@@ -1,10 +1,10 @@
 # micronaut-projects/micronaut-groovy - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 7
 
-★ Stars: 16
+★ Stars: 15
 
 [Open repository](https://github.com/micronaut-projects/micronaut-groovy)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 15 | 7 | 
 | 2022-12-13 | 16 | 7 | 
 | 2022-12-12 | 16 | 7 | 
 | 2022-12-11 | 16 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 15 | 7 | 
 | 2022-11-17 | 15 | 7 | 
 | 2022-11-16 | 15 | 7 | 
-| 2022-11-15 | 15 | 7 | 
 

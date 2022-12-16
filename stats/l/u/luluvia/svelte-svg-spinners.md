@@ -1,10 +1,10 @@
 # luluvia/svelte-svg-spinners - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 1
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/luluvia/svelte-svg-spinners)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 37 | 1 | 
 | 2022-12-14 | 36 | 1 | 
 | 2022-12-13 | 36 | 1 | 
 | 2022-12-12 | 36 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 24 | 1 | 
 | 2022-11-17 | 23 | 1 | 
 | 2022-11-16 | 23 | 1 | 
-| 2022-11-15 | 22 | 1 | 
 

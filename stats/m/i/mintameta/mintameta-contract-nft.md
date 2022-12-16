@@ -1,6 +1,6 @@
 # mintameta/mintameta-contract-nft - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 67 | 10 | 
 | 2022-12-14 | 67 | 10 | 
 | 2022-12-13 | 67 | 10 | 
 | 2022-12-11 | 67 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 67 | 10 | 
 | 2022-11-17 | 67 | 10 | 
 | 2022-11-16 | 67 | 10 | 
-| 2022-11-15 | 67 | 10 | 
 

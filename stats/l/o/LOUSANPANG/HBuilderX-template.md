@@ -1,6 +1,6 @@
 # LOUSANPANG/HBuilderX-template - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 248 | 9 | 
 | 2022-12-15 | 248 | 9 | 
 | 2022-12-13 | 248 | 9 | 
 | 2022-12-12 | 248 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-18 | 249 | 9 | 
 | 2022-11-17 | 249 | 9 | 
 | 2022-11-16 | 249 | 9 | 
-| 2022-11-15 | 249 | 9 | 
 

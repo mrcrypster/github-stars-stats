@@ -1,6 +1,6 @@
 # zerostaticthemes/hugo-winston-theme - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 66
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 145 | 66 | 
 | 2022-12-14 | 145 | 66 | 
 | 2022-12-12 | 143 | 66 | 
 | 2022-12-11 | 142 | 66 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 138 | 65 | 
 | 2022-11-17 | 137 | 65 | 
 | 2022-11-16 | 137 | 65 | 
-| 2022-11-15 | 137 | 65 | 
 

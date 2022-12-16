@@ -1,10 +1,10 @@
 # qiskit-community/ibm-quantum-challenge-fall-22 - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 76
 
-★ Stars: 81
+★ Stars: 80
 
 [Open repository](https://github.com/qiskit-community/ibm-quantum-challenge-fall-22)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 80 | 76 | 
 | 2022-12-14 | 81 | 76 | 
 | 2022-12-13 | 81 | 76 | 
 | 2022-12-11 | 81 | 76 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 68 | 53 | 
 | 2022-11-17 | 65 | 49 | 
 | 2022-11-16 | 64 | 44 | 
-| 2022-11-15 | 61 | 43 | 
 

@@ -1,10 +1,10 @@
 # thowell/CALIPSO.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 8
 
-★ Stars: 38
+★ Stars: 39
 
 [Open repository](https://github.com/thowell/CALIPSO.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 39 | 8 | 
 | 2022-12-14 | 38 | 8 | 
 | 2022-12-12 | 38 | 8 | 
 | 2022-12-11 | 38 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 36 | 6 | 
 | 2022-11-17 | 36 | 6 | 
 | 2022-11-16 | 36 | 6 | 
-| 2022-11-15 | 36 | 6 | 
 

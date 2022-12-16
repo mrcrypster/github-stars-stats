@@ -1,10 +1,10 @@
 # QuestPDF/QuestPDF - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 16
 
-☋ Forks: 224
+☋ Forks: 226
 
-★ Stars: 4280
+★ Stars: 4322
 
 [Open repository](https://github.com/QuestPDF/QuestPDF)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 4322 | 226 | 
+| 2022-12-15 | 4319 | 226 | 
 | 2022-12-14 | 4280 | 224 | 
 | 2022-12-13 | 4273 | 224 | 
 | 2022-12-12 | 4258 | 224 | 
@@ -39,5 +41,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 4112 | 218 | 
 | 2022-11-17 | 4103 | 216 | 
 | 2022-11-16 | 4092 | 216 | 
-| 2022-11-15 | 4081 | 214 | 
 

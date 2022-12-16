@@ -1,6 +1,6 @@
 # c-smile/sciter-js-sdk - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 95
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 1644 | 95 | 
 | 2022-12-14 | 1644 | 95 | 
 | 2022-12-13 | 1644 | 95 | 
 | 2022-12-12 | 1644 | 94 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 1638 | 93 | 
 | 2022-11-17 | 1638 | 93 | 
 | 2022-11-16 | 1637 | 93 | 
-| 2022-11-15 | 1637 | 93 | 
 

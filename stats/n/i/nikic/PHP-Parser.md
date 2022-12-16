@@ -1,10 +1,10 @@
 # nikic/PHP-Parser - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 909
 
-★ Stars: 15829
+★ Stars: 15831
 
 [Open repository](https://github.com/nikic/PHP-Parser)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 15831 | 909 | 
 | 2022-12-14 | 15829 | 909 | 
 | 2022-12-13 | 15827 | 909 | 
 | 2022-12-12 | 15826 | 908 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 15775 | 903 | 
 | 2022-11-17 | 15779 | 903 | 
 | 2022-11-16 | 15777 | 902 | 
-| 2022-11-15 | 15774 | 902 | 
 

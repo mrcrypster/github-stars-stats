@@ -1,10 +1,10 @@
 # OPAE/ofs-platform-afu-bbb - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 3
 
-★ Stars: 10
+★ Stars: 9
 
 [Open repository](https://github.com/OPAE/ofs-platform-afu-bbb)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 9 | 3 | 
 | 2022-12-14 | 10 | 3 | 
 | 2022-12-12 | 10 | 3 | 
 | 2022-12-11 | 10 | 3 | 

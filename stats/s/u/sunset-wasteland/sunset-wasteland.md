@@ -1,10 +1,10 @@
 # sunset-wasteland/sunset-wasteland - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 84
 
-★ Stars: 14
+★ Stars: 13
 
 [Open repository](https://github.com/sunset-wasteland/sunset-wasteland)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 13 | 84 | 
 | 2022-12-13 | 14 | 84 | 
 | 2022-12-12 | 14 | 83 | 
 | 2022-12-11 | 14 | 83 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-19 | 9 | 81 | 
 | 2022-11-18 | 9 | 80 | 
 | 2022-11-17 | 9 | 80 | 
-| 2022-11-15 | 9 | 80 | 
 

@@ -1,10 +1,10 @@
 # farcasterxyz/hub - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 29
 
-★ Stars: 164
+★ Stars: 165
 
 [Open repository](https://github.com/farcasterxyz/hub)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 165 | 29 | 
 | 2022-12-14 | 164 | 29 | 
 | 2022-12-13 | 161 | 29 | 
 | 2022-12-12 | 160 | 28 | 

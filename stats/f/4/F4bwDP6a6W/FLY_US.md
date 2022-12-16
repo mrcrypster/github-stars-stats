@@ -1,6 +1,6 @@
 # F4bwDP6a6W/FLY_US - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 741
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 2564 | 741 | 
 | 2022-12-13 | 2564 | 741 | 
 | 2022-12-12 | 2564 | 741 | 
 | 2022-12-11 | 2561 | 741 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 2544 | 739 | 
 | 2022-11-17 | 2544 | 739 | 
 | 2022-11-16 | 2542 | 739 | 
-| 2022-11-15 | 2540 | 739 | 
 

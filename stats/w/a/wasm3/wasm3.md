@@ -1,10 +1,10 @@
 # wasm3/wasm3 - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 363
 
-★ Stars: 5586
+★ Stars: 5588
 
 [Open repository](https://github.com/wasm3/wasm3)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 5588 | 363 | 
 | 2022-12-13 | 5586 | 363 | 
 | 2022-12-12 | 5583 | 363 | 
 | 2022-12-11 | 5580 | 363 | 

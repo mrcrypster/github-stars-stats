@@ -1,10 +1,10 @@
 # MicrosoftDocs/msteams-docs - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 426
 
-★ Stars: 241
+★ Stars: 240
 
 [Open repository](https://github.com/MicrosoftDocs/msteams-docs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 240 | 426 | 
 | 2022-12-14 | 241 | 426 | 
 | 2022-12-13 | 242 | 426 | 
 | 2022-12-12 | 242 | 426 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 236 | 423 | 
 | 2022-11-17 | 236 | 423 | 
 | 2022-11-16 | 236 | 424 | 
-| 2022-11-15 | 236 | 424 | 
 

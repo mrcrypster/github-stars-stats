@@ -1,10 +1,10 @@
 # medplum/medplum - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 51
+☋ Forks: 52
 
-★ Stars: 520
+★ Stars: 519
 
 [Open repository](https://github.com/medplum/medplum)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 519 | 52 | 
 | 2022-12-14 | 520 | 51 | 
 | 2022-12-13 | 518 | 50 | 
 | 2022-12-11 | 517 | 50 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 494 | 45 | 
 | 2022-11-17 | 493 | 45 | 
 | 2022-11-16 | 491 | 44 | 
-| 2022-11-15 | 488 | 44 | 
 

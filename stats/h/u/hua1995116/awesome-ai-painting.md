@@ -1,10 +1,10 @@
 # hua1995116/awesome-ai-painting - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
-☋ Forks: 171
+☋ Forks: 172
 
-★ Stars: 2144
+★ Stars: 2158
 
 [Open repository](https://github.com/hua1995116/awesome-ai-painting)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 2158 | 172 | 
 | 2022-12-13 | 2144 | 171 | 
 | 2022-12-12 | 2136 | 169 | 
 | 2022-12-11 | 2116 | 167 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-19 | 1778 | 136 | 
 | 2022-11-18 | 1766 | 134 | 
 | 2022-11-17 | 1747 | 134 | 
-| 2022-11-16 | 1733 | 133 | 
 

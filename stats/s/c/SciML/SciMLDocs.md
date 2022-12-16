@@ -1,10 +1,10 @@
 # SciML/SciMLDocs - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 20
 
-★ Stars: 32
+★ Stars: 31
 
 [Open repository](https://github.com/SciML/SciMLDocs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 31 | 20 | 
 | 2022-12-14 | 32 | 20 | 
 | 2022-12-13 | 32 | 20 | 
 | 2022-12-12 | 32 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 29 | 15 | 
 | 2022-11-17 | 29 | 15 | 
 | 2022-11-16 | 28 | 16 | 
-| 2022-11-15 | 28 | 15 | 
 

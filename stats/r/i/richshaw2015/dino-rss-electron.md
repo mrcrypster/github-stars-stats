@@ -1,10 +1,10 @@
 # richshaw2015/dino-rss-electron - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 13
+☋ Forks: 12
 
-★ Stars: 204
+★ Stars: 205
 
 [Open repository](https://github.com/richshaw2015/dino-rss-electron)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 205 | 12 | 
 | 2022-12-14 | 204 | 13 | 
 | 2022-12-13 | 204 | 13 | 
 | 2022-12-11 | 203 | 13 | 

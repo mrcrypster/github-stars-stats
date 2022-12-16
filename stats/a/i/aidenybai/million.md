@@ -1,6 +1,6 @@
 # aidenybai/million - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 152
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 5439 | 152 | 
 | 2022-12-13 | 5439 | 152 | 
 | 2022-12-12 | 5438 | 152 | 
 | 2022-12-11 | 5436 | 151 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 5390 | 151 | 
 | 2022-11-17 | 5388 | 151 | 
 | 2022-11-16 | 5385 | 151 | 
-| 2022-11-15 | 5381 | 151 | 
 

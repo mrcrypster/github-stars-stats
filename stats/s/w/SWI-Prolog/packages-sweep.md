@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 15
 
 ☋ Forks: 1
 
-★ Stars: 7
+★ Stars: 6
 
 [Open repository](https://github.com/SWI-Prolog/packages-sweep)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-15 | 7 | 1 | 
+| 2022-12-15 | 6 | 1 | 
 | 2022-12-14 | 7 | 1 | 
 | 2022-12-13 | 7 | 1 | 
 | 2022-12-12 | 7 | 1 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-18 | 5 | - | 
 | 2022-11-17 | 4 | - | 
 | 2022-11-16 | 4 | - | 
-| 2022-11-15 | 4 | - | 
 

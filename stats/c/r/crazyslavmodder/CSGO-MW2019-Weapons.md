@@ -1,10 +1,10 @@
 # crazyslavmodder/CSGO-MW2019-Weapons - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 3
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/crazyslavmodder/CSGO-MW2019-Weapons)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 13 | 3 | 
 | 2022-12-14 | 12 | 3 | 
 | 2022-12-12 | 12 | 3 | 
 | 2022-12-11 | 12 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 8 | 1 | 
 | 2022-11-17 | 8 | 1 | 
 | 2022-11-16 | 8 | 1 | 
-| 2022-11-15 | 7 | 1 | 
 

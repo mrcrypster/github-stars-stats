@@ -1,10 +1,10 @@
 # paulrberg/prb-test - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 6
 
-★ Stars: 82
+★ Stars: 81
 
 [Open repository](https://github.com/paulrberg/prb-test)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 81 | 6 | 
 | 2022-12-14 | 82 | 6 | 
 | 2022-12-13 | 81 | 6 | 
 | 2022-12-12 | 79 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 77 | 6 | 
 | 2022-11-17 | 76 | 6 | 
 | 2022-11-16 | 76 | 6 | 
-| 2022-11-15 | 75 | 6 | 
 

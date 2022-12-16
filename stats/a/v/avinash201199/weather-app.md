@@ -1,10 +1,10 @@
 # avinash201199/weather-app - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 86
 
-★ Stars: 47
+★ Stars: 46
 
 [Open repository](https://github.com/avinash201199/weather-app)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 46 | 86 | 
 | 2022-12-13 | 47 | 86 | 
 | 2022-12-12 | 47 | 86 | 
 | 2022-12-11 | 47 | 86 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-19 | 45 | 86 | 
 | 2022-11-18 | 45 | 86 | 
 | 2022-11-17 | 45 | 88 | 
-| 2022-11-16 | 45 | 88 | 
 

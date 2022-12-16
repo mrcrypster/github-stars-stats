@@ -1,10 +1,10 @@
 # deliveroo/deliveroo.engineering - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 18
 
-★ Stars: 50
+★ Stars: 49
 
 [Open repository](https://github.com/deliveroo/deliveroo.engineering)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 49 | 18 | 
 | 2022-12-14 | 50 | 18 | 
 | 2022-12-12 | 50 | 18 | 
 | 2022-12-11 | 50 | 18 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-19 | 49 | 18 | 
 | 2022-11-18 | 49 | 18 | 
 | 2022-11-17 | 49 | 18 | 
-| 2022-11-15 | 49 | 18 | 
 

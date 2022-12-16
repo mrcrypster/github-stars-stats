@@ -1,10 +1,10 @@
 # puppetlabs/puppetlabs-peadm - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 38
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/puppetlabs/puppetlabs-peadm)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 29 | 38 | 
 | 2022-12-14 | 28 | 38 | 
 | 2022-12-12 | 28 | 38 | 
 | 2022-12-11 | 28 | 38 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 28 | 38 | 
 | 2022-11-17 | 28 | 38 | 
 | 2022-11-16 | 28 | 38 | 
-| 2022-11-15 | 28 | 38 | 
 

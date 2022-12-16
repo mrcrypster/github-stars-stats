@@ -1,10 +1,10 @@
 # rcarriga/nvim-notify - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 35
 
-★ Stars: 1743
+★ Stars: 1747
 
 [Open repository](https://github.com/rcarriga/nvim-notify)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 1747 | 35 | 
 | 2022-12-13 | 1743 | 35 | 
 | 2022-12-12 | 1743 | 34 | 
 | 2022-12-11 | 1743 | 34 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 1707 | 34 | 
 | 2022-11-17 | 1705 | 34 | 
 | 2022-11-16 | 1701 | 34 | 
-| 2022-11-15 | 1698 | 33 | 
 

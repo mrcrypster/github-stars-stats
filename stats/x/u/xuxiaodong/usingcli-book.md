@@ -1,10 +1,10 @@
 # xuxiaodong/usingcli-book - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 72
 
-★ Stars: 1141
+★ Stars: 1142
 
 [Open repository](https://github.com/xuxiaodong/usingcli-book)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 1142 | 72 | 
 | 2022-12-14 | 1141 | 72 | 
 | 2022-12-13 | 1139 | 72 | 
 | 2022-12-12 | 1139 | 72 | 

@@ -1,10 +1,10 @@
 # CausalInferenceLab/Causal-Inference-with-Python - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 17
+☋ Forks: 18
 
-★ Stars: 188
+★ Stars: 190
 
 [Open repository](https://github.com/CausalInferenceLab/Causal-Inference-with-Python)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 190 | 18 | 
 | 2022-12-14 | 188 | 17 | 
 | 2022-12-13 | 185 | 17 | 
 | 2022-12-12 | 180 | 16 | 

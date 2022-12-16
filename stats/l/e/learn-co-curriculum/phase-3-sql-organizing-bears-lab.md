@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-3-sql-organizing-bears-lab - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 1726
+☋ Forks: 1731
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | - | 1731 | 
 | 2022-12-14 | - | 1726 | 
 | 2022-12-13 | - | 1724 | 
 | 2022-12-12 | - | 1723 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | - | 1690 | 
 | 2022-11-17 | - | 1688 | 
 | 2022-11-16 | - | 1688 | 
-| 2022-11-15 | - | 1687 | 
 

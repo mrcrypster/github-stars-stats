@@ -1,10 +1,10 @@
 # aeternity/ae_mdw - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 9
 
-★ Stars: 23
+★ Stars: 22
 
 [Open repository](https://github.com/aeternity/ae_mdw)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 22 | 9 | 
 | 2022-12-14 | 23 | 9 | 
 | 2022-12-13 | 23 | 9 | 
 | 2022-12-12 | 23 | 9 | 

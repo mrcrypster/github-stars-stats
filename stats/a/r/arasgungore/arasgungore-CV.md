@@ -1,10 +1,10 @@
 # arasgungore/arasgungore-CV - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 38
 
-★ Stars: 90
+★ Stars: 92
 
 [Open repository](https://github.com/arasgungore/arasgungore-CV)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 92 | 38 | 
 | 2022-12-14 | 90 | 38 | 
 | 2022-12-13 | 89 | 37 | 
 | 2022-12-11 | 86 | 37 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 79 | 36 | 
 | 2022-11-17 | 78 | 36 | 
 | 2022-11-16 | 78 | 36 | 
-| 2022-11-15 | 78 | 35 | 
 

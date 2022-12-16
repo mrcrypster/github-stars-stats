@@ -1,6 +1,6 @@
 # lictpu/help - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 112
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | - | 112 | 
 | 2022-12-13 | - | 112 | 
 | 2022-12-12 | - | 112 | 
 | 2022-12-11 | - | 112 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | - | 110 | 
 | 2022-11-17 | - | 110 | 
 | 2022-11-16 | - | 110 | 
-| 2022-11-15 | - | 110 | 
 

@@ -1,10 +1,10 @@
 # bymork/TikTok-Follow-Heart-Views-Bot - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 215
 
-★ Stars: 143
+★ Stars: 144
 
 [Open repository](https://github.com/bymork/TikTok-Follow-Heart-Views-Bot)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 144 | 215 | 
 | 2022-12-14 | 143 | 215 | 
 | 2022-12-13 | 143 | 215 | 
 | 2022-12-12 | 142 | 214 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 136 | 216 | 
 | 2022-11-17 | 136 | 216 | 
 | 2022-11-16 | 136 | 216 | 
-| 2022-11-15 | 136 | 216 | 
 

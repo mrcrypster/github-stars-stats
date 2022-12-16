@@ -1,6 +1,6 @@
 # antoniosarosi/Wallpapers - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 79
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 376 | 79 | 
 | 2022-12-15 | 376 | 79 | 
 | 2022-12-13 | 375 | 79 | 
 | 2022-12-12 | 375 | 79 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 367 | 77 | 
 | 2022-11-18 | 367 | 76 | 
 | 2022-11-17 | 367 | 76 | 
-| 2022-11-16 | 366 | 75 | 
 

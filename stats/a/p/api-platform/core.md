@@ -1,8 +1,8 @@
 # api-platform/core - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 759
+☋ Forks: 758
 
 ★ Stars: 2185
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 2185 | 758 | 
 | 2022-12-14 | 2185 | 759 | 
 | 2022-12-13 | 2183 | 759 | 
 | 2022-12-11 | 2183 | 757 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 2170 | 749 | 
 | 2022-11-17 | 2166 | 749 | 
 | 2022-11-16 | 2166 | 750 | 
-| 2022-11-15 | 2163 | 750 | 
 

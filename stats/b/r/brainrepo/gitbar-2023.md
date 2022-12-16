@@ -1,10 +1,10 @@
 # brainrepo/gitbar-2023 - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 6
 
-★ Stars: 16
+★ Stars: 15
 
 [Open repository](https://github.com/brainrepo/gitbar-2023)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 15 | 6 | 
 | 2022-12-14 | 16 | 6 | 
 | 2022-12-13 | 16 | 6 | 
 | 2022-12-12 | 16 | 6 | 

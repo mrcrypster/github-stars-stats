@@ -1,10 +1,10 @@
 # slackhq/PanModal - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 427
 
-★ Stars: 3382
+★ Stars: 3381
 
 [Open repository](https://github.com/slackhq/PanModal)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 3381 | 427 | 
 | 2022-12-15 | 3382 | 427 | 
 | 2022-12-13 | 3381 | 427 | 
 | 2022-12-12 | 3381 | 426 | 

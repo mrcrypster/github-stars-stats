@@ -1,6 +1,6 @@
 # dark-Jedi2108/nvide - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 65 | 3 | 
 | 2022-12-15 | 65 | 3 | 
 | 2022-12-13 | 64 | 3 | 
 | 2022-12-12 | 64 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-18 | 64 | 4 | 
 | 2022-11-17 | 64 | 4 | 
 | 2022-11-16 | 64 | 4 | 
-| 2022-11-15 | 64 | 4 | 
 

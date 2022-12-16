@@ -1,10 +1,10 @@
 # shaunsingh/nord.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 69
 
-★ Stars: 507
+★ Stars: 509
 
 [Open repository](https://github.com/shaunsingh/nord.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 509 | 69 | 
 | 2022-12-14 | 507 | 69 | 
 | 2022-12-13 | 506 | 69 | 
 | 2022-12-12 | 504 | 68 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 494 | 68 | 
 | 2022-11-17 | 493 | 68 | 
 | 2022-11-16 | 492 | 68 | 
-| 2022-11-15 | 492 | 68 | 
 

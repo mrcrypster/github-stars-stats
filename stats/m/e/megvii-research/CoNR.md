@@ -1,10 +1,10 @@
 # megvii-research/CoNR - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 64
 
-★ Stars: 593
+★ Stars: 594
 
 [Open repository](https://github.com/megvii-research/CoNR)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 594 | 64 | 
 | 2022-12-15 | 593 | 64 | 
 | 2022-12-13 | 593 | 64 | 
 | 2022-12-12 | 592 | 64 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-18 | 574 | 61 | 
 | 2022-11-17 | 572 | 61 | 
 | 2022-11-16 | 571 | 60 | 
-| 2022-11-15 | 569 | 60 | 
 

@@ -1,6 +1,6 @@
 # plexus/chemacs2 - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 604 | 43 | 
 | 2022-12-13 | 604 | 43 | 
 | 2022-12-12 | 601 | 43 | 
 | 2022-12-11 | 601 | 43 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 592 | 41 | 
 | 2022-11-17 | 591 | 41 | 
 | 2022-11-16 | 591 | 41 | 
-| 2022-11-15 | 590 | 40 | 
 

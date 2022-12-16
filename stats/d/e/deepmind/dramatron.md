@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 15
 
-☋ Forks: 34
+☋ Forks: 37
 
-★ Stars: 553
+★ Stars: 558
 
 [Open repository](https://github.com/deepmind/dramatron)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-15 | 553 | 34 | 
+| 2022-12-15 | 558 | 37 | 
 | 2022-12-14 | 552 | 34 | 
 | 2022-12-13 | 493 | 32 | 
 | 2022-12-12 | 372 | 26 | 

@@ -1,10 +1,10 @@
 # Flamingo-OS/bionic - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 0
 
-★ Stars: 6
+★ Stars: 5
 
 [Open repository](https://github.com/Flamingo-OS/bionic)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 5 | - | 
 | 2022-12-14 | 6 | - | 
 | 2022-12-13 | 6 | - | 
 | 2022-12-12 | 6 | - | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 5 | - | 
 | 2022-11-17 | 5 | - | 
 | 2022-11-16 | 5 | - | 
-| 2022-11-15 | 5 | - | 
 

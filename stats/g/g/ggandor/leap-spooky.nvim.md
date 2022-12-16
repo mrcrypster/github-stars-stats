@@ -1,10 +1,10 @@
 # ggandor/leap-spooky.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 1
 
-★ Stars: 112
+★ Stars: 115
 
 [Open repository](https://github.com/ggandor/leap-spooky.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 115 | 1 | 
 | 2022-12-14 | 112 | 1 | 
 | 2022-12-12 | 112 | 1 | 
 | 2022-12-11 | 112 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 90 | 1 | 
 | 2022-11-17 | 90 | 1 | 
 | 2022-11-16 | 88 | 1 | 
-| 2022-11-15 | 88 | 1 | 
 

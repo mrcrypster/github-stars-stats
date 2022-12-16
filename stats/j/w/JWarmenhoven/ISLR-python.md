@@ -1,8 +1,8 @@
 # JWarmenhoven/ISLR-python - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 2346
+☋ Forks: 2347
 
 ★ Stars: 3789
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 3789 | 2347 | 
 | 2022-12-14 | 3789 | 2346 | 
 | 2022-12-13 | 3788 | 2346 | 
 | 2022-12-11 | 3787 | 2345 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 3766 | 2335 | 
 | 2022-11-17 | 3765 | 2334 | 
 | 2022-11-16 | 3763 | 2333 | 
-| 2022-11-15 | 3762 | 2333 | 
 

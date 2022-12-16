@@ -1,6 +1,6 @@
 # basho/lager_syslog - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 82
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 60 | 82 | 
 | 2022-12-13 | 60 | 82 | 
 | 2022-12-12 | 60 | 82 | 
 | 2022-12-11 | 60 | 82 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 60 | 82 | 
 | 2022-11-17 | 60 | 82 | 
 | 2022-11-16 | 60 | 82 | 
-| 2022-11-15 | 60 | 82 | 
 

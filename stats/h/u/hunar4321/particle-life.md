@@ -1,8 +1,8 @@
 # hunar4321/particle-life - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 187
+☋ Forks: 188
 
 ★ Stars: 1654
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 1654 | 188 | 
 | 2022-12-14 | 1654 | 187 | 
 | 2022-12-13 | 1653 | 187 | 
 | 2022-12-11 | 1653 | 187 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 1639 | 185 | 
 | 2022-11-17 | 1639 | 185 | 
 | 2022-11-16 | 1639 | 185 | 
-| 2022-11-15 | 1636 | 185 | 
 

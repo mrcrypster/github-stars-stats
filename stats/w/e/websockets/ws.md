@@ -1,10 +1,10 @@
 # websockets/ws - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 2262
+☋ Forks: 2263
 
-★ Stars: 19179
+★ Stars: 19182
 
 [Open repository](https://github.com/websockets/ws)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 19182 | 2263 | 
 | 2022-12-14 | 19179 | 2262 | 
 | 2022-12-12 | 19173 | 2260 | 
 | 2022-12-11 | 19168 | 2260 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 19069 | 2251 | 
 | 2022-11-17 | 19065 | 2250 | 
 | 2022-11-16 | 19055 | 2249 | 
-| 2022-11-15 | 19046 | 2248 | 
 

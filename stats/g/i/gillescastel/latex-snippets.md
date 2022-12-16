@@ -1,10 +1,10 @@
 # gillescastel/latex-snippets - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 176
 
-★ Stars: 771
+★ Stars: 774
 
 [Open repository](https://github.com/gillescastel/latex-snippets)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 774 | 176 | 
 | 2022-12-15 | 771 | 176 | 
 | 2022-12-13 | 771 | 176 | 
 | 2022-12-12 | 771 | 176 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-18 | 755 | 172 | 
 | 2022-11-17 | 755 | 171 | 
 | 2022-11-16 | 755 | 171 | 
-| 2022-11-15 | 755 | 171 | 
 

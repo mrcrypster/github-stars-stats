@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 15
 
 ☋ Forks: 1
 
-★ Stars: 21
+★ Stars: 24
 
 [Open repository](https://github.com/JideGuru/animation_playground)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-15 | 21 | 1 | 
+| 2022-12-15 | 24 | 1 | 
 | 2022-12-14 | 20 | 1 | 
 

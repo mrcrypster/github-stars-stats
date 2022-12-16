@@ -1,10 +1,10 @@
 # rclex/rclex - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 7
+☋ Forks: 8
 
-★ Stars: 103
+★ Stars: 104
 
 [Open repository](https://github.com/rclex/rclex)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 104 | 8 | 
 | 2022-12-14 | 103 | 7 | 
 | 2022-12-13 | 103 | 7 | 
 | 2022-12-12 | 103 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 98 | 7 | 
 | 2022-11-17 | 98 | 7 | 
 | 2022-11-16 | 97 | 7 | 
-| 2022-11-15 | 97 | 7 | 
 

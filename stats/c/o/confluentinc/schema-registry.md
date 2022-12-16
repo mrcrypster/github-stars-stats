@@ -1,10 +1,10 @@
 # confluentinc/schema-registry - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 1024
+☋ Forks: 1025
 
-★ Stars: 1875
+★ Stars: 1876
 
 [Open repository](https://github.com/confluentinc/schema-registry)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 1876 | 1025 | 
 | 2022-12-14 | 1875 | 1024 | 
 | 2022-12-13 | 1874 | 1022 | 
 | 2022-12-12 | 1875 | 1021 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-19 | 1853 | 1017 | 
 | 2022-11-18 | 1850 | 1017 | 
 | 2022-11-16 | 1848 | 1017 | 
-| 2022-11-15 | 1848 | 1016 | 
 

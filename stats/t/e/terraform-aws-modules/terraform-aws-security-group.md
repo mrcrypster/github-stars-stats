@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 15
 
 ☋ Forks: 819
 
-★ Stars: 476
+★ Stars: 478
 
 [Open repository](https://github.com/terraform-aws-modules/terraform-aws-security-group)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-15 | 476 | 819 | 
+| 2022-12-15 | 478 | 819 | 
 | 2022-12-14 | 476 | 819 | 
 | 2022-12-13 | 476 | 819 | 
 | 2022-12-12 | 476 | 817 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-18 | 473 | 800 | 
 | 2022-11-17 | 473 | 799 | 
 | 2022-11-16 | 473 | 798 | 
-| 2022-11-15 | 472 | 799 | 
 

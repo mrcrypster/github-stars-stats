@@ -1,6 +1,6 @@
 # fox-it/cobaltstrike-beacon-data - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 98 | 24 | 
 | 2022-12-14 | 98 | 24 | 
 | 2022-12-13 | 98 | 24 | 
 | 2022-12-12 | 98 | 24 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-19 | 98 | 24 | 
 | 2022-11-17 | 98 | 24 | 
 | 2022-11-16 | 98 | 24 | 
-| 2022-11-15 | 98 | 24 | 
 

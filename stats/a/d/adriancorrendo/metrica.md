@@ -1,8 +1,8 @@
 # adriancorrendo/metrica - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 5
+☋ Forks: 6
 
 ★ Stars: 66
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 66 | 6 | 
 | 2022-12-14 | 66 | 5 | 
 | 2022-12-12 | 66 | 5 | 
 | 2022-12-11 | 66 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 66 | 5 | 
 | 2022-11-17 | 66 | 5 | 
 | 2022-11-16 | 66 | 5 | 
-| 2022-11-15 | 66 | 5 | 
 

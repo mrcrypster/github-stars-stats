@@ -1,6 +1,6 @@
 # rayon-rs/rayon - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 398
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 7654 | 398 | 
 | 2022-12-14 | 7654 | 398 | 
 | 2022-12-12 | 7650 | 398 | 
 | 2022-12-11 | 7647 | 398 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 7539 | 392 | 
 | 2022-11-17 | 7534 | 391 | 
 | 2022-11-16 | 7533 | 391 | 
-| 2022-11-15 | 7526 | 391 | 
 

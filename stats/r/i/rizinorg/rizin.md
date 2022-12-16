@@ -1,10 +1,10 @@
 # rizinorg/rizin - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 201
+☋ Forks: 203
 
-★ Stars: 1674
+★ Stars: 1673
 
 [Open repository](https://github.com/rizinorg/rizin)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 1673 | 203 | 
 | 2022-12-14 | 1674 | 201 | 
 | 2022-12-13 | 1673 | 201 | 
 | 2022-12-12 | 1673 | 200 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 1648 | 198 | 
 | 2022-11-17 | 1648 | 198 | 
 | 2022-11-16 | 1648 | 198 | 
-| 2022-11-15 | 1646 | 198 | 
 

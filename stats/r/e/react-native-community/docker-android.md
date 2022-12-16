@@ -1,6 +1,6 @@
 # react-native-community/docker-android - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 112
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 362 | 112 | 
 | 2022-12-14 | 362 | 112 | 
 | 2022-12-12 | 362 | 112 | 
 | 2022-12-11 | 362 | 112 | 

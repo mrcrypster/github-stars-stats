@@ -1,6 +1,6 @@
 # Eilonh/s3crets_scanner - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 467 | 53 | 
 | 2022-12-14 | 467 | 53 | 
 | 2022-12-13 | 467 | 53 | 
 | 2022-12-12 | 466 | 53 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 424 | 43 | 
 | 2022-11-17 | 421 | 41 | 
 | 2022-11-16 | 417 | 41 | 
-| 2022-11-15 | 416 | 41 | 
 

@@ -1,10 +1,10 @@
 # json-iterator/go - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 933
+☋ Forks: 934
 
-★ Stars: 11586
+★ Stars: 11589
 
 [Open repository](https://github.com/json-iterator/go)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 11589 | 934 | 
 | 2022-12-14 | 11586 | 933 | 
 | 2022-12-13 | 11581 | 932 | 
 | 2022-12-12 | 11577 | 932 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 11513 | 927 | 
 | 2022-11-17 | 11512 | 927 | 
 | 2022-11-16 | 11506 | 927 | 
-| 2022-11-15 | 11503 | 927 | 
 

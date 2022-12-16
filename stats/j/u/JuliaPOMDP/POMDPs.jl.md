@@ -1,10 +1,10 @@
 # JuliaPOMDP/POMDPs.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
-☋ Forks: 84
+☋ Forks: 85
 
-★ Stars: 538
+★ Stars: 539
 
 [Open repository](https://github.com/JuliaPOMDP/POMDPs.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 539 | 85 | 
 | 2022-12-13 | 538 | 84 | 
 | 2022-12-12 | 538 | 83 | 
 | 2022-12-10 | 539 | 83 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 534 | 82 | 
 | 2022-11-17 | 534 | 82 | 
 | 2022-11-16 | 534 | 82 | 
-| 2022-11-15 | 534 | 82 | 
 

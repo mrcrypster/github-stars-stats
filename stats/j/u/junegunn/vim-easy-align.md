@@ -1,6 +1,6 @@
 # junegunn/vim-easy-align - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 112
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 3809 | 112 | 
 | 2022-12-15 | 3809 | 112 | 
 | 2022-12-13 | 3808 | 112 | 
 | 2022-12-12 | 3807 | 112 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-18 | 3788 | 110 | 
 | 2022-11-17 | 3787 | 110 | 
 | 2022-11-16 | 3785 | 110 | 
-| 2022-11-15 | 3785 | 110 | 
 

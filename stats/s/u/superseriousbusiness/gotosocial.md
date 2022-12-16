@@ -1,10 +1,10 @@
 # superseriousbusiness/gotosocial - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 148
+☋ Forks: 149
 
-★ Stars: 1894
+★ Stars: 1908
 
 [Open repository](https://github.com/superseriousbusiness/gotosocial)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 1908 | 149 | 
 | 2022-12-14 | 1894 | 148 | 
 | 2022-12-12 | 1890 | 146 | 
 | 2022-12-11 | 1873 | 144 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 1304 | 110 | 
 | 2022-11-17 | 1286 | 107 | 
 | 2022-11-16 | 1274 | 104 | 
-| 2022-11-15 | 1248 | 103 | 
 

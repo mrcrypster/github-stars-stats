@@ -1,10 +1,10 @@
 # PaperMC/Velocity - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 331
 
-★ Stars: 1167
+★ Stars: 1168
 
 [Open repository](https://github.com/PaperMC/Velocity)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 1168 | 331 | 
 | 2022-12-14 | 1167 | 331 | 
 | 2022-12-13 | 1167 | 327 | 
 | 2022-12-12 | 1165 | 327 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 1153 | 321 | 
 | 2022-11-17 | 1154 | 321 | 
 | 2022-11-16 | 1153 | 320 | 
-| 2022-11-15 | 1153 | 320 | 
 

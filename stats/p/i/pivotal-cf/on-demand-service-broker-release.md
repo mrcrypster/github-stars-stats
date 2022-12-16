@@ -1,10 +1,10 @@
 # pivotal-cf/on-demand-service-broker-release - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 17
 
-★ Stars: 13
+★ Stars: 12
 
 [Open repository](https://github.com/pivotal-cf/on-demand-service-broker-release)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 12 | 17 | 
 | 2022-12-14 | 13 | 17 | 
 | 2022-12-12 | 13 | 17 | 
 | 2022-12-11 | 12 | 17 | 

@@ -1,10 +1,10 @@
 # r-lib/styler - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 64
 
-★ Stars: 604
+★ Stars: 605
 
 [Open repository](https://github.com/r-lib/styler)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 605 | 64 | 
 | 2022-12-14 | 604 | 64 | 
 | 2022-12-13 | 604 | 64 | 
 | 2022-12-12 | 604 | 64 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-19 | 602 | 64 | 
 | 2022-11-18 | 601 | 64 | 
 | 2022-11-17 | 601 | 64 | 
-| 2022-11-16 | 601 | 64 | 
 

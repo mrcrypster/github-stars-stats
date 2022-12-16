@@ -1,6 +1,6 @@
 # exoscale/tools.project - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 25 | - | 
 | 2022-12-13 | 25 | - | 
 | 2022-12-12 | 25 | - | 
 | 2022-12-11 | 25 | - | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-19 | 23 | - | 
 | 2022-11-18 | 23 | - | 
 | 2022-11-17 | 23 | - | 
-| 2022-11-16 | 23 | - | 
 

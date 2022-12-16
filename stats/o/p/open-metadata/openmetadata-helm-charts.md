@@ -1,8 +1,8 @@
 # open-metadata/openmetadata-helm-charts - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 19
+☋ Forks: 20
 
 ★ Stars: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 10 | 20 | 
 | 2022-12-14 | 10 | 19 | 
 | 2022-12-13 | 10 | 19 | 
 | 2022-12-11 | 10 | 19 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 10 | 18 | 
 | 2022-11-17 | 10 | 18 | 
 | 2022-11-16 | 10 | 18 | 
-| 2022-11-15 | 10 | 18 | 
 

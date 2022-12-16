@@ -1,10 +1,10 @@
 # vinaygaba/Learn-Jetpack-Compose-By-Example - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 280
 
-★ Stars: 2608
+★ Stars: 2610
 
 [Open repository](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 2610 | 280 | 
 | 2022-12-14 | 2608 | 280 | 
 | 2022-12-12 | 2606 | 280 | 
 | 2022-12-11 | 2606 | 280 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 2583 | 275 | 
 | 2022-11-17 | 2583 | 275 | 
 | 2022-11-16 | 2583 | 274 | 
-| 2022-11-15 | 2575 | 272 | 
 

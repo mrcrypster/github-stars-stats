@@ -1,10 +1,10 @@
 # dhall-lang/dhall-lang - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 167
 
-★ Stars: 3802
+★ Stars: 3805
 
 [Open repository](https://github.com/dhall-lang/dhall-lang)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 3805 | 167 | 
 | 2022-12-14 | 3802 | 167 | 
 | 2022-12-13 | 3802 | 167 | 
 | 2022-12-12 | 3801 | 167 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-19 | 3752 | 168 | 
 | 2022-11-17 | 3751 | 168 | 
 | 2022-11-16 | 3751 | 168 | 
-| 2022-11-15 | 3750 | 168 | 
 

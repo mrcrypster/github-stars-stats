@@ -1,6 +1,6 @@
 # p0larisdev/app - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 70 | 3 | 
 | 2022-12-14 | 70 | 3 | 
 | 2022-12-13 | 70 | 3 | 
 | 2022-12-12 | 70 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 69 | 3 | 
 | 2022-11-17 | 69 | 3 | 
 | 2022-11-16 | 69 | 3 | 
-| 2022-11-15 | 69 | 3 | 
 

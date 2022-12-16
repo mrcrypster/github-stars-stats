@@ -1,10 +1,10 @@
 # rsksmart/rif-relay-contracts - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 10
 
-★ Stars: 4
+★ Stars: 3
 
 [Open repository](https://github.com/rsksmart/rif-relay-contracts)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 3 | 10 | 
 | 2022-12-13 | 4 | 10 | 
 | 2022-12-12 | 3 | 10 | 
 | 2022-12-10 | 3 | 10 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 3 | 9 | 
 | 2022-11-17 | 3 | 9 | 
 | 2022-11-16 | 3 | 9 | 
-| 2022-11-15 | 2 | 9 | 
 

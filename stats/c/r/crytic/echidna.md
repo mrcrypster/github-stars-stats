@@ -1,10 +1,10 @@
 # crytic/echidna - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 237
+☋ Forks: 238
 
-★ Stars: 1815
+★ Stars: 1816
 
 [Open repository](https://github.com/crytic/echidna)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 1816 | 238 | 
 | 2022-12-14 | 1815 | 237 | 
 | 2022-12-13 | 1814 | 236 | 
 | 2022-12-12 | 1813 | 235 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 1770 | 228 | 
 | 2022-11-17 | 1767 | 227 | 
 | 2022-11-16 | 1764 | 226 | 
-| 2022-11-15 | 1761 | 224 | 
 

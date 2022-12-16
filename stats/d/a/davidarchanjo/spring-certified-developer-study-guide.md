@@ -1,6 +1,6 @@
 # davidarchanjo/spring-certified-developer-study-guide - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 50 | 20 | 
 | 2022-12-14 | 50 | 20 | 
 | 2022-12-13 | 50 | 20 | 
 | 2022-12-12 | 50 | 20 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 50 | 20 | 
 | 2022-11-17 | 50 | 20 | 
 | 2022-11-16 | 50 | 20 | 
-| 2022-11-15 | 50 | 20 | 
 

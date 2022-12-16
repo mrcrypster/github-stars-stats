@@ -1,10 +1,10 @@
 # derailed-org/derailed-oss-status - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 0
 
-★ Stars: 2
+★ Stars: 1
 
 [Open repository](https://github.com/derailed-org/derailed-oss-status)
 
@@ -13,5 +13,6 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 1 | - | 
 | 2022-12-14 | 2 | - | 
 

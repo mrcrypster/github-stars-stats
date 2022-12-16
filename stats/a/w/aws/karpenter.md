@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 15
 
-☋ Forks: 409
+☋ Forks: 410
 
-★ Stars: 3677
+★ Stars: 3683
 
 [Open repository](https://github.com/aws/karpenter)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-15 | 3677 | 409 | 
+| 2022-12-15 | 3683 | 410 | 
 | 2022-12-14 | 3671 | 409 | 
 | 2022-12-13 | 3659 | 406 | 
 | 2022-12-12 | 3634 | 402 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-18 | 3518 | 388 | 
 | 2022-11-17 | 3517 | 388 | 
 | 2022-11-16 | 3499 | 384 | 
-| 2022-11-15 | 3494 | 384 | 
 

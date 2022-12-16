@@ -1,10 +1,10 @@
 # mozilla/looker-spoke-default - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 6
 
-★ Stars: 4
+★ Stars: 3
 
 [Open repository](https://github.com/mozilla/looker-spoke-default)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 3 | 6 | 
 | 2022-12-14 | 4 | 6 | 
 | 2022-12-13 | 4 | 6 | 
 | 2022-12-11 | 4 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-19 | 5 | 6 | 
 | 2022-11-17 | 5 | 6 | 
 | 2022-11-16 | 5 | 6 | 
-| 2022-11-15 | 5 | 6 | 
 

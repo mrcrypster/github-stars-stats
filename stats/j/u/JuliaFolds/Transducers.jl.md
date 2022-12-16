@@ -1,6 +1,6 @@
 # JuliaFolds/Transducers.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 359 | 22 | 
 | 2022-12-15 | 359 | 22 | 
 | 2022-12-13 | 359 | 23 | 
 | 2022-12-12 | 359 | 23 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-18 | 355 | 23 | 
 | 2022-11-17 | 355 | 23 | 
 | 2022-11-16 | 355 | 23 | 
-| 2022-11-15 | 354 | 23 | 
 

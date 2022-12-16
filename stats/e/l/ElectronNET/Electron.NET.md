@@ -1,8 +1,8 @@
 # ElectronNET/Electron.NET - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
-☋ Forks: 659
+☋ Forks: 658
 
 ★ Stars: 6512
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 6512 | 658 | 
 | 2022-12-13 | 6512 | 659 | 
 | 2022-12-12 | 6509 | 659 | 
 | 2022-12-11 | 6509 | 660 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 6488 | 661 | 
 | 2022-11-17 | 6487 | 661 | 
 | 2022-11-16 | 6486 | 661 | 
-| 2022-11-15 | 6486 | 661 | 
 

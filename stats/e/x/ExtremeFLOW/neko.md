@@ -1,10 +1,10 @@
 # ExtremeFLOW/neko - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 4
+☋ Forks: 5
 
-★ Stars: 34
+★ Stars: 33
 
 [Open repository](https://github.com/ExtremeFLOW/neko)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 33 | 5 | 
 | 2022-12-14 | 34 | 4 | 
 | 2022-12-13 | 30 | 4 | 
 | 2022-12-11 | 28 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 27 | 4 | 
 | 2022-11-17 | 27 | 4 | 
 | 2022-11-16 | 27 | 4 | 
-| 2022-11-15 | 27 | 4 | 
 

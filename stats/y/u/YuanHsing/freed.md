@@ -1,10 +1,10 @@
 # YuanHsing/freed - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 643
+☋ Forks: 644
 
-★ Stars: 1079
+★ Stars: 1083
 
 [Open repository](https://github.com/YuanHsing/freed)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 1083 | 644 | 
 | 2022-12-14 | 1079 | 643 | 
 | 2022-12-12 | 1078 | 642 | 
 | 2022-12-11 | 1078 | 642 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 1039 | 642 | 
 | 2022-11-17 | 1038 | 642 | 
 | 2022-11-16 | 1037 | 642 | 
-| 2022-11-15 | 1037 | 642 | 
 

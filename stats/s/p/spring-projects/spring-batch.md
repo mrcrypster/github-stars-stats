@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 15
 
-☋ Forks: 2100
+☋ Forks: 2102
 
-★ Stars: 2254
+★ Stars: 2257
 
 [Open repository](https://github.com/spring-projects/spring-batch)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-15 | 2254 | 2100 | 
+| 2022-12-15 | 2257 | 2102 | 
 | 2022-12-14 | 2255 | 2100 | 
 

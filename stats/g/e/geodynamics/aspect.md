@@ -1,10 +1,10 @@
 # geodynamics/aspect - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 203
 
-★ Stars: 158
+★ Stars: 157
 
 [Open repository](https://github.com/geodynamics/aspect)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 157 | 203 | 
 | 2022-12-14 | 158 | 203 | 
 | 2022-12-12 | 158 | 203 | 
 | 2022-12-11 | 157 | 204 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 156 | 204 | 
 | 2022-11-17 | 156 | 204 | 
 | 2022-11-16 | 156 | 204 | 
-| 2022-11-15 | 156 | 204 | 
 

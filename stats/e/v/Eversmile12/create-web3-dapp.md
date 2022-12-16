@@ -1,6 +1,6 @@
 # Eversmile12/create-web3-dapp - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 101
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 339 | 101 | 
 | 2022-12-14 | 339 | 101 | 
 | 2022-12-13 | 338 | 101 | 
 | 2022-12-12 | 338 | 101 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 300 | 78 | 
 | 2022-11-17 | 297 | 78 | 
 | 2022-11-16 | 295 | 77 | 
-| 2022-11-15 | 292 | 77 | 
 

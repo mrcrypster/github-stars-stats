@@ -1,10 +1,10 @@
 # unjs/nitro - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 131
 
-★ Stars: 1247
+★ Stars: 1249
 
 [Open repository](https://github.com/unjs/nitro)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 1249 | 131 | 
 | 2022-12-14 | 1247 | 131 | 
 | 2022-12-13 | 1239 | 131 | 
 | 2022-12-11 | 1230 | 131 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 1135 | 115 | 
 | 2022-11-17 | 1116 | 114 | 
 | 2022-11-16 | 1101 | 114 | 
-| 2022-11-15 | 1098 | 114 | 
 

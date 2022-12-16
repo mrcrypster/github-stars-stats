@@ -1,10 +1,10 @@
 # ao-org/argentum20-server - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 8
 
-★ Stars: 10
+★ Stars: 9
 
 [Open repository](https://github.com/ao-org/argentum20-server)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 9 | 8 | 
 | 2022-12-14 | 10 | 8 | 
 | 2022-12-13 | 10 | 8 | 
 | 2022-12-12 | 10 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 8 | 8 | 
 | 2022-11-17 | 8 | 8 | 
 | 2022-11-16 | 8 | 8 | 
-| 2022-11-15 | 8 | 8 | 
 

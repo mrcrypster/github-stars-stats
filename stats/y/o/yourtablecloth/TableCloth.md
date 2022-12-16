@@ -1,10 +1,10 @@
 # yourtablecloth/TableCloth - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 21
 
-★ Stars: 514
+★ Stars: 516
 
 [Open repository](https://github.com/yourtablecloth/TableCloth)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 516 | 21 | 
 | 2022-12-14 | 514 | 21 | 
 | 2022-12-13 | 512 | 21 | 
 | 2022-12-12 | 512 | 21 | 

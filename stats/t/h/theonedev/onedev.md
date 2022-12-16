@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 15
 
-☋ Forks: 702
+☋ Forks: 703
 
-★ Stars: 10470
+★ Stars: 10474
 
 [Open repository](https://github.com/theonedev/onedev)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-15 | 10470 | 702 | 
+| 2022-12-15 | 10474 | 703 | 
 | 2022-12-14 | 10471 | 702 | 
 | 2022-12-13 | 10464 | 701 | 
 | 2022-12-12 | 10451 | 700 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-18 | 10294 | 687 | 
 | 2022-11-17 | 10287 | 687 | 
 | 2022-11-16 | 10283 | 687 | 
-| 2022-11-15 | 10284 | 686 | 
 

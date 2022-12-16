@@ -1,6 +1,6 @@
 # Adham-Mohamed-Ahmed-Abd-Elrahim/Pipelined_MIPS_32-bit_harvard-arch - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 13 | 1 | 
 | 2022-12-14 | 13 | 1 | 
 | 2022-12-13 | 13 | 1 | 
 | 2022-12-12 | 13 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 13 | 1 | 
 | 2022-11-17 | 13 | 1 | 
 | 2022-11-16 | 13 | 1 | 
-| 2022-11-15 | 13 | 1 | 
 

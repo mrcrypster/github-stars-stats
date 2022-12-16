@@ -1,10 +1,10 @@
 # Tencent/rapidjson - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 16
 
-☋ Forks: 3293
+☋ Forks: 3291
 
-★ Stars: 12595
+★ Stars: 12594
 
 [Open repository](https://github.com/Tencent/rapidjson)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 12594 | 3291 | 
+| 2022-12-15 | 12594 | 3291 | 
 | 2022-12-14 | 12595 | 3293 | 
 | 2022-12-13 | 12590 | 3291 | 
 | 2022-12-12 | 12587 | 3291 | 
@@ -40,5 +42,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 12515 | 3283 | 
 | 2022-11-17 | 12511 | 3283 | 
 | 2022-11-16 | 12508 | 3281 | 
-| 2022-11-15 | 12508 | 3280 | 
 

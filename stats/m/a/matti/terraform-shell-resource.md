@@ -1,6 +1,6 @@
 # matti/terraform-shell-resource - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 228 | 47 | 
 | 2022-12-15 | 228 | 47 | 
 | 2022-12-13 | 228 | 47 | 
 | 2022-12-12 | 228 | 47 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-18 | 228 | 47 | 
 | 2022-11-17 | 228 | 47 | 
 | 2022-11-16 | 228 | 47 | 
-| 2022-11-15 | 228 | 47 | 
 

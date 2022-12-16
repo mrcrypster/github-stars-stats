@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 15
 
 ☋ Forks: 2
 
-★ Stars: 91
+★ Stars: 92
 
 [Open repository](https://github.com/aduros/ai.vim)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-15 | 91 | 2 | 
+| 2022-12-15 | 92 | 2 | 
 | 2022-12-14 | 89 | 2 | 
 

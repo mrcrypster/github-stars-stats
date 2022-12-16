@@ -1,10 +1,10 @@
 # nadi555/Ternode - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 26
 
-★ Stars: 10
+★ Stars: 9
 
 [Open repository](https://github.com/nadi555/Ternode)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 9 | 26 | 
 | 2022-12-14 | 10 | 26 | 
 | 2022-12-13 | 10 | 26 | 
 | 2022-12-11 | 10 | 27 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-19 | 5 | 15 | 
 | 2022-11-17 | 5 | 15 | 
 | 2022-11-16 | 5 | 15 | 
-| 2022-11-15 | 5 | 15 | 
 

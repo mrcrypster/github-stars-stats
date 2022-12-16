@@ -1,8 +1,8 @@
 # laravel/sail - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 364
+☋ Forks: 365
 
 ★ Stars: 1213
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 1213 | 365 | 
 | 2022-12-14 | 1213 | 364 | 
 | 2022-12-13 | 1212 | 363 | 
 | 2022-12-12 | 1213 | 364 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 1195 | 354 | 
 | 2022-11-17 | 1194 | 351 | 
 | 2022-11-16 | 1193 | 350 | 
-| 2022-11-15 | 1190 | 349 | 
 

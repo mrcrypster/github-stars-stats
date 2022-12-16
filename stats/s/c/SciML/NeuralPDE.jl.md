@@ -1,10 +1,10 @@
 # SciML/NeuralPDE.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 146
 
-★ Stars: 672
+★ Stars: 673
 
 [Open repository](https://github.com/SciML/NeuralPDE.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 673 | 146 | 
 | 2022-12-14 | 672 | 146 | 
 | 2022-12-13 | 672 | 146 | 
 | 2022-12-11 | 672 | 146 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 663 | 143 | 
 | 2022-11-17 | 663 | 143 | 
 | 2022-11-16 | 663 | 143 | 
-| 2022-11-15 | 663 | 143 | 
 

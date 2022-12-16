@@ -1,10 +1,10 @@
 # AeneasVerif/aeneas - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 4
 
-★ Stars: 39
+★ Stars: 40
 
 [Open repository](https://github.com/AeneasVerif/aeneas)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 40 | 4 | 
 | 2022-12-14 | 39 | 4 | 
 | 2022-12-12 | 39 | 4 | 
 | 2022-12-11 | 39 | 4 | 

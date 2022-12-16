@@ -1,6 +1,6 @@
 # KissLinkA-205/BSUIR-Labs - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 26 | 19 | 
 | 2022-12-14 | 26 | 19 | 
 | 2022-12-12 | 26 | 19 | 
 | 2022-12-11 | 26 | 19 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 24 | 19 | 
 | 2022-11-17 | 24 | 19 | 
 | 2022-11-16 | 24 | 19 | 
-| 2022-11-15 | 24 | 19 | 
 

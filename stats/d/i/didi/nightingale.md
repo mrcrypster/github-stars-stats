@@ -1,10 +1,10 @@
 # didi/nightingale - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 966
 
-★ Stars: 5690
+★ Stars: 5691
 
 [Open repository](https://github.com/didi/nightingale)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 5691 | 966 | 
 | 2022-12-14 | 5690 | 966 | 
 | 2022-12-13 | 5685 | 965 | 
 | 2022-12-12 | 5683 | 965 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-19 | 5599 | 958 | 
 | 2022-11-18 | 5592 | 958 | 
 | 2022-11-17 | 5586 | 957 | 
-| 2022-11-16 | 5585 | 956 | 
 

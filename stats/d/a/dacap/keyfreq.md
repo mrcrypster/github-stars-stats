@@ -1,10 +1,10 @@
 # dacap/keyfreq - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 21
 
-★ Stars: 289
+★ Stars: 291
 
 [Open repository](https://github.com/dacap/keyfreq)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 291 | 21 | 
 | 2022-12-14 | 289 | 21 | 
 | 2022-12-13 | 289 | 21 | 
 | 2022-12-11 | 289 | 21 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 287 | 21 | 
 | 2022-11-17 | 287 | 21 | 
 | 2022-11-16 | 287 | 21 | 
-| 2022-11-15 | 287 | 21 | 
 

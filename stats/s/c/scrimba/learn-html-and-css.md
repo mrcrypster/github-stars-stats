@@ -1,8 +1,8 @@
 # scrimba/learn-html-and-css - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 70
+☋ Forks: 72
 
 ★ Stars: 50
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 50 | 72 | 
 | 2022-12-14 | 50 | 70 | 
 | 2022-12-12 | 48 | 69 | 
 | 2022-12-11 | 48 | 68 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 47 | 62 | 
 | 2022-11-17 | 47 | 62 | 
 | 2022-11-16 | 47 | 61 | 
-| 2022-11-15 | 47 | 60 | 
 

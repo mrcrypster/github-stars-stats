@@ -1,6 +1,6 @@
 # XREAL-SNU/JohnLemon-Tutorial - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | - | 29 | 
 | 2022-12-13 | - | 29 | 
 | 2022-12-12 | - | 29 | 
 | 2022-12-11 | - | 29 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-19 | - | 29 | 
 | 2022-11-18 | - | 29 | 
 | 2022-11-17 | - | 29 | 
-| 2022-11-16 | - | 29 | 
 

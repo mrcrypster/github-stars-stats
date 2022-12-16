@@ -1,10 +1,10 @@
 # qdm12/gluetun - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
-☋ Forks: 174
+☋ Forks: 175
 
-★ Stars: 2381
+★ Stars: 2392
 
 [Open repository](https://github.com/qdm12/gluetun)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 2392 | 175 | 
 | 2022-12-13 | 2381 | 174 | 
 | 2022-12-12 | 2366 | 173 | 
 | 2022-12-11 | 2362 | 173 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 2261 | 164 | 
 | 2022-11-17 | 2257 | 165 | 
 | 2022-11-16 | 2251 | 165 | 
-| 2022-11-15 | 2247 | 165 | 
 

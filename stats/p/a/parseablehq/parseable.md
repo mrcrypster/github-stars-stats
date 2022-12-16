@@ -1,6 +1,6 @@
 # parseablehq/parseable - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 649 | 22 | 
 | 2022-12-14 | 649 | 22 | 
 | 2022-12-13 | 649 | 22 | 
 | 2022-12-11 | 649 | 23 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 562 | 21 | 
 | 2022-11-17 | 561 | 21 | 
 | 2022-11-16 | 560 | 21 | 
-| 2022-11-15 | 552 | 21 | 
 

@@ -1,6 +1,6 @@
 # OpenEmu/OpenEmu - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 1244
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 14477 | 1244 | 
 | 2022-12-13 | 14477 | 1244 | 
 | 2022-12-12 | 14475 | 1243 | 
 | 2022-12-11 | 14476 | 1243 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 14399 | 1241 | 
 | 2022-11-17 | 14393 | 1241 | 
 | 2022-11-16 | 14392 | 1241 | 
-| 2022-11-15 | 14390 | 1241 | 
 

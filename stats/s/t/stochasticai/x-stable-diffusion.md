@@ -1,6 +1,6 @@
 # stochasticai/x-stable-diffusion - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 230 | 15 | 
 | 2022-12-13 | 230 | 15 | 
 | 2022-12-12 | 220 | 15 | 
 | 2022-12-11 | 219 | 15 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-19 | 155 | 13 | 
 | 2022-11-17 | 150 | 13 | 
 | 2022-11-16 | 149 | 13 | 
-| 2022-11-15 | 145 | 13 | 
 

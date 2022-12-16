@@ -1,10 +1,10 @@
 # xcwill/CMeKG_labelingPlatform - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 105
+☋ Forks: 106
 
-★ Stars: 82
+★ Stars: 83
 
 [Open repository](https://github.com/xcwill/CMeKG_labelingPlatform)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 83 | 106 | 
 | 2022-12-14 | 82 | 105 | 
 | 2022-12-12 | 82 | 105 | 
 | 2022-12-11 | 82 | 105 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 66 | 82 | 
 | 2022-11-17 | 65 | 82 | 
 | 2022-11-16 | 62 | 79 | 
-| 2022-11-15 | 61 | 77 | 
 

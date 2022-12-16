@@ -1,10 +1,10 @@
 # k8s-at-home/template-cluster-k3s - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 141
 
-★ Stars: 842
+★ Stars: 843
 
 [Open repository](https://github.com/k8s-at-home/template-cluster-k3s)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 843 | 141 | 
 | 2022-12-14 | 842 | 141 | 
 | 2022-12-13 | 838 | 141 | 
 | 2022-12-12 | 838 | 141 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 815 | 140 | 
 | 2022-11-17 | 814 | 140 | 
 | 2022-11-16 | 810 | 140 | 
-| 2022-11-15 | 809 | 140 | 
 

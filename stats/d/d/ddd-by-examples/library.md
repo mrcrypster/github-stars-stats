@@ -1,10 +1,10 @@
 # ddd-by-examples/library - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 555
 
-★ Stars: 3426
+★ Stars: 3427
 
 [Open repository](https://github.com/ddd-by-examples/library)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 3427 | 555 | 
 | 2022-12-14 | 3426 | 555 | 
 | 2022-12-12 | 3425 | 555 | 
 | 2022-12-11 | 3425 | 555 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 3391 | 551 | 
 | 2022-11-17 | 3389 | 551 | 
 | 2022-11-16 | 3386 | 551 | 
-| 2022-11-15 | 3384 | 551 | 
 

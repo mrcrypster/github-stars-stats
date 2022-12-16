@@ -1,10 +1,10 @@
 # vhdl-linter/vhdl-linter - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 4
 
-★ Stars: 13
+★ Stars: 12
 
 [Open repository](https://github.com/vhdl-linter/vhdl-linter)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 12 | 4 | 
 | 2022-12-13 | 13 | 4 | 
 | 2022-12-12 | 13 | 4 | 
 | 2022-12-11 | 13 | 4 | 

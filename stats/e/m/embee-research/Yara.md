@@ -1,10 +1,10 @@
 # embee-research/Yara - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 7
 
-★ Stars: 22
+★ Stars: 24
 
 [Open repository](https://github.com/embee-research/Yara)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 24 | 7 | 
 | 2022-12-13 | 22 | 7 | 
 | 2022-12-12 | 22 | 7 | 
 | 2022-12-11 | 22 | 7 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-19 | 18 | 2 | 
 | 2022-11-18 | 18 | 2 | 
 | 2022-11-17 | 18 | 2 | 
-| 2022-11-16 | 17 | 2 | 
 

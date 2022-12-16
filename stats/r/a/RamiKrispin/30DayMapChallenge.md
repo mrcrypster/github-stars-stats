@@ -1,10 +1,10 @@
 # RamiKrispin/30DayMapChallenge - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 5
 
-★ Stars: 27
+★ Stars: 26
 
 [Open repository](https://github.com/RamiKrispin/30DayMapChallenge)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 26 | 5 | 
 | 2022-12-14 | 27 | 5 | 
 | 2022-12-13 | 27 | 5 | 
 | 2022-12-12 | 27 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 20 | 4 | 
 | 2022-11-17 | 19 | 3 | 
 | 2022-11-16 | 19 | 3 | 
-| 2022-11-15 | 19 | 3 | 
 

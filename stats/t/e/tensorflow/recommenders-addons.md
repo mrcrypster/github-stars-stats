@@ -1,10 +1,10 @@
 # tensorflow/recommenders-addons - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 112
 
-★ Stars: 431
+★ Stars: 430
 
 [Open repository](https://github.com/tensorflow/recommenders-addons)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 430 | 112 | 
 | 2022-12-14 | 431 | 112 | 
 | 2022-12-13 | 430 | 112 | 
 | 2022-12-12 | 429 | 112 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 420 | 109 | 
 | 2022-11-17 | 420 | 109 | 
 | 2022-11-16 | 420 | 109 | 
-| 2022-11-15 | 420 | 108 | 
 

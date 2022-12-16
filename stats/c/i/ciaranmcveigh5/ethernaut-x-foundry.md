@@ -1,10 +1,10 @@
 # ciaranmcveigh5/ethernaut-x-foundry - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 45
+☋ Forks: 46
 
-★ Stars: 183
+★ Stars: 184
 
 [Open repository](https://github.com/ciaranmcveigh5/ethernaut-x-foundry)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 184 | 46 | 
 | 2022-12-14 | 183 | 45 | 
 | 2022-12-13 | 183 | 44 | 
 | 2022-12-11 | 183 | 44 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 178 | 42 | 
 | 2022-11-17 | 176 | 41 | 
 | 2022-11-16 | 176 | 41 | 
-| 2022-11-15 | 176 | 41 | 
 

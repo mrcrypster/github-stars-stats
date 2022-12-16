@@ -1,10 +1,10 @@
 # Crevils/InstaReport - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
-☋ Forks: 103
+☋ Forks: 104
 
-★ Stars: 329
+★ Stars: 331
 
 [Open repository](https://github.com/Crevils/InstaReport)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 331 | 104 | 
 | 2022-12-13 | 329 | 103 | 
 | 2022-12-12 | 329 | 103 | 
 | 2022-12-11 | 327 | 101 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 318 | 97 | 
 | 2022-11-17 | 317 | 97 | 
 | 2022-11-16 | 316 | 97 | 
-| 2022-11-15 | 316 | 97 | 
 

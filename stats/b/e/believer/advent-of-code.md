@@ -1,10 +1,10 @@
 # believer/advent-of-code - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 3
 
-★ Stars: 37
+★ Stars: 38
 
 [Open repository](https://github.com/believer/advent-of-code)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 38 | 3 | 
 | 2022-12-13 | 37 | 3 | 
 | 2022-12-12 | 37 | 3 | 
 | 2022-12-11 | 36 | 3 | 

@@ -1,6 +1,6 @@
 # rjust/defects4j - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 241
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 486 | 241 | 
 | 2022-12-14 | 486 | 241 | 
 | 2022-12-12 | 484 | 241 | 
 | 2022-12-11 | 484 | 241 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-19 | 477 | 238 | 
 | 2022-11-18 | 477 | 238 | 
 | 2022-11-16 | 477 | 238 | 
-| 2022-11-15 | 477 | 237 | 
 

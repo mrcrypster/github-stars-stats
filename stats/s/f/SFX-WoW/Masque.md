@@ -1,10 +1,10 @@
 # SFX-WoW/Masque - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 10
 
-★ Stars: 38
+★ Stars: 37
 
 [Open repository](https://github.com/SFX-WoW/Masque)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 37 | 10 | 
 | 2022-12-13 | 38 | 10 | 
 | 2022-12-12 | 38 | 10 | 
 | 2022-12-11 | 38 | 10 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-19 | 36 | 10 | 
 | 2022-11-18 | 36 | 10 | 
 | 2022-11-17 | 36 | 10 | 
-| 2022-11-15 | 36 | 11 | 
 

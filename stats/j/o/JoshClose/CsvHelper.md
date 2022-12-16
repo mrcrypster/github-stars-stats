@@ -1,10 +1,10 @@
 # JoshClose/CsvHelper - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 968
+☋ Forks: 969
 
-★ Stars: 3952
+★ Stars: 3955
 
 [Open repository](https://github.com/JoshClose/CsvHelper)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 3955 | 969 | 
 | 2022-12-14 | 3952 | 968 | 
 | 2022-12-13 | 3951 | 968 | 
 | 2022-12-11 | 3949 | 968 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 3912 | 963 | 
 | 2022-11-17 | 3912 | 963 | 
 | 2022-11-16 | 3908 | 963 | 
-| 2022-11-15 | 3908 | 962 | 
 

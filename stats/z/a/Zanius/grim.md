@@ -1,8 +1,8 @@
 # Zanius/grim - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 25
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 25 | 2 | 
 | 2022-12-14 | 25 | 1 | 
 | 2022-12-13 | 25 | 1 | 
 | 2022-12-12 | 25 | 1 | 

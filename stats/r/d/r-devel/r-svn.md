@@ -1,10 +1,10 @@
 # r-devel/r-svn - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 35
 
-★ Stars: 64
+★ Stars: 63
 
 [Open repository](https://github.com/r-devel/r-svn)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 63 | 35 | 
 | 2022-12-14 | 64 | 35 | 
 | 2022-12-13 | 64 | 35 | 
 | 2022-12-11 | 64 | 35 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 63 | 35 | 
 | 2022-11-17 | 63 | 35 | 
 | 2022-11-16 | 63 | 35 | 
-| 2022-11-15 | 63 | 35 | 
 

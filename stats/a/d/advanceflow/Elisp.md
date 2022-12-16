@@ -1,10 +1,10 @@
 # advanceflow/Elisp - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 17
 
-★ Stars: 85
+★ Stars: 87
 
 [Open repository](https://github.com/advanceflow/Elisp)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 87 | 17 | 
 | 2022-12-15 | 85 | 17 | 
 | 2022-12-13 | 85 | 17 | 
 | 2022-12-12 | 85 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-18 | 68 | 14 | 
 | 2022-11-17 | 68 | 14 | 
 | 2022-11-16 | 67 | 14 | 
-| 2022-11-15 | 67 | 14 | 
 

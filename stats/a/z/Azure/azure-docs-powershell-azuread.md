@@ -1,6 +1,6 @@
 # Azure/azure-docs-powershell-azuread - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 324
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 194 | 324 | 
 | 2022-12-14 | 194 | 324 | 
 | 2022-12-13 | 194 | 324 | 
 | 2022-12-12 | 194 | 324 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 194 | 323 | 
 | 2022-11-17 | 194 | 323 | 
 | 2022-11-16 | 194 | 323 | 
-| 2022-11-15 | 194 | 323 | 
 

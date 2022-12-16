@@ -1,8 +1,8 @@
 # lm317379829/TVBoxDIY - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 180
+☋ Forks: 179
 
 ★ Stars: 74
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 74 | 179 | 
 | 2022-12-14 | 74 | 180 | 
 | 2022-12-12 | 74 | 180 | 
 | 2022-12-11 | 74 | 179 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 70 | 174 | 
 | 2022-11-17 | 70 | 175 | 
 | 2022-11-16 | 69 | 175 | 
-| 2022-11-15 | 69 | 175 | 
 

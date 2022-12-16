@@ -1,10 +1,10 @@
 # CleverRaven/Cataclysm-DDA - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 16
 
-☋ Forks: 3562
+☋ Forks: 3566
 
-★ Stars: 7866
+★ Stars: 7890
 
 [Open repository](https://github.com/CleverRaven/Cataclysm-DDA)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 7890 | 3566 | 
+| 2022-12-15 | 7890 | 3566 | 
 | 2022-12-13 | 7866 | 3562 | 
 | 2022-12-12 | 7866 | 3561 | 
 | 2022-12-11 | 7865 | 3558 | 
@@ -38,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 7751 | 3527 | 
 | 2022-11-17 | 7750 | 3525 | 
 | 2022-11-16 | 7748 | 3525 | 
-| 2022-11-15 | 7742 | 3524 | 
 

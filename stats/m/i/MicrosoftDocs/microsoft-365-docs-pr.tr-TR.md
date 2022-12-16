@@ -1,10 +1,10 @@
 # MicrosoftDocs/microsoft-365-docs-pr.tr-TR - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 4
 
-★ Stars: 15
+★ Stars: 14
 
 [Open repository](https://github.com/MicrosoftDocs/microsoft-365-docs-pr.tr-TR)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 14 | 4 | 
 | 2022-12-13 | 15 | 4 | 
 | 2022-12-12 | 15 | 4 | 
 | 2022-12-11 | 15 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 13 | 3 | 
 | 2022-11-17 | 13 | 3 | 
 | 2022-11-16 | 13 | 3 | 
-| 2022-11-15 | 13 | 3 | 
 

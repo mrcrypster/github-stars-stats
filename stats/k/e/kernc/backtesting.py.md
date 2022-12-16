@@ -1,10 +1,10 @@
 # kernc/backtesting.py - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 610
 
-★ Stars: 3058
+★ Stars: 3059
 
 [Open repository](https://github.com/kernc/backtesting.py)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 3059 | 610 | 
 | 2022-12-14 | 3058 | 610 | 
 | 2022-12-13 | 3056 | 610 | 
 | 2022-12-12 | 3052 | 610 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 2978 | 597 | 
 | 2022-11-17 | 2976 | 596 | 
 | 2022-11-16 | 2975 | 595 | 
-| 2022-11-15 | 2973 | 594 | 
 

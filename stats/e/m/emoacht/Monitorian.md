@@ -1,6 +1,6 @@
 # emoacht/Monitorian - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 115
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 1950 | 115 | 
 | 2022-12-13 | 1950 | 115 | 
 | 2022-12-12 | 1946 | 115 | 
 | 2022-12-11 | 1946 | 115 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-19 | 1876 | 112 | 
 | 2022-11-18 | 1876 | 112 | 
 | 2022-11-17 | 1875 | 113 | 
-| 2022-11-16 | 1874 | 113 | 
 

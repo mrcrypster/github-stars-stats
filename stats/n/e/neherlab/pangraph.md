@@ -1,10 +1,10 @@
 # neherlab/pangraph - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 4
 
-★ Stars: 41
+★ Stars: 42
 
 [Open repository](https://github.com/neherlab/pangraph)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 42 | 4 | 
 | 2022-12-13 | 41 | 4 | 
 | 2022-12-12 | 40 | 4 | 
 | 2022-12-11 | 40 | 4 | 

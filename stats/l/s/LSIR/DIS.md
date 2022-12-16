@@ -1,10 +1,10 @@
 # LSIR/DIS - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 94
 
-★ Stars: 63
+★ Stars: 64
 
 [Open repository](https://github.com/LSIR/DIS)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 64 | 94 | 
 | 2022-12-13 | 63 | 94 | 
 | 2022-12-12 | 62 | 94 | 
 | 2022-12-11 | 62 | 94 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 61 | 96 | 
 | 2022-11-17 | 60 | 96 | 
 | 2022-11-16 | 60 | 96 | 
-| 2022-11-15 | 60 | 96 | 
 

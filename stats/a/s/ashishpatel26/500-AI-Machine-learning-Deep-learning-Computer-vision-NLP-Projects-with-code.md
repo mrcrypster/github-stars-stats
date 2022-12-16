@@ -1,10 +1,10 @@
 # ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
-☋ Forks: 3351
+☋ Forks: 3349
 
-★ Stars: 11073
+★ Stars: 11081
 
 [Open repository](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 11081 | 3349 | 
 | 2022-12-13 | 11073 | 3351 | 
 | 2022-12-12 | 11067 | 3349 | 
 | 2022-12-11 | 11060 | 3349 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 10822 | 3271 | 
 | 2022-11-17 | 10822 | 3270 | 
 | 2022-11-16 | 10753 | 3247 | 
-| 2022-11-15 | 10737 | 3243 | 
 

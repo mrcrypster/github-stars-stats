@@ -1,10 +1,10 @@
 # 310ken1/AutoItSciTEj - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 11
+☋ Forks: 12
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/310ken1/AutoItSciTEj)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 8 | 12 | 
 | 2022-12-15 | 7 | 11 | 
 | 2022-12-13 | 7 | 11 | 
 | 2022-12-12 | 7 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-18 | 7 | 11 | 
 | 2022-11-17 | 7 | 11 | 
 | 2022-11-16 | 7 | 11 | 
-| 2022-11-15 | 7 | 11 | 
 

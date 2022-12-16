@@ -1,6 +1,6 @@
 # xm1k3/cent - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 89
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 445 | 89 | 
 | 2022-12-14 | 445 | 89 | 
 | 2022-12-13 | 445 | 89 | 
 | 2022-12-12 | 445 | 89 | 

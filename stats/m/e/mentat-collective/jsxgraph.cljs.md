@@ -1,8 +1,8 @@
 # mentat-collective/jsxgraph.cljs - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 14
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 14 | 2 | 
 | 2022-12-14 | 14 | 1 | 
 | 2022-12-13 | 13 | 1 | 
 | 2022-12-12 | 13 | 1 | 

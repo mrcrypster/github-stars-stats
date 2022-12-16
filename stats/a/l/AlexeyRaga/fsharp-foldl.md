@@ -1,10 +1,10 @@
 # AlexeyRaga/fsharp-foldl - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 1
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/AlexeyRaga/fsharp-foldl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 26 | 1 | 
 | 2022-12-14 | 25 | 1 | 
 | 2022-12-13 | 22 | 1 | 
 | 2022-12-12 | 18 | 1 | 

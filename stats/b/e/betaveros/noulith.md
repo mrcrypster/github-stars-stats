@@ -1,10 +1,10 @@
 # betaveros/noulith - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 7
+☋ Forks: 10
 
-★ Stars: 382
+★ Stars: 720
 
 [Open repository](https://github.com/betaveros/noulith)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 720 | 10 | 
 | 2022-12-14 | 382 | 7 | 
 | 2022-12-12 | 324 | 6 | 
 | 2022-12-11 | 307 | 6 | 

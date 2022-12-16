@@ -1,6 +1,6 @@
 # GaiaEverworld/GAIAWhitelist - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 2 | 7 | 
 | 2022-12-14 | 2 | 7 | 
 | 2022-12-12 | 2 | 7 | 
 | 2022-12-11 | 2 | 7 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-19 | 2 | 7 | 
 | 2022-11-18 | 2 | 7 | 
 | 2022-11-17 | 2 | 7 | 
-| 2022-11-16 | 2 | 7 | 
 

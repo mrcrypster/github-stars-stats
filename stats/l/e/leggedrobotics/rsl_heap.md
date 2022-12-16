@@ -1,6 +1,6 @@
 # leggedrobotics/rsl_heap - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 5 | - | 
 | 2022-12-13 | 5 | - | 
 | 2022-12-12 | 5 | - | 
 | 2022-12-11 | 5 | - | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-19 | 5 | - | 
 | 2022-11-18 | 5 | - | 
 | 2022-11-17 | 5 | - | 
-| 2022-11-15 | 5 | - | 
 

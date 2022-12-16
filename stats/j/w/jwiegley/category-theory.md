@@ -1,6 +1,6 @@
 # jwiegley/category-theory - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 672 | 57 | 
 | 2022-12-14 | 672 | 57 | 
 | 2022-12-13 | 672 | 57 | 
 | 2022-12-12 | 672 | 57 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 669 | 57 | 
 | 2022-11-17 | 669 | 57 | 
 | 2022-11-16 | 669 | 57 | 
-| 2022-11-15 | 669 | 57 | 
 

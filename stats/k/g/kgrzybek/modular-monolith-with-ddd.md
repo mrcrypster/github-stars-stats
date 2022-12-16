@@ -1,10 +1,10 @@
 # kgrzybek/modular-monolith-with-ddd - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 1156
 
-★ Stars: 7722
+★ Stars: 7728
 
 [Open repository](https://github.com/kgrzybek/modular-monolith-with-ddd)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 7728 | 1156 | 
 | 2022-12-14 | 7722 | 1156 | 
 | 2022-12-13 | 7717 | 1154 | 
 | 2022-12-11 | 7712 | 1154 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 7601 | 1132 | 
 | 2022-11-17 | 7591 | 1131 | 
 | 2022-11-16 | 7589 | 1130 | 
-| 2022-11-15 | 7586 | 1130 | 
 

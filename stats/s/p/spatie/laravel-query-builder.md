@@ -1,6 +1,6 @@
 # spatie/laravel-query-builder - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 330
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 3476 | 330 | 
 | 2022-12-14 | 3476 | 330 | 
 | 2022-12-13 | 3475 | 330 | 
 | 2022-12-11 | 3472 | 329 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-19 | 3444 | 323 | 
 | 2022-11-17 | 3442 | 323 | 
 | 2022-11-16 | 3440 | 323 | 
-| 2022-11-15 | 3439 | 323 | 
 

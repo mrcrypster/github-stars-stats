@@ -1,10 +1,10 @@
 # binary-com/perl-Data-Validate-Sanctions - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 19
 
-★ Stars: 3
+★ Stars: 2
 
 [Open repository](https://github.com/binary-com/perl-Data-Validate-Sanctions)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 2 | 19 | 
 | 2022-12-14 | 3 | 19 | 
 | 2022-12-13 | 3 | 19 | 
 | 2022-12-12 | 3 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 2 | 20 | 
 | 2022-11-17 | 2 | 20 | 
 | 2022-11-16 | 2 | 20 | 
-| 2022-11-15 | 1 | 20 | 
 

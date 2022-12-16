@@ -1,6 +1,6 @@
 # clojure-finance/clojask - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 88 | 2 | 
 | 2022-12-14 | 88 | 2 | 
 | 2022-12-13 | 88 | 2 | 
 | 2022-12-11 | 88 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 85 | 2 | 
 | 2022-11-17 | 85 | 2 | 
 | 2022-11-16 | 85 | 2 | 
-| 2022-11-15 | 85 | 2 | 
 

@@ -1,6 +1,6 @@
 # maxchehab/CSS-Keylogging - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 444
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 3145 | 444 | 
 | 2022-12-14 | 3145 | 444 | 
 | 2022-12-12 | 3144 | 444 | 
 | 2022-12-11 | 3144 | 444 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 3140 | 444 | 
 | 2022-11-17 | 3140 | 444 | 
 | 2022-11-16 | 3139 | 444 | 
-| 2022-11-15 | 3127 | 444 | 
 

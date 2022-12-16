@@ -1,10 +1,10 @@
 # tobe-fe-dalao/fast-vue3 - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 293
+☋ Forks: 294
 
-★ Stars: 1077
+★ Stars: 1081
 
 [Open repository](https://github.com/tobe-fe-dalao/fast-vue3)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 1081 | 294 | 
 | 2022-12-14 | 1077 | 293 | 
 | 2022-12-13 | 1073 | 292 | 
 | 2022-12-11 | 1071 | 290 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 1015 | 276 | 
 | 2022-11-17 | 1011 | 275 | 
 | 2022-11-16 | 1009 | 273 | 
-| 2022-11-15 | 1007 | 270 | 
 

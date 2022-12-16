@@ -1,10 +1,10 @@
 # openshift/verification-tests - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 151
 
-★ Stars: 46
+★ Stars: 45
 
 [Open repository](https://github.com/openshift/verification-tests)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 45 | 151 | 
 | 2022-12-14 | 46 | 151 | 
 | 2022-12-13 | 46 | 151 | 
 | 2022-12-11 | 46 | 151 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 43 | 152 | 
 | 2022-11-17 | 43 | 152 | 
 | 2022-11-16 | 43 | 152 | 
-| 2022-11-15 | 43 | 152 | 
 

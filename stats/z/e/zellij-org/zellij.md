@@ -1,10 +1,10 @@
 # zellij-org/zellij - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 278
+☋ Forks: 280
 
-★ Stars: 9204
+★ Stars: 9221
 
 [Open repository](https://github.com/zellij-org/zellij)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 9221 | 280 | 
 | 2022-12-14 | 9204 | 278 | 
 | 2022-12-13 | 9188 | 277 | 
 | 2022-12-12 | 9177 | 277 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 8991 | 264 | 
 | 2022-11-17 | 8976 | 264 | 
 | 2022-11-16 | 8967 | 265 | 
-| 2022-11-15 | 8950 | 265 | 
 

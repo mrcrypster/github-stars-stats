@@ -1,10 +1,10 @@
 # gemini-hlsw/explore - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 5
 
-★ Stars: 11
+★ Stars: 10
 
 [Open repository](https://github.com/gemini-hlsw/explore)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 10 | 5 | 
 | 2022-12-14 | 11 | 5 | 
 | 2022-12-13 | 11 | 5 | 
 | 2022-12-12 | 11 | 5 | 

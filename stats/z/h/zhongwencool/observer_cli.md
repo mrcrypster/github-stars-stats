@@ -1,10 +1,10 @@
 # zhongwencool/observer_cli - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 76
 
-★ Stars: 1219
+★ Stars: 1222
 
 [Open repository](https://github.com/zhongwencool/observer_cli)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 1222 | 76 | 
 | 2022-12-14 | 1219 | 76 | 
 | 2022-12-13 | 1219 | 76 | 
 | 2022-12-12 | 1219 | 76 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 1212 | 76 | 
 | 2022-11-17 | 1211 | 76 | 
 | 2022-11-16 | 1210 | 76 | 
-| 2022-11-15 | 1208 | 76 | 
 

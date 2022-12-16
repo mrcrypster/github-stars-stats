@@ -1,10 +1,10 @@
 # knownsec/pocsuite3 - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 735
 
-★ Stars: 2942
+★ Stars: 2946
 
 [Open repository](https://github.com/knownsec/pocsuite3)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 2946 | 735 | 
 | 2022-12-14 | 2942 | 735 | 
 | 2022-12-13 | 2940 | 735 | 
 | 2022-12-11 | 2938 | 733 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 2880 | 723 | 
 | 2022-11-17 | 2878 | 723 | 
 | 2022-11-16 | 2873 | 723 | 
-| 2022-11-15 | 2872 | 723 | 
 

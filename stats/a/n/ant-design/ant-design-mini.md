@@ -1,10 +1,10 @@
 # ant-design/ant-design-mini - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 48
 
-★ Stars: 203
+★ Stars: 204
 
 [Open repository](https://github.com/ant-design/ant-design-mini)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 204 | 48 | 
 | 2022-12-13 | 203 | 48 | 
 | 2022-12-12 | 203 | 48 | 
 | 2022-12-11 | 203 | 48 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 192 | 49 | 
 | 2022-11-17 | 192 | 49 | 
 | 2022-11-16 | 192 | 49 | 
-| 2022-11-15 | 191 | 47 | 
 

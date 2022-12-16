@@ -1,10 +1,10 @@
 # geordi/upr-course - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 3
 
-★ Stars: 22
+★ Stars: 20
 
 [Open repository](https://github.com/geordi/upr-course)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 20 | 3 | 
 | 2022-12-13 | 22 | 3 | 
 | 2022-12-12 | 22 | 3 | 
 | 2022-12-11 | 22 | 3 | 

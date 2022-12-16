@@ -1,10 +1,10 @@
 # superrr-vpn/status - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 1
 
-★ Stars: 7
+★ Stars: 6
 
 [Open repository](https://github.com/superrr-vpn/status)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 6 | 1 | 
 | 2022-12-14 | 7 | 1 | 
 | 2022-12-13 | 7 | 1 | 
 | 2022-12-12 | 7 | 1 | 

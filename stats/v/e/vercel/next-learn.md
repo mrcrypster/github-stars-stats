@@ -1,10 +1,10 @@
 # vercel/next-learn - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 1150
+☋ Forks: 1149
 
-★ Stars: 1620
+★ Stars: 1622
 
 [Open repository](https://github.com/vercel/next-learn)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 1622 | 1149 | 
 | 2022-12-14 | 1620 | 1150 | 
 | 2022-12-13 | 1619 | 1148 | 
 | 2022-12-11 | 1616 | 1148 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-19 | 1599 | 1130 | 
 | 2022-11-17 | 1598 | 1129 | 
 | 2022-11-16 | 1597 | 1129 | 
-| 2022-11-15 | 1594 | 1124 | 
 

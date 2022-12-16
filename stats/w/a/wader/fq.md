@@ -1,10 +1,10 @@
 # wader/fq - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 125
+☋ Forks: 126
 
-★ Stars: 5043
+★ Stars: 5049
 
 [Open repository](https://github.com/wader/fq)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 5049 | 126 | 
 | 2022-12-14 | 5043 | 125 | 
 | 2022-12-12 | 5038 | 125 | 
 | 2022-12-11 | 5037 | 125 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 4573 | 122 | 
 | 2022-11-17 | 4568 | 122 | 
 | 2022-11-16 | 4562 | 122 | 
-| 2022-11-15 | 4560 | 122 | 
 

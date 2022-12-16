@@ -1,10 +1,10 @@
 # mgmeyers/obsidian-zotero-desktop-connector - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 19
 
-★ Stars: 280
+★ Stars: 284
 
 [Open repository](https://github.com/mgmeyers/obsidian-zotero-desktop-connector)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 284 | 19 | 
 | 2022-12-13 | 280 | 19 | 
 | 2022-12-12 | 278 | 19 | 
 | 2022-12-11 | 278 | 19 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 259 | 17 | 
 | 2022-11-17 | 258 | 17 | 
 | 2022-11-16 | 258 | 17 | 
-| 2022-11-15 | 258 | 15 | 
 

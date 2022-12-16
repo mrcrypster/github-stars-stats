@@ -1,10 +1,10 @@
 # sveltejs/sites - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 83
+☋ Forks: 86
 
-★ Stars: 194
+★ Stars: 195
 
 [Open repository](https://github.com/sveltejs/sites)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 195 | 86 | 
 | 2022-12-14 | 194 | 83 | 
 | 2022-12-13 | 194 | 83 | 
 | 2022-12-11 | 194 | 82 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 188 | 79 | 
 | 2022-11-17 | 187 | 79 | 
 | 2022-11-16 | 186 | 79 | 
-| 2022-11-15 | 186 | 79 | 
 

@@ -1,10 +1,10 @@
 # Awesome-HarmonyOS/HarmonyOS - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 3330
+☋ Forks: 3331
 
-★ Stars: 18688
+★ Stars: 18690
 
 [Open repository](https://github.com/Awesome-HarmonyOS/HarmonyOS)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 18690 | 3331 | 
 | 2022-12-15 | 18688 | 3330 | 
 | 2022-12-13 | 18687 | 3330 | 
 | 2022-12-12 | 18680 | 3330 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-18 | 18662 | 3329 | 
 | 2022-11-17 | 18662 | 3328 | 
 | 2022-11-16 | 18661 | 3328 | 
-| 2022-11-15 | 18662 | 3328 | 
 

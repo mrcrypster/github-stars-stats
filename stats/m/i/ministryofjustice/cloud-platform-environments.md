@@ -1,10 +1,10 @@
 # ministryofjustice/cloud-platform-environments - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 23
 
-★ Stars: 37
+★ Stars: 36
 
 [Open repository](https://github.com/ministryofjustice/cloud-platform-environments)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 36 | 23 | 
 | 2022-12-14 | 37 | 23 | 
 | 2022-12-13 | 37 | 23 | 
 | 2022-12-12 | 37 | 23 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-19 | 35 | 23 | 
 | 2022-11-18 | 35 | 23 | 
 | 2022-11-16 | 35 | 23 | 
-| 2022-11-15 | 35 | 23 | 
 

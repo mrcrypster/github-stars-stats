@@ -1,10 +1,10 @@
 # ABausG/home_widget - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 90
 
-★ Stars: 400
+★ Stars: 401
 
 [Open repository](https://github.com/ABausG/home_widget)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 401 | 90 | 
 | 2022-12-14 | 400 | 90 | 
 | 2022-12-12 | 400 | 89 | 
 | 2022-12-11 | 400 | 89 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 398 | 87 | 
 | 2022-11-17 | 398 | 87 | 
 | 2022-11-16 | 398 | 87 | 
-| 2022-11-15 | 397 | 87 | 
 

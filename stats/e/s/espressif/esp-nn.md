@@ -1,10 +1,10 @@
 # espressif/esp-nn - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 10
 
-★ Stars: 51
+★ Stars: 52
 
 [Open repository](https://github.com/espressif/esp-nn)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 52 | 10 | 
 | 2022-12-14 | 51 | 10 | 
 | 2022-12-13 | 49 | 10 | 
 | 2022-12-12 | 49 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 49 | 10 | 
 | 2022-11-17 | 49 | 10 | 
 | 2022-11-16 | 49 | 10 | 
-| 2022-11-15 | 48 | 10 | 
 

@@ -1,10 +1,10 @@
 # robjhyndman/CV - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 65
 
-★ Stars: 76
+★ Stars: 77
 
 [Open repository](https://github.com/robjhyndman/CV)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 77 | 65 | 
 | 2022-12-15 | 76 | 65 | 
 | 2022-12-13 | 77 | 65 | 
 | 2022-12-12 | 77 | 65 | 

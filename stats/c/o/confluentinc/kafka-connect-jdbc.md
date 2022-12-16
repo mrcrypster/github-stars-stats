@@ -1,6 +1,6 @@
 # confluentinc/kafka-connect-jdbc - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 880
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 876 | 880 | 
 | 2022-12-13 | 876 | 880 | 
 | 2022-12-12 | 876 | 881 | 
 | 2022-12-11 | 876 | 881 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 872 | 877 | 
 | 2022-11-17 | 870 | 876 | 
 | 2022-11-16 | 870 | 876 | 
-| 2022-11-15 | 870 | 874 | 
 

@@ -1,10 +1,10 @@
 # restic/restic - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 1233
 
-★ Stars: 18717
+★ Stars: 18727
 
 [Open repository](https://github.com/restic/restic)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 18727 | 1233 | 
 | 2022-12-13 | 18717 | 1233 | 
 | 2022-12-12 | 18703 | 1232 | 
 | 2022-12-11 | 18687 | 1231 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 18494 | 1220 | 
 | 2022-11-17 | 18487 | 1220 | 
 | 2022-11-16 | 18481 | 1220 | 
-| 2022-11-15 | 18469 | 1219 | 
 

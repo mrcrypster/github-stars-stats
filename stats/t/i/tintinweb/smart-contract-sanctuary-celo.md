@@ -1,10 +1,10 @@
 # tintinweb/smart-contract-sanctuary-celo - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 1
 
-★ Stars: 11
+★ Stars: 10
 
 [Open repository](https://github.com/tintinweb/smart-contract-sanctuary-celo)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 10 | 1 | 
 | 2022-12-14 | 11 | 1 | 
 | 2022-12-13 | 11 | 1 | 
 | 2022-12-12 | 11 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 9 | 1 | 
 | 2022-11-17 | 9 | 1 | 
 | 2022-11-16 | 9 | 1 | 
-| 2022-11-15 | 9 | 1 | 
 

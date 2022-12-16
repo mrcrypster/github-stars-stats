@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 15
 
 ☋ Forks: 2716
 
-★ Stars: 9291
+★ Stars: 9293
 
 [Open repository](https://github.com/zh-google-styleguide/zh-google-styleguide)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-15 | 9291 | 2716 | 
+| 2022-12-15 | 9293 | 2716 | 
 | 2022-12-14 | 9292 | 2716 | 
 | 2022-12-13 | 9287 | 2714 | 
 | 2022-12-12 | 9285 | 2714 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-18 | 9226 | 2707 | 
 | 2022-11-17 | 9222 | 2706 | 
 | 2022-11-16 | 9221 | 2705 | 
-| 2022-11-15 | 9220 | 2704 | 
 

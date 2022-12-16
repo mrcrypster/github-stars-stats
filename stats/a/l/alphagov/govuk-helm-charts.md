@@ -1,10 +1,10 @@
 # alphagov/govuk-helm-charts - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 4
 
-★ Stars: 8
+★ Stars: 7
 
 [Open repository](https://github.com/alphagov/govuk-helm-charts)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 7 | 4 | 
 | 2022-12-14 | 8 | 4 | 
 | 2022-12-13 | 8 | 4 | 
 | 2022-12-11 | 8 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 6 | 4 | 
 | 2022-11-17 | 6 | 4 | 
 | 2022-11-16 | 6 | 4 | 
-| 2022-11-15 | 6 | 4 | 
 

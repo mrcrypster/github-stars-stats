@@ -1,8 +1,8 @@
 # Mr-majifu/Animated-Login-Form - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 12
+☋ Forks: 11
 
 ★ Stars: 32
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 32 | 11 | 
 | 2022-12-14 | 32 | 12 | 
 | 2022-12-13 | 32 | 12 | 
 | 2022-12-11 | 31 | 12 | 

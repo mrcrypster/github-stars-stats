@@ -1,10 +1,10 @@
 # DuckOS-GitHub/DuckOS - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 6
 
-★ Stars: 21
+★ Stars: 19
 
 [Open repository](https://github.com/DuckOS-GitHub/DuckOS)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 19 | 6 | 
 | 2022-12-14 | 21 | 6 | 
 | 2022-12-13 | 21 | 6 | 
 | 2022-12-12 | 21 | 6 | 

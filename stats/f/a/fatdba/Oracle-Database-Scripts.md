@@ -1,10 +1,10 @@
 # fatdba/Oracle-Database-Scripts - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 82
 
-★ Stars: 136
+★ Stars: 134
 
 [Open repository](https://github.com/fatdba/Oracle-Database-Scripts)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 134 | 82 | 
 | 2022-12-14 | 136 | 82 | 
 | 2022-12-13 | 129 | 74 | 
 | 2022-12-12 | 126 | 73 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 125 | 73 | 
 | 2022-11-17 | 125 | 73 | 
 | 2022-11-16 | 125 | 73 | 
-| 2022-11-15 | 125 | 73 | 
 

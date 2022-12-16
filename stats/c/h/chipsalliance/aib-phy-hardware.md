@@ -1,6 +1,6 @@
 # chipsalliance/aib-phy-hardware - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 102 | 27 | 
 | 2022-12-15 | 102 | 27 | 
 | 2022-12-13 | 102 | 27 | 
 | 2022-12-12 | 102 | 27 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-18 | 100 | 27 | 
 | 2022-11-17 | 100 | 27 | 
 | 2022-11-16 | 100 | 27 | 
-| 2022-11-15 | 100 | 27 | 
 

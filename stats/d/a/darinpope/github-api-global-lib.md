@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 15
 
 ☋ Forks: 278
 
-★ Stars: 74
+★ Stars: 75
 
 [Open repository](https://github.com/darinpope/github-api-global-lib)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-15 | 74 | 278 | 
+| 2022-12-15 | 75 | 278 | 
 | 2022-12-14 | 74 | 278 | 
 | 2022-12-13 | 74 | 278 | 
 | 2022-12-11 | 73 | 275 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-18 | 70 | 271 | 
 | 2022-11-17 | 70 | 271 | 
 | 2022-11-16 | 70 | 272 | 
-| 2022-11-15 | 70 | 270 | 
 

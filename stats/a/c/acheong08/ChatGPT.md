@@ -1,10 +1,10 @@
 # acheong08/ChatGPT - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 789
+☋ Forks: 825
 
-★ Stars: 7055
+★ Stars: 7255
 
 [Open repository](https://github.com/acheong08/ChatGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 7255 | 825 | 
 | 2022-12-14 | 7055 | 789 | 
 | 2022-12-13 | 6690 | 736 | 
 | 2022-12-12 | 6365 | 693 | 

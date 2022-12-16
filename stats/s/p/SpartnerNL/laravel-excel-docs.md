@@ -1,8 +1,8 @@
 # SpartnerNL/laravel-excel-docs - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 789
+☋ Forks: 790
 
 ★ Stars: 108
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 108 | 790 | 
 | 2022-12-14 | 108 | 789 | 
 | 2022-12-13 | 108 | 787 | 
 | 2022-12-12 | 108 | 787 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 108 | 777 | 
 | 2022-11-17 | 108 | 777 | 
 | 2022-11-16 | 108 | 777 | 
-| 2022-11-15 | 108 | 777 | 
 

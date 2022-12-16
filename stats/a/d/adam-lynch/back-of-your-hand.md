@@ -1,6 +1,6 @@
 # adam-lynch/back-of-your-hand - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 62 | 4 | 
 | 2022-12-13 | 62 | 4 | 
 | 2022-12-12 | 62 | 4 | 
 | 2022-12-11 | 62 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 61 | 4 | 
 | 2022-11-17 | 61 | 4 | 
 | 2022-11-16 | 61 | 4 | 
-| 2022-11-15 | 61 | 4 | 
 

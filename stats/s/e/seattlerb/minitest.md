@@ -1,10 +1,10 @@
 # seattlerb/minitest - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 526
 
-★ Stars: 3094
+★ Stars: 3095
 
 [Open repository](https://github.com/seattlerb/minitest)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 3095 | 526 | 
 | 2022-12-14 | 3094 | 526 | 
 | 2022-12-12 | 3093 | 526 | 
 | 2022-12-11 | 3092 | 526 | 

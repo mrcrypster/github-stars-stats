@@ -1,10 +1,10 @@
 # iv-org/documentation - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 86
 
-★ Stars: 208
+★ Stars: 207
 
 [Open repository](https://github.com/iv-org/documentation)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 207 | 86 | 
 | 2022-12-14 | 208 | 86 | 
 | 2022-12-13 | 208 | 86 | 
 | 2022-12-12 | 207 | 86 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 189 | 81 | 
 | 2022-11-17 | 188 | 81 | 
 | 2022-11-16 | 188 | 81 | 
-| 2022-11-15 | 188 | 81 | 
 

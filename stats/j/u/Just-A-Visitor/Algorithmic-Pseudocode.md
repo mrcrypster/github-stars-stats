@@ -1,6 +1,6 @@
 # Just-A-Visitor/Algorithmic-Pseudocode - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 152
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 660 | 152 | 
 | 2022-12-15 | 660 | 152 | 
 | 2022-12-13 | 659 | 152 | 
 | 2022-12-12 | 659 | 152 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 655 | 152 | 
 | 2022-11-18 | 655 | 152 | 
 | 2022-11-17 | 655 | 152 | 
-| 2022-11-16 | 655 | 152 | 
 

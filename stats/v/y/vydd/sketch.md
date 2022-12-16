@@ -1,10 +1,10 @@
 # vydd/sketch - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 64
 
-★ Stars: 1241
+★ Stars: 1245
 
 [Open repository](https://github.com/vydd/sketch)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 1245 | 64 | 
 | 2022-12-14 | 1241 | 64 | 
 | 2022-12-13 | 1240 | 63 | 
 | 2022-12-11 | 1240 | 63 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 1236 | 63 | 
 | 2022-11-17 | 1236 | 63 | 
 | 2022-11-16 | 1236 | 63 | 
-| 2022-11-15 | 1236 | 63 | 
 

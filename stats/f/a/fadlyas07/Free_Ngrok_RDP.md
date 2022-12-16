@@ -1,10 +1,10 @@
 # fadlyas07/Free_Ngrok_RDP - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 16
 
-☋ Forks: 177
+☋ Forks: 205
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/fadlyas07/Free_Ngrok_RDP)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 1 | 205 | 
+| 2022-12-15 | - | 204 | 
 | 2022-12-14 | - | 177 | 
 | 2022-12-13 | - | 158 | 
 | 2022-12-12 | - | 136 | 

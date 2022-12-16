@@ -1,10 +1,10 @@
 # fluxcd/flux2 - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 426
+☋ Forks: 428
 
-★ Stars: 4199
+★ Stars: 4201
 
 [Open repository](https://github.com/fluxcd/flux2)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 4201 | 428 | 
 | 2022-12-14 | 4199 | 426 | 
 | 2022-12-13 | 4192 | 425 | 
 | 2022-12-12 | 4192 | 425 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 4067 | 419 | 
 | 2022-11-17 | 4058 | 419 | 
 | 2022-11-16 | 4047 | 418 | 
-| 2022-11-15 | 4040 | 416 | 
 

@@ -1,6 +1,6 @@
 # membraneframework/membrane_core - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 888 | 22 | 
 | 2022-12-14 | 888 | 22 | 
 | 2022-12-13 | 888 | 22 | 
 | 2022-12-12 | 888 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 876 | 22 | 
 | 2022-11-17 | 875 | 22 | 
 | 2022-11-16 | 875 | 23 | 
-| 2022-11-15 | 875 | 23 | 
 

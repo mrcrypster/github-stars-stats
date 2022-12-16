@@ -1,6 +1,6 @@
 # docat-org/docat - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 525 | 27 | 
 | 2022-12-14 | 525 | 27 | 
 | 2022-12-13 | 524 | 27 | 
 | 2022-12-12 | 524 | 27 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-19 | 512 | 27 | 
 | 2022-11-17 | 512 | 27 | 
 | 2022-11-16 | 512 | 27 | 
-| 2022-11-15 | 510 | 27 | 
 

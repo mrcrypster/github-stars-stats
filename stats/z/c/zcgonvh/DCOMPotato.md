@@ -1,8 +1,8 @@
 # zcgonvh/DCOMPotato - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 23
+☋ Forks: 24
 
 ★ Stars: 178
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 178 | 24 | 
 | 2022-12-14 | 178 | 23 | 
 | 2022-12-13 | 175 | 21 | 
 | 2022-12-12 | 156 | 18 | 

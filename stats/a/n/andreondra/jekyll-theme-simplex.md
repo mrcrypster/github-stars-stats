@@ -1,8 +1,8 @@
 # andreondra/jekyll-theme-simplex - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 56
+☋ Forks: 55
 
 ★ Stars: 48
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 48 | 55 | 
 | 2022-12-14 | 48 | 56 | 
 | 2022-12-13 | 48 | 56 | 
 | 2022-12-11 | 48 | 56 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 46 | 56 | 
 | 2022-11-17 | 46 | 56 | 
 | 2022-11-16 | 46 | 56 | 
-| 2022-11-15 | 46 | 56 | 
 

@@ -1,6 +1,6 @@
 # aphyr/dom-top - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 166 | 7 | 
 | 2022-12-14 | 166 | 7 | 
 | 2022-12-13 | 166 | 7 | 
 | 2022-12-12 | 165 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 145 | 6 | 
 | 2022-11-17 | 145 | 6 | 
 | 2022-11-16 | 145 | 6 | 
-| 2022-11-15 | 145 | 6 | 
 

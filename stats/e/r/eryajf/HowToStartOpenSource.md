@@ -1,10 +1,10 @@
 # eryajf/HowToStartOpenSource - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 51
 
-★ Stars: 819
+★ Stars: 818
 
 [Open repository](https://github.com/eryajf/HowToStartOpenSource)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 818 | 51 | 
 | 2022-12-14 | 819 | 51 | 
 | 2022-12-13 | 819 | 51 | 
 | 2022-12-11 | 817 | 49 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 813 | 47 | 
 | 2022-11-17 | 813 | 47 | 
 | 2022-11-16 | 813 | 47 | 
-| 2022-11-15 | 813 | 47 | 
 

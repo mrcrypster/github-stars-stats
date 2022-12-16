@@ -1,6 +1,6 @@
 # mattn/webapi-vim - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 666 | 65 | 
 | 2022-12-14 | 666 | 65 | 
 | 2022-12-13 | 666 | 65 | 
 | 2022-12-12 | 666 | 65 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 664 | 65 | 
 | 2022-11-17 | 664 | 65 | 
 | 2022-11-16 | 664 | 65 | 
-| 2022-11-15 | 664 | 65 | 
 

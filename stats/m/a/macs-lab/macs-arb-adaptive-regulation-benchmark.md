@@ -1,6 +1,6 @@
 # macs-lab/macs-arb-adaptive-regulation-benchmark - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 4 | 16 | 
 | 2022-12-13 | 4 | 16 | 
 | 2022-12-12 | 4 | 16 | 
 | 2022-12-11 | 4 | 16 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 4 | 16 | 
 | 2022-11-17 | 4 | 16 | 
 | 2022-11-16 | 4 | 16 | 
-| 2022-11-15 | 4 | 16 | 
 

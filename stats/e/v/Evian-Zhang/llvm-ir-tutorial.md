@@ -1,6 +1,6 @@
 # Evian-Zhang/llvm-ir-tutorial - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 97
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 760 | 97 | 
 | 2022-12-13 | 760 | 97 | 
 | 2022-12-12 | 760 | 97 | 
 | 2022-12-11 | 760 | 97 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 740 | 96 | 
 | 2022-11-17 | 735 | 95 | 
 | 2022-11-16 | 734 | 95 | 
-| 2022-11-15 | 734 | 95 | 
 

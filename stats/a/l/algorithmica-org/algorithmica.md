@@ -1,10 +1,10 @@
 # algorithmica-org/algorithmica - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 163
+☋ Forks: 164
 
-★ Stars: 1270
+★ Stars: 1272
 
 [Open repository](https://github.com/algorithmica-org/algorithmica)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 1272 | 164 | 
 | 2022-12-14 | 1270 | 163 | 
 | 2022-12-12 | 1264 | 162 | 
 | 2022-12-11 | 1264 | 162 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 1209 | 159 | 
 | 2022-11-17 | 1209 | 158 | 
 | 2022-11-16 | 1207 | 158 | 
-| 2022-11-15 | 1208 | 158 | 
 

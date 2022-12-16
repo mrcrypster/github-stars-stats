@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 15
 
 ☋ Forks: 804
 
-★ Stars: 3674
+★ Stars: 3678
 
 [Open repository](https://github.com/StarRocks/starrocks)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-15 | 3674 | 804 | 
+| 2022-12-15 | 3678 | 804 | 
 | 2022-12-14 | 3675 | 804 | 
 | 2022-12-13 | 3670 | 803 | 
 | 2022-12-12 | 3668 | 803 | 

@@ -1,6 +1,6 @@
 # arviz-devs/InferenceObjects.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 15 | - | 
 | 2022-12-14 | 15 | - | 
 | 2022-12-13 | 15 | - | 
 | 2022-12-12 | 15 | - | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-19 | 13 | - | 
 | 2022-11-18 | 13 | - | 
 | 2022-11-17 | 13 | - | 
-| 2022-11-16 | 13 | - | 
 

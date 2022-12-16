@@ -1,10 +1,10 @@
 # champ-oss/terraform-aws-alb - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 0
 
-★ Stars: 2
+★ Stars: 1
 
 [Open repository](https://github.com/champ-oss/terraform-aws-alb)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 1 | - | 
 | 2022-12-14 | 2 | - | 
 | 2022-12-13 | 1 | - | 
 | 2022-12-12 | 1 | - | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-19 | - | - | 
 | 2022-11-18 | - | - | 
 | 2022-11-17 | - | - | 
-| 2022-11-16 | - | - | 
 

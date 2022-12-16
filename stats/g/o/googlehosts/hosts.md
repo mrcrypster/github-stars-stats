@@ -1,10 +1,10 @@
 # googlehosts/hosts - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
-☋ Forks: 10734
+☋ Forks: 10736
 
-★ Stars: 20929
+★ Stars: 20928
 
 [Open repository](https://github.com/googlehosts/hosts)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 20928 | 10736 | 
 | 2022-12-13 | 20929 | 10734 | 
 | 2022-12-12 | 20926 | 10734 | 
 | 2022-12-11 | 20926 | 10734 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 20905 | 10735 | 
 | 2022-11-17 | 20905 | 10735 | 
 | 2022-11-16 | 20903 | 10734 | 
-| 2022-11-15 | 20899 | 10733 | 
 

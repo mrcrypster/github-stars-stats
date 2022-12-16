@@ -1,6 +1,6 @@
 # duilib/duilib - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 1899
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 5132 | 1899 | 
 | 2022-12-14 | 5132 | 1899 | 
 | 2022-12-13 | 5126 | 1898 | 
 | 2022-12-12 | 5126 | 1898 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 5103 | 1890 | 
 | 2022-11-17 | 5102 | 1890 | 
 | 2022-11-16 | 5102 | 1889 | 
-| 2022-11-15 | 5101 | 1889 | 
 

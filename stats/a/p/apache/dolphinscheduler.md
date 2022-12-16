@@ -1,10 +1,10 @@
 # apache/dolphinscheduler - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 3542
 
-★ Stars: 9511
+★ Stars: 9519
 
 [Open repository](https://github.com/apache/dolphinscheduler)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 9519 | 3542 | 
 | 2022-12-14 | 9511 | 3542 | 
 | 2022-12-13 | 9505 | 3538 | 
 | 2022-12-12 | 9496 | 3534 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 9396 | 3483 | 
 | 2022-11-17 | 9392 | 3479 | 
 | 2022-11-16 | 9385 | 3475 | 
-| 2022-11-15 | 9380 | 3469 | 
 

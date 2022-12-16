@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 15
 
 ☋ Forks: 577
 
-★ Stars: 855
+★ Stars: 854
 
 [Open repository](https://github.com/juliuscanute/qr_code_scanner)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-15 | 855 | 577 | 
+| 2022-12-15 | 854 | 577 | 
 | 2022-12-14 | 855 | 577 | 
 | 2022-12-13 | 855 | 576 | 
 | 2022-12-12 | 855 | 576 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 854 | 565 | 
 | 2022-11-18 | 854 | 564 | 
 | 2022-11-17 | 854 | 563 | 
-| 2022-11-16 | 854 | 563 | 
 

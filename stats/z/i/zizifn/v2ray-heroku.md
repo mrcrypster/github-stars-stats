@@ -1,10 +1,10 @@
 # zizifn/v2ray-heroku - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 4485
+☋ Forks: 4489
 
-★ Stars: 465
+★ Stars: 470
 
 [Open repository](https://github.com/zizifn/v2ray-heroku)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 470 | 4489 | 
 | 2022-12-14 | 465 | 4485 | 
 | 2022-12-12 | 465 | 4479 | 
 | 2022-12-11 | 462 | 4474 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 449 | 4447 | 
 | 2022-11-17 | 449 | 4448 | 
 | 2022-11-16 | 449 | 4446 | 
-| 2022-11-15 | 449 | 4447 | 
 

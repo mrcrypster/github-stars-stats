@@ -1,10 +1,10 @@
 # creativetimofficial/paper-kit-react - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 118
 
-★ Stars: 123
+★ Stars: 124
 
 [Open repository](https://github.com/creativetimofficial/paper-kit-react)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 124 | 118 | 
 | 2022-12-13 | 123 | 118 | 
 | 2022-12-12 | 123 | 118 | 
 | 2022-12-11 | 123 | 117 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 123 | 104 | 
 | 2022-11-17 | 123 | 104 | 
 | 2022-11-16 | 123 | 104 | 
-| 2022-11-15 | 123 | 104 | 
 

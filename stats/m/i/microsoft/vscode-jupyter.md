@@ -1,10 +1,10 @@
 # microsoft/vscode-jupyter - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 187
 
-★ Stars: 842
+★ Stars: 843
 
 [Open repository](https://github.com/microsoft/vscode-jupyter)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 843 | 187 | 
 | 2022-12-14 | 842 | 187 | 
 | 2022-12-12 | 841 | 187 | 
 | 2022-12-11 | 841 | 187 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 816 | 181 | 
 | 2022-11-17 | 812 | 181 | 
 | 2022-11-16 | 808 | 181 | 
-| 2022-11-15 | 808 | 178 | 
 

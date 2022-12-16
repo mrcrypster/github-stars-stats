@@ -1,10 +1,10 @@
 # songshangru/BIT-CS-Learning - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 43
 
-★ Stars: 86
+★ Stars: 87
 
 [Open repository](https://github.com/songshangru/BIT-CS-Learning)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 87 | 43 | 
 | 2022-12-14 | 86 | 43 | 
 | 2022-12-12 | 85 | 43 | 
 | 2022-12-11 | 85 | 43 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 74 | 41 | 
 | 2022-11-17 | 73 | 41 | 
 | 2022-11-16 | 73 | 41 | 
-| 2022-11-15 | 73 | 41 | 
 

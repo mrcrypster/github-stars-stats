@@ -1,10 +1,10 @@
 # fineanmol/Hacktoberfest2022 - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 4920
+☋ Forks: 4918
 
-★ Stars: 1357
+★ Stars: 1356
 
 [Open repository](https://github.com/fineanmol/Hacktoberfest2022)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 1356 | 4918 | 
 | 2022-12-14 | 1357 | 4920 | 
 | 2022-12-13 | 1357 | 4924 | 
 | 2022-12-12 | 1358 | 4926 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-19 | 1371 | 4994 | 
 | 2022-11-18 | 1371 | 4997 | 
 | 2022-11-17 | 1370 | 4998 | 
-| 2022-11-15 | 1370 | 5002 | 
 

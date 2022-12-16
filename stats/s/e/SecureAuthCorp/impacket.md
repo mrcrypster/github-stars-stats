@@ -1,10 +1,10 @@
 # SecureAuthCorp/impacket - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
-☋ Forks: 2963
+☋ Forks: 2966
 
-★ Stars: 10273
+★ Stars: 10288
 
 [Open repository](https://github.com/SecureAuthCorp/impacket)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 10288 | 2966 | 
 | 2022-12-13 | 10273 | 2963 | 
 | 2022-12-12 | 10268 | 2959 | 
 | 2022-12-11 | 10261 | 2956 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 10133 | 2929 | 
 | 2022-11-17 | 10129 | 2926 | 
 | 2022-11-16 | 10127 | 2924 | 
-| 2022-11-15 | 10121 | 2922 | 
 

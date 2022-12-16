@@ -1,10 +1,10 @@
 # GoogleContainerTools/distroless - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 823
 
-★ Stars: 14381
+★ Stars: 14387
 
 [Open repository](https://github.com/GoogleContainerTools/distroless)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 14387 | 823 | 
 | 2022-12-14 | 14381 | 823 | 
 | 2022-12-13 | 14377 | 823 | 
 | 2022-12-12 | 14372 | 822 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 14234 | 814 | 
 | 2022-11-17 | 14223 | 814 | 
 | 2022-11-16 | 14212 | 814 | 
-| 2022-11-15 | 14197 | 813 | 
 

@@ -1,6 +1,6 @@
 # ruitunion/open-letter-to-mishustin - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 95
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 55 | 95 | 
 | 2022-12-14 | 55 | 95 | 
 | 2022-12-13 | 55 | 95 | 
 | 2022-12-12 | 55 | 95 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-19 | 55 | 96 | 
 | 2022-11-18 | 55 | 96 | 
 | 2022-11-17 | 55 | 96 | 
-| 2022-11-16 | 55 | 96 | 
 

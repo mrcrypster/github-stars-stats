@@ -1,6 +1,6 @@
 # souvikg544/exploratory_data_analysis - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 78
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 26 | 78 | 
 | 2022-12-15 | 26 | 78 | 
 | 2022-12-13 | 26 | 79 | 
 | 2022-12-12 | 26 | 79 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-18 | 26 | 79 | 
 | 2022-11-17 | 26 | 79 | 
 | 2022-11-16 | 26 | 79 | 
-| 2022-11-15 | 26 | 79 | 
 

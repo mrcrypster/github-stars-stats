@@ -1,10 +1,10 @@
 # kubernetes-sigs/kubebuilder - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
-☋ Forks: 1183
+☋ Forks: 1184
 
-★ Stars: 5900
+★ Stars: 5909
 
 [Open repository](https://github.com/kubernetes-sigs/kubebuilder)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 5909 | 1184 | 
 | 2022-12-13 | 5900 | 1183 | 
 | 2022-12-12 | 5898 | 1181 | 
 | 2022-12-11 | 5894 | 1180 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 5830 | 1167 | 
 | 2022-11-17 | 5827 | 1167 | 
 | 2022-11-16 | 5825 | 1165 | 
-| 2022-11-15 | 5818 | 1162 | 
 

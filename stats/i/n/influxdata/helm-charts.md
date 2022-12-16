@@ -1,8 +1,8 @@
 # influxdata/helm-charts - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 294
+☋ Forks: 293
 
 ★ Stars: 170
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 170 | 293 | 
 | 2022-12-14 | 170 | 294 | 
 | 2022-12-12 | 170 | 293 | 
 | 2022-12-11 | 170 | 293 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 169 | 289 | 
 | 2022-11-17 | 169 | 289 | 
 | 2022-11-16 | 169 | 289 | 
-| 2022-11-15 | 169 | 289 | 
 

@@ -1,10 +1,10 @@
 # Homebrew/brew - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 8333
 
-★ Stars: 34296
+★ Stars: 34312
 
 [Open repository](https://github.com/Homebrew/brew)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 34312 | 8333 | 
 | 2022-12-14 | 34296 | 8333 | 
 | 2022-12-13 | 34294 | 8333 | 
 | 2022-12-12 | 34285 | 8326 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 34034 | 8248 | 
 | 2022-11-17 | 34030 | 8242 | 
 | 2022-11-16 | 34012 | 8232 | 
-| 2022-11-15 | 34000 | 8237 | 
 

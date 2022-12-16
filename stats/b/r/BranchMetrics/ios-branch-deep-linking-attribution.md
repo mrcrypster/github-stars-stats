@@ -1,10 +1,10 @@
 # BranchMetrics/ios-branch-deep-linking-attribution - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 217
 
-★ Stars: 681
+★ Stars: 680
 
 [Open repository](https://github.com/BranchMetrics/ios-branch-deep-linking-attribution)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 680 | 217 | 
 | 2022-12-14 | 681 | 217 | 
 | 2022-12-13 | 681 | 217 | 
 | 2022-12-12 | 681 | 217 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 676 | 218 | 
 | 2022-11-17 | 676 | 218 | 
 | 2022-11-16 | 676 | 218 | 
-| 2022-11-15 | 675 | 218 | 
 

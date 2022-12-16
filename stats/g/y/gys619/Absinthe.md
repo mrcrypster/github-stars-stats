@@ -1,10 +1,10 @@
 # gys619/Absinthe - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 625
+☋ Forks: 626
 
-★ Stars: 1061
+★ Stars: 1063
 
 [Open repository](https://github.com/gys619/Absinthe)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 1063 | 626 | 
 | 2022-12-14 | 1061 | 625 | 
 | 2022-12-13 | 1061 | 625 | 
 | 2022-12-12 | 1060 | 625 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 1046 | 625 | 
 | 2022-11-17 | 1044 | 626 | 
 | 2022-11-16 | 1044 | 626 | 
-| 2022-11-15 | 1044 | 625 | 
 

@@ -1,10 +1,10 @@
 # Botspot/pi-apps - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 158
+☋ Forks: 160
 
-★ Stars: 1094
+★ Stars: 1098
 
 [Open repository](https://github.com/Botspot/pi-apps)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 1098 | 160 | 
 | 2022-12-14 | 1094 | 158 | 
 | 2022-12-13 | 1094 | 158 | 
 | 2022-12-12 | 1093 | 158 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 1071 | 157 | 
 | 2022-11-17 | 1068 | 157 | 
 | 2022-11-16 | 1067 | 157 | 
-| 2022-11-15 | 1066 | 158 | 
 

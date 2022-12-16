@@ -1,6 +1,6 @@
 # rhobs/configuration - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 22 | 44 | 
 | 2022-12-14 | 22 | 44 | 
 | 2022-12-13 | 22 | 44 | 
 | 2022-12-12 | 22 | 44 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 22 | 43 | 
 | 2022-11-17 | 22 | 43 | 
 | 2022-11-16 | 22 | 42 | 
-| 2022-11-15 | 22 | 42 | 
 

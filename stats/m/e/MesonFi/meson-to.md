@@ -1,6 +1,6 @@
 # MesonFi/meson-to - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 137 | 25 | 
 | 2022-12-14 | 137 | 25 | 
 | 2022-12-12 | 137 | 25 | 
 | 2022-12-11 | 137 | 25 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 137 | 25 | 
 | 2022-11-17 | 137 | 25 | 
 | 2022-11-16 | 137 | 25 | 
-| 2022-11-15 | 137 | 25 | 
 

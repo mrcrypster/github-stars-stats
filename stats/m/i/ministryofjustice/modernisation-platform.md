@@ -1,10 +1,10 @@
 # ministryofjustice/modernisation-platform - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 137
 
-★ Stars: 310
+★ Stars: 309
 
 [Open repository](https://github.com/ministryofjustice/modernisation-platform)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 309 | 137 | 
 | 2022-12-14 | 310 | 137 | 
 | 2022-12-13 | 310 | 137 | 
 | 2022-12-12 | 309 | 137 | 

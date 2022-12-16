@@ -1,10 +1,10 @@
 # johnno1962/InjectionIII - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 275
+☋ Forks: 277
 
-★ Stars: 3369
+★ Stars: 3371
 
 [Open repository](https://github.com/johnno1962/InjectionIII)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 3371 | 277 | 
 | 2022-12-14 | 3369 | 275 | 
 | 2022-12-13 | 3368 | 275 | 
 | 2022-12-11 | 3367 | 275 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 3341 | 272 | 
 | 2022-11-17 | 3340 | 272 | 
 | 2022-11-16 | 3338 | 272 | 
-| 2022-11-15 | 3337 | 272 | 
 

@@ -1,10 +1,10 @@
 # pjreddie/darknet - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 16
 
-☋ Forks: 20838
+☋ Forks: 20844
 
-★ Stars: 23628
+★ Stars: 23643
 
 [Open repository](https://github.com/pjreddie/darknet)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 23643 | 20844 | 
+| 2022-12-15 | 23641 | 20844 | 
 | 2022-12-14 | 23628 | 20838 | 
 | 2022-12-13 | 23618 | 20831 | 
 | 2022-12-11 | 23609 | 20826 | 
@@ -40,5 +42,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 23517 | 20718 | 
 | 2022-11-17 | 23516 | 20712 | 
 | 2022-11-16 | 23508 | 20707 | 
-| 2022-11-15 | 23505 | 20698 | 
 

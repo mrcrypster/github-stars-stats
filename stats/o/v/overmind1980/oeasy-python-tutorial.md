@@ -1,10 +1,10 @@
 # overmind1980/oeasy-python-tutorial - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 308
+☋ Forks: 312
 
-★ Stars: 676
+★ Stars: 678
 
 [Open repository](https://github.com/overmind1980/oeasy-python-tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 678 | 312 | 
 | 2022-12-14 | 676 | 308 | 
 | 2022-12-12 | 669 | 303 | 
 | 2022-12-11 | 666 | 301 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 602 | 259 | 
 | 2022-11-17 | 595 | 255 | 
 | 2022-11-16 | 589 | 253 | 
-| 2022-11-15 | 581 | 245 | 
 

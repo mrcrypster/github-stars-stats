@@ -1,10 +1,10 @@
 # qewer33/leaf-kde - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 1
 
-★ Stars: 48
+★ Stars: 49
 
 [Open repository](https://github.com/qewer33/leaf-kde)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 49 | 1 | 
 | 2022-12-13 | 48 | 1 | 
 | 2022-12-12 | 48 | 1 | 
 | 2022-12-11 | 48 | 1 | 

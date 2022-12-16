@@ -1,10 +1,10 @@
 # datreeio/CRDs-catalog - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 12
 
-★ Stars: 158
+★ Stars: 159
 
 [Open repository](https://github.com/datreeio/CRDs-catalog)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 159 | 12 | 
 | 2022-12-14 | 158 | 12 | 
 | 2022-12-13 | 158 | 12 | 
 | 2022-12-12 | 157 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 130 | 8 | 
 | 2022-11-17 | 100 | 7 | 
 | 2022-11-16 | 91 | 6 | 
-| 2022-11-15 | 91 | 6 | 
 

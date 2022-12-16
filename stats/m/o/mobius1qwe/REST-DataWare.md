@@ -1,8 +1,8 @@
 # mobius1qwe/REST-DataWare - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 23
+☋ Forks: 24
 
 ★ Stars: 105
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 105 | 24 | 
 | 2022-12-14 | 105 | 23 | 
 | 2022-12-13 | 105 | 23 | 
 | 2022-12-12 | 105 | 23 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 103 | 22 | 
 | 2022-11-17 | 102 | 22 | 
 | 2022-11-16 | 102 | 22 | 
-| 2022-11-15 | 102 | 22 | 
 

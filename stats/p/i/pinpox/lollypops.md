@@ -1,10 +1,10 @@
 # pinpox/lollypops - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 7
 
-★ Stars: 55
+★ Stars: 56
 
 [Open repository](https://github.com/pinpox/lollypops)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 56 | 7 | 
 | 2022-12-14 | 55 | 7 | 
 | 2022-12-13 | 55 | 7 | 
 | 2022-12-11 | 55 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-19 | 50 | 6 | 
 | 2022-11-18 | 50 | 6 | 
 | 2022-11-16 | 50 | 6 | 
-| 2022-11-15 | 50 | 6 | 
 

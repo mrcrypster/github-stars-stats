@@ -1,6 +1,6 @@
 # riatelab/mapiso - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 31 | 2 | 
 | 2022-12-14 | 31 | 2 | 
 | 2022-12-13 | 31 | 2 | 
 | 2022-12-12 | 31 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 31 | 2 | 
 | 2022-11-17 | 31 | 2 | 
 | 2022-11-16 | 31 | 2 | 
-| 2022-11-15 | 31 | 2 | 
 

@@ -1,6 +1,6 @@
 # firebase/FirebaseUI-iOS - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 496
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 1419 | 496 | 
 | 2022-12-14 | 1419 | 496 | 
 | 2022-12-12 | 1419 | 496 | 
 | 2022-12-11 | 1419 | 495 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 1414 | 493 | 
 | 2022-11-17 | 1414 | 493 | 
 | 2022-11-16 | 1414 | 493 | 
-| 2022-11-15 | 1414 | 493 | 
 

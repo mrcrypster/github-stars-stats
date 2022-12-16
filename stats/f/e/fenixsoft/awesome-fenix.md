@@ -1,10 +1,10 @@
 # fenixsoft/awesome-fenix - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 817
 
-★ Stars: 6820
+★ Stars: 6823
 
 [Open repository](https://github.com/fenixsoft/awesome-fenix)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 6823 | 817 | 
 | 2022-12-14 | 6820 | 817 | 
 | 2022-12-13 | 6810 | 816 | 
 | 2022-12-12 | 6810 | 815 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 6735 | 803 | 
 | 2022-11-17 | 6730 | 802 | 
 | 2022-11-16 | 6728 | 802 | 
-| 2022-11-15 | 6719 | 802 | 
 

@@ -1,8 +1,8 @@
 # dbolya/yolact - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 1249
+☋ Forks: 1248
 
 ★ Stars: 4552
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 4552 | 1248 | 
 | 2022-12-14 | 4552 | 1249 | 
 | 2022-12-13 | 4551 | 1248 | 
 | 2022-12-11 | 4551 | 1248 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 4533 | 1239 | 
 | 2022-11-17 | 4534 | 1240 | 
 | 2022-11-16 | 4535 | 1240 | 
-| 2022-11-15 | 4535 | 1239 | 
 

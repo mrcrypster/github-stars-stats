@@ -1,6 +1,6 @@
 # ohnogaurav/HtmlProject - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 3 | 18 | 
 | 2022-12-14 | 3 | 18 | 
 | 2022-12-13 | 3 | 17 | 
 | 2022-12-12 | 3 | 17 | 

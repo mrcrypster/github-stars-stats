@@ -1,8 +1,8 @@
 # xiaozaa/BatchMintContract - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 57
+☋ Forks: 58
 
 ★ Stars: 68
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 68 | 58 | 
 | 2022-12-14 | 68 | 57 | 
 | 2022-12-12 | 68 | 57 | 
 | 2022-12-11 | 68 | 57 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 68 | 57 | 
 | 2022-11-17 | 68 | 57 | 
 | 2022-11-16 | 67 | 55 | 
-| 2022-11-15 | 67 | 55 | 
 

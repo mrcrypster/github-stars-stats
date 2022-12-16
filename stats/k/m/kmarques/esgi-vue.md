@@ -1,10 +1,10 @@
 # kmarques/esgi-vue - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 10
+☋ Forks: 12
 
-★ Stars: 2
+★ Stars: 1
 
 [Open repository](https://github.com/kmarques/esgi-vue)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 1 | 12 | 
 | 2022-12-14 | 2 | 10 | 
 | 2022-12-13 | 1 | 10 | 
 | 2022-12-11 | 1 | 10 | 

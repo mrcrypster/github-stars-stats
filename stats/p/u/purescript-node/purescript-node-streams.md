@@ -1,6 +1,6 @@
 # purescript-node/purescript-node-streams - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 19 | 22 | 
 | 2022-12-13 | 19 | 22 | 
 | 2022-12-12 | 19 | 22 | 
 | 2022-12-11 | 19 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 19 | 22 | 
 | 2022-11-17 | 19 | 22 | 
 | 2022-11-16 | 19 | 22 | 
-| 2022-11-15 | 19 | 22 | 
 

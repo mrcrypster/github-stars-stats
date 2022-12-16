@@ -1,10 +1,10 @@
 # zvonimirr/tenantee - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 5
 
-★ Stars: 14
+★ Stars: 13
 
 [Open repository](https://github.com/zvonimirr/tenantee)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 13 | 5 | 
 | 2022-12-14 | 14 | 5 | 
 | 2022-12-13 | 14 | 5 | 
 | 2022-12-12 | 14 | 5 | 

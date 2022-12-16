@@ -1,10 +1,10 @@
 # SpyGuard/SpyGuard - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 19
 
-★ Stars: 207
+★ Stars: 208
 
 [Open repository](https://github.com/SpyGuard/SpyGuard)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 208 | 19 | 
 | 2022-12-14 | 207 | 19 | 
 | 2022-12-13 | 207 | 19 | 
 | 2022-12-12 | 207 | 19 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 160 | 17 | 
 | 2022-11-17 | 156 | 17 | 
 | 2022-11-16 | 151 | 17 | 
-| 2022-11-15 | 147 | 17 | 
 

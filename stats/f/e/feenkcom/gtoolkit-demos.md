@@ -1,10 +1,10 @@
 # feenkcom/gtoolkit-demos - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 9
 
-★ Stars: 7
+★ Stars: 6
 
 [Open repository](https://github.com/feenkcom/gtoolkit-demos)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 6 | 9 | 
 | 2022-12-14 | 7 | 9 | 
 | 2022-12-13 | 7 | 9 | 
 | 2022-12-12 | 7 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 6 | 9 | 
 | 2022-11-17 | 6 | 9 | 
 | 2022-11-16 | 5 | 8 | 
-| 2022-11-15 | 5 | 8 | 
 

@@ -1,10 +1,10 @@
 # Deci-AI/super-gradients - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 50
 
-★ Stars: 602
+★ Stars: 601
 
 [Open repository](https://github.com/Deci-AI/super-gradients)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 601 | 50 | 
 | 2022-12-14 | 602 | 50 | 
 | 2022-12-13 | 600 | 50 | 
 | 2022-12-12 | 600 | 49 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 488 | 46 | 
 | 2022-11-17 | 488 | 46 | 
 | 2022-11-16 | 488 | 46 | 
-| 2022-11-15 | 487 | 46 | 
 

@@ -1,10 +1,10 @@
 # derailed/k9s - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 1205
+☋ Forks: 1206
 
-★ Stars: 18878
+★ Stars: 18886
 
 [Open repository](https://github.com/derailed/k9s)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 18886 | 1206 | 
 | 2022-12-14 | 18878 | 1205 | 
 | 2022-12-13 | 18865 | 1204 | 
 | 2022-12-12 | 18858 | 1203 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-19 | 18638 | 1184 | 
 | 2022-11-18 | 18624 | 1183 | 
 | 2022-11-17 | 18620 | 1183 | 
-| 2022-11-16 | 18589 | 1179 | 
 

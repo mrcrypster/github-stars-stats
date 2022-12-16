@@ -1,10 +1,10 @@
 # MalGamy/YARA_Rules - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
-☋ Forks: 7
+☋ Forks: 8
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/MalGamy/YARA_Rules)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 35 | 8 | 
 | 2022-12-13 | 34 | 7 | 
 | 2022-12-12 | 32 | 7 | 
 | 2022-12-11 | 32 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 19 | 6 | 
 | 2022-11-17 | 18 | 6 | 
 | 2022-11-16 | 13 | 4 | 
-| 2022-11-15 | 13 | 4 | 
 

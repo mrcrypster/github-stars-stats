@@ -1,10 +1,10 @@
 # Web-n-Composite/crypto-risk-scoring - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 105
 
-★ Stars: 102
+★ Stars: 101
 
 [Open repository](https://github.com/Web-n-Composite/crypto-risk-scoring)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 101 | 105 | 
 | 2022-12-13 | 102 | 105 | 
 | 2022-12-12 | 102 | 105 | 
 | 2022-12-11 | 102 | 105 | 

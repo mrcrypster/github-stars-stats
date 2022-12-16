@@ -1,10 +1,10 @@
 # balena-os/balena-jetson-wnb - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 2
 
-★ Stars: 3
+★ Stars: 2
 
 [Open repository](https://github.com/balena-os/balena-jetson-wnb)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 2 | 2 | 
+| 2022-12-15 | 2 | 2 | 
 | 2022-12-14 | 3 | 2 | 
 | 2022-12-13 | 3 | 2 | 
 | 2022-12-12 | 3 | 2 | 

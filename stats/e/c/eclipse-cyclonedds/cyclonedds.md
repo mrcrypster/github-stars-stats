@@ -1,10 +1,10 @@
 # eclipse-cyclonedds/cyclonedds - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 243
 
-★ Stars: 511
+★ Stars: 512
 
 [Open repository](https://github.com/eclipse-cyclonedds/cyclonedds)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 512 | 243 | 
 | 2022-12-14 | 511 | 243 | 
 | 2022-12-12 | 511 | 244 | 
 | 2022-12-11 | 511 | 243 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 501 | 236 | 
 | 2022-11-17 | 501 | 236 | 
 | 2022-11-16 | 500 | 235 | 
-| 2022-11-15 | 499 | 235 | 
 

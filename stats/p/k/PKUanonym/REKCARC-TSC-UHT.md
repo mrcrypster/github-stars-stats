@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 15
 
-☋ Forks: 6956
+☋ Forks: 6955
 
-★ Stars: 26908
+★ Stars: 26918
 
 [Open repository](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-15 | 26908 | 6956 | 
+| 2022-12-15 | 26918 | 6955 | 
 | 2022-12-13 | 26896 | 6952 | 
 | 2022-12-12 | 26881 | 6951 | 
 | 2022-12-11 | 26872 | 6952 | 
@@ -39,5 +39,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 26658 | 6902 | 
 | 2022-11-18 | 26651 | 6901 | 
 | 2022-11-17 | 26646 | 6901 | 
-| 2022-11-15 | 26635 | 6898 | 
 

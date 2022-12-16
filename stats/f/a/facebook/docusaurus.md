@@ -1,10 +1,10 @@
 # facebook/docusaurus - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 6137
+☋ Forks: 6138
 
-★ Stars: 40420
+★ Stars: 40452
 
 [Open repository](https://github.com/facebook/docusaurus)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 40452 | 6138 | 
 | 2022-12-14 | 40420 | 6137 | 
 | 2022-12-12 | 40381 | 6129 | 
 | 2022-12-11 | 40350 | 6122 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 39768 | 5994 | 
 | 2022-11-17 | 39743 | 5988 | 
 | 2022-11-16 | 39707 | 5982 | 
-| 2022-11-15 | 39671 | 5978 | 
 

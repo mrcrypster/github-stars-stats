@@ -1,10 +1,10 @@
 # FastGitORG/document - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 23
 
-★ Stars: 248
+★ Stars: 247
 
 [Open repository](https://github.com/FastGitORG/document)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 247 | 23 | 
 | 2022-12-14 | 248 | 23 | 
 | 2022-12-12 | 248 | 23 | 
 | 2022-12-11 | 247 | 23 | 

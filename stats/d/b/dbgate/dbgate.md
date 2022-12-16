@@ -1,10 +1,10 @@
 # dbgate/dbgate - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 114
+☋ Forks: 115
 
-★ Stars: 2001
+★ Stars: 2002
 
 [Open repository](https://github.com/dbgate/dbgate)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 2002 | 115 | 
 | 2022-12-14 | 2001 | 114 | 
 | 2022-12-13 | 2001 | 114 | 
 | 2022-12-12 | 2000 | 114 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 1951 | 109 | 
 | 2022-11-17 | 1948 | 109 | 
 | 2022-11-16 | 1947 | 109 | 
-| 2022-11-15 | 1945 | 109 | 
 

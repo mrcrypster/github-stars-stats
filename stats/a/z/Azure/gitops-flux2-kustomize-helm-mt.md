@@ -1,8 +1,8 @@
 # Azure/gitops-flux2-kustomize-helm-mt - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 66
+☋ Forks: 67
 
 ★ Stars: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 11 | 67 | 
 | 2022-12-14 | 11 | 66 | 
 | 2022-12-13 | 11 | 66 | 
 | 2022-12-12 | 11 | 66 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 9 | 59 | 
 | 2022-11-17 | 9 | 59 | 
 | 2022-11-16 | 9 | 59 | 
-| 2022-11-15 | 9 | 59 | 
 

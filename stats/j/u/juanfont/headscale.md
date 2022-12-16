@@ -1,10 +1,10 @@
 # juanfont/headscale - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 549
+☋ Forks: 548
 
-★ Stars: 9639
+★ Stars: 9660
 
 [Open repository](https://github.com/juanfont/headscale)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 9660 | 548 | 
 | 2022-12-14 | 9639 | 549 | 
 | 2022-12-12 | 9612 | 547 | 
 | 2022-12-11 | 9586 | 546 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 9113 | 514 | 
 | 2022-11-17 | 9065 | 513 | 
 | 2022-11-16 | 9056 | 512 | 
-| 2022-11-15 | 9028 | 508 | 
 

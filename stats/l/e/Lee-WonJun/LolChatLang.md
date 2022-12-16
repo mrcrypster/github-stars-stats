@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 15
 
 ☋ Forks: 0
 
-★ Stars: 10
+★ Stars: 12
 
 [Open repository](https://github.com/Lee-WonJun/LolChatLang)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-15 | 10 | - | 
+| 2022-12-15 | 12 | - | 
 | 2022-12-14 | 10 | - | 
 

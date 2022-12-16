@@ -1,10 +1,10 @@
 # italia/design-drupal-theme - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 2
 
-★ Stars: 7
+★ Stars: 6
 
 [Open repository](https://github.com/italia/design-drupal-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 6 | 2 | 
 | 2022-12-14 | 7 | 2 | 
 | 2022-12-13 | 7 | 2 | 
 | 2022-12-12 | 7 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-19 | 5 | 1 | 
 | 2022-11-18 | 5 | 1 | 
 | 2022-11-16 | 5 | 1 | 
-| 2022-11-15 | 5 | 1 | 
 

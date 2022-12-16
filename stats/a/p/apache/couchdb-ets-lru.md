@@ -1,6 +1,6 @@
 # apache/couchdb-ets-lru - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 4 | 11 | 
 | 2022-12-14 | 4 | 11 | 
 | 2022-12-13 | 4 | 11 | 
 | 2022-12-11 | 4 | 11 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 5 | 10 | 
 | 2022-11-17 | 5 | 10 | 
 | 2022-11-16 | 5 | 10 | 
-| 2022-11-15 | 5 | 10 | 
 

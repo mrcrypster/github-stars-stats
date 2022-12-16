@@ -1,10 +1,10 @@
 # pirate-kiiiing/PersonalFinanceApp.Api - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 12
 
-★ Stars: 44
+★ Stars: 46
 
 [Open repository](https://github.com/pirate-kiiiing/PersonalFinanceApp.Api)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 46 | 12 | 
 | 2022-12-14 | 44 | 12 | 
 | 2022-12-13 | 43 | 12 | 
 | 2022-12-12 | 43 | 12 | 

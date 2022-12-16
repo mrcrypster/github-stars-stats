@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 15
 
 ☋ Forks: 501
 
-★ Stars: 775
+★ Stars: 777
 
 [Open repository](https://github.com/terraform-google-modules/terraform-example-foundation)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-15 | 775 | 501 | 
+| 2022-12-15 | 777 | 501 | 
 | 2022-12-14 | 776 | 500 | 
 | 2022-12-13 | 775 | 497 | 
 | 2022-12-12 | 774 | 497 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-18 | 749 | 491 | 
 | 2022-11-17 | 747 | 492 | 
 | 2022-11-16 | 746 | 491 | 
-| 2022-11-15 | 746 | 490 | 
 

@@ -1,10 +1,10 @@
 # SimformSolutionsPvtLtd/flutter_showcaseview - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 278
+☋ Forks: 279
 
-★ Stars: 1116
+★ Stars: 1115
 
 [Open repository](https://github.com/SimformSolutionsPvtLtd/flutter_showcaseview)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 1115 | 279 | 
 | 2022-12-14 | 1116 | 278 | 
 | 2022-12-12 | 1114 | 278 | 
 | 2022-12-11 | 1114 | 277 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 1105 | 271 | 
 | 2022-11-17 | 1105 | 270 | 
 | 2022-11-16 | 1105 | 269 | 
-| 2022-11-15 | 1105 | 269 | 
 

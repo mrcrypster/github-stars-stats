@@ -1,10 +1,10 @@
 # ColombianGuy/r5_flowstate - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 24
 
-★ Stars: 344
+★ Stars: 343
 
 [Open repository](https://github.com/ColombianGuy/r5_flowstate)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 343 | 24 | 
 | 2022-12-14 | 344 | 24 | 
 | 2022-12-12 | 344 | 24 | 
 | 2022-12-11 | 344 | 24 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 333 | 22 | 
 | 2022-11-17 | 333 | 22 | 
 | 2022-11-16 | 333 | 22 | 
-| 2022-11-15 | 332 | 21 | 
 

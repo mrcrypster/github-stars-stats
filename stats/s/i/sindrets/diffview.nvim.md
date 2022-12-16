@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 15
 
 ☋ Forks: 38
 
-★ Stars: 1721
+★ Stars: 1725
 
 [Open repository](https://github.com/sindrets/diffview.nvim)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-15 | 1721 | 38 | 
+| 2022-12-15 | 1725 | 38 | 
 | 2022-12-14 | 1719 | 38 | 
 | 2022-12-13 | 1712 | 38 | 
 | 2022-12-12 | 1706 | 38 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-18 | 1633 | 35 | 
 | 2022-11-17 | 1609 | 35 | 
 | 2022-11-16 | 1606 | 33 | 
-| 2022-11-15 | 1600 | 33 | 
 

@@ -1,10 +1,10 @@
 # carbon-design-system/carbon - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 1470
+☋ Forks: 1471
 
-★ Stars: 6135
+★ Stars: 6139
 
 [Open repository](https://github.com/carbon-design-system/carbon)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 6139 | 1471 | 
 | 2022-12-14 | 6135 | 1470 | 
 | 2022-12-13 | 6130 | 1467 | 
 | 2022-12-12 | 6130 | 1464 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 6096 | 1452 | 
 | 2022-11-17 | 6094 | 1449 | 
 | 2022-11-16 | 6091 | 1448 | 
-| 2022-11-15 | 6092 | 1445 | 
 

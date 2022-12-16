@@ -1,10 +1,10 @@
 # foxlet/macOS-Simple-KVM - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 1130
+☋ Forks: 1131
 
-★ Stars: 12752
+★ Stars: 12757
 
 [Open repository](https://github.com/foxlet/macOS-Simple-KVM)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 12757 | 1131 | 
 | 2022-12-14 | 12752 | 1130 | 
 | 2022-12-13 | 12748 | 1131 | 
 | 2022-12-12 | 12747 | 1129 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-19 | 12700 | 1123 | 
 | 2022-11-18 | 12699 | 1124 | 
 | 2022-11-17 | 12698 | 1124 | 
-| 2022-11-16 | 12696 | 1124 | 
 

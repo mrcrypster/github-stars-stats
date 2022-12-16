@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 15
 
 ☋ Forks: 193
 
-★ Stars: 8224
+★ Stars: 8226
 
 [Open repository](https://github.com/abiosoft/colima)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-15 | 8224 | 193 | 
+| 2022-12-15 | 8226 | 193 | 
 | 2022-12-14 | 8221 | 193 | 
 | 2022-12-13 | 8182 | 190 | 
 | 2022-12-11 | 8172 | 190 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-18 | 7722 | 177 | 
 | 2022-11-17 | 7701 | 174 | 
 | 2022-11-16 | 7682 | 173 | 
-| 2022-11-15 | 7653 | 173 | 
 

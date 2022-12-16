@@ -1,6 +1,6 @@
 # interviewstreet/ghs - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 90
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 133 | 90 | 
 | 2022-12-14 | 133 | 90 | 
 | 2022-12-13 | 133 | 90 | 
 | 2022-12-11 | 133 | 90 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 133 | 90 | 
 | 2022-11-17 | 133 | 90 | 
 | 2022-11-16 | 133 | 90 | 
-| 2022-11-15 | 133 | 90 | 
 

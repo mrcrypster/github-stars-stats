@@ -1,10 +1,10 @@
 # javalin/javalin - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 503
 
-★ Stars: 6199
+★ Stars: 6203
 
 [Open repository](https://github.com/javalin/javalin)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 6203 | 503 | 
 | 2022-12-14 | 6199 | 503 | 
 | 2022-12-13 | 6199 | 503 | 
 | 2022-12-12 | 6196 | 503 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 6153 | 504 | 
 | 2022-11-17 | 6149 | 503 | 
 | 2022-11-16 | 6146 | 503 | 
-| 2022-11-15 | 6144 | 504 | 
 

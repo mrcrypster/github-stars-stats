@@ -1,6 +1,6 @@
 # tashapiro/TidyTuesday - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 72 | 19 | 
 | 2022-12-13 | 72 | 19 | 
 | 2022-12-12 | 71 | 19 | 
 | 2022-12-11 | 71 | 19 | 

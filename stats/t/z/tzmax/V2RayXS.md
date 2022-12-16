@@ -1,6 +1,6 @@
 # tzmax/V2RayXS - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 257 | 26 | 
 | 2022-12-14 | 257 | 26 | 
 | 2022-12-13 | 257 | 26 | 
 | 2022-12-12 | 256 | 26 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 235 | 24 | 
 | 2022-11-17 | 235 | 24 | 
 | 2022-11-16 | 235 | 24 | 
-| 2022-11-15 | 233 | 24 | 
 

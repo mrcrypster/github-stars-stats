@@ -1,10 +1,10 @@
 # ndreynolds/ratatouille - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 23
 
-★ Stars: 584
+★ Stars: 585
 
 [Open repository](https://github.com/ndreynolds/ratatouille)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 585 | 23 | 
 | 2022-12-14 | 584 | 23 | 
 | 2022-12-13 | 583 | 23 | 
 | 2022-12-12 | 583 | 23 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 580 | 23 | 
 | 2022-11-17 | 580 | 23 | 
 | 2022-11-16 | 579 | 23 | 
-| 2022-11-15 | 579 | 23 | 
 

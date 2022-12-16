@@ -1,6 +1,6 @@
 # Embarcadero/P4D-Data-Sciences - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 49 | 12 | 
 | 2022-12-14 | 49 | 12 | 
 | 2022-12-13 | 49 | 12 | 
 | 2022-12-12 | 49 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 45 | 11 | 
 | 2022-11-17 | 45 | 11 | 
 | 2022-11-16 | 45 | 11 | 
-| 2022-11-15 | 45 | 11 | 
 

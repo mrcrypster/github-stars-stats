@@ -1,10 +1,10 @@
 # QuantumBFS/Yao.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 104
 
-★ Stars: 735
+★ Stars: 734
 
 [Open repository](https://github.com/QuantumBFS/Yao.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 734 | 104 | 
 | 2022-12-13 | 735 | 104 | 
 | 2022-12-12 | 735 | 104 | 
 | 2022-12-11 | 735 | 104 | 

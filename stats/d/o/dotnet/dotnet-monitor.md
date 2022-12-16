@@ -1,10 +1,10 @@
 # dotnet/dotnet-monitor - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 72
 
-★ Stars: 465
+★ Stars: 464
 
 [Open repository](https://github.com/dotnet/dotnet-monitor)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 464 | 72 | 
 | 2022-12-14 | 465 | 72 | 
 | 2022-12-12 | 465 | 72 | 
 | 2022-12-11 | 465 | 72 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-18 | 446 | 70 | 
 | 2022-11-17 | 445 | 70 | 
 | 2022-11-16 | 442 | 70 | 
-| 2022-11-15 | 441 | 70 | 
 

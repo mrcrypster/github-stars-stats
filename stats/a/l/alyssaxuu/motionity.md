@@ -1,6 +1,6 @@
 # alyssaxuu/motionity - stars & forks statistics
 
-Stats updated on Dec 2022, 13
+Stats updated on Dec 2022, 15
 
 ☋ Forks: 142
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 2410 | 142 | 
 | 2022-12-13 | 2410 | 142 | 
 | 2022-12-12 | 2410 | 142 | 
 | 2022-12-11 | 2411 | 141 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 13
 | 2022-11-18 | 2375 | 132 | 
 | 2022-11-17 | 2373 | 131 | 
 | 2022-11-16 | 2372 | 131 | 
-| 2022-11-15 | 2370 | 131 | 
 

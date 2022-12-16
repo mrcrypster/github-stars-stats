@@ -1,10 +1,10 @@
 # cmderdev/cmder - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 1997
+☋ Forks: 1999
 
-★ Stars: 24278
+★ Stars: 24282
 
 [Open repository](https://github.com/cmderdev/cmder)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 24282 | 1999 | 
 | 2022-12-14 | 24278 | 1997 | 
 | 2022-12-12 | 24275 | 1997 | 
 | 2022-12-11 | 24270 | 1997 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-19 | 24186 | 1985 | 
 | 2022-11-18 | 24177 | 1985 | 
 | 2022-11-17 | 24175 | 1985 | 
-| 2022-11-16 | 24172 | 1985 | 
 

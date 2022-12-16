@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 15
 
 ☋ Forks: 17
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/erlcloud/eini)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-15 | 20 | 17 | 
+| 2022-12-15 | 21 | 17 | 
 | 2022-12-14 | 20 | 17 | 
 | 2022-12-13 | 20 | 17 | 
 | 2022-12-12 | 20 | 17 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-18 | 20 | 17 | 
 | 2022-11-17 | 20 | 17 | 
 | 2022-11-16 | 20 | 17 | 
-| 2022-11-15 | 20 | 17 | 
 

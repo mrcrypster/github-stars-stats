@@ -1,10 +1,10 @@
 # m1guelpf/auto-commit - stars & forks statistics
 
-Stats updated on Dec 2022, 14
+Stats updated on Dec 2022, 15
 
-☋ Forks: 16
+☋ Forks: 17
 
-★ Stars: 764
+★ Stars: 792
 
 [Open repository](https://github.com/m1guelpf/auto-commit)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-15 | 792 | 17 | 
 | 2022-12-14 | 764 | 16 | 
 | 2022-12-13 | 741 | 16 | 
 | 2022-12-11 | 735 | 16 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 14
 | 2022-11-19 | 572 | 14 | 
 | 2022-11-18 | 573 | 14 | 
 | 2022-11-16 | 569 | 14 | 
-| 2022-11-15 | 563 | 14 | 
 
