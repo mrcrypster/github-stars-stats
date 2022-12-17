@@ -1,6 +1,6 @@
 # filipkarc/sqli-postgres-rce-privesc-hacking-playground - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 56 | 11 | 
 | 2022-12-15 | 56 | 11 | 
 | 2022-12-14 | 56 | 11 | 
 | 2022-12-13 | 56 | 11 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 56 | 11 | 
 | 2022-11-18 | 56 | 11 | 
 | 2022-11-17 | 55 | 11 | 
-| 2022-11-16 | 55 | 11 | 
 

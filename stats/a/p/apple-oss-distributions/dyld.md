@@ -1,10 +1,10 @@
 # apple-oss-distributions/dyld - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 40
 
-★ Stars: 431
+★ Stars: 432
 
 [Open repository](https://github.com/apple-oss-distributions/dyld)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 432 | 40 | 
 | 2022-12-15 | 431 | 40 | 
 | 2022-12-13 | 431 | 40 | 
 | 2022-12-12 | 431 | 40 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 425 | 39 | 
 | 2022-11-18 | 424 | 39 | 
 | 2022-11-17 | 423 | 39 | 
-| 2022-11-16 | 422 | 39 | 
 

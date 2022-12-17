@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 16
 
 ☋ Forks: 1490
 
-★ Stars: 11970
+★ Stars: 11971
 
 [Open repository](https://github.com/SwifterSwift/SwifterSwift)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-16 | 11970 | 1490 | 
+| 2022-12-16 | 11971 | 1490 | 
 | 2022-12-15 | 11969 | 1490 | 
 | 2022-12-14 | 11963 | 1488 | 
 | 2022-12-12 | 11959 | 1488 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-19 | 11892 | 1482 | 
 | 2022-11-18 | 11889 | 1481 | 
 | 2022-11-17 | 11888 | 1481 | 
-| 2022-11-16 | 11886 | 1480 | 
 

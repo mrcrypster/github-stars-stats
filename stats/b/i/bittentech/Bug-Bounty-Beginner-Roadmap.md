@@ -1,10 +1,10 @@
 # bittentech/Bug-Bounty-Beginner-Roadmap - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 88
 
-★ Stars: 696
+★ Stars: 697
 
 [Open repository](https://github.com/bittentech/Bug-Bounty-Beginner-Roadmap)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 697 | 88 | 
 | 2022-12-15 | 696 | 88 | 
 | 2022-12-14 | 696 | 87 | 
 | 2022-12-13 | 696 | 87 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 682 | 81 | 
 | 2022-11-18 | 679 | 81 | 
 | 2022-11-17 | 676 | 81 | 
-| 2022-11-16 | 672 | 81 | 
 

@@ -1,6 +1,6 @@
 # fugue/regula - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 92
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 802 | 92 | 
 | 2022-12-15 | 802 | 92 | 
 | 2022-12-14 | 802 | 93 | 
 | 2022-12-13 | 800 | 93 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 793 | 90 | 
 | 2022-11-18 | 793 | 91 | 
 | 2022-11-17 | 793 | 91 | 
-| 2022-11-16 | 793 | 91 | 
 

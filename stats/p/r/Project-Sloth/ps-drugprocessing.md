@@ -1,8 +1,8 @@
 # Project-Sloth/ps-drugprocessing - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 63
+☋ Forks: 64
 
 ★ Stars: 61
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 61 | 64 | 
 | 2022-12-15 | 61 | 63 | 
 | 2022-12-14 | 61 | 63 | 
 | 2022-12-13 | 61 | 63 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 59 | 57 | 
 | 2022-11-18 | 58 | 57 | 
 | 2022-11-17 | 58 | 57 | 
-| 2022-11-16 | 58 | 57 | 
 

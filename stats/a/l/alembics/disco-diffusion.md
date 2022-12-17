@@ -1,10 +1,10 @@
 # alembics/disco-diffusion - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 991
 
-★ Stars: 6361
+★ Stars: 6367
 
 [Open repository](https://github.com/alembics/disco-diffusion)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 6367 | 991 | 
 | 2022-12-15 | 6361 | 991 | 
 | 2022-12-14 | 6359 | 992 | 
 | 2022-12-13 | 6349 | 992 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 6162 | 962 | 
 | 2022-11-18 | 6155 | 960 | 
 | 2022-11-17 | 6141 | 960 | 
-| 2022-11-16 | 6131 | 958 | 
 

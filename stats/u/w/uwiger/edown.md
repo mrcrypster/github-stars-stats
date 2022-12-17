@@ -1,10 +1,10 @@
 # uwiger/edown - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 83
 
-★ Stars: 49
+★ Stars: 50
 
 [Open repository](https://github.com/uwiger/edown)
 
@@ -13,7 +13,8 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-16 | 49 | 83 | 
+| 2022-12-17 | 50 | 83 | 
+| 2022-12-16 | 50 | 83 | 
 | 2022-12-15 | 49 | 83 | 
 | 2022-12-14 | 48 | 82 | 
 | 2022-12-13 | 48 | 82 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-19 | 47 | 81 | 
 | 2022-11-18 | 47 | 81 | 
 | 2022-11-17 | 47 | 81 | 
-| 2022-11-16 | 47 | 81 | 
 

@@ -1,6 +1,6 @@
 # AbdelrhmanNile/steal - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 189 | 13 | 
 | 2022-12-15 | 189 | 13 | 
 | 2022-12-14 | 189 | 13 | 
 | 2022-12-13 | 189 | 13 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-20 | 184 | 12 | 
 | 2022-11-19 | 184 | 12 | 
 | 2022-11-18 | 183 | 12 | 
-| 2022-11-17 | 182 | 12 | 
 

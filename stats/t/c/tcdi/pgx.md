@@ -1,10 +1,10 @@
 # tcdi/pgx - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 135
+☋ Forks: 136
 
-★ Stars: 2037
+★ Stars: 2046
 
 [Open repository](https://github.com/tcdi/pgx)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 2046 | 136 | 
 | 2022-12-15 | 2037 | 135 | 
 | 2022-12-14 | 2034 | 135 | 
 | 2022-12-13 | 2013 | 133 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 1904 | 128 | 
 | 2022-11-18 | 1904 | 128 | 
 | 2022-11-17 | 1904 | 128 | 
-| 2022-11-16 | 1899 | 128 | 
 

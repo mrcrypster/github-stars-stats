@@ -1,8 +1,8 @@
 # square/wire - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 545
+☋ Forks: 546
 
 ★ Stars: 3916
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 3916 | 546 | 
 | 2022-12-15 | 3916 | 545 | 
 | 2022-12-14 | 3916 | 544 | 
 | 2022-12-12 | 3916 | 543 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 3897 | 541 | 
 | 2022-11-18 | 3897 | 541 | 
 | 2022-11-17 | 3896 | 540 | 
-| 2022-11-16 | 3895 | 540 | 
 

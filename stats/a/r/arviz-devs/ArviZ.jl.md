@@ -1,6 +1,6 @@
 # arviz-devs/ArviZ.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 70 | 8 | 
 | 2022-12-15 | 70 | 8 | 
 | 2022-12-14 | 70 | 8 | 
 | 2022-12-13 | 69 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 67 | 8 | 
 | 2022-11-18 | 67 | 8 | 
 | 2022-11-17 | 67 | 8 | 
-| 2022-11-16 | 67 | 8 | 
 

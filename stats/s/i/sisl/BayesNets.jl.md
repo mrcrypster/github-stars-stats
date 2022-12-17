@@ -1,6 +1,6 @@
 # sisl/BayesNets.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 210 | 49 | 
 | 2022-12-15 | 210 | 49 | 
 | 2022-12-14 | 210 | 50 | 
 | 2022-12-12 | 210 | 50 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 206 | 51 | 
 | 2022-11-18 | 206 | 51 | 
 | 2022-11-17 | 206 | 51 | 
-| 2022-11-16 | 206 | 51 | 
 

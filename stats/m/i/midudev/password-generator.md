@@ -1,6 +1,6 @@
 # midudev/password-generator - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 424
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 408 | 424 | 
 | 2022-12-15 | 408 | 424 | 
 | 2022-12-14 | 409 | 424 | 
 | 2022-12-13 | 409 | 424 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 407 | 434 | 
 | 2022-11-18 | 407 | 435 | 
 | 2022-11-17 | 407 | 435 | 
-| 2022-11-16 | 406 | 435 | 
 

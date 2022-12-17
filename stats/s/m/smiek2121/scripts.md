@@ -1,10 +1,10 @@
 # smiek2121/scripts - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 209
+☋ Forks: 208
 
-★ Stars: 316
+★ Stars: 317
 
 [Open repository](https://github.com/smiek2121/scripts)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 317 | 208 | 
 | 2022-12-15 | 316 | 209 | 
 | 2022-12-14 | 317 | 209 | 
 | 2022-12-13 | 317 | 209 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 306 | 208 | 
 | 2022-11-18 | 306 | 208 | 
 | 2022-11-17 | 305 | 208 | 
-| 2022-11-16 | 305 | 208 | 
 

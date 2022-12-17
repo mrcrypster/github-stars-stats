@@ -1,6 +1,6 @@
 # callofduty4x/CoD4x_Server - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 108
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 260 | 108 | 
 | 2022-12-15 | 260 | 108 | 
 | 2022-12-14 | 260 | 108 | 
 | 2022-12-13 | 260 | 108 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 260 | 107 | 
 | 2022-11-18 | 260 | 107 | 
 | 2022-11-17 | 260 | 107 | 
-| 2022-11-16 | 260 | 107 | 
 

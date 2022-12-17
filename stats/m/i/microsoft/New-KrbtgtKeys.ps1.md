@@ -1,10 +1,10 @@
 # microsoft/New-KrbtgtKeys.ps1 - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 58
 
-★ Stars: 243
+★ Stars: 244
 
 [Open repository](https://github.com/microsoft/New-KrbtgtKeys.ps1)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 244 | 58 | 
 | 2022-12-15 | 243 | 58 | 
 | 2022-12-14 | 243 | 58 | 
 | 2022-12-13 | 243 | 58 | 

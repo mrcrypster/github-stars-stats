@@ -1,10 +1,10 @@
 # meliorence/react-native-snap-carousel - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 2124
+☋ Forks: 2126
 
-★ Stars: 9759
+★ Stars: 9760
 
 [Open repository](https://github.com/meliorence/react-native-snap-carousel)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 9760 | 2126 | 
 | 2022-12-15 | 9759 | 2124 | 
 | 2022-12-14 | 9759 | 2123 | 
 | 2022-12-13 | 9759 | 2122 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 9742 | 2095 | 
 | 2022-11-18 | 9740 | 2096 | 
 | 2022-11-17 | 9739 | 2095 | 
-| 2022-11-16 | 9740 | 2092 | 
 

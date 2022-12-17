@@ -1,8 +1,8 @@
 # dvlab-research/BlockNeRFPytorch - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 52
+☋ Forks: 53
 
 ★ Stars: 690
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 690 | 53 | 
 | 2022-12-15 | 690 | 52 | 
 | 2022-12-14 | 688 | 52 | 
 | 2022-12-12 | 685 | 52 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 634 | 44 | 
 | 2022-11-18 | 634 | 44 | 
 | 2022-11-17 | 633 | 44 | 
-| 2022-11-16 | 631 | 44 | 
 

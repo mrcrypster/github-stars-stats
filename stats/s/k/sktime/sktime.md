@@ -1,10 +1,10 @@
 # sktime/sktime - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 981
 
-★ Stars: 5973
+★ Stars: 5975
 
 [Open repository](https://github.com/sktime/sktime)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 5975 | 981 | 
 | 2022-12-15 | 5973 | 981 | 
 | 2022-12-13 | 5972 | 978 | 
 | 2022-12-12 | 5970 | 976 | 

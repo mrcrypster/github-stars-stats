@@ -1,6 +1,6 @@
 # castleproject/Core - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 457
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 1946 | 457 | 
 | 2022-12-15 | 1946 | 457 | 
 | 2022-12-14 | 1944 | 456 | 
 | 2022-12-13 | 1942 | 456 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-20 | 1929 | 454 | 
 | 2022-11-19 | 1929 | 453 | 
 | 2022-11-18 | 1928 | 453 | 
-| 2022-11-17 | 1926 | 452 | 
 

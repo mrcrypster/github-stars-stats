@@ -1,10 +1,10 @@
 # secretflow/secretflow - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 148
+☋ Forks: 149
 
-★ Stars: 1089
+★ Stars: 1090
 
 [Open repository](https://github.com/secretflow/secretflow)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 1090 | 149 | 
 | 2022-12-15 | 1089 | 148 | 
 | 2022-12-14 | 1089 | 148 | 
 | 2022-12-12 | 1087 | 150 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 1050 | 146 | 
 | 2022-11-18 | 1049 | 146 | 
 | 2022-11-17 | 1047 | 146 | 
-| 2022-11-16 | 1046 | 145 | 
 

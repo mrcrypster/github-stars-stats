@@ -1,10 +1,10 @@
 # sparanoid/chinese-copywriting-guidelines - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 1724
+☋ Forks: 1726
 
-★ Stars: 12259
+★ Stars: 12264
 
 [Open repository](https://github.com/sparanoid/chinese-copywriting-guidelines)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 12264 | 1726 | 
 | 2022-12-15 | 12259 | 1724 | 
 | 2022-12-14 | 12254 | 1724 | 
 | 2022-12-12 | 12246 | 1724 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 12159 | 1716 | 
 | 2022-11-18 | 12157 | 1717 | 
 | 2022-11-17 | 12155 | 1717 | 
-| 2022-11-16 | 12151 | 1717 | 
 

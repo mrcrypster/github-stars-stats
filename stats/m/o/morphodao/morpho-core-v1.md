@@ -1,10 +1,10 @@
 # morphodao/morpho-core-v1 - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 2
 
-★ Stars: 50
+★ Stars: 51
 
 [Open repository](https://github.com/morphodao/morpho-core-v1)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 51 | 2 | 
 | 2022-12-15 | 50 | 2 | 
 | 2022-12-14 | 50 | 2 | 
 | 2022-12-13 | 50 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 47 | 2 | 
 | 2022-11-18 | 47 | 2 | 
 | 2022-11-17 | 47 | 2 | 
-| 2022-11-16 | 47 | 2 | 
 

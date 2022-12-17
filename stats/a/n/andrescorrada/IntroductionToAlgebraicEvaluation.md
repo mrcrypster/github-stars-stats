@@ -1,10 +1,10 @@
 # andrescorrada/IntroductionToAlgebraicEvaluation - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 2
 
-★ Stars: 12
+★ Stars: 14
 
 [Open repository](https://github.com/andrescorrada/IntroductionToAlgebraicEvaluation)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 14 | 2 | 
 | 2022-12-15 | 12 | 2 | 
 | 2022-12-14 | 11 | 2 | 
 

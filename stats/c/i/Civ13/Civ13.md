@@ -1,6 +1,6 @@
 # Civ13/Civ13 - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 146
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 33 | 146 | 
 | 2022-12-15 | 33 | 146 | 
 | 2022-12-14 | 34 | 146 | 
 | 2022-12-13 | 34 | 146 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 33 | 144 | 
 | 2022-11-18 | 33 | 144 | 
 | 2022-11-17 | 33 | 144 | 
-| 2022-11-16 | 33 | 144 | 
 

@@ -1,6 +1,6 @@
 # LearnPythonWithRune/DataScienceWithPython - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 109 | 68 | 
 | 2022-12-15 | 109 | 68 | 
 | 2022-12-14 | 109 | 68 | 
 | 2022-12-13 | 109 | 68 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 107 | 66 | 
 | 2022-11-18 | 107 | 66 | 
 | 2022-11-17 | 107 | 66 | 
-| 2022-11-16 | 106 | 64 | 
 

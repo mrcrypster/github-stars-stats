@@ -1,10 +1,10 @@
 # zigtools/zls - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 166
 
-★ Stars: 1194
+★ Stars: 1196
 
 [Open repository](https://github.com/zigtools/zls)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 1196 | 166 | 
 | 2022-12-15 | 1194 | 166 | 
 | 2022-12-14 | 1195 | 166 | 
 | 2022-12-13 | 1194 | 166 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 1134 | 162 | 
 | 2022-11-18 | 1133 | 162 | 
 | 2022-11-17 | 1133 | 161 | 
-| 2022-11-16 | 1132 | 161 | 
 

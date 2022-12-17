@@ -1,10 +1,10 @@
 # soyHenry/Math4Data - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 311
+☋ Forks: 317
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/soyHenry/Math4Data)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 19 | 317 | 
 | 2022-12-15 | 18 | 311 | 
 | 2022-12-13 | 18 | 311 | 
 | 2022-12-12 | 18 | 312 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 18 | 308 | 
 | 2022-11-18 | 18 | 307 | 
 | 2022-11-17 | 18 | 306 | 
-| 2022-11-16 | 18 | 305 | 
 

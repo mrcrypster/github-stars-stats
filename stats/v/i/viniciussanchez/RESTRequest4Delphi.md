@@ -1,6 +1,6 @@
 # viniciussanchez/RESTRequest4Delphi - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 106
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 357 | 106 | 
 | 2022-12-15 | 357 | 106 | 
 | 2022-12-14 | 357 | 106 | 
 | 2022-12-13 | 357 | 106 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 350 | 103 | 
 | 2022-11-18 | 350 | 103 | 
 | 2022-11-17 | 349 | 103 | 
-| 2022-11-16 | 349 | 102 | 
 

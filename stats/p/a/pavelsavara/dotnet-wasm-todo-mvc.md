@@ -1,6 +1,6 @@
 # pavelsavara/dotnet-wasm-todo-mvc - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 47 | 17 | 
 | 2022-12-15 | 47 | 17 | 
 | 2022-12-14 | 47 | 17 | 
 | 2022-12-13 | 47 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 46 | 15 | 
 | 2022-11-18 | 46 | 15 | 
 | 2022-11-17 | 46 | 15 | 
-| 2022-11-16 | 46 | 15 | 
 

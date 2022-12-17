@@ -1,8 +1,8 @@
 # Azure/bicep-registry-modules - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
-☋ Forks: 41
+☋ Forks: 42
 
 ★ Stars: 133
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 133 | 42 | 
 | 2022-12-16 | 133 | 41 | 
 | 2022-12-15 | 133 | 41 | 
 | 2022-12-14 | 133 | 41 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-19 | 119 | 36 | 
 | 2022-11-18 | 118 | 36 | 
 | 2022-11-17 | 118 | 35 | 
-| 2022-11-16 | 118 | 35 | 
 

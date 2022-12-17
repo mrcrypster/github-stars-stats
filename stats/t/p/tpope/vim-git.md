@@ -1,6 +1,6 @@
 # tpope/vim-git - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 87
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 582 | 87 | 
 | 2022-12-15 | 582 | 87 | 
 | 2022-12-14 | 582 | 87 | 
 | 2022-12-13 | 582 | 87 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-20 | 585 | 87 | 
 | 2022-11-19 | 585 | 87 | 
 | 2022-11-18 | 585 | 87 | 
-| 2022-11-17 | 585 | 87 | 
 

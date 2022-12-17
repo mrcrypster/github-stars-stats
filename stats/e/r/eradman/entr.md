@@ -1,6 +1,6 @@
 # eradman/entr - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 77
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 2695 | 77 | 
 | 2022-12-16 | 2695 | 77 | 
 | 2022-12-15 | 2695 | 77 | 
 | 2022-12-13 | 2692 | 77 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 2658 | 77 | 
 | 2022-11-19 | 2658 | 77 | 
 | 2022-11-18 | 2656 | 77 | 
-| 2022-11-17 | 2656 | 77 | 
 

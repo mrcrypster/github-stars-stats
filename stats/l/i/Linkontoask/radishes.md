@@ -1,10 +1,10 @@
 # Linkontoask/radishes - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 25
 
-★ Stars: 204
+★ Stars: 205
 
 [Open repository](https://github.com/Linkontoask/radishes)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 205 | 25 | 
 | 2022-12-15 | 204 | 25 | 
 | 2022-12-14 | 203 | 25 | 
 | 2022-12-12 | 203 | 25 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 198 | 25 | 
 | 2022-11-18 | 199 | 25 | 
 | 2022-11-17 | 199 | 25 | 
-| 2022-11-16 | 199 | 25 | 
 

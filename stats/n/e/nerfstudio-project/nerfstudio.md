@@ -1,10 +1,10 @@
 # nerfstudio-project/nerfstudio - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 198
+☋ Forks: 200
 
-★ Stars: 2790
+★ Stars: 2803
 
 [Open repository](https://github.com/nerfstudio-project/nerfstudio)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 2803 | 200 | 
 | 2022-12-15 | 2790 | 198 | 
 | 2022-12-14 | 2780 | 192 | 
 | 2022-12-13 | 2764 | 190 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 2417 | 139 | 
 | 2022-11-18 | 2403 | 137 | 
 | 2022-11-17 | 2374 | 134 | 
-| 2022-11-16 | 2351 | 128 | 
 

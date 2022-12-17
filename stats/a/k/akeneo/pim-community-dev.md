@@ -1,8 +1,8 @@
 # akeneo/pim-community-dev - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 487
+☋ Forks: 488
 
 ★ Stars: 874
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 874 | 488 | 
 | 2022-12-15 | 874 | 487 | 
 | 2022-12-14 | 875 | 487 | 
 | 2022-12-12 | 874 | 486 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 870 | 487 | 
 | 2022-11-18 | 870 | 487 | 
 | 2022-11-17 | 870 | 486 | 
-| 2022-11-16 | 870 | 486 | 
 

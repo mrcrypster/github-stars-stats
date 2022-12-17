@@ -1,6 +1,6 @@
 # BL-MSCH-C220-S22/Exercise-06c-Dialogue - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | - | 40 | 
 | 2022-12-15 | - | 40 | 
 | 2022-12-14 | - | 40 | 
 | 2022-12-13 | - | 40 | 

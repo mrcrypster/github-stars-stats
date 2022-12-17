@@ -1,8 +1,8 @@
 # zero-to-mastery/start-here-guidelines - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 13824
+☋ Forks: 13829
 
 ★ Stars: 1914
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 1914 | 13829 | 
 | 2022-12-15 | 1914 | 13824 | 
 | 2022-12-13 | 1916 | 13809 | 
 | 2022-12-12 | 1915 | 13793 | 

@@ -1,6 +1,6 @@
 # videolan/vlckit - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 118
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 364 | 118 | 
 | 2022-12-15 | 364 | 118 | 
 | 2022-12-14 | 364 | 118 | 
 | 2022-12-13 | 365 | 118 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 364 | 118 | 
 | 2022-11-18 | 363 | 118 | 
 | 2022-11-17 | 363 | 118 | 
-| 2022-11-16 | 363 | 118 | 
 

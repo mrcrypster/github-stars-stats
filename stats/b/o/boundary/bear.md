@@ -1,6 +1,6 @@
 # boundary/bear - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 68 | 53 | 
 | 2022-12-15 | 68 | 53 | 
 | 2022-12-14 | 68 | 53 | 
 | 2022-12-12 | 68 | 53 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 68 | 53 | 
 | 2022-11-18 | 68 | 53 | 
 | 2022-11-17 | 68 | 53 | 
-| 2022-11-16 | 68 | 53 | 
 

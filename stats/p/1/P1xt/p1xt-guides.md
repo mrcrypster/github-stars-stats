@@ -1,6 +1,6 @@
 # P1xt/p1xt-guides - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 1712
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 6493 | 1712 | 
 | 2022-12-15 | 6493 | 1712 | 
 | 2022-12-14 | 6490 | 1713 | 
 | 2022-12-12 | 6490 | 1712 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 6469 | 1708 | 
 | 2022-11-18 | 6470 | 1708 | 
 | 2022-11-17 | 6471 | 1707 | 
-| 2022-11-16 | 6468 | 1707 | 
 

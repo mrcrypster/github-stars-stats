@@ -1,6 +1,6 @@
 # SFX-WoW/Masque - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 37 | 10 | 
 | 2022-12-15 | 37 | 10 | 
 | 2022-12-13 | 38 | 10 | 
 | 2022-12-12 | 38 | 10 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-20 | 36 | 10 | 
 | 2022-11-19 | 36 | 10 | 
 | 2022-11-18 | 36 | 10 | 
-| 2022-11-17 | 36 | 10 | 
 

@@ -1,10 +1,10 @@
 # JuliaApproximation/FastTransforms.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 27
 
-★ Stars: 215
+★ Stars: 216
 
 [Open repository](https://github.com/JuliaApproximation/FastTransforms.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 216 | 27 | 
 | 2022-12-15 | 215 | 27 | 
 | 2022-12-14 | 215 | 27 | 
 | 2022-12-13 | 215 | 28 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 213 | 29 | 
 | 2022-11-18 | 213 | 29 | 
 | 2022-11-17 | 213 | 29 | 
-| 2022-11-16 | 213 | 29 | 
 

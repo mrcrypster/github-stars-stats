@@ -1,6 +1,6 @@
 # Clever/csvlint - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 165 | 10 | 
 | 2022-12-15 | 165 | 10 | 
 | 2022-12-14 | 165 | 10 | 
 | 2022-12-12 | 165 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 166 | 10 | 
 | 2022-11-18 | 166 | 10 | 
 | 2022-11-17 | 166 | 10 | 
-| 2022-11-16 | 166 | 10 | 
 

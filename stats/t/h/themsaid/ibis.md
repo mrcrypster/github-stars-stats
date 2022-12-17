@@ -1,8 +1,8 @@
 # themsaid/ibis - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 113
+☋ Forks: 112
 
 ★ Stars: 1604
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 1604 | 112 | 
 | 2022-12-15 | 1604 | 113 | 
 | 2022-12-14 | 1604 | 113 | 
 | 2022-12-13 | 1604 | 113 | 

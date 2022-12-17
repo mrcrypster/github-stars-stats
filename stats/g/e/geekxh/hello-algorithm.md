@@ -1,10 +1,10 @@
 # geekxh/hello-algorithm - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 6128
+☋ Forks: 6127
 
-★ Stars: 31642
+★ Stars: 31647
 
 [Open repository](https://github.com/geekxh/hello-algorithm)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 31647 | 6127 | 
 | 2022-12-15 | 31642 | 6128 | 
 | 2022-12-14 | 31632 | 6128 | 
 | 2022-12-13 | 31627 | 6127 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 31576 | 6117 | 
 | 2022-11-18 | 31576 | 6117 | 
 | 2022-11-17 | 31569 | 6117 | 
-| 2022-11-16 | 31565 | 6118 | 
 

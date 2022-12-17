@@ -1,6 +1,6 @@
 # Skulltrail192/One-Core-API-Binaries - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 205 | 21 | 
 | 2022-12-15 | 205 | 21 | 
 | 2022-12-14 | 205 | 21 | 
 | 2022-12-13 | 204 | 21 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-20 | 196 | 21 | 
 | 2022-11-19 | 195 | 21 | 
 | 2022-11-18 | 193 | 20 | 
-| 2022-11-17 | 193 | 20 | 
 

@@ -1,10 +1,10 @@
 # hegaojian/JetpackMvvm - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 506
+☋ Forks: 507
 
-★ Stars: 2525
+★ Stars: 2527
 
 [Open repository](https://github.com/hegaojian/JetpackMvvm)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 2527 | 507 | 
 | 2022-12-15 | 2525 | 506 | 
 | 2022-12-14 | 2525 | 506 | 
 | 2022-12-13 | 2521 | 506 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 2505 | 502 | 
 | 2022-11-18 | 2505 | 502 | 
 | 2022-11-17 | 2502 | 501 | 
-| 2022-11-16 | 2501 | 500 | 
 

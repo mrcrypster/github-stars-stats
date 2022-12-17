@@ -1,6 +1,6 @@
 # ao-org/argentum20-client - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 11 | 6 | 
 | 2022-12-15 | 11 | 6 | 
 | 2022-12-14 | 11 | 6 | 
 | 2022-12-13 | 11 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 10 | 6 | 
 | 2022-11-18 | 10 | 6 | 
 | 2022-11-17 | 10 | 6 | 
-| 2022-11-16 | 10 | 6 | 
 

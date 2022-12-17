@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 16
 
-☋ Forks: 420
+☋ Forks: 421
 
-★ Stars: 3818
+★ Stars: 3820
 
 [Open repository](https://github.com/awesome-NeRF/awesome-NeRF)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-16 | 3818 | 420 | 
+| 2022-12-16 | 3820 | 421 | 
 | 2022-12-15 | 3818 | 420 | 
 | 2022-12-14 | 3816 | 419 | 
 

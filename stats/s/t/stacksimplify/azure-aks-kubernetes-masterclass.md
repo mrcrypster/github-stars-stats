@@ -1,10 +1,10 @@
 # stacksimplify/azure-aks-kubernetes-masterclass - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 4319
+☋ Forks: 4324
 
-★ Stars: 355
+★ Stars: 356
 
 [Open repository](https://github.com/stacksimplify/azure-aks-kubernetes-masterclass)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 356 | 4324 | 
 | 2022-12-15 | 355 | 4319 | 
 | 2022-12-14 | 355 | 4311 | 
 | 2022-12-13 | 355 | 4310 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 340 | 4153 | 
 | 2022-11-18 | 340 | 4149 | 
 | 2022-11-17 | 339 | 4148 | 
-| 2022-11-16 | 336 | 4143 | 
 

@@ -1,10 +1,10 @@
 # sbuslab/sbus - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 2
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/sbuslab/sbus)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 7 | 2 | 
 | 2022-12-15 | 6 | 2 | 
 | 2022-12-14 | 6 | 2 | 
 | 2022-12-13 | 6 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-20 | 6 | 2 | 
 | 2022-11-19 | 6 | 2 | 
 | 2022-11-17 | 6 | 2 | 
-| 2022-11-16 | 6 | 2 | 
 

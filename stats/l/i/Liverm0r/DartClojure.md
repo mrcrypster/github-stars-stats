@@ -1,10 +1,10 @@
 # Liverm0r/DartClojure - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 2
 
-★ Stars: 64
+★ Stars: 66
 
 [Open repository](https://github.com/Liverm0r/DartClojure)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 66 | 2 | 
 | 2022-12-15 | 64 | 2 | 
 | 2022-12-14 | 64 | 2 | 
 | 2022-12-12 | 65 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 63 | 2 | 
 | 2022-11-18 | 63 | 2 | 
 | 2022-11-17 | 63 | 2 | 
-| 2022-11-16 | 63 | 2 | 
 

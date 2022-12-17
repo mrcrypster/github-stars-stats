@@ -1,10 +1,10 @@
 # Waeara/Python-Automated-WhatsApp-Message-Sender - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 8
+☋ Forks: 9
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/Waeara/Python-Automated-WhatsApp-Message-Sender)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 23 | 9 | 
 | 2022-12-15 | 22 | 8 | 
 | 2022-12-13 | 23 | 8 | 
 | 2022-12-12 | 22 | 7 | 

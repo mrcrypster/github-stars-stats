@@ -1,6 +1,6 @@
 # opengs/uashield - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 186
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 1097 | 186 | 
 | 2022-12-15 | 1097 | 186 | 
 | 2022-12-14 | 1097 | 186 | 
 | 2022-12-13 | 1097 | 186 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 1092 | 188 | 
 | 2022-11-18 | 1092 | 188 | 
 | 2022-11-17 | 1091 | 188 | 
-| 2022-11-16 | 1091 | 188 | 
 

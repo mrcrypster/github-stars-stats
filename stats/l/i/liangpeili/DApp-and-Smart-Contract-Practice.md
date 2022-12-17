@@ -1,10 +1,10 @@
 # liangpeili/DApp-and-Smart-Contract-Practice - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 13
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/liangpeili/DApp-and-Smart-Contract-Practice)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 11 | 13 | 
 | 2022-12-16 | 10 | 13 | 
 | 2022-12-15 | 10 | 13 | 
 | 2022-12-13 | 10 | 13 | 

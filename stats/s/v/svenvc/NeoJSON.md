@@ -1,6 +1,6 @@
 # svenvc/NeoJSON - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 37 | 17 | 
 | 2022-12-15 | 37 | 17 | 
 | 2022-12-14 | 37 | 17 | 
 | 2022-12-13 | 37 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-20 | 36 | 15 | 
 | 2022-11-18 | 36 | 15 | 
 | 2022-11-17 | 36 | 15 | 
-| 2022-11-16 | 36 | 15 | 
 

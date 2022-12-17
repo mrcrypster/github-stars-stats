@@ -1,10 +1,10 @@
 # fuzhengwei/CodeGuide - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 2562
+☋ Forks: 2564
 
-★ Stars: 8930
+★ Stars: 8933
 
 [Open repository](https://github.com/fuzhengwei/CodeGuide)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 8933 | 2564 | 
 | 2022-12-15 | 8930 | 2562 | 
 | 2022-12-14 | 8923 | 2562 | 
 | 2022-12-13 | 8913 | 2559 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 8824 | 2506 | 
 | 2022-11-18 | 8824 | 2504 | 
 | 2022-11-17 | 8816 | 2500 | 
-| 2022-11-16 | 8810 | 2493 | 
 

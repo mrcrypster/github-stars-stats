@@ -1,8 +1,8 @@
 # ucb-bar/chiseltest - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 56
+☋ Forks: 57
 
 ★ Stars: 137
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 137 | 57 | 
 | 2022-12-15 | 137 | 56 | 
 | 2022-12-14 | 138 | 56 | 
 | 2022-12-13 | 138 | 56 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 132 | 54 | 
 | 2022-11-18 | 131 | 54 | 
 | 2022-11-17 | 131 | 54 | 
-| 2022-11-16 | 131 | 54 | 
 

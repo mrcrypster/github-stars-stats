@@ -1,6 +1,6 @@
 # mojaloop/helm - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 15 | 56 | 
 | 2022-12-15 | 15 | 56 | 
 | 2022-12-14 | 16 | 56 | 
 | 2022-12-13 | 15 | 56 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 14 | 56 | 
 | 2022-11-18 | 14 | 56 | 
 | 2022-11-17 | 14 | 56 | 
-| 2022-11-16 | 14 | 56 | 
 

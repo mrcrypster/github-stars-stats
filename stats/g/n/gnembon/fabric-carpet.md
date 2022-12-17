@@ -1,10 +1,10 @@
 # gnembon/fabric-carpet - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 231
+☋ Forks: 232
 
-★ Stars: 1293
+★ Stars: 1294
 
 [Open repository](https://github.com/gnembon/fabric-carpet)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 1294 | 232 | 
 | 2022-12-15 | 1293 | 231 | 
 | 2022-12-14 | 1292 | 231 | 
 | 2022-12-13 | 1291 | 231 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 1270 | 226 | 
 | 2022-11-18 | 1269 | 226 | 
 | 2022-11-17 | 1269 | 226 | 
-| 2022-11-16 | 1269 | 226 | 
 

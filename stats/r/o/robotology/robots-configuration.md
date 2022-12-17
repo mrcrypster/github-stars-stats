@@ -1,6 +1,6 @@
 # robotology/robots-configuration - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 13 | 63 | 
 | 2022-12-15 | 13 | 63 | 
 | 2022-12-13 | 13 | 63 | 
 | 2022-12-12 | 13 | 63 | 

@@ -1,10 +1,10 @@
 # cosmos/ibc - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 257
 
-★ Stars: 700
+★ Stars: 701
 
 [Open repository](https://github.com/cosmos/ibc)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 701 | 257 | 
 | 2022-12-15 | 700 | 257 | 
 | 2022-12-14 | 700 | 257 | 
 | 2022-12-13 | 698 | 256 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 679 | 244 | 
 | 2022-11-18 | 679 | 244 | 
 | 2022-11-17 | 678 | 244 | 
-| 2022-11-16 | 678 | 244 | 
 

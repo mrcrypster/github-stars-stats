@@ -1,10 +1,10 @@
 # nikitadanilov/3-lisp - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 5
 
-★ Stars: 30
+★ Stars: 33
 
 [Open repository](https://github.com/nikitadanilov/3-lisp)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 33 | 5 | 
 | 2022-12-15 | 30 | 5 | 
 | 2022-12-14 | 30 | 5 | 
 | 2022-12-13 | 30 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 25 | 4 | 
 | 2022-11-18 | 25 | 4 | 
 | 2022-11-17 | 25 | 4 | 
-| 2022-11-16 | 25 | 4 | 
 

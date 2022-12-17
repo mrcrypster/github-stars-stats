@@ -1,10 +1,10 @@
 # PwnFunction/Blank-Rick-Roll - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 81
 
-★ Stars: 375
+★ Stars: 376
 
 [Open repository](https://github.com/PwnFunction/Blank-Rick-Roll)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 376 | 81 | 
 | 2022-12-15 | 375 | 81 | 
 | 2022-12-14 | 375 | 81 | 
 | 2022-12-12 | 375 | 80 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 373 | 80 | 
 | 2022-11-18 | 373 | 80 | 
 | 2022-11-17 | 373 | 80 | 
-| 2022-11-16 | 373 | 80 | 
 

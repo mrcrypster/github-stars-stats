@@ -1,8 +1,8 @@
 # InKryption/rpmalloc-zig-port - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 0
+☋ Forks: 1
 
 ★ Stars: 20
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 20 | 1 | 
 | 2022-12-15 | 20 | - | 
 | 2022-12-14 | 20 | - | 
 | 2022-12-13 | 11 | - | 

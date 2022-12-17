@@ -1,6 +1,6 @@
 # penpot/penpot-docs - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 84 | 75 | 
 | 2022-12-15 | 84 | 75 | 
 | 2022-12-13 | 85 | 74 | 
 | 2022-12-12 | 85 | 73 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-20 | 82 | 72 | 
 | 2022-11-18 | 81 | 72 | 
 | 2022-11-17 | 81 | 72 | 
-| 2022-11-16 | 80 | 71 | 
 

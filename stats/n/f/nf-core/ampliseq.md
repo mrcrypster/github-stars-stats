@@ -1,8 +1,8 @@
 # nf-core/ampliseq - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 59
+☋ Forks: 60
 
 ★ Stars: 102
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 102 | 60 | 
 | 2022-12-15 | 102 | 59 | 
 | 2022-12-13 | 102 | 59 | 
 | 2022-12-12 | 102 | 59 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 99 | 57 | 
 | 2022-11-18 | 99 | 57 | 
 | 2022-11-17 | 99 | 57 | 
-| 2022-11-16 | 99 | 57 | 
 

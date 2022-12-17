@@ -1,10 +1,10 @@
 # Kooklen/TianyanchaSystem - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 21
 
-★ Stars: 122
+★ Stars: 123
 
 [Open repository](https://github.com/Kooklen/TianyanchaSystem)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 123 | 21 | 
 | 2022-12-15 | 122 | 21 | 
 | 2022-12-14 | 122 | 21 | 
 | 2022-12-13 | 122 | 21 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 122 | 21 | 
 | 2022-11-18 | 122 | 21 | 
 | 2022-11-17 | 122 | 21 | 
-| 2022-11-16 | 122 | 21 | 
 

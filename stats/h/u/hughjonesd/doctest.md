@@ -1,10 +1,10 @@
 # hughjonesd/doctest - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 1
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/hughjonesd/doctest)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 13 | 1 | 
 | 2022-12-15 | 12 | 1 | 
 | 2022-12-14 | 13 | 1 | 
 | 2022-12-13 | 13 | 1 | 

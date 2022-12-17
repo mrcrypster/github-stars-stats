@@ -1,10 +1,10 @@
 # sammchardy/python-binance - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 1995
 
-★ Stars: 4982
+★ Stars: 4981
 
 [Open repository](https://github.com/sammchardy/python-binance)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 4981 | 1995 | 
 | 2022-12-15 | 4982 | 1995 | 
 | 2022-12-14 | 4981 | 1996 | 
 | 2022-12-13 | 4977 | 1995 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-20 | 4931 | 1989 | 
 | 2022-11-19 | 4932 | 1986 | 
 | 2022-11-18 | 4929 | 1986 | 
-| 2022-11-16 | 4928 | 1985 | 
 

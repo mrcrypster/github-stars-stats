@@ -1,6 +1,6 @@
 # SmaCCRefactoring/SmaCC - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 32 | 13 | 
 | 2022-12-15 | 32 | 13 | 
 | 2022-12-14 | 31 | 13 | 
 | 2022-12-13 | 31 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 31 | 12 | 
 | 2022-11-18 | 31 | 12 | 
 | 2022-11-17 | 31 | 12 | 
-| 2022-11-16 | 30 | 12 | 
 

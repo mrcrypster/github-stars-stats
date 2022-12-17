@@ -1,6 +1,6 @@
 # egoist/dum - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 1302 | 27 | 
 | 2022-12-15 | 1302 | 27 | 
 | 2022-12-14 | 1301 | 27 | 
 | 2022-12-13 | 1300 | 27 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 1291 | 27 | 
 | 2022-11-18 | 1291 | 27 | 
 | 2022-11-17 | 1292 | 27 | 
-| 2022-11-16 | 1292 | 26 | 
 

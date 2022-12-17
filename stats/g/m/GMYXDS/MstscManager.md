@@ -1,10 +1,10 @@
 # GMYXDS/MstscManager - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 44
 
-★ Stars: 146
+★ Stars: 148
 
 [Open repository](https://github.com/GMYXDS/MstscManager)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 148 | 44 | 
 | 2022-12-15 | 146 | 44 | 
 | 2022-12-14 | 144 | 43 | 
 | 2022-12-13 | 140 | 40 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 127 | 31 | 
 | 2022-11-18 | 126 | 31 | 
 | 2022-11-17 | 125 | 31 | 
-| 2022-11-16 | 124 | 30 | 
 

@@ -1,6 +1,6 @@
 # aws-beam/aws-elixir - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 125
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 400 | 125 | 
 | 2022-12-15 | 400 | 125 | 
 | 2022-12-14 | 399 | 125 | 
 | 2022-12-13 | 399 | 125 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 394 | 123 | 
 | 2022-11-18 | 393 | 123 | 
 | 2022-11-17 | 392 | 123 | 
-| 2022-11-16 | 392 | 123 | 
 

@@ -1,10 +1,10 @@
 # GoogleChrome/web.dev - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 1519
 
-★ Stars: 3132
+★ Stars: 3133
 
 [Open repository](https://github.com/GoogleChrome/web.dev)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 3133 | 1519 | 
 | 2022-12-15 | 3132 | 1519 | 
 | 2022-12-14 | 3134 | 1517 | 
 | 2022-12-13 | 3130 | 1513 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 3086 | 1491 | 
 | 2022-11-18 | 3086 | 1491 | 
 | 2022-11-17 | 3086 | 1492 | 
-| 2022-11-16 | 3082 | 1490 | 
 

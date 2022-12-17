@@ -1,10 +1,10 @@
 # amundsen-io/amundsen - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 890
 
-★ Stars: 3674
+★ Stars: 3675
 
 [Open repository](https://github.com/amundsen-io/amundsen)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 3675 | 890 | 
 | 2022-12-15 | 3674 | 890 | 
 | 2022-12-13 | 3674 | 890 | 
 | 2022-12-12 | 3670 | 891 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 3640 | 884 | 
 | 2022-11-18 | 3637 | 884 | 
 | 2022-11-17 | 3635 | 884 | 
-| 2022-11-16 | 3632 | 884 | 
 

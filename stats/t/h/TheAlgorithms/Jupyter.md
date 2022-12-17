@@ -1,6 +1,6 @@
 # TheAlgorithms/Jupyter - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 249
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 597 | 249 | 
 | 2022-12-15 | 597 | 249 | 
 | 2022-12-14 | 597 | 249 | 
 | 2022-12-13 | 597 | 249 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 591 | 248 | 
 | 2022-11-18 | 591 | 248 | 
 | 2022-11-17 | 590 | 248 | 
-| 2022-11-16 | 590 | 248 | 
 

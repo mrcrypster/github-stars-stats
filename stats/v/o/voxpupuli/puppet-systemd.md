@@ -1,10 +1,10 @@
 # voxpupuli/puppet-systemd - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 112
 
-★ Stars: 50
+★ Stars: 49
 
 [Open repository](https://github.com/voxpupuli/puppet-systemd)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 49 | 112 | 
 | 2022-12-15 | 50 | 112 | 
 | 2022-12-14 | 50 | 112 | 
 | 2022-12-12 | 50 | 112 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 50 | 112 | 
 | 2022-11-18 | 50 | 112 | 
 | 2022-11-17 | 50 | 112 | 
-| 2022-11-16 | 50 | 112 | 
 

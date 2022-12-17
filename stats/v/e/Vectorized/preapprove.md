@@ -1,10 +1,10 @@
 # Vectorized/preapprove - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 2
+☋ Forks: 3
 
-★ Stars: 16
+★ Stars: 34
 
 [Open repository](https://github.com/Vectorized/preapprove)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 34 | 3 | 
 | 2022-12-15 | 16 | 2 | 
 | 2022-12-14 | 17 | 2 | 
 | 2022-12-13 | 17 | 2 | 

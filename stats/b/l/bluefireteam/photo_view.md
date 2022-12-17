@@ -1,10 +1,10 @@
 # bluefireteam/photo_view - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 467
 
-★ Stars: 1671
+★ Stars: 1672
 
 [Open repository](https://github.com/bluefireteam/photo_view)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 1672 | 467 | 
 | 2022-12-15 | 1671 | 467 | 
 | 2022-12-14 | 1670 | 467 | 
 | 2022-12-12 | 1670 | 467 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 1663 | 465 | 
 | 2022-11-18 | 1663 | 465 | 
 | 2022-11-17 | 1664 | 465 | 
-| 2022-11-16 | 1663 | 464 | 
 

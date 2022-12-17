@@ -1,6 +1,6 @@
 # xivdev/Penumbra - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 388 | 65 | 
 | 2022-12-15 | 388 | 65 | 
 | 2022-12-14 | 389 | 65 | 
 | 2022-12-13 | 389 | 65 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 383 | 62 | 
 | 2022-11-18 | 383 | 62 | 
 | 2022-11-17 | 383 | 62 | 
-| 2022-11-16 | 383 | 62 | 
 

@@ -1,6 +1,6 @@
 # 0xSplits/splits-waterfall - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 25 | 2 | 
 | 2022-12-15 | 25 | 2 | 
 | 2022-12-14 | 25 | 2 | 
 | 2022-12-13 | 25 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 24 | 1 | 
 | 2022-11-18 | 24 | 1 | 
 | 2022-11-17 | 24 | 1 | 
-| 2022-11-16 | 24 | 1 | 
 

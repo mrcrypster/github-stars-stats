@@ -1,10 +1,10 @@
 # e-roy/create-web3 - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 12
 
-★ Stars: 82
+★ Stars: 83
 
 [Open repository](https://github.com/e-roy/create-web3)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 83 | 12 | 
 | 2022-12-15 | 82 | 12 | 
 | 2022-12-14 | 82 | 12 | 
 | 2022-12-13 | 82 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 82 | 12 | 
 | 2022-11-18 | 82 | 12 | 
 | 2022-11-17 | 82 | 12 | 
-| 2022-11-16 | 82 | 12 | 
 

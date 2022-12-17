@@ -1,10 +1,10 @@
 # 3b1b/manim - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 5161
+☋ Forks: 5163
 
-★ Stars: 48676
+★ Stars: 48687
 
 [Open repository](https://github.com/3b1b/manim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 48687 | 5163 | 
 | 2022-12-15 | 48676 | 5161 | 
 | 2022-12-14 | 48653 | 5159 | 
 | 2022-12-13 | 48636 | 5158 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 48143 | 5123 | 
 | 2022-11-18 | 48116 | 5126 | 
 | 2022-11-17 | 48088 | 5119 | 
-| 2022-11-16 | 48064 | 5116 | 
 

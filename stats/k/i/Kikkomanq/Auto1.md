@@ -1,6 +1,6 @@
 # Kikkomanq/Auto1 - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | - | 35 | 
 | 2022-12-15 | - | 35 | 
 | 2022-12-14 | - | 35 | 
 | 2022-12-12 | - | 35 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | - | 33 | 
 | 2022-11-18 | - | 33 | 
 | 2022-11-17 | - | 33 | 
-| 2022-11-16 | - | 33 | 
 

@@ -1,8 +1,8 @@
 # netology-code/html-2-homeworks - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 80
+☋ Forks: 79
 
 ★ Stars: 15
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 15 | 79 | 
 | 2022-12-15 | 15 | 80 | 
 | 2022-12-13 | 15 | 80 | 
 | 2022-12-12 | 15 | 80 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 13 | 75 | 
 | 2022-11-18 | 13 | 75 | 
 | 2022-11-17 | 13 | 75 | 
-| 2022-11-16 | 13 | 75 | 
 

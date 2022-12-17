@@ -1,8 +1,8 @@
 # asquarezone/KubernetesZone - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 188
+☋ Forks: 190
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 5 | 190 | 
 | 2022-12-15 | 5 | 188 | 
 | 2022-12-13 | 6 | 187 | 
 | 2022-12-11 | 6 | 186 | 

@@ -1,6 +1,6 @@
 # moode-player/moode - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 146
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 682 | 146 | 
 | 2022-12-15 | 682 | 146 | 
 | 2022-12-14 | 684 | 146 | 
 | 2022-12-12 | 684 | 146 | 

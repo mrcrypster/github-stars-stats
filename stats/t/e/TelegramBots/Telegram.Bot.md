@@ -1,8 +1,8 @@
 # TelegramBots/Telegram.Bot - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 596
+☋ Forks: 597
 
 ★ Stars: 2482
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 2482 | 597 | 
 | 2022-12-15 | 2482 | 596 | 
 | 2022-12-14 | 2478 | 596 | 
 | 2022-12-12 | 2477 | 596 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 2436 | 583 | 
 | 2022-11-18 | 2436 | 582 | 
 | 2022-11-17 | 2435 | 582 | 
-| 2022-11-16 | 2432 | 581 | 
 

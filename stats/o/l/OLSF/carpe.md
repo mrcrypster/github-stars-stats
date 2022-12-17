@@ -1,10 +1,10 @@
 # OLSF/carpe - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 32
 
-★ Stars: 77
+★ Stars: 78
 
 [Open repository](https://github.com/OLSF/carpe)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 78 | 32 | 
 | 2022-12-15 | 77 | 32 | 
 | 2022-12-14 | 77 | 32 | 
 | 2022-12-13 | 77 | 32 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-20 | 77 | 32 | 
 | 2022-11-19 | 77 | 32 | 
 | 2022-11-17 | 77 | 32 | 
-| 2022-11-16 | 77 | 32 | 
 

@@ -1,8 +1,8 @@
 # maxgoedjen/secretive - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 98
+☋ Forks: 99
 
 ★ Stars: 4887
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 4887 | 99 | 
 | 2022-12-15 | 4887 | 98 | 
 | 2022-12-13 | 4886 | 97 | 
 | 2022-12-12 | 4882 | 97 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-20 | 4857 | 96 | 
 | 2022-11-19 | 4856 | 96 | 
 | 2022-11-18 | 4855 | 96 | 
-| 2022-11-17 | 4850 | 96 | 
 

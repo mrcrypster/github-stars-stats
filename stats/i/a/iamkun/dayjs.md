@@ -1,10 +1,10 @@
 # iamkun/dayjs - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 2078
+☋ Forks: 2079
 
-★ Stars: 41605
+★ Stars: 41615
 
 [Open repository](https://github.com/iamkun/dayjs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 41615 | 2079 | 
 | 2022-12-15 | 41605 | 2078 | 
 | 2022-12-14 | 41591 | 2080 | 
 | 2022-12-13 | 41573 | 2079 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-20 | 41318 | 2059 | 
 | 2022-11-19 | 41317 | 2060 | 
 | 2022-11-18 | 41293 | 2057 | 
-| 2022-11-17 | 41276 | 2057 | 
 

@@ -1,10 +1,10 @@
 # elastic/cloud-on-k8s - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 554
 
-★ Stars: 2041
+★ Stars: 2042
 
 [Open repository](https://github.com/elastic/cloud-on-k8s)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 2042 | 554 | 
 | 2022-12-15 | 2041 | 554 | 
 | 2022-12-14 | 2042 | 555 | 
 | 2022-12-12 | 2042 | 552 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 2014 | 541 | 
 | 2022-11-18 | 2012 | 540 | 
 | 2022-11-17 | 2011 | 539 | 
-| 2022-11-16 | 2010 | 539 | 
 

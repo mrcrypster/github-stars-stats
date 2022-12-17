@@ -1,6 +1,6 @@
 # ocaml/ocaml-lsp - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 91
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 523 | 91 | 
 | 2022-12-15 | 523 | 91 | 
 | 2022-12-14 | 524 | 91 | 
 | 2022-12-12 | 524 | 91 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 513 | 89 | 
 | 2022-11-18 | 513 | 89 | 
 | 2022-11-17 | 513 | 89 | 
-| 2022-11-16 | 512 | 89 | 
 

@@ -1,6 +1,6 @@
 # jgraph/mxgraph - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 1886
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 6471 | 1886 | 
 | 2022-12-15 | 6471 | 1886 | 
 | 2022-12-14 | 6471 | 1886 | 
 | 2022-12-12 | 6469 | 1884 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-20 | 6456 | 1885 | 
 | 2022-11-19 | 6457 | 1885 | 
 | 2022-11-18 | 6457 | 1884 | 
-| 2022-11-17 | 6457 | 1885 | 
 

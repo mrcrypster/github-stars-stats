@@ -1,6 +1,6 @@
 # Micke-K/IntuneManagement - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 74
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 401 | 74 | 
 | 2022-12-15 | 401 | 74 | 
 | 2022-12-13 | 400 | 74 | 
 | 2022-12-12 | 398 | 74 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 377 | 68 | 
 | 2022-11-18 | 377 | 68 | 
 | 2022-11-17 | 376 | 68 | 
-| 2022-11-16 | 375 | 68 | 
 

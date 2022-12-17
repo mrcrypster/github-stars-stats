@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 16
 
 ☋ Forks: 273
 
-★ Stars: 984
+★ Stars: 986
 
 [Open repository](https://github.com/facebook/ThreatExchange)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-16 | 984 | 273 | 
+| 2022-12-16 | 986 | 273 | 
 | 2022-12-15 | 983 | 273 | 
 

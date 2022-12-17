@@ -1,8 +1,8 @@
 # SonarSource/docker-sonarqube - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 964
+☋ Forks: 965
 
 ★ Stars: 1174
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 1174 | 965 | 
 | 2022-12-15 | 1174 | 964 | 
 | 2022-12-14 | 1174 | 964 | 
 | 2022-12-13 | 1174 | 965 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 1154 | 947 | 
 | 2022-11-18 | 1153 | 947 | 
 | 2022-11-17 | 1153 | 946 | 
-| 2022-11-16 | 1152 | 944 | 
 

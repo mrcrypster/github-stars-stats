@@ -1,6 +1,6 @@
 # theme-nexmoe/hexo-theme-nexmoe - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 209
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 1356 | 209 | 
 | 2022-12-15 | 1356 | 209 | 
 | 2022-12-13 | 1356 | 209 | 
 | 2022-12-12 | 1355 | 209 | 

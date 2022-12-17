@@ -1,6 +1,6 @@
 # qbcore-framework/qb-smallresources - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 294
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 31 | 294 | 
 | 2022-12-15 | 31 | 294 | 
 | 2022-12-14 | 32 | 293 | 
 | 2022-12-13 | 32 | 292 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 32 | 282 | 
 | 2022-11-18 | 32 | 279 | 
 | 2022-11-17 | 32 | 279 | 
-| 2022-11-16 | 32 | 280 | 
 

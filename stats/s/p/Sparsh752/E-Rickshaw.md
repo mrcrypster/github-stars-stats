@@ -1,6 +1,6 @@
 # Sparsh752/E-Rickshaw - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 1 | 7 | 
 | 2022-12-15 | 1 | 7 | 
 | 2022-12-14 | 2 | 7 | 
 | 2022-12-13 | 2 | 6 | 

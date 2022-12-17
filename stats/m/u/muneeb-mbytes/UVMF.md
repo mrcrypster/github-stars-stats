@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 16
 
-☋ Forks: 0
+☋ Forks: 3
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/muneeb-mbytes/UVMF)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-16 | 1 | - | 
+| 2022-12-16 | 2 | 3 | 
 | 2022-12-15 | 1 | - | 
 

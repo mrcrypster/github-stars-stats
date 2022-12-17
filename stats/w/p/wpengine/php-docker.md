@@ -1,6 +1,6 @@
 # wpengine/php-docker - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 45 | 27 | 
 | 2022-12-15 | 45 | 27 | 
 | 2022-12-14 | 45 | 27 | 
 | 2022-12-12 | 45 | 27 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 46 | 27 | 
 | 2022-11-18 | 46 | 27 | 
 | 2022-11-17 | 46 | 27 | 
-| 2022-11-16 | 46 | 27 | 
 

@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 16
 
 ☋ Forks: 45
 
-★ Stars: 1099
+★ Stars: 1102
 
 [Open repository](https://github.com/pointfreeco/swiftui-navigation)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-16 | 1099 | 45 | 
+| 2022-12-16 | 1102 | 45 | 
 | 2022-12-15 | 1099 | 45 | 
 | 2022-12-14 | 1092 | 44 | 
 | 2022-12-13 | 1091 | 43 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-19 | 988 | 35 | 
 | 2022-11-18 | 987 | 34 | 
 | 2022-11-17 | 986 | 33 | 
-| 2022-11-16 | 982 | 33 | 
 

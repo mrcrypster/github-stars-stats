@@ -1,6 +1,6 @@
 # CliMA/ClimaCore.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 50 | 5 | 
 | 2022-12-16 | 50 | 5 | 
 | 2022-12-15 | 50 | 5 | 
 | 2022-12-13 | 51 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-19 | 48 | 3 | 
 | 2022-11-18 | 48 | 3 | 
 | 2022-11-17 | 48 | 3 | 
-| 2022-11-16 | 48 | 3 | 
 

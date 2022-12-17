@@ -1,8 +1,8 @@
 # tanujnotes/Olauncher - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 72
+☋ Forks: 73
 
 ★ Stars: 838
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 838 | 73 | 
 | 2022-12-15 | 838 | 72 | 
 | 2022-12-14 | 836 | 72 | 
 | 2022-12-13 | 833 | 71 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 791 | 68 | 
 | 2022-11-18 | 789 | 68 | 
 | 2022-11-17 | 783 | 67 | 
-| 2022-11-16 | 780 | 67 | 
 

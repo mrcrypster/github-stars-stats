@@ -1,6 +1,6 @@
 # numtide/flake-utils - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 532 | 55 | 
 | 2022-12-15 | 532 | 55 | 
 | 2022-12-14 | 532 | 55 | 
 | 2022-12-13 | 532 | 54 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 516 | 52 | 
 | 2022-11-18 | 516 | 52 | 
 | 2022-11-17 | 515 | 52 | 
-| 2022-11-16 | 514 | 52 | 
 

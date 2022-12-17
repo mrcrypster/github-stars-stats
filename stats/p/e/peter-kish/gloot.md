@@ -1,10 +1,10 @@
 # peter-kish/gloot - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 5
 
-★ Stars: 87
+★ Stars: 88
 
 [Open repository](https://github.com/peter-kish/gloot)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 88 | 5 | 
 | 2022-12-16 | 87 | 5 | 
 | 2022-12-15 | 87 | 5 | 
 | 2022-12-13 | 87 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-19 | 84 | 2 | 
 | 2022-11-18 | 83 | 2 | 
 | 2022-11-17 | 83 | 2 | 
-| 2022-11-16 | 82 | 2 | 
 

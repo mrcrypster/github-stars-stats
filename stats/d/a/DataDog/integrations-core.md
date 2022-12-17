@@ -1,10 +1,10 @@
 # DataDog/integrations-core - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 1230
+☋ Forks: 1231
 
-★ Stars: 721
+★ Stars: 722
 
 [Open repository](https://github.com/DataDog/integrations-core)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 722 | 1231 | 
 | 2022-12-15 | 721 | 1230 | 
 | 2022-12-14 | 721 | 1230 | 
 | 2022-12-13 | 721 | 1227 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 715 | 1224 | 
 | 2022-11-18 | 715 | 1223 | 
 | 2022-11-17 | 715 | 1222 | 
-| 2022-11-16 | 715 | 1221 | 
 

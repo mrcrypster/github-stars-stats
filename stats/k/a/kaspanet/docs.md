@@ -1,6 +1,6 @@
 # kaspanet/docs - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 21 | 18 | 
 | 2022-12-15 | 21 | 18 | 
 | 2022-12-13 | 21 | 18 | 
 | 2022-12-12 | 21 | 18 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 19 | 16 | 
 | 2022-11-18 | 19 | 16 | 
 | 2022-11-17 | 19 | 16 | 
-| 2022-11-16 | 19 | 16 | 
 

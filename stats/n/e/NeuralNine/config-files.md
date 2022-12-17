@@ -1,6 +1,6 @@
 # NeuralNine/config-files - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 194
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 350 | 194 | 
 | 2022-12-15 | 350 | 194 | 
 | 2022-12-14 | 350 | 194 | 
 | 2022-12-13 | 350 | 194 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 328 | 182 | 
 | 2022-11-18 | 325 | 181 | 
 | 2022-11-17 | 322 | 175 | 
-| 2022-11-16 | 322 | 175 | 
 

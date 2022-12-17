@@ -1,10 +1,10 @@
 # haishanh/yacd - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 275
 
-★ Stars: 2009
+★ Stars: 2014
 
 [Open repository](https://github.com/haishanh/yacd)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 2014 | 275 | 
 | 2022-12-15 | 2009 | 275 | 
 | 2022-12-14 | 2008 | 276 | 
 | 2022-12-13 | 2005 | 276 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 1954 | 269 | 
 | 2022-11-18 | 1954 | 269 | 
 | 2022-11-17 | 1953 | 268 | 
-| 2022-11-16 | 1950 | 268 | 
 

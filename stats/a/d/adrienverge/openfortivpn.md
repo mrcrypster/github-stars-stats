@@ -1,10 +1,10 @@
 # adrienverge/openfortivpn - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 283
 
-★ Stars: 1972
+★ Stars: 1975
 
 [Open repository](https://github.com/adrienverge/openfortivpn)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 1975 | 283 | 
 | 2022-12-15 | 1972 | 283 | 
 | 2022-12-14 | 1971 | 283 | 
 | 2022-12-13 | 1968 | 282 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 1926 | 278 | 
 | 2022-11-18 | 1926 | 278 | 
 | 2022-11-17 | 1925 | 277 | 
-| 2022-11-16 | 1926 | 277 | 
 

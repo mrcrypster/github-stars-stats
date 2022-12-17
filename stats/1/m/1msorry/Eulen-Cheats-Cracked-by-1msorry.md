@@ -1,10 +1,10 @@
 # 1msorry/Eulen-Cheats-Cracked-by-1msorry - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 12
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/1msorry/Eulen-Cheats-Cracked-by-1msorry)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 25 | 12 | 
 | 2022-12-15 | 24 | 12 | 
 | 2022-12-14 | 23 | 11 | 
 | 2022-12-12 | 23 | 10 | 

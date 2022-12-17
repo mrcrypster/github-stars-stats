@@ -1,6 +1,6 @@
 # PromiseKit/UIKit - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 26 | 22 | 
 | 2022-12-15 | 26 | 22 | 
 | 2022-12-14 | 26 | 22 | 
 | 2022-12-13 | 26 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 25 | 22 | 
 | 2022-11-18 | 25 | 22 | 
 | 2022-11-17 | 25 | 22 | 
-| 2022-11-16 | 25 | 22 | 
 

@@ -1,10 +1,10 @@
 # kubecost/opencost - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 320
+☋ Forks: 321
 
-★ Stars: 3110
+★ Stars: 3117
 
 [Open repository](https://github.com/kubecost/opencost)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 3117 | 321 | 
 | 2022-12-15 | 3110 | 320 | 
 | 2022-12-14 | 3107 | 320 | 
 | 2022-12-13 | 3103 | 320 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 2999 | 296 | 
 | 2022-11-18 | 2996 | 295 | 
 | 2022-11-17 | 2988 | 294 | 
-| 2022-11-16 | 2978 | 293 | 
 

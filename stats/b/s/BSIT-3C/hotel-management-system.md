@@ -1,8 +1,8 @@
 # BSIT-3C/hotel-management-system - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 11
+☋ Forks: 12
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 3 | 12 | 
 | 2022-12-15 | 3 | 11 | 
 | 2022-12-14 | 3 | 11 | 
 

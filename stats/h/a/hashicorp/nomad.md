@@ -1,6 +1,6 @@
 # hashicorp/nomad - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 1704
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 12927 | 1704 | 
 | 2022-12-15 | 12927 | 1704 | 
 | 2022-12-14 | 12924 | 1704 | 
 | 2022-12-13 | 12922 | 1704 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 12821 | 1693 | 
 | 2022-11-18 | 12815 | 1693 | 
 | 2022-11-17 | 12813 | 1693 | 
-| 2022-11-16 | 12806 | 1694 | 
 

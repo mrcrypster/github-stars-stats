@@ -1,6 +1,6 @@
 # merixstudio/flutter-vizier-challenge - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 200 | 52 | 
 | 2022-12-15 | 200 | 52 | 
 | 2022-12-14 | 200 | 52 | 
 | 2022-12-13 | 200 | 52 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-20 | 197 | 51 | 
 | 2022-11-19 | 196 | 51 | 
 | 2022-11-18 | 196 | 50 | 
-| 2022-11-16 | 196 | 50 | 
 

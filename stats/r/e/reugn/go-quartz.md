@@ -1,6 +1,6 @@
 # reugn/go-quartz - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 1088 | 58 | 
 | 2022-12-15 | 1088 | 58 | 
 | 2022-12-14 | 1087 | 58 | 
 | 2022-12-13 | 1087 | 58 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-20 | 1032 | 55 | 
 | 2022-11-19 | 1025 | 55 | 
 | 2022-11-18 | 1009 | 53 | 
-| 2022-11-17 | 1007 | 53 | 
 

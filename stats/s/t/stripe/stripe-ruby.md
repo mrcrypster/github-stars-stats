@@ -1,8 +1,8 @@
 # stripe/stripe-ruby - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 512
+☋ Forks: 513
 
 ★ Stars: 1758
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 1758 | 513 | 
 | 2022-12-15 | 1758 | 512 | 
 | 2022-12-14 | 1758 | 512 | 
 | 2022-12-13 | 1758 | 511 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 1756 | 504 | 
 | 2022-11-18 | 1756 | 504 | 
 | 2022-11-17 | 1756 | 504 | 
-| 2022-11-16 | 1754 | 504 | 
 

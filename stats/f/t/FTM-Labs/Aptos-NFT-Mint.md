@@ -1,10 +1,10 @@
 # FTM-Labs/Aptos-NFT-Mint - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 96
 
-★ Stars: 159
+★ Stars: 160
 
 [Open repository](https://github.com/FTM-Labs/Aptos-NFT-Mint)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 160 | 96 | 
 | 2022-12-15 | 159 | 96 | 
 | 2022-12-14 | 159 | 96 | 
 | 2022-12-13 | 159 | 96 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 153 | 97 | 
 | 2022-11-18 | 153 | 96 | 
 | 2022-11-17 | 153 | 96 | 
-| 2022-11-16 | 153 | 96 | 
 

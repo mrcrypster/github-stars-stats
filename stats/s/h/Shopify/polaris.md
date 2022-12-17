@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 16
 
-☋ Forks: 1005
+☋ Forks: 1004
 
-★ Stars: 5111
+★ Stars: 5112
 
 [Open repository](https://github.com/Shopify/polaris)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-16 | 5111 | 1005 | 
+| 2022-12-16 | 5112 | 1004 | 
 | 2022-12-15 | 5111 | 1005 | 
 | 2022-12-13 | 5099 | 1000 | 
 | 2022-12-12 | 5096 | 1000 | 
@@ -39,5 +39,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-19 | 5069 | 987 | 
 | 2022-11-18 | 5067 | 987 | 
 | 2022-11-17 | 5066 | 986 | 
-| 2022-11-16 | 5062 | 986 | 
 

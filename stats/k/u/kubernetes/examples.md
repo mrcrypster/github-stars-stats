@@ -1,10 +1,10 @@
 # kubernetes/examples - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 4040
+☋ Forks: 4041
 
-★ Stars: 5313
+★ Stars: 5314
 
 [Open repository](https://github.com/kubernetes/examples)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 5314 | 4041 | 
 | 2022-12-15 | 5313 | 4040 | 
 | 2022-12-14 | 5311 | 4039 | 
 | 2022-12-13 | 5311 | 4039 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 5260 | 4011 | 
 | 2022-11-18 | 5258 | 4010 | 
 | 2022-11-17 | 5259 | 4009 | 
-| 2022-11-16 | 5257 | 4006 | 
 

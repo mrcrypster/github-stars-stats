@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 16
 
-☋ Forks: 699
+☋ Forks: 701
 
-★ Stars: 886
+★ Stars: 887
 
 [Open repository](https://github.com/npocmaka/batch.scripts)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-16 | 886 | 699 | 
+| 2022-12-16 | 887 | 701 | 
 | 2022-12-15 | 886 | 699 | 
 | 2022-12-14 | 885 | 699 | 
 | 2022-12-13 | 885 | 696 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-19 | 881 | 691 | 
 | 2022-11-18 | 881 | 691 | 
 | 2022-11-17 | 881 | 691 | 
-| 2022-11-16 | 880 | 691 | 
 

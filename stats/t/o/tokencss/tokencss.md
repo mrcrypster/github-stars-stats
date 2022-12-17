@@ -1,10 +1,10 @@
 # tokencss/tokencss - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 9
+☋ Forks: 10
 
-★ Stars: 1044
+★ Stars: 1045
 
 [Open repository](https://github.com/tokencss/tokencss)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 1045 | 10 | 
 | 2022-12-15 | 1044 | 9 | 
 | 2022-12-14 | 1044 | 9 | 
 | 2022-12-13 | 1044 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 1031 | 8 | 
 | 2022-11-18 | 1030 | 8 | 
 | 2022-11-17 | 1028 | 8 | 
-| 2022-11-16 | 1027 | 8 | 
 

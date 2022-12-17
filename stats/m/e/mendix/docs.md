@@ -1,6 +1,6 @@
 # mendix/docs - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 597
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 99 | 597 | 
 | 2022-12-15 | 99 | 597 | 
 | 2022-12-14 | 100 | 597 | 
 | 2022-12-13 | 100 | 597 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 97 | 591 | 
 | 2022-11-18 | 97 | 591 | 
 | 2022-11-17 | 97 | 591 | 
-| 2022-11-16 | 97 | 589 | 
 

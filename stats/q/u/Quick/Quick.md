@@ -1,10 +1,10 @@
 # Quick/Quick - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 909
 
-★ Stars: 9585
+★ Stars: 9586
 
 [Open repository](https://github.com/Quick/Quick)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 9586 | 909 | 
 | 2022-12-15 | 9585 | 909 | 
 | 2022-12-14 | 9585 | 909 | 
 | 2022-12-13 | 9584 | 909 | 

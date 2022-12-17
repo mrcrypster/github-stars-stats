@@ -1,6 +1,6 @@
 # FabioLolix/LinuxTimeline - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 125
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 1286 | 125 | 
 | 2022-12-15 | 1286 | 125 | 
 | 2022-12-13 | 1285 | 125 | 
 | 2022-12-12 | 1284 | 125 | 

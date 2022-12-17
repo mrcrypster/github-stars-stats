@@ -1,10 +1,10 @@
 # FilledStacks/flutter-tutorials - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 1739
 
-★ Stars: 4505
+★ Stars: 4504
 
 [Open repository](https://github.com/FilledStacks/flutter-tutorials)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 4504 | 1739 | 
 | 2022-12-15 | 4505 | 1739 | 
 | 2022-12-14 | 4505 | 1739 | 
 | 2022-12-13 | 4504 | 1739 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-20 | 4488 | 1728 | 
 | 2022-11-19 | 4486 | 1728 | 
 | 2022-11-18 | 4486 | 1727 | 
-| 2022-11-17 | 4487 | 1727 | 
 

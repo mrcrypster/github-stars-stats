@@ -1,6 +1,6 @@
 # wireshape/whitepaper - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 777 | 1 | 
 | 2022-12-15 | 777 | 1 | 
 | 2022-12-14 | 778 | 1 | 
 | 2022-12-13 | 778 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 780 | 1 | 
 | 2022-11-18 | 781 | 1 | 
 | 2022-11-17 | 781 | 1 | 
-| 2022-11-16 | 781 | 1 | 
 

@@ -1,6 +1,6 @@
 # Sergio0694/PolySharp - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 347 | 6 | 
 | 2022-12-15 | 347 | 6 | 
 | 2022-12-13 | 344 | 5 | 
 | 2022-12-12 | 340 | 5 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-20 | 305 | 3 | 
 | 2022-11-19 | 305 | 3 | 
 | 2022-11-18 | 304 | 3 | 
-| 2022-11-17 | 300 | 3 | 
 

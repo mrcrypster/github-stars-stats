@@ -1,10 +1,10 @@
 # SheatNoisette/femtobrowser - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 0
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/SheatNoisette/femtobrowser)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 33 | - | 
 | 2022-12-15 | 32 | - | 
 | 2022-12-13 | 32 | - | 
 | 2022-12-12 | 32 | - | 

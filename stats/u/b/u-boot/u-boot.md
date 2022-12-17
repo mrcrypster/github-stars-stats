@@ -1,8 +1,8 @@
 # u-boot/u-boot - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 2672
+☋ Forks: 2673
 
 ★ Stars: 2517
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 2517 | 2673 | 
 | 2022-12-15 | 2517 | 2672 | 
 | 2022-12-14 | 2516 | 2671 | 
 | 2022-12-13 | 2514 | 2669 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 2475 | 2636 | 
 | 2022-11-18 | 2475 | 2635 | 
 | 2022-11-17 | 2474 | 2634 | 
-| 2022-11-16 | 2470 | 2629 | 
 

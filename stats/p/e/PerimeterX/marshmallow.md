@@ -1,6 +1,6 @@
 # PerimeterX/marshmallow - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 253 | 7 | 
 | 2022-12-15 | 253 | 7 | 
 | 2022-12-14 | 253 | 7 | 
 | 2022-12-13 | 252 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-20 | 232 | 7 | 
 | 2022-11-18 | 232 | 7 | 
 | 2022-11-17 | 232 | 7 | 
-| 2022-11-16 | 232 | 7 | 
 

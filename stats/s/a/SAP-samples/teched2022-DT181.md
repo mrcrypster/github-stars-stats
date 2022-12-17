@@ -1,6 +1,6 @@
 # SAP-samples/teched2022-DT181 - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 18 | 8 | 
 | 2022-12-15 | 18 | 8 | 
 | 2022-12-14 | 18 | 8 | 
 | 2022-12-12 | 18 | 8 | 

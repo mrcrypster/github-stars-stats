@@ -1,6 +1,6 @@
 # johannesgerer/jburkardt-m - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 66 | 46 | 
 | 2022-12-15 | 66 | 46 | 
 | 2022-12-14 | 66 | 46 | 
 | 2022-12-13 | 66 | 46 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 66 | 46 | 
 | 2022-11-18 | 66 | 46 | 
 | 2022-11-17 | 66 | 46 | 
-| 2022-11-16 | 66 | 46 | 
 

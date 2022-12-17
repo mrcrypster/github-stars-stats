@@ -1,6 +1,6 @@
 # longer96/flutter-demo - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 171 | 39 | 
 | 2022-12-15 | 171 | 39 | 
 | 2022-12-13 | 171 | 39 | 
 | 2022-12-12 | 171 | 39 | 

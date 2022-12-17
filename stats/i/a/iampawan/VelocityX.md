@@ -1,10 +1,10 @@
 # iampawan/VelocityX - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 160
+☋ Forks: 161
 
-★ Stars: 1158
+★ Stars: 1159
 
 [Open repository](https://github.com/iampawan/VelocityX)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 1159 | 161 | 
 | 2022-12-15 | 1158 | 160 | 
 | 2022-12-14 | 1158 | 160 | 
 | 2022-12-13 | 1157 | 160 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 1146 | 158 | 
 | 2022-11-18 | 1146 | 158 | 
 | 2022-11-17 | 1145 | 158 | 
-| 2022-11-16 | 1145 | 158 | 
 

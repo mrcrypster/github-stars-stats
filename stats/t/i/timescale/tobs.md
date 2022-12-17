@@ -1,10 +1,10 @@
 # timescale/tobs - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 56
 
-★ Stars: 500
+★ Stars: 501
 
 [Open repository](https://github.com/timescale/tobs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 501 | 56 | 
 | 2022-12-15 | 500 | 56 | 
 | 2022-12-14 | 499 | 56 | 
 | 2022-12-13 | 498 | 56 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 487 | 57 | 
 | 2022-11-18 | 487 | 57 | 
 | 2022-11-17 | 487 | 57 | 
-| 2022-11-16 | 487 | 57 | 
 

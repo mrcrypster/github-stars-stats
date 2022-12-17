@@ -1,10 +1,10 @@
 # 0x7c13/Notepads - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 403
 
-★ Stars: 6984
+★ Stars: 6986
 
 [Open repository](https://github.com/0x7c13/Notepads)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 6986 | 403 | 
 | 2022-12-16 | 6984 | 403 | 
 | 2022-12-15 | 6985 | 403 | 
 | 2022-12-13 | 6982 | 404 | 

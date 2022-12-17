@@ -1,6 +1,6 @@
 # CTSRD-CHERI/cheri-specification - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 5 | 5 | 
 | 2022-12-16 | 5 | 5 | 
 | 2022-12-15 | 5 | 5 | 
 | 2022-12-13 | 5 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-19 | 4 | 5 | 
 | 2022-11-18 | 3 | 5 | 
 | 2022-11-17 | 3 | 5 | 
-| 2022-11-16 | 3 | 5 | 
 

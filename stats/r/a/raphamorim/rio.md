@@ -1,6 +1,6 @@
 # raphamorim/rio - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 89 | 8 | 
 | 2022-12-15 | 89 | 8 | 
 | 2022-12-14 | 89 | 8 | 
 | 2022-12-13 | 88 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 88 | 8 | 
 | 2022-11-18 | 88 | 8 | 
 | 2022-11-17 | 88 | 8 | 
-| 2022-11-16 | 87 | 8 | 
 

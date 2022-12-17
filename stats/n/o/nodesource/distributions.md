@@ -1,10 +1,10 @@
 # nodesource/distributions - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 2978
+☋ Forks: 2979
 
-★ Stars: 10861
+★ Stars: 10864
 
 [Open repository](https://github.com/nodesource/distributions)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 10864 | 2979 | 
 | 2022-12-15 | 10861 | 2978 | 
 | 2022-12-14 | 10859 | 2979 | 
 | 2022-12-13 | 10853 | 2976 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-20 | 10768 | 2947 | 
 | 2022-11-19 | 10765 | 2945 | 
 | 2022-11-18 | 10763 | 2944 | 
-| 2022-11-16 | 10749 | 2937 | 
 

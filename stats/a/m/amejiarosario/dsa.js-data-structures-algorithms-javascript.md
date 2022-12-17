@@ -1,10 +1,10 @@
 # amejiarosario/dsa.js-data-structures-algorithms-javascript - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 799
+☋ Forks: 800
 
-★ Stars: 6924
+★ Stars: 6925
 
 [Open repository](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 6925 | 800 | 
 | 2022-12-15 | 6924 | 799 | 
 | 2022-12-14 | 6921 | 799 | 
 | 2022-12-12 | 6920 | 799 | 

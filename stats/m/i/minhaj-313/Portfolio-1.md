@@ -1,6 +1,6 @@
 # minhaj-313/Portfolio-1 - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 34 | 44 | 
 | 2022-12-15 | 34 | 44 | 
 | 2022-12-14 | 34 | 44 | 
 | 2022-12-13 | 34 | 44 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 34 | 45 | 
 | 2022-11-18 | 34 | 45 | 
 | 2022-11-17 | 34 | 45 | 
-| 2022-11-16 | 34 | 45 | 
 

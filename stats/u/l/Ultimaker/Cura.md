@@ -1,10 +1,10 @@
 # Ultimaker/Cura - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 1734
 
-★ Stars: 4320
+★ Stars: 4322
 
 [Open repository](https://github.com/Ultimaker/Cura)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 4322 | 1734 | 
 | 2022-12-15 | 4320 | 1734 | 
 | 2022-12-13 | 4318 | 1733 | 
 | 2022-12-12 | 4314 | 1730 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 4258 | 1723 | 
 | 2022-11-18 | 4256 | 1722 | 
 | 2022-11-17 | 4254 | 1721 | 
-| 2022-11-16 | 4251 | 1721 | 
 

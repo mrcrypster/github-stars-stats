@@ -1,6 +1,6 @@
 # pret/pokeheartgold - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 99 | 36 | 
 | 2022-12-15 | 99 | 36 | 
 | 2022-12-13 | 100 | 36 | 
 | 2022-12-12 | 100 | 37 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 95 | 35 | 
 | 2022-11-18 | 95 | 34 | 
 | 2022-11-17 | 95 | 34 | 
-| 2022-11-16 | 95 | 34 | 
 

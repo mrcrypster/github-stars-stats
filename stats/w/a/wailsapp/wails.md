@@ -1,10 +1,10 @@
 # wailsapp/wails - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 621
+☋ Forks: 622
 
-★ Stars: 13260
+★ Stars: 13278
 
 [Open repository](https://github.com/wailsapp/wails)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 13278 | 622 | 
 | 2022-12-15 | 13260 | 621 | 
 | 2022-12-14 | 13253 | 621 | 
 | 2022-12-13 | 13235 | 621 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-20 | 12887 | 594 | 
 | 2022-11-19 | 12866 | 593 | 
 | 2022-11-18 | 12845 | 594 | 
-| 2022-11-16 | 12833 | 592 | 
 

@@ -1,10 +1,10 @@
 # xream/scripts - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 63
 
-★ Stars: 321
+★ Stars: 322
 
 [Open repository](https://github.com/xream/scripts)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 322 | 63 | 
 | 2022-12-15 | 321 | 63 | 
 | 2022-12-14 | 320 | 63 | 
 | 2022-12-12 | 318 | 62 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 296 | 58 | 
 | 2022-11-18 | 295 | 57 | 
 | 2022-11-17 | 293 | 58 | 
-| 2022-11-16 | 291 | 57 | 
 

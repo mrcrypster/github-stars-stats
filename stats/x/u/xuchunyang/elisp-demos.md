@@ -1,6 +1,6 @@
 # xuchunyang/elisp-demos - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 157 | 15 | 
 | 2022-12-15 | 157 | 15 | 
 | 2022-12-14 | 157 | 15 | 
 | 2022-12-13 | 157 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-20 | 149 | 13 | 
 | 2022-11-19 | 149 | 13 | 
 | 2022-11-17 | 149 | 13 | 
-| 2022-11-16 | 149 | 13 | 
 

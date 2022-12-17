@@ -1,6 +1,6 @@
 # dionysos-dev/Dionysos.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 23 | 13 | 
 | 2022-12-15 | 23 | 13 | 
 | 2022-12-13 | 23 | 13 | 
 | 2022-12-12 | 23 | 13 | 

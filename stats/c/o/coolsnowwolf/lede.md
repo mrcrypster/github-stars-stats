@@ -1,10 +1,10 @@
 # coolsnowwolf/lede - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 18425
+☋ Forks: 18427
 
-★ Stars: 24183
+★ Stars: 24195
 
 [Open repository](https://github.com/coolsnowwolf/lede)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 24195 | 18427 | 
 | 2022-12-15 | 24183 | 18425 | 
 | 2022-12-14 | 24175 | 18421 | 
 | 2022-12-13 | 24157 | 18419 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 23782 | 18313 | 
 | 2022-11-18 | 23778 | 18308 | 
 | 2022-11-17 | 23764 | 18306 | 
-| 2022-11-16 | 23742 | 18280 | 
 

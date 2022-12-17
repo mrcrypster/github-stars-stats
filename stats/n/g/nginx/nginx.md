@@ -1,10 +1,10 @@
 # nginx/nginx - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 6099
+☋ Forks: 6101
 
-★ Stars: 17703
+★ Stars: 17713
 
 [Open repository](https://github.com/nginx/nginx)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 17713 | 6101 | 
 | 2022-12-15 | 17703 | 6099 | 
 | 2022-12-14 | 17700 | 6096 | 
 | 2022-12-13 | 17693 | 6096 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 17547 | 6057 | 
 | 2022-11-18 | 17540 | 6057 | 
 | 2022-11-17 | 17531 | 6054 | 
-| 2022-11-16 | 17524 | 6051 | 
 

@@ -1,10 +1,10 @@
 # mandiant/commando-vm - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 1185
 
-★ Stars: 5706
+★ Stars: 5708
 
 [Open repository](https://github.com/mandiant/commando-vm)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 5708 | 1185 | 
 | 2022-12-15 | 5706 | 1185 | 
 | 2022-12-14 | 5706 | 1184 | 
 | 2022-12-13 | 5704 | 1183 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 5654 | 1178 | 
 | 2022-11-18 | 5653 | 1178 | 
 | 2022-11-17 | 5651 | 1177 | 
-| 2022-11-16 | 5651 | 1176 | 
 

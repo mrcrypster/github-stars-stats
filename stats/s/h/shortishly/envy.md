@@ -1,6 +1,6 @@
 # shortishly/envy - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 6 | 4 | 
 | 2022-12-15 | 6 | 4 | 
 | 2022-12-14 | 6 | 4 | 
 | 2022-12-13 | 6 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 5 | 4 | 
 | 2022-11-18 | 5 | 4 | 
 | 2022-11-17 | 5 | 4 | 
-| 2022-11-16 | 5 | 4 | 
 

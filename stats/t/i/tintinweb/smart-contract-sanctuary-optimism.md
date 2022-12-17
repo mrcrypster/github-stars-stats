@@ -1,6 +1,6 @@
 # tintinweb/smart-contract-sanctuary-optimism - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 19 | 3 | 
 | 2022-12-15 | 19 | 3 | 
 | 2022-12-14 | 20 | 3 | 
 | 2022-12-13 | 20 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 18 | 3 | 
 | 2022-11-18 | 18 | 3 | 
 | 2022-11-17 | 18 | 3 | 
-| 2022-11-16 | 18 | 3 | 
 

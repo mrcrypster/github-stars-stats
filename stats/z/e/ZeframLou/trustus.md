@@ -1,8 +1,8 @@
 # ZeframLou/trustus - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 7
+☋ Forks: 8
 
 ★ Stars: 127
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 127 | 8 | 
 | 2022-12-15 | 127 | 7 | 
 | 2022-12-14 | 127 | 7 | 
 | 2022-12-13 | 127 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 128 | 7 | 
 | 2022-11-18 | 128 | 7 | 
 | 2022-11-17 | 128 | 7 | 
-| 2022-11-16 | 128 | 7 | 
 

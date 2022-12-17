@@ -1,10 +1,10 @@
 # nasa/openmct - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 1158
+☋ Forks: 1160
 
-★ Stars: 10628
+★ Stars: 10632
 
 [Open repository](https://github.com/nasa/openmct)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 10632 | 1160 | 
 | 2022-12-15 | 10628 | 1158 | 
 | 2022-12-14 | 10628 | 1158 | 
 | 2022-12-13 | 10626 | 1156 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 10590 | 1148 | 
 | 2022-11-18 | 10584 | 1147 | 
 | 2022-11-17 | 10582 | 1145 | 
-| 2022-11-16 | 10581 | 1143 | 
 

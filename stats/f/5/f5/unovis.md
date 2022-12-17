@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 16
 
-☋ Forks: 16
+☋ Forks: 18
 
-★ Stars: 777
+★ Stars: 901
 
 [Open repository](https://github.com/f5/unovis)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-16 | 777 | 16 | 
+| 2022-12-16 | 901 | 18 | 
 | 2022-12-15 | 748 | 16 | 
 

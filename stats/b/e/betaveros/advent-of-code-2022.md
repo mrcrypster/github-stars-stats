@@ -1,10 +1,10 @@
 # betaveros/advent-of-code-2022 - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 6
+☋ Forks: 8
 
-★ Stars: 144
+★ Stars: 152
 
 [Open repository](https://github.com/betaveros/advent-of-code-2022)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 152 | 8 | 
 | 2022-12-15 | 144 | 6 | 
 | 2022-12-14 | 135 | 6 | 
 | 2022-12-12 | 113 | 5 | 

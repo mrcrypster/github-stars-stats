@@ -1,10 +1,10 @@
 # bluejekyll/trust-dns - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 312
 
-★ Stars: 2638
+★ Stars: 2639
 
 [Open repository](https://github.com/bluejekyll/trust-dns)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 2639 | 312 | 
 | 2022-12-15 | 2638 | 312 | 
 | 2022-12-14 | 2636 | 313 | 
 | 2022-12-12 | 2633 | 313 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 2591 | 311 | 
 | 2022-11-18 | 2591 | 310 | 
 | 2022-11-17 | 2591 | 310 | 
-| 2022-11-16 | 2589 | 309 | 
 

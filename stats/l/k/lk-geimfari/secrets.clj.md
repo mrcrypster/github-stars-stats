@@ -1,10 +1,10 @@
 # lk-geimfari/secrets.clj - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 1
 
-★ Stars: 82
+★ Stars: 81
 
 [Open repository](https://github.com/lk-geimfari/secrets.clj)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 81 | 1 | 
 | 2022-12-15 | 82 | 1 | 
 | 2022-12-14 | 82 | 1 | 
 | 2022-12-12 | 82 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 81 | 1 | 
 | 2022-11-18 | 81 | 1 | 
 | 2022-11-17 | 81 | - | 
-| 2022-11-16 | 81 | - | 
 

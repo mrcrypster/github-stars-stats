@@ -1,10 +1,10 @@
 # TCM-Course-Resources/Practical-Ethical-Hacking-Resources - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 1123
+☋ Forks: 1124
 
-★ Stars: 4596
+★ Stars: 4598
 
 [Open repository](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 4598 | 1124 | 
 | 2022-12-15 | 4596 | 1123 | 
 | 2022-12-14 | 4592 | 1123 | 
 | 2022-12-12 | 4589 | 1120 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 4539 | 1108 | 
 | 2022-11-18 | 4539 | 1107 | 
 | 2022-11-17 | 4535 | 1106 | 
-| 2022-11-16 | 4533 | 1106 | 
 

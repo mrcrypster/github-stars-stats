@@ -1,6 +1,6 @@
 # HubSpot/BuckyServer - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 195 | 33 | 
 | 2022-12-15 | 195 | 33 | 
 | 2022-12-14 | 195 | 33 | 
 | 2022-12-13 | 195 | 33 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 195 | 33 | 
 | 2022-11-18 | 195 | 32 | 
 | 2022-11-17 | 195 | 32 | 
-| 2022-11-16 | 195 | 32 | 
 

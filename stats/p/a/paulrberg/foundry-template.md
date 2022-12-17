@@ -1,6 +1,6 @@
 # paulrberg/foundry-template - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 166 | 21 | 
 | 2022-12-15 | 166 | 21 | 
 | 2022-12-14 | 166 | 21 | 
 | 2022-12-13 | 165 | 21 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 162 | 21 | 
 | 2022-11-18 | 161 | 21 | 
 | 2022-11-17 | 161 | 21 | 
-| 2022-11-16 | 159 | 20 | 
 

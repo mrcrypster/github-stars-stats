@@ -1,10 +1,10 @@
 # DoingDog/XXKiller - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 22
 
-★ Stars: 169
+★ Stars: 170
 
 [Open repository](https://github.com/DoingDog/XXKiller)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 170 | 22 | 
 | 2022-12-15 | 169 | 22 | 
 | 2022-12-14 | 168 | 22 | 
 | 2022-12-13 | 168 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 144 | 23 | 
 | 2022-11-18 | 143 | 23 | 
 | 2022-11-17 | 143 | 23 | 
-| 2022-11-16 | 140 | 22 | 
 

@@ -1,6 +1,6 @@
 # ml-jku/hopular - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 275 | 21 | 
 | 2022-12-15 | 275 | 21 | 
 | 2022-12-14 | 274 | 21 | 
 | 2022-12-13 | 274 | 21 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 272 | 22 | 
 | 2022-11-18 | 272 | 22 | 
 | 2022-11-17 | 272 | 22 | 
-| 2022-11-16 | 272 | 20 | 
 

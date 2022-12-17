@@ -1,6 +1,6 @@
 # relaypro-open/rethink-erlang - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 3 | 5 | 
 | 2022-12-15 | 3 | 5 | 
 | 2022-12-14 | 3 | 5 | 
 | 2022-12-12 | 3 | 5 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-20 | 3 | 4 | 
 | 2022-11-19 | 3 | 4 | 
 | 2022-11-18 | 3 | 4 | 
-| 2022-11-17 | 3 | 4 | 
 

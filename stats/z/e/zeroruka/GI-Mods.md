@@ -1,10 +1,10 @@
 # zeroruka/GI-Mods - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 32
+☋ Forks: 33
 
-★ Stars: 65
+★ Stars: 68
 
 [Open repository](https://github.com/zeroruka/GI-Mods)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 68 | 33 | 
 | 2022-12-15 | 65 | 32 | 
 | 2022-12-14 | 64 | 32 | 
 | 2022-12-12 | 64 | 32 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 24 | 10 | 
 | 2022-11-18 | 24 | 9 | 
 | 2022-11-17 | 24 | 9 | 
-| 2022-11-16 | 23 | 9 | 
 

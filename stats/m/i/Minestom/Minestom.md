@@ -1,6 +1,6 @@
 # Minestom/Minestom - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 232
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 1639 | 232 | 
 | 2022-12-15 | 1639 | 232 | 
 | 2022-12-14 | 1638 | 233 | 
 | 2022-12-13 | 1638 | 233 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-20 | 1613 | 235 | 
 | 2022-11-18 | 1609 | 236 | 
 | 2022-11-17 | 1609 | 235 | 
-| 2022-11-16 | 1609 | 235 | 
 

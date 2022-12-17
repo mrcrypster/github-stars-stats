@@ -1,6 +1,6 @@
 # nix-community/nix-environments - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 115 | 23 | 
 | 2022-12-15 | 115 | 23 | 
 | 2022-12-14 | 114 | 23 | 
 | 2022-12-12 | 114 | 23 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 108 | 23 | 
 | 2022-11-18 | 108 | 23 | 
 | 2022-11-17 | 108 | 23 | 
-| 2022-11-16 | 108 | 23 | 
 

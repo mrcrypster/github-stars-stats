@@ -1,6 +1,6 @@
 # QJune/wx_lovers - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 58 | 18 | 
 | 2022-12-15 | 58 | 18 | 
 | 2022-12-14 | 58 | 19 | 
 | 2022-12-13 | 58 | 19 | 

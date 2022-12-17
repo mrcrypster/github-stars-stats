@@ -1,6 +1,6 @@
 # dakhnod/FakeTag - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 192 | 7 | 
 | 2022-12-15 | 192 | 7 | 
 | 2022-12-14 | 192 | 7 | 
 | 2022-12-13 | 191 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-20 | 191 | 7 | 
 | 2022-11-19 | 191 | 7 | 
 | 2022-11-17 | 191 | 7 | 
-| 2022-11-16 | 191 | 7 | 
 

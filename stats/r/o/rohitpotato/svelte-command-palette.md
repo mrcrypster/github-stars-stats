@@ -1,6 +1,6 @@
 # rohitpotato/svelte-command-palette - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 124 | 8 | 
 | 2022-12-15 | 124 | 8 | 
 | 2022-12-14 | 124 | 8 | 
 | 2022-12-12 | 124 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 119 | 8 | 
 | 2022-11-18 | 118 | 8 | 
 | 2022-11-17 | 118 | 8 | 
-| 2022-11-16 | 118 | 8 | 
 

@@ -1,6 +1,6 @@
 # zdhxiong/mdui - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 355
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 3498 | 355 | 
 | 2022-12-15 | 3498 | 355 | 
 | 2022-12-14 | 3498 | 355 | 
 | 2022-12-13 | 3495 | 355 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-20 | 3484 | 354 | 
 | 2022-11-19 | 3484 | 354 | 
 | 2022-11-18 | 3483 | 354 | 
-| 2022-11-16 | 3483 | 354 | 
 

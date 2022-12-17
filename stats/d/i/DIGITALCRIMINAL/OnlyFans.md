@@ -1,8 +1,8 @@
 # DIGITALCRIMINAL/OnlyFans - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 564
+☋ Forks: 566
 
 ★ Stars: 3210
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 3210 | 566 | 
 | 2022-12-15 | 3210 | 564 | 
 | 2022-12-14 | 3205 | 564 | 
 | 2022-12-12 | 3204 | 565 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 3181 | 556 | 
 | 2022-11-18 | 3180 | 555 | 
 | 2022-11-17 | 3180 | 555 | 
-| 2022-11-16 | 3177 | 555 | 
 

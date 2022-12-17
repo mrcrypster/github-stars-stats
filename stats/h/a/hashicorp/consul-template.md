@@ -1,8 +1,8 @@
 # hashicorp/consul-template - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 773
+☋ Forks: 774
 
 ★ Stars: 4573
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 4573 | 774 | 
 | 2022-12-15 | 4573 | 773 | 
 | 2022-12-14 | 4573 | 773 | 
 | 2022-12-13 | 4573 | 774 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 4563 | 772 | 
 | 2022-11-18 | 4564 | 772 | 
 | 2022-11-17 | 4563 | 772 | 
-| 2022-11-16 | 4562 | 772 | 
 

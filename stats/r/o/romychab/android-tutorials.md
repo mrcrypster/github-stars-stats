@@ -1,10 +1,10 @@
 # romychab/android-tutorials - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 164
 
-★ Stars: 162
+★ Stars: 163
 
 [Open repository](https://github.com/romychab/android-tutorials)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 163 | 164 | 
 | 2022-12-15 | 162 | 164 | 
 | 2022-12-14 | 162 | 164 | 
 | 2022-12-13 | 162 | 163 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 154 | 162 | 
 | 2022-11-18 | 154 | 161 | 
 | 2022-11-17 | 153 | 163 | 
-| 2022-11-16 | 153 | 163 | 
 

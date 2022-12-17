@@ -1,10 +1,10 @@
 # epezent/implot - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 299
+☋ Forks: 300
 
-★ Stars: 2810
+★ Stars: 2813
 
 [Open repository](https://github.com/epezent/implot)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 2813 | 300 | 
 | 2022-12-15 | 2810 | 299 | 
 | 2022-12-14 | 2809 | 299 | 
 | 2022-12-13 | 2808 | 299 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 2756 | 290 | 
 | 2022-11-18 | 2755 | 290 | 
 | 2022-11-17 | 2754 | 290 | 
-| 2022-11-16 | 2752 | 290 | 
 

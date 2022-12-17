@@ -1,6 +1,6 @@
 # appdev-projects/string-chapter - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 684
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | - | 684 | 
 | 2022-12-15 | - | 684 | 
 | 2022-12-13 | - | 684 | 
 | 2022-12-12 | - | 684 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | - | 682 | 
 | 2022-11-18 | - | 682 | 
 | 2022-11-17 | - | 682 | 
-| 2022-11-16 | - | 682 | 
 

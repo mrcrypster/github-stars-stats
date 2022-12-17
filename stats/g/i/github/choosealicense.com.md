@@ -1,10 +1,10 @@
 # github/choosealicense.com - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 1385
+☋ Forks: 1386
 
-★ Stars: 3085
+★ Stars: 3087
 
 [Open repository](https://github.com/github/choosealicense.com)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 3087 | 1386 | 
 | 2022-12-15 | 3085 | 1385 | 
 | 2022-12-14 | 3084 | 1385 | 
 | 2022-12-12 | 3083 | 1384 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 3066 | 1373 | 
 | 2022-11-18 | 3065 | 1373 | 
 | 2022-11-17 | 3065 | 1373 | 
-| 2022-11-16 | 3065 | 1372 | 
 

@@ -1,10 +1,10 @@
 # evanleck/vim-svelte - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 8
 
-★ Stars: 262
+★ Stars: 263
 
 [Open repository](https://github.com/evanleck/vim-svelte)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 263 | 8 | 
 | 2022-12-15 | 262 | 8 | 
 | 2022-12-14 | 262 | 8 | 
 | 2022-12-13 | 262 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-20 | 257 | 8 | 
 | 2022-11-19 | 257 | 8 | 
 | 2022-11-18 | 257 | 8 | 
-| 2022-11-17 | 257 | 8 | 
 

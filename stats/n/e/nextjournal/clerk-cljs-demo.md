@@ -1,0 +1,18 @@
+# nextjournal/clerk-cljs-demo - stars & forks statistics
+
+Stats updated on Dec 2022, 17
+
+☋ Forks: 1
+
+★ Stars: 2
+
+[Open repository](https://github.com/nextjournal/clerk-cljs-demo)
+
+[Open detailed stats for nextjournal/clerk-cljs-demo](https://reviewgithub.com/rep/nextjournal/clerk-cljs-demo)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-12-17 | 2 | 1 | 
+| 2022-12-16 | 2 | 1 | 
+

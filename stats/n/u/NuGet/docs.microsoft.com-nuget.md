@@ -1,6 +1,6 @@
 # NuGet/docs.microsoft.com-nuget - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 466
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 131 | 466 | 
 | 2022-12-15 | 131 | 466 | 
 | 2022-12-14 | 131 | 466 | 
 | 2022-12-13 | 131 | 465 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 129 | 461 | 
 | 2022-11-18 | 129 | 461 | 
 | 2022-11-17 | 129 | 461 | 
-| 2022-11-16 | 129 | 461 | 
 

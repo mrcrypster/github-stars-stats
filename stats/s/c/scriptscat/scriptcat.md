@@ -1,8 +1,8 @@
 # scriptscat/scriptcat - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 59
+☋ Forks: 60
 
 ★ Stars: 575
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 575 | 60 | 
 | 2022-12-15 | 575 | 59 | 
 | 2022-12-14 | 576 | 59 | 
 | 2022-12-13 | 575 | 59 | 

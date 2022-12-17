@@ -1,10 +1,10 @@
 # bigb0sss/RedTeam-OffensiveSecurity - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 289
 
-★ Stars: 1659
+★ Stars: 1661
 
 [Open repository](https://github.com/bigb0sss/RedTeam-OffensiveSecurity)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 1661 | 289 | 
 | 2022-12-15 | 1659 | 289 | 
 | 2022-12-14 | 1657 | 289 | 
 | 2022-12-12 | 1656 | 289 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 1632 | 285 | 
 | 2022-11-18 | 1630 | 285 | 
 | 2022-11-17 | 1630 | 285 | 
-| 2022-11-16 | 1630 | 285 | 
 

@@ -1,10 +1,10 @@
 # aws-samples/aws-machine-learning-university-accelerated-nlp - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 515
+☋ Forks: 516
 
-★ Stars: 1984
+★ Stars: 1983
 
 [Open repository](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 1983 | 516 | 
 | 2022-12-15 | 1984 | 515 | 
 | 2022-12-14 | 1983 | 515 | 
 | 2022-12-12 | 1982 | 514 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 1971 | 513 | 
 | 2022-11-18 | 1971 | 513 | 
 | 2022-11-17 | 1971 | 513 | 
-| 2022-11-16 | 1970 | 513 | 
 

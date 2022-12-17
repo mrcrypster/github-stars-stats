@@ -1,10 +1,10 @@
 # metabolist/metatext - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 71
+☋ Forks: 72
 
-★ Stars: 674
+★ Stars: 676
 
 [Open repository](https://github.com/metabolist/metatext)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 676 | 72 | 
 | 2022-12-15 | 674 | 71 | 
 | 2022-12-13 | 673 | 70 | 
 | 2022-12-12 | 671 | 69 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 411 | 39 | 
 | 2022-11-18 | 394 | 39 | 
 | 2022-11-17 | 385 | 38 | 
-| 2022-11-16 | 375 | 38 | 
 

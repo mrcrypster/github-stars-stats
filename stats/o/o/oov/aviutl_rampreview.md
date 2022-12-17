@@ -1,6 +1,6 @@
 # oov/aviutl_rampreview - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 88 | 9 | 
 | 2022-12-15 | 88 | 9 | 
 | 2022-12-14 | 88 | 9 | 
 | 2022-12-13 | 88 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 88 | 9 | 
 | 2022-11-18 | 88 | 9 | 
 | 2022-11-17 | 88 | 9 | 
-| 2022-11-16 | 88 | 9 | 
 

@@ -1,10 +1,10 @@
 # getsurfboard/surfboard - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 49
 
-★ Stars: 984
+★ Stars: 986
 
 [Open repository](https://github.com/getsurfboard/surfboard)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 986 | 49 | 
 | 2022-12-15 | 984 | 49 | 
 | 2022-12-14 | 982 | 48 | 
 | 2022-12-13 | 981 | 48 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 908 | 46 | 
 | 2022-11-18 | 906 | 46 | 
 | 2022-11-17 | 902 | 45 | 
-| 2022-11-16 | 899 | 45 | 
 

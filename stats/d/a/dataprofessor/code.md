@@ -1,8 +1,8 @@
 # dataprofessor/code - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 1269
+☋ Forks: 1268
 
 ★ Stars: 712
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 712 | 1268 | 
 | 2022-12-15 | 712 | 1269 | 
 | 2022-12-14 | 712 | 1268 | 
 | 2022-12-13 | 711 | 1265 | 

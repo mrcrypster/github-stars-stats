@@ -1,10 +1,10 @@
 # woowacourse-precourse/kotlin-onboarding - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 171
 
-★ Stars: 18
+★ Stars: 17
 
 [Open repository](https://github.com/woowacourse-precourse/kotlin-onboarding)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 17 | 171 | 
 | 2022-12-15 | 18 | 171 | 
 | 2022-12-14 | 18 | 171 | 
 | 2022-12-13 | 18 | 173 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 18 | 174 | 
 | 2022-11-18 | 18 | 174 | 
 | 2022-11-17 | 18 | 174 | 
-| 2022-11-16 | 18 | 174 | 
 

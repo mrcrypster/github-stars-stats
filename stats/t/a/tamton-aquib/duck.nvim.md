@@ -1,10 +1,10 @@
 # tamton-aquib/duck.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 6
 
-★ Stars: 296
+★ Stars: 297
 
 [Open repository](https://github.com/tamton-aquib/duck.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 297 | 6 | 
 | 2022-12-15 | 296 | 6 | 
 | 2022-12-14 | 294 | 6 | 
 | 2022-12-13 | 288 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 150 | 3 | 
 | 2022-11-18 | 150 | 3 | 
 | 2022-11-17 | 150 | 3 | 
-| 2022-11-16 | 149 | 3 | 
 

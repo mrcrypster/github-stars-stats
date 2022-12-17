@@ -1,8 +1,8 @@
 # localstack/docs - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 53
+☋ Forks: 52
 
 ★ Stars: 28
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 28 | 52 | 
 | 2022-12-15 | 28 | 53 | 
 | 2022-12-14 | 28 | 53 | 
 | 2022-12-13 | 28 | 53 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 25 | 50 | 
 | 2022-11-18 | 25 | 50 | 
 | 2022-11-17 | 25 | 50 | 
-| 2022-11-16 | 25 | 50 | 
 

@@ -1,6 +1,6 @@
 # Gedsh/InviZible - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 736 | 62 | 
 | 2022-12-15 | 736 | 62 | 
 | 2022-12-14 | 735 | 62 | 
 | 2022-12-13 | 734 | 62 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 722 | 62 | 
 | 2022-11-18 | 722 | 62 | 
 | 2022-11-17 | 722 | 62 | 
-| 2022-11-16 | 722 | 62 | 
 

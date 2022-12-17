@@ -1,6 +1,6 @@
 # NixOS/hydra - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 259
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 770 | 259 | 
 | 2022-12-15 | 770 | 259 | 
 | 2022-12-14 | 769 | 259 | 
 | 2022-12-12 | 768 | 259 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-20 | 764 | 256 | 
 | 2022-11-19 | 764 | 256 | 
 | 2022-11-18 | 764 | 256 | 
-| 2022-11-16 | 763 | 256 | 
 

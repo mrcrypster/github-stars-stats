@@ -1,10 +1,10 @@
 # arl/statsviz - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 89
 
-★ Stars: 2618
+★ Stars: 2619
 
 [Open repository](https://github.com/arl/statsviz)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 2619 | 89 | 
 | 2022-12-15 | 2618 | 89 | 
 | 2022-12-14 | 2617 | 89 | 
 | 2022-12-12 | 2614 | 89 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 2558 | 88 | 
 | 2022-11-18 | 2553 | 88 | 
 | 2022-11-17 | 2546 | 88 | 
-| 2022-11-16 | 2538 | 88 | 
 

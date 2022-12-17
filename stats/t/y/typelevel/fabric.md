@@ -1,10 +1,10 @@
 # typelevel/fabric - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 3
 
-★ Stars: 52
+★ Stars: 73
 
 [Open repository](https://github.com/typelevel/fabric)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 73 | 3 | 
 | 2022-12-15 | 52 | 3 | 
 | 2022-12-14 | 53 | 3 | 
 

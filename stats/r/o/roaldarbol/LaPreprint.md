@@ -1,8 +1,8 @@
 # roaldarbol/LaPreprint - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 56
+☋ Forks: 57
 
 ★ Stars: 458
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 458 | 57 | 
 | 2022-12-15 | 458 | 56 | 
 | 2022-12-14 | 458 | 56 | 
 | 2022-12-13 | 458 | 56 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 434 | 48 | 
 | 2022-11-18 | 434 | 48 | 
 | 2022-11-17 | 432 | 47 | 
-| 2022-11-16 | 430 | 47 | 
 

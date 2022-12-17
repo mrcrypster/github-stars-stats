@@ -1,10 +1,10 @@
 # jeromedalbert/real-world-react-apps - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 273
 
-★ Stars: 3098
+★ Stars: 3099
 
 [Open repository](https://github.com/jeromedalbert/real-world-react-apps)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 3099 | 273 | 
 | 2022-12-15 | 3098 | 273 | 
 | 2022-12-14 | 3098 | 273 | 
 | 2022-12-13 | 3097 | 271 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 2956 | 256 | 
 | 2022-11-18 | 2953 | 255 | 
 | 2022-11-17 | 2950 | 254 | 
-| 2022-11-16 | 2950 | 254 | 
 

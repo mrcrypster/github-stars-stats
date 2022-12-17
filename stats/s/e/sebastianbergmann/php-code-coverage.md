@@ -1,10 +1,10 @@
 # sebastianbergmann/php-code-coverage - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 362
 
-★ Stars: 8442
+★ Stars: 8445
 
 [Open repository](https://github.com/sebastianbergmann/php-code-coverage)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 8445 | 362 | 
 | 2022-12-15 | 8442 | 362 | 
 | 2022-12-13 | 8437 | 362 | 
 | 2022-12-12 | 8435 | 362 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 8413 | 360 | 
 | 2022-11-18 | 8412 | 360 | 
 | 2022-11-17 | 8415 | 360 | 
-| 2022-11-16 | 8416 | 360 | 
 

@@ -1,6 +1,6 @@
 # ADLINK/meta-adlink-sema - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 2 | 2 | 
 | 2022-12-15 | 2 | 2 | 
 | 2022-12-14 | 2 | 2 | 
 | 2022-12-13 | 2 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 2 | 2 | 
 | 2022-11-18 | 2 | 2 | 
 | 2022-11-17 | 2 | 2 | 
-| 2022-11-16 | 2 | 2 | 
 

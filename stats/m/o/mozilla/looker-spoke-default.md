@@ -1,6 +1,6 @@
 # mozilla/looker-spoke-default - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 3 | 6 | 
 | 2022-12-15 | 3 | 6 | 
 | 2022-12-14 | 4 | 6 | 
 | 2022-12-13 | 4 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-20 | 5 | 6 | 
 | 2022-11-19 | 5 | 6 | 
 | 2022-11-17 | 5 | 6 | 
-| 2022-11-16 | 5 | 6 | 
 

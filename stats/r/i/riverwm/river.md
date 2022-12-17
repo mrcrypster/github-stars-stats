@@ -1,6 +1,6 @@
 # riverwm/river - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 112
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 1976 | 112 | 
 | 2022-12-15 | 1976 | 112 | 
 | 2022-12-14 | 1976 | 112 | 
 | 2022-12-13 | 1975 | 112 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 1941 | 105 | 
 | 2022-11-18 | 1940 | 105 | 
 | 2022-11-17 | 1938 | 105 | 
-| 2022-11-16 | 1936 | 105 | 
 

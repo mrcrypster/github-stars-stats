@@ -1,10 +1,10 @@
 # CaffeineMC/lithium-fabric - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 148
+☋ Forks: 150
 
-★ Stars: 1574
+★ Stars: 1576
 
 [Open repository](https://github.com/CaffeineMC/lithium-fabric)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 1576 | 150 | 
 | 2022-12-15 | 1574 | 148 | 
 | 2022-12-14 | 1575 | 148 | 
 | 2022-12-13 | 1576 | 148 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 1577 | 146 | 
 | 2022-11-18 | 1578 | 146 | 
 | 2022-11-17 | 1576 | 146 | 
-| 2022-11-16 | 1575 | 146 | 
 

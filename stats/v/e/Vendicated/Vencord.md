@@ -1,8 +1,8 @@
 # Vendicated/Vencord - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 79
+☋ Forks: 80
 
 ★ Stars: 367
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 367 | 80 | 
 | 2022-12-15 | 367 | 79 | 
 | 2022-12-14 | 366 | 78 | 
 | 2022-12-13 | 361 | 77 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 259 | 60 | 
 | 2022-11-18 | 255 | 57 | 
 | 2022-11-17 | 251 | 57 | 
-| 2022-11-16 | 244 | 57 | 
 

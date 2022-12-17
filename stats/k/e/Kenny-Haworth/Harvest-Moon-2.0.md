@@ -1,6 +1,6 @@
 # Kenny-Haworth/Harvest-Moon-2.0 - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 133 | 37 | 
 | 2022-12-15 | 133 | 37 | 
 | 2022-12-14 | 133 | 37 | 
 | 2022-12-13 | 133 | 37 | 

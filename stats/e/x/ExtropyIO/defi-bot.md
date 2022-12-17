@@ -1,6 +1,6 @@
 # ExtropyIO/defi-bot - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 451
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 1089 | 451 | 
 | 2022-12-15 | 1089 | 451 | 
 | 2022-12-14 | 1089 | 451 | 
 | 2022-12-13 | 1088 | 451 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 1077 | 449 | 
 | 2022-11-18 | 1077 | 449 | 
 | 2022-11-17 | 1078 | 449 | 
-| 2022-11-16 | 1078 | 448 | 
 

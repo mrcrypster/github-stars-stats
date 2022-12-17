@@ -1,10 +1,10 @@
 # t3-oss/create-t3-app - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 483
 
-★ Stars: 11962
+★ Stars: 11997
 
 [Open repository](https://github.com/t3-oss/create-t3-app)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 11997 | 483 | 
 | 2022-12-15 | 11962 | 483 | 
 | 2022-12-13 | 11916 | 482 | 
 | 2022-12-12 | 11859 | 481 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 9791 | 410 | 
 | 2022-11-18 | 9730 | 406 | 
 | 2022-11-17 | 9535 | 395 | 
-| 2022-11-16 | 9121 | 381 | 
 

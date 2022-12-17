@@ -1,8 +1,8 @@
 # yesh1223/freeRDP-1 - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 17
 
-☋ Forks: 130
+☋ Forks: 133
 
 ★ Stars: 2
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 2 | 133 | 
+| 2022-12-16 | 2 | 133 | 
 | 2022-12-15 | 2 | 130 | 
 | 2022-12-14 | 2 | 130 | 
 | 2022-12-13 | 2 | 129 | 
@@ -40,5 +42,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 2 | 112 | 
 | 2022-11-18 | 2 | 111 | 
 | 2022-11-17 | 2 | 111 | 
-| 2022-11-16 | 2 | 111 | 
 

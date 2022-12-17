@@ -1,6 +1,6 @@
 # docblue/chfsgui - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 101
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 514 | 101 | 
 | 2022-12-15 | 514 | 101 | 
 | 2022-12-14 | 514 | 101 | 
 | 2022-12-13 | 514 | 101 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 506 | 99 | 
 | 2022-11-18 | 505 | 99 | 
 | 2022-11-17 | 505 | 99 | 
-| 2022-11-16 | 505 | 99 | 
 

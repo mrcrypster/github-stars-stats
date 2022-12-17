@@ -1,6 +1,6 @@
 # ItsCyberAli/PowerMeUp - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 80 | 10 | 
 | 2022-12-15 | 80 | 10 | 
 | 2022-12-13 | 80 | 10 | 
 | 2022-12-12 | 79 | 10 | 

@@ -1,6 +1,6 @@
 # cbh123/shlinked - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 283 | 31 | 
 | 2022-12-15 | 283 | 31 | 
 | 2022-12-14 | 283 | 31 | 
 | 2022-12-13 | 283 | 31 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 280 | 31 | 
 | 2022-11-18 | 280 | 31 | 
 | 2022-11-17 | 279 | 31 | 
-| 2022-11-16 | 279 | 31 | 
 

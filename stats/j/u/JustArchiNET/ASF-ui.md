@@ -1,6 +1,6 @@
 # JustArchiNET/ASF-ui - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 199 | 26 | 
 | 2022-12-15 | 199 | 26 | 
 | 2022-12-14 | 198 | 26 | 
 | 2022-12-12 | 198 | 26 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 195 | 26 | 
 | 2022-11-18 | 195 | 26 | 
 | 2022-11-17 | 195 | 26 | 
-| 2022-11-16 | 195 | 26 | 
 

@@ -1,6 +1,6 @@
 # ajgrf/on.el - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 30 | 3 | 
 | 2022-12-15 | 30 | 3 | 
 | 2022-12-13 | 31 | 3 | 
 | 2022-12-12 | 31 | 3 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-20 | 29 | 3 | 
 | 2022-11-19 | 29 | 3 | 
 | 2022-11-18 | 29 | 3 | 
-| 2022-11-17 | 29 | 3 | 
 

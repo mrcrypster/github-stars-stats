@@ -1,10 +1,10 @@
 # bedimcode/responsive-sidebar-with-tabbar - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 12
 
-★ Stars: 41
+★ Stars: 40
 
 [Open repository](https://github.com/bedimcode/responsive-sidebar-with-tabbar)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 40 | 12 | 
 | 2022-12-15 | 41 | 12 | 
 | 2022-12-14 | 41 | 12 | 
 | 2022-12-12 | 41 | 12 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-20 | 42 | 11 | 
 | 2022-11-19 | 42 | 11 | 
 | 2022-11-18 | 42 | 11 | 
-| 2022-11-17 | 42 | 11 | 
 

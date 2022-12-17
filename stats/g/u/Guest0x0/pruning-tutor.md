@@ -1,6 +1,6 @@
 # Guest0x0/pruning-tutor - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 14 | 1 | 
 | 2022-12-16 | 14 | 1 | 
 | 2022-12-15 | 14 | 1 | 
 | 2022-12-13 | 14 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-19 | 13 | 1 | 
 | 2022-11-18 | 13 | 1 | 
 | 2022-11-17 | 13 | 1 | 
-| 2022-11-16 | 13 | 1 | 
 

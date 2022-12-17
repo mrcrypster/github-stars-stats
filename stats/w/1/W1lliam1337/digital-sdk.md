@@ -1,10 +1,10 @@
 # W1lliam1337/digital-sdk - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 15
+☋ Forks: 16
 
-★ Stars: 66
+★ Stars: 67
 
 [Open repository](https://github.com/W1lliam1337/digital-sdk)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 67 | 16 | 
 | 2022-12-15 | 66 | 15 | 
 | 2022-12-14 | 65 | 15 | 
 | 2022-12-13 | 65 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 62 | 15 | 
 | 2022-11-18 | 62 | 14 | 
 | 2022-11-17 | 62 | 14 | 
-| 2022-11-16 | 62 | 14 | 
 

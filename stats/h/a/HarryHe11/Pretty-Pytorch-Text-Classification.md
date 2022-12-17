@@ -1,6 +1,6 @@
 # HarryHe11/Pretty-Pytorch-Text-Classification - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 114 | 10 | 
 | 2022-12-15 | 114 | 10 | 
 | 2022-12-14 | 114 | 10 | 
 | 2022-12-13 | 113 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-20 | 112 | 10 | 
 | 2022-11-19 | 112 | 10 | 
 | 2022-11-18 | 112 | 10 | 
-| 2022-11-16 | 112 | 10 | 
 

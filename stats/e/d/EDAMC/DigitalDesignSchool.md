@@ -1,6 +1,6 @@
 # EDAMC/DigitalDesignSchool - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 15 | 6 | 
 | 2022-12-15 | 15 | 6 | 
 | 2022-12-14 | 16 | 6 | 
 | 2022-12-12 | 15 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 12 | 5 | 
 | 2022-11-18 | 12 | 5 | 
 | 2022-11-17 | 12 | 5 | 
-| 2022-11-16 | 12 | 5 | 
 

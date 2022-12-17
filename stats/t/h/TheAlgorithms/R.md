@@ -1,10 +1,10 @@
 # TheAlgorithms/R - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 239
 
-★ Stars: 637
+★ Stars: 638
 
 [Open repository](https://github.com/TheAlgorithms/R)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 638 | 239 | 
 | 2022-12-15 | 637 | 239 | 
 | 2022-12-14 | 637 | 239 | 
 | 2022-12-13 | 636 | 239 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 635 | 239 | 
 | 2022-11-18 | 633 | 239 | 
 | 2022-11-17 | 633 | 239 | 
-| 2022-11-16 | 633 | 239 | 
 

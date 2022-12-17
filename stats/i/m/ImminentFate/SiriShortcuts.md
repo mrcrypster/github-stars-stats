@@ -1,10 +1,10 @@
 # ImminentFate/SiriShortcuts - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 10
 
-★ Stars: 111
+★ Stars: 112
 
 [Open repository](https://github.com/ImminentFate/SiriShortcuts)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 112 | 10 | 
 | 2022-12-15 | 111 | 10 | 
 | 2022-12-14 | 109 | 10 | 
 | 2022-12-13 | 109 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-20 | 104 | 10 | 
 | 2022-11-19 | 105 | 10 | 
 | 2022-11-18 | 105 | 10 | 
-| 2022-11-17 | 105 | 10 | 
 

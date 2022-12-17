@@ -1,10 +1,10 @@
 # magicleap/SuperGluePretrainedNetwork - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 483
+☋ Forks: 485
 
-★ Stars: 2199
+★ Stars: 2200
 
 [Open repository](https://github.com/magicleap/SuperGluePretrainedNetwork)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 2200 | 485 | 
 | 2022-12-15 | 2199 | 483 | 
 | 2022-12-14 | 2198 | 483 | 
 | 2022-12-12 | 2197 | 483 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 2130 | 470 | 
 | 2022-11-18 | 2129 | 469 | 
 | 2022-11-17 | 2128 | 470 | 
-| 2022-11-16 | 2127 | 470 | 
 

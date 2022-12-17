@@ -1,10 +1,10 @@
 # Java-S12138/frank - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 292
 
-★ Stars: 1704
+★ Stars: 1705
 
 [Open repository](https://github.com/Java-S12138/frank)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 1705 | 292 | 
 | 2022-12-15 | 1704 | 292 | 
 | 2022-12-14 | 1704 | 292 | 
 | 2022-12-12 | 1702 | 292 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 1679 | 291 | 
 | 2022-11-18 | 1677 | 291 | 
 | 2022-11-17 | 1676 | 291 | 
-| 2022-11-16 | 1673 | 291 | 
 

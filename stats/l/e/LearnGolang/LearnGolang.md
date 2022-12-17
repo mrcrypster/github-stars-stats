@@ -1,10 +1,10 @@
 # LearnGolang/LearnGolang - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 290
 
-★ Stars: 2019
+★ Stars: 2020
 
 [Open repository](https://github.com/LearnGolang/LearnGolang)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 2020 | 290 | 
 | 2022-12-15 | 2019 | 290 | 
 | 2022-12-14 | 2015 | 290 | 
 | 2022-12-13 | 2014 | 291 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-20 | 1958 | 280 | 
 | 2022-11-19 | 1956 | 278 | 
 | 2022-11-18 | 1952 | 278 | 
-| 2022-11-17 | 1946 | 276 | 
 

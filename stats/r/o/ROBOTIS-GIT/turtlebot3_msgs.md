@@ -1,6 +1,6 @@
 # ROBOTIS-GIT/turtlebot3_msgs - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 103
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 53 | 103 | 
 | 2022-12-15 | 53 | 103 | 
 | 2022-12-14 | 53 | 103 | 
 | 2022-12-13 | 53 | 104 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 52 | 101 | 
 | 2022-11-18 | 52 | 101 | 
 | 2022-11-17 | 52 | 101 | 
-| 2022-11-16 | 52 | 101 | 
 

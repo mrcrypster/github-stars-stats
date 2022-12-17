@@ -1,10 +1,10 @@
 # ertugrulcetin/procedure.async - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 1
 
-★ Stars: 13
+★ Stars: 12
 
 [Open repository](https://github.com/ertugrulcetin/procedure.async)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 12 | 1 | 
 | 2022-12-16 | 13 | 1 | 
 | 2022-12-15 | 13 | 1 | 
 | 2022-12-13 | 13 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-19 | 13 | 1 | 
 | 2022-11-18 | 13 | 1 | 
 | 2022-11-17 | 13 | 1 | 
-| 2022-11-16 | 13 | 1 | 
 

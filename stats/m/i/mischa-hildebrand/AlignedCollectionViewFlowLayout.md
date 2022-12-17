@@ -1,10 +1,10 @@
 # mischa-hildebrand/AlignedCollectionViewFlowLayout - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 183
 
-★ Stars: 1065
+★ Stars: 1066
 
 [Open repository](https://github.com/mischa-hildebrand/AlignedCollectionViewFlowLayout)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 1066 | 183 | 
 | 2022-12-15 | 1065 | 183 | 
 | 2022-12-14 | 1065 | 183 | 
 | 2022-12-13 | 1064 | 183 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 1051 | 180 | 
 | 2022-11-18 | 1051 | 180 | 
 | 2022-11-17 | 1049 | 180 | 
-| 2022-11-16 | 1049 | 179 | 
 

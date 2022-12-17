@@ -1,6 +1,6 @@
 # fison67/mi_connector - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 585
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 203 | 585 | 
 | 2022-12-15 | 203 | 585 | 
 | 2022-12-13 | 203 | 585 | 
 | 2022-12-12 | 203 | 585 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 199 | 584 | 
 | 2022-11-18 | 199 | 584 | 
 | 2022-11-17 | 199 | 584 | 
-| 2022-11-16 | 199 | 585 | 
 

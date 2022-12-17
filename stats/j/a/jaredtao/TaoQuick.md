@@ -1,10 +1,10 @@
 # jaredtao/TaoQuick - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 277
 
-★ Stars: 964
+★ Stars: 965
 
 [Open repository](https://github.com/jaredtao/TaoQuick)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 965 | 277 | 
 | 2022-12-15 | 964 | 277 | 
 | 2022-12-14 | 964 | 277 | 
 | 2022-12-12 | 962 | 277 | 

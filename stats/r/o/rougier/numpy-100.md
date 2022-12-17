@@ -1,10 +1,10 @@
 # rougier/numpy-100 - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 4799
 
-★ Stars: 9497
+★ Stars: 9499
 
 [Open repository](https://github.com/rougier/numpy-100)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 9499 | 4799 | 
 | 2022-12-15 | 9497 | 4799 | 
 | 2022-12-14 | 9497 | 4798 | 
 | 2022-12-13 | 9495 | 4796 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 9404 | 4741 | 
 | 2022-11-18 | 9401 | 4740 | 
 | 2022-11-17 | 9398 | 4738 | 
-| 2022-11-16 | 9397 | 4733 | 
 

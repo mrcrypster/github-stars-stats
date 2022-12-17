@@ -1,6 +1,6 @@
 # GoldHEN/GoldHEN_Cheat_Manager - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 142 | 19 | 
 | 2022-12-15 | 142 | 19 | 
 | 2022-12-14 | 143 | 19 | 
 | 2022-12-13 | 143 | 19 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 128 | 17 | 
 | 2022-11-18 | 126 | 17 | 
 | 2022-11-17 | 126 | 17 | 
-| 2022-11-16 | 124 | 17 | 
 

@@ -1,8 +1,8 @@
 # BL-MSCH-C220-F22/Exercise-06d-Unit-Testing - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
-☋ Forks: 43
+☋ Forks: 44
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 2 | 44 | 
 | 2022-12-15 | 2 | 43 | 
 | 2022-12-14 | 2 | 43 | 
 | 2022-12-13 | 2 | 43 | 

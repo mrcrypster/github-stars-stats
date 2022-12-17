@@ -1,6 +1,6 @@
 # JuliaSmoothOptimizers/OptimizationProblems.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 68 | 32 | 
 | 2022-12-15 | 68 | 32 | 
 | 2022-12-14 | 67 | 32 | 
 | 2022-12-13 | 67 | 32 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-20 | 67 | 32 | 
 | 2022-11-19 | 67 | 32 | 
 | 2022-11-18 | 67 | 32 | 
-| 2022-11-16 | 67 | 32 | 
 

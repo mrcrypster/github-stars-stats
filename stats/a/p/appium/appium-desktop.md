@@ -1,10 +1,10 @@
 # appium/appium-desktop - stars & forks statistics
 
-Stats updated on Dec 2022, 15
+Stats updated on Dec 2022, 16
 
 ☋ Forks: 1296
 
-★ Stars: 4355
+★ Stars: 4358
 
 [Open repository](https://github.com/appium/appium-desktop)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-16 | 4358 | 1296 | 
 | 2022-12-15 | 4355 | 1296 | 
 | 2022-12-14 | 4354 | 1294 | 
 | 2022-12-12 | 4352 | 1295 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 15
 | 2022-11-19 | 4324 | 1285 | 
 | 2022-11-18 | 4323 | 1284 | 
 | 2022-11-17 | 4323 | 1284 | 
-| 2022-11-16 | 4323 | 1284 | 
 
