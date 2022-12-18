@@ -1,6 +1,6 @@
 # Wilfred/difftastic - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 210
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 13732 | 210 | 
 | 2022-12-17 | 13732 | 210 | 
 | 2022-12-16 | 13725 | 210 | 
 | 2022-12-15 | 13718 | 210 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-20 | 13516 | 202 | 
 | 2022-11-19 | 13508 | 202 | 
 | 2022-11-18 | 13503 | 202 | 
-| 2022-11-17 | 13497 | 202 | 
 

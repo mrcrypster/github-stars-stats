@@ -1,10 +1,10 @@
 # palera1n/loader - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
-☋ Forks: 15
+☋ Forks: 17
 
-★ Stars: 10
+★ Stars: 12
 
 [Open repository](https://github.com/palera1n/loader)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 12 | 17 | 
 | 2022-12-16 | 10 | 15 | 
 | 2022-12-15 | 9 | 15 | 
 | 2022-12-14 | 10 | 15 | 

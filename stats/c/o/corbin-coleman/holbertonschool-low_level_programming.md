@@ -1,10 +1,10 @@
 # corbin-coleman/holbertonschool-low_level_programming - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 14
 
-★ Stars: 4
+★ Stars: 3
 
 [Open repository](https://github.com/corbin-coleman/holbertonschool-low_level_programming)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 3 | 14 | 
 | 2022-12-16 | 4 | 14 | 
 | 2022-12-15 | 4 | 14 | 
 | 2022-12-14 | 4 | 14 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 3 | 14 | 
 | 2022-11-19 | 3 | 14 | 
 | 2022-11-18 | 3 | 14 | 
-| 2022-11-17 | 3 | 14 | 
 

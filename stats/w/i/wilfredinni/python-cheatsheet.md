@@ -1,10 +1,10 @@
 # wilfredinni/python-cheatsheet - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 1092
 
-★ Stars: 2796
+★ Stars: 2797
 
 [Open repository](https://github.com/wilfredinni/python-cheatsheet)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 2797 | 1092 | 
 | 2022-12-16 | 2796 | 1092 | 
 | 2022-12-15 | 2794 | 1092 | 
 | 2022-12-14 | 2793 | 1092 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 2707 | 1076 | 
 | 2022-11-19 | 2699 | 1071 | 
 | 2022-11-18 | 2695 | 1071 | 
-| 2022-11-17 | 2693 | 1068 | 
 

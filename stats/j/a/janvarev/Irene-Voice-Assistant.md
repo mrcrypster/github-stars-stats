@@ -1,6 +1,6 @@
 # janvarev/Irene-Voice-Assistant - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 70
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 367 | 70 | 
 | 2022-12-16 | 367 | 70 | 
 | 2022-12-15 | 368 | 70 | 
 | 2022-12-14 | 368 | 70 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 362 | 69 | 
 | 2022-11-19 | 362 | 70 | 
 | 2022-11-18 | 362 | 70 | 
-| 2022-11-17 | 362 | 70 | 
 

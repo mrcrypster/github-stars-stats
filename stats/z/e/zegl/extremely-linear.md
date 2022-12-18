@@ -1,10 +1,10 @@
 # zegl/extremely-linear - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 7
 
-★ Stars: 313
+★ Stars: 314
 
 [Open repository](https://github.com/zegl/extremely-linear)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 314 | 7 | 
 | 2022-12-16 | 313 | 7 | 
 | 2022-12-15 | 313 | 7 | 
 | 2022-12-13 | 312 | 7 | 

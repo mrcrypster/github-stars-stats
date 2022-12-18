@@ -1,6 +1,6 @@
 # hashicorp/go-plugin - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 335
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 4046 | 335 | 
 | 2022-12-16 | 4046 | 335 | 
 | 2022-12-15 | 4045 | 335 | 
 | 2022-12-13 | 4043 | 333 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 3992 | 331 | 
 | 2022-11-19 | 3993 | 331 | 
 | 2022-11-18 | 3991 | 330 | 
-| 2022-11-17 | 3984 | 330 | 
 

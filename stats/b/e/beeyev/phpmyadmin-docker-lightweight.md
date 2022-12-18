@@ -1,10 +1,10 @@
 # beeyev/phpmyadmin-docker-lightweight - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 0
 
-★ Stars: 54
+★ Stars: 55
 
 [Open repository](https://github.com/beeyev/phpmyadmin-docker-lightweight)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 55 | - | 
 | 2022-12-16 | 54 | - | 
 | 2022-12-15 | 54 | - | 
 | 2022-12-14 | 54 | - | 

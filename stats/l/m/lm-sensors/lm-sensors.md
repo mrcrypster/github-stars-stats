@@ -1,6 +1,6 @@
 # lm-sensors/lm-sensors - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 220
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 700 | 220 | 
 | 2022-12-16 | 700 | 220 | 
 | 2022-12-15 | 699 | 220 | 
 | 2022-12-14 | 699 | 220 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 697 | 218 | 
 | 2022-11-19 | 696 | 218 | 
 | 2022-11-18 | 696 | 219 | 
-| 2022-11-17 | 696 | 219 | 
 

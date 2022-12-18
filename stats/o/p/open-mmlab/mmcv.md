@@ -1,8 +1,8 @@
 # open-mmlab/mmcv - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
-☋ Forks: 1326
+☋ Forks: 1325
 
 ★ Stars: 4577
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 4577 | 1325 | 
 | 2022-12-16 | 4577 | 1326 | 
 | 2022-12-15 | 4575 | 1326 | 
 | 2022-12-14 | 4576 | 1325 | 

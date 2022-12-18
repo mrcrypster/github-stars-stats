@@ -1,8 +1,8 @@
 # istio/istio.io - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
-☋ Forks: 1319
+☋ Forks: 1320
 
 ★ Stars: 676
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 676 | 1320 | 
 | 2022-12-17 | 676 | 1319 | 
 | 2022-12-16 | 676 | 1319 | 
 | 2022-12-15 | 676 | 1320 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-20 | 674 | 1313 | 
 | 2022-11-19 | 673 | 1312 | 
 | 2022-11-18 | 673 | 1312 | 
-| 2022-11-17 | 674 | 1310 | 
 

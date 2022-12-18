@@ -1,6 +1,6 @@
 # iamakhileshmishra/Mini_Projects_JavaScript - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 7 | 24 | 
 | 2022-12-16 | 7 | 24 | 
 | 2022-12-15 | 7 | 24 | 
 | 2022-12-14 | 7 | 24 | 

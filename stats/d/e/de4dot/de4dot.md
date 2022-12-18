@@ -1,10 +1,10 @@
 # de4dot/de4dot - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
-☋ Forks: 2501
+☋ Forks: 2502
 
-★ Stars: 6102
+★ Stars: 6104
 
 [Open repository](https://github.com/de4dot/de4dot)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 6104 | 2502 | 
 | 2022-12-16 | 6102 | 2501 | 
 | 2022-12-15 | 6100 | 2500 | 
 | 2022-12-14 | 6097 | 2500 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 6063 | 2489 | 
 | 2022-11-19 | 6060 | 2491 | 
 | 2022-11-18 | 6057 | 2490 | 
-| 2022-11-17 | 6058 | 2488 | 
 

@@ -1,10 +1,10 @@
 # Sorapointa/Sorapointa - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 26
 
-★ Stars: 109
+★ Stars: 110
 
 [Open repository](https://github.com/Sorapointa/Sorapointa)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 110 | 26 | 
 | 2022-12-16 | 109 | 26 | 
 | 2022-12-15 | 108 | 26 | 
 | 2022-12-14 | 108 | 26 | 

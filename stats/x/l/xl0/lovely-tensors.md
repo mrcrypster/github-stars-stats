@@ -1,10 +1,10 @@
 # xl0/lovely-tensors - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 10
 
-★ Stars: 779
+★ Stars: 781
 
 [Open repository](https://github.com/xl0/lovely-tensors)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 781 | 10 | 
 | 2022-12-16 | 779 | 10 | 
 | 2022-12-15 | 779 | 10 | 
 | 2022-12-13 | 778 | 10 | 

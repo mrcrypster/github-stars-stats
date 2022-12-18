@@ -1,10 +1,10 @@
 # anacrolix/torrent - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 565
 
-★ Stars: 4575
+★ Stars: 4576
 
 [Open repository](https://github.com/anacrolix/torrent)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 4576 | 565 | 
 | 2022-12-16 | 4575 | 565 | 
 | 2022-12-15 | 4575 | 565 | 
 | 2022-12-14 | 4575 | 564 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 4561 | 564 | 
 | 2022-11-19 | 4561 | 564 | 
 | 2022-11-18 | 4562 | 562 | 
-| 2022-11-17 | 4562 | 562 | 
 

@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 17
 
 ☋ Forks: 146
 
-★ Stars: 794
+★ Stars: 796
 
 [Open repository](https://github.com/UniMath/UniMath)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-17 | 794 | 146 | 
+| 2022-12-17 | 796 | 146 | 
 | 2022-12-16 | 794 | 146 | 
 | 2022-12-15 | 794 | 146 | 
 | 2022-12-13 | 793 | 146 | 

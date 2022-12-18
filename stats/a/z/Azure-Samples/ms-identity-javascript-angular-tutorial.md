@@ -1,6 +1,6 @@
 # Azure-Samples/ms-identity-javascript-angular-tutorial - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 134
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 137 | 134 | 
 | 2022-12-16 | 137 | 134 | 
 | 2022-12-15 | 137 | 133 | 
 | 2022-12-13 | 137 | 133 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 133 | 131 | 
 | 2022-11-19 | 133 | 131 | 
 | 2022-11-18 | 133 | 131 | 
-| 2022-11-17 | 132 | 131 | 
 

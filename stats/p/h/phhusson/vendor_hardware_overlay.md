@@ -1,8 +1,8 @@
 # phhusson/vendor_hardware_overlay - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
-☋ Forks: 416
+☋ Forks: 418
 
 ★ Stars: 86
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 86 | 418 | 
 | 2022-12-16 | 86 | 416 | 
 | 2022-12-15 | 86 | 416 | 
 | 2022-12-14 | 87 | 415 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-21 | 87 | 408 | 
 | 2022-11-20 | 87 | 408 | 
 | 2022-11-19 | 87 | 408 | 
-| 2022-11-18 | 87 | 408 | 
 

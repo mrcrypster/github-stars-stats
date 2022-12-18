@@ -1,6 +1,6 @@
 # chartmuseum/charts - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 42 | 53 | 
 | 2022-12-16 | 42 | 53 | 
 | 2022-12-15 | 42 | 53 | 
 | 2022-12-14 | 42 | 53 | 

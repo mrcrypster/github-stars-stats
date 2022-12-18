@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 17
 
 ☋ Forks: 2
 
-★ Stars: 114
+★ Stars: 115
 
 [Open repository](https://github.com/yandex/yatagan)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-17 | 114 | 2 | 
+| 2022-12-17 | 115 | 2 | 
 | 2022-12-16 | 114 | 2 | 
 

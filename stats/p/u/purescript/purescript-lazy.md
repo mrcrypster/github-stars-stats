@@ -1,10 +1,10 @@
 # purescript/purescript-lazy - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 26
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/purescript/purescript-lazy)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 27 | 26 | 
 | 2022-12-16 | 26 | 26 | 
 | 2022-12-15 | 26 | 26 | 
 | 2022-12-14 | 26 | 26 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 26 | 26 | 
 | 2022-11-19 | 26 | 26 | 
 | 2022-11-18 | 26 | 26 | 
-| 2022-11-17 | 26 | 26 | 
 

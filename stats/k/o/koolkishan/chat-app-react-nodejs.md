@@ -1,6 +1,6 @@
 # koolkishan/chat-app-react-nodejs - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 218
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 233 | 218 | 
 | 2022-12-16 | 233 | 218 | 
 | 2022-12-15 | 230 | 217 | 
 | 2022-12-14 | 229 | 217 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 206 | 188 | 
 | 2022-11-19 | 205 | 188 | 
 | 2022-11-18 | 204 | 188 | 
-| 2022-11-17 | 203 | 187 | 
 

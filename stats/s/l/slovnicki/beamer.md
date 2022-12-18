@@ -1,10 +1,10 @@
 # slovnicki/beamer - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 119
 
-★ Stars: 478
+★ Stars: 479
 
 [Open repository](https://github.com/slovnicki/beamer)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 479 | 119 | 
 | 2022-12-16 | 478 | 119 | 
 | 2022-12-15 | 478 | 119 | 
 | 2022-12-14 | 475 | 119 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 467 | 116 | 
 | 2022-11-19 | 467 | 116 | 
 | 2022-11-18 | 467 | 116 | 
-| 2022-11-17 | 467 | 116 | 
 

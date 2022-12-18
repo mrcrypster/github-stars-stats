@@ -1,6 +1,6 @@
 # prusa3d/Original-Prusa-i3 - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 793
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 1422 | 793 | 
 | 2022-12-16 | 1422 | 793 | 
 | 2022-12-15 | 1422 | 793 | 
 | 2022-12-14 | 1423 | 792 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 1417 | 786 | 
 | 2022-11-19 | 1416 | 786 | 
 | 2022-11-18 | 1416 | 786 | 
-| 2022-11-17 | 1416 | 786 | 
 

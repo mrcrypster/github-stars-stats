@@ -1,10 +1,10 @@
 # dvorka/hstr - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 217
 
-★ Stars: 3417
+★ Stars: 3418
 
 [Open repository](https://github.com/dvorka/hstr)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 3418 | 217 | 
 | 2022-12-16 | 3417 | 217 | 
 | 2022-12-15 | 3414 | 217 | 
 | 2022-12-14 | 3413 | 216 | 

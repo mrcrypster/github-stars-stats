@@ -1,6 +1,6 @@
 # trussworks/terraform-aws-acm-cert - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 6 | 10 | 
 | 2022-12-16 | 6 | 10 | 
 | 2022-12-15 | 6 | 10 | 
 | 2022-12-14 | 7 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 6 | 10 | 
 | 2022-11-19 | 6 | 10 | 
 | 2022-11-18 | 6 | 10 | 
-| 2022-11-17 | 6 | 10 | 
 

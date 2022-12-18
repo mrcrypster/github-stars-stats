@@ -1,6 +1,6 @@
 # COPT-Public/COPT.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 25 | 2 | 
 | 2022-12-16 | 25 | 2 | 
 | 2022-12-15 | 26 | 2 | 
 | 2022-12-14 | 26 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 26 | 2 | 
 | 2022-11-19 | 26 | 2 | 
 | 2022-11-18 | 26 | 2 | 
-| 2022-11-17 | 26 | 2 | 
 

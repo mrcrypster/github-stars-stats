@@ -1,10 +1,10 @@
 # oracle/apex - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 150
 
-★ Stars: 220
+★ Stars: 221
 
 [Open repository](https://github.com/oracle/apex)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 221 | 150 | 
 | 2022-12-16 | 220 | 150 | 
 | 2022-12-15 | 219 | 150 | 
 | 2022-12-13 | 217 | 149 | 

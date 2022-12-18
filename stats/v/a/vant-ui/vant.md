@@ -1,10 +1,10 @@
 # vant-ui/vant - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 9420
 
-★ Stars: 20612
+★ Stars: 20614
 
 [Open repository](https://github.com/vant-ui/vant)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 20614 | 9420 | 
 | 2022-12-16 | 20612 | 9420 | 
 | 2022-12-15 | 20610 | 9419 | 
 | 2022-12-14 | 20603 | 9417 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 20461 | 9392 | 
 | 2022-11-19 | 20459 | 9391 | 
 | 2022-11-18 | 20457 | 9393 | 
-| 2022-11-17 | 20453 | 9391 | 
 

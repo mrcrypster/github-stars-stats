@@ -1,10 +1,10 @@
 # abh80/smart-edge - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 16
 
-★ Stars: 160
+★ Stars: 161
 
 [Open repository](https://github.com/abh80/smart-edge)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 161 | 16 | 
 | 2022-12-16 | 160 | 16 | 
 | 2022-12-15 | 160 | 16 | 
 | 2022-12-14 | 160 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 160 | 15 | 
 | 2022-11-19 | 158 | 15 | 
 | 2022-11-18 | 158 | 15 | 
-| 2022-11-17 | 158 | 15 | 
 

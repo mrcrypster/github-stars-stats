@@ -1,10 +1,10 @@
 # Kindelia/Kind - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 114
 
-★ Stars: 2770
+★ Stars: 2775
 
 [Open repository](https://github.com/Kindelia/Kind)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 2775 | 114 | 
 | 2022-12-16 | 2770 | 114 | 
 | 2022-12-15 | 2764 | 114 | 
 | 2022-12-14 | 2759 | 114 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 2720 | 116 | 
 | 2022-11-19 | 2719 | 116 | 
 | 2022-11-18 | 2716 | 116 | 
-| 2022-11-17 | 2706 | 116 | 
 

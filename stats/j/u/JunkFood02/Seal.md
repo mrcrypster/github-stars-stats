@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 17
 
-☋ Forks: 92
+☋ Forks: 93
 
-★ Stars: 1927
+★ Stars: 1935
 
 [Open repository](https://github.com/JunkFood02/Seal)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-17 | 1927 | 92 | 
+| 2022-12-17 | 1935 | 93 | 
 | 2022-12-16 | 1927 | 92 | 
 | 2022-12-15 | 1918 | 92 | 
 | 2022-12-14 | 1911 | 90 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-20 | 1616 | 78 | 
 | 2022-11-19 | 1608 | 78 | 
 | 2022-11-18 | 1600 | 78 | 
-| 2022-11-17 | 1598 | 78 | 
 

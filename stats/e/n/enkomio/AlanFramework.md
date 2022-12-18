@@ -1,10 +1,10 @@
 # enkomio/AlanFramework - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 57
 
-★ Stars: 398
+★ Stars: 399
 
 [Open repository](https://github.com/enkomio/AlanFramework)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 399 | 57 | 
 | 2022-12-16 | 398 | 57 | 
 | 2022-12-15 | 398 | 57 | 
 | 2022-12-14 | 398 | 57 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 389 | 56 | 
 | 2022-11-19 | 389 | 56 | 
 | 2022-11-18 | 388 | 56 | 
-| 2022-11-17 | 387 | 56 | 
 

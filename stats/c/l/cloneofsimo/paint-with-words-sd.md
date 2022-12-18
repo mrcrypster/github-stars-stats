@@ -1,10 +1,10 @@
 # cloneofsimo/paint-with-words-sd - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 24
 
-★ Stars: 350
+★ Stars: 351
 
 [Open repository](https://github.com/cloneofsimo/paint-with-words-sd)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 351 | 24 | 
 | 2022-12-16 | 350 | 24 | 
 | 2022-12-15 | 343 | 23 | 
 | 2022-12-14 | 341 | 23 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 294 | 20 | 
 | 2022-11-19 | 293 | 20 | 
 | 2022-11-18 | 288 | 20 | 
-| 2022-11-17 | 272 | 20 | 
 

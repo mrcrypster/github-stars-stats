@@ -1,10 +1,10 @@
 # poloclub/diffusiondb - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 22
 
-★ Stars: 524
+★ Stars: 526
 
 [Open repository](https://github.com/poloclub/diffusiondb)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 526 | 22 | 
 | 2022-12-16 | 524 | 22 | 
 | 2022-12-15 | 524 | 21 | 
 | 2022-12-14 | 524 | 21 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 472 | 15 | 
 | 2022-11-19 | 462 | 15 | 
 | 2022-11-18 | 455 | 15 | 
-| 2022-11-17 | 455 | 15 | 
 

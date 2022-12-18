@@ -1,10 +1,10 @@
 # hlky/stable-diffusion-webui - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 18
 
-☋ Forks: 697
+☋ Forks: 696
 
-★ Stars: 6010
+★ Stars: 6015
 
 [Open repository](https://github.com/hlky/stable-diffusion-webui)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 6015 | 696 | 
 | 2022-12-16 | 6010 | 697 | 
 | 2022-12-15 | 6005 | 696 | 
 | 2022-12-14 | 6002 | 696 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 5780 | 668 | 
 | 2022-11-19 | 5772 | 666 | 
 | 2022-11-18 | 5765 | 666 | 
-| 2022-11-17 | 5763 | 666 | 
 

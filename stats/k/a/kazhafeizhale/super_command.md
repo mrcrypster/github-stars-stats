@@ -1,6 +1,6 @@
 # kazhafeizhale/super_command - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 40 | 3 | 
 | 2022-12-16 | 40 | 3 | 
 | 2022-12-15 | 39 | 3 | 
 | 2022-12-14 | 40 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 38 | 3 | 
 | 2022-11-19 | 38 | 3 | 
 | 2022-11-18 | 38 | 3 | 
-| 2022-11-17 | 38 | 3 | 
 

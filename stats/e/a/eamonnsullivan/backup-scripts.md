@@ -1,10 +1,10 @@
 # eamonnsullivan/backup-scripts - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 8
 
-★ Stars: 163
+★ Stars: 174
 
 [Open repository](https://github.com/eamonnsullivan/backup-scripts)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 174 | 8 | 
 | 2022-12-16 | 163 | 8 | 
 | 2022-12-15 | 162 | 8 | 
 | 2022-12-13 | 159 | 8 | 

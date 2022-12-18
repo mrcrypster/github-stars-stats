@@ -1,10 +1,10 @@
 # OpenTimer/OpenTimer - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 127
 
-★ Stars: 374
+★ Stars: 375
 
 [Open repository](https://github.com/OpenTimer/OpenTimer)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 375 | 127 | 
 | 2022-12-16 | 374 | 127 | 
 | 2022-12-15 | 374 | 127 | 
 | 2022-12-14 | 373 | 127 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 368 | 127 | 
 | 2022-11-19 | 368 | 127 | 
 | 2022-11-18 | 368 | 127 | 
-| 2022-11-17 | 367 | 127 | 
 

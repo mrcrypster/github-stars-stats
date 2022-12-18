@@ -1,6 +1,6 @@
 # ShanghaiITVolunteer/AntigenWechatBot - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 63 | 16 | 
 | 2022-12-16 | 63 | 16 | 
 | 2022-12-15 | 63 | 16 | 
 | 2022-12-14 | 63 | 16 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 62 | 15 | 
 | 2022-11-19 | 62 | 15 | 
 | 2022-11-18 | 62 | 15 | 
-| 2022-11-17 | 62 | 15 | 
 

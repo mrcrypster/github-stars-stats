@@ -1,10 +1,10 @@
 # rust-lang/cc-rs - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 333
 
-★ Stars: 1318
+★ Stars: 1317
 
 [Open repository](https://github.com/rust-lang/cc-rs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 1317 | 333 | 
 | 2022-12-16 | 1318 | 333 | 
 | 2022-12-15 | 1318 | 333 | 
 | 2022-12-14 | 1317 | 332 | 

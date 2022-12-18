@@ -1,10 +1,10 @@
 # voldikss/vim-translator - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 36
 
-★ Stars: 395
+★ Stars: 396
 
 [Open repository](https://github.com/voldikss/vim-translator)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 396 | 36 | 
 | 2022-12-16 | 395 | 36 | 
 | 2022-12-15 | 395 | 36 | 
 | 2022-12-14 | 395 | 36 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 390 | 36 | 
 | 2022-11-19 | 390 | 36 | 
 | 2022-11-18 | 390 | 36 | 
-| 2022-11-17 | 389 | 36 | 
 

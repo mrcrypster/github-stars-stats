@@ -1,10 +1,10 @@
 # ryanhanwu/How-To-Ask-Questions-The-Smart-Way - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
-☋ Forks: 5109
+☋ Forks: 5111
 
-★ Stars: 23431
+★ Stars: 23442
 
 [Open repository](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 23442 | 5111 | 
 | 2022-12-16 | 23431 | 5109 | 
 | 2022-12-15 | 23422 | 5109 | 
 | 2022-12-14 | 23407 | 5109 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 23091 | 5077 | 
 | 2022-11-19 | 23080 | 5077 | 
 | 2022-11-18 | 23070 | 5075 | 
-| 2022-11-17 | 23058 | 5072 | 
 

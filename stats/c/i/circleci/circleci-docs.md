@@ -1,10 +1,10 @@
 # circleci/circleci-docs - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
-☋ Forks: 1312
+☋ Forks: 1313
 
-★ Stars: 704
+★ Stars: 705
 
 [Open repository](https://github.com/circleci/circleci-docs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 705 | 1313 | 
 | 2022-12-16 | 704 | 1312 | 
 | 2022-12-15 | 704 | 1311 | 
 | 2022-12-14 | 704 | 1309 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 692 | 1304 | 
 | 2022-11-19 | 692 | 1304 | 
 | 2022-11-18 | 692 | 1303 | 
-| 2022-11-17 | 692 | 1303 | 
 

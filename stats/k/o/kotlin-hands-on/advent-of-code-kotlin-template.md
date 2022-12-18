@@ -1,10 +1,10 @@
 # kotlin-hands-on/advent-of-code-kotlin-template - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 48
 
-★ Stars: 328
+★ Stars: 329
 
 [Open repository](https://github.com/kotlin-hands-on/advent-of-code-kotlin-template)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 329 | 48 | 
 | 2022-12-17 | 328 | 48 | 
 | 2022-12-16 | 327 | 48 | 
 | 2022-12-14 | 326 | 48 | 

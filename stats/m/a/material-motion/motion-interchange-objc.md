@@ -1,10 +1,10 @@
 # material-motion/motion-interchange-objc - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 12
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/material-motion/motion-interchange-objc)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 17 | 12 | 
 | 2022-12-16 | 16 | 12 | 
 | 2022-12-15 | 16 | 12 | 
 | 2022-12-13 | 16 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 15 | 12 | 
 | 2022-11-19 | 15 | 12 | 
 | 2022-11-18 | 15 | 12 | 
-| 2022-11-17 | 15 | 12 | 
 

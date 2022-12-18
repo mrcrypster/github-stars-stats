@@ -1,10 +1,10 @@
 # delneg/FSAdventArticleFFI - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 0
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/delneg/FSAdventArticleFFI)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 15 | - | 
 | 2022-12-16 | 14 | - | 
 | 2022-12-15 | 14 | - | 
 | 2022-12-14 | 14 | - | 

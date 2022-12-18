@@ -1,10 +1,10 @@
 # material-motion/motion-animator-objc - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 18
 
-★ Stars: 47
+★ Stars: 48
 
 [Open repository](https://github.com/material-motion/motion-animator-objc)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 48 | 18 | 
 | 2022-12-16 | 47 | 18 | 
 | 2022-12-15 | 47 | 18 | 
 | 2022-12-13 | 47 | 18 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-21 | 46 | 18 | 
 | 2022-11-20 | 46 | 18 | 
 | 2022-11-19 | 46 | 18 | 
-| 2022-11-18 | 46 | 18 | 
 

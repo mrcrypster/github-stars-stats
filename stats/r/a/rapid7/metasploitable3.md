@@ -1,10 +1,10 @@
 # rapid7/metasploitable3 - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
-☋ Forks: 1009
+☋ Forks: 1010
 
-★ Stars: 3821
+★ Stars: 3823
 
 [Open repository](https://github.com/rapid7/metasploitable3)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 3823 | 1010 | 
 | 2022-12-16 | 3821 | 1009 | 
 | 2022-12-15 | 3820 | 1009 | 
 | 2022-12-13 | 3816 | 1009 | 

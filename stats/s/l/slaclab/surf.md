@@ -1,6 +1,6 @@
 # slaclab/surf - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 192 | 41 | 
 | 2022-12-16 | 192 | 41 | 
 | 2022-12-15 | 191 | 41 | 
 | 2022-12-14 | 191 | 41 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 192 | 39 | 
 | 2022-11-19 | 192 | 39 | 
 | 2022-11-18 | 192 | 39 | 
-| 2022-11-17 | 190 | 38 | 
 

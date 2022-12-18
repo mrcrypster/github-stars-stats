@@ -1,10 +1,10 @@
 # sebastianbergmann/phpunit - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 2119
 
-★ Stars: 18777
+★ Stars: 18781
 
 [Open repository](https://github.com/sebastianbergmann/phpunit)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 18781 | 2119 | 
 | 2022-12-16 | 18777 | 2119 | 
 | 2022-12-15 | 18777 | 2120 | 
 | 2022-12-13 | 18776 | 2120 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 18739 | 2120 | 
 | 2022-11-19 | 18739 | 2120 | 
 | 2022-11-18 | 18737 | 2121 | 
-| 2022-11-17 | 18737 | 2121 | 
 

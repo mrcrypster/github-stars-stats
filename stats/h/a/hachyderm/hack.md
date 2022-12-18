@@ -1,6 +1,6 @@
 # hachyderm/hack - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 1 | 1 | 
 | 2022-12-16 | 1 | 1 | 
 | 2022-12-15 | 1 | 1 | 
 | 2022-12-14 | 1 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-21 | 69 | 6 | 
 | 2022-11-19 | 68 | 6 | 
 | 2022-11-18 | 63 | 6 | 
-| 2022-11-17 | 61 | 6 | 
 

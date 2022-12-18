@@ -1,6 +1,6 @@
 # betaflight/betaflight-configurator - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 731
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 1768 | 731 | 
 | 2022-12-16 | 1768 | 731 | 
 | 2022-12-15 | 1766 | 730 | 
 | 2022-12-14 | 1767 | 730 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 1742 | 722 | 
 | 2022-11-19 | 1740 | 722 | 
 | 2022-11-18 | 1739 | 722 | 
-| 2022-11-17 | 1739 | 722 | 
 

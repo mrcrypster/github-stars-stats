@@ -1,8 +1,8 @@
 # bbpanzu/bb-fnf-mods - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
-☋ Forks: 362
+☋ Forks: 363
 
 ★ Stars: 135
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 135 | 363 | 
 | 2022-12-16 | 135 | 362 | 
 | 2022-12-15 | 135 | 361 | 
 | 2022-12-14 | 135 | 361 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 131 | 356 | 
 | 2022-11-19 | 131 | 355 | 
 | 2022-11-18 | 131 | 355 | 
-| 2022-11-17 | 131 | 355 | 
 

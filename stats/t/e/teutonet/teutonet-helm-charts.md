@@ -1,6 +1,6 @@
 # teutonet/teutonet-helm-charts - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 2
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 5 | 2 | 
+| 2022-12-17 | 5 | 2 | 
 | 2022-12-16 | 5 | 2 | 
 | 2022-12-15 | 5 | 2 | 
 

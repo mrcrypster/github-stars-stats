@@ -1,10 +1,10 @@
 # akka/akka - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 3605
 
-★ Stars: 12557
+★ Stars: 12558
 
 [Open repository](https://github.com/akka/akka)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 12558 | 3605 | 
 | 2022-12-16 | 12557 | 3605 | 
 | 2022-12-15 | 12557 | 3604 | 
 | 2022-12-14 | 12559 | 3604 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 12545 | 3605 | 
 | 2022-11-19 | 12546 | 3605 | 
 | 2022-11-18 | 12545 | 3606 | 
-| 2022-11-17 | 12544 | 3606 | 
 

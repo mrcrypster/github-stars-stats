@@ -1,8 +1,8 @@
 # hrbrmstr/weatherkit - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
-☋ Forks: 3
+☋ Forks: 4
 
 ★ Stars: 38
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 38 | 4 | 
 | 2022-12-16 | 38 | 3 | 
 | 2022-12-15 | 38 | 3 | 
 | 2022-12-14 | 38 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 37 | 3 | 
 | 2022-11-19 | 37 | 3 | 
 | 2022-11-18 | 37 | 3 | 
-| 2022-11-17 | 37 | 3 | 
 

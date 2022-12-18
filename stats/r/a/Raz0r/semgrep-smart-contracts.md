@@ -1,10 +1,10 @@
 # Raz0r/semgrep-smart-contracts - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 50
 
-★ Stars: 369
+★ Stars: 370
 
 [Open repository](https://github.com/Raz0r/semgrep-smart-contracts)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 370 | 50 | 
 | 2022-12-16 | 369 | 50 | 
 | 2022-12-15 | 369 | 50 | 
 | 2022-12-14 | 369 | 50 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 362 | 49 | 
 | 2022-11-19 | 362 | 49 | 
 | 2022-11-18 | 361 | 49 | 
-| 2022-11-17 | 360 | 49 | 
 

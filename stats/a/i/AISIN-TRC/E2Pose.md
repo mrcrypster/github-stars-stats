@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 17
 
 ☋ Forks: 7
 
-★ Stars: 87
+★ Stars: 88
 
 [Open repository](https://github.com/AISIN-TRC/E2Pose)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-17 | 87 | 7 | 
+| 2022-12-17 | 88 | 7 | 
 | 2022-12-16 | 87 | 7 | 
 

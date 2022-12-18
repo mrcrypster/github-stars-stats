@@ -1,10 +1,10 @@
 # TommyZihao/Train_Custom_Dataset - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
-☋ Forks: 119
+☋ Forks: 121
 
-★ Stars: 475
+★ Stars: 478
 
 [Open repository](https://github.com/TommyZihao/Train_Custom_Dataset)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 478 | 121 | 
 | 2022-12-16 | 475 | 119 | 
 | 2022-12-15 | 473 | 118 | 
 | 2022-12-14 | 469 | 118 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 400 | 96 | 
 | 2022-11-19 | 398 | 95 | 
 | 2022-11-18 | 397 | 95 | 
-| 2022-11-17 | 397 | 94 | 
 

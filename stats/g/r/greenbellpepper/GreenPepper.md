@@ -1,10 +1,10 @@
 # greenbellpepper/GreenPepper - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 80
 
-★ Stars: 557
+★ Stars: 558
 
 [Open repository](https://github.com/greenbellpepper/GreenPepper)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 558 | 80 | 
 | 2022-12-16 | 557 | 80 | 
 | 2022-12-15 | 557 | 80 | 
 | 2022-12-14 | 557 | 80 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 549 | 79 | 
 | 2022-11-19 | 548 | 79 | 
 | 2022-11-18 | 546 | 79 | 
-| 2022-11-17 | 546 | 79 | 
 

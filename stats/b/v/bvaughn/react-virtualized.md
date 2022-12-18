@@ -1,10 +1,10 @@
 # bvaughn/react-virtualized - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 3087
 
-★ Stars: 24496
+★ Stars: 24498
 
 [Open repository](https://github.com/bvaughn/react-virtualized)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 24498 | 3087 | 
 | 2022-12-16 | 24496 | 3087 | 
 | 2022-12-15 | 24492 | 3087 | 
 | 2022-12-14 | 24489 | 3086 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 24395 | 3066 | 
 | 2022-11-19 | 24395 | 3065 | 
 | 2022-11-18 | 24394 | 3066 | 
-| 2022-11-17 | 24388 | 3064 | 
 

@@ -1,6 +1,6 @@
 # aminosbh/sdl2-pointerless - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 86 | 1 | 
 | 2022-12-16 | 86 | 1 | 
 | 2022-12-15 | 86 | 1 | 
 | 2022-12-13 | 86 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 83 | - | 
 | 2022-11-19 | 83 | - | 
 | 2022-11-18 | 83 | - | 
-| 2022-11-17 | 83 | - | 
 

@@ -1,10 +1,10 @@
 # UV-Labs/Tutorials - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 17
 
-★ Stars: 37
+★ Stars: 38
 
 [Open repository](https://github.com/UV-Labs/Tutorials)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 38 | 17 | 
 | 2022-12-16 | 37 | 17 | 
 | 2022-12-15 | 37 | 16 | 
 | 2022-12-14 | 37 | 16 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 34 | 15 | 
 | 2022-11-19 | 34 | 15 | 
 | 2022-11-18 | 34 | 15 | 
-| 2022-11-17 | 34 | 15 | 
 

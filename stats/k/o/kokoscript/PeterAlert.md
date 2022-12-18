@@ -1,6 +1,6 @@
 # kokoscript/PeterAlert - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 69 | 4 | 
 | 2022-12-16 | 69 | 4 | 
 | 2022-12-15 | 69 | 4 | 
 | 2022-12-14 | 70 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 67 | 4 | 
 | 2022-11-19 | 65 | 4 | 
 | 2022-11-18 | 65 | 4 | 
-| 2022-11-17 | 64 | 4 | 
 

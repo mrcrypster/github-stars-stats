@@ -1,6 +1,6 @@
 # elastic/puppet-logstashforwarder - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 82
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 30 | 82 | 
 | 2022-12-16 | 30 | 82 | 
 | 2022-12-15 | 30 | 82 | 
 | 2022-12-14 | 30 | 82 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 30 | 82 | 
 | 2022-11-19 | 30 | 82 | 
 | 2022-11-18 | 30 | 82 | 
-| 2022-11-17 | 30 | 82 | 
 

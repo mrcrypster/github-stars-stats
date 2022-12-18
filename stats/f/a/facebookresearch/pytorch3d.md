@@ -1,10 +1,10 @@
 # facebookresearch/pytorch3d - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 1030
 
-★ Stars: 6802
+★ Stars: 6803
 
 [Open repository](https://github.com/facebookresearch/pytorch3d)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 6803 | 1030 | 
 | 2022-12-16 | 6802 | 1030 | 
 | 2022-12-15 | 6795 | 1031 | 
 | 2022-12-14 | 6796 | 1030 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 6737 | 1017 | 
 | 2022-11-19 | 6735 | 1015 | 
 | 2022-11-18 | 6730 | 1015 | 
-| 2022-11-17 | 6725 | 1014 | 
 

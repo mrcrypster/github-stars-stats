@@ -1,6 +1,6 @@
 # se331-2022/Lab12-frontend - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | - | 34 | 
 | 2022-12-17 | - | 34 | 
 | 2022-12-15 | - | 34 | 
 | 2022-12-14 | - | 34 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-20 | - | 34 | 
 | 2022-11-19 | - | 34 | 
 | 2022-11-18 | - | 34 | 
-| 2022-11-17 | - | 34 | 
 

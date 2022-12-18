@@ -1,10 +1,10 @@
 # oxalica/rust-overlay - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 25
 
-★ Stars: 370
+★ Stars: 371
 
 [Open repository](https://github.com/oxalica/rust-overlay)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 371 | 25 | 
 | 2022-12-16 | 370 | 25 | 
 | 2022-12-15 | 370 | 25 | 
 | 2022-12-14 | 370 | 25 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-21 | 356 | 25 | 
 | 2022-11-20 | 356 | 25 | 
 | 2022-11-19 | 355 | 25 | 
-| 2022-11-18 | 355 | 25 | 
 

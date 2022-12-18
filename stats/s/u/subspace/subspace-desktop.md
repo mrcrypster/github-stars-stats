@@ -1,6 +1,6 @@
 # subspace/subspace-desktop - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 39 | 19 | 
 | 2022-12-16 | 39 | 19 | 
 | 2022-12-15 | 39 | 19 | 
 | 2022-12-14 | 39 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 38 | 19 | 
 | 2022-11-19 | 38 | 19 | 
 | 2022-11-18 | 38 | 19 | 
-| 2022-11-17 | 38 | 19 | 
 

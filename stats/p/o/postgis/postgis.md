@@ -1,10 +1,10 @@
 # postgis/postgis - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 348
 
-★ Stars: 1281
+★ Stars: 1282
 
 [Open repository](https://github.com/postgis/postgis)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 1282 | 348 | 
 | 2022-12-16 | 1281 | 348 | 
 | 2022-12-15 | 1281 | 348 | 
 | 2022-12-14 | 1282 | 348 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 1260 | 348 | 
 | 2022-11-19 | 1260 | 348 | 
 | 2022-11-18 | 1260 | 348 | 
-| 2022-11-17 | 1260 | 347 | 
 

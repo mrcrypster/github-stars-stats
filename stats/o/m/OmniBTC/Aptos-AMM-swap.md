@@ -1,8 +1,8 @@
 # OmniBTC/Aptos-AMM-swap - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
-☋ Forks: 5
+☋ Forks: 6
 
 ★ Stars: 20
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 20 | 6 | 
 | 2022-12-16 | 20 | 5 | 
 | 2022-12-15 | 20 | 5 | 
 | 2022-12-14 | 20 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-21 | 18 | 4 | 
 | 2022-11-20 | 18 | 4 | 
 | 2022-11-19 | 17 | 4 | 
-| 2022-11-18 | 17 | 4 | 
 

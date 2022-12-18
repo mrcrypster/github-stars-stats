@@ -1,10 +1,10 @@
 # jgm/djot - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 28
 
-★ Stars: 1049
+★ Stars: 1055
 
 [Open repository](https://github.com/jgm/djot)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 1055 | 28 | 
 | 2022-12-16 | 1049 | 28 | 
 | 2022-12-15 | 1042 | 28 | 
 | 2022-12-14 | 1027 | 28 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 414 | 20 | 
 | 2022-11-19 | 414 | 20 | 
 | 2022-11-18 | 413 | 20 | 
-| 2022-11-17 | 413 | 20 | 
 

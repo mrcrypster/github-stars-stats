@@ -1,8 +1,8 @@
 # diffblue/cbmc - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
-☋ Forks: 226
+☋ Forks: 227
 
 ★ Stars: 478
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 478 | 227 | 
 | 2022-12-16 | 478 | 226 | 
 | 2022-12-15 | 478 | 226 | 
 | 2022-12-14 | 477 | 226 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 470 | 225 | 
 | 2022-11-19 | 470 | 224 | 
 | 2022-11-18 | 470 | 224 | 
-| 2022-11-17 | 470 | 224 | 
 

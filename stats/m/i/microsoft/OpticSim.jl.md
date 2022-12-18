@@ -1,10 +1,10 @@
 # microsoft/OpticSim.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
-☋ Forks: 37
+☋ Forks: 38
 
-★ Stars: 347
+★ Stars: 346
 
 [Open repository](https://github.com/microsoft/OpticSim.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 346 | 38 | 
 | 2022-12-16 | 347 | 37 | 
 | 2022-12-15 | 347 | 37 | 
 | 2022-12-14 | 347 | 37 | 

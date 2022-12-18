@@ -1,6 +1,6 @@
 # blade-ui-kit/blade-heroicons - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 375 | 42 | 
 | 2022-12-16 | 375 | 42 | 
 | 2022-12-15 | 375 | 42 | 
 | 2022-12-14 | 374 | 42 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 366 | 41 | 
 | 2022-11-19 | 366 | 41 | 
 | 2022-11-18 | 366 | 41 | 
-| 2022-11-17 | 366 | 40 | 
 

@@ -1,10 +1,10 @@
 # codeminton/purple-login-page - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 28
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/codeminton/purple-login-page)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 25 | 28 | 
 | 2022-12-16 | 24 | 28 | 
 | 2022-12-15 | 24 | 27 | 
 | 2022-12-14 | 24 | 27 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 15 | 18 | 
 | 2022-11-19 | 15 | 17 | 
 | 2022-11-18 | 14 | 15 | 
-| 2022-11-17 | 14 | 14 | 
 

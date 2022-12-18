@@ -1,10 +1,10 @@
 # Fuco1/dired-hacks - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 68
 
-★ Stars: 729
+★ Stars: 730
 
 [Open repository](https://github.com/Fuco1/dired-hacks)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 730 | 68 | 
 | 2022-12-16 | 729 | 68 | 
 | 2022-12-15 | 729 | 68 | 
 | 2022-12-14 | 729 | 67 | 

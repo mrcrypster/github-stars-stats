@@ -1,6 +1,6 @@
 # md-siam/getx_clean_architecture - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 76 | 30 | 
 | 2022-12-16 | 76 | 30 | 
 | 2022-12-15 | 76 | 30 | 
 | 2022-12-14 | 76 | 29 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 75 | 28 | 
 | 2022-11-19 | 75 | 28 | 
 | 2022-11-18 | 75 | 28 | 
-| 2022-11-17 | 75 | 28 | 
 

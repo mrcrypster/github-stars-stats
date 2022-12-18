@@ -1,6 +1,6 @@
 # riscvarchive/riscv-dejagnu - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 85
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 11 | 85 | 
+| 2022-12-17 | 11 | 85 | 
 | 2022-12-16 | 11 | 85 | 
 | 2022-12-15 | 11 | 85 | 
 | 2022-12-14 | 11 | 85 | 
@@ -40,5 +42,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 11 | 84 | 
 | 2022-11-19 | 11 | 84 | 
 | 2022-11-18 | 11 | 84 | 
-| 2022-11-17 | 11 | 84 | 
 

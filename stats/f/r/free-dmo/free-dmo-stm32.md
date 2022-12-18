@@ -1,10 +1,10 @@
 # free-dmo/free-dmo-stm32 - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 20
 
-★ Stars: 94
+★ Stars: 95
 
 [Open repository](https://github.com/free-dmo/free-dmo-stm32)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 95 | 20 | 
 | 2022-12-16 | 94 | 20 | 
 | 2022-12-15 | 94 | 19 | 
 | 2022-12-14 | 94 | 19 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-21 | 88 | 19 | 
 | 2022-11-20 | 88 | 19 | 
 | 2022-11-19 | 88 | 19 | 
-| 2022-11-17 | 88 | 19 | 
 

@@ -1,10 +1,10 @@
 # mingrammer/diagrams - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 1675
 
-★ Stars: 27443
+★ Stars: 27448
 
 [Open repository](https://github.com/mingrammer/diagrams)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 27448 | 1675 | 
 | 2022-12-16 | 27443 | 1675 | 
 | 2022-12-15 | 27434 | 1675 | 
 | 2022-12-14 | 27426 | 1674 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 27009 | 1640 | 
 | 2022-11-19 | 26985 | 1640 | 
 | 2022-11-18 | 26947 | 1640 | 
-| 2022-11-17 | 26884 | 1639 | 
 

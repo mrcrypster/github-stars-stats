@@ -1,8 +1,8 @@
 # BoiseState/CS321_Bioinformatics - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
-☋ Forks: 11
+☋ Forks: 12
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 1 | 12 | 
 | 2022-12-16 | 1 | 11 | 
 | 2022-12-15 | 1 | 10 | 
 | 2022-12-14 | 1 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-21 | 1 | 8 | 
 | 2022-11-19 | 1 | 8 | 
 | 2022-11-18 | 1 | 8 | 
-| 2022-11-17 | 1 | 8 | 
 

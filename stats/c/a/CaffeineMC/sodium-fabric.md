@@ -1,10 +1,10 @@
 # CaffeineMC/sodium-fabric - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 660
 
-★ Stars: 3782
+★ Stars: 3784
 
 [Open repository](https://github.com/CaffeineMC/sodium-fabric)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 3784 | 660 | 
 | 2022-12-16 | 3782 | 660 | 
 | 2022-12-15 | 3781 | 657 | 
 | 2022-12-14 | 3780 | 656 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-21 | 3764 | 657 | 
 | 2022-11-20 | 3764 | 658 | 
 | 2022-11-19 | 3764 | 660 | 
-| 2022-11-18 | 3763 | 659 | 
 

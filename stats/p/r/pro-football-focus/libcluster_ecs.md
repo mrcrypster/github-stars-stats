@@ -1,10 +1,10 @@
 # pro-football-focus/libcluster_ecs - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 12
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/pro-football-focus/libcluster_ecs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 12 | 12 | 
 | 2022-12-16 | 11 | 12 | 
 | 2022-12-15 | 11 | 12 | 
 | 2022-12-14 | 11 | 12 | 

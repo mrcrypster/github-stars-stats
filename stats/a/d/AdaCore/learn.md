@@ -1,6 +1,6 @@
 # AdaCore/learn - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 79 | 36 | 
 | 2022-12-16 | 79 | 36 | 
 | 2022-12-15 | 79 | 36 | 
 | 2022-12-14 | 80 | 36 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 79 | 36 | 
 | 2022-11-19 | 79 | 36 | 
 | 2022-11-18 | 79 | 36 | 
-| 2022-11-17 | 79 | 36 | 
 

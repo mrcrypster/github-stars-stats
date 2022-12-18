@@ -1,6 +1,6 @@
 # kwebio/kweb-core - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 840 | 52 | 
 | 2022-12-16 | 840 | 52 | 
 | 2022-12-15 | 840 | 52 | 
 | 2022-12-14 | 840 | 52 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-21 | 818 | 49 | 
 | 2022-11-20 | 818 | 49 | 
 | 2022-11-19 | 817 | 49 | 
-| 2022-11-18 | 817 | 49 | 
 

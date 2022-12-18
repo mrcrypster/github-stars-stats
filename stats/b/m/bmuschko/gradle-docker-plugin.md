@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 17
 
 ☋ Forks: 347
 
-★ Stars: 1122
+★ Stars: 1123
 
 [Open repository](https://github.com/bmuschko/gradle-docker-plugin)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-17 | 1122 | 347 | 
+| 2022-12-17 | 1123 | 347 | 
 | 2022-12-16 | 1122 | 347 | 
 | 2022-12-15 | 1122 | 346 | 
 | 2022-12-14 | 1122 | 346 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-20 | 1121 | 344 | 
 | 2022-11-19 | 1121 | 344 | 
 | 2022-11-18 | 1118 | 344 | 
-| 2022-11-17 | 1117 | 344 | 
 

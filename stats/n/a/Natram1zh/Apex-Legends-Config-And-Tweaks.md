@@ -1,6 +1,6 @@
 # Natram1zh/Apex-Legends-Config-And-Tweaks - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 118 | 26 | 
 | 2022-12-16 | 118 | 26 | 
 | 2022-12-15 | 116 | 27 | 
 | 2022-12-14 | 116 | 27 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-21 | 109 | 24 | 
 | 2022-11-20 | 109 | 24 | 
 | 2022-11-19 | 109 | 24 | 
-| 2022-11-18 | 109 | 24 | 
 

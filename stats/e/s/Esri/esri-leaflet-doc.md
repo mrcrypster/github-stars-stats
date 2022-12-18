@@ -1,6 +1,6 @@
 # Esri/esri-leaflet-doc - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 1155
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 76 | 1155 | 
 | 2022-12-16 | 76 | 1155 | 
 | 2022-12-15 | 76 | 1155 | 
 | 2022-12-14 | 76 | 1155 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 76 | 1156 | 
 | 2022-11-19 | 76 | 1156 | 
 | 2022-11-18 | 76 | 1156 | 
-| 2022-11-17 | 76 | 1155 | 
 

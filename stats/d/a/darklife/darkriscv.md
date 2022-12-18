@@ -1,10 +1,10 @@
 # darklife/darkriscv - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 236
 
-★ Stars: 1518
+★ Stars: 1521
 
 [Open repository](https://github.com/darklife/darkriscv)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 1521 | 236 | 
 | 2022-12-16 | 1518 | 236 | 
 | 2022-12-15 | 1518 | 236 | 
 | 2022-12-13 | 1516 | 236 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 1506 | 236 | 
 | 2022-11-19 | 1506 | 236 | 
 | 2022-11-18 | 1506 | 236 | 
-| 2022-11-17 | 1504 | 235 | 
 

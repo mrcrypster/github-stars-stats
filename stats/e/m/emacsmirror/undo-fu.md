@@ -1,10 +1,10 @@
 # emacsmirror/undo-fu - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 0
 
-★ Stars: 35
+★ Stars: 36
 
 [Open repository](https://github.com/emacsmirror/undo-fu)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 36 | - | 
 | 2022-12-16 | 35 | - | 
 | 2022-12-15 | 35 | - | 
 | 2022-12-14 | 35 | - | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 35 | - | 
 | 2022-11-19 | 35 | - | 
 | 2022-11-18 | 35 | - | 
-| 2022-11-17 | 35 | - | 
 

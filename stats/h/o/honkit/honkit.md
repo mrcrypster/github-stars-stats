@@ -1,6 +1,6 @@
 # honkit/honkit - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 173
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 2385 | 173 | 
 | 2022-12-16 | 2385 | 173 | 
 | 2022-12-15 | 2383 | 172 | 
 | 2022-12-14 | 2381 | 172 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-21 | 2360 | 168 | 
 | 2022-11-20 | 2359 | 167 | 
 | 2022-11-18 | 2356 | 167 | 
-| 2022-11-17 | 2356 | 167 | 
 

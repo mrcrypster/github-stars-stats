@@ -1,6 +1,6 @@
 # rabbitmq/rules_erlang - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 26 | 6 | 
 | 2022-12-16 | 26 | 6 | 
 | 2022-12-15 | 25 | 6 | 
 | 2022-12-14 | 26 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 24 | 5 | 
 | 2022-11-19 | 23 | 5 | 
 | 2022-11-18 | 23 | 5 | 
-| 2022-11-17 | 23 | 5 | 
 

@@ -1,10 +1,10 @@
 # bob-cd/bob - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 12
 
-★ Stars: 169
+★ Stars: 171
 
 [Open repository](https://github.com/bob-cd/bob)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 171 | 12 | 
 | 2022-12-17 | 169 | 12 | 
 | 2022-12-16 | 169 | 12 | 
 | 2022-12-15 | 169 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-20 | 166 | 12 | 
 | 2022-11-19 | 166 | 12 | 
 | 2022-11-18 | 165 | 12 | 
-| 2022-11-17 | 162 | 12 | 
 

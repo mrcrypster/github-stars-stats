@@ -1,10 +1,10 @@
 # gvolpe/trading - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 40
 
-★ Stars: 474
+★ Stars: 475
 
 [Open repository](https://github.com/gvolpe/trading)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 475 | 40 | 
 | 2022-12-16 | 474 | 40 | 
 | 2022-12-15 | 473 | 40 | 
 | 2022-12-14 | 473 | 40 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 469 | 40 | 
 | 2022-11-19 | 469 | 39 | 
 | 2022-11-18 | 468 | 38 | 
-| 2022-11-17 | 466 | 38 | 
 

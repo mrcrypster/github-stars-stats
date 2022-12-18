@@ -1,6 +1,6 @@
 # The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 126
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 445 | 126 | 
 | 2022-12-16 | 445 | 126 | 
 | 2022-12-15 | 445 | 126 | 
 | 2022-12-14 | 444 | 126 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 437 | 120 | 
 | 2022-11-19 | 437 | 120 | 
 | 2022-11-18 | 437 | 120 | 
-| 2022-11-17 | 435 | 120 | 
 

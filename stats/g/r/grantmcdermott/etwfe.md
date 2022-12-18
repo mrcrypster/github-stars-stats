@@ -1,10 +1,10 @@
 # grantmcdermott/etwfe - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 6
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/grantmcdermott/etwfe)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 28 | 6 | 
 | 2022-12-16 | 27 | 6 | 
 | 2022-12-15 | 26 | 6 | 
 | 2022-12-13 | 26 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 24 | 6 | 
 | 2022-11-19 | 24 | 6 | 
 | 2022-11-18 | 24 | 6 | 
-| 2022-11-17 | 24 | 6 | 
 

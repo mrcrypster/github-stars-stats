@@ -1,6 +1,6 @@
 # mateusz-bak/openreads-android - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 204 | 7 | 
 | 2022-12-16 | 204 | 7 | 
 | 2022-12-15 | 203 | 7 | 
 | 2022-12-14 | 203 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 200 | 7 | 
 | 2022-11-19 | 199 | 7 | 
 | 2022-11-18 | 198 | 7 | 
-| 2022-11-17 | 198 | 7 | 
 

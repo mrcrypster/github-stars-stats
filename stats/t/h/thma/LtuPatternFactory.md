@@ -1,10 +1,10 @@
 # thma/LtuPatternFactory - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
-☋ Forks: 39
+☋ Forks: 40
 
-★ Stars: 920
+★ Stars: 921
 
 [Open repository](https://github.com/thma/LtuPatternFactory)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 921 | 40 | 
 | 2022-12-16 | 920 | 39 | 
 | 2022-12-15 | 920 | 39 | 
 | 2022-12-14 | 920 | 39 | 

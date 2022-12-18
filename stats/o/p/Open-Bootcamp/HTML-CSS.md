@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 17
 
 ☋ Forks: 233
 
-★ Stars: 226
+★ Stars: 227
 
 [Open repository](https://github.com/Open-Bootcamp/HTML-CSS)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-17 | 226 | 233 | 
+| 2022-12-17 | 227 | 233 | 
 | 2022-12-16 | 226 | 233 | 
 | 2022-12-15 | 226 | 230 | 
 | 2022-12-14 | 224 | 227 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-20 | 206 | 208 | 
 | 2022-11-19 | 205 | 207 | 
 | 2022-11-18 | 205 | 207 | 
-| 2022-11-17 | 205 | 206 | 
 

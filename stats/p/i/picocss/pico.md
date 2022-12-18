@@ -1,10 +1,10 @@
 # picocss/pico - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
-☋ Forks: 212
+☋ Forks: 213
 
-★ Stars: 6135
+★ Stars: 6143
 
 [Open repository](https://github.com/picocss/pico)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 6143 | 213 | 
 | 2022-12-16 | 6135 | 212 | 
 | 2022-12-15 | 6133 | 212 | 
 | 2022-12-14 | 6117 | 211 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 5959 | 207 | 
 | 2022-11-19 | 5958 | 207 | 
 | 2022-11-18 | 5953 | 207 | 
-| 2022-11-17 | 5947 | 207 | 
 

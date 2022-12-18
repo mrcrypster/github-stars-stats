@@ -1,10 +1,10 @@
 # Tencent/tmagic-editor - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 531
 
-★ Stars: 3064
+★ Stars: 3065
 
 [Open repository](https://github.com/Tencent/tmagic-editor)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 3065 | 531 | 
 | 2022-12-17 | 3064 | 531 | 
 | 2022-12-15 | 3064 | 531 | 
 | 2022-12-14 | 3063 | 530 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-20 | 3014 | 525 | 
 | 2022-11-19 | 3014 | 525 | 
 | 2022-11-18 | 3012 | 525 | 
-| 2022-11-17 | 3009 | 524 | 
 

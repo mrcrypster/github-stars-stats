@@ -1,10 +1,10 @@
 # johannyren/PowerDisplayHomeAssistant - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 3
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/johannyren/PowerDisplayHomeAssistant)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 22 | 3 | 
 | 2022-12-16 | 21 | 3 | 
 | 2022-12-15 | 20 | 3 | 
 | 2022-12-14 | 20 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 20 | 2 | 
 | 2022-11-19 | 20 | 2 | 
 | 2022-11-18 | 20 | 2 | 
-| 2022-11-17 | 20 | 2 | 
 

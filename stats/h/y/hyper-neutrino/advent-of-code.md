@@ -1,10 +1,10 @@
 # hyper-neutrino/advent-of-code - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
-☋ Forks: 18
+☋ Forks: 17
 
-★ Stars: 159
+★ Stars: 163
 
 [Open repository](https://github.com/hyper-neutrino/advent-of-code)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 163 | 17 | 
 | 2022-12-16 | 159 | 18 | 
 | 2022-12-15 | 159 | 18 | 
 | 2022-12-14 | 150 | 14 | 

@@ -1,10 +1,10 @@
 # EhViewer-NekoInverter/EhViewer - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
-☋ Forks: 49
+☋ Forks: 50
 
-★ Stars: 620
+★ Stars: 629
 
 [Open repository](https://github.com/EhViewer-NekoInverter/EhViewer)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 629 | 50 | 
 | 2022-12-16 | 620 | 49 | 
 | 2022-12-15 | 612 | 49 | 
 | 2022-12-14 | 604 | 47 | 

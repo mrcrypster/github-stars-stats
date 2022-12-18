@@ -1,10 +1,10 @@
 # Le-niao/Yunzai-Bot - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 458
 
-★ Stars: 3042
+★ Stars: 3051
 
 [Open repository](https://github.com/Le-niao/Yunzai-Bot)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 3051 | 458 | 
 | 2022-12-16 | 3042 | 458 | 
 | 2022-12-15 | 3033 | 456 | 
 | 2022-12-14 | 3023 | 454 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 2777 | 412 | 
 | 2022-11-19 | 2766 | 411 | 
 | 2022-11-18 | 2757 | 410 | 
-| 2022-11-17 | 2744 | 409 | 
 

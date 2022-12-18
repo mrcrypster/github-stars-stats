@@ -1,10 +1,10 @@
 # borkdude/edamame - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 13
 
-★ Stars: 136
+★ Stars: 137
 
 [Open repository](https://github.com/borkdude/edamame)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 137 | 13 | 
 | 2022-12-16 | 136 | 13 | 
 | 2022-12-15 | 136 | 13 | 
 | 2022-12-14 | 136 | 13 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 134 | 13 | 
 | 2022-11-19 | 134 | 13 | 
 | 2022-11-18 | 134 | 13 | 
-| 2022-11-17 | 134 | 13 | 
 

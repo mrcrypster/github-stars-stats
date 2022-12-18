@@ -1,6 +1,6 @@
 # tidbyt/community - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 197
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 154 | 197 | 
 | 2022-12-16 | 154 | 197 | 
 | 2022-12-15 | 154 | 196 | 
 | 2022-12-14 | 153 | 196 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 144 | 182 | 
 | 2022-11-19 | 143 | 181 | 
 | 2022-11-18 | 143 | 181 | 
-| 2022-11-17 | 143 | 180 | 
 

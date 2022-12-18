@@ -1,6 +1,6 @@
 # Fueler-io/Web-Development-Resources - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 83 | 65 | 
 | 2022-12-17 | 83 | 65 | 
 | 2022-12-16 | 83 | 65 | 
 | 2022-12-15 | 83 | 65 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-20 | 83 | 65 | 
 | 2022-11-19 | 83 | 65 | 
 | 2022-11-18 | 83 | 65 | 
-| 2022-11-17 | 83 | 65 | 
 

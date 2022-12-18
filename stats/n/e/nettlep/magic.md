@@ -1,6 +1,6 @@
 # nettlep/magic - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 793 | 25 | 
 | 2022-12-16 | 793 | 25 | 
 | 2022-12-15 | 793 | 24 | 
 | 2022-12-14 | 792 | 24 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 786 | 24 | 
 | 2022-11-19 | 786 | 24 | 
 | 2022-11-18 | 786 | 24 | 
-| 2022-11-17 | 786 | 24 | 
 

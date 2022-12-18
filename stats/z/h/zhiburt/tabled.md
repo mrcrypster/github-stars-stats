@@ -1,6 +1,6 @@
 # zhiburt/tabled - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 1243 | 43 | 
 | 2022-12-16 | 1243 | 43 | 
 | 2022-12-15 | 1242 | 43 | 
 | 2022-12-13 | 1239 | 43 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 1214 | 41 | 
 | 2022-11-19 | 1213 | 41 | 
 | 2022-11-18 | 1213 | 40 | 
-| 2022-11-17 | 1213 | 40 | 
 

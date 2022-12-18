@@ -1,6 +1,6 @@
 # tpope/vim-scriptease - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 625 | 45 | 
 | 2022-12-16 | 625 | 45 | 
 | 2022-12-15 | 625 | 45 | 
 | 2022-12-14 | 625 | 45 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 624 | 45 | 
 | 2022-11-19 | 624 | 45 | 
 | 2022-11-18 | 624 | 45 | 
-| 2022-11-17 | 624 | 45 | 
 

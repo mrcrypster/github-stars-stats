@@ -1,10 +1,10 @@
 # Screenly/Anthias - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 536
 
-★ Stars: 1546
+★ Stars: 1548
 
 [Open repository](https://github.com/Screenly/Anthias)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 1548 | 536 | 
 | 2022-12-16 | 1546 | 536 | 
 | 2022-12-15 | 1545 | 536 | 
 | 2022-12-14 | 1544 | 536 | 

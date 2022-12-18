@@ -1,10 +1,10 @@
 # dusty-nv/jetson-inference - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
-☋ Forks: 2674
+☋ Forks: 2675
 
-★ Stars: 5995
+★ Stars: 5998
 
 [Open repository](https://github.com/dusty-nv/jetson-inference)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 5998 | 2675 | 
 | 2022-12-16 | 5995 | 2674 | 
 | 2022-12-15 | 5991 | 2673 | 
 | 2022-12-14 | 5990 | 2673 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 5945 | 2665 | 
 | 2022-11-19 | 5944 | 2663 | 
 | 2022-11-18 | 5943 | 2661 | 
-| 2022-11-17 | 5941 | 2661 | 
 

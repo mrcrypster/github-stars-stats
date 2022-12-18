@@ -1,8 +1,8 @@
 # raulmur/ORB_SLAM2 - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
-☋ Forks: 4414
+☋ Forks: 4413
 
 ★ Stars: 7782
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 7782 | 4413 | 
 | 2022-12-16 | 7782 | 4414 | 
 | 2022-12-15 | 7781 | 4414 | 
 | 2022-12-14 | 7778 | 4414 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-21 | 7715 | 4397 | 
 | 2022-11-20 | 7714 | 4396 | 
 | 2022-11-19 | 7713 | 4396 | 
-| 2022-11-18 | 7714 | 4393 | 
 

@@ -1,6 +1,6 @@
 # SWI-Prolog/packages-pengines - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 12 | 9 | 
 | 2022-12-16 | 12 | 9 | 
 | 2022-12-15 | 12 | 9 | 
 | 2022-12-13 | 12 | 9 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-21 | 12 | 9 | 
 | 2022-11-20 | 12 | 9 | 
 | 2022-11-19 | 12 | 9 | 
-| 2022-11-18 | 12 | 9 | 
 

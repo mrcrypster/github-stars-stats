@@ -1,8 +1,8 @@
 # fineanmol/Annoying-submit-button - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
-☋ Forks: 127
+☋ Forks: 126
 
 ★ Stars: 85
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 85 | 126 | 
 | 2022-12-16 | 85 | 127 | 
 | 2022-12-15 | 85 | 127 | 
 | 2022-12-14 | 85 | 127 | 

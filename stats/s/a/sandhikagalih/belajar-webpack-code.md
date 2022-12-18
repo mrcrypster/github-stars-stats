@@ -1,8 +1,8 @@
 # sandhikagalih/belajar-webpack-code - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
-☋ Forks: 54
+☋ Forks: 53
 
 ★ Stars: 58
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 58 | 53 | 
 | 2022-12-17 | 58 | 54 | 
 | 2022-12-15 | 58 | 54 | 
 | 2022-12-14 | 58 | 54 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 54 | 47 | 
 | 2022-11-20 | 54 | 47 | 
 | 2022-11-19 | 54 | 46 | 
-| 2022-11-18 | 54 | 46 | 
 

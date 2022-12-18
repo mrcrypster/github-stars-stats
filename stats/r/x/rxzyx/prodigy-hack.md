@@ -1,8 +1,8 @@
 # rxzyx/prodigy-hack - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
-☋ Forks: 141
+☋ Forks: 143
 
 ★ Stars: 53
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 53 | 143 | 
 | 2022-12-16 | 53 | 141 | 
 | 2022-12-15 | 52 | 140 | 
 | 2022-12-14 | 51 | 136 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 42 | 96 | 
 | 2022-11-19 | 42 | 94 | 
 | 2022-11-18 | 42 | 93 | 
-| 2022-11-17 | 42 | 90 | 
 

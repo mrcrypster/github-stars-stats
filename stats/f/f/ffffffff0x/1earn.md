@@ -1,10 +1,10 @@
 # ffffffff0x/1earn - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
-☋ Forks: 931
+☋ Forks: 932
 
-★ Stars: 4131
+★ Stars: 4135
 
 [Open repository](https://github.com/ffffffff0x/1earn)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 4135 | 932 | 
 | 2022-12-16 | 4131 | 931 | 
 | 2022-12-15 | 4130 | 931 | 
 | 2022-12-14 | 4131 | 929 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 4071 | 902 | 
 | 2022-11-19 | 4067 | 901 | 
 | 2022-11-18 | 4066 | 901 | 
-| 2022-11-17 | 4065 | 901 | 
 

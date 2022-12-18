@@ -1,6 +1,6 @@
 # qinlili23333/ctfileGet - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 95
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 653 | 95 | 
 | 2022-12-16 | 653 | 95 | 
 | 2022-12-15 | 653 | 95 | 
 | 2022-12-13 | 651 | 95 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 605 | 91 | 
 | 2022-11-19 | 599 | 90 | 
 | 2022-11-18 | 591 | 89 | 
-| 2022-11-17 | 588 | 90 | 
 

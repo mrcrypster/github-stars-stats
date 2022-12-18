@@ -1,6 +1,6 @@
 # ericlewis/openfpga-superbreakout - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 30 | - | 
 | 2022-12-16 | 30 | - | 
 | 2022-12-15 | 30 | - | 
 | 2022-12-14 | 30 | - | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 28 | - | 
 | 2022-11-19 | 28 | - | 
 | 2022-11-18 | 28 | - | 
-| 2022-11-17 | 28 | - | 
 

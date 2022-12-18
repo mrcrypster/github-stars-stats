@@ -1,6 +1,6 @@
 # robjhyndman/CV - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 77 | 65 | 
 | 2022-12-16 | 77 | 65 | 
 | 2022-12-15 | 76 | 65 | 
 | 2022-12-13 | 77 | 65 | 

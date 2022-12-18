@@ -1,10 +1,10 @@
 # yangxy/GPEN - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 364
 
-★ Stars: 1776
+★ Stars: 1777
 
 [Open repository](https://github.com/yangxy/GPEN)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 1777 | 364 | 
 | 2022-12-16 | 1776 | 364 | 
 | 2022-12-15 | 1776 | 363 | 
 | 2022-12-14 | 1774 | 362 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 1749 | 352 | 
 | 2022-11-19 | 1746 | 351 | 
 | 2022-11-18 | 1746 | 351 | 
-| 2022-11-17 | 1745 | 351 | 
 

@@ -1,6 +1,6 @@
 # chuzhixin/vue-admin-better - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 3156
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 13387 | 3156 | 
 | 2022-12-17 | 13387 | 3156 | 
 | 2022-12-16 | 13382 | 3156 | 
 | 2022-12-15 | 13374 | 3155 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-20 | 13210 | 3125 | 
 | 2022-11-19 | 13207 | 3124 | 
 | 2022-11-18 | 13204 | 3124 | 
-| 2022-11-17 | 13199 | 3123 | 
 

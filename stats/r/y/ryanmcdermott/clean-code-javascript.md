@@ -1,10 +1,10 @@
 # ryanmcdermott/clean-code-javascript - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
-☋ Forks: 10330
+☋ Forks: 10334
 
-★ Stars: 76493
+★ Stars: 76518
 
 [Open repository](https://github.com/ryanmcdermott/clean-code-javascript)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 76518 | 10334 | 
 | 2022-12-16 | 76493 | 10330 | 
 | 2022-12-15 | 76458 | 10326 | 
 | 2022-12-13 | 76423 | 10324 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 75475 | 10191 | 
 | 2022-11-19 | 75445 | 10191 | 
 | 2022-11-18 | 75423 | 10186 | 
-| 2022-11-17 | 75386 | 10181 | 
 

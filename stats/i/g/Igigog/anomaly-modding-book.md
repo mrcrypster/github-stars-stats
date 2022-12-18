@@ -1,10 +1,10 @@
 # Igigog/anomaly-modding-book - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 7
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/Igigog/anomaly-modding-book)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 10 | 7 | 
 | 2022-12-16 | 9 | 7 | 
 | 2022-12-15 | 9 | 7 | 
 | 2022-12-13 | 10 | 7 | 

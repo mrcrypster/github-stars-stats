@@ -1,10 +1,10 @@
 # jsonhero-io/jsonhero-web - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 299
 
-★ Stars: 7090
+★ Stars: 7092
 
 [Open repository](https://github.com/jsonhero-io/jsonhero-web)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 7092 | 299 | 
 | 2022-12-16 | 7090 | 299 | 
 | 2022-12-15 | 7083 | 299 | 
 | 2022-12-14 | 7079 | 298 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-21 | 5509 | 245 | 
 | 2022-11-20 | 5500 | 243 | 
 | 2022-11-19 | 5495 | 243 | 
-| 2022-11-18 | 5479 | 242 | 
 

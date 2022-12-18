@@ -1,10 +1,10 @@
 # arsenm/sanitizers-cmake - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 60
 
-★ Stars: 293
+★ Stars: 294
 
 [Open repository](https://github.com/arsenm/sanitizers-cmake)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 294 | 60 | 
 | 2022-12-16 | 293 | 60 | 
 | 2022-12-15 | 293 | 60 | 
 | 2022-12-14 | 293 | 60 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 292 | 60 | 
 | 2022-11-19 | 292 | 60 | 
 | 2022-11-18 | 292 | 60 | 
-| 2022-11-17 | 291 | 60 | 
 

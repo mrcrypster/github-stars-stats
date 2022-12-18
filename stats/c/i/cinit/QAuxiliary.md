@@ -1,10 +1,10 @@
 # cinit/QAuxiliary - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 50
 
-★ Stars: 1024
+★ Stars: 1028
 
 [Open repository](https://github.com/cinit/QAuxiliary)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 1028 | 50 | 
 | 2022-12-16 | 1024 | 50 | 
 | 2022-12-15 | 1019 | 48 | 
 | 2022-12-13 | 1017 | 48 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 940 | 44 | 
 | 2022-11-19 | 937 | 44 | 
 | 2022-11-18 | 933 | 44 | 
-| 2022-11-17 | 928 | 44 | 
 

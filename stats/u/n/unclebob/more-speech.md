@@ -1,6 +1,6 @@
 # unclebob/more-speech - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 145 | 14 | 
 | 2022-12-16 | 145 | 14 | 
 | 2022-12-15 | 143 | 14 | 
 | 2022-12-13 | 142 | 14 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-21 | 135 | 11 | 
 | 2022-11-20 | 135 | 11 | 
 | 2022-11-19 | 134 | 11 | 
-| 2022-11-18 | 134 | 11 | 
 

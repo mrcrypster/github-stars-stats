@@ -1,6 +1,6 @@
 # serenader2014/flutter_carousel_slider - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 447
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 1382 | 447 | 
 | 2022-12-16 | 1382 | 447 | 
 | 2022-12-15 | 1381 | 447 | 
 | 2022-12-14 | 1380 | 447 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 1367 | 438 | 
 | 2022-11-19 | 1366 | 438 | 
 | 2022-11-18 | 1365 | 438 | 
-| 2022-11-17 | 1365 | 438 | 
 

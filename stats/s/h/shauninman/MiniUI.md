@@ -1,6 +1,6 @@
 # shauninman/MiniUI - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 232 | 10 | 
 | 2022-12-16 | 232 | 10 | 
 | 2022-12-15 | 231 | 10 | 
 | 2022-12-14 | 230 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 222 | 10 | 
 | 2022-11-19 | 222 | 10 | 
 | 2022-11-18 | 222 | 10 | 
-| 2022-11-17 | 221 | 10 | 
 

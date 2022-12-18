@@ -1,10 +1,10 @@
 # feathericons/feather - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 1162
 
-★ Stars: 22921
+★ Stars: 22925
 
 [Open repository](https://github.com/feathericons/feather)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 22925 | 1162 | 
 | 2022-12-16 | 22921 | 1162 | 
 | 2022-12-15 | 22917 | 1162 | 
 | 2022-12-14 | 22914 | 1162 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 22848 | 1159 | 
 | 2022-11-19 | 22845 | 1158 | 
 | 2022-11-18 | 22841 | 1158 | 
-| 2022-11-17 | 22838 | 1159 | 
 

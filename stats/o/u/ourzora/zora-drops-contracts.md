@@ -1,10 +1,10 @@
 # ourzora/zora-drops-contracts - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
-☋ Forks: 22
+☋ Forks: 23
 
-★ Stars: 63
+★ Stars: 64
 
 [Open repository](https://github.com/ourzora/zora-drops-contracts)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 64 | 23 | 
 | 2022-12-16 | 63 | 22 | 
 | 2022-12-15 | 63 | 22 | 
 | 2022-12-14 | 63 | 22 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 62 | 21 | 
 | 2022-11-19 | 62 | 21 | 
 | 2022-11-18 | 62 | 21 | 
-| 2022-11-17 | 62 | 21 | 
 

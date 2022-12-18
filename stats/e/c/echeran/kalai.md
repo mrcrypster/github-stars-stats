@@ -1,10 +1,10 @@
 # echeran/kalai - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 8
 
-★ Stars: 147
+★ Stars: 148
 
 [Open repository](https://github.com/echeran/kalai)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 148 | 8 | 
 | 2022-12-16 | 147 | 8 | 
 | 2022-12-15 | 147 | 8 | 
 | 2022-12-14 | 147 | 8 | 

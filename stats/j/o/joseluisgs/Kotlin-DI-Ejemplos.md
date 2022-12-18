@@ -1,6 +1,6 @@
 # joseluisgs/Kotlin-DI-Ejemplos - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 15 | 4 | 
 | 2022-12-16 | 15 | 4 | 
 | 2022-12-15 | 15 | 4 | 
 | 2022-12-14 | 15 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-21 | 15 | 4 | 
 | 2022-11-20 | 15 | 4 | 
 | 2022-11-19 | 15 | 4 | 
-| 2022-11-18 | 15 | 4 | 
 

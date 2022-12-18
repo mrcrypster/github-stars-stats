@@ -1,6 +1,6 @@
 # hstreamdb/hstream - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 569 | 54 | 
 | 2022-12-16 | 569 | 54 | 
 | 2022-12-15 | 569 | 54 | 
 | 2022-12-13 | 569 | 54 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 563 | 54 | 
 | 2022-11-19 | 563 | 54 | 
 | 2022-11-18 | 563 | 54 | 
-| 2022-11-17 | 562 | 54 | 
 

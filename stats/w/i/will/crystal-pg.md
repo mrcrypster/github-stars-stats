@@ -1,6 +1,6 @@
 # will/crystal-pg - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 72
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 432 | 72 | 
 | 2022-12-16 | 432 | 72 | 
 | 2022-12-15 | 431 | 72 | 
 | 2022-12-14 | 431 | 72 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 429 | 73 | 
 | 2022-11-19 | 429 | 73 | 
 | 2022-11-18 | 429 | 73 | 
-| 2022-11-17 | 429 | 73 | 
 

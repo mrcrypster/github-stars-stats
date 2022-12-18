@@ -1,10 +1,10 @@
 # kristijanhusak/vim-dadbod-ui - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 26
 
-★ Stars: 680
+★ Stars: 682
 
 [Open repository](https://github.com/kristijanhusak/vim-dadbod-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 682 | 26 | 
 | 2022-12-16 | 680 | 26 | 
 | 2022-12-15 | 680 | 26 | 
 | 2022-12-13 | 680 | 26 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 671 | 24 | 
 | 2022-11-19 | 670 | 24 | 
 | 2022-11-18 | 670 | 24 | 
-| 2022-11-17 | 670 | 24 | 
 

@@ -1,6 +1,6 @@
 # sjstoelting/pgsql-tweaks - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 73 | 2 | 
 | 2022-12-16 | 73 | 2 | 
 | 2022-12-15 | 73 | 2 | 
 | 2022-12-14 | 73 | 2 | 

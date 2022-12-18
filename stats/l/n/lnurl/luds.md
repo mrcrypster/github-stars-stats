@@ -1,6 +1,6 @@
 # lnurl/luds - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 87
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 380 | 87 | 
 | 2022-12-16 | 380 | 87 | 
 | 2022-12-15 | 380 | 87 | 
 | 2022-12-13 | 380 | 87 | 

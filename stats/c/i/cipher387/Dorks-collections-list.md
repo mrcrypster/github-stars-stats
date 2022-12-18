@@ -1,6 +1,6 @@
 # cipher387/Dorks-collections-list - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 162
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 1200 | 162 | 
 | 2022-12-16 | 1200 | 162 | 
 | 2022-12-15 | 1198 | 161 | 
 | 2022-12-13 | 1197 | 161 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 1181 | 159 | 
 | 2022-11-19 | 1181 | 159 | 
 | 2022-11-18 | 1179 | 159 | 
-| 2022-11-17 | 1179 | 157 | 
 

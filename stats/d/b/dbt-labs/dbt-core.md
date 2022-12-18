@@ -1,10 +1,10 @@
 # dbt-labs/dbt-core - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
-☋ Forks: 1093
+☋ Forks: 1094
 
-★ Stars: 6205
+★ Stars: 6204
 
 [Open repository](https://github.com/dbt-labs/dbt-core)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 6204 | 1094 | 
 | 2022-12-16 | 6205 | 1093 | 
 | 2022-12-15 | 6198 | 1091 | 
 | 2022-12-14 | 6193 | 1087 | 

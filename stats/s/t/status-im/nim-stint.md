@@ -1,6 +1,6 @@
 # status-im/nim-stint - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 64 | 11 | 
 | 2022-12-16 | 64 | 11 | 
 | 2022-12-15 | 63 | 11 | 
 | 2022-12-14 | 63 | 11 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 61 | 11 | 
 | 2022-11-19 | 61 | 11 | 
 | 2022-11-18 | 61 | 11 | 
-| 2022-11-17 | 61 | 11 | 
 

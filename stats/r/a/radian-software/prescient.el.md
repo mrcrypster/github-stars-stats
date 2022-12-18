@@ -1,6 +1,6 @@
 # radian-software/prescient.el - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 506 | 21 | 
 | 2022-12-16 | 506 | 21 | 
 | 2022-12-15 | 505 | 21 | 
 | 2022-12-13 | 503 | 21 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-21 | 500 | 21 | 
 | 2022-11-20 | 500 | 21 | 
 | 2022-11-19 | 500 | 21 | 
-| 2022-11-18 | 498 | 21 | 
 

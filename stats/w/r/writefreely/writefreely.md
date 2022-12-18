@@ -1,6 +1,6 @@
 # writefreely/writefreely - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 212
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 3098 | 212 | 
 | 2022-12-16 | 3098 | 212 | 
 | 2022-12-15 | 3095 | 212 | 
 | 2022-12-14 | 3095 | 212 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 3004 | 208 | 
 | 2022-11-19 | 2999 | 208 | 
 | 2022-11-18 | 2997 | 208 | 
-| 2022-11-17 | 2995 | 207 | 
 

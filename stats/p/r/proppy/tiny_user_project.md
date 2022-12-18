@@ -1,10 +1,10 @@
 # proppy/tiny_user_project - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
-☋ Forks: 7
+☋ Forks: 6
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/proppy/tiny_user_project)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 8 | 6 | 
 | 2022-12-16 | 7 | 7 | 
 | 2022-12-15 | 7 | 6 | 
 | 2022-12-14 | 8 | 5 | 

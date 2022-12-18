@@ -1,10 +1,10 @@
 # chyke007/Yum-food - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 12
 
-★ Stars: 49
+★ Stars: 51
 
 [Open repository](https://github.com/chyke007/Yum-food)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 51 | 12 | 
 | 2022-12-16 | 49 | 12 | 
 | 2022-12-15 | 49 | 11 | 
 | 2022-12-14 | 50 | 11 | 

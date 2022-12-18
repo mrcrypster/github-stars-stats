@@ -1,6 +1,6 @@
 # Toniq-Labs/extendable-token - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 79 | 45 | 
 | 2022-12-16 | 79 | 45 | 
 | 2022-12-15 | 79 | 45 | 
 | 2022-12-14 | 79 | 45 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 77 | 45 | 
 | 2022-11-19 | 77 | 45 | 
 | 2022-11-18 | 77 | 45 | 
-| 2022-11-17 | 77 | 45 | 
 

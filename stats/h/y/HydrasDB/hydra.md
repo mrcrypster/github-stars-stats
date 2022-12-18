@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 17
 
 ☋ Forks: 10
 
-★ Stars: 495
+★ Stars: 505
 
 [Open repository](https://github.com/HydrasDB/hydra)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-17 | 495 | 10 | 
+| 2022-12-17 | 505 | 10 | 
 | 2022-12-16 | 489 | 10 | 
 

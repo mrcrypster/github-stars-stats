@@ -1,10 +1,10 @@
 # Rjected/ranger - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 17
 
-★ Stars: 164
+★ Stars: 165
 
 [Open repository](https://github.com/Rjected/ranger)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 165 | 17 | 
 | 2022-12-16 | 164 | 17 | 
 | 2022-12-15 | 164 | 17 | 
 | 2022-12-14 | 163 | 16 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 130 | 15 | 
 | 2022-11-19 | 129 | 15 | 
 | 2022-11-18 | 127 | 15 | 
-| 2022-11-17 | 126 | 15 | 
 

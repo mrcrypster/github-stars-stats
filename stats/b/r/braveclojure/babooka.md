@@ -1,10 +1,10 @@
 # braveclojure/babooka - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 1
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/braveclojure/babooka)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 27 | 1 | 
 | 2022-12-16 | 26 | 1 | 
 | 2022-12-15 | 25 | 1 | 
 | 2022-12-14 | 26 | 1 | 

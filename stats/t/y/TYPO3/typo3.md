@@ -1,10 +1,10 @@
 # TYPO3/typo3 - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 592
 
-★ Stars: 895
+★ Stars: 896
 
 [Open repository](https://github.com/TYPO3/typo3)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 896 | 592 | 
 | 2022-12-16 | 895 | 592 | 
 | 2022-12-15 | 895 | 591 | 
 | 2022-12-14 | 895 | 591 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 893 | 586 | 
 | 2022-11-19 | 894 | 586 | 
 | 2022-11-18 | 893 | 586 | 
-| 2022-11-17 | 893 | 586 | 
 

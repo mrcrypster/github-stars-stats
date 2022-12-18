@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 17
 
-☋ Forks: 7
+☋ Forks: 8
 
-★ Stars: 105
+★ Stars: 108
 
 [Open repository](https://github.com/AvicennaJr/Nuru)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-17 | 105 | 7 | 
+| 2022-12-17 | 108 | 8 | 
 | 2022-12-16 | 105 | 7 | 
 

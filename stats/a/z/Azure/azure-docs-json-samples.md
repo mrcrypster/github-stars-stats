@@ -1,10 +1,10 @@
 # Azure/azure-docs-json-samples - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 126
 
-★ Stars: 92
+★ Stars: 93
 
 [Open repository](https://github.com/Azure/azure-docs-json-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 93 | 126 | 
 | 2022-12-16 | 92 | 126 | 
 | 2022-12-15 | 92 | 126 | 
 | 2022-12-14 | 92 | 126 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 91 | 126 | 
 | 2022-11-19 | 91 | 126 | 
 | 2022-11-18 | 91 | 126 | 
-| 2022-11-17 | 91 | 126 | 
 

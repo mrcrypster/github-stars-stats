@@ -1,10 +1,10 @@
 # mrd0x/BITB - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
-☋ Forks: 414
+☋ Forks: 415
 
-★ Stars: 2457
+★ Stars: 2459
 
 [Open repository](https://github.com/mrd0x/BITB)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 2459 | 415 | 
 | 2022-12-16 | 2457 | 414 | 
 | 2022-12-15 | 2453 | 413 | 
 | 2022-12-14 | 2451 | 413 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 2440 | 411 | 
 | 2022-11-19 | 2440 | 410 | 
 | 2022-11-18 | 2440 | 409 | 
-| 2022-11-17 | 2439 | 408 | 
 

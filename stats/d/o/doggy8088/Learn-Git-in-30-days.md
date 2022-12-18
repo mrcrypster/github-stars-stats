@@ -1,10 +1,10 @@
 # doggy8088/Learn-Git-in-30-days - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 1896
 
-★ Stars: 3392
+★ Stars: 3391
 
 [Open repository](https://github.com/doggy8088/Learn-Git-in-30-days)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 3391 | 1896 | 
 | 2022-12-16 | 3392 | 1896 | 
 | 2022-12-15 | 3390 | 1895 | 
 | 2022-12-14 | 3390 | 1895 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 3369 | 1895 | 
 | 2022-11-19 | 3368 | 1895 | 
 | 2022-11-18 | 3367 | 1895 | 
-| 2022-11-17 | 3367 | 1895 | 
 

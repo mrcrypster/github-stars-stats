@@ -1,6 +1,6 @@
 # mortenjust/native-diffusion - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 413 | 25 | 
 | 2022-12-16 | 413 | 25 | 
 | 2022-12-15 | 412 | 25 | 
 | 2022-12-14 | 410 | 25 | 

@@ -1,10 +1,10 @@
 # osm0sis/Android-Image-Kitchen - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 215
 
-★ Stars: 548
+★ Stars: 549
 
 [Open repository](https://github.com/osm0sis/Android-Image-Kitchen)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 549 | 215 | 
 | 2022-12-16 | 548 | 215 | 
 | 2022-12-15 | 547 | 214 | 
 | 2022-12-14 | 546 | 214 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-21 | 535 | 212 | 
 | 2022-11-20 | 534 | 212 | 
 | 2022-11-19 | 534 | 212 | 
-| 2022-11-17 | 534 | 212 | 
 

@@ -1,10 +1,10 @@
 # pre-commit/pre-commit-hooks - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
-☋ Forks: 569
+☋ Forks: 568
 
-★ Stars: 3541
+★ Stars: 3542
 
 [Open repository](https://github.com/pre-commit/pre-commit-hooks)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 3542 | 568 | 
 | 2022-12-16 | 3541 | 569 | 
 | 2022-12-15 | 3537 | 569 | 
 | 2022-12-14 | 3536 | 569 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 3471 | 562 | 
 | 2022-11-19 | 3470 | 562 | 
 | 2022-11-18 | 3466 | 562 | 
-| 2022-11-17 | 3464 | 562 | 
 

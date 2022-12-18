@@ -1,8 +1,8 @@
 # pycaret/pycaret - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
-☋ Forks: 1521
+☋ Forks: 1522
 
 ★ Stars: 6665
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 6665 | 1522 | 
 | 2022-12-16 | 6665 | 1521 | 
 | 2022-12-15 | 6661 | 1521 | 
 | 2022-12-14 | 6652 | 1519 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 6535 | 1497 | 
 | 2022-11-19 | 6534 | 1497 | 
 | 2022-11-18 | 6528 | 1496 | 
-| 2022-11-17 | 6523 | 1494 | 
 

@@ -1,10 +1,10 @@
 # nxrighthere/UnrealCLR - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 161
 
-★ Stars: 2483
+★ Stars: 2484
 
 [Open repository](https://github.com/nxrighthere/UnrealCLR)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 2484 | 161 | 
 | 2022-12-16 | 2483 | 161 | 
 | 2022-12-15 | 2483 | 161 | 
 | 2022-12-14 | 2482 | 161 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 2453 | 160 | 
 | 2022-11-19 | 2451 | 160 | 
 | 2022-11-18 | 2449 | 160 | 
-| 2022-11-17 | 2446 | 160 | 
 

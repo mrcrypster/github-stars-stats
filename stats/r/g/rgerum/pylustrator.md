@@ -1,6 +1,6 @@
 # rgerum/pylustrator - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 17
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-17 | 627 | 29 | 
 | 2022-12-16 | 627 | 29 | 
 | 2022-12-15 | 623 | 29 | 
 | 2022-12-14 | 623 | 29 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 618 | 29 | 
 | 2022-11-19 | 617 | 29 | 
 | 2022-11-18 | 618 | 29 | 
-| 2022-11-17 | 616 | 29 | 
 

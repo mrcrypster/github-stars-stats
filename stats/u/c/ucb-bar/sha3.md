@@ -1,6 +1,6 @@
 # ucb-bar/sha3 - stars & forks statistics
 
-Stats updated on Dec 2022, 16
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 17
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 60 | 17 | 
+| 2022-12-17 | 60 | 17 | 
 | 2022-12-16 | 60 | 17 | 
 | 2022-12-15 | 60 | 17 | 
 | 2022-12-14 | 60 | 17 | 
@@ -41,5 +43,4 @@ Stats updated on Dec 2022, 16
 | 2022-11-20 | 60 | 17 | 
 | 2022-11-19 | 60 | 17 | 
 | 2022-11-18 | 60 | 17 | 
-| 2022-11-17 | 60 | 17 | 
 
