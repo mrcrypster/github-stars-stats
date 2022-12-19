@@ -1,6 +1,6 @@
 # markulie/xCalc - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 7 | 7 | 
 | 2022-12-17 | 7 | 7 | 
 | 2022-12-16 | 7 | 7 | 
 | 2022-12-15 | 7 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 7 | 7 | 
 | 2022-11-20 | 7 | 7 | 
 | 2022-11-19 | 7 | 7 | 
-| 2022-11-18 | 7 | 7 | 
 

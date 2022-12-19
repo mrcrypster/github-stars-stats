@@ -1,10 +1,10 @@
 # karafka/karafka - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 144
 
-★ Stars: 1559
+★ Stars: 1560
 
 [Open repository](https://github.com/karafka/karafka)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 1560 | 144 | 
 | 2022-12-17 | 1559 | 144 | 
 | 2022-12-16 | 1557 | 144 | 
 | 2022-12-15 | 1556 | 144 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 1525 | 138 | 
 | 2022-11-20 | 1525 | 138 | 
 | 2022-11-19 | 1525 | 138 | 
-| 2022-11-18 | 1525 | 138 | 
 

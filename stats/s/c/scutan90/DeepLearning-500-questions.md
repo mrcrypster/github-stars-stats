@@ -1,6 +1,6 @@
 # scutan90/DeepLearning-500-questions - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 15397
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 49516 | 15397 | 
 | 2022-12-17 | 49516 | 15397 | 
 | 2022-12-16 | 49509 | 15392 | 
 | 2022-12-15 | 49507 | 15392 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 49380 | 15359 | 
 | 2022-11-20 | 49379 | 15361 | 
 | 2022-11-19 | 49376 | 15361 | 
-| 2022-11-18 | 49373 | 15359 | 
 

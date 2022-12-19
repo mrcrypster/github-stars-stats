@@ -1,6 +1,6 @@
 # status-im/nim-websock - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 59 | 11 | 
 | 2022-12-17 | 59 | 11 | 
 | 2022-12-16 | 59 | 11 | 
 | 2022-12-15 | 59 | 11 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 58 | 11 | 
 | 2022-11-20 | 58 | 11 | 
 | 2022-11-19 | 58 | 11 | 
-| 2022-11-18 | 58 | 11 | 
 

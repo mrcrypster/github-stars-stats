@@ -1,6 +1,6 @@
 # sefinek24/Genshin-Impact-ReShade - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 17 | 2 | 
 | 2022-12-17 | 17 | 2 | 
 | 2022-12-16 | 16 | 2 | 
 | 2022-12-15 | 16 | 2 | 

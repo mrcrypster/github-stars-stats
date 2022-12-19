@@ -1,10 +1,10 @@
 # drenther/use-clamp-text - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 1
 
-★ Stars: 172
+★ Stars: 173
 
 [Open repository](https://github.com/drenther/use-clamp-text)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 173 | 1 | 
 | 2022-12-17 | 172 | 1 | 
 | 2022-12-16 | 172 | 1 | 
 | 2022-12-15 | 172 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 172 | 1 | 
 | 2022-11-20 | 172 | 1 | 
 | 2022-11-19 | 172 | 1 | 
-| 2022-11-18 | 172 | 1 | 
 

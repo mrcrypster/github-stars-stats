@@ -1,10 +1,10 @@
 # leanote/leanote - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 2441
 
-★ Stars: 11118
+★ Stars: 11121
 
 [Open repository](https://github.com/leanote/leanote)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 11121 | 2441 | 
 | 2022-12-17 | 11118 | 2441 | 
 | 2022-12-16 | 11118 | 2441 | 
 | 2022-12-15 | 11117 | 2441 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 11085 | 2435 | 
 | 2022-11-20 | 11084 | 2435 | 
 | 2022-11-19 | 11083 | 2434 | 
-| 2022-11-18 | 11085 | 2434 | 
 

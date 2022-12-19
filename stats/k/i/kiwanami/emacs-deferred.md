@@ -1,10 +1,10 @@
 # kiwanami/emacs-deferred - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 42
 
-★ Stars: 301
+★ Stars: 300
 
 [Open repository](https://github.com/kiwanami/emacs-deferred)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 300 | 42 | 
 | 2022-12-17 | 301 | 42 | 
 | 2022-12-16 | 301 | 42 | 
 | 2022-12-15 | 300 | 42 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 299 | 42 | 
 | 2022-11-20 | 299 | 42 | 
 | 2022-11-19 | 299 | 42 | 
-| 2022-11-18 | 299 | 42 | 
 

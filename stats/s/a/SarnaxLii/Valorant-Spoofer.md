@@ -1,6 +1,6 @@
 # SarnaxLii/Valorant-Spoofer - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 91 | 20 | 
 | 2022-12-17 | 91 | 20 | 
 | 2022-12-16 | 90 | 20 | 
 | 2022-12-15 | 90 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 79 | 17 | 
 | 2022-11-20 | 79 | 17 | 
 | 2022-11-19 | 78 | 17 | 
-| 2022-11-18 | 78 | 17 | 
 

@@ -1,10 +1,10 @@
 # drmingdrmer/consensus-essence - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 3
 
-★ Stars: 87
+★ Stars: 88
 
 [Open repository](https://github.com/drmingdrmer/consensus-essence)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 88 | 3 | 
 | 2022-12-17 | 87 | 3 | 
 | 2022-12-16 | 87 | 3 | 
 | 2022-12-15 | 87 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 34 | 1 | 
 | 2022-11-20 | 34 | - | 
 | 2022-11-19 | 34 | - | 
-| 2022-11-18 | 34 | - | 
 

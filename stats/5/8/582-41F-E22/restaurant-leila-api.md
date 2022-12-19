@@ -1,6 +1,6 @@
 # 582-41F-E22/restaurant-leila-api - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | - | 9 | 
 | 2022-12-17 | - | 9 | 
 | 2022-12-16 | - | 9 | 
 | 2022-12-15 | - | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | - | 9 | 
 | 2022-11-20 | - | 9 | 
 | 2022-11-19 | - | 9 | 
-| 2022-11-18 | - | 9 | 
 

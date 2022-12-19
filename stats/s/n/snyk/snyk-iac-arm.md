@@ -1,6 +1,6 @@
 # snyk/snyk-iac-arm - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | - | 32 | 
 | 2022-12-17 | - | 32 | 
 | 2022-12-16 | - | 32 | 
 | 2022-12-15 | - | 31 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | - | 29 | 
 | 2022-11-20 | - | 29 | 
 | 2022-11-19 | - | 29 | 
-| 2022-11-18 | - | 29 | 
 

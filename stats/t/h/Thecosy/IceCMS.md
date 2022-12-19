@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 18
 
 ☋ Forks: 36
 
-★ Stars: 364
+★ Stars: 365
 
 [Open repository](https://github.com/Thecosy/IceCMS)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-18 | 364 | 36 | 
+| 2022-12-18 | 365 | 36 | 
 | 2022-12-17 | 364 | 36 | 
 | 2022-12-16 | 361 | 34 | 
 | 2022-12-15 | 358 | 32 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-21 | 291 | 21 | 
 | 2022-11-20 | 282 | 20 | 
 | 2022-11-19 | 276 | 20 | 
-| 2022-11-18 | 275 | 20 | 
 

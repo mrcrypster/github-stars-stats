@@ -1,10 +1,10 @@
 # adityastomar67/nvim-dots - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 2
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/adityastomar67/nvim-dots)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 28 | 2 | 
 | 2022-12-17 | 27 | 2 | 
 | 2022-12-16 | 27 | 2 | 
 | 2022-12-15 | 27 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 26 | 2 | 
 | 2022-11-20 | 26 | 2 | 
 | 2022-11-19 | 26 | 2 | 
-| 2022-11-18 | 26 | 2 | 
 

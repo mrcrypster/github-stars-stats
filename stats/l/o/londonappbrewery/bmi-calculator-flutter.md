@@ -1,8 +1,8 @@
 # londonappbrewery/bmi-calculator-flutter - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
-☋ Forks: 796
+☋ Forks: 795
 
 ★ Stars: 145
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 145 | 795 | 
 | 2022-12-17 | 145 | 796 | 
 | 2022-12-16 | 145 | 795 | 
 | 2022-12-15 | 145 | 794 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 146 | 791 | 
 | 2022-11-20 | 146 | 791 | 
 | 2022-11-19 | 146 | 791 | 
-| 2022-11-18 | 146 | 791 | 
 

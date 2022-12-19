@@ -1,10 +1,10 @@
 # YuzukiHD/YuzukiChameleon - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 21
 
-★ Stars: 104
+★ Stars: 105
 
 [Open repository](https://github.com/YuzukiHD/YuzukiChameleon)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 105 | 21 | 
 | 2022-12-17 | 104 | 21 | 
 | 2022-12-16 | 104 | 21 | 
 | 2022-12-15 | 104 | 21 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 92 | 19 | 
 | 2022-11-20 | 91 | 19 | 
 | 2022-11-19 | 90 | 19 | 
-| 2022-11-18 | 90 | 19 | 
 

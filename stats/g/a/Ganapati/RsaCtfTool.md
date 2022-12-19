@@ -1,10 +1,10 @@
 # Ganapati/RsaCtfTool - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 768
 
-★ Stars: 4064
+★ Stars: 4065
 
 [Open repository](https://github.com/Ganapati/RsaCtfTool)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 4065 | 768 | 
 | 2022-12-17 | 4064 | 768 | 
 | 2022-12-16 | 4064 | 767 | 
 | 2022-12-15 | 4061 | 768 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 4016 | 761 | 
 | 2022-11-20 | 4009 | 758 | 
 | 2022-11-19 | 4007 | 758 | 
-| 2022-11-18 | 4006 | 756 | 
 

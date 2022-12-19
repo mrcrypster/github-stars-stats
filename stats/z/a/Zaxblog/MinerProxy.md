@@ -1,6 +1,6 @@
 # Zaxblog/MinerProxy - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 149
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 450 | 149 | 
 | 2022-12-17 | 450 | 149 | 
 | 2022-12-16 | 450 | 149 | 
 | 2022-12-15 | 451 | 149 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 450 | 149 | 
 | 2022-11-20 | 450 | 149 | 
 | 2022-11-19 | 450 | 149 | 
-| 2022-11-18 | 450 | 149 | 
 

@@ -1,10 +1,10 @@
 # ACM-Alexandria-SC/Internships - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 163
 
-★ Stars: 1025
+★ Stars: 1023
 
 [Open repository](https://github.com/ACM-Alexandria-SC/Internships)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 1023 | 163 | 
 | 2022-12-17 | 1025 | 163 | 
 | 2022-12-16 | 1025 | 163 | 
 | 2022-12-15 | 1025 | 163 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 1008 | 161 | 
 | 2022-11-20 | 1008 | 161 | 
 | 2022-11-19 | 1008 | 161 | 
-| 2022-11-18 | 1008 | 161 | 
 

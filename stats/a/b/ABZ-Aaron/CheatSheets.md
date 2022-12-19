@@ -1,10 +1,10 @@
 # ABZ-Aaron/CheatSheets - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
-☋ Forks: 249
+☋ Forks: 250
 
-★ Stars: 1573
+★ Stars: 1574
 
 [Open repository](https://github.com/ABZ-Aaron/CheatSheets)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 1574 | 250 | 
 | 2022-12-17 | 1573 | 249 | 
 | 2022-12-16 | 1573 | 249 | 
 | 2022-12-15 | 1573 | 249 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 1567 | 249 | 
 | 2022-11-20 | 1567 | 249 | 
 | 2022-11-19 | 1565 | 249 | 
-| 2022-11-18 | 1565 | 249 | 
 

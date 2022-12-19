@@ -1,10 +1,10 @@
 # joeldrapper/phlex - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 50
 
-★ Stars: 631
+★ Stars: 633
 
 [Open repository](https://github.com/joeldrapper/phlex)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 633 | 50 | 
 | 2022-12-17 | 631 | 50 | 
 | 2022-12-16 | 628 | 49 | 
 | 2022-12-15 | 622 | 49 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 531 | 46 | 
 | 2022-11-20 | 529 | 46 | 
 | 2022-11-19 | 528 | 46 | 
-| 2022-11-18 | 528 | 46 | 
 

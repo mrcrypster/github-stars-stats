@@ -1,6 +1,6 @@
 # gustavogss/trybe-exercicios-back-end - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 8 | 3 | 
 | 2022-12-17 | 8 | 3 | 
 | 2022-12-16 | 8 | 3 | 
 | 2022-12-15 | 8 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 9 | 3 | 
 | 2022-11-20 | 9 | 3 | 
 | 2022-11-19 | 9 | 3 | 
-| 2022-11-18 | 9 | 3 | 
 

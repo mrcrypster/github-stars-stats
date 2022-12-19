@@ -1,10 +1,10 @@
 # koekeishiya/yabai - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 19
 
-☋ Forks: 478
+☋ Forks: 481
 
-★ Stars: 13911
+★ Stars: 13919
 
 [Open repository](https://github.com/koekeishiya/yabai)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 13919 | 481 | 
+| 2022-12-18 | 13917 | 481 | 
 | 2022-12-17 | 13911 | 478 | 
 | 2022-12-16 | 13901 | 478 | 
 | 2022-12-15 | 13891 | 478 | 
@@ -38,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-22 | 13648 | 473 | 
 | 2022-11-21 | 13631 | 472 | 
 | 2022-11-20 | 13621 | 472 | 
-| 2022-11-19 | 13612 | 472 | 
 

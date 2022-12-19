@@ -1,10 +1,10 @@
 # jherr/fast-react-context - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 59
 
-★ Stars: 175
+★ Stars: 176
 
 [Open repository](https://github.com/jherr/fast-react-context)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 176 | 59 | 
 | 2022-12-17 | 175 | 59 | 
 | 2022-12-16 | 175 | 59 | 
 | 2022-12-15 | 174 | 57 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 159 | 54 | 
 | 2022-11-20 | 159 | 54 | 
 | 2022-11-19 | 158 | 54 | 
-| 2022-11-18 | 157 | 54 | 
 

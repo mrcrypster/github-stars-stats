@@ -1,10 +1,10 @@
 # jareer12/Tailwind-Css-UI-Components - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 112
 
-★ Stars: 186
+★ Stars: 188
 
 [Open repository](https://github.com/jareer12/Tailwind-Css-UI-Components)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 188 | 112 | 
 | 2022-12-17 | 186 | 112 | 
 | 2022-12-16 | 186 | 111 | 
 | 2022-12-15 | 185 | 111 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 154 | 96 | 
 | 2022-11-20 | 154 | 95 | 
 | 2022-11-19 | 153 | 94 | 
-| 2022-11-18 | 153 | 94 | 
 

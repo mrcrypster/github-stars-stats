@@ -1,6 +1,6 @@
 # Legrandin/pycryptodome - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 402
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 2217 | 402 | 
 | 2022-12-17 | 2217 | 402 | 
 | 2022-12-16 | 2216 | 402 | 
 | 2022-12-15 | 2216 | 401 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 2189 | 403 | 
 | 2022-11-20 | 2188 | 403 | 
 | 2022-11-19 | 2188 | 403 | 
-| 2022-11-18 | 2186 | 402 | 
 

@@ -1,6 +1,6 @@
 # slaclab/ruckus - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 47 | 22 | 
 | 2022-12-17 | 47 | 22 | 
 | 2022-12-16 | 47 | 21 | 
 | 2022-12-15 | 47 | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 47 | 21 | 
 | 2022-11-20 | 47 | 21 | 
 | 2022-11-19 | 47 | 21 | 
-| 2022-11-18 | 47 | 21 | 
 

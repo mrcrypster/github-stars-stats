@@ -1,6 +1,6 @@
 # iziz/libPhoneNumber-iOS - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 457
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 2309 | 457 | 
 | 2022-12-18 | 2309 | 457 | 
 | 2022-12-17 | 2309 | 457 | 
 | 2022-12-16 | 2309 | 457 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-21 | 2307 | 455 | 
 | 2022-11-20 | 2307 | 455 | 
 | 2022-11-19 | 2306 | 455 | 
-| 2022-11-18 | 2305 | 455 | 
 

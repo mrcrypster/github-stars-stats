@@ -1,10 +1,10 @@
 # containers/bubblewrap - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 190
 
-★ Stars: 2825
+★ Stars: 2826
 
 [Open repository](https://github.com/containers/bubblewrap)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 2826 | 190 | 
 | 2022-12-17 | 2825 | 190 | 
 | 2022-12-16 | 2825 | 190 | 
 | 2022-12-15 | 2824 | 190 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-22 | 2790 | 189 | 
 | 2022-11-21 | 2789 | 189 | 
 | 2022-11-20 | 2787 | 189 | 
-| 2022-11-19 | 2787 | 189 | 
 

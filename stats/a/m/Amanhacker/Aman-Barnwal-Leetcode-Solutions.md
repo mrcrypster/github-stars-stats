@@ -1,6 +1,6 @@
 # Amanhacker/Aman-Barnwal-Leetcode-Solutions - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 134
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 424 | 134 | 
 | 2022-12-17 | 424 | 134 | 
 | 2022-12-16 | 424 | 134 | 
 | 2022-12-15 | 424 | 133 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-22 | 421 | 131 | 
 | 2022-11-21 | 421 | 131 | 
 | 2022-11-20 | 421 | 131 | 
-| 2022-11-18 | 421 | 130 | 
 

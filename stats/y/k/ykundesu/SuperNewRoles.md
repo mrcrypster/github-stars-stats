@@ -1,8 +1,8 @@
 # ykundesu/SuperNewRoles - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
-☋ Forks: 69
+☋ Forks: 70
 
 ★ Stars: 48
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 48 | 70 | 
 | 2022-12-17 | 48 | 69 | 
 | 2022-12-16 | 48 | 69 | 
 | 2022-12-15 | 48 | 69 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 46 | 71 | 
 | 2022-11-20 | 45 | 71 | 
 | 2022-11-19 | 45 | 71 | 
-| 2022-11-18 | 45 | 71 | 
 

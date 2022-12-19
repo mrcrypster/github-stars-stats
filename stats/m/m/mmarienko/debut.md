@@ -1,8 +1,8 @@
 # mmarienko/debut - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
-☋ Forks: 8
+☋ Forks: 7
 
 ★ Stars: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 4 | 7 | 
 | 2022-12-17 | 4 | 8 | 
 | 2022-12-16 | 4 | 8 | 
 | 2022-12-15 | 4 | 8 | 

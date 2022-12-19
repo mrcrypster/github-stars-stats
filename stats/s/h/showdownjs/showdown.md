@@ -1,10 +1,10 @@
 # showdownjs/showdown - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 1575
 
-★ Stars: 13003
+★ Stars: 13005
 
 [Open repository](https://github.com/showdownjs/showdown)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 13005 | 1575 | 
 | 2022-12-17 | 13003 | 1575 | 
 | 2022-12-16 | 13002 | 1575 | 
 | 2022-12-15 | 13000 | 1576 | 

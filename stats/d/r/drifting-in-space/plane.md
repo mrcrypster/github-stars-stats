@@ -1,6 +1,6 @@
 # drifting-in-space/plane - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 915 | 21 | 
 | 2022-12-17 | 915 | 21 | 
 | 2022-12-16 | 914 | 21 | 
 | 2022-12-15 | 912 | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 847 | 20 | 
 | 2022-11-20 | 847 | 20 | 
 | 2022-11-19 | 847 | 20 | 
-| 2022-11-18 | 847 | 20 | 
 

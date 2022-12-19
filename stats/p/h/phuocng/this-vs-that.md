@@ -1,6 +1,6 @@
 # phuocng/this-vs-that - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 93
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 1327 | 93 | 
 | 2022-12-18 | 1327 | 93 | 
 | 2022-12-17 | 1327 | 93 | 
 | 2022-12-15 | 1327 | 93 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 1319 | 93 | 
 | 2022-11-21 | 1318 | 93 | 
 | 2022-11-20 | 1318 | 93 | 
-| 2022-11-19 | 1319 | 93 | 
 

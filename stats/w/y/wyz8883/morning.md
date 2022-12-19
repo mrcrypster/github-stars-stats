@@ -1,6 +1,6 @@
 # wyz8883/morning - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 344
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 88 | 344 | 
 | 2022-12-17 | 88 | 344 | 
 | 2022-12-16 | 88 | 345 | 
 | 2022-12-15 | 87 | 345 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 86 | 342 | 
 | 2022-11-20 | 86 | 340 | 
 | 2022-11-19 | 85 | 339 | 
-| 2022-11-18 | 85 | 337 | 
 

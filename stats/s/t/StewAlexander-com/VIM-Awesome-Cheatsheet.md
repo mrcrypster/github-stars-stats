@@ -1,6 +1,6 @@
 # StewAlexander-com/VIM-Awesome-Cheatsheet - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 166 | 7 | 
 | 2022-12-17 | 166 | 7 | 
 | 2022-12-16 | 166 | 7 | 
 | 2022-12-15 | 166 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 163 | 6 | 
 | 2022-11-20 | 163 | 6 | 
 | 2022-11-19 | 163 | 6 | 
-| 2022-11-18 | 163 | 6 | 
 

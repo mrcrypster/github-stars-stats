@@ -1,6 +1,6 @@
 # gnbdev/opengnb - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 173
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 745 | 173 | 
 | 2022-12-17 | 745 | 173 | 
 | 2022-12-16 | 744 | 172 | 
 | 2022-12-15 | 744 | 171 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 731 | 165 | 
 | 2022-11-20 | 731 | 165 | 
 | 2022-11-19 | 730 | 165 | 
-| 2022-11-18 | 727 | 165 | 
 

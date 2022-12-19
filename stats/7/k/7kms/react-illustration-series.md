@@ -1,6 +1,6 @@
 # 7kms/react-illustration-series - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 621
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 5778 | 621 | 
 | 2022-12-17 | 5778 | 621 | 
 | 2022-12-16 | 5776 | 620 | 
 | 2022-12-15 | 5773 | 619 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-22 | 5677 | 606 | 
 | 2022-11-21 | 5673 | 605 | 
 | 2022-11-20 | 5672 | 605 | 
-| 2022-11-18 | 5670 | 604 | 
 

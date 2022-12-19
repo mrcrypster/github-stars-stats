@@ -1,10 +1,10 @@
 # Simon-Hostettler/htyper - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 0
 
-★ Stars: 46
+★ Stars: 45
 
 [Open repository](https://github.com/Simon-Hostettler/htyper)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 45 | - | 
 | 2022-12-17 | 46 | - | 
 | 2022-12-16 | 46 | - | 
 | 2022-12-15 | 46 | - | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 43 | 1 | 
 | 2022-11-20 | 43 | 1 | 
 | 2022-11-19 | 43 | 1 | 
-| 2022-11-18 | 43 | 1 | 
 

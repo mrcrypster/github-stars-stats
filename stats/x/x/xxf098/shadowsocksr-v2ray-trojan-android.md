@@ -1,6 +1,6 @@
 # xxf098/shadowsocksr-v2ray-trojan-android - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 341
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 2634 | 341 | 
 | 2022-12-17 | 2634 | 341 | 
 | 2022-12-16 | 2634 | 341 | 
 | 2022-12-15 | 2630 | 341 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 2614 | 336 | 
 | 2022-11-20 | 2613 | 337 | 
 | 2022-11-19 | 2613 | 336 | 
-| 2022-11-18 | 2608 | 336 | 
 

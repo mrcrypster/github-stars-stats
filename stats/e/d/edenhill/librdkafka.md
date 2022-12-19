@@ -1,6 +1,6 @@
 # edenhill/librdkafka - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 2900
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 6380 | 2900 | 
 | 2022-12-17 | 6380 | 2900 | 
 | 2022-12-16 | 6380 | 2897 | 
 | 2022-12-15 | 6379 | 2895 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 6310 | 2890 | 
 | 2022-11-20 | 6308 | 2889 | 
 | 2022-11-19 | 6309 | 2889 | 
-| 2022-11-18 | 6307 | 2889 | 
 

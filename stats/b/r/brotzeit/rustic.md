@@ -1,8 +1,8 @@
 # brotzeit/rustic - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
-☋ Forks: 82
+☋ Forks: 83
 
 ★ Stars: 606
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 606 | 83 | 
 | 2022-12-17 | 606 | 82 | 
 | 2022-12-16 | 604 | 82 | 
 | 2022-12-15 | 604 | 82 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 596 | 82 | 
 | 2022-11-20 | 596 | 82 | 
 | 2022-11-19 | 596 | 82 | 
-| 2022-11-18 | 596 | 82 | 
 

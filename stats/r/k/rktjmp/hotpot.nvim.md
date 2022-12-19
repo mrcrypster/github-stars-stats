@@ -1,6 +1,6 @@
 # rktjmp/hotpot.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 231 | 3 | 
 | 2022-12-17 | 231 | 3 | 
 | 2022-12-16 | 231 | 3 | 
 | 2022-12-15 | 231 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 219 | 4 | 
 | 2022-11-20 | 219 | 4 | 
 | 2022-11-19 | 218 | 4 | 
-| 2022-11-18 | 218 | 4 | 
 

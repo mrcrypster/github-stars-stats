@@ -1,10 +1,10 @@
 # nalgeon/sqlean - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
-☋ Forks: 69
+☋ Forks: 68
 
-★ Stars: 2003
+★ Stars: 2022
 
 [Open repository](https://github.com/nalgeon/sqlean)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 2022 | 68 | 
 | 2022-12-17 | 2003 | 69 | 
 | 2022-12-16 | 1994 | 69 | 
 | 2022-12-15 | 1967 | 66 | 

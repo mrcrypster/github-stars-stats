@@ -1,8 +1,8 @@
 # AviatrixSystems/ace-iac-day-zero - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
-☋ Forks: 26
+☋ Forks: 27
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 1 | 27 | 
 | 2022-12-17 | 1 | 26 | 
 | 2022-12-16 | 1 | 25 | 
 | 2022-12-15 | 1 | 25 | 

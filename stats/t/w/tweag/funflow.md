@@ -1,6 +1,6 @@
 # tweag/funflow - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 360 | 31 | 
 | 2022-12-17 | 360 | 31 | 
 | 2022-12-16 | 360 | 31 | 
 | 2022-12-15 | 361 | 31 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 360 | 32 | 
 | 2022-11-20 | 360 | 32 | 
 | 2022-11-19 | 360 | 32 | 
-| 2022-11-18 | 360 | 32 | 
 

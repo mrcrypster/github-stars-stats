@@ -1,10 +1,10 @@
 # linuxserver/docker-qbittorrent - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 90
 
-★ Stars: 466
+★ Stars: 467
 
 [Open repository](https://github.com/linuxserver/docker-qbittorrent)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 467 | 90 | 
 | 2022-12-17 | 466 | 90 | 
 | 2022-12-16 | 466 | 90 | 
 | 2022-12-15 | 465 | 90 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 451 | 87 | 
 | 2022-11-20 | 451 | 86 | 
 | 2022-11-19 | 451 | 86 | 
-| 2022-11-18 | 451 | 86 | 
 

@@ -1,8 +1,8 @@
 # Azure/sonic-linux-kernel - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
-☋ Forks: 141
+☋ Forks: 140
 
 ★ Stars: 41
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 41 | 140 | 
 | 2022-12-17 | 41 | 141 | 
 | 2022-12-16 | 41 | 141 | 
 | 2022-12-15 | 41 | 141 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-22 | 41 | 138 | 
 | 2022-11-21 | 41 | 138 | 
 | 2022-11-20 | 40 | 138 | 
-| 2022-11-19 | 40 | 138 | 
 

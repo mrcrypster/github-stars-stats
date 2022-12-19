@@ -1,6 +1,6 @@
 # jenkinsci/pipeline-model-definition-plugin - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 228
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 532 | 228 | 
 | 2022-12-17 | 532 | 228 | 
 | 2022-12-16 | 532 | 228 | 
 | 2022-12-15 | 532 | 228 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 531 | 225 | 
 | 2022-11-20 | 531 | 225 | 
 | 2022-11-19 | 531 | 225 | 
-| 2022-11-18 | 531 | 225 | 
 

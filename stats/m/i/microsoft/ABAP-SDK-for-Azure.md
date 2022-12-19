@@ -1,6 +1,6 @@
 # microsoft/ABAP-SDK-for-Azure - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 125 | 54 | 
 | 2022-12-17 | 125 | 54 | 
 | 2022-12-16 | 125 | 53 | 
 | 2022-12-15 | 125 | 53 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 124 | 52 | 
 | 2022-11-20 | 124 | 52 | 
 | 2022-11-19 | 124 | 52 | 
-| 2022-11-18 | 124 | 52 | 
 

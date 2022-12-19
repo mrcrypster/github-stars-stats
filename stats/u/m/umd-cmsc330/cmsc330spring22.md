@@ -1,6 +1,6 @@
 # umd-cmsc330/cmsc330spring22 - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 27 | 24 | 
 | 2022-12-17 | 27 | 24 | 
 | 2022-12-16 | 27 | 24 | 
 | 2022-12-15 | 27 | 24 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-22 | 27 | 24 | 
 | 2022-11-21 | 27 | 24 | 
 | 2022-11-20 | 27 | 24 | 
-| 2022-11-18 | 27 | 24 | 
 

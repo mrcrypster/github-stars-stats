@@ -1,10 +1,10 @@
 # CyberMonitor/APT_CyberCriminal_Campagin_Collections - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 821
 
-★ Stars: 3032
+★ Stars: 3035
 
 [Open repository](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 3035 | 821 | 
 | 2022-12-17 | 3032 | 821 | 
 | 2022-12-16 | 3032 | 821 | 
 | 2022-12-15 | 3030 | 821 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 3008 | 819 | 
 | 2022-11-20 | 3006 | 819 | 
 | 2022-11-19 | 3006 | 818 | 
-| 2022-11-18 | 3006 | 818 | 
 

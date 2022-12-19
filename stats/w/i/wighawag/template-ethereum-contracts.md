@@ -1,6 +1,6 @@
 # wighawag/template-ethereum-contracts - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 91
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 392 | 91 | 
 | 2022-12-17 | 392 | 91 | 
 | 2022-12-16 | 393 | 91 | 
 | 2022-12-15 | 393 | 91 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 383 | 89 | 
 | 2022-11-20 | 383 | 89 | 
 | 2022-11-19 | 383 | 89 | 
-| 2022-11-18 | 383 | 89 | 
 

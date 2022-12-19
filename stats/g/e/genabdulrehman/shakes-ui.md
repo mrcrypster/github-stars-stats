@@ -1,10 +1,10 @@
 # genabdulrehman/shakes-ui - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 30
 
-★ Stars: 67
+★ Stars: 68
 
 [Open repository](https://github.com/genabdulrehman/shakes-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 68 | 30 | 
 | 2022-12-17 | 67 | 30 | 
 | 2022-12-16 | 67 | 30 | 
 | 2022-12-15 | 67 | 30 | 

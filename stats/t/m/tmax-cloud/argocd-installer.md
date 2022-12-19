@@ -1,6 +1,6 @@
 # tmax-cloud/argocd-installer - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 4 | 25 | 
 | 2022-12-18 | 4 | 25 | 
 | 2022-12-17 | 4 | 25 | 
 | 2022-12-15 | 4 | 24 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 3 | 23 | 
 | 2022-11-21 | 3 | 23 | 
 | 2022-11-20 | 3 | 23 | 
-| 2022-11-19 | 3 | 23 | 
 

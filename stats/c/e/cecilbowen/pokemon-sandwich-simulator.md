@@ -1,8 +1,8 @@
 # cecilbowen/pokemon-sandwich-simulator - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
-☋ Forks: 22
+☋ Forks: 21
 
 ★ Stars: 52
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 52 | 21 | 
 | 2022-12-17 | 52 | 22 | 
 | 2022-12-16 | 50 | 21 | 
 | 2022-12-15 | 50 | 19 | 

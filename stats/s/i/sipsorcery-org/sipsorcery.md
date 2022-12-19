@@ -1,6 +1,6 @@
 # sipsorcery-org/sipsorcery - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 312
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 928 | 312 | 
 | 2022-12-17 | 928 | 312 | 
 | 2022-12-16 | 927 | 312 | 
 | 2022-12-15 | 927 | 312 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-22 | 916 | 309 | 
 | 2022-11-21 | 916 | 309 | 
 | 2022-11-20 | 916 | 309 | 
-| 2022-11-19 | 916 | 309 | 
 

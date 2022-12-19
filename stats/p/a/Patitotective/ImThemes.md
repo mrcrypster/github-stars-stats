@@ -1,10 +1,10 @@
 # Patitotective/ImThemes - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 5
 
-★ Stars: 68
+★ Stars: 69
 
 [Open repository](https://github.com/Patitotective/ImThemes)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 69 | 5 | 
 | 2022-12-17 | 68 | 5 | 
 | 2022-12-16 | 67 | 5 | 
 | 2022-12-15 | 67 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 65 | 7 | 
 | 2022-11-20 | 66 | 7 | 
 | 2022-11-19 | 66 | 7 | 
-| 2022-11-18 | 66 | 7 | 
 

@@ -1,8 +1,8 @@
 # SE331-HandsOn-Lab/Lab01 - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
-☋ Forks: 77
+☋ Forks: 76
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | - | 76 | 
 | 2022-12-17 | - | 77 | 
 | 2022-12-16 | - | 77 | 
 | 2022-12-15 | - | 77 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | - | 77 | 
 | 2022-11-20 | - | 77 | 
 | 2022-11-19 | - | 77 | 
-| 2022-11-18 | - | 77 | 
 

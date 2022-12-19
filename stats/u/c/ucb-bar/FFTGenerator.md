@@ -1,6 +1,6 @@
 # ucb-bar/FFTGenerator - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 1
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 4 | 1 | 
+| 2022-12-18 | 4 | 1 | 
 | 2022-12-17 | 4 | 1 | 
 | 2022-12-16 | 4 | 1 | 
 | 2022-12-15 | 4 | 1 | 
@@ -41,5 +43,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 4 | 1 | 
 | 2022-11-20 | 4 | 1 | 
 | 2022-11-19 | 4 | 1 | 
-| 2022-11-18 | 4 | 1 | 
 

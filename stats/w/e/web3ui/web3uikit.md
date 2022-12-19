@@ -1,10 +1,10 @@
 # web3ui/web3uikit - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 187
 
-★ Stars: 1260
+★ Stars: 1261
 
 [Open repository](https://github.com/web3ui/web3uikit)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 1261 | 187 | 
 | 2022-12-17 | 1260 | 187 | 
 | 2022-12-16 | 1259 | 187 | 
 | 2022-12-15 | 1258 | 187 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 1230 | 181 | 
 | 2022-11-20 | 1225 | 180 | 
 | 2022-11-19 | 1225 | 180 | 
-| 2022-11-18 | 1225 | 179 | 
 

@@ -1,10 +1,10 @@
 # androidx/androidx - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
-☋ Forks: 679
+☋ Forks: 681
 
-★ Stars: 4172
+★ Stars: 4176
 
 [Open repository](https://github.com/androidx/androidx)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 4176 | 681 | 
 | 2022-12-17 | 4172 | 679 | 
 | 2022-12-16 | 4170 | 677 | 
 | 2022-12-15 | 4170 | 677 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 4133 | 663 | 
 | 2022-11-20 | 4132 | 663 | 
 | 2022-11-19 | 4130 | 663 | 
-| 2022-11-18 | 4128 | 663 | 
 

@@ -1,10 +1,10 @@
 # devcontainers/features - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
-☋ Forks: 72
+☋ Forks: 73
 
-★ Stars: 241
+★ Stars: 245
 
 [Open repository](https://github.com/devcontainers/features)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 245 | 73 | 
 | 2022-12-17 | 241 | 72 | 
 | 2022-12-16 | 238 | 71 | 
 | 2022-12-15 | 238 | 69 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 181 | 59 | 
 | 2022-11-20 | 179 | 59 | 
 | 2022-11-19 | 176 | 59 | 
-| 2022-11-18 | 173 | 57 | 
 

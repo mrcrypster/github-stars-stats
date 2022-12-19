@@ -1,10 +1,10 @@
 # daftcube/orbitlib - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 3
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/daftcube/orbitlib)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 26 | 3 | 
 | 2022-12-17 | 25 | 3 | 
 | 2022-12-16 | 25 | 3 | 
 | 2022-12-15 | 25 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 25 | 3 | 
 | 2022-11-20 | 25 | 3 | 
 | 2022-11-19 | 25 | 3 | 
-| 2022-11-18 | 25 | 3 | 
 

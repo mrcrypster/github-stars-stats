@@ -1,6 +1,6 @@
 # actions/dependency-review-action - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 317 | 59 | 
 | 2022-12-17 | 317 | 59 | 
 | 2022-12-16 | 314 | 59 | 
 | 2022-12-15 | 315 | 59 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 300 | 49 | 
 | 2022-11-20 | 299 | 49 | 
 | 2022-11-19 | 298 | 49 | 
-| 2022-11-18 | 297 | 49 | 
 

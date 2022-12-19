@@ -1,10 +1,10 @@
 # tpope/vim-markdown - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 195
 
-★ Stars: 1178
+★ Stars: 1179
 
 [Open repository](https://github.com/tpope/vim-markdown)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 1179 | 195 | 
 | 2022-12-17 | 1178 | 195 | 
 | 2022-12-16 | 1178 | 195 | 
 | 2022-12-15 | 1178 | 195 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 1176 | 195 | 
 | 2022-11-20 | 1176 | 195 | 
 | 2022-11-19 | 1176 | 195 | 
-| 2022-11-18 | 1176 | 195 | 
 

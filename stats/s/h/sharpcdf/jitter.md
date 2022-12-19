@@ -1,10 +1,10 @@
 # sharpcdf/jitter - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 2
 
-★ Stars: 88
+★ Stars: 87
 
 [Open repository](https://github.com/sharpcdf/jitter)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 87 | 2 | 
 | 2022-12-17 | 88 | 2 | 
 | 2022-12-16 | 88 | 2 | 
 | 2022-12-15 | 88 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-22 | 86 | 2 | 
 | 2022-11-21 | 86 | 2 | 
 | 2022-11-20 | 86 | 2 | 
-| 2022-11-19 | 86 | 2 | 
 

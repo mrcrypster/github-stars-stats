@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 18
 
-☋ Forks: 12
+☋ Forks: 13
 
-★ Stars: 248
+★ Stars: 254
 
 [Open repository](https://github.com/featbit/featbit)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-18 | 248 | 12 | 
+| 2022-12-18 | 254 | 13 | 
 | 2022-12-17 | 247 | 12 | 
 | 2022-12-16 | 219 | 12 | 
 | 2022-12-15 | 217 | 12 | 

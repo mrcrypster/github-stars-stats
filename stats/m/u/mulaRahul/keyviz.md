@@ -1,10 +1,10 @@
 # mulaRahul/keyviz - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 49
 
-★ Stars: 1847
+★ Stars: 1848
 
 [Open repository](https://github.com/mulaRahul/keyviz)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 1848 | 49 | 
 | 2022-12-17 | 1847 | 49 | 
 | 2022-12-16 | 1844 | 49 | 
 | 2022-12-15 | 1840 | 49 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 1752 | 41 | 
 | 2022-11-20 | 1746 | 41 | 
 | 2022-11-19 | 1739 | 41 | 
-| 2022-11-18 | 1732 | 41 | 
 

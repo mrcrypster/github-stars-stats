@@ -1,10 +1,10 @@
 # projectdiscovery/subfinder - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 939
 
-★ Stars: 6646
+★ Stars: 6648
 
 [Open repository](https://github.com/projectdiscovery/subfinder)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 6648 | 939 | 
 | 2022-12-17 | 6646 | 939 | 
 | 2022-12-16 | 6644 | 939 | 
 | 2022-12-15 | 6640 | 940 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 6525 | 931 | 
 | 2022-11-20 | 6520 | 930 | 
 | 2022-11-19 | 6514 | 929 | 
-| 2022-11-18 | 6513 | 930 | 
 

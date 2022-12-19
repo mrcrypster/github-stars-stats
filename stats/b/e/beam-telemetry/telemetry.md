@@ -1,6 +1,6 @@
 # beam-telemetry/telemetry - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 782 | 58 | 
 | 2022-12-17 | 782 | 58 | 
 | 2022-12-16 | 782 | 58 | 
 | 2022-12-15 | 782 | 58 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 779 | 58 | 
 | 2022-11-20 | 779 | 58 | 
 | 2022-11-19 | 779 | 58 | 
-| 2022-11-18 | 779 | 58 | 
 

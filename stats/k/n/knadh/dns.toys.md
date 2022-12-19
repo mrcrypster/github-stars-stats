@@ -1,10 +1,10 @@
 # knadh/dns.toys - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 82
 
-★ Stars: 2024
+★ Stars: 2025
 
 [Open repository](https://github.com/knadh/dns.toys)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 2025 | 82 | 
 | 2022-12-17 | 2024 | 82 | 
 | 2022-12-16 | 2024 | 82 | 
 | 2022-12-15 | 2024 | 82 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 2013 | 80 | 
 | 2022-11-20 | 2014 | 80 | 
 | 2022-11-19 | 2013 | 80 | 
-| 2022-11-18 | 2013 | 79 | 
 

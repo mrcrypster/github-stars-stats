@@ -1,8 +1,8 @@
 # braveclojure/babooka - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 27
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 27 | 2 | 
 | 2022-12-17 | 27 | 1 | 
 | 2022-12-16 | 26 | 1 | 
 | 2022-12-15 | 25 | 1 | 

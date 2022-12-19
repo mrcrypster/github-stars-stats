@@ -1,10 +1,10 @@
 # tristanisham/zvm - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 2
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/tristanisham/zvm)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 32 | 2 | 
 | 2022-12-17 | 31 | 2 | 
 | 2022-12-16 | 31 | 2 | 
 | 2022-12-15 | 31 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 18 | 1 | 
 | 2022-11-20 | 17 | - | 
 | 2022-11-19 | 17 | - | 
-| 2022-11-18 | 16 | - | 
 

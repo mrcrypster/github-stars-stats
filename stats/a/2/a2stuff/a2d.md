@@ -1,10 +1,10 @@
 # a2stuff/a2d - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 15
 
-★ Stars: 198
+★ Stars: 199
 
 [Open repository](https://github.com/a2stuff/a2d)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 199 | 15 | 
 | 2022-12-17 | 198 | 15 | 
 | 2022-12-16 | 198 | 15 | 
 | 2022-12-15 | 198 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 196 | 15 | 
 | 2022-11-20 | 196 | 15 | 
 | 2022-11-19 | 196 | 15 | 
-| 2022-11-18 | 196 | 15 | 
 

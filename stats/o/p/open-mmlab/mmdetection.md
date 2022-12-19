@@ -1,10 +1,10 @@
 # open-mmlab/mmdetection - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
-☋ Forks: 8165
+☋ Forks: 8167
 
-★ Stars: 22414
+★ Stars: 22418
 
 [Open repository](https://github.com/open-mmlab/mmdetection)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 22418 | 8167 | 
 | 2022-12-17 | 22414 | 8165 | 
 | 2022-12-16 | 22404 | 8162 | 
 | 2022-12-15 | 22389 | 8157 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-22 | 22154 | 8063 | 
 | 2022-11-21 | 22141 | 8057 | 
 | 2022-11-20 | 22134 | 8055 | 
-| 2022-11-19 | 22132 | 8055 | 
 

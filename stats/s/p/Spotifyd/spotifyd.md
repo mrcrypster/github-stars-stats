@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 18
 
 ☋ Forks: 375
 
-★ Stars: 6819
+★ Stars: 6822
 
 [Open repository](https://github.com/Spotifyd/spotifyd)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-18 | 6819 | 375 | 
+| 2022-12-18 | 6822 | 375 | 
 | 2022-12-17 | 6816 | 375 | 
 | 2022-12-16 | 6799 | 375 | 
 | 2022-12-15 | 6636 | 374 | 

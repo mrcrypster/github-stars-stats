@@ -1,10 +1,10 @@
 # containers/youki - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 235
 
-★ Stars: 4105
+★ Stars: 4122
 
 [Open repository](https://github.com/containers/youki)
 
@@ -13,7 +13,8 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-18 | 4105 | 235 | 
+| 2022-12-19 | 4122 | 235 | 
+| 2022-12-18 | 4120 | 235 | 
 | 2022-12-17 | 4103 | 235 | 
 | 2022-12-16 | 4091 | 235 | 
 | 2022-12-15 | 4088 | 234 | 

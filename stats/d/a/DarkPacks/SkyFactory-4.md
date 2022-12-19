@@ -1,10 +1,10 @@
 # DarkPacks/SkyFactory-4 - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 47
 
-★ Stars: 110
+★ Stars: 111
 
 [Open repository](https://github.com/DarkPacks/SkyFactory-4)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 111 | 47 | 
+| 2022-12-18 | 111 | 47 | 
 | 2022-12-17 | 110 | 47 | 
 | 2022-12-16 | 110 | 47 | 
 | 2022-12-15 | 109 | 47 | 
@@ -41,5 +43,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 107 | 47 | 
 | 2022-11-20 | 107 | 47 | 
 | 2022-11-19 | 107 | 48 | 
-| 2022-11-18 | 107 | 48 | 
 

@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 18
 
 ☋ Forks: 304
 
-★ Stars: 3628
+★ Stars: 3629
 
 [Open repository](https://github.com/risingwavelabs/risingwave)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-18 | 3628 | 304 | 
+| 2022-12-18 | 3629 | 304 | 
 | 2022-12-17 | 3627 | 304 | 
 | 2022-12-16 | 3626 | 304 | 
 | 2022-12-15 | 3620 | 301 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-21 | 3537 | 293 | 
 | 2022-11-20 | 3529 | 292 | 
 | 2022-11-19 | 3527 | 292 | 
-| 2022-11-18 | 3523 | 292 | 
 

@@ -1,10 +1,10 @@
 # PixelGuys/Stella-Dei - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 0
 
-★ Stars: 22
+★ Stars: 24
 
 [Open repository](https://github.com/PixelGuys/Stella-Dei)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 24 | - | 
 | 2022-12-17 | 22 | - | 
 | 2022-12-16 | 22 | - | 
 | 2022-12-15 | 22 | - | 

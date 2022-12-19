@@ -1,6 +1,6 @@
 # scaleracademy/scaler-september-open-source-challenge - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 378
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 355 | 378 | 
 | 2022-12-17 | 355 | 378 | 
 | 2022-12-16 | 356 | 378 | 
 | 2022-12-15 | 357 | 378 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 363 | 379 | 
 | 2022-11-20 | 363 | 379 | 
 | 2022-11-19 | 363 | 379 | 
-| 2022-11-18 | 363 | 379 | 
 

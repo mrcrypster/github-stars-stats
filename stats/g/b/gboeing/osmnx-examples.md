@@ -1,8 +1,8 @@
 # gboeing/osmnx-examples - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
-☋ Forks: 434
+☋ Forks: 433
 
 ★ Stars: 1178
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 1178 | 433 | 
 | 2022-12-17 | 1178 | 434 | 
 | 2022-12-16 | 1178 | 434 | 
 | 2022-12-15 | 1177 | 434 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 1151 | 428 | 
 | 2022-11-20 | 1149 | 428 | 
 | 2022-11-19 | 1149 | 428 | 
-| 2022-11-18 | 1149 | 428 | 
 

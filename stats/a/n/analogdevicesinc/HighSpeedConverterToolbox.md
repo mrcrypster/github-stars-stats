@@ -1,6 +1,6 @@
 # analogdevicesinc/HighSpeedConverterToolbox - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 16 | 11 | 
 | 2022-12-18 | 16 | 11 | 
 | 2022-12-17 | 16 | 11 | 
 | 2022-12-15 | 16 | 11 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-21 | 16 | 11 | 
 | 2022-11-20 | 16 | 11 | 
 | 2022-11-19 | 16 | 11 | 
-| 2022-11-18 | 16 | 11 | 
 

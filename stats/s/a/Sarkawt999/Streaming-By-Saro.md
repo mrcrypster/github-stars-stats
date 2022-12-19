@@ -1,10 +1,10 @@
 # Sarkawt999/Streaming-By-Saro - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 6
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/Sarkawt999/Streaming-By-Saro)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 3 | 6 | 
 | 2022-12-17 | 2 | 6 | 
 | 2022-12-16 | 2 | 6 | 
 | 2022-12-15 | 2 | 6 | 

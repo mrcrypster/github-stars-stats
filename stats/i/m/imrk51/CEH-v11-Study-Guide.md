@@ -1,6 +1,6 @@
 # imrk51/CEH-v11-Study-Guide - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 354
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 530 | 354 | 
 | 2022-12-17 | 530 | 354 | 
 | 2022-12-16 | 529 | 354 | 
 | 2022-12-15 | 528 | 354 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 514 | 340 | 
 | 2022-11-20 | 512 | 340 | 
 | 2022-11-19 | 512 | 340 | 
-| 2022-11-18 | 511 | 339 | 
 

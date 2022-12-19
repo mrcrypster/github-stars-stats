@@ -1,6 +1,6 @@
 # TriBITSPub/TriBITS - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 27 | 39 | 
 | 2022-12-17 | 27 | 39 | 
 | 2022-12-16 | 27 | 39 | 
 | 2022-12-15 | 27 | 39 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 27 | 39 | 
 | 2022-11-20 | 27 | 39 | 
 | 2022-11-19 | 27 | 39 | 
-| 2022-11-18 | 27 | 39 | 
 

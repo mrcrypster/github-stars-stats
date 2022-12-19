@@ -1,10 +1,10 @@
 # avem-labs/Avem - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 366
 
-★ Stars: 1089
+★ Stars: 1090
 
 [Open repository](https://github.com/avem-labs/Avem)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 1090 | 366 | 
 | 2022-12-17 | 1089 | 366 | 
 | 2022-12-16 | 1088 | 366 | 
 | 2022-12-15 | 1087 | 366 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 1074 | 361 | 
 | 2022-11-20 | 1074 | 361 | 
 | 2022-11-19 | 1074 | 361 | 
-| 2022-11-18 | 1073 | 361 | 
 

@@ -1,6 +1,6 @@
 # def-/time.gif - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 490 | 26 | 
 | 2022-12-17 | 490 | 26 | 
 | 2022-12-16 | 489 | 26 | 
 | 2022-12-15 | 489 | 26 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-22 | 489 | 26 | 
 | 2022-11-21 | 489 | 26 | 
 | 2022-11-20 | 489 | 26 | 
-| 2022-11-19 | 489 | 26 | 
 

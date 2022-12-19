@@ -1,10 +1,10 @@
 # quoll/asami - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 5
 
-★ Stars: 220
+★ Stars: 221
 
 [Open repository](https://github.com/quoll/asami)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 221 | 5 | 
 | 2022-12-17 | 220 | 5 | 
 | 2022-12-16 | 220 | 5 | 
 | 2022-12-15 | 220 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 204 | 4 | 
 | 2022-11-20 | 203 | 4 | 
 | 2022-11-19 | 198 | 3 | 
-| 2022-11-18 | 176 | 3 | 
 

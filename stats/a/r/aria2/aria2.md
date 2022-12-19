@@ -1,10 +1,10 @@
 # aria2/aria2 - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 3160
 
-★ Stars: 28459
+★ Stars: 28469
 
 [Open repository](https://github.com/aria2/aria2)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 28469 | 3160 | 
+| 2022-12-18 | 28468 | 3160 | 
 | 2022-12-17 | 28459 | 3160 | 
 | 2022-12-16 | 28449 | 3157 | 
 | 2022-12-15 | 28447 | 3156 | 
@@ -40,5 +42,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 28202 | 3137 | 
 | 2022-11-20 | 28194 | 3137 | 
 | 2022-11-19 | 28172 | 3135 | 
-| 2022-11-18 | 28158 | 3132 | 
 

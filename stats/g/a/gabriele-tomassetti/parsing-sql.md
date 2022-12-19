@@ -1,6 +1,6 @@
 # gabriele-tomassetti/parsing-sql - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 29 | 5 | 
 | 2022-12-17 | 29 | 5 | 
 | 2022-12-16 | 29 | 5 | 
 | 2022-12-15 | 29 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 29 | 4 | 
 | 2022-11-20 | 29 | 4 | 
 | 2022-11-19 | 29 | 4 | 
-| 2022-11-18 | 29 | 4 | 
 

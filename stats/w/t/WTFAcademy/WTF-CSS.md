@@ -1,10 +1,10 @@
 # WTFAcademy/WTF-CSS - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
-☋ Forks: 17
+☋ Forks: 16
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/WTFAcademy/WTF-CSS)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 28 | 16 | 
 | 2022-12-17 | 27 | 17 | 
 | 2022-12-16 | 27 | 17 | 
 | 2022-12-15 | 27 | 17 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-22 | 27 | 15 | 
 | 2022-11-21 | 27 | 15 | 
 | 2022-11-20 | 27 | 15 | 
-| 2022-11-18 | 26 | 15 | 
 

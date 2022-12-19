@@ -1,8 +1,8 @@
 # alijahnas/CKA-practice-exercises - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
-☋ Forks: 358
+☋ Forks: 359
 
 ★ Stars: 697
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 697 | 359 | 
 | 2022-12-17 | 697 | 358 | 
 | 2022-12-16 | 697 | 357 | 
 | 2022-12-15 | 696 | 357 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 678 | 349 | 
 | 2022-11-20 | 678 | 349 | 
 | 2022-11-19 | 677 | 349 | 
-| 2022-11-18 | 677 | 349 | 
 

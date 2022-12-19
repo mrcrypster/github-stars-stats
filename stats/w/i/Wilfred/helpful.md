@@ -1,10 +1,10 @@
 # Wilfred/helpful - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 50
 
-★ Stars: 879
+★ Stars: 880
 
 [Open repository](https://github.com/Wilfred/helpful)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 880 | 50 | 
 | 2022-12-17 | 879 | 50 | 
 | 2022-12-16 | 878 | 50 | 
 | 2022-12-15 | 877 | 50 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 866 | 49 | 
 | 2022-11-20 | 866 | 49 | 
 | 2022-11-19 | 865 | 49 | 
-| 2022-11-18 | 863 | 49 | 
 

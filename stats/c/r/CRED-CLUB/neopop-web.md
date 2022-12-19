@@ -1,10 +1,10 @@
 # CRED-CLUB/neopop-web - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 130
 
-★ Stars: 873
+★ Stars: 874
 
 [Open repository](https://github.com/CRED-CLUB/neopop-web)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 874 | 130 | 
 | 2022-12-17 | 873 | 130 | 
 | 2022-12-16 | 873 | 130 | 
 | 2022-12-15 | 873 | 130 | 

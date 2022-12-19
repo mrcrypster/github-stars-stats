@@ -1,6 +1,6 @@
 # chiphuyen/machine-learning-systems-design - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 1222
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 7551 | 1222 | 
 | 2022-12-17 | 7551 | 1222 | 
 | 2022-12-16 | 7548 | 1222 | 
 | 2022-12-15 | 7546 | 1222 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-22 | 7473 | 1205 | 
 | 2022-11-21 | 7468 | 1205 | 
 | 2022-11-20 | 7466 | 1205 | 
-| 2022-11-19 | 7464 | 1205 | 
 

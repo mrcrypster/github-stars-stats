@@ -1,6 +1,6 @@
 # rstudio/shinytest2 - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 83 | 8 | 
 | 2022-12-17 | 83 | 8 | 
 | 2022-12-16 | 83 | 8 | 
 | 2022-12-15 | 83 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 81 | 8 | 
 | 2022-11-20 | 81 | 8 | 
 | 2022-11-19 | 81 | 8 | 
-| 2022-11-18 | 81 | 8 | 
 

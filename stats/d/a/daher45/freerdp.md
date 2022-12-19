@@ -1,6 +1,6 @@
 # daher45/freerdp - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | - | 39 | 
 | 2022-12-17 | - | 39 | 
 | 2022-12-16 | - | 39 | 
 | 2022-12-15 | - | 39 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-22 | - | 30 | 
 | 2022-11-21 | - | 30 | 
 | 2022-11-20 | - | 29 | 
-| 2022-11-19 | - | 29 | 
 

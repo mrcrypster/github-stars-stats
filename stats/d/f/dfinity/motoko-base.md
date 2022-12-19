@@ -1,10 +1,10 @@
 # dfinity/motoko-base - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 69
 
-★ Stars: 411
+★ Stars: 412
 
 [Open repository](https://github.com/dfinity/motoko-base)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 412 | 69 | 
 | 2022-12-17 | 411 | 69 | 
 | 2022-12-16 | 411 | 69 | 
 | 2022-12-15 | 411 | 69 | 

@@ -1,10 +1,10 @@
 # sindresorhus/type-fest - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 356
 
-★ Stars: 9567
+★ Stars: 9569
 
 [Open repository](https://github.com/sindresorhus/type-fest)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 9569 | 356 | 
 | 2022-12-17 | 9567 | 356 | 
 | 2022-12-16 | 9561 | 356 | 
 | 2022-12-15 | 9553 | 356 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 9346 | 343 | 
 | 2022-11-20 | 9345 | 343 | 
 | 2022-11-19 | 9341 | 343 | 
-| 2022-11-18 | 9336 | 341 | 
 

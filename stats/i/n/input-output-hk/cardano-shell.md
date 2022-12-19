@@ -1,10 +1,10 @@
 # input-output-hk/cardano-shell - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 13
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/input-output-hk/cardano-shell)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 32 | 13 | 
 | 2022-12-17 | 31 | 13 | 
 | 2022-12-16 | 31 | 13 | 
 | 2022-12-15 | 31 | 13 | 

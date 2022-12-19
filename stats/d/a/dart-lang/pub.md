@@ -1,10 +1,10 @@
 # dart-lang/pub - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 214
 
-★ Stars: 913
+★ Stars: 912
 
 [Open repository](https://github.com/dart-lang/pub)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 912 | 214 | 
 | 2022-12-17 | 913 | 214 | 
 | 2022-12-16 | 913 | 214 | 
 | 2022-12-15 | 913 | 214 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 906 | 213 | 
 | 2022-11-20 | 903 | 212 | 
 | 2022-11-19 | 903 | 212 | 
-| 2022-11-18 | 903 | 212 | 
 

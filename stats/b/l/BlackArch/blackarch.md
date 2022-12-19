@@ -1,10 +1,10 @@
 # BlackArch/blackarch - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 515
 
-★ Stars: 2347
+★ Stars: 2348
 
 [Open repository](https://github.com/BlackArch/blackarch)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 2348 | 515 | 
 | 2022-12-18 | 2347 | 515 | 
 | 2022-12-17 | 2347 | 515 | 
 | 2022-12-16 | 2347 | 515 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-21 | 2332 | 515 | 
 | 2022-11-20 | 2332 | 514 | 
 | 2022-11-19 | 2332 | 514 | 
-| 2022-11-18 | 2332 | 514 | 
 

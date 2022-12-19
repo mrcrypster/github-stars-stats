@@ -1,10 +1,10 @@
 # total-typescript/advanced-typescript-workshop - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
-☋ Forks: 109
+☋ Forks: 110
 
-★ Stars: 764
+★ Stars: 765
 
 [Open repository](https://github.com/total-typescript/advanced-typescript-workshop)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 765 | 110 | 
 | 2022-12-17 | 764 | 109 | 
 | 2022-12-16 | 764 | 109 | 
 | 2022-12-15 | 764 | 108 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 754 | 98 | 
 | 2022-11-20 | 754 | 98 | 
 | 2022-11-19 | 754 | 98 | 
-| 2022-11-18 | 753 | 98 | 
 

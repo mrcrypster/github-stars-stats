@@ -1,6 +1,6 @@
 # Ignitetch/AdvPhishing - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 639
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 1896 | 639 | 
 | 2022-12-17 | 1896 | 639 | 
 | 2022-12-16 | 1895 | 638 | 
 | 2022-12-15 | 1894 | 637 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 1861 | 632 | 
 | 2022-11-20 | 1860 | 631 | 
 | 2022-11-19 | 1858 | 630 | 
-| 2022-11-18 | 1856 | 630 | 
 

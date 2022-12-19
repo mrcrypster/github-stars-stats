@@ -1,6 +1,6 @@
 # PatrickHentz/A-First-Book-of-C-Exercises- - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 25
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 28 | 25 | 
+| 2022-12-18 | 28 | 25 | 
 | 2022-12-17 | 28 | 25 | 
 | 2022-12-16 | 28 | 25 | 
 | 2022-12-15 | 28 | 25 | 
@@ -40,5 +42,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 27 | 25 | 
 | 2022-11-20 | 26 | 25 | 
 | 2022-11-19 | 26 | 25 | 
-| 2022-11-18 | 26 | 25 | 
 

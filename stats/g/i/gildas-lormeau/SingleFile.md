@@ -1,10 +1,10 @@
 # gildas-lormeau/SingleFile - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 704
 
-★ Stars: 9781
+★ Stars: 9786
 
 [Open repository](https://github.com/gildas-lormeau/SingleFile)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 9786 | 704 | 
 | 2022-12-17 | 9781 | 704 | 
 | 2022-12-16 | 9776 | 704 | 
 | 2022-12-15 | 9770 | 704 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 9607 | 691 | 
 | 2022-11-20 | 9595 | 689 | 
 | 2022-11-19 | 9582 | 689 | 
-| 2022-11-18 | 9549 | 687 | 
 

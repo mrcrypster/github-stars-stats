@@ -1,10 +1,10 @@
 # OrchardCMS/OrchardCore - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
-☋ Forks: 2093
+☋ Forks: 2094
 
-★ Stars: 6271
+★ Stars: 6272
 
 [Open repository](https://github.com/OrchardCMS/OrchardCore)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 6272 | 2094 | 
 | 2022-12-17 | 6271 | 2093 | 
 | 2022-12-16 | 6271 | 2092 | 
 | 2022-12-15 | 6269 | 2092 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 6243 | 2089 | 
 | 2022-11-20 | 6242 | 2087 | 
 | 2022-11-19 | 6241 | 2085 | 
-| 2022-11-18 | 6239 | 2085 | 
 

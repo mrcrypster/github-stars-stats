@@ -1,10 +1,10 @@
 # hay-kot/mealie - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
-☋ Forks: 293
+☋ Forks: 294
 
-★ Stars: 2745
+★ Stars: 2750
 
 [Open repository](https://github.com/hay-kot/mealie)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 2750 | 294 | 
 | 2022-12-17 | 2745 | 293 | 
 | 2022-12-16 | 2740 | 293 | 
 | 2022-12-15 | 2736 | 293 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-22 | 2659 | 283 | 
 | 2022-11-20 | 2655 | 283 | 
 | 2022-11-19 | 2651 | 282 | 
-| 2022-11-18 | 2645 | 281 | 
 

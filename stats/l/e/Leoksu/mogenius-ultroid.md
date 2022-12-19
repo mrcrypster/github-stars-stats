@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 18
 
 ☋ Forks: 8
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/Leoksu/mogenius-ultroid)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-18 | 6 | 8 | 
+| 2022-12-18 | 7 | 8 | 
 | 2022-12-17 | 6 | 8 | 
 | 2022-12-16 | 6 | 9 | 
 

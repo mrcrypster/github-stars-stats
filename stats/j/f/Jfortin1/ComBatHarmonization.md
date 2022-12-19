@@ -1,6 +1,6 @@
 # Jfortin1/ComBatHarmonization - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 88
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 179 | 88 | 
 | 2022-12-17 | 179 | 88 | 
 | 2022-12-16 | 179 | 88 | 
 | 2022-12-15 | 179 | 88 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 173 | 86 | 
 | 2022-11-20 | 173 | 86 | 
 | 2022-11-19 | 173 | 86 | 
-| 2022-11-18 | 173 | 86 | 
 

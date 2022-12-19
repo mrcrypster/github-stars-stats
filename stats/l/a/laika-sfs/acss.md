@@ -1,6 +1,6 @@
 # laika-sfs/acss - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 4 | 3 | 
 | 2022-12-17 | 4 | 3 | 
 | 2022-12-16 | 4 | 3 | 
 | 2022-12-15 | 4 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 3 | 3 | 
 | 2022-11-20 | 3 | 3 | 
 | 2022-11-19 | 3 | 3 | 
-| 2022-11-18 | 3 | 3 | 
 

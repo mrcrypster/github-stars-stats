@@ -1,10 +1,10 @@
 # google/syzkaller - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 1086
 
-★ Stars: 4480
+★ Stars: 4483
 
 [Open repository](https://github.com/google/syzkaller)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 4483 | 1086 | 
 | 2022-12-17 | 4480 | 1086 | 
 | 2022-12-16 | 4479 | 1086 | 
 | 2022-12-15 | 4477 | 1086 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 4444 | 1077 | 
 | 2022-11-20 | 4443 | 1077 | 
 | 2022-11-19 | 4441 | 1076 | 
-| 2022-11-18 | 4440 | 1074 | 
 

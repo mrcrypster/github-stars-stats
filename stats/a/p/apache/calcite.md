@@ -1,6 +1,6 @@
 # apache/calcite - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 1855
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 3543 | 1855 | 
 | 2022-12-17 | 3543 | 1855 | 
 | 2022-12-16 | 3542 | 1855 | 
 | 2022-12-15 | 3538 | 1855 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-22 | 3493 | 1834 | 
 | 2022-11-20 | 3492 | 1833 | 
 | 2022-11-19 | 3493 | 1833 | 
-| 2022-11-18 | 3492 | 1832 | 
 

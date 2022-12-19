@@ -1,10 +1,10 @@
 # botkalista/ayaya-league-external - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 37
 
-★ Stars: 114
+★ Stars: 115
 
 [Open repository](https://github.com/botkalista/ayaya-league-external)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 115 | 37 | 
 | 2022-12-17 | 114 | 37 | 
 | 2022-12-16 | 114 | 36 | 
 | 2022-12-15 | 113 | 36 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 109 | 36 | 
 | 2022-11-20 | 109 | 36 | 
 | 2022-11-19 | 109 | 36 | 
-| 2022-11-18 | 109 | 36 | 
 

@@ -1,6 +1,6 @@
 # MirzaBeig/GPU-Fog-Particles - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 302 | 41 | 
 | 2022-12-17 | 302 | 41 | 
 | 2022-12-16 | 302 | 41 | 
 | 2022-12-15 | 302 | 41 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 302 | 42 | 
 | 2022-11-20 | 302 | 42 | 
 | 2022-11-19 | 302 | 42 | 
-| 2022-11-18 | 301 | 42 | 
 

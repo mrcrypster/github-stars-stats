@@ -1,10 +1,10 @@
 # L1yp/van - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 17
 
-★ Stars: 86
+★ Stars: 87
 
 [Open repository](https://github.com/L1yp/van)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 87 | 17 | 
 | 2022-12-17 | 86 | 17 | 
 | 2022-12-16 | 86 | 17 | 
 | 2022-12-15 | 86 | 17 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 75 | 15 | 
 | 2022-11-20 | 75 | 15 | 
 | 2022-11-19 | 74 | 15 | 
-| 2022-11-18 | 74 | 15 | 
 

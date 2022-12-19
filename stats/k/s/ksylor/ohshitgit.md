@@ -1,6 +1,6 @@
 # ksylor/ohshitgit - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 150
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 1036 | 150 | 
 | 2022-12-17 | 1036 | 150 | 
 | 2022-12-16 | 1036 | 150 | 
 | 2022-12-15 | 1034 | 150 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-22 | 1025 | 149 | 
 | 2022-11-21 | 1026 | 149 | 
 | 2022-11-20 | 1026 | 149 | 
-| 2022-11-19 | 1025 | 149 | 
 

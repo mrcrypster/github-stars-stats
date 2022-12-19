@@ -1,6 +1,6 @@
 # flathub/shared-modules - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 55 | 65 | 
 | 2022-12-17 | 55 | 65 | 
 | 2022-12-16 | 55 | 65 | 
 | 2022-12-15 | 55 | 65 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 53 | 66 | 
 | 2022-11-20 | 53 | 66 | 
 | 2022-11-19 | 53 | 66 | 
-| 2022-11-18 | 53 | 66 | 
 

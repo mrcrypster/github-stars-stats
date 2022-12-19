@@ -1,6 +1,6 @@
 # Azure/sap-automation - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 89
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 63 | 89 | 
 | 2022-12-18 | 63 | 89 | 
 | 2022-12-17 | 63 | 89 | 
 | 2022-12-16 | 62 | 89 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-21 | 60 | 87 | 
 | 2022-11-20 | 60 | 86 | 
 | 2022-11-19 | 60 | 86 | 
-| 2022-11-18 | 60 | 86 | 
 

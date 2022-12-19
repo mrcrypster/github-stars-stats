@@ -1,10 +1,10 @@
 # Sansekai/Wa-OpenAI - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
-☋ Forks: 40
+☋ Forks: 45
 
-★ Stars: 59
+★ Stars: 67
 
 [Open repository](https://github.com/Sansekai/Wa-OpenAI)
 
@@ -13,5 +13,6 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 67 | 45 | 
 | 2022-12-17 | 59 | 40 | 
 

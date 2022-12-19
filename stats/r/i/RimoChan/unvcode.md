@@ -1,10 +1,10 @@
 # RimoChan/unvcode - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 38
 
-★ Stars: 1036
+★ Stars: 1037
 
 [Open repository](https://github.com/RimoChan/unvcode)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 1037 | 38 | 
 | 2022-12-17 | 1036 | 38 | 
 | 2022-12-16 | 1036 | 38 | 
 | 2022-12-15 | 1036 | 38 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 1025 | 36 | 
 | 2022-11-20 | 1025 | 36 | 
 | 2022-11-19 | 1024 | 36 | 
-| 2022-11-18 | 1024 | 36 | 
 

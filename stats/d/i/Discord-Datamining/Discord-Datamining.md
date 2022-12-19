@@ -1,10 +1,10 @@
 # Discord-Datamining/Discord-Datamining - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 71
 
-★ Stars: 1414
+★ Stars: 1415
 
 [Open repository](https://github.com/Discord-Datamining/Discord-Datamining)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 1415 | 71 | 
 | 2022-12-17 | 1414 | 71 | 
 | 2022-12-16 | 1414 | 71 | 
 | 2022-12-15 | 1413 | 71 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 1403 | 71 | 
 | 2022-11-20 | 1403 | 71 | 
 | 2022-11-19 | 1402 | 71 | 
-| 2022-11-18 | 1402 | 71 | 
 

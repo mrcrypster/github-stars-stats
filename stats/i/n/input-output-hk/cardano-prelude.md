@@ -1,10 +1,10 @@
 # input-output-hk/cardano-prelude - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 11
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/input-output-hk/cardano-prelude)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 13 | 11 | 
 | 2022-12-17 | 12 | 11 | 
 | 2022-12-16 | 12 | 11 | 
 | 2022-12-15 | 12 | 11 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 12 | 10 | 
 | 2022-11-20 | 12 | 10 | 
 | 2022-11-19 | 12 | 10 | 
-| 2022-11-18 | 12 | 10 | 
 

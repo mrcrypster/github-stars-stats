@@ -1,6 +1,6 @@
 # OWASP/Nettacker - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 591
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 2058 | 591 | 
 | 2022-12-17 | 2058 | 591 | 
 | 2022-12-16 | 2058 | 591 | 
 | 2022-12-15 | 2058 | 591 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 2029 | 585 | 
 | 2022-11-20 | 2028 | 585 | 
 | 2022-11-19 | 2028 | 585 | 
-| 2022-11-18 | 2027 | 584 | 
 

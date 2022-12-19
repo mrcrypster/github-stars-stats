@@ -1,10 +1,10 @@
 # Freescale/meta-freescale-3rdparty - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 345
 
-★ Stars: 77
+★ Stars: 78
 
 [Open repository](https://github.com/Freescale/meta-freescale-3rdparty)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 78 | 345 | 
 | 2022-12-17 | 77 | 345 | 
 | 2022-12-16 | 77 | 345 | 
 | 2022-12-15 | 77 | 345 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 77 | 340 | 
 | 2022-11-20 | 77 | 339 | 
 | 2022-11-19 | 77 | 339 | 
-| 2022-11-18 | 77 | 339 | 
 

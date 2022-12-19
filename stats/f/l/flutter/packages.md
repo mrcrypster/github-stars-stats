@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 18
 
 ☋ Forks: 965
 
-★ Stars: 2315
+★ Stars: 2317
 
 [Open repository](https://github.com/flutter/packages)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-18 | 2315 | 965 | 
+| 2022-12-18 | 2317 | 965 | 
 | 2022-12-17 | 2315 | 965 | 
 | 2022-12-16 | 2314 | 964 | 
 | 2022-12-15 | 2307 | 962 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-21 | 2249 | 928 | 
 | 2022-11-20 | 2250 | 928 | 
 | 2022-11-19 | 2248 | 928 | 
-| 2022-11-18 | 2247 | 928 | 
 

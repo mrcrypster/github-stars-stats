@@ -1,6 +1,6 @@
 # yejianfengblue/dactyl-generator-demo - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 70 | 6 | 
 | 2022-12-17 | 70 | 6 | 
 | 2022-12-16 | 70 | 6 | 
 | 2022-12-15 | 70 | 6 | 

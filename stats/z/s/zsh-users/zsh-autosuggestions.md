@@ -1,10 +1,10 @@
 # zsh-users/zsh-autosuggestions - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 1636
 
-★ Stars: 24473
+★ Stars: 24475
 
 [Open repository](https://github.com/zsh-users/zsh-autosuggestions)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 24475 | 1636 | 
 | 2022-12-17 | 24473 | 1636 | 
 | 2022-12-16 | 24465 | 1636 | 
 | 2022-12-15 | 24456 | 1635 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-22 | 24184 | 1607 | 
 | 2022-11-21 | 24167 | 1606 | 
 | 2022-11-19 | 24161 | 1603 | 
-| 2022-11-18 | 24151 | 1601 | 
 

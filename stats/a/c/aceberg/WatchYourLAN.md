@@ -1,10 +1,10 @@
 # aceberg/WatchYourLAN - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 23
 
-★ Stars: 398
+★ Stars: 401
 
 [Open repository](https://github.com/aceberg/WatchYourLAN)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 401 | 23 | 
 | 2022-12-17 | 398 | 23 | 
 | 2022-12-16 | 390 | 23 | 
 | 2022-12-15 | 390 | 23 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 381 | 20 | 
 | 2022-11-20 | 380 | 20 | 
 | 2022-11-19 | 380 | 20 | 
-| 2022-11-18 | 379 | 20 | 
 

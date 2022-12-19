@@ -1,8 +1,8 @@
 # atom/settings-view - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
-☋ Forks: 333
+☋ Forks: 332
 
 ★ Stars: 268
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 268 | 332 | 
 | 2022-12-17 | 268 | 333 | 
 | 2022-12-16 | 268 | 333 | 
 | 2022-12-15 | 268 | 332 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 268 | 328 | 
 | 2022-11-20 | 268 | 324 | 
 | 2022-11-19 | 267 | 323 | 
-| 2022-11-18 | 267 | 323 | 
 

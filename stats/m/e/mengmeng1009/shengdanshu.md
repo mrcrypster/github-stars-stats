@@ -1,8 +1,8 @@
 # mengmeng1009/shengdanshu - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
-☋ Forks: 50
+☋ Forks: 55
 
 ★ Stars: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 6 | 55 | 
 | 2022-12-17 | 6 | 50 | 
 | 2022-12-16 | 6 | 50 | 
 | 2022-12-15 | 6 | 49 | 

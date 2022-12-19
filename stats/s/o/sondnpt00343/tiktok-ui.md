@@ -1,10 +1,10 @@
 # sondnpt00343/tiktok-ui - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 89
 
-★ Stars: 602
+★ Stars: 603
 
 [Open repository](https://github.com/sondnpt00343/tiktok-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 603 | 89 | 
 | 2022-12-17 | 602 | 89 | 
 | 2022-12-16 | 603 | 89 | 
 | 2022-12-15 | 603 | 88 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 588 | 86 | 
 | 2022-11-20 | 588 | 86 | 
 | 2022-11-19 | 587 | 86 | 
-| 2022-11-18 | 586 | 85 | 
 

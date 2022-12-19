@@ -1,10 +1,10 @@
 # thecodeholic/laravel-vue-ecommerce - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
-☋ Forks: 23
+☋ Forks: 25
 
-★ Stars: 112
+★ Stars: 114
 
 [Open repository](https://github.com/thecodeholic/laravel-vue-ecommerce)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 114 | 25 | 
 | 2022-12-17 | 112 | 23 | 
 | 2022-12-16 | 112 | 23 | 
 | 2022-12-15 | 112 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 78 | 13 | 
 | 2022-11-20 | 76 | 12 | 
 | 2022-11-19 | 75 | 11 | 
-| 2022-11-18 | 70 | 10 | 
 

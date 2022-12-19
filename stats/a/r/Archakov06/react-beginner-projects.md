@@ -1,8 +1,8 @@
 # Archakov06/react-beginner-projects - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
-☋ Forks: 126
+☋ Forks: 127
 
 ★ Stars: 57
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 57 | 127 | 
 | 2022-12-17 | 57 | 126 | 
 | 2022-12-16 | 57 | 126 | 
 | 2022-12-15 | 57 | 126 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 55 | 122 | 
 | 2022-11-20 | 55 | 121 | 
 | 2022-11-19 | 55 | 120 | 
-| 2022-11-18 | 54 | 119 | 
 

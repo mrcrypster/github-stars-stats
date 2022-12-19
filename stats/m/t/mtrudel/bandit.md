@@ -1,10 +1,10 @@
 # mtrudel/bandit - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 19
 
-★ Stars: 699
+★ Stars: 701
 
 [Open repository](https://github.com/mtrudel/bandit)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 701 | 19 | 
 | 2022-12-17 | 699 | 19 | 
 | 2022-12-16 | 698 | 19 | 
 | 2022-12-15 | 695 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 615 | 15 | 
 | 2022-11-20 | 613 | 15 | 
 | 2022-11-19 | 610 | 15 | 
-| 2022-11-18 | 609 | 15 | 
 

@@ -1,6 +1,6 @@
 # shaunabanana/intrigue - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 108 | 3 | 
 | 2022-12-17 | 108 | 3 | 
 | 2022-12-16 | 107 | 3 | 
 | 2022-12-15 | 107 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 102 | 3 | 
 | 2022-11-20 | 102 | 3 | 
 | 2022-11-19 | 102 | 3 | 
-| 2022-11-18 | 101 | 3 | 
 

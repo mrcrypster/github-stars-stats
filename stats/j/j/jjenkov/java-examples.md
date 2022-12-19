@@ -1,10 +1,10 @@
 # jjenkov/java-examples - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 16
 
-★ Stars: 78
+★ Stars: 80
 
 [Open repository](https://github.com/jjenkov/java-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 80 | 16 | 
 | 2022-12-17 | 78 | 16 | 
 | 2022-12-16 | 78 | 16 | 
 | 2022-12-15 | 78 | 16 | 

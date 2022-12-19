@@ -1,6 +1,6 @@
 # stellar/stellar-protocol - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 334
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 450 | 334 | 
 | 2022-12-18 | 450 | 334 | 
 | 2022-12-16 | 449 | 334 | 
 | 2022-12-15 | 449 | 334 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-21 | 444 | 330 | 
 | 2022-11-20 | 444 | 330 | 
 | 2022-11-19 | 444 | 330 | 
-| 2022-11-18 | 444 | 330 | 
 

@@ -1,10 +1,10 @@
 # StarCitizenTools/mediawiki-skins-Citizen - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 26
 
-★ Stars: 95
+★ Stars: 96
 
 [Open repository](https://github.com/StarCitizenTools/mediawiki-skins-Citizen)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 96 | 26 | 
 | 2022-12-17 | 95 | 26 | 
 | 2022-12-16 | 95 | 26 | 
 | 2022-12-15 | 95 | 26 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 92 | 26 | 
 | 2022-11-20 | 92 | 26 | 
 | 2022-11-19 | 92 | 26 | 
-| 2022-11-18 | 92 | 26 | 
 

@@ -1,10 +1,10 @@
 # nix-community/comma - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 33
 
-★ Stars: 565
+★ Stars: 566
 
 [Open repository](https://github.com/nix-community/comma)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 566 | 33 | 
 | 2022-12-17 | 565 | 33 | 
 | 2022-12-16 | 564 | 33 | 
 | 2022-12-15 | 564 | 33 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 549 | 33 | 
 | 2022-11-20 | 548 | 34 | 
 | 2022-11-19 | 548 | 34 | 
-| 2022-11-18 | 548 | 34 | 
 

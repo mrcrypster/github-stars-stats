@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 18
 
 ☋ Forks: 15
 
-★ Stars: 160
+★ Stars: 163
 
 [Open repository](https://github.com/binderlabs/DirCreate2System)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-18 | 160 | 15 | 
+| 2022-12-18 | 163 | 15 | 
 | 2022-12-17 | 158 | 15 | 
 

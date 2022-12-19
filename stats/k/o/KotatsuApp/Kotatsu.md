@@ -1,10 +1,10 @@
 # KotatsuApp/Kotatsu - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 47
 
-★ Stars: 642
+★ Stars: 647
 
 [Open repository](https://github.com/KotatsuApp/Kotatsu)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 647 | 47 | 
 | 2022-12-17 | 642 | 47 | 
 | 2022-12-16 | 640 | 47 | 
 | 2022-12-15 | 640 | 46 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 600 | 43 | 
 | 2022-11-20 | 596 | 43 | 
 | 2022-11-19 | 595 | 43 | 
-| 2022-11-18 | 595 | 43 | 
 

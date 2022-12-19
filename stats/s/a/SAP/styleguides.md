@@ -1,8 +1,8 @@
 # SAP/styleguides - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
-☋ Forks: 364
+☋ Forks: 365
 
 ★ Stars: 1193
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 1193 | 365 | 
 | 2022-12-17 | 1193 | 364 | 
 | 2022-12-16 | 1193 | 364 | 
 | 2022-12-15 | 1192 | 364 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 1170 | 359 | 
 | 2022-11-20 | 1170 | 359 | 
 | 2022-11-19 | 1170 | 359 | 
-| 2022-11-18 | 1170 | 359 | 
 

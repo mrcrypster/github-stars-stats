@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 18
 
 ☋ Forks: 885
 
-★ Stars: 2787
+★ Stars: 2788
 
 [Open repository](https://github.com/parse-community/Parse-SDK-iOS-OSX)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-18 | 2787 | 885 | 
+| 2022-12-18 | 2788 | 885 | 
 | 2022-12-17 | 2787 | 885 | 
 | 2022-12-16 | 2787 | 885 | 
 | 2022-12-15 | 2787 | 885 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-21 | 2785 | 883 | 
 | 2022-11-20 | 2785 | 883 | 
 | 2022-11-19 | 2785 | 883 | 
-| 2022-11-18 | 2785 | 883 | 
 

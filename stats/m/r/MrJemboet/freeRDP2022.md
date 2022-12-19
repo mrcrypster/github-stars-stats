@@ -1,8 +1,8 @@
 # MrJemboet/freeRDP2022 - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
-☋ Forks: 601
+☋ Forks: 603
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 2 | 603 | 
 | 2022-12-17 | 2 | 601 | 
 | 2022-12-16 | 2 | 600 | 
 | 2022-12-15 | 2 | 598 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 2 | 564 | 
 | 2022-11-20 | 2 | 563 | 
 | 2022-11-19 | 2 | 559 | 
-| 2022-11-18 | 2 | 559 | 
 

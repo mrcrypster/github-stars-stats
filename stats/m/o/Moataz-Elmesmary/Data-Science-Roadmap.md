@@ -1,10 +1,10 @@
 # Moataz-Elmesmary/Data-Science-Roadmap - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
-☋ Forks: 91
+☋ Forks: 92
 
-★ Stars: 760
+★ Stars: 761
 
 [Open repository](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 761 | 92 | 
 | 2022-12-17 | 760 | 91 | 
 | 2022-12-16 | 757 | 91 | 
 | 2022-12-15 | 754 | 91 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 702 | 82 | 
 | 2022-11-20 | 697 | 82 | 
 | 2022-11-19 | 693 | 82 | 
-| 2022-11-18 | 689 | 80 | 
 

@@ -1,10 +1,10 @@
 # nvim-telescope/telescope-dap.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 13
 
-★ Stars: 178
+★ Stars: 179
 
 [Open repository](https://github.com/nvim-telescope/telescope-dap.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 179 | 13 | 
 | 2022-12-17 | 178 | 13 | 
 | 2022-12-16 | 177 | 13 | 
 | 2022-12-15 | 177 | 13 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 172 | 14 | 
 | 2022-11-20 | 169 | 14 | 
 | 2022-11-19 | 169 | 14 | 
-| 2022-11-18 | 169 | 14 | 
 

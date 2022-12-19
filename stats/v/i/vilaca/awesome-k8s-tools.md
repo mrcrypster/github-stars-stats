@@ -1,8 +1,8 @@
 # vilaca/awesome-k8s-tools - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
-☋ Forks: 14
+☋ Forks: 13
 
 ★ Stars: 212
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 212 | 13 | 
 | 2022-12-17 | 212 | 14 | 
 | 2022-12-16 | 211 | 14 | 
 | 2022-12-15 | 211 | 14 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 209 | 12 | 
 | 2022-11-20 | 209 | 12 | 
 | 2022-11-19 | 209 | 12 | 
-| 2022-11-18 | 209 | 12 | 
 

@@ -1,10 +1,10 @@
 # embeddedartistry/meson-buildsystem - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 4
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/embeddedartistry/meson-buildsystem)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 29 | 4 | 
 | 2022-12-17 | 28 | 4 | 
 | 2022-12-16 | 28 | 4 | 
 | 2022-12-15 | 28 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 27 | 4 | 
 | 2022-11-20 | 27 | 4 | 
 | 2022-11-19 | 27 | 4 | 
-| 2022-11-18 | 27 | 4 | 
 

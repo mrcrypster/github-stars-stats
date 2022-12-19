@@ -1,10 +1,10 @@
 # intellij-rust/intellij-rust - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 355
 
-★ Stars: 4203
+★ Stars: 4207
 
 [Open repository](https://github.com/intellij-rust/intellij-rust)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 4207 | 355 | 
 | 2022-12-17 | 4203 | 355 | 
 | 2022-12-16 | 4205 | 355 | 
 | 2022-12-15 | 4205 | 354 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 4170 | 352 | 
 | 2022-11-20 | 4170 | 351 | 
 | 2022-11-19 | 4170 | 351 | 
-| 2022-11-18 | 4171 | 351 | 
 

@@ -1,10 +1,10 @@
 # Project-OSRM/osrm-backend - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
-☋ Forks: 2846
+☋ Forks: 2847
 
-★ Stars: 5277
+★ Stars: 5278
 
 [Open repository](https://github.com/Project-OSRM/osrm-backend)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 5278 | 2847 | 
 | 2022-12-17 | 5277 | 2846 | 
 | 2022-12-16 | 5278 | 2846 | 
 | 2022-12-15 | 5276 | 2845 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 5250 | 2827 | 
 | 2022-11-20 | 5246 | 2827 | 
 | 2022-11-19 | 5245 | 2827 | 
-| 2022-11-18 | 5244 | 2823 | 
 

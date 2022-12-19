@@ -1,6 +1,6 @@
 # lab-project-02/nomad-graffiti-project - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 1 | 4 | 
 | 2022-12-17 | 1 | 4 | 
 | 2022-12-16 | 1 | 4 | 
 | 2022-12-15 | 1 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | - | 4 | 
 | 2022-11-20 | - | 4 | 
 | 2022-11-19 | - | 4 | 
-| 2022-11-18 | - | 4 | 
 

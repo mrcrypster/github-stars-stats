@@ -1,10 +1,10 @@
 # niuhuan/pikapika - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
-☋ Forks: 225
+☋ Forks: 226
 
-★ Stars: 2956
+★ Stars: 2964
 
 [Open repository](https://github.com/niuhuan/pikapika)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 2964 | 226 | 
 | 2022-12-17 | 2956 | 225 | 
 | 2022-12-16 | 2953 | 225 | 
 | 2022-12-15 | 2949 | 224 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 2848 | 218 | 
 | 2022-11-20 | 2847 | 218 | 
 | 2022-11-19 | 2842 | 215 | 
-| 2022-11-18 | 2837 | 215 | 
 

@@ -1,6 +1,6 @@
 # winterknife/PINKPANTHER - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 450 | 52 | 
 | 2022-12-17 | 450 | 52 | 
 | 2022-12-16 | 450 | 52 | 
 | 2022-12-15 | 450 | 52 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-22 | 448 | 53 | 
 | 2022-11-21 | 448 | 53 | 
 | 2022-11-20 | 448 | 53 | 
-| 2022-11-19 | 448 | 53 | 
 

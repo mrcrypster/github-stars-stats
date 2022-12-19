@@ -1,10 +1,10 @@
 # nix-community/disko - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 18
 
-★ Stars: 173
+★ Stars: 175
 
 [Open repository](https://github.com/nix-community/disko)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 175 | 18 | 
 | 2022-12-17 | 173 | 18 | 
 | 2022-12-16 | 172 | 18 | 
 | 2022-12-15 | 169 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 130 | 10 | 
 | 2022-11-20 | 130 | 10 | 
 | 2022-11-19 | 128 | 10 | 
-| 2022-11-18 | 126 | 10 | 
 

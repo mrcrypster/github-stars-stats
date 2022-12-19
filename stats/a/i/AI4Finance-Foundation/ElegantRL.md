@@ -1,10 +1,10 @@
 # AI4Finance-Foundation/ElegantRL - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 572
 
-★ Stars: 2502
+★ Stars: 2503
 
 [Open repository](https://github.com/AI4Finance-Foundation/ElegantRL)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 2503 | 572 | 
 | 2022-12-17 | 2502 | 572 | 
 | 2022-12-16 | 2501 | 572 | 
 | 2022-12-15 | 2496 | 569 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 2438 | 554 | 
 | 2022-11-20 | 2436 | 553 | 
 | 2022-11-19 | 2435 | 552 | 
-| 2022-11-18 | 2432 | 552 | 
 

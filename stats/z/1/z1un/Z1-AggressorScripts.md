@@ -1,6 +1,6 @@
 # z1un/Z1-AggressorScripts - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 117
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 511 | 117 | 
 | 2022-12-17 | 511 | 117 | 
 | 2022-12-16 | 511 | 117 | 
 | 2022-12-15 | 511 | 117 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-22 | 508 | 117 | 
 | 2022-11-20 | 509 | 117 | 
 | 2022-11-19 | 509 | 117 | 
-| 2022-11-18 | 509 | 117 | 
 

@@ -1,10 +1,10 @@
 # efabless/caravel-gf180mcu - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 4
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/efabless/caravel-gf180mcu)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 6 | 4 | 
 | 2022-12-17 | 5 | 4 | 
 | 2022-12-16 | 5 | 4 | 
 | 2022-12-15 | 5 | 4 | 

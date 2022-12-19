@@ -1,6 +1,6 @@
 # mingmingge891/FXMinerProxy - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 124 | 22 | 
 | 2022-12-18 | 124 | 22 | 
 | 2022-12-17 | 124 | 22 | 
 | 2022-12-16 | 124 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-21 | 124 | 22 | 
 | 2022-11-20 | 124 | 22 | 
 | 2022-11-19 | 124 | 22 | 
-| 2022-11-18 | 124 | 22 | 
 

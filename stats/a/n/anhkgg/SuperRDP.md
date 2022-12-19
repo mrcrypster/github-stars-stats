@@ -1,6 +1,6 @@
 # anhkgg/SuperRDP - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 312
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 1426 | 312 | 
 | 2022-12-17 | 1426 | 312 | 
 | 2022-12-16 | 1425 | 312 | 
 | 2022-12-15 | 1424 | 312 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 1375 | 300 | 
 | 2022-11-20 | 1374 | 300 | 
 | 2022-11-19 | 1373 | 300 | 
-| 2022-11-18 | 1372 | 299 | 
 

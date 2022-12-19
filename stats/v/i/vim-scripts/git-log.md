@@ -1,6 +1,6 @@
 # vim-scripts/git-log - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 5 | - | 
 | 2022-12-17 | 5 | - | 
 | 2022-12-16 | 5 | - | 
 | 2022-12-15 | 5 | - | 

@@ -1,6 +1,6 @@
 # rodneylab/sveltekit-blog-mdx - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 185 | 27 | 
 | 2022-12-18 | 185 | 27 | 
 | 2022-12-16 | 184 | 27 | 
 | 2022-12-15 | 182 | 27 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-21 | 173 | 28 | 
 | 2022-11-20 | 173 | 28 | 
 | 2022-11-19 | 173 | 28 | 
-| 2022-11-18 | 173 | 27 | 
 

@@ -1,6 +1,6 @@
 # krzysztofzablocki/Sourcery - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 548
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 6922 | 548 | 
 | 2022-12-17 | 6922 | 548 | 
 | 2022-12-16 | 6920 | 548 | 
 | 2022-12-15 | 6919 | 548 | 

@@ -1,10 +1,10 @@
 # boto/boto3 - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
-☋ Forks: 1689
+☋ Forks: 1690
 
-★ Stars: 7766
+★ Stars: 7769
 
 [Open repository](https://github.com/boto/boto3)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 7769 | 1690 | 
 | 2022-12-17 | 7766 | 1689 | 
 | 2022-12-16 | 7764 | 1689 | 
 | 2022-12-15 | 7763 | 1689 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 7711 | 1684 | 
 | 2022-11-20 | 7708 | 1682 | 
 | 2022-11-19 | 7707 | 1682 | 
-| 2022-11-18 | 7703 | 1681 | 
 

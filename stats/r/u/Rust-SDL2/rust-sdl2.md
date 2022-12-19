@@ -1,6 +1,6 @@
 # Rust-SDL2/rust-sdl2 - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 398
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 2197 | 398 | 
 | 2022-12-17 | 2197 | 398 | 
 | 2022-12-16 | 2196 | 397 | 
 | 2022-12-15 | 2197 | 398 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 2170 | 401 | 
 | 2022-11-20 | 2170 | 401 | 
 | 2022-11-19 | 2169 | 401 | 
-| 2022-11-18 | 2169 | 401 | 
 

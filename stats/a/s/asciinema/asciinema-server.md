@@ -1,10 +1,10 @@
 # asciinema/asciinema-server - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 243
 
-★ Stars: 2008
+★ Stars: 2009
 
 [Open repository](https://github.com/asciinema/asciinema-server)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 2009 | 243 | 
 | 2022-12-17 | 2008 | 243 | 
 | 2022-12-16 | 2006 | 243 | 
 | 2022-12-15 | 2006 | 243 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 1995 | 240 | 
 | 2022-11-20 | 1995 | 240 | 
 | 2022-11-19 | 1995 | 240 | 
-| 2022-11-18 | 1995 | 240 | 
 

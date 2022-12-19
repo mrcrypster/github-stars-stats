@@ -1,10 +1,10 @@
 # DimensionDev/Maskbook - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 289
 
-★ Stars: 1285
+★ Stars: 1286
 
 [Open repository](https://github.com/DimensionDev/Maskbook)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 1286 | 289 | 
 | 2022-12-17 | 1285 | 289 | 
 | 2022-12-16 | 1283 | 289 | 
 | 2022-12-15 | 1283 | 289 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-22 | 1272 | 286 | 
 | 2022-11-21 | 1271 | 286 | 
 | 2022-11-20 | 1271 | 286 | 
-| 2022-11-19 | 1272 | 286 | 
 

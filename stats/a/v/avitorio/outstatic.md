@@ -1,6 +1,6 @@
 # avitorio/outstatic - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 1406 | 50 | 
 | 2022-12-17 | 1406 | 50 | 
 | 2022-12-16 | 1407 | 50 | 
 | 2022-12-15 | 1406 | 50 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-22 | 1354 | 46 | 
 | 2022-11-21 | 1352 | 45 | 
 | 2022-11-20 | 1351 | 45 | 
-| 2022-11-19 | 1345 | 45 | 
 

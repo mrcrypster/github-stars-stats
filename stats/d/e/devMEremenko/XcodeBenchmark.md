@@ -1,10 +1,10 @@
 # devMEremenko/XcodeBenchmark - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
-☋ Forks: 262
+☋ Forks: 261
 
-★ Stars: 2198
+★ Stars: 2199
 
 [Open repository](https://github.com/devMEremenko/XcodeBenchmark)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 2199 | 261 | 
 | 2022-12-18 | 2198 | 262 | 
 | 2022-12-17 | 2198 | 262 | 
 | 2022-12-16 | 2198 | 262 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-21 | 2175 | 262 | 
 | 2022-11-20 | 2172 | 262 | 
 | 2022-11-19 | 2172 | 262 | 
-| 2022-11-18 | 2172 | 262 | 
 

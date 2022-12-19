@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 18
 
 ☋ Forks: 135
 
-★ Stars: 1916
+★ Stars: 1917
 
 [Open repository](https://github.com/lightdash/lightdash)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-18 | 1916 | 135 | 
+| 2022-12-18 | 1917 | 135 | 
 | 2022-12-17 | 1912 | 135 | 
 | 2022-12-16 | 1890 | 133 | 
 | 2022-12-15 | 1888 | 132 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-21 | 1803 | 122 | 
 | 2022-11-20 | 1802 | 122 | 
 | 2022-11-19 | 1801 | 122 | 
-| 2022-11-18 | 1796 | 122 | 
 

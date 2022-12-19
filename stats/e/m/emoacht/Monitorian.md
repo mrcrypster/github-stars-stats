@@ -1,10 +1,10 @@
 # emoacht/Monitorian - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 115
 
-★ Stars: 1957
+★ Stars: 1960
 
 [Open repository](https://github.com/emoacht/Monitorian)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 1960 | 115 | 
 | 2022-12-17 | 1957 | 115 | 
 | 2022-12-16 | 1954 | 115 | 
 | 2022-12-15 | 1950 | 115 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 1879 | 112 | 
 | 2022-11-20 | 1878 | 112 | 
 | 2022-11-19 | 1876 | 112 | 
-| 2022-11-18 | 1876 | 112 | 
 

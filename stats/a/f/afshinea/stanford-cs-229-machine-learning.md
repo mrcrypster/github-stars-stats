@@ -1,10 +1,10 @@
 # afshinea/stanford-cs-229-machine-learning - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
-☋ Forks: 3468
+☋ Forks: 3471
 
-★ Stars: 14313
+★ Stars: 14320
 
 [Open repository](https://github.com/afshinea/stanford-cs-229-machine-learning)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 14320 | 3471 | 
 | 2022-12-17 | 14313 | 3468 | 
 | 2022-12-16 | 14308 | 3466 | 
 | 2022-12-15 | 14306 | 3467 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 14195 | 3457 | 
 | 2022-11-20 | 14195 | 3456 | 
 | 2022-11-19 | 14192 | 3455 | 
-| 2022-11-18 | 14190 | 3455 | 
 

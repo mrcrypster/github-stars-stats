@@ -1,6 +1,6 @@
 # ben-manes/caffeine - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 1388
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 12895 | 1388 | 
 | 2022-12-17 | 12895 | 1388 | 
 | 2022-12-16 | 12889 | 1388 | 
 | 2022-12-15 | 12884 | 1387 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 12752 | 1377 | 
 | 2022-11-20 | 12747 | 1376 | 
 | 2022-11-19 | 12741 | 1376 | 
-| 2022-11-18 | 12738 | 1376 | 
 

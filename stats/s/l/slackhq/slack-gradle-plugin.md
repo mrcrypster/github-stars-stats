@@ -1,6 +1,6 @@
 # slackhq/slack-gradle-plugin - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 303 | 9 | 
 | 2022-12-17 | 303 | 9 | 
 | 2022-12-16 | 303 | 9 | 
 | 2022-12-15 | 303 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-22 | 298 | 9 | 
 | 2022-11-21 | 298 | 9 | 
 | 2022-11-20 | 298 | 9 | 
-| 2022-11-19 | 298 | 9 | 
 

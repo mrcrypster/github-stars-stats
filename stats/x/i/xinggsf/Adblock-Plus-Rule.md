@@ -1,10 +1,10 @@
 # xinggsf/Adblock-Plus-Rule - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 233
 
-★ Stars: 982
+★ Stars: 983
 
 [Open repository](https://github.com/xinggsf/Adblock-Plus-Rule)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 983 | 233 | 
 | 2022-12-17 | 982 | 233 | 
 | 2022-12-16 | 982 | 232 | 
 | 2022-12-15 | 982 | 232 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 945 | 224 | 
 | 2022-11-20 | 942 | 224 | 
 | 2022-11-19 | 940 | 223 | 
-| 2022-11-18 | 939 | 223 | 
 

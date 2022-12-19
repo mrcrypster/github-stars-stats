@@ -1,6 +1,6 @@
 # qazbnm456/awesome-web-security - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 1546
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 9235 | 1546 | 
 | 2022-12-17 | 9235 | 1546 | 
 | 2022-12-16 | 9232 | 1546 | 
 | 2022-12-15 | 9226 | 1541 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 9021 | 1518 | 
 | 2022-11-20 | 9017 | 1517 | 
 | 2022-11-19 | 9016 | 1517 | 
-| 2022-11-18 | 9014 | 1517 | 
 

@@ -1,10 +1,10 @@
 # vercel/next.js - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
-☋ Forks: 21670
+☋ Forks: 21673
 
-★ Stars: 97840
+★ Stars: 97848
 
 [Open repository](https://github.com/vercel/next.js)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 97848 | 21673 | 
 | 2022-12-17 | 97840 | 21670 | 
 | 2022-12-16 | 97807 | 21657 | 
 | 2022-12-15 | 97758 | 21645 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 96682 | 21268 | 
 | 2022-11-20 | 96641 | 21249 | 
 | 2022-11-19 | 96610 | 21233 | 
-| 2022-11-18 | 96574 | 21222 | 
 

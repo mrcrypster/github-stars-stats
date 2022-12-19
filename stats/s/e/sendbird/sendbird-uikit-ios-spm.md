@@ -1,0 +1,17 @@
+# sendbird/sendbird-uikit-ios-spm - stars & forks statistics
+
+Stats updated on Dec 2022, 18
+
+☋ Forks: 1
+
+★ Stars: 3
+
+[Open repository](https://github.com/sendbird/sendbird-uikit-ios-spm)
+
+[Open detailed stats for sendbird/sendbird-uikit-ios-spm](https://reviewgithub.com/rep/sendbird/sendbird-uikit-ios-spm)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-12-18 | 3 | 1 | 
+

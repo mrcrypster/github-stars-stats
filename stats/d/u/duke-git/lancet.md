@@ -1,10 +1,10 @@
 # duke-git/lancet - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 220
 
-★ Stars: 1904
+★ Stars: 1905
 
 [Open repository](https://github.com/duke-git/lancet)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 1905 | 220 | 
 | 2022-12-17 | 1904 | 220 | 
 | 2022-12-16 | 1903 | 221 | 
 | 2022-12-15 | 1901 | 220 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 1837 | 212 | 
 | 2022-11-20 | 1834 | 212 | 
 | 2022-11-19 | 1833 | 212 | 
-| 2022-11-18 | 1831 | 212 | 
 

@@ -1,10 +1,10 @@
 # rubrikinc/wachy - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 12
 
-★ Stars: 467
+★ Stars: 468
 
 [Open repository](https://github.com/rubrikinc/wachy)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 468 | 12 | 
 | 2022-12-17 | 467 | 12 | 
 | 2022-12-16 | 467 | 12 | 
 | 2022-12-15 | 467 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 464 | 12 | 
 | 2022-11-20 | 464 | 12 | 
 | 2022-11-19 | 464 | 12 | 
-| 2022-11-18 | 464 | 12 | 
 

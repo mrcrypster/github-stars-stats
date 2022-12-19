@@ -1,8 +1,8 @@
 # Automattic/_s - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
-☋ Forks: 3138
+☋ Forks: 3139
 
 ★ Stars: 10649
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 10649 | 3139 | 
 | 2022-12-17 | 10649 | 3138 | 
 | 2022-12-16 | 10649 | 3138 | 
 | 2022-12-15 | 10648 | 3140 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 10627 | 3142 | 
 | 2022-11-20 | 10626 | 3143 | 
 | 2022-11-19 | 10626 | 3144 | 
-| 2022-11-18 | 10624 | 3146 | 
 

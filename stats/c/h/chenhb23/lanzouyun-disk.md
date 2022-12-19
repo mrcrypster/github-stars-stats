@@ -1,10 +1,10 @@
 # chenhb23/lanzouyun-disk - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 123
 
-★ Stars: 897
+★ Stars: 900
 
 [Open repository](https://github.com/chenhb23/lanzouyun-disk)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 900 | 123 | 
 | 2022-12-17 | 897 | 123 | 
 | 2022-12-16 | 896 | 123 | 
 | 2022-12-15 | 896 | 122 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 851 | 116 | 
 | 2022-11-20 | 848 | 115 | 
 | 2022-11-19 | 845 | 114 | 
-| 2022-11-18 | 840 | 113 | 
 

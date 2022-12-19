@@ -1,6 +1,6 @@
 # TelescopeSt/TelescopeCytoscape - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 8 | 1 | 
 | 2022-12-17 | 8 | 1 | 
 | 2022-12-16 | 8 | 1 | 
 | 2022-12-15 | 8 | 1 | 

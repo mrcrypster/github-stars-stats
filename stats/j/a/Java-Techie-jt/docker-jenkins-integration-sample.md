@@ -1,6 +1,6 @@
 # Java-Techie-jt/docker-jenkins-integration-sample - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 310
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 17 | 310 | 
 | 2022-12-17 | 17 | 310 | 
 | 2022-12-16 | 17 | 310 | 
 | 2022-12-15 | 17 | 309 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 17 | 292 | 
 | 2022-11-20 | 17 | 292 | 
 | 2022-11-19 | 17 | 293 | 
-| 2022-11-18 | 17 | 293 | 
 

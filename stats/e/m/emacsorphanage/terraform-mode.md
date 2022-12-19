@@ -1,10 +1,10 @@
 # emacsorphanage/terraform-mode - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 30
 
-★ Stars: 184
+★ Stars: 185
 
 [Open repository](https://github.com/emacsorphanage/terraform-mode)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 185 | 30 | 
 | 2022-12-17 | 184 | 30 | 
 | 2022-12-16 | 184 | 30 | 
 | 2022-12-15 | 183 | 29 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 181 | 29 | 
 | 2022-11-20 | 180 | 29 | 
 | 2022-11-19 | 180 | 28 | 
-| 2022-11-18 | 179 | 28 | 
 

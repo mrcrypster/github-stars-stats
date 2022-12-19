@@ -1,10 +1,10 @@
 # onlyGuo/nginx-gui - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
-☋ Forks: 442
+☋ Forks: 443
 
-★ Stars: 1532
+★ Stars: 1533
 
 [Open repository](https://github.com/onlyGuo/nginx-gui)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 1533 | 443 | 
 | 2022-12-17 | 1532 | 442 | 
 | 2022-12-16 | 1530 | 442 | 
 | 2022-12-15 | 1511 | 440 | 

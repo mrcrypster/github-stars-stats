@@ -1,10 +1,10 @@
 # ruesandora/dusk-network - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
-☋ Forks: 128
+☋ Forks: 129
 
-★ Stars: 72
+★ Stars: 73
 
 [Open repository](https://github.com/ruesandora/dusk-network)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 73 | 129 | 
 | 2022-12-17 | 72 | 128 | 
 | 2022-12-16 | 71 | 128 | 
 | 2022-12-15 | 71 | 128 | 

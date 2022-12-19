@@ -1,10 +1,10 @@
 # alibaba/spring-cloud-alibaba - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
-☋ Forks: 7490
+☋ Forks: 7491
 
-★ Stars: 24351
+★ Stars: 24359
 
 [Open repository](https://github.com/alibaba/spring-cloud-alibaba)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 24359 | 7491 | 
 | 2022-12-17 | 24351 | 7490 | 
 | 2022-12-16 | 24348 | 7489 | 
 | 2022-12-15 | 24340 | 7486 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 24143 | 7438 | 
 | 2022-11-20 | 24140 | 7436 | 
 | 2022-11-19 | 24138 | 7435 | 
-| 2022-11-18 | 24133 | 7437 | 
 

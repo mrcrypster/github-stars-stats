@@ -1,6 +1,6 @@
 # OpenSID/OpenSID - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 894
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 838 | 894 | 
 | 2022-12-17 | 838 | 894 | 
 | 2022-12-16 | 838 | 894 | 
 | 2022-12-15 | 838 | 894 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 827 | 895 | 
 | 2022-11-20 | 827 | 896 | 
 | 2022-11-19 | 827 | 896 | 
-| 2022-11-18 | 827 | 896 | 
 

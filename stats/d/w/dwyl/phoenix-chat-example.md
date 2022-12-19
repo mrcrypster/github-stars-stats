@@ -1,6 +1,6 @@
 # dwyl/phoenix-chat-example - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 79
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 624 | 79 | 
 | 2022-12-17 | 624 | 79 | 
 | 2022-12-16 | 624 | 79 | 
 | 2022-12-15 | 624 | 79 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 620 | 80 | 
 | 2022-11-20 | 618 | 80 | 
 | 2022-11-19 | 617 | 80 | 
-| 2022-11-18 | 616 | 79 | 
 

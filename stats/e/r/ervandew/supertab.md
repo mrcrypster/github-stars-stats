@@ -1,10 +1,10 @@
 # ervandew/supertab - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 215
 
-★ Stars: 3106
+★ Stars: 3107
 
 [Open repository](https://github.com/ervandew/supertab)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 3107 | 215 | 
 | 2022-12-17 | 3106 | 215 | 
 | 2022-12-16 | 3106 | 215 | 
 | 2022-12-15 | 3104 | 215 | 

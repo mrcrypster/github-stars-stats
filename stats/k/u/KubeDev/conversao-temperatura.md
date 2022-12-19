@@ -1,8 +1,8 @@
 # KubeDev/conversao-temperatura - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
-☋ Forks: 1912
+☋ Forks: 1911
 
 ★ Stars: 123
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 123 | 1911 | 
 | 2022-12-17 | 123 | 1912 | 
 | 2022-12-16 | 123 | 1913 | 
 | 2022-12-15 | 123 | 1913 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 124 | 1916 | 
 | 2022-11-20 | 124 | 1916 | 
 | 2022-11-19 | 124 | 1916 | 
-| 2022-11-18 | 124 | 1916 | 
 

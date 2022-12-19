@@ -1,6 +1,6 @@
 # redis/redis-doc - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
 ☋ Forks: 1518
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 2166 | 1518 | 
 | 2022-12-17 | 2166 | 1518 | 
 | 2022-12-16 | 2166 | 1518 | 
 | 2022-12-15 | 2166 | 1517 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 2163 | 1509 | 
 | 2022-11-20 | 2163 | 1507 | 
 | 2022-11-19 | 2163 | 1506 | 
-| 2022-11-18 | 2162 | 1506 | 
 

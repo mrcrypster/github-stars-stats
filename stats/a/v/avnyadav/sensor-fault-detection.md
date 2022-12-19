@@ -1,10 +1,10 @@
 # avnyadav/sensor-fault-detection - stars & forks statistics
 
-Stats updated on Dec 2022, 17
+Stats updated on Dec 2022, 18
 
-☋ Forks: 216
+☋ Forks: 217
 
-★ Stars: 21
+★ Stars: 23
 
 [Open repository](https://github.com/avnyadav/sensor-fault-detection)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-18 | 23 | 217 | 
 | 2022-12-17 | 21 | 216 | 
 | 2022-12-16 | 21 | 217 | 
 | 2022-12-15 | 21 | 217 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 17
 | 2022-11-21 | 16 | 212 | 
 | 2022-11-20 | 16 | 213 | 
 | 2022-11-19 | 16 | 213 | 
-| 2022-11-18 | 16 | 212 | 
 
