@@ -1,10 +1,10 @@
 # KadeDev/trickster - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 135
 
-★ Stars: 59
+★ Stars: 60
 
 [Open repository](https://github.com/KadeDev/trickster)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 60 | 135 | 
 | 2022-12-18 | 59 | 135 | 
 | 2022-12-17 | 59 | 135 | 
 | 2022-12-16 | 59 | 135 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 58 | 134 | 
 | 2022-11-21 | 58 | 135 | 
 | 2022-11-20 | 58 | 135 | 
-| 2022-11-19 | 58 | 135 | 
 

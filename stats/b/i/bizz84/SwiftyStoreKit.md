@@ -1,6 +1,6 @@
 # bizz84/SwiftyStoreKit - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 732
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 6141 | 732 | 
 | 2022-12-18 | 6141 | 732 | 
 | 2022-12-17 | 6142 | 733 | 
 | 2022-12-16 | 6143 | 733 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 6128 | 732 | 
 | 2022-11-21 | 6126 | 732 | 
 | 2022-11-20 | 6121 | 732 | 
-| 2022-11-19 | 6120 | 732 | 
 

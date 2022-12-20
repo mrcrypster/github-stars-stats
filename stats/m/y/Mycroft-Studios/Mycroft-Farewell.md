@@ -1,6 +1,6 @@
 # Mycroft-Studios/Mycroft-Farewell - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 70 | 18 | 
 | 2022-12-18 | 70 | 18 | 
 | 2022-12-17 | 70 | 19 | 
 | 2022-12-16 | 70 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 69 | 17 | 
 | 2022-11-21 | 68 | 17 | 
 | 2022-11-20 | 68 | 16 | 
-| 2022-11-19 | 65 | 16 | 
 

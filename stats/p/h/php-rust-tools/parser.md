@@ -1,10 +1,10 @@
 # php-rust-tools/parser - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 9
 
-★ Stars: 182
+★ Stars: 186
 
 [Open repository](https://github.com/php-rust-tools/parser)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 186 | 9 | 
 | 2022-12-18 | 182 | 9 | 
 | 2022-12-17 | 180 | 9 | 
 | 2022-12-16 | 179 | 9 | 

@@ -1,6 +1,6 @@
 # SibgatullinAP/OMSS - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 2 | 12 | 
 | 2022-12-18 | 2 | 12 | 
 | 2022-12-17 | 2 | 12 | 
 | 2022-12-16 | 2 | 12 | 

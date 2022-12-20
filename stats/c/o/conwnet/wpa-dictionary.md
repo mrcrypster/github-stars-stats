@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 19
 
-☋ Forks: 511
+☋ Forks: 512
 
-★ Stars: 1690
+★ Stars: 1694
 
 [Open repository](https://github.com/conwnet/wpa-dictionary)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-19 | 1690 | 511 | 
+| 2022-12-19 | 1694 | 512 | 
 | 2022-12-18 | 1690 | 511 | 
 | 2022-12-17 | 1680 | 509 | 
 | 2022-12-16 | 1674 | 506 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-22 | 1629 | 490 | 
 | 2022-11-21 | 1630 | 490 | 
 | 2022-11-20 | 1627 | 489 | 
-| 2022-11-19 | 1626 | 488 | 
 

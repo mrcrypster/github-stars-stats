@@ -1,6 +1,6 @@
 # maomao1996/Vue-mmPlayer - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 621
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 1934 | 621 | 
 | 2022-12-18 | 1934 | 621 | 
 | 2022-12-17 | 1934 | 621 | 
 | 2022-12-16 | 1933 | 619 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 1908 | 611 | 
 | 2022-11-21 | 1903 | 610 | 
 | 2022-11-20 | 1901 | 609 | 
-| 2022-11-19 | 1900 | 608 | 
 

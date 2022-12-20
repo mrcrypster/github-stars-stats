@@ -1,6 +1,6 @@
 # Tunnelblick/Tunnelblick - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 320
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 2490 | 320 | 
 | 2022-12-18 | 2490 | 320 | 
 | 2022-12-17 | 2490 | 320 | 
 | 2022-12-16 | 2489 | 320 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 2468 | 318 | 
 | 2022-11-21 | 2468 | 318 | 
 | 2022-11-20 | 2467 | 318 | 
-| 2022-11-19 | 2467 | 318 | 
 

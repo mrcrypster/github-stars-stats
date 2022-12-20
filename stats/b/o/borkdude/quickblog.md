@@ -1,10 +1,10 @@
 # borkdude/quickblog - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 6
 
-★ Stars: 83
+★ Stars: 84
 
 [Open repository](https://github.com/borkdude/quickblog)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 84 | 6 | 
 | 2022-12-18 | 83 | 6 | 
 | 2022-12-17 | 83 | 6 | 
 | 2022-12-16 | 82 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 73 | 5 | 
 | 2022-11-21 | 73 | 5 | 
 | 2022-11-20 | 73 | 5 | 
-| 2022-11-19 | 73 | 5 | 
 

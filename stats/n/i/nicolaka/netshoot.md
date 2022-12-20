@@ -1,10 +1,10 @@
 # nicolaka/netshoot - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
-☋ Forks: 734
+☋ Forks: 735
 
-★ Stars: 5495
+★ Stars: 5497
 
 [Open repository](https://github.com/nicolaka/netshoot)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 5497 | 735 | 
 | 2022-12-18 | 5495 | 734 | 
 | 2022-12-17 | 5491 | 734 | 
 | 2022-12-16 | 5487 | 732 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 5396 | 725 | 
 | 2022-11-21 | 5392 | 723 | 
 | 2022-11-20 | 5390 | 722 | 
-| 2022-11-19 | 5385 | 722 | 
 

@@ -1,6 +1,6 @@
 # balena-os/balena-compulab - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 1
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 3 | 1 | 
+| 2022-12-19 | 3 | 1 | 
 | 2022-12-18 | 3 | 1 | 
 | 2022-12-17 | 3 | 1 | 
 | 2022-12-16 | 2 | 1 | 
@@ -39,5 +41,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 1 | 1 | 
 | 2022-11-21 | 1 | 1 | 
 | 2022-11-20 | 1 | 1 | 
-| 2022-11-19 | 1 | 1 | 
 

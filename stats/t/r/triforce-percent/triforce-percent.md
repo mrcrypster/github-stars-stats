@@ -1,6 +1,6 @@
 # triforce-percent/triforce-percent - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 143 | 9 | 
 | 2022-12-18 | 143 | 9 | 
 | 2022-12-17 | 143 | 9 | 
 | 2022-12-16 | 143 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-23 | 141 | 9 | 
 | 2022-11-22 | 140 | 9 | 
 | 2022-11-20 | 140 | 9 | 
-| 2022-11-19 | 140 | 9 | 
 

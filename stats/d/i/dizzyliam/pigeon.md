@@ -1,6 +1,6 @@
 # dizzyliam/pigeon - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 38 | 1 | 
 | 2022-12-18 | 38 | 1 | 
 | 2022-12-17 | 38 | 1 | 
 | 2022-12-16 | 38 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-23 | 33 | 1 | 
 | 2022-11-22 | 32 | 1 | 
 | 2022-11-21 | 31 | 1 | 
-| 2022-11-20 | 28 | - | 
 

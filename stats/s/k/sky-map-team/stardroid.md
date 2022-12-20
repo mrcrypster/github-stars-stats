@@ -1,8 +1,8 @@
 # sky-map-team/stardroid - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
-☋ Forks: 216
+☋ Forks: 215
 
 ★ Stars: 700
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 700 | 215 | 
 | 2022-12-18 | 700 | 216 | 
 | 2022-12-17 | 699 | 216 | 
 | 2022-12-16 | 699 | 216 | 

@@ -1,10 +1,10 @@
 # fiatjaf/lnurl-rfc - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 87
 
-★ Stars: 380
+★ Stars: 381
 
 [Open repository](https://github.com/fiatjaf/lnurl-rfc)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 381 | 87 | 
 | 2022-12-18 | 380 | 87 | 
 | 2022-12-17 | 380 | 87 | 
 | 2022-12-16 | 380 | 87 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 371 | 85 | 
 | 2022-11-21 | 371 | 85 | 
 | 2022-11-20 | 370 | 85 | 
-| 2022-11-19 | 369 | 83 | 
 

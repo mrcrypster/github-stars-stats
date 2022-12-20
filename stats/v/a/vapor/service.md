@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 19
 
 ☋ Forks: 10
 
-★ Stars: 82
+★ Stars: 83
 
 [Open repository](https://github.com/vapor/service)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-19 | 82 | 10 | 
+| 2022-12-19 | 83 | 10 | 
 | 2022-12-18 | 82 | 10 | 
 | 2022-12-17 | 82 | 10 | 
 | 2022-12-16 | 82 | 10 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-22 | 82 | 10 | 
 | 2022-11-21 | 82 | 10 | 
 | 2022-11-20 | 82 | 10 | 
-| 2022-11-19 | 82 | 10 | 
 

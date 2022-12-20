@@ -1,10 +1,10 @@
 # joao-pinheiro/atx_psu - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 3
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/joao-pinheiro/atx_psu)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 28 | 3 | 
 | 2022-12-18 | 27 | 3 | 
 | 2022-12-17 | 27 | 3 | 
 | 2022-12-16 | 26 | 3 | 

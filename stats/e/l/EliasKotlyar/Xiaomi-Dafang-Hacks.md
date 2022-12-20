@@ -1,10 +1,10 @@
 # EliasKotlyar/Xiaomi-Dafang-Hacks - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 979
 
-★ Stars: 3808
+★ Stars: 3809
 
 [Open repository](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 3809 | 979 | 
 | 2022-12-18 | 3808 | 979 | 
 | 2022-12-17 | 3808 | 979 | 
 | 2022-12-16 | 3806 | 980 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 3791 | 969 | 
 | 2022-11-21 | 3789 | 968 | 
 | 2022-11-20 | 3781 | 968 | 
-| 2022-11-19 | 3781 | 968 | 
 

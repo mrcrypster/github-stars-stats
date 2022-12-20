@@ -1,6 +1,6 @@
 # colearendt/tidyjson - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 156 | 15 | 
 | 2022-12-18 | 156 | 15 | 
 | 2022-12-17 | 156 | 15 | 
 | 2022-12-16 | 156 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 155 | 15 | 
 | 2022-11-21 | 155 | 15 | 
 | 2022-11-20 | 153 | 15 | 
-| 2022-11-19 | 153 | 15 | 
 

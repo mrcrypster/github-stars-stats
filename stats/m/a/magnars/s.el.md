@@ -1,10 +1,10 @@
 # magnars/s.el - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 20
 
-☋ Forks: 96
+☋ Forks: 97
 
-★ Stars: 928
+★ Stars: 930
 
 [Open repository](https://github.com/magnars/s.el)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 930 | 97 | 
+| 2022-12-19 | 929 | 97 | 
 | 2022-12-18 | 928 | 96 | 
 | 2022-12-17 | 929 | 96 | 
 | 2022-12-16 | 929 | 96 | 
@@ -39,5 +41,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 921 | 96 | 
 | 2022-11-21 | 921 | 96 | 
 | 2022-11-20 | 921 | 96 | 
-| 2022-11-19 | 920 | 96 | 
 

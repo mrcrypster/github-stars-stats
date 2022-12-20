@@ -1,6 +1,6 @@
 # nix-community/nur-packages-template - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 90
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 64 | 90 | 
 | 2022-12-18 | 64 | 90 | 
 | 2022-12-17 | 64 | 90 | 
 | 2022-12-16 | 64 | 90 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 62 | 90 | 
 | 2022-11-21 | 62 | 90 | 
 | 2022-11-20 | 62 | 89 | 
-| 2022-11-19 | 62 | 89 | 
 

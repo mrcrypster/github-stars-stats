@@ -1,10 +1,10 @@
 # tmenier/Flurl - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 341
 
-★ Stars: 3398
+★ Stars: 3399
 
 [Open repository](https://github.com/tmenier/Flurl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 3399 | 341 | 
 | 2022-12-18 | 3398 | 341 | 
 | 2022-12-17 | 3398 | 341 | 
 | 2022-12-16 | 3394 | 341 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 3360 | 338 | 
 | 2022-11-21 | 3359 | 338 | 
 | 2022-11-20 | 3358 | 338 | 
-| 2022-11-19 | 3357 | 336 | 
 

@@ -1,10 +1,10 @@
 # alan-ai/alan-sdk-ios - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 6
 
-★ Stars: 1375
+★ Stars: 1378
 
 [Open repository](https://github.com/alan-ai/alan-sdk-ios)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 1378 | 6 | 
 | 2022-12-18 | 1375 | 6 | 
 | 2022-12-17 | 1374 | 6 | 
 | 2022-12-16 | 1373 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 1322 | 6 | 
 | 2022-11-21 | 1318 | 6 | 
 | 2022-11-20 | 1318 | 6 | 
-| 2022-11-19 | 1317 | 6 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 19
 
-☋ Forks: 22
+☋ Forks: 24
 
-★ Stars: 53
+★ Stars: 55
 
 [Open repository](https://github.com/kx-Huang/ChatGPT-on-WeChat)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-19 | 53 | 22 | 
+| 2022-12-19 | 55 | 24 | 
 | 2022-12-18 | 53 | 22 | 
 

@@ -1,6 +1,6 @@
 # material-components/material-web - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 552
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 4558 | 552 | 
 | 2022-12-18 | 4558 | 552 | 
 | 2022-12-17 | 4552 | 552 | 
 | 2022-12-16 | 4551 | 552 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 4340 | 532 | 
 | 2022-11-21 | 4335 | 532 | 
 | 2022-11-20 | 4329 | 531 | 
-| 2022-11-19 | 4324 | 529 | 
 

@@ -1,10 +1,10 @@
 # iakmds/librecamera - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 14
 
-★ Stars: 99
+★ Stars: 100
 
 [Open repository](https://github.com/iakmds/librecamera)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 100 | 14 | 
 | 2022-12-18 | 99 | 14 | 
 | 2022-12-17 | 100 | 14 | 
 | 2022-12-16 | 100 | 14 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 92 | 16 | 
 | 2022-11-21 | 91 | 16 | 
 | 2022-11-20 | 91 | 16 | 
-| 2022-11-19 | 90 | 16 | 
 

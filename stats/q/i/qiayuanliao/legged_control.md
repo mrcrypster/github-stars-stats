@@ -1,10 +1,10 @@
 # qiayuanliao/legged_control - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 46
 
-★ Stars: 211
+★ Stars: 213
 
 [Open repository](https://github.com/qiayuanliao/legged_control)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 213 | 46 | 
 | 2022-12-18 | 211 | 46 | 
 | 2022-12-17 | 211 | 46 | 
 | 2022-12-16 | 211 | 46 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 184 | 41 | 
 | 2022-11-21 | 184 | 41 | 
 | 2022-11-20 | 183 | 41 | 
-| 2022-11-19 | 183 | 41 | 
 

@@ -1,6 +1,6 @@
 # ucns3d-team/UCNS3D - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 140 | 61 | 
 | 2022-12-18 | 140 | 61 | 
 | 2022-12-17 | 140 | 61 | 
 | 2022-12-16 | 140 | 61 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-23 | 136 | 61 | 
 | 2022-11-22 | 136 | 61 | 
 | 2022-11-21 | 136 | 61 | 
-| 2022-11-20 | 136 | 61 | 
 

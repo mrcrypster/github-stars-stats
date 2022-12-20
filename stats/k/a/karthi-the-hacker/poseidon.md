@@ -1,8 +1,8 @@
 # karthi-the-hacker/poseidon - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 8 | 2 | 
 | 2022-12-18 | 8 | 1 | 
 | 2022-12-17 | 8 | 1 | 
 | 2022-12-16 | 8 | 1 | 

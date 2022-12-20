@@ -1,10 +1,10 @@
 # ii14/neopm - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 0
 
-★ Stars: 51
+★ Stars: 52
 
 [Open repository](https://github.com/ii14/neopm)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 52 | - | 
 | 2022-12-18 | 51 | - | 
 | 2022-12-17 | 50 | - | 
 | 2022-12-16 | 50 | - | 

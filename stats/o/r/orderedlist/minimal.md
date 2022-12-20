@@ -1,6 +1,6 @@
 # orderedlist/minimal - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 700
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 2063 | 700 | 
 | 2022-12-18 | 2063 | 700 | 
 | 2022-12-17 | 2063 | 700 | 
 | 2022-12-16 | 2062 | 700 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-23 | 2057 | 697 | 
 | 2022-11-22 | 2056 | 698 | 
 | 2022-11-21 | 2054 | 698 | 
-| 2022-11-20 | 2054 | 697 | 
 

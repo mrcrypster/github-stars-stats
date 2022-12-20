@@ -1,6 +1,6 @@
 # ericlewis/openFPGA-Genesis - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 96 | 4 | 
 | 2022-12-18 | 96 | 4 | 
 | 2022-12-17 | 96 | 4 | 
 | 2022-12-16 | 96 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 89 | 4 | 
 | 2022-11-21 | 89 | 4 | 
 | 2022-11-20 | 89 | 4 | 
-| 2022-11-19 | 89 | 4 | 
 

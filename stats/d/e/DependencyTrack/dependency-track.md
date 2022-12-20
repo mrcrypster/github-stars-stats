@@ -1,10 +1,10 @@
 # DependencyTrack/dependency-track - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 377
 
-★ Stars: 1493
+★ Stars: 1496
 
 [Open repository](https://github.com/DependencyTrack/dependency-track)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 1496 | 377 | 
 | 2022-12-18 | 1493 | 377 | 
 | 2022-12-17 | 1493 | 377 | 
 | 2022-12-16 | 1492 | 376 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 1451 | 370 | 
 | 2022-11-21 | 1450 | 370 | 
 | 2022-11-20 | 1448 | 369 | 
-| 2022-11-19 | 1447 | 367 | 
 

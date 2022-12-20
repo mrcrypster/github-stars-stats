@@ -1,6 +1,6 @@
 # shishan100/Java-Interview-Advanced - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 1648
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 3790 | 1648 | 
 | 2022-12-18 | 3790 | 1648 | 
 | 2022-12-17 | 3790 | 1648 | 
 | 2022-12-16 | 3790 | 1648 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 3781 | 1642 | 
 | 2022-11-21 | 3779 | 1641 | 
 | 2022-11-20 | 3779 | 1641 | 
-| 2022-11-19 | 3779 | 1641 | 
 

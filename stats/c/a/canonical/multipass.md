@@ -1,10 +1,10 @@
 # canonical/multipass - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
-☋ Forks: 485
+☋ Forks: 486
 
-★ Stars: 5667
+★ Stars: 5669
 
 [Open repository](https://github.com/canonical/multipass)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 5669 | 486 | 
 | 2022-12-18 | 5667 | 485 | 
 | 2022-12-17 | 5662 | 484 | 
 | 2022-12-16 | 5659 | 484 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 5581 | 484 | 
 | 2022-11-21 | 5576 | 483 | 
 | 2022-11-20 | 5574 | 483 | 
-| 2022-11-19 | 5570 | 482 | 
 

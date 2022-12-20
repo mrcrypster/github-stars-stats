@@ -1,10 +1,10 @@
 # tpope/vim-rhubarb - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 39
 
-★ Stars: 760
+★ Stars: 762
 
 [Open repository](https://github.com/tpope/vim-rhubarb)
 
@@ -13,7 +13,8 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-19 | 760 | 39 | 
+| 2022-12-20 | 762 | 39 | 
+| 2022-12-19 | 762 | 39 | 
 | 2022-12-18 | 760 | 39 | 
 | 2022-12-17 | 759 | 39 | 
 | 2022-12-16 | 759 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-22 | 755 | 39 | 
 | 2022-11-21 | 755 | 39 | 
 | 2022-11-20 | 755 | 39 | 
-| 2022-11-19 | 754 | 39 | 
 

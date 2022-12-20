@@ -1,6 +1,6 @@
 # APCSLowell/Thingies - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 394
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | - | 394 | 
 | 2022-12-19 | - | 394 | 
 | 2022-12-18 | - | 394 | 
 | 2022-12-17 | - | 394 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-22 | - | 392 | 
 | 2022-11-21 | - | 392 | 
 | 2022-11-20 | - | 392 | 
-| 2022-11-19 | - | 392 | 
 

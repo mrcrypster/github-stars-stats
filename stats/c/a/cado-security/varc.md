@@ -1,6 +1,6 @@
 # cado-security/varc - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 161 | 9 | 
 | 2022-12-18 | 161 | 9 | 
 | 2022-12-17 | 161 | 9 | 
 | 2022-12-16 | 161 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 152 | 9 | 
 | 2022-11-21 | 152 | 9 | 
 | 2022-11-20 | 152 | 9 | 
-| 2022-11-19 | 152 | 9 | 
 

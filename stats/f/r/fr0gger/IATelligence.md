@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 19
 
 ☋ Forks: 22
 
-★ Stars: 225
+★ Stars: 231
 
 [Open repository](https://github.com/fr0gger/IATelligence)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-19 | 225 | 22 | 
+| 2022-12-19 | 231 | 22 | 
 | 2022-12-18 | 224 | 21 | 
 | 2022-12-17 | 188 | 14 | 
 | 2022-12-16 | 179 | 12 | 

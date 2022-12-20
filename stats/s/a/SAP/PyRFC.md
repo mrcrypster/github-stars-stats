@@ -1,6 +1,6 @@
 # SAP/PyRFC - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 129
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 406 | 129 | 
 | 2022-12-18 | 406 | 129 | 
 | 2022-12-17 | 406 | 129 | 
 | 2022-12-16 | 406 | 129 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 401 | 128 | 
 | 2022-11-21 | 401 | 128 | 
 | 2022-11-20 | 401 | 128 | 
-| 2022-11-19 | 401 | 128 | 
 

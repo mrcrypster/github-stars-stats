@@ -1,8 +1,8 @@
 # webgjc/sql-parser - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
-☋ Forks: 38
+☋ Forks: 39
 
 ★ Stars: 58
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 58 | 39 | 
 | 2022-12-18 | 58 | 38 | 
 | 2022-12-17 | 58 | 38 | 
 | 2022-12-16 | 58 | 38 | 

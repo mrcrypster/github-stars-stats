@@ -1,10 +1,10 @@
 # inconvergent/weird - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 49
 
-★ Stars: 1482
+★ Stars: 1483
 
 [Open repository](https://github.com/inconvergent/weird)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 1483 | 49 | 
 | 2022-12-18 | 1482 | 49 | 
 | 2022-12-17 | 1482 | 49 | 
 | 2022-12-16 | 1482 | 49 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 1481 | 48 | 
 | 2022-11-21 | 1481 | 48 | 
 | 2022-11-20 | 1480 | 48 | 
-| 2022-11-19 | 1480 | 48 | 
 

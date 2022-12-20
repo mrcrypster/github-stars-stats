@@ -1,10 +1,10 @@
 # DataSystemsLab/GeoTorch - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 15
 
-★ Stars: 272
+★ Stars: 271
 
 [Open repository](https://github.com/DataSystemsLab/GeoTorch)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 271 | 15 | 
 | 2022-12-18 | 272 | 15 | 
 | 2022-12-17 | 272 | 15 | 
 | 2022-12-16 | 272 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 253 | 12 | 
 | 2022-11-21 | 252 | 12 | 
 | 2022-11-20 | 248 | 12 | 
-| 2022-11-19 | 246 | 12 | 
 

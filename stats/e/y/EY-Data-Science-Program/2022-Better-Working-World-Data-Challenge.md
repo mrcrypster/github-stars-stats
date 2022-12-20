@@ -1,6 +1,6 @@
 # EY-Data-Science-Program/2022-Better-Working-World-Data-Challenge - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 57 | 56 | 
 | 2022-12-18 | 57 | 56 | 
 | 2022-12-17 | 57 | 56 | 
 | 2022-12-16 | 57 | 56 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 57 | 57 | 
 | 2022-11-21 | 57 | 57 | 
 | 2022-11-20 | 57 | 57 | 
-| 2022-11-19 | 57 | 57 | 
 

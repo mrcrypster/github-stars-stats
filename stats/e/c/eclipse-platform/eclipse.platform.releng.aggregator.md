@@ -1,10 +1,10 @@
 # eclipse-platform/eclipse.platform.releng.aggregator - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 27
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/eclipse-platform/eclipse.platform.releng.aggregator)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 12 | 27 | 
 | 2022-12-18 | 11 | 27 | 
 | 2022-12-17 | 11 | 27 | 
 | 2022-12-16 | 11 | 27 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 10 | 27 | 
 | 2022-11-21 | 10 | 27 | 
 | 2022-11-20 | 10 | 27 | 
-| 2022-11-19 | 10 | 27 | 
 

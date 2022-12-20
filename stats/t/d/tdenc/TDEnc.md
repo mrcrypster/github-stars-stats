@@ -1,6 +1,6 @@
 # tdenc/TDEnc - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 24 | 3 | 
 | 2022-12-18 | 24 | 3 | 
 | 2022-12-17 | 24 | 3 | 
 | 2022-12-16 | 24 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 23 | 3 | 
 | 2022-11-21 | 23 | 3 | 
 | 2022-11-20 | 23 | 3 | 
-| 2022-11-19 | 23 | 3 | 
 

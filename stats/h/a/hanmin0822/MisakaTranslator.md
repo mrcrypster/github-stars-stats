@@ -1,6 +1,6 @@
 # hanmin0822/MisakaTranslator - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 358
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 3295 | 358 | 
 | 2022-12-18 | 3295 | 358 | 
 | 2022-12-17 | 3291 | 358 | 
 | 2022-12-16 | 3289 | 358 | 

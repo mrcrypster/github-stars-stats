@@ -1,6 +1,6 @@
 # hashicorp/terraform-aws-consul - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 469
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 403 | 469 | 
 | 2022-12-18 | 403 | 469 | 
 | 2022-12-17 | 403 | 469 | 
 | 2022-12-16 | 403 | 470 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 404 | 466 | 
 | 2022-11-21 | 404 | 466 | 
 | 2022-11-20 | 404 | 466 | 
-| 2022-11-19 | 404 | 465 | 
 

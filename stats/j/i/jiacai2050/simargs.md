@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 19
 
 ☋ Forks: 2
 
-★ Stars: 27
+★ Stars: 29
 
 [Open repository](https://github.com/jiacai2050/simargs)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-19 | 27 | 2 | 
+| 2022-12-19 | 29 | 2 | 
 | 2022-12-18 | 27 | 2 | 
 | 2022-12-17 | 27 | 2 | 
 | 2022-12-16 | 25 | 2 | 

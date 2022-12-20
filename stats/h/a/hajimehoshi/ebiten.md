@@ -1,10 +1,10 @@
 # hajimehoshi/ebiten - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
-☋ Forks: 508
+☋ Forks: 509
 
-★ Stars: 7570
+★ Stars: 7576
 
 [Open repository](https://github.com/hajimehoshi/ebiten)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 7576 | 509 | 
 | 2022-12-18 | 7570 | 508 | 
 | 2022-12-17 | 7561 | 508 | 
 | 2022-12-16 | 7555 | 507 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 7379 | 491 | 
 | 2022-11-21 | 7373 | 491 | 
 | 2022-11-20 | 7369 | 491 | 
-| 2022-11-19 | 7366 | 491 | 
 

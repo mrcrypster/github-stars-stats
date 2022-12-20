@@ -1,10 +1,10 @@
 # aws-samples/hardeneks - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
-☋ Forks: 25
+☋ Forks: 26
 
-★ Stars: 193
+★ Stars: 201
 
 [Open repository](https://github.com/aws-samples/hardeneks)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 201 | 26 | 
 | 2022-12-18 | 193 | 25 | 
 | 2022-12-17 | 185 | 25 | 
 | 2022-12-16 | 172 | 22 | 

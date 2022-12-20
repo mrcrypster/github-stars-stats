@@ -1,10 +1,10 @@
 # openzfs/zfs - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 1548
 
-★ Stars: 8543
+★ Stars: 8544
 
 [Open repository](https://github.com/openzfs/zfs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 8544 | 1548 | 
 | 2022-12-18 | 8543 | 1548 | 
 | 2022-12-17 | 8541 | 1547 | 
 | 2022-12-16 | 8542 | 1547 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 8321 | 1534 | 
 | 2022-11-21 | 8317 | 1534 | 
 | 2022-11-20 | 8317 | 1533 | 
-| 2022-11-19 | 8312 | 1533 | 
 

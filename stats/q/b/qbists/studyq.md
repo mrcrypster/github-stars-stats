@@ -1,6 +1,6 @@
 # qbists/studyq - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 76 | 12 | 
 | 2022-12-18 | 76 | 12 | 
 | 2022-12-17 | 76 | 12 | 
 | 2022-12-16 | 75 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-23 | 17 | 7 | 
 | 2022-11-22 | 17 | 7 | 
 | 2022-11-21 | 17 | 7 | 
-| 2022-11-20 | 17 | 7 | 
 

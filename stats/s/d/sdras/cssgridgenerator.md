@@ -1,10 +1,10 @@
 # sdras/cssgridgenerator - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 470
 
-★ Stars: 4476
+★ Stars: 4478
 
 [Open repository](https://github.com/sdras/cssgridgenerator)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 4478 | 470 | 
 | 2022-12-18 | 4476 | 470 | 
 | 2022-12-17 | 4472 | 470 | 
 | 2022-12-16 | 4471 | 470 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 4440 | 461 | 
 | 2022-11-21 | 4437 | 461 | 
 | 2022-11-20 | 4434 | 460 | 
-| 2022-11-19 | 4434 | 460 | 
 

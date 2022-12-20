@@ -1,10 +1,10 @@
 # elixir-nx/axon - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 20
 
-☋ Forks: 67
+☋ Forks: 68
 
-★ Stars: 1142
+★ Stars: 1143
 
 [Open repository](https://github.com/elixir-nx/axon)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 1143 | 68 | 
+| 2022-12-19 | 1142 | 68 | 
 | 2022-12-18 | 1142 | 67 | 
 | 2022-12-17 | 1137 | 67 | 
 | 2022-12-16 | 1136 | 67 | 
@@ -41,5 +43,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 1079 | 64 | 
 | 2022-11-21 | 1078 | 64 | 
 | 2022-11-20 | 1078 | 64 | 
-| 2022-11-19 | 1077 | 64 | 
 

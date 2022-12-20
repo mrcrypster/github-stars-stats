@@ -1,10 +1,10 @@
 # feiskyer/kubernetes-handbook - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 1337
 
-★ Stars: 4875
+★ Stars: 4878
 
 [Open repository](https://github.com/feiskyer/kubernetes-handbook)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 4878 | 1337 | 
 | 2022-12-18 | 4875 | 1337 | 
 | 2022-12-17 | 4873 | 1337 | 
 | 2022-12-16 | 4873 | 1337 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 4848 | 1332 | 
 | 2022-11-21 | 4848 | 1331 | 
 | 2022-11-20 | 4849 | 1331 | 
-| 2022-11-19 | 4849 | 1331 | 
 

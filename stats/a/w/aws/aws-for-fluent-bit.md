@@ -1,10 +1,10 @@
 # aws/aws-for-fluent-bit - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 100
 
-★ Stars: 324
+★ Stars: 325
 
 [Open repository](https://github.com/aws/aws-for-fluent-bit)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 325 | 100 | 
 | 2022-12-18 | 324 | 100 | 
 | 2022-12-17 | 324 | 100 | 
 | 2022-12-16 | 324 | 100 | 

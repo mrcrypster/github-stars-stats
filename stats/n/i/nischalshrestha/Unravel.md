@@ -1,10 +1,10 @@
 # nischalshrestha/Unravel - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 3
 
-★ Stars: 84
+★ Stars: 85
 
 [Open repository](https://github.com/nischalshrestha/Unravel)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 85 | 3 | 
 | 2022-12-18 | 84 | 3 | 
 | 2022-12-17 | 84 | 3 | 
 | 2022-12-16 | 84 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 82 | 3 | 
 | 2022-11-21 | 81 | 3 | 
 | 2022-11-20 | 81 | 3 | 
-| 2022-11-19 | 81 | 3 | 
 

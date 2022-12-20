@@ -1,6 +1,6 @@
 # schochastics/rtoot - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 85 | 11 | 
 | 2022-12-18 | 85 | 11 | 
 | 2022-12-17 | 84 | 11 | 
 | 2022-12-16 | 82 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 79 | 8 | 
 | 2022-11-21 | 79 | 8 | 
 | 2022-11-20 | 79 | 7 | 
-| 2022-11-19 | 79 | 7 | 
 

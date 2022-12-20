@@ -1,10 +1,10 @@
 # composer/satis - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
-☋ Forks: 495
+☋ Forks: 496
 
-★ Stars: 2896
+★ Stars: 2898
 
 [Open repository](https://github.com/composer/satis)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 2898 | 496 | 
 | 2022-12-18 | 2896 | 495 | 
 | 2022-12-17 | 2896 | 495 | 
 | 2022-12-16 | 2895 | 495 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 2888 | 493 | 
 | 2022-11-21 | 2887 | 492 | 
 | 2022-11-20 | 2887 | 492 | 
-| 2022-11-19 | 2886 | 492 | 
 

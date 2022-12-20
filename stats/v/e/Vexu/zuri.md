@@ -1,8 +1,8 @@
 # Vexu/zuri - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
-☋ Forks: 5
+☋ Forks: 6
 
 ★ Stars: 43
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 43 | 6 | 
 | 2022-12-18 | 43 | 5 | 
 | 2022-12-17 | 43 | 5 | 
 | 2022-12-16 | 43 | 5 | 

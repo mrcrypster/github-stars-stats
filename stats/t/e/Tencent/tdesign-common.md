@@ -1,8 +1,8 @@
 # Tencent/tdesign-common - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
-☋ Forks: 194
+☋ Forks: 193
 
 ★ Stars: 100
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 100 | 193 | 
 | 2022-12-18 | 100 | 194 | 
 | 2022-12-17 | 100 | 194 | 
 | 2022-12-16 | 100 | 194 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 98 | 192 | 
 | 2022-11-21 | 98 | 192 | 
 | 2022-11-20 | 98 | 192 | 
-| 2022-11-19 | 98 | 192 | 
 

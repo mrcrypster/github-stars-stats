@@ -1,6 +1,6 @@
 # open-simh/simh - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 192 | 35 | 
 | 2022-12-18 | 192 | 35 | 
 | 2022-12-17 | 192 | 35 | 
 | 2022-12-16 | 191 | 35 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 178 | 32 | 
 | 2022-11-21 | 178 | 32 | 
 | 2022-11-20 | 178 | 32 | 
-| 2022-11-19 | 177 | 31 | 
 

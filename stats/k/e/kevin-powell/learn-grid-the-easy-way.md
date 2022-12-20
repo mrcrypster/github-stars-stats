@@ -1,8 +1,8 @@
 # kevin-powell/learn-grid-the-easy-way - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
-☋ Forks: 341
+☋ Forks: 342
 
 ★ Stars: 193
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 193 | 342 | 
 | 2022-12-18 | 193 | 341 | 
 | 2022-12-17 | 194 | 340 | 
 | 2022-12-16 | 193 | 338 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-23 | 184 | 320 | 
 | 2022-11-22 | 184 | 320 | 
 | 2022-11-21 | 184 | 320 | 
-| 2022-11-20 | 184 | 320 | 
 

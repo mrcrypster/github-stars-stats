@@ -1,10 +1,10 @@
 # nushio3/learn-haskell - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 6
 
-★ Stars: 160
+★ Stars: 161
 
 [Open repository](https://github.com/nushio3/learn-haskell)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 161 | 6 | 
 | 2022-12-18 | 160 | 6 | 
 | 2022-12-17 | 160 | 6 | 
 | 2022-12-16 | 160 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 157 | 6 | 
 | 2022-11-21 | 157 | 6 | 
 | 2022-11-20 | 157 | 6 | 
-| 2022-11-19 | 157 | 6 | 
 

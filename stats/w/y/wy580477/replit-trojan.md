@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 19
 
-☋ Forks: 32
+☋ Forks: 55
 
-★ Stars: 33
+★ Stars: 58
 
 [Open repository](https://github.com/wy580477/replit-trojan)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-19 | 33 | 32 | 
+| 2022-12-19 | 58 | 55 | 
 | 2022-12-18 | 31 | 32 | 
 

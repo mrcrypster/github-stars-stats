@@ -1,6 +1,6 @@
 # balena-os/balena-beaglebone - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 20 | 13 | 
 | 2022-12-18 | 20 | 13 | 
 | 2022-12-17 | 20 | 13 | 
 | 2022-12-16 | 20 | 13 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-23 | 19 | 12 | 
 | 2022-11-22 | 18 | 12 | 
 | 2022-11-21 | 18 | 12 | 
-| 2022-11-20 | 18 | 12 | 
 

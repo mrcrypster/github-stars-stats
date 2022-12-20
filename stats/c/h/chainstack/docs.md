@@ -1,6 +1,6 @@
 # chainstack/docs - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 352
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 39 | 352 | 
 | 2022-12-18 | 39 | 352 | 
 | 2022-12-17 | 39 | 350 | 
 | 2022-12-16 | 39 | 349 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 39 | 329 | 
 | 2022-11-21 | 39 | 329 | 
 | 2022-11-20 | 38 | 326 | 
-| 2022-11-19 | 38 | 326 | 
 

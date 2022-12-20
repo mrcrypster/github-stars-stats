@@ -1,8 +1,8 @@
 # JetBrains/phpstorm-stubs - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
-☋ Forks: 750
+☋ Forks: 749
 
 ★ Stars: 1210
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 1210 | 749 | 
 | 2022-12-18 | 1210 | 750 | 
 | 2022-12-17 | 1209 | 750 | 
 | 2022-12-16 | 1209 | 750 | 

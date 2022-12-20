@@ -1,6 +1,6 @@
 # munificent/craftinginterpreters - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 764
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 5984 | 764 | 
 | 2022-12-18 | 5984 | 764 | 
 | 2022-12-17 | 5979 | 764 | 
 | 2022-12-16 | 5976 | 764 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 5867 | 758 | 
 | 2022-11-21 | 5858 | 757 | 
 | 2022-11-20 | 5852 | 756 | 
-| 2022-11-19 | 5852 | 757 | 
 

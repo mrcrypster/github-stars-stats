@@ -1,10 +1,10 @@
 # WangXuan95/BSV_Tutorial_cn - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 13
 
-★ Stars: 255
+★ Stars: 256
 
 [Open repository](https://github.com/WangXuan95/BSV_Tutorial_cn)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 256 | 13 | 
 | 2022-12-18 | 255 | 13 | 
 | 2022-12-17 | 255 | 13 | 
 | 2022-12-16 | 255 | 13 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 251 | 13 | 
 | 2022-11-21 | 251 | 13 | 
 | 2022-11-20 | 251 | 13 | 
-| 2022-11-19 | 250 | 13 | 
 

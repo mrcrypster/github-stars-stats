@@ -1,6 +1,6 @@
 # benbrignell/principles.design - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 180
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 1184 | 180 | 
 | 2022-12-18 | 1184 | 180 | 
 | 2022-12-17 | 1184 | 180 | 
 | 2022-12-16 | 1184 | 180 | 

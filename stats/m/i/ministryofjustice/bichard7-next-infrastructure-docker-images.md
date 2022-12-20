@@ -1,10 +1,10 @@
 # ministryofjustice/bichard7-next-infrastructure-docker-images - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 0
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/ministryofjustice/bichard7-next-infrastructure-docker-images)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 4 | - | 
 | 2022-12-18 | 3 | - | 
 | 2022-12-17 | 3 | - | 
 | 2022-12-16 | 3 | - | 

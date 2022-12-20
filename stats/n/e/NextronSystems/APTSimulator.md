@@ -1,6 +1,6 @@
 # NextronSystems/APTSimulator - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 393
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 2051 | 393 | 
 | 2022-12-18 | 2051 | 393 | 
 | 2022-12-17 | 2050 | 393 | 
 | 2022-12-16 | 2048 | 392 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 2030 | 391 | 
 | 2022-11-21 | 2028 | 391 | 
 | 2022-11-20 | 2028 | 391 | 
-| 2022-11-19 | 2028 | 391 | 
 

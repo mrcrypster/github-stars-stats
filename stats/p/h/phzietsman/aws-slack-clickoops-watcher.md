@@ -1,6 +1,6 @@
 # phzietsman/aws-slack-clickoops-watcher - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 87 | 6 | 
 | 2022-12-19 | 87 | 6 | 
 | 2022-12-17 | 87 | 6 | 
 | 2022-12-16 | 87 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-22 | 87 | 6 | 
 | 2022-11-21 | 87 | 6 | 
 | 2022-11-20 | 87 | 6 | 
-| 2022-11-19 | 87 | 6 | 
 

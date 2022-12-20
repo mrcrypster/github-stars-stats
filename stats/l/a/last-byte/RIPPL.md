@@ -1,10 +1,10 @@
 # last-byte/RIPPL - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 35
 
-★ Stars: 221
+★ Stars: 222
 
 [Open repository](https://github.com/last-byte/RIPPL)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 222 | 35 | 
 | 2022-12-18 | 221 | 35 | 
 | 2022-12-17 | 220 | 35 | 
 | 2022-12-16 | 220 | 35 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 220 | 35 | 
 | 2022-11-21 | 220 | 35 | 
 | 2022-11-20 | 220 | 35 | 
-| 2022-11-19 | 220 | 35 | 
 

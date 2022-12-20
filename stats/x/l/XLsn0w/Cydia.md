@@ -1,6 +1,6 @@
 # XLsn0w/Cydia - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 228
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 762 | 228 | 
 | 2022-12-18 | 762 | 228 | 
 | 2022-12-17 | 762 | 228 | 
 | 2022-12-16 | 763 | 228 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-23 | 748 | 224 | 
 | 2022-11-22 | 748 | 224 | 
 | 2022-11-21 | 747 | 224 | 
-| 2022-11-20 | 746 | 223 | 
 

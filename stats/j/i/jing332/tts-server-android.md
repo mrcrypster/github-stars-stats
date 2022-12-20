@@ -1,10 +1,10 @@
 # jing332/tts-server-android - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 23
 
-★ Stars: 223
+★ Stars: 226
 
 [Open repository](https://github.com/jing332/tts-server-android)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 226 | 23 | 
 | 2022-12-18 | 223 | 23 | 
 | 2022-12-17 | 220 | 23 | 
 | 2022-12-16 | 216 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 144 | 16 | 
 | 2022-11-21 | 141 | 16 | 
 | 2022-11-20 | 139 | 16 | 
-| 2022-11-19 | 138 | 14 | 
 

@@ -1,10 +1,10 @@
 # LaravelDaily/Laravel-Roadmap-Learning-Path - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
-☋ Forks: 912
+☋ Forks: 914
 
-★ Stars: 4271
+★ Stars: 4272
 
 [Open repository](https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 4272 | 914 | 
 | 2022-12-18 | 4271 | 912 | 
 | 2022-12-17 | 4269 | 912 | 
 | 2022-12-16 | 4267 | 911 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-23 | 4206 | 900 | 
 | 2022-11-22 | 4200 | 899 | 
 | 2022-11-21 | 4199 | 899 | 
-| 2022-11-19 | 4195 | 899 | 
 

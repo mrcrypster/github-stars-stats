@@ -1,6 +1,6 @@
 # jschaf/esup - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 368 | 20 | 
 | 2022-12-18 | 368 | 20 | 
 | 2022-12-17 | 368 | 20 | 
 | 2022-12-16 | 368 | 20 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 363 | 20 | 
 | 2022-11-21 | 362 | 20 | 
 | 2022-11-20 | 362 | 20 | 
-| 2022-11-19 | 362 | 20 | 
 

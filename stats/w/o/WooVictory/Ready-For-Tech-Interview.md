@@ -1,10 +1,10 @@
 # WooVictory/Ready-For-Tech-Interview - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 449
 
-★ Stars: 3222
+★ Stars: 3224
 
 [Open repository](https://github.com/WooVictory/Ready-For-Tech-Interview)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 3224 | 449 | 
 | 2022-12-18 | 3222 | 449 | 
 | 2022-12-17 | 3222 | 449 | 
 | 2022-12-16 | 3220 | 448 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-23 | 3165 | 444 | 
 | 2022-11-22 | 3161 | 443 | 
 | 2022-11-21 | 3160 | 444 | 
-| 2022-11-20 | 3159 | 443 | 
 

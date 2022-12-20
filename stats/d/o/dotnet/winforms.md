@@ -1,6 +1,6 @@
 # dotnet/winforms - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 820
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 3708 | 820 | 
 | 2022-12-18 | 3708 | 820 | 
 | 2022-12-17 | 3708 | 821 | 
 | 2022-12-16 | 3708 | 821 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 3680 | 815 | 
 | 2022-11-21 | 3681 | 815 | 
 | 2022-11-20 | 3678 | 815 | 
-| 2022-11-19 | 3677 | 815 | 
 

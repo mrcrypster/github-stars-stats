@@ -1,10 +1,10 @@
 # stefan-hoeck/idris2-pack - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 11
 
-★ Stars: 41
+★ Stars: 42
 
 [Open repository](https://github.com/stefan-hoeck/idris2-pack)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 42 | 11 | 
 | 2022-12-18 | 41 | 11 | 
 | 2022-12-17 | 41 | 11 | 
 | 2022-12-16 | 41 | 11 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 40 | 11 | 
 | 2022-11-21 | 40 | 11 | 
 | 2022-11-20 | 39 | 11 | 
-| 2022-11-19 | 39 | 11 | 
 

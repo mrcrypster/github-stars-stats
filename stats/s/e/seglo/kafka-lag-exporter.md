@@ -1,6 +1,6 @@
 # seglo/kafka-lag-exporter - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 163
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 538 | 163 | 
 | 2022-12-18 | 538 | 163 | 
 | 2022-12-17 | 538 | 163 | 
 | 2022-12-16 | 538 | 163 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 533 | 160 | 
 | 2022-11-21 | 533 | 160 | 
 | 2022-11-20 | 532 | 160 | 
-| 2022-11-19 | 532 | 160 | 
 

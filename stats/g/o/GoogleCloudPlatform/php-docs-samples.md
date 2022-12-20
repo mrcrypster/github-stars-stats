@@ -1,10 +1,10 @@
 # GoogleCloudPlatform/php-docs-samples - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 1008
 
-★ Stars: 871
+★ Stars: 872
 
 [Open repository](https://github.com/GoogleCloudPlatform/php-docs-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 872 | 1008 | 
 | 2022-12-18 | 871 | 1008 | 
 | 2022-12-17 | 871 | 1008 | 
 | 2022-12-16 | 870 | 1008 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 865 | 1004 | 
 | 2022-11-21 | 863 | 1004 | 
 | 2022-11-20 | 863 | 1004 | 
-| 2022-11-19 | 863 | 1004 | 
 

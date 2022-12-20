@@ -1,10 +1,10 @@
 # princeton-vl/lietorch - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 36
 
-★ Stars: 475
+★ Stars: 476
 
 [Open repository](https://github.com/princeton-vl/lietorch)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 476 | 36 | 
 | 2022-12-18 | 475 | 36 | 
 | 2022-12-17 | 475 | 36 | 
 | 2022-12-16 | 475 | 36 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 465 | 33 | 
 | 2022-11-21 | 465 | 33 | 
 | 2022-11-20 | 465 | 33 | 
-| 2022-11-19 | 465 | 33 | 
 

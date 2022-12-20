@@ -1,10 +1,10 @@
 # dohliam/dropin-minimal-css - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
-☋ Forks: 42
+☋ Forks: 43
 
-★ Stars: 1409
+★ Stars: 1410
 
 [Open repository](https://github.com/dohliam/dropin-minimal-css)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 1410 | 43 | 
 | 2022-12-18 | 1409 | 42 | 
 | 2022-12-17 | 1409 | 42 | 
 | 2022-12-16 | 1408 | 42 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 1399 | 41 | 
 | 2022-11-21 | 1399 | 41 | 
 | 2022-11-20 | 1399 | 41 | 
-| 2022-11-19 | 1398 | 41 | 
 

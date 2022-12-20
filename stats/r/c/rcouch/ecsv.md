@@ -1,6 +1,6 @@
 # rcouch/ecsv - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 34
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 27 | 34 | 
+| 2022-12-19 | 27 | 34 | 
 | 2022-12-18 | 27 | 34 | 
 | 2022-12-17 | 27 | 34 | 
 | 2022-12-16 | 27 | 34 | 
@@ -40,5 +42,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 26 | 34 | 
 | 2022-11-21 | 26 | 34 | 
 | 2022-11-20 | 26 | 33 | 
-| 2022-11-19 | 26 | 33 | 
 

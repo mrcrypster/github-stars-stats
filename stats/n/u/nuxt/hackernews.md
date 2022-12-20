@@ -1,8 +1,8 @@
 # nuxt/hackernews - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
-☋ Forks: 231
+☋ Forks: 230
 
 ★ Stars: 992
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 992 | 230 | 
 | 2022-12-18 | 992 | 231 | 
 | 2022-12-17 | 992 | 231 | 
 | 2022-12-16 | 992 | 231 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 990 | 227 | 
 | 2022-11-21 | 990 | 227 | 
 | 2022-11-20 | 990 | 227 | 
-| 2022-11-19 | 988 | 227 | 
 

@@ -1,6 +1,6 @@
 # hackerhouse-opensource/iscsicpl_bypassUAC - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 128
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 590 | 128 | 
 | 2022-12-18 | 590 | 128 | 
 | 2022-12-17 | 590 | 128 | 
 | 2022-12-16 | 590 | 128 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-23 | 567 | 125 | 
 | 2022-11-22 | 567 | 125 | 
 | 2022-11-21 | 567 | 125 | 
-| 2022-11-20 | 567 | 125 | 
 

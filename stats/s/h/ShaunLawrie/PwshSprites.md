@@ -1,6 +1,6 @@
 # ShaunLawrie/PwshSprites - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 176 | 4 | 
 | 2022-12-18 | 176 | 4 | 
 | 2022-12-17 | 176 | 4 | 
 | 2022-12-16 | 176 | 4 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 171 | 4 | 
 | 2022-11-21 | 171 | 4 | 
 | 2022-11-20 | 171 | 4 | 
-| 2022-11-19 | 171 | 4 | 
 

@@ -1,6 +1,6 @@
 # hansonkd/puff - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 288 | 8 | 
 | 2022-12-18 | 288 | 8 | 
 | 2022-12-17 | 288 | 8 | 
 | 2022-12-16 | 287 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-23 | 279 | 8 | 
 | 2022-11-22 | 279 | 8 | 
 | 2022-11-21 | 278 | 8 | 
-| 2022-11-20 | 277 | 8 | 
 

@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-dynamodb - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 97
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 65 | 97 | 
 | 2022-12-18 | 65 | 97 | 
 | 2022-12-17 | 65 | 97 | 
 | 2022-12-16 | 65 | 97 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 65 | 98 | 
 | 2022-11-21 | 65 | 98 | 
 | 2022-11-20 | 65 | 98 | 
-| 2022-11-19 | 65 | 98 | 
 

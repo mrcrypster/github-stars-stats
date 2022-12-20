@@ -1,6 +1,6 @@
 # BinBashBanana/webretro - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 128
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 99 | 128 | 
 | 2022-12-18 | 99 | 128 | 
 | 2022-12-17 | 99 | 128 | 
 | 2022-12-16 | 98 | 128 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 94 | 115 | 
 | 2022-11-21 | 94 | 114 | 
 | 2022-11-20 | 94 | 115 | 
-| 2022-11-19 | 94 | 115 | 
 

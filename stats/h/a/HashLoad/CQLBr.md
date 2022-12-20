@@ -1,10 +1,10 @@
 # HashLoad/CQLBr - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
-☋ Forks: 5
+☋ Forks: 6
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/HashLoad/CQLBr)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 4 | 6 | 
 | 2022-12-18 | 3 | 5 | 
 | 2022-12-17 | 3 | 5 | 
 | 2022-12-16 | 3 | 5 | 

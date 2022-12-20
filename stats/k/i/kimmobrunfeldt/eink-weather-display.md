@@ -1,10 +1,10 @@
 # kimmobrunfeldt/eink-weather-display - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 11
 
-★ Stars: 226
+★ Stars: 228
 
 [Open repository](https://github.com/kimmobrunfeldt/eink-weather-display)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 228 | 11 | 
 | 2022-12-18 | 226 | 11 | 
 | 2022-12-17 | 225 | 11 | 
 | 2022-12-16 | 224 | 11 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 208 | 7 | 
 | 2022-11-21 | 207 | 7 | 
 | 2022-11-20 | 203 | 7 | 
-| 2022-11-19 | 202 | 7 | 
 

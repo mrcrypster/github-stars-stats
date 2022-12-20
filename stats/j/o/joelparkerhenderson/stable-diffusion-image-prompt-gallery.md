@@ -1,6 +1,6 @@
 # joelparkerhenderson/stable-diffusion-image-prompt-gallery - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 93 | 5 | 
 | 2022-12-18 | 93 | 5 | 
 | 2022-12-17 | 93 | 5 | 
 | 2022-12-16 | 92 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 84 | 5 | 
 | 2022-11-21 | 83 | 5 | 
 | 2022-11-20 | 82 | 5 | 
-| 2022-11-19 | 82 | 5 | 
 

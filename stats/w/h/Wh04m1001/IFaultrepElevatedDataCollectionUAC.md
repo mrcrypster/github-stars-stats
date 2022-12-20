@@ -1,10 +1,10 @@
 # Wh04m1001/IFaultrepElevatedDataCollectionUAC - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 25
 
-★ Stars: 117
+★ Stars: 118
 
 [Open repository](https://github.com/Wh04m1001/IFaultrepElevatedDataCollectionUAC)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 118 | 25 | 
 | 2022-12-18 | 117 | 25 | 
 | 2022-12-17 | 117 | 25 | 
 | 2022-12-16 | 117 | 25 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 114 | 25 | 
 | 2022-11-21 | 114 | 25 | 
 | 2022-11-20 | 114 | 25 | 
-| 2022-11-19 | 114 | 25 | 
 

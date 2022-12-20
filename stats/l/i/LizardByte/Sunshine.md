@@ -1,10 +1,10 @@
 # LizardByte/Sunshine - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 107
+☋ Forks: 108
 
-★ Stars: 1667
+★ Stars: 1816
 
 [Open repository](https://github.com/LizardByte/Sunshine)
 
@@ -13,7 +13,8 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-19 | 1667 | 107 | 
+| 2022-12-20 | 1816 | 108 | 
+| 2022-12-19 | 1790 | 108 | 
 | 2022-12-18 | 1657 | 107 | 
 | 2022-12-17 | 1443 | 104 | 
 | 2022-12-16 | 1418 | 103 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-22 | 1232 | 92 | 
 | 2022-11-21 | 1229 | 92 | 
 | 2022-11-20 | 1222 | 92 | 
-| 2022-11-19 | 1217 | 92 | 
 

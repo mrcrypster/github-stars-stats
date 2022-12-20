@@ -1,6 +1,6 @@
 # beam-community/jsonapi - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 451 | 75 | 
 | 2022-12-18 | 451 | 75 | 
 | 2022-12-17 | 451 | 75 | 
 | 2022-12-16 | 451 | 75 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 451 | 74 | 
 | 2022-11-21 | 451 | 74 | 
 | 2022-11-20 | 451 | 74 | 
-| 2022-11-19 | 451 | 74 | 
 

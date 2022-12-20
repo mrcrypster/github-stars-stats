@@ -1,6 +1,6 @@
 # l-hammer/You-need-to-know-css - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 557
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 4647 | 557 | 
 | 2022-12-18 | 4647 | 557 | 
 | 2022-12-17 | 4644 | 557 | 
 | 2022-12-16 | 4644 | 557 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 4588 | 551 | 
 | 2022-11-21 | 4585 | 550 | 
 | 2022-11-20 | 4581 | 550 | 
-| 2022-11-19 | 4580 | 550 | 
 

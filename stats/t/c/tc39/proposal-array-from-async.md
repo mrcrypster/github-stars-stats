@@ -1,6 +1,6 @@
 # tc39/proposal-array-from-async - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 126 | 12 | 
 | 2022-12-18 | 126 | 12 | 
 | 2022-12-17 | 126 | 12 | 
 | 2022-12-16 | 126 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 114 | 12 | 
 | 2022-11-21 | 114 | 12 | 
 | 2022-11-20 | 114 | 12 | 
-| 2022-11-19 | 112 | 11 | 
 

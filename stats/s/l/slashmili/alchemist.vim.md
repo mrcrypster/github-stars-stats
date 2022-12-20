@@ -1,10 +1,10 @@
 # slashmili/alchemist.vim - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 35
 
-★ Stars: 658
+★ Stars: 659
 
 [Open repository](https://github.com/slashmili/alchemist.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 659 | 35 | 
 | 2022-12-19 | 658 | 35 | 
 | 2022-12-18 | 658 | 35 | 
 | 2022-12-16 | 658 | 35 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-22 | 659 | 35 | 
 | 2022-11-21 | 659 | 35 | 
 | 2022-11-20 | 659 | 35 | 
-| 2022-11-19 | 659 | 35 | 
 

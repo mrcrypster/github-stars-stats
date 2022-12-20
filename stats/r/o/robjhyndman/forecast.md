@@ -1,6 +1,6 @@
 # robjhyndman/forecast - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 335
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 1012 | 335 | 
 | 2022-12-18 | 1012 | 335 | 
 | 2022-12-17 | 1012 | 335 | 
 | 2022-12-16 | 1012 | 334 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 1007 | 333 | 
 | 2022-11-21 | 1006 | 333 | 
 | 2022-11-20 | 1005 | 333 | 
-| 2022-11-19 | 1005 | 333 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 19
 
-☋ Forks: 2854
+☋ Forks: 2859
 
-★ Stars: 3922
+★ Stars: 3924
 
 [Open repository](https://github.com/RyanFitzgerald/devportfolio)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-19 | 3922 | 2854 | 
+| 2022-12-19 | 3924 | 2859 | 
 | 2022-12-18 | 3922 | 2853 | 
 | 2022-12-17 | 3922 | 2849 | 
 | 2022-12-16 | 3921 | 2846 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-22 | 3906 | 2776 | 
 | 2022-11-21 | 3905 | 2776 | 
 | 2022-11-20 | 3904 | 2777 | 
-| 2022-11-19 | 3902 | 2772 | 
 

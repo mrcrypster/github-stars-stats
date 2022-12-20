@@ -1,6 +1,6 @@
 # soundcloud/MinimalPerfectHashes.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 15 | 10 | 
 | 2022-12-19 | 15 | 10 | 
 | 2022-12-17 | 15 | 10 | 
 | 2022-12-16 | 15 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-22 | 15 | 10 | 
 | 2022-11-21 | 15 | 10 | 
 | 2022-11-20 | 15 | 10 | 
-| 2022-11-19 | 15 | 10 | 
 

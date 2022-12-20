@@ -1,6 +1,6 @@
 # Azure/Azure-TDSP-ProjectTemplate - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 394
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 438 | 394 | 
 | 2022-12-18 | 438 | 394 | 
 | 2022-12-17 | 438 | 394 | 
 | 2022-12-16 | 438 | 394 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 433 | 391 | 
 | 2022-11-21 | 432 | 391 | 
 | 2022-11-20 | 432 | 391 | 
-| 2022-11-19 | 432 | 391 | 
 

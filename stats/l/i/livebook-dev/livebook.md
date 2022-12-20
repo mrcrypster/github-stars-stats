@@ -1,10 +1,10 @@
 # livebook-dev/livebook - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 279
 
-★ Stars: 3191
+★ Stars: 3195
 
 [Open repository](https://github.com/livebook-dev/livebook)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 3195 | 279 | 
+| 2022-12-19 | 3193 | 279 | 
 | 2022-12-18 | 3191 | 279 | 
 | 2022-12-17 | 3186 | 278 | 
 | 2022-12-16 | 3186 | 278 | 
@@ -41,5 +43,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 3128 | 274 | 
 | 2022-11-21 | 3125 | 273 | 
 | 2022-11-20 | 3123 | 273 | 
-| 2022-11-19 | 3119 | 273 | 
 

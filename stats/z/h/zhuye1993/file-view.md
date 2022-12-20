@@ -1,8 +1,8 @@
 # zhuye1993/file-view - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 98
+☋ Forks: 99
 
 ★ Stars: 211
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 211 | 99 | 
 | 2022-12-19 | 211 | 98 | 
 | 2022-12-17 | 211 | 98 | 
 | 2022-12-16 | 211 | 98 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-22 | 203 | 94 | 
 | 2022-11-21 | 202 | 95 | 
 | 2022-11-20 | 202 | 95 | 
-| 2022-11-19 | 202 | 95 | 
 

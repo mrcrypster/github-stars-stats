@@ -1,10 +1,10 @@
 # maxboeck/webring - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
-☋ Forks: 178
+☋ Forks: 179
 
-★ Stars: 166
+★ Stars: 167
 
 [Open repository](https://github.com/maxboeck/webring)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 167 | 179 | 
 | 2022-12-18 | 166 | 178 | 
 | 2022-12-17 | 166 | 178 | 
 | 2022-12-16 | 166 | 178 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 165 | 175 | 
 | 2022-11-21 | 165 | 175 | 
 | 2022-11-20 | 165 | 175 | 
-| 2022-11-19 | 165 | 175 | 
 

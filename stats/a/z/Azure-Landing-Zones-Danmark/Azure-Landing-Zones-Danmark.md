@@ -1,8 +1,8 @@
 # Azure-Landing-Zones-Danmark/Azure-Landing-Zones-Danmark - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
-☋ Forks: 4
+☋ Forks: 5
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 3 | 5 | 
 | 2022-12-18 | 3 | 4 | 
 | 2022-12-17 | 3 | 4 | 
 | 2022-12-16 | 3 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 3 | 3 | 
 | 2022-11-21 | 3 | 3 | 
 | 2022-11-20 | 3 | 3 | 
-| 2022-11-19 | 3 | 3 | 
 

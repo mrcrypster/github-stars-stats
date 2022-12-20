@@ -1,10 +1,10 @@
 # twuni/docker-registry.helm - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 98
 
-★ Stars: 171
+★ Stars: 172
 
 [Open repository](https://github.com/twuni/docker-registry.helm)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 172 | 98 | 
 | 2022-12-18 | 171 | 98 | 
 | 2022-12-17 | 171 | 98 | 
 | 2022-12-16 | 171 | 98 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 167 | 95 | 
 | 2022-11-21 | 166 | 94 | 
 | 2022-11-20 | 166 | 94 | 
-| 2022-11-19 | 166 | 94 | 
 

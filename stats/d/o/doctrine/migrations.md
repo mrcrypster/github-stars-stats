@@ -1,6 +1,6 @@
 # doctrine/migrations - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 371
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 4448 | 371 | 
 | 2022-12-18 | 4448 | 371 | 
 | 2022-12-17 | 4448 | 371 | 
 | 2022-12-16 | 4447 | 371 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 4433 | 370 | 
 | 2022-11-21 | 4434 | 370 | 
 | 2022-11-20 | 4435 | 371 | 
-| 2022-11-19 | 4435 | 371 | 
 

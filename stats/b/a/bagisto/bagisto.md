@@ -1,10 +1,10 @@
 # bagisto/bagisto - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 1647
 
-★ Stars: 4922
+★ Stars: 4923
 
 [Open repository](https://github.com/bagisto/bagisto)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 4923 | 1647 | 
 | 2022-12-18 | 4922 | 1647 | 
 | 2022-12-17 | 4917 | 1646 | 
 | 2022-12-16 | 4914 | 1646 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 4868 | 1636 | 
 | 2022-11-21 | 4866 | 1636 | 
 | 2022-11-20 | 4864 | 1636 | 
-| 2022-11-19 | 4864 | 1635 | 
 

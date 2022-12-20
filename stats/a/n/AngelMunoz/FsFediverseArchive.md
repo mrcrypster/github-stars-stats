@@ -1,6 +1,6 @@
 # AngelMunoz/FsFediverseArchive - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 11 | 2 | 
 | 2022-12-18 | 11 | 2 | 
 | 2022-12-17 | 11 | 2 | 
 | 2022-12-16 | 11 | 2 | 

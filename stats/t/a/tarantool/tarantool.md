@@ -1,10 +1,10 @@
 # tarantool/tarantool - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 350
 
-★ Stars: 3024
+★ Stars: 3025
 
 [Open repository](https://github.com/tarantool/tarantool)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 3025 | 350 | 
 | 2022-12-18 | 3024 | 350 | 
 | 2022-12-17 | 3024 | 350 | 
 | 2022-12-16 | 3023 | 350 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 3012 | 348 | 
 | 2022-11-21 | 3011 | 348 | 
 | 2022-11-20 | 3010 | 348 | 
-| 2022-11-19 | 3010 | 348 | 
 

@@ -1,10 +1,10 @@
 # sys1yagi/mastodon4j - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
-☋ Forks: 25
+☋ Forks: 26
 
-★ Stars: 122
+★ Stars: 123
 
 [Open repository](https://github.com/sys1yagi/mastodon4j)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 123 | 26 | 
 | 2022-12-18 | 122 | 25 | 
 | 2022-12-17 | 122 | 25 | 
 | 2022-12-16 | 122 | 25 | 

@@ -1,10 +1,10 @@
 # github/mona-sans - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 47
 
-★ Stars: 2512
+★ Stars: 2518
 
 [Open repository](https://github.com/github/mona-sans)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 2518 | 47 | 
 | 2022-12-18 | 2512 | 47 | 
 | 2022-12-17 | 2502 | 47 | 
 | 2022-12-16 | 2496 | 47 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 1918 | 28 | 
 | 2022-11-21 | 1895 | 27 | 
 | 2022-11-20 | 1860 | 27 | 
-| 2022-11-19 | 1838 | 27 | 
 

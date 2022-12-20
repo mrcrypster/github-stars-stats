@@ -1,10 +1,10 @@
 # Rudolph-Miller/jonathan - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 25
 
-★ Stars: 151
+★ Stars: 152
 
 [Open repository](https://github.com/Rudolph-Miller/jonathan)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 152 | 25 | 
 | 2022-12-18 | 151 | 25 | 
 | 2022-12-17 | 151 | 25 | 
 | 2022-12-16 | 151 | 25 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 151 | 25 | 
 | 2022-11-21 | 151 | 26 | 
 | 2022-11-20 | 150 | 26 | 
-| 2022-11-19 | 150 | 26 | 
 

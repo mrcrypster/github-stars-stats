@@ -1,8 +1,8 @@
 # CXXPLOIDBOT/RDP-FREE- - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 454
+☋ Forks: 458
 
 ★ Stars: 7
 
@@ -13,7 +13,8 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-19 | 7 | 454 | 
+| 2022-12-20 | 7 | 458 | 
+| 2022-12-19 | 7 | 457 | 
 | 2022-12-18 | 7 | 453 | 
 | 2022-12-17 | 7 | 441 | 
 | 2022-12-16 | 7 | 431 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-22 | 5 | 313 | 
 | 2022-11-21 | 5 | 312 | 
 | 2022-11-20 | 5 | 311 | 
-| 2022-11-19 | 5 | 305 | 
 

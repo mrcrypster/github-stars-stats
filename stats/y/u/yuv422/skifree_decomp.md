@@ -1,6 +1,6 @@
 # yuv422/skifree_decomp - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 15 | - | 
 | 2022-12-18 | 15 | - | 
 | 2022-12-17 | 15 | - | 
 | 2022-12-16 | 14 | - | 

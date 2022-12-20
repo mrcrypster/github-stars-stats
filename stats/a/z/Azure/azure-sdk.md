@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 19
 
 ☋ Forks: 241
 
-★ Stars: 349
+★ Stars: 350
 
 [Open repository](https://github.com/Azure/azure-sdk)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-19 | 349 | 241 | 
+| 2022-12-19 | 350 | 241 | 
 | 2022-12-18 | 349 | 241 | 
 | 2022-12-17 | 349 | 241 | 
 | 2022-12-16 | 346 | 240 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-22 | 340 | 233 | 
 | 2022-11-21 | 340 | 233 | 
 | 2022-11-20 | 340 | 233 | 
-| 2022-11-19 | 340 | 233 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 19
 
-☋ Forks: 32
+☋ Forks: 35
 
-★ Stars: 451
+★ Stars: 498
 
 [Open repository](https://github.com/chinesehuazhou/python-whydo)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-19 | 451 | 32 | 
+| 2022-12-19 | 498 | 35 | 
 | 2022-12-18 | 440 | 32 | 
 | 2022-12-17 | 402 | 28 | 
 

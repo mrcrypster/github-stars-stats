@@ -1,10 +1,10 @@
 # youhuangla/Note - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 79
 
-★ Stars: 104
+★ Stars: 105
 
 [Open repository](https://github.com/youhuangla/Note)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 105 | 79 | 
 | 2022-12-18 | 104 | 79 | 
 | 2022-12-17 | 104 | 79 | 
 | 2022-12-16 | 104 | 79 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 104 | 78 | 
 | 2022-11-21 | 104 | 78 | 
 | 2022-11-20 | 104 | 78 | 
-| 2022-11-19 | 104 | 78 | 
 

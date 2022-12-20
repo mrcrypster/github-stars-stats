@@ -1,10 +1,10 @@
 # ITZ-ZAID/mogenius - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
-☋ Forks: 29
+☋ Forks: 30
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/ITZ-ZAID/mogenius)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 19 | 30 | 
 | 2022-12-18 | 18 | 29 | 
 | 2022-12-17 | 17 | 28 | 
 | 2022-12-16 | 17 | 28 | 

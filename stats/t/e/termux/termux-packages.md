@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 19
 
-☋ Forks: 2519
+☋ Forks: 2522
 
-★ Stars: 9460
+★ Stars: 9468
 
 [Open repository](https://github.com/termux/termux-packages)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-19 | 9460 | 2519 | 
+| 2022-12-19 | 9468 | 2522 | 
 | 2022-12-18 | 9460 | 2519 | 
 | 2022-12-17 | 9448 | 2517 | 
 | 2022-12-16 | 9444 | 2518 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-22 | 9262 | 2490 | 
 | 2022-11-21 | 9259 | 2488 | 
 | 2022-11-20 | 9251 | 2485 | 
-| 2022-11-19 | 9241 | 2483 | 
 

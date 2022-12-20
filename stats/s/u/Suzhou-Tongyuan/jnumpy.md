@@ -1,10 +1,10 @@
 # Suzhou-Tongyuan/jnumpy - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 8
 
-★ Stars: 206
+★ Stars: 207
 
 [Open repository](https://github.com/Suzhou-Tongyuan/jnumpy)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 207 | 8 | 
 | 2022-12-18 | 206 | 8 | 
 | 2022-12-17 | 206 | 8 | 
 | 2022-12-16 | 206 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 201 | 8 | 
 | 2022-11-21 | 201 | 8 | 
 | 2022-11-20 | 201 | 8 | 
-| 2022-11-19 | 201 | 8 | 
 

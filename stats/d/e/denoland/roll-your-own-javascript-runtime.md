@@ -1,6 +1,6 @@
 # denoland/roll-your-own-javascript-runtime - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 162 | 10 | 
 | 2022-12-19 | 162 | 10 | 
 | 2022-12-17 | 162 | 10 | 
 | 2022-12-16 | 162 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-22 | 160 | 9 | 
 | 2022-11-21 | 160 | 9 | 
 | 2022-11-20 | 160 | 9 | 
-| 2022-11-19 | 160 | 9 | 
 

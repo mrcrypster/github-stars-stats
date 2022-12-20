@@ -1,10 +1,10 @@
 # jayfoad/aoc2022apl - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 0
 
-★ Stars: 15
+★ Stars: 17
 
 [Open repository](https://github.com/jayfoad/aoc2022apl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 17 | - | 
 | 2022-12-18 | 15 | - | 
 | 2022-12-17 | 15 | - | 
 | 2022-12-16 | 15 | - | 

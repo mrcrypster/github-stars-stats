@@ -1,10 +1,10 @@
 # JuliaSmoothOptimizers/PartitionedVectors.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 1
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/JuliaSmoothOptimizers/PartitionedVectors.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 6 | 1 | 
 | 2022-12-18 | 5 | 1 | 
 | 2022-12-17 | 5 | 1 | 
 | 2022-12-16 | 5 | 1 | 

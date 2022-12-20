@@ -1,10 +1,10 @@
 # mermaid-js/mermaid-live-editor - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
-☋ Forks: 266
+☋ Forks: 267
 
-★ Stars: 1951
+★ Stars: 1954
 
 [Open repository](https://github.com/mermaid-js/mermaid-live-editor)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 1954 | 267 | 
 | 2022-12-18 | 1951 | 266 | 
 | 2022-12-17 | 1947 | 266 | 
 | 2022-12-16 | 1944 | 265 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-23 | 1879 | 257 | 
 | 2022-11-22 | 1877 | 257 | 
 | 2022-11-20 | 1876 | 257 | 
-| 2022-11-19 | 1876 | 257 | 
 

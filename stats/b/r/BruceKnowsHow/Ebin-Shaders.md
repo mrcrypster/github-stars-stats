@@ -1,6 +1,6 @@
 # BruceKnowsHow/Ebin-Shaders - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 116 | 35 | 
 | 2022-12-18 | 116 | 35 | 
 | 2022-12-17 | 116 | 35 | 
 | 2022-12-16 | 116 | 35 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 116 | 35 | 
 | 2022-11-21 | 116 | 35 | 
 | 2022-11-20 | 116 | 35 | 
-| 2022-11-19 | 116 | 35 | 
 

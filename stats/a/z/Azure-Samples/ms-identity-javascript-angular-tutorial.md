@@ -1,10 +1,10 @@
 # Azure-Samples/ms-identity-javascript-angular-tutorial - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
-☋ Forks: 134
+☋ Forks: 133
 
-★ Stars: 138
+★ Stars: 139
 
 [Open repository](https://github.com/Azure-Samples/ms-identity-javascript-angular-tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 139 | 133 | 
 | 2022-12-18 | 138 | 134 | 
 | 2022-12-17 | 137 | 134 | 
 | 2022-12-16 | 137 | 134 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 133 | 131 | 
 | 2022-11-21 | 133 | 131 | 
 | 2022-11-20 | 133 | 131 | 
-| 2022-11-19 | 133 | 131 | 
 

@@ -1,8 +1,8 @@
 # toshiro9117/Villain.In.Glasses.RDP - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
-☋ Forks: 99
+☋ Forks: 98
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 5 | 98 | 
 | 2022-12-18 | 5 | 99 | 
 | 2022-12-17 | 5 | 98 | 
 | 2022-12-16 | 5 | 98 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 5 | 97 | 
 | 2022-11-21 | 5 | 97 | 
 | 2022-11-20 | 5 | 97 | 
-| 2022-11-19 | 5 | 97 | 
 

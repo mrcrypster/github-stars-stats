@@ -1,10 +1,10 @@
 # ine-rmotr-curriculum/FreeCodeCamp-Pandas-Real-Life-Example - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
-☋ Forks: 3678
+☋ Forks: 3680
 
-★ Stars: 955
+★ Stars: 956
 
 [Open repository](https://github.com/ine-rmotr-curriculum/FreeCodeCamp-Pandas-Real-Life-Example)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 956 | 3680 | 
 | 2022-12-18 | 955 | 3678 | 
 | 2022-12-17 | 955 | 3673 | 
 | 2022-12-16 | 954 | 3668 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 925 | 3574 | 
 | 2022-11-21 | 923 | 3572 | 
 | 2022-11-20 | 923 | 3570 | 
-| 2022-11-19 | 921 | 3573 | 
 

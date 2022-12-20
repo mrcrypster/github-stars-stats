@@ -1,6 +1,6 @@
 # Azure/terraform-azurerm-caf-enterprise-scale - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 275
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 377 | 275 | 
 | 2022-12-18 | 377 | 275 | 
 | 2022-12-17 | 377 | 275 | 
 | 2022-12-16 | 375 | 274 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 361 | 264 | 
 | 2022-11-21 | 361 | 262 | 
 | 2022-11-20 | 359 | 262 | 
-| 2022-11-19 | 359 | 262 | 
 

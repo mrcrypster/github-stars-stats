@@ -1,6 +1,6 @@
 # elementary/icons - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 79
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 521 | 79 | 
 | 2022-12-18 | 521 | 79 | 
 | 2022-12-17 | 521 | 79 | 
 | 2022-12-16 | 521 | 78 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 520 | 78 | 
 | 2022-11-21 | 520 | 78 | 
 | 2022-11-20 | 519 | 78 | 
-| 2022-11-19 | 518 | 79 | 
 

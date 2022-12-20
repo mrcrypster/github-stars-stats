@@ -1,6 +1,6 @@
 # kadena-io/signing-api - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 3 | 5 | 
 | 2022-12-18 | 3 | 5 | 
 | 2022-12-17 | 3 | 5 | 
 

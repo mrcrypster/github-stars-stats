@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 19
 
 ☋ Forks: 34
 
-★ Stars: 128
+★ Stars: 129
 
 [Open repository](https://github.com/vapor/open-crypto)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-19 | 128 | 34 | 
+| 2022-12-19 | 129 | 34 | 
 | 2022-12-18 | 128 | 34 | 
 | 2022-12-17 | 128 | 34 | 
 | 2022-12-16 | 128 | 34 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 128 | 34 | 
 | 2022-11-22 | 128 | 34 | 
 | 2022-11-20 | 128 | 34 | 
-| 2022-11-19 | 128 | 34 | 
 

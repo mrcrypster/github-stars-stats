@@ -1,6 +1,6 @@
 # envoyproxy/gateway - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 106
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 792 | 106 | 
 | 2022-12-18 | 792 | 106 | 
 | 2022-12-17 | 792 | 106 | 
 | 2022-12-16 | 790 | 105 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 762 | 96 | 
 | 2022-11-21 | 762 | 96 | 
 | 2022-11-20 | 760 | 96 | 
-| 2022-11-19 | 758 | 95 | 
 

@@ -1,6 +1,6 @@
 # oosayeroo/qb-miniheists - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 6 | 3 | 
 | 2022-12-18 | 6 | 3 | 
 | 2022-12-17 | 6 | 3 | 
 | 2022-12-16 | 6 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 4 | 1 | 
 | 2022-11-21 | 4 | 1 | 
 | 2022-11-20 | 4 | 1 | 
-| 2022-11-19 | 4 | 1 | 
 

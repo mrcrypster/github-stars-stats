@@ -1,6 +1,6 @@
 # KalobTaulien/git-essentials - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 232
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 114 | 232 | 
 | 2022-12-18 | 114 | 232 | 
 | 2022-12-17 | 114 | 232 | 
 | 2022-12-16 | 114 | 232 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 109 | 225 | 
 | 2022-11-21 | 109 | 225 | 
 | 2022-11-20 | 109 | 224 | 
-| 2022-11-19 | 108 | 223 | 
 

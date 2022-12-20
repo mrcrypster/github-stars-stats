@@ -1,6 +1,6 @@
 # flatpak/flatpak - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 360
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 3489 | 360 | 
 | 2022-12-18 | 3489 | 360 | 
 | 2022-12-17 | 3489 | 360 | 
 | 2022-12-16 | 3487 | 360 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 3458 | 354 | 
 | 2022-11-21 | 3458 | 353 | 
 | 2022-11-20 | 3452 | 353 | 
-| 2022-11-19 | 3450 | 353 | 
 

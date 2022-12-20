@@ -1,10 +1,10 @@
 # lewagon/dotfiles - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
-☋ Forks: 18816
+☋ Forks: 18818
 
-★ Stars: 16535
+★ Stars: 16537
 
 [Open repository](https://github.com/lewagon/dotfiles)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 16537 | 18818 | 
 | 2022-12-18 | 16535 | 18816 | 
 | 2022-12-17 | 16535 | 18816 | 
 | 2022-12-16 | 16536 | 18816 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 16536 | 18781 | 
 | 2022-11-21 | 16534 | 18774 | 
 | 2022-11-20 | 16535 | 18774 | 
-| 2022-11-19 | 16536 | 18771 | 
 

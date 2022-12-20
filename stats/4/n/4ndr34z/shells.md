@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 19
 
 ☋ Forks: 43
 
-★ Stars: 202
+★ Stars: 205
 
 [Open repository](https://github.com/4ndr34z/shells)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-19 | 202 | 43 | 
+| 2022-12-19 | 205 | 43 | 
 | 2022-12-18 | 202 | 43 | 
 | 2022-12-17 | 191 | 41 | 
 | 2022-12-16 | 173 | 38 | 

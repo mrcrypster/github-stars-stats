@@ -1,6 +1,6 @@
 # TIBCOSoftware/js-docker - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 123
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 125 | 123 | 
 | 2022-12-19 | 125 | 123 | 
 | 2022-12-18 | 125 | 123 | 
 | 2022-12-17 | 125 | 123 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 124 | 122 | 
 | 2022-11-22 | 123 | 122 | 
 | 2022-11-21 | 123 | 122 | 
-| 2022-11-20 | 123 | 122 | 
 

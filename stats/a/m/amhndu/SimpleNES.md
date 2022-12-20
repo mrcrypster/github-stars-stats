@@ -1,10 +1,10 @@
 # amhndu/SimpleNES - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
-☋ Forks: 1037
+☋ Forks: 1038
 
-★ Stars: 4127
+★ Stars: 4128
 
 [Open repository](https://github.com/amhndu/SimpleNES)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 4128 | 1038 | 
 | 2022-12-18 | 4127 | 1037 | 
 | 2022-12-17 | 4125 | 1037 | 
 | 2022-12-16 | 4123 | 1037 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 4064 | 1030 | 
 | 2022-11-21 | 4064 | 1030 | 
 | 2022-11-20 | 4065 | 1030 | 
-| 2022-11-19 | 4064 | 1030 | 
 

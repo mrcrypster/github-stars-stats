@@ -1,10 +1,10 @@
 # smartcontractkit/full-blockchain-solidity-course-js - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
-☋ Forks: 1597
+☋ Forks: 1604
 
-★ Stars: 6858
+★ Stars: 6868
 
 [Open repository](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 6868 | 1604 | 
 | 2022-12-18 | 6858 | 1597 | 
 | 2022-12-17 | 6846 | 1592 | 
 | 2022-12-16 | 6829 | 1590 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 6390 | 1507 | 
 | 2022-11-21 | 6374 | 1502 | 
 | 2022-11-20 | 6356 | 1498 | 
-| 2022-11-19 | 6342 | 1494 | 
 

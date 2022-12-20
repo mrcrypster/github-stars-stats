@@ -1,6 +1,6 @@
 # Squirrel/Squirrel.Mac - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 145
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 1460 | 145 | 
 | 2022-12-18 | 1460 | 145 | 
 | 2022-12-17 | 1460 | 145 | 
 | 2022-12-16 | 1460 | 145 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-23 | 1457 | 145 | 
 | 2022-11-22 | 1456 | 145 | 
 | 2022-11-21 | 1456 | 145 | 
-| 2022-11-19 | 1456 | 145 | 
 

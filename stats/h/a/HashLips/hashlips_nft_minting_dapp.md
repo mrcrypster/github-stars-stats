@@ -1,6 +1,6 @@
 # HashLips/hashlips_nft_minting_dapp - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 918
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 914 | 918 | 
 | 2022-12-18 | 914 | 918 | 
 | 2022-12-17 | 914 | 918 | 
 | 2022-12-16 | 914 | 916 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 900 | 905 | 
 | 2022-11-21 | 900 | 905 | 
 | 2022-11-20 | 900 | 905 | 
-| 2022-11-19 | 900 | 905 | 
 

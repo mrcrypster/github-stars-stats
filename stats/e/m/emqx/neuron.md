@@ -1,6 +1,6 @@
 # emqx/neuron - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 100
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 509 | 100 | 
 | 2022-12-18 | 509 | 100 | 
 | 2022-12-17 | 508 | 100 | 
 | 2022-12-16 | 507 | 100 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 490 | 97 | 
 | 2022-11-21 | 490 | 97 | 
 | 2022-11-20 | 490 | 97 | 
-| 2022-11-19 | 490 | 97 | 
 

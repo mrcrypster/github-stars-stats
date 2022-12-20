@@ -1,10 +1,10 @@
 # stark0de/nginxpwner - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 93
 
-★ Stars: 889
+★ Stars: 890
 
 [Open repository](https://github.com/stark0de/nginxpwner)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 890 | 93 | 
 | 2022-12-18 | 889 | 93 | 
 | 2022-12-17 | 889 | 93 | 
 | 2022-12-16 | 889 | 93 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 863 | 89 | 
 | 2022-11-21 | 863 | 89 | 
 | 2022-11-20 | 860 | 89 | 
-| 2022-11-19 | 860 | 89 | 
 

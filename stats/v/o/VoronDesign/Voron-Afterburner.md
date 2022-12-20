@@ -1,10 +1,10 @@
 # VoronDesign/Voron-Afterburner - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 209
 
-★ Stars: 641
+★ Stars: 643
 
 [Open repository](https://github.com/VoronDesign/Voron-Afterburner)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 643 | 209 | 
 | 2022-12-18 | 641 | 209 | 
 | 2022-12-17 | 641 | 209 | 
 | 2022-12-16 | 641 | 209 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 640 | 208 | 
 | 2022-11-21 | 640 | 208 | 
 | 2022-11-20 | 640 | 209 | 
-| 2022-11-19 | 640 | 209 | 
 

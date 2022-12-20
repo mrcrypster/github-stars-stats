@@ -1,10 +1,10 @@
 # ArduPilot/ardupilot - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
-☋ Forks: 13655
+☋ Forks: 13656
 
-★ Stars: 7890
+★ Stars: 7891
 
 [Open repository](https://github.com/ArduPilot/ardupilot)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 7891 | 13656 | 
 | 2022-12-18 | 7890 | 13655 | 
 | 2022-12-17 | 7890 | 13653 | 
 | 2022-12-16 | 7884 | 13640 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 7832 | 13534 | 
 | 2022-11-21 | 7827 | 13530 | 
 | 2022-11-20 | 7824 | 13526 | 
-| 2022-11-19 | 7822 | 13525 | 
 

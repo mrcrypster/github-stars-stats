@@ -1,6 +1,6 @@
 # jayasuryat/dowel - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 106 | 2 | 
 | 2022-12-19 | 106 | 2 | 
 | 2022-12-17 | 106 | 2 | 
 | 2022-12-16 | 104 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-22 | 97 | 2 | 
 | 2022-11-21 | 96 | 2 | 
 | 2022-11-20 | 96 | 2 | 
-| 2022-11-19 | 96 | 2 | 
 

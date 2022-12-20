@@ -1,10 +1,10 @@
 # jiangmiao/auto-pairs - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 364
 
-★ Stars: 3816
+★ Stars: 3818
 
 [Open repository](https://github.com/jiangmiao/auto-pairs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 3818 | 364 | 
 | 2022-12-18 | 3816 | 364 | 
 | 2022-12-17 | 3815 | 364 | 
 | 2022-12-16 | 3814 | 364 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 3811 | 362 | 
 | 2022-11-21 | 3811 | 362 | 
 | 2022-11-20 | 3811 | 363 | 
-| 2022-11-19 | 3808 | 363 | 
 

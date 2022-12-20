@@ -1,10 +1,10 @@
 # celzero/rethink-app - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
-☋ Forks: 67
+☋ Forks: 66
 
-★ Stars: 1091
+★ Stars: 1093
 
 [Open repository](https://github.com/celzero/rethink-app)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 1093 | 66 | 
 | 2022-12-18 | 1091 | 67 | 
 | 2022-12-17 | 1090 | 67 | 
 | 2022-12-16 | 1090 | 66 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 1033 | 66 | 
 | 2022-11-21 | 1031 | 66 | 
 | 2022-11-20 | 1031 | 66 | 
-| 2022-11-19 | 1028 | 66 | 
 

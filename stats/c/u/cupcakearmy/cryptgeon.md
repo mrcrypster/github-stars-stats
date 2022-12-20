@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 19
 
 ☋ Forks: 40
 
-★ Stars: 415
+★ Stars: 416
 
 [Open repository](https://github.com/cupcakearmy/cryptgeon)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-19 | 415 | 40 | 
+| 2022-12-19 | 416 | 40 | 
 | 2022-12-18 | 415 | 40 | 
 | 2022-12-17 | 414 | 40 | 
 | 2022-12-15 | 413 | 40 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-22 | 395 | 39 | 
 | 2022-11-21 | 395 | 40 | 
 | 2022-11-20 | 394 | 40 | 
-| 2022-11-19 | 394 | 40 | 
 

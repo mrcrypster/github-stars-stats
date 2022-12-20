@@ -1,8 +1,8 @@
 # AliaksandrSiarohin/first-order-model - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
-☋ Forks: 2929
+☋ Forks: 2931
 
 ★ Stars: 12917
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 12917 | 2931 | 
 | 2022-12-18 | 12917 | 2929 | 
 | 2022-12-17 | 12917 | 2926 | 
 | 2022-12-16 | 12914 | 2925 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 12871 | 2919 | 
 | 2022-11-21 | 12868 | 2919 | 
 | 2022-11-20 | 12866 | 2918 | 
-| 2022-11-19 | 12864 | 2919 | 
 

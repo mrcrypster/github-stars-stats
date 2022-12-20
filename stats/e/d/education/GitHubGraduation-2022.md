@@ -1,8 +1,8 @@
 # education/GitHubGraduation-2022 - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
-☋ Forks: 6396
+☋ Forks: 6395
 
 ★ Stars: 1478
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 1478 | 6395 | 
 | 2022-12-18 | 1478 | 6396 | 
 | 2022-12-17 | 1478 | 6397 | 
 | 2022-12-16 | 1478 | 6399 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-23 | 1468 | 6426 | 
 | 2022-11-22 | 1469 | 6426 | 
 | 2022-11-21 | 1469 | 6428 | 
-| 2022-11-20 | 1469 | 6429 | 
 

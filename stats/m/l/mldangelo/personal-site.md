@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 19
 
-☋ Forks: 658
+☋ Forks: 659
 
-★ Stars: 877
+★ Stars: 878
 
 [Open repository](https://github.com/mldangelo/personal-site)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-19 | 877 | 658 | 
+| 2022-12-19 | 878 | 659 | 
 | 2022-12-18 | 877 | 658 | 
 | 2022-12-17 | 877 | 658 | 
 | 2022-12-16 | 876 | 658 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-22 | 858 | 641 | 
 | 2022-11-21 | 856 | 641 | 
 | 2022-11-20 | 855 | 642 | 
-| 2022-11-19 | 855 | 643 | 
 

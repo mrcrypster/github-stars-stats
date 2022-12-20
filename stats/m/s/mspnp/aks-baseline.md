@@ -1,6 +1,6 @@
 # mspnp/aks-baseline - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 388
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 510 | 388 | 
 | 2022-12-18 | 510 | 388 | 
 | 2022-12-17 | 509 | 388 | 
 | 2022-12-16 | 509 | 388 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 500 | 384 | 
 | 2022-11-21 | 500 | 384 | 
 | 2022-11-20 | 500 | 385 | 
-| 2022-11-19 | 500 | 385 | 
 

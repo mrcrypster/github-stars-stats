@@ -1,6 +1,6 @@
 # odroe/prisma-dart - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 149 | 4 | 
 | 2022-12-18 | 149 | 4 | 
 | 2022-12-17 | 148 | 4 | 
 | 2022-12-16 | 148 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 137 | 4 | 
 | 2022-11-21 | 136 | 4 | 
 | 2022-11-20 | 136 | 4 | 
-| 2022-11-19 | 136 | 4 | 
 

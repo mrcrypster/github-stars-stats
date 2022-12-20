@@ -1,10 +1,10 @@
 # SaptarshiSarkar12/Drifty - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 61
 
-★ Stars: 62
+★ Stars: 61
 
 [Open repository](https://github.com/SaptarshiSarkar12/Drifty)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 61 | 61 | 
 | 2022-12-18 | 62 | 61 | 
 | 2022-12-17 | 62 | 61 | 
 | 2022-12-16 | 62 | 61 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-23 | 62 | 62 | 
 | 2022-11-22 | 62 | 62 | 
 | 2022-11-21 | 62 | 62 | 
-| 2022-11-20 | 61 | 62 | 
 

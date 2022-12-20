@@ -1,8 +1,8 @@
 # acl-org/aclpubcheck - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
-☋ Forks: 26
+☋ Forks: 27
 
 ★ Stars: 286
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 286 | 27 | 
 | 2022-12-18 | 286 | 26 | 
 | 2022-12-17 | 284 | 26 | 
 | 2022-12-16 | 284 | 26 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 273 | 26 | 
 | 2022-11-21 | 273 | 26 | 
 | 2022-11-20 | 273 | 26 | 
-| 2022-11-19 | 273 | 26 | 
 

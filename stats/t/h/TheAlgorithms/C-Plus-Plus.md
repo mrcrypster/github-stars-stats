@@ -1,10 +1,10 @@
 # TheAlgorithms/C-Plus-Plus - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 6051
 
-★ Stars: 22577
+★ Stars: 22587
 
 [Open repository](https://github.com/TheAlgorithms/C-Plus-Plus)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 22587 | 6051 | 
 | 2022-12-18 | 22577 | 6051 | 
 | 2022-12-17 | 22569 | 6049 | 
 | 2022-12-16 | 22564 | 6047 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 22375 | 6007 | 
 | 2022-11-21 | 22369 | 6005 | 
 | 2022-11-20 | 22361 | 6001 | 
-| 2022-11-19 | 22333 | 5998 | 
 

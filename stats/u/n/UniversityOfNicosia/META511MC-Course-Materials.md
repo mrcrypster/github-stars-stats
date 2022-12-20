@@ -1,10 +1,10 @@
 # UniversityOfNicosia/META511MC-Course-Materials - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
-☋ Forks: 11
+☋ Forks: 12
 
-★ Stars: 97
+★ Stars: 99
 
 [Open repository](https://github.com/UniversityOfNicosia/META511MC-Course-Materials)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 99 | 12 | 
 | 2022-12-18 | 97 | 11 | 
 | 2022-12-17 | 96 | 11 | 
 | 2022-12-16 | 96 | 11 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 83 | 10 | 
 | 2022-11-21 | 83 | 10 | 
 | 2022-11-20 | 81 | 10 | 
-| 2022-11-19 | 81 | 10 | 
 

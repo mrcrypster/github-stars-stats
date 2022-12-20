@@ -1,10 +1,10 @@
 # tintinweb/smart-contract-sanctuary-fantom - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 2
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/tintinweb/smart-contract-sanctuary-fantom)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 14 | 2 | 
 | 2022-12-18 | 13 | 2 | 
 | 2022-12-17 | 13 | 2 | 
 | 2022-12-16 | 13 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 13 | 2 | 
 | 2022-11-21 | 13 | 2 | 
 | 2022-11-20 | 13 | 2 | 
-| 2022-11-19 | 13 | 2 | 
 

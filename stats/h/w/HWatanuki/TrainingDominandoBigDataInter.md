@@ -1,6 +1,6 @@
 # HWatanuki/TrainingDominandoBigDataInter - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 3 | 25 | 
 | 2022-12-18 | 3 | 25 | 
 | 2022-12-17 | 3 | 25 | 
 | 2022-12-16 | 3 | 25 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 2 | 15 | 
 | 2022-11-21 | 2 | 15 | 
 | 2022-11-20 | 2 | 15 | 
-| 2022-11-19 | 2 | 15 | 
 

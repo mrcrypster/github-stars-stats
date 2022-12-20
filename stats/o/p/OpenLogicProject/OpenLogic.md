@@ -1,6 +1,6 @@
 # OpenLogicProject/OpenLogic - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 196
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 833 | 196 | 
 | 2022-12-18 | 833 | 196 | 
 | 2022-12-17 | 833 | 195 | 
 | 2022-12-16 | 832 | 195 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 828 | 195 | 
 | 2022-11-21 | 828 | 195 | 
 | 2022-11-20 | 828 | 195 | 
-| 2022-11-19 | 828 | 195 | 
 

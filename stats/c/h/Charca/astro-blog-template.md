@@ -1,10 +1,10 @@
 # Charca/astro-blog-template - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 23
 
-★ Stars: 121
+★ Stars: 120
 
 [Open repository](https://github.com/Charca/astro-blog-template)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 120 | 23 | 
 | 2022-12-18 | 121 | 23 | 
 | 2022-12-17 | 120 | 22 | 
 | 2022-12-16 | 120 | 22 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 112 | 21 | 
 | 2022-11-21 | 111 | 21 | 
 | 2022-11-20 | 111 | 21 | 
-| 2022-11-19 | 111 | 21 | 
 

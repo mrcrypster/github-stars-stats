@@ -1,6 +1,6 @@
 # gexijin/openPay - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | - | 11 | 
 | 2022-12-18 | - | 11 | 
 | 2022-12-17 | - | 11 | 
 | 2022-12-16 | - | 11 | 

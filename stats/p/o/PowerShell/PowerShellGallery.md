@@ -1,6 +1,6 @@
 # PowerShell/PowerShellGallery - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 179 | 57 | 
 | 2022-12-18 | 179 | 57 | 
 | 2022-12-17 | 178 | 57 | 
 | 2022-12-16 | 178 | 57 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 177 | 56 | 
 | 2022-11-21 | 177 | 56 | 
 | 2022-11-20 | 177 | 56 | 
-| 2022-11-19 | 177 | 56 | 
 

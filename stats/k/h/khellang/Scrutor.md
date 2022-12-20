@@ -1,10 +1,10 @@
 # khellang/Scrutor - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 195
 
-★ Stars: 2686
+★ Stars: 2689
 
 [Open repository](https://github.com/khellang/Scrutor)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 2689 | 195 | 
 | 2022-12-18 | 2686 | 195 | 
 | 2022-12-17 | 2686 | 195 | 
 | 2022-12-16 | 2686 | 195 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 2640 | 193 | 
 | 2022-11-21 | 2638 | 193 | 
 | 2022-11-20 | 2637 | 193 | 
-| 2022-11-19 | 2636 | 193 | 
 

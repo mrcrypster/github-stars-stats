@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 19
 
-☋ Forks: 22
+☋ Forks: 29
 
-★ Stars: 1411
+★ Stars: 1744
 
 [Open repository](https://github.com/google/forma)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-19 | 1411 | 22 | 
+| 2022-12-19 | 1744 | 29 | 
 | 2022-12-18 | 1381 | 22 | 
 

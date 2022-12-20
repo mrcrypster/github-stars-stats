@@ -1,6 +1,6 @@
 # MasteringNuxt/NuxtBnB - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 110
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 226 | 110 | 
 | 2022-12-18 | 226 | 110 | 
 | 2022-12-17 | 226 | 110 | 
 | 2022-12-16 | 226 | 110 | 

@@ -1,6 +1,6 @@
 # toddsundsted/ktistec - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 227 | 15 | 
 | 2022-12-18 | 227 | 15 | 
 | 2022-12-17 | 226 | 15 | 
 | 2022-12-16 | 225 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 191 | 13 | 
 | 2022-11-21 | 168 | 12 | 
 | 2022-11-20 | 141 | 11 | 
-| 2022-11-19 | 142 | 10 | 
 

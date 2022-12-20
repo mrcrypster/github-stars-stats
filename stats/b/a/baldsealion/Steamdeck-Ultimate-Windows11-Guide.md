@@ -1,6 +1,6 @@
 # baldsealion/Steamdeck-Ultimate-Windows11-Guide - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 99 | 1 | 
 | 2022-12-18 | 99 | 1 | 
 | 2022-12-17 | 97 | 1 | 
 | 2022-12-16 | 94 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 58 | 1 | 
 | 2022-11-21 | 56 | 1 | 
 | 2022-11-20 | 53 | 1 | 
-| 2022-11-19 | 50 | 1 | 
 

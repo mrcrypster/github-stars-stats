@@ -1,6 +1,6 @@
 # sam4llis/nvim-tundra - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 198 | 5 | 
 | 2022-12-18 | 198 | 5 | 
 | 2022-12-17 | 198 | 5 | 
 | 2022-12-16 | 198 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 170 | 5 | 
 | 2022-11-21 | 165 | 4 | 
 | 2022-11-20 | 159 | 4 | 
-| 2022-11-19 | 127 | 3 | 
 

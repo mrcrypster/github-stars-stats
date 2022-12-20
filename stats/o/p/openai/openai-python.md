@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 19
 
-☋ Forks: 345
+☋ Forks: 350
 
-★ Stars: 1436
+★ Stars: 1464
 
 [Open repository](https://github.com/openai/openai-python)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-19 | 1436 | 345 | 
+| 2022-12-19 | 1464 | 350 | 
 | 2022-12-18 | 1430 | 345 | 
 | 2022-12-17 | 1343 | 337 | 
 | 2022-12-16 | 1310 | 335 | 

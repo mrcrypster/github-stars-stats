@@ -1,6 +1,6 @@
 # meysamhadeli/booking-microservices-sample - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 71
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 411 | 71 | 
 | 2022-12-18 | 411 | 71 | 
 | 2022-12-17 | 411 | 71 | 
 | 2022-12-16 | 410 | 71 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 396 | 66 | 
 | 2022-11-21 | 395 | 66 | 
 | 2022-11-20 | 392 | 66 | 
-| 2022-11-19 | 391 | 66 | 
 

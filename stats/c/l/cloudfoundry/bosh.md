@@ -1,6 +1,6 @@
 # cloudfoundry/bosh - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 665
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 1993 | 665 | 
 | 2022-12-18 | 1993 | 665 | 
 | 2022-12-17 | 1994 | 665 | 
 | 2022-12-16 | 1994 | 665 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 1992 | 662 | 
 | 2022-11-21 | 1992 | 662 | 
 | 2022-11-20 | 1992 | 662 | 
-| 2022-11-19 | 1992 | 662 | 
 

@@ -1,10 +1,10 @@
 # rqlite/rqlite - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 608
 
-★ Stars: 12800
+★ Stars: 12812
 
 [Open repository](https://github.com/rqlite/rqlite)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 12812 | 608 | 
 | 2022-12-18 | 12800 | 608 | 
 | 2022-12-17 | 12788 | 607 | 
 | 2022-12-16 | 12778 | 607 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 12465 | 593 | 
 | 2022-11-21 | 12447 | 593 | 
 | 2022-11-20 | 12411 | 592 | 
-| 2022-11-19 | 12373 | 590 | 
 

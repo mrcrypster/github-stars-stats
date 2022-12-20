@@ -1,10 +1,10 @@
 # spring-projects/spring-security - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
-☋ Forks: 5240
+☋ Forks: 5243
 
-★ Stars: 7318
+★ Stars: 7320
 
 [Open repository](https://github.com/spring-projects/spring-security)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 7320 | 5243 | 
 | 2022-12-18 | 7318 | 5240 | 
 | 2022-12-17 | 7316 | 5240 | 
 | 2022-12-16 | 7316 | 5240 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 7261 | 5190 | 
 | 2022-11-21 | 7259 | 5190 | 
 | 2022-11-20 | 7257 | 5189 | 
-| 2022-11-19 | 7258 | 5190 | 
 

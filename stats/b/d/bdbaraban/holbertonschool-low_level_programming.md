@@ -1,10 +1,10 @@
 # bdbaraban/holbertonschool-low_level_programming - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 400
 
-★ Stars: 82
+★ Stars: 83
 
 [Open repository](https://github.com/bdbaraban/holbertonschool-low_level_programming)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 83 | 400 | 
 | 2022-12-18 | 82 | 400 | 
 | 2022-12-17 | 82 | 400 | 
 | 2022-12-16 | 81 | 399 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-23 | 74 | 353 | 
 | 2022-11-22 | 74 | 355 | 
 | 2022-11-21 | 74 | 355 | 
-| 2022-11-20 | 74 | 356 | 
 

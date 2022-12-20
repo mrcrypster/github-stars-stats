@@ -1,8 +1,8 @@
 # tsukumijima/Real-ESRGAN-GUI - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
-☋ Forks: 4
+☋ Forks: 6
 
 ★ Stars: 184
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 184 | 6 | 
 | 2022-12-18 | 184 | 4 | 
 | 2022-12-17 | 183 | 4 | 
 | 2022-12-16 | 183 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-23 | 174 | 3 | 
 | 2022-11-22 | 173 | 3 | 
 | 2022-11-21 | 171 | 3 | 
-| 2022-11-20 | 171 | 3 | 
 

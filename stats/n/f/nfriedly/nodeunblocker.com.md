@@ -1,10 +1,10 @@
 # nfriedly/nodeunblocker.com - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 19
 
 ☋ Forks: 420
 
-★ Stars: 97
+★ Stars: 98
 
 [Open repository](https://github.com/nfriedly/nodeunblocker.com)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-19 | 98 | 420 | 
 | 2022-12-18 | 97 | 420 | 
 | 2022-12-17 | 97 | 420 | 
 | 2022-12-16 | 97 | 419 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 95 | 384 | 
 | 2022-11-21 | 95 | 380 | 
 | 2022-11-20 | 95 | 379 | 
-| 2022-11-19 | 95 | 377 | 
 

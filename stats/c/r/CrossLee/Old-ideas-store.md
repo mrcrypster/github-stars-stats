@@ -1,6 +1,6 @@
 # CrossLee/Old-ideas-store - stars & forks statistics
 
-Stats updated on Dec 2022, 18
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 255 | 9 | 
 | 2022-12-18 | 255 | 9 | 
 | 2022-12-17 | 255 | 9 | 
 | 2022-12-16 | 255 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 18
 | 2022-11-22 | 257 | 9 | 
 | 2022-11-21 | 257 | 9 | 
 | 2022-11-20 | 257 | 9 | 
-| 2022-11-19 | 257 | 9 | 
 

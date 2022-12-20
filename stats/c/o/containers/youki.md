@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 19
 
-☋ Forks: 235
+☋ Forks: 236
 
-★ Stars: 4122
+★ Stars: 4137
 
 [Open repository](https://github.com/containers/youki)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-19 | 4122 | 235 | 
+| 2022-12-19 | 4137 | 236 | 
 | 2022-12-18 | 4120 | 235 | 
 | 2022-12-17 | 4103 | 235 | 
 | 2022-12-16 | 4091 | 235 | 

@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 19
 
 ☋ Forks: 1
 
-★ Stars: 207
+★ Stars: 208
 
 [Open repository](https://github.com/lxgw/LxgwNeoXiHei)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-19 | 207 | 1 | 
+| 2022-12-19 | 208 | 1 | 
 | 2022-12-18 | 207 | 1 | 
 | 2022-12-17 | 205 | 1 | 
 | 2022-12-16 | 203 | 1 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-22 | 177 | 1 | 
 | 2022-11-21 | 176 | 1 | 
 | 2022-11-20 | 176 | 1 | 
-| 2022-11-19 | 176 | 1 | 
 
