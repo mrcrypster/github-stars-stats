@@ -1,6 +1,6 @@
 # mongodb/helm-charts - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 50 | 56 | 
 | 2022-12-19 | 50 | 56 | 
 | 2022-12-18 | 50 | 56 | 
 | 2022-12-17 | 50 | 56 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 48 | 55 | 
 | 2022-11-22 | 48 | 54 | 
 | 2022-11-21 | 48 | 54 | 
-| 2022-11-20 | 48 | 54 | 
 

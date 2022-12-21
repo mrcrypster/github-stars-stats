@@ -1,6 +1,6 @@
 # mlc-ai/notebooks - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 96 | 30 | 
 | 2022-12-19 | 96 | 30 | 
 | 2022-12-18 | 96 | 30 | 
 | 2022-12-17 | 96 | 30 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 96 | 30 | 
 | 2022-11-22 | 96 | 30 | 
 | 2022-11-21 | 96 | 30 | 
-| 2022-11-20 | 96 | 30 | 
 

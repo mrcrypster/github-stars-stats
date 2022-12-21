@@ -1,10 +1,10 @@
 # ddgksf2013/M3U8LIST - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 9
 
-★ Stars: 97
+★ Stars: 98
 
 [Open repository](https://github.com/ddgksf2013/M3U8LIST)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 98 | 9 | 
 | 2022-12-19 | 97 | 9 | 
 | 2022-12-18 | 96 | 9 | 
 | 2022-12-17 | 96 | 9 | 

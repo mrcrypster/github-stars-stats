@@ -1,6 +1,6 @@
 # wuxx/icesugar-nano - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 63 | 15 | 
 | 2022-12-19 | 63 | 15 | 
 | 2022-12-18 | 63 | 15 | 
 | 2022-12-17 | 63 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 63 | 15 | 
 | 2022-11-22 | 63 | 15 | 
 | 2022-11-21 | 63 | 15 | 
-| 2022-11-20 | 63 | 15 | 
 

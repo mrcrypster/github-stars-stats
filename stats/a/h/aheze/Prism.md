@@ -1,10 +1,10 @@
 # aheze/Prism - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 25
 
-★ Stars: 696
+★ Stars: 697
 
 [Open repository](https://github.com/aheze/Prism)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 697 | 25 | 
 | 2022-12-19 | 696 | 25 | 
 | 2022-12-18 | 695 | 25 | 
 | 2022-12-17 | 695 | 25 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 684 | 24 | 
 | 2022-11-22 | 684 | 24 | 
 | 2022-11-21 | 684 | 24 | 
-| 2022-11-20 | 682 | 24 | 
 

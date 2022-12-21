@@ -1,10 +1,10 @@
 # Tensegritics/ClojureDart - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 47
 
-★ Stars: 922
+★ Stars: 929
 
 [Open repository](https://github.com/Tensegritics/ClojureDart)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 929 | 47 | 
 | 2022-12-19 | 922 | 47 | 
 | 2022-12-18 | 922 | 47 | 
 | 2022-12-17 | 921 | 47 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 886 | 45 | 
 | 2022-11-22 | 886 | 45 | 
 | 2022-11-21 | 885 | 45 | 
-| 2022-11-20 | 884 | 45 | 
 

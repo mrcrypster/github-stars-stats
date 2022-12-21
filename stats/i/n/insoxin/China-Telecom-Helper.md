@@ -1,10 +1,10 @@
 # insoxin/China-Telecom-Helper - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 232
 
-★ Stars: 821
+★ Stars: 825
 
 [Open repository](https://github.com/insoxin/China-Telecom-Helper)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 825 | 232 | 
 | 2022-12-19 | 821 | 232 | 
 | 2022-12-18 | 818 | 230 | 
 | 2022-12-17 | 818 | 230 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-24 | 782 | 213 | 
 | 2022-11-23 | 782 | 212 | 
 | 2022-11-22 | 781 | 212 | 
-| 2022-11-21 | 780 | 210 | 
 

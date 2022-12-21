@@ -1,6 +1,6 @@
 # JuliaSmoothOptimizers/PDENLPModels.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 17 | 5 | 
 | 2022-12-19 | 17 | 5 | 
 | 2022-12-18 | 17 | 6 | 
 | 2022-12-17 | 16 | 6 | 

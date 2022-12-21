@@ -1,6 +1,6 @@
 # xafero/JNetCall - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 36 | 3 | 
 | 2022-12-19 | 36 | 3 | 
 | 2022-12-18 | 36 | 3 | 
 | 2022-12-17 | 36 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-24 | 34 | 3 | 
 | 2022-11-23 | 34 | 3 | 
 | 2022-11-21 | 34 | 3 | 
-| 2022-11-20 | 34 | 3 | 
 

@@ -1,6 +1,6 @@
 # LingDong-/VisionOSC - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 65 | 1 | 
 | 2022-12-19 | 65 | 1 | 
 | 2022-12-18 | 65 | 1 | 
 | 2022-12-17 | 65 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 65 | 1 | 
 | 2022-11-22 | 65 | 1 | 
 | 2022-11-21 | 65 | 1 | 
-| 2022-11-20 | 65 | 1 | 
 

@@ -1,6 +1,6 @@
 # Qexo/Qexo - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 90
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 289 | 90 | 
 | 2022-12-19 | 289 | 90 | 
 | 2022-12-18 | 288 | 90 | 
 | 2022-12-17 | 287 | 90 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 265 | 86 | 
 | 2022-11-22 | 264 | 87 | 
 | 2022-11-21 | 264 | 86 | 
-| 2022-11-20 | 261 | 85 | 
 

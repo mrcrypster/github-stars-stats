@@ -1,10 +1,10 @@
 # gakonst/ethers-rs - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 362
 
-★ Stars: 1412
+★ Stars: 1418
 
 [Open repository](https://github.com/gakonst/ethers-rs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 1418 | 362 | 
 | 2022-12-19 | 1412 | 362 | 
 | 2022-12-18 | 1410 | 361 | 
 | 2022-12-17 | 1405 | 361 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 1355 | 349 | 
 | 2022-11-22 | 1350 | 348 | 
 | 2022-11-21 | 1349 | 347 | 
-| 2022-11-20 | 1341 | 346 | 
 

@@ -1,10 +1,10 @@
 # SmartToolFactory/Jetpack-Compose-Tutorials - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 102
+☋ Forks: 103
 
-★ Stars: 1218
+★ Stars: 1226
 
 [Open repository](https://github.com/SmartToolFactory/Jetpack-Compose-Tutorials)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 1226 | 103 | 
 | 2022-12-19 | 1218 | 102 | 
 | 2022-12-18 | 1217 | 101 | 
 | 2022-12-17 | 1216 | 100 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 1071 | 87 | 
 | 2022-11-22 | 1070 | 87 | 
 | 2022-11-21 | 1065 | 86 | 
-| 2022-11-20 | 1062 | 86 | 
 

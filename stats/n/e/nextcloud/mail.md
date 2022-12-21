@@ -1,10 +1,10 @@
 # nextcloud/mail - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 212
 
-★ Stars: 683
+★ Stars: 684
 
 [Open repository](https://github.com/nextcloud/mail)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 684 | 212 | 
 | 2022-12-19 | 683 | 212 | 
 | 2022-12-18 | 683 | 212 | 
 | 2022-12-17 | 683 | 212 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 678 | 210 | 
 | 2022-11-22 | 678 | 210 | 
 | 2022-11-21 | 678 | 210 | 
-| 2022-11-20 | 678 | 210 | 
 

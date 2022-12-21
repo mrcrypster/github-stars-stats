@@ -1,6 +1,6 @@
 # appwrite/sdk-generator - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 117
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 169 | 117 | 
 | 2022-12-19 | 169 | 117 | 
 | 2022-12-18 | 169 | 117 | 
 | 2022-12-17 | 169 | 117 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-24 | 168 | 118 | 
 | 2022-11-23 | 168 | 118 | 
 | 2022-11-22 | 167 | 119 | 
-| 2022-11-20 | 166 | 119 | 
 

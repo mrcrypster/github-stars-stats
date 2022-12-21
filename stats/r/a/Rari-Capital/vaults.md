@@ -1,10 +1,10 @@
 # Rari-Capital/vaults - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 65
 
-★ Stars: 243
+★ Stars: 244
 
 [Open repository](https://github.com/Rari-Capital/vaults)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 244 | 65 | 
 | 2022-12-19 | 243 | 65 | 
 | 2022-12-18 | 243 | 65 | 
 | 2022-12-17 | 243 | 65 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 242 | 65 | 
 | 2022-11-22 | 243 | 65 | 
 | 2022-11-21 | 243 | 65 | 
-| 2022-11-20 | 242 | 63 | 
 

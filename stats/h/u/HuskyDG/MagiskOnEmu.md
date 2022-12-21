@@ -1,8 +1,8 @@
 # HuskyDG/MagiskOnEmu - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 101
+☋ Forks: 102
 
 ★ Stars: 298
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 298 | 102 | 
 | 2022-12-19 | 298 | 101 | 
 | 2022-12-18 | 298 | 101 | 
 | 2022-12-17 | 298 | 101 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 296 | 100 | 
 | 2022-11-22 | 296 | 100 | 
 | 2022-11-21 | 295 | 100 | 
-| 2022-11-20 | 295 | 100 | 
 

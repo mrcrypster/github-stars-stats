@@ -1,10 +1,10 @@
 # haskell-hvr/HsYAML-aeson - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 9
 
-★ Stars: 10
+★ Stars: 9
 
 [Open repository](https://github.com/haskell-hvr/HsYAML-aeson)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 9 | 9 | 
 | 2022-12-19 | 10 | 9 | 
 | 2022-12-18 | 10 | 9 | 
 | 2022-12-17 | 10 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 9 | 9 | 
 | 2022-11-22 | 9 | 9 | 
 | 2022-11-21 | 9 | 9 | 
-| 2022-11-20 | 9 | 9 | 
 

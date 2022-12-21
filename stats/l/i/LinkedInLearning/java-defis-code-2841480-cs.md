@@ -1,8 +1,8 @@
 # LinkedInLearning/java-defis-code-2841480-cs - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 13
+☋ Forks: 14
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 2 | 14 | 
 | 2022-12-19 | 2 | 13 | 
 | 2022-12-18 | 2 | 13 | 
 | 2022-12-17 | 2 | 13 | 

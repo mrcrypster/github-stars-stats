@@ -1,8 +1,8 @@
 # snu-sf-class/pp202202-private - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 21
 
-☋ Forks: 6
+☋ Forks: 7
 
 ★ Stars: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 6 | 7 | 
 | 2022-12-19 | 6 | 6 | 
 | 2022-12-18 | 6 | 6 | 
 | 2022-12-17 | 6 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 6 | 6 | 
 | 2022-11-22 | 6 | 6 | 
 | 2022-11-21 | 6 | 6 | 
-| 2022-11-20 | 6 | 6 | 
 

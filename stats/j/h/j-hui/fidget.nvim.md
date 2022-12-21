@@ -1,10 +1,10 @@
 # j-hui/fidget.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 21
 
-☋ Forks: 28
+☋ Forks: 27
 
-★ Stars: 894
+★ Stars: 907
 
 [Open repository](https://github.com/j-hui/fidget.nvim)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 907 | 27 | 
+| 2022-12-20 | 905 | 27 | 
 | 2022-12-19 | 894 | 28 | 
 | 2022-12-18 | 889 | 28 | 
 | 2022-12-17 | 883 | 28 | 
@@ -39,5 +41,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 842 | 28 | 
 | 2022-11-22 | 841 | 28 | 
 | 2022-11-21 | 841 | 28 | 
-| 2022-11-20 | 839 | 28 | 
 

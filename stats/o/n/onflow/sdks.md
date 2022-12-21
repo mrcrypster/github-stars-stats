@@ -1,6 +1,6 @@
 # onflow/sdks - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 5 | 4 | 
 | 2022-12-19 | 5 | 4 | 
 | 2022-12-18 | 5 | 4 | 
 | 2022-12-17 | 5 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 5 | 4 | 
 | 2022-11-22 | 5 | 4 | 
 | 2022-11-21 | 5 | 4 | 
-| 2022-11-20 | 5 | 4 | 
 

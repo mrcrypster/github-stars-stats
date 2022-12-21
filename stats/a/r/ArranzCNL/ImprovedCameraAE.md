@@ -1,6 +1,6 @@
 # ArranzCNL/ImprovedCameraAE - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 57 | 7 | 
 | 2022-12-20 | 57 | 7 | 
 | 2022-12-18 | 57 | 7 | 
 | 2022-12-17 | 57 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-23 | 55 | 7 | 
 | 2022-11-22 | 55 | 7 | 
 | 2022-11-21 | 55 | 7 | 
-| 2022-11-20 | 54 | 7 | 
 

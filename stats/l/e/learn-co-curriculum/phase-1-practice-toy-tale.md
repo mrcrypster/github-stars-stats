@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 20
 
-☋ Forks: 2020
+☋ Forks: 2026
 
-★ Stars: 9
+★ Stars: 8
 
 [Open repository](https://github.com/learn-co-curriculum/phase-1-practice-toy-tale)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-20 | 9 | 2020 | 
+| 2022-12-20 | 8 | 2026 | 
 | 2022-12-19 | 9 | 2000 | 
 | 2022-12-17 | 9 | 1999 | 
 | 2022-12-16 | 9 | 1992 | 
@@ -39,5 +39,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-23 | 8 | 1904 | 
 | 2022-11-22 | 8 | 1904 | 
 | 2022-11-21 | 8 | 1902 | 
-| 2022-11-20 | 8 | 1901 | 
 

@@ -1,6 +1,6 @@
 # philipyoo/holbertonschool-sysadmin_devops - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 119
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 46 | 119 | 
 | 2022-12-19 | 46 | 119 | 
 | 2022-12-18 | 46 | 119 | 
 | 2022-12-17 | 46 | 119 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 44 | 102 | 
 | 2022-11-22 | 44 | 102 | 
 | 2022-11-21 | 44 | 102 | 
-| 2022-11-20 | 44 | 102 | 
 

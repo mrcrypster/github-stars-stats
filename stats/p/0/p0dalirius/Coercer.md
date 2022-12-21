@@ -1,6 +1,6 @@
 # p0dalirius/Coercer - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 104
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 1006 | 104 | 
 | 2022-12-19 | 1006 | 104 | 
 | 2022-12-18 | 1003 | 103 | 
 | 2022-12-17 | 995 | 102 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 753 | 72 | 
 | 2022-11-22 | 750 | 72 | 
 | 2022-11-21 | 744 | 70 | 
-| 2022-11-20 | 743 | 70 | 
 

@@ -1,10 +1,10 @@
 # IntelRealSense/librealsense - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 4548
+☋ Forks: 4547
 
-★ Stars: 6461
+★ Stars: 6464
 
 [Open repository](https://github.com/IntelRealSense/librealsense)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 6464 | 4547 | 
 | 2022-12-19 | 6461 | 4548 | 
 | 2022-12-18 | 6459 | 4547 | 
 | 2022-12-17 | 6457 | 4547 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 6395 | 4516 | 
 | 2022-11-22 | 6392 | 4513 | 
 | 2022-11-21 | 6389 | 4510 | 
-| 2022-11-20 | 6386 | 4508 | 
 

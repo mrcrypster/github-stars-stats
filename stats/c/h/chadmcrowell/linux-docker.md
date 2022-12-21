@@ -1,8 +1,8 @@
 # chadmcrowell/linux-docker - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 50
+☋ Forks: 51
 
 ★ Stars: 88
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 88 | 51 | 
 | 2022-12-19 | 88 | 50 | 
 | 2022-12-18 | 88 | 50 | 
 | 2022-12-17 | 88 | 49 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 80 | 41 | 
 | 2022-11-22 | 80 | 41 | 
 | 2022-11-21 | 80 | 41 | 
-| 2022-11-20 | 80 | 41 | 
 

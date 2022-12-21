@@ -1,6 +1,6 @@
 # innovaccion-virtual/onboarding-github-innovaccion - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 117
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 376 | 117 | 
 | 2022-12-19 | 376 | 117 | 
 | 2022-12-18 | 376 | 117 | 
 | 2022-12-17 | 376 | 117 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-24 | 377 | 117 | 
 | 2022-11-23 | 377 | 117 | 
 | 2022-11-22 | 377 | 117 | 
-| 2022-11-20 | 377 | 117 | 
 

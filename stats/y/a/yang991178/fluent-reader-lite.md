@@ -1,6 +1,6 @@
 # yang991178/fluent-reader-lite - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 645 | 55 | 
 | 2022-12-19 | 645 | 55 | 
 | 2022-12-18 | 644 | 55 | 
 | 2022-12-17 | 644 | 55 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 626 | 53 | 
 | 2022-11-22 | 625 | 53 | 
 | 2022-11-21 | 622 | 53 | 
-| 2022-11-20 | 622 | 53 | 
 

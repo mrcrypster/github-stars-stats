@@ -1,10 +1,10 @@
 # ogxd/wireframe-effect-unity - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 3
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/ogxd/wireframe-effect-unity)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 11 | 3 | 
 | 2022-12-19 | 10 | 3 | 
 | 2022-12-18 | 10 | 3 | 
 | 2022-12-17 | 10 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 10 | 3 | 
 | 2022-11-22 | 10 | 3 | 
 | 2022-11-21 | 10 | 3 | 
-| 2022-11-20 | 10 | 3 | 
 

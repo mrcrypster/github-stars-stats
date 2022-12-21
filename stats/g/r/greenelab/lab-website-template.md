@@ -1,10 +1,10 @@
 # greenelab/lab-website-template - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 144
 
-★ Stars: 131
+★ Stars: 133
 
 [Open repository](https://github.com/greenelab/lab-website-template)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 133 | 144 | 
 | 2022-12-19 | 131 | 144 | 
 | 2022-12-18 | 131 | 144 | 
 | 2022-12-17 | 131 | 144 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 126 | 136 | 
 | 2022-11-22 | 126 | 136 | 
 | 2022-11-21 | 125 | 135 | 
-| 2022-11-20 | 125 | 133 | 
 

@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 20
 
 ☋ Forks: 87
 
-★ Stars: 429
+★ Stars: 430
 
 [Open repository](https://github.com/wiz0u/WTelegramClient)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-20 | 429 | 87 | 
+| 2022-12-20 | 430 | 87 | 
 | 2022-12-19 | 429 | 87 | 
 

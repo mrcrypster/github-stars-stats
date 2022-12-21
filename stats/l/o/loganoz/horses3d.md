@@ -1,6 +1,6 @@
 # loganoz/horses3d - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 36 | 7 | 
 | 2022-12-19 | 36 | 7 | 
 | 2022-12-18 | 36 | 7 | 
 | 2022-12-17 | 36 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 36 | 7 | 
 | 2022-11-22 | 36 | 7 | 
 | 2022-11-21 | 36 | 7 | 
-| 2022-11-20 | 36 | 7 | 
 

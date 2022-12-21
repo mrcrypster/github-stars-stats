@@ -1,10 +1,10 @@
 # mathgames66/mathgames66.github.io - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 55
 
-★ Stars: 28
+★ Stars: 27
 
 [Open repository](https://github.com/mathgames66/mathgames66.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 27 | 55 | 
 | 2022-12-19 | 28 | 55 | 
 | 2022-12-18 | 28 | 55 | 
 | 2022-12-17 | 28 | 55 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 22 | 37 | 
 | 2022-11-22 | 22 | 37 | 
 | 2022-11-21 | 22 | 37 | 
-| 2022-11-20 | 22 | 37 | 
 

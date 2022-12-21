@@ -1,10 +1,10 @@
 # Mofiqul/vscode.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 50
 
-★ Stars: 329
+★ Stars: 331
 
 [Open repository](https://github.com/Mofiqul/vscode.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 331 | 50 | 
 | 2022-12-19 | 329 | 50 | 
 | 2022-12-18 | 329 | 50 | 
 | 2022-12-17 | 329 | 50 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 314 | 47 | 
 | 2022-11-22 | 313 | 46 | 
 | 2022-11-21 | 312 | 46 | 
-| 2022-11-20 | 312 | 45 | 
 

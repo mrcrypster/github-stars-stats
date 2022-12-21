@@ -1,10 +1,10 @@
 # phw/peek - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 296
 
-★ Stars: 9439
+★ Stars: 9438
 
 [Open repository](https://github.com/phw/peek)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 9438 | 296 | 
 | 2022-12-19 | 9439 | 296 | 
 | 2022-12-18 | 9436 | 296 | 
 | 2022-12-17 | 9435 | 296 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 9342 | 293 | 
 | 2022-11-22 | 9341 | 293 | 
 | 2022-11-21 | 9338 | 293 | 
-| 2022-11-20 | 9336 | 293 | 
 

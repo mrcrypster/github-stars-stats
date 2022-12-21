@@ -1,6 +1,6 @@
 # Fate-Grand-Automata/FGA - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 153
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 799 | 153 | 
+| 2022-12-20 | 799 | 153 | 
 | 2022-12-19 | 799 | 153 | 
 | 2022-12-18 | 795 | 152 | 
 | 2022-12-17 | 792 | 152 | 
@@ -39,5 +41,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 775 | 150 | 
 | 2022-11-22 | 775 | 150 | 
 | 2022-11-21 | 775 | 150 | 
-| 2022-11-20 | 775 | 150 | 
 

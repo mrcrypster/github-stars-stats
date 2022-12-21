@@ -1,10 +1,10 @@
 # greko6/xfb2xfb - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 23
+☋ Forks: 22
 
-★ Stars: 228
+★ Stars: 229
 
 [Open repository](https://github.com/greko6/xfb2xfb)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 229 | 22 | 
 | 2022-12-19 | 228 | 23 | 
 | 2022-12-18 | 228 | 23 | 
 | 2022-12-17 | 227 | 23 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 212 | 22 | 
 | 2022-11-22 | 209 | 22 | 
 | 2022-11-21 | 205 | 22 | 
-| 2022-11-20 | 197 | 20 | 
 

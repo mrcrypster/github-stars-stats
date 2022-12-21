@@ -1,6 +1,6 @@
 # ShaunLawrie/PwshPaint - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 176 | 4 | 
 | 2022-12-19 | 176 | 4 | 
 | 2022-12-18 | 176 | 4 | 
 | 2022-12-17 | 176 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 171 | 4 | 
 | 2022-11-22 | 171 | 4 | 
 | 2022-11-21 | 171 | 4 | 
-| 2022-11-20 | 171 | 4 | 
 

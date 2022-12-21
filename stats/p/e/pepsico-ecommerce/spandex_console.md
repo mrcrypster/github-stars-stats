@@ -1,6 +1,6 @@
 # pepsico-ecommerce/spandex_console - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 0
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 10 | - | 
+| 2022-12-20 | 10 | - | 
 | 2022-12-19 | 10 | - | 
 | 2022-12-18 | 10 | - | 
 | 2022-12-17 | 10 | - | 
@@ -41,5 +43,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 10 | - | 
 | 2022-11-22 | 10 | - | 
 | 2022-11-21 | 10 | - | 
-| 2022-11-20 | 10 | - | 
 

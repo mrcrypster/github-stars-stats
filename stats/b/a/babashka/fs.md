@@ -1,10 +1,10 @@
 # babashka/fs - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 27
 
-★ Stars: 111
+★ Stars: 112
 
 [Open repository](https://github.com/babashka/fs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 112 | 27 | 
 | 2022-12-19 | 111 | 27 | 
 | 2022-12-18 | 111 | 27 | 
 | 2022-12-17 | 111 | 27 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 102 | 25 | 
 | 2022-11-22 | 102 | 25 | 
 | 2022-11-21 | 102 | 26 | 
-| 2022-11-20 | 102 | 26 | 
 

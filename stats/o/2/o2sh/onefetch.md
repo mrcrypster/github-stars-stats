@@ -1,8 +1,8 @@
 # o2sh/onefetch - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 200
+☋ Forks: 201
 
 ★ Stars: 6172
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 6172 | 201 | 
 | 2022-12-19 | 6172 | 200 | 
 | 2022-12-18 | 6171 | 200 | 
 | 2022-12-17 | 6173 | 200 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 6097 | 201 | 
 | 2022-11-22 | 6089 | 201 | 
 | 2022-11-21 | 6083 | 201 | 
-| 2022-11-20 | 6070 | 200 | 
 

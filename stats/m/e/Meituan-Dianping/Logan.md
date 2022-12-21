@@ -1,6 +1,6 @@
 # Meituan-Dianping/Logan - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 758
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 4705 | 758 | 
 | 2022-12-19 | 4705 | 758 | 
 | 2022-12-18 | 4704 | 758 | 
 | 2022-12-17 | 4704 | 758 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 4668 | 754 | 
 | 2022-11-22 | 4663 | 753 | 
 | 2022-11-21 | 4660 | 752 | 
-| 2022-11-20 | 4658 | 752 | 
 

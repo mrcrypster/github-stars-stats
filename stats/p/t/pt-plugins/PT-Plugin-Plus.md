@@ -1,10 +1,10 @@
 # pt-plugins/PT-Plugin-Plus - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 620
+☋ Forks: 626
 
-★ Stars: 4243
+★ Stars: 4248
 
 [Open repository](https://github.com/pt-plugins/PT-Plugin-Plus)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 4248 | 626 | 
 | 2022-12-19 | 4243 | 620 | 
 | 2022-12-18 | 4238 | 619 | 
 | 2022-12-17 | 4231 | 618 | 

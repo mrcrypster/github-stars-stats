@@ -1,10 +1,10 @@
 # Ada-Rapporteur-Group/User-Community-Input - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 1
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/Ada-Rapporteur-Group/User-Community-Input)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 16 | 1 | 
 | 2022-12-19 | 15 | 1 | 
 | 2022-12-18 | 15 | 1 | 
 | 2022-12-17 | 15 | 1 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 15 | 1 | 
 | 2022-11-22 | 15 | 1 | 
 | 2022-11-21 | 15 | 1 | 
-| 2022-11-20 | 15 | 1 | 
 

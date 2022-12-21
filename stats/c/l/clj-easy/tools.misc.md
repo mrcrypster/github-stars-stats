@@ -1,6 +1,6 @@
 # clj-easy/tools.misc - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 28 | 1 | 
 | 2022-12-20 | 28 | 1 | 
 | 2022-12-18 | 28 | 1 | 
 | 2022-12-17 | 28 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-23 | 28 | 1 | 
 | 2022-11-22 | 28 | 1 | 
 | 2022-11-21 | 28 | 1 | 
-| 2022-11-20 | 28 | 1 | 
 

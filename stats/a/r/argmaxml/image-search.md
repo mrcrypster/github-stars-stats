@@ -1,10 +1,10 @@
 # argmaxml/image-search - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 21
 
-☋ Forks: 19
+☋ Forks: 20
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/argmaxml/image-search)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 5 | 20 | 
+| 2022-12-20 | 4 | 20 | 
 | 2022-12-19 | 4 | 19 | 
 | 2022-12-18 | 3 | 16 | 
 | 2022-12-17 | 3 | 14 | 

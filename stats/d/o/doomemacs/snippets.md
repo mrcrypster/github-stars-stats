@@ -1,10 +1,10 @@
 # doomemacs/snippets - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 79
 
-★ Stars: 240
+★ Stars: 241
 
 [Open repository](https://github.com/doomemacs/snippets)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 241 | 79 | 
 | 2022-12-19 | 240 | 79 | 
 | 2022-12-18 | 240 | 79 | 
 | 2022-12-17 | 240 | 79 | 

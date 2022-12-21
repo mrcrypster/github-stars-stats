@@ -1,10 +1,10 @@
 # MonoGame/MonoGame - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 2665
 
-★ Stars: 9028
+★ Stars: 9030
 
 [Open repository](https://github.com/MonoGame/MonoGame)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 9030 | 2665 | 
 | 2022-12-19 | 9028 | 2665 | 
 | 2022-12-18 | 9028 | 2664 | 
 | 2022-12-17 | 9028 | 2663 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 8943 | 2654 | 
 | 2022-11-22 | 8935 | 2651 | 
 | 2022-11-21 | 8930 | 2651 | 
-| 2022-11-20 | 8922 | 2654 | 
 

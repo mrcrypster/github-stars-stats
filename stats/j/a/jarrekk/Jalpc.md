@@ -1,10 +1,10 @@
 # jarrekk/Jalpc - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 1096
 
-★ Stars: 959
+★ Stars: 958
 
 [Open repository](https://github.com/jarrekk/Jalpc)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 958 | 1096 | 
 | 2022-12-19 | 959 | 1096 | 
 | 2022-12-18 | 959 | 1095 | 
 | 2022-12-17 | 959 | 1095 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-24 | 959 | 1095 | 
 | 2022-11-23 | 958 | 1095 | 
 | 2022-11-22 | 958 | 1095 | 
-| 2022-11-20 | 958 | 1095 | 
 

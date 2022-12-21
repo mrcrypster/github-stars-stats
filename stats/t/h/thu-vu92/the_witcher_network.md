@@ -1,10 +1,10 @@
 # thu-vu92/the_witcher_network - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 29
 
-★ Stars: 80
+★ Stars: 81
 
 [Open repository](https://github.com/thu-vu92/the_witcher_network)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 81 | 29 | 
 | 2022-12-19 | 80 | 29 | 
 | 2022-12-18 | 80 | 29 | 
 | 2022-12-17 | 80 | 29 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 76 | 24 | 
 | 2022-11-22 | 76 | 24 | 
 | 2022-11-21 | 76 | 24 | 
-| 2022-11-20 | 76 | 24 | 
 

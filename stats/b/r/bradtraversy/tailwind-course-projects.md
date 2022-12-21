@@ -1,10 +1,10 @@
 # bradtraversy/tailwind-course-projects - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 91
+☋ Forks: 92
 
-★ Stars: 176
+★ Stars: 175
 
 [Open repository](https://github.com/bradtraversy/tailwind-course-projects)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 175 | 92 | 
 | 2022-12-19 | 176 | 91 | 
 | 2022-12-18 | 174 | 89 | 
 | 2022-12-17 | 174 | 89 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 159 | 78 | 
 | 2022-11-22 | 157 | 77 | 
 | 2022-11-21 | 156 | 77 | 
-| 2022-11-20 | 155 | 74 | 
 

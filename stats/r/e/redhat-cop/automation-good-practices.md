@@ -1,10 +1,10 @@
 # redhat-cop/automation-good-practices - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 37
 
-★ Stars: 127
+★ Stars: 128
 
 [Open repository](https://github.com/redhat-cop/automation-good-practices)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 128 | 37 | 
 | 2022-12-19 | 127 | 37 | 
 | 2022-12-18 | 127 | 37 | 
 | 2022-12-17 | 127 | 37 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 119 | 37 | 
 | 2022-11-22 | 119 | 37 | 
 | 2022-11-21 | 119 | 37 | 
-| 2022-11-20 | 119 | 36 | 
 

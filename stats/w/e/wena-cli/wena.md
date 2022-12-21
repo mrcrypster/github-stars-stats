@@ -1,8 +1,8 @@
 # wena-cli/wena - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 8
+☋ Forks: 7
 
 ★ Stars: 251
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 251 | 7 | 
 | 2022-12-19 | 251 | 8 | 
 | 2022-12-18 | 251 | 8 | 
 | 2022-12-17 | 251 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 250 | 7 | 
 | 2022-11-22 | 250 | 7 | 
 | 2022-11-21 | 250 | 7 | 
-| 2022-11-20 | 250 | 7 | 
 

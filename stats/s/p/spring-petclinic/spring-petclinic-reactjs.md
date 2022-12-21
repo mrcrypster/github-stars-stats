@@ -1,10 +1,10 @@
 # spring-petclinic/spring-petclinic-reactjs - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 231
 
-★ Stars: 235
+★ Stars: 236
 
 [Open repository](https://github.com/spring-petclinic/spring-petclinic-reactjs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 236 | 231 | 
 | 2022-12-19 | 235 | 231 | 
 | 2022-12-18 | 235 | 231 | 
 | 2022-12-17 | 235 | 230 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 234 | 229 | 
 | 2022-11-22 | 233 | 229 | 
 | 2022-11-21 | 233 | 229 | 
-| 2022-11-20 | 232 | 229 | 
 

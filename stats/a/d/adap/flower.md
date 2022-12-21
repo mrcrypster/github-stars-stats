@@ -1,8 +1,8 @@
 # adap/flower - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 390
+☋ Forks: 392
 
 ★ Stars: 1801
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 1801 | 392 | 
 | 2022-12-19 | 1801 | 390 | 
 | 2022-12-18 | 1799 | 390 | 
 | 2022-12-17 | 1798 | 390 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 1758 | 371 | 
 | 2022-11-22 | 1756 | 371 | 
 | 2022-11-21 | 1755 | 371 | 
-| 2022-11-20 | 1754 | 370 | 
 

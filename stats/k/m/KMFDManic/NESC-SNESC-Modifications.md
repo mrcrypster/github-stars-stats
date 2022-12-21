@@ -1,10 +1,10 @@
 # KMFDManic/NESC-SNESC-Modifications - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 34
 
-★ Stars: 261
+★ Stars: 260
 
 [Open repository](https://github.com/KMFDManic/NESC-SNESC-Modifications)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 260 | 34 | 
 | 2022-12-19 | 261 | 34 | 
 | 2022-12-18 | 261 | 34 | 
 | 2022-12-17 | 261 | 34 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 261 | 34 | 
 | 2022-11-22 | 261 | 34 | 
 | 2022-11-21 | 261 | 34 | 
-| 2022-11-20 | 261 | 34 | 
 

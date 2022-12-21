@@ -1,10 +1,10 @@
 # input-output-hk/ouroboros-leios - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 2
 
-★ Stars: 2
+★ Stars: 1
 
 [Open repository](https://github.com/input-output-hk/ouroboros-leios)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 1 | 2 | 
 | 2022-12-19 | 2 | 2 | 
 | 2022-12-18 | 2 | 2 | 
 | 2022-12-17 | 2 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 1 | - | 
 | 2022-11-22 | 1 | - | 
 | 2022-11-21 | 1 | - | 
-| 2022-11-20 | - | - | 
 

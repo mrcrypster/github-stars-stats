@@ -1,6 +1,6 @@
 # Instadapp/dsa-connectors - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 59 | 65 | 
 | 2022-12-19 | 59 | 65 | 
 | 2022-12-18 | 59 | 65 | 
 | 2022-12-17 | 59 | 65 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 58 | 65 | 
 | 2022-11-22 | 58 | 65 | 
 | 2022-11-21 | 58 | 64 | 
-| 2022-11-20 | 58 | 64 | 
 

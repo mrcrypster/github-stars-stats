@@ -1,6 +1,6 @@
 # ethereum/yellowpaper - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 486
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 1474 | 486 | 
 | 2022-12-19 | 1474 | 486 | 
 | 2022-12-18 | 1473 | 485 | 
 | 2022-12-17 | 1473 | 485 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-24 | 1466 | 482 | 
 | 2022-11-22 | 1466 | 482 | 
 | 2022-11-21 | 1466 | 481 | 
-| 2022-11-20 | 1466 | 481 | 
 

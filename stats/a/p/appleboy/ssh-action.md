@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 20
 
 ☋ Forks: 406
 
-★ Stars: 2796
+★ Stars: 2798
 
 [Open repository](https://github.com/appleboy/ssh-action)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-20 | 2796 | 406 | 
+| 2022-12-20 | 2798 | 406 | 
 | 2022-12-19 | 2794 | 406 | 
 | 2022-12-18 | 2792 | 405 | 
 | 2022-12-17 | 2790 | 402 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-23 | 2723 | 376 | 
 | 2022-11-22 | 2723 | 375 | 
 | 2022-11-21 | 2720 | 375 | 
-| 2022-11-20 | 2715 | 375 | 
 

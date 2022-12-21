@@ -1,6 +1,6 @@
 # spotinst/terraform-spotinst-ocean-controller - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 10 | 11 | 
 | 2022-12-20 | 10 | 11 | 
 | 2022-12-18 | 10 | 11 | 
 | 2022-12-17 | 10 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-23 | 10 | 11 | 
 | 2022-11-22 | 10 | 11 | 
 | 2022-11-21 | 10 | 11 | 
-| 2022-11-20 | 10 | 11 | 
 

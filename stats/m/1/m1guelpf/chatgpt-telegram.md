@@ -1,10 +1,10 @@
 # m1guelpf/chatgpt-telegram - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 191
+☋ Forks: 192
 
-★ Stars: 1904
+★ Stars: 1919
 
 [Open repository](https://github.com/m1guelpf/chatgpt-telegram)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 1919 | 192 | 
 | 2022-12-19 | 1904 | 191 | 
 | 2022-12-18 | 1877 | 187 | 
 | 2022-12-17 | 1852 | 183 | 

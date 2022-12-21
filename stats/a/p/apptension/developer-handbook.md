@@ -1,10 +1,10 @@
 # apptension/developer-handbook - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 508
+☋ Forks: 510
 
-★ Stars: 4431
+★ Stars: 4451
 
 [Open repository](https://github.com/apptension/developer-handbook)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 4451 | 510 | 
 | 2022-12-19 | 4431 | 508 | 
 | 2022-12-18 | 4415 | 506 | 
 | 2022-12-17 | 4401 | 506 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 4260 | 490 | 
 | 2022-11-22 | 4257 | 489 | 
 | 2022-11-21 | 4255 | 486 | 
-| 2022-11-20 | 4247 | 485 | 
 

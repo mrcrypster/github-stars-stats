@@ -1,6 +1,6 @@
 # mrash/fwknop - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 196
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 876 | 196 | 
 | 2022-12-19 | 876 | 196 | 
 | 2022-12-18 | 875 | 196 | 
 | 2022-12-17 | 875 | 196 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 871 | 194 | 
 | 2022-11-22 | 871 | 194 | 
 | 2022-11-21 | 871 | 194 | 
-| 2022-11-20 | 871 | 193 | 
 

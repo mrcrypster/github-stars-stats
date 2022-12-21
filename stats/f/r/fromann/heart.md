@@ -1,6 +1,6 @@
 # fromann/heart - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 34 | 59 | 
 | 2022-12-19 | 34 | 59 | 
 | 2022-12-18 | 34 | 59 | 
 | 2022-12-17 | 34 | 59 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 31 | 50 | 
 | 2022-11-22 | 31 | 48 | 
 | 2022-11-21 | 30 | 45 | 
-| 2022-11-20 | 30 | 44 | 
 

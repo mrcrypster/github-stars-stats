@@ -1,6 +1,6 @@
 # amitastreait/Salesforce-Short-Hands - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 64
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 35 | 64 | 
 | 2022-12-19 | 35 | 64 | 
 | 2022-12-18 | 35 | 63 | 
 | 2022-12-17 | 35 | 63 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-24 | 34 | 63 | 
 | 2022-11-23 | 34 | 63 | 
 | 2022-11-22 | 34 | 63 | 
-| 2022-11-21 | 34 | 63 | 
 

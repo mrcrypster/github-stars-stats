@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 20
 
 ☋ Forks: 135
 
-★ Stars: 557
+★ Stars: 558
 
 [Open repository](https://github.com/SonicCloudOrg/sonic-client-web)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-20 | 557 | 135 | 
+| 2022-12-20 | 558 | 135 | 
 | 2022-12-19 | 557 | 135 | 
 | 2022-12-18 | 551 | 134 | 
 | 2022-12-17 | 547 | 134 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-23 | 544 | 130 | 
 | 2022-11-22 | 544 | 130 | 
 | 2022-11-21 | 543 | 129 | 
-| 2022-11-20 | 543 | 129 | 
 

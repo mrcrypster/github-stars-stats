@@ -1,10 +1,10 @@
 # lkarlslund/ldapnomnom - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 50
+☋ Forks: 51
 
-★ Stars: 587
+★ Stars: 589
 
 [Open repository](https://github.com/lkarlslund/ldapnomnom)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 589 | 51 | 
 | 2022-12-19 | 587 | 50 | 
 | 2022-12-18 | 587 | 49 | 
 | 2022-12-17 | 587 | 49 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 573 | 48 | 
 | 2022-11-22 | 572 | 48 | 
 | 2022-11-21 | 568 | 48 | 
-| 2022-11-20 | 567 | 48 | 
 

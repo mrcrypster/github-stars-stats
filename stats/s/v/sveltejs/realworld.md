@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 20
 
-☋ Forks: 318
+☋ Forks: 317
 
-★ Stars: 1745
+★ Stars: 1748
 
 [Open repository](https://github.com/sveltejs/realworld)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-20 | 1745 | 318 | 
+| 2022-12-20 | 1748 | 317 | 
 | 2022-12-19 | 1745 | 318 | 
 | 2022-12-18 | 1744 | 317 | 
 | 2022-12-17 | 1739 | 317 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-23 | 1714 | 312 | 
 | 2022-11-22 | 1713 | 312 | 
 | 2022-11-21 | 1712 | 312 | 
-| 2022-11-20 | 1713 | 311 | 
 

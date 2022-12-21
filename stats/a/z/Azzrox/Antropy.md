@@ -1,10 +1,10 @@
 # Azzrox/Antropy - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 5
 
-★ Stars: 2
+★ Stars: 1
 
 [Open repository](https://github.com/Azzrox/Antropy)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 1 | 5 | 
 | 2022-12-19 | 2 | 5 | 
 | 2022-12-18 | 2 | 5 | 
 | 2022-12-17 | 2 | 5 | 

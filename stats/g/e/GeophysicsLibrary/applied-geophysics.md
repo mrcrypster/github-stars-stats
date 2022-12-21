@@ -1,10 +1,10 @@
 # GeophysicsLibrary/applied-geophysics - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 0
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/GeophysicsLibrary/applied-geophysics)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 6 | - | 
 | 2022-12-19 | 5 | - | 
 | 2022-12-18 | 5 | - | 
 | 2022-12-17 | 5 | - | 

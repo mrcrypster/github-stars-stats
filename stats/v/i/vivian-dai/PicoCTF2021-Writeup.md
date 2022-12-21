@@ -1,6 +1,6 @@
 # vivian-dai/PicoCTF2021-Writeup - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 96 | 52 | 
 | 2022-12-19 | 96 | 52 | 
 | 2022-12-18 | 96 | 52 | 
 | 2022-12-17 | 96 | 52 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 94 | 52 | 
 | 2022-11-22 | 94 | 52 | 
 | 2022-11-21 | 94 | 52 | 
-| 2022-11-20 | 94 | 52 | 
 

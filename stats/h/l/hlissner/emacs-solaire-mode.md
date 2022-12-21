@@ -1,10 +1,10 @@
 # hlissner/emacs-solaire-mode - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 10
 
-★ Stars: 238
+★ Stars: 239
 
 [Open repository](https://github.com/hlissner/emacs-solaire-mode)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 239 | 10 | 
 | 2022-12-19 | 238 | 10 | 
 | 2022-12-18 | 238 | 10 | 
 | 2022-12-17 | 238 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 237 | 10 | 
 | 2022-11-22 | 236 | 10 | 
 | 2022-11-21 | 235 | 10 | 
-| 2022-11-20 | 235 | 10 | 
 

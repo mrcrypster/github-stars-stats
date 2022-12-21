@@ -1,10 +1,10 @@
 # ELS-RD/kernl - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 34
 
-★ Stars: 841
+★ Stars: 843
 
 [Open repository](https://github.com/ELS-RD/kernl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 843 | 34 | 
 | 2022-12-19 | 841 | 34 | 
 | 2022-12-18 | 839 | 34 | 
 | 2022-12-17 | 839 | 34 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 803 | 33 | 
 | 2022-11-22 | 802 | 33 | 
 | 2022-11-21 | 797 | 32 | 
-| 2022-11-20 | 797 | 32 | 
 

@@ -1,10 +1,10 @@
 # terraform-aws-modules/terraform-aws-alb - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 21
 
-☋ Forks: 549
+☋ Forks: 550
 
-★ Stars: 363
+★ Stars: 362
 
 [Open repository](https://github.com/terraform-aws-modules/terraform-aws-alb)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 362 | 550 | 
+| 2022-12-20 | 362 | 550 | 
 | 2022-12-19 | 363 | 549 | 
 | 2022-12-18 | 363 | 549 | 
 | 2022-12-17 | 363 | 549 | 
@@ -41,5 +43,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 359 | 539 | 
 | 2022-11-22 | 359 | 536 | 
 | 2022-11-21 | 359 | 536 | 
-| 2022-11-20 | 359 | 536 | 
 

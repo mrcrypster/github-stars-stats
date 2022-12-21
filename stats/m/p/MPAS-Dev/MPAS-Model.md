@@ -1,6 +1,6 @@
 # MPAS-Dev/MPAS-Model - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 255
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 181 | 255 | 
 | 2022-12-20 | 181 | 255 | 
 | 2022-12-19 | 181 | 255 | 
 | 2022-12-18 | 181 | 255 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-23 | 180 | 255 | 
 | 2022-11-22 | 180 | 255 | 
 | 2022-11-21 | 179 | 255 | 
-| 2022-11-20 | 179 | 255 | 
 

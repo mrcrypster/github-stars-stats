@@ -1,6 +1,6 @@
 # senatroxx/laravel-be-topup - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 46 | 14 | 
 | 2022-12-19 | 46 | 14 | 
 | 2022-12-18 | 46 | 14 | 
 | 2022-12-17 | 46 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 43 | 13 | 
 | 2022-11-22 | 43 | 13 | 
 | 2022-11-21 | 43 | 12 | 
-| 2022-11-20 | 43 | 12 | 
 

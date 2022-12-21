@@ -1,6 +1,6 @@
 # qianjiaqiang/VENAS - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 11 | 7 | 
 | 2022-12-19 | 11 | 7 | 
 | 2022-12-18 | 11 | 7 | 
 | 2022-12-17 | 11 | 7 | 

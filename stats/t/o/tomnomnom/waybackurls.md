@@ -1,6 +1,6 @@
 # tomnomnom/waybackurls - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 351
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 2279 | 351 | 
 | 2022-12-19 | 2279 | 351 | 
 | 2022-12-18 | 2278 | 352 | 
 | 2022-12-17 | 2275 | 352 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 2234 | 347 | 
 | 2022-11-22 | 2233 | 347 | 
 | 2022-11-21 | 2232 | 347 | 
-| 2022-11-20 | 2232 | 347 | 
 

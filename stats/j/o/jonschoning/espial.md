@@ -1,10 +1,10 @@
 # jonschoning/espial - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 20
 
-★ Stars: 583
+★ Stars: 584
 
 [Open repository](https://github.com/jonschoning/espial)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 584 | 20 | 
 | 2022-12-19 | 583 | 20 | 
 | 2022-12-18 | 582 | 20 | 
 | 2022-12-17 | 582 | 20 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 578 | 20 | 
 | 2022-11-22 | 578 | 20 | 
 | 2022-11-21 | 578 | 20 | 
-| 2022-11-20 | 578 | 20 | 
 

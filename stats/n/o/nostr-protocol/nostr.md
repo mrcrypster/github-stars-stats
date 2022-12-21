@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 20
 
-☋ Forks: 79
+☋ Forks: 83
 
-★ Stars: 2778
+★ Stars: 2958
 
 [Open repository](https://github.com/nostr-protocol/nostr)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-20 | 2778 | 79 | 
+| 2022-12-20 | 2958 | 83 | 
 | 2022-12-19 | 2749 | 79 | 
 | 2022-12-18 | 2443 | 72 | 
 | 2022-12-17 | 2214 | 69 | 

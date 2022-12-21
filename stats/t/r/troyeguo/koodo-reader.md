@@ -1,10 +1,10 @@
 # troyeguo/koodo-reader - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 734
+☋ Forks: 735
 
-★ Stars: 8257
+★ Stars: 8281
 
 [Open repository](https://github.com/troyeguo/koodo-reader)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 8281 | 735 | 
 | 2022-12-19 | 8257 | 734 | 
 | 2022-12-18 | 8241 | 734 | 
 | 2022-12-17 | 8230 | 733 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 7950 | 712 | 
 | 2022-11-22 | 7937 | 711 | 
 | 2022-11-21 | 7918 | 710 | 
-| 2022-11-20 | 7903 | 705 | 
 

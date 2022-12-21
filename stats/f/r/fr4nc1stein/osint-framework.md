@@ -1,6 +1,6 @@
 # fr4nc1stein/osint-framework - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 120 | 24 | 
 | 2022-12-19 | 120 | 24 | 
 | 2022-12-18 | 120 | 24 | 
 | 2022-12-17 | 120 | 24 | 

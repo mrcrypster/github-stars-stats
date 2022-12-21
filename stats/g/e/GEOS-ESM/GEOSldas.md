@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 20
 
 ☋ Forks: 8
 
-★ Stars: 10
+★ Stars: 9
 
 [Open repository](https://github.com/GEOS-ESM/GEOSldas)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-20 | 10 | 8 | 
+| 2022-12-20 | 9 | 8 | 
 | 2022-12-19 | 10 | 8 | 
 | 2022-12-18 | 10 | 8 | 
 | 2022-12-17 | 10 | 8 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-23 | 9 | 7 | 
 | 2022-11-22 | 9 | 7 | 
 | 2022-11-21 | 9 | 7 | 
-| 2022-11-20 | 9 | 7 | 
 

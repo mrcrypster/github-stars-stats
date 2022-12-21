@@ -1,6 +1,6 @@
 # ninakali/chip_scavenger - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 137 | 3 | 
 | 2022-12-19 | 137 | 3 | 
 | 2022-12-18 | 137 | 3 | 
 | 2022-12-17 | 137 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 132 | 3 | 
 | 2022-11-22 | 131 | 3 | 
 | 2022-11-21 | 130 | 3 | 
-| 2022-11-20 | 128 | 3 | 
 

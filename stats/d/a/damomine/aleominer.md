@@ -1,8 +1,8 @@
 # damomine/aleominer - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 13
+☋ Forks: 14
 
 ★ Stars: 35
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 35 | 14 | 
 | 2022-12-19 | 35 | 13 | 
 | 2022-12-18 | 33 | 13 | 
 | 2022-12-17 | 33 | 13 | 

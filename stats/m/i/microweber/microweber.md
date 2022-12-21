@@ -1,6 +1,6 @@
 # microweber/microweber - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 760
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 2558 | 760 | 
 | 2022-12-19 | 2558 | 760 | 
 | 2022-12-18 | 2556 | 760 | 
 | 2022-12-17 | 2556 | 760 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 2540 | 756 | 
 | 2022-11-22 | 2537 | 756 | 
 | 2022-11-21 | 2535 | 755 | 
-| 2022-11-20 | 2535 | 755 | 
 

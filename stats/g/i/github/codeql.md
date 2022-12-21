@@ -1,10 +1,10 @@
 # github/codeql - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 1223
+☋ Forks: 1227
 
-★ Stars: 5524
+★ Stars: 5525
 
 [Open repository](https://github.com/github/codeql)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 5525 | 1227 | 
 | 2022-12-19 | 5524 | 1223 | 
 | 2022-12-18 | 5522 | 1221 | 
 | 2022-12-17 | 5519 | 1221 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 5409 | 1199 | 
 | 2022-11-22 | 5405 | 1199 | 
 | 2022-11-21 | 5402 | 1197 | 
-| 2022-11-20 | 5401 | 1196 | 
 

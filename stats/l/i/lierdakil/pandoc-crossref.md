@@ -1,6 +1,6 @@
 # lierdakil/pandoc-crossref - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 746 | 68 | 
 | 2022-12-19 | 746 | 68 | 
 | 2022-12-18 | 746 | 68 | 
 | 2022-12-17 | 746 | 68 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 739 | 68 | 
 | 2022-11-22 | 739 | 68 | 
 | 2022-11-21 | 737 | 68 | 
-| 2022-11-20 | 736 | 68 | 
 

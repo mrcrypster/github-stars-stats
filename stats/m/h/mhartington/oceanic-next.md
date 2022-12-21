@@ -1,10 +1,10 @@
 # mhartington/oceanic-next - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 139
 
-★ Stars: 1042
+★ Stars: 1043
 
 [Open repository](https://github.com/mhartington/oceanic-next)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 1043 | 139 | 
 | 2022-12-19 | 1042 | 139 | 
 | 2022-12-18 | 1042 | 139 | 
 | 2022-12-17 | 1042 | 139 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 1039 | 138 | 
 | 2022-11-22 | 1039 | 138 | 
 | 2022-11-21 | 1039 | 138 | 
-| 2022-11-20 | 1039 | 138 | 
 

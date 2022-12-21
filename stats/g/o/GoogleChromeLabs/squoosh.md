@@ -1,10 +1,10 @@
 # GoogleChromeLabs/squoosh - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 1243
+☋ Forks: 1242
 
-★ Stars: 18025
+★ Stars: 18035
 
 [Open repository](https://github.com/GoogleChromeLabs/squoosh)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 18035 | 1242 | 
 | 2022-12-19 | 18025 | 1243 | 
 | 2022-12-18 | 18019 | 1243 | 
 | 2022-12-17 | 18015 | 1243 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 17856 | 1226 | 
 | 2022-11-22 | 17850 | 1223 | 
 | 2022-11-21 | 17842 | 1221 | 
-| 2022-11-20 | 17837 | 1220 | 
 

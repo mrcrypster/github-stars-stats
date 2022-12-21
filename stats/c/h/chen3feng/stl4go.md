@@ -1,10 +1,10 @@
 # chen3feng/stl4go - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 34
 
-★ Stars: 189
+★ Stars: 190
 
 [Open repository](https://github.com/chen3feng/stl4go)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 190 | 34 | 
 | 2022-12-19 | 189 | 34 | 
 | 2022-12-18 | 189 | 34 | 
 | 2022-12-17 | 189 | 34 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 185 | 33 | 
 | 2022-11-22 | 185 | 33 | 
 | 2022-11-21 | 184 | 33 | 
-| 2022-11-20 | 184 | 33 | 
 

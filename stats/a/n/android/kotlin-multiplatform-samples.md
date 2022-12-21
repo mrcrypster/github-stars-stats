@@ -1,8 +1,8 @@
 # android/kotlin-multiplatform-samples - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 14
+☋ Forks: 13
 
 ★ Stars: 318
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 318 | 13 | 
 | 2022-12-19 | 318 | 14 | 
 | 2022-12-18 | 318 | 14 | 
 | 2022-12-17 | 318 | 14 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 293 | 13 | 
 | 2022-11-22 | 291 | 12 | 
 | 2022-11-21 | 290 | 12 | 
-| 2022-11-20 | 290 | 12 | 
 

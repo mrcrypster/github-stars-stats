@@ -1,10 +1,10 @@
 # sourcegraph/sourcegraph - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 862
 
-★ Stars: 7167
+★ Stars: 7170
 
 [Open repository](https://github.com/sourcegraph/sourcegraph)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 7170 | 862 | 
 | 2022-12-19 | 7167 | 862 | 
 | 2022-12-18 | 7166 | 862 | 
 | 2022-12-17 | 7165 | 862 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-24 | 7125 | 864 | 
 | 2022-11-23 | 7125 | 864 | 
 | 2022-11-22 | 7119 | 864 | 
-| 2022-11-21 | 7114 | 864 | 
 

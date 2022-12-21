@@ -1,6 +1,6 @@
 # Yashkapure06/Blogging-Website - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 10 | 12 | 
 | 2022-12-19 | 10 | 12 | 
 | 2022-12-18 | 10 | 12 | 
 | 2022-12-17 | 10 | 11 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 9 | 11 | 
 | 2022-11-22 | 9 | 11 | 
 | 2022-11-21 | 9 | 11 | 
-| 2022-11-20 | 9 | 11 | 
 

@@ -1,6 +1,6 @@
 # omegaup/ofmi-archive - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 2 | 1 | 
 | 2022-12-19 | 2 | 1 | 
 | 2022-12-18 | 2 | 1 | 
 | 2022-12-17 | 2 | 1 | 

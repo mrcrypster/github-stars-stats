@@ -1,6 +1,6 @@
 # p4nic4ttack/doom-flipper-zero - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 160 | 3 | 
 | 2022-12-19 | 160 | 3 | 
 | 2022-12-18 | 159 | 3 | 
 | 2022-12-17 | 159 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-24 | 141 | 2 | 
 | 2022-11-23 | 141 | 2 | 
 | 2022-11-22 | 140 | 2 | 
-| 2022-11-21 | 139 | 2 | 
 

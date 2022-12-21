@@ -1,6 +1,6 @@
 # servetgulnaroglu/cube.c - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 77
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 218 | 77 | 
 | 2022-12-19 | 218 | 77 | 
 | 2022-12-18 | 218 | 76 | 
 | 2022-12-17 | 218 | 76 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 205 | 65 | 
 | 2022-11-22 | 202 | 66 | 
 | 2022-11-21 | 198 | 66 | 
-| 2022-11-20 | 197 | 66 | 
 

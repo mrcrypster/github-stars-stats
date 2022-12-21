@@ -1,6 +1,6 @@
 # vlakhani28/Cyber-Security-Resources - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 167 | 40 | 
 | 2022-12-19 | 167 | 40 | 
 | 2022-12-18 | 167 | 40 | 
 | 2022-12-17 | 167 | 40 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 163 | 40 | 
 | 2022-11-22 | 163 | 40 | 
 | 2022-11-21 | 163 | 40 | 
-| 2022-11-20 | 163 | 40 | 
 

@@ -1,10 +1,10 @@
 # kaiware007/UnityHexTilingShader - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 2
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/kaiware007/UnityHexTilingShader)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 29 | 2 | 
 | 2022-12-19 | 28 | 2 | 
 | 2022-12-18 | 28 | 2 | 
 | 2022-12-17 | 28 | 2 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 28 | 1 | 
 | 2022-11-22 | 28 | 1 | 
 | 2022-11-21 | 28 | 1 | 
-| 2022-11-20 | 28 | 1 | 
 

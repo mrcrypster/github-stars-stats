@@ -1,10 +1,10 @@
 # billw2/rpi-clone - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 292
 
-★ Stars: 2111
+★ Stars: 2113
 
 [Open repository](https://github.com/billw2/rpi-clone)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 2113 | 292 | 
 | 2022-12-19 | 2111 | 292 | 
 | 2022-12-18 | 2111 | 292 | 
 | 2022-12-17 | 2110 | 292 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 2090 | 291 | 
 | 2022-11-22 | 2088 | 291 | 
 | 2022-11-21 | 2085 | 291 | 
-| 2022-11-20 | 2084 | 291 | 
 

@@ -1,6 +1,6 @@
 # hugo2046/Quantitative-analysis - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 257
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 759 | 257 | 
 | 2022-12-19 | 759 | 257 | 
 | 2022-12-18 | 757 | 257 | 
 | 2022-12-17 | 756 | 257 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 728 | 247 | 
 | 2022-11-22 | 726 | 247 | 
 | 2022-11-21 | 725 | 247 | 
-| 2022-11-20 | 724 | 247 | 
 

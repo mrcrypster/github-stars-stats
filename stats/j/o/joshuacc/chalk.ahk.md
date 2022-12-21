@@ -1,6 +1,6 @@
 # joshuacc/chalk.ahk - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 10 | 1 | 
 | 2022-12-19 | 10 | 1 | 
 | 2022-12-18 | 10 | 1 | 
 | 2022-12-17 | 10 | 1 | 

@@ -1,6 +1,6 @@
 # rubymem/ruby-mem-advisory-db - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 51 | 5 | 
 | 2022-12-20 | 51 | 5 | 
 | 2022-12-18 | 51 | 5 | 
 | 2022-12-17 | 51 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-23 | 51 | 5 | 
 | 2022-11-22 | 51 | 5 | 
 | 2022-11-21 | 51 | 5 | 
-| 2022-11-20 | 51 | 5 | 
 

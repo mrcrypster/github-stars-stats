@@ -1,6 +1,6 @@
 # Shopify/shopify-cli - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 189
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 962 | 189 | 
 | 2022-12-19 | 962 | 189 | 
 | 2022-12-18 | 962 | 189 | 
 | 2022-12-17 | 961 | 189 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 962 | 186 | 
 | 2022-11-22 | 962 | 186 | 
 | 2022-11-21 | 961 | 186 | 
-| 2022-11-20 | 962 | 185 | 
 

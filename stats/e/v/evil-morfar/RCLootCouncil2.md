@@ -1,6 +1,6 @@
 # evil-morfar/RCLootCouncil2 - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 19 | 24 | 
 | 2022-12-19 | 19 | 24 | 
 | 2022-12-18 | 19 | 24 | 
 | 2022-12-17 | 19 | 24 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 18 | 23 | 
 | 2022-11-22 | 18 | 23 | 
 | 2022-11-21 | 18 | 23 | 
-| 2022-11-20 | 18 | 23 | 
 

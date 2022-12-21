@@ -1,8 +1,8 @@
 # rktjmp/pact.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 0
+☋ Forks: 1
 
 ★ Stars: 30
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 30 | 1 | 
 | 2022-12-19 | 30 | - | 
 | 2022-12-18 | 30 | - | 
 | 2022-12-17 | 30 | - | 

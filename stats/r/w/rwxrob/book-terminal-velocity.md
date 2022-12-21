@@ -1,10 +1,10 @@
 # rwxrob/book-terminal-velocity - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 1
 
-★ Stars: 33
+★ Stars: 31
 
 [Open repository](https://github.com/rwxrob/book-terminal-velocity)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 31 | 1 | 
 | 2022-12-19 | 33 | 1 | 
 | 2022-12-18 | 32 | 1 | 
 | 2022-12-17 | 32 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-24 | 26 | 1 | 
 | 2022-11-23 | 25 | 1 | 
 | 2022-11-22 | 25 | 1 | 
-| 2022-11-21 | 25 | 1 | 
 

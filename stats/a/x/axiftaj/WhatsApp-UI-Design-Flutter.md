@@ -1,6 +1,6 @@
 # axiftaj/WhatsApp-UI-Design-Flutter - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 64 | 26 | 
 | 2022-12-19 | 64 | 26 | 
 | 2022-12-18 | 64 | 26 | 
 | 2022-12-17 | 64 | 26 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 63 | 26 | 
 | 2022-11-22 | 63 | 26 | 
 | 2022-11-21 | 62 | 26 | 
-| 2022-11-20 | 62 | 26 | 
 

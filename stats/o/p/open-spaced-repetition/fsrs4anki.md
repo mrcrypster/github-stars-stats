@@ -1,6 +1,6 @@
 # open-spaced-repetition/fsrs4anki - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 200 | 12 | 
 | 2022-12-19 | 200 | 12 | 
 | 2022-12-18 | 199 | 12 | 
 

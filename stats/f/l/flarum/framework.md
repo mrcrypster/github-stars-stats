@@ -1,10 +1,10 @@
 # flarum/framework - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 791
 
-★ Stars: 5799
+★ Stars: 5800
 
 [Open repository](https://github.com/flarum/framework)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 5800 | 791 | 
 | 2022-12-19 | 5799 | 791 | 
 | 2022-12-18 | 5799 | 791 | 
 | 2022-12-17 | 5796 | 790 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-24 | 5774 | 792 | 
 | 2022-11-23 | 5774 | 792 | 
 | 2022-11-22 | 5772 | 793 | 
-| 2022-11-21 | 5771 | 793 | 
 

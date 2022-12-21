@@ -1,10 +1,10 @@
 # ranaroussi/quantstats - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 525
+☋ Forks: 526
 
-★ Stars: 2619
+★ Stars: 2629
 
 [Open repository](https://github.com/ranaroussi/quantstats)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 2629 | 526 | 
 | 2022-12-19 | 2619 | 525 | 
 | 2022-12-18 | 2616 | 525 | 
 | 2022-12-17 | 2609 | 525 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 2538 | 517 | 
 | 2022-11-22 | 2538 | 516 | 
 | 2022-11-21 | 2537 | 516 | 
-| 2022-11-20 | 2532 | 516 | 
 

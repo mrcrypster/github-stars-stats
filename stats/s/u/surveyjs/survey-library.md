@@ -1,10 +1,10 @@
 # surveyjs/survey-library - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 699
 
-★ Stars: 3465
+★ Stars: 3466
 
 [Open repository](https://github.com/surveyjs/survey-library)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 3466 | 699 | 
 | 2022-12-19 | 3465 | 699 | 
 | 2022-12-18 | 3463 | 699 | 
 | 2022-12-17 | 3463 | 699 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 3450 | 698 | 
 | 2022-11-22 | 3450 | 698 | 
 | 2022-11-21 | 3449 | 697 | 
-| 2022-11-20 | 3448 | 696 | 
 

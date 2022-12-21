@@ -1,10 +1,10 @@
 # gonglei007/GameDevMind - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 119
 
-★ Stars: 838
+★ Stars: 843
 
 [Open repository](https://github.com/gonglei007/GameDevMind)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 843 | 119 | 
 | 2022-12-19 | 838 | 119 | 
 | 2022-12-18 | 835 | 118 | 
 | 2022-12-17 | 832 | 117 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 758 | 108 | 
 | 2022-11-22 | 756 | 108 | 
 | 2022-11-21 | 755 | 109 | 
-| 2022-11-20 | 754 | 109 | 
 

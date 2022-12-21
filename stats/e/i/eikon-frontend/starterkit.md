@@ -1,8 +1,8 @@
 # eikon-frontend/starterkit - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 11
+☋ Forks: 12
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | - | 12 | 
 | 2022-12-19 | - | 11 | 
 | 2022-12-18 | - | 11 | 
 | 2022-12-17 | - | 11 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | - | 10 | 
 | 2022-11-22 | - | 10 | 
 | 2022-11-21 | - | 10 | 
-| 2022-11-20 | - | 10 | 
 

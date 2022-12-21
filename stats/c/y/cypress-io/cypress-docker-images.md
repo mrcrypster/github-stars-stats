@@ -1,10 +1,10 @@
 # cypress-io/cypress-docker-images - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 349
 
-★ Stars: 875
+★ Stars: 876
 
 [Open repository](https://github.com/cypress-io/cypress-docker-images)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 876 | 349 | 
 | 2022-12-19 | 875 | 349 | 
 | 2022-12-18 | 875 | 349 | 
 | 2022-12-17 | 875 | 349 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 864 | 343 | 
 | 2022-11-22 | 864 | 343 | 
 | 2022-11-21 | 864 | 341 | 
-| 2022-11-20 | 863 | 341 | 
 

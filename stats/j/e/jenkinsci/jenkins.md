@@ -1,10 +1,10 @@
 # jenkinsci/jenkins - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 7805
+☋ Forks: 7806
 
-★ Stars: 20026
+★ Stars: 20033
 
 [Open repository](https://github.com/jenkinsci/jenkins)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 20033 | 7806 | 
 | 2022-12-19 | 20026 | 7805 | 
 | 2022-12-18 | 20021 | 7800 | 
 | 2022-12-17 | 20017 | 7800 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 19850 | 7761 | 
 | 2022-11-22 | 19840 | 7759 | 
 | 2022-11-21 | 19834 | 7756 | 
-| 2022-11-20 | 19828 | 7756 | 
 

@@ -1,10 +1,10 @@
 # qbcore-framework/tutorial-script - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 14
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/qbcore-framework/tutorial-script)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 25 | 14 | 
 | 2022-12-19 | 24 | 14 | 
 | 2022-12-18 | 24 | 14 | 
 | 2022-12-17 | 24 | 14 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-24 | 24 | 14 | 
 | 2022-11-22 | 24 | 14 | 
 | 2022-11-21 | 24 | 14 | 
-| 2022-11-20 | 24 | 14 | 
 

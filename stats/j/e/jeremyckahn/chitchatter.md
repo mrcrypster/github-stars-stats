@@ -1,10 +1,10 @@
 # jeremyckahn/chitchatter - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 45
 
-★ Stars: 713
+★ Stars: 714
 
 [Open repository](https://github.com/jeremyckahn/chitchatter)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 714 | 45 | 
 | 2022-12-19 | 713 | 45 | 
 | 2022-12-18 | 710 | 45 | 
 | 2022-12-17 | 709 | 45 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 681 | 42 | 
 | 2022-11-22 | 681 | 42 | 
 | 2022-11-21 | 681 | 42 | 
-| 2022-11-20 | 680 | 42 | 
 

@@ -1,10 +1,10 @@
 # aappleby/Metron - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 10
 
-★ Stars: 117
+★ Stars: 118
 
 [Open repository](https://github.com/aappleby/Metron)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 118 | 10 | 
 | 2022-12-20 | 117 | 10 | 
 | 2022-12-19 | 117 | 10 | 
 | 2022-12-17 | 116 | 10 | 

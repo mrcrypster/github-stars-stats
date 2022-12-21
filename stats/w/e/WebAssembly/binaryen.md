@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 20
 
 ☋ Forks: 622
 
-★ Stars: 6112
+★ Stars: 6114
 
 [Open repository](https://github.com/WebAssembly/binaryen)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-20 | 6112 | 622 | 
+| 2022-12-20 | 6114 | 622 | 
 | 2022-12-19 | 6112 | 622 | 
 | 2022-12-18 | 6112 | 622 | 
 | 2022-12-17 | 6111 | 622 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-23 | 6039 | 617 | 
 | 2022-11-22 | 6039 | 617 | 
 | 2022-11-21 | 6037 | 617 | 
-| 2022-11-20 | 6035 | 616 | 
 

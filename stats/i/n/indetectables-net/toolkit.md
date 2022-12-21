@@ -1,6 +1,6 @@
 # indetectables-net/toolkit - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 171 | 47 | 
 | 2022-12-20 | 171 | 47 | 
 | 2022-12-18 | 171 | 47 | 
 | 2022-12-17 | 171 | 47 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-23 | 170 | 47 | 
 | 2022-11-22 | 170 | 47 | 
 | 2022-11-21 | 170 | 46 | 
-| 2022-11-20 | 170 | 46 | 
 

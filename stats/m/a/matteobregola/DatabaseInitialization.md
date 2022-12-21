@@ -1,6 +1,6 @@
 # matteobregola/DatabaseInitialization - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 4 | 4 | 
 | 2022-12-20 | 4 | 4 | 
 | 2022-12-19 | 4 | 4 | 
 | 2022-12-17 | 4 | 4 | 

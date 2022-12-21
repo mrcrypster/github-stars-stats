@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 20
 
-☋ Forks: 61
+☋ Forks: 63
 
-★ Stars: 341
+★ Stars: 357
 
 [Open repository](https://github.com/AndratVA/Mario-Kart-64-HD)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-20 | 341 | 61 | 
+| 2022-12-20 | 357 | 63 | 
 | 2022-12-19 | 330 | 60 | 
 | 2022-12-18 | 298 | 58 | 
 | 2022-12-17 | 271 | 57 | 

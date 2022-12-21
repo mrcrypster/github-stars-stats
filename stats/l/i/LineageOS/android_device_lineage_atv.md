@@ -1,6 +1,6 @@
 # LineageOS/android_device_lineage_atv - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 10 | 9 | 
 | 2022-12-19 | 10 | 9 | 
 | 2022-12-18 | 10 | 9 | 
 | 2022-12-17 | 10 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 10 | 9 | 
 | 2022-11-22 | 10 | 9 | 
 | 2022-11-21 | 10 | 9 | 
-| 2022-11-20 | 10 | 9 | 
 

@@ -1,10 +1,10 @@
 # mobily/stacks - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 23
 
-★ Stars: 802
+★ Stars: 803
 
 [Open repository](https://github.com/mobily/stacks)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 803 | 23 | 
 | 2022-12-19 | 802 | 23 | 
 | 2022-12-18 | 802 | 23 | 
 | 2022-12-17 | 802 | 23 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-24 | 785 | 23 | 
 | 2022-11-23 | 784 | 23 | 
 | 2022-11-22 | 784 | 23 | 
-| 2022-11-20 | 785 | 23 | 
 

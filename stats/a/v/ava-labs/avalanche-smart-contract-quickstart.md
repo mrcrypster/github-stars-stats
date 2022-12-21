@@ -1,8 +1,8 @@
 # ava-labs/avalanche-smart-contract-quickstart - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 21
 
-☋ Forks: 92
+☋ Forks: 91
 
 ★ Stars: 234
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 234 | 91 | 
 | 2022-12-19 | 234 | 92 | 
 | 2022-12-18 | 233 | 92 | 
 | 2022-12-17 | 233 | 92 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 230 | 92 | 
 | 2022-11-22 | 230 | 93 | 
 | 2022-11-21 | 230 | 93 | 
-| 2022-11-20 | 230 | 93 | 
 

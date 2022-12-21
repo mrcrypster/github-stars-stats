@@ -1,10 +1,10 @@
 # rfordatascience/tidytuesday - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 2078
 
-★ Stars: 5236
+★ Stars: 5235
 
 [Open repository](https://github.com/rfordatascience/tidytuesday)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 5235 | 2078 | 
 | 2022-12-19 | 5236 | 2078 | 
 | 2022-12-18 | 5236 | 2077 | 
 | 2022-12-17 | 5235 | 2077 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 5153 | 2062 | 
 | 2022-11-22 | 5152 | 2062 | 
 | 2022-11-21 | 5151 | 2059 | 
-| 2022-11-20 | 5151 | 2058 | 
 

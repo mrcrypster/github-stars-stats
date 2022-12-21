@@ -1,6 +1,6 @@
 # eigr/massa - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 53 | 5 | 
 | 2022-12-19 | 53 | 5 | 
 | 2022-12-18 | 53 | 5 | 
 | 2022-12-17 | 53 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 53 | 5 | 
 | 2022-11-22 | 53 | 5 | 
 | 2022-11-21 | 53 | 5 | 
-| 2022-11-20 | 53 | 5 | 
 

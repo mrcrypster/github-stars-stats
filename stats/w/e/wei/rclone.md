@@ -1,10 +1,10 @@
 # wei/rclone - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 32
+☋ Forks: 33
 
-★ Stars: 66
+★ Stars: 67
 
 [Open repository](https://github.com/wei/rclone)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 67 | 33 | 
 | 2022-12-19 | 66 | 32 | 
 | 2022-12-18 | 66 | 32 | 
 | 2022-12-17 | 66 | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 66 | 32 | 
 | 2022-11-22 | 66 | 32 | 
 | 2022-11-21 | 67 | 32 | 
-| 2022-11-20 | 67 | 32 | 
 

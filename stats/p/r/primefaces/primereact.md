@@ -1,10 +1,10 @@
 # primefaces/primereact - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 669
 
-★ Stars: 3369
+★ Stars: 3370
 
 [Open repository](https://github.com/primefaces/primereact)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 3370 | 669 | 
 | 2022-12-19 | 3369 | 669 | 
 | 2022-12-18 | 3368 | 670 | 
 | 2022-12-17 | 3367 | 670 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 3306 | 661 | 
 | 2022-11-22 | 3305 | 661 | 
 | 2022-11-21 | 3302 | 661 | 
-| 2022-11-20 | 3303 | 661 | 
 

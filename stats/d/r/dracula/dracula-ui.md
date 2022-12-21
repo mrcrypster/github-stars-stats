@@ -1,10 +1,10 @@
 # dracula/dracula-ui - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 27
 
-★ Stars: 777
+★ Stars: 778
 
 [Open repository](https://github.com/dracula/dracula-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 778 | 27 | 
 | 2022-12-19 | 777 | 27 | 
 | 2022-12-18 | 776 | 27 | 
 | 2022-12-17 | 775 | 27 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 762 | 23 | 
 | 2022-11-22 | 760 | 23 | 
 | 2022-11-21 | 758 | 23 | 
-| 2022-11-20 | 758 | 23 | 
 

@@ -1,10 +1,10 @@
 # jeequan/jeepay - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 1384
+☋ Forks: 1387
 
-★ Stars: 3241
+★ Stars: 3246
 
 [Open repository](https://github.com/jeequan/jeepay)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 3246 | 1387 | 
 | 2022-12-20 | 3241 | 1384 | 
 | 2022-12-19 | 3232 | 1382 | 
 | 2022-12-17 | 3224 | 1381 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-23 | 2974 | 1326 | 
 | 2022-11-22 | 2970 | 1325 | 
 | 2022-11-21 | 2959 | 1323 | 
-| 2022-11-20 | 2949 | 1321 | 
 

@@ -1,6 +1,6 @@
 # nikuscs/vanilla-components - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 70 | 4 | 
 | 2022-12-19 | 70 | 4 | 
 | 2022-12-18 | 70 | 4 | 
 | 2022-12-17 | 70 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-24 | 40 | 3 | 
 | 2022-11-23 | 40 | 3 | 
 | 2022-11-22 | 40 | 3 | 
-| 2022-11-21 | 40 | 3 | 
 

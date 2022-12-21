@@ -1,6 +1,6 @@
 # vitejs/vite-plugin-react-swc - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 241 | 7 | 
 | 2022-12-19 | 241 | 7 | 
 | 2022-12-18 | 240 | 7 | 
 | 2022-12-17 | 237 | 7 | 

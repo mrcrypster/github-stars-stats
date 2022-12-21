@@ -1,10 +1,10 @@
 # Charmve/computer-vision-in-action - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 291
 
-★ Stars: 1818
+★ Stars: 1820
 
 [Open repository](https://github.com/Charmve/computer-vision-in-action)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 1820 | 291 | 
 | 2022-12-19 | 1818 | 291 | 
 | 2022-12-18 | 1816 | 291 | 
 | 2022-12-17 | 1814 | 290 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 1780 | 285 | 
 | 2022-11-22 | 1780 | 285 | 
 | 2022-11-21 | 1779 | 284 | 
-| 2022-11-20 | 1778 | 283 | 
 

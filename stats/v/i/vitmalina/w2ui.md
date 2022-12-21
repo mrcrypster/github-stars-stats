@@ -1,8 +1,8 @@
 # vitmalina/w2ui - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 697
+☋ Forks: 698
 
 ★ Stars: 2426
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 2426 | 698 | 
 | 2022-12-19 | 2426 | 697 | 
 | 2022-12-18 | 2426 | 697 | 
 | 2022-12-17 | 2426 | 697 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 2409 | 696 | 
 | 2022-11-22 | 2408 | 696 | 
 | 2022-11-21 | 2407 | 696 | 
-| 2022-11-20 | 2407 | 696 | 
 

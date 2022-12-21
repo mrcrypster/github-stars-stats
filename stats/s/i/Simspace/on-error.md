@@ -1,10 +1,10 @@
 # Simspace/on-error - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 1
 
-★ Stars: 39
+★ Stars: 38
 
 [Open repository](https://github.com/Simspace/on-error)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 38 | 1 | 
+| 2022-12-20 | 38 | 1 | 
 | 2022-12-19 | 39 | 1 | 
 | 2022-12-18 | 39 | 1 | 
 | 2022-12-17 | 39 | 1 | 
@@ -39,5 +41,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 38 | 1 | 
 | 2022-11-22 | 38 | 1 | 
 | 2022-11-21 | 38 | 1 | 
-| 2022-11-20 | 38 | 1 | 
 

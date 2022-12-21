@@ -1,10 +1,10 @@
 # nori-dot-eco/contracts - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 3
 
-★ Stars: 25
+★ Stars: 24
 
 [Open repository](https://github.com/nori-dot-eco/contracts)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 24 | 3 | 
 | 2022-12-19 | 25 | 3 | 
 | 2022-12-18 | 25 | 3 | 
 | 2022-12-17 | 25 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 22 | 3 | 
 | 2022-11-22 | 22 | 3 | 
 | 2022-11-21 | 22 | 3 | 
-| 2022-11-20 | 22 | 3 | 
 

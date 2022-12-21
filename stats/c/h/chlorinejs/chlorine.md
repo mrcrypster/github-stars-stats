@@ -1,6 +1,6 @@
 # chlorinejs/chlorine - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 44 | 5 | 
 | 2022-12-19 | 44 | 5 | 
 | 2022-12-18 | 44 | 5 | 
 | 2022-12-17 | 44 | 5 | 

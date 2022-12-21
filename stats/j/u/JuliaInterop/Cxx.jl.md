@@ -1,6 +1,6 @@
 # JuliaInterop/Cxx.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 107
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 712 | 107 | 
 | 2022-12-19 | 712 | 107 | 
 | 2022-12-18 | 712 | 107 | 
 | 2022-12-17 | 712 | 107 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 711 | 108 | 
 | 2022-11-22 | 711 | 108 | 
 | 2022-11-21 | 711 | 108 | 
-| 2022-11-20 | 711 | 108 | 
 

@@ -1,10 +1,10 @@
 # Marshxan/qb-inventorydrinks - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 12
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/Marshxan/qb-inventorydrinks)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 19 | 12 | 
 | 2022-12-19 | 18 | 12 | 
 | 2022-12-18 | 18 | 12 | 
 | 2022-12-17 | 18 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-24 | 16 | 11 | 
 | 2022-11-23 | 16 | 11 | 
 | 2022-11-22 | 16 | 11 | 
-| 2022-11-21 | 16 | 11 | 
 

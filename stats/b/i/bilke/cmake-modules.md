@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 20
 
 ☋ Forks: 202
 
-★ Stars: 448
+★ Stars: 450
 
 [Open repository](https://github.com/bilke/cmake-modules)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-20 | 448 | 202 | 
+| 2022-12-20 | 450 | 202 | 
 | 2022-12-19 | 448 | 202 | 
 | 2022-12-18 | 448 | 202 | 
 | 2022-12-17 | 448 | 202 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-23 | 445 | 200 | 
 | 2022-11-22 | 445 | 200 | 
 | 2022-11-21 | 444 | 199 | 
-| 2022-11-20 | 444 | 199 | 
 

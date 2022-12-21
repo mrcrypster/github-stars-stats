@@ -1,10 +1,10 @@
 # ClaperCo/Claper - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 11
 
-★ Stars: 156
+★ Stars: 157
 
 [Open repository](https://github.com/ClaperCo/Claper)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 157 | 11 | 
 | 2022-12-19 | 156 | 11 | 
 | 2022-12-18 | 156 | 11 | 
 | 2022-12-17 | 156 | 11 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 151 | 8 | 
 | 2022-11-22 | 151 | 8 | 
 | 2022-11-21 | 149 | 8 | 
-| 2022-11-20 | 149 | 8 | 
 

@@ -1,6 +1,6 @@
 # Terminator0992/hacktoberfest22 - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 7 | 27 | 
 | 2022-12-19 | 7 | 27 | 
 | 2022-12-18 | 7 | 27 | 
 | 2022-12-17 | 7 | 27 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 8 | 27 | 
 | 2022-11-22 | 8 | 27 | 
 | 2022-11-21 | 8 | 27 | 
-| 2022-11-20 | 8 | 27 | 
 

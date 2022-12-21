@@ -1,10 +1,10 @@
 # ericchiang/pup - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 243
 
-★ Stars: 7565
+★ Stars: 7568
 
 [Open repository](https://github.com/ericchiang/pup)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 7568 | 243 | 
 | 2022-12-19 | 7565 | 243 | 
 | 2022-12-18 | 7565 | 243 | 
 | 2022-12-17 | 7564 | 243 | 

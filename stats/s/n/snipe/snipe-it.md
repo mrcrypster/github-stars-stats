@@ -1,10 +1,10 @@
 # snipe/snipe-it - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 2461
+☋ Forks: 2464
 
-★ Stars: 7094
+★ Stars: 7102
 
 [Open repository](https://github.com/snipe/snipe-it)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 7102 | 2464 | 
 | 2022-12-19 | 7094 | 2461 | 
 | 2022-12-18 | 7088 | 2460 | 
 | 2022-12-17 | 7087 | 2460 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 7013 | 2422 | 
 | 2022-11-22 | 7010 | 2414 | 
 | 2022-11-21 | 7003 | 2410 | 
-| 2022-11-20 | 7004 | 2409 | 
 

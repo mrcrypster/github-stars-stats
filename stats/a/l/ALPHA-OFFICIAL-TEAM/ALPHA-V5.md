@@ -1,6 +1,6 @@
 # ALPHA-OFFICIAL-TEAM/ALPHA-V5 - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 4 | 54 | 
 | 2022-12-19 | 4 | 54 | 
 | 2022-12-18 | 4 | 54 | 
 | 2022-12-17 | 4 | 54 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 4 | 54 | 
 | 2022-11-22 | 4 | 54 | 
 | 2022-11-21 | 4 | 54 | 
-| 2022-11-20 | 4 | 54 | 
 

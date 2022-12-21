@@ -1,10 +1,10 @@
 # facebookresearch/encodec - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 88
 
-★ Stars: 1303
+★ Stars: 1305
 
 [Open repository](https://github.com/facebookresearch/encodec)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 1305 | 88 | 
 | 2022-12-19 | 1303 | 88 | 
 | 2022-12-18 | 1304 | 88 | 
 | 2022-12-17 | 1302 | 88 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-24 | 1253 | 77 | 
 | 2022-11-23 | 1249 | 75 | 
 | 2022-11-22 | 1247 | 75 | 
-| 2022-11-21 | 1246 | 73 | 
 

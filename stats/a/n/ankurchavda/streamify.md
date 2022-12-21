@@ -1,6 +1,6 @@
 # ankurchavda/streamify - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 204 | 39 | 
 | 2022-12-19 | 204 | 39 | 
 | 2022-12-18 | 202 | 39 | 
 | 2022-12-17 | 202 | 39 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 198 | 36 | 
 | 2022-11-22 | 198 | 36 | 
 | 2022-11-21 | 198 | 36 | 
-| 2022-11-20 | 197 | 36 | 
 

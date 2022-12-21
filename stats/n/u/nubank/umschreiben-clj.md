@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 20
 
 ☋ Forks: 0
 
-★ Stars: 12
+★ Stars: 11
 
 [Open repository](https://github.com/nubank/umschreiben-clj)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-20 | 12 | - | 
+| 2022-12-20 | 11 | - | 
 | 2022-12-19 | 12 | - | 
 | 2022-12-18 | 12 | - | 
 | 2022-12-17 | 12 | - | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-23 | 11 | - | 
 | 2022-11-22 | 11 | - | 
 | 2022-11-21 | 11 | - | 
-| 2022-11-20 | 11 | - | 
 

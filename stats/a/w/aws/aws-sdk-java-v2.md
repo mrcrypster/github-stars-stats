@@ -1,10 +1,10 @@
 # aws/aws-sdk-java-v2 - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 657
 
-★ Stars: 1624
+★ Stars: 1625
 
 [Open repository](https://github.com/aws/aws-sdk-java-v2)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 1625 | 657 | 
 | 2022-12-19 | 1624 | 657 | 
 | 2022-12-18 | 1624 | 656 | 
 | 2022-12-17 | 1624 | 655 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-24 | 1599 | 648 | 
 | 2022-11-23 | 1599 | 648 | 
 | 2022-11-22 | 1596 | 645 | 
-| 2022-11-21 | 1595 | 645 | 
 

@@ -1,6 +1,6 @@
 # Dec0ne/ShadowSpray - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 315 | 53 | 
 | 2022-12-20 | 315 | 53 | 
 | 2022-12-19 | 314 | 52 | 
 | 2022-12-18 | 314 | 52 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-23 | 287 | 48 | 
 | 2022-11-22 | 284 | 47 | 
 | 2022-11-21 | 284 | 46 | 
-| 2022-11-20 | 282 | 46 | 
 

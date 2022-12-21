@@ -1,10 +1,10 @@
 # kamranahmedse/driver.js - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 809
 
-★ Stars: 14257
+★ Stars: 14256
 
 [Open repository](https://github.com/kamranahmedse/driver.js)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 14256 | 809 | 
 | 2022-12-19 | 14257 | 809 | 
 | 2022-12-18 | 14253 | 808 | 
 | 2022-12-17 | 14252 | 808 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 14190 | 802 | 
 | 2022-11-22 | 14185 | 802 | 
 | 2022-11-21 | 14185 | 802 | 
-| 2022-11-20 | 14183 | 802 | 
 

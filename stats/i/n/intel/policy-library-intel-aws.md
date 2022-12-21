@@ -1,10 +1,10 @@
 # intel/policy-library-intel-aws - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 1
 
-★ Stars: 3
+★ Stars: 5
 
 [Open repository](https://github.com/intel/policy-library-intel-aws)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 5 | 1 | 
 | 2022-12-19 | 3 | 1 | 
 | 2022-12-18 | 3 | 1 | 
 | 2022-12-17 | 3 | 1 | 

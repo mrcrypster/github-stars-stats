@@ -1,10 +1,10 @@
 # faster-cpython/ideas - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 44
 
-★ Stars: 1342
+★ Stars: 1343
 
 [Open repository](https://github.com/faster-cpython/ideas)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 1343 | 44 | 
 | 2022-12-19 | 1342 | 44 | 
 | 2022-12-18 | 1340 | 44 | 
 | 2022-12-17 | 1339 | 44 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 1318 | 41 | 
 | 2022-11-22 | 1317 | 41 | 
 | 2022-11-21 | 1317 | 41 | 
-| 2022-11-20 | 1317 | 40 | 
 

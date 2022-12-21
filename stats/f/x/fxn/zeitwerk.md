@@ -1,10 +1,10 @@
 # fxn/zeitwerk - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 103
 
-★ Stars: 1678
+★ Stars: 1679
 
 [Open repository](https://github.com/fxn/zeitwerk)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 1679 | 103 | 
 | 2022-12-20 | 1678 | 103 | 
 | 2022-12-18 | 1678 | 103 | 
 | 2022-12-17 | 1678 | 102 | 

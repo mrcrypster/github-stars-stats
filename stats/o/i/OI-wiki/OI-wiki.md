@@ -1,10 +1,10 @@
 # OI-wiki/OI-wiki - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 2642
+☋ Forks: 2647
 
-★ Stars: 12742
+★ Stars: 12757
 
 [Open repository](https://github.com/OI-wiki/OI-wiki)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 12757 | 2647 | 
 | 2022-12-19 | 12742 | 2642 | 
 | 2022-12-18 | 12735 | 2638 | 
 | 2022-12-17 | 12730 | 2637 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 12523 | 2603 | 
 | 2022-11-22 | 12517 | 2600 | 
 | 2022-11-21 | 12504 | 2597 | 
-| 2022-11-20 | 12493 | 2599 | 
 

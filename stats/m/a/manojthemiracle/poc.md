@@ -1,8 +1,8 @@
 # manojthemiracle/poc - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 10
+☋ Forks: 11
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | - | 11 | 
 | 2022-12-19 | - | 10 | 
 | 2022-12-18 | - | 10 | 
 | 2022-12-17 | - | 10 | 

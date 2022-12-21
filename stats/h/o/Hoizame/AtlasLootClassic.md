@@ -1,6 +1,6 @@
 # Hoizame/AtlasLootClassic - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 62 | 39 | 
 | 2022-12-19 | 62 | 39 | 
 | 2022-12-18 | 62 | 39 | 
 | 2022-12-17 | 62 | 39 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 61 | 38 | 
 | 2022-11-22 | 61 | 37 | 
 | 2022-11-21 | 61 | 37 | 
-| 2022-11-20 | 61 | 37 | 
 

@@ -1,6 +1,6 @@
 # input-output-hk/smash - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 35 | 7 | 
 | 2022-12-19 | 35 | 7 | 
 | 2022-12-18 | 35 | 7 | 
 | 2022-12-17 | 35 | 7 | 

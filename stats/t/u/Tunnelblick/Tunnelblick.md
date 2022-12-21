@@ -1,10 +1,10 @@
 # Tunnelblick/Tunnelblick - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 320
 
-★ Stars: 2490
+★ Stars: 2489
 
 [Open repository](https://github.com/Tunnelblick/Tunnelblick)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 2489 | 320 | 
 | 2022-12-19 | 2490 | 320 | 
 | 2022-12-18 | 2490 | 320 | 
 | 2022-12-17 | 2490 | 320 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 2469 | 318 | 
 | 2022-11-22 | 2468 | 318 | 
 | 2022-11-21 | 2468 | 318 | 
-| 2022-11-20 | 2467 | 318 | 
 

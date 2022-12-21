@@ -1,6 +1,6 @@
 # input-output-hk/goblins - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 9 | 5 | 
 | 2022-12-20 | 9 | 5 | 
 | 2022-12-19 | 9 | 5 | 
 | 2022-12-17 | 9 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 8 | 5 | 
 | 2022-11-23 | 8 | 5 | 
 | 2022-11-22 | 8 | 5 | 
-| 2022-11-21 | 8 | 5 | 
 

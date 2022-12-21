@@ -1,10 +1,10 @@
 # danvega/apache-groovy-course - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 352
 
-★ Stars: 224
+★ Stars: 225
 
 [Open repository](https://github.com/danvega/apache-groovy-course)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 225 | 352 | 
 | 2022-12-19 | 224 | 352 | 
 | 2022-12-18 | 224 | 352 | 
 | 2022-12-17 | 224 | 352 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-24 | 224 | 348 | 
 | 2022-11-22 | 224 | 347 | 
 | 2022-11-21 | 224 | 347 | 
-| 2022-11-20 | 224 | 347 | 
 

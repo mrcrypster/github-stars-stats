@@ -1,10 +1,10 @@
 # CzBiX/qb-web - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 120
 
-★ Stars: 1230
+★ Stars: 1231
 
 [Open repository](https://github.com/CzBiX/qb-web)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 1231 | 120 | 
 | 2022-12-19 | 1230 | 120 | 
 | 2022-12-18 | 1230 | 120 | 
 | 2022-12-17 | 1230 | 120 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 1203 | 117 | 
 | 2022-11-22 | 1203 | 117 | 
 | 2022-11-21 | 1201 | 117 | 
-| 2022-11-20 | 1199 | 116 | 
 

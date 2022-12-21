@@ -1,6 +1,6 @@
 # true-grue/kisscm - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 43 | 45 | 
 | 2022-12-19 | 43 | 45 | 
 | 2022-12-18 | 43 | 45 | 
 | 2022-12-17 | 44 | 46 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 44 | 45 | 
 | 2022-11-22 | 44 | 45 | 
 | 2022-11-21 | 44 | 44 | 
-| 2022-11-20 | 44 | 44 | 
 

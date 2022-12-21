@@ -1,10 +1,10 @@
 # expressjs/express - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 10054
+☋ Forks: 10058
 
-★ Stars: 59327
+★ Stars: 59332
 
 [Open repository](https://github.com/expressjs/express)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 59332 | 10058 | 
 | 2022-12-19 | 59327 | 10054 | 
 | 2022-12-18 | 59313 | 10053 | 
 | 2022-12-17 | 59300 | 10051 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-24 | 58979 | 10005 | 
 | 2022-11-23 | 58973 | 10004 | 
 | 2022-11-22 | 58961 | 10003 | 
-| 2022-11-21 | 58950 | 10002 | 
 

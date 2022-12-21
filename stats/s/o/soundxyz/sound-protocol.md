@@ -1,6 +1,6 @@
 # soundxyz/sound-protocol - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 109 | 11 | 
 | 2022-12-19 | 109 | 11 | 
 | 2022-12-18 | 109 | 11 | 
 | 2022-12-17 | 108 | 11 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 101 | 8 | 
 | 2022-11-22 | 102 | 8 | 
 | 2022-11-21 | 102 | 7 | 
-| 2022-11-20 | 102 | 7 | 
 

@@ -1,10 +1,10 @@
 # SebLague/Digital-Logic-Sim - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 287
 
-★ Stars: 2130
+★ Stars: 2135
 
 [Open repository](https://github.com/SebLague/Digital-Logic-Sim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 2135 | 287 | 
 | 2022-12-19 | 2130 | 287 | 
 | 2022-12-18 | 2123 | 286 | 
 | 2022-12-17 | 2115 | 286 | 

@@ -1,10 +1,10 @@
 # SAP-samples/abap-cheat-sheets - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 13
+☋ Forks: 14
 
-★ Stars: 82
+★ Stars: 87
 
 [Open repository](https://github.com/SAP-samples/abap-cheat-sheets)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 87 | 14 | 
 | 2022-12-19 | 82 | 13 | 
 | 2022-12-18 | 77 | 12 | 
 | 2022-12-17 | 76 | 12 | 

@@ -1,8 +1,8 @@
 # actions/node-versions - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 60
+☋ Forks: 61
 
 ★ Stars: 61
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 61 | 61 | 
 | 2022-12-19 | 61 | 60 | 
 | 2022-12-18 | 61 | 60 | 
 | 2022-12-17 | 61 | 60 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 59 | 59 | 
 | 2022-11-22 | 59 | 59 | 
 | 2022-11-21 | 59 | 59 | 
-| 2022-11-20 | 59 | 59 | 
 

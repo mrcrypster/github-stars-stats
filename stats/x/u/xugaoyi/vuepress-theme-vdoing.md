@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 20
 
 ☋ Forks: 786
 
-★ Stars: 2812
+★ Stars: 2813
 
 [Open repository](https://github.com/xugaoyi/vuepress-theme-vdoing)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-20 | 2812 | 786 | 
+| 2022-12-20 | 2813 | 786 | 
 | 2022-12-19 | 2812 | 786 | 
 | 2022-12-18 | 2812 | 787 | 
 | 2022-12-17 | 2809 | 786 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-23 | 2749 | 774 | 
 | 2022-11-22 | 2741 | 772 | 
 | 2022-11-21 | 2736 | 769 | 
-| 2022-11-20 | 2735 | 768 | 
 

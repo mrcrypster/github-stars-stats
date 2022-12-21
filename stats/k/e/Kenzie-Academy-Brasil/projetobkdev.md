@@ -1,6 +1,6 @@
 # Kenzie-Academy-Brasil/projetobkdev - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 28 | 31 | 
 | 2022-12-19 | 28 | 31 | 
 | 2022-12-18 | 28 | 31 | 
 | 2022-12-17 | 28 | 31 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 27 | 32 | 
 | 2022-11-22 | 27 | 32 | 
 | 2022-11-21 | 27 | 32 | 
-| 2022-11-20 | 27 | 32 | 
 

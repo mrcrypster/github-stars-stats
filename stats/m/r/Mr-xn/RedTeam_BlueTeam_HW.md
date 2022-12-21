@@ -1,6 +1,6 @@
 # Mr-xn/RedTeam_BlueTeam_HW - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 379
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 1281 | 379 | 
 | 2022-12-19 | 1281 | 379 | 
 | 2022-12-18 | 1276 | 375 | 
 | 2022-12-17 | 1276 | 375 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 1244 | 368 | 
 | 2022-11-22 | 1242 | 368 | 
 | 2022-11-21 | 1239 | 368 | 
-| 2022-11-20 | 1236 | 368 | 
 

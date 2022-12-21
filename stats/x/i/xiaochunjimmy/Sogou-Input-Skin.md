@@ -1,6 +1,6 @@
 # xiaochunjimmy/Sogou-Input-Skin - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 89
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 1037 | 89 | 
 | 2022-12-19 | 1037 | 89 | 
 | 2022-12-18 | 1035 | 89 | 
 | 2022-12-17 | 1034 | 90 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 1023 | 85 | 
 | 2022-11-22 | 1022 | 85 | 
 | 2022-11-21 | 1023 | 84 | 
-| 2022-11-20 | 1021 | 84 | 
 

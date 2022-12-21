@@ -1,6 +1,6 @@
 # flowplayer/flash - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 183
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 279 | 183 | 
 | 2022-12-19 | 279 | 183 | 
 | 2022-12-18 | 279 | 183 | 
 | 2022-12-17 | 279 | 183 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 279 | 183 | 
 | 2022-11-22 | 279 | 183 | 
 | 2022-11-21 | 279 | 183 | 
-| 2022-11-20 | 279 | 183 | 
 

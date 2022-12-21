@@ -1,6 +1,6 @@
 # napthedev/discloud - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 73 | 31 | 
 | 2022-12-19 | 73 | 31 | 
 | 2022-12-18 | 73 | 31 | 
 | 2022-12-17 | 73 | 31 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 72 | 29 | 
 | 2022-11-22 | 72 | 29 | 
 | 2022-11-21 | 72 | 29 | 
-| 2022-11-20 | 73 | 29 | 
 

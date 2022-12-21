@@ -1,10 +1,10 @@
 # mc1arke/sonarqube-community-branch-plugin - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 390
+☋ Forks: 391
 
-★ Stars: 1526
+★ Stars: 1528
 
 [Open repository](https://github.com/mc1arke/sonarqube-community-branch-plugin)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 1528 | 391 | 
 | 2022-12-19 | 1526 | 390 | 
 | 2022-12-18 | 1523 | 390 | 
 | 2022-12-17 | 1522 | 390 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 1490 | 380 | 
 | 2022-11-22 | 1487 | 381 | 
 | 2022-11-21 | 1483 | 381 | 
-| 2022-11-20 | 1482 | 381 | 
 

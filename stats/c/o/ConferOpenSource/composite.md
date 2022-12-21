@@ -1,6 +1,6 @@
 # ConferOpenSource/composite - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 45 | 10 | 
 | 2022-12-19 | 45 | 10 | 
 | 2022-12-18 | 45 | 10 | 
 | 2022-12-17 | 45 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 45 | 10 | 
 | 2022-11-22 | 45 | 10 | 
 | 2022-11-21 | 45 | 10 | 
-| 2022-11-20 | 45 | 10 | 
 

@@ -1,8 +1,8 @@
 # mozilla/send - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 1518
+☋ Forks: 1517
 
 ★ Stars: 13189
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 13189 | 1517 | 
 | 2022-12-19 | 13189 | 1518 | 
 | 2022-12-18 | 13190 | 1517 | 
 | 2022-12-17 | 13192 | 1518 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 13179 | 1506 | 
 | 2022-11-22 | 13179 | 1506 | 
 | 2022-11-21 | 13179 | 1506 | 
-| 2022-11-20 | 13177 | 1506 | 
 

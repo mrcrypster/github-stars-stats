@@ -1,10 +1,10 @@
 # pilotmoon/Scroll-Reverser - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 126
 
-★ Stars: 1940
+★ Stars: 1941
 
 [Open repository](https://github.com/pilotmoon/Scroll-Reverser)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 1941 | 126 | 
 | 2022-12-19 | 1940 | 126 | 
 | 2022-12-18 | 1939 | 126 | 
 | 2022-12-17 | 1936 | 126 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 1911 | 125 | 
 | 2022-11-22 | 1910 | 125 | 
 | 2022-11-21 | 1909 | 125 | 
-| 2022-11-20 | 1909 | 125 | 
 

@@ -1,10 +1,10 @@
 # Apress/pro-asp.net-core-6 - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 90
+☋ Forks: 92
 
-★ Stars: 105
+★ Stars: 106
 
 [Open repository](https://github.com/Apress/pro-asp.net-core-6)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 106 | 92 | 
 | 2022-12-19 | 105 | 90 | 
 | 2022-12-18 | 105 | 89 | 
 | 2022-12-17 | 105 | 89 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 101 | 87 | 
 | 2022-11-22 | 101 | 87 | 
 | 2022-11-21 | 101 | 87 | 
-| 2022-11-20 | 100 | 87 | 
 

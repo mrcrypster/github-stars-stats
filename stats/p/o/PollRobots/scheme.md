@@ -1,6 +1,6 @@
 # PollRobots/scheme - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 130 | 4 | 
 | 2022-12-19 | 130 | 4 | 
 | 2022-12-18 | 129 | 4 | 
 | 2022-12-17 | 129 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 129 | 4 | 
 | 2022-11-22 | 129 | 4 | 
 | 2022-11-21 | 129 | 4 | 
-| 2022-11-20 | 129 | 4 | 
 

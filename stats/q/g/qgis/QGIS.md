@@ -1,10 +1,10 @@
 # qgis/QGIS - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 2446
 
-★ Stars: 6499
+★ Stars: 6503
 
 [Open repository](https://github.com/qgis/QGIS)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 6503 | 2446 | 
 | 2022-12-19 | 6499 | 2446 | 
 | 2022-12-18 | 6495 | 2446 | 
 | 2022-12-17 | 6494 | 2446 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 6420 | 2427 | 
 | 2022-11-22 | 6410 | 2426 | 
 | 2022-11-21 | 6399 | 2423 | 
-| 2022-11-20 | 6397 | 2421 | 
 

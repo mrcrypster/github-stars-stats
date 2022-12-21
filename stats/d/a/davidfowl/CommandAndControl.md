@@ -1,6 +1,6 @@
 # davidfowl/CommandAndControl - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 93 | 5 | 
 | 2022-12-19 | 93 | 5 | 
 | 2022-12-18 | 93 | 5 | 
 | 2022-12-17 | 93 | 5 | 

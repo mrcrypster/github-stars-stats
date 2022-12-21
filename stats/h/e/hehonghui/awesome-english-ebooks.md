@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 20
 
 ☋ Forks: 215
 
-★ Stars: 2629
+★ Stars: 2630
 
 [Open repository](https://github.com/hehonghui/awesome-english-ebooks)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-20 | 2629 | 215 | 
+| 2022-12-20 | 2630 | 215 | 
 | 2022-12-19 | 2629 | 215 | 
 | 2022-12-18 | 2614 | 215 | 
 | 2022-12-17 | 2610 | 214 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-23 | 1794 | 162 | 
 | 2022-11-22 | 1775 | 160 | 
 | 2022-11-21 | 1765 | 161 | 
-| 2022-11-20 | 1736 | 158 | 
 

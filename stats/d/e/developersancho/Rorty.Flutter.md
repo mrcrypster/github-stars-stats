@@ -1,6 +1,6 @@
 # developersancho/Rorty.Flutter - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 135 | 26 | 
 | 2022-12-19 | 135 | 26 | 
 | 2022-12-18 | 135 | 26 | 
 | 2022-12-17 | 135 | 26 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 129 | 26 | 
 | 2022-11-22 | 129 | 26 | 
 | 2022-11-21 | 128 | 25 | 
-| 2022-11-20 | 128 | 25 | 
 

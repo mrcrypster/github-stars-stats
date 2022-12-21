@@ -1,6 +1,6 @@
 # appdev-projects/float-chapter - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 677
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | - | 677 | 
 | 2022-12-20 | - | 677 | 
 | 2022-12-18 | - | 677 | 
 | 2022-12-17 | - | 677 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-23 | - | 676 | 
 | 2022-11-22 | - | 676 | 
 | 2022-11-21 | - | 676 | 
-| 2022-11-20 | - | 676 | 
 

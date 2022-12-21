@@ -1,6 +1,6 @@
 # brentp/mosdepth - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 88
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 525 | 88 | 
 | 2022-12-19 | 525 | 88 | 
 | 2022-12-18 | 525 | 86 | 
 | 2022-12-17 | 525 | 86 | 

@@ -1,6 +1,6 @@
 # rundeck/rundeck - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 843
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 4793 | 843 | 
 | 2022-12-19 | 4793 | 843 | 
 | 2022-12-18 | 4792 | 843 | 
 | 2022-12-17 | 4792 | 843 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 4756 | 842 | 
 | 2022-11-22 | 4757 | 841 | 
 | 2022-11-21 | 4755 | 841 | 
-| 2022-11-20 | 4753 | 841 | 
 

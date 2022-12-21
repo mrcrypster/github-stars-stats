@@ -1,8 +1,8 @@
 # itsnebulalol/deb-to-ipa - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 975
+☋ Forks: 977
 
 ★ Stars: 248
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 248 | 977 | 
 | 2022-12-19 | 248 | 975 | 
 | 2022-12-18 | 248 | 971 | 
 | 2022-12-17 | 248 | 970 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 238 | 877 | 
 | 2022-11-22 | 237 | 870 | 
 | 2022-11-21 | 235 | 865 | 
-| 2022-11-20 | 235 | 852 | 
 

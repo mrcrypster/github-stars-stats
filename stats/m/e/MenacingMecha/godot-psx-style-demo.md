@@ -1,6 +1,6 @@
 # MenacingMecha/godot-psx-style-demo - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 254 | 19 | 
 | 2022-12-19 | 254 | 19 | 
 | 2022-12-18 | 254 | 19 | 
 | 2022-12-17 | 253 | 19 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 247 | 19 | 
 | 2022-11-22 | 247 | 19 | 
 | 2022-11-21 | 246 | 19 | 
-| 2022-11-20 | 244 | 19 | 
 

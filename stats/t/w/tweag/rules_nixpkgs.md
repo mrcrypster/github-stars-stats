@@ -1,10 +1,10 @@
 # tweag/rules_nixpkgs - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 52
 
-★ Stars: 175
+★ Stars: 178
 
 [Open repository](https://github.com/tweag/rules_nixpkgs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 178 | 52 | 
 | 2022-12-19 | 175 | 52 | 
 | 2022-12-18 | 175 | 52 | 
 | 2022-12-17 | 175 | 52 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 169 | 50 | 
 | 2022-11-22 | 169 | 50 | 
 | 2022-11-21 | 169 | 50 | 
-| 2022-11-20 | 169 | 50 | 
 

@@ -1,6 +1,6 @@
 # green-code-initiative/ecocode-mobile - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 4 | 2 | 
 | 2022-12-19 | 4 | 2 | 
 | 2022-12-18 | 4 | 2 | 
 | 2022-12-17 | 4 | 2 | 

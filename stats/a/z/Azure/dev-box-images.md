@@ -1,10 +1,10 @@
 # Azure/dev-box-images - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 27
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/Azure/dev-box-images)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 9 | 27 | 
 | 2022-12-19 | 8 | 27 | 
 | 2022-12-18 | 8 | 27 | 
 | 2022-12-17 | 8 | 27 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-24 | 8 | 25 | 
 | 2022-11-23 | 8 | 25 | 
 | 2022-11-22 | 8 | 25 | 
-| 2022-11-21 | 8 | 25 | 
 

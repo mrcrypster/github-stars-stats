@@ -1,10 +1,10 @@
 # platformio/platformio-core - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 741
 
-★ Stars: 6448
+★ Stars: 6451
 
 [Open repository](https://github.com/platformio/platformio-core)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 6451 | 741 | 
 | 2022-12-19 | 6448 | 741 | 
 | 2022-12-18 | 6446 | 741 | 
 | 2022-12-17 | 6443 | 742 | 

@@ -1,6 +1,6 @@
 # craftzdog/link-in-bio - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 74
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 137 | 74 | 
 | 2022-12-19 | 137 | 74 | 
 | 2022-12-18 | 136 | 73 | 
 | 2022-12-17 | 136 | 73 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 137 | 72 | 
 | 2022-11-22 | 137 | 72 | 
 | 2022-11-21 | 137 | 72 | 
-| 2022-11-20 | 137 | 72 | 
 

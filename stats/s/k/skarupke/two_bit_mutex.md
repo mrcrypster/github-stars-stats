@@ -1,6 +1,6 @@
 # skarupke/two_bit_mutex - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 16 | 1 | 
 | 2022-12-19 | 16 | 1 | 
 | 2022-12-18 | 16 | 1 | 
 | 2022-12-17 | 16 | 1 | 

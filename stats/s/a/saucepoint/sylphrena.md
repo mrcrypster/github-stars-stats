@@ -1,6 +1,6 @@
 # saucepoint/sylphrena - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 29 | - | 
 | 2022-12-19 | 29 | - | 
 | 2022-12-18 | 29 | - | 
 | 2022-12-17 | 29 | - | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-24 | 25 | - | 
 | 2022-11-23 | 25 | - | 
 | 2022-11-22 | 25 | - | 
-| 2022-11-21 | 25 | - | 
 

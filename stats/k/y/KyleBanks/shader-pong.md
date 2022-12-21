@@ -1,10 +1,10 @@
 # KyleBanks/shader-pong - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 3
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/KyleBanks/shader-pong)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 37 | 3 | 
 | 2022-12-19 | 36 | 3 | 
 | 2022-12-18 | 36 | 3 | 
 | 2022-12-17 | 36 | 3 | 

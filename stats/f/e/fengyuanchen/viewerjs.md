@@ -1,6 +1,6 @@
 # fengyuanchen/viewerjs - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 1205
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 6885 | 1205 | 
 | 2022-12-19 | 6885 | 1205 | 
 | 2022-12-18 | 6883 | 1205 | 
 | 2022-12-17 | 6883 | 1205 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 6859 | 1201 | 
 | 2022-11-22 | 6859 | 1201 | 
 | 2022-11-21 | 6857 | 1201 | 
-| 2022-11-20 | 6853 | 1200 | 
 

@@ -1,10 +1,10 @@
 # Tyrrrz/YoutubeDownloader - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 657
+☋ Forks: 659
 
-★ Stars: 3567
+★ Stars: 3571
 
 [Open repository](https://github.com/Tyrrrz/YoutubeDownloader)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 3571 | 659 | 
 | 2022-12-19 | 3567 | 657 | 
 | 2022-12-18 | 3563 | 657 | 
 | 2022-12-17 | 3558 | 657 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 3475 | 642 | 
 | 2022-11-22 | 3471 | 641 | 
 | 2022-11-21 | 3467 | 640 | 
-| 2022-11-20 | 3459 | 640 | 
 

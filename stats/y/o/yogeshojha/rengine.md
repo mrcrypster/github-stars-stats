@@ -1,10 +1,10 @@
 # yogeshojha/rengine - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 777
 
-★ Stars: 4950
+★ Stars: 4954
 
 [Open repository](https://github.com/yogeshojha/rengine)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 4954 | 777 | 
 | 2022-12-19 | 4950 | 777 | 
 | 2022-12-18 | 4947 | 776 | 
 | 2022-12-17 | 4947 | 776 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 4881 | 770 | 
 | 2022-11-22 | 4877 | 770 | 
 | 2022-11-21 | 4874 | 770 | 
-| 2022-11-20 | 4872 | 770 | 
 

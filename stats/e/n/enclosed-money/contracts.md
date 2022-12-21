@@ -1,10 +1,10 @@
 # enclosed-money/contracts - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 7
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/enclosed-money/contracts)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 14 | 7 | 
 | 2022-12-19 | 13 | 7 | 
 | 2022-12-18 | 13 | 7 | 
 | 2022-12-17 | 13 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 13 | 7 | 
 | 2022-11-22 | 13 | 7 | 
 | 2022-11-21 | 13 | 7 | 
-| 2022-11-20 | 13 | 7 | 
 

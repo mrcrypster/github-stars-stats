@@ -1,6 +1,6 @@
 # 7eu7d7/DreamArtist-stable-diffusion - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 638 | 41 | 
 | 2022-12-19 | 638 | 41 | 
 | 2022-12-18 | 633 | 41 | 
 | 2022-12-17 | 628 | 41 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 561 | 39 | 
 | 2022-11-22 | 545 | 37 | 
 | 2022-11-21 | 536 | 36 | 
-| 2022-11-20 | 529 | 36 | 
 

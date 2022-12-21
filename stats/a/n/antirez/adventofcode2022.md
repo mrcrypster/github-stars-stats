@@ -1,10 +1,10 @@
 # antirez/adventofcode2022 - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 4
 
-★ Stars: 85
+★ Stars: 86
 
 [Open repository](https://github.com/antirez/adventofcode2022)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 86 | 4 | 
 | 2022-12-19 | 85 | 4 | 
 | 2022-12-18 | 85 | 4 | 
 | 2022-12-17 | 83 | 4 | 

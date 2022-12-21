@@ -1,6 +1,6 @@
 # davidmiller/dizzee - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 83 | 9 | 
 | 2022-12-19 | 83 | 9 | 
 | 2022-12-18 | 83 | 9 | 
 | 2022-12-17 | 83 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 83 | 9 | 
 | 2022-11-22 | 83 | 9 | 
 | 2022-11-21 | 83 | 9 | 
-| 2022-11-20 | 83 | 9 | 
 

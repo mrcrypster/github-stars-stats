@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 20
 
 ☋ Forks: 57
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/ros-controls/control_msgs)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-20 | 30 | 57 | 
+| 2022-12-20 | 31 | 57 | 
 | 2022-12-19 | 30 | 57 | 
 | 2022-12-18 | 29 | 57 | 
 | 2022-12-17 | 29 | 56 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-23 | 27 | 55 | 
 | 2022-11-22 | 27 | 55 | 
 | 2022-11-21 | 27 | 55 | 
-| 2022-11-20 | 27 | 55 | 
 

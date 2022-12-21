@@ -1,6 +1,6 @@
 # chenxiaolong/BCR - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 378 | 29 | 
 | 2022-12-19 | 378 | 29 | 
 | 2022-12-18 | 376 | 29 | 
 | 2022-12-17 | 377 | 29 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 344 | 26 | 
 | 2022-11-22 | 341 | 26 | 
 | 2022-11-21 | 340 | 26 | 
-| 2022-11-20 | 339 | 26 | 
 

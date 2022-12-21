@@ -1,8 +1,8 @@
 # casualsnek/onthespot - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 17
+☋ Forks: 18
 
 ★ Stars: 173
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 173 | 18 | 
 | 2022-12-19 | 173 | 17 | 
 | 2022-12-18 | 173 | 17 | 
 | 2022-12-17 | 174 | 17 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 163 | 15 | 
 | 2022-11-22 | 161 | 15 | 
 | 2022-11-21 | 158 | 15 | 
-| 2022-11-20 | 155 | 15 | 
 

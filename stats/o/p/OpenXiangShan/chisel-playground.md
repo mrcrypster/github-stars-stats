@@ -1,10 +1,10 @@
 # OpenXiangShan/chisel-playground - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 7
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/OpenXiangShan/chisel-playground)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 24 | 7 | 
 | 2022-12-19 | 23 | 7 | 
 | 2022-12-18 | 23 | 7 | 
 | 2022-12-17 | 23 | 7 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 22 | 7 | 
 | 2022-11-22 | 22 | 7 | 
 | 2022-11-21 | 22 | 7 | 
-| 2022-11-20 | 22 | 7 | 
 

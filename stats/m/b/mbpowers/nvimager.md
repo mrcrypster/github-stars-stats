@@ -1,6 +1,6 @@
 # mbpowers/nvimager - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 55 | 2 | 
 | 2022-12-19 | 55 | 2 | 
 | 2022-12-18 | 55 | 2 | 
 | 2022-12-17 | 55 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 54 | 2 | 
 | 2022-11-22 | 54 | 2 | 
 | 2022-11-21 | 54 | 2 | 
-| 2022-11-20 | 54 | 2 | 
 

@@ -1,10 +1,10 @@
 # KlassenKonstantin/ComposePhysicsLayout - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 4
 
-★ Stars: 200
+★ Stars: 203
 
 [Open repository](https://github.com/KlassenKonstantin/ComposePhysicsLayout)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 203 | 4 | 
 | 2022-12-19 | 200 | 4 | 
 | 2022-12-18 | 197 | 4 | 
 | 2022-12-17 | 196 | 4 | 

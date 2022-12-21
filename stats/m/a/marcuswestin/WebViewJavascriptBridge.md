@@ -1,6 +1,6 @@
 # marcuswestin/WebViewJavascriptBridge - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 2953
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 14082 | 2953 | 
 | 2022-12-19 | 14082 | 2953 | 
 | 2022-12-18 | 14083 | 2953 | 
 | 2022-12-17 | 14083 | 2953 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-24 | 14071 | 2954 | 
 | 2022-11-23 | 14069 | 2954 | 
 | 2022-11-22 | 14067 | 2953 | 
-| 2022-11-21 | 14068 | 2953 | 
 

@@ -1,8 +1,8 @@
 # the-control-group/voyager - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 2617
+☋ Forks: 2618
 
 ★ Stars: 11255
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 11255 | 2618 | 
 | 2022-12-19 | 11255 | 2617 | 
 | 2022-12-18 | 11255 | 2617 | 
 | 2022-12-17 | 11253 | 2617 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 11233 | 2614 | 
 | 2022-11-22 | 11228 | 2612 | 
 | 2022-11-21 | 11226 | 2613 | 
-| 2022-11-20 | 11224 | 2613 | 
 

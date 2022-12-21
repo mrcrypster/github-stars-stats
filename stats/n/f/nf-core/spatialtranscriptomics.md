@@ -1,10 +1,10 @@
 # nf-core/spatialtranscriptomics - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 4
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/nf-core/spatialtranscriptomics)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 13 | 4 | 
 | 2022-12-19 | 12 | 4 | 
 | 2022-12-18 | 12 | 4 | 
 | 2022-12-17 | 12 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 12 | 3 | 
 | 2022-11-22 | 12 | 3 | 
 | 2022-11-21 | 12 | 3 | 
-| 2022-11-20 | 12 | 3 | 
 

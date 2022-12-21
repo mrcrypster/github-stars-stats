@@ -1,10 +1,10 @@
 # tehcneko/nekogram-files - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 37
 
-★ Stars: 321
+★ Stars: 320
 
 [Open repository](https://github.com/tehcneko/nekogram-files)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 320 | 37 | 
 | 2022-12-19 | 321 | 37 | 
 | 2022-12-18 | 321 | 37 | 
 | 2022-12-17 | 321 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 281 | 31 | 
 | 2022-11-22 | 279 | 31 | 
 | 2022-11-21 | 277 | 31 | 
-| 2022-11-20 | 278 | 30 | 
 

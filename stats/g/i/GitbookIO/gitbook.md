@@ -1,10 +1,10 @@
 # GitbookIO/gitbook - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 3763
+☋ Forks: 3762
 
-★ Stars: 25245
+★ Stars: 25243
 
 [Open repository](https://github.com/GitbookIO/gitbook)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 25243 | 3762 | 
 | 2022-12-19 | 25245 | 3763 | 
 | 2022-12-18 | 25243 | 3763 | 
 | 2022-12-17 | 25241 | 3762 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 25199 | 3751 | 
 | 2022-11-22 | 25199 | 3752 | 
 | 2022-11-21 | 25196 | 3753 | 
-| 2022-11-20 | 25190 | 3753 | 
 

@@ -1,10 +1,10 @@
 # cami-la/sacola-api_IFOOD_DEV_WEEK - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 30
+☋ Forks: 29
 
-★ Stars: 153
+★ Stars: 152
 
 [Open repository](https://github.com/cami-la/sacola-api_IFOOD_DEV_WEEK)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 152 | 29 | 
 | 2022-12-19 | 153 | 30 | 
 | 2022-12-18 | 153 | 30 | 
 | 2022-12-17 | 153 | 30 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 150 | 30 | 
 | 2022-11-22 | 150 | 30 | 
 | 2022-11-21 | 150 | 30 | 
-| 2022-11-20 | 150 | 30 | 
 

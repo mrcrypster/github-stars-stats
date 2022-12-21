@@ -1,10 +1,10 @@
 # Cryptocoders-wtf/generative - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 13
 
-★ Stars: 37
+★ Stars: 38
 
 [Open repository](https://github.com/Cryptocoders-wtf/generative)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 38 | 13 | 
 | 2022-12-20 | 37 | 13 | 
 | 2022-12-18 | 37 | 13 | 
 | 2022-12-17 | 37 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-23 | 30 | 10 | 
 | 2022-11-22 | 30 | 10 | 
 | 2022-11-21 | 27 | 10 | 
-| 2022-11-20 | 26 | 10 | 
 

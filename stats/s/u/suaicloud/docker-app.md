@@ -1,10 +1,10 @@
 # suaicloud/docker-app - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 27
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/suaicloud/docker-app)
 
@@ -13,7 +13,8 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-20 | - | 27 | 
+| 2022-12-21 | 1 | 27 | 
+| 2022-12-20 | 1 | 27 | 
 | 2022-12-19 | - | 26 | 
 | 2022-12-18 | - | 20 | 
 | 2022-12-17 | - | 17 | 

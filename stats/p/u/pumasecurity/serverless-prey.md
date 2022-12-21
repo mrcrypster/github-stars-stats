@@ -1,10 +1,10 @@
 # pumasecurity/serverless-prey - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 41
+☋ Forks: 43
 
-★ Stars: 202
+★ Stars: 203
 
 [Open repository](https://github.com/pumasecurity/serverless-prey)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 203 | 43 | 
 | 2022-12-19 | 202 | 41 | 
 | 2022-12-18 | 202 | 41 | 
 | 2022-12-17 | 202 | 41 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 202 | 41 | 
 | 2022-11-22 | 202 | 41 | 
 | 2022-11-21 | 202 | 41 | 
-| 2022-11-20 | 202 | 41 | 
 

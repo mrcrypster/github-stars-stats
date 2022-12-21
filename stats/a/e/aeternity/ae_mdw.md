@@ -1,6 +1,6 @@
 # aeternity/ae_mdw - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 22 | 9 | 
 | 2022-12-19 | 22 | 9 | 
 | 2022-12-18 | 22 | 9 | 
 | 2022-12-17 | 22 | 9 | 

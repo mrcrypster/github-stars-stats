@@ -1,6 +1,6 @@
 # xolox/vim-misc - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 356 | 57 | 
 | 2022-12-19 | 356 | 57 | 
 | 2022-12-18 | 356 | 57 | 
 | 2022-12-17 | 356 | 57 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 357 | 57 | 
 | 2022-11-22 | 357 | 57 | 
 | 2022-11-21 | 357 | 57 | 
-| 2022-11-20 | 357 | 57 | 
 

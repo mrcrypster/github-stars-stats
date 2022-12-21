@@ -1,10 +1,10 @@
 # square/pjson - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 1
 
-★ Stars: 88
+★ Stars: 90
 
 [Open repository](https://github.com/square/pjson)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 90 | 1 | 
 | 2022-12-19 | 88 | 1 | 
 | 2022-12-18 | 88 | 1 | 
 | 2022-12-17 | 88 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 84 | 1 | 
 | 2022-11-22 | 83 | 1 | 
 | 2022-11-21 | 79 | 1 | 
-| 2022-11-20 | 79 | 1 | 
 

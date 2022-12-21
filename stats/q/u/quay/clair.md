@@ -1,6 +1,6 @@
 # quay/clair - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 1111
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 9229 | 1111 | 
 | 2022-12-19 | 9229 | 1111 | 
 | 2022-12-18 | 9226 | 1111 | 
 | 2022-12-17 | 9226 | 1111 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-24 | 9175 | 1106 | 
 | 2022-11-23 | 9175 | 1106 | 
 | 2022-11-22 | 9172 | 1106 | 
-| 2022-11-21 | 9169 | 1105 | 
 

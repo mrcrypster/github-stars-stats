@@ -1,6 +1,6 @@
 # phonowell/genshin-impact-script - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 97
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 790 | 97 | 
 | 2022-12-19 | 790 | 97 | 
 | 2022-12-18 | 787 | 97 | 
 | 2022-12-17 | 783 | 97 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 737 | 94 | 
 | 2022-11-22 | 736 | 93 | 
 | 2022-11-21 | 735 | 92 | 
-| 2022-11-20 | 733 | 92 | 
 

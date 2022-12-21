@@ -1,8 +1,8 @@
 # in28minutes/spring-microservices-v2 - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 670
+☋ Forks: 672
 
 ★ Stars: 385
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 385 | 672 | 
 | 2022-12-19 | 385 | 670 | 
 | 2022-12-18 | 385 | 669 | 
 | 2022-12-17 | 385 | 668 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 365 | 646 | 
 | 2022-11-22 | 364 | 646 | 
 | 2022-11-21 | 364 | 646 | 
-| 2022-11-20 | 363 | 645 | 
 

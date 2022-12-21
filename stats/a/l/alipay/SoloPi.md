@@ -1,6 +1,6 @@
 # alipay/SoloPi - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 1018
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 5044 | 1018 | 
 | 2022-12-19 | 5044 | 1018 | 
 | 2022-12-18 | 5043 | 1018 | 
 | 2022-12-17 | 5041 | 1018 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 5018 | 1018 | 
 | 2022-11-22 | 5017 | 1017 | 
 | 2022-11-21 | 5014 | 1017 | 
-| 2022-11-20 | 5012 | 1017 | 
 

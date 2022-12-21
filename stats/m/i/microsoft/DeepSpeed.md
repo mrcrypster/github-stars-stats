@@ -1,10 +1,10 @@
 # microsoft/DeepSpeed - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 988
 
-★ Stars: 8360
+★ Stars: 8367
 
 [Open repository](https://github.com/microsoft/DeepSpeed)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 8367 | 988 | 
 | 2022-12-20 | 8360 | 988 | 
 | 2022-12-19 | 8355 | 985 | 
 | 2022-12-17 | 8347 | 985 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-23 | 8189 | 959 | 
 | 2022-11-22 | 8176 | 959 | 
 | 2022-11-21 | 8174 | 957 | 
-| 2022-11-20 | 8170 | 957 | 
 

@@ -1,10 +1,10 @@
 # python-mode/python-mode - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 896
 
-★ Stars: 5391
+★ Stars: 5390
 
 [Open repository](https://github.com/python-mode/python-mode)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 5390 | 896 | 
 | 2022-12-19 | 5391 | 896 | 
 | 2022-12-18 | 5389 | 896 | 
 | 2022-12-17 | 5390 | 897 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 5384 | 897 | 
 | 2022-11-22 | 5385 | 897 | 
 | 2022-11-21 | 5384 | 897 | 
-| 2022-11-20 | 5383 | 897 | 
 

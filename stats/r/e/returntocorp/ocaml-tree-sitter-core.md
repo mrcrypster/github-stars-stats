@@ -1,6 +1,6 @@
 # returntocorp/ocaml-tree-sitter-core - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 6
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 34 | 6 | 
+| 2022-12-20 | 34 | 6 | 
 | 2022-12-19 | 34 | 6 | 
 | 2022-12-18 | 34 | 6 | 
 | 2022-12-17 | 34 | 6 | 
@@ -41,5 +43,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 35 | 6 | 
 | 2022-11-22 | 35 | 6 | 
 | 2022-11-21 | 34 | 6 | 
-| 2022-11-20 | 34 | 6 | 
 

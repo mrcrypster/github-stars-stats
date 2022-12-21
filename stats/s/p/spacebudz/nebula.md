@@ -1,10 +1,10 @@
 # spacebudz/nebula - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 5
+☋ Forks: 7
 
-★ Stars: 45
+★ Stars: 46
 
 [Open repository](https://github.com/spacebudz/nebula)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 46 | 7 | 
 | 2022-12-19 | 45 | 5 | 
 | 2022-12-18 | 45 | 5 | 
 | 2022-12-17 | 45 | 5 | 

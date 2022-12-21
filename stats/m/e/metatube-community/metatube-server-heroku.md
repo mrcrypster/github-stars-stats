@@ -1,8 +1,8 @@
 # metatube-community/metatube-server-heroku - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 21
 
-☋ Forks: 231
+☋ Forks: 233
 
 ★ Stars: 37
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 37 | 233 | 
+| 2022-12-20 | 37 | 233 | 
 | 2022-12-19 | 37 | 231 | 
 | 2022-12-18 | 37 | 231 | 
 

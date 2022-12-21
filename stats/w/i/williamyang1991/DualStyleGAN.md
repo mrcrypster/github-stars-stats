@@ -1,10 +1,10 @@
 # williamyang1991/DualStyleGAN - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 193
 
-★ Stars: 1230
+★ Stars: 1231
 
 [Open repository](https://github.com/williamyang1991/DualStyleGAN)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 1231 | 193 | 
 | 2022-12-19 | 1230 | 193 | 
 | 2022-12-18 | 1230 | 193 | 
 | 2022-12-17 | 1228 | 193 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 1192 | 188 | 
 | 2022-11-22 | 1189 | 188 | 
 | 2022-11-21 | 1187 | 188 | 
-| 2022-11-20 | 1186 | 188 | 
 

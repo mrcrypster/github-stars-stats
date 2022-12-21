@@ -1,6 +1,6 @@
 # XXTouchNG/XXTouchNG - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 158 | 48 | 
 | 2022-12-19 | 158 | 48 | 
 | 2022-12-18 | 158 | 48 | 
 | 2022-12-17 | 158 | 48 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 158 | 48 | 
 | 2022-11-22 | 159 | 48 | 
 | 2022-11-21 | 159 | 48 | 
-| 2022-11-20 | 159 | 48 | 
 

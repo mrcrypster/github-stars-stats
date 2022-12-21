@@ -1,10 +1,10 @@
 # npm/cli - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 2265
+☋ Forks: 2266
 
-★ Stars: 6639
+★ Stars: 6642
 
 [Open repository](https://github.com/npm/cli)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 6642 | 2266 | 
 | 2022-12-19 | 6639 | 2265 | 
 | 2022-12-18 | 6638 | 2263 | 
 | 2022-12-17 | 6636 | 2261 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 6583 | 2191 | 
 | 2022-11-22 | 6580 | 2187 | 
 | 2022-11-21 | 6577 | 2184 | 
-| 2022-11-20 | 6574 | 2182 | 
 

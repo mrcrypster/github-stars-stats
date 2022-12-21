@@ -1,8 +1,8 @@
 # DHDAXCW/OpenWRT_x86_x64 - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 119
+☋ Forks: 120
 
 ★ Stars: 348
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 348 | 120 | 
 | 2022-12-19 | 348 | 119 | 
 | 2022-12-18 | 344 | 119 | 
 | 2022-12-17 | 344 | 119 | 

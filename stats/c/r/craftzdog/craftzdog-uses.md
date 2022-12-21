@@ -1,10 +1,10 @@
 # craftzdog/craftzdog-uses - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
-☋ Forks: 25
+☋ Forks: 24
 
-★ Stars: 147
+★ Stars: 148
 
 [Open repository](https://github.com/craftzdog/craftzdog-uses)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 148 | 24 | 
 | 2022-12-19 | 147 | 25 | 
 | 2022-12-18 | 147 | 24 | 
 | 2022-12-17 | 147 | 25 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 135 | 27 | 
 | 2022-11-22 | 134 | 27 | 
 | 2022-11-21 | 134 | 26 | 
-| 2022-11-20 | 133 | 26 | 
 

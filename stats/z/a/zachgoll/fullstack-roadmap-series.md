@@ -1,6 +1,6 @@
 # zachgoll/fullstack-roadmap-series - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 116
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 723 | 116 | 
 | 2022-12-19 | 723 | 116 | 
 | 2022-12-18 | 720 | 116 | 
 | 2022-12-17 | 720 | 116 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 671 | 103 | 
 | 2022-11-22 | 670 | 103 | 
 | 2022-11-21 | 667 | 103 | 
-| 2022-11-20 | 666 | 102 | 
 

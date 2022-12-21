@@ -1,6 +1,6 @@
 # name1e5s/playground - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 31 | 28 | 
 | 2022-12-19 | 31 | 28 | 
 | 2022-12-18 | 31 | 28 | 
 | 2022-12-17 | 31 | 28 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 30 | 28 | 
 | 2022-11-22 | 30 | 28 | 
 | 2022-11-21 | 29 | 28 | 
-| 2022-11-20 | 29 | 28 | 
 

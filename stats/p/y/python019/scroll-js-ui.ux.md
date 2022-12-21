@@ -1,6 +1,6 @@
 # python019/scroll-js-ui.ux - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 28 | - | 
 | 2022-12-19 | 28 | - | 
 | 2022-12-18 | 28 | - | 
 | 2022-12-17 | 28 | - | 

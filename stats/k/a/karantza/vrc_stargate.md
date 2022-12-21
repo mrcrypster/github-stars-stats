@@ -1,10 +1,10 @@
 # karantza/vrc_stargate - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 0
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/karantza/vrc_stargate)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 16 | - | 
 | 2022-12-19 | 15 | - | 
 | 2022-12-18 | 15 | - | 
 | 2022-12-17 | 15 | - | 

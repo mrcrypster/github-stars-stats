@@ -1,6 +1,6 @@
 # AyrA/ZipBomb - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 121 | 16 | 
 | 2022-12-19 | 121 | 16 | 
 | 2022-12-18 | 121 | 16 | 
 | 2022-12-17 | 121 | 16 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 120 | 16 | 
 | 2022-11-22 | 120 | 16 | 
 | 2022-11-21 | 120 | 16 | 
-| 2022-11-20 | 120 | 16 | 
 

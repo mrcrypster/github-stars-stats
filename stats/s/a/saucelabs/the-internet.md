@@ -1,10 +1,10 @@
 # saucelabs/the-internet - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 499
 
-★ Stars: 668
+★ Stars: 669
 
 [Open repository](https://github.com/saucelabs/the-internet)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 669 | 499 | 
 | 2022-12-20 | 668 | 499 | 
 | 2022-12-18 | 668 | 499 | 
 | 2022-12-17 | 668 | 499 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-23 | 664 | 500 | 
 | 2022-11-22 | 664 | 500 | 
 | 2022-11-21 | 662 | 500 | 
-| 2022-11-20 | 659 | 499 | 
 

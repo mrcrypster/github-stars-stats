@@ -1,6 +1,6 @@
 # LubosKuzma/ITSC204FinalProject - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 20
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-20 | 2 | 24 | 
 | 2022-12-19 | 2 | 24 | 
 | 2022-12-18 | 2 | 24 | 
 | 2022-12-17 | 2 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | - | 8 | 
 | 2022-11-22 | - | 6 | 
 | 2022-11-21 | - | 6 | 
-| 2022-11-20 | - | 5 | 
 

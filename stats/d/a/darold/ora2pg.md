@@ -1,6 +1,6 @@
 # darold/ora2pg - stars & forks statistics
 
-Stats updated on Dec 2022, 19
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 304
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 827 | 304 | 
+| 2022-12-20 | 827 | 304 | 
 | 2022-12-19 | 827 | 304 | 
 | 2022-12-18 | 827 | 304 | 
 | 2022-12-17 | 827 | 304 | 
@@ -41,5 +43,4 @@ Stats updated on Dec 2022, 19
 | 2022-11-23 | 823 | 300 | 
 | 2022-11-22 | 823 | 300 | 
 | 2022-11-21 | 823 | 300 | 
-| 2022-11-20 | 823 | 300 | 
 
