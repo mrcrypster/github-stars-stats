@@ -1,6 +1,6 @@
 # stancl/tenancy-docs - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 281
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 43 | 281 | 
 | 2022-12-20 | 43 | 281 | 
 | 2022-12-19 | 43 | 280 | 
 | 2022-12-18 | 43 | 279 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 42 | 266 | 
 | 2022-11-23 | 42 | 265 | 
 | 2022-11-22 | 42 | 264 | 
-| 2022-11-21 | 42 | 263 | 
 

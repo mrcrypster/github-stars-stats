@@ -1,6 +1,6 @@
 # bluetata/concise-excel-vba - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 116
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 371 | 116 | 
 | 2022-12-20 | 371 | 116 | 
 | 2022-12-19 | 370 | 116 | 
 | 2022-12-18 | 370 | 116 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-25 | 357 | 116 | 
 | 2022-11-24 | 356 | 115 | 
 | 2022-11-23 | 354 | 115 | 
-| 2022-11-22 | 353 | 115 | 
 

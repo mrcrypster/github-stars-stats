@@ -1,6 +1,6 @@
 # dangiu/PicoMemcard - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 286 | 20 | 
 | 2022-12-20 | 286 | 20 | 
 | 2022-12-19 | 285 | 20 | 
 | 2022-12-18 | 285 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 272 | 20 | 
 | 2022-11-23 | 272 | 20 | 
 | 2022-11-22 | 272 | 20 | 
-| 2022-11-21 | 270 | 20 | 
 

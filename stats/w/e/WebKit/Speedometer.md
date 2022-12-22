@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 21
 
 ☋ Forks: 14
 
-★ Stars: 197
+★ Stars: 200
 
 [Open repository](https://github.com/WebKit/Speedometer)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-21 | 197 | 14 | 
+| 2022-12-21 | 200 | 14 | 
 | 2022-12-20 | 194 | 14 | 
 | 2022-12-19 | 174 | 14 | 
 

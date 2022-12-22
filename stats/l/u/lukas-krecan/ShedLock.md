@@ -1,8 +1,8 @@
 # lukas-krecan/ShedLock - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 422
+☋ Forks: 423
 
 ★ Stars: 2746
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 2746 | 423 | 
 | 2022-12-20 | 2746 | 422 | 
 | 2022-12-19 | 2745 | 422 | 
 | 2022-12-18 | 2741 | 422 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 2712 | 418 | 
 | 2022-11-23 | 2710 | 418 | 
 | 2022-11-22 | 2710 | 418 | 
-| 2022-11-21 | 2710 | 418 | 
 

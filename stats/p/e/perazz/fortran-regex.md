@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 21
 
 ☋ Forks: 0
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/perazz/fortran-regex)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-21 | 13 | - | 
+| 2022-12-21 | 14 | - | 
 | 2022-12-20 | 13 | - | 
 

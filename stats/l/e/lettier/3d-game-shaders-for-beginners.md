@@ -1,10 +1,10 @@
 # lettier/3d-game-shaders-for-beginners - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 1120
 
-★ Stars: 14176
+★ Stars: 14185
 
 [Open repository](https://github.com/lettier/3d-game-shaders-for-beginners)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 14185 | 1120 | 
 | 2022-12-20 | 14176 | 1120 | 
 | 2022-12-19 | 14174 | 1120 | 
 | 2022-12-18 | 14167 | 1120 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 14053 | 1110 | 
 | 2022-11-23 | 14042 | 1110 | 
 | 2022-11-22 | 14034 | 1109 | 
-| 2022-11-21 | 14028 | 1108 | 
 

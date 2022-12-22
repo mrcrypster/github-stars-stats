@@ -1,8 +1,8 @@
 # HariSekhon/Templates - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 26
+☋ Forks: 27
 
 ★ Stars: 58
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 58 | 27 | 
 | 2022-12-20 | 58 | 26 | 
 | 2022-12-19 | 58 | 26 | 
 | 2022-12-18 | 58 | 26 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 55 | 26 | 
 | 2022-11-23 | 55 | 26 | 
 | 2022-11-22 | 55 | 26 | 
-| 2022-11-21 | 55 | 26 | 
 

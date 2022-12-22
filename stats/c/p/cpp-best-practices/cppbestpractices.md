@@ -1,6 +1,6 @@
 # cpp-best-practices/cppbestpractices - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 762
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 6625 | 762 | 
 | 2022-12-20 | 6625 | 762 | 
 | 2022-12-19 | 6618 | 761 | 
 | 2022-12-18 | 6616 | 759 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 6528 | 754 | 
 | 2022-11-23 | 6521 | 754 | 
 | 2022-11-22 | 6514 | 754 | 
-| 2022-11-21 | 6509 | 753 | 
 

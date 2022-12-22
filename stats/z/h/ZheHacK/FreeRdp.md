@@ -1,6 +1,6 @@
 # ZheHacK/FreeRdp - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 3 | 36 | 
 | 2022-12-20 | 3 | 36 | 
 | 2022-12-19 | 2 | 36 | 
 | 2022-12-18 | 2 | 35 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 1 | 18 | 
 | 2022-11-23 | 1 | 17 | 
 | 2022-11-22 | 1 | 15 | 
-| 2022-11-21 | 1 | 14 | 
 

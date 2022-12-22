@@ -1,6 +1,6 @@
 # q601333824/xray_crack - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 81
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 238 | 81 | 
 | 2022-12-20 | 238 | 81 | 
 | 2022-12-19 | 238 | 81 | 
 | 2022-12-18 | 238 | 81 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 237 | 81 | 
 | 2022-11-23 | 237 | 81 | 
 | 2022-11-22 | 237 | 81 | 
-| 2022-11-21 | 237 | 81 | 
 

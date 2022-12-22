@@ -1,10 +1,10 @@
 # whitesmith/rubycritic - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 217
 
-★ Stars: 3083
+★ Stars: 3085
 
 [Open repository](https://github.com/whitesmith/rubycritic)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 3085 | 217 | 
 | 2022-12-20 | 3083 | 217 | 
 | 2022-12-19 | 3083 | 217 | 
 | 2022-12-18 | 3083 | 217 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 3071 | 216 | 
 | 2022-11-23 | 3069 | 216 | 
 | 2022-11-22 | 3065 | 215 | 
-| 2022-11-21 | 3063 | 215 | 
 

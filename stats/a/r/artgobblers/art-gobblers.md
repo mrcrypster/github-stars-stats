@@ -1,8 +1,8 @@
 # artgobblers/art-gobblers - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 46
+☋ Forks: 47
 
 ★ Stars: 367
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 367 | 47 | 
 | 2022-12-20 | 367 | 46 | 
 | 2022-12-19 | 364 | 44 | 
 | 2022-12-18 | 361 | 42 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 352 | 41 | 
 | 2022-11-23 | 352 | 41 | 
 | 2022-11-22 | 352 | 41 | 
-| 2022-11-21 | 351 | 41 | 
 

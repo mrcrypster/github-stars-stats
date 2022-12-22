@@ -1,8 +1,8 @@
 # hamcrest/OCHamcrest - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 100
+☋ Forks: 101
 
 ★ Stars: 716
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 716 | 101 | 
 | 2022-12-20 | 716 | 100 | 
 | 2022-12-19 | 716 | 100 | 
 | 2022-12-18 | 716 | 100 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 716 | 99 | 
 | 2022-11-23 | 716 | 99 | 
 | 2022-11-22 | 716 | 99 | 
-| 2022-11-21 | 716 | 99 | 
 

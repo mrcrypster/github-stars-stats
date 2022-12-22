@@ -1,6 +1,6 @@
 # eldadru/ksniff - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 146
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 2518 | 146 | 
 | 2022-12-20 | 2518 | 146 | 
 | 2022-12-19 | 2516 | 145 | 
 | 2022-12-18 | 2515 | 145 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 2484 | 142 | 
 | 2022-11-23 | 2481 | 141 | 
 | 2022-11-22 | 2480 | 141 | 
-| 2022-11-21 | 2480 | 141 | 
 

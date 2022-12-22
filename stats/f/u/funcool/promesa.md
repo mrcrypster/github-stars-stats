@@ -1,10 +1,10 @@
 # funcool/promesa - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 52
 
-★ Stars: 403
+★ Stars: 404
 
 [Open repository](https://github.com/funcool/promesa)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 404 | 52 | 
 | 2022-12-20 | 403 | 52 | 
 | 2022-12-19 | 402 | 52 | 
 | 2022-12-18 | 402 | 52 | 

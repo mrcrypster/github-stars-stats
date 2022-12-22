@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 21
 
-☋ Forks: 232
+☋ Forks: 233
 
-★ Stars: 372
+★ Stars: 375
 
 [Open repository](https://github.com/tngoman/Store-POS)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-21 | 372 | 232 | 
+| 2022-12-21 | 375 | 233 | 
 | 2022-12-20 | 372 | 232 | 
 

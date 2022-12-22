@@ -1,10 +1,10 @@
 # robaho/seashore - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 16
 
-★ Stars: 378
+★ Stars: 377
 
 [Open repository](https://github.com/robaho/seashore)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 377 | 16 | 
 | 2022-12-20 | 378 | 16 | 
 | 2022-12-19 | 378 | 16 | 
 | 2022-12-18 | 378 | 16 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 377 | 16 | 
 | 2022-11-23 | 377 | 16 | 
 | 2022-11-22 | 377 | 16 | 
-| 2022-11-21 | 376 | 16 | 
 

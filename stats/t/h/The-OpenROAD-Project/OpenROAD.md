@@ -1,6 +1,6 @@
 # The-OpenROAD-Project/OpenROAD - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 257
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 698 | 257 | 
+| 2022-12-21 | 698 | 257 | 
 | 2022-12-20 | 698 | 257 | 
 | 2022-12-19 | 698 | 257 | 
 | 2022-12-18 | 698 | 256 | 
@@ -41,5 +43,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 686 | 248 | 
 | 2022-11-23 | 684 | 248 | 
 | 2022-11-22 | 685 | 247 | 
-| 2022-11-21 | 684 | 247 | 
 

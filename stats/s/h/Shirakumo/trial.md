@@ -1,6 +1,6 @@
 # Shirakumo/trial - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 459 | 23 | 
 | 2022-12-20 | 459 | 23 | 
 | 2022-12-19 | 459 | 23 | 
 | 2022-12-18 | 457 | 23 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 449 | 22 | 
 | 2022-11-23 | 449 | 22 | 
 | 2022-11-22 | 449 | 22 | 
-| 2022-11-21 | 448 | 22 | 
 

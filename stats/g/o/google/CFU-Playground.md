@@ -1,10 +1,10 @@
 # google/CFU-Playground - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 78
 
-★ Stars: 323
+★ Stars: 325
 
 [Open repository](https://github.com/google/CFU-Playground)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 325 | 78 | 
 | 2022-12-20 | 323 | 78 | 
 | 2022-12-19 | 323 | 78 | 
 | 2022-12-18 | 323 | 78 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 318 | 77 | 
 | 2022-11-23 | 318 | 77 | 
 | 2022-11-22 | 318 | 77 | 
-| 2022-11-21 | 319 | 77 | 
 

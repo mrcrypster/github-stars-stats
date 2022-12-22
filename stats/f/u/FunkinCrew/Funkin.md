@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 21
 
-☋ Forks: 2016
+☋ Forks: 2017
 
-★ Stars: 2204
+★ Stars: 2206
 
 [Open repository](https://github.com/FunkinCrew/Funkin)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-21 | 2204 | 2016 | 
+| 2022-12-21 | 2206 | 2017 | 
 | 2022-12-20 | 2204 | 2016 | 
 | 2022-12-19 | 2204 | 2018 | 
 | 2022-12-18 | 2202 | 2018 | 

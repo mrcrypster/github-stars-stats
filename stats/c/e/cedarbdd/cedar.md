@@ -1,8 +1,8 @@
 # cedarbdd/cedar - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 22
 
-☋ Forks: 152
+☋ Forks: 151
 
 ★ Stars: 1191
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 1191 | 151 | 
+| 2022-12-21 | 1191 | 151 | 
 | 2022-12-20 | 1191 | 152 | 
 | 2022-12-19 | 1191 | 152 | 
 | 2022-12-18 | 1191 | 152 | 
@@ -41,5 +43,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 1191 | 152 | 
 | 2022-11-23 | 1191 | 152 | 
 | 2022-11-22 | 1191 | 152 | 
-| 2022-11-21 | 1190 | 152 | 
 

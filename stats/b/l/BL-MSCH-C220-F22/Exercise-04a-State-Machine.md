@@ -1,6 +1,6 @@
 # BL-MSCH-C220-F22/Exercise-04a-State-Machine - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | - | 42 | 
 | 2022-12-20 | - | 42 | 
 | 2022-12-19 | - | 42 | 
 | 2022-12-18 | - | 42 | 

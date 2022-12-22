@@ -1,6 +1,6 @@
 # Pr-Mex/vanessa-automation - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 163
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 316 | 163 | 
 | 2022-12-20 | 316 | 163 | 
 | 2022-12-19 | 316 | 163 | 
 | 2022-12-18 | 315 | 162 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 313 | 161 | 
 | 2022-11-23 | 312 | 161 | 
 | 2022-11-22 | 312 | 161 | 
-| 2022-11-21 | 312 | 161 | 
 

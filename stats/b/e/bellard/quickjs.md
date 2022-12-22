@@ -1,10 +1,10 @@
 # bellard/quickjs - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 538
 
-★ Stars: 5393
+★ Stars: 5401
 
 [Open repository](https://github.com/bellard/quickjs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 5401 | 538 | 
 | 2022-12-20 | 5393 | 538 | 
 | 2022-12-19 | 5390 | 538 | 
 | 2022-12-18 | 5386 | 538 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-25 | 5272 | 529 | 
 | 2022-11-24 | 5266 | 529 | 
 | 2022-11-23 | 5262 | 528 | 
-| 2022-11-22 | 5251 | 526 | 
 

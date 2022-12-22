@@ -1,6 +1,6 @@
 # demisto/dockerfiles - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 94
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 45 | 94 | 
 | 2022-12-20 | 45 | 94 | 
 | 2022-12-19 | 45 | 94 | 
 | 2022-12-18 | 45 | 94 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 43 | 95 | 
 | 2022-11-23 | 43 | 95 | 
 | 2022-11-22 | 43 | 95 | 
-| 2022-11-21 | 43 | 95 | 
 

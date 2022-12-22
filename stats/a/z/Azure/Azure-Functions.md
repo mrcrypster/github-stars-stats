@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 21
 
 ☋ Forks: 169
 
-★ Stars: 1004
+★ Stars: 1005
 
 [Open repository](https://github.com/Azure/Azure-Functions)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-21 | 1004 | 169 | 
+| 2022-12-21 | 1005 | 169 | 
 | 2022-12-20 | 1004 | 169 | 
 | 2022-12-19 | 1003 | 169 | 
 | 2022-12-18 | 1003 | 169 | 

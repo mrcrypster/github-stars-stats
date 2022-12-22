@@ -1,10 +1,10 @@
 # vmware-tanzu/octant - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 438
 
-★ Stars: 6164
+★ Stars: 6165
 
 [Open repository](https://github.com/vmware-tanzu/octant)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 6165 | 438 | 
 | 2022-12-20 | 6164 | 438 | 
 | 2022-12-19 | 6163 | 438 | 
 | 2022-12-18 | 6163 | 438 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 6121 | 431 | 
 | 2022-11-23 | 6119 | 431 | 
 | 2022-11-22 | 6116 | 431 | 
-| 2022-11-21 | 6107 | 431 | 
 

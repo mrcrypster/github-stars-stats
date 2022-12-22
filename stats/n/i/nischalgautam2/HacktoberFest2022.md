@@ -1,6 +1,6 @@
 # nischalgautam2/HacktoberFest2022 - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 17 | 56 | 
 | 2022-12-20 | 17 | 56 | 
 | 2022-12-19 | 17 | 56 | 
 | 2022-12-18 | 17 | 56 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-25 | 16 | 55 | 
 | 2022-11-24 | 16 | 55 | 
 | 2022-11-23 | 16 | 55 | 
-| 2022-11-22 | 16 | 55 | 
 

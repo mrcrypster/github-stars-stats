@@ -1,8 +1,8 @@
 # apna-college/Alpha - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 39
+☋ Forks: 40
 
 ★ Stars: 120
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 120 | 40 | 
 | 2022-12-20 | 120 | 39 | 
 | 2022-12-19 | 119 | 40 | 
 | 2022-12-18 | 118 | 40 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 108 | 34 | 
 | 2022-11-23 | 108 | 34 | 
 | 2022-11-22 | 106 | 32 | 
-| 2022-11-21 | 106 | 32 | 
 

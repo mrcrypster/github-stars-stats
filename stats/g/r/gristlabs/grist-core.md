@@ -1,6 +1,6 @@
 # gristlabs/grist-core - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 164
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 3502 | 164 | 
 | 2022-12-20 | 3502 | 164 | 
 | 2022-12-19 | 3501 | 164 | 
 | 2022-12-18 | 3500 | 164 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 3447 | 160 | 
 | 2022-11-23 | 3447 | 160 | 
 | 2022-11-22 | 3446 | 160 | 
-| 2022-11-21 | 3446 | 160 | 
 

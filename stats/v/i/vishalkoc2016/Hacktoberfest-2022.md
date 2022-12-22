@@ -1,6 +1,6 @@
 # vishalkoc2016/Hacktoberfest-2022 - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 17 | 51 | 
 | 2022-12-20 | 17 | 51 | 
 | 2022-12-19 | 17 | 52 | 
 | 2022-12-18 | 17 | 52 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-25 | 18 | 54 | 
 | 2022-11-24 | 18 | 54 | 
 | 2022-11-23 | 18 | 54 | 
-| 2022-11-22 | 18 | 54 | 
 

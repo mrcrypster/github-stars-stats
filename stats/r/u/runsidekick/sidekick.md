@@ -1,10 +1,10 @@
 # runsidekick/sidekick - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 64
 
-★ Stars: 1582
+★ Stars: 1584
 
 [Open repository](https://github.com/runsidekick/sidekick)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 1584 | 64 | 
 | 2022-12-20 | 1582 | 64 | 
 | 2022-12-19 | 1582 | 64 | 
 | 2022-12-18 | 1581 | 64 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 1523 | 62 | 
 | 2022-11-23 | 1523 | 62 | 
 | 2022-11-22 | 1521 | 62 | 
-| 2022-11-21 | 1520 | 63 | 
 

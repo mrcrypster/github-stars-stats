@@ -1,10 +1,10 @@
 # input-output-hk/plutus-pioneer-program - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 590
 
-★ Stars: 1343
+★ Stars: 1344
 
 [Open repository](https://github.com/input-output-hk/plutus-pioneer-program)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 1344 | 590 | 
 | 2022-12-20 | 1343 | 590 | 
 | 2022-12-19 | 1343 | 590 | 
 | 2022-12-18 | 1342 | 590 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-25 | 1341 | 592 | 
 | 2022-11-23 | 1341 | 592 | 
 | 2022-11-22 | 1341 | 592 | 
-| 2022-11-21 | 1341 | 592 | 
 

@@ -1,6 +1,6 @@
 # Dev-Salem/notat - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 149 | 11 | 
 | 2022-12-20 | 149 | 11 | 
 | 2022-12-19 | 148 | 11 | 
 | 2022-12-18 | 148 | 11 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 143 | 12 | 
 | 2022-11-23 | 142 | 12 | 
 | 2022-11-22 | 142 | 12 | 
-| 2022-11-21 | 142 | 12 | 
 

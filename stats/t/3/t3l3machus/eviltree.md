@@ -1,10 +1,10 @@
 # t3l3machus/eviltree - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 30
 
-★ Stars: 268
+★ Stars: 271
 
 [Open repository](https://github.com/t3l3machus/eviltree)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 271 | 30 | 
 | 2022-12-20 | 268 | 30 | 
 | 2022-12-19 | 261 | 30 | 
 | 2022-12-18 | 259 | 30 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 187 | 18 | 
 | 2022-11-23 | 187 | 18 | 
 | 2022-11-22 | 187 | 18 | 
-| 2022-11-21 | 187 | 17 | 
 

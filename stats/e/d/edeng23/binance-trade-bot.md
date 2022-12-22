@@ -1,10 +1,10 @@
 # edeng23/binance-trade-bot - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 2040
 
-★ Stars: 6949
+★ Stars: 6950
 
 [Open repository](https://github.com/edeng23/binance-trade-bot)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 6950 | 2040 | 
 | 2022-12-20 | 6949 | 2040 | 
 | 2022-12-19 | 6945 | 2039 | 
 | 2022-12-18 | 6944 | 2040 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 6909 | 2037 | 
 | 2022-11-23 | 6904 | 2039 | 
 | 2022-11-22 | 6904 | 2038 | 
-| 2022-11-21 | 6904 | 2037 | 
 

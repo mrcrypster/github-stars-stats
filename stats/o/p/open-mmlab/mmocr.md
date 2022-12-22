@@ -1,10 +1,10 @@
 # open-mmlab/mmocr - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 572
+☋ Forks: 573
 
-★ Stars: 3020
+★ Stars: 3023
 
 [Open repository](https://github.com/open-mmlab/mmocr)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 3023 | 573 | 
 | 2022-12-20 | 3020 | 572 | 
 | 2022-12-19 | 3017 | 571 | 
 | 2022-12-18 | 3017 | 571 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-25 | 2972 | 562 | 
 | 2022-11-24 | 2961 | 560 | 
 | 2022-11-23 | 2959 | 556 | 
-| 2022-11-22 | 2957 | 555 | 
 

@@ -1,6 +1,6 @@
 # fosslk/Campus-Club - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 5 | 32 | 
 | 2022-12-20 | 5 | 32 | 
 | 2022-12-19 | 4 | 32 | 
 | 2022-12-18 | 4 | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 4 | 31 | 
 | 2022-11-23 | 4 | 31 | 
 | 2022-11-22 | 4 | 31 | 
-| 2022-11-21 | 4 | 31 | 
 

@@ -1,8 +1,8 @@
 # fluttercommunity/chewie - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 808
+☋ Forks: 807
 
 ★ Stars: 1605
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 1605 | 807 | 
 | 2022-12-20 | 1605 | 808 | 
 | 2022-12-19 | 1605 | 808 | 
 | 2022-12-18 | 1605 | 807 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 1597 | 807 | 
 | 2022-11-23 | 1597 | 806 | 
 | 2022-11-22 | 1597 | 806 | 
-| 2022-11-21 | 1597 | 806 | 
 

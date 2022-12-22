@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 21
 
-☋ Forks: 1047
+☋ Forks: 1048
 
-★ Stars: 299
+★ Stars: 300
 
 [Open repository](https://github.com/terraform-google-modules/terraform-google-network)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-21 | 299 | 1047 | 
+| 2022-12-21 | 300 | 1048 | 
 | 2022-12-20 | 299 | 1047 | 
 | 2022-12-19 | 300 | 1045 | 
 | 2022-12-18 | 300 | 1045 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-24 | 295 | 1033 | 
 | 2022-11-23 | 295 | 1033 | 
 | 2022-11-22 | 295 | 1032 | 
-| 2022-11-21 | 295 | 1030 | 
 

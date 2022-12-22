@@ -1,10 +1,10 @@
 # v2fly/v2ray-core - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 3248
+☋ Forks: 3249
 
-★ Stars: 19800
+★ Stars: 19813
 
 [Open repository](https://github.com/v2fly/v2ray-core)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 19813 | 3249 | 
 | 2022-12-20 | 19800 | 3248 | 
 | 2022-12-19 | 19793 | 3248 | 
 | 2022-12-18 | 19782 | 3246 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 19341 | 3188 | 
 | 2022-11-23 | 19324 | 3186 | 
 | 2022-11-22 | 19321 | 3184 | 
-| 2022-11-21 | 19291 | 3178 | 
 

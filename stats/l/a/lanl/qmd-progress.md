@@ -1,6 +1,6 @@
 # lanl/qmd-progress - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 14 | 12 | 
 | 2022-12-20 | 14 | 12 | 
 | 2022-12-19 | 14 | 12 | 
 | 2022-12-18 | 14 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-25 | 13 | 12 | 
 | 2022-11-24 | 13 | 12 | 
 | 2022-11-23 | 13 | 12 | 
-| 2022-11-22 | 13 | 12 | 
 

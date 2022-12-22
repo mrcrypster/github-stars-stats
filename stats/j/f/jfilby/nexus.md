@@ -1,6 +1,6 @@
 # jfilby/nexus - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 71 | 2 | 
 | 2022-12-20 | 71 | 2 | 
 | 2022-12-19 | 71 | 2 | 
 | 2022-12-18 | 70 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 68 | 2 | 
 | 2022-11-23 | 68 | 2 | 
 | 2022-11-22 | 68 | 2 | 
-| 2022-11-21 | 68 | 2 | 
 

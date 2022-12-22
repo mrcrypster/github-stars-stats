@@ -1,10 +1,10 @@
 # wang-xinyu/tensorrtx - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 1432
+☋ Forks: 1434
 
-★ Stars: 4941
+★ Stars: 4942
 
 [Open repository](https://github.com/wang-xinyu/tensorrtx)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 4942 | 1434 | 
 | 2022-12-20 | 4941 | 1432 | 
 | 2022-12-19 | 4938 | 1433 | 
 | 2022-12-18 | 4934 | 1432 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 4857 | 1411 | 
 | 2022-11-23 | 4856 | 1411 | 
 | 2022-11-22 | 4850 | 1411 | 
-| 2022-11-21 | 4848 | 1410 | 
 

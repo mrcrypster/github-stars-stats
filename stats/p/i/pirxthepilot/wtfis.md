@@ -1,6 +1,6 @@
 # pirxthepilot/wtfis - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 659 | 32 | 
 | 2022-12-20 | 659 | 32 | 
 | 2022-12-19 | 658 | 32 | 
 | 2022-12-18 | 657 | 32 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 644 | 31 | 
 | 2022-11-23 | 641 | 31 | 
 | 2022-11-22 | 636 | 29 | 
-| 2022-11-21 | 630 | 29 | 
 

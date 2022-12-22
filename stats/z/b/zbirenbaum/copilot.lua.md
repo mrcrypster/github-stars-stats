@@ -1,10 +1,10 @@
 # zbirenbaum/copilot.lua - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 15
 
-★ Stars: 390
+★ Stars: 393
 
 [Open repository](https://github.com/zbirenbaum/copilot.lua)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 393 | 15 | 
 | 2022-12-20 | 390 | 15 | 
 | 2022-12-19 | 386 | 15 | 
 | 2022-12-18 | 384 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 343 | 13 | 
 | 2022-11-23 | 338 | 13 | 
 | 2022-11-22 | 338 | 13 | 
-| 2022-11-21 | 337 | 13 | 
 

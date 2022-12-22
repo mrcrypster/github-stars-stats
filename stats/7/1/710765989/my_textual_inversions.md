@@ -1,10 +1,10 @@
 # 710765989/my_textual_inversions - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 30
 
-★ Stars: 156
+★ Stars: 157
 
 [Open repository](https://github.com/710765989/my_textual_inversions)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 157 | 30 | 
 | 2022-12-20 | 156 | 30 | 
 | 2022-12-19 | 155 | 30 | 
 | 2022-12-18 | 155 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 120 | 23 | 
 | 2022-11-23 | 119 | 23 | 
 | 2022-11-22 | 114 | 23 | 
-| 2022-11-21 | 113 | 23 | 
 

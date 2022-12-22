@@ -1,10 +1,10 @@
 # projectdiscovery/fuzzing-templates - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 21
 
-★ Stars: 199
+★ Stars: 201
 
 [Open repository](https://github.com/projectdiscovery/fuzzing-templates)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 201 | 21 | 
 | 2022-12-20 | 199 | 21 | 
 | 2022-12-19 | 199 | 21 | 
 | 2022-12-18 | 198 | 21 | 

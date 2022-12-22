@@ -1,8 +1,8 @@
 # DominikDoom/a1111-sd-webui-tagcomplete - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 45
+☋ Forks: 46
 
 ★ Stars: 497
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 497 | 46 | 
 | 2022-12-20 | 497 | 45 | 
 | 2022-12-19 | 494 | 44 | 
 | 2022-12-18 | 492 | 43 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-25 | 443 | 39 | 
 | 2022-11-24 | 442 | 39 | 
 | 2022-11-23 | 442 | 39 | 
-| 2022-11-22 | 437 | 39 | 
 

@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 21
 
 ☋ Forks: 1695
 
-★ Stars: 6773
+★ Stars: 6774
 
 [Open repository](https://github.com/all-contributors/all-contributors)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-21 | 6773 | 1695 | 
+| 2022-12-21 | 6774 | 1695 | 
 | 2022-12-20 | 6773 | 1695 | 
 | 2022-12-19 | 6768 | 1692 | 
 | 2022-12-18 | 6765 | 1691 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-24 | 6706 | 1666 | 
 | 2022-11-23 | 6702 | 1665 | 
 | 2022-11-22 | 6702 | 1665 | 
-| 2022-11-21 | 6698 | 1664 | 
 

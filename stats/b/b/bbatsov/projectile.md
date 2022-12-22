@@ -1,8 +1,8 @@
 # bbatsov/projectile - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 562
+☋ Forks: 561
 
 ★ Stars: 3711
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 3711 | 561 | 
 | 2022-12-20 | 3711 | 562 | 
 | 2022-12-19 | 3713 | 562 | 
 | 2022-12-18 | 3713 | 562 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 3695 | 564 | 
 | 2022-11-23 | 3695 | 564 | 
 | 2022-11-22 | 3691 | 564 | 
-| 2022-11-21 | 3689 | 564 | 
 

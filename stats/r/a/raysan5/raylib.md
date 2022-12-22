@@ -1,10 +1,10 @@
 # raysan5/raylib - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 1386
 
-★ Stars: 11261
+★ Stars: 11270
 
 [Open repository](https://github.com/raysan5/raylib)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 11270 | 1386 | 
 | 2022-12-20 | 11261 | 1386 | 
 | 2022-12-19 | 11258 | 1387 | 
 | 2022-12-18 | 11251 | 1386 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 11106 | 1370 | 
 | 2022-11-23 | 11100 | 1366 | 
 | 2022-11-22 | 11098 | 1366 | 
-| 2022-11-21 | 11075 | 1367 | 
 

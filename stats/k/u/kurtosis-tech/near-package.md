@@ -1,10 +1,10 @@
 # kurtosis-tech/near-package - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 1
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/kurtosis-tech/near-package)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 3 | 1 | 
+| 2022-12-21 | 3 | 1 | 
 | 2022-12-20 | 2 | 1 | 
 | 2022-12-19 | 2 | 1 | 
 | 2022-12-18 | 2 | - | 

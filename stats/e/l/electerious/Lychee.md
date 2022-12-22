@@ -1,6 +1,6 @@
 # electerious/Lychee - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 695
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 6155 | 695 | 
 | 2022-12-20 | 6155 | 695 | 
 | 2022-12-19 | 6155 | 695 | 
 | 2022-12-18 | 6155 | 695 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 6145 | 699 | 
 | 2022-11-23 | 6145 | 699 | 
 | 2022-11-22 | 6143 | 699 | 
-| 2022-11-21 | 6141 | 699 | 
 

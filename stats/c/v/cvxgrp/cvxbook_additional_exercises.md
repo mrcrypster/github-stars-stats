@@ -1,6 +1,6 @@
 # cvxgrp/cvxbook_additional_exercises - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 104 | 27 | 
 | 2022-12-20 | 104 | 27 | 
 | 2022-12-19 | 103 | 27 | 
 | 2022-12-18 | 103 | 27 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 82 | 22 | 
 | 2022-11-23 | 82 | 22 | 
 | 2022-11-22 | 80 | 22 | 
-| 2022-11-21 | 80 | 22 | 
 

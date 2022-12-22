@@ -1,6 +1,6 @@
 # Ascotbe/Kernelhub - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 618
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 2356 | 618 | 
 | 2022-12-20 | 2356 | 618 | 
 | 2022-12-19 | 2353 | 619 | 
 | 2022-12-18 | 2351 | 619 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 2300 | 603 | 
 | 2022-11-23 | 2298 | 603 | 
 | 2022-11-22 | 2296 | 602 | 
-| 2022-11-21 | 2292 | 601 | 
 

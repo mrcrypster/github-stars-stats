@@ -1,6 +1,6 @@
 # lando/drupal - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 4 | 8 | 
 | 2022-12-20 | 4 | 8 | 
 | 2022-12-19 | 4 | 8 | 
 | 2022-12-18 | 4 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 3 | 7 | 
 | 2022-11-23 | 3 | 7 | 
 | 2022-11-22 | 3 | 7 | 
-| 2022-11-21 | 3 | 7 | 
 

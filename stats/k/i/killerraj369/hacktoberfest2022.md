@@ -1,6 +1,6 @@
 # killerraj369/hacktoberfest2022 - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 1 | 8 | 
 | 2022-12-20 | 1 | 8 | 
 | 2022-12-19 | 1 | 8 | 
 | 2022-12-18 | 1 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 2 | 9 | 
 | 2022-11-23 | 2 | 9 | 
 | 2022-11-22 | 2 | 9 | 
-| 2022-11-21 | 2 | 9 | 
 

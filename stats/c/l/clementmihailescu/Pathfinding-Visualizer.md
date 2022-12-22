@@ -1,10 +1,10 @@
 # clementmihailescu/Pathfinding-Visualizer - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 447
 
-★ Stars: 1451
+★ Stars: 1452
 
 [Open repository](https://github.com/clementmihailescu/Pathfinding-Visualizer)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 1452 | 447 | 
 | 2022-12-20 | 1451 | 447 | 
 | 2022-12-19 | 1451 | 447 | 
 | 2022-12-18 | 1451 | 447 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 1444 | 444 | 
 | 2022-11-23 | 1444 | 444 | 
 | 2022-11-22 | 1443 | 444 | 
-| 2022-11-21 | 1443 | 444 | 
 

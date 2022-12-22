@@ -1,6 +1,6 @@
 # oxfordcontrol/Clarabel.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 91 | 9 | 
 | 2022-12-20 | 91 | 9 | 
 | 2022-12-19 | 91 | 9 | 
 | 2022-12-18 | 91 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 88 | 9 | 
 | 2022-11-23 | 88 | 9 | 
 | 2022-11-22 | 87 | 9 | 
-| 2022-11-21 | 87 | 9 | 
 

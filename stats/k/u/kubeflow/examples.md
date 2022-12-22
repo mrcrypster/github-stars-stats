@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 21
 
 ☋ Forks: 690
 
-★ Stars: 1235
+★ Stars: 1236
 
 [Open repository](https://github.com/kubeflow/examples)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-21 | 1235 | 690 | 
+| 2022-12-21 | 1236 | 690 | 
 | 2022-12-20 | 1235 | 690 | 
 | 2022-12-19 | 1233 | 691 | 
 | 2022-12-18 | 1233 | 691 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-24 | 1225 | 687 | 
 | 2022-11-23 | 1225 | 687 | 
 | 2022-11-22 | 1225 | 687 | 
-| 2022-11-21 | 1224 | 688 | 
 

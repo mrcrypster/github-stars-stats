@@ -1,10 +1,10 @@
 # yuzu-emu/yuzu - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 1954
+☋ Forks: 1955
 
-★ Stars: 23132
+★ Stars: 23139
 
 [Open repository](https://github.com/yuzu-emu/yuzu)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 23139 | 1955 | 
 | 2022-12-20 | 23132 | 1954 | 
 | 2022-12-19 | 23125 | 1952 | 
 | 2022-12-18 | 23113 | 1949 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 22740 | 1913 | 
 | 2022-11-23 | 22720 | 1908 | 
 | 2022-11-22 | 22705 | 1908 | 
-| 2022-11-21 | 22695 | 1907 | 
 

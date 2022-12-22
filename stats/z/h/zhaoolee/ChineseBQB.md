@@ -1,10 +1,10 @@
 # zhaoolee/ChineseBQB - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 1162
 
-★ Stars: 10847
+★ Stars: 10850
 
 [Open repository](https://github.com/zhaoolee/ChineseBQB)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 10850 | 1162 | 
 | 2022-12-20 | 10847 | 1162 | 
 | 2022-12-19 | 10845 | 1162 | 
 | 2022-12-18 | 10841 | 1161 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-25 | 10791 | 1149 | 
 | 2022-11-23 | 10789 | 1149 | 
 | 2022-11-22 | 10788 | 1149 | 
-| 2022-11-21 | 10787 | 1148 | 
 

@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 21
 
 ☋ Forks: 61
 
-★ Stars: 1794
+★ Stars: 1796
 
 [Open repository](https://github.com/numToStr/Comment.nvim)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-21 | 1794 | 61 | 
+| 2022-12-21 | 1796 | 61 | 
 | 2022-12-20 | 1793 | 61 | 
 | 2022-12-19 | 1788 | 61 | 
 | 2022-12-18 | 1778 | 60 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-24 | 1686 | 61 | 
 | 2022-11-23 | 1683 | 61 | 
 | 2022-11-22 | 1676 | 60 | 
-| 2022-11-21 | 1665 | 60 | 
 

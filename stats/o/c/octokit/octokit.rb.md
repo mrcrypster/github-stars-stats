@@ -1,8 +1,8 @@
 # octokit/octokit.rb - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 1254
+☋ Forks: 1256
 
 ★ Stars: 3712
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 3712 | 1256 | 
 | 2022-12-20 | 3712 | 1254 | 
 | 2022-12-19 | 3712 | 1254 | 
 | 2022-12-18 | 3711 | 1254 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 3699 | 1245 | 
 | 2022-11-23 | 3699 | 1244 | 
 | 2022-11-22 | 3699 | 1244 | 
-| 2022-11-21 | 3699 | 1244 | 
 

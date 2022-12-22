@@ -1,10 +1,10 @@
 # pkivolowitz/asm_book - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 4
 
-★ Stars: 81
+★ Stars: 82
 
 [Open repository](https://github.com/pkivolowitz/asm_book)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 82 | 4 | 
 | 2022-12-20 | 81 | 4 | 
 | 2022-12-19 | 81 | 4 | 
 | 2022-12-18 | 81 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 75 | 4 | 
 | 2022-11-23 | 75 | 4 | 
 | 2022-11-22 | 75 | 4 | 
-| 2022-11-21 | 75 | 4 | 
 

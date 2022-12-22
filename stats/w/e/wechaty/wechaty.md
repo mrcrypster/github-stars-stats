@@ -1,10 +1,10 @@
 # wechaty/wechaty - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 1979
+☋ Forks: 1980
 
-★ Stars: 14371
+★ Stars: 14386
 
 [Open repository](https://github.com/wechaty/wechaty)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 14386 | 1980 | 
 | 2022-12-20 | 14371 | 1979 | 
 | 2022-12-19 | 14360 | 1978 | 
 | 2022-12-18 | 14349 | 1975 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 13786 | 1930 | 
 | 2022-11-23 | 13784 | 1929 | 
 | 2022-11-22 | 13779 | 1927 | 
-| 2022-11-21 | 13769 | 1926 | 
 

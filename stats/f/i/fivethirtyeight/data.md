@@ -1,10 +1,10 @@
 # fivethirtyeight/data - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 10854
+☋ Forks: 10855
 
-★ Stars: 15958
+★ Stars: 15960
 
 [Open repository](https://github.com/fivethirtyeight/data)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 15960 | 10855 | 
 | 2022-12-20 | 15958 | 10854 | 
 | 2022-12-19 | 15957 | 10854 | 
 | 2022-12-18 | 15956 | 10853 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-25 | 15914 | 10807 | 
 | 2022-11-24 | 15906 | 10805 | 
 | 2022-11-22 | 15904 | 10806 | 
-| 2022-11-21 | 15902 | 10804 | 
 

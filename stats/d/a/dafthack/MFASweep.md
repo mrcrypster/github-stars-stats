@@ -1,8 +1,8 @@
 # dafthack/MFASweep - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 22
 
-☋ Forks: 107
+☋ Forks: 108
 
 ★ Stars: 747
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 747 | 108 | 
+| 2022-12-21 | 747 | 108 | 
 | 2022-12-20 | 747 | 107 | 
 | 2022-12-19 | 742 | 106 | 
 | 2022-12-18 | 741 | 106 | 

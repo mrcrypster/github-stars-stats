@@ -1,6 +1,6 @@
 # actions/typescript-action - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 328
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 1273 | 328 | 
 | 2022-12-20 | 1273 | 328 | 
 | 2022-12-19 | 1272 | 327 | 
 | 2022-12-18 | 1271 | 327 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 1241 | 315 | 
 | 2022-11-23 | 1240 | 315 | 
 | 2022-11-22 | 1238 | 315 | 
-| 2022-11-21 | 1237 | 315 | 
 

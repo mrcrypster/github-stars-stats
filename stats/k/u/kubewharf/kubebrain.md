@@ -1,10 +1,10 @@
 # kubewharf/kubebrain - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 46
 
-★ Stars: 500
+★ Stars: 502
 
 [Open repository](https://github.com/kubewharf/kubebrain)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 502 | 46 | 
 | 2022-12-20 | 500 | 46 | 
 | 2022-12-19 | 500 | 46 | 
 | 2022-12-18 | 499 | 46 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 392 | 37 | 
 | 2022-11-23 | 374 | 36 | 
 | 2022-11-22 | 349 | 35 | 
-| 2022-11-21 | 348 | 35 | 
 

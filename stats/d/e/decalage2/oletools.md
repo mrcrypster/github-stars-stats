@@ -1,10 +1,10 @@
 # decalage2/oletools - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 511
+☋ Forks: 512
 
-★ Stars: 2287
+★ Stars: 2290
 
 [Open repository](https://github.com/decalage2/oletools)
 
@@ -13,7 +13,8 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-21 | 2287 | 511 | 
+| 2022-12-22 | 2290 | 512 | 
+| 2022-12-21 | 2290 | 512 | 
 | 2022-12-20 | 2287 | 511 | 
 | 2022-12-19 | 2287 | 511 | 
 | 2022-12-18 | 2287 | 511 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-24 | 2264 | 505 | 
 | 2022-11-23 | 2262 | 505 | 
 | 2022-11-22 | 2261 | 506 | 
-| 2022-11-21 | 2260 | 505 | 
 

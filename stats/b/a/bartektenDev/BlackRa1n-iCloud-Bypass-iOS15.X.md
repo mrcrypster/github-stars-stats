@@ -1,8 +1,8 @@
 # bartektenDev/BlackRa1n-iCloud-Bypass-iOS15.X - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 4
+☋ Forks: 5
 
 ★ Stars: 18
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 18 | 5 | 
 | 2022-12-20 | 18 | 4 | 
 | 2022-12-19 | 18 | 2 | 
 | 2022-12-18 | 15 | 2 | 

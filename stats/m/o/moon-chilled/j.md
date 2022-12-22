@@ -1,0 +1,17 @@
+# moon-chilled/j - stars & forks statistics
+
+Stats updated on Dec 2022, 21
+
+☋ Forks: 0
+
+★ Stars: 12
+
+[Open repository](https://github.com/moon-chilled/j)
+
+[Open detailed stats for moon-chilled/j](https://reviewgithub.com/rep/moon-chilled/j)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-12-21 | 12 | - | 
+

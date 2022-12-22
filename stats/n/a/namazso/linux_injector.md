@@ -1,10 +1,10 @@
 # namazso/linux_injector - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 10
+☋ Forks: 11
 
-★ Stars: 123
+★ Stars: 126
 
 [Open repository](https://github.com/namazso/linux_injector)
 
@@ -13,5 +13,6 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 126 | 11 | 
 | 2022-12-20 | 123 | 10 | 
 

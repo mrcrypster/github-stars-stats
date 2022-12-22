@@ -1,6 +1,6 @@
 # Dkazem91/holberton-system_engineering-devops - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 188
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 66 | 188 | 
 | 2022-12-20 | 66 | 188 | 
 | 2022-12-19 | 66 | 188 | 
 | 2022-12-18 | 66 | 188 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 50 | 153 | 
 | 2022-11-23 | 50 | 153 | 
 | 2022-11-22 | 50 | 154 | 
-| 2022-11-21 | 50 | 153 | 
 

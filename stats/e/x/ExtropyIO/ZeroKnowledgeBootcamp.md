@@ -1,6 +1,6 @@
 # ExtropyIO/ZeroKnowledgeBootcamp - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 6 | 18 | 
 | 2022-12-20 | 6 | 18 | 
 | 2022-12-19 | 6 | 18 | 
 | 2022-12-18 | 6 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 6 | 18 | 
 | 2022-11-23 | 6 | 18 | 
 | 2022-11-22 | 6 | 18 | 
-| 2022-11-21 | 6 | 17 | 
 

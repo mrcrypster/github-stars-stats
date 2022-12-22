@@ -1,10 +1,10 @@
 # weiweihuanghuang/fragment-mono - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 5
 
-★ Stars: 492
+★ Stars: 491
 
 [Open repository](https://github.com/weiweihuanghuang/fragment-mono)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 491 | 5 | 
 | 2022-12-21 | 492 | 5 | 
 | 2022-12-19 | 491 | 5 | 
 | 2022-12-18 | 489 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-24 | 476 | 5 | 
 | 2022-11-23 | 476 | 5 | 
 | 2022-11-22 | 475 | 5 | 
-| 2022-11-21 | 474 | 5 | 
 

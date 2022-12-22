@@ -1,10 +1,10 @@
 # po5/thumbfast - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 14
 
-★ Stars: 151
+★ Stars: 153
 
 [Open repository](https://github.com/po5/thumbfast)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 153 | 14 | 
 | 2022-12-20 | 151 | 14 | 
 | 2022-12-19 | 150 | 14 | 
 | 2022-12-18 | 147 | 14 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 124 | 12 | 
 | 2022-11-23 | 123 | 12 | 
 | 2022-11-22 | 123 | 12 | 
-| 2022-11-21 | 121 | 12 | 
 

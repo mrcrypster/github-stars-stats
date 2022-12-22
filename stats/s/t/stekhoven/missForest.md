@@ -1,6 +1,6 @@
 # stekhoven/missForest - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 64 | 22 | 
 | 2022-12-20 | 64 | 22 | 
 | 2022-12-19 | 64 | 22 | 
 | 2022-12-18 | 64 | 22 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 62 | 22 | 
 | 2022-11-23 | 62 | 22 | 
 | 2022-11-22 | 62 | 22 | 
-| 2022-11-21 | 62 | 22 | 
 

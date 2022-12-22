@@ -1,10 +1,10 @@
 # avibrazil/RDM - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 22
 
-☋ Forks: 315
+☋ Forks: 317
 
-★ Stars: 3777
+★ Stars: 3779
 
 [Open repository](https://github.com/avibrazil/RDM)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 3779 | 317 | 
+| 2022-12-21 | 3779 | 316 | 
 | 2022-12-20 | 3777 | 315 | 
 | 2022-12-19 | 3777 | 315 | 
 | 2022-12-18 | 3777 | 315 | 
@@ -40,5 +42,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 3747 | 315 | 
 | 2022-11-23 | 3744 | 315 | 
 | 2022-11-22 | 3744 | 315 | 
-| 2022-11-21 | 3741 | 314 | 
 

@@ -1,6 +1,6 @@
 # YoshithaRathnayake/NEW-YOSHITHA-WEBSITE - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 9 | 26 | 
 | 2022-12-20 | 9 | 26 | 
 | 2022-12-19 | 8 | 26 | 
 | 2022-12-18 | 8 | 26 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 8 | 25 | 
 | 2022-11-23 | 8 | 25 | 
 | 2022-11-22 | 8 | 25 | 
-| 2022-11-21 | 8 | 25 | 
 

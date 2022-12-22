@@ -1,10 +1,10 @@
 # satisfactorymodding/SatisfactoryModManager - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 70
 
-★ Stars: 257
+★ Stars: 258
 
 [Open repository](https://github.com/satisfactorymodding/SatisfactoryModManager)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 258 | 70 | 
 | 2022-12-20 | 257 | 70 | 
 | 2022-12-19 | 257 | 70 | 
 | 2022-12-18 | 257 | 70 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 246 | 70 | 
 | 2022-11-23 | 246 | 70 | 
 | 2022-11-22 | 245 | 70 | 
-| 2022-11-21 | 244 | 70 | 
 

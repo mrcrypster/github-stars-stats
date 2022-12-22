@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 21
 
 ☋ Forks: 142
 
-★ Stars: 1985
+★ Stars: 1986
 
 [Open repository](https://github.com/coppolaemilio/dialogic)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-21 | 1985 | 142 | 
+| 2022-12-21 | 1986 | 142 | 
 | 2022-12-20 | 1985 | 142 | 
 | 2022-12-19 | 1982 | 142 | 
 | 2022-12-18 | 1980 | 142 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-24 | 1941 | 140 | 
 | 2022-11-23 | 1934 | 140 | 
 | 2022-11-22 | 1930 | 140 | 
-| 2022-11-21 | 1928 | 140 | 
 

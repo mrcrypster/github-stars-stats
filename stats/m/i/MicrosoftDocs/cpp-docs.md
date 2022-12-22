@@ -1,8 +1,8 @@
 # MicrosoftDocs/cpp-docs - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 868
+☋ Forks: 867
 
 ★ Stars: 1114
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 1114 | 867 | 
 | 2022-12-21 | 1114 | 868 | 
 | 2022-12-20 | 1115 | 868 | 
 | 2022-12-18 | 1115 | 868 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-24 | 1098 | 856 | 
 | 2022-11-23 | 1098 | 855 | 
 | 2022-11-22 | 1098 | 855 | 
-| 2022-11-21 | 1096 | 855 | 
 

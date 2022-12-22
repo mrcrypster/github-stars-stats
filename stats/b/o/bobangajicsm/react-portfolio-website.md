@@ -1,6 +1,6 @@
 # bobangajicsm/react-portfolio-website - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 541
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 391 | 541 | 
 | 2022-12-20 | 391 | 541 | 
 | 2022-12-19 | 389 | 537 | 
 | 2022-12-18 | 389 | 537 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-25 | 373 | 514 | 
 | 2022-11-24 | 373 | 514 | 
 | 2022-11-23 | 372 | 510 | 
-| 2022-11-22 | 370 | 507 | 
 

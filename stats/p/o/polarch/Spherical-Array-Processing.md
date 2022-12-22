@@ -1,10 +1,10 @@
 # polarch/Spherical-Array-Processing - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 54
 
-★ Stars: 121
+★ Stars: 122
 
 [Open repository](https://github.com/polarch/Spherical-Array-Processing)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 122 | 54 | 
 | 2022-12-20 | 121 | 54 | 
 | 2022-12-19 | 121 | 54 | 
 | 2022-12-18 | 121 | 54 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 119 | 52 | 
 | 2022-11-23 | 119 | 52 | 
 | 2022-11-22 | 118 | 52 | 
-| 2022-11-21 | 117 | 52 | 
 

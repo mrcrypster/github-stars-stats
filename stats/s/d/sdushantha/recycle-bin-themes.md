@@ -1,10 +1,10 @@
 # sdushantha/recycle-bin-themes - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 35
 
-★ Stars: 326
+★ Stars: 327
 
 [Open repository](https://github.com/sdushantha/recycle-bin-themes)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 327 | 35 | 
 | 2022-12-20 | 326 | 35 | 
 | 2022-12-19 | 326 | 35 | 
 | 2022-12-18 | 326 | 35 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-25 | 307 | 32 | 
 | 2022-11-24 | 305 | 31 | 
 | 2022-11-23 | 300 | 30 | 
-| 2022-11-21 | 287 | 25 | 
 

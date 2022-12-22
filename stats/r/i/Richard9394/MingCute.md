@@ -1,6 +1,6 @@
 # Richard9394/MingCute - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 108 | 2 | 
 | 2022-12-20 | 108 | 2 | 
 | 2022-12-19 | 107 | 2 | 
 | 2022-12-18 | 105 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-25 | 100 | 2 | 
 | 2022-11-24 | 100 | 2 | 
 | 2022-11-23 | 99 | 2 | 
-| 2022-11-22 | 99 | 2 | 
 

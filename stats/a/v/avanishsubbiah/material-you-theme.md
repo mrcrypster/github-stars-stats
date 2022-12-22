@@ -1,8 +1,8 @@
 # avanishsubbiah/material-you-theme - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 16
+☋ Forks: 17
 
 ★ Stars: 186
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 186 | 17 | 
 | 2022-12-20 | 186 | 16 | 
 | 2022-12-19 | 186 | 16 | 
 | 2022-12-18 | 186 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 186 | 16 | 
 | 2022-11-23 | 186 | 16 | 
 | 2022-11-22 | 186 | 16 | 
-| 2022-11-21 | 186 | 15 | 
 

@@ -1,8 +1,8 @@
 # recastnavigation/recastnavigation - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 1373
+☋ Forks: 1374
 
 ★ Stars: 5211
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 5211 | 1374 | 
 | 2022-12-20 | 5211 | 1373 | 
 | 2022-12-19 | 5210 | 1373 | 
 | 2022-12-18 | 5209 | 1372 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 5163 | 1360 | 
 | 2022-11-23 | 5163 | 1360 | 
 | 2022-11-22 | 5160 | 1360 | 
-| 2022-11-21 | 5160 | 1359 | 
 

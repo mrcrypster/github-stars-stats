@@ -1,6 +1,6 @@
 # dbacinski/Design-Patterns-In-Kotlin - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 673
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 5493 | 673 | 
 | 2022-12-20 | 5493 | 673 | 
 | 2022-12-19 | 5490 | 672 | 
 | 2022-12-18 | 5490 | 672 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-25 | 5458 | 669 | 
 | 2022-11-24 | 5456 | 669 | 
 | 2022-11-23 | 5454 | 669 | 
-| 2022-11-22 | 5452 | 669 | 
 

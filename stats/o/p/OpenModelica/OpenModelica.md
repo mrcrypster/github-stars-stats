@@ -1,10 +1,10 @@
 # OpenModelica/OpenModelica - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 231
 
-★ Stars: 554
+★ Stars: 555
 
 [Open repository](https://github.com/OpenModelica/OpenModelica)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 555 | 231 | 
 | 2022-12-20 | 554 | 231 | 
 | 2022-12-19 | 553 | 231 | 
 | 2022-12-18 | 553 | 231 | 

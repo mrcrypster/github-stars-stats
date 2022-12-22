@@ -1,10 +1,10 @@
 # jorgenschaefer/emacs-buttercup - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 39
 
-★ Stars: 325
+★ Stars: 326
 
 [Open repository](https://github.com/jorgenschaefer/emacs-buttercup)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 326 | 39 | 
 | 2022-12-20 | 325 | 39 | 
 | 2022-12-19 | 325 | 39 | 
 | 2022-12-18 | 325 | 39 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 324 | 39 | 
 | 2022-11-23 | 324 | 39 | 
 | 2022-11-22 | 324 | 39 | 
-| 2022-11-21 | 324 | 39 | 
 

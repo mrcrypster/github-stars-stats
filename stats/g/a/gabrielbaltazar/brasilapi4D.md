@@ -1,10 +1,10 @@
 # gabrielbaltazar/brasilapi4D - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 4
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/gabrielbaltazar/brasilapi4D)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 14 | 4 | 
 | 2022-12-20 | 13 | 4 | 
 | 2022-12-19 | 12 | 4 | 
 | 2022-12-18 | 11 | 4 | 

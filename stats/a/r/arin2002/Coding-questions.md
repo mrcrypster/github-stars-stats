@@ -1,6 +1,6 @@
 # arin2002/Coding-questions - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 342
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 102 | 342 | 
 | 2022-12-20 | 102 | 342 | 
 | 2022-12-19 | 102 | 342 | 
 | 2022-12-18 | 102 | 342 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 102 | 352 | 
 | 2022-11-23 | 102 | 353 | 
 | 2022-11-22 | 102 | 353 | 
-| 2022-11-21 | 102 | 354 | 
 

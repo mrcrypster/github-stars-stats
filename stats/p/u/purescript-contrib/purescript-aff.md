@@ -1,6 +1,6 @@
 # purescript-contrib/purescript-aff - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 69
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 271 | 69 | 
+| 2022-12-21 | 271 | 69 | 
 | 2022-12-20 | 271 | 69 | 
 | 2022-12-19 | 271 | 69 | 
 | 2022-12-18 | 271 | 69 | 
@@ -41,5 +43,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 271 | 69 | 
 | 2022-11-23 | 271 | 69 | 
 | 2022-11-22 | 271 | 69 | 
-| 2022-11-21 | 271 | 69 | 
 

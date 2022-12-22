@@ -1,6 +1,6 @@
 # Dhruv-2003/30SmartContract_1 - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 22 | 3 | 
 | 2022-12-20 | 22 | 3 | 
 | 2022-12-19 | 22 | 3 | 
 | 2022-12-18 | 22 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 21 | 3 | 
 | 2022-11-23 | 21 | 3 | 
 | 2022-11-22 | 21 | 3 | 
-| 2022-11-21 | 21 | 3 | 
 

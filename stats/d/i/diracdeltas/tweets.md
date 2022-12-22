@@ -1,10 +1,10 @@
 # diracdeltas/tweets - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 22
 
-☋ Forks: 241
+☋ Forks: 243
 
-★ Stars: 744
+★ Stars: 748
 
 [Open repository](https://github.com/diracdeltas/tweets)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 748 | 243 | 
+| 2022-12-21 | 746 | 243 | 
 | 2022-12-20 | 744 | 241 | 
 | 2022-12-19 | 730 | 239 | 
 | 2022-12-18 | 726 | 237 | 
@@ -40,5 +42,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 712 | 238 | 
 | 2022-11-23 | 709 | 238 | 
 | 2022-11-22 | 708 | 238 | 
-| 2022-11-21 | 705 | 239 | 
 

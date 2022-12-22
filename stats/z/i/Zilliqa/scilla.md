@@ -1,6 +1,6 @@
 # Zilliqa/scilla - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 77
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 238 | 77 | 
 | 2022-12-20 | 238 | 77 | 
 | 2022-12-19 | 238 | 77 | 
 | 2022-12-18 | 238 | 77 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 238 | 78 | 
 | 2022-11-23 | 238 | 78 | 
 | 2022-11-22 | 238 | 78 | 
-| 2022-11-21 | 238 | 78 | 
 

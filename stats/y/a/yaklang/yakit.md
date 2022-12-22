@@ -1,10 +1,10 @@
 # yaklang/yakit - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 702
 
-★ Stars: 4816
+★ Stars: 4820
 
 [Open repository](https://github.com/yaklang/yakit)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 4820 | 702 | 
 | 2022-12-20 | 4816 | 702 | 
 | 2022-12-19 | 4814 | 702 | 
 | 2022-12-18 | 4813 | 702 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 4739 | 694 | 
 | 2022-11-23 | 4734 | 694 | 
 | 2022-11-22 | 4730 | 692 | 
-| 2022-11-21 | 4728 | 692 | 
 

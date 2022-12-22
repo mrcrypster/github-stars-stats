@@ -1,6 +1,6 @@
 # feenkcom/gt4git - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 2
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 6 | 2 | 
+| 2022-12-21 | 6 | 2 | 
 | 2022-12-20 | 6 | 2 | 
 | 2022-12-19 | 6 | 2 | 
 | 2022-12-18 | 6 | 2 | 
@@ -41,5 +43,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 6 | 2 | 
 | 2022-11-23 | 6 | 2 | 
 | 2022-11-22 | 6 | 2 | 
-| 2022-11-21 | 5 | 2 | 
 

@@ -1,10 +1,10 @@
 # Rich-Harris/svelte-cubed - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 68
 
-★ Stars: 1095
+★ Stars: 1096
 
 [Open repository](https://github.com/Rich-Harris/svelte-cubed)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 1096 | 68 | 
 | 2022-12-20 | 1095 | 68 | 
 | 2022-12-19 | 1094 | 68 | 
 | 2022-12-18 | 1091 | 68 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 1088 | 68 | 
 | 2022-11-23 | 1087 | 68 | 
 | 2022-11-22 | 1086 | 68 | 
-| 2022-11-21 | 1086 | 68 | 
 

@@ -1,8 +1,8 @@
 # OpenSourceCommunityBrasil/REST-DataWare - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 24
+☋ Forks: 25
 
 ★ Stars: 106
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 106 | 25 | 
 | 2022-12-20 | 106 | 24 | 
 | 2022-12-19 | 105 | 24 | 
 | 2022-12-18 | 105 | 24 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 103 | 22 | 
 | 2022-11-23 | 103 | 22 | 
 | 2022-11-22 | 103 | 22 | 
-| 2022-11-21 | 103 | 22 | 
 

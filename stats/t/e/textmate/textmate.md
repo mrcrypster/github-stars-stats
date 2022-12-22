@@ -1,10 +1,10 @@
 # textmate/textmate - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 1761
 
-★ Stars: 13934
+★ Stars: 13936
 
 [Open repository](https://github.com/textmate/textmate)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 13936 | 1761 | 
+| 2022-12-21 | 13936 | 1761 | 
 | 2022-12-20 | 13934 | 1761 | 
 | 2022-12-19 | 13932 | 1761 | 
 | 2022-12-18 | 13933 | 1761 | 
@@ -39,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 13916 | 1762 | 
 | 2022-11-23 | 13915 | 1762 | 
 | 2022-11-22 | 13913 | 1762 | 
-| 2022-11-21 | 13913 | 1762 | 
 

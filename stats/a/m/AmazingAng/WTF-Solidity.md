@@ -1,10 +1,10 @@
 # AmazingAng/WTF-Solidity - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 715
 
-★ Stars: 4770
+★ Stars: 4773
 
 [Open repository](https://github.com/AmazingAng/WTF-Solidity)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 4773 | 715 | 
 | 2022-12-20 | 4770 | 715 | 
 | 2022-12-19 | 4766 | 714 | 
 | 2022-12-18 | 4756 | 714 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 4371 | 635 | 
 | 2022-11-23 | 4358 | 632 | 
 | 2022-11-22 | 4345 | 629 | 
-| 2022-11-21 | 4336 | 628 | 
 

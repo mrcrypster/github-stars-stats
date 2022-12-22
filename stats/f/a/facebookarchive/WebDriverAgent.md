@@ -1,8 +1,8 @@
 # facebookarchive/WebDriverAgent - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 1228
+☋ Forks: 1227
 
 ★ Stars: 4009
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 4009 | 1227 | 
 | 2022-12-20 | 4009 | 1228 | 
 | 2022-12-19 | 4009 | 1228 | 
 | 2022-12-18 | 4009 | 1227 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 4004 | 1222 | 
 | 2022-11-23 | 4004 | 1222 | 
 | 2022-11-22 | 4006 | 1221 | 
-| 2022-11-21 | 4005 | 1221 | 
 

@@ -1,6 +1,6 @@
 # rancher/charts - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 617
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 320 | 617 | 
 | 2022-12-20 | 320 | 617 | 
 | 2022-12-19 | 319 | 616 | 
 | 2022-12-18 | 319 | 616 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 317 | 609 | 
 | 2022-11-23 | 317 | 609 | 
 | 2022-11-22 | 317 | 609 | 
-| 2022-11-21 | 317 | 608 | 
 

@@ -1,10 +1,10 @@
 # fys-csgo/servers-config - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 130
+☋ Forks: 131
 
-★ Stars: 62
+★ Stars: 63
 
 [Open repository](https://github.com/fys-csgo/servers-config)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 63 | 131 | 
 | 2022-12-20 | 62 | 130 | 
 | 2022-12-19 | 62 | 131 | 
 | 2022-12-18 | 62 | 131 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 62 | 131 | 
 | 2022-11-23 | 62 | 130 | 
 | 2022-11-22 | 61 | 130 | 
-| 2022-11-21 | 61 | 129 | 
 

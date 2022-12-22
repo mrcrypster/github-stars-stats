@@ -1,6 +1,6 @@
 # embeddedartistry/templates - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 1378
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 301 | 1378 | 
 | 2022-12-20 | 301 | 1378 | 
 | 2022-12-19 | 301 | 1377 | 
 | 2022-12-18 | 301 | 1379 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 304 | 1368 | 
 | 2022-11-23 | 304 | 1366 | 
 | 2022-11-22 | 304 | 1367 | 
-| 2022-11-21 | 304 | 1367 | 
 

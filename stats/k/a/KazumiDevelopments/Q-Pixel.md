@@ -1,6 +1,6 @@
 # KazumiDevelopments/Q-Pixel - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 11 | 54 | 
 | 2022-12-20 | 11 | 54 | 
 | 2022-12-19 | 10 | 53 | 
 | 2022-12-18 | 10 | 52 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 7 | 23 | 
 | 2022-11-23 | 6 | 21 | 
 | 2022-11-22 | 4 | 21 | 
-| 2022-11-21 | 4 | 19 | 
 

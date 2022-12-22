@@ -1,6 +1,6 @@
 # UoI-CSE-MYY505/lab06_starter - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 9
 
@@ -13,5 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | - | 9 | 
+| 2022-12-21 | - | 9 | 
 | 2022-12-20 | - | 9 | 
 

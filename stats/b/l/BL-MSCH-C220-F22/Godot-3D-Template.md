@@ -1,6 +1,6 @@
 # BL-MSCH-C220-F22/Godot-3D-Template - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | - | 8 | 
 | 2022-12-21 | - | 8 | 
 | 2022-12-20 | - | 8 | 
 | 2022-12-18 | - | 8 | 

@@ -1,6 +1,6 @@
 # bazelbuild/rules_pkg - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 135
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 151 | 135 | 
 | 2022-12-20 | 151 | 135 | 
 | 2022-12-19 | 151 | 134 | 
 | 2022-12-18 | 151 | 134 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 149 | 133 | 
 | 2022-11-23 | 149 | 131 | 
 | 2022-11-22 | 149 | 131 | 
-| 2022-11-21 | 149 | 131 | 
 

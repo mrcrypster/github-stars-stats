@@ -1,10 +1,10 @@
 # yc9559/uperf - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 83
 
-★ Stars: 2448
+★ Stars: 2452
 
 [Open repository](https://github.com/yc9559/uperf)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 2452 | 83 | 
 | 2022-12-20 | 2448 | 83 | 
 | 2022-12-19 | 2444 | 83 | 
 | 2022-12-18 | 2444 | 83 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 2399 | 81 | 
 | 2022-11-23 | 2396 | 81 | 
 | 2022-11-22 | 2392 | 81 | 
-| 2022-11-21 | 2393 | 81 | 
 

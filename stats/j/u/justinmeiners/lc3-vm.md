@@ -1,10 +1,10 @@
 # justinmeiners/lc3-vm - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 141
 
-★ Stars: 989
+★ Stars: 991
 
 [Open repository](https://github.com/justinmeiners/lc3-vm)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 991 | 141 | 
 | 2022-12-20 | 989 | 141 | 
 | 2022-12-19 | 989 | 141 | 
 | 2022-12-18 | 989 | 141 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 968 | 137 | 
 | 2022-11-23 | 968 | 137 | 
 | 2022-11-22 | 968 | 137 | 
-| 2022-11-21 | 966 | 137 | 
 

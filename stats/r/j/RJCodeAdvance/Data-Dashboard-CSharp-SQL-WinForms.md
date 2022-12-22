@@ -1,8 +1,8 @@
 # RJCodeAdvance/Data-Dashboard-CSharp-SQL-WinForms - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 16
+☋ Forks: 15
 
 ★ Stars: 21
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 21 | 15 | 
 | 2022-12-20 | 21 | 16 | 
 | 2022-12-19 | 21 | 16 | 
 | 2022-12-18 | 21 | 16 | 

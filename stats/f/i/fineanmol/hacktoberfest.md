@@ -1,6 +1,6 @@
 # fineanmol/hacktoberfest - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 1300
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 512 | 1300 | 
 | 2022-12-20 | 512 | 1300 | 
 | 2022-12-19 | 512 | 1300 | 
 | 2022-12-18 | 512 | 1300 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 521 | 1326 | 
 | 2022-11-23 | 522 | 1326 | 
 | 2022-11-22 | 524 | 1328 | 
-| 2022-11-21 | 524 | 1332 | 
 

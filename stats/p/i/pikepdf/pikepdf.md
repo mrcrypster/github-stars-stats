@@ -1,10 +1,10 @@
 # pikepdf/pikepdf - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 155
+☋ Forks: 156
 
-★ Stars: 1587
+★ Stars: 1591
 
 [Open repository](https://github.com/pikepdf/pikepdf)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 1591 | 156 | 
 | 2022-12-20 | 1587 | 155 | 
 | 2022-12-19 | 1586 | 156 | 
 | 2022-12-18 | 1585 | 156 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 1559 | 156 | 
 | 2022-11-23 | 1557 | 156 | 
 | 2022-11-22 | 1555 | 156 | 
-| 2022-11-21 | 1553 | 156 | 
 

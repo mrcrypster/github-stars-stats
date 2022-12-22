@@ -1,6 +1,6 @@
 # markdown-it/markdown-it - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 1589
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 14602 | 1589 | 
 | 2022-12-20 | 14602 | 1589 | 
 | 2022-12-19 | 14594 | 1589 | 
 | 2022-12-18 | 14590 | 1588 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 14487 | 1578 | 
 | 2022-11-23 | 14485 | 1576 | 
 | 2022-11-22 | 14482 | 1574 | 
-| 2022-11-21 | 14477 | 1572 | 
 

@@ -1,10 +1,10 @@
 # timhutton/twitter-archive-parser - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 108
 
-★ Stars: 2155
+★ Stars: 2157
 
 [Open repository](https://github.com/timhutton/twitter-archive-parser)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 2157 | 108 | 
 | 2022-12-20 | 2155 | 108 | 
 | 2022-12-19 | 2156 | 108 | 
 | 2022-12-18 | 2141 | 107 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 1871 | 93 | 
 | 2022-11-23 | 1829 | 90 | 
 | 2022-11-22 | 1776 | 87 | 
-| 2022-11-21 | 1700 | 85 | 
 

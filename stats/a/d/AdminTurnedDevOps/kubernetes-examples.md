@@ -1,8 +1,8 @@
 # AdminTurnedDevOps/kubernetes-examples - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 151
+☋ Forks: 153
 
 ★ Stars: 392
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 392 | 153 | 
 | 2022-12-20 | 392 | 151 | 
 | 2022-12-19 | 392 | 151 | 
 | 2022-12-18 | 393 | 150 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 380 | 136 | 
 | 2022-11-23 | 378 | 135 | 
 | 2022-11-22 | 372 | 135 | 
-| 2022-11-21 | 365 | 128 | 
 

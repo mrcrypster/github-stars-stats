@@ -1,10 +1,10 @@
 # pop-os/iso - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 61
 
-★ Stars: 425
+★ Stars: 424
 
 [Open repository](https://github.com/pop-os/iso)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 424 | 61 | 
 | 2022-12-20 | 425 | 61 | 
 | 2022-12-19 | 425 | 61 | 
 | 2022-12-18 | 425 | 61 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 424 | 61 | 
 | 2022-11-23 | 424 | 61 | 
 | 2022-11-22 | 423 | 61 | 
-| 2022-11-21 | 423 | 61 | 
 

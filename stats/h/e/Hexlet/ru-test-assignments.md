@@ -1,10 +1,10 @@
 # Hexlet/ru-test-assignments - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 681
 
-★ Stars: 3990
+★ Stars: 3999
 
 [Open repository](https://github.com/Hexlet/ru-test-assignments)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 3999 | 681 | 
 | 2022-12-20 | 3990 | 681 | 
 | 2022-12-19 | 3990 | 681 | 
 | 2022-12-18 | 3987 | 681 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 3932 | 683 | 
 | 2022-11-23 | 3929 | 679 | 
 | 2022-11-22 | 3928 | 678 | 
-| 2022-11-21 | 3926 | 676 | 
 

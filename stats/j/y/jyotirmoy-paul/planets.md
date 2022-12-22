@@ -1,10 +1,10 @@
 # jyotirmoy-paul/planets - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 27
 
-★ Stars: 67
+★ Stars: 69
 
 [Open repository](https://github.com/jyotirmoy-paul/planets)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 69 | 27 | 
 | 2022-12-20 | 67 | 27 | 
 | 2022-12-19 | 67 | 27 | 
 | 2022-12-18 | 67 | 27 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 66 | 27 | 
 | 2022-11-23 | 66 | 27 | 
 | 2022-11-22 | 66 | 27 | 
-| 2022-11-21 | 66 | 27 | 
 

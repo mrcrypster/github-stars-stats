@@ -1,10 +1,10 @@
 # 1001-digital/erc721-extensions - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 47
 
-★ Stars: 153
+★ Stars: 154
 
 [Open repository](https://github.com/1001-digital/erc721-extensions)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 154 | 47 | 
 | 2022-12-20 | 153 | 47 | 
 | 2022-12-19 | 153 | 47 | 
 | 2022-12-18 | 153 | 47 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 153 | 46 | 
 | 2022-11-23 | 153 | 46 | 
 | 2022-11-22 | 153 | 46 | 
-| 2022-11-21 | 153 | 46 | 
 

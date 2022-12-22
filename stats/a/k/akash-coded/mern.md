@@ -1,6 +1,6 @@
 # akash-coded/mern - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 72 | 13 | 
 | 2022-12-21 | 72 | 13 | 
 | 2022-12-19 | 72 | 13 | 
 | 2022-12-18 | 72 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-24 | 69 | 13 | 
 | 2022-11-23 | 69 | 13 | 
 | 2022-11-22 | 69 | 13 | 
-| 2022-11-21 | 69 | 13 | 
 

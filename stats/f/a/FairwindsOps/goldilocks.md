@@ -1,10 +1,10 @@
 # FairwindsOps/goldilocks - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 87
 
-★ Stars: 1608
+★ Stars: 1612
 
 [Open repository](https://github.com/FairwindsOps/goldilocks)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 1612 | 87 | 
 | 2022-12-20 | 1608 | 87 | 
 | 2022-12-19 | 1607 | 87 | 
 | 2022-12-18 | 1606 | 87 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-25 | 1575 | 85 | 
 | 2022-11-23 | 1574 | 85 | 
 | 2022-11-22 | 1573 | 85 | 
-| 2022-11-21 | 1571 | 85 | 
 

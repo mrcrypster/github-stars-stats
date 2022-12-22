@@ -1,8 +1,8 @@
 # facebookincubator/SocketRocket - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 1979
+☋ Forks: 1980
 
 ★ Stars: 9403
 
@@ -13,7 +13,8 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-21 | 9403 | 1979 | 
+| 2022-12-22 | 9403 | 1980 | 
+| 2022-12-21 | 9403 | 1980 | 
 | 2022-12-20 | 9404 | 1978 | 
 | 2022-12-19 | 9404 | 1977 | 
 | 2022-12-17 | 9403 | 1977 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-24 | 9397 | 1976 | 
 | 2022-11-23 | 9397 | 1975 | 
 | 2022-11-22 | 9396 | 1975 | 
-| 2022-11-21 | 9396 | 1975 | 
 

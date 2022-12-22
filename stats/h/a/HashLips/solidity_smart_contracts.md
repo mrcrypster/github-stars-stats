@@ -1,6 +1,6 @@
 # HashLips/solidity_smart_contracts - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 497
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 550 | 497 | 
 | 2022-12-20 | 550 | 497 | 
 | 2022-12-19 | 549 | 497 | 
 | 2022-12-18 | 549 | 497 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-25 | 543 | 495 | 
 | 2022-11-24 | 543 | 495 | 
 | 2022-11-23 | 543 | 495 | 
-| 2022-11-21 | 543 | 495 | 
 

@@ -1,6 +1,6 @@
 # MPLLang/mpl - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 189 | 10 | 
 | 2022-12-21 | 189 | 10 | 
 | 2022-12-20 | 189 | 10 | 
 | 2022-12-18 | 189 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-24 | 182 | 9 | 
 | 2022-11-23 | 181 | 9 | 
 | 2022-11-22 | 181 | 9 | 
-| 2022-11-21 | 181 | 9 | 
 

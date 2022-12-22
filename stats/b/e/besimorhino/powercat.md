@@ -1,6 +1,6 @@
 # besimorhino/powercat - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 451
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 1675 | 451 | 
 | 2022-12-20 | 1675 | 451 | 
 | 2022-12-19 | 1675 | 450 | 
 | 2022-12-18 | 1675 | 450 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 1661 | 444 | 
 | 2022-11-23 | 1661 | 444 | 
 | 2022-11-22 | 1662 | 444 | 
-| 2022-11-21 | 1660 | 444 | 
 

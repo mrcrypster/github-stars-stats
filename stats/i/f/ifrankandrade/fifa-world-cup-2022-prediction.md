@@ -1,10 +1,10 @@
 # ifrankandrade/fifa-world-cup-2022-prediction - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 109
 
-★ Stars: 155
+★ Stars: 156
 
 [Open repository](https://github.com/ifrankandrade/fifa-world-cup-2022-prediction)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 156 | 109 | 
 | 2022-12-20 | 155 | 109 | 
 | 2022-12-19 | 154 | 107 | 
 | 2022-12-18 | 152 | 104 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 55 | 31 | 
 | 2022-11-23 | 52 | 28 | 
 | 2022-11-22 | 46 | 21 | 
-| 2022-11-21 | 34 | 19 | 
 

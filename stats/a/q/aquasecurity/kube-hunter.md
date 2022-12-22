@@ -1,10 +1,10 @@
 # aquasecurity/kube-hunter - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 538
 
-★ Stars: 4048
+★ Stars: 4050
 
 [Open repository](https://github.com/aquasecurity/kube-hunter)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 4050 | 538 | 
 | 2022-12-20 | 4048 | 538 | 
 | 2022-12-19 | 4046 | 538 | 
 | 2022-12-18 | 4046 | 538 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 4009 | 537 | 
 | 2022-11-23 | 4008 | 537 | 
 | 2022-11-22 | 4008 | 536 | 
-| 2022-11-21 | 4007 | 536 | 
 

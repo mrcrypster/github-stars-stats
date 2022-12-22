@@ -1,6 +1,6 @@
 # Automattic/jetpack - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 789
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 1441 | 789 | 
 | 2022-12-20 | 1441 | 789 | 
 | 2022-12-19 | 1441 | 789 | 
 | 2022-12-18 | 1440 | 789 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 1434 | 788 | 
 | 2022-11-23 | 1434 | 787 | 
 | 2022-11-22 | 1433 | 787 | 
-| 2022-11-21 | 1433 | 787 | 
 

@@ -1,10 +1,10 @@
 # JonasKruckenberg/tauri-astro-template - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 0
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/JonasKruckenberg/tauri-astro-template)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 37 | - | 
 | 2022-12-20 | 36 | - | 
 | 2022-12-19 | 37 | - | 
 | 2022-12-18 | 35 | - | 

@@ -1,10 +1,10 @@
 # D1rkMtr/DumpThatLSASS - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 72
+☋ Forks: 73
 
-★ Stars: 443
+★ Stars: 453
 
 [Open repository](https://github.com/D1rkMtr/DumpThatLSASS)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 453 | 73 | 
 | 2022-12-21 | 443 | 72 | 
 | 2022-12-19 | 442 | 70 | 
 | 2022-12-18 | 442 | 70 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-24 | 424 | 65 | 
 | 2022-11-23 | 423 | 65 | 
 | 2022-11-22 | 421 | 65 | 
-| 2022-11-21 | 418 | 65 | 
 

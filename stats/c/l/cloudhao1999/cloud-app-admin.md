@@ -1,10 +1,10 @@
 # cloudhao1999/cloud-app-admin - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 66
 
-★ Stars: 324
+★ Stars: 323
 
 [Open repository](https://github.com/cloudhao1999/cloud-app-admin)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 323 | 66 | 
 | 2022-12-20 | 324 | 66 | 
 | 2022-12-19 | 324 | 66 | 
 | 2022-12-18 | 324 | 66 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 316 | 66 | 
 | 2022-11-23 | 316 | 66 | 
 | 2022-11-22 | 316 | 66 | 
-| 2022-11-21 | 316 | 66 | 
 

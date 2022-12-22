@@ -1,10 +1,10 @@
 # urho3d/Urho3D - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 975
 
-★ Stars: 4231
+★ Stars: 4234
 
 [Open repository](https://github.com/urho3d/Urho3D)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 4234 | 975 | 
 | 2022-12-20 | 4231 | 975 | 
 | 2022-12-19 | 4230 | 975 | 
 | 2022-12-18 | 4228 | 974 | 

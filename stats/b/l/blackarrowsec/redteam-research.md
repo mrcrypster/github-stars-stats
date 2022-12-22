@@ -1,6 +1,6 @@
 # blackarrowsec/redteam-research - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 105
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 403 | 105 | 
 | 2022-12-20 | 403 | 105 | 
 | 2022-12-19 | 403 | 105 | 
 | 2022-12-18 | 403 | 105 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 396 | 105 | 
 | 2022-11-23 | 396 | 105 | 
 | 2022-11-22 | 396 | 105 | 
-| 2022-11-21 | 393 | 105 | 
 

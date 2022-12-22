@@ -1,6 +1,6 @@
 # LiteraryGames/Week-10---Interfaces-Public - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | - | 14 | 
 | 2022-12-20 | - | 14 | 
 | 2022-12-19 | - | 14 | 
 | 2022-12-18 | - | 14 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | - | 14 | 
 | 2022-11-23 | - | 14 | 
 | 2022-11-22 | - | 14 | 
-| 2022-11-21 | - | 14 | 
 

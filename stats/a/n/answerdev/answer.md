@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 21
 
-☋ Forks: 245
+☋ Forks: 249
 
-★ Stars: 4738
+★ Stars: 4887
 
 [Open repository](https://github.com/answerdev/answer)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-21 | 4738 | 245 | 
+| 2022-12-21 | 4887 | 249 | 
 | 2022-12-20 | 4730 | 245 | 
 | 2022-12-19 | 4523 | 234 | 
 | 2022-12-18 | 4456 | 231 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-24 | 4276 | 221 | 
 | 2022-11-23 | 4248 | 220 | 
 | 2022-11-22 | 4236 | 220 | 
-| 2022-11-21 | 4228 | 218 | 
 

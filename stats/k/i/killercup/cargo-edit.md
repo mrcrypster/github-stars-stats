@@ -1,6 +1,6 @@
 # killercup/cargo-edit - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 138
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 2716 | 138 | 
 | 2022-12-20 | 2716 | 138 | 
 | 2022-12-19 | 2716 | 138 | 
 | 2022-12-18 | 2716 | 138 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 2689 | 138 | 
 | 2022-11-23 | 2686 | 138 | 
 | 2022-11-22 | 2686 | 138 | 
-| 2022-11-21 | 2686 | 138 | 
 

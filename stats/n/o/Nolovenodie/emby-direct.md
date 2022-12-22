@@ -1,10 +1,10 @@
 # Nolovenodie/emby-direct - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 5
 
-★ Stars: 26
+★ Stars: 25
 
 [Open repository](https://github.com/Nolovenodie/emby-direct)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 25 | 5 | 
 | 2022-12-20 | 26 | 5 | 
 | 2022-12-19 | 26 | 5 | 
 | 2022-12-18 | 26 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 25 | 5 | 
 | 2022-11-23 | 24 | 5 | 
 | 2022-11-22 | 24 | 5 | 
-| 2022-11-21 | 24 | 5 | 
 

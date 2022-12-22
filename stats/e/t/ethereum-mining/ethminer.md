@@ -1,8 +1,8 @@
 # ethereum-mining/ethminer - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 2294
+☋ Forks: 2293
 
 ★ Stars: 5886
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 5886 | 2293 | 
 | 2022-12-20 | 5886 | 2294 | 
 | 2022-12-19 | 5886 | 2294 | 
 | 2022-12-18 | 5885 | 2293 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 5888 | 2294 | 
 | 2022-11-23 | 5888 | 2294 | 
 | 2022-11-22 | 5887 | 2294 | 
-| 2022-11-21 | 5887 | 2294 | 
 

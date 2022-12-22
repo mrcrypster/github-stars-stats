@@ -1,10 +1,10 @@
 # FuzzyIdeas/Clop - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 9
 
-★ Stars: 178
+★ Stars: 179
 
 [Open repository](https://github.com/FuzzyIdeas/Clop)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 179 | 9 | 
 | 2022-12-20 | 178 | 9 | 
 | 2022-12-19 | 178 | 9 | 
 | 2022-12-18 | 177 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 151 | 6 | 
 | 2022-11-23 | 151 | 6 | 
 | 2022-11-22 | 149 | 6 | 
-| 2022-11-21 | 149 | 6 | 
 

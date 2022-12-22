@@ -1,6 +1,6 @@
 # alexanyernas/Ejercicios-Practicos - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 85
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 383 | 85 | 
 | 2022-12-20 | 383 | 85 | 
 | 2022-12-19 | 383 | 85 | 
 | 2022-12-18 | 383 | 85 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 383 | 85 | 
 | 2022-11-23 | 381 | 85 | 
 | 2022-11-22 | 376 | 85 | 
-| 2022-11-21 | 376 | 85 | 
 

@@ -1,6 +1,6 @@
 # robert-strandh/SICL - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 77
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 979 | 77 | 
 | 2022-12-20 | 979 | 77 | 
 | 2022-12-19 | 979 | 77 | 
 | 2022-12-18 | 979 | 77 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 973 | 77 | 
 | 2022-11-23 | 973 | 76 | 
 | 2022-11-22 | 973 | 76 | 
-| 2022-11-21 | 972 | 76 | 
 

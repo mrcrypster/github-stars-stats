@@ -1,10 +1,10 @@
 # google-research/google-research - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 6563
+☋ Forks: 6568
 
-★ Stars: 26504
+★ Stars: 26516
 
 [Open repository](https://github.com/google-research/google-research)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 26516 | 6568 | 
 | 2022-12-20 | 26504 | 6563 | 
 | 2022-12-19 | 26493 | 6559 | 
 | 2022-12-18 | 26480 | 6552 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 26177 | 6481 | 
 | 2022-11-23 | 26152 | 6478 | 
 | 2022-11-22 | 26139 | 6474 | 
-| 2022-11-21 | 26119 | 6470 | 
 

@@ -1,6 +1,6 @@
 # ganelson/inweb - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 66 | 18 | 
 | 2022-12-20 | 66 | 18 | 
 | 2022-12-19 | 66 | 18 | 
 | 2022-12-18 | 65 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 64 | 17 | 
 | 2022-11-23 | 64 | 17 | 
 | 2022-11-22 | 64 | 17 | 
-| 2022-11-21 | 64 | 17 | 
 

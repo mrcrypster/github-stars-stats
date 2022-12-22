@@ -1,8 +1,8 @@
 # harblaith7/Nuxt-Crash-Course - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 696
+☋ Forks: 695
 
 ★ Stars: 120
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 120 | 695 | 
 | 2022-12-20 | 120 | 696 | 
 | 2022-12-19 | 120 | 697 | 
 | 2022-12-18 | 120 | 696 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 120 | 698 | 
 | 2022-11-23 | 120 | 698 | 
 | 2022-11-22 | 120 | 696 | 
-| 2022-11-21 | 120 | 696 | 
 

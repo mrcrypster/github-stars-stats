@@ -1,10 +1,10 @@
 # hungps/flutter_pokedex - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 431
+☋ Forks: 432
 
-★ Stars: 1766
+★ Stars: 1772
 
 [Open repository](https://github.com/hungps/flutter_pokedex)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 1772 | 432 | 
 | 2022-12-20 | 1766 | 431 | 
 | 2022-12-19 | 1765 | 430 | 
 | 2022-12-18 | 1763 | 430 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 1739 | 423 | 
 | 2022-11-23 | 1736 | 422 | 
 | 2022-11-22 | 1737 | 423 | 
-| 2022-11-21 | 1735 | 423 | 
 

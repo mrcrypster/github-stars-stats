@@ -1,10 +1,10 @@
 # google/eDistantObject - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 35
 
-★ Stars: 149
+★ Stars: 150
 
 [Open repository](https://github.com/google/eDistantObject)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 150 | 35 | 
 | 2022-12-20 | 149 | 35 | 
 | 2022-12-19 | 149 | 35 | 
 | 2022-12-18 | 149 | 35 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 142 | 35 | 
 | 2022-11-23 | 142 | 35 | 
 | 2022-11-22 | 142 | 35 | 
-| 2022-11-21 | 142 | 35 | 
 

@@ -1,6 +1,6 @@
 # SinicaGroup/Class-agnostic-Few-shot-Object-Counting - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 107 | 7 | 
 | 2022-12-20 | 107 | 7 | 
 | 2022-12-19 | 107 | 7 | 
 | 2022-12-18 | 107 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 104 | 7 | 
 | 2022-11-23 | 104 | 7 | 
 | 2022-11-22 | 104 | 7 | 
-| 2022-11-21 | 104 | 7 | 
 

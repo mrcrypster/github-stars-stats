@@ -1,10 +1,10 @@
 # jefftriplett/django-startproject - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 6
 
-★ Stars: 81
+★ Stars: 82
 
 [Open repository](https://github.com/jefftriplett/django-startproject)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 82 | 6 | 
 | 2022-12-20 | 81 | 6 | 
 | 2022-12-19 | 81 | 6 | 
 | 2022-12-18 | 81 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 81 | 6 | 
 | 2022-11-23 | 80 | 6 | 
 | 2022-11-22 | 80 | 6 | 
-| 2022-11-21 | 80 | 6 | 
 

@@ -1,6 +1,6 @@
 # Jeffail/tunny - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 279
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 3439 | 279 | 
 | 2022-12-20 | 3439 | 279 | 
 | 2022-12-19 | 3439 | 279 | 
 | 2022-12-18 | 3438 | 279 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 3419 | 277 | 
 | 2022-11-23 | 3419 | 277 | 
 | 2022-11-22 | 3418 | 277 | 
-| 2022-11-21 | 3417 | 277 | 
 

@@ -1,6 +1,6 @@
 # rggeorge/Matlab-animation - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 5 | - | 
 | 2022-12-20 | 5 | - | 
 | 2022-12-19 | 5 | - | 
 | 2022-12-18 | 5 | - | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-25 | 4 | - | 
 | 2022-11-24 | 4 | - | 
 | 2022-11-23 | 4 | - | 
-| 2022-11-22 | 4 | - | 
 

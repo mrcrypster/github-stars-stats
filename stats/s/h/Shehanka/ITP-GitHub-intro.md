@@ -1,6 +1,6 @@
 # Shehanka/ITP-GitHub-intro - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 1 | 54 | 
 | 2022-12-20 | 1 | 54 | 
 | 2022-12-19 | 1 | 54 | 
 | 2022-12-18 | 1 | 54 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 1 | 53 | 
 | 2022-11-23 | 1 | 52 | 
 | 2022-11-22 | 1 | 50 | 
-| 2022-11-21 | 1 | 49 | 
 

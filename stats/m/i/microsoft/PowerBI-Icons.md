@@ -1,6 +1,6 @@
 # microsoft/PowerBI-Icons - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 99
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 206 | 99 | 
 | 2022-12-20 | 206 | 99 | 
 | 2022-12-19 | 206 | 99 | 
 | 2022-12-18 | 206 | 99 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 203 | 96 | 
 | 2022-11-23 | 203 | 95 | 
 | 2022-11-22 | 202 | 95 | 
-| 2022-11-21 | 202 | 94 | 
 

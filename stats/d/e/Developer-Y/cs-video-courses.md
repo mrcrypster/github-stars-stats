@@ -1,10 +1,10 @@
 # Developer-Y/cs-video-courses - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 6909
+☋ Forks: 6911
 
-★ Stars: 48033
+★ Stars: 48048
 
 [Open repository](https://github.com/Developer-Y/cs-video-courses)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 48048 | 6911 | 
 | 2022-12-20 | 48033 | 6909 | 
 | 2022-12-19 | 48024 | 6908 | 
 | 2022-12-18 | 47967 | 6907 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 47367 | 6824 | 
 | 2022-11-23 | 47360 | 6822 | 
 | 2022-11-22 | 47349 | 6819 | 
-| 2022-11-21 | 47323 | 6812 | 
 

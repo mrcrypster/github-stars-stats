@@ -1,10 +1,10 @@
 # skydoves/sandwich - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 71
 
-★ Stars: 960
+★ Stars: 961
 
 [Open repository](https://github.com/skydoves/sandwich)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 961 | 71 | 
 | 2022-12-20 | 960 | 71 | 
 | 2022-12-19 | 958 | 71 | 
 | 2022-12-18 | 958 | 71 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 944 | 68 | 
 | 2022-11-23 | 941 | 67 | 
 | 2022-11-22 | 940 | 67 | 
-| 2022-11-21 | 940 | 67 | 
 

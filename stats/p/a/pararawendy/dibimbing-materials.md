@@ -1,8 +1,8 @@
 # pararawendy/dibimbing-materials - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 33
+☋ Forks: 35
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | - | 35 | 
 | 2022-12-20 | - | 33 | 
 | 2022-12-19 | - | 33 | 
 | 2022-12-18 | - | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | - | 33 | 
 | 2022-11-23 | - | 33 | 
 | 2022-11-22 | - | 33 | 
-| 2022-11-21 | - | 33 | 
 

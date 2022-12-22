@@ -1,6 +1,6 @@
 # can-lehmann/exprgrad - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 69 | - | 
 | 2022-12-20 | 69 | - | 
 | 2022-12-19 | 69 | - | 
 | 2022-12-18 | 69 | - | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 67 | - | 
 | 2022-11-23 | 67 | - | 
 | 2022-11-22 | 67 | - | 
-| 2022-11-21 | 67 | - | 
 

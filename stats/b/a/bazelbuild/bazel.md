@@ -1,10 +1,10 @@
 # bazelbuild/bazel - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 3601
 
-★ Stars: 19894
+★ Stars: 19929
 
 [Open repository](https://github.com/bazelbuild/bazel)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 19929 | 3601 | 
 | 2022-12-20 | 19894 | 3601 | 
 | 2022-12-19 | 19882 | 3598 | 
 | 2022-12-18 | 19875 | 3597 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 19784 | 3573 | 
 | 2022-11-23 | 19775 | 3573 | 
 | 2022-11-22 | 19768 | 3571 | 
-| 2022-11-21 | 19761 | 3571 | 
 

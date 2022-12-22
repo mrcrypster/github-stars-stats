@@ -1,10 +1,10 @@
 # getgrav/grav - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 1362
 
-★ Stars: 13582
+★ Stars: 13585
 
 [Open repository](https://github.com/getgrav/grav)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 13585 | 1362 | 
 | 2022-12-20 | 13582 | 1362 | 
 | 2022-12-19 | 13581 | 1362 | 
 | 2022-12-18 | 13582 | 1362 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 13548 | 1355 | 
 | 2022-11-23 | 13547 | 1355 | 
 | 2022-11-22 | 13546 | 1354 | 
-| 2022-11-21 | 13545 | 1354 | 
 

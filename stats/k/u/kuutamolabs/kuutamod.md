@@ -1,10 +1,10 @@
 # kuutamolabs/kuutamod - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 5
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/kuutamolabs/kuutamod)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 13 | 5 | 
 | 2022-12-20 | 12 | 5 | 
 | 2022-12-19 | 12 | 5 | 
 | 2022-12-18 | 12 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 12 | 5 | 
 | 2022-11-23 | 12 | 5 | 
 | 2022-11-22 | 12 | 5 | 
-| 2022-11-21 | 12 | 5 | 
 

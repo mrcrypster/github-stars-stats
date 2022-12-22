@@ -1,10 +1,10 @@
 # spatie/laravel-data - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 70
 
-★ Stars: 553
+★ Stars: 554
 
 [Open repository](https://github.com/spatie/laravel-data)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 554 | 70 | 
 | 2022-12-20 | 553 | 70 | 
 | 2022-12-19 | 553 | 70 | 
 | 2022-12-18 | 551 | 69 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 520 | 58 | 
 | 2022-11-23 | 520 | 57 | 
 | 2022-11-22 | 519 | 57 | 
-| 2022-11-21 | 518 | 57 | 
 

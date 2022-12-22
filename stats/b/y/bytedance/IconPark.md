@@ -1,10 +1,10 @@
 # bytedance/IconPark - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 403
+☋ Forks: 404
 
-★ Stars: 6727
+★ Stars: 6731
 
 [Open repository](https://github.com/bytedance/IconPark)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 6731 | 404 | 
 | 2022-12-21 | 6727 | 403 | 
 | 2022-12-20 | 6724 | 404 | 
 | 2022-12-18 | 6722 | 403 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-24 | 6645 | 395 | 
 | 2022-11-23 | 6642 | 395 | 
 | 2022-11-22 | 6636 | 394 | 
-| 2022-11-21 | 6631 | 394 | 
 

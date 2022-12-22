@@ -1,6 +1,6 @@
 # justone/bb-pod-racer - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 11 | - | 
 | 2022-12-20 | 11 | - | 
 | 2022-12-19 | 11 | - | 
 | 2022-12-18 | 11 | - | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-25 | 10 | - | 
 | 2022-11-24 | 10 | - | 
 | 2022-11-23 | 10 | - | 
-| 2022-11-21 | 10 | - | 
 

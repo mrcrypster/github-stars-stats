@@ -1,10 +1,10 @@
 # matterport/Mask_RCNN - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 11179
+☋ Forks: 11180
 
-★ Stars: 22509
+★ Stars: 22510
 
 [Open repository](https://github.com/matterport/Mask_RCNN)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 22510 | 11180 | 
 | 2022-12-20 | 22509 | 11179 | 
 | 2022-12-19 | 22507 | 11179 | 
 | 2022-12-18 | 22506 | 11178 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-25 | 22451 | 11141 | 
 | 2022-11-24 | 22442 | 11139 | 
 | 2022-11-23 | 22441 | 11137 | 
-| 2022-11-22 | 22438 | 11133 | 
 

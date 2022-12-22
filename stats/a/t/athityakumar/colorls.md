@@ -1,10 +1,10 @@
 # athityakumar/colorls - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 345
 
-★ Stars: 4292
+★ Stars: 4294
 
 [Open repository](https://github.com/athityakumar/colorls)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 4294 | 345 | 
 | 2022-12-20 | 4292 | 345 | 
 | 2022-12-19 | 4289 | 345 | 
 | 2022-12-18 | 4290 | 345 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-25 | 4279 | 339 | 
 | 2022-11-24 | 4277 | 339 | 
 | 2022-11-23 | 4276 | 340 | 
-| 2022-11-22 | 4276 | 340 | 
 

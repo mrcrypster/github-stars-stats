@@ -1,6 +1,6 @@
 # Kong/lua-resty-events - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 11 | 3 | 
 | 2022-12-20 | 11 | 3 | 
 | 2022-12-19 | 11 | 2 | 
 | 2022-12-18 | 11 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 9 | 2 | 
 | 2022-11-23 | 9 | 1 | 
 | 2022-11-22 | 9 | 1 | 
-| 2022-11-21 | 9 | 1 | 
 

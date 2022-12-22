@@ -1,10 +1,10 @@
 # barryvdh/laravel-debugbar - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 22
 
-☋ Forks: 1426
+☋ Forks: 1427
 
-★ Stars: 14712
+★ Stars: 14718
 
 [Open repository](https://github.com/barryvdh/laravel-debugbar)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 14718 | 1427 | 
+| 2022-12-21 | 14717 | 1427 | 
 | 2022-12-20 | 14712 | 1426 | 
 | 2022-12-19 | 14710 | 1426 | 
 | 2022-12-18 | 14707 | 1426 | 
@@ -41,5 +43,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 14641 | 1422 | 
 | 2022-11-23 | 14638 | 1420 | 
 | 2022-11-22 | 14633 | 1419 | 
-| 2022-11-21 | 14631 | 1419 | 
 

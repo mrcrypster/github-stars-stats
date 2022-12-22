@@ -1,8 +1,8 @@
 # status-im/nim-eth - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 25
+☋ Forks: 26
 
 ★ Stars: 65
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 65 | 26 | 
 | 2022-12-20 | 65 | 25 | 
 | 2022-12-19 | 65 | 25 | 
 | 2022-12-18 | 65 | 25 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 61 | 25 | 
 | 2022-11-23 | 61 | 25 | 
 | 2022-11-22 | 60 | 25 | 
-| 2022-11-21 | 60 | 25 | 
 

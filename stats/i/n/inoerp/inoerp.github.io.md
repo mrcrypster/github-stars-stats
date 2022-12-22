@@ -1,6 +1,6 @@
 # inoerp/inoerp.github.io - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 1 | 10 | 
 | 2022-12-20 | 1 | 10 | 
 | 2022-12-19 | 1 | 10 | 
 | 2022-12-18 | 1 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 1 | 10 | 
 | 2022-11-23 | 1 | 10 | 
 | 2022-11-22 | 1 | 10 | 
-| 2022-11-21 | 1 | 10 | 
 

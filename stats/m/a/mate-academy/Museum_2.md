@@ -1,6 +1,6 @@
 # mate-academy/Museum_2 - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 254
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 1 | 254 | 
 | 2022-12-20 | 1 | 254 | 
 | 2022-12-19 | 1 | 253 | 
 | 2022-12-18 | 1 | 253 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 1 | 244 | 
 | 2022-11-23 | 1 | 244 | 
 | 2022-11-22 | 1 | 241 | 
-| 2022-11-21 | 1 | 241 | 
 

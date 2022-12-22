@@ -1,10 +1,10 @@
 # ITensor/ITensors.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 93
 
-★ Stars: 333
+★ Stars: 334
 
 [Open repository](https://github.com/ITensor/ITensors.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 334 | 93 | 
 | 2022-12-20 | 333 | 93 | 
 | 2022-12-19 | 333 | 93 | 
 | 2022-12-18 | 333 | 93 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 328 | 92 | 
 | 2022-11-23 | 328 | 92 | 
 | 2022-11-22 | 328 | 92 | 
-| 2022-11-21 | 328 | 92 | 
 

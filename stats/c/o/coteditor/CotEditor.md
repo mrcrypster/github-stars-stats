@@ -1,6 +1,6 @@
 # coteditor/CotEditor - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 384
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 5134 | 384 | 
 | 2022-12-20 | 5134 | 384 | 
 | 2022-12-19 | 5134 | 384 | 
 | 2022-12-18 | 5133 | 384 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-25 | 5045 | 378 | 
 | 2022-11-24 | 5043 | 378 | 
 | 2022-11-23 | 5042 | 378 | 
-| 2022-11-22 | 5042 | 378 | 
 

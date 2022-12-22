@@ -1,10 +1,10 @@
 # volta-cli/volta - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 171
 
-★ Stars: 7231
+★ Stars: 7238
 
 [Open repository](https://github.com/volta-cli/volta)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 7238 | 171 | 
 | 2022-12-20 | 7231 | 171 | 
 | 2022-12-19 | 7226 | 171 | 
 | 2022-12-18 | 7220 | 171 | 

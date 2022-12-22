@@ -1,6 +1,6 @@
 # MicrosoftDocs/dataexplorer-docs - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 281
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 82 | 281 | 
 | 2022-12-20 | 82 | 281 | 
 | 2022-12-19 | 82 | 281 | 
 | 2022-12-18 | 82 | 281 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 79 | 275 | 
 | 2022-11-23 | 79 | 275 | 
 | 2022-11-22 | 78 | 275 | 
-| 2022-11-21 | 78 | 275 | 
 

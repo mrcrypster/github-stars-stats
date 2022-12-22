@@ -1,10 +1,10 @@
 # halo-dev/console - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 435
+☋ Forks: 436
 
-★ Stars: 451
+★ Stars: 452
 
 [Open repository](https://github.com/halo-dev/console)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 452 | 436 | 
 | 2022-12-20 | 451 | 435 | 
 | 2022-12-19 | 451 | 435 | 
 | 2022-12-18 | 451 | 435 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 445 | 418 | 
 | 2022-11-23 | 443 | 418 | 
 | 2022-11-22 | 444 | 418 | 
-| 2022-11-21 | 444 | 418 | 
 

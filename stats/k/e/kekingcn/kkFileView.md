@@ -1,8 +1,8 @@
 # kekingcn/kkFileView - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 2153
+☋ Forks: 2152
 
 ★ Stars: 7814
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 7814 | 2152 | 
 | 2022-12-20 | 7814 | 2153 | 
 | 2022-12-19 | 7815 | 2153 | 
 | 2022-12-18 | 7814 | 2152 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 7755 | 2133 | 
 | 2022-11-23 | 7753 | 2133 | 
 | 2022-11-22 | 7749 | 2132 | 
-| 2022-11-21 | 7747 | 2132 | 
 

@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 21
 
 ☋ Forks: 166
 
-★ Stars: 743
+★ Stars: 744
 
 [Open repository](https://github.com/spring-cloud/spring-cloud-release)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-21 | 743 | 166 | 
+| 2022-12-21 | 744 | 166 | 
 | 2022-12-20 | 742 | 166 | 
 

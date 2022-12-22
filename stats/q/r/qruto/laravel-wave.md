@@ -1,6 +1,6 @@
 # qruto/laravel-wave - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 319 | 8 | 
 | 2022-12-21 | 319 | 8 | 
 | 2022-12-20 | 319 | 8 | 
 | 2022-12-18 | 319 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-24 | 316 | 8 | 
 | 2022-11-23 | 316 | 8 | 
 | 2022-11-22 | 316 | 8 | 
-| 2022-11-21 | 316 | 8 | 
 

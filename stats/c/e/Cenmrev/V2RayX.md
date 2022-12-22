@@ -1,6 +1,6 @@
 # Cenmrev/V2RayX - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 1093
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 7025 | 1093 | 
 | 2022-12-20 | 7025 | 1093 | 
 | 2022-12-19 | 7026 | 1093 | 
 | 2022-12-18 | 7026 | 1093 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 6993 | 1096 | 
 | 2022-11-23 | 6992 | 1097 | 
 | 2022-11-22 | 6991 | 1096 | 
-| 2022-11-21 | 6991 | 1096 | 
 

@@ -1,10 +1,10 @@
 # antfu/unplugin-vue-components - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 251
+☋ Forks: 252
 
-★ Stars: 2401
+★ Stars: 2406
 
 [Open repository](https://github.com/antfu/unplugin-vue-components)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 2406 | 252 | 
 | 2022-12-20 | 2401 | 251 | 
 | 2022-12-19 | 2399 | 249 | 
 | 2022-12-18 | 2396 | 249 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 2338 | 242 | 
 | 2022-11-23 | 2334 | 241 | 
 | 2022-11-22 | 2330 | 239 | 
-| 2022-11-21 | 2328 | 239 | 
 

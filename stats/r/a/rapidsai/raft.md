@@ -1,8 +1,8 @@
 # rapidsai/raft - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 95
+☋ Forks: 96
 
 ★ Stars: 125
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 125 | 96 | 
 | 2022-12-20 | 125 | 95 | 
 | 2022-12-19 | 125 | 95 | 
 | 2022-12-18 | 125 | 95 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 121 | 94 | 
 | 2022-11-23 | 121 | 94 | 
 | 2022-11-22 | 121 | 94 | 
-| 2022-11-21 | 120 | 93 | 
 

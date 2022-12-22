@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 21
 
 ☋ Forks: 79
 
-★ Stars: 408
+★ Stars: 409
 
 [Open repository](https://github.com/JuliaControl/ControlSystems.jl)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-21 | 408 | 79 | 
+| 2022-12-21 | 409 | 79 | 
 | 2022-12-20 | 408 | 79 | 
 | 2022-12-19 | 408 | 79 | 
 | 2022-12-18 | 408 | 79 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-24 | 402 | 77 | 
 | 2022-11-23 | 402 | 77 | 
 | 2022-11-22 | 403 | 77 | 
-| 2022-11-21 | 403 | 77 | 
 

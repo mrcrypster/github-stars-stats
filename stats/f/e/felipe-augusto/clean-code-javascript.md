@@ -1,10 +1,10 @@
 # felipe-augusto/clean-code-javascript - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 489
 
-★ Stars: 3147
+★ Stars: 3148
 
 [Open repository](https://github.com/felipe-augusto/clean-code-javascript)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 3148 | 489 | 
 | 2022-12-21 | 3147 | 489 | 
 | 2022-12-19 | 3146 | 489 | 
 | 2022-12-18 | 3145 | 489 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 3131 | 488 | 
 | 2022-11-23 | 3131 | 488 | 
 | 2022-11-22 | 3125 | 488 | 
-| 2022-11-21 | 3123 | 488 | 
 

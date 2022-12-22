@@ -1,8 +1,8 @@
 # ljharb/qs - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 719
+☋ Forks: 720
 
 ★ Stars: 7542
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 7542 | 720 | 
 | 2022-12-20 | 7542 | 719 | 
 | 2022-12-19 | 7540 | 719 | 
 | 2022-12-18 | 7538 | 718 | 

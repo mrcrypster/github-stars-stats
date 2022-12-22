@@ -1,6 +1,6 @@
 # valence-rs/valence - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 1372 | 59 | 
 | 2022-12-20 | 1372 | 59 | 
 | 2022-12-19 | 1371 | 59 | 
 | 2022-12-18 | 1370 | 59 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 1336 | 59 | 
 | 2022-11-23 | 1334 | 59 | 
 | 2022-11-22 | 1330 | 60 | 
-| 2022-11-21 | 1330 | 61 | 
 

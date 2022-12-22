@@ -1,10 +1,10 @@
 # metakirby5/codi.vim - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 83
+☋ Forks: 84
 
-★ Stars: 2758
+★ Stars: 2760
 
 [Open repository](https://github.com/metakirby5/codi.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 2760 | 84 | 
 | 2022-12-20 | 2758 | 83 | 
 | 2022-12-19 | 2758 | 83 | 
 | 2022-12-18 | 2758 | 83 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 2750 | 82 | 
 | 2022-11-23 | 2750 | 82 | 
 | 2022-11-22 | 2749 | 82 | 
-| 2022-11-21 | 2747 | 82 | 
 

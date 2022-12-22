@@ -1,6 +1,6 @@
 # Dewdrops/evil-exchange - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 93 | 9 | 
 | 2022-12-20 | 93 | 9 | 
 | 2022-12-19 | 93 | 9 | 
 | 2022-12-18 | 93 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 90 | 9 | 
 | 2022-11-23 | 90 | 9 | 
 | 2022-11-22 | 90 | 9 | 
-| 2022-11-21 | 90 | 9 | 
 

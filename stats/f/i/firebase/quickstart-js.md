@@ -1,10 +1,10 @@
 # firebase/quickstart-js - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 3589
+☋ Forks: 3588
 
-★ Stars: 4604
+★ Stars: 4605
 
 [Open repository](https://github.com/firebase/quickstart-js)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 4605 | 3588 | 
 | 2022-12-20 | 4604 | 3589 | 
 | 2022-12-19 | 4602 | 3589 | 
 | 2022-12-18 | 4602 | 3588 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 4577 | 3574 | 
 | 2022-11-23 | 4574 | 3573 | 
 | 2022-11-22 | 4575 | 3571 | 
-| 2022-11-21 | 4575 | 3571 | 
 

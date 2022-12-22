@@ -1,6 +1,6 @@
 # rescript-lang/rescript-project-template - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 95 | 25 | 
 | 2022-12-20 | 95 | 25 | 
 | 2022-12-19 | 95 | 25 | 
 | 2022-12-18 | 95 | 26 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 91 | 26 | 
 | 2022-11-23 | 91 | 26 | 
 | 2022-11-22 | 91 | 26 | 
-| 2022-11-21 | 91 | 26 | 
 

@@ -1,6 +1,6 @@
 # shpakovski/MASShortcut - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 198
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 1453 | 198 | 
 | 2022-12-20 | 1453 | 198 | 
 | 2022-12-19 | 1453 | 198 | 
 | 2022-12-18 | 1453 | 198 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 1448 | 197 | 
 | 2022-11-23 | 1448 | 197 | 
 | 2022-11-22 | 1448 | 197 | 
-| 2022-11-21 | 1448 | 197 | 
 

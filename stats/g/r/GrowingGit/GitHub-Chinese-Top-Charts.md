@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 21
 
-☋ Forks: 7981
+☋ Forks: 7996
 
-★ Stars: 54907
+★ Stars: 55003
 
 [Open repository](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-21 | 54907 | 7981 | 
+| 2022-12-21 | 55003 | 7996 | 
 | 2022-12-20 | 54896 | 7980 | 
 | 2022-12-19 | 54678 | 7955 | 
 | 2022-12-18 | 54318 | 7905 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-24 | 51531 | 7444 | 
 | 2022-11-23 | 51504 | 7438 | 
 | 2022-11-22 | 51453 | 7427 | 
-| 2022-11-21 | 51435 | 7425 | 
 

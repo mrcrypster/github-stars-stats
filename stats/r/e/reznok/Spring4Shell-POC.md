@@ -1,6 +1,6 @@
 # reznok/Spring4Shell-POC - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 215
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 272 | 215 | 
 | 2022-12-20 | 272 | 215 | 
 | 2022-12-19 | 272 | 216 | 
 | 2022-12-18 | 272 | 216 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 271 | 216 | 
 | 2022-11-23 | 271 | 216 | 
 | 2022-11-22 | 271 | 215 | 
-| 2022-11-21 | 271 | 215 | 
 

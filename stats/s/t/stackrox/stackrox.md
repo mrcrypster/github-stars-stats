@@ -1,10 +1,10 @@
 # stackrox/stackrox - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 78
 
-★ Stars: 916
+★ Stars: 917
 
 [Open repository](https://github.com/stackrox/stackrox)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 917 | 78 | 
 | 2022-12-20 | 916 | 78 | 
 | 2022-12-19 | 916 | 78 | 
 | 2022-12-18 | 917 | 78 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 900 | 76 | 
 | 2022-11-23 | 900 | 76 | 
 | 2022-11-22 | 899 | 76 | 
-| 2022-11-21 | 899 | 76 | 
 

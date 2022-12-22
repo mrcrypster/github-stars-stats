@@ -1,10 +1,10 @@
 # RobertBorghese/reflaxe - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 0
 
-★ Stars: 26
+★ Stars: 29
 
 [Open repository](https://github.com/RobertBorghese/reflaxe)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 29 | - | 
 | 2022-12-20 | 26 | - | 
 | 2022-12-19 | 26 | - | 
 | 2022-12-18 | 25 | - | 

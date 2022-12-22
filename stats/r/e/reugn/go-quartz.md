@@ -1,10 +1,10 @@
 # reugn/go-quartz - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 59
 
-★ Stars: 1090
+★ Stars: 1091
 
 [Open repository](https://github.com/reugn/go-quartz)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 1091 | 59 | 
 | 2022-12-21 | 1090 | 59 | 
 | 2022-12-19 | 1089 | 59 | 
 | 2022-12-18 | 1089 | 58 | 

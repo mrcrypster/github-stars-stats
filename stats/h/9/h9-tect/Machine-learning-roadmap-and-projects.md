@@ -1,6 +1,6 @@
 # h9-tect/Machine-learning-roadmap-and-projects - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 143 | 24 | 
 | 2022-12-20 | 143 | 24 | 
 | 2022-12-19 | 143 | 23 | 
 | 2022-12-18 | 143 | 23 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 140 | 22 | 
 | 2022-11-23 | 140 | 22 | 
 | 2022-11-22 | 140 | 22 | 
-| 2022-11-21 | 140 | 22 | 
 

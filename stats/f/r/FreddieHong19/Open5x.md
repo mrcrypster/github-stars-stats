@@ -1,10 +1,10 @@
 # FreddieHong19/Open5x - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 92
 
-★ Stars: 620
+★ Stars: 621
 
 [Open repository](https://github.com/FreddieHong19/Open5x)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 621 | 92 | 
 | 2022-12-20 | 620 | 92 | 
 | 2022-12-19 | 619 | 92 | 
 | 2022-12-18 | 618 | 92 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 573 | 84 | 
 | 2022-11-23 | 573 | 84 | 
 | 2022-11-22 | 570 | 84 | 
-| 2022-11-21 | 570 | 84 | 
 

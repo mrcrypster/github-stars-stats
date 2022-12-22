@@ -1,8 +1,8 @@
 # nateraw/stable-diffusion-videos - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 155
+☋ Forks: 156
 
 ★ Stars: 1782
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 1782 | 156 | 
 | 2022-12-20 | 1782 | 155 | 
 | 2022-12-19 | 1776 | 155 | 
 | 2022-12-18 | 1772 | 154 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 1683 | 148 | 
 | 2022-11-23 | 1678 | 147 | 
 | 2022-11-22 | 1673 | 146 | 
-| 2022-11-21 | 1667 | 146 | 
 

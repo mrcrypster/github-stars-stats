@@ -1,10 +1,10 @@
 # nana-4/materia-theme - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 262
 
-★ Stars: 3275
+★ Stars: 3276
 
 [Open repository](https://github.com/nana-4/materia-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 3276 | 262 | 
 | 2022-12-20 | 3275 | 262 | 
 | 2022-12-19 | 3275 | 262 | 
 | 2022-12-18 | 3275 | 262 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 3264 | 262 | 
 | 2022-11-23 | 3264 | 262 | 
 | 2022-11-22 | 3264 | 262 | 
-| 2022-11-21 | 3264 | 262 | 
 

@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 21
 
 ☋ Forks: 14
 
-★ Stars: 521
+★ Stars: 525
 
 [Open repository](https://github.com/rails/docked)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-21 | 521 | 14 | 
+| 2022-12-21 | 525 | 14 | 
 | 2022-12-20 | 519 | 14 | 
 | 2022-12-19 | 439 | 12 | 
 | 2022-12-18 | 431 | 13 | 

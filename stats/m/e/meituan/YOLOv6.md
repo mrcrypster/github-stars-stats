@@ -1,10 +1,10 @@
 # meituan/YOLOv6 - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 737
 
-★ Stars: 4431
+★ Stars: 4433
 
 [Open repository](https://github.com/meituan/YOLOv6)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 4433 | 737 | 
 | 2022-12-20 | 4431 | 737 | 
 | 2022-12-19 | 4429 | 737 | 
 | 2022-12-18 | 4426 | 735 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 4361 | 711 | 
 | 2022-11-23 | 4358 | 712 | 
 | 2022-11-22 | 4357 | 711 | 
-| 2022-11-21 | 4353 | 711 | 
 

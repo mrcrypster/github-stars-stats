@@ -1,10 +1,10 @@
 # symfony/css-selector - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 42
 
-★ Stars: 7162
+★ Stars: 7164
 
 [Open repository](https://github.com/symfony/css-selector)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 7164 | 42 | 
 | 2022-12-20 | 7162 | 42 | 
 | 2022-12-19 | 7162 | 42 | 
 | 2022-12-18 | 7161 | 42 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 7146 | 42 | 
 | 2022-11-23 | 7146 | 42 | 
 | 2022-11-22 | 7147 | 42 | 
-| 2022-11-21 | 7146 | 42 | 
 

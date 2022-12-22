@@ -1,8 +1,8 @@
 # xnl-h4ck3r/waymore - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 77
+☋ Forks: 78
 
 ★ Stars: 550
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 550 | 78 | 
 | 2022-12-20 | 550 | 77 | 
 | 2022-12-19 | 549 | 77 | 
 | 2022-12-18 | 549 | 77 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 523 | 73 | 
 | 2022-11-23 | 523 | 73 | 
 | 2022-11-22 | 522 | 73 | 
-| 2022-11-21 | 517 | 73 | 
 

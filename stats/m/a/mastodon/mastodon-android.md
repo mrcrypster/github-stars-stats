@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 21
 
 ☋ Forks: 118
 
-★ Stars: 1067
+★ Stars: 1073
 
 [Open repository](https://github.com/mastodon/mastodon-android)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-21 | 1067 | 118 | 
+| 2022-12-21 | 1073 | 118 | 
 | 2022-12-20 | 1065 | 118 | 
 | 2022-12-19 | 1051 | 115 | 
 | 2022-12-18 | 1030 | 115 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-24 | 906 | 96 | 
 | 2022-11-23 | 899 | 94 | 
 | 2022-11-22 | 890 | 93 | 
-| 2022-11-21 | 887 | 92 | 
 

@@ -1,0 +1,17 @@
+# kiegroup/kie-ci - stars & forks statistics
+
+Stats updated on Dec 2022, 21
+
+☋ Forks: 37
+
+★ Stars: 6
+
+[Open repository](https://github.com/kiegroup/kie-ci)
+
+[Open detailed stats for kiegroup/kie-ci](https://reviewgithub.com/rep/kiegroup/kie-ci)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-12-21 | 6 | 37 | 
+

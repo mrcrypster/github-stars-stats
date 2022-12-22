@@ -1,10 +1,10 @@
 # mickael-kerjean/filestash - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 532
 
-★ Stars: 7243
+★ Stars: 7245
 
 [Open repository](https://github.com/mickael-kerjean/filestash)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 7245 | 532 | 
 | 2022-12-20 | 7243 | 532 | 
 | 2022-12-19 | 7240 | 531 | 
 | 2022-12-18 | 7233 | 530 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 7116 | 524 | 
 | 2022-11-23 | 7111 | 524 | 
 | 2022-11-22 | 7110 | 524 | 
-| 2022-11-21 | 7108 | 524 | 
 

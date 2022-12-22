@@ -1,10 +1,10 @@
 # iksergey/multi - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 31
+☋ Forks: 34
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/iksergey/multi)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 1 | 34 | 
 | 2022-12-20 | - | 31 | 
 | 2022-12-19 | - | 31 | 
 | 2022-12-18 | - | 31 | 

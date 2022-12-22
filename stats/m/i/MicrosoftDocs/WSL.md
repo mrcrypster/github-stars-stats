@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 21
 
 ☋ Forks: 495
 
-★ Stars: 1572
+★ Stars: 1574
 
 [Open repository](https://github.com/MicrosoftDocs/WSL)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-21 | 1572 | 495 | 
+| 2022-12-21 | 1574 | 495 | 
 | 2022-12-20 | 1572 | 495 | 
 | 2022-12-19 | 1565 | 494 | 
 | 2022-12-18 | 1565 | 494 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-24 | 1539 | 481 | 
 | 2022-11-23 | 1539 | 480 | 
 | 2022-11-22 | 1539 | 480 | 
-| 2022-11-21 | 1538 | 480 | 
 

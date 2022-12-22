@@ -1,8 +1,8 @@
 # HenGaming13/freeRDP_2022 - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 428
+☋ Forks: 443
 
 ★ Stars: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 8 | 443 | 
 | 2022-12-20 | 8 | 428 | 
 | 2022-12-19 | 8 | 421 | 
 | 2022-12-18 | 8 | 420 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 4 | 275 | 
 | 2022-11-23 | 4 | 273 | 
 | 2022-11-22 | 4 | 269 | 
-| 2022-11-21 | 4 | 267 | 
 

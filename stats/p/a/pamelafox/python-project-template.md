@@ -1,6 +1,6 @@
 # pamelafox/python-project-template - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 27 | 2 | 
 | 2022-12-20 | 27 | 2 | 
 | 2022-12-19 | 27 | 2 | 
 | 2022-12-18 | 27 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 25 | 2 | 
 | 2022-11-23 | 25 | 2 | 
 | 2022-11-22 | 25 | 2 | 
-| 2022-11-21 | 23 | 2 | 
 

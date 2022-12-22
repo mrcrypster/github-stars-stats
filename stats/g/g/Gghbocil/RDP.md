@@ -1,10 +1,10 @@
 # Gghbocil/RDP - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 92
+☋ Forks: 94
 
-★ Stars: 1
+★ Stars: 0
 
 [Open repository](https://github.com/Gghbocil/RDP)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | - | 94 | 
 | 2022-12-20 | 1 | 92 | 
 | 2022-12-19 | - | 91 | 
 | 2022-12-18 | - | 90 | 

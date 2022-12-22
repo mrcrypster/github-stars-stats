@@ -1,10 +1,10 @@
 # presentator/presentator - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 80
 
-★ Stars: 734
+★ Stars: 737
 
 [Open repository](https://github.com/presentator/presentator)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 737 | 80 | 
 | 2022-12-20 | 734 | 80 | 
 | 2022-12-19 | 731 | 80 | 
 | 2022-12-18 | 731 | 80 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 720 | 79 | 
 | 2022-11-23 | 720 | 79 | 
 | 2022-11-22 | 720 | 80 | 
-| 2022-11-21 | 717 | 80 | 
 

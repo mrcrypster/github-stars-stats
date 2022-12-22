@@ -1,8 +1,8 @@
 # cloudspannerecosystem/wrench - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 26
+☋ Forks: 27
 
 ★ Stars: 184
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 184 | 27 | 
 | 2022-12-20 | 184 | 26 | 
 | 2022-12-19 | 184 | 26 | 
 | 2022-12-18 | 184 | 26 | 

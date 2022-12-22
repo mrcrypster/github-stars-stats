@@ -1,10 +1,10 @@
 # itdevbooks/pdf - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 5811
+☋ Forks: 5812
 
-★ Stars: 19114
+★ Stars: 19120
 
 [Open repository](https://github.com/itdevbooks/pdf)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 19120 | 5812 | 
 | 2022-12-20 | 19114 | 5811 | 
 | 2022-12-19 | 19104 | 5808 | 
 | 2022-12-18 | 19089 | 5805 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 18777 | 5725 | 
 | 2022-11-23 | 18761 | 5720 | 
 | 2022-11-22 | 18748 | 5718 | 
-| 2022-11-21 | 18730 | 5714 | 
 

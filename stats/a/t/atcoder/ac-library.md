@@ -1,10 +1,10 @@
 # atcoder/ac-library - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 164
 
-★ Stars: 1188
+★ Stars: 1187
 
 [Open repository](https://github.com/atcoder/ac-library)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 1187 | 164 | 
 | 2022-12-20 | 1188 | 164 | 
 | 2022-12-19 | 1188 | 164 | 
 | 2022-12-18 | 1187 | 164 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 1171 | 165 | 
 | 2022-11-23 | 1171 | 165 | 
 | 2022-11-22 | 1171 | 165 | 
-| 2022-11-21 | 1170 | 165 | 
 

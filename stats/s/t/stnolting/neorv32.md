@@ -1,10 +1,10 @@
 # stnolting/neorv32 - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 22
 
-☋ Forks: 139
+☋ Forks: 140
 
-★ Stars: 1010
+★ Stars: 1015
 
 [Open repository](https://github.com/stnolting/neorv32)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 1015 | 140 | 
+| 2022-12-21 | 1014 | 140 | 
 | 2022-12-20 | 1010 | 139 | 
 | 2022-12-19 | 1009 | 139 | 
 | 2022-12-18 | 1009 | 139 | 
@@ -40,5 +42,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 990 | 133 | 
 | 2022-11-23 | 990 | 133 | 
 | 2022-11-22 | 989 | 133 | 
-| 2022-11-21 | 989 | 133 | 
 

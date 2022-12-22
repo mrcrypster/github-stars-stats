@@ -1,8 +1,8 @@
 # Riya14-dangra/RealEstate-Web - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
-☋ Forks: 9
+☋ Forks: 10
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 3 | 10 | 
 | 2022-12-20 | 3 | 9 | 
 | 2022-12-19 | 3 | 9 | 
 | 2022-12-18 | 3 | 10 | 

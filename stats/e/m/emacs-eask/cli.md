@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 21
 
 ☋ Forks: 7
 
-★ Stars: 50
+★ Stars: 51
 
 [Open repository](https://github.com/emacs-eask/cli)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-21 | 50 | 7 | 
+| 2022-12-21 | 51 | 7 | 
 | 2022-12-20 | 50 | 7 | 
 | 2022-12-19 | 50 | 7 | 
 | 2022-12-18 | 49 | 7 | 

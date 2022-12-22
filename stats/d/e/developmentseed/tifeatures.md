@@ -1,6 +1,6 @@
 # developmentseed/tifeatures - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 39 | 1 | 
 | 2022-12-20 | 39 | 1 | 
 | 2022-12-19 | 39 | 1 | 
 | 2022-12-18 | 39 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 35 | 1 | 
 | 2022-11-23 | 35 | 1 | 
 | 2022-11-22 | 33 | 1 | 
-| 2022-11-21 | 32 | 1 | 
 

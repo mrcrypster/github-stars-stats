@@ -1,10 +1,10 @@
 # saleor/saleor-platform - stars & forks statistics
 
-Stats updated on Dec 2022, 20
+Stats updated on Dec 2022, 21
 
 ☋ Forks: 651
 
-★ Stars: 502
+★ Stars: 503
 
 [Open repository](https://github.com/saleor/saleor-platform)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-21 | 503 | 651 | 
 | 2022-12-20 | 502 | 651 | 
 | 2022-12-19 | 501 | 649 | 
 | 2022-12-18 | 501 | 629 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 20
 | 2022-11-24 | 492 | 617 | 
 | 2022-11-23 | 492 | 616 | 
 | 2022-11-22 | 491 | 616 | 
-| 2022-11-21 | 491 | 616 | 
 

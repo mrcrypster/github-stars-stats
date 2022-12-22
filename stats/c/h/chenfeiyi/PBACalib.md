@@ -1,6 +1,6 @@
 # chenfeiyi/PBACalib - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 31 | 1 | 
 | 2022-12-21 | 31 | 1 | 
 | 2022-12-20 | 31 | 1 | 
 | 2022-12-18 | 31 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-24 | 27 | 1 | 
 | 2022-11-23 | 27 | 1 | 
 | 2022-11-22 | 26 | 1 | 
-| 2022-11-21 | 26 | 1 | 
 
