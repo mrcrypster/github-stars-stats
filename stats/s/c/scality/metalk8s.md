@@ -1,10 +1,10 @@
 # scality/metalk8s - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 46
 
-★ Stars: 295
+★ Stars: 296
 
 [Open repository](https://github.com/scality/metalk8s)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 296 | 46 | 
 | 2022-12-21 | 295 | 46 | 
 | 2022-12-20 | 295 | 46 | 
 | 2022-12-19 | 295 | 46 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 293 | 46 | 
 | 2022-11-24 | 293 | 46 | 
 | 2022-11-23 | 293 | 46 | 
-| 2022-11-22 | 293 | 46 | 
 

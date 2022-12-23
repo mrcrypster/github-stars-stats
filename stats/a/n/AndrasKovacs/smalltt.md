@@ -1,6 +1,6 @@
 # AndrasKovacs/smalltt - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 428 | 23 | 
 | 2022-12-21 | 428 | 23 | 
 | 2022-12-20 | 428 | 23 | 
 | 2022-12-19 | 428 | 23 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 426 | 22 | 
 | 2022-11-24 | 426 | 22 | 
 | 2022-11-23 | 424 | 21 | 
-| 2022-11-22 | 424 | 21 | 
 

@@ -1,10 +1,10 @@
 # iotaledger/firefly - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 88
 
-★ Stars: 413
+★ Stars: 414
 
 [Open repository](https://github.com/iotaledger/firefly)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 414 | 88 | 
 | 2022-12-21 | 413 | 88 | 
 | 2022-12-20 | 413 | 88 | 
 | 2022-12-19 | 413 | 88 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 404 | 88 | 
 | 2022-11-24 | 404 | 88 | 
 | 2022-11-23 | 402 | 88 | 
-| 2022-11-22 | 403 | 87 | 
 

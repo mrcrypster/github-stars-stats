@@ -1,6 +1,6 @@
 # air-controller/air-controller-desktop - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 384 | 53 | 
 | 2022-12-21 | 384 | 53 | 
 | 2022-12-20 | 384 | 53 | 
 | 2022-12-19 | 383 | 53 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 360 | 49 | 
 | 2022-11-24 | 359 | 49 | 
 | 2022-11-23 | 359 | 49 | 
-| 2022-11-22 | 359 | 48 | 
 

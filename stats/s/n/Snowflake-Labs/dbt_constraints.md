@@ -1,8 +1,8 @@
 # Snowflake-Labs/dbt_constraints - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 11
+☋ Forks: 13
 
 ★ Stars: 61
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 61 | 13 | 
 | 2022-12-21 | 61 | 11 | 
 | 2022-12-20 | 61 | 11 | 
 | 2022-12-19 | 61 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 59 | 11 | 
 | 2022-11-24 | 58 | 11 | 
 | 2022-11-23 | 58 | 11 | 
-| 2022-11-22 | 58 | 11 | 
 

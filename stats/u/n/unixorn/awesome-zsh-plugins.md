@@ -1,10 +1,10 @@
 # unixorn/awesome-zsh-plugins - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 486
 
-★ Stars: 12070
+★ Stars: 12075
 
 [Open repository](https://github.com/unixorn/awesome-zsh-plugins)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 12075 | 486 | 
 | 2022-12-21 | 12070 | 486 | 
 | 2022-12-20 | 12068 | 486 | 
 | 2022-12-19 | 12064 | 487 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 11938 | 486 | 
 | 2022-11-24 | 11932 | 486 | 
 | 2022-11-23 | 11926 | 486 | 
-| 2022-11-22 | 11917 | 486 | 
 

@@ -1,6 +1,6 @@
 # financialforcedev/apex-mdapi - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 923
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 594 | 923 | 
 | 2022-12-21 | 594 | 923 | 
 | 2022-12-20 | 594 | 922 | 
 | 2022-12-19 | 594 | 922 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 588 | 914 | 
 | 2022-11-24 | 587 | 914 | 
 | 2022-11-23 | 586 | 913 | 
-| 2022-11-22 | 586 | 913 | 
 

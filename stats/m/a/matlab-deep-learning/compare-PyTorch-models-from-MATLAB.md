@@ -1,10 +1,10 @@
 # matlab-deep-learning/compare-PyTorch-models-from-MATLAB - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 0
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/matlab-deep-learning/compare-PyTorch-models-from-MATLAB)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 3 | - | 
 | 2022-12-21 | 2 | - | 
 | 2022-12-20 | 2 | - | 
 | 2022-12-19 | 2 | - | 

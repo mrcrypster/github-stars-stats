@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 22
 
 ☋ Forks: 2421
 
-★ Stars: 1830
+★ Stars: 1829
 
 [Open repository](https://github.com/mmistakes/so-simple-theme)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-22 | 1830 | 2421 | 
+| 2022-12-22 | 1829 | 2421 | 
 | 2022-12-21 | 1830 | 2421 | 
 | 2022-12-20 | 1828 | 2421 | 
 | 2022-12-19 | 1827 | 2421 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-25 | 1816 | 2419 | 
 | 2022-11-24 | 1816 | 2418 | 
 | 2022-11-23 | 1816 | 2421 | 
-| 2022-11-22 | 1814 | 2419 | 
 

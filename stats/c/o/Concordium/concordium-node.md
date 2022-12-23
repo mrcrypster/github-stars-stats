@@ -1,10 +1,10 @@
 # Concordium/concordium-node - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 13
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/Concordium/concordium-node)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 29 | 13 | 
 | 2022-12-21 | 28 | 13 | 
 | 2022-12-20 | 28 | 13 | 
 | 2022-12-19 | 28 | 13 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 28 | 10 | 
 | 2022-11-24 | 28 | 10 | 
 | 2022-11-23 | 28 | 10 | 
-| 2022-11-22 | 28 | 10 | 
 

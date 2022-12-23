@@ -1,10 +1,10 @@
 # vitkarpov/coding-interviews-blog-archive - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 71
 
-★ Stars: 856
+★ Stars: 859
 
 [Open repository](https://github.com/vitkarpov/coding-interviews-blog-archive)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 859 | 71 | 
 | 2022-12-21 | 856 | 71 | 
 | 2022-12-20 | 856 | 71 | 
 | 2022-12-19 | 854 | 71 | 

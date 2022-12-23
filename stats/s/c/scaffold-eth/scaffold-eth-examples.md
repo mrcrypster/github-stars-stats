@@ -1,10 +1,10 @@
 # scaffold-eth/scaffold-eth-examples - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 125
 
-★ Stars: 153
+★ Stars: 154
 
 [Open repository](https://github.com/scaffold-eth/scaffold-eth-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 154 | 125 | 
 | 2022-12-21 | 153 | 125 | 
 | 2022-12-20 | 153 | 125 | 
 | 2022-12-19 | 153 | 125 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 147 | 123 | 
 | 2022-11-24 | 147 | 123 | 
 | 2022-11-23 | 148 | 123 | 
-| 2022-11-22 | 148 | 123 | 
 

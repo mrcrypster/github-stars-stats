@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 22
 
 ☋ Forks: 418
 
-★ Stars: 3575
+★ Stars: 3579
 
 [Open repository](https://github.com/MichaIng/DietPi)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-22 | 3575 | 418 | 
+| 2022-12-22 | 3579 | 418 | 
 | 2022-12-21 | 3574 | 418 | 
 | 2022-12-20 | 3570 | 418 | 
 | 2022-12-19 | 3560 | 417 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-25 | 3518 | 414 | 
 | 2022-11-24 | 3517 | 413 | 
 | 2022-11-23 | 3514 | 413 | 
-| 2022-11-22 | 3513 | 413 | 
 

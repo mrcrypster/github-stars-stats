@@ -1,6 +1,6 @@
 # islandZZZ/webpack-dev-cache-clear-plugin - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 111 | 17 | 
 | 2022-12-21 | 111 | 17 | 
 | 2022-12-20 | 111 | 17 | 
 | 2022-12-19 | 111 | 17 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-26 | 110 | 17 | 
 | 2022-11-25 | 110 | 17 | 
 | 2022-11-24 | 110 | 17 | 
-| 2022-11-23 | 110 | 17 | 
 

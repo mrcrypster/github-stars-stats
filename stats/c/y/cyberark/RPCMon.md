@@ -1,6 +1,6 @@
 # cyberark/RPCMon - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 233 | 24 | 
 | 2022-12-22 | 233 | 24 | 
 | 2022-12-21 | 232 | 24 | 
 | 2022-12-20 | 231 | 25 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-25 | 215 | 21 | 
 | 2022-11-24 | 211 | 21 | 
 | 2022-11-23 | 207 | 18 | 
-| 2022-11-22 | 207 | 18 | 
 

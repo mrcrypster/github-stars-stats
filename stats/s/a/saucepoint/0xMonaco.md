@@ -1,10 +1,10 @@
 # saucepoint/0xMonaco - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 1
 
-★ Stars: 54
+★ Stars: 53
 
 [Open repository](https://github.com/saucepoint/0xMonaco)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 53 | 1 | 
 | 2022-12-21 | 54 | 1 | 
 | 2022-12-20 | 54 | 1 | 
 | 2022-12-19 | 54 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 53 | 1 | 
 | 2022-11-24 | 53 | 1 | 
 | 2022-11-23 | 53 | 1 | 
-| 2022-11-22 | 53 | 1 | 
 

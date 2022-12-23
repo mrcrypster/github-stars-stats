@@ -1,10 +1,10 @@
 # sudheerj/reactjs-interview-questions - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 6436
+☋ Forks: 6437
 
-★ Stars: 25989
+★ Stars: 25995
 
 [Open repository](https://github.com/sudheerj/reactjs-interview-questions)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 25995 | 6437 | 
 | 2022-12-21 | 25989 | 6436 | 
 | 2022-12-20 | 25952 | 6429 | 
 | 2022-12-19 | 25936 | 6423 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 25435 | 6286 | 
 | 2022-11-24 | 25390 | 6275 | 
 | 2022-11-23 | 25352 | 6264 | 
-| 2022-11-22 | 25334 | 6261 | 
 

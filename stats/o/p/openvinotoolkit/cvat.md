@@ -1,10 +1,10 @@
 # openvinotoolkit/cvat - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 2235
+☋ Forks: 2236
 
-★ Stars: 8505
+★ Stars: 8510
 
 [Open repository](https://github.com/openvinotoolkit/cvat)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 8510 | 2236 | 
 | 2022-12-21 | 8505 | 2235 | 
 | 2022-12-20 | 8503 | 2233 | 
 | 2022-12-19 | 8502 | 2232 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 8383 | 2208 | 
 | 2022-11-24 | 8379 | 2208 | 
 | 2022-11-23 | 8330 | 2208 | 
-| 2022-11-22 | 8224 | 2207 | 
 

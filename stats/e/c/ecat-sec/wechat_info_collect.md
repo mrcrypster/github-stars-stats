@@ -1,6 +1,6 @@
 # ecat-sec/wechat_info_collect - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 132
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 601 | 132 | 
 | 2022-12-21 | 601 | 132 | 
 | 2022-12-20 | 601 | 132 | 
 | 2022-12-19 | 601 | 132 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 591 | 131 | 
 | 2022-11-24 | 591 | 131 | 
 | 2022-11-23 | 590 | 130 | 
-| 2022-11-22 | 590 | 130 | 
 

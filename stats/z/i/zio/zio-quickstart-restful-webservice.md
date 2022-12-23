@@ -1,6 +1,6 @@
 # zio/zio-quickstart-restful-webservice - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 20 | 17 | 
 | 2022-12-21 | 20 | 17 | 
 | 2022-12-20 | 20 | 17 | 
 | 2022-12-19 | 20 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 17 | 17 | 
 | 2022-11-24 | 16 | 17 | 
 | 2022-11-23 | 16 | 17 | 
-| 2022-11-22 | 16 | 16 | 
 

@@ -1,10 +1,10 @@
 # WilliamStaudenmeier/Kodama - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 209
+☋ Forks: 211
 
-★ Stars: 97
+★ Stars: 99
 
 [Open repository](https://github.com/WilliamStaudenmeier/Kodama)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 99 | 211 | 
 | 2022-12-21 | 97 | 209 | 
 | 2022-12-20 | 95 | 208 | 
 | 2022-12-19 | 93 | 208 | 

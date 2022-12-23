@@ -1,6 +1,6 @@
 # CNCKitchen/ExtrusionSystemBenchmark - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 74 | 15 | 
 | 2022-12-21 | 74 | 15 | 
 | 2022-12-20 | 74 | 15 | 
 | 2022-12-19 | 74 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 71 | 15 | 
 | 2022-11-24 | 71 | 15 | 
 | 2022-11-23 | 71 | 15 | 
-| 2022-11-22 | 71 | 15 | 
 

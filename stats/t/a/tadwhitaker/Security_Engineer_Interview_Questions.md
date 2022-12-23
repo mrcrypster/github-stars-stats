@@ -1,10 +1,10 @@
 # tadwhitaker/Security_Engineer_Interview_Questions - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 186
 
-★ Stars: 903
+★ Stars: 905
 
 [Open repository](https://github.com/tadwhitaker/Security_Engineer_Interview_Questions)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 905 | 186 | 
 | 2022-12-21 | 903 | 186 | 
 | 2022-12-20 | 902 | 186 | 
 | 2022-12-19 | 901 | 186 | 

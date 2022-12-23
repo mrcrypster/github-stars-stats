@@ -1,6 +1,6 @@
 # vmware-tanzu/tanzu-framework - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 180
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 188 | 180 | 
 | 2022-12-21 | 188 | 180 | 
 | 2022-12-20 | 188 | 179 | 
 | 2022-12-19 | 188 | 179 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 186 | 167 | 
 | 2022-11-24 | 186 | 167 | 
 | 2022-11-23 | 186 | 167 | 
-| 2022-11-22 | 186 | 167 | 
 

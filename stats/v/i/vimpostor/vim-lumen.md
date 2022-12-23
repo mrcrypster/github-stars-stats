@@ -1,10 +1,10 @@
 # vimpostor/vim-lumen - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 1
 
-★ Stars: 39
+★ Stars: 40
 
 [Open repository](https://github.com/vimpostor/vim-lumen)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 40 | 1 | 
 | 2022-12-21 | 39 | 1 | 
 | 2022-12-20 | 38 | 1 | 
 | 2022-12-19 | 38 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 38 | 1 | 
 | 2022-11-24 | 38 | 1 | 
 | 2022-11-23 | 38 | 1 | 
-| 2022-11-22 | 38 | 1 | 
 

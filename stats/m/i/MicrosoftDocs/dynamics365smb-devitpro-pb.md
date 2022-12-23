@@ -1,8 +1,8 @@
 # MicrosoftDocs/dynamics365smb-devitpro-pb - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 196
+☋ Forks: 197
 
 ★ Stars: 93
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 93 | 197 | 
 | 2022-12-21 | 93 | 196 | 
 | 2022-12-20 | 93 | 195 | 
 | 2022-12-19 | 93 | 195 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 90 | 188 | 
 | 2022-11-24 | 90 | 188 | 
 | 2022-11-23 | 89 | 188 | 
-| 2022-11-22 | 89 | 188 | 
 

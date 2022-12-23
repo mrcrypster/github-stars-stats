@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 22
 
 ☋ Forks: 238
 
-★ Stars: 1792
+★ Stars: 1793
 
 [Open repository](https://github.com/vwxyzjn/cleanrl)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-22 | 1792 | 238 | 
+| 2022-12-22 | 1793 | 238 | 
 | 2022-12-21 | 1791 | 237 | 
 | 2022-12-20 | 1780 | 237 | 
 | 2022-12-19 | 1771 | 235 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-25 | 1658 | 216 | 
 | 2022-11-24 | 1657 | 216 | 
 | 2022-11-23 | 1651 | 214 | 
-| 2022-11-22 | 1638 | 213 | 
 

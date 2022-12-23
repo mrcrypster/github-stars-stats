@@ -1,10 +1,10 @@
 # awsdocs/aws-doc-sdk-examples - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 4557
+☋ Forks: 4562
 
-★ Stars: 6663
+★ Stars: 6665
 
 [Open repository](https://github.com/awsdocs/aws-doc-sdk-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 6665 | 4562 | 
 | 2022-12-21 | 6663 | 4557 | 
 | 2022-12-20 | 6659 | 4556 | 
 | 2022-12-19 | 6647 | 4551 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 6484 | 4454 | 
 | 2022-11-24 | 6476 | 4449 | 
 | 2022-11-23 | 6469 | 4449 | 
-| 2022-11-22 | 6460 | 4445 | 
 

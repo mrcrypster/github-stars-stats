@@ -1,10 +1,10 @@
 # microsoft/LightGBM - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 3661
 
-★ Stars: 14480
+★ Stars: 14481
 
 [Open repository](https://github.com/microsoft/LightGBM)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 14481 | 3661 | 
 | 2022-12-21 | 14480 | 3661 | 
 | 2022-12-20 | 14477 | 3661 | 
 | 2022-12-19 | 14472 | 3660 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 14429 | 3649 | 
 | 2022-11-24 | 14429 | 3649 | 
 | 2022-11-23 | 14427 | 3648 | 
-| 2022-11-22 | 14425 | 3647 | 
 

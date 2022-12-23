@@ -1,10 +1,10 @@
 # microsoft/WinAppDriver - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 1320
 
-★ Stars: 3014
+★ Stars: 3015
 
 [Open repository](https://github.com/microsoft/WinAppDriver)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 3015 | 1320 | 
 | 2022-12-21 | 3014 | 1320 | 
 | 2022-12-20 | 3013 | 1319 | 
 | 2022-12-19 | 3012 | 1320 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 2982 | 1317 | 
 | 2022-11-24 | 2978 | 1317 | 
 | 2022-11-23 | 2976 | 1319 | 
-| 2022-11-22 | 2974 | 1318 | 
 

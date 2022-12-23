@@ -1,10 +1,10 @@
 # acassen/keepalived - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 698
 
-★ Stars: 3299
+★ Stars: 3300
 
 [Open repository](https://github.com/acassen/keepalived)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 3300 | 698 | 
 | 2022-12-21 | 3299 | 698 | 
 | 2022-12-20 | 3299 | 697 | 
 | 2022-12-19 | 3298 | 697 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 3277 | 695 | 
 | 2022-11-24 | 3274 | 695 | 
 | 2022-11-23 | 3274 | 695 | 
-| 2022-11-22 | 3274 | 695 | 
 

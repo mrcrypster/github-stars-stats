@@ -1,10 +1,10 @@
 # Kuari/RedFish - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 10
 
-★ Stars: 254
+★ Stars: 255
 
 [Open repository](https://github.com/Kuari/RedFish)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 255 | 10 | 
 | 2022-12-21 | 254 | 10 | 
 | 2022-12-20 | 254 | 10 | 
 | 2022-12-19 | 254 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 251 | 9 | 
 | 2022-11-24 | 251 | 9 | 
 | 2022-11-23 | 251 | 9 | 
-| 2022-11-22 | 251 | 9 | 
 

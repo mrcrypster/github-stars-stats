@@ -1,10 +1,10 @@
 # image-rs/image - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 491
 
-★ Stars: 3438
+★ Stars: 3442
 
 [Open repository](https://github.com/image-rs/image)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 3442 | 491 | 
 | 2022-12-21 | 3438 | 491 | 
 | 2022-12-20 | 3435 | 491 | 
 | 2022-12-19 | 3434 | 491 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 3396 | 487 | 
 | 2022-11-24 | 3394 | 487 | 
 | 2022-11-23 | 3391 | 487 | 
-| 2022-11-22 | 3390 | 487 | 
 

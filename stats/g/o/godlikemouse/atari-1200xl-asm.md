@@ -1,10 +1,10 @@
 # godlikemouse/atari-1200xl-asm - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 1
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/godlikemouse/atari-1200xl-asm)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 16 | 1 | 
 | 2022-12-21 | 15 | 1 | 
 | 2022-12-20 | 15 | 1 | 
 | 2022-12-19 | 15 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 14 | 1 | 
 | 2022-11-24 | 14 | 1 | 
 | 2022-11-23 | 14 | 1 | 
-| 2022-11-22 | 14 | 1 | 
 

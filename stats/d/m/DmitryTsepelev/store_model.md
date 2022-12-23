@@ -1,6 +1,6 @@
 # DmitryTsepelev/store_model - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 684 | 60 | 
 | 2022-12-21 | 684 | 60 | 
 | 2022-12-20 | 682 | 60 | 
 | 2022-12-19 | 681 | 60 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 672 | 57 | 
 | 2022-11-24 | 672 | 57 | 
 | 2022-11-23 | 671 | 57 | 
-| 2022-11-22 | 671 | 57 | 
 

@@ -1,10 +1,10 @@
 # huangdarren1106/huangdarren1106.github.io - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 15
 
-★ Stars: 103
+★ Stars: 104
 
 [Open repository](https://github.com/huangdarren1106/huangdarren1106.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 104 | 15 | 
 | 2022-12-21 | 103 | 15 | 
 | 2022-12-20 | 103 | 15 | 
 | 2022-12-19 | 102 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 99 | 14 | 
 | 2022-11-24 | 99 | 14 | 
 | 2022-11-23 | 99 | 14 | 
-| 2022-11-22 | 98 | 14 | 
 

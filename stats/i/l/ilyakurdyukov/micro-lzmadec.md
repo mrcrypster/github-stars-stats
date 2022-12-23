@@ -1,10 +1,10 @@
 # ilyakurdyukov/micro-lzmadec - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 3
 
-★ Stars: 35
+★ Stars: 34
 
 [Open repository](https://github.com/ilyakurdyukov/micro-lzmadec)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 34 | 3 | 
 | 2022-12-21 | 35 | 3 | 
 | 2022-12-20 | 35 | 3 | 
 | 2022-12-19 | 35 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 35 | 3 | 
 | 2022-11-24 | 35 | 3 | 
 | 2022-11-23 | 35 | 3 | 
-| 2022-11-22 | 35 | 3 | 
 

@@ -1,10 +1,10 @@
 # zju3dv/NeuralRecon-W - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 19
 
-★ Stars: 565
+★ Stars: 566
 
 [Open repository](https://github.com/zju3dv/NeuralRecon-W)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 566 | 19 | 
 | 2022-12-22 | 565 | 19 | 
 | 2022-12-20 | 564 | 19 | 
 | 2022-12-19 | 564 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-25 | 555 | 16 | 
 | 2022-11-24 | 554 | 16 | 
 | 2022-11-23 | 552 | 16 | 
-| 2022-11-22 | 552 | 16 | 
 

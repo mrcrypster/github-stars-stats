@@ -1,10 +1,10 @@
 # mohammadpz/pytorch_forward_forward - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 62
+☋ Forks: 65
 
-★ Stars: 774
+★ Stars: 793
 
 [Open repository](https://github.com/mohammadpz/pytorch_forward_forward)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 793 | 65 | 
 | 2022-12-21 | 774 | 62 | 
 | 2022-12-20 | 755 | 60 | 
 | 2022-12-19 | 735 | 58 | 

@@ -1,10 +1,10 @@
 # great-expectations/great_expectations - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 1157
+☋ Forks: 1158
 
-★ Stars: 7758
+★ Stars: 7762
 
 [Open repository](https://github.com/great-expectations/great_expectations)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 7762 | 1158 | 
 | 2022-12-21 | 7758 | 1157 | 
 | 2022-12-20 | 7754 | 1156 | 
 | 2022-12-19 | 7751 | 1156 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-26 | 7651 | 1137 | 
 | 2022-11-25 | 7647 | 1136 | 
 | 2022-11-24 | 7642 | 1135 | 
-| 2022-11-23 | 7635 | 1135 | 
 

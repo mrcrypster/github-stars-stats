@@ -1,6 +1,6 @@
 # MLNLP-World/MIT-Linear-Algebra-Notes - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 457
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 1867 | 457 | 
 | 2022-12-21 | 1867 | 457 | 
 | 2022-12-20 | 1867 | 457 | 
 | 2022-12-19 | 1866 | 457 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 1845 | 454 | 
 | 2022-11-24 | 1841 | 454 | 
 | 2022-11-23 | 1840 | 454 | 
-| 2022-11-22 | 1840 | 454 | 
 

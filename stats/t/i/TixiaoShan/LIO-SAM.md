@@ -1,8 +1,8 @@
 # TixiaoShan/LIO-SAM - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 891
+☋ Forks: 890
 
 ★ Stars: 2145
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 2145 | 890 | 
 | 2022-12-21 | 2145 | 891 | 
 | 2022-12-20 | 2143 | 892 | 
 | 2022-12-19 | 2140 | 893 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 2098 | 881 | 
 | 2022-11-24 | 2095 | 881 | 
 | 2022-11-23 | 2093 | 878 | 
-| 2022-11-22 | 2091 | 877 | 
 

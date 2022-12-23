@@ -1,10 +1,10 @@
 # hyprwm/hyprland-protocols - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 0
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/hyprwm/hyprland-protocols)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 13 | - | 
 | 2022-12-21 | 12 | - | 
 | 2022-12-20 | 12 | - | 
 | 2022-12-19 | 12 | - | 

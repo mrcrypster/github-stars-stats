@@ -1,6 +1,6 @@
 # wisp-x/lsky-pro - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 512
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 2816 | 512 | 
 | 2022-12-22 | 2816 | 512 | 
 | 2022-12-20 | 2816 | 513 | 
 | 2022-12-19 | 2815 | 512 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-25 | 2763 | 511 | 
 | 2022-11-24 | 2761 | 512 | 
 | 2022-11-23 | 2759 | 512 | 
-| 2022-11-22 | 2756 | 512 | 
 

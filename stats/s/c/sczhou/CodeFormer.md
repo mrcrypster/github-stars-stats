@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 22
 
-☋ Forks: 244
+☋ Forks: 245
 
-★ Stars: 1735
+★ Stars: 1755
 
 [Open repository](https://github.com/sczhou/CodeFormer)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-22 | 1735 | 244 | 
+| 2022-12-22 | 1755 | 245 | 
 | 2022-12-21 | 1727 | 244 | 
 | 2022-12-20 | 1686 | 238 | 
 | 2022-12-19 | 1664 | 231 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-25 | 1385 | 164 | 
 | 2022-11-24 | 1347 | 158 | 
 | 2022-11-23 | 1303 | 147 | 
-| 2022-11-22 | 1292 | 147 | 
 

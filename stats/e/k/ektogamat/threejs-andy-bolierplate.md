@@ -1,10 +1,10 @@
 # ektogamat/threejs-andy-bolierplate - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 93
 
-★ Stars: 517
+★ Stars: 519
 
 [Open repository](https://github.com/ektogamat/threejs-andy-bolierplate)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 519 | 93 | 
 | 2022-12-21 | 517 | 93 | 
 | 2022-12-20 | 517 | 93 | 
 | 2022-12-19 | 515 | 93 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 499 | 90 | 
 | 2022-11-24 | 499 | 90 | 
 | 2022-11-23 | 498 | 89 | 
-| 2022-11-22 | 495 | 89 | 
 

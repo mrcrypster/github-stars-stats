@@ -1,6 +1,6 @@
 # cesanta/mongoose - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 2475
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 9026 | 2475 | 
 | 2022-12-21 | 9026 | 2475 | 
 | 2022-12-20 | 9021 | 2475 | 
 | 2022-12-19 | 9020 | 2475 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 8945 | 2458 | 
 | 2022-11-24 | 8942 | 2457 | 
 | 2022-11-23 | 8941 | 2455 | 
-| 2022-11-22 | 8938 | 2455 | 
 

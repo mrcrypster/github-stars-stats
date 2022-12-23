@@ -1,6 +1,6 @@
 # shichunlei/flutter_app - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 484
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 2377 | 484 | 
 | 2022-12-21 | 2377 | 484 | 
 | 2022-12-20 | 2377 | 484 | 
 | 2022-12-19 | 2377 | 485 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 2366 | 482 | 
 | 2022-11-24 | 2366 | 482 | 
 | 2022-11-23 | 2364 | 481 | 
-| 2022-11-22 | 2363 | 481 | 
 

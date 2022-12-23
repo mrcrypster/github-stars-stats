@@ -1,10 +1,10 @@
 # Shikha-code36/Data-Structures-and-Algorithm-Patterns - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 18
 
-★ Stars: 104
+★ Stars: 105
 
 [Open repository](https://github.com/Shikha-code36/Data-Structures-and-Algorithm-Patterns)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 105 | 18 | 
 | 2022-12-21 | 104 | 18 | 
 | 2022-12-20 | 104 | 18 | 
 | 2022-12-19 | 104 | 18 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 103 | 18 | 
 | 2022-11-24 | 103 | 18 | 
 | 2022-11-23 | 103 | 18 | 
-| 2022-11-22 | 103 | 18 | 
 

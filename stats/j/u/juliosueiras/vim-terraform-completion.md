@@ -1,10 +1,10 @@
 # juliosueiras/vim-terraform-completion - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 25
 
-★ Stars: 325
+★ Stars: 326
 
 [Open repository](https://github.com/juliosueiras/vim-terraform-completion)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 326 | 25 | 
 | 2022-12-21 | 325 | 25 | 
 | 2022-12-20 | 325 | 25 | 
 | 2022-12-19 | 325 | 25 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 325 | 25 | 
 | 2022-11-24 | 325 | 25 | 
 | 2022-11-23 | 325 | 25 | 
-| 2022-11-22 | 325 | 25 | 
 

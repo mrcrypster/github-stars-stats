@@ -1,6 +1,6 @@
 # dfinity/interface-spec - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 26 | 15 | 
 | 2022-12-21 | 26 | 15 | 
 | 2022-12-20 | 26 | 15 | 
 | 2022-12-19 | 26 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-26 | 26 | 13 | 
 | 2022-11-25 | 26 | 13 | 
 | 2022-11-24 | 26 | 13 | 
-| 2022-11-23 | 26 | 13 | 
 

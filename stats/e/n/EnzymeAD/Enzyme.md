@@ -1,6 +1,6 @@
 # EnzymeAD/Enzyme - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 863 | 62 | 
 | 2022-12-21 | 863 | 62 | 
 | 2022-12-20 | 862 | 62 | 
 | 2022-12-18 | 862 | 62 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 849 | 59 | 
 | 2022-11-24 | 848 | 59 | 
 | 2022-11-23 | 847 | 59 | 
-| 2022-11-22 | 845 | 59 | 
 

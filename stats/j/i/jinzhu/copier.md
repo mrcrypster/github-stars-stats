@@ -1,10 +1,10 @@
 # jinzhu/copier - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 405
 
-★ Stars: 3850
+★ Stars: 3853
 
 [Open repository](https://github.com/jinzhu/copier)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 3853 | 405 | 
 | 2022-12-22 | 3850 | 405 | 
 | 2022-12-20 | 3849 | 405 | 
 | 2022-12-19 | 3846 | 405 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-25 | 3770 | 397 | 
 | 2022-11-24 | 3770 | 397 | 
 | 2022-11-23 | 3764 | 397 | 
-| 2022-11-22 | 3760 | 397 | 
 

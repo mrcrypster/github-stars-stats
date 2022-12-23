@@ -1,6 +1,6 @@
 # microsoft/coe-alm-accelerator-templates - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 51 | 43 | 
 | 2022-12-21 | 51 | 43 | 
 | 2022-12-20 | 51 | 43 | 
 | 2022-12-19 | 51 | 43 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-26 | 49 | 39 | 
 | 2022-11-25 | 49 | 39 | 
 | 2022-11-24 | 49 | 39 | 
-| 2022-11-23 | 49 | 39 | 
 

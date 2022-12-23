@@ -1,6 +1,6 @@
 # nandorojo/burnt - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 337 | 9 | 
 | 2022-12-21 | 337 | 9 | 
 | 2022-12-20 | 335 | 9 | 
 | 2022-12-19 | 335 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 287 | 4 | 
 | 2022-11-24 | 277 | 4 | 
 | 2022-11-23 | 264 | 4 | 
-| 2022-11-22 | 257 | 4 | 
 

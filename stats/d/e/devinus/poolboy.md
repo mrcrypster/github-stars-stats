@@ -1,6 +1,6 @@
 # devinus/poolboy - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 338
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 1471 | 338 | 
 | 2022-12-21 | 1471 | 338 | 
 | 2022-12-20 | 1471 | 338 | 
 | 2022-12-19 | 1471 | 338 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 1469 | 336 | 
 | 2022-11-24 | 1469 | 336 | 
 | 2022-11-23 | 1469 | 336 | 
-| 2022-11-22 | 1468 | 336 | 
 

@@ -1,10 +1,10 @@
 # micheleg/dash-to-dock - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 458
 
-★ Stars: 3394
+★ Stars: 3395
 
 [Open repository](https://github.com/micheleg/dash-to-dock)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 3395 | 458 | 
 | 2022-12-21 | 3394 | 458 | 
 | 2022-12-20 | 3392 | 458 | 
 | 2022-12-19 | 3392 | 459 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-26 | 3372 | 458 | 
 | 2022-11-25 | 3373 | 458 | 
 | 2022-11-24 | 3371 | 458 | 
-| 2022-11-23 | 3369 | 458 | 
 

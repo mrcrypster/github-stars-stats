@@ -1,8 +1,8 @@
 # pulp-platform/common_verification - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 23
 
-☋ Forks: 10
+☋ Forks: 11
 
 ★ Stars: 25
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 25 | 11 | 
+| 2022-12-22 | 25 | 11 | 
 | 2022-12-21 | 25 | 10 | 
 | 2022-12-20 | 25 | 10 | 
 | 2022-12-19 | 25 | 10 | 
@@ -41,5 +43,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 24 | 10 | 
 | 2022-11-24 | 24 | 10 | 
 | 2022-11-23 | 24 | 10 | 
-| 2022-11-22 | 24 | 10 | 
 

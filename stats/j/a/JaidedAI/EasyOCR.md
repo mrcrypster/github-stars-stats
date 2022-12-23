@@ -1,10 +1,10 @@
 # JaidedAI/EasyOCR - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 2391
+☋ Forks: 2393
 
-★ Stars: 16567
+★ Stars: 16577
 
 [Open repository](https://github.com/JaidedAI/EasyOCR)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 16577 | 2393 | 
 | 2022-12-21 | 16567 | 2391 | 
 | 2022-12-20 | 16561 | 2391 | 
 | 2022-12-19 | 16552 | 2390 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 16376 | 2355 | 
 | 2022-11-24 | 16370 | 2353 | 
 | 2022-11-23 | 16360 | 2352 | 
-| 2022-11-22 | 16356 | 2351 | 
 

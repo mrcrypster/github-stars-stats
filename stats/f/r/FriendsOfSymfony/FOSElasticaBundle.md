@@ -1,6 +1,6 @@
 # FriendsOfSymfony/FOSElasticaBundle - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 783
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 1223 | 783 | 
 | 2022-12-21 | 1223 | 783 | 
 | 2022-12-20 | 1223 | 783 | 
 | 2022-12-19 | 1222 | 783 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 1220 | 779 | 
 | 2022-11-24 | 1220 | 779 | 
 | 2022-11-23 | 1220 | 778 | 
-| 2022-11-22 | 1219 | 778 | 
 

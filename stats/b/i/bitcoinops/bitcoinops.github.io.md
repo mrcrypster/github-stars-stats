@@ -1,6 +1,6 @@
 # bitcoinops/bitcoinops.github.io - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 101
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 192 | 101 | 
 | 2022-12-21 | 192 | 101 | 
 | 2022-12-20 | 192 | 101 | 
 | 2022-12-19 | 191 | 101 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 186 | 99 | 
 | 2022-11-24 | 186 | 99 | 
 | 2022-11-23 | 186 | 99 | 
-| 2022-11-22 | 186 | 99 | 
 

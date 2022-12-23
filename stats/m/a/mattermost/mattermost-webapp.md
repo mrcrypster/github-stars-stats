@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 22
 
 ☋ Forks: 2756
 
-★ Stars: 2177
+★ Stars: 2178
 
 [Open repository](https://github.com/mattermost/mattermost-webapp)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-22 | 2177 | 2756 | 
+| 2022-12-22 | 2178 | 2756 | 
 | 2022-12-21 | 2178 | 2756 | 
 | 2022-12-20 | 2176 | 2751 | 
 | 2022-12-19 | 2177 | 2751 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-25 | 2154 | 2734 | 
 | 2022-11-24 | 2153 | 2733 | 
 | 2022-11-23 | 2152 | 2730 | 
-| 2022-11-22 | 2149 | 2730 | 
 

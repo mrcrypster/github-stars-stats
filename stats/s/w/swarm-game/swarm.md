@@ -1,6 +1,6 @@
 # swarm-game/swarm - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 655 | 35 | 
 | 2022-12-21 | 655 | 35 | 
 | 2022-12-20 | 655 | 35 | 
 | 2022-12-19 | 655 | 35 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-26 | 647 | 36 | 
 | 2022-11-25 | 647 | 36 | 
 | 2022-11-24 | 647 | 36 | 
-| 2022-11-23 | 647 | 36 | 
 

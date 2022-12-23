@@ -1,6 +1,6 @@
 # tpope/vim-dispatch - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 140
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 2462 | 140 | 
+| 2022-12-22 | 2462 | 140 | 
 | 2022-12-21 | 2462 | 140 | 
 | 2022-12-20 | 2462 | 140 | 
 | 2022-12-19 | 2462 | 140 | 
@@ -40,5 +42,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 2454 | 140 | 
 | 2022-11-24 | 2454 | 140 | 
 | 2022-11-23 | 2454 | 140 | 
-| 2022-11-22 | 2453 | 140 | 
 

@@ -1,6 +1,6 @@
 # nf-core/proteinfold - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 7 | 9 | 
 | 2022-12-21 | 7 | 9 | 
 | 2022-12-20 | 7 | 9 | 
 | 2022-12-19 | 7 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-26 | 7 | 9 | 
 | 2022-11-25 | 7 | 9 | 
 | 2022-11-24 | 7 | 9 | 
-| 2022-11-23 | 7 | 9 | 
 

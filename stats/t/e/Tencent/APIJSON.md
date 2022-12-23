@@ -1,10 +1,10 @@
 # Tencent/APIJSON - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 1898
 
-★ Stars: 14401
+★ Stars: 14404
 
 [Open repository](https://github.com/Tencent/APIJSON)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 14404 | 1898 | 
 | 2022-12-21 | 14401 | 1898 | 
 | 2022-12-20 | 14393 | 1897 | 
 | 2022-12-19 | 14382 | 1897 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 14216 | 1871 | 
 | 2022-11-24 | 14208 | 1868 | 
 | 2022-11-23 | 14187 | 1865 | 
-| 2022-11-22 | 14176 | 1864 | 
 

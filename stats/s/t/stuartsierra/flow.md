@@ -1,6 +1,6 @@
 # stuartsierra/flow - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 78 | 5 | 
 | 2022-12-21 | 78 | 5 | 
 | 2022-12-20 | 78 | 5 | 
 | 2022-12-19 | 78 | 5 | 

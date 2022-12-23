@@ -1,10 +1,10 @@
 # cztomsik/zig-napigen - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 1
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/cztomsik/zig-napigen)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 23 | 1 | 
 | 2022-12-21 | 22 | 1 | 
 | 2022-12-20 | 22 | 1 | 
 | 2022-12-19 | 22 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 22 | 1 | 
 | 2022-11-24 | 22 | 1 | 
 | 2022-11-23 | 22 | 1 | 
-| 2022-11-22 | 22 | 1 | 
 

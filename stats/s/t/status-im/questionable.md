@@ -1,6 +1,6 @@
 # status-im/questionable - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 61 | 3 | 
 | 2022-12-21 | 61 | 3 | 
 | 2022-12-20 | 61 | 3 | 
 | 2022-12-19 | 59 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 55 | 3 | 
 | 2022-11-24 | 55 | 3 | 
 | 2022-11-23 | 55 | 3 | 
-| 2022-11-22 | 55 | 3 | 
 

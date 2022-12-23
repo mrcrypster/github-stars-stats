@@ -1,6 +1,6 @@
 # spring-projects/spring-security-samples - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 360
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 633 | 360 | 
 | 2022-12-21 | 633 | 360 | 
 | 2022-12-20 | 632 | 359 | 
 | 2022-12-19 | 633 | 359 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 588 | 341 | 
 | 2022-11-24 | 585 | 341 | 
 | 2022-11-23 | 584 | 339 | 
-| 2022-11-22 | 579 | 339 | 
 

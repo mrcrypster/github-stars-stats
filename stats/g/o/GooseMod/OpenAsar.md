@@ -1,10 +1,10 @@
 # GooseMod/OpenAsar - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 39
 
-★ Stars: 1350
+★ Stars: 1352
 
 [Open repository](https://github.com/GooseMod/OpenAsar)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 1352 | 39 | 
 | 2022-12-21 | 1350 | 39 | 
 | 2022-12-20 | 1345 | 38 | 
 | 2022-12-18 | 1344 | 38 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 1291 | 35 | 
 | 2022-11-24 | 1288 | 35 | 
 | 2022-11-23 | 1283 | 35 | 
-| 2022-11-22 | 1279 | 35 | 
 

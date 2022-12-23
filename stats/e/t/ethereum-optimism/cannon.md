@@ -1,6 +1,6 @@
 # ethereum-optimism/cannon - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 67
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 450 | 67 | 
 | 2022-12-21 | 450 | 67 | 
 | 2022-12-20 | 450 | 67 | 
 | 2022-12-19 | 449 | 66 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 445 | 65 | 
 | 2022-11-24 | 445 | 65 | 
 | 2022-11-23 | 446 | 65 | 
-| 2022-11-22 | 446 | 65 | 
 

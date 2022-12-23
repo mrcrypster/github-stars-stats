@@ -1,10 +1,10 @@
 # VerifyTests/Verify - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 94
 
-★ Stars: 1740
+★ Stars: 1743
 
 [Open repository](https://github.com/VerifyTests/Verify)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 1743 | 94 | 
 | 2022-12-21 | 1740 | 94 | 
 | 2022-12-20 | 1740 | 94 | 
 | 2022-12-19 | 1740 | 93 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 1698 | 92 | 
 | 2022-11-24 | 1697 | 92 | 
 | 2022-11-23 | 1695 | 92 | 
-| 2022-11-22 | 1695 | 92 | 
 

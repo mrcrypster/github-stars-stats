@@ -1,10 +1,10 @@
 # arthurspk/guiadecybersecurity - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 51
 
-★ Stars: 352
+★ Stars: 362
 
 [Open repository](https://github.com/arthurspk/guiadecybersecurity)
 
@@ -13,7 +13,8 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-22 | 352 | 51 | 
+| 2022-12-23 | 362 | 51 | 
+| 2022-12-22 | 356 | 51 | 
 | 2022-12-21 | 350 | 51 | 
 | 2022-12-20 | 331 | 48 | 
 | 2022-12-19 | 298 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-25 | 236 | 32 | 
 | 2022-11-24 | 234 | 32 | 
 | 2022-11-23 | 230 | 31 | 
-| 2022-11-22 | 228 | 31 | 
 

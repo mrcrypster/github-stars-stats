@@ -1,6 +1,6 @@
 # ecampbell/moodle-qformat_wordtable - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 7 | 8 | 
 | 2022-12-21 | 7 | 8 | 
 | 2022-12-20 | 7 | 8 | 
 | 2022-12-19 | 7 | 8 | 

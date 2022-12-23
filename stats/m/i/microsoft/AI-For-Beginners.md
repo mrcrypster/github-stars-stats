@@ -1,10 +1,10 @@
 # microsoft/AI-For-Beginners - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 626
+☋ Forks: 628
 
-★ Stars: 3023
+★ Stars: 3028
 
 [Open repository](https://github.com/microsoft/AI-For-Beginners)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 3028 | 628 | 
 | 2022-12-21 | 3023 | 626 | 
 | 2022-12-20 | 3014 | 625 | 
 | 2022-12-19 | 3011 | 624 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 2917 | 602 | 
 | 2022-11-24 | 2913 | 600 | 
 | 2022-11-23 | 2911 | 597 | 
-| 2022-11-22 | 2908 | 595 | 
 

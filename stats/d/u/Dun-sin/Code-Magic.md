@@ -1,10 +1,10 @@
 # Dun-sin/Code-Magic - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 132
+☋ Forks: 134
 
-★ Stars: 231
+★ Stars: 235
 
 [Open repository](https://github.com/Dun-sin/Code-Magic)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 235 | 134 | 
 | 2022-12-22 | 231 | 132 | 
 | 2022-12-21 | 229 | 132 | 
 | 2022-12-20 | 222 | 132 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-25 | 203 | 128 | 
 | 2022-11-24 | 203 | 128 | 
 | 2022-11-23 | 203 | 128 | 
-| 2022-11-22 | 202 | 128 | 
 

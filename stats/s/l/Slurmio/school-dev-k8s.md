@@ -1,8 +1,8 @@
 # Slurmio/school-dev-k8s - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 385
+☋ Forks: 387
 
 ★ Stars: 899
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 899 | 387 | 
 | 2022-12-21 | 899 | 385 | 
 | 2022-12-20 | 899 | 385 | 
 | 2022-12-19 | 899 | 384 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 895 | 381 | 
 | 2022-11-24 | 895 | 381 | 
 | 2022-11-23 | 895 | 380 | 
-| 2022-11-22 | 895 | 380 | 
 

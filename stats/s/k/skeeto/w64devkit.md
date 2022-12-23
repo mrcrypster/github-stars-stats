@@ -1,6 +1,6 @@
 # skeeto/w64devkit - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 775 | 50 | 
 | 2022-12-21 | 775 | 50 | 
 | 2022-12-20 | 773 | 50 | 
 | 2022-12-19 | 773 | 50 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 735 | 46 | 
 | 2022-11-24 | 734 | 46 | 
 | 2022-11-23 | 730 | 46 | 
-| 2022-11-22 | 729 | 45 | 
 

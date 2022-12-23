@@ -1,10 +1,10 @@
 # joshuaulrich/quantmod - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 218
 
-★ Stars: 677
+★ Stars: 678
 
 [Open repository](https://github.com/joshuaulrich/quantmod)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 678 | 218 | 
 | 2022-12-21 | 677 | 218 | 
 | 2022-12-20 | 677 | 218 | 
 | 2022-12-19 | 677 | 218 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 673 | 218 | 
 | 2022-11-24 | 673 | 218 | 
 | 2022-11-23 | 673 | 218 | 
-| 2022-11-22 | 673 | 218 | 
 

@@ -1,10 +1,10 @@
 # eventmachine/eventmachine - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 646
 
-★ Stars: 4203
+★ Stars: 4204
 
 [Open repository](https://github.com/eventmachine/eventmachine)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 4204 | 646 | 
 | 2022-12-21 | 4203 | 646 | 
 | 2022-12-20 | 4203 | 646 | 
 | 2022-12-19 | 4203 | 646 | 

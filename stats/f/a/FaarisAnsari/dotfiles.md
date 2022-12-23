@@ -1,6 +1,6 @@
 # FaarisAnsari/dotfiles - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 80 | 6 | 
 | 2022-12-21 | 80 | 6 | 
 | 2022-12-20 | 80 | 6 | 
 | 2022-12-19 | 80 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-26 | 81 | 7 | 
 | 2022-11-25 | 81 | 7 | 
 | 2022-11-24 | 81 | 7 | 
-| 2022-11-23 | 81 | 7 | 
 

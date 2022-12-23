@@ -1,10 +1,10 @@
 # Azure/azure-spring-cloud-reference-architecture - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 34
 
-★ Stars: 59
+★ Stars: 60
 
 [Open repository](https://github.com/Azure/azure-spring-cloud-reference-architecture)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 60 | 34 | 
 | 2022-12-21 | 59 | 34 | 
 | 2022-12-20 | 59 | 34 | 
 | 2022-12-19 | 59 | 34 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 59 | 34 | 
 | 2022-11-24 | 59 | 34 | 
 | 2022-11-23 | 59 | 34 | 
-| 2022-11-22 | 59 | 34 | 
 

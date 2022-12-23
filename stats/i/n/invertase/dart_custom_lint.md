@@ -1,10 +1,10 @@
 # invertase/dart_custom_lint - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 17
 
-★ Stars: 151
+★ Stars: 152
 
 [Open repository](https://github.com/invertase/dart_custom_lint)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 152 | 17 | 
 | 2022-12-21 | 151 | 17 | 
 | 2022-12-20 | 151 | 17 | 
 | 2022-12-19 | 151 | 17 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 147 | 14 | 
 | 2022-11-24 | 147 | 13 | 
 | 2022-11-23 | 146 | 13 | 
-| 2022-11-22 | 146 | 13 | 
 

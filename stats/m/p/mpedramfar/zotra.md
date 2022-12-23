@@ -1,6 +1,6 @@
 # mpedramfar/zotra - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 76 | 3 | 
 | 2022-12-21 | 76 | 3 | 
 | 2022-12-20 | 76 | 3 | 
 | 2022-12-19 | 74 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 47 | 1 | 
 | 2022-11-24 | 47 | 1 | 
 | 2022-11-23 | 47 | 1 | 
-| 2022-11-22 | 47 | 1 | 
 

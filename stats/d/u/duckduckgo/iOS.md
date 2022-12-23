@@ -1,10 +1,10 @@
 # duckduckgo/iOS - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 334
 
-★ Stars: 1470
+★ Stars: 1469
 
 [Open repository](https://github.com/duckduckgo/iOS)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 1469 | 334 | 
 | 2022-12-21 | 1470 | 334 | 
 | 2022-12-20 | 1470 | 334 | 
 | 2022-12-19 | 1470 | 334 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 1450 | 333 | 
 | 2022-11-24 | 1448 | 333 | 
 | 2022-11-23 | 1447 | 333 | 
-| 2022-11-22 | 1448 | 333 | 
 

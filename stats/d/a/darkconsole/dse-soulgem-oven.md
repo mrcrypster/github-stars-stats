@@ -1,6 +1,6 @@
 # darkconsole/dse-soulgem-oven - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 26 | 5 | 
 | 2022-12-21 | 26 | 5 | 
 | 2022-12-20 | 26 | 5 | 
 | 2022-12-19 | 26 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 25 | 5 | 
 | 2022-11-24 | 25 | 5 | 
 | 2022-11-23 | 25 | 5 | 
-| 2022-11-22 | 25 | 5 | 
 

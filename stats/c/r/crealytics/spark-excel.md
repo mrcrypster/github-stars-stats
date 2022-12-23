@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 22
 
-☋ Forks: 133
+☋ Forks: 134
 
-★ Stars: 327
+★ Stars: 328
 
 [Open repository](https://github.com/crealytics/spark-excel)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-22 | 327 | 133 | 
+| 2022-12-22 | 328 | 134 | 
 | 2022-12-21 | 327 | 133 | 
 | 2022-12-20 | 327 | 133 | 
 | 2022-12-19 | 327 | 132 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-25 | 325 | 133 | 
 | 2022-11-24 | 325 | 133 | 
 | 2022-11-23 | 325 | 133 | 
-| 2022-11-22 | 324 | 133 | 
 

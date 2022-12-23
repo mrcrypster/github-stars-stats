@@ -1,10 +1,10 @@
 # davidcaughlin/R-Tutorial-Data-Files - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 60
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/davidcaughlin/R-Tutorial-Data-Files)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 15 | 60 | 
 | 2022-12-21 | 14 | 60 | 
 | 2022-12-20 | 14 | 60 | 
 | 2022-12-19 | 14 | 59 | 

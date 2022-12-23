@@ -1,10 +1,10 @@
 # dr5hn/countries-states-cities-database - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 1751
+☋ Forks: 1753
 
-★ Stars: 4136
+★ Stars: 4141
 
 [Open repository](https://github.com/dr5hn/countries-states-cities-database)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 4141 | 1753 | 
 | 2022-12-21 | 4136 | 1751 | 
 | 2022-12-20 | 4134 | 1750 | 
 | 2022-12-19 | 4126 | 1749 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 4019 | 1719 | 
 | 2022-11-24 | 4012 | 1717 | 
 | 2022-11-23 | 4009 | 1716 | 
-| 2022-11-22 | 4000 | 1712 | 
 

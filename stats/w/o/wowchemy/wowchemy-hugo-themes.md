@@ -1,8 +1,8 @@
 # wowchemy/wowchemy-hugo-themes - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 2762
+☋ Forks: 2764
 
 ★ Stars: 6891
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 6891 | 2764 | 
 | 2022-12-21 | 6891 | 2762 | 
 | 2022-12-20 | 6890 | 2762 | 
 | 2022-12-19 | 6890 | 2762 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 6835 | 2748 | 
 | 2022-11-24 | 6834 | 2748 | 
 | 2022-11-23 | 6828 | 2747 | 
-| 2022-11-22 | 6826 | 2746 | 
 

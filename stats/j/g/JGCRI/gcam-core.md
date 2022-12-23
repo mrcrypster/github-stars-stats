@@ -1,6 +1,6 @@
 # JGCRI/gcam-core - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 113
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 168 | 113 | 
 | 2022-12-21 | 168 | 113 | 
 | 2022-12-20 | 168 | 113 | 
 | 2022-12-19 | 168 | 112 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 169 | 112 | 
 | 2022-11-24 | 169 | 111 | 
 | 2022-11-23 | 169 | 111 | 
-| 2022-11-22 | 169 | 111 | 
 

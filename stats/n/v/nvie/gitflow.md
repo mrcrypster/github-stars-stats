@@ -1,10 +1,10 @@
 # nvie/gitflow - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 2684
 
-★ Stars: 26048
+★ Stars: 26049
 
 [Open repository](https://github.com/nvie/gitflow)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 26049 | 2684 | 
 | 2022-12-21 | 26048 | 2684 | 
 | 2022-12-20 | 26048 | 2684 | 
 | 2022-12-19 | 26047 | 2684 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 26025 | 2687 | 
 | 2022-11-24 | 26024 | 2687 | 
 | 2022-11-23 | 26023 | 2680 | 
-| 2022-11-22 | 26023 | 2680 | 
 

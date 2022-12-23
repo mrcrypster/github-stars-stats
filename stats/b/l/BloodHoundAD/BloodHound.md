@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 22
 
 ☋ Forks: 1474
 
-★ Stars: 7694
+★ Stars: 7695
 
 [Open repository](https://github.com/BloodHoundAD/BloodHound)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-22 | 7694 | 1474 | 
+| 2022-12-22 | 7695 | 1474 | 
 | 2022-12-21 | 7694 | 1474 | 
 | 2022-12-20 | 7684 | 1472 | 
 | 2022-12-19 | 7681 | 1467 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-25 | 7603 | 1458 | 
 | 2022-11-24 | 7599 | 1458 | 
 | 2022-11-23 | 7595 | 1458 | 
-| 2022-11-22 | 7593 | 1459 | 
 

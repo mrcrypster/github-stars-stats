@@ -1,10 +1,10 @@
 # duplicati/duplicati - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 775
 
-★ Stars: 8254
+★ Stars: 8260
 
 [Open repository](https://github.com/duplicati/duplicati)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 8260 | 775 | 
 | 2022-12-21 | 8254 | 775 | 
 | 2022-12-20 | 8248 | 775 | 
 | 2022-12-19 | 8243 | 775 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 8164 | 774 | 
 | 2022-11-24 | 8163 | 774 | 
 | 2022-11-23 | 8162 | 774 | 
-| 2022-11-22 | 8159 | 774 | 
 

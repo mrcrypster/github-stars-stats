@@ -1,10 +1,10 @@
 # nhn/tui.editor - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 1575
+☋ Forks: 1574
 
-★ Stars: 15489
+★ Stars: 15500
 
 [Open repository](https://github.com/nhn/tui.editor)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 15500 | 1574 | 
 | 2022-12-21 | 15489 | 1575 | 
 | 2022-12-20 | 15484 | 1575 | 
 | 2022-12-19 | 15485 | 1573 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 15420 | 1556 | 
 | 2022-11-24 | 15418 | 1556 | 
 | 2022-11-23 | 15413 | 1557 | 
-| 2022-11-22 | 15408 | 1557 | 
 

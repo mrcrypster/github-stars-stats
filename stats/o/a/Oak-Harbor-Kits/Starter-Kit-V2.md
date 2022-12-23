@@ -1,8 +1,8 @@
 # Oak-Harbor-Kits/Starter-Kit-V2 - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 61
+☋ Forks: 62
 
 ★ Stars: 200
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 200 | 62 | 
 | 2022-12-21 | 200 | 61 | 
 | 2022-12-20 | 200 | 61 | 
 | 2022-12-19 | 200 | 61 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 198 | 61 | 
 | 2022-11-24 | 197 | 61 | 
 | 2022-11-23 | 197 | 60 | 
-| 2022-11-22 | 197 | 60 | 
 

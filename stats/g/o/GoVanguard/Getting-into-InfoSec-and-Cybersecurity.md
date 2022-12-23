@@ -1,6 +1,6 @@
 # GoVanguard/Getting-into-InfoSec-and-Cybersecurity - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 469 | 55 | 
 | 2022-12-21 | 469 | 55 | 
 | 2022-12-20 | 469 | 55 | 
 | 2022-12-18 | 469 | 55 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 463 | 55 | 
 | 2022-11-24 | 463 | 55 | 
 | 2022-11-23 | 462 | 55 | 
-| 2022-11-22 | 462 | 55 | 
 

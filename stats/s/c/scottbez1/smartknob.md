@@ -1,10 +1,10 @@
 # scottbez1/smartknob - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 727
 
-★ Stars: 12153
+★ Stars: 12159
 
 [Open repository](https://github.com/scottbez1/smartknob)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 12159 | 727 | 
 | 2022-12-21 | 12153 | 727 | 
 | 2022-12-20 | 12149 | 726 | 
 | 2022-12-19 | 12146 | 726 | 

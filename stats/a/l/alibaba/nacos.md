@@ -1,10 +1,10 @@
 # alibaba/nacos - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 11081
+☋ Forks: 11084
 
-★ Stars: 24962
+★ Stars: 24967
 
 [Open repository](https://github.com/alibaba/nacos)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 24967 | 11084 | 
 | 2022-12-21 | 24962 | 11081 | 
 | 2022-12-20 | 24956 | 11077 | 
 | 2022-12-19 | 24945 | 11074 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 24696 | 10977 | 
 | 2022-11-24 | 24685 | 10971 | 
 | 2022-11-23 | 24677 | 10970 | 
-| 2022-11-22 | 24667 | 10966 | 
 

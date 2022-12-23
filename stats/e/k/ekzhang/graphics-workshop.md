@@ -1,10 +1,10 @@
 # ekzhang/graphics-workshop - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 181
 
-★ Stars: 1863
+★ Stars: 1864
 
 [Open repository](https://github.com/ekzhang/graphics-workshop)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 1864 | 181 | 
 | 2022-12-21 | 1863 | 181 | 
 | 2022-12-20 | 1862 | 181 | 
 | 2022-12-19 | 1862 | 181 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 1856 | 182 | 
 | 2022-11-24 | 1856 | 182 | 
 | 2022-11-23 | 1855 | 181 | 
-| 2022-11-22 | 1855 | 181 | 
 

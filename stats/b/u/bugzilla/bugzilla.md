@@ -1,6 +1,6 @@
 # bugzilla/bugzilla - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 262
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 497 | 262 | 
 | 2022-12-21 | 497 | 262 | 
 | 2022-12-20 | 497 | 262 | 
 | 2022-12-19 | 497 | 262 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 482 | 259 | 
 | 2022-11-24 | 482 | 259 | 
 | 2022-11-23 | 482 | 259 | 
-| 2022-11-22 | 481 | 259 | 
 

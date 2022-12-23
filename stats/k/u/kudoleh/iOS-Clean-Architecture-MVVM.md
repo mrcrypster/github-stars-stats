@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 22
 
 ☋ Forks: 472
 
-★ Stars: 2581
+★ Stars: 2582
 
 [Open repository](https://github.com/kudoleh/iOS-Clean-Architecture-MVVM)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-22 | 2581 | 472 | 
+| 2022-12-22 | 2582 | 472 | 
 | 2022-12-21 | 2579 | 471 | 
 | 2022-12-20 | 2576 | 470 | 
 | 2022-12-19 | 2567 | 468 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-25 | 2505 | 462 | 
 | 2022-11-24 | 2506 | 461 | 
 | 2022-11-23 | 2503 | 461 | 
-| 2022-11-22 | 2500 | 461 | 
 

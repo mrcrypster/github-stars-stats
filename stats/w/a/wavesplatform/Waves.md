@@ -1,6 +1,6 @@
 # wavesplatform/Waves - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 423
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 1161 | 423 | 
 | 2022-12-22 | 1161 | 423 | 
 | 2022-12-20 | 1161 | 423 | 
 | 2022-12-19 | 1161 | 423 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-25 | 1162 | 423 | 
 | 2022-11-24 | 1162 | 423 | 
 | 2022-11-23 | 1162 | 423 | 
-| 2022-11-22 | 1162 | 423 | 
 

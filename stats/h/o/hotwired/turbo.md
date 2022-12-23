@@ -1,6 +1,6 @@
 # hotwired/turbo - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 285
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 4548 | 285 | 
 | 2022-12-21 | 4548 | 285 | 
 | 2022-12-20 | 4547 | 285 | 
 | 2022-12-19 | 4547 | 285 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-26 | 4476 | 278 | 
 | 2022-11-25 | 4472 | 278 | 
 | 2022-11-24 | 4472 | 278 | 
-| 2022-11-23 | 4470 | 278 | 
 

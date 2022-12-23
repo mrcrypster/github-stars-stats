@@ -1,10 +1,10 @@
 # psf/requests - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 8932
+☋ Forks: 8933
 
-★ Stars: 48726
+★ Stars: 48737
 
 [Open repository](https://github.com/psf/requests)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 48737 | 8933 | 
 | 2022-12-21 | 48726 | 8932 | 
 | 2022-12-20 | 48719 | 8931 | 
 | 2022-12-19 | 48718 | 8930 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 48597 | 8918 | 
 | 2022-11-24 | 48586 | 8913 | 
 | 2022-11-23 | 48583 | 8911 | 
-| 2022-11-22 | 48576 | 8912 | 
 

@@ -1,6 +1,6 @@
 # pulp-platform/axi_riscv_atomics - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 34 | 9 | 
 | 2022-12-22 | 34 | 9 | 
 | 2022-12-21 | 34 | 9 | 
 | 2022-12-20 | 34 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-25 | 33 | 9 | 
 | 2022-11-24 | 33 | 9 | 
 | 2022-11-23 | 33 | 9 | 
-| 2022-11-22 | 33 | 9 | 
 

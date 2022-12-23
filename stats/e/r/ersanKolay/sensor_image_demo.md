@@ -1,6 +1,6 @@
 # ersanKolay/sensor_image_demo - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 310 | 46 | 
 | 2022-12-21 | 310 | 46 | 
 | 2022-12-20 | 310 | 46 | 
 | 2022-12-19 | 310 | 46 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 309 | 45 | 
 | 2022-11-24 | 310 | 45 | 
 | 2022-11-23 | 310 | 45 | 
-| 2022-11-22 | 310 | 45 | 
 

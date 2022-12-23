@@ -1,10 +1,10 @@
 # n0k0m3/revanced-build-template - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 145
 
-★ Stars: 120
+★ Stars: 121
 
 [Open repository](https://github.com/n0k0m3/revanced-build-template)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 121 | 145 | 
 | 2022-12-21 | 120 | 145 | 
 | 2022-12-20 | 120 | 145 | 
 | 2022-12-19 | 120 | 143 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 120 | 143 | 
 | 2022-11-24 | 120 | 143 | 
 | 2022-11-23 | 120 | 143 | 
-| 2022-11-22 | 120 | 143 | 
 

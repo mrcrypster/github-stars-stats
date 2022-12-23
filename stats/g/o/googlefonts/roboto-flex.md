@@ -1,10 +1,10 @@
 # googlefonts/roboto-flex - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 27
 
-★ Stars: 388
+★ Stars: 389
 
 [Open repository](https://github.com/googlefonts/roboto-flex)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 389 | 27 | 
 | 2022-12-21 | 388 | 27 | 
 | 2022-12-20 | 388 | 27 | 
 | 2022-12-19 | 388 | 27 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 387 | 27 | 
 | 2022-11-24 | 386 | 27 | 
 | 2022-11-23 | 386 | 27 | 
-| 2022-11-22 | 385 | 27 | 
 

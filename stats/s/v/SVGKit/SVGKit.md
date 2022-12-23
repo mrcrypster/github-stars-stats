@@ -1,10 +1,10 @@
 # SVGKit/SVGKit - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 1007
 
-★ Stars: 4249
+★ Stars: 4252
 
 [Open repository](https://github.com/SVGKit/SVGKit)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 4252 | 1007 | 
 | 2022-12-21 | 4249 | 1007 | 
 | 2022-12-20 | 4249 | 1006 | 
 | 2022-12-18 | 4249 | 1005 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 4245 | 1000 | 
 | 2022-11-24 | 4245 | 1000 | 
 | 2022-11-23 | 4245 | 1000 | 
-| 2022-11-22 | 4244 | 1000 | 
 

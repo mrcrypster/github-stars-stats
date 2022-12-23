@@ -1,6 +1,6 @@
 # ipld/ipld - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 148
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 1122 | 148 | 
 | 2022-12-21 | 1122 | 148 | 
 | 2022-12-20 | 1122 | 148 | 
 | 2022-12-19 | 1121 | 148 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 1113 | 149 | 
 | 2022-11-24 | 1114 | 147 | 
 | 2022-11-23 | 1114 | 147 | 
-| 2022-11-22 | 1114 | 147 | 
 

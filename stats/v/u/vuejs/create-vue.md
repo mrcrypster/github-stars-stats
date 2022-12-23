@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 22
 
 ☋ Forks: 199
 
-★ Stars: 1651
+★ Stars: 1652
 
 [Open repository](https://github.com/vuejs/create-vue)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-22 | 1651 | 199 | 
+| 2022-12-22 | 1652 | 199 | 
 | 2022-12-21 | 1651 | 199 | 
 | 2022-12-20 | 1647 | 197 | 
 | 2022-12-19 | 1644 | 197 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-25 | 1561 | 187 | 
 | 2022-11-24 | 1557 | 185 | 
 | 2022-11-23 | 1554 | 184 | 
-| 2022-11-22 | 1547 | 182 | 
 

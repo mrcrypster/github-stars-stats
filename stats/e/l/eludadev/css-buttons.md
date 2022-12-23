@@ -1,10 +1,10 @@
 # eludadev/css-buttons - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 189
 
-★ Stars: 2576
+★ Stars: 2577
 
 [Open repository](https://github.com/eludadev/css-buttons)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 2577 | 189 | 
 | 2022-12-22 | 2576 | 189 | 
 | 2022-12-21 | 2576 | 189 | 
 | 2022-12-20 | 2574 | 189 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-25 | 2539 | 186 | 
 | 2022-11-24 | 2537 | 185 | 
 | 2022-11-23 | 2534 | 185 | 
-| 2022-11-22 | 2531 | 185 | 
 

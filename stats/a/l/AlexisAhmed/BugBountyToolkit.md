@@ -1,8 +1,8 @@
 # AlexisAhmed/BugBountyToolkit - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 243
+☋ Forks: 244
 
 ★ Stars: 811
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 811 | 244 | 
 | 2022-12-21 | 811 | 243 | 
 | 2022-12-20 | 810 | 243 | 
 | 2022-12-19 | 811 | 243 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 794 | 243 | 
 | 2022-11-24 | 791 | 243 | 
 | 2022-11-23 | 790 | 243 | 
-| 2022-11-22 | 788 | 242 | 
 

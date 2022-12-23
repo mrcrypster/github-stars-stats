@@ -1,6 +1,6 @@
 # bitnami/vms - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 144 | 28 | 
 | 2022-12-21 | 144 | 28 | 
 | 2022-12-20 | 144 | 27 | 
 | 2022-12-19 | 144 | 27 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 142 | 26 | 
 | 2022-11-24 | 142 | 26 | 
 | 2022-11-23 | 141 | 26 | 
-| 2022-11-22 | 140 | 26 | 
 

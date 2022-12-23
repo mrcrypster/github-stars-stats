@@ -1,10 +1,10 @@
 # NVIDIA/deepops - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 275
 
-★ Stars: 895
+★ Stars: 896
 
 [Open repository](https://github.com/NVIDIA/deepops)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 896 | 275 | 
 | 2022-12-21 | 895 | 275 | 
 | 2022-12-20 | 895 | 275 | 
 | 2022-12-19 | 895 | 275 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 887 | 270 | 
 | 2022-11-24 | 888 | 270 | 
 | 2022-11-23 | 888 | 270 | 
-| 2022-11-22 | 888 | 270 | 
 

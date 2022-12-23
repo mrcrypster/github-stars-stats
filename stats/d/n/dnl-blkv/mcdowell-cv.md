@@ -1,8 +1,8 @@
 # dnl-blkv/mcdowell-cv - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 608
+☋ Forks: 607
 
 ★ Stars: 1421
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 1421 | 607 | 
 | 2022-12-21 | 1421 | 608 | 
 | 2022-12-20 | 1421 | 608 | 
 | 2022-12-19 | 1420 | 608 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 1410 | 603 | 
 | 2022-11-24 | 1410 | 603 | 
 | 2022-11-23 | 1410 | 602 | 
-| 2022-11-22 | 1408 | 603 | 
 

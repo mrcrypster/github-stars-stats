@@ -1,10 +1,10 @@
 # sissbruecker/linkding - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 149
 
-★ Stars: 2710
+★ Stars: 2714
 
 [Open repository](https://github.com/sissbruecker/linkding)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 2714 | 149 | 
 | 2022-12-21 | 2710 | 149 | 
 | 2022-12-20 | 2706 | 149 | 
 | 2022-12-19 | 2700 | 148 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 2550 | 145 | 
 | 2022-11-24 | 2548 | 145 | 
 | 2022-11-23 | 2544 | 144 | 
-| 2022-11-22 | 2543 | 144 | 
 

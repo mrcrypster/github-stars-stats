@@ -1,6 +1,6 @@
 # shubhamgrg04/awesome-diagramming - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 2396 | 58 | 
 | 2022-12-21 | 2396 | 58 | 
 | 2022-12-20 | 2395 | 58 | 
 | 2022-12-19 | 2395 | 58 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 2351 | 58 | 
 | 2022-11-24 | 2349 | 58 | 
 | 2022-11-23 | 2345 | 58 | 
-| 2022-11-22 | 2342 | 58 | 
 

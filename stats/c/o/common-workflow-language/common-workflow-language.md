@@ -1,6 +1,6 @@
 # common-workflow-language/common-workflow-language - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 199
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 1380 | 199 | 
 | 2022-12-21 | 1380 | 199 | 
 | 2022-12-20 | 1380 | 199 | 
 | 2022-12-19 | 1380 | 199 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 1374 | 198 | 
 | 2022-11-24 | 1374 | 198 | 
 | 2022-11-23 | 1374 | 198 | 
-| 2022-11-22 | 1374 | 198 | 
 

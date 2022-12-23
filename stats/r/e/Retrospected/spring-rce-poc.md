@@ -1,6 +1,6 @@
 # Retrospected/spring-rce-poc - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 87 | 23 | 
 | 2022-12-21 | 87 | 23 | 
 | 2022-12-20 | 87 | 23 | 
 | 2022-12-19 | 87 | 23 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 86 | 24 | 
 | 2022-11-24 | 86 | 24 | 
 | 2022-11-23 | 86 | 24 | 
-| 2022-11-22 | 86 | 24 | 
 

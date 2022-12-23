@@ -1,6 +1,6 @@
 # esge/PoE-HarvestVendor - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 79 | 25 | 
 | 2022-12-21 | 79 | 25 | 
 | 2022-12-20 | 79 | 25 | 
 | 2022-12-19 | 79 | 25 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 79 | 25 | 
 | 2022-11-24 | 79 | 25 | 
 | 2022-11-23 | 79 | 25 | 
-| 2022-11-22 | 79 | 25 | 
 

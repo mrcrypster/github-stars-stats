@@ -1,10 +1,10 @@
 # Orphis/boost-cmake - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 127
 
-★ Stars: 370
+★ Stars: 371
 
 [Open repository](https://github.com/Orphis/boost-cmake)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 371 | 127 | 
 | 2022-12-22 | 370 | 127 | 
 | 2022-12-21 | 370 | 127 | 
 | 2022-12-20 | 370 | 127 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-25 | 367 | 124 | 
 | 2022-11-24 | 367 | 124 | 
 | 2022-11-23 | 367 | 123 | 
-| 2022-11-22 | 366 | 123 | 
 

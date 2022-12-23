@@ -1,10 +1,10 @@
 # jasmine/jasmine - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 2276
 
-★ Stars: 15474
+★ Stars: 15476
 
 [Open repository](https://github.com/jasmine/jasmine)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 15476 | 2276 | 
 | 2022-12-21 | 15474 | 2276 | 
 | 2022-12-20 | 15474 | 2276 | 
 | 2022-12-19 | 15473 | 2276 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 15465 | 2274 | 
 | 2022-11-24 | 15465 | 2274 | 
 | 2022-11-23 | 15466 | 2272 | 
-| 2022-11-22 | 15466 | 2273 | 
 

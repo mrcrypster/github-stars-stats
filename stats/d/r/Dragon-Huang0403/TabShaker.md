@@ -1,6 +1,6 @@
 # Dragon-Huang0403/TabShaker - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 28 | 6 | 
 | 2022-12-21 | 28 | 6 | 
 | 2022-12-20 | 28 | 6 | 
 | 2022-12-19 | 28 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 27 | 6 | 
 | 2022-11-24 | 27 | 6 | 
 | 2022-11-23 | 27 | 6 | 
-| 2022-11-22 | 27 | 6 | 
 

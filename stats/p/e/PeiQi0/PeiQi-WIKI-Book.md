@@ -1,6 +1,6 @@
 # PeiQi0/PeiQi-WIKI-Book - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 261
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 1287 | 261 | 
 | 2022-12-21 | 1287 | 261 | 
 | 2022-12-20 | 1286 | 261 | 
 | 2022-12-19 | 1285 | 261 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 1252 | 255 | 
 | 2022-11-24 | 1250 | 255 | 
 | 2022-11-23 | 1250 | 253 | 
-| 2022-11-22 | 1248 | 253 | 
 

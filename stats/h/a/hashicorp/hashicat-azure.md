@@ -1,8 +1,8 @@
 # hashicorp/hashicat-azure - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 1860
+☋ Forks: 1862
 
 ★ Stars: 75
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 75 | 1862 | 
 | 2022-12-21 | 75 | 1860 | 
 | 2022-12-20 | 75 | 1837 | 
 | 2022-12-19 | 75 | 1838 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 74 | 1796 | 
 | 2022-11-24 | 74 | 1795 | 
 | 2022-11-23 | 74 | 1795 | 
-| 2022-11-22 | 74 | 1794 | 
 

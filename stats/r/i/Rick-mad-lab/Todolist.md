@@ -1,8 +1,8 @@
 # Rick-mad-lab/Todolist - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 34
+☋ Forks: 35
 
 ★ Stars: 22
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 22 | 35 | 
 | 2022-12-21 | 22 | 34 | 
 | 2022-12-20 | 22 | 34 | 
 | 2022-12-19 | 22 | 34 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 23 | 34 | 
 | 2022-11-24 | 23 | 34 | 
 | 2022-11-23 | 23 | 34 | 
-| 2022-11-22 | 23 | 34 | 
 

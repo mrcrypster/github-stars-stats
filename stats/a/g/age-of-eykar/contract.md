@@ -1,10 +1,10 @@
 # age-of-eykar/contract - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 39
+☋ Forks: 40
 
-★ Stars: 93
+★ Stars: 94
 
 [Open repository](https://github.com/age-of-eykar/contract)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 94 | 40 | 
 | 2022-12-21 | 93 | 39 | 
 | 2022-12-20 | 93 | 39 | 
 | 2022-12-19 | 93 | 39 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 94 | 38 | 
 | 2022-11-24 | 93 | 38 | 
 | 2022-11-23 | 93 | 38 | 
-| 2022-11-22 | 93 | 38 | 
 

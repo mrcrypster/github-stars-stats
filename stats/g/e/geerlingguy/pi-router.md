@@ -1,6 +1,6 @@
 # geerlingguy/pi-router - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 75 | 3 | 
 | 2022-12-21 | 75 | 3 | 
 | 2022-12-20 | 75 | 3 | 
 | 2022-12-19 | 74 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 71 | 3 | 
 | 2022-11-24 | 71 | 3 | 
 | 2022-11-23 | 71 | 3 | 
-| 2022-11-22 | 71 | 3 | 
 

@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 22
 
 ☋ Forks: 72
 
-★ Stars: 1090
+★ Stars: 1089
 
 [Open repository](https://github.com/airblade/vim-rooter)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-22 | 1090 | 72 | 
+| 2022-12-22 | 1089 | 72 | 
 | 2022-12-21 | 1090 | 72 | 
 | 2022-12-20 | 1090 | 72 | 
 | 2022-12-19 | 1089 | 72 | 
@@ -39,5 +39,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-25 | 1080 | 72 | 
 | 2022-11-24 | 1080 | 72 | 
 | 2022-11-23 | 1080 | 72 | 
-| 2022-11-22 | 1080 | 72 | 
 

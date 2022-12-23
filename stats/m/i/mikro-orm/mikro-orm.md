@@ -1,10 +1,10 @@
 # mikro-orm/mikro-orm - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 357
 
-★ Stars: 5413
+★ Stars: 5419
 
 [Open repository](https://github.com/mikro-orm/mikro-orm)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 5419 | 357 | 
 | 2022-12-21 | 5413 | 357 | 
 | 2022-12-20 | 5409 | 357 | 
 | 2022-12-19 | 5408 | 357 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 5316 | 352 | 
 | 2022-11-24 | 5309 | 351 | 
 | 2022-11-23 | 5309 | 351 | 
-| 2022-11-22 | 5306 | 351 | 
 

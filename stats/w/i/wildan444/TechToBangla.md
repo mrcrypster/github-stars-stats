@@ -1,6 +1,6 @@
 # wildan444/TechToBangla - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 377
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 7 | 377 | 
 | 2022-12-21 | 7 | 377 | 
 | 2022-12-20 | 7 | 377 | 
 | 2022-12-19 | 7 | 377 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 7 | 377 | 
 | 2022-11-24 | 7 | 377 | 
 | 2022-11-23 | 7 | 377 | 
-| 2022-11-22 | 7 | 377 | 
 

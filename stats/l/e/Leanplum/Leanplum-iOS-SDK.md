@@ -1,10 +1,10 @@
 # Leanplum/Leanplum-iOS-SDK - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 55
 
-★ Stars: 65
+★ Stars: 66
 
 [Open repository](https://github.com/Leanplum/Leanplum-iOS-SDK)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 66 | 55 | 
 | 2022-12-22 | 65 | 55 | 
 | 2022-12-20 | 65 | 55 | 
 | 2022-12-19 | 65 | 55 | 

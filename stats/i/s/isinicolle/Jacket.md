@@ -1,10 +1,10 @@
 # isinicolle/Jacket - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 4
 
-★ Stars: 23
+★ Stars: 22
 
 [Open repository](https://github.com/isinicolle/Jacket)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 22 | 4 | 
 | 2022-12-21 | 23 | 4 | 
 | 2022-12-20 | 23 | 4 | 
 | 2022-12-19 | 23 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-26 | 23 | 4 | 
 | 2022-11-25 | 23 | 4 | 
 | 2022-11-23 | 23 | 4 | 
-| 2022-11-22 | 23 | 4 | 
 

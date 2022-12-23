@@ -1,6 +1,6 @@
 # PetrKryslUCSD/FinEtools.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 125 | 17 | 
 | 2022-12-21 | 125 | 17 | 
 | 2022-12-20 | 125 | 17 | 
 | 2022-12-19 | 124 | 17 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 124 | 17 | 
 | 2022-11-24 | 124 | 17 | 
 | 2022-11-23 | 124 | 17 | 
-| 2022-11-22 | 124 | 17 | 
 

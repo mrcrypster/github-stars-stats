@@ -1,10 +1,10 @@
 # dimensionhq/fleet - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 52
 
-★ Stars: 2216
+★ Stars: 2217
 
 [Open repository](https://github.com/dimensionhq/fleet)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 2217 | 52 | 
 | 2022-12-21 | 2216 | 52 | 
 | 2022-12-20 | 2216 | 52 | 
 | 2022-12-19 | 2215 | 52 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 2204 | 50 | 
 | 2022-11-24 | 2204 | 50 | 
 | 2022-11-23 | 2204 | 50 | 
-| 2022-11-22 | 2204 | 50 | 
 

@@ -1,10 +1,10 @@
 # spatie/browsershot - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 421
 
-★ Stars: 4095
+★ Stars: 4096
 
 [Open repository](https://github.com/spatie/browsershot)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 4096 | 421 | 
 | 2022-12-21 | 4095 | 421 | 
 | 2022-12-20 | 4091 | 421 | 
 | 2022-12-19 | 4088 | 421 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 4057 | 417 | 
 | 2022-11-24 | 4053 | 417 | 
 | 2022-11-23 | 4052 | 417 | 
-| 2022-11-22 | 4051 | 416 | 
 

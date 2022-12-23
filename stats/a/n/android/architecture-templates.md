@@ -1,10 +1,10 @@
 # android/architecture-templates - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 82
+☋ Forks: 83
 
-★ Stars: 1294
+★ Stars: 1306
 
 [Open repository](https://github.com/android/architecture-templates)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 1306 | 83 | 
 | 2022-12-21 | 1294 | 82 | 
 | 2022-12-20 | 1284 | 80 | 
 | 2022-12-19 | 1270 | 79 | 

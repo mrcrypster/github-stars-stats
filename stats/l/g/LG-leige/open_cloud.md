@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 22
 
 ☋ Forks: 52
 
-★ Stars: 139
+★ Stars: 142
 
 [Open repository](https://github.com/LG-leige/open_cloud)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-22 | 139 | 52 | 
+| 2022-12-22 | 142 | 52 | 
 | 2022-12-21 | 139 | 52 | 
 | 2022-12-19 | 129 | 45 | 
 | 2022-12-18 | 126 | 45 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-25 | 107 | 38 | 
 | 2022-11-24 | 107 | 38 | 
 | 2022-11-23 | 107 | 37 | 
-| 2022-11-22 | 107 | 37 | 
 

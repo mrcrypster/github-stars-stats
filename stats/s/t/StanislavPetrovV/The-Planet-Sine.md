@@ -1,10 +1,10 @@
 # StanislavPetrovV/The-Planet-Sine - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 3
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/StanislavPetrovV/The-Planet-Sine)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 28 | 3 | 
 | 2022-12-21 | 27 | 3 | 
 | 2022-12-20 | 25 | 3 | 
 | 2022-12-19 | 25 | 3 | 

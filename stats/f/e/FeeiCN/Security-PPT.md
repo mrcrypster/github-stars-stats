@@ -1,10 +1,10 @@
 # FeeiCN/Security-PPT - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 765
 
-★ Stars: 2949
+★ Stars: 2948
 
 [Open repository](https://github.com/FeeiCN/Security-PPT)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 2948 | 765 | 
 | 2022-12-21 | 2949 | 765 | 
 | 2022-12-20 | 2949 | 765 | 
 | 2022-12-19 | 2945 | 764 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 2917 | 758 | 
 | 2022-11-24 | 2916 | 758 | 
 | 2022-11-23 | 2916 | 758 | 
-| 2022-11-22 | 2916 | 758 | 
 

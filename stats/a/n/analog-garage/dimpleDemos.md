@@ -1,6 +1,6 @@
 # analog-garage/dimpleDemos - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 6 | 5 | 
 | 2022-12-22 | 6 | 5 | 
 | 2022-12-20 | 6 | 5 | 
 | 2022-12-19 | 6 | 5 | 

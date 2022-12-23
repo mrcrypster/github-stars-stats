@@ -1,6 +1,6 @@
 # nf-core/cutandrun - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 36 | 16 | 
 | 2022-12-21 | 36 | 16 | 
 | 2022-12-20 | 36 | 16 | 
 | 2022-12-19 | 36 | 16 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-26 | 32 | 16 | 
 | 2022-11-25 | 32 | 16 | 
 | 2022-11-24 | 32 | 16 | 
-| 2022-11-23 | 32 | 16 | 
 

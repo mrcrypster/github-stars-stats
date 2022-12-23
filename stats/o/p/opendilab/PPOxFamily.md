@@ -1,10 +1,10 @@
 # opendilab/PPOxFamily - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 57
+☋ Forks: 60
 
-★ Stars: 774
+★ Stars: 798
 
 [Open repository](https://github.com/opendilab/PPOxFamily)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 798 | 60 | 
 | 2022-12-21 | 774 | 57 | 
 | 2022-12-20 | 745 | 54 | 
 | 2022-12-19 | 713 | 53 | 

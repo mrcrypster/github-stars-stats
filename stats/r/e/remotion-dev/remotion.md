@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 22
 
 ☋ Forks: 660
 
-★ Stars: 14691
+★ Stars: 14701
 
 [Open repository](https://github.com/remotion-dev/remotion)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-22 | 14691 | 660 | 
+| 2022-12-22 | 14701 | 660 | 
 | 2022-12-21 | 14683 | 660 | 
 | 2022-12-20 | 14616 | 659 | 
 | 2022-12-19 | 14508 | 650 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-25 | 14361 | 635 | 
 | 2022-11-24 | 14359 | 635 | 
 | 2022-11-23 | 14348 | 634 | 
-| 2022-11-22 | 14343 | 632 | 
 

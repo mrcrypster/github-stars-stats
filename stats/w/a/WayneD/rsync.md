@@ -1,10 +1,10 @@
 # WayneD/rsync - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 204
+☋ Forks: 205
 
-★ Stars: 1143
+★ Stars: 1146
 
 [Open repository](https://github.com/WayneD/rsync)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 1146 | 205 | 
 | 2022-12-21 | 1143 | 204 | 
 | 2022-12-20 | 1142 | 203 | 
 | 2022-12-19 | 1139 | 203 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 1090 | 192 | 
 | 2022-11-24 | 1088 | 192 | 
 | 2022-11-23 | 1088 | 192 | 
-| 2022-11-22 | 1087 | 192 | 
 

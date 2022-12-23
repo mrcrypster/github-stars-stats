@@ -1,10 +1,10 @@
 # zju3dv/LoFTR - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 218
 
-★ Stars: 1395
+★ Stars: 1396
 
 [Open repository](https://github.com/zju3dv/LoFTR)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 1396 | 218 | 
 | 2022-12-21 | 1395 | 218 | 
 | 2022-12-20 | 1393 | 217 | 
 | 2022-12-19 | 1392 | 217 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-26 | 1355 | 210 | 
 | 2022-11-25 | 1353 | 210 | 
 | 2022-11-24 | 1350 | 210 | 
-| 2022-11-23 | 1347 | 208 | 
 

@@ -1,10 +1,10 @@
 # github/codespaces-jupyter - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 91
+☋ Forks: 93
 
-★ Stars: 78
+★ Stars: 79
 
 [Open repository](https://github.com/github/codespaces-jupyter)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 79 | 93 | 
 | 2022-12-21 | 78 | 91 | 
 | 2022-12-20 | 76 | 92 | 
 | 2022-12-19 | 73 | 87 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 47 | 33 | 
 | 2022-11-24 | 46 | 29 | 
 | 2022-11-23 | 45 | 26 | 
-| 2022-11-22 | 45 | 24 | 
 

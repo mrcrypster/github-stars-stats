@@ -1,10 +1,10 @@
 # deepmind/mujoco - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 456
+☋ Forks: 457
 
-★ Stars: 5130
+★ Stars: 5132
 
 [Open repository](https://github.com/deepmind/mujoco)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 5132 | 457 | 
 | 2022-12-21 | 5130 | 456 | 
 | 2022-12-20 | 5129 | 456 | 
 | 2022-12-19 | 5128 | 456 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 5038 | 440 | 
 | 2022-11-24 | 5031 | 438 | 
 | 2022-11-23 | 5030 | 438 | 
-| 2022-11-22 | 5029 | 437 | 
 

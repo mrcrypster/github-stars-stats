@@ -1,6 +1,6 @@
 # Shougo/deol.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 309 | 15 | 
 | 2022-12-21 | 309 | 15 | 
 | 2022-12-20 | 309 | 15 | 
 | 2022-12-18 | 309 | 15 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 308 | 15 | 
 | 2022-11-24 | 308 | 15 | 
 | 2022-11-23 | 308 | 15 | 
-| 2022-11-22 | 308 | 15 | 
 

@@ -1,10 +1,10 @@
 # gurkanfikretgunak/wtech-flutter-bootcamp - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 16
 
-★ Stars: 20
+★ Stars: 22
 
 [Open repository](https://github.com/gurkanfikretgunak/wtech-flutter-bootcamp)
 
@@ -13,5 +13,6 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 22 | 16 | 
 | 2022-12-21 | 20 | 16 | 
 

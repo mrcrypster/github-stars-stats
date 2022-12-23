@@ -1,6 +1,6 @@
 # fossasia/tofsims - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 1493 | 5 | 
 | 2022-12-21 | 1493 | 5 | 
 | 2022-12-20 | 1493 | 5 | 
 | 2022-12-19 | 1493 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 1494 | 5 | 
 | 2022-11-24 | 1494 | 5 | 
 | 2022-11-23 | 1494 | 5 | 
-| 2022-11-22 | 1494 | 5 | 
 

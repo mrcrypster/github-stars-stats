@@ -1,10 +1,10 @@
 # liuyulet/lana-web - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 5
+☋ Forks: 6
 
-★ Stars: 35
+★ Stars: 57
 
 [Open repository](https://github.com/liuyulet/lana-web)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-22 | 35 | 5 | 
+| 2022-12-23 | 57 | 6 | 
+| 2022-12-22 | 52 | 6 | 
 | 2022-12-21 | 34 | 5 | 
 

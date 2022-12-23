@@ -1,10 +1,10 @@
 # fluttercandies/extended_image - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 385
 
-★ Stars: 1570
+★ Stars: 1571
 
 [Open repository](https://github.com/fluttercandies/extended_image)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 1571 | 385 | 
 | 2022-12-22 | 1570 | 385 | 
 | 2022-12-20 | 1570 | 385 | 
 | 2022-12-19 | 1569 | 385 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-25 | 1540 | 382 | 
 | 2022-11-24 | 1540 | 382 | 
 | 2022-11-23 | 1540 | 382 | 
-| 2022-11-22 | 1538 | 382 | 
 

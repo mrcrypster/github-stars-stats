@@ -1,10 +1,10 @@
 # thepower/tpnode - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 9
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/thepower/tpnode)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 21 | 9 | 
 | 2022-12-21 | 20 | 9 | 
 | 2022-12-20 | 20 | 9 | 
 | 2022-12-19 | 19 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 16 | 5 | 
 | 2022-11-24 | 16 | 5 | 
 | 2022-11-23 | 15 | 5 | 
-| 2022-11-22 | 15 | 5 | 
 

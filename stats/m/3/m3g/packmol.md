@@ -1,8 +1,8 @@
 # m3g/packmol - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 36
+☋ Forks: 37
 
 ★ Stars: 118
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 118 | 37 | 
 | 2022-12-21 | 118 | 36 | 
 | 2022-12-20 | 118 | 36 | 
 | 2022-12-19 | 118 | 36 | 

@@ -1,10 +1,10 @@
 # thomasp85/gganimate - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 310
+☋ Forks: 309
 
-★ Stars: 1839
+★ Stars: 1840
 
 [Open repository](https://github.com/thomasp85/gganimate)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 1840 | 309 | 
 | 2022-12-21 | 1839 | 310 | 
 | 2022-12-20 | 1838 | 310 | 
 | 2022-12-19 | 1838 | 310 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 1831 | 310 | 
 | 2022-11-24 | 1831 | 310 | 
 | 2022-11-23 | 1832 | 310 | 
-| 2022-11-22 | 1831 | 310 | 
 

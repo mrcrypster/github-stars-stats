@@ -1,6 +1,6 @@
 # input-output-hk/cardano-byron-proxy - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 5 | 1 | 
 | 2022-12-21 | 5 | 1 | 
 | 2022-12-20 | 5 | 1 | 
 | 2022-12-19 | 5 | 1 | 

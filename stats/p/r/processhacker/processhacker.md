@@ -1,10 +1,10 @@
 # processhacker/processhacker - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 1161
+☋ Forks: 1162
 
-★ Stars: 8318
+★ Stars: 8321
 
 [Open repository](https://github.com/processhacker/processhacker)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 8321 | 1162 | 
 | 2022-12-21 | 8318 | 1161 | 
 | 2022-12-20 | 8316 | 1161 | 
 | 2022-12-19 | 8314 | 1161 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 8211 | 1147 | 
 | 2022-11-24 | 8204 | 1145 | 
 | 2022-11-23 | 8200 | 1144 | 
-| 2022-11-22 | 8192 | 1142 | 
 

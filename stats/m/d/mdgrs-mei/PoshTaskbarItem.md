@@ -1,6 +1,6 @@
 # mdgrs-mei/PoshTaskbarItem - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 61 | 1 | 
 | 2022-12-21 | 61 | 1 | 
 | 2022-12-20 | 61 | 1 | 
 | 2022-12-18 | 61 | 1 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-26 | 59 | 1 | 
 | 2022-11-25 | 59 | 1 | 
 | 2022-11-24 | 59 | 1 | 
-| 2022-11-23 | 59 | 1 | 
 

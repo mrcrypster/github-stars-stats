@@ -1,10 +1,10 @@
 # cryptoseeker54/Pancakeprediction-AIevolved - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 294
+☋ Forks: 362
 
-★ Stars: 311
+★ Stars: 379
 
 [Open repository](https://github.com/cryptoseeker54/Pancakeprediction-AIevolved)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 379 | 362 | 
 | 2022-12-21 | 311 | 294 | 
 | 2022-12-20 | 276 | 262 | 
 | 2022-12-19 | 271 | 262 | 

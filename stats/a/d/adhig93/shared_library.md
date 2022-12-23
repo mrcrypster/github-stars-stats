@@ -1,6 +1,6 @@
 # adhig93/shared_library - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | - | 13 | 
 | 2022-12-22 | - | 13 | 
 | 2022-12-20 | - | 13 | 
 | 2022-12-19 | - | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-25 | - | 12 | 
 | 2022-11-24 | - | 12 | 
 | 2022-11-23 | - | 12 | 
-| 2022-11-22 | - | 11 | 
 

@@ -1,10 +1,10 @@
 # KhronosGroup/MoltenVK - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 340
 
-★ Stars: 3773
+★ Stars: 3775
 
 [Open repository](https://github.com/KhronosGroup/MoltenVK)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 3775 | 340 | 
 | 2022-12-21 | 3773 | 340 | 
 | 2022-12-20 | 3768 | 340 | 
 | 2022-12-19 | 3767 | 340 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 3715 | 338 | 
 | 2022-11-24 | 3715 | 338 | 
 | 2022-11-23 | 3713 | 338 | 
-| 2022-11-22 | 3709 | 337 | 
 

@@ -1,6 +1,6 @@
 # dafny-lang/dafny - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 212
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 1911 | 212 | 
 | 2022-12-21 | 1911 | 212 | 
 | 2022-12-20 | 1911 | 211 | 
 | 2022-12-19 | 1911 | 210 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 1889 | 210 | 
 | 2022-11-24 | 1887 | 209 | 
 | 2022-11-23 | 1886 | 209 | 
-| 2022-11-22 | 1885 | 208 | 
 

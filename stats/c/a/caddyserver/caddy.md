@@ -1,10 +1,10 @@
 # caddyserver/caddy - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 3478
+☋ Forks: 3477
 
-★ Stars: 44956
+★ Stars: 44979
 
 [Open repository](https://github.com/caddyserver/caddy)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 44979 | 3477 | 
 | 2022-12-21 | 44956 | 3478 | 
 | 2022-12-20 | 44942 | 3476 | 
 | 2022-12-19 | 44927 | 3476 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-26 | 44465 | 3457 | 
 | 2022-11-25 | 44450 | 3456 | 
 | 2022-11-24 | 44429 | 3455 | 
-| 2022-11-23 | 44408 | 3453 | 
 

@@ -1,10 +1,10 @@
 # pytorch/tutorials - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 3564
 
-★ Stars: 6562
+★ Stars: 6565
 
 [Open repository](https://github.com/pytorch/tutorials)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 6565 | 3564 | 
 | 2022-12-21 | 6562 | 3564 | 
 | 2022-12-20 | 6559 | 3566 | 
 | 2022-12-19 | 6554 | 3566 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 6488 | 3529 | 
 | 2022-11-24 | 6485 | 3529 | 
 | 2022-11-23 | 6485 | 3529 | 
-| 2022-11-22 | 6484 | 3527 | 
 

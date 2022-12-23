@@ -1,8 +1,8 @@
 # patriciogonzalezvivo/lygia - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 75
+☋ Forks: 76
 
 ★ Stars: 1372
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 1372 | 76 | 
 | 2022-12-21 | 1372 | 75 | 
 | 2022-12-20 | 1371 | 75 | 
 | 2022-12-19 | 1368 | 75 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 1323 | 73 | 
 | 2022-11-24 | 1321 | 73 | 
 | 2022-11-23 | 1312 | 72 | 
-| 2022-11-22 | 1309 | 72 | 
 

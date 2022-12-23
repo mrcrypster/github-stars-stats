@@ -1,10 +1,10 @@
 # guipsamora/pandas_exercises - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 7075
+☋ Forks: 7079
 
-★ Stars: 8503
+★ Stars: 8506
 
 [Open repository](https://github.com/guipsamora/pandas_exercises)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 8506 | 7079 | 
 | 2022-12-21 | 8503 | 7075 | 
 | 2022-12-20 | 8499 | 7073 | 
 | 2022-12-19 | 8495 | 7071 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 8394 | 7021 | 
 | 2022-11-24 | 8390 | 7013 | 
 | 2022-11-23 | 8386 | 7013 | 
-| 2022-11-22 | 8382 | 7015 | 
 

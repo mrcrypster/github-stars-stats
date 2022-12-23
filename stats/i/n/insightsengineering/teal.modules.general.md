@@ -1,10 +1,10 @@
 # insightsengineering/teal.modules.general - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 1
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/insightsengineering/teal.modules.general)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 6 | 1 | 
 | 2022-12-21 | 5 | 1 | 
 | 2022-12-20 | 5 | 1 | 
 | 2022-12-19 | 5 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 5 | 1 | 
 | 2022-11-24 | 5 | 1 | 
 | 2022-11-23 | 5 | 1 | 
-| 2022-11-22 | 5 | 1 | 
 

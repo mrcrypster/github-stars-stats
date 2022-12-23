@@ -1,6 +1,6 @@
 # menzi11/BullshitGenerator - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 2977
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 15746 | 2977 | 
 | 2022-12-21 | 15746 | 2977 | 
 | 2022-12-20 | 15746 | 2977 | 
 | 2022-12-19 | 15745 | 2976 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 15725 | 2977 | 
 | 2022-11-24 | 15724 | 2978 | 
 | 2022-11-23 | 15723 | 2978 | 
-| 2022-11-22 | 15723 | 2978 | 
 

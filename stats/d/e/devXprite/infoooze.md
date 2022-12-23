@@ -1,10 +1,10 @@
 # devXprite/infoooze - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 49
 
-★ Stars: 252
+★ Stars: 253
 
 [Open repository](https://github.com/devXprite/infoooze)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 253 | 49 | 
 | 2022-12-21 | 252 | 49 | 
 | 2022-12-20 | 250 | 48 | 
 | 2022-12-18 | 250 | 48 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 239 | 48 | 
 | 2022-11-24 | 239 | 48 | 
 | 2022-11-23 | 239 | 48 | 
-| 2022-11-22 | 239 | 47 | 
 

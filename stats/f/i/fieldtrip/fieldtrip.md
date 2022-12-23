@@ -1,6 +1,6 @@
 # fieldtrip/fieldtrip - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 655
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 681 | 655 | 
 | 2022-12-21 | 681 | 655 | 
 | 2022-12-20 | 681 | 655 | 
 | 2022-12-19 | 681 | 655 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 672 | 649 | 
 | 2022-11-24 | 672 | 649 | 
 | 2022-11-23 | 672 | 649 | 
-| 2022-11-22 | 672 | 649 | 
 

@@ -1,8 +1,8 @@
 # boradesanket13/Blaze - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 48
+☋ Forks: 47
 
 ★ Stars: 14
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 14 | 47 | 
 | 2022-12-21 | 14 | 48 | 
 | 2022-12-20 | 14 | 48 | 
 | 2022-12-19 | 14 | 48 | 

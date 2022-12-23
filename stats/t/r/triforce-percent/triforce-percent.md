@@ -1,10 +1,10 @@
 # triforce-percent/triforce-percent - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 9
 
-★ Stars: 143
+★ Stars: 144
 
 [Open repository](https://github.com/triforce-percent/triforce-percent)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 144 | 9 | 
 | 2022-12-21 | 143 | 9 | 
 | 2022-12-20 | 143 | 9 | 
 | 2022-12-19 | 143 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-26 | 141 | 9 | 
 | 2022-11-25 | 141 | 9 | 
 | 2022-11-24 | 141 | 9 | 
-| 2022-11-23 | 141 | 9 | 
 

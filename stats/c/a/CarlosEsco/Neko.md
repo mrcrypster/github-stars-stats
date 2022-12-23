@@ -1,6 +1,6 @@
 # CarlosEsco/Neko - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 90
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 1378 | 90 | 
 | 2022-12-21 | 1378 | 90 | 
 | 2022-12-20 | 1377 | 90 | 
 | 2022-12-19 | 1374 | 90 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 1338 | 86 | 
 | 2022-11-24 | 1337 | 86 | 
 | 2022-11-23 | 1336 | 86 | 
-| 2022-11-22 | 1334 | 86 | 
 

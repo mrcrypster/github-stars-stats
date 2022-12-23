@@ -1,10 +1,10 @@
 # EarnForex/PositionSizer - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 84
 
-★ Stars: 177
+★ Stars: 178
 
 [Open repository](https://github.com/EarnForex/PositionSizer)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 178 | 84 | 
 | 2022-12-21 | 177 | 84 | 
 | 2022-12-20 | 177 | 84 | 
 | 2022-12-19 | 175 | 84 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 171 | 86 | 
 | 2022-11-24 | 171 | 86 | 
 | 2022-11-23 | 171 | 86 | 
-| 2022-11-22 | 171 | 86 | 
 

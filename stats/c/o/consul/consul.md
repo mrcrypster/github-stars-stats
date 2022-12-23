@@ -1,6 +1,6 @@
 # consul/consul - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 1051
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 1287 | 1051 | 
 | 2022-12-21 | 1287 | 1051 | 
 | 2022-12-20 | 1287 | 1049 | 
 | 2022-12-19 | 1287 | 1049 | 

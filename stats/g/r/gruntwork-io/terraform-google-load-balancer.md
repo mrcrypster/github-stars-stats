@@ -1,6 +1,6 @@
 # gruntwork-io/terraform-google-load-balancer - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 104
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 86 | 104 | 
 | 2022-12-21 | 86 | 104 | 
 | 2022-12-20 | 86 | 104 | 
 | 2022-12-19 | 86 | 104 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 85 | 103 | 
 | 2022-11-24 | 85 | 103 | 
 | 2022-11-23 | 85 | 103 | 
-| 2022-11-22 | 85 | 102 | 
 

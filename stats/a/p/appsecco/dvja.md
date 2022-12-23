@@ -1,8 +1,8 @@
 # appsecco/dvja - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 352
+☋ Forks: 353
 
 ★ Stars: 98
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 98 | 353 | 
 | 2022-12-21 | 98 | 352 | 
 | 2022-12-20 | 98 | 352 | 
 | 2022-12-19 | 98 | 351 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 94 | 348 | 
 | 2022-11-24 | 93 | 348 | 
 | 2022-11-23 | 93 | 349 | 
-| 2022-11-22 | 93 | 348 | 
 

@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 22
 
 ☋ Forks: 1799
 
-★ Stars: 1309
+★ Stars: 1311
 
 [Open repository](https://github.com/dotnet/EntityFramework.Docs)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-22 | 1309 | 1799 | 
+| 2022-12-22 | 1311 | 1799 | 
 | 2022-12-21 | 1309 | 1799 | 
 | 2022-12-20 | 1305 | 1800 | 
 | 2022-12-19 | 1303 | 1800 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-25 | 1285 | 1774 | 
 | 2022-11-24 | 1286 | 1773 | 
 | 2022-11-23 | 1285 | 1773 | 
-| 2022-11-22 | 1284 | 1774 | 
 

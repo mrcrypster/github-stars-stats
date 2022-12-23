@@ -1,10 +1,10 @@
 # primait/amqpx - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 2
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/primait/amqpx)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 8 | 2 | 
 | 2022-12-21 | 7 | 2 | 
 | 2022-12-20 | 7 | 2 | 
 | 2022-12-19 | 7 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 7 | 2 | 
 | 2022-11-24 | 7 | 2 | 
 | 2022-11-23 | 7 | 2 | 
-| 2022-11-22 | 7 | 2 | 
 

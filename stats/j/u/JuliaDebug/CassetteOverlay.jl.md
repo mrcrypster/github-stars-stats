@@ -1,10 +1,10 @@
 # JuliaDebug/CassetteOverlay.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 0
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/JuliaDebug/CassetteOverlay.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 10 | - | 
 | 2022-12-21 | 9 | - | 
 | 2022-12-20 | 9 | - | 
 | 2022-12-19 | 9 | - | 

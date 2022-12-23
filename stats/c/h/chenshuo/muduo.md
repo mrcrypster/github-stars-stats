@@ -1,6 +1,6 @@
 # chenshuo/muduo - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 4831
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 12383 | 4831 | 
 | 2022-12-21 | 12383 | 4831 | 
 | 2022-12-20 | 12382 | 4831 | 
 | 2022-12-19 | 12377 | 4829 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 12296 | 4818 | 
 | 2022-11-24 | 12290 | 4817 | 
 | 2022-11-23 | 12287 | 4816 | 
-| 2022-11-22 | 12280 | 4816 | 
 

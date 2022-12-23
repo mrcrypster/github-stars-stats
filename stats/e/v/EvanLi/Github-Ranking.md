@@ -1,10 +1,10 @@
 # EvanLi/Github-Ranking - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 263
+☋ Forks: 265
 
-★ Stars: 3159
+★ Stars: 3165
 
 [Open repository](https://github.com/EvanLi/Github-Ranking)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 3165 | 265 | 
 | 2022-12-21 | 3159 | 263 | 
 | 2022-12-20 | 3157 | 262 | 
 | 2022-12-19 | 3153 | 262 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 3053 | 247 | 
 | 2022-11-24 | 3049 | 247 | 
 | 2022-11-23 | 3042 | 247 | 
-| 2022-11-22 | 3041 | 246 | 
 

@@ -1,10 +1,10 @@
 # ElegantLaTeX/ElegantNote - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 150
 
-★ Stars: 804
+★ Stars: 805
 
 [Open repository](https://github.com/ElegantLaTeX/ElegantNote)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 805 | 150 | 
 | 2022-12-21 | 804 | 150 | 
 | 2022-12-20 | 804 | 150 | 
 | 2022-12-19 | 804 | 150 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 784 | 146 | 
 | 2022-11-24 | 783 | 146 | 
 | 2022-11-23 | 782 | 146 | 
-| 2022-11-22 | 781 | 146 | 
 

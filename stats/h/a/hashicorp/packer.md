@@ -1,10 +1,10 @@
 # hashicorp/packer - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 3276
+☋ Forks: 3277
 
-★ Stars: 14127
+★ Stars: 14126
 
 [Open repository](https://github.com/hashicorp/packer)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 14126 | 3277 | 
 | 2022-12-21 | 14127 | 3276 | 
 | 2022-12-20 | 14124 | 3277 | 
 | 2022-12-19 | 14123 | 3276 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 14077 | 3263 | 
 | 2022-11-24 | 14075 | 3263 | 
 | 2022-11-23 | 14072 | 3262 | 
-| 2022-11-22 | 14071 | 3262 | 
 

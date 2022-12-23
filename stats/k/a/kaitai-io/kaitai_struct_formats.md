@@ -1,6 +1,6 @@
 # kaitai-io/kaitai_struct_formats - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 181
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 607 | 181 | 
 | 2022-12-21 | 607 | 181 | 
 | 2022-12-20 | 606 | 181 | 
 | 2022-12-19 | 606 | 181 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 599 | 181 | 
 | 2022-11-24 | 599 | 181 | 
 | 2022-11-23 | 599 | 181 | 
-| 2022-11-22 | 599 | 181 | 
 

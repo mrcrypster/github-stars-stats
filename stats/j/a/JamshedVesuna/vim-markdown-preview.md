@@ -1,6 +1,6 @@
 # JamshedVesuna/vim-markdown-preview - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 93
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 566 | 93 | 
 | 2022-12-21 | 566 | 93 | 
 | 2022-12-20 | 566 | 93 | 
 | 2022-12-19 | 566 | 93 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 567 | 93 | 
 | 2022-11-24 | 567 | 93 | 
 | 2022-11-23 | 566 | 93 | 
-| 2022-11-22 | 566 | 93 | 
 

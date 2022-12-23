@@ -1,10 +1,10 @@
 # unbug/codelf - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 977
+☋ Forks: 978
 
-★ Stars: 13334
+★ Stars: 13336
 
 [Open repository](https://github.com/unbug/codelf)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 13336 | 978 | 
 | 2022-12-21 | 13334 | 977 | 
 | 2022-12-20 | 13331 | 977 | 
 | 2022-12-19 | 13326 | 977 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 13286 | 971 | 
 | 2022-11-24 | 13282 | 971 | 
 | 2022-11-23 | 13279 | 971 | 
-| 2022-11-22 | 13278 | 971 | 
 

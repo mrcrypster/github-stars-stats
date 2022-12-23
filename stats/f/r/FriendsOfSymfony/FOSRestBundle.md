@@ -1,6 +1,6 @@
 # FriendsOfSymfony/FOSRestBundle - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 715
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 2751 | 715 | 
 | 2022-12-21 | 2751 | 715 | 
 | 2022-12-20 | 2751 | 714 | 
 | 2022-12-19 | 2751 | 714 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 2743 | 711 | 
 | 2022-11-24 | 2743 | 711 | 
 | 2022-11-23 | 2743 | 711 | 
-| 2022-11-22 | 2744 | 710 | 
 

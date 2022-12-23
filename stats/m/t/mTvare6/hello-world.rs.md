@@ -1,10 +1,10 @@
 # mTvare6/hello-world.rs - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 79
 
-★ Stars: 2703
+★ Stars: 2704
 
 [Open repository](https://github.com/mTvare6/hello-world.rs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 2704 | 79 | 
 | 2022-12-21 | 2703 | 79 | 
 | 2022-12-20 | 2703 | 79 | 
 | 2022-12-19 | 2701 | 79 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 2648 | 77 | 
 | 2022-11-24 | 2644 | 77 | 
 | 2022-11-23 | 2644 | 76 | 
-| 2022-11-22 | 2645 | 76 | 
 

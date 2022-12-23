@@ -1,8 +1,8 @@
 # GeopJr/Tooth - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 8
+☋ Forks: 9
 
 ★ Stars: 82
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 82 | 9 | 
 | 2022-12-21 | 82 | 8 | 
 | 2022-12-20 | 82 | 8 | 
 | 2022-12-19 | 82 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 12 | 1 | 
 | 2022-11-24 | 12 | 1 | 
 | 2022-11-23 | 12 | 1 | 
-| 2022-11-22 | 12 | 1 | 
 

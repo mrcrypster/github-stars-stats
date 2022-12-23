@@ -1,6 +1,6 @@
 # TdP-esami/2020-06-10-simulazione - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 256
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 2 | 256 | 
 | 2022-12-21 | 2 | 256 | 
 | 2022-12-20 | 2 | 256 | 
 | 2022-12-19 | 2 | 256 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-26 | 2 | 257 | 
 | 2022-11-25 | 2 | 257 | 
 | 2022-11-24 | 2 | 257 | 
-| 2022-11-23 | 2 | 257 | 
 

@@ -1,10 +1,10 @@
 # clojure-emacs/haystack - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 1
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/clojure-emacs/haystack)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 31 | 1 | 
 | 2022-12-21 | 30 | 1 | 
 | 2022-12-20 | 29 | 1 | 
 | 2022-12-19 | 29 | 1 | 

@@ -1,6 +1,6 @@
 # ErichStyger/mcuoneclipse - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 1289
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 611 | 1289 | 
 | 2022-12-22 | 611 | 1289 | 
 | 2022-12-20 | 611 | 1288 | 
 | 2022-12-19 | 610 | 1287 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-25 | 608 | 1283 | 
 | 2022-11-24 | 608 | 1283 | 
 | 2022-11-23 | 608 | 1283 | 
-| 2022-11-22 | 608 | 1283 | 
 

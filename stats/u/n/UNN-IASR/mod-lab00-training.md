@@ -1,6 +1,6 @@
 # UNN-IASR/mod-lab00-training - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | - | 38 | 
 | 2022-12-22 | - | 38 | 
 | 2022-12-21 | - | 38 | 
 | 2022-12-19 | - | 38 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-25 | - | 38 | 
 | 2022-11-24 | - | 38 | 
 | 2022-11-23 | - | 38 | 
-| 2022-11-22 | - | 38 | 
 

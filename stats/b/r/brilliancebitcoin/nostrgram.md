@@ -1,8 +1,8 @@
 # brilliancebitcoin/nostrgram - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 22
+☋ Forks: 23
 
 ★ Stars: 50
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 50 | 23 | 
 | 2022-12-21 | 50 | 22 | 
 | 2022-12-20 | 48 | 22 | 
 

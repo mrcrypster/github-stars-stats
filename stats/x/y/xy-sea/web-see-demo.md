@@ -1,6 +1,6 @@
 # xy-sea/web-see-demo - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 21 | 17 | 
 | 2022-12-21 | 21 | 17 | 
 | 2022-12-20 | 20 | 17 | 
 | 2022-12-19 | 17 | 17 | 

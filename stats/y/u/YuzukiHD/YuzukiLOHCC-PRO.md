@@ -1,6 +1,6 @@
 # YuzukiHD/YuzukiLOHCC-PRO - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 750 | 31 | 
 | 2022-12-21 | 750 | 31 | 
 | 2022-12-20 | 750 | 30 | 
 | 2022-12-19 | 750 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 733 | 29 | 
 | 2022-11-24 | 732 | 29 | 
 | 2022-11-23 | 730 | 29 | 
-| 2022-11-22 | 729 | 28 | 
 

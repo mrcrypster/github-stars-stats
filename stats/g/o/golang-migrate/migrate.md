@@ -1,10 +1,10 @@
 # golang-migrate/migrate - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 1086
 
-★ Stars: 10458
+★ Stars: 10462
 
 [Open repository](https://github.com/golang-migrate/migrate)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 10462 | 1086 | 
 | 2022-12-21 | 10458 | 1086 | 
 | 2022-12-20 | 10455 | 1084 | 
 | 2022-12-19 | 10448 | 1083 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 10248 | 1076 | 
 | 2022-11-24 | 10245 | 1076 | 
 | 2022-11-23 | 10239 | 1078 | 
-| 2022-11-22 | 10230 | 1078 | 
 

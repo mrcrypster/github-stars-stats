@@ -1,6 +1,6 @@
 # timholy/Revise.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 86
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 984 | 86 | 
 | 2022-12-21 | 984 | 86 | 
 | 2022-12-20 | 984 | 86 | 
 | 2022-12-19 | 984 | 86 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 979 | 87 | 
 | 2022-11-24 | 979 | 87 | 
 | 2022-11-23 | 979 | 87 | 
-| 2022-11-22 | 979 | 87 | 
 

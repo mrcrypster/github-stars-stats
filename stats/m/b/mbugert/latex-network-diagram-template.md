@@ -1,8 +1,8 @@
 # mbugert/latex-network-diagram-template - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 8
+☋ Forks: 9
 
 ★ Stars: 127
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 127 | 9 | 
 | 2022-12-21 | 127 | 8 | 
 | 2022-12-20 | 127 | 8 | 
 | 2022-12-19 | 127 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 127 | 8 | 
 | 2022-11-24 | 127 | 8 | 
 | 2022-11-23 | 127 | 8 | 
-| 2022-11-22 | 127 | 8 | 
 

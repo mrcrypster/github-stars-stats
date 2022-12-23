@@ -1,8 +1,8 @@
 # AOSP-Krypton/build_make - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 3
+☋ Forks: 2
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | - | 2 | 
 | 2022-12-22 | - | 3 | 
 | 2022-12-21 | - | 3 | 
 | 2022-12-19 | - | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-25 | - | 2 | 
 | 2022-11-24 | - | 2 | 
 | 2022-11-23 | - | 2 | 
-| 2022-11-22 | - | 2 | 
 

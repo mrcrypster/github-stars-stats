@@ -1,10 +1,10 @@
 # CScorza/OSINT-FORENSICS-MOBILE - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 84
+☋ Forks: 85
 
-★ Stars: 243
+★ Stars: 244
 
 [Open repository](https://github.com/CScorza/OSINT-FORENSICS-MOBILE)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 244 | 85 | 
 | 2022-12-21 | 243 | 84 | 
 | 2022-12-20 | 242 | 83 | 
 | 2022-12-19 | 242 | 82 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 216 | 62 | 
 | 2022-11-24 | 216 | 62 | 
 | 2022-11-23 | 216 | 61 | 
-| 2022-11-22 | 215 | 61 | 
 

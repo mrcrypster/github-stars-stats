@@ -1,10 +1,10 @@
 # cjx82630/cjxlist - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 126
 
-★ Stars: 1232
+★ Stars: 1233
 
 [Open repository](https://github.com/cjx82630/cjxlist)
 
@@ -13,7 +13,8 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-22 | 1232 | 126 | 
+| 2022-12-23 | 1233 | 126 | 
+| 2022-12-22 | 1233 | 126 | 
 | 2022-12-21 | 1232 | 126 | 
 | 2022-12-20 | 1229 | 126 | 
 | 2022-12-19 | 1229 | 126 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-25 | 1195 | 128 | 
 | 2022-11-24 | 1195 | 128 | 
 | 2022-11-23 | 1195 | 128 | 
-| 2022-11-22 | 1195 | 128 | 
 

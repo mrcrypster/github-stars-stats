@@ -1,6 +1,6 @@
 # mrhm-dev/100-plus-dom-projects - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 66
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 122 | 66 | 
 | 2022-12-21 | 122 | 66 | 
 | 2022-12-20 | 122 | 66 | 
 | 2022-12-19 | 122 | 66 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-26 | 123 | 67 | 
 | 2022-11-25 | 123 | 67 | 
 | 2022-11-24 | 123 | 67 | 
-| 2022-11-22 | 123 | 67 | 
 

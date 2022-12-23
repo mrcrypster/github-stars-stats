@@ -1,10 +1,10 @@
 # archlinux/archinstall - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 307
 
-★ Stars: 4240
+★ Stars: 4242
 
 [Open repository](https://github.com/archlinux/archinstall)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 4242 | 307 | 
 | 2022-12-22 | 4240 | 307 | 
 | 2022-12-20 | 4238 | 306 | 
 | 2022-12-19 | 4237 | 306 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-25 | 4187 | 299 | 
 | 2022-11-24 | 4184 | 300 | 
 | 2022-11-23 | 4181 | 300 | 
-| 2022-11-22 | 4180 | 301 | 
 

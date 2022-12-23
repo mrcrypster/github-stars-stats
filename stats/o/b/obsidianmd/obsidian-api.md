@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 22
 
 ☋ Forks: 122
 
-★ Stars: 981
+★ Stars: 984
 
 [Open repository](https://github.com/obsidianmd/obsidian-api)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-22 | 981 | 122 | 
+| 2022-12-22 | 984 | 122 | 
 | 2022-12-21 | 976 | 122 | 
 

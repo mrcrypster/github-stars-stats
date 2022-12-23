@@ -1,6 +1,6 @@
 # idontgetoutmuch/largeword - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 10 | 10 | 
 | 2022-12-21 | 10 | 10 | 
 | 2022-12-20 | 10 | 10 | 
 | 2022-12-19 | 10 | 10 | 

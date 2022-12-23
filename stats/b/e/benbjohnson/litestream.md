@@ -1,10 +1,10 @@
 # benbjohnson/litestream - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 163
 
-★ Stars: 7806
+★ Stars: 7812
 
 [Open repository](https://github.com/benbjohnson/litestream)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 7812 | 163 | 
 | 2022-12-21 | 7806 | 163 | 
 | 2022-12-20 | 7796 | 164 | 
 | 2022-12-19 | 7793 | 164 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 7704 | 159 | 
 | 2022-11-24 | 7703 | 159 | 
 | 2022-11-23 | 7698 | 158 | 
-| 2022-11-22 | 7696 | 158 | 
 

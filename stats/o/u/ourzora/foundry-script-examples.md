@@ -1,6 +1,6 @@
 # ourzora/foundry-script-examples - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 40 | 3 | 
 | 2022-12-21 | 40 | 3 | 
 | 2022-12-20 | 40 | 3 | 
 | 2022-12-19 | 40 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 40 | 3 | 
 | 2022-11-24 | 40 | 3 | 
 | 2022-11-23 | 40 | 3 | 
-| 2022-11-22 | 40 | 3 | 
 

@@ -1,10 +1,10 @@
 # okp4/networks - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 93
+☋ Forks: 95
 
-★ Stars: 42
+★ Stars: 43
 
 [Open repository](https://github.com/okp4/networks)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 43 | 95 | 
 | 2022-12-21 | 42 | 93 | 
 | 2022-12-20 | 42 | 92 | 
 | 2022-12-19 | 42 | 92 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-26 | 31 | 38 | 
 | 2022-11-24 | 31 | 38 | 
 | 2022-11-23 | 31 | 37 | 
-| 2022-11-22 | 31 | 37 | 
 

@@ -1,10 +1,10 @@
 # zhuifengshaonianhanlu/pikachu - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 612
 
-★ Stars: 2585
+★ Stars: 2587
 
 [Open repository](https://github.com/zhuifengshaonianhanlu/pikachu)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 2587 | 612 | 
 | 2022-12-21 | 2585 | 612 | 
 | 2022-12-20 | 2585 | 612 | 
 | 2022-12-19 | 2585 | 612 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-26 | 2555 | 609 | 
 | 2022-11-25 | 2551 | 607 | 
 | 2022-11-24 | 2550 | 607 | 
-| 2022-11-23 | 2544 | 607 | 
 

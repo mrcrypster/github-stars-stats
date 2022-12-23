@@ -1,8 +1,8 @@
 # jupyter/docker-stacks - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 2810
+☋ Forks: 2813
 
 ★ Stars: 7019
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 7019 | 2813 | 
 | 2022-12-21 | 7019 | 2810 | 
 | 2022-12-20 | 7018 | 2812 | 
 | 2022-12-19 | 7017 | 2812 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 6987 | 2800 | 
 | 2022-11-24 | 6986 | 2800 | 
 | 2022-11-23 | 6985 | 2799 | 
-| 2022-11-22 | 6981 | 2796 | 
 

@@ -1,8 +1,8 @@
 # imapsync/imapsync - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 393
+☋ Forks: 394
 
 ★ Stars: 2650
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 2650 | 394 | 
 | 2022-12-21 | 2650 | 393 | 
 | 2022-12-20 | 2650 | 393 | 
 | 2022-12-19 | 2648 | 393 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 2614 | 390 | 
 | 2022-11-24 | 2614 | 390 | 
 | 2022-11-23 | 2613 | 390 | 
-| 2022-11-22 | 2612 | 390 | 
 

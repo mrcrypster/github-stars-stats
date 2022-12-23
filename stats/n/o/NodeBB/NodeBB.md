@@ -1,10 +1,10 @@
 # NodeBB/NodeBB - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 2643
 
-★ Stars: 13122
+★ Stars: 13125
 
 [Open repository](https://github.com/NodeBB/NodeBB)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 13125 | 2643 | 
 | 2022-12-21 | 13122 | 2643 | 
 | 2022-12-20 | 13120 | 2643 | 
 | 2022-12-19 | 13119 | 2644 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-26 | 13062 | 2635 | 
 | 2022-11-25 | 13059 | 2636 | 
 | 2022-11-24 | 13057 | 2636 | 
-| 2022-11-23 | 13055 | 2635 | 
 

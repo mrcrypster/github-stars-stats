@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 22
 
 ☋ Forks: 802
 
-★ Stars: 3153
+★ Stars: 3154
 
 [Open repository](https://github.com/jrsoftware/issrc)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-22 | 3153 | 802 | 
+| 2022-12-22 | 3154 | 802 | 
 | 2022-12-21 | 3153 | 802 | 
 | 2022-12-20 | 3152 | 802 | 
 | 2022-12-19 | 3150 | 802 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-25 | 3120 | 794 | 
 | 2022-11-24 | 3119 | 794 | 
 | 2022-11-23 | 3118 | 793 | 
-| 2022-11-22 | 3117 | 791 | 
 

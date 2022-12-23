@@ -1,10 +1,10 @@
 # GoogleContainerTools/skaffold - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 1504
+☋ Forks: 1505
 
-★ Stars: 13579
+★ Stars: 13584
 
 [Open repository](https://github.com/GoogleContainerTools/skaffold)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 13584 | 1505 | 
 | 2022-12-21 | 13579 | 1504 | 
 | 2022-12-20 | 13576 | 1503 | 
 | 2022-12-19 | 13573 | 1504 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 13486 | 1488 | 
 | 2022-11-24 | 13484 | 1488 | 
 | 2022-11-23 | 13481 | 1488 | 
-| 2022-11-22 | 13479 | 1488 | 
 

@@ -1,10 +1,10 @@
 # sampotts/plyr - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 2733
 
-★ Stars: 23023
+★ Stars: 23025
 
 [Open repository](https://github.com/sampotts/plyr)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 23025 | 2733 | 
 | 2022-12-21 | 23023 | 2733 | 
 | 2022-12-20 | 23020 | 2733 | 
 | 2022-12-19 | 23020 | 2733 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 22928 | 2728 | 
 | 2022-11-24 | 22925 | 2728 | 
 | 2022-11-23 | 22922 | 2728 | 
-| 2022-11-22 | 22921 | 2726 | 
 

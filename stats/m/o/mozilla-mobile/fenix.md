@@ -1,10 +1,10 @@
 # mozilla-mobile/fenix - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 1273
 
-★ Stars: 6519
+★ Stars: 6527
 
 [Open repository](https://github.com/mozilla-mobile/fenix)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 6527 | 1273 | 
 | 2022-12-21 | 6519 | 1273 | 
 | 2022-12-20 | 6517 | 1273 | 
 | 2022-12-19 | 6515 | 1274 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 6459 | 1263 | 
 | 2022-11-24 | 6459 | 1263 | 
 | 2022-11-23 | 6456 | 1263 | 
-| 2022-11-22 | 6452 | 1263 | 
 

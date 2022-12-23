@@ -1,10 +1,10 @@
 # zfoo-project/godot-start - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 42
 
-★ Stars: 245
+★ Stars: 246
 
 [Open repository](https://github.com/zfoo-project/godot-start)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 246 | 42 | 
 | 2022-12-21 | 245 | 42 | 
 | 2022-12-20 | 245 | 42 | 
 | 2022-12-19 | 245 | 41 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 230 | 41 | 
 | 2022-11-24 | 227 | 41 | 
 | 2022-11-23 | 226 | 40 | 
-| 2022-11-22 | 224 | 39 | 
 

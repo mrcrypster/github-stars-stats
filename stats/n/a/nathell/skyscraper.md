@@ -1,10 +1,10 @@
 # nathell/skyscraper - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 8
 
-★ Stars: 366
+★ Stars: 365
 
 [Open repository](https://github.com/nathell/skyscraper)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 365 | 8 | 
 | 2022-12-22 | 366 | 8 | 
 | 2022-12-20 | 366 | 8 | 
 | 2022-12-19 | 366 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-25 | 364 | 8 | 
 | 2022-11-24 | 364 | 8 | 
 | 2022-11-23 | 364 | 8 | 
-| 2022-11-22 | 363 | 8 | 
 

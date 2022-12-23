@@ -1,10 +1,10 @@
 # davidbombal/red-python-scripts - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 1512
+☋ Forks: 1513
 
-★ Stars: 1677
+★ Stars: 1678
 
 [Open repository](https://github.com/davidbombal/red-python-scripts)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 1678 | 1513 | 
 | 2022-12-21 | 1677 | 1512 | 
 | 2022-12-20 | 1676 | 1512 | 
 | 2022-12-19 | 1676 | 1510 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 1647 | 1487 | 
 | 2022-11-24 | 1647 | 1486 | 
 | 2022-11-23 | 1648 | 1486 | 
-| 2022-11-22 | 1647 | 1484 | 
 

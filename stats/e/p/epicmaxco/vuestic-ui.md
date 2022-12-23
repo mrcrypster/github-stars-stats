@@ -1,10 +1,10 @@
 # epicmaxco/vuestic-ui - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 205
 
-★ Stars: 1968
+★ Stars: 1971
 
 [Open repository](https://github.com/epicmaxco/vuestic-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 1971 | 205 | 
 | 2022-12-21 | 1968 | 205 | 
 | 2022-12-20 | 1966 | 205 | 
 | 2022-12-19 | 1965 | 205 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-26 | 1891 | 203 | 
 | 2022-11-25 | 1889 | 203 | 
 | 2022-11-24 | 1885 | 202 | 
-| 2022-11-23 | 1883 | 202 | 
 

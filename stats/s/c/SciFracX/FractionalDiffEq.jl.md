@@ -1,6 +1,6 @@
 # SciFracX/FractionalDiffEq.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 60 | 4 | 
 | 2022-12-21 | 60 | 4 | 
 | 2022-12-20 | 60 | 4 | 
 | 2022-12-19 | 60 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 58 | 4 | 
 | 2022-11-24 | 58 | 4 | 
 | 2022-11-23 | 58 | 4 | 
-| 2022-11-22 | 58 | 4 | 
 

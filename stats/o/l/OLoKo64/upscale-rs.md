@@ -1,6 +1,6 @@
 # OLoKo64/upscale-rs - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 58 | 1 | 
 | 2022-12-21 | 58 | 1 | 
 | 2022-12-20 | 57 | 1 | 
 | 2022-12-19 | 57 | 1 | 

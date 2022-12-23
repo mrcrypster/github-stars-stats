@@ -1,8 +1,8 @@
 # Skytils/SkytilsMod - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 230
+☋ Forks: 232
 
 ★ Stars: 218
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 218 | 232 | 
 | 2022-12-21 | 218 | 230 | 
 | 2022-12-20 | 218 | 230 | 
 | 2022-12-19 | 218 | 230 | 

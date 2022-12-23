@@ -1,10 +1,10 @@
 # awesome-kusion/rust-code-book - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 8
 
-★ Stars: 187
+★ Stars: 186
 
 [Open repository](https://github.com/awesome-kusion/rust-code-book)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 186 | 8 | 
 | 2022-12-21 | 187 | 8 | 
 | 2022-12-20 | 187 | 8 | 
 | 2022-12-19 | 187 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 187 | 8 | 
 | 2022-11-24 | 187 | 8 | 
 | 2022-11-23 | 187 | 8 | 
-| 2022-11-22 | 187 | 8 | 
 

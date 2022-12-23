@@ -1,10 +1,10 @@
 # monkeyWzr/hugo-theme-cactus - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 297
 
-★ Stars: 448
+★ Stars: 449
 
 [Open repository](https://github.com/monkeyWzr/hugo-theme-cactus)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 449 | 297 | 
 | 2022-12-21 | 448 | 297 | 
 | 2022-12-20 | 447 | 297 | 
 | 2022-12-19 | 447 | 296 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 441 | 293 | 
 | 2022-11-24 | 439 | 292 | 
 | 2022-11-23 | 439 | 292 | 
-| 2022-11-22 | 438 | 293 | 
 

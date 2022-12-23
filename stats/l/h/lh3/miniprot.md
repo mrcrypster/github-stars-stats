@@ -1,10 +1,10 @@
 # lh3/miniprot - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 3
 
-★ Stars: 156
+★ Stars: 157
 
 [Open repository](https://github.com/lh3/miniprot)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 157 | 3 | 
 | 2022-12-21 | 156 | 3 | 
 | 2022-12-20 | 156 | 3 | 
 | 2022-12-19 | 156 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 151 | 3 | 
 | 2022-11-24 | 151 | 3 | 
 | 2022-11-23 | 151 | 3 | 
-| 2022-11-22 | 151 | 3 | 
 

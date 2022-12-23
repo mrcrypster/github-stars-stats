@@ -1,10 +1,10 @@
 # goharbor/harbor - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 4225
+☋ Forks: 4226
 
-★ Stars: 19037
+★ Stars: 19047
 
 [Open repository](https://github.com/goharbor/harbor)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 19047 | 4226 | 
 | 2022-12-21 | 19037 | 4225 | 
 | 2022-12-20 | 19032 | 4225 | 
 | 2022-12-19 | 19023 | 4223 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 18881 | 4214 | 
 | 2022-11-24 | 18873 | 4214 | 
 | 2022-11-23 | 18870 | 4213 | 
-| 2022-11-22 | 18814 | 4213 | 
 

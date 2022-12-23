@@ -1,10 +1,10 @@
 # JuliaPlots/Plots.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 319
 
-★ Stars: 1647
+★ Stars: 1648
 
 [Open repository](https://github.com/JuliaPlots/Plots.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 1648 | 319 | 
 | 2022-12-21 | 1647 | 319 | 
 | 2022-12-20 | 1647 | 319 | 
 | 2022-12-19 | 1648 | 319 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 1634 | 314 | 
 | 2022-11-24 | 1634 | 314 | 
 | 2022-11-23 | 1632 | 314 | 
-| 2022-11-22 | 1633 | 314 | 
 

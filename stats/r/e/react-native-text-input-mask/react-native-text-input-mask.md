@@ -1,8 +1,8 @@
 # react-native-text-input-mask/react-native-text-input-mask - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 283
+☋ Forks: 284
 
 ★ Stars: 1132
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 1132 | 284 | 
 | 2022-12-21 | 1132 | 283 | 
 | 2022-12-20 | 1131 | 283 | 
 | 2022-12-19 | 1131 | 283 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 1126 | 284 | 
 | 2022-11-24 | 1125 | 284 | 
 | 2022-11-23 | 1125 | 284 | 
-| 2022-11-22 | 1124 | 284 | 
 

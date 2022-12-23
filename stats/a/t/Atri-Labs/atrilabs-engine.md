@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 22
 
-☋ Forks: 99
+☋ Forks: 101
 
-★ Stars: 2072
+★ Stars: 2100
 
 [Open repository](https://github.com/Atri-Labs/atrilabs-engine)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-22 | 2072 | 99 | 
+| 2022-12-22 | 2100 | 101 | 
 | 2022-12-21 | 2070 | 99 | 
 | 2022-12-20 | 1913 | 100 | 
 | 2022-12-19 | 1386 | 97 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 878 | 77 | 
 | 2022-11-25 | 845 | 77 | 
 | 2022-11-24 | 797 | 77 | 
-| 2022-11-23 | 756 | 77 | 
 

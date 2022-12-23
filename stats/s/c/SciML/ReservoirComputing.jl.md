@@ -1,6 +1,6 @@
 # SciML/ReservoirComputing.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 158 | 28 | 
 | 2022-12-21 | 158 | 28 | 
 | 2022-12-20 | 158 | 28 | 
 | 2022-12-19 | 158 | 28 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 159 | 28 | 
 | 2022-11-24 | 159 | 28 | 
 | 2022-11-23 | 159 | 28 | 
-| 2022-11-22 | 158 | 28 | 
 

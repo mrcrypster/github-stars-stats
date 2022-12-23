@@ -1,6 +1,6 @@
 # jefflomax/word-writer-6-commodore-64 - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 70 | 3 | 
 | 2022-12-21 | 70 | 3 | 
 | 2022-12-20 | 70 | 3 | 
 | 2022-12-19 | 70 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 69 | 3 | 
 | 2022-11-24 | 69 | 3 | 
 | 2022-11-23 | 69 | 3 | 
-| 2022-11-22 | 69 | 3 | 
 

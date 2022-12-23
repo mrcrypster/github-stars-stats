@@ -1,6 +1,6 @@
 # ScenicFramework/scenic - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 131
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 1812 | 131 | 
 | 2022-12-21 | 1812 | 131 | 
 | 2022-12-20 | 1812 | 131 | 
 | 2022-12-19 | 1812 | 131 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-26 | 1808 | 131 | 
 | 2022-11-25 | 1808 | 131 | 
 | 2022-11-24 | 1808 | 131 | 
-| 2022-11-23 | 1807 | 131 | 
 

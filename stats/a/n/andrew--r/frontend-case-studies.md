@@ -1,10 +1,10 @@
 # andrew--r/frontend-case-studies - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 400
 
-★ Stars: 6832
+★ Stars: 6833
 
 [Open repository](https://github.com/andrew--r/frontend-case-studies)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 6833 | 400 | 
 | 2022-12-21 | 6832 | 400 | 
 | 2022-12-20 | 6832 | 400 | 
 | 2022-12-19 | 6829 | 400 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | 6809 | 396 | 
 | 2022-11-24 | 6807 | 396 | 
 | 2022-11-23 | 6801 | 396 | 
-| 2022-11-22 | 6793 | 396 | 
 

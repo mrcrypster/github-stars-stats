@@ -1,6 +1,6 @@
 # raf-backstage-demo/shared-workflows - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | - | 13 | 
 | 2022-12-21 | - | 13 | 
 | 2022-12-20 | - | 13 | 
 | 2022-12-19 | - | 13 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-25 | - | 8 | 
 | 2022-11-24 | - | 8 | 
 | 2022-11-23 | - | 8 | 
-| 2022-11-22 | - | 8 | 
 

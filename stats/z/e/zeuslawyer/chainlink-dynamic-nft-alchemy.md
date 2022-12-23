@@ -1,8 +1,8 @@
 # zeuslawyer/chainlink-dynamic-nft-alchemy - stars & forks statistics
 
-Stats updated on Dec 2022, 21
+Stats updated on Dec 2022, 22
 
-☋ Forks: 63
+☋ Forks: 62
 
 ★ Stars: 39
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-22 | 39 | 62 | 
 | 2022-12-21 | 39 | 63 | 
 | 2022-12-20 | 40 | 63 | 
 | 2022-12-19 | 40 | 62 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 21
 | 2022-11-26 | 36 | 58 | 
 | 2022-11-25 | 36 | 58 | 
 | 2022-11-24 | 36 | 58 | 
-| 2022-11-23 | 36 | 58 | 
 
