@@ -1,6 +1,6 @@
 # arthurpaulino/lean4-metaprogramming-book - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 68 | 17 | 
 | 2022-12-23 | 68 | 17 | 
 | 2022-12-21 | 68 | 17 | 
 | 2022-12-20 | 68 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-26 | 64 | 17 | 
 | 2022-11-25 | 63 | 17 | 
 | 2022-11-24 | 63 | 17 | 
-| 2022-11-23 | 63 | 17 | 
 

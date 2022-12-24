@@ -1,6 +1,6 @@
 # jesusfv/financial-frictions - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 40
 
@@ -13,5 +13,6 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 58 | 40 | 
 | 2022-12-22 | 58 | 40 | 
 

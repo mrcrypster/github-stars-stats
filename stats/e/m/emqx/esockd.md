@@ -1,6 +1,6 @@
 # emqx/esockd - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 196 | 75 | 
 | 2022-12-22 | 196 | 75 | 
 | 2022-12-21 | 196 | 75 | 
 | 2022-12-20 | 196 | 75 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 195 | 75 | 
 | 2022-11-25 | 195 | 75 | 
 | 2022-11-24 | 195 | 75 | 
-| 2022-11-23 | 195 | 75 | 
 

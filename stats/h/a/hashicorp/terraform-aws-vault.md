@@ -1,6 +1,6 @@
 # hashicorp/terraform-aws-vault - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 459
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 651 | 459 | 
 | 2022-12-23 | 651 | 459 | 
 | 2022-12-21 | 651 | 459 | 
 | 2022-12-20 | 651 | 459 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-26 | 646 | 455 | 
 | 2022-11-25 | 646 | 455 | 
 | 2022-11-24 | 647 | 455 | 
-| 2022-11-23 | 647 | 455 | 
 

@@ -1,6 +1,6 @@
 # bazelbuild/rules_foreign_cc - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 168
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 564 | 168 | 
 | 2022-12-22 | 564 | 168 | 
 | 2022-12-21 | 564 | 168 | 
 | 2022-12-20 | 563 | 168 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 560 | 164 | 
 | 2022-11-25 | 560 | 164 | 
 | 2022-11-24 | 560 | 164 | 
-| 2022-11-23 | 560 | 164 | 
 

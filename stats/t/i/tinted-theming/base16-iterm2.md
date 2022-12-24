@@ -1,6 +1,6 @@
 # tinted-theming/base16-iterm2 - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 181 | 31 | 
 | 2022-12-22 | 181 | 31 | 
 | 2022-12-21 | 181 | 31 | 
 | 2022-12-20 | 181 | 31 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 181 | 31 | 
 | 2022-11-25 | 181 | 31 | 
 | 2022-11-24 | 181 | 31 | 
-| 2022-11-23 | 181 | 31 | 
 

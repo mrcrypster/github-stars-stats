@@ -1,10 +1,10 @@
 # bcc32/advent-of-code - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 0
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/bcc32/advent-of-code)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 5 | - | 
 | 2022-12-22 | 4 | - | 
 | 2022-12-21 | 4 | - | 
 | 2022-12-20 | 4 | - | 

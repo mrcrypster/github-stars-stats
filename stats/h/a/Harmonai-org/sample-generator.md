@@ -1,10 +1,10 @@
 # Harmonai-org/sample-generator - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 84
 
-★ Stars: 614
+★ Stars: 617
 
 [Open repository](https://github.com/Harmonai-org/sample-generator)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 617 | 84 | 
 | 2022-12-23 | 614 | 84 | 
 | 2022-12-22 | 611 | 84 | 
 | 2022-12-20 | 606 | 84 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-26 | 535 | 74 | 
 | 2022-11-25 | 532 | 74 | 
 | 2022-11-24 | 527 | 73 | 
-| 2022-11-23 | 525 | 71 | 
 

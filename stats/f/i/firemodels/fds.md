@@ -1,10 +1,10 @@
 # firemodels/fds - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 468
 
-★ Stars: 445
+★ Stars: 447
 
 [Open repository](https://github.com/firemodels/fds)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 447 | 468 | 
 | 2022-12-22 | 445 | 468 | 
 | 2022-12-21 | 445 | 468 | 
 | 2022-12-20 | 445 | 468 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 445 | 463 | 
 | 2022-11-25 | 444 | 463 | 
 | 2022-11-24 | 444 | 463 | 
-| 2022-11-23 | 444 | 463 | 
 

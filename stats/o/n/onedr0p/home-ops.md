@@ -1,10 +1,10 @@
 # onedr0p/home-ops - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 114
 
-★ Stars: 724
+★ Stars: 728
 
 [Open repository](https://github.com/onedr0p/home-ops)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 728 | 114 | 
+| 2022-12-23 | 726 | 114 | 
 | 2022-12-22 | 724 | 114 | 
 | 2022-12-21 | 723 | 115 | 
 | 2022-12-20 | 722 | 115 | 

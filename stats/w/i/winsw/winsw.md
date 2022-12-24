@@ -1,10 +1,10 @@
 # winsw/winsw - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 1287
 
-★ Stars: 8308
+★ Stars: 8314
 
 [Open repository](https://github.com/winsw/winsw)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 8314 | 1287 | 
 | 2022-12-22 | 8308 | 1287 | 
 | 2022-12-21 | 8304 | 1287 | 
 | 2022-12-20 | 8303 | 1287 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 8185 | 1275 | 
 | 2022-11-25 | 8182 | 1274 | 
 | 2022-11-24 | 8171 | 1270 | 
-| 2022-11-23 | 8165 | 1269 | 
 

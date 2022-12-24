@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 23
 
-☋ Forks: 273
+☋ Forks: 272
 
-★ Stars: 3347
+★ Stars: 3348
 
 [Open repository](https://github.com/rust-lang/rust.vim)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-23 | 3347 | 273 | 
+| 2022-12-23 | 3348 | 272 | 
 | 2022-12-22 | 3347 | 273 | 
 | 2022-12-21 | 3346 | 273 | 
 | 2022-12-20 | 3345 | 272 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-26 | 3312 | 270 | 
 | 2022-11-25 | 3311 | 270 | 
 | 2022-11-24 | 3308 | 270 | 
-| 2022-11-23 | 3308 | 270 | 
 

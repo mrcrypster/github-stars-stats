@@ -1,6 +1,6 @@
 # holbertonschool/_putchar.c - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 276
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 40 | 276 | 
 | 2022-12-22 | 40 | 276 | 
 | 2022-12-21 | 40 | 275 | 
 | 2022-12-20 | 40 | 273 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 36 | 252 | 
 | 2022-11-25 | 36 | 251 | 
 | 2022-11-24 | 36 | 251 | 
-| 2022-11-23 | 36 | 251 | 
 

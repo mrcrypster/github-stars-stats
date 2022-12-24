@@ -1,6 +1,6 @@
 # cookieY/Yearning - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 1857
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 7253 | 1857 | 
 | 2022-12-22 | 7253 | 1857 | 
 | 2022-12-21 | 7254 | 1856 | 
 | 2022-12-20 | 7251 | 1855 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 7193 | 1845 | 
 | 2022-11-25 | 7191 | 1845 | 
 | 2022-11-24 | 7186 | 1844 | 
-| 2022-11-23 | 7164 | 1840 | 
 

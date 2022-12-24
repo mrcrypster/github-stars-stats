@@ -1,6 +1,6 @@
 # OWASP/www-chapter-japan - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 145 | 11 | 
 | 2022-12-22 | 145 | 11 | 
 | 2022-12-21 | 145 | 11 | 
 | 2022-12-20 | 144 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 139 | 12 | 
 | 2022-11-25 | 139 | 12 | 
 | 2022-11-24 | 138 | 12 | 
-| 2022-11-23 | 138 | 12 | 
 

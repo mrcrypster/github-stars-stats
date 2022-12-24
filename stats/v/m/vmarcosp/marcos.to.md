@@ -1,10 +1,10 @@
 # vmarcosp/marcos.to - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 0
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/vmarcosp/marcos.to)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 11 | - | 
 | 2022-12-22 | 10 | - | 
 | 2022-12-21 | 10 | - | 
 | 2022-12-20 | 10 | - | 

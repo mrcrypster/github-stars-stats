@@ -1,6 +1,6 @@
 # benedictpaten/intro_python - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 54 | 62 | 
 | 2022-12-22 | 54 | 62 | 
 | 2022-12-21 | 54 | 62 | 
 | 2022-12-20 | 54 | 62 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 53 | 60 | 
 | 2022-11-25 | 53 | 60 | 
 | 2022-11-24 | 53 | 60 | 
-| 2022-11-23 | 53 | 60 | 
 

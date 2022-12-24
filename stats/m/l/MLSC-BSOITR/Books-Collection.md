@@ -1,10 +1,10 @@
 # MLSC-BSOITR/Books-Collection - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 370
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/MLSC-BSOITR/Books-Collection)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 28 | 370 | 
 | 2022-12-22 | 27 | 370 | 
 | 2022-12-21 | 27 | 370 | 
 | 2022-12-20 | 27 | 370 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 27 | 370 | 
 | 2022-11-25 | 27 | 370 | 
 | 2022-11-24 | 27 | 371 | 
-| 2022-11-23 | 27 | 371 | 
 

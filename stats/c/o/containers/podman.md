@@ -1,10 +1,10 @@
 # containers/podman - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 1740
+☋ Forks: 1742
 
-★ Stars: 16283
+★ Stars: 16292
 
 [Open repository](https://github.com/containers/podman)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 16292 | 1742 | 
 | 2022-12-22 | 16283 | 1740 | 
 | 2022-12-21 | 16279 | 1739 | 
 | 2022-12-20 | 16265 | 1738 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 16027 | 1711 | 
 | 2022-11-25 | 16016 | 1709 | 
 | 2022-11-24 | 16003 | 1709 | 
-| 2022-11-23 | 15994 | 1706 | 
 

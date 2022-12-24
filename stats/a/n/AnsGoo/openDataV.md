@@ -1,6 +1,6 @@
 # AnsGoo/openDataV - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 154 | 31 | 
 | 2022-12-22 | 154 | 31 | 
 | 2022-12-21 | 154 | 31 | 
 | 2022-12-20 | 154 | 31 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 133 | 28 | 
 | 2022-11-25 | 132 | 28 | 
 | 2022-11-24 | 131 | 27 | 
-| 2022-11-23 | 131 | 27 | 
 

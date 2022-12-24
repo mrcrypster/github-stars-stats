@@ -1,10 +1,10 @@
 # erkal/kite - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 22
 
-★ Stars: 502
+★ Stars: 503
 
 [Open repository](https://github.com/erkal/kite)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 503 | 22 | 
 | 2022-12-22 | 502 | 22 | 
 | 2022-12-21 | 502 | 22 | 
 | 2022-12-20 | 502 | 22 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 501 | 22 | 
 | 2022-11-25 | 501 | 22 | 
 | 2022-11-24 | 501 | 22 | 
-| 2022-11-23 | 501 | 22 | 
 

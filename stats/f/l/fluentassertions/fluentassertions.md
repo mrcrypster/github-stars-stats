@@ -1,6 +1,6 @@
 # fluentassertions/fluentassertions - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 482
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 3054 | 482 | 
 | 2022-12-22 | 3054 | 482 | 
 | 2022-12-21 | 3053 | 483 | 
 | 2022-12-20 | 3053 | 483 | 

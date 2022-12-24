@@ -1,6 +1,6 @@
 # deeplyinc/Parent-Child-Vocal-Interaction-Dataset - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 10 | - | 
 | 2022-12-23 | 10 | - | 
 | 2022-12-22 | 10 | - | 
 | 2022-12-20 | 10 | - | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-26 | 11 | - | 
 | 2022-11-25 | 11 | - | 
 | 2022-11-24 | 11 | - | 
-| 2022-11-23 | 10 | - | 
 

@@ -1,10 +1,10 @@
 # obsidiansystems/obelisk - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 94
 
-★ Stars: 798
+★ Stars: 799
 
 [Open repository](https://github.com/obsidiansystems/obelisk)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 799 | 94 | 
+| 2022-12-23 | 799 | 94 | 
 | 2022-12-22 | 798 | 94 | 
 | 2022-12-21 | 798 | 94 | 
 | 2022-12-20 | 798 | 94 | 
@@ -40,5 +42,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 776 | 91 | 
 | 2022-11-25 | 775 | 91 | 
 | 2022-11-24 | 776 | 91 | 
-| 2022-11-23 | 776 | 91 | 
 

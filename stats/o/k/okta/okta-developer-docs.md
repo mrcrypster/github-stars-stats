@@ -1,10 +1,10 @@
 # okta/okta-developer-docs - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 477
 
-★ Stars: 97
+★ Stars: 98
 
 [Open repository](https://github.com/okta/okta-developer-docs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 98 | 477 | 
 | 2022-12-22 | 97 | 477 | 
 | 2022-12-21 | 97 | 477 | 
 | 2022-12-20 | 97 | 475 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 95 | 466 | 
 | 2022-11-25 | 95 | 465 | 
 | 2022-11-24 | 95 | 465 | 
-| 2022-11-23 | 95 | 464 | 
 

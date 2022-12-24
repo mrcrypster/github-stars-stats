@@ -1,6 +1,6 @@
 # onplus/v2hero - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 1237
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 480 | 1237 | 
 | 2022-12-23 | 480 | 1237 | 
 | 2022-12-21 | 480 | 1237 | 
 | 2022-12-20 | 480 | 1238 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 482 | 1239 | 
 | 2022-11-26 | 482 | 1239 | 
 | 2022-11-25 | 481 | 1239 | 
-| 2022-11-23 | 481 | 1239 | 
 

@@ -1,10 +1,10 @@
 # Azure-Samples/azure-digital-twins-getting-started - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 17
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/Azure-Samples/azure-digital-twins-getting-started)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 16 | 17 | 
 | 2022-12-22 | 15 | 17 | 
 | 2022-12-21 | 15 | 17 | 
 | 2022-12-20 | 15 | 17 | 

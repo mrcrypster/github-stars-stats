@@ -1,10 +1,10 @@
 # imandra-ai/ocaml-opentelemetry - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 2
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/imandra-ai/ocaml-opentelemetry)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 23 | 2 | 
 | 2022-12-22 | 22 | 2 | 
 | 2022-12-21 | 22 | 2 | 
 | 2022-12-20 | 22 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 21 | 2 | 
 | 2022-11-25 | 21 | 2 | 
 | 2022-11-24 | 21 | 2 | 
-| 2022-11-23 | 21 | 2 | 
 

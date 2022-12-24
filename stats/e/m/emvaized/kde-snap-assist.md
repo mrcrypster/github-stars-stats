@@ -1,6 +1,6 @@
 # emvaized/kde-snap-assist - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 65 | 3 | 
 | 2022-12-22 | 65 | 3 | 
 | 2022-12-21 | 65 | 3 | 
 | 2022-12-20 | 65 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 64 | 3 | 
 | 2022-11-25 | 64 | 3 | 
 | 2022-11-24 | 64 | 3 | 
-| 2022-11-23 | 64 | 3 | 
 

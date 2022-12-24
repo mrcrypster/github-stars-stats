@@ -1,8 +1,8 @@
 # cf-pages/Telegraph-Image - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 701
+☋ Forks: 703
 
 ★ Stars: 515
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 515 | 703 | 
 | 2022-12-22 | 515 | 701 | 
 | 2022-12-21 | 513 | 700 | 
 | 2022-12-20 | 509 | 697 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 453 | 624 | 
 | 2022-11-25 | 450 | 624 | 
 | 2022-11-24 | 449 | 623 | 
-| 2022-11-23 | 445 | 620 | 
 

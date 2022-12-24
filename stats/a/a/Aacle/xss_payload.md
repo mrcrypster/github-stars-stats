@@ -1,10 +1,10 @@
 # Aacle/xss_payload - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 31
 
-★ Stars: 132
+★ Stars: 134
 
 [Open repository](https://github.com/Aacle/xss_payload)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 134 | 31 | 
 | 2022-12-22 | 132 | 31 | 
 | 2022-12-21 | 132 | 30 | 
 | 2022-12-20 | 128 | 29 | 

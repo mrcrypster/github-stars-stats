@@ -1,10 +1,10 @@
 # awslabs/aws-lambda-powertools-python - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 236
+☋ Forks: 235
 
-★ Stars: 1833
+★ Stars: 1836
 
 [Open repository](https://github.com/awslabs/aws-lambda-powertools-python)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 1836 | 235 | 
 | 2022-12-22 | 1833 | 236 | 
 | 2022-12-21 | 1828 | 235 | 
 | 2022-12-20 | 1826 | 235 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-27 | 1775 | 230 | 
 | 2022-11-26 | 1774 | 230 | 
 | 2022-11-25 | 1772 | 230 | 
-| 2022-11-24 | 1771 | 230 | 
 

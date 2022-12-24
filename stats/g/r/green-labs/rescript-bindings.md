@@ -1,10 +1,10 @@
 # green-labs/rescript-bindings - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 1
 
-★ Stars: 37
+★ Stars: 38
 
 [Open repository](https://github.com/green-labs/rescript-bindings)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 38 | 1 | 
 | 2022-12-22 | 37 | 1 | 
 | 2022-12-21 | 37 | 1 | 
 | 2022-12-20 | 36 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 34 | - | 
 | 2022-11-25 | 34 | - | 
 | 2022-11-24 | 34 | - | 
-| 2022-11-23 | 34 | - | 
 

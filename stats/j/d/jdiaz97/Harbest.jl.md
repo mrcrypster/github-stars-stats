@@ -1,6 +1,6 @@
 # jdiaz97/Harbest.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 0
 
@@ -13,5 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 16 | - | 
+| 2022-12-23 | 16 | - | 
 | 2022-12-22 | 16 | - | 
 

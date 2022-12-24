@@ -1,6 +1,6 @@
 # levinyi/R_stuff - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 4 | 39 | 
 | 2022-12-22 | 4 | 39 | 
 | 2022-12-21 | 4 | 39 | 
 | 2022-12-20 | 4 | 38 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 4 | 38 | 
 | 2022-11-25 | 4 | 38 | 
 | 2022-11-24 | 4 | 38 | 
-| 2022-11-23 | 4 | 38 | 
 

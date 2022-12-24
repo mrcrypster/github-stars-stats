@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 23
 
-☋ Forks: 7
+☋ Forks: 8
 
-★ Stars: 55
+★ Stars: 58
 
 [Open repository](https://github.com/fireship-io/pocketchat-tutorial)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-23 | 55 | 7 | 
+| 2022-12-23 | 58 | 8 | 
 | 2022-12-22 | 54 | 7 | 
 | 2022-12-21 | 47 | 5 | 
 

@@ -1,10 +1,10 @@
 # gogs/gogs - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 4667
+☋ Forks: 4668
 
-★ Stars: 41368
+★ Stars: 41371
 
 [Open repository](https://github.com/gogs/gogs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 41371 | 4668 | 
 | 2022-12-22 | 41368 | 4667 | 
 | 2022-12-21 | 41364 | 4669 | 
 | 2022-12-20 | 41357 | 4669 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 41261 | 4655 | 
 | 2022-11-25 | 41258 | 4654 | 
 | 2022-11-24 | 41255 | 4654 | 
-| 2022-11-23 | 41248 | 4654 | 
 

@@ -1,10 +1,10 @@
 # boostchicken-dev/udm-utilities - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 373
 
-★ Stars: 2963
+★ Stars: 2966
 
 [Open repository](https://github.com/boostchicken-dev/udm-utilities)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 2966 | 373 | 
 | 2022-12-22 | 2963 | 373 | 
 | 2022-12-21 | 2958 | 373 | 
 | 2022-12-20 | 2955 | 373 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 2886 | 357 | 
 | 2022-11-25 | 2882 | 359 | 
 | 2022-11-24 | 2877 | 359 | 
-| 2022-11-23 | 2875 | 359 | 
 

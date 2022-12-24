@@ -1,10 +1,10 @@
 # code-423n4/2022-10-inverse - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 9
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/code-423n4/2022-10-inverse)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 5 | 9 | 
 | 2022-12-22 | 4 | 9 | 
 | 2022-12-21 | 4 | 9 | 
 | 2022-12-20 | 4 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-27 | 4 | 9 | 
 | 2022-11-25 | 4 | 9 | 
 | 2022-11-24 | 4 | 9 | 
-| 2022-11-23 | 4 | 9 | 
 

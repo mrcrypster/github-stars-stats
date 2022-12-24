@@ -1,6 +1,6 @@
 # angjelkom/flutter_netflix - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 53 | 15 | 
 | 2022-12-22 | 53 | 15 | 
 | 2022-12-21 | 53 | 15 | 
 | 2022-12-20 | 53 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 50 | 14 | 
 | 2022-11-25 | 48 | 13 | 
 | 2022-11-24 | 47 | 13 | 
-| 2022-11-23 | 47 | 13 | 
 

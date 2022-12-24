@@ -1,6 +1,6 @@
 # NMTuan/ezBookmarks - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 12 | 3 | 
 | 2022-12-23 | 12 | 3 | 
 | 2022-12-22 | 12 | 3 | 
 | 2022-12-21 | 12 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-26 | 12 | 3 | 
 | 2022-11-25 | 12 | 3 | 
 | 2022-11-24 | 12 | 3 | 
-| 2022-11-23 | 12 | 3 | 
 

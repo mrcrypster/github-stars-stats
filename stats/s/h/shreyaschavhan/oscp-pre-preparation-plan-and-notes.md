@@ -1,6 +1,6 @@
 # shreyaschavhan/oscp-pre-preparation-plan-and-notes - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 76
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 386 | 76 | 
 | 2022-12-22 | 386 | 76 | 
 | 2022-12-21 | 385 | 76 | 
 | 2022-12-20 | 385 | 76 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 375 | 72 | 
 | 2022-11-25 | 375 | 72 | 
 | 2022-11-24 | 375 | 72 | 
-| 2022-11-23 | 374 | 71 | 
 

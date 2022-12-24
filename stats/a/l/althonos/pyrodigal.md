@@ -1,6 +1,6 @@
 # althonos/pyrodigal - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 79 | 1 | 
 | 2022-12-22 | 79 | 1 | 
 | 2022-12-21 | 79 | 1 | 
 | 2022-12-20 | 78 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 58 | 1 | 
 | 2022-11-25 | 58 | 1 | 
 | 2022-11-24 | 57 | 1 | 
-| 2022-11-23 | 57 | 1 | 
 

@@ -1,6 +1,6 @@
 # comsec-group/retbleed - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 107 | 13 | 
 | 2022-12-22 | 107 | 13 | 
 | 2022-12-21 | 106 | 13 | 
 | 2022-12-20 | 106 | 13 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 105 | 13 | 
 | 2022-11-25 | 105 | 13 | 
 | 2022-11-24 | 105 | 13 | 
-| 2022-11-23 | 105 | 13 | 
 

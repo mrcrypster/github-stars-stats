@@ -1,10 +1,10 @@
 # tarides/ocaml-platform-installer - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 9
 
-★ Stars: 41
+★ Stars: 42
 
 [Open repository](https://github.com/tarides/ocaml-platform-installer)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 42 | 9 | 
 | 2022-12-22 | 41 | 9 | 
 | 2022-12-21 | 41 | 9 | 
 | 2022-12-20 | 41 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 41 | 9 | 
 | 2022-11-25 | 41 | 9 | 
 | 2022-11-24 | 41 | 9 | 
-| 2022-11-23 | 41 | 9 | 
 

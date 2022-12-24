@@ -1,6 +1,6 @@
 # C-ollins/crabada - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 130 | 36 | 
 | 2022-12-22 | 130 | 36 | 
 | 2022-12-21 | 130 | 36 | 
 | 2022-12-20 | 130 | 36 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 130 | 36 | 
 | 2022-11-25 | 130 | 36 | 
 | 2022-11-24 | 130 | 36 | 
-| 2022-11-23 | 130 | 36 | 
 

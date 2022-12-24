@@ -1,10 +1,10 @@
 # srcery-colors/srcery-vim - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 61
 
-★ Stars: 729
+★ Stars: 730
 
 [Open repository](https://github.com/srcery-colors/srcery-vim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 730 | 61 | 
 | 2022-12-22 | 729 | 61 | 
 | 2022-12-21 | 729 | 61 | 
 | 2022-12-20 | 728 | 61 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 716 | 61 | 
 | 2022-11-25 | 717 | 61 | 
 | 2022-11-24 | 717 | 60 | 
-| 2022-11-23 | 717 | 60 | 
 

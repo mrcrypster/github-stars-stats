@@ -1,8 +1,8 @@
 # tpn/pdfs - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 1091
+☋ Forks: 1092
 
 ★ Stars: 5874
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 5874 | 1092 | 
 | 2022-12-22 | 5874 | 1091 | 
 | 2022-12-21 | 5874 | 1091 | 
 | 2022-12-20 | 5871 | 1090 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-27 | 5847 | 1085 | 
 | 2022-11-26 | 5844 | 1085 | 
 | 2022-11-24 | 5843 | 1085 | 
-| 2022-11-23 | 5842 | 1085 | 
 

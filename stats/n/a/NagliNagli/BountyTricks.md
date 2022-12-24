@@ -1,10 +1,10 @@
 # NagliNagli/BountyTricks - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 114
+☋ Forks: 115
 
-★ Stars: 632
+★ Stars: 633
 
 [Open repository](https://github.com/NagliNagli/BountyTricks)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 633 | 115 | 
 | 2022-12-22 | 632 | 114 | 
 | 2022-12-21 | 632 | 114 | 
 | 2022-12-20 | 632 | 114 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 622 | 112 | 
 | 2022-11-25 | 622 | 112 | 
 | 2022-11-24 | 622 | 112 | 
-| 2022-11-23 | 622 | 112 | 
 

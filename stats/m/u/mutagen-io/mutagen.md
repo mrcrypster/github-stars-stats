@@ -1,10 +1,10 @@
 # mutagen-io/mutagen - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 129
+☋ Forks: 130
 
-★ Stars: 2892
+★ Stars: 2897
 
 [Open repository](https://github.com/mutagen-io/mutagen)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 2897 | 130 | 
 | 2022-12-22 | 2892 | 129 | 
 | 2022-12-21 | 2892 | 129 | 
 | 2022-12-20 | 2886 | 129 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 2855 | 129 | 
 | 2022-11-25 | 2854 | 129 | 
 | 2022-11-24 | 2853 | 129 | 
-| 2022-11-23 | 2849 | 129 | 
 

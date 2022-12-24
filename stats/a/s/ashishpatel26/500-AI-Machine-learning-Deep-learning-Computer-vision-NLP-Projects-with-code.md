@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 23
 
-☋ Forks: 3372
+☋ Forks: 3374
 
-★ Stars: 11161
+★ Stars: 11169
 
 [Open repository](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-23 | 11161 | 3372 | 
+| 2022-12-23 | 11169 | 3374 | 
 | 2022-12-22 | 11158 | 3371 | 
 | 2022-12-21 | 11105 | 3357 | 
 | 2022-12-20 | 11096 | 3356 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-26 | 10918 | 3314 | 
 | 2022-11-25 | 10902 | 3306 | 
 | 2022-11-24 | 10885 | 3297 | 
-| 2022-11-23 | 10871 | 3291 | 
 

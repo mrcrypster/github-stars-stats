@@ -1,8 +1,8 @@
 # spring-cloud/spring-cloud-kubernetes - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 972
+☋ Forks: 973
 
 ★ Stars: 3199
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 3199 | 973 | 
 | 2022-12-22 | 3199 | 972 | 
 | 2022-12-21 | 3199 | 971 | 
 | 2022-12-20 | 3198 | 971 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-27 | 3187 | 963 | 
 | 2022-11-26 | 3186 | 963 | 
 | 2022-11-25 | 3186 | 962 | 
-| 2022-11-24 | 3185 | 960 | 
 

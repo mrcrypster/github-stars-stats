@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 23
 
 ☋ Forks: 1
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/kbosompem/bb-excel)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-23 | 20 | 1 | 
+| 2022-12-23 | 21 | 1 | 
 | 2022-12-22 | 20 | 1 | 
 

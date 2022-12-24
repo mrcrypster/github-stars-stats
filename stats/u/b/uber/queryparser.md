@@ -1,8 +1,8 @@
 # uber/queryparser - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 140
+☋ Forks: 141
 
 ★ Stars: 1046
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 1046 | 141 | 
 | 2022-12-22 | 1046 | 140 | 
 | 2022-12-21 | 1045 | 140 | 
 | 2022-12-20 | 1045 | 140 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 1043 | 141 | 
 | 2022-11-25 | 1043 | 141 | 
 | 2022-11-24 | 1043 | 141 | 
-| 2022-11-23 | 1043 | 141 | 
 

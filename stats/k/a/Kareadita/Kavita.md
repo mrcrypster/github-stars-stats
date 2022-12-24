@@ -1,10 +1,10 @@
 # Kareadita/Kavita - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 110
 
-★ Stars: 1936
+★ Stars: 1940
 
 [Open repository](https://github.com/Kareadita/Kavita)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 1940 | 110 | 
 | 2022-12-22 | 1936 | 110 | 
 | 2022-12-21 | 1932 | 110 | 
 | 2022-12-20 | 1929 | 110 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 1828 | 99 | 
 | 2022-11-25 | 1824 | 98 | 
 | 2022-11-24 | 1820 | 97 | 
-| 2022-11-23 | 1819 | 96 | 
 

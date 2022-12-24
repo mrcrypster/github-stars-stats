@@ -1,6 +1,6 @@
 # cormiertyshawn895/Retroactive - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 97
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 1599 | 97 | 
 | 2022-12-22 | 1599 | 97 | 
 | 2022-12-21 | 1597 | 97 | 
 | 2022-12-20 | 1596 | 97 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 1572 | 97 | 
 | 2022-11-25 | 1572 | 97 | 
 | 2022-11-24 | 1572 | 96 | 
-| 2022-11-23 | 1572 | 96 | 
 

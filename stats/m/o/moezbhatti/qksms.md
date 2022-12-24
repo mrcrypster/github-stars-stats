@@ -1,6 +1,6 @@
 # moezbhatti/qksms - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 1040
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 3920 | 1040 | 
 | 2022-12-22 | 3920 | 1040 | 
 | 2022-12-21 | 3920 | 1040 | 
 | 2022-12-20 | 3918 | 1040 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 3890 | 1035 | 
 | 2022-11-25 | 3888 | 1035 | 
 | 2022-11-24 | 3888 | 1034 | 
-| 2022-11-23 | 3883 | 1033 | 
 

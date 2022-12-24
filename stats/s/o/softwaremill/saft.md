@@ -1,6 +1,6 @@
 # softwaremill/saft - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 31 | - | 
 | 2022-12-23 | 31 | - | 
 | 2022-12-22 | 31 | - | 
 | 2022-12-21 | 31 | - | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-26 | 30 | - | 
 | 2022-11-25 | 30 | - | 
 | 2022-11-24 | 30 | - | 
-| 2022-11-23 | 30 | - | 
 

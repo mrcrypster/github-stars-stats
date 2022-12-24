@@ -1,10 +1,10 @@
 # BretFisher/nodejs-rocks-in-docker - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 74
 
-★ Stars: 378
+★ Stars: 379
 
 [Open repository](https://github.com/BretFisher/nodejs-rocks-in-docker)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 379 | 74 | 
 | 2022-12-22 | 378 | 74 | 
 | 2022-12-21 | 378 | 74 | 
 | 2022-12-20 | 378 | 73 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 371 | 70 | 
 | 2022-11-25 | 371 | 70 | 
 | 2022-11-24 | 371 | 70 | 
-| 2022-11-23 | 371 | 70 | 
 

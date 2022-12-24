@@ -1,10 +1,10 @@
 # SimpleMobileTools/Simple-Calendar - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 1036
 
-★ Stars: 3035
+★ Stars: 3036
 
 [Open repository](https://github.com/SimpleMobileTools/Simple-Calendar)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 3036 | 1036 | 
 | 2022-12-22 | 3035 | 1036 | 
 | 2022-12-21 | 3034 | 1036 | 
 | 2022-12-20 | 3032 | 1036 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 3012 | 1033 | 
 | 2022-11-25 | 3011 | 1032 | 
 | 2022-11-24 | 3009 | 1032 | 
-| 2022-11-23 | 3009 | 1031 | 
 

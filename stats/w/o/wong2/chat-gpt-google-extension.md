@@ -1,10 +1,10 @@
 # wong2/chat-gpt-google-extension - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 411
+☋ Forks: 419
 
-★ Stars: 7088
+★ Stars: 7146
 
 [Open repository](https://github.com/wong2/chat-gpt-google-extension)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 7146 | 419 | 
 | 2022-12-22 | 7088 | 411 | 
 | 2022-12-21 | 7034 | 406 | 
 | 2022-12-20 | 6953 | 396 | 

@@ -1,8 +1,8 @@
 # coreui/coreui-free-bootstrap-admin-template - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 3040
+☋ Forks: 3039
 
 ★ Stars: 11473
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 11473 | 3039 | 
 | 2022-12-22 | 11473 | 3040 | 
 | 2022-12-21 | 11473 | 3040 | 
 | 2022-12-20 | 11473 | 3040 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-27 | 11451 | 3028 | 
 | 2022-11-26 | 11451 | 3028 | 
 | 2022-11-24 | 11451 | 3028 | 
-| 2022-11-23 | 11452 | 3028 | 
 

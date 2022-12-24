@@ -1,10 +1,10 @@
 # marlonrichert/zsh-autocomplete - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 86
 
-★ Stars: 2742
+★ Stars: 2748
 
 [Open repository](https://github.com/marlonrichert/zsh-autocomplete)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 2748 | 86 | 
 | 2022-12-22 | 2742 | 86 | 
 | 2022-12-21 | 2737 | 86 | 
 | 2022-12-20 | 2736 | 85 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 2658 | 81 | 
 | 2022-11-25 | 2655 | 80 | 
 | 2022-11-24 | 2645 | 80 | 
-| 2022-11-23 | 2640 | 79 | 
 

@@ -1,10 +1,10 @@
 # lenstube-xyz/lenstube - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 129
 
-★ Stars: 2267
+★ Stars: 2278
 
 [Open repository](https://github.com/lenstube-xyz/lenstube)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 2278 | 129 | 
 | 2022-12-22 | 2267 | 129 | 
 | 2022-12-21 | 2260 | 128 | 
 | 2022-12-20 | 2265 | 128 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 1999 | 113 | 
 | 2022-11-25 | 1983 | 113 | 
 | 2022-11-24 | 1970 | 112 | 
-| 2022-11-23 | 1952 | 112 | 
 

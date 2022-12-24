@@ -1,6 +1,6 @@
 # Vectorized/closedsea - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 94 | 10 | 
 | 2022-12-23 | 94 | 10 | 
 | 2022-12-21 | 93 | 9 | 
 | 2022-12-20 | 93 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-26 | 61 | 7 | 
 | 2022-11-25 | 60 | 6 | 
 | 2022-11-24 | 59 | 6 | 
-| 2022-11-23 | 57 | 5 | 
 

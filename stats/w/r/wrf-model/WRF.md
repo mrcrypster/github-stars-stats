@@ -1,6 +1,6 @@
 # wrf-model/WRF - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 531
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 887 | 531 | 
+| 2022-12-23 | 887 | 531 | 
 | 2022-12-22 | 887 | 531 | 
 | 2022-12-21 | 886 | 531 | 
 | 2022-12-20 | 886 | 531 | 
@@ -41,5 +43,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 874 | 530 | 
 | 2022-11-25 | 873 | 531 | 
 | 2022-11-24 | 873 | 531 | 
-| 2022-11-23 | 873 | 530 | 
 

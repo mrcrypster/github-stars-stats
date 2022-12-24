@@ -1,6 +1,6 @@
 # borkdude/quickdoc - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 107 | 5 | 
 | 2022-12-22 | 107 | 5 | 
 | 2022-12-21 | 107 | 5 | 
 | 2022-12-20 | 107 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 107 | 5 | 
 | 2022-11-25 | 107 | 5 | 
 | 2022-11-24 | 106 | 5 | 
-| 2022-11-23 | 106 | 5 | 
 

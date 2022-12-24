@@ -1,10 +1,10 @@
 # delikely/DVVA - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 3
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/delikely/DVVA)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 29 | 3 | 
 | 2022-12-22 | 28 | 3 | 
 | 2022-12-21 | 28 | 3 | 
 | 2022-12-20 | 28 | 3 | 

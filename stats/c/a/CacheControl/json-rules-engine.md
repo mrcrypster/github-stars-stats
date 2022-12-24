@@ -1,6 +1,6 @@
 # CacheControl/json-rules-engine - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 378
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 1906 | 378 | 
 | 2022-12-22 | 1906 | 378 | 
 | 2022-12-21 | 1905 | 377 | 
 | 2022-12-20 | 1905 | 377 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 1884 | 371 | 
 | 2022-11-25 | 1884 | 371 | 
 | 2022-11-24 | 1883 | 371 | 
-| 2022-11-23 | 1882 | 370 | 
 

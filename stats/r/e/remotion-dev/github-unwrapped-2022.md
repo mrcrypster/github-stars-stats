@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 23
 
-☋ Forks: 35
+☋ Forks: 39
 
-★ Stars: 633
+★ Stars: 698
 
 [Open repository](https://github.com/remotion-dev/github-unwrapped-2022)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-23 | 633 | 35 | 
+| 2022-12-23 | 698 | 39 | 
 | 2022-12-22 | 618 | 34 | 
 | 2022-12-21 | 525 | 29 | 
 

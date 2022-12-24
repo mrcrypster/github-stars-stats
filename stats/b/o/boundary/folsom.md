@@ -1,6 +1,6 @@
 # boundary/folsom - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 162
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 587 | 162 | 
+| 2022-12-23 | 587 | 162 | 
 | 2022-12-22 | 587 | 162 | 
 | 2022-12-21 | 588 | 162 | 
 | 2022-12-20 | 588 | 162 | 
@@ -40,5 +42,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 589 | 162 | 
 | 2022-11-25 | 589 | 162 | 
 | 2022-11-24 | 588 | 162 | 
-| 2022-11-23 | 588 | 162 | 
 

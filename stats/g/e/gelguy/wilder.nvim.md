@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 23
 
 ☋ Forks: 14
 
-★ Stars: 873
+★ Stars: 876
 
 [Open repository](https://github.com/gelguy/wilder.nvim)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-23 | 873 | 14 | 
+| 2022-12-23 | 876 | 14 | 
 | 2022-12-22 | 873 | 14 | 
 | 2022-12-21 | 866 | 13 | 
 | 2022-12-20 | 864 | 13 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 845 | 12 | 
 | 2022-11-26 | 845 | 12 | 
 | 2022-11-25 | 844 | 12 | 
-| 2022-11-24 | 844 | 12 | 
 

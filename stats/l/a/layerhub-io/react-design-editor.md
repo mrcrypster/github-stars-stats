@@ -1,6 +1,6 @@
 # layerhub-io/react-design-editor - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 170
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 1434 | 170 | 
 | 2022-12-22 | 1434 | 170 | 
 | 2022-12-21 | 1430 | 170 | 
 | 2022-12-20 | 1428 | 169 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 1324 | 151 | 
 | 2022-11-25 | 1301 | 147 | 
 | 2022-11-24 | 1166 | 139 | 
-| 2022-11-23 | 1164 | 138 | 
 

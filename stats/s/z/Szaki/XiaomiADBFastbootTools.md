@@ -1,6 +1,6 @@
 # Szaki/XiaomiADBFastbootTools - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 395
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 3290 | 395 | 
 | 2022-12-22 | 3290 | 395 | 
 | 2022-12-21 | 3288 | 395 | 
 | 2022-12-20 | 3287 | 395 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 3255 | 390 | 
 | 2022-11-25 | 3254 | 390 | 
 | 2022-11-24 | 3253 | 389 | 
-| 2022-11-23 | 3252 | 389 | 
 

@@ -1,10 +1,10 @@
 # youshandefeiyang/IPTV - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 160
+☋ Forks: 163
 
-★ Stars: 981
+★ Stars: 985
 
 [Open repository](https://github.com/youshandefeiyang/IPTV)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 985 | 163 | 
 | 2022-12-22 | 981 | 160 | 
 | 2022-12-21 | 975 | 159 | 
 | 2022-12-20 | 963 | 158 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 439 | 61 | 
 | 2022-11-25 | 345 | 49 | 
 | 2022-11-24 | 244 | 39 | 
-| 2022-11-23 | 156 | 28 | 
 

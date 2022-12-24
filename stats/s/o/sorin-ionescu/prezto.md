@@ -1,10 +1,10 @@
 # sorin-ionescu/prezto - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 4485
+☋ Forks: 4483
 
-★ Stars: 13160
+★ Stars: 13161
 
 [Open repository](https://github.com/sorin-ionescu/prezto)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 13161 | 4483 | 
 | 2022-12-22 | 13160 | 4485 | 
 | 2022-12-21 | 13161 | 4485 | 
 | 2022-12-20 | 13156 | 4487 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 13125 | 4487 | 
 | 2022-11-25 | 13120 | 4486 | 
 | 2022-11-24 | 13119 | 4485 | 
-| 2022-11-23 | 13112 | 4485 | 
 

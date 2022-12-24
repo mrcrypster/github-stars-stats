@@ -1,10 +1,10 @@
 # krzemienski/awesome-video - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 123
+☋ Forks: 124
 
-★ Stars: 1076
+★ Stars: 1078
 
 [Open repository](https://github.com/krzemienski/awesome-video)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 1078 | 124 | 
 | 2022-12-22 | 1076 | 123 | 
 | 2022-12-21 | 1076 | 123 | 
 | 2022-12-20 | 1075 | 123 | 

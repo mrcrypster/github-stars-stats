@@ -1,6 +1,6 @@
 # joey711/phyloseq - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 176
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 470 | 176 | 
 | 2022-12-22 | 470 | 176 | 
 | 2022-12-21 | 470 | 176 | 
 | 2022-12-20 | 470 | 176 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 468 | 176 | 
 | 2022-11-25 | 468 | 176 | 
 | 2022-11-24 | 467 | 175 | 
-| 2022-11-23 | 467 | 175 | 
 

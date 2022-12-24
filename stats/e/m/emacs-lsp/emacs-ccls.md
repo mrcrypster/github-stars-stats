@@ -1,8 +1,8 @@
 # emacs-lsp/emacs-ccls - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 24
 
-☋ Forks: 27
+☋ Forks: 28
 
 ★ Stars: 184
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 184 | 28 | 
 | 2022-12-22 | 184 | 27 | 
 | 2022-12-21 | 184 | 27 | 
 | 2022-12-20 | 184 | 27 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 185 | 26 | 
 | 2022-11-25 | 185 | 26 | 
 | 2022-11-24 | 185 | 26 | 
-| 2022-11-23 | 185 | 26 | 
 

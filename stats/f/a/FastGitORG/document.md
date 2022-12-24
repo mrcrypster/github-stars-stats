@@ -1,6 +1,6 @@
 # FastGitORG/document - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 250 | 23 | 
 | 2022-12-22 | 250 | 23 | 
 | 2022-12-21 | 249 | 23 | 
 | 2022-12-20 | 248 | 23 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 244 | 23 | 
 | 2022-11-25 | 244 | 23 | 
 | 2022-11-24 | 244 | 23 | 
-| 2022-11-23 | 244 | 23 | 
 

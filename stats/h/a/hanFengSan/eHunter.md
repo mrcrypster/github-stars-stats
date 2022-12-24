@@ -1,6 +1,6 @@
 # hanFengSan/eHunter - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 696 | 42 | 
 | 2022-12-23 | 696 | 42 | 
 | 2022-12-22 | 696 | 42 | 
 | 2022-12-21 | 696 | 42 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-26 | 682 | 43 | 
 | 2022-11-25 | 681 | 43 | 
 | 2022-11-24 | 681 | 43 | 
-| 2022-11-23 | 679 | 43 | 
 

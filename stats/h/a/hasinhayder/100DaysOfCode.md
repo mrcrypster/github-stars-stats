@@ -1,6 +1,6 @@
 # hasinhayder/100DaysOfCode - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 35 | 7 | 
 | 2022-12-22 | 35 | 7 | 
 | 2022-12-21 | 35 | 7 | 
 | 2022-12-20 | 35 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 35 | 7 | 
 | 2022-11-25 | 35 | 7 | 
 | 2022-11-24 | 35 | 7 | 
-| 2022-11-23 | 35 | 7 | 
 

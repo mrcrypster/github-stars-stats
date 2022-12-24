@@ -1,10 +1,10 @@
 # gojek/draftsman - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 16
 
-★ Stars: 244
+★ Stars: 243
 
 [Open repository](https://github.com/gojek/draftsman)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 243 | 16 | 
 | 2022-12-22 | 244 | 16 | 
 | 2022-12-21 | 244 | 15 | 
 | 2022-12-20 | 244 | 15 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 241 | 14 | 
 | 2022-11-25 | 241 | 14 | 
 | 2022-11-24 | 241 | 14 | 
-| 2022-11-23 | 241 | 14 | 
 

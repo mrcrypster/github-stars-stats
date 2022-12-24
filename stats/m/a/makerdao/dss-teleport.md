@@ -1,6 +1,6 @@
 # makerdao/dss-teleport - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 75 | 10 | 
 | 2022-12-22 | 75 | 10 | 
 | 2022-12-21 | 75 | 10 | 
 | 2022-12-20 | 75 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-27 | 75 | 10 | 
 | 2022-11-25 | 75 | 10 | 
 | 2022-11-24 | 75 | 10 | 
-| 2022-11-23 | 75 | 10 | 
 

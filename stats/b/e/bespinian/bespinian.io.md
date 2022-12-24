@@ -1,6 +1,6 @@
 # bespinian/bespinian.io - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 4 | 1 | 
 | 2022-12-22 | 4 | 1 | 
 | 2022-12-21 | 4 | 1 | 
 | 2022-12-20 | 4 | 1 | 

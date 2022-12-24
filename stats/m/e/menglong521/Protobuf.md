@@ -1,6 +1,6 @@
 # menglong521/Protobuf - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 41 | 10 | 
 | 2022-12-23 | 41 | 10 | 
 | 2022-12-22 | 41 | 10 | 
 | 2022-12-20 | 41 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-26 | 41 | 9 | 
 | 2022-11-25 | 41 | 9 | 
 | 2022-11-24 | 41 | 9 | 
-| 2022-11-23 | 41 | 9 | 
 

@@ -1,6 +1,6 @@
 # OP-TEE/optee_os - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 886
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 1234 | 886 | 
 | 2022-12-22 | 1234 | 886 | 
 | 2022-12-21 | 1234 | 886 | 
 | 2022-12-20 | 1235 | 885 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 1231 | 875 | 
 | 2022-11-25 | 1231 | 875 | 
 | 2022-11-24 | 1228 | 874 | 
-| 2022-11-23 | 1227 | 873 | 
 

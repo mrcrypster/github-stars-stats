@@ -1,6 +1,6 @@
 # Nickyie/Cybersecurity-Resources - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 267
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 1725 | 267 | 
 | 2022-12-22 | 1725 | 267 | 
 | 2022-12-21 | 1724 | 266 | 
 | 2022-12-20 | 1721 | 266 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 1604 | 240 | 
 | 2022-11-25 | 1603 | 240 | 
 | 2022-11-24 | 1600 | 240 | 
-| 2022-11-23 | 1598 | 240 | 
 

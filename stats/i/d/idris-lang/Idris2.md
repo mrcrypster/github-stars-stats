@@ -1,6 +1,6 @@
 # idris-lang/Idris2 - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 322
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 1920 | 322 | 
 | 2022-12-22 | 1920 | 322 | 
 | 2022-12-21 | 1920 | 322 | 
 | 2022-12-20 | 1917 | 322 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 1907 | 322 | 
 | 2022-11-25 | 1907 | 322 | 
 | 2022-11-24 | 1907 | 322 | 
-| 2022-11-23 | 1905 | 322 | 
 

@@ -1,6 +1,6 @@
 # blakewatters/TransitionKit - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 138
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 1327 | 138 | 
 | 2022-12-22 | 1327 | 138 | 
 | 2022-12-21 | 1327 | 138 | 
 | 2022-12-20 | 1327 | 138 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 1327 | 138 | 
 | 2022-11-25 | 1328 | 138 | 
 | 2022-11-24 | 1328 | 138 | 
-| 2022-11-23 | 1328 | 138 | 
 

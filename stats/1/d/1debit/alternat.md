@@ -1,10 +1,10 @@
 # 1debit/alternat - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 18
+☋ Forks: 19
 
-★ Stars: 462
+★ Stars: 465
 
 [Open repository](https://github.com/1debit/alternat)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 465 | 19 | 
 | 2022-12-22 | 462 | 18 | 
 | 2022-12-21 | 458 | 18 | 
 | 2022-12-20 | 457 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 394 | 15 | 
 | 2022-11-25 | 394 | 15 | 
 | 2022-11-24 | 392 | 15 | 
-| 2022-11-23 | 390 | 14 | 
 

@@ -1,6 +1,6 @@
 # home-assistant/supervised-installer - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 506
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 1191 | 506 | 
 | 2022-12-22 | 1191 | 506 | 
 | 2022-12-21 | 1190 | 505 | 
 | 2022-12-20 | 1188 | 506 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-27 | 1160 | 501 | 
 | 2022-11-26 | 1159 | 500 | 
 | 2022-11-24 | 1159 | 500 | 
-| 2022-11-23 | 1158 | 500 | 
 

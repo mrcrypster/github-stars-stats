@@ -1,10 +1,10 @@
 # Superalgos/Superalgos - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 4846
+☋ Forks: 4848
 
-★ Stars: 3066
+★ Stars: 3067
 
 [Open repository](https://github.com/Superalgos/Superalgos)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 3067 | 4848 | 
 | 2022-12-22 | 3066 | 4846 | 
 | 2022-12-21 | 3067 | 4844 | 
 | 2022-12-20 | 3067 | 4846 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-27 | 3034 | 4819 | 
 | 2022-11-26 | 3032 | 4818 | 
 | 2022-11-25 | 3031 | 4817 | 
-| 2022-11-24 | 3028 | 4816 | 
 

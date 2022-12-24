@@ -1,8 +1,8 @@
 # ossf/scorecard - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 320
+☋ Forks: 321
 
 ★ Stars: 3107
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 3107 | 321 | 
 | 2022-12-22 | 3107 | 320 | 
 | 2022-12-21 | 3102 | 320 | 
 | 2022-12-20 | 3100 | 319 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 3049 | 312 | 
 | 2022-11-25 | 3050 | 310 | 
 | 2022-11-24 | 3050 | 309 | 
-| 2022-11-23 | 3048 | 308 | 
 

@@ -1,10 +1,10 @@
 # elementary/granite - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 60
 
-★ Stars: 237
+★ Stars: 238
 
 [Open repository](https://github.com/elementary/granite)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 238 | 60 | 
 | 2022-12-22 | 237 | 60 | 
 | 2022-12-21 | 237 | 60 | 
 | 2022-12-20 | 237 | 60 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 234 | 60 | 
 | 2022-11-25 | 233 | 60 | 
 | 2022-11-24 | 233 | 60 | 
-| 2022-11-23 | 233 | 60 | 
 

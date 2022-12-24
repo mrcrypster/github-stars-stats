@@ -1,6 +1,6 @@
 # safemoonprotocol/Safemoon.sol - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 932
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 662 | 932 | 
 | 2022-12-22 | 662 | 932 | 
 | 2022-12-21 | 661 | 932 | 
 | 2022-12-20 | 661 | 932 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 660 | 935 | 
 | 2022-11-25 | 659 | 935 | 
 | 2022-11-24 | 659 | 935 | 
-| 2022-11-23 | 661 | 935 | 
 

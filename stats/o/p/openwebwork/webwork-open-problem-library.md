@@ -1,8 +1,8 @@
 # openwebwork/webwork-open-problem-library - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 408
+☋ Forks: 409
 
 ★ Stars: 210
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 210 | 409 | 
 | 2022-12-22 | 210 | 408 | 
 | 2022-12-21 | 210 | 408 | 
 | 2022-12-20 | 210 | 408 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 210 | 406 | 
 | 2022-11-25 | 210 | 406 | 
 | 2022-11-24 | 210 | 406 | 
-| 2022-11-23 | 210 | 406 | 
 

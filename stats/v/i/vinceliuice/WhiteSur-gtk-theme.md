@@ -1,10 +1,10 @@
 # vinceliuice/WhiteSur-gtk-theme - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 480
+☋ Forks: 479
 
-★ Stars: 3788
+★ Stars: 3791
 
 [Open repository](https://github.com/vinceliuice/WhiteSur-gtk-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 3791 | 479 | 
 | 2022-12-22 | 3788 | 480 | 
 | 2022-12-21 | 3787 | 480 | 
 | 2022-12-20 | 3785 | 480 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 3706 | 473 | 
 | 2022-11-25 | 3700 | 469 | 
 | 2022-11-24 | 3695 | 470 | 
-| 2022-11-23 | 3693 | 471 | 
 

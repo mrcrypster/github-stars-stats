@@ -1,10 +1,10 @@
 # unjs/ohmyfetch - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 53
 
-★ Stars: 1722
+★ Stars: 1724
 
 [Open repository](https://github.com/unjs/ohmyfetch)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 1724 | 53 | 
 | 2022-12-22 | 1722 | 53 | 
 | 2022-12-21 | 1713 | 53 | 
 | 2022-12-20 | 1711 | 53 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 1652 | 51 | 
 | 2022-11-25 | 1652 | 51 | 
 | 2022-11-24 | 1647 | 51 | 
-| 2022-11-23 | 1643 | 51 | 
 

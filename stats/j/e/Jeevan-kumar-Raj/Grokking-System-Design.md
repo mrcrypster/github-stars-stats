@@ -1,10 +1,10 @@
 # Jeevan-kumar-Raj/Grokking-System-Design - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 847
+☋ Forks: 849
 
-★ Stars: 2635
+★ Stars: 2640
 
 [Open repository](https://github.com/Jeevan-kumar-Raj/Grokking-System-Design)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 2640 | 849 | 
 | 2022-12-22 | 2635 | 847 | 
 | 2022-12-21 | 2634 | 847 | 
 | 2022-12-20 | 2631 | 845 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 2543 | 805 | 
 | 2022-11-25 | 2540 | 805 | 
 | 2022-11-24 | 2531 | 800 | 
-| 2022-11-23 | 2524 | 799 | 
 

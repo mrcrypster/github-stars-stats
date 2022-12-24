@@ -1,10 +1,10 @@
 # leandromoreira/ffmpeg-libav-tutorial - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 817
 
-★ Stars: 8381
+★ Stars: 8385
 
 [Open repository](https://github.com/leandromoreira/ffmpeg-libav-tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 8385 | 817 | 
 | 2022-12-22 | 8381 | 817 | 
 | 2022-12-21 | 8380 | 817 | 
 | 2022-12-20 | 8377 | 818 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-27 | 8314 | 812 | 
 | 2022-11-26 | 8314 | 812 | 
 | 2022-11-25 | 8312 | 812 | 
-| 2022-11-24 | 8303 | 812 | 
 

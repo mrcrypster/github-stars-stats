@@ -1,10 +1,10 @@
 # altmany/export_fig - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 349
 
-★ Stars: 1111
+★ Stars: 1112
 
 [Open repository](https://github.com/altmany/export_fig)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 1112 | 349 | 
 | 2022-12-22 | 1111 | 349 | 
 | 2022-12-21 | 1110 | 349 | 
 | 2022-12-20 | 1110 | 349 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 1101 | 348 | 
 | 2022-11-25 | 1101 | 348 | 
 | 2022-11-24 | 1101 | 348 | 
-| 2022-11-23 | 1100 | 346 | 
 

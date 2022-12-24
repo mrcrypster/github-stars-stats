@@ -1,10 +1,10 @@
 # helm/charts - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 17231
+☋ Forks: 17235
 
-★ Stars: 15465
+★ Stars: 15466
 
 [Open repository](https://github.com/helm/charts)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 15466 | 17235 | 
 | 2022-12-22 | 15465 | 17231 | 
 | 2022-12-21 | 15464 | 17233 | 
 | 2022-12-20 | 15463 | 17229 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 15460 | 17234 | 
 | 2022-11-25 | 15461 | 17232 | 
 | 2022-11-24 | 15459 | 17233 | 
-| 2022-11-23 | 15458 | 17234 | 
 

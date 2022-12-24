@@ -1,8 +1,8 @@
 # ExTBH/JodelEmproved - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 2
+☋ Forks: 3
 
 ★ Stars: 14
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 14 | 3 | 
 | 2022-12-22 | 14 | 2 | 
 | 2022-12-21 | 14 | 2 | 
 | 2022-12-20 | 14 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 11 | 1 | 
 | 2022-11-25 | 11 | 1 | 
 | 2022-11-24 | 11 | 1 | 
-| 2022-11-23 | 10 | 1 | 
 

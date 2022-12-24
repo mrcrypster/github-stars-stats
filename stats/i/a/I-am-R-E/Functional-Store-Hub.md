@@ -1,6 +1,6 @@
 # I-am-R-E/Functional-Store-Hub - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 677 | 57 | 
 | 2022-12-22 | 677 | 57 | 
 | 2022-12-21 | 675 | 56 | 
 | 2022-12-20 | 675 | 56 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 638 | 48 | 
 | 2022-11-25 | 633 | 48 | 
 | 2022-11-24 | 633 | 48 | 
-| 2022-11-23 | 631 | 48 | 
 

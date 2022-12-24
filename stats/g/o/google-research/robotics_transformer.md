@@ -1,10 +1,10 @@
 # google-research/robotics_transformer - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 31
+☋ Forks: 33
 
-★ Stars: 394
+★ Stars: 403
 
 [Open repository](https://github.com/google-research/robotics_transformer)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 403 | 33 | 
 | 2022-12-22 | 394 | 31 | 
 | 2022-12-21 | 381 | 30 | 
 | 2022-12-20 | 369 | 28 | 

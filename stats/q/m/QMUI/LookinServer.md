@@ -1,10 +1,10 @@
 # QMUI/LookinServer - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 309
 
-★ Stars: 2269
+★ Stars: 2271
 
 [Open repository](https://github.com/QMUI/LookinServer)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 2271 | 309 | 
 | 2022-12-22 | 2269 | 309 | 
 | 2022-12-21 | 2269 | 309 | 
 | 2022-12-20 | 2269 | 309 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 2258 | 306 | 
 | 2022-11-25 | 2257 | 306 | 
 | 2022-11-24 | 2255 | 306 | 
-| 2022-11-23 | 2255 | 306 | 
 

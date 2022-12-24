@@ -1,6 +1,6 @@
 # public-assembly/curation-protocol - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 19 | 3 | 
 | 2022-12-22 | 19 | 3 | 
 | 2022-12-21 | 19 | 3 | 
 | 2022-12-20 | 19 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 15 | 3 | 
 | 2022-11-25 | 15 | 3 | 
 | 2022-11-24 | 15 | 3 | 
-| 2022-11-23 | 15 | 3 | 
 

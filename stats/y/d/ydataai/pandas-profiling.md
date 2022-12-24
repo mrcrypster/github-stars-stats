@@ -1,10 +1,10 @@
 # ydataai/pandas-profiling - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 1416
+☋ Forks: 1417
 
-★ Stars: 9958
+★ Stars: 9960
 
 [Open repository](https://github.com/ydataai/pandas-profiling)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 9960 | 1417 | 
 | 2022-12-22 | 9958 | 1416 | 
 | 2022-12-21 | 9955 | 1416 | 
 | 2022-12-20 | 9949 | 1416 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 9870 | 1409 | 
 | 2022-11-25 | 9866 | 1408 | 
 | 2022-11-24 | 9861 | 1407 | 
-| 2022-11-23 | 9857 | 1406 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 23
 
-☋ Forks: 18
+☋ Forks: 20
 
-★ Stars: 41
+★ Stars: 43
 
 [Open repository](https://github.com/ImXirvin/xv-dev)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-23 | 41 | 18 | 
+| 2022-12-23 | 43 | 20 | 
 | 2022-12-22 | 41 | 18 | 
 | 2022-12-21 | 41 | 17 | 
 | 2022-12-19 | 37 | 14 | 

@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 23
 
-☋ Forks: 6
+☋ Forks: 7
 
-★ Stars: 33
+★ Stars: 35
 
 [Open repository](https://github.com/nitin-agam/AppStore-Clone)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-23 | 33 | 6 | 
+| 2022-12-23 | 35 | 7 | 
 | 2022-12-22 | 33 | 6 | 
 

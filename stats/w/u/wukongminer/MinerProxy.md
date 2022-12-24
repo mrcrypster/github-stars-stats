@@ -1,6 +1,6 @@
 # wukongminer/MinerProxy - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 82 | 18 | 
 | 2022-12-23 | 82 | 18 | 
 | 2022-12-22 | 82 | 18 | 
 | 2022-12-20 | 82 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-26 | 82 | 18 | 
 | 2022-11-25 | 82 | 18 | 
 | 2022-11-24 | 82 | 18 | 
-| 2022-11-23 | 82 | 18 | 
 

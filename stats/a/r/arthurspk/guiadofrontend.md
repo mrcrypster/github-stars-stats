@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 23
 
 ☋ Forks: 194
 
-★ Stars: 1656
+★ Stars: 1662
 
 [Open repository](https://github.com/arthurspk/guiadofrontend)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-23 | 1656 | 194 | 
+| 2022-12-23 | 1662 | 194 | 
 | 2022-12-22 | 1646 | 194 | 
 | 2022-12-21 | 1629 | 192 | 
 | 2022-12-20 | 1606 | 189 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-26 | 1387 | 165 | 
 | 2022-11-25 | 1385 | 165 | 
 | 2022-11-24 | 1384 | 165 | 
-| 2022-11-23 | 1382 | 165 | 
 

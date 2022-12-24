@@ -1,10 +1,10 @@
 # gustavoguanabara/html-css - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 24
 
-☋ Forks: 2320
+☋ Forks: 2325
 
-★ Stars: 8712
+★ Stars: 8732
 
 [Open repository](https://github.com/gustavoguanabara/html-css)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 8732 | 2325 | 
+| 2022-12-23 | 8732 | 2325 | 
 | 2022-12-22 | 8712 | 2320 | 
 | 2022-12-21 | 8711 | 2320 | 
 | 2022-12-20 | 8701 | 2322 | 
@@ -41,5 +43,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 8490 | 2277 | 
 | 2022-11-25 | 8476 | 2272 | 
 | 2022-11-24 | 8474 | 2273 | 
-| 2022-11-23 | 8467 | 2276 | 
 

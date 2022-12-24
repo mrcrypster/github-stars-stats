@@ -1,10 +1,10 @@
 # pinterest/ktlint - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 451
 
-★ Stars: 5312
+★ Stars: 5315
 
 [Open repository](https://github.com/pinterest/ktlint)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 5315 | 451 | 
+| 2022-12-23 | 5315 | 451 | 
 | 2022-12-22 | 5312 | 451 | 
 | 2022-12-21 | 5306 | 451 | 
 | 2022-12-20 | 5305 | 451 | 
@@ -39,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 5279 | 446 | 
 | 2022-11-25 | 5279 | 445 | 
 | 2022-11-24 | 5279 | 444 | 
-| 2022-11-23 | 5276 | 444 | 
 

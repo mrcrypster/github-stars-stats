@@ -1,6 +1,6 @@
 # lego37yoon/isspc-yespc - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 18 | - | 
 | 2022-12-22 | 18 | - | 
 | 2022-12-21 | 18 | - | 
 | 2022-12-20 | 18 | - | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-27 | 18 | - | 
 | 2022-11-26 | 18 | - | 
 | 2022-11-25 | 18 | - | 
-| 2022-11-24 | 18 | - | 
 

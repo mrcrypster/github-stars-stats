@@ -1,10 +1,10 @@
 # paragonie/awesome-appsec - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 676
 
-★ Stars: 5346
+★ Stars: 5348
 
 [Open repository](https://github.com/paragonie/awesome-appsec)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 5348 | 676 | 
 | 2022-12-22 | 5346 | 676 | 
 | 2022-12-21 | 5341 | 676 | 
 | 2022-12-20 | 5341 | 676 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 5318 | 671 | 
 | 2022-11-25 | 5315 | 671 | 
 | 2022-11-24 | 5313 | 671 | 
-| 2022-11-23 | 5312 | 671 | 
 

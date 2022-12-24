@@ -1,6 +1,6 @@
 # reisanar/dataviz_final_project - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | - | 30 | 
 | 2022-12-22 | - | 30 | 
 | 2022-12-21 | - | 30 | 
 | 2022-12-20 | - | 30 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | - | 30 | 
 | 2022-11-25 | - | 30 | 
 | 2022-11-24 | - | 30 | 
-| 2022-11-23 | - | 30 | 
 

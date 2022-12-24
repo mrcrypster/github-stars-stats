@@ -1,10 +1,10 @@
 # privacyguides/privacyguides.org - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 127
+☋ Forks: 128
 
-★ Stars: 1325
+★ Stars: 1329
 
 [Open repository](https://github.com/privacyguides/privacyguides.org)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 1329 | 128 | 
 | 2022-12-22 | 1325 | 127 | 
 | 2022-12-21 | 1325 | 127 | 
 | 2022-12-20 | 1323 | 127 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 1272 | 126 | 
 | 2022-11-25 | 1269 | 126 | 
 | 2022-11-24 | 1266 | 126 | 
-| 2022-11-23 | 1263 | 126 | 
 

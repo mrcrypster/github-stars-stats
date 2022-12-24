@@ -1,10 +1,10 @@
 # kizitonwose/Calendar - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 24
 
-☋ Forks: 407
+☋ Forks: 408
 
-★ Stars: 3397
+★ Stars: 3401
 
 [Open repository](https://github.com/kizitonwose/Calendar)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 3401 | 408 | 
+| 2022-12-23 | 3401 | 408 | 
 | 2022-12-22 | 3397 | 407 | 
 | 2022-12-21 | 3396 | 407 | 
 | 2022-12-20 | 3395 | 407 | 
@@ -40,5 +42,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 3358 | 402 | 
 | 2022-11-25 | 3356 | 402 | 
 | 2022-11-24 | 3356 | 402 | 
-| 2022-11-23 | 3352 | 401 | 
 

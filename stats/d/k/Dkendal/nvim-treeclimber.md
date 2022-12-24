@@ -1,10 +1,10 @@
 # Dkendal/nvim-treeclimber - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 0
 
-★ Stars: 128
+★ Stars: 127
 
 [Open repository](https://github.com/Dkendal/nvim-treeclimber)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 127 | - | 
 | 2022-12-22 | 128 | - | 
 | 2022-12-21 | 128 | - | 
 | 2022-12-20 | 127 | - | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 118 | - | 
 | 2022-11-25 | 117 | - | 
 | 2022-11-24 | 109 | - | 
-| 2022-11-23 | 107 | - | 
 

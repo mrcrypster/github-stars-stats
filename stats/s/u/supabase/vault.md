@@ -1,10 +1,10 @@
 # supabase/vault - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 4
 
-★ Stars: 96
+★ Stars: 97
 
 [Open repository](https://github.com/supabase/vault)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 97 | 4 | 
 | 2022-12-22 | 96 | 4 | 
 | 2022-12-21 | 94 | 4 | 
 | 2022-12-20 | 94 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 80 | 3 | 
 | 2022-11-25 | 80 | 3 | 
 | 2022-11-24 | 80 | 3 | 
-| 2022-11-23 | 80 | 3 | 
 

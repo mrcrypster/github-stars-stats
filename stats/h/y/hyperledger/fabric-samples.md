@@ -1,8 +1,8 @@
 # hyperledger/fabric-samples - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 3002
+☋ Forks: 3003
 
 ★ Stars: 2368
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 2368 | 3003 | 
 | 2022-12-22 | 2368 | 3002 | 
 | 2022-12-21 | 2367 | 3003 | 
 | 2022-12-20 | 2367 | 3002 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 2341 | 2969 | 
 | 2022-11-25 | 2341 | 2967 | 
 | 2022-11-24 | 2340 | 2967 | 
-| 2022-11-23 | 2340 | 2965 | 
 

@@ -1,10 +1,10 @@
 # smeup/jariko - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 13
 
-★ Stars: 51
+★ Stars: 52
 
 [Open repository](https://github.com/smeup/jariko)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 52 | 13 | 
 | 2022-12-22 | 51 | 13 | 
 | 2022-12-21 | 51 | 13 | 
 | 2022-12-20 | 51 | 13 | 

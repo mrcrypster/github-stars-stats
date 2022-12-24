@@ -1,6 +1,6 @@
 # pkp/healthSciences - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 26 | 63 | 
 | 2022-12-23 | 26 | 63 | 
 | 2022-12-22 | 26 | 63 | 
 | 2022-12-21 | 26 | 63 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-26 | 26 | 63 | 
 | 2022-11-25 | 26 | 63 | 
 | 2022-11-24 | 26 | 63 | 
-| 2022-11-23 | 26 | 63 | 
 

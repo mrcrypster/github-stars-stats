@@ -1,10 +1,10 @@
 # labteral/chatgpt-python - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 23
+☋ Forks: 24
 
-★ Stars: 296
+★ Stars: 305
 
 [Open repository](https://github.com/labteral/chatgpt-python)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 305 | 24 | 
 | 2022-12-22 | 296 | 23 | 
 | 2022-12-21 | 291 | 23 | 
 | 2022-12-20 | 282 | 23 | 

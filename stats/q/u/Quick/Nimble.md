@@ -1,6 +1,6 @@
 # Quick/Nimble - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 511
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 4584 | 511 | 
 | 2022-12-22 | 4584 | 511 | 
 | 2022-12-21 | 4584 | 511 | 
 | 2022-12-20 | 4583 | 511 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 4562 | 512 | 
 | 2022-11-25 | 4561 | 512 | 
 | 2022-11-24 | 4560 | 512 | 
-| 2022-11-23 | 4560 | 511 | 
 

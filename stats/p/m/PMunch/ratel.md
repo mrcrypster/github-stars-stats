@@ -1,10 +1,10 @@
 # PMunch/ratel - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 2
+☋ Forks: 3
 
-★ Stars: 88
+★ Stars: 89
 
 [Open repository](https://github.com/PMunch/ratel)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 89 | 3 | 
 | 2022-12-22 | 88 | 2 | 
 | 2022-12-21 | 88 | 2 | 
 | 2022-12-20 | 88 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 85 | 2 | 
 | 2022-11-25 | 85 | 2 | 
 | 2022-11-24 | 85 | 2 | 
-| 2022-11-23 | 85 | 2 | 
 

@@ -1,8 +1,8 @@
 # hammerstonedev/fast-paginate - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 25
+☋ Forks: 26
 
 ★ Stars: 870
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 870 | 26 | 
 | 2022-12-22 | 870 | 25 | 
 | 2022-12-21 | 870 | 25 | 
 | 2022-12-20 | 869 | 25 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 857 | 23 | 
 | 2022-11-25 | 857 | 23 | 
 | 2022-11-24 | 855 | 23 | 
-| 2022-11-23 | 855 | 23 | 
 

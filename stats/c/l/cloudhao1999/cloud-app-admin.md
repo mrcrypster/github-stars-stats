@@ -1,6 +1,6 @@
 # cloudhao1999/cloud-app-admin - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 66
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 323 | 66 | 
 | 2022-12-22 | 323 | 66 | 
 | 2022-12-21 | 323 | 66 | 
 | 2022-12-20 | 324 | 66 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 317 | 66 | 
 | 2022-11-25 | 317 | 66 | 
 | 2022-11-24 | 316 | 66 | 
-| 2022-11-23 | 316 | 66 | 
 

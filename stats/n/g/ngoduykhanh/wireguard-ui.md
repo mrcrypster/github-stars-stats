@@ -1,10 +1,10 @@
 # ngoduykhanh/wireguard-ui - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 244
+☋ Forks: 245
 
-★ Stars: 1463
+★ Stars: 1470
 
 [Open repository](https://github.com/ngoduykhanh/wireguard-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 1470 | 245 | 
 | 2022-12-22 | 1463 | 244 | 
 | 2022-12-21 | 1461 | 242 | 
 | 2022-12-20 | 1459 | 240 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 1379 | 233 | 
 | 2022-11-25 | 1377 | 233 | 
 | 2022-11-24 | 1374 | 233 | 
-| 2022-11-23 | 1373 | 233 | 
 

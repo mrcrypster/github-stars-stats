@@ -1,10 +1,10 @@
 # makenotion/notion-sdk-js - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 373
+☋ Forks: 374
 
-★ Stars: 3350
+★ Stars: 3352
 
 [Open repository](https://github.com/makenotion/notion-sdk-js)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 3352 | 374 | 
 | 2022-12-22 | 3350 | 373 | 
 | 2022-12-21 | 3346 | 373 | 
 | 2022-12-20 | 3341 | 373 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 3280 | 358 | 
 | 2022-11-25 | 3278 | 357 | 
 | 2022-11-24 | 3275 | 358 | 
-| 2022-11-23 | 3273 | 358 | 
 

@@ -1,6 +1,6 @@
 # futurice/terraform-examples - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 349
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 514 | 349 | 
 | 2022-12-22 | 514 | 349 | 
 | 2022-12-21 | 512 | 348 | 
 | 2022-12-20 | 511 | 348 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 504 | 336 | 
 | 2022-11-25 | 504 | 336 | 
 | 2022-11-24 | 504 | 336 | 
-| 2022-11-23 | 504 | 336 | 
 

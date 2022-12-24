@@ -1,10 +1,10 @@
 # jose-elias-alvarez/typescript.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 12
 
-★ Stars: 307
+★ Stars: 308
 
 [Open repository](https://github.com/jose-elias-alvarez/typescript.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 308 | 12 | 
 | 2022-12-22 | 307 | 12 | 
 | 2022-12-21 | 304 | 12 | 
 | 2022-12-20 | 302 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 282 | 10 | 
 | 2022-11-25 | 280 | 10 | 
 | 2022-11-24 | 277 | 10 | 
-| 2022-11-23 | 274 | 10 | 
 

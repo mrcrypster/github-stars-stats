@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 23
 
 ☋ Forks: 304
 
-★ Stars: 892
+★ Stars: 893
 
 [Open repository](https://github.com/sparklyr/sparklyr)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-23 | 892 | 304 | 
+| 2022-12-23 | 893 | 304 | 
 | 2022-12-22 | 892 | 304 | 
 | 2022-12-21 | 892 | 304 | 
 | 2022-12-20 | 892 | 304 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-26 | 887 | 304 | 
 | 2022-11-25 | 887 | 304 | 
 | 2022-11-24 | 887 | 304 | 
-| 2022-11-23 | 887 | 304 | 
 

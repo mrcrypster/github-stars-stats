@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 23
 
-☋ Forks: 710
+☋ Forks: 711
 
-★ Stars: 7147
+★ Stars: 7149
 
 [Open repository](https://github.com/kishikawakatsumi/KeychainAccess)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-23 | 7147 | 710 | 
+| 2022-12-23 | 7149 | 711 | 
 | 2022-12-22 | 7148 | 711 | 
 | 2022-12-21 | 7146 | 710 | 
 | 2022-12-20 | 7145 | 710 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 7119 | 705 | 
 | 2022-11-26 | 7119 | 705 | 
 | 2022-11-24 | 7119 | 704 | 
-| 2022-11-23 | 7118 | 704 | 
 

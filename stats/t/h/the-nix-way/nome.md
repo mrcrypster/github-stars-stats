@@ -1,10 +1,10 @@
 # the-nix-way/nome - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 6
 
-★ Stars: 59
+★ Stars: 60
 
 [Open repository](https://github.com/the-nix-way/nome)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 60 | 6 | 
 | 2022-12-22 | 59 | 6 | 
 | 2022-12-21 | 59 | 6 | 
 | 2022-12-20 | 59 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 52 | 6 | 
 | 2022-11-25 | 51 | 5 | 
 | 2022-11-24 | 51 | 5 | 
-| 2022-11-23 | 50 | 5 | 
 

@@ -1,10 +1,10 @@
 # cloneofsimo/lora - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 49
+☋ Forks: 53
 
-★ Stars: 665
+★ Stars: 682
 
 [Open repository](https://github.com/cloneofsimo/lora)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 682 | 53 | 
 | 2022-12-22 | 665 | 49 | 
 | 2022-12-21 | 647 | 48 | 
 | 2022-12-20 | 635 | 45 | 

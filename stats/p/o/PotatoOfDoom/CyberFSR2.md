@@ -1,10 +1,10 @@
 # PotatoOfDoom/CyberFSR2 - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 38
 
-★ Stars: 429
+★ Stars: 430
 
 [Open repository](https://github.com/PotatoOfDoom/CyberFSR2)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 430 | 38 | 
 | 2022-12-22 | 429 | 38 | 
 | 2022-12-21 | 428 | 38 | 
 | 2022-12-20 | 428 | 38 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 405 | 35 | 
 | 2022-11-25 | 405 | 35 | 
 | 2022-11-24 | 403 | 35 | 
-| 2022-11-23 | 403 | 35 | 
 

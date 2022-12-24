@@ -1,6 +1,6 @@
 # arco-design/arco-design - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 441
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 3636 | 441 | 
 | 2022-12-22 | 3636 | 441 | 
 | 2022-12-21 | 3635 | 441 | 
 | 2022-12-20 | 3633 | 441 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 3568 | 434 | 
 | 2022-11-25 | 3567 | 434 | 
 | 2022-11-24 | 3568 | 435 | 
-| 2022-11-23 | 3564 | 434 | 
 

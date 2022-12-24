@@ -1,6 +1,6 @@
 # azizur333/FREE-RDP-SERVER2019 - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | - | 49 | 
 | 2022-12-22 | - | 49 | 
 | 2022-12-21 | - | 49 | 
 | 2022-12-20 | - | 49 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | - | 34 | 
 | 2022-11-25 | - | 32 | 
 | 2022-11-24 | - | 30 | 
-| 2022-11-23 | - | 29 | 
 

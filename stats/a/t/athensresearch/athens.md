@@ -1,10 +1,10 @@
 # athensresearch/athens - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 383
 
-★ Stars: 6324
+★ Stars: 6322
 
 [Open repository](https://github.com/athensresearch/athens)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 6322 | 383 | 
 | 2022-12-22 | 6324 | 383 | 
 | 2022-12-21 | 6324 | 384 | 
 | 2022-12-20 | 6323 | 385 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 6310 | 385 | 
 | 2022-11-25 | 6310 | 385 | 
 | 2022-11-24 | 6310 | 385 | 
-| 2022-11-23 | 6309 | 385 | 
 

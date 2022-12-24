@@ -1,8 +1,8 @@
 # XTLS/Xray-examples - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 513
+☋ Forks: 514
 
 ★ Stars: 884
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 884 | 514 | 
 | 2022-12-22 | 884 | 513 | 
 | 2022-12-21 | 882 | 513 | 
 | 2022-12-20 | 880 | 512 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 834 | 489 | 
 | 2022-11-25 | 831 | 488 | 
 | 2022-11-24 | 829 | 488 | 
-| 2022-11-23 | 828 | 488 | 
 

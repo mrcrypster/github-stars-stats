@@ -1,6 +1,6 @@
 # hashgraph/hedera-improvement-proposal - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 96
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 104 | 96 | 
 | 2022-12-22 | 104 | 96 | 
 | 2022-12-21 | 104 | 96 | 
 | 2022-12-20 | 104 | 96 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 102 | 95 | 
 | 2022-11-25 | 102 | 95 | 
 | 2022-11-24 | 102 | 95 | 
-| 2022-11-23 | 102 | 95 | 
 

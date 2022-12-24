@@ -1,6 +1,6 @@
 # leecobaby/shortcuts - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 178
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 1531 | 178 | 
 | 2022-12-22 | 1531 | 178 | 
 | 2022-12-21 | 1529 | 178 | 
 | 2022-12-20 | 1529 | 178 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 1510 | 178 | 
 | 2022-11-25 | 1509 | 178 | 
 | 2022-11-24 | 1506 | 178 | 
-| 2022-11-23 | 1505 | 178 | 
 

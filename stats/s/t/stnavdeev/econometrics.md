@@ -1,6 +1,6 @@
 # stnavdeev/econometrics - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 187 | 42 | 
 | 2022-12-22 | 187 | 42 | 
 | 2022-12-21 | 187 | 42 | 
 | 2022-12-20 | 187 | 42 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 185 | 41 | 
 | 2022-11-25 | 185 | 41 | 
 | 2022-11-24 | 185 | 41 | 
-| 2022-11-23 | 185 | 40 | 
 

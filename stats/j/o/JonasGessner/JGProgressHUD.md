@@ -1,10 +1,10 @@
 # JonasGessner/JGProgressHUD - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 321
 
-★ Stars: 3218
+★ Stars: 3219
 
 [Open repository](https://github.com/JonasGessner/JGProgressHUD)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 3219 | 321 | 
 | 2022-12-22 | 3218 | 321 | 
 | 2022-12-21 | 3215 | 321 | 
 | 2022-12-20 | 3215 | 321 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 3196 | 319 | 
 | 2022-11-25 | 3196 | 319 | 
 | 2022-11-24 | 3196 | 319 | 
-| 2022-11-23 | 3195 | 319 | 
 

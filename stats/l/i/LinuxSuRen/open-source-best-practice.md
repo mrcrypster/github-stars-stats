@@ -1,6 +1,6 @@
 # LinuxSuRen/open-source-best-practice - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 234 | 25 | 
 | 2022-12-22 | 234 | 25 | 
 | 2022-12-21 | 234 | 25 | 
 | 2022-12-20 | 234 | 25 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 234 | 25 | 
 | 2022-11-25 | 234 | 25 | 
 | 2022-11-24 | 234 | 25 | 
-| 2022-11-23 | 233 | 25 | 
 

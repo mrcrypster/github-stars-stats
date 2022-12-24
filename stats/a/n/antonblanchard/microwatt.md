@@ -1,6 +1,6 @@
 # antonblanchard/microwatt - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 91
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 533 | 91 | 
 | 2022-12-22 | 533 | 91 | 
 | 2022-12-21 | 533 | 91 | 
 | 2022-12-20 | 533 | 90 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 523 | 87 | 
 | 2022-11-25 | 523 | 87 | 
 | 2022-11-24 | 521 | 87 | 
-| 2022-11-23 | 521 | 87 | 
 

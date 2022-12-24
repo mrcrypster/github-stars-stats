@@ -1,6 +1,6 @@
 # borkdude/advent-of-babashka - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 16 | 11 | 
 | 2022-12-22 | 16 | 11 | 
 | 2022-12-21 | 16 | 11 | 
 | 2022-12-20 | 15 | 11 | 

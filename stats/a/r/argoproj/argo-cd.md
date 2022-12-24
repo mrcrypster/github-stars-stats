@@ -1,10 +1,10 @@
 # argoproj/argo-cd - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 3266
+☋ Forks: 3269
 
-★ Stars: 11593
+★ Stars: 11606
 
 [Open repository](https://github.com/argoproj/argo-cd)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 11606 | 3269 | 
 | 2022-12-22 | 11593 | 3266 | 
 | 2022-12-21 | 11587 | 3264 | 
 | 2022-12-20 | 11576 | 3264 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 11345 | 3181 | 
 | 2022-11-25 | 11333 | 3178 | 
 | 2022-11-24 | 11321 | 3175 | 
-| 2022-11-23 | 11315 | 3173 | 
 

@@ -1,6 +1,6 @@
 # Lee-WonJun/JDD-Description - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 78
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 1173 | 78 | 
 | 2022-12-22 | 1173 | 78 | 
 | 2022-12-21 | 1172 | 78 | 
 | 2022-12-20 | 1172 | 78 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 1133 | 75 | 
 | 2022-11-25 | 1131 | 74 | 
 | 2022-11-24 | 1131 | 74 | 
-| 2022-11-23 | 1130 | 74 | 
 

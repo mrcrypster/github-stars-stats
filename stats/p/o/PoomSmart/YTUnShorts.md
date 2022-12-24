@@ -1,10 +1,10 @@
 # PoomSmart/YTUnShorts - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 0
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/PoomSmart/YTUnShorts)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 9 | - | 
 | 2022-12-22 | 8 | - | 
 | 2022-12-21 | 8 | - | 
 | 2022-12-20 | 8 | - | 

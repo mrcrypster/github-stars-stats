@@ -1,10 +1,10 @@
 # mitmproxy/mitmproxy - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 3572
 
-★ Stars: 29611
+★ Stars: 29620
 
 [Open repository](https://github.com/mitmproxy/mitmproxy)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 29620 | 3572 | 
 | 2022-12-23 | 29611 | 3572 | 
 | 2022-12-21 | 29605 | 3570 | 
 | 2022-12-20 | 29599 | 3569 | 

@@ -1,6 +1,6 @@
 # octeep/wireproxy - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 96
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 1820 | 96 | 
 | 2022-12-22 | 1820 | 96 | 
 | 2022-12-21 | 1818 | 96 | 
 | 2022-12-20 | 1816 | 96 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 1775 | 94 | 
 | 2022-11-25 | 1770 | 93 | 
 | 2022-11-24 | 1768 | 93 | 
-| 2022-11-23 | 1763 | 93 | 
 

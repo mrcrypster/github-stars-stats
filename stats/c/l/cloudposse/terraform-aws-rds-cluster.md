@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-rds-cluster - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 148
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 115 | 148 | 
 | 2022-12-22 | 115 | 148 | 
 | 2022-12-21 | 115 | 147 | 
 | 2022-12-20 | 115 | 147 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 114 | 147 | 
 | 2022-11-25 | 114 | 147 | 
 | 2022-11-24 | 114 | 147 | 
-| 2022-11-23 | 114 | 147 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 23
 
-☋ Forks: 2983
+☋ Forks: 2986
 
-★ Stars: 10890
+★ Stars: 10895
 
 [Open repository](https://github.com/nodesource/distributions)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-23 | 10890 | 2983 | 
+| 2022-12-23 | 10895 | 2986 | 
 | 2022-12-22 | 10890 | 2984 | 
 | 2022-12-21 | 10876 | 2981 | 
 | 2022-12-20 | 10872 | 2981 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-26 | 10786 | 2954 | 
 | 2022-11-25 | 10784 | 2953 | 
 | 2022-11-24 | 10784 | 2954 | 
-| 2022-11-23 | 10782 | 2951 | 
 

@@ -1,10 +1,10 @@
 # gornostay25/svelte-adapter-bun - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 5
 
-★ Stars: 238
+★ Stars: 240
 
 [Open repository](https://github.com/gornostay25/svelte-adapter-bun)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 240 | 5 | 
 | 2022-12-22 | 238 | 5 | 
 | 2022-12-21 | 237 | 5 | 
 | 2022-12-20 | 237 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 234 | 5 | 
 | 2022-11-25 | 234 | 5 | 
 | 2022-11-24 | 234 | 5 | 
-| 2022-11-23 | 234 | 5 | 
 

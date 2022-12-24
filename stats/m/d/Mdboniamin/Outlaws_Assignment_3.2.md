@@ -1,6 +1,6 @@
 # Mdboniamin/Outlaws_Assignment_3.2 - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 1 | 9 | 
 | 2022-12-23 | 1 | 9 | 
 | 2022-12-22 | 1 | 9 | 
 | 2022-12-20 | 1 | 9 | 

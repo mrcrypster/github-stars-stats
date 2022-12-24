@@ -1,10 +1,10 @@
 # jamie-mh/AuthenticatorPro - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 120
 
-★ Stars: 992
+★ Stars: 994
 
 [Open repository](https://github.com/jamie-mh/AuthenticatorPro)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 994 | 120 | 
 | 2022-12-22 | 992 | 120 | 
 | 2022-12-21 | 990 | 120 | 
 | 2022-12-20 | 989 | 120 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 959 | 117 | 
 | 2022-11-25 | 959 | 117 | 
 | 2022-11-24 | 958 | 117 | 
-| 2022-11-23 | 959 | 117 | 
 

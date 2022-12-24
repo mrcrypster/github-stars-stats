@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/cloud-foundation-fabric - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 412
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 764 | 412 | 
 | 2022-12-22 | 764 | 412 | 
 | 2022-12-21 | 764 | 414 | 
 | 2022-12-20 | 764 | 412 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 736 | 394 | 
 | 2022-11-25 | 735 | 393 | 
 | 2022-11-24 | 727 | 391 | 
-| 2022-11-23 | 713 | 391 | 
 

@@ -1,6 +1,6 @@
 # tyranid/blackhat-usa-2022-demos - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 249 | 25 | 
 | 2022-12-22 | 249 | 25 | 
 | 2022-12-21 | 249 | 25 | 
 | 2022-12-20 | 249 | 25 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 227 | 22 | 
 | 2022-11-25 | 226 | 22 | 
 | 2022-11-24 | 225 | 22 | 
-| 2022-11-23 | 225 | 22 | 
 

@@ -1,6 +1,6 @@
 # usnistgov/hugo-uswds - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 26 | 11 | 
 | 2022-12-22 | 26 | 11 | 
 | 2022-12-21 | 26 | 10 | 
 | 2022-12-20 | 26 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 26 | 10 | 
 | 2022-11-25 | 26 | 10 | 
 | 2022-11-24 | 26 | 10 | 
-| 2022-11-23 | 26 | 10 | 
 

@@ -1,6 +1,6 @@
 # cj1128/learn-english-with-friends - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 296 | 38 | 
 | 2022-12-22 | 296 | 38 | 
 | 2022-12-21 | 296 | 38 | 
 | 2022-12-20 | 296 | 38 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 293 | 37 | 
 | 2022-11-25 | 292 | 37 | 
 | 2022-11-24 | 291 | 37 | 
-| 2022-11-23 | 289 | 37 | 
 

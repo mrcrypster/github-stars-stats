@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 23
 
 ☋ Forks: 462
 
-★ Stars: 1114
+★ Stars: 1115
 
 [Open repository](https://github.com/abapGit/abapGit)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-23 | 1114 | 462 | 
+| 2022-12-23 | 1115 | 462 | 
 | 2022-12-22 | 1114 | 462 | 
 | 2022-12-21 | 1113 | 462 | 
 | 2022-12-20 | 1112 | 462 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-26 | 1102 | 461 | 
 | 2022-11-25 | 1101 | 461 | 
 | 2022-11-24 | 1101 | 461 | 
-| 2022-11-23 | 1101 | 461 | 
 

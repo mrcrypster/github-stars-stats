@@ -1,10 +1,10 @@
 # shfshanyue/Daily-Question - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 457
 
-★ Stars: 4213
+★ Stars: 4215
 
 [Open repository](https://github.com/shfshanyue/Daily-Question)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 4215 | 457 | 
 | 2022-12-22 | 4213 | 457 | 
 | 2022-12-21 | 4212 | 457 | 
 | 2022-12-20 | 4210 | 457 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 4180 | 456 | 
 | 2022-11-25 | 4178 | 456 | 
 | 2022-11-24 | 4178 | 456 | 
-| 2022-11-23 | 4178 | 456 | 
 

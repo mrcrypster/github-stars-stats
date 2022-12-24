@@ -1,10 +1,10 @@
 # mongodb/mongo - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 5396
 
-★ Stars: 22985
+★ Stars: 22991
 
 [Open repository](https://github.com/mongodb/mongo)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 22991 | 5396 | 
 | 2022-12-23 | 22985 | 5396 | 
 | 2022-12-22 | 22980 | 5396 | 
 | 2022-12-21 | 22981 | 5394 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-26 | 22842 | 5381 | 
 | 2022-11-25 | 22831 | 5379 | 
 | 2022-11-24 | 22829 | 5377 | 
-| 2022-11-23 | 22822 | 5375 | 
 

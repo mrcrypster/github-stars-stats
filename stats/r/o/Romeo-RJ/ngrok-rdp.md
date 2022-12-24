@@ -1,8 +1,8 @@
 # Romeo-RJ/ngrok-rdp - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 14
+☋ Forks: 15
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | - | 15 | 
 | 2022-12-22 | - | 14 | 
 | 2022-12-21 | - | 14 | 
 | 2022-12-20 | - | 14 | 

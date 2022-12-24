@@ -1,10 +1,10 @@
 # fastpack/fastpack - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 46
 
-★ Stars: 2266
+★ Stars: 2265
 
 [Open repository](https://github.com/fastpack/fastpack)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 2265 | 46 | 
 | 2022-12-22 | 2266 | 46 | 
 | 2022-12-21 | 2266 | 46 | 
 | 2022-12-20 | 2267 | 46 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 2267 | 46 | 
 | 2022-11-25 | 2267 | 46 | 
 | 2022-11-24 | 2267 | 46 | 
-| 2022-11-23 | 2267 | 46 | 
 

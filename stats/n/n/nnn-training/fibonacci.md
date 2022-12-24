@@ -1,8 +1,8 @@
 # nnn-training/fibonacci - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 685
+☋ Forks: 684
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | - | 684 | 
 | 2022-12-22 | - | 685 | 
 | 2022-12-21 | - | 685 | 
 | 2022-12-20 | - | 685 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | - | 675 | 
 | 2022-11-25 | - | 675 | 
 | 2022-11-24 | - | 675 | 
-| 2022-11-23 | - | 675 | 
 

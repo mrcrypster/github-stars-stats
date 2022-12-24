@@ -1,10 +1,10 @@
 # unjs/website - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 5
 
-★ Stars: 29
+★ Stars: 28
 
 [Open repository](https://github.com/unjs/website)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 28 | 5 | 
 | 2022-12-22 | 29 | 5 | 
 | 2022-12-21 | 29 | 6 | 
 | 2022-12-20 | 29 | 6 | 

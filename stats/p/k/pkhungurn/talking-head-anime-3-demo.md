@@ -1,10 +1,10 @@
 # pkhungurn/talking-head-anime-3-demo - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 27
 
-★ Stars: 307
+★ Stars: 309
 
 [Open repository](https://github.com/pkhungurn/talking-head-anime-3-demo)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 309 | 27 | 
 | 2022-12-22 | 307 | 27 | 
 | 2022-12-21 | 306 | 27 | 
 | 2022-12-20 | 306 | 27 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 299 | 27 | 
 | 2022-11-25 | 299 | 27 | 
 | 2022-11-24 | 299 | 27 | 
-| 2022-11-23 | 299 | 27 | 
 

@@ -1,10 +1,10 @@
 # SheetJS/sheetjs - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 7903
+☋ Forks: 7902
 
-★ Stars: 31928
+★ Stars: 31931
 
 [Open repository](https://github.com/SheetJS/sheetjs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 31931 | 7902 | 
 | 2022-12-22 | 31928 | 7903 | 
 | 2022-12-21 | 31920 | 7903 | 
 | 2022-12-20 | 31912 | 7904 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 31742 | 7887 | 
 | 2022-11-25 | 31738 | 7886 | 
 | 2022-11-24 | 31730 | 7884 | 
-| 2022-11-23 | 31719 | 7882 | 
 

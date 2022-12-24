@@ -1,6 +1,6 @@
 # tanyagupta0201/LeetCode-Problems-Solutions - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 170
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 69 | 170 | 
 | 2022-12-22 | 69 | 170 | 
 | 2022-12-21 | 69 | 171 | 
 | 2022-12-20 | 69 | 171 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 68 | 171 | 
 | 2022-11-25 | 68 | 171 | 
 | 2022-11-24 | 68 | 171 | 
-| 2022-11-23 | 68 | 171 | 
 

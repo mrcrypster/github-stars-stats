@@ -1,8 +1,8 @@
 # 5t3ph/11ty-sass-skeleton - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 14
+☋ Forks: 13
 
 ★ Stars: 198
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 198 | 13 | 
 | 2022-12-22 | 198 | 14 | 
 | 2022-12-21 | 198 | 14 | 
 | 2022-12-20 | 198 | 14 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 197 | 15 | 
 | 2022-11-25 | 197 | 15 | 
 | 2022-11-24 | 196 | 15 | 
-| 2022-11-23 | 196 | 15 | 
 

@@ -1,6 +1,6 @@
 # thoughtbot/vim-rspec - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 114
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 649 | 114 | 
 | 2022-12-22 | 649 | 114 | 
 | 2022-12-21 | 649 | 114 | 
 | 2022-12-20 | 649 | 114 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-27 | 648 | 114 | 
 | 2022-11-26 | 648 | 114 | 
 | 2022-11-25 | 647 | 113 | 
-| 2022-11-24 | 647 | 113 | 
 

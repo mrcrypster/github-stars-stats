@@ -1,6 +1,6 @@
 # xenkap/IceEngine - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 14 | 26 | 
 | 2022-12-22 | 14 | 26 | 
 | 2022-12-21 | 14 | 26 | 
 | 2022-12-20 | 14 | 26 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 14 | 27 | 
 | 2022-11-25 | 14 | 27 | 
 | 2022-11-24 | 14 | 27 | 
-| 2022-11-23 | 14 | 27 | 
 

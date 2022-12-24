@@ -1,10 +1,10 @@
 # scalacenter/scalafix - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 170
 
-★ Stars: 719
+★ Stars: 720
 
 [Open repository](https://github.com/scalacenter/scalafix)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 720 | 170 | 
 | 2022-12-22 | 719 | 170 | 
 | 2022-12-21 | 719 | 170 | 
 | 2022-12-20 | 718 | 170 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 713 | 168 | 
 | 2022-11-25 | 713 | 168 | 
 | 2022-11-24 | 713 | 168 | 
-| 2022-11-23 | 713 | 168 | 
 

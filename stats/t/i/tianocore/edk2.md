@@ -1,6 +1,6 @@
 # tianocore/edk2 - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 1952
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 3332 | 1952 | 
 | 2022-12-22 | 3332 | 1952 | 
 | 2022-12-21 | 3330 | 1951 | 
 | 2022-12-20 | 3330 | 1951 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 3292 | 1921 | 
 | 2022-11-25 | 3291 | 1918 | 
 | 2022-11-24 | 3290 | 1918 | 
-| 2022-11-23 | 3291 | 1918 | 
 

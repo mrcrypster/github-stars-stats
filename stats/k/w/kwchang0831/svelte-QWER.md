@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 23
 
 ☋ Forks: 21
 
-★ Stars: 235
+★ Stars: 236
 
 [Open repository](https://github.com/kwchang0831/svelte-QWER)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-23 | 235 | 21 | 
+| 2022-12-23 | 236 | 21 | 
 | 2022-12-22 | 235 | 21 | 
 | 2022-12-21 | 234 | 21 | 
 | 2022-12-20 | 232 | 21 | 
@@ -39,5 +39,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-26 | 217 | 21 | 
 | 2022-11-25 | 217 | 20 | 
 | 2022-11-24 | 217 | 20 | 
-| 2022-11-23 | 218 | 20 | 
 

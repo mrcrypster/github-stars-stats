@@ -1,6 +1,6 @@
 # EsotericSoftware/spine-runtimes - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 2722
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 3568 | 2722 | 
 | 2022-12-22 | 3568 | 2722 | 
 | 2022-12-21 | 3567 | 2721 | 
 | 2022-12-20 | 3567 | 2721 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-27 | 3554 | 2715 | 
 | 2022-11-26 | 3553 | 2715 | 
 | 2022-11-24 | 3552 | 2713 | 
-| 2022-11-23 | 3551 | 2712 | 
 

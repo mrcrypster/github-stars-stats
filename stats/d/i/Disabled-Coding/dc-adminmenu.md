@@ -1,10 +1,10 @@
 # Disabled-Coding/dc-adminmenu - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 38
 
-★ Stars: 62
+★ Stars: 63
 
 [Open repository](https://github.com/Disabled-Coding/dc-adminmenu)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 63 | 38 | 
 | 2022-12-22 | 62 | 38 | 
 | 2022-12-21 | 61 | 38 | 
 | 2022-12-20 | 61 | 38 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 60 | 37 | 
 | 2022-11-25 | 60 | 36 | 
 | 2022-11-24 | 60 | 36 | 
-| 2022-11-23 | 60 | 36 | 
 

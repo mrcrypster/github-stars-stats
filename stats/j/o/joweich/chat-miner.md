@@ -1,10 +1,10 @@
 # joweich/chat-miner - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 40
 
-★ Stars: 371
+★ Stars: 374
 
 [Open repository](https://github.com/joweich/chat-miner)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 374 | 40 | 
 | 2022-12-22 | 371 | 40 | 
 | 2022-12-21 | 369 | 39 | 
 | 2022-12-20 | 367 | 39 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 242 | 29 | 
 | 2022-11-25 | 241 | 29 | 
 | 2022-11-24 | 241 | 29 | 
-| 2022-11-23 | 238 | 29 | 
 

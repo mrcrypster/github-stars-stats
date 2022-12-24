@@ -1,6 +1,6 @@
 # rexim/org-cliplink - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 273 | 10 | 
 | 2022-12-22 | 273 | 10 | 
 | 2022-12-21 | 273 | 10 | 
 | 2022-12-20 | 273 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-27 | 269 | 10 | 
 | 2022-11-26 | 269 | 10 | 
 | 2022-11-25 | 269 | 10 | 
-| 2022-11-24 | 269 | 10 | 
 

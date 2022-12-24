@@ -1,8 +1,8 @@
 # johntango/pacMan - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 132
+☋ Forks: 133
 
 ★ Stars: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 6 | 133 | 
 | 2022-12-22 | 6 | 132 | 
 | 2022-12-21 | 6 | 131 | 
 | 2022-12-20 | 6 | 131 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 6 | 131 | 
 | 2022-11-25 | 6 | 131 | 
 | 2022-11-24 | 6 | 131 | 
-| 2022-11-23 | 6 | 131 | 
 

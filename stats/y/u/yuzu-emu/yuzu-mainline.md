@@ -1,8 +1,8 @@
 # yuzu-emu/yuzu-mainline - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 225
+☋ Forks: 224
 
 ★ Stars: 1264
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 1264 | 224 | 
 | 2022-12-22 | 1264 | 225 | 
 | 2022-12-21 | 1262 | 225 | 
 | 2022-12-20 | 1261 | 225 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 1228 | 223 | 
 | 2022-11-25 | 1225 | 223 | 
 | 2022-11-24 | 1222 | 223 | 
-| 2022-11-23 | 1221 | 223 | 
 

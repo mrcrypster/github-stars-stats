@@ -1,6 +1,6 @@
 # vinceliuice/Layan-kde - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 273 | 21 | 
 | 2022-12-22 | 273 | 21 | 
 | 2022-12-21 | 273 | 21 | 
 | 2022-12-20 | 273 | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 270 | 20 | 
 | 2022-11-25 | 270 | 20 | 
 | 2022-11-24 | 270 | 20 | 
-| 2022-11-23 | 270 | 20 | 
 

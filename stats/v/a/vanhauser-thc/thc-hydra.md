@@ -1,10 +1,10 @@
 # vanhauser-thc/thc-hydra - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 1632
 
-★ Stars: 7047
+★ Stars: 7050
 
 [Open repository](https://github.com/vanhauser-thc/thc-hydra)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 7050 | 1632 | 
 | 2022-12-22 | 7047 | 1632 | 
 | 2022-12-21 | 7043 | 1632 | 
 | 2022-12-20 | 7040 | 1629 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 6880 | 1609 | 
 | 2022-11-25 | 6878 | 1609 | 
 | 2022-11-24 | 6872 | 1609 | 
-| 2022-11-23 | 6871 | 1608 | 
 

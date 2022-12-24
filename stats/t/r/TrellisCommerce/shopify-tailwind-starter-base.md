@@ -1,6 +1,6 @@
 # TrellisCommerce/shopify-tailwind-starter-base - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 54 | 35 | 
 | 2022-12-22 | 54 | 35 | 
 | 2022-12-21 | 54 | 35 | 
 | 2022-12-20 | 54 | 35 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 50 | 29 | 
 | 2022-11-25 | 49 | 29 | 
 | 2022-11-24 | 49 | 29 | 
-| 2022-11-23 | 49 | 28 | 
 

@@ -1,8 +1,8 @@
 # deedy/Deedy-Resume - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 1178
+☋ Forks: 1177
 
 ★ Stars: 4429
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 4429 | 1177 | 
 | 2022-12-22 | 4429 | 1178 | 
 | 2022-12-21 | 4427 | 1178 | 
 | 2022-12-20 | 4427 | 1178 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 4417 | 1177 | 
 | 2022-11-25 | 4417 | 1178 | 
 | 2022-11-24 | 4417 | 1178 | 
-| 2022-11-23 | 4417 | 1178 | 
 

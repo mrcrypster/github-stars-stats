@@ -1,10 +1,10 @@
 # openresty/headers-more-nginx-module - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 192
 
-★ Stars: 1457
+★ Stars: 1458
 
 [Open repository](https://github.com/openresty/headers-more-nginx-module)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 1458 | 192 | 
 | 2022-12-22 | 1457 | 192 | 
 | 2022-12-21 | 1456 | 192 | 
 | 2022-12-20 | 1456 | 192 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 1449 | 191 | 
 | 2022-11-25 | 1449 | 191 | 
 | 2022-11-24 | 1449 | 191 | 
-| 2022-11-23 | 1449 | 191 | 
 

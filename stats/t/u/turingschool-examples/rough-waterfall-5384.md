@@ -1,6 +1,6 @@
 # turingschool-examples/rough-waterfall-5384 - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | - | 35 | 
 | 2022-12-23 | - | 35 | 
 | 2022-12-22 | - | 35 | 
 | 2022-12-20 | - | 35 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-26 | - | 35 | 
 | 2022-11-25 | - | 35 | 
 | 2022-11-24 | - | 35 | 
-| 2022-11-23 | - | 35 | 
 

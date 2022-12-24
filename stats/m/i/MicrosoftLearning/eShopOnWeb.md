@@ -1,8 +1,8 @@
 # MicrosoftLearning/eShopOnWeb - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
-☋ Forks: 28
+☋ Forks: 29
 
 ★ Stars: 21
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 21 | 29 | 
 | 2022-12-23 | 21 | 28 | 
 | 2022-12-22 | 21 | 28 | 
 | 2022-12-20 | 21 | 28 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-26 | 16 | 14 | 
 | 2022-11-25 | 16 | 13 | 
 | 2022-11-24 | 16 | 13 | 
-| 2022-11-23 | 15 | 13 | 
 

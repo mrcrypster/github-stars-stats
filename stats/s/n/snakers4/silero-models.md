@@ -1,10 +1,10 @@
 # snakers4/silero-models - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 189
 
-★ Stars: 3151
+★ Stars: 3152
 
 [Open repository](https://github.com/snakers4/silero-models)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 3152 | 189 | 
 | 2022-12-22 | 3151 | 189 | 
 | 2022-12-21 | 3149 | 189 | 
 | 2022-12-20 | 3148 | 189 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 3100 | 185 | 
 | 2022-11-25 | 3099 | 185 | 
 | 2022-11-24 | 3097 | 184 | 
-| 2022-11-23 | 3097 | 184 | 
 

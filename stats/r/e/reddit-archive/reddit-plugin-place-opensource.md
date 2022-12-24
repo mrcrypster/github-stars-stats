@@ -1,6 +1,6 @@
 # reddit-archive/reddit-plugin-place-opensource - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 87
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 971 | 87 | 
 | 2022-12-22 | 971 | 87 | 
 | 2022-12-21 | 971 | 87 | 
 | 2022-12-20 | 971 | 87 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 970 | 84 | 
 | 2022-11-25 | 969 | 84 | 
 | 2022-11-24 | 969 | 84 | 
-| 2022-11-23 | 969 | 84 | 
 

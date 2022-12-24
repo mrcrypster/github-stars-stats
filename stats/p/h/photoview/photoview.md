@@ -1,10 +1,10 @@
 # photoview/photoview - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 261
+☋ Forks: 262
 
-★ Stars: 3331
+★ Stars: 3332
 
 [Open repository](https://github.com/photoview/photoview)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 3332 | 262 | 
 | 2022-12-22 | 3331 | 261 | 
 | 2022-12-21 | 3330 | 261 | 
 | 2022-12-20 | 3328 | 261 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 3237 | 251 | 
 | 2022-11-25 | 3235 | 250 | 
 | 2022-11-24 | 3232 | 249 | 
-| 2022-11-23 | 3231 | 249 | 
 

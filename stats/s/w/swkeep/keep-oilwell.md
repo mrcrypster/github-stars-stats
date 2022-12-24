@@ -1,10 +1,10 @@
 # swkeep/keep-oilwell - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 34
 
-★ Stars: 65
+★ Stars: 66
 
 [Open repository](https://github.com/swkeep/keep-oilwell)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 66 | 34 | 
 | 2022-12-22 | 65 | 34 | 
 | 2022-12-21 | 65 | 34 | 
 | 2022-12-20 | 65 | 34 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-27 | 62 | 35 | 
 | 2022-11-26 | 62 | 35 | 
 | 2022-11-25 | 62 | 35 | 
-| 2022-11-24 | 61 | 35 | 
 

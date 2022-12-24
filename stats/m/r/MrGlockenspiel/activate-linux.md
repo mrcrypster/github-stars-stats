@@ -1,10 +1,10 @@
 # MrGlockenspiel/activate-linux - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 68
+☋ Forks: 67
 
-★ Stars: 3277
+★ Stars: 3279
 
 [Open repository](https://github.com/MrGlockenspiel/activate-linux)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 3279 | 67 | 
 | 2022-12-22 | 3277 | 68 | 
 | 2022-12-21 | 3278 | 68 | 
 | 2022-12-20 | 3278 | 68 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 3258 | 67 | 
 | 2022-11-25 | 3252 | 67 | 
 | 2022-11-24 | 3251 | 67 | 
-| 2022-11-23 | 3251 | 67 | 
 

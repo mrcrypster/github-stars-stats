@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 23
 
-☋ Forks: 2379
+☋ Forks: 2380
 
-★ Stars: 37942
+★ Stars: 37948
 
 [Open repository](https://github.com/styled-components/styled-components)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-23 | 37942 | 2379 | 
+| 2022-12-23 | 37948 | 2380 | 
 | 2022-12-22 | 37933 | 2376 | 
 | 2022-12-21 | 37929 | 2374 | 
 | 2022-12-19 | 37925 | 2375 | 
@@ -39,5 +39,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 37802 | 2371 | 
 | 2022-11-26 | 37800 | 2368 | 
 | 2022-11-25 | 37788 | 2368 | 
-| 2022-11-23 | 37781 | 2367 | 
 

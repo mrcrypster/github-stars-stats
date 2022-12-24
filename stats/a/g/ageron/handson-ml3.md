@@ -1,10 +1,10 @@
 # ageron/handson-ml3 - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
-☋ Forks: 522
+☋ Forks: 524
 
-★ Stars: 1554
+★ Stars: 1559
 
 [Open repository](https://github.com/ageron/handson-ml3)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 1559 | 524 | 
 | 2022-12-22 | 1554 | 522 | 
 | 2022-12-21 | 1544 | 519 | 
 | 2022-12-20 | 1536 | 514 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 1330 | 431 | 
 | 2022-11-25 | 1315 | 430 | 
 | 2022-11-24 | 1303 | 423 | 
-| 2022-11-23 | 1282 | 419 | 
 

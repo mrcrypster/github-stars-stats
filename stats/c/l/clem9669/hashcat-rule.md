@@ -1,6 +1,6 @@
 # clem9669/hashcat-rule - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 288 | 38 | 
 | 2022-12-23 | 288 | 38 | 
 | 2022-12-22 | 287 | 38 | 
 | 2022-12-20 | 287 | 38 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-26 | 283 | 37 | 
 | 2022-11-25 | 283 | 37 | 
 | 2022-11-24 | 283 | 37 | 
-| 2022-11-23 | 283 | 37 | 
 

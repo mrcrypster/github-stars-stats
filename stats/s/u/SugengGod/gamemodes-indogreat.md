@@ -1,6 +1,6 @@
 # SugengGod/gamemodes-indogreat - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 8 | 26 | 
 | 2022-12-22 | 8 | 26 | 
 | 2022-12-21 | 8 | 26 | 
 | 2022-12-20 | 8 | 26 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 8 | 24 | 
 | 2022-11-25 | 8 | 24 | 
 | 2022-11-24 | 8 | 24 | 
-| 2022-11-23 | 8 | 24 | 
 

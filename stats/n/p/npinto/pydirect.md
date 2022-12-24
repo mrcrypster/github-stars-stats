@@ -1,6 +1,6 @@
 # npinto/pydirect - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 8 | 5 | 
 | 2022-12-22 | 8 | 5 | 
 | 2022-12-21 | 8 | 5 | 
 | 2022-12-20 | 8 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 8 | 5 | 
 | 2022-11-25 | 8 | 5 | 
 | 2022-11-24 | 8 | 5 | 
-| 2022-11-23 | 8 | 5 | 
 

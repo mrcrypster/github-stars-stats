@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 23
 
 ☋ Forks: 51
 
-★ Stars: 362
+★ Stars: 365
 
 [Open repository](https://github.com/arthurspk/guiadecybersecurity)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-23 | 362 | 51 | 
+| 2022-12-23 | 365 | 51 | 
 | 2022-12-22 | 356 | 51 | 
 | 2022-12-21 | 350 | 51 | 
 | 2022-12-20 | 331 | 48 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-26 | 239 | 32 | 
 | 2022-11-25 | 236 | 32 | 
 | 2022-11-24 | 234 | 32 | 
-| 2022-11-23 | 230 | 31 | 
 

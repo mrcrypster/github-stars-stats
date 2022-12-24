@@ -1,10 +1,10 @@
 # hacoidev/ophim-core - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 28
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/hacoidev/ophim-core)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 37 | 28 | 
 | 2022-12-23 | 36 | 28 | 
 | 2022-12-21 | 36 | 28 | 
 | 2022-12-20 | 36 | 28 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-26 | 34 | 27 | 
 | 2022-11-25 | 34 | 27 | 
 | 2022-11-24 | 34 | 27 | 
-| 2022-11-23 | 34 | 27 | 
 

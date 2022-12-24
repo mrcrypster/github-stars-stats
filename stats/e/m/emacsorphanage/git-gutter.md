@@ -1,6 +1,6 @@
 # emacsorphanage/git-gutter - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 64
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 775 | 64 | 
 | 2022-12-22 | 775 | 64 | 
 | 2022-12-21 | 775 | 64 | 
 | 2022-12-20 | 775 | 64 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-27 | 771 | 65 | 
 | 2022-11-26 | 771 | 65 | 
 | 2022-11-25 | 771 | 65 | 
-| 2022-11-23 | 771 | 65 | 
 

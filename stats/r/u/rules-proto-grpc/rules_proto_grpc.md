@@ -1,6 +1,6 @@
 # rules-proto-grpc/rules_proto_grpc - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 112
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 188 | 112 | 
 | 2022-12-22 | 188 | 112 | 
 | 2022-12-21 | 188 | 112 | 
 | 2022-12-20 | 188 | 112 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-26 | 181 | 109 | 
 | 2022-11-25 | 181 | 109 | 
 | 2022-11-24 | 181 | 109 | 
-| 2022-11-23 | 181 | 109 | 
 

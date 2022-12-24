@@ -1,10 +1,10 @@
 # antonmedv/llama - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 39
 
-★ Stars: 1080
+★ Stars: 1084
 
 [Open repository](https://github.com/antonmedv/llama)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 1084 | 39 | 
 | 2022-12-22 | 1080 | 39 | 
 | 2022-12-21 | 1077 | 39 | 
 | 2022-12-20 | 1076 | 39 | 

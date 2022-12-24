@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 23
 
 ☋ Forks: 429
 
-★ Stars: 162
+★ Stars: 163
 
 [Open repository](https://github.com/pages-themes/leap-day)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-23 | 162 | 429 | 
+| 2022-12-23 | 163 | 429 | 
 | 2022-12-22 | 162 | 429 | 
 | 2022-12-21 | 162 | 428 | 
 | 2022-12-20 | 162 | 428 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-26 | 160 | 426 | 
 | 2022-11-25 | 160 | 426 | 
 | 2022-11-24 | 160 | 426 | 
-| 2022-11-23 | 160 | 426 | 
 

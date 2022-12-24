@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 23
 
 ☋ Forks: 771
 
-★ Stars: 4242
+★ Stars: 4243
 
 [Open repository](https://github.com/asciidoctor/asciidoctor)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-23 | 4242 | 771 | 
+| 2022-12-23 | 4243 | 771 | 
 | 2022-12-22 | 4242 | 771 | 
 | 2022-12-21 | 4242 | 771 | 
 | 2022-12-20 | 4241 | 771 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-26 | 4230 | 767 | 
 | 2022-11-25 | 4230 | 767 | 
 | 2022-11-24 | 4230 | 767 | 
-| 2022-11-23 | 4228 | 767 | 
 

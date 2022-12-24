@@ -1,10 +1,10 @@
 # armory3d/armorlab - stars & forks statistics
 
-Stats updated on Dec 2022, 22
+Stats updated on Dec 2022, 23
 
 ☋ Forks: 15
 
-★ Stars: 157
+★ Stars: 158
 
 [Open repository](https://github.com/armory3d/armorlab)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-23 | 158 | 15 | 
 | 2022-12-22 | 157 | 15 | 
 | 2022-12-21 | 156 | 15 | 
 | 2022-12-20 | 156 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 22
 | 2022-11-27 | 139 | 14 | 
 | 2022-11-26 | 138 | 13 | 
 | 2022-11-25 | 138 | 13 | 
-| 2022-11-24 | 138 | 13 | 
 
