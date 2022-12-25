@@ -1,8 +1,8 @@
 # chriscourses/fighting-game - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
-☋ Forks: 120
+☋ Forks: 121
 
 ★ Stars: 206
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 206 | 121 | 
 | 2022-12-23 | 206 | 120 | 
 | 2022-12-22 | 206 | 120 | 
 | 2022-12-21 | 206 | 118 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 199 | 115 | 
 | 2022-11-26 | 198 | 115 | 
 | 2022-11-25 | 198 | 115 | 
-| 2022-11-24 | 198 | 115 | 
 

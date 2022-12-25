@@ -1,6 +1,6 @@
 # LasCC/Hack-Tools - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 461
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 3945 | 461 | 
 | 2022-12-23 | 3945 | 461 | 
 | 2022-12-22 | 3945 | 460 | 
 | 2022-12-21 | 3940 | 460 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 3871 | 451 | 
 | 2022-11-26 | 3866 | 450 | 
 | 2022-11-25 | 3865 | 450 | 
-| 2022-11-24 | 3861 | 450 | 
 

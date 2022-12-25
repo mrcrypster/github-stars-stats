@@ -1,10 +1,10 @@
 # linkerd/linkerd2 - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 1088
 
-★ Stars: 9146
+★ Stars: 9149
 
 [Open repository](https://github.com/linkerd/linkerd2)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 9149 | 1088 | 
 | 2022-12-23 | 9146 | 1088 | 
 | 2022-12-22 | 9146 | 1090 | 
 | 2022-12-21 | 9142 | 1089 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 9078 | 1080 | 
 | 2022-11-26 | 9078 | 1079 | 
 | 2022-11-25 | 9077 | 1079 | 
-| 2022-11-24 | 9075 | 1079 | 
 

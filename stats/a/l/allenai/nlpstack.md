@@ -1,6 +1,6 @@
 # allenai/nlpstack - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 42 | 10 | 
 | 2022-12-23 | 42 | 10 | 
 | 2022-12-22 | 42 | 10 | 
 | 2022-12-21 | 42 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 42 | 10 | 
 | 2022-11-26 | 42 | 10 | 
 | 2022-11-25 | 42 | 10 | 
-| 2022-11-24 | 42 | 10 | 
 

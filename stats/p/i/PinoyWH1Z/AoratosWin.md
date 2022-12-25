@@ -1,6 +1,6 @@
 # PinoyWH1Z/AoratosWin - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 101 | 15 | 
 | 2022-12-23 | 101 | 15 | 
 | 2022-12-22 | 101 | 15 | 
 | 2022-12-21 | 101 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 81 | 14 | 
 | 2022-11-26 | 81 | 14 | 
 | 2022-11-25 | 81 | 14 | 
-| 2022-11-24 | 81 | 14 | 
 

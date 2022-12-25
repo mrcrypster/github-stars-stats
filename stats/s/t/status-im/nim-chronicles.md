@@ -1,10 +1,10 @@
 # status-im/nim-chronicles - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 22
 
-★ Stars: 126
+★ Stars: 127
 
 [Open repository](https://github.com/status-im/nim-chronicles)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 127 | 22 | 
 | 2022-12-23 | 126 | 22 | 
 | 2022-12-22 | 125 | 22 | 
 | 2022-12-21 | 125 | 22 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 123 | 21 | 
 | 2022-11-26 | 123 | 21 | 
 | 2022-11-25 | 123 | 21 | 
-| 2022-11-24 | 123 | 21 | 
 

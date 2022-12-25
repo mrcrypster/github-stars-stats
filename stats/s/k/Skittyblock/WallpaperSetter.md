@@ -1,10 +1,10 @@
 # Skittyblock/WallpaperSetter - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 0
 
-★ Stars: 49
+★ Stars: 50
 
 [Open repository](https://github.com/Skittyblock/WallpaperSetter)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 50 | - | 
 | 2022-12-23 | 49 | - | 
 | 2022-12-22 | 49 | - | 
 | 2022-12-21 | 49 | - | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 49 | - | 
 | 2022-11-26 | 48 | - | 
 | 2022-11-25 | 48 | - | 
-| 2022-11-24 | 48 | - | 
 

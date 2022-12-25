@@ -1,6 +1,6 @@
 # MicrosoftDocs/OfficeDocs-SharePoint - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 537
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 341 | 537 | 
 | 2022-12-23 | 341 | 537 | 
 | 2022-12-22 | 341 | 537 | 
 | 2022-12-21 | 341 | 537 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 340 | 532 | 
 | 2022-11-26 | 340 | 532 | 
 | 2022-11-25 | 340 | 532 | 
-| 2022-11-24 | 340 | 532 | 
 

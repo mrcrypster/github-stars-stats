@@ -1,6 +1,6 @@
 # JetBrains/intellij-scala - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 387
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 1098 | 387 | 
 | 2022-12-23 | 1098 | 387 | 
 | 2022-12-22 | 1098 | 387 | 
 | 2022-12-21 | 1098 | 387 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-28 | 1092 | 387 | 
 | 2022-11-27 | 1092 | 388 | 
 | 2022-11-26 | 1093 | 388 | 
-| 2022-11-24 | 1092 | 388 | 
 

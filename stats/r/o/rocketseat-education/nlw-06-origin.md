@@ -1,6 +1,6 @@
 # rocketseat-education/nlw-06-origin - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 168
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 346 | 168 | 
 | 2022-12-23 | 346 | 168 | 
 | 2022-12-22 | 346 | 168 | 
 | 2022-12-21 | 346 | 168 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-28 | 349 | 166 | 
 | 2022-11-27 | 349 | 166 | 
 | 2022-11-25 | 349 | 166 | 
-| 2022-11-24 | 350 | 166 | 
 

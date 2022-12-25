@@ -1,6 +1,6 @@
 # liquidz/build.edn - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 57 | 2 | 
 | 2022-12-23 | 57 | 2 | 
 | 2022-12-22 | 57 | 2 | 
 | 2022-12-21 | 57 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 57 | 2 | 
 | 2022-11-26 | 57 | 2 | 
 | 2022-11-25 | 57 | 2 | 
-| 2022-11-24 | 57 | 2 | 
 

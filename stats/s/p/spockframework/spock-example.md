@@ -1,6 +1,6 @@
 # spockframework/spock-example - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 496
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 715 | 496 | 
 | 2022-12-23 | 715 | 496 | 
 | 2022-12-22 | 715 | 496 | 
 | 2022-12-21 | 714 | 496 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 710 | 495 | 
 | 2022-11-26 | 710 | 494 | 
 | 2022-11-25 | 709 | 494 | 
-| 2022-11-24 | 709 | 494 | 
 

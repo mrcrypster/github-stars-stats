@@ -1,10 +1,10 @@
 # jacobeisenstein/gt-nlp-class - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 1038
 
-★ Stars: 4667
+★ Stars: 4668
 
 [Open repository](https://github.com/jacobeisenstein/gt-nlp-class)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 4668 | 1038 | 
 | 2022-12-23 | 4667 | 1038 | 
 | 2022-12-22 | 4667 | 1038 | 
 | 2022-12-21 | 4667 | 1038 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 4658 | 1038 | 
 | 2022-11-26 | 4658 | 1037 | 
 | 2022-11-25 | 4658 | 1037 | 
-| 2022-11-24 | 4658 | 1037 | 
 

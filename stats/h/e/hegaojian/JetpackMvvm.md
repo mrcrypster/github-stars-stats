@@ -1,6 +1,6 @@
 # hegaojian/JetpackMvvm - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 508
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 2530 | 508 | 
 | 2022-12-23 | 2530 | 508 | 
 | 2022-12-22 | 2529 | 508 | 
 | 2022-12-21 | 2529 | 508 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 2508 | 501 | 
 | 2022-11-26 | 2509 | 501 | 
 | 2022-11-25 | 2508 | 501 | 
-| 2022-11-24 | 2508 | 502 | 
 

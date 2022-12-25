@@ -1,10 +1,10 @@
 # s8ngyu/Mugunghwa - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 9
 
-★ Stars: 206
+★ Stars: 207
 
 [Open repository](https://github.com/s8ngyu/Mugunghwa)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 207 | 9 | 
 | 2022-12-23 | 206 | 9 | 
 | 2022-12-22 | 206 | 9 | 
 | 2022-12-21 | 206 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 202 | 8 | 
 | 2022-11-26 | 200 | 8 | 
 | 2022-11-25 | 199 | 8 | 
-| 2022-11-24 | 199 | 8 | 
 

@@ -1,10 +1,10 @@
 # Raicuparta/two-forks-vr - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 3
 
-★ Stars: 76
+★ Stars: 75
 
 [Open repository](https://github.com/Raicuparta/two-forks-vr)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 75 | 3 | 
 | 2022-12-23 | 76 | 3 | 
 | 2022-12-22 | 76 | 3 | 
 | 2022-12-21 | 76 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-28 | 75 | 4 | 
 | 2022-11-27 | 75 | 4 | 
 | 2022-11-25 | 75 | 4 | 
-| 2022-11-24 | 75 | 4 | 
 

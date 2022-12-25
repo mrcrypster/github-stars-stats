@@ -1,6 +1,6 @@
 # symfony/var-dumper - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 95
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 7100 | 95 | 
 | 2022-12-24 | 7100 | 95 | 
 | 2022-12-23 | 7099 | 95 | 
 | 2022-12-22 | 7097 | 95 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-27 | 7079 | 94 | 
 | 2022-11-26 | 7075 | 94 | 
 | 2022-11-25 | 7073 | 94 | 
-| 2022-11-24 | 7072 | 94 | 
 

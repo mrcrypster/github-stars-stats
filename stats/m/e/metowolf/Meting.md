@@ -1,8 +1,8 @@
 # metowolf/Meting - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
-☋ Forks: 502
+☋ Forks: 503
 
 ★ Stars: 1568
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 1568 | 503 | 
 | 2022-12-23 | 1568 | 502 | 
 | 2022-12-22 | 1568 | 502 | 
 | 2022-12-21 | 1567 | 502 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 1561 | 501 | 
 | 2022-11-26 | 1561 | 501 | 
 | 2022-11-25 | 1561 | 501 | 
-| 2022-11-24 | 1561 | 501 | 
 

@@ -1,6 +1,6 @@
 # addy-dclxvi/i3-starterpack - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 171
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 1282 | 171 | 
 | 2022-12-23 | 1282 | 171 | 
 | 2022-12-22 | 1282 | 171 | 
 | 2022-12-21 | 1281 | 171 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 1277 | 171 | 
 | 2022-11-26 | 1276 | 171 | 
 | 2022-11-25 | 1275 | 171 | 
-| 2022-11-24 | 1274 | 171 | 
 

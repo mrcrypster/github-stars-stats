@@ -1,6 +1,6 @@
 # qu3vipon/python-ddd - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 131 | 7 | 
 | 2022-12-24 | 131 | 7 | 
 | 2022-12-22 | 131 | 7 | 
 | 2022-12-21 | 130 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 126 | 6 | 
 | 2022-11-27 | 126 | 6 | 
 | 2022-11-26 | 126 | 6 | 
-| 2022-11-24 | 125 | 6 | 
 

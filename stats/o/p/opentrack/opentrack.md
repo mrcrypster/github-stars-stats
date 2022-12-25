@@ -1,10 +1,10 @@
 # opentrack/opentrack - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 358
 
-★ Stars: 2454
+★ Stars: 2455
 
 [Open repository](https://github.com/opentrack/opentrack)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 2455 | 358 | 
 | 2022-12-23 | 2454 | 358 | 
 | 2022-12-22 | 2453 | 358 | 
 | 2022-12-21 | 2452 | 358 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 2424 | 357 | 
 | 2022-11-26 | 2422 | 356 | 
 | 2022-11-25 | 2418 | 355 | 
-| 2022-11-24 | 2416 | 355 | 
 

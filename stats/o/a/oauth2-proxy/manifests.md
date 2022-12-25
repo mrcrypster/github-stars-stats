@@ -1,10 +1,10 @@
 # oauth2-proxy/manifests - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 106
 
-★ Stars: 96
+★ Stars: 97
 
 [Open repository](https://github.com/oauth2-proxy/manifests)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 97 | 106 | 
 | 2022-12-23 | 96 | 106 | 
 | 2022-12-22 | 96 | 106 | 
 | 2022-12-21 | 96 | 106 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 96 | 102 | 
 | 2022-11-26 | 96 | 102 | 
 | 2022-11-25 | 96 | 102 | 
-| 2022-11-24 | 97 | 102 | 
 

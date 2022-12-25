@@ -1,6 +1,6 @@
 # micah5/PSone.css - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 469 | 29 | 
 | 2022-12-23 | 469 | 29 | 
 | 2022-12-22 | 469 | 29 | 
 | 2022-12-21 | 469 | 29 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 466 | 29 | 
 | 2022-11-26 | 466 | 29 | 
 | 2022-11-25 | 466 | 29 | 
-| 2022-11-24 | 466 | 29 | 
 

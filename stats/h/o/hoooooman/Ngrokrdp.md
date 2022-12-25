@@ -1,8 +1,8 @@
 # hoooooman/Ngrokrdp - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
-☋ Forks: 18
+☋ Forks: 19
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | - | 19 | 
 | 2022-12-23 | - | 18 | 
 | 2022-12-22 | - | 18 | 
 | 2022-12-21 | - | 18 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-28 | - | 16 | 
 | 2022-11-26 | - | 16 | 
 | 2022-11-25 | - | 16 | 
-| 2022-11-24 | - | 16 | 
 

@@ -1,10 +1,10 @@
 # SailyTeam/Saily - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 49
 
-★ Stars: 620
+★ Stars: 622
 
 [Open repository](https://github.com/SailyTeam/Saily)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 622 | 49 | 
 | 2022-12-23 | 620 | 49 | 
 | 2022-12-22 | 617 | 49 | 
 | 2022-12-21 | 617 | 49 | 

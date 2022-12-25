@@ -1,6 +1,6 @@
 # GaloisInc/saw-script - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 407 | 63 | 
 | 2022-12-23 | 407 | 63 | 
 | 2022-12-22 | 407 | 63 | 
 | 2022-12-21 | 407 | 63 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 406 | 61 | 
 | 2022-11-26 | 406 | 61 | 
 | 2022-11-25 | 405 | 61 | 
-| 2022-11-24 | 404 | 61 | 
 

@@ -1,6 +1,6 @@
 # aleixrodriala/wa-tunnel - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 1580 | 62 | 
 | 2022-12-23 | 1580 | 62 | 
 | 2022-12-22 | 1580 | 62 | 
 | 2022-12-21 | 1580 | 62 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 1522 | 59 | 
 | 2022-11-26 | 1519 | 58 | 
 | 2022-11-25 | 1517 | 58 | 
-| 2022-11-24 | 1509 | 58 | 
 

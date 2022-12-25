@@ -1,6 +1,6 @@
 # redpanda-data/helm-charts - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 21 | 35 | 
 | 2022-12-23 | 21 | 35 | 
 | 2022-12-22 | 21 | 35 | 
 | 2022-12-21 | 21 | 35 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 20 | 30 | 
 | 2022-11-26 | 20 | 30 | 
 | 2022-11-25 | 20 | 30 | 
-| 2022-11-24 | 20 | 29 | 
 

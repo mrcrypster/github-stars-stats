@@ -1,10 +1,10 @@
 # myoung34/docker-github-actions-runner - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 275
 
-★ Stars: 903
+★ Stars: 904
 
 [Open repository](https://github.com/myoung34/docker-github-actions-runner)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 904 | 275 | 
 | 2022-12-23 | 903 | 275 | 
 | 2022-12-22 | 902 | 275 | 
 | 2022-12-21 | 901 | 275 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 877 | 268 | 
 | 2022-11-26 | 874 | 268 | 
 | 2022-11-25 | 874 | 268 | 
-| 2022-11-24 | 872 | 268 | 
 

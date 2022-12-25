@@ -1,6 +1,6 @@
 # bugfender/BugfenderSDK-iOS - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 69 | 33 | 
 | 2022-12-23 | 69 | 33 | 
 | 2022-12-22 | 69 | 33 | 
 | 2022-12-21 | 69 | 33 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 68 | 33 | 
 | 2022-11-26 | 68 | 33 | 
 | 2022-11-25 | 68 | 33 | 
-| 2022-11-24 | 68 | 33 | 
 

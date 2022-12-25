@@ -1,6 +1,6 @@
 # rclex/rclex - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 106 | 8 | 
 | 2022-12-23 | 106 | 8 | 
 | 2022-12-22 | 106 | 8 | 
 | 2022-12-21 | 106 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 98 | 7 | 
 | 2022-11-26 | 98 | 7 | 
 | 2022-11-25 | 98 | 7 | 
-| 2022-11-24 | 98 | 7 | 
 

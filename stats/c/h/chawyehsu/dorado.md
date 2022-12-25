@@ -1,6 +1,6 @@
 # chawyehsu/dorado - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 89
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 782 | 89 | 
 | 2022-12-23 | 782 | 89 | 
 | 2022-12-22 | 782 | 89 | 
 | 2022-12-21 | 782 | 89 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 767 | 88 | 
 | 2022-11-26 | 767 | 88 | 
 | 2022-11-25 | 765 | 88 | 
-| 2022-11-24 | 765 | 88 | 
 

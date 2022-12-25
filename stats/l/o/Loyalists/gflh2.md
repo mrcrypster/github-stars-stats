@@ -1,10 +1,10 @@
 # Loyalists/gflh2 - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 1
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/Loyalists/gflh2)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 17 | 1 | 
 | 2022-12-23 | 16 | 1 | 
 | 2022-12-22 | 16 | 1 | 
 | 2022-12-21 | 16 | 1 | 

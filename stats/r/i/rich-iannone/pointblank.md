@@ -1,10 +1,10 @@
 # rich-iannone/pointblank - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 38
 
-★ Stars: 698
+★ Stars: 699
 
 [Open repository](https://github.com/rich-iannone/pointblank)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 699 | 38 | 
 | 2022-12-24 | 698 | 38 | 
 | 2022-12-23 | 698 | 38 | 
 | 2022-12-22 | 698 | 38 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-27 | 693 | 38 | 
 | 2022-11-26 | 693 | 38 | 
 | 2022-11-25 | 693 | 37 | 
-| 2022-11-24 | 693 | 37 | 
 

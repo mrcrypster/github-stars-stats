@@ -1,6 +1,6 @@
 # kkipngenokoech/curated-projects - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 3 | 7 | 
 | 2022-12-23 | 3 | 7 | 
 | 2022-12-22 | 3 | 7 | 
 | 2022-12-21 | 3 | 7 | 

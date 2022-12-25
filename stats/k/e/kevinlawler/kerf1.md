@@ -1,6 +1,6 @@
 # kevinlawler/kerf1 - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 520 | 36 | 
 | 2022-12-24 | 520 | 36 | 
 | 2022-12-22 | 520 | 36 | 
 | 2022-12-21 | 520 | 36 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-27 | 519 | 36 | 
 | 2022-11-26 | 519 | 36 | 
 | 2022-11-25 | 519 | 36 | 
-| 2022-11-24 | 519 | 36 | 
 

@@ -1,6 +1,6 @@
 # google/devops-governance - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 44 | 6 | 
 | 2022-12-23 | 44 | 6 | 
 | 2022-12-22 | 44 | 4 | 
 | 2022-12-21 | 44 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-28 | 40 | 3 | 
 | 2022-11-26 | 40 | 3 | 
 | 2022-11-25 | 40 | 3 | 
-| 2022-11-24 | 40 | 3 | 
 

@@ -1,8 +1,8 @@
 # ine-labs/GCPGoat - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
-☋ Forks: 19
+☋ Forks: 21
 
 ★ Stars: 177
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 177 | 21 | 
 | 2022-12-23 | 177 | 19 | 
 | 2022-12-22 | 177 | 19 | 
 | 2022-12-21 | 176 | 19 | 

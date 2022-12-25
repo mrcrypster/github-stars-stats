@@ -1,10 +1,10 @@
 # gwern/gwern.net - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 23
 
-★ Stars: 244
+★ Stars: 245
 
 [Open repository](https://github.com/gwern/gwern.net)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 245 | 23 | 
 | 2022-12-23 | 244 | 23 | 
 | 2022-12-22 | 244 | 23 | 
 | 2022-12-21 | 241 | 23 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-28 | 233 | 23 | 
 | 2022-11-27 | 231 | 23 | 
 | 2022-11-26 | 230 | 23 | 
-| 2022-11-25 | 230 | 23 | 
 

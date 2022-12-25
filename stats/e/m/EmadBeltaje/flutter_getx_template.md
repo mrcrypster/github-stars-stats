@@ -1,6 +1,6 @@
 # EmadBeltaje/flutter_getx_template - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 143 | 54 | 
 | 2022-12-23 | 143 | 54 | 
 | 2022-12-22 | 141 | 54 | 
 | 2022-12-21 | 141 | 54 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 131 | 51 | 
 | 2022-11-26 | 131 | 51 | 
 | 2022-11-25 | 130 | 51 | 
-| 2022-11-24 | 130 | 51 | 
 

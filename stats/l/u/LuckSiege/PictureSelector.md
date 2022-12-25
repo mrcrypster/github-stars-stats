@@ -1,6 +1,6 @@
 # LuckSiege/PictureSelector - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 2809
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 12108 | 2809 | 
 | 2022-12-23 | 12108 | 2809 | 
 | 2022-12-22 | 12106 | 2809 | 
 | 2022-12-21 | 12105 | 2809 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 12061 | 2804 | 
 | 2022-11-26 | 12059 | 2804 | 
 | 2022-11-25 | 12057 | 2804 | 
-| 2022-11-24 | 12052 | 2805 | 
 

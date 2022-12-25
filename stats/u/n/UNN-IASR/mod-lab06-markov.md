@@ -1,6 +1,6 @@
 # UNN-IASR/mod-lab06-markov - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | - | 28 | 
 | 2022-12-24 | - | 28 | 
 | 2022-12-23 | - | 28 | 
 | 2022-12-21 | - | 28 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-27 | - | 28 | 
 | 2022-11-26 | - | 28 | 
 | 2022-11-25 | - | 28 | 
-| 2022-11-24 | - | 28 | 
 

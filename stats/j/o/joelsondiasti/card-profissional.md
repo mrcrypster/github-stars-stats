@@ -1,6 +1,6 @@
 # joelsondiasti/card-profissional - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 1 | 31 | 
 | 2022-12-23 | 1 | 31 | 
 | 2022-12-22 | 1 | 31 | 
 | 2022-12-21 | 1 | 31 | 

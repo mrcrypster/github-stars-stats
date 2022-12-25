@@ -1,10 +1,10 @@
 # nolimits4web/swiper - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
-☋ Forks: 9654
+☋ Forks: 9656
 
-★ Stars: 33576
+★ Stars: 33583
 
 [Open repository](https://github.com/nolimits4web/swiper)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 33583 | 9656 | 
 | 2022-12-23 | 33576 | 9654 | 
 | 2022-12-22 | 33570 | 9653 | 
 | 2022-12-21 | 33565 | 9652 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 33322 | 9647 | 
 | 2022-11-26 | 33317 | 9647 | 
 | 2022-11-25 | 33310 | 9647 | 
-| 2022-11-24 | 33297 | 9647 | 
 

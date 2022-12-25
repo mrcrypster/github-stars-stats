@@ -1,8 +1,8 @@
 # bsefwe/mogenius - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
-☋ Forks: 227
+☋ Forks: 228
 
 ★ Stars: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 12 | 228 | 
 | 2022-12-23 | 12 | 227 | 
 | 2022-12-22 | 12 | 224 | 
 | 2022-12-21 | 12 | 224 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 11 | 166 | 
 | 2022-11-26 | 11 | 164 | 
 | 2022-11-25 | 11 | 157 | 
-| 2022-11-24 | 10 | 152 | 
 

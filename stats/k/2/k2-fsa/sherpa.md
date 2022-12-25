@@ -1,6 +1,6 @@
 # k2-fsa/sherpa - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 148 | 34 | 
 | 2022-12-23 | 148 | 34 | 
 | 2022-12-22 | 146 | 33 | 
 | 2022-12-21 | 146 | 34 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 135 | 29 | 
 | 2022-11-26 | 135 | 29 | 
 | 2022-11-25 | 135 | 29 | 
-| 2022-11-24 | 135 | 29 | 
 

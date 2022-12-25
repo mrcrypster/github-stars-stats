@@ -1,10 +1,10 @@
 # Ensembl/ensembl-vep - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 132
 
-★ Stars: 355
+★ Stars: 356
 
 [Open repository](https://github.com/Ensembl/ensembl-vep)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 356 | 132 | 
 | 2022-12-23 | 355 | 132 | 
 | 2022-12-22 | 355 | 132 | 
 | 2022-12-21 | 355 | 132 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 350 | 131 | 
 | 2022-11-26 | 350 | 131 | 
 | 2022-11-25 | 350 | 131 | 
-| 2022-11-24 | 350 | 131 | 
 

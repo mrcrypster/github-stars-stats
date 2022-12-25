@@ -1,10 +1,10 @@
 # alexpate/awesome-design-systems - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 1009
 
-★ Stars: 14888
+★ Stars: 14893
 
 [Open repository](https://github.com/alexpate/awesome-design-systems)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 14893 | 1009 | 
 | 2022-12-23 | 14888 | 1009 | 
 | 2022-12-22 | 14883 | 1009 | 
 | 2022-12-21 | 14880 | 1009 | 

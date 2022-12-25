@@ -1,6 +1,6 @@
 # ietebitmesra/Hacktoberfest-22 - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 4 | 17 | 
 | 2022-12-23 | 4 | 17 | 
 | 2022-12-22 | 4 | 17 | 
 | 2022-12-21 | 4 | 17 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-28 | 4 | 17 | 
 | 2022-11-27 | 4 | 17 | 
 | 2022-11-25 | 4 | 17 | 
-| 2022-11-24 | 4 | 17 | 
 

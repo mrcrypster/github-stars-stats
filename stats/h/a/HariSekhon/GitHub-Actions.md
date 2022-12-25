@@ -1,6 +1,6 @@
 # HariSekhon/GitHub-Actions - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 20 | 8 | 
 | 2022-12-23 | 20 | 8 | 
 | 2022-12-22 | 19 | 7 | 
 | 2022-12-21 | 19 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 18 | 7 | 
 | 2022-11-26 | 18 | 7 | 
 | 2022-11-25 | 18 | 7 | 
-| 2022-11-24 | 18 | 7 | 
 

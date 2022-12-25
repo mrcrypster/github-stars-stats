@@ -1,10 +1,10 @@
 # cynkra/tv - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 1
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/cynkra/tv)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 15 | 1 | 
 | 2022-12-23 | 14 | 1 | 
 | 2022-12-22 | 14 | 1 | 
 | 2022-12-21 | 14 | 1 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-28 | 13 | 1 | 
 | 2022-11-26 | 13 | 1 | 
 | 2022-11-25 | 13 | 1 | 
-| 2022-11-24 | 13 | 1 | 
 

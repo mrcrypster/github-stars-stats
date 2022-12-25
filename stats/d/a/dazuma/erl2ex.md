@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 24
 
 ☋ Forks: 10
 
-★ Stars: 75
+★ Stars: 76
 
 [Open repository](https://github.com/dazuma/erl2ex)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-24 | 75 | 10 | 
+| 2022-12-24 | 76 | 10 | 
 | 2022-12-23 | 75 | 10 | 
 | 2022-12-21 | 75 | 10 | 
 | 2022-12-20 | 75 | 10 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-27 | 75 | 10 | 
 | 2022-11-26 | 75 | 10 | 
 | 2022-11-25 | 75 | 10 | 
-| 2022-11-24 | 75 | 10 | 
 

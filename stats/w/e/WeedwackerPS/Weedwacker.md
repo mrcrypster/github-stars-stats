@@ -1,10 +1,10 @@
 # WeedwackerPS/Weedwacker - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 22
 
-★ Stars: 64
+★ Stars: 66
 
 [Open repository](https://github.com/WeedwackerPS/Weedwacker)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 66 | 22 | 
 | 2022-12-23 | 64 | 22 | 
 | 2022-12-22 | 64 | 22 | 
 | 2022-12-21 | 63 | 21 | 

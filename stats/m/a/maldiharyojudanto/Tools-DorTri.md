@@ -1,6 +1,6 @@
 # maldiharyojudanto/Tools-DorTri - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 12 | 11 | 
 | 2022-12-23 | 12 | 11 | 
 | 2022-12-22 | 12 | 11 | 
 | 2022-12-21 | 12 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 13 | 11 | 
 | 2022-11-26 | 13 | 11 | 
 | 2022-11-25 | 13 | 11 | 
-| 2022-11-24 | 13 | 11 | 
 

@@ -1,6 +1,6 @@
 # iNDS-Team/iNDS - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 78
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 427 | 78 | 
 | 2022-12-23 | 427 | 78 | 
 | 2022-12-22 | 427 | 78 | 
 | 2022-12-21 | 427 | 78 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 428 | 78 | 
 | 2022-11-26 | 428 | 78 | 
 | 2022-11-25 | 428 | 78 | 
-| 2022-11-24 | 428 | 78 | 
 

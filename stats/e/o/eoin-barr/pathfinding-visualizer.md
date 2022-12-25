@@ -1,6 +1,6 @@
 # eoin-barr/pathfinding-visualizer - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 268 | 19 | 
 | 2022-12-23 | 268 | 19 | 
 | 2022-12-22 | 268 | 19 | 
 | 2022-12-21 | 268 | 19 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-28 | 264 | 20 | 
 | 2022-11-27 | 264 | 20 | 
 | 2022-11-25 | 262 | 20 | 
-| 2022-11-24 | 262 | 20 | 
 

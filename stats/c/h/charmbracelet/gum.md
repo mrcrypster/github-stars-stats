@@ -1,10 +1,10 @@
 # charmbracelet/gum - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
-☋ Forks: 216
+☋ Forks: 215
 
-★ Stars: 11515
+★ Stars: 11520
 
 [Open repository](https://github.com/charmbracelet/gum)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 11520 | 215 | 
 | 2022-12-23 | 11515 | 216 | 
 | 2022-12-22 | 11503 | 216 | 
 | 2022-12-21 | 11496 | 216 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 11292 | 212 | 
 | 2022-11-26 | 11287 | 212 | 
 | 2022-11-25 | 11272 | 212 | 
-| 2022-11-24 | 11260 | 211 | 
 

@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 24
 
 ☋ Forks: 2
 
-★ Stars: 106
+★ Stars: 108
 
 [Open repository](https://github.com/trzy/ChatARKit)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-24 | 106 | 2 | 
+| 2022-12-24 | 108 | 2 | 
 | 2022-12-23 | 104 | 2 | 
 

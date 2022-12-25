@@ -1,10 +1,10 @@
 # cocos2d/cocos2d-x - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 7061
 
-★ Stars: 16705
+★ Stars: 16709
 
 [Open repository](https://github.com/cocos2d/cocos2d-x)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 16709 | 7061 | 
 | 2022-12-23 | 16705 | 7061 | 
 | 2022-12-22 | 16705 | 7061 | 
 | 2022-12-21 | 16703 | 7061 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 16641 | 7053 | 
 | 2022-11-26 | 16637 | 7054 | 
 | 2022-11-25 | 16636 | 7054 | 
-| 2022-11-24 | 16637 | 7054 | 
 

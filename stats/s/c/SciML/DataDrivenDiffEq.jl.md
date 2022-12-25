@@ -1,10 +1,10 @@
 # SciML/DataDrivenDiffEq.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 46
 
-★ Stars: 344
+★ Stars: 345
 
 [Open repository](https://github.com/SciML/DataDrivenDiffEq.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 345 | 46 | 
 | 2022-12-23 | 344 | 46 | 
 | 2022-12-22 | 344 | 46 | 
 | 2022-12-21 | 343 | 46 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 334 | 46 | 
 | 2022-11-26 | 333 | 46 | 
 | 2022-11-25 | 333 | 46 | 
-| 2022-11-24 | 333 | 46 | 
 

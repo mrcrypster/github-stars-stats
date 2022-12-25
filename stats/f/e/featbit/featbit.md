@@ -1,10 +1,10 @@
 # featbit/featbit - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 13
 
-★ Stars: 322
+★ Stars: 327
 
 [Open repository](https://github.com/featbit/featbit)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 327 | 13 | 
 | 2022-12-23 | 322 | 13 | 
 | 2022-12-22 | 317 | 13 | 
 | 2022-12-21 | 303 | 13 | 

@@ -1,10 +1,10 @@
 # thangchung/go-coffeeshop - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
-☋ Forks: 229
+☋ Forks: 232
 
-★ Stars: 2808
+★ Stars: 2821
 
 [Open repository](https://github.com/thangchung/go-coffeeshop)
 
@@ -13,7 +13,8 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-24 | 2808 | 229 | 
+| 2022-12-25 | 2821 | 232 | 
+| 2022-12-24 | 2819 | 232 | 
 | 2022-12-23 | 2803 | 228 | 
 | 2022-12-22 | 2764 | 223 | 
 | 2022-12-21 | 2701 | 219 | 

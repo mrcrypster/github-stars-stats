@@ -1,6 +1,6 @@
 # neargle/my-re0-k8s-security - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 246
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 1511 | 246 | 
 | 2022-12-23 | 1511 | 246 | 
 | 2022-12-22 | 1510 | 246 | 
 | 2022-12-21 | 1510 | 246 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 1497 | 242 | 
 | 2022-11-26 | 1497 | 242 | 
 | 2022-11-25 | 1497 | 240 | 
-| 2022-11-24 | 1497 | 240 | 
 

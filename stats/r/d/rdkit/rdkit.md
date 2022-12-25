@@ -1,8 +1,8 @@
 # rdkit/rdkit - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
-☋ Forks: 719
+☋ Forks: 720
 
 ★ Stars: 1874
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 1874 | 720 | 
 | 2022-12-23 | 1874 | 719 | 
 | 2022-12-22 | 1873 | 720 | 
 | 2022-12-21 | 1871 | 719 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 1837 | 721 | 
 | 2022-11-26 | 1835 | 720 | 
 | 2022-11-25 | 1833 | 720 | 
-| 2022-11-24 | 1833 | 720 | 
 

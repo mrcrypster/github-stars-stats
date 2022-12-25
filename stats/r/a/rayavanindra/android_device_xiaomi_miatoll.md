@@ -1,6 +1,6 @@
 # rayavanindra/android_device_xiaomi_miatoll - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 2 | 4 | 
 | 2022-12-23 | 2 | 4 | 
 | 2022-12-22 | 2 | 4 | 
 | 2022-12-21 | 2 | 4 | 

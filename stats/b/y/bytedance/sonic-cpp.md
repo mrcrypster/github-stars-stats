@@ -1,10 +1,10 @@
 # bytedance/sonic-cpp - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 31
 
-★ Stars: 338
+★ Stars: 340
 
 [Open repository](https://github.com/bytedance/sonic-cpp)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 340 | 31 | 
 | 2022-12-23 | 338 | 31 | 
 | 2022-12-22 | 337 | 30 | 
 | 2022-12-21 | 334 | 28 | 

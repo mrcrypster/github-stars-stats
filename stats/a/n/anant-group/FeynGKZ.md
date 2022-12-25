@@ -1,10 +1,10 @@
 # anant-group/FeynGKZ - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 0
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/anant-group/FeynGKZ)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 8 | - | 
 | 2022-12-23 | 7 | - | 
 | 2022-12-22 | 7 | - | 
 | 2022-12-21 | 7 | - | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-28 | 7 | - | 
 | 2022-11-27 | 7 | - | 
 | 2022-11-26 | 7 | - | 
-| 2022-11-25 | 7 | - | 
 

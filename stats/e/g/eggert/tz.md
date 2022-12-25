@@ -1,6 +1,6 @@
 # eggert/tz - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 194
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 1182 | 194 | 
 | 2022-12-23 | 1182 | 194 | 
 | 2022-12-22 | 1182 | 194 | 
 | 2022-12-21 | 1181 | 194 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 1167 | 192 | 
 | 2022-11-26 | 1166 | 192 | 
 | 2022-11-25 | 1165 | 192 | 
-| 2022-11-24 | 1164 | 192 | 
 

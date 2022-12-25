@@ -1,6 +1,6 @@
 # GuiEnrik/edukio-site - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | - | 61 | 
 | 2022-12-23 | - | 61 | 
 | 2022-12-22 | - | 61 | 
 | 2022-12-21 | - | 61 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | - | 62 | 
 | 2022-11-26 | - | 62 | 
 | 2022-11-25 | - | 62 | 
-| 2022-11-24 | - | 62 | 
 

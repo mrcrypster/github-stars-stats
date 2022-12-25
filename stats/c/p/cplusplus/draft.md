@@ -1,8 +1,8 @@
 # cplusplus/draft - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
-☋ Forks: 710
+☋ Forks: 709
 
 ★ Stars: 5058
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 5058 | 709 | 
 | 2022-12-23 | 5058 | 710 | 
 | 2022-12-22 | 5056 | 710 | 
 | 2022-12-21 | 5056 | 710 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 5026 | 703 | 
 | 2022-11-26 | 5025 | 703 | 
 | 2022-11-25 | 5020 | 703 | 
-| 2022-11-24 | 5017 | 703 | 
 

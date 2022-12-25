@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 24
 
 ☋ Forks: 7
 
-★ Stars: 90
+★ Stars: 91
 
 [Open repository](https://github.com/srush/raspy)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-24 | 90 | 7 | 
+| 2022-12-24 | 91 | 7 | 
 | 2022-12-23 | 88 | 7 | 
 | 2022-12-22 | 76 | 7 | 
 

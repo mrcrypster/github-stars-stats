@@ -1,6 +1,6 @@
 # traefik/traefik-helm-chart - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 641
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 724 | 641 | 
 | 2022-12-23 | 724 | 641 | 
 | 2022-12-22 | 723 | 641 | 
 | 2022-12-21 | 722 | 641 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 711 | 625 | 
 | 2022-11-26 | 711 | 625 | 
 | 2022-11-25 | 710 | 626 | 
-| 2022-11-24 | 709 | 625 | 
 

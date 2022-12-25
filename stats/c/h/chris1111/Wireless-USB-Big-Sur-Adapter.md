@@ -1,6 +1,6 @@
 # chris1111/Wireless-USB-Big-Sur-Adapter - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 64
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 551 | 64 | 
 | 2022-12-23 | 551 | 64 | 
 | 2022-12-22 | 551 | 64 | 
 | 2022-12-21 | 551 | 64 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 533 | 60 | 
 | 2022-11-26 | 532 | 60 | 
 | 2022-11-25 | 532 | 60 | 
-| 2022-11-24 | 531 | 60 | 
 

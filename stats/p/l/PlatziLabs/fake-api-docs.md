@@ -1,10 +1,10 @@
 # PlatziLabs/fake-api-docs - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
-☋ Forks: 24
+☋ Forks: 25
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/PlatziLabs/fake-api-docs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 26 | 25 | 
 | 2022-12-23 | 25 | 24 | 
 | 2022-12-22 | 25 | 24 | 
 | 2022-12-21 | 25 | 24 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 24 | 24 | 
 | 2022-11-26 | 24 | 24 | 
 | 2022-11-25 | 24 | 24 | 
-| 2022-11-24 | 24 | 24 | 
 

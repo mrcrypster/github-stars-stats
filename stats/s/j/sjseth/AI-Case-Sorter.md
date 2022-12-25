@@ -1,10 +1,10 @@
 # sjseth/AI-Case-Sorter - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 4
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/sjseth/AI-Case-Sorter)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 13 | 4 | 
 | 2022-12-23 | 12 | 4 | 
 | 2022-12-22 | 11 | 4 | 
 | 2022-12-21 | 11 | 3 | 

@@ -1,10 +1,10 @@
 # CommunityToolkit/Maui - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 162
 
-★ Stars: 1207
+★ Stars: 1208
 
 [Open repository](https://github.com/CommunityToolkit/Maui)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 1208 | 162 | 
 | 2022-12-23 | 1207 | 162 | 
 | 2022-12-22 | 1202 | 162 | 
 | 2022-12-21 | 1201 | 162 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 1128 | 150 | 
 | 2022-11-26 | 1126 | 150 | 
 | 2022-11-25 | 1123 | 150 | 
-| 2022-11-24 | 1122 | 149 | 
 

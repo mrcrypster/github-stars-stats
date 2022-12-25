@@ -1,6 +1,6 @@
 # ststeiger/PdfSharpCore - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 182
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 763 | 182 | 
 | 2022-12-23 | 763 | 182 | 
 | 2022-12-22 | 762 | 182 | 
 | 2022-12-21 | 762 | 182 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 731 | 175 | 
 | 2022-11-26 | 731 | 175 | 
 | 2022-11-25 | 729 | 175 | 
-| 2022-11-24 | 729 | 175 | 
 

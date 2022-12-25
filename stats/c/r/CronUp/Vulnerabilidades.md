@@ -1,6 +1,6 @@
 # CronUp/Vulnerabilidades - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 109 | 29 | 
 | 2022-12-23 | 109 | 29 | 
 | 2022-12-22 | 109 | 29 | 
 | 2022-12-21 | 108 | 29 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 108 | 28 | 
 | 2022-11-26 | 108 | 27 | 
 | 2022-11-25 | 108 | 27 | 
-| 2022-11-24 | 107 | 27 | 
 

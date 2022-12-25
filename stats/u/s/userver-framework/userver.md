@@ -1,10 +1,10 @@
 # userver-framework/userver - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 120
 
-★ Stars: 1474
+★ Stars: 1476
 
 [Open repository](https://github.com/userver-framework/userver)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 1476 | 120 | 
 | 2022-12-23 | 1474 | 120 | 
 | 2022-12-22 | 1474 | 120 | 
 | 2022-12-21 | 1473 | 120 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 1448 | 116 | 
 | 2022-11-26 | 1448 | 115 | 
 | 2022-11-25 | 1448 | 115 | 
-| 2022-11-24 | 1447 | 115 | 
 

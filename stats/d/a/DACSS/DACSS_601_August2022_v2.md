@@ -1,10 +1,10 @@
 # DACSS/DACSS_601_August2022_v2 - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 42
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/DACSS/DACSS_601_August2022_v2)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 1 | 42 | 
 | 2022-12-24 | - | 42 | 
 | 2022-12-23 | - | 42 | 
 | 2022-12-21 | - | 42 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-27 | - | 42 | 
 | 2022-11-26 | - | 42 | 
 | 2022-11-25 | - | 42 | 
-| 2022-11-24 | - | 42 | 
 

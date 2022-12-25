@@ -1,6 +1,6 @@
 # Androz2091/status - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 12 | 1 | 
 | 2022-12-24 | 12 | 1 | 
 | 2022-12-22 | 12 | 1 | 
 | 2022-12-21 | 12 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 11 | 1 | 
 | 2022-11-26 | 11 | 1 | 
 | 2022-11-25 | 11 | 1 | 
-| 2022-11-24 | 11 | 1 | 
 

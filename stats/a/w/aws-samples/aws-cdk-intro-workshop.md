@@ -1,10 +1,10 @@
 # aws-samples/aws-cdk-intro-workshop - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
-☋ Forks: 223
+☋ Forks: 224
 
-★ Stars: 215
+★ Stars: 216
 
 [Open repository](https://github.com/aws-samples/aws-cdk-intro-workshop)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 216 | 224 | 
 | 2022-12-23 | 215 | 223 | 
 | 2022-12-22 | 215 | 223 | 
 | 2022-12-21 | 215 | 222 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 209 | 210 | 
 | 2022-11-26 | 209 | 210 | 
 | 2022-11-25 | 209 | 211 | 
-| 2022-11-24 | 209 | 211 | 
 

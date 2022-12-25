@@ -1,10 +1,10 @@
 # bosskmk/pluto_grid - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 135
 
-★ Stars: 447
+★ Stars: 446
 
 [Open repository](https://github.com/bosskmk/pluto_grid)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 446 | 135 | 
 | 2022-12-23 | 447 | 135 | 
 | 2022-12-22 | 447 | 135 | 
 | 2022-12-21 | 446 | 136 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 416 | 127 | 
 | 2022-11-26 | 414 | 127 | 
 | 2022-11-25 | 414 | 127 | 
-| 2022-11-24 | 413 | 126 | 
 

@@ -1,10 +1,10 @@
 # Impact-I/reFlutter - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 109
 
-★ Stars: 861
+★ Stars: 862
 
 [Open repository](https://github.com/Impact-I/reFlutter)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 862 | 109 | 
 | 2022-12-24 | 861 | 109 | 
 | 2022-12-22 | 860 | 109 | 
 | 2022-12-21 | 860 | 109 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-27 | 825 | 105 | 
 | 2022-11-26 | 825 | 105 | 
 | 2022-11-25 | 824 | 105 | 
-| 2022-11-24 | 823 | 105 | 
 

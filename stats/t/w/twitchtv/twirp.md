@@ -1,10 +1,10 @@
 # twitchtv/twirp - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 309
 
-★ Stars: 6286
+★ Stars: 6287
 
 [Open repository](https://github.com/twitchtv/twirp)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 6287 | 309 | 
 | 2022-12-23 | 6286 | 309 | 
 | 2022-12-22 | 6285 | 309 | 
 | 2022-12-21 | 6283 | 308 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 6230 | 309 | 
 | 2022-11-26 | 6230 | 309 | 
 | 2022-11-25 | 6228 | 309 | 
-| 2022-11-24 | 6221 | 309 | 
 

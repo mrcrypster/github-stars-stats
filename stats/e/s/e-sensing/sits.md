@@ -1,10 +1,10 @@
 # e-sensing/sits - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 66
 
-★ Stars: 298
+★ Stars: 299
 
 [Open repository](https://github.com/e-sensing/sits)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 299 | 66 | 
 | 2022-12-23 | 298 | 66 | 
 | 2022-12-22 | 298 | 66 | 
 | 2022-12-21 | 298 | 66 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 295 | 65 | 
 | 2022-11-26 | 295 | 65 | 
 | 2022-11-25 | 295 | 65 | 
-| 2022-11-24 | 295 | 65 | 
 

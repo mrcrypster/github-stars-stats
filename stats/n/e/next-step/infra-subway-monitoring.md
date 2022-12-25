@@ -1,8 +1,8 @@
 # next-step/infra-subway-monitoring - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
-☋ Forks: 317
+☋ Forks: 318
 
 ★ Stars: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 4 | 318 | 
 | 2022-12-23 | 4 | 317 | 
 | 2022-12-22 | 4 | 317 | 
 | 2022-12-21 | 4 | 315 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 3 | 258 | 
 | 2022-11-26 | 3 | 258 | 
 | 2022-11-25 | 3 | 258 | 
-| 2022-11-24 | 3 | 258 | 
 

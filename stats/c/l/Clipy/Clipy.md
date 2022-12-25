@@ -1,6 +1,6 @@
 # Clipy/Clipy - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 533
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 6495 | 533 | 
 | 2022-12-24 | 6495 | 533 | 
 | 2022-12-23 | 6493 | 533 | 
 | 2022-12-22 | 6492 | 533 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-27 | 6449 | 533 | 
 | 2022-11-26 | 6448 | 533 | 
 | 2022-11-25 | 6447 | 532 | 
-| 2022-11-24 | 6445 | 532 | 
 

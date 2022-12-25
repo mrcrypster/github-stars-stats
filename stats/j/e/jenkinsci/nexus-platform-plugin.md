@@ -1,6 +1,6 @@
 # jenkinsci/nexus-platform-plugin - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 23 | 53 | 
 | 2022-12-23 | 23 | 53 | 
 | 2022-12-22 | 23 | 53 | 
 | 2022-12-21 | 23 | 53 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 23 | 53 | 
 | 2022-11-26 | 23 | 53 | 
 | 2022-11-25 | 23 | 53 | 
-| 2022-11-24 | 23 | 53 | 
 

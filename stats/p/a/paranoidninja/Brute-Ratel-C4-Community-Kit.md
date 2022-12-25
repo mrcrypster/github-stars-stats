@@ -1,6 +1,6 @@
 # paranoidninja/Brute-Ratel-C4-Community-Kit - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 161 | 23 | 
 | 2022-12-23 | 161 | 23 | 
 | 2022-12-22 | 160 | 23 | 
 | 2022-12-21 | 160 | 23 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 153 | 23 | 
 | 2022-11-26 | 153 | 23 | 
 | 2022-11-25 | 152 | 23 | 
-| 2022-11-24 | 152 | 23 | 
 

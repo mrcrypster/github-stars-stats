@@ -1,0 +1,17 @@
+# cljdoc/cljdoc-analyzer - stars & forks statistics
+
+Stats updated on Dec 2022, 24
+
+☋ Forks: 7
+
+★ Stars: 8
+
+[Open repository](https://github.com/cljdoc/cljdoc-analyzer)
+
+[Open detailed stats for cljdoc/cljdoc-analyzer](https://reviewgithub.com/rep/cljdoc/cljdoc-analyzer)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-12-24 | 8 | 7 | 
+

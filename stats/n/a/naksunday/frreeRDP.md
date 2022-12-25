@@ -1,8 +1,8 @@
 # naksunday/frreeRDP - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
-☋ Forks: 27
+☋ Forks: 28
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | - | 28 | 
 | 2022-12-23 | - | 27 | 
 | 2022-12-22 | - | 27 | 
 | 2022-12-21 | - | 27 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | - | 26 | 
 | 2022-11-26 | - | 26 | 
 | 2022-11-25 | - | 26 | 
-| 2022-11-24 | - | 26 | 
 

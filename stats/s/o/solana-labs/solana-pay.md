@@ -1,6 +1,6 @@
 # solana-labs/solana-pay - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 328
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 1085 | 328 | 
 | 2022-12-23 | 1085 | 328 | 
 | 2022-12-22 | 1084 | 328 | 
 | 2022-12-21 | 1084 | 328 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 1073 | 324 | 
 | 2022-11-26 | 1072 | 324 | 
 | 2022-11-25 | 1071 | 323 | 
-| 2022-11-24 | 1071 | 322 | 
 

@@ -1,6 +1,6 @@
 # xcodebuild/CodeTerminal - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 673 | 18 | 
 | 2022-12-24 | 673 | 18 | 
 | 2022-12-23 | 673 | 18 | 
 | 2022-12-22 | 673 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-27 | 672 | 17 | 
 | 2022-11-26 | 672 | 17 | 
 | 2022-11-25 | 672 | 17 | 
-| 2022-11-24 | 672 | 17 | 
 

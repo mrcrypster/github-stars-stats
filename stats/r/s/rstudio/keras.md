@@ -1,10 +1,10 @@
 # rstudio/keras - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 278
 
-★ Stars: 771
+★ Stars: 770
 
 [Open repository](https://github.com/rstudio/keras)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 770 | 278 | 
 | 2022-12-23 | 771 | 278 | 
 | 2022-12-22 | 771 | 278 | 
 | 2022-12-21 | 769 | 278 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 760 | 276 | 
 | 2022-11-26 | 760 | 276 | 
 | 2022-11-25 | 760 | 276 | 
-| 2022-11-24 | 760 | 276 | 
 

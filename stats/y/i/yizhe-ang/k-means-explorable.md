@@ -1,6 +1,6 @@
 # yizhe-ang/k-means-explorable - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 93 | 6 | 
 | 2022-12-23 | 93 | 6 | 
 | 2022-12-22 | 92 | 6 | 
 | 2022-12-21 | 92 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-28 | 81 | 6 | 
 | 2022-11-27 | 81 | 6 | 
 | 2022-11-26 | 81 | 6 | 
-| 2022-11-25 | 81 | 6 | 
 

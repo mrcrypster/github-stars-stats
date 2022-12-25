@@ -1,6 +1,6 @@
 # BeatTogether/BeatTogether.Quest - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 120 | 18 | 
 | 2022-12-23 | 120 | 18 | 
 | 2022-12-22 | 120 | 18 | 
 | 2022-12-21 | 120 | 18 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 120 | 17 | 
 | 2022-11-26 | 120 | 17 | 
 | 2022-11-25 | 120 | 17 | 
-| 2022-11-24 | 120 | 17 | 
 

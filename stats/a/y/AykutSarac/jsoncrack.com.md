@@ -1,10 +1,10 @@
 # AykutSarac/jsoncrack.com - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 1018
 
-★ Stars: 20434
+★ Stars: 20449
 
 [Open repository](https://github.com/AykutSarac/jsoncrack.com)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 20449 | 1018 | 
 | 2022-12-23 | 20434 | 1018 | 
 | 2022-12-22 | 20421 | 1018 | 
 | 2022-12-21 | 20401 | 1015 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 19764 | 958 | 
 | 2022-11-26 | 19755 | 957 | 
 | 2022-11-25 | 19714 | 955 | 
-| 2022-11-24 | 19563 | 952 | 
 

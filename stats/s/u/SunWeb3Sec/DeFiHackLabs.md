@@ -1,10 +1,10 @@
 # SunWeb3Sec/DeFiHackLabs - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 311
 
-★ Stars: 1662
+★ Stars: 1664
 
 [Open repository](https://github.com/SunWeb3Sec/DeFiHackLabs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 1664 | 311 | 
 | 2022-12-23 | 1662 | 311 | 
 | 2022-12-22 | 1658 | 310 | 
 | 2022-12-21 | 1655 | 309 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 1577 | 287 | 
 | 2022-11-26 | 1573 | 287 | 
 | 2022-11-25 | 1572 | 287 | 
-| 2022-11-24 | 1567 | 286 | 
 

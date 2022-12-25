@@ -1,6 +1,6 @@
 # MicrosoftDocs/security - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 100
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 67 | 100 | 
 | 2022-12-23 | 67 | 100 | 
 | 2022-12-22 | 67 | 100 | 
 | 2022-12-21 | 67 | 100 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-28 | 61 | 96 | 
 | 2022-11-27 | 61 | 96 | 
 | 2022-11-26 | 60 | 96 | 
-| 2022-11-25 | 60 | 96 | 
 

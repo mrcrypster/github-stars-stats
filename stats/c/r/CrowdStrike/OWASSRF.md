@@ -1,6 +1,6 @@
 # CrowdStrike/OWASSRF - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 0
 
@@ -13,5 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 8 | - | 
+| 2022-12-24 | 8 | - | 
 | 2022-12-23 | 8 | - | 
 

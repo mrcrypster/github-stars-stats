@@ -1,6 +1,6 @@
 # shuax/MouseInc.Settings - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 74
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 552 | 74 | 
 | 2022-12-23 | 552 | 74 | 
 | 2022-12-22 | 552 | 74 | 
 | 2022-12-21 | 551 | 74 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 529 | 74 | 
 | 2022-11-26 | 529 | 74 | 
 | 2022-11-25 | 528 | 74 | 
-| 2022-11-24 | 526 | 74 | 
 

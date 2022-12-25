@@ -1,10 +1,10 @@
 # you-dont-need/You-Dont-Need-JavaScript - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
-☋ Forks: 1071
+☋ Forks: 1072
 
-★ Stars: 17861
+★ Stars: 17860
 
 [Open repository](https://github.com/you-dont-need/You-Dont-Need-JavaScript)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 17860 | 1072 | 
 | 2022-12-23 | 17861 | 1071 | 
 | 2022-12-22 | 17861 | 1070 | 
 | 2022-12-21 | 17857 | 1070 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 17788 | 1067 | 
 | 2022-11-26 | 17774 | 1068 | 
 | 2022-11-25 | 17771 | 1068 | 
-| 2022-11-24 | 17767 | 1068 | 
 

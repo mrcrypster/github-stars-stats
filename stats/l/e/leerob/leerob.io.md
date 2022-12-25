@@ -1,10 +1,10 @@
 # leerob/leerob.io - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 882
 
-★ Stars: 4552
+★ Stars: 4555
 
 [Open repository](https://github.com/leerob/leerob.io)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 4555 | 882 | 
 | 2022-12-23 | 4552 | 882 | 
 | 2022-12-22 | 4546 | 882 | 
 | 2022-12-21 | 4544 | 881 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 4458 | 844 | 
 | 2022-11-26 | 4454 | 843 | 
 | 2022-11-25 | 4451 | 843 | 
-| 2022-11-24 | 4452 | 844 | 
 

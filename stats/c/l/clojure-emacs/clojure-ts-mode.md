@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 24
 
 ☋ Forks: 0
 
-★ Stars: 17
+★ Stars: 19
 
 [Open repository](https://github.com/clojure-emacs/clojure-ts-mode)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-24 | 17 | - | 
+| 2022-12-24 | 19 | - | 
 | 2022-12-23 | 16 | - | 
 

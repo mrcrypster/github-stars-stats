@@ -1,10 +1,10 @@
 # ellisonleao/gruvbox.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 97
 
-★ Stars: 747
+★ Stars: 750
 
 [Open repository](https://github.com/ellisonleao/gruvbox.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 750 | 97 | 
 | 2022-12-23 | 747 | 97 | 
 | 2022-12-22 | 744 | 96 | 
 | 2022-12-21 | 743 | 96 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 696 | 92 | 
 | 2022-11-26 | 692 | 92 | 
 | 2022-11-25 | 688 | 92 | 
-| 2022-11-24 | 686 | 92 | 
 

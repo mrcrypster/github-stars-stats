@@ -1,6 +1,6 @@
 # scala/scala-lang - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 283
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 225 | 283 | 
 | 2022-12-23 | 225 | 283 | 
 | 2022-12-22 | 225 | 283 | 
 | 2022-12-21 | 225 | 283 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 225 | 280 | 
 | 2022-11-26 | 225 | 280 | 
 | 2022-11-25 | 225 | 280 | 
-| 2022-11-24 | 225 | 280 | 
 

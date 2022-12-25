@@ -1,10 +1,10 @@
 # HalseySpicy/Hooks-Admin - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 164
 
-★ Stars: 743
+★ Stars: 744
 
 [Open repository](https://github.com/HalseySpicy/Hooks-Admin)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 744 | 164 | 
 | 2022-12-23 | 743 | 164 | 
 | 2022-12-22 | 743 | 164 | 
 | 2022-12-21 | 742 | 163 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 710 | 152 | 
 | 2022-11-26 | 708 | 151 | 
 | 2022-11-25 | 708 | 151 | 
-| 2022-11-24 | 701 | 150 | 
 

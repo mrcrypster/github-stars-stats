@@ -1,6 +1,6 @@
 # PharoJS/PharoJS - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 92 | 19 | 
 | 2022-12-23 | 92 | 19 | 
 | 2022-12-22 | 92 | 19 | 
 | 2022-12-21 | 91 | 18 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 91 | 18 | 
 | 2022-11-26 | 91 | 18 | 
 | 2022-11-25 | 91 | 18 | 
-| 2022-11-24 | 91 | 18 | 
 

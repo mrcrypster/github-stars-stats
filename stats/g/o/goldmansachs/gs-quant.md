@@ -1,10 +1,10 @@
 # goldmansachs/gs-quant - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
-☋ Forks: 328
+☋ Forks: 329
 
-★ Stars: 1566
+★ Stars: 1568
 
 [Open repository](https://github.com/goldmansachs/gs-quant)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 1568 | 329 | 
 | 2022-12-24 | 1566 | 328 | 
 | 2022-12-23 | 1566 | 328 | 
 | 2022-12-21 | 1566 | 327 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-27 | 1538 | 322 | 
 | 2022-11-26 | 1537 | 322 | 
 | 2022-11-25 | 1536 | 322 | 
-| 2022-11-24 | 1532 | 320 | 
 

@@ -1,10 +1,10 @@
 # deepfence/ThreatMapper - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
-☋ Forks: 259
+☋ Forks: 260
 
-★ Stars: 2607
+★ Stars: 2608
 
 [Open repository](https://github.com/deepfence/ThreatMapper)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 2608 | 260 | 
 | 2022-12-23 | 2607 | 259 | 
 | 2022-12-22 | 2604 | 259 | 
 | 2022-12-21 | 2604 | 258 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 2414 | 247 | 
 | 2022-11-26 | 2413 | 247 | 
 | 2022-11-25 | 2411 | 247 | 
-| 2022-11-24 | 2409 | 247 | 
 

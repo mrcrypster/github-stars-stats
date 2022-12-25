@@ -1,6 +1,6 @@
 # r-tmap/tmap - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 110
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 695 | 110 | 
 | 2022-12-23 | 695 | 110 | 
 | 2022-12-22 | 695 | 110 | 
 | 2022-12-21 | 695 | 110 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 690 | 110 | 
 | 2022-11-26 | 690 | 110 | 
 | 2022-11-25 | 689 | 110 | 
-| 2022-11-24 | 689 | 110 | 
 

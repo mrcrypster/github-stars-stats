@@ -1,8 +1,8 @@
 # antfu/unplugin-auto-import - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
-☋ Forks: 118
+☋ Forks: 117
 
 ★ Stars: 1645
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 1645 | 117 | 
 | 2022-12-23 | 1645 | 118 | 
 | 2022-12-22 | 1643 | 118 | 
 | 2022-12-21 | 1641 | 118 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 1573 | 110 | 
 | 2022-11-26 | 1572 | 110 | 
 | 2022-11-25 | 1571 | 110 | 
-| 2022-11-24 | 1569 | 110 | 
 

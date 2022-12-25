@@ -1,6 +1,6 @@
 # sonatype/docker-nexus3 - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 504
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 1126 | 504 | 
 | 2022-12-23 | 1126 | 504 | 
 | 2022-12-22 | 1126 | 504 | 
 | 2022-12-21 | 1126 | 504 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 1117 | 504 | 
 | 2022-11-26 | 1117 | 504 | 
 | 2022-11-25 | 1116 | 502 | 
-| 2022-11-24 | 1114 | 502 | 
 

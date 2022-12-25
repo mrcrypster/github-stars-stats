@@ -1,10 +1,10 @@
 # frida/frida - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 1251
 
-★ Stars: 11264
+★ Stars: 11273
 
 [Open repository](https://github.com/frida/frida)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 11273 | 1251 | 
 | 2022-12-23 | 11264 | 1251 | 
 | 2022-12-22 | 11260 | 1251 | 
 | 2022-12-21 | 11253 | 1250 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 11084 | 1233 | 
 | 2022-11-26 | 11079 | 1233 | 
 | 2022-11-25 | 11073 | 1233 | 
-| 2022-11-24 | 11069 | 1233 | 
 

@@ -1,6 +1,6 @@
 # Ruixi-rebirth/sway-dotfiles - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 92 | 3 | 
 | 2022-12-23 | 92 | 3 | 
 | 2022-12-22 | 92 | 3 | 
 | 2022-12-21 | 90 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 80 | 2 | 
 | 2022-11-26 | 80 | 2 | 
 | 2022-11-25 | 77 | 2 | 
-| 2022-11-24 | 77 | 2 | 
 

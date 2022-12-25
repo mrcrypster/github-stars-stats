@@ -1,6 +1,6 @@
 # kodingkeun/shorturl - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 17 | 26 | 
 | 2022-12-23 | 17 | 26 | 
 | 2022-12-22 | 17 | 26 | 
 | 2022-12-21 | 17 | 26 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-28 | 16 | 26 | 
 | 2022-11-27 | 16 | 26 | 
 | 2022-11-25 | 16 | 26 | 
-| 2022-11-24 | 16 | 26 | 
 

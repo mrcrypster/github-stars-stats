@@ -1,6 +1,6 @@
 # tide-emergency/yingji - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 241
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 856 | 241 | 
 | 2022-12-23 | 856 | 241 | 
 | 2022-12-22 | 856 | 241 | 
 | 2022-12-21 | 856 | 241 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 850 | 240 | 
 | 2022-11-26 | 850 | 240 | 
 | 2022-11-25 | 850 | 240 | 
-| 2022-11-24 | 850 | 240 | 
 

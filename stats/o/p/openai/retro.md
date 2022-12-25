@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 24
 
 ☋ Forks: 418
 
-★ Stars: 2807
+★ Stars: 2808
 
 [Open repository](https://github.com/openai/retro)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-24 | 2807 | 418 | 
+| 2022-12-24 | 2808 | 418 | 
 | 2022-12-23 | 2806 | 418 | 
 | 2022-12-22 | 2805 | 418 | 
 

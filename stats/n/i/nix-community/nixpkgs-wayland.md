@@ -1,6 +1,6 @@
 # nix-community/nixpkgs-wayland - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 299 | 36 | 
 | 2022-12-23 | 299 | 36 | 
 | 2022-12-22 | 298 | 36 | 
 | 2022-12-21 | 298 | 36 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-28 | 297 | 36 | 
 | 2022-11-26 | 297 | 36 | 
 | 2022-11-25 | 296 | 36 | 
-| 2022-11-24 | 296 | 36 | 
 

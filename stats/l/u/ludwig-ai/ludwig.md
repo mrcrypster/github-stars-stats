@@ -1,10 +1,10 @@
 # ludwig-ai/ludwig - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 1025
 
-★ Stars: 8675
+★ Stars: 8676
 
 [Open repository](https://github.com/ludwig-ai/ludwig)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 8676 | 1025 | 
 | 2022-12-23 | 8675 | 1025 | 
 | 2022-12-22 | 8674 | 1025 | 
 | 2022-12-21 | 8672 | 1024 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 8633 | 1019 | 
 | 2022-11-26 | 8634 | 1019 | 
 | 2022-11-25 | 8632 | 1018 | 
-| 2022-11-24 | 8631 | 1018 | 
 

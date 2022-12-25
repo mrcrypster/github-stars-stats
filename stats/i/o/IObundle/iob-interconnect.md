@@ -1,10 +1,10 @@
 # IObundle/iob-interconnect - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
-☋ Forks: 8
+☋ Forks: 9
 
-★ Stars: 8
+★ Stars: 10
 
 [Open repository](https://github.com/IObundle/iob-interconnect)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 10 | 9 | 
 | 2022-12-23 | 8 | 8 | 
 | 2022-12-22 | 8 | 8 | 
 | 2022-12-21 | 8 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 9 | 8 | 
 | 2022-11-26 | 9 | 8 | 
 | 2022-11-25 | 9 | 8 | 
-| 2022-11-24 | 9 | 8 | 
 

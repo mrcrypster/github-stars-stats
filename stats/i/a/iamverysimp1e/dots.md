@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 24
 
 ☋ Forks: 7
 
-★ Stars: 193
+★ Stars: 195
 
 [Open repository](https://github.com/iamverysimp1e/dots)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-24 | 193 | 7 | 
+| 2022-12-24 | 195 | 7 | 
 | 2022-12-23 | 191 | 7 | 
 | 2022-12-21 | 169 | 7 | 
 | 2022-12-20 | 169 | 6 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-27 | 93 | 1 | 
 | 2022-11-26 | 90 | 1 | 
 | 2022-11-25 | 89 | 1 | 
-| 2022-11-24 | 84 | 1 | 
 

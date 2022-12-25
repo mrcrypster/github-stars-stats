@@ -1,6 +1,6 @@
 # filecoin-project/filecoin-ffi - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 125
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 85 | 125 | 
 | 2022-12-23 | 85 | 125 | 
 | 2022-12-22 | 85 | 125 | 
 | 2022-12-21 | 85 | 125 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 84 | 124 | 
 | 2022-11-26 | 84 | 124 | 
 | 2022-11-25 | 84 | 124 | 
-| 2022-11-24 | 84 | 124 | 
 

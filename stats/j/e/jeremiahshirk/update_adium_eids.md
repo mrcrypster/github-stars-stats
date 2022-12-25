@@ -1,6 +1,6 @@
 # jeremiahshirk/update_adium_eids - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 1
 
@@ -13,5 +13,6 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 2 | 1 | 
 | 2022-12-23 | 2 | 1 | 
 

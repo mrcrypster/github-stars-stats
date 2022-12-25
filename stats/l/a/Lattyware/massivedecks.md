@@ -1,10 +1,10 @@
 # Lattyware/massivedecks - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 86
 
-★ Stars: 373
+★ Stars: 374
 
 [Open repository](https://github.com/Lattyware/massivedecks)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 374 | 86 | 
 | 2022-12-23 | 373 | 86 | 
 | 2022-12-22 | 372 | 86 | 
 | 2022-12-21 | 371 | 86 | 

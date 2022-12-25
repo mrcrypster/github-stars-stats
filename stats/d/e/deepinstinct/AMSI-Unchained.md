@@ -1,6 +1,6 @@
 # deepinstinct/AMSI-Unchained - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 76 | 10 | 
 | 2022-12-23 | 76 | 10 | 
 | 2022-12-22 | 76 | 10 | 
 | 2022-12-21 | 75 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 69 | 8 | 
 | 2022-11-26 | 68 | 8 | 
 | 2022-11-25 | 68 | 8 | 
-| 2022-11-24 | 68 | 8 | 
 

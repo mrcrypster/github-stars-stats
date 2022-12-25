@@ -1,6 +1,6 @@
 # chrisdone/duet - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 184 | 5 | 
 | 2022-12-23 | 184 | 5 | 
 | 2022-12-22 | 184 | 5 | 
 | 2022-12-21 | 184 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 185 | 5 | 
 | 2022-11-26 | 185 | 5 | 
 | 2022-11-25 | 185 | 5 | 
-| 2022-11-24 | 185 | 5 | 
 

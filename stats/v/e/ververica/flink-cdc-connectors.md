@@ -1,6 +1,6 @@
 # ververica/flink-cdc-connectors - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 1184
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 3377 | 1184 | 
 | 2022-12-23 | 3377 | 1184 | 
 | 2022-12-22 | 3374 | 1183 | 
 | 2022-12-21 | 3372 | 1183 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 3288 | 1155 | 
 | 2022-11-26 | 3280 | 1155 | 
 | 2022-11-25 | 3273 | 1154 | 
-| 2022-11-24 | 3268 | 1154 | 
 

@@ -1,10 +1,10 @@
 # gravitl/netmaker - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 396
 
-★ Stars: 5785
+★ Stars: 5787
 
 [Open repository](https://github.com/gravitl/netmaker)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 5787 | 396 | 
 | 2022-12-23 | 5785 | 396 | 
 | 2022-12-22 | 5776 | 395 | 
 | 2022-12-21 | 5767 | 395 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 5628 | 380 | 
 | 2022-11-26 | 5624 | 379 | 
 | 2022-11-25 | 5621 | 379 | 
-| 2022-11-24 | 5616 | 379 | 
 

@@ -1,10 +1,10 @@
 # alphadose/haxmap - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 33
 
-★ Stars: 686
+★ Stars: 687
 
 [Open repository](https://github.com/alphadose/haxmap)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 687 | 33 | 
 | 2022-12-23 | 686 | 33 | 
 | 2022-12-22 | 686 | 33 | 
 | 2022-12-21 | 683 | 32 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 666 | 29 | 
 | 2022-11-26 | 666 | 29 | 
 | 2022-11-25 | 666 | 29 | 
-| 2022-11-24 | 663 | 29 | 
 

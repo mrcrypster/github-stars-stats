@@ -1,6 +1,6 @@
 # coloradocolby/fsrx - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 276 | 6 | 
 | 2022-12-23 | 276 | 6 | 
 | 2022-12-22 | 276 | 6 | 
 | 2022-12-21 | 276 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 270 | 6 | 
 | 2022-11-26 | 270 | 6 | 
 | 2022-11-25 | 270 | 6 | 
-| 2022-11-24 | 270 | 6 | 
 

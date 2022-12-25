@@ -1,6 +1,6 @@
 # Vectopus/Atlas-icons-font - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 60 | 2 | 
 | 2022-12-23 | 60 | 2 | 
 | 2022-12-22 | 57 | 2 | 
 | 2022-12-21 | 53 | 2 | 

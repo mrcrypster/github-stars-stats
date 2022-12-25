@@ -1,10 +1,10 @@
 # hachyserve/rustypub - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 7
 
-★ Stars: 193
+★ Stars: 194
 
 [Open repository](https://github.com/hachyserve/rustypub)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 194 | 7 | 
 | 2022-12-24 | 193 | 7 | 
 | 2022-12-23 | 192 | 7 | 
 | 2022-12-21 | 191 | 7 | 

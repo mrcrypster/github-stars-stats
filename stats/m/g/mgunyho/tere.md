@@ -1,6 +1,6 @@
 # mgunyho/tere - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 1395 | 27 | 
 | 2022-12-23 | 1395 | 27 | 
 | 2022-12-22 | 1394 | 27 | 
 | 2022-12-21 | 1394 | 27 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 1370 | 27 | 
 | 2022-11-26 | 1369 | 27 | 
 | 2022-11-25 | 1369 | 27 | 
-| 2022-11-24 | 1368 | 27 | 
 

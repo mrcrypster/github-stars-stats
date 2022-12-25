@@ -1,6 +1,6 @@
 # elixir-wallaby/wallaby - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 170
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 1426 | 170 | 
 | 2022-12-23 | 1426 | 170 | 
 | 2022-12-22 | 1426 | 170 | 
 | 2022-12-21 | 1425 | 170 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-28 | 1416 | 170 | 
 | 2022-11-27 | 1416 | 170 | 
 | 2022-11-26 | 1417 | 170 | 
-| 2022-11-25 | 1417 | 170 | 
 

@@ -1,10 +1,10 @@
 # DioxusLabs/dioxus - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 171
 
-★ Stars: 5826
+★ Stars: 5839
 
 [Open repository](https://github.com/DioxusLabs/dioxus)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 5839 | 171 | 
 | 2022-12-23 | 5826 | 171 | 
 | 2022-12-22 | 5806 | 171 | 
 | 2022-12-21 | 5790 | 171 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 5411 | 160 | 
 | 2022-11-26 | 5406 | 159 | 
 | 2022-11-25 | 5383 | 159 | 
-| 2022-11-24 | 5371 | 159 | 
 

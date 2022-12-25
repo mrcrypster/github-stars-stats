@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 24
 
 ☋ Forks: 1122
 
-★ Stars: 14220
+★ Stars: 14221
 
 [Open repository](https://github.com/lettier/3d-game-shaders-for-beginners)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-24 | 14220 | 1122 | 
+| 2022-12-24 | 14221 | 1122 | 
 | 2022-12-23 | 14217 | 1122 | 
 | 2022-12-22 | 14198 | 1121 | 
 | 2022-12-21 | 14185 | 1120 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-27 | 14061 | 1110 | 
 | 2022-11-26 | 14059 | 1110 | 
 | 2022-11-25 | 14054 | 1110 | 
-| 2022-11-24 | 14053 | 1110 | 
 

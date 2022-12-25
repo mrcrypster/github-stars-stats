@@ -1,10 +1,10 @@
 # abhisheks008/DL-Simplified - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
-☋ Forks: 54
+☋ Forks: 56
 
-★ Stars: 45
+★ Stars: 46
 
 [Open repository](https://github.com/abhisheks008/DL-Simplified)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 46 | 56 | 
 | 2022-12-23 | 45 | 54 | 
 | 2022-12-22 | 45 | 54 | 
 | 2022-12-21 | 45 | 54 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 44 | 54 | 
 | 2022-11-26 | 44 | 54 | 
 | 2022-11-25 | 44 | 54 | 
-| 2022-11-24 | 44 | 54 | 
 

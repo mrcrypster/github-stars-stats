@@ -1,10 +1,10 @@
 # Haato3o/HunterPie-v2 - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 45
 
-★ Stars: 188
+★ Stars: 189
 
 [Open repository](https://github.com/Haato3o/HunterPie-v2)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 189 | 45 | 
 | 2022-12-23 | 188 | 45 | 
 | 2022-12-22 | 188 | 45 | 
 | 2022-12-21 | 187 | 45 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-28 | 174 | 43 | 
 | 2022-11-27 | 174 | 43 | 
 | 2022-11-26 | 173 | 42 | 
-| 2022-11-25 | 172 | 42 | 
 

@@ -1,10 +1,10 @@
 # blackmatrix7/ios_rule_script - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 1436
 
-★ Stars: 7562
+★ Stars: 7579
 
 [Open repository](https://github.com/blackmatrix7/ios_rule_script)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 7579 | 1436 | 
 | 2022-12-23 | 7562 | 1436 | 
 | 2022-12-22 | 7560 | 1434 | 
 | 2022-12-21 | 7553 | 1434 | 

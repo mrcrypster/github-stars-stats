@@ -1,10 +1,10 @@
 # bagder/uncurled - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 39
 
-★ Stars: 464
+★ Stars: 465
 
 [Open repository](https://github.com/bagder/uncurled)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 465 | 39 | 
 | 2022-12-23 | 464 | 39 | 
 | 2022-12-22 | 464 | 39 | 
 | 2022-12-21 | 464 | 39 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 455 | 38 | 
 | 2022-11-26 | 455 | 38 | 
 | 2022-11-25 | 455 | 38 | 
-| 2022-11-24 | 455 | 38 | 
 

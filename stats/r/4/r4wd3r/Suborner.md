@@ -1,6 +1,6 @@
 # r4wd3r/Suborner - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 306 | 38 | 
 | 2022-12-23 | 306 | 38 | 
 | 2022-12-22 | 306 | 38 | 
 | 2022-12-21 | 306 | 38 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 302 | 37 | 
 | 2022-11-26 | 302 | 37 | 
 | 2022-11-25 | 302 | 37 | 
-| 2022-11-24 | 302 | 37 | 
 

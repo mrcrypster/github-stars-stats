@@ -1,6 +1,6 @@
 # M17-Project/M17_spec - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 122 | 28 | 
 | 2022-12-23 | 122 | 28 | 
 | 2022-12-22 | 122 | 28 | 
 | 2022-12-21 | 122 | 28 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 117 | 28 | 
 | 2022-11-26 | 117 | 28 | 
 | 2022-11-25 | 117 | 28 | 
-| 2022-11-24 | 117 | 28 | 
 

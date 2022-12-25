@@ -1,6 +1,6 @@
 # tgstation/TerraGov-Marine-Corps - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 592
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 106 | 592 | 
 | 2022-12-23 | 106 | 592 | 
 | 2022-12-22 | 107 | 591 | 
 | 2022-12-21 | 107 | 591 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 105 | 587 | 
 | 2022-11-26 | 105 | 587 | 
 | 2022-11-25 | 105 | 588 | 
-| 2022-11-24 | 105 | 588 | 
 

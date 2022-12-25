@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 24
 
 ☋ Forks: 5
 
-★ Stars: 69
+★ Stars: 70
 
 [Open repository](https://github.com/flutterfocus/development_nvim)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-24 | 69 | 5 | 
+| 2022-12-24 | 70 | 5 | 
 | 2022-12-23 | 68 | 5 | 
 

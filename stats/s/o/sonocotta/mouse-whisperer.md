@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 24
 
 ☋ Forks: 4
 
-★ Stars: 40
+★ Stars: 42
 
 [Open repository](https://github.com/sonocotta/mouse-whisperer)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-24 | 40 | 4 | 
+| 2022-12-24 | 42 | 4 | 
 | 2022-12-23 | 40 | 4 | 
 | 2022-12-22 | 40 | 4 | 
 

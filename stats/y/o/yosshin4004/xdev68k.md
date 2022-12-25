@@ -1,10 +1,10 @@
 # yosshin4004/xdev68k - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 4
 
-★ Stars: 36
+★ Stars: 38
 
 [Open repository](https://github.com/yosshin4004/xdev68k)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 38 | 4 | 
 | 2022-12-23 | 36 | 4 | 
 | 2022-12-22 | 36 | 4 | 
 | 2022-12-21 | 36 | 4 | 

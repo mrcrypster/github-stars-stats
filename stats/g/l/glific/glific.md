@@ -1,8 +1,8 @@
 # glific/glific - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
-☋ Forks: 42
+☋ Forks: 41
 
 ★ Stars: 139
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 139 | 41 | 
 | 2022-12-23 | 139 | 42 | 
 | 2022-12-22 | 139 | 42 | 
 | 2022-12-21 | 139 | 42 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 133 | 40 | 
 | 2022-11-26 | 133 | 40 | 
 | 2022-11-25 | 133 | 40 | 
-| 2022-11-24 | 133 | 40 | 
 

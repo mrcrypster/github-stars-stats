@@ -1,10 +1,10 @@
 # SamToki/IconDesign---Sam-Toki-Mouse-Cursors - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 10
 
-★ Stars: 90
+★ Stars: 91
 
 [Open repository](https://github.com/SamToki/IconDesign---Sam-Toki-Mouse-Cursors)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 91 | 10 | 
 | 2022-12-24 | 90 | 10 | 
 | 2022-12-23 | 90 | 10 | 
 | 2022-12-21 | 89 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-27 | 78 | 10 | 
 | 2022-11-26 | 77 | 10 | 
 | 2022-11-25 | 75 | 10 | 
-| 2022-11-24 | 72 | 10 | 
 

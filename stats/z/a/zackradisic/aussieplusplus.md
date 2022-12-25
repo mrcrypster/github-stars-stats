@@ -1,6 +1,6 @@
 # zackradisic/aussieplusplus - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 561 | 14 | 
 | 2022-12-24 | 561 | 14 | 
 | 2022-12-23 | 561 | 14 | 
 | 2022-12-22 | 560 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-27 | 562 | 13 | 
 | 2022-11-26 | 562 | 13 | 
 | 2022-11-25 | 562 | 13 | 
-| 2022-11-24 | 562 | 13 | 
 

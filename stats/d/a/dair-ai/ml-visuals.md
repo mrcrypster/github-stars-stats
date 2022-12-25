@@ -1,6 +1,6 @@
 # dair-ai/ml-visuals - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 994
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 7926 | 994 | 
 | 2022-12-23 | 7926 | 994 | 
 | 2022-12-22 | 7924 | 995 | 
 | 2022-12-21 | 7920 | 995 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 7769 | 976 | 
 | 2022-11-26 | 7763 | 976 | 
 | 2022-11-25 | 7761 | 976 | 
-| 2022-11-24 | 7751 | 974 | 
 

@@ -1,10 +1,10 @@
 # robertodevs/flutter_ecommerce_template - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 569
 
-★ Stars: 1118
+★ Stars: 1121
 
 [Open repository](https://github.com/robertodevs/flutter_ecommerce_template)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 1121 | 569 | 
 | 2022-12-23 | 1118 | 569 | 
 | 2022-12-22 | 1116 | 569 | 
 | 2022-12-21 | 1115 | 569 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 1097 | 564 | 
 | 2022-11-26 | 1095 | 563 | 
 | 2022-11-25 | 1095 | 563 | 
-| 2022-11-24 | 1094 | 563 | 
 

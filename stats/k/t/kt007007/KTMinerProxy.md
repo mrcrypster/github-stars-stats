@@ -1,6 +1,6 @@
 # kt007007/KTMinerProxy - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 170
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 1114 | 170 | 
 | 2022-12-23 | 1114 | 170 | 
 | 2022-12-22 | 1114 | 170 | 
 | 2022-12-21 | 1114 | 170 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 1112 | 168 | 
 | 2022-11-26 | 1112 | 168 | 
 | 2022-11-25 | 1111 | 168 | 
-| 2022-11-24 | 1111 | 168 | 
 

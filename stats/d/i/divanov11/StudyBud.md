@@ -1,6 +1,6 @@
 # divanov11/StudyBud - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 441
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 440 | 441 | 
 | 2022-12-23 | 440 | 441 | 
 | 2022-12-22 | 440 | 442 | 
 | 2022-12-21 | 439 | 443 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 428 | 436 | 
 | 2022-11-26 | 428 | 436 | 
 | 2022-11-25 | 426 | 436 | 
-| 2022-11-24 | 426 | 436 | 
 

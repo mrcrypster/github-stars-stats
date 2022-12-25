@@ -1,10 +1,10 @@
 # cantino/mcfly - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 132
 
-★ Stars: 4740
+★ Stars: 4741
 
 [Open repository](https://github.com/cantino/mcfly)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 4741 | 132 | 
 | 2022-12-23 | 4740 | 132 | 
 | 2022-12-22 | 4738 | 132 | 
 | 2022-12-21 | 4736 | 132 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 4652 | 130 | 
 | 2022-11-26 | 4652 | 130 | 
 | 2022-11-25 | 4651 | 130 | 
-| 2022-11-24 | 4646 | 130 | 
 

@@ -1,10 +1,10 @@
 # apple/swift-algorithms - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 350
 
-★ Stars: 4748
+★ Stars: 4750
 
 [Open repository](https://github.com/apple/swift-algorithms)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 4750 | 350 | 
 | 2022-12-23 | 4748 | 350 | 
 | 2022-12-22 | 4746 | 350 | 
 | 2022-12-21 | 4744 | 350 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 4704 | 345 | 
 | 2022-11-26 | 4703 | 345 | 
 | 2022-11-25 | 4701 | 345 | 
-| 2022-11-24 | 4685 | 344 | 
 

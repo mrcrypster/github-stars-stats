@@ -1,10 +1,10 @@
 # ellie/atuin - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 148
 
-★ Stars: 4613
+★ Stars: 4619
 
 [Open repository](https://github.com/ellie/atuin)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 4619 | 148 | 
 | 2022-12-23 | 4613 | 148 | 
 | 2022-12-22 | 4612 | 148 | 
 | 2022-12-21 | 4609 | 146 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 4490 | 143 | 
 | 2022-11-26 | 4485 | 143 | 
 | 2022-11-25 | 4479 | 143 | 
-| 2022-11-24 | 4463 | 143 | 
 

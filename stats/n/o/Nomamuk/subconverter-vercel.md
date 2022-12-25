@@ -1,8 +1,8 @@
 # Nomamuk/subconverter-vercel - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
-☋ Forks: 27
+☋ Forks: 29
 
 ★ Stars: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 12 | 29 | 
 | 2022-12-23 | 12 | 27 | 
 | 2022-12-22 | 12 | 27 | 
 | 2022-12-21 | 12 | 27 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 12 | 26 | 
 | 2022-11-26 | 12 | 26 | 
 | 2022-11-25 | 12 | 26 | 
-| 2022-11-24 | 12 | 26 | 
 

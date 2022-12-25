@@ -1,10 +1,10 @@
 # LyraSearch/lyra - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
-☋ Forks: 116
+☋ Forks: 115
 
-★ Stars: 5039
+★ Stars: 5045
 
 [Open repository](https://github.com/LyraSearch/lyra)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 5045 | 115 | 
 | 2022-12-24 | 5039 | 116 | 
 | 2022-12-22 | 5024 | 116 | 
 | 2022-12-21 | 5008 | 116 | 

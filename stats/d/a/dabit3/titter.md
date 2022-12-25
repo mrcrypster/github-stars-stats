@@ -1,6 +1,6 @@
 # dabit3/titter - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 154 | 21 | 
 | 2022-12-23 | 154 | 21 | 
 | 2022-12-22 | 154 | 21 | 
 | 2022-12-21 | 154 | 21 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 151 | 21 | 
 | 2022-11-26 | 151 | 21 | 
 | 2022-11-25 | 151 | 21 | 
-| 2022-11-24 | 151 | 21 | 
 

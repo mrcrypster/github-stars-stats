@@ -1,10 +1,10 @@
 # bitfo/timescale - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 7
 
-★ Stars: 64
+★ Stars: 65
 
 [Open repository](https://github.com/bitfo/timescale)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 65 | 7 | 
 | 2022-12-23 | 64 | 7 | 
 | 2022-12-22 | 64 | 7 | 
 | 2022-12-21 | 62 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 50 | 7 | 
 | 2022-11-26 | 50 | 7 | 
 | 2022-11-25 | 50 | 7 | 
-| 2022-11-24 | 50 | 7 | 
 

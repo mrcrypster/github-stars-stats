@@ -1,6 +1,6 @@
 # TalEliyahu/awesome-CISO-maturity-models - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 116 | 8 | 
 | 2022-12-23 | 116 | 8 | 
 | 2022-12-22 | 116 | 8 | 
 | 2022-12-21 | 116 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 113 | 6 | 
 | 2022-11-26 | 112 | 6 | 
 | 2022-11-25 | 112 | 6 | 
-| 2022-11-24 | 112 | 6 | 
 

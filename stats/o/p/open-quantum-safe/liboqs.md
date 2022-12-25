@@ -1,10 +1,10 @@
 # open-quantum-safe/liboqs - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
-☋ Forks: 295
+☋ Forks: 296
 
-★ Stars: 1080
+★ Stars: 1083
 
 [Open repository](https://github.com/open-quantum-safe/liboqs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 1083 | 296 | 
 | 2022-12-23 | 1080 | 295 | 
 | 2022-12-22 | 1080 | 295 | 
 | 2022-12-21 | 1079 | 295 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 1064 | 290 | 
 | 2022-11-26 | 1064 | 290 | 
 | 2022-11-25 | 1060 | 290 | 
-| 2022-11-24 | 1060 | 290 | 
 

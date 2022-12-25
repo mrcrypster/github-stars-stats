@@ -1,6 +1,6 @@
 # Phil25/RTD - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 28 | 16 | 
 | 2022-12-23 | 28 | 16 | 
 | 2022-12-22 | 28 | 16 | 
 | 2022-12-21 | 28 | 16 | 

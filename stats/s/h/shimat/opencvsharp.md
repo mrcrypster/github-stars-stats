@@ -1,10 +1,10 @@
 # shimat/opencvsharp - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 973
 
-★ Stars: 4268
+★ Stars: 4270
 
 [Open repository](https://github.com/shimat/opencvsharp)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 4270 | 973 | 
 | 2022-12-23 | 4268 | 973 | 
 | 2022-12-22 | 4265 | 973 | 
 | 2022-12-21 | 4264 | 973 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 4230 | 964 | 
 | 2022-11-26 | 4228 | 964 | 
 | 2022-11-25 | 4228 | 964 | 
-| 2022-11-24 | 4228 | 964 | 
 

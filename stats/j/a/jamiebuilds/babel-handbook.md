@@ -1,10 +1,10 @@
 # jamiebuilds/babel-handbook - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 1734
 
-★ Stars: 11414
+★ Stars: 11418
 
 [Open repository](https://github.com/jamiebuilds/babel-handbook)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 11418 | 1734 | 
 | 2022-12-23 | 11414 | 1734 | 
 | 2022-12-22 | 11413 | 1734 | 
 | 2022-12-21 | 11411 | 1733 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 11375 | 1728 | 
 | 2022-11-26 | 11375 | 1727 | 
 | 2022-11-25 | 11375 | 1727 | 
-| 2022-11-24 | 11371 | 1726 | 
 

@@ -1,6 +1,6 @@
 # justinmeiners/lc3-vm - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 141
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 991 | 141 | 
 | 2022-12-24 | 991 | 141 | 
 | 2022-12-23 | 991 | 141 | 
 | 2022-12-21 | 991 | 141 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-27 | 970 | 137 | 
 | 2022-11-26 | 970 | 137 | 
 | 2022-11-25 | 968 | 137 | 
-| 2022-11-24 | 968 | 137 | 
 

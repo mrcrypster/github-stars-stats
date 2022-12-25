@@ -1,6 +1,6 @@
 # qbcore-framework/qb-multicharacter - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 214
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 26 | 214 | 
 | 2022-12-23 | 26 | 214 | 
 | 2022-12-22 | 26 | 214 | 
 | 2022-12-21 | 26 | 214 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 26 | 203 | 
 | 2022-11-26 | 26 | 203 | 
 | 2022-11-25 | 26 | 202 | 
-| 2022-11-24 | 26 | 202 | 
 

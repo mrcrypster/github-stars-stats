@@ -1,6 +1,6 @@
 # couchbaselabs/erlgeom - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 18 | 9 | 
 | 2022-12-23 | 18 | 9 | 
 | 2022-12-22 | 18 | 9 | 
 | 2022-12-21 | 18 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-28 | 18 | 9 | 
 | 2022-11-27 | 18 | 9 | 
 | 2022-11-26 | 18 | 9 | 
-| 2022-11-25 | 18 | 9 | 
 

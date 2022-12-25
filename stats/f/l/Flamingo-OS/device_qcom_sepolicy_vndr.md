@@ -1,6 +1,6 @@
 # Flamingo-OS/device_qcom_sepolicy_vndr - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 1 | 3 | 
 | 2022-12-23 | 1 | 3 | 
 | 2022-12-22 | 1 | 3 | 
 | 2022-12-21 | 1 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | - | 2 | 
 | 2022-11-26 | - | 2 | 
 | 2022-11-25 | - | 2 | 
-| 2022-11-24 | - | 2 | 
 

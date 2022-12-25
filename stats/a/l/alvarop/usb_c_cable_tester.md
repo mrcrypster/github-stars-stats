@@ -1,10 +1,10 @@
 # alvarop/usb_c_cable_tester - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 9
 
-★ Stars: 393
+★ Stars: 394
 
 [Open repository](https://github.com/alvarop/usb_c_cable_tester)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 394 | 9 | 
 | 2022-12-23 | 393 | 9 | 
 | 2022-12-22 | 392 | 9 | 
 | 2022-12-21 | 391 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 310 | 6 | 
 | 2022-11-26 | 300 | 6 | 
 | 2022-11-25 | 293 | 6 | 
-| 2022-11-24 | 286 | 6 | 
 

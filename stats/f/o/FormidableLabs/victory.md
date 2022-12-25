@@ -1,6 +1,6 @@
 # FormidableLabs/victory - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 532
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 10089 | 532 | 
 | 2022-12-24 | 10089 | 532 | 
 | 2022-12-23 | 10088 | 532 | 
 | 2022-12-21 | 10086 | 532 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 10040 | 529 | 
 | 2022-11-27 | 10040 | 529 | 
 | 2022-11-26 | 10041 | 529 | 
-| 2022-11-25 | 10040 | 529 | 
 

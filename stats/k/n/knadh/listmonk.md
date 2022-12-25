@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 24
 
 ☋ Forks: 737
 
-★ Stars: 9143
+★ Stars: 9146
 
 [Open repository](https://github.com/knadh/listmonk)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-24 | 9143 | 737 | 
+| 2022-12-24 | 9146 | 737 | 
 | 2022-12-23 | 9140 | 737 | 
 | 2022-12-22 | 9111 | 735 | 
 | 2022-12-21 | 9091 | 734 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-27 | 8906 | 717 | 
 | 2022-11-26 | 8901 | 716 | 
 | 2022-11-25 | 8899 | 716 | 
-| 2022-11-24 | 8894 | 714 | 
 

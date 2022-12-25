@@ -1,6 +1,6 @@
 # emqx/emqx - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 1916
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 10852 | 1916 | 
 | 2022-12-23 | 10852 | 1916 | 
 | 2022-12-22 | 10849 | 1916 | 
 | 2022-12-21 | 10843 | 1914 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 10730 | 1896 | 
 | 2022-11-26 | 10726 | 1895 | 
 | 2022-11-25 | 10723 | 1895 | 
-| 2022-11-24 | 10717 | 1895 | 
 

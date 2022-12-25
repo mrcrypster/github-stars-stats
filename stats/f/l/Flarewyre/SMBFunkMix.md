@@ -1,10 +1,10 @@
 # Flarewyre/SMBFunkMix - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 47
 
-★ Stars: 20
+★ Stars: 19
 
 [Open repository](https://github.com/Flarewyre/SMBFunkMix)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 19 | 47 | 
 | 2022-12-23 | 20 | 47 | 
 | 2022-12-22 | 20 | 47 | 
 | 2022-12-21 | 20 | 47 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 19 | 47 | 
 | 2022-11-26 | 19 | 47 | 
 | 2022-11-25 | 19 | 47 | 
-| 2022-11-24 | 19 | 47 | 
 

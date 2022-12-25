@@ -1,6 +1,6 @@
 # get-iplayer/get_iplayer - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 191
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 1754 | 191 | 
 | 2022-12-23 | 1754 | 191 | 
 | 2022-12-22 | 1754 | 191 | 
 | 2022-12-21 | 1753 | 191 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 1745 | 191 | 
 | 2022-11-26 | 1745 | 191 | 
 | 2022-11-25 | 1745 | 191 | 
-| 2022-11-24 | 1745 | 191 | 
 

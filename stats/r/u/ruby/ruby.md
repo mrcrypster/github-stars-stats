@@ -1,6 +1,6 @@
 # ruby/ruby - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 5216
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 19776 | 5216 | 
 | 2022-12-23 | 19776 | 5216 | 
 | 2022-12-22 | 19772 | 5216 | 
 | 2022-12-21 | 19768 | 5216 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 19694 | 5199 | 
 | 2022-11-26 | 19687 | 5199 | 
 | 2022-11-25 | 19686 | 5200 | 
-| 2022-11-24 | 19686 | 5198 | 
 

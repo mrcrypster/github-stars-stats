@@ -1,8 +1,8 @@
 # codeedu/imersao-7-codepix - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
-☋ Forks: 130
+☋ Forks: 129
 
 ★ Stars: 174
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 174 | 129 | 
 | 2022-12-23 | 174 | 130 | 
 | 2022-12-22 | 174 | 130 | 
 | 2022-12-21 | 174 | 130 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 175 | 131 | 
 | 2022-11-26 | 175 | 131 | 
 | 2022-11-25 | 175 | 131 | 
-| 2022-11-24 | 175 | 131 | 
 

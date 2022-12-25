@@ -1,10 +1,10 @@
 # ethereum/remix-project - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
-☋ Forks: 613
+☋ Forks: 615
 
-★ Stars: 1751
+★ Stars: 1752
 
 [Open repository](https://github.com/ethereum/remix-project)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 1752 | 615 | 
 | 2022-12-23 | 1751 | 613 | 
 | 2022-12-22 | 1752 | 612 | 
 | 2022-12-21 | 1750 | 612 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-28 | 1714 | 602 | 
 | 2022-11-27 | 1711 | 602 | 
 | 2022-11-25 | 1708 | 603 | 
-| 2022-11-24 | 1706 | 602 | 
 

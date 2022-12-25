@@ -1,6 +1,6 @@
 # fosskers/aura - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 109
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 1461 | 109 | 
 | 2022-12-23 | 1461 | 109 | 
 | 2022-12-22 | 1459 | 109 | 
 | 2022-12-21 | 1459 | 109 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 1457 | 110 | 
 | 2022-11-26 | 1456 | 110 | 
 | 2022-11-25 | 1456 | 110 | 
-| 2022-11-24 | 1456 | 110 | 
 

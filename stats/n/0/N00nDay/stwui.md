@@ -1,10 +1,10 @@
 # N00nDay/stwui - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 4
 
-★ Stars: 126
+★ Stars: 127
 
 [Open repository](https://github.com/N00nDay/stwui)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 127 | 4 | 
 | 2022-12-23 | 126 | 4 | 
 | 2022-12-22 | 126 | 4 | 
 | 2022-12-21 | 126 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 115 | 4 | 
 | 2022-11-26 | 115 | 4 | 
 | 2022-11-25 | 115 | 4 | 
-| 2022-11-24 | 114 | 4 | 
 

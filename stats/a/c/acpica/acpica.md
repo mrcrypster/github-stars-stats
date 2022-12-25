@@ -1,10 +1,10 @@
 # acpica/acpica - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 268
 
-★ Stars: 365
+★ Stars: 364
 
 [Open repository](https://github.com/acpica/acpica)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 364 | 268 | 
 | 2022-12-23 | 365 | 268 | 
 | 2022-12-22 | 364 | 268 | 
 | 2022-12-21 | 364 | 268 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-28 | 360 | 262 | 
 | 2022-11-27 | 360 | 262 | 
 | 2022-11-26 | 361 | 262 | 
-| 2022-11-25 | 361 | 262 | 
 

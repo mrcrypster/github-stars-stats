@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 24
 
 ☋ Forks: 5
 
-★ Stars: 177
+★ Stars: 178
 
 [Open repository](https://github.com/LMP88959/NTSC-CRT)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-24 | 177 | 5 | 
+| 2022-12-24 | 178 | 5 | 
 | 2022-12-23 | 171 | 5 | 
 | 2022-12-22 | 160 | 5 | 
 

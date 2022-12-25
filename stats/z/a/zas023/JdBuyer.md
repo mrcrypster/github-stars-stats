@@ -1,10 +1,10 @@
 # zas023/JdBuyer - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
-☋ Forks: 415
+☋ Forks: 425
 
-★ Stars: 2054
+★ Stars: 2076
 
 [Open repository](https://github.com/zas023/JdBuyer)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 2076 | 425 | 
 | 2022-12-23 | 2054 | 415 | 
 | 2022-12-22 | 1976 | 405 | 
 | 2022-12-21 | 1906 | 393 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 529 | 145 | 
 | 2022-11-26 | 526 | 145 | 
 | 2022-11-25 | 522 | 145 | 
-| 2022-11-24 | 518 | 141 | 
 

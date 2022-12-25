@@ -1,6 +1,6 @@
 # kommitters/mintacoin - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 3 | 11 | 
 | 2022-12-24 | 3 | 11 | 
 | 2022-12-23 | 3 | 11 | 
 | 2022-12-22 | 3 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-27 | 4 | 11 | 
 | 2022-11-26 | 4 | 11 | 
 | 2022-11-25 | 4 | 11 | 
-| 2022-11-24 | 4 | 11 | 
 

@@ -1,6 +1,6 @@
 # airbnb/lottie - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 299
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 3802 | 299 | 
 | 2022-12-24 | 3802 | 299 | 
 | 2022-12-23 | 3802 | 299 | 
 | 2022-12-22 | 3802 | 299 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-27 | 3766 | 297 | 
 | 2022-11-26 | 3764 | 297 | 
 | 2022-11-25 | 3764 | 297 | 
-| 2022-11-24 | 3762 | 297 | 
 

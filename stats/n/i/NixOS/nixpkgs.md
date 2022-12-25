@@ -1,10 +1,10 @@
 # NixOS/nixpkgs - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
-☋ Forks: 8901
+☋ Forks: 8902
 
-★ Stars: 11027
+★ Stars: 11028
 
 [Open repository](https://github.com/NixOS/nixpkgs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 11028 | 8902 | 
 | 2022-12-23 | 11027 | 8901 | 
 | 2022-12-22 | 11013 | 8894 | 
 | 2022-12-21 | 10999 | 8890 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 10829 | 8759 | 
 | 2022-11-26 | 10824 | 8752 | 
 | 2022-11-25 | 10818 | 8747 | 
-| 2022-11-24 | 10809 | 8742 | 
 

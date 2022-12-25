@@ -1,10 +1,10 @@
 # cloudwego/hertz - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 226
 
-★ Stars: 2856
+★ Stars: 2861
 
 [Open repository](https://github.com/cloudwego/hertz)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 2861 | 226 | 
 | 2022-12-23 | 2856 | 226 | 
 | 2022-12-22 | 2827 | 221 | 
 | 2022-12-21 | 2823 | 222 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 2649 | 210 | 
 | 2022-11-26 | 2641 | 210 | 
 | 2022-11-25 | 2632 | 210 | 
-| 2022-11-24 | 2623 | 208 | 
 

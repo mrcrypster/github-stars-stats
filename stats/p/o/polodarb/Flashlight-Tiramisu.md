@@ -1,10 +1,10 @@
 # polodarb/Flashlight-Tiramisu - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 2
 
-★ Stars: 102
+★ Stars: 104
 
 [Open repository](https://github.com/polodarb/Flashlight-Tiramisu)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 104 | 2 | 
 | 2022-12-23 | 102 | 2 | 
 | 2022-12-22 | 102 | 2 | 
 | 2022-12-21 | 102 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 87 | 1 | 
 | 2022-11-26 | 87 | 1 | 
 | 2022-11-25 | 87 | 1 | 
-| 2022-11-24 | 87 | 1 | 
 

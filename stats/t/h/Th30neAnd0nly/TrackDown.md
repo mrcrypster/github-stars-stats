@@ -1,10 +1,10 @@
 # Th30neAnd0nly/TrackDown - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
-☋ Forks: 16
+☋ Forks: 17
 
-★ Stars: 22
+★ Stars: 24
 
 [Open repository](https://github.com/Th30neAnd0nly/TrackDown)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 24 | 17 | 
 | 2022-12-23 | 22 | 16 | 
 | 2022-12-22 | 22 | 16 | 
 | 2022-12-21 | 21 | 16 | 

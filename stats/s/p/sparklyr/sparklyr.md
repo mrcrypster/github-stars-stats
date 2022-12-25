@@ -1,6 +1,6 @@
 # sparklyr/sparklyr - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 304
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 893 | 304 | 
 | 2022-12-23 | 893 | 304 | 
 | 2022-12-22 | 892 | 304 | 
 | 2022-12-21 | 892 | 304 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 887 | 304 | 
 | 2022-11-26 | 887 | 304 | 
 | 2022-11-25 | 887 | 304 | 
-| 2022-11-24 | 887 | 304 | 
 

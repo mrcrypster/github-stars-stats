@@ -1,6 +1,6 @@
 # Shougo/unite.vim - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 228
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 2845 | 228 | 
 | 2022-12-23 | 2845 | 228 | 
 | 2022-12-22 | 2845 | 228 | 
 | 2022-12-21 | 2845 | 228 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 2846 | 228 | 
 | 2022-11-26 | 2846 | 228 | 
 | 2022-11-25 | 2846 | 228 | 
-| 2022-11-24 | 2846 | 228 | 
 

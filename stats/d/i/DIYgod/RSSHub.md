@@ -1,10 +1,10 @@
 # DIYgod/RSSHub - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 25
 
-☋ Forks: 4659
+☋ Forks: 4661
 
-★ Stars: 22483
+★ Stars: 22527
 
 [Open repository](https://github.com/DIYgod/RSSHub)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 22527 | 4661 | 
+| 2022-12-24 | 22527 | 4661 | 
 | 2022-12-23 | 22483 | 4659 | 
 | 2022-12-22 | 22475 | 4656 | 
 | 2022-12-21 | 22467 | 4652 | 
@@ -40,5 +42,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 22090 | 4614 | 
 | 2022-11-26 | 22044 | 4611 | 
 | 2022-11-25 | 22024 | 4604 | 
-| 2022-11-24 | 22007 | 4601 | 
 

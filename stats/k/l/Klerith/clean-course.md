@@ -1,10 +1,10 @@
 # Klerith/clean-course - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
-☋ Forks: 305
+☋ Forks: 306
 
-★ Stars: 51
+★ Stars: 52
 
 [Open repository](https://github.com/Klerith/clean-course)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 52 | 306 | 
 | 2022-12-23 | 51 | 305 | 
 | 2022-12-22 | 51 | 302 | 
 | 2022-12-21 | 51 | 302 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 51 | 278 | 
 | 2022-11-26 | 51 | 276 | 
 | 2022-11-25 | 51 | 275 | 
-| 2022-11-24 | 51 | 272 | 
 

@@ -1,10 +1,10 @@
 # keptn/keptn - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 238
 
-★ Stars: 1597
+★ Stars: 1598
 
 [Open repository](https://github.com/keptn/keptn)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 1598 | 238 | 
 | 2022-12-23 | 1597 | 238 | 
 | 2022-12-22 | 1597 | 238 | 
 | 2022-12-21 | 1597 | 238 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 1561 | 234 | 
 | 2022-11-26 | 1560 | 234 | 
 | 2022-11-25 | 1560 | 234 | 
-| 2022-11-24 | 1559 | 233 | 
 

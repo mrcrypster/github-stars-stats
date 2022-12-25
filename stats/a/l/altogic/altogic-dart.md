@@ -1,10 +1,10 @@
 # altogic/altogic-dart - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 3
 
-★ Stars: 77
+★ Stars: 73
 
 [Open repository](https://github.com/altogic/altogic-dart)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 73 | 3 | 
 | 2022-12-23 | 77 | 3 | 
 | 2022-12-22 | 78 | 3 | 
 | 2022-12-21 | 77 | 3 | 

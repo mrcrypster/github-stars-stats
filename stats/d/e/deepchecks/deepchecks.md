@@ -1,10 +1,10 @@
 # deepchecks/deepchecks - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 162
 
-★ Stars: 2290
+★ Stars: 2292
 
 [Open repository](https://github.com/deepchecks/deepchecks)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 2292 | 162 | 
 | 2022-12-23 | 2290 | 162 | 
 | 2022-12-22 | 2289 | 161 | 
 | 2022-12-21 | 2285 | 160 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 2234 | 157 | 
 | 2022-11-26 | 2234 | 157 | 
 | 2022-11-25 | 2229 | 156 | 
-| 2022-11-24 | 2227 | 156 | 
 

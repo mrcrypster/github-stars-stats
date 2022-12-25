@@ -1,10 +1,10 @@
 # zhelnio/schoolRISCV - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 29
 
-★ Stars: 88
+★ Stars: 90
 
 [Open repository](https://github.com/zhelnio/schoolRISCV)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 90 | 29 | 
 | 2022-12-23 | 88 | 29 | 
 | 2022-12-22 | 88 | 29 | 
 | 2022-12-21 | 88 | 29 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 86 | 28 | 
 | 2022-11-26 | 86 | 28 | 
 | 2022-11-25 | 86 | 28 | 
-| 2022-11-24 | 86 | 28 | 
 

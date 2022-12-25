@@ -1,10 +1,10 @@
 # spatie/laravel-backup - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 711
 
-★ Stars: 5124
+★ Stars: 5125
 
 [Open repository](https://github.com/spatie/laravel-backup)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 5125 | 711 | 
 | 2022-12-23 | 5124 | 711 | 
 | 2022-12-22 | 5123 | 710 | 
 | 2022-12-21 | 5123 | 710 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 5095 | 713 | 
 | 2022-11-26 | 5095 | 713 | 
 | 2022-11-25 | 5095 | 713 | 
-| 2022-11-24 | 5096 | 713 | 
 

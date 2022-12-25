@@ -1,10 +1,10 @@
 # yatima-inc/straume - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 1
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/yatima-inc/straume)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 4 | 1 | 
 | 2022-12-23 | 3 | 1 | 
 | 2022-12-22 | 3 | 1 | 
 | 2022-12-21 | 2 | - | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 2 | - | 
 | 2022-11-26 | 2 | - | 
 | 2022-11-25 | 2 | - | 
-| 2022-11-24 | 2 | - | 
 

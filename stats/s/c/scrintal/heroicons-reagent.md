@@ -1,6 +1,6 @@
 # scrintal/heroicons-reagent - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 11 | - | 
 | 2022-12-23 | 11 | - | 
 | 2022-12-22 | 10 | - | 
 | 2022-12-21 | 10 | - | 

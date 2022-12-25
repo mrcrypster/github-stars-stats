@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 24
 
 ☋ Forks: 0
 
-★ Stars: 25
+★ Stars: 27
 
 [Open repository](https://github.com/opqdonut/hash-f)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-24 | 25 | - | 
+| 2022-12-24 | 27 | - | 
 | 2022-12-23 | 24 | - | 
 

@@ -1,6 +1,6 @@
 # lightbend/kalix-jvm-sdk - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 30
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 42 | 30 | 
+| 2022-12-24 | 42 | 30 | 
 | 2022-12-23 | 42 | 30 | 
 | 2022-12-22 | 42 | 30 | 
 | 2022-12-21 | 42 | 30 | 
@@ -39,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-28 | 40 | 30 | 
 | 2022-11-26 | 39 | 30 | 
 | 2022-11-25 | 39 | 30 | 
-| 2022-11-24 | 39 | 30 | 
 

@@ -1,8 +1,8 @@
 # newbee-ltd/newbee-mall - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
-☋ Forks: 2486
+☋ Forks: 2485
 
 ★ Stars: 9541
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 9541 | 2485 | 
 | 2022-12-23 | 9541 | 2486 | 
 | 2022-12-22 | 9541 | 2486 | 
 | 2022-12-21 | 9540 | 2485 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 9488 | 2474 | 
 | 2022-11-26 | 9482 | 2473 | 
 | 2022-11-25 | 9477 | 2472 | 
-| 2022-11-24 | 9476 | 2472 | 
 

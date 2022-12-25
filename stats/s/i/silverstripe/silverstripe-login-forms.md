@@ -1,6 +1,6 @@
 # silverstripe/silverstripe-login-forms - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 16 | 9 | 
 | 2022-12-23 | 16 | 9 | 
 | 2022-12-22 | 16 | 9 | 
 | 2022-12-21 | 16 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 16 | 9 | 
 | 2022-11-26 | 16 | 9 | 
 | 2022-11-25 | 16 | 9 | 
-| 2022-11-24 | 16 | 9 | 
 

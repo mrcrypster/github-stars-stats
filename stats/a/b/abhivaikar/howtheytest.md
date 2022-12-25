@@ -1,6 +1,6 @@
 # abhivaikar/howtheytest - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 368
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 4493 | 368 | 
 | 2022-12-23 | 4493 | 368 | 
 | 2022-12-22 | 4493 | 368 | 
 | 2022-12-21 | 4493 | 368 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 4459 | 365 | 
 | 2022-11-26 | 4458 | 364 | 
 | 2022-11-25 | 4458 | 364 | 
-| 2022-11-24 | 4457 | 364 | 
 

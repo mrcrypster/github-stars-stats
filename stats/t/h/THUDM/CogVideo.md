@@ -1,10 +1,10 @@
 # THUDM/CogVideo - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 189
 
-★ Stars: 2209
+★ Stars: 2210
 
 [Open repository](https://github.com/THUDM/CogVideo)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 2210 | 189 | 
 | 2022-12-23 | 2209 | 189 | 
 | 2022-12-22 | 2205 | 189 | 
 | 2022-12-21 | 2203 | 189 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 2152 | 180 | 
 | 2022-11-26 | 2149 | 180 | 
 | 2022-11-25 | 2149 | 180 | 
-| 2022-11-24 | 2147 | 179 | 
 

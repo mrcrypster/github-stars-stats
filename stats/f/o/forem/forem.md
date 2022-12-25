@@ -1,10 +1,10 @@
 # forem/forem - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 3571
 
-★ Stars: 20039
+★ Stars: 20040
 
 [Open repository](https://github.com/forem/forem)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 20040 | 3571 | 
 | 2022-12-23 | 20039 | 3571 | 
 | 2022-12-22 | 20033 | 3564 | 
 | 2022-12-21 | 20028 | 3564 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 19957 | 3555 | 
 | 2022-11-26 | 19952 | 3555 | 
 | 2022-11-25 | 19949 | 3554 | 
-| 2022-11-24 | 19943 | 3554 | 
 

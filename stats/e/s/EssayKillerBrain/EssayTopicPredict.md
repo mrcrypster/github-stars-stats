@@ -1,10 +1,10 @@
 # EssayKillerBrain/EssayTopicPredict - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 61
 
-★ Stars: 390
+★ Stars: 391
 
 [Open repository](https://github.com/EssayKillerBrain/EssayTopicPredict)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 391 | 61 | 
 | 2022-12-23 | 390 | 61 | 
 | 2022-12-22 | 389 | 61 | 
 | 2022-12-21 | 389 | 61 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 383 | 59 | 
 | 2022-11-26 | 382 | 59 | 
 | 2022-11-25 | 382 | 59 | 
-| 2022-11-24 | 382 | 59 | 
 

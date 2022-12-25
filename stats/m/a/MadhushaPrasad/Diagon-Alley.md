@@ -1,6 +1,6 @@
 # MadhushaPrasad/Diagon-Alley - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 9 | 11 | 
 | 2022-12-23 | 9 | 11 | 
 | 2022-12-22 | 9 | 11 | 
 | 2022-12-21 | 9 | 11 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 9 | 11 | 
 | 2022-11-26 | 9 | 11 | 
 | 2022-11-25 | 9 | 11 | 
-| 2022-11-24 | 9 | 11 | 
 

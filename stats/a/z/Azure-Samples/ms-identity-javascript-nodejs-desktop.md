@@ -1,6 +1,6 @@
 # Azure-Samples/ms-identity-javascript-nodejs-desktop - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 9
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 5 | 9 | 
+| 2022-12-24 | 5 | 9 | 
 | 2022-12-23 | 5 | 9 | 
 | 2022-12-22 | 5 | 9 | 
 | 2022-12-21 | 5 | 9 | 
@@ -41,5 +43,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 4 | 9 | 
 | 2022-11-26 | 4 | 9 | 
 | 2022-11-25 | 4 | 9 | 
-| 2022-11-24 | 4 | 9 | 
 

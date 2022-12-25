@@ -1,6 +1,6 @@
 # chaitin/xray - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 1611
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 7731 | 1611 | 
 | 2022-12-23 | 7731 | 1611 | 
 | 2022-12-22 | 7732 | 1611 | 
 | 2022-12-21 | 7727 | 1610 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 7615 | 1592 | 
 | 2022-11-26 | 7605 | 1591 | 
 | 2022-11-25 | 7596 | 1588 | 
-| 2022-11-24 | 7568 | 1585 | 
 

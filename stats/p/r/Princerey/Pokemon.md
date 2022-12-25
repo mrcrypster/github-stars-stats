@@ -1,10 +1,10 @@
 # Princerey/Pokemon - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 1
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/Princerey/Pokemon)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 24 | 1 | 
 | 2022-12-23 | 23 | 1 | 
 | 2022-12-22 | 23 | 1 | 
 | 2022-12-21 | 23 | 1 | 

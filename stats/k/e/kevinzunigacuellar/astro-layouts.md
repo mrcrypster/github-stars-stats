@@ -1,10 +1,10 @@
 # kevinzunigacuellar/astro-layouts - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 0
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/kevinzunigacuellar/astro-layouts)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 17 | - | 
 | 2022-12-23 | 16 | - | 
 | 2022-12-22 | 15 | - | 
 | 2022-12-21 | 14 | - | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 11 | - | 
 | 2022-11-26 | 11 | - | 
 | 2022-11-25 | 11 | - | 
-| 2022-11-24 | 11 | - | 
 

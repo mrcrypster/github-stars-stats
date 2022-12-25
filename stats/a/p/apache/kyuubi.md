@@ -1,8 +1,8 @@
 # apache/kyuubi - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 25
 
-☋ Forks: 504
+☋ Forks: 505
 
 ★ Stars: 1349
 
@@ -13,5 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 1349 | 505 | 
+| 2022-12-24 | 1349 | 505 | 
 | 2022-12-23 | 1349 | 504 | 
 

@@ -1,10 +1,10 @@
 # vim-airline/vim-airline - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
-☋ Forks: 1124
+☋ Forks: 1123
 
-★ Stars: 16991
+★ Stars: 16992
 
 [Open repository](https://github.com/vim-airline/vim-airline)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 16992 | 1123 | 
 | 2022-12-23 | 16991 | 1124 | 
 | 2022-12-22 | 16991 | 1123 | 
 | 2022-12-21 | 16991 | 1123 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 16950 | 1119 | 
 | 2022-11-26 | 16947 | 1119 | 
 | 2022-11-25 | 16945 | 1119 | 
-| 2022-11-24 | 16944 | 1120 | 
 

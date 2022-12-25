@@ -1,10 +1,10 @@
 # wso2/reference-architecture - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 246
 
-★ Stars: 1281
+★ Stars: 1283
 
 [Open repository](https://github.com/wso2/reference-architecture)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 1283 | 246 | 
 | 2022-12-23 | 1281 | 246 | 
 | 2022-12-22 | 1280 | 246 | 
 | 2022-12-21 | 1279 | 246 | 

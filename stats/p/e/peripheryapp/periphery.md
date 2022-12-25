@@ -1,6 +1,6 @@
 # peripheryapp/periphery - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 123
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 3849 | 123 | 
 | 2022-12-23 | 3849 | 123 | 
 | 2022-12-22 | 3848 | 123 | 
 | 2022-12-21 | 3846 | 123 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 3802 | 122 | 
 | 2022-11-26 | 3803 | 122 | 
 | 2022-11-25 | 3802 | 122 | 
-| 2022-11-24 | 3800 | 122 | 
 

@@ -1,10 +1,10 @@
 # wp-cli/wp-cli - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 950
 
-★ Stars: 4617
+★ Stars: 4618
 
 [Open repository](https://github.com/wp-cli/wp-cli)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 4618 | 950 | 
 | 2022-12-23 | 4617 | 950 | 
 | 2022-12-22 | 4617 | 950 | 
 | 2022-12-21 | 4617 | 950 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 4602 | 950 | 
 | 2022-11-26 | 4602 | 950 | 
 | 2022-11-25 | 4601 | 950 | 
-| 2022-11-24 | 4601 | 950 | 
 

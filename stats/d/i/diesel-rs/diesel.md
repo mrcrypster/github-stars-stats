@@ -1,10 +1,10 @@
 # diesel-rs/diesel - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 863
 
-★ Stars: 9647
+★ Stars: 9649
 
 [Open repository](https://github.com/diesel-rs/diesel)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 9649 | 863 | 
 | 2022-12-23 | 9647 | 863 | 
 | 2022-12-22 | 9647 | 865 | 
 | 2022-12-21 | 9644 | 865 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 9542 | 857 | 
 | 2022-11-26 | 9543 | 857 | 
 | 2022-11-25 | 9536 | 858 | 
-| 2022-11-24 | 9532 | 858 | 
 

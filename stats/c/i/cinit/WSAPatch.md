@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 24
 
-☋ Forks: 233
+☋ Forks: 251
 
-★ Stars: 136
+★ Stars: 148
 
 [Open repository](https://github.com/cinit/WSAPatch)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-24 | 136 | 233 | 
+| 2022-12-24 | 148 | 251 | 
 | 2022-12-23 | 133 | 231 | 
 

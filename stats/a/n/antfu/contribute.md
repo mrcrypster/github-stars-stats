@@ -1,6 +1,6 @@
 # antfu/contribute - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 211 | 11 | 
 | 2022-12-23 | 211 | 11 | 
 | 2022-12-22 | 211 | 11 | 
 | 2022-12-21 | 211 | 11 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 213 | 11 | 
 | 2022-11-26 | 213 | 11 | 
 | 2022-11-25 | 213 | 11 | 
-| 2022-11-24 | 213 | 11 | 
 

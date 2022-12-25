@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 24
 
 ☋ Forks: 4863
 
-★ Stars: 14730
+★ Stars: 14731
 
 [Open repository](https://github.com/OpenAPITools/openapi-generator)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-24 | 14730 | 4863 | 
+| 2022-12-24 | 14731 | 4863 | 
 | 2022-12-23 | 14727 | 4862 | 
 | 2022-12-22 | 14703 | 4857 | 
 | 2022-12-21 | 14690 | 4853 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-27 | 14471 | 4798 | 
 | 2022-11-26 | 14469 | 4797 | 
 | 2022-11-25 | 14461 | 4794 | 
-| 2022-11-24 | 14450 | 4792 | 
 

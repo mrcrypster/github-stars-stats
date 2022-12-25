@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 24
 
 ☋ Forks: 7
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/mercadona/postoffice)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-24 | 17 | 7 | 
+| 2022-12-24 | 18 | 7 | 
 | 2022-12-23 | 17 | 7 | 
 

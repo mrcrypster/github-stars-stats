@@ -1,10 +1,10 @@
 # IBM/FormalML - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 14
 
-★ Stars: 45
+★ Stars: 46
 
 [Open repository](https://github.com/IBM/FormalML)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 46 | 14 | 
 | 2022-12-23 | 45 | 14 | 
 | 2022-12-22 | 44 | 14 | 
 | 2022-12-21 | 44 | 14 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 43 | 14 | 
 | 2022-11-26 | 43 | 14 | 
 | 2022-11-25 | 43 | 14 | 
-| 2022-11-24 | 43 | 14 | 
 

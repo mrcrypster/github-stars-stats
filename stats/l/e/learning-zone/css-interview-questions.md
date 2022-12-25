@@ -1,10 +1,10 @@
 # learning-zone/css-interview-questions - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 221
 
-★ Stars: 584
+★ Stars: 585
 
 [Open repository](https://github.com/learning-zone/css-interview-questions)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 585 | 221 | 
 | 2022-12-23 | 584 | 221 | 
 | 2022-12-22 | 584 | 221 | 
 | 2022-12-21 | 585 | 221 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 574 | 218 | 
 | 2022-11-26 | 574 | 218 | 
 | 2022-11-25 | 573 | 218 | 
-| 2022-11-24 | 573 | 218 | 
 

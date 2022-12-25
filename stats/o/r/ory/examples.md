@@ -1,10 +1,10 @@
 # ory/examples - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
-☋ Forks: 36
+☋ Forks: 35
 
-★ Stars: 48
+★ Stars: 49
 
 [Open repository](https://github.com/ory/examples)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 49 | 35 | 
 | 2022-12-23 | 48 | 36 | 
 | 2022-12-22 | 48 | 36 | 
 | 2022-12-21 | 48 | 36 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-28 | 41 | 29 | 
 | 2022-11-27 | 41 | 29 | 
 | 2022-11-26 | 41 | 29 | 
-| 2022-11-24 | 41 | 29 | 
 

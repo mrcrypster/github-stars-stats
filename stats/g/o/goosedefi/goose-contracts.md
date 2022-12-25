@@ -1,8 +1,8 @@
 # goosedefi/goose-contracts - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
-☋ Forks: 349
+☋ Forks: 350
 
 ★ Stars: 64
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 64 | 350 | 
 | 2022-12-23 | 64 | 349 | 
 | 2022-12-22 | 64 | 349 | 
 | 2022-12-21 | 64 | 349 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 65 | 351 | 
 | 2022-11-26 | 65 | 351 | 
 | 2022-11-25 | 65 | 351 | 
-| 2022-11-24 | 65 | 351 | 
 

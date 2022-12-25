@@ -1,6 +1,6 @@
 # imdea-software/fcsl-pcm - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 21 | 10 | 
 | 2022-12-24 | 21 | 10 | 
 | 2022-12-22 | 21 | 10 | 
 | 2022-12-21 | 21 | 10 | 

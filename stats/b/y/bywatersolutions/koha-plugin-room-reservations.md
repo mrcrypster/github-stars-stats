@@ -1,6 +1,6 @@
 # bywatersolutions/koha-plugin-room-reservations - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 5 | 8 | 
 | 2022-12-23 | 5 | 8 | 
 | 2022-12-22 | 5 | 8 | 
 | 2022-12-21 | 5 | 8 | 

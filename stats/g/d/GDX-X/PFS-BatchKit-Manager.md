@@ -1,6 +1,6 @@
 # GDX-X/PFS-BatchKit-Manager - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 71 | 6 | 
 | 2022-12-23 | 71 | 6 | 
 | 2022-12-22 | 71 | 6 | 
 | 2022-12-21 | 71 | 6 | 

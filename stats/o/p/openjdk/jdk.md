@@ -1,10 +1,10 @@
 # openjdk/jdk - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
-☋ Forks: 4139
+☋ Forks: 4143
 
-★ Stars: 14739
+★ Stars: 14746
 
 [Open repository](https://github.com/openjdk/jdk)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 14746 | 4143 | 
 | 2022-12-23 | 14739 | 4139 | 
 | 2022-12-22 | 14734 | 4139 | 
 | 2022-12-21 | 14729 | 4137 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 14574 | 4086 | 
 | 2022-11-26 | 14569 | 4083 | 
 | 2022-11-25 | 14564 | 4083 | 
-| 2022-11-24 | 14561 | 4079 | 
 

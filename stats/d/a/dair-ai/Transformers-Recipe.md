@@ -1,10 +1,10 @@
 # dair-ai/Transformers-Recipe - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 73
 
-★ Stars: 761
+★ Stars: 762
 
 [Open repository](https://github.com/dair-ai/Transformers-Recipe)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 762 | 73 | 
 | 2022-12-23 | 761 | 73 | 
 | 2022-12-22 | 761 | 73 | 
 | 2022-12-21 | 761 | 73 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-28 | 753 | 74 | 
 | 2022-11-27 | 753 | 74 | 
 | 2022-11-26 | 753 | 74 | 
-| 2022-11-25 | 753 | 74 | 
 

@@ -1,8 +1,8 @@
 # tovyblox/tovy - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
-☋ Forks: 22
+☋ Forks: 21
 
 ★ Stars: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 9 | 21 | 
 | 2022-12-23 | 9 | 22 | 
 | 2022-12-22 | 9 | 21 | 
 | 2022-12-21 | 9 | 21 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 16 | 126 | 
 | 2022-11-26 | 16 | 126 | 
 | 2022-11-25 | 16 | 126 | 
-| 2022-11-24 | 16 | 126 | 
 

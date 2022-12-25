@@ -1,6 +1,6 @@
 # easychen/pushdeer - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 382
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 3512 | 382 | 
 | 2022-12-23 | 3512 | 382 | 
 | 2022-12-22 | 3508 | 381 | 
 | 2022-12-21 | 3507 | 381 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 3440 | 370 | 
 | 2022-11-26 | 3439 | 370 | 
 | 2022-11-25 | 3438 | 370 | 
-| 2022-11-24 | 3430 | 369 | 
 

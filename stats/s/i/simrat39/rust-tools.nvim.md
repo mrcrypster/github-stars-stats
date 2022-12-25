@@ -1,10 +1,10 @@
 # simrat39/rust-tools.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
-☋ Forks: 94
+☋ Forks: 95
 
-★ Stars: 1385
+★ Stars: 1389
 
 [Open repository](https://github.com/simrat39/rust-tools.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 1389 | 95 | 
 | 2022-12-23 | 1385 | 94 | 
 | 2022-12-22 | 1383 | 94 | 
 | 2022-12-21 | 1382 | 94 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 1324 | 95 | 
 | 2022-11-26 | 1323 | 95 | 
 | 2022-11-25 | 1323 | 95 | 
-| 2022-11-24 | 1323 | 95 | 
 

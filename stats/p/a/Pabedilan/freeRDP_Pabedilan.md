@@ -1,6 +1,6 @@
 # Pabedilan/freeRDP_Pabedilan - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 1 | 45 | 
 | 2022-12-23 | 1 | 45 | 
 | 2022-12-22 | 1 | 44 | 
 | 2022-12-21 | 1 | 44 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | - | 34 | 
 | 2022-11-26 | - | 33 | 
 | 2022-11-25 | - | 33 | 
-| 2022-11-24 | - | 33 | 
 

@@ -1,10 +1,10 @@
 # ikarus23/MifareClassicTool - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
-☋ Forks: 786
+☋ Forks: 787
 
-★ Stars: 3324
+★ Stars: 3325
 
 [Open repository](https://github.com/ikarus23/MifareClassicTool)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 3325 | 787 | 
 | 2022-12-23 | 3324 | 786 | 
 | 2022-12-22 | 3322 | 786 | 
 | 2022-12-21 | 3321 | 786 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 3279 | 781 | 
 | 2022-11-26 | 3279 | 781 | 
 | 2022-11-25 | 3277 | 780 | 
-| 2022-11-24 | 3273 | 780 | 
 

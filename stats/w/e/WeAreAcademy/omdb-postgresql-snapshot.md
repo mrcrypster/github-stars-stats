@@ -1,6 +1,6 @@
 # WeAreAcademy/omdb-postgresql-snapshot - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | - | 45 | 
 | 2022-12-23 | - | 45 | 
 | 2022-12-22 | - | 45 | 
 | 2022-12-21 | - | 45 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | - | 36 | 
 | 2022-11-26 | - | 36 | 
 | 2022-11-25 | - | 36 | 
-| 2022-11-24 | - | 36 | 
 

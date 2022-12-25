@@ -1,6 +1,6 @@
 # samdenty/git-icons - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 365 | 59 | 
 | 2022-12-23 | 365 | 59 | 
 | 2022-12-22 | 364 | 59 | 
 | 2022-12-21 | 364 | 59 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 364 | 59 | 
 | 2022-11-26 | 364 | 59 | 
 | 2022-11-25 | 364 | 59 | 
-| 2022-11-24 | 364 | 59 | 
 

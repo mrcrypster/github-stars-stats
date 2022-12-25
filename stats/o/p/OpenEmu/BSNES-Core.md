@@ -1,6 +1,6 @@
 # OpenEmu/BSNES-Core - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 13 | 7 | 
 | 2022-12-23 | 13 | 7 | 
 | 2022-12-22 | 13 | 7 | 
 | 2022-12-21 | 13 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 13 | 7 | 
 | 2022-11-26 | 13 | 7 | 
 | 2022-11-25 | 13 | 7 | 
-| 2022-11-24 | 13 | 7 | 
 

@@ -1,6 +1,6 @@
 # upenn-cis5520/empty-project - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 1 | 15 | 
 | 2022-12-23 | 1 | 15 | 
 | 2022-12-22 | 1 | 15 | 
 | 2022-12-21 | 1 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 1 | 12 | 
 | 2022-11-26 | 1 | 11 | 
 | 2022-11-25 | 1 | 10 | 
-| 2022-11-24 | 1 | 10 | 
 

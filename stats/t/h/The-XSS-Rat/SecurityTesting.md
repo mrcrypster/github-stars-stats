@@ -1,10 +1,10 @@
 # The-XSS-Rat/SecurityTesting - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
-☋ Forks: 199
+☋ Forks: 200
 
-★ Stars: 649
+★ Stars: 656
 
 [Open repository](https://github.com/The-XSS-Rat/SecurityTesting)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 656 | 200 | 
 | 2022-12-23 | 649 | 199 | 
 | 2022-12-22 | 649 | 199 | 
 | 2022-12-21 | 648 | 199 | 

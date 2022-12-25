@@ -1,10 +1,10 @@
 # altogic/altogic - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 13
 
-★ Stars: 108
+★ Stars: 103
 
 [Open repository](https://github.com/altogic/altogic)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 103 | 13 | 
 | 2022-12-23 | 108 | 13 | 
 | 2022-12-22 | 108 | 13 | 
 | 2022-12-21 | 107 | 13 | 

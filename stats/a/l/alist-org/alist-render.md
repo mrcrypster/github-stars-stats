@@ -1,10 +1,10 @@
 # alist-org/alist-render - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
-☋ Forks: 199
+☋ Forks: 202
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/alist-org/alist-render)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 37 | 202 | 
 | 2022-12-23 | 36 | 199 | 
 | 2022-12-22 | 36 | 196 | 
 | 2022-12-21 | 36 | 196 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 29 | 163 | 
 | 2022-11-26 | 29 | 163 | 
 | 2022-11-25 | 29 | 163 | 
-| 2022-11-24 | 29 | 162 | 
 

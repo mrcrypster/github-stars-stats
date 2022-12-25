@@ -1,6 +1,6 @@
 # Veridise/circom-coq - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 18 | 1 | 
 | 2022-12-23 | 18 | 1 | 
 | 2022-12-22 | 18 | 1 | 
 | 2022-12-21 | 18 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 17 | 1 | 
 | 2022-11-26 | 17 | 1 | 
 | 2022-11-25 | 17 | 1 | 
-| 2022-11-24 | 17 | 1 | 
 

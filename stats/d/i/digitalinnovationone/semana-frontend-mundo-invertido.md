@@ -1,6 +1,6 @@
 # digitalinnovationone/semana-frontend-mundo-invertido - stars & forks statistics
 
-Stats updated on Dec 2022, 23
+Stats updated on Dec 2022, 24
 
 ☋ Forks: 212
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-24 | 284 | 212 | 
 | 2022-12-23 | 284 | 212 | 
 | 2022-12-22 | 284 | 212 | 
 | 2022-12-21 | 284 | 212 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 23
 | 2022-11-27 | 286 | 212 | 
 | 2022-11-26 | 286 | 211 | 
 | 2022-11-25 | 286 | 212 | 
-| 2022-11-24 | 286 | 212 | 
 
