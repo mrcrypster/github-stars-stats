@@ -1,10 +1,10 @@
 # Jxck-S/plane-notify - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 438
 
-★ Stars: 2332
+★ Stars: 2335
 
 [Open repository](https://github.com/Jxck-S/plane-notify)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 2335 | 438 | 
 | 2022-12-24 | 2332 | 438 | 
 | 2022-12-23 | 2326 | 437 | 
 | 2022-12-22 | 2323 | 436 | 

@@ -1,10 +1,10 @@
 # abbodi1406/vcredist - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
-☋ Forks: 233
+☋ Forks: 234
 
-★ Stars: 3014
+★ Stars: 3016
 
 [Open repository](https://github.com/abbodi1406/vcredist)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 3016 | 234 | 
 | 2022-12-24 | 3014 | 233 | 
 | 2022-12-23 | 3006 | 232 | 
 | 2022-12-22 | 2998 | 232 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 2929 | 232 | 
 | 2022-11-27 | 2925 | 232 | 
 | 2022-11-26 | 2921 | 232 | 
-| 2022-11-25 | 2919 | 232 | 
 

@@ -1,6 +1,6 @@
 # qgis/QGIS - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 2447
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 6511 | 2447 | 
 | 2022-12-24 | 6511 | 2447 | 
 | 2022-12-23 | 6507 | 2447 | 
 | 2022-12-22 | 6506 | 2446 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 6436 | 2433 | 
 | 2022-11-27 | 6435 | 2431 | 
 | 2022-11-26 | 6431 | 2429 | 
-| 2022-11-25 | 6427 | 2426 | 
 

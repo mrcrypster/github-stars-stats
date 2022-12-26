@@ -1,10 +1,10 @@
 # Mrs4s/go-cqhttp - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
-☋ Forks: 1167
+☋ Forks: 1169
 
-★ Stars: 6581
+★ Stars: 6585
 
 [Open repository](https://github.com/Mrs4s/go-cqhttp)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 6585 | 1169 | 
 | 2022-12-24 | 6581 | 1167 | 
 | 2022-12-23 | 6575 | 1166 | 
 | 2022-12-22 | 6570 | 1164 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 6369 | 1144 | 
 | 2022-11-27 | 6365 | 1143 | 
 | 2022-11-26 | 6362 | 1143 | 
-| 2022-11-25 | 6347 | 1142 | 
 

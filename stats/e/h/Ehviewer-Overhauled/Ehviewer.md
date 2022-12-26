@@ -1,10 +1,10 @@
 # Ehviewer-Overhauled/Ehviewer - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 84
 
-★ Stars: 1774
+★ Stars: 1785
 
 [Open repository](https://github.com/Ehviewer-Overhauled/Ehviewer)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 1785 | 84 | 
 | 2022-12-24 | 1774 | 84 | 
 | 2022-12-23 | 1771 | 84 | 
 | 2022-12-22 | 1767 | 84 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 1428 | 66 | 
 | 2022-11-27 | 1393 | 64 | 
 | 2022-11-26 | 1373 | 62 | 
-| 2022-11-25 | 1344 | 61 | 
 

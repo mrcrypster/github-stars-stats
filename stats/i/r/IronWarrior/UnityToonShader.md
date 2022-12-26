@@ -1,10 +1,10 @@
 # IronWarrior/UnityToonShader - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 26
 
-☋ Forks: 164
+☋ Forks: 165
 
-★ Stars: 683
+★ Stars: 684
 
 [Open repository](https://github.com/IronWarrior/UnityToonShader)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 684 | 165 | 
+| 2022-12-25 | 684 | 165 | 
 | 2022-12-24 | 683 | 164 | 
 | 2022-12-23 | 682 | 164 | 
 | 2022-12-22 | 681 | 164 | 
@@ -39,5 +41,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-29 | 664 | 164 | 
 | 2022-11-28 | 664 | 164 | 
 | 2022-11-27 | 664 | 164 | 
-| 2022-11-26 | 664 | 164 | 
 

@@ -1,10 +1,10 @@
 # tamton-aquib/zone.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 2
 
-★ Stars: 146
+★ Stars: 148
 
 [Open repository](https://github.com/tamton-aquib/zone.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 148 | 2 | 
 | 2022-12-25 | 146 | 2 | 
 | 2022-12-24 | 145 | 2 | 
 | 2022-12-22 | 145 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-28 | 54 | 1 | 
 | 2022-11-27 | 44 | 1 | 
 | 2022-11-26 | 44 | 1 | 
-| 2022-11-25 | 43 | 1 | 
 

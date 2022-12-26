@@ -1,6 +1,6 @@
 # Wh04m1001/IFaultrepElevatedDataCollectionUAC - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 118 | 25 | 
 | 2022-12-24 | 118 | 25 | 
 | 2022-12-23 | 118 | 25 | 
 | 2022-12-22 | 118 | 25 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 114 | 25 | 
 | 2022-11-27 | 114 | 25 | 
 | 2022-11-26 | 114 | 25 | 
-| 2022-11-25 | 114 | 25 | 
 

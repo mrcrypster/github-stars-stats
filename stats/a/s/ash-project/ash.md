@@ -1,6 +1,6 @@
 # ash-project/ash - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 81
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 721 | 81 | 
 | 2022-12-24 | 721 | 81 | 
 | 2022-12-23 | 720 | 81 | 
 | 2022-12-22 | 720 | 82 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 705 | 75 | 
 | 2022-11-27 | 704 | 75 | 
 | 2022-11-26 | 703 | 74 | 
-| 2022-11-25 | 702 | 74 | 
 

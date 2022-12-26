@@ -1,10 +1,10 @@
 # ANYbotics/grid_map - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 703
 
-★ Stars: 1909
+★ Stars: 1910
 
 [Open repository](https://github.com/ANYbotics/grid_map)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 1910 | 703 | 
 | 2022-12-24 | 1909 | 703 | 
 | 2022-12-23 | 1908 | 703 | 
 | 2022-12-22 | 1908 | 704 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-29 | 1882 | 698 | 
 | 2022-11-28 | 1883 | 698 | 
 | 2022-11-26 | 1883 | 698 | 
-| 2022-11-25 | 1882 | 698 | 
 

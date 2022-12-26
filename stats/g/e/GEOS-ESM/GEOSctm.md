@@ -1,0 +1,17 @@
+# GEOS-ESM/GEOSctm - stars & forks statistics
+
+Stats updated on Dec 2022, 25
+
+☋ Forks: 1
+
+★ Stars: 0
+
+[Open repository](https://github.com/GEOS-ESM/GEOSctm)
+
+[Open detailed stats for GEOS-ESM/GEOSctm](https://reviewgithub.com/rep/GEOS-ESM/GEOSctm)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-12-25 | - | 1 | 
+

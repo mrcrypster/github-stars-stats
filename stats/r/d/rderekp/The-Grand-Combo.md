@@ -1,6 +1,6 @@
 # rderekp/The-Grand-Combo - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 75 | 62 | 
 | 2022-12-24 | 75 | 62 | 
 | 2022-12-23 | 75 | 62 | 
 | 2022-12-22 | 75 | 62 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 75 | 61 | 
 | 2022-11-27 | 75 | 61 | 
 | 2022-11-26 | 75 | 61 | 
-| 2022-11-25 | 75 | 61 | 
 

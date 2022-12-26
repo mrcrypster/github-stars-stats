@@ -1,6 +1,6 @@
 # Sirox228/Source-Engine - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 6 | 4 | 
 | 2022-12-25 | 6 | 4 | 
 | 2022-12-24 | 6 | 4 | 
 | 2022-12-22 | 6 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-28 | 6 | 3 | 
 | 2022-11-27 | 6 | 3 | 
 | 2022-11-26 | 6 | 3 | 
-| 2022-11-25 | 6 | 3 | 
 

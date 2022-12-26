@@ -1,6 +1,6 @@
 # ruby/setup-ruby - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 178
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 599 | 178 | 
 | 2022-12-24 | 599 | 178 | 
 | 2022-12-23 | 599 | 178 | 
 | 2022-12-22 | 599 | 178 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-29 | 585 | 175 | 
 | 2022-11-28 | 584 | 175 | 
 | 2022-11-27 | 584 | 174 | 
-| 2022-11-25 | 583 | 174 | 
 

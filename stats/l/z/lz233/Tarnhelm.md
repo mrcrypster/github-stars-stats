@@ -1,10 +1,10 @@
 # lz233/Tarnhelm - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 13
 
-★ Stars: 166
+★ Stars: 167
 
 [Open repository](https://github.com/lz233/Tarnhelm)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 167 | 13 | 
 | 2022-12-24 | 166 | 13 | 
 | 2022-12-23 | 166 | 13 | 
 | 2022-12-22 | 166 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 156 | 13 | 
 | 2022-11-27 | 154 | 13 | 
 | 2022-11-26 | 154 | 13 | 
-| 2022-11-25 | 153 | 13 | 
 

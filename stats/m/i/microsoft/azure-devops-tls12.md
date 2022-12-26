@@ -1,6 +1,6 @@
 # microsoft/azure-devops-tls12 - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 55 | 45 | 
 | 2022-12-24 | 55 | 45 | 
 | 2022-12-23 | 55 | 45 | 
 | 2022-12-22 | 55 | 45 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 54 | 45 | 
 | 2022-11-27 | 54 | 45 | 
 | 2022-11-26 | 54 | 45 | 
-| 2022-11-25 | 54 | 45 | 
 

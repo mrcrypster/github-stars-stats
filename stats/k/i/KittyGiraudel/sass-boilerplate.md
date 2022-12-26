@@ -1,10 +1,10 @@
 # KittyGiraudel/sass-boilerplate - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 745
 
-★ Stars: 3087
+★ Stars: 3088
 
 [Open repository](https://github.com/KittyGiraudel/sass-boilerplate)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 3088 | 745 | 
 | 2022-12-24 | 3087 | 745 | 
 | 2022-12-23 | 3087 | 744 | 
 | 2022-12-22 | 3085 | 744 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 3068 | 739 | 
 | 2022-11-27 | 3068 | 739 | 
 | 2022-11-26 | 3068 | 739 | 
-| 2022-11-25 | 3068 | 739 | 
 

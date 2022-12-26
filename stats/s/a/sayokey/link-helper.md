@@ -1,6 +1,6 @@
 # sayokey/link-helper - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 97
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 495 | 97 | 
 | 2022-12-25 | 495 | 97 | 
 | 2022-12-24 | 494 | 97 | 
 | 2022-12-23 | 494 | 97 | 

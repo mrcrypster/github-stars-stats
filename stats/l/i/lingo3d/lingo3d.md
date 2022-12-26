@@ -1,10 +1,10 @@
 # lingo3d/lingo3d - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 282
 
-★ Stars: 2199
+★ Stars: 2202
 
 [Open repository](https://github.com/lingo3d/lingo3d)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 2202 | 282 | 
 | 2022-12-24 | 2199 | 282 | 
 | 2022-12-23 | 2199 | 282 | 
 | 2022-12-22 | 2198 | 282 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 2187 | 279 | 
 | 2022-11-27 | 2187 | 279 | 
 | 2022-11-26 | 2187 | 279 | 
-| 2022-11-25 | 2187 | 279 | 
 

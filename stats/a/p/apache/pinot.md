@@ -1,10 +1,10 @@
 # apache/pinot - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 1003
 
-★ Stars: 4343
+★ Stars: 4344
 
 [Open repository](https://github.com/apache/pinot)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 4344 | 1003 | 
 | 2022-12-24 | 4343 | 1003 | 
 | 2022-12-23 | 4343 | 1003 | 
 | 2022-12-22 | 4343 | 1000 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 4309 | 994 | 
 | 2022-11-27 | 4309 | 992 | 
 | 2022-11-26 | 4306 | 991 | 
-| 2022-11-25 | 4304 | 990 | 
 

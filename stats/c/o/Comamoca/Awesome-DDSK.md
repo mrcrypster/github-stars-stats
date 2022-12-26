@@ -1,6 +1,6 @@
 # Comamoca/Awesome-DDSK - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 38 | 16 | 
 | 2022-12-24 | 38 | 16 | 
 | 2022-12-23 | 38 | 16 | 
 | 2022-12-22 | 38 | 16 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 38 | 16 | 
 | 2022-11-27 | 38 | 16 | 
 | 2022-11-26 | 38 | 16 | 
-| 2022-11-25 | 38 | 16 | 
 

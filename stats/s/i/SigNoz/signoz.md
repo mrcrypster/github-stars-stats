@@ -1,10 +1,10 @@
 # SigNoz/signoz - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 573
 
-★ Stars: 10817
+★ Stars: 10827
 
 [Open repository](https://github.com/SigNoz/signoz)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 10827 | 573 | 
 | 2022-12-24 | 10817 | 573 | 
 | 2022-12-23 | 10811 | 573 | 
 | 2022-12-22 | 10795 | 571 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 10583 | 557 | 
 | 2022-11-27 | 10576 | 557 | 
 | 2022-11-26 | 10571 | 557 | 
-| 2022-11-25 | 10565 | 557 | 
 

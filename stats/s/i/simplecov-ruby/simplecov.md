@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 25
 
 ☋ Forks: 536
 
-★ Stars: 4537
+★ Stars: 4538
 
 [Open repository](https://github.com/simplecov-ruby/simplecov)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-25 | 4537 | 536 | 
+| 2022-12-25 | 4538 | 536 | 
 | 2022-12-24 | 4537 | 536 | 
 | 2022-12-23 | 4536 | 536 | 
 | 2022-12-22 | 4536 | 536 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-28 | 4527 | 535 | 
 | 2022-11-27 | 4527 | 535 | 
 | 2022-11-26 | 4527 | 535 | 
-| 2022-11-25 | 4527 | 535 | 
 

@@ -1,10 +1,10 @@
 # KhronosGroup/SPIRV-Cross - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 435
 
-★ Stars: 1574
+★ Stars: 1576
 
 [Open repository](https://github.com/KhronosGroup/SPIRV-Cross)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 1576 | 435 | 
 | 2022-12-24 | 1574 | 435 | 
 | 2022-12-23 | 1574 | 435 | 
 | 2022-12-22 | 1574 | 435 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 1566 | 428 | 
 | 2022-11-27 | 1566 | 428 | 
 | 2022-11-26 | 1566 | 428 | 
-| 2022-11-25 | 1566 | 428 | 
 

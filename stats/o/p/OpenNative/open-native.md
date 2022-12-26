@@ -1,6 +1,6 @@
 # OpenNative/open-native - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 292 | 1 | 
 | 2022-12-24 | 292 | 1 | 
 | 2022-12-23 | 292 | 1 | 
 | 2022-12-22 | 292 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-29 | 254 | 1 | 
 | 2022-11-28 | 253 | 1 | 
 | 2022-11-27 | 250 | 1 | 
-| 2022-11-25 | 250 | 1 | 
 

@@ -1,6 +1,6 @@
 # j-brant/SmaCC - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 20 | 12 | 
 | 2022-12-24 | 20 | 12 | 
 | 2022-12-23 | 20 | 12 | 
 | 2022-12-22 | 20 | 11 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 20 | 11 | 
 | 2022-11-27 | 20 | 11 | 
 | 2022-11-26 | 20 | 11 | 
-| 2022-11-25 | 20 | 11 | 
 

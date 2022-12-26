@@ -1,6 +1,6 @@
 # aquaticus/esp32_composite_video_lib - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 108 | 3 | 
 | 2022-12-24 | 108 | 3 | 
 | 2022-12-23 | 108 | 3 | 
 | 2022-12-22 | 107 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 106 | 3 | 
 | 2022-11-27 | 106 | 3 | 
 | 2022-11-26 | 106 | 3 | 
-| 2022-11-25 | 106 | 3 | 
 

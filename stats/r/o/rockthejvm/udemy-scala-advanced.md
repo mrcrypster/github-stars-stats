@@ -1,6 +1,6 @@
 # rockthejvm/udemy-scala-advanced - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 42 | 44 | 
 | 2022-12-24 | 42 | 44 | 
 | 2022-12-23 | 42 | 44 | 
 | 2022-12-22 | 42 | 44 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 40 | 44 | 
 | 2022-11-27 | 40 | 44 | 
 | 2022-11-26 | 40 | 44 | 
-| 2022-11-25 | 40 | 44 | 
 

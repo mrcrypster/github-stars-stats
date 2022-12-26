@@ -1,6 +1,6 @@
 # ros2/yaml_cpp_vendor - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | - | 11 | 
 | 2022-12-24 | - | 11 | 
 | 2022-12-23 | - | 11 | 
 | 2022-12-22 | - | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | - | 11 | 
 | 2022-11-27 | - | 11 | 
 | 2022-11-26 | - | 11 | 
-| 2022-11-25 | - | 11 | 
 

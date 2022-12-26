@@ -1,6 +1,6 @@
 # iv-org/documentation - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 86
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 211 | 86 | 
 | 2022-12-24 | 211 | 86 | 
 | 2022-12-23 | 211 | 86 | 
 | 2022-12-22 | 211 | 86 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 191 | 83 | 
 | 2022-11-27 | 191 | 83 | 
 | 2022-11-26 | 191 | 83 | 
-| 2022-11-25 | 191 | 83 | 
 

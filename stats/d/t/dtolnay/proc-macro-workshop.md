@@ -1,6 +1,6 @@
 # dtolnay/proc-macro-workshop - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 629
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 2458 | 629 | 
 | 2022-12-24 | 2458 | 629 | 
 | 2022-12-23 | 2455 | 629 | 
 | 2022-12-22 | 2454 | 629 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 2398 | 614 | 
 | 2022-11-27 | 2395 | 613 | 
 | 2022-11-26 | 2393 | 612 | 
-| 2022-11-25 | 2390 | 612 | 
 

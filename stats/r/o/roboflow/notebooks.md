@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 25
 
 ☋ Forks: 80
 
-★ Stars: 600
+★ Stars: 605
 
 [Open repository](https://github.com/roboflow/notebooks)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-25 | 600 | 80 | 
+| 2022-12-25 | 605 | 80 | 
 | 2022-12-24 | 597 | 80 | 
 | 2022-12-23 | 587 | 79 | 
 | 2022-12-22 | 571 | 77 | 

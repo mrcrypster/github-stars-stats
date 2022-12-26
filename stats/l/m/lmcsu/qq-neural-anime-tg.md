@@ -1,8 +1,8 @@
 # lmcsu/qq-neural-anime-tg - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
-☋ Forks: 20
+☋ Forks: 21
 
 ★ Stars: 73
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 73 | 21 | 
 | 2022-12-24 | 73 | 20 | 
 | 2022-12-23 | 73 | 19 | 
 | 2022-12-22 | 65 | 19 | 

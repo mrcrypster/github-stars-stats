@@ -1,10 +1,10 @@
 # kubeflow/kubeflow - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 2064
 
-★ Stars: 12130
+★ Stars: 12131
 
 [Open repository](https://github.com/kubeflow/kubeflow)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 12131 | 2064 | 
 | 2022-12-24 | 12130 | 2064 | 
 | 2022-12-23 | 12129 | 2064 | 
 | 2022-12-22 | 12129 | 2063 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 12061 | 2051 | 
 | 2022-11-27 | 12057 | 2050 | 
 | 2022-11-26 | 12057 | 2051 | 
-| 2022-11-25 | 12054 | 2052 | 
 

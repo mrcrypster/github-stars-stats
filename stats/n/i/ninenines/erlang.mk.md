@@ -1,6 +1,6 @@
 # ninenines/erlang.mk - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 238
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 561 | 238 | 
 | 2022-12-24 | 561 | 238 | 
 | 2022-12-23 | 561 | 238 | 
 | 2022-12-22 | 561 | 238 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 561 | 239 | 
 | 2022-11-27 | 561 | 239 | 
 | 2022-11-26 | 561 | 239 | 
-| 2022-11-25 | 561 | 239 | 
 

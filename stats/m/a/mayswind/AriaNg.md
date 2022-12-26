@@ -1,10 +1,10 @@
 # mayswind/AriaNg - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 1178
 
-★ Stars: 9736
+★ Stars: 9739
 
 [Open repository](https://github.com/mayswind/AriaNg)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 9739 | 1178 | 
 | 2022-12-24 | 9736 | 1178 | 
 | 2022-12-23 | 9729 | 1178 | 
 | 2022-12-22 | 9724 | 1176 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 9625 | 1168 | 
 | 2022-11-27 | 9623 | 1167 | 
 | 2022-11-26 | 9619 | 1166 | 
-| 2022-11-25 | 9611 | 1166 | 
 

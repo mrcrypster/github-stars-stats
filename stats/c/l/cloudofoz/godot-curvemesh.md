@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 25
 
 ☋ Forks: 1
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/cloudofoz/godot-curvemesh)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-25 | 15 | 1 | 
+| 2022-12-25 | 16 | 1 | 
 | 2022-12-24 | 14 | 1 | 
 

@@ -1,10 +1,10 @@
 # rmagatti/auto-session - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 30
 
-★ Stars: 636
+★ Stars: 638
 
 [Open repository](https://github.com/rmagatti/auto-session)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 638 | 30 | 
 | 2022-12-24 | 636 | 30 | 
 | 2022-12-23 | 636 | 30 | 
 | 2022-12-22 | 635 | 30 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 624 | 29 | 
 | 2022-11-27 | 624 | 29 | 
 | 2022-11-26 | 624 | 29 | 
-| 2022-11-25 | 623 | 29 | 
 

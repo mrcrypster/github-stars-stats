@@ -1,6 +1,6 @@
 # coupa/resque-round-robin - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 9 | 14 | 
 | 2022-12-24 | 9 | 14 | 
 | 2022-12-23 | 9 | 14 | 
 | 2022-12-22 | 9 | 14 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 9 | 14 | 
 | 2022-11-27 | 9 | 14 | 
 | 2022-11-26 | 9 | 14 | 
-| 2022-11-25 | 9 | 14 | 
 

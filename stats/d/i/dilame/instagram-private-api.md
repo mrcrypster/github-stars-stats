@@ -1,6 +1,6 @@
 # dilame/instagram-private-api - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 1060
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 4962 | 1060 | 
 | 2022-12-24 | 4962 | 1060 | 
 | 2022-12-23 | 4957 | 1059 | 
 | 2022-12-22 | 4957 | 1059 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 4921 | 1059 | 
 | 2022-11-27 | 4921 | 1059 | 
 | 2022-11-26 | 4918 | 1058 | 
-| 2022-11-25 | 4917 | 1058 | 
 

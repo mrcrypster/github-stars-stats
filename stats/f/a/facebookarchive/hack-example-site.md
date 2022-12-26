@@ -1,6 +1,6 @@
 # facebookarchive/hack-example-site - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 286 | 73 | 
 | 2022-12-24 | 286 | 73 | 
 | 2022-12-23 | 286 | 73 | 
 | 2022-12-22 | 286 | 73 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 286 | 73 | 
 | 2022-11-27 | 286 | 73 | 
 | 2022-11-26 | 286 | 73 | 
-| 2022-11-25 | 286 | 73 | 
 

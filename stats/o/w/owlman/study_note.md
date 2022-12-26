@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 25
 
-☋ Forks: 10
+☋ Forks: 11
 
-★ Stars: 96
+★ Stars: 101
 
 [Open repository](https://github.com/owlman/study_note)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-25 | 96 | 10 | 
+| 2022-12-25 | 101 | 11 | 
 | 2022-12-24 | 96 | 10 | 
 

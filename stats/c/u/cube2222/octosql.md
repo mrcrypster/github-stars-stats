@@ -1,10 +1,10 @@
 # cube2222/octosql - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 181
 
-★ Stars: 4228
+★ Stars: 4231
 
 [Open repository](https://github.com/cube2222/octosql)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 4231 | 181 | 
 | 2022-12-24 | 4228 | 181 | 
 | 2022-12-23 | 4228 | 181 | 
 | 2022-12-22 | 4227 | 181 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 4191 | 179 | 
 | 2022-11-27 | 4191 | 179 | 
 | 2022-11-26 | 4190 | 179 | 
-| 2022-11-25 | 4189 | 179 | 
 

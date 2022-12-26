@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 25
 
 ☋ Forks: 188
 
-★ Stars: 1666
+★ Stars: 1667
 
 [Open repository](https://github.com/tylermorganwall/rayshader)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-25 | 1666 | 188 | 
+| 2022-12-25 | 1667 | 188 | 
 | 2022-12-24 | 1665 | 188 | 
 | 2022-12-23 | 1664 | 188 | 
 | 2022-12-22 | 1664 | 187 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-28 | 1644 | 184 | 
 | 2022-11-27 | 1643 | 184 | 
 | 2022-11-26 | 1641 | 184 | 
-| 2022-11-25 | 1639 | 184 | 
 

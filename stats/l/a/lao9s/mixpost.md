@@ -1,10 +1,10 @@
 # lao9s/mixpost - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 22
 
-★ Stars: 169
+★ Stars: 170
 
 [Open repository](https://github.com/lao9s/mixpost)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 170 | 22 | 
 | 2022-12-24 | 169 | 22 | 
 | 2022-12-23 | 168 | 22 | 
 | 2022-12-22 | 168 | 22 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 143 | 17 | 
 | 2022-11-27 | 143 | 17 | 
 | 2022-11-26 | 143 | 17 | 
-| 2022-11-25 | 141 | 17 | 
 

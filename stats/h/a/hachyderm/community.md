@@ -1,10 +1,10 @@
 # hachyderm/community - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 35
 
-★ Stars: 400
+★ Stars: 401
 
 [Open repository](https://github.com/hachyderm/community)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 401 | 35 | 
 | 2022-12-24 | 400 | 35 | 
 | 2022-12-23 | 397 | 35 | 
 | 2022-12-22 | 395 | 35 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 300 | 21 | 
 | 2022-11-27 | 294 | 21 | 
 | 2022-11-26 | 292 | 21 | 
-| 2022-11-25 | 288 | 21 | 
 

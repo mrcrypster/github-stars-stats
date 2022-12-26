@@ -1,6 +1,6 @@
 # eangulee/UnityShader - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 33 | 6 | 
 | 2022-12-24 | 33 | 6 | 
 | 2022-12-23 | 33 | 6 | 
 | 2022-12-22 | 32 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 31 | 6 | 
 | 2022-11-27 | 31 | 6 | 
 | 2022-11-26 | 31 | 6 | 
-| 2022-11-25 | 31 | 6 | 
 

@@ -1,6 +1,6 @@
 # marcosci/climate_multiples - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 21 | 6 | 
 | 2022-12-24 | 21 | 6 | 
 | 2022-12-23 | 21 | 6 | 
 | 2022-12-22 | 21 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 21 | 6 | 
 | 2022-11-27 | 21 | 6 | 
 | 2022-11-26 | 21 | 6 | 
-| 2022-11-25 | 21 | 6 | 
 

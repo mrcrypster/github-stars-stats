@@ -1,6 +1,6 @@
 # purescript-node/purescript-node-path - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 7 | 11 | 
 | 2022-12-24 | 7 | 11 | 
 | 2022-12-23 | 7 | 11 | 
 | 2022-12-22 | 7 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 7 | 11 | 
 | 2022-11-27 | 7 | 11 | 
 | 2022-11-26 | 7 | 11 | 
-| 2022-11-25 | 7 | 11 | 
 

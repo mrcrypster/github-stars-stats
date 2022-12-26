@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 25
 
 ☋ Forks: 2097
 
-★ Stars: 6710
+★ Stars: 6711
 
 [Open repository](https://github.com/sindresorhus/github-markdown-css)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-25 | 6710 | 2097 | 
+| 2022-12-25 | 6711 | 2097 | 
 | 2022-12-24 | 6710 | 2097 | 
 | 2022-12-23 | 6709 | 2096 | 
 | 2022-12-22 | 6705 | 2095 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-28 | 6665 | 2094 | 
 | 2022-11-27 | 6663 | 2094 | 
 | 2022-11-26 | 6660 | 2093 | 
-| 2022-11-25 | 6658 | 2093 | 
 

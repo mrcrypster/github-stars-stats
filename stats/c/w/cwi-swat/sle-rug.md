@@ -1,6 +1,6 @@
 # cwi-swat/sle-rug - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 106
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 6 | 106 | 
 | 2022-12-24 | 6 | 106 | 
 | 2022-12-23 | 6 | 106 | 
 | 2022-12-22 | 6 | 106 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 5 | 106 | 
 | 2022-11-27 | 5 | 106 | 
 | 2022-11-26 | 5 | 106 | 
-| 2022-11-25 | 5 | 106 | 
 

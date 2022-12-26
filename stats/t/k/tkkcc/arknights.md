@@ -1,10 +1,10 @@
 # tkkcc/arknights - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 41
 
-★ Stars: 1274
+★ Stars: 1276
 
 [Open repository](https://github.com/tkkcc/arknights)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 1276 | 41 | 
 | 2022-12-24 | 1274 | 41 | 
 | 2022-12-23 | 1272 | 41 | 
 | 2022-12-22 | 1270 | 41 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 1235 | 41 | 
 | 2022-11-27 | 1235 | 41 | 
 | 2022-11-26 | 1235 | 41 | 
-| 2022-11-25 | 1234 | 41 | 
 

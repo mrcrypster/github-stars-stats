@@ -1,10 +1,10 @@
 # tsoding/mine - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 3
 
-★ Stars: 41
+★ Stars: 42
 
 [Open repository](https://github.com/tsoding/mine)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 42 | 3 | 
 | 2022-12-24 | 41 | 3 | 
 | 2022-12-23 | 41 | 3 | 
 | 2022-12-22 | 41 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 41 | 3 | 
 | 2022-11-27 | 41 | 3 | 
 | 2022-11-26 | 41 | 3 | 
-| 2022-11-25 | 41 | 3 | 
 

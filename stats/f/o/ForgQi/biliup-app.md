@@ -1,10 +1,10 @@
 # ForgQi/biliup-app - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 37
 
-★ Stars: 597
+★ Stars: 598
 
 [Open repository](https://github.com/ForgQi/biliup-app)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 598 | 37 | 
 | 2022-12-24 | 597 | 37 | 
 | 2022-12-23 | 596 | 37 | 
 | 2022-12-22 | 595 | 37 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 573 | 36 | 
 | 2022-11-27 | 572 | 36 | 
 | 2022-11-26 | 572 | 37 | 
-| 2022-11-25 | 572 | 37 | 
 

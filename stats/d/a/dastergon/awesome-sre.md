@@ -1,10 +1,10 @@
 # dastergon/awesome-sre - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
-☋ Forks: 1270
+☋ Forks: 1271
 
-★ Stars: 9398
+★ Stars: 9401
 
 [Open repository](https://github.com/dastergon/awesome-sre)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 9401 | 1271 | 
 | 2022-12-24 | 9398 | 1270 | 
 | 2022-12-23 | 9394 | 1269 | 
 | 2022-12-22 | 9390 | 1268 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 9241 | 1246 | 
 | 2022-11-27 | 9235 | 1246 | 
 | 2022-11-26 | 9233 | 1246 | 
-| 2022-11-25 | 9231 | 1246 | 
 

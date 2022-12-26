@@ -1,10 +1,10 @@
 # mhvuze/MonsterHunterRiseModding - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 34
 
-★ Stars: 204
+★ Stars: 205
 
 [Open repository](https://github.com/mhvuze/MonsterHunterRiseModding)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 205 | 34 | 
 | 2022-12-24 | 204 | 34 | 
 | 2022-12-23 | 204 | 34 | 
 | 2022-12-22 | 204 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 193 | 34 | 
 | 2022-11-27 | 193 | 34 | 
 | 2022-11-26 | 193 | 34 | 
-| 2022-11-25 | 191 | 34 | 
 

@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-vpc-flow-logs-s3-bucket - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 21 | 31 | 
 | 2022-12-24 | 21 | 31 | 
 | 2022-12-23 | 21 | 31 | 
 | 2022-12-22 | 21 | 31 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 20 | 31 | 
 | 2022-11-27 | 20 | 31 | 
 | 2022-11-26 | 20 | 31 | 
-| 2022-11-25 | 20 | 31 | 
 

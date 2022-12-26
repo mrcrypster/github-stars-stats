@@ -1,10 +1,10 @@
 # CaiJimmy/hugo-theme-stack - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 706
 
-★ Stars: 2867
+★ Stars: 2868
 
 [Open repository](https://github.com/CaiJimmy/hugo-theme-stack)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 2868 | 706 | 
 | 2022-12-24 | 2867 | 706 | 
 | 2022-12-23 | 2866 | 706 | 
 | 2022-12-22 | 2862 | 705 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 2790 | 686 | 
 | 2022-11-27 | 2787 | 684 | 
 | 2022-11-26 | 2786 | 684 | 
-| 2022-11-25 | 2780 | 680 | 
 

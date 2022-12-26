@@ -1,6 +1,6 @@
 # netbox-community/netbox-docker - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 509
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 1163 | 509 | 
 | 2022-12-24 | 1163 | 509 | 
 | 2022-12-23 | 1163 | 509 | 
 | 2022-12-22 | 1161 | 509 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 1145 | 506 | 
 | 2022-11-27 | 1143 | 504 | 
 | 2022-11-26 | 1142 | 504 | 
-| 2022-11-25 | 1141 | 504 | 
 

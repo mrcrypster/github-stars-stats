@@ -1,10 +1,10 @@
 # cycleuser/Stanford-CS-229-CN - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 836
 
-★ Stars: 3176
+★ Stars: 3177
 
 [Open repository](https://github.com/cycleuser/Stanford-CS-229-CN)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 3177 | 836 | 
 | 2022-12-24 | 3176 | 836 | 
 | 2022-12-23 | 3174 | 836 | 
 | 2022-12-22 | 3174 | 836 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 3167 | 832 | 
 | 2022-11-27 | 3167 | 832 | 
 | 2022-11-26 | 3167 | 832 | 
-| 2022-11-25 | 3167 | 832 | 
 

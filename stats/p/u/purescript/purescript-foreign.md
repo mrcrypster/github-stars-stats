@@ -1,6 +1,6 @@
 # purescript/purescript-foreign - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 61 | 44 | 
 | 2022-12-24 | 61 | 44 | 
 | 2022-12-23 | 61 | 44 | 
 | 2022-12-22 | 61 | 44 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 62 | 44 | 
 | 2022-11-27 | 62 | 44 | 
 | 2022-11-26 | 62 | 45 | 
-| 2022-11-25 | 62 | 45 | 
 

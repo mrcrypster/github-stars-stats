@@ -1,0 +1,17 @@
+# pharmaverse/upptime - stars & forks statistics
+
+Stats updated on Dec 2022, 25
+
+☋ Forks: 0
+
+★ Stars: 0
+
+[Open repository](https://github.com/pharmaverse/upptime)
+
+[Open detailed stats for pharmaverse/upptime](https://reviewgithub.com/rep/pharmaverse/upptime)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-12-25 | - | - | 
+

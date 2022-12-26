@@ -1,10 +1,10 @@
 # angristan/wireguard-install - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 874
 
-★ Stars: 4305
+★ Stars: 4308
 
 [Open repository](https://github.com/angristan/wireguard-install)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 4308 | 874 | 
 | 2022-12-24 | 4305 | 874 | 
 | 2022-12-23 | 4300 | 873 | 
 | 2022-12-22 | 4295 | 873 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-29 | 4189 | 849 | 
 | 2022-11-28 | 4181 | 846 | 
 | 2022-11-27 | 4180 | 845 | 
-| 2022-11-26 | 4164 | 844 | 
 

@@ -1,10 +1,10 @@
 # ustctug/ustcthesis - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 343
 
-★ Stars: 1164
+★ Stars: 1165
 
 [Open repository](https://github.com/ustctug/ustcthesis)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 1165 | 343 | 
 | 2022-12-24 | 1164 | 343 | 
 | 2022-12-23 | 1164 | 343 | 
 | 2022-12-22 | 1163 | 343 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 1150 | 340 | 
 | 2022-11-27 | 1150 | 340 | 
 | 2022-11-26 | 1149 | 340 | 
-| 2022-11-25 | 1148 | 339 | 
 

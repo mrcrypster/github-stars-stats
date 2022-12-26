@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 25
 
 ☋ Forks: 297
 
-★ Stars: 486
+★ Stars: 487
 
 [Open repository](https://github.com/BabylonJS/Exporters)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-25 | 486 | 297 | 
+| 2022-12-25 | 487 | 297 | 
 | 2022-12-24 | 486 | 297 | 
 | 2022-12-23 | 486 | 297 | 
 | 2022-12-22 | 485 | 297 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-28 | 482 | 294 | 
 | 2022-11-27 | 482 | 294 | 
 | 2022-11-26 | 482 | 294 | 
-| 2022-11-25 | 481 | 293 | 
 

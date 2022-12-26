@@ -1,8 +1,8 @@
 # Samyak2/toipe - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
-☋ Forks: 19
+☋ Forks: 20
 
 ★ Stars: 431
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 431 | 20 | 
 | 2022-12-24 | 431 | 19 | 
 | 2022-12-23 | 431 | 19 | 
 | 2022-12-22 | 431 | 19 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 426 | 19 | 
 | 2022-11-27 | 426 | 19 | 
 | 2022-11-26 | 426 | 19 | 
-| 2022-11-25 | 426 | 19 | 
 

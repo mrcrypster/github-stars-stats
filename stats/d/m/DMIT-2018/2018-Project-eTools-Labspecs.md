@@ -1,6 +1,6 @@
 # DMIT-2018/2018-Project-eTools-Labspecs - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 2 | 12 | 
 | 2022-12-24 | 2 | 12 | 
 | 2022-12-23 | 2 | 12 | 
 | 2022-12-22 | 2 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 1 | 8 | 
 | 2022-11-27 | 1 | 8 | 
 | 2022-11-26 | 1 | 8 | 
-| 2022-11-25 | 1 | 8 | 
 

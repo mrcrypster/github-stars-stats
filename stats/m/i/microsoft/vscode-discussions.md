@@ -1,10 +1,10 @@
 # microsoft/vscode-discussions - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 8
 
-★ Stars: 114
+★ Stars: 115
 
 [Open repository](https://github.com/microsoft/vscode-discussions)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 115 | 8 | 
 | 2022-12-24 | 114 | 8 | 
 | 2022-12-23 | 114 | 8 | 
 | 2022-12-22 | 114 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 107 | 6 | 
 | 2022-11-27 | 107 | 6 | 
 | 2022-11-26 | 107 | 6 | 
-| 2022-11-25 | 107 | 6 | 
 

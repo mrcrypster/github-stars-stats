@@ -1,6 +1,6 @@
 # unionj-cloud/go-doudou - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 156
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 877 | 156 | 
 | 2022-12-24 | 877 | 156 | 
 | 2022-12-23 | 877 | 156 | 
 | 2022-12-22 | 877 | 156 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 872 | 156 | 
 | 2022-11-27 | 872 | 156 | 
 | 2022-11-26 | 872 | 156 | 
-| 2022-11-25 | 872 | 156 | 
 

@@ -1,10 +1,10 @@
 # kelseyhightower/nocode - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 4615
 
-★ Stars: 54720
+★ Stars: 54722
 
 [Open repository](https://github.com/kelseyhightower/nocode)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 54722 | 4615 | 
 | 2022-12-24 | 54720 | 4615 | 
 | 2022-12-23 | 54716 | 4616 | 
 | 2022-12-22 | 54705 | 4615 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 54480 | 4605 | 
 | 2022-11-27 | 54457 | 4603 | 
 | 2022-11-26 | 54455 | 4603 | 
-| 2022-11-25 | 54454 | 4602 | 
 

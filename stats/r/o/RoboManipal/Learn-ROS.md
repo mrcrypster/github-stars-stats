@@ -1,8 +1,8 @@
 # RoboManipal/Learn-ROS - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
-☋ Forks: 17
+☋ Forks: 18
 
 ★ Stars: 1
 
@@ -13,5 +13,6 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 1 | 18 | 
 | 2022-12-24 | 1 | 17 | 
 

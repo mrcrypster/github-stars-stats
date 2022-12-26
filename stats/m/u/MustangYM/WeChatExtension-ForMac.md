@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 25
 
 ☋ Forks: 3430
 
-★ Stars: 20233
+★ Stars: 20234
 
 [Open repository](https://github.com/MustangYM/WeChatExtension-ForMac)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-25 | 20233 | 3430 | 
+| 2022-12-25 | 20234 | 3430 | 
 | 2022-12-24 | 20233 | 3430 | 
 | 2022-12-23 | 20229 | 3431 | 
 | 2022-12-22 | 20230 | 3430 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-28 | 20173 | 3423 | 
 | 2022-11-27 | 20167 | 3421 | 
 | 2022-11-26 | 20166 | 3421 | 
-| 2022-11-25 | 20165 | 3421 | 
 

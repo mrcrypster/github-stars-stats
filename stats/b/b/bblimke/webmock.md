@@ -1,10 +1,10 @@
 # bblimke/webmock - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 539
 
-★ Stars: 3728
+★ Stars: 3727
 
 [Open repository](https://github.com/bblimke/webmock)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 3727 | 539 | 
 | 2022-12-24 | 3728 | 539 | 
 | 2022-12-23 | 3728 | 539 | 
 | 2022-12-22 | 3728 | 539 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-29 | 3722 | 537 | 
 | 2022-11-28 | 3722 | 537 | 
 | 2022-11-27 | 3721 | 537 | 
-| 2022-11-25 | 3720 | 537 | 
 

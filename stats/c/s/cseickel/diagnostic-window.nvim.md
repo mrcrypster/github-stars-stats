@@ -1,10 +1,10 @@
 # cseickel/diagnostic-window.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 2
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/cseickel/diagnostic-window.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 26 | 2 | 
 | 2022-12-24 | 25 | 2 | 
 | 2022-12-23 | 25 | 2 | 
 | 2022-12-22 | 25 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-29 | 25 | 2 | 
 | 2022-11-28 | 25 | 2 | 
 | 2022-11-26 | 25 | 2 | 
-| 2022-11-25 | 25 | 2 | 
 

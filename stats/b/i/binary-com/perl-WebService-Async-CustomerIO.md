@@ -1,6 +1,6 @@
 # binary-com/perl-WebService-Async-CustomerIO - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | - | 8 | 
 | 2022-12-25 | - | 8 | 
 | 2022-12-24 | - | 8 | 
 | 2022-12-22 | - | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-28 | - | 8 | 
 | 2022-11-27 | - | 8 | 
 | 2022-11-26 | - | 8 | 
-| 2022-11-25 | - | 8 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 25
 
-☋ Forks: 2002
+☋ Forks: 2003
 
-★ Stars: 31020
+★ Stars: 31035
 
 [Open repository](https://github.com/rust-unofficial/awesome-rust)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-25 | 31020 | 2002 | 
+| 2022-12-25 | 31035 | 2003 | 
 | 2022-12-24 | 31012 | 2002 | 
 | 2022-12-23 | 30972 | 2000 | 
 | 2022-12-22 | 30899 | 1995 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 30375 | 1977 | 
 | 2022-11-28 | 30357 | 1976 | 
 | 2022-11-27 | 30337 | 1977 | 
-| 2022-11-26 | 30316 | 1977 | 
 

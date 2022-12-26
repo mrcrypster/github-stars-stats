@@ -1,10 +1,10 @@
 # PostHog/posthog - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 570
 
-★ Stars: 10230
+★ Stars: 10233
 
 [Open repository](https://github.com/PostHog/posthog)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 10233 | 570 | 
 | 2022-12-24 | 10230 | 570 | 
 | 2022-12-23 | 10230 | 569 | 
 | 2022-12-22 | 10220 | 569 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 9964 | 561 | 
 | 2022-11-27 | 9956 | 560 | 
 | 2022-11-26 | 9950 | 560 | 
-| 2022-11-25 | 9947 | 560 | 
 

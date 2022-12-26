@@ -1,10 +1,10 @@
 # UltraStar-Deluxe/USDX - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 139
 
-★ Stars: 576
+★ Stars: 578
 
 [Open repository](https://github.com/UltraStar-Deluxe/USDX)
 
@@ -13,7 +13,8 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-25 | 576 | 139 | 
+| 2022-12-26 | 578 | 139 | 
+| 2022-12-25 | 578 | 139 | 
 | 2022-12-24 | 576 | 139 | 
 | 2022-12-23 | 575 | 139 | 
 

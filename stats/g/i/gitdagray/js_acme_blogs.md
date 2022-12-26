@@ -1,6 +1,6 @@
 # gitdagray/js_acme_blogs - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 3 | 62 | 
 | 2022-12-25 | 3 | 62 | 
 | 2022-12-24 | 3 | 62 | 
 | 2022-12-23 | 3 | 62 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-28 | 2 | 23 | 
 | 2022-11-27 | 2 | 22 | 
 | 2022-11-26 | 2 | 22 | 
-| 2022-11-25 | 2 | 20 | 
 

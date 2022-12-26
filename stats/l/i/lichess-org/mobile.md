@@ -1,6 +1,6 @@
 # lichess-org/mobile - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 322 | 17 | 
 | 2022-12-24 | 322 | 17 | 
 | 2022-12-23 | 322 | 17 | 
 | 2022-12-22 | 320 | 17 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 296 | 13 | 
 | 2022-11-27 | 295 | 14 | 
 | 2022-11-26 | 295 | 14 | 
-| 2022-11-25 | 293 | 14 | 
 

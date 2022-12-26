@@ -1,10 +1,10 @@
 # GavinLonDigital/HuntTheAceJSGame - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
-☋ Forks: 27
+☋ Forks: 29
 
-★ Stars: 21
+★ Stars: 23
 
 [Open repository](https://github.com/GavinLonDigital/HuntTheAceJSGame)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 23 | 29 | 
 | 2022-12-24 | 21 | 27 | 
 | 2022-12-23 | 20 | 25 | 
 | 2022-12-22 | 20 | 24 | 

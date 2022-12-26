@@ -1,10 +1,10 @@
 # redpanda-data/redpanda - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
-☋ Forks: 391
+☋ Forks: 392
 
-★ Stars: 5737
+★ Stars: 5741
 
 [Open repository](https://github.com/redpanda-data/redpanda)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 5741 | 392 | 
 | 2022-12-24 | 5737 | 391 | 
 | 2022-12-23 | 5731 | 392 | 
 | 2022-12-22 | 5728 | 392 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 5568 | 379 | 
 | 2022-11-27 | 5561 | 379 | 
 | 2022-11-26 | 5553 | 377 | 
-| 2022-11-25 | 5549 | 377 | 
 

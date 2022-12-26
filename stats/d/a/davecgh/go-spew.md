@@ -1,6 +1,6 @@
 # davecgh/go-spew - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 356
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 5428 | 356 | 
 | 2022-12-25 | 5428 | 356 | 
 | 2022-12-24 | 5426 | 356 | 
 | 2022-12-23 | 5425 | 356 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-28 | 5386 | 353 | 
 | 2022-11-27 | 5383 | 352 | 
 | 2022-11-26 | 5382 | 352 | 
-| 2022-11-25 | 5380 | 352 | 
 

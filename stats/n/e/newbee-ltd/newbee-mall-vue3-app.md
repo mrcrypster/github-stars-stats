@@ -1,8 +1,8 @@
 # newbee-ltd/newbee-mall-vue3-app - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 26
 
-☋ Forks: 1175
+☋ Forks: 1177
 
 ★ Stars: 4437
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 4437 | 1177 | 
+| 2022-12-25 | 4437 | 1177 | 
 | 2022-12-24 | 4437 | 1175 | 
 | 2022-12-23 | 4436 | 1173 | 
 | 2022-12-22 | 4434 | 1172 | 
@@ -39,5 +41,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 4380 | 1154 | 
 | 2022-11-27 | 4377 | 1154 | 
 | 2022-11-26 | 4374 | 1153 | 
-| 2022-11-25 | 4364 | 1153 | 
 

@@ -1,8 +1,8 @@
 # qq8e/qq - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
-☋ Forks: 344
+☋ Forks: 345
 
 ★ Stars: 1316
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 1316 | 345 | 
 | 2022-12-24 | 1316 | 344 | 
 | 2022-12-23 | 1315 | 344 | 
 | 2022-12-22 | 1315 | 344 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 1280 | 342 | 
 | 2022-11-27 | 1278 | 342 | 
 | 2022-11-26 | 1274 | 342 | 
-| 2022-11-25 | 1272 | 342 | 
 

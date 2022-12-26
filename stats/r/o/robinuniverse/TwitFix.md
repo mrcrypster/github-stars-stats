@@ -1,6 +1,6 @@
 # robinuniverse/TwitFix - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 94
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 680 | 94 | 
 | 2022-12-24 | 680 | 94 | 
 | 2022-12-23 | 680 | 94 | 
 | 2022-12-22 | 680 | 94 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 674 | 96 | 
 | 2022-11-27 | 673 | 96 | 
 | 2022-11-26 | 672 | 96 | 
-| 2022-11-25 | 672 | 96 | 
 

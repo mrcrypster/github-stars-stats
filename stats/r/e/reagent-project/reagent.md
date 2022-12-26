@@ -1,10 +1,10 @@
 # reagent-project/reagent - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 408
 
-★ Stars: 4551
+★ Stars: 4552
 
 [Open repository](https://github.com/reagent-project/reagent)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 4552 | 408 | 
 | 2022-12-24 | 4551 | 408 | 
 | 2022-12-23 | 4549 | 408 | 
 | 2022-12-22 | 4548 | 408 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 4531 | 409 | 
 | 2022-11-27 | 4529 | 409 | 
 | 2022-11-26 | 4527 | 409 | 
-| 2022-11-25 | 4527 | 409 | 
 

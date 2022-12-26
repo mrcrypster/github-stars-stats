@@ -1,6 +1,6 @@
 # merklejerk/permit-everywhere - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 93 | 6 | 
 | 2022-12-24 | 93 | 6 | 
 | 2022-12-23 | 93 | 6 | 
 | 2022-12-22 | 93 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 87 | 6 | 
 | 2022-11-27 | 86 | 6 | 
 | 2022-11-26 | 86 | 6 | 
-| 2022-11-25 | 86 | 6 | 
 

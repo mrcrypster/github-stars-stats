@@ -1,10 +1,10 @@
 # michael-brade/LaTeX.js - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 46
 
-★ Stars: 578
+★ Stars: 579
 
 [Open repository](https://github.com/michael-brade/LaTeX.js)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 579 | 46 | 
 | 2022-12-24 | 578 | 46 | 
 | 2022-12-23 | 578 | 46 | 
 | 2022-12-22 | 578 | 46 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 566 | 46 | 
 | 2022-11-27 | 565 | 46 | 
 | 2022-11-26 | 565 | 46 | 
-| 2022-11-25 | 565 | 46 | 
 

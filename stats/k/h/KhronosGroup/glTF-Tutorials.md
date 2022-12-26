@@ -1,10 +1,10 @@
 # KhronosGroup/glTF-Tutorials - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 190
 
-★ Stars: 847
+★ Stars: 848
 
 [Open repository](https://github.com/KhronosGroup/glTF-Tutorials)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 848 | 190 | 
 | 2022-12-24 | 847 | 190 | 
 | 2022-12-23 | 847 | 190 | 
 | 2022-12-22 | 847 | 190 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-29 | 827 | 185 | 
 | 2022-11-28 | 826 | 185 | 
 | 2022-11-27 | 825 | 185 | 
-| 2022-11-26 | 825 | 185 | 
 

@@ -1,6 +1,6 @@
 # ufrisk/MemProcFS - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 217
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 1690 | 217 | 
 | 2022-12-24 | 1690 | 217 | 
 | 2022-12-23 | 1688 | 216 | 
 | 2022-12-22 | 1687 | 216 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 1649 | 210 | 
 | 2022-11-27 | 1638 | 209 | 
 | 2022-11-26 | 1636 | 208 | 
-| 2022-11-25 | 1634 | 206 | 
 

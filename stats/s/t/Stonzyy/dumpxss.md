@@ -1,10 +1,10 @@
 # Stonzyy/dumpxss - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 18
 
-★ Stars: 75
+★ Stars: 76
 
 [Open repository](https://github.com/Stonzyy/dumpxss)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 76 | 18 | 
 | 2022-12-24 | 75 | 18 | 
 | 2022-12-23 | 75 | 18 | 
 | 2022-12-22 | 75 | 18 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 74 | 18 | 
 | 2022-11-27 | 73 | 18 | 
 | 2022-11-26 | 73 | 18 | 
-| 2022-11-25 | 73 | 18 | 
 

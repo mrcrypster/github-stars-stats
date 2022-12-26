@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 25
 
 ☋ Forks: 475
 
-★ Stars: 46
+★ Stars: 47
 
 [Open repository](https://github.com/learn-co-curriculum/project-template-react-rails-api)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-25 | 46 | 475 | 
+| 2022-12-25 | 47 | 475 | 
 | 2022-12-24 | 46 | 475 | 
 | 2022-12-23 | 46 | 475 | 
 | 2022-12-22 | 46 | 468 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-28 | 41 | 432 | 
 | 2022-11-27 | 41 | 432 | 
 | 2022-11-26 | 41 | 432 | 
-| 2022-11-25 | 41 | 432 | 
 

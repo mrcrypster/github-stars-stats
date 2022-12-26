@@ -1,8 +1,8 @@
 # fuzhengwei/RoadMap - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
-☋ Forks: 62
+☋ Forks: 63
 
 ★ Stars: 362
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 362 | 63 | 
 | 2022-12-24 | 362 | 62 | 
 | 2022-12-23 | 359 | 61 | 
 | 2022-12-22 | 358 | 61 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 326 | 54 | 
 | 2022-11-27 | 323 | 54 | 
 | 2022-11-26 | 322 | 54 | 
-| 2022-11-25 | 321 | 53 | 
 

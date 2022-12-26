@@ -1,10 +1,10 @@
 # allinurl/goaccess - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 1017
 
-★ Stars: 15554
+★ Stars: 15559
 
 [Open repository](https://github.com/allinurl/goaccess)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 15559 | 1017 | 
 | 2022-12-24 | 15554 | 1017 | 
 | 2022-12-23 | 15550 | 1017 | 
 | 2022-12-22 | 15548 | 1017 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 15460 | 1012 | 
 | 2022-11-27 | 15454 | 1012 | 
 | 2022-11-26 | 15450 | 1012 | 
-| 2022-11-25 | 15447 | 1012 | 
 

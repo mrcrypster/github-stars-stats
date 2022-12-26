@@ -1,10 +1,10 @@
 # opengoofy/hippo4j - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 741
 
-★ Stars: 3406
+★ Stars: 3411
 
 [Open repository](https://github.com/opengoofy/hippo4j)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 3411 | 741 | 
 | 2022-12-24 | 3406 | 741 | 
 | 2022-12-23 | 3406 | 741 | 
 | 2022-12-22 | 3406 | 741 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 3365 | 729 | 
 | 2022-11-27 | 3363 | 729 | 
 | 2022-11-26 | 3361 | 729 | 
-| 2022-11-25 | 3359 | 729 | 
 

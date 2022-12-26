@@ -1,6 +1,6 @@
 # nim-lang/nimble - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 151
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 1053 | 151 | 
 | 2022-12-24 | 1053 | 151 | 
 | 2022-12-23 | 1053 | 151 | 
 | 2022-12-22 | 1053 | 150 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 1054 | 150 | 
 | 2022-11-27 | 1052 | 150 | 
 | 2022-11-26 | 1050 | 150 | 
-| 2022-11-25 | 1050 | 150 | 
 

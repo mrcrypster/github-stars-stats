@@ -1,6 +1,6 @@
 # NetSPI/MicroBurst - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 248
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 1449 | 248 | 
 | 2022-12-24 | 1449 | 248 | 
 | 2022-12-23 | 1448 | 248 | 
 | 2022-12-22 | 1448 | 248 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-29 | 1421 | 248 | 
 | 2022-11-28 | 1421 | 248 | 
 | 2022-11-26 | 1419 | 248 | 
-| 2022-11-25 | 1419 | 248 | 
 

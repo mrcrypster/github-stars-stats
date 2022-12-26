@@ -1,10 +1,10 @@
 # vasanthk/how-web-works - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
-☋ Forks: 1383
+☋ Forks: 1384
 
-★ Stars: 12245
+★ Stars: 12255
 
 [Open repository](https://github.com/vasanthk/how-web-works)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 12255 | 1384 | 
 | 2022-12-24 | 12245 | 1383 | 
 | 2022-12-23 | 12226 | 1381 | 
 | 2022-12-22 | 12215 | 1381 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 11563 | 1325 | 
 | 2022-11-27 | 11492 | 1314 | 
 | 2022-11-26 | 11478 | 1313 | 
-| 2022-11-25 | 11463 | 1311 | 
 

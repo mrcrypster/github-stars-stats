@@ -1,6 +1,6 @@
 # ntop/n2n - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 761
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 4593 | 761 | 
 | 2022-12-24 | 4593 | 761 | 
 | 2022-12-23 | 4590 | 761 | 
 | 2022-12-22 | 4586 | 761 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 4497 | 751 | 
 | 2022-11-27 | 4492 | 751 | 
 | 2022-11-26 | 4486 | 750 | 
-| 2022-11-25 | 4484 | 750 | 
 

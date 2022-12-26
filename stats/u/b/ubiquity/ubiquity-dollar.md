@@ -1,8 +1,8 @@
 # ubiquity/ubiquity-dollar - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
-☋ Forks: 39
+☋ Forks: 38
 
 ★ Stars: 21
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 21 | 38 | 
 | 2022-12-24 | 21 | 39 | 
 | 2022-12-23 | 21 | 39 | 
 | 2022-12-22 | 21 | 38 | 

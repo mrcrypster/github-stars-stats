@@ -1,6 +1,6 @@
 # apache/iceberg-docs - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 33 | 61 | 
 | 2022-12-24 | 33 | 61 | 
 | 2022-12-23 | 33 | 61 | 
 | 2022-12-22 | 33 | 61 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 32 | 58 | 
 | 2022-11-27 | 31 | 57 | 
 | 2022-11-26 | 30 | 57 | 
-| 2022-11-25 | 30 | 57 | 
 

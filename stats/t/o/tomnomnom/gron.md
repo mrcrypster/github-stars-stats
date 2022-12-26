@@ -1,6 +1,6 @@
 # tomnomnom/gron - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 285
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 11809 | 285 | 
 | 2022-12-24 | 11809 | 285 | 
 | 2022-12-23 | 11806 | 285 | 
 | 2022-12-22 | 11804 | 285 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-29 | 11691 | 283 | 
 | 2022-11-28 | 11684 | 283 | 
 | 2022-11-26 | 11677 | 283 | 
-| 2022-11-25 | 11672 | 283 | 
 

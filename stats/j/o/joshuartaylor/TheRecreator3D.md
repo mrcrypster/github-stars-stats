@@ -1,6 +1,6 @@
 # joshuartaylor/TheRecreator3D - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 56 | 10 | 
 | 2022-12-24 | 56 | 10 | 
 | 2022-12-23 | 56 | 10 | 
 | 2022-12-22 | 56 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 47 | 9 | 
 | 2022-11-27 | 46 | 8 | 
 | 2022-11-26 | 46 | 8 | 
-| 2022-11-25 | 46 | 8 | 
 

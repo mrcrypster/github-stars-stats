@@ -1,10 +1,10 @@
 # ucan-lab/docker-laravel - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
-☋ Forks: 250
+☋ Forks: 251
 
-★ Stars: 903
+★ Stars: 904
 
 [Open repository](https://github.com/ucan-lab/docker-laravel)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 904 | 251 | 
 | 2022-12-24 | 903 | 250 | 
 | 2022-12-23 | 903 | 249 | 
 | 2022-12-22 | 902 | 247 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-29 | 892 | 241 | 
 | 2022-11-28 | 892 | 241 | 
 | 2022-11-27 | 890 | 241 | 
-| 2022-11-26 | 890 | 242 | 
 

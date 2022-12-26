@@ -1,10 +1,10 @@
 # CuyZ/Valinor - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
-☋ Forks: 51
+☋ Forks: 52
 
-★ Stars: 858
+★ Stars: 860
 
 [Open repository](https://github.com/CuyZ/Valinor)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 860 | 52 | 
 | 2022-12-24 | 858 | 51 | 
 | 2022-12-23 | 858 | 51 | 
 | 2022-12-22 | 857 | 51 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 753 | 43 | 
 | 2022-11-27 | 753 | 43 | 
 | 2022-11-26 | 752 | 43 | 
-| 2022-11-25 | 752 | 43 | 
 

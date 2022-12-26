@@ -1,10 +1,10 @@
 # codediodeio/sveltefire - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 42
 
-★ Stars: 611
+★ Stars: 612
 
 [Open repository](https://github.com/codediodeio/sveltefire)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 612 | 42 | 
 | 2022-12-24 | 611 | 42 | 
 | 2022-12-23 | 609 | 42 | 
 | 2022-12-22 | 607 | 42 | 

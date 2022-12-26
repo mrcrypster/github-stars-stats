@@ -1,6 +1,6 @@
 # yonaskolb/Mint - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 93
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 1981 | 93 | 
 | 2022-12-24 | 1981 | 93 | 
 | 2022-12-23 | 1979 | 93 | 
 | 2022-12-22 | 1979 | 93 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 1963 | 92 | 
 | 2022-11-27 | 1962 | 92 | 
 | 2022-11-26 | 1962 | 92 | 
-| 2022-11-25 | 1962 | 92 | 
 

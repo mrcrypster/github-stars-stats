@@ -1,10 +1,10 @@
 # BretFisher/allhands22 - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 51
 
-★ Stars: 115
+★ Stars: 116
 
 [Open repository](https://github.com/BretFisher/allhands22)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 116 | 51 | 
 | 2022-12-24 | 115 | 51 | 
 | 2022-12-23 | 114 | 50 | 
 | 2022-12-22 | 114 | 50 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 102 | 40 | 
 | 2022-11-27 | 101 | 40 | 
 | 2022-11-26 | 101 | 39 | 
-| 2022-11-25 | 101 | 39 | 
 

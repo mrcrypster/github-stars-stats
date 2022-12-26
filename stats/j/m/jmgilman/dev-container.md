@@ -1,10 +1,10 @@
 # jmgilman/dev-container - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 2
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/jmgilman/dev-container)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 20 | 2 | 
 | 2022-12-24 | 19 | 2 | 
 | 2022-12-23 | 19 | 2 | 
 | 2022-12-22 | 19 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 19 | 2 | 
 | 2022-11-27 | 19 | 2 | 
 | 2022-11-26 | 19 | 2 | 
-| 2022-11-25 | 19 | 2 | 
 

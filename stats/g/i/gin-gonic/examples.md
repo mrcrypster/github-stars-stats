@@ -1,10 +1,10 @@
 # gin-gonic/examples - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 541
 
-★ Stars: 2728
+★ Stars: 2729
 
 [Open repository](https://github.com/gin-gonic/examples)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 2729 | 541 | 
 | 2022-12-24 | 2728 | 541 | 
 | 2022-12-23 | 2725 | 541 | 
 | 2022-12-22 | 2725 | 540 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 2675 | 533 | 
 | 2022-11-27 | 2674 | 532 | 
 | 2022-11-26 | 2669 | 532 | 
-| 2022-11-25 | 2667 | 532 | 
 

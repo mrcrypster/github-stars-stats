@@ -1,6 +1,6 @@
 # aklt/plantuml-syntax - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 409 | 68 | 
 | 2022-12-24 | 409 | 68 | 
 | 2022-12-23 | 409 | 68 | 
 | 2022-12-22 | 409 | 68 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 407 | 68 | 
 | 2022-11-27 | 407 | 68 | 
 | 2022-11-26 | 407 | 68 | 
-| 2022-11-25 | 406 | 68 | 
 

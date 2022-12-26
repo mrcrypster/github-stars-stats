@@ -1,6 +1,6 @@
 # turbolinks/turbolinks-classic - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 432
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 3564 | 432 | 
 | 2022-12-24 | 3564 | 432 | 
 | 2022-12-23 | 3564 | 432 | 
 | 2022-12-22 | 3564 | 432 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 3565 | 432 | 
 | 2022-11-27 | 3565 | 432 | 
 | 2022-11-26 | 3565 | 432 | 
-| 2022-11-25 | 3565 | 432 | 
 

@@ -1,10 +1,10 @@
 # ChimeHQ/Neon - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 8
 
-★ Stars: 213
+★ Stars: 211
 
 [Open repository](https://github.com/ChimeHQ/Neon)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 211 | 8 | 
 | 2022-12-24 | 213 | 8 | 
 | 2022-12-23 | 213 | 8 | 
 | 2022-12-22 | 213 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 211 | 8 | 
 | 2022-11-27 | 211 | 8 | 
 | 2022-11-26 | 211 | 8 | 
-| 2022-11-25 | 211 | 8 | 
 

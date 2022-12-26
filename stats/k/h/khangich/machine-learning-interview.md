@@ -1,10 +1,10 @@
 # khangich/machine-learning-interview - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
-☋ Forks: 1043
+☋ Forks: 1044
 
-★ Stars: 6113
+★ Stars: 6114
 
 [Open repository](https://github.com/khangich/machine-learning-interview)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 6114 | 1044 | 
 | 2022-12-24 | 6113 | 1043 | 
 | 2022-12-23 | 6111 | 1043 | 
 | 2022-12-22 | 6110 | 1040 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-29 | 6022 | 1025 | 
 | 2022-11-28 | 6021 | 1023 | 
 | 2022-11-27 | 6020 | 1023 | 
-| 2022-11-26 | 6016 | 1023 | 
 

@@ -1,6 +1,6 @@
 # christianhelle/sqlcequery - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 12
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 43 | 12 | 
+| 2022-12-25 | 43 | 12 | 
 | 2022-12-24 | 43 | 12 | 
 | 2022-12-23 | 43 | 12 | 
 | 2022-12-22 | 43 | 12 | 

@@ -1,6 +1,6 @@
 # verygenericname/SSHRD_Script - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 151 | 73 | 
 | 2022-12-24 | 151 | 73 | 
 | 2022-12-23 | 150 | 72 | 
 | 2022-12-22 | 150 | 72 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 140 | 65 | 
 | 2022-11-27 | 140 | 64 | 
 | 2022-11-26 | 140 | 63 | 
-| 2022-11-25 | 138 | 63 | 
 

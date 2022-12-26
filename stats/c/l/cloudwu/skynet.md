@@ -1,6 +1,6 @@
 # cloudwu/skynet - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 3913
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 11677 | 3913 | 
 | 2022-12-25 | 11677 | 3913 | 
 | 2022-12-24 | 11675 | 3913 | 
 | 2022-12-22 | 11675 | 3913 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 11639 | 3911 | 
 | 2022-11-28 | 11636 | 3911 | 
 | 2022-11-27 | 11634 | 3909 | 
-| 2022-11-25 | 11633 | 3909 | 
 

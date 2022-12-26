@@ -1,10 +1,10 @@
 # afnan47/sem7 - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 28
 
-★ Stars: 26
+★ Stars: 28
 
 [Open repository](https://github.com/afnan47/sem7)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 28 | 28 | 
 | 2022-12-24 | 26 | 28 | 
 | 2022-12-23 | 26 | 28 | 
 | 2022-12-22 | 26 | 28 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 25 | 28 | 
 | 2022-11-27 | 25 | 28 | 
 | 2022-11-26 | 25 | 28 | 
-| 2022-11-25 | 25 | 28 | 
 

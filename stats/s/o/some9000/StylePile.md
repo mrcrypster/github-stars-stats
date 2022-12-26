@@ -1,10 +1,10 @@
 # some9000/StylePile - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 14
 
-★ Stars: 240
+★ Stars: 241
 
 [Open repository](https://github.com/some9000/StylePile)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 241 | 14 | 
 | 2022-12-24 | 240 | 14 | 
 | 2022-12-23 | 240 | 14 | 
 | 2022-12-22 | 238 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 215 | 13 | 
 | 2022-11-27 | 209 | 13 | 
 | 2022-11-26 | 203 | 13 | 
-| 2022-11-25 | 201 | 13 | 
 

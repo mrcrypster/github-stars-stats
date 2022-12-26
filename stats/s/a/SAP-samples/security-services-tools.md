@@ -1,6 +1,6 @@
 # SAP-samples/security-services-tools - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 13 | 3 | 
 | 2022-12-24 | 13 | 3 | 
 | 2022-12-23 | 13 | 3 | 
 | 2022-12-22 | 13 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 12 | 3 | 
 | 2022-11-27 | 12 | 3 | 
 | 2022-11-26 | 12 | 3 | 
-| 2022-11-25 | 12 | 3 | 
 

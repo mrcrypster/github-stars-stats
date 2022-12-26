@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 25
 
-☋ Forks: 8870
+☋ Forks: 8871
 
-★ Stars: 35947
+★ Stars: 35950
 
 [Open repository](https://github.com/PhilJay/MPAndroidChart)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-25 | 35947 | 8870 | 
+| 2022-12-25 | 35950 | 8871 | 
 | 2022-12-24 | 35946 | 8870 | 
 | 2022-12-23 | 35938 | 8869 | 
 | 2022-12-22 | 35927 | 8865 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-28 | 35843 | 8848 | 
 | 2022-11-27 | 35842 | 8849 | 
 | 2022-11-26 | 35843 | 8849 | 
-| 2022-11-25 | 35842 | 8849 | 
 

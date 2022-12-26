@@ -1,6 +1,6 @@
 # googleapis/api-common-protos - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 211 | 63 | 
 | 2022-12-24 | 211 | 63 | 
 | 2022-12-23 | 211 | 63 | 
 | 2022-12-22 | 211 | 63 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 210 | 63 | 
 | 2022-11-27 | 210 | 63 | 
 | 2022-11-26 | 210 | 63 | 
-| 2022-11-25 | 210 | 63 | 
 

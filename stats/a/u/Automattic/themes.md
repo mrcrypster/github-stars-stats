@@ -1,6 +1,6 @@
 # Automattic/themes - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 292
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 642 | 292 | 
 | 2022-12-24 | 642 | 292 | 
 | 2022-12-23 | 642 | 292 | 
 | 2022-12-22 | 641 | 292 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 637 | 290 | 
 | 2022-11-27 | 636 | 290 | 
 | 2022-11-26 | 635 | 290 | 
-| 2022-11-25 | 635 | 290 | 
 

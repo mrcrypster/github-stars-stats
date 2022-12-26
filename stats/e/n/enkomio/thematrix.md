@@ -1,6 +1,6 @@
 # enkomio/thematrix - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 117 | 15 | 
 | 2022-12-24 | 117 | 15 | 
 | 2022-12-23 | 117 | 15 | 
 | 2022-12-22 | 117 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 115 | 15 | 
 | 2022-11-27 | 115 | 15 | 
 | 2022-11-26 | 115 | 15 | 
-| 2022-11-25 | 115 | 15 | 
 

@@ -1,6 +1,6 @@
 # samih93/e_commerce_app - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 64 | 27 | 
 | 2022-12-24 | 64 | 27 | 
 | 2022-12-23 | 64 | 27 | 
 | 2022-12-22 | 64 | 27 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 64 | 26 | 
 | 2022-11-27 | 64 | 26 | 
 | 2022-11-26 | 64 | 26 | 
-| 2022-11-25 | 64 | 26 | 
 

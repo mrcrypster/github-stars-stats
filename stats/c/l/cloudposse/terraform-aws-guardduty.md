@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-guardduty - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 16 | 18 | 
 | 2022-12-24 | 16 | 18 | 
 | 2022-12-23 | 16 | 18 | 
 | 2022-12-22 | 16 | 18 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 15 | 18 | 
 | 2022-11-27 | 15 | 18 | 
 | 2022-11-26 | 15 | 18 | 
-| 2022-11-25 | 15 | 18 | 
 

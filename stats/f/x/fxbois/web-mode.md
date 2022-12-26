@@ -1,6 +1,6 @@
 # fxbois/web-mode - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 260
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 1535 | 260 | 
 | 2022-12-24 | 1535 | 260 | 
 | 2022-12-23 | 1535 | 260 | 
 | 2022-12-22 | 1535 | 258 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 1533 | 257 | 
 | 2022-11-27 | 1533 | 257 | 
 | 2022-11-26 | 1533 | 256 | 
-| 2022-11-25 | 1533 | 256 | 
 

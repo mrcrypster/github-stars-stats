@@ -1,10 +1,10 @@
 # lilactown/7-humble-guis - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 0
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/lilactown/7-humble-guis)
 
@@ -13,5 +13,6 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 21 | - | 
 | 2022-12-24 | 20 | - | 
 

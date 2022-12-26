@@ -1,6 +1,6 @@
 # jship/monad-logger-aeson - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 14 | 1 | 
 | 2022-12-24 | 14 | 1 | 
 | 2022-12-23 | 14 | 1 | 
 | 2022-12-22 | 14 | 1 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 12 | 1 | 
 | 2022-11-27 | 12 | 1 | 
 | 2022-11-26 | 12 | 1 | 
-| 2022-11-25 | 12 | 1 | 
 

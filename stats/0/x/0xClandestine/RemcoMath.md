@@ -1,6 +1,6 @@
 # 0xClandestine/RemcoMath - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 30 | 1 | 
 | 2022-12-24 | 30 | 1 | 
 | 2022-12-23 | 30 | 1 | 
 | 2022-12-22 | 30 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 30 | 1 | 
 | 2022-11-27 | 29 | 1 | 
 | 2022-11-26 | 29 | 1 | 
-| 2022-11-25 | 29 | 1 | 
 

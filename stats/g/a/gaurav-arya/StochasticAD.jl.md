@@ -1,6 +1,6 @@
 # gaurav-arya/StochasticAD.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 116 | 7 | 
 | 2022-12-24 | 116 | 7 | 
 | 2022-12-23 | 116 | 7 | 
 | 2022-12-22 | 116 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-29 | 111 | 7 | 
 | 2022-11-28 | 110 | 7 | 
 | 2022-11-27 | 109 | 7 | 
-| 2022-11-25 | 108 | 7 | 
 

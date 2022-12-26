@@ -1,10 +1,10 @@
 # plouc/nivo - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 882
 
-★ Stars: 10840
+★ Stars: 10843
 
 [Open repository](https://github.com/plouc/nivo)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 10843 | 882 | 
 | 2022-12-24 | 10840 | 882 | 
 | 2022-12-23 | 10836 | 882 | 
 | 2022-12-22 | 10834 | 881 | 

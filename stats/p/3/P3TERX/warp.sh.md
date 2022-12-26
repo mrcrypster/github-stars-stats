@@ -1,8 +1,8 @@
 # P3TERX/warp.sh - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
-☋ Forks: 386
+☋ Forks: 385
 
 ★ Stars: 1353
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 1353 | 385 | 
 | 2022-12-24 | 1353 | 386 | 
 | 2022-12-23 | 1353 | 386 | 
 | 2022-12-22 | 1353 | 386 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 1315 | 372 | 
 | 2022-11-27 | 1312 | 372 | 
 | 2022-11-26 | 1310 | 372 | 
-| 2022-11-25 | 1307 | 371 | 
 

@@ -1,6 +1,6 @@
 # ruesandora/stratos-sds - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 130
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 61 | 130 | 
 | 2022-12-25 | 61 | 130 | 
 | 2022-12-24 | 61 | 130 | 
 | 2022-12-23 | 61 | 130 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-28 | 57 | 126 | 
 | 2022-11-27 | 57 | 126 | 
 | 2022-11-26 | 57 | 126 | 
-| 2022-11-25 | 57 | 126 | 
 

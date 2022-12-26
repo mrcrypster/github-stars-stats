@@ -1,10 +1,10 @@
 # felipefialho/frontend-challenges - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 1052
 
-★ Stars: 11152
+★ Stars: 11154
 
 [Open repository](https://github.com/felipefialho/frontend-challenges)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 11154 | 1052 | 
 | 2022-12-24 | 11152 | 1052 | 
 | 2022-12-23 | 11151 | 1052 | 
 | 2022-12-22 | 11151 | 1052 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 11054 | 1051 | 
 | 2022-11-27 | 11053 | 1051 | 
 | 2022-11-26 | 11054 | 1051 | 
-| 2022-11-25 | 11045 | 1051 | 
 

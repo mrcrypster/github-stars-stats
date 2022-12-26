@@ -1,6 +1,6 @@
 # mjmlio/mjml - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 889
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 14781 | 889 | 
 | 2022-12-24 | 14781 | 889 | 
 | 2022-12-23 | 14779 | 889 | 
 | 2022-12-22 | 14775 | 888 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-29 | 14663 | 880 | 
 | 2022-11-28 | 14658 | 880 | 
 | 2022-11-27 | 14656 | 880 | 
-| 2022-11-26 | 14656 | 880 | 
 

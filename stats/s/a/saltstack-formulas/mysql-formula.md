@@ -1,10 +1,10 @@
 # saltstack-formulas/mysql-formula - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 369
 
-★ Stars: 83
+★ Stars: 82
 
 [Open repository](https://github.com/saltstack-formulas/mysql-formula)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 82 | 369 | 
 | 2022-12-24 | 83 | 369 | 
 | 2022-12-23 | 83 | 369 | 
 | 2022-12-22 | 83 | 369 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 83 | 368 | 
 | 2022-11-27 | 83 | 368 | 
 | 2022-11-26 | 83 | 368 | 
-| 2022-11-25 | 83 | 368 | 
 

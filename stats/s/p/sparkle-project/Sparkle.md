@@ -1,6 +1,6 @@
 # sparkle-project/Sparkle - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 1001
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 6176 | 1001 | 
 | 2022-12-24 | 6176 | 1001 | 
 | 2022-12-23 | 6176 | 1000 | 
 | 2022-12-22 | 6176 | 999 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 6139 | 997 | 
 | 2022-11-27 | 6138 | 997 | 
 | 2022-11-26 | 6136 | 997 | 
-| 2022-11-25 | 6135 | 997 | 
 

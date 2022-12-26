@@ -1,10 +1,10 @@
 # dnikolovv/practical-haskell - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 4
 
-★ Stars: 78
+★ Stars: 77
 
 [Open repository](https://github.com/dnikolovv/practical-haskell)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 77 | 4 | 
 | 2022-12-24 | 78 | 4 | 
 | 2022-12-23 | 78 | 4 | 
 | 2022-12-22 | 78 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 74 | 3 | 
 | 2022-11-27 | 74 | 3 | 
 | 2022-11-26 | 74 | 3 | 
-| 2022-11-25 | 75 | 3 | 
 

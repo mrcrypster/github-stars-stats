@@ -1,6 +1,6 @@
 # edk2-porting/WOA-Drivers - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 131
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 367 | 131 | 
 | 2022-12-24 | 367 | 131 | 
 | 2022-12-23 | 367 | 130 | 
 | 2022-12-22 | 367 | 130 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 357 | 125 | 
 | 2022-11-27 | 357 | 125 | 
 | 2022-11-26 | 357 | 125 | 
-| 2022-11-25 | 357 | 125 | 
 

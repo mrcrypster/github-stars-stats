@@ -1,6 +1,6 @@
 # cloudfoundry/routing-release - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 97
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 39 | 97 | 
+| 2022-12-25 | 39 | 97 | 
 | 2022-12-24 | 39 | 97 | 
 | 2022-12-23 | 39 | 97 | 
 | 2022-12-22 | 39 | 97 | 
@@ -40,5 +42,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 37 | 97 | 
 | 2022-11-27 | 37 | 97 | 
 | 2022-11-26 | 37 | 97 | 
-| 2022-11-25 | 37 | 97 | 
 

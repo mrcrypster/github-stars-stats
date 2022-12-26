@@ -1,6 +1,6 @@
 # cnuernber/charred - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 159 | 6 | 
 | 2022-12-24 | 159 | 6 | 
 | 2022-12-23 | 159 | 6 | 
 | 2022-12-22 | 159 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 151 | 6 | 
 | 2022-11-27 | 151 | 6 | 
 | 2022-11-26 | 151 | 6 | 
-| 2022-11-25 | 151 | 6 | 
 

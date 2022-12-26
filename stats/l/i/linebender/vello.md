@@ -1,6 +1,6 @@
 # linebender/vello - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 874 | 46 | 
 | 2022-12-24 | 874 | 46 | 
 | 2022-12-23 | 873 | 46 | 
 | 2022-12-22 | 872 | 46 | 

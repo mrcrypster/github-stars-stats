@@ -1,6 +1,6 @@
 # vanilla-extract-css/vanilla-extract - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 188
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 7045 | 188 | 
 | 2022-12-24 | 7045 | 188 | 
 | 2022-12-23 | 7042 | 188 | 
 | 2022-12-22 | 7039 | 188 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 6794 | 181 | 
 | 2022-11-27 | 6791 | 181 | 
 | 2022-11-26 | 6786 | 181 | 
-| 2022-11-25 | 6779 | 181 | 
 

@@ -1,6 +1,6 @@
 # dillonkearns/elm-pages - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 82
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 552 | 82 | 
 | 2022-12-24 | 552 | 82 | 
 | 2022-12-23 | 552 | 82 | 
 | 2022-12-22 | 552 | 83 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 545 | 83 | 
 | 2022-11-27 | 545 | 82 | 
 | 2022-11-26 | 545 | 82 | 
-| 2022-11-25 | 544 | 82 | 
 

@@ -1,6 +1,6 @@
 # microsoft/react-native-windows - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 1104
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 15175 | 1104 | 
 | 2022-12-24 | 15175 | 1104 | 
 | 2022-12-23 | 15173 | 1104 | 
 | 2022-12-22 | 15172 | 1103 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-29 | 15121 | 1103 | 
 | 2022-11-28 | 15119 | 1103 | 
 | 2022-11-26 | 15119 | 1103 | 
-| 2022-11-25 | 15121 | 1103 | 
 

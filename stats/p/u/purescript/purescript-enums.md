@@ -1,6 +1,6 @@
 # purescript/purescript-enums - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 22
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 9 | 22 | 
+| 2022-12-25 | 9 | 22 | 
 | 2022-12-24 | 9 | 22 | 
 | 2022-12-23 | 9 | 22 | 
 | 2022-12-22 | 9 | 22 | 
@@ -40,5 +42,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 9 | 22 | 
 | 2022-11-27 | 9 | 22 | 
 | 2022-11-26 | 9 | 22 | 
-| 2022-11-25 | 9 | 22 | 
 

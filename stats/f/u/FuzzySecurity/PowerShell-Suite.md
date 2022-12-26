@@ -1,6 +1,6 @@
 # FuzzySecurity/PowerShell-Suite - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 776
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 2417 | 776 | 
 | 2022-12-24 | 2417 | 776 | 
 | 2022-12-23 | 2417 | 776 | 
 | 2022-12-22 | 2417 | 776 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 2409 | 773 | 
 | 2022-11-27 | 2409 | 773 | 
 | 2022-11-26 | 2408 | 773 | 
-| 2022-11-25 | 2407 | 772 | 
 

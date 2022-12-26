@@ -1,6 +1,6 @@
 # HubSpot/signet - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 565 | 38 | 
 | 2022-12-24 | 565 | 38 | 
 | 2022-12-23 | 565 | 38 | 
 | 2022-12-22 | 565 | 38 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-29 | 565 | 38 | 
 | 2022-11-28 | 565 | 38 | 
 | 2022-11-27 | 565 | 38 | 
-| 2022-11-26 | 565 | 38 | 
 

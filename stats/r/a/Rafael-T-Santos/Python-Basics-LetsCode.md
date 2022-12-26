@@ -1,6 +1,6 @@
 # Rafael-T-Santos/Python-Basics-LetsCode - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 22 | 21 | 
 | 2022-12-24 | 22 | 21 | 
 | 2022-12-23 | 22 | 21 | 
 | 2022-12-22 | 22 | 21 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 21 | 21 | 
 | 2022-11-27 | 21 | 21 | 
 | 2022-11-26 | 21 | 21 | 
-| 2022-11-25 | 21 | 21 | 
 

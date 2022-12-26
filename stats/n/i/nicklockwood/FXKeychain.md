@@ -1,0 +1,18 @@
+# nicklockwood/FXKeychain - stars & forks statistics
+
+Stats updated on Dec 2022, 26
+
+☋ Forks: 79
+
+★ Stars: 557
+
+[Open repository](https://github.com/nicklockwood/FXKeychain)
+
+[Open detailed stats for nicklockwood/FXKeychain](https://reviewgithub.com/rep/nicklockwood/FXKeychain)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-12-26 | 557 | 79 | 
+| 2022-12-25 | 557 | 79 | 
+

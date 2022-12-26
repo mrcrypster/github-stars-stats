@@ -1,6 +1,6 @@
 # rbjaxter/budhud - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 66
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 120 | 66 | 
 | 2022-12-24 | 120 | 66 | 
 | 2022-12-23 | 120 | 66 | 
 | 2022-12-22 | 120 | 66 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 118 | 66 | 
 | 2022-11-27 | 118 | 66 | 
 | 2022-11-26 | 118 | 66 | 
-| 2022-11-25 | 118 | 66 | 
 

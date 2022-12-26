@@ -1,6 +1,6 @@
 # naps62/pair-gpt.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 28 | 3 | 
 | 2022-12-24 | 28 | 3 | 
 | 2022-12-23 | 28 | 3 | 
 | 2022-12-22 | 28 | 3 | 

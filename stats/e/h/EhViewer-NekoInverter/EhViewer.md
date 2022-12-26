@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 25
 
 ☋ Forks: 53
 
-★ Stars: 668
+★ Stars: 672
 
 [Open repository](https://github.com/EhViewer-NekoInverter/EhViewer)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-25 | 668 | 53 | 
+| 2022-12-25 | 672 | 53 | 
 | 2022-12-24 | 660 | 53 | 
 | 2022-12-23 | 656 | 53 | 
 | 2022-12-21 | 650 | 52 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-28 | 441 | 35 | 
 | 2022-11-27 | 426 | 33 | 
 | 2022-11-26 | 413 | 34 | 
-| 2022-11-25 | 399 | 34 | 
 

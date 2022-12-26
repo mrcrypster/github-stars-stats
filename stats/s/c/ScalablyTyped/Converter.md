@@ -1,10 +1,10 @@
 # ScalablyTyped/Converter - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 30
 
-★ Stars: 155
+★ Stars: 157
 
 [Open repository](https://github.com/ScalablyTyped/Converter)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 157 | 30 | 
 | 2022-12-24 | 155 | 30 | 
 | 2022-12-23 | 155 | 30 | 
 | 2022-12-22 | 155 | 30 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 150 | 30 | 
 | 2022-11-27 | 149 | 30 | 
 | 2022-11-26 | 149 | 30 | 
-| 2022-11-25 | 149 | 30 | 
 

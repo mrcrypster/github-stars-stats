@@ -1,10 +1,10 @@
 # ninjarobot/FsPdf - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 4
 
-★ Stars: 114
+★ Stars: 115
 
 [Open repository](https://github.com/ninjarobot/FsPdf)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 115 | 4 | 
 | 2022-12-24 | 114 | 4 | 
 | 2022-12-23 | 114 | 4 | 
 | 2022-12-22 | 114 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 113 | 4 | 
 | 2022-11-27 | 113 | 4 | 
 | 2022-11-26 | 113 | 4 | 
-| 2022-11-25 | 113 | 4 | 
 

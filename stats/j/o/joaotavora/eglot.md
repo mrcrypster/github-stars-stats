@@ -1,10 +1,10 @@
 # joaotavora/eglot - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 195
 
-★ Stars: 1783
+★ Stars: 1785
 
 [Open repository](https://github.com/joaotavora/eglot)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 1785 | 195 | 
 | 2022-12-24 | 1783 | 195 | 
 | 2022-12-23 | 1783 | 195 | 
 | 2022-12-22 | 1783 | 195 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 1736 | 192 | 
 | 2022-11-27 | 1736 | 192 | 
 | 2022-11-26 | 1735 | 191 | 
-| 2022-11-25 | 1735 | 191 | 
 

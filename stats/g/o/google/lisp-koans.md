@@ -1,6 +1,6 @@
 # google/lisp-koans - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 562
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 2953 | 562 | 
 | 2022-12-25 | 2953 | 562 | 
 | 2022-12-23 | 2951 | 562 | 
 | 2022-12-22 | 2950 | 561 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-28 | 2944 | 561 | 
 | 2022-11-27 | 2943 | 561 | 
 | 2022-11-26 | 2943 | 561 | 
-| 2022-11-25 | 2943 | 562 | 
 

@@ -1,6 +1,6 @@
 # livekit/livekit-helm - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 20 | 31 | 
 | 2022-12-24 | 20 | 31 | 
 | 2022-12-23 | 20 | 31 | 
 | 2022-12-22 | 21 | 31 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 21 | 32 | 
 | 2022-11-27 | 21 | 32 | 
 | 2022-11-26 | 21 | 32 | 
-| 2022-11-25 | 21 | 32 | 
 

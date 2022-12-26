@@ -1,10 +1,10 @@
 # agg23/openfpga-NES - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 4
 
-★ Stars: 112
+★ Stars: 115
 
 [Open repository](https://github.com/agg23/openfpga-NES)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 115 | 4 | 
 | 2022-12-24 | 112 | 4 | 
 | 2022-12-23 | 112 | 4 | 
 | 2022-12-22 | 111 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 104 | 4 | 
 | 2022-11-27 | 102 | 4 | 
 | 2022-11-26 | 102 | 4 | 
-| 2022-11-25 | 102 | 4 | 
 

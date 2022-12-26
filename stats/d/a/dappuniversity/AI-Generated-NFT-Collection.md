@@ -1,10 +1,10 @@
 # dappuniversity/AI-Generated-NFT-Collection - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
-☋ Forks: 36
+☋ Forks: 37
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/dappuniversity/AI-Generated-NFT-Collection)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 33 | 37 | 
 | 2022-12-24 | 32 | 36 | 
 | 2022-12-23 | 32 | 36 | 
 | 2022-12-22 | 32 | 36 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 32 | 36 | 
 | 2022-11-27 | 32 | 36 | 
 | 2022-11-26 | 32 | 36 | 
-| 2022-11-25 | 32 | 36 | 
 

@@ -1,10 +1,10 @@
 # ash-project/ash_postgres - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 25
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/ash-project/ash_postgres)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 32 | 25 | 
 | 2022-12-24 | 31 | 25 | 
 | 2022-12-23 | 31 | 25 | 
 | 2022-12-22 | 30 | 25 | 

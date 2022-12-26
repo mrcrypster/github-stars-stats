@@ -1,6 +1,6 @@
 # lobsters/lobsters - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 729
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 3400 | 729 | 
 | 2022-12-24 | 3400 | 729 | 
 | 2022-12-23 | 3399 | 729 | 
 | 2022-12-22 | 3398 | 728 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 3388 | 731 | 
 | 2022-11-27 | 3387 | 731 | 
 | 2022-11-26 | 3384 | 731 | 
-| 2022-11-25 | 3382 | 730 | 
 

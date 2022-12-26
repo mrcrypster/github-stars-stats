@@ -1,6 +1,6 @@
 # tokland/youtube-upload - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 458
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 1871 | 458 | 
 | 2022-12-24 | 1871 | 458 | 
 | 2022-12-23 | 1870 | 458 | 
 | 2022-12-22 | 1869 | 458 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 1863 | 457 | 
 | 2022-11-27 | 1862 | 457 | 
 | 2022-11-26 | 1861 | 456 | 
-| 2022-11-25 | 1860 | 456 | 
 

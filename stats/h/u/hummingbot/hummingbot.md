@@ -1,10 +1,10 @@
 # hummingbot/hummingbot - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
-☋ Forks: 1880
+☋ Forks: 1881
 
-★ Stars: 5118
+★ Stars: 5124
 
 [Open repository](https://github.com/hummingbot/hummingbot)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 5124 | 1881 | 
 | 2022-12-24 | 5118 | 1880 | 
 | 2022-12-23 | 5115 | 1880 | 
 | 2022-12-22 | 5116 | 1878 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 5005 | 1828 | 
 | 2022-11-27 | 5002 | 1822 | 
 | 2022-11-26 | 5000 | 1822 | 
-| 2022-11-25 | 4996 | 1820 | 
 

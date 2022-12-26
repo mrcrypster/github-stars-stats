@@ -1,6 +1,6 @@
 # UBC-CPEN311-Classrooms/2022w1-lab4-update1 - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 1 | 8 | 
 | 2022-12-24 | 1 | 8 | 
 | 2022-12-23 | 1 | 8 | 
 | 2022-12-22 | 1 | 8 | 

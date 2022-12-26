@@ -1,10 +1,10 @@
 # benhoyt/countwords - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 94
 
-★ Stars: 293
+★ Stars: 294
 
 [Open repository](https://github.com/benhoyt/countwords)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 294 | 94 | 
 | 2022-12-24 | 293 | 94 | 
 | 2022-12-23 | 293 | 94 | 
 | 2022-12-22 | 293 | 94 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-29 | 289 | 93 | 
 | 2022-11-28 | 289 | 93 | 
 | 2022-11-26 | 289 | 93 | 
-| 2022-11-25 | 286 | 93 | 
 

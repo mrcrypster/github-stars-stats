@@ -1,10 +1,10 @@
 # huihut/interview - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
-☋ Forks: 7063
+☋ Forks: 7064
 
-★ Stars: 26944
+★ Stars: 26953
 
 [Open repository](https://github.com/huihut/interview)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 26953 | 7064 | 
 | 2022-12-24 | 26944 | 7063 | 
 | 2022-12-23 | 26940 | 7062 | 
 | 2022-12-22 | 26929 | 7061 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-29 | 26738 | 7048 | 
 | 2022-11-28 | 26730 | 7048 | 
 | 2022-11-27 | 26723 | 7049 | 
-| 2022-11-25 | 26715 | 7049 | 
 

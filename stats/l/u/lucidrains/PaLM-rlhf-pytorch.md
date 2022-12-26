@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 25
 
 ☋ Forks: 19
 
-★ Stars: 369
+★ Stars: 381
 
 [Open repository](https://github.com/lucidrains/PaLM-rlhf-pytorch)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-25 | 369 | 19 | 
+| 2022-12-25 | 381 | 19 | 
 | 2022-12-24 | 365 | 19 | 
 | 2022-12-23 | 316 | 18 | 
 | 2022-12-22 | 187 | 10 | 

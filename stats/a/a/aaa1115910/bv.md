@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 25
 
 ☋ Forks: 11
 
-★ Stars: 167
+★ Stars: 171
 
 [Open repository](https://github.com/aaa1115910/bv)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-25 | 167 | 11 | 
+| 2022-12-25 | 171 | 11 | 
 | 2022-12-24 | 167 | 11 | 
 | 2022-12-23 | 145 | 10 | 
 | 2022-12-22 | 137 | 10 | 

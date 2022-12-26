@@ -1,6 +1,6 @@
 # SaptarshiSarkar12/Drifty - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 60 | 61 | 
 | 2022-12-24 | 60 | 61 | 
 | 2022-12-23 | 61 | 61 | 
 | 2022-12-22 | 61 | 61 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-29 | 62 | 61 | 
 | 2022-11-28 | 62 | 61 | 
 | 2022-11-27 | 62 | 61 | 
-| 2022-11-26 | 62 | 61 | 
 

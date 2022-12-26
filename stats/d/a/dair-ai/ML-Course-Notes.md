@@ -1,6 +1,6 @@
 # dair-ai/ML-Course-Notes - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 697
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 5155 | 697 | 
 | 2022-12-24 | 5155 | 697 | 
 | 2022-12-23 | 5154 | 697 | 
 | 2022-12-22 | 5153 | 696 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-29 | 5115 | 690 | 
 | 2022-11-28 | 5115 | 689 | 
 | 2022-11-27 | 5113 | 689 | 
-| 2022-11-26 | 5112 | 689 | 
 

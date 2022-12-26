@@ -1,6 +1,6 @@
 # openhwgroup/core-v-mcu - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 113 | 38 | 
 | 2022-12-24 | 113 | 38 | 
 | 2022-12-23 | 113 | 38 | 
 | 2022-12-22 | 113 | 38 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 110 | 38 | 
 | 2022-11-27 | 109 | 38 | 
 | 2022-11-26 | 109 | 38 | 
-| 2022-11-25 | 109 | 38 | 
 

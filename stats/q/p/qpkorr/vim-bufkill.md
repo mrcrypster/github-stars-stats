@@ -1,6 +1,6 @@
 # qpkorr/vim-bufkill - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 287 | 24 | 
 | 2022-12-24 | 287 | 24 | 
 | 2022-12-23 | 287 | 24 | 
 | 2022-12-22 | 287 | 24 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 285 | 24 | 
 | 2022-11-27 | 285 | 24 | 
 | 2022-11-26 | 285 | 24 | 
-| 2022-11-25 | 285 | 24 | 
 

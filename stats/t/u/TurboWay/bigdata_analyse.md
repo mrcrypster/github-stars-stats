@@ -1,6 +1,6 @@
 # TurboWay/bigdata_analyse - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 482
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 2419 | 482 | 
 | 2022-12-24 | 2419 | 482 | 
 | 2022-12-23 | 2418 | 482 | 
 | 2022-12-22 | 2415 | 482 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 2364 | 470 | 
 | 2022-11-27 | 2360 | 469 | 
 | 2022-11-26 | 2360 | 469 | 
-| 2022-11-25 | 2356 | 468 | 
 

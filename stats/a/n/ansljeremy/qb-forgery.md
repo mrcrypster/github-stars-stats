@@ -1,6 +1,6 @@
 # ansljeremy/qb-forgery - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 15 | 14 | 
 | 2022-12-24 | 15 | 14 | 
 | 2022-12-23 | 15 | 14 | 
 | 2022-12-22 | 15 | 14 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 15 | 13 | 
 | 2022-11-27 | 15 | 13 | 
 | 2022-11-26 | 15 | 12 | 
-| 2022-11-25 | 15 | 12 | 
 

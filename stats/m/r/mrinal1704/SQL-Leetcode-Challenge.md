@@ -1,10 +1,10 @@
 # mrinal1704/SQL-Leetcode-Challenge - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 319
 
-★ Stars: 426
+★ Stars: 428
 
 [Open repository](https://github.com/mrinal1704/SQL-Leetcode-Challenge)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 428 | 319 | 
 | 2022-12-24 | 426 | 319 | 
 | 2022-12-23 | 426 | 319 | 
 | 2022-12-22 | 424 | 319 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 418 | 313 | 
 | 2022-11-27 | 419 | 312 | 
 | 2022-11-26 | 419 | 312 | 
-| 2022-11-25 | 419 | 312 | 
 

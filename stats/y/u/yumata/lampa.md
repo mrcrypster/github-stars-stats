@@ -1,6 +1,6 @@
 # yumata/lampa - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 180 | 55 | 
 | 2022-12-24 | 180 | 55 | 
 | 2022-12-23 | 180 | 55 | 
 | 2022-12-22 | 179 | 55 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 174 | 54 | 
 | 2022-11-27 | 174 | 54 | 
 | 2022-11-26 | 173 | 54 | 
-| 2022-11-25 | 173 | 54 | 
 

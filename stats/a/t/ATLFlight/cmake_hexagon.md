@@ -1,6 +1,6 @@
 # ATLFlight/cmake_hexagon - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 27 | 61 | 
 | 2022-12-24 | 27 | 61 | 
 | 2022-12-23 | 27 | 61 | 
 | 2022-12-22 | 27 | 61 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 27 | 61 | 
 | 2022-11-27 | 27 | 61 | 
 | 2022-11-26 | 27 | 61 | 
-| 2022-11-25 | 27 | 61 | 
 

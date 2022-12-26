@@ -1,8 +1,8 @@
 # massalabs/massa - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
-☋ Forks: 245
+☋ Forks: 246
 
 ★ Stars: 1169
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 1169 | 246 | 
 | 2022-12-24 | 1169 | 245 | 
 | 2022-12-23 | 1168 | 245 | 
 | 2022-12-22 | 1168 | 244 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-29 | 1153 | 222 | 
 | 2022-11-28 | 1152 | 222 | 
 | 2022-11-27 | 1152 | 222 | 
-| 2022-11-25 | 1152 | 222 | 
 

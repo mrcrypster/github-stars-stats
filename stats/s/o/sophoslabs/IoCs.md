@@ -1,6 +1,6 @@
 # sophoslabs/IoCs - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 82
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 368 | 82 | 
 | 2022-12-24 | 368 | 82 | 
 | 2022-12-23 | 368 | 82 | 
 | 2022-12-22 | 368 | 81 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 363 | 77 | 
 | 2022-11-27 | 362 | 77 | 
 | 2022-11-26 | 362 | 77 | 
-| 2022-11-25 | 361 | 77 | 
 

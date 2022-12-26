@@ -1,6 +1,6 @@
 # adrhill/NoiseRobustDifferentiation.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 28 | 2 | 
 | 2022-12-24 | 28 | 2 | 
 | 2022-12-23 | 28 | 2 | 
 | 2022-12-22 | 28 | 2 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-29 | 28 | 1 | 
 | 2022-11-28 | 28 | 1 | 
 | 2022-11-27 | 28 | 1 | 
-| 2022-11-25 | 28 | 1 | 
 

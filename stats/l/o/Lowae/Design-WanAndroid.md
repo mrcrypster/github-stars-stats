@@ -1,6 +1,6 @@
 # Lowae/Design-WanAndroid - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 364 | 50 | 
 | 2022-12-24 | 364 | 50 | 
 | 2022-12-23 | 364 | 50 | 
 | 2022-12-22 | 364 | 50 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-29 | 357 | 48 | 
 | 2022-11-28 | 357 | 48 | 
 | 2022-11-26 | 357 | 48 | 
-| 2022-11-25 | 357 | 48 | 
 

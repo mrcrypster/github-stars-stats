@@ -1,6 +1,6 @@
 # d12frosted/vulpea - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 171 | 12 | 
 | 2022-12-25 | 171 | 12 | 
 | 2022-12-24 | 171 | 12 | 
 | 2022-12-22 | 171 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-28 | 163 | 12 | 
 | 2022-11-27 | 163 | 12 | 
 | 2022-11-26 | 161 | 12 | 
-| 2022-11-25 | 161 | 12 | 
 

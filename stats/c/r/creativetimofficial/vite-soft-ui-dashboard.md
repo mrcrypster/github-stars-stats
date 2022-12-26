@@ -1,10 +1,10 @@
 # creativetimofficial/vite-soft-ui-dashboard - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 50
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/creativetimofficial/vite-soft-ui-dashboard)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 12 | 50 | 
 | 2022-12-24 | 11 | 50 | 
 | 2022-12-23 | 11 | 50 | 
 | 2022-12-22 | 11 | 50 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 11 | 46 | 
 | 2022-11-27 | 11 | 46 | 
 | 2022-11-26 | 11 | 46 | 
-| 2022-11-25 | 11 | 45 | 
 

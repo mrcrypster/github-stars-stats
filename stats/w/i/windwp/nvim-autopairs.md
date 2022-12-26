@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 25
 
 ☋ Forks: 82
 
-★ Stars: 1601
+★ Stars: 1605
 
 [Open repository](https://github.com/windwp/nvim-autopairs)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-25 | 1601 | 82 | 
+| 2022-12-25 | 1605 | 82 | 
 | 2022-12-24 | 1600 | 82 | 
 | 2022-12-23 | 1595 | 81 | 
 | 2022-12-22 | 1587 | 81 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-28 | 1496 | 75 | 
 | 2022-11-27 | 1493 | 75 | 
 | 2022-11-26 | 1486 | 75 | 
-| 2022-11-25 | 1482 | 75 | 
 

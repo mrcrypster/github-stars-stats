@@ -1,6 +1,6 @@
 # frabjous/knap - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 158 | 2 | 
 | 2022-12-24 | 158 | 2 | 
 | 2022-12-23 | 156 | 2 | 
 | 2022-12-22 | 153 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 148 | 2 | 
 | 2022-11-27 | 148 | 2 | 
 | 2022-11-26 | 148 | 2 | 
-| 2022-11-25 | 148 | 2 | 
 

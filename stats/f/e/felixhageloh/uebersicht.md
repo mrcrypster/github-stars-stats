@@ -1,10 +1,10 @@
 # felixhageloh/uebersicht - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 160
 
-★ Stars: 3939
+★ Stars: 3940
 
 [Open repository](https://github.com/felixhageloh/uebersicht)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 3940 | 160 | 
 | 2022-12-24 | 3939 | 160 | 
 | 2022-12-23 | 3937 | 160 | 
 | 2022-12-22 | 3936 | 160 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 3907 | 160 | 
 | 2022-11-27 | 3904 | 160 | 
 | 2022-11-26 | 3904 | 160 | 
-| 2022-11-25 | 3903 | 160 | 
 

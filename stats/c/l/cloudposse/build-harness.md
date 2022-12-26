@@ -1,6 +1,6 @@
 # cloudposse/build-harness - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 125
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 324 | 125 | 
 | 2022-12-25 | 324 | 125 | 
 | 2022-12-24 | 324 | 125 | 
 | 2022-12-22 | 324 | 125 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-28 | 324 | 126 | 
 | 2022-11-27 | 324 | 126 | 
 | 2022-11-26 | 324 | 126 | 
-| 2022-11-25 | 323 | 126 | 
 

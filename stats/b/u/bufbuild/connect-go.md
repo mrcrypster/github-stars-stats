@@ -1,6 +1,6 @@
 # bufbuild/connect-go - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 1670 | 33 | 
 | 2022-12-24 | 1670 | 33 | 
 | 2022-12-23 | 1669 | 33 | 
 | 2022-12-22 | 1669 | 33 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-29 | 1597 | 31 | 
 | 2022-11-28 | 1596 | 31 | 
 | 2022-11-27 | 1595 | 31 | 
-| 2022-11-26 | 1592 | 31 | 
 

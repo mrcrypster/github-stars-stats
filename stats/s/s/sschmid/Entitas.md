@@ -1,6 +1,6 @@
 # sschmid/Entitas - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 1052
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 5973 | 1052 | 
 | 2022-12-24 | 5973 | 1052 | 
 | 2022-12-23 | 5973 | 1052 | 
 | 2022-12-22 | 5973 | 1051 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 5932 | 1049 | 
 | 2022-11-27 | 5930 | 1049 | 
 | 2022-11-26 | 5928 | 1049 | 
-| 2022-11-25 | 5925 | 1049 | 
 

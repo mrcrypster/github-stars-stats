@@ -1,6 +1,6 @@
 # NirAharon/BoT-SORT - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 346 | 75 | 
 | 2022-12-24 | 346 | 75 | 
 | 2022-12-23 | 346 | 75 | 
 | 2022-12-22 | 346 | 73 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 329 | 68 | 
 | 2022-11-27 | 328 | 67 | 
 | 2022-11-26 | 327 | 67 | 
-| 2022-11-25 | 326 | 67 | 
 

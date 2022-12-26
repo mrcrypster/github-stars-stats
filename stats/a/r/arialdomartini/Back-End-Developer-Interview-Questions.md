@@ -1,6 +1,6 @@
 # arialdomartini/Back-End-Developer-Interview-Questions - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 1693
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 13228 | 1693 | 
 | 2022-12-24 | 13228 | 1693 | 
 | 2022-12-23 | 13225 | 1693 | 
 | 2022-12-22 | 13221 | 1693 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 13166 | 1682 | 
 | 2022-11-27 | 13164 | 1682 | 
 | 2022-11-26 | 13163 | 1683 | 
-| 2022-11-25 | 13161 | 1683 | 
 

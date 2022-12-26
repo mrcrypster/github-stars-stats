@@ -1,10 +1,10 @@
 # huggingface/blog - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 259
 
-★ Stars: 537
+★ Stars: 538
 
 [Open repository](https://github.com/huggingface/blog)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 538 | 259 | 
 | 2022-12-25 | 537 | 259 | 
 | 2022-12-24 | 537 | 260 | 
 | 2022-12-23 | 537 | 260 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-28 | 503 | 244 | 
 | 2022-11-27 | 502 | 242 | 
 | 2022-11-26 | 501 | 242 | 
-| 2022-11-25 | 501 | 242 | 
 

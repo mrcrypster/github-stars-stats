@@ -1,6 +1,6 @@
 # narze/awesome-cheab-quotes - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 76
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 13 | 76 | 
 | 2022-12-24 | 13 | 76 | 
 | 2022-12-23 | 13 | 76 | 
 | 2022-12-22 | 13 | 76 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 13 | 79 | 
 | 2022-11-27 | 13 | 79 | 
 | 2022-11-26 | 13 | 79 | 
-| 2022-11-25 | 13 | 79 | 
 

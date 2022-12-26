@@ -1,6 +1,6 @@
 # objectionary/eolang.sty - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 8 | - | 
 | 2022-12-25 | 8 | - | 
 | 2022-12-24 | 7 | - | 
 | 2022-12-22 | 7 | - | 

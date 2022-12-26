@@ -1,6 +1,6 @@
 # replit/blog - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 14 | 13 | 
 | 2022-12-24 | 14 | 13 | 
 | 2022-12-23 | 14 | 13 | 
 | 2022-12-22 | 14 | 13 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 14 | 13 | 
 | 2022-11-27 | 14 | 13 | 
 | 2022-11-26 | 14 | 13 | 
-| 2022-11-25 | 14 | 13 | 
 

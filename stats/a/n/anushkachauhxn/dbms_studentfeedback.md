@@ -1,10 +1,10 @@
 # anushkachauhxn/dbms_studentfeedback - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 18
 
-★ Stars: 7
+★ Stars: 6
 
 [Open repository](https://github.com/anushkachauhxn/dbms_studentfeedback)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 6 | 18 | 
 | 2022-12-24 | 7 | 18 | 
 | 2022-12-23 | 7 | 18 | 
 | 2022-12-22 | 7 | 16 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 7 | 12 | 
 | 2022-11-27 | 7 | 12 | 
 | 2022-11-26 | 7 | 11 | 
-| 2022-11-25 | 7 | 11 | 
 

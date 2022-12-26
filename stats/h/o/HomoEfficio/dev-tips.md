@@ -1,10 +1,10 @@
 # HomoEfficio/dev-tips - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
-☋ Forks: 252
+☋ Forks: 253
 
-★ Stars: 1272
+★ Stars: 1275
 
 [Open repository](https://github.com/HomoEfficio/dev-tips)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 1275 | 253 | 
 | 2022-12-24 | 1272 | 252 | 
 | 2022-12-23 | 1272 | 252 | 
 | 2022-12-22 | 1271 | 250 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 1249 | 249 | 
 | 2022-11-27 | 1248 | 247 | 
 | 2022-11-26 | 1248 | 247 | 
-| 2022-11-25 | 1247 | 247 | 
 

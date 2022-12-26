@@ -1,6 +1,6 @@
 # universal-ctags/citre - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 234 | 18 | 
 | 2022-12-24 | 234 | 18 | 
 | 2022-12-23 | 234 | 18 | 
 | 2022-12-22 | 234 | 18 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 226 | 17 | 
 | 2022-11-27 | 226 | 17 | 
 | 2022-11-26 | 226 | 17 | 
-| 2022-11-25 | 226 | 17 | 
 

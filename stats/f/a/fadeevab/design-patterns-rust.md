@@ -1,6 +1,6 @@
 # fadeevab/design-patterns-rust - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 749 | 35 | 
 | 2022-12-24 | 749 | 35 | 
 | 2022-12-23 | 749 | 35 | 
 | 2022-12-22 | 748 | 35 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 709 | 33 | 
 | 2022-11-27 | 709 | 33 | 
 | 2022-11-26 | 708 | 32 | 
-| 2022-11-25 | 706 | 32 | 
 

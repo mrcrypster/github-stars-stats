@@ -1,6 +1,6 @@
 # skydoves/retrofit-adapters - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 292 | 11 | 
 | 2022-12-24 | 292 | 11 | 
 | 2022-12-23 | 292 | 11 | 
 | 2022-12-22 | 292 | 11 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 278 | 11 | 
 | 2022-11-27 | 277 | 11 | 
 | 2022-11-26 | 277 | 11 | 
-| 2022-11-25 | 277 | 10 | 
 

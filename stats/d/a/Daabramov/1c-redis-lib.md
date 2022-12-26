@@ -1,10 +1,10 @@
 # Daabramov/1c-redis-lib - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 1
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/Daabramov/1c-redis-lib)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 16 | 1 | 
 | 2022-12-24 | 15 | 1 | 
 | 2022-12-23 | 15 | 1 | 
 | 2022-12-22 | 15 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 11 | 1 | 
 | 2022-11-27 | 11 | 1 | 
 | 2022-11-26 | 11 | 1 | 
-| 2022-11-25 | 11 | 1 | 
 

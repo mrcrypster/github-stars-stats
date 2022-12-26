@@ -1,6 +1,6 @@
 # Cweamy/Mighty-Omega-Macro - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 44
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 23 | 44 | 
+| 2022-12-25 | 23 | 44 | 
 | 2022-12-24 | 23 | 44 | 
 | 2022-12-23 | 23 | 44 | 
 | 2022-12-22 | 23 | 44 | 
@@ -41,5 +43,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 23 | 43 | 
 | 2022-11-27 | 23 | 43 | 
 | 2022-11-26 | 23 | 43 | 
-| 2022-11-25 | 23 | 43 | 
 

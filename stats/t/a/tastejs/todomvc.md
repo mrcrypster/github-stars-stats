@@ -1,6 +1,6 @@
 # tastejs/todomvc - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 13911
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 28053 | 13911 | 
 | 2022-12-24 | 28053 | 13911 | 
 | 2022-12-23 | 28054 | 13912 | 
 | 2022-12-22 | 28055 | 13912 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-29 | 28025 | 13923 | 
 | 2022-11-28 | 28022 | 13921 | 
 | 2022-11-27 | 28022 | 13921 | 
-| 2022-11-26 | 28021 | 13921 | 
 

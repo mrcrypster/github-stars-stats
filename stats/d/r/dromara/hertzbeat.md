@@ -1,6 +1,6 @@
 # dromara/hertzbeat - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 334
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 2069 | 334 | 
 | 2022-12-24 | 2069 | 334 | 
 | 2022-12-23 | 2066 | 333 | 
 | 2022-12-22 | 2064 | 333 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 1991 | 315 | 
 | 2022-11-27 | 1989 | 314 | 
 | 2022-11-26 | 1988 | 313 | 
-| 2022-11-25 | 1988 | 312 | 
 

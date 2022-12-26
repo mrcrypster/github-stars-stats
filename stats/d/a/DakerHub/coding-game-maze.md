@@ -1,6 +1,6 @@
 # DakerHub/coding-game-maze - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 44 | 2 | 
 | 2022-12-25 | 44 | 2 | 
 | 2022-12-23 | 44 | 2 | 
 | 2022-12-22 | 44 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-28 | 43 | 2 | 
 | 2022-11-27 | 43 | 2 | 
 | 2022-11-26 | 43 | 2 | 
-| 2022-11-25 | 43 | 2 | 
 

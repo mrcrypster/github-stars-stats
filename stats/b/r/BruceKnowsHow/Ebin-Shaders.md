@@ -1,10 +1,10 @@
 # BruceKnowsHow/Ebin-Shaders - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 35
 
-★ Stars: 117
+★ Stars: 118
 
 [Open repository](https://github.com/BruceKnowsHow/Ebin-Shaders)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 118 | 35 | 
 | 2022-12-24 | 117 | 35 | 
 | 2022-12-23 | 116 | 35 | 
 | 2022-12-22 | 116 | 35 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 116 | 35 | 
 | 2022-11-27 | 116 | 35 | 
 | 2022-11-26 | 116 | 35 | 
-| 2022-11-25 | 116 | 35 | 
 

@@ -1,10 +1,10 @@
 # net4people/bbs - stars & forks statistics
 
-Stats updated on Dec 2022, 24
+Stats updated on Dec 2022, 25
 
 ☋ Forks: 51
 
-★ Stars: 2135
+★ Stars: 2134
 
 [Open repository](https://github.com/net4people/bbs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-25 | 2134 | 51 | 
 | 2022-12-24 | 2135 | 51 | 
 | 2022-12-23 | 2130 | 51 | 
 | 2022-12-22 | 2129 | 51 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 24
 | 2022-11-28 | 2047 | 49 | 
 | 2022-11-27 | 2043 | 48 | 
 | 2022-11-26 | 2039 | 47 | 
-| 2022-11-25 | 2037 | 47 | 
 
