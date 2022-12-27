@@ -1,10 +1,10 @@
 # EtherDream/jsproxy - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
-☋ Forks: 3542
+☋ Forks: 3543
 
-★ Stars: 8899
+★ Stars: 8900
 
 [Open repository](https://github.com/EtherDream/jsproxy)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 8900 | 3543 | 
 | 2022-12-25 | 8899 | 3542 | 
 | 2022-12-24 | 8899 | 3541 | 
 | 2022-12-23 | 8898 | 3541 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 8860 | 3520 | 
 | 2022-11-28 | 8860 | 3520 | 
 | 2022-11-27 | 8861 | 3520 | 
-| 2022-11-26 | 8861 | 3519 | 
 

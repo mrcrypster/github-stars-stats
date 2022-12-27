@@ -1,10 +1,10 @@
 # Shougo/dein.vim - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 196
 
-★ Stars: 3291
+★ Stars: 3289
 
 [Open repository](https://github.com/Shougo/dein.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 3289 | 196 | 
 | 2022-12-25 | 3291 | 196 | 
 | 2022-12-24 | 3291 | 196 | 
 | 2022-12-23 | 3290 | 196 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 3282 | 189 | 
 | 2022-11-28 | 3281 | 189 | 
 | 2022-11-27 | 3281 | 188 | 
-| 2022-11-26 | 3280 | 188 | 
 

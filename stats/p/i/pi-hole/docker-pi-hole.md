@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 26
 
 ☋ Forks: 1007
 
-★ Stars: 6020
+★ Stars: 6019
 
 [Open repository](https://github.com/pi-hole/docker-pi-hole)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-26 | 6020 | 1007 | 
+| 2022-12-26 | 6019 | 1007 | 
 | 2022-12-25 | 6019 | 1008 | 
 | 2022-12-24 | 6008 | 1006 | 
 | 2022-12-23 | 6007 | 1006 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-29 | 5910 | 998 | 
 | 2022-11-28 | 5904 | 998 | 
 | 2022-11-27 | 5900 | 998 | 
-| 2022-11-26 | 5899 | 998 | 
 

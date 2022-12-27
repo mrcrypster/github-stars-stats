@@ -1,6 +1,6 @@
 # LukeSmithxyz/mutt-wizard - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 353
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 2069 | 353 | 
 | 2022-12-25 | 2069 | 353 | 
 | 2022-12-24 | 2068 | 353 | 
 | 2022-12-23 | 2068 | 353 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 2055 | 352 | 
 | 2022-11-28 | 2054 | 352 | 
 | 2022-11-27 | 2052 | 351 | 
-| 2022-11-26 | 2054 | 351 | 
 

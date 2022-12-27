@@ -1,6 +1,6 @@
 # andrew3009/0xmonaco - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 18 | - | 
 | 2022-12-25 | 18 | - | 
 | 2022-12-24 | 18 | - | 
 | 2022-12-23 | 18 | - | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 18 | - | 
 | 2022-11-28 | 18 | - | 
 | 2022-11-27 | 18 | - | 
-| 2022-11-26 | 18 | - | 
 

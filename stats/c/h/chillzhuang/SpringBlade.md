@@ -1,8 +1,8 @@
 # chillzhuang/SpringBlade - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
-☋ Forks: 1258
+☋ Forks: 1257
 
 ★ Stars: 5857
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 5857 | 1257 | 
 | 2022-12-25 | 5857 | 1258 | 
 | 2022-12-24 | 5855 | 1258 | 
 | 2022-12-23 | 5855 | 1258 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 5831 | 1249 | 
 | 2022-11-28 | 5827 | 1248 | 
 | 2022-11-27 | 5826 | 1248 | 
-| 2022-11-26 | 5826 | 1248 | 
 

@@ -1,10 +1,10 @@
 # runelite/runelite - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 27
 
-☋ Forks: 4701
+☋ Forks: 4702
 
-★ Stars: 4001
+★ Stars: 4002
 
 [Open repository](https://github.com/runelite/runelite)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 4002 | 4702 | 
+| 2022-12-26 | 4002 | 4701 | 
 | 2022-12-25 | 4001 | 4701 | 
 | 2022-12-24 | 4000 | 4695 | 
 | 2022-12-23 | 3999 | 4694 | 
@@ -40,5 +42,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 3980 | 4680 | 
 | 2022-11-28 | 3979 | 4682 | 
 | 2022-11-27 | 3978 | 4684 | 
-| 2022-11-26 | 3977 | 4682 | 
 

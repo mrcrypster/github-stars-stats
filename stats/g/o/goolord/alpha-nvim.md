@@ -1,10 +1,10 @@
 # goolord/alpha-nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 47
 
-★ Stars: 823
+★ Stars: 822
 
 [Open repository](https://github.com/goolord/alpha-nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 822 | 47 | 
 | 2022-12-25 | 823 | 47 | 
 | 2022-12-24 | 820 | 47 | 
 | 2022-12-23 | 818 | 47 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 793 | 47 | 
 | 2022-11-28 | 789 | 47 | 
 | 2022-11-27 | 785 | 46 | 
-| 2022-11-26 | 783 | 46 | 
 

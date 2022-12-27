@@ -1,10 +1,10 @@
 # Lartsch/FediAct - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 9
 
-★ Stars: 323
+★ Stars: 325
 
 [Open repository](https://github.com/Lartsch/FediAct)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 325 | 9 | 
 | 2022-12-25 | 323 | 9 | 
 | 2022-12-24 | 312 | 8 | 
 | 2022-12-23 | 304 | 7 | 

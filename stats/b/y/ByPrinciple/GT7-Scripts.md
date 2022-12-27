@@ -1,10 +1,10 @@
 # ByPrinciple/GT7-Scripts - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 20
 
-★ Stars: 34
+★ Stars: 33
 
 [Open repository](https://github.com/ByPrinciple/GT7-Scripts)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 33 | 20 | 
 | 2022-12-25 | 34 | 20 | 
 | 2022-12-24 | 34 | 20 | 
 | 2022-12-23 | 34 | 20 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 34 | 20 | 
 | 2022-11-28 | 34 | 20 | 
 | 2022-11-27 | 34 | 20 | 
-| 2022-11-26 | 34 | 20 | 
 

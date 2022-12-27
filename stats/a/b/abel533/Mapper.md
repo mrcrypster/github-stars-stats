@@ -1,10 +1,10 @@
 # abel533/Mapper - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 1602
 
-★ Stars: 7007
+★ Stars: 7008
 
 [Open repository](https://github.com/abel533/Mapper)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 7008 | 1602 | 
 | 2022-12-25 | 7007 | 1602 | 
 | 2022-12-24 | 7007 | 1602 | 
 | 2022-12-23 | 7007 | 1602 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 6994 | 1601 | 
 | 2022-11-28 | 6995 | 1602 | 
 | 2022-11-27 | 6995 | 1602 | 
-| 2022-11-26 | 6994 | 1602 | 
 

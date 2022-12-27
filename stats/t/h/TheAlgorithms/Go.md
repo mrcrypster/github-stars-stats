@@ -1,10 +1,10 @@
 # TheAlgorithms/Go - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 27
 
-☋ Forks: 2031
+☋ Forks: 2035
 
-★ Stars: 11655
+★ Stars: 11690
 
 [Open repository](https://github.com/TheAlgorithms/Go)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 11690 | 2035 | 
+| 2022-12-26 | 11689 | 2035 | 
 | 2022-12-25 | 11655 | 2031 | 
 | 2022-12-24 | 11651 | 2031 | 
 | 2022-12-23 | 11643 | 2031 | 
@@ -39,5 +41,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 11505 | 2010 | 
 | 2022-11-28 | 11495 | 2010 | 
 | 2022-11-27 | 11486 | 2010 | 
-| 2022-11-26 | 11480 | 2008 | 
 

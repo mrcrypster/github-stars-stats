@@ -1,10 +1,10 @@
 # lazy-cat-io/tenet - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 0
 
-★ Stars: 35
+★ Stars: 36
 
 [Open repository](https://github.com/lazy-cat-io/tenet)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 36 | - | 
 | 2022-12-25 | 35 | - | 
 | 2022-12-24 | 35 | - | 
 | 2022-12-23 | 35 | - | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 35 | - | 
 | 2022-11-28 | 35 | - | 
 | 2022-11-27 | 35 | - | 
-| 2022-11-26 | 35 | - | 
 

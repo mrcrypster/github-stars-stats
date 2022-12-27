@@ -1,10 +1,10 @@
 # flashbots/mev-boost - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 98
 
-★ Stars: 692
+★ Stars: 693
 
 [Open repository](https://github.com/flashbots/mev-boost)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 693 | 98 | 
 | 2022-12-25 | 692 | 98 | 
 | 2022-12-24 | 691 | 98 | 
 | 2022-12-23 | 691 | 98 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 664 | 89 | 
 | 2022-11-28 | 662 | 89 | 
 | 2022-11-27 | 660 | 88 | 
-| 2022-11-26 | 660 | 87 | 
 

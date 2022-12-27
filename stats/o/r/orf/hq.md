@@ -1,10 +1,10 @@
 # orf/hq - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 2
 
-★ Stars: 502
+★ Stars: 504
 
 [Open repository](https://github.com/orf/hq)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 504 | 2 | 
 | 2022-12-25 | 502 | 2 | 
 | 2022-12-24 | 502 | 2 | 
 | 2022-12-23 | 502 | 2 | 

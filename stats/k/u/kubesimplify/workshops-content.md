@@ -1,8 +1,8 @@
 # kubesimplify/workshops-content - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
-☋ Forks: 72
+☋ Forks: 74
 
 ★ Stars: 100
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 100 | 74 | 
 | 2022-12-25 | 100 | 72 | 
 | 2022-12-24 | 100 | 72 | 
 | 2022-12-23 | 100 | 71 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 94 | 65 | 
 | 2022-11-28 | 94 | 65 | 
 | 2022-11-27 | 93 | 64 | 
-| 2022-11-26 | 93 | 64 | 
 

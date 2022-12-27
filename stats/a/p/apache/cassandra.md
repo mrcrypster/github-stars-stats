@@ -1,10 +1,10 @@
 # apache/cassandra - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 3290
 
-★ Stars: 7732
+★ Stars: 7733
 
 [Open repository](https://github.com/apache/cassandra)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 7733 | 3290 | 
 | 2022-12-25 | 7732 | 3290 | 
 | 2022-12-24 | 7731 | 3290 | 
 | 2022-12-23 | 7730 | 3290 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 7684 | 3275 | 
 | 2022-11-28 | 7680 | 3274 | 
 | 2022-11-27 | 7677 | 3274 | 
-| 2022-11-26 | 7677 | 3274 | 
 

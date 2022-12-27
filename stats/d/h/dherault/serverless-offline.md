@@ -1,10 +1,10 @@
 # dherault/serverless-offline - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 754
 
-★ Stars: 4792
+★ Stars: 4793
 
 [Open repository](https://github.com/dherault/serverless-offline)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 4793 | 754 | 
 | 2022-12-26 | 4792 | 754 | 
 | 2022-12-24 | 4793 | 754 | 
 | 2022-12-23 | 4792 | 754 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-29 | 4771 | 747 | 
 | 2022-11-28 | 4769 | 747 | 
 | 2022-11-27 | 4769 | 747 | 
-| 2022-11-26 | 4769 | 747 | 
 

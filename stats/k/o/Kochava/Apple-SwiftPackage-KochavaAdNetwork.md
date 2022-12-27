@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 26
 
 ☋ Forks: 1
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/Kochava/Apple-SwiftPackage-KochavaAdNetwork)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-26 | 2 | 1 | 
+| 2022-12-26 | 3 | 1 | 
 | 2022-12-25 | 2 | 1 | 
 

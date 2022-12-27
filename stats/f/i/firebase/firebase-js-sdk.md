@@ -1,8 +1,8 @@
 # firebase/firebase-js-sdk - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
-☋ Forks: 804
+☋ Forks: 805
 
 ★ Stars: 4317
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 4317 | 805 | 
 | 2022-12-25 | 4317 | 804 | 
 | 2022-12-24 | 4317 | 804 | 
 | 2022-12-23 | 4316 | 804 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 4287 | 794 | 
 | 2022-11-28 | 4286 | 793 | 
 | 2022-11-27 | 4286 | 793 | 
-| 2022-11-26 | 4285 | 793 | 
 

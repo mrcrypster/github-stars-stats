@@ -1,10 +1,10 @@
 # upptime/upptime - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 688
 
-★ Stars: 12350
+★ Stars: 12369
 
 [Open repository](https://github.com/upptime/upptime)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 12369 | 688 | 
 | 2022-12-25 | 12350 | 688 | 
 | 2022-12-24 | 12332 | 688 | 
 | 2022-12-23 | 12327 | 687 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 12210 | 682 | 
 | 2022-11-28 | 12205 | 682 | 
 | 2022-11-27 | 12193 | 681 | 
-| 2022-11-26 | 12191 | 681 | 
 

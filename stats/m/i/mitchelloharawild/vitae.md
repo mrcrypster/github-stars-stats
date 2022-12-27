@@ -1,10 +1,10 @@
 # mitchelloharawild/vitae - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 190
 
-★ Stars: 965
+★ Stars: 964
 
 [Open repository](https://github.com/mitchelloharawild/vitae)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 964 | 190 | 
 | 2022-12-25 | 965 | 190 | 
 | 2022-12-24 | 964 | 190 | 
 | 2022-12-23 | 963 | 190 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 953 | 190 | 
 | 2022-11-28 | 952 | 190 | 
 | 2022-11-27 | 951 | 190 | 
-| 2022-11-26 | 949 | 190 | 
 

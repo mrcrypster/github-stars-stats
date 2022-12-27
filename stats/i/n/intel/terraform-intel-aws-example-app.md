@@ -1,6 +1,6 @@
 # intel/terraform-intel-aws-example-app - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 4 | - | 
 | 2022-12-26 | 4 | - | 
 | 2022-12-25 | 4 | - | 
 | 2022-12-23 | 4 | - | 

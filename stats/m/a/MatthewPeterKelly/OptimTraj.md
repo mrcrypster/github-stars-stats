@@ -1,6 +1,6 @@
 # MatthewPeterKelly/OptimTraj - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 169
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 410 | 169 | 
 | 2022-12-25 | 410 | 169 | 
 | 2022-12-24 | 409 | 169 | 
 | 2022-12-23 | 408 | 169 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 399 | 168 | 
 | 2022-11-28 | 399 | 168 | 
 | 2022-11-27 | 399 | 168 | 
-| 2022-11-26 | 399 | 168 | 
 

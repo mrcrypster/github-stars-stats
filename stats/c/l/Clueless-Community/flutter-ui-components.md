@@ -1,8 +1,8 @@
 # Clueless-Community/flutter-ui-components - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
-☋ Forks: 39
+☋ Forks: 40
 
 ★ Stars: 34
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 34 | 40 | 
 | 2022-12-25 | 34 | 39 | 
 | 2022-12-24 | 34 | 39 | 
 | 2022-12-23 | 34 | 39 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 31 | 36 | 
 | 2022-11-28 | 31 | 36 | 
 | 2022-11-27 | 31 | 36 | 
-| 2022-11-26 | 31 | 36 | 
 

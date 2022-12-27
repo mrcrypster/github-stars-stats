@@ -1,8 +1,8 @@
 # rullpqh/Autoscript-vps - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
-☋ Forks: 24
+☋ Forks: 23
 
 ★ Stars: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 12 | 23 | 
 | 2022-12-25 | 12 | 24 | 
 | 2022-12-24 | 12 | 24 | 
 | 2022-12-23 | 12 | 24 | 

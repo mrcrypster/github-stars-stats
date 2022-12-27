@@ -1,8 +1,8 @@
 # Perfare/Zygisk-Il2CppDumper - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
-☋ Forks: 1295
+☋ Forks: 1298
 
 ★ Stars: 1023
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 1023 | 1298 | 
 | 2022-12-25 | 1023 | 1295 | 
 | 2022-12-24 | 1023 | 1292 | 
 | 2022-12-23 | 1022 | 1287 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 975 | 1184 | 
 | 2022-11-28 | 973 | 1181 | 
 | 2022-11-27 | 967 | 1169 | 
-| 2022-11-26 | 965 | 1164 | 
 

@@ -1,10 +1,10 @@
 # badtuxx/giropops-monitoring - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 261
 
-★ Stars: 1249
+★ Stars: 1250
 
 [Open repository](https://github.com/badtuxx/giropops-monitoring)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 1250 | 261 | 
 | 2022-12-25 | 1249 | 261 | 
 | 2022-12-24 | 1249 | 261 | 
 | 2022-12-23 | 1249 | 261 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-30 | 1243 | 257 | 
 | 2022-11-29 | 1242 | 257 | 
 | 2022-11-28 | 1242 | 257 | 
-| 2022-11-27 | 1242 | 257 | 
 

@@ -1,6 +1,6 @@
 # Shivankit-Gaind/Microprocessor-Assembly-Language-Programs - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 32 | 24 | 
 | 2022-12-25 | 32 | 24 | 
 | 2022-12-24 | 32 | 24 | 
 | 2022-12-23 | 32 | 24 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 32 | 25 | 
 | 2022-11-28 | 32 | 25 | 
 | 2022-11-27 | 32 | 25 | 
-| 2022-11-26 | 32 | 25 | 
 

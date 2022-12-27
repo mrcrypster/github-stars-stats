@@ -1,10 +1,10 @@
 # hashgraph/hedera-smart-contracts - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 28
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/hashgraph/hedera-smart-contracts)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 17 | 28 | 
 | 2022-12-25 | 16 | 28 | 
 | 2022-12-24 | 16 | 28 | 
 | 2022-12-23 | 15 | 28 | 

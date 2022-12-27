@@ -1,10 +1,10 @@
 # Mebus/cupp - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 1041
 
-★ Stars: 3161
+★ Stars: 3162
 
 [Open repository](https://github.com/Mebus/cupp)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 3162 | 1041 | 
 | 2022-12-25 | 3161 | 1041 | 
 | 2022-12-24 | 3161 | 1041 | 
 | 2022-12-23 | 3160 | 1041 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 3096 | 1034 | 
 | 2022-11-28 | 3095 | 1033 | 
 | 2022-11-27 | 3095 | 1033 | 
-| 2022-11-26 | 3095 | 1032 | 
 

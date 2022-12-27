@@ -1,10 +1,10 @@
 # ccgauche/ytermusic - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 3
 
-★ Stars: 120
+★ Stars: 121
 
 [Open repository](https://github.com/ccgauche/ytermusic)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 121 | 3 | 
 | 2022-12-25 | 120 | 3 | 
 | 2022-12-24 | 120 | 3 | 
 | 2022-12-23 | 120 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 105 | 3 | 
 | 2022-11-28 | 106 | 3 | 
 | 2022-11-27 | 104 | 3 | 
-| 2022-11-26 | 103 | 3 | 
 

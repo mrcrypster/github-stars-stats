@@ -1,6 +1,6 @@
 # bitwuzla/bitwuzla - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 74 | 13 | 
 | 2022-12-25 | 74 | 13 | 
 | 2022-12-24 | 74 | 13 | 
 | 2022-12-23 | 74 | 13 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-30 | 69 | 13 | 
 | 2022-11-29 | 69 | 13 | 
 | 2022-11-28 | 69 | 13 | 
-| 2022-11-27 | 69 | 13 | 
 

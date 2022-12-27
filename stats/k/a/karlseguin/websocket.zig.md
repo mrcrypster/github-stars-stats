@@ -1,10 +1,10 @@
 # karlseguin/websocket.zig - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 2
 
-★ Stars: 65
+★ Stars: 66
 
 [Open repository](https://github.com/karlseguin/websocket.zig)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 66 | 2 | 
 | 2022-12-25 | 65 | 2 | 
 | 2022-12-24 | 65 | 2 | 
 | 2022-12-23 | 65 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 62 | 2 | 
 | 2022-11-28 | 62 | 2 | 
 | 2022-11-27 | 61 | 2 | 
-| 2022-11-26 | 61 | 2 | 
 

@@ -1,10 +1,10 @@
 # Nefcore/CRLFsuite - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 61
 
-★ Stars: 336
+★ Stars: 338
 
 [Open repository](https://github.com/Nefcore/CRLFsuite)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 338 | 61 | 
 | 2022-12-25 | 336 | 61 | 
 | 2022-12-24 | 336 | 61 | 
 | 2022-12-23 | 336 | 61 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 332 | 60 | 
 | 2022-11-28 | 332 | 60 | 
 | 2022-11-27 | 332 | 60 | 
-| 2022-11-26 | 332 | 60 | 
 

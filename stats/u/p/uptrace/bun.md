@@ -1,10 +1,10 @@
 # uptrace/bun - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
-☋ Forks: 117
+☋ Forks: 118
 
-★ Stars: 1750
+★ Stars: 1755
 
 [Open repository](https://github.com/uptrace/bun)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 1755 | 118 | 
 | 2022-12-25 | 1750 | 117 | 
 | 2022-12-24 | 1744 | 117 | 
 | 2022-12-23 | 1744 | 117 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 1671 | 114 | 
 | 2022-11-28 | 1670 | 114 | 
 | 2022-11-27 | 1667 | 114 | 
-| 2022-11-26 | 1664 | 114 | 
 

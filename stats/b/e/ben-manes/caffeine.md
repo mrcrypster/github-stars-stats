@@ -1,10 +1,10 @@
 # ben-manes/caffeine - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 1388
 
-★ Stars: 12918
+★ Stars: 12920
 
 [Open repository](https://github.com/ben-manes/caffeine)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 12920 | 1388 | 
 | 2022-12-25 | 12918 | 1388 | 
 | 2022-12-24 | 12914 | 1388 | 
 | 2022-12-23 | 12915 | 1388 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-30 | 12802 | 1379 | 
 | 2022-11-29 | 12786 | 1378 | 
 | 2022-11-27 | 12779 | 1377 | 
-| 2022-11-26 | 12776 | 1378 | 
 

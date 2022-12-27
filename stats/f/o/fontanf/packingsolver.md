@@ -1,6 +1,6 @@
 # fontanf/packingsolver - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 40 | 7 | 
 | 2022-12-25 | 40 | 7 | 
 | 2022-12-24 | 39 | 7 | 
 | 2022-12-23 | 39 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 38 | 7 | 
 | 2022-11-28 | 38 | 7 | 
 | 2022-11-27 | 38 | 7 | 
-| 2022-11-26 | 38 | 7 | 
 

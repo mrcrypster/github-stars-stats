@@ -1,6 +1,6 @@
 # davidbombal/python-keylogger - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 151
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 460 | 151 | 
 | 2022-12-25 | 460 | 151 | 
 | 2022-12-24 | 461 | 151 | 
 | 2022-12-23 | 461 | 151 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 449 | 144 | 
 | 2022-11-28 | 449 | 144 | 
 | 2022-11-27 | 449 | 143 | 
-| 2022-11-26 | 447 | 143 | 
 

@@ -1,6 +1,6 @@
 # VBA-tools/VBA-JSON - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 447
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 1335 | 447 | 
 | 2022-12-25 | 1335 | 447 | 
 | 2022-12-24 | 1335 | 447 | 
 | 2022-12-23 | 1334 | 448 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 1320 | 443 | 
 | 2022-11-28 | 1319 | 443 | 
 | 2022-11-27 | 1319 | 443 | 
-| 2022-11-26 | 1318 | 443 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 26
 
-☋ Forks: 282
+☋ Forks: 283
 
-★ Stars: 1159
+★ Stars: 1176
 
 [Open repository](https://github.com/Evil0ctal/Douyin_TikTok_Download_API)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-26 | 1159 | 282 | 
+| 2022-12-26 | 1176 | 283 | 
 | 2022-12-25 | 1157 | 282 | 
 | 2022-12-24 | 1138 | 278 | 
 | 2022-12-23 | 1128 | 277 | 

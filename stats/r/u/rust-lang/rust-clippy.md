@@ -1,10 +1,10 @@
 # rust-lang/rust-clippy - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
-☋ Forks: 1138
+☋ Forks: 1139
 
-★ Stars: 8676
+★ Stars: 8684
 
 [Open repository](https://github.com/rust-lang/rust-clippy)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 8684 | 1139 | 
 | 2022-12-25 | 8676 | 1138 | 
 | 2022-12-24 | 8671 | 1136 | 
 | 2022-12-23 | 8661 | 1135 | 

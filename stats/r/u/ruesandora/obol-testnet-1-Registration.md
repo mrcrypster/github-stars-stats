@@ -1,6 +1,6 @@
 # ruesandora/obol-testnet-1-Registration - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 129
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 48 | 129 | 
 | 2022-12-25 | 48 | 129 | 
 | 2022-12-24 | 48 | 129 | 
 | 2022-12-23 | 48 | 129 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 45 | 125 | 
 | 2022-11-28 | 45 | 125 | 
 | 2022-11-27 | 45 | 125 | 
-| 2022-11-26 | 45 | 125 | 
 

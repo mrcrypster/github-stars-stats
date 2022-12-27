@@ -1,10 +1,10 @@
 # PlutoSolutions/Future - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 27
 
-☋ Forks: 11
+☋ Forks: 12
 
-★ Stars: 47
+★ Stars: 50
 
 [Open repository](https://github.com/PlutoSolutions/Future)
 
@@ -13,5 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 50 | 12 | 
+| 2022-12-26 | 50 | 12 | 
 | 2022-12-25 | 47 | 11 | 
 

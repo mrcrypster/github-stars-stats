@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 26
 
 ☋ Forks: 28
 
-★ Stars: 48
+★ Stars: 50
 
 [Open repository](https://github.com/Igang-Fan-Jing/HDIP-YOLO)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-26 | 48 | 28 | 
+| 2022-12-26 | 50 | 28 | 
 | 2022-12-25 | 48 | 28 | 
 | 2022-12-24 | 44 | 26 | 
 | 2022-12-23 | 38 | 21 | 

@@ -1,6 +1,6 @@
 # oruga-ui/oruga - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 136
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 883 | 136 | 
 | 2022-12-25 | 883 | 136 | 
 | 2022-12-24 | 882 | 136 | 
 | 2022-12-23 | 882 | 136 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 872 | 134 | 
 | 2022-11-28 | 870 | 134 | 
 | 2022-11-27 | 870 | 134 | 
-| 2022-11-26 | 870 | 134 | 
 

@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 26
 
 ☋ Forks: 2
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/emo-eth/create2-helpers)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-26 | 30 | 2 | 
+| 2022-12-26 | 31 | 2 | 
 | 2022-12-25 | 30 | 2 | 
 | 2022-12-24 | 26 | 2 | 
 

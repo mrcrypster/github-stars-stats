@@ -1,10 +1,10 @@
 # 1031918012/MerryChristmas - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 24
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/1031918012/MerryChristmas)
 
@@ -13,5 +13,6 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 7 | 24 | 
 | 2022-12-25 | 6 | 24 | 
 

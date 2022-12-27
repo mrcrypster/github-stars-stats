@@ -1,10 +1,10 @@
 # erc721r/ERC721R - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 22
 
-★ Stars: 79
+★ Stars: 80
 
 [Open repository](https://github.com/erc721r/ERC721R)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 80 | 22 | 
 | 2022-12-25 | 79 | 22 | 
 | 2022-12-24 | 79 | 22 | 
 | 2022-12-23 | 79 | 22 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 78 | 22 | 
 | 2022-11-28 | 78 | 22 | 
 | 2022-11-27 | 78 | 22 | 
-| 2022-11-26 | 78 | 22 | 
 

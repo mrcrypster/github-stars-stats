@@ -1,10 +1,10 @@
 # Kyome22/RunCat_for_windows - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 439
 
-★ Stars: 4483
+★ Stars: 4493
 
 [Open repository](https://github.com/Kyome22/RunCat_for_windows)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 4493 | 439 | 
 | 2022-12-25 | 4483 | 439 | 
 | 2022-12-24 | 4480 | 439 | 
 | 2022-12-23 | 4458 | 437 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 4425 | 436 | 
 | 2022-11-28 | 4423 | 436 | 
 | 2022-11-27 | 4422 | 436 | 
-| 2022-11-26 | 4417 | 436 | 
 

@@ -1,8 +1,8 @@
 # eraporsmk/erapor6 - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
-☋ Forks: 22
+☋ Forks: 23
 
 ★ Stars: 26
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 26 | 23 | 
 | 2022-12-25 | 26 | 22 | 
 | 2022-12-24 | 26 | 22 | 
 | 2022-12-23 | 25 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 10 | 8 | 
 | 2022-11-28 | 10 | 8 | 
 | 2022-11-27 | 10 | 7 | 
-| 2022-11-26 | 10 | 6 | 
 

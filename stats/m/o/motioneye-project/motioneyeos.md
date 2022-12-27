@@ -1,6 +1,6 @@
 # motioneye-project/motioneyeos - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 839
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 7248 | 839 | 
 | 2022-12-25 | 7248 | 839 | 
 | 2022-12-24 | 7246 | 839 | 
 | 2022-12-23 | 7245 | 839 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 7224 | 837 | 
 | 2022-11-28 | 7224 | 837 | 
 | 2022-11-27 | 7223 | 837 | 
-| 2022-11-26 | 7221 | 836 | 
 

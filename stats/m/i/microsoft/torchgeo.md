@@ -1,10 +1,10 @@
 # microsoft/torchgeo - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
-☋ Forks: 146
+☋ Forks: 147
 
-★ Stars: 1248
+★ Stars: 1250
 
 [Open repository](https://github.com/microsoft/torchgeo)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 1250 | 147 | 
 | 2022-12-25 | 1248 | 146 | 
 | 2022-12-24 | 1246 | 146 | 
 | 2022-12-23 | 1243 | 146 | 

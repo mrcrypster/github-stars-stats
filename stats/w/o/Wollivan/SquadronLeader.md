@@ -1,6 +1,6 @@
 # Wollivan/SquadronLeader - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 21 | 6 | 
 | 2022-12-25 | 21 | 6 | 
 | 2022-12-24 | 21 | 6 | 
 | 2022-12-23 | 21 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 20 | 6 | 
 | 2022-11-28 | 20 | 6 | 
 | 2022-11-27 | 20 | 6 | 
-| 2022-11-26 | 20 | 6 | 
 

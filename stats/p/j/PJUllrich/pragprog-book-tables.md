@@ -1,6 +1,6 @@
 # PJUllrich/pragprog-book-tables - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 10 | 3 | 
 | 2022-12-25 | 10 | 3 | 
 | 2022-12-24 | 10 | 3 | 
 | 2022-12-23 | 10 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 9 | 2 | 
 | 2022-11-28 | 9 | 2 | 
 | 2022-11-27 | 9 | 2 | 
-| 2022-11-26 | 9 | 2 | 
 

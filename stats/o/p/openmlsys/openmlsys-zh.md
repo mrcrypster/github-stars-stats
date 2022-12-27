@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 26
 
 ☋ Forks: 290
 
-★ Stars: 2211
+★ Stars: 2213
 
 [Open repository](https://github.com/openmlsys/openmlsys-zh)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-26 | 2211 | 290 | 
+| 2022-12-26 | 2213 | 290 | 
 | 2022-12-25 | 2211 | 290 | 
 | 2022-12-24 | 2211 | 290 | 
 | 2022-12-23 | 2206 | 290 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-29 | 2156 | 287 | 
 | 2022-11-28 | 2154 | 288 | 
 | 2022-11-27 | 2148 | 288 | 
-| 2022-11-26 | 2147 | 288 | 
 

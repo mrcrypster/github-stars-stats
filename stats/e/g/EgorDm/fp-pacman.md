@@ -1,6 +1,6 @@
 # EgorDm/fp-pacman - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 15 | 1 | 
 | 2022-12-25 | 15 | 1 | 
 | 2022-12-24 | 15 | 1 | 
 | 2022-12-23 | 15 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 14 | 1 | 
 | 2022-11-28 | 14 | 1 | 
 | 2022-11-27 | 14 | 1 | 
-| 2022-11-26 | 14 | 1 | 
 

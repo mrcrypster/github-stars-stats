@@ -1,6 +1,6 @@
 # ucb-bar/cva6-wrapper - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 17 | 14 | 
 | 2022-12-25 | 17 | 14 | 
 | 2022-12-24 | 17 | 14 | 
 | 2022-12-23 | 17 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 17 | 14 | 
 | 2022-11-28 | 17 | 14 | 
 | 2022-11-27 | 17 | 14 | 
-| 2022-11-26 | 17 | 14 | 
 

@@ -1,6 +1,6 @@
 # fabianschmauder/cgn-aws-22-3-job-notifier - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 1 | 12 | 
 | 2022-12-25 | 1 | 12 | 
 | 2022-12-24 | 1 | 12 | 
 | 2022-12-23 | 1 | 12 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-30 | 1 | 10 | 
 | 2022-11-29 | 1 | 10 | 
 | 2022-11-27 | 1 | 10 | 
-| 2022-11-26 | 1 | 10 | 
 

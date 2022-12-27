@@ -1,6 +1,6 @@
 # ent/ent - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 735
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 12621 | 735 | 
 | 2022-12-25 | 12621 | 735 | 
 | 2022-12-24 | 12620 | 734 | 
 | 2022-12-23 | 12614 | 734 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 12457 | 726 | 
 | 2022-11-28 | 12441 | 726 | 
 | 2022-11-27 | 12436 | 724 | 
-| 2022-11-26 | 12430 | 723 | 
 

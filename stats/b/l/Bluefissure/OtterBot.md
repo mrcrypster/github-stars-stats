@@ -1,6 +1,6 @@
 # Bluefissure/OtterBot - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 133
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 475 | 133 | 
 | 2022-12-25 | 475 | 133 | 
 | 2022-12-24 | 475 | 133 | 
 | 2022-12-23 | 474 | 133 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 468 | 133 | 
 | 2022-11-28 | 468 | 133 | 
 | 2022-11-27 | 468 | 133 | 
-| 2022-11-26 | 468 | 133 | 
 

@@ -1,6 +1,6 @@
 # javaparser/javaparser - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 1004
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 4472 | 1004 | 
 | 2022-12-25 | 4472 | 1004 | 
 | 2022-12-24 | 4472 | 1004 | 
 | 2022-12-23 | 4472 | 1004 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 4449 | 998 | 
 | 2022-11-28 | 4447 | 998 | 
 | 2022-11-27 | 4446 | 998 | 
-| 2022-11-26 | 4447 | 997 | 
 

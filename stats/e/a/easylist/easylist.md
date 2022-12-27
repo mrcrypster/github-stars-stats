@@ -1,8 +1,8 @@
 # easylist/easylist - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
-☋ Forks: 561
+☋ Forks: 562
 
 ★ Stars: 1461
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 1461 | 562 | 
 | 2022-12-25 | 1461 | 561 | 
 | 2022-12-24 | 1460 | 561 | 
 | 2022-12-23 | 1460 | 561 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 1435 | 553 | 
 | 2022-11-28 | 1435 | 553 | 
 | 2022-11-27 | 1436 | 553 | 
-| 2022-11-26 | 1433 | 554 | 
 

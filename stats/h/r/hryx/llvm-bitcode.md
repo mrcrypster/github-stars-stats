@@ -1,10 +1,10 @@
 # hryx/llvm-bitcode - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 0
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/hryx/llvm-bitcode)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 16 | - | 
 | 2022-12-25 | 15 | - | 
 | 2022-12-24 | 15 | - | 
 | 2022-12-23 | 15 | - | 

@@ -1,10 +1,10 @@
 # StevenWeathers/thunderdome-planning-poker - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 67
 
-★ Stars: 240
+★ Stars: 241
 
 [Open repository](https://github.com/StevenWeathers/thunderdome-planning-poker)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 241 | 67 | 
 | 2022-12-25 | 240 | 67 | 
 | 2022-12-24 | 240 | 67 | 
 | 2022-12-23 | 240 | 67 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 231 | 65 | 
 | 2022-11-28 | 231 | 65 | 
 | 2022-11-27 | 230 | 65 | 
-| 2022-11-26 | 230 | 65 | 
 

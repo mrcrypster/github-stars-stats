@@ -1,6 +1,6 @@
 # OPENCYBER-FR/RustHound - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 409 | 28 | 
 | 2022-12-25 | 409 | 28 | 
 | 2022-12-24 | 409 | 28 | 
 | 2022-12-23 | 404 | 28 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 368 | 24 | 
 | 2022-11-28 | 368 | 24 | 
 | 2022-11-27 | 368 | 24 | 
-| 2022-11-26 | 368 | 23 | 
 

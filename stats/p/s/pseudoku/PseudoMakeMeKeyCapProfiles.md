@@ -1,6 +1,6 @@
 # pseudoku/PseudoMakeMeKeyCapProfiles - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 284 | 26 | 
 | 2022-12-25 | 284 | 26 | 
 | 2022-12-24 | 284 | 26 | 
 | 2022-12-23 | 282 | 26 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 273 | 25 | 
 | 2022-11-28 | 273 | 25 | 
 | 2022-11-27 | 273 | 25 | 
-| 2022-11-26 | 273 | 25 | 
 

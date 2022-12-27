@@ -1,10 +1,10 @@
 # accurics/terrascan - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 438
 
-★ Stars: 3786
+★ Stars: 3787
 
 [Open repository](https://github.com/accurics/terrascan)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 3787 | 438 | 
 | 2022-12-25 | 3786 | 438 | 
 | 2022-12-24 | 3786 | 436 | 
 | 2022-12-23 | 3784 | 436 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 3740 | 426 | 
 | 2022-11-28 | 3737 | 426 | 
 | 2022-11-27 | 3736 | 426 | 
-| 2022-11-26 | 3735 | 426 | 
 

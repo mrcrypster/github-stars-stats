@@ -1,6 +1,6 @@
 # titzer/virgil - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 672 | 16 | 
 | 2022-12-25 | 672 | 16 | 
 | 2022-12-24 | 672 | 16 | 
 | 2022-12-23 | 672 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 661 | 16 | 
 | 2022-11-28 | 661 | 16 | 
 | 2022-11-27 | 660 | 16 | 
-| 2022-11-26 | 660 | 16 | 
 

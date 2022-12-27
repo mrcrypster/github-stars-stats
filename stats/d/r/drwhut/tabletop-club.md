@@ -1,6 +1,6 @@
 # drwhut/tabletop-club - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 748 | 26 | 
 | 2022-12-25 | 748 | 26 | 
 | 2022-12-24 | 748 | 26 | 
 | 2022-12-23 | 746 | 25 | 

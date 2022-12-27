@@ -1,10 +1,10 @@
 # bailicangdu/vue2-happyfri - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 2866
 
-★ Stars: 9979
+★ Stars: 9981
 
 [Open repository](https://github.com/bailicangdu/vue2-happyfri)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 9981 | 2866 | 
 | 2022-12-25 | 9979 | 2866 | 
 | 2022-12-24 | 9976 | 2866 | 
 | 2022-12-23 | 9976 | 2866 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 9957 | 2863 | 
 | 2022-11-28 | 9956 | 2862 | 
 | 2022-11-27 | 9955 | 2862 | 
-| 2022-11-26 | 9955 | 2861 | 
 

@@ -1,10 +1,10 @@
 # InsertKoinIO/koin - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 595
 
-★ Stars: 7762
+★ Stars: 7763
 
 [Open repository](https://github.com/InsertKoinIO/koin)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 7763 | 595 | 
 | 2022-12-25 | 7762 | 595 | 
 | 2022-12-24 | 7760 | 595 | 
 | 2022-12-23 | 7758 | 595 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 7727 | 590 | 
 | 2022-11-28 | 7726 | 590 | 
 | 2022-11-27 | 7726 | 590 | 
-| 2022-11-26 | 7724 | 590 | 
 

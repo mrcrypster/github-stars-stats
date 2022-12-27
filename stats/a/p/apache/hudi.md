@@ -1,6 +1,6 @@
 # apache/hudi - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 1728
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 3760 | 1728 | 
 | 2022-12-25 | 3760 | 1728 | 
 | 2022-12-24 | 3759 | 1728 | 
 | 2022-12-23 | 3755 | 1727 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 3712 | 1713 | 
 | 2022-11-28 | 3710 | 1713 | 
 | 2022-11-27 | 3709 | 1713 | 
-| 2022-11-26 | 3708 | 1713 | 
 

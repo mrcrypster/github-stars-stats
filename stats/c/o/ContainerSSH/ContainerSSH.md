@@ -1,10 +1,10 @@
 # ContainerSSH/ContainerSSH - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 48
 
-★ Stars: 2042
+★ Stars: 2044
 
 [Open repository](https://github.com/ContainerSSH/ContainerSSH)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 2044 | 48 | 
 | 2022-12-25 | 2042 | 48 | 
 | 2022-12-24 | 2042 | 48 | 
 | 2022-12-23 | 2042 | 48 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 1974 | 45 | 
 | 2022-11-28 | 1968 | 46 | 
 | 2022-11-27 | 1958 | 46 | 
-| 2022-11-26 | 1946 | 46 | 
 

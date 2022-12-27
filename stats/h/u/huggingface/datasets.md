@@ -1,6 +1,6 @@
 # huggingface/datasets - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 1948
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 14962 | 1948 | 
 | 2022-12-25 | 14962 | 1948 | 
 | 2022-12-24 | 14955 | 1948 | 
 | 2022-12-23 | 14948 | 1947 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 14804 | 1924 | 
 | 2022-11-28 | 14794 | 1923 | 
 | 2022-11-27 | 14793 | 1923 | 
-| 2022-11-26 | 14788 | 1923 | 
 

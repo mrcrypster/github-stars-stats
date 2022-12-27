@@ -1,8 +1,8 @@
 # riti2409/Dynamic-Programming-Notes - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
-☋ Forks: 124
+☋ Forks: 125
 
 ★ Stars: 330
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 330 | 125 | 
 | 2022-12-25 | 330 | 124 | 
 | 2022-12-24 | 330 | 124 | 
 | 2022-12-23 | 330 | 124 | 

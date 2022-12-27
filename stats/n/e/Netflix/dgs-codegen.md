@@ -1,6 +1,6 @@
 # Netflix/dgs-codegen - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 134 | 68 | 
 | 2022-12-25 | 134 | 68 | 
 | 2022-12-24 | 133 | 68 | 
 | 2022-12-23 | 133 | 68 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 130 | 65 | 
 | 2022-11-28 | 130 | 65 | 
 | 2022-11-27 | 130 | 65 | 
-| 2022-11-26 | 130 | 65 | 
 

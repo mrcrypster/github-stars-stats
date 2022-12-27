@@ -1,10 +1,10 @@
 # ReactiveX/rxjs - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
-☋ Forks: 2905
+☋ Forks: 2906
 
-★ Stars: 28181
+★ Stars: 28187
 
 [Open repository](https://github.com/ReactiveX/rxjs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 28187 | 2906 | 
 | 2022-12-25 | 28181 | 2905 | 
 | 2022-12-24 | 28177 | 2906 | 
 | 2022-12-23 | 28173 | 2905 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 28047 | 2891 | 
 | 2022-11-28 | 28046 | 2891 | 
 | 2022-11-27 | 28036 | 2890 | 
-| 2022-11-26 | 28029 | 2890 | 
 

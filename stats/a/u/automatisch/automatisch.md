@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 26
 
 ☋ Forks: 29
 
-★ Stars: 556
+★ Stars: 562
 
 [Open repository](https://github.com/automatisch/automatisch)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-26 | 556 | 29 | 
+| 2022-12-26 | 562 | 29 | 
 | 2022-12-25 | 552 | 29 | 
 

@@ -1,6 +1,6 @@
 # 4paradigm/AutoX - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 152
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 431 | 152 | 
 | 2022-12-25 | 431 | 152 | 
 | 2022-12-24 | 431 | 152 | 
 | 2022-12-23 | 431 | 152 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 425 | 151 | 
 | 2022-11-28 | 424 | 151 | 
 | 2022-11-27 | 424 | 151 | 
-| 2022-11-26 | 424 | 151 | 
 

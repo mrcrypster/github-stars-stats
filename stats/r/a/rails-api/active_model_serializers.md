@@ -1,10 +1,10 @@
 # rails-api/active_model_serializers - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 1399
 
-★ Stars: 5255
+★ Stars: 5256
 
 [Open repository](https://github.com/rails-api/active_model_serializers)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 5256 | 1399 | 
 | 2022-12-25 | 5255 | 1399 | 
 | 2022-12-24 | 5255 | 1399 | 
 | 2022-12-23 | 5255 | 1399 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 5252 | 1395 | 
 | 2022-11-28 | 5249 | 1396 | 
 | 2022-11-27 | 5249 | 1396 | 
-| 2022-11-26 | 5250 | 1396 | 
 

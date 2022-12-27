@@ -1,6 +1,6 @@
 # SciML/SciMLWorkshop.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 33 | 3 | 
 | 2022-12-25 | 33 | 3 | 
 | 2022-12-24 | 33 | 3 | 
 | 2022-12-23 | 32 | 3 | 

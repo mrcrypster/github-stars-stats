@@ -1,10 +1,10 @@
 # NoahZinsmeister/franchiser - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 6
 
-★ Stars: 79
+★ Stars: 78
 
 [Open repository](https://github.com/NoahZinsmeister/franchiser)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 78 | 6 | 
 | 2022-12-25 | 79 | 6 | 
 | 2022-12-24 | 79 | 6 | 
 | 2022-12-23 | 79 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 76 | 6 | 
 | 2022-11-28 | 76 | 6 | 
 | 2022-11-27 | 76 | 6 | 
-| 2022-11-26 | 76 | 6 | 
 

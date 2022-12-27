@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 26
 
 ☋ Forks: 31
 
-★ Stars: 140
+★ Stars: 142
 
 [Open repository](https://github.com/ldkong1205/PointCloud-C)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-26 | 140 | 31 | 
+| 2022-12-26 | 142 | 31 | 
 | 2022-12-25 | 140 | 31 | 
 | 2022-12-24 | 128 | 28 | 
 | 2022-12-23 | 113 | 23 | 

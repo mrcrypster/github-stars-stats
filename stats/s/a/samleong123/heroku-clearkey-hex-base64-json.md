@@ -1,6 +1,6 @@
 # samleong123/heroku-clearkey-hex-base64-json - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 14 | 34 | 
 | 2022-12-25 | 14 | 34 | 
 | 2022-12-24 | 14 | 34 | 
 | 2022-12-23 | 14 | 33 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 12 | 32 | 
 | 2022-11-28 | 12 | 33 | 
 | 2022-11-27 | 12 | 31 | 
-| 2022-11-26 | 12 | 31 | 
 

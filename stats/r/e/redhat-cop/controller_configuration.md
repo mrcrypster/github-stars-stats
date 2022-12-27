@@ -1,6 +1,6 @@
 # redhat-cop/controller_configuration - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 88
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 182 | 88 | 
 | 2022-12-25 | 182 | 88 | 
 | 2022-12-24 | 182 | 88 | 
 | 2022-12-23 | 182 | 89 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-30 | 178 | 87 | 
 | 2022-11-29 | 177 | 87 | 
 | 2022-11-27 | 176 | 87 | 
-| 2022-11-26 | 176 | 87 | 
 

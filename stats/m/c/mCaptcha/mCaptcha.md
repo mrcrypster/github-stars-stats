@@ -1,10 +1,10 @@
 # mCaptcha/mCaptcha - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 25
 
-★ Stars: 812
+★ Stars: 813
 
 [Open repository](https://github.com/mCaptcha/mCaptcha)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 813 | 25 | 
 | 2022-12-25 | 812 | 25 | 
 | 2022-12-24 | 811 | 25 | 
 | 2022-12-23 | 811 | 25 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 796 | 25 | 
 | 2022-11-28 | 795 | 25 | 
 | 2022-11-27 | 795 | 25 | 
-| 2022-11-26 | 795 | 25 | 
 

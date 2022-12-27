@@ -1,10 +1,10 @@
 # transmissions11/solmate - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 409
 
-★ Stars: 2690
+★ Stars: 2693
 
 [Open repository](https://github.com/transmissions11/solmate)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 2693 | 409 | 
 | 2022-12-25 | 2690 | 409 | 
 | 2022-12-24 | 2690 | 408 | 
 | 2022-12-23 | 2689 | 408 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 2615 | 397 | 
 | 2022-11-28 | 2612 | 397 | 
 | 2022-11-27 | 2608 | 397 | 
-| 2022-11-26 | 2605 | 396 | 
 

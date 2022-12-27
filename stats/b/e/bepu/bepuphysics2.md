@@ -1,10 +1,10 @@
 # bepu/bepuphysics2 - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 186
 
-★ Stars: 1465
+★ Stars: 1466
 
 [Open repository](https://github.com/bepu/bepuphysics2)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 1466 | 186 | 
 | 2022-12-25 | 1465 | 186 | 
 | 2022-12-24 | 1465 | 186 | 
 | 2022-12-23 | 1464 | 186 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 1446 | 183 | 
 | 2022-11-28 | 1443 | 182 | 
 | 2022-11-27 | 1441 | 182 | 
-| 2022-11-26 | 1441 | 182 | 
 

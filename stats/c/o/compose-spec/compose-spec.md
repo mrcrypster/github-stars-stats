@@ -1,8 +1,8 @@
 # compose-spec/compose-spec - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
-☋ Forks: 671
+☋ Forks: 670
 
 ★ Stars: 1532
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 1532 | 670 | 
 | 2022-12-25 | 1532 | 671 | 
 | 2022-12-24 | 1532 | 671 | 
 | 2022-12-23 | 1528 | 671 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 1506 | 662 | 
 | 2022-11-28 | 1503 | 663 | 
 | 2022-11-27 | 1503 | 663 | 
-| 2022-11-26 | 1503 | 663 | 
 

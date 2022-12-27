@@ -1,6 +1,6 @@
 # StuartJO/plotSurfaceROIBoundary - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 47 | 12 | 
 | 2022-12-25 | 47 | 12 | 
 | 2022-12-24 | 47 | 12 | 
 | 2022-12-23 | 47 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 44 | 12 | 
 | 2022-11-28 | 44 | 12 | 
 | 2022-11-27 | 44 | 12 | 
-| 2022-11-26 | 44 | 12 | 
 

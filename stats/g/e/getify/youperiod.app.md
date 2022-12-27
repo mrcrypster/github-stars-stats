@@ -1,6 +1,6 @@
 # getify/youperiod.app - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 78
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 417 | 78 | 
 | 2022-12-25 | 417 | 78 | 
 | 2022-12-24 | 417 | 79 | 
 | 2022-12-23 | 417 | 79 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-30 | 415 | 80 | 
 | 2022-11-29 | 415 | 80 | 
 | 2022-11-28 | 415 | 80 | 
-| 2022-11-27 | 415 | 80 | 
 

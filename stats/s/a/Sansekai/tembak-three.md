@@ -1,6 +1,6 @@
 # Sansekai/tembak-three - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 8 | 13 | 
 | 2022-12-26 | 8 | 13 | 
 | 2022-12-25 | 8 | 13 | 
 | 2022-12-23 | 8 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-29 | 7 | 13 | 
 | 2022-11-28 | 7 | 13 | 
 | 2022-11-27 | 7 | 13 | 
-| 2022-11-26 | 7 | 13 | 
 

@@ -1,10 +1,10 @@
 # Nixtla/neuralforecast - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 95
 
-★ Stars: 1094
+★ Stars: 1095
 
 [Open repository](https://github.com/Nixtla/neuralforecast)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 1095 | 95 | 
 | 2022-12-25 | 1094 | 95 | 
 | 2022-12-24 | 1091 | 94 | 
 | 2022-12-23 | 1090 | 93 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 979 | 88 | 
 | 2022-11-28 | 977 | 88 | 
 | 2022-11-27 | 977 | 88 | 
-| 2022-11-26 | 976 | 88 | 
 

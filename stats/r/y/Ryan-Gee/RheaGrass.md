@@ -1,10 +1,10 @@
 # Ryan-Gee/RheaGrass - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 19
 
-★ Stars: 278
+★ Stars: 279
 
 [Open repository](https://github.com/Ryan-Gee/RheaGrass)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 279 | 19 | 
 | 2022-12-25 | 278 | 19 | 
 | 2022-12-24 | 278 | 19 | 
 | 2022-12-23 | 278 | 19 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 279 | 19 | 
 | 2022-11-28 | 279 | 19 | 
 | 2022-11-27 | 279 | 19 | 
-| 2022-11-26 | 279 | 19 | 
 

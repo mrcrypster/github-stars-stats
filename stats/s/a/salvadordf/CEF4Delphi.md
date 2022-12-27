@@ -1,6 +1,6 @@
 # salvadordf/CEF4Delphi - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 322
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 1005 | 322 | 
+| 2022-12-26 | 1005 | 322 | 
 | 2022-12-25 | 1005 | 322 | 
 | 2022-12-24 | 1005 | 322 | 
 | 2022-12-23 | 1005 | 322 | 
@@ -41,5 +43,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 997 | 318 | 
 | 2022-11-28 | 997 | 318 | 
 | 2022-11-27 | 997 | 318 | 
-| 2022-11-26 | 997 | 318 | 
 

@@ -1,10 +1,10 @@
 # alibaba/jvm-sandbox - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
-☋ Forks: 1382
+☋ Forks: 1383
 
-★ Stars: 5428
+★ Stars: 5429
 
 [Open repository](https://github.com/alibaba/jvm-sandbox)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 5429 | 1383 | 
 | 2022-12-25 | 5428 | 1382 | 
 | 2022-12-24 | 5427 | 1382 | 
 | 2022-12-23 | 5425 | 1382 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 5381 | 1376 | 
 | 2022-11-28 | 5377 | 1375 | 
 | 2022-11-27 | 5374 | 1375 | 
-| 2022-11-26 | 5374 | 1375 | 
 

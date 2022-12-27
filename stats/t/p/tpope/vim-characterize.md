@@ -1,6 +1,6 @@
 # tpope/vim-characterize - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 259 | 21 | 
 | 2022-12-25 | 259 | 21 | 
 | 2022-12-24 | 259 | 21 | 
 | 2022-12-23 | 259 | 21 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 250 | 20 | 
 | 2022-11-28 | 250 | 20 | 
 | 2022-11-27 | 250 | 20 | 
-| 2022-11-26 | 250 | 20 | 
 

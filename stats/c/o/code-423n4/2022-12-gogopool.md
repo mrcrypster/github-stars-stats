@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 26
 
-☋ Forks: 9
+☋ Forks: 10
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/code-423n4/2022-12-gogopool)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-26 | 5 | 9 | 
+| 2022-12-26 | 6 | 10 | 
 | 2022-12-25 | 5 | 9 | 
 | 2022-12-24 | 5 | 9 | 
 | 2022-12-23 | 3 | 7 | 

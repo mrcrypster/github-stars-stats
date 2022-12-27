@@ -1,10 +1,10 @@
 # liuke-wuhan/ZuAnBot - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 32
 
-★ Stars: 217
+★ Stars: 219
 
 [Open repository](https://github.com/liuke-wuhan/ZuAnBot)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 219 | 32 | 
 | 2022-12-25 | 217 | 32 | 
 | 2022-12-24 | 217 | 32 | 
 | 2022-12-23 | 217 | 32 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 208 | 29 | 
 | 2022-11-28 | 208 | 29 | 
 | 2022-11-27 | 207 | 29 | 
-| 2022-11-26 | 207 | 29 | 
 

@@ -1,6 +1,6 @@
 # ddsolvation/ddX - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 8 | 2 | 
 | 2022-12-26 | 8 | 2 | 
 | 2022-12-24 | 8 | 2 | 
 | 2022-12-23 | 8 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-29 | 7 | 2 | 
 | 2022-11-28 | 7 | 2 | 
 | 2022-11-27 | 7 | 2 | 
-| 2022-11-26 | 7 | 2 | 
 

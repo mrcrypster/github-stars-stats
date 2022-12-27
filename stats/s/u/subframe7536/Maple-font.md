@@ -1,6 +1,6 @@
 # subframe7536/Maple-font - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 1384 | 26 | 
 | 2022-12-25 | 1384 | 26 | 
 | 2022-12-24 | 1384 | 26 | 
 | 2022-12-23 | 1384 | 26 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 1347 | 25 | 
 | 2022-11-28 | 1346 | 25 | 
 | 2022-11-27 | 1346 | 25 | 
-| 2022-11-26 | 1345 | 25 | 
 

@@ -1,8 +1,8 @@
 # bestchains/bc-console - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 1 | 2 | 
 | 2022-12-25 | 1 | 1 | 
 | 2022-12-24 | 1 | 1 | 
 | 2022-12-23 | 1 | 1 | 

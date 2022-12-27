@@ -1,8 +1,8 @@
 # picotorrent/picotorrent - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
-☋ Forks: 171
+☋ Forks: 169
 
 ★ Stars: 2312
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 2312 | 169 | 
 | 2022-12-25 | 2312 | 171 | 
 | 2022-12-24 | 2311 | 171 | 
 | 2022-12-23 | 2312 | 171 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 2293 | 170 | 
 | 2022-11-28 | 2292 | 170 | 
 | 2022-11-27 | 2291 | 170 | 
-| 2022-11-26 | 2291 | 170 | 
 

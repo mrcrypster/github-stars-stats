@@ -1,6 +1,6 @@
 # dzhang32/ggtranscript - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 71 | 6 | 
 | 2022-12-25 | 71 | 6 | 
 | 2022-12-24 | 71 | 6 | 
 | 2022-12-23 | 71 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 68 | 6 | 
 | 2022-11-28 | 68 | 6 | 
 | 2022-11-27 | 68 | 6 | 
-| 2022-11-26 | 68 | 6 | 
 

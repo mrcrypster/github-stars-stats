@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 26
 
 ☋ Forks: 1
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/qualtrics/qualtrics-digital-ios-sdk)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-26 | 1 | 1 | 
+| 2022-12-26 | 2 | 1 | 
 | 2022-12-25 | 1 | 1 | 
 | 2022-12-24 | 1 | 1 | 
 | 2022-12-23 | 1 | 1 | 

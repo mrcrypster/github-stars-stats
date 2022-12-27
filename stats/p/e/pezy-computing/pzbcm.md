@@ -1,10 +1,10 @@
 # pezy-computing/pzbcm - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 0
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/pezy-computing/pzbcm)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 17 | - | 
 | 2022-12-25 | 16 | - | 
 | 2022-12-24 | 16 | - | 
 | 2022-12-23 | 15 | - | 

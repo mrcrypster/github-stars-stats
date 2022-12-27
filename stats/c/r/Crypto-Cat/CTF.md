@@ -1,10 +1,10 @@
 # Crypto-Cat/CTF - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 27
 
-☋ Forks: 143
+☋ Forks: 144
 
-★ Stars: 562
+★ Stars: 563
 
 [Open repository](https://github.com/Crypto-Cat/CTF)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 563 | 144 | 
 | 2022-12-25 | 562 | 143 | 
 | 2022-12-24 | 561 | 143 | 
 | 2022-12-23 | 560 | 143 | 

@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 26
 
 ☋ Forks: 87
 
-★ Stars: 407
+★ Stars: 408
 
 [Open repository](https://github.com/djdallmann/GamingPCSetup)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-26 | 407 | 87 | 
+| 2022-12-26 | 408 | 87 | 
 | 2022-12-25 | 408 | 87 | 
 | 2022-12-24 | 406 | 86 | 
 | 2022-12-23 | 405 | 86 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 387 | 87 | 
 | 2022-11-29 | 386 | 87 | 
 | 2022-11-27 | 387 | 87 | 
-| 2022-11-26 | 387 | 87 | 
 

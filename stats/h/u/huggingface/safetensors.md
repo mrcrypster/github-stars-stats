@@ -1,10 +1,10 @@
 # huggingface/safetensors - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 12
 
-★ Stars: 378
+★ Stars: 381
 
 [Open repository](https://github.com/huggingface/safetensors)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 381 | 12 | 
 | 2022-12-25 | 378 | 12 | 
 | 2022-12-24 | 377 | 12 | 
 | 2022-12-23 | 376 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 283 | 9 | 
 | 2022-11-28 | 274 | 10 | 
 | 2022-11-27 | 265 | 9 | 
-| 2022-11-26 | 262 | 9 | 
 

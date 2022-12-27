@@ -1,6 +1,6 @@
 # Jeiwan/flash-loans-comparison - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 211 | 19 | 
 | 2022-12-25 | 211 | 19 | 
 | 2022-12-24 | 211 | 19 | 
 | 2022-12-23 | 209 | 19 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 201 | 18 | 
 | 2022-11-28 | 201 | 18 | 
 | 2022-11-27 | 201 | 18 | 
-| 2022-11-26 | 201 | 18 | 
 

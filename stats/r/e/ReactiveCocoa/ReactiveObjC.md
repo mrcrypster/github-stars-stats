@@ -1,6 +1,6 @@
 # ReactiveCocoa/ReactiveObjC - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 468
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 2506 | 468 | 
 | 2022-12-25 | 2506 | 468 | 
 | 2022-12-24 | 2506 | 468 | 
 | 2022-12-23 | 2506 | 468 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 2503 | 467 | 
 | 2022-11-28 | 2502 | 467 | 
 | 2022-11-27 | 2502 | 468 | 
-| 2022-11-26 | 2502 | 468 | 
 

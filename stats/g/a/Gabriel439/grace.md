@@ -1,6 +1,6 @@
 # Gabriel439/grace - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 330 | 25 | 
 | 2022-12-25 | 330 | 25 | 
 | 2022-12-24 | 330 | 25 | 
 | 2022-12-23 | 330 | 25 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-30 | 320 | 24 | 
 | 2022-11-29 | 320 | 24 | 
 | 2022-11-28 | 320 | 24 | 
-| 2022-11-27 | 319 | 24 | 
 

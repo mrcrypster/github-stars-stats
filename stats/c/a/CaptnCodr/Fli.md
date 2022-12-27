@@ -1,10 +1,10 @@
 # CaptnCodr/Fli - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 0
 
-★ Stars: 79
+★ Stars: 80
 
 [Open repository](https://github.com/CaptnCodr/Fli)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 80 | - | 
 | 2022-12-25 | 79 | - | 
 | 2022-12-24 | 78 | - | 
 | 2022-12-23 | 78 | - | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 74 | - | 
 | 2022-11-28 | 74 | - | 
 | 2022-11-27 | 74 | - | 
-| 2022-11-26 | 74 | - | 
 

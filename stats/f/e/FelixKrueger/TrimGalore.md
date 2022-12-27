@@ -1,6 +1,6 @@
 # FelixKrueger/TrimGalore - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 130
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 354 | 130 | 
 | 2022-12-25 | 354 | 130 | 
 | 2022-12-24 | 354 | 130 | 
 | 2022-12-23 | 354 | 130 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 351 | 130 | 
 | 2022-11-28 | 350 | 130 | 
 | 2022-11-27 | 350 | 130 | 
-| 2022-11-26 | 350 | 130 | 
 

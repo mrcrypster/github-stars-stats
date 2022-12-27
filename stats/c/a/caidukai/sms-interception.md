@@ -1,6 +1,6 @@
 # caidukai/sms-interception - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 59 | 11 | 
 | 2022-12-25 | 59 | 11 | 
 | 2022-12-24 | 59 | 11 | 
 | 2022-12-23 | 59 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 56 | 10 | 
 | 2022-11-28 | 54 | 10 | 
 | 2022-11-27 | 53 | 10 | 
-| 2022-11-26 | 53 | 10 | 
 

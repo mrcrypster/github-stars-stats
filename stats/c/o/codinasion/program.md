@@ -1,8 +1,8 @@
 # codinasion/program - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
-☋ Forks: 384
+☋ Forks: 386
 
 ★ Stars: 194
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 194 | 386 | 
 | 2022-12-25 | 194 | 384 | 
 | 2022-12-24 | 191 | 384 | 
 | 2022-12-23 | 191 | 383 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 186 | 352 | 
 | 2022-11-28 | 185 | 352 | 
 | 2022-11-27 | 184 | 352 | 
-| 2022-11-26 | 184 | 353 | 
 

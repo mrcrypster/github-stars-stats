@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 26
 
 ☋ Forks: 23
 
-★ Stars: 776
+★ Stars: 781
 
 [Open repository](https://github.com/PhilipK/BoilR)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-26 | 776 | 23 | 
+| 2022-12-26 | 781 | 23 | 
 | 2022-12-25 | 774 | 23 | 
 | 2022-12-24 | 754 | 23 | 
 | 2022-12-23 | 750 | 23 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-29 | 717 | 22 | 
 | 2022-11-28 | 713 | 23 | 
 | 2022-11-27 | 712 | 23 | 
-| 2022-11-26 | 711 | 23 | 
 

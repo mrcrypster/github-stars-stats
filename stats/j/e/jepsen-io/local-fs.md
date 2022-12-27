@@ -1,6 +1,6 @@
 # jepsen-io/local-fs - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 10 | 2 | 
 | 2022-12-25 | 10 | 2 | 
 | 2022-12-24 | 10 | 2 | 
 | 2022-12-23 | 10 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 8 | 2 | 
 | 2022-11-28 | 8 | 2 | 
 | 2022-11-27 | 8 | 2 | 
-| 2022-11-26 | 8 | 2 | 
 

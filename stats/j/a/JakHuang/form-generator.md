@@ -1,10 +1,10 @@
 # JakHuang/form-generator - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
-☋ Forks: 1866
+☋ Forks: 1867
 
-★ Stars: 7383
+★ Stars: 7384
 
 [Open repository](https://github.com/JakHuang/form-generator)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 7384 | 1867 | 
 | 2022-12-25 | 7383 | 1866 | 
 | 2022-12-24 | 7382 | 1866 | 
 | 2022-12-23 | 7376 | 1866 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 7218 | 1832 | 
 | 2022-11-28 | 7212 | 1831 | 
 | 2022-11-27 | 7211 | 1829 | 
-| 2022-11-26 | 7209 | 1828 | 
 

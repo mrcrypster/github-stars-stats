@@ -1,6 +1,6 @@
 # udalov/kotlin-vim - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 582 | 48 | 
 | 2022-12-26 | 582 | 48 | 
 | 2022-12-25 | 582 | 48 | 
 | 2022-12-23 | 582 | 48 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-29 | 582 | 48 | 
 | 2022-11-28 | 581 | 48 | 
 | 2022-11-27 | 581 | 48 | 
-| 2022-11-26 | 580 | 48 | 
 

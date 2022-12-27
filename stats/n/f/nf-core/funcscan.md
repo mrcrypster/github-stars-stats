@@ -1,10 +1,10 @@
 # nf-core/funcscan - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 5
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/nf-core/funcscan)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 17 | 5 | 
 | 2022-12-25 | 16 | 5 | 
 | 2022-12-24 | 16 | 5 | 
 | 2022-12-23 | 16 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 14 | 5 | 
 | 2022-11-28 | 14 | 5 | 
 | 2022-11-27 | 14 | 5 | 
-| 2022-11-26 | 14 | 5 | 
 

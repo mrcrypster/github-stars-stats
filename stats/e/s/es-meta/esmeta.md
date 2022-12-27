@@ -1,6 +1,6 @@
 # es-meta/esmeta - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 109 | 8 | 
 | 2022-12-25 | 109 | 8 | 
 | 2022-12-24 | 109 | 8 | 
 | 2022-12-23 | 109 | 8 | 

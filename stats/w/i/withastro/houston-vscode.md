@@ -1,8 +1,8 @@
 # withastro/houston-vscode - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
-☋ Forks: 2
+☋ Forks: 1
 
 ★ Stars: 50
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 50 | 1 | 
 | 2022-12-25 | 50 | 2 | 
 | 2022-12-24 | 47 | 2 | 
 | 2022-12-23 | 47 | 2 | 

@@ -1,10 +1,10 @@
 # redsigma/UPMetroSkin - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 57
 
-★ Stars: 667
+★ Stars: 666
 
 [Open repository](https://github.com/redsigma/UPMetroSkin)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 666 | 57 | 
 | 2022-12-25 | 667 | 57 | 
 | 2022-12-24 | 667 | 57 | 
 | 2022-12-23 | 666 | 57 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 645 | 56 | 
 | 2022-11-28 | 644 | 55 | 
 | 2022-11-27 | 642 | 55 | 
-| 2022-11-26 | 642 | 55 | 
 

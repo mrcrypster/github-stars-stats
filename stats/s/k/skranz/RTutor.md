@@ -1,10 +1,10 @@
 # skranz/RTutor - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 56
 
-★ Stars: 183
+★ Stars: 184
 
 [Open repository](https://github.com/skranz/RTutor)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 184 | 56 | 
 | 2022-12-25 | 183 | 56 | 
 | 2022-12-24 | 183 | 56 | 
 

@@ -1,6 +1,6 @@
 # sifive/ProcKami - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 23 | 4 | 
 | 2022-12-25 | 23 | 4 | 
 | 2022-12-24 | 23 | 4 | 
 | 2022-12-23 | 23 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 23 | 4 | 
 | 2022-11-28 | 23 | 4 | 
 | 2022-11-27 | 23 | 4 | 
-| 2022-11-26 | 23 | 4 | 
 

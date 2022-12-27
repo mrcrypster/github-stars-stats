@@ -1,6 +1,6 @@
 # Zellic/move-prover-examples - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 21 | 2 | 
 | 2022-12-25 | 21 | 2 | 
 | 2022-12-24 | 21 | 2 | 
 | 2022-12-23 | 21 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 18 | - | 
 | 2022-11-28 | 18 | - | 
 | 2022-11-27 | 18 | - | 
-| 2022-11-26 | 18 | - | 
 

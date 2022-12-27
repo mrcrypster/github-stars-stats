@@ -1,8 +1,8 @@
 # NightBOTDeveloper/rdp6jam - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
-☋ Forks: 142
+☋ Forks: 144
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 5 | 144 | 
 | 2022-12-25 | 5 | 142 | 
 | 2022-12-24 | 5 | 141 | 
 | 2022-12-23 | 5 | 141 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 5 | 131 | 
 | 2022-11-28 | 5 | 130 | 
 | 2022-11-27 | 5 | 130 | 
-| 2022-11-26 | 5 | 129 | 
 

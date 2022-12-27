@@ -1,10 +1,10 @@
 # ansible/ansible - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
-☋ Forks: 22801
+☋ Forks: 22803
 
-★ Stars: 55823
+★ Stars: 55827
 
 [Open repository](https://github.com/ansible/ansible)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 55827 | 22803 | 
 | 2022-12-25 | 55823 | 22801 | 
 | 2022-12-24 | 55822 | 22800 | 
 | 2022-12-23 | 55808 | 22797 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 55595 | 22712 | 
 | 2022-11-28 | 55580 | 22709 | 
 | 2022-11-27 | 55570 | 22707 | 
-| 2022-11-26 | 55560 | 22708 | 
 

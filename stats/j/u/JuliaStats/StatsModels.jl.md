@@ -1,10 +1,10 @@
 # JuliaStats/StatsModels.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 30
 
-★ Stars: 210
+★ Stars: 211
 
 [Open repository](https://github.com/JuliaStats/StatsModels.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 211 | 30 | 
 | 2022-12-25 | 210 | 30 | 
 | 2022-12-24 | 210 | 30 | 
 | 2022-12-23 | 210 | 30 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 210 | 30 | 
 | 2022-11-28 | 210 | 30 | 
 | 2022-11-27 | 210 | 30 | 
-| 2022-11-26 | 210 | 30 | 
 

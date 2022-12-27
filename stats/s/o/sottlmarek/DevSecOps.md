@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 26
 
-☋ Forks: 714
+☋ Forks: 715
 
-★ Stars: 4206
+★ Stars: 4207
 
 [Open repository](https://github.com/sottlmarek/DevSecOps)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-26 | 4206 | 714 | 
+| 2022-12-26 | 4207 | 715 | 
 | 2022-12-25 | 4206 | 714 | 
 | 2022-12-24 | 4190 | 712 | 
 | 2022-12-23 | 4128 | 707 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 3987 | 664 | 
 | 2022-11-29 | 3985 | 663 | 
 | 2022-11-28 | 3983 | 662 | 
-| 2022-11-27 | 3983 | 661 | 
 

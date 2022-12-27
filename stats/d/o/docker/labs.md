@@ -1,6 +1,6 @@
 # docker/labs - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 5360
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 11050 | 5360 | 
 | 2022-12-25 | 11050 | 5360 | 
 | 2022-12-24 | 11049 | 5360 | 
 | 2022-12-23 | 11048 | 5360 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 11024 | 5353 | 
 | 2022-11-28 | 11025 | 5353 | 
 | 2022-11-27 | 11025 | 5356 | 
-| 2022-11-26 | 11022 | 5355 | 
 

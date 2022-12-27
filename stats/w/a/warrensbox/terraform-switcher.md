@@ -1,6 +1,6 @@
 # warrensbox/terraform-switcher - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 110
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 1080 | 110 | 
 | 2022-12-25 | 1080 | 110 | 
 | 2022-12-24 | 1079 | 110 | 
 | 2022-12-23 | 1079 | 110 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 1067 | 110 | 
 | 2022-11-28 | 1067 | 111 | 
 | 2022-11-27 | 1067 | 111 | 
-| 2022-11-26 | 1067 | 111 | 
 

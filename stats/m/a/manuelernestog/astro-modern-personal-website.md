@@ -1,6 +1,6 @@
 # manuelernestog/astro-modern-personal-website - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 52 | 13 | 
 | 2022-12-25 | 52 | 13 | 
 | 2022-12-24 | 52 | 11 | 
 | 2022-12-23 | 52 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 34 | 8 | 
 | 2022-11-28 | 33 | 7 | 
 | 2022-11-27 | 31 | 6 | 
-| 2022-11-26 | 28 | 6 | 
 

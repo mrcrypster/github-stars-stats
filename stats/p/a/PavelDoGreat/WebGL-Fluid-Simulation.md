@@ -1,10 +1,10 @@
 # PavelDoGreat/WebGL-Fluid-Simulation - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
-☋ Forks: 1450
+☋ Forks: 1452
 
-★ Stars: 12809
+★ Stars: 12813
 
 [Open repository](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 12813 | 1452 | 
 | 2022-12-25 | 12809 | 1450 | 
 | 2022-12-24 | 12806 | 1449 | 
 | 2022-12-23 | 12803 | 1449 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 12718 | 1436 | 
 | 2022-11-28 | 12697 | 1435 | 
 | 2022-11-27 | 12690 | 1434 | 
-| 2022-11-26 | 12686 | 1434 | 
 

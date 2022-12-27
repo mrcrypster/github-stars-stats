@@ -1,8 +1,8 @@
 # Clueless-Community/first-contribution - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 27
 
-☋ Forks: 310
+☋ Forks: 309
 
 ★ Stars: 122
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 122 | 309 | 
 | 2022-12-25 | 122 | 310 | 
 | 2022-12-24 | 122 | 310 | 
 | 2022-12-23 | 122 | 310 | 

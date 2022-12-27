@@ -1,10 +1,10 @@
 # panacloud-modern-global-apps/learn-typescript - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
-☋ Forks: 253
+☋ Forks: 254
 
-★ Stars: 390
+★ Stars: 391
 
 [Open repository](https://github.com/panacloud-modern-global-apps/learn-typescript)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 391 | 254 | 
 | 2022-12-25 | 390 | 253 | 
 | 2022-12-24 | 390 | 251 | 
 | 2022-12-23 | 389 | 251 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 368 | 229 | 
 | 2022-11-28 | 367 | 228 | 
 | 2022-11-27 | 367 | 225 | 
-| 2022-11-26 | 364 | 225 | 
 

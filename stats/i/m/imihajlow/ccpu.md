@@ -1,10 +1,10 @@
 # imihajlow/ccpu - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 2
 
-★ Stars: 54
+★ Stars: 55
 
 [Open repository](https://github.com/imihajlow/ccpu)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 55 | 2 | 
 | 2022-12-25 | 54 | 2 | 
 | 2022-12-24 | 54 | 2 | 
 | 2022-12-23 | 53 | 2 | 

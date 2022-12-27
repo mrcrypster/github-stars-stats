@@ -1,6 +1,6 @@
 # sentry-kubernetes/charts - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 373
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 667 | 373 | 
 | 2022-12-25 | 667 | 373 | 
 | 2022-12-24 | 667 | 373 | 
 | 2022-12-23 | 667 | 372 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 649 | 364 | 
 | 2022-11-28 | 647 | 364 | 
 | 2022-11-27 | 646 | 364 | 
-| 2022-11-26 | 646 | 364 | 
 

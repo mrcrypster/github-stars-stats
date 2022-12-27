@@ -1,10 +1,10 @@
 # adimcohen/Advant_of_Code_2022_Single_Statement_SQL - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 0
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/adimcohen/Advant_of_Code_2022_Single_Statement_SQL)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 4 | - | 
 | 2022-12-25 | 3 | - | 
 | 2022-12-24 | 3 | - | 
 | 2022-12-23 | 3 | - | 

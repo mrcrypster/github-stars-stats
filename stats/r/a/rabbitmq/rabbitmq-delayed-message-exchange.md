@@ -1,6 +1,6 @@
 # rabbitmq/rabbitmq-delayed-message-exchange - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 131
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 1546 | 131 | 
 | 2022-12-25 | 1546 | 131 | 
 | 2022-12-24 | 1546 | 131 | 
 | 2022-12-23 | 1545 | 131 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 1526 | 131 | 
 | 2022-11-28 | 1525 | 131 | 
 | 2022-11-27 | 1525 | 131 | 
-| 2022-11-26 | 1524 | 131 | 
 

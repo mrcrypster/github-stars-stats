@@ -1,6 +1,6 @@
 # abstracthat/dactyl-manuform - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 137
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 1025 | 137 | 
 | 2022-12-25 | 1025 | 137 | 
 | 2022-12-24 | 1023 | 137 | 
 | 2022-12-23 | 1020 | 137 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 996 | 136 | 
 | 2022-11-28 | 996 | 136 | 
 | 2022-11-27 | 995 | 136 | 
-| 2022-11-26 | 994 | 136 | 
 

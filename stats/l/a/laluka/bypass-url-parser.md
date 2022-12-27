@@ -1,10 +1,10 @@
 # laluka/bypass-url-parser - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 78
 
-★ Stars: 767
+★ Stars: 768
 
 [Open repository](https://github.com/laluka/bypass-url-parser)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 768 | 78 | 
 | 2022-12-25 | 767 | 78 | 
 | 2022-12-24 | 766 | 78 | 
 | 2022-12-23 | 766 | 78 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-30 | 759 | 77 | 
 | 2022-11-29 | 759 | 76 | 
 | 2022-11-28 | 758 | 76 | 
-| 2022-11-27 | 757 | 76 | 
 

@@ -1,6 +1,6 @@
 # lambdaclass/webrtc-server - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 89 | 15 | 
 | 2022-12-25 | 89 | 15 | 
 | 2022-12-24 | 89 | 15 | 
 

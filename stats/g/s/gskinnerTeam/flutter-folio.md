@@ -1,8 +1,8 @@
 # gskinnerTeam/flutter-folio - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
-☋ Forks: 698
+☋ Forks: 697
 
 ★ Stars: 3455
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 3455 | 697 | 
 | 2022-12-25 | 3455 | 698 | 
 | 2022-12-24 | 3455 | 698 | 
 | 2022-12-23 | 3455 | 698 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 3433 | 692 | 
 | 2022-11-28 | 3431 | 691 | 
 | 2022-11-27 | 3431 | 691 | 
-| 2022-11-26 | 3430 | 691 | 
 

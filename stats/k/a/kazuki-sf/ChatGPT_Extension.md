@@ -1,10 +1,10 @@
 # kazuki-sf/ChatGPT_Extension - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 27
 
-☋ Forks: 29
+☋ Forks: 30
 
-★ Stars: 225
+★ Stars: 229
 
 [Open repository](https://github.com/kazuki-sf/ChatGPT_Extension)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 229 | 30 | 
+| 2022-12-26 | 229 | 30 | 
 | 2022-12-25 | 225 | 29 | 
 | 2022-12-24 | 219 | 27 | 
 | 2022-12-23 | 218 | 26 | 

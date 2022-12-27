@@ -1,10 +1,10 @@
 # 1milligram/html-dom - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
-☋ Forks: 412
+☋ Forks: 411
 
-★ Stars: 5070
+★ Stars: 5072
 
 [Open repository](https://github.com/1milligram/html-dom)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 5072 | 411 | 
 | 2022-12-25 | 5070 | 412 | 
 | 2022-12-24 | 5069 | 412 | 
 | 2022-12-23 | 5070 | 412 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 5048 | 411 | 
 | 2022-11-28 | 5046 | 411 | 
 | 2022-11-27 | 5044 | 411 | 
-| 2022-11-26 | 5041 | 410 | 
 

@@ -1,8 +1,8 @@
 # AppPear/ChartView - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
-☋ Forks: 606
+☋ Forks: 605
 
 ★ Stars: 4662
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 4662 | 605 | 
 | 2022-12-25 | 4662 | 606 | 
 | 2022-12-24 | 4662 | 606 | 
 | 2022-12-23 | 4660 | 606 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 4626 | 601 | 
 | 2022-11-28 | 4626 | 601 | 
 | 2022-11-27 | 4626 | 601 | 
-| 2022-11-26 | 4626 | 601 | 
 

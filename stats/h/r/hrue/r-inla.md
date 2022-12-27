@@ -1,10 +1,10 @@
 # hrue/r-inla - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 15
 
-★ Stars: 52
+★ Stars: 53
 
 [Open repository](https://github.com/hrue/r-inla)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 53 | 15 | 
 | 2022-12-25 | 52 | 15 | 
 | 2022-12-24 | 52 | 15 | 
 | 2022-12-23 | 52 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 52 | 15 | 
 | 2022-11-28 | 52 | 15 | 
 | 2022-11-27 | 52 | 15 | 
-| 2022-11-26 | 52 | 15 | 
 

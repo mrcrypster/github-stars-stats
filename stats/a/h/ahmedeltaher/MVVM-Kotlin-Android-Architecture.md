@@ -1,6 +1,6 @@
 # ahmedeltaher/MVVM-Kotlin-Android-Architecture - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 515
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 1936 | 515 | 
 | 2022-12-26 | 1936 | 515 | 
 | 2022-12-25 | 1934 | 515 | 
 | 2022-12-24 | 1933 | 515 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-29 | 1911 | 512 | 
 | 2022-11-28 | 1911 | 511 | 
 | 2022-11-27 | 1911 | 510 | 
-| 2022-11-26 | 1911 | 509 | 
 

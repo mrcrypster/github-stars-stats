@@ -1,8 +1,8 @@
 # RareSkills/gas-puzzles - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
-☋ Forks: 77
+☋ Forks: 78
 
 ★ Stars: 233
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 233 | 78 | 
 | 2022-12-26 | 233 | 77 | 
 | 2022-12-24 | 232 | 77 | 
 | 2022-12-23 | 232 | 77 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 211 | 72 | 
 | 2022-11-29 | 211 | 72 | 
 | 2022-11-28 | 211 | 72 | 
-| 2022-11-27 | 211 | 72 | 
 

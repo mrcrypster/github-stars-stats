@@ -1,8 +1,8 @@
 # ucb-bar/rocket-dsp-utils - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
-☋ Forks: 3
+☋ Forks: 4
 
 ★ Stars: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 7 | 4 | 
 | 2022-12-25 | 7 | 3 | 
 | 2022-12-24 | 7 | 3 | 
 | 2022-12-23 | 7 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 7 | 3 | 
 | 2022-11-28 | 7 | 3 | 
 | 2022-11-27 | 7 | 3 | 
-| 2022-11-26 | 7 | 3 | 
 

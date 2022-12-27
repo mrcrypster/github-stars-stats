@@ -1,10 +1,10 @@
 # spring-projects/spring-authorization-server - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
-☋ Forks: 973
+☋ Forks: 974
 
-★ Stars: 4071
+★ Stars: 4072
 
 [Open repository](https://github.com/spring-projects/spring-authorization-server)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 4072 | 974 | 
 | 2022-12-25 | 4071 | 973 | 
 | 2022-12-24 | 4068 | 973 | 
 | 2022-12-23 | 4067 | 971 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 3995 | 942 | 
 | 2022-11-28 | 3990 | 941 | 
 | 2022-11-27 | 3983 | 940 | 
-| 2022-11-26 | 3983 | 940 | 
 

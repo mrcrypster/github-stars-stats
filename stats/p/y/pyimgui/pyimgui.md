@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 26
 
 ☋ Forks: 160
 
-★ Stars: 942
+★ Stars: 945
 
 [Open repository](https://github.com/pyimgui/pyimgui)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-26 | 942 | 160 | 
+| 2022-12-26 | 945 | 160 | 
 | 2022-12-24 | 940 | 160 | 
 | 2022-12-23 | 939 | 159 | 
 | 2022-12-22 | 936 | 159 | 
@@ -39,5 +39,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-29 | 925 | 159 | 
 | 2022-11-28 | 925 | 159 | 
 | 2022-11-27 | 925 | 158 | 
-| 2022-11-26 | 924 | 158 | 
 

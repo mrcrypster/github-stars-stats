@@ -1,8 +1,8 @@
 # kubernetes-sigs/sig-windows-tools - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
-☋ Forks: 97
+☋ Forks: 98
 
 ★ Stars: 84
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 84 | 98 | 
 | 2022-12-25 | 84 | 97 | 
 | 2022-12-24 | 84 | 97 | 
 | 2022-12-23 | 84 | 97 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 82 | 94 | 
 | 2022-11-28 | 82 | 94 | 
 | 2022-11-27 | 82 | 94 | 
-| 2022-11-26 | 81 | 94 | 
 

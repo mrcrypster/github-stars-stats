@@ -1,6 +1,6 @@
 # honza/vim-snippets - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 2009
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 4457 | 2009 | 
 | 2022-12-25 | 4457 | 2009 | 
 | 2022-12-24 | 4457 | 2009 | 
 | 2022-12-23 | 4458 | 2009 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 4443 | 2005 | 
 | 2022-11-28 | 4443 | 2005 | 
 | 2022-11-27 | 4442 | 2005 | 
-| 2022-11-26 | 4441 | 2005 | 
 

@@ -1,10 +1,10 @@
 # jankapunkt/latexcv - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 448
 
-★ Stars: 1948
+★ Stars: 1949
 
 [Open repository](https://github.com/jankapunkt/latexcv)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 1949 | 448 | 
 | 2022-12-25 | 1948 | 448 | 
 | 2022-12-24 | 1948 | 448 | 
 | 2022-12-23 | 1948 | 448 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 1924 | 444 | 
 | 2022-11-28 | 1920 | 443 | 
 | 2022-11-27 | 1921 | 443 | 
-| 2022-11-26 | 1919 | 443 | 
 

@@ -1,10 +1,10 @@
 # sonnylazuardi/chatgpt-desktop - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
-☋ Forks: 50
+☋ Forks: 51
 
-★ Stars: 680
+★ Stars: 687
 
 [Open repository](https://github.com/sonnylazuardi/chatgpt-desktop)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 687 | 51 | 
 | 2022-12-25 | 680 | 50 | 
 | 2022-12-24 | 674 | 50 | 
 | 2022-12-23 | 672 | 48 | 

@@ -1,10 +1,10 @@
 # screego/server - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 335
 
-★ Stars: 5212
+★ Stars: 5211
 
 [Open repository](https://github.com/screego/server)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 5211 | 335 | 
 | 2022-12-26 | 5212 | 335 | 
 | 2022-12-25 | 5208 | 335 | 
 | 2022-12-23 | 5208 | 335 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-29 | 5108 | 331 | 
 | 2022-11-28 | 5107 | 331 | 
 | 2022-11-27 | 5106 | 331 | 
-| 2022-11-26 | 5104 | 331 | 
 

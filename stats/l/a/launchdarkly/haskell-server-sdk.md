@@ -1,6 +1,6 @@
 # launchdarkly/haskell-server-sdk - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 11 | 11 | 
 | 2022-12-25 | 11 | 11 | 
 | 2022-12-24 | 11 | 11 | 
 | 2022-12-23 | 11 | 11 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 11 | 11 | 
 | 2022-11-28 | 11 | 11 | 
 | 2022-11-27 | 11 | 11 | 
-| 2022-11-26 | 11 | 11 | 
 

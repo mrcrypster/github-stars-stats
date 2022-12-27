@@ -1,6 +1,6 @@
 # JohnSundell/ShellOut - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 80
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 775 | 80 | 
 | 2022-12-25 | 775 | 80 | 
 | 2022-12-24 | 775 | 80 | 
 | 2022-12-23 | 775 | 80 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-30 | 770 | 79 | 
 | 2022-11-29 | 770 | 79 | 
 | 2022-11-28 | 770 | 79 | 
-| 2022-11-27 | 770 | 79 | 
 

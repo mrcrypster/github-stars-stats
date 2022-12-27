@@ -1,6 +1,6 @@
 # furkan3ayraktar/clojure-polylith-realworld-example-app - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 367 | 68 | 
 | 2022-12-25 | 367 | 68 | 
 | 2022-12-24 | 367 | 68 | 
 | 2022-12-23 | 367 | 68 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 364 | 65 | 
 | 2022-11-28 | 363 | 65 | 
 | 2022-11-27 | 363 | 65 | 
-| 2022-11-26 | 363 | 65 | 
 

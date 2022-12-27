@@ -1,6 +1,6 @@
 # GDQuest/godot-2d-builder - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 352 | 24 | 
 | 2022-12-25 | 352 | 24 | 
 | 2022-12-24 | 352 | 24 | 
 | 2022-12-23 | 352 | 24 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 347 | 24 | 
 | 2022-11-28 | 347 | 24 | 
 | 2022-11-27 | 347 | 24 | 
-| 2022-11-26 | 347 | 24 | 
 

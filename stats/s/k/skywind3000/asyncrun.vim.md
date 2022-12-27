@@ -1,10 +1,10 @@
 # skywind3000/asyncrun.vim - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 110
 
-★ Stars: 1680
+★ Stars: 1681
 
 [Open repository](https://github.com/skywind3000/asyncrun.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 1681 | 110 | 
 | 2022-12-25 | 1680 | 110 | 
 | 2022-12-24 | 1680 | 110 | 
 | 2022-12-23 | 1680 | 110 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-30 | 1669 | 110 | 
 | 2022-11-29 | 1668 | 109 | 
 | 2022-11-28 | 1664 | 109 | 
-| 2022-11-27 | 1663 | 109 | 
 

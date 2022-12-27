@@ -1,10 +1,10 @@
 # Fndroid/clash_for_windows_pkg - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
-☋ Forks: 5452
+☋ Forks: 5454
 
-★ Stars: 41709
+★ Stars: 41761
 
 [Open repository](https://github.com/Fndroid/clash_for_windows_pkg)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 41761 | 5454 | 
 | 2022-12-25 | 41709 | 5452 | 
 | 2022-12-24 | 41672 | 5448 | 
 | 2022-12-23 | 41644 | 5444 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 40137 | 5328 | 
 | 2022-11-28 | 40066 | 5325 | 
 | 2022-11-27 | 40018 | 5322 | 
-| 2022-11-26 | 39945 | 5316 | 
 

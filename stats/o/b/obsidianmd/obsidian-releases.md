@@ -1,10 +1,10 @@
 # obsidianmd/obsidian-releases - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
-☋ Forks: 864
+☋ Forks: 866
 
-★ Stars: 3783
+★ Stars: 3788
 
 [Open repository](https://github.com/obsidianmd/obsidian-releases)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 3788 | 866 | 
 | 2022-12-25 | 3783 | 864 | 
 | 2022-12-24 | 3781 | 864 | 
 | 2022-12-23 | 3778 | 862 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 3566 | 817 | 
 | 2022-11-28 | 3558 | 815 | 
 | 2022-11-27 | 3550 | 813 | 
-| 2022-11-26 | 3541 | 812 | 
 

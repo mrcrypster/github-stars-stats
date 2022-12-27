@@ -1,10 +1,10 @@
 # DataDog/dd-trace-php - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 127
 
-★ Stars: 304
+★ Stars: 305
 
 [Open repository](https://github.com/DataDog/dd-trace-php)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 305 | 127 | 
 | 2022-12-25 | 304 | 127 | 
 | 2022-12-24 | 304 | 127 | 
 | 2022-12-23 | 304 | 127 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 302 | 126 | 
 | 2022-11-28 | 302 | 126 | 
 | 2022-11-27 | 302 | 126 | 
-| 2022-11-26 | 302 | 126 | 
 

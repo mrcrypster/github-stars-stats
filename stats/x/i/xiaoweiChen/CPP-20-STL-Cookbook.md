@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 26
 
 ☋ Forks: 2
 
-★ Stars: 13
+★ Stars: 15
 
 [Open repository](https://github.com/xiaoweiChen/CPP-20-STL-Cookbook)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-26 | 13 | 2 | 
+| 2022-12-26 | 15 | 2 | 
 | 2022-12-25 | 13 | 2 | 
 

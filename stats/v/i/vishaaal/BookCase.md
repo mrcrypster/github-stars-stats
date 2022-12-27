@@ -1,6 +1,6 @@
 # vishaaal/BookCase - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 119
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 61 | 119 | 
 | 2022-12-25 | 61 | 119 | 
 | 2022-12-24 | 61 | 119 | 
 | 2022-12-23 | 61 | 119 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 61 | 120 | 
 | 2022-11-28 | 61 | 120 | 
 | 2022-11-27 | 61 | 120 | 
-| 2022-11-26 | 61 | 120 | 
 

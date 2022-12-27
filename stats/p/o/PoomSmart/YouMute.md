@@ -1,6 +1,6 @@
 # PoomSmart/YouMute - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 5 | 7 | 
 | 2022-12-25 | 5 | 7 | 
 | 2022-12-24 | 5 | 7 | 
 | 2022-12-23 | 5 | 7 | 

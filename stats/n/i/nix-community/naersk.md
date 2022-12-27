@@ -1,6 +1,6 @@
 # nix-community/naersk - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 452 | 73 | 
 | 2022-12-25 | 452 | 73 | 
 | 2022-12-24 | 451 | 73 | 
 | 2022-12-23 | 450 | 73 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 441 | 71 | 
 | 2022-11-28 | 441 | 71 | 
 | 2022-11-27 | 441 | 71 | 
-| 2022-11-26 | 441 | 71 | 
 

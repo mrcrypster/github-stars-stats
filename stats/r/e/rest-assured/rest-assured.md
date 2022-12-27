@@ -1,8 +1,8 @@
 # rest-assured/rest-assured - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
-☋ Forks: 1736
+☋ Forks: 1737
 
 ★ Stars: 6159
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 6159 | 1737 | 
 | 2022-12-25 | 6159 | 1736 | 
 | 2022-12-24 | 6160 | 1736 | 
 | 2022-12-23 | 6160 | 1736 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 6126 | 1731 | 
 | 2022-11-28 | 6124 | 1731 | 
 | 2022-11-27 | 6124 | 1731 | 
-| 2022-11-26 | 6122 | 1731 | 
 

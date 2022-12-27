@@ -1,6 +1,6 @@
 # felt/ultimate-elixir-ci - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 70 | 7 | 
 | 2022-12-25 | 70 | 7 | 
 | 2022-12-24 | 70 | 7 | 
 | 2022-12-23 | 70 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 59 | 7 | 
 | 2022-11-28 | 59 | 7 | 
 | 2022-11-27 | 59 | 7 | 
-| 2022-11-26 | 59 | 7 | 
 

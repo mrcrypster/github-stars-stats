@@ -1,10 +1,10 @@
 # snap-research/EfficientFormer - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 53
 
-★ Stars: 570
+★ Stars: 573
 
 [Open repository](https://github.com/snap-research/EfficientFormer)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 573 | 53 | 
 | 2022-12-25 | 570 | 53 | 
 | 2022-12-24 | 568 | 52 | 
 | 2022-12-23 | 560 | 52 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 501 | 46 | 
 | 2022-11-28 | 499 | 46 | 
 | 2022-11-27 | 499 | 46 | 
-| 2022-11-26 | 498 | 46 | 
 

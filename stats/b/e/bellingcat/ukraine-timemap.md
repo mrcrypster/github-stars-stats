@@ -1,10 +1,10 @@
 # bellingcat/ukraine-timemap - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 33
 
-★ Stars: 223
+★ Stars: 224
 
 [Open repository](https://github.com/bellingcat/ukraine-timemap)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 224 | 33 | 
 | 2022-12-25 | 223 | 33 | 
 | 2022-12-24 | 223 | 33 | 
 | 2022-12-23 | 223 | 33 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 220 | 32 | 
 | 2022-11-28 | 220 | 32 | 
 | 2022-11-27 | 220 | 32 | 
-| 2022-11-26 | 220 | 32 | 
 

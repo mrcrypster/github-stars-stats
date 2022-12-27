@@ -1,6 +1,6 @@
 # Kalson/holbertonschool-sysadmin_devops - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 105
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 30 | 105 | 
 | 2022-12-25 | 30 | 105 | 
 | 2022-12-24 | 30 | 105 | 
 | 2022-12-23 | 30 | 105 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 27 | 96 | 
 | 2022-11-28 | 27 | 95 | 
 | 2022-11-27 | 27 | 95 | 
-| 2022-11-26 | 27 | 95 | 
 

@@ -1,6 +1,6 @@
 # sourcegraph/doctree - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 834 | 25 | 
 | 2022-12-25 | 834 | 25 | 
 | 2022-12-24 | 834 | 25 | 
 | 2022-12-23 | 833 | 25 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 828 | 26 | 
 | 2022-11-28 | 828 | 27 | 
 | 2022-11-27 | 828 | 27 | 
-| 2022-11-26 | 828 | 27 | 
 

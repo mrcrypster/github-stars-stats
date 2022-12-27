@@ -1,6 +1,6 @@
 # element-plus/element-plus-vite-starter - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 212
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 591 | 212 | 
 | 2022-12-25 | 591 | 212 | 
 | 2022-12-24 | 591 | 212 | 
 | 2022-12-23 | 590 | 212 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-30 | 573 | 204 | 
 | 2022-11-29 | 572 | 204 | 
 | 2022-11-28 | 572 | 204 | 
-| 2022-11-26 | 570 | 201 | 
 

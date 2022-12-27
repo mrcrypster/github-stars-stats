@@ -1,6 +1,6 @@
 # platformatic/platformatic - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 736 | 59 | 
 | 2022-12-25 | 736 | 59 | 
 | 2022-12-24 | 734 | 59 | 
 | 2022-12-23 | 733 | 59 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 688 | 51 | 
 | 2022-11-28 | 682 | 51 | 
 | 2022-11-27 | 673 | 51 | 
-| 2022-11-26 | 670 | 51 | 
 

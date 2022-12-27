@@ -1,6 +1,6 @@
 # exanauts/ExaAdmm.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 8 | 2 | 
 | 2022-12-25 | 8 | 2 | 
 | 2022-12-24 | 8 | 2 | 
 | 2022-12-23 | 8 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 8 | 2 | 
 | 2022-11-28 | 7 | 2 | 
 | 2022-11-27 | 6 | 2 | 
-| 2022-11-26 | 6 | 2 | 
 

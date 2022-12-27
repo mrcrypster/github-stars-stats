@@ -1,6 +1,6 @@
 # alchemix-finance/v2-foundry - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 50 | 7 | 
 | 2022-12-25 | 50 | 7 | 
 | 2022-12-24 | 50 | 7 | 
 | 2022-12-23 | 50 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 46 | 7 | 
 | 2022-11-28 | 45 | 7 | 
 | 2022-11-27 | 45 | 7 | 
-| 2022-11-26 | 45 | 7 | 
 

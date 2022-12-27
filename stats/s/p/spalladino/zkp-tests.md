@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 26
 
 ☋ Forks: 1
 
-★ Stars: 54
+★ Stars: 60
 
 [Open repository](https://github.com/spalladino/zkp-tests)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-26 | 54 | 1 | 
+| 2022-12-26 | 60 | 1 | 
 | 2022-12-25 | 51 | 1 | 
 

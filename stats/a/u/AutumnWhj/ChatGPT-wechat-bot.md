@@ -1,10 +1,10 @@
 # AutumnWhj/ChatGPT-wechat-bot - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
-☋ Forks: 224
+☋ Forks: 225
 
-★ Stars: 1158
+★ Stars: 1167
 
 [Open repository](https://github.com/AutumnWhj/ChatGPT-wechat-bot)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 1167 | 225 | 
 | 2022-12-25 | 1158 | 224 | 
 | 2022-12-24 | 1151 | 222 | 
 | 2022-12-23 | 1145 | 222 | 

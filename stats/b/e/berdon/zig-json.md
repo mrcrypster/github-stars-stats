@@ -1,10 +1,10 @@
 # berdon/zig-json - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 1
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/berdon/zig-json)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 13 | 1 | 
 | 2022-12-25 | 12 | 1 | 
 | 2022-12-24 | 12 | 1 | 
 | 2022-12-23 | 11 | - | 

@@ -1,6 +1,6 @@
 # jaykali/lockphish - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 94
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 629 | 94 | 
 | 2022-12-25 | 629 | 94 | 
 | 2022-12-24 | 628 | 94 | 
 | 2022-12-23 | 628 | 93 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 621 | 93 | 
 | 2022-11-28 | 622 | 93 | 
 | 2022-11-27 | 622 | 93 | 
-| 2022-11-26 | 622 | 93 | 
 

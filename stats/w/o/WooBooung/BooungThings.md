@@ -1,6 +1,6 @@
 # WooBooung/BooungThings - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 248
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 34 | 248 | 
 | 2022-12-25 | 34 | 248 | 
 | 2022-12-24 | 34 | 248 | 
 | 2022-12-23 | 34 | 248 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 33 | 245 | 
 | 2022-11-28 | 33 | 245 | 
 | 2022-11-27 | 33 | 245 | 
-| 2022-11-26 | 33 | 245 | 
 

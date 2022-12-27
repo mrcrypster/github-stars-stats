@@ -1,6 +1,6 @@
 # splitbrain/dokuwiki - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 794
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 3603 | 794 | 
 | 2022-12-25 | 3603 | 794 | 
 | 2022-12-24 | 3602 | 794 | 
 | 2022-12-23 | 3601 | 793 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 3590 | 788 | 
 | 2022-11-28 | 3589 | 788 | 
 | 2022-11-27 | 3589 | 788 | 
-| 2022-11-26 | 3588 | 788 | 
 

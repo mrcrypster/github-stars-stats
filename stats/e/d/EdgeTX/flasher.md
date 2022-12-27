@@ -1,6 +1,6 @@
 # EdgeTX/flasher - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 41 | 26 | 
 | 2022-12-25 | 41 | 26 | 
 | 2022-12-24 | 41 | 26 | 
 | 2022-12-23 | 41 | 26 | 

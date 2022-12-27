@@ -1,10 +1,10 @@
 # koajs/koa - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 3254
 
-★ Stars: 33462
+★ Stars: 33465
 
 [Open repository](https://github.com/koajs/koa)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 33465 | 3254 | 
 | 2022-12-25 | 33462 | 3254 | 
 | 2022-12-24 | 33462 | 3252 | 
 | 2022-12-23 | 33462 | 3252 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 33352 | 3238 | 
 | 2022-11-28 | 33343 | 3238 | 
 | 2022-11-27 | 33338 | 3238 | 
-| 2022-11-26 | 33336 | 3238 | 
 

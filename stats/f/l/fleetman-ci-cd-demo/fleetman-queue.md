@@ -1,6 +1,6 @@
 # fleetman-ci-cd-demo/fleetman-queue - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 802
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 5 | 802 | 
 | 2022-12-26 | 5 | 802 | 
 | 2022-12-24 | 5 | 802 | 
 | 2022-12-23 | 5 | 802 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-29 | 5 | 796 | 
 | 2022-11-28 | 5 | 796 | 
 | 2022-11-27 | 5 | 796 | 
-| 2022-11-26 | 5 | 796 | 
 

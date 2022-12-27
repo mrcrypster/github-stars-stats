@@ -1,10 +1,10 @@
 # koalaman/shellcheck - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
-☋ Forks: 1561
+☋ Forks: 1562
 
-★ Stars: 30891
+★ Stars: 30903
 
 [Open repository](https://github.com/koalaman/shellcheck)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 30903 | 1562 | 
 | 2022-12-25 | 30891 | 1561 | 
 | 2022-12-24 | 30888 | 1561 | 
 | 2022-12-23 | 30881 | 1560 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-29 | 30653 | 1546 | 
 | 2022-11-28 | 30634 | 1546 | 
 | 2022-11-27 | 30630 | 1546 | 
-| 2022-11-26 | 30625 | 1546 | 
 

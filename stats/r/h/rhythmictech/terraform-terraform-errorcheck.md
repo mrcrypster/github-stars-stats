@@ -1,6 +1,6 @@
 # rhythmictech/terraform-terraform-errorcheck - stars & forks statistics
 
-Stats updated on Dec 2022, 25
+Stats updated on Dec 2022, 26
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-26 | 6 | 6 | 
 | 2022-12-25 | 6 | 6 | 
 | 2022-12-24 | 6 | 6 | 
 | 2022-12-23 | 6 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 25
 | 2022-11-30 | 6 | 6 | 
 | 2022-11-29 | 6 | 6 | 
 | 2022-11-28 | 6 | 6 | 
-| 2022-11-27 | 6 | 6 | 
 
