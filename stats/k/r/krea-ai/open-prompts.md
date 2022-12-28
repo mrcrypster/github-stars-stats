@@ -1,6 +1,6 @@
 # krea-ai/open-prompts - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 593 | 29 | 
 | 2022-12-26 | 593 | 29 | 
 | 2022-12-25 | 592 | 29 | 
 | 2022-12-24 | 592 | 29 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 582 | 25 | 
 | 2022-11-29 | 581 | 25 | 
 | 2022-11-28 | 580 | 25 | 
-| 2022-11-27 | 580 | 25 | 
 

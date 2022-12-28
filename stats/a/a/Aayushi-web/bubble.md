@@ -1,6 +1,6 @@
 # Aayushi-web/bubble - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 52 | 12 | 
 | 2022-12-26 | 52 | 12 | 
 | 2022-12-25 | 51 | 12 | 
 | 2022-12-24 | 51 | 12 | 

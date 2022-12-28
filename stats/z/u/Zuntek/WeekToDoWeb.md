@@ -1,10 +1,10 @@
 # Zuntek/WeekToDoWeb - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 37
 
-★ Stars: 360
+★ Stars: 362
 
 [Open repository](https://github.com/Zuntek/WeekToDoWeb)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 362 | 37 | 
 | 2022-12-26 | 360 | 37 | 
 | 2022-12-25 | 359 | 37 | 
 | 2022-12-24 | 357 | 37 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 342 | 34 | 
 | 2022-11-29 | 338 | 35 | 
 | 2022-11-28 | 338 | 35 | 
-| 2022-11-27 | 338 | 35 | 
 

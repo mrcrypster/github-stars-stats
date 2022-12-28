@@ -1,10 +1,10 @@
 # tomtom/tcomment_vim - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 102
 
-★ Stars: 1322
+★ Stars: 1323
 
 [Open repository](https://github.com/tomtom/tcomment_vim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 1323 | 102 | 
 | 2022-12-26 | 1322 | 102 | 
 | 2022-12-25 | 1322 | 102 | 
 | 2022-12-24 | 1322 | 102 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 1316 | 100 | 
 | 2022-11-29 | 1316 | 100 | 
 | 2022-11-28 | 1316 | 100 | 
-| 2022-11-27 | 1316 | 100 | 
 

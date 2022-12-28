@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 27
 
 ☋ Forks: 100
 
-★ Stars: 933
+★ Stars: 935
 
 [Open repository](https://github.com/Moriafly/DsoMusic)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-27 | 933 | 100 | 
+| 2022-12-27 | 935 | 100 | 
 | 2022-12-26 | 933 | 100 | 
 

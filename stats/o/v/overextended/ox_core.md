@@ -1,10 +1,10 @@
 # overextended/ox_core - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 45
 
-★ Stars: 50
+★ Stars: 49
 
 [Open repository](https://github.com/overextended/ox_core)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 49 | 45 | 
 | 2022-12-26 | 50 | 45 | 
 | 2022-12-25 | 50 | 44 | 
 | 2022-12-24 | 49 | 44 | 

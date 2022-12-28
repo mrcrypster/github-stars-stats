@@ -1,10 +1,10 @@
 # AguzzTN54/Genshin-Impact-Wish-Simulator - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
-☋ Forks: 30
+☋ Forks: 32
 
-★ Stars: 68
+★ Stars: 69
 
 [Open repository](https://github.com/AguzzTN54/Genshin-Impact-Wish-Simulator)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 69 | 32 | 
 | 2022-12-26 | 68 | 30 | 
 | 2022-12-25 | 66 | 28 | 
 | 2022-12-24 | 66 | 28 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 63 | 27 | 
 | 2022-11-29 | 63 | 27 | 
 | 2022-11-28 | 62 | 27 | 
-| 2022-11-27 | 62 | 27 | 
 

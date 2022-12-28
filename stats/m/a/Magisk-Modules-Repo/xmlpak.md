@@ -1,10 +1,10 @@
 # Magisk-Modules-Repo/xmlpak - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 25
 
-★ Stars: 102
+★ Stars: 103
 
 [Open repository](https://github.com/Magisk-Modules-Repo/xmlpak)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 103 | 25 | 
 | 2022-12-26 | 102 | 25 | 
 | 2022-12-25 | 102 | 25 | 
 | 2022-12-24 | 102 | 25 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 100 | 24 | 
 | 2022-11-29 | 99 | 24 | 
 | 2022-11-28 | 99 | 24 | 
-| 2022-11-27 | 99 | 24 | 
 

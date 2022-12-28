@@ -1,10 +1,10 @@
 # ModelOriented/DrWhy - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 76
 
-★ Stars: 589
+★ Stars: 590
 
 [Open repository](https://github.com/ModelOriented/DrWhy)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 590 | 76 | 
 | 2022-12-26 | 589 | 76 | 
 | 2022-12-25 | 588 | 76 | 
 | 2022-12-24 | 588 | 76 | 

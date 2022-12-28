@@ -1,6 +1,6 @@
 # nf-core/genomeassembler - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 10 | 5 | 
 | 2022-12-26 | 10 | 5 | 
 | 2022-12-25 | 10 | 5 | 
 | 2022-12-24 | 10 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 10 | 4 | 
 | 2022-11-29 | 10 | 2 | 
 | 2022-11-28 | 9 | 1 | 
-| 2022-11-27 | 9 | 1 | 
 

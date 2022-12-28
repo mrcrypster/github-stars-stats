@@ -1,10 +1,10 @@
 # Tencent/Shadow - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
-☋ Forks: 1142
+☋ Forks: 1143
 
-★ Stars: 6746
+★ Stars: 6747
 
 [Open repository](https://github.com/Tencent/Shadow)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 6747 | 1143 | 
 | 2022-12-26 | 6746 | 1142 | 
 | 2022-12-25 | 6745 | 1142 | 
 | 2022-12-23 | 6744 | 1142 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 6706 | 1131 | 
 | 2022-11-29 | 6703 | 1131 | 
 | 2022-11-28 | 6699 | 1131 | 
-| 2022-11-27 | 6695 | 1130 | 
 

@@ -1,10 +1,10 @@
 # lanceliao/china-holiday-calender - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
-☋ Forks: 164
+☋ Forks: 166
 
-★ Stars: 3395
+★ Stars: 3398
 
 [Open repository](https://github.com/lanceliao/china-holiday-calender)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 3398 | 166 | 
 | 2022-12-26 | 3395 | 164 | 
 | 2022-12-25 | 3394 | 164 | 
 | 2022-12-24 | 3390 | 164 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 3319 | 158 | 
 | 2022-11-29 | 3319 | 158 | 
 | 2022-11-28 | 3316 | 158 | 
-| 2022-11-27 | 3315 | 158 | 
 

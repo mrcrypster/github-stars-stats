@@ -1,10 +1,10 @@
 # riccardoperra/codeimage - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 31
 
-★ Stars: 580
+★ Stars: 582
 
 [Open repository](https://github.com/riccardoperra/codeimage)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 582 | 31 | 
 | 2022-12-26 | 580 | 31 | 
 | 2022-12-25 | 575 | 31 | 
 | 2022-12-24 | 569 | 31 | 

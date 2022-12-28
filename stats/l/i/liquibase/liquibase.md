@@ -1,8 +1,8 @@
 # liquibase/liquibase - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
-☋ Forks: 1624
+☋ Forks: 1625
 
 ★ Stars: 3603
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 3603 | 1625 | 
 | 2022-12-26 | 3603 | 1624 | 
 | 2022-12-25 | 3602 | 1624 | 
 | 2022-12-24 | 3601 | 1624 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-12-01 | 3574 | 1610 | 
 | 2022-11-30 | 3573 | 1610 | 
 | 2022-11-29 | 3571 | 1610 | 
-| 2022-11-28 | 3570 | 1610 | 
 

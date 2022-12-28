@@ -1,6 +1,6 @@
 # JuliaCollections/DataStructures.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 227
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 596 | 227 | 
 | 2022-12-26 | 596 | 227 | 
 | 2022-12-25 | 595 | 227 | 
 | 2022-12-24 | 594 | 226 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 592 | 226 | 
 | 2022-11-29 | 592 | 226 | 
 | 2022-11-28 | 592 | 226 | 
-| 2022-11-27 | 592 | 226 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 27
 
-☋ Forks: 81
+☋ Forks: 86
 
-★ Stars: 85
+★ Stars: 91
 
 [Open repository](https://github.com/fatih-yavuz/links.dev)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-27 | 85 | 81 | 
+| 2022-12-27 | 91 | 86 | 
 | 2022-12-26 | 83 | 79 | 
 | 2022-12-25 | 30 | 33 | 
 | 2022-12-24 | 30 | 33 | 

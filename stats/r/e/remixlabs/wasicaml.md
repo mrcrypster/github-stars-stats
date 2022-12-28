@@ -1,10 +1,10 @@
 # remixlabs/wasicaml - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 2
 
-★ Stars: 93
+★ Stars: 94
 
 [Open repository](https://github.com/remixlabs/wasicaml)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 94 | 2 | 
 | 2022-12-26 | 93 | 2 | 
 | 2022-12-25 | 91 | 2 | 
 | 2022-12-24 | 91 | 2 | 

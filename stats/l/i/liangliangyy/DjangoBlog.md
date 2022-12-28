@@ -1,10 +1,10 @@
 # liangliangyy/DjangoBlog - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
-☋ Forks: 2319
+☋ Forks: 2318
 
-★ Stars: 5061
+★ Stars: 5062
 
 [Open repository](https://github.com/liangliangyy/DjangoBlog)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 5062 | 2318 | 
 | 2022-12-26 | 5061 | 2319 | 
 | 2022-12-25 | 5059 | 2319 | 
 | 2022-12-24 | 5056 | 2319 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 5005 | 2310 | 
 | 2022-11-29 | 5003 | 2307 | 
 | 2022-11-28 | 5001 | 2305 | 
-| 2022-11-27 | 5000 | 2304 | 
 

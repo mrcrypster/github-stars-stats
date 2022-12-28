@@ -1,10 +1,10 @@
 # jonnieey/Sc-im-Tutorial - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 8
 
-★ Stars: 45
+★ Stars: 46
 
 [Open repository](https://github.com/jonnieey/Sc-im-Tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 46 | 8 | 
 | 2022-12-27 | 45 | 8 | 
 | 2022-12-25 | 45 | 8 | 
 | 2022-12-24 | 45 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 44 | 7 | 
 | 2022-11-30 | 44 | 7 | 
 | 2022-11-29 | 44 | 7 | 
-| 2022-11-28 | 44 | 7 | 
 

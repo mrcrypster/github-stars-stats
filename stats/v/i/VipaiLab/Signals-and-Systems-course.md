@@ -1,6 +1,6 @@
 # VipaiLab/Signals-and-Systems-course - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 78 | 23 | 
 | 2022-12-26 | 78 | 23 | 
 | 2022-12-25 | 78 | 23 | 
 | 2022-12-24 | 77 | 23 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 68 | 22 | 
 | 2022-11-29 | 67 | 22 | 
 | 2022-11-28 | 66 | 22 | 
-| 2022-11-27 | 66 | 22 | 
 

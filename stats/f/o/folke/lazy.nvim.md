@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 27
 
-☋ Forks: 21
+☋ Forks: 26
 
-★ Stars: 1119
+★ Stars: 1236
 
 [Open repository](https://github.com/folke/lazy.nvim)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-27 | 1119 | 21 | 
+| 2022-12-27 | 1236 | 26 | 
 | 2022-12-26 | 1077 | 21 | 
 | 2022-12-25 | 984 | 18 | 
 | 2022-12-24 | 913 | 17 | 

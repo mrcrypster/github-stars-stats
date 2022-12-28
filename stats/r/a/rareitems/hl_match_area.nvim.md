@@ -1,10 +1,10 @@
 # rareitems/hl_match_area.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 1
 
-★ Stars: 40
+★ Stars: 42
 
 [Open repository](https://github.com/rareitems/hl_match_area.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 42 | 1 | 
 | 2022-12-26 | 40 | 1 | 
 | 2022-12-25 | 39 | 1 | 
 | 2022-12-24 | 39 | 1 | 

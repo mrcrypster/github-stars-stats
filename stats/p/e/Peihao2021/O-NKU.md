@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 27
 
-☋ Forks: 3
+☋ Forks: 4
 
-★ Stars: 47
+★ Stars: 66
 
 [Open repository](https://github.com/Peihao2021/O-NKU)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-27 | 47 | 3 | 
+| 2022-12-27 | 66 | 4 | 
 | 2022-12-26 | 43 | 3 | 
 

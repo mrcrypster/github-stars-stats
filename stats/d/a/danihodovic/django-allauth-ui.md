@@ -1,10 +1,10 @@
 # danihodovic/django-allauth-ui - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 10
 
-★ Stars: 110
+★ Stars: 111
 
 [Open repository](https://github.com/danihodovic/django-allauth-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 111 | 10 | 
 | 2022-12-26 | 110 | 10 | 
 | 2022-12-25 | 110 | 10 | 
 | 2022-12-24 | 110 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 108 | 9 | 
 | 2022-11-29 | 108 | 9 | 
 | 2022-11-28 | 108 | 9 | 
-| 2022-11-27 | 108 | 9 | 
 

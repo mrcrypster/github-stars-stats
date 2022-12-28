@@ -1,10 +1,10 @@
 # james-stoup/emacs-org-mode-tutorial - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 1
 
-★ Stars: 80
+★ Stars: 81
 
 [Open repository](https://github.com/james-stoup/emacs-org-mode-tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 81 | 1 | 
 | 2022-12-26 | 80 | 1 | 
 | 2022-12-25 | 80 | 1 | 
 | 2022-12-24 | 80 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 78 | 1 | 
 | 2022-11-29 | 77 | 1 | 
 | 2022-11-28 | 77 | 1 | 
-| 2022-11-27 | 77 | 1 | 
 

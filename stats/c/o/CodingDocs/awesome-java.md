@@ -1,6 +1,6 @@
 # CodingDocs/awesome-java - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 1568
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 7749 | 1568 | 
 | 2022-12-26 | 7749 | 1568 | 
 | 2022-12-25 | 7748 | 1568 | 
 | 2022-12-24 | 7747 | 1568 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 7722 | 1568 | 
 | 2022-11-29 | 7719 | 1568 | 
 | 2022-11-28 | 7716 | 1568 | 
-| 2022-11-27 | 7716 | 1568 | 
 

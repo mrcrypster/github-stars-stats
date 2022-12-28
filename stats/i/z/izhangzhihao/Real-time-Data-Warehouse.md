@@ -1,10 +1,10 @@
 # izhangzhihao/Real-time-Data-Warehouse - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
-☋ Forks: 28
+☋ Forks: 29
 
-★ Stars: 65
+★ Stars: 66
 
 [Open repository](https://github.com/izhangzhihao/Real-time-Data-Warehouse)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 66 | 29 | 
 | 2022-12-26 | 65 | 28 | 
 | 2022-12-25 | 65 | 28 | 
 | 2022-12-24 | 65 | 28 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-12-01 | 64 | 27 | 
 | 2022-11-30 | 64 | 27 | 
 | 2022-11-29 | 64 | 27 | 
-| 2022-11-27 | 64 | 27 | 
 

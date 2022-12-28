@@ -1,6 +1,6 @@
 # junegunn/vader.vim - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 558 | 41 | 
 | 2022-12-26 | 558 | 41 | 
 | 2022-12-25 | 558 | 41 | 
 | 2022-12-24 | 557 | 41 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 556 | 41 | 
 | 2022-11-29 | 556 | 41 | 
 | 2022-11-28 | 556 | 41 | 
-| 2022-11-27 | 556 | 41 | 
 

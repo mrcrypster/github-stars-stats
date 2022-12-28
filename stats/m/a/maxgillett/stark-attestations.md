@@ -1,6 +1,6 @@
 # maxgillett/stark-attestations - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 61 | 4 | 
 | 2022-12-26 | 61 | 4 | 
 | 2022-12-25 | 61 | 4 | 
 | 2022-12-24 | 61 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-12-01 | 60 | 4 | 
 | 2022-11-30 | 60 | 4 | 
 | 2022-11-29 | 57 | 4 | 
-| 2022-11-28 | 53 | 4 | 
 

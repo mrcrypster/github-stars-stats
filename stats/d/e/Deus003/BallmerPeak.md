@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 27
 
 ☋ Forks: 0
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/Deus003/BallmerPeak)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-27 | - | - | 
+| 2022-12-27 | 1 | - | 
 | 2022-12-26 | - | - | 
 

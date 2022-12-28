@@ -1,10 +1,10 @@
 # tyru/caw.vim - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 40
+☋ Forks: 41
 
-★ Stars: 375
+★ Stars: 374
 
 [Open repository](https://github.com/tyru/caw.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 374 | 41 | 
 | 2022-12-27 | 375 | 40 | 
 | 2022-12-25 | 375 | 40 | 
 | 2022-12-24 | 375 | 40 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-11-30 | 375 | 40 | 
 | 2022-11-29 | 375 | 40 | 
 | 2022-11-28 | 375 | 40 | 
-| 2022-11-27 | 375 | 40 | 
 

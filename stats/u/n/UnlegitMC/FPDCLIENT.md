@@ -1,10 +1,10 @@
 # UnlegitMC/FPDCLIENT - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 79
 
-★ Stars: 68
+★ Stars: 69
 
 [Open repository](https://github.com/UnlegitMC/FPDCLIENT)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 69 | 79 | 
 | 2022-12-26 | 68 | 79 | 
 | 2022-12-25 | 68 | 79 | 
 | 2022-12-24 | 68 | 79 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 67 | 78 | 
 | 2022-11-29 | 67 | 78 | 
 | 2022-11-28 | 67 | 78 | 
-| 2022-11-27 | 68 | 78 | 
 

@@ -1,10 +1,10 @@
 # guchangan1/All-Defense-Tool - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
-☋ Forks: 573
+☋ Forks: 574
 
-★ Stars: 2486
+★ Stars: 2489
 
 [Open repository](https://github.com/guchangan1/All-Defense-Tool)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 2489 | 574 | 
 | 2022-12-26 | 2486 | 573 | 
 | 2022-12-25 | 2483 | 573 | 
 | 2022-12-24 | 2481 | 573 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 2399 | 546 | 
 | 2022-11-29 | 2374 | 544 | 
 | 2022-11-28 | 2348 | 541 | 
-| 2022-11-27 | 2316 | 536 | 
 

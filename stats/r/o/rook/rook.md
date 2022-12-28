@@ -1,8 +1,8 @@
 # rook/rook - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
-☋ Forks: 2461
+☋ Forks: 2463
 
 ★ Stars: 10596
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 10596 | 2463 | 
 | 2022-12-26 | 10596 | 2461 | 
 | 2022-12-25 | 10594 | 2461 | 
 | 2022-12-24 | 10592 | 2461 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 10528 | 2453 | 
 | 2022-11-29 | 10524 | 2452 | 
 | 2022-11-28 | 10520 | 2453 | 
-| 2022-11-27 | 10513 | 2453 | 
 

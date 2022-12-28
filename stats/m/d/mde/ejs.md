@@ -1,10 +1,10 @@
 # mde/ejs - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 753
 
-★ Stars: 6806
+★ Stars: 6809
 
 [Open repository](https://github.com/mde/ejs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 6809 | 753 | 
 | 2022-12-26 | 6806 | 753 | 
 | 2022-12-25 | 6804 | 753 | 
 | 2022-12-24 | 6803 | 753 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 6766 | 748 | 
 | 2022-11-29 | 6763 | 748 | 
 | 2022-11-28 | 6765 | 748 | 
-| 2022-11-27 | 6761 | 748 | 
 

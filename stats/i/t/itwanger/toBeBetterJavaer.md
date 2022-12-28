@@ -1,10 +1,10 @@
 # itwanger/toBeBetterJavaer - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 28
 
-☋ Forks: 752
+☋ Forks: 758
 
-★ Stars: 4549
+★ Stars: 4573
 
 [Open repository](https://github.com/itwanger/toBeBetterJavaer)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 4573 | 758 | 
+| 2022-12-27 | 4573 | 758 | 
 | 2022-12-26 | 4549 | 752 | 
 | 2022-12-25 | 4541 | 749 | 
 | 2022-12-24 | 4532 | 749 | 
@@ -41,5 +43,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 4232 | 710 | 
 | 2022-11-29 | 4223 | 710 | 
 | 2022-11-28 | 4219 | 708 | 
-| 2022-11-27 | 4212 | 707 | 
 

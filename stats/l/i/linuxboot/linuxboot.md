@@ -1,6 +1,6 @@
 # linuxboot/linuxboot - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 88
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 708 | 88 | 
 | 2022-12-26 | 708 | 88 | 
 | 2022-12-25 | 708 | 88 | 
 | 2022-12-24 | 708 | 88 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 702 | 84 | 
 | 2022-11-29 | 700 | 84 | 
 | 2022-11-28 | 700 | 84 | 
-| 2022-11-27 | 700 | 84 | 
 

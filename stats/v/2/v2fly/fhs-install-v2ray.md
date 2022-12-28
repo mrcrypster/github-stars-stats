@@ -1,8 +1,8 @@
 # v2fly/fhs-install-v2ray - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
-☋ Forks: 1181
+☋ Forks: 1183
 
 ★ Stars: 4508
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 4508 | 1183 | 
 | 2022-12-26 | 4508 | 1181 | 
 | 2022-12-25 | 4502 | 1180 | 
 | 2022-12-24 | 4502 | 1180 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 4423 | 1158 | 
 | 2022-11-29 | 4418 | 1157 | 
 | 2022-11-28 | 4413 | 1157 | 
-| 2022-11-27 | 4405 | 1158 | 
 

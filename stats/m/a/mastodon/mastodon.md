@@ -1,10 +1,10 @@
 # mastodon/mastodon - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
-☋ Forks: 5776
+☋ Forks: 5782
 
-★ Stars: 38690
+★ Stars: 38738
 
 [Open repository](https://github.com/mastodon/mastodon)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 38738 | 5782 | 
 | 2022-12-26 | 38690 | 5776 | 
 | 2022-12-25 | 38677 | 5774 | 
 | 2022-12-24 | 38620 | 5769 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 36945 | 5546 | 
 | 2022-11-29 | 36869 | 5531 | 
 | 2022-11-28 | 36793 | 5510 | 
-| 2022-11-27 | 36705 | 5486 | 
 

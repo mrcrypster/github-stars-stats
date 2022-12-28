@@ -1,10 +1,10 @@
 # ondrejbartas/sidekiq-cron - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
-☋ Forks: 259
+☋ Forks: 258
 
-★ Stars: 1677
+★ Stars: 1679
 
 [Open repository](https://github.com/ondrejbartas/sidekiq-cron)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 1679 | 258 | 
 | 2022-12-26 | 1677 | 259 | 
 | 2022-12-25 | 1677 | 258 | 
 | 2022-12-24 | 1677 | 258 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-12-01 | 1664 | 257 | 
 | 2022-11-30 | 1663 | 257 | 
 | 2022-11-29 | 1662 | 256 | 
-| 2022-11-27 | 1662 | 256 | 
 

@@ -1,10 +1,10 @@
 # matsonj/nba-monte-carlo - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 25
 
-★ Stars: 98
+★ Stars: 99
 
 [Open repository](https://github.com/matsonj/nba-monte-carlo)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 99 | 25 | 
 | 2022-12-26 | 98 | 25 | 
 | 2022-12-25 | 97 | 25 | 
 | 2022-12-24 | 97 | 25 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 78 | 23 | 
 | 2022-11-29 | 77 | 23 | 
 | 2022-11-28 | 77 | 23 | 
-| 2022-11-27 | 76 | 23 | 
 

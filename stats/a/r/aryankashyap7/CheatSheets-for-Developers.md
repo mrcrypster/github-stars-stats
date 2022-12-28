@@ -1,6 +1,6 @@
 # aryankashyap7/CheatSheets-for-Developers - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 96
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 47 | 96 | 
 | 2022-12-26 | 47 | 96 | 
 | 2022-12-25 | 48 | 97 | 
 | 2022-12-24 | 48 | 97 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 26
 | 2022-12-01 | 47 | 96 | 
 | 2022-11-30 | 46 | 96 | 
 | 2022-11-28 | 46 | 96 | 
-| 2022-11-27 | 46 | 96 | 
 

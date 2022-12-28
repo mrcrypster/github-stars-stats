@@ -1,10 +1,10 @@
 # coreos/coreos-layering-examples - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 14
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/coreos/coreos-layering-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 27 | 14 | 
 | 2022-12-26 | 26 | 14 | 
 | 2022-12-25 | 26 | 14 | 
 | 2022-12-24 | 26 | 14 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 17 | 13 | 
 | 2022-11-29 | 17 | 13 | 
 | 2022-11-28 | 16 | 13 | 
-| 2022-11-27 | 16 | 13 | 
 

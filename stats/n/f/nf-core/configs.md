@@ -1,6 +1,6 @@
 # nf-core/configs - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 159
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 58 | 159 | 
 | 2022-12-26 | 58 | 159 | 
 | 2022-12-25 | 58 | 159 | 
 | 2022-12-24 | 58 | 159 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 56 | 157 | 
 | 2022-11-29 | 56 | 157 | 
 | 2022-11-28 | 56 | 157 | 
-| 2022-11-27 | 56 | 157 | 
 

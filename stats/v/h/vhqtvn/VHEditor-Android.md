@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 27
 
 ☋ Forks: 77
 
-★ Stars: 657
+★ Stars: 658
 
 [Open repository](https://github.com/vhqtvn/VHEditor-Android)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-27 | 657 | 77 | 
+| 2022-12-27 | 658 | 77 | 
 | 2022-12-26 | 657 | 77 | 
 | 2022-12-25 | 656 | 77 | 
 | 2022-12-24 | 653 | 77 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 27
 | 2022-11-30 | 635 | 75 | 
 | 2022-11-29 | 634 | 75 | 
 | 2022-11-28 | 634 | 75 | 
-| 2022-11-27 | 634 | 74 | 
 

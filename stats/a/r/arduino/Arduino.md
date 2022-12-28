@@ -1,10 +1,10 @@
 # arduino/Arduino - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
-☋ Forks: 7070
+☋ Forks: 7069
 
-★ Stars: 13315
+★ Stars: 13317
 
 [Open repository](https://github.com/arduino/Arduino)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 13317 | 7069 | 
 | 2022-12-26 | 13315 | 7070 | 
 | 2022-12-25 | 13314 | 7070 | 
 | 2022-12-24 | 13313 | 7070 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 13296 | 7062 | 
 | 2022-11-29 | 13292 | 7062 | 
 | 2022-11-28 | 13290 | 7062 | 
-| 2022-11-27 | 13288 | 7063 | 
 

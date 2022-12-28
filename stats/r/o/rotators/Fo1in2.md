@@ -1,10 +1,10 @@
 # rotators/Fo1in2 - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 18
 
-★ Stars: 253
+★ Stars: 255
 
 [Open repository](https://github.com/rotators/Fo1in2)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 255 | 18 | 
 | 2022-12-26 | 253 | 18 | 
 | 2022-12-25 | 252 | 18 | 
 | 2022-12-24 | 252 | 18 | 

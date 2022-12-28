@@ -1,10 +1,10 @@
 # com-lihaoyi/mill - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 257
 
-★ Stars: 1818
+★ Stars: 1817
 
 [Open repository](https://github.com/com-lihaoyi/mill)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 1817 | 257 | 
 | 2022-12-26 | 1818 | 257 | 
 | 2022-12-25 | 1818 | 257 | 
 | 2022-12-24 | 1818 | 257 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 26
 | 2022-12-01 | 1807 | 257 | 
 | 2022-11-30 | 1806 | 257 | 
 | 2022-11-29 | 1806 | 257 | 
-| 2022-11-28 | 1806 | 257 | 
 

@@ -1,10 +1,10 @@
 # roboflow-ai/notebooks - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 28
 
-☋ Forks: 83
+☋ Forks: 85
 
-★ Stars: 620
+★ Stars: 626
 
 [Open repository](https://github.com/roboflow-ai/notebooks)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 626 | 85 | 
 | 2022-12-26 | 620 | 83 | 
 | 2022-12-25 | 611 | 81 | 
 | 2022-12-24 | 597 | 80 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 349 | 33 | 
 | 2022-11-29 | 347 | 29 | 
 | 2022-11-28 | 342 | 28 | 
-| 2022-11-27 | 333 | 26 | 
 

@@ -1,10 +1,10 @@
 # IUCompilerCourse/Essentials-of-Compilation - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 102
 
-★ Stars: 727
+★ Stars: 728
 
 [Open repository](https://github.com/IUCompilerCourse/Essentials-of-Compilation)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 728 | 102 | 
 | 2022-12-26 | 727 | 102 | 
 | 2022-12-25 | 727 | 102 | 
 | 2022-12-24 | 727 | 102 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 715 | 99 | 
 | 2022-11-29 | 713 | 99 | 
 | 2022-11-28 | 712 | 99 | 
-| 2022-11-27 | 710 | 98 | 
 

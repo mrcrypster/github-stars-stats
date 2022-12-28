@@ -1,10 +1,10 @@
 # determined-ai/determined - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 265
 
-★ Stars: 1989
+★ Stars: 1992
 
 [Open repository](https://github.com/determined-ai/determined)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 1992 | 265 | 
 | 2022-12-26 | 1989 | 265 | 
 | 2022-12-25 | 1989 | 265 | 
 | 2022-12-24 | 1988 | 265 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 1944 | 260 | 
 | 2022-11-29 | 1940 | 259 | 
 | 2022-11-28 | 1937 | 259 | 
-| 2022-11-27 | 1936 | 259 | 
 

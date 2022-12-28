@@ -1,10 +1,10 @@
 # asLody/VirtualApp - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 2758
 
-★ Stars: 9055
+★ Stars: 9058
 
 [Open repository](https://github.com/asLody/VirtualApp)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 9058 | 2758 | 
 | 2022-12-26 | 9055 | 2758 | 
 | 2022-12-25 | 9055 | 2758 | 
 | 2022-12-24 | 9055 | 2757 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 9012 | 2746 | 
 | 2022-11-29 | 9009 | 2744 | 
 | 2022-11-28 | 9007 | 2744 | 
-| 2022-11-27 | 9007 | 2744 | 
 

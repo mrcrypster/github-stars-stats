@@ -1,10 +1,10 @@
 # apo-bozdag/sahibinden-pro-extension - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 16
 
-★ Stars: 135
+★ Stars: 136
 
 [Open repository](https://github.com/apo-bozdag/sahibinden-pro-extension)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 136 | 16 | 
 | 2022-12-26 | 135 | 16 | 
 | 2022-12-25 | 135 | 16 | 
 | 2022-12-24 | 134 | 16 | 

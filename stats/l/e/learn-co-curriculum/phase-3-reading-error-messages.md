@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-3-reading-error-messages - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 28
 
-☋ Forks: 2299
+☋ Forks: 2302
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 1 | 2302 | 
 | 2022-12-26 | 1 | 2299 | 
 | 2022-12-25 | 1 | 2298 | 
 | 2022-12-24 | 1 | 2298 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 1 | 2225 | 
 | 2022-11-29 | 1 | 2224 | 
 | 2022-11-28 | 1 | 2223 | 
-| 2022-11-27 | 1 | 2221 | 
 

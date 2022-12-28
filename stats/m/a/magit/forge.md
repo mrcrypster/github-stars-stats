@@ -1,10 +1,10 @@
 # magit/forge - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 100
 
-★ Stars: 1102
+★ Stars: 1103
 
 [Open repository](https://github.com/magit/forge)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 1103 | 100 | 
+| 2022-12-27 | 1103 | 100 | 
 | 2022-12-26 | 1102 | 100 | 
 | 2022-12-25 | 1102 | 100 | 
 | 2022-12-24 | 1102 | 100 | 
@@ -40,5 +42,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 1093 | 100 | 
 | 2022-11-29 | 1093 | 100 | 
 | 2022-11-28 | 1093 | 100 | 
-| 2022-11-27 | 1093 | 100 | 
 

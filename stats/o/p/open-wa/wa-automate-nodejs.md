@@ -1,10 +1,10 @@
 # open-wa/wa-automate-nodejs - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
-☋ Forks: 512
+☋ Forks: 513
 
-★ Stars: 2565
+★ Stars: 2571
 
 [Open repository](https://github.com/open-wa/wa-automate-nodejs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 2571 | 513 | 
 | 2022-12-26 | 2565 | 512 | 
 | 2022-12-25 | 2564 | 511 | 
 | 2022-12-24 | 2563 | 511 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 2523 | 501 | 
 | 2022-11-29 | 2520 | 501 | 
 | 2022-11-28 | 2518 | 501 | 
-| 2022-11-27 | 2517 | 501 | 
 

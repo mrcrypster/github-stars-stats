@@ -1,10 +1,10 @@
 # Prananya123/RTL-Coding - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 3
 
-★ Stars: 28
+★ Stars: 27
 
 [Open repository](https://github.com/Prananya123/RTL-Coding)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 27 | 3 | 
 | 2022-12-26 | 28 | 3 | 
 | 2022-12-25 | 27 | 3 | 
 | 2022-12-24 | 27 | 3 | 

@@ -1,6 +1,6 @@
 # FrameworkComputer/Mainboard - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 1053 | 41 | 
 | 2022-12-26 | 1053 | 41 | 
 | 2022-12-25 | 1053 | 41 | 
 | 2022-12-24 | 1053 | 41 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 1025 | 37 | 
 | 2022-11-29 | 1024 | 37 | 
 | 2022-11-28 | 1023 | 37 | 
-| 2022-11-27 | 1022 | 37 | 
 

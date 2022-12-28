@@ -1,10 +1,10 @@
 # arcaneenergy/godot-multimesh-scatter - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 0
 
-★ Stars: 35
+★ Stars: 36
 
 [Open repository](https://github.com/arcaneenergy/godot-multimesh-scatter)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 36 | - | 
 | 2022-12-26 | 35 | - | 
 | 2022-12-25 | 34 | - | 
 | 2022-12-24 | 34 | - | 

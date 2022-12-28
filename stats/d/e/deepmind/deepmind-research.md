@@ -1,10 +1,10 @@
 # deepmind/deepmind-research - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 2302
 
-★ Stars: 11232
+★ Stars: 11235
 
 [Open repository](https://github.com/deepmind/deepmind-research)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 11235 | 2302 | 
 | 2022-12-26 | 11232 | 2302 | 
 | 2022-12-25 | 11234 | 2303 | 
 | 2022-12-24 | 11233 | 2303 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 11136 | 2289 | 
 | 2022-11-29 | 11134 | 2288 | 
 | 2022-11-28 | 11130 | 2288 | 
-| 2022-11-27 | 11124 | 2288 | 
 

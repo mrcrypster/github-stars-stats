@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 27
 
-☋ Forks: 109
+☋ Forks: 110
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/ac-custom-shaders-patch/acc-lua-internal)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-27 | 20 | 109 | 
+| 2022-12-27 | 21 | 110 | 
 | 2022-12-26 | 20 | 108 | 
 | 2022-12-25 | 20 | 106 | 
 | 2022-12-24 | 20 | 103 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 27
 | 2022-11-30 | 15 | 57 | 
 | 2022-11-29 | 15 | 57 | 
 | 2022-11-28 | 14 | 55 | 
-| 2022-11-27 | 13 | 55 | 
 

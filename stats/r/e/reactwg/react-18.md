@@ -1,10 +1,10 @@
 # reactwg/react-18 - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 128
 
-★ Stars: 4851
+★ Stars: 4853
 
 [Open repository](https://github.com/reactwg/react-18)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 4853 | 128 | 
 | 2022-12-26 | 4851 | 128 | 
 | 2022-12-25 | 4849 | 128 | 
 | 2022-12-24 | 4847 | 128 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-12-01 | 4827 | 128 | 
 | 2022-11-29 | 4823 | 128 | 
 | 2022-11-28 | 4821 | 128 | 
-| 2022-11-27 | 4820 | 127 | 
 

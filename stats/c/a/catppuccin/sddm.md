@@ -1,10 +1,10 @@
 # catppuccin/sddm - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 3
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/catppuccin/sddm)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 32 | 3 | 
 | 2022-12-26 | 31 | 3 | 
 | 2022-12-25 | 31 | 3 | 
 | 2022-12-24 | 31 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 27 | 2 | 
 | 2022-11-29 | 26 | 2 | 
 | 2022-11-28 | 26 | 2 | 
-| 2022-11-27 | 25 | 2 | 
 

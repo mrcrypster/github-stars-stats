@@ -1,6 +1,6 @@
 # fairdataihub/FAIRshare - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 59 | 6 | 
 | 2022-12-26 | 59 | 6 | 
 | 2022-12-25 | 59 | 6 | 
 | 2022-12-24 | 59 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 58 | 5 | 
 | 2022-11-29 | 58 | 5 | 
 | 2022-11-28 | 58 | 5 | 
-| 2022-11-27 | 58 | 5 | 
 

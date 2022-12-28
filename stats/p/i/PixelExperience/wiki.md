@@ -1,6 +1,6 @@
 # PixelExperience/wiki - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 37 | 65 | 
 | 2022-12-26 | 37 | 65 | 
 | 2022-12-25 | 37 | 65 | 
 | 2022-12-24 | 36 | 65 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 35 | 68 | 
 | 2022-11-29 | 35 | 69 | 
 | 2022-11-28 | 35 | 69 | 
-| 2022-11-27 | 35 | 68 | 
 

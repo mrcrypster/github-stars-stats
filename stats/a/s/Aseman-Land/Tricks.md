@@ -1,6 +1,6 @@
 # Aseman-Land/Tricks - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 21 | 3 | 
 | 2022-12-26 | 21 | 3 | 
 | 2022-12-25 | 21 | 3 | 
 | 2022-12-24 | 21 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 20 | 3 | 
 | 2022-11-29 | 20 | 3 | 
 | 2022-11-28 | 20 | 3 | 
-| 2022-11-27 | 20 | 3 | 
 

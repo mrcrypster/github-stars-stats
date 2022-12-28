@@ -1,10 +1,10 @@
 # HuangJunJie2017/BEVDet - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 92
 
-★ Stars: 575
+★ Stars: 576
 
 [Open repository](https://github.com/HuangJunJie2017/BEVDet)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 576 | 92 | 
 | 2022-12-26 | 575 | 92 | 
 | 2022-12-25 | 574 | 92 | 
 | 2022-12-24 | 573 | 92 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 542 | 87 | 
 | 2022-11-29 | 541 | 87 | 
 | 2022-11-28 | 540 | 87 | 
-| 2022-11-27 | 539 | 87 | 
 

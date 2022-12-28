@@ -1,10 +1,10 @@
 # missive/emoji-mart - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
-☋ Forks: 697
+☋ Forks: 698
 
-★ Stars: 6586
+★ Stars: 6636
 
 [Open repository](https://github.com/missive/emoji-mart)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 6636 | 698 | 
 | 2022-12-26 | 6586 | 697 | 
 | 2022-12-25 | 6477 | 697 | 
 | 2022-12-24 | 6352 | 696 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 6101 | 684 | 
 | 2022-11-29 | 6099 | 684 | 
 | 2022-11-28 | 6094 | 684 | 
-| 2022-11-27 | 6092 | 683 | 
 

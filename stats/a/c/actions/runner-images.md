@@ -1,10 +1,10 @@
 # actions/runner-images - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
-☋ Forks: 2587
+☋ Forks: 2591
 
-★ Stars: 7116
+★ Stars: 7119
 
 [Open repository](https://github.com/actions/runner-images)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 7119 | 2591 | 
 | 2022-12-26 | 7116 | 2587 | 
 | 2022-12-25 | 7115 | 2588 | 
 | 2022-12-24 | 7113 | 2587 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 6969 | 2515 | 
 | 2022-11-29 | 6964 | 2515 | 
 | 2022-11-28 | 6950 | 2508 | 
-| 2022-11-27 | 6944 | 2508 | 
 

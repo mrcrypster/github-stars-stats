@@ -1,6 +1,6 @@
 # ufoym/cpp-core-guidelines-cheatsheet - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 505 | 13 | 
 | 2022-12-27 | 505 | 13 | 
 | 2022-12-25 | 505 | 13 | 
 | 2022-12-24 | 504 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 27
 | 2022-11-30 | 500 | 12 | 
 | 2022-11-29 | 500 | 12 | 
 | 2022-11-28 | 500 | 12 | 
-| 2022-11-27 | 500 | 12 | 
 

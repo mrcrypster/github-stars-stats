@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 27
 
 ☋ Forks: 1
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/freee/freee)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-27 | 25 | 1 | 
+| 2022-12-27 | 26 | 1 | 
 | 2022-12-26 | 24 | 1 | 
 

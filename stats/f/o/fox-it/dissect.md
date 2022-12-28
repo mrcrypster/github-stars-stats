@@ -1,10 +1,10 @@
 # fox-it/dissect - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 36
 
-★ Stars: 573
+★ Stars: 574
 
 [Open repository](https://github.com/fox-it/dissect)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 574 | 36 | 
 | 2022-12-26 | 573 | 36 | 
 | 2022-12-25 | 572 | 36 | 
 | 2022-12-24 | 571 | 36 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 536 | 34 | 
 | 2022-11-29 | 536 | 34 | 
 | 2022-11-28 | 536 | 34 | 
-| 2022-11-27 | 536 | 34 | 
 

@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 27
 
 ☋ Forks: 630
 
-★ Stars: 524
+★ Stars: 525
 
 [Open repository](https://github.com/jadijadi/gittutorial)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-27 | 524 | 630 | 
+| 2022-12-27 | 525 | 630 | 
 | 2022-12-26 | 524 | 629 | 
 | 2022-12-25 | 520 | 625 | 
 | 2022-12-24 | 515 | 619 | 

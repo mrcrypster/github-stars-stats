@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 27
 
 ☋ Forks: 7
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/Yoshubs/Forever-Engine)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-27 | 11 | 7 | 
+| 2022-12-27 | 12 | 7 | 
 | 2022-12-26 | 11 | 7 | 
 | 2022-12-25 | 10 | 7 | 
 | 2022-12-24 | 10 | 7 | 

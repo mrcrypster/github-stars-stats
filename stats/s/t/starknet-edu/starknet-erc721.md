@@ -1,10 +1,10 @@
 # starknet-edu/starknet-erc721 - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 33
 
-★ Stars: 43
+★ Stars: 44
 
 [Open repository](https://github.com/starknet-edu/starknet-erc721)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 44 | 33 | 
 | 2022-12-26 | 43 | 33 | 
 | 2022-12-25 | 43 | 33 | 
 | 2022-12-24 | 43 | 33 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 41 | 32 | 
 | 2022-11-29 | 40 | 32 | 
 | 2022-11-28 | 40 | 31 | 
-| 2022-11-27 | 40 | 29 | 
 

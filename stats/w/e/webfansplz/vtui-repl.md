@@ -1,10 +1,10 @@
 # webfansplz/vtui-repl - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 4
 
-★ Stars: 70
+★ Stars: 71
 
 [Open repository](https://github.com/webfansplz/vtui-repl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 71 | 4 | 
 | 2022-12-26 | 70 | 4 | 
 | 2022-12-25 | 68 | 4 | 
 | 2022-12-24 | 67 | 4 | 

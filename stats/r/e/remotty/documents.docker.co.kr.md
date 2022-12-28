@@ -1,10 +1,10 @@
 # remotty/documents.docker.co.kr - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 90
 
-★ Stars: 631
+★ Stars: 632
 
 [Open repository](https://github.com/remotty/documents.docker.co.kr)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 632 | 90 | 
 | 2022-12-26 | 631 | 90 | 
 | 2022-12-25 | 631 | 90 | 
 | 2022-12-24 | 631 | 90 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 628 | 90 | 
 | 2022-11-29 | 629 | 90 | 
 | 2022-11-28 | 629 | 90 | 
-| 2022-11-27 | 629 | 90 | 
 

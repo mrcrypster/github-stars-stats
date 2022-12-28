@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 27
 
-☋ Forks: 216
+☋ Forks: 218
 
-★ Stars: 2961
+★ Stars: 2972
 
 [Open repository](https://github.com/nerfstudio-project/nerfstudio)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-27 | 2961 | 216 | 
+| 2022-12-27 | 2972 | 218 | 
 | 2022-12-26 | 2957 | 215 | 
 | 2022-12-25 | 2935 | 210 | 
 | 2022-12-24 | 2930 | 210 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 2595 | 165 | 
 | 2022-11-30 | 2581 | 162 | 
 | 2022-11-29 | 2563 | 158 | 
-| 2022-11-28 | 2552 | 155 | 
 

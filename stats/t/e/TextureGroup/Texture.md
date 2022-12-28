@@ -1,10 +1,10 @@
 # TextureGroup/Texture - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
-☋ Forks: 1233
+☋ Forks: 1236
 
-★ Stars: 7692
+★ Stars: 7693
 
 [Open repository](https://github.com/TextureGroup/Texture)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 7693 | 1236 | 
 | 2022-12-26 | 7692 | 1233 | 
 | 2022-12-25 | 7692 | 1233 | 
 | 2022-12-24 | 7691 | 1233 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 7670 | 1233 | 
 | 2022-11-29 | 7670 | 1233 | 
 | 2022-11-28 | 7668 | 1233 | 
-| 2022-11-27 | 7668 | 1233 | 
 

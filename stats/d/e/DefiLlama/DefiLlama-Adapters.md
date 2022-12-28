@@ -1,8 +1,8 @@
 # DefiLlama/DefiLlama-Adapters - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
-☋ Forks: 2256
+☋ Forks: 2259
 
 ★ Stars: 507
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 507 | 2259 | 
 | 2022-12-26 | 507 | 2256 | 
 | 2022-12-25 | 507 | 2252 | 
 | 2022-12-24 | 506 | 2250 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 486 | 2175 | 
 | 2022-11-29 | 484 | 2171 | 
 | 2022-11-28 | 481 | 2165 | 
-| 2022-11-27 | 480 | 2161 | 
 

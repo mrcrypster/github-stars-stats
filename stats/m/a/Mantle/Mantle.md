@@ -1,10 +1,10 @@
 # Mantle/Mantle - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 1483
 
-★ Stars: 11322
+★ Stars: 11323
 
 [Open repository](https://github.com/Mantle/Mantle)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 11323 | 1483 | 
 | 2022-12-26 | 11322 | 1483 | 
 | 2022-12-25 | 11322 | 1483 | 
 | 2022-12-24 | 11322 | 1483 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 11321 | 1483 | 
 | 2022-11-29 | 11320 | 1483 | 
 | 2022-11-28 | 11320 | 1483 | 
-| 2022-11-27 | 11320 | 1483 | 
 

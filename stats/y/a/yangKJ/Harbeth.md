@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 27
 
 ☋ Forks: 24
 
-★ Stars: 197
+★ Stars: 199
 
 [Open repository](https://github.com/yangKJ/Harbeth)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-27 | 197 | 24 | 
+| 2022-12-27 | 199 | 24 | 
 | 2022-12-26 | 197 | 24 | 
 | 2022-12-25 | 196 | 24 | 
 | 2022-12-24 | 196 | 24 | 

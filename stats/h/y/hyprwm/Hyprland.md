@@ -1,10 +1,10 @@
 # hyprwm/Hyprland - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 161
 
-★ Stars: 4541
+★ Stars: 4542
 
 [Open repository](https://github.com/hyprwm/Hyprland)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 4542 | 161 | 
 | 2022-12-26 | 4541 | 161 | 
 | 2022-12-25 | 4535 | 161 | 
 | 2022-12-24 | 4514 | 160 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 4167 | 143 | 
 | 2022-11-29 | 4161 | 143 | 
 | 2022-11-28 | 4104 | 144 | 
-| 2022-11-27 | 4067 | 142 | 
 

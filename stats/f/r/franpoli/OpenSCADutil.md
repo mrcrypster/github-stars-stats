@@ -1,8 +1,8 @@
 # franpoli/OpenSCADutil - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
-☋ Forks: 18
+☋ Forks: 19
 
 ★ Stars: 53
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 53 | 19 | 
 | 2022-12-26 | 53 | 18 | 
 | 2022-12-25 | 53 | 18 | 
 | 2022-12-24 | 53 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 53 | 18 | 
 | 2022-11-29 | 53 | 18 | 
 | 2022-11-28 | 53 | 18 | 
-| 2022-11-27 | 53 | 18 | 
 

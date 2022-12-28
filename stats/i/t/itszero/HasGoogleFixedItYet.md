@@ -1,10 +1,10 @@
 # itszero/HasGoogleFixedItYet - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 4
 
-★ Stars: 121
+★ Stars: 122
 
 [Open repository](https://github.com/itszero/HasGoogleFixedItYet)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 122 | 4 | 
 | 2022-12-26 | 121 | 4 | 
 | 2022-12-25 | 121 | 4 | 
 | 2022-12-24 | 121 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 121 | 4 | 
 | 2022-11-29 | 121 | 4 | 
 | 2022-11-28 | 121 | 4 | 
-| 2022-11-27 | 121 | 4 | 
 

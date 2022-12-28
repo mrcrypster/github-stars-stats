@@ -1,10 +1,10 @@
 # rammcodes/Dopefolio - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 375
 
-★ Stars: 2270
+★ Stars: 2271
 
 [Open repository](https://github.com/rammcodes/Dopefolio)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 2271 | 375 | 
 | 2022-12-26 | 2270 | 375 | 
 | 2022-12-25 | 2268 | 375 | 
 | 2022-12-24 | 2267 | 375 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 2247 | 365 | 
 | 2022-11-29 | 2247 | 363 | 
 | 2022-11-28 | 2246 | 363 | 
-| 2022-11-27 | 2246 | 361 | 
 

@@ -1,6 +1,6 @@
 # nemanjarogic/DesignPatternsLibrary - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 152
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 1599 | 152 | 
 | 2022-12-26 | 1599 | 152 | 
 | 2022-12-25 | 1599 | 152 | 
 | 2022-12-24 | 1599 | 152 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 1581 | 149 | 
 | 2022-11-29 | 1578 | 148 | 
 | 2022-11-28 | 1577 | 148 | 
-| 2022-11-27 | 1577 | 148 | 
 

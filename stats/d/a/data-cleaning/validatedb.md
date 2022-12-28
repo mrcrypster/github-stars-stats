@@ -1,10 +1,10 @@
 # data-cleaning/validatedb - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 4
 
-★ Stars: 28
+★ Stars: 30
 
 [Open repository](https://github.com/data-cleaning/validatedb)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 30 | 4 | 
 | 2022-12-26 | 28 | 4 | 
 | 2022-12-25 | 27 | 4 | 
 

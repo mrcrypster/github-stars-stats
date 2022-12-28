@@ -1,8 +1,8 @@
 # jtmaveryk/ngrok - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 28
 
-☋ Forks: 90
+☋ Forks: 97
 
 ★ Stars: 4
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 4 | 97 | 
+| 2022-12-27 | 4 | 96 | 
 | 2022-12-26 | 4 | 90 | 
 | 2022-12-25 | 4 | 89 | 
 | 2022-12-24 | 4 | 83 | 
@@ -40,5 +42,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | - | 56 | 
 | 2022-11-29 | - | 56 | 
 | 2022-11-28 | - | 56 | 
-| 2022-11-27 | - | 56 | 
 

@@ -1,10 +1,10 @@
 # patrickloeber/chatbot-deployment - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 177
 
-★ Stars: 104
+★ Stars: 105
 
 [Open repository](https://github.com/patrickloeber/chatbot-deployment)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 105 | 177 | 
 | 2022-12-26 | 104 | 177 | 
 | 2022-12-25 | 104 | 177 | 
 | 2022-12-24 | 104 | 176 | 

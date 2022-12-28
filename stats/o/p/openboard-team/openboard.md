@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 27
 
 ☋ Forks: 199
 
-★ Stars: 1888
+★ Stars: 1889
 
 [Open repository](https://github.com/openboard-team/openboard)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-27 | 1888 | 199 | 
+| 2022-12-27 | 1889 | 199 | 
 | 2022-12-26 | 1888 | 199 | 
 

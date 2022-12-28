@@ -1,6 +1,6 @@
 # onnx/tensorflow-onnx - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 375
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 1740 | 375 | 
 | 2022-12-27 | 1740 | 375 | 
 | 2022-12-25 | 1738 | 375 | 
 | 2022-12-24 | 1738 | 375 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 27
 | 2022-11-30 | 1710 | 371 | 
 | 2022-11-29 | 1709 | 371 | 
 | 2022-11-28 | 1709 | 370 | 
-| 2022-11-27 | 1707 | 370 | 
 

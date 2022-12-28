@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 27
 
 ☋ Forks: 191
 
-★ Stars: 1755
+★ Stars: 1756
 
 [Open repository](https://github.com/get-iplayer/get_iplayer)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-27 | 1755 | 191 | 
+| 2022-12-27 | 1756 | 191 | 
 | 2022-12-26 | 1755 | 191 | 
 | 2022-12-25 | 1755 | 191 | 
 | 2022-12-24 | 1754 | 191 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 27
 | 2022-11-30 | 1747 | 191 | 
 | 2022-11-29 | 1746 | 191 | 
 | 2022-11-28 | 1745 | 191 | 
-| 2022-11-27 | 1745 | 191 | 
 

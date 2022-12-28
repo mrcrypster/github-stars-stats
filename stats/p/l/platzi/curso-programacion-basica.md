@@ -1,10 +1,10 @@
 # platzi/curso-programacion-basica - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
-☋ Forks: 52
+☋ Forks: 53
 
-★ Stars: 61
+★ Stars: 62
 
 [Open repository](https://github.com/platzi/curso-programacion-basica)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 62 | 53 | 
 | 2022-12-26 | 61 | 52 | 
 | 2022-12-25 | 61 | 52 | 
 | 2022-12-24 | 61 | 52 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 54 | 44 | 
 | 2022-11-29 | 54 | 44 | 
 | 2022-11-28 | 53 | 44 | 
-| 2022-11-27 | 53 | 44 | 
 

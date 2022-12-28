@@ -1,10 +1,10 @@
 # karanpratapsingh/go-course - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 57
 
-★ Stars: 603
+★ Stars: 604
 
 [Open repository](https://github.com/karanpratapsingh/go-course)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 604 | 57 | 
 | 2022-12-26 | 603 | 57 | 
 | 2022-12-25 | 603 | 57 | 
 | 2022-12-24 | 603 | 57 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-12-01 | 585 | 53 | 
 | 2022-11-30 | 583 | 53 | 
 | 2022-11-29 | 582 | 53 | 
-| 2022-11-28 | 582 | 53 | 
 

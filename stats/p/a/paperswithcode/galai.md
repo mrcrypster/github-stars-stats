@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 27
 
-☋ Forks: 185
+☋ Forks: 186
 
-★ Stars: 1856
+★ Stars: 1859
 
 [Open repository](https://github.com/paperswithcode/galai)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-27 | 1856 | 185 | 
+| 2022-12-27 | 1859 | 186 | 
 | 2022-12-26 | 1855 | 185 | 
 | 2022-12-25 | 1845 | 180 | 
 | 2022-12-24 | 1843 | 179 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-11-30 | 1658 | 155 | 
 | 2022-11-29 | 1643 | 153 | 
 | 2022-11-28 | 1620 | 150 | 
-| 2022-11-27 | 1603 | 147 | 
 

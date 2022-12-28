@@ -1,10 +1,10 @@
 # openai/DALL-E - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 1702
 
-★ Stars: 9480
+★ Stars: 9484
 
 [Open repository](https://github.com/openai/DALL-E)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 9484 | 1702 | 
 | 2022-12-26 | 9480 | 1702 | 
 | 2022-12-25 | 9472 | 1697 | 
 | 2022-12-24 | 9469 | 1695 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 9239 | 1643 | 
 | 2022-11-29 | 9238 | 1642 | 
 | 2022-11-28 | 9233 | 1642 | 
-| 2022-11-27 | 9227 | 1639 | 
 

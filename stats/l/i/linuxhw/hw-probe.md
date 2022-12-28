@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 27
 
 ☋ Forks: 54
 
-★ Stars: 538
+★ Stars: 539
 
 [Open repository](https://github.com/linuxhw/hw-probe)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-27 | 538 | 54 | 
+| 2022-12-27 | 539 | 54 | 
 | 2022-12-26 | 538 | 54 | 
 | 2022-12-25 | 538 | 54 | 
 | 2022-12-24 | 537 | 54 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-11-30 | 527 | 53 | 
 | 2022-11-29 | 527 | 53 | 
 | 2022-11-28 | 526 | 53 | 
-| 2022-11-27 | 525 | 53 | 
 

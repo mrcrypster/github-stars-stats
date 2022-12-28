@@ -1,6 +1,6 @@
 # nickbild/tflite_c64 - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 127 | - | 
 | 2022-12-26 | 127 | - | 
 | 2022-12-25 | 127 | - | 
 | 2022-12-24 | 127 | - | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 26
 | 2022-12-01 | 127 | - | 
 | 2022-11-30 | 127 | - | 
 | 2022-11-29 | 127 | - | 
-| 2022-11-28 | 127 | - | 
 

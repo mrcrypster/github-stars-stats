@@ -1,6 +1,6 @@
 # openai/retro - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 418
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 2812 | 418 | 
 | 2022-12-26 | 2812 | 418 | 
 | 2022-12-25 | 2809 | 418 | 
 | 2022-12-24 | 2808 | 418 | 

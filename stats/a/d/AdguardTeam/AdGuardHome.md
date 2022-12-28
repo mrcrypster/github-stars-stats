@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 27
 
 ☋ Forks: 1335
 
-★ Stars: 15185
+★ Stars: 15193
 
 [Open repository](https://github.com/AdguardTeam/AdGuardHome)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-27 | 15185 | 1335 | 
+| 2022-12-27 | 15193 | 1335 | 
 | 2022-12-26 | 15185 | 1335 | 
 | 2022-12-25 | 15169 | 1334 | 
 | 2022-12-24 | 15162 | 1333 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 27
 | 2022-11-30 | 14822 | 1314 | 
 | 2022-11-29 | 14621 | 1307 | 
 | 2022-11-28 | 14585 | 1306 | 
-| 2022-11-27 | 14575 | 1305 | 
 

@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 27
 
 ☋ Forks: 249
 
-★ Stars: 828
+★ Stars: 829
 
 [Open repository](https://github.com/Logitech/slimserver)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-27 | 828 | 249 | 
+| 2022-12-27 | 829 | 249 | 
 | 2022-12-26 | 828 | 249 | 
 | 2022-12-25 | 827 | 249 | 
 | 2022-12-24 | 826 | 249 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 27
 | 2022-11-30 | 811 | 249 | 
 | 2022-11-29 | 811 | 249 | 
 | 2022-11-28 | 811 | 249 | 
-| 2022-11-27 | 810 | 249 | 
 

@@ -1,10 +1,10 @@
 # S3cur3Th1sSh1t/WinPwn - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 452
 
-★ Stars: 2566
+★ Stars: 2567
 
 [Open repository](https://github.com/S3cur3Th1sSh1t/WinPwn)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 2567 | 452 | 
 | 2022-12-26 | 2566 | 452 | 
 | 2022-12-25 | 2565 | 452 | 
 | 2022-12-24 | 2563 | 452 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 2537 | 448 | 
 | 2022-11-29 | 2536 | 448 | 
 | 2022-11-28 | 2534 | 448 | 
-| 2022-11-27 | 2534 | 446 | 
 

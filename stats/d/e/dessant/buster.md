@@ -1,10 +1,10 @@
 # dessant/buster - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
-☋ Forks: 492
+☋ Forks: 493
 
-★ Stars: 5494
+★ Stars: 5500
 
 [Open repository](https://github.com/dessant/buster)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 5500 | 493 | 
 | 2022-12-26 | 5494 | 492 | 
 | 2022-12-25 | 5493 | 492 | 
 | 2022-12-24 | 5491 | 492 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 5419 | 490 | 
 | 2022-11-29 | 5418 | 489 | 
 | 2022-11-28 | 5416 | 489 | 
-| 2022-11-27 | 5413 | 489 | 
 

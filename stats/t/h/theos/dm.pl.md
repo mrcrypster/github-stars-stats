@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 27
 
 ☋ Forks: 22
 
-★ Stars: 37
+★ Stars: 38
 
 [Open repository](https://github.com/theos/dm.pl)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-27 | 37 | 22 | 
+| 2022-12-27 | 38 | 22 | 
 | 2022-12-26 | 37 | 22 | 
 | 2022-12-25 | 37 | 22 | 
 | 2022-12-24 | 37 | 22 | 

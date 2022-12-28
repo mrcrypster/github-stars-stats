@@ -1,10 +1,10 @@
 # enoki-inc/aither - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 1
 
-★ Stars: 71
+★ Stars: 86
 
 [Open repository](https://github.com/enoki-inc/aither)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 86 | 1 | 
+| 2022-12-27 | 86 | 1 | 
 | 2022-12-26 | 71 | 1 | 
 | 2022-12-25 | 47 | 1 | 
 | 2022-12-24 | 46 | 1 | 

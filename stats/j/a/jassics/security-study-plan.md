@@ -1,10 +1,10 @@
 # jassics/security-study-plan - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
-☋ Forks: 269
+☋ Forks: 277
 
-★ Stars: 2555
+★ Stars: 2602
 
 [Open repository](https://github.com/jassics/security-study-plan)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 2602 | 277 | 
 | 2022-12-26 | 2555 | 269 | 
 | 2022-12-25 | 2466 | 258 | 
 | 2022-12-24 | 2426 | 253 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 311 | 52 | 
 | 2022-11-29 | 310 | 52 | 
 | 2022-11-28 | 308 | 52 | 
-| 2022-11-27 | 308 | 52 | 
 

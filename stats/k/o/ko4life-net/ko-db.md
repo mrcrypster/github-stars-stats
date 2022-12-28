@@ -1,10 +1,10 @@
 # ko4life-net/ko-db - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 2
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/ko4life-net/ko-db)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 4 | 2 | 
 | 2022-12-26 | 3 | 2 | 
 | 2022-12-25 | 3 | 2 | 
 | 2022-12-24 | 3 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 3 | 2 | 
 | 2022-11-29 | 3 | 2 | 
 | 2022-11-28 | 3 | 2 | 
-| 2022-11-27 | 3 | 2 | 
 

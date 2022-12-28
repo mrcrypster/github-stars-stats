@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 27
 
 ☋ Forks: 3
 
-★ Stars: 30
+★ Stars: 32
 
 [Open repository](https://github.com/paranim/parazoa)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-27 | 30 | 3 | 
+| 2022-12-27 | 32 | 3 | 
 | 2022-12-26 | 30 | 3 | 
 

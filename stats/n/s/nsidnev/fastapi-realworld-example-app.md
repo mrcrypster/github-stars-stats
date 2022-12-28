@@ -1,10 +1,10 @@
 # nsidnev/fastapi-realworld-example-app - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 28
 
-☋ Forks: 554
+☋ Forks: 553
 
-★ Stars: 2233
+★ Stars: 2234
 
 [Open repository](https://github.com/nsidnev/fastapi-realworld-example-app)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 2234 | 553 | 
 | 2022-12-26 | 2233 | 554 | 
 | 2022-12-25 | 2229 | 554 | 
 | 2022-12-24 | 2229 | 554 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 2217 | 554 | 
 | 2022-11-29 | 2216 | 553 | 
 | 2022-11-28 | 2212 | 552 | 
-| 2022-11-27 | 2210 | 552 | 
 

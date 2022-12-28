@@ -1,6 +1,6 @@
 # syl20bnr/vi-tilde-fringe - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 27 | 6 | 
 | 2022-12-27 | 27 | 6 | 
 | 2022-12-25 | 27 | 6 | 
 | 2022-12-24 | 27 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 27 | 6 | 
 | 2022-11-30 | 27 | 6 | 
 | 2022-11-29 | 27 | 6 | 
-| 2022-11-28 | 27 | 6 | 
 

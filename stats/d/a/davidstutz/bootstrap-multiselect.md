@@ -1,10 +1,10 @@
 # davidstutz/bootstrap-multiselect - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
-☋ Forks: 2006
+☋ Forks: 2007
 
-★ Stars: 3602
+★ Stars: 3601
 
 [Open repository](https://github.com/davidstutz/bootstrap-multiselect)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 3601 | 2007 | 
 | 2022-12-26 | 3602 | 2006 | 
 | 2022-12-25 | 3602 | 2005 | 
 | 2022-12-24 | 3602 | 2005 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 3595 | 2005 | 
 | 2022-11-29 | 3595 | 2005 | 
 | 2022-11-28 | 3595 | 2002 | 
-| 2022-11-27 | 3595 | 2002 | 
 

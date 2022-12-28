@@ -1,10 +1,10 @@
 # morpho-dao/morpho-v1 - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
-☋ Forks: 2
+☋ Forks: 3
 
-★ Stars: 78
+★ Stars: 79
 
 [Open repository](https://github.com/morpho-dao/morpho-v1)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 79 | 3 | 
 | 2022-12-26 | 78 | 2 | 
 | 2022-12-25 | 78 | 1 | 
 | 2022-12-24 | 75 | 1 | 

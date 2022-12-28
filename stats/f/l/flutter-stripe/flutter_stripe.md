@@ -1,6 +1,6 @@
 # flutter-stripe/flutter_stripe - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 312
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 623 | 312 | 
 | 2022-12-26 | 623 | 312 | 
 | 2022-12-25 | 622 | 312 | 
 | 2022-12-24 | 621 | 312 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 607 | 301 | 
 | 2022-11-29 | 606 | 301 | 
 | 2022-11-28 | 604 | 301 | 
-| 2022-11-27 | 604 | 301 | 
 

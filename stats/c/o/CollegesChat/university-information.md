@@ -1,10 +1,10 @@
 # CollegesChat/university-information - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 72
 
-★ Stars: 1368
+★ Stars: 1369
 
 [Open repository](https://github.com/CollegesChat/university-information)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 1369 | 72 | 
 | 2022-12-26 | 1368 | 72 | 
 | 2022-12-25 | 1368 | 72 | 
 | 2022-12-24 | 1368 | 72 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 1319 | 70 | 
 | 2022-11-29 | 1318 | 70 | 
 | 2022-11-28 | 1318 | 70 | 
-| 2022-11-27 | 1317 | 70 | 
 

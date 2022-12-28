@@ -1,10 +1,10 @@
 # docker/docs - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 6222
 
-★ Stars: 3708
+★ Stars: 3709
 
 [Open repository](https://github.com/docker/docs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 3709 | 6222 | 
 | 2022-12-26 | 3708 | 6222 | 
 | 2022-12-25 | 3709 | 6222 | 
 | 2022-12-24 | 3708 | 6222 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 3692 | 6184 | 
 | 2022-11-29 | 3690 | 6175 | 
 | 2022-11-28 | 3687 | 6169 | 
-| 2022-11-27 | 3687 | 6162 | 
 

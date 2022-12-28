@@ -1,10 +1,10 @@
 # derailed/popeye - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 236
 
-★ Stars: 4121
+★ Stars: 4123
 
 [Open repository](https://github.com/derailed/popeye)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 4123 | 236 | 
 | 2022-12-26 | 4121 | 236 | 
 | 2022-12-25 | 4122 | 236 | 
 | 2022-12-24 | 4120 | 235 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 4092 | 231 | 
 | 2022-11-29 | 4090 | 231 | 
 | 2022-11-28 | 4090 | 231 | 
-| 2022-11-27 | 4089 | 231 | 
 

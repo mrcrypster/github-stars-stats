@@ -1,8 +1,8 @@
 # ucb-bar/berkeley-hardfloat - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
-☋ Forks: 69
+☋ Forks: 70
 
 ★ Stars: 198
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 198 | 70 | 
 | 2022-12-26 | 198 | 69 | 
 | 2022-12-25 | 198 | 69 | 
 | 2022-12-24 | 198 | 69 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 192 | 68 | 
 | 2022-11-29 | 191 | 68 | 
 | 2022-11-28 | 191 | 68 | 
-| 2022-11-27 | 191 | 68 | 
 

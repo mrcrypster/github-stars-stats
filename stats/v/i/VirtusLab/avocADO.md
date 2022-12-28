@@ -1,6 +1,6 @@
 # VirtusLab/avocADO - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 61 | 4 | 
 | 2022-12-26 | 61 | 4 | 
 | 2022-12-25 | 60 | 4 | 
 | 2022-12-24 | 60 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 47 | 3 | 
 | 2022-11-29 | 46 | 3 | 
 | 2022-11-28 | 44 | 3 | 
-| 2022-11-27 | 42 | 3 | 
 

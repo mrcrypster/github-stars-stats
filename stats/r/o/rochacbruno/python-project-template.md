@@ -1,8 +1,8 @@
 # rochacbruno/python-project-template - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
-☋ Forks: 93
+☋ Forks: 94
 
 ★ Stars: 647
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 647 | 94 | 
 | 2022-12-26 | 647 | 93 | 
 | 2022-12-25 | 647 | 93 | 
 | 2022-12-24 | 647 | 93 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 638 | 81 | 
 | 2022-11-29 | 637 | 80 | 
 | 2022-11-28 | 636 | 80 | 
-| 2022-11-27 | 636 | 79 | 
 

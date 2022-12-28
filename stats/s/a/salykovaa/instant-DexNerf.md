@@ -1,10 +1,10 @@
 # salykovaa/instant-DexNerf - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 2
 
-★ Stars: 38
+★ Stars: 39
 
 [Open repository](https://github.com/salykovaa/instant-DexNerf)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 39 | 2 | 
 | 2022-12-26 | 38 | 2 | 
 | 2022-12-25 | 37 | 2 | 
 | 2022-12-24 | 37 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 33 | 1 | 
 | 2022-11-29 | 32 | 1 | 
 | 2022-11-28 | 32 | 1 | 
-| 2022-11-27 | 32 | 1 | 
 

@@ -1,8 +1,8 @@
 # RetroMusicPlayer/RetroMusicPlayer - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
-☋ Forks: 586
+☋ Forks: 590
 
 ★ Stars: 2646
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 2646 | 590 | 
 | 2022-12-26 | 2646 | 586 | 
 | 2022-12-25 | 2643 | 586 | 
 | 2022-12-24 | 2643 | 587 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 2563 | 582 | 
 | 2022-11-29 | 2562 | 581 | 
 | 2022-11-28 | 2561 | 581 | 
-| 2022-11-27 | 2561 | 580 | 
 

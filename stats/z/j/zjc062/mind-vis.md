@@ -1,10 +1,10 @@
 # zjc062/mind-vis - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 46
 
-★ Stars: 403
+★ Stars: 404
 
 [Open repository](https://github.com/zjc062/mind-vis)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 404 | 46 | 
 | 2022-12-26 | 403 | 46 | 
 | 2022-12-25 | 402 | 46 | 
 | 2022-12-24 | 400 | 46 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 344 | 37 | 
 | 2022-11-29 | 340 | 36 | 
 | 2022-11-28 | 335 | 35 | 
-| 2022-11-27 | 325 | 33 | 
 

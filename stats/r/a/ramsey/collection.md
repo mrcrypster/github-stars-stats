@@ -1,10 +1,10 @@
 # ramsey/collection - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 52
 
-★ Stars: 850
+★ Stars: 851
 
 [Open repository](https://github.com/ramsey/collection)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 851 | 52 | 
 | 2022-12-26 | 850 | 52 | 
 | 2022-12-25 | 850 | 52 | 
 | 2022-12-24 | 850 | 52 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 842 | 51 | 
 | 2022-11-29 | 843 | 51 | 
 | 2022-11-28 | 842 | 51 | 
-| 2022-11-27 | 842 | 51 | 
 

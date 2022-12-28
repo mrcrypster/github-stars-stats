@@ -1,10 +1,10 @@
 # ipetkov/crane - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 26
 
-★ Stars: 341
+★ Stars: 343
 
 [Open repository](https://github.com/ipetkov/crane)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 343 | 26 | 
 | 2022-12-26 | 341 | 26 | 
 | 2022-12-25 | 337 | 26 | 
 | 2022-12-24 | 336 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 300 | 24 | 
 | 2022-11-29 | 298 | 24 | 
 | 2022-11-28 | 296 | 24 | 
-| 2022-11-27 | 295 | 24 | 
 

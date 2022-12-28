@@ -1,10 +1,10 @@
 # lunatic-solutions/submillisecond - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 15
 
-★ Stars: 731
+★ Stars: 732
 
 [Open repository](https://github.com/lunatic-solutions/submillisecond)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 732 | 15 | 
 | 2022-12-26 | 731 | 15 | 
 | 2022-12-25 | 731 | 15 | 
 | 2022-12-24 | 731 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 703 | 13 | 
 | 2022-11-29 | 693 | 13 | 
 | 2022-11-28 | 693 | 14 | 
-| 2022-11-27 | 693 | 14 | 
 

@@ -1,6 +1,6 @@
 # Lrunlin/blog - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 76
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 364 | 76 | 
 | 2022-12-26 | 364 | 76 | 
 | 2022-12-25 | 363 | 76 | 
 | 2022-12-24 | 362 | 76 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 344 | 73 | 
 | 2022-11-29 | 344 | 73 | 
 | 2022-11-28 | 343 | 73 | 
-| 2022-11-27 | 343 | 73 | 
 

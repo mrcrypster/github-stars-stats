@@ -1,6 +1,6 @@
 # evelyneee/accord - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 276 | 21 | 
 | 2022-12-26 | 276 | 21 | 
 | 2022-12-25 | 276 | 21 | 
 | 2022-12-24 | 276 | 21 | 

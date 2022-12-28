@@ -1,6 +1,6 @@
 # jmechner/Prince-of-Persia-Apple-II - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 652
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 6117 | 652 | 
 | 2022-12-26 | 6117 | 652 | 
 | 2022-12-25 | 6116 | 652 | 
 | 2022-12-24 | 6115 | 652 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 6088 | 651 | 
 | 2022-11-29 | 6087 | 651 | 
 | 2022-11-28 | 6087 | 651 | 
-| 2022-11-27 | 6088 | 651 | 
 

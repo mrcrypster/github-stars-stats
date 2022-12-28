@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 27
 
 ☋ Forks: 67
 
-★ Stars: 1118
+★ Stars: 1119
 
 [Open repository](https://github.com/manna-harbour/miryoku)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-27 | 1118 | 67 | 
+| 2022-12-27 | 1119 | 67 | 
 | 2022-12-26 | 1118 | 67 | 
 | 2022-12-25 | 1114 | 67 | 
 | 2022-12-24 | 1114 | 67 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 27
 | 2022-11-30 | 1076 | 64 | 
 | 2022-11-29 | 1074 | 64 | 
 | 2022-11-28 | 1070 | 64 | 
-| 2022-11-27 | 1068 | 64 | 
 

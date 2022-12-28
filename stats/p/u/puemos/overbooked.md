@@ -1,10 +1,10 @@
 # puemos/overbooked - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
-☋ Forks: 0
+☋ Forks: 1
 
-★ Stars: 53
+★ Stars: 54
 
 [Open repository](https://github.com/puemos/overbooked)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 54 | 1 | 
 | 2022-12-26 | 53 | - | 
 | 2022-12-25 | 52 | - | 
 | 2022-12-24 | 48 | - | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-12-01 | 44 | - | 
 | 2022-11-30 | 44 | - | 
 | 2022-11-29 | 44 | - | 
-| 2022-11-28 | 44 | - | 
 

@@ -1,10 +1,10 @@
 # apache/incubator-devlake - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
-☋ Forks: 282
+☋ Forks: 283
 
-★ Stars: 1847
+★ Stars: 1850
 
 [Open repository](https://github.com/apache/incubator-devlake)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 1850 | 283 | 
 | 2022-12-26 | 1847 | 282 | 
 | 2022-12-25 | 1847 | 282 | 
 | 2022-12-24 | 1845 | 282 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 1814 | 272 | 
 | 2022-11-29 | 1810 | 272 | 
 | 2022-11-28 | 1809 | 271 | 
-| 2022-11-27 | 1804 | 271 | 
 

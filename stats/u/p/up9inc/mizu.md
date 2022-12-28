@@ -1,10 +1,10 @@
 # up9inc/mizu - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
-☋ Forks: 273
+☋ Forks: 277
 
-★ Stars: 7668
+★ Stars: 7741
 
 [Open repository](https://github.com/up9inc/mizu)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 7741 | 277 | 
 | 2022-12-26 | 7668 | 273 | 
 | 2022-12-25 | 7613 | 273 | 
 | 2022-12-24 | 7602 | 272 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 5924 | 195 | 
 | 2022-11-29 | 5852 | 184 | 
 | 2022-11-28 | 5754 | 176 | 
-| 2022-11-27 | 5644 | 169 | 
 

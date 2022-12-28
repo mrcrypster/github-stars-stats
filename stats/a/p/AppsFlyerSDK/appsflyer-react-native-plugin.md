@@ -1,10 +1,10 @@
 # AppsFlyerSDK/appsflyer-react-native-plugin - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 171
 
-★ Stars: 239
+★ Stars: 240
 
 [Open repository](https://github.com/AppsFlyerSDK/appsflyer-react-native-plugin)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 240 | 171 | 
 | 2022-12-26 | 239 | 171 | 
 | 2022-12-25 | 239 | 171 | 
 | 2022-12-24 | 239 | 171 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 233 | 169 | 
 | 2022-11-29 | 232 | 169 | 
 | 2022-11-28 | 232 | 169 | 
-| 2022-11-27 | 231 | 169 | 
 

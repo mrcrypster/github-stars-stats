@@ -1,10 +1,10 @@
 # Accenture/Spartacus - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 56
 
-★ Stars: 424
+★ Stars: 426
 
 [Open repository](https://github.com/Accenture/Spartacus)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 426 | 56 | 
 | 2022-12-26 | 424 | 56 | 
 | 2022-12-25 | 424 | 56 | 
 | 2022-12-24 | 424 | 56 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 357 | 46 | 
 | 2022-11-29 | 317 | 42 | 
 | 2022-11-28 | 287 | 38 | 
-| 2022-11-27 | 284 | 38 | 
 

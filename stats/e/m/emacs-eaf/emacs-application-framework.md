@@ -1,6 +1,6 @@
 # emacs-eaf/emacs-application-framework - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 205
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 2458 | 205 | 
 | 2022-12-26 | 2458 | 205 | 
 | 2022-12-25 | 2457 | 205 | 
 | 2022-12-24 | 2457 | 205 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 2425 | 202 | 
 | 2022-11-29 | 2425 | 202 | 
 | 2022-11-28 | 2424 | 202 | 
-| 2022-11-27 | 2424 | 202 | 
 

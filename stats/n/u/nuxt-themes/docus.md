@@ -1,10 +1,10 @@
 # nuxt-themes/docus - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 30
 
-★ Stars: 407
+★ Stars: 409
 
 [Open repository](https://github.com/nuxt-themes/docus)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 409 | 30 | 
 | 2022-12-26 | 407 | 30 | 
 | 2022-12-25 | 406 | 29 | 
 | 2022-12-24 | 404 | 29 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 330 | 15 | 
 | 2022-11-29 | 322 | 14 | 
 | 2022-11-28 | 320 | 14 | 
-| 2022-11-27 | 313 | 13 | 
 

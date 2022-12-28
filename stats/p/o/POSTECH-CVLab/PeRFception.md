@@ -1,6 +1,6 @@
 # POSTECH-CVLab/PeRFception - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 257 | 12 | 
 | 2022-12-26 | 257 | 12 | 
 | 2022-12-25 | 256 | 12 | 
 | 2022-12-24 | 255 | 12 | 

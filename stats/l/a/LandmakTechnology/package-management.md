@@ -1,8 +1,8 @@
 # LandmakTechnology/package-management - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
-☋ Forks: 2803
+☋ Forks: 2807
 
 ★ Stars: 28
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 28 | 2807 | 
 | 2022-12-26 | 28 | 2803 | 
 | 2022-12-25 | 28 | 2800 | 
 | 2022-12-24 | 27 | 2798 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 22 | 2493 | 
 | 2022-11-29 | 22 | 2484 | 
 | 2022-11-28 | 22 | 2482 | 
-| 2022-11-27 | 21 | 2464 | 
 

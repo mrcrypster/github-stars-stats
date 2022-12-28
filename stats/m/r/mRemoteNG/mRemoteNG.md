@@ -1,10 +1,10 @@
 # mRemoteNG/mRemoteNG - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 1294
 
-★ Stars: 7061
+★ Stars: 7066
 
 [Open repository](https://github.com/mRemoteNG/mRemoteNG)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 7066 | 1294 | 
 | 2022-12-26 | 7061 | 1294 | 
 | 2022-12-25 | 7060 | 1294 | 
 | 2022-12-24 | 7058 | 1294 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 6986 | 1291 | 
 | 2022-11-29 | 6979 | 1291 | 
 | 2022-11-28 | 6976 | 1291 | 
-| 2022-11-27 | 6971 | 1290 | 
 

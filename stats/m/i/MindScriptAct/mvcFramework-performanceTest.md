@@ -1,10 +1,10 @@
 # MindScriptAct/mvcFramework-performanceTest - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 0
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/MindScriptAct/mvcFramework-performanceTest)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 3 | - | 
 | 2022-12-27 | 2 | - | 
 | 2022-12-26 | 2 | - | 
 | 2022-12-24 | 2 | - | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 27
 | 2022-11-30 | 2 | - | 
 | 2022-11-29 | 2 | - | 
 | 2022-11-28 | 2 | - | 
-| 2022-11-27 | 2 | - | 
 

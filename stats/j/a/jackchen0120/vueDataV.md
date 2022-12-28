@@ -1,10 +1,10 @@
 # jackchen0120/vueDataV - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 401
 
-★ Stars: 1342
+★ Stars: 1343
 
 [Open repository](https://github.com/jackchen0120/vueDataV)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 1343 | 401 | 
 | 2022-12-27 | 1342 | 401 | 
 | 2022-12-26 | 1341 | 401 | 
 | 2022-12-25 | 1341 | 401 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 27
 | 2022-11-30 | 1323 | 398 | 
 | 2022-11-29 | 1323 | 398 | 
 | 2022-11-28 | 1320 | 398 | 
-| 2022-11-27 | 1320 | 398 | 
 

@@ -1,6 +1,6 @@
 # rafamadriz/friendly-snippets - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 221
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 830 | 221 | 
 | 2022-12-26 | 830 | 221 | 
 | 2022-12-25 | 828 | 221 | 
 | 2022-12-24 | 826 | 222 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 786 | 218 | 
 | 2022-11-29 | 786 | 219 | 
 | 2022-11-28 | 784 | 218 | 
-| 2022-11-27 | 783 | 218 | 
 

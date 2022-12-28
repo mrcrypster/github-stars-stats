@@ -1,6 +1,6 @@
 # semiosis/pen.el - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 440 | 15 | 
 | 2022-12-26 | 440 | 15 | 
 | 2022-12-25 | 439 | 15 | 
 | 2022-12-24 | 439 | 15 | 

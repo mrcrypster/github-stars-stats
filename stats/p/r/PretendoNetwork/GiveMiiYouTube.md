@@ -1,10 +1,10 @@
 # PretendoNetwork/GiveMiiYouTube - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 1
 
-★ Stars: 33
+★ Stars: 34
 
 [Open repository](https://github.com/PretendoNetwork/GiveMiiYouTube)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 34 | 1 | 
 | 2022-12-26 | 33 | 1 | 
 | 2022-12-25 | 33 | 1 | 
 | 2022-12-24 | 33 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 31 | 1 | 
 | 2022-11-29 | 31 | 1 | 
 | 2022-11-28 | 31 | 1 | 
-| 2022-11-27 | 31 | 1 | 
 

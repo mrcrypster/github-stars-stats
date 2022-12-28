@@ -1,10 +1,10 @@
 # matanolabs/matano - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 15
 
-★ Stars: 549
+★ Stars: 550
 
 [Open repository](https://github.com/matanolabs/matano)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 550 | 15 | 
 | 2022-12-27 | 549 | 15 | 
 | 2022-12-25 | 546 | 15 | 
 | 2022-12-24 | 542 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-11-30 | 495 | 13 | 
 | 2022-11-29 | 492 | 13 | 
 | 2022-11-28 | 491 | 13 | 
-| 2022-11-27 | 489 | 13 | 
 

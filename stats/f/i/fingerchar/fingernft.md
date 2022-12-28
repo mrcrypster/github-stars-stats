@@ -1,10 +1,10 @@
 # fingerchar/fingernft - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 637
 
-★ Stars: 1841
+★ Stars: 1842
 
 [Open repository](https://github.com/fingerchar/fingernft)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 1842 | 637 | 
 | 2022-12-27 | 1841 | 637 | 
 | 2022-12-25 | 1841 | 637 | 
 | 2022-12-24 | 1841 | 637 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 27
 | 2022-11-30 | 1836 | 637 | 
 | 2022-11-29 | 1835 | 637 | 
 | 2022-11-28 | 1835 | 637 | 
-| 2022-11-27 | 1834 | 637 | 
 

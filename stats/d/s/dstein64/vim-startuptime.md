@@ -1,10 +1,10 @@
 # dstein64/vim-startuptime - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 5
 
-★ Stars: 398
+★ Stars: 400
 
 [Open repository](https://github.com/dstein64/vim-startuptime)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 400 | 5 | 
 | 2022-12-26 | 398 | 5 | 
 | 2022-12-25 | 398 | 5 | 
 | 2022-12-24 | 397 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 386 | 4 | 
 | 2022-11-29 | 385 | 4 | 
 | 2022-11-28 | 384 | 4 | 
-| 2022-11-27 | 384 | 4 | 
 

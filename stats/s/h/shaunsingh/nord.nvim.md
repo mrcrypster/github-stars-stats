@@ -1,6 +1,6 @@
 # shaunsingh/nord.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 69
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 515 | 69 | 
 | 2022-12-26 | 515 | 69 | 
 | 2022-12-25 | 515 | 69 | 
 | 2022-12-24 | 515 | 69 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 498 | 68 | 
 | 2022-11-29 | 498 | 68 | 
 | 2022-11-28 | 498 | 68 | 
-| 2022-11-27 | 498 | 68 | 
 

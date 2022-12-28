@@ -1,10 +1,10 @@
 # flame-engine/flame - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 28
 
-☋ Forks: 700
+☋ Forks: 701
 
-★ Stars: 7240
+★ Stars: 7243
 
 [Open repository](https://github.com/flame-engine/flame)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 7243 | 701 | 
+| 2022-12-27 | 7241 | 701 | 
 | 2022-12-26 | 7240 | 700 | 
 | 2022-12-25 | 7230 | 698 | 
 | 2022-12-24 | 7227 | 698 | 
@@ -40,5 +42,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 7167 | 692 | 
 | 2022-11-29 | 7161 | 691 | 
 | 2022-11-28 | 7161 | 692 | 
-| 2022-11-27 | 7156 | 690 | 
 

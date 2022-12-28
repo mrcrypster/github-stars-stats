@@ -1,6 +1,6 @@
 # Charca/astro-blog-template - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 122 | 25 | 
 | 2022-12-26 | 122 | 25 | 
 | 2022-12-25 | 122 | 25 | 
 | 2022-12-24 | 122 | 25 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 26
 | 2022-12-01 | 116 | 22 | 
 | 2022-11-30 | 116 | 23 | 
 | 2022-11-28 | 114 | 22 | 
-| 2022-11-27 | 113 | 22 | 
 

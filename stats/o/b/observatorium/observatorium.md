@@ -1,10 +1,10 @@
 # observatorium/observatorium - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 66
 
-★ Stars: 152
+★ Stars: 153
 
 [Open repository](https://github.com/observatorium/observatorium)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 153 | 66 | 
 | 2022-12-26 | 152 | 66 | 
 | 2022-12-25 | 152 | 65 | 
 | 2022-12-23 | 151 | 65 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 150 | 65 | 
 | 2022-11-29 | 150 | 65 | 
 | 2022-11-28 | 150 | 65 | 
-| 2022-11-27 | 150 | 65 | 
 

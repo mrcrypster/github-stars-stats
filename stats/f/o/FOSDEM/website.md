@@ -1,6 +1,6 @@
 # FOSDEM/website - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 103
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 43 | 103 | 
 | 2022-12-26 | 43 | 103 | 
 | 2022-12-25 | 43 | 103 | 
 | 2022-12-24 | 43 | 103 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-12-01 | 41 | 102 | 
 | 2022-11-30 | 41 | 102 | 
 | 2022-11-29 | 41 | 102 | 
-| 2022-11-28 | 41 | 102 | 
 

@@ -1,6 +1,6 @@
 # matlab-deep-learning/compare-PyTorch-models-from-MATLAB - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 3 | - | 
 | 2022-12-26 | 3 | - | 
 | 2022-12-25 | 3 | - | 
 | 2022-12-24 | 3 | - | 

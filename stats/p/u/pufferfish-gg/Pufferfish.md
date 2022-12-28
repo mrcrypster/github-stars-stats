@@ -1,10 +1,10 @@
 # pufferfish-gg/Pufferfish - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 71
 
-★ Stars: 394
+★ Stars: 395
 
 [Open repository](https://github.com/pufferfish-gg/Pufferfish)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 395 | 71 | 
 | 2022-12-26 | 394 | 71 | 
 | 2022-12-25 | 394 | 71 | 
 | 2022-12-24 | 393 | 71 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 386 | 70 | 
 | 2022-11-29 | 385 | 71 | 
 | 2022-11-28 | 385 | 69 | 
-| 2022-11-27 | 385 | 69 | 
 

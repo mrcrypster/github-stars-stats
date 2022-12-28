@@ -1,6 +1,6 @@
 # axelarnetwork/axelar-utils-solidity - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 2 | 7 | 
 | 2022-12-27 | 2 | 7 | 
 | 2022-12-25 | 2 | 7 | 
 | 2022-12-24 | 2 | 7 | 

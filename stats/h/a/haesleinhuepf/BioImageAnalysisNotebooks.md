@@ -1,10 +1,10 @@
 # haesleinhuepf/BioImageAnalysisNotebooks - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 13
 
-★ Stars: 44
+★ Stars: 45
 
 [Open repository](https://github.com/haesleinhuepf/BioImageAnalysisNotebooks)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 45 | 13 | 
 | 2022-12-26 | 44 | 13 | 
 | 2022-12-25 | 44 | 13 | 
 | 2022-12-24 | 42 | 13 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 39 | 12 | 
 | 2022-11-29 | 39 | 12 | 
 | 2022-11-28 | 39 | 12 | 
-| 2022-11-27 | 39 | 12 | 
 

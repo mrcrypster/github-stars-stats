@@ -1,6 +1,6 @@
 # hmaverickadams/Windows-WiFi-Extractor - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 181 | 46 | 
 | 2022-12-26 | 181 | 46 | 
 | 2022-12-25 | 180 | 46 | 
 | 2022-12-24 | 180 | 45 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-12-01 | 180 | 44 | 
 | 2022-11-30 | 180 | 44 | 
 | 2022-11-29 | 179 | 44 | 
-| 2022-11-28 | 179 | 44 | 
 

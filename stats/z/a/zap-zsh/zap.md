@@ -1,10 +1,10 @@
 # zap-zsh/zap - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 18
 
-★ Stars: 207
+★ Stars: 210
 
 [Open repository](https://github.com/zap-zsh/zap)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 210 | 18 | 
 | 2022-12-26 | 207 | 18 | 
 | 2022-12-25 | 206 | 18 | 
 | 2022-12-24 | 205 | 18 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 176 | 15 | 
 | 2022-11-29 | 174 | 15 | 
 | 2022-11-28 | 172 | 16 | 
-| 2022-11-27 | 171 | 14 | 
 

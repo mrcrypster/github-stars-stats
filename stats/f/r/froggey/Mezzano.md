@@ -1,10 +1,10 @@
 # froggey/Mezzano - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
-☋ Forks: 179
+☋ Forks: 180
 
-★ Stars: 3298
+★ Stars: 3300
 
 [Open repository](https://github.com/froggey/Mezzano)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 3300 | 180 | 
 | 2022-12-26 | 3298 | 179 | 
 | 2022-12-25 | 3298 | 179 | 
 | 2022-12-24 | 3298 | 179 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-12-01 | 3287 | 179 | 
 | 2022-11-29 | 3285 | 179 | 
 | 2022-11-28 | 3284 | 179 | 
-| 2022-11-27 | 3284 | 179 | 
 

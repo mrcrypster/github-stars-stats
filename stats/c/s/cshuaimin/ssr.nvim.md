@@ -1,6 +1,6 @@
 # cshuaimin/ssr.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 469 | 3 | 
 | 2022-12-27 | 469 | 3 | 
 | 2022-12-25 | 464 | 3 | 
 | 2022-12-24 | 463 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 27
 | 2022-11-30 | 404 | 3 | 
 | 2022-11-29 | 401 | 3 | 
 | 2022-11-28 | 396 | 3 | 
-| 2022-11-27 | 391 | 3 | 
 

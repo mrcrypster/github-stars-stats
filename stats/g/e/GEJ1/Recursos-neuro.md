@@ -1,10 +1,10 @@
 # GEJ1/Recursos-neuro - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 44
 
-★ Stars: 138
+★ Stars: 139
 
 [Open repository](https://github.com/GEJ1/Recursos-neuro)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 139 | 44 | 
 | 2022-12-26 | 138 | 44 | 
 | 2022-12-25 | 138 | 44 | 
 | 2022-12-24 | 138 | 44 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 139 | 43 | 
 | 2022-11-29 | 139 | 42 | 
 | 2022-11-28 | 139 | 42 | 
-| 2022-11-27 | 139 | 42 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 27
 
-☋ Forks: 34
+☋ Forks: 49
 
-★ Stars: 359
+★ Stars: 391
 
 [Open repository](https://github.com/openai/gpt-discord-bot)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-27 | 359 | 34 | 
+| 2022-12-27 | 391 | 49 | 
 | 2022-12-26 | 344 | 33 | 
 | 2022-12-25 | 259 | 28 | 
 | 2022-12-24 | 192 | 24 | 

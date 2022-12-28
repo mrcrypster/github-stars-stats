@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 27
 
 ☋ Forks: 824
 
-★ Stars: 5901
+★ Stars: 5902
 
 [Open repository](https://github.com/rustwasm/wasm-bindgen)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-27 | 5901 | 824 | 
+| 2022-12-27 | 5902 | 824 | 
 | 2022-12-26 | 5900 | 824 | 
 | 2022-12-25 | 5896 | 821 | 
 | 2022-12-24 | 5894 | 820 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-11-30 | 5827 | 806 | 
 | 2022-11-29 | 5826 | 806 | 
 | 2022-11-28 | 5822 | 806 | 
-| 2022-11-27 | 5819 | 806 | 
 

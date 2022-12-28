@@ -1,6 +1,6 @@
 # EsperoTech/yaade - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 1044 | 38 | 
 | 2022-12-26 | 1044 | 38 | 
 | 2022-12-25 | 1044 | 38 | 
 | 2022-12-24 | 1044 | 38 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-12-01 | 1032 | 35 | 
 | 2022-11-30 | 1030 | 35 | 
 | 2022-11-29 | 1029 | 35 | 
-| 2022-11-28 | 1029 | 35 | 
 

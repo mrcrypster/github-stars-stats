@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 27
 
-☋ Forks: 1212
+☋ Forks: 1211
 
-★ Stars: 5029
+★ Stars: 5033
 
 [Open repository](https://github.com/discord/discord-api-docs)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-27 | 5029 | 1212 | 
+| 2022-12-27 | 5033 | 1211 | 
 | 2022-12-26 | 5028 | 1212 | 
 | 2022-12-25 | 5027 | 1211 | 
 | 2022-12-24 | 5025 | 1210 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 27
 | 2022-11-30 | 4969 | 1207 | 
 | 2022-11-29 | 4968 | 1207 | 
 | 2022-11-28 | 4961 | 1207 | 
-| 2022-11-27 | 4957 | 1206 | 
 

@@ -1,6 +1,6 @@
 # Tokinx/Wing - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 261 | 33 | 
 | 2022-12-26 | 261 | 33 | 
 | 2022-12-25 | 259 | 33 | 
 | 2022-12-24 | 258 | 33 | 

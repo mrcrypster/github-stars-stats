@@ -1,6 +1,6 @@
 # BGU-CS-VIL/DeepDPM - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 652 | 58 | 
 | 2022-12-26 | 652 | 58 | 
 | 2022-12-25 | 651 | 58 | 
 | 2022-12-24 | 651 | 58 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 649 | 55 | 
 | 2022-11-29 | 648 | 55 | 
 | 2022-11-28 | 647 | 55 | 
-| 2022-11-27 | 646 | 55 | 
 

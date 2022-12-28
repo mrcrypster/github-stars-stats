@@ -1,10 +1,10 @@
 # openspug/spug - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 1753
 
-★ Stars: 8234
+★ Stars: 8238
 
 [Open repository](https://github.com/openspug/spug)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 8238 | 1753 | 
 | 2022-12-26 | 8234 | 1753 | 
 | 2022-12-25 | 8233 | 1753 | 
 | 2022-12-24 | 8233 | 1753 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 8169 | 1745 | 
 | 2022-11-29 | 8167 | 1743 | 
 | 2022-11-28 | 8165 | 1743 | 
-| 2022-11-27 | 8161 | 1743 | 
 

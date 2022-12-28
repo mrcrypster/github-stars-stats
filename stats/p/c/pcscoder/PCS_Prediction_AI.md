@@ -1,10 +1,10 @@
 # pcscoder/PCS_Prediction_AI - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 92
+☋ Forks: 98
 
-★ Stars: 96
+★ Stars: 102
 
 [Open repository](https://github.com/pcscoder/PCS_Prediction_AI)
 
@@ -13,7 +13,8 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-27 | 96 | 92 | 
+| 2022-12-28 | 102 | 98 | 
+| 2022-12-27 | 102 | 98 | 
 | 2022-12-26 | 96 | 92 | 
 | 2022-12-25 | 75 | 75 | 
 

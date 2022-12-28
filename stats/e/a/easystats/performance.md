@@ -1,10 +1,10 @@
 # easystats/performance - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 72
 
-★ Stars: 810
+★ Stars: 811
 
 [Open repository](https://github.com/easystats/performance)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 811 | 72 | 
 | 2022-12-26 | 810 | 72 | 
 | 2022-12-25 | 810 | 72 | 
 | 2022-12-24 | 810 | 72 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 807 | 71 | 
 | 2022-11-29 | 805 | 71 | 
 | 2022-11-28 | 803 | 71 | 
-| 2022-11-27 | 803 | 71 | 
 

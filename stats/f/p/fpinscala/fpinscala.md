@@ -1,8 +1,8 @@
 # fpinscala/fpinscala - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
-☋ Forks: 2965
+☋ Forks: 2966
 
 ★ Stars: 5482
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 5482 | 2966 | 
 | 2022-12-26 | 5482 | 2965 | 
 | 2022-12-25 | 5482 | 2964 | 
 | 2022-12-24 | 5481 | 2964 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 5477 | 2963 | 
 | 2022-11-29 | 5477 | 2963 | 
 | 2022-11-28 | 5477 | 2963 | 
-| 2022-11-27 | 5477 | 2962 | 
 

@@ -1,10 +1,10 @@
 # Rongjiehuang/GenerSpeech - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
-☋ Forks: 21
+☋ Forks: 22
 
-★ Stars: 129
+★ Stars: 130
 
 [Open repository](https://github.com/Rongjiehuang/GenerSpeech)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 130 | 22 | 
 | 2022-12-26 | 129 | 21 | 
 | 2022-12-25 | 128 | 21 | 
 | 2022-12-24 | 128 | 21 | 

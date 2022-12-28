@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 27
 
 ☋ Forks: 2
 
-★ Stars: 209
+★ Stars: 213
 
 [Open repository](https://github.com/AlfieJones/theme-toggles)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-27 | 209 | 2 | 
+| 2022-12-27 | 213 | 2 | 
 | 2022-12-26 | 208 | 2 | 
 

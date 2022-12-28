@@ -1,6 +1,6 @@
 # machakann/vim-swap - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 265 | 4 | 
 | 2022-12-26 | 265 | 4 | 
 | 2022-12-25 | 264 | 4 | 
 | 2022-12-24 | 264 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-12-01 | 262 | 4 | 
 | 2022-11-30 | 262 | 4 | 
 | 2022-11-29 | 262 | 4 | 
-| 2022-11-28 | 262 | 4 | 
 

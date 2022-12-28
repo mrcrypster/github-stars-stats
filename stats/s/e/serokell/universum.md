@@ -1,6 +1,6 @@
 # serokell/universum - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 162 | 27 | 
 | 2022-12-26 | 162 | 27 | 
 | 2022-12-25 | 162 | 27 | 
 | 2022-12-24 | 162 | 27 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 162 | 27 | 
 | 2022-11-29 | 161 | 27 | 
 | 2022-11-28 | 161 | 27 | 
-| 2022-11-27 | 161 | 27 | 
 

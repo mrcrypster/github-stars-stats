@@ -1,6 +1,6 @@
 # JuliaPlots/PlotDocs.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 90
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 81 | 90 | 
 | 2022-12-26 | 81 | 90 | 
 | 2022-12-25 | 81 | 90 | 
 | 2022-12-24 | 81 | 90 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 78 | 90 | 
 | 2022-11-29 | 78 | 90 | 
 | 2022-11-28 | 78 | 90 | 
-| 2022-11-27 | 77 | 91 | 
 

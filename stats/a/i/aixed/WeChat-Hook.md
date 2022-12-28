@@ -1,10 +1,10 @@
 # aixed/WeChat-Hook - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
-☋ Forks: 138
+☋ Forks: 139
 
-★ Stars: 320
+★ Stars: 324
 
 [Open repository](https://github.com/aixed/WeChat-Hook)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 324 | 139 | 
 | 2022-12-26 | 320 | 138 | 
 | 2022-12-25 | 319 | 138 | 
 | 2022-12-24 | 318 | 137 | 

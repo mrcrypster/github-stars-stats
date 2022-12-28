@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 27
 
-☋ Forks: 7
+☋ Forks: 11
 
-★ Stars: 90
+★ Stars: 103
 
 [Open repository](https://github.com/cjyaddone/ChatWaifu)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-27 | 90 | 7 | 
+| 2022-12-27 | 103 | 11 | 
 | 2022-12-26 | 89 | 7 | 
 

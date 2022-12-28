@@ -1,10 +1,10 @@
 # mikefarah/yq - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 408
 
-★ Stars: 7070
+★ Stars: 7078
 
 [Open repository](https://github.com/mikefarah/yq)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 7078 | 408 | 
 | 2022-12-26 | 7070 | 408 | 
 | 2022-12-25 | 7061 | 408 | 
 | 2022-12-24 | 7055 | 408 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 26
 | 2022-12-01 | 6889 | 397 | 
 | 2022-11-29 | 6886 | 396 | 
 | 2022-11-28 | 6874 | 397 | 
-| 2022-11-27 | 6868 | 397 | 
 

@@ -1,10 +1,10 @@
 # JunweiLiang/awesome_lists - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
-☋ Forks: 38
+☋ Forks: 40
 
-★ Stars: 684
+★ Stars: 685
 
 [Open repository](https://github.com/JunweiLiang/awesome_lists)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 685 | 40 | 
 | 2022-12-26 | 684 | 38 | 
 | 2022-12-25 | 684 | 38 | 
 | 2022-12-24 | 684 | 38 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 640 | 36 | 
 | 2022-11-29 | 639 | 35 | 
 | 2022-11-28 | 639 | 35 | 
-| 2022-11-27 | 638 | 35 | 
 

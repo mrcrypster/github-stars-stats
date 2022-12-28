@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 27
 
 ☋ Forks: 1147
 
-★ Stars: 4167
+★ Stars: 4169
 
 [Open repository](https://github.com/jlord/git-it-electron)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-27 | 4167 | 1147 | 
+| 2022-12-27 | 4169 | 1147 | 
 | 2022-12-26 | 4167 | 1147 | 
 | 2022-12-25 | 4167 | 1146 | 
 | 2022-12-24 | 4166 | 1145 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-11-30 | 4156 | 1140 | 
 | 2022-11-29 | 4155 | 1140 | 
 | 2022-11-28 | 4154 | 1140 | 
-| 2022-11-27 | 4154 | 1140 | 
 

@@ -1,6 +1,6 @@
 # Java-S12138/frank - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 291
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 1711 | 291 | 
 | 2022-12-26 | 1711 | 291 | 
 | 2022-12-25 | 1710 | 291 | 
 | 2022-12-24 | 1709 | 291 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 1687 | 293 | 
 | 2022-11-29 | 1686 | 293 | 
 | 2022-11-28 | 1682 | 293 | 
-| 2022-11-27 | 1682 | 293 | 
 

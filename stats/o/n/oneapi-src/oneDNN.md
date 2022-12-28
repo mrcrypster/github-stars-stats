@@ -1,10 +1,10 @@
 # oneapi-src/oneDNN - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 834
 
-★ Stars: 3017
+★ Stars: 3018
 
 [Open repository](https://github.com/oneapi-src/oneDNN)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 3018 | 834 | 
 | 2022-12-26 | 3017 | 834 | 
 | 2022-12-25 | 3017 | 834 | 
 | 2022-12-24 | 3016 | 834 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 2998 | 826 | 
 | 2022-11-29 | 2995 | 826 | 
 | 2022-11-28 | 2994 | 826 | 
-| 2022-11-27 | 2995 | 827 | 
 

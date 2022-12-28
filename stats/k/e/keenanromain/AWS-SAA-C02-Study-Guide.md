@@ -1,10 +1,10 @@
 # keenanromain/AWS-SAA-C02-Study-Guide - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 633
 
-★ Stars: 1098
+★ Stars: 1097
 
 [Open repository](https://github.com/keenanromain/AWS-SAA-C02-Study-Guide)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 1097 | 633 | 
 | 2022-12-26 | 1098 | 633 | 
 | 2022-12-25 | 1095 | 633 | 
 | 2022-12-24 | 1094 | 633 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 1078 | 625 | 
 | 2022-11-29 | 1075 | 625 | 
 | 2022-11-28 | 1072 | 625 | 
-| 2022-11-27 | 1070 | 625 | 
 

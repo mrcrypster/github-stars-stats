@@ -1,10 +1,10 @@
 # sschmid/Entitas - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 1052
 
-★ Stars: 5975
+★ Stars: 5974
 
 [Open repository](https://github.com/sschmid/Entitas)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 5974 | 1052 | 
 | 2022-12-26 | 5975 | 1052 | 
 | 2022-12-25 | 5973 | 1052 | 
 | 2022-12-24 | 5973 | 1052 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 5940 | 1049 | 
 | 2022-11-29 | 5938 | 1049 | 
 | 2022-11-28 | 5932 | 1049 | 
-| 2022-11-27 | 5930 | 1049 | 
 

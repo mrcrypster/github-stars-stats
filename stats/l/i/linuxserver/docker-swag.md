@@ -1,10 +1,10 @@
 # linuxserver/docker-swag - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 184
 
-★ Stars: 1677
+★ Stars: 1680
 
 [Open repository](https://github.com/linuxserver/docker-swag)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 1680 | 184 | 
 | 2022-12-26 | 1677 | 184 | 
 | 2022-12-25 | 1677 | 184 | 
 | 2022-12-24 | 1674 | 184 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 1642 | 181 | 
 | 2022-11-29 | 1641 | 181 | 
 | 2022-11-28 | 1638 | 181 | 
-| 2022-11-27 | 1638 | 183 | 
 

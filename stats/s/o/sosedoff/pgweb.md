@@ -1,10 +1,10 @@
 # sosedoff/pgweb - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 634
 
-★ Stars: 7606
+★ Stars: 7608
 
 [Open repository](https://github.com/sosedoff/pgweb)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 7608 | 634 | 
 | 2022-12-26 | 7606 | 634 | 
 | 2022-12-25 | 7606 | 635 | 
 | 2022-12-24 | 7601 | 635 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 7572 | 632 | 
 | 2022-11-29 | 7572 | 631 | 
 | 2022-11-28 | 7572 | 631 | 
-| 2022-11-27 | 7567 | 631 | 
 

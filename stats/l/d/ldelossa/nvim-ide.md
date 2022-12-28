@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 27
 
-☋ Forks: 12
+☋ Forks: 13
 
-★ Stars: 514
+★ Stars: 516
 
 [Open repository](https://github.com/ldelossa/nvim-ide)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-27 | 514 | 12 | 
+| 2022-12-27 | 516 | 13 | 
 | 2022-12-26 | 507 | 12 | 
 | 2022-12-25 | 500 | 12 | 
 | 2022-12-23 | 496 | 12 | 

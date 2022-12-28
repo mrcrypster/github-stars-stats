@@ -1,8 +1,8 @@
 # dj-nitehawk/FastEndpoints - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
-☋ Forks: 148
+☋ Forks: 149
 
 ★ Stars: 2417
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 2417 | 149 | 
 | 2022-12-26 | 2417 | 148 | 
 | 2022-12-25 | 2417 | 148 | 
 | 2022-12-24 | 2414 | 148 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 2337 | 144 | 
 | 2022-11-29 | 2333 | 144 | 
 | 2022-11-28 | 2329 | 144 | 
-| 2022-11-27 | 2319 | 143 | 
 

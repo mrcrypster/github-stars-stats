@@ -1,10 +1,10 @@
 # vectordotdev/vector - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 972
 
-★ Stars: 12028
+★ Stars: 12043
 
 [Open repository](https://github.com/vectordotdev/vector)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 12043 | 972 | 
 | 2022-12-26 | 12028 | 972 | 
 | 2022-12-25 | 12019 | 972 | 
 | 2022-12-24 | 12015 | 972 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 11870 | 952 | 
 | 2022-11-29 | 11863 | 952 | 
 | 2022-11-28 | 11856 | 953 | 
-| 2022-11-27 | 11853 | 952 | 
 

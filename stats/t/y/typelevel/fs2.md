@@ -1,10 +1,10 @@
 # typelevel/fs2 - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 555
 
-★ Stars: 2178
+★ Stars: 2179
 
 [Open repository](https://github.com/typelevel/fs2)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 2179 | 555 | 
 | 2022-12-26 | 2178 | 555 | 
 | 2022-12-25 | 2178 | 555 | 
 | 2022-12-24 | 2177 | 555 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 2169 | 553 | 
 | 2022-11-29 | 2168 | 553 | 
 | 2022-11-28 | 2168 | 553 | 
-| 2022-11-27 | 2167 | 553 | 
 

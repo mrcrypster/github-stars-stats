@@ -1,10 +1,10 @@
 # Azure/jp-techdocs - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 2
 
-★ Stars: 68
+★ Stars: 70
 
 [Open repository](https://github.com/Azure/jp-techdocs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 70 | 2 | 
 | 2022-12-26 | 68 | 2 | 
 | 2022-12-25 | 67 | 2 | 
 | 2022-12-24 | 67 | 2 | 

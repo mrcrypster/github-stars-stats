@@ -1,10 +1,10 @@
 # dkhamsing/open-source-ios-apps - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 4924
 
-★ Stars: 32941
+★ Stars: 32952
 
 [Open repository](https://github.com/dkhamsing/open-source-ios-apps)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 32952 | 4924 | 
 | 2022-12-26 | 32941 | 4924 | 
 | 2022-12-25 | 32933 | 4921 | 
 | 2022-12-24 | 32925 | 4920 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 32620 | 4898 | 
 | 2022-11-29 | 32612 | 4898 | 
 | 2022-11-28 | 32596 | 4896 | 
-| 2022-11-27 | 32581 | 4898 | 
 

@@ -1,10 +1,10 @@
 # cockpit-project/cockpit - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
-☋ Forks: 904
+☋ Forks: 905
 
-★ Stars: 7728
+★ Stars: 7734
 
 [Open repository](https://github.com/cockpit-project/cockpit)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 7734 | 905 | 
 | 2022-12-26 | 7728 | 904 | 
 | 2022-12-25 | 7723 | 904 | 
 | 2022-12-24 | 7721 | 904 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 7551 | 895 | 
 | 2022-11-29 | 7528 | 895 | 
 | 2022-11-28 | 7491 | 891 | 
-| 2022-11-27 | 7415 | 887 | 
 

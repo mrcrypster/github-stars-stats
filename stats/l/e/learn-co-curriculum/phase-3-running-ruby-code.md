@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-3-running-ruby-code - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 28
 
-☋ Forks: 2450
+☋ Forks: 2454
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 1 | 2454 | 
 | 2022-12-26 | 1 | 2450 | 
 | 2022-12-25 | 1 | 2450 | 
 | 2022-12-24 | 1 | 2449 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 1 | 2372 | 
 | 2022-11-29 | 1 | 2370 | 
 | 2022-11-28 | 1 | 2369 | 
-| 2022-11-27 | 1 | 2368 | 
 

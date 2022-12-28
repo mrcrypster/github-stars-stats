@@ -1,10 +1,10 @@
 # fsprojects/FSharp.Control.TaskSeq - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 6
 
-★ Stars: 50
+★ Stars: 51
 
 [Open repository](https://github.com/fsprojects/FSharp.Control.TaskSeq)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 51 | 6 | 
 | 2022-12-26 | 50 | 6 | 
 | 2022-12-25 | 50 | 6 | 
 | 2022-12-24 | 50 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 46 | 5 | 
 | 2022-11-29 | 46 | 5 | 
 | 2022-11-28 | 46 | 5 | 
-| 2022-11-27 | 46 | 5 | 
 

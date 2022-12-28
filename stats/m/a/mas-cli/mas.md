@@ -1,10 +1,10 @@
 # mas-cli/mas - stars & forks statistics
 
-Stats updated on Dec 2022, 26
+Stats updated on Dec 2022, 27
 
 ☋ Forks: 244
 
-★ Stars: 9444
+★ Stars: 9446
 
 [Open repository](https://github.com/mas-cli/mas)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-27 | 9446 | 244 | 
 | 2022-12-26 | 9444 | 244 | 
 | 2022-12-25 | 9441 | 243 | 
 | 2022-12-24 | 9440 | 243 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 26
 | 2022-11-30 | 9367 | 242 | 
 | 2022-11-29 | 9366 | 242 | 
 | 2022-11-28 | 9365 | 243 | 
-| 2022-11-27 | 9363 | 243 | 
 
