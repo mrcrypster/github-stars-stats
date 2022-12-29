@@ -1,10 +1,10 @@
 # cnosdb/cnosdb - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 282
 
-★ Stars: 1116
+★ Stars: 1117
 
 [Open repository](https://github.com/cnosdb/cnosdb)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 1117 | 282 | 
 | 2022-12-27 | 1116 | 282 | 
 | 2022-12-26 | 1116 | 282 | 
 | 2022-12-25 | 1115 | 282 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 1095 | 277 | 
 | 2022-11-30 | 1095 | 277 | 
 | 2022-11-29 | 1093 | 276 | 
-| 2022-11-28 | 1093 | 277 | 
 

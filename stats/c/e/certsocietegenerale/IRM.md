@@ -1,10 +1,10 @@
 # certsocietegenerale/IRM - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 48
 
-★ Stars: 456
+★ Stars: 461
 
 [Open repository](https://github.com/certsocietegenerale/IRM)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 461 | 48 | 
 | 2022-12-27 | 456 | 48 | 
 | 2022-12-26 | 451 | 47 | 
 | 2022-12-25 | 434 | 46 | 

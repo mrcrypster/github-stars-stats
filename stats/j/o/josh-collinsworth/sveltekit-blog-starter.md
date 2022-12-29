@@ -1,6 +1,6 @@
 # josh-collinsworth/sveltekit-blog-starter - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 145 | 39 | 
 | 2022-12-27 | 145 | 39 | 
 | 2022-12-26 | 144 | 38 | 
 | 2022-12-25 | 144 | 38 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 139 | 33 | 
 | 2022-11-30 | 139 | 33 | 
 | 2022-11-29 | 139 | 33 | 
-| 2022-11-28 | 139 | 33 | 
 

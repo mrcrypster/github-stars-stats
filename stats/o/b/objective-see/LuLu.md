@@ -1,10 +1,10 @@
 # objective-see/LuLu - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 383
 
-★ Stars: 7339
+★ Stars: 7344
 
 [Open repository](https://github.com/objective-see/LuLu)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 7344 | 383 | 
 | 2022-12-27 | 7339 | 383 | 
 | 2022-12-26 | 7337 | 383 | 
 | 2022-12-25 | 7336 | 383 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 7293 | 379 | 
 | 2022-11-30 | 7286 | 379 | 
 | 2022-11-29 | 7283 | 379 | 
-| 2022-11-28 | 7277 | 379 | 
 

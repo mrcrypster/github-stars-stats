@@ -1,6 +1,6 @@
 # nextcloud/talk-ios - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 67
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 112 | 67 | 
 | 2022-12-27 | 112 | 67 | 
 | 2022-12-26 | 111 | 67 | 
 | 2022-12-25 | 111 | 67 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 108 | 67 | 
 | 2022-11-30 | 107 | 66 | 
 | 2022-11-29 | 107 | 66 | 
-| 2022-11-28 | 106 | 65 | 
 

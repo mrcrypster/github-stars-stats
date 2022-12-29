@@ -1,8 +1,8 @@
 # Regsa-cantik/rdp-free - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 49
+☋ Forks: 50
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 1 | 50 | 
 | 2022-12-27 | 1 | 49 | 
 | 2022-12-26 | 1 | 49 | 
 | 2022-12-25 | 1 | 48 | 

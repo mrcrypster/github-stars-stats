@@ -1,10 +1,10 @@
 # bufbuild/connect-web - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 25
 
-★ Stars: 716
+★ Stars: 717
 
 [Open repository](https://github.com/bufbuild/connect-web)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 717 | 25 | 
 | 2022-12-27 | 716 | 25 | 
 | 2022-12-26 | 714 | 25 | 
 | 2022-12-25 | 713 | 25 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 674 | 23 | 
 | 2022-11-30 | 674 | 23 | 
 | 2022-11-29 | 672 | 23 | 
-| 2022-11-28 | 669 | 23 | 
 

@@ -1,10 +1,10 @@
 # Xinyuan-LilyGO/T-Display-S3 - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 39
 
-★ Stars: 166
+★ Stars: 167
 
 [Open repository](https://github.com/Xinyuan-LilyGO/T-Display-S3)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 167 | 39 | 
 | 2022-12-27 | 166 | 39 | 
 | 2022-12-26 | 166 | 40 | 
 | 2022-12-25 | 166 | 40 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 135 | 33 | 
 | 2022-11-30 | 133 | 33 | 
 | 2022-11-29 | 131 | 32 | 
-| 2022-11-28 | 131 | 32 | 
 

@@ -1,10 +1,10 @@
 # frappe/erpnext - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 5038
 
-★ Stars: 12426
+★ Stars: 12434
 
 [Open repository](https://github.com/frappe/erpnext)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 12434 | 5038 | 
 | 2022-12-27 | 12426 | 5038 | 
 | 2022-12-26 | 12419 | 5038 | 
 | 2022-12-25 | 12408 | 5032 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 12301 | 4985 | 
 | 2022-11-30 | 12291 | 4982 | 
 | 2022-11-29 | 12284 | 4977 | 
-| 2022-11-28 | 12280 | 4971 | 
 

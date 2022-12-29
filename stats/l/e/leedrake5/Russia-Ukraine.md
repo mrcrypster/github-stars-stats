@@ -1,6 +1,6 @@
 # leedrake5/Russia-Ukraine - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 327 | 17 | 
 | 2022-12-27 | 327 | 17 | 
 | 2022-12-26 | 326 | 17 | 
 | 2022-12-25 | 326 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 320 | 17 | 
 | 2022-11-30 | 319 | 17 | 
 | 2022-11-29 | 319 | 17 | 
-| 2022-11-28 | 317 | 17 | 
 

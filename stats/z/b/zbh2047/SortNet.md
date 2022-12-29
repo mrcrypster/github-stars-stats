@@ -1,8 +1,8 @@
 # zbh2047/SortNet - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 14
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 14 | 2 | 
 | 2022-12-27 | 14 | 1 | 
 | 2022-12-26 | 14 | 1 | 
 | 2022-12-25 | 13 | 1 | 

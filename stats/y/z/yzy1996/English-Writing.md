@@ -1,6 +1,6 @@
 # yzy1996/English-Writing - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 69
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 839 | 69 | 
 | 2022-12-27 | 839 | 69 | 
 | 2022-12-26 | 839 | 69 | 
 | 2022-12-25 | 837 | 69 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 822 | 66 | 
 | 2022-11-30 | 822 | 66 | 
 | 2022-11-29 | 821 | 67 | 
-| 2022-11-28 | 820 | 67 | 
 

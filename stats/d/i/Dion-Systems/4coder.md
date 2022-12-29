@@ -1,6 +1,6 @@
 # Dion-Systems/4coder - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 91
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 403 | 91 | 
 | 2022-12-27 | 403 | 91 | 
 | 2022-12-26 | 403 | 90 | 
 | 2022-12-25 | 403 | 90 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 401 | 91 | 
 | 2022-11-30 | 401 | 91 | 
 | 2022-11-29 | 400 | 91 | 
-| 2022-11-28 | 401 | 92 | 
 

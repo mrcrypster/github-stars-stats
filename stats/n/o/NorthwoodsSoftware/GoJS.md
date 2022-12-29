@@ -1,8 +1,8 @@
 # NorthwoodsSoftware/GoJS - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 2802
+☋ Forks: 2803
 
 ★ Stars: 6594
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 6594 | 2803 | 
 | 2022-12-27 | 6594 | 2802 | 
 | 2022-12-26 | 6593 | 2802 | 
 | 2022-12-25 | 6592 | 2802 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-02 | 6561 | 2793 | 
 | 2022-12-01 | 6558 | 2790 | 
 | 2022-11-30 | 6556 | 2789 | 
-| 2022-11-29 | 6549 | 2789 | 
 

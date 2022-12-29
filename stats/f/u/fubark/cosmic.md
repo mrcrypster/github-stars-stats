@@ -1,10 +1,10 @@
 # fubark/cosmic - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 10
 
-★ Stars: 247
+★ Stars: 250
 
 [Open repository](https://github.com/fubark/cosmic)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 250 | 10 | 
 | 2022-12-27 | 247 | 10 | 
 | 2022-12-26 | 247 | 10 | 
 | 2022-12-25 | 245 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-02 | 242 | 10 | 
 | 2022-12-01 | 242 | 10 | 
 | 2022-11-29 | 242 | 10 | 
-| 2022-11-28 | 241 | 10 | 
 

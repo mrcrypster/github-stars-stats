@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 28
 
 ☋ Forks: 685
 
-★ Stars: 3305
+★ Stars: 3307
 
 [Open repository](https://github.com/hathach/tinyusb)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-28 | 3305 | 685 | 
+| 2022-12-28 | 3307 | 685 | 
 | 2022-12-27 | 3304 | 685 | 
 | 2022-12-26 | 3295 | 683 | 
 | 2022-12-25 | 3291 | 683 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-01 | 3233 | 662 | 
 | 2022-11-30 | 3232 | 661 | 
 | 2022-11-29 | 3230 | 662 | 
-| 2022-11-28 | 3228 | 661 | 
 

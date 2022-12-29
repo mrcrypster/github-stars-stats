@@ -1,6 +1,6 @@
 # theblockchainchief/web3-hub - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 24 | 18 | 
 | 2022-12-27 | 24 | 18 | 
 | 2022-12-26 | 24 | 18 | 
 | 2022-12-24 | 24 | 18 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 24 | 18 | 
 | 2022-11-30 | 24 | 18 | 
 | 2022-11-29 | 24 | 18 | 
-| 2022-11-28 | 24 | 18 | 
 

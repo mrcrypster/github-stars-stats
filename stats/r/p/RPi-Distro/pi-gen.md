@@ -1,6 +1,6 @@
 # RPi-Distro/pi-gen - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 1390
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 2140 | 1390 | 
 | 2022-12-27 | 2140 | 1390 | 
 | 2022-12-26 | 2139 | 1390 | 
 | 2022-12-25 | 2139 | 1389 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 2123 | 1377 | 
 | 2022-11-30 | 2123 | 1377 | 
 | 2022-11-29 | 2123 | 1376 | 
-| 2022-11-28 | 2123 | 1375 | 
 

@@ -1,8 +1,8 @@
 # nickspaargaren/no-google - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 77
+☋ Forks: 78
 
 ★ Stars: 938
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 938 | 78 | 
 | 2022-12-27 | 938 | 77 | 
 | 2022-12-26 | 937 | 77 | 
 | 2022-12-25 | 936 | 77 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 926 | 77 | 
 | 2022-11-30 | 926 | 77 | 
 | 2022-11-29 | 926 | 77 | 
-| 2022-11-28 | 926 | 76 | 
 

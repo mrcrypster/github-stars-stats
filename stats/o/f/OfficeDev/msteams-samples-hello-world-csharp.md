@@ -1,8 +1,8 @@
 # OfficeDev/msteams-samples-hello-world-csharp - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 106
+☋ Forks: 105
 
 ★ Stars: 65
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 65 | 105 | 
 | 2022-12-27 | 65 | 106 | 
 | 2022-12-26 | 65 | 105 | 
 | 2022-12-25 | 65 | 105 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 65 | 106 | 
 | 2022-11-30 | 65 | 106 | 
 | 2022-11-29 | 65 | 106 | 
-| 2022-11-28 | 65 | 106 | 
 

@@ -1,8 +1,8 @@
 # alura-challenges/aluratube - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 59
+☋ Forks: 58
 
 ★ Stars: 249
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 249 | 58 | 
 | 2022-12-27 | 249 | 59 | 
 | 2022-12-26 | 249 | 59 | 
 | 2022-12-25 | 248 | 59 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 246 | 59 | 
 | 2022-11-30 | 246 | 60 | 
 | 2022-11-29 | 246 | 59 | 
-| 2022-11-28 | 246 | 60 | 
 

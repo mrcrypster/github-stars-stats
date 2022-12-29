@@ -1,6 +1,6 @@
 # nathants/libaws - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 415 | 7 | 
 | 2022-12-27 | 415 | 7 | 
 | 2022-12-26 | 415 | 7 | 
 | 2022-12-25 | 415 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 413 | 7 | 
 | 2022-11-30 | 413 | 7 | 
 | 2022-11-29 | 413 | 7 | 
-| 2022-11-28 | 413 | 7 | 
 

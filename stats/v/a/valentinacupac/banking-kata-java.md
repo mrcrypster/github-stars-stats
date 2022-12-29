@@ -1,10 +1,10 @@
 # valentinacupac/banking-kata-java - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 57
 
-★ Stars: 190
+★ Stars: 191
 
 [Open repository](https://github.com/valentinacupac/banking-kata-java)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 191 | 57 | 
 | 2022-12-27 | 190 | 57 | 
 | 2022-12-26 | 190 | 57 | 
 | 2022-12-25 | 190 | 57 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 185 | 55 | 
 | 2022-11-30 | 185 | 55 | 
 | 2022-11-29 | 185 | 55 | 
-| 2022-11-28 | 185 | 55 | 
 

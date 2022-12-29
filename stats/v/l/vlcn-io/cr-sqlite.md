@@ -1,6 +1,6 @@
 # vlcn-io/cr-sqlite - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 846 | 23 | 
 | 2022-12-27 | 846 | 23 | 
 | 2022-12-26 | 840 | 23 | 
 | 2022-12-25 | 838 | 23 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 766 | 19 | 
 | 2022-11-30 | 765 | 18 | 
 | 2022-11-29 | 764 | 18 | 
-| 2022-11-28 | 758 | 18 | 
 

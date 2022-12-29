@@ -1,6 +1,6 @@
 # nrandecker/particle - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 1051
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 923 | 1051 | 
 | 2022-12-28 | 923 | 1051 | 
 | 2022-12-27 | 923 | 1051 | 
 | 2022-12-25 | 923 | 1052 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 919 | 1050 | 
 | 2022-11-30 | 919 | 1048 | 
 | 2022-11-29 | 919 | 1048 | 
-| 2022-11-28 | 919 | 1049 | 
 

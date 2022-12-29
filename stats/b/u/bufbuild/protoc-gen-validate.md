@@ -1,10 +1,10 @@
 # bufbuild/protoc-gen-validate - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 486
 
-★ Stars: 2867
+★ Stars: 2871
 
 [Open repository](https://github.com/bufbuild/protoc-gen-validate)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 2871 | 486 | 
 | 2022-12-27 | 2867 | 486 | 
 | 2022-12-26 | 2864 | 486 | 
 | 2022-12-25 | 2863 | 486 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 2821 | 480 | 
 | 2022-11-30 | 2819 | 479 | 
 | 2022-11-29 | 2817 | 479 | 
-| 2022-11-28 | 2817 | 479 | 
 

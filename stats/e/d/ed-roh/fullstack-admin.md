@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 28
 
-☋ Forks: 81
+☋ Forks: 82
 
-★ Stars: 81
+★ Stars: 82
 
 [Open repository](https://github.com/ed-roh/fullstack-admin)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-28 | 81 | 81 | 
+| 2022-12-28 | 82 | 82 | 
 | 2022-12-27 | 80 | 79 | 
 | 2022-12-26 | 79 | 78 | 
 | 2022-12-25 | 74 | 75 | 

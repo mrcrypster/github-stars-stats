@@ -1,6 +1,6 @@
 # smjonas/inc-rename.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 256 | 5 | 
 | 2022-12-27 | 256 | 5 | 
 | 2022-12-26 | 256 | 5 | 
 | 2022-12-24 | 254 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 241 | 3 | 
 | 2022-11-30 | 240 | 3 | 
 | 2022-11-29 | 238 | 3 | 
-| 2022-11-28 | 237 | 3 | 
 

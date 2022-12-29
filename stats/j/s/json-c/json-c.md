@@ -1,10 +1,10 @@
 # json-c/json-c - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 1023
 
-★ Stars: 2581
+★ Stars: 2582
 
 [Open repository](https://github.com/json-c/json-c)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 2582 | 1023 | 
 | 2022-12-27 | 2581 | 1023 | 
 | 2022-12-26 | 2581 | 1023 | 
 | 2022-12-25 | 2580 | 1023 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 2566 | 1018 | 
 | 2022-11-30 | 2565 | 1017 | 
 | 2022-11-29 | 2565 | 1017 | 
-| 2022-11-28 | 2565 | 1016 | 
 

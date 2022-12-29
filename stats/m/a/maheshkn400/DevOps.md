@@ -1,10 +1,10 @@
 # maheshkn400/DevOps - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 29
+☋ Forks: 31
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/maheshkn400/DevOps)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 9 | 31 | 
 | 2022-12-27 | 8 | 29 | 
 | 2022-12-26 | 8 | 29 | 
 | 2022-12-25 | 8 | 29 | 

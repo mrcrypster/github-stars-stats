@@ -1,10 +1,10 @@
 # andwn/marsdev - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 17
 
-★ Stars: 121
+★ Stars: 122
 
 [Open repository](https://github.com/andwn/marsdev)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 122 | 17 | 
 | 2022-12-27 | 121 | 17 | 
 | 2022-12-26 | 121 | 16 | 
 | 2022-12-25 | 121 | 16 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 121 | 16 | 
 | 2022-11-30 | 121 | 16 | 
 | 2022-11-29 | 121 | 16 | 
-| 2022-11-28 | 121 | 16 | 
 

@@ -1,6 +1,6 @@
 # JaccoVeldscholten/SlimmeMeterDashboard - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 43 | - | 
 | 2022-12-27 | 43 | - | 
 | 2022-12-26 | 43 | - | 
 | 2022-12-24 | 43 | - | 

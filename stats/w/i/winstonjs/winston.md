@@ -1,10 +1,10 @@
 # winstonjs/winston - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 1738
 
-★ Stars: 19897
+★ Stars: 19901
 
 [Open repository](https://github.com/winstonjs/winston)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 19901 | 1738 | 
 | 2022-12-27 | 19897 | 1738 | 
 | 2022-12-26 | 19892 | 1738 | 
 | 2022-12-25 | 19889 | 1738 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 19815 | 1735 | 
 | 2022-11-30 | 19809 | 1735 | 
 | 2022-11-29 | 19802 | 1735 | 
-| 2022-11-28 | 19800 | 1735 | 
 

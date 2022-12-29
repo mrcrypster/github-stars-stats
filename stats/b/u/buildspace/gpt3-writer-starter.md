@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 28
 
-☋ Forks: 980
+☋ Forks: 987
 
-★ Stars: 249
+★ Stars: 251
 
 [Open repository](https://github.com/buildspace/gpt3-writer-starter)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-28 | 249 | 980 | 
+| 2022-12-28 | 251 | 987 | 
 | 2022-12-27 | 248 | 978 | 
 | 2022-12-26 | 241 | 948 | 
 | 2022-12-25 | 236 | 944 | 

@@ -1,10 +1,10 @@
 # flawiddsouza/Restfox - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 37
 
-★ Stars: 844
+★ Stars: 845
 
 [Open repository](https://github.com/flawiddsouza/Restfox)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 845 | 37 | 
 | 2022-12-28 | 844 | 37 | 
 | 2022-12-26 | 844 | 37 | 
 | 2022-12-25 | 844 | 37 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-01 | 830 | 35 | 
 | 2022-11-30 | 829 | 35 | 
 | 2022-11-29 | 829 | 34 | 
-| 2022-11-28 | 829 | 34 | 
 

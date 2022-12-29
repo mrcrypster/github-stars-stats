@@ -1,6 +1,6 @@
 # udacity/cd1898-Observing-Cloud-Resources - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 78
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 4 | 78 | 
 | 2022-12-27 | 4 | 78 | 
 | 2022-12-26 | 4 | 78 | 
 | 2022-12-25 | 4 | 77 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 3 | 70 | 
 | 2022-11-30 | 3 | 70 | 
 | 2022-11-29 | 3 | 69 | 
-| 2022-11-28 | 3 | 68 | 
 

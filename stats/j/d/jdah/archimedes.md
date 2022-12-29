@@ -1,10 +1,10 @@
 # jdah/archimedes - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 18
 
-★ Stars: 494
+★ Stars: 495
 
 [Open repository](https://github.com/jdah/archimedes)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 495 | 18 | 
 | 2022-12-27 | 494 | 18 | 
 | 2022-12-26 | 494 | 18 | 
 | 2022-12-25 | 493 | 18 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 477 | 18 | 
 | 2022-11-30 | 477 | 18 | 
 | 2022-11-29 | 476 | 18 | 
-| 2022-11-28 | 475 | 18 | 
 

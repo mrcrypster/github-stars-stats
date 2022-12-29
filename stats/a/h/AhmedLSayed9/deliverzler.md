@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 28
 
 ☋ Forks: 70
 
-★ Stars: 242
+★ Stars: 243
 
 [Open repository](https://github.com/AhmedLSayed9/deliverzler)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-28 | 242 | 70 | 
+| 2022-12-28 | 243 | 70 | 
 | 2022-12-27 | 242 | 70 | 
 | 2022-12-26 | 237 | 67 | 
 

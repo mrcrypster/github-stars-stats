@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 28
 
-☋ Forks: 3438
+☋ Forks: 3439
 
-★ Stars: 19671
+★ Stars: 19683
 
 [Open repository](https://github.com/javascript-tutorial/en.javascript.info)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-28 | 19671 | 3438 | 
+| 2022-12-28 | 19683 | 3439 | 
 | 2022-12-26 | 19658 | 3437 | 
 | 2022-12-25 | 19657 | 3437 | 
 | 2022-12-24 | 19654 | 3436 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-01 | 19485 | 3406 | 
 | 2022-11-30 | 19482 | 3402 | 
 | 2022-11-29 | 19474 | 3403 | 
-| 2022-11-28 | 19462 | 3405 | 
 

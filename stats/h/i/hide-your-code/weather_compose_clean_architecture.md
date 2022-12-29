@@ -1,6 +1,6 @@
 # hide-your-code/weather_compose_clean_architecture - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 61 | 27 | 
 | 2022-12-28 | 61 | 27 | 
 | 2022-12-26 | 61 | 27 | 
 | 2022-12-25 | 61 | 27 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-01 | 55 | 26 | 
 | 2022-11-30 | 55 | 26 | 
 | 2022-11-29 | 55 | 26 | 
-| 2022-11-28 | 55 | 26 | 
 

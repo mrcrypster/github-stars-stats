@@ -1,6 +1,6 @@
 # Azure/PSRule.Rules.Azure-quickstart - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 17 | 12 | 
 | 2022-12-27 | 17 | 12 | 
 | 2022-12-26 | 17 | 12 | 
 | 2022-12-25 | 17 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 18 | 11 | 
 | 2022-11-30 | 17 | 11 | 
 | 2022-11-29 | 17 | 11 | 
-| 2022-11-28 | 17 | 11 | 
 

@@ -1,6 +1,6 @@
 # thenurhabib/collector - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 98 | 27 | 
 | 2022-12-27 | 98 | 27 | 
 | 2022-12-26 | 98 | 27 | 
 | 2022-12-25 | 98 | 27 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 95 | 28 | 
 | 2022-11-30 | 95 | 28 | 
 | 2022-11-29 | 95 | 28 | 
-| 2022-11-28 | 94 | 28 | 
 

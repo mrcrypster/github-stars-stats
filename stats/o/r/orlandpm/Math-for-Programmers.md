@@ -1,6 +1,6 @@
 # orlandpm/Math-for-Programmers - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 228
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 474 | 228 | 
 | 2022-12-27 | 474 | 228 | 
 | 2022-12-26 | 473 | 228 | 
 | 2022-12-25 | 473 | 228 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-02 | 459 | 223 | 
 | 2022-12-01 | 459 | 223 | 
 | 2022-11-30 | 459 | 223 | 
-| 2022-11-29 | 457 | 221 | 
 

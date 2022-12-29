@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 28
 
 ☋ Forks: 647
 
-★ Stars: 6146
+★ Stars: 6147
 
 [Open repository](https://github.com/diasurgical/devilutionX)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-28 | 6146 | 647 | 
+| 2022-12-28 | 6147 | 647 | 
 | 2022-12-27 | 6145 | 647 | 
 | 2022-12-26 | 6141 | 646 | 
 | 2022-12-25 | 6138 | 646 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 6110 | 641 | 
 | 2022-12-01 | 6110 | 641 | 
 | 2022-11-30 | 6107 | 641 | 
-| 2022-11-28 | 6104 | 639 | 
 

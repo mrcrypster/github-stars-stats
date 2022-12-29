@@ -1,10 +1,10 @@
 # tomasiser/vim-code-dark - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 175
+☋ Forks: 176
 
-★ Stars: 817
+★ Stars: 816
 
 [Open repository](https://github.com/tomasiser/vim-code-dark)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 816 | 176 | 
 | 2022-12-27 | 817 | 175 | 
 | 2022-12-26 | 818 | 175 | 
 | 2022-12-25 | 818 | 175 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 811 | 172 | 
 | 2022-11-30 | 811 | 171 | 
 | 2022-11-29 | 811 | 171 | 
-| 2022-11-28 | 811 | 171 | 
 

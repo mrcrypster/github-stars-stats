@@ -1,8 +1,8 @@
 # openshift-helm-charts/charts - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 109
+☋ Forks: 110
 
 ★ Stars: 13
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 13 | 110 | 
 | 2022-12-27 | 13 | 109 | 
 | 2022-12-26 | 13 | 109 | 
 | 2022-12-25 | 13 | 109 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 13 | 101 | 
 | 2022-11-30 | 13 | 100 | 
 | 2022-11-29 | 13 | 100 | 
-| 2022-11-28 | 13 | 100 | 
 

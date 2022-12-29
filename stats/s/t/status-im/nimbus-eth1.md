@@ -1,10 +1,10 @@
 # status-im/nimbus-eth1 - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 85
 
-★ Stars: 502
+★ Stars: 504
 
 [Open repository](https://github.com/status-im/nimbus-eth1)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 504 | 85 | 
 | 2022-12-27 | 502 | 85 | 
 | 2022-12-26 | 502 | 85 | 
 | 2022-12-24 | 501 | 85 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 499 | 82 | 
 | 2022-11-30 | 499 | 82 | 
 | 2022-11-29 | 499 | 82 | 
-| 2022-11-28 | 498 | 82 | 
 

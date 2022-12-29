@@ -1,10 +1,10 @@
 # akopytov/sysbench - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 952
 
-★ Stars: 4913
+★ Stars: 4914
 
 [Open repository](https://github.com/akopytov/sysbench)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 4914 | 952 | 
 | 2022-12-27 | 4913 | 952 | 
 | 2022-12-26 | 4909 | 952 | 
 | 2022-12-25 | 4904 | 952 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-02 | 4873 | 950 | 
 | 2022-12-01 | 4872 | 949 | 
 | 2022-11-30 | 4871 | 947 | 
-| 2022-11-29 | 4867 | 947 | 
 

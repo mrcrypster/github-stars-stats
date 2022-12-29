@@ -1,8 +1,8 @@
 # yzddmr6/ASP.NET-Memshell-Scanner - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 12
+☋ Forks: 13
 
 ★ Stars: 118
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 118 | 13 | 
 | 2022-12-27 | 118 | 12 | 
 | 2022-12-26 | 118 | 12 | 
 | 2022-12-25 | 118 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 113 | 11 | 
 | 2022-11-30 | 113 | 11 | 
 | 2022-11-29 | 112 | 11 | 
-| 2022-11-28 | 112 | 11 | 
 

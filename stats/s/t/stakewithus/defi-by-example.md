@@ -1,6 +1,6 @@
 # stakewithus/defi-by-example - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 182
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 432 | 182 | 
 | 2022-12-27 | 432 | 182 | 
 | 2022-12-26 | 431 | 182 | 
 | 2022-12-25 | 431 | 182 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 418 | 176 | 
 | 2022-11-30 | 418 | 176 | 
 | 2022-11-29 | 417 | 177 | 
-| 2022-11-28 | 416 | 177 | 
 

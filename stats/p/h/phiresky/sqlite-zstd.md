@@ -1,10 +1,10 @@
 # phiresky/sqlite-zstd - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 34
+☋ Forks: 35
 
-★ Stars: 1134
+★ Stars: 1136
 
 [Open repository](https://github.com/phiresky/sqlite-zstd)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 1136 | 35 | 
 | 2022-12-27 | 1134 | 34 | 
 | 2022-12-26 | 1134 | 34 | 
 | 2022-12-25 | 1132 | 34 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 1109 | 35 | 
 | 2022-11-30 | 1109 | 35 | 
 | 2022-11-29 | 1107 | 35 | 
-| 2022-11-28 | 1104 | 35 | 
 

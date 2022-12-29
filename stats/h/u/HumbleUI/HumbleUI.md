@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 28
 
 ☋ Forks: 24
 
-★ Stars: 681
+★ Stars: 683
 
 [Open repository](https://github.com/HumbleUI/HumbleUI)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-28 | 681 | 24 | 
+| 2022-12-28 | 683 | 24 | 
 | 2022-12-27 | 680 | 24 | 
 | 2022-12-26 | 679 | 24 | 
 | 2022-12-25 | 676 | 24 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-01 | 613 | 21 | 
 | 2022-11-30 | 607 | 21 | 
 | 2022-11-29 | 600 | 21 | 
-| 2022-11-28 | 596 | 21 | 
 

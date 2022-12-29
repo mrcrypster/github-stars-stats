@@ -1,6 +1,6 @@
 # abo-abo/org-download - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 71
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 892 | 71 | 
 | 2022-12-27 | 892 | 71 | 
 | 2022-12-26 | 892 | 71 | 
 | 2022-12-25 | 892 | 71 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 887 | 71 | 
 | 2022-11-30 | 887 | 71 | 
 | 2022-11-29 | 887 | 71 | 
-| 2022-11-28 | 886 | 71 | 
 

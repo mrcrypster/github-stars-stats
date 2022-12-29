@@ -1,6 +1,6 @@
 # laravelio/laravel.io - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 599
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 2246 | 599 | 
 | 2022-12-27 | 2246 | 599 | 
 | 2022-12-26 | 2246 | 599 | 
 | 2022-12-25 | 2246 | 599 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 2237 | 602 | 
 | 2022-11-30 | 2237 | 601 | 
 | 2022-11-29 | 2237 | 601 | 
-| 2022-11-28 | 2237 | 601 | 
 

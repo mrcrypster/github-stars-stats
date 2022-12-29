@@ -1,10 +1,10 @@
 # AXERA-TECH/ax-pipeline - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 11
+☋ Forks: 12
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/AXERA-TECH/ax-pipeline)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 26 | 12 | 
 | 2022-12-27 | 25 | 11 | 
 | 2022-12-26 | 25 | 10 | 
 | 2022-12-25 | 25 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 23 | 8 | 
 | 2022-11-30 | 23 | 8 | 
 | 2022-11-29 | 23 | 8 | 
-| 2022-11-28 | 23 | 8 | 
 

@@ -1,6 +1,6 @@
 # square/okio - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 1165
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 8210 | 1165 | 
 | 2022-12-27 | 8210 | 1165 | 
 | 2022-12-26 | 8209 | 1166 | 
 | 2022-12-25 | 8209 | 1166 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 8186 | 1165 | 
 | 2022-11-30 | 8184 | 1165 | 
 | 2022-11-29 | 8183 | 1165 | 
-| 2022-11-28 | 8180 | 1165 | 
 

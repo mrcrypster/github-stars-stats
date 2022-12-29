@@ -1,10 +1,10 @@
 # OWASP/ASVS - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 516
 
-★ Stars: 2023
+★ Stars: 2022
 
 [Open repository](https://github.com/OWASP/ASVS)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 2022 | 516 | 
 | 2022-12-27 | 2023 | 516 | 
 | 2022-12-26 | 2024 | 516 | 
 | 2022-12-25 | 2022 | 515 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-02 | 1977 | 506 | 
 | 2022-12-01 | 1976 | 506 | 
 | 2022-11-30 | 1974 | 507 | 
-| 2022-11-29 | 1973 | 507 | 
 

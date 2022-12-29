@@ -1,6 +1,6 @@
 # huggingface/community-events - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 130 | 46 | 
 | 2022-12-27 | 130 | 46 | 
 | 2022-12-26 | 130 | 46 | 
 | 2022-12-25 | 130 | 46 | 

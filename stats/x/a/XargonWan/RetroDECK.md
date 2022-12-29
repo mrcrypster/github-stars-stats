@@ -1,10 +1,10 @@
 # XargonWan/RetroDECK - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 13
 
-★ Stars: 319
+★ Stars: 321
 
 [Open repository](https://github.com/XargonWan/RetroDECK)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 321 | 13 | 
 | 2022-12-27 | 319 | 13 | 
 | 2022-12-26 | 318 | 13 | 
 | 2022-12-24 | 318 | 13 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 305 | 13 | 
 | 2022-11-30 | 304 | 13 | 
 | 2022-11-29 | 303 | 13 | 
-| 2022-11-28 | 303 | 13 | 
 

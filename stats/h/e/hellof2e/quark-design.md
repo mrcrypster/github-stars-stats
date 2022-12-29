@@ -1,10 +1,10 @@
 # hellof2e/quark-design - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 134
 
-★ Stars: 1368
+★ Stars: 1369
 
 [Open repository](https://github.com/hellof2e/quark-design)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 1369 | 134 | 
 | 2022-12-28 | 1368 | 134 | 
 | 2022-12-27 | 1368 | 134 | 
 | 2022-12-25 | 1362 | 134 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 1307 | 129 | 
 | 2022-12-01 | 1297 | 129 | 
 | 2022-11-30 | 1292 | 129 | 
-| 2022-11-29 | 1288 | 129 | 
 

@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 28
 
 ☋ Forks: 0
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/jdiaz97/Harbest.jl)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-28 | 20 | - | 
+| 2022-12-28 | 21 | - | 
 | 2022-12-27 | 20 | - | 
 | 2022-12-26 | 20 | - | 
 | 2022-12-25 | 16 | - | 

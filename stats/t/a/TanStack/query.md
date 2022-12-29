@@ -1,10 +1,10 @@
 # TanStack/query - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 1985
+☋ Forks: 1986
 
-★ Stars: 31901
+★ Stars: 31920
 
 [Open repository](https://github.com/TanStack/query)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 31920 | 1986 | 
 | 2022-12-27 | 31901 | 1985 | 
 | 2022-12-26 | 31876 | 1982 | 
 | 2022-12-25 | 31824 | 1983 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 31373 | 1939 | 
 | 2022-11-30 | 31342 | 1938 | 
 | 2022-11-29 | 31312 | 1935 | 
-| 2022-11-28 | 31294 | 1933 | 
 

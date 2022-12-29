@@ -1,10 +1,10 @@
 # microsoft/GODEL - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 39
+☋ Forks: 40
 
-★ Stars: 323
+★ Stars: 327
 
 [Open repository](https://github.com/microsoft/GODEL)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 327 | 40 | 
 | 2022-12-27 | 323 | 39 | 
 | 2022-12-26 | 312 | 39 | 
 | 2022-12-25 | 310 | 39 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-02 | 264 | 31 | 
 | 2022-12-01 | 264 | 31 | 
 | 2022-11-29 | 262 | 31 | 
-| 2022-11-28 | 262 | 31 | 
 

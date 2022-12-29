@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 28
 
 ☋ Forks: 117
 
-★ Stars: 853
+★ Stars: 854
 
 [Open repository](https://github.com/jkitchin/scimax)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-28 | 853 | 117 | 
+| 2022-12-28 | 854 | 117 | 
 | 2022-12-27 | 853 | 117 | 
 

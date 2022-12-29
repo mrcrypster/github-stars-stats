@@ -1,6 +1,6 @@
 # louthy/language-ext - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 372
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 5153 | 372 | 
 | 2022-12-27 | 5153 | 372 | 
 | 2022-12-26 | 5150 | 373 | 
 | 2022-12-25 | 5148 | 373 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 5086 | 368 | 
 | 2022-11-30 | 5084 | 367 | 
 | 2022-11-29 | 5078 | 367 | 
-| 2022-11-28 | 5076 | 367 | 
 

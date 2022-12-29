@@ -1,10 +1,10 @@
 # peng-zhihui/SerialChart - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 162
 
-★ Stars: 452
+★ Stars: 453
 
 [Open repository](https://github.com/peng-zhihui/SerialChart)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 453 | 162 | 
 | 2022-12-27 | 452 | 162 | 
 | 2022-12-26 | 452 | 162 | 
 | 2022-12-25 | 452 | 162 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 447 | 161 | 
 | 2022-11-30 | 447 | 161 | 
 | 2022-11-29 | 447 | 161 | 
-| 2022-11-28 | 447 | 162 | 
 

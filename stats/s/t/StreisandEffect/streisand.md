@@ -1,10 +1,10 @@
 # StreisandEffect/streisand - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 2032
 
-★ Stars: 22924
+★ Stars: 22923
 
 [Open repository](https://github.com/StreisandEffect/streisand)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 22923 | 2032 | 
 | 2022-12-27 | 22924 | 2032 | 
 | 2022-12-26 | 22922 | 2032 | 
 | 2022-12-25 | 22924 | 2031 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 22903 | 2031 | 
 | 2022-11-30 | 22902 | 2031 | 
 | 2022-11-29 | 22899 | 2031 | 
-| 2022-11-28 | 22901 | 2031 | 
 

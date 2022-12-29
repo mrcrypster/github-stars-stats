@@ -1,6 +1,6 @@
 # LucasLarson/dotfiles - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 471 | 18 | 
 | 2022-12-27 | 471 | 18 | 
 | 2022-12-26 | 471 | 18 | 
 | 2022-12-25 | 471 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 470 | 18 | 
 | 2022-11-30 | 470 | 18 | 
 | 2022-11-29 | 470 | 18 | 
-| 2022-11-28 | 470 | 18 | 
 

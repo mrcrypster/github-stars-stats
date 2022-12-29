@@ -1,10 +1,10 @@
 # WalletConnect/walletconnect-monorepo - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 522
 
-★ Stars: 996
+★ Stars: 997
 
 [Open repository](https://github.com/WalletConnect/walletconnect-monorepo)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 997 | 522 | 
 | 2022-12-27 | 996 | 522 | 
 | 2022-12-26 | 997 | 523 | 
 | 2022-12-25 | 993 | 523 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-02 | 984 | 517 | 
 | 2022-11-30 | 983 | 517 | 
 | 2022-11-29 | 981 | 517 | 
-| 2022-11-28 | 981 | 517 | 
 

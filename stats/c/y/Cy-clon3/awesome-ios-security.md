@@ -1,10 +1,10 @@
 # Cy-clon3/awesome-ios-security - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 34
 
-★ Stars: 273
+★ Stars: 274
 
 [Open repository](https://github.com/Cy-clon3/awesome-ios-security)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 274 | 34 | 
 | 2022-12-27 | 273 | 34 | 
 | 2022-12-26 | 273 | 34 | 
 | 2022-12-25 | 274 | 34 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-02 | 268 | 33 | 
 | 2022-12-01 | 268 | 33 | 
 | 2022-11-30 | 268 | 33 | 
-| 2022-11-29 | 268 | 33 | 
 

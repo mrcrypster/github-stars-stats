@@ -1,6 +1,6 @@
 # polotno-project/polotno-studio - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 103
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 498 | 103 | 
 | 2022-12-27 | 498 | 103 | 
 | 2022-12-26 | 498 | 102 | 
 | 2022-12-25 | 498 | 102 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 464 | 98 | 
 | 2022-11-30 | 463 | 99 | 
 | 2022-11-29 | 463 | 99 | 
-| 2022-11-28 | 462 | 99 | 
 

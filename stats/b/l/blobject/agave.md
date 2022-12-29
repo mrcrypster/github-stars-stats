@@ -1,6 +1,6 @@
 # blobject/agave - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 488 | 10 | 
 | 2022-12-27 | 488 | 10 | 
 | 2022-12-26 | 487 | 10 | 
 | 2022-12-25 | 487 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 474 | 10 | 
 | 2022-11-30 | 474 | 10 | 
 | 2022-11-29 | 474 | 10 | 
-| 2022-11-28 | 474 | 10 | 
 

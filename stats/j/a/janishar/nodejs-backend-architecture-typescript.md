@@ -1,10 +1,10 @@
 # janishar/nodejs-backend-architecture-typescript - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 485
+☋ Forks: 486
 
-★ Stars: 2035
+★ Stars: 2037
 
 [Open repository](https://github.com/janishar/nodejs-backend-architecture-typescript)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 2037 | 486 | 
 | 2022-12-27 | 2035 | 485 | 
 | 2022-12-26 | 2031 | 485 | 
 | 2022-12-25 | 2030 | 485 | 

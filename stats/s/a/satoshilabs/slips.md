@@ -1,10 +1,10 @@
 # satoshilabs/slips - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 1476
+☋ Forks: 1477
 
-★ Stars: 1260
+★ Stars: 1262
 
 [Open repository](https://github.com/satoshilabs/slips)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 1262 | 1477 | 
 | 2022-12-27 | 1260 | 1476 | 
 | 2022-12-26 | 1259 | 1476 | 
 | 2022-12-25 | 1258 | 1474 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 1247 | 1453 | 
 | 2022-11-30 | 1246 | 1450 | 
 | 2022-11-29 | 1246 | 1450 | 
-| 2022-11-28 | 1243 | 1448 | 
 

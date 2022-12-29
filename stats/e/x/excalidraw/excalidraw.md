@@ -1,10 +1,10 @@
 # excalidraw/excalidraw - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 29
 
-☋ Forks: 3184
+☋ Forks: 3198
 
-★ Stars: 37679
+★ Stars: 37837
 
 [Open repository](https://github.com/excalidraw/excalidraw)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 37837 | 3198 | 
+| 2022-12-28 | 37824 | 3197 | 
 | 2022-12-27 | 37679 | 3184 | 
 | 2022-12-26 | 37504 | 3162 | 
 | 2022-12-25 | 37442 | 3155 | 
@@ -40,5 +42,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 36064 | 3043 | 
 | 2022-11-30 | 36012 | 3033 | 
 | 2022-11-29 | 35965 | 3023 | 
-| 2022-11-28 | 35906 | 3020 | 
 

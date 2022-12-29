@@ -1,6 +1,6 @@
 # larics/icuas22_competition - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 17 | 5 | 
 | 2022-12-27 | 17 | 5 | 
 | 2022-12-26 | 17 | 5 | 
 | 2022-12-24 | 17 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 17 | 5 | 
 | 2022-11-30 | 17 | 5 | 
 | 2022-11-29 | 17 | 5 | 
-| 2022-11-28 | 17 | 5 | 
 

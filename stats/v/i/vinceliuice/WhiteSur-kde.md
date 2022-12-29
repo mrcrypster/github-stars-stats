@@ -1,10 +1,10 @@
 # vinceliuice/WhiteSur-kde - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 57
+☋ Forks: 58
 
-★ Stars: 641
+★ Stars: 642
 
 [Open repository](https://github.com/vinceliuice/WhiteSur-kde)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 642 | 58 | 
 | 2022-12-27 | 641 | 57 | 
 | 2022-12-26 | 641 | 57 | 
 | 2022-12-25 | 639 | 57 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 632 | 54 | 
 | 2022-11-30 | 632 | 54 | 
 | 2022-11-29 | 630 | 54 | 
-| 2022-11-28 | 630 | 54 | 
 

@@ -1,6 +1,6 @@
 # gilbarbara/logos - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 689
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 5756 | 689 | 
 | 2022-12-27 | 5756 | 689 | 
 | 2022-12-26 | 5754 | 688 | 
 | 2022-12-25 | 5754 | 688 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 5739 | 682 | 
 | 2022-11-30 | 5739 | 682 | 
 | 2022-11-29 | 5736 | 682 | 
-| 2022-11-28 | 5732 | 682 | 
 

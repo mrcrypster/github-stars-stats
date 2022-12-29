@@ -1,8 +1,8 @@
 # NDS-Schmitz/FCTC - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 7
+☋ Forks: 6
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | - | 6 | 
 | 2022-12-27 | - | 7 | 
 | 2022-12-26 | - | 6 | 
 

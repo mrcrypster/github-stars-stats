@@ -1,8 +1,8 @@
 # glepnir/cosynvim - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 14
+☋ Forks: 12
 
 ★ Stars: 269
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 269 | 12 | 
 | 2022-12-27 | 269 | 14 | 
 | 2022-12-26 | 269 | 13 | 
 | 2022-12-25 | 269 | 13 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 262 | 12 | 
 | 2022-11-30 | 256 | 12 | 
 | 2022-11-29 | 255 | 11 | 
-| 2022-11-28 | 254 | 11 | 
 

@@ -1,6 +1,6 @@
 # bdebon/choiceof.dev - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 99
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 434 | 99 | 
 | 2022-12-27 | 434 | 99 | 
 | 2022-12-26 | 434 | 99 | 
 | 2022-12-25 | 434 | 98 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 404 | 91 | 
 | 2022-11-30 | 388 | 91 | 
 | 2022-11-29 | 383 | 87 | 
-| 2022-11-28 | 378 | 87 | 
 

@@ -1,10 +1,10 @@
 # reactiveui/ReactiveUI - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 1112
 
-★ Stars: 7301
+★ Stars: 7304
 
 [Open repository](https://github.com/reactiveui/ReactiveUI)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 7304 | 1112 | 
 | 2022-12-27 | 7301 | 1112 | 
 | 2022-12-26 | 7299 | 1113 | 
 | 2022-12-25 | 7299 | 1113 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-02 | 7268 | 1105 | 
 | 2022-12-01 | 7266 | 1105 | 
 | 2022-11-29 | 7265 | 1104 | 
-| 2022-11-28 | 7265 | 1104 | 
 

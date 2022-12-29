@@ -1,6 +1,6 @@
 # microsoft/AutoBrewML - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 22 | 31 | 
 | 2022-12-28 | 22 | 31 | 
 | 2022-12-26 | 22 | 31 | 
 | 2022-12-25 | 22 | 31 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 22 | 31 | 
 | 2022-12-01 | 22 | 31 | 
 | 2022-11-29 | 22 | 31 | 
-| 2022-11-28 | 22 | 31 | 
 

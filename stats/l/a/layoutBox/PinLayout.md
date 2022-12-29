@@ -1,10 +1,10 @@
 # layoutBox/PinLayout - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 126
 
-★ Stars: 2083
+★ Stars: 2082
 
 [Open repository](https://github.com/layoutBox/PinLayout)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 2082 | 126 | 
 | 2022-12-27 | 2083 | 126 | 
 | 2022-12-26 | 2083 | 126 | 
 | 2022-12-25 | 2083 | 126 | 

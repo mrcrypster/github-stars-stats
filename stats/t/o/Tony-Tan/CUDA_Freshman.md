@@ -1,10 +1,10 @@
 # Tony-Tan/CUDA_Freshman - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 247
 
-★ Stars: 891
+★ Stars: 892
 
 [Open repository](https://github.com/Tony-Tan/CUDA_Freshman)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 892 | 247 | 
 | 2022-12-27 | 891 | 247 | 
 | 2022-12-26 | 890 | 247 | 
 | 2022-12-25 | 889 | 247 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 866 | 240 | 
 | 2022-11-30 | 863 | 239 | 
 | 2022-11-29 | 859 | 238 | 
-| 2022-11-28 | 857 | 236 | 
 

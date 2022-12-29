@@ -1,8 +1,8 @@
 # chatwoot/chatwoot - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 1931
+☋ Forks: 1932
 
 ★ Stars: 14223
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 14223 | 1932 | 
 | 2022-12-27 | 14223 | 1931 | 
 | 2022-12-26 | 14216 | 1929 | 
 | 2022-12-25 | 14214 | 1927 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 14099 | 1890 | 
 | 2022-11-30 | 14085 | 1889 | 
 | 2022-11-29 | 14071 | 1885 | 
-| 2022-11-28 | 14071 | 1884 | 
 

@@ -1,10 +1,10 @@
 # seanmonstar/warp - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 643
 
-★ Stars: 7500
+★ Stars: 7501
 
 [Open repository](https://github.com/seanmonstar/warp)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 7501 | 643 | 
 | 2022-12-27 | 7500 | 643 | 
 | 2022-12-26 | 7496 | 643 | 
 | 2022-12-24 | 7489 | 642 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 7398 | 636 | 
 | 2022-11-30 | 7397 | 636 | 
 | 2022-11-29 | 7384 | 635 | 
-| 2022-11-28 | 7377 | 635 | 
 

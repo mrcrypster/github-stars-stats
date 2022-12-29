@@ -1,10 +1,10 @@
 # asdf-vm/asdf - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 626
 
-★ Stars: 16366
+★ Stars: 16381
 
 [Open repository](https://github.com/asdf-vm/asdf)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 16381 | 626 | 
 | 2022-12-27 | 16366 | 626 | 
 | 2022-12-26 | 16359 | 626 | 
 | 2022-12-25 | 16348 | 626 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 16218 | 624 | 
 | 2022-11-30 | 16215 | 623 | 
 | 2022-11-29 | 16205 | 623 | 
-| 2022-11-28 | 16197 | 624 | 
 

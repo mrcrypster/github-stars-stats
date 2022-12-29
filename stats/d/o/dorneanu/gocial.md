@@ -1,10 +1,10 @@
 # dorneanu/gocial - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 4
 
-★ Stars: 38
+★ Stars: 39
 
 [Open repository](https://github.com/dorneanu/gocial)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 39 | 4 | 
 | 2022-12-27 | 38 | 4 | 
 | 2022-12-26 | 38 | 4 | 
 | 2022-12-25 | 38 | 4 | 

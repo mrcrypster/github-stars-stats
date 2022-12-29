@@ -1,6 +1,6 @@
 # purescript/purescript-unsafe-coerce - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 8 | 11 | 
 | 2022-12-27 | 8 | 11 | 
 | 2022-12-26 | 8 | 11 | 
 | 2022-12-25 | 8 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 8 | 11 | 
 | 2022-11-30 | 8 | 11 | 
 | 2022-11-29 | 8 | 11 | 
-| 2022-11-28 | 8 | 11 | 
 

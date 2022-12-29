@@ -1,6 +1,6 @@
 # hapijs/hapi - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 1370
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 14120 | 1370 | 
 | 2022-12-27 | 14120 | 1370 | 
 | 2022-12-26 | 14120 | 1370 | 
 | 2022-12-25 | 14117 | 1370 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 14100 | 1370 | 
 | 2022-11-30 | 14099 | 1369 | 
 | 2022-11-29 | 14098 | 1369 | 
-| 2022-11-28 | 14094 | 1370 | 
 

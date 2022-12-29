@@ -1,6 +1,6 @@
 # rawchen/blog-ssm - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 477 | 23 | 
 | 2022-12-27 | 477 | 23 | 
 | 2022-12-26 | 477 | 23 | 
 | 2022-12-25 | 477 | 23 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 474 | 24 | 
 | 2022-11-30 | 474 | 24 | 
 | 2022-11-29 | 474 | 24 | 
-| 2022-11-28 | 474 | 24 | 
 

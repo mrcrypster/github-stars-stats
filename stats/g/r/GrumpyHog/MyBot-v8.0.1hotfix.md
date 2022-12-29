@@ -1,8 +1,8 @@
 # GrumpyHog/MyBot-v8.0.1hotfix - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 6
+☋ Forks: 7
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 2 | 7 | 
 | 2022-12-27 | 2 | 6 | 
 | 2022-12-26 | 2 | 6 | 
 | 2022-12-25 | 2 | 6 | 

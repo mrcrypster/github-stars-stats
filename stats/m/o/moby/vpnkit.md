@@ -1,6 +1,6 @@
 # moby/vpnkit - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 199
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 993 | 199 | 
 | 2022-12-27 | 993 | 199 | 
 | 2022-12-26 | 992 | 199 | 
 | 2022-12-25 | 992 | 199 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-02 | 985 | 196 | 
 | 2022-12-01 | 985 | 196 | 
 | 2022-11-30 | 985 | 196 | 
-| 2022-11-28 | 979 | 196 | 
 

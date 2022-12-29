@@ -1,6 +1,6 @@
 # toptal/granite - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 158 | 7 | 
 | 2022-12-27 | 158 | 7 | 
 | 2022-12-26 | 158 | 7 | 
 | 2022-12-25 | 158 | 7 | 

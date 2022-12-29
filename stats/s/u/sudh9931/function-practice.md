@@ -1,10 +1,10 @@
 # sudh9931/function-practice - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 15
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/sudh9931/function-practice)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 12 | 15 | 
 | 2022-12-27 | 11 | 15 | 
 | 2022-12-26 | 11 | 15 | 
 | 2022-12-25 | 11 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 9 | 14 | 
 | 2022-11-30 | 9 | 14 | 
 | 2022-11-29 | 9 | 14 | 
-| 2022-11-28 | 9 | 13 | 
 

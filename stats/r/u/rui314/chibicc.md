@@ -1,10 +1,10 @@
 # rui314/chibicc - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 648
 
-★ Stars: 6957
+★ Stars: 6967
 
 [Open repository](https://github.com/rui314/chibicc)
 
@@ -13,7 +13,8 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-28 | 6957 | 648 | 
+| 2022-12-29 | 6967 | 648 | 
+| 2022-12-28 | 6964 | 648 | 
 | 2022-12-27 | 6958 | 648 | 
 | 2022-12-26 | 6950 | 646 | 
 | 2022-12-25 | 6948 | 643 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-01 | 6865 | 632 | 
 | 2022-11-30 | 6857 | 631 | 
 | 2022-11-29 | 6848 | 631 | 
-| 2022-11-28 | 6840 | 633 | 
 

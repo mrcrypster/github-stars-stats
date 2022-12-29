@@ -1,10 +1,10 @@
 # paidy/interview - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 81
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/paidy/interview)
 
@@ -13,5 +13,6 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 29 | 81 | 
 | 2022-12-27 | 28 | 81 | 
 

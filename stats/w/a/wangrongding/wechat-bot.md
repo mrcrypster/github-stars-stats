@@ -1,10 +1,10 @@
 # wangrongding/wechat-bot - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 149
+☋ Forks: 151
 
-★ Stars: 1032
+★ Stars: 1038
 
 [Open repository](https://github.com/wangrongding/wechat-bot)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 1038 | 151 | 
 | 2022-12-27 | 1032 | 149 | 
 | 2022-12-26 | 1030 | 147 | 
 | 2022-12-25 | 1025 | 147 | 

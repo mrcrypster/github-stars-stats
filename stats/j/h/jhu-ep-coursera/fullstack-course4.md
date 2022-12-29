@@ -1,10 +1,10 @@
 # jhu-ep-coursera/fullstack-course4 - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 10957
+☋ Forks: 10965
 
-★ Stars: 8790
+★ Stars: 8789
 
 [Open repository](https://github.com/jhu-ep-coursera/fullstack-course4)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 8789 | 10965 | 
 | 2022-12-27 | 8790 | 10957 | 
 | 2022-12-26 | 8785 | 10957 | 
 | 2022-12-25 | 8783 | 10954 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 8676 | 10871 | 
 | 2022-11-30 | 8670 | 10870 | 
 | 2022-11-29 | 8671 | 10870 | 
-| 2022-11-28 | 8665 | 10864 | 
 

@@ -1,6 +1,6 @@
 # aws/aws-lambda-dotnet - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 430
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 1298 | 430 | 
 | 2022-12-27 | 1298 | 430 | 
 | 2022-12-26 | 1298 | 430 | 
 | 2022-12-25 | 1297 | 430 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 1293 | 424 | 
 | 2022-11-30 | 1293 | 424 | 
 | 2022-11-29 | 1294 | 424 | 
-| 2022-11-28 | 1293 | 424 | 
 

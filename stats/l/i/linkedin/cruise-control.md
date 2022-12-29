@@ -1,6 +1,6 @@
 # linkedin/cruise-control - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 492
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 2330 | 492 | 
 | 2022-12-27 | 2330 | 492 | 
 | 2022-12-26 | 2330 | 492 | 
 | 2022-12-25 | 2330 | 492 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 2318 | 488 | 
 | 2022-11-30 | 2318 | 488 | 
 | 2022-11-29 | 2318 | 487 | 
-| 2022-11-28 | 2317 | 487 | 
 

@@ -1,6 +1,6 @@
 # nanomsg/nng - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 397
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 2992 | 397 | 
 | 2022-12-27 | 2992 | 397 | 
 | 2022-12-26 | 2992 | 397 | 
 | 2022-12-25 | 2992 | 397 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 2977 | 396 | 
 | 2022-11-30 | 2977 | 395 | 
 | 2022-11-29 | 2975 | 395 | 
-| 2022-11-28 | 2974 | 395 | 
 

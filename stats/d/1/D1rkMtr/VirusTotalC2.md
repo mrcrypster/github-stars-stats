@@ -1,10 +1,10 @@
 # D1rkMtr/VirusTotalC2 - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 74
 
-★ Stars: 488
+★ Stars: 489
 
 [Open repository](https://github.com/D1rkMtr/VirusTotalC2)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 489 | 74 | 
 | 2022-12-27 | 488 | 74 | 
 | 2022-12-26 | 488 | 74 | 
 | 2022-12-25 | 488 | 74 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 476 | 73 | 
 | 2022-11-30 | 476 | 73 | 
 | 2022-11-29 | 475 | 73 | 
-| 2022-11-28 | 475 | 73 | 
 

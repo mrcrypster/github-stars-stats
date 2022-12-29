@@ -1,6 +1,6 @@
 # speakeasy-api/rest-template-go - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 167 | 18 | 
 | 2022-12-27 | 167 | 18 | 
 | 2022-12-26 | 167 | 18 | 
 | 2022-12-25 | 166 | 18 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 161 | 18 | 
 | 2022-11-30 | 161 | 18 | 
 | 2022-11-29 | 160 | 18 | 
-| 2022-11-28 | 160 | 18 | 
 

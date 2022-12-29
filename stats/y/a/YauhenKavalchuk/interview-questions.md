@@ -1,6 +1,6 @@
 # YauhenKavalchuk/interview-questions - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 421
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 3041 | 421 | 
 | 2022-12-27 | 3041 | 421 | 
 | 2022-12-26 | 3040 | 421 | 
 | 2022-12-25 | 3039 | 420 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-02 | 2973 | 405 | 
 | 2022-12-01 | 2970 | 403 | 
 | 2022-11-30 | 2968 | 402 | 
-| 2022-11-28 | 2952 | 400 | 
 

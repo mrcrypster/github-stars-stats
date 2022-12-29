@@ -1,10 +1,10 @@
 # macs3-project/MACS - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 265
 
-★ Stars: 588
+★ Stars: 590
 
 [Open repository](https://github.com/macs3-project/MACS)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 590 | 265 | 
 | 2022-12-27 | 588 | 265 | 
 | 2022-12-26 | 588 | 265 | 
 | 2022-12-25 | 588 | 265 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 584 | 265 | 
 | 2022-11-30 | 584 | 265 | 
 | 2022-11-29 | 583 | 265 | 
-| 2022-11-28 | 583 | 265 | 
 

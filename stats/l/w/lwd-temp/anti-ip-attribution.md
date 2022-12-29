@@ -1,10 +1,10 @@
 # lwd-temp/anti-ip-attribution - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 61
 
-★ Stars: 527
+★ Stars: 528
 
 [Open repository](https://github.com/lwd-temp/anti-ip-attribution)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 528 | 61 | 
 | 2022-12-27 | 527 | 61 | 
 | 2022-12-26 | 527 | 61 | 
 | 2022-12-25 | 527 | 61 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 506 | 57 | 
 | 2022-11-30 | 506 | 57 | 
 | 2022-11-29 | 505 | 55 | 
-| 2022-11-28 | 505 | 55 | 
 

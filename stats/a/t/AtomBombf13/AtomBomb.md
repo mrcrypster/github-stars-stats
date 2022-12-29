@@ -1,6 +1,6 @@
 # AtomBombf13/AtomBomb - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 7 | 45 | 
 | 2022-12-27 | 7 | 45 | 
 | 2022-12-26 | 7 | 45 | 
 | 2022-12-25 | 7 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 4 | 35 | 
 | 2022-11-30 | 4 | 35 | 
 | 2022-11-29 | 2 | 33 | 
-| 2022-11-28 | 2 | 33 | 
 

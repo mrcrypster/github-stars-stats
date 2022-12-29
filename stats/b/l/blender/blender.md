@@ -1,10 +1,10 @@
 # blender/blender - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 1256
 
-★ Stars: 7333
+★ Stars: 7337
 
 [Open repository](https://github.com/blender/blender)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 7337 | 1256 | 
 | 2022-12-27 | 7333 | 1256 | 
 | 2022-12-26 | 7326 | 1256 | 
 | 2022-12-25 | 7321 | 1256 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-02 | 7167 | 1224 | 
 | 2022-12-01 | 7159 | 1225 | 
 | 2022-11-30 | 7149 | 1223 | 
-| 2022-11-29 | 7144 | 1221 | 
 

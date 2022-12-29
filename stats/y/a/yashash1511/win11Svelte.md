@@ -1,6 +1,6 @@
 # yashash1511/win11Svelte - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 88 | 4 | 
 | 2022-12-27 | 88 | 4 | 
 | 2022-12-26 | 87 | 4 | 
 | 2022-12-25 | 87 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-02 | 78 | 3 | 
 | 2022-12-01 | 78 | 3 | 
 | 2022-11-30 | 78 | 3 | 
-| 2022-11-29 | 78 | 3 | 
 

@@ -1,6 +1,6 @@
 # binsec/xyntia - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 47 | 2 | 
 | 2022-12-27 | 47 | 2 | 
 | 2022-12-26 | 47 | 2 | 
 | 2022-12-25 | 47 | 2 | 

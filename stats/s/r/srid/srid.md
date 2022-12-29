@@ -1,6 +1,6 @@
 # srid/srid - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 4 | 2 | 
 | 2022-12-27 | 4 | 2 | 
 | 2022-12-26 | 4 | 2 | 
 | 2022-12-25 | 4 | 2 | 

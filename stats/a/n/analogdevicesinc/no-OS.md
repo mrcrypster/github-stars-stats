@@ -1,6 +1,6 @@
 # analogdevicesinc/no-OS - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 1518
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 657 | 1518 | 
 | 2022-12-27 | 657 | 1518 | 
 | 2022-12-26 | 657 | 1518 | 
 | 2022-12-25 | 656 | 1518 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 646 | 1512 | 
 | 2022-11-30 | 646 | 1512 | 
 | 2022-11-29 | 646 | 1512 | 
-| 2022-11-28 | 646 | 1512 | 
 

@@ -1,8 +1,8 @@
 # Th30neAnd0nly/Ohm - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 134
+☋ Forks: 135
 
 ★ Stars: 328
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 328 | 135 | 
 | 2022-12-27 | 328 | 134 | 
 | 2022-12-26 | 328 | 133 | 
 | 2022-12-25 | 324 | 132 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 319 | 126 | 
 | 2022-11-30 | 319 | 126 | 
 | 2022-11-29 | 319 | 126 | 
-| 2022-11-28 | 318 | 126 | 
 

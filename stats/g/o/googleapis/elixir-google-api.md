@@ -1,6 +1,6 @@
 # googleapis/elixir-google-api - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 144
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 682 | 144 | 
 | 2022-12-27 | 682 | 144 | 
 | 2022-12-26 | 682 | 144 | 
 | 2022-12-25 | 683 | 144 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-02 | 683 | 144 | 
 | 2022-11-30 | 682 | 144 | 
 | 2022-11-29 | 682 | 144 | 
-| 2022-11-28 | 682 | 144 | 
 

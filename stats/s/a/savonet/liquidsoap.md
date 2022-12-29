@@ -1,6 +1,6 @@
 # savonet/liquidsoap - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 108
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 1039 | 108 | 
 | 2022-12-27 | 1039 | 108 | 
 | 2022-12-26 | 1039 | 108 | 
 | 2022-12-25 | 1039 | 108 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 1033 | 107 | 
 | 2022-11-30 | 1033 | 107 | 
 | 2022-11-29 | 1032 | 107 | 
-| 2022-11-28 | 1031 | 107 | 
 

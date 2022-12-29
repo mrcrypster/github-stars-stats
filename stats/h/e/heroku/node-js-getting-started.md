@@ -1,8 +1,8 @@
 # heroku/node-js-getting-started - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 3741
+☋ Forks: 3740
 
 ★ Stars: 1040
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 1040 | 3740 | 
 | 2022-12-27 | 1040 | 3741 | 
 | 2022-12-26 | 1040 | 3741 | 
 | 2022-12-25 | 1040 | 3741 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 1039 | 3730 | 
 | 2022-11-30 | 1039 | 3730 | 
 | 2022-11-29 | 1039 | 3729 | 
-| 2022-11-28 | 1039 | 3728 | 
 

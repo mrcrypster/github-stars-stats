@@ -1,10 +1,10 @@
 # martenframework/marten - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 3
 
-★ Stars: 253
+★ Stars: 254
 
 [Open repository](https://github.com/martenframework/marten)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 254 | 3 | 
 | 2022-12-27 | 253 | 3 | 
 | 2022-12-26 | 253 | 3 | 
 | 2022-12-25 | 252 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 221 | 4 | 
 | 2022-11-30 | 221 | 4 | 
 | 2022-11-29 | 221 | 4 | 
-| 2022-11-28 | 221 | 4 | 
 

@@ -1,10 +1,10 @@
 # OCA/account-analytic - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 312
+☋ Forks: 313
 
-★ Stars: 77
+★ Stars: 78
 
 [Open repository](https://github.com/OCA/account-analytic)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 78 | 313 | 
 | 2022-12-27 | 77 | 312 | 
 | 2022-12-26 | 77 | 311 | 
 | 2022-12-25 | 77 | 311 | 

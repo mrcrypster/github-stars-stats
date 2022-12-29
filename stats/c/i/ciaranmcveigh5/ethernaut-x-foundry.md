@@ -1,6 +1,6 @@
 # ciaranmcveigh5/ethernaut-x-foundry - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 187 | 46 | 
 | 2022-12-27 | 187 | 46 | 
 | 2022-12-26 | 187 | 46 | 
 | 2022-12-25 | 187 | 46 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 180 | 43 | 
 | 2022-11-30 | 180 | 43 | 
 | 2022-11-29 | 181 | 43 | 
-| 2022-11-28 | 180 | 43 | 
 

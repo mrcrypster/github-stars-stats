@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 28
 
 ☋ Forks: 6
 
-★ Stars: 80
+★ Stars: 82
 
 [Open repository](https://github.com/Unity-Technologies/ECS-Network-Racing-Sample)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-28 | 80 | 6 | 
+| 2022-12-28 | 82 | 6 | 
 | 2022-12-27 | 80 | 6 | 
 | 2022-12-26 | 65 | 5 | 
 | 2022-12-25 | 43 | 4 | 

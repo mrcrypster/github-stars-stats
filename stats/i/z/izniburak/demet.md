@@ -1,10 +1,10 @@
 # izniburak/demet - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 10
+☋ Forks: 11
 
-★ Stars: 79
+★ Stars: 83
 
 [Open repository](https://github.com/izniburak/demet)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 83 | 11 | 
 | 2022-12-27 | 79 | 10 | 
 | 2022-12-26 | 79 | 10 | 
 | 2022-12-25 | 79 | 10 | 

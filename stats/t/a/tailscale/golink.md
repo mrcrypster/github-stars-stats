@@ -1,10 +1,10 @@
 # tailscale/golink - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 23
 
-★ Stars: 713
+★ Stars: 719
 
 [Open repository](https://github.com/tailscale/golink)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 719 | 23 | 
 | 2022-12-27 | 713 | 23 | 
 | 2022-12-26 | 710 | 23 | 
 | 2022-12-25 | 709 | 23 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 216 | 7 | 
 | 2022-11-30 | 116 | 5 | 
 | 2022-11-29 | 116 | 5 | 
-| 2022-11-28 | 115 | 5 | 
 

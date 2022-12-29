@@ -1,6 +1,6 @@
 # msgpack/msgpack-c - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 815
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 2568 | 815 | 
 | 2022-12-27 | 2568 | 815 | 
 | 2022-12-26 | 2568 | 815 | 
 | 2022-12-25 | 2568 | 815 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 2560 | 815 | 
 | 2022-11-30 | 2560 | 815 | 
 | 2022-11-29 | 2559 | 815 | 
-| 2022-11-28 | 2557 | 815 | 
 

@@ -1,10 +1,10 @@
 # MrBeeBenson/skyWM - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 5
 
-★ Stars: 71
+★ Stars: 74
 
 [Open repository](https://github.com/MrBeeBenson/skyWM)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 74 | 5 | 
 | 2022-12-27 | 71 | 5 | 
 | 2022-12-26 | 68 | 5 | 
 | 2022-12-25 | 67 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 62 | 4 | 
 | 2022-11-30 | 62 | 4 | 
 | 2022-11-29 | 62 | 4 | 
-| 2022-11-28 | 62 | 4 | 
 

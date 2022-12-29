@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 28
 
-☋ Forks: 56
+☋ Forks: 58
 
-★ Stars: 216
+★ Stars: 219
 
 [Open repository](https://github.com/TheoKanning/openai-java)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-28 | 216 | 56 | 
+| 2022-12-28 | 219 | 58 | 
 | 2022-12-27 | 214 | 55 | 
 | 2022-12-26 | 202 | 52 | 
 | 2022-12-25 | 191 | 51 | 

@@ -1,6 +1,6 @@
 # CogRob/catkin_grpc - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 29 | 13 | 
 | 2022-12-28 | 29 | 13 | 
 | 2022-12-26 | 29 | 13 | 
 | 2022-12-25 | 29 | 13 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-01 | 29 | 13 | 
 | 2022-11-30 | 29 | 13 | 
 | 2022-11-29 | 29 | 13 | 
-| 2022-11-28 | 29 | 13 | 
 

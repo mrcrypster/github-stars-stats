@@ -1,10 +1,10 @@
 # NVIDIA-Omniverse/IsaacGymEnvs - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 157
 
-★ Stars: 700
+★ Stars: 704
 
 [Open repository](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 704 | 157 | 
 | 2022-12-28 | 700 | 157 | 
 | 2022-12-26 | 699 | 159 | 
 | 2022-12-25 | 698 | 158 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-01 | 676 | 153 | 
 | 2022-11-30 | 675 | 153 | 
 | 2022-11-29 | 675 | 153 | 
-| 2022-11-28 | 674 | 152 | 
 

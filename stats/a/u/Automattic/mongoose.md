@@ -1,10 +1,10 @@
 # Automattic/mongoose - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 3634
+☋ Forks: 3637
 
-★ Stars: 25142
+★ Stars: 25148
 
 [Open repository](https://github.com/Automattic/mongoose)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 25148 | 3637 | 
 | 2022-12-27 | 25142 | 3634 | 
 | 2022-12-26 | 25139 | 3633 | 
 | 2022-12-25 | 25136 | 3631 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 25057 | 3621 | 
 | 2022-11-30 | 25052 | 3620 | 
 | 2022-11-29 | 25045 | 3619 | 
-| 2022-11-28 | 25039 | 3620 | 
 

@@ -1,6 +1,6 @@
 # twitter/opensource-website - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 617
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 1976 | 617 | 
 | 2022-12-27 | 1976 | 617 | 
 | 2022-12-26 | 1974 | 616 | 
 | 2022-12-25 | 1974 | 617 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 1959 | 613 | 
 | 2022-11-30 | 1959 | 612 | 
 | 2022-11-29 | 1958 | 612 | 
-| 2022-11-28 | 1957 | 612 | 
 

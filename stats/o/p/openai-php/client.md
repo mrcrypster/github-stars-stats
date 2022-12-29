@@ -1,10 +1,10 @@
 # openai-php/client - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 43
+☋ Forks: 51
 
-★ Stars: 879
+★ Stars: 929
 
 [Open repository](https://github.com/openai-php/client)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 929 | 51 | 
 | 2022-12-27 | 879 | 43 | 
 | 2022-12-26 | 823 | 42 | 
 | 2022-12-25 | 820 | 41 | 

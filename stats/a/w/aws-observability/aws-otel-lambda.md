@@ -1,10 +1,10 @@
 # aws-observability/aws-otel-lambda - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 34
 
-★ Stars: 82
+★ Stars: 83
 
 [Open repository](https://github.com/aws-observability/aws-otel-lambda)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 83 | 34 | 
 | 2022-12-27 | 82 | 34 | 
 | 2022-12-26 | 82 | 34 | 
 | 2022-12-25 | 80 | 34 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 77 | 34 | 
 | 2022-11-30 | 76 | 34 | 
 | 2022-11-29 | 75 | 34 | 
-| 2022-11-28 | 75 | 34 | 
 

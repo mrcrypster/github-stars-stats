@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-cloudtrail - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 76
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 86 | 76 | 
 | 2022-12-28 | 86 | 76 | 
 | 2022-12-27 | 86 | 75 | 
 | 2022-12-25 | 86 | 75 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-01 | 84 | 74 | 
 | 2022-11-30 | 84 | 74 | 
 | 2022-11-29 | 84 | 74 | 
-| 2022-11-28 | 84 | 74 | 
 

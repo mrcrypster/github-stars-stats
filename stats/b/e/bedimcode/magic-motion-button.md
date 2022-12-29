@@ -1,6 +1,6 @@
 # bedimcode/magic-motion-button - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 9 | - | 
 | 2022-12-27 | 9 | - | 
 | 2022-12-26 | 9 | - | 
 | 2022-12-25 | 9 | - | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 9 | - | 
 | 2022-11-30 | 9 | - | 
 | 2022-11-29 | 9 | - | 
-| 2022-11-28 | 9 | - | 
 

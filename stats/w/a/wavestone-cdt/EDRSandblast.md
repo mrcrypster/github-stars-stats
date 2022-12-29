@@ -1,10 +1,10 @@
 # wavestone-cdt/EDRSandblast - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 173
+☋ Forks: 174
 
-★ Stars: 841
+★ Stars: 842
 
 [Open repository](https://github.com/wavestone-cdt/EDRSandblast)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 842 | 174 | 
 | 2022-12-27 | 841 | 173 | 
 | 2022-12-26 | 839 | 172 | 
 | 2022-12-25 | 839 | 172 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 822 | 170 | 
 | 2022-11-30 | 822 | 168 | 
 | 2022-11-29 | 822 | 168 | 
-| 2022-11-28 | 822 | 168 | 
 

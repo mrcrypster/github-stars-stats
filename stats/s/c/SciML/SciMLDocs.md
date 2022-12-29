@@ -1,6 +1,6 @@
 # SciML/SciMLDocs - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 33 | 20 | 
 | 2022-12-27 | 33 | 20 | 
 | 2022-12-26 | 33 | 20 | 
 | 2022-12-25 | 33 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 29 | 16 | 
 | 2022-11-30 | 29 | 16 | 
 | 2022-11-29 | 29 | 16 | 
-| 2022-11-28 | 29 | 16 | 
 

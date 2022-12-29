@@ -1,6 +1,6 @@
 # melange-re/melange - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 446 | 35 | 
 | 2022-12-27 | 446 | 35 | 
 | 2022-12-26 | 445 | 35 | 
 | 2022-12-25 | 445 | 35 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-02 | 436 | 35 | 
 | 2022-12-01 | 432 | 35 | 
 | 2022-11-30 | 432 | 35 | 
-| 2022-11-29 | 432 | 35 | 
 

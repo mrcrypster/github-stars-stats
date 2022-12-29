@@ -1,6 +1,6 @@
 # zchengo/crm - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 50 | 11 | 
 | 2022-12-27 | 50 | 11 | 
 | 2022-12-26 | 48 | 11 | 
 | 2022-12-25 | 48 | 11 | 

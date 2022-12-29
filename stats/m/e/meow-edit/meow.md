@@ -1,6 +1,6 @@
 # meow-edit/meow - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 91
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 682 | 91 | 
 | 2022-12-27 | 682 | 91 | 
 | 2022-12-26 | 682 | 91 | 
 | 2022-12-25 | 680 | 88 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 671 | 88 | 
 | 2022-11-30 | 670 | 88 | 
 | 2022-11-29 | 670 | 88 | 
-| 2022-11-28 | 668 | 88 | 
 

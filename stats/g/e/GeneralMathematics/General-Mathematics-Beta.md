@@ -1,10 +1,10 @@
 # GeneralMathematics/General-Mathematics-Beta - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 133
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/GeneralMathematics/General-Mathematics-Beta)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 19 | 133 | 
 | 2022-12-27 | 18 | 133 | 
 | 2022-12-26 | 18 | 134 | 
 | 2022-12-25 | 18 | 134 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 15 | 114 | 
 | 2022-11-30 | 15 | 114 | 
 | 2022-11-29 | 15 | 109 | 
-| 2022-11-28 | 15 | 106 | 
 

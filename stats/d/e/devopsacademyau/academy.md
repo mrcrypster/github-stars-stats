@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 28
 
 ☋ Forks: 226
 
-★ Stars: 221
+★ Stars: 223
 
 [Open repository](https://github.com/devopsacademyau/academy)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-28 | 221 | 226 | 
+| 2022-12-28 | 223 | 226 | 
 | 2022-12-27 | 216 | 224 | 
 | 2022-12-26 | 215 | 223 | 
 | 2022-12-25 | 215 | 223 | 
@@ -39,5 +39,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 192 | 208 | 
 | 2022-12-01 | 191 | 207 | 
 | 2022-11-30 | 191 | 207 | 
-| 2022-11-29 | 191 | 207 | 
 

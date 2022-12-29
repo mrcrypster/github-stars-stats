@@ -1,10 +1,10 @@
 # ktisis-tools/Ktisis - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 30
+☋ Forks: 31
 
-★ Stars: 92
+★ Stars: 93
 
 [Open repository](https://github.com/ktisis-tools/Ktisis)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 93 | 31 | 
 | 2022-12-27 | 92 | 30 | 
 | 2022-12-26 | 92 | 30 | 
 | 2022-12-25 | 92 | 31 | 

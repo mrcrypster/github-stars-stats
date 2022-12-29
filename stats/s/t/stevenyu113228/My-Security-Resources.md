@@ -1,10 +1,10 @@
 # stevenyu113228/My-Security-Resources - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 12
 
-★ Stars: 181
+★ Stars: 182
 
 [Open repository](https://github.com/stevenyu113228/My-Security-Resources)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 182 | 12 | 
 | 2022-12-27 | 181 | 12 | 
 | 2022-12-26 | 181 | 12 | 
 | 2022-12-25 | 181 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 177 | 12 | 
 | 2022-11-30 | 177 | 12 | 
 | 2022-11-29 | 176 | 12 | 
-| 2022-11-28 | 176 | 12 | 
 

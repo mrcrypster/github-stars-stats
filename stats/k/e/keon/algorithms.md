@@ -1,10 +1,10 @@
 # keon/algorithms - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 4423
 
-★ Stars: 21964
+★ Stars: 21966
 
 [Open repository](https://github.com/keon/algorithms)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 21966 | 4423 | 
 | 2022-12-27 | 21964 | 4423 | 
 | 2022-12-26 | 21958 | 4424 | 
 | 2022-12-25 | 21956 | 4425 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 21883 | 4416 | 
 | 2022-11-30 | 21879 | 4416 | 
 | 2022-11-29 | 21875 | 4417 | 
-| 2022-11-28 | 21873 | 4418 | 
 

@@ -1,6 +1,6 @@
 # joamag/boytacean - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 236 | 6 | 
 | 2022-12-27 | 236 | 6 | 
 | 2022-12-26 | 234 | 6 | 
 | 2022-12-25 | 233 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 225 | 6 | 
 | 2022-11-30 | 224 | 6 | 
 | 2022-11-29 | 223 | 6 | 
-| 2022-11-28 | 223 | 7 | 
 

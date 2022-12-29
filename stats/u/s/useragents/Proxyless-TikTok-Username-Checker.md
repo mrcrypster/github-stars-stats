@@ -1,10 +1,10 @@
 # useragents/Proxyless-TikTok-Username-Checker - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 71
 
-★ Stars: 467
+★ Stars: 469
 
 [Open repository](https://github.com/useragents/Proxyless-TikTok-Username-Checker)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 469 | 71 | 
 | 2022-12-27 | 467 | 71 | 
 | 2022-12-26 | 467 | 70 | 
 | 2022-12-25 | 467 | 70 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 465 | 69 | 
 | 2022-11-30 | 464 | 69 | 
 | 2022-11-29 | 464 | 69 | 
-| 2022-11-28 | 464 | 69 | 
 

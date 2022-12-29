@@ -1,6 +1,6 @@
 # cdpierse/transformers-interpret - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 81
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 930 | 81 | 
 | 2022-12-27 | 930 | 81 | 
 | 2022-12-26 | 930 | 81 | 
 | 2022-12-24 | 930 | 80 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 899 | 80 | 
 | 2022-11-30 | 898 | 80 | 
 | 2022-11-29 | 894 | 80 | 
-| 2022-11-28 | 884 | 80 | 
 

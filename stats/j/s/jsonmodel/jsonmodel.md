@@ -1,6 +1,6 @@
 # jsonmodel/jsonmodel - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 1070
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 6857 | 1070 | 
 | 2022-12-27 | 6857 | 1070 | 
 | 2022-12-26 | 6857 | 1070 | 
 | 2022-12-25 | 6857 | 1070 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 6858 | 1072 | 
 | 2022-11-30 | 6857 | 1072 | 
 | 2022-11-29 | 6857 | 1072 | 
-| 2022-11-28 | 6857 | 1072 | 
 

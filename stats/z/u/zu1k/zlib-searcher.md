@@ -1,10 +1,10 @@
 # zu1k/zlib-searcher - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 186
+☋ Forks: 189
 
-★ Stars: 2536
+★ Stars: 2547
 
 [Open repository](https://github.com/zu1k/zlib-searcher)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 2547 | 189 | 
 | 2022-12-27 | 2536 | 186 | 
 | 2022-12-26 | 2528 | 185 | 
 | 2022-12-24 | 2527 | 185 | 

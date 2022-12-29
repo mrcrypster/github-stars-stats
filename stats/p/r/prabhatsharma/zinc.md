@@ -1,10 +1,10 @@
 # prabhatsharma/zinc - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
-☋ Forks: 560
+☋ Forks: 563
 
-★ Stars: 12939
+★ Stars: 12973
 
 [Open repository](https://github.com/prabhatsharma/zinc)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 12973 | 563 | 
 | 2022-12-28 | 12939 | 560 | 
 | 2022-12-27 | 12934 | 559 | 
 | 2022-12-25 | 12928 | 559 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-01 | 12809 | 552 | 
 | 2022-11-30 | 12806 | 551 | 
 | 2022-11-29 | 12803 | 551 | 
-| 2022-11-28 | 12798 | 552 | 
 

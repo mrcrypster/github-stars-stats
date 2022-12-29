@@ -1,10 +1,10 @@
 # ad4mx/spinoff - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 5
 
-★ Stars: 281
+★ Stars: 282
 
 [Open repository](https://github.com/ad4mx/spinoff)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 282 | 5 | 
 | 2022-12-27 | 281 | 5 | 
 | 2022-12-26 | 281 | 5 | 
 | 2022-12-25 | 281 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 279 | 5 | 
 | 2022-11-30 | 279 | 5 | 
 | 2022-11-29 | 279 | 5 | 
-| 2022-11-28 | 279 | 6 | 
 

@@ -1,8 +1,8 @@
 # PacktPublishing/Build-Your-Own-Programming-Language - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 37
+☋ Forks: 38
 
 ★ Stars: 100
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 100 | 38 | 
 | 2022-12-27 | 100 | 37 | 
 | 2022-12-26 | 100 | 37 | 
 | 2022-12-25 | 100 | 37 | 

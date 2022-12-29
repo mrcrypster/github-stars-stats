@@ -1,6 +1,6 @@
 # google/vim-maktaba - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 582 | 54 | 
 | 2022-12-27 | 582 | 54 | 
 | 2022-12-26 | 582 | 54 | 
 | 2022-12-25 | 582 | 54 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 579 | 54 | 
 | 2022-11-30 | 579 | 54 | 
 | 2022-11-29 | 580 | 54 | 
-| 2022-11-28 | 580 | 54 | 
 

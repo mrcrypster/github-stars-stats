@@ -1,6 +1,6 @@
 # jntrnr/jaktnesmonster - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 72 | 12 | 
 | 2022-12-27 | 72 | 12 | 
 | 2022-12-26 | 72 | 12 | 
 | 2022-12-25 | 72 | 12 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 71 | 12 | 
 | 2022-11-30 | 71 | 12 | 
 | 2022-11-29 | 71 | 12 | 
-| 2022-11-28 | 71 | 13 | 
 

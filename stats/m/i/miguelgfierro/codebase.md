@@ -1,6 +1,6 @@
 # miguelgfierro/codebase - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 48 | 15 | 
 | 2022-12-27 | 48 | 15 | 
 | 2022-12-26 | 48 | 15 | 
 | 2022-12-24 | 48 | 15 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-02 | 48 | 15 | 
 | 2022-12-01 | 48 | 15 | 
 | 2022-11-30 | 48 | 15 | 
-| 2022-11-29 | 48 | 15 | 
 

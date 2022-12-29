@@ -1,10 +1,10 @@
 # Jon-Becker/heimdall-rs - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 27
+☋ Forks: 28
 
-★ Stars: 470
+★ Stars: 478
 
 [Open repository](https://github.com/Jon-Becker/heimdall-rs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 478 | 28 | 
 | 2022-12-27 | 470 | 27 | 
 | 2022-12-26 | 469 | 27 | 
 | 2022-12-25 | 466 | 27 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 431 | 19 | 
 | 2022-11-30 | 429 | 19 | 
 | 2022-11-29 | 428 | 19 | 
-| 2022-11-28 | 427 | 19 | 
 

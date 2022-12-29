@@ -1,6 +1,6 @@
 # pat-alt/CounterfactualExplanations.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 43 | - | 
 | 2022-12-27 | 43 | - | 
 | 2022-12-26 | 43 | - | 
 | 2022-12-25 | 43 | - | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 41 | - | 
 | 2022-11-30 | 41 | - | 
 | 2022-11-29 | 41 | - | 
-| 2022-11-28 | 41 | - | 
 

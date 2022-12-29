@@ -1,10 +1,10 @@
 # Yoshubs/Forever-1.0-Hybrid - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 7
 
-★ Stars: 11
+★ Stars: 13
 
 [Open repository](https://github.com/Yoshubs/Forever-1.0-Hybrid)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 13 | 7 | 
 | 2022-12-27 | 11 | 7 | 
 | 2022-12-26 | 11 | 7 | 
 | 2022-12-25 | 10 | 7 | 

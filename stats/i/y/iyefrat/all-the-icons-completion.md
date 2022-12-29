@@ -1,10 +1,10 @@
 # iyefrat/all-the-icons-completion - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 6
 
-★ Stars: 71
+★ Stars: 72
 
 [Open repository](https://github.com/iyefrat/all-the-icons-completion)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 72 | 6 | 
 | 2022-12-27 | 71 | 6 | 
 | 2022-12-26 | 71 | 6 | 
 | 2022-12-25 | 71 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 69 | 6 | 
 | 2022-11-30 | 69 | 6 | 
 | 2022-11-29 | 69 | 6 | 
-| 2022-11-28 | 69 | 6 | 
 

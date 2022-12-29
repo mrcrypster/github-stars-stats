@@ -1,10 +1,10 @@
 # vitaly-sazonov/kanban-rest - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 163
+☋ Forks: 164
 
-★ Stars: 54
+★ Stars: 55
 
 [Open repository](https://github.com/vitaly-sazonov/kanban-rest)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 55 | 164 | 
 | 2022-12-27 | 54 | 163 | 
 | 2022-12-26 | 54 | 163 | 
 | 2022-12-25 | 54 | 164 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 54 | 163 | 
 | 2022-11-30 | 54 | 162 | 
 | 2022-11-29 | 54 | 162 | 
-| 2022-11-28 | 54 | 161 | 
 

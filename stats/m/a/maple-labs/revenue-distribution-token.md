@@ -1,6 +1,6 @@
 # maple-labs/revenue-distribution-token - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 145 | 14 | 
 | 2022-12-27 | 145 | 14 | 
 | 2022-12-26 | 145 | 14 | 
 | 2022-12-25 | 144 | 14 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 141 | 10 | 
 | 2022-11-30 | 141 | 10 | 
 | 2022-11-29 | 141 | 10 | 
-| 2022-11-28 | 141 | 10 | 
 

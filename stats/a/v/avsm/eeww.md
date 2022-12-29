@@ -1,6 +1,6 @@
 # avsm/eeww - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 16 | 3 | 
 | 2022-12-27 | 16 | 3 | 
 | 2022-12-26 | 16 | 3 | 
 | 2022-12-25 | 16 | 3 | 

@@ -1,6 +1,6 @@
 # tidyverse/tibble - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 121
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 587 | 121 | 
 | 2022-12-27 | 587 | 121 | 
 | 2022-12-26 | 588 | 121 | 
 | 2022-12-25 | 588 | 121 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-02 | 586 | 121 | 
 | 2022-12-01 | 586 | 121 | 
 | 2022-11-30 | 586 | 121 | 
-| 2022-11-29 | 586 | 121 | 
 

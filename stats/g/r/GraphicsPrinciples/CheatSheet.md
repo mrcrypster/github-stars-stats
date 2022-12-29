@@ -1,10 +1,10 @@
 # GraphicsPrinciples/CheatSheet - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 44
+☋ Forks: 45
 
-★ Stars: 168
+★ Stars: 169
 
 [Open repository](https://github.com/GraphicsPrinciples/CheatSheet)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 169 | 45 | 
 | 2022-12-27 | 168 | 44 | 
 | 2022-12-26 | 168 | 43 | 
 | 2022-12-25 | 168 | 43 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 168 | 43 | 
 | 2022-11-30 | 168 | 43 | 
 | 2022-11-29 | 168 | 43 | 
-| 2022-11-28 | 168 | 43 | 
 

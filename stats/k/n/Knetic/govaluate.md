@@ -1,10 +1,10 @@
 # Knetic/govaluate - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 395
 
-★ Stars: 2854
+★ Stars: 2855
 
 [Open repository](https://github.com/Knetic/govaluate)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 2855 | 395 | 
 | 2022-12-27 | 2854 | 395 | 
 | 2022-12-26 | 2852 | 395 | 
 | 2022-12-25 | 2852 | 395 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 2812 | 390 | 
 | 2022-11-30 | 2811 | 389 | 
 | 2022-11-29 | 2810 | 388 | 
-| 2022-11-28 | 2808 | 388 | 
 

@@ -1,10 +1,10 @@
 # xiaoye97/DinkumChinese - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 13
 
-★ Stars: 82
+★ Stars: 83
 
 [Open repository](https://github.com/xiaoye97/DinkumChinese)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 83 | 13 | 
 | 2022-12-27 | 82 | 13 | 
 | 2022-12-26 | 81 | 13 | 
 | 2022-12-25 | 81 | 13 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 74 | 11 | 
 | 2022-11-30 | 74 | 11 | 
 | 2022-11-29 | 74 | 11 | 
-| 2022-11-28 | 74 | 11 | 
 

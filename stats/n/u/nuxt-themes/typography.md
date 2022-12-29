@@ -1,6 +1,6 @@
 # nuxt-themes/typography - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 74 | 2 | 
 | 2022-12-27 | 74 | 2 | 
 | 2022-12-26 | 72 | 2 | 
 | 2022-12-25 | 72 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 63 | - | 
 | 2022-11-30 | 62 | - | 
 | 2022-11-29 | 60 | - | 
-| 2022-11-28 | 61 | - | 
 

@@ -1,6 +1,6 @@
 # boa-dev/boa - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 324
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 3684 | 324 | 
 | 2022-12-27 | 3684 | 324 | 
 | 2022-12-26 | 3684 | 323 | 
 | 2022-12-25 | 3681 | 322 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 3655 | 318 | 
 | 2022-11-30 | 3652 | 317 | 
 | 2022-11-29 | 3648 | 315 | 
-| 2022-11-28 | 3648 | 316 | 
 

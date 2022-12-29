@@ -1,10 +1,10 @@
 # factorhouse/slipway - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 1
 
-★ Stars: 36
+★ Stars: 38
 
 [Open repository](https://github.com/factorhouse/slipway)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 38 | 1 | 
 | 2022-12-27 | 36 | 1 | 
 | 2022-12-26 | 35 | 1 | 
 | 2022-12-25 | 35 | 1 | 

@@ -1,10 +1,10 @@
 # bol-van/zapret - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 222
 
-★ Stars: 2014
+★ Stars: 2015
 
 [Open repository](https://github.com/bol-van/zapret)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 2015 | 222 | 
 | 2022-12-27 | 2014 | 222 | 
 | 2022-12-26 | 2012 | 222 | 
 | 2022-12-25 | 2012 | 221 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 1992 | 222 | 
 | 2022-11-30 | 1990 | 222 | 
 | 2022-11-29 | 1989 | 222 | 
-| 2022-11-28 | 1990 | 222 | 
 

@@ -1,10 +1,10 @@
 # liuyinz/binky-mode - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 3
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/liuyinz/binky-mode)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 24 | 3 | 
 | 2022-12-27 | 23 | 3 | 
 | 2022-12-26 | 23 | 3 | 
 | 2022-12-25 | 23 | 3 | 

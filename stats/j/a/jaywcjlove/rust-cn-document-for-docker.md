@@ -1,10 +1,10 @@
 # jaywcjlove/rust-cn-document-for-docker - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 0
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/jaywcjlove/rust-cn-document-for-docker)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 16 | - | 
 | 2022-12-27 | 15 | - | 
 | 2022-12-26 | 15 | - | 
 | 2022-12-25 | 15 | - | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-02 | 15 | - | 
 | 2022-12-01 | 15 | - | 
 | 2022-11-30 | 15 | - | 
-| 2022-11-29 | 15 | - | 
 

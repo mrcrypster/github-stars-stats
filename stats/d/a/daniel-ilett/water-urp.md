@@ -1,8 +1,8 @@
 # daniel-ilett/water-urp - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 25
+☋ Forks: 26
 
 ★ Stars: 118
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 118 | 26 | 
 | 2022-12-27 | 118 | 25 | 
 | 2022-12-26 | 118 | 25 | 
 | 2022-12-25 | 118 | 25 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 117 | 24 | 
 | 2022-11-30 | 117 | 24 | 
 | 2022-11-29 | 117 | 24 | 
-| 2022-11-28 | 117 | 24 | 
 

@@ -1,8 +1,8 @@
 # smarques84/MockLocationDetector - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 256
+☋ Forks: 257
 
 ★ Stars: 970
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 970 | 257 | 
 | 2022-12-27 | 970 | 256 | 
 | 2022-12-26 | 969 | 256 | 
 | 2022-12-25 | 968 | 256 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 946 | 254 | 
 | 2022-11-30 | 946 | 254 | 
 | 2022-11-29 | 946 | 254 | 
-| 2022-11-28 | 946 | 254 | 
 

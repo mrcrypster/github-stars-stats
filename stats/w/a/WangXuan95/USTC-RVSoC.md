@@ -1,6 +1,6 @@
 # WangXuan95/USTC-RVSoC - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 214 | 54 | 
 | 2022-12-27 | 214 | 54 | 
 | 2022-12-26 | 214 | 54 | 
 | 2022-12-25 | 214 | 54 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 205 | 54 | 
 | 2022-11-30 | 205 | 54 | 
 | 2022-11-29 | 205 | 54 | 
-| 2022-11-28 | 205 | 54 | 
 

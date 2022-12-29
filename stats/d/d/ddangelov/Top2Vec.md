@@ -1,10 +1,10 @@
 # ddangelov/Top2Vec - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
-☋ Forks: 326
+☋ Forks: 328
 
-★ Stars: 2349
+★ Stars: 2350
 
 [Open repository](https://github.com/ddangelov/Top2Vec)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 2350 | 328 | 
 | 2022-12-28 | 2349 | 326 | 
 | 2022-12-26 | 2346 | 326 | 
 | 2022-12-25 | 2345 | 326 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-01 | 2322 | 319 | 
 | 2022-11-30 | 2321 | 319 | 
 | 2022-11-29 | 2320 | 318 | 
-| 2022-11-28 | 2319 | 318 | 
 

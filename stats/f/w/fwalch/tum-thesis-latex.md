@@ -1,6 +1,6 @@
 # fwalch/tum-thesis-latex - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 181
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 405 | 181 | 
 | 2022-12-27 | 405 | 181 | 
 | 2022-12-26 | 405 | 181 | 
 | 2022-12-25 | 405 | 181 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-02 | 405 | 181 | 
 | 2022-12-01 | 405 | 181 | 
 | 2022-11-29 | 405 | 181 | 
-| 2022-11-28 | 405 | 181 | 
 

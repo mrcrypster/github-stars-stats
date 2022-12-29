@@ -1,6 +1,6 @@
 # tpope/vim-tbone - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 369 | 18 | 
 | 2022-12-27 | 369 | 18 | 
 | 2022-12-26 | 369 | 18 | 
 | 2022-12-25 | 369 | 18 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 368 | 18 | 
 | 2022-11-30 | 369 | 18 | 
 | 2022-11-29 | 369 | 18 | 
-| 2022-11-28 | 369 | 18 | 
 

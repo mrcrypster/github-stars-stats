@@ -1,10 +1,10 @@
 # pojntfx/weron - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 39
 
-★ Stars: 1219
+★ Stars: 1220
 
 [Open repository](https://github.com/pojntfx/weron)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 1220 | 39 | 
 | 2022-12-27 | 1219 | 39 | 
 | 2022-12-26 | 1218 | 39 | 
 | 2022-12-25 | 1217 | 39 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 1204 | 36 | 
 | 2022-11-30 | 1204 | 36 | 
 | 2022-11-29 | 1204 | 36 | 
-| 2022-11-28 | 1199 | 33 | 
 

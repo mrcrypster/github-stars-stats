@@ -1,10 +1,10 @@
 # inkasadev/osib-frontend-pt - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 10
 
-★ Stars: 186
+★ Stars: 187
 
 [Open repository](https://github.com/inkasadev/osib-frontend-pt)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 187 | 10 | 
 | 2022-12-27 | 186 | 10 | 
 | 2022-12-26 | 186 | 10 | 
 | 2022-12-25 | 186 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 182 | 10 | 
 | 2022-11-30 | 181 | 9 | 
 | 2022-11-29 | 181 | 9 | 
-| 2022-11-28 | 181 | 9 | 
 

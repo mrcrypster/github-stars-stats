@@ -1,10 +1,10 @@
 # NexiusTailer/Nex-AC - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 151
+☋ Forks: 152
 
-★ Stars: 159
+★ Stars: 160
 
 [Open repository](https://github.com/NexiusTailer/Nex-AC)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 160 | 152 | 
 | 2022-12-27 | 159 | 151 | 
 | 2022-12-26 | 159 | 149 | 
 | 2022-12-25 | 159 | 149 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 159 | 151 | 
 | 2022-11-30 | 160 | 151 | 
 | 2022-11-29 | 160 | 151 | 
-| 2022-11-28 | 160 | 151 | 
 

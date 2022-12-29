@@ -1,10 +1,10 @@
 # microsoft/azuredatastudio - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 827
+☋ Forks: 828
 
-★ Stars: 7000
+★ Stars: 6998
 
 [Open repository](https://github.com/microsoft/azuredatastudio)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 6998 | 828 | 
 | 2022-12-27 | 7000 | 827 | 
 | 2022-12-26 | 6999 | 827 | 
 | 2022-12-25 | 6998 | 826 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 6981 | 820 | 
 | 2022-11-30 | 6978 | 820 | 
 | 2022-11-29 | 6975 | 819 | 
-| 2022-11-28 | 6969 | 819 | 
 

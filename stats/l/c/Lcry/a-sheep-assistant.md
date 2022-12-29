@@ -1,10 +1,10 @@
 # Lcry/a-sheep-assistant - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 335
 
-★ Stars: 878
+★ Stars: 876
 
 [Open repository](https://github.com/Lcry/a-sheep-assistant)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 876 | 335 | 
 | 2022-12-28 | 878 | 335 | 
 | 2022-12-26 | 878 | 335 | 
 | 2022-12-25 | 878 | 335 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-01 | 882 | 333 | 
 | 2022-11-30 | 883 | 333 | 
 | 2022-11-29 | 884 | 333 | 
-| 2022-11-28 | 884 | 333 | 
 

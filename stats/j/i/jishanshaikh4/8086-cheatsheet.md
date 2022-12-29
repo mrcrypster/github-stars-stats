@@ -1,6 +1,6 @@
 # jishanshaikh4/8086-cheatsheet - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 81 | 14 | 
 | 2022-12-28 | 81 | 14 | 
 | 2022-12-26 | 81 | 14 | 
 | 2022-12-25 | 81 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-01 | 81 | 14 | 
 | 2022-11-30 | 81 | 14 | 
 | 2022-11-29 | 81 | 14 | 
-| 2022-11-28 | 81 | 14 | 
 

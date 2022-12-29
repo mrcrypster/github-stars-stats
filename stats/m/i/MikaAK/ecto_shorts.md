@@ -1,6 +1,6 @@
 # MikaAK/ecto_shorts - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 73 | 12 | 
 | 2022-12-27 | 73 | 12 | 
 | 2022-12-26 | 73 | 12 | 
 | 2022-12-25 | 73 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 69 | 12 | 
 | 2022-11-30 | 69 | 12 | 
 | 2022-11-29 | 69 | 12 | 
-| 2022-11-28 | 69 | 12 | 
 

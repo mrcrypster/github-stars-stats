@@ -1,6 +1,6 @@
 # patriciogonzalezvivo/lygia_unity_examples - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 22 | 1 | 
 | 2022-12-27 | 22 | 1 | 
 | 2022-12-26 | 22 | 1 | 
 | 2022-12-25 | 22 | 1 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-02 | 21 | 1 | 
 | 2022-12-01 | 21 | 1 | 
 | 2022-11-30 | 21 | 1 | 
-| 2022-11-29 | 21 | 1 | 
 

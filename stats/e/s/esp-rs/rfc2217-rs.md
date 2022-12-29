@@ -1,10 +1,10 @@
 # esp-rs/rfc2217-rs - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 4
 
-★ Stars: 114
+★ Stars: 115
 
 [Open repository](https://github.com/esp-rs/rfc2217-rs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 115 | 4 | 
 | 2022-12-27 | 114 | 4 | 
 | 2022-12-26 | 113 | 4 | 
 | 2022-12-25 | 113 | 4 | 

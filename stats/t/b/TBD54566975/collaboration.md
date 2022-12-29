@@ -1,10 +1,10 @@
 # TBD54566975/collaboration - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 23
 
-★ Stars: 244
+★ Stars: 245
 
 [Open repository](https://github.com/TBD54566975/collaboration)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 245 | 23 | 
 | 2022-12-27 | 244 | 23 | 
 | 2022-12-26 | 244 | 23 | 
 | 2022-12-25 | 244 | 23 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 242 | 23 | 
 | 2022-11-30 | 240 | 23 | 
 | 2022-11-29 | 240 | 23 | 
-| 2022-11-28 | 240 | 23 | 
 

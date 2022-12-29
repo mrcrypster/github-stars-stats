@@ -1,10 +1,10 @@
 # YunaiV/ruoyi-vue-pro - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 2570
+☋ Forks: 2579
 
-★ Stars: 8093
+★ Stars: 8129
 
 [Open repository](https://github.com/YunaiV/ruoyi-vue-pro)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 8129 | 2579 | 
 | 2022-12-27 | 8093 | 2570 | 
 | 2022-12-26 | 8084 | 2566 | 
 | 2022-12-25 | 8080 | 2566 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 7814 | 2490 | 
 | 2022-11-30 | 7808 | 2485 | 
 | 2022-11-29 | 7796 | 2481 | 
-| 2022-11-28 | 7774 | 2476 | 
 

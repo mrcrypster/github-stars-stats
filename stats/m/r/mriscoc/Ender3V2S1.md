@@ -1,10 +1,10 @@
 # mriscoc/Ender3V2S1 - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 145
+☋ Forks: 146
 
-★ Stars: 944
+★ Stars: 953
 
 [Open repository](https://github.com/mriscoc/Ender3V2S1)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 953 | 146 | 
 | 2022-12-27 | 944 | 145 | 
 | 2022-12-26 | 942 | 145 | 
 | 2022-12-25 | 933 | 145 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 847 | 132 | 
 | 2022-11-30 | 845 | 131 | 
 | 2022-11-29 | 842 | 131 | 
-| 2022-11-28 | 840 | 130 | 
 

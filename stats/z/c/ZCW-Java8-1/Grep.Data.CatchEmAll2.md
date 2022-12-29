@@ -1,6 +1,6 @@
 # ZCW-Java8-1/Grep.Data.CatchEmAll2 - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | - | 37 | 
 | 2022-12-27 | - | 37 | 
 | 2022-12-26 | - | 37 | 
 | 2022-12-25 | - | 37 | 

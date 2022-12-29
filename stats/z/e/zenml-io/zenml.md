@@ -1,10 +1,10 @@
 # zenml-io/zenml - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 249
 
-★ Stars: 2588
+★ Stars: 2589
 
 [Open repository](https://github.com/zenml-io/zenml)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 2589 | 249 | 
 | 2022-12-27 | 2588 | 249 | 
 | 2022-12-26 | 2587 | 249 | 
 | 2022-12-25 | 2586 | 249 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-02 | 2546 | 242 | 
 | 2022-12-01 | 2546 | 241 | 
 | 2022-11-30 | 2545 | 241 | 
-| 2022-11-29 | 2544 | 240 | 
 

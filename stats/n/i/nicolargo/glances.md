@@ -1,6 +1,6 @@
 # nicolargo/glances - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 1339
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 21973 | 1339 | 
 | 2022-12-27 | 21973 | 1339 | 
 | 2022-12-26 | 21966 | 1339 | 
 | 2022-12-25 | 21963 | 1339 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 21836 | 1335 | 
 | 2022-11-30 | 21828 | 1336 | 
 | 2022-11-29 | 21822 | 1337 | 
-| 2022-11-28 | 21813 | 1337 | 
 

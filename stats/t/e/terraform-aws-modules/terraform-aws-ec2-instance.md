@@ -1,8 +1,8 @@
 # terraform-aws-modules/terraform-aws-ec2-instance - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 1461
+☋ Forks: 1460
 
 ★ Stars: 590
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 590 | 1460 | 
 | 2022-12-27 | 590 | 1461 | 
 | 2022-12-26 | 589 | 1460 | 
 | 2022-12-25 | 589 | 1460 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 584 | 1438 | 
 | 2022-11-30 | 582 | 1438 | 
 | 2022-11-29 | 579 | 1440 | 
-| 2022-11-28 | 578 | 1439 | 
 

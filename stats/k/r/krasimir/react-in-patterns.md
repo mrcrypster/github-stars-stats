@@ -1,6 +1,6 @@
 # krasimir/react-in-patterns - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 896
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 12228 | 896 | 
 | 2022-12-27 | 12228 | 896 | 
 | 2022-12-26 | 12222 | 895 | 
 | 2022-12-25 | 12220 | 894 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 12085 | 873 | 
 | 2022-11-30 | 12076 | 872 | 
 | 2022-11-29 | 12057 | 871 | 
-| 2022-11-28 | 12047 | 868 | 
 

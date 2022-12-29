@@ -1,10 +1,10 @@
 # vitaviva/compose-tetris - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 104
 
-★ Stars: 591
+★ Stars: 590
 
 [Open repository](https://github.com/vitaviva/compose-tetris)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 590 | 104 | 
 | 2022-12-27 | 591 | 104 | 
 | 2022-12-26 | 591 | 104 | 
 | 2022-12-25 | 589 | 104 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 575 | 101 | 
 | 2022-11-30 | 575 | 101 | 
 | 2022-11-29 | 575 | 101 | 
-| 2022-11-28 | 575 | 101 | 
 

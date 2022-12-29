@@ -1,10 +1,10 @@
 # data-engineering-community/data-engineering-wiki - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 28
 
-★ Stars: 408
+★ Stars: 410
 
 [Open repository](https://github.com/data-engineering-community/data-engineering-wiki)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 410 | 28 | 
 | 2022-12-27 | 408 | 28 | 
 | 2022-12-26 | 408 | 28 | 
 | 2022-12-25 | 407 | 28 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 386 | 26 | 
 | 2022-11-30 | 383 | 26 | 
 | 2022-11-29 | 381 | 25 | 
-| 2022-11-28 | 381 | 25 | 
 

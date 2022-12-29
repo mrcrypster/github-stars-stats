@@ -1,6 +1,6 @@
 # wally-rblx/funky-friday-autoplay - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 98
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 23 | 98 | 
 | 2022-12-28 | 23 | 98 | 
 | 2022-12-27 | 23 | 98 | 
 | 2022-12-25 | 23 | 97 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-01 | 21 | 96 | 
 | 2022-11-30 | 21 | 96 | 
 | 2022-11-29 | 21 | 96 | 
-| 2022-11-28 | 21 | 96 | 
 

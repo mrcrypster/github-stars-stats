@@ -1,10 +1,10 @@
 # opengateware/arcade-galaga - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 1
 
-★ Stars: 37
+★ Stars: 38
 
 [Open repository](https://github.com/opengateware/arcade-galaga)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 38 | 1 | 
 | 2022-12-27 | 37 | 1 | 
 | 2022-12-26 | 37 | 1 | 
 | 2022-12-25 | 37 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 33 | - | 
 | 2022-11-30 | 32 | - | 
 | 2022-11-29 | 32 | - | 
-| 2022-11-28 | 32 | - | 
 

@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 28
 
 ☋ Forks: 28
 
-★ Stars: 303
+★ Stars: 307
 
 [Open repository](https://github.com/Edgenesis/shifu)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-28 | 303 | 28 | 
+| 2022-12-28 | 307 | 28 | 
 | 2022-12-27 | 300 | 28 | 
 

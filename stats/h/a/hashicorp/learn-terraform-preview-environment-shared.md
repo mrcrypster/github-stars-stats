@@ -1,8 +1,8 @@
 # hashicorp/learn-terraform-preview-environment-shared - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
-☋ Forks: 28
+☋ Forks: 27
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 2 | 27 | 
 | 2022-12-28 | 2 | 28 | 
 | 2022-12-27 | 2 | 27 | 
 | 2022-12-25 | 2 | 27 | 

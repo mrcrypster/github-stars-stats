@@ -1,6 +1,6 @@
 # teslamotors/liblithium - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 255 | 14 | 
 | 2022-12-27 | 255 | 14 | 
 | 2022-12-26 | 255 | 14 | 
 | 2022-12-25 | 255 | 14 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 234 | 14 | 
 | 2022-11-30 | 234 | 14 | 
 | 2022-11-29 | 232 | 14 | 
-| 2022-11-28 | 231 | 14 | 
 

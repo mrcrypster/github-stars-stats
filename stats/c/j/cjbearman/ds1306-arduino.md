@@ -1,6 +1,6 @@
 # cjbearman/ds1306-arduino - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 4 | 2 | 
 | 2022-12-27 | 4 | 2 | 
 | 2022-12-26 | 4 | 2 | 
 | 2022-12-24 | 4 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 4 | 2 | 
 | 2022-11-30 | 4 | 2 | 
 | 2022-11-29 | 4 | 2 | 
-| 2022-11-28 | 4 | 2 | 
 

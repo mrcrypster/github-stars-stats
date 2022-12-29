@@ -1,6 +1,6 @@
 # julia-vscode/LanguageServer.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 316 | 65 | 
 | 2022-12-27 | 316 | 65 | 
 | 2022-12-26 | 316 | 65 | 
 | 2022-12-25 | 316 | 65 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 316 | 66 | 
 | 2022-11-30 | 316 | 66 | 
 | 2022-11-29 | 316 | 66 | 
-| 2022-11-28 | 316 | 66 | 
 

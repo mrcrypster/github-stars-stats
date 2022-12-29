@@ -1,6 +1,6 @@
 # alauda/kubeflow-chart - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 58 | 10 | 
 | 2022-12-27 | 58 | 10 | 
 | 2022-12-26 | 58 | 10 | 
 | 2022-12-24 | 58 | 10 | 

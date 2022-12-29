@@ -1,6 +1,6 @@
 # yudai/gotty - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 1323
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 17364 | 1323 | 
 | 2022-12-27 | 17364 | 1323 | 
 | 2022-12-26 | 17364 | 1323 | 
 | 2022-12-25 | 17362 | 1323 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-02 | 17316 | 1320 | 
 | 2022-12-01 | 17313 | 1319 | 
 | 2022-11-30 | 17311 | 1319 | 
-| 2022-11-29 | 17308 | 1319 | 
 

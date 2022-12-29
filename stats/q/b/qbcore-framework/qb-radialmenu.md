@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 28
 
 ☋ Forks: 246
 
-★ Stars: 28
+★ Stars: 27
 
 [Open repository](https://github.com/qbcore-framework/qb-radialmenu)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-28 | 28 | 246 | 
+| 2022-12-28 | 27 | 246 | 
 | 2022-12-26 | 28 | 246 | 
 | 2022-12-25 | 27 | 245 | 
 | 2022-12-24 | 27 | 246 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-01 | 25 | 242 | 
 | 2022-11-30 | 25 | 242 | 
 | 2022-11-29 | 25 | 241 | 
-| 2022-11-28 | 25 | 241 | 
 

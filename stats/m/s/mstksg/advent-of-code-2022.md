@@ -1,10 +1,10 @@
 # mstksg/advent-of-code-2022 - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 2
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/mstksg/advent-of-code-2022)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 12 | 2 | 
 | 2022-12-27 | 11 | 2 | 
 | 2022-12-26 | 11 | 2 | 
 | 2022-12-25 | 11 | 2 | 

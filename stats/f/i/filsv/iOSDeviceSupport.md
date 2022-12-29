@@ -1,10 +1,10 @@
 # filsv/iOSDeviceSupport - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 768
 
-★ Stars: 5466
+★ Stars: 5468
 
 [Open repository](https://github.com/filsv/iOSDeviceSupport)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 5468 | 768 | 
 | 2022-12-27 | 5466 | 768 | 
 | 2022-12-26 | 5466 | 768 | 
 | 2022-12-25 | 5466 | 769 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 5442 | 765 | 
 | 2022-11-30 | 5442 | 765 | 
 | 2022-11-29 | 5440 | 765 | 
-| 2022-11-28 | 5434 | 765 | 
 

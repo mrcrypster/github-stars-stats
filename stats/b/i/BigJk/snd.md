@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 28
 
-☋ Forks: 6
+☋ Forks: 7
 
-★ Stars: 265
+★ Stars: 297
 
 [Open repository](https://github.com/BigJk/snd)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-28 | 265 | 6 | 
+| 2022-12-28 | 297 | 7 | 
 | 2022-12-27 | 258 | 6 | 
 

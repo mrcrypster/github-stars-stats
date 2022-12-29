@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 28
 
 ☋ Forks: 119
 
-★ Stars: 1466
+★ Stars: 1468
 
 [Open repository](https://github.com/KasperskyLab/Kaspresso)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-28 | 1466 | 119 | 
+| 2022-12-28 | 1468 | 119 | 
 | 2022-12-27 | 1466 | 119 | 
 | 2022-12-25 | 1458 | 118 | 
 | 2022-12-24 | 1458 | 118 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-01 | 1437 | 116 | 
 | 2022-11-30 | 1437 | 116 | 
 | 2022-11-29 | 1434 | 116 | 
-| 2022-11-28 | 1432 | 116 | 
 

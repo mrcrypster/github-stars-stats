@@ -1,10 +1,10 @@
 # soya-daizu/goban - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 0
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/soya-daizu/goban)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 17 | - | 
 | 2022-12-27 | 16 | - | 
 | 2022-12-26 | 16 | - | 
 | 2022-12-25 | 16 | - | 

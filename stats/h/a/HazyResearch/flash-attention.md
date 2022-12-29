@@ -1,10 +1,10 @@
 # HazyResearch/flash-attention - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 109
+☋ Forks: 110
 
-★ Stars: 1300
+★ Stars: 1311
 
 [Open repository](https://github.com/HazyResearch/flash-attention)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 1311 | 110 | 
 | 2022-12-27 | 1300 | 109 | 
 | 2022-12-26 | 1299 | 108 | 
 | 2022-12-24 | 1298 | 107 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 1176 | 97 | 
 | 2022-11-30 | 1153 | 96 | 
 | 2022-11-29 | 1135 | 95 | 
-| 2022-11-28 | 1134 | 95 | 
 

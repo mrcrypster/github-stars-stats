@@ -1,6 +1,6 @@
 # dspinellis/latex-advice - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 98
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 852 | 98 | 
 | 2022-12-27 | 852 | 98 | 
 | 2022-12-26 | 852 | 98 | 
 | 2022-12-25 | 852 | 97 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 842 | 97 | 
 | 2022-11-30 | 842 | 97 | 
 | 2022-11-29 | 842 | 97 | 
-| 2022-11-28 | 841 | 97 | 
 

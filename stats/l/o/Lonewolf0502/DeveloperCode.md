@@ -1,10 +1,10 @@
 # Lonewolf0502/DeveloperCode - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 101
 
-★ Stars: 55
+★ Stars: 53
 
 [Open repository](https://github.com/Lonewolf0502/DeveloperCode)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 53 | 101 | 
 | 2022-12-27 | 55 | 101 | 
 | 2022-12-26 | 55 | 101 | 
 | 2022-12-25 | 55 | 101 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 56 | 104 | 
 | 2022-11-30 | 56 | 104 | 
 | 2022-11-29 | 56 | 104 | 
-| 2022-11-28 | 56 | 104 | 
 

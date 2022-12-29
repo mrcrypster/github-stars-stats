@@ -1,6 +1,6 @@
 # debezium/debezium - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 2025
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 7931 | 2025 | 
 | 2022-12-27 | 7931 | 2025 | 
 | 2022-12-26 | 7927 | 2024 | 
 | 2022-12-25 | 7923 | 2023 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 7833 | 2008 | 
 | 2022-11-30 | 7825 | 2007 | 
 | 2022-11-29 | 7817 | 2004 | 
-| 2022-11-28 | 7812 | 2004 | 
 

@@ -1,10 +1,10 @@
 # a16z/zkdocs - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 25
 
-★ Stars: 266
+★ Stars: 267
 
 [Open repository](https://github.com/a16z/zkdocs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 267 | 25 | 
 | 2022-12-27 | 266 | 25 | 
 | 2022-12-26 | 266 | 25 | 
 | 2022-12-25 | 266 | 25 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-02 | 258 | 24 | 
 | 2022-12-01 | 258 | 24 | 
 | 2022-11-30 | 258 | 24 | 
-| 2022-11-29 | 256 | 24 | 
 

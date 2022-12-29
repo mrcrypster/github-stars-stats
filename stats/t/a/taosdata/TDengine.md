@@ -1,10 +1,10 @@
 # taosdata/TDengine - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 29
 
-☋ Forks: 4577
+☋ Forks: 4578
 
-★ Stars: 20311
+★ Stars: 20325
 
 [Open repository](https://github.com/taosdata/TDengine)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 20325 | 4578 | 
+| 2022-12-28 | 20325 | 4578 | 
 | 2022-12-27 | 20311 | 4577 | 
 | 2022-12-26 | 20303 | 4575 | 
 | 2022-12-25 | 20298 | 4575 | 
@@ -40,5 +42,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 20116 | 4553 | 
 | 2022-11-30 | 20096 | 4550 | 
 | 2022-11-29 | 20084 | 4550 | 
-| 2022-11-28 | 20073 | 4548 | 
 

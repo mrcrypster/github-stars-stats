@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 28
 
 ☋ Forks: 11
 
-★ Stars: 89
+★ Stars: 93
 
 [Open repository](https://github.com/atakankizilyuce/makine-ogrenmesi-turkce)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-28 | 89 | 11 | 
+| 2022-12-28 | 93 | 11 | 
 | 2022-12-27 | 87 | 11 | 
 

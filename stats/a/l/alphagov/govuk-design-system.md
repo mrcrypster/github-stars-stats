@@ -1,6 +1,6 @@
 # alphagov/govuk-design-system - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 192
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 343 | 192 | 
 | 2022-12-27 | 343 | 192 | 
 | 2022-12-26 | 344 | 192 | 
 | 2022-12-25 | 344 | 192 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 341 | 191 | 
 | 2022-11-30 | 339 | 191 | 
 | 2022-11-29 | 339 | 191 | 
-| 2022-11-28 | 339 | 190 | 
 

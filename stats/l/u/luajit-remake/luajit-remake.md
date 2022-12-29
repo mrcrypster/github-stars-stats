@@ -1,10 +1,10 @@
 # luajit-remake/luajit-remake - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 15
 
-★ Stars: 694
+★ Stars: 695
 
 [Open repository](https://github.com/luajit-remake/luajit-remake)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 695 | 15 | 
 | 2022-12-27 | 694 | 15 | 
 | 2022-12-26 | 693 | 15 | 
 | 2022-12-25 | 694 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 631 | 12 | 
 | 2022-11-30 | 623 | 12 | 
 | 2022-11-29 | 608 | 12 | 
-| 2022-11-28 | 601 | 13 | 
 

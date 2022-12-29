@@ -1,10 +1,10 @@
 # Mathilda11/Speech-processing - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 43
 
-★ Stars: 55
+★ Stars: 56
 
 [Open repository](https://github.com/Mathilda11/Speech-processing)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 56 | 43 | 
 | 2022-12-27 | 55 | 43 | 
 | 2022-12-26 | 55 | 42 | 
 | 2022-12-25 | 55 | 42 | 

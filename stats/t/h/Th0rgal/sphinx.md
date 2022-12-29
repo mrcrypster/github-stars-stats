@@ -1,6 +1,6 @@
 # Th0rgal/sphinx - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 24 | 1 | 
 | 2022-12-27 | 24 | 1 | 
 | 2022-12-26 | 24 | 1 | 
 | 2022-12-24 | 24 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 25 | 1 | 
 | 2022-11-30 | 25 | 1 | 
 | 2022-11-29 | 25 | 1 | 
-| 2022-11-28 | 25 | 1 | 
 

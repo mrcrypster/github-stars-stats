@@ -1,6 +1,6 @@
 # milisims/nvim-luaref - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 110 | 3 | 
 | 2022-12-27 | 110 | 3 | 
 | 2022-12-26 | 110 | 3 | 
 | 2022-12-25 | 110 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 109 | 3 | 
 | 2022-11-30 | 109 | 3 | 
 | 2022-11-29 | 109 | 3 | 
-| 2022-11-28 | 109 | 3 | 
 

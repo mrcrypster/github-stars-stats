@@ -1,10 +1,10 @@
 # DevOrbiter/drag_and_drop_gridview - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 26
+☋ Forks: 27
 
-★ Stars: 62
+★ Stars: 63
 
 [Open repository](https://github.com/DevOrbiter/drag_and_drop_gridview)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 63 | 27 | 
 | 2022-12-27 | 62 | 26 | 
 | 2022-12-26 | 62 | 26 | 
 | 2022-12-25 | 62 | 26 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-02 | 62 | 26 | 
 | 2022-12-01 | 62 | 26 | 
 | 2022-11-30 | 62 | 26 | 
-| 2022-11-29 | 62 | 26 | 
 

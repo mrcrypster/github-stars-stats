@@ -1,10 +1,10 @@
 # movabletype/movabletype - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 111
 
-★ Stars: 386
+★ Stars: 387
 
 [Open repository](https://github.com/movabletype/movabletype)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 387 | 111 | 
 | 2022-12-27 | 386 | 111 | 
 | 2022-12-26 | 386 | 111 | 
 | 2022-12-25 | 386 | 111 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 385 | 110 | 
 | 2022-11-30 | 385 | 110 | 
 | 2022-11-29 | 385 | 110 | 
-| 2022-11-28 | 385 | 110 | 
 

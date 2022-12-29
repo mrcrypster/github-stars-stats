@@ -1,6 +1,6 @@
 # sdretu/Shruthi-1-Editor - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 9 | 1 | 
 | 2022-12-27 | 9 | 1 | 
 | 2022-12-26 | 9 | 1 | 
 | 2022-12-25 | 9 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 8 | 1 | 
 | 2022-11-30 | 8 | 1 | 
 | 2022-11-29 | 8 | 1 | 
-| 2022-11-28 | 8 | 1 | 
 

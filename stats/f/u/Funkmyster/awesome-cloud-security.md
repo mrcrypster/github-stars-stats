@@ -1,8 +1,8 @@
 # Funkmyster/awesome-cloud-security - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 70
+☋ Forks: 71
 
 ★ Stars: 340
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 340 | 71 | 
 | 2022-12-27 | 340 | 70 | 
 | 2022-12-26 | 340 | 70 | 
 | 2022-12-25 | 339 | 70 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 338 | 70 | 
 | 2022-11-30 | 338 | 68 | 
 | 2022-11-29 | 338 | 68 | 
-| 2022-11-28 | 338 | 68 | 
 

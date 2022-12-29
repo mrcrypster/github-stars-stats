@@ -1,6 +1,6 @@
 # matejak/argbash - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 1183 | 60 | 
 | 2022-12-27 | 1183 | 60 | 
 | 2022-12-26 | 1183 | 60 | 
 | 2022-12-25 | 1183 | 60 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 1181 | 59 | 
 | 2022-11-30 | 1180 | 59 | 
 | 2022-11-29 | 1180 | 59 | 
-| 2022-11-28 | 1179 | 59 | 
 

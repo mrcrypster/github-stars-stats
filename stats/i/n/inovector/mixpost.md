@@ -1,10 +1,10 @@
 # inovector/mixpost - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 22
 
-★ Stars: 172
+★ Stars: 173
 
 [Open repository](https://github.com/inovector/mixpost)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 173 | 22 | 
 | 2022-12-27 | 172 | 22 | 
 | 2022-12-26 | 170 | 22 | 
 | 2022-12-25 | 169 | 22 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-02 | 145 | 18 | 
 | 2022-12-01 | 144 | 17 | 
 | 2022-11-30 | 144 | 17 | 
-| 2022-11-28 | 143 | 17 | 
 

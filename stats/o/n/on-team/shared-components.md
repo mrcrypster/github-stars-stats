@@ -1,10 +1,10 @@
 # on-team/shared-components - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 0
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/on-team/shared-components)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 1 | - | 
 | 2022-12-27 | - | - | 
 | 2022-12-26 | - | - | 
 | 2022-12-25 | - | - | 

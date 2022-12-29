@@ -1,6 +1,6 @@
 # delucis/hyperdrive-speedometer - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 14 | 5 | 
 | 2022-12-27 | 14 | 5 | 
 | 2022-12-26 | 14 | 5 | 
 | 2022-12-25 | 14 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-02 | 12 | 4 | 
 | 2022-12-01 | 12 | 4 | 
 | 2022-11-30 | 12 | 4 | 
-| 2022-11-29 | 12 | 4 | 
 

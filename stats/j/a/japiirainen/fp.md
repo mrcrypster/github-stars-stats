@@ -1,10 +1,10 @@
 # japiirainen/fp - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 2
 
-★ Stars: 100
+★ Stars: 101
 
 [Open repository](https://github.com/japiirainen/fp)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 101 | 2 | 
 | 2022-12-28 | 100 | 2 | 
 | 2022-12-27 | 100 | 2 | 
 | 2022-12-25 | 99 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 98 | 2 | 
 | 2022-12-01 | 98 | 2 | 
 | 2022-11-30 | 98 | 2 | 
-| 2022-11-29 | 98 | 2 | 
 

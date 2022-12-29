@@ -1,10 +1,10 @@
 # iamtsm/tl-ops-manage - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 25
 
-★ Stars: 170
+★ Stars: 171
 
 [Open repository](https://github.com/iamtsm/tl-ops-manage)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 171 | 25 | 
 | 2022-12-27 | 170 | 25 | 
 | 2022-12-26 | 170 | 25 | 
 | 2022-12-25 | 169 | 25 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 166 | 24 | 
 | 2022-11-30 | 166 | 24 | 
 | 2022-11-29 | 166 | 24 | 
-| 2022-11-28 | 166 | 24 | 
 

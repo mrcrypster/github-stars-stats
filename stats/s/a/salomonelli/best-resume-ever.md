@@ -1,10 +1,10 @@
 # salomonelli/best-resume-ever - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 2252
+☋ Forks: 2253
 
-★ Stars: 15776
+★ Stars: 15779
 
 [Open repository](https://github.com/salomonelli/best-resume-ever)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 15779 | 2253 | 
 | 2022-12-27 | 15776 | 2252 | 
 | 2022-12-26 | 15775 | 2253 | 
 | 2022-12-25 | 15774 | 2251 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 15759 | 2254 | 
 | 2022-11-30 | 15760 | 2255 | 
 | 2022-11-29 | 15759 | 2255 | 
-| 2022-11-28 | 15760 | 2255 | 
 

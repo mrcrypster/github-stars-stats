@@ -1,6 +1,6 @@
 # NVIDIA-Merlin/HierarchicalKV - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 40 | 7 | 
 | 2022-12-27 | 40 | 7 | 
 | 2022-12-26 | 39 | 7 | 
 | 2022-12-25 | 39 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 35 | 6 | 
 | 2022-11-30 | 34 | 6 | 
 | 2022-11-29 | 33 | 6 | 
-| 2022-11-28 | 33 | 6 | 
 

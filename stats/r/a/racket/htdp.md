@@ -1,10 +1,10 @@
 # racket/htdp - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 59
+☋ Forks: 58
 
-★ Stars: 80
+★ Stars: 79
 
 [Open repository](https://github.com/racket/htdp)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 79 | 58 | 
 | 2022-12-27 | 80 | 59 | 
 | 2022-12-26 | 80 | 59 | 
 | 2022-12-25 | 80 | 59 | 

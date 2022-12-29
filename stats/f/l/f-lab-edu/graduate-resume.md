@@ -1,10 +1,10 @@
 # f-lab-edu/graduate-resume - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 46
 
-★ Stars: 612
+★ Stars: 611
 
 [Open repository](https://github.com/f-lab-edu/graduate-resume)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 611 | 46 | 
 | 2022-12-27 | 612 | 46 | 
 | 2022-12-26 | 610 | 45 | 
 | 2022-12-25 | 609 | 45 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-02 | 592 | 43 | 
 | 2022-12-01 | 592 | 43 | 
 | 2022-11-30 | 590 | 42 | 
-| 2022-11-28 | 588 | 42 | 
 

@@ -1,6 +1,6 @@
 # JustSteveKing/laravel-data-object-tools - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 49 | 4 | 
 | 2022-12-27 | 49 | 4 | 
 | 2022-12-26 | 48 | 4 | 
 | 2022-12-25 | 48 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 48 | 4 | 
 | 2022-11-30 | 48 | 4 | 
 | 2022-11-29 | 48 | 4 | 
-| 2022-11-28 | 47 | 4 | 
 

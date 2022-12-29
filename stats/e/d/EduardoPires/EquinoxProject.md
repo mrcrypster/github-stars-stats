@@ -1,6 +1,6 @@
 # EduardoPires/EquinoxProject - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 1502
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 5779 | 1502 | 
 | 2022-12-27 | 5779 | 1502 | 
 | 2022-12-26 | 5778 | 1501 | 
 | 2022-12-25 | 5776 | 1501 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 5745 | 1493 | 
 | 2022-11-30 | 5745 | 1493 | 
 | 2022-11-29 | 5745 | 1493 | 
-| 2022-11-28 | 5743 | 1494 | 
 

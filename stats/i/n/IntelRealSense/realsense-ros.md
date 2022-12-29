@@ -1,10 +1,10 @@
 # IntelRealSense/realsense-ros - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 1444
+☋ Forks: 1445
 
-★ Stars: 1826
+★ Stars: 1827
 
 [Open repository](https://github.com/IntelRealSense/realsense-ros)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 1827 | 1445 | 
 | 2022-12-27 | 1826 | 1444 | 
 | 2022-12-26 | 1827 | 1443 | 
 | 2022-12-25 | 1826 | 1443 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-02 | 1812 | 1432 | 
 | 2022-12-01 | 1812 | 1431 | 
 | 2022-11-30 | 1811 | 1431 | 
-| 2022-11-29 | 1807 | 1431 | 
 

@@ -1,10 +1,10 @@
 # TryGhost/Headline - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 34
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/TryGhost/Headline)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 19 | 34 | 
 | 2022-12-27 | 18 | 34 | 
 | 2022-12-26 | 18 | 34 | 
 | 2022-12-25 | 18 | 34 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 18 | 28 | 
 | 2022-11-30 | 18 | 28 | 
 | 2022-11-29 | 18 | 28 | 
-| 2022-11-28 | 18 | 28 | 
 

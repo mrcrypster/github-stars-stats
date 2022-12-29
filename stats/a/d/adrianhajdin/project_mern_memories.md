@@ -1,10 +1,10 @@
 # adrianhajdin/project_mern_memories - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 1592
+☋ Forks: 1594
 
-★ Stars: 4192
+★ Stars: 4197
 
 [Open repository](https://github.com/adrianhajdin/project_mern_memories)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 4197 | 1594 | 
 | 2022-12-27 | 4192 | 1592 | 
 | 2022-12-26 | 4192 | 1588 | 
 | 2022-12-25 | 4189 | 1586 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 4115 | 1559 | 
 | 2022-11-30 | 4110 | 1557 | 
 | 2022-11-29 | 4105 | 1557 | 
-| 2022-11-28 | 4103 | 1554 | 
 

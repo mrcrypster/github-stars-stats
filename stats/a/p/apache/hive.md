@@ -1,6 +1,6 @@
 # apache/hive - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 4263
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 4587 | 4263 | 
 | 2022-12-27 | 4587 | 4263 | 
 | 2022-12-26 | 4587 | 4262 | 
 | 2022-12-25 | 4587 | 4262 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 4564 | 4249 | 
 | 2022-11-30 | 4560 | 4246 | 
 | 2022-11-29 | 4554 | 4242 | 
-| 2022-11-28 | 4553 | 4240 | 
 

@@ -1,6 +1,6 @@
 # evanemran/bKash_cLone - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 58 | 41 | 
 | 2022-12-27 | 58 | 41 | 
 | 2022-12-26 | 58 | 41 | 
 | 2022-12-25 | 57 | 41 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 57 | 39 | 
 | 2022-11-30 | 57 | 39 | 
 | 2022-11-29 | 56 | 39 | 
-| 2022-11-28 | 56 | 39 | 
 

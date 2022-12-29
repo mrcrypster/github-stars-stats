@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 28
 
-☋ Forks: 3316
+☋ Forks: 3323
 
-★ Stars: 24195
+★ Stars: 24238
 
 [Open repository](https://github.com/PKUFlyingPig/cs-self-learning)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-28 | 24195 | 3316 | 
+| 2022-12-28 | 24238 | 3323 | 
 | 2022-12-27 | 24190 | 3316 | 
 | 2022-12-26 | 24115 | 3304 | 
 | 2022-12-25 | 24017 | 3285 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-01 | 17968 | 2348 | 
 | 2022-11-30 | 17513 | 2287 | 
 | 2022-11-29 | 16991 | 2215 | 
-| 2022-11-28 | 16385 | 2130 | 
 

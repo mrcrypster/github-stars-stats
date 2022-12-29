@@ -1,6 +1,6 @@
 # ros2/example_interfaces - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 20 | 16 | 
 | 2022-12-27 | 20 | 16 | 
 | 2022-12-26 | 20 | 16 | 
 | 2022-12-25 | 20 | 16 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 18 | 16 | 
 | 2022-11-30 | 18 | 16 | 
 | 2022-11-29 | 18 | 16 | 
-| 2022-11-28 | 18 | 16 | 
 

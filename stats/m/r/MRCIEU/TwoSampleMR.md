@@ -1,6 +1,6 @@
 # MRCIEU/TwoSampleMR - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 125
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 175 | 125 | 
 | 2022-12-27 | 175 | 125 | 
 | 2022-12-26 | 174 | 125 | 
 | 2022-12-25 | 174 | 125 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 173 | 124 | 
 | 2022-11-30 | 173 | 124 | 
 | 2022-11-29 | 173 | 124 | 
-| 2022-11-28 | 173 | 124 | 
 

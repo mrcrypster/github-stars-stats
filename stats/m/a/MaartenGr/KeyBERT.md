@@ -1,10 +1,10 @@
 # MaartenGr/KeyBERT - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 252
 
-★ Stars: 2046
+★ Stars: 2048
 
 [Open repository](https://github.com/MaartenGr/KeyBERT)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 2048 | 252 | 
 | 2022-12-27 | 2046 | 252 | 
 | 2022-12-26 | 2042 | 252 | 
 | 2022-12-25 | 2041 | 252 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-02 | 1991 | 246 | 
 | 2022-12-01 | 1989 | 246 | 
 | 2022-11-30 | 1988 | 246 | 
-| 2022-11-29 | 1980 | 246 | 
 

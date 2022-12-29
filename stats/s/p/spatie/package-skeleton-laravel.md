@@ -1,6 +1,6 @@
 # spatie/package-skeleton-laravel - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 457
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 1395 | 457 | 
 | 2022-12-27 | 1395 | 457 | 
 | 2022-12-26 | 1393 | 458 | 
 | 2022-12-25 | 1393 | 457 | 

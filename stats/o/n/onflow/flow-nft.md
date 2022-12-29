@@ -1,6 +1,6 @@
 # onflow/flow-nft - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 159
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 431 | 159 | 
 | 2022-12-27 | 431 | 159 | 
 | 2022-12-26 | 431 | 159 | 
 | 2022-12-25 | 431 | 159 | 

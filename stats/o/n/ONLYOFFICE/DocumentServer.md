@@ -1,6 +1,6 @@
 # ONLYOFFICE/DocumentServer - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 848
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 2989 | 848 | 
 | 2022-12-27 | 2989 | 848 | 
 | 2022-12-26 | 2988 | 848 | 
 | 2022-12-25 | 2987 | 848 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 2934 | 841 | 
 | 2022-11-30 | 2932 | 841 | 
 | 2022-11-29 | 2929 | 841 | 
-| 2022-11-28 | 2927 | 841 | 
 

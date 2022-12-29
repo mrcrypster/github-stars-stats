@@ -1,10 +1,10 @@
 # GodotNuts/GodotFirebase - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 53
 
-★ Stars: 318
+★ Stars: 319
 
 [Open repository](https://github.com/GodotNuts/GodotFirebase)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 319 | 53 | 
 | 2022-12-28 | 318 | 53 | 
 | 2022-12-26 | 318 | 53 | 
 | 2022-12-25 | 318 | 53 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-01 | 313 | 53 | 
 | 2022-11-30 | 313 | 53 | 
 | 2022-11-29 | 313 | 53 | 
-| 2022-11-28 | 312 | 53 | 
 

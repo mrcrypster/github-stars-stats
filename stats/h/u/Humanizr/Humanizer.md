@@ -1,10 +1,10 @@
 # Humanizr/Humanizer - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 882
+☋ Forks: 884
 
-★ Stars: 7310
+★ Stars: 7314
 
 [Open repository](https://github.com/Humanizr/Humanizer)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 7314 | 884 | 
 | 2022-12-27 | 7310 | 882 | 
 | 2022-12-26 | 7309 | 882 | 
 | 2022-12-25 | 7309 | 882 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 7234 | 874 | 
 | 2022-11-30 | 7230 | 874 | 
 | 2022-11-29 | 7228 | 873 | 
-| 2022-11-28 | 7226 | 873 | 
 

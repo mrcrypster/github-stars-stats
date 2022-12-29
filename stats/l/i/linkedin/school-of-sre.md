@@ -1,10 +1,10 @@
 # linkedin/school-of-sre - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 569
 
-★ Stars: 5891
+★ Stars: 5893
 
 [Open repository](https://github.com/linkedin/school-of-sre)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 5893 | 569 | 
 | 2022-12-27 | 5891 | 569 | 
 | 2022-12-26 | 5888 | 569 | 
 | 2022-12-25 | 5885 | 569 | 

@@ -1,6 +1,6 @@
 # microsoft/Windows-appsample-customers-orders-database - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 204
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 465 | 204 | 
 | 2022-12-27 | 465 | 204 | 
 | 2022-12-26 | 465 | 204 | 
 | 2022-12-25 | 465 | 204 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-02 | 463 | 203 | 
 | 2022-12-01 | 462 | 203 | 
 | 2022-11-30 | 462 | 203 | 
-| 2022-11-28 | 462 | 203 | 
 

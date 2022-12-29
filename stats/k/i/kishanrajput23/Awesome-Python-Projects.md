@@ -1,10 +1,10 @@
 # kishanrajput23/Awesome-Python-Projects - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 172
 
-★ Stars: 92
+★ Stars: 93
 
 [Open repository](https://github.com/kishanrajput23/Awesome-Python-Projects)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 93 | 172 | 
 | 2022-12-27 | 92 | 172 | 
 | 2022-12-26 | 92 | 171 | 
 | 2022-12-25 | 92 | 171 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 90 | 177 | 
 | 2022-11-30 | 90 | 177 | 
 | 2022-11-29 | 90 | 177 | 
-| 2022-11-28 | 90 | 177 | 
 

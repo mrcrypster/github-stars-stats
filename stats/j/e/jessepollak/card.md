@@ -1,6 +1,6 @@
 # jessepollak/card - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 1475
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 11488 | 1475 | 
 | 2022-12-27 | 11488 | 1475 | 
 | 2022-12-26 | 11488 | 1475 | 
 | 2022-12-25 | 11487 | 1475 | 

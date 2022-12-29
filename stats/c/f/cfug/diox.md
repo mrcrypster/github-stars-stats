@@ -1,10 +1,10 @@
 # cfug/diox - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 5
 
-★ Stars: 40
+★ Stars: 42
 
 [Open repository](https://github.com/cfug/diox)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 42 | 5 | 
 | 2022-12-27 | 40 | 5 | 
 | 2022-12-26 | 40 | 5 | 
 | 2022-12-25 | 40 | 5 | 

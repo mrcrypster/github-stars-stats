@@ -1,6 +1,6 @@
 # qbcore-framework/qb-taxijob - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 154
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 13 | 154 | 
 | 2022-12-27 | 13 | 154 | 
 | 2022-12-26 | 13 | 154 | 
 | 2022-12-25 | 13 | 154 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 13 | 149 | 
 | 2022-11-30 | 13 | 149 | 
 | 2022-11-29 | 13 | 149 | 
-| 2022-11-28 | 13 | 149 | 
 

@@ -1,6 +1,6 @@
 # bzyzhang/RoadOfShader - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 55 | 12 | 
 | 2022-12-27 | 55 | 12 | 
 | 2022-12-26 | 55 | 12 | 
 | 2022-12-25 | 55 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-02 | 54 | 12 | 
 | 2022-12-01 | 54 | 12 | 
 | 2022-11-30 | 54 | 12 | 
-| 2022-11-29 | 54 | 12 | 
 

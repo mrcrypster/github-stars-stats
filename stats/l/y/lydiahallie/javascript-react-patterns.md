@@ -1,6 +1,6 @@
 # lydiahallie/javascript-react-patterns - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 79
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 482 | 79 | 
 | 2022-12-27 | 482 | 79 | 
 | 2022-12-26 | 482 | 79 | 
 | 2022-12-25 | 482 | 79 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 442 | 70 | 
 | 2022-11-30 | 442 | 70 | 
 | 2022-11-29 | 438 | 70 | 
-| 2022-11-28 | 434 | 68 | 
 

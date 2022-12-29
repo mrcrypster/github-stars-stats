@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 28
 
 ☋ Forks: 813
 
-★ Stars: 5744
+★ Stars: 5746
 
 [Open repository](https://github.com/iSoron/uhabits)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-28 | 5744 | 813 | 
+| 2022-12-28 | 5746 | 813 | 
 | 2022-12-27 | 5744 | 813 | 
 | 2022-12-26 | 5738 | 815 | 
 | 2022-12-25 | 5738 | 815 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-01 | 5662 | 809 | 
 | 2022-11-30 | 5660 | 808 | 
 | 2022-11-29 | 5659 | 808 | 
-| 2022-11-28 | 5655 | 808 | 
 

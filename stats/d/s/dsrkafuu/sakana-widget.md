@@ -1,10 +1,10 @@
 # dsrkafuu/sakana-widget - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 29
 
-★ Stars: 442
+★ Stars: 443
 
 [Open repository](https://github.com/dsrkafuu/sakana-widget)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 443 | 29 | 
 | 2022-12-27 | 442 | 29 | 
 | 2022-12-26 | 442 | 29 | 
 | 2022-12-25 | 442 | 29 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 418 | 26 | 
 | 2022-11-30 | 417 | 26 | 
 | 2022-11-29 | 416 | 26 | 
-| 2022-11-28 | 416 | 26 | 
 

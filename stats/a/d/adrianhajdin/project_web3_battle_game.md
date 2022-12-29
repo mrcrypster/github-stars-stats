@@ -1,6 +1,6 @@
 # adrianhajdin/project_web3_battle_game - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 202 | 52 | 
 | 2022-12-28 | 202 | 52 | 
 | 2022-12-27 | 201 | 50 | 
 | 2022-12-25 | 200 | 50 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-01 | 174 | 41 | 
 | 2022-11-30 | 174 | 41 | 
 | 2022-11-29 | 171 | 41 | 
-| 2022-11-28 | 171 | 41 | 
 

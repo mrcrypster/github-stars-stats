@@ -1,10 +1,10 @@
 # wormtql/genshin_artifact - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 79
+☋ Forks: 80
 
-★ Stars: 744
+★ Stars: 746
 
 [Open repository](https://github.com/wormtql/genshin_artifact)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 746 | 80 | 
 | 2022-12-27 | 744 | 79 | 
 | 2022-12-26 | 743 | 79 | 
 | 2022-12-25 | 742 | 79 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 721 | 77 | 
 | 2022-11-30 | 718 | 76 | 
 | 2022-11-29 | 712 | 76 | 
-| 2022-11-28 | 709 | 76 | 
 

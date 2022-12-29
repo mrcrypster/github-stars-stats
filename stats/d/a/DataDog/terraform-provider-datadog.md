@@ -1,6 +1,6 @@
 # DataDog/terraform-provider-datadog - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 311
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 310 | 311 | 
 | 2022-12-27 | 310 | 311 | 
 | 2022-12-26 | 310 | 311 | 
 | 2022-12-25 | 310 | 311 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-02 | 304 | 303 | 
 | 2022-12-01 | 304 | 302 | 
 | 2022-11-30 | 304 | 302 | 
-| 2022-11-29 | 303 | 302 | 
 

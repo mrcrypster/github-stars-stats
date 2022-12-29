@@ -1,8 +1,8 @@
 # AbdurRKhalid/Design-Patterns - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
-☋ Forks: 19
+☋ Forks: 20
 
 ★ Stars: 446
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 446 | 20 | 
 | 2022-12-27 | 446 | 19 | 
 | 2022-12-26 | 446 | 19 | 
 | 2022-12-25 | 446 | 19 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 437 | 19 | 
 | 2022-11-30 | 437 | 19 | 
 | 2022-11-29 | 437 | 19 | 
-| 2022-11-28 | 437 | 19 | 
 

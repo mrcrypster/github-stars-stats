@@ -1,10 +1,10 @@
 # sei-protocol/sei-chain - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 251
 
-★ Stars: 164
+★ Stars: 165
 
 [Open repository](https://github.com/sei-protocol/sei-chain)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 165 | 251 | 
 | 2022-12-27 | 164 | 251 | 
 | 2022-12-26 | 163 | 250 | 
 | 2022-12-25 | 161 | 249 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 145 | 242 | 
 | 2022-11-30 | 145 | 242 | 
 | 2022-11-29 | 142 | 242 | 
-| 2022-11-28 | 141 | 242 | 
 

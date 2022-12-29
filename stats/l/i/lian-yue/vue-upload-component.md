@@ -1,6 +1,6 @@
 # lian-yue/vue-upload-component - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 693
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 2561 | 693 | 
 | 2022-12-27 | 2561 | 693 | 
 | 2022-12-26 | 2561 | 694 | 
 | 2022-12-25 | 2560 | 694 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 2553 | 693 | 
 | 2022-11-30 | 2553 | 693 | 
 | 2022-11-29 | 2553 | 693 | 
-| 2022-11-28 | 2553 | 693 | 
 

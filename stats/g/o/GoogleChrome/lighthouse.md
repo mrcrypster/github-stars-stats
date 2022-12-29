@@ -1,10 +1,10 @@
 # GoogleChrome/lighthouse - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 9095
 
-★ Stars: 25780
+★ Stars: 25785
 
 [Open repository](https://github.com/GoogleChrome/lighthouse)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 25785 | 9095 | 
 | 2022-12-27 | 25780 | 9095 | 
 | 2022-12-26 | 25781 | 9093 | 
 | 2022-12-25 | 25777 | 9092 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 25648 | 9057 | 
 | 2022-11-30 | 25641 | 9052 | 
 | 2022-11-29 | 25635 | 9050 | 
-| 2022-11-28 | 25626 | 9044 | 
 

@@ -1,6 +1,6 @@
 # franklynwang/EcneProject - stars & forks statistics
 
-Stats updated on Dec 2022, 27
+Stats updated on Dec 2022, 28
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-28 | 54 | 4 | 
 | 2022-12-27 | 54 | 4 | 
 | 2022-12-26 | 52 | 4 | 
 | 2022-12-25 | 52 | 4 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 27
 | 2022-12-01 | 49 | 4 | 
 | 2022-11-30 | 49 | 4 | 
 | 2022-11-29 | 49 | 4 | 
-| 2022-11-28 | 49 | 4 | 
 
