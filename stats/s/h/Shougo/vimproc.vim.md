@@ -1,10 +1,10 @@
 # Shougo/vimproc.vim - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 132
 
-★ Stars: 1075
+★ Stars: 1076
 
 [Open repository](https://github.com/Shougo/vimproc.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 1076 | 132 | 
 | 2022-12-28 | 1075 | 132 | 
 | 2022-12-27 | 1075 | 132 | 
 | 2022-12-26 | 1075 | 132 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 1074 | 132 | 
 | 2022-12-01 | 1074 | 132 | 
 | 2022-11-30 | 1074 | 132 | 
-| 2022-11-29 | 1074 | 132 | 
 

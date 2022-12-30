@@ -1,10 +1,10 @@
 # udacity/self-driving-car - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
-☋ Forks: 2050
+☋ Forks: 2051
 
-★ Stars: 5997
+★ Stars: 5998
 
 [Open repository](https://github.com/udacity/self-driving-car)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 5998 | 2051 | 
 | 2022-12-28 | 5997 | 2050 | 
 | 2022-12-27 | 5995 | 2049 | 
 | 2022-12-26 | 5995 | 2049 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-03 | 5980 | 2045 | 
 | 2022-12-02 | 5977 | 2044 | 
 | 2022-12-01 | 5976 | 2044 | 
-| 2022-11-30 | 5976 | 2044 | 
 

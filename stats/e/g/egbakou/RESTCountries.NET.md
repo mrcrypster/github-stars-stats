@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 29
 
 ☋ Forks: 13
 
-★ Stars: 210
+★ Stars: 211
 
 [Open repository](https://github.com/egbakou/RESTCountries.NET)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-29 | 210 | 13 | 
+| 2022-12-29 | 211 | 13 | 
 | 2022-12-28 | 210 | 13 | 
 

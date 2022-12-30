@@ -1,10 +1,10 @@
 # wangyu-/udp2raw - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 1059
 
-★ Stars: 5663
+★ Stars: 5667
 
 [Open repository](https://github.com/wangyu-/udp2raw)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 5667 | 1059 | 
 | 2022-12-28 | 5663 | 1059 | 
 | 2022-12-27 | 5662 | 1059 | 
 | 2022-12-25 | 5662 | 1059 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-03 | 5611 | 1054 | 
 | 2022-12-01 | 5608 | 1054 | 
 | 2022-11-30 | 5606 | 1054 | 
-| 2022-11-29 | 5604 | 1054 | 
 

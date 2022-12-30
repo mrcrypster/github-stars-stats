@@ -1,10 +1,10 @@
 # microsoft/ai-edu - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 30
 
-☋ Forks: 2673
+☋ Forks: 2674
 
-★ Stars: 11409
+★ Stars: 11411
 
 [Open repository](https://github.com/microsoft/ai-edu)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 11411 | 2674 | 
 | 2022-12-28 | 11409 | 2673 | 
 | 2022-12-27 | 11408 | 2672 | 
 | 2022-12-26 | 11405 | 2670 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 11333 | 2667 | 
 | 2022-12-01 | 11331 | 2668 | 
 | 2022-11-30 | 11326 | 2667 | 
-| 2022-11-29 | 11324 | 2667 | 
 

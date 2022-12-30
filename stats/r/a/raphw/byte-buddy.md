@@ -1,10 +1,10 @@
 # raphw/byte-buddy - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
-☋ Forks: 668
+☋ Forks: 669
 
-★ Stars: 5335
+★ Stars: 5338
 
 [Open repository](https://github.com/raphw/byte-buddy)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 5338 | 669 | 
 | 2022-12-28 | 5335 | 668 | 
 | 2022-12-27 | 5336 | 668 | 
 | 2022-12-26 | 5333 | 668 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 5294 | 665 | 
 | 2022-12-01 | 5293 | 664 | 
 | 2022-11-30 | 5292 | 664 | 
-| 2022-11-29 | 5291 | 664 | 
 

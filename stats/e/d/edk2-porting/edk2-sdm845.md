@@ -1,10 +1,10 @@
 # edk2-porting/edk2-sdm845 - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
-☋ Forks: 315
+☋ Forks: 316
 
-★ Stars: 1891
+★ Stars: 1893
 
 [Open repository](https://github.com/edk2-porting/edk2-sdm845)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 1893 | 316 | 
 | 2022-12-28 | 1891 | 315 | 
 | 2022-12-27 | 1890 | 316 | 
 | 2022-12-26 | 1889 | 316 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 1860 | 310 | 
 | 2022-12-01 | 1859 | 310 | 
 | 2022-11-30 | 1858 | 310 | 
-| 2022-11-29 | 1856 | 311 | 
 

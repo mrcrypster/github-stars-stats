@@ -1,10 +1,10 @@
 # cocodataset/cocoapi - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
-☋ Forks: 3612
+☋ Forks: 3614
 
-★ Stars: 5372
+★ Stars: 5373
 
 [Open repository](https://github.com/cocodataset/cocoapi)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 5373 | 3614 | 
 | 2022-12-28 | 5372 | 3612 | 
 | 2022-12-27 | 5371 | 3610 | 
 | 2022-12-26 | 5369 | 3610 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 5333 | 3596 | 
 | 2022-12-01 | 5333 | 3595 | 
 | 2022-11-30 | 5330 | 3594 | 
-| 2022-11-29 | 5324 | 3590 | 
 

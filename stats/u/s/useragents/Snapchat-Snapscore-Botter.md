@@ -1,6 +1,6 @@
 # useragents/Snapchat-Snapscore-Botter - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 472 | 37 | 
 | 2022-12-28 | 472 | 37 | 
 | 2022-12-27 | 472 | 37 | 
 | 2022-12-26 | 471 | 37 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-03 | 458 | 33 | 
 | 2022-12-01 | 459 | 33 | 
 | 2022-11-30 | 458 | 32 | 
-| 2022-11-29 | 457 | 32 | 
 

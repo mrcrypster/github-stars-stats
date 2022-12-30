@@ -1,8 +1,8 @@
 # apache/iotdb - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
-☋ Forks: 781
+☋ Forks: 782
 
 ★ Stars: 2965
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 2965 | 782 | 
 | 2022-12-28 | 2965 | 781 | 
 | 2022-12-27 | 2963 | 778 | 
 | 2022-12-26 | 2961 | 778 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 2790 | 752 | 
 | 2022-12-01 | 2787 | 750 | 
 | 2022-11-30 | 2782 | 750 | 
-| 2022-11-29 | 2780 | 750 | 
 

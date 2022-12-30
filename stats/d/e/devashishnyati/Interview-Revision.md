@@ -1,10 +1,10 @@
 # devashishnyati/Interview-Revision - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 99
 
-★ Stars: 188
+★ Stars: 189
 
 [Open repository](https://github.com/devashishnyati/Interview-Revision)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 189 | 99 | 
 | 2022-12-28 | 188 | 99 | 
 | 2022-12-27 | 188 | 99 | 
 | 2022-12-26 | 188 | 99 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-03 | 188 | 98 | 
 | 2022-12-01 | 188 | 98 | 
 | 2022-11-30 | 188 | 98 | 
-| 2022-11-29 | 188 | 98 | 
 

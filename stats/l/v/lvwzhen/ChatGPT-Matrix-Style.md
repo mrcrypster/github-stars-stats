@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 29
 
 ☋ Forks: 6
 
-★ Stars: 49
+★ Stars: 51
 
 [Open repository](https://github.com/lvwzhen/ChatGPT-Matrix-Style)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-29 | 49 | 6 | 
+| 2022-12-29 | 51 | 6 | 
 | 2022-12-28 | 49 | 6 | 
 

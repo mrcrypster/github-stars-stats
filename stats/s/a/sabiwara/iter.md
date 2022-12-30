@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 29
 
-☋ Forks: 1
+☋ Forks: 2
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/sabiwara/iter)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-29 | 16 | 1 | 
+| 2022-12-29 | 17 | 2 | 
 | 2022-12-28 | 16 | 1 | 
 

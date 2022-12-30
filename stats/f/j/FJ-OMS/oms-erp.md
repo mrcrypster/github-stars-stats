@@ -1,10 +1,10 @@
 # FJ-OMS/oms-erp - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
-☋ Forks: 157
+☋ Forks: 158
 
-★ Stars: 682
+★ Stars: 685
 
 [Open repository](https://github.com/FJ-OMS/oms-erp)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 685 | 158 | 
 | 2022-12-28 | 682 | 157 | 
 | 2022-12-27 | 682 | 156 | 
 | 2022-12-26 | 683 | 156 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 607 | 148 | 
 | 2022-12-01 | 600 | 146 | 
 | 2022-11-30 | 594 | 145 | 
-| 2022-11-29 | 577 | 141 | 
 

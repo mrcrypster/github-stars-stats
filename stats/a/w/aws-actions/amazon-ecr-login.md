@@ -1,10 +1,10 @@
 # aws-actions/amazon-ecr-login - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
-☋ Forks: 136
+☋ Forks: 137
 
-★ Stars: 644
+★ Stars: 645
 
 [Open repository](https://github.com/aws-actions/amazon-ecr-login)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 645 | 137 | 
 | 2022-12-28 | 644 | 136 | 
 | 2022-12-27 | 644 | 136 | 
 | 2022-12-26 | 643 | 136 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 631 | 131 | 
 | 2022-12-01 | 630 | 131 | 
 | 2022-11-30 | 629 | 131 | 
-| 2022-11-29 | 629 | 131 | 
 

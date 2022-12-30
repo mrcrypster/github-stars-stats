@@ -1,6 +1,6 @@
 # jtr13/cc22mw - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 67
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | - | 67 | 
 | 2022-12-28 | - | 67 | 
 | 2022-12-27 | - | 67 | 
 | 2022-12-26 | - | 67 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | - | 65 | 
 | 2022-12-01 | - | 65 | 
 | 2022-11-30 | - | 65 | 
-| 2022-11-29 | - | 65 | 
 

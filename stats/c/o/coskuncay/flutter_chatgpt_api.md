@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 29
 
-☋ Forks: 20
+☋ Forks: 24
 
-★ Stars: 88
+★ Stars: 92
 
 [Open repository](https://github.com/coskuncay/flutter_chatgpt_api)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-29 | 88 | 20 | 
+| 2022-12-29 | 92 | 24 | 
 | 2022-12-28 | 88 | 20 | 
 | 2022-12-27 | 79 | 17 | 
 | 2022-12-26 | 77 | 16 | 

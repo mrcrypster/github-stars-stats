@@ -1,6 +1,6 @@
 # input-output-hk/quickcheck-dynamic - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 14 | 5 | 
 | 2022-12-28 | 14 | 5 | 
 | 2022-12-27 | 14 | 5 | 
 | 2022-12-26 | 14 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 12 | 5 | 
 | 2022-12-01 | 11 | 5 | 
 | 2022-11-30 | 11 | 5 | 
-| 2022-11-29 | 11 | 5 | 
 

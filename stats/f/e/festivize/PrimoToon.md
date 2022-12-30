@@ -1,10 +1,10 @@
 # festivize/PrimoToon - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 30
 
-☋ Forks: 23
+☋ Forks: 26
 
-★ Stars: 185
+★ Stars: 217
 
 [Open repository](https://github.com/festivize/PrimoToon)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 217 | 26 | 
+| 2022-12-29 | 214 | 25 | 
 | 2022-12-28 | 185 | 23 | 
 | 2022-12-27 | 185 | 23 | 
 | 2022-12-26 | 184 | 23 | 
@@ -40,5 +42,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 158 | 19 | 
 | 2022-12-01 | 158 | 19 | 
 | 2022-11-30 | 158 | 19 | 
-| 2022-11-29 | 154 | 19 | 
 

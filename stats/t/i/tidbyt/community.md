@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 29
 
-☋ Forks: 209
+☋ Forks: 210
 
-★ Stars: 158
+★ Stars: 159
 
 [Open repository](https://github.com/tidbyt/community)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-29 | 158 | 209 | 
+| 2022-12-29 | 159 | 210 | 
 | 2022-12-28 | 157 | 207 | 
 | 2022-12-27 | 157 | 207 | 
 | 2022-12-26 | 157 | 205 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-02 | 150 | 191 | 
 | 2022-12-01 | 150 | 190 | 
 | 2022-11-30 | 150 | 189 | 
-| 2022-11-29 | 149 | 188 | 
 

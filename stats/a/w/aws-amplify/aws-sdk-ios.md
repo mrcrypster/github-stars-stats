@@ -1,10 +1,10 @@
 # aws-amplify/aws-sdk-ios - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 881
 
-★ Stars: 1586
+★ Stars: 1585
 
 [Open repository](https://github.com/aws-amplify/aws-sdk-ios)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 1585 | 881 | 
 | 2022-12-28 | 1586 | 881 | 
 | 2022-12-27 | 1586 | 881 | 
 | 2022-12-26 | 1587 | 881 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 1585 | 879 | 
 | 2022-12-01 | 1585 | 879 | 
 | 2022-11-30 | 1585 | 879 | 
-| 2022-11-29 | 1585 | 879 | 
 

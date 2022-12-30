@@ -1,10 +1,10 @@
 # alexeymezenin/laravel-best-practices - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 1995
 
-★ Stars: 8954
+★ Stars: 8957
 
 [Open repository](https://github.com/alexeymezenin/laravel-best-practices)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 8957 | 1995 | 
 | 2022-12-29 | 8954 | 1995 | 
 | 2022-12-27 | 8950 | 1991 | 
 | 2022-12-26 | 8943 | 1989 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-02 | 8861 | 1973 | 
 | 2022-12-01 | 8859 | 1974 | 
 | 2022-11-30 | 8848 | 1973 | 
-| 2022-11-29 | 8847 | 1971 | 
 

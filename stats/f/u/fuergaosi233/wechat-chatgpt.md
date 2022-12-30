@@ -1,10 +1,10 @@
 # fuergaosi233/wechat-chatgpt - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
-☋ Forks: 1067
+☋ Forks: 1075
 
-★ Stars: 4857
+★ Stars: 4891
 
 [Open repository](https://github.com/fuergaosi233/wechat-chatgpt)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 4891 | 1075 | 
 | 2022-12-28 | 4857 | 1067 | 
 | 2022-12-27 | 4836 | 1059 | 
 | 2022-12-26 | 4782 | 1044 | 

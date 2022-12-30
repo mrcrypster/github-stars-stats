@@ -1,10 +1,10 @@
 # trigaten/Learn_Prompting - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
-☋ Forks: 15
+☋ Forks: 17
 
-★ Stars: 121
+★ Stars: 136
 
 [Open repository](https://github.com/trigaten/Learn_Prompting)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 136 | 17 | 
 | 2022-12-28 | 121 | 15 | 
 | 2022-12-27 | 119 | 15 | 
 | 2022-12-26 | 112 | 15 | 

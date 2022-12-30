@@ -1,10 +1,10 @@
 # yzy1996/English-Writing - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 69
 
-★ Stars: 839
+★ Stars: 840
 
 [Open repository](https://github.com/yzy1996/English-Writing)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 840 | 69 | 
 | 2022-12-28 | 839 | 69 | 
 | 2022-12-27 | 839 | 69 | 
 | 2022-12-26 | 839 | 69 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 824 | 66 | 
 | 2022-12-01 | 822 | 66 | 
 | 2022-11-30 | 822 | 66 | 
-| 2022-11-29 | 821 | 67 | 
 

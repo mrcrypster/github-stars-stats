@@ -1,6 +1,6 @@
 # amitshekhariitbhu/android-developer-roadmap - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 465
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 2408 | 465 | 
 | 2022-12-28 | 2408 | 465 | 
 | 2022-12-27 | 2408 | 465 | 
 | 2022-12-26 | 2407 | 465 | 

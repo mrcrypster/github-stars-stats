@@ -1,6 +1,6 @@
 # HazyResearch/manifest - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 192 | 14 | 
 | 2022-12-28 | 192 | 14 | 
 | 2022-12-27 | 191 | 13 | 
 | 2022-12-26 | 189 | 13 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 178 | 11 | 
 | 2022-12-01 | 177 | 11 | 
 | 2022-11-30 | 176 | 11 | 
-| 2022-11-29 | 176 | 11 | 
 

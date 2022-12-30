@@ -1,6 +1,6 @@
 # denrat/term-cursor.el - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 1
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 21 | 1 | 
+| 2022-12-29 | 21 | 1 | 
 | 2022-12-28 | 21 | 1 | 
 | 2022-12-27 | 21 | 1 | 
 | 2022-12-26 | 21 | 1 | 
@@ -39,5 +41,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 21 | 1 | 
 | 2022-12-01 | 21 | 1 | 
 | 2022-11-30 | 21 | 1 | 
-| 2022-11-29 | 21 | 1 | 
 

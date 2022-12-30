@@ -1,6 +1,6 @@
 # kenken64/NUSISS-DevOpsEng - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 344
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 56 | 344 | 
 | 2022-12-28 | 56 | 344 | 
 | 2022-12-27 | 56 | 344 | 
 | 2022-12-26 | 56 | 344 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 56 | 345 | 
 | 2022-12-01 | 56 | 345 | 
 | 2022-11-30 | 56 | 345 | 
-| 2022-11-29 | 55 | 345 | 
 

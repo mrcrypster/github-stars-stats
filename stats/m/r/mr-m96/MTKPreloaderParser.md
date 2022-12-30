@@ -1,6 +1,6 @@
 # mr-m96/MTKPreloaderParser - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 26 | 5 | 
 | 2022-12-28 | 26 | 5 | 
 | 2022-12-27 | 26 | 4 | 
 | 2022-12-26 | 26 | 4 | 

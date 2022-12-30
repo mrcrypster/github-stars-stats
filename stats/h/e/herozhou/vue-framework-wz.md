@@ -1,8 +1,8 @@
 # herozhou/vue-framework-wz - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
-☋ Forks: 1331
+☋ Forks: 1332
 
 ★ Stars: 4105
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 4105 | 1332 | 
 | 2022-12-28 | 4105 | 1331 | 
 | 2022-12-27 | 4104 | 1331 | 
 | 2022-12-26 | 4101 | 1331 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 4062 | 1326 | 
 | 2022-12-01 | 4058 | 1326 | 
 | 2022-11-30 | 4053 | 1326 | 
-| 2022-11-29 | 4050 | 1325 | 
 

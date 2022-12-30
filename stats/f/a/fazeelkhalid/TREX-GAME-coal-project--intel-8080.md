@@ -1,6 +1,6 @@
 # fazeelkhalid/TREX-GAME-coal-project--intel-8080 - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 2 | 5 | 
 | 2022-12-28 | 2 | 5 | 
 | 2022-12-27 | 2 | 5 | 
 | 2022-12-26 | 2 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-03 | 2 | 5 | 
 | 2022-12-01 | 2 | 5 | 
 | 2022-11-30 | 2 | 5 | 
-| 2022-11-29 | 2 | 5 | 
 

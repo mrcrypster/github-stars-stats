@@ -1,6 +1,6 @@
 # dr-spaceman/apcsp-final-project - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 40 | 53 | 
 | 2022-12-28 | 40 | 53 | 
 | 2022-12-27 | 40 | 53 | 
 | 2022-12-26 | 39 | 53 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-03 | 39 | 53 | 
 | 2022-12-01 | 39 | 53 | 
 | 2022-11-30 | 39 | 53 | 
-| 2022-11-29 | 39 | 53 | 
 

@@ -1,10 +1,10 @@
 # icsharpcode/ILSpy - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 3028
 
-★ Stars: 16673
+★ Stars: 16678
 
 [Open repository](https://github.com/icsharpcode/ILSpy)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 16678 | 3028 | 
 | 2022-12-29 | 16673 | 3028 | 
 | 2022-12-27 | 16664 | 3028 | 
 | 2022-12-26 | 16657 | 3026 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-02 | 16460 | 3008 | 
 | 2022-12-01 | 16446 | 3007 | 
 | 2022-11-30 | 16438 | 3007 | 
-| 2022-11-29 | 16432 | 3004 | 
 

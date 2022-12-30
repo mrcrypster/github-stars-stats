@@ -1,6 +1,6 @@
 # Ribbit-Network/ribbit-network-frog-sensor - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 70 | 26 | 
 | 2022-12-28 | 70 | 26 | 
 | 2022-12-27 | 70 | 26 | 
 | 2022-12-26 | 70 | 26 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 69 | 24 | 
 | 2022-12-01 | 69 | 24 | 
 | 2022-11-30 | 69 | 24 | 
-| 2022-11-29 | 69 | 24 | 
 

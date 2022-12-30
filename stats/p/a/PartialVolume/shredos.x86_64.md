@@ -1,6 +1,6 @@
 # PartialVolume/shredos.x86_64 - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 538 | 25 | 
 | 2022-12-28 | 538 | 25 | 
 | 2022-12-27 | 538 | 25 | 
 | 2022-12-26 | 537 | 25 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 523 | 25 | 
 | 2022-12-01 | 523 | 25 | 
 | 2022-11-30 | 523 | 25 | 
-| 2022-11-29 | 523 | 25 | 
 

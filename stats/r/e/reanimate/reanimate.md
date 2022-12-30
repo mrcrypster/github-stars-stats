@@ -1,10 +1,10 @@
 # reanimate/reanimate - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 55
 
-★ Stars: 1013
+★ Stars: 1015
 
 [Open repository](https://github.com/reanimate/reanimate)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 1015 | 55 | 
 | 2022-12-28 | 1013 | 55 | 
 | 2022-12-27 | 1012 | 55 | 
 | 2022-12-26 | 1011 | 55 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 937 | 53 | 
 | 2022-12-01 | 937 | 53 | 
 | 2022-11-30 | 937 | 53 | 
-| 2022-11-29 | 937 | 53 | 
 

@@ -1,10 +1,10 @@
 # baidu/lac - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 552
 
-★ Stars: 3328
+★ Stars: 3329
 
 [Open repository](https://github.com/baidu/lac)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 3329 | 552 | 
 | 2022-12-28 | 3328 | 552 | 
 | 2022-12-27 | 3328 | 552 | 
 | 2022-12-26 | 3325 | 552 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 3312 | 549 | 
 | 2022-12-01 | 3313 | 549 | 
 | 2022-11-30 | 3310 | 549 | 
-| 2022-11-29 | 3308 | 549 | 
 

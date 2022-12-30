@@ -1,6 +1,6 @@
 # httpswift/swifter - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 499
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 3632 | 499 | 
 | 2022-12-28 | 3632 | 499 | 
 | 2022-12-27 | 3632 | 499 | 
 | 2022-12-26 | 3632 | 499 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 3622 | 501 | 
 | 2022-12-01 | 3621 | 501 | 
 | 2022-11-30 | 3621 | 501 | 
-| 2022-11-29 | 3620 | 501 | 
 

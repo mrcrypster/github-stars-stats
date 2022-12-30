@@ -1,6 +1,6 @@
 # bitcoin-s/bitcoin-s - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 85
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 313 | 85 | 
 | 2022-12-28 | 313 | 85 | 
 | 2022-12-27 | 313 | 85 | 
 | 2022-12-26 | 313 | 85 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 311 | 85 | 
 | 2022-12-01 | 311 | 85 | 
 | 2022-11-30 | 311 | 85 | 
-| 2022-11-29 | 311 | 85 | 
 

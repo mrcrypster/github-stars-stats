@@ -1,10 +1,10 @@
 # zyantific/zydis - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
-☋ Forks: 364
+☋ Forks: 365
 
-★ Stars: 2614
+★ Stars: 2615
 
 [Open repository](https://github.com/zyantific/zydis)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 2615 | 365 | 
 | 2022-12-28 | 2614 | 364 | 
 | 2022-12-27 | 2614 | 362 | 
 | 2022-12-26 | 2614 | 362 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-03 | 2581 | 359 | 
 | 2022-12-01 | 2580 | 359 | 
 | 2022-11-30 | 2580 | 359 | 
-| 2022-11-29 | 2581 | 359 | 
 

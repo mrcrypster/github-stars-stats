@@ -1,10 +1,10 @@
 # pujiaxin33/JXPagingView - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 497
 
-★ Stars: 2615
+★ Stars: 2617
 
 [Open repository](https://github.com/pujiaxin33/JXPagingView)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 2617 | 497 | 
 | 2022-12-28 | 2615 | 497 | 
 | 2022-12-27 | 2615 | 497 | 
 | 2022-12-26 | 2614 | 497 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 2612 | 495 | 
 | 2022-12-01 | 2612 | 495 | 
 | 2022-11-30 | 2612 | 495 | 
-| 2022-11-29 | 2612 | 495 | 
 

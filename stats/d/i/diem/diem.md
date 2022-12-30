@@ -1,10 +1,10 @@
 # diem/diem - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 2590
 
-★ Stars: 16697
+★ Stars: 16698
 
 [Open repository](https://github.com/diem/diem)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 16698 | 2590 | 
 | 2022-12-28 | 16697 | 2590 | 
 | 2022-12-27 | 16696 | 2590 | 
 | 2022-12-26 | 16695 | 2589 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-03 | 16677 | 2585 | 
 | 2022-12-02 | 16676 | 2585 | 
 | 2022-12-01 | 16675 | 2585 | 
-| 2022-11-29 | 16676 | 2586 | 
 

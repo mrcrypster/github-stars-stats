@@ -1,6 +1,6 @@
 # django-cms/django-cms - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 2866
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 9059 | 2866 | 
 | 2022-12-28 | 9059 | 2866 | 
 | 2022-12-27 | 9057 | 2865 | 
 | 2022-12-26 | 9057 | 2865 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 9028 | 2860 | 
 | 2022-12-01 | 9026 | 2860 | 
 | 2022-11-30 | 9023 | 2860 | 
-| 2022-11-29 | 9021 | 2861 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 29
 
-☋ Forks: 564
+☋ Forks: 565
 
-★ Stars: 4172
+★ Stars: 4173
 
 [Open repository](https://github.com/bitwarden/mobile)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-29 | 4172 | 564 | 
+| 2022-12-29 | 4173 | 565 | 
 | 2022-12-28 | 4171 | 564 | 
 | 2022-12-27 | 4164 | 564 | 
 | 2022-12-26 | 4152 | 562 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-02 | 4089 | 551 | 
 | 2022-12-01 | 4089 | 551 | 
 | 2022-11-30 | 4089 | 551 | 
-| 2022-11-29 | 4089 | 551 | 
 

@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 29
 
 ☋ Forks: 24
 
-★ Stars: 214
+★ Stars: 215
 
 [Open repository](https://github.com/chr233/ASFEnhance)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-29 | 214 | 24 | 
+| 2022-12-29 | 215 | 24 | 
 | 2022-12-28 | 214 | 24 | 
 

@@ -1,6 +1,6 @@
 # doorkeeper-gem/doorkeeper - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 1041
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 5070 | 1041 | 
 | 2022-12-28 | 5070 | 1041 | 
 | 2022-12-27 | 5068 | 1042 | 
 | 2022-12-26 | 5068 | 1041 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 5057 | 1037 | 
 | 2022-12-01 | 5057 | 1036 | 
 | 2022-11-30 | 5057 | 1036 | 
-| 2022-11-29 | 5057 | 1036 | 
 

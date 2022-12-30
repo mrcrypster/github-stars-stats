@@ -1,10 +1,10 @@
 # ory/keto - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 275
 
-★ Stars: 3787
+★ Stars: 3788
 
 [Open repository](https://github.com/ory/keto)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 3788 | 275 | 
 | 2022-12-28 | 3787 | 275 | 
 | 2022-12-27 | 3787 | 275 | 
 | 2022-12-26 | 3785 | 275 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 3752 | 268 | 
 | 2022-12-01 | 3746 | 267 | 
 | 2022-11-30 | 3744 | 267 | 
-| 2022-11-29 | 3742 | 267 | 
 

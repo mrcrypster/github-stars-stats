@@ -1,8 +1,8 @@
 # tachiyomiorg/website - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
-☋ Forks: 438
+☋ Forks: 439
 
 ★ Stars: 204
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 204 | 439 | 
 | 2022-12-28 | 204 | 438 | 
 | 2022-12-27 | 203 | 438 | 
 | 2022-12-26 | 203 | 438 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 195 | 438 | 
 | 2022-12-01 | 195 | 438 | 
 | 2022-11-30 | 195 | 437 | 
-| 2022-11-29 | 195 | 437 | 
 

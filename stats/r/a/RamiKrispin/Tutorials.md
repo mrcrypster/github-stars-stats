@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 29
 
 ☋ Forks: 2
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/RamiKrispin/Tutorials)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-29 | 13 | 2 | 
+| 2022-12-29 | 14 | 2 | 
 | 2022-12-28 | 13 | 2 | 
 

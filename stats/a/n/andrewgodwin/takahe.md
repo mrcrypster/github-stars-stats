@@ -1,10 +1,10 @@
 # andrewgodwin/takahe - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 46
 
-★ Stars: 690
+★ Stars: 693
 
 [Open repository](https://github.com/andrewgodwin/takahe)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 693 | 46 | 
 | 2022-12-28 | 690 | 46 | 
 | 2022-12-27 | 685 | 43 | 
 | 2022-12-26 | 682 | 43 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 558 | 29 | 
 | 2022-12-01 | 545 | 29 | 
 | 2022-11-30 | 534 | 27 | 
-| 2022-11-29 | 523 | 27 | 
 

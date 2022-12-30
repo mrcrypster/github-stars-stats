@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 29
 
-☋ Forks: 19
+☋ Forks: 23
 
-★ Stars: 270
+★ Stars: 346
 
 [Open repository](https://github.com/zhuowei/WDBFontOverwrite)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-29 | 270 | 19 | 
+| 2022-12-29 | 346 | 23 | 
 | 2022-12-28 | 252 | 19 | 
 

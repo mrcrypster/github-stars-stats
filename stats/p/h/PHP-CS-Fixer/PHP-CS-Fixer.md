@@ -1,10 +1,10 @@
 # PHP-CS-Fixer/PHP-CS-Fixer - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
-☋ Forks: 1468
+☋ Forks: 1467
 
-★ Stars: 11606
+★ Stars: 11607
 
 [Open repository](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 11607 | 1467 | 
 | 2022-12-28 | 11606 | 1468 | 
 | 2022-12-27 | 11603 | 1468 | 
 | 2022-12-26 | 11601 | 1468 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 11548 | 1462 | 
 | 2022-12-01 | 11545 | 1460 | 
 | 2022-11-30 | 11541 | 1460 | 
-| 2022-11-29 | 11536 | 1460 | 
 

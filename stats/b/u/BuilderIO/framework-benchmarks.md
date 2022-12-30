@@ -1,6 +1,6 @@
 # BuilderIO/framework-benchmarks - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 364 | 17 | 
 | 2022-12-28 | 364 | 17 | 
 | 2022-12-27 | 363 | 17 | 
 | 2022-12-26 | 363 | 17 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 359 | 17 | 
 | 2022-12-01 | 359 | 17 | 
 | 2022-11-30 | 359 | 17 | 
-| 2022-11-29 | 358 | 17 | 
 

@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-vpc - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 179
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 184 | 179 | 
 | 2022-12-29 | 184 | 179 | 
 | 2022-12-28 | 184 | 180 | 
 | 2022-12-26 | 184 | 180 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-02 | 182 | 180 | 
 | 2022-12-01 | 181 | 181 | 
 | 2022-11-30 | 181 | 181 | 
-| 2022-11-29 | 181 | 180 | 
 

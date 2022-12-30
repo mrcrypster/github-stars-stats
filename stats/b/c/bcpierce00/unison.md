@@ -1,10 +1,10 @@
 # bcpierce00/unison - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 189
 
-★ Stars: 2672
+★ Stars: 2674
 
 [Open repository](https://github.com/bcpierce00/unison)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 2674 | 189 | 
 | 2022-12-28 | 2672 | 189 | 
 | 2022-12-27 | 2670 | 189 | 
 | 2022-12-26 | 2667 | 189 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 2625 | 185 | 
 | 2022-12-01 | 2623 | 185 | 
 | 2022-11-30 | 2622 | 185 | 
-| 2022-11-29 | 2622 | 185 | 
 

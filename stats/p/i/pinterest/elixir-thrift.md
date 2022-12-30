@@ -1,6 +1,6 @@
 # pinterest/elixir-thrift - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 204 | 42 | 
 | 2022-12-28 | 204 | 42 | 
 | 2022-12-27 | 204 | 42 | 
 | 2022-12-26 | 204 | 42 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 203 | 42 | 
 | 2022-12-01 | 203 | 41 | 
 | 2022-11-30 | 203 | 41 | 
-| 2022-11-29 | 203 | 41 | 
 

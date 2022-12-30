@@ -1,6 +1,6 @@
 # expressjs/expressjs.com - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 1213
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 4689 | 1213 | 
 | 2022-12-28 | 4689 | 1213 | 
 | 2022-12-27 | 4688 | 1213 | 
 | 2022-12-26 | 4689 | 1213 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 4656 | 1205 | 
 | 2022-12-01 | 4655 | 1205 | 
 | 2022-11-30 | 4655 | 1204 | 
-| 2022-11-29 | 4651 | 1204 | 
 

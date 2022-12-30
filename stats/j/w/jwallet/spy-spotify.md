@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 29
 
 ☋ Forks: 122
 
-★ Stars: 1692
+★ Stars: 1694
 
 [Open repository](https://github.com/jwallet/spy-spotify)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-29 | 1692 | 122 | 
+| 2022-12-29 | 1694 | 122 | 
 | 2022-12-28 | 1689 | 122 | 
 

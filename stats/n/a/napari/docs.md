@@ -1,10 +1,10 @@
 # napari/docs - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
-☋ Forks: 18
+☋ Forks: 20
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/napari/docs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 6 | 20 | 
 | 2022-12-28 | 5 | 18 | 
 | 2022-12-27 | 5 | 18 | 
 | 2022-12-26 | 5 | 18 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 3 | 15 | 
 | 2022-12-01 | 3 | 14 | 
 | 2022-11-30 | 3 | 14 | 
-| 2022-11-29 | 3 | 14 | 
 

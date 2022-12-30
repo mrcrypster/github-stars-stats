@@ -1,10 +1,10 @@
 # yessGlory17/nft-marketplace - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 140
 
-★ Stars: 278
+★ Stars: 279
 
 [Open repository](https://github.com/yessGlory17/nft-marketplace)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 279 | 140 | 
 | 2022-12-28 | 278 | 140 | 
 | 2022-12-27 | 277 | 140 | 
 | 2022-12-26 | 277 | 140 | 

@@ -1,6 +1,6 @@
 # rozniak/xfce-winxp-tc - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 556 | 21 | 
 | 2022-12-28 | 556 | 21 | 
 | 2022-12-27 | 554 | 21 | 
 | 2022-12-26 | 552 | 21 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-03 | 549 | 20 | 
 | 2022-12-02 | 549 | 20 | 
 | 2022-12-01 | 550 | 20 | 
-| 2022-11-30 | 550 | 20 | 
 

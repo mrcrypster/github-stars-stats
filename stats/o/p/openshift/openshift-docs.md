@@ -1,8 +1,8 @@
 # openshift/openshift-docs - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
-☋ Forks: 1468
+☋ Forks: 1467
 
 ★ Stars: 624
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 624 | 1467 | 
 | 2022-12-28 | 624 | 1468 | 
 | 2022-12-27 | 624 | 1468 | 
 | 2022-12-26 | 624 | 1468 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 619 | 1454 | 
 | 2022-12-01 | 619 | 1454 | 
 | 2022-11-30 | 619 | 1453 | 
-| 2022-11-29 | 619 | 1453 | 
 

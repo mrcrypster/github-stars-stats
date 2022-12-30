@@ -1,8 +1,8 @@
 # supertuxkart/stk-code - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
-☋ Forks: 999
+☋ Forks: 998
 
 ★ Stars: 3866
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 3866 | 998 | 
 | 2022-12-28 | 3866 | 999 | 
 | 2022-12-27 | 3865 | 999 | 
 | 2022-12-26 | 3865 | 999 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-03 | 3843 | 999 | 
 | 2022-12-02 | 3844 | 998 | 
 | 2022-12-01 | 3843 | 997 | 
-| 2022-11-29 | 3841 | 997 | 
 

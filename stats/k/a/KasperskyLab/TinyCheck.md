@@ -1,10 +1,10 @@
 # KasperskyLab/TinyCheck - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 190
 
-★ Stars: 2648
+★ Stars: 2649
 
 [Open repository](https://github.com/KasperskyLab/TinyCheck)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 2649 | 190 | 
 | 2022-12-28 | 2648 | 190 | 
 | 2022-12-27 | 2647 | 190 | 
 | 2022-12-26 | 2647 | 190 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-03 | 2635 | 187 | 
 | 2022-12-02 | 2635 | 187 | 
 | 2022-12-01 | 2635 | 187 | 
-| 2022-11-30 | 2635 | 187 | 
 

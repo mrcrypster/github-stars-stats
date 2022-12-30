@@ -1,8 +1,8 @@
 # ClearVision/ClearVision-v6 - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
-☋ Forks: 161
+☋ Forks: 162
 
 ★ Stars: 257
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 257 | 162 | 
 | 2022-12-28 | 257 | 161 | 
 | 2022-12-27 | 257 | 161 | 
 | 2022-12-26 | 257 | 160 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-03 | 255 | 149 | 
 | 2022-12-02 | 254 | 147 | 
 | 2022-12-01 | 254 | 146 | 
-| 2022-11-30 | 254 | 146 | 
 

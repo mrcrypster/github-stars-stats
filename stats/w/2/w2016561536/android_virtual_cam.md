@@ -1,6 +1,6 @@
 # w2016561536/android_virtual_cam - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 199
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 642 | 199 | 
 | 2022-12-28 | 642 | 199 | 
 | 2022-12-27 | 641 | 199 | 
 | 2022-12-26 | 639 | 199 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 591 | 191 | 
 | 2022-12-01 | 589 | 191 | 
 | 2022-11-30 | 586 | 189 | 
-| 2022-11-29 | 587 | 189 | 
 

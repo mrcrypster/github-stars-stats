@@ -1,6 +1,6 @@
 # productdevbook/oku-nuxt3-template - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 386 | 61 | 
 | 2022-12-28 | 386 | 61 | 
 | 2022-12-27 | 385 | 61 | 
 | 2022-12-26 | 385 | 61 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-03 | 373 | 56 | 
 | 2022-12-02 | 373 | 56 | 
 | 2022-12-01 | 371 | 56 | 
-| 2022-11-29 | 371 | 56 | 
 

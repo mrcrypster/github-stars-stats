@@ -1,8 +1,8 @@
 # mission-peace/interview - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
-☋ Forks: 5147
+☋ Forks: 5146
 
 ★ Stars: 10606
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 10606 | 5146 | 
 | 2022-12-28 | 10606 | 5147 | 
 | 2022-12-27 | 10605 | 5147 | 
 | 2022-12-26 | 10603 | 5146 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-03 | 10586 | 5138 | 
 | 2022-12-01 | 10586 | 5137 | 
 | 2022-11-30 | 10585 | 5137 | 
-| 2022-11-29 | 10584 | 5137 | 
 

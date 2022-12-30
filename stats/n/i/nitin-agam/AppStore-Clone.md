@@ -1,8 +1,8 @@
 # nitin-agam/AppStore-Clone - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
-☋ Forks: 8
+☋ Forks: 7
 
 ★ Stars: 41
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 41 | 7 | 
 | 2022-12-28 | 41 | 8 | 
 | 2022-12-27 | 40 | 8 | 
 | 2022-12-26 | 40 | 8 | 

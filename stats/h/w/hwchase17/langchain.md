@@ -1,10 +1,10 @@
 # hwchase17/langchain - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 131
 
-★ Stars: 1379
+★ Stars: 1392
 
 [Open repository](https://github.com/hwchase17/langchain)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 1392 | 131 | 
 | 2022-12-28 | 1379 | 131 | 
 | 2022-12-27 | 1338 | 127 | 
 | 2022-12-26 | 1269 | 124 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 630 | 60 | 
 | 2022-12-01 | 609 | 56 | 
 | 2022-11-30 | 594 | 54 | 
-| 2022-11-29 | 584 | 53 | 
 

@@ -1,10 +1,10 @@
 # LegoFigure11/RaidCrawler - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 19
 
-★ Stars: 68
+★ Stars: 72
 
 [Open repository](https://github.com/LegoFigure11/RaidCrawler)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 72 | 19 | 
 | 2022-12-28 | 68 | 19 | 
 | 2022-12-27 | 67 | 19 | 
 | 2022-12-26 | 66 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 35 | 7 | 
 | 2022-12-01 | 32 | 6 | 
 | 2022-11-30 | 29 | 6 | 
-| 2022-11-29 | 26 | 5 | 
 

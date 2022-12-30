@@ -1,6 +1,6 @@
 # L3MON4D3/LuaSnip - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 162
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 1626 | 162 | 
 | 2022-12-28 | 1626 | 162 | 
 | 2022-12-27 | 1620 | 162 | 
 | 2022-12-26 | 1617 | 162 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 1543 | 153 | 
 | 2022-12-01 | 1538 | 153 | 
 | 2022-11-30 | 1537 | 152 | 
-| 2022-11-29 | 1534 | 152 | 
 

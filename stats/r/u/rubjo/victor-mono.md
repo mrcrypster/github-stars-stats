@@ -1,6 +1,6 @@
 # rubjo/victor-mono - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 2449 | 41 | 
 | 2022-12-28 | 2449 | 41 | 
 | 2022-12-27 | 2449 | 41 | 
 | 2022-12-26 | 2448 | 41 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-03 | 2414 | 41 | 
 | 2022-12-02 | 2411 | 41 | 
 | 2022-12-01 | 2410 | 41 | 
-| 2022-11-30 | 2409 | 41 | 
 

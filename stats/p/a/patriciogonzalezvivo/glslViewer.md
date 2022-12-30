@@ -1,10 +1,10 @@
 # patriciogonzalezvivo/glslViewer - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 313
 
-★ Stars: 3810
+★ Stars: 3811
 
 [Open repository](https://github.com/patriciogonzalezvivo/glslViewer)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 3811 | 313 | 
 | 2022-12-28 | 3810 | 313 | 
 | 2022-12-27 | 3809 | 314 | 
 | 2022-12-26 | 3807 | 314 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 3768 | 307 | 
 | 2022-12-01 | 3765 | 307 | 
 | 2022-11-30 | 3764 | 307 | 
-| 2022-11-29 | 3759 | 305 | 
 

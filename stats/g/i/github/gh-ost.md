@@ -1,10 +1,10 @@
 # github/gh-ost - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 1231
 
-★ Stars: 10702
+★ Stars: 10706
 
 [Open repository](https://github.com/github/gh-ost)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 10706 | 1231 | 
 | 2022-12-28 | 10702 | 1231 | 
 | 2022-12-27 | 10701 | 1230 | 
 | 2022-12-26 | 10699 | 1229 | 

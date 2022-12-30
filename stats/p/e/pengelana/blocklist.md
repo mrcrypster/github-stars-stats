@@ -1,6 +1,6 @@
 # pengelana/blocklist - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 195 | 20 | 
 | 2022-12-28 | 195 | 20 | 
 | 2022-12-27 | 195 | 20 | 
 | 2022-12-26 | 194 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 191 | 20 | 
 | 2022-12-01 | 190 | 20 | 
 | 2022-11-30 | 190 | 20 | 
-| 2022-11-29 | 190 | 20 | 
 

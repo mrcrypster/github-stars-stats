@@ -1,6 +1,6 @@
 # cjyaddone/ChatWaifu - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 115 | 12 | 
 | 2022-12-28 | 115 | 12 | 
 | 2022-12-27 | 103 | 11 | 
 | 2022-12-26 | 89 | 7 | 

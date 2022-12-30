@@ -1,10 +1,10 @@
 # openscopeproject/InteractiveHtmlBom - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
-☋ Forks: 372
+☋ Forks: 373
 
-★ Stars: 2726
+★ Stars: 2727
 
 [Open repository](https://github.com/openscopeproject/InteractiveHtmlBom)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 2727 | 373 | 
 | 2022-12-28 | 2726 | 372 | 
 | 2022-12-27 | 2723 | 372 | 
 | 2022-12-26 | 2722 | 372 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 2679 | 367 | 
 | 2022-12-01 | 2678 | 367 | 
 | 2022-11-30 | 2677 | 367 | 
-| 2022-11-29 | 2676 | 367 | 
 

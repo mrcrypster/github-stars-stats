@@ -1,10 +1,10 @@
 # graphprotocol/graph-node - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 687
 
-★ Stars: 2312
+★ Stars: 2315
 
 [Open repository](https://github.com/graphprotocol/graph-node)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 2315 | 687 | 
 | 2022-12-28 | 2312 | 687 | 
 | 2022-12-27 | 2310 | 687 | 
 | 2022-12-26 | 2309 | 686 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 2292 | 674 | 
 | 2022-12-01 | 2290 | 673 | 
 | 2022-11-30 | 2288 | 672 | 
-| 2022-11-29 | 2288 | 671 | 
 

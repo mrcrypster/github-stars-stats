@@ -1,10 +1,10 @@
 # openai/gpt-3 - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
-☋ Forks: 1585
+☋ Forks: 1586
 
-★ Stars: 12454
+★ Stars: 12466
 
 [Open repository](https://github.com/openai/gpt-3)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 12466 | 1586 | 
 | 2022-12-28 | 12454 | 1585 | 
 | 2022-12-27 | 12448 | 1581 | 
 | 2022-12-26 | 12442 | 1578 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 11830 | 1488 | 
 | 2022-12-01 | 11826 | 1487 | 
 | 2022-11-30 | 11821 | 1487 | 
-| 2022-11-29 | 11817 | 1485 | 
 

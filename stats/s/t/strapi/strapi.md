@@ -1,10 +1,10 @@
 # strapi/strapi - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
-☋ Forks: 6174
+☋ Forks: 6178
 
-★ Stars: 50793
+★ Stars: 50814
 
 [Open repository](https://github.com/strapi/strapi)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 50814 | 6178 | 
 | 2022-12-28 | 50793 | 6174 | 
 | 2022-12-27 | 50770 | 6173 | 
 | 2022-12-26 | 50743 | 6172 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 50309 | 6105 | 
 | 2022-12-01 | 50227 | 6101 | 
 | 2022-11-30 | 50160 | 6089 | 
-| 2022-11-29 | 50131 | 6083 | 
 

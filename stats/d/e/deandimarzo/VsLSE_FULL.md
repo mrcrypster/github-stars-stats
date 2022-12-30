@@ -1,6 +1,6 @@
 # deandimarzo/VsLSE_FULL - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 5 | 13 | 
 | 2022-12-28 | 5 | 13 | 
 | 2022-12-27 | 5 | 13 | 
 | 2022-12-26 | 5 | 13 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-03 | 5 | 13 | 
 | 2022-12-02 | 5 | 13 | 
 | 2022-12-01 | 5 | 13 | 
-| 2022-11-30 | 5 | 13 | 
 

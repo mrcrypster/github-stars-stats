@@ -1,10 +1,10 @@
 # Nebo15/sage - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 36
 
-★ Stars: 792
+★ Stars: 793
 
 [Open repository](https://github.com/Nebo15/sage)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 793 | 36 | 
 | 2022-12-28 | 792 | 36 | 
 | 2022-12-27 | 792 | 36 | 
 | 2022-12-26 | 792 | 36 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 790 | 36 | 
 | 2022-12-01 | 789 | 36 | 
 | 2022-11-30 | 789 | 36 | 
-| 2022-11-29 | 789 | 36 | 
 

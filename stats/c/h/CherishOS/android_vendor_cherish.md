@@ -1,6 +1,6 @@
 # CherishOS/android_vendor_cherish - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 4 | 41 | 
 | 2022-12-28 | 4 | 41 | 
 | 2022-12-27 | 4 | 41 | 
 | 2022-12-26 | 4 | 41 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 4 | 40 | 
 | 2022-12-01 | 4 | 40 | 
 | 2022-11-30 | 4 | 40 | 
-| 2022-11-29 | 4 | 40 | 
 

@@ -1,10 +1,10 @@
 # jcoglan/nand2tetris - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 42
 
-★ Stars: 75
+★ Stars: 76
 
 [Open repository](https://github.com/jcoglan/nand2tetris)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 76 | 42 | 
 | 2022-12-28 | 75 | 42 | 
 | 2022-12-27 | 75 | 42 | 
 | 2022-12-26 | 75 | 42 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-03 | 72 | 41 | 
 | 2022-12-02 | 72 | 41 | 
 | 2022-11-30 | 72 | 41 | 
-| 2022-11-29 | 72 | 41 | 
 

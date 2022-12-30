@@ -1,10 +1,10 @@
 # liyupi/free-programming-resources - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
-☋ Forks: 468
+☋ Forks: 469
 
-★ Stars: 2311
+★ Stars: 2312
 
 [Open repository](https://github.com/liyupi/free-programming-resources)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 2312 | 469 | 
 | 2022-12-28 | 2311 | 468 | 
 | 2022-12-27 | 2310 | 467 | 
 | 2022-12-26 | 2309 | 467 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 2276 | 460 | 
 | 2022-12-01 | 2272 | 461 | 
 | 2022-11-30 | 2273 | 461 | 
-| 2022-11-29 | 2269 | 460 | 
 

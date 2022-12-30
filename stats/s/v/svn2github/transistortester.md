@@ -1,10 +1,10 @@
 # svn2github/transistortester - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 183
 
-★ Stars: 407
+★ Stars: 408
 
 [Open repository](https://github.com/svn2github/transistortester)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 408 | 183 | 
 | 2022-12-28 | 407 | 183 | 
 | 2022-12-27 | 407 | 183 | 
 | 2022-12-26 | 407 | 183 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 406 | 183 | 
 | 2022-12-01 | 406 | 183 | 
 | 2022-11-30 | 406 | 183 | 
-| 2022-11-29 | 406 | 183 | 
 

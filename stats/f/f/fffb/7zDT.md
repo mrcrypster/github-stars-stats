@@ -1,6 +1,6 @@
 # fffb/7zDT - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 30 | 5 | 
 | 2022-12-28 | 30 | 5 | 
 | 2022-12-27 | 30 | 5 | 
 | 2022-12-25 | 30 | 5 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 30 | 4 | 
 | 2022-12-01 | 31 | 4 | 
 | 2022-11-30 | 31 | 4 | 
-| 2022-11-29 | 31 | 4 | 
 

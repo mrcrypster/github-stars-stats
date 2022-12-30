@@ -1,6 +1,6 @@
 # VerifyTests/Verify - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 94
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 1751 | 94 | 
 | 2022-12-28 | 1751 | 94 | 
 | 2022-12-27 | 1750 | 94 | 
 | 2022-12-26 | 1749 | 94 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-03 | 1715 | 93 | 
 | 2022-12-01 | 1713 | 93 | 
 | 2022-11-30 | 1710 | 93 | 
-| 2022-11-29 | 1710 | 93 | 
 

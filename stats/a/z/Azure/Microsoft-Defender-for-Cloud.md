@@ -1,10 +1,10 @@
 # Azure/Microsoft-Defender-for-Cloud - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 545
 
-★ Stars: 1190
+★ Stars: 1191
 
 [Open repository](https://github.com/Azure/Microsoft-Defender-for-Cloud)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 1191 | 545 | 
 | 2022-12-28 | 1190 | 545 | 
 | 2022-12-27 | 1190 | 545 | 
 | 2022-12-26 | 1189 | 545 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 1156 | 533 | 
 | 2022-12-01 | 1156 | 534 | 
 | 2022-11-30 | 1155 | 534 | 
-| 2022-11-29 | 1155 | 534 | 
 

@@ -1,6 +1,6 @@
 # daifiyum/halo-theme-MaterialYour - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 26 | 6 | 
 | 2022-12-29 | 26 | 6 | 
 | 2022-12-27 | 26 | 6 | 
 | 2022-12-26 | 26 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-03 | 27 | 6 | 
 | 2022-12-01 | 27 | 6 | 
 | 2022-11-30 | 27 | 6 | 
-| 2022-11-29 | 27 | 6 | 
 

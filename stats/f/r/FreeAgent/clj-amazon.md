@@ -1,6 +1,6 @@
 # FreeAgent/clj-amazon - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 7 | 7 | 
 | 2022-12-28 | 7 | 7 | 
 | 2022-12-27 | 7 | 7 | 
 | 2022-12-26 | 7 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-03 | 7 | 7 | 
 | 2022-12-02 | 7 | 7 | 
 | 2022-12-01 | 7 | 7 | 
-| 2022-11-29 | 7 | 7 | 
 

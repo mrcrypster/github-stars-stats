@@ -1,10 +1,10 @@
 # pulp-platform/snitch - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 29
 
-★ Stars: 157
+★ Stars: 158
 
 [Open repository](https://github.com/pulp-platform/snitch)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 158 | 29 | 
 | 2022-12-28 | 157 | 29 | 
 | 2022-12-27 | 157 | 29 | 
 | 2022-12-26 | 157 | 29 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 158 | 29 | 
 | 2022-12-01 | 158 | 29 | 
 | 2022-11-30 | 157 | 29 | 
-| 2022-11-29 | 157 | 29 | 
 

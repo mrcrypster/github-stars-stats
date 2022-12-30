@@ -1,6 +1,6 @@
 # jerry153fish/remote-secrets - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 92 | 18 | 
 | 2022-12-28 | 92 | 18 | 
 | 2022-12-27 | 92 | 18 | 
 | 2022-12-26 | 92 | 18 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 92 | 18 | 
 | 2022-12-01 | 92 | 18 | 
 | 2022-11-30 | 92 | 18 | 
-| 2022-11-29 | 92 | 18 | 
 

@@ -1,10 +1,10 @@
 # angular/flex-layout - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
-☋ Forks: 782
+☋ Forks: 781
 
-★ Stars: 5913
+★ Stars: 5914
 
 [Open repository](https://github.com/angular/flex-layout)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 5914 | 781 | 
 | 2022-12-28 | 5913 | 782 | 
 | 2022-12-27 | 5913 | 782 | 
 | 2022-12-26 | 5914 | 782 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-03 | 5913 | 777 | 
 | 2022-12-01 | 5914 | 777 | 
 | 2022-11-30 | 5914 | 777 | 
-| 2022-11-29 | 5913 | 778 | 
 

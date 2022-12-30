@@ -1,10 +1,10 @@
 # nanakuryana41/RDPGRATISAN6JAM - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 98
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/nanakuryana41/RDPGRATISAN6JAM)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 3 | 98 | 
 | 2022-12-28 | 2 | 98 | 
 | 2022-12-27 | 2 | 98 | 
 | 2022-12-26 | 2 | 98 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-03 | 1 | 92 | 
 | 2022-12-01 | 1 | 92 | 
 | 2022-11-30 | 1 | 92 | 
-| 2022-11-29 | 1 | 92 | 
 

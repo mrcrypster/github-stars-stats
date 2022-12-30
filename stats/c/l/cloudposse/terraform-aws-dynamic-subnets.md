@@ -1,8 +1,8 @@
 # cloudposse/terraform-aws-dynamic-subnets - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
-☋ Forks: 163
+☋ Forks: 162
 
 ★ Stars: 151
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 151 | 162 | 
 | 2022-12-28 | 151 | 163 | 
 | 2022-12-27 | 151 | 163 | 
 | 2022-12-26 | 151 | 163 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 150 | 163 | 
 | 2022-12-01 | 150 | 163 | 
 | 2022-11-30 | 150 | 163 | 
-| 2022-11-29 | 150 | 162 | 
 

@@ -1,10 +1,10 @@
 # SciML/GalacticOptim.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 55
 
-★ Stars: 443
+★ Stars: 445
 
 [Open repository](https://github.com/SciML/GalacticOptim.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 445 | 55 | 
 | 2022-12-28 | 443 | 55 | 
 | 2022-12-27 | 443 | 55 | 
 | 2022-12-26 | 443 | 55 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 433 | 54 | 
 | 2022-12-01 | 432 | 54 | 
 | 2022-11-30 | 431 | 54 | 
-| 2022-11-29 | 431 | 54 | 
 

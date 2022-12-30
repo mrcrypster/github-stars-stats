@@ -1,10 +1,10 @@
 # microsoftgraph/msgraph-sdk-php - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 130
 
-★ Stars: 422
+★ Stars: 423
 
 [Open repository](https://github.com/microsoftgraph/msgraph-sdk-php)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 423 | 130 | 
 | 2022-12-28 | 422 | 130 | 
 | 2022-12-27 | 422 | 130 | 
 | 2022-12-26 | 421 | 130 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-03 | 418 | 128 | 
 | 2022-12-02 | 417 | 128 | 
 | 2022-12-01 | 416 | 128 | 
-| 2022-11-30 | 416 | 128 | 
 

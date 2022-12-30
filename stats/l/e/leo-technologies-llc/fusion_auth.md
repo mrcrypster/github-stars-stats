@@ -1,6 +1,6 @@
 # leo-technologies-llc/fusion_auth - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 0
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 22 | - | 
+| 2022-12-29 | 22 | - | 
 | 2022-12-28 | 22 | - | 
 | 2022-12-27 | 22 | - | 
 | 2022-12-26 | 22 | - | 
@@ -41,5 +43,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 21 | - | 
 | 2022-12-01 | 21 | - | 
 | 2022-11-30 | 21 | - | 
-| 2022-11-29 | 21 | - | 
 

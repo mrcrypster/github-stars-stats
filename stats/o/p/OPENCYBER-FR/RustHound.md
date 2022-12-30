@@ -1,10 +1,10 @@
 # OPENCYBER-FR/RustHound - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 28
 
-★ Stars: 409
+★ Stars: 411
 
 [Open repository](https://github.com/OPENCYBER-FR/RustHound)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 411 | 28 | 
 | 2022-12-28 | 409 | 28 | 
 | 2022-12-27 | 409 | 28 | 
 | 2022-12-26 | 409 | 28 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 372 | 24 | 
 | 2022-12-01 | 371 | 24 | 
 | 2022-11-30 | 369 | 24 | 
-| 2022-11-29 | 368 | 24 | 
 

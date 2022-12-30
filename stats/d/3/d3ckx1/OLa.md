@@ -1,10 +1,10 @@
 # d3ckx1/OLa - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 70
 
-★ Stars: 432
+★ Stars: 433
 
 [Open repository](https://github.com/d3ckx1/OLa)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 433 | 70 | 
 | 2022-12-28 | 432 | 70 | 
 | 2022-12-27 | 432 | 70 | 
 | 2022-12-26 | 432 | 70 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-03 | 416 | 71 | 
 | 2022-12-01 | 415 | 70 | 
 | 2022-11-30 | 410 | 70 | 
-| 2022-11-29 | 409 | 70 | 
 

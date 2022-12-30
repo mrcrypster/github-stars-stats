@@ -1,6 +1,6 @@
 # eduardojesus12/live-coding-2 - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | - | 21 | 
 | 2022-12-29 | - | 21 | 
 | 2022-12-28 | - | 21 | 
 | 2022-12-26 | - | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-02 | - | 9 | 
 | 2022-12-01 | - | 9 | 
 | 2022-11-30 | - | 9 | 
-| 2022-11-29 | - | 9 | 
 

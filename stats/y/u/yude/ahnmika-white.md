@@ -1,8 +1,8 @@
 # yude/ahnmika-white - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
-☋ Forks: 7
+☋ Forks: 6
 
 ★ Stars: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 11 | 6 | 
 | 2022-12-28 | 11 | 7 | 
 | 2022-12-27 | 11 | 7 | 
 | 2022-12-26 | 11 | 7 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 10 | 6 | 
 | 2022-12-01 | 10 | 6 | 
 | 2022-11-30 | 10 | 6 | 
-| 2022-11-29 | 10 | 6 | 
 

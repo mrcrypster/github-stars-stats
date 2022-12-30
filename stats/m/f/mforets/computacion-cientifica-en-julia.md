@@ -1,6 +1,6 @@
 # mforets/computacion-cientifica-en-julia - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 7 | 8 | 
 | 2022-12-28 | 7 | 8 | 
 | 2022-12-27 | 7 | 8 | 
 | 2022-12-25 | 7 | 8 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 7 | 8 | 
 | 2022-12-01 | 7 | 8 | 
 | 2022-11-30 | 7 | 8 | 
-| 2022-11-29 | 7 | 8 | 
 

@@ -1,10 +1,10 @@
 # wenbochang888/house - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 233
 
-★ Stars: 1683
+★ Stars: 1684
 
 [Open repository](https://github.com/wenbochang888/house)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 1684 | 233 | 
 | 2022-12-28 | 1683 | 233 | 
 | 2022-12-27 | 1682 | 233 | 
 | 2022-12-26 | 1679 | 233 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 1625 | 228 | 
 | 2022-12-01 | 1621 | 227 | 
 | 2022-11-30 | 1619 | 227 | 
-| 2022-11-29 | 1617 | 228 | 
 

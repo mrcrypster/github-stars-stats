@@ -1,10 +1,10 @@
 # netlify-templates/astro-toolbox - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 11
 
-★ Stars: 38
+★ Stars: 39
 
 [Open repository](https://github.com/netlify-templates/astro-toolbox)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 39 | 11 | 
 | 2022-12-28 | 38 | 11 | 
 | 2022-12-27 | 38 | 10 | 
 | 2022-12-26 | 38 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 34 | 8 | 
 | 2022-12-01 | 33 | 8 | 
 | 2022-11-30 | 33 | 8 | 
-| 2022-11-29 | 33 | 8 | 
 

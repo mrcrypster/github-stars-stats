@@ -1,6 +1,6 @@
 # canix1/ADACLScanner - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 134
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 683 | 134 | 
 | 2022-12-28 | 683 | 134 | 
 | 2022-12-27 | 682 | 134 | 
 | 2022-12-26 | 682 | 134 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 676 | 133 | 
 | 2022-12-01 | 675 | 133 | 
 | 2022-11-30 | 675 | 133 | 
-| 2022-11-29 | 675 | 133 | 
 

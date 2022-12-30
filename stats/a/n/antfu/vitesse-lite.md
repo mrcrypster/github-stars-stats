@@ -1,10 +1,10 @@
 # antfu/vitesse-lite - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
-☋ Forks: 110
+☋ Forks: 111
 
-★ Stars: 708
+★ Stars: 709
 
 [Open repository](https://github.com/antfu/vitesse-lite)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 709 | 111 | 
 | 2022-12-28 | 708 | 110 | 
 | 2022-12-27 | 707 | 110 | 
 | 2022-12-26 | 707 | 110 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 693 | 109 | 
 | 2022-12-01 | 691 | 109 | 
 | 2022-11-30 | 690 | 109 | 
-| 2022-11-29 | 687 | 108 | 
 

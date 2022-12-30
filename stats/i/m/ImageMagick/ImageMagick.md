@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 29
 
-☋ Forks: 1107
+☋ Forks: 1108
 
-★ Stars: 8220
+★ Stars: 8223
 
 [Open repository](https://github.com/ImageMagick/ImageMagick)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-29 | 8220 | 1107 | 
+| 2022-12-29 | 8223 | 1108 | 
 | 2022-12-28 | 8219 | 1107 | 
 | 2022-12-27 | 8212 | 1108 | 
 | 2022-12-26 | 8199 | 1107 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-02 | 8075 | 1096 | 
 | 2022-12-01 | 8072 | 1094 | 
 | 2022-11-30 | 8067 | 1093 | 
-| 2022-11-29 | 8065 | 1093 | 
 

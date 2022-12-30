@@ -1,10 +1,10 @@
 # deepanshu1422/List-Of-Open-Source-Internships-Programs - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 418
 
-★ Stars: 2611
+★ Stars: 2616
 
 [Open repository](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 2616 | 418 | 
 | 2022-12-28 | 2611 | 418 | 
 | 2022-12-27 | 2610 | 418 | 
 | 2022-12-26 | 2607 | 417 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 2570 | 415 | 
 | 2022-12-01 | 2570 | 415 | 
 | 2022-11-30 | 2569 | 416 | 
-| 2022-11-29 | 2568 | 416 | 
 

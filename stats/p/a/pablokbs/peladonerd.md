@@ -1,8 +1,8 @@
 # pablokbs/peladonerd - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
-☋ Forks: 1205
+☋ Forks: 1206
 
 ★ Stars: 1574
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 1574 | 1206 | 
 | 2022-12-28 | 1574 | 1205 | 
 | 2022-12-27 | 1573 | 1203 | 
 | 2022-12-26 | 1571 | 1201 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 1556 | 1186 | 
 | 2022-12-01 | 1554 | 1185 | 
 | 2022-11-30 | 1553 | 1184 | 
-| 2022-11-29 | 1550 | 1183 | 
 

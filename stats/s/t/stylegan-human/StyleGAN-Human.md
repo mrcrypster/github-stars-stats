@@ -1,10 +1,10 @@
 # stylegan-human/StyleGAN-Human - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 88
 
-★ Stars: 752
+★ Stars: 754
 
 [Open repository](https://github.com/stylegan-human/StyleGAN-Human)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 754 | 88 | 
 | 2022-12-28 | 752 | 88 | 
 | 2022-12-27 | 752 | 88 | 
 | 2022-12-26 | 751 | 88 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 740 | 85 | 
 | 2022-12-01 | 739 | 85 | 
 | 2022-11-30 | 738 | 85 | 
-| 2022-11-29 | 738 | 85 | 
 

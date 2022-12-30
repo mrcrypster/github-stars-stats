@@ -1,6 +1,6 @@
 # markusfisch/BinaryEye - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 83
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 797 | 83 | 
 | 2022-12-28 | 797 | 83 | 
 | 2022-12-27 | 796 | 83 | 
 | 2022-12-26 | 796 | 83 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 776 | 80 | 
 | 2022-12-01 | 775 | 80 | 
 | 2022-11-30 | 775 | 80 | 
-| 2022-11-29 | 771 | 80 | 
 

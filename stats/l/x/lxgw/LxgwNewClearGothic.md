@@ -1,6 +1,6 @@
 # lxgw/LxgwNewClearGothic - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 216 | 1 | 
 | 2022-12-28 | 216 | 1 | 
 | 2022-12-27 | 215 | 1 | 
 | 2022-12-26 | 214 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 190 | 1 | 
 | 2022-12-01 | 188 | 1 | 
 | 2022-11-30 | 188 | 1 | 
-| 2022-11-29 | 188 | 1 | 
 

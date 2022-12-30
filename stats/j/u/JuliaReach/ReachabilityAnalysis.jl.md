@@ -1,6 +1,6 @@
 # JuliaReach/ReachabilityAnalysis.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 165 | 16 | 
 | 2022-12-28 | 165 | 16 | 
 | 2022-12-27 | 165 | 16 | 
 | 2022-12-26 | 165 | 16 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-03 | 163 | 16 | 
 | 2022-12-01 | 163 | 16 | 
 | 2022-11-30 | 163 | 16 | 
-| 2022-11-29 | 163 | 16 | 
 

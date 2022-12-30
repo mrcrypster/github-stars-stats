@@ -1,10 +1,10 @@
 # sysrpl/Tiny.Sim - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
-☋ Forks: 6
+☋ Forks: 7
 
-★ Stars: 105
+★ Stars: 107
 
 [Open repository](https://github.com/sysrpl/Tiny.Sim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 107 | 7 | 
 | 2022-12-28 | 105 | 6 | 
 | 2022-12-27 | 105 | 6 | 
 | 2022-12-26 | 105 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-03 | 104 | 6 | 
 | 2022-12-02 | 104 | 6 | 
 | 2022-12-01 | 104 | 6 | 
-| 2022-11-29 | 104 | 6 | 
 

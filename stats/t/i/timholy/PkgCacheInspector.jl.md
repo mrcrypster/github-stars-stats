@@ -1,6 +1,6 @@
 # timholy/PkgCacheInspector.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 27 | 1 | 
 | 2022-12-28 | 27 | 1 | 
 | 2022-12-27 | 27 | 1 | 
 | 2022-12-26 | 27 | 1 | 

@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 29
 
 ☋ Forks: 7
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/gwen001/offsectools_www)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-29 | 34 | 7 | 
+| 2022-12-29 | 35 | 7 | 
 | 2022-12-28 | 32 | 7 | 
 

@@ -1,10 +1,10 @@
 # facebookexperimental/Robyn - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 242
 
-★ Stars: 697
+★ Stars: 698
 
 [Open repository](https://github.com/facebookexperimental/Robyn)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 698 | 242 | 
 | 2022-12-28 | 697 | 242 | 
 | 2022-12-27 | 696 | 242 | 
 | 2022-12-26 | 697 | 242 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 678 | 241 | 
 | 2022-12-01 | 676 | 241 | 
 | 2022-11-30 | 676 | 241 | 
-| 2022-11-29 | 674 | 241 | 
 

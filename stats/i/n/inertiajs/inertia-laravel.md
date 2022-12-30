@@ -1,10 +1,10 @@
 # inertiajs/inertia-laravel - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 180
 
-★ Stars: 1602
+★ Stars: 1603
 
 [Open repository](https://github.com/inertiajs/inertia-laravel)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 1603 | 180 | 
 | 2022-12-28 | 1602 | 180 | 
 | 2022-12-27 | 1602 | 180 | 
 | 2022-12-26 | 1602 | 180 | 

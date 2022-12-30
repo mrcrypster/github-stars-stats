@@ -1,6 +1,6 @@
 # aws/aws-sdk-php - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 1145
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 5712 | 1145 | 
 | 2022-12-28 | 5712 | 1145 | 
 | 2022-12-27 | 5711 | 1144 | 
 | 2022-12-26 | 5711 | 1144 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 5701 | 1139 | 
 | 2022-12-01 | 5700 | 1139 | 
 | 2022-11-30 | 5699 | 1139 | 
-| 2022-11-29 | 5697 | 1140 | 
 

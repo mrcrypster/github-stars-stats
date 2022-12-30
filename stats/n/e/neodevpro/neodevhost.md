@@ -1,6 +1,6 @@
 # neodevpro/neodevhost - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 83
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 793 | 83 | 
 | 2022-12-28 | 793 | 83 | 
 | 2022-12-27 | 792 | 83 | 
 | 2022-12-26 | 791 | 83 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 780 | 83 | 
 | 2022-12-01 | 780 | 83 | 
 | 2022-11-30 | 777 | 83 | 
-| 2022-11-29 | 777 | 83 | 
 

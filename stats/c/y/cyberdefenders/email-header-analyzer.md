@@ -1,6 +1,6 @@
 # cyberdefenders/email-header-analyzer - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 139
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 506 | 139 | 
 | 2022-12-28 | 506 | 139 | 
 | 2022-12-27 | 505 | 139 | 
 | 2022-12-26 | 504 | 139 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-03 | 502 | 139 | 
 | 2022-12-01 | 502 | 139 | 
 | 2022-11-30 | 501 | 139 | 
-| 2022-11-29 | 500 | 139 | 
 

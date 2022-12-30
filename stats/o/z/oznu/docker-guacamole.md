@@ -1,6 +1,6 @@
 # oznu/docker-guacamole - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 275
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 508 | 275 | 
 | 2022-12-28 | 508 | 275 | 
 | 2022-12-27 | 508 | 275 | 
 | 2022-12-26 | 508 | 275 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 502 | 275 | 
 | 2022-12-01 | 502 | 274 | 
 | 2022-11-30 | 502 | 274 | 
-| 2022-11-29 | 502 | 274 | 
 

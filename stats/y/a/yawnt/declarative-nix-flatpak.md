@@ -1,6 +1,6 @@
 # yawnt/declarative-nix-flatpak - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 28 | - | 
 | 2022-12-28 | 28 | - | 
 | 2022-12-27 | 28 | - | 
 | 2022-12-26 | 28 | - | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-03 | 27 | - | 
 | 2022-12-01 | 27 | - | 
 | 2022-11-30 | 27 | - | 
-| 2022-11-29 | 27 | - | 
 

@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 29
 
 ☋ Forks: 294
 
-★ Stars: 958
+★ Stars: 960
 
 [Open repository](https://github.com/bdebye/thesisuestc)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-29 | 958 | 294 | 
+| 2022-12-29 | 960 | 294 | 
 | 2022-12-28 | 958 | 294 | 
 | 2022-12-27 | 955 | 292 | 
 | 2022-12-26 | 954 | 292 | 

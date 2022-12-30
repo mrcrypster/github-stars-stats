@@ -1,6 +1,6 @@
 # hashicorp/nomad-scala-sdk - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 19 | 5 | 
 | 2022-12-28 | 19 | 5 | 
 | 2022-12-27 | 19 | 5 | 
 | 2022-12-26 | 19 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 20 | 5 | 
 | 2022-12-01 | 20 | 5 | 
 | 2022-11-30 | 20 | 5 | 
-| 2022-11-29 | 20 | 5 | 
 

@@ -1,10 +1,10 @@
 # mattcroat/joy-of-code - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
-☋ Forks: 59
+☋ Forks: 60
 
-★ Stars: 154
+★ Stars: 155
 
 [Open repository](https://github.com/mattcroat/joy-of-code)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 155 | 60 | 
 | 2022-12-28 | 154 | 59 | 
 | 2022-12-27 | 154 | 59 | 
 | 2022-12-26 | 154 | 59 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 136 | 55 | 
 | 2022-12-01 | 136 | 55 | 
 | 2022-11-30 | 136 | 55 | 
-| 2022-11-29 | 136 | 55 | 
 

@@ -1,10 +1,10 @@
 # djsime1/awesome-flipperzero - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
-☋ Forks: 302
+☋ Forks: 304
 
-★ Stars: 6773
+★ Stars: 6821
 
 [Open repository](https://github.com/djsime1/awesome-flipperzero)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 6821 | 304 | 
 | 2022-12-28 | 6773 | 302 | 
 | 2022-12-27 | 6726 | 301 | 
 | 2022-12-26 | 6708 | 301 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 5863 | 255 | 
 | 2022-12-01 | 5822 | 254 | 
 | 2022-11-30 | 5786 | 251 | 
-| 2022-11-29 | 5754 | 249 | 
 

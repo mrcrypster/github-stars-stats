@@ -1,10 +1,10 @@
 # NITR098/Awesome-U-Net - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 8
 
-★ Stars: 91
+★ Stars: 92
 
 [Open repository](https://github.com/NITR098/Awesome-U-Net)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 92 | 8 | 
 | 2022-12-28 | 91 | 8 | 
 | 2022-12-27 | 91 | 8 | 
 | 2022-12-26 | 91 | 8 | 

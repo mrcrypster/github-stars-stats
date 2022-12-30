@@ -1,10 +1,10 @@
 # beyondcode/laravel-websockets - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
-☋ Forks: 504
+☋ Forks: 505
 
-★ Stars: 4619
+★ Stars: 4620
 
 [Open repository](https://github.com/beyondcode/laravel-websockets)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 4620 | 505 | 
 | 2022-12-28 | 4619 | 504 | 
 | 2022-12-27 | 4616 | 504 | 
 | 2022-12-26 | 4614 | 504 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 4588 | 502 | 
 | 2022-12-01 | 4588 | 502 | 
 | 2022-11-30 | 4587 | 502 | 
-| 2022-11-29 | 4587 | 502 | 
 

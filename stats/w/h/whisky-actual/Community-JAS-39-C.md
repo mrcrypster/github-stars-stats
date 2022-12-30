@@ -1,6 +1,6 @@
 # whisky-actual/Community-JAS-39-C - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 122 | 22 | 
 | 2022-12-28 | 122 | 22 | 
 | 2022-12-27 | 122 | 22 | 
 | 2022-12-26 | 122 | 22 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-03 | 117 | 19 | 
 | 2022-12-01 | 116 | 19 | 
 | 2022-11-30 | 116 | 19 | 
-| 2022-11-29 | 116 | 19 | 
 

@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 29
 
 ☋ Forks: 888
 
-★ Stars: 4581
+★ Stars: 4583
 
 [Open repository](https://github.com/leerob/leerob.io)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-29 | 4581 | 888 | 
+| 2022-12-29 | 4583 | 888 | 
 | 2022-12-28 | 4580 | 888 | 
 | 2022-12-27 | 4572 | 885 | 
 | 2022-12-26 | 4566 | 884 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-02 | 4475 | 854 | 
 | 2022-12-01 | 4472 | 852 | 
 | 2022-11-30 | 4467 | 851 | 
-| 2022-11-29 | 4463 | 846 | 
 

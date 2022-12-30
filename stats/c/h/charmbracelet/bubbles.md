@@ -1,10 +1,10 @@
 # charmbracelet/bubbles - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 106
 
-★ Stars: 2886
+★ Stars: 2891
 
 [Open repository](https://github.com/charmbracelet/bubbles)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 2891 | 106 | 
 | 2022-12-28 | 2886 | 106 | 
 | 2022-12-27 | 2884 | 106 | 
 | 2022-12-26 | 2883 | 106 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 2816 | 99 | 
 | 2022-12-01 | 2809 | 99 | 
 | 2022-11-30 | 2808 | 99 | 
-| 2022-11-29 | 2806 | 99 | 
 

@@ -1,10 +1,10 @@
 # nikneym/ws - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 1
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/nikneym/ws)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 14 | 1 | 
 | 2022-12-28 | 13 | 1 | 
 | 2022-12-27 | 13 | 1 | 
 | 2022-12-26 | 13 | 1 | 

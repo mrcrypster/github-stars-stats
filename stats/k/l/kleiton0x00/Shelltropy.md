@@ -1,8 +1,8 @@
 # kleiton0x00/Shelltropy - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
-☋ Forks: 23
+☋ Forks: 24
 
 ★ Stars: 180
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 180 | 24 | 
 | 2022-12-28 | 180 | 23 | 
 | 2022-12-27 | 180 | 23 | 
 | 2022-12-26 | 180 | 23 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-03 | 174 | 22 | 
 | 2022-12-01 | 174 | 22 | 
 | 2022-11-30 | 174 | 22 | 
-| 2022-11-29 | 174 | 22 | 
 

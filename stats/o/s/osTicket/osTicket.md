@@ -1,6 +1,6 @@
 # osTicket/osTicket - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 1493
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 2620 | 1493 | 
 | 2022-12-28 | 2620 | 1493 | 
 | 2022-12-27 | 2620 | 1492 | 
 | 2022-12-26 | 2620 | 1491 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-03 | 2595 | 1483 | 
 | 2022-12-01 | 2594 | 1482 | 
 | 2022-11-30 | 2592 | 1482 | 
-| 2022-11-29 | 2591 | 1481 | 
 

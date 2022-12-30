@@ -1,10 +1,10 @@
 # ben-rogerson/twin.macro - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 169
 
-★ Stars: 6718
+★ Stars: 6721
 
 [Open repository](https://github.com/ben-rogerson/twin.macro)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 6721 | 169 | 
 | 2022-12-28 | 6718 | 169 | 
 | 2022-12-27 | 6710 | 169 | 
 | 2022-12-26 | 6703 | 169 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 6618 | 166 | 
 | 2022-12-01 | 6607 | 166 | 
 | 2022-11-30 | 6595 | 166 | 
-| 2022-11-29 | 6586 | 166 | 
 

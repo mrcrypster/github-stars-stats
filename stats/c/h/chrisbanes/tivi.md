@@ -1,10 +1,10 @@
 # chrisbanes/tivi - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
-☋ Forks: 780
+☋ Forks: 779
 
-★ Stars: 5554
+★ Stars: 5559
 
 [Open repository](https://github.com/chrisbanes/tivi)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 5559 | 779 | 
 | 2022-12-28 | 5554 | 780 | 
 | 2022-12-27 | 5554 | 780 | 
 | 2022-12-26 | 5554 | 780 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 5527 | 778 | 
 | 2022-12-01 | 5527 | 778 | 
 | 2022-11-30 | 5526 | 778 | 
-| 2022-11-29 | 5521 | 777 | 
 

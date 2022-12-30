@@ -1,6 +1,6 @@
 # dunglas/frankenphp-demo - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 52 | 7 | 
 | 2022-12-28 | 52 | 7 | 
 | 2022-12-27 | 52 | 7 | 
 | 2022-12-26 | 52 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 49 | 7 | 
 | 2022-12-01 | 48 | 7 | 
 | 2022-11-30 | 48 | 7 | 
-| 2022-11-29 | 48 | 7 | 
 

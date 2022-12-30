@@ -1,10 +1,10 @@
 # go-telegram-bot-api/telegram-bot-api - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 661
 
-★ Stars: 4238
+★ Stars: 4239
 
 [Open repository](https://github.com/go-telegram-bot-api/telegram-bot-api)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 4239 | 661 | 
 | 2022-12-28 | 4238 | 661 | 
 | 2022-12-27 | 4237 | 661 | 
 | 2022-12-26 | 4235 | 660 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 4167 | 648 | 
 | 2022-12-01 | 4163 | 647 | 
 | 2022-11-30 | 4162 | 647 | 
-| 2022-11-29 | 4156 | 647 | 
 

@@ -1,6 +1,6 @@
 # newpanjing/gofound - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 143
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 1294 | 143 | 
 | 2022-12-28 | 1294 | 143 | 
 | 2022-12-27 | 1293 | 143 | 
 | 2022-12-26 | 1293 | 143 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 1272 | 139 | 
 | 2022-12-01 | 1272 | 139 | 
 | 2022-11-30 | 1272 | 139 | 
-| 2022-11-29 | 1272 | 139 | 
 

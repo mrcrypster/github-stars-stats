@@ -1,10 +1,10 @@
 # influxdata/telegraf - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 5144
 
-★ Stars: 12317
+★ Stars: 12319
 
 [Open repository](https://github.com/influxdata/telegraf)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 12319 | 5144 | 
 | 2022-12-28 | 12317 | 5144 | 
 | 2022-12-27 | 12316 | 5143 | 
 | 2022-12-26 | 12315 | 5141 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 12248 | 5125 | 
 | 2022-12-01 | 12244 | 5121 | 
 | 2022-11-30 | 12236 | 5113 | 
-| 2022-11-29 | 12230 | 5112 | 
 

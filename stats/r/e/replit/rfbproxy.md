@@ -1,6 +1,6 @@
 # replit/rfbproxy - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 11 | 4 | 
 | 2022-12-28 | 11 | 4 | 
 | 2022-12-27 | 11 | 4 | 
 | 2022-12-26 | 11 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 11 | 3 | 
 | 2022-12-01 | 11 | 3 | 
 | 2022-11-30 | 11 | 3 | 
-| 2022-11-29 | 11 | 3 | 
 

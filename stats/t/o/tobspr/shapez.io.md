@@ -1,10 +1,10 @@
 # tobspr/shapez.io - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
-☋ Forks: 1081
+☋ Forks: 1080
 
-★ Stars: 5382
+★ Stars: 5387
 
 [Open repository](https://github.com/tobspr/shapez.io)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 5387 | 1080 | 
 | 2022-12-28 | 5382 | 1081 | 
 | 2022-12-27 | 5380 | 1081 | 
 | 2022-12-26 | 5376 | 1081 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 5350 | 1070 | 
 | 2022-12-01 | 5348 | 1068 | 
 | 2022-11-30 | 5347 | 1070 | 
-| 2022-11-29 | 5347 | 1073 | 
 

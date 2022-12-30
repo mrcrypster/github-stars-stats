@@ -1,10 +1,10 @@
 # Wallapop/web-styleguide - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 0
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/Wallapop/web-styleguide)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 2 | - | 
 | 2022-12-29 | 1 | - | 
 | 2022-12-28 | 1 | - | 
 | 2022-12-26 | 1 | - | 

@@ -1,10 +1,10 @@
 # python-engineer/python-fun - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
-☋ Forks: 416
+☋ Forks: 418
 
-★ Stars: 449
+★ Stars: 450
 
 [Open repository](https://github.com/python-engineer/python-fun)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 450 | 418 | 
 | 2022-12-28 | 449 | 416 | 
 | 2022-12-27 | 446 | 415 | 
 | 2022-12-26 | 443 | 415 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 425 | 404 | 
 | 2022-12-01 | 424 | 404 | 
 | 2022-11-30 | 424 | 405 | 
-| 2022-11-29 | 422 | 402 | 
 

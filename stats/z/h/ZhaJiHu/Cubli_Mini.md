@@ -1,10 +1,10 @@
 # ZhaJiHu/Cubli_Mini - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 109
 
-★ Stars: 526
+★ Stars: 527
 
 [Open repository](https://github.com/ZhaJiHu/Cubli_Mini)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 527 | 109 | 
 | 2022-12-28 | 526 | 109 | 
 | 2022-12-27 | 524 | 108 | 
 | 2022-12-26 | 524 | 108 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 522 | 107 | 
 | 2022-12-01 | 522 | 107 | 
 | 2022-11-30 | 522 | 107 | 
-| 2022-11-29 | 522 | 107 | 
 

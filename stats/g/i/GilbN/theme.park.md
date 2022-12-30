@@ -1,10 +1,10 @@
 # GilbN/theme.park - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 559
 
-★ Stars: 1635
+★ Stars: 1638
 
 [Open repository](https://github.com/GilbN/theme.park)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 1638 | 559 | 
 | 2022-12-28 | 1635 | 559 | 
 | 2022-12-27 | 1634 | 559 | 
 | 2022-12-26 | 1634 | 558 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-03 | 1626 | 548 | 
 | 2022-12-01 | 1625 | 548 | 
 | 2022-11-30 | 1623 | 548 | 
-| 2022-11-29 | 1622 | 548 | 
 

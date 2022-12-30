@@ -1,10 +1,10 @@
 # gorhom/react-native-bottom-sheet - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 468
 
-★ Stars: 4189
+★ Stars: 4190
 
 [Open repository](https://github.com/gorhom/react-native-bottom-sheet)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 4190 | 468 | 
 | 2022-12-28 | 4189 | 468 | 
 | 2022-12-27 | 4185 | 468 | 
 | 2022-12-26 | 4179 | 467 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 4095 | 452 | 
 | 2022-12-01 | 4092 | 452 | 
 | 2022-11-30 | 4091 | 451 | 
-| 2022-11-29 | 4087 | 451 | 
 

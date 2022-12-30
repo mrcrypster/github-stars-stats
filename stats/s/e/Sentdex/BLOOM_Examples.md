@@ -1,6 +1,6 @@
 # Sentdex/BLOOM_Examples - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 230 | 60 | 
 | 2022-12-28 | 230 | 60 | 
 | 2022-12-27 | 229 | 59 | 
 | 2022-12-26 | 229 | 59 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 221 | 57 | 
 | 2022-12-01 | 221 | 57 | 
 | 2022-11-30 | 221 | 57 | 
-| 2022-11-29 | 221 | 57 | 
 

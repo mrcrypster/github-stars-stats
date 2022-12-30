@@ -1,6 +1,6 @@
 # jfrog/charts - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 403
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 209 | 403 | 
 | 2022-12-28 | 209 | 403 | 
 | 2022-12-27 | 209 | 403 | 
 | 2022-12-26 | 209 | 403 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-03 | 209 | 398 | 
 | 2022-12-01 | 209 | 398 | 
 | 2022-11-30 | 209 | 398 | 
-| 2022-11-29 | 208 | 397 | 
 

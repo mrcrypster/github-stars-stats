@@ -1,6 +1,6 @@
 # LinwoodCloud/Butterfly - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 336 | 16 | 
 | 2022-12-28 | 336 | 16 | 
 | 2022-12-27 | 335 | 16 | 
 | 2022-12-26 | 335 | 16 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-03 | 314 | 16 | 
 | 2022-12-01 | 314 | 16 | 
 | 2022-11-30 | 314 | 16 | 
-| 2022-11-29 | 314 | 16 | 
 

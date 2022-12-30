@@ -1,10 +1,10 @@
 # mli/transformers-benchmarks - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 45
 
-★ Stars: 393
+★ Stars: 397
 
 [Open repository](https://github.com/mli/transformers-benchmarks)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 397 | 45 | 
 | 2022-12-28 | 393 | 45 | 
 | 2022-12-27 | 393 | 45 | 
 | 2022-12-26 | 393 | 45 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-03 | 377 | 44 | 
 | 2022-12-01 | 377 | 44 | 
 | 2022-11-30 | 377 | 44 | 
-| 2022-11-29 | 376 | 44 | 
 

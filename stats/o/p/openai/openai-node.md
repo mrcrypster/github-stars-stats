@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 29
 
 ☋ Forks: 37
 
-★ Stars: 431
+★ Stars: 438
 
 [Open repository](https://github.com/openai/openai-node)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-29 | 431 | 37 | 
+| 2022-12-29 | 438 | 37 | 
 | 2022-12-28 | 430 | 37 | 
 | 2022-12-27 | 417 | 36 | 
 | 2022-12-26 | 406 | 35 | 

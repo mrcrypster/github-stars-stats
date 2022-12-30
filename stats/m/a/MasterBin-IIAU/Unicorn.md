@@ -1,8 +1,8 @@
 # MasterBin-IIAU/Unicorn - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
-☋ Forks: 73
+☋ Forks: 74
 
 ★ Stars: 831
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 831 | 74 | 
 | 2022-12-28 | 831 | 73 | 
 | 2022-12-27 | 830 | 73 | 
 | 2022-12-26 | 829 | 73 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-03 | 817 | 72 | 
 | 2022-12-01 | 816 | 72 | 
 | 2022-11-30 | 816 | 72 | 
-| 2022-11-29 | 816 | 71 | 
 

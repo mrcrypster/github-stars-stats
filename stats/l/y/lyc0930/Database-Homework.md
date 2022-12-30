@@ -1,6 +1,6 @@
 # lyc0930/Database-Homework - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 20 | 11 | 
 | 2022-12-28 | 20 | 11 | 
 | 2022-12-27 | 20 | 11 | 
 | 2022-12-26 | 20 | 11 | 

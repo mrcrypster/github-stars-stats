@@ -1,6 +1,6 @@
 # polymerdao/plonky2-solidity-verifier - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 30 | 1 | 
 | 2022-12-28 | 30 | 1 | 
 | 2022-12-27 | 30 | 1 | 
 | 2022-12-26 | 30 | 1 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-03 | 28 | 1 | 
 | 2022-12-01 | 28 | 1 | 
 | 2022-11-30 | 27 | 1 | 
-| 2022-11-29 | 26 | 1 | 
 

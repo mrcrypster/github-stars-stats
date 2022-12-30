@@ -1,10 +1,10 @@
 # pterodactyl/documentation - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 427
 
-★ Stars: 115
+★ Stars: 116
 
 [Open repository](https://github.com/pterodactyl/documentation)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 116 | 427 | 
 | 2022-12-29 | 115 | 427 | 
 | 2022-12-27 | 116 | 426 | 
 | 2022-12-26 | 116 | 426 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-02 | 113 | 410 | 
 | 2022-12-01 | 113 | 409 | 
 | 2022-11-30 | 114 | 409 | 
-| 2022-11-29 | 114 | 409 | 
 

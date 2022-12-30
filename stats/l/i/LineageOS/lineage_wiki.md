@@ -1,10 +1,10 @@
 # LineageOS/lineage_wiki - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 437
 
-★ Stars: 558
+★ Stars: 559
 
 [Open repository](https://github.com/LineageOS/lineage_wiki)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 559 | 437 | 
 | 2022-12-28 | 558 | 437 | 
 | 2022-12-27 | 558 | 437 | 
 | 2022-12-26 | 558 | 437 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-03 | 553 | 437 | 
 | 2022-12-02 | 553 | 436 | 
 | 2022-12-01 | 553 | 437 | 
-| 2022-11-30 | 553 | 437 | 
 

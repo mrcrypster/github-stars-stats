@@ -1,10 +1,10 @@
 # toshiossada/flutterIntegrationTest - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 1
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/toshiossada/flutterIntegrationTest)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 35 | 1 | 
 | 2022-12-28 | 34 | 1 | 
 | 2022-12-27 | 34 | 1 | 
 | 2022-12-26 | 34 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 32 | 1 | 
 | 2022-12-01 | 33 | 1 | 
 | 2022-11-30 | 33 | 1 | 
-| 2022-11-29 | 30 | 1 | 
 

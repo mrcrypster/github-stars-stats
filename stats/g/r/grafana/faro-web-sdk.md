@@ -1,10 +1,10 @@
 # grafana/faro-web-sdk - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
-☋ Forks: 14
+☋ Forks: 15
 
-★ Stars: 348
+★ Stars: 350
 
 [Open repository](https://github.com/grafana/faro-web-sdk)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 350 | 15 | 
 | 2022-12-28 | 348 | 14 | 
 | 2022-12-27 | 347 | 13 | 
 | 2022-12-26 | 347 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 317 | 8 | 
 | 2022-12-01 | 316 | 8 | 
 | 2022-11-30 | 313 | 8 | 
-| 2022-11-29 | 311 | 8 | 
 

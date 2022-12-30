@@ -1,6 +1,6 @@
 # hithesis/hithesis - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 306
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 1196 | 306 | 
 | 2022-12-29 | 1196 | 306 | 
 | 2022-12-28 | 1196 | 306 | 
 | 2022-12-26 | 1196 | 306 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-02 | 1190 | 303 | 
 | 2022-12-01 | 1187 | 303 | 
 | 2022-11-30 | 1185 | 303 | 
-| 2022-11-29 | 1186 | 303 | 
 

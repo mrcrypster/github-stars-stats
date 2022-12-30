@@ -1,6 +1,6 @@
 # losfair/mvsqlite - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 940 | 25 | 
 | 2022-12-29 | 940 | 25 | 
 | 2022-12-27 | 939 | 25 | 
 | 2022-12-26 | 939 | 25 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-02 | 929 | 24 | 
 | 2022-12-01 | 922 | 24 | 
 | 2022-11-30 | 917 | 24 | 
-| 2022-11-29 | 916 | 24 | 
 

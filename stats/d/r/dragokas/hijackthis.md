@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 29
 
 ☋ Forks: 99
 
-★ Stars: 510
+★ Stars: 509
 
 [Open repository](https://github.com/dragokas/hijackthis)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-29 | 510 | 99 | 
+| 2022-12-29 | 509 | 99 | 
 | 2022-12-28 | 510 | 99 | 
 | 2022-12-27 | 510 | 99 | 
 | 2022-12-26 | 510 | 99 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-02 | 505 | 99 | 
 | 2022-12-01 | 505 | 99 | 
 | 2022-11-30 | 505 | 99 | 
-| 2022-11-29 | 505 | 99 | 
 

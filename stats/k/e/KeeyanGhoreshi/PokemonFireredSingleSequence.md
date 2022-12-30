@@ -1,6 +1,6 @@
 # KeeyanGhoreshi/PokemonFireredSingleSequence - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 68 | 3 | 
 | 2022-12-28 | 68 | 3 | 
 | 2022-12-27 | 68 | 2 | 
 | 2022-12-26 | 68 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 62 | 2 | 
 | 2022-12-01 | 61 | 2 | 
 | 2022-11-30 | 60 | 2 | 
-| 2022-11-29 | 59 | 2 | 
 

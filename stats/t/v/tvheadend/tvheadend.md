@@ -1,10 +1,10 @@
 # tvheadend/tvheadend - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
-☋ Forks: 867
+☋ Forks: 866
 
-★ Stars: 2302
+★ Stars: 2303
 
 [Open repository](https://github.com/tvheadend/tvheadend)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 2303 | 866 | 
 | 2022-12-28 | 2302 | 867 | 
 | 2022-12-27 | 2298 | 866 | 
 | 2022-12-26 | 2298 | 865 | 

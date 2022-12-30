@@ -1,8 +1,8 @@
 # Activiti/Activiti - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
-☋ Forks: 6831
+☋ Forks: 6830
 
 ★ Stars: 9135
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 9135 | 6830 | 
 | 2022-12-28 | 9135 | 6831 | 
 | 2022-12-27 | 9130 | 6831 | 
 | 2022-12-26 | 9125 | 6830 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-03 | 9093 | 6830 | 
 | 2022-12-01 | 9093 | 6831 | 
 | 2022-11-30 | 9093 | 6831 | 
-| 2022-11-29 | 9091 | 6831 | 
 

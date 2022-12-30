@@ -1,6 +1,6 @@
 # andrelmlins/svelte-infinite-scroll - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 219 | 15 | 
 | 2022-12-29 | 219 | 15 | 
 | 2022-12-28 | 220 | 15 | 
 | 2022-12-26 | 219 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-02 | 218 | 15 | 
 | 2022-12-01 | 218 | 15 | 
 | 2022-11-30 | 218 | 15 | 
-| 2022-11-29 | 218 | 15 | 
 

@@ -1,6 +1,6 @@
 # dbrattli/Giraffe.Pipelines - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 30 | - | 
 | 2022-12-28 | 30 | - | 
 | 2022-12-27 | 30 | - | 
 | 2022-12-26 | 30 | - | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-03 | 30 | - | 
 | 2022-12-01 | 30 | - | 
 | 2022-11-30 | 30 | - | 
-| 2022-11-29 | 30 | - | 
 

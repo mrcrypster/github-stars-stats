@@ -1,10 +1,10 @@
 # status-im/nim-drchaos - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 1
 
-★ Stars: 55
+★ Stars: 56
 
 [Open repository](https://github.com/status-im/nim-drchaos)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 56 | 1 | 
 | 2022-12-28 | 55 | 1 | 
 | 2022-12-27 | 55 | 1 | 
 | 2022-12-26 | 55 | 1 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-03 | 55 | 1 | 
 | 2022-12-01 | 54 | 1 | 
 | 2022-11-30 | 54 | 1 | 
-| 2022-11-29 | 54 | 1 | 
 

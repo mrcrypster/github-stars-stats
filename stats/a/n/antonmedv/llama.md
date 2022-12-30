@@ -1,6 +1,6 @@
 # antonmedv/llama - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 1089 | 39 | 
 | 2022-12-28 | 1089 | 39 | 
 | 2022-12-27 | 1088 | 39 | 
 | 2022-12-26 | 1087 | 39 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 1025 | 35 | 
 | 2022-12-01 | 1010 | 35 | 
 | 2022-11-30 | 999 | 34 | 
-| 2022-11-29 | 985 | 33 | 
 

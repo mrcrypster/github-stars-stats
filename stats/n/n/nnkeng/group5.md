@@ -1,10 +1,10 @@
 # nnkeng/group5 - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
-☋ Forks: 76
+☋ Forks: 80
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/nnkeng/group5)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 1 | 80 | 
 | 2022-12-28 | - | 76 | 
 | 2022-12-27 | - | 74 | 
 | 2022-12-26 | - | 71 | 

@@ -1,8 +1,8 @@
 # tomrus88/BlizzardInterfaceCode - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
-☋ Forks: 153
+☋ Forks: 152
 
 ★ Stars: 390
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 390 | 152 | 
 | 2022-12-28 | 390 | 153 | 
 | 2022-12-27 | 389 | 153 | 
 | 2022-12-26 | 387 | 153 | 

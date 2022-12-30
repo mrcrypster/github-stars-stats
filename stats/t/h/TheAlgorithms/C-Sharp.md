@@ -1,6 +1,6 @@
 # TheAlgorithms/C-Sharp - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 1101
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 4838 | 1101 | 
 | 2022-12-28 | 4838 | 1101 | 
 | 2022-12-27 | 4835 | 1099 | 
 | 2022-12-26 | 4834 | 1099 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 4763 | 1085 | 
 | 2022-12-01 | 4758 | 1085 | 
 | 2022-11-30 | 4754 | 1083 | 
-| 2022-11-29 | 4752 | 1083 | 
 

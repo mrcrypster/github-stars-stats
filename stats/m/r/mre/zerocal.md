@@ -1,6 +1,6 @@
 # mre/zerocal - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 149 | 12 | 
 | 2022-12-28 | 149 | 12 | 
 | 2022-12-27 | 149 | 12 | 
 | 2022-12-26 | 149 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 148 | 12 | 
 | 2022-12-01 | 148 | 12 | 
 | 2022-11-30 | 148 | 12 | 
-| 2022-11-29 | 148 | 12 | 
 

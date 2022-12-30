@@ -1,10 +1,10 @@
 # XMLTV/xmltv - stars & forks statistics
 
-Stats updated on Dec 2022, 28
+Stats updated on Dec 2022, 29
 
 ☋ Forks: 82
 
-★ Stars: 180
+★ Stars: 181
 
 [Open repository](https://github.com/XMLTV/xmltv)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-29 | 181 | 82 | 
 | 2022-12-28 | 180 | 82 | 
 | 2022-12-27 | 180 | 81 | 
 | 2022-12-26 | 179 | 81 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 28
 | 2022-12-02 | 177 | 81 | 
 | 2022-12-01 | 176 | 81 | 
 | 2022-11-30 | 176 | 81 | 
-| 2022-11-29 | 176 | 81 | 
 
