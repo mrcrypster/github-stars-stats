@@ -1,10 +1,10 @@
 # vuejs/vuefire - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 298
 
-★ Stars: 3420
+★ Stars: 3422
 
 [Open repository](https://github.com/vuejs/vuefire)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 3422 | 298 | 
 | 2022-12-29 | 3420 | 298 | 
 | 2022-12-28 | 3417 | 297 | 
 | 2022-12-27 | 3415 | 297 | 

@@ -1,8 +1,8 @@
 # MoralisWeb3/youtube-tutorials - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
-☋ Forks: 1274
+☋ Forks: 1276
 
 ★ Stars: 496
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 496 | 1276 | 
 | 2022-12-29 | 496 | 1274 | 
 | 2022-12-28 | 495 | 1275 | 
 | 2022-12-27 | 495 | 1273 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-03 | 487 | 1260 | 
 | 2022-12-02 | 486 | 1261 | 
 | 2022-12-01 | 486 | 1259 | 
-| 2022-11-30 | 486 | 1258 | 
 

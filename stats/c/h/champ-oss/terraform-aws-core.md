@@ -1,6 +1,6 @@
 # champ-oss/terraform-aws-core - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 0
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 1 | - | 
+| 2022-12-30 | 1 | - | 
 | 2022-12-29 | 1 | - | 
 | 2022-12-28 | 1 | - | 
 | 2022-12-27 | 1 | - | 
@@ -41,5 +43,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-03 | 1 | - | 
 | 2022-12-02 | 1 | - | 
 | 2022-12-01 | 1 | - | 
-| 2022-11-30 | 1 | - | 
 

@@ -1,10 +1,10 @@
 # kosayoda/nvim-lightbulb - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 13
 
-★ Stars: 543
+★ Stars: 545
 
 [Open repository](https://github.com/kosayoda/nvim-lightbulb)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 545 | 13 | 
 | 2022-12-29 | 543 | 13 | 
 | 2022-12-28 | 543 | 13 | 
 | 2022-12-27 | 542 | 13 | 

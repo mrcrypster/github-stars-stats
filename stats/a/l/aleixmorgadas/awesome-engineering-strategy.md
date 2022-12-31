@@ -1,10 +1,10 @@
 # aleixmorgadas/awesome-engineering-strategy - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 17
 
-★ Stars: 247
+★ Stars: 248
 
 [Open repository](https://github.com/aleixmorgadas/awesome-engineering-strategy)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 248 | 17 | 
 | 2022-12-29 | 247 | 17 | 
 | 2022-12-28 | 245 | 17 | 
 | 2022-12-27 | 244 | 17 | 

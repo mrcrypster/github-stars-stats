@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 30
 
 ☋ Forks: 311
 
-★ Stars: 1710
+★ Stars: 1711
 
 [Open repository](https://github.com/NVIDIA/FasterTransformer)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-30 | 1710 | 311 | 
+| 2022-12-30 | 1711 | 311 | 
 | 2022-12-29 | 1709 | 311 | 
 | 2022-12-28 | 1705 | 310 | 
 | 2022-12-27 | 1700 | 308 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-03 | 1618 | 286 | 
 | 2022-12-02 | 1615 | 286 | 
 | 2022-12-01 | 1614 | 285 | 
-| 2022-11-30 | 1613 | 286 | 
 

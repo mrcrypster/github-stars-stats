@@ -1,10 +1,10 @@
 # ninjaprox/NVActivityIndicatorView - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 1113
 
-★ Stars: 10277
+★ Stars: 10278
 
 [Open repository](https://github.com/ninjaprox/NVActivityIndicatorView)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 10278 | 1113 | 
 | 2022-12-30 | 10277 | 1113 | 
 | 2022-12-28 | 10276 | 1113 | 
 | 2022-12-27 | 10276 | 1113 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 10260 | 1111 | 
 | 2022-12-03 | 10259 | 1111 | 
 | 2022-12-01 | 10258 | 1111 | 
-| 2022-11-30 | 10258 | 1111 | 
 

@@ -1,6 +1,6 @@
 # HiddenStrawberry/Crawler_Illegal_Cases_In_China - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 242
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 2967 | 242 | 
 | 2022-12-29 | 2967 | 242 | 
 | 2022-12-28 | 2967 | 242 | 
 | 2022-12-27 | 2967 | 242 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-04 | 2953 | 242 | 
 | 2022-12-03 | 2954 | 242 | 
 | 2022-12-01 | 2954 | 242 | 
-| 2022-11-30 | 2953 | 242 | 
 

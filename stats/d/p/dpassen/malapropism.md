@@ -1,6 +1,6 @@
 # dpassen/malapropism - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 21 | 1 | 
 | 2022-12-29 | 21 | 1 | 
 | 2022-12-28 | 21 | 1 | 
 | 2022-12-27 | 21 | 1 | 

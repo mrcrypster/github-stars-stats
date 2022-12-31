@@ -1,8 +1,8 @@
 # jvns/pandas-cookbook - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
-☋ Forks: 2201
+☋ Forks: 2200
 
 ★ Stars: 5977
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 5977 | 2200 | 
 | 2022-12-29 | 5977 | 2201 | 
 | 2022-12-28 | 5974 | 2199 | 
 | 2022-12-27 | 5974 | 2199 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-03 | 5946 | 2187 | 
 | 2022-12-02 | 5946 | 2187 | 
 | 2022-12-01 | 5945 | 2186 | 
-| 2022-11-30 | 5942 | 2186 | 
 

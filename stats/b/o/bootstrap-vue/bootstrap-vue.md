@@ -1,10 +1,10 @@
 # bootstrap-vue/bootstrap-vue - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 1901
 
-★ Stars: 14163
+★ Stars: 14162
 
 [Open repository](https://github.com/bootstrap-vue/bootstrap-vue)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 14162 | 1901 | 
 | 2022-12-30 | 14163 | 1901 | 
 | 2022-12-28 | 14159 | 1901 | 
 | 2022-12-27 | 14158 | 1900 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 14130 | 1898 | 
 | 2022-12-03 | 14129 | 1898 | 
 | 2022-12-01 | 14129 | 1898 | 
-| 2022-11-30 | 14128 | 1897 | 
 

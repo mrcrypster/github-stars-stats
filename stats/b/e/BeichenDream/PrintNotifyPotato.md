@@ -1,10 +1,10 @@
 # BeichenDream/PrintNotifyPotato - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 48
 
-★ Stars: 381
+★ Stars: 383
 
 [Open repository](https://github.com/BeichenDream/PrintNotifyPotato)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 383 | 48 | 
 | 2022-12-29 | 381 | 48 | 
 | 2022-12-28 | 378 | 48 | 
 | 2022-12-27 | 378 | 48 | 

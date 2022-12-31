@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 30
 
 ☋ Forks: 555
 
-★ Stars: 1720
+★ Stars: 1723
 
 [Open repository](https://github.com/pret/pokecrystal)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-30 | 1720 | 555 | 
+| 2022-12-30 | 1723 | 555 | 
 | 2022-12-29 | 1720 | 555 | 
 | 2022-12-28 | 1720 | 556 | 
 | 2022-12-27 | 1720 | 555 | 
@@ -39,5 +39,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-03 | 1717 | 553 | 
 | 2022-12-02 | 1715 | 554 | 
 | 2022-12-01 | 1715 | 554 | 
-| 2022-11-30 | 1715 | 554 | 
 

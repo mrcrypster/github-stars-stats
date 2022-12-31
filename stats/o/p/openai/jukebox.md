@@ -1,10 +1,10 @@
 # openai/jukebox - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
-☋ Forks: 995
+☋ Forks: 1000
 
-★ Stars: 5937
+★ Stars: 5942
 
 [Open repository](https://github.com/openai/jukebox)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 5942 | 1000 | 
 | 2022-12-29 | 5937 | 995 | 
 | 2022-12-28 | 5928 | 994 | 
 | 2022-12-27 | 5921 | 994 | 

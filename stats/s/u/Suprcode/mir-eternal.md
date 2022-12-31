@@ -1,6 +1,6 @@
 # Suprcode/mir-eternal - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 98
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 128 | 98 | 
 | 2022-12-29 | 128 | 98 | 
 | 2022-12-28 | 128 | 98 | 
 | 2022-12-27 | 128 | 98 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-04 | 122 | 96 | 
 | 2022-12-02 | 122 | 96 | 
 | 2022-12-01 | 122 | 96 | 
-| 2022-11-30 | 121 | 94 | 
 

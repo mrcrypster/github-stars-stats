@@ -1,6 +1,6 @@
 # ElginDeveloperCommunity/Impressoras - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 26
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 31 | 26 | 
+| 2022-12-30 | 31 | 26 | 
 | 2022-12-29 | 31 | 26 | 
 | 2022-12-28 | 31 | 26 | 
 | 2022-12-27 | 31 | 26 | 
@@ -41,5 +43,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-03 | 28 | 23 | 
 | 2022-12-02 | 28 | 23 | 
 | 2022-12-01 | 27 | 23 | 
-| 2022-11-30 | 27 | 23 | 
 

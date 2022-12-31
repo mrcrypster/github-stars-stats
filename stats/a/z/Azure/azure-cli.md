@@ -1,10 +1,10 @@
 # Azure/azure-cli - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
-☋ Forks: 2394
+☋ Forks: 2395
 
-★ Stars: 3356
+★ Stars: 3358
 
 [Open repository](https://github.com/Azure/azure-cli)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 3358 | 2395 | 
 | 2022-12-29 | 3356 | 2394 | 
 | 2022-12-28 | 3356 | 2393 | 
 | 2022-12-27 | 3356 | 2393 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-04 | 3329 | 2369 | 
 | 2022-12-02 | 3327 | 2368 | 
 | 2022-12-01 | 3325 | 2367 | 
-| 2022-11-30 | 3324 | 2365 | 
 

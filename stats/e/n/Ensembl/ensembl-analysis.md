@@ -1,6 +1,6 @@
 # Ensembl/ensembl-analysis - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 14 | 32 | 
 | 2022-12-30 | 14 | 32 | 
 | 2022-12-29 | 14 | 32 | 
 | 2022-12-28 | 14 | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-03 | 14 | 32 | 
 | 2022-12-02 | 14 | 32 | 
 | 2022-12-01 | 14 | 32 | 
-| 2022-11-30 | 14 | 32 | 
 

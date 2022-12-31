@@ -1,8 +1,8 @@
 # prometheus-operator/kube-prometheus - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
-☋ Forks: 1552
+☋ Forks: 1555
 
 ★ Stars: 4821
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 4821 | 1555 | 
 | 2022-12-29 | 4821 | 1552 | 
 | 2022-12-28 | 4816 | 1547 | 
 | 2022-12-27 | 4815 | 1548 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-03 | 4751 | 1520 | 
 | 2022-12-02 | 4748 | 1520 | 
 | 2022-12-01 | 4746 | 1519 | 
-| 2022-11-30 | 4741 | 1518 | 
 

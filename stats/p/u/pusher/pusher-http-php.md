@@ -1,8 +1,8 @@
 # pusher/pusher-http-php - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
-☋ Forks: 287
+☋ Forks: 288
 
 ★ Stars: 1303
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 1303 | 288 | 
 | 2022-12-29 | 1303 | 287 | 
 | 2022-12-28 | 1303 | 287 | 
 | 2022-12-27 | 1303 | 287 | 

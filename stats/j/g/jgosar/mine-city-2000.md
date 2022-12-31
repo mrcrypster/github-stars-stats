@@ -1,10 +1,10 @@
 # jgosar/mine-city-2000 - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 12
 
-★ Stars: 704
+★ Stars: 705
 
 [Open repository](https://github.com/jgosar/mine-city-2000)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 705 | 12 | 
 | 2022-12-29 | 704 | 12 | 
 | 2022-12-28 | 704 | 12 | 
 | 2022-12-27 | 704 | 12 | 

@@ -1,6 +1,6 @@
 # input-output-hk/plutus-starter - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 93
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 198 | 93 | 
 | 2022-12-29 | 198 | 93 | 
 | 2022-12-28 | 198 | 93 | 
 | 2022-12-27 | 198 | 93 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-04 | 197 | 93 | 
 | 2022-12-02 | 196 | 93 | 
 | 2022-12-01 | 196 | 93 | 
-| 2022-11-30 | 196 | 93 | 
 

@@ -1,10 +1,10 @@
 # eohne/YFinance.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 0
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/eohne/YFinance.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 7 | - | 
 | 2022-12-29 | 6 | - | 
 | 2022-12-28 | 6 | - | 
 | 2022-12-27 | 6 | - | 

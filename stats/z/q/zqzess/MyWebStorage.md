@@ -1,10 +1,10 @@
 # zqzess/MyWebStorage - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 13
 
-★ Stars: 293
+★ Stars: 295
 
 [Open repository](https://github.com/zqzess/MyWebStorage)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 295 | 13 | 
 | 2022-12-29 | 293 | 13 | 
 | 2022-12-28 | 293 | 13 | 
 | 2022-12-27 | 293 | 13 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-04 | 279 | 13 | 
 | 2022-12-02 | 279 | 13 | 
 | 2022-12-01 | 278 | 13 | 
-| 2022-11-30 | 278 | 13 | 
 

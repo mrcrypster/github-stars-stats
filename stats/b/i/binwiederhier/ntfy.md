@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 30
 
 ☋ Forks: 273
 
-★ Stars: 8722
+★ Stars: 8725
 
 [Open repository](https://github.com/binwiederhier/ntfy)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-30 | 8722 | 273 | 
+| 2022-12-30 | 8725 | 273 | 
 | 2022-12-29 | 8719 | 273 | 
 | 2022-12-28 | 8683 | 273 | 
 | 2022-12-27 | 8654 | 270 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-03 | 8243 | 256 | 
 | 2022-12-02 | 8227 | 254 | 
 | 2022-12-01 | 8205 | 253 | 
-| 2022-11-30 | 8181 | 253 | 
 

@@ -1,10 +1,10 @@
 # not-an-aardvark/lucky-commit - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 21
 
-★ Stars: 1088
+★ Stars: 1089
 
 [Open repository](https://github.com/not-an-aardvark/lucky-commit)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 1089 | 21 | 
 | 2022-12-29 | 1088 | 21 | 
 | 2022-12-28 | 1088 | 21 | 
 | 2022-12-27 | 1088 | 21 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-03 | 1076 | 21 | 
 | 2022-12-02 | 1075 | 21 | 
 | 2022-12-01 | 1072 | 21 | 
-| 2022-11-30 | 1067 | 21 | 
 

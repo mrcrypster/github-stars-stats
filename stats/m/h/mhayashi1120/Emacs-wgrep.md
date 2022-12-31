@@ -1,10 +1,10 @@
 # mhayashi1120/Emacs-wgrep - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 42
 
-★ Stars: 429
+★ Stars: 431
 
 [Open repository](https://github.com/mhayashi1120/Emacs-wgrep)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 431 | 42 | 
 | 2022-12-29 | 429 | 42 | 
 | 2022-12-28 | 429 | 42 | 
 | 2022-12-27 | 428 | 42 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-03 | 425 | 42 | 
 | 2022-12-02 | 425 | 42 | 
 | 2022-12-01 | 425 | 42 | 
-| 2022-11-30 | 425 | 42 | 
 

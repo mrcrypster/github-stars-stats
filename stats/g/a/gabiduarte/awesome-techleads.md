@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 30
 
-☋ Forks: 94
+☋ Forks: 95
 
-★ Stars: 1405
+★ Stars: 1419
 
 [Open repository](https://github.com/gabiduarte/awesome-techleads)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-30 | 1405 | 94 | 
+| 2022-12-30 | 1419 | 95 | 
 | 2022-12-29 | 1381 | 92 | 
 

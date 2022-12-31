@@ -1,10 +1,10 @@
 # AlfieJones/theme-toggles - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 2
 
-★ Stars: 222
+★ Stars: 229
 
 [Open repository](https://github.com/AlfieJones/theme-toggles)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 229 | 2 | 
 | 2022-12-29 | 222 | 2 | 
 | 2022-12-28 | 217 | 2 | 
 | 2022-12-27 | 213 | 2 | 

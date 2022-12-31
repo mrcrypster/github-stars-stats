@@ -1,10 +1,10 @@
 # warpdotdev/Warp - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 151
 
-★ Stars: 10318
+★ Stars: 10328
 
 [Open repository](https://github.com/warpdotdev/Warp)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 10328 | 151 | 
 | 2022-12-29 | 10318 | 151 | 
 | 2022-12-28 | 10299 | 151 | 
 | 2022-12-27 | 10288 | 151 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-04 | 9814 | 147 | 
 | 2022-12-02 | 9785 | 147 | 
 | 2022-12-01 | 9745 | 147 | 
-| 2022-11-30 | 9717 | 145 | 
 

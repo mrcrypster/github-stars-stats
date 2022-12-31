@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 30
 
 ☋ Forks: 529
 
-★ Stars: 1969
+★ Stars: 1970
 
 [Open repository](https://github.com/microsoft/dotnet-podcasts)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-30 | 1969 | 529 | 
+| 2022-12-30 | 1970 | 529 | 
 | 2022-12-29 | 1969 | 529 | 
 | 2022-12-28 | 1962 | 527 | 
 | 2022-12-27 | 1959 | 525 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 1875 | 508 | 
 | 2022-12-03 | 1873 | 508 | 
 | 2022-12-02 | 1868 | 507 | 
-| 2022-12-01 | 1864 | 507 | 
 

@@ -1,10 +1,10 @@
 # alikonuk1/Sirius - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 2
 
-★ Stars: 24
+★ Stars: 23
 
 [Open repository](https://github.com/alikonuk1/Sirius)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 23 | 2 | 
 | 2022-12-29 | 24 | 2 | 
 | 2022-12-28 | 24 | 2 | 
 | 2022-12-27 | 24 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-04 | 23 | 2 | 
 | 2022-12-02 | 23 | 2 | 
 | 2022-12-01 | 23 | 2 | 
-| 2022-11-30 | 23 | 2 | 
 

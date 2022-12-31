@@ -1,10 +1,10 @@
 # fwonggh/Bthub - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 65
 
-★ Stars: 908
+★ Stars: 909
 
 [Open repository](https://github.com/fwonggh/Bthub)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 909 | 65 | 
 | 2022-12-29 | 908 | 65 | 
 | 2022-12-28 | 907 | 65 | 
 | 2022-12-27 | 907 | 65 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-03 | 894 | 64 | 
 | 2022-12-02 | 893 | 64 | 
 | 2022-12-01 | 891 | 64 | 
-| 2022-11-30 | 889 | 64 | 
 

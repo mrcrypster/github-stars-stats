@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 30
 
 ☋ Forks: 1
 
-★ Stars: 34
+★ Stars: 39
 
 [Open repository](https://github.com/straight-tamago/NoCameraSound)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-30 | 34 | 1 | 
+| 2022-12-30 | 39 | 1 | 
 | 2022-12-29 | 33 | 1 | 
 

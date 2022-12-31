@@ -1,6 +1,6 @@
 # dropbox/zxcvbn-ios - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 219 | 62 | 
 | 2022-12-29 | 219 | 62 | 
 | 2022-12-28 | 219 | 62 | 
 | 2022-12-27 | 219 | 62 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-04 | 219 | 60 | 
 | 2022-12-03 | 219 | 60 | 
 | 2022-12-02 | 219 | 60 | 
-| 2022-12-01 | 219 | 60 | 
 

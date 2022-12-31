@@ -1,10 +1,10 @@
 # microsoft/FocalNet - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 31
 
-☋ Forks: 34
+☋ Forks: 35
 
-★ Stars: 397
+★ Stars: 398
 
 [Open repository](https://github.com/microsoft/FocalNet)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 398 | 35 | 
 | 2022-12-29 | 397 | 34 | 
 | 2022-12-28 | 394 | 32 | 
 | 2022-12-27 | 393 | 32 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-04 | 380 | 27 | 
 | 2022-12-03 | 379 | 27 | 
 | 2022-12-02 | 376 | 27 | 
-| 2022-11-30 | 375 | 27 | 
 

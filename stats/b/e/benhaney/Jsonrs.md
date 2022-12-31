@@ -1,10 +1,10 @@
 # benhaney/Jsonrs - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 16
 
-★ Stars: 80
+★ Stars: 81
 
 [Open repository](https://github.com/benhaney/Jsonrs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 81 | 16 | 
 | 2022-12-29 | 80 | 16 | 
 | 2022-12-28 | 80 | 16 | 
 | 2022-12-27 | 80 | 16 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-03 | 77 | 16 | 
 | 2022-12-02 | 77 | 16 | 
 | 2022-12-01 | 77 | 16 | 
-| 2022-11-30 | 76 | 16 | 
 

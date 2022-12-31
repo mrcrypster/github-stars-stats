@@ -1,10 +1,10 @@
 # microsoft/GSL - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
-☋ Forks: 696
+☋ Forks: 697
 
-★ Stars: 5273
+★ Stars: 5275
 
 [Open repository](https://github.com/microsoft/GSL)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 5275 | 697 | 
 | 2022-12-29 | 5273 | 696 | 
 | 2022-12-28 | 5273 | 696 | 
 | 2022-12-27 | 5272 | 695 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-03 | 5248 | 690 | 
 | 2022-12-02 | 5247 | 691 | 
 | 2022-12-01 | 5247 | 691 | 
-| 2022-11-30 | 5246 | 691 | 
 

@@ -1,10 +1,10 @@
 # abhisheknaiidu/awesome-github-profile-readme - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 31
 
-☋ Forks: 2843
+☋ Forks: 2849
 
-★ Stars: 15956
+★ Stars: 15977
 
 [Open repository](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 15977 | 2849 | 
 | 2022-12-29 | 15956 | 2843 | 
 | 2022-12-28 | 15935 | 2841 | 
 | 2022-12-27 | 15917 | 2841 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-03 | 15600 | 2772 | 
 | 2022-12-02 | 15578 | 2773 | 
 | 2022-12-01 | 15548 | 2772 | 
-| 2022-11-30 | 15517 | 2764 | 
 

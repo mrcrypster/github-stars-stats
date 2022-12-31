@@ -1,10 +1,10 @@
 # purescript/registry - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 7
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/purescript/registry)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 23 | 7 | 
 | 2022-12-29 | 22 | 7 | 
 | 2022-12-28 | 22 | 7 | 
 | 2022-12-27 | 22 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-04 | 21 | 5 | 
 | 2022-12-03 | 21 | 5 | 
 | 2022-12-02 | 21 | 5 | 
-| 2022-11-30 | 21 | 5 | 
 

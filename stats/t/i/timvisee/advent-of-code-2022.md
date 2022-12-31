@@ -1,10 +1,10 @@
 # timvisee/advent-of-code-2022 - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 1
 
-★ Stars: 92
+★ Stars: 94
 
 [Open repository](https://github.com/timvisee/advent-of-code-2022)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 94 | 1 | 
 | 2022-12-29 | 92 | 1 | 
 | 2022-12-28 | 92 | 1 | 
 | 2022-12-27 | 91 | 1 | 

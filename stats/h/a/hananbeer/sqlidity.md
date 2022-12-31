@@ -1,10 +1,10 @@
 # hananbeer/sqlidity - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 4
 
-★ Stars: 82
+★ Stars: 83
 
 [Open repository](https://github.com/hananbeer/sqlidity)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 83 | 4 | 
 | 2022-12-29 | 82 | 4 | 
 | 2022-12-28 | 78 | 3 | 
 | 2022-12-27 | 62 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-03 | 21 | 1 | 
 | 2022-12-02 | 21 | 1 | 
 | 2022-12-01 | 21 | 1 | 
-| 2022-11-30 | 21 | 1 | 
 

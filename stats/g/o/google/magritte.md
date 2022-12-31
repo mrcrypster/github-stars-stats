@@ -1,10 +1,10 @@
 # google/magritte - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 11
 
-★ Stars: 335
+★ Stars: 343
 
 [Open repository](https://github.com/google/magritte)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 343 | 11 | 
 | 2022-12-29 | 335 | 11 | 
 | 2022-12-28 | 327 | 10 | 
 | 2022-12-27 | 302 | 10 | 

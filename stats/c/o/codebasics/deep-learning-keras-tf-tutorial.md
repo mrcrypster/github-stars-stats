@@ -1,10 +1,10 @@
 # codebasics/deep-learning-keras-tf-tutorial - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
-☋ Forks: 1460
+☋ Forks: 1461
 
-★ Stars: 529
+★ Stars: 530
 
 [Open repository](https://github.com/codebasics/deep-learning-keras-tf-tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 530 | 1461 | 
 | 2022-12-29 | 529 | 1460 | 
 | 2022-12-28 | 528 | 1458 | 
 | 2022-12-27 | 528 | 1455 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-03 | 521 | 1419 | 
 | 2022-12-02 | 521 | 1415 | 
 | 2022-12-01 | 520 | 1413 | 
-| 2022-11-30 | 520 | 1412 | 
 

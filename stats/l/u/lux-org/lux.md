@@ -1,6 +1,6 @@
 # lux-org/lux - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 338
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 4343 | 338 | 
 | 2022-12-29 | 4343 | 338 | 
 | 2022-12-28 | 4342 | 338 | 
 | 2022-12-27 | 4340 | 337 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-04 | 4313 | 336 | 
 | 2022-12-03 | 4311 | 336 | 
 | 2022-12-01 | 4305 | 336 | 
-| 2022-11-30 | 4303 | 336 | 
 

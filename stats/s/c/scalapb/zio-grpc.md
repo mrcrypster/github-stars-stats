@@ -1,10 +1,10 @@
 # scalapb/zio-grpc - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 65
 
-★ Stars: 220
+★ Stars: 221
 
 [Open repository](https://github.com/scalapb/zio-grpc)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 221 | 65 | 
 | 2022-12-29 | 220 | 65 | 
 | 2022-12-28 | 220 | 65 | 
 | 2022-12-27 | 220 | 65 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-03 | 217 | 62 | 
 | 2022-12-02 | 216 | 62 | 
 | 2022-12-01 | 216 | 62 | 
-| 2022-11-30 | 215 | 62 | 
 

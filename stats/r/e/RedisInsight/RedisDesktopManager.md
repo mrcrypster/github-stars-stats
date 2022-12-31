@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 30
 
 ☋ Forks: 3221
 
-★ Stars: 21285
+★ Stars: 21289
 
 [Open repository](https://github.com/RedisInsight/RedisDesktopManager)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-30 | 21285 | 3221 | 
+| 2022-12-30 | 21289 | 3221 | 
 | 2022-12-29 | 21284 | 3221 | 
 

@@ -1,10 +1,10 @@
 # red/red - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 414
 
-★ Stars: 5001
+★ Stars: 5003
 
 [Open repository](https://github.com/red/red)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 5003 | 414 | 
 | 2022-12-29 | 5001 | 414 | 
 | 2022-12-28 | 4999 | 414 | 
 | 2022-12-27 | 4998 | 414 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-03 | 4981 | 413 | 
 | 2022-12-02 | 4981 | 413 | 
 | 2022-12-01 | 4978 | 413 | 
-| 2022-11-30 | 4979 | 413 | 
 

@@ -1,10 +1,10 @@
 # ColauttiLab/RCrashCourse_Book - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
-☋ Forks: 19
+☋ Forks: 20
 
-★ Stars: 126
+★ Stars: 137
 
 [Open repository](https://github.com/ColauttiLab/RCrashCourse_Book)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 137 | 20 | 
 | 2022-12-29 | 126 | 19 | 
 | 2022-12-28 | 126 | 19 | 
 | 2022-12-27 | 125 | 19 | 

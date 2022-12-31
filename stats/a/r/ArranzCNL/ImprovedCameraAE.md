@@ -1,10 +1,10 @@
 # ArranzCNL/ImprovedCameraAE - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 7
 
-★ Stars: 58
+★ Stars: 59
 
 [Open repository](https://github.com/ArranzCNL/ImprovedCameraAE)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 59 | 7 | 
 | 2022-12-29 | 58 | 7 | 
 | 2022-12-28 | 58 | 7 | 
 | 2022-12-27 | 58 | 7 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-04 | 57 | 7 | 
 | 2022-12-03 | 57 | 7 | 
 | 2022-12-02 | 57 | 7 | 
-| 2022-12-01 | 57 | 7 | 
 

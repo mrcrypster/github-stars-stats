@@ -1,6 +1,6 @@
 # nvim-lua/nvim-package-specification - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 143 | 2 | 
 | 2022-12-29 | 143 | 2 | 
 | 2022-12-28 | 143 | 2 | 
 | 2022-12-27 | 143 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-04 | 142 | 2 | 
 | 2022-12-02 | 142 | 2 | 
 | 2022-12-01 | 142 | 2 | 
-| 2022-11-30 | 142 | 2 | 
 

@@ -1,10 +1,10 @@
 # vincentbernat/akvorado - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 30
 
-★ Stars: 602
+★ Stars: 603
 
 [Open repository](https://github.com/vincentbernat/akvorado)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 603 | 30 | 
 | 2022-12-29 | 602 | 30 | 
 | 2022-12-28 | 600 | 30 | 
 | 2022-12-27 | 599 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-03 | 555 | 24 | 
 | 2022-12-02 | 554 | 24 | 
 | 2022-12-01 | 551 | 24 | 
-| 2022-11-30 | 549 | 24 | 
 

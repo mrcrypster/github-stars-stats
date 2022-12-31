@@ -1,10 +1,10 @@
 # decafsucks/decafsucks - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 0
 
-★ Stars: 39
+★ Stars: 40
 
 [Open repository](https://github.com/decafsucks/decafsucks)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 40 | - | 
 | 2022-12-29 | 39 | - | 
 | 2022-12-28 | 39 | - | 
 | 2022-12-27 | 39 | - | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-03 | 34 | - | 
 | 2022-12-02 | 34 | - | 
 | 2022-12-01 | 31 | - | 
-| 2022-11-30 | 31 | - | 
 

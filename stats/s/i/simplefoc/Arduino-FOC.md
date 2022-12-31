@@ -1,10 +1,10 @@
 # simplefoc/Arduino-FOC - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 346
 
-★ Stars: 1310
+★ Stars: 1311
 
 [Open repository](https://github.com/simplefoc/Arduino-FOC)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 1311 | 346 | 
 | 2022-12-29 | 1310 | 346 | 
 | 2022-12-28 | 1308 | 345 | 
 | 2022-12-27 | 1305 | 344 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-04 | 1287 | 340 | 
 | 2022-12-03 | 1286 | 340 | 
 | 2022-12-02 | 1287 | 340 | 
-| 2022-12-01 | 1283 | 341 | 
 

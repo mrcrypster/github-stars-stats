@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 30
 
 ☋ Forks: 9
 
-★ Stars: 91
+★ Stars: 92
 
 [Open repository](https://github.com/drivelineresearch/openbiomechanics)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-30 | 91 | 9 | 
+| 2022-12-30 | 92 | 9 | 
 | 2022-12-29 | 91 | 9 | 
 | 2022-12-28 | 84 | 8 | 
 | 2022-12-27 | 83 | 8 | 

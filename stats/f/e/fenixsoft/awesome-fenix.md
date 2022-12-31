@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 30
 
-☋ Forks: 824
+☋ Forks: 825
 
-★ Stars: 6882
+★ Stars: 6881
 
 [Open repository](https://github.com/fenixsoft/awesome-fenix)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-30 | 6882 | 824 | 
+| 2022-12-30 | 6881 | 825 | 
 | 2022-12-29 | 6881 | 824 | 
 | 2022-12-28 | 6864 | 823 | 
 | 2022-12-27 | 6853 | 821 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-03 | 6791 | 810 | 
 | 2022-12-02 | 6789 | 810 | 
 | 2022-12-01 | 6781 | 808 | 
-| 2022-11-30 | 6776 | 808 | 
 

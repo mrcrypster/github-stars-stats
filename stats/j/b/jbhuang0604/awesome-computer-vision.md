@@ -1,10 +1,10 @@
 # jbhuang0604/awesome-computer-vision - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 3963
 
-★ Stars: 17567
+★ Stars: 17572
 
 [Open repository](https://github.com/jbhuang0604/awesome-computer-vision)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 17572 | 3963 | 
 | 2022-12-29 | 17567 | 3963 | 
 | 2022-12-28 | 17567 | 3961 | 
 | 2022-12-27 | 17564 | 3961 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-03 | 17472 | 3952 | 
 | 2022-12-02 | 17468 | 3953 | 
 | 2022-12-01 | 17461 | 3953 | 
-| 2022-11-30 | 17458 | 3952 | 
 

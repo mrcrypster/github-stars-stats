@@ -1,8 +1,8 @@
 # maticnetwork/bor - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 31
 
-☋ Forks: 293
+☋ Forks: 292
 
 ★ Stars: 500
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 500 | 292 | 
 | 2022-12-29 | 500 | 293 | 
 | 2022-12-28 | 499 | 292 | 
 | 2022-12-27 | 498 | 293 | 

@@ -1,10 +1,10 @@
 # uga-rosa/ccc.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 8
 
-★ Stars: 328
+★ Stars: 329
 
 [Open repository](https://github.com/uga-rosa/ccc.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 329 | 8 | 
 | 2022-12-29 | 328 | 8 | 
 | 2022-12-28 | 327 | 8 | 
 | 2022-12-27 | 327 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-04 | 290 | 6 | 
 | 2022-12-02 | 291 | 6 | 
 | 2022-12-01 | 288 | 6 | 
-| 2022-11-30 | 287 | 6 | 
 

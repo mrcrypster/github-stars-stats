@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 30
 
 ☋ Forks: 13
 
-★ Stars: 25
+★ Stars: 27
 
 [Open repository](https://github.com/geniuskai/serialporttools)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-30 | 25 | 13 | 
+| 2022-12-30 | 27 | 13 | 
 | 2022-12-29 | 25 | 13 | 
 

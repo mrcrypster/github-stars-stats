@@ -1,10 +1,10 @@
 # Goddard-Fortran-Ecosystem/fArgParse - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 5
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/Goddard-Fortran-Ecosystem/fArgParse)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 18 | 5 | 
 | 2022-12-30 | 17 | 5 | 
 | 2022-12-28 | 17 | 5 | 
 | 2022-12-27 | 17 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 17 | 6 | 
 | 2022-12-03 | 17 | 6 | 
 | 2022-12-01 | 17 | 6 | 
-| 2022-11-30 | 17 | 6 | 
 

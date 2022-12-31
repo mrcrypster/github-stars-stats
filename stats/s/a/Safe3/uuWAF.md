@@ -1,10 +1,10 @@
 # Safe3/uuWAF - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 22
 
-★ Stars: 148
+★ Stars: 149
 
 [Open repository](https://github.com/Safe3/uuWAF)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 149 | 22 | 
 | 2022-12-29 | 148 | 22 | 
 | 2022-12-28 | 147 | 22 | 
 | 2022-12-27 | 147 | 22 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-04 | 116 | 18 | 
 | 2022-12-02 | 115 | 18 | 
 | 2022-12-01 | 114 | 18 | 
-| 2022-11-30 | 113 | 18 | 
 

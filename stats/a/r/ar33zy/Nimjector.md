@@ -1,10 +1,10 @@
 # ar33zy/Nimjector - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 1
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/ar33zy/Nimjector)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 31 | 1 | 
 | 2022-12-29 | 30 | 1 | 
 | 2022-12-28 | 30 | 1 | 
 | 2022-12-27 | 30 | - | 

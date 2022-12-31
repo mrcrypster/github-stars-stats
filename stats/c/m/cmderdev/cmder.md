@@ -1,6 +1,6 @@
 # cmderdev/cmder - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 2008
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 24324 | 2008 | 
 | 2022-12-29 | 24324 | 2008 | 
 | 2022-12-28 | 24324 | 2006 | 
 | 2022-12-27 | 24322 | 2006 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-03 | 24246 | 1989 | 
 | 2022-12-02 | 24237 | 1990 | 
 | 2022-12-01 | 24229 | 1989 | 
-| 2022-11-30 | 24224 | 1989 | 
 

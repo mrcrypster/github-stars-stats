@@ -1,6 +1,6 @@
 # codeedu/imersao8 - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 165
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 201 | 165 | 
 | 2022-12-29 | 201 | 165 | 
 | 2022-12-28 | 201 | 165 | 
 | 2022-12-27 | 201 | 165 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-04 | 201 | 166 | 
 | 2022-12-03 | 201 | 166 | 
 | 2022-12-02 | 201 | 166 | 
-| 2022-12-01 | 201 | 166 | 
 

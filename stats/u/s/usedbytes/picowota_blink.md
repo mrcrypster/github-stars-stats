@@ -1,6 +1,6 @@
 # usedbytes/picowota_blink - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 10 | - | 
 | 2022-12-29 | 10 | - | 
 | 2022-12-28 | 10 | - | 
 | 2022-12-27 | 10 | - | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-04 | 9 | - | 
 | 2022-12-02 | 9 | - | 
 | 2022-12-01 | 9 | - | 
-| 2022-11-30 | 9 | - | 
 

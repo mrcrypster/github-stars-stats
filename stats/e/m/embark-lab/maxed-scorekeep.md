@@ -1,6 +1,6 @@
 # embark-lab/maxed-scorekeep - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | - | 6 | 
 | 2022-12-29 | - | 6 | 
 | 2022-12-28 | - | 6 | 
 | 2022-12-27 | - | 6 | 

@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 30
 
 ☋ Forks: 54
 
-★ Stars: 1941
+★ Stars: 1956
 
 [Open repository](https://github.com/coroot/coroot)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-30 | 1941 | 54 | 
+| 2022-12-30 | 1956 | 54 | 
 | 2022-12-29 | 1937 | 54 | 
 | 2022-12-28 | 1871 | 54 | 
 | 2022-12-27 | 1763 | 47 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-03 | 1684 | 44 | 
 | 2022-12-02 | 1673 | 43 | 
 | 2022-12-01 | 1672 | 43 | 
-| 2022-11-30 | 1668 | 43 | 
 

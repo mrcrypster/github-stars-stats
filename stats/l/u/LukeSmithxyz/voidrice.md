@@ -1,6 +1,6 @@
 # LukeSmithxyz/voidrice - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 1204
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 3833 | 1204 | 
 | 2022-12-29 | 3833 | 1204 | 
 | 2022-12-28 | 3831 | 1202 | 
 | 2022-12-27 | 3830 | 1203 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-03 | 3814 | 1196 | 
 | 2022-12-02 | 3814 | 1197 | 
 | 2022-12-01 | 3812 | 1197 | 
-| 2022-11-30 | 3809 | 1197 | 
 

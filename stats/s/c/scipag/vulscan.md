@@ -1,10 +1,10 @@
 # scipag/vulscan - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 620
 
-★ Stars: 2777
+★ Stars: 2778
 
 [Open repository](https://github.com/scipag/vulscan)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 2778 | 620 | 
 | 2022-12-30 | 2777 | 620 | 
 | 2022-12-29 | 2777 | 620 | 
 | 2022-12-28 | 2775 | 619 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-03 | 2752 | 616 | 
 | 2022-12-02 | 2752 | 616 | 
 | 2022-12-01 | 2752 | 616 | 
-| 2022-11-30 | 2752 | 615 | 
 

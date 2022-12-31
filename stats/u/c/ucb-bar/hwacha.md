@@ -1,6 +1,6 @@
 # ucb-bar/hwacha - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 113 | 36 | 
 | 2022-12-29 | 113 | 36 | 
 | 2022-12-28 | 113 | 36 | 
 | 2022-12-27 | 112 | 36 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-03 | 110 | 36 | 
 | 2022-12-02 | 110 | 36 | 
 | 2022-12-01 | 110 | 35 | 
-| 2022-11-30 | 110 | 35 | 
 

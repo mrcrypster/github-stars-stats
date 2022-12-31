@@ -1,6 +1,6 @@
 # LC-John/Fashion-MNIST - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 24 | 12 | 
 | 2022-12-29 | 24 | 12 | 
 | 2022-12-28 | 24 | 12 | 
 | 2022-12-27 | 24 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-04 | 24 | 12 | 
 | 2022-12-03 | 24 | 12 | 
 | 2022-12-02 | 24 | 12 | 
-| 2022-12-01 | 24 | 12 | 
 

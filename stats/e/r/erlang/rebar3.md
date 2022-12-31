@@ -1,10 +1,10 @@
 # erlang/rebar3 - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 490
 
-★ Stars: 1499
+★ Stars: 1500
 
 [Open repository](https://github.com/erlang/rebar3)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 1500 | 490 | 
 | 2022-12-29 | 1499 | 490 | 
 | 2022-12-28 | 1499 | 490 | 
 | 2022-12-27 | 1499 | 490 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-03 | 1492 | 490 | 
 | 2022-12-02 | 1492 | 490 | 
 | 2022-12-01 | 1492 | 490 | 
-| 2022-11-30 | 1492 | 490 | 
 

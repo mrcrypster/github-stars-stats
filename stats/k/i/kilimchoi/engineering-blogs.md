@@ -1,10 +1,10 @@
 # kilimchoi/engineering-blogs - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 784
 
-★ Stars: 22612
+★ Stars: 22619
 
 [Open repository](https://github.com/kilimchoi/engineering-blogs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 22619 | 784 | 
 | 2022-12-29 | 22612 | 784 | 
 | 2022-12-28 | 22603 | 782 | 
 | 2022-12-27 | 22584 | 781 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-04 | 22495 | 770 | 
 | 2022-12-03 | 22489 | 770 | 
 | 2022-12-02 | 22484 | 769 | 
-| 2022-11-30 | 22474 | 769 | 
 

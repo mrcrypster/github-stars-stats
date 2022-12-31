@@ -1,6 +1,6 @@
 # SixArm/unix-shell-script-tactics - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 249 | 7 | 
 | 2022-12-30 | 249 | 7 | 
 | 2022-12-28 | 250 | 7 | 
 | 2022-12-27 | 250 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-03 | 249 | 7 | 
 | 2022-12-02 | 249 | 7 | 
 | 2022-12-01 | 249 | 7 | 
-| 2022-11-30 | 249 | 7 | 
 

@@ -1,8 +1,8 @@
 # pocketbase/site - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
-☋ Forks: 10
+☋ Forks: 9
 
 ★ Stars: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 8 | 9 | 
 | 2022-12-29 | 8 | 10 | 
 | 2022-12-28 | 8 | 10 | 
 | 2022-12-27 | 7 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-03 | 3 | 4 | 
 | 2022-12-02 | 3 | 4 | 
 | 2022-12-01 | 3 | 4 | 
-| 2022-11-30 | 3 | 4 | 
 

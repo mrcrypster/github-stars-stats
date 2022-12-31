@@ -1,6 +1,6 @@
 # alfredbaudisch/GodotShaderCollection - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 14 | 2 | 
 | 2022-12-30 | 14 | 2 | 
 | 2022-12-28 | 14 | 2 | 
 | 2022-12-27 | 14 | 2 | 

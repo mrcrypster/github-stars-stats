@@ -1,10 +1,10 @@
 # alyssaxuu/ecosnap - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
-☋ Forks: 4
+☋ Forks: 3
 
-★ Stars: 132
+★ Stars: 135
 
 [Open repository](https://github.com/alyssaxuu/ecosnap)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 135 | 3 | 
 | 2022-12-29 | 132 | 4 | 
 | 2022-12-28 | 130 | 3 | 
 | 2022-12-27 | 128 | 3 | 

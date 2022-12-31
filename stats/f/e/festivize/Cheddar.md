@@ -1,10 +1,10 @@
 # festivize/Cheddar - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
-☋ Forks: 25
+☋ Forks: 28
 
-★ Stars: 214
+★ Stars: 227
 
 [Open repository](https://github.com/festivize/Cheddar)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 227 | 28 | 
 | 2022-12-29 | 214 | 25 | 
 | 2022-12-28 | 203 | 24 | 
 | 2022-12-27 | 185 | 23 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-04 | 159 | 19 | 
 | 2022-12-03 | 159 | 19 | 
 | 2022-12-01 | 158 | 19 | 
-| 2022-11-30 | 158 | 19 | 
 

@@ -1,10 +1,10 @@
 # abhimanyu003/sttr - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 28
 
-★ Stars: 631
+★ Stars: 632
 
 [Open repository](https://github.com/abhimanyu003/sttr)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 632 | 28 | 
 | 2022-12-29 | 631 | 28 | 
 | 2022-12-28 | 631 | 28 | 
 | 2022-12-27 | 629 | 28 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-04 | 621 | 27 | 
 | 2022-12-03 | 621 | 27 | 
 | 2022-12-01 | 618 | 27 | 
-| 2022-11-30 | 617 | 27 | 
 

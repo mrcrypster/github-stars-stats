@@ -1,6 +1,6 @@
 # oslabs-beta/colada - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 81 | 12 | 
 | 2022-12-29 | 81 | 12 | 
 | 2022-12-28 | 81 | 12 | 
 | 2022-12-27 | 81 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-04 | 80 | 12 | 
 | 2022-12-02 | 80 | 12 | 
 | 2022-12-01 | 80 | 12 | 
-| 2022-11-30 | 80 | 12 | 
 

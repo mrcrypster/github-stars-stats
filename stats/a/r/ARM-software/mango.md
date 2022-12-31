@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 30
 
 ☋ Forks: 35
 
-★ Stars: 243
+★ Stars: 245
 
 [Open repository](https://github.com/ARM-software/mango)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-30 | 243 | 35 | 
+| 2022-12-30 | 245 | 35 | 
 | 2022-12-29 | 241 | 35 | 
 

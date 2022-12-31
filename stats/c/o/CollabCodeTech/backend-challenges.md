@@ -1,10 +1,10 @@
 # CollabCodeTech/backend-challenges - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 392
 
-★ Stars: 5125
+★ Stars: 5127
 
 [Open repository](https://github.com/CollabCodeTech/backend-challenges)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 5127 | 392 | 
 | 2022-12-29 | 5125 | 392 | 
 | 2022-12-28 | 5125 | 392 | 
 | 2022-12-27 | 5123 | 392 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-03 | 5088 | 389 | 
 | 2022-12-02 | 5087 | 389 | 
 | 2022-12-01 | 5082 | 389 | 
-| 2022-11-30 | 5079 | 389 | 
 

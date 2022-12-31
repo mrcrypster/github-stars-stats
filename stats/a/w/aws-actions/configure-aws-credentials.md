@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 30
 
-☋ Forks: 337
+☋ Forks: 336
 
-★ Stars: 1548
+★ Stars: 1550
 
 [Open repository](https://github.com/aws-actions/configure-aws-credentials)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-30 | 1548 | 337 | 
+| 2022-12-30 | 1550 | 336 | 
 | 2022-12-29 | 1548 | 337 | 
 | 2022-12-28 | 1546 | 336 | 
 | 2022-12-27 | 1542 | 336 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-03 | 1518 | 326 | 
 | 2022-12-02 | 1518 | 325 | 
 | 2022-12-01 | 1516 | 325 | 
-| 2022-11-30 | 1515 | 324 | 
 

@@ -1,6 +1,6 @@
 # ExpLangcn/Aopo - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 326 | 58 | 
 | 2022-12-30 | 326 | 58 | 
 | 2022-12-28 | 326 | 58 | 
 | 2022-12-27 | 325 | 58 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 312 | 56 | 
 | 2022-12-03 | 312 | 56 | 
 | 2022-12-01 | 312 | 56 | 
-| 2022-11-30 | 312 | 56 | 
 

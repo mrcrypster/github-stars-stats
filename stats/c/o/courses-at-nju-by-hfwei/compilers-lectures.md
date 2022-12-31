@@ -1,10 +1,10 @@
 # courses-at-nju-by-hfwei/compilers-lectures - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 15
 
-★ Stars: 98
+★ Stars: 99
 
 [Open repository](https://github.com/courses-at-nju-by-hfwei/compilers-lectures)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 99 | 15 | 
 | 2022-12-29 | 98 | 15 | 
 | 2022-12-28 | 98 | 15 | 
 | 2022-12-27 | 98 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-04 | 94 | 16 | 
 | 2022-12-03 | 94 | 16 | 
 | 2022-12-01 | 94 | 16 | 
-| 2022-11-30 | 94 | 16 | 
 

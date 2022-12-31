@@ -1,10 +1,10 @@
 # SnapKit/SnapKit - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 1915
 
-★ Stars: 19069
+★ Stars: 19068
 
 [Open repository](https://github.com/SnapKit/SnapKit)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 19068 | 1915 | 
 | 2022-12-29 | 19069 | 1915 | 
 | 2022-12-28 | 19065 | 1915 | 
 | 2022-12-27 | 19064 | 1915 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-03 | 19016 | 1917 | 
 | 2022-12-02 | 19015 | 1918 | 
 | 2022-12-01 | 19015 | 1917 | 
-| 2022-11-30 | 19013 | 1917 | 
 

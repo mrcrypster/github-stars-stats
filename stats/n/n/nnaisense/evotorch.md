@@ -1,10 +1,10 @@
 # nnaisense/evotorch - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 48
 
-★ Stars: 755
+★ Stars: 758
 
 [Open repository](https://github.com/nnaisense/evotorch)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 758 | 48 | 
 | 2022-12-29 | 755 | 48 | 
 | 2022-12-28 | 755 | 48 | 
 | 2022-12-27 | 755 | 48 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-04 | 739 | 45 | 
 | 2022-12-02 | 739 | 45 | 
 | 2022-12-01 | 737 | 45 | 
-| 2022-11-30 | 737 | 45 | 
 

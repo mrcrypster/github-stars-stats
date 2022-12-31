@@ -1,6 +1,6 @@
 # emetdas/Youtube-code - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 70
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 20 | 70 | 
 | 2022-12-30 | 20 | 70 | 
 | 2022-12-29 | 20 | 69 | 
 | 2022-12-27 | 20 | 69 | 

@@ -1,10 +1,10 @@
 # TheAlgorithms/C - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
-☋ Forks: 3879
+☋ Forks: 3877
 
-★ Stars: 15232
+★ Stars: 15237
 
 [Open repository](https://github.com/TheAlgorithms/C)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 15237 | 3877 | 
 | 2022-12-29 | 15232 | 3879 | 
 | 2022-12-28 | 15224 | 3878 | 
 | 2022-12-27 | 15218 | 3878 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-03 | 15089 | 3863 | 
 | 2022-12-02 | 15082 | 3861 | 
 | 2022-12-01 | 15075 | 3862 | 
-| 2022-11-30 | 15068 | 3858 | 
 

@@ -1,6 +1,6 @@
 # barryvdh/laravel-dompdf - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 875
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 5638 | 875 | 
+| 2022-12-30 | 5638 | 875 | 
 | 2022-12-29 | 5638 | 875 | 
 | 2022-12-28 | 5638 | 875 | 
 | 2022-12-27 | 5637 | 875 | 
@@ -40,5 +42,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-03 | 5602 | 873 | 
 | 2022-12-02 | 5601 | 875 | 
 | 2022-12-01 | 5600 | 874 | 
-| 2022-11-30 | 5592 | 874 | 
 

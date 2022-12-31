@@ -1,10 +1,10 @@
 # tinloaf/org-incoming - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 2
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/tinloaf/org-incoming)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 17 | 2 | 
 | 2022-12-29 | 16 | 2 | 
 | 2022-12-28 | 16 | 2 | 
 | 2022-12-27 | 16 | 2 | 

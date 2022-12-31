@@ -1,8 +1,8 @@
 # KaTeX/KaTeX - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
-☋ Forks: 1094
+☋ Forks: 1095
 
 ★ Stars: 16104
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 16104 | 1095 | 
 | 2022-12-29 | 16104 | 1094 | 
 | 2022-12-28 | 16098 | 1093 | 
 | 2022-12-27 | 16097 | 1091 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-04 | 16034 | 1088 | 
 | 2022-12-03 | 16034 | 1088 | 
 | 2022-12-01 | 16031 | 1088 | 
-| 2022-11-30 | 16025 | 1088 | 
 

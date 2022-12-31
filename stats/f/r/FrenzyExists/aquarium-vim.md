@@ -1,6 +1,6 @@
 # FrenzyExists/aquarium-vim - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 206 | 12 | 
 | 2022-12-29 | 206 | 12 | 
 | 2022-12-28 | 203 | 12 | 
 | 2022-12-27 | 203 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-04 | 200 | 11 | 
 | 2022-12-03 | 200 | 11 | 
 | 2022-12-01 | 198 | 11 | 
-| 2022-11-30 | 198 | 10 | 
 

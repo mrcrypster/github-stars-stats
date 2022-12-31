@@ -1,10 +1,10 @@
 # amix/vimrc - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
-☋ Forks: 7102
+☋ Forks: 7103
 
-★ Stars: 28268
+★ Stars: 28271
 
 [Open repository](https://github.com/amix/vimrc)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 28271 | 7103 | 
 | 2022-12-29 | 28268 | 7102 | 
 | 2022-12-28 | 28268 | 7101 | 
 | 2022-12-27 | 28268 | 7101 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-03 | 28158 | 7088 | 
 | 2022-12-02 | 28155 | 7088 | 
 | 2022-12-01 | 28148 | 7084 | 
-| 2022-11-30 | 28147 | 7084 | 
 

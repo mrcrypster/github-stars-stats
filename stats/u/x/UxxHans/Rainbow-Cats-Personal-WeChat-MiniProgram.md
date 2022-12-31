@@ -1,10 +1,10 @@
 # UxxHans/Rainbow-Cats-Personal-WeChat-MiniProgram - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 252
 
-★ Stars: 893
+★ Stars: 894
 
 [Open repository](https://github.com/UxxHans/Rainbow-Cats-Personal-WeChat-MiniProgram)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 894 | 252 | 
 | 2022-12-30 | 893 | 252 | 
 | 2022-12-29 | 891 | 252 | 
 | 2022-12-27 | 890 | 252 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-03 | 869 | 246 | 
 | 2022-12-02 | 868 | 246 | 
 | 2022-12-01 | 868 | 246 | 
-| 2022-11-30 | 868 | 246 | 
 

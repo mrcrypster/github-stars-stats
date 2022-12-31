@@ -1,6 +1,6 @@
 # game-lecture/2DGP - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 5 | 27 | 
 | 2022-12-29 | 5 | 27 | 
 | 2022-12-28 | 5 | 27 | 
 | 2022-12-27 | 5 | 27 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-04 | 6 | 28 | 
 | 2022-12-02 | 6 | 28 | 
 | 2022-12-01 | 6 | 28 | 
-| 2022-11-30 | 6 | 28 | 
 

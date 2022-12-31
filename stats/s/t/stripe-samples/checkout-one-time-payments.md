@@ -1,10 +1,10 @@
 # stripe-samples/checkout-one-time-payments - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 398
 
-★ Stars: 654
+★ Stars: 655
 
 [Open repository](https://github.com/stripe-samples/checkout-one-time-payments)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 655 | 398 | 
 | 2022-12-29 | 654 | 398 | 
 | 2022-12-28 | 654 | 397 | 
 | 2022-12-27 | 654 | 397 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-04 | 652 | 394 | 
 | 2022-12-03 | 652 | 394 | 
 | 2022-12-01 | 652 | 394 | 
-| 2022-11-30 | 652 | 396 | 
 

@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 30
 
 ☋ Forks: 538
 
-★ Stars: 6712
+★ Stars: 6714
 
 [Open repository](https://github.com/Baiyuetribe/paper2gui)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-30 | 6712 | 538 | 
+| 2022-12-30 | 6714 | 538 | 
 | 2022-12-29 | 6711 | 538 | 
 | 2022-12-28 | 6699 | 537 | 
 | 2022-12-27 | 6676 | 534 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-03 | 6535 | 514 | 
 | 2022-12-02 | 6524 | 512 | 
 | 2022-12-01 | 6503 | 509 | 
-| 2022-11-30 | 6492 | 508 | 
 

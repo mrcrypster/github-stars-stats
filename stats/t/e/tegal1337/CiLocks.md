@@ -1,10 +1,10 @@
 # tegal1337/CiLocks - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 244
 
-★ Stars: 1150
+★ Stars: 1156
 
 [Open repository](https://github.com/tegal1337/CiLocks)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 1156 | 244 | 
+| 2022-12-30 | 1156 | 244 | 
 | 2022-12-29 | 1150 | 244 | 
 | 2022-12-28 | 1145 | 241 | 
 | 2022-12-27 | 1141 | 241 | 
@@ -40,5 +42,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-03 | 1094 | 234 | 
 | 2022-12-02 | 1092 | 234 | 
 | 2022-12-01 | 1089 | 234 | 
-| 2022-11-30 | 1087 | 232 | 
 

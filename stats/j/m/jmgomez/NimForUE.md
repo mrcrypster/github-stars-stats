@@ -1,6 +1,6 @@
 # jmgomez/NimForUE - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 9
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 153 | 9 | 
+| 2022-12-30 | 153 | 9 | 
 | 2022-12-29 | 153 | 9 | 
 | 2022-12-28 | 151 | 9 | 
 | 2022-12-27 | 151 | 9 | 
@@ -39,5 +41,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-04 | 124 | 6 | 
 | 2022-12-03 | 123 | 6 | 
 | 2022-12-01 | 123 | 6 | 
-| 2022-11-30 | 122 | 6 | 
 

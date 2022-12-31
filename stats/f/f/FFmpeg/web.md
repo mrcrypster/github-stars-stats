@@ -1,6 +1,6 @@
 # FFmpeg/web - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 86
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 212 | 86 | 
 | 2022-12-30 | 212 | 86 | 
 | 2022-12-29 | 212 | 86 | 
 | 2022-12-27 | 212 | 86 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-03 | 211 | 85 | 
 | 2022-12-02 | 211 | 85 | 
 | 2022-12-01 | 211 | 85 | 
-| 2022-11-30 | 211 | 85 | 
 

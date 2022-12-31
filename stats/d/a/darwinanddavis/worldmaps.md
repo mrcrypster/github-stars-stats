@@ -1,6 +1,6 @@
 # darwinanddavis/worldmaps - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 56 | 7 | 
 | 2022-12-29 | 56 | 7 | 
 | 2022-12-28 | 56 | 7 | 
 | 2022-12-27 | 56 | 7 | 

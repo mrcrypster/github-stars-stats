@@ -1,6 +1,6 @@
 # mmiscool/serialTerminal.com - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 145 | 28 | 
 | 2022-12-29 | 145 | 28 | 
 | 2022-12-28 | 145 | 28 | 
 | 2022-12-27 | 145 | 28 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-04 | 142 | 28 | 
 | 2022-12-03 | 142 | 28 | 
 | 2022-12-02 | 142 | 28 | 
-| 2022-12-01 | 142 | 28 | 
 

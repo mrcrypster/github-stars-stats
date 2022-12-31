@@ -1,10 +1,10 @@
 # maneatingape/advent-of-code - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 2
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/maneatingape/advent-of-code)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 24 | 2 | 
 | 2022-12-29 | 23 | 2 | 
 | 2022-12-28 | 23 | 2 | 
 | 2022-12-27 | 23 | 2 | 

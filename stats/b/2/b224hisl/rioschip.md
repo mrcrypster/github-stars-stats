@@ -1,6 +1,6 @@
 # b224hisl/rioschip - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 23 | 2 | 
 | 2022-12-29 | 23 | 2 | 
 | 2022-12-28 | 23 | 2 | 
 | 2022-12-27 | 23 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-03 | 24 | 2 | 
 | 2022-12-02 | 24 | 2 | 
 | 2022-12-01 | 24 | 2 | 
-| 2022-11-30 | 24 | 2 | 
 

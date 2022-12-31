@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 30
 
 ☋ Forks: 420
 
-★ Stars: 2612
+★ Stars: 2613
 
 [Open repository](https://github.com/LinShunKang/MyPerf4J)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-30 | 2612 | 420 | 
+| 2022-12-30 | 2613 | 420 | 
 | 2022-12-29 | 2612 | 420 | 
 | 2022-12-28 | 2602 | 419 | 
 | 2022-12-27 | 2587 | 417 | 

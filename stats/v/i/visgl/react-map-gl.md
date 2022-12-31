@@ -1,10 +1,10 @@
 # visgl/react-map-gl - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
-☋ Forks: 1260
+☋ Forks: 1261
 
-★ Stars: 6920
+★ Stars: 6922
 
 [Open repository](https://github.com/visgl/react-map-gl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 6922 | 1261 | 
 | 2022-12-29 | 6920 | 1260 | 
 | 2022-12-28 | 6917 | 1258 | 
 | 2022-12-27 | 6914 | 1258 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-04 | 6877 | 1250 | 
 | 2022-12-03 | 6877 | 1250 | 
 | 2022-12-01 | 6872 | 1250 | 
-| 2022-11-30 | 6871 | 1250 | 
 

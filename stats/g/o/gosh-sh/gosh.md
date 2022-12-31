@@ -1,10 +1,10 @@
 # gosh-sh/gosh - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 0
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/gosh-sh/gosh)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 11 | - | 
 | 2022-12-30 | 10 | - | 
 | 2022-12-29 | 10 | - | 
 | 2022-12-27 | 10 | - | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 10 | - | 
 | 2022-12-03 | 10 | - | 
 | 2022-12-02 | 9 | - | 
-| 2022-12-01 | 9 | - | 
 

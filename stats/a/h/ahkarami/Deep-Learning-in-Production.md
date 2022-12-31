@@ -1,10 +1,10 @@
 # ahkarami/Deep-Learning-in-Production - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 644
 
-★ Stars: 3885
+★ Stars: 3886
 
 [Open repository](https://github.com/ahkarami/Deep-Learning-in-Production)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 3886 | 644 | 
 | 2022-12-29 | 3885 | 644 | 
 | 2022-12-28 | 3884 | 644 | 
 | 2022-12-27 | 3884 | 644 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-03 | 3861 | 641 | 
 | 2022-12-02 | 3861 | 641 | 
 | 2022-12-01 | 3860 | 641 | 
-| 2022-11-30 | 3860 | 641 | 
 

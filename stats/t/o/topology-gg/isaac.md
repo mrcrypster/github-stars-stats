@@ -1,10 +1,10 @@
 # topology-gg/isaac - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 4
 
-★ Stars: 83
+★ Stars: 84
 
 [Open repository](https://github.com/topology-gg/isaac)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 84 | 4 | 
 | 2022-12-29 | 83 | 4 | 
 | 2022-12-28 | 83 | 4 | 
 | 2022-12-27 | 83 | 4 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-04 | 83 | 5 | 
 | 2022-12-03 | 83 | 5 | 
 | 2022-12-02 | 83 | 5 | 
-| 2022-12-01 | 83 | 5 | 
 

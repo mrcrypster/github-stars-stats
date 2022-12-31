@@ -1,6 +1,6 @@
 # annexus254/mysqli-safe - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 5 | 17 | 
 | 2022-12-29 | 5 | 17 | 
 | 2022-12-28 | 5 | 17 | 
 | 2022-12-27 | 5 | 17 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-04 | 5 | 17 | 
 | 2022-12-02 | 5 | 17 | 
 | 2022-12-01 | 5 | 17 | 
-| 2022-11-30 | 5 | 17 | 
 

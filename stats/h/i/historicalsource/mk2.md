@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 30
 
-☋ Forks: 15
+☋ Forks: 17
 
-★ Stars: 72
+★ Stars: 80
 
 [Open repository](https://github.com/historicalsource/mk2)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-30 | 72 | 15 | 
+| 2022-12-30 | 80 | 17 | 
 | 2022-12-29 | 67 | 14 | 
 

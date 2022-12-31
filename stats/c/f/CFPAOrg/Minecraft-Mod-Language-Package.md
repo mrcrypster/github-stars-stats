@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 30
 
-☋ Forks: 582
+☋ Forks: 583
 
-★ Stars: 655
+★ Stars: 657
 
 [Open repository](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-30 | 655 | 582 | 
+| 2022-12-30 | 657 | 583 | 
 | 2022-12-29 | 655 | 582 | 
 

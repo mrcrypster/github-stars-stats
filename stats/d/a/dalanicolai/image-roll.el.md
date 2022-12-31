@@ -1,6 +1,6 @@
 # dalanicolai/image-roll.el - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 55 | 2 | 
 | 2022-12-29 | 55 | 2 | 
 | 2022-12-28 | 55 | 2 | 
 | 2022-12-27 | 55 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-03 | 52 | 1 | 
 | 2022-12-02 | 51 | 1 | 
 | 2022-12-01 | 51 | 1 | 
-| 2022-11-30 | 51 | 1 | 
 

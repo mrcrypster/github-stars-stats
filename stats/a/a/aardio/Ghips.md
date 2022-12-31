@@ -1,6 +1,6 @@
 # aardio/Ghips - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 160 | 27 | 
 | 2022-12-30 | 160 | 27 | 
 | 2022-12-29 | 159 | 27 | 
 | 2022-12-27 | 158 | 27 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-03 | 137 | 23 | 
 | 2022-12-02 | 136 | 23 | 
 | 2022-12-01 | 136 | 23 | 
-| 2022-11-30 | 136 | 23 | 
 

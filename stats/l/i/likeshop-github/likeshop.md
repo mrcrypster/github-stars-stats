@@ -1,10 +1,10 @@
 # likeshop-github/likeshop - stars & forks statistics
 
-Stats updated on Dec 2022, 29
+Stats updated on Dec 2022, 30
 
 ☋ Forks: 101
 
-★ Stars: 326
+★ Stars: 328
 
 [Open repository](https://github.com/likeshop-github/likeshop)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-30 | 328 | 101 | 
 | 2022-12-29 | 326 | 101 | 
 | 2022-12-28 | 326 | 101 | 
 | 2022-12-27 | 326 | 101 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 29
 | 2022-12-04 | 310 | 95 | 
 | 2022-12-03 | 309 | 95 | 
 | 2022-12-02 | 308 | 95 | 
-| 2022-12-01 | 308 | 95 | 
 
