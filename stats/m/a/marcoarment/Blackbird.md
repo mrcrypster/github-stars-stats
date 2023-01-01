@@ -1,10 +1,10 @@
 # marcoarment/Blackbird - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 10
 
-★ Stars: 356
+★ Stars: 357
 
 [Open repository](https://github.com/marcoarment/Blackbird)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 357 | 10 | 
 | 2022-12-30 | 356 | 10 | 
 | 2022-12-29 | 355 | 10 | 
 | 2022-12-28 | 349 | 10 | 

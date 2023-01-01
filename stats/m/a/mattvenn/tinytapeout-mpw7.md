@@ -1,6 +1,6 @@
 # mattvenn/tinytapeout-mpw7 - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 23 | 8 | 
 | 2022-12-30 | 23 | 8 | 
 | 2022-12-29 | 23 | 8 | 
 | 2022-12-28 | 22 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 22 | 8 | 
 | 2022-12-04 | 22 | 8 | 
 | 2022-12-03 | 22 | 8 | 
-| 2022-12-01 | 22 | 8 | 
 

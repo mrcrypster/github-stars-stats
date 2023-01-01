@@ -1,10 +1,10 @@
 # authpass/authpass - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 169
 
-★ Stars: 1518
+★ Stars: 1520
 
 [Open repository](https://github.com/authpass/authpass)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 1520 | 169 | 
 | 2022-12-30 | 1518 | 169 | 
 | 2022-12-29 | 1518 | 169 | 
 | 2022-12-28 | 1518 | 169 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 1488 | 165 | 
 | 2022-12-04 | 1487 | 165 | 
 | 2022-12-03 | 1487 | 165 | 
-| 2022-12-01 | 1486 | 165 | 
 

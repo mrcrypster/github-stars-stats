@@ -1,6 +1,6 @@
 # Azure/azure-docs-bicep-samples - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 38 | 22 | 
 | 2022-12-30 | 38 | 22 | 
 | 2022-12-29 | 38 | 22 | 
 | 2022-12-28 | 38 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 39 | 20 | 
 | 2022-12-03 | 39 | 20 | 
 | 2022-12-02 | 39 | 20 | 
-| 2022-12-01 | 39 | 20 | 
 

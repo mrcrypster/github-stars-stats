@@ -1,10 +1,10 @@
 # jsonapi-serializer/jsonapi-serializer - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 114
 
-★ Stars: 1229
+★ Stars: 1231
 
 [Open repository](https://github.com/jsonapi-serializer/jsonapi-serializer)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 1231 | 114 | 
 | 2022-12-30 | 1229 | 114 | 
 | 2022-12-29 | 1228 | 114 | 
 | 2022-12-28 | 1228 | 114 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 1216 | 112 | 
 | 2022-12-04 | 1216 | 112 | 
 | 2022-12-02 | 1216 | 112 | 
-| 2022-12-01 | 1215 | 112 | 
 

@@ -1,6 +1,6 @@
 # yk/gpt-4chan-public - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 412 | 47 | 
 | 2022-12-30 | 412 | 47 | 
 | 2022-12-29 | 412 | 47 | 
 | 2022-12-28 | 412 | 47 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 400 | 46 | 
 | 2022-12-03 | 400 | 46 | 
 | 2022-12-02 | 399 | 46 | 
-| 2022-12-01 | 399 | 46 | 
 

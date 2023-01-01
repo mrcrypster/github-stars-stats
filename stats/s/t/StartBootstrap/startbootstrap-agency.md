@@ -1,10 +1,10 @@
 # StartBootstrap/startbootstrap-agency - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Jan 2023, 01
 
-☋ Forks: 3133
+☋ Forks: 3131
 
-★ Stars: 1893
+★ Stars: 1895
 
 [Open repository](https://github.com/StartBootstrap/startbootstrap-agency)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 1895 | 3131 | 
+| 2022-12-31 | 1894 | 3131 | 
 | 2022-12-30 | 1893 | 3133 | 
 | 2022-12-29 | 1893 | 3133 | 
 | 2022-12-28 | 1893 | 3133 | 
@@ -41,5 +43,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 1887 | 3131 | 
 | 2022-12-03 | 1887 | 3131 | 
 | 2022-12-02 | 1887 | 3131 | 
-| 2022-12-01 | 1887 | 3130 | 
 

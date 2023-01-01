@@ -1,6 +1,6 @@
 # raywenderlich/swift-algorithm-club - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 4876
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 27246 | 4876 | 
 | 2022-12-30 | 27246 | 4876 | 
 | 2022-12-29 | 27244 | 4877 | 
 | 2022-12-28 | 27234 | 4877 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 27154 | 4869 | 
 | 2022-12-03 | 27150 | 4870 | 
 | 2022-12-02 | 27148 | 4870 | 
-| 2022-12-01 | 27144 | 4872 | 
 

@@ -1,10 +1,10 @@
 # devid14/vps - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
-☋ Forks: 596
+☋ Forks: 602
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/devid14/vps)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 22 | 602 | 
 | 2022-12-30 | 21 | 596 | 
 | 2022-12-29 | 21 | 594 | 
 | 2022-12-28 | 21 | 591 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 14 | 507 | 
 | 2022-12-03 | 14 | 504 | 
 | 2022-12-02 | 14 | 499 | 
-| 2022-12-01 | 14 | 496 | 
 

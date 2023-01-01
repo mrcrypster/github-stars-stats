@@ -1,6 +1,6 @@
 # SL-Alpha-X-Team/Alpha-X-MD-Bot-Installer - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 129
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 9 | 129 | 
 | 2022-12-30 | 9 | 129 | 
 | 2022-12-29 | 9 | 129 | 
 | 2022-12-28 | 9 | 129 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 9 | 127 | 
 | 2022-12-04 | 9 | 126 | 
 | 2022-12-02 | 9 | 126 | 
-| 2022-12-01 | 9 | 125 | 
 

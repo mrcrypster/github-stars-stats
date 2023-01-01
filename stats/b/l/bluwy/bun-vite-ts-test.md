@@ -1,6 +1,6 @@
 # bluwy/bun-vite-ts-test - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 57 | 1 | 
 | 2022-12-30 | 57 | 1 | 
 | 2022-12-29 | 57 | 1 | 
 | 2022-12-28 | 57 | 1 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 56 | 1 | 
 | 2022-12-04 | 56 | 1 | 
 | 2022-12-03 | 56 | 1 | 
-| 2022-12-01 | 56 | 1 | 
 

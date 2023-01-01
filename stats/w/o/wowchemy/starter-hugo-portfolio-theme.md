@@ -1,10 +1,10 @@
 # wowchemy/starter-hugo-portfolio-theme - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 26
 
-★ Stars: 24
+★ Stars: 26
 
 [Open repository](https://github.com/wowchemy/starter-hugo-portfolio-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 26 | 26 | 
 | 2022-12-30 | 24 | 26 | 
 | 2022-12-29 | 24 | 26 | 
 | 2022-12-28 | 24 | 26 | 

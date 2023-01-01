@@ -1,10 +1,10 @@
 # viperML/home-manager-wsl - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 0
 
-★ Stars: 25
+★ Stars: 29
 
 [Open repository](https://github.com/viperML/home-manager-wsl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 29 | - | 
 | 2022-12-30 | 25 | - | 
 | 2022-12-29 | 25 | - | 
 | 2022-12-28 | 25 | - | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 25 | - | 
 | 2022-12-04 | 25 | - | 
 | 2022-12-03 | 25 | - | 
-| 2022-12-01 | 25 | - | 
 

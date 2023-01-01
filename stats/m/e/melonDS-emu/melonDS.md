@@ -1,10 +1,10 @@
 # melonDS-emu/melonDS - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
-☋ Forks: 335
+☋ Forks: 336
 
-★ Stars: 1919
+★ Stars: 1921
 
 [Open repository](https://github.com/melonDS-emu/melonDS)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 1921 | 336 | 
 | 2022-12-30 | 1919 | 335 | 
 | 2022-12-29 | 1919 | 335 | 
 | 2022-12-28 | 1919 | 334 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 1895 | 328 | 
 | 2022-12-03 | 1891 | 328 | 
 | 2022-12-02 | 1890 | 327 | 
-| 2022-12-01 | 1887 | 327 | 
 

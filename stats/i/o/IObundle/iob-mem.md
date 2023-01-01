@@ -1,10 +1,10 @@
 # IObundle/iob-mem - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 17
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/IObundle/iob-mem)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 24 | 17 | 
 | 2022-12-30 | 23 | 17 | 
 | 2022-12-29 | 23 | 17 | 
 | 2022-12-28 | 23 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 24 | 17 | 
 | 2022-12-03 | 24 | 17 | 
 | 2022-12-02 | 24 | 17 | 
-| 2022-12-01 | 24 | 17 | 
 

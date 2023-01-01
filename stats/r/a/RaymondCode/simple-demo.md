@@ -1,6 +1,6 @@
 # RaymondCode/simple-demo - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 116
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 90 | 116 | 
 | 2022-12-30 | 90 | 116 | 
 | 2022-12-29 | 90 | 116 | 
 | 2022-12-28 | 90 | 116 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 90 | 116 | 
 | 2022-12-04 | 90 | 116 | 
 | 2022-12-03 | 90 | 116 | 
-| 2022-12-01 | 90 | 116 | 
 

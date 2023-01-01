@@ -1,6 +1,6 @@
 # vincentdchan/CubyText - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 547 | 19 | 
 | 2022-12-30 | 547 | 19 | 
 | 2022-12-29 | 548 | 19 | 
 | 2022-12-28 | 546 | 19 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 537 | 18 | 
 | 2022-12-04 | 530 | 18 | 
 | 2022-12-02 | 519 | 18 | 
-| 2022-12-01 | 515 | 17 | 
 

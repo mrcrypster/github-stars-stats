@@ -1,10 +1,10 @@
 # petalframework/petal_components - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
-☋ Forks: 49
+☋ Forks: 50
 
-★ Stars: 467
+★ Stars: 473
 
 [Open repository](https://github.com/petalframework/petal_components)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 473 | 50 | 
 | 2022-12-30 | 467 | 49 | 
 | 2022-12-29 | 466 | 49 | 
 | 2022-12-28 | 466 | 49 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 450 | 45 | 
 | 2022-12-04 | 448 | 45 | 
 | 2022-12-02 | 444 | 45 | 
-| 2022-12-01 | 443 | 45 | 
 

@@ -1,8 +1,8 @@
 # CyBear-Jinni/cbj_app - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
-☋ Forks: 146
+☋ Forks: 145
 
 ★ Stars: 104
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 104 | 145 | 
 | 2022-12-30 | 104 | 146 | 
 | 2022-12-29 | 104 | 146 | 
 | 2022-12-28 | 104 | 146 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 104 | 148 | 
 | 2022-12-03 | 104 | 148 | 
 | 2022-12-02 | 104 | 148 | 
-| 2022-12-01 | 104 | 148 | 
 

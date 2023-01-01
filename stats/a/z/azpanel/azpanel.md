@@ -1,6 +1,6 @@
 # azpanel/azpanel - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 191
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 424 | 191 | 
 | 2022-12-30 | 424 | 191 | 
 | 2022-12-29 | 423 | 191 | 
 | 2022-12-28 | 423 | 191 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 417 | 193 | 
 | 2022-12-03 | 416 | 193 | 
 | 2022-12-02 | 416 | 193 | 
-| 2022-12-01 | 416 | 193 | 
 

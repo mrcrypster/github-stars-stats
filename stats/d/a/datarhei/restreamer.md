@@ -1,10 +1,10 @@
 # datarhei/restreamer - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 325
 
-★ Stars: 2479
+★ Stars: 2484
 
 [Open repository](https://github.com/datarhei/restreamer)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 2484 | 325 | 
 | 2022-12-30 | 2479 | 325 | 
 | 2022-12-29 | 2476 | 325 | 
 | 2022-12-28 | 2474 | 325 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 2438 | 320 | 
 | 2022-12-03 | 2436 | 320 | 
 | 2022-12-02 | 2434 | 319 | 
-| 2022-12-01 | 2431 | 319 | 
 

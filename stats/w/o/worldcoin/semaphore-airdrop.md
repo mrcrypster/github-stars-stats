@@ -1,6 +1,6 @@
 # worldcoin/semaphore-airdrop - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 53 | 9 | 
 | 2022-12-30 | 53 | 9 | 
 | 2022-12-29 | 53 | 9 | 
 | 2022-12-28 | 53 | 9 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 53 | 9 | 
 | 2022-12-04 | 53 | 9 | 
 | 2022-12-03 | 53 | 9 | 
-| 2022-12-01 | 53 | 9 | 
 

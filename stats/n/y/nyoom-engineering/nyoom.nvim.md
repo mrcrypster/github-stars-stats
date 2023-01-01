@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 31
 
-☋ Forks: 62
+☋ Forks: 61
 
-★ Stars: 592
+★ Stars: 595
 
 [Open repository](https://github.com/nyoom-engineering/nyoom.nvim)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-31 | 592 | 62 | 
+| 2022-12-31 | 595 | 61 | 
 | 2022-12-30 | 592 | 61 | 
 | 2022-12-29 | 587 | 61 | 
 | 2022-12-28 | 586 | 61 | 

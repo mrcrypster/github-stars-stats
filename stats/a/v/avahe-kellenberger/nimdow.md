@@ -1,6 +1,6 @@
 # avahe-kellenberger/nimdow - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 278 | 19 | 
 | 2022-12-31 | 278 | 19 | 
 | 2022-12-30 | 278 | 19 | 
 | 2022-12-28 | 278 | 19 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 275 | 19 | 
 | 2022-12-04 | 274 | 19 | 
 | 2022-12-03 | 274 | 19 | 
-| 2022-12-01 | 274 | 19 | 
 

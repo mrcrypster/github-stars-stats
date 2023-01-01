@@ -1,10 +1,10 @@
 # matplotlib/matplotlib - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 6650
 
-★ Stars: 16622
+★ Stars: 16624
 
 [Open repository](https://github.com/matplotlib/matplotlib)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 16624 | 6650 | 
 | 2022-12-30 | 16622 | 6650 | 
 | 2022-12-29 | 16616 | 6649 | 
 | 2022-12-28 | 16608 | 6650 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 16499 | 6619 | 
 | 2022-12-03 | 16494 | 6614 | 
 | 2022-12-02 | 16486 | 6613 | 
-| 2022-12-01 | 16484 | 6612 | 
 

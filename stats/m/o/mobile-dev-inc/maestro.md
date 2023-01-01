@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 31
 
 ☋ Forks: 81
 
-★ Stars: 2893
+★ Stars: 2895
 
 [Open repository](https://github.com/mobile-dev-inc/maestro)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-31 | 2893 | 81 | 
+| 2022-12-31 | 2895 | 81 | 
 | 2022-12-30 | 2893 | 81 | 
 | 2022-12-29 | 2889 | 80 | 
 | 2022-12-28 | 2878 | 80 | 
@@ -42,5 +42,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-04 | 2671 | 72 | 
 | 2022-12-03 | 2669 | 72 | 
 | 2022-12-02 | 2666 | 72 | 
-| 2022-12-01 | 2660 | 72 | 
 

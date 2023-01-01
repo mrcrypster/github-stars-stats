@@ -1,10 +1,10 @@
 # MythicAgents/tetanus - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 20
 
-★ Stars: 198
+★ Stars: 197
 
 [Open repository](https://github.com/MythicAgents/tetanus)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 197 | 20 | 
 | 2022-12-30 | 198 | 20 | 
 | 2022-12-29 | 198 | 20 | 
 | 2022-12-28 | 198 | 20 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 198 | 20 | 
 | 2022-12-03 | 198 | 20 | 
 | 2022-12-02 | 198 | 20 | 
-| 2022-12-01 | 197 | 20 | 
 

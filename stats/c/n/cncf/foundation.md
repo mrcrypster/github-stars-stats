@@ -1,6 +1,6 @@
 # cncf/foundation - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 389
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 411 | 389 | 
+| 2022-12-31 | 411 | 389 | 
 | 2022-12-30 | 411 | 389 | 
 | 2022-12-29 | 411 | 389 | 
 | 2022-12-28 | 411 | 389 | 
@@ -41,5 +43,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 403 | 375 | 
 | 2022-12-03 | 403 | 376 | 
 | 2022-12-02 | 402 | 375 | 
-| 2022-12-01 | 402 | 374 | 
 

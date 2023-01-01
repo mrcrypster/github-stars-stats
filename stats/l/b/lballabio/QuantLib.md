@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 31
 
 ☋ Forks: 1433
 
-★ Stars: 3579
+★ Stars: 3581
 
 [Open repository](https://github.com/lballabio/QuantLib)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-31 | 3579 | 1433 | 
+| 2022-12-31 | 3581 | 1433 | 
 | 2022-12-29 | 3575 | 1430 | 
 | 2022-12-28 | 3576 | 1428 | 
 | 2022-12-27 | 3575 | 1429 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-04 | 3540 | 1415 | 
 | 2022-12-03 | 3540 | 1415 | 
 | 2022-12-02 | 3539 | 1414 | 
-| 2022-12-01 | 3538 | 1414 | 
 

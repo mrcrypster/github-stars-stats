@@ -1,10 +1,10 @@
 # shyim/nixcfg - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 0
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/shyim/nixcfg)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 6 | - | 
 | 2022-12-30 | 5 | - | 
 | 2022-12-29 | 5 | - | 
 | 2022-12-28 | 5 | - | 

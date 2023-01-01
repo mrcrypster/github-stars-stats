@@ -1,10 +1,10 @@
 # brycedrennan/imaginAIry - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 82
 
-★ Stars: 1567
+★ Stars: 1568
 
 [Open repository](https://github.com/brycedrennan/imaginAIry)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 1568 | 82 | 
 | 2022-12-30 | 1567 | 82 | 
 | 2022-12-29 | 1564 | 82 | 
 | 2022-12-28 | 1561 | 82 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 1455 | 73 | 
 | 2022-12-04 | 1451 | 72 | 
 | 2022-12-02 | 1447 | 72 | 
-| 2022-12-01 | 1434 | 72 | 
 

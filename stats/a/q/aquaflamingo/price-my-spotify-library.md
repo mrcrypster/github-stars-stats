@@ -1,10 +1,10 @@
 # aquaflamingo/price-my-spotify-library - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 0
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/aquaflamingo/price-my-spotify-library)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 14 | - | 
 | 2022-12-30 | 13 | - | 
 | 2022-12-29 | 13 | - | 
 | 2022-12-28 | 12 | - | 

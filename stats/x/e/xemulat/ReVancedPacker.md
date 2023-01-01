@@ -1,6 +1,6 @@
 # xemulat/ReVancedPacker - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 283 | 21 | 
 | 2022-12-30 | 283 | 21 | 
 | 2022-12-29 | 282 | 20 | 
 | 2022-12-28 | 282 | 20 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 279 | 20 | 
 | 2022-12-04 | 278 | 20 | 
 | 2022-12-03 | 277 | 20 | 
-| 2022-12-01 | 277 | 20 | 
 

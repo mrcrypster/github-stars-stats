@@ -1,6 +1,6 @@
 # magnars/dash.el - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 133
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 1477 | 133 | 
 | 2022-12-30 | 1477 | 133 | 
 | 2022-12-29 | 1477 | 133 | 
 | 2022-12-28 | 1477 | 133 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 1469 | 132 | 
 | 2022-12-03 | 1468 | 132 | 
 | 2022-12-02 | 1466 | 132 | 
-| 2022-12-01 | 1465 | 132 | 
 

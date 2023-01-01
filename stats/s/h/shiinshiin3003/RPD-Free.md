@@ -1,8 +1,8 @@
 # shiinshiin3003/RPD-Free - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
-☋ Forks: 48
+☋ Forks: 49
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | - | 49 | 
 | 2022-12-30 | - | 48 | 
 | 2022-12-29 | - | 48 | 
 | 2022-12-28 | - | 48 | 

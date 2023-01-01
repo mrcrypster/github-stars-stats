@@ -1,10 +1,10 @@
 # Nevcairiel/LAVFilters - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 736
 
-★ Stars: 5544
+★ Stars: 5546
 
 [Open repository](https://github.com/Nevcairiel/LAVFilters)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 5546 | 736 | 
 | 2022-12-30 | 5544 | 736 | 
 | 2022-12-29 | 5541 | 736 | 
 | 2022-12-27 | 5537 | 737 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 5478 | 735 | 
 | 2022-12-03 | 5476 | 735 | 
 | 2022-12-02 | 5473 | 735 | 
-| 2022-12-01 | 5471 | 735 | 
 

@@ -1,10 +1,10 @@
 # MicrosoftDocs/OfficeDocs-OfficeUpdates-pr.es-ES - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 2
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/MicrosoftDocs/OfficeDocs-OfficeUpdates-pr.es-ES)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 5 | 2 | 
 | 2022-12-31 | 4 | 2 | 
 | 2022-12-29 | 4 | 2 | 
 | 2022-12-28 | 4 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 4 | 2 | 
 | 2022-12-04 | 4 | 2 | 
 | 2022-12-03 | 4 | 2 | 
-| 2022-12-01 | 4 | 2 | 
 

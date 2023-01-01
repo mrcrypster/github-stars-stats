@@ -1,10 +1,10 @@
 # netology-code/sysadm-homeworks - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 388
 
-★ Stars: 54
+★ Stars: 55
 
 [Open repository](https://github.com/netology-code/sysadm-homeworks)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 55 | 388 | 
+| 2022-12-31 | 55 | 388 | 
 | 2022-12-30 | 54 | 388 | 
 | 2022-12-29 | 54 | 388 | 
 | 2022-12-28 | 54 | 388 | 
@@ -41,5 +43,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 54 | 378 | 
 | 2022-12-03 | 54 | 378 | 
 | 2022-12-02 | 53 | 375 | 
-| 2022-12-01 | 53 | 374 | 
 

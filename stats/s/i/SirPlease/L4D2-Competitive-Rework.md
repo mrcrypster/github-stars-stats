@@ -1,6 +1,6 @@
 # SirPlease/L4D2-Competitive-Rework - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 88
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 133 | 88 | 
 | 2022-12-30 | 133 | 88 | 
 | 2022-12-29 | 133 | 88 | 
 | 2022-12-28 | 133 | 87 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 131 | 88 | 
 | 2022-12-03 | 131 | 88 | 
 | 2022-12-02 | 131 | 88 | 
-| 2022-12-01 | 131 | 87 | 
 

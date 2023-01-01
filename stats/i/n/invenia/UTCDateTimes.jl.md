@@ -1,6 +1,6 @@
 # invenia/UTCDateTimes.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 7 | - | 
 | 2022-12-30 | 7 | - | 
 | 2022-12-29 | 7 | - | 
 | 2022-12-28 | 7 | - | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 6 | - | 
 | 2022-12-04 | 6 | - | 
 | 2022-12-03 | 6 | - | 
-| 2022-12-01 | 6 | - | 
 

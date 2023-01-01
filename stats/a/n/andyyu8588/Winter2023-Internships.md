@@ -1,10 +1,10 @@
 # andyyu8588/Winter2023-Internships - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 16
 
-★ Stars: 147
+★ Stars: 150
 
 [Open repository](https://github.com/andyyu8588/Winter2023-Internships)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 150 | 16 | 
 | 2022-12-30 | 147 | 16 | 
 | 2022-12-29 | 147 | 16 | 
 | 2022-12-28 | 147 | 16 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 141 | 14 | 
 | 2022-12-04 | 141 | 14 | 
 | 2022-12-03 | 141 | 14 | 
-| 2022-12-01 | 141 | 14 | 
 

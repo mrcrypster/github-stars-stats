@@ -1,10 +1,10 @@
 # BigCorvus/LORA-QWERTY-Communicator - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 7
 
-★ Stars: 142
+★ Stars: 143
 
 [Open repository](https://github.com/BigCorvus/LORA-QWERTY-Communicator)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 143 | 7 | 
 | 2022-12-30 | 142 | 7 | 
 | 2022-12-29 | 142 | 7 | 
 | 2022-12-28 | 142 | 7 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 141 | 7 | 
 | 2022-12-03 | 141 | 7 | 
 | 2022-12-02 | 141 | 7 | 
-| 2022-12-01 | 141 | 7 | 
 

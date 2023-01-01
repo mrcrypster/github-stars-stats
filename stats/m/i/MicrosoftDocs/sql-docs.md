@@ -1,10 +1,10 @@
 # MicrosoftDocs/sql-docs - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
-☋ Forks: 2513
+☋ Forks: 2514
 
-★ Stars: 896
+★ Stars: 898
 
 [Open repository](https://github.com/MicrosoftDocs/sql-docs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 898 | 2514 | 
 | 2022-12-30 | 896 | 2513 | 
 | 2022-12-29 | 896 | 2512 | 
 | 2022-12-28 | 894 | 2511 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 883 | 2492 | 
 | 2022-12-03 | 883 | 2493 | 
 | 2022-12-02 | 881 | 2488 | 
-| 2022-12-01 | 881 | 2488 | 
 

@@ -1,10 +1,10 @@
 # webuild-community/advent-of-frontend - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 42
 
-★ Stars: 259
+★ Stars: 276
 
 [Open repository](https://github.com/webuild-community/advent-of-frontend)
 
@@ -13,5 +13,6 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 276 | 42 | 
 | 2022-12-30 | 259 | 42 | 
 

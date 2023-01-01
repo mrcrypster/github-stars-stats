@@ -1,6 +1,6 @@
 # tonsky/remote-require - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 33 | - | 
 | 2022-12-30 | 33 | - | 
 | 2022-12-29 | 33 | - | 
 | 2022-12-28 | 33 | - | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 30 | - | 
 | 2022-12-03 | 30 | - | 
 | 2022-12-02 | 30 | - | 
-| 2022-12-01 | 30 | - | 
 

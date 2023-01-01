@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 31
 
 ☋ Forks: 667
 
-★ Stars: 5888
+★ Stars: 5887
 
 [Open repository](https://github.com/containers/buildah)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-31 | 5888 | 667 | 
+| 2022-12-31 | 5887 | 667 | 
 | 2022-12-30 | 5887 | 667 | 
 | 2022-12-29 | 5883 | 665 | 
 | 2022-12-28 | 5876 | 665 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-04 | 5824 | 659 | 
 | 2022-12-03 | 5825 | 659 | 
 | 2022-12-02 | 5821 | 659 | 
-| 2022-12-01 | 5818 | 660 | 
 

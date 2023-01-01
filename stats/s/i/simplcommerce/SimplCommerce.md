@@ -1,6 +1,6 @@
 # simplcommerce/SimplCommerce - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 1402
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 3751 | 1402 | 
 | 2022-12-30 | 3751 | 1402 | 
 | 2022-12-29 | 3751 | 1402 | 
 | 2022-12-28 | 3749 | 1400 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 3744 | 1395 | 
 | 2022-12-03 | 3741 | 1395 | 
 | 2022-12-02 | 3741 | 1395 | 
-| 2022-12-01 | 3741 | 1395 | 
 

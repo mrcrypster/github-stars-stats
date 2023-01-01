@@ -1,6 +1,6 @@
 # chriskohlhoff/asio - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 1035
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 3781 | 1035 | 
 | 2022-12-31 | 3781 | 1035 | 
 | 2022-12-30 | 3779 | 1034 | 
 | 2022-12-29 | 3778 | 1032 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 3747 | 1022 | 
 | 2022-12-04 | 3741 | 1021 | 
 | 2022-12-03 | 3742 | 1021 | 
-| 2022-12-02 | 3741 | 1021 | 
 

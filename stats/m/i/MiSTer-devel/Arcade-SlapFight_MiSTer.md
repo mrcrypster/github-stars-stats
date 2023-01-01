@@ -1,10 +1,10 @@
 # MiSTer-devel/Arcade-SlapFight_MiSTer - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
-☋ Forks: 3
+☋ Forks: 5
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/MiSTer-devel/Arcade-SlapFight_MiSTer)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 4 | 5 | 
 | 2022-12-30 | 3 | 3 | 
 | 2022-12-29 | 3 | 3 | 
 | 2022-12-28 | 3 | 3 | 

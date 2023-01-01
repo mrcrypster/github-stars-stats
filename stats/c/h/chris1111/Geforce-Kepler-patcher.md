@@ -1,10 +1,10 @@
 # chris1111/Geforce-Kepler-patcher - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 45
 
-★ Stars: 283
+★ Stars: 284
 
 [Open repository](https://github.com/chris1111/Geforce-Kepler-patcher)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 284 | 45 | 
 | 2022-12-30 | 283 | 45 | 
 | 2022-12-29 | 283 | 45 | 
 | 2022-12-28 | 283 | 45 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 279 | 44 | 
 | 2022-12-03 | 278 | 44 | 
 | 2022-12-02 | 278 | 44 | 
-| 2022-12-01 | 278 | 44 | 
 

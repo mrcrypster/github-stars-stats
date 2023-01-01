@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 31
 
-☋ Forks: 8
+☋ Forks: 9
 
-★ Stars: 19
+★ Stars: 22
 
 [Open repository](https://github.com/tizu69/ntl-redone)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-31 | 19 | 8 | 
+| 2022-12-31 | 22 | 9 | 
 | 2022-12-30 | 18 | 8 | 
 

@@ -1,10 +1,10 @@
 # amidaware/tacticalrmm - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 269
 
-★ Stars: 1436
+★ Stars: 1439
 
 [Open repository](https://github.com/amidaware/tacticalrmm)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 1439 | 269 | 
 | 2022-12-30 | 1436 | 269 | 
 | 2022-12-29 | 1432 | 269 | 
 | 2022-12-28 | 1430 | 269 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 1385 | 266 | 
 | 2022-12-03 | 1383 | 266 | 
 | 2022-12-02 | 1382 | 265 | 
-| 2022-12-01 | 1381 | 266 | 
 

@@ -1,10 +1,10 @@
 # Zaarrg/TTVDropBot - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 131
 
-★ Stars: 365
+★ Stars: 368
 
 [Open repository](https://github.com/Zaarrg/TTVDropBot)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 368 | 131 | 
 | 2022-12-30 | 365 | 131 | 
 | 2022-12-29 | 363 | 133 | 
 | 2022-12-28 | 362 | 132 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 352 | 130 | 
 | 2022-12-04 | 351 | 130 | 
 | 2022-12-03 | 350 | 130 | 
-| 2022-12-01 | 350 | 130 | 
 

@@ -1,6 +1,6 @@
 # juliosueiras/vim-terraform-completion - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 326 | 25 | 
 | 2022-12-30 | 326 | 25 | 
 | 2022-12-29 | 326 | 25 | 
 | 2022-12-28 | 325 | 25 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 325 | 25 | 
 | 2022-12-04 | 325 | 25 | 
 | 2022-12-02 | 325 | 25 | 
-| 2022-12-01 | 325 | 25 | 
 

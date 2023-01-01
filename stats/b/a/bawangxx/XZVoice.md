@@ -1,6 +1,6 @@
 # bawangxx/XZVoice - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 303
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 1035 | 303 | 
 | 2022-12-30 | 1035 | 303 | 
 | 2022-12-29 | 1034 | 303 | 
 | 2022-12-28 | 1034 | 303 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 1020 | 301 | 
 | 2022-12-03 | 1018 | 301 | 
 | 2022-12-02 | 1017 | 301 | 
-| 2022-12-01 | 1018 | 301 | 
 

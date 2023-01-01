@@ -1,10 +1,10 @@
 # clojure-emacs/cider-nrepl - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 163
 
-★ Stars: 623
+★ Stars: 624
 
 [Open repository](https://github.com/clojure-emacs/cider-nrepl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 624 | 163 | 
 | 2022-12-31 | 623 | 163 | 
 | 2022-12-29 | 623 | 163 | 
 | 2022-12-28 | 623 | 163 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-04 | 618 | 163 | 
 | 2022-12-03 | 617 | 163 | 
 | 2022-12-02 | 617 | 163 | 
-| 2022-12-01 | 617 | 163 | 
 

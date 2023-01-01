@@ -1,10 +1,10 @@
 # muukii/NextGrowingTextView - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 148
 
-★ Stars: 1689
+★ Stars: 1690
 
 [Open repository](https://github.com/muukii/NextGrowingTextView)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 1690 | 148 | 
 | 2022-12-30 | 1689 | 148 | 
 | 2022-12-29 | 1687 | 148 | 
 | 2022-12-28 | 1687 | 148 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 1685 | 147 | 
 | 2022-12-04 | 1683 | 147 | 
 | 2022-12-03 | 1683 | 147 | 
-| 2022-12-01 | 1682 | 147 | 
 

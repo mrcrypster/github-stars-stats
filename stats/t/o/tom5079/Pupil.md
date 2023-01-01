@@ -1,10 +1,10 @@
 # tom5079/Pupil - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 10
 
-★ Stars: 250
+★ Stars: 251
 
 [Open repository](https://github.com/tom5079/Pupil)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 251 | 10 | 
 | 2022-12-30 | 250 | 10 | 
 | 2022-12-29 | 250 | 10 | 
 | 2022-12-28 | 250 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 244 | 10 | 
 | 2022-12-03 | 243 | 10 | 
 | 2022-12-02 | 243 | 10 | 
-| 2022-12-01 | 243 | 10 | 
 

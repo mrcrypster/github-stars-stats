@@ -1,10 +1,10 @@
 # lichess-org/mobile - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 17
 
-★ Stars: 330
+★ Stars: 331
 
 [Open repository](https://github.com/lichess-org/mobile)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 331 | 17 | 
 | 2022-12-30 | 330 | 17 | 
 | 2022-12-29 | 330 | 17 | 
 | 2022-12-28 | 326 | 17 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 303 | 13 | 
 | 2022-12-04 | 302 | 13 | 
 | 2022-12-02 | 300 | 13 | 
-| 2022-12-01 | 299 | 13 | 
 

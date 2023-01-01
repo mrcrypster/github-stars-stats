@@ -1,10 +1,10 @@
 # NvChad/nvterm - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 5
 
-★ Stars: 68
+★ Stars: 69
 
 [Open repository](https://github.com/NvChad/nvterm)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 69 | 5 | 
 | 2022-12-30 | 68 | 5 | 
 | 2022-12-29 | 68 | 5 | 
 | 2022-12-28 | 66 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 62 | 5 | 
 | 2022-12-03 | 62 | 5 | 
 | 2022-12-02 | 62 | 5 | 
-| 2022-12-01 | 62 | 5 | 
 

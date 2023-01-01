@@ -1,6 +1,6 @@
 # 25H/Maya - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 102
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 1244 | 102 | 
 | 2022-12-30 | 1244 | 102 | 
 | 2022-12-29 | 1244 | 102 | 
 | 2022-12-28 | 1244 | 102 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 1227 | 102 | 
 | 2022-12-03 | 1228 | 101 | 
 | 2022-12-02 | 1227 | 101 | 
-| 2022-12-01 | 1227 | 101 | 
 

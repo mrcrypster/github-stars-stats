@@ -1,10 +1,10 @@
 # nolanlawson/pinafore - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
-☋ Forks: 144
+☋ Forks: 145
 
-★ Stars: 974
+★ Stars: 981
 
 [Open repository](https://github.com/nolanlawson/pinafore)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 981 | 145 | 
 | 2022-12-30 | 974 | 144 | 
 | 2022-12-29 | 973 | 143 | 
 | 2022-12-28 | 973 | 143 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 907 | 131 | 
 | 2022-12-03 | 906 | 130 | 
 | 2022-12-02 | 906 | 130 | 
-| 2022-12-01 | 904 | 128 | 
 

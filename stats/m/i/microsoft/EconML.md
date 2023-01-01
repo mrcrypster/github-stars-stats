@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 31
 
 ☋ Forks: 556
 
-★ Stars: 2640
+★ Stars: 2642
 
 [Open repository](https://github.com/microsoft/EconML)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-31 | 2640 | 556 | 
+| 2022-12-31 | 2642 | 556 | 
 | 2022-12-30 | 2640 | 556 | 
 | 2022-12-29 | 2637 | 556 | 
 | 2022-12-28 | 2631 | 556 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 2585 | 551 | 
 | 2022-12-03 | 2580 | 551 | 
 | 2022-12-02 | 2578 | 551 | 
-| 2022-12-01 | 2575 | 551 | 
 

@@ -1,10 +1,10 @@
 # tracer4b/nomi-ceu - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 45
 
-★ Stars: 59
+★ Stars: 60
 
 [Open repository](https://github.com/tracer4b/nomi-ceu)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 60 | 45 | 
 | 2022-12-30 | 59 | 45 | 
 | 2022-12-29 | 59 | 45 | 
 | 2022-12-28 | 58 | 45 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 58 | 42 | 
 | 2022-12-03 | 58 | 43 | 
 | 2022-12-02 | 58 | 42 | 
-| 2022-12-01 | 58 | 41 | 
 

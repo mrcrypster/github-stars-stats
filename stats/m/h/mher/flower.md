@@ -1,6 +1,6 @@
 # mher/flower - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 980
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 5504 | 980 | 
 | 2022-12-30 | 5504 | 980 | 
 | 2022-12-29 | 5502 | 980 | 
 | 2022-12-28 | 5500 | 980 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 5472 | 977 | 
 | 2022-12-03 | 5472 | 977 | 
 | 2022-12-02 | 5470 | 977 | 
-| 2022-12-01 | 5467 | 977 | 
 

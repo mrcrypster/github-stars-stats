@@ -1,6 +1,6 @@
 # fathyb/html2svg - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 658 | 13 | 
 | 2022-12-30 | 658 | 13 | 
 | 2022-12-29 | 658 | 13 | 
 | 2022-12-28 | 659 | 13 | 

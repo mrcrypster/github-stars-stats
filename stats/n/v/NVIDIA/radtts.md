@@ -1,10 +1,10 @@
 # NVIDIA/radtts - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 18
 
-★ Stars: 178
+★ Stars: 179
 
 [Open repository](https://github.com/NVIDIA/radtts)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 179 | 18 | 
 | 2022-12-30 | 178 | 18 | 
 | 2022-12-29 | 177 | 18 | 
 | 2022-12-28 | 177 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 174 | 18 | 
 | 2022-12-03 | 174 | 18 | 
 | 2022-12-02 | 174 | 18 | 
-| 2022-12-01 | 174 | 18 | 
 

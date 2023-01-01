@@ -1,10 +1,10 @@
 # OnionBrowser/OnionBrowser - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 438
 
-★ Stars: 1964
+★ Stars: 1966
 
 [Open repository](https://github.com/OnionBrowser/OnionBrowser)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 1966 | 438 | 
 | 2022-12-30 | 1964 | 438 | 
 | 2022-12-29 | 1964 | 438 | 
 | 2022-12-28 | 1963 | 438 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 1954 | 435 | 
 | 2022-12-03 | 1954 | 435 | 
 | 2022-12-02 | 1952 | 435 | 
-| 2022-12-01 | 1951 | 435 | 
 

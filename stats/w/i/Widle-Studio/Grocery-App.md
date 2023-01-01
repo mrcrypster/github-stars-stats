@@ -1,6 +1,6 @@
 # Widle-Studio/Grocery-App - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 416
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 811 | 416 | 
 | 2022-12-30 | 811 | 416 | 
 | 2022-12-29 | 811 | 416 | 
 | 2022-12-28 | 810 | 415 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 791 | 408 | 
 | 2022-12-04 | 790 | 408 | 
 | 2022-12-03 | 790 | 408 | 
-| 2022-12-02 | 789 | 408 | 
 

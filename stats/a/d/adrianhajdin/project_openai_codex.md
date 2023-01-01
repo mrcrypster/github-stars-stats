@@ -1,10 +1,10 @@
 # adrianhajdin/project_openai_codex - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
-☋ Forks: 116
+☋ Forks: 127
 
-★ Stars: 341
+★ Stars: 358
 
 [Open repository](https://github.com/adrianhajdin/project_openai_codex)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 358 | 127 | 
 | 2022-12-30 | 341 | 116 | 
 | 2022-12-29 | 296 | 106 | 
 | 2022-12-28 | 284 | 102 | 

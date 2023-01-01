@@ -1,6 +1,6 @@
 # cilium/tetragon - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 158
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 1994 | 158 | 
 | 2022-12-30 | 1994 | 158 | 
 | 2022-12-29 | 1992 | 158 | 
 | 2022-12-28 | 1992 | 157 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 1963 | 152 | 
 | 2022-12-03 | 1962 | 152 | 
 | 2022-12-02 | 1961 | 152 | 
-| 2022-12-01 | 1959 | 153 | 
 

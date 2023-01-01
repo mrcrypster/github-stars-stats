@@ -1,10 +1,10 @@
 # NirAharon/BoT-SORT - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 74
 
-★ Stars: 348
+★ Stars: 349
 
 [Open repository](https://github.com/NirAharon/BoT-SORT)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 349 | 74 | 
 | 2022-12-30 | 348 | 74 | 
 | 2022-12-29 | 347 | 74 | 
 | 2022-12-28 | 347 | 75 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 334 | 71 | 
 | 2022-12-03 | 333 | 71 | 
 | 2022-12-02 | 333 | 71 | 
-| 2022-12-01 | 333 | 71 | 
 

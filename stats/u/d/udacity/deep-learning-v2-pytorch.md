@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 31
 
 ☋ Forks: 5179
 
-★ Stars: 4803
+★ Stars: 4804
 
 [Open repository](https://github.com/udacity/deep-learning-v2-pytorch)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-31 | 4803 | 5179 | 
+| 2022-12-31 | 4804 | 5179 | 
 | 2022-12-30 | 4803 | 5179 | 
 | 2022-12-29 | 4801 | 5179 | 
 | 2022-12-28 | 4800 | 5177 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-04 | 4775 | 5165 | 
 | 2022-12-03 | 4775 | 5166 | 
 | 2022-12-02 | 4774 | 5165 | 
-| 2022-12-01 | 4774 | 5165 | 
 

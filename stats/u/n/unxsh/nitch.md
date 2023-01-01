@@ -1,10 +1,10 @@
 # unxsh/nitch - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 20
 
-★ Stars: 218
+★ Stars: 220
 
 [Open repository](https://github.com/unxsh/nitch)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 220 | 20 | 
 | 2022-12-30 | 218 | 20 | 
 | 2022-12-29 | 219 | 20 | 
 | 2022-12-28 | 219 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 211 | 17 | 
 | 2022-12-03 | 211 | 17 | 
 | 2022-12-02 | 211 | 17 | 
-| 2022-12-01 | 211 | 17 | 
 

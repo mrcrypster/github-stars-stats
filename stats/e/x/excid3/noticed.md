@@ -1,6 +1,6 @@
 # excid3/noticed - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 108
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 1813 | 108 | 
 | 2022-12-30 | 1813 | 108 | 
 | 2022-12-29 | 1811 | 108 | 
 | 2022-12-28 | 1811 | 108 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 1793 | 107 | 
 | 2022-12-03 | 1791 | 107 | 
 | 2022-12-02 | 1791 | 106 | 
-| 2022-12-01 | 1789 | 106 | 
 

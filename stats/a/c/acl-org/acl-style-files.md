@@ -1,8 +1,8 @@
 # acl-org/acl-style-files - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
-☋ Forks: 71
+☋ Forks: 72
 
 ★ Stars: 213
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 213 | 72 | 
 | 2022-12-30 | 213 | 71 | 
 | 2022-12-29 | 213 | 71 | 
 | 2022-12-28 | 213 | 71 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 208 | 70 | 
 | 2022-12-03 | 207 | 70 | 
 | 2022-12-02 | 207 | 70 | 
-| 2022-12-01 | 207 | 70 | 
 

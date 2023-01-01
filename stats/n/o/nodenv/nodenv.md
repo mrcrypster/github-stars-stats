@@ -1,6 +1,6 @@
 # nodenv/nodenv - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 125
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 1889 | 125 | 
 | 2022-12-30 | 1889 | 125 | 
 | 2022-12-29 | 1888 | 125 | 
 | 2022-12-28 | 1887 | 125 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 1872 | 124 | 
 | 2022-12-03 | 1872 | 124 | 
 | 2022-12-02 | 1871 | 124 | 
-| 2022-12-01 | 1870 | 124 | 
 

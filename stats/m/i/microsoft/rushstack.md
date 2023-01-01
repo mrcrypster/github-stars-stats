@@ -1,10 +1,10 @@
 # microsoft/rushstack - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 510
 
-★ Stars: 4681
+★ Stars: 4682
 
 [Open repository](https://github.com/microsoft/rushstack)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 4682 | 510 | 
 | 2022-12-30 | 4681 | 510 | 
 | 2022-12-29 | 4679 | 510 | 
 | 2022-12-28 | 4677 | 509 | 

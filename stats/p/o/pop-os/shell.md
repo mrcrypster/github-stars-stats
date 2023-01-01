@@ -1,10 +1,10 @@
 # pop-os/shell - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 228
 
-★ Stars: 4005
+★ Stars: 4006
 
 [Open repository](https://github.com/pop-os/shell)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 4006 | 228 | 
 | 2022-12-30 | 4005 | 228 | 
 | 2022-12-29 | 4003 | 228 | 
 | 2022-12-28 | 3999 | 228 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 3975 | 227 | 
 | 2022-12-04 | 3973 | 227 | 
 | 2022-12-02 | 3969 | 227 | 
-| 2022-12-01 | 3966 | 227 | 
 

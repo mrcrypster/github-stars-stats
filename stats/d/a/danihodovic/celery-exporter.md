@@ -1,6 +1,6 @@
 # danihodovic/celery-exporter - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 215 | 52 | 
 | 2022-12-30 | 215 | 52 | 
 | 2022-12-29 | 214 | 52 | 
 | 2022-12-28 | 214 | 52 | 

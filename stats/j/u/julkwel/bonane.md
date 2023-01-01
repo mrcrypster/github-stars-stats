@@ -1,10 +1,10 @@
 # julkwel/bonane - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
-☋ Forks: 68
+☋ Forks: 72
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/julkwel/bonane)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 20 | 72 | 
 | 2022-12-30 | 19 | 68 | 
 | 2022-12-29 | 19 | 67 | 
 | 2022-12-28 | 19 | 67 | 

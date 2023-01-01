@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 31
 
 ☋ Forks: 12
 
-★ Stars: 58
+★ Stars: 59
 
 [Open repository](https://github.com/pracsec/AmsiBypassHookManagedAPI)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-31 | 58 | 12 | 
+| 2022-12-31 | 59 | 12 | 
 | 2022-12-30 | 58 | 12 | 
 

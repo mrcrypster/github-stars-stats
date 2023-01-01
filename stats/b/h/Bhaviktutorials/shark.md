@@ -1,8 +1,8 @@
 # Bhaviktutorials/shark - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
-☋ Forks: 90
+☋ Forks: 91
 
 ★ Stars: 612
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 612 | 91 | 
 | 2022-12-30 | 612 | 90 | 
 | 2022-12-29 | 612 | 90 | 
 | 2022-12-28 | 612 | 90 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 600 | 87 | 
 | 2022-12-03 | 600 | 87 | 
 | 2022-12-02 | 600 | 87 | 
-| 2022-12-01 | 600 | 87 | 
 

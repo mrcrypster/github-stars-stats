@@ -1,8 +1,8 @@
 # miekg/dns - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
-☋ Forks: 1034
+☋ Forks: 1035
 
 ★ Stars: 6682
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 6682 | 1035 | 
 | 2022-12-30 | 6682 | 1034 | 
 | 2022-12-29 | 6679 | 1034 | 
 | 2022-12-28 | 6677 | 1033 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 6632 | 1027 | 
 | 2022-12-03 | 6631 | 1027 | 
 | 2022-12-02 | 6630 | 1027 | 
-| 2022-12-01 | 6629 | 1027 | 
 

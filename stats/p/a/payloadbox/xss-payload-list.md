@@ -1,10 +1,10 @@
 # payloadbox/xss-payload-list - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
-☋ Forks: 1292
+☋ Forks: 1295
 
-★ Stars: 4001
+★ Stars: 4004
 
 [Open repository](https://github.com/payloadbox/xss-payload-list)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 4004 | 1295 | 
 | 2022-12-30 | 4001 | 1292 | 
 | 2022-12-29 | 3999 | 1291 | 
 | 2022-12-28 | 3998 | 1289 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 3928 | 1256 | 
 | 2022-12-04 | 3923 | 1255 | 
 | 2022-12-03 | 3917 | 1253 | 
-| 2022-12-02 | 3912 | 1249 | 
 

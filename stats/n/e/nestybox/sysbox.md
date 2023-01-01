@@ -1,6 +1,6 @@
 # nestybox/sysbox - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 108
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 1758 | 108 | 
 | 2022-12-30 | 1758 | 108 | 
 | 2022-12-29 | 1757 | 107 | 
 | 2022-12-28 | 1756 | 107 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 1723 | 102 | 
 | 2022-12-04 | 1722 | 102 | 
 | 2022-12-03 | 1721 | 102 | 
-| 2022-12-01 | 1719 | 102 | 
 

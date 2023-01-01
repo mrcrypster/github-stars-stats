@@ -1,6 +1,6 @@
 # ldelossa/nvim-ide - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 519 | 14 | 
 | 2022-12-30 | 519 | 14 | 
 | 2022-12-29 | 519 | 14 | 
 | 2022-12-28 | 516 | 13 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 446 | 9 | 
 | 2022-12-03 | 439 | 9 | 
 | 2022-12-02 | 430 | 9 | 
-| 2022-12-01 | 427 | 9 | 
 

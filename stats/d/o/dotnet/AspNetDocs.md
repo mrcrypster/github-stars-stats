@@ -1,6 +1,6 @@
 # dotnet/AspNetDocs - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 1180
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 267 | 1180 | 
 | 2022-12-30 | 267 | 1180 | 
 | 2022-12-29 | 266 | 1176 | 
 | 2022-12-28 | 266 | 1175 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 263 | 1166 | 
 | 2022-12-04 | 262 | 1166 | 
 | 2022-12-03 | 262 | 1166 | 
-| 2022-12-01 | 262 | 1167 | 
 

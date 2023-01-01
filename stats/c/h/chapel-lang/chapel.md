@@ -1,10 +1,10 @@
 # chapel-lang/chapel - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 397
 
-★ Stars: 1527
+★ Stars: 1528
 
 [Open repository](https://github.com/chapel-lang/chapel)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 1528 | 397 | 
 | 2022-12-30 | 1527 | 397 | 
 | 2022-12-29 | 1526 | 397 | 
 | 2022-12-28 | 1526 | 397 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 1516 | 396 | 
 | 2022-12-03 | 1514 | 396 | 
 | 2022-12-02 | 1513 | 396 | 
-| 2022-12-01 | 1513 | 396 | 
 

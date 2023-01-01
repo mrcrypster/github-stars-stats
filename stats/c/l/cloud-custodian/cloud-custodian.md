@@ -1,10 +1,10 @@
 # cloud-custodian/cloud-custodian - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 1256
 
-★ Stars: 4578
+★ Stars: 4579
 
 [Open repository](https://github.com/cloud-custodian/cloud-custodian)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 4579 | 1256 | 
 | 2022-12-30 | 4578 | 1256 | 
 | 2022-12-29 | 4578 | 1255 | 
 | 2022-12-28 | 4578 | 1256 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 4547 | 1243 | 
 | 2022-12-03 | 4546 | 1243 | 
 | 2022-12-02 | 4545 | 1245 | 
-| 2022-12-01 | 4544 | 1245 | 
 

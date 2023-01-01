@@ -1,10 +1,10 @@
 # mitchellh/zig-js - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 1
 
-★ Stars: 107
+★ Stars: 109
 
 [Open repository](https://github.com/mitchellh/zig-js)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 109 | 1 | 
 | 2022-12-30 | 107 | 1 | 
 | 2022-12-29 | 107 | 1 | 
 | 2022-12-28 | 107 | 1 | 

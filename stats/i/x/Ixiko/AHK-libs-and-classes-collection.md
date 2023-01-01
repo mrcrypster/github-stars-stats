@@ -1,6 +1,6 @@
 # Ixiko/AHK-libs-and-classes-collection - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 247 | 60 | 
 | 2022-12-30 | 247 | 60 | 
 | 2022-12-29 | 247 | 60 | 
 | 2022-12-28 | 247 | 60 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 244 | 60 | 
 | 2022-12-03 | 243 | 59 | 
 | 2022-12-02 | 243 | 59 | 
-| 2022-12-01 | 242 | 59 | 
 

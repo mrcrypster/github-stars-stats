@@ -1,10 +1,10 @@
 # mandiant/Ghidrathon - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 23
 
-★ Stars: 432
+★ Stars: 433
 
 [Open repository](https://github.com/mandiant/Ghidrathon)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 433 | 23 | 
 | 2022-12-30 | 432 | 23 | 
 | 2022-12-29 | 431 | 23 | 
 | 2022-12-28 | 431 | 23 | 

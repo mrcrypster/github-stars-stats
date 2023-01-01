@@ -1,10 +1,10 @@
 # nuxt/nuxt.new - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 0
 
-★ Stars: 76
+★ Stars: 77
 
 [Open repository](https://github.com/nuxt/nuxt.new)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 77 | - | 
 | 2022-12-30 | 76 | - | 
 | 2022-12-29 | 76 | - | 
 | 2022-12-28 | 76 | - | 

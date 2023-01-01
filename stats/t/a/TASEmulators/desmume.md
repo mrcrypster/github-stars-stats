@@ -1,10 +1,10 @@
 # TASEmulators/desmume - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
-☋ Forks: 391
+☋ Forks: 390
 
-★ Stars: 1903
+★ Stars: 1908
 
 [Open repository](https://github.com/TASEmulators/desmume)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 1908 | 390 | 
 | 2022-12-30 | 1903 | 391 | 
 | 2022-12-29 | 1903 | 391 | 
 | 2022-12-28 | 1903 | 390 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 1859 | 380 | 
 | 2022-12-04 | 1852 | 380 | 
 | 2022-12-03 | 1852 | 381 | 
-| 2022-12-02 | 1850 | 381 | 
 

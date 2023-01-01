@@ -1,6 +1,6 @@
 # ductham08/yeu_hoa - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 6 | 27 | 
 | 2022-12-30 | 6 | 27 | 
 | 2022-12-29 | 6 | 27 | 
 | 2022-12-28 | 6 | 27 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 6 | 29 | 
 | 2022-12-03 | 6 | 29 | 
 | 2022-12-02 | 6 | 29 | 
-| 2022-12-01 | 6 | 29 | 
 

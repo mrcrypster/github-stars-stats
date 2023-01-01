@@ -1,10 +1,10 @@
 # thomas-waite/erc4337-wallet - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 0
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/thomas-waite/erc4337-wallet)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 35 | - | 
 | 2022-12-30 | 34 | - | 
 | 2022-12-29 | 34 | - | 
 | 2022-12-28 | 34 | - | 

@@ -1,6 +1,6 @@
 # sbt/sbt - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 904
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 4604 | 904 | 
 | 2022-12-30 | 4604 | 904 | 
 | 2022-12-29 | 4603 | 904 | 
 | 2022-12-28 | 4603 | 904 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 4596 | 901 | 
 | 2022-12-03 | 4596 | 901 | 
 | 2022-12-02 | 4596 | 901 | 
-| 2022-12-01 | 4594 | 901 | 
 

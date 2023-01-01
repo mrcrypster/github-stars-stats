@@ -1,10 +1,10 @@
 # babysor/MockingBird - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
-☋ Forks: 3780
+☋ Forks: 3783
 
-★ Stars: 25560
+★ Stars: 25569
 
 [Open repository](https://github.com/babysor/MockingBird)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 25569 | 3783 | 
 | 2022-12-30 | 25560 | 3780 | 
 | 2022-12-29 | 25542 | 3774 | 
 | 2022-12-28 | 25530 | 3770 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 25244 | 3733 | 
 | 2022-12-03 | 25220 | 3729 | 
 | 2022-12-02 | 25206 | 3727 | 
-| 2022-12-01 | 25196 | 3726 | 
 

@@ -1,6 +1,6 @@
 # mauran/API-Danmark - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 401 | 40 | 
 | 2022-12-30 | 401 | 40 | 
 | 2022-12-29 | 401 | 41 | 
 | 2022-12-28 | 401 | 41 | 

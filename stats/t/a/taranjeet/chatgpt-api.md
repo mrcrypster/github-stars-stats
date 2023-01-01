@@ -1,8 +1,8 @@
 # taranjeet/chatgpt-api - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
-☋ Forks: 95
+☋ Forks: 96
 
 ★ Stars: 537
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 537 | 96 | 
 | 2022-12-30 | 537 | 95 | 
 | 2022-12-29 | 536 | 95 | 
 | 2022-12-28 | 532 | 95 | 

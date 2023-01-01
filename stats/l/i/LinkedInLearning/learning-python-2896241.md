@@ -1,6 +1,6 @@
 # LinkedInLearning/learning-python-2896241 - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 449
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 244 | 449 | 
 | 2022-12-30 | 244 | 449 | 
 | 2022-12-29 | 243 | 446 | 
 | 2022-12-28 | 243 | 445 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 219 | 423 | 
 | 2022-12-04 | 220 | 422 | 
 | 2022-12-03 | 221 | 420 | 
-| 2022-12-01 | 220 | 419 | 
 

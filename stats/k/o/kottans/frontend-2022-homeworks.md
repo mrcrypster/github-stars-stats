@@ -1,6 +1,6 @@
 # kottans/frontend-2022-homeworks - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 201
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 15 | 201 | 
 | 2022-12-30 | 15 | 201 | 
 | 2022-12-29 | 15 | 202 | 
 | 2022-12-28 | 15 | 202 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 15 | 204 | 
 | 2022-12-04 | 15 | 204 | 
 | 2022-12-03 | 15 | 204 | 
-| 2022-12-01 | 15 | 204 | 
 

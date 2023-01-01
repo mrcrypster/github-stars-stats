@@ -1,10 +1,10 @@
 # getyourguide/paparazzi-plugin - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 1
 
-★ Stars: 137
+★ Stars: 138
 
 [Open repository](https://github.com/getyourguide/paparazzi-plugin)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 138 | 1 | 
 | 2022-12-30 | 137 | 1 | 
 | 2022-12-29 | 136 | 1 | 
 | 2022-12-28 | 136 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 125 | 1 | 
 | 2022-12-03 | 124 | 1 | 
 | 2022-12-02 | 122 | - | 
-| 2022-12-01 | 119 | - | 
 

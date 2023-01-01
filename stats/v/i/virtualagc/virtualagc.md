@@ -1,6 +1,6 @@
 # virtualagc/virtualagc - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 320
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 2228 | 320 | 
 | 2022-12-30 | 2228 | 320 | 
 | 2022-12-29 | 2228 | 320 | 
 | 2022-12-28 | 2228 | 319 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 2226 | 319 | 
 | 2022-12-03 | 2226 | 319 | 
 | 2022-12-02 | 2225 | 319 | 
-| 2022-12-01 | 2225 | 319 | 
 

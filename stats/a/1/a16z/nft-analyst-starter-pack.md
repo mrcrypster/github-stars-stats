@@ -1,6 +1,6 @@
 # a16z/nft-analyst-starter-pack - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 425 | 73 | 
 | 2022-12-30 | 425 | 73 | 
 | 2022-12-29 | 425 | 73 | 
 | 2022-12-28 | 425 | 73 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 415 | 70 | 
 | 2022-12-03 | 414 | 69 | 
 | 2022-12-02 | 414 | 69 | 
-| 2022-12-01 | 414 | 69 | 
 

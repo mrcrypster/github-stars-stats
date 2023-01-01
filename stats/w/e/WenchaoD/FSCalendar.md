@@ -1,10 +1,10 @@
 # WenchaoD/FSCalendar - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 1875
 
-★ Stars: 10239
+★ Stars: 10241
 
 [Open repository](https://github.com/WenchaoD/FSCalendar)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 10241 | 1875 | 
+| 2022-12-31 | 10241 | 1875 | 
 | 2022-12-30 | 10239 | 1875 | 
 | 2022-12-29 | 10238 | 1875 | 
 | 2022-12-28 | 10236 | 1875 | 
@@ -41,5 +43,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 10220 | 1876 | 
 | 2022-12-03 | 10220 | 1876 | 
 | 2022-12-02 | 10219 | 1876 | 
-| 2022-12-01 | 10218 | 1876 | 
 

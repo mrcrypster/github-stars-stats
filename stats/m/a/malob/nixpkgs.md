@@ -1,10 +1,10 @@
 # malob/nixpkgs - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 22
 
-★ Stars: 241
+★ Stars: 240
 
 [Open repository](https://github.com/malob/nixpkgs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 240 | 22 | 
 | 2022-12-30 | 241 | 22 | 
 | 2022-12-29 | 241 | 22 | 
 | 2022-12-28 | 241 | 22 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 237 | 21 | 
 | 2022-12-04 | 236 | 21 | 
 | 2022-12-02 | 235 | 21 | 
-| 2022-12-01 | 235 | 20 | 
 

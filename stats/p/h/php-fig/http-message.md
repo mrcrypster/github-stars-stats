@@ -1,10 +1,10 @@
 # php-fig/http-message - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 178
 
-★ Stars: 6673
+★ Stars: 6674
 
 [Open repository](https://github.com/php-fig/http-message)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 6674 | 178 | 
 | 2022-12-30 | 6673 | 178 | 
 | 2022-12-29 | 6672 | 178 | 
 | 2022-12-28 | 6671 | 178 | 

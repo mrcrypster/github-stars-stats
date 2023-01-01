@@ -1,6 +1,6 @@
 # orefalo/svelte-splitpanes - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 140 | 11 | 
 | 2022-12-30 | 140 | 11 | 
 | 2022-12-29 | 140 | 11 | 
 | 2022-12-28 | 134 | 10 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 120 | 9 | 
 | 2022-12-04 | 120 | 9 | 
 | 2022-12-03 | 119 | 9 | 
-| 2022-12-02 | 119 | 9 | 
 

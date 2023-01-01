@@ -1,6 +1,6 @@
 # status-im/nim-faststreams - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 91 | 11 | 
 | 2022-12-30 | 91 | 11 | 
 | 2022-12-29 | 91 | 11 | 
 | 2022-12-28 | 91 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 90 | 10 | 
 | 2022-12-04 | 90 | 10 | 
 | 2022-12-03 | 90 | 10 | 
-| 2022-12-01 | 90 | 10 | 
 

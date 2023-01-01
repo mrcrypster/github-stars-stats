@@ -1,10 +1,10 @@
 # davidfowl/AspNetCoreDiagnosticScenarios - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 581
 
-★ Stars: 5949
+★ Stars: 5955
 
 [Open repository](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 5955 | 581 | 
 | 2022-12-30 | 5949 | 581 | 
 | 2022-12-29 | 5942 | 580 | 
 | 2022-12-28 | 5932 | 577 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 5738 | 554 | 
 | 2022-12-03 | 5738 | 555 | 
 | 2022-12-02 | 5737 | 555 | 
-| 2022-12-01 | 5734 | 555 | 
 

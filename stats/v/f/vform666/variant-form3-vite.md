@@ -1,6 +1,6 @@
 # vform666/variant-form3-vite - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 119
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 383 | 119 | 
 | 2022-12-30 | 383 | 119 | 
 | 2022-12-29 | 380 | 119 | 
 | 2022-12-28 | 378 | 119 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 351 | 108 | 
 | 2022-12-04 | 351 | 107 | 
 | 2022-12-03 | 350 | 107 | 
-| 2022-12-02 | 349 | 107 | 
 

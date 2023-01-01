@@ -1,6 +1,6 @@
 # GenieFramework/Genie.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 175
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 1921 | 175 | 
 | 2022-12-30 | 1921 | 175 | 
 | 2022-12-29 | 1920 | 175 | 
 | 2022-12-28 | 1920 | 175 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 1904 | 173 | 
 | 2022-12-03 | 1904 | 173 | 
 | 2022-12-02 | 1904 | 172 | 
-| 2022-12-01 | 1903 | 172 | 
 

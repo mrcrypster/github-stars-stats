@@ -1,10 +1,10 @@
 # JuliaStats/Distributions.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 371
 
-★ Stars: 945
+★ Stars: 947
 
 [Open repository](https://github.com/JuliaStats/Distributions.jl)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 947 | 371 | 
+| 2022-12-31 | 946 | 371 | 
 | 2022-12-30 | 945 | 371 | 
 | 2022-12-29 | 945 | 370 | 
 | 2022-12-28 | 945 | 370 | 
@@ -40,5 +42,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 941 | 367 | 
 | 2022-12-03 | 941 | 367 | 
 | 2022-12-02 | 941 | 366 | 
-| 2022-12-01 | 940 | 366 | 
 

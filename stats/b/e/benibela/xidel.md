@@ -1,10 +1,10 @@
 # benibela/xidel - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 36
 
-★ Stars: 532
+★ Stars: 533
 
 [Open repository](https://github.com/benibela/xidel)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 533 | 36 | 
 | 2022-12-30 | 532 | 36 | 
 | 2022-12-29 | 532 | 36 | 
 | 2022-12-28 | 531 | 36 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 522 | 35 | 
 | 2022-12-03 | 522 | 35 | 
 | 2022-12-02 | 522 | 35 | 
-| 2022-12-01 | 522 | 35 | 
 

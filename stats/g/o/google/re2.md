@@ -1,10 +1,10 @@
 # google/re2 - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
-☋ Forks: 1064
+☋ Forks: 1067
 
-★ Stars: 7465
+★ Stars: 7467
 
 [Open repository](https://github.com/google/re2)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 7467 | 1067 | 
 | 2022-12-30 | 7465 | 1064 | 
 | 2022-12-29 | 7460 | 1064 | 
 | 2022-12-28 | 7458 | 1064 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 7410 | 1060 | 
 | 2022-12-03 | 7408 | 1060 | 
 | 2022-12-02 | 7406 | 1060 | 
-| 2022-12-01 | 7400 | 1058 | 
 

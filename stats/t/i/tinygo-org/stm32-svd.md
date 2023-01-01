@@ -1,6 +1,6 @@
 # tinygo-org/stm32-svd - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 10 | 8 | 
 | 2022-12-30 | 10 | 8 | 
 | 2022-12-29 | 10 | 8 | 
 | 2022-12-28 | 10 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 8 | 7 | 
 | 2022-12-03 | 8 | 7 | 
 | 2022-12-02 | 8 | 7 | 
-| 2022-12-01 | 8 | 7 | 
 

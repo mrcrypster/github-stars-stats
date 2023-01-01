@@ -1,6 +1,6 @@
 # retnullyu/scanner-front - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 161 | 2 | 
 | 2022-12-30 | 161 | 2 | 
 | 2022-12-29 | 161 | 2 | 
 | 2022-12-28 | 161 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 162 | 2 | 
 | 2022-12-03 | 162 | 2 | 
 | 2022-12-02 | 162 | 2 | 
-| 2022-12-01 | 162 | 2 | 
 

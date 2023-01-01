@@ -1,10 +1,10 @@
 # RamiKrispin/atsaf - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 6
 
-★ Stars: 96
+★ Stars: 98
 
 [Open repository](https://github.com/RamiKrispin/atsaf)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 98 | 6 | 
 | 2022-12-30 | 96 | 6 | 
 | 2022-12-29 | 96 | 6 | 
 | 2022-12-28 | 96 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 95 | 6 | 
 | 2022-12-03 | 95 | 6 | 
 | 2022-12-02 | 95 | 6 | 
-| 2022-12-01 | 95 | 6 | 
 

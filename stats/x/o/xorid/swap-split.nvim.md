@@ -1,6 +1,6 @@
 # xorid/swap-split.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 34 | - | 
 | 2022-12-31 | 34 | - | 
 | 2022-12-30 | 34 | - | 
 | 2022-12-28 | 34 | - | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-04 | 30 | - | 
 | 2022-12-03 | 30 | - | 
 | 2022-12-02 | 29 | - | 
-| 2022-12-01 | 29 | - | 
 

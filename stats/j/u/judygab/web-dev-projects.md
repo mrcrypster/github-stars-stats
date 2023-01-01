@@ -1,10 +1,10 @@
 # judygab/web-dev-projects - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
-☋ Forks: 1410
+☋ Forks: 1417
 
-★ Stars: 894
+★ Stars: 899
 
 [Open repository](https://github.com/judygab/web-dev-projects)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 899 | 1417 | 
 | 2022-12-30 | 894 | 1410 | 
 | 2022-12-29 | 893 | 1398 | 
 | 2022-12-28 | 891 | 1390 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 791 | 1244 | 
 | 2022-12-03 | 786 | 1237 | 
 | 2022-12-02 | 783 | 1231 | 
-| 2022-12-01 | 778 | 1228 | 
 

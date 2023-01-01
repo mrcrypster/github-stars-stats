@@ -1,6 +1,6 @@
 # brainrake/nixos-tutorial - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 130 | 6 | 
 | 2022-12-30 | 130 | 6 | 
 | 2022-12-29 | 129 | 6 | 
 | 2022-12-28 | 129 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 124 | 6 | 
 | 2022-12-04 | 124 | 6 | 
 | 2022-12-02 | 124 | 6 | 
-| 2022-12-01 | 124 | 6 | 
 

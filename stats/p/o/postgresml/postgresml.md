@@ -1,10 +1,10 @@
 # postgresml/postgresml - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 72
 
-★ Stars: 2231
+★ Stars: 2232
 
 [Open repository](https://github.com/postgresml/postgresml)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 2232 | 72 | 
 | 2022-12-30 | 2231 | 72 | 
 | 2022-12-29 | 2230 | 72 | 
 | 2022-12-28 | 2230 | 72 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 2207 | 70 | 
 | 2022-12-04 | 2205 | 70 | 
 | 2022-12-03 | 2205 | 70 | 
-| 2022-12-02 | 2205 | 70 | 
 

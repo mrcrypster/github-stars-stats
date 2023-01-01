@@ -1,6 +1,6 @@
 # ggdream/scss - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 85
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 143 | 85 | 
 | 2022-12-31 | 143 | 85 | 
 | 2022-12-29 | 143 | 85 | 
 | 2022-12-28 | 143 | 85 | 

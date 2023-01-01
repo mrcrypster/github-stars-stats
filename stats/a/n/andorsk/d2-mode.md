@@ -1,10 +1,10 @@
 # andorsk/d2-mode - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 5
 
-★ Stars: 23
+★ Stars: 25
 
 [Open repository](https://github.com/andorsk/d2-mode)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 25 | 5 | 
 | 2022-12-30 | 23 | 5 | 
 | 2022-12-29 | 23 | 5 | 
 | 2022-12-28 | 23 | 5 | 

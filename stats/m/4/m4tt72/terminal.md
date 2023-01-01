@@ -1,10 +1,10 @@
 # m4tt72/terminal - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
-☋ Forks: 122
+☋ Forks: 123
 
-★ Stars: 643
+★ Stars: 645
 
 [Open repository](https://github.com/m4tt72/terminal)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 645 | 123 | 
 | 2022-12-30 | 643 | 122 | 
 | 2022-12-29 | 643 | 122 | 
 | 2022-12-28 | 643 | 122 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 630 | 118 | 
 | 2022-12-03 | 629 | 119 | 
 | 2022-12-02 | 629 | 119 | 
-| 2022-12-01 | 627 | 119 | 
 

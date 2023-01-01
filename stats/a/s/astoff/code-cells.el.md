@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 31
 
 ☋ Forks: 6
 
-★ Stars: 102
+★ Stars: 103
 
 [Open repository](https://github.com/astoff/code-cells.el)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-31 | 102 | 6 | 
+| 2022-12-31 | 103 | 6 | 
 | 2022-12-30 | 101 | 6 | 
 

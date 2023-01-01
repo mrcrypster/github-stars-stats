@@ -1,10 +1,10 @@
 # TheLastBen/fast-stable-diffusion - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
-☋ Forks: 454
+☋ Forks: 455
 
-★ Stars: 3361
+★ Stars: 3369
 
 [Open repository](https://github.com/TheLastBen/fast-stable-diffusion)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 3369 | 455 | 
 | 2022-12-30 | 3361 | 454 | 
 | 2022-12-29 | 3345 | 451 | 
 | 2022-12-28 | 3325 | 447 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 2609 | 320 | 
 | 2022-12-03 | 2589 | 319 | 
 | 2022-12-02 | 2572 | 315 | 
-| 2022-12-01 | 2540 | 312 | 
 

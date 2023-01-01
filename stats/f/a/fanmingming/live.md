@@ -1,8 +1,8 @@
 # fanmingming/live - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
-☋ Forks: 14
+☋ Forks: 16
 
 ★ Stars: 114
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 114 | 16 | 
 | 2022-12-30 | 114 | 14 | 
 | 2022-12-29 | 111 | 13 | 
 | 2022-12-28 | 110 | 13 | 

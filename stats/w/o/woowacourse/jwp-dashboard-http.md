@@ -1,6 +1,6 @@
 # woowacourse/jwp-dashboard-http - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 133
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 3 | 133 | 
 | 2022-12-30 | 3 | 133 | 
 | 2022-12-29 | 3 | 133 | 
 | 2022-12-28 | 3 | 133 | 

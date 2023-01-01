@@ -1,6 +1,6 @@
 # lnacquaroli/LaTeXOldBooks - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 14 | 10 | 
 | 2022-12-30 | 14 | 10 | 
 | 2022-12-29 | 14 | 10 | 
 | 2022-12-28 | 14 | 9 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-06 | 12 | 8 | 
 | 2022-12-04 | 12 | 8 | 
 | 2022-12-03 | 12 | 8 | 
-| 2022-12-02 | 12 | 8 | 
 

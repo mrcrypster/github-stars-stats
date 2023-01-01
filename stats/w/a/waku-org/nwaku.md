@@ -1,10 +1,10 @@
 # waku-org/nwaku - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 26
 
-★ Stars: 104
+★ Stars: 105
 
 [Open repository](https://github.com/waku-org/nwaku)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 105 | 26 | 
 | 2022-12-30 | 104 | 26 | 
 | 2022-12-29 | 105 | 26 | 
 | 2022-12-28 | 105 | 26 | 

@@ -1,10 +1,10 @@
 # hng/tech-coops - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 155
 
-★ Stars: 1672
+★ Stars: 1671
 
 [Open repository](https://github.com/hng/tech-coops)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 1671 | 155 | 
 | 2022-12-30 | 1672 | 155 | 
 | 2022-12-29 | 1671 | 155 | 
 | 2022-12-28 | 1671 | 155 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 1660 | 154 | 
 | 2022-12-04 | 1660 | 154 | 
 | 2022-12-03 | 1659 | 154 | 
-| 2022-12-01 | 1658 | 154 | 
 

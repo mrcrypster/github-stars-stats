@@ -1,10 +1,10 @@
 # WeMakeDevs/wemakedevs - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
-☋ Forks: 93
+☋ Forks: 97
 
-★ Stars: 109
+★ Stars: 111
 
 [Open repository](https://github.com/WeMakeDevs/wemakedevs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 111 | 97 | 
 | 2022-12-30 | 109 | 93 | 
 | 2022-12-29 | 108 | 93 | 
 | 2022-12-28 | 107 | 93 | 

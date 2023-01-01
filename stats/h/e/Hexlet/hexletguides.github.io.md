@@ -1,6 +1,6 @@
 # Hexlet/hexletguides.github.io - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 140
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 123 | 140 | 
 | 2022-12-30 | 123 | 140 | 
 | 2022-12-29 | 123 | 140 | 
 | 2022-12-28 | 123 | 140 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 123 | 138 | 
 | 2022-12-04 | 123 | 137 | 
 | 2022-12-02 | 123 | 137 | 
-| 2022-12-01 | 123 | 137 | 
 

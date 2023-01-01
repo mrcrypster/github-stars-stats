@@ -1,6 +1,6 @@
 # aalmiray/java-champions - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 133
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 300 | 133 | 
 | 2022-12-30 | 300 | 133 | 
 | 2022-12-29 | 300 | 133 | 
 | 2022-12-28 | 300 | 133 | 

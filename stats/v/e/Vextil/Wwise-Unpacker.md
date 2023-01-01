@@ -1,6 +1,6 @@
 # Vextil/Wwise-Unpacker - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 77
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 393 | 77 | 
 | 2022-12-30 | 393 | 77 | 
 | 2022-12-29 | 392 | 77 | 
 | 2022-12-28 | 392 | 77 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 391 | 76 | 
 | 2022-12-04 | 391 | 76 | 
 | 2022-12-03 | 389 | 76 | 
-| 2022-12-01 | 389 | 76 | 
 

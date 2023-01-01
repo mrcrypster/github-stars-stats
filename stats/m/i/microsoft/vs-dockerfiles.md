@@ -1,6 +1,6 @@
 # microsoft/vs-dockerfiles - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 207 | 75 | 
 | 2022-12-30 | 207 | 75 | 
 | 2022-12-29 | 207 | 75 | 
 | 2022-12-28 | 207 | 75 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 204 | 74 | 
 | 2022-12-04 | 204 | 74 | 
 | 2022-12-03 | 204 | 74 | 
-| 2022-12-01 | 204 | 74 | 
 

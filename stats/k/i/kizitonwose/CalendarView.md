@@ -1,10 +1,10 @@
 # kizitonwose/CalendarView - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 407
 
-★ Stars: 3407
+★ Stars: 3406
 
 [Open repository](https://github.com/kizitonwose/CalendarView)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 3406 | 407 | 
 | 2022-12-30 | 3407 | 407 | 
 | 2022-12-29 | 3404 | 408 | 
 | 2022-12-28 | 3405 | 408 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 3372 | 403 | 
 | 2022-12-03 | 3373 | 403 | 
 | 2022-12-02 | 3373 | 403 | 
-| 2022-12-01 | 3373 | 403 | 
 

@@ -1,8 +1,8 @@
 # FuelLabs/fuels-wallet - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
-☋ Forks: 87
+☋ Forks: 88
 
 ★ Stars: 157
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 157 | 88 | 
 | 2022-12-30 | 157 | 87 | 
 | 2022-12-29 | 157 | 87 | 
 | 2022-12-28 | 155 | 87 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 138 | 81 | 
 | 2022-12-03 | 135 | 79 | 
 | 2022-12-02 | 131 | 79 | 
-| 2022-12-01 | 127 | 78 | 
 

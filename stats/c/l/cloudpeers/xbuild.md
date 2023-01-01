@@ -1,10 +1,10 @@
 # cloudpeers/xbuild - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 7
 
-★ Stars: 157
+★ Stars: 158
 
 [Open repository](https://github.com/cloudpeers/xbuild)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 158 | 7 | 
 | 2022-12-30 | 157 | 7 | 
 | 2022-12-29 | 156 | 7 | 
 | 2022-12-28 | 156 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 140 | 5 | 
 | 2022-12-04 | 141 | 5 | 
 | 2022-12-02 | 141 | 5 | 
-| 2022-12-01 | 140 | 5 | 
 

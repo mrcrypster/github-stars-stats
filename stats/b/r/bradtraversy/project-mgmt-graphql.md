@@ -1,10 +1,10 @@
 # bradtraversy/project-mgmt-graphql - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
-☋ Forks: 142
+☋ Forks: 141
 
-★ Stars: 243
+★ Stars: 244
 
 [Open repository](https://github.com/bradtraversy/project-mgmt-graphql)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 244 | 141 | 
 | 2022-12-30 | 243 | 142 | 
 | 2022-12-29 | 241 | 142 | 
 | 2022-12-28 | 240 | 142 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 229 | 133 | 
 | 2022-12-03 | 229 | 131 | 
 | 2022-12-02 | 229 | 131 | 
-| 2022-12-01 | 229 | 132 | 
 

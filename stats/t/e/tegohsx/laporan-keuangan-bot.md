@@ -1,6 +1,6 @@
 # tegohsx/laporan-keuangan-bot - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 144 | 55 | 
 | 2022-12-30 | 144 | 55 | 
 | 2022-12-29 | 143 | 55 | 
 | 2022-12-28 | 143 | 55 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 138 | 53 | 
 | 2022-12-04 | 138 | 53 | 
 | 2022-12-03 | 138 | 53 | 
-| 2022-12-01 | 138 | 53 | 
 

@@ -1,10 +1,10 @@
 # mRs-/Black-Friday-Deals - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 241
 
-★ Stars: 1376
+★ Stars: 1375
 
 [Open repository](https://github.com/mRs-/Black-Friday-Deals)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 1375 | 241 | 
 | 2022-12-30 | 1376 | 241 | 
 | 2022-12-29 | 1375 | 241 | 
 | 2022-12-28 | 1377 | 241 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 1368 | 243 | 
 | 2022-12-03 | 1367 | 243 | 
 | 2022-12-02 | 1367 | 244 | 
-| 2022-12-01 | 1367 | 244 | 
 

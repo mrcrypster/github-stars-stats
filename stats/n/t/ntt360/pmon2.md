@@ -1,10 +1,10 @@
 # ntt360/pmon2 - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 104
 
-★ Stars: 748
+★ Stars: 749
 
 [Open repository](https://github.com/ntt360/pmon2)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 749 | 104 | 
 | 2022-12-30 | 748 | 104 | 
 | 2022-12-29 | 748 | 104 | 
 | 2022-12-28 | 748 | 104 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 736 | 102 | 
 | 2022-12-03 | 736 | 102 | 
 | 2022-12-02 | 736 | 102 | 
-| 2022-12-01 | 736 | 102 | 
 

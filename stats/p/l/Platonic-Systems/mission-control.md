@@ -1,10 +1,10 @@
 # Platonic-Systems/mission-control - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 2
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/Platonic-Systems/mission-control)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 17 | 2 | 
 | 2022-12-30 | 16 | 2 | 
 | 2022-12-29 | 16 | 2 | 
 | 2022-12-28 | 15 | 2 | 

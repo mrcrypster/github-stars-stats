@@ -1,10 +1,10 @@
 # jrsoftware/issrc - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 803
 
-★ Stars: 3165
+★ Stars: 3166
 
 [Open repository](https://github.com/jrsoftware/issrc)
 
@@ -13,7 +13,8 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-31 | 3165 | 803 | 
+| 2023-01-01 | 3166 | 803 | 
+| 2022-12-31 | 3166 | 803 | 
 | 2022-12-30 | 3165 | 803 | 
 | 2022-12-29 | 3163 | 803 | 
 | 2022-12-28 | 3160 | 803 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-04 | 3129 | 796 | 
 | 2022-12-03 | 3128 | 796 | 
 | 2022-12-02 | 3128 | 796 | 
-| 2022-12-01 | 3129 | 795 | 
 

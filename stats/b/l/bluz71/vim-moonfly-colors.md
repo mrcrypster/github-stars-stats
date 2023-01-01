@@ -1,6 +1,6 @@
 # bluz71/vim-moonfly-colors - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 516 | 43 | 
 | 2022-12-31 | 516 | 43 | 
 | 2022-12-30 | 516 | 43 | 
 | 2022-12-28 | 516 | 43 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 511 | 40 | 
 | 2022-12-04 | 511 | 40 | 
 | 2022-12-02 | 512 | 40 | 
-| 2022-12-01 | 512 | 40 | 
 

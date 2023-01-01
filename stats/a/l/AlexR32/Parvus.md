@@ -1,6 +1,6 @@
 # AlexR32/Parvus - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 22 | 27 | 
 | 2022-12-30 | 22 | 27 | 
 | 2022-12-29 | 22 | 26 | 
 | 2022-12-28 | 22 | 26 | 

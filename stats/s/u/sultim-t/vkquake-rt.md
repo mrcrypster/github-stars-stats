@@ -1,10 +1,10 @@
 # sultim-t/vkquake-rt - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 10
 
-★ Stars: 245
+★ Stars: 246
 
 [Open repository](https://github.com/sultim-t/vkquake-rt)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 246 | 10 | 
 | 2022-12-30 | 245 | 10 | 
 | 2022-12-29 | 245 | 10 | 
 | 2022-12-28 | 245 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 218 | 10 | 
 | 2022-12-03 | 217 | 10 | 
 | 2022-12-02 | 212 | 10 | 
-| 2022-12-01 | 206 | 10 | 
 

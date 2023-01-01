@@ -1,10 +1,10 @@
 # SimonBaars/AdventOfCode-Java - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 16
 
-★ Stars: 43
+★ Stars: 44
 
 [Open repository](https://github.com/SimonBaars/AdventOfCode-Java)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 44 | 16 | 
 | 2022-12-30 | 43 | 16 | 
 | 2022-12-29 | 43 | 16 | 
 | 2022-12-28 | 43 | 16 | 

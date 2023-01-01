@@ -1,10 +1,10 @@
 # nitnelave/lldap - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
-☋ Forks: 76
+☋ Forks: 77
 
-★ Stars: 2146
+★ Stars: 2172
 
 [Open repository](https://github.com/nitnelave/lldap)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 2172 | 77 | 
 | 2022-12-30 | 2146 | 76 | 
 | 2022-12-29 | 2134 | 76 | 
 | 2022-12-28 | 2133 | 76 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 2103 | 71 | 
 | 2022-12-04 | 2100 | 71 | 
 | 2022-12-03 | 2100 | 71 | 
-| 2022-12-01 | 2100 | 71 | 
 

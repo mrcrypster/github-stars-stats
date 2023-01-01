@@ -1,6 +1,6 @@
 # xmas7/ico-presale - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 15 | 2 | 
 | 2022-12-30 | 15 | 2 | 
 | 2022-12-29 | 15 | 2 | 
 | 2022-12-28 | 15 | 2 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 15 | 2 | 
 | 2022-12-04 | 15 | 2 | 
 | 2022-12-03 | 15 | 2 | 
-| 2022-12-01 | 15 | 2 | 
 

@@ -1,10 +1,10 @@
 # saurabh618/All-Python-codes-of-ZTM-course-by-Andrei-Neagoie - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
-☋ Forks: 495
+☋ Forks: 496
 
-★ Stars: 777
+★ Stars: 778
 
 [Open repository](https://github.com/saurabh618/All-Python-codes-of-ZTM-course-by-Andrei-Neagoie)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 778 | 496 | 
 | 2022-12-30 | 777 | 495 | 
 | 2022-12-29 | 776 | 492 | 
 | 2022-12-28 | 775 | 491 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 753 | 477 | 
 | 2022-12-03 | 752 | 477 | 
 | 2022-12-02 | 751 | 475 | 
-| 2022-12-01 | 749 | 475 | 
 

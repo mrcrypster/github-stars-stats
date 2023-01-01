@@ -1,6 +1,6 @@
 # ugexe/zef - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 191 | 46 | 
 | 2022-12-30 | 191 | 46 | 
 | 2022-12-29 | 191 | 46 | 
 | 2022-12-28 | 191 | 46 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 188 | 45 | 
 | 2022-12-03 | 188 | 45 | 
 | 2022-12-02 | 188 | 45 | 
-| 2022-12-01 | 188 | 45 | 
 

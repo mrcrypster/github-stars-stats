@@ -1,10 +1,10 @@
 # nsgrantham/ggbraid - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 1
 
-★ Stars: 65
+★ Stars: 67
 
 [Open repository](https://github.com/nsgrantham/ggbraid)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 67 | 1 | 
 | 2022-12-30 | 65 | 1 | 
 | 2022-12-29 | 64 | 1 | 
 | 2022-12-28 | 64 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 64 | 1 | 
 | 2022-12-03 | 64 | 1 | 
 | 2022-12-02 | 64 | 1 | 
-| 2022-12-01 | 64 | 1 | 
 

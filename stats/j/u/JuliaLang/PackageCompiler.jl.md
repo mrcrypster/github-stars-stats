@@ -1,10 +1,10 @@
 # JuliaLang/PackageCompiler.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 157
 
-★ Stars: 1212
+★ Stars: 1213
 
 [Open repository](https://github.com/JuliaLang/PackageCompiler.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 1213 | 157 | 
 | 2022-12-30 | 1212 | 157 | 
 | 2022-12-29 | 1212 | 157 | 
 | 2022-12-28 | 1212 | 156 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 1203 | 157 | 
 | 2022-12-04 | 1203 | 157 | 
 | 2022-12-02 | 1203 | 157 | 
-| 2022-12-01 | 1199 | 156 | 
 

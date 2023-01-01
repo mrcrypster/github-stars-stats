@@ -1,10 +1,10 @@
 # RiiConnect24/RiiConnect24-Patcher - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 55
 
-★ Stars: 236
+★ Stars: 237
 
 [Open repository](https://github.com/RiiConnect24/RiiConnect24-Patcher)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 237 | 55 | 
 | 2022-12-30 | 236 | 55 | 
 | 2022-12-29 | 236 | 55 | 
 | 2022-12-28 | 236 | 55 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 228 | 53 | 
 | 2022-12-04 | 228 | 53 | 
 | 2022-12-02 | 226 | 53 | 
-| 2022-12-01 | 226 | 53 | 
 

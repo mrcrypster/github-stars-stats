@@ -1,8 +1,8 @@
 # ReVancedTeam/revanced-patcher - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
-☋ Forks: 142
+☋ Forks: 141
 
 ★ Stars: 1806
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 1806 | 141 | 
 | 2022-12-30 | 1806 | 142 | 
 | 2022-12-29 | 1805 | 142 | 
 | 2022-12-28 | 1806 | 143 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 1777 | 134 | 
 | 2022-12-03 | 1780 | 134 | 
 | 2022-12-02 | 1779 | 134 | 
-| 2022-12-01 | 1782 | 134 | 
 

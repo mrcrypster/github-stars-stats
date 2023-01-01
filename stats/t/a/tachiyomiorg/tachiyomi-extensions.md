@@ -1,6 +1,6 @@
 # tachiyomiorg/tachiyomi-extensions - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 943
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 2232 | 943 | 
 | 2022-12-30 | 2232 | 943 | 
 | 2022-12-29 | 2231 | 943 | 
 | 2022-12-28 | 2230 | 944 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 2204 | 930 | 
 | 2022-12-03 | 2202 | 928 | 
 | 2022-12-02 | 2199 | 928 | 
-| 2022-12-01 | 2198 | 926 | 
 

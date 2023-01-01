@@ -1,6 +1,6 @@
 # MiniProfiler/rack-mini-profiler - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 380
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 3466 | 380 | 
 | 2022-12-31 | 3466 | 380 | 
 | 2022-12-30 | 3466 | 380 | 
 | 2022-12-29 | 3466 | 380 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 3461 | 379 | 
 | 2022-12-03 | 3461 | 379 | 
 | 2022-12-02 | 3461 | 379 | 
-| 2022-12-01 | 3461 | 379 | 
 

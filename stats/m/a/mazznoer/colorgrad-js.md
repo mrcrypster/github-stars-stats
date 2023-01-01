@@ -1,6 +1,6 @@
 # mazznoer/colorgrad-js - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 167 | 4 | 
 | 2022-12-30 | 167 | 4 | 
 | 2022-12-29 | 167 | 4 | 
 | 2022-12-28 | 167 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 166 | 4 | 
 | 2022-12-04 | 166 | 4 | 
 | 2022-12-03 | 166 | 4 | 
-| 2022-12-01 | 166 | 4 | 
 

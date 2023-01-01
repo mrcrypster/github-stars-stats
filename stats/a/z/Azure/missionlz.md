@@ -1,6 +1,6 @@
 # Azure/missionlz - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 93
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 154 | 93 | 
 | 2022-12-30 | 154 | 93 | 
 | 2022-12-29 | 154 | 91 | 
 | 2022-12-28 | 154 | 91 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 153 | 87 | 
 | 2022-12-04 | 153 | 87 | 
 | 2022-12-03 | 153 | 87 | 
-| 2022-12-01 | 153 | 87 | 
 

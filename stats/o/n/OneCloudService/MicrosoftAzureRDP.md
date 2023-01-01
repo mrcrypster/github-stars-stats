@@ -1,8 +1,8 @@
 # OneCloudService/MicrosoftAzureRDP - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
-☋ Forks: 16
+☋ Forks: 17
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 1 | 17 | 
 | 2022-12-30 | 1 | 16 | 
 | 2022-12-29 | 1 | 16 | 
 | 2022-12-28 | 1 | 16 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 1 | 13 | 
 | 2022-12-04 | 1 | 13 | 
 | 2022-12-03 | 1 | 13 | 
-| 2022-12-01 | 1 | 13 | 
 

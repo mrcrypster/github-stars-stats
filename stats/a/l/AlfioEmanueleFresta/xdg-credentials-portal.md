@@ -1,6 +1,6 @@
 # AlfioEmanueleFresta/xdg-credentials-portal - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 237 | 7 | 
 | 2022-12-31 | 237 | 7 | 
 | 2022-12-29 | 237 | 7 | 
 | 2022-12-28 | 237 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-04 | 232 | 7 | 
 | 2022-12-03 | 232 | 7 | 
 | 2022-12-02 | 232 | 7 | 
-| 2022-12-01 | 232 | 7 | 
 

@@ -1,6 +1,6 @@
 # gosukiwi/vim-atom-dark - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 121
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 401 | 121 | 
 | 2022-12-30 | 401 | 121 | 
 | 2022-12-29 | 401 | 121 | 
 | 2022-12-28 | 401 | 121 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 397 | 121 | 
 | 2022-12-04 | 397 | 121 | 
 | 2022-12-02 | 396 | 121 | 
-| 2022-12-01 | 396 | 121 | 
 

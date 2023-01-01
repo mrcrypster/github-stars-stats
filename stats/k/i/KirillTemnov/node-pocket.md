@@ -1,6 +1,6 @@
 # KirillTemnov/node-pocket - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 29 | 3 | 
 | 2022-12-30 | 29 | 3 | 
 | 2022-12-29 | 29 | 3 | 
 | 2022-12-28 | 29 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 29 | 3 | 
 | 2022-12-03 | 29 | 3 | 
 | 2022-12-02 | 29 | 3 | 
-| 2022-12-01 | 29 | 3 | 
 

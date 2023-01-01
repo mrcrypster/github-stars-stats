@@ -1,10 +1,10 @@
 # rougier/org-agenda-conflict - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 2
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/rougier/org-agenda-conflict)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 13 | 2 | 
 | 2022-12-30 | 12 | 2 | 
 | 2022-12-29 | 12 | 2 | 
 | 2022-12-28 | 12 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 12 | 1 | 
 | 2022-12-03 | 12 | 1 | 
 | 2022-12-02 | 12 | 1 | 
-| 2022-12-01 | 12 | 1 | 
 

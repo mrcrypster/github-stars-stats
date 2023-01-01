@@ -1,10 +1,10 @@
 # deeplearning-ai/machine-learning-yearning-cn - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 1497
 
-★ Stars: 7368
+★ Stars: 7369
 
 [Open repository](https://github.com/deeplearning-ai/machine-learning-yearning-cn)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 7369 | 1497 | 
 | 2022-12-31 | 7368 | 1497 | 
 | 2022-12-30 | 7368 | 1497 | 
 | 2022-12-28 | 7367 | 1497 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-04 | 7366 | 1494 | 
 | 2022-12-03 | 7366 | 1494 | 
 | 2022-12-02 | 7366 | 1494 | 
-| 2022-12-01 | 7366 | 1494 | 
 

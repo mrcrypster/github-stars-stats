@@ -1,10 +1,10 @@
 # ariga/atlas - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 97
 
-★ Stars: 2225
+★ Stars: 2226
 
 [Open repository](https://github.com/ariga/atlas)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 2226 | 97 | 
 | 2022-12-30 | 2225 | 97 | 
 | 2022-12-29 | 2219 | 97 | 
 | 2022-12-28 | 2214 | 97 | 

@@ -1,10 +1,10 @@
 # File-New-Project/EarTrumpet - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
-☋ Forks: 452
+☋ Forks: 451
 
-★ Stars: 6757
+★ Stars: 6761
 
 [Open repository](https://github.com/File-New-Project/EarTrumpet)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 6761 | 451 | 
 | 2022-12-30 | 6757 | 452 | 
 | 2022-12-29 | 6753 | 452 | 
 | 2022-12-28 | 6744 | 452 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 6662 | 450 | 
 | 2022-12-04 | 6659 | 450 | 
 | 2022-12-03 | 6654 | 450 | 
-| 2022-12-01 | 6650 | 449 | 
 

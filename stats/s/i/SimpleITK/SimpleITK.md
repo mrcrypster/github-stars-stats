@@ -1,6 +1,6 @@
 # SimpleITK/SimpleITK - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 187
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 671 | 187 | 
 | 2022-12-30 | 671 | 187 | 
 | 2022-12-29 | 671 | 187 | 
 | 2022-12-28 | 671 | 187 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 670 | 186 | 
 | 2022-12-03 | 670 | 186 | 
 | 2022-12-02 | 670 | 186 | 
-| 2022-12-01 | 669 | 186 | 
 

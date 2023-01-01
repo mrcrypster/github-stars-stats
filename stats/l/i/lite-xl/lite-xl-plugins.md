@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 31
 
 ☋ Forks: 57
 
-★ Stars: 157
+★ Stars: 158
 
 [Open repository](https://github.com/lite-xl/lite-xl-plugins)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-31 | 157 | 57 | 
+| 2022-12-31 | 158 | 57 | 
 | 2022-12-30 | 157 | 57 | 
 | 2022-12-29 | 157 | 57 | 
 | 2022-12-28 | 153 | 56 | 
@@ -40,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 139 | 52 | 
 | 2022-12-04 | 139 | 52 | 
 | 2022-12-02 | 139 | 52 | 
-| 2022-12-01 | 139 | 52 | 
 

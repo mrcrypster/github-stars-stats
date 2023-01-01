@@ -1,10 +1,10 @@
 # X1192176811/blog - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Jan 2023, 01
 
-☋ Forks: 552
+☋ Forks: 554
 
-★ Stars: 2233
+★ Stars: 2242
 
 [Open repository](https://github.com/X1192176811/blog)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 2242 | 554 | 
+| 2022-12-31 | 2242 | 554 | 
 | 2022-12-30 | 2233 | 552 | 
 | 2022-12-29 | 2228 | 551 | 
 | 2022-12-28 | 2221 | 550 | 
@@ -39,5 +41,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 2096 | 526 | 
 | 2022-12-03 | 2084 | 523 | 
 | 2022-12-02 | 2077 | 522 | 
-| 2022-12-01 | 2072 | 521 | 
 

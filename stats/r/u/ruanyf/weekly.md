@@ -1,6 +1,6 @@
 # ruanyf/weekly - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 2100
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 28611 | 2100 | 
 | 2022-12-30 | 28611 | 2100 | 
 | 2022-12-29 | 28600 | 2098 | 
 | 2022-12-28 | 28592 | 2098 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 28405 | 2082 | 
 | 2022-12-03 | 28403 | 2082 | 
 | 2022-12-02 | 28396 | 2082 | 
-| 2022-12-01 | 28383 | 2080 | 
 

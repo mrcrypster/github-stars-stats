@@ -1,6 +1,6 @@
 # trananhtuat/react-movie - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 112
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 149 | 112 | 
 | 2022-12-30 | 149 | 112 | 
 | 2022-12-29 | 150 | 111 | 
 | 2022-12-28 | 150 | 111 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 149 | 107 | 
 | 2022-12-03 | 149 | 107 | 
 | 2022-12-02 | 149 | 106 | 
-| 2022-12-01 | 149 | 107 | 
 

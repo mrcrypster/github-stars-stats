@@ -1,6 +1,6 @@
 # KambizAsadzadeh/CuteMobile - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 14 | 3 | 
 | 2022-12-30 | 14 | 3 | 
 | 2022-12-29 | 14 | 3 | 
 | 2022-12-28 | 14 | 3 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 11 | 2 | 
 | 2022-12-04 | 11 | 2 | 
 | 2022-12-02 | 11 | 2 | 
-| 2022-12-01 | 11 | 2 | 
 

@@ -1,10 +1,10 @@
 # google/dopamine - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 1337
 
-★ Stars: 9967
+★ Stars: 9968
 
 [Open repository](https://github.com/google/dopamine)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 9968 | 1337 | 
 | 2022-12-30 | 9967 | 1337 | 
 | 2022-12-29 | 9966 | 1337 | 
 | 2022-12-28 | 9966 | 1337 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 9946 | 1335 | 
 | 2022-12-03 | 9945 | 1335 | 
 | 2022-12-02 | 9943 | 1335 | 
-| 2022-12-01 | 9942 | 1334 | 
 

@@ -1,6 +1,6 @@
 # Selina1981/yanglegeyang - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 121 | 58 | 
 | 2022-12-31 | 121 | 58 | 
 | 2022-12-29 | 121 | 58 | 
 | 2022-12-28 | 121 | 58 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 125 | 60 | 
 | 2022-12-03 | 125 | 60 | 
 | 2022-12-02 | 124 | 60 | 
-| 2022-12-01 | 124 | 60 | 
 

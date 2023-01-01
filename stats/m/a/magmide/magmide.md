@@ -1,6 +1,6 @@
 # magmide/magmide - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 705 | 10 | 
 | 2022-12-31 | 705 | 10 | 
 | 2022-12-30 | 705 | 10 | 
 | 2022-12-28 | 705 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 704 | 10 | 
 | 2022-12-04 | 704 | 10 | 
 | 2022-12-02 | 704 | 10 | 
-| 2022-12-01 | 704 | 10 | 
 

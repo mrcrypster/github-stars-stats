@@ -1,6 +1,6 @@
 # obpo-project/obpo-plugin - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 100
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 394 | 100 | 
 | 2022-12-30 | 394 | 100 | 
 | 2022-12-29 | 393 | 100 | 
 | 2022-12-28 | 393 | 100 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 390 | 101 | 
 | 2022-12-04 | 390 | 101 | 
 | 2022-12-03 | 390 | 101 | 
-| 2022-12-02 | 390 | 101 | 
 

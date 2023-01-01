@@ -1,6 +1,6 @@
 # alecjacobson/common-3d-test-models - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 94
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 704 | 94 | 
 | 2022-12-30 | 704 | 94 | 
 | 2022-12-29 | 704 | 95 | 
 | 2022-12-28 | 703 | 95 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 693 | 94 | 
 | 2022-12-03 | 693 | 94 | 
 | 2022-12-02 | 693 | 94 | 
-| 2022-12-01 | 693 | 94 | 
 

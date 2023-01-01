@@ -1,10 +1,10 @@
 # cesanta/mongoose - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 2477
 
-★ Stars: 9041
+★ Stars: 9042
 
 [Open repository](https://github.com/cesanta/mongoose)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 9042 | 2477 | 
 | 2022-12-30 | 9041 | 2477 | 
 | 2022-12-29 | 9039 | 2476 | 
 | 2022-12-28 | 9037 | 2477 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 8970 | 2467 | 
 | 2022-12-03 | 8969 | 2467 | 
 | 2022-12-02 | 8963 | 2465 | 
-| 2022-12-01 | 8959 | 2465 | 
 

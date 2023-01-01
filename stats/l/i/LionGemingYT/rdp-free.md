@@ -1,8 +1,8 @@
 # LionGemingYT/rdp-free - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
-☋ Forks: 55
+☋ Forks: 59
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 2 | 59 | 
 | 2022-12-30 | 2 | 55 | 
 | 2022-12-29 | 2 | 54 | 
 | 2022-12-28 | 2 | 53 | 

@@ -1,10 +1,10 @@
 # bhikandeshmukh/shark - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 25
 
-★ Stars: 276
+★ Stars: 277
 
 [Open repository](https://github.com/bhikandeshmukh/shark)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 277 | 25 | 
 | 2022-12-30 | 276 | 25 | 
 | 2022-12-29 | 275 | 25 | 
 | 2022-12-28 | 273 | 25 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 267 | 25 | 
 | 2022-12-03 | 266 | 25 | 
 | 2022-12-02 | 265 | 25 | 
-| 2022-12-01 | 265 | 25 | 
 

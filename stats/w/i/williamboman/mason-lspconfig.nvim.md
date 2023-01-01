@@ -2,9 +2,9 @@
 
 Stats updated on Dec 2022, 31
 
-☋ Forks: 33
+☋ Forks: 34
 
-★ Stars: 698
+★ Stars: 699
 
 [Open repository](https://github.com/williamboman/mason-lspconfig.nvim)
 
@@ -13,7 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-31 | 698 | 33 | 
+| 2022-12-31 | 699 | 34 | 
 | 2022-12-30 | 698 | 33 | 
 | 2022-12-29 | 694 | 33 | 
 | 2022-12-28 | 686 | 32 | 
@@ -41,5 +41,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-04 | 603 | 24 | 
 | 2022-12-03 | 600 | 24 | 
 | 2022-12-02 | 600 | 25 | 
-| 2022-12-01 | 596 | 25 | 
 

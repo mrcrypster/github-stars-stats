@@ -1,10 +1,10 @@
 # Akshay-Arjun/69phisher - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 14
 
-★ Stars: 53
+★ Stars: 54
 
 [Open repository](https://github.com/Akshay-Arjun/69phisher)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 54 | 14 | 
 | 2022-12-30 | 53 | 14 | 
 | 2022-12-29 | 53 | 14 | 
 | 2022-12-28 | 53 | 14 | 

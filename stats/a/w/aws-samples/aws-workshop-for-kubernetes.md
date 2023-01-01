@@ -1,6 +1,6 @@
 # aws-samples/aws-workshop-for-kubernetes - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 998
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 2543 | 998 | 
 | 2022-12-30 | 2543 | 998 | 
 | 2022-12-29 | 2543 | 996 | 
 | 2022-12-28 | 2543 | 994 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 2541 | 988 | 
 | 2022-12-04 | 2541 | 988 | 
 | 2022-12-03 | 2541 | 988 | 
-| 2022-12-01 | 2541 | 988 | 
 

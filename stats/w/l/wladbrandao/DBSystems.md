@@ -1,6 +1,6 @@
 # wladbrandao/DBSystems - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 63 | 14 | 
 | 2022-12-30 | 63 | 14 | 
 | 2022-12-29 | 63 | 14 | 
 | 2022-12-28 | 63 | 14 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 62 | 14 | 
 | 2022-12-04 | 62 | 14 | 
 | 2022-12-03 | 62 | 14 | 
-| 2022-12-01 | 62 | 14 | 
 

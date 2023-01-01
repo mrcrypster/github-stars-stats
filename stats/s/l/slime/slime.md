@@ -1,6 +1,6 @@
 # slime/slime - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 305
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 1671 | 305 | 
 | 2022-12-30 | 1671 | 305 | 
 | 2022-12-29 | 1671 | 305 | 
 | 2022-12-28 | 1671 | 305 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 1667 | 306 | 
 | 2022-12-04 | 1666 | 306 | 
 | 2022-12-02 | 1664 | 304 | 
-| 2022-12-01 | 1664 | 304 | 
 

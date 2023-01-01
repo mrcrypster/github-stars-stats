@@ -1,10 +1,10 @@
 # lutzroeder/netron - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 2362
 
-★ Stars: 20945
+★ Stars: 20948
 
 [Open repository](https://github.com/lutzroeder/netron)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 20948 | 2362 | 
 | 2022-12-30 | 20945 | 2362 | 
 | 2022-12-29 | 20936 | 2362 | 
 | 2022-12-28 | 20929 | 2361 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 20704 | 2348 | 
 | 2022-12-03 | 20693 | 2345 | 
 | 2022-12-02 | 20687 | 2344 | 
-| 2022-12-01 | 20676 | 2343 | 
 

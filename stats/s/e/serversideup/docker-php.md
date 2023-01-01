@@ -1,6 +1,6 @@
 # serversideup/docker-php - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 726 | 41 | 
 | 2022-12-30 | 726 | 41 | 
 | 2022-12-29 | 724 | 41 | 
 | 2022-12-28 | 724 | 41 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 714 | 37 | 
 | 2022-12-04 | 714 | 37 | 
 | 2022-12-03 | 714 | 37 | 
-| 2022-12-02 | 713 | 37 | 
 

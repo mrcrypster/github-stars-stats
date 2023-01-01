@@ -1,6 +1,6 @@
 # Newbion6/re - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 2 | 33 | 
 | 2022-12-30 | 2 | 33 | 
 | 2022-12-29 | 2 | 33 | 
 | 2022-12-28 | 2 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 2 | 28 | 
 | 2022-12-03 | 2 | 27 | 
 | 2022-12-02 | 2 | 27 | 
-| 2022-12-01 | 2 | 27 | 
 

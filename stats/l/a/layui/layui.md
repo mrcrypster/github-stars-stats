@@ -1,6 +1,6 @@
 # layui/layui - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 7100
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 26746 | 7100 | 
 | 2022-12-30 | 26746 | 7100 | 
 | 2022-12-29 | 26745 | 7101 | 
 | 2022-12-28 | 26742 | 7101 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 26696 | 7097 | 
 | 2022-12-03 | 26692 | 7097 | 
 | 2022-12-02 | 26690 | 7097 | 
-| 2022-12-01 | 26685 | 7097 | 
 

@@ -1,10 +1,10 @@
 # git-for-windows/build-extra - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Jan 2023, 01
 
-☋ Forks: 643
+☋ Forks: 644
 
-★ Stars: 557
+★ Stars: 556
 
 [Open repository](https://github.com/git-for-windows/build-extra)
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 556 | 644 | 
+| 2022-12-31 | 556 | 644 | 
 | 2022-12-30 | 557 | 643 | 
 | 2022-12-29 | 556 | 642 | 
 | 2022-12-28 | 556 | 642 | 
@@ -41,5 +43,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 552 | 635 | 
 | 2022-12-03 | 551 | 634 | 
 | 2022-12-02 | 550 | 634 | 
-| 2022-12-01 | 549 | 634 | 
 

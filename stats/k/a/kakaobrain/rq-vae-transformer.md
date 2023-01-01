@@ -1,6 +1,6 @@
 # kakaobrain/rq-vae-transformer - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 529 | 60 | 
 | 2022-12-30 | 529 | 60 | 
 | 2022-12-29 | 528 | 60 | 
 | 2022-12-28 | 528 | 60 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 520 | 60 | 
 | 2022-12-04 | 520 | 60 | 
 | 2022-12-03 | 520 | 59 | 
-| 2022-12-02 | 518 | 59 | 
 

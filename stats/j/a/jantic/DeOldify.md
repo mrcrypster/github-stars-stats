@@ -1,10 +1,10 @@
 # jantic/DeOldify - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
-☋ Forks: 2286
+☋ Forks: 2290
 
-★ Stars: 15784
+★ Stars: 15799
 
 [Open repository](https://github.com/jantic/DeOldify)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 15799 | 2290 | 
 | 2022-12-30 | 15784 | 2286 | 
 | 2022-12-29 | 15768 | 2283 | 
 | 2022-12-27 | 15729 | 2279 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 15673 | 2271 | 
 | 2022-12-03 | 15671 | 2272 | 
 | 2022-12-02 | 15666 | 2270 | 
-| 2022-12-01 | 15663 | 2270 | 
 

@@ -1,6 +1,6 @@
 # erlcloud/eini - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 21 | 17 | 
 | 2022-12-30 | 21 | 17 | 
 | 2022-12-29 | 21 | 17 | 
 | 2022-12-28 | 21 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 20 | 17 | 
 | 2022-12-03 | 20 | 17 | 
 | 2022-12-02 | 20 | 17 | 
-| 2022-12-01 | 20 | 17 | 
 

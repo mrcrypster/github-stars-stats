@@ -1,10 +1,10 @@
 # su18/hack-fastjson-1.2.80 - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
-☋ Forks: 41
+☋ Forks: 42
 
-★ Stars: 268
+★ Stars: 269
 
 [Open repository](https://github.com/su18/hack-fastjson-1.2.80)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 269 | 42 | 
 | 2022-12-30 | 268 | 41 | 
 | 2022-12-29 | 268 | 41 | 
 | 2022-12-28 | 267 | 41 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 252 | 38 | 
 | 2022-12-03 | 252 | 38 | 
 | 2022-12-02 | 252 | 38 | 
-| 2022-12-01 | 252 | 38 | 
 

@@ -1,6 +1,6 @@
 # Unity-Technologies/com.unity.demoteam.mesh-to-sdf - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 324 | 17 | 
 | 2022-12-30 | 324 | 17 | 
 | 2022-12-29 | 324 | 17 | 
 | 2022-12-28 | 323 | 17 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 312 | 12 | 
 | 2022-12-03 | 311 | 12 | 
 | 2022-12-02 | 309 | 12 | 
-| 2022-12-01 | 307 | 12 | 
 

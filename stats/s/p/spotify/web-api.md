@@ -1,6 +1,6 @@
 # spotify/web-api - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 89
 
@@ -13,6 +13,8 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 973 | 89 | 
+| 2022-12-31 | 973 | 89 | 
 | 2022-12-30 | 973 | 89 | 
 | 2022-12-29 | 973 | 89 | 
 | 2022-12-28 | 973 | 89 | 
@@ -40,5 +42,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 968 | 89 | 
 | 2022-12-03 | 968 | 89 | 
 | 2022-12-02 | 968 | 89 | 
-| 2022-12-01 | 968 | 89 | 
 

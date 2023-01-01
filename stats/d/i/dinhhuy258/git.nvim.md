@@ -1,10 +1,10 @@
 # dinhhuy258/git.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 7
 
-★ Stars: 82
+★ Stars: 83
 
 [Open repository](https://github.com/dinhhuy258/git.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 83 | 7 | 
 | 2022-12-30 | 82 | 7 | 
 | 2022-12-29 | 82 | 7 | 
 | 2022-12-28 | 82 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 75 | 6 | 
 | 2022-12-03 | 75 | 6 | 
 | 2022-12-02 | 75 | 6 | 
-| 2022-12-01 | 75 | 6 | 
 

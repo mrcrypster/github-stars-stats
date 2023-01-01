@@ -1,6 +1,6 @@
 # NJU-ProjectN/os-workbench-2022 - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 79
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 69 | 79 | 
 | 2022-12-30 | 69 | 79 | 
 | 2022-12-29 | 69 | 79 | 
 | 2022-12-28 | 69 | 79 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 66 | 77 | 
 | 2022-12-03 | 66 | 77 | 
 | 2022-12-02 | 66 | 77 | 
-| 2022-12-01 | 66 | 77 | 
 

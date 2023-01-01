@@ -1,10 +1,10 @@
 # company-mode/company-mode - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 225
 
-★ Stars: 1990
+★ Stars: 1992
 
 [Open repository](https://github.com/company-mode/company-mode)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 1992 | 225 | 
 | 2022-12-30 | 1990 | 225 | 
 | 2022-12-29 | 1988 | 225 | 
 | 2022-12-28 | 1989 | 225 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 1981 | 222 | 
 | 2022-12-03 | 1981 | 222 | 
 | 2022-12-02 | 1981 | 222 | 
-| 2022-12-01 | 1980 | 222 | 
 

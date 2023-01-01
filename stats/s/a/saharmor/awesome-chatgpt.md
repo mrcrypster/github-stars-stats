@@ -1,10 +1,10 @@
 # saharmor/awesome-chatgpt - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 12
 
-★ Stars: 197
+★ Stars: 199
 
 [Open repository](https://github.com/saharmor/awesome-chatgpt)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 199 | 12 | 
 | 2022-12-30 | 197 | 12 | 
 | 2022-12-29 | 196 | 12 | 
 | 2022-12-28 | 189 | 12 | 

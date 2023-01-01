@@ -1,6 +1,6 @@
 # zloirock/core-js - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 1353
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 17789 | 1353 | 
 | 2022-12-30 | 17789 | 1353 | 
 | 2022-12-29 | 17783 | 1353 | 
 | 2022-12-28 | 17776 | 1354 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 17701 | 1348 | 
 | 2022-12-03 | 17692 | 1348 | 
 | 2022-12-02 | 17690 | 1347 | 
-| 2022-12-01 | 17682 | 1345 | 
 

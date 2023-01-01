@@ -1,6 +1,6 @@
 # boanjo/poseidon - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 61 | 2 | 
 | 2022-12-31 | 61 | 2 | 
 | 2022-12-29 | 61 | 2 | 
 | 2022-12-28 | 61 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-04 | 60 | 2 | 
 | 2022-12-03 | 60 | 2 | 
 | 2022-12-02 | 60 | 2 | 
-| 2022-12-01 | 60 | 2 | 
 

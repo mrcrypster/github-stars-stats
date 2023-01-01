@@ -1,10 +1,10 @@
 # skills/introduction-to-github - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
-☋ Forks: 617
+☋ Forks: 618
 
-★ Stars: 1702
+★ Stars: 1706
 
 [Open repository](https://github.com/skills/introduction-to-github)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 1706 | 618 | 
 | 2022-12-30 | 1702 | 617 | 
 | 2022-12-29 | 1691 | 614 | 
 | 2022-12-28 | 1682 | 613 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 1584 | 569 | 
 | 2022-12-04 | 1580 | 568 | 
 | 2022-12-03 | 1574 | 565 | 
-| 2022-12-01 | 1569 | 562 | 
 

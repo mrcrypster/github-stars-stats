@@ -1,8 +1,8 @@
 # hanaim-webtech/wt-is-beroepsproduct-env - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
-☋ Forks: 15
+☋ Forks: 16
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | - | 16 | 
 | 2022-12-30 | - | 15 | 
 | 2022-12-29 | - | 15 | 
 | 2022-12-28 | - | 13 | 

@@ -1,10 +1,10 @@
 # md-siam/package_of_the_day - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 64
 
-★ Stars: 366
+★ Stars: 365
 
 [Open repository](https://github.com/md-siam/package_of_the_day)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 365 | 64 | 
 | 2022-12-31 | 366 | 64 | 
 | 2022-12-29 | 366 | 64 | 
 | 2022-12-28 | 366 | 64 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-04 | 367 | 64 | 
 | 2022-12-03 | 369 | 64 | 
 | 2022-12-02 | 369 | 64 | 
-| 2022-12-01 | 368 | 64 | 
 

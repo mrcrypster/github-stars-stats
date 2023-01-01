@@ -1,10 +1,10 @@
 # Molunerfinn/PicGo - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 1977
 
-★ Stars: 19123
+★ Stars: 19129
 
 [Open repository](https://github.com/Molunerfinn/PicGo)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 19129 | 1977 | 
 | 2022-12-30 | 19123 | 1977 | 
 | 2022-12-29 | 19108 | 1978 | 
 | 2022-12-28 | 19093 | 1974 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 18920 | 1962 | 
 | 2022-12-04 | 18913 | 1960 | 
 | 2022-12-02 | 18907 | 1961 | 
-| 2022-12-01 | 18896 | 1960 | 
 

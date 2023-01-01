@@ -1,10 +1,10 @@
 # fortran-lang/fpm - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 69
 
-★ Stars: 619
+★ Stars: 621
 
 [Open repository](https://github.com/fortran-lang/fpm)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 621 | 69 | 
 | 2022-12-30 | 619 | 69 | 
 | 2022-12-29 | 619 | 69 | 
 | 2022-12-28 | 619 | 69 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 612 | 69 | 
 | 2022-12-03 | 612 | 69 | 
 | 2022-12-02 | 612 | 69 | 
-| 2022-12-01 | 611 | 69 | 
 

@@ -1,10 +1,10 @@
 # azl397985856/leetcode - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
-☋ Forks: 9237
+☋ Forks: 9236
 
-★ Stars: 50105
+★ Stars: 50113
 
 [Open repository](https://github.com/azl397985856/leetcode)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 50113 | 9236 | 
 | 2022-12-30 | 50105 | 9237 | 
 | 2022-12-29 | 50095 | 9238 | 
 | 2022-12-28 | 50087 | 9239 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 49964 | 9230 | 
 | 2022-12-04 | 49954 | 9227 | 
 | 2022-12-03 | 49952 | 9224 | 
-| 2022-12-02 | 49947 | 9225 | 
 

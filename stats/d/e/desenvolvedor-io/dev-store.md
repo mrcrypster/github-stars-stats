@@ -1,6 +1,6 @@
 # desenvolvedor-io/dev-store - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 135
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 803 | 135 | 
 | 2022-12-30 | 803 | 135 | 
 | 2022-12-29 | 802 | 135 | 
 | 2022-12-28 | 801 | 134 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 796 | 132 | 
 | 2022-12-04 | 795 | 131 | 
 | 2022-12-03 | 795 | 131 | 
-| 2022-12-02 | 794 | 131 | 
 

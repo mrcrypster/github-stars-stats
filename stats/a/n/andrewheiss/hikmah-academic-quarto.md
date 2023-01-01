@@ -1,6 +1,6 @@
 # andrewheiss/hikmah-academic-quarto - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 51 | 4 | 
 | 2022-12-30 | 51 | 4 | 
 | 2022-12-29 | 51 | 4 | 
 | 2022-12-28 | 50 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 47 | 4 | 
 | 2022-12-04 | 47 | 4 | 
 | 2022-12-03 | 47 | 4 | 
-| 2022-12-01 | 47 | 4 | 
 

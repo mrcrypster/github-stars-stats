@@ -1,8 +1,8 @@
 # yahoo/CMAK - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
-☋ Forks: 2480
+☋ Forks: 2481
 
 ★ Stars: 11167
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 11167 | 2481 | 
 | 2022-12-30 | 11167 | 2480 | 
 | 2022-12-29 | 11167 | 2480 | 
 | 2022-12-28 | 11167 | 2480 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 11130 | 2478 | 
 | 2022-12-03 | 11126 | 2478 | 
 | 2022-12-02 | 11124 | 2477 | 
-| 2022-12-01 | 11123 | 2477 | 
 

@@ -1,6 +1,6 @@
 # bcgov/PSP - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 9 | 18 | 
 | 2022-12-30 | 9 | 18 | 
 | 2022-12-29 | 9 | 18 | 
 | 2022-12-28 | 9 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 8 | 16 | 
 | 2022-12-03 | 8 | 16 | 
 | 2022-12-02 | 8 | 16 | 
-| 2022-12-01 | 8 | 16 | 
 

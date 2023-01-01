@@ -1,10 +1,10 @@
 # lklima/rn-parallax-cards - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 19
 
-★ Stars: 345
+★ Stars: 346
 
 [Open repository](https://github.com/lklima/rn-parallax-cards)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 346 | 19 | 
 | 2022-12-30 | 345 | 19 | 
 | 2022-12-29 | 345 | 19 | 
 | 2022-12-28 | 345 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 345 | 19 | 
 | 2022-12-03 | 345 | 19 | 
 | 2022-12-02 | 345 | 19 | 
-| 2022-12-01 | 344 | 19 | 
 

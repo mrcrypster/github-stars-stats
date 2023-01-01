@@ -1,10 +1,10 @@
 # pocketbase/dart-sdk - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 15
 
-★ Stars: 166
+★ Stars: 168
 
 [Open repository](https://github.com/pocketbase/dart-sdk)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 168 | 15 | 
 | 2022-12-30 | 166 | 15 | 
 | 2022-12-29 | 164 | 15 | 
 | 2022-12-28 | 164 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 150 | 13 | 
 | 2022-12-03 | 151 | 13 | 
 | 2022-12-02 | 151 | 13 | 
-| 2022-12-01 | 151 | 13 | 
 

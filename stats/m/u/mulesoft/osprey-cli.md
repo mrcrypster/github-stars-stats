@@ -1,6 +1,6 @@
 # mulesoft/osprey-cli - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 18 | 7 | 
 | 2022-12-30 | 18 | 7 | 
 | 2022-12-29 | 18 | 7 | 
 | 2022-12-27 | 18 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 18 | 7 | 
 | 2022-12-03 | 18 | 7 | 
 | 2022-12-02 | 18 | 7 | 
-| 2022-12-01 | 18 | 7 | 
 

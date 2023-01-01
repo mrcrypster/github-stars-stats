@@ -1,6 +1,6 @@
 # gluesql/gluesql - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 134
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 2044 | 134 | 
 | 2022-12-30 | 2044 | 134 | 
 | 2022-12-29 | 2042 | 134 | 
 | 2022-12-28 | 2040 | 135 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 2013 | 134 | 
 | 2022-12-03 | 2010 | 134 | 
 | 2022-12-02 | 2010 | 134 | 
-| 2022-12-01 | 2008 | 133 | 
 

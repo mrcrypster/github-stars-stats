@@ -1,6 +1,6 @@
 # ash-project/ash_graphql - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 21 | 15 | 
 | 2022-12-30 | 21 | 15 | 
 | 2022-12-29 | 20 | 15 | 
 | 2022-12-28 | 20 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 21 | 14 | 
 | 2022-12-03 | 21 | 14 | 
 | 2022-12-02 | 21 | 14 | 
-| 2022-12-01 | 21 | 14 | 
 

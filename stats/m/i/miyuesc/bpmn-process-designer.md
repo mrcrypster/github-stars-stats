@@ -1,10 +1,10 @@
 # miyuesc/bpmn-process-designer - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 339
 
-★ Stars: 1053
+★ Stars: 1056
 
 [Open repository](https://github.com/miyuesc/bpmn-process-designer)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 1056 | 339 | 
 | 2022-12-30 | 1053 | 339 | 
 | 2022-12-29 | 1052 | 339 | 
 | 2022-12-28 | 1050 | 339 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 1028 | 333 | 
 | 2022-12-03 | 1028 | 333 | 
 | 2022-12-02 | 1028 | 333 | 
-| 2022-12-01 | 1024 | 333 | 
 

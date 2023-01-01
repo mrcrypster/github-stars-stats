@@ -1,6 +1,6 @@
 # EdgelessPE/Edgeless - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 633 | 44 | 
 | 2022-12-30 | 633 | 44 | 
 | 2022-12-29 | 632 | 44 | 
 | 2022-12-28 | 632 | 44 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 616 | 44 | 
 | 2022-12-03 | 616 | 43 | 
 | 2022-12-02 | 616 | 43 | 
-| 2022-12-01 | 616 | 43 | 
 

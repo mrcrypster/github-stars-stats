@@ -1,6 +1,6 @@
 # Maius-Protocol/maius-core - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 21 | 5 | 
 | 2022-12-30 | 21 | 5 | 
 | 2022-12-29 | 21 | 5 | 
 | 2022-12-28 | 21 | 5 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 21 | 5 | 
 | 2022-12-04 | 21 | 5 | 
 | 2022-12-03 | 21 | 5 | 
-| 2022-12-01 | 21 | 5 | 
 

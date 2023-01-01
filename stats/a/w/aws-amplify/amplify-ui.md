@@ -1,10 +1,10 @@
 # aws-amplify/amplify-ui - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 147
 
-★ Stars: 571
+★ Stars: 572
 
 [Open repository](https://github.com/aws-amplify/amplify-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 572 | 147 | 
 | 2022-12-30 | 571 | 147 | 
 | 2022-12-29 | 570 | 145 | 
 | 2022-12-28 | 570 | 144 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 558 | 138 | 
 | 2022-12-03 | 558 | 138 | 
 | 2022-12-02 | 558 | 138 | 
-| 2022-12-01 | 557 | 138 | 
 

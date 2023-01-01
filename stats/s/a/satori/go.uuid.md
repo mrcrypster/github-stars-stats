@@ -1,10 +1,10 @@
 # satori/go.uuid - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 595
 
-★ Stars: 4705
+★ Stars: 4707
 
 [Open repository](https://github.com/satori/go.uuid)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 4707 | 595 | 
 | 2022-12-30 | 4705 | 595 | 
 | 2022-12-29 | 4704 | 595 | 
 | 2022-12-28 | 4702 | 595 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 4690 | 592 | 
 | 2022-12-03 | 4689 | 592 | 
 | 2022-12-02 | 4688 | 592 | 
-| 2022-12-01 | 4689 | 592 | 
 

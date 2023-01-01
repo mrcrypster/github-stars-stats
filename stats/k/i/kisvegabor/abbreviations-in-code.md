@@ -1,10 +1,10 @@
 # kisvegabor/abbreviations-in-code - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 32
 
-★ Stars: 170
+★ Stars: 172
 
 [Open repository](https://github.com/kisvegabor/abbreviations-in-code)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 172 | 32 | 
 | 2022-12-30 | 170 | 32 | 
 | 2022-12-29 | 170 | 32 | 
 | 2022-12-28 | 170 | 32 | 

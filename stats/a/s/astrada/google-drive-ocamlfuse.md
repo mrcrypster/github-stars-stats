@@ -1,6 +1,6 @@
 # astrada/google-drive-ocamlfuse - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 342
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 4844 | 342 | 
 | 2022-12-30 | 4844 | 342 | 
 | 2022-12-29 | 4841 | 341 | 
 | 2022-12-28 | 4840 | 341 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 4820 | 337 | 
 | 2022-12-03 | 4820 | 337 | 
 | 2022-12-02 | 4820 | 337 | 
-| 2022-12-01 | 4819 | 337 | 
 

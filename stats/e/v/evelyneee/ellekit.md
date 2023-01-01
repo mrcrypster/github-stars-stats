@@ -1,6 +1,6 @@
 # evelyneee/ellekit - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 102 | 10 | 
 | 2022-12-30 | 102 | 10 | 
 | 2022-12-29 | 100 | 10 | 
 | 2022-12-28 | 98 | 10 | 

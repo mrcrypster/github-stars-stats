@@ -1,6 +1,6 @@
 # Unity-Technologies/com.unity.netcode.gameobjects - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 361
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 1756 | 361 | 
 | 2022-12-30 | 1756 | 361 | 
 | 2022-12-29 | 1754 | 361 | 
 | 2022-12-28 | 1754 | 361 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 1744 | 358 | 
 | 2022-12-03 | 1742 | 359 | 
 | 2022-12-02 | 1743 | 359 | 
-| 2022-12-01 | 1741 | 360 | 
 

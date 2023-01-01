@@ -4,7 +4,7 @@ Stats updated on Dec 2022, 31
 
 ☋ Forks: 0
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/numtide/srvos)
 
@@ -13,6 +13,6 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-12-31 | 12 | - | 
+| 2022-12-31 | 13 | - | 
 | 2022-12-30 | 10 | - | 
 

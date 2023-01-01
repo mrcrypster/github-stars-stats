@@ -1,10 +1,10 @@
 # CRaC/docs - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 3
 
-★ Stars: 78
+★ Stars: 79
 
 [Open repository](https://github.com/CRaC/docs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 79 | 3 | 
 | 2022-12-30 | 78 | 3 | 
 | 2022-12-29 | 78 | 3 | 
 | 2022-12-28 | 78 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 70 | 3 | 
 | 2022-12-03 | 68 | 3 | 
 | 2022-12-02 | 68 | 3 | 
-| 2022-12-01 | 67 | 3 | 
 

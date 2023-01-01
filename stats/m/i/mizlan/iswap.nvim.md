@@ -1,10 +1,10 @@
 # mizlan/iswap.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 15
 
-★ Stars: 391
+★ Stars: 392
 
 [Open repository](https://github.com/mizlan/iswap.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 392 | 15 | 
 | 2022-12-30 | 391 | 15 | 
 | 2022-12-29 | 391 | 15 | 
 | 2022-12-28 | 391 | 15 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-05 | 377 | 14 | 
 | 2022-12-04 | 376 | 14 | 
 | 2022-12-03 | 377 | 14 | 
-| 2022-12-01 | 375 | 14 | 
 

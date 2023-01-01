@@ -1,6 +1,6 @@
 # WAMAWAMA/wama_medic - stars & forks statistics
 
-Stats updated on Dec 2022, 30
+Stats updated on Dec 2022, 31
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-12-31 | 192 | 27 | 
 | 2022-12-30 | 192 | 27 | 
 | 2022-12-29 | 192 | 27 | 
 | 2022-12-28 | 192 | 27 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 30
 | 2022-12-04 | 192 | 26 | 
 | 2022-12-03 | 192 | 26 | 
 | 2022-12-02 | 192 | 26 | 
-| 2022-12-01 | 192 | 26 | 
 
