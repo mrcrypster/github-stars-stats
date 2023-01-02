@@ -1,10 +1,10 @@
 # Mirantis/cri-dockerd - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 135
 
-★ Stars: 497
+★ Stars: 498
 
 [Open repository](https://github.com/Mirantis/cri-dockerd)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 498 | 135 | 
 | 2022-12-31 | 497 | 135 | 
 | 2022-12-30 | 495 | 135 | 
 | 2022-12-29 | 493 | 133 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 472 | 128 | 
 | 2022-12-04 | 472 | 127 | 
 | 2022-12-03 | 470 | 127 | 
-| 2022-12-02 | 468 | 126 | 
 

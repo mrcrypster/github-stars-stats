@@ -1,6 +1,6 @@
 # ibaihuo/chanvis - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 116 | 57 | 
 | 2022-12-31 | 116 | 57 | 
 | 2022-12-30 | 116 | 57 | 
 | 2022-12-29 | 115 | 56 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 111 | 52 | 
 | 2022-12-04 | 110 | 52 | 
 | 2022-12-03 | 110 | 52 | 
-| 2022-12-02 | 110 | 52 | 
 

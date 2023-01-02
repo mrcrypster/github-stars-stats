@@ -1,6 +1,6 @@
 # daltoniam/Starscream - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 1065
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 7544 | 1065 | 
 | 2022-12-31 | 7544 | 1065 | 
 | 2022-12-30 | 7544 | 1065 | 
 | 2022-12-29 | 7544 | 1065 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 7523 | 1059 | 
 | 2022-12-04 | 7522 | 1060 | 
 | 2022-12-03 | 7522 | 1061 | 
-| 2022-12-02 | 7521 | 1061 | 
 

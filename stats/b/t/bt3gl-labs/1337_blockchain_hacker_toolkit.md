@@ -1,6 +1,6 @@
 # bt3gl-labs/1337_blockchain_hacker_toolkit - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 157 | 33 | 
 | 2022-12-31 | 157 | 33 | 
 | 2022-12-30 | 157 | 33 | 
 | 2022-12-29 | 157 | 33 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 133 | 26 | 
 | 2022-12-05 | 132 | 26 | 
 | 2022-12-03 | 132 | 26 | 
-| 2022-12-02 | 132 | 26 | 
 

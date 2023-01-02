@@ -1,6 +1,6 @@
 # bmatzelle/gow - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 361
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 6397 | 361 | 
 | 2022-12-31 | 6397 | 361 | 
 | 2022-12-30 | 6397 | 361 | 
 | 2022-12-29 | 6396 | 361 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 6395 | 361 | 
 | 2022-12-04 | 6394 | 361 | 
 | 2022-12-03 | 6394 | 361 | 
-| 2022-12-02 | 6393 | 361 | 
 

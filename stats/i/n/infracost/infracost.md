@@ -1,6 +1,6 @@
 # infracost/infracost - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 416
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 8422 | 416 | 
 | 2022-12-31 | 8422 | 416 | 
 | 2022-12-30 | 8421 | 416 | 
 | 2022-12-29 | 8419 | 417 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-07 | 8331 | 409 | 
 | 2022-12-05 | 8326 | 410 | 
 | 2022-12-04 | 8319 | 410 | 
-| 2022-12-02 | 8318 | 410 | 
 

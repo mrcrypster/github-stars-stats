@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 01
 
-☋ Forks: 1680
+☋ Forks: 1679
 
-★ Stars: 10001
+★ Stars: 10002
 
 [Open repository](https://github.com/OpenIMSDK/Open-IM-Server)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-01 | 10001 | 1680 | 
+| 2023-01-01 | 10002 | 1679 | 
 | 2022-12-31 | 10001 | 1680 | 
 | 2022-12-30 | 9999 | 1678 | 
 | 2022-12-29 | 9993 | 1675 | 

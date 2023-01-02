@@ -1,10 +1,10 @@
 # brucemiller/LaTeXML - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 80
 
-★ Stars: 543
+★ Stars: 545
 
 [Open repository](https://github.com/brucemiller/LaTeXML)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 545 | 80 | 
 | 2022-12-31 | 543 | 80 | 
 | 2022-12-30 | 543 | 80 | 
 | 2022-12-29 | 543 | 80 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 525 | 81 | 
 | 2022-12-04 | 525 | 81 | 
 | 2022-12-03 | 525 | 81 | 
-| 2022-12-02 | 525 | 81 | 
 

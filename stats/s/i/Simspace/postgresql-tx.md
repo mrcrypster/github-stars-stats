@@ -1,6 +1,6 @@
 # Simspace/postgresql-tx - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 5 | 3 | 
 | 2022-12-31 | 5 | 3 | 
 | 2022-12-30 | 5 | 3 | 
 | 2022-12-29 | 5 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 5 | 3 | 
 | 2022-12-05 | 5 | 3 | 
 | 2022-12-04 | 5 | 3 | 
-| 2022-12-03 | 5 | 3 | 
 

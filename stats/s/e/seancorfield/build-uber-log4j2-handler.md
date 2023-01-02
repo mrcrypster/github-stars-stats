@@ -1,6 +1,6 @@
 # seancorfield/build-uber-log4j2-handler - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 1 | 2 | 
 | 2022-12-31 | 1 | 2 | 
 | 2022-12-30 | 1 | 2 | 
 | 2022-12-29 | 1 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 1 | 2 | 
 | 2022-12-04 | 1 | 2 | 
 | 2022-12-03 | 1 | 2 | 
-| 2022-12-02 | 1 | 2 | 
 

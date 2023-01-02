@@ -1,6 +1,6 @@
 # proofofsoulprotocol/soul-wallet-contract - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 46 | 8 | 
 | 2022-12-31 | 46 | 8 | 
 | 2022-12-30 | 46 | 8 | 
 | 2022-12-29 | 46 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 38 | 6 | 
 | 2022-12-04 | 37 | 6 | 
 | 2022-12-03 | 37 | 6 | 
-| 2022-12-02 | 37 | 6 | 
 

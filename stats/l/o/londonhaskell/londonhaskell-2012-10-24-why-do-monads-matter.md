@@ -1,6 +1,6 @@
 # londonhaskell/londonhaskell-2012-10-24-why-do-monads-matter - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 7 | 2 | 
 | 2022-12-31 | 7 | 2 | 
 | 2022-12-30 | 7 | 2 | 
 | 2022-12-29 | 7 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 7 | 2 | 
 | 2022-12-05 | 7 | 2 | 
 | 2022-12-03 | 7 | 2 | 
-| 2022-12-02 | 7 | 2 | 
 

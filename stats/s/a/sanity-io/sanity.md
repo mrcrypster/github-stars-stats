@@ -1,8 +1,8 @@
 # sanity-io/sanity - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
-☋ Forks: 341
+☋ Forks: 342
 
 ★ Stars: 3942
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 3942 | 342 | 
 | 2022-12-31 | 3942 | 341 | 
 | 2022-12-30 | 3942 | 341 | 
 | 2022-12-29 | 3938 | 341 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 3839 | 340 | 
 | 2022-12-04 | 3839 | 340 | 
 | 2022-12-03 | 3835 | 340 | 
-| 2022-12-02 | 3834 | 340 | 
 

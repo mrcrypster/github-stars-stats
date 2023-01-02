@@ -1,10 +1,10 @@
 # hanFengSan/eHunter - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 42
 
-★ Stars: 697
+★ Stars: 698
 
 [Open repository](https://github.com/hanFengSan/eHunter)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 698 | 42 | 
 | 2022-12-31 | 697 | 42 | 
 | 2022-12-30 | 696 | 42 | 
 | 2022-12-29 | 696 | 42 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 688 | 42 | 
 | 2022-12-04 | 686 | 42 | 
 | 2022-12-03 | 686 | 42 | 
-| 2022-12-02 | 685 | 42 | 
 

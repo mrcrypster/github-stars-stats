@@ -1,8 +1,8 @@
 # opencomputeproject/onie - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
-☋ Forks: 352
+☋ Forks: 353
 
 ★ Stars: 501
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 501 | 353 | 
 | 2022-12-31 | 501 | 352 | 
 | 2022-12-30 | 501 | 352 | 
 | 2022-12-29 | 502 | 352 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 500 | 352 | 
 | 2022-12-04 | 500 | 352 | 
 | 2022-12-03 | 500 | 352 | 
-| 2022-12-02 | 500 | 352 | 
 

@@ -1,10 +1,10 @@
 # NVlabs/FAN - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 21
 
-★ Stars: 405
+★ Stars: 406
 
 [Open repository](https://github.com/NVlabs/FAN)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 406 | 21 | 
 | 2022-12-31 | 405 | 21 | 
 | 2022-12-30 | 405 | 21 | 
 | 2022-12-29 | 405 | 21 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 402 | 21 | 
 | 2022-12-05 | 402 | 21 | 
 | 2022-12-03 | 402 | 21 | 
-| 2022-12-02 | 402 | 21 | 
 

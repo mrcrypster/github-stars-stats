@@ -1,6 +1,6 @@
 # SafuuProtocol/Safuu - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 33 | 46 | 
 | 2022-12-31 | 33 | 46 | 
 | 2022-12-30 | 33 | 46 | 
 | 2022-12-29 | 33 | 46 | 

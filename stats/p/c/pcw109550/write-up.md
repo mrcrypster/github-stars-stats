@@ -1,6 +1,6 @@
 # pcw109550/write-up - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 131 | 27 | 
 | 2022-12-31 | 131 | 27 | 
 | 2022-12-30 | 131 | 27 | 
 | 2022-12-29 | 131 | 27 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 129 | 24 | 
 | 2022-12-04 | 129 | 24 | 
 | 2022-12-03 | 129 | 24 | 
-| 2022-12-02 | 129 | 24 | 
 

@@ -1,6 +1,6 @@
 # zapellass123/PHP-Project - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 254
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 157 | 254 | 
 | 2022-12-31 | 157 | 254 | 
 | 2022-12-30 | 157 | 254 | 
 | 2022-12-29 | 157 | 254 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 157 | 254 | 
 | 2022-12-04 | 157 | 254 | 
 | 2022-12-03 | 157 | 254 | 
-| 2022-12-02 | 157 | 254 | 
 

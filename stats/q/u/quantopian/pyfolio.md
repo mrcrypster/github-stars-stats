@@ -1,6 +1,6 @@
 # quantopian/pyfolio - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 1531
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 4757 | 1531 | 
 | 2022-12-31 | 4757 | 1531 | 
 | 2022-12-30 | 4757 | 1530 | 
 | 2022-12-29 | 4755 | 1530 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 4720 | 1519 | 
 | 2022-12-04 | 4720 | 1519 | 
 | 2022-12-03 | 4720 | 1519 | 
-| 2022-12-02 | 4717 | 1518 | 
 

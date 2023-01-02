@@ -1,10 +1,10 @@
 # crystal-linux/iso - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 13
 
-★ Stars: 119
+★ Stars: 120
 
 [Open repository](https://github.com/crystal-linux/iso)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 120 | 13 | 
 | 2022-12-31 | 119 | 13 | 
 | 2022-12-30 | 120 | 13 | 
 | 2022-12-29 | 120 | 13 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 117 | 12 | 
 | 2022-12-05 | 117 | 12 | 
 | 2022-12-04 | 117 | 12 | 
-| 2022-12-02 | 116 | 12 | 
 

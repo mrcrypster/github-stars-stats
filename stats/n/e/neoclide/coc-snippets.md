@@ -1,10 +1,10 @@
 # neoclide/coc-snippets - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 40
 
-★ Stars: 880
+★ Stars: 881
 
 [Open repository](https://github.com/neoclide/coc-snippets)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 881 | 40 | 
 | 2022-12-31 | 880 | 40 | 
 | 2022-12-30 | 880 | 40 | 
 | 2022-12-29 | 880 | 40 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 875 | 40 | 
 | 2022-12-05 | 874 | 40 | 
 | 2022-12-03 | 874 | 40 | 
-| 2022-12-02 | 874 | 39 | 
 

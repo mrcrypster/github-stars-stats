@@ -1,10 +1,10 @@
 # purescript/purescript-contravariant - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 10
+☋ Forks: 11
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/purescript/purescript-contravariant)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 10 | 11 | 
 | 2023-01-01 | 9 | 10 | 
 | 2022-12-31 | 9 | 10 | 
 | 2022-12-30 | 9 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-05 | 9 | 10 | 
 | 2022-12-04 | 9 | 10 | 
 | 2022-12-03 | 9 | 10 | 
-| 2022-12-02 | 9 | 10 | 
 

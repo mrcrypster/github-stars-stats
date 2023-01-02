@@ -1,6 +1,6 @@
 # DarkFalc0n/calcu.te - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 5 | 11 | 
 | 2022-12-31 | 5 | 11 | 
 | 2022-12-30 | 5 | 12 | 
 | 2022-12-29 | 5 | 12 | 

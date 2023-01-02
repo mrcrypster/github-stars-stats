@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 01
 
 ☋ Forks: 71
 
-★ Stars: 2005
+★ Stars: 2006
 
 [Open repository](https://github.com/watchexec/cargo-watch)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-01 | 2005 | 71 | 
+| 2023-01-01 | 2006 | 71 | 
 | 2022-12-31 | 2004 | 71 | 
 

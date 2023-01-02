@@ -1,10 +1,10 @@
 # navarasu/onedark.nvim - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 76
 
-★ Stars: 745
+★ Stars: 748
 
 [Open repository](https://github.com/navarasu/onedark.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 748 | 76 | 
 | 2022-12-31 | 745 | 76 | 
 | 2022-12-30 | 744 | 76 | 
 | 2022-12-29 | 744 | 76 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 705 | 75 | 
 | 2022-12-04 | 701 | 75 | 
 | 2022-12-03 | 700 | 75 | 
-| 2022-12-02 | 697 | 75 | 
 

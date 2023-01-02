@@ -1,10 +1,10 @@
 # Mohamed-Akram-Hl/Lesko - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 1
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/Mohamed-Akram-Hl/Lesko)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 25 | 1 | 
 | 2022-12-31 | 24 | 1 | 
 | 2022-12-30 | 24 | 1 | 
 

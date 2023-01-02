@@ -1,10 +1,10 @@
 # laravel/pint - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 70
 
-★ Stars: 2189
+★ Stars: 2191
 
 [Open repository](https://github.com/laravel/pint)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 2191 | 70 | 
 | 2022-12-31 | 2189 | 70 | 
 | 2022-12-30 | 2187 | 70 | 
 | 2022-12-29 | 2186 | 70 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 2163 | 68 | 
 | 2022-12-04 | 2162 | 68 | 
 | 2022-12-03 | 2161 | 68 | 
-| 2022-12-02 | 2160 | 68 | 
 

@@ -1,6 +1,6 @@
 # Spritetm/pbf-table - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 30 | 3 | 
 | 2022-12-31 | 30 | 3 | 
 | 2022-12-30 | 30 | 3 | 
 | 2022-12-29 | 30 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 28 | 3 | 
 | 2022-12-05 | 28 | 3 | 
 | 2022-12-03 | 28 | 3 | 
-| 2022-12-02 | 28 | 3 | 
 

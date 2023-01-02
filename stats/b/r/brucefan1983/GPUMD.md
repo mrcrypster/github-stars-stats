@@ -1,6 +1,6 @@
 # brucefan1983/GPUMD - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 64
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 169 | 64 | 
 | 2022-12-31 | 169 | 64 | 
 | 2022-12-30 | 169 | 64 | 
 | 2022-12-29 | 169 | 64 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 166 | 63 | 
 | 2022-12-04 | 165 | 63 | 
 | 2022-12-03 | 165 | 63 | 
-| 2022-12-02 | 165 | 63 | 
 

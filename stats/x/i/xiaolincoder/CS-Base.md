@@ -1,10 +1,10 @@
 # xiaolincoder/CS-Base - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 684
 
-★ Stars: 4698
+★ Stars: 4717
 
 [Open repository](https://github.com/xiaolincoder/CS-Base)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 4717 | 684 | 
 | 2023-01-01 | 4698 | 684 | 
 | 2022-12-31 | 4691 | 684 | 
 | 2022-12-29 | 4673 | 681 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 3092 | 508 | 
 | 2022-12-05 | 2515 | 441 | 
 | 2022-12-03 | 2115 | 402 | 
-| 2022-12-02 | 2112 | 401 | 
 

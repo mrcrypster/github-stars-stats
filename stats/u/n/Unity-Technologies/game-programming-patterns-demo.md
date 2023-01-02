@@ -1,6 +1,6 @@
 # Unity-Technologies/game-programming-patterns-demo - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 691 | 59 | 
 | 2022-12-31 | 691 | 59 | 
 | 2022-12-30 | 691 | 59 | 
 | 2022-12-29 | 688 | 58 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 664 | 35 | 
 | 2022-12-04 | 664 | 35 | 
 | 2022-12-03 | 661 | 33 | 
-| 2022-12-02 | 661 | 33 | 
 

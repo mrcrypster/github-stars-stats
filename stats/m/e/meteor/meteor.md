@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 01
 
 ☋ Forks: 5232
 
-★ Stars: 43189
+★ Stars: 43190
 
 [Open repository](https://github.com/meteor/meteor)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-01 | 43189 | 5232 | 
+| 2023-01-01 | 43190 | 5232 | 
 | 2022-12-31 | 43188 | 5232 | 
 | 2022-12-30 | 43188 | 5229 | 
 | 2022-12-28 | 43185 | 5230 | 

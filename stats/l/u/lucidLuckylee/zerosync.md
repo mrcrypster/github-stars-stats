@@ -1,6 +1,6 @@
 # lucidLuckylee/zerosync - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 2 | 16 | 
 | 2022-12-31 | 2 | 16 | 
 | 2022-12-30 | 2 | 16 | 
 | 2022-12-29 | 2 | 16 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 1 | 14 | 
 | 2022-12-04 | 1 | 14 | 
 | 2022-12-03 | 1 | 14 | 
-| 2022-12-02 | 1 | 13 | 
 

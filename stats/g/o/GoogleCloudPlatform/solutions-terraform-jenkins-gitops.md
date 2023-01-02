@@ -1,8 +1,8 @@
 # GoogleCloudPlatform/solutions-terraform-jenkins-gitops - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
-☋ Forks: 331
+☋ Forks: 330
 
 ★ Stars: 56
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 56 | 330 | 
 | 2022-12-31 | 56 | 331 | 
 | 2022-12-30 | 56 | 331 | 
 | 2022-12-29 | 56 | 331 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 57 | 330 | 
 | 2022-12-04 | 57 | 330 | 
 | 2022-12-03 | 57 | 330 | 
-| 2022-12-02 | 57 | 330 | 
 

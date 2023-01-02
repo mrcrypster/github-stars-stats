@@ -1,10 +1,10 @@
 # clauderic/dnd-kit - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 352
 
-★ Stars: 6433
+★ Stars: 6440
 
 [Open repository](https://github.com/clauderic/dnd-kit)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 6440 | 352 | 
 | 2022-12-31 | 6433 | 352 | 
 | 2022-12-30 | 6428 | 352 | 
 | 2022-12-29 | 6424 | 353 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 6210 | 333 | 
 | 2022-12-04 | 6201 | 332 | 
 | 2022-12-03 | 6196 | 332 | 
-| 2022-12-02 | 6191 | 330 | 
 

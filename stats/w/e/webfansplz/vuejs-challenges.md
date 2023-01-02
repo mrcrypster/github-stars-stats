@@ -1,10 +1,10 @@
 # webfansplz/vuejs-challenges - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 107
 
-★ Stars: 1736
+★ Stars: 1738
 
 [Open repository](https://github.com/webfansplz/vuejs-challenges)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 1738 | 107 | 
 | 2022-12-31 | 1736 | 107 | 
 | 2022-12-30 | 1736 | 107 | 
 | 2022-12-29 | 1738 | 107 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 1698 | 106 | 
 | 2022-12-04 | 1700 | 107 | 
 | 2022-12-03 | 1701 | 107 | 
-| 2022-12-02 | 1701 | 107 | 
 

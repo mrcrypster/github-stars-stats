@@ -1,6 +1,6 @@
 # treyhunner/resume - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 123
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 218 | 123 | 
 | 2022-12-31 | 218 | 123 | 
 | 2022-12-30 | 217 | 123 | 
 | 2022-12-29 | 216 | 123 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 212 | 123 | 
 | 2022-12-05 | 212 | 123 | 
 | 2022-12-03 | 211 | 123 | 
-| 2022-12-02 | 211 | 123 | 
 

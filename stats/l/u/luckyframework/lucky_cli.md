@@ -1,6 +1,6 @@
 # luckyframework/lucky_cli - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 83 | 49 | 
 | 2022-12-31 | 83 | 49 | 
 | 2022-12-30 | 83 | 49 | 
 | 2022-12-29 | 83 | 49 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 83 | 49 | 
 | 2022-12-05 | 83 | 49 | 
 | 2022-12-04 | 83 | 49 | 
-| 2022-12-02 | 83 | 49 | 
 

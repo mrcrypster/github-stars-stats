@@ -1,10 +1,10 @@
 # elastic/elasticsearch-perl - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 58
 
-★ Stars: 85
+★ Stars: 86
 
 [Open repository](https://github.com/elastic/elasticsearch-perl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 86 | 58 | 
 | 2022-12-31 | 85 | 58 | 
 | 2022-12-30 | 85 | 58 | 
 | 2022-12-29 | 85 | 58 | 

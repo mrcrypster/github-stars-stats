@@ -1,6 +1,6 @@
 # splunk/security_content - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 231
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 774 | 231 | 
 | 2022-12-31 | 774 | 231 | 
 | 2022-12-30 | 774 | 231 | 
 | 2022-12-29 | 774 | 231 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 760 | 223 | 
 | 2022-12-04 | 760 | 222 | 
 | 2022-12-03 | 760 | 222 | 
-| 2022-12-02 | 759 | 222 | 
 

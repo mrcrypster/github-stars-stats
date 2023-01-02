@@ -1,10 +1,10 @@
 # pgf-tikz/pgf - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 91
 
-★ Stars: 848
+★ Stars: 849
 
 [Open repository](https://github.com/pgf-tikz/pgf)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 849 | 91 | 
 | 2022-12-31 | 848 | 91 | 
 | 2022-12-30 | 847 | 91 | 
 | 2022-12-29 | 847 | 91 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 837 | 92 | 
 | 2022-12-04 | 837 | 92 | 
 | 2022-12-03 | 836 | 92 | 
-| 2022-12-02 | 834 | 92 | 
 

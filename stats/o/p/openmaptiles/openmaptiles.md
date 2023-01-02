@@ -1,8 +1,8 @@
 # openmaptiles/openmaptiles - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
-☋ Forks: 489
+☋ Forks: 490
 
 ★ Stars: 1753
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 1753 | 490 | 
 | 2022-12-31 | 1753 | 489 | 
 | 2022-12-30 | 1752 | 489 | 
 | 2022-12-29 | 1749 | 487 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 1743 | 485 | 
 | 2022-12-04 | 1743 | 485 | 
 | 2022-12-03 | 1742 | 485 | 
-| 2022-12-02 | 1740 | 485 | 
 

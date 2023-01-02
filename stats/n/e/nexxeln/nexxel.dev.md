@@ -1,10 +1,10 @@
 # nexxeln/nexxel.dev - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 14
 
-★ Stars: 61
+★ Stars: 62
 
 [Open repository](https://github.com/nexxeln/nexxel.dev)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 62 | 14 | 
 | 2022-12-31 | 61 | 14 | 
 | 2022-12-30 | 60 | 14 | 
 | 2022-12-29 | 60 | 14 | 

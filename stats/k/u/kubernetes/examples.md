@@ -1,8 +1,8 @@
 # kubernetes/examples - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
-☋ Forks: 4052
+☋ Forks: 4053
 
 ★ Stars: 5330
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 5330 | 4053 | 
 | 2022-12-31 | 5330 | 4052 | 
 | 2022-12-30 | 5329 | 4052 | 
 | 2022-12-29 | 5329 | 4052 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 5293 | 4031 | 
 | 2022-12-04 | 5291 | 4028 | 
 | 2022-12-03 | 5289 | 4025 | 
-| 2022-12-02 | 5288 | 4025 | 
 

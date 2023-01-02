@@ -1,6 +1,6 @@
 # actions/upload-artifact - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 473
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 2028 | 473 | 
 | 2022-12-31 | 2028 | 473 | 
 | 2022-12-30 | 2026 | 473 | 
 | 2022-12-29 | 2026 | 471 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 1988 | 463 | 
 | 2022-12-04 | 1985 | 463 | 
 | 2022-12-03 | 1983 | 463 | 
-| 2022-12-02 | 1982 | 462 | 
 

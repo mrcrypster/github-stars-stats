@@ -1,10 +1,10 @@
 # open-mmlab/mmsegmentation - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
-☋ Forks: 1850
+☋ Forks: 1851
 
-★ Stars: 4983
+★ Stars: 4987
 
 [Open repository](https://github.com/open-mmlab/mmsegmentation)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 4987 | 1851 | 
 | 2022-12-31 | 4983 | 1850 | 
 | 2022-12-30 | 4981 | 1847 | 
 | 2022-12-29 | 4975 | 1845 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 4870 | 1799 | 
 | 2022-12-04 | 4860 | 1797 | 
 | 2022-12-03 | 4852 | 1798 | 
-| 2022-12-02 | 4851 | 1793 | 
 

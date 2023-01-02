@@ -1,6 +1,6 @@
 # inertiajs/pingcrm - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 633
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 1723 | 633 | 
 | 2022-12-31 | 1723 | 633 | 
 | 2022-12-30 | 1724 | 633 | 
 | 2022-12-29 | 1724 | 633 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 1709 | 625 | 
 | 2022-12-04 | 1707 | 625 | 
 | 2022-12-03 | 1706 | 624 | 
-| 2022-12-02 | 1706 | 624 | 
 

@@ -1,6 +1,6 @@
 # shotav/Decompiler - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 68 | 3 | 
 | 2022-12-31 | 68 | 3 | 
 | 2022-12-30 | 68 | 3 | 
 | 2022-12-29 | 68 | 3 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 67 | 3 | 
 | 2022-12-05 | 67 | 3 | 
 | 2022-12-04 | 67 | 3 | 
-| 2022-12-02 | 67 | 3 | 
 

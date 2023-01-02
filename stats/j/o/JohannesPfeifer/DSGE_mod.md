@@ -1,6 +1,6 @@
 # JohannesPfeifer/DSGE_mod - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 324
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 326 | 324 | 
 | 2022-12-31 | 326 | 324 | 
 | 2022-12-30 | 326 | 324 | 
 | 2022-12-29 | 326 | 324 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 322 | 319 | 
 | 2022-12-05 | 321 | 319 | 
 | 2022-12-04 | 321 | 319 | 
-| 2022-12-02 | 321 | 319 | 
 

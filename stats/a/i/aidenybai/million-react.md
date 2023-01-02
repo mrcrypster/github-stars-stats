@@ -1,6 +1,6 @@
 # aidenybai/million-react - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 370 | 6 | 
 | 2022-12-31 | 370 | 6 | 
 | 2022-12-30 | 370 | 6 | 
 | 2022-12-29 | 370 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 368 | 6 | 
 | 2022-12-04 | 367 | 6 | 
 | 2022-12-03 | 366 | 6 | 
-| 2022-12-02 | 366 | 6 | 
 

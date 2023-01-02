@@ -1,6 +1,6 @@
 # alvarotrigo/fullPage.js - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 7461
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 34275 | 7461 | 
 | 2022-12-31 | 34275 | 7461 | 
 | 2022-12-30 | 34273 | 7460 | 
 | 2022-12-29 | 34270 | 7460 | 

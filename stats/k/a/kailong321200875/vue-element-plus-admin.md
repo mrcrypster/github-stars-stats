@@ -1,6 +1,6 @@
 # kailong321200875/vue-element-plus-admin - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 186
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 758 | 186 | 
 | 2022-12-31 | 758 | 186 | 
 | 2022-12-30 | 757 | 185 | 
 | 2022-12-29 | 755 | 185 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 728 | 170 | 
 | 2022-12-04 | 726 | 170 | 
 | 2022-12-03 | 726 | 169 | 
-| 2022-12-02 | 725 | 169 | 
 

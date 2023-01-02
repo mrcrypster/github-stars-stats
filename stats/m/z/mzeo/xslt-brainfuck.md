@@ -1,6 +1,6 @@
 # mzeo/xslt-brainfuck - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 35 | 1 | 
 | 2022-12-31 | 35 | 1 | 
 | 2022-12-30 | 35 | 1 | 
 | 2022-12-29 | 35 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 35 | 1 | 
 | 2022-12-04 | 35 | 1 | 
 | 2022-12-03 | 35 | 1 | 
-| 2022-12-02 | 35 | 1 | 
 

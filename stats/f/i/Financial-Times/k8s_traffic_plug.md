@@ -1,6 +1,6 @@
 # Financial-Times/k8s_traffic_plug - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 68 | 12 | 
 | 2022-12-31 | 68 | 12 | 
 | 2022-12-30 | 68 | 12 | 
 | 2022-12-28 | 68 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 67 | 12 | 
 | 2022-12-04 | 67 | 12 | 
 | 2022-12-03 | 67 | 12 | 
-| 2022-12-02 | 67 | 12 | 
 

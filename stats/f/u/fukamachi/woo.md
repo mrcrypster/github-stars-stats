@@ -1,10 +1,10 @@
 # fukamachi/woo - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 88
 
-★ Stars: 1155
+★ Stars: 1156
 
 [Open repository](https://github.com/fukamachi/woo)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 1156 | 88 | 
 | 2022-12-31 | 1155 | 88 | 
 | 2022-12-30 | 1155 | 88 | 
 | 2022-12-29 | 1155 | 88 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 1151 | 88 | 
 | 2022-12-04 | 1150 | 88 | 
 | 2022-12-03 | 1149 | 88 | 
-| 2022-12-02 | 1148 | 88 | 
 

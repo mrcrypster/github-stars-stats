@@ -1,6 +1,6 @@
 # bmstu-iu8-cpp-sem-3/lab-09-producer-consumer - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 4 | 19 | 
 | 2022-12-31 | 4 | 19 | 
 | 2022-12-30 | 4 | 19 | 
 | 2022-12-29 | 4 | 19 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 4 | 19 | 
 | 2022-12-05 | 4 | 19 | 
 | 2022-12-03 | 4 | 19 | 
-| 2022-12-02 | 4 | 19 | 
 

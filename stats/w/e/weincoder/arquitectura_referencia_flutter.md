@@ -1,6 +1,6 @@
 # weincoder/arquitectura_referencia_flutter - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 100 | 19 | 
 | 2022-12-31 | 100 | 19 | 
 | 2022-12-30 | 100 | 19 | 
 | 2022-12-29 | 100 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 91 | 14 | 
 | 2022-12-04 | 90 | 14 | 
 | 2022-12-03 | 78 | 13 | 
-| 2022-12-02 | 75 | 13 | 
 

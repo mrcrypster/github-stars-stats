@@ -1,6 +1,6 @@
 # filipecabaco/vegalite_demo - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 30 | 1 | 
 | 2022-12-31 | 30 | 1 | 
 | 2022-12-30 | 30 | 1 | 
 | 2022-12-29 | 30 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 29 | 1 | 
 | 2022-12-05 | 29 | 1 | 
 | 2022-12-04 | 29 | 1 | 
-| 2022-12-02 | 29 | 1 | 
 

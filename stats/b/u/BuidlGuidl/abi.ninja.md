@@ -1,10 +1,10 @@
 # BuidlGuidl/abi.ninja - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
-☋ Forks: 13
+☋ Forks: 12
 
-★ Stars: 62
+★ Stars: 63
 
 [Open repository](https://github.com/BuidlGuidl/abi.ninja)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 63 | 12 | 
 | 2022-12-31 | 62 | 13 | 
 | 2022-12-30 | 62 | 13 | 
 | 2022-12-29 | 61 | 13 | 

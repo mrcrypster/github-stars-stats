@@ -1,8 +1,8 @@
 # flutter/plugins - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
-☋ Forks: 9781
+☋ Forks: 9782
 
 ★ Stars: 16620
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 16620 | 9782 | 
 | 2022-12-31 | 16620 | 9781 | 
 | 2022-12-30 | 16620 | 9777 | 
 | 2022-12-29 | 16621 | 9776 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 16523 | 9699 | 
 | 2022-12-04 | 16517 | 9692 | 
 | 2022-12-03 | 16517 | 9691 | 
-| 2022-12-02 | 16513 | 9686 | 
 

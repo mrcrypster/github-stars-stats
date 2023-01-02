@@ -1,6 +1,6 @@
 # ac3cloud/ript - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 109 | 9 | 
 | 2022-12-31 | 109 | 9 | 
 | 2022-12-30 | 109 | 9 | 
 | 2022-12-29 | 109 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 109 | 9 | 
 | 2022-12-05 | 109 | 9 | 
 | 2022-12-03 | 109 | 9 | 
-| 2022-12-02 | 109 | 9 | 
 

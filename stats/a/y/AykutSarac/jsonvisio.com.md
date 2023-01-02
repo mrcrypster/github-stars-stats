@@ -1,10 +1,10 @@
 # AykutSarac/jsonvisio.com - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
-☋ Forks: 1020
+☋ Forks: 1021
 
-★ Stars: 20540
+★ Stars: 20547
 
 [Open repository](https://github.com/AykutSarac/jsonvisio.com)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 20547 | 1021 | 
 | 2022-12-31 | 20540 | 1020 | 
 | 2022-12-30 | 20540 | 1020 | 
 | 2022-12-29 | 20529 | 1019 | 

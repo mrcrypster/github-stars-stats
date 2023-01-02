@@ -1,6 +1,6 @@
 # amantinband/buber-breakfast - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 120
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 177 | 120 | 
 | 2022-12-31 | 177 | 120 | 
 | 2022-12-30 | 176 | 120 | 
 | 2022-12-29 | 175 | 119 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 157 | 107 | 
 | 2022-12-05 | 156 | 107 | 
 | 2022-12-04 | 155 | 107 | 
-| 2022-12-03 | 155 | 106 | 
 

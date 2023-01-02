@@ -1,8 +1,8 @@
 # Mrmarlon0071/RDPngrok-main - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
-☋ Forks: 13
+☋ Forks: 15
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | - | 15 | 
 | 2022-12-31 | - | 13 | 
 | 2022-12-30 | - | 9 | 
 | 2022-12-29 | - | 9 | 

@@ -1,6 +1,6 @@
 # seL4/capdl - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 29 | 37 | 
 | 2022-12-31 | 29 | 37 | 
 | 2022-12-30 | 29 | 37 | 
 | 2022-12-29 | 29 | 37 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 29 | 37 | 
 | 2022-12-04 | 29 | 37 | 
 | 2022-12-03 | 29 | 37 | 
-| 2022-12-02 | 29 | 37 | 
 

@@ -1,10 +1,10 @@
 # rstudio/cheatsheets - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 1485
 
-★ Stars: 4622
+★ Stars: 4623
 
 [Open repository](https://github.com/rstudio/cheatsheets)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 4623 | 1485 | 
 | 2022-12-31 | 4622 | 1485 | 
 | 2022-12-30 | 4621 | 1485 | 
 | 2022-12-29 | 4616 | 1484 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 4570 | 1472 | 
 | 2022-12-04 | 4565 | 1469 | 
 | 2022-12-03 | 4564 | 1469 | 
-| 2022-12-02 | 4562 | 1469 | 
 

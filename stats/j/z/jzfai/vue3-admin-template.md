@@ -1,6 +1,6 @@
 # jzfai/vue3-admin-template - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 228 | 75 | 
 | 2022-12-31 | 228 | 75 | 
 | 2022-12-30 | 227 | 75 | 
 | 2022-12-29 | 227 | 75 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 226 | 73 | 
 | 2022-12-05 | 226 | 73 | 
 | 2022-12-03 | 226 | 73 | 
-| 2022-12-02 | 226 | 73 | 
 

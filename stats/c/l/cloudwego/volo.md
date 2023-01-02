@@ -1,8 +1,8 @@
 # cloudwego/volo - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
-☋ Forks: 82
+☋ Forks: 81
 
 ★ Stars: 1297
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 1297 | 81 | 
 | 2022-12-31 | 1297 | 82 | 
 | 2022-12-30 | 1293 | 82 | 
 | 2022-12-29 | 1290 | 82 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 1227 | 76 | 
 | 2022-12-04 | 1225 | 76 | 
 | 2022-12-03 | 1225 | 76 | 
-| 2022-12-02 | 1223 | 76 | 
 

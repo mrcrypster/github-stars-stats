@@ -1,10 +1,10 @@
 # dashingsoft/pyarmor - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 207
 
-★ Stars: 1945
+★ Stars: 1947
 
 [Open repository](https://github.com/dashingsoft/pyarmor)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 1947 | 207 | 
 | 2023-01-01 | 1945 | 207 | 
 | 2022-12-31 | 1943 | 207 | 
 | 2022-12-29 | 1937 | 207 | 

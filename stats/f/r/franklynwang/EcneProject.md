@@ -1,10 +1,10 @@
 # franklynwang/EcneProject - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 4
 
-★ Stars: 55
+★ Stars: 56
 
 [Open repository](https://github.com/franklynwang/EcneProject)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 56 | 4 | 
 | 2022-12-31 | 55 | 4 | 
 | 2022-12-30 | 55 | 4 | 
 | 2022-12-29 | 55 | 4 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-07 | 50 | 4 | 
 | 2022-12-05 | 49 | 4 | 
 | 2022-12-04 | 49 | 4 | 
-| 2022-12-02 | 49 | 4 | 
 

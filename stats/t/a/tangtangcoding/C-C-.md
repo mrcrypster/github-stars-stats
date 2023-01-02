@@ -1,8 +1,8 @@
 # tangtangcoding/C-C- - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
-☋ Forks: 1123
+☋ Forks: 1124
 
 ★ Stars: 4110
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 4110 | 1124 | 
 | 2022-12-31 | 4110 | 1123 | 
 | 2022-12-30 | 4106 | 1124 | 
 | 2022-12-29 | 4103 | 1124 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 4052 | 1110 | 
 | 2022-12-04 | 4045 | 1108 | 
 | 2022-12-03 | 4044 | 1107 | 
-| 2022-12-02 | 4043 | 1106 | 
 

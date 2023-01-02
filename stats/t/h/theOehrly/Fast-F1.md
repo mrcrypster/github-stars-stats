@@ -1,10 +1,10 @@
 # theOehrly/Fast-F1 - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 119
 
-★ Stars: 1329
+★ Stars: 1328
 
 [Open repository](https://github.com/theOehrly/Fast-F1)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 1328 | 119 | 
 | 2022-12-31 | 1329 | 119 | 
 | 2022-12-30 | 1328 | 119 | 
 | 2022-12-29 | 1327 | 119 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 1313 | 116 | 
 | 2022-12-05 | 1313 | 116 | 
 | 2022-12-04 | 1313 | 116 | 
-| 2022-12-03 | 1312 | 116 | 
 

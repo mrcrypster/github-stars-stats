@@ -1,10 +1,10 @@
 # waydroid/waydroid - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 185
 
-★ Stars: 4639
+★ Stars: 4643
 
 [Open repository](https://github.com/waydroid/waydroid)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 4643 | 185 | 
 | 2022-12-31 | 4639 | 185 | 
 | 2022-12-30 | 4632 | 185 | 
 | 2022-12-29 | 4629 | 185 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 4515 | 180 | 
 | 2022-12-04 | 4507 | 180 | 
 | 2022-12-03 | 4500 | 180 | 
-| 2022-12-02 | 4497 | 180 | 
 

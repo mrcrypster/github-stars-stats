@@ -1,6 +1,6 @@
 # ComplianceAsCode/content - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 593
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 1724 | 593 | 
 | 2022-12-31 | 1724 | 593 | 
 | 2022-12-30 | 1722 | 593 | 
 | 2022-12-29 | 1721 | 593 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 1710 | 591 | 
 | 2022-12-05 | 1709 | 592 | 
 | 2022-12-04 | 1709 | 592 | 
-| 2022-12-02 | 1708 | 592 | 
 

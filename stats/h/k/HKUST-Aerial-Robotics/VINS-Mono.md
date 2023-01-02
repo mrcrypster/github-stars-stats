@@ -1,10 +1,10 @@
 # HKUST-Aerial-Robotics/VINS-Mono - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
-☋ Forks: 1899
+☋ Forks: 1900
 
-★ Stars: 3962
+★ Stars: 3963
 
 [Open repository](https://github.com/HKUST-Aerial-Robotics/VINS-Mono)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 3963 | 1900 | 
 | 2022-12-31 | 3962 | 1899 | 
 | 2022-12-30 | 3962 | 1899 | 
 | 2022-12-29 | 3962 | 1897 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 3938 | 1886 | 
 | 2022-12-05 | 3938 | 1887 | 
 | 2022-12-03 | 3934 | 1885 | 
-| 2022-12-02 | 3932 | 1885 | 
 

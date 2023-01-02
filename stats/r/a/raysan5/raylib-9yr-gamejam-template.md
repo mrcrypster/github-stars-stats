@@ -1,6 +1,6 @@
 # raysan5/raylib-9yr-gamejam-template - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 13 | 5 | 
 | 2022-12-31 | 13 | 5 | 
 | 2022-12-30 | 13 | 5 | 
 | 2022-12-29 | 13 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 13 | 6 | 
 | 2022-12-04 | 11 | 6 | 
 | 2022-12-03 | 11 | 6 | 
-| 2022-12-02 | 11 | 6 | 
 

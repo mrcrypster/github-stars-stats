@@ -1,6 +1,6 @@
 # fontsource/fontsource - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 121
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 3300 | 121 | 
 | 2022-12-31 | 3300 | 121 | 
 | 2022-12-30 | 3298 | 121 | 
 | 2022-12-29 | 3297 | 121 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 3233 | 119 | 
 | 2022-12-04 | 3230 | 118 | 
 | 2022-12-03 | 3225 | 117 | 
-| 2022-12-02 | 3224 | 117 | 
 

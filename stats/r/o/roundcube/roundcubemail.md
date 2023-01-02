@@ -1,10 +1,10 @@
 # roundcube/roundcubemail - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
-☋ Forks: 1523
+☋ Forks: 1525
 
-★ Stars: 4730
+★ Stars: 4733
 
 [Open repository](https://github.com/roundcube/roundcubemail)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 4733 | 1525 | 
 | 2022-12-31 | 4730 | 1523 | 
 | 2022-12-30 | 4727 | 1523 | 
 | 2022-12-29 | 4726 | 1523 | 

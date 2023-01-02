@@ -1,6 +1,6 @@
 # justjake/quickjs-emscripten - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 727 | 61 | 
 | 2022-12-31 | 727 | 61 | 
 | 2022-12-30 | 726 | 61 | 
 | 2022-12-29 | 726 | 61 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 704 | 58 | 
 | 2022-12-05 | 702 | 58 | 
 | 2022-12-03 | 698 | 58 | 
-| 2022-12-02 | 695 | 58 | 
 

@@ -1,10 +1,10 @@
 # carbon-app/carbon - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
-☋ Forks: 1795
+☋ Forks: 1794
 
-★ Stars: 31723
+★ Stars: 31725
 
 [Open repository](https://github.com/carbon-app/carbon)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 31725 | 1794 | 
 | 2022-12-31 | 31723 | 1795 | 
 | 2022-12-30 | 31720 | 1796 | 
 | 2022-12-29 | 31715 | 1798 | 

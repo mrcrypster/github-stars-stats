@@ -1,10 +1,10 @@
 # Paladinfeng/MiaoProject - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 100
 
-★ Stars: 2194
+★ Stars: 2195
 
 [Open repository](https://github.com/Paladinfeng/MiaoProject)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 2195 | 100 | 
 | 2022-12-31 | 2194 | 100 | 
 | 2022-12-30 | 2194 | 100 | 
 | 2022-12-29 | 2193 | 100 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 2133 | 99 | 
 | 2022-12-04 | 2130 | 99 | 
 | 2022-12-03 | 2130 | 99 | 
-| 2022-12-02 | 2127 | 99 | 
 

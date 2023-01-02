@@ -1,6 +1,6 @@
 # open-source-flash/open-source-flash - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 138
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 7385 | 138 | 
 | 2022-12-31 | 7385 | 138 | 
 | 2022-12-30 | 7385 | 138 | 
 | 2022-12-29 | 7384 | 138 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 7383 | 138 | 
 | 2022-12-05 | 7382 | 138 | 
 | 2022-12-04 | 7382 | 138 | 
-| 2022-12-02 | 7382 | 138 | 
 

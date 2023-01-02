@@ -1,10 +1,10 @@
 # the-mvm/the-mvm.github.io - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
-☋ Forks: 232
+☋ Forks: 233
 
-★ Stars: 47
+★ Stars: 48
 
 [Open repository](https://github.com/the-mvm/the-mvm.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 48 | 233 | 
 | 2022-12-31 | 47 | 232 | 
 | 2022-12-30 | 47 | 232 | 
 | 2022-12-29 | 47 | 231 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 46 | 230 | 
 | 2022-12-05 | 46 | 229 | 
 | 2022-12-04 | 46 | 229 | 
-| 2022-12-02 | 46 | 229 | 
 

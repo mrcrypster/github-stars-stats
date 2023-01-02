@@ -1,10 +1,10 @@
 # iancanada/DocumentDownload - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 16
 
-★ Stars: 79
+★ Stars: 80
 
 [Open repository](https://github.com/iancanada/DocumentDownload)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 80 | 16 | 
 | 2022-12-31 | 79 | 16 | 
 | 2022-12-30 | 79 | 16 | 
 | 2022-12-29 | 79 | 16 | 

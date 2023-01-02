@@ -1,6 +1,6 @@
 # signalfx/splunk-otel-collector-chart - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 85
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 50 | 85 | 
 | 2022-12-31 | 50 | 85 | 
 | 2022-12-30 | 50 | 85 | 
 | 2022-12-29 | 50 | 85 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 49 | 82 | 
 | 2022-12-04 | 49 | 82 | 
 | 2022-12-03 | 49 | 82 | 
-| 2022-12-02 | 49 | 82 | 
 

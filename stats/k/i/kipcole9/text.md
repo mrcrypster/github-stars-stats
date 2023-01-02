@@ -1,10 +1,10 @@
 # kipcole9/text - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 3
 
-★ Stars: 64
+★ Stars: 65
 
 [Open repository](https://github.com/kipcole9/text)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 65 | 3 | 
 | 2022-12-31 | 64 | 3 | 
 | 2022-12-30 | 64 | 3 | 
 | 2022-12-29 | 63 | 3 | 

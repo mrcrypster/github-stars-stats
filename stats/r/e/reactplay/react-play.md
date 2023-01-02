@@ -1,8 +1,8 @@
 # reactplay/react-play - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
-☋ Forks: 304
+☋ Forks: 305
 
 ★ Stars: 580
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 580 | 305 | 
 | 2022-12-31 | 580 | 304 | 
 | 2022-12-30 | 579 | 304 | 
 | 2022-12-29 | 577 | 304 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 557 | 290 | 
 | 2022-12-04 | 556 | 289 | 
 | 2022-12-03 | 555 | 287 | 
-| 2022-12-02 | 555 | 287 | 
 

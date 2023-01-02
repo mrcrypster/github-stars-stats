@@ -1,6 +1,6 @@
 # hanysalah/Design-Pattern-in-SV - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 47 | 4 | 
 | 2022-12-31 | 47 | 4 | 
 | 2022-12-30 | 47 | 4 | 
 | 2022-12-29 | 47 | 4 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-07 | 47 | 4 | 
 | 2022-12-05 | 47 | 4 | 
 | 2022-12-04 | 47 | 4 | 
-| 2022-12-02 | 47 | 4 | 
 

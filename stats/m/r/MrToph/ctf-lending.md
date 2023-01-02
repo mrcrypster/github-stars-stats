@@ -1,8 +1,8 @@
 # MrToph/ctf-lending - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
-☋ Forks: 13
+☋ Forks: 14
 
 ★ Stars: 75
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 75 | 14 | 
 | 2022-12-31 | 75 | 13 | 
 | 2022-12-30 | 75 | 13 | 
 | 2022-12-29 | 75 | 13 | 

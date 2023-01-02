@@ -1,10 +1,10 @@
 # icflorescu/trpc-sveltekit-example - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
-☋ Forks: 11
+☋ Forks: 12
 
-★ Stars: 78
+★ Stars: 81
 
 [Open repository](https://github.com/icflorescu/trpc-sveltekit-example)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 81 | 12 | 
 | 2022-12-31 | 78 | 11 | 
 | 2022-12-30 | 78 | 11 | 
 | 2022-12-29 | 77 | 11 | 

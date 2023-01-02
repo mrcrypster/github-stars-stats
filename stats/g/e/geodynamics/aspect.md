@@ -1,6 +1,6 @@
 # geodynamics/aspect - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 203
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 157 | 203 | 
 | 2022-12-31 | 157 | 203 | 
 | 2022-12-30 | 157 | 203 | 
 | 2022-12-29 | 157 | 203 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 157 | 204 | 
 | 2022-12-05 | 157 | 204 | 
 | 2022-12-04 | 157 | 204 | 
-| 2022-12-02 | 157 | 204 | 
 

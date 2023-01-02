@@ -1,6 +1,6 @@
 # mathieulh/Lib-PSP-iplloader-Bootstraper-for-DTP-T1000 - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 1 | 1 | 
 | 2022-12-31 | 1 | 1 | 
 | 2022-12-30 | 1 | 1 | 
 | 2022-12-29 | 1 | 1 | 

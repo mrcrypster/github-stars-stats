@@ -1,8 +1,8 @@
 # KalleHallden/exer_log - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
-☋ Forks: 88
+☋ Forks: 87
 
 ★ Stars: 303
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 303 | 87 | 
 | 2022-12-31 | 303 | 88 | 
 | 2022-12-30 | 303 | 88 | 
 | 2022-12-29 | 303 | 88 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 300 | 87 | 
 | 2022-12-04 | 300 | 87 | 
 | 2022-12-03 | 300 | 87 | 
-| 2022-12-02 | 300 | 87 | 
 

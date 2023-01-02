@@ -1,6 +1,6 @@
 # jaspervdj/hakyll - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 412
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 2531 | 412 | 
 | 2022-12-31 | 2531 | 412 | 
 | 2022-12-30 | 2530 | 412 | 
 | 2022-12-29 | 2528 | 411 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 2522 | 410 | 
 | 2022-12-04 | 2522 | 410 | 
 | 2022-12-03 | 2522 | 410 | 
-| 2022-12-02 | 2522 | 410 | 
 

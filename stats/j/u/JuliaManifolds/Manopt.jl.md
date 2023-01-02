@@ -1,10 +1,10 @@
 # JuliaManifolds/Manopt.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 29
 
-★ Stars: 213
+★ Stars: 214
 
 [Open repository](https://github.com/JuliaManifolds/Manopt.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 214 | 29 | 
 | 2022-12-31 | 213 | 29 | 
 | 2022-12-30 | 213 | 29 | 
 | 2022-12-29 | 213 | 29 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 212 | 29 | 
 | 2022-12-05 | 211 | 29 | 
 | 2022-12-03 | 211 | 29 | 
-| 2022-12-02 | 211 | 29 | 
 

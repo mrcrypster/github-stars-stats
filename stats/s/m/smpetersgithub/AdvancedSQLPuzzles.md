@@ -1,6 +1,6 @@
 # smpetersgithub/AdvancedSQLPuzzles - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 139 | 30 | 
 | 2023-01-01 | 139 | 30 | 
 | 2022-12-30 | 139 | 30 | 
 | 2022-12-29 | 139 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 128 | 29 | 
 | 2022-12-05 | 125 | 29 | 
 | 2022-12-03 | 123 | 29 | 
-| 2022-12-02 | 123 | 29 | 
 

@@ -1,6 +1,6 @@
 # 2398872109/cloudbaserun_app - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | - | 58 | 
 | 2023-01-01 | - | 58 | 
 | 2022-12-31 | - | 58 | 
 | 2022-12-29 | - | 58 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-05 | - | 58 | 
 | 2022-12-04 | - | 58 | 
 | 2022-12-03 | - | 58 | 
-| 2022-12-02 | - | 58 | 
 

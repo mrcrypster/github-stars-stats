@@ -1,10 +1,10 @@
 # emqx/emqx - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
-☋ Forks: 1917
+☋ Forks: 1916
 
-★ Stars: 10874
+★ Stars: 10875
 
 [Open repository](https://github.com/emqx/emqx)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 10875 | 1916 | 
 | 2022-12-31 | 10874 | 1917 | 
 | 2022-12-30 | 10873 | 1917 | 
 | 2022-12-29 | 10868 | 1916 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 10770 | 1903 | 
 | 2022-12-04 | 10766 | 1898 | 
 | 2022-12-03 | 10762 | 1898 | 
-| 2022-12-02 | 10762 | 1899 | 
 

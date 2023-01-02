@@ -1,10 +1,10 @@
 # Singosgu/GreaterWMS - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 607
 
-★ Stars: 2406
+★ Stars: 2407
 
 [Open repository](https://github.com/Singosgu/GreaterWMS)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 2407 | 607 | 
 | 2022-12-31 | 2406 | 607 | 
 | 2022-12-30 | 2406 | 607 | 
 | 2022-12-29 | 2405 | 607 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 2374 | 592 | 
 | 2022-12-04 | 2370 | 592 | 
 | 2022-12-03 | 2370 | 592 | 
-| 2022-12-02 | 2369 | 593 | 
 

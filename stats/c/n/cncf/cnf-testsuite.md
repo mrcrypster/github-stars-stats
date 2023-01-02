@@ -1,6 +1,6 @@
 # cncf/cnf-testsuite - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 124 | 52 | 
 | 2022-12-31 | 124 | 52 | 
 | 2022-12-30 | 124 | 52 | 
 | 2022-12-29 | 124 | 52 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 122 | 51 | 
 | 2022-12-04 | 122 | 51 | 
 | 2022-12-03 | 122 | 51 | 
-| 2022-12-02 | 122 | 51 | 
 

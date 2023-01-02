@@ -1,6 +1,6 @@
 # dotnet-shashlik/shashlik.eventbus - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 70 | 8 | 
 | 2022-12-31 | 70 | 8 | 
 | 2022-12-30 | 70 | 8 | 
 | 2022-12-29 | 70 | 8 | 

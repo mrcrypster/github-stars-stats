@@ -1,10 +1,10 @@
 # hyperoslo/Cache - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 319
 
-★ Stars: 2676
+★ Stars: 2678
 
 [Open repository](https://github.com/hyperoslo/Cache)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 2678 | 319 | 
 | 2022-12-31 | 2676 | 319 | 
 | 2022-12-30 | 2676 | 319 | 
 | 2022-12-29 | 2676 | 319 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 2670 | 318 | 
 | 2022-12-05 | 2669 | 318 | 
 | 2022-12-03 | 2669 | 318 | 
-| 2022-12-02 | 2667 | 318 | 
 

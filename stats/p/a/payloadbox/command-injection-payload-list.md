@@ -1,10 +1,10 @@
 # payloadbox/command-injection-payload-list - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 430
 
-★ Stars: 1695
+★ Stars: 1697
 
 [Open repository](https://github.com/payloadbox/command-injection-payload-list)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 1697 | 430 | 
 | 2022-12-31 | 1695 | 430 | 
 | 2022-12-30 | 1695 | 429 | 
 | 2022-12-29 | 1692 | 429 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 1652 | 426 | 
 | 2022-12-04 | 1648 | 425 | 
 | 2022-12-03 | 1645 | 424 | 
-| 2022-12-02 | 1644 | 424 | 
 

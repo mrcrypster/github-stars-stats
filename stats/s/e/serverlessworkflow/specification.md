@@ -1,6 +1,6 @@
 # serverlessworkflow/specification - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 127
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 523 | 127 | 
 | 2022-12-31 | 523 | 127 | 
 | 2022-12-30 | 523 | 127 | 
 | 2022-12-29 | 523 | 127 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 514 | 122 | 
 | 2022-12-04 | 511 | 122 | 
 | 2022-12-03 | 511 | 122 | 
-| 2022-12-02 | 511 | 122 | 
 

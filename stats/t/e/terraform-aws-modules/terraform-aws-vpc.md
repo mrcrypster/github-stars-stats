@@ -1,10 +1,10 @@
 # terraform-aws-modules/terraform-aws-vpc - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 3698
 
-★ Stars: 2518
+★ Stars: 2519
 
 [Open repository](https://github.com/terraform-aws-modules/terraform-aws-vpc)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 2519 | 3698 | 
 | 2022-12-31 | 2518 | 3698 | 
 | 2022-12-30 | 2517 | 3698 | 
 | 2022-12-29 | 2516 | 3696 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 2498 | 3625 | 
 | 2022-12-04 | 2497 | 3624 | 
 | 2022-12-03 | 2497 | 3620 | 
-| 2022-12-02 | 2497 | 3620 | 
 

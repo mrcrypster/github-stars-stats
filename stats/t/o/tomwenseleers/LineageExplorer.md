@@ -1,6 +1,6 @@
 # tomwenseleers/LineageExplorer - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 19 | 3 | 
 | 2022-12-31 | 19 | 3 | 
 | 2022-12-30 | 19 | 3 | 
 | 2022-12-29 | 19 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 19 | 3 | 
 | 2022-12-04 | 19 | 3 | 
 | 2022-12-03 | 19 | 3 | 
-| 2022-12-02 | 19 | 3 | 
 

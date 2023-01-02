@@ -1,6 +1,6 @@
 # TutorJoes-Stanley/MySQL_Tamil - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 13 | 30 | 
 | 2022-12-31 | 13 | 30 | 
 | 2022-12-30 | 13 | 30 | 
 | 2022-12-29 | 13 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 13 | 28 | 
 | 2022-12-04 | 13 | 28 | 
 | 2022-12-03 | 13 | 28 | 
-| 2022-12-02 | 13 | 28 | 
 

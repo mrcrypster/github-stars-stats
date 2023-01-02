@@ -1,10 +1,10 @@
 # barracudanetworks/lighthouse - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 1
 
-★ Stars: 51
+★ Stars: 52
 
 [Open repository](https://github.com/barracudanetworks/lighthouse)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 52 | 1 | 
 | 2022-12-31 | 51 | 1 | 
 | 2022-12-30 | 49 | 1 | 
 | 2022-12-29 | 50 | 1 | 

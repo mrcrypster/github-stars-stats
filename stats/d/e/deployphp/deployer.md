@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 01
 
 ☋ Forks: 1437
 
-★ Stars: 9682
+★ Stars: 9684
 
 [Open repository](https://github.com/deployphp/deployer)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-01 | 9682 | 1437 | 
+| 2023-01-01 | 9684 | 1437 | 
 | 2022-12-31 | 9680 | 1437 | 
 | 2022-12-30 | 9680 | 1436 | 
 | 2022-12-29 | 9677 | 1435 | 
@@ -41,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-05 | 9647 | 1432 | 
 | 2022-12-04 | 9647 | 1431 | 
 | 2022-12-03 | 9647 | 1431 | 
-| 2022-12-02 | 9646 | 1431 | 
 

@@ -1,10 +1,10 @@
 # botman99/ue4-unreal-automation-tool - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 28
 
-★ Stars: 210
+★ Stars: 211
 
 [Open repository](https://github.com/botman99/ue4-unreal-automation-tool)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 211 | 28 | 
 | 2022-12-31 | 210 | 28 | 
 | 2022-12-30 | 210 | 28 | 
 | 2022-12-29 | 210 | 28 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 201 | 28 | 
 | 2022-12-05 | 201 | 28 | 
 | 2022-12-04 | 201 | 28 | 
-| 2022-12-03 | 201 | 28 | 
 

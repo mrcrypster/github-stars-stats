@@ -1,6 +1,6 @@
 # jeffwong/pdist - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 7 | 3 | 
 | 2022-12-31 | 7 | 3 | 
 | 2022-12-30 | 7 | 3 | 
 | 2022-12-29 | 7 | 3 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 7 | 3 | 
 | 2022-12-05 | 7 | 3 | 
 | 2022-12-04 | 7 | 3 | 
-| 2022-12-02 | 7 | 3 | 
 

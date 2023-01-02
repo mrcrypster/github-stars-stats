@@ -1,6 +1,6 @@
 # fastly/Viceroy - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 97 | 25 | 
 | 2023-01-01 | 97 | 25 | 
 | 2022-12-31 | 97 | 25 | 
 | 2022-12-29 | 97 | 25 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 97 | 25 | 
 | 2022-12-04 | 97 | 25 | 
 | 2022-12-03 | 97 | 25 | 
-| 2022-12-02 | 97 | 25 | 
 

@@ -1,6 +1,6 @@
 # thheller/shadow-css - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 58 | 4 | 
 | 2023-01-01 | 58 | 4 | 
 | 2022-12-31 | 58 | 4 | 
 | 2022-12-30 | 58 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 52 | 4 | 
 | 2022-12-05 | 51 | 4 | 
 | 2022-12-04 | 50 | 4 | 
-| 2022-12-03 | 50 | 4 | 
 

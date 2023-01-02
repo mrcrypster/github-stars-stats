@@ -1,6 +1,6 @@
 # agzam/browser-hist.el - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 19 | 2 | 
 | 2022-12-31 | 19 | 2 | 
 | 2022-12-30 | 19 | 2 | 
 | 2022-12-29 | 19 | 2 | 

@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 01
 
 ☋ Forks: 271
 
-★ Stars: 5452
+★ Stars: 5463
 
 [Open repository](https://github.com/answerdev/answer)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-01 | 5452 | 271 | 
+| 2023-01-01 | 5463 | 271 | 
 | 2022-12-31 | 5451 | 271 | 
 | 2022-12-30 | 5413 | 270 | 
 | 2022-12-29 | 5363 | 266 | 
@@ -40,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 4407 | 227 | 
 | 2022-12-04 | 4406 | 227 | 
 | 2022-12-03 | 4401 | 226 | 
-| 2022-12-02 | 4394 | 225 | 
 

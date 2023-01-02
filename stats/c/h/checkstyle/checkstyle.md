@@ -1,6 +1,6 @@
 # checkstyle/checkstyle - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 8431
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 7440 | 8431 | 
 | 2022-12-31 | 7440 | 8431 | 
 | 2022-12-30 | 7440 | 8430 | 
 | 2022-12-29 | 7438 | 8431 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 7410 | 8417 | 
 | 2022-12-04 | 7407 | 8413 | 
 | 2022-12-03 | 7405 | 8410 | 
-| 2022-12-02 | 7400 | 8407 | 
 

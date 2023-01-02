@@ -1,6 +1,6 @@
 # deaaprizal/laract9 - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 138
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 166 | 138 | 
 | 2022-12-31 | 166 | 138 | 
 | 2022-12-30 | 166 | 138 | 
 | 2022-12-29 | 166 | 138 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-07 | 163 | 141 | 
 | 2022-12-05 | 163 | 139 | 
 | 2022-12-04 | 163 | 138 | 
-| 2022-12-03 | 162 | 138 | 
 

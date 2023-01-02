@@ -1,10 +1,10 @@
 # cli/cli - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
-☋ Forks: 4528
+☋ Forks: 4531
 
-★ Stars: 30838
+★ Stars: 30846
 
 [Open repository](https://github.com/cli/cli)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 30846 | 4531 | 
 | 2022-12-31 | 30838 | 4528 | 
 | 2022-12-30 | 30830 | 4526 | 
 | 2022-12-29 | 30825 | 4521 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 30628 | 4443 | 
 | 2022-12-04 | 30616 | 4437 | 
 | 2022-12-03 | 30614 | 4436 | 
-| 2022-12-02 | 30609 | 4430 | 
 

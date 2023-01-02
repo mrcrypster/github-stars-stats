@@ -1,6 +1,6 @@
 # stalwartlabs/mail-send - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 127 | 7 | 
 | 2022-12-31 | 127 | 7 | 
 | 2022-12-30 | 127 | 7 | 
 | 2022-12-29 | 127 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 122 | 6 | 
 | 2022-12-04 | 122 | 6 | 
 | 2022-12-03 | 121 | 6 | 
-| 2022-12-02 | 120 | 6 | 
 

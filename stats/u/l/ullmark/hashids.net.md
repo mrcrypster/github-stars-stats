@@ -1,6 +1,6 @@
 # ullmark/hashids.net - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 155
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 2795 | 155 | 
 | 2022-12-31 | 2795 | 155 | 
 | 2022-12-30 | 2794 | 155 | 
 | 2022-12-29 | 2793 | 155 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-07 | 2767 | 153 | 
 | 2022-12-05 | 2768 | 152 | 
 | 2022-12-04 | 2765 | 152 | 
-| 2022-12-03 | 2763 | 152 | 
 

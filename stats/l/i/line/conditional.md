@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 01
 
 ☋ Forks: 4
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/line/conditional)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-01 | 22 | 4 | 
+| 2023-01-01 | 23 | 4 | 
 | 2022-12-31 | 22 | 4 | 
 

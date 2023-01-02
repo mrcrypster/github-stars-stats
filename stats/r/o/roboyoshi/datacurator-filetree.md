@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 01
 
 ☋ Forks: 123
 
-★ Stars: 1153
+★ Stars: 1154
 
 [Open repository](https://github.com/roboyoshi/datacurator-filetree)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-01 | 1153 | 123 | 
+| 2023-01-01 | 1154 | 123 | 
 | 2022-12-31 | 1152 | 123 | 
 | 2022-12-30 | 1151 | 122 | 
 | 2022-12-29 | 1150 | 122 | 
@@ -41,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-05 | 1140 | 124 | 
 | 2022-12-04 | 1140 | 124 | 
 | 2022-12-03 | 1138 | 123 | 
-| 2022-12-02 | 1137 | 123 | 
 

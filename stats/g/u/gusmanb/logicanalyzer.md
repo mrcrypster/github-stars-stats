@@ -1,10 +1,10 @@
 # gusmanb/logicanalyzer - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 83
 
-★ Stars: 827
+★ Stars: 829
 
 [Open repository](https://github.com/gusmanb/logicanalyzer)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 829 | 83 | 
 | 2022-12-31 | 827 | 83 | 
 | 2022-12-30 | 825 | 83 | 
 | 2022-12-29 | 824 | 83 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 801 | 78 | 
 | 2022-12-04 | 798 | 78 | 
 | 2022-12-03 | 795 | 78 | 
-| 2022-12-02 | 793 | 78 | 
 

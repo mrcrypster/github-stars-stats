@@ -1,10 +1,10 @@
 # devxoul/Then - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 291
 
-★ Stars: 3948
+★ Stars: 3949
 
 [Open repository](https://github.com/devxoul/Then)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 3949 | 291 | 
 | 2022-12-31 | 3948 | 291 | 
 | 2022-12-30 | 3948 | 291 | 
 | 2022-12-29 | 3948 | 292 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 3941 | 291 | 
 | 2022-12-05 | 3942 | 291 | 
 | 2022-12-03 | 3942 | 291 | 
-| 2022-12-02 | 3942 | 291 | 
 

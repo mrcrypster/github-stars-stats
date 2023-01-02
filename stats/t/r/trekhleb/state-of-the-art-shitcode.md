@@ -1,6 +1,6 @@
 # trekhleb/state-of-the-art-shitcode - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 239
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 3900 | 239 | 
 | 2023-01-01 | 3900 | 239 | 
 | 2022-12-31 | 3898 | 239 | 
 | 2022-12-30 | 3897 | 239 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 3862 | 239 | 
 | 2022-12-04 | 3859 | 238 | 
 | 2022-12-03 | 3860 | 238 | 
-| 2022-12-02 | 3859 | 238 | 
 

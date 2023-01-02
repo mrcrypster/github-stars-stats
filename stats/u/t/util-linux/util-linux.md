@@ -1,10 +1,10 @@
 # util-linux/util-linux - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 1029
 
-★ Stars: 1971
+★ Stars: 1972
 
 [Open repository](https://github.com/util-linux/util-linux)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 1972 | 1029 | 
 | 2022-12-31 | 1971 | 1029 | 
 | 2022-12-30 | 1971 | 1029 | 
 | 2022-12-29 | 1970 | 1029 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 1949 | 1023 | 
 | 2022-12-05 | 1947 | 1023 | 
 | 2022-12-03 | 1947 | 1023 | 
-| 2022-12-02 | 1946 | 1023 | 
 

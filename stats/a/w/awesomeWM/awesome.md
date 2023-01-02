@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 01
 
 ☋ Forks: 549
 
-★ Stars: 5311
+★ Stars: 5312
 
 [Open repository](https://github.com/awesomeWM/awesome)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-01 | 5311 | 549 | 
+| 2023-01-01 | 5312 | 549 | 
 | 2022-12-31 | 5312 | 549 | 
 | 2022-12-30 | 5305 | 548 | 
 | 2022-12-29 | 5302 | 548 | 
@@ -40,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 5253 | 543 | 
 | 2022-12-05 | 5245 | 543 | 
 | 2022-12-04 | 5244 | 543 | 
-| 2022-12-02 | 5243 | 543 | 
 

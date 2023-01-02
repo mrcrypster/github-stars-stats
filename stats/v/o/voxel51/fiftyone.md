@@ -1,10 +1,10 @@
 # voxel51/fiftyone - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 277
 
-★ Stars: 2376
+★ Stars: 2379
 
 [Open repository](https://github.com/voxel51/fiftyone)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 2379 | 277 | 
 | 2022-12-31 | 2376 | 277 | 
 | 2022-12-30 | 2371 | 277 | 
 | 2022-12-29 | 2368 | 277 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 2245 | 269 | 
 | 2022-12-04 | 2224 | 267 | 
 | 2022-12-03 | 2206 | 265 | 
-| 2022-12-02 | 2197 | 265 | 
 

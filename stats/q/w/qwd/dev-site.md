@@ -1,6 +1,6 @@
 # qwd/dev-site - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 31 | 40 | 
 | 2022-12-31 | 31 | 40 | 
 | 2022-12-30 | 31 | 40 | 
 | 2022-12-29 | 31 | 40 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 31 | 37 | 
 | 2022-12-05 | 31 | 36 | 
 | 2022-12-04 | 31 | 36 | 
-| 2022-12-02 | 31 | 36 | 
 

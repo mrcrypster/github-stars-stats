@@ -1,10 +1,10 @@
 # unblevable/quick-scope - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 45
 
-★ Stars: 1236
+★ Stars: 1238
 
 [Open repository](https://github.com/unblevable/quick-scope)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 1238 | 45 | 
 | 2022-12-31 | 1236 | 45 | 
 | 2022-12-30 | 1236 | 45 | 
 | 2022-12-29 | 1236 | 45 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 1229 | 45 | 
 | 2022-12-04 | 1227 | 45 | 
 | 2022-12-03 | 1227 | 45 | 
-| 2022-12-02 | 1227 | 45 | 
 

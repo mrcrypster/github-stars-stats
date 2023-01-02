@@ -1,10 +1,10 @@
 # ytisf/theZoo - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 2304
 
-★ Stars: 9261
+★ Stars: 9262
 
 [Open repository](https://github.com/ytisf/theZoo)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 9262 | 2304 | 
 | 2022-12-31 | 9261 | 2304 | 
 | 2022-12-30 | 9258 | 2304 | 
 | 2022-12-29 | 9254 | 2302 | 

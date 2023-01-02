@@ -1,6 +1,6 @@
 # chxuan/vimplus - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 1129
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 3678 | 1129 | 
 | 2022-12-31 | 3678 | 1129 | 
 | 2022-12-30 | 3679 | 1129 | 
 | 2022-12-29 | 3679 | 1129 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 3670 | 1131 | 
 | 2022-12-04 | 3669 | 1131 | 
 | 2022-12-03 | 3668 | 1131 | 
-| 2022-12-02 | 3668 | 1131 | 
 

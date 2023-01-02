@@ -1,10 +1,10 @@
 # Netflix/atlas - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 272
 
-★ Stars: 3180
+★ Stars: 3181
 
 [Open repository](https://github.com/Netflix/atlas)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 3181 | 272 | 
 | 2022-12-31 | 3180 | 272 | 
 | 2022-12-30 | 3180 | 271 | 
 | 2022-12-29 | 3179 | 271 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 3166 | 271 | 
 | 2022-12-04 | 3164 | 271 | 
 | 2022-12-03 | 3164 | 271 | 
-| 2022-12-02 | 3163 | 271 | 
 

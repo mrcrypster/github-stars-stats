@@ -1,6 +1,6 @@
 # EffectOrientedProgramming/book - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 177 | 7 | 
 | 2023-01-01 | 177 | 7 | 
 | 2022-12-31 | 177 | 7 | 
 | 2022-12-29 | 177 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-05 | 174 | 7 | 
 | 2022-12-04 | 172 | 7 | 
 | 2022-12-03 | 172 | 7 | 
-| 2022-12-02 | 172 | 7 | 
 

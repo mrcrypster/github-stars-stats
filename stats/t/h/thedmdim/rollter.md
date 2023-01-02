@@ -1,10 +1,10 @@
 # thedmdim/rollter - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 7
 
-★ Stars: 59
+★ Stars: 60
 
 [Open repository](https://github.com/thedmdim/rollter)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 60 | 7 | 
 | 2023-01-01 | 59 | 7 | 
 | 2022-12-30 | 59 | 7 | 
 | 2022-12-29 | 59 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 57 | 6 | 
 | 2022-12-04 | 57 | 6 | 
 | 2022-12-03 | 57 | 6 | 
-| 2022-12-02 | 56 | 6 | 
 

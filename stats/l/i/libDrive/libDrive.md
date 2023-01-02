@@ -1,10 +1,10 @@
 # libDrive/libDrive - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 63
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/libDrive/libDrive)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 28 | 63 | 
 | 2022-12-31 | 27 | 63 | 
 | 2022-12-30 | 27 | 63 | 
 | 2022-12-29 | 27 | 63 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 27 | 62 | 
 | 2022-12-04 | 27 | 62 | 
 | 2022-12-03 | 27 | 62 | 
-| 2022-12-02 | 27 | 62 | 
 

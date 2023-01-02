@@ -1,8 +1,8 @@
 # android/uamp - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
-☋ Forks: 3708
+☋ Forks: 3707
 
 ★ Stars: 12719
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 12719 | 3707 | 
 | 2022-12-31 | 12719 | 3708 | 
 | 2022-12-30 | 12719 | 3709 | 
 | 2022-12-29 | 12718 | 3710 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 12704 | 3706 | 
 | 2022-12-05 | 12703 | 3706 | 
 | 2022-12-03 | 12701 | 3705 | 
-| 2022-12-02 | 12701 | 3706 | 
 

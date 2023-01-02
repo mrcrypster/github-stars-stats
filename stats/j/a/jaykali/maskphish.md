@@ -1,10 +1,10 @@
 # jaykali/maskphish - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
-☋ Forks: 231
+☋ Forks: 232
 
-★ Stars: 1514
+★ Stars: 1515
 
 [Open repository](https://github.com/jaykali/maskphish)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 1515 | 232 | 
 | 2022-12-31 | 1514 | 231 | 
 | 2022-12-30 | 1513 | 230 | 
 | 2022-12-29 | 1513 | 230 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 1476 | 223 | 
 | 2022-12-05 | 1476 | 222 | 
 | 2022-12-03 | 1473 | 222 | 
-| 2022-12-02 | 1472 | 222 | 
 

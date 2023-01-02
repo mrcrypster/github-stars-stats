@@ -1,10 +1,10 @@
 # Cacti/cacti - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 344
 
-★ Stars: 1321
+★ Stars: 1322
 
 [Open repository](https://github.com/Cacti/cacti)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 1322 | 344 | 
 | 2022-12-31 | 1321 | 344 | 
 | 2022-12-30 | 1321 | 345 | 
 | 2022-12-29 | 1321 | 345 | 

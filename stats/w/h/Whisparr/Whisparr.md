@@ -1,10 +1,10 @@
 # Whisparr/Whisparr - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 11
 
-★ Stars: 169
+★ Stars: 170
 
 [Open repository](https://github.com/Whisparr/Whisparr)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 170 | 11 | 
 | 2022-12-31 | 169 | 11 | 
 | 2022-12-30 | 169 | 11 | 
 | 2022-12-29 | 169 | 11 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 157 | 9 | 
 | 2022-12-04 | 156 | 9 | 
 | 2022-12-03 | 156 | 9 | 
-| 2022-12-02 | 155 | 9 | 
 

@@ -1,6 +1,6 @@
 # Kholid060/automa - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 580
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 6030 | 580 | 
 | 2022-12-31 | 6030 | 580 | 
 | 2022-12-30 | 6023 | 580 | 
 | 2022-12-29 | 6019 | 580 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 5929 | 570 | 
 | 2022-12-04 | 5927 | 570 | 
 | 2022-12-03 | 5924 | 570 | 
-| 2022-12-02 | 5916 | 568 | 
 

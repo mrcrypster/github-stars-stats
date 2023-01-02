@@ -1,6 +1,6 @@
 # slailcp/tv-focusable-example - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 46 | 21 | 
 | 2023-01-01 | 46 | 21 | 
 | 2022-12-31 | 46 | 21 | 
 | 2022-12-29 | 45 | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-05 | 45 | 21 | 
 | 2022-12-04 | 45 | 21 | 
 | 2022-12-03 | 45 | 21 | 
-| 2022-12-02 | 45 | 21 | 
 

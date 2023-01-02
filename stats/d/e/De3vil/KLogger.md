@@ -1,6 +1,6 @@
 # De3vil/KLogger - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 95 | 14 | 
 | 2022-12-31 | 95 | 14 | 
 | 2022-12-30 | 95 | 13 | 
 | 2022-12-29 | 95 | 13 | 

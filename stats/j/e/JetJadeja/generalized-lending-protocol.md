@@ -1,6 +1,6 @@
 # JetJadeja/generalized-lending-protocol - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 73 | 8 | 
 | 2022-12-31 | 73 | 8 | 
 | 2022-12-30 | 73 | 8 | 
 | 2022-12-29 | 73 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 66 | 8 | 
 | 2022-12-05 | 66 | 8 | 
 | 2022-12-03 | 66 | 8 | 
-| 2022-12-02 | 66 | 8 | 
 

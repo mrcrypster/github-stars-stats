@@ -1,10 +1,10 @@
 # gongkenanguan/koyebXray - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
-☋ Forks: 25
+☋ Forks: 24
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/gongkenanguan/koyebXray)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 2 | 24 | 
 | 2022-12-31 | 1 | 25 | 
 | 2022-12-30 | 1 | 25 | 
 | 2022-12-29 | 1 | 25 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 1 | 26 | 
 | 2022-12-05 | 1 | 26 | 
 | 2022-12-03 | 1 | 26 | 
-| 2022-12-02 | 1 | 26 | 
 

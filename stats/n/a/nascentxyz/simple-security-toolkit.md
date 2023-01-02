@@ -1,10 +1,10 @@
 # nascentxyz/simple-security-toolkit - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 82
 
-★ Stars: 621
+★ Stars: 622
 
 [Open repository](https://github.com/nascentxyz/simple-security-toolkit)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 622 | 82 | 
 | 2022-12-31 | 621 | 82 | 
 | 2022-12-30 | 621 | 82 | 
 | 2022-12-29 | 620 | 82 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 610 | 81 | 
 | 2022-12-05 | 610 | 81 | 
 | 2022-12-04 | 609 | 81 | 
-| 2022-12-03 | 609 | 81 | 
 

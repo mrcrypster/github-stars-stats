@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 01
 
-☋ Forks: 218
+☋ Forks: 220
 
-★ Stars: 2347
+★ Stars: 2350
 
 [Open repository](https://github.com/chaifeng/ufw-docker)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-01 | 2347 | 218 | 
+| 2023-01-01 | 2350 | 220 | 
 | 2022-12-31 | 2342 | 217 | 
 | 2022-12-29 | 2337 | 217 | 
 | 2022-12-28 | 2331 | 217 | 
@@ -40,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-05 | 2272 | 212 | 
 | 2022-12-04 | 2267 | 212 | 
 | 2022-12-03 | 2266 | 212 | 
-| 2022-12-02 | 2263 | 212 | 
 

@@ -1,6 +1,6 @@
 # Shirakumo/alloy - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 125 | 9 | 
 | 2022-12-31 | 125 | 9 | 
 | 2022-12-30 | 125 | 9 | 
 | 2022-12-29 | 124 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 124 | 9 | 
 | 2022-12-05 | 123 | 9 | 
 | 2022-12-04 | 123 | 9 | 
-| 2022-12-03 | 123 | 9 | 
 

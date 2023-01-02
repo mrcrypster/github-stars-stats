@@ -1,10 +1,10 @@
 # nccgroup/ScoutSuite - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 804
 
-★ Stars: 4968
+★ Stars: 4967
 
 [Open repository](https://github.com/nccgroup/ScoutSuite)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 4967 | 804 | 
 | 2022-12-31 | 4968 | 804 | 
 | 2022-12-30 | 4967 | 803 | 
 | 2022-12-29 | 4966 | 803 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 4927 | 791 | 
 | 2022-12-05 | 4928 | 791 | 
 | 2022-12-04 | 4926 | 791 | 
-| 2022-12-03 | 4925 | 791 | 
 

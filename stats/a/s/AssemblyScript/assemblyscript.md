@@ -1,10 +1,10 @@
 # AssemblyScript/assemblyscript - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 628
 
-★ Stars: 14999
+★ Stars: 15002
 
 [Open repository](https://github.com/AssemblyScript/assemblyscript)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 15002 | 628 | 
 | 2022-12-31 | 14999 | 628 | 
 | 2022-12-30 | 14994 | 628 | 
 | 2022-12-29 | 14988 | 628 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 14898 | 623 | 
 | 2022-12-04 | 14891 | 622 | 
 | 2022-12-03 | 14884 | 622 | 
-| 2022-12-02 | 14883 | 621 | 
 

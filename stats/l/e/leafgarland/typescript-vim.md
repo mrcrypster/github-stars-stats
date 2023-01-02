@@ -1,10 +1,10 @@
 # leafgarland/typescript-vim - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 146
 
-★ Stars: 1854
+★ Stars: 1853
 
 [Open repository](https://github.com/leafgarland/typescript-vim)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 1853 | 146 | 
 | 2022-12-31 | 1854 | 146 | 
 | 2022-12-30 | 1854 | 146 | 
 | 2022-12-29 | 1853 | 146 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 1848 | 145 | 
 | 2022-12-05 | 1848 | 145 | 
 | 2022-12-04 | 1848 | 145 | 
-| 2022-12-02 | 1847 | 145 | 
 

@@ -1,6 +1,6 @@
 # mate-academy/js_fetch_data_advanced_DOM - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 175
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | - | 175 | 
 | 2022-12-31 | - | 175 | 
 | 2022-12-30 | - | 175 | 
 | 2022-12-29 | - | 175 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | - | 174 | 
 | 2022-12-05 | - | 174 | 
 | 2022-12-03 | - | 173 | 
-| 2022-12-02 | - | 173 | 
 

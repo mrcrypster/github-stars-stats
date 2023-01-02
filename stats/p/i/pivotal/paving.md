@@ -1,6 +1,6 @@
 # pivotal/paving - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 43 | 42 | 
 | 2022-12-31 | 43 | 42 | 
 | 2022-12-30 | 43 | 42 | 
 | 2022-12-29 | 43 | 42 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-07 | 43 | 41 | 
 | 2022-12-05 | 43 | 41 | 
 | 2022-12-04 | 43 | 41 | 
-| 2022-12-03 | 43 | 41 | 
 

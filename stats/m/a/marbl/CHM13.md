@@ -1,6 +1,6 @@
 # marbl/CHM13 - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 78
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 661 | 78 | 
 | 2022-12-31 | 661 | 78 | 
 | 2022-12-30 | 661 | 78 | 
 | 2022-12-29 | 661 | 78 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 657 | 77 | 
 | 2022-12-04 | 656 | 77 | 
 | 2022-12-03 | 655 | 77 | 
-| 2022-12-02 | 655 | 77 | 
 

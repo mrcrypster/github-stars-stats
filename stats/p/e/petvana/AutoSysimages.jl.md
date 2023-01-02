@@ -1,6 +1,6 @@
 # petvana/AutoSysimages.jl - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 89 | 5 | 
 | 2022-12-31 | 89 | 5 | 
 | 2022-12-30 | 89 | 5 | 
 | 2022-12-29 | 89 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 88 | 5 | 
 | 2022-12-05 | 88 | 5 | 
 | 2022-12-04 | 88 | 5 | 
-| 2022-12-02 | 88 | 5 | 
 

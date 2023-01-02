@@ -1,10 +1,10 @@
 # TEIC/Stylesheets - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 116
 
-★ Stars: 204
+★ Stars: 205
 
 [Open repository](https://github.com/TEIC/Stylesheets)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 205 | 116 | 
 | 2022-12-31 | 204 | 116 | 
 | 2022-12-30 | 204 | 115 | 
 | 2022-12-29 | 204 | 115 | 

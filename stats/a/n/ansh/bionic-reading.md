@@ -1,6 +1,6 @@
 # ansh/bionic-reading - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 158
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 2954 | 158 | 
 | 2022-12-31 | 2954 | 158 | 
 | 2022-12-30 | 2954 | 158 | 
 | 2022-12-29 | 2954 | 158 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 2931 | 158 | 
 | 2022-12-05 | 2929 | 157 | 
 | 2022-12-04 | 2929 | 157 | 
-| 2022-12-02 | 2928 | 157 | 
 

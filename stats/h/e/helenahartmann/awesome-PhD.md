@@ -1,10 +1,10 @@
 # helenahartmann/awesome-PhD - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 12
 
-★ Stars: 266
+★ Stars: 267
 
 [Open repository](https://github.com/helenahartmann/awesome-PhD)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 267 | 12 | 
 | 2022-12-31 | 266 | 12 | 
 | 2022-12-30 | 266 | 12 | 
 | 2022-12-29 | 265 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 255 | 12 | 
 | 2022-12-04 | 254 | 11 | 
 | 2022-12-03 | 253 | 11 | 
-| 2022-12-02 | 252 | 11 | 
 

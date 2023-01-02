@@ -1,6 +1,6 @@
 # MHumm/delphi-code-coverage-wizard-plus - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 21 | 4 | 
 | 2023-01-01 | 21 | 4 | 
 | 2022-12-30 | 21 | 4 | 
 | 2022-12-29 | 21 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 14 | 4 | 
 | 2022-12-05 | 14 | 4 | 
 | 2022-12-04 | 14 | 4 | 
-| 2022-12-02 | 14 | 4 | 
 

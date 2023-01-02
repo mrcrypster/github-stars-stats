@@ -1,6 +1,6 @@
 # DeepLearningDTU/02456-deep-learning-with-PyTorch - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 386
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 225 | 386 | 
 | 2022-12-31 | 225 | 386 | 
 | 2022-12-30 | 223 | 386 | 
 | 2022-12-29 | 223 | 387 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 220 | 385 | 
 | 2022-12-05 | 220 | 385 | 
 | 2022-12-04 | 220 | 385 | 
-| 2022-12-02 | 220 | 385 | 
 

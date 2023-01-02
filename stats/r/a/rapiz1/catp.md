@@ -1,10 +1,10 @@
 # rapiz1/catp - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 22
 
-★ Stars: 1120
+★ Stars: 1121
 
 [Open repository](https://github.com/rapiz1/catp)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 1121 | 22 | 
 | 2022-12-31 | 1120 | 22 | 
 | 2022-12-30 | 1120 | 22 | 
 | 2022-12-29 | 1120 | 22 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 1111 | 20 | 
 | 2022-12-04 | 1111 | 20 | 
 | 2022-12-03 | 1111 | 20 | 
-| 2022-12-02 | 1111 | 20 | 
 

@@ -1,10 +1,10 @@
 # xnd1124/CfeUpdater - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 2
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/xnd1124/CfeUpdater)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 17 | 2 | 
 | 2022-12-31 | 16 | 2 | 
 | 2022-12-30 | 16 | 2 | 
 

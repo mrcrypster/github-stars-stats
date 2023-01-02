@@ -1,6 +1,6 @@
 # bensheldon/good_job - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 100
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 1598 | 100 | 
 | 2022-12-31 | 1598 | 100 | 
 | 2022-12-30 | 1598 | 100 | 
 | 2022-12-29 | 1598 | 100 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 1578 | 96 | 
 | 2022-12-04 | 1578 | 95 | 
 | 2022-12-03 | 1578 | 94 | 
-| 2022-12-02 | 1576 | 94 | 
 

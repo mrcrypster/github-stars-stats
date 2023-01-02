@@ -1,10 +1,10 @@
 # jremmen/vim-ripgrep - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 93
 
-★ Stars: 498
+★ Stars: 499
 
 [Open repository](https://github.com/jremmen/vim-ripgrep)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 499 | 93 | 
 | 2022-12-31 | 498 | 93 | 
 | 2022-12-30 | 498 | 93 | 
 | 2022-12-29 | 498 | 93 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-07 | 499 | 93 | 
 | 2022-12-05 | 499 | 93 | 
 | 2022-12-04 | 498 | 93 | 
-| 2022-12-03 | 498 | 93 | 
 

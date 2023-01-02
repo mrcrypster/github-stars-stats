@@ -1,10 +1,10 @@
 # SheehabMuhammad/fb-phishing - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 309
 
-★ Stars: 208
+★ Stars: 209
 
 [Open repository](https://github.com/SheehabMuhammad/fb-phishing)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 209 | 309 | 
 | 2022-12-31 | 208 | 309 | 
 | 2022-12-30 | 208 | 309 | 
 | 2022-12-29 | 208 | 309 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 207 | 309 | 
 | 2022-12-04 | 207 | 309 | 
 | 2022-12-03 | 207 | 309 | 
-| 2022-12-02 | 207 | 309 | 
 

@@ -1,6 +1,6 @@
 # sdmg15/Best-websites-a-programmer-should-visit - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 6643
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 50017 | 6643 | 
 | 2022-12-31 | 50017 | 6643 | 
 | 2022-12-30 | 50009 | 6642 | 
 | 2022-12-29 | 50002 | 6641 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 49637 | 6614 | 
 | 2022-12-04 | 49599 | 6611 | 
 | 2022-12-03 | 49557 | 6608 | 
-| 2022-12-02 | 49417 | 6595 | 
 

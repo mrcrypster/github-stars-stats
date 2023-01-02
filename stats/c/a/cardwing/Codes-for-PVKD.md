@@ -1,10 +1,10 @@
 # cardwing/Codes-for-PVKD - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 96
 
-★ Stars: 366
+★ Stars: 367
 
 [Open repository](https://github.com/cardwing/Codes-for-PVKD)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 367 | 96 | 
 | 2022-12-31 | 366 | 96 | 
 | 2022-12-30 | 366 | 96 | 
 | 2022-12-29 | 366 | 96 | 

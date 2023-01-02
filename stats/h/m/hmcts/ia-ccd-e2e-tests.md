@@ -1,6 +1,6 @@
 # hmcts/ia-ccd-e2e-tests - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 4 | 1 | 
 | 2023-01-01 | 4 | 1 | 
 | 2022-12-31 | 4 | 1 | 
 | 2022-12-29 | 4 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 4 | 1 | 
 | 2022-12-04 | 4 | 1 | 
 | 2022-12-03 | 4 | 1 | 
-| 2022-12-02 | 4 | 1 | 
 

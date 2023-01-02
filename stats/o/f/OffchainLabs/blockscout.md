@@ -1,10 +1,10 @@
 # OffchainLabs/blockscout - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 9
 
-★ Stars: 17
+★ Stars: 16
 
 [Open repository](https://github.com/OffchainLabs/blockscout)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 16 | 9 | 
 | 2022-12-31 | 17 | 9 | 
 | 2022-12-30 | 17 | 9 | 
 | 2022-12-29 | 17 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 13 | 8 | 
 | 2022-12-04 | 11 | 8 | 
 | 2022-12-03 | 11 | 8 | 
-| 2022-12-02 | 11 | 8 | 
 

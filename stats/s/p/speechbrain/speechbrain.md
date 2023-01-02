@@ -1,6 +1,6 @@
 # speechbrain/speechbrain - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 980
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 5081 | 980 | 
 | 2022-12-31 | 5081 | 980 | 
 | 2022-12-30 | 5080 | 980 | 
 | 2022-12-29 | 5077 | 978 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 4949 | 957 | 
 | 2022-12-04 | 4930 | 953 | 
 | 2022-12-03 | 4926 | 951 | 
-| 2022-12-02 | 4923 | 952 | 
 

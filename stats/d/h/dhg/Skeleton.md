@@ -1,6 +1,6 @@
 # dhg/Skeleton - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 3146
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 18759 | 3146 | 
 | 2022-12-31 | 18759 | 3146 | 
 | 2022-12-30 | 18757 | 3146 | 
 | 2022-12-29 | 18758 | 3146 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 18735 | 3149 | 
 | 2022-12-04 | 18734 | 3149 | 
 | 2022-12-03 | 18734 | 3149 | 
-| 2022-12-02 | 18732 | 3149 | 
 

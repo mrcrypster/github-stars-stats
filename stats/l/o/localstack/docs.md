@@ -1,10 +1,10 @@
 # localstack/docs - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 53
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/localstack/docs)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 31 | 53 | 
 | 2022-12-31 | 30 | 53 | 
 | 2022-12-30 | 30 | 53 | 
 | 2022-12-29 | 30 | 53 | 

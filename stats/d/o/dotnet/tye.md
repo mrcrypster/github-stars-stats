@@ -1,10 +1,10 @@
 # dotnet/tye - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 511
 
-★ Stars: 5004
+★ Stars: 5006
 
 [Open repository](https://github.com/dotnet/tye)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 5006 | 511 | 
 | 2023-01-01 | 5004 | 511 | 
 | 2022-12-30 | 5004 | 511 | 
 | 2022-12-29 | 5003 | 510 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 4908 | 505 | 
 | 2022-12-05 | 4907 | 505 | 
 | 2022-12-03 | 4905 | 504 | 
-| 2022-12-02 | 4903 | 504 | 
 

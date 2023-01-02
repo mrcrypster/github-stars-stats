@@ -1,6 +1,6 @@
 # durgesh2001/Hacktoberfest_2022 - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 21 | 61 | 
 | 2022-12-31 | 21 | 61 | 
 | 2022-12-30 | 21 | 61 | 
 | 2022-12-29 | 21 | 61 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 21 | 63 | 
 | 2022-12-04 | 21 | 63 | 
 | 2022-12-03 | 21 | 63 | 
-| 2022-12-02 | 21 | 63 | 
 

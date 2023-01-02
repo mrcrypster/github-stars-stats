@@ -1,10 +1,10 @@
 # sabine/svelte-crop-window - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 0
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/sabine/svelte-crop-window)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 24 | - | 
 | 2022-12-31 | 23 | - | 
 | 2022-12-30 | 23 | - | 
 | 2022-12-29 | 21 | - | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 21 | - | 
 | 2022-12-04 | 20 | - | 
 | 2022-12-03 | 19 | - | 
-| 2022-12-02 | 19 | - | 
 

@@ -1,10 +1,10 @@
 # ansh/jiffyreader.com - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 158
 
-★ Stars: 2953
+★ Stars: 2954
 
 [Open repository](https://github.com/ansh/jiffyreader.com)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 2954 | 158 | 
 | 2022-12-31 | 2953 | 158 | 
 | 2022-12-30 | 2954 | 158 | 
 | 2022-12-29 | 2954 | 158 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 2929 | 157 | 
 | 2022-12-04 | 2929 | 157 | 
 | 2022-12-03 | 2929 | 157 | 
-| 2022-12-02 | 2926 | 157 | 
 

@@ -1,10 +1,10 @@
 # ndeet/unzipper - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
-☋ Forks: 1263
+☋ Forks: 1265
 
-★ Stars: 807
+★ Stars: 808
 
 [Open repository](https://github.com/ndeet/unzipper)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 808 | 1265 | 
 | 2022-12-31 | 807 | 1263 | 
 | 2022-12-30 | 804 | 1262 | 
 | 2022-12-29 | 804 | 1260 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 778 | 1233 | 
 | 2022-12-04 | 778 | 1233 | 
 | 2022-12-03 | 778 | 1232 | 
-| 2022-12-02 | 778 | 1231 | 
 

@@ -1,10 +1,10 @@
 # TheWover/donut - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 476
 
-★ Stars: 2369
+★ Stars: 2372
 
 [Open repository](https://github.com/TheWover/donut)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 2372 | 476 | 
 | 2022-12-31 | 2369 | 476 | 
 | 2022-12-30 | 2368 | 476 | 
 | 2022-12-29 | 2366 | 476 | 

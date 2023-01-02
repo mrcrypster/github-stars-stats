@@ -1,6 +1,6 @@
 # emk/rust-musl-builder - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 180
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 1317 | 180 | 
 | 2022-12-31 | 1317 | 180 | 
 | 2022-12-30 | 1316 | 180 | 
 | 2022-12-29 | 1315 | 180 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 1307 | 178 | 
 | 2022-12-05 | 1305 | 178 | 
 | 2022-12-04 | 1305 | 178 | 
-| 2022-12-02 | 1305 | 178 | 
 

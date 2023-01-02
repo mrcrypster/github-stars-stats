@@ -1,6 +1,6 @@
 # disksing/sao-gen-gen - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 581 | 32 | 
 | 2022-12-31 | 581 | 32 | 
 | 2022-12-30 | 581 | 32 | 
 | 2022-12-29 | 581 | 32 | 
@@ -38,5 +39,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 572 | 32 | 
 | 2022-12-05 | 572 | 32 | 
 | 2022-12-04 | 572 | 32 | 
-| 2022-12-02 | 572 | 32 | 
 

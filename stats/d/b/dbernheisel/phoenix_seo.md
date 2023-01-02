@@ -1,6 +1,6 @@
 # dbernheisel/phoenix_seo - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 70 | 3 | 
 | 2022-12-31 | 70 | 3 | 
 | 2022-12-30 | 70 | 3 | 
 | 2022-12-29 | 70 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 66 | 3 | 
 | 2022-12-04 | 66 | 3 | 
 | 2022-12-03 | 66 | 3 | 
-| 2022-12-02 | 66 | 3 | 
 

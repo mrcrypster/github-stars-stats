@@ -1,8 +1,8 @@
 # ScRiPt1337/Teardroid-phprat - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
-☋ Forks: 170
+☋ Forks: 171
 
 ★ Stars: 359
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 359 | 171 | 
 | 2022-12-31 | 359 | 170 | 
 | 2022-12-30 | 359 | 170 | 
 | 2022-12-29 | 359 | 170 | 
@@ -42,5 +43,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 332 | 156 | 
 | 2022-12-04 | 331 | 155 | 
 | 2022-12-03 | 331 | 155 | 
-| 2022-12-02 | 330 | 155 | 
 

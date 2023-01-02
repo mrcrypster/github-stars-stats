@@ -1,10 +1,10 @@
 # EmpireMediaScience/A1111-Web-UI-Installer - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 7
 
-★ Stars: 136
+★ Stars: 139
 
 [Open repository](https://github.com/EmpireMediaScience/A1111-Web-UI-Installer)
 
@@ -13,7 +13,8 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-01 | 136 | 7 | 
+| 2023-01-02 | 139 | 7 | 
+| 2023-01-01 | 137 | 7 | 
 | 2022-12-31 | 136 | 7 | 
 | 2022-12-30 | 131 | 7 | 
 | 2022-12-29 | 116 | 6 | 

@@ -1,10 +1,10 @@
 # yqrashawn/fd-dired - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 8
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/yqrashawn/fd-dired)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 37 | 8 | 
 | 2022-12-31 | 36 | 8 | 
 | 2022-12-30 | 36 | 8 | 
 | 2022-12-29 | 36 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 35 | 8 | 
 | 2022-12-04 | 35 | 8 | 
 | 2022-12-03 | 35 | 8 | 
-| 2022-12-02 | 35 | 8 | 
 

@@ -1,10 +1,10 @@
 # CarGuo/gsy_github_app_flutter - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 2418
 
-★ Stars: 13664
+★ Stars: 13665
 
 [Open repository](https://github.com/CarGuo/gsy_github_app_flutter)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 13665 | 2418 | 
 | 2022-12-31 | 13664 | 2418 | 
 | 2022-12-30 | 13664 | 2418 | 
 | 2022-12-29 | 13661 | 2418 | 

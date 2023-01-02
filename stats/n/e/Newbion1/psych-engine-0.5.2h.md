@@ -1,8 +1,8 @@
 # Newbion1/psych-engine-0.5.2h - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
-☋ Forks: 74
+☋ Forks: 75
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 2 | 75 | 
 | 2022-12-31 | 2 | 74 | 
 | 2022-12-30 | 2 | 74 | 
 | 2022-12-29 | 2 | 74 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 2 | 73 | 
 | 2022-12-05 | 2 | 73 | 
 | 2022-12-04 | 2 | 72 | 
-| 2022-12-03 | 2 | 71 | 
 

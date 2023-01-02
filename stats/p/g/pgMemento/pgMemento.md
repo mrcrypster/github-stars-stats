@@ -1,10 +1,10 @@
 # pgMemento/pgMemento - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 38
 
-★ Stars: 334
+★ Stars: 335
 
 [Open repository](https://github.com/pgMemento/pgMemento)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 335 | 38 | 
 | 2022-12-31 | 334 | 38 | 
 | 2022-12-30 | 334 | 38 | 
 | 2022-12-29 | 334 | 38 | 

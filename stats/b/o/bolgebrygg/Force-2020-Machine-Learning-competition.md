@@ -1,6 +1,6 @@
 # bolgebrygg/Force-2020-Machine-Learning-competition - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 81
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 109 | 81 | 
 | 2022-12-31 | 109 | 81 | 
 | 2022-12-30 | 109 | 81 | 
 | 2022-12-29 | 109 | 81 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 108 | 80 | 
 | 2022-12-04 | 108 | 80 | 
 | 2022-12-03 | 108 | 80 | 
-| 2022-12-02 | 108 | 79 | 
 

@@ -1,6 +1,6 @@
 # Jaliborc/Bagnon - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 92
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 174 | 92 | 
 | 2022-12-31 | 174 | 92 | 
 | 2022-12-30 | 174 | 92 | 
 | 2022-12-29 | 174 | 92 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 172 | 91 | 
 | 2022-12-04 | 171 | 91 | 
 | 2022-12-03 | 171 | 91 | 
-| 2022-12-02 | 171 | 91 | 
 

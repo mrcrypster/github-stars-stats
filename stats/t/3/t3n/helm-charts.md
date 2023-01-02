@@ -1,10 +1,10 @@
 # t3n/helm-charts - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 66
 
-★ Stars: 49
+★ Stars: 50
 
 [Open repository](https://github.com/t3n/helm-charts)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 50 | 66 | 
 | 2023-01-01 | 49 | 66 | 
 | 2022-12-31 | 49 | 66 | 
 | 2022-12-29 | 49 | 66 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 48 | 65 | 
 | 2022-12-05 | 48 | 65 | 
 | 2022-12-03 | 48 | 65 | 
-| 2022-12-02 | 48 | 65 | 
 

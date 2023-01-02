@@ -1,10 +1,10 @@
 # gobuffalo/buffalo - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 550
 
-★ Stars: 7405
+★ Stars: 7406
 
 [Open repository](https://github.com/gobuffalo/buffalo)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 7406 | 550 | 
 | 2022-12-31 | 7405 | 550 | 
 | 2022-12-30 | 7405 | 549 | 
 | 2022-12-29 | 7405 | 548 | 

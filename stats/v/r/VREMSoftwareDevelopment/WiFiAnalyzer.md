@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 01
 
 ☋ Forks: 495
 
-★ Stars: 1922
+★ Stars: 1923
 
 [Open repository](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-01 | 1922 | 495 | 
+| 2023-01-01 | 1923 | 495 | 
 | 2022-12-31 | 1922 | 495 | 
 | 2022-12-30 | 1921 | 495 | 
 | 2022-12-29 | 1919 | 494 | 
@@ -40,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 1881 | 490 | 
 | 2022-12-05 | 1878 | 488 | 
 | 2022-12-04 | 1875 | 487 | 
-| 2022-12-03 | 1873 | 486 | 
 

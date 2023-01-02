@@ -1,6 +1,6 @@
 # TimTeaFan/loopurrr - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 49 | 1 | 
 | 2022-12-31 | 49 | 1 | 
 | 2022-12-30 | 49 | 1 | 
 | 2022-12-29 | 49 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 49 | 1 | 
 | 2022-12-05 | 49 | 1 | 
 | 2022-12-04 | 49 | 1 | 
-| 2022-12-02 | 49 | 1 | 
 

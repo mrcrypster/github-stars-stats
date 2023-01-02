@@ -1,10 +1,10 @@
 # elixir-lsp/elixir-ls - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 144
 
-★ Stars: 1056
+★ Stars: 1057
 
 [Open repository](https://github.com/elixir-lsp/elixir-ls)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 1057 | 144 | 
 | 2022-12-31 | 1056 | 144 | 
 | 2022-12-30 | 1055 | 145 | 
 | 2022-12-29 | 1055 | 145 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 1035 | 144 | 
 | 2022-12-04 | 1034 | 144 | 
 | 2022-12-03 | 1034 | 144 | 
-| 2022-12-02 | 1032 | 144 | 
 

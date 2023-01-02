@@ -1,6 +1,6 @@
 # NationalSecurityAgency/skills-service - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 64
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 249 | 64 | 
 | 2022-12-31 | 249 | 64 | 
 | 2022-12-30 | 249 | 64 | 
 | 2022-12-29 | 248 | 64 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 246 | 64 | 
 | 2022-12-04 | 244 | 63 | 
 | 2022-12-03 | 244 | 63 | 
-| 2022-12-02 | 244 | 63 | 
 

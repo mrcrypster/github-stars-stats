@@ -1,10 +1,10 @@
 # PunchablePlushie/godot-game-settings - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 5
 
-★ Stars: 92
+★ Stars: 93
 
 [Open repository](https://github.com/PunchablePlushie/godot-game-settings)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 93 | 5 | 
 | 2022-12-31 | 92 | 5 | 
 | 2022-12-30 | 91 | 5 | 
 | 2022-12-29 | 90 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 90 | 5 | 
 | 2022-12-05 | 89 | 5 | 
 | 2022-12-03 | 89 | 5 | 
-| 2022-12-02 | 89 | 5 | 
 

@@ -1,10 +1,10 @@
 # evrone/go-clean-template - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
-☋ Forks: 337
+☋ Forks: 338
 
-★ Stars: 4283
+★ Stars: 4286
 
 [Open repository](https://github.com/evrone/go-clean-template)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 4286 | 338 | 
 | 2022-12-31 | 4283 | 337 | 
 | 2022-12-30 | 4280 | 337 | 
 | 2022-12-29 | 4274 | 335 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 4070 | 315 | 
 | 2022-12-04 | 3958 | 312 | 
 | 2022-12-03 | 3898 | 309 | 
-| 2022-12-02 | 3880 | 307 | 
 

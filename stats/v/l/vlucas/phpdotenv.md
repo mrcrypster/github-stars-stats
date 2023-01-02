@@ -1,10 +1,10 @@
 # vlucas/phpdotenv - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 604
 
-★ Stars: 12324
+★ Stars: 12325
 
 [Open repository](https://github.com/vlucas/phpdotenv)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 12325 | 604 | 
 | 2022-12-31 | 12324 | 604 | 
 | 2022-12-30 | 12323 | 604 | 
 | 2022-12-29 | 12322 | 604 | 
@@ -41,5 +42,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-05 | 12281 | 599 | 
 | 2022-12-04 | 12275 | 599 | 
 | 2022-12-03 | 12274 | 599 | 
-| 2022-12-02 | 12275 | 599 | 
 

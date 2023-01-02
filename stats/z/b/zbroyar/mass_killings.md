@@ -1,10 +1,10 @@
 # zbroyar/mass_killings - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 36
 
-★ Stars: 324
+★ Stars: 323
 
 [Open repository](https://github.com/zbroyar/mass_killings)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 323 | 36 | 
 | 2022-12-31 | 324 | 36 | 
 | 2022-12-30 | 324 | 36 | 
 | 2022-12-29 | 324 | 36 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 324 | 36 | 
 | 2022-12-05 | 324 | 36 | 
 | 2022-12-04 | 324 | 36 | 
-| 2022-12-02 | 324 | 36 | 
 

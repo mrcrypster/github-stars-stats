@@ -1,10 +1,10 @@
 # Integerous/goQuality-dev-contents - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
-☋ Forks: 1182
+☋ Forks: 1181
 
-★ Stars: 7145
+★ Stars: 7149
 
 [Open repository](https://github.com/Integerous/goQuality-dev-contents)
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 7149 | 1181 | 
 | 2022-12-31 | 7145 | 1182 | 
 | 2022-12-30 | 7135 | 1182 | 
 | 2022-12-29 | 7120 | 1181 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 7035 | 1169 | 
 | 2022-12-04 | 7028 | 1165 | 
 | 2022-12-03 | 7026 | 1164 | 
-| 2022-12-02 | 7021 | 1163 | 
 

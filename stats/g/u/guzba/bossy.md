@@ -1,10 +1,10 @@
 # guzba/bossy - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 0
 
-★ Stars: 13
+★ Stars: 15
 
 [Open repository](https://github.com/guzba/bossy)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-01 | 13 | - | 
+| 2023-01-02 | 15 | - | 
+| 2023-01-01 | 15 | - | 
 | 2022-12-31 | 13 | - | 
 

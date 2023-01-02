@@ -1,6 +1,6 @@
 # sin-ack/zigself - stars & forks statistics
 
-Stats updated on Dec 2022, 31
+Stats updated on Jan 2023, 01
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Dec 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-01 | 95 | 4 | 
 | 2022-12-31 | 95 | 4 | 
 | 2022-12-30 | 95 | 4 | 
 | 2022-12-29 | 95 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Dec 2022, 31
 | 2022-12-06 | 93 | 4 | 
 | 2022-12-04 | 94 | 4 | 
 | 2022-12-03 | 94 | 4 | 
-| 2022-12-02 | 94 | 4 | 
 
