@@ -1,6 +1,6 @@
 # jsecu/ElevatedEvents - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 30 | 10 | 
 | 2023-01-01 | 30 | 10 | 
 | 2022-12-31 | 30 | 10 | 
 | 2022-12-30 | 30 | 10 | 

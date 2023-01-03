@@ -1,10 +1,10 @@
 # JiaPai12138/Crossfirer - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 36
 
-★ Stars: 112
+★ Stars: 113
 
 [Open repository](https://github.com/JiaPai12138/Crossfirer)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 113 | 36 | 
 | 2023-01-01 | 112 | 36 | 
 | 2022-12-31 | 112 | 36 | 
 | 2022-12-30 | 112 | 36 | 

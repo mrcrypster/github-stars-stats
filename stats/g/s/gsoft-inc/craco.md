@@ -1,10 +1,10 @@
 # gsoft-inc/craco - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 497
+☋ Forks: 498
 
-★ Stars: 6769
+★ Stars: 6772
 
 [Open repository](https://github.com/gsoft-inc/craco)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 6772 | 498 | 
 | 2023-01-01 | 6769 | 497 | 
 | 2022-12-31 | 6769 | 498 | 
 | 2022-12-30 | 6767 | 498 | 
@@ -38,5 +39,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-08 | 6715 | 496 | 
 | 2022-12-06 | 6710 | 497 | 
 | 2022-12-05 | 6702 | 496 | 
-| 2022-12-03 | 6699 | 496 | 
 

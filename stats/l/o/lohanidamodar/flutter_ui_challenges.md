@@ -1,10 +1,10 @@
 # lohanidamodar/flutter_ui_challenges - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 1314
+☋ Forks: 1315
 
-★ Stars: 3973
+★ Stars: 3975
 
 [Open repository](https://github.com/lohanidamodar/flutter_ui_challenges)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 3975 | 1315 | 
 | 2023-01-01 | 3973 | 1314 | 
 | 2022-12-31 | 3973 | 1314 | 
 | 2022-12-30 | 3972 | 1314 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-08 | 3937 | 1306 | 
 | 2022-12-06 | 3936 | 1307 | 
 | 2022-12-05 | 3935 | 1305 | 
-| 2022-12-03 | 3935 | 1305 | 
 

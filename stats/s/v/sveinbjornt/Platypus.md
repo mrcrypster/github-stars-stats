@@ -1,8 +1,8 @@
 # sveinbjornt/Platypus - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 159
+☋ Forks: 160
 
 ★ Stars: 2135
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 2135 | 160 | 
 | 2023-01-01 | 2135 | 159 | 
 | 2022-12-31 | 2135 | 159 | 
 | 2022-12-30 | 2135 | 159 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 2121 | 158 | 
 | 2022-12-06 | 2119 | 157 | 
 | 2022-12-05 | 2117 | 157 | 
-| 2022-12-04 | 2116 | 157 | 
 

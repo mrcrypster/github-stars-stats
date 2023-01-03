@@ -1,6 +1,6 @@
 # qmk/qmk_distro_msys - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 101 | 56 | 
 | 2023-01-01 | 101 | 56 | 
 | 2022-12-31 | 101 | 56 | 
 | 2022-12-30 | 101 | 56 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 100 | 56 | 
 | 2022-12-05 | 100 | 56 | 
 | 2022-12-04 | 100 | 56 | 
-| 2022-12-03 | 98 | 55 | 
 

@@ -1,6 +1,6 @@
 # skiphansen/panog2_ldr - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 7 | 1 | 
 | 2023-01-01 | 7 | 1 | 
 | 2022-12-31 | 7 | 1 | 
 | 2022-12-30 | 7 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 7 | 1 | 
 | 2022-12-05 | 7 | 1 | 
 | 2022-12-04 | 7 | 1 | 
-| 2022-12-03 | 7 | 1 | 
 

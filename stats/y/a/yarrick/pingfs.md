@@ -1,10 +1,10 @@
 # yarrick/pingfs - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 128
 
-★ Stars: 2713
+★ Stars: 2714
 
 [Open repository](https://github.com/yarrick/pingfs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 2714 | 128 | 
 | 2023-01-01 | 2713 | 128 | 
 | 2022-12-31 | 2713 | 128 | 
 | 2022-12-30 | 2713 | 128 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 2706 | 127 | 
 | 2022-12-06 | 2706 | 127 | 
 | 2022-12-04 | 2706 | 127 | 
-| 2022-12-03 | 2705 | 127 | 
 

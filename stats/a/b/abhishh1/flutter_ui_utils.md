@@ -1,10 +1,10 @@
 # abhishh1/flutter_ui_utils - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 23
 
-★ Stars: 152
+★ Stars: 153
 
 [Open repository](https://github.com/abhishh1/flutter_ui_utils)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 153 | 23 | 
 | 2023-01-01 | 152 | 23 | 
 | 2022-12-31 | 152 | 23 | 
 | 2022-12-30 | 152 | 23 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 148 | 22 | 
 | 2022-12-05 | 148 | 22 | 
 | 2022-12-04 | 148 | 22 | 
-| 2022-12-03 | 147 | 22 | 
 

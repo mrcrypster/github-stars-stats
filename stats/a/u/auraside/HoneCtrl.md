@@ -1,6 +1,6 @@
 # auraside/HoneCtrl - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 92 | 17 | 
 | 2023-01-01 | 92 | 17 | 
 | 2022-12-31 | 92 | 16 | 
 | 2022-12-30 | 92 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 84 | 16 | 
 | 2022-12-06 | 84 | 16 | 
 | 2022-12-04 | 83 | 16 | 
-| 2022-12-03 | 80 | 16 | 
 

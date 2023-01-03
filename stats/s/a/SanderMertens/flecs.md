@@ -1,6 +1,6 @@
 # SanderMertens/flecs - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 264
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 3440 | 264 | 
 | 2023-01-01 | 3440 | 264 | 
 | 2022-12-31 | 3439 | 262 | 
 | 2022-12-30 | 3439 | 262 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 3383 | 251 | 
 | 2022-12-05 | 3380 | 250 | 
 | 2022-12-04 | 3375 | 249 | 
-| 2022-12-03 | 3374 | 249 | 
 

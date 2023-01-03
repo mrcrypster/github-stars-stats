@@ -1,6 +1,6 @@
 # pirate-kiiiing/PersonalFinanceApp.Web - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 28 | 15 | 
 | 2023-01-01 | 28 | 15 | 
 | 2022-12-31 | 28 | 14 | 
 | 2022-12-30 | 28 | 14 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 27 | 10 | 
 | 2022-12-06 | 27 | 10 | 
 | 2022-12-04 | 26 | 10 | 
-| 2022-12-03 | 24 | 9 | 
 

@@ -1,10 +1,10 @@
 # M97Chahboun/flutter_ci_cd - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 9
 
-★ Stars: 39
+★ Stars: 40
 
 [Open repository](https://github.com/M97Chahboun/flutter_ci_cd)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 40 | 9 | 
 | 2023-01-01 | 39 | 9 | 
 | 2022-12-31 | 39 | 9 | 
 | 2022-12-30 | 39 | 9 | 

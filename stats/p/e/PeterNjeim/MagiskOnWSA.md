@@ -1,10 +1,10 @@
 # PeterNjeim/MagiskOnWSA - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 187
+☋ Forks: 188
 
-★ Stars: 256
+★ Stars: 259
 
 [Open repository](https://github.com/PeterNjeim/MagiskOnWSA)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 259 | 188 | 
 | 2023-01-01 | 256 | 187 | 
 | 2022-12-31 | 254 | 183 | 
 | 2022-12-30 | 250 | 182 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 189 | 153 | 
 | 2022-12-06 | 189 | 152 | 
 | 2022-12-05 | 187 | 149 | 
-| 2022-12-03 | 184 | 147 | 
 

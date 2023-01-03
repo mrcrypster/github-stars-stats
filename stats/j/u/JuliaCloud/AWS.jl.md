@@ -1,6 +1,6 @@
 # JuliaCloud/AWS.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 135 | 59 | 
 | 2023-01-01 | 135 | 59 | 
 | 2022-12-31 | 135 | 59 | 
 | 2022-12-30 | 135 | 59 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 133 | 58 | 
 | 2022-12-05 | 132 | 58 | 
 | 2022-12-04 | 132 | 58 | 
-| 2022-12-03 | 132 | 58 | 
 

@@ -1,6 +1,6 @@
 # DamascusGit/stable-k-4d - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 37 | 10 | 
 | 2023-01-01 | 37 | 10 | 
 | 2022-12-31 | 37 | 10 | 
 | 2022-12-30 | 37 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 37 | 10 | 
 | 2022-12-06 | 37 | 10 | 
 | 2022-12-05 | 37 | 10 | 
-| 2022-12-03 | 37 | 10 | 
 

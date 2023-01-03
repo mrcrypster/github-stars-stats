@@ -1,10 +1,10 @@
 # benbrignell/principles.design - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 181
 
-★ Stars: 1186
+★ Stars: 1187
 
 [Open repository](https://github.com/benbrignell/principles.design)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 1187 | 181 | 
 | 2023-01-01 | 1186 | 181 | 
 | 2022-12-31 | 1186 | 181 | 
 | 2022-12-30 | 1186 | 181 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 1183 | 180 | 
 | 2022-12-06 | 1182 | 180 | 
 | 2022-12-04 | 1180 | 180 | 
-| 2022-12-03 | 1180 | 180 | 
 

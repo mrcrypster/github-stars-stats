@@ -1,6 +1,6 @@
 # ocrmypdf/OCRmyPDF - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 644
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 7922 | 644 | 
 | 2023-01-01 | 7922 | 644 | 
 | 2022-12-31 | 7921 | 644 | 
 | 2022-12-30 | 7917 | 645 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 7825 | 637 | 
 | 2022-12-06 | 7807 | 636 | 
 | 2022-12-05 | 7800 | 635 | 
-| 2022-12-03 | 7800 | 635 | 
 

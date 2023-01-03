@@ -1,6 +1,6 @@
 # necreas1ng/VLANPWN - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 217 | 47 | 
 | 2023-01-01 | 217 | 47 | 
 | 2022-12-31 | 216 | 47 | 
 | 2022-12-30 | 216 | 47 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 212 | 47 | 
 | 2022-12-05 | 212 | 47 | 
 | 2022-12-04 | 212 | 47 | 
-| 2022-12-03 | 212 | 47 | 
 

@@ -1,8 +1,8 @@
 # Aurorastation/Aurora.3 - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 03
 
-☋ Forks: 391
+☋ Forks: 392
 
 ★ Stars: 95
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 95 | 392 | 
+| 2023-01-02 | 95 | 392 | 
 | 2023-01-01 | 95 | 391 | 
 | 2022-12-31 | 95 | 391 | 
 | 2022-12-30 | 95 | 391 | 
@@ -40,5 +42,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 95 | 385 | 
 | 2022-12-06 | 94 | 385 | 
 | 2022-12-04 | 94 | 385 | 
-| 2022-12-03 | 94 | 385 | 
 

@@ -1,10 +1,10 @@
 # osmandapp/OsmAnd - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 909
 
-★ Stars: 3468
+★ Stars: 3470
 
 [Open repository](https://github.com/osmandapp/OsmAnd)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 3470 | 909 | 
 | 2023-01-01 | 3468 | 909 | 
 | 2022-12-31 | 3467 | 909 | 
 | 2022-12-30 | 3465 | 910 | 

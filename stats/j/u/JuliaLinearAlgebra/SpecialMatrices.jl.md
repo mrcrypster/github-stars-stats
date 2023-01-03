@@ -1,10 +1,10 @@
 # JuliaLinearAlgebra/SpecialMatrices.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 10
 
-★ Stars: 39
+★ Stars: 40
 
 [Open repository](https://github.com/JuliaLinearAlgebra/SpecialMatrices.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 40 | 10 | 
 | 2023-01-01 | 39 | 10 | 
 | 2022-12-31 | 39 | 10 | 
 | 2022-12-30 | 39 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 38 | 10 | 
 | 2022-12-05 | 38 | 10 | 
 | 2022-12-04 | 38 | 10 | 
-| 2022-12-03 | 38 | 10 | 
 

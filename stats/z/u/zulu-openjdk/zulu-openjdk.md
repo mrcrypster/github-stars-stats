@@ -1,6 +1,6 @@
 # zulu-openjdk/zulu-openjdk - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 86
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 215 | 86 | 
 | 2023-01-01 | 215 | 86 | 
 | 2022-12-31 | 215 | 86 | 
 | 2022-12-30 | 215 | 86 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-08 | 213 | 85 | 
 | 2022-12-06 | 213 | 85 | 
 | 2022-12-05 | 213 | 84 | 
-| 2022-12-03 | 213 | 84 | 
 

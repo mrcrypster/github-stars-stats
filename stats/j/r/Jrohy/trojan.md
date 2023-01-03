@@ -1,6 +1,6 @@
 # Jrohy/trojan - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 1277
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 4098 | 1277 | 
 | 2023-01-01 | 4098 | 1277 | 
 | 2022-12-31 | 4092 | 1276 | 
 | 2022-12-30 | 4090 | 1274 | 

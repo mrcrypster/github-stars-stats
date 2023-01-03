@@ -1,6 +1,6 @@
 # mikkun/sedmines - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 22 | 1 | 
 | 2023-01-01 | 22 | 1 | 
 | 2022-12-31 | 22 | 1 | 
 | 2022-12-30 | 22 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 22 | 1 | 
 | 2022-12-05 | 22 | 1 | 
 | 2022-12-04 | 22 | 1 | 
-| 2022-12-03 | 22 | 1 | 
 

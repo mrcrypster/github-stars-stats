@@ -1,6 +1,6 @@
 # WeAreMahsaAmini/TwitterScraper - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 75 | 7 | 
 | 2023-01-01 | 75 | 7 | 
 | 2022-12-31 | 75 | 7 | 
 | 2022-12-30 | 75 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 76 | 7 | 
 | 2022-12-06 | 76 | 7 | 
 | 2022-12-04 | 76 | 7 | 
-| 2022-12-03 | 76 | 7 | 
 

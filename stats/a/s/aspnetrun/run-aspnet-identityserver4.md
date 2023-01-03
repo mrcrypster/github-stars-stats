@@ -1,6 +1,6 @@
 # aspnetrun/run-aspnet-identityserver4 - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 111
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 175 | 111 | 
 | 2023-01-01 | 175 | 111 | 
 | 2022-12-31 | 175 | 111 | 
 | 2022-12-30 | 175 | 111 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 173 | 110 | 
 | 2022-12-05 | 173 | 110 | 
 | 2022-12-04 | 173 | 110 | 
-| 2022-12-03 | 173 | 110 | 
 

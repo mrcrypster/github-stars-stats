@@ -1,10 +1,10 @@
 # adamtornhill/code-maat - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 205
 
-★ Stars: 2067
+★ Stars: 2068
 
 [Open repository](https://github.com/adamtornhill/code-maat)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 2068 | 205 | 
 | 2023-01-01 | 2067 | 205 | 
 | 2022-12-31 | 2067 | 205 | 
 | 2022-12-30 | 2066 | 205 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 2055 | 205 | 
 | 2022-12-05 | 2055 | 205 | 
 | 2022-12-04 | 2055 | 205 | 
-| 2022-12-03 | 2055 | 205 | 
 

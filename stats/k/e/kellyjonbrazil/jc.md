@@ -1,10 +1,10 @@
 # kellyjonbrazil/jc - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 127
 
-★ Stars: 5829
+★ Stars: 5831
 
 [Open repository](https://github.com/kellyjonbrazil/jc)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 5831 | 127 | 
 | 2023-01-01 | 5829 | 127 | 
 | 2022-12-31 | 5826 | 127 | 
 | 2022-12-30 | 5822 | 128 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 5731 | 122 | 
 | 2022-12-05 | 5725 | 122 | 
 | 2022-12-04 | 5724 | 121 | 
-| 2022-12-03 | 5722 | 121 | 
 

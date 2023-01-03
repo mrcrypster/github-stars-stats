@@ -1,6 +1,6 @@
 # cp2k/cp2k - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 304
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 543 | 304 | 
 | 2023-01-01 | 543 | 304 | 
 | 2022-12-31 | 543 | 304 | 
 | 2022-12-30 | 543 | 304 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 539 | 300 | 
 | 2022-12-06 | 539 | 299 | 
 | 2022-12-04 | 538 | 297 | 
-| 2022-12-03 | 538 | 297 | 
 

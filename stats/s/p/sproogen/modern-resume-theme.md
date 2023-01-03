@@ -1,10 +1,10 @@
 # sproogen/modern-resume-theme - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 1026
+☋ Forks: 1030
 
-★ Stars: 1532
+★ Stars: 1533
 
 [Open repository](https://github.com/sproogen/modern-resume-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 1533 | 1030 | 
 | 2023-01-01 | 1532 | 1026 | 
 | 2022-12-31 | 1532 | 1026 | 
 | 2022-12-30 | 1533 | 1026 | 

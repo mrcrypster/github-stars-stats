@@ -1,6 +1,6 @@
 # toly1994328/FlutterUnit - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 939
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 5683 | 939 | 
 | 2023-01-01 | 5683 | 939 | 
 | 2022-12-31 | 5683 | 939 | 
 | 2022-12-30 | 5683 | 939 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 5616 | 930 | 
 | 2022-12-05 | 5614 | 930 | 
 | 2022-12-04 | 5610 | 930 | 
-| 2022-12-03 | 5609 | 930 | 
 

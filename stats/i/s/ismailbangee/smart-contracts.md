@@ -1,6 +1,6 @@
 # ismailbangee/smart-contracts - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 17 | 13 | 
 | 2023-01-02 | 17 | 13 | 
 | 2023-01-01 | 17 | 13 | 
 | 2022-12-31 | 17 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-07 | 16 | 14 | 
 | 2022-12-05 | 16 | 14 | 
 | 2022-12-04 | 16 | 14 | 
-| 2022-12-03 | 16 | 14 | 
 

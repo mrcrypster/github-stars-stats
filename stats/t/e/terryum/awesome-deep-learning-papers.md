@@ -1,6 +1,6 @@
 # terryum/awesome-deep-learning-papers - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 4492
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 24174 | 4492 | 
 | 2023-01-01 | 24174 | 4492 | 
 | 2022-12-31 | 24174 | 4492 | 
 | 2022-12-30 | 24174 | 4492 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 24149 | 4492 | 
 | 2022-12-06 | 24147 | 4492 | 
 | 2022-12-04 | 24147 | 4492 | 
-| 2022-12-03 | 24147 | 4492 | 
 

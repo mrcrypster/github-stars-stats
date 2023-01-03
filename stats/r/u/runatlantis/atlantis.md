@@ -1,10 +1,10 @@
 # runatlantis/atlantis - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 817
 
-★ Stars: 5628
+★ Stars: 5631
 
 [Open repository](https://github.com/runatlantis/atlantis)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 5631 | 817 | 
 | 2023-01-01 | 5628 | 817 | 
 | 2022-12-31 | 5628 | 817 | 
 | 2022-12-30 | 5628 | 816 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 5556 | 802 | 
 | 2022-12-05 | 5554 | 803 | 
 | 2022-12-04 | 5552 | 803 | 
-| 2022-12-03 | 5549 | 802 | 
 

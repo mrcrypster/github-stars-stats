@@ -1,10 +1,10 @@
 # IDEA-CCNL/Fengshenbang-LM - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 117
 
-★ Stars: 1119
+★ Stars: 1121
 
 [Open repository](https://github.com/IDEA-CCNL/Fengshenbang-LM)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 1121 | 117 | 
 | 2023-01-01 | 1119 | 117 | 
 | 2022-12-31 | 1117 | 116 | 
 | 2022-12-30 | 1113 | 116 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 996 | 100 | 
 | 2022-12-05 | 985 | 99 | 
 | 2022-12-04 | 981 | 98 | 
-| 2022-12-03 | 979 | 97 | 
 

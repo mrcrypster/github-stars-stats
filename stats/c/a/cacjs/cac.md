@@ -1,6 +1,6 @@
 # cacjs/cac - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 103
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 2054 | 103 | 
 | 2023-01-01 | 2054 | 103 | 
 | 2022-12-31 | 2050 | 103 | 
 | 2022-12-30 | 2049 | 103 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 2021 | 101 | 
 | 2022-12-06 | 2020 | 101 | 
 | 2022-12-04 | 2017 | 101 | 
-| 2022-12-03 | 2017 | 100 | 
 

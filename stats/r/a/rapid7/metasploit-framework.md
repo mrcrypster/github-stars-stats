@@ -1,8 +1,8 @@
 # rapid7/metasploit-framework - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 12786
+☋ Forks: 12787
 
 ★ Stars: 29058
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 29058 | 12787 | 
 | 2023-01-01 | 29058 | 12786 | 
 | 2022-12-31 | 29050 | 12786 | 
 | 2022-12-30 | 29044 | 12784 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 28870 | 12726 | 
 | 2022-12-05 | 28866 | 12723 | 
 | 2022-12-04 | 28852 | 12719 | 
-| 2022-12-03 | 28840 | 12711 | 
 

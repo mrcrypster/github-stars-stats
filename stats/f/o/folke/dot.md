@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 02
 
 ☋ Forks: 32
 
-★ Stars: 260
+★ Stars: 261
 
 [Open repository](https://github.com/folke/dot)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-02 | 260 | 32 | 
+| 2023-01-02 | 261 | 32 | 
 | 2023-01-01 | 260 | 30 | 
 | 2022-12-31 | 260 | 29 | 
 | 2022-12-30 | 254 | 27 | 

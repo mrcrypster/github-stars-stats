@@ -1,6 +1,6 @@
 # ComplementaryDevelopment/ComplementaryShadersV4 - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 27 | 5 | 
 | 2023-01-01 | 27 | 5 | 
 | 2022-12-31 | 27 | 5 | 
 | 2022-12-30 | 27 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 26 | 5 | 
 | 2022-12-05 | 26 | 5 | 
 | 2022-12-04 | 26 | 5 | 
-| 2022-12-03 | 26 | 5 | 
 

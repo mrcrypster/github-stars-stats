@@ -1,10 +1,10 @@
 # google/latexify_py - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 317
 
-★ Stars: 5855
+★ Stars: 5857
 
 [Open repository](https://github.com/google/latexify_py)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 5857 | 317 | 
 | 2023-01-01 | 5855 | 317 | 
 | 2022-12-31 | 5850 | 317 | 
 | 2022-12-30 | 5845 | 317 | 

@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 02
 
 ☋ Forks: 2
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/hshatti/TONNXRuntime)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-02 | 8 | 2 | 
+| 2023-01-02 | 9 | 2 | 
 | 2023-01-01 | 8 | 2 | 
 

@@ -1,6 +1,6 @@
 # steffan-westcott/clj-otel - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 94 | 5 | 
 | 2023-01-01 | 94 | 5 | 
 | 2022-12-31 | 94 | 5 | 
 | 2022-12-30 | 94 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 93 | 5 | 
 | 2022-12-05 | 93 | 5 | 
 | 2022-12-04 | 92 | 5 | 
-| 2022-12-03 | 92 | 5 | 
 

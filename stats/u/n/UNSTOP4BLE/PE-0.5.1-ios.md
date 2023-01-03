@@ -1,6 +1,6 @@
 # UNSTOP4BLE/PE-0.5.1-ios - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 167
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 19 | 167 | 
 | 2023-01-01 | 19 | 167 | 
 | 2022-12-31 | 19 | 167 | 
 | 2022-12-30 | 19 | 167 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 18 | 159 | 
 | 2022-12-05 | 18 | 157 | 
 | 2022-12-04 | 18 | 157 | 
-| 2022-12-03 | 18 | 156 | 
 

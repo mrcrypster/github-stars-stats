@@ -1,6 +1,6 @@
 # google-developer-training/android-basics-kotlin-bus-schedule-app - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 125
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 71 | 125 | 
 | 2023-01-01 | 71 | 125 | 
 | 2022-12-31 | 71 | 125 | 
 | 2022-12-30 | 71 | 124 | 
@@ -38,5 +39,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 69 | 117 | 
 | 2022-12-06 | 69 | 116 | 
 | 2022-12-04 | 69 | 116 | 
-| 2022-12-03 | 69 | 116 | 
 

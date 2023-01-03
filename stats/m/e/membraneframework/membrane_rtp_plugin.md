@@ -1,6 +1,6 @@
 # membraneframework/membrane_rtp_plugin - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 22 | 5 | 
 | 2023-01-01 | 22 | 5 | 
 | 2022-12-31 | 22 | 5 | 
 | 2022-12-30 | 22 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 19 | 5 | 
 | 2022-12-05 | 18 | 5 | 
 | 2022-12-04 | 18 | 5 | 
-| 2022-12-03 | 18 | 5 | 
 

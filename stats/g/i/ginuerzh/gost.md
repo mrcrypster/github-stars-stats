@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 02
 
 ☋ Forks: 1917
 
-★ Stars: 10313
+★ Stars: 10317
 
 [Open repository](https://github.com/ginuerzh/gost)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-02 | 10313 | 1917 | 
+| 2023-01-02 | 10317 | 1917 | 
 | 2023-01-01 | 10312 | 1917 | 
 | 2022-12-31 | 10293 | 1916 | 
 | 2022-12-30 | 10282 | 1916 | 

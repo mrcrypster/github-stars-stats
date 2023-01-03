@@ -1,10 +1,10 @@
 # SarnaxLii/Valorant-Spoofer - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 20
+☋ Forks: 21
 
-★ Stars: 94
+★ Stars: 96
 
 [Open repository](https://github.com/SarnaxLii/Valorant-Spoofer)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 96 | 21 | 
 | 2023-01-01 | 94 | 20 | 
 | 2022-12-31 | 94 | 20 | 
 | 2022-12-30 | 94 | 20 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 85 | 20 | 
 | 2022-12-06 | 85 | 20 | 
 | 2022-12-04 | 84 | 19 | 
-| 2022-12-03 | 84 | 19 | 
 

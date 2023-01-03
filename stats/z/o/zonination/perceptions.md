@@ -1,10 +1,10 @@
 # zonination/perceptions - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 93
 
-★ Stars: 787
+★ Stars: 786
 
 [Open repository](https://github.com/zonination/perceptions)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 786 | 93 | 
 | 2023-01-01 | 787 | 93 | 
 | 2022-12-31 | 787 | 93 | 
 | 2022-12-30 | 787 | 93 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 786 | 93 | 
 | 2022-12-05 | 784 | 93 | 
 | 2022-12-04 | 784 | 93 | 
-| 2022-12-03 | 784 | 93 | 
 

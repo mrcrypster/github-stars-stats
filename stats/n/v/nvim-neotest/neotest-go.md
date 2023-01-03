@@ -1,6 +1,6 @@
 # nvim-neotest/neotest-go - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 47 | 15 | 
 | 2023-01-01 | 47 | 15 | 
 | 2022-12-31 | 47 | 15 | 
 | 2022-12-30 | 47 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 44 | 13 | 
 | 2022-12-05 | 44 | 13 | 
 | 2022-12-04 | 44 | 13 | 
-| 2022-12-03 | 43 | 13 | 
 

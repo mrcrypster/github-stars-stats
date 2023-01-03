@@ -1,10 +1,10 @@
 # ColorlibHQ/email-templates - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 03
 
-☋ Forks: 2660
+☋ Forks: 2662
 
-★ Stars: 869
+★ Stars: 870
 
 [Open repository](https://github.com/ColorlibHQ/email-templates)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 870 | 2662 | 
 | 2023-01-01 | 869 | 2660 | 
 | 2022-12-31 | 867 | 2660 | 
 | 2022-12-30 | 867 | 2658 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 855 | 2631 | 
 | 2022-12-05 | 854 | 2630 | 
 | 2022-12-04 | 853 | 2630 | 
-| 2022-12-03 | 851 | 2630 | 
 

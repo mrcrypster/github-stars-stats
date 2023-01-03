@@ -1,10 +1,10 @@
 # BepInEx/BepInEx - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 388
 
-★ Stars: 2691
+★ Stars: 2695
 
 [Open repository](https://github.com/BepInEx/BepInEx)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 2695 | 388 | 
+| 2023-01-02 | 2694 | 388 | 
 | 2023-01-01 | 2691 | 388 | 
 | 2022-12-31 | 2683 | 388 | 
 | 2022-12-30 | 2677 | 388 | 
@@ -40,5 +42,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 2600 | 382 | 
 | 2022-12-05 | 2595 | 381 | 
 | 2022-12-04 | 2593 | 381 | 
-| 2022-12-03 | 2591 | 381 | 
 

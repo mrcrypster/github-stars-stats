@@ -1,6 +1,6 @@
 # The-Art-of-Hacking/h4cker - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 2149
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 12508 | 2149 | 
 | 2023-01-01 | 12508 | 2149 | 
 | 2022-12-31 | 12505 | 2149 | 
 | 2022-12-30 | 12505 | 2148 | 

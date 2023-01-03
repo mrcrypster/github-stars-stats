@@ -1,6 +1,6 @@
 # jbytecode/Sqlite3Stats.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 16 | 3 | 
 | 2023-01-01 | 16 | 3 | 
 | 2022-12-31 | 16 | 3 | 
 | 2022-12-30 | 16 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 16 | 3 | 
 | 2022-12-06 | 16 | 3 | 
 | 2022-12-05 | 16 | 3 | 
-| 2022-12-03 | 16 | 3 | 
 

@@ -1,6 +1,6 @@
 # lifting-bits/sleigh - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 55 | 15 | 
 | 2023-01-01 | 55 | 15 | 
 | 2022-12-31 | 55 | 15 | 
 | 2022-12-30 | 55 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 54 | 14 | 
 | 2022-12-06 | 54 | 14 | 
 | 2022-12-05 | 54 | 14 | 
-| 2022-12-03 | 54 | 14 | 
 

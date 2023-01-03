@@ -1,10 +1,10 @@
 # raycast/script-commands - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 757
 
-★ Stars: 4270
+★ Stars: 4271
 
 [Open repository](https://github.com/raycast/script-commands)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 4271 | 757 | 
 | 2023-01-01 | 4270 | 757 | 
 | 2022-12-31 | 4269 | 757 | 
 | 2022-12-30 | 4260 | 757 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 4181 | 747 | 
 | 2022-12-05 | 4177 | 747 | 
 | 2022-12-04 | 4171 | 747 | 
-| 2022-12-03 | 4169 | 747 | 
 

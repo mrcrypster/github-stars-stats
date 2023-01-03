@@ -1,6 +1,6 @@
 # W4118/f22-tester-hmwk1 - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | - | 4 | 
 | 2023-01-01 | - | 4 | 
 | 2022-12-31 | - | 4 | 
 | 2022-12-30 | - | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | - | 5 | 
 | 2022-12-06 | - | 5 | 
 | 2022-12-05 | - | 5 | 
-| 2022-12-04 | - | 5 | 
 

@@ -1,10 +1,10 @@
 # dragonflyoss/Dragonfly2 - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 135
 
-★ Stars: 939
+★ Stars: 941
 
 [Open repository](https://github.com/dragonflyoss/Dragonfly2)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 941 | 135 | 
 | 2023-01-01 | 939 | 135 | 
 | 2022-12-31 | 938 | 135 | 
 | 2022-12-30 | 937 | 135 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 913 | 134 | 
 | 2022-12-06 | 912 | 134 | 
 | 2022-12-04 | 909 | 134 | 
-| 2022-12-03 | 908 | 134 | 
 

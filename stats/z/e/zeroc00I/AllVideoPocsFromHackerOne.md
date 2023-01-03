@@ -1,10 +1,10 @@
 # zeroc00I/AllVideoPocsFromHackerOne - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 211
 
-★ Stars: 769
+★ Stars: 770
 
 [Open repository](https://github.com/zeroc00I/AllVideoPocsFromHackerOne)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 770 | 211 | 
 | 2023-01-01 | 769 | 211 | 
 | 2022-12-31 | 769 | 211 | 
 | 2022-12-30 | 770 | 211 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 766 | 208 | 
 | 2022-12-06 | 766 | 207 | 
 | 2022-12-05 | 764 | 207 | 
-| 2022-12-03 | 753 | 206 | 
 

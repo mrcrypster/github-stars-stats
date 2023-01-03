@@ -1,6 +1,6 @@
 # Ehviewer-Overhauled/fdroid-repo - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 27 | 3 | 
 | 2023-01-01 | 27 | 3 | 
 | 2022-12-31 | 27 | 3 | 
 | 2022-12-30 | 26 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-08 | 21 | 3 | 
 | 2022-12-06 | 21 | 3 | 
 | 2022-12-05 | 21 | 3 | 
-| 2022-12-04 | 21 | 3 | 
 

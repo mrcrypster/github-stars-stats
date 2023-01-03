@@ -1,10 +1,10 @@
 # SanGraphic/QuickBoost - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 3
 
-★ Stars: 149
+★ Stars: 150
 
 [Open repository](https://github.com/SanGraphic/QuickBoost)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 150 | 3 | 
 | 2023-01-01 | 149 | 3 | 
 | 2022-12-31 | 149 | 3 | 
 | 2022-12-30 | 147 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 134 | 3 | 
 | 2022-12-06 | 133 | 3 | 
 | 2022-12-04 | 131 | 3 | 
-| 2022-12-03 | 127 | 3 | 
 

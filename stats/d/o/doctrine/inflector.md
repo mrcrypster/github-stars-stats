@@ -1,10 +1,10 @@
 # doctrine/inflector - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 117
 
-★ Stars: 10948
+★ Stars: 10949
 
 [Open repository](https://github.com/doctrine/inflector)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 10949 | 117 | 
 | 2023-01-01 | 10948 | 117 | 
 | 2022-12-31 | 10948 | 117 | 
 | 2022-12-30 | 10948 | 117 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 10935 | 118 | 
 | 2022-12-06 | 10934 | 118 | 
 | 2022-12-05 | 10932 | 118 | 
-| 2022-12-03 | 10932 | 118 | 
 

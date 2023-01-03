@@ -1,8 +1,8 @@
 # newrelic-experimental/newrelic-microservices-sandbox - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 48
+☋ Forks: 49
 
 ★ Stars: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 4 | 49 | 
 | 2023-01-01 | 4 | 48 | 
 | 2022-12-31 | 4 | 48 | 
 | 2022-12-30 | 4 | 48 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 3 | 48 | 
 | 2022-12-06 | 3 | 48 | 
 | 2022-12-05 | 3 | 48 | 
-| 2022-12-03 | 3 | 48 | 
 

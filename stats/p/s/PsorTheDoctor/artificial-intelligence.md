@@ -1,10 +1,10 @@
 # PsorTheDoctor/artificial-intelligence - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 33
 
-★ Stars: 106
+★ Stars: 107
 
 [Open repository](https://github.com/PsorTheDoctor/artificial-intelligence)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 107 | 33 | 
 | 2023-01-01 | 106 | 33 | 
 | 2022-12-31 | 105 | 33 | 
 | 2022-12-30 | 105 | 32 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 98 | 29 | 
 | 2022-12-06 | 98 | 29 | 
 | 2022-12-04 | 98 | 29 | 
-| 2022-12-03 | 98 | 29 | 
 

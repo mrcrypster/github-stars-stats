@@ -1,10 +1,10 @@
 # geoffrich/sveltekit-is-land - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 0
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/geoffrich/sveltekit-is-land)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 31 | - | 
 | 2023-01-01 | 30 | - | 
 | 2022-12-31 | 30 | - | 
 | 2022-12-30 | 30 | - | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 30 | - | 
 | 2022-12-06 | 30 | - | 
 | 2022-12-05 | 29 | - | 
-| 2022-12-03 | 29 | - | 
 

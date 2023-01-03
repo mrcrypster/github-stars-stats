@@ -1,10 +1,10 @@
 # ayoub0x1/born2beroot - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 25
 
-★ Stars: 54
+★ Stars: 55
 
 [Open repository](https://github.com/ayoub0x1/born2beroot)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 55 | 25 | 
 | 2023-01-01 | 54 | 25 | 
 | 2022-12-31 | 53 | 25 | 
 | 2022-12-30 | 53 | 25 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 44 | 20 | 
 | 2022-12-06 | 45 | 20 | 
 | 2022-12-04 | 45 | 18 | 
-| 2022-12-03 | 45 | 17 | 
 

@@ -1,10 +1,10 @@
 # NVIDIA/Megatron-LM - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 732
+☋ Forks: 733
 
-★ Stars: 3529
+★ Stars: 3535
 
 [Open repository](https://github.com/NVIDIA/Megatron-LM)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 3535 | 733 | 
 | 2023-01-01 | 3529 | 732 | 
 | 2022-12-31 | 3527 | 731 | 
 | 2022-12-30 | 3523 | 729 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 3446 | 715 | 
 | 2022-12-05 | 3442 | 711 | 
 | 2022-12-04 | 3434 | 710 | 
-| 2022-12-03 | 3432 | 710 | 
 

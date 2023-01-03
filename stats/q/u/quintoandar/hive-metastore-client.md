@@ -1,6 +1,6 @@
 # quintoandar/hive-metastore-client - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 35 | 16 | 
 | 2023-01-01 | 35 | 16 | 
 | 2022-12-31 | 35 | 16 | 
 | 2022-12-30 | 35 | 16 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 34 | 15 | 
 | 2022-12-06 | 34 | 15 | 
 | 2022-12-05 | 34 | 15 | 
-| 2022-12-03 | 34 | 15 | 
 

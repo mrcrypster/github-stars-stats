@@ -1,10 +1,10 @@
 # inkarkat/vim-ReplaceWithRegister - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 2
 
-★ Stars: 61
+★ Stars: 62
 
 [Open repository](https://github.com/inkarkat/vim-ReplaceWithRegister)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 62 | 2 | 
 | 2023-01-01 | 61 | 2 | 
 | 2022-12-31 | 61 | 2 | 
 | 2022-12-30 | 61 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 60 | 2 | 
 | 2022-12-06 | 60 | 2 | 
 | 2022-12-05 | 60 | 2 | 
-| 2022-12-03 | 60 | 2 | 
 

@@ -1,10 +1,10 @@
 # vastsa/FileCodeBox - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 152
+☋ Forks: 156
 
-★ Stars: 997
+★ Stars: 1022
 
 [Open repository](https://github.com/vastsa/FileCodeBox)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 1022 | 156 | 
 | 2023-01-01 | 997 | 152 | 
 | 2022-12-31 | 983 | 152 | 
 | 2022-12-30 | 956 | 151 | 

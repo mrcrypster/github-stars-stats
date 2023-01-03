@@ -1,10 +1,10 @@
 # akiarostami/sveltekit-tailwind-blog-starter - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 1
+☋ Forks: 2
 
-★ Stars: 29
+★ Stars: 35
 
 [Open repository](https://github.com/akiarostami/sveltekit-tailwind-blog-starter)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 35 | 2 | 
 | 2023-01-01 | 29 | 1 | 
 | 2022-12-31 | 29 | 1 | 
 | 2022-12-30 | 28 | 1 | 

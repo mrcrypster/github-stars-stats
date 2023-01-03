@@ -1,6 +1,6 @@
 # Yule718/Yule718 - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 289 | 24 | 
 | 2023-01-01 | 289 | 24 | 
 | 2022-12-31 | 288 | 24 | 
 | 2022-12-30 | 287 | 24 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 274 | 23 | 
 | 2022-12-05 | 273 | 23 | 
 | 2022-12-04 | 273 | 23 | 
-| 2022-12-03 | 272 | 23 | 
 

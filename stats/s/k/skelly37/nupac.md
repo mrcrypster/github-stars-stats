@@ -1,10 +1,10 @@
 # skelly37/nupac - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 0
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/skelly37/nupac)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 18 | - | 
 | 2023-01-01 | 17 | - | 
 | 2022-12-31 | 17 | - | 
 | 2022-12-30 | 17 | - | 

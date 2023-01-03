@@ -1,6 +1,6 @@
 # facebookresearch/fastText - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 4541
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 24119 | 4541 | 
 | 2023-01-01 | 24119 | 4541 | 
 | 2022-12-31 | 24118 | 4541 | 
 | 2022-12-30 | 24118 | 4541 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 24072 | 4537 | 
 | 2022-12-06 | 24071 | 4538 | 
 | 2022-12-04 | 24066 | 4536 | 
-| 2022-12-03 | 24062 | 4535 | 
 

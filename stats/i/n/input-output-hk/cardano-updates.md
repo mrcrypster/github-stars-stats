@@ -1,6 +1,6 @@
 # input-output-hk/cardano-updates - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 5 | 9 | 
 | 2023-01-01 | 5 | 9 | 
 | 2022-12-31 | 5 | 9 | 
 | 2022-12-30 | 5 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 4 | 7 | 
 | 2022-12-05 | 4 | 7 | 
 | 2022-12-04 | 4 | 7 | 
-| 2022-12-03 | 4 | 7 | 
 

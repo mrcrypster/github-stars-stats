@@ -1,6 +1,6 @@
 # github/rubocop-github - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 175
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 608 | 175 | 
 | 2023-01-01 | 608 | 175 | 
 | 2022-12-31 | 608 | 175 | 
 | 2022-12-30 | 608 | 175 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 606 | 175 | 
 | 2022-12-06 | 606 | 175 | 
 | 2022-12-04 | 606 | 174 | 
-| 2022-12-03 | 606 | 174 | 
 

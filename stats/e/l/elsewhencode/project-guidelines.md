@@ -1,8 +1,8 @@
 # elsewhencode/project-guidelines - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 3235
+☋ Forks: 3237
 
 ★ Stars: 28373
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 28373 | 3237 | 
 | 2023-01-01 | 28373 | 3235 | 
 | 2022-12-31 | 28368 | 3235 | 
 | 2022-12-30 | 28366 | 3234 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 28181 | 3213 | 
 | 2022-12-06 | 28174 | 3212 | 
 | 2022-12-05 | 28169 | 3210 | 
-| 2022-12-03 | 28168 | 3210 | 
 

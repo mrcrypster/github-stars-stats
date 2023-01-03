@@ -1,8 +1,8 @@
 # actions/starter-workflows - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 5436
+☋ Forks: 5442
 
 ★ Stars: 7013
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 7013 | 5442 | 
 | 2023-01-01 | 7013 | 5436 | 
 | 2022-12-31 | 7011 | 5435 | 
 | 2022-12-30 | 7009 | 5435 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 6934 | 5399 | 
 | 2022-12-05 | 6932 | 5391 | 
 | 2022-12-04 | 6930 | 5389 | 
-| 2022-12-03 | 6922 | 5386 | 
 

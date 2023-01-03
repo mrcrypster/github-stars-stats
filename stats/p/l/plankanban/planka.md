@@ -1,10 +1,10 @@
 # plankanban/planka - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 251
 
-★ Stars: 2371
+★ Stars: 2375
 
 [Open repository](https://github.com/plankanban/planka)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 2375 | 251 | 
 | 2023-01-01 | 2371 | 251 | 
 | 2022-12-31 | 2370 | 251 | 
 | 2022-12-30 | 2365 | 250 | 

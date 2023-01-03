@@ -1,10 +1,10 @@
 # donut-party/datapotato - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 1
 
-★ Stars: 78
+★ Stars: 79
 
 [Open repository](https://github.com/donut-party/datapotato)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 79 | 1 | 
 | 2023-01-01 | 78 | 1 | 
 | 2022-12-31 | 78 | 1 | 
 | 2022-12-30 | 78 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-08 | 75 | 1 | 
 | 2022-12-06 | 75 | 1 | 
 | 2022-12-05 | 75 | 1 | 
-| 2022-12-03 | 74 | 1 | 
 

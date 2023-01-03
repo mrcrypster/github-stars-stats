@@ -1,10 +1,10 @@
 # mileszs/ack.vim - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 400
 
-★ Stars: 3013
+★ Stars: 3014
 
 [Open repository](https://github.com/mileszs/ack.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 3014 | 400 | 
 | 2023-01-01 | 3013 | 400 | 
 | 2022-12-31 | 3013 | 400 | 
 | 2022-12-30 | 3013 | 400 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 3013 | 399 | 
 | 2022-12-06 | 3013 | 399 | 
 | 2022-12-05 | 3012 | 399 | 
-| 2022-12-03 | 3012 | 399 | 
 

@@ -1,8 +1,8 @@
 # countries/countries - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 655
+☋ Forks: 654
 
 ★ Stars: 1959
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 1959 | 654 | 
 | 2023-01-01 | 1959 | 655 | 
 | 2022-12-31 | 1959 | 655 | 
 | 2022-12-30 | 1958 | 655 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 1947 | 652 | 
 | 2022-12-05 | 1947 | 652 | 
 | 2022-12-04 | 1947 | 652 | 
-| 2022-12-03 | 1947 | 652 | 
 

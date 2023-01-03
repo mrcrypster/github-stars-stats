@@ -1,8 +1,8 @@
 # minimal-ui-kit/material-kit-react - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 908
+☋ Forks: 912
 
 ★ Stars: 1326
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 1326 | 912 | 
 | 2023-01-01 | 1326 | 908 | 
 | 2022-12-31 | 1325 | 907 | 
 | 2022-12-30 | 1325 | 906 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 1295 | 880 | 
 | 2022-12-06 | 1293 | 876 | 
 | 2022-12-04 | 1287 | 872 | 
-| 2022-12-03 | 1287 | 869 | 
 

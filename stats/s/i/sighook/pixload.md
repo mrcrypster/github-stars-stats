@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 02
 
 ☋ Forks: 224
 
-★ Stars: 916
+★ Stars: 917
 
 [Open repository](https://github.com/sighook/pixload)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-02 | 916 | 224 | 
+| 2023-01-02 | 917 | 224 | 
 | 2023-01-01 | 915 | 224 | 
 

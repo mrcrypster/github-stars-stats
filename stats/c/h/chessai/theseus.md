@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 02
 
 ☋ Forks: 6
 
-★ Stars: 108
+★ Stars: 110
 
 [Open repository](https://github.com/chessai/theseus)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-02 | 108 | 6 | 
+| 2023-01-02 | 110 | 6 | 
 | 2023-01-01 | 108 | 6 | 
 

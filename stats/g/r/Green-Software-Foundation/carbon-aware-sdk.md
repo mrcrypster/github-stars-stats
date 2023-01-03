@@ -1,10 +1,10 @@
 # Green-Software-Foundation/carbon-aware-sdk - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 50
 
-★ Stars: 211
+★ Stars: 213
 
 [Open repository](https://github.com/Green-Software-Foundation/carbon-aware-sdk)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 213 | 50 | 
 | 2023-01-01 | 211 | 50 | 
 | 2022-12-31 | 211 | 50 | 
 | 2022-12-30 | 211 | 50 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 203 | 49 | 
 | 2022-12-06 | 203 | 49 | 
 | 2022-12-05 | 203 | 49 | 
-| 2022-12-03 | 202 | 49 | 
 

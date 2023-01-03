@@ -1,6 +1,6 @@
 # bobbyrsec/Microsoft-Teams-GIFShell - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 208 | 33 | 
 | 2023-01-01 | 208 | 33 | 
 | 2022-12-31 | 207 | 33 | 
 | 2022-12-30 | 207 | 33 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 206 | 33 | 
 | 2022-12-06 | 206 | 33 | 
 | 2022-12-04 | 206 | 33 | 
-| 2022-12-03 | 206 | 33 | 
 

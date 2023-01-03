@@ -1,6 +1,6 @@
 # hlissner/emacs-solaire-mode - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 240 | 10 | 
 | 2023-01-01 | 240 | 10 | 
 | 2022-12-31 | 240 | 10 | 
 | 2022-12-30 | 239 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-08 | 237 | 10 | 
 | 2022-12-06 | 237 | 10 | 
 | 2022-12-05 | 237 | 10 | 
-| 2022-12-04 | 237 | 10 | 
 

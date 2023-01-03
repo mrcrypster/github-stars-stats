@@ -1,6 +1,6 @@
 # DeyvidJLira/lista_nomes - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 1 | 20 | 
 | 2023-01-01 | 1 | 20 | 
 | 2022-12-31 | 1 | 20 | 
 | 2022-12-30 | 1 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 1 | 20 | 
 | 2022-12-05 | 1 | 20 | 
 | 2022-12-04 | 1 | 20 | 
-| 2022-12-03 | 1 | 20 | 
 

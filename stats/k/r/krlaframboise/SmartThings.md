@@ -1,6 +1,6 @@
 # krlaframboise/SmartThings - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 1543
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 550 | 1543 | 
 | 2023-01-01 | 550 | 1543 | 
 | 2022-12-31 | 550 | 1543 | 
 | 2022-12-30 | 549 | 1544 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 549 | 1546 | 
 | 2022-12-05 | 549 | 1546 | 
 | 2022-12-04 | 549 | 1546 | 
-| 2022-12-03 | 549 | 1546 | 
 

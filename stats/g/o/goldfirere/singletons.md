@@ -1,10 +1,10 @@
 # goldfirere/singletons - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 35
 
-★ Stars: 276
+★ Stars: 277
 
 [Open repository](https://github.com/goldfirere/singletons)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 277 | 35 | 
 | 2023-01-01 | 276 | 35 | 
 | 2022-12-31 | 276 | 35 | 
 | 2022-12-30 | 276 | 35 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 276 | 35 | 
 | 2022-12-05 | 276 | 35 | 
 | 2022-12-04 | 276 | 35 | 
-| 2022-12-03 | 276 | 35 | 
 

@@ -1,6 +1,6 @@
 # pulp-platform/axi - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 173
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 593 | 173 | 
 | 2023-01-01 | 593 | 173 | 
 | 2022-12-31 | 593 | 173 | 
 | 2022-12-30 | 593 | 173 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 575 | 172 | 
 | 2022-12-05 | 574 | 172 | 
 | 2022-12-04 | 574 | 172 | 
-| 2022-12-03 | 574 | 172 | 
 

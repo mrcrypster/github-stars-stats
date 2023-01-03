@@ -1,6 +1,6 @@
 # zimawhit3/Bitmancer - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 145 | 13 | 
 | 2023-01-01 | 145 | 13 | 
 | 2022-12-31 | 144 | 13 | 
 | 2022-12-30 | 144 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 133 | 9 | 
 | 2022-12-06 | 133 | 9 | 
 | 2022-12-04 | 129 | 8 | 
-| 2022-12-03 | 129 | 8 | 
 

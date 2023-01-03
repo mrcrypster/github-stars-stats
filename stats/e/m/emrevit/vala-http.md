@@ -1,10 +1,10 @@
 # emrevit/vala-http - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 0
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/emrevit/vala-http)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 11 | - | 
 | 2023-01-01 | 10 | - | 
 | 2022-12-31 | 10 | - | 
 | 2022-12-30 | 11 | - | 
@@ -38,5 +39,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-08 | 11 | - | 
 | 2022-12-06 | 11 | - | 
 | 2022-12-05 | 11 | - | 
-| 2022-12-03 | 11 | - | 
 

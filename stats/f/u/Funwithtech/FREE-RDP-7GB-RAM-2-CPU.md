@@ -1,6 +1,6 @@
 # Funwithtech/FREE-RDP-7GB-RAM-2-CPU - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 163
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 1 | 163 | 
 | 2023-01-01 | 1 | 163 | 
 | 2022-12-31 | - | 158 | 
 | 2022-12-30 | - | 156 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | - | 126 | 
 | 2022-12-06 | - | 126 | 
 | 2022-12-04 | - | 124 | 
-| 2022-12-03 | - | 123 | 
 

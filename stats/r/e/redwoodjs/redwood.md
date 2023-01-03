@@ -1,10 +1,10 @@
 # redwoodjs/redwood - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 837
+☋ Forks: 838
 
-★ Stars: 15491
+★ Stars: 15495
 
 [Open repository](https://github.com/redwoodjs/redwood)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 15495 | 838 | 
 | 2023-01-01 | 15491 | 837 | 
 | 2022-12-31 | 15483 | 838 | 
 | 2022-12-30 | 15482 | 839 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 15199 | 827 | 
 | 2022-12-06 | 15196 | 827 | 
 | 2022-12-04 | 15189 | 828 | 
-| 2022-12-03 | 15182 | 827 | 
 

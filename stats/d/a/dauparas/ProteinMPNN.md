@@ -1,6 +1,6 @@
 # dauparas/ProteinMPNN - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 115
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 404 | 115 | 
 | 2023-01-01 | 404 | 115 | 
 | 2022-12-31 | 404 | 115 | 
 | 2022-12-30 | 404 | 115 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 388 | 114 | 
 | 2022-12-06 | 386 | 114 | 
 | 2022-12-05 | 385 | 114 | 
-| 2022-12-04 | 384 | 114 | 
 

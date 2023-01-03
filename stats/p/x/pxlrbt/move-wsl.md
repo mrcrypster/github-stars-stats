@@ -1,6 +1,6 @@
 # pxlrbt/move-wsl - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 106
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 962 | 106 | 
 | 2023-01-01 | 962 | 106 | 
 | 2022-12-31 | 960 | 106 | 
 | 2022-12-30 | 960 | 106 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 945 | 106 | 
 | 2022-12-05 | 944 | 106 | 
 | 2022-12-04 | 944 | 106 | 
-| 2022-12-03 | 943 | 105 | 
 

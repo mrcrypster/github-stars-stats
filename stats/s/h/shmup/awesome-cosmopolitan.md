@@ -1,6 +1,6 @@
 # shmup/awesome-cosmopolitan - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 203 | 6 | 
 | 2023-01-01 | 203 | 6 | 
 | 2022-12-31 | 203 | 6 | 
 | 2022-12-30 | 203 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 196 | 4 | 
 | 2022-12-06 | 196 | 4 | 
 | 2022-12-04 | 196 | 4 | 
-| 2022-12-03 | 195 | 4 | 
 

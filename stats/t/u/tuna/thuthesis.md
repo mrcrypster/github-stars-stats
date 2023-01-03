@@ -1,6 +1,6 @@
 # tuna/thuthesis - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 996
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 3729 | 996 | 
 | 2023-01-01 | 3729 | 996 | 
 | 2022-12-31 | 3725 | 996 | 
 | 2022-12-30 | 3725 | 995 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 3697 | 991 | 
 | 2022-12-05 | 3697 | 991 | 
 | 2022-12-04 | 3695 | 990 | 
-| 2022-12-03 | 3694 | 989 | 
 

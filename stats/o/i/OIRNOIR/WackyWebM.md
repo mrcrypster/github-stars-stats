@@ -1,8 +1,8 @@
 # OIRNOIR/WackyWebM - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 67
+☋ Forks: 68
 
 ★ Stars: 565
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 565 | 68 | 
 | 2023-01-01 | 565 | 67 | 
 | 2022-12-31 | 565 | 67 | 
 | 2022-12-30 | 565 | 67 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 551 | 65 | 
 | 2022-12-06 | 553 | 65 | 
 | 2022-12-05 | 553 | 65 | 
-| 2022-12-03 | 553 | 64 | 
 

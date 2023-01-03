@@ -1,10 +1,10 @@
 # surrealdb/surrealdb.js - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 19
 
-★ Stars: 105
+★ Stars: 107
 
 [Open repository](https://github.com/surrealdb/surrealdb.js)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 107 | 19 | 
 | 2023-01-01 | 105 | 19 | 
 | 2022-12-31 | 105 | 19 | 
 | 2022-12-30 | 105 | 19 | 

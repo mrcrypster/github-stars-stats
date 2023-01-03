@@ -1,10 +1,10 @@
 # kangrongji/cubical-classics - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 1
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/kangrongji/cubical-classics)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 23 | 1 | 
 | 2023-01-01 | 22 | 1 | 
 | 2022-12-31 | 22 | 1 | 
 | 2022-12-30 | 20 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 20 | 1 | 
 | 2022-12-05 | 20 | 1 | 
 | 2022-12-04 | 20 | 1 | 
-| 2022-12-03 | 20 | 1 | 
 

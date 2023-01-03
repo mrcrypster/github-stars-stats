@@ -1,10 +1,10 @@
 # wulabing/V2Ray_ws-tls_bash_onekey - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 740
+☋ Forks: 742
 
-★ Stars: 1561
+★ Stars: 1563
 
 [Open repository](https://github.com/wulabing/V2Ray_ws-tls_bash_onekey)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 1563 | 742 | 
 | 2023-01-01 | 1561 | 740 | 
 | 2022-12-31 | 1561 | 741 | 
 | 2022-12-30 | 1560 | 741 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 1511 | 707 | 
 | 2022-12-06 | 1504 | 706 | 
 | 2022-12-04 | 1498 | 706 | 
-| 2022-12-03 | 1492 | 704 | 
 

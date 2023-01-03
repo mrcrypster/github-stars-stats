@@ -1,6 +1,6 @@
 # brentp/cyvcf2 - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 317 | 63 | 
 | 2023-01-01 | 317 | 63 | 
 | 2022-12-31 | 317 | 63 | 
 | 2022-12-30 | 317 | 63 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 314 | 63 | 
 | 2022-12-05 | 314 | 63 | 
 | 2022-12-04 | 314 | 63 | 
-| 2022-12-03 | 314 | 63 | 
 

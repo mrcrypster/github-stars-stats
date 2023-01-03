@@ -1,10 +1,10 @@
 # erikgrinaker/toydb - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 387
 
-★ Stars: 4627
+★ Stars: 4628
 
 [Open repository](https://github.com/erikgrinaker/toydb)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 4628 | 387 | 
 | 2023-01-01 | 4627 | 387 | 
 | 2022-12-31 | 4624 | 386 | 
 | 2022-12-30 | 4624 | 386 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 4559 | 380 | 
 | 2022-12-06 | 4554 | 380 | 
 | 2022-12-05 | 4549 | 380 | 
-| 2022-12-03 | 4546 | 380 | 
 

@@ -1,10 +1,10 @@
 # rdunnington/bytebox - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 1
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/rdunnington/bytebox)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 13 | 1 | 
 | 2023-01-01 | 12 | 1 | 
 | 2022-12-31 | 12 | 1 | 
 | 2022-12-30 | 12 | 1 | 

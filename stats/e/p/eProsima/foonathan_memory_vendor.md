@@ -1,6 +1,6 @@
 # eProsima/foonathan_memory_vendor - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 16 | 32 | 
 | 2023-01-01 | 16 | 32 | 
 | 2022-12-31 | 16 | 32 | 
 | 2022-12-30 | 16 | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 16 | 33 | 
 | 2022-12-05 | 16 | 33 | 
 | 2022-12-04 | 16 | 33 | 
-| 2022-12-03 | 16 | 33 | 
 

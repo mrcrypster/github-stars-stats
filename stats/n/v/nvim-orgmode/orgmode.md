@@ -1,6 +1,6 @@
 # nvim-orgmode/orgmode - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 90
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 1860 | 90 | 
 | 2023-01-01 | 1860 | 90 | 
 | 2022-12-31 | 1860 | 90 | 
 | 2022-12-30 | 1860 | 90 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 1817 | 91 | 
 | 2022-12-06 | 1814 | 91 | 
 | 2022-12-04 | 1812 | 91 | 
-| 2022-12-03 | 1808 | 90 | 
 

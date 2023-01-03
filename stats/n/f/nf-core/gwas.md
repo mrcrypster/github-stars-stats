@@ -1,6 +1,6 @@
 # nf-core/gwas - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 11 | 13 | 
 | 2023-01-01 | 11 | 13 | 
 | 2022-12-31 | 11 | 13 | 
 | 2022-12-30 | 11 | 13 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 10 | 13 | 
 | 2022-12-06 | 10 | 13 | 
 | 2022-12-05 | 10 | 13 | 
-| 2022-12-03 | 10 | 13 | 
 

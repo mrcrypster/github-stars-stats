@@ -1,10 +1,10 @@
 # vector76/gridfinity_openscad - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 24
 
-★ Stars: 97
+★ Stars: 98
 
 [Open repository](https://github.com/vector76/gridfinity_openscad)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 98 | 24 | 
 | 2023-01-01 | 97 | 24 | 
 | 2022-12-31 | 96 | 24 | 
 | 2022-12-30 | 96 | 24 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 86 | 19 | 
 | 2022-12-05 | 86 | 19 | 
 | 2022-12-04 | 85 | 19 | 
-| 2022-12-03 | 84 | 18 | 
 

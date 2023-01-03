@@ -1,6 +1,6 @@
 # base16-project/base16-iterm2 - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 181 | 32 | 
 | 2023-01-01 | 181 | 32 | 
 | 2022-12-31 | 181 | 32 | 
 | 2022-12-30 | 181 | 32 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 181 | 31 | 
 | 2022-12-05 | 181 | 31 | 
 | 2022-12-04 | 181 | 31 | 
-| 2022-12-03 | 181 | 31 | 
 

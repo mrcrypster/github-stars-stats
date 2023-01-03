@@ -1,10 +1,10 @@
 # techno-tim/launchpad - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 259
+☋ Forks: 260
 
-★ Stars: 693
+★ Stars: 701
 
 [Open repository](https://github.com/techno-tim/launchpad)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 701 | 260 | 
 | 2023-01-01 | 693 | 259 | 
 | 2022-12-31 | 693 | 258 | 
 | 2022-12-30 | 693 | 258 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 654 | 243 | 
 | 2022-12-05 | 654 | 243 | 
 | 2022-12-04 | 652 | 243 | 
-| 2022-12-03 | 651 | 242 | 
 

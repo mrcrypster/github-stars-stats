@@ -1,6 +1,6 @@
 # netlify/templates - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 78 | 68 | 
 | 2023-01-01 | 78 | 68 | 
 | 2022-12-31 | 78 | 68 | 
 | 2022-12-30 | 78 | 68 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 79 | 69 | 
 | 2022-12-05 | 79 | 69 | 
 | 2022-12-04 | 79 | 69 | 
-| 2022-12-03 | 79 | 69 | 
 

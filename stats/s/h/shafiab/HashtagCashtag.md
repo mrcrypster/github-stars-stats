@@ -1,6 +1,6 @@
 # shafiab/HashtagCashtag - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 85
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 287 | 85 | 
 | 2023-01-01 | 287 | 85 | 
 | 2022-12-31 | 287 | 85 | 
 | 2022-12-30 | 286 | 85 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 282 | 84 | 
 | 2022-12-06 | 281 | 84 | 
 | 2022-12-04 | 281 | 84 | 
-| 2022-12-03 | 280 | 84 | 
 

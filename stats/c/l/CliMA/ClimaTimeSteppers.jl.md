@@ -1,10 +1,10 @@
 # CliMA/ClimaTimeSteppers.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 3
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/CliMA/ClimaTimeSteppers.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 25 | 3 | 
 | 2023-01-01 | 24 | 3 | 
 | 2022-12-31 | 24 | 3 | 
 | 2022-12-30 | 24 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 21 | 2 | 
 | 2022-12-05 | 20 | 2 | 
 | 2022-12-04 | 19 | 2 | 
-| 2022-12-03 | 19 | 2 | 
 

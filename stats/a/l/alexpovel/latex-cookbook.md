@@ -1,6 +1,6 @@
 # alexpovel/latex-cookbook - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 143 | 13 | 
 | 2023-01-01 | 143 | 13 | 
 | 2022-12-31 | 143 | 13 | 
 | 2022-12-30 | 143 | 13 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 138 | 12 | 
 | 2022-12-06 | 138 | 12 | 
 | 2022-12-04 | 138 | 12 | 
-| 2022-12-03 | 138 | 12 | 
 

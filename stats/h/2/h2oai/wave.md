@@ -1,6 +1,6 @@
 # h2oai/wave - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 232
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 3355 | 232 | 
 | 2023-01-01 | 3355 | 232 | 
 | 2022-12-31 | 3354 | 233 | 
 | 2022-12-30 | 3354 | 233 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 3318 | 222 | 
 | 2022-12-05 | 3311 | 222 | 
 | 2022-12-04 | 3307 | 222 | 
-| 2022-12-03 | 3302 | 219 | 
 

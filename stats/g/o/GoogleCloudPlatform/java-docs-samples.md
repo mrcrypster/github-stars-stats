@@ -1,8 +1,8 @@
 # GoogleCloudPlatform/java-docs-samples - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 2683
+☋ Forks: 2684
 
 ★ Stars: 1503
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 1503 | 2684 | 
 | 2023-01-01 | 1503 | 2683 | 
 | 2022-12-31 | 1503 | 2683 | 
 | 2022-12-30 | 1502 | 2681 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 1494 | 2677 | 
 | 2022-12-05 | 1494 | 2676 | 
 | 2022-12-04 | 1494 | 2678 | 
-| 2022-12-03 | 1494 | 2679 | 
 

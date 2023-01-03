@@ -1,6 +1,6 @@
 # thechangelog/changelog.com - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 232
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 2489 | 232 | 
 | 2023-01-01 | 2489 | 232 | 
 | 2022-12-31 | 2487 | 231 | 
 | 2022-12-30 | 2486 | 231 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 2481 | 231 | 
 | 2022-12-06 | 2480 | 231 | 
 | 2022-12-05 | 2480 | 231 | 
-| 2022-12-03 | 2480 | 231 | 
 

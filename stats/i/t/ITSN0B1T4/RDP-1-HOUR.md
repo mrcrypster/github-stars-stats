@@ -1,8 +1,8 @@
 # ITSN0B1T4/RDP-1-HOUR - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 147
+☋ Forks: 152
 
 ★ Stars: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 7 | 152 | 
 | 2023-01-01 | 7 | 147 | 
 | 2022-12-31 | 7 | 122 | 
 | 2022-12-30 | 7 | 113 | 

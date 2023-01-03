@@ -1,10 +1,10 @@
 # agiletechvn/go-ethereum-code-analysis - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 72
+☋ Forks: 73
 
-★ Stars: 248
+★ Stars: 247
 
 [Open repository](https://github.com/agiletechvn/go-ethereum-code-analysis)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 247 | 73 | 
 | 2023-01-01 | 248 | 72 | 
 | 2022-12-31 | 248 | 72 | 
 | 2022-12-30 | 248 | 72 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 240 | 71 | 
 | 2022-12-06 | 239 | 71 | 
 | 2022-12-04 | 238 | 71 | 
-| 2022-12-03 | 238 | 71 | 
 

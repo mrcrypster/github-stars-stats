@@ -1,10 +1,10 @@
 # sunzsh/vue-el-demo - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 17
+☋ Forks: 18
 
-★ Stars: 105
+★ Stars: 107
 
 [Open repository](https://github.com/sunzsh/vue-el-demo)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 107 | 18 | 
 | 2023-01-01 | 105 | 17 | 
 | 2022-12-31 | 105 | 17 | 
 | 2022-12-30 | 104 | 17 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 86 | 13 | 
 | 2022-12-06 | 86 | 13 | 
 | 2022-12-04 | 85 | 13 | 
-| 2022-12-03 | 85 | 13 | 
 

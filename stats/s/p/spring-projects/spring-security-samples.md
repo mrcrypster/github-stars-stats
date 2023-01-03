@@ -1,10 +1,10 @@
 # spring-projects/spring-security-samples - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 367
+☋ Forks: 368
 
-★ Stars: 653
+★ Stars: 656
 
 [Open repository](https://github.com/spring-projects/spring-security-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 656 | 368 | 
 | 2023-01-01 | 653 | 367 | 
 | 2022-12-31 | 652 | 366 | 
 | 2022-12-30 | 650 | 365 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 613 | 352 | 
 | 2022-12-06 | 609 | 350 | 
 | 2022-12-04 | 606 | 348 | 
-| 2022-12-03 | 605 | 348 | 
 

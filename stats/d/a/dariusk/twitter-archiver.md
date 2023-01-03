@@ -1,10 +1,10 @@
 # dariusk/twitter-archiver - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 6
 
-★ Stars: 228
+★ Stars: 232
 
 [Open repository](https://github.com/dariusk/twitter-archiver)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 232 | 6 | 
 | 2023-01-01 | 228 | 6 | 
 | 2022-12-31 | 228 | 6 | 
 | 2022-12-30 | 227 | 6 | 

@@ -1,6 +1,6 @@
 # niklas-heer/speed-comparison - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 241 | 48 | 
 | 2023-01-01 | 241 | 48 | 
 | 2022-12-31 | 241 | 48 | 
 | 2022-12-30 | 241 | 48 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 238 | 46 | 
 | 2022-12-06 | 237 | 46 | 
 | 2022-12-05 | 237 | 46 | 
-| 2022-12-03 | 237 | 46 | 
 

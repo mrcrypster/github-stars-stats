@@ -1,10 +1,10 @@
 # zabbix/zabbix-docker - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 1183
+☋ Forks: 1184
 
-★ Stars: 1738
+★ Stars: 1737
 
 [Open repository](https://github.com/zabbix/zabbix-docker)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 1737 | 1184 | 
 | 2023-01-01 | 1738 | 1183 | 
 | 2022-12-31 | 1735 | 1182 | 
 | 2022-12-30 | 1734 | 1182 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 1714 | 1172 | 
 | 2022-12-06 | 1714 | 1170 | 
 | 2022-12-04 | 1713 | 1170 | 
-| 2022-12-03 | 1710 | 1167 | 
 

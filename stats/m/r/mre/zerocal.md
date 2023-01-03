@@ -1,10 +1,10 @@
 # mre/zerocal - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 12
 
-★ Stars: 149
+★ Stars: 150
 
 [Open repository](https://github.com/mre/zerocal)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 150 | 12 | 
 | 2023-01-01 | 149 | 12 | 
 | 2022-12-31 | 149 | 12 | 
 | 2022-12-30 | 149 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 148 | 12 | 
 | 2022-12-06 | 148 | 12 | 
 | 2022-12-04 | 148 | 12 | 
-| 2022-12-03 | 148 | 12 | 
 

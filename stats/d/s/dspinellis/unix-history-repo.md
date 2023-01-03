@@ -1,10 +1,10 @@
 # dspinellis/unix-history-repo - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 421
 
-★ Stars: 6043
+★ Stars: 6045
 
 [Open repository](https://github.com/dspinellis/unix-history-repo)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 6045 | 421 | 
 | 2023-01-02 | 6043 | 421 | 
 | 2022-12-31 | 6042 | 421 | 
 | 2022-12-30 | 6042 | 421 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-07 | 6024 | 422 | 
 | 2022-12-06 | 6023 | 422 | 
 | 2022-12-04 | 6019 | 422 | 
-| 2022-12-03 | 6018 | 422 | 
 

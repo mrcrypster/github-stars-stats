@@ -1,10 +1,10 @@
 # cpvirtual/OR_CPV - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 3
 
-★ Stars: 6
+★ Stars: 8
 
 [Open repository](https://github.com/cpvirtual/OR_CPV)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 8 | 3 | 
 | 2023-01-01 | 6 | 3 | 
 | 2022-12-31 | 6 | 3 | 
 | 2022-12-30 | 6 | 3 | 

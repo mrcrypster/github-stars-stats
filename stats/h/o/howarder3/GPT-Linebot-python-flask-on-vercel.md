@@ -1,8 +1,8 @@
 # howarder3/GPT-Linebot-python-flask-on-vercel - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 141
+☋ Forks: 142
 
 ★ Stars: 91
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 91 | 142 | 
 | 2023-01-01 | 91 | 141 | 
 | 2022-12-31 | 90 | 140 | 
 | 2022-12-30 | 90 | 138 | 

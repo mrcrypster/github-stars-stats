@@ -1,8 +1,8 @@
 # starknet-edu/starknet-cairo-101 - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 57
+☋ Forks: 56
 
 ★ Stars: 144
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 144 | 56 | 
 | 2023-01-01 | 144 | 57 | 
 | 2022-12-31 | 144 | 57 | 
 | 2022-12-30 | 144 | 57 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 132 | 53 | 
 | 2022-12-06 | 132 | 53 | 
 | 2022-12-05 | 132 | 53 | 
-| 2022-12-03 | 132 | 53 | 
 

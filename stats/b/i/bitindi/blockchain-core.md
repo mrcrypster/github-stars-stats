@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 02
 
-☋ Forks: 189
+☋ Forks: 195
 
-★ Stars: 201
+★ Stars: 207
 
 [Open repository](https://github.com/bitindi/blockchain-core)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-02 | 201 | 189 | 
+| 2023-01-02 | 207 | 195 | 
 | 2023-01-01 | 201 | 189 | 
 | 2022-12-31 | 201 | 189 | 
 | 2022-12-30 | 170 | 160 | 

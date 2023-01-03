@@ -1,6 +1,6 @@
 # filecoin-project/FIPs - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 114
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 223 | 114 | 
 | 2023-01-01 | 223 | 114 | 
 | 2022-12-31 | 223 | 114 | 
 | 2022-12-30 | 221 | 114 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 211 | 112 | 
 | 2022-12-06 | 210 | 111 | 
 | 2022-12-05 | 210 | 111 | 
-| 2022-12-03 | 209 | 111 | 
 

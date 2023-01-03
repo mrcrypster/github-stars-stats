@@ -1,10 +1,10 @@
 # purcell/emacs.d - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 2021
 
-★ Stars: 6418
+★ Stars: 6419
 
 [Open repository](https://github.com/purcell/emacs.d)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 6419 | 2021 | 
+| 2023-01-02 | 6419 | 2021 | 
 | 2023-01-01 | 6418 | 2021 | 
 | 2022-12-31 | 6415 | 2022 | 
 | 2022-12-30 | 6414 | 2022 | 
@@ -40,5 +42,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 6401 | 2023 | 
 | 2022-12-05 | 6400 | 2023 | 
 | 2022-12-04 | 6398 | 2023 | 
-| 2022-12-03 | 6399 | 2023 | 
 

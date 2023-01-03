@@ -1,6 +1,6 @@
 # midudev/frontend-mentor-challenges - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 56 | 1 | 
 | 2023-01-01 | 56 | 1 | 
 | 2022-12-31 | 56 | 1 | 
 | 2022-12-30 | 56 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-08 | 56 | 1 | 
 | 2022-12-06 | 56 | 1 | 
 | 2022-12-05 | 56 | 1 | 
-| 2022-12-04 | 56 | 1 | 
 

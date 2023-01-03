@@ -1,10 +1,10 @@
 # alibaba/AGEIPort - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 91
 
-★ Stars: 486
+★ Stars: 487
 
 [Open repository](https://github.com/alibaba/AGEIPort)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 487 | 91 | 
 | 2023-01-01 | 486 | 91 | 
 | 2022-12-31 | 485 | 91 | 
 | 2022-12-30 | 482 | 90 | 

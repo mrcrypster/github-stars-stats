@@ -1,6 +1,6 @@
 # puppetlabs/puppetlabs-apache - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 1076
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 363 | 1076 | 
 | 2023-01-01 | 363 | 1076 | 
 | 2022-12-31 | 363 | 1076 | 
 | 2022-12-30 | 363 | 1076 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 366 | 1076 | 
 | 2022-12-06 | 366 | 1076 | 
 | 2022-12-04 | 365 | 1077 | 
-| 2022-12-03 | 365 | 1077 | 
 

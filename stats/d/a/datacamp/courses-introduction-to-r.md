@@ -1,10 +1,10 @@
 # datacamp/courses-introduction-to-r - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 143
 
-★ Stars: 125
+★ Stars: 126
 
 [Open repository](https://github.com/datacamp/courses-introduction-to-r)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 126 | 143 | 
 | 2023-01-01 | 125 | 143 | 
 | 2022-12-31 | 125 | 143 | 
 | 2022-12-30 | 125 | 143 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-08 | 125 | 143 | 
 | 2022-12-06 | 125 | 143 | 
 | 2022-12-05 | 125 | 143 | 
-| 2022-12-03 | 125 | 143 | 
 

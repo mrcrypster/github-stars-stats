@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 02
 
-☋ Forks: 8
+☋ Forks: 9
 
-★ Stars: 88
+★ Stars: 90
 
 [Open repository](https://github.com/AnanyaKumar/transfer_learning)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-02 | 88 | 8 | 
+| 2023-01-02 | 90 | 9 | 
 | 2023-01-01 | 88 | 8 | 
 

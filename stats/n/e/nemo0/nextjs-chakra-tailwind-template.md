@@ -1,6 +1,6 @@
 # nemo0/nextjs-chakra-tailwind-template - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 15 | 5 | 
 | 2023-01-01 | 15 | 5 | 
 | 2022-12-31 | 15 | 5 | 
 | 2022-12-30 | 15 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 13 | 5 | 
 | 2022-12-06 | 13 | 5 | 
 | 2022-12-05 | 13 | 5 | 
-| 2022-12-03 | 13 | 5 | 
 

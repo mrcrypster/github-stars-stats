@@ -1,10 +1,10 @@
 # craftzdog/craftzdog-homepage - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 03
 
-☋ Forks: 526
+☋ Forks: 528
 
-★ Stars: 1731
+★ Stars: 1735
 
 [Open repository](https://github.com/craftzdog/craftzdog-homepage)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 1735 | 528 | 
 | 2023-01-01 | 1731 | 526 | 
 | 2022-12-31 | 1731 | 525 | 
 | 2022-12-30 | 1729 | 523 | 

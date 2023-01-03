@@ -1,6 +1,6 @@
 # luc-tielen/llvm-codegen - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 23 | 5 | 
 | 2023-01-01 | 23 | 5 | 
 | 2022-12-31 | 23 | 5 | 
 | 2022-12-30 | 23 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 23 | 5 | 
 | 2022-12-06 | 23 | 5 | 
 | 2022-12-04 | 23 | 5 | 
-| 2022-12-03 | 23 | 5 | 
 

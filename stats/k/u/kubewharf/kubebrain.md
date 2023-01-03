@@ -1,6 +1,6 @@
 # kubewharf/kubebrain - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 522 | 48 | 
 | 2023-01-02 | 522 | 48 | 
 | 2023-01-01 | 522 | 48 | 
 | 2022-12-30 | 521 | 47 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-07 | 474 | 43 | 
 | 2022-12-05 | 456 | 40 | 
 | 2022-12-04 | 452 | 40 | 
-| 2022-12-03 | 441 | 39 | 
 

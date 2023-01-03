@@ -1,10 +1,10 @@
 # qkqpttgf/OneManager-php - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 2843
+☋ Forks: 2844
 
-★ Stars: 3370
+★ Stars: 3369
 
 [Open repository](https://github.com/qkqpttgf/OneManager-php)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 3369 | 2844 | 
 | 2023-01-01 | 3370 | 2843 | 
 | 2022-12-31 | 3370 | 2845 | 
 | 2022-12-30 | 3369 | 2846 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 3342 | 2841 | 
 | 2022-12-05 | 3345 | 2844 | 
 | 2022-12-04 | 3342 | 2843 | 
-| 2022-12-03 | 3341 | 2840 | 
 

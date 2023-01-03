@@ -1,10 +1,10 @@
 # panr/hugo-theme-hello-friend - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 1046
+☋ Forks: 1047
 
-★ Stars: 961
+★ Stars: 963
 
 [Open repository](https://github.com/panr/hugo-theme-hello-friend)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 963 | 1047 | 
 | 2023-01-01 | 961 | 1046 | 
 | 2022-12-31 | 959 | 1046 | 
 | 2022-12-30 | 959 | 1045 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 951 | 1033 | 
 | 2022-12-06 | 951 | 1033 | 
 | 2022-12-04 | 951 | 1031 | 
-| 2022-12-03 | 950 | 1031 | 
 

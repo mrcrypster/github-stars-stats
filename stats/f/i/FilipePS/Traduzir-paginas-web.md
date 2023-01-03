@@ -1,10 +1,10 @@
 # FilipePS/Traduzir-paginas-web - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 192
+☋ Forks: 193
 
-★ Stars: 1981
+★ Stars: 1985
 
 [Open repository](https://github.com/FilipePS/Traduzir-paginas-web)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 1985 | 193 | 
 | 2023-01-01 | 1981 | 192 | 
 | 2022-12-31 | 1979 | 191 | 
 | 2022-12-30 | 1975 | 191 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 1772 | 181 | 
 | 2022-12-06 | 1770 | 181 | 
 | 2022-12-05 | 1769 | 180 | 
-| 2022-12-03 | 1766 | 180 | 
 

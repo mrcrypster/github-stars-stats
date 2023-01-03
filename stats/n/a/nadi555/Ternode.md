@@ -1,6 +1,6 @@
 # nadi555/Ternode - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 10 | 28 | 
 | 2023-01-01 | 10 | 28 | 
 | 2022-12-31 | 10 | 28 | 
 | 2022-12-30 | 10 | 28 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 9 | 26 | 
 | 2022-12-05 | 9 | 24 | 
 | 2022-12-04 | 9 | 24 | 
-| 2022-12-03 | 9 | 24 | 
 

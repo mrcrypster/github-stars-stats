@@ -1,6 +1,6 @@
 # yetanalytics/datasim - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 15 | 7 | 
 | 2023-01-02 | 15 | 7 | 
 | 2023-01-01 | 15 | 7 | 
 | 2022-12-30 | 15 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-07 | 14 | 6 | 
 | 2022-12-05 | 14 | 6 | 
 | 2022-12-04 | 14 | 6 | 
-| 2022-12-03 | 14 | 6 | 
 

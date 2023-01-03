@@ -1,6 +1,6 @@
 # mishmanners/mish-friendly-food - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 8 | 15 | 
 | 2023-01-01 | 8 | 15 | 
 | 2022-12-31 | 8 | 15 | 
 | 2022-12-30 | 8 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 8 | 16 | 
 | 2022-12-06 | 8 | 16 | 
 | 2022-12-04 | 8 | 16 | 
-| 2022-12-03 | 8 | 16 | 
 

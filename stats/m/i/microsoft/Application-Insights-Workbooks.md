@@ -1,10 +1,10 @@
 # microsoft/Application-Insights-Workbooks - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 368
 
-★ Stars: 399
+★ Stars: 400
 
 [Open repository](https://github.com/microsoft/Application-Insights-Workbooks)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 400 | 368 | 
 | 2023-01-01 | 399 | 368 | 
 | 2022-12-31 | 398 | 368 | 
 | 2022-12-30 | 398 | 368 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 389 | 367 | 
 | 2022-12-06 | 389 | 368 | 
 | 2022-12-04 | 388 | 366 | 
-| 2022-12-03 | 388 | 366 | 
 

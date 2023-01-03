@@ -1,6 +1,6 @@
 # dart-lang/build - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 192
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 676 | 192 | 
 | 2023-01-01 | 676 | 192 | 
 | 2022-12-31 | 676 | 192 | 
 | 2022-12-30 | 676 | 192 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 673 | 190 | 
 | 2022-12-06 | 673 | 190 | 
 | 2022-12-04 | 673 | 190 | 
-| 2022-12-03 | 673 | 190 | 
 

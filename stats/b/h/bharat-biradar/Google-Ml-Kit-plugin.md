@@ -1,8 +1,8 @@
 # bharat-biradar/Google-Ml-Kit-plugin - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 414
+☋ Forks: 415
 
 ★ Stars: 424
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 424 | 415 | 
 | 2023-01-01 | 424 | 414 | 
 | 2022-12-31 | 424 | 413 | 
 | 2022-12-30 | 423 | 412 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 404 | 397 | 
 | 2022-12-06 | 402 | 397 | 
 | 2022-12-04 | 400 | 396 | 
-| 2022-12-03 | 400 | 395 | 
 

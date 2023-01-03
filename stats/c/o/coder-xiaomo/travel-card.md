@@ -1,6 +1,6 @@
 # coder-xiaomo/travel-card - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 51 | 20 | 
 | 2023-01-01 | 51 | 20 | 
 | 2022-12-31 | 51 | 19 | 
 | 2022-12-30 | 51 | 18 | 

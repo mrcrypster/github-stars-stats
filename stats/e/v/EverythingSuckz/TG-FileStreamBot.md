@@ -1,10 +1,10 @@
 # EverythingSuckz/TG-FileStreamBot - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 759
+☋ Forks: 761
 
-★ Stars: 552
+★ Stars: 554
 
 [Open repository](https://github.com/EverythingSuckz/TG-FileStreamBot)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 554 | 761 | 
 | 2023-01-01 | 552 | 759 | 
 | 2022-12-31 | 551 | 758 | 
 | 2022-12-30 | 550 | 758 | 

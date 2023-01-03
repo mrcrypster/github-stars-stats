@@ -1,10 +1,10 @@
 # yonaskolb/XcodeGen - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 723
+☋ Forks: 722
 
-★ Stars: 5850
+★ Stars: 5853
 
 [Open repository](https://github.com/yonaskolb/XcodeGen)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 5853 | 722 | 
 | 2023-01-01 | 5850 | 723 | 
 | 2022-12-31 | 5846 | 723 | 
 | 2022-12-30 | 5845 | 723 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 5803 | 715 | 
 | 2022-12-05 | 5803 | 714 | 
 | 2022-12-04 | 5801 | 713 | 
-| 2022-12-03 | 5801 | 713 | 
 

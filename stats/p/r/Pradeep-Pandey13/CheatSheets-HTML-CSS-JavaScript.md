@@ -1,6 +1,6 @@
 # Pradeep-Pandey13/CheatSheets-HTML-CSS-JavaScript - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 681 | 75 | 
 | 2023-01-01 | 681 | 75 | 
 | 2022-12-31 | 679 | 75 | 
 | 2022-12-30 | 674 | 75 | 

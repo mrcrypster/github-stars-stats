@@ -1,10 +1,10 @@
 # trickster0/OffensiveRust - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 170
+☋ Forks: 171
 
-★ Stars: 1522
+★ Stars: 1528
 
 [Open repository](https://github.com/trickster0/OffensiveRust)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 1528 | 171 | 
 | 2023-01-01 | 1522 | 170 | 
 | 2022-12-31 | 1522 | 170 | 
 | 2022-12-30 | 1522 | 170 | 

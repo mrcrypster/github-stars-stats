@@ -1,10 +1,10 @@
 # ayamir/nvimdots - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 263
+☋ Forks: 264
 
-★ Stars: 1290
+★ Stars: 1292
 
 [Open repository](https://github.com/ayamir/nvimdots)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 1292 | 264 | 
 | 2023-01-01 | 1290 | 263 | 
 | 2022-12-31 | 1290 | 263 | 
 | 2022-12-30 | 1288 | 262 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 1218 | 254 | 
 | 2022-12-05 | 1213 | 254 | 
 | 2022-12-04 | 1205 | 252 | 
-| 2022-12-03 | 1204 | 251 | 
 

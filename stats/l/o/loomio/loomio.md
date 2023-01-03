@@ -1,6 +1,6 @@
 # loomio/loomio - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 665
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 2158 | 665 | 
 | 2023-01-01 | 2158 | 665 | 
 | 2022-12-31 | 2158 | 665 | 
 | 2022-12-30 | 2158 | 665 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 2153 | 664 | 
 | 2022-12-06 | 2152 | 663 | 
 | 2022-12-04 | 2149 | 663 | 
-| 2022-12-03 | 2149 | 663 | 
 

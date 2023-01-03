@@ -1,6 +1,6 @@
 # dreadpon/godot_spatial_gardener - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 364 | 13 | 
 | 2023-01-01 | 364 | 13 | 
 | 2022-12-31 | 364 | 13 | 
 | 2022-12-30 | 363 | 13 | 
@@ -38,5 +39,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-08 | 351 | 13 | 
 | 2022-12-06 | 351 | 13 | 
 | 2022-12-05 | 351 | 13 | 
-| 2022-12-03 | 349 | 13 | 
 

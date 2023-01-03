@@ -1,6 +1,6 @@
 # learn-co-curriculum/phase-4-debugging-network-requests-lab - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 1615
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | - | 1615 | 
 | 2023-01-01 | - | 1615 | 
 | 2022-12-31 | - | 1615 | 
 | 2022-12-30 | - | 1614 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | - | 1561 | 
 | 2022-12-06 | - | 1556 | 
 | 2022-12-05 | - | 1550 | 
-| 2022-12-03 | - | 1540 | 
 

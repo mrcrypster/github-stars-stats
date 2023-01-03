@@ -1,10 +1,10 @@
 # florisboard/florisboard - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 261
 
-★ Stars: 3693
+★ Stars: 3694
 
 [Open repository](https://github.com/florisboard/florisboard)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 3694 | 261 | 
 | 2023-01-01 | 3693 | 261 | 
 | 2022-12-31 | 3691 | 261 | 
 | 2022-12-30 | 3686 | 260 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 3611 | 256 | 
 | 2022-12-05 | 3605 | 256 | 
 | 2022-12-04 | 3603 | 256 | 
-| 2022-12-03 | 3600 | 256 | 
 

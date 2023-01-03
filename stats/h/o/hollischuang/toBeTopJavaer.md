@@ -1,10 +1,10 @@
 # hollischuang/toBeTopJavaer - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 5382
 
-★ Stars: 24157
+★ Stars: 24160
 
 [Open repository](https://github.com/hollischuang/toBeTopJavaer)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 24160 | 5382 | 
 | 2023-01-01 | 24157 | 5382 | 
 | 2022-12-31 | 24154 | 5380 | 
 | 2022-12-30 | 24155 | 5380 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 24101 | 5378 | 
 | 2022-12-06 | 24093 | 5378 | 
 | 2022-12-04 | 24089 | 5378 | 
-| 2022-12-03 | 24086 | 5377 | 
 

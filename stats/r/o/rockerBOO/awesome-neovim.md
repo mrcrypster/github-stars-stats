@@ -1,10 +1,10 @@
 # rockerBOO/awesome-neovim - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 397
+☋ Forks: 398
 
-★ Stars: 8218
+★ Stars: 8226
 
 [Open repository](https://github.com/rockerBOO/awesome-neovim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 8226 | 398 | 
 | 2023-01-01 | 8218 | 397 | 
 | 2022-12-31 | 8203 | 395 | 
 | 2022-12-30 | 8186 | 396 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-08 | 7884 | 385 | 
 | 2022-12-06 | 7871 | 387 | 
 | 2022-12-05 | 7855 | 387 | 
-| 2022-12-03 | 7837 | 387 | 
 

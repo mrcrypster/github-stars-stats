@@ -1,10 +1,10 @@
 # max397574/colortils.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 4
 
-★ Stars: 186
+★ Stars: 189
 
 [Open repository](https://github.com/max397574/colortils.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 189 | 4 | 
 | 2023-01-01 | 186 | 4 | 
 | 2022-12-31 | 186 | 4 | 
 | 2022-12-30 | 185 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 183 | 4 | 
 | 2022-12-06 | 183 | 4 | 
 | 2022-12-04 | 183 | 4 | 
-| 2022-12-03 | 183 | 4 | 
 

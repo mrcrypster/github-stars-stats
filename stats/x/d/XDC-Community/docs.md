@@ -1,6 +1,6 @@
 # XDC-Community/docs - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 6 | 27 | 
 | 2023-01-01 | 6 | 27 | 
 | 2022-12-31 | 6 | 27 | 
 | 2022-12-30 | 6 | 27 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 6 | 26 | 
 | 2022-12-06 | 6 | 26 | 
 | 2022-12-05 | 6 | 26 | 
-| 2022-12-04 | 6 | 25 | 
 

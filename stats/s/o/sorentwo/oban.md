@@ -1,6 +1,6 @@
 # sorentwo/oban - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 232
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 2416 | 232 | 
 | 2023-01-01 | 2416 | 232 | 
 | 2022-12-31 | 2416 | 232 | 
 | 2022-12-30 | 2415 | 232 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 2401 | 232 | 
 | 2022-12-05 | 2400 | 230 | 
 | 2022-12-04 | 2398 | 230 | 
-| 2022-12-03 | 2398 | 230 | 
 

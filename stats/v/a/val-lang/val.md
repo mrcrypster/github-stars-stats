@@ -1,10 +1,10 @@
 # val-lang/val - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 10
+☋ Forks: 12
 
-★ Stars: 302
+★ Stars: 314
 
 [Open repository](https://github.com/val-lang/val)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 314 | 12 | 
 | 2023-01-01 | 302 | 10 | 
 | 2022-12-31 | 301 | 10 | 
 | 2022-12-30 | 301 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-08 | 292 | 10 | 
 | 2022-12-06 | 291 | 10 | 
 | 2022-12-05 | 290 | 10 | 
-| 2022-12-03 | 290 | 10 | 
 

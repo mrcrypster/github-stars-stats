@@ -1,10 +1,10 @@
 # goatshriek/stumpless - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 117
 
-★ Stars: 271
+★ Stars: 274
 
 [Open repository](https://github.com/goatshriek/stumpless)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 274 | 117 | 
 | 2023-01-01 | 271 | 117 | 
 | 2022-12-31 | 269 | 117 | 
 | 2022-12-30 | 268 | 117 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 212 | 97 | 
 | 2022-12-05 | 209 | 96 | 
 | 2022-12-04 | 209 | 96 | 
-| 2022-12-03 | 204 | 96 | 
 

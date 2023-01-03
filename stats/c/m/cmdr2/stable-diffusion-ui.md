@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 02
 
 ☋ Forks: 283
 
-★ Stars: 3560
+★ Stars: 3562
 
 [Open repository](https://github.com/cmdr2/stable-diffusion-ui)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-02 | 3560 | 283 | 
+| 2023-01-02 | 3562 | 283 | 
 | 2023-01-01 | 3556 | 283 | 
 | 2022-12-31 | 3539 | 279 | 
 | 2022-12-30 | 3519 | 277 | 
@@ -40,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-07 | 2986 | 244 | 
 | 2022-12-06 | 2966 | 239 | 
 | 2022-12-04 | 2937 | 238 | 
-| 2022-12-03 | 2918 | 237 | 
 

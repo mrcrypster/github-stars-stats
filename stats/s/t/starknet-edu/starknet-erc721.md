@@ -1,6 +1,6 @@
 # starknet-edu/starknet-erc721 - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 46 | 33 | 
 | 2023-01-01 | 46 | 33 | 
 | 2022-12-31 | 46 | 33 | 
 | 2022-12-30 | 44 | 33 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 41 | 32 | 
 | 2022-12-06 | 41 | 32 | 
 | 2022-12-04 | 41 | 32 | 
-| 2022-12-03 | 41 | 32 | 
 

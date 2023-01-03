@@ -1,10 +1,10 @@
 # ubuntu/yaru - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 177
 
-★ Stars: 1155
+★ Stars: 1156
 
 [Open repository](https://github.com/ubuntu/yaru)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 1156 | 177 | 
 | 2023-01-01 | 1155 | 177 | 
 | 2022-12-31 | 1155 | 176 | 
 | 2022-12-30 | 1154 | 176 | 

@@ -1,6 +1,6 @@
 # ml874/Data-Engineering-on-GCP-Cheatsheet - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 294
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 668 | 294 | 
 | 2023-01-01 | 668 | 294 | 
 | 2022-12-31 | 668 | 294 | 
 | 2022-12-30 | 668 | 294 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 665 | 293 | 
 | 2022-12-06 | 657 | 293 | 
 | 2022-12-04 | 657 | 293 | 
-| 2022-12-03 | 657 | 293 | 
 

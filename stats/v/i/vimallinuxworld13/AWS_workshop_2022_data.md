@@ -1,8 +1,8 @@
 # vimallinuxworld13/AWS_workshop_2022_data - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 112
+☋ Forks: 113
 
 ★ Stars: 84
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 84 | 113 | 
 | 2023-01-01 | 84 | 112 | 
 | 2022-12-31 | 84 | 112 | 
 | 2022-12-30 | 84 | 112 | 

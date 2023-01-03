@@ -1,8 +1,8 @@
 # web-standards-ru/dictionary - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 564
+☋ Forks: 565
 
 ★ Stars: 1990
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 1990 | 565 | 
 | 2023-01-02 | 1990 | 564 | 
 | 2022-12-31 | 1989 | 563 | 
 | 2022-12-30 | 1989 | 563 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-07 | 1981 | 561 | 
 | 2022-12-05 | 1981 | 561 | 
 | 2022-12-04 | 1980 | 561 | 
-| 2022-12-03 | 1981 | 561 | 
 

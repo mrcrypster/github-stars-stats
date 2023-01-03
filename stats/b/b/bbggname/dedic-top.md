@@ -1,6 +1,6 @@
 # bbggname/dedic-top - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 180
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 2 | 180 | 
 | 2023-01-01 | 2 | 180 | 
 | 2022-12-31 | 2 | 179 | 
 | 2022-12-30 | 2 | 179 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 2 | 168 | 
 | 2022-12-06 | 2 | 167 | 
 | 2022-12-05 | 2 | 164 | 
-| 2022-12-03 | 2 | 160 | 
 

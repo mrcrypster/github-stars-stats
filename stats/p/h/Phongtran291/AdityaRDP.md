@@ -1,6 +1,6 @@
 # Phongtran291/AdityaRDP - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | - | 53 | 
 | 2023-01-01 | - | 53 | 
 | 2022-12-31 | - | 52 | 
 | 2022-12-30 | - | 51 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | - | 43 | 
 | 2022-12-06 | - | 43 | 
 | 2022-12-04 | - | 43 | 
-| 2022-12-03 | - | 43 | 
 

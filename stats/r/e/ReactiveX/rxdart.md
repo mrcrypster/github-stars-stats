@@ -1,6 +1,6 @@
 # ReactiveX/rxdart - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 267
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 3201 | 267 | 
 | 2023-01-01 | 3201 | 267 | 
 | 2022-12-31 | 3201 | 267 | 
 | 2022-12-30 | 3201 | 266 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 3195 | 266 | 
 | 2022-12-06 | 3195 | 267 | 
 | 2022-12-04 | 3195 | 267 | 
-| 2022-12-03 | 3195 | 267 | 
 

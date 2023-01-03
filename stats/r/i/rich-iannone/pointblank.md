@@ -1,6 +1,6 @@
 # rich-iannone/pointblank - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 699 | 38 | 
 | 2023-01-01 | 699 | 38 | 
 | 2022-12-31 | 699 | 38 | 
 | 2022-12-30 | 699 | 38 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 697 | 38 | 
 | 2022-12-06 | 697 | 38 | 
 | 2022-12-04 | 697 | 38 | 
-| 2022-12-03 | 696 | 38 | 
 

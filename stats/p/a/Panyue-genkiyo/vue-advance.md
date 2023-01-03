@@ -1,6 +1,6 @@
 # Panyue-genkiyo/vue-advance - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 139
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 177 | 139 | 
 | 2023-01-01 | 177 | 139 | 
 | 2022-12-31 | 177 | 139 | 
 | 2022-12-30 | 176 | 138 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-08 | 175 | 132 | 
 | 2022-12-06 | 175 | 132 | 
 | 2022-12-05 | 173 | 132 | 
-| 2022-12-04 | 171 | 132 | 
 

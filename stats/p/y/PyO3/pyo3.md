@@ -1,10 +1,10 @@
 # PyO3/pyo3 - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 476
+☋ Forks: 477
 
-★ Stars: 7167
+★ Stars: 7171
 
 [Open repository](https://github.com/PyO3/pyo3)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 7171 | 477 | 
 | 2023-01-01 | 7167 | 476 | 
 | 2022-12-31 | 7167 | 476 | 
 | 2022-12-30 | 7162 | 476 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 7013 | 470 | 
 | 2022-12-06 | 7007 | 470 | 
 | 2022-12-05 | 6998 | 470 | 
-| 2022-12-03 | 6993 | 470 | 
 

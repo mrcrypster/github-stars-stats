@@ -1,6 +1,6 @@
 # sacfiscal/Delphiscal - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 64 | 26 | 
 | 2023-01-01 | 64 | 26 | 
 | 2022-12-31 | 64 | 26 | 
 | 2022-12-30 | 64 | 26 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 63 | 25 | 
 | 2022-12-06 | 63 | 26 | 
 | 2022-12-04 | 63 | 26 | 
-| 2022-12-03 | 63 | 26 | 
 

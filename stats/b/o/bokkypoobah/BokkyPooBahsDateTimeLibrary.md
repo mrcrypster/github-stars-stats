@@ -1,6 +1,6 @@
 # bokkypoobah/BokkyPooBahsDateTimeLibrary - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 295 | 75 | 
 | 2023-01-01 | 295 | 75 | 
 | 2022-12-31 | 295 | 75 | 
 | 2022-12-30 | 295 | 75 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 289 | 73 | 
 | 2022-12-05 | 289 | 73 | 
 | 2022-12-04 | 289 | 73 | 
-| 2022-12-03 | 289 | 73 | 
 

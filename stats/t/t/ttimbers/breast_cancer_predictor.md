@@ -1,6 +1,6 @@
 # ttimbers/breast_cancer_predictor - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 4 | 32 | 
 | 2023-01-01 | 4 | 32 | 
 | 2022-12-31 | 4 | 32 | 
 | 2022-12-30 | 4 | 32 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 4 | 32 | 
 | 2022-12-06 | 4 | 32 | 
 | 2022-12-04 | 4 | 31 | 
-| 2022-12-03 | 4 | 31 | 
 

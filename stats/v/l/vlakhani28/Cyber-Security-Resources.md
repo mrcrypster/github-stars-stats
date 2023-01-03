@@ -1,10 +1,10 @@
 # vlakhani28/Cyber-Security-Resources - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 40
+☋ Forks: 41
 
-★ Stars: 167
+★ Stars: 168
 
 [Open repository](https://github.com/vlakhani28/Cyber-Security-Resources)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 168 | 41 | 
 | 2023-01-02 | 167 | 40 | 
 | 2022-12-31 | 167 | 40 | 
 | 2022-12-30 | 167 | 40 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 166 | 40 | 
 | 2022-12-06 | 165 | 40 | 
 | 2022-12-05 | 165 | 40 | 
-| 2022-12-03 | 165 | 40 | 
 

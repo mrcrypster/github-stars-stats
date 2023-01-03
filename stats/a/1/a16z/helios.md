@@ -1,10 +1,10 @@
 # a16z/helios - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 94
 
-★ Stars: 1176
+★ Stars: 1177
 
 [Open repository](https://github.com/a16z/helios)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 1177 | 94 | 
 | 2023-01-01 | 1176 | 94 | 
 | 2022-12-31 | 1177 | 94 | 
 | 2022-12-30 | 1174 | 94 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 1114 | 82 | 
 | 2022-12-06 | 1105 | 83 | 
 | 2022-12-04 | 1099 | 82 | 
-| 2022-12-03 | 1096 | 82 | 
 

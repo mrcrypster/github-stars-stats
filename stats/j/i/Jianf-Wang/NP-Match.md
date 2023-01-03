@@ -1,6 +1,6 @@
 # Jianf-Wang/NP-Match - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 123 | 19 | 
 | 2023-01-01 | 123 | 19 | 
 | 2022-12-31 | 123 | 19 | 
 | 2022-12-30 | 123 | 19 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 123 | 18 | 
 | 2022-12-06 | 123 | 18 | 
 | 2022-12-05 | 123 | 18 | 
-| 2022-12-03 | 122 | 18 | 
 

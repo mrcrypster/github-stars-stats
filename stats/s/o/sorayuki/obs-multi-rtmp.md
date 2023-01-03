@@ -1,6 +1,6 @@
 # sorayuki/obs-multi-rtmp - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 332
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 1803 | 332 | 
 | 2023-01-01 | 1803 | 332 | 
 | 2022-12-31 | 1801 | 332 | 
 | 2022-12-30 | 1798 | 331 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 1762 | 326 | 
 | 2022-12-06 | 1758 | 326 | 
 | 2022-12-05 | 1756 | 326 | 
-| 2022-12-03 | 1754 | 326 | 
 

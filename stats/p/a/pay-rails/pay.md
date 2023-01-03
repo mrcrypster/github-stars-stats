@@ -1,6 +1,6 @@
 # pay-rails/pay - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 222
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 1470 | 222 | 
 | 2023-01-01 | 1470 | 222 | 
 | 2022-12-31 | 1470 | 222 | 
 | 2022-12-30 | 1470 | 222 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 1451 | 218 | 
 | 2022-12-05 | 1448 | 218 | 
 | 2022-12-04 | 1444 | 218 | 
-| 2022-12-03 | 1442 | 218 | 
 

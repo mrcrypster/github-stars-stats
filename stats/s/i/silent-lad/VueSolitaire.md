@@ -1,8 +1,8 @@
 # silent-lad/VueSolitaire - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 580
+☋ Forks: 581
 
 ★ Stars: 121
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 121 | 581 | 
 | 2023-01-01 | 121 | 580 | 
 | 2022-12-31 | 121 | 580 | 
 | 2022-12-30 | 121 | 579 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 121 | 575 | 
 | 2022-12-05 | 121 | 576 | 
 | 2022-12-04 | 121 | 576 | 
-| 2022-12-03 | 120 | 577 | 
 

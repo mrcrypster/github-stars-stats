@@ -1,10 +1,10 @@
 # openhab/openhab-addons - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 3318
+☋ Forks: 3320
 
-★ Stars: 1708
+★ Stars: 1709
 
 [Open repository](https://github.com/openhab/openhab-addons)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 1709 | 3320 | 
 | 2023-01-01 | 1708 | 3318 | 
 | 2022-12-31 | 1707 | 3317 | 
 | 2022-12-30 | 1706 | 3316 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 1698 | 3302 | 
 | 2022-12-06 | 1698 | 3301 | 
 | 2022-12-05 | 1698 | 3301 | 
-| 2022-12-03 | 1698 | 3299 | 
 

@@ -1,10 +1,10 @@
 # JuliaSmoothOptimizers/PDENLPModels.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 5
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/JuliaSmoothOptimizers/PDENLPModels.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 18 | 5 | 
 | 2023-01-01 | 17 | 5 | 
 | 2022-12-31 | 17 | 5 | 
 | 2022-12-30 | 17 | 5 | 

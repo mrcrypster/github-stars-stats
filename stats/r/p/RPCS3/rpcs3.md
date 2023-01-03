@@ -1,10 +1,10 @@
 # RPCS3/rpcs3 - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 03
 
-☋ Forks: 1721
+☋ Forks: 1723
 
-★ Stars: 12050
+★ Stars: 12062
 
 [Open repository](https://github.com/RPCS3/rpcs3)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 12062 | 1723 | 
+| 2023-01-02 | 12060 | 1723 | 
 | 2023-01-01 | 12050 | 1721 | 
 | 2022-12-31 | 12040 | 1721 | 
 | 2022-12-30 | 12032 | 1721 | 
@@ -40,5 +42,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 11921 | 1713 | 
 | 2022-12-06 | 11917 | 1714 | 
 | 2022-12-04 | 11906 | 1714 | 
-| 2022-12-03 | 11900 | 1715 | 
 

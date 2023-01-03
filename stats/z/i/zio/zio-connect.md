@@ -1,6 +1,6 @@
 # zio/zio-connect - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 28 | 19 | 
 | 2023-01-01 | 28 | 19 | 
 | 2022-12-31 | 28 | 19 | 
 | 2022-12-30 | 28 | 19 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 27 | 19 | 
 | 2022-12-05 | 27 | 19 | 
 | 2022-12-04 | 27 | 19 | 
-| 2022-12-03 | 27 | 19 | 
 

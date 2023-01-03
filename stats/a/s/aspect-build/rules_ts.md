@@ -1,6 +1,6 @@
 # aspect-build/rules_ts - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 37 | 18 | 
 | 2023-01-01 | 37 | 18 | 
 | 2022-12-31 | 37 | 18 | 
 | 2022-12-30 | 37 | 18 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 37 | 17 | 
 | 2022-12-06 | 37 | 17 | 
 | 2022-12-05 | 36 | 16 | 
-| 2022-12-03 | 36 | 16 | 
 

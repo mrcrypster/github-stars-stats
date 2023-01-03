@@ -1,10 +1,10 @@
 # adrianfilip/reservation-booker - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 9
 
-★ Stars: 37
+★ Stars: 38
 
 [Open repository](https://github.com/adrianfilip/reservation-booker)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 38 | 9 | 
 | 2023-01-01 | 37 | 9 | 
 | 2022-12-31 | 37 | 9 | 
 | 2022-12-30 | 37 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 35 | 9 | 
 | 2022-12-05 | 35 | 9 | 
 | 2022-12-04 | 35 | 9 | 
-| 2022-12-03 | 35 | 9 | 
 

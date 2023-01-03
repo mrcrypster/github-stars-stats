@@ -1,6 +1,6 @@
 # next-step/infra-subway-stable - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | - | 19 | 
 | 2023-01-01 | - | 19 | 
 | 2022-12-31 | - | 19 | 
 | 2022-12-30 | - | 19 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-08 | - | 19 | 
 | 2022-12-06 | - | 19 | 
 | 2022-12-05 | - | 19 | 
-| 2022-12-03 | - | 19 | 
 

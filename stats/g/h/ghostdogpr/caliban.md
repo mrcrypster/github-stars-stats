@@ -1,8 +1,8 @@
 # ghostdogpr/caliban - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 206
+☋ Forks: 207
 
 ★ Stars: 839
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 839 | 207 | 
 | 2023-01-01 | 839 | 206 | 
 | 2022-12-31 | 839 | 206 | 
 | 2022-12-30 | 839 | 206 | 

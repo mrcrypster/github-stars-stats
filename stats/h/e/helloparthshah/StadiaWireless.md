@@ -1,10 +1,10 @@
 # helloparthshah/StadiaWireless - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 24
 
-★ Stars: 434
+★ Stars: 437
 
 [Open repository](https://github.com/helloparthshah/StadiaWireless)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 437 | 24 | 
 | 2023-01-01 | 434 | 24 | 
 | 2022-12-31 | 431 | 23 | 
 | 2022-12-30 | 427 | 23 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 376 | 23 | 
 | 2022-12-06 | 374 | 23 | 
 | 2022-12-04 | 370 | 23 | 
-| 2022-12-03 | 366 | 23 | 
 

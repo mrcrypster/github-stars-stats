@@ -1,6 +1,6 @@
 # tobydriscoll/EigenShow.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 24 | 1 | 
 | 2023-01-01 | 24 | 1 | 
 | 2022-12-31 | 24 | 1 | 
 | 2022-12-30 | 24 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 24 | 1 | 
 | 2022-12-05 | 24 | 1 | 
 | 2022-12-04 | 24 | 1 | 
-| 2022-12-03 | 24 | 1 | 
 

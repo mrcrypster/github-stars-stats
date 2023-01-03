@@ -1,6 +1,6 @@
 # gaucho-matrero/altoclef - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 105
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 381 | 105 | 
 | 2023-01-01 | 381 | 105 | 
 | 2022-12-31 | 380 | 104 | 
 | 2022-12-30 | 379 | 103 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 359 | 97 | 
 | 2022-12-05 | 351 | 97 | 
 | 2022-12-04 | 348 | 97 | 
-| 2022-12-03 | 345 | 97 | 
 

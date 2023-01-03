@@ -1,10 +1,10 @@
 # keystonejs/keystone - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 939
 
-★ Stars: 7331
+★ Stars: 7335
 
 [Open repository](https://github.com/keystonejs/keystone)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 7335 | 939 | 
 | 2023-01-01 | 7331 | 939 | 
 | 2022-12-31 | 7330 | 939 | 
 | 2022-12-30 | 7329 | 939 | 

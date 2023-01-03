@@ -1,8 +1,8 @@
 # fatih-yavuz/my-links - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 110
+☋ Forks: 111
 
 ★ Stars: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 10 | 111 | 
 | 2023-01-01 | 10 | 110 | 
 | 2022-12-31 | 10 | 108 | 
 | 2022-12-30 | 10 | 107 | 

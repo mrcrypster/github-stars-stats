@@ -1,10 +1,10 @@
 # amitshekhariitbhu/android-interview-questions - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 2018
+☋ Forks: 2019
 
-★ Stars: 9589
+★ Stars: 9595
 
 [Open repository](https://github.com/amitshekhariitbhu/android-interview-questions)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 9595 | 2019 | 
 | 2023-01-01 | 9589 | 2018 | 
 | 2022-12-31 | 9588 | 2018 | 
 | 2022-12-30 | 9587 | 2018 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 9515 | 2006 | 
 | 2022-12-06 | 9511 | 2005 | 
 | 2022-12-04 | 9481 | 1999 | 
-| 2022-12-03 | 9478 | 1998 | 
 

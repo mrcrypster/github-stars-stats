@@ -1,6 +1,6 @@
 # autowarefoundation/sample_vehicle_launch - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 12
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 4 | 12 | 
+| 2023-01-02 | 4 | 12 | 
 | 2023-01-01 | 4 | 12 | 
 | 2022-12-31 | 4 | 11 | 
 | 2022-12-30 | 4 | 11 | 
@@ -40,5 +42,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 4 | 9 | 
 | 2022-12-06 | 4 | 9 | 
 | 2022-12-04 | 4 | 9 | 
-| 2022-12-03 | 4 | 9 | 
 

@@ -1,6 +1,6 @@
 # jamestthompson3/nvim-remote-containers - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 478 | 10 | 
 | 2023-01-01 | 478 | 10 | 
 | 2022-12-31 | 477 | 10 | 
 | 2022-12-30 | 476 | 10 | 

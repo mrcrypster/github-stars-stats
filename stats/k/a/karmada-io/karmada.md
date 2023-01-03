@@ -1,10 +1,10 @@
 # karmada-io/karmada - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 572
 
-★ Stars: 2960
+★ Stars: 2959
 
 [Open repository](https://github.com/karmada-io/karmada)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 2959 | 572 | 
 | 2023-01-01 | 2960 | 572 | 
 | 2022-12-31 | 2960 | 572 | 
 | 2022-12-30 | 2959 | 572 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 2898 | 556 | 
 | 2022-12-06 | 2897 | 556 | 
 | 2022-12-04 | 2883 | 553 | 
-| 2022-12-03 | 2872 | 552 | 
 

@@ -1,6 +1,6 @@
 # CriticalFlaw/flawhud - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 124 | 21 | 
 | 2023-01-02 | 124 | 21 | 
 | 2022-12-31 | 124 | 21 | 
 | 2022-12-30 | 124 | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-07 | 123 | 22 | 
 | 2022-12-05 | 122 | 22 | 
 | 2022-12-04 | 122 | 22 | 
-| 2022-12-03 | 122 | 21 | 
 

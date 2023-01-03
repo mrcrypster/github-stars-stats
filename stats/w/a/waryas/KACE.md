@@ -1,10 +1,10 @@
 # waryas/KACE - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 54
 
-★ Stars: 171
+★ Stars: 172
 
 [Open repository](https://github.com/waryas/KACE)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 172 | 54 | 
 | 2023-01-01 | 171 | 54 | 
 | 2022-12-31 | 171 | 54 | 
 | 2022-12-30 | 171 | 54 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 168 | 53 | 
 | 2022-12-05 | 168 | 53 | 
 | 2022-12-04 | 168 | 53 | 
-| 2022-12-03 | 168 | 53 | 
 

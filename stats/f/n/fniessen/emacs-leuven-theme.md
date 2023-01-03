@@ -1,6 +1,6 @@
 # fniessen/emacs-leuven-theme - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 519 | 58 | 
 | 2023-01-01 | 519 | 58 | 
 | 2022-12-31 | 519 | 58 | 
 | 2022-12-30 | 519 | 58 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 505 | 58 | 
 | 2022-12-06 | 505 | 58 | 
 | 2022-12-05 | 505 | 58 | 
-| 2022-12-03 | 505 | 58 | 
 

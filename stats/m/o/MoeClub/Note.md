@@ -1,6 +1,6 @@
 # MoeClub/Note - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 302
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 543 | 302 | 
 | 2023-01-01 | 543 | 302 | 
 | 2022-12-31 | 544 | 302 | 
 | 2022-12-30 | 543 | 302 | 

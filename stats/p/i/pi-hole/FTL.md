@@ -1,10 +1,10 @@
 # pi-hole/FTL - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 179
 
-★ Stars: 1133
+★ Stars: 1134
 
 [Open repository](https://github.com/pi-hole/FTL)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 1134 | 179 | 
 | 2023-01-01 | 1133 | 179 | 
 | 2022-12-31 | 1133 | 179 | 
 | 2022-12-30 | 1131 | 179 | 

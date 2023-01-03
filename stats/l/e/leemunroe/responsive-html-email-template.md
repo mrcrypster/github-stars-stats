@@ -1,10 +1,10 @@
 # leemunroe/responsive-html-email-template - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 4238
+☋ Forks: 4240
 
-★ Stars: 11820
+★ Stars: 11823
 
 [Open repository](https://github.com/leemunroe/responsive-html-email-template)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 11823 | 4240 | 
 | 2023-01-01 | 11820 | 4238 | 
 | 2022-12-31 | 11820 | 4238 | 
 | 2022-12-30 | 11820 | 4237 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 11768 | 4225 | 
 | 2022-12-06 | 11764 | 4224 | 
 | 2022-12-04 | 11759 | 4223 | 
-| 2022-12-03 | 11757 | 4222 | 
 

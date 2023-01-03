@@ -1,6 +1,6 @@
 # budde25/switcheroo - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 35 | 3 | 
 | 2023-01-01 | 35 | 3 | 
 | 2022-12-31 | 35 | 3 | 
 | 2022-12-30 | 35 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-08 | 35 | 3 | 
 | 2022-12-06 | 35 | 3 | 
 | 2022-12-05 | 35 | 3 | 
-| 2022-12-03 | 35 | 3 | 
 

@@ -1,6 +1,6 @@
 # microsoft/PowerShell-FeatureFlags - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 16 | 10 | 
 | 2023-01-01 | 16 | 10 | 
 | 2022-12-31 | 16 | 10 | 
 | 2022-12-30 | 16 | 10 | 
@@ -38,5 +39,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-08 | 16 | 10 | 
 | 2022-12-06 | 16 | 10 | 
 | 2022-12-05 | 16 | 10 | 
-| 2022-12-04 | 16 | 10 | 
 

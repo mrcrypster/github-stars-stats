@@ -1,10 +1,10 @@
 # dragoonDorise/EmuDeck - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 98
+☋ Forks: 99
 
-★ Stars: 1243
+★ Stars: 1252
 
 [Open repository](https://github.com/dragoonDorise/EmuDeck)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 1252 | 99 | 
 | 2023-01-01 | 1243 | 98 | 
 | 2022-12-31 | 1238 | 97 | 
 | 2022-12-30 | 1234 | 97 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 1143 | 93 | 
 | 2022-12-06 | 1142 | 93 | 
 | 2022-12-04 | 1136 | 93 | 
-| 2022-12-03 | 1130 | 93 | 
 

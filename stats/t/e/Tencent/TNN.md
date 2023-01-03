@@ -1,8 +1,8 @@
 # Tencent/TNN - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 690
+☋ Forks: 691
 
 ★ Stars: 3803
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 3803 | 691 | 
 | 2023-01-01 | 3803 | 690 | 
 | 2022-12-31 | 3803 | 690 | 
 | 2022-12-30 | 3802 | 690 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 3768 | 689 | 
 | 2022-12-05 | 3764 | 689 | 
 | 2022-12-04 | 3762 | 689 | 
-| 2022-12-03 | 3762 | 689 | 
 

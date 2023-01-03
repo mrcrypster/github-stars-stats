@@ -1,6 +1,6 @@
 # NCAR/wrf_hydro_nwm_public - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 119
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 129 | 119 | 
 | 2023-01-01 | 129 | 119 | 
 | 2022-12-31 | 129 | 119 | 
 | 2022-12-30 | 129 | 119 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 127 | 119 | 
 | 2022-12-06 | 127 | 119 | 
 | 2022-12-04 | 127 | 119 | 
-| 2022-12-03 | 127 | 119 | 
 

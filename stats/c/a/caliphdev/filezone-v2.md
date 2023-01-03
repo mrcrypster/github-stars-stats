@@ -1,8 +1,8 @@
 # caliphdev/filezone-v2 - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 10
+☋ Forks: 11
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 5 | 11 | 
 | 2023-01-01 | 5 | 10 | 
 | 2022-12-31 | 5 | 10 | 
 | 2022-12-30 | 5 | 10 | 

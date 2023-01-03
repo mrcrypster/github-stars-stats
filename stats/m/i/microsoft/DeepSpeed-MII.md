@@ -1,10 +1,10 @@
 # microsoft/DeepSpeed-MII - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 37
+☋ Forks: 38
 
-★ Stars: 411
+★ Stars: 413
 
 [Open repository](https://github.com/microsoft/DeepSpeed-MII)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 413 | 38 | 
 | 2023-01-01 | 411 | 37 | 
 | 2022-12-31 | 410 | 37 | 
 | 2022-12-30 | 404 | 36 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 374 | 33 | 
 | 2022-12-05 | 373 | 33 | 
 | 2022-12-04 | 373 | 33 | 
-| 2022-12-03 | 372 | 33 | 
 

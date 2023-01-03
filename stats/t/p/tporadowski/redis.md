@@ -1,6 +1,6 @@
 # tporadowski/redis - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 901
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 6346 | 901 | 
 | 2023-01-01 | 6346 | 901 | 
 | 2022-12-31 | 6342 | 901 | 
 | 2022-12-30 | 6341 | 901 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 6237 | 890 | 
 | 2022-12-06 | 6232 | 891 | 
 | 2022-12-04 | 6220 | 891 | 
-| 2022-12-03 | 6216 | 891 | 
 

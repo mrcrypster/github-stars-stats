@@ -1,10 +1,10 @@
 # stolostron/rhacm-docs - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 71
 
-★ Stars: 48
+★ Stars: 49
 
 [Open repository](https://github.com/stolostron/rhacm-docs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 49 | 71 | 
 | 2023-01-01 | 48 | 71 | 
 | 2022-12-31 | 48 | 71 | 
 | 2022-12-30 | 48 | 71 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 48 | 66 | 
 | 2022-12-05 | 48 | 66 | 
 | 2022-12-04 | 48 | 66 | 
-| 2022-12-03 | 48 | 66 | 
 

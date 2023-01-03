@@ -1,10 +1,10 @@
 # twilio/twilio-php - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 540
 
-★ Stars: 1388
+★ Stars: 1389
 
 [Open repository](https://github.com/twilio/twilio-php)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 1389 | 540 | 
 | 2023-01-01 | 1388 | 540 | 
 | 2022-12-31 | 1388 | 540 | 
 | 2022-12-30 | 1388 | 540 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 1387 | 540 | 
 | 2022-12-05 | 1387 | 540 | 
 | 2022-12-04 | 1386 | 540 | 
-| 2022-12-03 | 1386 | 540 | 
 

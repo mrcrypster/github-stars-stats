@@ -1,8 +1,8 @@
 # RenanJPaula/acompanhamento-realtime-copa-mundo-2022 - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 19
+☋ Forks: 18
 
 ★ Stars: 21
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 21 | 18 | 
 | 2023-01-02 | 21 | 19 | 
 | 2023-01-01 | 21 | 19 | 
 | 2022-12-31 | 21 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-07 | 22 | 20 | 
 | 2022-12-05 | 22 | 20 | 
 | 2022-12-04 | 22 | 20 | 
-| 2022-12-03 | 22 | 20 | 
 

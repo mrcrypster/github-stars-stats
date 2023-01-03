@@ -1,6 +1,6 @@
 # jeffheaton/t81_558_deep_learning - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 2748
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 5037 | 2748 | 
 | 2023-01-01 | 5037 | 2748 | 
 | 2022-12-31 | 5035 | 2747 | 
 | 2022-12-30 | 5034 | 2743 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 4980 | 2710 | 
 | 2022-12-05 | 4979 | 2710 | 
 | 2022-12-04 | 4977 | 2709 | 
-| 2022-12-03 | 4972 | 2703 | 
 

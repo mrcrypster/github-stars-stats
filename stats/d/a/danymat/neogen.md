@@ -1,10 +1,10 @@
 # danymat/neogen - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 40
 
-★ Stars: 652
+★ Stars: 653
 
 [Open repository](https://github.com/danymat/neogen)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 653 | 40 | 
 | 2023-01-01 | 652 | 40 | 
 | 2022-12-31 | 652 | 40 | 
 | 2022-12-30 | 652 | 40 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-08 | 599 | 39 | 
 | 2022-12-06 | 597 | 39 | 
 | 2022-12-05 | 594 | 39 | 
-| 2022-12-04 | 593 | 39 | 
 

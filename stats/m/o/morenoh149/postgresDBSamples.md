@@ -1,6 +1,6 @@
 # morenoh149/postgresDBSamples - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 150
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 273 | 150 | 
 | 2023-01-01 | 273 | 150 | 
 | 2022-12-31 | 273 | 150 | 
 | 2022-12-30 | 273 | 150 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 267 | 143 | 
 | 2022-12-06 | 266 | 142 | 
 | 2022-12-05 | 264 | 142 | 
-| 2022-12-03 | 263 | 142 | 
 

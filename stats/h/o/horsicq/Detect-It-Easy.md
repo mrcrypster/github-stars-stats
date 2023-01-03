@@ -1,10 +1,10 @@
 # horsicq/Detect-It-Easy - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 539
 
-★ Stars: 4519
+★ Stars: 4527
 
 [Open repository](https://github.com/horsicq/Detect-It-Easy)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 4527 | 539 | 
 | 2023-01-01 | 4519 | 539 | 
 | 2022-12-31 | 4515 | 539 | 
 | 2022-12-30 | 4514 | 538 | 

@@ -1,10 +1,10 @@
 # yankovalenko94/Webdev2019 - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 764
 
-★ Stars: 219
+★ Stars: 218
 
 [Open repository](https://github.com/yankovalenko94/Webdev2019)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 218 | 764 | 
 | 2023-01-01 | 219 | 764 | 
 | 2022-12-31 | 219 | 764 | 
 | 2022-12-30 | 219 | 764 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 218 | 749 | 
 | 2022-12-06 | 218 | 748 | 
 | 2022-12-04 | 217 | 751 | 
-| 2022-12-03 | 217 | 753 | 
 

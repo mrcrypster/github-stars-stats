@@ -1,10 +1,10 @@
 # DeadlyBossMods/DBM-Retail - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 53
 
-★ Stars: 190
+★ Stars: 192
 
 [Open repository](https://github.com/DeadlyBossMods/DBM-Retail)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 192 | 53 | 
 | 2023-01-01 | 190 | 53 | 
 | 2022-12-31 | 190 | 53 | 
 | 2022-12-30 | 190 | 53 | 
@@ -38,5 +39,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-08 | 187 | 52 | 
 | 2022-12-06 | 187 | 52 | 
 | 2022-12-05 | 187 | 52 | 
-| 2022-12-03 | 187 | 52 | 
 

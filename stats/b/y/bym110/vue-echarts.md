@@ -1,6 +1,6 @@
 # bym110/vue-echarts - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 110
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 338 | 110 | 
 | 2023-01-01 | 338 | 110 | 
 | 2022-12-31 | 338 | 110 | 
 | 2022-12-30 | 339 | 110 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-08 | 328 | 107 | 
 | 2022-12-06 | 324 | 107 | 
 | 2022-12-05 | 320 | 107 | 
-| 2022-12-03 | 320 | 107 | 
 

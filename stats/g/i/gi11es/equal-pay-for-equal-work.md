@@ -1,6 +1,6 @@
 # gi11es/equal-pay-for-equal-work - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 425 | 9 | 
 | 2023-01-01 | 425 | 9 | 
 | 2022-12-31 | 425 | 9 | 
 | 2022-12-30 | 425 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 421 | 9 | 
 | 2022-12-06 | 419 | 9 | 
 | 2022-12-04 | 419 | 9 | 
-| 2022-12-03 | 419 | 9 | 
 

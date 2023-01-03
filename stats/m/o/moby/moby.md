@@ -1,8 +1,8 @@
 # moby/moby - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 18437
+☋ Forks: 18441
 
 ★ Stars: 64829
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 64829 | 18441 | 
 | 2023-01-01 | 64829 | 18437 | 
 | 2022-12-31 | 64827 | 18436 | 
 | 2022-12-30 | 64825 | 18431 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 64650 | 18391 | 
 | 2022-12-06 | 64649 | 18389 | 
 | 2022-12-04 | 64645 | 18389 | 
-| 2022-12-03 | 64639 | 18385 | 
 

@@ -1,8 +1,8 @@
 # rfzeg/virtual_racetracks_collection - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 24
+☋ Forks: 25
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | - | 25 | 
 | 2023-01-01 | - | 24 | 
 | 2022-12-31 | - | 24 | 
 | 2022-12-30 | - | 24 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | - | 18 | 
 | 2022-12-06 | - | 18 | 
 | 2022-12-04 | - | 18 | 
-| 2022-12-03 | - | 18 | 
 

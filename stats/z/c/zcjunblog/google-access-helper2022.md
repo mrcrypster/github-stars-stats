@@ -1,6 +1,6 @@
 # zcjunblog/google-access-helper2022 - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 165
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 366 | 165 | 
 | 2023-01-01 | 366 | 165 | 
 | 2022-12-31 | 366 | 165 | 
 | 2022-12-30 | 366 | 165 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 363 | 163 | 
 | 2022-12-05 | 362 | 163 | 
 | 2022-12-04 | 362 | 163 | 
-| 2022-12-03 | 362 | 163 | 
 

@@ -1,10 +1,10 @@
 # anil-yelken/cyber-security-tools - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 111
 
-★ Stars: 1025
+★ Stars: 1026
 
 [Open repository](https://github.com/anil-yelken/cyber-security-tools)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 1026 | 111 | 
 | 2023-01-01 | 1025 | 111 | 
 | 2022-12-31 | 1025 | 111 | 
 | 2022-12-30 | 1025 | 111 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 1012 | 110 | 
 | 2022-12-05 | 1012 | 110 | 
 | 2022-12-04 | 1012 | 110 | 
-| 2022-12-03 | 1010 | 110 | 
 

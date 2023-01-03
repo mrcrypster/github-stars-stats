@@ -1,6 +1,6 @@
 # fujita/rust-e1000 - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 67 | 1 | 
 | 2023-01-01 | 67 | 1 | 
 | 2022-12-31 | 67 | 1 | 
 | 2022-12-30 | 67 | 1 | 
@@ -38,5 +39,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 66 | 1 | 
 | 2022-12-06 | 66 | 1 | 
 | 2022-12-05 | 66 | 1 | 
-| 2022-12-04 | 66 | 1 | 
 

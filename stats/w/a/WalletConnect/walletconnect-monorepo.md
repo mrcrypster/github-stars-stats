@@ -1,6 +1,6 @@
 # WalletConnect/walletconnect-monorepo - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 523
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 997 | 523 | 
 | 2023-01-01 | 997 | 523 | 
 | 2022-12-31 | 997 | 523 | 
 | 2022-12-30 | 997 | 522 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 985 | 518 | 
 | 2022-12-05 | 985 | 518 | 
 | 2022-12-04 | 984 | 518 | 
-| 2022-12-03 | 984 | 518 | 
 

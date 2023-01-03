@@ -1,8 +1,8 @@
 # Zack-Dx/Discord-Clone - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 75
+☋ Forks: 74
 
 ★ Stars: 49
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 49 | 74 | 
 | 2023-01-01 | 49 | 75 | 
 | 2022-12-31 | 49 | 75 | 
 | 2022-12-30 | 49 | 75 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 49 | 75 | 
 | 2022-12-06 | 49 | 75 | 
 | 2022-12-05 | 50 | 75 | 
-| 2022-12-03 | 50 | 75 | 
 

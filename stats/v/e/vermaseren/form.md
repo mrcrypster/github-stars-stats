@@ -1,10 +1,10 @@
 # vermaseren/form - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 03
 
-☋ Forks: 32
+☋ Forks: 33
 
-★ Stars: 328
+★ Stars: 350
 
 [Open repository](https://github.com/vermaseren/form)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 350 | 33 | 
 | 2023-01-01 | 328 | 32 | 
 | 2022-12-31 | 319 | 31 | 
 | 2022-12-30 | 318 | 31 | 

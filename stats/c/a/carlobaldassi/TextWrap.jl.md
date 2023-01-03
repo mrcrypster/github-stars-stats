@@ -1,6 +1,6 @@
 # carlobaldassi/TextWrap.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 12 | 8 | 
 | 2023-01-01 | 12 | 8 | 
 | 2022-12-31 | 12 | 8 | 
 | 2022-12-30 | 12 | 8 | 

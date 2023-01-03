@@ -1,10 +1,10 @@
 # MineDojo/MineDojo - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 52
+☋ Forks: 53
 
-★ Stars: 920
+★ Stars: 921
 
 [Open repository](https://github.com/MineDojo/MineDojo)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 921 | 53 | 
 | 2023-01-02 | 920 | 52 | 
 | 2022-12-31 | 917 | 52 | 
 | 2022-12-30 | 917 | 52 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-06 | 879 | 51 | 
 | 2022-12-05 | 875 | 50 | 
 | 2022-12-04 | 863 | 50 | 
-| 2022-12-03 | 859 | 48 | 
 

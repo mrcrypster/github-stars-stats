@@ -1,6 +1,6 @@
 # unionai/unionoperator - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 4 | 2 | 
 | 2023-01-02 | 4 | 2 | 
 | 2022-12-31 | 4 | 2 | 
 | 2022-12-30 | 4 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 5 | 2 | 
 | 2022-12-07 | 5 | 2 | 
 | 2022-12-05 | 5 | 2 | 
-| 2022-12-04 | 5 | 2 | 
 

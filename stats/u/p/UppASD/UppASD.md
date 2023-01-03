@@ -1,6 +1,6 @@
 # UppASD/UppASD - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 61 | 30 | 
 | 2023-01-01 | 61 | 30 | 
 | 2022-12-31 | 61 | 30 | 
 | 2022-12-30 | 61 | 30 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 60 | 30 | 
 | 2022-12-06 | 60 | 30 | 
 | 2022-12-04 | 60 | 30 | 
-| 2022-12-03 | 60 | 30 | 
 

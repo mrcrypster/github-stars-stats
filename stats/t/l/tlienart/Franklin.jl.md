@@ -1,10 +1,10 @@
 # tlienart/Franklin.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 99
 
-★ Stars: 794
+★ Stars: 796
 
 [Open repository](https://github.com/tlienart/Franklin.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 796 | 99 | 
 | 2023-01-01 | 794 | 99 | 
 | 2022-12-31 | 794 | 99 | 
 | 2022-12-30 | 794 | 98 | 

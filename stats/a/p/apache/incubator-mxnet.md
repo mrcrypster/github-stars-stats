@@ -1,10 +1,10 @@
 # apache/incubator-mxnet - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 6876
+☋ Forks: 6875
 
-★ Stars: 20210
+★ Stars: 20213
 
 [Open repository](https://github.com/apache/incubator-mxnet)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 20213 | 6875 | 
 | 2023-01-01 | 20210 | 6876 | 
 | 2022-12-31 | 20209 | 6876 | 
 | 2022-12-30 | 20210 | 6876 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 20178 | 6877 | 
 | 2022-12-06 | 20176 | 6877 | 
 | 2022-12-04 | 20178 | 6876 | 
-| 2022-12-03 | 20175 | 6876 | 
 

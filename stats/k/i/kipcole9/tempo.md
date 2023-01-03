@@ -1,6 +1,6 @@
 # kipcole9/tempo - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 145 | 3 | 
 | 2023-01-01 | 145 | 3 | 
 | 2022-12-31 | 145 | 3 | 
 | 2022-12-30 | 145 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-08 | 143 | 3 | 
 | 2022-12-06 | 141 | 3 | 
 | 2022-12-05 | 141 | 3 | 
-| 2022-12-03 | 139 | 3 | 
 

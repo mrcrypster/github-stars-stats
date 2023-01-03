@@ -1,8 +1,8 @@
 # 2factorauth/frontend - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 4
+☋ Forks: 5
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 2 | 5 | 
 | 2023-01-01 | 2 | 4 | 
 | 2022-12-31 | 2 | 4 | 
 | 2022-12-30 | 2 | 4 | 

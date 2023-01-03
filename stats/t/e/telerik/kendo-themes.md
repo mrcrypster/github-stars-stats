@@ -1,6 +1,6 @@
 # telerik/kendo-themes - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 115 | 61 | 
 | 2023-01-01 | 115 | 61 | 
 | 2022-12-31 | 115 | 61 | 
 | 2022-12-30 | 115 | 61 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 115 | 61 | 
 | 2022-12-06 | 115 | 62 | 
 | 2022-12-05 | 115 | 62 | 
-| 2022-12-04 | 115 | 62 | 
 

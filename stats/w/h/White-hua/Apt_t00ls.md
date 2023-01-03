@@ -1,6 +1,6 @@
 # White-hua/Apt_t00ls - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 89
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 487 | 89 | 
 | 2023-01-01 | 487 | 89 | 
 | 2022-12-31 | 487 | 89 | 
 | 2022-12-30 | 483 | 89 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 446 | 80 | 
 | 2022-12-06 | 446 | 80 | 
 | 2022-12-05 | 445 | 79 | 
-| 2022-12-03 | 443 | 79 | 
 

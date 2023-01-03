@@ -1,10 +1,10 @@
 # timvisee/ffsend - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 159
 
-★ Stars: 6359
+★ Stars: 6361
 
 [Open repository](https://github.com/timvisee/ffsend)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 6361 | 159 | 
 | 2023-01-01 | 6359 | 159 | 
 | 2022-12-31 | 6359 | 158 | 
 | 2022-12-30 | 6358 | 158 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 6327 | 158 | 
 | 2022-12-05 | 6319 | 158 | 
 | 2022-12-04 | 6312 | 157 | 
-| 2022-12-03 | 6310 | 157 | 
 

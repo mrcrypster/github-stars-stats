@@ -1,6 +1,6 @@
 # maxwells/bootstrap-tags - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 138
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 553 | 138 | 
 | 2023-01-01 | 553 | 138 | 
 | 2022-12-31 | 553 | 138 | 
 | 2022-12-30 | 553 | 138 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 553 | 138 | 
 | 2022-12-06 | 553 | 138 | 
 | 2022-12-04 | 553 | 138 | 
-| 2022-12-03 | 553 | 138 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 02
 
-☋ Forks: 822
+☋ Forks: 823
 
-★ Stars: 3604
+★ Stars: 3608
 
 [Open repository](https://github.com/Rudrabha/Wav2Lip)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-02 | 3604 | 822 | 
+| 2023-01-02 | 3608 | 823 | 
 | 2023-01-01 | 3604 | 822 | 
 | 2022-12-31 | 3601 | 820 | 
 | 2022-12-30 | 3598 | 819 | 
@@ -41,5 +41,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-07 | 3536 | 795 | 
 | 2022-12-05 | 3532 | 795 | 
 | 2022-12-04 | 3530 | 795 | 
-| 2022-12-03 | 3528 | 794 | 
 

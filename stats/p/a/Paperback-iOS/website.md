@@ -1,10 +1,10 @@
 # Paperback-iOS/website - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 90
 
-★ Stars: 50
+★ Stars: 51
 
 [Open repository](https://github.com/Paperback-iOS/website)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 51 | 90 | 
 | 2023-01-01 | 50 | 90 | 
 | 2022-12-31 | 50 | 90 | 
 | 2022-12-30 | 51 | 90 | 

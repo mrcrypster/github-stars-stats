@@ -1,10 +1,10 @@
 # Idov31/Venom - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 32
+☋ Forks: 33
 
-★ Stars: 279
+★ Stars: 280
 
 [Open repository](https://github.com/Idov31/Venom)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 280 | 33 | 
 | 2023-01-01 | 279 | 32 | 
 | 2022-12-31 | 279 | 32 | 
 | 2022-12-30 | 277 | 31 | 

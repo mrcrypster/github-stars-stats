@@ -1,6 +1,6 @@
 # vim-scripts/c.vim - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 69
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 150 | 69 | 
 | 2023-01-01 | 150 | 69 | 
 | 2022-12-31 | 150 | 69 | 
 | 2022-12-30 | 150 | 69 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 151 | 70 | 
 | 2022-12-05 | 151 | 70 | 
 | 2022-12-04 | 151 | 70 | 
-| 2022-12-03 | 151 | 70 | 
 

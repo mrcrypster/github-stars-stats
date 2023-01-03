@@ -1,10 +1,10 @@
 # bambulab/BambuStudio - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 55
 
-★ Stars: 291
+★ Stars: 294
 
 [Open repository](https://github.com/bambulab/BambuStudio)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 294 | 55 | 
 | 2023-01-01 | 291 | 55 | 
 | 2022-12-31 | 290 | 54 | 
 | 2022-12-30 | 288 | 53 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 245 | 43 | 
 | 2022-12-05 | 244 | 43 | 
 | 2022-12-04 | 244 | 44 | 
-| 2022-12-03 | 243 | 44 | 
 

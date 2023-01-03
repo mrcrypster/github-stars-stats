@@ -1,8 +1,8 @@
 # bjornbytes/lovr-docs - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 26
+☋ Forks: 25
 
 ★ Stars: 35
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 35 | 25 | 
 | 2023-01-01 | 35 | 26 | 
 | 2022-12-31 | 35 | 26 | 
 | 2022-12-30 | 35 | 26 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 34 | 26 | 
 | 2022-12-05 | 34 | 26 | 
 | 2022-12-04 | 34 | 26 | 
-| 2022-12-03 | 34 | 26 | 
 

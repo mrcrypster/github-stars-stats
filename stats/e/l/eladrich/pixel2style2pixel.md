@@ -1,6 +1,6 @@
 # eladrich/pixel2style2pixel - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 510
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 2810 | 510 | 
 | 2023-01-01 | 2810 | 510 | 
 | 2022-12-31 | 2810 | 509 | 
 | 2022-12-30 | 2809 | 509 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 2796 | 505 | 
 | 2022-12-06 | 2795 | 505 | 
 | 2022-12-04 | 2793 | 504 | 
-| 2022-12-03 | 2792 | 503 | 
 

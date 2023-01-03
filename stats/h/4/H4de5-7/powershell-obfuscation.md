@@ -1,8 +1,8 @@
 # H4de5-7/powershell-obfuscation - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 62
+☋ Forks: 63
 
 ★ Stars: 353
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 353 | 63 | 
 | 2023-01-01 | 353 | 62 | 
 | 2022-12-31 | 352 | 62 | 
 | 2022-12-30 | 350 | 62 | 

@@ -1,10 +1,10 @@
 # gri573/voxlementary - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 12
 
-★ Stars: 79
+★ Stars: 80
 
 [Open repository](https://github.com/gri573/voxlementary)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 80 | 12 | 
 | 2023-01-01 | 79 | 12 | 
 | 2022-12-31 | 79 | 12 | 
 | 2022-12-30 | 79 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 77 | 12 | 
 | 2022-12-06 | 77 | 12 | 
 | 2022-12-04 | 77 | 12 | 
-| 2022-12-03 | 77 | 12 | 
 

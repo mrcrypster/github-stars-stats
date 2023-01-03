@@ -1,8 +1,8 @@
 # veebch/photon - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 15
+☋ Forks: 16
 
 ★ Stars: 279
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 279 | 16 | 
 | 2023-01-01 | 279 | 15 | 
 | 2022-12-31 | 276 | 15 | 
 | 2022-12-30 | 275 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 251 | 13 | 
 | 2022-12-06 | 246 | 12 | 
 | 2022-12-04 | 226 | 11 | 
-| 2022-12-03 | 221 | 11 | 
 

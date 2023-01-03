@@ -1,6 +1,6 @@
 # berlyozzy/Simple-AF-Video-Converter - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 21 | 1 | 
 | 2023-01-01 | 21 | 1 | 
 | 2022-12-31 | 21 | 1 | 
 | 2022-12-30 | 21 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 20 | 1 | 
 | 2022-12-05 | 20 | 1 | 
 | 2022-12-04 | 20 | 1 | 
-| 2022-12-03 | 20 | 1 | 
 

@@ -1,10 +1,10 @@
 # AdminTest0/SharpWxDump - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 103
 
-★ Stars: 665
+★ Stars: 667
 
 [Open repository](https://github.com/AdminTest0/SharpWxDump)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 667 | 103 | 
 | 2023-01-01 | 665 | 103 | 
 | 2022-12-31 | 664 | 103 | 
 | 2022-12-30 | 661 | 103 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 539 | 86 | 
 | 2022-12-05 | 534 | 85 | 
 | 2022-12-04 | 531 | 83 | 
-| 2022-12-03 | 521 | 82 | 
 

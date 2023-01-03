@@ -1,10 +1,10 @@
 # hadley/emo - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 48
 
-★ Stars: 394
+★ Stars: 395
 
 [Open repository](https://github.com/hadley/emo)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 395 | 48 | 
 | 2023-01-01 | 394 | 48 | 
 | 2022-12-31 | 394 | 48 | 
 | 2022-12-30 | 394 | 48 | 

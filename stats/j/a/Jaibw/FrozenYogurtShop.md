@@ -1,6 +1,6 @@
 # Jaibw/FrozenYogurtShop - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 2 | 48 | 
 | 2023-01-01 | 2 | 48 | 
 | 2022-12-31 | 2 | 48 | 
 | 2022-12-30 | 2 | 48 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 2 | 48 | 
 | 2022-12-06 | 2 | 48 | 
 | 2022-12-05 | 2 | 48 | 
-| 2022-12-03 | 2 | 48 | 
 

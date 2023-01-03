@@ -1,10 +1,10 @@
 # WebKit/Speedometer - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 15
 
-★ Stars: 238
+★ Stars: 239
 
 [Open repository](https://github.com/WebKit/Speedometer)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 239 | 15 | 
 | 2023-01-01 | 238 | 15 | 
 | 2022-12-31 | 237 | 15 | 
 | 2022-12-30 | 238 | 15 | 

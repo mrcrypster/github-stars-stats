@@ -1,10 +1,10 @@
 # pppscn/SmsForwarder - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 1063
+☋ Forks: 1062
 
-★ Stars: 7156
+★ Stars: 7160
 
 [Open repository](https://github.com/pppscn/SmsForwarder)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 7160 | 1062 | 
 | 2023-01-01 | 7156 | 1063 | 
 | 2022-12-31 | 7152 | 1062 | 
 | 2022-12-30 | 7151 | 1062 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 7001 | 1045 | 
 | 2022-12-05 | 6973 | 1035 | 
 | 2022-12-04 | 6959 | 1032 | 
-| 2022-12-03 | 6952 | 1031 | 
 

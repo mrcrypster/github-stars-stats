@@ -1,10 +1,10 @@
 # area17/twill - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 474
 
-★ Stars: 2972
+★ Stars: 2973
 
 [Open repository](https://github.com/area17/twill)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 2973 | 474 | 
 | 2023-01-01 | 2972 | 474 | 
 | 2022-12-31 | 2972 | 473 | 
 | 2022-12-30 | 2974 | 473 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 2958 | 471 | 
 | 2022-12-06 | 2956 | 471 | 
 | 2022-12-04 | 2956 | 470 | 
-| 2022-12-03 | 2956 | 470 | 
 

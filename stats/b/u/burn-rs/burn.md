@@ -1,10 +1,10 @@
 # burn-rs/burn - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 18
+☋ Forks: 19
 
-★ Stars: 735
+★ Stars: 757
 
 [Open repository](https://github.com/burn-rs/burn)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 757 | 19 | 
 | 2023-01-01 | 735 | 18 | 
 | 2022-12-31 | 734 | 18 | 
 | 2022-12-30 | 734 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 713 | 18 | 
 | 2022-12-05 | 711 | 18 | 
 | 2022-12-04 | 711 | 18 | 
-| 2022-12-03 | 709 | 18 | 
 

@@ -1,10 +1,10 @@
 # marcusolsson/obsidian-projects - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 10
 
-★ Stars: 408
+★ Stars: 410
 
 [Open repository](https://github.com/marcusolsson/obsidian-projects)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 410 | 10 | 
 | 2023-01-01 | 408 | 10 | 
 | 2022-12-31 | 405 | 10 | 
 | 2022-12-30 | 405 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 287 | 9 | 
 | 2022-12-05 | 286 | 9 | 
 | 2022-12-04 | 284 | 9 | 
-| 2022-12-03 | 282 | 9 | 
 

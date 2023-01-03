@@ -1,10 +1,10 @@
 # synthetos/TinyG - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 281
 
-★ Stars: 817
+★ Stars: 818
 
 [Open repository](https://github.com/synthetos/TinyG)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 818 | 281 | 
 | 2023-01-01 | 817 | 281 | 
 | 2022-12-31 | 817 | 281 | 
 | 2022-12-30 | 817 | 281 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 814 | 280 | 
 | 2022-12-05 | 814 | 280 | 
 | 2022-12-04 | 814 | 280 | 
-| 2022-12-03 | 812 | 280 | 
 

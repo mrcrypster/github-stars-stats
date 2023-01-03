@@ -1,6 +1,6 @@
 # carefree0910/carefree-creator - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 159
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 1776 | 159 | 
 | 2023-01-01 | 1776 | 159 | 
 | 2022-12-31 | 1775 | 159 | 
 | 2022-12-30 | 1774 | 159 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 1737 | 153 | 
 | 2022-12-05 | 1735 | 153 | 
 | 2022-12-04 | 1730 | 153 | 
-| 2022-12-03 | 1730 | 152 | 
 

@@ -1,6 +1,6 @@
 # alan-turing-institute/MLJ.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 144
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 1527 | 144 | 
 | 2023-01-01 | 1527 | 144 | 
 | 2022-12-31 | 1525 | 144 | 
 | 2022-12-30 | 1525 | 144 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 1513 | 143 | 
 | 2022-12-05 | 1513 | 143 | 
 | 2022-12-04 | 1513 | 143 | 
-| 2022-12-03 | 1513 | 143 | 
 

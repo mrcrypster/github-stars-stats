@@ -1,6 +1,6 @@
 # d4rckh/gorilla - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 346 | 17 | 
 | 2023-01-01 | 346 | 17 | 
 | 2022-12-31 | 346 | 17 | 
 | 2022-12-30 | 346 | 17 | 
@@ -38,5 +39,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-08 | 345 | 17 | 
 | 2022-12-06 | 344 | 17 | 
 | 2022-12-05 | 344 | 17 | 
-| 2022-12-04 | 344 | 17 | 
 

@@ -1,6 +1,6 @@
 # fronthendy/soundgarden-front - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 67
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | - | 67 | 
 | 2023-01-01 | - | 67 | 
 | 2022-12-31 | - | 67 | 
 | 2022-12-30 | - | 67 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | - | 67 | 
 | 2022-12-06 | - | 67 | 
 | 2022-12-04 | - | 67 | 
-| 2022-12-03 | - | 67 | 
 

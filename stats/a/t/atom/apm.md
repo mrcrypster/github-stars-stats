@@ -1,8 +1,8 @@
 # atom/apm - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 317
+☋ Forks: 318
 
 ★ Stars: 1264
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 1264 | 318 | 
 | 2023-01-01 | 1264 | 317 | 
 | 2022-12-31 | 1264 | 317 | 
 | 2022-12-30 | 1264 | 317 | 
@@ -38,5 +39,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-08 | 1265 | 317 | 
 | 2022-12-06 | 1266 | 317 | 
 | 2022-12-05 | 1267 | 317 | 
-| 2022-12-03 | 1267 | 317 | 
 

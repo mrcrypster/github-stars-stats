@@ -1,10 +1,10 @@
 # Atinux/content-wind - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 33
 
-★ Stars: 469
+★ Stars: 470
 
 [Open repository](https://github.com/Atinux/content-wind)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 470 | 33 | 
 | 2023-01-01 | 469 | 33 | 
 | 2022-12-31 | 468 | 33 | 
 | 2022-12-30 | 468 | 33 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 454 | 29 | 
 | 2022-12-06 | 450 | 30 | 
 | 2022-12-04 | 449 | 30 | 
-| 2022-12-03 | 448 | 30 | 
 

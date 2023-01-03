@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 02
 
 ☋ Forks: 139
 
-★ Stars: 1917
+★ Stars: 1918
 
 [Open repository](https://github.com/diku-dk/futhark)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-02 | 1917 | 139 | 
+| 2023-01-02 | 1918 | 139 | 
 | 2023-01-01 | 1917 | 139 | 
 | 2022-12-31 | 1916 | 139 | 
 | 2022-12-30 | 1915 | 139 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-06 | 1899 | 136 | 
 | 2022-12-05 | 1899 | 136 | 
 | 2022-12-04 | 1897 | 136 | 
-| 2022-12-03 | 1896 | 136 | 
 

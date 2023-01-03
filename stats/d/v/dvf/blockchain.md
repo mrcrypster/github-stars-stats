@@ -1,10 +1,10 @@
 # dvf/blockchain - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 2622
+☋ Forks: 2621
 
-★ Stars: 7237
+★ Stars: 7239
 
 [Open repository](https://github.com/dvf/blockchain)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 7239 | 2621 | 
 | 2023-01-01 | 7237 | 2622 | 
 | 2022-12-31 | 7237 | 2622 | 
 | 2022-12-30 | 7236 | 2622 | 

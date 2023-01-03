@@ -1,10 +1,10 @@
 # ory/kratos - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 704
 
-★ Stars: 8013
+★ Stars: 8017
 
 [Open repository](https://github.com/ory/kratos)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 8017 | 704 | 
 | 2023-01-01 | 8013 | 704 | 
 | 2022-12-31 | 8011 | 704 | 
 | 2022-12-30 | 8007 | 702 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 7903 | 692 | 
 | 2022-12-06 | 7898 | 690 | 
 | 2022-12-05 | 7895 | 689 | 
-| 2022-12-03 | 7894 | 688 | 
 

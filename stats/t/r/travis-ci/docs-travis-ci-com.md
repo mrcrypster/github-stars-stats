@@ -1,6 +1,6 @@
 # travis-ci/docs-travis-ci-com - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 3609
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 553 | 3609 | 
 | 2023-01-01 | 553 | 3609 | 
 | 2022-12-31 | 554 | 3608 | 
 | 2022-12-30 | 554 | 3605 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 552 | 3581 | 
 | 2022-12-05 | 553 | 3580 | 
 | 2022-12-04 | 553 | 3580 | 
-| 2022-12-03 | 553 | 3579 | 
 

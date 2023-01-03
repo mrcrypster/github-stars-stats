@@ -1,6 +1,6 @@
 # dependabot/dependabot-core - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 738
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 3084 | 738 | 
 | 2023-01-01 | 3084 | 738 | 
 | 2022-12-31 | 3084 | 738 | 
 | 2022-12-30 | 3083 | 738 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 3048 | 737 | 
 | 2022-12-06 | 3047 | 735 | 
 | 2022-12-04 | 3044 | 736 | 
-| 2022-12-03 | 3045 | 736 | 
 

@@ -1,6 +1,6 @@
 # devxoul/Then - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 291
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 3949 | 291 | 
 | 2023-01-01 | 3949 | 291 | 
 | 2022-12-31 | 3948 | 291 | 
 | 2022-12-30 | 3948 | 291 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 3941 | 291 | 
 | 2022-12-06 | 3941 | 291 | 
 | 2022-12-05 | 3942 | 291 | 
-| 2022-12-03 | 3942 | 291 | 
 

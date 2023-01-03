@@ -1,8 +1,8 @@
 # JasmineRickards/TGMC-PVE - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 03
 
-☋ Forks: 6
+☋ Forks: 9
 
 ★ Stars: 0
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | - | 9 | 
+| 2023-01-02 | - | 9 | 
 | 2023-01-01 | - | 6 | 
 | 2022-12-31 | - | 6 | 
 | 2022-12-30 | - | 5 | 

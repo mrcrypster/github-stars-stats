@@ -1,10 +1,10 @@
 # architdate/PKHeX-Plugins - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 75
 
-★ Stars: 349
+★ Stars: 352
 
 [Open repository](https://github.com/architdate/PKHeX-Plugins)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 352 | 75 | 
 | 2023-01-01 | 349 | 75 | 
 | 2022-12-31 | 347 | 75 | 
 | 2022-12-30 | 346 | 75 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 318 | 74 | 
 | 2022-12-06 | 310 | 74 | 
 | 2022-12-04 | 306 | 74 | 
-| 2022-12-03 | 303 | 74 | 
 

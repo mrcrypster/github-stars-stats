@@ -1,10 +1,10 @@
 # michaelb/sniprun - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 34
 
-★ Stars: 925
+★ Stars: 928
 
 [Open repository](https://github.com/michaelb/sniprun)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 928 | 34 | 
 | 2023-01-01 | 925 | 34 | 
 | 2022-12-31 | 924 | 34 | 
 | 2022-12-30 | 924 | 34 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-08 | 906 | 30 | 
 | 2022-12-06 | 907 | 30 | 
 | 2022-12-05 | 906 | 30 | 
-| 2022-12-03 | 906 | 30 | 
 

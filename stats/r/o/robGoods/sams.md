@@ -1,10 +1,10 @@
 # robGoods/sams - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 123
 
-★ Stars: 379
+★ Stars: 380
 
 [Open repository](https://github.com/robGoods/sams)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 380 | 123 | 
 | 2023-01-02 | 379 | 123 | 
 | 2023-01-01 | 379 | 123 | 
 | 2022-12-30 | 379 | 123 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-07 | 378 | 120 | 
 | 2022-12-05 | 379 | 120 | 
 | 2022-12-04 | 380 | 120 | 
-| 2022-12-03 | 381 | 120 | 
 

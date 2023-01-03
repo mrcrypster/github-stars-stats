@@ -1,8 +1,8 @@
 # psiberx/cp2077-equipment-ex - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
-☋ Forks: 2
+☋ Forks: 3
 
 ★ Stars: 10
 
@@ -13,5 +13,6 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 10 | 3 | 
 | 2023-01-01 | 10 | 2 | 
 

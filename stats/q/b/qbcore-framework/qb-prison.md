@@ -1,6 +1,6 @@
 # qbcore-framework/qb-prison - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 173
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 16 | 173 | 
 | 2023-01-01 | 16 | 173 | 
 | 2022-12-31 | 16 | 173 | 
 | 2022-12-30 | 16 | 173 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 15 | 173 | 
 | 2022-12-05 | 15 | 173 | 
 | 2022-12-04 | 15 | 173 | 
-| 2022-12-03 | 15 | 173 | 
 

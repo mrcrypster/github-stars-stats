@@ -1,6 +1,6 @@
 # mitchspano/apex-trigger-actions-framework - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 96
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 321 | 96 | 
 | 2023-01-01 | 321 | 96 | 
 | 2022-12-31 | 321 | 95 | 
 | 2022-12-30 | 320 | 95 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 311 | 91 | 
 | 2022-12-06 | 311 | 91 | 
 | 2022-12-05 | 311 | 91 | 
-| 2022-12-03 | 311 | 90 | 
 

@@ -1,6 +1,6 @@
 # dnschneid/crouton - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 1200
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 8247 | 1200 | 
 | 2023-01-01 | 8247 | 1200 | 
 | 2022-12-31 | 8247 | 1200 | 
 | 2022-12-30 | 8249 | 1200 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 8235 | 1198 | 
 | 2022-12-05 | 8235 | 1198 | 
 | 2022-12-04 | 8233 | 1198 | 
-| 2022-12-03 | 8233 | 1197 | 
 

@@ -1,10 +1,10 @@
 # lopsided98/nix-ros-overlay - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 42
 
-★ Stars: 94
+★ Stars: 95
 
 [Open repository](https://github.com/lopsided98/nix-ros-overlay)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 95 | 42 | 
 | 2023-01-01 | 94 | 42 | 
 | 2022-12-31 | 94 | 42 | 
 | 2022-12-30 | 94 | 42 | 

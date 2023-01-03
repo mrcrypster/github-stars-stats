@@ -1,6 +1,6 @@
 # JoshParnell/ltprototype - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 117 | 19 | 
 | 2023-01-01 | 117 | 19 | 
 | 2022-12-31 | 117 | 19 | 
 | 2022-12-30 | 117 | 19 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 116 | 19 | 
 | 2022-12-05 | 116 | 19 | 
 | 2022-12-04 | 116 | 19 | 
-| 2022-12-03 | 116 | 19 | 
 

@@ -1,10 +1,10 @@
 # linuxmint/cinnamon - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 702
 
-★ Stars: 3966
+★ Stars: 3967
 
 [Open repository](https://github.com/linuxmint/cinnamon)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 3967 | 702 | 
 | 2023-01-01 | 3966 | 702 | 
 | 2022-12-31 | 3966 | 702 | 
 | 2022-12-30 | 3966 | 702 | 
@@ -38,5 +39,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-08 | 3946 | 699 | 
 | 2022-12-07 | 3945 | 699 | 
 | 2022-12-05 | 3943 | 698 | 
-| 2022-12-04 | 3941 | 697 | 
 

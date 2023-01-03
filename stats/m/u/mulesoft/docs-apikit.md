@@ -1,6 +1,6 @@
 # mulesoft/docs-apikit - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 3 | 17 | 
 | 2023-01-01 | 3 | 17 | 
 | 2022-12-31 | 3 | 17 | 
 | 2022-12-30 | 3 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-06 | 2 | 18 | 
 | 2022-12-05 | 2 | 18 | 
 | 2022-12-04 | 2 | 18 | 
-| 2022-12-03 | 2 | 18 | 
 

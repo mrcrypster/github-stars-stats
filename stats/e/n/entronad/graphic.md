@@ -1,6 +1,6 @@
 # entronad/graphic - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 107
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 905 | 107 | 
 | 2023-01-01 | 905 | 107 | 
 | 2022-12-31 | 905 | 107 | 
 | 2022-12-30 | 905 | 107 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-07 | 880 | 103 | 
 | 2022-12-05 | 876 | 102 | 
 | 2022-12-04 | 873 | 102 | 
-| 2022-12-03 | 872 | 102 | 
 

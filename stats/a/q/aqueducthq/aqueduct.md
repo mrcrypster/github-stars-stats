@@ -1,6 +1,6 @@
 # aqueducthq/aqueduct - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 386 | 6 | 
 | 2023-01-01 | 386 | 6 | 
 | 2022-12-31 | 386 | 6 | 
 | 2022-12-30 | 385 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-08 | 386 | 7 | 
 | 2022-12-06 | 385 | 7 | 
 | 2022-12-05 | 385 | 7 | 
-| 2022-12-03 | 385 | 6 | 
 

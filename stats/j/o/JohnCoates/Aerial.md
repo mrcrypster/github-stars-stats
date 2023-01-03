@@ -1,10 +1,10 @@
 # JohnCoates/Aerial - stars & forks statistics
 
-Stats updated on Jan 2023, 01
+Stats updated on Jan 2023, 02
 
 ☋ Forks: 1033
 
-★ Stars: 20322
+★ Stars: 20325
 
 [Open repository](https://github.com/JohnCoates/Aerial)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-02 | 20325 | 1033 | 
 | 2023-01-01 | 20322 | 1033 | 
 | 2022-12-31 | 20323 | 1032 | 
 | 2022-12-30 | 20323 | 1032 | 
@@ -38,5 +39,4 @@ Stats updated on Jan 2023, 01
 | 2022-12-08 | 20310 | 1034 | 
 | 2022-12-06 | 20309 | 1034 | 
 | 2022-12-05 | 20306 | 1034 | 
-| 2022-12-03 | 20305 | 1034 | 
 
