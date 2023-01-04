@@ -1,6 +1,6 @@
 # jaywcjlove/mysql-tutorial - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 768
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 3640 | 768 | 
 | 2023-01-02 | 3640 | 768 | 
 | 2023-01-01 | 3639 | 768 | 
 | 2022-12-31 | 3637 | 769 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 3625 | 770 | 
 | 2022-12-07 | 3626 | 770 | 
 | 2022-12-05 | 3625 | 770 | 
-| 2022-12-04 | 3623 | 770 | 
 

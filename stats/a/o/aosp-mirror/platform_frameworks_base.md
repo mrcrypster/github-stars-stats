@@ -1,10 +1,10 @@
 # aosp-mirror/platform_frameworks_base - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 6187
+☋ Forks: 6188
 
-★ Stars: 10244
+★ Stars: 10250
 
 [Open repository](https://github.com/aosp-mirror/platform_frameworks_base)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 10250 | 6188 | 
 | 2023-01-02 | 10244 | 6187 | 
 | 2023-01-01 | 10245 | 6187 | 
 | 2022-12-31 | 10244 | 6188 | 

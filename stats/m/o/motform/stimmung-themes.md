@@ -1,10 +1,10 @@
 # motform/stimmung-themes - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 8
 
-★ Stars: 84
+★ Stars: 85
 
 [Open repository](https://github.com/motform/stimmung-themes)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 85 | 8 | 
 | 2023-01-03 | 84 | 8 | 
 | 2023-01-02 | 84 | 8 | 
 | 2022-12-31 | 84 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 83 | 8 | 
 | 2022-12-06 | 83 | 8 | 
 | 2022-12-05 | 83 | 8 | 
-| 2022-12-04 | 83 | 8 | 
 

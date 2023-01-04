@@ -1,10 +1,10 @@
 # wickerwaka/Arcade-IremM92_MiSTer - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 2
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/wickerwaka/Arcade-IremM92_MiSTer)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 7 | 2 | 
 | 2023-01-02 | 6 | 2 | 
 | 2023-01-01 | 6 | 2 | 
 | 2022-12-31 | 6 | 2 | 

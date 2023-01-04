@@ -1,10 +1,10 @@
 # LillieH001/YouTube-Reborn - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 9
 
-★ Stars: 66
+★ Stars: 67
 
 [Open repository](https://github.com/LillieH001/YouTube-Reborn)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 67 | 9 | 
 | 2023-01-02 | 66 | 9 | 
 | 2023-01-01 | 65 | 9 | 
 | 2022-12-31 | 65 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 51 | 4 | 
 | 2022-12-07 | 50 | 4 | 
 | 2022-12-05 | 50 | 4 | 
-| 2022-12-04 | 50 | 4 | 
 

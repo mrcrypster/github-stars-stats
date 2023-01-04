@@ -1,6 +1,6 @@
 # journey-ad/chat-room - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 172 | 46 | 
 | 2023-01-03 | 172 | 46 | 
 | 2023-01-01 | 172 | 46 | 
 | 2022-12-31 | 172 | 46 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 167 | 46 | 
 | 2022-12-07 | 166 | 46 | 
 | 2022-12-05 | 166 | 46 | 
-| 2022-12-04 | 166 | 46 | 
 

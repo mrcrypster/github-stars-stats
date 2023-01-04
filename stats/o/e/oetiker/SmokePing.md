@@ -1,10 +1,10 @@
 # oetiker/SmokePing - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 158
 
-★ Stars: 951
+★ Stars: 952
 
 [Open repository](https://github.com/oetiker/SmokePing)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 952 | 158 | 
 | 2023-01-02 | 951 | 158 | 
 | 2023-01-01 | 950 | 158 | 
 | 2022-12-31 | 950 | 158 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 942 | 158 | 
 | 2022-12-07 | 939 | 158 | 
 | 2022-12-06 | 939 | 158 | 
-| 2022-12-04 | 939 | 158 | 
 

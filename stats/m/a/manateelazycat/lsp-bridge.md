@@ -1,8 +1,8 @@
 # manateelazycat/lsp-bridge - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 04
 
-☋ Forks: 117
+☋ Forks: 119
 
 ★ Stars: 738
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 738 | 119 | 
+| 2023-01-03 | 738 | 118 | 
 | 2023-01-02 | 738 | 117 | 
 | 2023-01-01 | 737 | 115 | 
 | 2022-12-31 | 737 | 115 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-07 | 694 | 109 | 
 | 2022-12-06 | 692 | 109 | 
 | 2022-12-05 | 682 | 110 | 
-| 2022-12-04 | 678 | 110 | 
 

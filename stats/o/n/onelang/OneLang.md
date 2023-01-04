@@ -1,6 +1,6 @@
 # onelang/OneLang - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 76
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 1023 | 76 | 
 | 2023-01-02 | 1023 | 76 | 
 | 2023-01-01 | 1023 | 76 | 
 | 2022-12-31 | 1023 | 76 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-07 | 1021 | 76 | 
 | 2022-12-06 | 1021 | 76 | 
 | 2022-12-05 | 1022 | 76 | 
-| 2022-12-04 | 1022 | 76 | 
 

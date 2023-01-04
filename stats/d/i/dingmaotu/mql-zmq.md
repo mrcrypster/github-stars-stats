@@ -1,6 +1,6 @@
 # dingmaotu/mql-zmq - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 251
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 466 | 251 | 
 | 2023-01-02 | 466 | 251 | 
 | 2023-01-01 | 465 | 251 | 
 | 2022-12-31 | 465 | 251 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 465 | 250 | 
 | 2022-12-07 | 467 | 250 | 
 | 2022-12-06 | 467 | 250 | 
-| 2022-12-04 | 467 | 249 | 
 

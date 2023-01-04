@@ -1,6 +1,6 @@
 # RotherOSS/otobo - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 164 | 52 | 
 | 2023-01-02 | 164 | 52 | 
 | 2023-01-01 | 164 | 52 | 
 | 2022-12-31 | 164 | 52 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 160 | 51 | 
 | 2022-12-07 | 159 | 50 | 
 | 2022-12-06 | 159 | 50 | 
-| 2022-12-04 | 159 | 50 | 
 

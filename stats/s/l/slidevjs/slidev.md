@@ -1,10 +1,10 @@
 # slidevjs/slidev - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 937
 
-★ Stars: 24149
+★ Stars: 24166
 
 [Open repository](https://github.com/slidevjs/slidev)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 24166 | 937 | 
 | 2023-01-02 | 24149 | 937 | 
 | 2023-01-01 | 24137 | 937 | 
 | 2022-12-31 | 24131 | 937 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 23779 | 920 | 
 | 2022-12-07 | 23751 | 920 | 
 | 2022-12-05 | 23730 | 920 | 
-| 2022-12-04 | 23711 | 920 | 
 

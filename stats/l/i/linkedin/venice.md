@@ -1,10 +1,10 @@
 # linkedin/venice - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 33
 
-★ Stars: 308
+★ Stars: 309
 
 [Open repository](https://github.com/linkedin/venice)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 309 | 33 | 
 | 2023-01-02 | 308 | 33 | 
 | 2023-01-01 | 308 | 33 | 
 | 2022-12-31 | 308 | 33 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 303 | 33 | 
 | 2022-12-07 | 302 | 33 | 
 | 2022-12-06 | 303 | 33 | 
-| 2022-12-04 | 303 | 32 | 
 

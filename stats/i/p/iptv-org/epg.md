@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 03
 
 ☋ Forks: 281
 
-★ Stars: 969
+★ Stars: 970
 
 [Open repository](https://github.com/iptv-org/epg)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-03 | 969 | 281 | 
+| 2023-01-03 | 970 | 281 | 
 | 2023-01-02 | 969 | 281 | 
 | 2023-01-01 | 963 | 280 | 
 | 2022-12-31 | 956 | 280 | 
@@ -41,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 922 | 274 | 
 | 2022-12-07 | 920 | 274 | 
 | 2022-12-06 | 918 | 272 | 
-| 2022-12-04 | 917 | 271 | 
 

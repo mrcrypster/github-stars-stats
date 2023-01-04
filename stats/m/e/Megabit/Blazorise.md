@@ -1,10 +1,10 @@
 # Megabit/Blazorise - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 469
+☋ Forks: 470
 
-★ Stars: 2597
+★ Stars: 2598
 
 [Open repository](https://github.com/Megabit/Blazorise)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 2598 | 470 | 
 | 2023-01-02 | 2597 | 469 | 
 | 2023-01-01 | 2596 | 469 | 
 | 2022-12-31 | 2596 | 467 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 2582 | 465 | 
 | 2022-12-07 | 2580 | 465 | 
 | 2022-12-06 | 2578 | 465 | 
-| 2022-12-04 | 2574 | 465 | 
 

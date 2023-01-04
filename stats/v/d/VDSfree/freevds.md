@@ -1,8 +1,8 @@
 # VDSfree/freevds - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 04
 
-☋ Forks: 165
+☋ Forks: 167
 
 ★ Stars: 1
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 1 | 167 | 
+| 2023-01-03 | 1 | 167 | 
 | 2023-01-02 | 1 | 165 | 
 | 2023-01-01 | 1 | 165 | 
 | 2022-12-31 | 1 | 165 | 
@@ -39,5 +41,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 1 | 152 | 
 | 2022-12-07 | 1 | 151 | 
 | 2022-12-05 | 1 | 150 | 
-| 2022-12-04 | 1 | 149 | 
 

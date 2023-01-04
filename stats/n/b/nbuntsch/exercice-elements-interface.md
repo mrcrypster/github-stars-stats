@@ -1,6 +1,6 @@
 # nbuntsch/exercice-elements-interface - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 1 | 16 | 
 | 2023-01-03 | 1 | 16 | 
 | 2023-01-01 | 1 | 16 | 
 | 2022-12-31 | 1 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 1 | 16 | 
 | 2022-12-07 | 1 | 16 | 
 | 2022-12-06 | 1 | 16 | 
-| 2022-12-05 | 1 | 16 | 
 

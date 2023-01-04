@@ -1,10 +1,10 @@
 # xinntao/Real-ESRGAN - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 1831
+☋ Forks: 1836
 
-★ Stars: 17235
+★ Stars: 17274
 
 [Open repository](https://github.com/xinntao/Real-ESRGAN)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 17274 | 1836 | 
 | 2023-01-02 | 17235 | 1831 | 
 | 2023-01-01 | 17219 | 1829 | 
 | 2022-12-31 | 17209 | 1827 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 16830 | 1795 | 
 | 2022-12-07 | 16804 | 1793 | 
 | 2022-12-06 | 16782 | 1789 | 
-| 2022-12-04 | 16751 | 1788 | 
 

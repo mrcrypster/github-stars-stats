@@ -1,10 +1,10 @@
 # cvg/DeepLSD - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 15
 
-★ Stars: 154
+★ Stars: 160
 
 [Open repository](https://github.com/cvg/DeepLSD)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 160 | 15 | 
 | 2023-01-02 | 154 | 15 | 
 | 2023-01-01 | 152 | 15 | 
 | 2022-12-31 | 152 | 15 | 

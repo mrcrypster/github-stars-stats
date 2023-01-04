@@ -1,10 +1,10 @@
 # NREL-SIIP/PowerSimulations.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 43
 
-★ Stars: 192
+★ Stars: 194
 
 [Open repository](https://github.com/NREL-SIIP/PowerSimulations.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 194 | 43 | 
 | 2023-01-02 | 192 | 43 | 
 | 2023-01-01 | 192 | 43 | 
 | 2022-12-31 | 192 | 43 | 

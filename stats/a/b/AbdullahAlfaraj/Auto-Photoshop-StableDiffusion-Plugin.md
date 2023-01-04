@@ -1,10 +1,10 @@
 # AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 39
+☋ Forks: 40
 
-★ Stars: 588
+★ Stars: 596
 
 [Open repository](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 596 | 40 | 
 | 2023-01-02 | 588 | 39 | 
 | 2023-01-01 | 582 | 37 | 
 | 2022-12-31 | 573 | 37 | 

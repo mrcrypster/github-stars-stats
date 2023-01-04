@@ -1,6 +1,6 @@
 # creativetimofficial/notus-svelte - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 192
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 579 | 192 | 
 | 2023-01-02 | 579 | 192 | 
 | 2023-01-01 | 578 | 191 | 
 | 2022-12-31 | 577 | 188 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-07 | 568 | 169 | 
 | 2022-12-06 | 568 | 169 | 
 | 2022-12-05 | 568 | 168 | 
-| 2022-12-04 | 568 | 168 | 
 

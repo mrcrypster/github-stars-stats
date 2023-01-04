@@ -1,10 +1,10 @@
 # AvdLee/SwiftUIKitView - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 21
 
-★ Stars: 682
+★ Stars: 681
 
 [Open repository](https://github.com/AvdLee/SwiftUIKitView)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 681 | 21 | 
 | 2023-01-02 | 682 | 21 | 
 | 2023-01-01 | 682 | 21 | 
 | 2022-12-31 | 682 | 21 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 677 | 21 | 
 | 2022-12-06 | 677 | 21 | 
 | 2022-12-05 | 677 | 21 | 
-| 2022-12-04 | 676 | 21 | 
 

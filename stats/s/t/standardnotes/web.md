@@ -1,10 +1,10 @@
 # standardnotes/web - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 314
 
-★ Stars: 3973
+★ Stars: 3977
 
 [Open repository](https://github.com/standardnotes/web)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 3977 | 314 | 
 | 2023-01-02 | 3973 | 314 | 
 | 2023-01-01 | 3973 | 314 | 
 | 2022-12-31 | 3969 | 314 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 3904 | 313 | 
 | 2022-12-07 | 3903 | 312 | 
 | 2022-12-05 | 3902 | 312 | 
-| 2022-12-04 | 3897 | 312 | 
 

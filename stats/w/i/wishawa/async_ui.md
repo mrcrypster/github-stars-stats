@@ -1,6 +1,6 @@
 # wishawa/async_ui - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 496 | 7 | 
 | 2023-01-02 | 496 | 7 | 
 | 2023-01-01 | 496 | 7 | 
 | 2022-12-31 | 495 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 493 | 7 | 
 | 2022-12-07 | 493 | 7 | 
 | 2022-12-06 | 492 | 7 | 
-| 2022-12-04 | 492 | 7 | 
 

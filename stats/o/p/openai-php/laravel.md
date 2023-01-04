@@ -1,10 +1,10 @@
 # openai-php/laravel - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 22
+☋ Forks: 23
 
-★ Stars: 567
+★ Stars: 590
 
 [Open repository](https://github.com/openai-php/laravel)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 590 | 23 | 
 | 2023-01-02 | 567 | 22 | 
 | 2023-01-01 | 543 | 21 | 
 | 2022-12-31 | 527 | 20 | 

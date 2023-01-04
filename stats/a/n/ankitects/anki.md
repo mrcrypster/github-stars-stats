@@ -1,10 +1,10 @@
 # ankitects/anki - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 1609
 
-★ Stars: 12803
+★ Stars: 12819
 
 [Open repository](https://github.com/ankitects/anki)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 12819 | 1609 | 
 | 2023-01-02 | 12803 | 1609 | 
 | 2023-01-01 | 12788 | 1606 | 
 | 2022-12-31 | 12783 | 1605 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 12611 | 1587 | 
 | 2022-12-07 | 12599 | 1588 | 
 | 2022-12-06 | 12592 | 1588 | 
-| 2022-12-04 | 12574 | 1588 | 
 

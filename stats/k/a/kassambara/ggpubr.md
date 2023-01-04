@@ -1,6 +1,6 @@
 # kassambara/ggpubr - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 151
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 947 | 151 | 
 | 2023-01-02 | 947 | 151 | 
 | 2023-01-01 | 946 | 151 | 
 | 2022-12-31 | 946 | 151 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 924 | 151 | 
 | 2022-12-06 | 924 | 152 | 
 | 2022-12-05 | 923 | 151 | 
-| 2022-12-04 | 920 | 151 | 
 

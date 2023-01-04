@@ -1,10 +1,10 @@
 # milesial/Pytorch-UNet - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 1961
+☋ Forks: 1963
 
-★ Stars: 6238
+★ Stars: 6241
 
 [Open repository](https://github.com/milesial/Pytorch-UNet)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 6241 | 1963 | 
 | 2023-01-02 | 6238 | 1961 | 
 | 2023-01-01 | 6236 | 1961 | 
 | 2022-12-31 | 6232 | 1961 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 6174 | 1950 | 
 | 2022-12-07 | 6167 | 1950 | 
 | 2022-12-06 | 6158 | 1949 | 
-| 2022-12-04 | 6151 | 1945 | 
 

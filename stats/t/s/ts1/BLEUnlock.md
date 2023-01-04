@@ -1,10 +1,10 @@
 # ts1/BLEUnlock - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 95
+☋ Forks: 96
 
-★ Stars: 1195
+★ Stars: 1197
 
 [Open repository](https://github.com/ts1/BLEUnlock)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 1197 | 96 | 
 | 2023-01-02 | 1195 | 95 | 
 | 2023-01-01 | 1195 | 95 | 
 | 2022-12-31 | 1194 | 95 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 1174 | 95 | 
 | 2022-12-07 | 1171 | 95 | 
 | 2022-12-06 | 1169 | 95 | 
-| 2022-12-04 | 1168 | 95 | 
 

@@ -1,10 +1,10 @@
 # googleapis/google-api-nodejs-client - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 1903
 
-★ Stars: 10325
+★ Stars: 10329
 
 [Open repository](https://github.com/googleapis/google-api-nodejs-client)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 10329 | 1903 | 
 | 2023-01-02 | 10325 | 1903 | 
 | 2023-01-01 | 10317 | 1903 | 
 | 2022-12-31 | 10317 | 1904 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 10287 | 1898 | 
 | 2022-12-07 | 10285 | 1898 | 
 | 2022-12-06 | 10280 | 1898 | 
-| 2022-12-04 | 10278 | 1898 | 
 

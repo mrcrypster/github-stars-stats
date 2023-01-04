@@ -1,6 +1,6 @@
 # FirmanKurniawan/CSS-Projects - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 81
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 33 | 81 | 
 | 2023-01-03 | 33 | 81 | 
 | 2023-01-01 | 33 | 81 | 
 | 2022-12-31 | 33 | 81 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 33 | 81 | 
 | 2022-12-07 | 33 | 81 | 
 | 2022-12-06 | 33 | 81 | 
-| 2022-12-04 | 33 | 80 | 
 

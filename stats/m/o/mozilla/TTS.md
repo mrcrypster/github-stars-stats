@@ -1,10 +1,10 @@
 # mozilla/TTS - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 1011
 
-★ Stars: 6521
+★ Stars: 6524
 
 [Open repository](https://github.com/mozilla/TTS)
 
@@ -13,7 +13,8 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-03 | 6521 | 1011 | 
+| 2023-01-04 | 6524 | 1011 | 
+| 2023-01-03 | 6524 | 1011 | 
 | 2023-01-02 | 6518 | 1011 | 
 | 2023-01-01 | 6502 | 1010 | 
 | 2022-12-31 | 6499 | 1009 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 6427 | 998 | 
 | 2022-12-07 | 6425 | 998 | 
 | 2022-12-05 | 6422 | 998 | 
-| 2022-12-04 | 6419 | 998 | 
 

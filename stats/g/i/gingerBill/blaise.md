@@ -1,6 +1,6 @@
 # gingerBill/blaise - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 41 | 2 | 
 | 2023-01-02 | 41 | 2 | 
 | 2023-01-01 | 41 | 2 | 
 | 2022-12-31 | 41 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 42 | 3 | 
 | 2022-12-06 | 42 | 3 | 
 | 2022-12-05 | 42 | 3 | 
-| 2022-12-04 | 42 | 3 | 
 

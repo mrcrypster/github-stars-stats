@@ -1,6 +1,6 @@
 # WindowProgrammingFinalProject/FinalProject - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | - | 3 | 
 | 2023-01-02 | - | 3 | 
 | 2023-01-01 | - | 3 | 
 | 2022-12-31 | - | 3 | 

@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 03
 
-☋ Forks: 363
+☋ Forks: 362
 
-★ Stars: 5845
+★ Stars: 5848
 
 [Open repository](https://github.com/revanced/revanced-manager)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-03 | 5845 | 363 | 
+| 2023-01-03 | 5848 | 362 | 
 | 2023-01-02 | 5843 | 363 | 
 | 2023-01-01 | 5828 | 362 | 
 | 2022-12-31 | 5802 | 362 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-07 | 5223 | 356 | 
 | 2022-12-06 | 5197 | 355 | 
 | 2022-12-05 | 5180 | 355 | 
-| 2022-12-04 | 5151 | 353 | 
 

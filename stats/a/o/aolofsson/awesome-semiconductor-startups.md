@@ -1,10 +1,10 @@
 # aolofsson/awesome-semiconductor-startups - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 35
 
-★ Stars: 210
+★ Stars: 212
 
 [Open repository](https://github.com/aolofsson/awesome-semiconductor-startups)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 212 | 35 | 
 | 2023-01-02 | 210 | 35 | 
 | 2023-01-01 | 210 | 35 | 
 | 2022-12-31 | 210 | 34 | 

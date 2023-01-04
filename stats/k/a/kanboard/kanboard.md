@@ -1,6 +1,6 @@
 # kanboard/kanboard - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 1644
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 6953 | 1644 | 
 | 2023-01-03 | 6953 | 1644 | 
 | 2023-01-01 | 6950 | 1644 | 
 | 2022-12-31 | 6947 | 1645 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 6893 | 1640 | 
 | 2022-12-07 | 6893 | 1638 | 
 | 2022-12-05 | 6888 | 1638 | 
-| 2022-12-04 | 6887 | 1637 | 
 

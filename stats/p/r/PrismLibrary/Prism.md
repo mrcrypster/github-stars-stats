@@ -1,6 +1,6 @@
 # PrismLibrary/Prism - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 1507
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 5450 | 1507 | 
 | 2023-01-02 | 5450 | 1507 | 
 | 2023-01-01 | 5448 | 1506 | 
 | 2022-12-31 | 5448 | 1505 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-07 | 5420 | 1499 | 
 | 2022-12-06 | 5420 | 1498 | 
 | 2022-12-05 | 5417 | 1498 | 
-| 2022-12-04 | 5417 | 1498 | 
 

@@ -1,10 +1,10 @@
 # lzyAB/link-helper - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 99
+☋ Forks: 100
 
-★ Stars: 503
+★ Stars: 506
 
 [Open repository](https://github.com/lzyAB/link-helper)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 506 | 100 | 
 | 2023-01-02 | 503 | 99 | 
 | 2023-01-01 | 503 | 99 | 
 | 2022-12-31 | 503 | 99 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 459 | 91 | 
 | 2022-12-07 | 458 | 91 | 
 | 2022-12-06 | 451 | 91 | 
-| 2022-12-04 | 443 | 90 | 
 

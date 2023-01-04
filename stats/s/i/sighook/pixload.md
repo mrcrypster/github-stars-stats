@@ -1,6 +1,6 @@
 # sighook/pixload - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 224
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 917 | 224 | 
 | 2023-01-02 | 917 | 224 | 
 | 2023-01-01 | 915 | 224 | 
 

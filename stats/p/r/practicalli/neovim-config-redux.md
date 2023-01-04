@@ -1,6 +1,6 @@
 # practicalli/neovim-config-redux - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 22 | 5 | 
 | 2023-01-02 | 22 | 5 | 
 | 2023-01-01 | 22 | 5 | 
 | 2022-12-31 | 22 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-07 | 22 | 3 | 
 | 2022-12-06 | 22 | 3 | 
 | 2022-12-05 | 22 | 3 | 
-| 2022-12-04 | 22 | 3 | 
 

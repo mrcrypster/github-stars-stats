@@ -1,8 +1,8 @@
 # wy580477/replit-trojan - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 110
+☋ Forks: 112
 
 ★ Stars: 118
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 118 | 112 | 
 | 2023-01-02 | 118 | 110 | 
 | 2023-01-01 | 116 | 107 | 
 | 2022-12-31 | 111 | 104 | 

@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 03
 
 ☋ Forks: 270
 
-★ Stars: 745
+★ Stars: 746
 
 [Open repository](https://github.com/fastai/course22)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-03 | 745 | 270 | 
+| 2023-01-03 | 746 | 270 | 
 | 2023-01-02 | 743 | 270 | 
 | 2023-01-01 | 728 | 270 | 
 | 2022-12-31 | 724 | 268 | 
@@ -41,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 654 | 241 | 
 | 2022-12-06 | 652 | 240 | 
 | 2022-12-05 | 649 | 239 | 
-| 2022-12-04 | 647 | 237 | 
 

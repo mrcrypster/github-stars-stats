@@ -1,10 +1,10 @@
 # eatonphil/zigrocks - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 3
 
-★ Stars: 67
+★ Stars: 69
 
 [Open repository](https://github.com/eatonphil/zigrocks)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 69 | 3 | 
 | 2023-01-02 | 67 | 3 | 
 | 2023-01-01 | 67 | 3 | 
 | 2022-12-31 | 67 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 65 | 2 | 
 | 2022-12-07 | 65 | 2 | 
 | 2022-12-06 | 65 | 2 | 
-| 2022-12-05 | 65 | 2 | 
 

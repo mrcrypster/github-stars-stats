@@ -1,6 +1,6 @@
 # SPECFEM/specfem3d_globe - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 87
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 71 | 87 | 
 | 2023-01-02 | 71 | 87 | 
 | 2023-01-01 | 71 | 87 | 
 | 2022-12-31 | 71 | 87 | 

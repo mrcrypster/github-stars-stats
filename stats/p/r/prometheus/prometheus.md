@@ -1,10 +1,10 @@
 # prometheus/prometheus - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 7764
+☋ Forks: 7770
 
-★ Stars: 46167
+★ Stars: 46180
 
 [Open repository](https://github.com/prometheus/prometheus)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 46180 | 7770 | 
 | 2023-01-02 | 46167 | 7764 | 
 | 2023-01-01 | 46155 | 7764 | 
 | 2022-12-31 | 46149 | 7764 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 45854 | 7711 | 
 | 2022-12-07 | 45831 | 7706 | 
 | 2022-12-05 | 45804 | 7707 | 
-| 2022-12-04 | 45789 | 7706 | 
 

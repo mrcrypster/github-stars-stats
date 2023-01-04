@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-codebuild - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 116
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 96 | 116 | 
 | 2023-01-03 | 96 | 116 | 
 | 2023-01-01 | 96 | 116 | 
 | 2022-12-31 | 95 | 116 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 95 | 116 | 
 | 2022-12-07 | 95 | 116 | 
 | 2022-12-05 | 95 | 116 | 
-| 2022-12-04 | 95 | 116 | 
 

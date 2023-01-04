@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 03
 
-☋ Forks: 2984
+☋ Forks: 2985
 
-★ Stars: 3330
+★ Stars: 3331
 
 [Open repository](https://github.com/openwrt/packages)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-03 | 3330 | 2984 | 
+| 2023-01-03 | 3331 | 2985 | 
 | 2023-01-02 | 3331 | 2984 | 
 | 2023-01-01 | 3328 | 2982 | 
 | 2022-12-31 | 3327 | 2984 | 

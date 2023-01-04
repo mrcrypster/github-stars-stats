@@ -1,6 +1,6 @@
 # danihodovic/django-allauth-ui - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 110 | 10 | 
 | 2023-01-02 | 110 | 10 | 
 | 2023-01-01 | 110 | 10 | 
 | 2022-12-31 | 110 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-07 | 109 | 9 | 
 | 2022-12-06 | 108 | 9 | 
 | 2022-12-05 | 108 | 9 | 
-| 2022-12-04 | 108 | 9 | 
 

@@ -1,6 +1,6 @@
 # The-Good-Stores/the-goods-store - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 2 | 7 | 
 | 2023-01-02 | 2 | 7 | 
 | 2023-01-01 | 2 | 7 | 
 | 2022-12-31 | 2 | 7 | 

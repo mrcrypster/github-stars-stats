@@ -1,6 +1,6 @@
 # milaan9/Python_Computer_Vision_from_Scratch - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 181
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 221 | 181 | 
 | 2023-01-02 | 221 | 181 | 
 | 2023-01-01 | 221 | 181 | 
 | 2022-12-31 | 221 | 181 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 219 | 181 | 
 | 2022-12-07 | 219 | 181 | 
 | 2022-12-06 | 219 | 181 | 
-| 2022-12-04 | 218 | 181 | 
 

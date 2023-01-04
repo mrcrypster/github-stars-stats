@@ -1,8 +1,8 @@
 # JordanHatch/civictech.club - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 36
+☋ Forks: 38
 
 ★ Stars: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 12 | 38 | 
 | 2023-01-02 | 12 | 36 | 
 | 2023-01-01 | 12 | 36 | 
 | 2022-12-31 | 12 | 36 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 10 | 34 | 
 | 2022-12-07 | 10 | 34 | 
 | 2022-12-06 | 10 | 34 | 
-| 2022-12-04 | 9 | 33 | 
 

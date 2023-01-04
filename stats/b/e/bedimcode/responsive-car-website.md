@@ -1,10 +1,10 @@
 # bedimcode/responsive-car-website - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 60
+☋ Forks: 61
 
-★ Stars: 91
+★ Stars: 92
 
 [Open repository](https://github.com/bedimcode/responsive-car-website)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 92 | 61 | 
 | 2023-01-02 | 91 | 60 | 
 | 2023-01-01 | 91 | 60 | 
 | 2022-12-31 | 91 | 60 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 91 | 60 | 
 | 2022-12-07 | 91 | 60 | 
 | 2022-12-05 | 91 | 60 | 
-| 2022-12-04 | 90 | 59 | 
 

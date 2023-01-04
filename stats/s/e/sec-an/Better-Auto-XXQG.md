@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 03
 
-☋ Forks: 168
+☋ Forks: 169
 
-★ Stars: 576
+★ Stars: 577
 
 [Open repository](https://github.com/sec-an/Better-Auto-XXQG)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-03 | 576 | 168 | 
+| 2023-01-03 | 577 | 169 | 
 | 2023-01-02 | 576 | 168 | 
 | 2023-01-01 | 569 | 166 | 
 | 2022-12-31 | 565 | 162 | 
@@ -40,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 540 | 160 | 
 | 2022-12-07 | 538 | 160 | 
 | 2022-12-06 | 535 | 160 | 
-| 2022-12-04 | 531 | 157 | 
 

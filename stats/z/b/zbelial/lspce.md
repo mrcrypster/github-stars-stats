@@ -1,6 +1,6 @@
 # zbelial/lspce - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 52 | 3 | 
 | 2023-01-02 | 52 | 3 | 
 | 2023-01-01 | 52 | 3 | 
 | 2022-12-31 | 52 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 47 | 3 | 
 | 2022-12-06 | 47 | 3 | 
 | 2022-12-05 | 47 | 3 | 
-| 2022-12-04 | 47 | 3 | 
 

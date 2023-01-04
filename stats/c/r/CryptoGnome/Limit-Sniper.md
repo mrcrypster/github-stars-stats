@@ -1,8 +1,8 @@
 # CryptoGnome/Limit-Sniper - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 197
+☋ Forks: 196
 
 ★ Stars: 424
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 424 | 196 | 
 | 2023-01-03 | 424 | 197 | 
 | 2023-01-01 | 424 | 197 | 
 | 2022-12-31 | 424 | 196 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-07 | 423 | 196 | 
 | 2022-12-06 | 423 | 196 | 
 | 2022-12-05 | 423 | 196 | 
-| 2022-12-04 | 423 | 196 | 
 

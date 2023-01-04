@@ -1,10 +1,10 @@
 # Alvin9999/new-pac - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 7739
 
-★ Stars: 39409
+★ Stars: 39426
 
 [Open repository](https://github.com/Alvin9999/new-pac)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 39426 | 7739 | 
 | 2023-01-02 | 39409 | 7739 | 
 | 2023-01-01 | 39383 | 7738 | 
 | 2022-12-31 | 39378 | 7738 | 
@@ -38,5 +39,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-09 | 38964 | 7702 | 
 | 2022-12-07 | 38928 | 7697 | 
 | 2022-12-06 | 38887 | 7695 | 
-| 2022-12-04 | 38840 | 7694 | 
 

@@ -1,10 +1,10 @@
 # Daltron/NotificationBanner - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 611
+☋ Forks: 612
 
-★ Stars: 4510
+★ Stars: 4511
 
 [Open repository](https://github.com/Daltron/NotificationBanner)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 4511 | 612 | 
 | 2023-01-02 | 4510 | 611 | 
 | 2023-01-01 | 4510 | 611 | 
 | 2022-12-31 | 4510 | 610 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 4502 | 609 | 
 | 2022-12-07 | 4502 | 609 | 
 | 2022-12-06 | 4502 | 609 | 
-| 2022-12-04 | 4503 | 609 | 
 

@@ -1,6 +1,6 @@
 # vincent-li/h5maker - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 54 | 9 | 
 | 2023-01-02 | 54 | 9 | 
 | 2023-01-01 | 54 | 9 | 
 | 2022-12-31 | 54 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 54 | 9 | 
 | 2022-12-07 | 54 | 9 | 
 | 2022-12-06 | 54 | 9 | 
-| 2022-12-04 | 54 | 9 | 
 

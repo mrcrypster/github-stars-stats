@@ -1,10 +1,10 @@
 # projectdiscovery/fuzzing-templates - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 22
+☋ Forks: 24
 
-★ Stars: 220
+★ Stars: 223
 
 [Open repository](https://github.com/projectdiscovery/fuzzing-templates)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 223 | 24 | 
 | 2023-01-02 | 220 | 22 | 
 | 2023-01-01 | 217 | 22 | 
 | 2022-12-31 | 216 | 22 | 

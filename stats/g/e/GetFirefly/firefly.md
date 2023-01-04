@@ -1,6 +1,6 @@
 # GetFirefly/firefly - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 92
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 3101 | 92 | 
 | 2023-01-02 | 3101 | 92 | 
 | 2023-01-01 | 3101 | 92 | 
 | 2022-12-31 | 3100 | 92 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 3090 | 91 | 
 | 2022-12-07 | 3090 | 91 | 
 | 2022-12-05 | 3087 | 91 | 
-| 2022-12-04 | 3086 | 91 | 
 

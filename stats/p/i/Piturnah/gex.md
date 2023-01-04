@@ -1,8 +1,8 @@
 # Piturnah/gex - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 3
+☋ Forks: 4
 
 ★ Stars: 204
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 204 | 4 | 
 | 2023-01-02 | 204 | 3 | 
 | 2023-01-01 | 204 | 3 | 
 | 2022-12-31 | 204 | 3 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 196 | 3 | 
 | 2022-12-07 | 195 | 3 | 
 | 2022-12-06 | 195 | 3 | 
-| 2022-12-04 | 194 | 3 | 
 

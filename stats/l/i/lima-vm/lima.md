@@ -1,10 +1,10 @@
 # lima-vm/lima - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 407
 
-★ Stars: 10287
+★ Stars: 10298
 
 [Open repository](https://github.com/lima-vm/lima)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 10298 | 407 | 
 | 2023-01-02 | 10287 | 407 | 
 | 2023-01-01 | 10287 | 407 | 
 | 2022-12-31 | 10287 | 407 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-09 | 10094 | 396 | 
 | 2022-12-07 | 10078 | 395 | 
 | 2022-12-06 | 10068 | 393 | 
-| 2022-12-04 | 10051 | 393 | 
 

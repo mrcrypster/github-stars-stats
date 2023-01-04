@@ -1,10 +1,10 @@
 # esl/MongooseIM - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 419
 
-★ Stars: 1533
+★ Stars: 1534
 
 [Open repository](https://github.com/esl/MongooseIM)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 1534 | 419 | 
 | 2023-01-02 | 1533 | 419 | 
 | 2023-01-01 | 1533 | 419 | 
 | 2022-12-31 | 1533 | 419 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-07 | 1529 | 418 | 
 | 2022-12-06 | 1529 | 418 | 
 | 2022-12-05 | 1529 | 418 | 
-| 2022-12-04 | 1529 | 418 | 
 

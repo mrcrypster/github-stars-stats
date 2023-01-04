@@ -1,10 +1,10 @@
 # facebook/ThreatExchange - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 274
 
-★ Stars: 1001
+★ Stars: 1002
 
 [Open repository](https://github.com/facebook/ThreatExchange)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 1002 | 274 | 
 | 2023-01-02 | 1001 | 274 | 
 | 2023-01-01 | 1001 | 274 | 
 | 2022-12-31 | 1001 | 274 | 

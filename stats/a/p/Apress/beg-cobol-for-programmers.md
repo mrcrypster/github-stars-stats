@@ -1,6 +1,6 @@
 # Apress/beg-cobol-for-programmers - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 71 | 29 | 
 | 2023-01-02 | 71 | 29 | 
 | 2023-01-01 | 71 | 29 | 
 | 2022-12-31 | 71 | 29 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 71 | 28 | 
 | 2022-12-07 | 71 | 28 | 
 | 2022-12-06 | 71 | 28 | 
-| 2022-12-04 | 71 | 28 | 
 

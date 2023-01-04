@@ -1,6 +1,6 @@
 # UniiemStudio/CTFever - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 252 | 27 | 
 | 2023-01-02 | 252 | 27 | 
 | 2023-01-01 | 252 | 27 | 
 | 2022-12-31 | 251 | 26 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 251 | 26 | 
 | 2022-12-07 | 251 | 26 | 
 | 2022-12-06 | 252 | 26 | 
-| 2022-12-05 | 252 | 26 | 
 

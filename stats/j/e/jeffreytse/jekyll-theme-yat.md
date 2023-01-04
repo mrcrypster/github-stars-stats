@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 03
 
-☋ Forks: 531
+☋ Forks: 530
 
-★ Stars: 591
+★ Stars: 592
 
 [Open repository](https://github.com/jeffreytse/jekyll-theme-yat)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-03 | 591 | 531 | 
+| 2023-01-03 | 592 | 530 | 
 | 2023-01-02 | 591 | 531 | 
 | 2023-01-01 | 587 | 531 | 
 | 2022-12-31 | 585 | 527 | 
@@ -41,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 572 | 514 | 
 | 2022-12-06 | 572 | 514 | 
 | 2022-12-05 | 571 | 514 | 
-| 2022-12-04 | 571 | 514 | 
 

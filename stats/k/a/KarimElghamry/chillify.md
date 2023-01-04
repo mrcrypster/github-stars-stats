@@ -1,10 +1,10 @@
 # KarimElghamry/chillify - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 168
 
-★ Stars: 625
+★ Stars: 628
 
 [Open repository](https://github.com/KarimElghamry/chillify)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 628 | 168 | 
 | 2023-01-02 | 625 | 168 | 
 | 2023-01-01 | 625 | 167 | 
 | 2022-12-31 | 625 | 167 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 603 | 159 | 
 | 2022-12-07 | 601 | 159 | 
 | 2022-12-06 | 599 | 159 | 
-| 2022-12-04 | 597 | 159 | 
 

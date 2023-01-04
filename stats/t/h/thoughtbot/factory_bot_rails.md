@@ -1,6 +1,6 @@
 # thoughtbot/factory_bot_rails - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 358
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 2894 | 358 | 
 | 2023-01-02 | 2894 | 358 | 
 | 2023-01-01 | 2893 | 358 | 
 | 2022-12-31 | 2892 | 358 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-07 | 2889 | 357 | 
 | 2022-12-06 | 2888 | 357 | 
 | 2022-12-05 | 2888 | 357 | 
-| 2022-12-04 | 2888 | 357 | 
 

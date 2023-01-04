@@ -1,6 +1,6 @@
 # moesoha/debian-media-box - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 552 | 42 | 
 | 2023-01-02 | 552 | 42 | 
 | 2023-01-01 | 551 | 42 | 
 | 2022-12-31 | 549 | 42 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 497 | 37 | 
 | 2022-12-06 | 496 | 37 | 
 | 2022-12-05 | 496 | 37 | 
-| 2022-12-04 | 496 | 37 | 
 

@@ -1,10 +1,10 @@
 # mattn/webapi-vim - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 65
 
-★ Stars: 666
+★ Stars: 667
 
 [Open repository](https://github.com/mattn/webapi-vim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 667 | 65 | 
 | 2023-01-03 | 666 | 65 | 
 | 2023-01-01 | 665 | 65 | 
 | 2022-12-31 | 665 | 65 | 

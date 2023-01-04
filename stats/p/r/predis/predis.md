@@ -1,6 +1,6 @@
 # predis/predis - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 960
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 7272 | 960 | 
 | 2023-01-02 | 7272 | 960 | 
 | 2023-01-01 | 7271 | 960 | 
 | 2022-12-31 | 7271 | 960 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 7261 | 958 | 
 | 2022-12-07 | 7260 | 959 | 
 | 2022-12-06 | 7260 | 959 | 
-| 2022-12-04 | 7256 | 958 | 
 

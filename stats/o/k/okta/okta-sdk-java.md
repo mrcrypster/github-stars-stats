@@ -1,8 +1,8 @@
 # okta/okta-sdk-java - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 125
+☋ Forks: 126
 
 ★ Stars: 121
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 121 | 126 | 
 | 2023-01-02 | 121 | 125 | 
 | 2023-01-01 | 121 | 125 | 
 | 2022-12-31 | 121 | 125 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 118 | 124 | 
 | 2022-12-07 | 118 | 123 | 
 | 2022-12-06 | 118 | 123 | 
-| 2022-12-04 | 118 | 123 | 
 

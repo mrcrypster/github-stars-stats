@@ -1,10 +1,10 @@
 # scwang90/SmartRefreshLayout - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 4895
 
-★ Stars: 24012
+★ Stars: 24014
 
 [Open repository](https://github.com/scwang90/SmartRefreshLayout)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 24014 | 4895 | 
 | 2023-01-02 | 24012 | 4895 | 
 | 2023-01-01 | 24010 | 4895 | 
 | 2022-12-31 | 24008 | 4895 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 23961 | 4890 | 
 | 2022-12-07 | 23961 | 4892 | 
 | 2022-12-06 | 23960 | 4892 | 
-| 2022-12-04 | 23958 | 4891 | 
 

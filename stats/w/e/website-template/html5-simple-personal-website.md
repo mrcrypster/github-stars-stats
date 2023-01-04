@@ -1,6 +1,6 @@
 # website-template/html5-simple-personal-website - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 78
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 34 | 78 | 
 | 2023-01-02 | 34 | 78 | 
 | 2023-01-01 | 34 | 78 | 
 | 2022-12-31 | 34 | 78 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 34 | 74 | 
 | 2022-12-07 | 34 | 74 | 
 | 2022-12-06 | 34 | 74 | 
-| 2022-12-04 | 34 | 74 | 
 

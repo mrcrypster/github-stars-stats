@@ -1,6 +1,6 @@
 # damienbenveniste/Intro-to-Data-Science - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 71
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 255 | 71 | 
 | 2023-01-02 | 255 | 71 | 
 | 2023-01-01 | 255 | 71 | 
 | 2022-12-31 | 255 | 71 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 258 | 70 | 
 | 2022-12-07 | 258 | 70 | 
 | 2022-12-06 | 258 | 70 | 
-| 2022-12-04 | 258 | 70 | 
 

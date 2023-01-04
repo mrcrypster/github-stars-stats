@@ -1,6 +1,6 @@
 # adobe/rules_gitops - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 112 | 30 | 
 | 2023-01-02 | 112 | 30 | 
 | 2023-01-01 | 112 | 30 | 
 | 2022-12-31 | 112 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 111 | 30 | 
 | 2022-12-06 | 111 | 30 | 
 | 2022-12-05 | 111 | 30 | 
-| 2022-12-04 | 111 | 30 | 
 

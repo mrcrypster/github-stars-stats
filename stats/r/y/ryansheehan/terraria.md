@@ -1,6 +1,6 @@
 # ryansheehan/terraria - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 94
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 213 | 94 | 
 | 2023-01-02 | 213 | 94 | 
 | 2023-01-01 | 213 | 94 | 
 | 2022-12-31 | 213 | 94 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 211 | 97 | 
 | 2022-12-07 | 211 | 97 | 
 | 2022-12-05 | 210 | 97 | 
-| 2022-12-04 | 210 | 97 | 
 

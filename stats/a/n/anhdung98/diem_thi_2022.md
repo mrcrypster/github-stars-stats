@@ -1,6 +1,6 @@
 # anhdung98/diem_thi_2022 - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 30 | 18 | 
 | 2023-01-02 | 30 | 18 | 
 | 2023-01-01 | 30 | 18 | 
 | 2022-12-31 | 30 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-07 | 30 | 18 | 
 | 2022-12-06 | 30 | 18 | 
 | 2022-12-05 | 30 | 18 | 
-| 2022-12-04 | 30 | 18 | 
 

@@ -1,8 +1,8 @@
 # PrestaShop/hummingbird - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 37
+☋ Forks: 38
 
 ★ Stars: 51
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 51 | 38 | 
 | 2023-01-02 | 51 | 37 | 
 | 2023-01-01 | 51 | 37 | 
 | 2022-12-31 | 51 | 37 | 

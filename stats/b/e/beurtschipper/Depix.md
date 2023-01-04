@@ -1,10 +1,10 @@
 # beurtschipper/Depix - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 2827
+☋ Forks: 2828
 
-★ Stars: 23117
+★ Stars: 23119
 
 [Open repository](https://github.com/beurtschipper/Depix)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 23119 | 2828 | 
 | 2023-01-02 | 23117 | 2827 | 
 | 2023-01-01 | 23112 | 2827 | 
 | 2022-12-31 | 23111 | 2827 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 22999 | 2805 | 
 | 2022-12-07 | 22997 | 2805 | 
 | 2022-12-06 | 22998 | 2803 | 
-| 2022-12-04 | 22995 | 2805 | 
 

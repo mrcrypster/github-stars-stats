@@ -1,6 +1,6 @@
 # nqounet/p5-md2reveal - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 6 | 1 | 
 | 2023-01-02 | 6 | 1 | 
 | 2023-01-01 | 6 | 1 | 
 | 2022-12-31 | 6 | 1 | 

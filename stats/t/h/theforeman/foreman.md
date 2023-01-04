@@ -1,6 +1,6 @@
 # theforeman/foreman - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 956
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 2281 | 956 | 
 | 2023-01-02 | 2281 | 956 | 
 | 2023-01-01 | 2279 | 956 | 
 | 2022-12-31 | 2278 | 956 | 

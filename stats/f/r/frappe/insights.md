@@ -1,10 +1,10 @@
 # frappe/insights - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 49
 
-★ Stars: 148
+★ Stars: 149
 
 [Open repository](https://github.com/frappe/insights)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 149 | 49 | 
 | 2023-01-02 | 148 | 49 | 
 | 2023-01-01 | 147 | 49 | 
 | 2022-12-31 | 147 | 49 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 135 | 45 | 
 | 2022-12-07 | 135 | 44 | 
 | 2022-12-05 | 135 | 44 | 
-| 2022-12-04 | 135 | 44 | 
 

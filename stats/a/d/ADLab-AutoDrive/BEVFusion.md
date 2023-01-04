@@ -1,10 +1,10 @@
 # ADLab-AutoDrive/BEVFusion - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 44
+☋ Forks: 45
 
-★ Stars: 332
+★ Stars: 333
 
 [Open repository](https://github.com/ADLab-AutoDrive/BEVFusion)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 333 | 45 | 
 | 2023-01-02 | 332 | 44 | 
 | 2023-01-01 | 332 | 44 | 
 | 2022-12-31 | 332 | 44 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 320 | 42 | 
 | 2022-12-07 | 320 | 42 | 
 | 2022-12-05 | 314 | 42 | 
-| 2022-12-04 | 312 | 42 | 
 

@@ -1,6 +1,6 @@
 # utdemir/nix-tree - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 291 | 6 | 
 | 2023-01-02 | 291 | 6 | 
 | 2023-01-01 | 290 | 6 | 
 | 2022-12-31 | 290 | 6 | 

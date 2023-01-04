@@ -1,10 +1,10 @@
 # mindee/doctr - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 200
 
-★ Stars: 1480
+★ Stars: 1482
 
 [Open repository](https://github.com/mindee/doctr)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 1482 | 200 | 
 | 2023-01-02 | 1480 | 200 | 
 | 2023-01-01 | 1478 | 200 | 
 | 2022-12-31 | 1477 | 199 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 1403 | 186 | 
 | 2022-12-07 | 1401 | 184 | 
 | 2022-12-05 | 1401 | 184 | 
-| 2022-12-04 | 1402 | 183 | 
 

@@ -1,10 +1,10 @@
 # basecamp/policies - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 251
 
-★ Stars: 1778
+★ Stars: 1780
 
 [Open repository](https://github.com/basecamp/policies)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 1780 | 251 | 
 | 2023-01-03 | 1778 | 251 | 
 | 2023-01-02 | 1777 | 251 | 
 | 2022-12-31 | 1775 | 251 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-07 | 1771 | 252 | 
 | 2022-12-06 | 1771 | 252 | 
 | 2022-12-05 | 1769 | 250 | 
-| 2022-12-04 | 1769 | 250 | 
 

@@ -1,6 +1,6 @@
 # kosayoda/nvim-lightbulb - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 548 | 13 | 
 | 2023-01-02 | 548 | 13 | 
 | 2023-01-01 | 547 | 13 | 
 | 2022-12-31 | 547 | 13 | 

@@ -1,6 +1,6 @@
 # ebobby/has-many-with-set - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 230 | 4 | 
 | 2023-01-02 | 230 | 4 | 
 | 2023-01-01 | 230 | 4 | 
 | 2022-12-31 | 230 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 230 | 4 | 
 | 2022-12-07 | 231 | 4 | 
 | 2022-12-06 | 231 | 4 | 
-| 2022-12-04 | 231 | 4 | 
 

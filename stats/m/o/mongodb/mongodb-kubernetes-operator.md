@@ -1,8 +1,8 @@
 # mongodb/mongodb-kubernetes-operator - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 356
+☋ Forks: 357
 
 ★ Stars: 780
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 780 | 357 | 
 | 2023-01-02 | 780 | 356 | 
 | 2023-01-01 | 780 | 355 | 
 | 2022-12-31 | 779 | 354 | 

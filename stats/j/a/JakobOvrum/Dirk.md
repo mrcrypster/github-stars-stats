@@ -1,6 +1,6 @@
 # JakobOvrum/Dirk - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 27 | 6 | 
 | 2023-01-03 | 27 | 6 | 
 | 2023-01-01 | 27 | 6 | 
 | 2022-12-31 | 27 | 6 | 

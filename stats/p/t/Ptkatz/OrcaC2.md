@@ -1,6 +1,6 @@
 # Ptkatz/OrcaC2 - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 423 | 56 | 
 | 2023-01-02 | 423 | 56 | 
 | 2023-01-01 | 423 | 56 | 
 | 2022-12-31 | 423 | 56 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-09 | 393 | 51 | 
 | 2022-12-07 | 387 | 49 | 
 | 2022-12-06 | 385 | 49 | 
-| 2022-12-04 | 385 | 49 | 
 

@@ -1,10 +1,10 @@
 # goitacademy/react-homework-template - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 139
 
-★ Stars: 100
+★ Stars: 101
 
 [Open repository](https://github.com/goitacademy/react-homework-template)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 101 | 139 | 
 | 2023-01-02 | 100 | 139 | 
 | 2023-01-01 | 100 | 138 | 
 | 2022-12-31 | 100 | 138 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 89 | 130 | 
 | 2022-12-07 | 89 | 130 | 
 | 2022-12-06 | 88 | 128 | 
-| 2022-12-04 | 88 | 128 | 
 

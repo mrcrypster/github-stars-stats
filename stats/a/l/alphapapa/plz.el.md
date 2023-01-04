@@ -1,10 +1,10 @@
 # alphapapa/plz.el - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 5
 
-★ Stars: 105
+★ Stars: 106
 
 [Open repository](https://github.com/alphapapa/plz.el)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 106 | 5 | 
+| 2023-01-03 | 105 | 5 | 
 | 2023-01-02 | 105 | 5 | 
 | 2023-01-01 | 101 | 5 | 
 | 2022-12-31 | 91 | 5 | 
@@ -40,5 +42,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-07 | 91 | 5 | 
 | 2022-12-06 | 91 | 5 | 
 | 2022-12-05 | 91 | 5 | 
-| 2022-12-04 | 90 | 5 | 
 

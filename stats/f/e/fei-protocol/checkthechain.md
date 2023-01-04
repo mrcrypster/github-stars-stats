@@ -1,10 +1,10 @@
 # fei-protocol/checkthechain - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 75
 
-★ Stars: 654
+★ Stars: 656
 
 [Open repository](https://github.com/fei-protocol/checkthechain)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 656 | 75 | 
 | 2023-01-02 | 654 | 75 | 
 | 2023-01-01 | 654 | 75 | 
 | 2022-12-31 | 654 | 75 | 

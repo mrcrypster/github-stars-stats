@@ -1,6 +1,6 @@
 # zapellass123/Golang-Project - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 255
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 158 | 255 | 
 | 2023-01-02 | 158 | 255 | 
 | 2023-01-01 | 158 | 255 | 
 | 2022-12-31 | 158 | 255 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 158 | 256 | 
 | 2022-12-07 | 158 | 256 | 
 | 2022-12-06 | 158 | 256 | 
-| 2022-12-04 | 158 | 256 | 
 

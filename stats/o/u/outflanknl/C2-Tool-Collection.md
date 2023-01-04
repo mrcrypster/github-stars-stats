@@ -1,10 +1,10 @@
 # outflanknl/C2-Tool-Collection - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 108
 
-★ Stars: 684
+★ Stars: 685
 
 [Open repository](https://github.com/outflanknl/C2-Tool-Collection)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 685 | 108 | 
 | 2023-01-02 | 684 | 108 | 
 | 2023-01-01 | 683 | 108 | 
 | 2022-12-31 | 682 | 108 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 643 | 97 | 
 | 2022-12-07 | 643 | 96 | 
 | 2022-12-06 | 642 | 95 | 
-| 2022-12-04 | 635 | 95 | 
 

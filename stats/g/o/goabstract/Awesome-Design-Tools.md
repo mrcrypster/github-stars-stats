@@ -1,10 +1,10 @@
 # goabstract/Awesome-Design-Tools - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 1957
 
-★ Stars: 27208
+★ Stars: 27218
 
 [Open repository](https://github.com/goabstract/Awesome-Design-Tools)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 27218 | 1957 | 
 | 2023-01-03 | 27208 | 1957 | 
 | 2023-01-02 | 27198 | 1957 | 
 | 2022-12-31 | 27189 | 1957 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 26951 | 1948 | 
 | 2022-12-07 | 26944 | 1949 | 
 | 2022-12-05 | 26935 | 1948 | 
-| 2022-12-04 | 26925 | 1948 | 
 

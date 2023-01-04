@@ -1,10 +1,10 @@
 # Proviesec/google-dorks - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 66
 
-★ Stars: 411
+★ Stars: 414
 
 [Open repository](https://github.com/Proviesec/google-dorks)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 414 | 66 | 
 | 2023-01-02 | 411 | 66 | 
 | 2023-01-01 | 410 | 66 | 
 | 2022-12-31 | 409 | 66 | 

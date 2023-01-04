@@ -1,10 +1,10 @@
 # Xilinx/mlir-aie - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 29
 
-★ Stars: 106
+★ Stars: 107
 
 [Open repository](https://github.com/Xilinx/mlir-aie)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 107 | 29 | 
 | 2023-01-02 | 106 | 29 | 
 | 2023-01-01 | 106 | 29 | 
 | 2022-12-31 | 106 | 29 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 104 | 28 | 
 | 2022-12-07 | 104 | 28 | 
 | 2022-12-05 | 104 | 28 | 
-| 2022-12-04 | 102 | 28 | 
 

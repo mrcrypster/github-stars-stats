@@ -1,6 +1,6 @@
 # noslate-project/noslate - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 271 | 13 | 
 | 2023-01-02 | 271 | 13 | 
 | 2023-01-01 | 271 | 13 | 
 | 2022-12-31 | 271 | 13 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 259 | 13 | 
 | 2022-12-07 | 259 | 13 | 
 | 2022-12-06 | 259 | 13 | 
-| 2022-12-04 | 257 | 13 | 
 

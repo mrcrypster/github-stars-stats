@@ -1,6 +1,6 @@
 # pizug/cpi-groovy-examples - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 47 | 24 | 
 | 2023-01-02 | 47 | 24 | 
 | 2023-01-01 | 47 | 24 | 
 | 2022-12-31 | 47 | 24 | 
@@ -38,5 +39,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-09 | 46 | 20 | 
 | 2022-12-08 | 46 | 20 | 
 | 2022-12-06 | 46 | 20 | 
-| 2022-12-04 | 46 | 20 | 
 

@@ -1,6 +1,6 @@
 # analysis-tools-dev/static-analysis - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 1199
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 10685 | 1199 | 
 | 2023-01-02 | 10685 | 1199 | 
 | 2023-01-01 | 10683 | 1199 | 
 | 2022-12-31 | 10683 | 1199 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-07 | 10601 | 1193 | 
 | 2022-12-06 | 10597 | 1193 | 
 | 2022-12-05 | 10592 | 1193 | 
-| 2022-12-04 | 10585 | 1193 | 
 

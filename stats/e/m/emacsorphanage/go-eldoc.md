@@ -1,6 +1,6 @@
 # emacsorphanage/go-eldoc - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 126 | 15 | 
 | 2023-01-02 | 126 | 15 | 
 | 2023-01-01 | 126 | 15 | 
 | 2022-12-31 | 126 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 126 | 15 | 
 | 2022-12-06 | 126 | 15 | 
 | 2022-12-05 | 126 | 15 | 
-| 2022-12-04 | 126 | 15 | 
 

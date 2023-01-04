@@ -1,10 +1,10 @@
 # gko/vim-coloresque - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 65
 
-★ Stars: 345
+★ Stars: 346
 
 [Open repository](https://github.com/gko/vim-coloresque)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 346 | 65 | 
 | 2023-01-02 | 345 | 65 | 
 | 2023-01-01 | 345 | 65 | 
 | 2022-12-31 | 345 | 65 | 

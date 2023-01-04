@@ -1,10 +1,10 @@
 # jobergum/browser-ml-inference - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 40
 
-★ Stars: 237
+★ Stars: 241
 
 [Open repository](https://github.com/jobergum/browser-ml-inference)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 241 | 40 | 
 | 2023-01-02 | 237 | 40 | 
 | 2023-01-01 | 237 | 40 | 
 | 2022-12-31 | 236 | 39 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-07 | 228 | 37 | 
 | 2022-12-06 | 228 | 37 | 
 | 2022-12-05 | 228 | 37 | 
-| 2022-12-04 | 228 | 36 | 
 

@@ -1,10 +1,10 @@
 # Zero6992/chatGPT-discord-bot - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 81
+☋ Forks: 83
 
-★ Stars: 412
+★ Stars: 417
 
 [Open repository](https://github.com/Zero6992/chatGPT-discord-bot)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 417 | 83 | 
 | 2023-01-02 | 412 | 81 | 
 | 2023-01-01 | 409 | 80 | 
 | 2022-12-31 | 406 | 79 | 

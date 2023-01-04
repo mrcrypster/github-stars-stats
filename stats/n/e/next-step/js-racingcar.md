@@ -1,10 +1,10 @@
 # next-step/js-racingcar - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 135
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/next-step/js-racingcar)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 35 | 135 | 
 | 2023-01-02 | 34 | 135 | 
 | 2023-01-01 | 34 | 135 | 
 | 2022-12-31 | 34 | 135 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 33 | 133 | 
 | 2022-12-07 | 33 | 132 | 
 | 2022-12-06 | 32 | 131 | 
-| 2022-12-04 | 32 | 129 | 
 

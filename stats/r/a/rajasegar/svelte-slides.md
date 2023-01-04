@@ -1,10 +1,10 @@
 # rajasegar/svelte-slides - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 2
 
-★ Stars: 51
+★ Stars: 52
 
 [Open repository](https://github.com/rajasegar/svelte-slides)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 52 | 2 | 
 | 2023-01-03 | 51 | 2 | 
 | 2023-01-02 | 51 | 2 | 
 | 2022-12-31 | 49 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 46 | 1 | 
 | 2022-12-07 | 46 | 1 | 
 | 2022-12-05 | 46 | 1 | 
-| 2022-12-04 | 46 | 1 | 
 

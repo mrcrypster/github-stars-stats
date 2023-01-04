@@ -1,6 +1,6 @@
 # luischaparroc/holbertonschool-low_level_programming - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 259
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 48 | 259 | 
 | 2023-01-02 | 48 | 259 | 
 | 2023-01-01 | 48 | 259 | 
 | 2022-12-31 | 48 | 259 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 47 | 247 | 
 | 2022-12-07 | 47 | 245 | 
 | 2022-12-06 | 46 | 244 | 
-| 2022-12-04 | 46 | 244 | 
 

@@ -1,10 +1,10 @@
 # sudheerj/vuejs-interview-questions - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 517
 
-★ Stars: 1887
+★ Stars: 1889
 
 [Open repository](https://github.com/sudheerj/vuejs-interview-questions)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 1889 | 517 | 
 | 2023-01-02 | 1887 | 517 | 
 | 2023-01-01 | 1886 | 517 | 
 | 2022-12-31 | 1886 | 517 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 1871 | 507 | 
 | 2022-12-07 | 1871 | 506 | 
 | 2022-12-05 | 1867 | 506 | 
-| 2022-12-04 | 1865 | 506 | 
 

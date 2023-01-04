@@ -1,6 +1,6 @@
 # BrayanTorres2/Bases_De_Datos - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 18 | 12 | 
 | 2023-01-03 | 18 | 12 | 
 | 2023-01-02 | 18 | 12 | 
 | 2022-12-31 | 18 | 12 | 

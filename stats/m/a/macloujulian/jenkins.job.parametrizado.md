@@ -1,6 +1,6 @@
 # macloujulian/jenkins.job.parametrizado - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 2 | 57 | 
 | 2023-01-02 | 2 | 57 | 
 | 2023-01-01 | 2 | 57 | 
 | 2022-12-31 | 2 | 57 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 2 | 54 | 
 | 2022-12-07 | 2 | 54 | 
 | 2022-12-06 | 2 | 54 | 
-| 2022-12-04 | 2 | 54 | 
 

@@ -1,10 +1,10 @@
 # virtual-puppet-project/vpuppr - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 33
 
-★ Stars: 392
+★ Stars: 393
 
 [Open repository](https://github.com/virtual-puppet-project/vpuppr)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 393 | 33 | 
 | 2023-01-02 | 392 | 33 | 
 | 2023-01-01 | 391 | 32 | 
 | 2022-12-31 | 391 | 32 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 379 | 32 | 
 | 2022-12-07 | 378 | 32 | 
 | 2022-12-05 | 375 | 32 | 
-| 2022-12-04 | 372 | 32 | 
 

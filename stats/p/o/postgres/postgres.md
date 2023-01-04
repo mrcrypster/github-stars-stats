@@ -1,10 +1,10 @@
 # postgres/postgres - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 3629
 
-★ Stars: 11553
+★ Stars: 11561
 
 [Open repository](https://github.com/postgres/postgres)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 11561 | 3629 | 
 | 2023-01-02 | 11553 | 3629 | 
 | 2023-01-01 | 11548 | 3628 | 
 | 2022-12-31 | 11545 | 3627 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 11434 | 3598 | 
 | 2022-12-07 | 11424 | 3598 | 
 | 2022-12-06 | 11419 | 3596 | 
-| 2022-12-04 | 11416 | 3594 | 
 

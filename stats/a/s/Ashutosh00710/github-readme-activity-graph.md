@@ -1,10 +1,10 @@
 # Ashutosh00710/github-readme-activity-graph - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 411
+☋ Forks: 416
 
-★ Stars: 862
+★ Stars: 867
 
 [Open repository](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 867 | 416 | 
 | 2023-01-02 | 862 | 411 | 
 | 2023-01-01 | 860 | 409 | 
 | 2022-12-31 | 859 | 407 | 

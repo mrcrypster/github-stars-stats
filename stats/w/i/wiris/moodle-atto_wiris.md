@@ -1,6 +1,6 @@
 # wiris/moodle-atto_wiris - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 7 | 12 | 
 | 2023-01-02 | 7 | 12 | 
 | 2023-01-01 | 7 | 12 | 
 | 2022-12-31 | 7 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 7 | 12 | 
 | 2022-12-07 | 7 | 12 | 
 | 2022-12-05 | 7 | 12 | 
-| 2022-12-04 | 7 | 12 | 
 

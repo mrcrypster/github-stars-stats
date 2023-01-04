@@ -1,10 +1,10 @@
 # julianfaraway/rexamples - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 14
 
-★ Stars: 93
+★ Stars: 92
 
 [Open repository](https://github.com/julianfaraway/rexamples)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 92 | 14 | 
 | 2023-01-03 | 93 | 14 | 
 | 2023-01-01 | 93 | 14 | 
 | 2022-12-31 | 93 | 14 | 

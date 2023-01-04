@@ -1,10 +1,10 @@
 # vmware-tanzu/kubeapps - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 680
 
-★ Stars: 4420
+★ Stars: 4421
 
 [Open repository](https://github.com/vmware-tanzu/kubeapps)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 4421 | 680 | 
 | 2023-01-02 | 4420 | 680 | 
 | 2023-01-01 | 4420 | 680 | 
 | 2022-12-31 | 4420 | 680 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 4408 | 677 | 
 | 2022-12-07 | 4408 | 677 | 
 | 2022-12-06 | 4407 | 677 | 
-| 2022-12-05 | 4407 | 677 | 
 

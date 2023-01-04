@@ -1,10 +1,10 @@
 # ScarredMonk/SysmonSimulator - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 98
 
-★ Stars: 746
+★ Stars: 748
 
 [Open repository](https://github.com/ScarredMonk/SysmonSimulator)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 748 | 98 | 
 | 2023-01-02 | 746 | 98 | 
 | 2023-01-01 | 746 | 98 | 
 | 2022-12-31 | 746 | 98 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 742 | 96 | 
 | 2022-12-07 | 742 | 96 | 
 | 2022-12-06 | 742 | 96 | 
-| 2022-12-04 | 742 | 96 | 
 

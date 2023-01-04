@@ -1,10 +1,10 @@
 # chai2010/awesome-wasm-zh - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 64
 
-★ Stars: 957
+★ Stars: 958
 
 [Open repository](https://github.com/chai2010/awesome-wasm-zh)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 958 | 64 | 
 | 2023-01-02 | 957 | 64 | 
 | 2023-01-01 | 957 | 64 | 
 | 2022-12-31 | 957 | 64 | 

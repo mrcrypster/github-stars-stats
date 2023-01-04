@@ -1,10 +1,10 @@
 # SpongePowered/Mixin - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 157
 
-★ Stars: 1069
+★ Stars: 1070
 
 [Open repository](https://github.com/SpongePowered/Mixin)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 1070 | 157 | 
 | 2023-01-02 | 1069 | 157 | 
 | 2023-01-01 | 1069 | 157 | 
 | 2022-12-31 | 1068 | 157 | 

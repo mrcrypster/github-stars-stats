@@ -1,6 +1,6 @@
 # jrl-umi3218/jrl-umi3218.github.com - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 5 | 24 | 
 | 2023-01-02 | 5 | 24 | 
 | 2023-01-01 | 5 | 24 | 
 | 2022-12-31 | 5 | 24 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 6 | 24 | 
 | 2022-12-07 | 6 | 24 | 
 | 2022-12-05 | 6 | 24 | 
-| 2022-12-04 | 6 | 24 | 
 

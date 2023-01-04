@@ -1,10 +1,10 @@
 # huggingface/notebooks - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 749
+☋ Forks: 752
 
-★ Stars: 1446
+★ Stars: 1450
 
 [Open repository](https://github.com/huggingface/notebooks)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 1450 | 752 | 
 | 2023-01-02 | 1446 | 749 | 
 | 2023-01-01 | 1445 | 750 | 
 | 2022-12-31 | 1442 | 749 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 1358 | 722 | 
 | 2022-12-07 | 1354 | 720 | 
 | 2022-12-05 | 1353 | 718 | 
-| 2022-12-04 | 1347 | 716 | 
 

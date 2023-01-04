@@ -1,10 +1,10 @@
 # candycat1992/Unity_Shaders_Book - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 1474
+☋ Forks: 1475
 
-★ Stars: 4333
+★ Stars: 4336
 
 [Open repository](https://github.com/candycat1992/Unity_Shaders_Book)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 4336 | 1475 | 
 | 2023-01-02 | 4333 | 1474 | 
 | 2023-01-01 | 4333 | 1473 | 
 | 2022-12-31 | 4332 | 1472 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-07 | 4312 | 1461 | 
 | 2022-12-06 | 4309 | 1461 | 
 | 2022-12-05 | 4306 | 1461 | 
-| 2022-12-04 | 4305 | 1461 | 
 

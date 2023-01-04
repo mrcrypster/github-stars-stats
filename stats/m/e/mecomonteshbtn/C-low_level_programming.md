@@ -1,10 +1,10 @@
 # mecomonteshbtn/C-low_level_programming - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 269
+☋ Forks: 270
 
-★ Stars: 88
+★ Stars: 90
 
 [Open repository](https://github.com/mecomonteshbtn/C-low_level_programming)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 90 | 270 | 
 | 2023-01-02 | 88 | 269 | 
 | 2023-01-01 | 88 | 269 | 
 | 2022-12-31 | 88 | 270 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 79 | 243 | 
 | 2022-12-07 | 77 | 236 | 
 | 2022-12-06 | 77 | 236 | 
-| 2022-12-04 | 77 | 236 | 
 

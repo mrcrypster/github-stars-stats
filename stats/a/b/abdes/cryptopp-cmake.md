@@ -1,10 +1,10 @@
 # abdes/cryptopp-cmake - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 10
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/abdes/cryptopp-cmake)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 27 | 10 | 
 | 2023-01-02 | 26 | 10 | 
 | 2023-01-01 | 26 | 10 | 
 | 2022-12-31 | 26 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 22 | 8 | 
 | 2022-12-07 | 22 | 8 | 
 | 2022-12-05 | 22 | 8 | 
-| 2022-12-04 | 22 | 8 | 
 

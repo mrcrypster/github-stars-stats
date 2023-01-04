@@ -1,10 +1,10 @@
 # google/docsy - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 732
 
-★ Stars: 2002
+★ Stars: 2003
 
 [Open repository](https://github.com/google/docsy)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 2003 | 732 | 
 | 2023-01-02 | 2002 | 732 | 
 | 2023-01-01 | 2002 | 733 | 
 | 2022-12-31 | 2001 | 733 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-09 | 1983 | 731 | 
 | 2022-12-08 | 1978 | 730 | 
 | 2022-12-06 | 1975 | 728 | 
-| 2022-12-04 | 1975 | 728 | 
 

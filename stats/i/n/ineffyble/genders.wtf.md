@@ -1,10 +1,10 @@
 # ineffyble/genders.wtf - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 17
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/ineffyble/genders.wtf)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 35 | 17 | 
 | 2023-01-02 | 34 | 17 | 
 | 2023-01-01 | 34 | 17 | 
 | 2022-12-31 | 34 | 17 | 

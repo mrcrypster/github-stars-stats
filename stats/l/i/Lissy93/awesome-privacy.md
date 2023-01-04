@@ -1,10 +1,10 @@
 # Lissy93/awesome-privacy - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 114
+☋ Forks: 115
 
-★ Stars: 3473
+★ Stars: 3484
 
 [Open repository](https://github.com/Lissy93/awesome-privacy)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 3484 | 115 | 
 | 2023-01-02 | 3473 | 114 | 
 | 2023-01-01 | 3469 | 115 | 
 | 2022-12-31 | 3468 | 114 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 3360 | 109 | 
 | 2022-12-06 | 3353 | 108 | 
 | 2022-12-05 | 3347 | 108 | 
-| 2022-12-04 | 3337 | 108 | 
 

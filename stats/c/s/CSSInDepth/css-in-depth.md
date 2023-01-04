@@ -1,6 +1,6 @@
 # CSSInDepth/css-in-depth - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 327
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 690 | 327 | 
 | 2023-01-02 | 690 | 327 | 
 | 2023-01-01 | 690 | 327 | 
 | 2022-12-31 | 690 | 327 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-07 | 686 | 326 | 
 | 2022-12-06 | 686 | 326 | 
 | 2022-12-05 | 685 | 326 | 
-| 2022-12-04 | 685 | 325 | 
 

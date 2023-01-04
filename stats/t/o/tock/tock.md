@@ -1,10 +1,10 @@
 # tock/tock - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 535
 
-★ Stars: 4044
+★ Stars: 4046
 
 [Open repository](https://github.com/tock/tock)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 4046 | 535 | 
 | 2023-01-02 | 4044 | 535 | 
 | 2023-01-01 | 4043 | 534 | 
 | 2022-12-31 | 4042 | 534 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 4013 | 534 | 
 | 2022-12-07 | 3999 | 532 | 
 | 2022-12-06 | 3996 | 531 | 
-| 2022-12-04 | 3994 | 529 | 
 

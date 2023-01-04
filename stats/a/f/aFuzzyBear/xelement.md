@@ -1,6 +1,6 @@
 # aFuzzyBear/xelement - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 36 | 5 | 
 | 2023-01-02 | 36 | 5 | 
 | 2023-01-01 | 36 | 5 | 
 | 2022-12-31 | 36 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-07 | 34 | 5 | 
 | 2022-12-06 | 34 | 5 | 
 | 2022-12-05 | 34 | 5 | 
-| 2022-12-04 | 34 | 5 | 
 

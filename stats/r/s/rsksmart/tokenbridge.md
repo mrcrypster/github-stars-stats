@@ -1,6 +1,6 @@
 # rsksmart/tokenbridge - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 87 | 56 | 
 | 2023-01-02 | 87 | 56 | 
 | 2023-01-01 | 87 | 56 | 
 | 2022-12-31 | 87 | 56 | 

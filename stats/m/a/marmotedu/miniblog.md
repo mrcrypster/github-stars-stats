@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 03
 
 ☋ Forks: 9
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/marmotedu/miniblog)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-03 | 30 | 9 | 
+| 2023-01-03 | 31 | 9 | 
 | 2023-01-02 | 30 | 9 | 
 | 2023-01-01 | 30 | 6 | 
 | 2022-12-31 | 30 | 6 | 

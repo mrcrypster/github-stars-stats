@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 03
 
 ☋ Forks: 217
 
-★ Stars: 2329
+★ Stars: 2330
 
 [Open repository](https://github.com/LycheeOrg/Lychee)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-03 | 2329 | 217 | 
+| 2023-01-03 | 2330 | 217 | 
 | 2023-01-02 | 2327 | 217 | 
 | 2023-01-01 | 2323 | 217 | 
 | 2022-12-31 | 2315 | 217 | 
@@ -40,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 2261 | 208 | 
 | 2022-12-07 | 2256 | 210 | 
 | 2022-12-06 | 2251 | 210 | 
-| 2022-12-04 | 2242 | 210 | 
 

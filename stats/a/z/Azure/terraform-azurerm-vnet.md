@@ -1,10 +1,10 @@
 # Azure/terraform-azurerm-vnet - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 236
 
-★ Stars: 89
+★ Stars: 90
 
 [Open repository](https://github.com/Azure/terraform-azurerm-vnet)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 90 | 236 | 
 | 2023-01-02 | 89 | 236 | 
 | 2023-01-01 | 89 | 236 | 
 | 2022-12-31 | 89 | 235 | 

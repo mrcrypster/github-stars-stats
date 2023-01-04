@@ -1,10 +1,10 @@
 # nixel2007/autumn - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 4
 
-★ Stars: 45
+★ Stars: 46
 
 [Open repository](https://github.com/nixel2007/autumn)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 46 | 4 | 
 | 2023-01-02 | 45 | 4 | 
 | 2023-01-01 | 45 | 4 | 
 | 2022-12-31 | 44 | 4 | 

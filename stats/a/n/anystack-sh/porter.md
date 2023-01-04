@@ -1,10 +1,10 @@
 # anystack-sh/porter - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 2
+☋ Forks: 3
 
-★ Stars: 272
+★ Stars: 288
 
 [Open repository](https://github.com/anystack-sh/porter)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 288 | 3 | 
 | 2023-01-02 | 272 | 2 | 
 | 2023-01-01 | 262 | 2 | 
 | 2022-12-31 | 256 | 2 | 

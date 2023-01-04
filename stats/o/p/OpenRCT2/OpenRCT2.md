@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 03
 
 ☋ Forks: 1334
 
-★ Stars: 11295
+★ Stars: 11298
 
 [Open repository](https://github.com/OpenRCT2/OpenRCT2)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-03 | 11295 | 1334 | 
+| 2023-01-03 | 11298 | 1334 | 
 | 2023-01-02 | 11295 | 1334 | 
 | 2023-01-01 | 11293 | 1334 | 
 | 2022-12-31 | 11288 | 1330 | 

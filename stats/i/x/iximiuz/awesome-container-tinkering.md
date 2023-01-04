@@ -1,10 +1,10 @@
 # iximiuz/awesome-container-tinkering - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 13
 
-★ Stars: 287
+★ Stars: 289
 
 [Open repository](https://github.com/iximiuz/awesome-container-tinkering)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 289 | 13 | 
 | 2023-01-02 | 287 | 13 | 
 | 2023-01-01 | 285 | 13 | 
 | 2022-12-31 | 285 | 13 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 272 | 14 | 
 | 2022-12-07 | 259 | 13 | 
 | 2022-12-06 | 255 | 12 | 
-| 2022-12-04 | 255 | 12 | 
 

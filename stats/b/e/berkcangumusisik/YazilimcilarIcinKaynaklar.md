@@ -1,6 +1,6 @@
 # berkcangumusisik/YazilimcilarIcinKaynaklar - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 94 | 10 | 
 | 2023-01-03 | 94 | 10 | 
 | 2023-01-01 | 94 | 10 | 
 | 2022-12-31 | 94 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 93 | 9 | 
 | 2022-12-06 | 93 | 9 | 
 | 2022-12-05 | 93 | 9 | 
-| 2022-12-04 | 93 | 9 | 
 

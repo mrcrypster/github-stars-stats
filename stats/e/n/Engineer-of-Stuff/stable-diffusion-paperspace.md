@@ -1,6 +1,6 @@
 # Engineer-of-Stuff/stable-diffusion-paperspace - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 84
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 98 | 84 | 
 | 2023-01-02 | 98 | 84 | 
 | 2023-01-01 | 98 | 84 | 
 | 2022-12-31 | 98 | 84 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 85 | 75 | 
 | 2022-12-07 | 84 | 75 | 
 | 2022-12-05 | 82 | 74 | 
-| 2022-12-04 | 81 | 74 | 
 

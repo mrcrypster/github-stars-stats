@@ -1,10 +1,10 @@
 # envoyproxy/envoy-build-tools - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 52
 
-★ Stars: 33
+★ Stars: 34
 
 [Open repository](https://github.com/envoyproxy/envoy-build-tools)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 34 | 52 | 
 | 2023-01-03 | 33 | 52 | 
 | 2023-01-01 | 33 | 52 | 
 | 2022-12-31 | 33 | 52 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 33 | 51 | 
 | 2022-12-07 | 33 | 51 | 
 | 2022-12-06 | 33 | 50 | 
-| 2022-12-04 | 33 | 50 | 
 

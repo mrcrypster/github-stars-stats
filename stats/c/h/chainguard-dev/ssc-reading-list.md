@@ -1,10 +1,10 @@
 # chainguard-dev/ssc-reading-list - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 12
 
-★ Stars: 308
+★ Stars: 309
 
 [Open repository](https://github.com/chainguard-dev/ssc-reading-list)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 309 | 12 | 
 | 2023-01-02 | 308 | 12 | 
 | 2023-01-01 | 308 | 12 | 
 | 2022-12-31 | 308 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 304 | 12 | 
 | 2022-12-07 | 304 | 12 | 
 | 2022-12-05 | 304 | 12 | 
-| 2022-12-04 | 304 | 12 | 
 

@@ -1,6 +1,6 @@
 # MithunTechnologiesDevOps/JenkinsSharedLibraries - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 568
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 2 | 568 | 
 | 2023-01-02 | 2 | 568 | 
 | 2023-01-01 | 2 | 568 | 
 | 2022-12-31 | 2 | 568 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-07 | 2 | 561 | 
 | 2022-12-06 | 2 | 560 | 
 | 2022-12-05 | 2 | 560 | 
-| 2022-12-04 | 2 | 559 | 
 

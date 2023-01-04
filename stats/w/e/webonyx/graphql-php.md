@@ -1,6 +1,6 @@
 # webonyx/graphql-php - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 544
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 4430 | 544 | 
 | 2023-01-02 | 4430 | 544 | 
 | 2023-01-01 | 4431 | 544 | 
 | 2022-12-31 | 4431 | 544 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 4420 | 542 | 
 | 2022-12-07 | 4418 | 542 | 
 | 2022-12-06 | 4417 | 543 | 
-| 2022-12-04 | 4415 | 542 | 
 

@@ -1,10 +1,10 @@
 # Perfare/AssetStudio - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 1903
+☋ Forks: 1905
 
-★ Stars: 9939
+★ Stars: 9944
 
 [Open repository](https://github.com/Perfare/AssetStudio)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 9944 | 1905 | 
 | 2023-01-02 | 9939 | 1903 | 
 | 2023-01-01 | 9929 | 1903 | 
 | 2022-12-31 | 9926 | 1903 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 9792 | 1878 | 
 | 2022-12-07 | 9787 | 1875 | 
 | 2022-12-06 | 9777 | 1876 | 
-| 2022-12-04 | 9763 | 1876 | 
 

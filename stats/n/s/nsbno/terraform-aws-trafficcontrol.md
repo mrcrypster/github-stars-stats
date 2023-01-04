@@ -1,6 +1,6 @@
 # nsbno/terraform-aws-trafficcontrol - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 1
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | - | 1 | 
+| 2023-01-03 | - | 1 | 
 | 2023-01-02 | - | 1 | 
 | 2023-01-01 | - | 1 | 
 | 2022-12-31 | - | 1 | 
@@ -39,5 +41,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | - | 1 | 
 | 2022-12-07 | - | 1 | 
 | 2022-12-06 | - | 1 | 
-| 2022-12-04 | - | 1 | 
 

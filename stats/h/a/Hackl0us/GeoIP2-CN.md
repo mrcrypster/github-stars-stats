@@ -1,10 +1,10 @@
 # Hackl0us/GeoIP2-CN - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 84
 
-★ Stars: 4744
+★ Stars: 4747
 
 [Open repository](https://github.com/Hackl0us/GeoIP2-CN)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 4747 | 84 | 
 | 2023-01-02 | 4744 | 84 | 
 | 2023-01-01 | 4741 | 85 | 
 | 2022-12-31 | 4739 | 85 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 4689 | 80 | 
 | 2022-12-07 | 4685 | 80 | 
 | 2022-12-06 | 4678 | 80 | 
-| 2022-12-04 | 4675 | 80 | 
 

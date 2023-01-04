@@ -1,10 +1,10 @@
 # aditya-grover/node2vec - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 904
 
-★ Stars: 2462
+★ Stars: 2461
 
 [Open repository](https://github.com/aditya-grover/node2vec)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 2461 | 904 | 
 | 2023-01-02 | 2462 | 904 | 
 | 2023-01-01 | 2462 | 904 | 
 | 2022-12-31 | 2462 | 904 | 

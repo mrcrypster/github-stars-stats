@@ -1,10 +1,10 @@
 # webbukkit/dynmap - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 394
+☋ Forks: 395
 
-★ Stars: 1762
+★ Stars: 1763
 
 [Open repository](https://github.com/webbukkit/dynmap)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 1763 | 395 | 
 | 2023-01-02 | 1762 | 394 | 
 | 2023-01-01 | 1762 | 393 | 
 | 2022-12-31 | 1762 | 393 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 1748 | 390 | 
 | 2022-12-07 | 1746 | 389 | 
 | 2022-12-06 | 1746 | 389 | 
-| 2022-12-05 | 1746 | 389 | 
 

@@ -1,6 +1,6 @@
 # andristum/dpclothing - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 47 | 53 | 
 | 2023-01-02 | 47 | 53 | 
 | 2023-01-01 | 46 | 53 | 
 | 2022-12-31 | 46 | 53 | 

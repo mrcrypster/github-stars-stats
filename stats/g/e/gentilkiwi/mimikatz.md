@@ -1,10 +1,10 @@
 # gentilkiwi/mimikatz - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 3207
 
-★ Stars: 16559
+★ Stars: 16563
 
 [Open repository](https://github.com/gentilkiwi/mimikatz)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 16563 | 3207 | 
 | 2023-01-02 | 16559 | 3207 | 
 | 2023-01-01 | 16554 | 3207 | 
 | 2022-12-31 | 16552 | 3207 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 16452 | 3193 | 
 | 2022-12-06 | 16446 | 3193 | 
 | 2022-12-05 | 16438 | 3193 | 
-| 2022-12-04 | 16432 | 3191 | 
 

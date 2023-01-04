@@ -1,10 +1,10 @@
 # eclipse-vertx/vert.x - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 1977
 
-★ Stars: 13313
+★ Stars: 13314
 
 [Open repository](https://github.com/eclipse-vertx/vert.x)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 13314 | 1977 | 
 | 2023-01-03 | 13313 | 1977 | 
 | 2023-01-02 | 13313 | 1978 | 
 | 2022-12-31 | 13313 | 1978 | 

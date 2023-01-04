@@ -1,10 +1,10 @@
 # EthicalML/awesome-production-machine-learning - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 1808
+☋ Forks: 1811
 
-★ Stars: 12912
+★ Stars: 12925
 
 [Open repository](https://github.com/EthicalML/awesome-production-machine-learning)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 12925 | 1811 | 
 | 2023-01-02 | 12912 | 1808 | 
 | 2023-01-01 | 12903 | 1806 | 
 | 2022-12-31 | 12899 | 1803 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 12751 | 1786 | 
 | 2022-12-07 | 12741 | 1785 | 
 | 2022-12-05 | 12735 | 1783 | 
-| 2022-12-04 | 12728 | 1782 | 
 

@@ -1,6 +1,6 @@
 # upes-open/OSC-Medical-Analysis-Application-Using-ML - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 12 | 10 | 
 | 2023-01-02 | 12 | 10 | 
 | 2023-01-01 | 12 | 10 | 
 | 2022-12-31 | 12 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 11 | 10 | 
 | 2022-12-06 | 11 | 10 | 
 | 2022-12-05 | 11 | 10 | 
-| 2022-12-04 | 11 | 10 | 
 

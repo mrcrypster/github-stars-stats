@@ -1,10 +1,10 @@
 # abiosoft/colima - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 200
 
-★ Stars: 8594
+★ Stars: 8617
 
 [Open repository](https://github.com/abiosoft/colima)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 8617 | 200 | 
 | 2023-01-02 | 8594 | 200 | 
 | 2023-01-01 | 8584 | 200 | 
 | 2022-12-31 | 8582 | 200 | 

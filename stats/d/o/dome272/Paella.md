@@ -1,10 +1,10 @@
 # dome272/Paella - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 30
+☋ Forks: 31
 
-★ Stars: 361
+★ Stars: 362
 
 [Open repository](https://github.com/dome272/Paella)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 362 | 31 | 
 | 2023-01-02 | 361 | 30 | 
 | 2023-01-01 | 353 | 30 | 
 | 2022-12-31 | 353 | 30 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 317 | 26 | 
 | 2022-12-07 | 312 | 26 | 
 | 2022-12-06 | 311 | 26 | 
-| 2022-12-04 | 309 | 26 | 
 

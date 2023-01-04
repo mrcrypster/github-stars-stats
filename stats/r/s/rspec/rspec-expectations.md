@@ -1,6 +1,6 @@
 # rspec/rspec-expectations - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 381
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 1205 | 381 | 
 | 2023-01-02 | 1205 | 381 | 
 | 2023-01-01 | 1205 | 381 | 
 | 2022-12-31 | 1205 | 381 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-09 | 1201 | 380 | 
 | 2022-12-07 | 1201 | 380 | 
 | 2022-12-06 | 1201 | 380 | 
-| 2022-12-04 | 1201 | 380 | 
 

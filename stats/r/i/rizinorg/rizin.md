@@ -1,6 +1,6 @@
 # rizinorg/rizin - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 203
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 1701 | 203 | 
 | 2023-01-02 | 1701 | 203 | 
 | 2023-01-01 | 1700 | 203 | 
 | 2022-12-31 | 1700 | 203 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 1668 | 199 | 
 | 2022-12-06 | 1668 | 199 | 
 | 2022-12-05 | 1665 | 199 | 
-| 2022-12-04 | 1664 | 199 | 
 

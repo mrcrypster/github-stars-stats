@@ -1,10 +1,10 @@
 # NVIDIA-ISAAC-ROS/isaac_ros_visual_slam - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 55
 
-★ Stars: 340
+★ Stars: 342
 
 [Open repository](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_visual_slam)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 342 | 55 | 
 | 2023-01-02 | 340 | 55 | 
 | 2023-01-01 | 340 | 55 | 
 | 2022-12-31 | 339 | 55 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 326 | 56 | 
 | 2022-12-06 | 325 | 56 | 
 | 2022-12-05 | 324 | 56 | 
-| 2022-12-04 | 323 | 55 | 
 

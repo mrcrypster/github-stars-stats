@@ -1,6 +1,6 @@
 # yarnpkg/berry - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 907
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 5850 | 907 | 
 | 2023-01-02 | 5850 | 907 | 
 | 2023-01-01 | 5848 | 908 | 
 | 2022-12-31 | 5846 | 907 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 5795 | 898 | 
 | 2022-12-07 | 5791 | 897 | 
 | 2022-12-06 | 5785 | 897 | 
-| 2022-12-04 | 5780 | 896 | 
 

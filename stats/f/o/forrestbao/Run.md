@@ -1,10 +1,10 @@
 # forrestbao/Run - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 7
 
-★ Stars: 267
+★ Stars: 268
 
 [Open repository](https://github.com/forrestbao/Run)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 268 | 7 | 
 | 2023-01-02 | 267 | 7 | 
 | 2023-01-01 | 267 | 7 | 
 | 2022-12-31 | 267 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 264 | 7 | 
 | 2022-12-07 | 264 | 7 | 
 | 2022-12-06 | 264 | 7 | 
-| 2022-12-04 | 263 | 7 | 
 

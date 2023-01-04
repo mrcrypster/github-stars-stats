@@ -1,6 +1,6 @@
 # philipplackner/CleanArchitectureNoteApp - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 262
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 402 | 262 | 
 | 2023-01-02 | 402 | 262 | 
 | 2023-01-01 | 402 | 262 | 
 | 2022-12-31 | 402 | 262 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 393 | 258 | 
 | 2022-12-06 | 392 | 258 | 
 | 2022-12-05 | 390 | 258 | 
-| 2022-12-04 | 389 | 257 | 
 

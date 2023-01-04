@@ -1,10 +1,10 @@
 # mateoconlechuga/cesium - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 12
 
-★ Stars: 159
+★ Stars: 160
 
 [Open repository](https://github.com/mateoconlechuga/cesium)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 160 | 12 | 
 | 2023-01-02 | 159 | 12 | 
 | 2023-01-01 | 159 | 12 | 
 | 2022-12-31 | 159 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-07 | 157 | 12 | 
 | 2022-12-06 | 157 | 12 | 
 | 2022-12-05 | 157 | 12 | 
-| 2022-12-04 | 157 | 12 | 
 

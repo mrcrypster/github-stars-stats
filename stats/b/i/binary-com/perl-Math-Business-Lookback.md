@@ -1,6 +1,6 @@
 # binary-com/perl-Math-Business-Lookback - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | - | 5 | 
 | 2023-01-03 | - | 5 | 
 | 2023-01-01 | - | 5 | 
 | 2022-12-31 | - | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | - | 5 | 
 | 2022-12-07 | - | 5 | 
 | 2022-12-06 | - | 5 | 
-| 2022-12-04 | - | 5 | 
 

@@ -1,10 +1,10 @@
 # near/near-sdk-js - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 52
+☋ Forks: 53
 
-★ Stars: 157
+★ Stars: 160
 
 [Open repository](https://github.com/near/near-sdk-js)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 160 | 53 | 
 | 2023-01-02 | 157 | 52 | 
 | 2023-01-01 | 157 | 52 | 
 | 2022-12-31 | 157 | 52 | 

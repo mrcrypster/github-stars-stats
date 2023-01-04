@@ -1,10 +1,10 @@
 # Peihao2021/O-NKU - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 8
 
-★ Stars: 100
+★ Stars: 99
 
 [Open repository](https://github.com/Peihao2021/O-NKU)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 99 | 8 | 
 | 2023-01-02 | 100 | 8 | 
 | 2023-01-01 | 100 | 8 | 
 | 2022-12-31 | 100 | 8 | 

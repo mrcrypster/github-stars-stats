@@ -1,10 +1,10 @@
 # f/awesome-chatgpt-prompts - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 04
 
-☋ Forks: 774
+☋ Forks: 828
 
-★ Stars: 11794
+★ Stars: 12348
 
 [Open repository](https://github.com/f/awesome-chatgpt-prompts)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 12348 | 828 | 
+| 2023-01-03 | 12304 | 823 | 
 | 2023-01-02 | 11794 | 774 | 
 | 2023-01-01 | 11625 | 754 | 
 | 2022-12-31 | 11565 | 748 | 

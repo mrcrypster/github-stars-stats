@@ -1,6 +1,6 @@
 # interconnectit/Search-Replace-DB - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 841
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 3851 | 841 | 
 | 2023-01-02 | 3851 | 841 | 
 | 2023-01-01 | 3851 | 841 | 
 | 2022-12-31 | 3851 | 841 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 3845 | 842 | 
 | 2022-12-07 | 3844 | 842 | 
 | 2022-12-06 | 3844 | 842 | 
-| 2022-12-04 | 3844 | 842 | 
 

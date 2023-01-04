@@ -1,8 +1,8 @@
 # kenzok8/small-package - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 408
+☋ Forks: 410
 
 ★ Stars: 541
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 541 | 410 | 
 | 2023-01-02 | 541 | 408 | 
 | 2023-01-01 | 542 | 407 | 
 | 2022-12-31 | 540 | 407 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 514 | 388 | 
 | 2022-12-07 | 512 | 387 | 
 | 2022-12-06 | 508 | 386 | 
-| 2022-12-04 | 507 | 387 | 
 

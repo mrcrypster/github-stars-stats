@@ -1,6 +1,6 @@
 # ruby/rake - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 635
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 2189 | 635 | 
 | 2023-01-02 | 2189 | 635 | 
 | 2023-01-01 | 2189 | 635 | 
 | 2022-12-31 | 2189 | 635 | 

@@ -1,10 +1,10 @@
 # zakird/crux-top-lists - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 14
 
-★ Stars: 373
+★ Stars: 403
 
 [Open repository](https://github.com/zakird/crux-top-lists)
 
@@ -13,5 +13,6 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 403 | 14 | 
 | 2023-01-02 | 373 | 14 | 
 

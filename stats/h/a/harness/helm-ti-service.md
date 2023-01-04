@@ -1,6 +1,6 @@
 # harness/helm-ti-service - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 1 | - | 
 | 2023-01-03 | 1 | - | 
 | 2023-01-01 | 1 | - | 
 | 2022-12-31 | 1 | - | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 1 | - | 
 | 2022-12-07 | 1 | - | 
 | 2022-12-05 | 1 | - | 
-| 2022-12-04 | 1 | - | 
 

@@ -1,10 +1,10 @@
 # Didnelpsun/Math - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 42
 
-★ Stars: 294
+★ Stars: 295
 
 [Open repository](https://github.com/Didnelpsun/Math)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 295 | 42 | 
 | 2023-01-02 | 294 | 42 | 
 | 2023-01-01 | 295 | 41 | 
 | 2022-12-31 | 295 | 41 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 293 | 40 | 
 | 2022-12-07 | 293 | 40 | 
 | 2022-12-06 | 291 | 40 | 
-| 2022-12-04 | 290 | 40 | 
 

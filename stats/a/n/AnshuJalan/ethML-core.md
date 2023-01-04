@@ -1,6 +1,6 @@
 # AnshuJalan/ethML-core - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 20 | - | 
 | 2023-01-02 | 20 | - | 
 | 2023-01-01 | 18 | - | 
 

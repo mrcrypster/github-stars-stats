@@ -1,10 +1,10 @@
 # linebender/xilem - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 16
+☋ Forks: 19
 
-★ Stars: 502
+★ Stars: 526
 
 [Open repository](https://github.com/linebender/xilem)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 526 | 19 | 
 | 2023-01-02 | 502 | 16 | 
 | 2023-01-01 | 496 | 15 | 
 | 2022-12-31 | 491 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-07 | 281 | 9 | 
 | 2022-12-06 | 270 | 9 | 
 | 2022-12-05 | 225 | 7 | 
-| 2022-12-04 | 139 | 7 | 
 

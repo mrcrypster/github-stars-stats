@@ -1,10 +1,10 @@
 # Rezmason/matrix - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 142
 
-★ Stars: 2831
+★ Stars: 2832
 
 [Open repository](https://github.com/Rezmason/matrix)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 2832 | 142 | 
 | 2023-01-02 | 2831 | 142 | 
 | 2023-01-01 | 2830 | 141 | 
 | 2022-12-31 | 2830 | 141 | 

@@ -1,10 +1,10 @@
 # gvwilson/11-techbook - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 0
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/gvwilson/11-techbook)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 19 | - | 
 | 2023-01-02 | 18 | - | 
 | 2023-01-01 | 18 | - | 
 

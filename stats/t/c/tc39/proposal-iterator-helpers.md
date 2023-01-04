@@ -1,6 +1,6 @@
 # tc39/proposal-iterator-helpers - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 957 | 37 | 
 | 2023-01-02 | 957 | 37 | 
 | 2023-01-01 | 957 | 37 | 
 | 2022-12-31 | 957 | 37 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-07 | 934 | 35 | 
 | 2022-12-06 | 934 | 35 | 
 | 2022-12-05 | 930 | 35 | 
-| 2022-12-04 | 929 | 35 | 
 

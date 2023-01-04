@@ -1,10 +1,10 @@
 # hashicorp/nomad - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 1708
+☋ Forks: 1709
 
-★ Stars: 12966
+★ Stars: 12968
 
 [Open repository](https://github.com/hashicorp/nomad)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 12968 | 1709 | 
 | 2023-01-02 | 12966 | 1708 | 
 | 2023-01-01 | 12963 | 1708 | 
 | 2022-12-31 | 12960 | 1706 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 12909 | 1705 | 
 | 2022-12-06 | 12907 | 1705 | 
 | 2022-12-05 | 12899 | 1705 | 
-| 2022-12-04 | 12895 | 1705 | 
 

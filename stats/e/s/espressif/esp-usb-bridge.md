@@ -1,10 +1,10 @@
 # espressif/esp-usb-bridge - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 22
 
-★ Stars: 175
+★ Stars: 176
 
 [Open repository](https://github.com/espressif/esp-usb-bridge)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 176 | 22 | 
 | 2023-01-02 | 175 | 22 | 
 | 2023-01-01 | 175 | 22 | 
 | 2022-12-31 | 175 | 22 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 171 | 20 | 
 | 2022-12-07 | 171 | 20 | 
 | 2022-12-05 | 171 | 20 | 
-| 2022-12-04 | 170 | 20 | 
 

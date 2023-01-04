@@ -1,10 +1,10 @@
 # martinju/stromstotte - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 0
+☋ Forks: 1
 
-★ Stars: 40
+★ Stars: 42
 
 [Open repository](https://github.com/martinju/stromstotte)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 42 | 1 | 
 | 2023-01-02 | 40 | - | 
 | 2023-01-01 | 40 | - | 
 | 2022-12-31 | 40 | - | 

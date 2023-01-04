@@ -1,10 +1,10 @@
 # nf-core/fetchngs - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 33
 
-★ Stars: 73
+★ Stars: 72
 
 [Open repository](https://github.com/nf-core/fetchngs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 72 | 33 | 
 | 2023-01-02 | 73 | 33 | 
 | 2023-01-01 | 73 | 33 | 
 | 2022-12-31 | 73 | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 68 | 31 | 
 | 2022-12-07 | 67 | 31 | 
 | 2022-12-06 | 67 | 31 | 
-| 2022-12-04 | 67 | 31 | 
 

@@ -1,10 +1,10 @@
 # dime-worldbank/googletraffic - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 0
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/dime-worldbank/googletraffic)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 25 | - | 
 | 2023-01-02 | 24 | - | 
 | 2023-01-01 | 24 | - | 
 | 2022-12-31 | 24 | - | 

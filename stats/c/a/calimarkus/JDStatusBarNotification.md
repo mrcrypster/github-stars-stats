@@ -1,6 +1,6 @@
 # calimarkus/JDStatusBarNotification - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 542
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 3836 | 542 | 
 | 2023-01-02 | 3836 | 542 | 
 | 2023-01-01 | 3836 | 542 | 
 | 2022-12-31 | 3836 | 542 | 

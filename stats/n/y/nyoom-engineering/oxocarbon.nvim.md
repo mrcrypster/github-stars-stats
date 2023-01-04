@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 03
 
 ☋ Forks: 19
 
-★ Stars: 522
+★ Stars: 524
 
 [Open repository](https://github.com/nyoom-engineering/oxocarbon.nvim)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-03 | 522 | 19 | 
+| 2023-01-03 | 524 | 19 | 
 | 2023-01-02 | 522 | 18 | 
 | 2023-01-01 | 519 | 18 | 
 | 2022-12-31 | 519 | 18 | 

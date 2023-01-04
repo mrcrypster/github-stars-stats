@@ -1,10 +1,10 @@
 # joshnuss/svelte-stripe - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 15
 
-★ Stars: 197
+★ Stars: 198
 
 [Open repository](https://github.com/joshnuss/svelte-stripe)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 198 | 15 | 
 | 2023-01-02 | 197 | 15 | 
 | 2023-01-01 | 197 | 15 | 
 | 2022-12-31 | 197 | 15 | 

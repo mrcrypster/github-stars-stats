@@ -1,10 +1,10 @@
 # BlinkDL/AI-Writer - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 310
+☋ Forks: 309
 
-★ Stars: 1528
+★ Stars: 1533
 
 [Open repository](https://github.com/BlinkDL/AI-Writer)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 1533 | 309 | 
 | 2023-01-02 | 1528 | 310 | 
 | 2023-01-01 | 1527 | 310 | 
 | 2022-12-31 | 1525 | 310 | 

@@ -1,10 +1,10 @@
 # koishijs/novelai-bot - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 160
 
-★ Stars: 1912
+★ Stars: 1914
 
 [Open repository](https://github.com/koishijs/novelai-bot)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 1914 | 160 | 
 | 2023-01-02 | 1912 | 160 | 
 | 2023-01-01 | 1909 | 160 | 
 | 2022-12-31 | 1906 | 160 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 1846 | 177 | 
 | 2022-12-07 | 1839 | 177 | 
 | 2022-12-06 | 1835 | 177 | 
-| 2022-12-04 | 1828 | 175 | 
 

@@ -1,10 +1,10 @@
 # chrislockard/api_wordlist - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 166
+☋ Forks: 167
 
-★ Stars: 551
+★ Stars: 552
 
 [Open repository](https://github.com/chrislockard/api_wordlist)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 552 | 167 | 
 | 2023-01-02 | 551 | 166 | 
 | 2023-01-01 | 551 | 166 | 
 | 2022-12-31 | 551 | 166 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 543 | 163 | 
 | 2022-12-06 | 541 | 163 | 
 | 2022-12-05 | 541 | 163 | 
-| 2022-12-04 | 541 | 163 | 
 

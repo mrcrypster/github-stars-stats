@@ -1,10 +1,10 @@
 # AnsGoo/openDataV - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 35
+☋ Forks: 36
 
-★ Stars: 167
+★ Stars: 169
 
 [Open repository](https://github.com/AnsGoo/openDataV)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 169 | 36 | 
 | 2023-01-02 | 167 | 35 | 
 | 2023-01-01 | 166 | 34 | 
 | 2022-12-31 | 166 | 34 | 

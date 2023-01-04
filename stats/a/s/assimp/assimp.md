@@ -1,10 +1,10 @@
 # assimp/assimp - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 2458
+☋ Forks: 2460
 
-★ Stars: 8549
+★ Stars: 8553
 
 [Open repository](https://github.com/assimp/assimp)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 8553 | 2460 | 
 | 2023-01-02 | 8549 | 2458 | 
 | 2023-01-01 | 8547 | 2457 | 
 | 2022-12-31 | 8547 | 2456 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-09 | 8483 | 2444 | 
 | 2022-12-07 | 8481 | 2444 | 
 | 2022-12-06 | 8477 | 2443 | 
-| 2022-12-05 | 8475 | 2443 | 
 

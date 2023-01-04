@@ -1,10 +1,10 @@
 # Alia5/lovelace-expander-card - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 0
 
-★ Stars: 22
+★ Stars: 24
 
 [Open repository](https://github.com/Alia5/lovelace-expander-card)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 24 | - | 
 | 2023-01-02 | 22 | - | 
 | 2023-01-01 | 22 | - | 
 | 2022-12-31 | 21 | - | 

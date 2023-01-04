@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 03
 
 ☋ Forks: 26
 
-★ Stars: 1429
+★ Stars: 1435
 
 [Open repository](https://github.com/subframe7536/Maple-font)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-03 | 1429 | 26 | 
+| 2023-01-03 | 1435 | 26 | 
 | 2023-01-02 | 1429 | 26 | 
 | 2023-01-01 | 1418 | 26 | 
 | 2022-12-31 | 1389 | 26 | 

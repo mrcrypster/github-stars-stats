@@ -1,10 +1,10 @@
 # airblade/vim-gitgutter - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 285
 
-★ Stars: 7925
+★ Stars: 7927
 
 [Open repository](https://github.com/airblade/vim-gitgutter)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 7927 | 285 | 
 | 2023-01-02 | 7925 | 285 | 
 | 2023-01-01 | 7925 | 285 | 
 | 2022-12-31 | 7925 | 285 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-07 | 7902 | 284 | 
 | 2022-12-06 | 7899 | 284 | 
 | 2022-12-05 | 7897 | 284 | 
-| 2022-12-04 | 7894 | 284 | 
 

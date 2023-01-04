@@ -1,6 +1,6 @@
 # jonstipe/time-polyfill - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 18 | 20 | 
 | 2023-01-02 | 18 | 20 | 
 | 2023-01-01 | 18 | 20 | 
 | 2022-12-31 | 18 | 20 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 18 | 20 | 
 | 2022-12-07 | 18 | 20 | 
 | 2022-12-05 | 18 | 20 | 
-| 2022-12-04 | 18 | 20 | 
 

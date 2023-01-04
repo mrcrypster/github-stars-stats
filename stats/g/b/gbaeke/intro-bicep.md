@@ -1,10 +1,10 @@
 # gbaeke/intro-bicep - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 0
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/gbaeke/intro-bicep)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 9 | - | 
 | 2023-01-02 | 8 | - | 
 | 2023-01-01 | 8 | - | 
 | 2022-12-31 | 8 | - | 

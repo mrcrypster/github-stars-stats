@@ -1,6 +1,6 @@
 # ipkzone/BugUnliapps - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 3 | 14 | 
 | 2023-01-02 | 3 | 14 | 
 | 2023-01-01 | 3 | 14 | 
 | 2022-12-31 | 3 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 3 | 13 | 
 | 2022-12-07 | 3 | 13 | 
 | 2022-12-06 | 3 | 13 | 
-| 2022-12-04 | 3 | 13 | 
 

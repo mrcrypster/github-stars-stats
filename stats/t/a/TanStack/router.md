@@ -1,10 +1,10 @@
 # TanStack/router - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 194
 
-★ Stars: 4227
+★ Stars: 4228
 
 [Open repository](https://github.com/TanStack/router)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 4228 | 194 | 
 | 2023-01-02 | 4227 | 194 | 
 | 2023-01-01 | 4215 | 193 | 
 | 2022-12-31 | 4208 | 192 | 

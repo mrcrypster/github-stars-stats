@@ -1,10 +1,10 @@
 # GDQuest/learn-gdscript - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
 ☋ Forks: 84
 
-★ Stars: 1194
+★ Stars: 1195
 
 [Open repository](https://github.com/GDQuest/learn-gdscript)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 1195 | 84 | 
 | 2023-01-02 | 1194 | 84 | 
 | 2023-01-01 | 1193 | 84 | 
 | 2022-12-31 | 1192 | 84 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-07 | 1168 | 83 | 
 | 2022-12-06 | 1166 | 84 | 
 | 2022-12-05 | 1164 | 84 | 
-| 2022-12-04 | 1163 | 84 | 
 

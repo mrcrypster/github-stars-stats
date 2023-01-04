@@ -1,10 +1,10 @@
 # fleschutz/PowerShell - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 148
+☋ Forks: 150
 
-★ Stars: 611
+★ Stars: 613
 
 [Open repository](https://github.com/fleschutz/PowerShell)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 613 | 150 | 
 | 2023-01-02 | 611 | 148 | 
 | 2023-01-01 | 608 | 148 | 
 | 2022-12-31 | 605 | 148 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 568 | 140 | 
 | 2022-12-06 | 566 | 139 | 
 | 2022-12-05 | 565 | 138 | 
-| 2022-12-04 | 563 | 138 | 
 

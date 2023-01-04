@@ -1,10 +1,10 @@
 # alibaba/DeepRec - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 279
+☋ Forks: 280
 
-★ Stars: 675
+★ Stars: 676
 
 [Open repository](https://github.com/alibaba/DeepRec)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 676 | 280 | 
 | 2023-01-02 | 675 | 279 | 
 | 2023-01-01 | 674 | 279 | 
 | 2022-12-31 | 674 | 279 | 

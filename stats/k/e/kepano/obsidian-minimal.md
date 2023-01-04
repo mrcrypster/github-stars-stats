@@ -1,10 +1,10 @@
 # kepano/obsidian-minimal - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 138
 
-★ Stars: 2121
+★ Stars: 2123
 
 [Open repository](https://github.com/kepano/obsidian-minimal)
 
@@ -13,7 +13,8 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-03 | 2121 | 138 | 
+| 2023-01-04 | 2123 | 138 | 
+| 2023-01-03 | 2123 | 138 | 
 | 2023-01-02 | 2121 | 138 | 
 | 2023-01-01 | 2116 | 136 | 
 | 2022-12-31 | 2113 | 136 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 2066 | 133 | 
 | 2022-12-07 | 2067 | 133 | 
 | 2022-12-06 | 2061 | 132 | 
-| 2022-12-04 | 2057 | 131 | 
 

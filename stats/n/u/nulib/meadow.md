@@ -1,6 +1,6 @@
 # nulib/meadow - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 10 | 4 | 
 | 2023-01-03 | 10 | 4 | 
 | 2023-01-01 | 10 | 4 | 
 | 2022-12-31 | 10 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 10 | 4 | 
 | 2022-12-07 | 10 | 4 | 
 | 2022-12-05 | 10 | 4 | 
-| 2022-12-04 | 10 | 4 | 
 

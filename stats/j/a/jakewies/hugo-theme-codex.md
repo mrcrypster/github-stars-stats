@@ -1,10 +1,10 @@
 # jakewies/hugo-theme-codex - stars & forks statistics
 
-Stats updated on Jan 2023, 02
+Stats updated on Jan 2023, 03
 
-☋ Forks: 182
+☋ Forks: 183
 
-★ Stars: 328
+★ Stars: 329
 
 [Open repository](https://github.com/jakewies/hugo-theme-codex)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-03 | 329 | 183 | 
 | 2023-01-02 | 328 | 182 | 
 | 2023-01-01 | 327 | 182 | 
 | 2022-12-31 | 327 | 182 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 02
 | 2022-12-08 | 324 | 182 | 
 | 2022-12-07 | 324 | 182 | 
 | 2022-12-06 | 324 | 182 | 
-| 2022-12-04 | 324 | 182 | 
 
