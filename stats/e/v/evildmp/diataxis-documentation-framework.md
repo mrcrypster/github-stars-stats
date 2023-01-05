@@ -1,10 +1,10 @@
 # evildmp/diataxis-documentation-framework - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 123
 
-★ Stars: 466
+★ Stars: 467
 
 [Open repository](https://github.com/evildmp/diataxis-documentation-framework)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 467 | 123 | 
 | 2023-01-03 | 466 | 123 | 
 | 2023-01-02 | 465 | 123 | 
 | 2023-01-01 | 463 | 123 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 454 | 119 | 
 | 2022-12-07 | 454 | 119 | 
 | 2022-12-06 | 454 | 119 | 
-| 2022-12-05 | 453 | 119 | 
 

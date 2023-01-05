@@ -1,6 +1,6 @@
 # ValdikSS/nat-traversal-github-actions-openvpn-wireguard - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 134 | 6 | 
 | 2023-01-03 | 134 | 6 | 
 | 2023-01-02 | 134 | 6 | 
 | 2023-01-01 | 133 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 131 | 7 | 
 | 2022-12-08 | 129 | 7 | 
 | 2022-12-06 | 129 | 7 | 
-| 2022-12-05 | 129 | 7 | 
 

@@ -1,10 +1,10 @@
 # jaredpalmer/formik - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 2637
+☋ Forks: 2639
 
-★ Stars: 31724
+★ Stars: 31731
 
 [Open repository](https://github.com/jaredpalmer/formik)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 31731 | 2639 | 
 | 2023-01-03 | 31724 | 2637 | 
 | 2023-01-02 | 31718 | 2637 | 
 | 2023-01-01 | 31713 | 2635 | 

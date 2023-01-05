@@ -1,8 +1,8 @@
 # Wink196/Tym-TQ - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 48
+☋ Forks: 47
 
 ★ Stars: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 13 | 47 | 
 | 2023-01-03 | 13 | 48 | 
 | 2023-01-02 | 13 | 48 | 
 | 2023-01-01 | 13 | 48 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 12 | 42 | 
 | 2022-12-08 | 12 | 42 | 
 | 2022-12-06 | 12 | 41 | 
-| 2022-12-05 | 12 | 40 | 
 

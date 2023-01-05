@@ -1,6 +1,6 @@
 # emacs-straight/adaptive-wrap - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 3 | 1 | 
 | 2023-01-03 | 3 | 1 | 
 | 2023-01-02 | 3 | 1 | 
 | 2023-01-01 | 3 | 1 | 

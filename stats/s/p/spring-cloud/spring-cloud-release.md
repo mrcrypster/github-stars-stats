@@ -1,10 +1,10 @@
 # spring-cloud/spring-cloud-release - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 167
 
-★ Stars: 750
+★ Stars: 751
 
 [Open repository](https://github.com/spring-cloud/spring-cloud-release)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 751 | 167 | 
 | 2023-01-03 | 750 | 167 | 
 | 2023-01-02 | 750 | 167 | 
 | 2023-01-01 | 750 | 167 | 

@@ -1,6 +1,6 @@
 # duongvituan/godot-awesome-splash - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 143 | 10 | 
 | 2023-01-03 | 143 | 10 | 
 | 2023-01-02 | 142 | 9 | 
 | 2023-01-01 | 142 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 140 | 9 | 
 | 2022-12-08 | 140 | 9 | 
 | 2022-12-06 | 140 | 9 | 
-| 2022-12-05 | 140 | 9 | 
 

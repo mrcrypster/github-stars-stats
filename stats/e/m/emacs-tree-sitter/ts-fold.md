@@ -1,8 +1,8 @@
 # emacs-tree-sitter/ts-fold - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 15
+☋ Forks: 16
 
 ★ Stars: 48
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 48 | 16 | 
 | 2023-01-03 | 48 | 15 | 
 | 2023-01-02 | 48 | 15 | 
 | 2023-01-01 | 48 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 43 | 13 | 
 | 2022-12-08 | 43 | 13 | 
 | 2022-12-07 | 42 | 13 | 
-| 2022-12-05 | 41 | 13 | 
 

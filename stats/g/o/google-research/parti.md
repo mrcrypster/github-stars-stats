@@ -1,10 +1,10 @@
 # google-research/parti - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 72
 
-★ Stars: 1309
+★ Stars: 1310
 
 [Open repository](https://github.com/google-research/parti)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 1310 | 72 | 
 | 2023-01-03 | 1309 | 72 | 
 | 2023-01-02 | 1308 | 71 | 
 | 2023-01-01 | 1308 | 71 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 1292 | 71 | 
 | 2022-12-08 | 1291 | 71 | 
 | 2022-12-07 | 1291 | 71 | 
-| 2022-12-05 | 1290 | 71 | 
 

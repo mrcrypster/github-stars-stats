@@ -1,6 +1,6 @@
 # haskell-nix/hnix - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 116
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 703 | 116 | 
 | 2023-01-03 | 703 | 116 | 
 | 2023-01-02 | 703 | 116 | 
 | 2023-01-01 | 703 | 116 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 703 | 115 | 
 | 2022-12-08 | 703 | 115 | 
 | 2022-12-07 | 703 | 115 | 
-| 2022-12-05 | 703 | 115 | 
 

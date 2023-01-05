@@ -1,10 +1,10 @@
 # navidrome/navidrome - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 493
 
-★ Stars: 5504
+★ Stars: 5516
 
 [Open repository](https://github.com/navidrome/navidrome)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 5516 | 493 | 
 | 2023-01-03 | 5504 | 493 | 
 | 2023-01-02 | 5498 | 490 | 
 | 2023-01-01 | 5487 | 490 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 5309 | 481 | 
 | 2022-12-07 | 5298 | 481 | 
 | 2022-12-06 | 5284 | 480 | 
-| 2022-12-05 | 5266 | 478 | 
 

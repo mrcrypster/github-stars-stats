@@ -1,8 +1,8 @@
 # OneSignal/OneSignal-Flutter-SDK - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 170
+☋ Forks: 169
 
 ★ Stars: 563
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 563 | 169 | 
 | 2023-01-03 | 563 | 170 | 
 | 2023-01-02 | 563 | 170 | 
 | 2023-01-01 | 563 | 170 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 559 | 170 | 
 | 2022-12-08 | 557 | 170 | 
 | 2022-12-07 | 557 | 170 | 
-| 2022-12-05 | 557 | 170 | 
 

@@ -1,6 +1,6 @@
 # BaiqingL/CyberPatriotScripts - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 64
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 59 | 64 | 
 | 2023-01-03 | 59 | 64 | 
 | 2023-01-02 | 59 | 65 | 
 | 2023-01-01 | 59 | 65 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 57 | 63 | 
 | 2022-12-07 | 57 | 63 | 
 | 2022-12-06 | 57 | 63 | 
-| 2022-12-05 | 57 | 62 | 
 

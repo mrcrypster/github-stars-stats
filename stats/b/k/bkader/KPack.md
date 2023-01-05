@@ -1,10 +1,10 @@
 # bkader/KPack - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 9
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/bkader/KPack)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 22 | 9 | 
 | 2023-01-03 | 21 | 9 | 
 | 2023-01-02 | 21 | 9 | 
 | 2023-01-01 | 21 | 9 | 

@@ -1,6 +1,6 @@
 # lightning/bolts - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 455
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 1770 | 455 | 
 | 2023-01-03 | 1770 | 455 | 
 | 2023-01-02 | 1769 | 455 | 
 | 2023-01-01 | 1769 | 455 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 1757 | 455 | 
 | 2022-12-07 | 1757 | 455 | 
 | 2022-12-06 | 1756 | 455 | 
-| 2022-12-05 | 1752 | 454 | 
 

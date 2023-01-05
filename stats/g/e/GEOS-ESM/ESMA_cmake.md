@@ -1,6 +1,6 @@
 # GEOS-ESM/ESMA_cmake - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 7
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 3 | 7 | 
+| 2023-01-04 | 3 | 7 | 
 | 2023-01-03 | 3 | 7 | 
 | 2023-01-02 | 3 | 7 | 
 | 2023-01-01 | 3 | 7 | 

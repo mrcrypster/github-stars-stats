@@ -1,10 +1,10 @@
 # jakewalsh90/Terraform-Azure - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 89
 
-★ Stars: 53
+★ Stars: 54
 
 [Open repository](https://github.com/jakewalsh90/Terraform-Azure)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 54 | 89 | 
 | 2023-01-03 | 53 | 89 | 
 | 2023-01-02 | 52 | 89 | 
 | 2023-01-01 | 52 | 89 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 48 | 85 | 
 | 2022-12-07 | 48 | 83 | 
 | 2022-12-06 | 48 | 83 | 
-| 2022-12-05 | 48 | 83 | 
 

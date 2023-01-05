@@ -1,10 +1,10 @@
 # rnkn/olivetti - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 24
 
-★ Stars: 805
+★ Stars: 808
 
 [Open repository](https://github.com/rnkn/olivetti)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 808 | 24 | 
 | 2023-01-03 | 805 | 24 | 
 | 2023-01-02 | 805 | 24 | 
 | 2023-01-01 | 805 | 24 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 792 | 23 | 
 | 2022-12-08 | 792 | 23 | 
 | 2022-12-07 | 792 | 23 | 
-| 2022-12-05 | 792 | 23 | 
 

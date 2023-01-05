@@ -1,10 +1,10 @@
 # davepl/HelloAssembly - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 2
+☋ Forks: 3
 
-★ Stars: 9
+★ Stars: 0
 
 [Open repository](https://github.com/davepl/HelloAssembly)
 
@@ -13,5 +13,6 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | - | 3 | 
 | 2023-01-03 | 9 | 2 | 
 

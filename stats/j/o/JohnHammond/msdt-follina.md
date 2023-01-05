@@ -1,6 +1,6 @@
 # JohnHammond/msdt-follina - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 362
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 1507 | 362 | 
 | 2023-01-04 | 1507 | 362 | 
 | 2023-01-02 | 1506 | 362 | 
 | 2023-01-01 | 1506 | 361 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 1494 | 356 | 
 | 2022-12-08 | 1493 | 356 | 
 | 2022-12-06 | 1493 | 356 | 
-| 2022-12-05 | 1493 | 356 | 
 

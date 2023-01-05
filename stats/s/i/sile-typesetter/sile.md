@@ -1,6 +1,6 @@
 # sile-typesetter/sile - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 89
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 1445 | 89 | 
 | 2023-01-03 | 1445 | 89 | 
 | 2023-01-02 | 1444 | 89 | 
 | 2023-01-01 | 1443 | 89 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 1431 | 87 | 
 | 2022-12-08 | 1431 | 86 | 
 | 2022-12-07 | 1430 | 86 | 
-| 2022-12-05 | 1430 | 86 | 
 

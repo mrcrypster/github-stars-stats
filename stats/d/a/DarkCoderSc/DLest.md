@@ -1,10 +1,10 @@
 # DarkCoderSc/DLest - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 3
 
-★ Stars: 47
+★ Stars: 49
 
 [Open repository](https://github.com/DarkCoderSc/DLest)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 49 | 3 | 
 | 2023-01-03 | 47 | 3 | 
 | 2023-01-02 | 40 | 3 | 
 | 2023-01-01 | 37 | 3 | 

@@ -1,6 +1,6 @@
 # snapframework/io-streams - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 101 | 36 | 
 | 2023-01-03 | 101 | 36 | 
 | 2023-01-02 | 101 | 36 | 
 | 2023-01-01 | 101 | 36 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 101 | 37 | 
 | 2022-12-08 | 101 | 37 | 
 | 2022-12-07 | 101 | 37 | 
-| 2022-12-06 | 101 | 37 | 
 

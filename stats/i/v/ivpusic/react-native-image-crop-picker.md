@@ -1,10 +1,10 @@
 # ivpusic/react-native-image-crop-picker - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 1457
+☋ Forks: 1459
 
-★ Stars: 5661
+★ Stars: 5663
 
 [Open repository](https://github.com/ivpusic/react-native-image-crop-picker)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 5663 | 1459 | 
 | 2023-01-03 | 5661 | 1457 | 
 | 2023-01-02 | 5661 | 1457 | 
 | 2023-01-01 | 5661 | 1457 | 

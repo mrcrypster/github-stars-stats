@@ -1,10 +1,10 @@
 # iclay/Go-OCA-OCPP - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 11
 
-★ Stars: 90
+★ Stars: 91
 
 [Open repository](https://github.com/iclay/Go-OCA-OCPP)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 91 | 11 | 
 | 2023-01-03 | 90 | 11 | 
 | 2023-01-02 | 90 | 11 | 
 | 2023-01-01 | 90 | 11 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 91 | 11 | 
 | 2022-12-08 | 91 | 11 | 
 | 2022-12-06 | 91 | 11 | 
-| 2022-12-05 | 91 | 11 | 
 

@@ -1,6 +1,6 @@
 # input-output-hk/Win32-network - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 6 | 5 | 
 | 2023-01-03 | 6 | 5 | 
 | 2023-01-02 | 5 | 5 | 
 | 2023-01-01 | 5 | 5 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 5 | 5 | 
 | 2022-12-08 | 5 | 5 | 
 | 2022-12-07 | 5 | 5 | 
-| 2022-12-06 | 5 | 5 | 
 

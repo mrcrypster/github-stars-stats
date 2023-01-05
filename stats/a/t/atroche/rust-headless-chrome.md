@@ -1,10 +1,10 @@
 # atroche/rust-headless-chrome - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 161
+☋ Forks: 160
 
-★ Stars: 1333
+★ Stars: 1336
 
 [Open repository](https://github.com/atroche/rust-headless-chrome)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 1336 | 160 | 
 | 2023-01-03 | 1333 | 161 | 
 | 2023-01-02 | 1333 | 161 | 
 | 2023-01-01 | 1332 | 161 | 

@@ -1,10 +1,10 @@
 # MoralisWeb3/unity-web3-game-kit - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 204
 
-★ Stars: 450
+★ Stars: 451
 
 [Open repository](https://github.com/MoralisWeb3/unity-web3-game-kit)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 451 | 204 | 
 | 2023-01-04 | 450 | 204 | 
 | 2023-01-02 | 449 | 204 | 
 | 2023-01-01 | 447 | 204 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 440 | 202 | 
 | 2022-12-07 | 440 | 202 | 
 | 2022-12-06 | 440 | 202 | 
-| 2022-12-05 | 438 | 202 | 
 

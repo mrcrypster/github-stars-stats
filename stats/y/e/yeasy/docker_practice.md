@@ -1,10 +1,10 @@
 # yeasy/docker_practice - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 5447
 
-★ Stars: 21642
+★ Stars: 21648
 
 [Open repository](https://github.com/yeasy/docker_practice)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 21648 | 5447 | 
 | 2023-01-03 | 21642 | 5447 | 
 | 2023-01-02 | 21639 | 5445 | 
 | 2023-01-01 | 21635 | 5444 | 

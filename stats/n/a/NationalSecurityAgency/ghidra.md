@@ -1,10 +1,10 @@
 # NationalSecurityAgency/ghidra - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 4606
+☋ Forks: 4607
 
-★ Stars: 36558
+★ Stars: 36583
 
 [Open repository](https://github.com/NationalSecurityAgency/ghidra)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 36583 | 4607 | 
 | 2023-01-03 | 36558 | 4606 | 
 | 2023-01-02 | 36547 | 4603 | 
 | 2023-01-01 | 36538 | 4601 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 36191 | 4589 | 
 | 2022-12-07 | 36175 | 4586 | 
 | 2022-12-06 | 36150 | 4586 | 
-| 2022-12-05 | 36142 | 4586 | 
 

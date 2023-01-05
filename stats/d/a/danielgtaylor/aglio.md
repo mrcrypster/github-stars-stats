@@ -1,10 +1,10 @@
 # danielgtaylor/aglio - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 488
 
-★ Stars: 4711
+★ Stars: 4712
 
 [Open repository](https://github.com/danielgtaylor/aglio)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 4712 | 488 | 
 | 2023-01-04 | 4711 | 488 | 
 | 2023-01-02 | 4711 | 488 | 
 | 2023-01-01 | 4711 | 488 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 4710 | 488 | 
 | 2022-12-07 | 4710 | 488 | 
 | 2022-12-06 | 4710 | 488 | 
-| 2022-12-05 | 4710 | 488 | 
 

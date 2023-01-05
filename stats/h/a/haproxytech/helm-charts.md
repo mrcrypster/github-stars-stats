@@ -1,10 +1,10 @@
 # haproxytech/helm-charts - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 97
+☋ Forks: 98
 
-★ Stars: 110
+★ Stars: 111
 
 [Open repository](https://github.com/haproxytech/helm-charts)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 111 | 98 | 
 | 2023-01-03 | 110 | 97 | 
 | 2023-01-02 | 110 | 97 | 
 | 2023-01-01 | 110 | 97 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 109 | 95 | 
 | 2022-12-08 | 108 | 95 | 
 | 2022-12-06 | 108 | 95 | 
-| 2022-12-05 | 108 | 95 | 
 

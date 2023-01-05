@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 04
 
 ☋ Forks: 266
 
-★ Stars: 1297
+★ Stars: 1298
 
 [Open repository](https://github.com/ayamir/nvimdots)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-04 | 1297 | 266 | 
+| 2023-01-04 | 1298 | 266 | 
 | 2023-01-03 | 1297 | 266 | 
 | 2023-01-02 | 1292 | 264 | 
 | 2023-01-01 | 1290 | 263 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-08 | 1230 | 257 | 
 | 2022-12-07 | 1221 | 257 | 
 | 2022-12-06 | 1218 | 254 | 
-| 2022-12-05 | 1213 | 254 | 
 

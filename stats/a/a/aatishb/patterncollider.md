@@ -1,10 +1,10 @@
 # aatishb/patterncollider - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 10
 
-★ Stars: 188
+★ Stars: 189
 
 [Open repository](https://github.com/aatishb/patterncollider)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 189 | 10 | 
 | 2023-01-03 | 188 | 10 | 
 | 2023-01-02 | 186 | 10 | 
 | 2023-01-01 | 185 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 163 | 9 | 
 | 2022-12-07 | 161 | 8 | 
 | 2022-12-06 | 155 | 7 | 
-| 2022-12-05 | 147 | 7 | 
 

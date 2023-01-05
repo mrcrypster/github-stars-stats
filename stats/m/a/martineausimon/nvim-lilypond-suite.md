@@ -1,10 +1,10 @@
 # martineausimon/nvim-lilypond-suite - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 3
 
-★ Stars: 70
+★ Stars: 71
 
 [Open repository](https://github.com/martineausimon/nvim-lilypond-suite)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 71 | 3 | 
 | 2023-01-03 | 70 | 3 | 
 | 2023-01-02 | 70 | 3 | 
 | 2023-01-01 | 70 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 69 | 2 | 
 | 2022-12-08 | 69 | 2 | 
 | 2022-12-06 | 68 | 2 | 
-| 2022-12-05 | 66 | 2 | 
 

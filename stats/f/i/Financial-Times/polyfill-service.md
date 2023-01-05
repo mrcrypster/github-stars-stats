@@ -1,10 +1,10 @@
 # Financial-Times/polyfill-service - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 543
 
-★ Stars: 5938
+★ Stars: 5937
 
 [Open repository](https://github.com/Financial-Times/polyfill-service)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 5937 | 543 | 
 | 2023-01-03 | 5938 | 543 | 
 | 2023-01-02 | 5937 | 543 | 
 | 2023-01-01 | 5937 | 543 | 

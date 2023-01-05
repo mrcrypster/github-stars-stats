@@ -1,6 +1,6 @@
 # j-mie6/Parsley - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 83 | 7 | 
 | 2023-01-03 | 83 | 7 | 
 | 2023-01-02 | 83 | 7 | 
 | 2023-01-01 | 83 | 7 | 

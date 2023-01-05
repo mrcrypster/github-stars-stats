@@ -1,10 +1,10 @@
 # opencodeiiita/Learning-Smart-Contracts - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 15
 
-★ Stars: 7
+★ Stars: 9
 
 [Open repository](https://github.com/opencodeiiita/Learning-Smart-Contracts)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 9 | 15 | 
 | 2023-01-03 | 7 | 15 | 
 | 2023-01-02 | 7 | 15 | 
 | 2023-01-01 | 7 | 15 | 

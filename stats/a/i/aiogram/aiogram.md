@@ -1,10 +1,10 @@
 # aiogram/aiogram - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 641
 
-★ Stars: 3267
+★ Stars: 3269
 
 [Open repository](https://github.com/aiogram/aiogram)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 3269 | 641 | 
 | 2023-01-03 | 3267 | 641 | 
 | 2023-01-02 | 3265 | 640 | 
 | 2023-01-01 | 3264 | 639 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 3210 | 624 | 
 | 2022-12-07 | 3205 | 623 | 
 | 2022-12-06 | 3199 | 622 | 
-| 2022-12-05 | 3195 | 622 | 
 

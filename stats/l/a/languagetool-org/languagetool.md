@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 04
 
 ☋ Forks: 1007
 
-★ Stars: 8027
+★ Stars: 8028
 
 [Open repository](https://github.com/languagetool-org/languagetool)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-04 | 8027 | 1007 | 
+| 2023-01-04 | 8028 | 1007 | 
 | 2023-01-03 | 8027 | 1006 | 
 | 2023-01-02 | 8017 | 1006 | 
 | 2023-01-01 | 8002 | 1005 | 

@@ -1,6 +1,6 @@
 # hakluke/how-to-exit-vim - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 300
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 6271 | 300 | 
 | 2023-01-03 | 6271 | 300 | 
 | 2023-01-02 | 6270 | 300 | 
 | 2023-01-01 | 6271 | 300 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 6259 | 298 | 
 | 2022-12-08 | 6257 | 298 | 
 | 2022-12-07 | 6256 | 297 | 
-| 2022-12-05 | 6253 | 297 | 
 

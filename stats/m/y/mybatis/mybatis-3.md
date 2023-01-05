@@ -1,10 +1,10 @@
 # mybatis/mybatis-3 - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 12047
+☋ Forks: 12048
 
-★ Stars: 18049
+★ Stars: 18054
 
 [Open repository](https://github.com/mybatis/mybatis-3)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 18054 | 12048 | 
 | 2023-01-03 | 18049 | 12047 | 
 | 2023-01-02 | 18047 | 12045 | 
 | 2023-01-01 | 18043 | 12043 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 17989 | 12015 | 
 | 2022-12-08 | 17983 | 12016 | 
 | 2022-12-07 | 17981 | 12012 | 
-| 2022-12-05 | 17979 | 12006 | 
 

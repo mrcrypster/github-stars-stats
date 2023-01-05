@@ -1,10 +1,10 @@
 # malcolmstill/zware - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 1
 
-★ Stars: 150
+★ Stars: 151
 
 [Open repository](https://github.com/malcolmstill/zware)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 151 | 1 | 
 | 2023-01-03 | 150 | 1 | 
 | 2023-01-02 | 150 | 1 | 
 | 2023-01-01 | 150 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 148 | 1 | 
 | 2022-12-08 | 147 | 1 | 
 | 2022-12-06 | 147 | 1 | 
-| 2022-12-05 | 147 | 1 | 
 

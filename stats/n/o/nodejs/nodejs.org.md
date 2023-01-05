@@ -1,10 +1,10 @@
 # nodejs/nodejs.org - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 5764
+☋ Forks: 5767
 
-★ Stars: 2315
+★ Stars: 2316
 
 [Open repository](https://github.com/nodejs/nodejs.org)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 2316 | 5767 | 
 | 2023-01-03 | 2315 | 5764 | 
 | 2023-01-02 | 2314 | 5764 | 
 | 2023-01-01 | 2313 | 5764 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 2298 | 5746 | 
 | 2022-12-08 | 2298 | 5743 | 
 | 2022-12-07 | 2298 | 5742 | 
-| 2022-12-06 | 2296 | 5742 | 
 

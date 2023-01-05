@@ -1,6 +1,6 @@
 # skills/continuous-integration - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 120 | 42 | 
 | 2023-01-03 | 120 | 42 | 
 | 2023-01-02 | 120 | 42 | 
 | 2023-01-01 | 118 | 41 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 112 | 36 | 
 | 2022-12-08 | 111 | 36 | 
 | 2022-12-07 | 111 | 36 | 
-| 2022-12-05 | 111 | 36 | 
 

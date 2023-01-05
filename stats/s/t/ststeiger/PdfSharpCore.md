@@ -1,10 +1,10 @@
 # ststeiger/PdfSharpCore - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 183
 
-★ Stars: 770
+★ Stars: 771
 
 [Open repository](https://github.com/ststeiger/PdfSharpCore)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 771 | 183 | 
 | 2023-01-03 | 770 | 183 | 
 | 2023-01-02 | 768 | 183 | 
 | 2023-01-01 | 767 | 183 | 

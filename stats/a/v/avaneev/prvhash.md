@@ -1,10 +1,10 @@
 # avaneev/prvhash - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 19
 
-★ Stars: 272
+★ Stars: 273
 
 [Open repository](https://github.com/avaneev/prvhash)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 273 | 19 | 
 | 2023-01-03 | 272 | 19 | 
 | 2023-01-02 | 268 | 19 | 
 | 2023-01-01 | 266 | 18 | 

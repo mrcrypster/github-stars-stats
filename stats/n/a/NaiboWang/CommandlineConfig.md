@@ -1,6 +1,6 @@
 # NaiboWang/CommandlineConfig - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 274
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 1957 | 274 | 
 | 2023-01-03 | 1957 | 274 | 
 | 2023-01-02 | 1942 | 274 | 
 | 2023-01-01 | 1923 | 274 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 1473 | 274 | 
 | 2022-12-08 | 1453 | 274 | 
 | 2022-12-07 | 1426 | 274 | 
-| 2022-12-06 | 1400 | 274 | 
 

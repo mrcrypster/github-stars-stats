@@ -1,10 +1,10 @@
 # darwin-morocho/flutter-facebook-auth - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 86
 
-★ Stars: 155
+★ Stars: 156
 
 [Open repository](https://github.com/darwin-morocho/flutter-facebook-auth)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 156 | 86 | 
 | 2023-01-03 | 155 | 86 | 
 | 2023-01-02 | 155 | 85 | 
 | 2023-01-01 | 155 | 84 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 156 | 82 | 
 | 2022-12-08 | 156 | 82 | 
 | 2022-12-06 | 156 | 82 | 
-| 2022-12-05 | 157 | 81 | 
 

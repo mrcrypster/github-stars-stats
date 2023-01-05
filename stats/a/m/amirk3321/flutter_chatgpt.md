@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 04
 
 ☋ Forks: 9
 
-★ Stars: 12
+★ Stars: 14
 
 [Open repository](https://github.com/amirk3321/flutter_chatgpt)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-04 | 12 | 9 | 
+| 2023-01-04 | 14 | 9 | 
 | 2023-01-03 | 12 | 9 | 
 

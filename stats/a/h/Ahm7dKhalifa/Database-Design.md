@@ -1,6 +1,6 @@
 # Ahm7dKhalifa/Database-Design - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 17 | 4 | 
 | 2023-01-03 | 17 | 4 | 
 | 2023-01-02 | 17 | 4 | 
 | 2023-01-01 | 17 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 16 | 3 | 
 | 2022-12-08 | 16 | 3 | 
 | 2022-12-06 | 16 | 3 | 
-| 2022-12-05 | 16 | 3 | 
 

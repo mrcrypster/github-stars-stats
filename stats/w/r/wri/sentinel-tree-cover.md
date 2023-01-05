@@ -1,6 +1,6 @@
 # wri/sentinel-tree-cover - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 99 | 24 | 
 | 2023-01-03 | 99 | 24 | 
 | 2023-01-02 | 99 | 24 | 
 | 2023-01-01 | 99 | 24 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 98 | 24 | 
 | 2022-12-08 | 98 | 24 | 
 | 2022-12-07 | 98 | 23 | 
-| 2022-12-05 | 98 | 23 | 
 

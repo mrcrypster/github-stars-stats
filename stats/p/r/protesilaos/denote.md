@@ -1,6 +1,6 @@
 # protesilaos/denote - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 189 | 22 | 
 | 2023-01-03 | 189 | 22 | 
 | 2023-01-02 | 188 | 22 | 
 | 2023-01-01 | 189 | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 177 | 17 | 
 | 2022-12-08 | 176 | 17 | 
 | 2022-12-06 | 176 | 17 | 
-| 2022-12-05 | 176 | 17 | 
 

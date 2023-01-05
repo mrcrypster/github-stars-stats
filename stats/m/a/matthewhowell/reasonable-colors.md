@@ -1,6 +1,6 @@
 # matthewhowell/reasonable-colors - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 302 | 9 | 
 | 2023-01-03 | 302 | 9 | 
 | 2023-01-02 | 300 | 9 | 
 | 2023-01-01 | 300 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 297 | 9 | 
 | 2022-12-08 | 297 | 9 | 
 | 2022-12-06 | 297 | 9 | 
-| 2022-12-05 | 297 | 9 | 
 

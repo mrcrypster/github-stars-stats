@@ -1,6 +1,6 @@
 # Cveinnt/LetsMarkdown.com - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 683 | 26 | 
 | 2023-01-03 | 683 | 26 | 
 | 2023-01-02 | 682 | 26 | 
 | 2023-01-01 | 682 | 26 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 677 | 25 | 
 | 2022-12-07 | 677 | 25 | 
 | 2022-12-06 | 676 | 24 | 
-| 2022-12-05 | 677 | 24 | 
 

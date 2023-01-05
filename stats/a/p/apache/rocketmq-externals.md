@@ -1,6 +1,6 @@
 # apache/rocketmq-externals - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 3041
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 4340 | 3041 | 
 | 2023-01-03 | 4340 | 3041 | 
 | 2023-01-02 | 4339 | 3040 | 
 | 2023-01-01 | 4339 | 3040 | 

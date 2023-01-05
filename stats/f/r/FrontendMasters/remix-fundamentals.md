@@ -1,10 +1,10 @@
 # FrontendMasters/remix-fundamentals - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 72
+☋ Forks: 73
 
-★ Stars: 204
+★ Stars: 205
 
 [Open repository](https://github.com/FrontendMasters/remix-fundamentals)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 205 | 73 | 
 | 2023-01-03 | 204 | 72 | 
 | 2023-01-02 | 204 | 72 | 
 | 2023-01-01 | 204 | 72 | 

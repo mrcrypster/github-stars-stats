@@ -1,6 +1,6 @@
 # catalyst/moodle-fileconverter_librelambda - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 19 | 14 | 
 | 2023-01-03 | 19 | 14 | 
 | 2023-01-02 | 19 | 14 | 
 | 2023-01-01 | 19 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 19 | 14 | 
 | 2022-12-07 | 19 | 14 | 
 | 2022-12-06 | 19 | 14 | 
-| 2022-12-05 | 19 | 14 | 
 

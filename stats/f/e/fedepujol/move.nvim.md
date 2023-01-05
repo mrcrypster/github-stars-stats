@@ -1,10 +1,10 @@
 # fedepujol/move.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 1
 
-★ Stars: 168
+★ Stars: 170
 
 [Open repository](https://github.com/fedepujol/move.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 170 | 1 | 
 | 2023-01-03 | 168 | 1 | 
 | 2023-01-02 | 167 | 1 | 
 | 2023-01-01 | 167 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 157 | 1 | 
 | 2022-12-08 | 157 | 1 | 
 | 2022-12-07 | 156 | 1 | 
-| 2022-12-05 | 156 | 1 | 
 

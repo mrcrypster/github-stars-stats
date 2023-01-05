@@ -1,10 +1,10 @@
 # moby/vpnkit - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 199
 
-★ Stars: 993
+★ Stars: 994
 
 [Open repository](https://github.com/moby/vpnkit)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 994 | 199 | 
 | 2023-01-03 | 993 | 199 | 
 | 2023-01-02 | 992 | 199 | 
 | 2023-01-01 | 992 | 199 | 

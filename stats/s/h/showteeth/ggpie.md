@@ -1,6 +1,6 @@
 # showteeth/ggpie - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 27 | 1 | 
 | 2023-01-03 | 27 | 1 | 
 | 2023-01-02 | 28 | 1 | 
 | 2023-01-01 | 28 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 26 | 1 | 
 | 2022-12-08 | 26 | 1 | 
 | 2022-12-07 | 26 | 1 | 
-| 2022-12-05 | 26 | 1 | 
 

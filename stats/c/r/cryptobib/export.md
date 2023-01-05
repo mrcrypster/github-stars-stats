@@ -1,6 +1,6 @@
 # cryptobib/export - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 44 | 8 | 
 | 2023-01-03 | 44 | 8 | 
 | 2023-01-02 | 44 | 8 | 
 | 2023-01-01 | 44 | 8 | 

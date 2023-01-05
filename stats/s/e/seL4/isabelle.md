@@ -1,6 +1,6 @@
 # seL4/isabelle - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 106 | 40 | 
 | 2023-01-03 | 106 | 40 | 
 | 2023-01-02 | 106 | 40 | 
 | 2023-01-01 | 106 | 40 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 106 | 40 | 
 | 2022-12-08 | 106 | 40 | 
 | 2022-12-07 | 107 | 40 | 
-| 2022-12-05 | 107 | 40 | 
 

@@ -1,8 +1,8 @@
 # Tencent/spring-cloud-tencent - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 413
+☋ Forks: 414
 
 ★ Stars: 2659
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 2659 | 414 | 
 | 2023-01-03 | 2659 | 413 | 
 | 2023-01-02 | 2656 | 412 | 
 | 2023-01-01 | 2653 | 411 | 

@@ -1,6 +1,6 @@
 # status-im/universal-links-handler - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 5 | 4 | 
 | 2023-01-03 | 5 | 4 | 
 | 2023-01-02 | 5 | 4 | 
 | 2023-01-01 | 5 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 5 | 4 | 
 | 2022-12-08 | 5 | 4 | 
 | 2022-12-06 | 5 | 4 | 
-| 2022-12-05 | 5 | 4 | 
 

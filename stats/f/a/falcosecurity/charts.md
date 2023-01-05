@@ -1,8 +1,8 @@
 # falcosecurity/charts - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 223
+☋ Forks: 224
 
 ★ Stars: 167
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 167 | 224 | 
 | 2023-01-03 | 167 | 223 | 
 | 2023-01-02 | 167 | 223 | 
 | 2023-01-01 | 167 | 222 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 164 | 218 | 
 | 2022-12-08 | 164 | 218 | 
 | 2022-12-07 | 163 | 218 | 
-| 2022-12-05 | 163 | 218 | 
 

@@ -1,6 +1,6 @@
 # paulrberg/prb-math - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 76
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 491 | 76 | 
 | 2023-01-03 | 491 | 76 | 
 | 2023-01-02 | 490 | 76 | 
 | 2023-01-01 | 489 | 76 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 469 | 72 | 
 | 2022-12-07 | 468 | 72 | 
 | 2022-12-06 | 466 | 72 | 
-| 2022-12-05 | 463 | 72 | 
 

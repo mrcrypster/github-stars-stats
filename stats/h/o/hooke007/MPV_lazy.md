@@ -1,10 +1,10 @@
 # hooke007/MPV_lazy - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 73
 
-★ Stars: 1061
+★ Stars: 1063
 
 [Open repository](https://github.com/hooke007/MPV_lazy)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 1063 | 73 | 
 | 2023-01-03 | 1061 | 73 | 
 | 2023-01-02 | 1055 | 73 | 
 | 2023-01-01 | 1054 | 73 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 1003 | 66 | 
 | 2022-12-07 | 1002 | 66 | 
 | 2022-12-06 | 998 | 66 | 
-| 2022-12-05 | 998 | 66 | 
 

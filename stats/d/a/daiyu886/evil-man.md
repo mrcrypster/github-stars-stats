@@ -1,6 +1,6 @@
 # daiyu886/evil-man - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 165
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 213 | 165 | 
 | 2023-01-03 | 213 | 165 | 
 | 2023-01-02 | 213 | 165 | 
 | 2023-01-01 | 213 | 165 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 214 | 164 | 
 | 2022-12-08 | 214 | 164 | 
 | 2022-12-07 | 214 | 164 | 
-| 2022-12-05 | 214 | 164 | 
 

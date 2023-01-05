@@ -1,10 +1,10 @@
 # AntonPalmqvist/physically-based-api - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 12
 
-★ Stars: 250
+★ Stars: 251
 
 [Open repository](https://github.com/AntonPalmqvist/physically-based-api)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 251 | 12 | 
 | 2023-01-03 | 250 | 12 | 
 | 2023-01-02 | 249 | 12 | 
 | 2023-01-01 | 249 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 237 | 12 | 
 | 2022-12-08 | 237 | 12 | 
 | 2022-12-06 | 236 | 12 | 
-| 2022-12-05 | 236 | 12 | 
 

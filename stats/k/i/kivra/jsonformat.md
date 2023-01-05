@@ -1,6 +1,6 @@
 # kivra/jsonformat - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 2
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 9 | 2 | 
+| 2023-01-04 | 9 | 2 | 
 | 2023-01-03 | 9 | 2 | 
 | 2023-01-02 | 9 | 2 | 
 | 2023-01-01 | 9 | 2 | 
@@ -40,5 +42,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 9 | 2 | 
 | 2022-12-08 | 9 | 2 | 
 | 2022-12-07 | 9 | 2 | 
-| 2022-12-05 | 9 | 2 | 
 

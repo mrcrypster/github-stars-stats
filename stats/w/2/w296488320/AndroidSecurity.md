@@ -1,6 +1,6 @@
 # w296488320/AndroidSecurity - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 135 | 42 | 
 | 2023-01-03 | 135 | 42 | 
 | 2023-01-02 | 135 | 42 | 
 | 2023-01-01 | 135 | 42 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 135 | 42 | 
 | 2022-12-08 | 135 | 42 | 
 | 2022-12-06 | 135 | 43 | 
-| 2022-12-05 | 135 | 43 | 
 

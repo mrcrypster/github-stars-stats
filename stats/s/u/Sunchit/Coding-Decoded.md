@@ -1,10 +1,10 @@
 # Sunchit/Coding-Decoded - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 231
 
-★ Stars: 294
+★ Stars: 295
 
 [Open repository](https://github.com/Sunchit/Coding-Decoded)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 295 | 231 | 
 | 2023-01-03 | 294 | 231 | 
 | 2023-01-02 | 291 | 229 | 
 | 2023-01-01 | 292 | 229 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 280 | 222 | 
 | 2022-12-07 | 279 | 222 | 
 | 2022-12-06 | 280 | 222 | 
-| 2022-12-05 | 280 | 222 | 
 

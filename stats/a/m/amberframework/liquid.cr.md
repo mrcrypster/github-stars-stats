@@ -1,6 +1,6 @@
 # amberframework/liquid.cr - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 64 | 17 | 
 | 2023-01-03 | 64 | 17 | 
 | 2023-01-02 | 64 | 17 | 
 | 2023-01-01 | 64 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 64 | 17 | 
 | 2022-12-07 | 64 | 17 | 
 | 2022-12-06 | 64 | 17 | 
-| 2022-12-05 | 64 | 17 | 
 

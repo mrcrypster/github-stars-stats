@@ -1,10 +1,10 @@
 # igorwojda/android-showcase - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 801
 
-★ Stars: 5733
+★ Stars: 5736
 
 [Open repository](https://github.com/igorwojda/android-showcase)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 5736 | 801 | 
 | 2023-01-03 | 5733 | 801 | 
 | 2023-01-02 | 5733 | 801 | 
 | 2023-01-01 | 5730 | 800 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 5711 | 795 | 
 | 2022-12-08 | 5711 | 795 | 
 | 2022-12-07 | 5710 | 794 | 
-| 2022-12-05 | 5707 | 793 | 
 

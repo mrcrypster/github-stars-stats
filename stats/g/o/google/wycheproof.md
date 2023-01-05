@@ -1,6 +1,6 @@
 # google/wycheproof - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 281
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 2581 | 281 | 
 | 2023-01-03 | 2581 | 281 | 
 | 2023-01-02 | 2580 | 281 | 
 | 2023-01-01 | 2580 | 281 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 2579 | 281 | 
 | 2022-12-08 | 2579 | 281 | 
 | 2022-12-06 | 2578 | 280 | 
-| 2022-12-05 | 2578 | 280 | 
 

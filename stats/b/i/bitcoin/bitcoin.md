@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 04
 
 ☋ Forks: 33549
 
-★ Stars: 67627
+★ Stars: 67626
 
 [Open repository](https://github.com/bitcoin/bitcoin)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-04 | 67627 | 33549 | 
+| 2023-01-04 | 67626 | 33549 | 
 | 2023-01-03 | 67625 | 33548 | 
 | 2023-01-02 | 67595 | 33541 | 
 | 2023-01-01 | 67591 | 33540 | 

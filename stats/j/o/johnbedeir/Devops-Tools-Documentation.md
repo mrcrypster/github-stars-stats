@@ -1,10 +1,10 @@
 # johnbedeir/Devops-Tools-Documentation - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 55
 
-★ Stars: 44
+★ Stars: 45
 
 [Open repository](https://github.com/johnbedeir/Devops-Tools-Documentation)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 45 | 55 | 
 | 2023-01-03 | 44 | 55 | 
 | 2023-01-02 | 44 | 55 | 
 | 2023-01-01 | 44 | 55 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 43 | 51 | 
 | 2022-12-08 | 43 | 51 | 
 | 2022-12-07 | 43 | 51 | 
-| 2022-12-05 | 43 | 50 | 
 

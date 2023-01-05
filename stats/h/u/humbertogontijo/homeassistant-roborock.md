@@ -1,10 +1,10 @@
 # humbertogontijo/homeassistant-roborock - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 14
+☋ Forks: 15
 
-★ Stars: 168
+★ Stars: 178
 
 [Open repository](https://github.com/humbertogontijo/homeassistant-roborock)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 178 | 15 | 
 | 2023-01-03 | 168 | 14 | 
 | 2023-01-02 | 163 | 14 | 
 | 2023-01-01 | 160 | 14 | 

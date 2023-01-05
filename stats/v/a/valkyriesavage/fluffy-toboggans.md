@@ -1,6 +1,6 @@
 # valkyriesavage/fluffy-toboggans - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 23 | 7 | 
 | 2023-01-04 | 23 | 7 | 
 | 2023-01-03 | 23 | 7 | 
 | 2023-01-02 | 23 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 23 | 7 | 
 | 2022-12-08 | 24 | 7 | 
 | 2022-12-07 | 24 | 7 | 
-| 2022-12-05 | 24 | 7 | 
 

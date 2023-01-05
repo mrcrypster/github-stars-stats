@@ -1,6 +1,6 @@
 # dustincys/hithesis - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 305
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 18 | 305 | 
 | 2023-01-03 | 18 | 305 | 
 | 2023-01-02 | 18 | 305 | 
 | 2023-01-01 | 18 | 305 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 19 | 303 | 
 | 2022-12-08 | 19 | 303 | 
 | 2022-12-06 | 19 | 303 | 
-| 2022-12-05 | 19 | 303 | 
 

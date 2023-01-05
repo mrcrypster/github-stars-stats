@@ -1,6 +1,6 @@
 # RedPRL/stagedtt - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 29 | 1 | 
 | 2023-01-03 | 29 | 1 | 
 | 2023-01-02 | 29 | 1 | 
 | 2023-01-01 | 29 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 29 | 1 | 
 | 2022-12-08 | 29 | 1 | 
 | 2022-12-06 | 29 | 1 | 
-| 2022-12-05 | 29 | 1 | 
 

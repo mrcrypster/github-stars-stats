@@ -1,10 +1,10 @@
 # tweetback/tweetback - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 55
+☋ Forks: 56
 
-★ Stars: 380
+★ Stars: 385
 
 [Open repository](https://github.com/tweetback/tweetback)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 385 | 56 | 
 | 2023-01-03 | 380 | 55 | 
 | 2023-01-02 | 379 | 55 | 
 | 2023-01-01 | 376 | 54 | 

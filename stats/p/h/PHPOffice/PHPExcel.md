@@ -1,6 +1,6 @@
 # PHPOffice/PHPExcel - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 4200
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 11484 | 4200 | 
 | 2023-01-03 | 11484 | 4200 | 
 | 2023-01-02 | 11486 | 4201 | 
 | 2023-01-01 | 11487 | 4201 | 

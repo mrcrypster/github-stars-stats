@@ -1,6 +1,6 @@
 # kaeedo/Scrutiny - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 81 | 3 | 
 | 2023-01-03 | 81 | 3 | 
 | 2023-01-02 | 81 | 3 | 
 | 2023-01-01 | 81 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 82 | 3 | 
 | 2022-12-07 | 81 | 3 | 
 | 2022-12-06 | 81 | 3 | 
-| 2022-12-05 | 81 | 3 | 
 

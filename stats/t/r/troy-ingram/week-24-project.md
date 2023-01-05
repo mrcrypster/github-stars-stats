@@ -1,8 +1,8 @@
 # troy-ingram/week-24-project - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 168
+☋ Forks: 169
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 5 | 169 | 
 | 2023-01-03 | 5 | 168 | 
 | 2023-01-02 | 5 | 168 | 
 | 2023-01-01 | 5 | 168 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 5 | 165 | 
 | 2022-12-08 | 5 | 166 | 
 | 2022-12-07 | 5 | 165 | 
-| 2022-12-05 | 5 | 165 | 
 

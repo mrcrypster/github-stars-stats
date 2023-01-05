@@ -1,10 +1,10 @@
 # IdreesInc/Monocraft - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 83
 
-★ Stars: 5958
+★ Stars: 5971
 
 [Open repository](https://github.com/IdreesInc/Monocraft)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 5971 | 83 | 
 | 2023-01-03 | 5958 | 83 | 
 | 2023-01-02 | 5945 | 82 | 
 | 2023-01-01 | 5943 | 82 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 5819 | 77 | 
 | 2022-12-08 | 5803 | 77 | 
 | 2022-12-07 | 5794 | 77 | 
-| 2022-12-05 | 5777 | 75 | 
 

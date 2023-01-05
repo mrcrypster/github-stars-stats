@@ -1,6 +1,6 @@
 # OmarJ9/password_vault - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 28 | 4 | 
 | 2023-01-03 | 28 | 4 | 
 | 2023-01-02 | 28 | 4 | 
 | 2023-01-01 | 28 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 28 | 4 | 
 | 2022-12-08 | 28 | 4 | 
 | 2022-12-07 | 28 | 4 | 
-| 2022-12-05 | 28 | 4 | 
 

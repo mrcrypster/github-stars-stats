@@ -1,10 +1,10 @@
 # kkevsekk1/AutoX - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 378
+☋ Forks: 380
 
-★ Stars: 1768
+★ Stars: 1771
 
 [Open repository](https://github.com/kkevsekk1/AutoX)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 1771 | 380 | 
 | 2023-01-03 | 1768 | 378 | 
 | 2023-01-02 | 1767 | 378 | 
 | 2023-01-01 | 1765 | 378 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 1715 | 363 | 
 | 2022-12-07 | 1709 | 361 | 
 | 2022-12-06 | 1704 | 361 | 
-| 2022-12-05 | 1701 | 360 | 
 

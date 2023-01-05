@@ -1,6 +1,6 @@
 # cotowali/cotowali - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 551 | 10 | 
 | 2023-01-03 | 551 | 10 | 
 | 2023-01-02 | 551 | 10 | 
 | 2023-01-01 | 551 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 548 | 9 | 
 | 2022-12-07 | 548 | 9 | 
 | 2022-12-06 | 548 | 9 | 
-| 2022-12-05 | 548 | 9 | 
 

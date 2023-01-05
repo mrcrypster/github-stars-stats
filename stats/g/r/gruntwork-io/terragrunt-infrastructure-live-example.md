@@ -1,8 +1,8 @@
 # gruntwork-io/terragrunt-infrastructure-live-example - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 372
+☋ Forks: 373
 
 ★ Stars: 565
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 565 | 373 | 
 | 2023-01-03 | 565 | 372 | 
 | 2023-01-02 | 564 | 372 | 
 | 2023-01-01 | 564 | 371 | 

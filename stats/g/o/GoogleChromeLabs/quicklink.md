@@ -1,10 +1,10 @@
 # GoogleChromeLabs/quicklink - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 403
 
-★ Stars: 10315
+★ Stars: 10321
 
 [Open repository](https://github.com/GoogleChromeLabs/quicklink)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 10321 | 403 | 
 | 2023-01-03 | 10315 | 403 | 
 | 2023-01-02 | 10309 | 402 | 
 | 2023-01-01 | 10308 | 402 | 

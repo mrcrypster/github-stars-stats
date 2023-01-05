@@ -1,10 +1,10 @@
 # mdn/learning-area - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 23614
+☋ Forks: 23624
 
-★ Stars: 5549
+★ Stars: 5553
 
 [Open repository](https://github.com/mdn/learning-area)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 5553 | 23624 | 
 | 2023-01-03 | 5549 | 23614 | 
 | 2023-01-02 | 5542 | 23580 | 
 | 2023-01-01 | 5541 | 23572 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 5466 | 23223 | 
 | 2022-12-07 | 5465 | 23208 | 
 | 2022-12-06 | 5463 | 23180 | 
-| 2022-12-05 | 5464 | 23155 | 
 

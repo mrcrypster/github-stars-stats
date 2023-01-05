@@ -1,10 +1,10 @@
 # phachon/mm-wiki - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 744
 
-★ Stars: 3038
+★ Stars: 3039
 
 [Open repository](https://github.com/phachon/mm-wiki)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 3039 | 744 | 
 | 2023-01-03 | 3038 | 744 | 
 | 2023-01-02 | 3037 | 742 | 
 | 2023-01-01 | 3036 | 742 | 

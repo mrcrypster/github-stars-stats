@@ -1,10 +1,10 @@
 # sqlsec/Hackintosh - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 111
 
-★ Stars: 452
+★ Stars: 453
 
 [Open repository](https://github.com/sqlsec/Hackintosh)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 453 | 111 | 
 | 2023-01-03 | 452 | 111 | 
 | 2023-01-02 | 452 | 111 | 
 | 2023-01-01 | 452 | 111 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 424 | 108 | 
 | 2022-12-08 | 420 | 106 | 
 | 2022-12-07 | 418 | 106 | 
-| 2022-12-05 | 417 | 105 | 
 

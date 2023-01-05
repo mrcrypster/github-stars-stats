@@ -1,10 +1,10 @@
 # odoo/documentation - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 4085
+☋ Forks: 4090
 
-★ Stars: 453
+★ Stars: 454
 
 [Open repository](https://github.com/odoo/documentation)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 454 | 4090 | 
 | 2023-01-03 | 453 | 4085 | 
 | 2023-01-02 | 453 | 4079 | 
 | 2023-01-01 | 452 | 4074 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 442 | 3996 | 
 | 2022-12-07 | 442 | 3990 | 
 | 2022-12-06 | 442 | 3988 | 
-| 2022-12-05 | 440 | 3979 | 
 

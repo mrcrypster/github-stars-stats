@@ -1,10 +1,10 @@
 # googleads/googleads-consent-sdk-ios - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 50
+☋ Forks: 52
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/googleads/googleads-consent-sdk-ios)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 32 | 52 | 
 | 2023-01-03 | 31 | 50 | 
 | 2023-01-02 | 31 | 50 | 
 | 2023-01-01 | 31 | 50 | 

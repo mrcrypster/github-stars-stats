@@ -1,10 +1,10 @@
 # letsar/flutter_staggered_grid_view - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 473
 
-★ Stars: 2743
+★ Stars: 2742
 
 [Open repository](https://github.com/letsar/flutter_staggered_grid_view)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 2742 | 473 | 
 | 2023-01-03 | 2743 | 473 | 
 | 2023-01-02 | 2743 | 473 | 
 | 2023-01-01 | 2743 | 473 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 2717 | 471 | 
 | 2022-12-08 | 2717 | 471 | 
 | 2022-12-06 | 2717 | 471 | 
-| 2022-12-05 | 2715 | 471 | 
 

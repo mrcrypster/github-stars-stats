@@ -1,10 +1,10 @@
 # microsoft/minecraft-samples - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 92
+☋ Forks: 94
 
-★ Stars: 62
+★ Stars: 63
 
 [Open repository](https://github.com/microsoft/minecraft-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 63 | 94 | 
 | 2023-01-03 | 62 | 92 | 
 | 2023-01-02 | 60 | 89 | 
 | 2023-01-01 | 59 | 89 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 50 | 82 | 
 | 2022-12-07 | 50 | 82 | 
 | 2022-12-06 | 50 | 81 | 
-| 2022-12-05 | 49 | 81 | 
 

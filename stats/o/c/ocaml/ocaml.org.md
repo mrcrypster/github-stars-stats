@@ -1,8 +1,8 @@
 # ocaml/ocaml.org - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 05
 
-☋ Forks: 88
+☋ Forks: 89
 
 ★ Stars: 64
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 64 | 89 | 
 | 2023-01-03 | 64 | 88 | 
 | 2023-01-02 | 64 | 88 | 
 | 2023-01-01 | 64 | 88 | 

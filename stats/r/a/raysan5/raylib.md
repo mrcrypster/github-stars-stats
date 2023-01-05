@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 04
 
 ☋ Forks: 1381
 
-★ Stars: 11344
+★ Stars: 11347
 
 [Open repository](https://github.com/raysan5/raylib)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-04 | 11344 | 1381 | 
+| 2023-01-04 | 11347 | 1381 | 
 | 2023-01-03 | 11340 | 1382 | 
 | 2023-01-02 | 11329 | 1383 | 
 | 2023-01-01 | 11322 | 1383 | 

@@ -1,8 +1,8 @@
 # vfarcic/devops-toolkit-crossplane - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 64
+☋ Forks: 65
 
 ★ Stars: 55
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 55 | 65 | 
 | 2023-01-04 | 55 | 64 | 
 | 2023-01-02 | 55 | 64 | 
 | 2023-01-01 | 55 | 64 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 53 | 61 | 
 | 2022-12-08 | 53 | 62 | 
 | 2022-12-07 | 53 | 62 | 
-| 2022-12-05 | 53 | 62 | 
 

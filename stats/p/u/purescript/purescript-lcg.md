@@ -1,10 +1,10 @@
 # purescript/purescript-lcg - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 5
+☋ Forks: 6
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/purescript/purescript-lcg)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 4 | 6 | 
 | 2023-01-03 | 3 | 5 | 
 | 2023-01-02 | 3 | 5 | 
 | 2023-01-01 | 3 | 5 | 

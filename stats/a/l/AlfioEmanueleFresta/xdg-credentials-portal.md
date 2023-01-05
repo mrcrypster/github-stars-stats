@@ -1,10 +1,10 @@
 # AlfioEmanueleFresta/xdg-credentials-portal - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 7
 
-★ Stars: 237
+★ Stars: 238
 
 [Open repository](https://github.com/AlfioEmanueleFresta/xdg-credentials-portal)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 238 | 7 | 
 | 2023-01-03 | 237 | 7 | 
 | 2023-01-02 | 237 | 7 | 
 | 2023-01-01 | 237 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 233 | 7 | 
 | 2022-12-08 | 232 | 7 | 
 | 2022-12-07 | 233 | 7 | 
-| 2022-12-05 | 232 | 7 | 
 

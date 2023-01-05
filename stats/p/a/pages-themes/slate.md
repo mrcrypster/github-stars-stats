@@ -1,8 +1,8 @@
 # pages-themes/slate - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 930
+☋ Forks: 929
 
 ★ Stars: 253
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 253 | 929 | 
 | 2023-01-03 | 253 | 930 | 
 | 2023-01-02 | 253 | 929 | 
 | 2023-01-01 | 253 | 928 | 

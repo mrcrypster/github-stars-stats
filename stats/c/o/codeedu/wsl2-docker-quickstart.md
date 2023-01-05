@@ -1,10 +1,10 @@
 # codeedu/wsl2-docker-quickstart - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 615
 
-★ Stars: 2199
+★ Stars: 2201
 
 [Open repository](https://github.com/codeedu/wsl2-docker-quickstart)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 2201 | 615 | 
 | 2023-01-03 | 2199 | 615 | 
 | 2023-01-02 | 2197 | 614 | 
 | 2023-01-01 | 2196 | 615 | 

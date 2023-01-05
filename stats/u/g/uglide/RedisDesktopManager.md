@@ -1,10 +1,10 @@
 # uglide/RedisDesktopManager - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 3221
 
-★ Stars: 21303
+★ Stars: 21307
 
 [Open repository](https://github.com/uglide/RedisDesktopManager)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 21307 | 3221 | 
 | 2023-01-03 | 21303 | 3221 | 
 | 2023-01-02 | 21297 | 3221 | 
 | 2023-01-01 | 21295 | 3221 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 21215 | 3218 | 
 | 2022-12-08 | 21206 | 3217 | 
 | 2022-12-07 | 21200 | 3216 | 
-| 2022-12-05 | 21194 | 3216 | 
 

@@ -1,10 +1,10 @@
 # Ttanasart-pt/Pixel-Composer - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 8
 
-★ Stars: 155
+★ Stars: 157
 
 [Open repository](https://github.com/Ttanasart-pt/Pixel-Composer)
 
@@ -13,7 +13,8 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-04 | 155 | 8 | 
+| 2023-01-05 | 157 | 8 | 
+| 2023-01-04 | 157 | 8 | 
 | 2023-01-03 | 155 | 8 | 
 | 2023-01-02 | 153 | 8 | 
 | 2023-01-01 | 149 | 8 | 

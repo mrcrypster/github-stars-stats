@@ -1,10 +1,10 @@
 # Shirakumo/alloy - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 9
 
-★ Stars: 125
+★ Stars: 124
 
 [Open repository](https://github.com/Shirakumo/alloy)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 124 | 9 | 
 | 2023-01-03 | 125 | 9 | 
 | 2023-01-02 | 125 | 9 | 
 | 2022-12-31 | 125 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 124 | 9 | 
 | 2022-12-08 | 124 | 9 | 
 | 2022-12-06 | 124 | 9 | 
-| 2022-12-05 | 123 | 9 | 
 

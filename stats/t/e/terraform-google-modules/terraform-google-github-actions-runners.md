@@ -1,10 +1,10 @@
 # terraform-google-modules/terraform-google-github-actions-runners - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 72
 
-★ Stars: 116
+★ Stars: 117
 
 [Open repository](https://github.com/terraform-google-modules/terraform-google-github-actions-runners)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 117 | 72 | 
 | 2023-01-03 | 116 | 72 | 
 | 2023-01-02 | 116 | 72 | 
 | 2023-01-01 | 116 | 72 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 113 | 72 | 
 | 2022-12-08 | 113 | 72 | 
 | 2022-12-07 | 113 | 72 | 
-| 2022-12-05 | 113 | 72 | 
 

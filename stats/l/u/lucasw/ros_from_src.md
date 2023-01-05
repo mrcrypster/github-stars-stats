@@ -1,6 +1,6 @@
 # lucasw/ros_from_src - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 28 | 8 | 
 | 2023-01-03 | 28 | 8 | 
 | 2023-01-02 | 28 | 8 | 
 | 2023-01-01 | 28 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 24 | 7 | 
 | 2022-12-07 | 23 | 7 | 
 | 2022-12-06 | 23 | 7 | 
-| 2022-12-05 | 23 | 7 | 
 

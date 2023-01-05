@@ -1,10 +1,10 @@
 # MicrosoftDocs/windowsserverdocs - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 1708
 
-★ Stars: 1147
+★ Stars: 1146
 
 [Open repository](https://github.com/MicrosoftDocs/windowsserverdocs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 1146 | 1708 | 
 | 2023-01-03 | 1147 | 1708 | 
 | 2023-01-02 | 1147 | 1708 | 
 | 2023-01-01 | 1147 | 1708 | 

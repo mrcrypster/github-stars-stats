@@ -1,6 +1,6 @@
 # Appboy/appboy-ios-sdk - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 143
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 155 | 143 | 
 | 2023-01-03 | 155 | 143 | 
 | 2023-01-02 | 155 | 143 | 
 | 2023-01-01 | 155 | 143 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 155 | 142 | 
 | 2022-12-08 | 155 | 142 | 
 | 2022-12-06 | 155 | 142 | 
-| 2022-12-05 | 155 | 142 | 
 

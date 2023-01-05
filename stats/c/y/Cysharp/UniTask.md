@@ -1,10 +1,10 @@
 # Cysharp/UniTask - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 478
+☋ Forks: 480
 
-★ Stars: 4566
+★ Stars: 4580
 
 [Open repository](https://github.com/Cysharp/UniTask)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 4580 | 480 | 
 | 2023-01-03 | 4566 | 478 | 
 | 2023-01-02 | 4557 | 476 | 
 | 2023-01-01 | 4556 | 475 | 

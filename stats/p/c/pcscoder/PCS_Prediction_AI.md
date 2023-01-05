@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 04
 
-☋ Forks: 209
+☋ Forks: 234
 
-★ Stars: 216
+★ Stars: 244
 
 [Open repository](https://github.com/pcscoder/PCS_Prediction_AI)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-04 | 216 | 209 | 
+| 2023-01-04 | 244 | 234 | 
 | 2023-01-03 | 216 | 209 | 
 | 2023-01-02 | 165 | 160 | 
 | 2023-01-01 | 142 | 138 | 

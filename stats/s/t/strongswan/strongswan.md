@@ -1,8 +1,8 @@
 # strongswan/strongswan - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 654
+☋ Forks: 655
 
 ★ Stars: 1581
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 1581 | 655 | 
 | 2023-01-03 | 1581 | 654 | 
 | 2023-01-02 | 1577 | 653 | 
 | 2023-01-01 | 1575 | 652 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 1562 | 645 | 
 | 2022-12-08 | 1562 | 645 | 
 | 2022-12-06 | 1560 | 645 | 
-| 2022-12-05 | 1558 | 645 | 
 

@@ -1,10 +1,10 @@
 # thedevs-network/kutt - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 807
+☋ Forks: 808
 
-★ Stars: 6744
+★ Stars: 6747
 
 [Open repository](https://github.com/thedevs-network/kutt)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 6747 | 808 | 
 | 2023-01-03 | 6744 | 807 | 
 | 2023-01-02 | 6737 | 806 | 
 | 2023-01-01 | 6733 | 807 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 6632 | 804 | 
 | 2022-12-08 | 6620 | 804 | 
 | 2022-12-06 | 6613 | 803 | 
-| 2022-12-05 | 6604 | 801 | 
 

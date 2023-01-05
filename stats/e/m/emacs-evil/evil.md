@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 04
 
 ☋ Forks: 247
 
-★ Stars: 2715
+★ Stars: 2716
 
 [Open repository](https://github.com/emacs-evil/evil)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-04 | 2715 | 247 | 
+| 2023-01-04 | 2716 | 247 | 
 | 2023-01-03 | 2715 | 247 | 
 | 2023-01-02 | 2715 | 247 | 
 | 2023-01-01 | 2707 | 247 | 

@@ -1,6 +1,6 @@
 # inkasadev/osib-frontend-pt - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 187 | 10 | 
 | 2023-01-03 | 187 | 10 | 
 | 2023-01-02 | 187 | 10 | 
 | 2023-01-01 | 187 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 184 | 10 | 
 | 2022-12-07 | 184 | 10 | 
 | 2022-12-06 | 184 | 10 | 
-| 2022-12-05 | 184 | 10 | 
 

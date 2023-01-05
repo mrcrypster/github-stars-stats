@@ -1,10 +1,10 @@
 # golang-module/carbon - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 166
 
-★ Stars: 2792
+★ Stars: 2794
 
 [Open repository](https://github.com/golang-module/carbon)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 2794 | 166 | 
 | 2023-01-03 | 2792 | 166 | 
 | 2023-01-02 | 2785 | 166 | 
 | 2023-01-01 | 2784 | 166 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 2716 | 155 | 
 | 2022-12-08 | 2711 | 157 | 
 | 2022-12-07 | 2699 | 156 | 
-| 2022-12-05 | 2690 | 156 | 
 

@@ -1,10 +1,10 @@
 # homuler/MediaPipeUnityPlugin - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 309
 
-★ Stars: 1036
+★ Stars: 1038
 
 [Open repository](https://github.com/homuler/MediaPipeUnityPlugin)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 1038 | 309 | 
 | 2023-01-03 | 1036 | 309 | 
 | 2023-01-02 | 1035 | 309 | 
 | 2023-01-01 | 1033 | 309 | 

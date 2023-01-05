@@ -1,8 +1,8 @@
 # robertdavidgraham/masscan - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 2843
+☋ Forks: 2845
 
 ★ Stars: 20373
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 20373 | 2845 | 
 | 2023-01-04 | 20373 | 2843 | 
 | 2023-01-03 | 20368 | 2842 | 
 | 2023-01-01 | 20365 | 2842 | 

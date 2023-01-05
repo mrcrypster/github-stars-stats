@@ -1,6 +1,6 @@
 # Gizmo199/msdf_previewer - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 7 | - | 
 | 2023-01-03 | 7 | - | 
 | 2023-01-02 | 7 | - | 
 | 2023-01-01 | 7 | - | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 7 | - | 
 | 2022-12-08 | 7 | - | 
 | 2022-12-06 | 7 | - | 
-| 2022-12-05 | 7 | - | 
 

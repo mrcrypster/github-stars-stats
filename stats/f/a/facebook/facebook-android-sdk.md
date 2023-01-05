@@ -1,10 +1,10 @@
 # facebook/facebook-android-sdk - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 3695
+☋ Forks: 3696
 
-★ Stars: 5791
+★ Stars: 5793
 
 [Open repository](https://github.com/facebook/facebook-android-sdk)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 5793 | 3696 | 
 | 2023-01-03 | 5791 | 3695 | 
 | 2023-01-02 | 5790 | 3694 | 
 | 2023-01-01 | 5789 | 3694 | 

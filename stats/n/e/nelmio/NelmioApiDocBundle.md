@@ -1,10 +1,10 @@
 # nelmio/NelmioApiDocBundle - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 809
 
-★ Stars: 2092
+★ Stars: 2094
 
 [Open repository](https://github.com/nelmio/NelmioApiDocBundle)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 2094 | 809 | 
 | 2023-01-03 | 2092 | 809 | 
 | 2023-01-02 | 2092 | 809 | 
 | 2022-12-31 | 2092 | 809 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 2092 | 807 | 
 | 2022-12-08 | 2093 | 807 | 
 | 2022-12-06 | 2093 | 806 | 
-| 2022-12-05 | 2093 | 806 | 
 

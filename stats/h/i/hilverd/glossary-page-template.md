@@ -1,8 +1,8 @@
 # hilverd/glossary-page-template - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 83
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 83 | 2 | 
 | 2023-01-03 | 83 | 1 | 
 | 2023-01-02 | 83 | 1 | 
 | 2023-01-01 | 82 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 83 | 1 | 
 | 2022-12-08 | 83 | 1 | 
 | 2022-12-06 | 83 | 1 | 
-| 2022-12-05 | 82 | 1 | 
 

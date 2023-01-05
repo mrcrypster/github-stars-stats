@@ -1,10 +1,10 @@
 # bokub/vanity-eth - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 165
 
-★ Stars: 541
+★ Stars: 542
 
 [Open repository](https://github.com/bokub/vanity-eth)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 542 | 165 | 
 | 2023-01-03 | 541 | 165 | 
 | 2023-01-02 | 541 | 165 | 
 | 2023-01-01 | 540 | 165 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 533 | 163 | 
 | 2022-12-07 | 533 | 163 | 
 | 2022-12-06 | 533 | 163 | 
-| 2022-12-05 | 530 | 163 | 
 

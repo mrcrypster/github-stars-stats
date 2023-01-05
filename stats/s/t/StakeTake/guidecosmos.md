@@ -1,6 +1,6 @@
 # StakeTake/guidecosmos - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 64
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 50 | 64 | 
 | 2023-01-03 | 50 | 64 | 
 | 2023-01-02 | 50 | 64 | 
 | 2023-01-01 | 50 | 64 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 50 | 64 | 
 | 2022-12-08 | 50 | 64 | 
 | 2022-12-07 | 49 | 64 | 
-| 2022-12-05 | 49 | 64 | 
 

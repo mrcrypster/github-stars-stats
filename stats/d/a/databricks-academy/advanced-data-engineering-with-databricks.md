@@ -1,10 +1,10 @@
 # databricks-academy/advanced-data-engineering-with-databricks - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 244
+☋ Forks: 245
 
-★ Stars: 199
+★ Stars: 200
 
 [Open repository](https://github.com/databricks-academy/advanced-data-engineering-with-databricks)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 200 | 245 | 
 | 2023-01-03 | 199 | 244 | 
 | 2023-01-02 | 198 | 244 | 
 | 2023-01-01 | 198 | 244 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 186 | 229 | 
 | 2022-12-08 | 185 | 228 | 
 | 2022-12-06 | 184 | 226 | 
-| 2022-12-05 | 182 | 223 | 
 

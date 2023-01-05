@@ -1,10 +1,10 @@
 # Nudin/iptable_vis - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 35
 
-★ Stars: 554
+★ Stars: 555
 
 [Open repository](https://github.com/Nudin/iptable_vis)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 555 | 35 | 
 | 2023-01-03 | 554 | 35 | 
 | 2023-01-02 | 553 | 35 | 
 | 2023-01-01 | 553 | 35 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 548 | 35 | 
 | 2022-12-07 | 548 | 35 | 
 | 2022-12-06 | 547 | 34 | 
-| 2022-12-05 | 547 | 34 | 
 

@@ -1,6 +1,6 @@
 # apex-enterprise-patterns/fflib-apex-common - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 454
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 745 | 454 | 
 | 2023-01-03 | 745 | 454 | 
 | 2023-01-02 | 744 | 454 | 
 | 2023-01-01 | 743 | 454 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 740 | 453 | 
 | 2022-12-07 | 740 | 453 | 
 | 2022-12-06 | 740 | 453 | 
-| 2022-12-05 | 740 | 453 | 
 

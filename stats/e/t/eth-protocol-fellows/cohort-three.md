@@ -1,6 +1,6 @@
 # eth-protocol-fellows/cohort-three - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 164 | 73 | 
 | 2023-01-03 | 164 | 73 | 
 | 2023-01-02 | 164 | 73 | 
 | 2023-01-01 | 164 | 73 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 162 | 73 | 
 | 2022-12-08 | 162 | 73 | 
 | 2022-12-07 | 162 | 73 | 
-| 2022-12-05 | 160 | 72 | 
 

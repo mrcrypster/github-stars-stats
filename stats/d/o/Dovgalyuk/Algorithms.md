@@ -1,6 +1,6 @@
 # Dovgalyuk/Algorithms - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 157
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 11 | 157 | 
 | 2023-01-03 | 11 | 157 | 
 | 2023-01-02 | 11 | 157 | 
 | 2023-01-01 | 11 | 157 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 10 | 152 | 
 | 2022-12-07 | 10 | 152 | 
 | 2022-12-06 | 10 | 152 | 
-| 2022-12-05 | 10 | 152 | 
 

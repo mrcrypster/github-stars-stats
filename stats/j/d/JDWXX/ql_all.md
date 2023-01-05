@@ -1,6 +1,6 @@
 # JDWXX/ql_all - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 221
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 263 | 221 | 
 | 2023-01-03 | 263 | 221 | 
 | 2023-01-02 | 263 | 221 | 
 | 2023-01-01 | 264 | 221 | 

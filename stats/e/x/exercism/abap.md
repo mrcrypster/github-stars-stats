@@ -1,10 +1,10 @@
 # exercism/abap - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 30
 
-★ Stars: 54
+★ Stars: 55
 
 [Open repository](https://github.com/exercism/abap)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 55 | 30 | 
 | 2023-01-03 | 54 | 30 | 
 | 2023-01-02 | 54 | 30 | 
 | 2023-01-01 | 54 | 30 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 53 | 30 | 
 | 2022-12-08 | 53 | 30 | 
 | 2022-12-07 | 53 | 30 | 
-| 2022-12-06 | 53 | 30 | 
 

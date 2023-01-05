@@ -1,6 +1,6 @@
 # AzizKpln/Moriarty-Project - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 168
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 955 | 168 | 
 | 2023-01-04 | 955 | 168 | 
 | 2023-01-02 | 954 | 168 | 
 | 2023-01-01 | 953 | 168 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 930 | 165 | 
 | 2022-12-07 | 930 | 164 | 
 | 2022-12-06 | 929 | 164 | 
-| 2022-12-05 | 929 | 164 | 
 

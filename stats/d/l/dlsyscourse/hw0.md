@@ -1,6 +1,6 @@
 # dlsyscourse/hw0 - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 36 | 47 | 
 | 2023-01-03 | 36 | 47 | 
 | 2023-01-02 | 36 | 47 | 
 | 2023-01-01 | 36 | 47 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 34 | 44 | 
 | 2022-12-08 | 34 | 44 | 
 | 2022-12-06 | 34 | 44 | 
-| 2022-12-05 | 34 | 44 | 
 

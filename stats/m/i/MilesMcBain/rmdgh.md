@@ -1,6 +1,6 @@
 # MilesMcBain/rmdgh - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 50 | 2 | 
 | 2023-01-03 | 50 | 2 | 
 | 2023-01-02 | 50 | 2 | 
 | 2023-01-01 | 50 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 50 | 2 | 
 | 2022-12-08 | 50 | 2 | 
 | 2022-12-06 | 50 | 2 | 
-| 2022-12-05 | 50 | 2 | 
 

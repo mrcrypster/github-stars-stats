@@ -1,6 +1,6 @@
 # terjanq/same-origin-xss - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 50 | 3 | 
 | 2023-01-04 | 50 | 3 | 
 | 2023-01-03 | 50 | 3 | 
 | 2023-01-01 | 50 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 49 | 3 | 
 | 2022-12-08 | 49 | 3 | 
 | 2022-12-06 | 49 | 3 | 
-| 2022-12-05 | 49 | 3 | 
 

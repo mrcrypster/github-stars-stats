@@ -1,10 +1,10 @@
 # vfsfitvnm/ViMusic - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 150
 
-★ Stars: 2451
+★ Stars: 2465
 
 [Open repository](https://github.com/vfsfitvnm/ViMusic)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 2465 | 150 | 
 | 2023-01-03 | 2451 | 150 | 
 | 2023-01-02 | 2443 | 150 | 
 | 2023-01-01 | 2428 | 149 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 2033 | 119 | 
 | 2022-12-07 | 2023 | 119 | 
 | 2022-12-06 | 1994 | 118 | 
-| 2022-12-05 | 1973 | 116 | 
 

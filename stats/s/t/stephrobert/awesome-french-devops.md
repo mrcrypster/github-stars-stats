@@ -1,10 +1,10 @@
 # stephrobert/awesome-french-devops - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 77
+☋ Forks: 80
 
-★ Stars: 873
+★ Stars: 877
 
 [Open repository](https://github.com/stephrobert/awesome-french-devops)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 877 | 80 | 
 | 2023-01-03 | 873 | 77 | 
 | 2023-01-02 | 873 | 79 | 
 | 2023-01-01 | 872 | 79 | 

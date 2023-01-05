@@ -1,6 +1,6 @@
 # LinShunKang/MyPerf4J - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 424
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 2622 | 424 | 
 | 2023-01-03 | 2622 | 424 | 
 | 2023-01-02 | 2615 | 422 | 
 | 2023-01-01 | 2615 | 422 | 

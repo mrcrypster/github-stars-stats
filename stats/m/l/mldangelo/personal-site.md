@@ -1,8 +1,8 @@
 # mldangelo/personal-site - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 661
+☋ Forks: 662
 
 ★ Stars: 889
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 889 | 662 | 
 | 2023-01-03 | 889 | 661 | 
 | 2023-01-02 | 888 | 662 | 
 | 2023-01-01 | 887 | 662 | 

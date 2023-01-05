@@ -1,10 +1,10 @@
 # sigstore/cosign - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 05
 
-☋ Forks: 350
+☋ Forks: 351
 
-★ Stars: 2917
+★ Stars: 2930
 
 [Open repository](https://github.com/sigstore/cosign)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 2930 | 351 | 
+| 2023-01-04 | 2928 | 351 | 
 | 2023-01-03 | 2917 | 350 | 
 | 2023-01-02 | 2892 | 349 | 
 | 2023-01-01 | 2892 | 348 | 

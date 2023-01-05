@@ -1,10 +1,10 @@
 # Priler/aimlabbot - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 14
 
-★ Stars: 31
+★ Stars: 30
 
 [Open repository](https://github.com/Priler/aimlabbot)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 30 | 14 | 
 | 2023-01-03 | 31 | 14 | 
 | 2023-01-02 | 31 | 14 | 
 | 2023-01-01 | 31 | 14 | 

@@ -1,10 +1,10 @@
 # 1Password/typeshare - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 36
 
-★ Stars: 1608
+★ Stars: 1609
 
 [Open repository](https://github.com/1Password/typeshare)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 1609 | 36 | 
 | 2023-01-03 | 1608 | 36 | 
 | 2023-01-02 | 1607 | 35 | 
 | 2023-01-01 | 1604 | 34 | 

@@ -1,10 +1,10 @@
 # krahets/LeetCode-Book - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 208
 
-★ Stars: 1308
+★ Stars: 1314
 
 [Open repository](https://github.com/krahets/LeetCode-Book)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 1314 | 208 | 
 | 2023-01-03 | 1308 | 208 | 
 | 2023-01-02 | 1305 | 208 | 
 | 2023-01-01 | 1303 | 208 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 1235 | 199 | 
 | 2022-12-08 | 1235 | 199 | 
 | 2022-12-07 | 1234 | 199 | 
-| 2022-12-05 | 1233 | 199 | 
 

@@ -1,6 +1,6 @@
 # dryman/toml-mode.el - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 44 | 16 | 
 | 2023-01-03 | 44 | 16 | 
 | 2023-01-02 | 44 | 16 | 
 | 2023-01-01 | 44 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 43 | 16 | 
 | 2022-12-07 | 43 | 16 | 
 | 2022-12-06 | 43 | 16 | 
-| 2022-12-05 | 43 | 16 | 
 

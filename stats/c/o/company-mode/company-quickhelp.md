@@ -1,10 +1,10 @@
 # company-mode/company-quickhelp - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 34
 
-★ Stars: 358
+★ Stars: 361
 
 [Open repository](https://github.com/company-mode/company-quickhelp)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 361 | 34 | 
 | 2023-01-03 | 358 | 34 | 
 | 2023-01-02 | 358 | 34 | 
 | 2023-01-01 | 358 | 34 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 356 | 33 | 
 | 2022-12-08 | 356 | 33 | 
 | 2022-12-06 | 356 | 33 | 
-| 2022-12-05 | 356 | 33 | 
 

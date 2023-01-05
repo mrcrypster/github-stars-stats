@@ -1,10 +1,10 @@
 # clickup/honey - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 9
 
-★ Stars: 280
+★ Stars: 281
 
 [Open repository](https://github.com/clickup/honey)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 281 | 9 | 
 | 2023-01-03 | 280 | 9 | 
 | 2023-01-02 | 280 | 9 | 
 | 2023-01-01 | 279 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 263 | 7 | 
 | 2022-12-07 | 262 | 7 | 
 | 2022-12-06 | 262 | 7 | 
-| 2022-12-05 | 262 | 6 | 
 

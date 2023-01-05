@@ -1,10 +1,10 @@
 # robvdpol/RaceControl - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 96
 
-★ Stars: 1174
+★ Stars: 1175
 
 [Open repository](https://github.com/robvdpol/RaceControl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 1175 | 96 | 
 | 2023-01-03 | 1174 | 96 | 
 | 2023-01-02 | 1174 | 96 | 
 | 2023-01-01 | 1174 | 96 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 1175 | 97 | 
 | 2022-12-08 | 1175 | 97 | 
 | 2022-12-06 | 1175 | 97 | 
-| 2022-12-05 | 1176 | 97 | 
 

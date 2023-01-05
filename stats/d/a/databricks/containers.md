@@ -1,8 +1,8 @@
 # databricks/containers - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 94
+☋ Forks: 95
 
 ★ Stars: 124
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 124 | 95 | 
 | 2023-01-03 | 124 | 94 | 
 | 2023-01-02 | 124 | 94 | 
 | 2023-01-01 | 124 | 94 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 123 | 93 | 
 | 2022-12-07 | 123 | 93 | 
 | 2022-12-06 | 123 | 93 | 
-| 2022-12-05 | 122 | 93 | 
 

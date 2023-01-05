@@ -1,6 +1,6 @@
 # tigerbeetledb/viewstamped-replication-made-famous - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 111 | 7 | 
 | 2023-01-03 | 111 | 7 | 
 | 2023-01-02 | 111 | 7 | 
 | 2023-01-01 | 111 | 6 | 

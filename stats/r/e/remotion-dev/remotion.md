@@ -1,10 +1,10 @@
 # remotion-dev/remotion - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 676
+☋ Forks: 675
 
-★ Stars: 14966
+★ Stars: 14983
 
 [Open repository](https://github.com/remotion-dev/remotion)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 14983 | 675 | 
 | 2023-01-03 | 14966 | 676 | 
 | 2023-01-02 | 14949 | 675 | 
 | 2023-01-01 | 14937 | 675 | 

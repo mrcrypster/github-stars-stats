@@ -1,8 +1,8 @@
 # dagarciam/ExampleDataprocSDK - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 65
+☋ Forks: 66
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | - | 66 | 
 | 2023-01-03 | - | 65 | 
 | 2023-01-02 | - | 64 | 
 | 2023-01-01 | - | 64 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | - | 60 | 
 | 2022-12-08 | - | 60 | 
 | 2022-12-06 | - | 60 | 
-| 2022-12-05 | - | 60 | 
 

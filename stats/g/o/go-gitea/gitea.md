@@ -1,10 +1,10 @@
 # go-gitea/gitea - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 4308
+☋ Forks: 4309
 
-★ Stars: 33998
+★ Stars: 34010
 
 [Open repository](https://github.com/go-gitea/gitea)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 34010 | 4309 | 
 | 2023-01-03 | 33998 | 4308 | 
 | 2023-01-02 | 33988 | 4305 | 
 | 2023-01-01 | 33980 | 4304 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 33655 | 4261 | 
 | 2022-12-08 | 33628 | 4261 | 
 | 2022-12-07 | 33604 | 4257 | 
-| 2022-12-05 | 33578 | 4248 | 
 

@@ -1,6 +1,6 @@
 # babashka/pods - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 83 | 9 | 
 | 2023-01-03 | 83 | 9 | 
 | 2023-01-02 | 83 | 9 | 
 | 2023-01-01 | 83 | 9 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 80 | 9 | 
 | 2022-12-08 | 79 | 9 | 
 | 2022-12-07 | 79 | 9 | 
-| 2022-12-06 | 79 | 9 | 
 

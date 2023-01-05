@@ -1,6 +1,6 @@
 # ProjectPhysX/FluidX3D - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 102
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 1071 | 102 | 
 | 2023-01-03 | 1071 | 102 | 
 | 2023-01-02 | 1070 | 101 | 
 | 2022-12-31 | 1070 | 101 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 1053 | 98 | 
 | 2022-12-08 | 1051 | 98 | 
 | 2022-12-07 | 1045 | 98 | 
-| 2022-12-06 | 1044 | 98 | 
 

@@ -1,6 +1,6 @@
 # unixfox/invidious-custom - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 65 | 11 | 
 | 2023-01-03 | 65 | 11 | 
 | 2023-01-02 | 64 | 10 | 
 | 2023-01-01 | 64 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 62 | 10 | 
 | 2022-12-08 | 62 | 10 | 
 | 2022-12-07 | 62 | 10 | 
-| 2022-12-06 | 62 | 10 | 
 

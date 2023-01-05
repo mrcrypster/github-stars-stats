@@ -1,10 +1,10 @@
 # yshui/picom - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 478
+☋ Forks: 479
 
-★ Stars: 3149
+★ Stars: 3152
 
 [Open repository](https://github.com/yshui/picom)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 3152 | 479 | 
 | 2023-01-03 | 3149 | 478 | 
 | 2023-01-02 | 3147 | 475 | 
 | 2023-01-01 | 3144 | 475 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 3098 | 459 | 
 | 2022-12-08 | 3097 | 461 | 
 | 2022-12-06 | 3095 | 460 | 
-| 2022-12-05 | 3087 | 460 | 
 

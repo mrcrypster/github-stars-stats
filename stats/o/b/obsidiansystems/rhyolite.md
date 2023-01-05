@@ -1,6 +1,6 @@
 # obsidiansystems/rhyolite - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 20 | 18 | 
 | 2023-01-03 | 20 | 18 | 
 | 2023-01-02 | 20 | 18 | 
 | 2023-01-01 | 20 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 20 | 18 | 
 | 2022-12-08 | 20 | 18 | 
 | 2022-12-06 | 20 | 18 | 
-| 2022-12-05 | 20 | 18 | 
 

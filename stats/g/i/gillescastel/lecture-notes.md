@@ -1,10 +1,10 @@
 # gillescastel/lecture-notes - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 15
 
-★ Stars: 107
+★ Stars: 108
 
 [Open repository](https://github.com/gillescastel/lecture-notes)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 108 | 15 | 
 | 2023-01-03 | 107 | 15 | 
 | 2023-01-02 | 106 | 15 | 
 | 2023-01-01 | 106 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 104 | 14 | 
 | 2022-12-07 | 104 | 14 | 
 | 2022-12-06 | 104 | 14 | 
-| 2022-12-05 | 104 | 14 | 
 

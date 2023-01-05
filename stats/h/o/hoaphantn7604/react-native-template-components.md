@@ -1,10 +1,10 @@
 # hoaphantn7604/react-native-template-components - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 46
+☋ Forks: 47
 
-★ Stars: 107
+★ Stars: 108
 
 [Open repository](https://github.com/hoaphantn7604/react-native-template-components)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 108 | 47 | 
 | 2023-01-03 | 107 | 46 | 
 | 2023-01-02 | 106 | 46 | 
 | 2023-01-01 | 106 | 46 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 101 | 42 | 
 | 2022-12-08 | 101 | 42 | 
 | 2022-12-07 | 102 | 42 | 
-| 2022-12-05 | 102 | 43 | 
 

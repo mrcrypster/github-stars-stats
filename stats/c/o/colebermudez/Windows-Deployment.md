@@ -1,6 +1,6 @@
 # colebermudez/Windows-Deployment - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 47 | 10 | 
 | 2023-01-03 | 47 | 10 | 
 | 2023-01-02 | 47 | 10 | 
 | 2023-01-01 | 47 | 10 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 47 | 10 | 
 | 2022-12-08 | 47 | 10 | 
 | 2022-12-07 | 47 | 10 | 
-| 2022-12-06 | 47 | 10 | 
 

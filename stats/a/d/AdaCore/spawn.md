@@ -1,6 +1,6 @@
 # AdaCore/spawn - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 17 | 5 | 
 | 2023-01-03 | 17 | 5 | 
 | 2023-01-02 | 17 | 5 | 
 | 2023-01-01 | 17 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 17 | 4 | 
 | 2022-12-08 | 17 | 4 | 
 | 2022-12-07 | 16 | 3 | 
-| 2022-12-05 | 16 | 3 | 
 

@@ -1,10 +1,10 @@
 # pig-mesh/pig - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 681
 
-★ Stars: 4289
+★ Stars: 4295
 
 [Open repository](https://github.com/pig-mesh/pig)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 4295 | 681 | 
 | 2023-01-03 | 4289 | 681 | 
 | 2023-01-02 | 4286 | 679 | 
 | 2023-01-01 | 4283 | 679 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 4225 | 670 | 
 | 2022-12-07 | 4219 | 670 | 
 | 2022-12-06 | 4217 | 670 | 
-| 2022-12-05 | 4214 | 670 | 
 

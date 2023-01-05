@@ -1,10 +1,10 @@
 # 0xe7/WonkaVision - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 6
 
-★ Stars: 39
+★ Stars: 40
 
 [Open repository](https://github.com/0xe7/WonkaVision)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 40 | 6 | 
 | 2023-01-03 | 39 | 6 | 
 | 2023-01-02 | 39 | 6 | 
 | 2023-01-01 | 39 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 37 | 6 | 
 | 2022-12-07 | 37 | 6 | 
 | 2022-12-06 | 37 | 6 | 
-| 2022-12-05 | 37 | 6 | 
 

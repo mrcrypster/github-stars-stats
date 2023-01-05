@@ -1,6 +1,6 @@
 # fireship-io/flamethrower - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 103
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 2550 | 103 | 
 | 2023-01-04 | 2550 | 103 | 
 | 2023-01-02 | 2550 | 102 | 
 | 2023-01-01 | 2546 | 102 | 

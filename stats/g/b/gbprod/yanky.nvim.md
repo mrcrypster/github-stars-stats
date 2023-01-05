@@ -1,10 +1,10 @@
 # gbprod/yanky.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 7
 
-★ Stars: 307
+★ Stars: 310
 
 [Open repository](https://github.com/gbprod/yanky.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 310 | 7 | 
 | 2023-01-03 | 307 | 7 | 
 | 2023-01-02 | 305 | 7 | 
 | 2023-01-01 | 304 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 282 | 7 | 
 | 2022-12-08 | 281 | 7 | 
 | 2022-12-06 | 281 | 7 | 
-| 2022-12-05 | 281 | 6 | 
 

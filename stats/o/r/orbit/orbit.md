@@ -1,6 +1,6 @@
 # orbit/orbit - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 171
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 1675 | 171 | 
 | 2023-01-03 | 1675 | 171 | 
 | 2023-01-02 | 1674 | 171 | 
 | 2023-01-01 | 1674 | 171 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 1676 | 171 | 
 | 2022-12-07 | 1676 | 171 | 
 | 2022-12-06 | 1676 | 171 | 
-| 2022-12-05 | 1676 | 171 | 
 

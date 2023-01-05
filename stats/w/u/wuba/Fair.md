@@ -1,10 +1,10 @@
 # wuba/Fair - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 211
 
-★ Stars: 1849
+★ Stars: 1850
 
 [Open repository](https://github.com/wuba/Fair)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 1850 | 211 | 
 | 2023-01-03 | 1849 | 211 | 
 | 2023-01-02 | 1848 | 208 | 
 | 2023-01-01 | 1846 | 208 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 1779 | 199 | 
 | 2022-12-07 | 1777 | 199 | 
 | 2022-12-06 | 1777 | 199 | 
-| 2022-12-05 | 1776 | 199 | 
 

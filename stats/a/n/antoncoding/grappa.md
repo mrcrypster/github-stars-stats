@@ -1,6 +1,6 @@
 # antoncoding/grappa - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 84 | 7 | 
 | 2023-01-03 | 84 | 7 | 
 | 2023-01-02 | 84 | 7 | 
 | 2023-01-01 | 84 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 75 | 6 | 
 | 2022-12-07 | 75 | 4 | 
 | 2022-12-06 | 75 | 4 | 
-| 2022-12-05 | 75 | 4 | 
 

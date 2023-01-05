@@ -1,6 +1,6 @@
 # git/git-scm.com - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 1266
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 2005 | 1266 | 
 | 2023-01-03 | 2005 | 1266 | 
 | 2023-01-02 | 2004 | 1266 | 
 | 2023-01-01 | 2003 | 1267 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 1999 | 1253 | 
 | 2022-12-08 | 1999 | 1253 | 
 | 2022-12-07 | 1999 | 1252 | 
-| 2022-12-05 | 2000 | 1252 | 
 

@@ -1,6 +1,6 @@
 # samuelbigos/tutorial_projects - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 19 | 3 | 
 | 2023-01-03 | 19 | 3 | 
 | 2023-01-02 | 19 | 3 | 
 | 2023-01-01 | 19 | 3 | 

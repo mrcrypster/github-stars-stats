@@ -1,6 +1,6 @@
 # hktalent/golang-RCE-0day-POC - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 69 | 13 | 
 | 2023-01-03 | 69 | 13 | 
 | 2023-01-02 | 68 | 13 | 
 | 2023-01-01 | 68 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 68 | 13 | 
 | 2022-12-07 | 68 | 13 | 
 | 2022-12-06 | 68 | 13 | 
-| 2022-12-05 | 69 | 13 | 
 

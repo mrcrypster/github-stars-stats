@@ -1,6 +1,6 @@
 # l1mey112/stas - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 29 | 2 | 
 | 2023-01-03 | 29 | 2 | 
 | 2023-01-02 | 29 | 2 | 
 | 2023-01-01 | 29 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 27 | 2 | 
 | 2022-12-08 | 27 | 2 | 
 | 2022-12-07 | 27 | 2 | 
-| 2022-12-05 | 27 | 2 | 
 

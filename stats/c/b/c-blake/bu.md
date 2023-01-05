@@ -1,10 +1,10 @@
 # c-blake/bu - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 1
 
-★ Stars: 16
+★ Stars: 24
 
 [Open repository](https://github.com/c-blake/bu)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 24 | 1 | 
 | 2023-01-03 | 16 | 1 | 
 | 2023-01-02 | 16 | 1 | 
 | 2023-01-01 | 16 | 1 | 

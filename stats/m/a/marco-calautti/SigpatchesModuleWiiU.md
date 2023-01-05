@@ -1,6 +1,6 @@
 # marco-calautti/SigpatchesModuleWiiU - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 42 | 2 | 
 | 2023-01-03 | 42 | 2 | 
 | 2023-01-02 | 42 | 2 | 
 | 2023-01-01 | 42 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 35 | 1 | 
 | 2022-12-07 | 35 | 1 | 
 | 2022-12-06 | 34 | 1 | 
-| 2022-12-05 | 34 | 1 | 
 

@@ -1,10 +1,10 @@
 # AArnott/Library.Template - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 17
 
-★ Stars: 101
+★ Stars: 102
 
 [Open repository](https://github.com/AArnott/Library.Template)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 102 | 17 | 
 | 2023-01-03 | 101 | 17 | 
 | 2023-01-02 | 101 | 17 | 
 | 2023-01-01 | 101 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 101 | 17 | 
 | 2022-12-07 | 101 | 17 | 
 | 2022-12-06 | 101 | 17 | 
-| 2022-12-05 | 101 | 17 | 
 

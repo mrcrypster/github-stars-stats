@@ -1,6 +1,6 @@
 # dantecatalfamo/zig-dns - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 49 | - | 
 | 2023-01-03 | 49 | - | 
 | 2023-01-02 | 49 | - | 
 | 2023-01-01 | 49 | - | 

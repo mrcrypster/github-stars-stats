@@ -1,6 +1,6 @@
 # ID-10086/freenode - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 159
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 202 | 159 | 
 | 2023-01-03 | 202 | 159 | 
 | 2023-01-02 | 202 | 159 | 
 | 2023-01-01 | 202 | 159 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 195 | 159 | 
 | 2022-12-07 | 195 | 159 | 
 | 2022-12-06 | 196 | 159 | 
-| 2022-12-05 | 196 | 159 | 
 

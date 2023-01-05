@@ -1,10 +1,10 @@
 # cloudscape-design/components - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 93
 
-★ Stars: 1872
+★ Stars: 1874
 
 [Open repository](https://github.com/cloudscape-design/components)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 1874 | 93 | 
 | 2023-01-03 | 1872 | 93 | 
 | 2023-01-02 | 1869 | 93 | 
 | 2023-01-01 | 1868 | 93 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 1815 | 90 | 
 | 2022-12-07 | 1812 | 90 | 
 | 2022-12-06 | 1810 | 90 | 
-| 2022-12-05 | 1810 | 90 | 
 

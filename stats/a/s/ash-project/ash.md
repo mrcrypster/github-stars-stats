@@ -1,10 +1,10 @@
 # ash-project/ash - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 80
 
-★ Stars: 725
+★ Stars: 729
 
 [Open repository](https://github.com/ash-project/ash)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 729 | 80 | 
 | 2023-01-03 | 725 | 80 | 
 | 2023-01-02 | 725 | 80 | 
 | 2023-01-01 | 725 | 80 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 713 | 78 | 
 | 2022-12-07 | 713 | 78 | 
 | 2022-12-06 | 712 | 78 | 
-| 2022-12-05 | 711 | 78 | 
 

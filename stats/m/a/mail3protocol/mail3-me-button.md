@@ -1,10 +1,10 @@
 # mail3protocol/mail3-me-button - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 19
+☋ Forks: 21
 
-★ Stars: 115
+★ Stars: 117
 
 [Open repository](https://github.com/mail3protocol/mail3-me-button)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 117 | 21 | 
 | 2023-01-03 | 115 | 19 | 
 | 2023-01-02 | 115 | 19 | 
 | 2023-01-01 | 113 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 100 | 16 | 
 | 2022-12-07 | 100 | 16 | 
 | 2022-12-06 | 99 | 16 | 
-| 2022-12-05 | 99 | 16 | 
 

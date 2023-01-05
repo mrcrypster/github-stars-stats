@@ -1,10 +1,10 @@
 # miguelgfierro/codebase - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 15
 
-★ Stars: 48
+★ Stars: 49
 
 [Open repository](https://github.com/miguelgfierro/codebase)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 49 | 15 | 
 | 2023-01-03 | 48 | 15 | 
 | 2023-01-02 | 48 | 15 | 
 | 2023-01-01 | 48 | 15 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 48 | 15 | 
 | 2022-12-08 | 48 | 15 | 
 | 2022-12-07 | 48 | 15 | 
-| 2022-12-06 | 48 | 15 | 
 

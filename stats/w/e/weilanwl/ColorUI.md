@@ -1,10 +1,10 @@
 # weilanwl/ColorUI - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 2144
 
-★ Stars: 11574
+★ Stars: 11575
 
 [Open repository](https://github.com/weilanwl/ColorUI)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 11575 | 2144 | 
 | 2023-01-03 | 11574 | 2144 | 
 | 2023-01-02 | 11573 | 2143 | 
 | 2023-01-01 | 11573 | 2143 | 

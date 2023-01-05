@@ -1,10 +1,10 @@
 # collabnix/kubelabs - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 659
 
-★ Stars: 1758
+★ Stars: 1761
 
 [Open repository](https://github.com/collabnix/kubelabs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 1761 | 659 | 
 | 2023-01-03 | 1758 | 659 | 
 | 2023-01-02 | 1755 | 659 | 
 | 2023-01-01 | 1753 | 659 | 

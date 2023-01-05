@@ -1,10 +1,10 @@
 # jinwyp/one_click_script - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 1215
 
-★ Stars: 3524
+★ Stars: 3525
 
 [Open repository](https://github.com/jinwyp/one_click_script)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 3525 | 1215 | 
 | 2023-01-03 | 3524 | 1215 | 
 | 2023-01-02 | 3521 | 1214 | 
 | 2023-01-01 | 3520 | 1215 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 3436 | 1187 | 
 | 2022-12-08 | 3428 | 1185 | 
 | 2022-12-07 | 3425 | 1182 | 
-| 2022-12-06 | 3418 | 1179 | 
 

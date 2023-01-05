@@ -1,10 +1,10 @@
 # danihodovic/celery-exporter - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 51
+☋ Forks: 52
 
-★ Stars: 216
+★ Stars: 217
 
 [Open repository](https://github.com/danihodovic/celery-exporter)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 217 | 52 | 
 | 2023-01-03 | 216 | 51 | 
 | 2023-01-02 | 216 | 52 | 
 | 2023-01-01 | 215 | 52 | 

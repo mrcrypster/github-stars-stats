@@ -1,10 +1,10 @@
 # PrismJS/prism - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 1260
+☋ Forks: 1261
 
-★ Stars: 10911
+★ Stars: 10914
 
 [Open repository](https://github.com/PrismJS/prism)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 10914 | 1261 | 
 | 2023-01-03 | 10911 | 1260 | 
 | 2023-01-02 | 10908 | 1259 | 
 | 2023-01-01 | 10904 | 1259 | 

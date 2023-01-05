@@ -1,10 +1,10 @@
 # kacos2000/WinEDB - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 3
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/kacos2000/WinEDB)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 29 | 3 | 
 | 2023-01-03 | 28 | 3 | 
 | 2023-01-02 | 27 | 3 | 
 | 2023-01-01 | 25 | 3 | 

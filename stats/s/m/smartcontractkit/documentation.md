@@ -1,6 +1,6 @@
 # smartcontractkit/documentation - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 272
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 207 | 272 | 
 | 2023-01-03 | 207 | 272 | 
 | 2023-01-02 | 207 | 272 | 
 | 2023-01-01 | 207 | 271 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 203 | 267 | 
 | 2022-12-08 | 203 | 266 | 
 | 2022-12-06 | 203 | 266 | 
-| 2022-12-05 | 202 | 264 | 
 

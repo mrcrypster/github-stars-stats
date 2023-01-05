@@ -1,6 +1,6 @@
 # jpg-store/contract-v2 - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 38 | 12 | 
 | 2023-01-03 | 38 | 12 | 
 | 2023-01-02 | 38 | 12 | 
 | 2023-01-01 | 38 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 36 | 11 | 
 | 2022-12-08 | 35 | 11 | 
 | 2022-12-07 | 35 | 11 | 
-| 2022-12-05 | 34 | 11 | 
 

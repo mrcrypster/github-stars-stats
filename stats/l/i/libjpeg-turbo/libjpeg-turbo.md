@@ -1,10 +1,10 @@
 # libjpeg-turbo/libjpeg-turbo - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 880
 
-★ Stars: 3122
+★ Stars: 3124
 
 [Open repository](https://github.com/libjpeg-turbo/libjpeg-turbo)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 3124 | 880 | 
 | 2023-01-03 | 3122 | 880 | 
 | 2023-01-02 | 3122 | 878 | 
 | 2023-01-01 | 3122 | 878 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 3112 | 875 | 
 | 2022-12-07 | 3110 | 873 | 
 | 2022-12-06 | 3108 | 873 | 
-| 2022-12-05 | 3108 | 872 | 
 

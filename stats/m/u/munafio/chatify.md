@@ -1,10 +1,10 @@
 # munafio/chatify - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 362
+☋ Forks: 361
 
-★ Stars: 1723
+★ Stars: 1724
 
 [Open repository](https://github.com/munafio/chatify)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 1724 | 361 | 
 | 2023-01-03 | 1723 | 362 | 
 | 2023-01-02 | 1723 | 362 | 
 | 2023-01-01 | 1723 | 362 | 

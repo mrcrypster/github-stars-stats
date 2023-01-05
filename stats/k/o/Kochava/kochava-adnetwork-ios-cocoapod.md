@@ -1,6 +1,6 @@
 # Kochava/kochava-adnetwork-ios-cocoapod - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 2 | - | 
 | 2023-01-04 | 2 | - | 
 | 2023-01-03 | 2 | - | 
 | 2023-01-01 | 2 | - | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 2 | - | 
 | 2022-12-08 | 2 | - | 
 | 2022-12-07 | 2 | - | 
-| 2022-12-05 | 2 | - | 
 

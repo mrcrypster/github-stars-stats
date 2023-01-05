@@ -1,8 +1,8 @@
 # joaotavora/yasnippet - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 312
+☋ Forks: 313
 
 ★ Stars: 2552
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 2552 | 313 | 
 | 2023-01-04 | 2552 | 312 | 
 | 2023-01-03 | 2552 | 312 | 
 | 2023-01-01 | 2551 | 311 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 2540 | 311 | 
 | 2022-12-08 | 2539 | 311 | 
 | 2022-12-06 | 2539 | 310 | 
-| 2022-12-05 | 2538 | 310 | 
 

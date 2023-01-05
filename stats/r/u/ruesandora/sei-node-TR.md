@@ -1,8 +1,8 @@
 # ruesandora/sei-node-TR - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 264
+☋ Forks: 265
 
 ★ Stars: 159
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 159 | 265 | 
 | 2023-01-03 | 159 | 264 | 
 | 2023-01-02 | 159 | 264 | 
 | 2023-01-01 | 159 | 264 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 159 | 262 | 
 | 2022-12-07 | 159 | 262 | 
 | 2022-12-06 | 159 | 262 | 
-| 2022-12-05 | 159 | 262 | 
 

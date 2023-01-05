@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 04
 
 ☋ Forks: 37
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/YN3011140075/02_DartWeb)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-04 | 1 | 37 | 
+| 2023-01-04 | 2 | 37 | 
 | 2023-01-03 | 1 | 37 | 
 

@@ -1,10 +1,10 @@
 # alibaba/taobao-iphone-device - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 358
 
-★ Stars: 1765
+★ Stars: 1767
 
 [Open repository](https://github.com/alibaba/taobao-iphone-device)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 1767 | 358 | 
 | 2023-01-03 | 1765 | 358 | 
 | 2023-01-02 | 1761 | 358 | 
 | 2023-01-01 | 1761 | 358 | 

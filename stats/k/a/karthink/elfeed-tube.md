@@ -1,10 +1,10 @@
 # karthink/elfeed-tube - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 6
 
-★ Stars: 152
+★ Stars: 153
 
 [Open repository](https://github.com/karthink/elfeed-tube)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 153 | 6 | 
 | 2023-01-03 | 152 | 6 | 
 | 2023-01-02 | 152 | 6 | 
 | 2023-01-01 | 151 | 6 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 149 | 6 | 
 | 2022-12-08 | 149 | 6 | 
 | 2022-12-07 | 148 | 6 | 
-| 2022-12-05 | 148 | 6 | 
 

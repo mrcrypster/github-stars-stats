@@ -1,10 +1,10 @@
 # MrOtherGuy/firefox-csshacks - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 233
 
-★ Stars: 1895
+★ Stars: 1894
 
 [Open repository](https://github.com/MrOtherGuy/firefox-csshacks)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 1894 | 233 | 
 | 2023-01-03 | 1895 | 233 | 
 | 2023-01-02 | 1893 | 233 | 
 | 2023-01-01 | 1890 | 233 | 

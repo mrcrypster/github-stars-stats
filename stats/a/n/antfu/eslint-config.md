@@ -1,10 +1,10 @@
 # antfu/eslint-config - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 169
+☋ Forks: 168
 
-★ Stars: 992
+★ Stars: 995
 
 [Open repository](https://github.com/antfu/eslint-config)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 995 | 168 | 
 | 2023-01-03 | 992 | 169 | 
 | 2023-01-02 | 990 | 168 | 
 | 2023-01-01 | 990 | 168 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 942 | 163 | 
 | 2022-12-08 | 937 | 162 | 
 | 2022-12-07 | 931 | 162 | 
-| 2022-12-05 | 930 | 162 | 
 

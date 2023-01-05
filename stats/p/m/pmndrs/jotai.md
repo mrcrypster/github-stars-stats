@@ -1,10 +1,10 @@
 # pmndrs/jotai - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 344
 
-★ Stars: 11473
+★ Stars: 11489
 
 [Open repository](https://github.com/pmndrs/jotai)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 11489 | 344 | 
 | 2023-01-03 | 11473 | 344 | 
 | 2023-01-02 | 11453 | 344 | 
 | 2023-01-01 | 11436 | 344 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 11184 | 329 | 
 | 2022-12-08 | 11155 | 329 | 
 | 2022-12-07 | 11143 | 326 | 
-| 2022-12-05 | 11134 | 326 | 
 

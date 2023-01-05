@@ -1,10 +1,10 @@
 # surftimer/SurfTimer - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 69
 
-★ Stars: 125
+★ Stars: 126
 
 [Open repository](https://github.com/surftimer/SurfTimer)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 126 | 69 | 
 | 2023-01-03 | 125 | 69 | 
 | 2023-01-02 | 125 | 69 | 
 | 2023-01-01 | 124 | 69 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 121 | 70 | 
 | 2022-12-08 | 121 | 70 | 
 | 2022-12-06 | 121 | 69 | 
-| 2022-12-05 | 121 | 70 | 
 

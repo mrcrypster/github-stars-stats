@@ -1,6 +1,6 @@
 # esy/esy - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 93
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 789 | 93 | 
 | 2023-01-03 | 789 | 93 | 
 | 2023-01-02 | 789 | 93 | 
 | 2022-12-31 | 788 | 93 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 788 | 93 | 
 | 2022-12-07 | 788 | 93 | 
 | 2022-12-06 | 788 | 93 | 
-| 2022-12-05 | 788 | 93 | 
 

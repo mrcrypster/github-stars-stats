@@ -1,10 +1,10 @@
 # siewchongche/mev-example - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 7
 
-★ Stars: 72
+★ Stars: 73
 
 [Open repository](https://github.com/siewchongche/mev-example)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 73 | 7 | 
 | 2023-01-03 | 72 | 7 | 
 | 2023-01-02 | 72 | 7 | 
 | 2023-01-01 | 72 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 72 | 7 | 
 | 2022-12-08 | 72 | 7 | 
 | 2022-12-07 | 72 | 7 | 
-| 2022-12-05 | 72 | 7 | 
 

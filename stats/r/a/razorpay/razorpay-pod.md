@@ -1,6 +1,6 @@
 # razorpay/razorpay-pod - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 23 | 12 | 
 | 2023-01-03 | 23 | 12 | 
 | 2023-01-02 | 23 | 12 | 
 | 2023-01-01 | 23 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 23 | 12 | 
 | 2022-12-07 | 22 | 12 | 
 | 2022-12-06 | 22 | 12 | 
-| 2022-12-05 | 22 | 12 | 
 

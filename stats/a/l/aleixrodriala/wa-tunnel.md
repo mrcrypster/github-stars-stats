@@ -1,10 +1,10 @@
 # aleixrodriala/wa-tunnel - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 62
+☋ Forks: 63
 
-★ Stars: 1587
+★ Stars: 1599
 
 [Open repository](https://github.com/aleixrodriala/wa-tunnel)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 1599 | 63 | 
 | 2023-01-03 | 1587 | 62 | 
 | 2023-01-02 | 1585 | 62 | 
 | 2023-01-01 | 1583 | 62 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 1564 | 61 | 
 | 2022-12-08 | 1561 | 61 | 
 | 2022-12-07 | 1560 | 61 | 
-| 2022-12-05 | 1551 | 60 | 
 

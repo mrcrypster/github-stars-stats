@@ -1,6 +1,6 @@
 # IronWarrior/UnityToonShader - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 165
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 686 | 165 | 
 | 2023-01-03 | 686 | 165 | 
 | 2023-01-02 | 686 | 165 | 
 | 2023-01-01 | 686 | 165 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 671 | 163 | 
 | 2022-12-08 | 670 | 163 | 
 | 2022-12-07 | 670 | 163 | 
-| 2022-12-05 | 667 | 163 | 
 

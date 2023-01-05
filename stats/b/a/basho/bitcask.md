@@ -1,10 +1,10 @@
 # basho/bitcask - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 164
 
-★ Stars: 1091
+★ Stars: 1092
 
 [Open repository](https://github.com/basho/bitcask)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 1092 | 164 | 
 | 2023-01-03 | 1091 | 164 | 
 | 2023-01-02 | 1091 | 163 | 
 | 2023-01-01 | 1091 | 163 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 1088 | 163 | 
 | 2022-12-07 | 1088 | 163 | 
 | 2022-12-06 | 1088 | 163 | 
-| 2022-12-05 | 1088 | 163 | 
 

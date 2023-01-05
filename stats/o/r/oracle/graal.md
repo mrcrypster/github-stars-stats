@@ -1,10 +1,10 @@
 # oracle/graal - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 1451
+☋ Forks: 1452
 
-★ Stars: 18024
+★ Stars: 18030
 
 [Open repository](https://github.com/oracle/graal)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 18030 | 1452 | 
 | 2023-01-03 | 18024 | 1451 | 
 | 2023-01-02 | 18018 | 1451 | 
 | 2023-01-01 | 18017 | 1451 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 17929 | 1443 | 
 | 2022-12-08 | 17923 | 1442 | 
 | 2022-12-07 | 17916 | 1442 | 
-| 2022-12-05 | 17907 | 1441 | 
 

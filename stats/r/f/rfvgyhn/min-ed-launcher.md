@@ -1,10 +1,10 @@
 # rfvgyhn/min-ed-launcher - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 8
 
-★ Stars: 156
+★ Stars: 157
 
 [Open repository](https://github.com/rfvgyhn/min-ed-launcher)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 157 | 8 | 
 | 2023-01-03 | 156 | 8 | 
 | 2023-01-02 | 156 | 8 | 
 | 2023-01-01 | 155 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 151 | 9 | 
 | 2022-12-07 | 151 | 9 | 
 | 2022-12-06 | 150 | 9 | 
-| 2022-12-05 | 150 | 9 | 
 

@@ -1,6 +1,6 @@
 # yeyushengfan258/Reversal-icon-theme - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 265 | 24 | 
 | 2023-01-03 | 265 | 24 | 
 | 2023-01-02 | 263 | 24 | 
 | 2023-01-01 | 262 | 24 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 252 | 24 | 
 | 2022-12-08 | 252 | 24 | 
 | 2022-12-06 | 252 | 24 | 
-| 2022-12-05 | 252 | 24 | 
 

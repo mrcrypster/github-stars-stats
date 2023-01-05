@@ -1,6 +1,6 @@
 # ryupold/raylib.zig - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 27 | 4 | 
 | 2023-01-03 | 27 | 4 | 
 | 2023-01-02 | 27 | 4 | 
 | 2023-01-01 | 27 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 23 | 3 | 
 | 2022-12-08 | 23 | 3 | 
 | 2022-12-06 | 23 | 3 | 
-| 2022-12-05 | 23 | 3 | 
 

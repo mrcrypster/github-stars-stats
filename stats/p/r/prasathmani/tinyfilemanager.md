@@ -1,10 +1,10 @@
 # prasathmani/tinyfilemanager - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 1379
+☋ Forks: 1381
 
-★ Stars: 3480
+★ Stars: 3482
 
 [Open repository](https://github.com/prasathmani/tinyfilemanager)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 3482 | 1381 | 
 | 2023-01-03 | 3480 | 1379 | 
 | 2023-01-02 | 3477 | 1378 | 
 | 2023-01-01 | 3476 | 1378 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 3419 | 1358 | 
 | 2022-12-07 | 3417 | 1357 | 
 | 2022-12-06 | 3406 | 1356 | 
-| 2022-12-05 | 3404 | 1354 | 
 

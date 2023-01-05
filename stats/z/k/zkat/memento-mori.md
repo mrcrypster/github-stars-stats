@@ -1,6 +1,6 @@
 # zkat/memento-mori - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 30 | 3 | 
 | 2023-01-03 | 30 | 3 | 
 | 2023-01-02 | 30 | 3 | 
 | 2023-01-01 | 30 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 30 | 3 | 
 | 2022-12-08 | 30 | 3 | 
 | 2022-12-06 | 30 | 4 | 
-| 2022-12-05 | 30 | 4 | 
 

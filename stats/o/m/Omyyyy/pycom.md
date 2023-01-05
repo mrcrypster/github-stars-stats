@@ -1,6 +1,6 @@
 # Omyyyy/pycom - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 1094 | 21 | 
 | 2023-01-03 | 1094 | 21 | 
 | 2023-01-02 | 1094 | 21 | 
 | 2023-01-01 | 1095 | 21 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 1095 | 21 | 
 | 2022-12-08 | 1095 | 21 | 
 | 2022-12-07 | 1097 | 21 | 
-| 2022-12-05 | 1097 | 21 | 
 

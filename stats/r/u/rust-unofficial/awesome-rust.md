@@ -1,10 +1,10 @@
 # rust-unofficial/awesome-rust - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 2016
+☋ Forks: 2017
 
-★ Stars: 31310
+★ Stars: 31337
 
 [Open repository](https://github.com/rust-unofficial/awesome-rust)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 31337 | 2017 | 
 | 2023-01-03 | 31310 | 2016 | 
 | 2023-01-02 | 31285 | 2015 | 
 | 2023-01-01 | 31250 | 2015 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 30624 | 1987 | 
 | 2022-12-08 | 30605 | 1988 | 
 | 2022-12-07 | 30582 | 1986 | 
-| 2022-12-05 | 30551 | 1985 | 
 

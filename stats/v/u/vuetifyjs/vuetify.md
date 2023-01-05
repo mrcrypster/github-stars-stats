@@ -1,10 +1,10 @@
 # vuetifyjs/vuetify - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 6535
+☋ Forks: 6534
 
-★ Stars: 36172
+★ Stars: 36179
 
 [Open repository](https://github.com/vuetifyjs/vuetify)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 36179 | 6534 | 
 | 2023-01-03 | 36172 | 6535 | 
 | 2023-01-02 | 36166 | 6534 | 
 | 2023-01-01 | 36161 | 6535 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 36018 | 6484 | 
 | 2022-12-08 | 36008 | 6484 | 
 | 2022-12-06 | 35998 | 6481 | 
-| 2022-12-05 | 35991 | 6478 | 
 

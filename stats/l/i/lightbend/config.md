@@ -1,10 +1,10 @@
 # lightbend/config - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 952
+☋ Forks: 953
 
-★ Stars: 5811
+★ Stars: 5812
 
 [Open repository](https://github.com/lightbend/config)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 5812 | 953 | 
 | 2023-01-03 | 5811 | 952 | 
 | 2023-01-02 | 5810 | 952 | 
 | 2023-01-01 | 5809 | 952 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 5798 | 948 | 
 | 2022-12-08 | 5798 | 948 | 
 | 2022-12-06 | 5797 | 948 | 
-| 2022-12-05 | 5794 | 947 | 
 

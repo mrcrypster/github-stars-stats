@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 04
 
 ☋ Forks: 1220
 
-★ Stars: 19135
+★ Stars: 19139
 
 [Open repository](https://github.com/derailed/k9s)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-04 | 19135 | 1220 | 
+| 2023-01-04 | 19139 | 1220 | 
 | 2023-01-03 | 19133 | 1220 | 
 | 2023-01-02 | 19106 | 1219 | 
 | 2023-01-01 | 19092 | 1218 | 

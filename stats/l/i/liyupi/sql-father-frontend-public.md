@@ -1,10 +1,10 @@
 # liyupi/sql-father-frontend-public - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 402
+☋ Forks: 405
 
-★ Stars: 977
+★ Stars: 978
 
 [Open repository](https://github.com/liyupi/sql-father-frontend-public)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 978 | 405 | 
 | 2023-01-03 | 977 | 402 | 
 | 2023-01-02 | 975 | 400 | 
 | 2023-01-01 | 971 | 398 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 907 | 379 | 
 | 2022-12-08 | 901 | 376 | 
 | 2022-12-07 | 895 | 373 | 
-| 2022-12-06 | 887 | 371 | 
 

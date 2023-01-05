@@ -1,6 +1,6 @@
 # dealii/publication-list - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 12 | 51 | 
 | 2023-01-03 | 12 | 51 | 
 | 2023-01-02 | 12 | 51 | 
 | 2023-01-01 | 11 | 51 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 11 | 51 | 
 | 2022-12-07 | 11 | 51 | 
 | 2022-12-06 | 11 | 51 | 
-| 2022-12-05 | 11 | 51 | 
 

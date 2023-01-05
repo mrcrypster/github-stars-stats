@@ -1,10 +1,10 @@
 # neuecc/UniRx - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 815
 
-★ Stars: 6186
+★ Stars: 6187
 
 [Open repository](https://github.com/neuecc/UniRx)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 6187 | 815 | 
 | 2023-01-03 | 6186 | 815 | 
 | 2023-01-02 | 6182 | 813 | 
 | 2023-01-01 | 6182 | 813 | 

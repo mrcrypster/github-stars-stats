@@ -1,6 +1,6 @@
 # jfdm/velo-lang - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 7 | 1 | 
 | 2023-01-03 | 7 | 1 | 
 | 2023-01-02 | 7 | 1 | 
 | 2023-01-01 | 7 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 5 | 1 | 
 | 2022-12-08 | 5 | 1 | 
 | 2022-12-07 | 5 | 1 | 
-| 2022-12-05 | 5 | 1 | 
 

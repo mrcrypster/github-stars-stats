@@ -1,10 +1,10 @@
 # punk-security/dnsReaper - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 117
 
-★ Stars: 1577
+★ Stars: 1579
 
 [Open repository](https://github.com/punk-security/dnsReaper)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 1579 | 117 | 
 | 2023-01-03 | 1577 | 117 | 
 | 2023-01-02 | 1575 | 117 | 
 | 2023-01-01 | 1574 | 117 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 1553 | 115 | 
 | 2022-12-08 | 1553 | 115 | 
 | 2022-12-06 | 1552 | 115 | 
-| 2022-12-05 | 1551 | 114 | 
 

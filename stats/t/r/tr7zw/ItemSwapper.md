@@ -1,10 +1,10 @@
 # tr7zw/ItemSwapper - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 18
+☋ Forks: 19
 
-★ Stars: 72
+★ Stars: 73
 
 [Open repository](https://github.com/tr7zw/ItemSwapper)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 73 | 19 | 
 | 2023-01-03 | 72 | 18 | 
 | 2023-01-02 | 72 | 18 | 
 | 2023-01-01 | 71 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 54 | 13 | 
 | 2022-12-07 | 52 | 13 | 
 | 2022-12-06 | 48 | 9 | 
-| 2022-12-05 | 42 | 9 | 
 

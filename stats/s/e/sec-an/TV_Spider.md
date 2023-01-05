@@ -1,10 +1,10 @@
 # sec-an/TV_Spider - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 278
+☋ Forks: 277
 
-★ Stars: 210
+★ Stars: 211
 
 [Open repository](https://github.com/sec-an/TV_Spider)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 211 | 277 | 
 | 2023-01-03 | 210 | 278 | 
 | 2023-01-02 | 210 | 278 | 
 | 2023-01-01 | 210 | 278 | 

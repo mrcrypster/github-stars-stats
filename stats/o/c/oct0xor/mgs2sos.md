@@ -1,10 +1,10 @@
 # oct0xor/mgs2sos - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 11
 
-★ Stars: 182
+★ Stars: 183
 
 [Open repository](https://github.com/oct0xor/mgs2sos)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 183 | 11 | 
 | 2023-01-04 | 182 | 11 | 
 | 2023-01-03 | 182 | 11 | 
 | 2023-01-01 | 181 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 172 | 10 | 
 | 2022-12-08 | 172 | 10 | 
 | 2022-12-07 | 172 | 10 | 
-| 2022-12-05 | 172 | 9 | 
 

@@ -1,10 +1,10 @@
 # trufflesuite/truffle - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 2285
+☋ Forks: 2287
 
-★ Stars: 13713
+★ Stars: 13715
 
 [Open repository](https://github.com/trufflesuite/truffle)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 13715 | 2287 | 
 | 2023-01-03 | 13713 | 2285 | 
 | 2023-01-02 | 13711 | 2285 | 
 | 2023-01-01 | 13706 | 2285 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 13687 | 2285 | 
 | 2022-12-08 | 13684 | 2286 | 
 | 2022-12-07 | 13681 | 2285 | 
-| 2022-12-05 | 13679 | 2284 | 
 

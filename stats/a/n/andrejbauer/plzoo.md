@@ -1,10 +1,10 @@
 # andrejbauer/plzoo - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 69
+☋ Forks: 70
 
-★ Stars: 1265
+★ Stars: 1266
 
 [Open repository](https://github.com/andrejbauer/plzoo)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 1266 | 70 | 
 | 2023-01-04 | 1265 | 69 | 
 | 2023-01-02 | 1265 | 69 | 
 | 2023-01-01 | 1266 | 69 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 1261 | 68 | 
 | 2022-12-07 | 1261 | 68 | 
 | 2022-12-06 | 1260 | 69 | 
-| 2022-12-05 | 1260 | 69 | 
 

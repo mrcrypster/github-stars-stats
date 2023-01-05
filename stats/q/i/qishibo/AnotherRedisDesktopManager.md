@@ -1,10 +1,10 @@
 # qishibo/AnotherRedisDesktopManager - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 2230
 
-★ Stars: 23961
+★ Stars: 23978
 
 [Open repository](https://github.com/qishibo/AnotherRedisDesktopManager)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 23978 | 2230 | 
 | 2023-01-03 | 23961 | 2230 | 
 | 2023-01-02 | 23947 | 2229 | 
 | 2023-01-01 | 23938 | 2229 | 

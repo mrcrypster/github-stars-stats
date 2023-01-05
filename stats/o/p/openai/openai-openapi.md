@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 04
 
-☋ Forks: 28
+☋ Forks: 29
 
-★ Stars: 65
+★ Stars: 67
 
 [Open repository](https://github.com/openai/openai-openapi)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-04 | 65 | 28 | 
+| 2023-01-04 | 67 | 29 | 
 | 2023-01-03 | 65 | 28 | 
 | 2023-01-02 | 65 | 28 | 
 | 2023-01-01 | 64 | 27 | 
@@ -41,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 29 | 15 | 
 | 2022-12-08 | 28 | 15 | 
 | 2022-12-07 | 26 | 15 | 
-| 2022-12-05 | 26 | 15 | 
 

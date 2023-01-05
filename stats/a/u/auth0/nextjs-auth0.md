@@ -1,10 +1,10 @@
 # auth0/nextjs-auth0 - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 283
+☋ Forks: 284
 
-★ Stars: 1410
+★ Stars: 1411
 
 [Open repository](https://github.com/auth0/nextjs-auth0)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 1411 | 284 | 
 | 2023-01-03 | 1410 | 283 | 
 | 2023-01-02 | 1408 | 283 | 
 | 2023-01-01 | 1408 | 283 | 

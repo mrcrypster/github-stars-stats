@@ -1,10 +1,10 @@
 # ruslo/polly - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 196
 
-★ Stars: 830
+★ Stars: 831
 
 [Open repository](https://github.com/ruslo/polly)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 831 | 196 | 
 | 2023-01-03 | 830 | 196 | 
 | 2023-01-02 | 830 | 196 | 
 | 2023-01-01 | 830 | 196 | 

@@ -1,10 +1,10 @@
 # fail0verflow/bootmii - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 2
 
-★ Stars: 115
+★ Stars: 116
 
 [Open repository](https://github.com/fail0verflow/bootmii)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 116 | 2 | 
 | 2023-01-03 | 115 | 2 | 
 | 2023-01-02 | 115 | 2 | 
 | 2023-01-01 | 115 | 2 | 

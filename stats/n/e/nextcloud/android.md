@@ -1,6 +1,6 @@
 # nextcloud/android - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 1500
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 3212 | 1500 | 
 | 2023-01-03 | 3212 | 1500 | 
 | 2023-01-02 | 3210 | 1500 | 
 | 2023-01-01 | 3207 | 1500 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 3169 | 1487 | 
 | 2022-12-07 | 3169 | 1487 | 
 | 2022-12-06 | 3170 | 1486 | 
-| 2022-12-05 | 3169 | 1485 | 
 

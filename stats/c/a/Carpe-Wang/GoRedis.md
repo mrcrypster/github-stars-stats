@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 04
 
-☋ Forks: 11
+☋ Forks: 12
 
-★ Stars: 50
+★ Stars: 51
 
 [Open repository](https://github.com/Carpe-Wang/GoRedis)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-04 | 50 | 11 | 
+| 2023-01-04 | 51 | 12 | 
 | 2023-01-03 | 50 | 11 | 
 | 2023-01-02 | 40 | 10 | 
 

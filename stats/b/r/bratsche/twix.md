@@ -1,10 +1,10 @@
 # bratsche/twix - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 1
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/bratsche/twix)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 24 | 1 | 
 | 2023-01-03 | 23 | 1 | 
 | 2023-01-02 | 21 | 1 | 
 | 2023-01-01 | 20 | 1 | 

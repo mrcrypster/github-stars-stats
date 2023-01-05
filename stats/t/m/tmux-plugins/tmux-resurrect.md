@@ -1,10 +1,10 @@
 # tmux-plugins/tmux-resurrect - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 349
 
-★ Stars: 9440
+★ Stars: 9444
 
 [Open repository](https://github.com/tmux-plugins/tmux-resurrect)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 9444 | 349 | 
 | 2023-01-03 | 9440 | 349 | 
 | 2023-01-02 | 9441 | 349 | 
 | 2023-01-01 | 9439 | 349 | 

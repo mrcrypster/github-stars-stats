@@ -1,6 +1,6 @@
 # NVIDIA/warp - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 69
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 978 | 69 | 
 | 2023-01-03 | 978 | 69 | 
 | 2023-01-02 | 977 | 69 | 
 | 2023-01-01 | 977 | 69 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 953 | 67 | 
 | 2022-12-08 | 939 | 67 | 
 | 2022-12-07 | 939 | 67 | 
-| 2022-12-06 | 938 | 67 | 
 

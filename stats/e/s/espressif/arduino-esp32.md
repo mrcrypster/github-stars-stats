@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 04
 
 ☋ Forks: 6283
 
-★ Stars: 9895
+★ Stars: 9898
 
 [Open repository](https://github.com/espressif/arduino-esp32)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-04 | 9895 | 6283 | 
+| 2023-01-04 | 9898 | 6283 | 
 | 2023-01-03 | 9894 | 6281 | 
 | 2023-01-02 | 9887 | 6278 | 
 | 2023-01-01 | 9886 | 6277 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 9756 | 6198 | 
 | 2022-12-08 | 9749 | 6194 | 
 | 2022-12-07 | 9742 | 6190 | 
-| 2022-12-05 | 9729 | 6183 | 
 

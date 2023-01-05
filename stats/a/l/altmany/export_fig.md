@@ -1,6 +1,6 @@
 # altmany/export_fig - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 350
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 1113 | 350 | 
 | 2023-01-03 | 1113 | 350 | 
 | 2023-01-02 | 1114 | 350 | 
 | 2023-01-01 | 1114 | 350 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 1103 | 348 | 
 | 2022-12-07 | 1103 | 348 | 
 | 2022-12-06 | 1104 | 348 | 
-| 2022-12-05 | 1103 | 348 | 
 

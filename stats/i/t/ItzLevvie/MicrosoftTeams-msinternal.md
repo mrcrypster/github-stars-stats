@@ -1,10 +1,10 @@
 # ItzLevvie/MicrosoftTeams-msinternal - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 19
 
-★ Stars: 317
+★ Stars: 319
 
 [Open repository](https://github.com/ItzLevvie/MicrosoftTeams-msinternal)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 319 | 19 | 
 | 2023-01-03 | 317 | 19 | 
 | 2023-01-02 | 317 | 19 | 
 | 2023-01-01 | 318 | 19 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 316 | 19 | 
 | 2022-12-08 | 314 | 19 | 
 | 2022-12-07 | 314 | 19 | 
-| 2022-12-05 | 314 | 19 | 
 

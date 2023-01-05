@@ -1,6 +1,6 @@
 # mdp/binions - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 17 | 8 | 
 | 2023-01-03 | 17 | 8 | 
 | 2023-01-02 | 17 | 8 | 
 | 2023-01-01 | 17 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 17 | 8 | 
 | 2022-12-08 | 17 | 8 | 
 | 2022-12-06 | 17 | 8 | 
-| 2022-12-05 | 17 | 8 | 
 

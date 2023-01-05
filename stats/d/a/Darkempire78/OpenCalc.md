@@ -1,6 +1,6 @@
 # Darkempire78/OpenCalc - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 294 | 38 | 
 | 2023-01-03 | 294 | 38 | 
 | 2023-01-02 | 292 | 38 | 
 | 2023-01-01 | 291 | 38 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 273 | 36 | 
 | 2022-12-08 | 273 | 35 | 
 | 2022-12-06 | 273 | 35 | 
-| 2022-12-05 | 270 | 35 | 
 

@@ -1,10 +1,10 @@
 # milligram/milligram - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 649
 
-★ Stars: 9890
+★ Stars: 9892
 
 [Open repository](https://github.com/milligram/milligram)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 9892 | 649 | 
 | 2023-01-03 | 9890 | 649 | 
 | 2023-01-02 | 9889 | 649 | 
 | 2023-01-01 | 9889 | 649 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 9859 | 653 | 
 | 2022-12-08 | 9859 | 653 | 
 | 2022-12-07 | 9859 | 653 | 
-| 2022-12-06 | 9856 | 653 | 
 

@@ -1,6 +1,6 @@
 # mcallaghan/text-as-data - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 6 | 13 | 
 | 2023-01-03 | 6 | 13 | 
 | 2023-01-02 | 6 | 13 | 
 | 2023-01-01 | 6 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 6 | 13 | 
 | 2022-12-08 | 6 | 13 | 
 | 2022-12-06 | 6 | 13 | 
-| 2022-12-05 | 6 | 13 | 
 

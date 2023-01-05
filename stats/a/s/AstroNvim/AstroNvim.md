@@ -1,10 +1,10 @@
 # AstroNvim/AstroNvim - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
-☋ Forks: 449
+☋ Forks: 450
 
-★ Stars: 6155
+★ Stars: 6158
 
 [Open repository](https://github.com/AstroNvim/AstroNvim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 6158 | 450 | 
 | 2023-01-03 | 6155 | 449 | 
 | 2023-01-02 | 6136 | 445 | 
 | 2023-01-01 | 6133 | 445 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-08 | 5848 | 422 | 
 | 2022-12-07 | 5835 | 423 | 
 | 2022-12-06 | 5825 | 423 | 
-| 2022-12-05 | 5804 | 422 | 
 

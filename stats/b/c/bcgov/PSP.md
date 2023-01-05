@@ -1,10 +1,10 @@
 # bcgov/PSP - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 18
 
-★ Stars: 9
+★ Stars: 8
 
 [Open repository](https://github.com/bcgov/PSP)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 8 | 18 | 
 | 2023-01-03 | 9 | 18 | 
 | 2023-01-02 | 9 | 18 | 
 | 2023-01-01 | 9 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 8 | 16 | 
 | 2022-12-08 | 8 | 16 | 
 | 2022-12-07 | 8 | 16 | 
-| 2022-12-06 | 8 | 16 | 
 

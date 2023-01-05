@@ -1,10 +1,10 @@
 # CMSgov/price-transparency-guide - stars & forks statistics
 
-Stats updated on Jan 2023, 03
+Stats updated on Jan 2023, 04
 
 ☋ Forks: 87
 
-★ Stars: 234
+★ Stars: 235
 
 [Open repository](https://github.com/CMSgov/price-transparency-guide)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-04 | 235 | 87 | 
 | 2023-01-03 | 234 | 87 | 
 | 2023-01-02 | 234 | 87 | 
 | 2023-01-01 | 234 | 87 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 03
 | 2022-12-09 | 229 | 85 | 
 | 2022-12-08 | 228 | 84 | 
 | 2022-12-07 | 228 | 83 | 
-| 2022-12-05 | 227 | 83 | 
 

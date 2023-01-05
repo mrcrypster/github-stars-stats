@@ -1,10 +1,10 @@
 # tmrts/go-patterns - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 1958
+☋ Forks: 1959
 
-★ Stars: 21037
+★ Stars: 21041
 
 [Open repository](https://github.com/tmrts/go-patterns)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 21041 | 1959 | 
 | 2023-01-04 | 21037 | 1958 | 
 | 2023-01-03 | 21027 | 1958 | 
 | 2023-01-01 | 21018 | 1958 | 
