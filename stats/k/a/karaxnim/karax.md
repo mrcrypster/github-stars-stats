@@ -1,10 +1,10 @@
 # karaxnim/karax - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 77
 
-★ Stars: 896
+★ Stars: 898
 
 [Open repository](https://github.com/karaxnim/karax)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 898 | 77 | 
 | 2023-01-04 | 896 | 77 | 
 | 2023-01-03 | 891 | 77 | 
 | 2023-01-02 | 891 | 77 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 880 | 75 | 
 | 2022-12-08 | 878 | 75 | 
 | 2022-12-07 | 878 | 75 | 
-| 2022-12-06 | 877 | 75 | 
 

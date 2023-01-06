@@ -1,6 +1,6 @@
 # qt/qtrepotools - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 15 | 26 | 
 | 2023-01-04 | 15 | 26 | 
 | 2023-01-03 | 15 | 26 | 
 | 2023-01-02 | 15 | 26 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 15 | 26 | 
 | 2022-12-09 | 15 | 26 | 
 | 2022-12-08 | 15 | 26 | 
-| 2022-12-07 | 15 | 26 | 
 

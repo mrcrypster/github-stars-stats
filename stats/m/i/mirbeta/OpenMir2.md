@@ -1,10 +1,10 @@
 # mirbeta/OpenMir2 - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 36
 
-★ Stars: 81
+★ Stars: 82
 
 [Open repository](https://github.com/mirbeta/OpenMir2)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 82 | 36 | 
 | 2023-01-04 | 81 | 36 | 
 | 2023-01-03 | 81 | 36 | 
 | 2023-01-02 | 81 | 36 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 78 | 34 | 
 | 2022-12-08 | 76 | 33 | 
 | 2022-12-07 | 75 | 33 | 
-| 2022-12-06 | 75 | 33 | 
 

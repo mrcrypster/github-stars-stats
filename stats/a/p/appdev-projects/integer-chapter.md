@@ -1,6 +1,6 @@
 # appdev-projects/integer-chapter - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 678
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | - | 678 | 
 | 2023-01-04 | - | 678 | 
 | 2023-01-03 | - | 678 | 
 | 2023-01-02 | - | 678 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | - | 678 | 
 | 2022-12-08 | - | 678 | 
 | 2022-12-07 | - | 678 | 
-| 2022-12-06 | - | 678 | 
 

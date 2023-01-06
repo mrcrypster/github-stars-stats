@@ -1,10 +1,10 @@
 # rxhanson/Rectangle - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 575
 
-★ Stars: 19809
+★ Stars: 19818
 
 [Open repository](https://github.com/rxhanson/Rectangle)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 19818 | 575 | 
 | 2023-01-04 | 19809 | 575 | 
 | 2023-01-03 | 19805 | 575 | 
 | 2023-01-02 | 19794 | 575 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 19591 | 570 | 
 | 2022-12-09 | 19586 | 570 | 
 | 2022-12-08 | 19557 | 569 | 
-| 2022-12-06 | 19535 | 569 | 
 

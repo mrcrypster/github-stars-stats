@@ -1,10 +1,10 @@
 # apple/darwin-xnu - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 1635
 
-★ Stars: 10467
+★ Stars: 10473
 
 [Open repository](https://github.com/apple/darwin-xnu)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 10473 | 1635 | 
 | 2023-01-04 | 10467 | 1635 | 
 | 2023-01-03 | 10465 | 1634 | 
 | 2023-01-02 | 10461 | 1633 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 10422 | 1625 | 
 | 2022-12-09 | 10421 | 1624 | 
 | 2022-12-07 | 10413 | 1623 | 
-| 2022-12-06 | 10411 | 1622 | 
 

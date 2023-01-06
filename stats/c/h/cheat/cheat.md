@@ -1,10 +1,10 @@
 # cheat/cheat - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 774
 
-★ Stars: 10442
+★ Stars: 10449
 
 [Open repository](https://github.com/cheat/cheat)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 10449 | 774 | 
 | 2023-01-04 | 10442 | 774 | 
 | 2023-01-03 | 10426 | 774 | 
 | 2023-01-02 | 10415 | 774 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 10207 | 768 | 
 | 2022-12-08 | 10205 | 768 | 
 | 2022-12-07 | 10201 | 768 | 
-| 2022-12-06 | 10196 | 767 | 
 

@@ -1,8 +1,8 @@
 # artemsheludko/flexible-jekyll - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 1627
+☋ Forks: 1629
 
 ★ Stars: 660
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 660 | 1629 | 
 | 2023-01-04 | 660 | 1627 | 
 | 2023-01-03 | 660 | 1627 | 
 | 2023-01-02 | 661 | 1624 | 

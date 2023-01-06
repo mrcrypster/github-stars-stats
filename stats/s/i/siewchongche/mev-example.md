@@ -1,6 +1,6 @@
 # siewchongche/mev-example - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 73 | 7 | 
 | 2023-01-04 | 73 | 7 | 
 | 2023-01-03 | 72 | 7 | 
 | 2023-01-02 | 72 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 72 | 7 | 
 | 2022-12-09 | 72 | 7 | 
 | 2022-12-08 | 72 | 7 | 
-| 2022-12-07 | 72 | 7 | 
 

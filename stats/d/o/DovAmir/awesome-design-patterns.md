@@ -1,10 +1,10 @@
 # DovAmir/awesome-design-patterns - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 1923
+☋ Forks: 1929
 
-★ Stars: 22991
+★ Stars: 23001
 
 [Open repository](https://github.com/DovAmir/awesome-design-patterns)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 23001 | 1929 | 
 | 2023-01-04 | 22991 | 1923 | 
 | 2023-01-03 | 22970 | 1918 | 
 | 2023-01-02 | 22945 | 1916 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 21010 | 1730 | 
 | 2022-12-08 | 20982 | 1727 | 
 | 2022-12-07 | 20851 | 1719 | 
-| 2022-12-06 | 20810 | 1710 | 
 

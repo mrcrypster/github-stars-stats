@@ -1,10 +1,10 @@
 # Akegarasu/novelai-tagreader - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 24
 
-★ Stars: 145
+★ Stars: 146
 
 [Open repository](https://github.com/Akegarasu/novelai-tagreader)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 146 | 24 | 
 | 2023-01-04 | 145 | 24 | 
 | 2023-01-03 | 145 | 24 | 
 | 2023-01-02 | 145 | 24 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 135 | 22 | 
 | 2022-12-08 | 132 | 22 | 
 | 2022-12-07 | 131 | 22 | 
-| 2022-12-06 | 131 | 22 | 
 

@@ -1,6 +1,6 @@
 # hustvl/TeViT - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 204 | 16 | 
 | 2023-01-04 | 204 | 16 | 
 | 2023-01-03 | 204 | 16 | 
 | 2023-01-01 | 203 | 16 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 201 | 17 | 
 | 2022-12-09 | 201 | 17 | 
 | 2022-12-08 | 201 | 17 | 
-| 2022-12-06 | 201 | 17 | 
 

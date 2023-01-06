@@ -1,6 +1,6 @@
 # d2l-ai/berkeley-stat-157 - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 1272
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 2902 | 1272 | 
 | 2023-01-04 | 2902 | 1272 | 
 | 2023-01-03 | 2899 | 1269 | 
 | 2023-01-02 | 2900 | 1268 | 

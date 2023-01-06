@@ -1,6 +1,6 @@
 # pscott/StarknetCC-CTF - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 18 | 2 | 
 | 2023-01-04 | 18 | 2 | 
 | 2023-01-03 | 18 | 2 | 
 | 2023-01-02 | 18 | 2 | 

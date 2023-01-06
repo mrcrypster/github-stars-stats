@@ -1,10 +1,10 @@
 # historicalsource/mk2 - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 27
 
-★ Stars: 118
+★ Stars: 123
 
 [Open repository](https://github.com/historicalsource/mk2)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 123 | 27 | 
+| 2023-01-05 | 120 | 27 | 
 | 2023-01-04 | 118 | 27 | 
 | 2023-01-03 | 115 | 26 | 
 | 2023-01-02 | 100 | 23 | 

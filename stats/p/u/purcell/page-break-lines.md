@@ -1,10 +1,10 @@
 # purcell/page-break-lines - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 29
 
-★ Stars: 200
+★ Stars: 201
 
 [Open repository](https://github.com/purcell/page-break-lines)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 201 | 29 | 
 | 2023-01-04 | 200 | 29 | 
 | 2023-01-03 | 200 | 29 | 
 | 2023-01-02 | 200 | 29 | 

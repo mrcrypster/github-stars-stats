@@ -1,10 +1,10 @@
 # isar/isar - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 163
+☋ Forks: 165
 
-★ Stars: 2063
+★ Stars: 2065
 
 [Open repository](https://github.com/isar/isar)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 2065 | 165 | 
 | 2023-01-04 | 2063 | 163 | 
 | 2023-01-03 | 2059 | 163 | 
 | 2023-01-02 | 2056 | 163 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 1978 | 154 | 
 | 2022-12-08 | 1970 | 152 | 
 | 2022-12-07 | 1969 | 152 | 
-| 2022-12-06 | 1965 | 151 | 
 

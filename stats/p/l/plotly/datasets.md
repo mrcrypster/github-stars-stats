@@ -1,8 +1,8 @@
 # plotly/datasets - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 1499
+☋ Forks: 1500
 
 ★ Stars: 478
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 478 | 1500 | 
 | 2023-01-04 | 478 | 1499 | 
 | 2023-01-03 | 476 | 1498 | 
 | 2023-01-02 | 475 | 1495 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 470 | 1471 | 
 | 2022-12-09 | 470 | 1471 | 
 | 2022-12-08 | 470 | 1470 | 
-| 2022-12-07 | 470 | 1470 | 
 

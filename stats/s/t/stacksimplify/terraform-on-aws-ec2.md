@@ -1,10 +1,10 @@
 # stacksimplify/terraform-on-aws-ec2 - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 1872
+☋ Forks: 1880
 
-★ Stars: 293
+★ Stars: 294
 
 [Open repository](https://github.com/stacksimplify/terraform-on-aws-ec2)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 294 | 1880 | 
 | 2023-01-04 | 293 | 1872 | 
 | 2023-01-03 | 294 | 1870 | 
 | 2023-01-02 | 292 | 1867 | 
@@ -40,6 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 283 | 1810 | 
 | 2022-12-09 | 283 | 1807 | 
 | 2022-12-08 | 283 | 1801 | 
-| 2022-12-07 | 283 | 1797 | 
-| 2022-12-06 | 283 | 1794 | 
 

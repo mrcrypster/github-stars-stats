@@ -1,6 +1,6 @@
 # Mailu/helm-charts - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 109
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 80 | 109 | 
 | 2023-01-04 | 80 | 109 | 
 | 2023-01-03 | 80 | 109 | 
 | 2023-01-02 | 80 | 109 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 77 | 107 | 
 | 2022-12-08 | 77 | 107 | 
 | 2022-12-07 | 77 | 107 | 
-| 2022-12-06 | 77 | 107 | 
 

@@ -1,10 +1,10 @@
 # DerekSelander/dsdump - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 94
 
-★ Stars: 943
+★ Stars: 944
 
 [Open repository](https://github.com/DerekSelander/dsdump)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 944 | 94 | 
 | 2023-01-04 | 943 | 94 | 
 | 2023-01-03 | 943 | 94 | 
 | 2023-01-02 | 942 | 94 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 939 | 94 | 
 | 2022-12-09 | 938 | 94 | 
 | 2022-12-08 | 938 | 94 | 
-| 2022-12-06 | 938 | 94 | 
 

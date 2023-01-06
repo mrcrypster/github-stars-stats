@@ -1,8 +1,8 @@
 # SmritiChawla/Precily - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 10
+☋ Forks: 11
 
 ★ Stars: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 9 | 11 | 
 | 2023-01-04 | 9 | 10 | 
 | 2023-01-03 | 9 | 10 | 
 | 2023-01-02 | 9 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 8 | 8 | 
 | 2022-12-08 | 8 | 8 | 
 | 2022-12-07 | 8 | 8 | 
-| 2022-12-06 | 8 | 8 | 
 

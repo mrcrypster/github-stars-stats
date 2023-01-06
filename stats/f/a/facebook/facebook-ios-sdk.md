@@ -1,10 +1,10 @@
 # facebook/facebook-ios-sdk - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 3295
 
-★ Stars: 7292
+★ Stars: 7291
 
 [Open repository](https://github.com/facebook/facebook-ios-sdk)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 7291 | 3295 | 
 | 2023-01-04 | 7292 | 3295 | 
 | 2023-01-03 | 7292 | 3294 | 
 | 2023-01-02 | 7291 | 3292 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 7271 | 3268 | 
 | 2022-12-08 | 7270 | 3268 | 
 | 2022-12-07 | 7269 | 3267 | 
-| 2022-12-06 | 7270 | 3267 | 
 

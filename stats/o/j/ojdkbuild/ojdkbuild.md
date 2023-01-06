@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 05
 
 ☋ Forks: 354
 
-★ Stars: 2513
+★ Stars: 2514
 
 [Open repository](https://github.com/ojdkbuild/ojdkbuild)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-05 | 2513 | 354 | 
+| 2023-01-05 | 2514 | 354 | 
 | 2023-01-04 | 2513 | 354 | 
 | 2023-01-03 | 2513 | 354 | 
 | 2023-01-02 | 2511 | 353 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 2505 | 351 | 
 | 2022-12-09 | 2504 | 351 | 
 | 2022-12-08 | 2503 | 350 | 
-| 2022-12-07 | 2504 | 350 | 
 

@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 05
 
 ☋ Forks: 73
 
-★ Stars: 737
+★ Stars: 738
 
 [Open repository](https://github.com/minad/consult)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-05 | 737 | 73 | 
+| 2023-01-05 | 738 | 73 | 
 | 2023-01-04 | 737 | 73 | 
 | 2023-01-03 | 736 | 73 | 
 | 2023-01-02 | 736 | 73 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 720 | 71 | 
 | 2022-12-08 | 717 | 71 | 
 | 2022-12-07 | 717 | 71 | 
-| 2022-12-06 | 715 | 71 | 
 

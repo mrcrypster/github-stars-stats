@@ -1,10 +1,10 @@
 # Paisseon/SatellaJailed - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 35
 
-★ Stars: 317
+★ Stars: 316
 
 [Open repository](https://github.com/Paisseon/SatellaJailed)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 316 | 35 | 
 | 2023-01-04 | 317 | 35 | 
 | 2023-01-03 | 315 | 35 | 
 | 2023-01-02 | 315 | 35 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 291 | 32 | 
 | 2022-12-09 | 288 | 32 | 
 | 2022-12-08 | 288 | 32 | 
-| 2022-12-06 | 283 | 32 | 
 

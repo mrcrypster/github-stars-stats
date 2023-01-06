@@ -1,10 +1,10 @@
 # David0l1/Free-RDP - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 06
 
-☋ Forks: 316
+☋ Forks: 373
 
-★ Stars: 3
+★ Stars: 5
 
 [Open repository](https://github.com/David0l1/Free-RDP)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 5 | 373 | 
+| 2023-01-05 | 5 | 364 | 
 | 2023-01-04 | 3 | 316 | 
 | 2023-01-03 | 3 | 265 | 
 | 2023-01-02 | 1 | 215 | 

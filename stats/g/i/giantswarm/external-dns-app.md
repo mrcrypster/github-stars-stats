@@ -1,6 +1,6 @@
 # giantswarm/external-dns-app - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 2 | 3 | 
 | 2023-01-04 | 2 | 3 | 
 | 2023-01-03 | 2 | 3 | 
 | 2023-01-02 | 2 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 3 | 2 | 
 | 2022-12-08 | 3 | 2 | 
 | 2022-12-07 | 3 | 2 | 
-| 2022-12-06 | 3 | 2 | 
 

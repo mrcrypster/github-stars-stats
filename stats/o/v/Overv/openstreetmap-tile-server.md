@@ -1,10 +1,10 @@
 # Overv/openstreetmap-tile-server - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 382
+☋ Forks: 383
 
-★ Stars: 888
+★ Stars: 890
 
 [Open repository](https://github.com/Overv/openstreetmap-tile-server)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 890 | 383 | 
 | 2023-01-04 | 888 | 382 | 
 | 2023-01-03 | 888 | 382 | 
 | 2023-01-02 | 887 | 381 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 885 | 379 | 
 | 2022-12-08 | 885 | 379 | 
 | 2022-12-07 | 883 | 378 | 
-| 2022-12-06 | 883 | 377 | 
 

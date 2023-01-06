@@ -1,10 +1,10 @@
 # AnkitCuriosity/Write-Ups - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 13
 
-★ Stars: 51
+★ Stars: 54
 
 [Open repository](https://github.com/AnkitCuriosity/Write-Ups)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 54 | 13 | 
 | 2023-01-04 | 51 | 13 | 
 | 2023-01-03 | 51 | 13 | 
 | 2023-01-02 | 51 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 47 | 11 | 
 | 2022-12-08 | 47 | 11 | 
 | 2022-12-07 | 46 | 11 | 
-| 2022-12-06 | 46 | 11 | 
 

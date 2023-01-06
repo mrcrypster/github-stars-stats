@@ -1,6 +1,6 @@
 # manateelazycat/blink-search - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 49 | 9 | 
 | 2023-01-04 | 49 | 9 | 
 | 2023-01-03 | 49 | 9 | 
 | 2023-01-02 | 49 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 46 | 9 | 
 | 2022-12-09 | 46 | 9 | 
 | 2022-12-07 | 46 | 9 | 
-| 2022-12-06 | 46 | 9 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 05
 
-☋ Forks: 25
+☋ Forks: 26
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/GlitchyTurtle/Avatar-Addon)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-05 | 18 | 25 | 
+| 2023-01-05 | 19 | 26 | 
 | 2023-01-04 | 18 | 25 | 
 | 2023-01-03 | 18 | 25 | 
 | 2023-01-02 | 18 | 24 | 
@@ -40,5 +40,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 18 | 24 | 
 | 2022-12-09 | 18 | 24 | 
 | 2022-12-08 | 18 | 24 | 
-| 2022-12-06 | 18 | 24 | 
 

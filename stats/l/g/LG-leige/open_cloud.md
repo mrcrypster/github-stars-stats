@@ -1,6 +1,6 @@
 # LG-leige/open_cloud - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 143 | 51 | 
 | 2023-01-04 | 143 | 51 | 
 | 2023-01-03 | 142 | 51 | 
 | 2023-01-02 | 141 | 51 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 109 | 38 | 
 | 2022-12-08 | 109 | 38 | 
 | 2022-12-07 | 109 | 38 | 
-| 2022-12-06 | 109 | 38 | 
 

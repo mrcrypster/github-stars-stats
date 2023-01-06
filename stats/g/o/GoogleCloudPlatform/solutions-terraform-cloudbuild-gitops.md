@@ -1,8 +1,8 @@
 # GoogleCloudPlatform/solutions-terraform-cloudbuild-gitops - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 1396
+☋ Forks: 1398
 
 ★ Stars: 232
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 232 | 1398 | 
 | 2023-01-04 | 232 | 1396 | 
 | 2023-01-03 | 231 | 1396 | 
 | 2023-01-02 | 231 | 1394 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 226 | 1370 | 
 | 2022-12-08 | 226 | 1369 | 
 | 2022-12-07 | 225 | 1367 | 
-| 2022-12-06 | 225 | 1365 | 
 

@@ -1,6 +1,6 @@
 # rhysd/committia.vim - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 655 | 26 | 
 | 2023-01-04 | 655 | 26 | 
 | 2023-01-03 | 655 | 26 | 
 | 2023-01-02 | 655 | 26 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 654 | 26 | 
 | 2022-12-09 | 654 | 26 | 
 | 2022-12-08 | 654 | 26 | 
-| 2022-12-07 | 654 | 26 | 
 

@@ -1,6 +1,6 @@
 # wickerwaka/Arcade_m72 - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 35 | 6 | 
 | 2023-01-05 | 35 | 6 | 
 | 2023-01-03 | 35 | 6 | 
 | 2023-01-02 | 35 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-09 | 35 | 6 | 
 | 2022-12-08 | 35 | 6 | 
 | 2022-12-07 | 35 | 6 | 
-| 2022-12-06 | 35 | 6 | 
 

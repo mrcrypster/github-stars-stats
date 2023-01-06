@@ -1,10 +1,10 @@
 # OsProgramadores/op-website-hugo - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 372
 
-★ Stars: 141
+★ Stars: 140
 
 [Open repository](https://github.com/OsProgramadores/op-website-hugo)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 140 | 372 | 
 | 2023-01-04 | 141 | 372 | 
 | 2023-01-03 | 141 | 372 | 
 | 2023-01-02 | 141 | 372 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 140 | 370 | 
 | 2022-12-08 | 140 | 370 | 
 | 2022-12-07 | 140 | 369 | 
-| 2022-12-06 | 140 | 369 | 
 

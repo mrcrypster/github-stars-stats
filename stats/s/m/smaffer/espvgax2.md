@@ -1,6 +1,6 @@
 # smaffer/espvgax2 - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 36 | 10 | 
 | 2023-01-04 | 36 | 10 | 
 | 2023-01-03 | 36 | 10 | 
 | 2023-01-02 | 36 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 35 | 10 | 
 | 2022-12-09 | 35 | 10 | 
 | 2022-12-08 | 35 | 10 | 
-| 2022-12-06 | 35 | 10 | 
 

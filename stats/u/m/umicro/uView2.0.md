@@ -1,6 +1,6 @@
 # umicro/uView2.0 - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 328
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 882 | 328 | 
 | 2023-01-04 | 882 | 328 | 
 | 2023-01-03 | 882 | 327 | 
 | 2023-01-02 | 880 | 325 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 869 | 318 | 
 | 2022-12-09 | 868 | 316 | 
 | 2022-12-08 | 866 | 315 | 
-| 2022-12-06 | 866 | 315 | 
 

@@ -1,6 +1,6 @@
 # Enchanter-Finance/enchanter-magic-party - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 17 | 3 | 
 | 2023-01-04 | 17 | 3 | 
 | 2023-01-03 | 17 | 3 | 
 | 2023-01-02 | 17 | 3 | 

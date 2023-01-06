@@ -1,10 +1,10 @@
 # zhanymkanov/fastapi-best-practices - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 146
 
-★ Stars: 2095
+★ Stars: 2105
 
 [Open repository](https://github.com/zhanymkanov/fastapi-best-practices)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 2105 | 146 | 
 | 2023-01-04 | 2095 | 146 | 
 | 2023-01-03 | 2092 | 146 | 
 | 2023-01-02 | 2074 | 145 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 1976 | 129 | 
 | 2022-12-09 | 1975 | 129 | 
 | 2022-12-07 | 1967 | 127 | 
-| 2022-12-06 | 1962 | 127 | 
 

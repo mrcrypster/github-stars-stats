@@ -1,10 +1,10 @@
 # Alfred-Skyblue/v-scale-screen - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 30
 
-★ Stars: 321
+★ Stars: 322
 
 [Open repository](https://github.com/Alfred-Skyblue/v-scale-screen)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 322 | 30 | 
 | 2023-01-04 | 321 | 30 | 
 | 2023-01-03 | 320 | 30 | 
 | 2023-01-02 | 319 | 29 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 312 | 26 | 
 | 2022-12-09 | 312 | 26 | 
 | 2022-12-07 | 310 | 26 | 
-| 2022-12-06 | 308 | 26 | 
 

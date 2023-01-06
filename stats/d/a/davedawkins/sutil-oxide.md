@@ -1,10 +1,10 @@
 # davedawkins/sutil-oxide - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 0
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/davedawkins/sutil-oxide)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 14 | - | 
 | 2023-01-04 | 13 | - | 
 | 2023-01-03 | 12 | - | 
 | 2023-01-02 | 12 | - | 

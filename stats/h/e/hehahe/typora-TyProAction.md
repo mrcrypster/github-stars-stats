@@ -1,6 +1,6 @@
 # hehahe/typora-TyProAction - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 27 | 20 | 
 | 2023-01-04 | 27 | 20 | 
 | 2023-01-03 | 27 | 20 | 
 | 2023-01-02 | 27 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 27 | 18 | 
 | 2022-12-09 | 27 | 18 | 
 | 2022-12-08 | 26 | 18 | 
-| 2022-12-06 | 26 | 18 | 
 

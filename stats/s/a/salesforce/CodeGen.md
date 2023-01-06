@@ -1,10 +1,10 @@
 # salesforce/CodeGen - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 139
 
-★ Stars: 1912
+★ Stars: 1916
 
 [Open repository](https://github.com/salesforce/CodeGen)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 1916 | 139 | 
 | 2023-01-04 | 1912 | 139 | 
 | 2023-01-03 | 1908 | 139 | 
 | 2023-01-02 | 1905 | 139 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 1826 | 134 | 
 | 2022-12-09 | 1823 | 133 | 
 | 2022-12-08 | 1814 | 133 | 
-| 2022-12-06 | 1799 | 133 | 
 

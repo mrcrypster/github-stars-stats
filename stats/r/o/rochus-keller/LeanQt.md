@@ -1,10 +1,10 @@
 # rochus-keller/LeanQt - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 16
 
-★ Stars: 461
+★ Stars: 463
 
 [Open repository](https://github.com/rochus-keller/LeanQt)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 463 | 16 | 
 | 2023-01-04 | 461 | 16 | 
 | 2023-01-03 | 461 | 16 | 
 | 2023-01-02 | 459 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 440 | 16 | 
 | 2022-12-08 | 440 | 16 | 
 | 2022-12-07 | 440 | 16 | 
-| 2022-12-06 | 440 | 16 | 
 

@@ -1,10 +1,10 @@
 # braintree/jsdoc-template - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 56
 
-★ Stars: 165
+★ Stars: 166
 
 [Open repository](https://github.com/braintree/jsdoc-template)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 166 | 56 | 
 | 2023-01-04 | 165 | 56 | 
 | 2023-01-03 | 165 | 56 | 
 | 2023-01-02 | 165 | 56 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 165 | 56 | 
 | 2022-12-09 | 165 | 56 | 
 | 2022-12-08 | 165 | 56 | 
-| 2022-12-06 | 165 | 56 | 
 

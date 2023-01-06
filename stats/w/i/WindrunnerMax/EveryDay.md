@@ -1,6 +1,6 @@
 # WindrunnerMax/EveryDay - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 170
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 1041 | 170 | 
 | 2023-01-04 | 1041 | 170 | 
 | 2023-01-03 | 1038 | 170 | 
 | 2023-01-02 | 1037 | 170 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 1020 | 166 | 
 | 2022-12-08 | 1020 | 166 | 
 | 2022-12-07 | 1019 | 166 | 
-| 2022-12-06 | 1019 | 166 | 
 

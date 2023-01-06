@@ -1,10 +1,10 @@
 # home-assistant/iOS - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 217
+☋ Forks: 218
 
-★ Stars: 1088
+★ Stars: 1091
 
 [Open repository](https://github.com/home-assistant/iOS)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 1091 | 218 | 
 | 2023-01-04 | 1088 | 217 | 
 | 2023-01-03 | 1088 | 217 | 
 | 2023-01-02 | 1089 | 217 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 1077 | 216 | 
 | 2022-12-09 | 1077 | 216 | 
 | 2022-12-07 | 1077 | 216 | 
-| 2022-12-06 | 1077 | 216 | 
 

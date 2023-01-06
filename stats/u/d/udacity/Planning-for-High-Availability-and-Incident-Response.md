@@ -1,6 +1,6 @@
 # udacity/Planning-for-High-Availability-and-Incident-Response - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 76
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 8 | 76 | 
 | 2023-01-04 | 8 | 76 | 
 | 2023-01-03 | 8 | 76 | 
 | 2023-01-02 | 8 | 75 | 
@@ -40,6 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 6 | 61 | 
 | 2022-12-09 | 6 | 61 | 
 | 2022-12-08 | 6 | 61 | 
-| 2022-12-07 | 6 | 61 | 
-| 2022-12-06 | 6 | 61 | 
 

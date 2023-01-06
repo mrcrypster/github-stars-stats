@@ -1,6 +1,6 @@
 # puckzxz/NotAnotherAnimeTheme - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 310
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 183 | 310 | 
 | 2023-01-04 | 183 | 310 | 
 | 2023-01-03 | 183 | 309 | 
 | 2023-01-02 | 183 | 308 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 182 | 308 | 
 | 2022-12-09 | 182 | 308 | 
 | 2022-12-07 | 182 | 307 | 
-| 2022-12-06 | 182 | 307 | 
 

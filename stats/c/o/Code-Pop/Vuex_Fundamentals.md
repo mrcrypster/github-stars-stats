@@ -1,10 +1,10 @@
 # Code-Pop/Vuex_Fundamentals - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 139
 
-★ Stars: 51
+★ Stars: 52
 
 [Open repository](https://github.com/Code-Pop/Vuex_Fundamentals)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 52 | 139 | 
 | 2023-01-04 | 51 | 139 | 
 | 2023-01-03 | 51 | 139 | 
 | 2023-01-02 | 51 | 139 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 51 | 138 | 
 | 2022-12-09 | 51 | 138 | 
 | 2022-12-08 | 51 | 138 | 
-| 2022-12-06 | 51 | 138 | 
 

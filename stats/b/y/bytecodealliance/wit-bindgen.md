@@ -1,6 +1,6 @@
 # bytecodealliance/wit-bindgen - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 88
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 463 | 88 | 
 | 2023-01-04 | 463 | 88 | 
 | 2023-01-03 | 462 | 88 | 
 | 2023-01-02 | 461 | 89 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 445 | 85 | 
 | 2022-12-09 | 442 | 85 | 
 | 2022-12-08 | 441 | 85 | 
-| 2022-12-06 | 439 | 85 | 
 

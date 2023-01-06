@@ -1,10 +1,10 @@
 # xivdev/Penumbra - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 65
 
-★ Stars: 399
+★ Stars: 400
 
 [Open repository](https://github.com/xivdev/Penumbra)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 400 | 65 | 
 | 2023-01-04 | 399 | 65 | 
 | 2023-01-03 | 399 | 65 | 
 | 2023-01-02 | 398 | 65 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 390 | 65 | 
 | 2022-12-09 | 390 | 64 | 
 | 2022-12-08 | 388 | 64 | 
-| 2022-12-06 | 388 | 63 | 
 

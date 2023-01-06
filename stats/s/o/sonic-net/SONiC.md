@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 05
 
-☋ Forks: 930
+☋ Forks: 931
 
-★ Stars: 1690
+★ Stars: 1691
 
 [Open repository](https://github.com/sonic-net/SONiC)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-05 | 1690 | 930 | 
+| 2023-01-05 | 1691 | 931 | 
 | 2023-01-04 | 1690 | 930 | 
 | 2023-01-03 | 1690 | 930 | 
 | 2023-01-02 | 1689 | 929 | 
@@ -41,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-09 | 1673 | 924 | 
 | 2022-12-08 | 1671 | 924 | 
 | 2022-12-07 | 1670 | 922 | 
-| 2022-12-06 | 1669 | 922 | 
 

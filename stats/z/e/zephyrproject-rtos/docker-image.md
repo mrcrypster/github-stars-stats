@@ -1,6 +1,6 @@
 # zephyrproject-rtos/docker-image - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 72 | 58 | 
 | 2023-01-04 | 72 | 58 | 
 | 2023-01-03 | 72 | 58 | 
 | 2023-01-02 | 72 | 58 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 71 | 59 | 
 | 2022-12-09 | 71 | 59 | 
 | 2022-12-08 | 70 | 59 | 
-| 2022-12-06 | 68 | 59 | 
 

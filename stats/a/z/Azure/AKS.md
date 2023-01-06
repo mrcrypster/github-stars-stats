@@ -1,6 +1,6 @@
 # Azure/AKS - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 222
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 1648 | 222 | 
 | 2023-01-04 | 1648 | 222 | 
 | 2023-01-03 | 1648 | 221 | 
 | 2023-01-02 | 1648 | 221 | 

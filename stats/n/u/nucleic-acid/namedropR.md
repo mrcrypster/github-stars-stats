@@ -1,6 +1,6 @@
 # nucleic-acid/namedropR - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 58 | 5 | 
 | 2023-01-04 | 58 | 5 | 
 | 2023-01-03 | 58 | 5 | 
 | 2023-01-02 | 58 | 5 | 

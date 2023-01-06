@@ -1,6 +1,6 @@
 # google/libphonenumber - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 1924
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 14500 | 1924 | 
 | 2023-01-04 | 14500 | 1924 | 
 | 2023-01-03 | 14495 | 1923 | 
 | 2023-01-02 | 14494 | 1923 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 14425 | 1919 | 
 | 2022-12-09 | 14422 | 1918 | 
 | 2022-12-08 | 14414 | 1918 | 
-| 2022-12-06 | 14410 | 1916 | 
 

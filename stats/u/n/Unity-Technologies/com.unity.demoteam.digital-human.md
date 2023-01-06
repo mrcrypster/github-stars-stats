@@ -1,10 +1,10 @@
 # Unity-Technologies/com.unity.demoteam.digital-human - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 63
 
-★ Stars: 383
+★ Stars: 385
 
 [Open repository](https://github.com/Unity-Technologies/com.unity.demoteam.digital-human)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 385 | 63 | 
 | 2023-01-04 | 383 | 63 | 
 | 2023-01-03 | 382 | 63 | 
 | 2023-01-02 | 382 | 63 | 

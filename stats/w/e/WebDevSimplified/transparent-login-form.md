@@ -1,6 +1,6 @@
 # WebDevSimplified/transparent-login-form - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 42 | 17 | 
 | 2023-01-04 | 42 | 17 | 
 | 2023-01-03 | 41 | 17 | 
 | 2023-01-02 | 41 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 41 | 16 | 
 | 2022-12-08 | 40 | 16 | 
 | 2022-12-07 | 40 | 16 | 
-| 2022-12-06 | 40 | 16 | 
 

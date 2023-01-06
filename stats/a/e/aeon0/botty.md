@@ -1,6 +1,6 @@
 # aeon0/botty - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 349
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 468 | 349 | 
 | 2023-01-04 | 468 | 349 | 
 | 2023-01-03 | 467 | 349 | 
 | 2023-01-02 | 467 | 349 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 465 | 352 | 
 | 2022-12-08 | 464 | 351 | 
 | 2022-12-07 | 464 | 351 | 
-| 2022-12-06 | 464 | 351 | 
 

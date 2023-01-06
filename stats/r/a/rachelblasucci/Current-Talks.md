@@ -1,6 +1,6 @@
 # rachelblasucci/Current-Talks - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 20 | 9 | 
 | 2023-01-04 | 20 | 9 | 
 | 2023-01-03 | 20 | 9 | 
 | 2023-01-02 | 20 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 20 | 9 | 
 | 2022-12-08 | 20 | 9 | 
 | 2022-12-07 | 20 | 9 | 
-| 2022-12-06 | 20 | 9 | 
 

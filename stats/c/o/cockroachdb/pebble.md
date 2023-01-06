@@ -1,10 +1,10 @@
 # cockroachdb/pebble - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 298
+☋ Forks: 299
 
-★ Stars: 3333
+★ Stars: 3340
 
 [Open repository](https://github.com/cockroachdb/pebble)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 3340 | 299 | 
 | 2023-01-04 | 3333 | 298 | 
 | 2023-01-03 | 3322 | 297 | 
 | 2023-01-02 | 3310 | 297 | 

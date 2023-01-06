@@ -1,6 +1,6 @@
 # ClustProject/KUDataRegression - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 26 | 26 | 
 | 2023-01-04 | 26 | 26 | 
 | 2023-01-03 | 26 | 26 | 
 | 2023-01-02 | 26 | 26 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 26 | 26 | 
 | 2022-12-08 | 26 | 26 | 
 | 2022-12-07 | 26 | 26 | 
-| 2022-12-06 | 26 | 26 | 
 

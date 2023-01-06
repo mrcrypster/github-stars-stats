@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 05
 
 ☋ Forks: 161
 
-★ Stars: 1404
+★ Stars: 1405
 
 [Open repository](https://github.com/erebe/wstunnel)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-05 | 1404 | 161 | 
+| 2023-01-05 | 1405 | 161 | 
 | 2023-01-04 | 1404 | 161 | 
 | 2023-01-03 | 1402 | 160 | 
 | 2023-01-02 | 1401 | 160 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 1362 | 156 | 
 | 2022-12-08 | 1361 | 156 | 
 | 2022-12-07 | 1360 | 156 | 
-| 2022-12-06 | 1360 | 155 | 
 

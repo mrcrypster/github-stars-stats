@@ -1,6 +1,6 @@
 # jacobobryant/biff - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 395 | 16 | 
 | 2023-01-04 | 395 | 16 | 
 | 2023-01-03 | 394 | 16 | 
 | 2023-01-02 | 393 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 379 | 14 | 
 | 2022-12-08 | 379 | 14 | 
 | 2022-12-07 | 379 | 14 | 
-| 2022-12-06 | 379 | 14 | 
 

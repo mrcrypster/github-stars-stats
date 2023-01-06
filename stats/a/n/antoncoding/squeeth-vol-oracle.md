@@ -1,10 +1,10 @@
 # antoncoding/squeeth-vol-oracle - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 0
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/antoncoding/squeeth-vol-oracle)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 24 | - | 
 | 2023-01-04 | 23 | - | 
 | 2023-01-03 | 23 | - | 
 | 2023-01-02 | 23 | - | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 23 | - | 
 | 2022-12-08 | 23 | - | 
 | 2022-12-07 | 23 | - | 
-| 2022-12-06 | 23 | - | 
 

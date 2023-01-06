@@ -1,8 +1,8 @@
 # Bloceducare/Web3Bridge-DAO - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 06
 
-☋ Forks: 10
+☋ Forks: 11
 
 ★ Stars: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 8 | 11 | 
 | 2023-01-04 | 8 | 10 | 
 | 2023-01-03 | 8 | 10 | 
 | 2023-01-02 | 8 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 8 | 10 | 
 | 2022-12-09 | 8 | 10 | 
 | 2022-12-07 | 8 | 10 | 
-| 2022-12-06 | 8 | 10 | 
 

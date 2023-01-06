@@ -1,6 +1,6 @@
 # frosty/NME-Multitouch-Example - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 19 | 4 | 
 | 2023-01-05 | 19 | 4 | 
 | 2023-01-03 | 19 | 4 | 
 | 2023-01-02 | 19 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 19 | 4 | 
 | 2022-12-09 | 19 | 4 | 
 | 2022-12-07 | 19 | 4 | 
-| 2022-12-06 | 19 | 4 | 
 

@@ -1,10 +1,10 @@
 # sodafoundation/multi-cloud - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 325
+☋ Forks: 327
 
-★ Stars: 219
+★ Stars: 226
 
 [Open repository](https://github.com/sodafoundation/multi-cloud)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 226 | 327 | 
 | 2023-01-04 | 219 | 325 | 
 | 2023-01-03 | 219 | 325 | 
 | 2023-01-02 | 219 | 325 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 218 | 326 | 
 | 2022-12-08 | 218 | 326 | 
 | 2022-12-07 | 218 | 326 | 
-| 2022-12-06 | 218 | 326 | 
 

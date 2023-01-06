@@ -1,10 +1,10 @@
 # rxzyx/Blooket-Hacks - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 700
+☋ Forks: 704
 
-★ Stars: 245
+★ Stars: 249
 
 [Open repository](https://github.com/rxzyx/Blooket-Hacks)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 249 | 704 | 
 | 2023-01-04 | 245 | 700 | 
 | 2023-01-03 | 244 | 698 | 
 | 2023-01-02 | 244 | 695 | 

@@ -1,10 +1,10 @@
 # RelaxTools/RelaxTools-Addin - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 28
 
-★ Stars: 287
+★ Stars: 288
 
 [Open repository](https://github.com/RelaxTools/RelaxTools-Addin)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 288 | 28 | 
 | 2023-01-04 | 287 | 28 | 
 | 2023-01-03 | 287 | 28 | 
 | 2023-01-02 | 287 | 28 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 287 | 29 | 
 | 2022-12-08 | 286 | 29 | 
 | 2022-12-07 | 286 | 29 | 
-| 2022-12-06 | 286 | 29 | 
 

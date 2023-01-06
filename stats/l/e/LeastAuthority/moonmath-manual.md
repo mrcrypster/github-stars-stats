@@ -1,10 +1,10 @@
 # LeastAuthority/moonmath-manual - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 11
+☋ Forks: 12
 
-★ Stars: 45
+★ Stars: 55
 
 [Open repository](https://github.com/LeastAuthority/moonmath-manual)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 55 | 12 | 
 | 2023-01-04 | 45 | 11 | 
 | 2023-01-03 | 44 | 11 | 
 | 2023-01-02 | 44 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 33 | 11 | 
 | 2022-12-09 | 33 | 11 | 
 | 2022-12-07 | 31 | 11 | 
-| 2022-12-06 | 28 | 10 | 
 

@@ -1,10 +1,10 @@
 # dalijap/nx-horizon - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 7
 
-★ Stars: 56
+★ Stars: 57
 
 [Open repository](https://github.com/dalijap/nx-horizon)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 57 | 7 | 
 | 2023-01-04 | 56 | 7 | 
 | 2023-01-03 | 56 | 7 | 
 | 2023-01-02 | 56 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 56 | 7 | 
 | 2022-12-09 | 56 | 7 | 
 | 2022-12-08 | 56 | 7 | 
-| 2022-12-06 | 56 | 7 | 
 

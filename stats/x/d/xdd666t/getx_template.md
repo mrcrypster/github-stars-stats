@@ -1,8 +1,8 @@
 # xdd666t/getx_template - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 59
+☋ Forks: 58
 
 ★ Stars: 242
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 242 | 58 | 
 | 2023-01-04 | 242 | 59 | 
 | 2023-01-03 | 242 | 59 | 
 | 2023-01-02 | 242 | 59 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 237 | 59 | 
 | 2022-12-08 | 237 | 59 | 
 | 2022-12-07 | 237 | 59 | 
-| 2022-12-06 | 237 | 59 | 
 

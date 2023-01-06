@@ -1,10 +1,10 @@
 # nvim-telescope/telescope-fzf-native.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 33
 
-★ Stars: 690
+★ Stars: 691
 
 [Open repository](https://github.com/nvim-telescope/telescope-fzf-native.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 691 | 33 | 
 | 2023-01-04 | 690 | 33 | 
 | 2023-01-03 | 688 | 33 | 
 | 2023-01-02 | 688 | 33 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 651 | 31 | 
 | 2022-12-08 | 650 | 31 | 
 | 2022-12-07 | 648 | 31 | 
-| 2022-12-06 | 648 | 31 | 
 

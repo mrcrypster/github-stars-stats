@@ -1,10 +1,10 @@
 # lyt-Top/vue-next-admin - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 139
 
-★ Stars: 788
+★ Stars: 791
 
 [Open repository](https://github.com/lyt-Top/vue-next-admin)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 791 | 139 | 
 | 2023-01-04 | 788 | 139 | 
 | 2023-01-03 | 786 | 138 | 
 | 2023-01-02 | 785 | 138 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 738 | 133 | 
 | 2022-12-08 | 736 | 133 | 
 | 2022-12-07 | 723 | 129 | 
-| 2022-12-06 | 718 | 126 | 
 

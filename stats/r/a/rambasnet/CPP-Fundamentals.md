@@ -1,6 +1,6 @@
 # rambasnet/CPP-Fundamentals - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 16 | 27 | 
 | 2023-01-04 | 16 | 27 | 
 | 2023-01-03 | 16 | 27 | 
 | 2023-01-02 | 16 | 27 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 16 | 27 | 
 | 2022-12-09 | 16 | 27 | 
 | 2022-12-08 | 16 | 27 | 
-| 2022-12-06 | 16 | 27 | 
 

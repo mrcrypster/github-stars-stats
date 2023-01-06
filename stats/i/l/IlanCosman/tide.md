@@ -1,10 +1,10 @@
 # IlanCosman/tide - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 70
 
-★ Stars: 1722
+★ Stars: 1725
 
 [Open repository](https://github.com/IlanCosman/tide)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 1725 | 70 | 
 | 2023-01-04 | 1722 | 70 | 
 | 2023-01-03 | 1719 | 69 | 
 | 2023-01-02 | 1717 | 69 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 1679 | 68 | 
 | 2022-12-09 | 1679 | 68 | 
 | 2022-12-08 | 1678 | 68 | 
-| 2022-12-06 | 1677 | 68 | 
 

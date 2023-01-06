@@ -1,6 +1,6 @@
 # EdgeTX/edgetx-sdcard - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 60 | 24 | 
 | 2023-01-04 | 60 | 24 | 
 | 2023-01-03 | 60 | 24 | 
 | 2023-01-02 | 60 | 24 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 58 | 22 | 
 | 2022-12-08 | 58 | 22 | 
 | 2022-12-07 | 57 | 22 | 
-| 2022-12-06 | 57 | 22 | 
 

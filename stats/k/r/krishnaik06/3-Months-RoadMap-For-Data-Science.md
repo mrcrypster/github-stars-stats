@@ -1,10 +1,10 @@
 # krishnaik06/3-Months-RoadMap-For-Data-Science - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 38
 
-★ Stars: 147
+★ Stars: 148
 
 [Open repository](https://github.com/krishnaik06/3-Months-RoadMap-For-Data-Science)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 148 | 38 | 
 | 2023-01-04 | 147 | 38 | 
 | 2023-01-03 | 146 | 38 | 
 | 2023-01-01 | 144 | 38 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 131 | 39 | 
 | 2022-12-08 | 131 | 38 | 
 | 2022-12-07 | 131 | 38 | 
-| 2022-12-06 | 131 | 38 | 
 

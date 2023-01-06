@@ -1,6 +1,6 @@
 # pact-foundation/pact-jvm - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 458
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 963 | 458 | 
 | 2023-01-04 | 963 | 458 | 
 | 2023-01-03 | 963 | 458 | 
 | 2023-01-02 | 962 | 458 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 961 | 456 | 
 | 2022-12-08 | 961 | 456 | 
 | 2022-12-07 | 959 | 456 | 
-| 2022-12-06 | 959 | 456 | 
 

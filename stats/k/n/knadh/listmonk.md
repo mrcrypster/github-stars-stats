@@ -1,10 +1,10 @@
 # knadh/listmonk - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 744
 
-★ Stars: 9213
+★ Stars: 9218
 
 [Open repository](https://github.com/knadh/listmonk)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 9218 | 744 | 
 | 2023-01-04 | 9213 | 744 | 
 | 2023-01-03 | 9209 | 744 | 
 | 2023-01-02 | 9203 | 744 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 9039 | 726 | 
 | 2022-12-09 | 9037 | 724 | 
 | 2022-12-08 | 9030 | 723 | 
-| 2022-12-06 | 9024 | 722 | 
 

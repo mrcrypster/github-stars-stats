@@ -1,10 +1,10 @@
 # hashicorp/raft - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 859
+☋ Forks: 860
 
-★ Stars: 6679
+★ Stars: 6686
 
 [Open repository](https://github.com/hashicorp/raft)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 6686 | 860 | 
 | 2023-01-04 | 6679 | 859 | 
 | 2023-01-03 | 6670 | 858 | 
 | 2023-01-02 | 6659 | 858 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 6557 | 850 | 
 | 2022-12-09 | 6554 | 849 | 
 | 2022-12-07 | 6553 | 849 | 
-| 2022-12-06 | 6550 | 849 | 
 

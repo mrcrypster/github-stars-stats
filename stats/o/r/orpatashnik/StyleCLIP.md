@@ -1,10 +1,10 @@
 # orpatashnik/StyleCLIP - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 490
 
-★ Stars: 3266
+★ Stars: 3267
 
 [Open repository](https://github.com/orpatashnik/StyleCLIP)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 3267 | 490 | 
 | 2023-01-04 | 3266 | 490 | 
 | 2023-01-03 | 3265 | 490 | 
 | 2023-01-02 | 3265 | 490 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 3236 | 485 | 
 | 2022-12-08 | 3236 | 485 | 
 | 2022-12-07 | 3234 | 485 | 
-| 2022-12-06 | 3230 | 484 | 
 

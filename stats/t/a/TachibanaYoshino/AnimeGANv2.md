@@ -1,10 +1,10 @@
 # TachibanaYoshino/AnimeGANv2 - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 624
 
-★ Stars: 4393
+★ Stars: 4394
 
 [Open repository](https://github.com/TachibanaYoshino/AnimeGANv2)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 4394 | 624 | 
 | 2023-01-04 | 4393 | 624 | 
 | 2023-01-03 | 4394 | 622 | 
 | 2023-01-02 | 4391 | 622 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 4347 | 618 | 
 | 2022-12-09 | 4345 | 617 | 
 | 2022-12-07 | 4342 | 616 | 
-| 2022-12-06 | 4340 | 616 | 
 

@@ -1,10 +1,10 @@
 # channy/korea-devculture - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 20
 
-★ Stars: 242
+★ Stars: 243
 
 [Open repository](https://github.com/channy/korea-devculture)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 243 | 20 | 
 | 2023-01-04 | 242 | 20 | 
 | 2023-01-03 | 240 | 20 | 
 | 2023-01-02 | 237 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 199 | 19 | 
 | 2022-12-08 | 195 | 19 | 
 | 2022-12-07 | 194 | 19 | 
-| 2022-12-06 | 191 | 19 | 
 

@@ -1,8 +1,8 @@
 # allcoolthingsatoneplace/UnrealPakTool - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 51
+☋ Forks: 53
 
 ★ Stars: 265
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 265 | 53 | 
 | 2023-01-04 | 265 | 51 | 
 | 2023-01-03 | 264 | 51 | 
 | 2023-01-02 | 264 | 51 | 

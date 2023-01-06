@@ -1,10 +1,10 @@
 # hku-mars/r3live - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 296
 
-★ Stars: 1256
+★ Stars: 1259
 
 [Open repository](https://github.com/hku-mars/r3live)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 1259 | 296 | 
 | 2023-01-04 | 1256 | 296 | 
 | 2023-01-03 | 1255 | 296 | 
 | 2023-01-02 | 1255 | 296 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 1232 | 292 | 
 | 2022-12-08 | 1229 | 292 | 
 | 2022-12-07 | 1222 | 291 | 
-| 2022-12-06 | 1220 | 291 | 
 

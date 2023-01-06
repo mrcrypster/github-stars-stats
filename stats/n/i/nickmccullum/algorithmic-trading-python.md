@@ -1,10 +1,10 @@
 # nickmccullum/algorithmic-trading-python - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 1944
+☋ Forks: 1947
 
-★ Stars: 1780
+★ Stars: 1782
 
 [Open repository](https://github.com/nickmccullum/algorithmic-trading-python)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 1782 | 1947 | 
 | 2023-01-04 | 1780 | 1944 | 
 | 2023-01-03 | 1780 | 1944 | 
 | 2023-01-02 | 1778 | 1940 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 1754 | 1912 | 
 | 2022-12-09 | 1754 | 1910 | 
 | 2022-12-08 | 1752 | 1909 | 
-| 2022-12-07 | 1752 | 1909 | 
 

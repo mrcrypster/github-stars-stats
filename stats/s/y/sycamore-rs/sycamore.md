@@ -1,6 +1,6 @@
 # sycamore-rs/sycamore - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 117
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 1823 | 117 | 
 | 2023-01-04 | 1823 | 117 | 
 | 2023-01-03 | 1819 | 118 | 
 | 2023-01-01 | 1818 | 118 | 

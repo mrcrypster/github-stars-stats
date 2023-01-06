@@ -1,10 +1,10 @@
 # fuelen/ecto_erd - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 6
 
-★ Stars: 159
+★ Stars: 160
 
 [Open repository](https://github.com/fuelen/ecto_erd)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 160 | 6 | 
 | 2023-01-04 | 159 | 6 | 
 | 2023-01-03 | 159 | 6 | 
 | 2023-01-02 | 159 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 153 | 6 | 
 | 2022-12-09 | 152 | 6 | 
 | 2022-12-07 | 151 | 6 | 
-| 2022-12-06 | 151 | 6 | 
 

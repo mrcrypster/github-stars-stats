@@ -1,6 +1,6 @@
 # jonstipe/datetime-local-polyfill - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 9 | 10 | 
 | 2023-01-04 | 9 | 10 | 
 | 2023-01-03 | 9 | 10 | 
 | 2023-01-02 | 9 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 9 | 10 | 
 | 2022-12-08 | 9 | 10 | 
 | 2022-12-07 | 9 | 10 | 
-| 2022-12-06 | 9 | 10 | 
 

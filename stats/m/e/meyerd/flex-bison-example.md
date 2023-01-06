@@ -1,6 +1,6 @@
 # meyerd/flex-bison-example - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 74
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 196 | 74 | 
 | 2023-01-04 | 196 | 74 | 
 | 2023-01-03 | 197 | 74 | 
 | 2023-01-02 | 197 | 74 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 198 | 73 | 
 | 2022-12-09 | 198 | 73 | 
 | 2022-12-08 | 198 | 73 | 
-| 2022-12-06 | 198 | 73 | 
 

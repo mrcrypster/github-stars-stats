@@ -1,10 +1,10 @@
 # hyperai/tvm-cn - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 135
 
-★ Stars: 760
+★ Stars: 761
 
 [Open repository](https://github.com/hyperai/tvm-cn)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 761 | 135 | 
 | 2023-01-04 | 760 | 135 | 
 | 2023-01-03 | 760 | 135 | 
 | 2023-01-02 | 759 | 135 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 747 | 133 | 
 | 2022-12-09 | 745 | 133 | 
 | 2022-12-08 | 744 | 133 | 
-| 2022-12-06 | 741 | 131 | 
 

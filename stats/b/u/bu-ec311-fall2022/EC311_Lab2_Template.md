@@ -1,6 +1,6 @@
 # bu-ec311-fall2022/EC311_Lab2_Template - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | - | 6 | 
 | 2023-01-04 | - | 6 | 
 | 2023-01-03 | - | 6 | 
 | 2023-01-02 | - | 6 | 

@@ -1,10 +1,10 @@
 # VincentGarreau/particles.js - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 4685
+☋ Forks: 4686
 
-★ Stars: 26674
+★ Stars: 26675
 
 [Open repository](https://github.com/VincentGarreau/particles.js)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 26675 | 4686 | 
 | 2023-01-04 | 26674 | 4685 | 
 | 2023-01-03 | 26669 | 4684 | 
 | 2023-01-02 | 26662 | 4684 | 

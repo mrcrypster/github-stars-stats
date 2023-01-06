@@ -1,10 +1,10 @@
 # google/lyra - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 315
 
-★ Stars: 3516
+★ Stars: 3515
 
 [Open repository](https://github.com/google/lyra)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 3515 | 315 | 
 | 2023-01-04 | 3516 | 315 | 
 | 2023-01-03 | 3515 | 315 | 
 | 2023-01-02 | 3515 | 315 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 3497 | 314 | 
 | 2022-12-08 | 3495 | 314 | 
 | 2022-12-07 | 3493 | 315 | 
-| 2022-12-06 | 3489 | 315 | 
 

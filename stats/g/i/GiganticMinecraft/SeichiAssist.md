@@ -1,6 +1,6 @@
 # GiganticMinecraft/SeichiAssist - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 93 | 34 | 
 | 2023-01-04 | 93 | 34 | 
 | 2023-01-03 | 93 | 34 | 
 | 2023-01-02 | 92 | 34 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 92 | 34 | 
 | 2022-12-08 | 92 | 34 | 
 | 2022-12-07 | 92 | 34 | 
-| 2022-12-06 | 92 | 34 | 
 

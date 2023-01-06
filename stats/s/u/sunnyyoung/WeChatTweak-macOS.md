@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 05
 
-☋ Forks: 1158
+☋ Forks: 1159
 
-★ Stars: 8343
+★ Stars: 8350
 
 [Open repository](https://github.com/sunnyyoung/WeChatTweak-macOS)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-05 | 8343 | 1158 | 
+| 2023-01-05 | 8350 | 1159 | 
 | 2023-01-04 | 8342 | 1158 | 
 | 2023-01-03 | 8331 | 1157 | 
 | 2023-01-02 | 8313 | 1156 | 
@@ -41,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 8271 | 1151 | 
 | 2022-12-09 | 8268 | 1151 | 
 | 2022-12-08 | 8264 | 1151 | 
-| 2022-12-06 | 8260 | 1151 | 
 

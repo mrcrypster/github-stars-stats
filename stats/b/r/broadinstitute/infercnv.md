@@ -1,6 +1,6 @@
 # broadinstitute/infercnv - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 142
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 385 | 142 | 
 | 2023-01-04 | 385 | 142 | 
 | 2023-01-03 | 385 | 142 | 
 | 2023-01-02 | 386 | 141 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 381 | 140 | 
 | 2022-12-08 | 381 | 140 | 
 | 2022-12-07 | 381 | 140 | 
-| 2022-12-06 | 381 | 140 | 
 

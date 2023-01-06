@@ -1,10 +1,10 @@
 # josephwright/beamer - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 109
 
-★ Stars: 1017
+★ Stars: 1018
 
 [Open repository](https://github.com/josephwright/beamer)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 1018 | 109 | 
 | 2023-01-04 | 1017 | 109 | 
 | 2023-01-03 | 1016 | 109 | 
 | 2023-01-02 | 1015 | 109 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 998 | 107 | 
 | 2022-12-08 | 997 | 107 | 
 | 2022-12-07 | 997 | 107 | 
-| 2022-12-06 | 996 | 107 | 
 

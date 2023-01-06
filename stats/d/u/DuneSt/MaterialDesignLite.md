@@ -1,6 +1,6 @@
 # DuneSt/MaterialDesignLite - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 39 | 19 | 
 | 2023-01-04 | 39 | 19 | 
 | 2023-01-03 | 39 | 19 | 
 | 2023-01-02 | 39 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 39 | 18 | 
 | 2022-12-09 | 39 | 18 | 
 | 2022-12-07 | 39 | 18 | 
-| 2022-12-06 | 39 | 18 | 
 

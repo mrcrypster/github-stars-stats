@@ -1,10 +1,10 @@
 # alepmedeiros/ac-pdv - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 5
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/alepmedeiros/ac-pdv)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 16 | 5 | 
 | 2023-01-04 | 15 | 5 | 
 | 2023-01-03 | 15 | 5 | 
 | 2023-01-02 | 15 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 14 | 4 | 
 | 2022-12-08 | 14 | 4 | 
 | 2022-12-07 | 14 | 4 | 
-| 2022-12-06 | 14 | 4 | 
 

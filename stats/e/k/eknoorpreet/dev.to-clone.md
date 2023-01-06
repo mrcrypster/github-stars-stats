@@ -1,8 +1,8 @@
 # eknoorpreet/dev.to-clone - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 84
+☋ Forks: 85
 
 ★ Stars: 330
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 330 | 85 | 
 | 2023-01-04 | 330 | 84 | 
 | 2023-01-03 | 329 | 84 | 
 | 2023-01-02 | 329 | 84 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 328 | 81 | 
 | 2022-12-09 | 327 | 81 | 
 | 2022-12-07 | 326 | 81 | 
-| 2022-12-06 | 325 | 81 | 
 

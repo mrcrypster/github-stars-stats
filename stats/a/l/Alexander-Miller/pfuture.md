@@ -1,10 +1,10 @@
 # Alexander-Miller/pfuture - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 8
 
-★ Stars: 49
+★ Stars: 50
 
 [Open repository](https://github.com/Alexander-Miller/pfuture)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 50 | 8 | 
+| 2023-01-05 | 50 | 8 | 
 | 2023-01-04 | 49 | 8 | 
 | 2023-01-03 | 49 | 8 | 
 | 2023-01-02 | 49 | 8 | 
@@ -40,5 +42,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 50 | 8 | 
 | 2022-12-08 | 50 | 8 | 
 | 2022-12-07 | 50 | 8 | 
-| 2022-12-06 | 50 | 8 | 
 

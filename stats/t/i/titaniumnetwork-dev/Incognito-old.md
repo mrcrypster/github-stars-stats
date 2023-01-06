@@ -1,6 +1,6 @@
 # titaniumnetwork-dev/Incognito-old - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 1237
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 58 | 1237 | 
 | 2023-01-04 | 58 | 1237 | 
 | 2023-01-03 | 58 | 1236 | 
 | 2023-01-02 | 59 | 1235 | 

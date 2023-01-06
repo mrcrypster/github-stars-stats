@@ -1,10 +1,10 @@
 # LycheeOrg/Lychee - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 217
 
-★ Stars: 2332
+★ Stars: 2337
 
 [Open repository](https://github.com/LycheeOrg/Lychee)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 2337 | 217 | 
 | 2023-01-04 | 2332 | 217 | 
 | 2023-01-03 | 2330 | 217 | 
 | 2023-01-02 | 2327 | 217 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 2267 | 212 | 
 | 2022-12-08 | 2261 | 208 | 
 | 2022-12-07 | 2256 | 210 | 
-| 2022-12-06 | 2251 | 210 | 
 

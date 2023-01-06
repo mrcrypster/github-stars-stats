@@ -1,10 +1,10 @@
 # An0nUD4Y/Evilginx2-Phishlets - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 110
 
-★ Stars: 200
+★ Stars: 202
 
 [Open repository](https://github.com/An0nUD4Y/Evilginx2-Phishlets)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 202 | 110 | 
 | 2023-01-04 | 200 | 110 | 
 | 2023-01-03 | 200 | 109 | 
 | 2023-01-02 | 199 | 109 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 186 | 103 | 
 | 2022-12-09 | 186 | 103 | 
 | 2022-12-07 | 186 | 103 | 
-| 2022-12-06 | 186 | 103 | 
 

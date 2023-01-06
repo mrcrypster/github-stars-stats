@@ -1,8 +1,8 @@
 # netty/netty - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 15042
+☋ Forks: 15044
 
 ★ Stars: 30497
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 30497 | 15044 | 
 | 2023-01-04 | 30497 | 15042 | 
 | 2023-01-03 | 30491 | 15039 | 
 | 2023-01-02 | 30489 | 15038 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 30385 | 15019 | 
 | 2022-12-09 | 30382 | 15014 | 
 | 2022-12-08 | 30380 | 15010 | 
-| 2022-12-07 | 30372 | 15008 | 
 

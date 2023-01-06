@@ -1,6 +1,6 @@
 # diaspora/diaspora - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 2952
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 13196 | 2952 | 
 | 2023-01-04 | 13196 | 2952 | 
 | 2023-01-03 | 13197 | 2953 | 
 | 2023-01-02 | 13195 | 2952 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 13186 | 2948 | 
 | 2022-12-09 | 13188 | 2948 | 
 | 2022-12-07 | 13189 | 2948 | 
-| 2022-12-06 | 13189 | 2948 | 
 

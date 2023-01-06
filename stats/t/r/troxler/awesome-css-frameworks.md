@@ -1,10 +1,10 @@
 # troxler/awesome-css-frameworks - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 378
+☋ Forks: 379
 
-★ Stars: 5646
+★ Stars: 5653
 
 [Open repository](https://github.com/troxler/awesome-css-frameworks)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 5653 | 379 | 
 | 2023-01-04 | 5646 | 378 | 
 | 2023-01-03 | 5643 | 378 | 
 | 2023-01-02 | 5638 | 378 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 5553 | 377 | 
 | 2022-12-08 | 5552 | 376 | 
 | 2022-12-07 | 5549 | 375 | 
-| 2022-12-06 | 5544 | 375 | 
 

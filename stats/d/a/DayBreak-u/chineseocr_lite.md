@@ -1,10 +1,10 @@
 # DayBreak-u/chineseocr_lite - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 2031
 
-★ Stars: 9868
+★ Stars: 9875
 
 [Open repository](https://github.com/DayBreak-u/chineseocr_lite)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 9875 | 2031 | 
 | 2023-01-04 | 9868 | 2031 | 
 | 2023-01-03 | 9865 | 2031 | 
 | 2023-01-01 | 9864 | 2031 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 9809 | 2021 | 
 | 2022-12-09 | 9807 | 2021 | 
 | 2022-12-08 | 9805 | 2020 | 
-| 2022-12-06 | 9804 | 2020 | 
 

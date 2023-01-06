@@ -1,10 +1,10 @@
 # YosysHQ/picorv32 - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 597
 
-★ Stars: 2245
+★ Stars: 2246
 
 [Open repository](https://github.com/YosysHQ/picorv32)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 2246 | 597 | 
 | 2023-01-04 | 2245 | 597 | 
 | 2023-01-03 | 2245 | 597 | 
 | 2023-01-02 | 2244 | 597 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 2218 | 594 | 
 | 2022-12-08 | 2218 | 593 | 
 | 2022-12-07 | 2216 | 593 | 
-| 2022-12-06 | 2215 | 592 | 
 

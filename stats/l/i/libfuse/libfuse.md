@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 05
 
 ☋ Forks: 966
 
-★ Stars: 4229
+★ Stars: 4230
 
 [Open repository](https://github.com/libfuse/libfuse)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-05 | 4229 | 966 | 
+| 2023-01-05 | 4230 | 966 | 
 | 2023-01-04 | 4229 | 966 | 
 | 2023-01-03 | 4223 | 964 | 
 | 2023-01-02 | 4221 | 964 | 

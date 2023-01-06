@@ -1,10 +1,10 @@
 # xenia-project/xenia - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 920
 
-★ Stars: 6360
+★ Stars: 6368
 
 [Open repository](https://github.com/xenia-project/xenia)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 6368 | 920 | 
 | 2023-01-04 | 6360 | 920 | 
 | 2023-01-03 | 6357 | 920 | 
 | 2023-01-02 | 6352 | 920 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 6289 | 912 | 
 | 2022-12-09 | 6289 | 911 | 
 | 2022-12-08 | 6286 | 911 | 
-| 2022-12-06 | 6282 | 909 | 
 

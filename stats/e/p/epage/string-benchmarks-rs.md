@@ -1,6 +1,6 @@
 # epage/string-benchmarks-rs - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 57 | 2 | 
 | 2023-01-04 | 57 | 2 | 
 | 2023-01-03 | 57 | 2 | 
 | 2023-01-02 | 57 | 2 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 57 | 2 | 
 | 2022-12-09 | 57 | 2 | 
 | 2022-12-08 | 57 | 2 | 
-| 2022-12-07 | 57 | 2 | 
 

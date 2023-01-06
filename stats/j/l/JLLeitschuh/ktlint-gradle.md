@@ -1,10 +1,10 @@
 # JLLeitschuh/ktlint-gradle - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 140
 
-★ Stars: 1105
+★ Stars: 1108
 
 [Open repository](https://github.com/JLLeitschuh/ktlint-gradle)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 1108 | 140 | 
 | 2023-01-04 | 1105 | 140 | 
 | 2023-01-03 | 1105 | 140 | 
 | 2023-01-02 | 1105 | 140 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 1089 | 139 | 
 | 2022-12-09 | 1087 | 139 | 
 | 2022-12-07 | 1086 | 139 | 
-| 2022-12-06 | 1085 | 139 | 
 

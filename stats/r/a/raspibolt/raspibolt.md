@@ -1,10 +1,10 @@
 # raspibolt/raspibolt - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 343
 
-★ Stars: 1100
+★ Stars: 1104
 
 [Open repository](https://github.com/raspibolt/raspibolt)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 1104 | 343 | 
 | 2023-01-04 | 1100 | 343 | 
 | 2023-01-03 | 1100 | 343 | 
 | 2023-01-02 | 1100 | 343 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 1089 | 342 | 
 | 2022-12-09 | 1088 | 341 | 
 | 2022-12-08 | 1087 | 341 | 
-| 2022-12-07 | 1087 | 341 | 
 

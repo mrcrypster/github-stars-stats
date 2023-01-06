@@ -1,10 +1,10 @@
 # kakaobrain/coyo-dataset - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 29
 
-★ Stars: 788
+★ Stars: 789
 
 [Open repository](https://github.com/kakaobrain/coyo-dataset)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 789 | 29 | 
 | 2023-01-04 | 788 | 29 | 
 | 2023-01-03 | 787 | 29 | 
 | 2023-01-02 | 787 | 29 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 767 | 26 | 
 | 2022-12-09 | 767 | 26 | 
 | 2022-12-08 | 766 | 26 | 
-| 2022-12-07 | 764 | 26 | 
 

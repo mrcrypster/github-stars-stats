@@ -1,10 +1,10 @@
 # nettitude/PoshC2 - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 280
 
-★ Stars: 1378
+★ Stars: 1383
 
 [Open repository](https://github.com/nettitude/PoshC2)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 1383 | 280 | 
 | 2023-01-04 | 1378 | 280 | 
 | 2023-01-03 | 1376 | 280 | 
 | 2023-01-02 | 1375 | 281 | 

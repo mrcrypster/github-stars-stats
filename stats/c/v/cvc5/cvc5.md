@@ -1,6 +1,6 @@
 # cvc5/cvc5 - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 182
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 708 | 182 | 
 | 2023-01-04 | 708 | 182 | 
 | 2023-01-03 | 707 | 182 | 
 | 2023-01-02 | 706 | 182 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 697 | 182 | 
 | 2022-12-08 | 697 | 182 | 
 | 2022-12-07 | 697 | 182 | 
-| 2022-12-06 | 697 | 181 | 
 

@@ -1,10 +1,10 @@
 # envoyproxy/protoc-gen-validate - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 488
+☋ Forks: 490
 
-★ Stars: 2879
+★ Stars: 2881
 
 [Open repository](https://github.com/envoyproxy/protoc-gen-validate)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 2881 | 490 | 
 | 2023-01-04 | 2879 | 488 | 
 | 2023-01-03 | 2876 | 487 | 
 | 2023-01-02 | 2875 | 487 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 2839 | 484 | 
 | 2022-12-08 | 2836 | 481 | 
 | 2022-12-07 | 2836 | 481 | 
-| 2022-12-06 | 2834 | 480 | 
 

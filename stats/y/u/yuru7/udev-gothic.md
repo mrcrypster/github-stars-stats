@@ -1,10 +1,10 @@
 # yuru7/udev-gothic - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 8
 
-★ Stars: 718
+★ Stars: 721
 
 [Open repository](https://github.com/yuru7/udev-gothic)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 721 | 8 | 
 | 2023-01-04 | 718 | 8 | 
 | 2023-01-03 | 718 | 8 | 
 | 2023-01-02 | 716 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 701 | 8 | 
 | 2022-12-08 | 701 | 8 | 
 | 2022-12-07 | 701 | 8 | 
-| 2022-12-06 | 701 | 8 | 
 

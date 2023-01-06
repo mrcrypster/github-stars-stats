@@ -1,6 +1,6 @@
 # elmish/react - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 21
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 96 | 21 | 
+| 2023-01-05 | 96 | 21 | 
 | 2023-01-04 | 96 | 21 | 
 | 2023-01-03 | 96 | 21 | 
 | 2023-01-02 | 96 | 21 | 

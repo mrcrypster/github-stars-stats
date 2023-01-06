@@ -1,6 +1,6 @@
 # hellodigua/code996 - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 1196 | 47 | 
 | 2023-01-04 | 1196 | 47 | 
 | 2023-01-03 | 1195 | 47 | 
 | 2023-01-02 | 1195 | 47 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 1152 | 45 | 
 | 2022-12-08 | 1151 | 45 | 
 | 2022-12-07 | 1151 | 45 | 
-| 2022-12-06 | 1151 | 45 | 
 

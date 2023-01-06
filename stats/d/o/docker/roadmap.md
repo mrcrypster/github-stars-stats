@@ -1,6 +1,6 @@
 # docker/roadmap - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 227
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 1181 | 227 | 
 | 2023-01-04 | 1181 | 227 | 
 | 2023-01-03 | 1180 | 227 | 
 | 2023-01-02 | 1180 | 227 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 1167 | 219 | 
 | 2022-12-09 | 1166 | 219 | 
 | 2022-12-08 | 1166 | 219 | 
-| 2022-12-06 | 1165 | 219 | 
 

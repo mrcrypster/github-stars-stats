@@ -1,6 +1,6 @@
 # encse/adventofcode - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 193 | 41 | 
 | 2023-01-04 | 193 | 41 | 
 | 2023-01-03 | 193 | 41 | 
 | 2023-01-02 | 192 | 42 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 168 | 36 | 
 | 2022-12-08 | 165 | 35 | 
 | 2022-12-07 | 164 | 34 | 
-| 2022-12-06 | 163 | 34 | 
 

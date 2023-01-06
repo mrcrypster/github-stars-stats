@@ -1,8 +1,8 @@
 # tokenspice/tokenspice - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 43
+☋ Forks: 42
 
 ★ Stars: 253
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 253 | 42 | 
 | 2023-01-04 | 253 | 43 | 
 | 2023-01-03 | 251 | 43 | 
 | 2023-01-02 | 251 | 43 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 246 | 42 | 
 | 2022-12-08 | 246 | 43 | 
 | 2022-12-07 | 244 | 43 | 
-| 2022-12-06 | 244 | 43 | 
 

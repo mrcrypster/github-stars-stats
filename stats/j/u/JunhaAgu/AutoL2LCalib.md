@@ -1,6 +1,6 @@
 # JunhaAgu/AutoL2LCalib - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 34 | 7 | 
 | 2023-01-04 | 34 | 7 | 
 | 2023-01-03 | 34 | 7 | 
 | 2023-01-02 | 34 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 34 | 7 | 
 | 2022-12-08 | 34 | 7 | 
 | 2022-12-07 | 34 | 7 | 
-| 2022-12-06 | 34 | 7 | 
 

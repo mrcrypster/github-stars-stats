@@ -1,10 +1,10 @@
 # crossplane/crossplane - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 643
+☋ Forks: 645
 
-★ Stars: 6389
+★ Stars: 6396
 
 [Open repository](https://github.com/crossplane/crossplane)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 6396 | 645 | 
 | 2023-01-04 | 6389 | 643 | 
 | 2023-01-03 | 6386 | 641 | 
 | 2023-01-02 | 6382 | 641 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 6312 | 636 | 
 | 2022-12-09 | 6309 | 636 | 
 | 2022-12-08 | 6303 | 636 | 
-| 2022-12-06 | 6294 | 634 | 
 

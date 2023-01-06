@@ -1,6 +1,6 @@
 # streamxhub/streampark - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 661
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 2804 | 661 | 
 | 2023-01-04 | 2804 | 661 | 
 | 2023-01-03 | 2802 | 661 | 
 | 2023-01-02 | 2801 | 662 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 2758 | 651 | 
 | 2022-12-09 | 2754 | 651 | 
 | 2022-12-08 | 2748 | 651 | 
-| 2022-12-06 | 2742 | 649 | 
 

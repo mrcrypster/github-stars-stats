@@ -1,8 +1,8 @@
 # iptv-org/awesome-iptv - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 614
+☋ Forks: 617
 
 ★ Stars: 3977
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 3977 | 617 | 
 | 2023-01-04 | 3977 | 614 | 
 | 2023-01-03 | 3971 | 613 | 
 | 2023-01-02 | 3969 | 612 | 

@@ -1,6 +1,6 @@
 # appleboy/telegram-action - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 89
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 604 | 89 | 
 | 2023-01-04 | 604 | 89 | 
 | 2023-01-03 | 604 | 89 | 
 | 2023-01-02 | 604 | 89 | 

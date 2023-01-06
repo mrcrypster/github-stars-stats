@@ -1,10 +1,10 @@
 # RomanHotsiy/commitgpt - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 19
+☋ Forks: 20
 
-★ Stars: 785
+★ Stars: 786
 
 [Open repository](https://github.com/RomanHotsiy/commitgpt)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 786 | 20 | 
 | 2023-01-04 | 785 | 19 | 
 | 2023-01-03 | 782 | 19 | 
 | 2023-01-02 | 780 | 19 | 

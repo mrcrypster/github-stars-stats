@@ -1,10 +1,10 @@
 # alienzhou/frontend-tech-list - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 498
 
-★ Stars: 3493
+★ Stars: 3494
 
 [Open repository](https://github.com/alienzhou/frontend-tech-list)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 3494 | 498 | 
 | 2023-01-04 | 3493 | 498 | 
 | 2023-01-03 | 3490 | 498 | 
 | 2023-01-02 | 3487 | 498 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 3455 | 496 | 
 | 2022-12-08 | 3448 | 495 | 
 | 2022-12-07 | 3447 | 495 | 
-| 2022-12-06 | 3445 | 495 | 
 

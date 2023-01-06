@@ -1,10 +1,10 @@
 # campusx-official/100-days-of-machine-learning - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 614
+☋ Forks: 617
 
-★ Stars: 255
+★ Stars: 257
 
 [Open repository](https://github.com/campusx-official/100-days-of-machine-learning)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 257 | 617 | 
 | 2023-01-04 | 255 | 614 | 
 | 2023-01-03 | 255 | 612 | 
 | 2023-01-02 | 254 | 609 | 

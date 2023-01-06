@@ -1,10 +1,10 @@
 # twitter/util - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 565
 
-★ Stars: 2579
+★ Stars: 2580
 
 [Open repository](https://github.com/twitter/util)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 2580 | 565 | 
 | 2023-01-04 | 2579 | 565 | 
 | 2023-01-03 | 2579 | 565 | 
 | 2023-01-02 | 2579 | 565 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 2573 | 562 | 
 | 2022-12-08 | 2573 | 562 | 
 | 2022-12-07 | 2573 | 562 | 
-| 2022-12-06 | 2573 | 562 | 
 

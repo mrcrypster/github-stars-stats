@@ -1,10 +1,10 @@
 # squidfunk/mkdocs-material - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 2707
+☋ Forks: 2713
 
-★ Stars: 12259
+★ Stars: 12282
 
 [Open repository](https://github.com/squidfunk/mkdocs-material)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 12282 | 2713 | 
 | 2023-01-04 | 12259 | 2707 | 
 | 2023-01-03 | 12242 | 2697 | 
 | 2023-01-02 | 12233 | 2694 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 11964 | 2649 | 
 | 2022-12-08 | 11953 | 2648 | 
 | 2022-12-07 | 11935 | 2642 | 
-| 2022-12-06 | 11921 | 2637 | 
 

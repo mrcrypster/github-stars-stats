@@ -1,6 +1,6 @@
 # guardian/frontend - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 563
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 5658 | 563 | 
 | 2023-01-04 | 5658 | 563 | 
 | 2023-01-03 | 5658 | 563 | 
 | 2023-01-02 | 5658 | 563 | 

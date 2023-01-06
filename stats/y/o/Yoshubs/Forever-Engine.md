@@ -1,10 +1,10 @@
 # Yoshubs/Forever-Engine - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 06
 
-☋ Forks: 9
+☋ Forks: 10
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/Yoshubs/Forever-Engine)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 16 | 10 | 
+| 2023-01-05 | 16 | 10 | 
 | 2023-01-04 | 15 | 9 | 
 | 2023-01-03 | 15 | 8 | 
 | 2023-01-02 | 14 | 9 | 

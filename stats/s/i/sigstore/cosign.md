@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 05
 
 ☋ Forks: 351
 
-★ Stars: 2930
+★ Stars: 2936
 
 [Open repository](https://github.com/sigstore/cosign)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-05 | 2930 | 351 | 
+| 2023-01-05 | 2936 | 351 | 
 | 2023-01-04 | 2928 | 351 | 
 | 2023-01-03 | 2917 | 350 | 
 | 2023-01-02 | 2892 | 349 | 
@@ -41,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-09 | 2818 | 336 | 
 | 2022-12-08 | 2816 | 334 | 
 | 2022-12-07 | 2813 | 333 | 
-| 2022-12-06 | 2808 | 333 | 
 

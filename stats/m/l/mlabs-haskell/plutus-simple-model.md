@@ -1,6 +1,6 @@
 # mlabs-haskell/plutus-simple-model - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 21 | 7 | 
 | 2023-01-04 | 21 | 7 | 
 | 2023-01-03 | 20 | 7 | 
 | 2023-01-02 | 20 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 20 | 9 | 
 | 2022-12-08 | 20 | 9 | 
 | 2022-12-07 | 19 | 9 | 
-| 2022-12-06 | 19 | 9 | 
 

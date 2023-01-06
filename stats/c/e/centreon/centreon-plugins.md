@@ -1,6 +1,6 @@
 # centreon/centreon-plugins - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 248
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 282 | 248 | 
 | 2023-01-04 | 282 | 248 | 
 | 2023-01-03 | 282 | 248 | 
 | 2023-01-02 | 282 | 247 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 282 | 247 | 
 | 2022-12-08 | 281 | 246 | 
 | 2022-12-07 | 281 | 246 | 
-| 2022-12-06 | 281 | 246 | 
 

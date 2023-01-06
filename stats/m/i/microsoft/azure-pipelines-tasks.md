@@ -1,8 +1,8 @@
 # microsoft/azure-pipelines-tasks - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 2430
+☋ Forks: 2431
 
 ★ Stars: 3156
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 3156 | 2431 | 
 | 2023-01-04 | 3156 | 2430 | 
 | 2023-01-03 | 3154 | 2428 | 
 | 2023-01-02 | 3154 | 2428 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 3143 | 2419 | 
 | 2022-12-08 | 3143 | 2418 | 
 | 2022-12-07 | 3143 | 2418 | 
-| 2022-12-06 | 3141 | 2416 | 
 

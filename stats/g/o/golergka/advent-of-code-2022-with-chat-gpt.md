@@ -1,6 +1,6 @@
 # golergka/advent-of-code-2022-with-chat-gpt - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 42 | 6 | 
 | 2023-01-04 | 42 | 6 | 
 | 2023-01-03 | 42 | 6 | 
 | 2023-01-02 | 42 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 37 | 6 | 
 | 2022-12-09 | 34 | 6 | 
 | 2022-12-07 | 31 | 6 | 
-| 2022-12-06 | 30 | 6 | 
 

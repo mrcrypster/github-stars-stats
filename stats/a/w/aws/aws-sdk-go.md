@@ -1,10 +1,10 @@
 # aws/aws-sdk-go - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 1986
+☋ Forks: 1985
 
-★ Stars: 8143
+★ Stars: 8144
 
 [Open repository](https://github.com/aws/aws-sdk-go)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 8144 | 1985 | 
 | 2023-01-04 | 8143 | 1986 | 
 | 2023-01-03 | 8143 | 1987 | 
 | 2023-01-02 | 8142 | 1987 | 

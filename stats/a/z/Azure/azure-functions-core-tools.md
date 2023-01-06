@@ -1,10 +1,10 @@
 # Azure/azure-functions-core-tools - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 331
 
-★ Stars: 1055
+★ Stars: 1056
 
 [Open repository](https://github.com/Azure/azure-functions-core-tools)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 1056 | 331 | 
 | 2023-01-04 | 1055 | 331 | 
 | 2023-01-03 | 1055 | 331 | 
 | 2023-01-02 | 1054 | 331 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 1045 | 328 | 
 | 2022-12-09 | 1045 | 328 | 
 | 2022-12-07 | 1044 | 328 | 
-| 2022-12-06 | 1044 | 328 | 
 

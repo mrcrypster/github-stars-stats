@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 05
 
-☋ Forks: 271
+☋ Forks: 273
 
-★ Stars: 2070
+★ Stars: 2076
 
 [Open repository](https://github.com/byt3bl33d3r/OffensiveNim)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-05 | 2070 | 271 | 
+| 2023-01-05 | 2076 | 273 | 
 | 2023-01-04 | 2070 | 271 | 
 | 2023-01-03 | 2049 | 269 | 
 | 2023-01-02 | 1984 | 268 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-09 | 1961 | 263 | 
 | 2022-12-08 | 1958 | 263 | 
 | 2022-12-07 | 1952 | 263 | 
-| 2022-12-06 | 1951 | 263 | 
 

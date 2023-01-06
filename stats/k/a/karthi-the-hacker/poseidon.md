@@ -1,10 +1,10 @@
 # karthi-the-hacker/poseidon - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 2
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/karthi-the-hacker/poseidon)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 10 | 2 | 
 | 2023-01-04 | 9 | 2 | 
 | 2023-01-03 | 9 | 2 | 
 | 2023-01-02 | 9 | 2 | 

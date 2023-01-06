@@ -1,10 +1,10 @@
 # lilxyzw/lilToon - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 44
 
-★ Stars: 496
+★ Stars: 499
 
 [Open repository](https://github.com/lilxyzw/lilToon)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 499 | 44 | 
 | 2023-01-04 | 496 | 44 | 
 | 2023-01-03 | 496 | 44 | 
 | 2023-01-02 | 494 | 44 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 482 | 41 | 
 | 2022-12-08 | 480 | 41 | 
 | 2022-12-07 | 480 | 40 | 
-| 2022-12-06 | 478 | 40 | 
 

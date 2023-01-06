@@ -1,10 +1,10 @@
 # powerline/fonts - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 3234
 
-★ Stars: 24203
+★ Stars: 24204
 
 [Open repository](https://github.com/powerline/fonts)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 24204 | 3234 | 
 | 2023-01-04 | 24203 | 3234 | 
 | 2023-01-03 | 24200 | 3234 | 
 | 2023-01-02 | 24196 | 3234 | 

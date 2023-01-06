@@ -1,8 +1,8 @@
 # fromann/heart - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 61
+☋ Forks: 60
 
 ★ Stars: 34
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 34 | 60 | 
 | 2023-01-05 | 34 | 61 | 
 | 2023-01-04 | 34 | 61 | 
 | 2023-01-02 | 34 | 60 | 

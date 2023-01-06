@@ -1,10 +1,10 @@
 # jikexueyuanwiki/tensorflow-zh - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 4277
 
-★ Stars: 12254
+★ Stars: 12255
 
 [Open repository](https://github.com/jikexueyuanwiki/tensorflow-zh)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 12255 | 4277 | 
 | 2023-01-04 | 12254 | 4277 | 
 | 2023-01-03 | 12254 | 4277 | 
 | 2023-01-02 | 12255 | 4277 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 12256 | 4280 | 
 | 2022-12-08 | 12256 | 4280 | 
 | 2022-12-07 | 12256 | 4280 | 
-| 2022-12-06 | 12255 | 4280 | 
 

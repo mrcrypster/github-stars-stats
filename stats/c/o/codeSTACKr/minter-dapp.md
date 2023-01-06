@@ -1,8 +1,8 @@
 # codeSTACKr/minter-dapp - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 3194
+☋ Forks: 3195
 
 ★ Stars: 1855
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 1855 | 3195 | 
 | 2023-01-04 | 1855 | 3194 | 
 | 2023-01-03 | 1855 | 3192 | 
 | 2023-01-02 | 1853 | 3189 | 

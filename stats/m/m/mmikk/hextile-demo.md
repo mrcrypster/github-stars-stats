@@ -1,10 +1,10 @@
 # mmikk/hextile-demo - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 31
 
-★ Stars: 800
+★ Stars: 801
 
 [Open repository](https://github.com/mmikk/hextile-demo)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 801 | 31 | 
 | 2023-01-05 | 800 | 31 | 
 | 2023-01-03 | 800 | 31 | 
 | 2023-01-02 | 799 | 31 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 789 | 29 | 
 | 2022-12-09 | 790 | 29 | 
 | 2022-12-08 | 789 | 29 | 
-| 2022-12-06 | 788 | 29 | 
 

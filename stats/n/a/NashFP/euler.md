@@ -1,6 +1,6 @@
 # NashFP/euler - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 7 | 8 | 
 | 2023-01-05 | 7 | 8 | 
 | 2023-01-03 | 7 | 8 | 
 | 2023-01-02 | 7 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 7 | 8 | 
 | 2022-12-09 | 7 | 8 | 
 | 2022-12-08 | 7 | 8 | 
-| 2022-12-06 | 7 | 8 | 
 

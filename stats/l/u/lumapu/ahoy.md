@@ -1,10 +1,10 @@
 # lumapu/ahoy - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 117
+☋ Forks: 118
 
-★ Stars: 395
+★ Stars: 396
 
 [Open repository](https://github.com/lumapu/ahoy)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 396 | 118 | 
 | 2023-01-04 | 395 | 117 | 
 | 2023-01-03 | 393 | 117 | 
 | 2023-01-02 | 393 | 117 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 363 | 111 | 
 | 2022-12-09 | 361 | 111 | 
 | 2022-12-08 | 359 | 111 | 
-| 2022-12-06 | 357 | 111 | 
 

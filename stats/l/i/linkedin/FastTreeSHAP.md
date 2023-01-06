@@ -1,10 +1,10 @@
 # linkedin/FastTreeSHAP - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 23
 
-★ Stars: 367
+★ Stars: 370
 
 [Open repository](https://github.com/linkedin/FastTreeSHAP)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 370 | 23 | 
 | 2023-01-04 | 367 | 23 | 
 | 2023-01-03 | 365 | 23 | 
 | 2023-01-02 | 364 | 23 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 354 | 22 | 
 | 2022-12-08 | 354 | 22 | 
 | 2022-12-07 | 354 | 22 | 
-| 2022-12-06 | 354 | 22 | 
 

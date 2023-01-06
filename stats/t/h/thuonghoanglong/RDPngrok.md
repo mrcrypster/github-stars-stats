@@ -1,6 +1,6 @@
 # thuonghoanglong/RDPngrok - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 100
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | - | 100 | 
+| 2023-01-05 | - | 100 | 
 | 2023-01-04 | - | 100 | 
 | 2023-01-03 | - | 100 | 
 | 2023-01-02 | - | 98 | 

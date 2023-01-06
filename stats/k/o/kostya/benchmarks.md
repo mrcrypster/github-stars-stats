@@ -1,6 +1,6 @@
 # kostya/benchmarks - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 244
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 2464 | 244 | 
 | 2023-01-04 | 2464 | 244 | 
 | 2023-01-03 | 2462 | 244 | 
 | 2023-01-02 | 2460 | 244 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 2434 | 242 | 
 | 2022-12-09 | 2434 | 243 | 
 | 2022-12-07 | 2433 | 243 | 
-| 2022-12-06 | 2433 | 243 | 
 

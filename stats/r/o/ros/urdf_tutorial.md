@@ -1,8 +1,8 @@
 # ros/urdf_tutorial - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 227
+☋ Forks: 226
 
 ★ Stars: 140
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 140 | 226 | 
 | 2023-01-04 | 140 | 227 | 
 | 2023-01-03 | 139 | 227 | 
 | 2023-01-02 | 138 | 227 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 136 | 223 | 
 | 2022-12-08 | 136 | 223 | 
 | 2022-12-07 | 136 | 223 | 
-| 2022-12-06 | 136 | 223 | 
 

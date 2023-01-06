@@ -1,10 +1,10 @@
 # tinymce/tinymce - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 2022
+☋ Forks: 2024
 
-★ Stars: 12366
+★ Stars: 12372
 
 [Open repository](https://github.com/tinymce/tinymce)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 12372 | 2024 | 
 | 2023-01-04 | 12366 | 2022 | 
 | 2023-01-03 | 12357 | 2021 | 
 | 2023-01-02 | 12353 | 2021 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 12259 | 2014 | 
 | 2022-12-09 | 12253 | 2014 | 
 | 2022-12-08 | 12248 | 2014 | 
-| 2022-12-06 | 12241 | 2012 | 
 

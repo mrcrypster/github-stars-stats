@@ -1,6 +1,6 @@
 # WeedwackerPS/DataParser - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 33 | 12 | 
 | 2023-01-04 | 33 | 12 | 
 | 2023-01-03 | 33 | 12 | 
 | 2023-01-02 | 32 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 20 | 6 | 
 | 2022-12-08 | 20 | 6 | 
 | 2022-12-07 | 20 | 6 | 
-| 2022-12-06 | 18 | 6 | 
 

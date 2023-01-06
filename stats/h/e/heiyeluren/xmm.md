@@ -1,6 +1,6 @@
 # heiyeluren/xmm - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 125
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 1056 | 125 | 
 | 2023-01-04 | 1056 | 125 | 
 | 2023-01-03 | 1056 | 125 | 
 | 2023-01-02 | 1056 | 125 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 1053 | 125 | 
 | 2022-12-09 | 1053 | 125 | 
 | 2022-12-08 | 1053 | 124 | 
-| 2022-12-06 | 1051 | 124 | 
 

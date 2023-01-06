@@ -1,10 +1,10 @@
 # dchapyshev/aspia - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 300
 
-★ Stars: 1234
+★ Stars: 1235
 
 [Open repository](https://github.com/dchapyshev/aspia)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 1235 | 300 | 
 | 2023-01-05 | 1234 | 300 | 
 | 2023-01-04 | 1234 | 300 | 
 | 2023-01-02 | 1233 | 300 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 1221 | 295 | 
 | 2022-12-09 | 1218 | 295 | 
 | 2022-12-07 | 1216 | 295 | 
-| 2022-12-06 | 1215 | 293 | 
 

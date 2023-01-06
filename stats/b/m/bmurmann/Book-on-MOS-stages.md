@@ -1,10 +1,10 @@
 # bmurmann/Book-on-MOS-stages - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 10
+☋ Forks: 11
 
-★ Stars: 213
+★ Stars: 225
 
 [Open repository](https://github.com/bmurmann/Book-on-MOS-stages)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 225 | 11 | 
 | 2023-01-04 | 213 | 10 | 
 | 2023-01-03 | 207 | 9 | 
 | 2023-01-02 | 169 | 9 | 

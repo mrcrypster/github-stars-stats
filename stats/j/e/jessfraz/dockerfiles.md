@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 05
 
 ☋ Forks: 2404
 
-★ Stars: 12919
+★ Stars: 12920
 
 [Open repository](https://github.com/jessfraz/dockerfiles)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-05 | 12919 | 2404 | 
+| 2023-01-05 | 12920 | 2404 | 
 | 2023-01-04 | 12919 | 2404 | 
 | 2023-01-03 | 12917 | 2402 | 
 | 2023-01-02 | 12914 | 2399 | 

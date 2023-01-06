@@ -1,8 +1,8 @@
 # wangxinleo/wechat-public-account-push - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 4286
+☋ Forks: 4287
 
 ★ Stars: 917
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 917 | 4287 | 
 | 2023-01-04 | 917 | 4286 | 
 | 2023-01-03 | 914 | 4282 | 
 | 2023-01-02 | 913 | 4277 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 889 | 4175 | 
 | 2022-12-08 | 888 | 4166 | 
 | 2022-12-07 | 888 | 4160 | 
-| 2022-12-06 | 885 | 4144 | 
 

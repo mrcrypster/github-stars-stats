@@ -1,6 +1,6 @@
 # AdheelAhmed-D3CD/We-Are-Siasians - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 3 | 25 | 
 | 2023-01-04 | 3 | 25 | 
 | 2023-01-03 | 3 | 25 | 
 | 2023-01-02 | 3 | 25 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 3 | 25 | 
 | 2022-12-08 | 3 | 25 | 
 | 2022-12-07 | 3 | 25 | 
-| 2022-12-06 | 3 | 25 | 
 

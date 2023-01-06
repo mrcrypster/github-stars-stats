@@ -1,10 +1,10 @@
 # bdebon/quick-parcel-project - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 84
 
-★ Stars: 190
+★ Stars: 189
 
 [Open repository](https://github.com/bdebon/quick-parcel-project)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 189 | 84 | 
 | 2023-01-04 | 190 | 84 | 
 | 2023-01-03 | 190 | 85 | 
 | 2023-01-01 | 190 | 85 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 189 | 84 | 
 | 2022-12-09 | 189 | 84 | 
 | 2022-12-08 | 189 | 84 | 
-| 2022-12-06 | 190 | 84 | 
 

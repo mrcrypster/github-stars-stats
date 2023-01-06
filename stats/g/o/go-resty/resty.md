@@ -1,10 +1,10 @@
 # go-resty/resty - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 552
+☋ Forks: 553
 
-★ Stars: 7134
+★ Stars: 7139
 
 [Open repository](https://github.com/go-resty/resty)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 7139 | 553 | 
 | 2023-01-04 | 7134 | 552 | 
 | 2023-01-03 | 7129 | 551 | 
 | 2023-01-02 | 7124 | 551 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 7056 | 549 | 
 | 2022-12-08 | 7053 | 549 | 
 | 2022-12-07 | 7050 | 547 | 
-| 2022-12-06 | 7037 | 546 | 
 

@@ -1,10 +1,10 @@
 # khchen/winim - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 32
 
-★ Stars: 370
+★ Stars: 371
 
 [Open repository](https://github.com/khchen/winim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 371 | 32 | 
 | 2023-01-04 | 370 | 32 | 
 | 2023-01-03 | 370 | 32 | 
 | 2023-01-02 | 370 | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 364 | 31 | 
 | 2022-12-09 | 363 | 31 | 
 | 2022-12-08 | 362 | 31 | 
-| 2022-12-06 | 361 | 31 | 
 

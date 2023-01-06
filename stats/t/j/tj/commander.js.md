@@ -1,10 +1,10 @@
 # tj/commander.js - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 1690
 
-★ Stars: 23979
+★ Stars: 23988
 
 [Open repository](https://github.com/tj/commander.js)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 23988 | 1690 | 
 | 2023-01-04 | 23979 | 1690 | 
 | 2023-01-03 | 23967 | 1690 | 
 | 2023-01-02 | 23962 | 1689 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 23855 | 1687 | 
 | 2022-12-08 | 23854 | 1686 | 
 | 2022-12-07 | 23845 | 1686 | 
-| 2022-12-06 | 23836 | 1687 | 
 

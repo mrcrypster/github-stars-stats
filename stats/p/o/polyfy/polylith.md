@@ -1,8 +1,8 @@
 # polyfy/polylith - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 33
+☋ Forks: 34
 
 ★ Stars: 366
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 366 | 34 | 
 | 2023-01-04 | 366 | 33 | 
 | 2023-01-03 | 364 | 33 | 
 | 2023-01-02 | 364 | 33 | 

@@ -1,10 +1,10 @@
 # libarchive/libarchive - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 632
 
-★ Stars: 1923
+★ Stars: 1924
 
 [Open repository](https://github.com/libarchive/libarchive)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 1924 | 632 | 
 | 2023-01-04 | 1923 | 632 | 
 | 2023-01-03 | 1922 | 633 | 
 | 2023-01-02 | 1922 | 633 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 1907 | 629 | 
 | 2022-12-09 | 1906 | 629 | 
 | 2022-12-08 | 1905 | 629 | 
-| 2022-12-06 | 1905 | 628 | 
 

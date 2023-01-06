@@ -1,6 +1,6 @@
 # deepfence/helm-charts - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 31 | 1 | 
 | 2023-01-04 | 31 | 1 | 
 | 2023-01-03 | 31 | 1 | 
 | 2023-01-02 | 31 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 31 | 1 | 
 | 2022-12-08 | 31 | 1 | 
 | 2022-12-07 | 31 | 1 | 
-| 2022-12-06 | 31 | 1 | 
 

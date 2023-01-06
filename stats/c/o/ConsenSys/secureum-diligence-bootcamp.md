@@ -1,6 +1,6 @@
 # ConsenSys/secureum-diligence-bootcamp - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 26 | 3 | 
 | 2023-01-04 | 26 | 3 | 
 | 2023-01-03 | 26 | 2 | 
 | 2023-01-02 | 26 | 2 | 

@@ -1,10 +1,10 @@
 # niconielsen32/ComputerVision - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 428
+☋ Forks: 429
 
-★ Stars: 537
+★ Stars: 538
 
 [Open repository](https://github.com/niconielsen32/ComputerVision)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 538 | 429 | 
 | 2023-01-04 | 537 | 428 | 
 | 2023-01-03 | 537 | 428 | 
 | 2023-01-02 | 536 | 428 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 509 | 409 | 
 | 2022-12-09 | 508 | 406 | 
 | 2022-12-08 | 506 | 406 | 
-| 2022-12-07 | 504 | 403 | 
 

@@ -1,6 +1,6 @@
 # netspooky/BGGP - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 85 | 9 | 
 | 2023-01-04 | 85 | 9 | 
 | 2023-01-03 | 85 | 9 | 
 | 2023-01-02 | 85 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 85 | 9 | 
 | 2022-12-09 | 85 | 9 | 
 | 2022-12-07 | 85 | 9 | 
-| 2022-12-06 | 85 | 9 | 
 

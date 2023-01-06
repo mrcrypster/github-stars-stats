@@ -1,10 +1,10 @@
 # munin-monitoring/munin - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 455
 
-★ Stars: 1740
+★ Stars: 1742
 
 [Open repository](https://github.com/munin-monitoring/munin)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 1742 | 455 | 
 | 2023-01-04 | 1740 | 455 | 
 | 2023-01-03 | 1740 | 455 | 
 | 2023-01-02 | 1739 | 455 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 1737 | 453 | 
 | 2022-12-09 | 1737 | 453 | 
 | 2022-12-08 | 1736 | 453 | 
-| 2022-12-07 | 1735 | 453 | 
 

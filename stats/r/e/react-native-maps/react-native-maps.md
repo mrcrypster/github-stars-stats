@@ -1,10 +1,10 @@
 # react-native-maps/react-native-maps - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 4768
 
-★ Stars: 13722
+★ Stars: 13727
 
 [Open repository](https://github.com/react-native-maps/react-native-maps)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 13727 | 4768 | 
 | 2023-01-04 | 13722 | 4768 | 
 | 2023-01-03 | 13721 | 4768 | 
 | 2023-01-02 | 13718 | 4766 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 13670 | 4763 | 
 | 2022-12-08 | 13669 | 4760 | 
 | 2022-12-07 | 13665 | 4756 | 
-| 2022-12-06 | 13662 | 4754 | 
 

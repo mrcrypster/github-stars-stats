@@ -1,10 +1,10 @@
 # open-mmlab/OpenPCDet - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 1023
+☋ Forks: 1025
 
-★ Stars: 3238
+★ Stars: 3244
 
 [Open repository](https://github.com/open-mmlab/OpenPCDet)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 3244 | 1025 | 
 | 2023-01-04 | 3238 | 1023 | 
 | 2023-01-03 | 3233 | 1022 | 
 | 2023-01-02 | 3229 | 1021 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 3193 | 1004 | 
 | 2022-12-08 | 3192 | 1003 | 
 | 2022-12-07 | 3187 | 1003 | 
-| 2022-12-06 | 3184 | 1002 | 
 

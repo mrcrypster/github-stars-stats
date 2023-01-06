@@ -1,6 +1,6 @@
 # Rahix/avr-hal - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 150
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 779 | 150 | 
 | 2023-01-04 | 779 | 150 | 
 | 2023-01-03 | 777 | 150 | 
 | 2023-01-02 | 776 | 150 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 744 | 143 | 
 | 2022-12-09 | 744 | 142 | 
 | 2022-12-08 | 743 | 142 | 
-| 2022-12-06 | 742 | 142 | 
 

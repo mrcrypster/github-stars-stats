@@ -1,10 +1,10 @@
 # 100daysofdevops/100daysofdevops - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 06
 
-☋ Forks: 687
+☋ Forks: 691
 
-★ Stars: 734
+★ Stars: 737
 
 [Open repository](https://github.com/100daysofdevops/100daysofdevops)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 737 | 691 | 
+| 2023-01-05 | 737 | 691 | 
 | 2023-01-04 | 734 | 687 | 
 | 2023-01-03 | 728 | 685 | 
 | 2023-01-02 | 728 | 684 | 
@@ -40,5 +42,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 695 | 661 | 
 | 2022-12-08 | 695 | 660 | 
 | 2022-12-07 | 692 | 660 | 
-| 2022-12-06 | 692 | 660 | 
 

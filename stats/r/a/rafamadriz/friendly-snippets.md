@@ -1,10 +1,10 @@
 # rafamadriz/friendly-snippets - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 224
 
-★ Stars: 850
+★ Stars: 853
 
 [Open repository](https://github.com/rafamadriz/friendly-snippets)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 853 | 224 | 
 | 2023-01-04 | 850 | 224 | 
 | 2023-01-03 | 850 | 225 | 
 | 2023-01-02 | 845 | 226 | 

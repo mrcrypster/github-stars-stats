@@ -1,6 +1,6 @@
 # antirez/adventofcode2022 - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 92 | 4 | 
 | 2023-01-04 | 92 | 4 | 
 | 2023-01-03 | 92 | 4 | 
 | 2023-01-02 | 91 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 69 | 2 | 
 | 2022-12-08 | 69 | 2 | 
 | 2022-12-07 | 66 | 2 | 
-| 2022-12-06 | 58 | 2 | 
 

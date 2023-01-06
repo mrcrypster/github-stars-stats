@@ -1,6 +1,6 @@
 # drewlearns/OS_100days - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 26 | 15 | 
 | 2023-01-04 | 26 | 15 | 
 | 2023-01-03 | 25 | 14 | 
 | 2023-01-02 | 19 | 12 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 19 | 12 | 
 | 2022-12-09 | 19 | 12 | 
 | 2022-12-08 | 19 | 12 | 
-| 2022-12-07 | 19 | 12 | 
 

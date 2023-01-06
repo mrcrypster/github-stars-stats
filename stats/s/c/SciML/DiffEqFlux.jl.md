@@ -1,6 +1,6 @@
 # SciML/DiffEqFlux.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 130
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 743 | 130 | 
 | 2023-01-04 | 743 | 130 | 
 | 2023-01-03 | 743 | 130 | 
 | 2023-01-02 | 743 | 130 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-09 | 736 | 130 | 
 | 2022-12-08 | 736 | 130 | 
 | 2022-12-07 | 736 | 131 | 
-| 2022-12-06 | 736 | 131 | 
 

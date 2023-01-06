@@ -1,8 +1,8 @@
 # algorithmzuo/algorithmbasic2020 - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 879
+☋ Forks: 880
 
 ★ Stars: 1053
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 1053 | 880 | 
 | 2023-01-04 | 1053 | 879 | 
 | 2023-01-03 | 1052 | 877 | 
 | 2023-01-02 | 1052 | 877 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 1037 | 867 | 
 | 2022-12-09 | 1037 | 867 | 
 | 2022-12-08 | 1036 | 866 | 
-| 2022-12-06 | 1035 | 866 | 
 

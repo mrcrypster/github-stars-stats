@@ -1,6 +1,6 @@
 # johnmyleswhite/ML_for_Hackers - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 2250
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 3634 | 2250 | 
 | 2023-01-04 | 3634 | 2250 | 
 | 2023-01-03 | 3633 | 2250 | 
 | 2023-01-02 | 3633 | 2250 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 3631 | 2251 | 
 | 2022-12-08 | 3631 | 2251 | 
 | 2022-12-07 | 3631 | 2251 | 
-| 2022-12-06 | 3630 | 2249 | 
 

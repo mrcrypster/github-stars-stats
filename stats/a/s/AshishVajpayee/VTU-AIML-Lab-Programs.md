@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 05
 
-☋ Forks: 75
+☋ Forks: 79
 
-★ Stars: 51
+★ Stars: 53
 
 [Open repository](https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-05 | 51 | 75 | 
+| 2023-01-05 | 53 | 79 | 
 | 2023-01-04 | 51 | 75 | 
 | 2023-01-03 | 48 | 60 | 
 | 2023-01-02 | 47 | 60 | 

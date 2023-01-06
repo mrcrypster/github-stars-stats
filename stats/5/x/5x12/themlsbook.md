@@ -1,8 +1,8 @@
 # 5x12/themlsbook - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 81
+☋ Forks: 80
 
 ★ Stars: 372
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 372 | 80 | 
 | 2023-01-04 | 372 | 81 | 
 | 2023-01-03 | 372 | 81 | 
 | 2023-01-02 | 372 | 81 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 373 | 80 | 
 | 2022-12-09 | 373 | 80 | 
 | 2022-12-08 | 373 | 80 | 
-| 2022-12-07 | 373 | 80 | 
 

@@ -1,6 +1,6 @@
 # hayabhay/whisper-ui - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 113 | 17 | 
 | 2023-01-05 | 113 | 17 | 
 | 2023-01-03 | 111 | 16 | 
 | 2023-01-02 | 110 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 101 | 14 | 
 | 2022-12-09 | 101 | 14 | 
 | 2022-12-08 | 101 | 14 | 
-| 2022-12-07 | 101 | 13 | 
 

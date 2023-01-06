@@ -1,10 +1,10 @@
 # 13rac1/twemoji-color-font - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 58
 
-★ Stars: 1396
+★ Stars: 1399
 
 [Open repository](https://github.com/13rac1/twemoji-color-font)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 1399 | 58 | 
 | 2023-01-04 | 1396 | 58 | 
 | 2023-01-03 | 1396 | 58 | 
 | 2023-01-02 | 1396 | 58 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 1387 | 57 | 
 | 2022-12-08 | 1386 | 57 | 
 | 2022-12-07 | 1386 | 57 | 
-| 2022-12-06 | 1386 | 57 | 
 

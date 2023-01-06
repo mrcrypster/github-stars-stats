@@ -1,10 +1,10 @@
 # matter-labs/zksync - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 487
 
-★ Stars: 1860
+★ Stars: 1864
 
 [Open repository](https://github.com/matter-labs/zksync)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 1864 | 487 | 
 | 2023-01-05 | 1860 | 487 | 
 | 2023-01-04 | 1858 | 486 | 
 | 2023-01-02 | 1854 | 484 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 1797 | 460 | 
 | 2022-12-09 | 1747 | 460 | 
 | 2022-12-08 | 1743 | 459 | 
-| 2022-12-06 | 1741 | 456 | 
 

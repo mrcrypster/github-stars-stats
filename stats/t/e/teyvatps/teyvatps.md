@@ -1,6 +1,6 @@
 # teyvatps/teyvatps - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 83 | 24 | 
 | 2023-01-04 | 83 | 24 | 
 | 2023-01-03 | 83 | 24 | 
 | 2023-01-02 | 83 | 24 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 79 | 25 | 
 | 2022-12-09 | 79 | 25 | 
 | 2022-12-08 | 79 | 25 | 
-| 2022-12-07 | 79 | 25 | 
 

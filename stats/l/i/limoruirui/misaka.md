@@ -1,10 +1,10 @@
 # limoruirui/misaka - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
-☋ Forks: 153
+☋ Forks: 154
 
-★ Stars: 289
+★ Stars: 291
 
 [Open repository](https://github.com/limoruirui/misaka)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 291 | 154 | 
 | 2023-01-04 | 289 | 153 | 
 | 2023-01-03 | 288 | 151 | 
 | 2023-01-02 | 287 | 149 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 278 | 132 | 
 | 2022-12-08 | 278 | 132 | 
 | 2022-12-07 | 274 | 132 | 
-| 2022-12-06 | 273 | 129 | 
 

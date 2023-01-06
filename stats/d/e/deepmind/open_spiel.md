@@ -1,10 +1,10 @@
 # deepmind/open_spiel - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 764
 
-★ Stars: 3502
+★ Stars: 3503
 
 [Open repository](https://github.com/deepmind/open_spiel)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 3503 | 764 | 
 | 2023-01-04 | 3502 | 764 | 
 | 2023-01-03 | 3499 | 764 | 
 | 2023-01-02 | 3500 | 762 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 3465 | 752 | 
 | 2022-12-09 | 3460 | 751 | 
 | 2022-12-08 | 3453 | 750 | 
-| 2022-12-07 | 3448 | 751 | 
 

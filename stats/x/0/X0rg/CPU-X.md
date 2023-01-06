@@ -1,10 +1,10 @@
 # X0rg/CPU-X - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 101
 
-★ Stars: 1510
+★ Stars: 1513
 
 [Open repository](https://github.com/X0rg/CPU-X)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 1513 | 101 | 
 | 2023-01-04 | 1510 | 101 | 
 | 2023-01-03 | 1508 | 101 | 
 | 2023-01-02 | 1508 | 101 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | 1476 | 98 | 
 | 2022-12-09 | 1473 | 98 | 
 | 2022-12-08 | 1473 | 98 | 
-| 2022-12-06 | 1472 | 98 | 
 

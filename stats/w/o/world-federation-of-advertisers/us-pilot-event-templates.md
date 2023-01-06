@@ -1,10 +1,10 @@
 # world-federation-of-advertisers/us-pilot-event-templates - stars & forks statistics
 
-Stats updated on Jan 2023, 04
+Stats updated on Jan 2023, 05
 
 ☋ Forks: 0
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/world-federation-of-advertisers/us-pilot-event-templates)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-05 | 1 | - | 
 | 2023-01-04 | - | - | 
 | 2023-01-03 | - | - | 
 | 2023-01-02 | - | - | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 04
 | 2022-12-10 | - | - | 
 | 2022-12-09 | - | - | 
 | 2022-12-07 | - | - | 
-| 2022-12-06 | - | - | 
 
