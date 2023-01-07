@@ -1,10 +1,10 @@
 # cassidoo/better-security-questions - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 30
 
-★ Stars: 138
+★ Stars: 139
 
 [Open repository](https://github.com/cassidoo/better-security-questions)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 139 | 30 | 
 | 2023-01-05 | 138 | 30 | 
 | 2023-01-04 | 137 | 30 | 
 | 2023-01-03 | 137 | 30 | 

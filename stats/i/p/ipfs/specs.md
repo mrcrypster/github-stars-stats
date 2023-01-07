@@ -1,10 +1,10 @@
 # ipfs/specs - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 229
 
-★ Stars: 1031
+★ Stars: 1032
 
 [Open repository](https://github.com/ipfs/specs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 1032 | 229 | 
 | 2023-01-05 | 1031 | 229 | 
 | 2023-01-04 | 1031 | 229 | 
 | 2023-01-03 | 1031 | 229 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 1028 | 226 | 
 | 2022-12-09 | 1028 | 226 | 
 | 2022-12-08 | 1028 | 226 | 
-| 2022-12-07 | 1028 | 226 | 
 

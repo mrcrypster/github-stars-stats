@@ -1,10 +1,10 @@
 # pkmncoraldev/polishedcoral - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 4
 
-★ Stars: 35
+★ Stars: 37
 
 [Open repository](https://github.com/pkmncoraldev/polishedcoral)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 37 | 4 | 
 | 2023-01-05 | 35 | 4 | 
 | 2023-01-04 | 34 | 4 | 
 | 2023-01-03 | 34 | 4 | 

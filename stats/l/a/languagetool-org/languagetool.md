@@ -1,6 +1,6 @@
 # languagetool-org/languagetool - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 1007
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 8035 | 1007 | 
 | 2023-01-05 | 8035 | 1007 | 
 | 2023-01-04 | 8028 | 1007 | 
 | 2023-01-03 | 8027 | 1006 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 7928 | 1001 | 
 | 2022-12-10 | 7924 | 1001 | 
 | 2022-12-09 | 7920 | 1000 | 
-| 2022-12-07 | 7917 | 1000 | 
 

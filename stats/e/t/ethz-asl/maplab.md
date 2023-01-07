@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 06
 
 ☋ Forks: 645
 
-★ Stars: 2024
+★ Stars: 2026
 
 [Open repository](https://github.com/ethz-asl/maplab)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-06 | 2024 | 645 | 
+| 2023-01-06 | 2026 | 645 | 
 | 2023-01-05 | 2024 | 645 | 
 | 2023-01-04 | 2014 | 645 | 
 | 2023-01-03 | 2002 | 641 | 
@@ -41,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-10 | 1938 | 626 | 
 | 2022-12-09 | 1937 | 626 | 
 | 2022-12-08 | 1933 | 626 | 
-| 2022-12-07 | 1932 | 626 | 
 

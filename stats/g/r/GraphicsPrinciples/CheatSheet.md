@@ -1,6 +1,6 @@
 # GraphicsPrinciples/CheatSheet - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 168 | 45 | 
 | 2023-01-05 | 168 | 45 | 
 | 2023-01-04 | 168 | 45 | 
 | 2023-01-03 | 168 | 45 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 168 | 43 | 
 | 2022-12-10 | 168 | 43 | 
 | 2022-12-09 | 168 | 43 | 
-| 2022-12-07 | 168 | 43 | 
 

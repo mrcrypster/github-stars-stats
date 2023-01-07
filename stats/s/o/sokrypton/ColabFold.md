@@ -1,10 +1,10 @@
 # sokrypton/ColabFold - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 281
 
-★ Stars: 1029
+★ Stars: 1030
 
 [Open repository](https://github.com/sokrypton/ColabFold)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 1030 | 281 | 
 | 2023-01-05 | 1029 | 281 | 
 | 2023-01-04 | 1028 | 281 | 
 | 2023-01-03 | 1028 | 281 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 1002 | 272 | 
 | 2022-12-10 | 999 | 272 | 
 | 2022-12-09 | 999 | 271 | 
-| 2022-12-07 | 999 | 271 | 
 

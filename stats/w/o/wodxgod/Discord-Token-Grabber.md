@@ -1,10 +1,10 @@
 # wodxgod/Discord-Token-Grabber - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 1227
 
-★ Stars: 443
+★ Stars: 444
 
 [Open repository](https://github.com/wodxgod/Discord-Token-Grabber)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 444 | 1227 | 
 | 2023-01-05 | 443 | 1227 | 
 | 2023-01-04 | 443 | 1227 | 
 | 2023-01-03 | 440 | 1227 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 432 | 1212 | 
 | 2022-12-10 | 432 | 1210 | 
 | 2022-12-09 | 432 | 1209 | 
-| 2022-12-07 | 432 | 1209 | 
 

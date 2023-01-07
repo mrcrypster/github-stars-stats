@@ -1,6 +1,6 @@
 # erebe/wstunnel - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 161
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 1405 | 161 | 
 | 2023-01-05 | 1405 | 161 | 
 | 2023-01-04 | 1404 | 161 | 
 | 2023-01-03 | 1402 | 160 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 1369 | 156 | 
 | 2022-12-10 | 1362 | 156 | 
 | 2022-12-08 | 1361 | 156 | 
-| 2022-12-07 | 1360 | 156 | 
 

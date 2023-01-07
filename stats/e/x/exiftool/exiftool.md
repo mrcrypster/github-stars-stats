@@ -1,10 +1,10 @@
 # exiftool/exiftool - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 236
 
-★ Stars: 1762
+★ Stars: 1765
 
 [Open repository](https://github.com/exiftool/exiftool)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 1765 | 236 | 
 | 2023-01-05 | 1762 | 236 | 
 | 2023-01-04 | 1760 | 236 | 
 | 2023-01-03 | 1757 | 236 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 1732 | 232 | 
 | 2022-12-09 | 1732 | 232 | 
 | 2022-12-08 | 1730 | 232 | 
-| 2022-12-07 | 1728 | 232 | 
 

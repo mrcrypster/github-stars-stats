@@ -1,8 +1,8 @@
 # griddb/griddb - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 4612
+☋ Forks: 4615
 
 ★ Stars: 1949
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 1949 | 4615 | 
 | 2023-01-05 | 1949 | 4612 | 
 | 2023-01-04 | 1947 | 4608 | 
 | 2023-01-02 | 1946 | 4608 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 1934 | 4580 | 
 | 2022-12-09 | 1932 | 4577 | 
 | 2022-12-08 | 1930 | 4577 | 
-| 2022-12-07 | 1930 | 4575 | 
 

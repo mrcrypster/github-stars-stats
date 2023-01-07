@@ -1,10 +1,10 @@
 # clj-kondo/configs - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 2
 
-★ Stars: 11
+★ Stars: 10
 
 [Open repository](https://github.com/clj-kondo/configs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 10 | 2 | 
 | 2023-01-05 | 11 | 2 | 
 | 2023-01-04 | 11 | 2 | 
 | 2023-01-03 | 11 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 11 | 2 | 
 | 2022-12-09 | 11 | 2 | 
 | 2022-12-08 | 11 | 2 | 
-| 2022-12-07 | 11 | 1 | 
 

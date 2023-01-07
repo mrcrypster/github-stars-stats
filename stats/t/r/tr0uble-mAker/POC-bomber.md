@@ -1,10 +1,10 @@
 # tr0uble-mAker/POC-bomber - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 288
 
-★ Stars: 1408
+★ Stars: 1411
 
 [Open repository](https://github.com/tr0uble-mAker/POC-bomber)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 1411 | 288 | 
 | 2023-01-05 | 1408 | 288 | 
 | 2023-01-04 | 1408 | 289 | 
 | 2023-01-03 | 1404 | 289 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 1357 | 280 | 
 | 2022-12-09 | 1356 | 280 | 
 | 2022-12-08 | 1354 | 280 | 
-| 2022-12-07 | 1351 | 279 | 
 

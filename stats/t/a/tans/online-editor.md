@@ -1,10 +1,10 @@
 # tans/online-editor - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 6
 
-★ Stars: 24
+★ Stars: 23
 
 [Open repository](https://github.com/tans/online-editor)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 23 | 6 | 
 | 2023-01-05 | 24 | 6 | 
 | 2023-01-04 | 24 | 6 | 
 | 2023-01-03 | 24 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 23 | 6 | 
 | 2022-12-09 | 23 | 6 | 
 | 2022-12-08 | 23 | 6 | 
-| 2022-12-07 | 23 | 6 | 
 

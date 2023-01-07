@@ -1,8 +1,8 @@
 # haskell-CI/haskell-ci - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 63
+☋ Forks: 64
 
 ★ Stars: 404
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 404 | 64 | 
 | 2023-01-05 | 404 | 63 | 
 | 2023-01-04 | 404 | 63 | 
 | 2023-01-03 | 404 | 63 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 404 | 63 | 
 | 2022-12-09 | 404 | 63 | 
 | 2022-12-08 | 404 | 63 | 
-| 2022-12-07 | 404 | 63 | 
 

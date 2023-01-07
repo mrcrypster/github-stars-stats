@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 06
 
-☋ Forks: 958
+☋ Forks: 960
 
-★ Stars: 5864
+★ Stars: 5873
 
 [Open repository](https://github.com/febobo/web-interview)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-06 | 5864 | 958 | 
+| 2023-01-06 | 5873 | 960 | 
 | 2023-01-05 | 5864 | 958 | 
 | 2023-01-04 | 5849 | 957 | 
 | 2023-01-03 | 5834 | 955 | 
@@ -41,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 5725 | 947 | 
 | 2022-12-10 | 5722 | 947 | 
 | 2022-12-08 | 5714 | 946 | 
-| 2022-12-07 | 5711 | 947 | 
 

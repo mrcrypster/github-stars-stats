@@ -1,6 +1,6 @@
 # datalorax/equatiomatic - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 566 | 37 | 
 | 2023-01-05 | 566 | 37 | 
 | 2023-01-04 | 566 | 37 | 
 | 2023-01-03 | 566 | 37 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 566 | 37 | 
 | 2022-12-09 | 566 | 37 | 
 | 2022-12-08 | 566 | 37 | 
-| 2022-12-07 | 566 | 37 | 
 

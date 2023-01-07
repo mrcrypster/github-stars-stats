@@ -1,10 +1,10 @@
 # exercism/zig - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 15
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/exercism/zig)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 26 | 15 | 
 | 2023-01-05 | 25 | 15 | 
 | 2023-01-04 | 25 | 15 | 
 | 2023-01-03 | 25 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 22 | 15 | 
 | 2022-12-10 | 22 | 15 | 
 | 2022-12-08 | 22 | 15 | 
-| 2022-12-07 | 22 | 15 | 
 

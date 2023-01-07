@@ -1,6 +1,6 @@
 # indra0421/Express_js - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 10 | 16 | 
 | 2023-01-05 | 10 | 16 | 
 | 2023-01-04 | 10 | 16 | 
 | 2023-01-03 | 10 | 16 | 

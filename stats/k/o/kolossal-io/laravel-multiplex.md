@@ -1,6 +1,6 @@
 # kolossal-io/laravel-multiplex - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 216 | 7 | 
 | 2023-01-06 | 216 | 7 | 
 | 2023-01-05 | 213 | 7 | 
 | 2023-01-03 | 213 | 7 | 

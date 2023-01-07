@@ -1,6 +1,6 @@
 # omxmo/qg - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 253 | 40 | 
 | 2023-01-05 | 253 | 40 | 
 | 2023-01-04 | 254 | 40 | 
 | 2023-01-03 | 254 | 40 | 

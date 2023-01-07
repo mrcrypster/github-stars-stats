@@ -1,6 +1,6 @@
 # zendesk/clj-headlights - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 25 | 9 | 
 | 2023-01-05 | 25 | 9 | 
 | 2023-01-04 | 25 | 9 | 
 | 2023-01-03 | 25 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 25 | 9 | 
 | 2022-12-10 | 25 | 9 | 
 | 2022-12-09 | 25 | 9 | 
-| 2022-12-07 | 25 | 9 | 
 

@@ -1,10 +1,10 @@
 # sql-bi/Contoso-Data-Generator - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 20
 
-★ Stars: 97
+★ Stars: 98
 
 [Open repository](https://github.com/sql-bi/Contoso-Data-Generator)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 98 | 20 | 
 | 2023-01-06 | 97 | 20 | 
 | 2023-01-04 | 97 | 20 | 
 | 2023-01-03 | 97 | 20 | 

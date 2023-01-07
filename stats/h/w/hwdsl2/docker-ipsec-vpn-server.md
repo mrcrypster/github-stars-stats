@@ -1,10 +1,10 @@
 # hwdsl2/docker-ipsec-vpn-server - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 1207
 
-★ Stars: 5208
+★ Stars: 5210
 
 [Open repository](https://github.com/hwdsl2/docker-ipsec-vpn-server)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 5210 | 1207 | 
 | 2023-01-05 | 5208 | 1207 | 
 | 2023-01-04 | 5207 | 1207 | 
 | 2023-01-03 | 5203 | 1206 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 5159 | 1194 | 
 | 2022-12-10 | 5157 | 1193 | 
 | 2022-12-08 | 5156 | 1193 | 
-| 2022-12-07 | 5154 | 1193 | 
 

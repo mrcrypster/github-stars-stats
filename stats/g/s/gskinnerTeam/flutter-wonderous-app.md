@@ -1,10 +1,10 @@
 # gskinnerTeam/flutter-wonderous-app - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 526
+☋ Forks: 528
 
-★ Stars: 2373
+★ Stars: 2389
 
 [Open repository](https://github.com/gskinnerTeam/flutter-wonderous-app)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 2389 | 528 | 
 | 2023-01-05 | 2373 | 526 | 
 | 2023-01-04 | 2331 | 522 | 
 | 2023-01-03 | 2320 | 521 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 2228 | 498 | 
 | 2022-12-09 | 2225 | 498 | 
 | 2022-12-08 | 2221 | 498 | 
-| 2022-12-07 | 2211 | 497 | 
 

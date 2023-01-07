@@ -1,6 +1,6 @@
 # skyming/iOS-Performance-Optimization - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 1055
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 4542 | 1055 | 
 | 2023-01-05 | 4542 | 1055 | 
 | 2023-01-04 | 4542 | 1054 | 
 | 2023-01-03 | 4541 | 1054 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 4537 | 1052 | 
 | 2022-12-09 | 4537 | 1052 | 
 | 2022-12-08 | 4537 | 1052 | 
-| 2022-12-07 | 4537 | 1052 | 
 

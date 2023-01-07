@@ -1,8 +1,8 @@
 # LandmakTechnology/jenkins-ansible-dynamic-inv - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 54
+☋ Forks: 53
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | - | 53 | 
 | 2023-01-05 | - | 54 | 
 | 2023-01-04 | - | 52 | 
 | 2023-01-03 | - | 52 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | - | 27 | 
 | 2022-12-09 | - | 26 | 
 | 2022-12-08 | - | 24 | 
-| 2022-12-07 | - | 18 | 
 

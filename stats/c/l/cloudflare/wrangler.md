@@ -1,10 +1,10 @@
 # cloudflare/wrangler - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 387
 
-★ Stars: 3209
+★ Stars: 3210
 
 [Open repository](https://github.com/cloudflare/wrangler)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 3210 | 387 | 
 | 2023-01-05 | 3209 | 387 | 
 | 2023-01-04 | 3209 | 386 | 
 | 2023-01-03 | 3207 | 386 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 3183 | 384 | 
 | 2022-12-10 | 3180 | 384 | 
 | 2022-12-09 | 3178 | 384 | 
-| 2022-12-07 | 3176 | 383 | 
 

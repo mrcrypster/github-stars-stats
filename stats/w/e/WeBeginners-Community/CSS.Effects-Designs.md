@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 06
 
-☋ Forks: 142
+☋ Forks: 145
 
-★ Stars: 91
+★ Stars: 92
 
 [Open repository](https://github.com/WeBeginners-Community/CSS.Effects-Designs)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-06 | 91 | 142 | 
+| 2023-01-06 | 92 | 145 | 
 | 2023-01-05 | 91 | 142 | 
 | 2023-01-04 | 88 | 137 | 
 | 2023-01-03 | 83 | 129 | 
@@ -41,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 66 | 114 | 
 | 2022-12-09 | 66 | 114 | 
 | 2022-12-08 | 64 | 114 | 
-| 2022-12-07 | 64 | 114 | 
 

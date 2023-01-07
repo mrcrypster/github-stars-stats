@@ -1,10 +1,10 @@
 # button/DeepLinkKit - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 288
 
-★ Stars: 3421
+★ Stars: 3420
 
 [Open repository](https://github.com/button/DeepLinkKit)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 3420 | 288 | 
 | 2023-01-05 | 3421 | 288 | 
 | 2023-01-04 | 3421 | 288 | 
 | 2023-01-03 | 3421 | 288 | 

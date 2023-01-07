@@ -1,6 +1,6 @@
 # jedrzejboczar/possession.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 170 | 3 | 
 | 2023-01-05 | 170 | 3 | 
 | 2023-01-04 | 169 | 3 | 
 | 2023-01-03 | 169 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 162 | 2 | 
 | 2022-12-10 | 161 | 2 | 
 | 2022-12-09 | 160 | 2 | 
-| 2022-12-07 | 160 | 2 | 
 

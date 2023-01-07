@@ -1,6 +1,6 @@
 # goharbor/harbor-helm - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 735
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 911 | 735 | 
 | 2023-01-05 | 911 | 735 | 
 | 2023-01-04 | 911 | 734 | 
 | 2023-01-03 | 910 | 734 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 903 | 727 | 
 | 2022-12-09 | 903 | 727 | 
 | 2022-12-08 | 903 | 726 | 
-| 2022-12-07 | 903 | 725 | 
 

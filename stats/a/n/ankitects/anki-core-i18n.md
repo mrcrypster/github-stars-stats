@@ -1,6 +1,6 @@
 # ankitects/anki-core-i18n - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 11 | 6 | 
 | 2023-01-05 | 11 | 6 | 
 | 2023-01-04 | 11 | 6 | 
 | 2023-01-03 | 11 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 11 | 6 | 
 | 2022-12-09 | 11 | 6 | 
 | 2022-12-08 | 11 | 6 | 
-| 2022-12-07 | 11 | 6 | 
 

@@ -1,6 +1,6 @@
 # DeterminateSystems/nix-github-actions - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 17 | - | 
 | 2023-01-06 | 17 | - | 
 | 2023-01-04 | 17 | - | 
 | 2023-01-03 | 17 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 17 | - | 
 | 2022-12-09 | 17 | - | 
 | 2022-12-08 | 17 | - | 
-| 2022-12-07 | 17 | - | 
 

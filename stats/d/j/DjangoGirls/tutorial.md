@@ -1,8 +1,8 @@
 # DjangoGirls/tutorial - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 07
 
-☋ Forks: 1804
+☋ Forks: 1805
 
 ★ Stars: 1423
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 1423 | 1805 | 
 | 2023-01-05 | 1423 | 1804 | 
 | 2023-01-04 | 1423 | 1803 | 
 | 2023-01-03 | 1423 | 1801 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 1420 | 1802 | 
 | 2022-12-09 | 1420 | 1801 | 
 | 2022-12-08 | 1420 | 1801 | 
-| 2022-12-07 | 1420 | 1801 | 
 

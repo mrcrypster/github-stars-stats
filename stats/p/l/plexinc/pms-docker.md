@@ -1,10 +1,10 @@
 # plexinc/pms-docker - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 456
+☋ Forks: 457
 
-★ Stars: 2386
+★ Stars: 2387
 
 [Open repository](https://github.com/plexinc/pms-docker)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 2387 | 457 | 
 | 2023-01-05 | 2386 | 456 | 
 | 2023-01-04 | 2386 | 457 | 
 | 2023-01-03 | 2386 | 457 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 2363 | 455 | 
 | 2022-12-10 | 2362 | 455 | 
 | 2022-12-09 | 2360 | 455 | 
-| 2022-12-07 | 2358 | 455 | 
 

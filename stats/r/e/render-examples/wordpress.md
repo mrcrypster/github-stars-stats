@@ -1,8 +1,8 @@
 # render-examples/wordpress - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
-☋ Forks: 81
+☋ Forks: 82
 
 ★ Stars: 15
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 15 | 82 | 
 | 2023-01-06 | 15 | 81 | 
 | 2023-01-04 | 15 | 81 | 
 | 2023-01-03 | 15 | 81 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 15 | 74 | 
 | 2022-12-10 | 15 | 74 | 
 | 2022-12-09 | 15 | 74 | 
-| 2022-12-07 | 14 | 74 | 
 

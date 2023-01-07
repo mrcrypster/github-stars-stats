@@ -1,10 +1,10 @@
 # cshuaimin/ssr.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 3
 
-★ Stars: 487
+★ Stars: 488
 
 [Open repository](https://github.com/cshuaimin/ssr.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 488 | 3 | 
 | 2023-01-05 | 487 | 3 | 
 | 2023-01-04 | 487 | 3 | 
 | 2023-01-03 | 487 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 450 | 3 | 
 | 2022-12-10 | 451 | 3 | 
 | 2022-12-08 | 448 | 3 | 
-| 2022-12-07 | 445 | 3 | 
 

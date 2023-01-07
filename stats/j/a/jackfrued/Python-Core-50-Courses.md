@@ -1,10 +1,10 @@
 # jackfrued/Python-Core-50-Courses - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 2024
+☋ Forks: 2029
 
-★ Stars: 6728
+★ Stars: 6735
 
 [Open repository](https://github.com/jackfrued/Python-Core-50-Courses)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 6735 | 2029 | 
 | 2023-01-05 | 6728 | 2024 | 
 | 2023-01-04 | 6726 | 2022 | 
 | 2023-01-03 | 6725 | 2023 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 6647 | 2000 | 
 | 2022-12-09 | 6640 | 1999 | 
 | 2022-12-08 | 6637 | 2000 | 
-| 2022-12-07 | 6635 | 1998 | 
 

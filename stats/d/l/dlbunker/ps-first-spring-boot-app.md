@@ -1,10 +1,10 @@
 # dlbunker/ps-first-spring-boot-app - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 415
 
-★ Stars: 131
+★ Stars: 132
 
 [Open repository](https://github.com/dlbunker/ps-first-spring-boot-app)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 132 | 415 | 
 | 2023-01-05 | 131 | 415 | 
 | 2023-01-04 | 131 | 415 | 
 | 2023-01-03 | 131 | 415 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 130 | 411 | 
 | 2022-12-09 | 130 | 411 | 
 | 2022-12-08 | 130 | 411 | 
-| 2022-12-07 | 130 | 411 | 
 

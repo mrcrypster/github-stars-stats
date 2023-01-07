@@ -1,8 +1,8 @@
 # dccice/jdautojs - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 82
+☋ Forks: 81
 
 ★ Stars: 104
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 104 | 81 | 
 | 2023-01-05 | 104 | 82 | 
 | 2023-01-04 | 104 | 82 | 
 | 2023-01-03 | 104 | 82 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 105 | 82 | 
 | 2022-12-10 | 105 | 82 | 
 | 2022-12-09 | 105 | 82 | 
-| 2022-12-07 | 105 | 82 | 
 

@@ -1,6 +1,6 @@
 # hmrc/jenkins-jobs - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 120
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 23 | 120 | 
 | 2023-01-05 | 23 | 120 | 
 | 2023-01-04 | 23 | 120 | 
 | 2023-01-03 | 23 | 120 | 

@@ -1,10 +1,10 @@
 # drush-ops/drush - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 1079
+☋ Forks: 1078
 
-★ Stars: 2272
+★ Stars: 2273
 
 [Open repository](https://github.com/drush-ops/drush)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 2273 | 1078 | 
 | 2023-01-05 | 2272 | 1079 | 
 | 2023-01-04 | 2272 | 1079 | 
 | 2023-01-03 | 2271 | 1079 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 2269 | 1081 | 
 | 2022-12-10 | 2269 | 1081 | 
 | 2022-12-08 | 2268 | 1080 | 
-| 2022-12-07 | 2268 | 1080 | 
 

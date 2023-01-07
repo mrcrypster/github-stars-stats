@@ -1,8 +1,8 @@
 # open-osrs/runelite - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 445
+☋ Forks: 444
 
 ★ Stars: 308
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 308 | 444 | 
 | 2023-01-05 | 308 | 445 | 
 | 2023-01-04 | 308 | 445 | 
 | 2023-01-03 | 308 | 447 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 305 | 448 | 
 | 2022-12-09 | 305 | 448 | 
 | 2022-12-08 | 304 | 448 | 
-| 2022-12-07 | 304 | 449 | 
 

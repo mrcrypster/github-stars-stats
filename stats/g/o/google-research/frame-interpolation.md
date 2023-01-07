@@ -1,10 +1,10 @@
 # google-research/frame-interpolation - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 158
+☋ Forks: 159
 
-★ Stars: 1630
+★ Stars: 1633
 
 [Open repository](https://github.com/google-research/frame-interpolation)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 1633 | 159 | 
 | 2023-01-05 | 1630 | 158 | 
 | 2023-01-04 | 1627 | 158 | 
 | 2023-01-03 | 1626 | 158 | 

@@ -1,6 +1,6 @@
 # Aashu-Dubey/React-Native-UI-Templates - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 107
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 646 | 107 | 
 | 2023-01-05 | 646 | 107 | 
 | 2023-01-04 | 646 | 107 | 
 | 2023-01-03 | 646 | 107 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 633 | 103 | 
 | 2022-12-09 | 631 | 103 | 
 | 2022-12-08 | 630 | 103 | 
-| 2022-12-07 | 627 | 103 | 
 

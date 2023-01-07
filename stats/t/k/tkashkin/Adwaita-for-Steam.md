@@ -1,10 +1,10 @@
 # tkashkin/Adwaita-for-Steam - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 10
 
-★ Stars: 544
+★ Stars: 548
 
 [Open repository](https://github.com/tkashkin/Adwaita-for-Steam)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 548 | 10 | 
 | 2023-01-05 | 544 | 10 | 
 | 2023-01-04 | 542 | 10 | 
 | 2023-01-03 | 539 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 488 | 8 | 
 | 2022-12-10 | 480 | 8 | 
 | 2022-12-09 | 449 | 7 | 
-| 2022-12-07 | 436 | 7 | 
 

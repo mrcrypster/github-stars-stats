@@ -1,8 +1,8 @@
 # JoelGMSec/EvilnoVNC - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 77
+☋ Forks: 78
 
 ★ Stars: 542
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 542 | 78 | 
 | 2023-01-05 | 542 | 77 | 
 | 2023-01-04 | 541 | 77 | 
 | 2023-01-03 | 539 | 76 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 519 | 74 | 
 | 2022-12-09 | 518 | 74 | 
 | 2022-12-08 | 518 | 74 | 
-| 2022-12-07 | 517 | 74 | 
 

@@ -1,6 +1,6 @@
 # tannerhelland/PhotoDemon - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 158
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 876 | 158 | 
 | 2023-01-05 | 876 | 158 | 
 | 2023-01-04 | 875 | 158 | 
 | 2023-01-03 | 873 | 158 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 866 | 157 | 
 | 2022-12-09 | 865 | 158 | 
 | 2022-12-08 | 865 | 158 | 
-| 2022-12-07 | 865 | 158 | 
 

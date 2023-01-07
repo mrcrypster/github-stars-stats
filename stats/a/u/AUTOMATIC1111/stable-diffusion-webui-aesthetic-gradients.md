@@ -1,10 +1,10 @@
 # AUTOMATIC1111/stable-diffusion-webui-aesthetic-gradients - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
-☋ Forks: 20
+☋ Forks: 21
 
-★ Stars: 146
+★ Stars: 147
 
 [Open repository](https://github.com/AUTOMATIC1111/stable-diffusion-webui-aesthetic-gradients)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 147 | 21 | 
 | 2023-01-06 | 146 | 20 | 
 | 2023-01-04 | 146 | 18 | 
 | 2023-01-03 | 145 | 18 | 

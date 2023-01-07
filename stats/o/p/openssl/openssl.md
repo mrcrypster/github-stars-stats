@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 06
 
-☋ Forks: 8734
+☋ Forks: 8736
 
-★ Stars: 20529
+★ Stars: 20531
 
 [Open repository](https://github.com/openssl/openssl)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-06 | 20529 | 8734 | 
+| 2023-01-06 | 20531 | 8736 | 
 | 2023-01-05 | 20529 | 8734 | 
 | 2023-01-04 | 20519 | 8731 | 
 | 2023-01-03 | 20514 | 8724 | 

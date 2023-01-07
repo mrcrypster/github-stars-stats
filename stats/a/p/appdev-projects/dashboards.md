@@ -1,6 +1,6 @@
 # appdev-projects/dashboards - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 649
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | - | 649 | 
 | 2023-01-06 | - | 649 | 
 | 2023-01-04 | - | 649 | 
 | 2023-01-03 | - | 649 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-10 | - | 649 | 
 | 2022-12-09 | - | 649 | 
 | 2022-12-08 | - | 649 | 
-| 2022-12-07 | - | 649 | 
 

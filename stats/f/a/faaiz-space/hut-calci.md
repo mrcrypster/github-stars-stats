@@ -1,6 +1,6 @@
 # faaiz-space/hut-calci - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 14 | 14 | 
 | 2023-01-06 | 14 | 14 | 
 | 2023-01-04 | 14 | 14 | 
 | 2023-01-03 | 14 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 15 | 17 | 
 | 2022-12-10 | 15 | 17 | 
 | 2022-12-09 | 15 | 17 | 
-| 2022-12-07 | 15 | 17 | 
 

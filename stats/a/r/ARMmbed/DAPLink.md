@@ -1,10 +1,10 @@
 # ARMmbed/DAPLink - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 838
 
-★ Stars: 1694
+★ Stars: 1695
 
 [Open repository](https://github.com/ARMmbed/DAPLink)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 1695 | 838 | 
 | 2023-01-05 | 1694 | 838 | 
 | 2023-01-04 | 1690 | 838 | 
 | 2023-01-03 | 1690 | 838 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 1673 | 830 | 
 | 2022-12-09 | 1673 | 830 | 
 | 2022-12-08 | 1671 | 830 | 
-| 2022-12-07 | 1669 | 829 | 
 

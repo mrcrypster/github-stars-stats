@@ -1,10 +1,10 @@
 # hosain-mohamed/animated_flow - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 14
+☋ Forks: 15
 
-★ Stars: 66
+★ Stars: 67
 
 [Open repository](https://github.com/hosain-mohamed/animated_flow)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 67 | 15 | 
 | 2023-01-05 | 66 | 14 | 
 | 2023-01-04 | 66 | 14 | 
 | 2023-01-03 | 66 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 66 | 13 | 
 | 2022-12-09 | 66 | 13 | 
 | 2022-12-08 | 66 | 12 | 
-| 2022-12-07 | 66 | 12 | 
 

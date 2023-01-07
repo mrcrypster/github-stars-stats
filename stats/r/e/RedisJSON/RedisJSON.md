@@ -1,10 +1,10 @@
 # RedisJSON/RedisJSON - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 286
 
-★ Stars: 3399
+★ Stars: 3400
 
 [Open repository](https://github.com/RedisJSON/RedisJSON)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 3400 | 286 | 
 | 2023-01-05 | 3399 | 286 | 
 | 2023-01-04 | 3398 | 285 | 
 | 2023-01-03 | 3398 | 284 | 

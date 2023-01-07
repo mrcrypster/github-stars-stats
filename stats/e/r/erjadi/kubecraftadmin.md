@@ -1,6 +1,6 @@
 # erjadi/kubecraftadmin - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 903 | 33 | 
 | 2023-01-05 | 903 | 33 | 
 | 2023-01-04 | 902 | 33 | 
 | 2023-01-03 | 902 | 33 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 897 | 32 | 
 | 2022-12-09 | 897 | 32 | 
 | 2022-12-08 | 896 | 32 | 
-| 2022-12-07 | 895 | 32 | 
 

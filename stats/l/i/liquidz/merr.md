@@ -1,10 +1,10 @@
 # liquidz/merr - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 1
 
-★ Stars: 47
+★ Stars: 48
 
 [Open repository](https://github.com/liquidz/merr)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 48 | 1 | 
 | 2023-01-05 | 47 | 1 | 
 | 2023-01-04 | 47 | 1 | 
 | 2023-01-03 | 47 | 1 | 

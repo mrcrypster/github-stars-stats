@@ -1,8 +1,8 @@
 # 88250/solo - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 389
+☋ Forks: 388
 
 ★ Stars: 1216
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 1216 | 388 | 
 | 2023-01-05 | 1216 | 389 | 
 | 2023-01-04 | 1214 | 390 | 
 | 2023-01-03 | 1215 | 390 | 

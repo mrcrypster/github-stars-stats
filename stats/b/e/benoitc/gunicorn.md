@@ -1,10 +1,10 @@
 # benoitc/gunicorn - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 1623
+☋ Forks: 1624
 
-★ Stars: 8702
+★ Stars: 8705
 
 [Open repository](https://github.com/benoitc/gunicorn)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 8705 | 1624 | 
 | 2023-01-05 | 8702 | 1623 | 
 | 2023-01-04 | 8702 | 1622 | 
 | 2023-01-03 | 8702 | 1622 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 8668 | 1616 | 
 | 2022-12-09 | 8665 | 1616 | 
 | 2022-12-08 | 8665 | 1616 | 
-| 2022-12-07 | 8664 | 1616 | 
 

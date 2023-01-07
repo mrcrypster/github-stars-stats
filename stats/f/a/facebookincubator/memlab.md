@@ -1,10 +1,10 @@
 # facebookincubator/memlab - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 91
 
-★ Stars: 3620
+★ Stars: 3623
 
 [Open repository](https://github.com/facebookincubator/memlab)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 3623 | 91 | 
 | 2023-01-05 | 3620 | 91 | 
 | 2023-01-04 | 3619 | 91 | 
 | 2023-01-03 | 3615 | 91 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 3569 | 88 | 
 | 2022-12-09 | 3568 | 88 | 
 | 2022-12-08 | 3566 | 88 | 
-| 2022-12-07 | 3561 | 88 | 
 

@@ -1,6 +1,6 @@
 # k1LoW/emacs-ansible - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 107 | 32 | 
 | 2023-01-05 | 107 | 32 | 
 | 2023-01-04 | 107 | 32 | 
 | 2023-01-03 | 107 | 32 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 107 | 32 | 
 | 2022-12-10 | 107 | 32 | 
 | 2022-12-09 | 107 | 32 | 
-| 2022-12-07 | 107 | 32 | 
 

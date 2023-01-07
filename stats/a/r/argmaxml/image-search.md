@@ -1,8 +1,8 @@
 # argmaxml/image-search - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 18
+☋ Forks: 19
 
 ★ Stars: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 9 | 19 | 
 | 2023-01-05 | 9 | 18 | 
 | 2023-01-04 | 6 | 18 | 
 | 2023-01-03 | 5 | 18 | 

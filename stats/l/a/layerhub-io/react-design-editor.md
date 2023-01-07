@@ -1,10 +1,10 @@
 # layerhub-io/react-design-editor - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 07
 
-☋ Forks: 175
+☋ Forks: 176
 
-★ Stars: 1464
+★ Stars: 1467
 
 [Open repository](https://github.com/layerhub-io/react-design-editor)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 1467 | 176 | 
 | 2023-01-05 | 1464 | 175 | 
 | 2023-01-04 | 1460 | 174 | 
 | 2023-01-03 | 1457 | 174 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 1411 | 161 | 
 | 2022-12-10 | 1411 | 160 | 
 | 2022-12-08 | 1410 | 160 | 
-| 2022-12-07 | 1406 | 159 | 
 

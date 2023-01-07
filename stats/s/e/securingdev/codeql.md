@@ -1,8 +1,8 @@
 # securingdev/codeql - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
-☋ Forks: 1230
+☋ Forks: 1232
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | - | 1232 | 
 | 2023-01-06 | - | 1230 | 
 | 2023-01-04 | - | 1231 | 
 | 2023-01-03 | - | 1230 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | - | 1218 | 
 | 2022-12-10 | - | 1218 | 
 | 2022-12-09 | - | 1219 | 
-| 2022-12-08 | - | 1218 | 
 

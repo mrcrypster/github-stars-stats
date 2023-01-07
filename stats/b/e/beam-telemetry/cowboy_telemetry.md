@@ -1,6 +1,6 @@
 # beam-telemetry/cowboy_telemetry - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 28 | 7 | 
 | 2023-01-05 | 28 | 7 | 
 | 2023-01-04 | 28 | 7 | 
 | 2023-01-03 | 28 | 7 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 27 | 7 | 
 | 2022-12-10 | 27 | 7 | 
 | 2022-12-09 | 27 | 7 | 
-| 2022-12-07 | 27 | 7 | 
 

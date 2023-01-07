@@ -1,10 +1,10 @@
 # bayandin/awesome-awesomeness - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 3509
 
-★ Stars: 29698
+★ Stars: 29704
 
 [Open repository](https://github.com/bayandin/awesome-awesomeness)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 29704 | 3509 | 
 | 2023-01-05 | 29698 | 3509 | 
 | 2023-01-04 | 29693 | 3509 | 
 | 2023-01-03 | 29688 | 3510 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 29602 | 3503 | 
 | 2022-12-09 | 29599 | 3503 | 
 | 2022-12-08 | 29593 | 3503 | 
-| 2022-12-07 | 29591 | 3503 | 
 

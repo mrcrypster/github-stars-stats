@@ -1,10 +1,10 @@
 # GNOME/gimp - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 592
 
-★ Stars: 3742
+★ Stars: 3746
 
 [Open repository](https://github.com/GNOME/gimp)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 3746 | 592 | 
 | 2023-01-05 | 3742 | 592 | 
 | 2023-01-04 | 3739 | 592 | 
 | 2023-01-03 | 3736 | 593 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 3701 | 590 | 
 | 2022-12-09 | 3698 | 590 | 
 | 2022-12-08 | 3698 | 589 | 
-| 2022-12-07 | 3699 | 589 | 
 

@@ -1,6 +1,6 @@
 # moigagoo/norm - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 313 | 30 | 
 | 2023-01-05 | 313 | 30 | 
 | 2023-01-04 | 312 | 30 | 
 | 2023-01-02 | 312 | 30 | 

@@ -1,10 +1,10 @@
 # Brian-Fearn/Processing - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 18
 
-★ Stars: 186
+★ Stars: 187
 
 [Open repository](https://github.com/Brian-Fearn/Processing)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 187 | 18 | 
 | 2023-01-05 | 186 | 18 | 
 | 2023-01-04 | 186 | 18 | 
 | 2023-01-03 | 186 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 186 | 18 | 
 | 2022-12-09 | 186 | 18 | 
 | 2022-12-08 | 186 | 18 | 
-| 2022-12-07 | 186 | 18 | 
 

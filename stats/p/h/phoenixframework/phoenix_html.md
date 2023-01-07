@@ -1,10 +1,10 @@
 # phoenixframework/phoenix_html - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 199
 
-★ Stars: 319
+★ Stars: 320
 
 [Open repository](https://github.com/phoenixframework/phoenix_html)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 320 | 199 | 
 | 2023-01-05 | 319 | 199 | 
 | 2023-01-04 | 319 | 199 | 
 | 2023-01-03 | 319 | 199 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 320 | 198 | 
 | 2022-12-10 | 320 | 198 | 
 | 2022-12-08 | 320 | 198 | 
-| 2022-12-07 | 320 | 198 | 
 

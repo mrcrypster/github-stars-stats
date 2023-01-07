@@ -1,6 +1,6 @@
 # purescript/purescript-record - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 69 | 31 | 
 | 2023-01-05 | 69 | 31 | 
 | 2023-01-04 | 69 | 31 | 
 | 2023-01-03 | 68 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 68 | 30 | 
 | 2022-12-10 | 68 | 30 | 
 | 2022-12-09 | 68 | 30 | 
-| 2022-12-07 | 68 | 30 | 
 

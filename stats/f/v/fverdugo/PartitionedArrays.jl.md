@@ -1,6 +1,6 @@
 # fverdugo/PartitionedArrays.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 60 | 6 | 
 | 2023-01-05 | 60 | 6 | 
 | 2023-01-04 | 59 | 6 | 
 | 2023-01-03 | 59 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 57 | 6 | 
 | 2022-12-09 | 57 | 6 | 
 | 2022-12-08 | 57 | 6 | 
-| 2022-12-07 | 57 | 6 | 
 

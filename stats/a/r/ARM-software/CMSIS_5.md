@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 06
 
 ☋ Forks: 1017
 
-★ Stars: 792
+★ Stars: 793
 
 [Open repository](https://github.com/ARM-software/CMSIS_5)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-06 | 792 | 1017 | 
+| 2023-01-06 | 793 | 1017 | 
 | 2023-01-05 | 792 | 1017 | 
 | 2023-01-04 | 791 | 1017 | 
 | 2023-01-03 | 791 | 1016 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-10 | 779 | 1008 | 
 | 2022-12-09 | 778 | 1008 | 
 | 2022-12-08 | 777 | 1008 | 
-| 2022-12-07 | 774 | 1008 | 
 

@@ -1,8 +1,8 @@
 # apache/dubbo - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 25508
+☋ Forks: 25512
 
 ★ Stars: 38235
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 38235 | 25512 | 
 | 2023-01-05 | 38235 | 25508 | 
 | 2023-01-04 | 38230 | 25505 | 
 | 2023-01-03 | 38225 | 25500 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 38177 | 25468 | 
 | 2022-12-10 | 38177 | 25465 | 
 | 2022-12-08 | 38174 | 25462 | 
-| 2022-12-07 | 38173 | 25463 | 
 

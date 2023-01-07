@@ -1,10 +1,10 @@
 # lklima/rn-flight-animation - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 29
 
-★ Stars: 240
+★ Stars: 239
 
 [Open repository](https://github.com/lklima/rn-flight-animation)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 239 | 29 | 
 | 2023-01-05 | 240 | 29 | 
 | 2023-01-04 | 240 | 29 | 
 | 2023-01-02 | 240 | 29 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 237 | 29 | 
 | 2022-12-09 | 237 | 29 | 
 | 2022-12-08 | 237 | 29 | 
-| 2022-12-07 | 237 | 29 | 
 

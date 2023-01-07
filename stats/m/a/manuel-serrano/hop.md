@@ -1,10 +1,10 @@
 # manuel-serrano/hop - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 9
 
-★ Stars: 99
+★ Stars: 100
 
 [Open repository](https://github.com/manuel-serrano/hop)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 100 | 9 | 
 | 2023-01-05 | 99 | 9 | 
 | 2023-01-04 | 99 | 9 | 
 | 2023-01-03 | 99 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 96 | 9 | 
 | 2022-12-09 | 96 | 9 | 
 | 2022-12-08 | 96 | 9 | 
-| 2022-12-07 | 95 | 9 | 
 

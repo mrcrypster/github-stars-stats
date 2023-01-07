@@ -1,10 +1,10 @@
 # allcoolthingsatoneplace/UnrealPakTool - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 53
 
-★ Stars: 265
+★ Stars: 267
 
 [Open repository](https://github.com/allcoolthingsatoneplace/UnrealPakTool)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 267 | 53 | 
 | 2023-01-05 | 265 | 53 | 
 | 2023-01-04 | 265 | 51 | 
 | 2023-01-03 | 264 | 51 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 256 | 48 | 
 | 2022-12-09 | 255 | 48 | 
 | 2022-12-08 | 255 | 48 | 
-| 2022-12-07 | 255 | 48 | 
 

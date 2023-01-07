@@ -1,10 +1,10 @@
 # NicklasVraa/Latex-academic-class - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 0
 
-★ Stars: 13
+★ Stars: 15
 
 [Open repository](https://github.com/NicklasVraa/Latex-academic-class)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 15 | - | 
 | 2023-01-05 | 13 | - | 
 | 2023-01-04 | 12 | - | 
 | 2023-01-03 | 11 | - | 

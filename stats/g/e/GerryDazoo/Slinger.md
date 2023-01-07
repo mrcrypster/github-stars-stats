@@ -1,10 +1,10 @@
 # GerryDazoo/Slinger - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 26
 
-★ Stars: 123
+★ Stars: 124
 
 [Open repository](https://github.com/GerryDazoo/Slinger)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 124 | 26 | 
 | 2023-01-05 | 123 | 26 | 
 | 2023-01-04 | 123 | 26 | 
 | 2023-01-03 | 123 | 26 | 

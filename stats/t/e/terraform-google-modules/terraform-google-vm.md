@@ -1,10 +1,10 @@
 # terraform-google-modules/terraform-google-vm - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 294
 
-★ Stars: 151
+★ Stars: 152
 
 [Open repository](https://github.com/terraform-google-modules/terraform-google-vm)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 152 | 294 | 
 | 2023-01-05 | 151 | 294 | 
 | 2023-01-04 | 151 | 294 | 
 | 2023-01-03 | 151 | 294 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 150 | 293 | 
 | 2022-12-10 | 150 | 293 | 
 | 2022-12-08 | 150 | 292 | 
-| 2022-12-07 | 149 | 290 | 
 

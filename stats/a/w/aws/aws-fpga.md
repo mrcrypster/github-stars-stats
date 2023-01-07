@@ -1,6 +1,6 @@
 # aws/aws-fpga - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 495
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 1309 | 495 | 
 | 2023-01-05 | 1309 | 495 | 
 | 2023-01-04 | 1309 | 495 | 
 | 2023-01-03 | 1308 | 495 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 1303 | 491 | 
 | 2022-12-10 | 1303 | 492 | 
 | 2022-12-08 | 1303 | 492 | 
-| 2022-12-07 | 1302 | 491 | 
 

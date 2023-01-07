@@ -1,8 +1,8 @@
 # cloudposse/terraform-aws-vpc-peering - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 89
+☋ Forks: 90
 
 ★ Stars: 95
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 95 | 90 | 
 | 2023-01-05 | 95 | 89 | 
 | 2023-01-04 | 95 | 89 | 
 | 2023-01-03 | 95 | 89 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 94 | 87 | 
 | 2022-12-10 | 94 | 87 | 
 | 2022-12-09 | 94 | 87 | 
-| 2022-12-07 | 94 | 87 | 
 

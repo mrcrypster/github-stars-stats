@@ -1,10 +1,10 @@
 # openvinotoolkit/openvino - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 1577
+☋ Forks: 1578
 
-★ Stars: 3901
+★ Stars: 3906
 
 [Open repository](https://github.com/openvinotoolkit/openvino)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 3906 | 1578 | 
 | 2023-01-05 | 3901 | 1577 | 
 | 2023-01-04 | 3898 | 1576 | 
 | 2023-01-03 | 3896 | 1575 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 3854 | 1562 | 
 | 2022-12-09 | 3854 | 1562 | 
 | 2022-12-08 | 3852 | 1558 | 
-| 2022-12-07 | 3852 | 1558 | 
 

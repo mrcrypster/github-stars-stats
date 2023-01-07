@@ -1,6 +1,6 @@
 # MoeidHeidari/SFA - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 18 | 1 | 
 | 2023-01-05 | 18 | 1 | 
 | 2023-01-04 | 18 | 1 | 
 | 2023-01-03 | 18 | 1 | 

@@ -1,10 +1,10 @@
 # waldo1001/waldo.BCPerfTool - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 5
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/waldo1001/waldo.BCPerfTool)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 16 | 5 | 
 | 2023-01-05 | 15 | 5 | 
 | 2023-01-04 | 15 | 5 | 
 | 2023-01-03 | 15 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 15 | 5 | 
 | 2022-12-10 | 15 | 5 | 
 | 2022-12-09 | 15 | 5 | 
-| 2022-12-07 | 15 | 5 | 
 

@@ -1,10 +1,10 @@
 # EllanJiang/GameFramework - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 1187
 
-★ Stars: 4234
+★ Stars: 4236
 
 [Open repository](https://github.com/EllanJiang/GameFramework)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 4236 | 1187 | 
 | 2023-01-05 | 4234 | 1187 | 
 | 2023-01-04 | 4233 | 1187 | 
 | 2023-01-03 | 4228 | 1187 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 4177 | 1181 | 
 | 2022-12-10 | 4175 | 1182 | 
 | 2022-12-08 | 4172 | 1181 | 
-| 2022-12-07 | 4170 | 1182 | 
 

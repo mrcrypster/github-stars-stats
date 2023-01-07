@@ -1,10 +1,10 @@
 # responsively-org/responsively-app - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 817
 
-★ Stars: 18705
+★ Stars: 18715
 
 [Open repository](https://github.com/responsively-org/responsively-app)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 18715 | 817 | 
 | 2023-01-05 | 18705 | 817 | 
 | 2023-01-04 | 18697 | 816 | 
 | 2023-01-03 | 18684 | 815 | 

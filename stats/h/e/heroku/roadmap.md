@@ -1,10 +1,10 @@
 # heroku/roadmap - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 4
 
-★ Stars: 152
+★ Stars: 151
 
 [Open repository](https://github.com/heroku/roadmap)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 151 | 4 | 
 | 2023-01-05 | 152 | 4 | 
 | 2023-01-04 | 152 | 4 | 
 | 2023-01-03 | 152 | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 151 | 3 | 
 | 2022-12-10 | 151 | 3 | 
 | 2022-12-09 | 149 | 3 | 
-| 2022-12-08 | 149 | 3 | 
 

@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 06
 
 ☋ Forks: 30
 
-★ Stars: 300
+★ Stars: 308
 
 [Open repository](https://github.com/jonatan-ivanov/local-services)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-06 | 300 | 30 | 
+| 2023-01-06 | 308 | 30 | 
 | 2023-01-05 | 299 | 30 | 
 | 2023-01-04 | 296 | 30 | 
 | 2023-01-03 | 265 | 28 | 

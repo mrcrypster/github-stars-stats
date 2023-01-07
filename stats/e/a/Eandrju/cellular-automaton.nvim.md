@@ -1,10 +1,10 @@
 # Eandrju/cellular-automaton.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 0
 
-★ Stars: 333
+★ Stars: 334
 
 [Open repository](https://github.com/Eandrju/cellular-automaton.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 334 | - | 
 | 2023-01-05 | 333 | - | 
 | 2023-01-04 | 332 | - | 
 | 2023-01-03 | 332 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 313 | - | 
 | 2022-12-09 | 310 | 2 | 
 | 2022-12-08 | 308 | 2 | 
-| 2022-12-07 | 305 | 2 | 
 

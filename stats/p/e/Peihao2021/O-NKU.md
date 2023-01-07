@@ -1,6 +1,6 @@
 # Peihao2021/O-NKU - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 99 | 8 | 
 | 2023-01-05 | 99 | 8 | 
 | 2023-01-04 | 99 | 8 | 
 | 2023-01-03 | 99 | 8 | 

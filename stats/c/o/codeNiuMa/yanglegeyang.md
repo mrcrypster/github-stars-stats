@@ -1,10 +1,10 @@
 # codeNiuMa/yanglegeyang - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 102
 
-★ Stars: 66
+★ Stars: 65
 
 [Open repository](https://github.com/codeNiuMa/yanglegeyang)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 65 | 102 | 
 | 2023-01-05 | 66 | 102 | 
 | 2023-01-04 | 66 | 102 | 
 | 2023-01-03 | 66 | 102 | 

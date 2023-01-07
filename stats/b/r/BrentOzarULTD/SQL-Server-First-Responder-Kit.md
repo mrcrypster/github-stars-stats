@@ -1,6 +1,6 @@
 # BrentOzarULTD/SQL-Server-First-Responder-Kit - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 875
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 2799 | 875 | 
 | 2023-01-05 | 2799 | 875 | 
 | 2023-01-04 | 2796 | 875 | 
 | 2023-01-03 | 2796 | 875 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 2775 | 870 | 
 | 2022-12-09 | 2774 | 870 | 
 | 2022-12-08 | 2770 | 870 | 
-| 2022-12-07 | 2769 | 870 | 
 

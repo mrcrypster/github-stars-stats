@@ -1,10 +1,10 @@
 # chenglou/chenglou.github.io - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 19
 
-★ Stars: 280
+★ Stars: 281
 
 [Open repository](https://github.com/chenglou/chenglou.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 281 | 19 | 
 | 2023-01-05 | 280 | 19 | 
 | 2023-01-04 | 279 | 19 | 
 | 2023-01-03 | 268 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 114 | 9 | 
 | 2022-12-09 | 114 | 8 | 
 | 2022-12-08 | 87 | 7 | 
-| 2022-12-07 | 75 | 6 | 
 

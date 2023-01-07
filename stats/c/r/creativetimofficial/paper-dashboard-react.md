@@ -1,10 +1,10 @@
 # creativetimofficial/paper-dashboard-react - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 172
 
-★ Stars: 180
+★ Stars: 181
 
 [Open repository](https://github.com/creativetimofficial/paper-dashboard-react)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 181 | 172 | 
 | 2023-01-05 | 180 | 172 | 
 | 2023-01-04 | 179 | 171 | 
 | 2023-01-03 | 179 | 170 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 177 | 160 | 
 | 2022-12-09 | 176 | 160 | 
 | 2022-12-08 | 176 | 160 | 
-| 2022-12-07 | 176 | 158 | 
 

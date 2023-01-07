@@ -1,10 +1,10 @@
 # parse-community/parse-server - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 4701
 
-★ Stars: 19940
+★ Stars: 19943
 
 [Open repository](https://github.com/parse-community/parse-server)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 19943 | 4701 | 
 | 2023-01-05 | 19940 | 4701 | 
 | 2023-01-04 | 19940 | 4700 | 
 | 2023-01-03 | 19936 | 4701 | 

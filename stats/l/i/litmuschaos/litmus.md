@@ -1,10 +1,10 @@
 # litmuschaos/litmus - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 543
 
-★ Stars: 3445
+★ Stars: 3448
 
 [Open repository](https://github.com/litmuschaos/litmus)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 3448 | 543 | 
 | 2023-01-06 | 3445 | 543 | 
 | 2023-01-05 | 3445 | 542 | 
 | 2023-01-04 | 3444 | 542 | 

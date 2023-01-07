@@ -1,10 +1,10 @@
 # jgthms/html-reference - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 135
 
-★ Stars: 919
+★ Stars: 920
 
 [Open repository](https://github.com/jgthms/html-reference)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 920 | 135 | 
 | 2023-01-05 | 919 | 135 | 
 | 2023-01-04 | 919 | 135 | 
 | 2023-01-03 | 919 | 135 | 

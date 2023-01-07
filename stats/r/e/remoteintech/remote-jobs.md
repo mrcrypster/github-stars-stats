@@ -1,10 +1,10 @@
 # remoteintech/remote-jobs - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 07
 
-☋ Forks: 2501
+☋ Forks: 2502
 
-★ Stars: 23619
+★ Stars: 23630
 
 [Open repository](https://github.com/remoteintech/remote-jobs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 23630 | 2502 | 
 | 2023-01-05 | 23619 | 2501 | 
 | 2023-01-04 | 23611 | 2498 | 
 | 2023-01-03 | 23597 | 2498 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 23331 | 2470 | 
 | 2022-12-09 | 23324 | 2468 | 
 | 2022-12-08 | 23314 | 2468 | 
-| 2022-12-07 | 23301 | 2468 | 
 

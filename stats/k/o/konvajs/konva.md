@@ -1,10 +1,10 @@
 # konvajs/konva - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 769
 
-★ Stars: 8635
+★ Stars: 8646
 
 [Open repository](https://github.com/konvajs/konva)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 8646 | 769 | 
 | 2023-01-05 | 8635 | 769 | 
 | 2023-01-04 | 8631 | 768 | 
 | 2023-01-03 | 8629 | 768 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 8532 | 762 | 
 | 2022-12-10 | 8531 | 762 | 
 | 2022-12-09 | 8526 | 762 | 
-| 2022-12-08 | 8519 | 762 | 
 

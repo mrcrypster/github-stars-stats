@@ -1,10 +1,10 @@
 # nicejade/markdown-online-editor - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 251
 
-★ Stars: 1981
+★ Stars: 1982
 
 [Open repository](https://github.com/nicejade/markdown-online-editor)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 1982 | 251 | 
 | 2023-01-05 | 1981 | 251 | 
 | 2023-01-04 | 1981 | 251 | 
 | 2023-01-03 | 1982 | 251 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 1960 | 246 | 
 | 2022-12-10 | 1957 | 246 | 
 | 2022-12-08 | 1957 | 246 | 
-| 2022-12-07 | 1955 | 246 | 
 

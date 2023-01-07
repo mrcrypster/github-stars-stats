@@ -1,10 +1,10 @@
 # jpetazzo/ampernetacle - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 414
+☋ Forks: 413
 
-★ Stars: 2435
+★ Stars: 2437
 
 [Open repository](https://github.com/jpetazzo/ampernetacle)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 2437 | 413 | 
 | 2023-01-05 | 2435 | 414 | 
 | 2023-01-04 | 2435 | 414 | 
 | 2023-01-03 | 2435 | 414 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 2426 | 411 | 
 | 2022-12-09 | 2426 | 411 | 
 | 2022-12-08 | 2425 | 411 | 
-| 2022-12-07 | 2425 | 411 | 
 

@@ -1,10 +1,10 @@
 # chartmuseum/charts - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 54
 
-★ Stars: 42
+★ Stars: 43
 
 [Open repository](https://github.com/chartmuseum/charts)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 43 | 54 | 
 | 2023-01-05 | 42 | 54 | 
 | 2023-01-04 | 42 | 54 | 
 | 2023-01-03 | 42 | 53 | 

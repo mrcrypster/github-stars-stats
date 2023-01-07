@@ -1,10 +1,10 @@
 # erikdoe/ocmock - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 578
 
-★ Stars: 2098
+★ Stars: 2099
 
 [Open repository](https://github.com/erikdoe/ocmock)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 2099 | 578 | 
 | 2023-01-05 | 2098 | 578 | 
 | 2023-01-04 | 2098 | 578 | 
 | 2023-01-03 | 2095 | 578 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 2094 | 579 | 
 | 2022-12-10 | 2093 | 579 | 
 | 2022-12-08 | 2093 | 579 | 
-| 2022-12-07 | 2093 | 579 | 
 

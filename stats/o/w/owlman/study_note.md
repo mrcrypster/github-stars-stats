@@ -1,10 +1,10 @@
 # owlman/study_note - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 12
 
-★ Stars: 111
+★ Stars: 113
 
 [Open repository](https://github.com/owlman/study_note)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 113 | 12 | 
 | 2023-01-05 | 111 | 12 | 
 | 2023-01-04 | 111 | 12 | 
 | 2023-01-03 | 111 | 11 | 

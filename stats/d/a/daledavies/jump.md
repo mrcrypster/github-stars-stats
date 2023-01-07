@@ -1,10 +1,10 @@
 # daledavies/jump - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 18
 
-★ Stars: 314
+★ Stars: 315
 
 [Open repository](https://github.com/daledavies/jump)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 315 | 18 | 
 | 2023-01-05 | 314 | 18 | 
 | 2023-01-04 | 313 | 18 | 
 | 2023-01-02 | 310 | 18 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 300 | 18 | 
 | 2022-12-10 | 299 | 18 | 
 | 2022-12-08 | 299 | 18 | 
-| 2022-12-07 | 297 | 18 | 
 

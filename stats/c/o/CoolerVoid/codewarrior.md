@@ -1,10 +1,10 @@
 # CoolerVoid/codewarrior - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 60
 
-★ Stars: 229
+★ Stars: 230
 
 [Open repository](https://github.com/CoolerVoid/codewarrior)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 230 | 60 | 
 | 2023-01-05 | 229 | 60 | 
 | 2023-01-04 | 229 | 60 | 
 | 2023-01-03 | 229 | 59 | 

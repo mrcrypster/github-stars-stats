@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 06
 
 ☋ Forks: 224
 
-★ Stars: 1633
+★ Stars: 1634
 
 [Open repository](https://github.com/commanded/commanded)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-06 | 1633 | 224 | 
+| 2023-01-06 | 1634 | 224 | 
 | 2023-01-05 | 1633 | 224 | 
 | 2023-01-04 | 1633 | 223 | 
 | 2023-01-03 | 1633 | 223 | 
@@ -41,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 1629 | 220 | 
 | 2022-12-09 | 1629 | 220 | 
 | 2022-12-08 | 1627 | 220 | 
-| 2022-12-07 | 1627 | 220 | 
 

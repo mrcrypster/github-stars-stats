@@ -1,10 +1,10 @@
 # PacktPublishing/The-Machine-Learning-Solutions-Architect-Handbook - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 30
 
-★ Stars: 87
+★ Stars: 88
 
 [Open repository](https://github.com/PacktPublishing/The-Machine-Learning-Solutions-Architect-Handbook)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 88 | 30 | 
 | 2023-01-05 | 87 | 30 | 
 | 2023-01-04 | 87 | 30 | 
 | 2023-01-03 | 87 | 30 | 

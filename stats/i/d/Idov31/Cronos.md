@@ -1,6 +1,6 @@
 # Idov31/Cronos - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 354 | 48 | 
 | 2023-01-05 | 354 | 48 | 
 | 2023-01-04 | 354 | 48 | 
 | 2023-01-03 | 354 | 48 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 345 | 47 | 
 | 2022-12-10 | 343 | 47 | 
 | 2022-12-08 | 341 | 47 | 
-| 2022-12-07 | 337 | 47 | 
 

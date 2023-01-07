@@ -1,6 +1,6 @@
 # Havoc-OS/android_prebuilts_tools-extras - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 1 | 4 | 
 | 2023-01-05 | 1 | 4 | 
 | 2023-01-04 | 1 | 4 | 
 | 2023-01-03 | 1 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 1 | 5 | 
 | 2022-12-10 | 1 | 5 | 
 | 2022-12-08 | 1 | 5 | 
-| 2022-12-07 | 1 | 5 | 
 

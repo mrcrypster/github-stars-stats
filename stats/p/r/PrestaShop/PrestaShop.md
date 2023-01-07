@@ -1,10 +1,10 @@
 # PrestaShop/PrestaShop - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 4515
+☋ Forks: 4517
 
-★ Stars: 6917
+★ Stars: 6919
 
 [Open repository](https://github.com/PrestaShop/PrestaShop)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 6919 | 4517 | 
 | 2023-01-05 | 6917 | 4515 | 
 | 2023-01-04 | 6915 | 4514 | 
 | 2023-01-03 | 6910 | 4511 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 6872 | 4499 | 
 | 2022-12-09 | 6868 | 4499 | 
 | 2022-12-08 | 6869 | 4498 | 
-| 2022-12-07 | 6868 | 4496 | 
 

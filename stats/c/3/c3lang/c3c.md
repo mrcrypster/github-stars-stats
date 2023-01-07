@@ -1,10 +1,10 @@
 # c3lang/c3c - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 47
+☋ Forks: 48
 
-★ Stars: 872
+★ Stars: 873
 
 [Open repository](https://github.com/c3lang/c3c)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 873 | 48 | 
 | 2023-01-05 | 872 | 47 | 
 | 2023-01-04 | 872 | 47 | 
 | 2023-01-03 | 872 | 47 | 

@@ -1,10 +1,10 @@
 # swisspol/GCDWebServer - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 1161
 
-★ Stars: 6290
+★ Stars: 6293
 
 [Open repository](https://github.com/swisspol/GCDWebServer)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 6293 | 1161 | 
 | 2023-01-05 | 6290 | 1161 | 
 | 2023-01-04 | 6289 | 1161 | 
 | 2023-01-03 | 6289 | 1161 | 

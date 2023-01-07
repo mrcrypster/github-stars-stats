@@ -1,6 +1,6 @@
 # ihabunek/toot - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 86
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 864 | 86 | 
 | 2023-01-05 | 864 | 86 | 
 | 2023-01-04 | 863 | 86 | 
 | 2023-01-03 | 863 | 86 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 827 | 83 | 
 | 2022-12-09 | 824 | 83 | 
 | 2022-12-08 | 823 | 82 | 
-| 2022-12-07 | 822 | 82 | 
 

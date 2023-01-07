@@ -1,10 +1,10 @@
 # derv82/wifite2 - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 1074
+☋ Forks: 1075
 
-★ Stars: 4521
+★ Stars: 4526
 
 [Open repository](https://github.com/derv82/wifite2)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 4526 | 1075 | 
 | 2023-01-05 | 4521 | 1074 | 
 | 2023-01-04 | 4520 | 1074 | 
 | 2023-01-03 | 4520 | 1073 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 4454 | 1063 | 
 | 2022-12-09 | 4446 | 1061 | 
 | 2022-12-08 | 4438 | 1061 | 
-| 2022-12-07 | 4435 | 1059 | 
 

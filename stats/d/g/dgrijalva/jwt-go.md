@@ -1,10 +1,10 @@
 # dgrijalva/jwt-go - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 1016
+☋ Forks: 1017
 
-★ Stars: 10507
+★ Stars: 10509
 
 [Open repository](https://github.com/dgrijalva/jwt-go)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 10509 | 1017 | 
 | 2023-01-05 | 10507 | 1016 | 
 | 2023-01-04 | 10507 | 1016 | 
 | 2023-01-03 | 10504 | 1016 | 

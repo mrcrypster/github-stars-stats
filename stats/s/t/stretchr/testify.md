@@ -1,10 +1,10 @@
 # stretchr/testify - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 1384
+☋ Forks: 1385
 
-★ Stars: 18539
+★ Stars: 18549
 
 [Open repository](https://github.com/stretchr/testify)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 18549 | 1385 | 
 | 2023-01-05 | 18539 | 1384 | 
 | 2023-01-04 | 18531 | 1385 | 
 | 2023-01-03 | 18516 | 1385 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 18360 | 1370 | 
 | 2022-12-09 | 18358 | 1369 | 
 | 2022-12-08 | 18343 | 1369 | 
-| 2022-12-07 | 18337 | 1368 | 
 

@@ -1,10 +1,10 @@
 # windingwind/zotero-pdf-translate - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 144
 
-★ Stars: 2109
+★ Stars: 2114
 
 [Open repository](https://github.com/windingwind/zotero-pdf-translate)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 2114 | 144 | 
 | 2023-01-05 | 2109 | 144 | 
 | 2023-01-04 | 2105 | 143 | 
 | 2023-01-03 | 2099 | 143 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 2018 | 138 | 
 | 2022-12-10 | 2010 | 138 | 
 | 2022-12-08 | 2005 | 139 | 
-| 2022-12-07 | 2001 | 139 | 
 

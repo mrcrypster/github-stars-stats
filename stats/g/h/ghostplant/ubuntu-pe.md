@@ -1,6 +1,6 @@
 # ghostplant/ubuntu-pe - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 132 | 23 | 
 | 2023-01-05 | 132 | 23 | 
 | 2023-01-04 | 132 | 23 | 
 | 2023-01-03 | 132 | 23 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 129 | 23 | 
 | 2022-12-10 | 129 | 23 | 
 | 2022-12-08 | 129 | 23 | 
-| 2022-12-07 | 128 | 23 | 
 

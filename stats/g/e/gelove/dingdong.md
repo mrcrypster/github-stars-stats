@@ -1,6 +1,6 @@
 # gelove/dingdong - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 103 | 23 | 
 | 2023-01-05 | 103 | 23 | 
 | 2023-01-04 | 103 | 23 | 
 | 2023-01-03 | 103 | 23 | 

@@ -1,6 +1,6 @@
 # developeranaz/RCLONE-SERVE-INDEX - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 183
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 134 | 183 | 
 | 2023-01-05 | 134 | 183 | 
 | 2023-01-04 | 134 | 183 | 
 | 2023-01-03 | 134 | 183 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 132 | 182 | 
 | 2022-12-09 | 132 | 182 | 
 | 2022-12-08 | 132 | 182 | 
-| 2022-12-07 | 132 | 182 | 
 

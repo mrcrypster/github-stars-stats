@@ -1,10 +1,10 @@
 # vandadnp/mynotes-course - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 130
 
-★ Stars: 304
+★ Stars: 305
 
 [Open repository](https://github.com/vandadnp/mynotes-course)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 305 | 130 | 
 | 2023-01-05 | 304 | 130 | 
 | 2023-01-04 | 303 | 129 | 
 | 2023-01-03 | 301 | 129 | 

@@ -1,6 +1,6 @@
 # udacity/FlightSurety - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 163
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 44 | 163 | 
 | 2023-01-05 | 44 | 163 | 
 | 2023-01-04 | 44 | 163 | 
 | 2023-01-03 | 44 | 162 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 43 | 158 | 
 | 2022-12-09 | 43 | 158 | 
 | 2022-12-08 | 43 | 157 | 
-| 2022-12-07 | 43 | 157 | 
 

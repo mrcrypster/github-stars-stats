@@ -1,10 +1,10 @@
 # papers-we-love/papers-we-love.github.io - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 68
 
-★ Stars: 170
+★ Stars: 171
 
 [Open repository](https://github.com/papers-we-love/papers-we-love.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 171 | 68 | 
 | 2023-01-05 | 170 | 68 | 
 | 2023-01-04 | 170 | 68 | 
 | 2023-01-03 | 169 | 68 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 169 | 68 | 
 | 2022-12-09 | 169 | 68 | 
 | 2022-12-08 | 169 | 68 | 
-| 2022-12-07 | 169 | 68 | 
 

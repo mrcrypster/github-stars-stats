@@ -1,6 +1,6 @@
 # tonicpow/status - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 3 | - | 
 | 2023-01-05 | 3 | - | 
 | 2023-01-04 | 3 | - | 
 | 2023-01-03 | 3 | - | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 4 | - | 
 | 2022-12-10 | 4 | - | 
 | 2022-12-09 | 3 | - | 
-| 2022-12-07 | 3 | - | 
 

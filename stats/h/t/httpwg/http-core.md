@@ -1,10 +1,10 @@
 # httpwg/http-core - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 46
 
-★ Stars: 443
+★ Stars: 444
 
 [Open repository](https://github.com/httpwg/http-core)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 444 | 46 | 
 | 2023-01-05 | 443 | 46 | 
 | 2023-01-04 | 442 | 46 | 
 | 2023-01-03 | 442 | 46 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 441 | 46 | 
 | 2022-12-09 | 441 | 46 | 
 | 2022-12-08 | 441 | 46 | 
-| 2022-12-07 | 441 | 46 | 
 

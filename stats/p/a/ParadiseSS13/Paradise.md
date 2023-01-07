@@ -1,8 +1,8 @@
 # ParadiseSS13/Paradise - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 1132
+☋ Forks: 1133
 
 ★ Stars: 312
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 312 | 1133 | 
 | 2023-01-05 | 312 | 1132 | 
 | 2023-01-04 | 312 | 1133 | 
 | 2023-01-03 | 312 | 1132 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 309 | 1116 | 
 | 2022-12-09 | 309 | 1116 | 
 | 2022-12-08 | 309 | 1115 | 
-| 2022-12-07 | 309 | 1114 | 
 

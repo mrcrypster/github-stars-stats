@@ -1,10 +1,10 @@
 # FailedShack/USBHelperInstaller - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 72
 
-★ Stars: 721
+★ Stars: 723
 
 [Open repository](https://github.com/FailedShack/USBHelperInstaller)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 723 | 72 | 
+| 2023-01-06 | 722 | 72 | 
 | 2023-01-05 | 721 | 72 | 
 | 2023-01-04 | 719 | 72 | 
 | 2023-01-03 | 716 | 72 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 700 | 71 | 
 | 2022-12-10 | 700 | 71 | 
 | 2022-12-08 | 699 | 71 | 
-| 2022-12-07 | 699 | 71 | 
 

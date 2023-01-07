@@ -1,6 +1,6 @@
 # asdf-community/asdf-poetry - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 46 | 6 | 
 | 2023-01-05 | 46 | 6 | 
 | 2023-01-04 | 46 | 6 | 
 | 2023-01-03 | 46 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 45 | 6 | 
 | 2022-12-09 | 45 | 6 | 
 | 2022-12-08 | 45 | 6 | 
-| 2022-12-07 | 45 | 6 | 
 

@@ -1,6 +1,6 @@
 # microsoft/MCW-Azure-Synapse-Analytics-and-AI - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 219
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 203 | 219 | 
 | 2023-01-05 | 203 | 219 | 
 | 2023-01-04 | 203 | 219 | 
 | 2023-01-03 | 203 | 219 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 203 | 219 | 
 | 2022-12-09 | 203 | 219 | 
 | 2022-12-08 | 203 | 219 | 
-| 2022-12-07 | 203 | 219 | 
 

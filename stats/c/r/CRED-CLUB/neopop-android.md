@@ -1,10 +1,10 @@
 # CRED-CLUB/neopop-android - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 32
 
-★ Stars: 255
+★ Stars: 256
 
 [Open repository](https://github.com/CRED-CLUB/neopop-android)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 256 | 32 | 
 | 2023-01-05 | 255 | 32 | 
 | 2023-01-04 | 255 | 32 | 
 | 2023-01-03 | 254 | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 251 | 31 | 
 | 2022-12-09 | 251 | 31 | 
 | 2022-12-08 | 251 | 31 | 
-| 2022-12-07 | 251 | 31 | 
 

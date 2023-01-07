@@ -1,6 +1,6 @@
 # actions/stale - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 279
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 872 | 279 | 
 | 2023-01-05 | 872 | 279 | 
 | 2023-01-04 | 870 | 278 | 
 | 2023-01-03 | 869 | 277 | 

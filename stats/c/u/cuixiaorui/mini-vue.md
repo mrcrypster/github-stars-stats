@@ -1,10 +1,10 @@
 # cuixiaorui/mini-vue - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 1890
+☋ Forks: 1893
 
-★ Stars: 8449
+★ Stars: 8454
 
 [Open repository](https://github.com/cuixiaorui/mini-vue)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 8454 | 1893 | 
 | 2023-01-05 | 8449 | 1890 | 
 | 2023-01-04 | 8447 | 1889 | 
 | 2023-01-03 | 8439 | 1886 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 8370 | 1853 | 
 | 2022-12-09 | 8366 | 1851 | 
 | 2022-12-08 | 8362 | 1851 | 
-| 2022-12-07 | 8357 | 1850 | 
 

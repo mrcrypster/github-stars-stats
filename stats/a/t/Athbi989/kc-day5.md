@@ -1,6 +1,6 @@
 # Athbi989/kc-day5 - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 1 | 11 | 
 | 2023-01-05 | 1 | 11 | 
 | 2023-01-04 | 1 | 11 | 
 | 2023-01-03 | 1 | 11 | 

@@ -1,6 +1,6 @@
 # rafapereirabr/bot_esquinadobrasil - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 2
 
@@ -13,5 +13,6 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 19 | 2 | 
 | 2023-01-05 | 19 | 2 | 
 

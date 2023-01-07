@@ -1,10 +1,10 @@
 # Stuk/jszip - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 1260
+☋ Forks: 1261
 
-★ Stars: 8575
+★ Stars: 8580
 
 [Open repository](https://github.com/Stuk/jszip)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 8580 | 1261 | 
 | 2023-01-05 | 8575 | 1260 | 
 | 2023-01-04 | 8569 | 1260 | 
 | 2023-01-03 | 8569 | 1260 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 8531 | 1256 | 
 | 2022-12-09 | 8527 | 1256 | 
 | 2022-12-08 | 8523 | 1256 | 
-| 2022-12-07 | 8519 | 1256 | 
 

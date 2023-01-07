@@ -1,10 +1,10 @@
 # AndroidDev-social/MastodonCompose - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 35
 
-★ Stars: 383
+★ Stars: 385
 
 [Open repository](https://github.com/AndroidDev-social/MastodonCompose)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 385 | 35 | 
 | 2023-01-06 | 383 | 35 | 
 | 2023-01-04 | 383 | 34 | 
 | 2023-01-03 | 382 | 34 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 354 | 32 | 
 | 2022-12-10 | 354 | 32 | 
 | 2022-12-08 | 354 | 32 | 
-| 2022-12-07 | 352 | 32 | 
 

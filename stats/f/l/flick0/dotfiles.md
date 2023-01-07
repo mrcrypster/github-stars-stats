@@ -1,10 +1,10 @@
 # flick0/dotfiles - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 17
 
-★ Stars: 333
+★ Stars: 336
 
 [Open repository](https://github.com/flick0/dotfiles)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 336 | 17 | 
 | 2023-01-05 | 333 | 17 | 
 | 2023-01-04 | 330 | 17 | 
 | 2023-01-03 | 329 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 297 | 12 | 
 | 2022-12-10 | 293 | 12 | 
 | 2022-12-08 | 290 | 12 | 
-| 2022-12-07 | 285 | 12 | 
 

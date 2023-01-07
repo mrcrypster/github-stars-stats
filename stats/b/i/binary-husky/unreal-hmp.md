@@ -1,10 +1,10 @@
 # binary-husky/unreal-hmp - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 11
 
-★ Stars: 52
+★ Stars: 53
 
 [Open repository](https://github.com/binary-husky/unreal-hmp)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 53 | 11 | 
 | 2023-01-05 | 52 | 11 | 
 | 2023-01-04 | 52 | 11 | 
 | 2023-01-03 | 52 | 11 | 

@@ -1,6 +1,6 @@
 # lugh-tuatha/yes-or-yes - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 5 | 3 | 
 | 2023-01-05 | 5 | 3 | 
 | 2023-01-04 | 5 | 3 | 
 | 2023-01-03 | 5 | 3 | 

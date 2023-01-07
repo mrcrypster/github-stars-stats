@@ -1,10 +1,10 @@
 # ablaom/HelloJulia.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 22
 
-★ Stars: 56
+★ Stars: 57
 
 [Open repository](https://github.com/ablaom/HelloJulia.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 57 | 22 | 
 | 2023-01-05 | 56 | 22 | 
 | 2023-01-04 | 56 | 22 | 
 | 2023-01-03 | 56 | 22 | 

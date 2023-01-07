@@ -1,8 +1,8 @@
 # jordonwow/bigdebuffs - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 79
+☋ Forks: 80
 
 ★ Stars: 36
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 36 | 80 | 
 | 2023-01-05 | 36 | 79 | 
 | 2023-01-04 | 36 | 79 | 
 | 2023-01-03 | 36 | 79 | 

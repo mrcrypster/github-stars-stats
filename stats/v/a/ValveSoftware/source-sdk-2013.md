@@ -1,10 +1,10 @@
 # ValveSoftware/source-sdk-2013 - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 1850
 
-★ Stars: 3281
+★ Stars: 3283
 
 [Open repository](https://github.com/ValveSoftware/source-sdk-2013)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 3283 | 1850 | 
 | 2023-01-05 | 3281 | 1850 | 
 | 2023-01-04 | 3279 | 1849 | 
 | 2023-01-03 | 3278 | 1850 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 3252 | 1837 | 
 | 2022-12-10 | 3250 | 1838 | 
 | 2022-12-08 | 3249 | 1837 | 
-| 2022-12-07 | 3246 | 1836 | 
 

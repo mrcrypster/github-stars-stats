@@ -1,6 +1,6 @@
 # Mazamars312/Analogue-Amiga - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 39 | 2 | 
 | 2023-01-06 | 39 | 2 | 
 | 2023-01-04 | 39 | 2 | 
 | 2023-01-03 | 39 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-10 | 28 | 1 | 
 | 2022-12-09 | 28 | 1 | 
 | 2022-12-08 | 26 | 1 | 
-| 2022-12-07 | 25 | 1 | 
 

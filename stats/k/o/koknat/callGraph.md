@@ -1,8 +1,8 @@
 # koknat/callGraph - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 11
+☋ Forks: 12
 
 ★ Stars: 83
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 83 | 12 | 
 | 2023-01-05 | 83 | 11 | 
 | 2023-01-04 | 83 | 11 | 
 | 2023-01-03 | 83 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 79 | 9 | 
 | 2022-12-10 | 79 | 9 | 
 | 2022-12-08 | 79 | 9 | 
-| 2022-12-07 | 79 | 9 | 
 

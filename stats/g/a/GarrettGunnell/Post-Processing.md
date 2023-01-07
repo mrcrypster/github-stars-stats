@@ -1,6 +1,6 @@
 # GarrettGunnell/Post-Processing - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 156 | 19 | 
 | 2023-01-05 | 156 | 19 | 
 | 2023-01-04 | 155 | 19 | 
 | 2023-01-03 | 153 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 136 | 18 | 
 | 2022-12-09 | 135 | 18 | 
 | 2022-12-08 | 135 | 18 | 
-| 2022-12-07 | 135 | 18 | 
 

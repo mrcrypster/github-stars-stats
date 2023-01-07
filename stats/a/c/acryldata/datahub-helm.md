@@ -1,6 +1,6 @@
 # acryldata/datahub-helm - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 142
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 91 | 142 | 
 | 2023-01-05 | 91 | 142 | 
 | 2023-01-04 | 91 | 142 | 
 | 2023-01-03 | 90 | 141 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 84 | 134 | 
 | 2022-12-09 | 84 | 133 | 
 | 2022-12-08 | 83 | 133 | 
-| 2022-12-07 | 83 | 133 | 
 

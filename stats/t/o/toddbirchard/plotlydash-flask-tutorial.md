@@ -1,6 +1,6 @@
 # toddbirchard/plotlydash-flask-tutorial - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 147
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 437 | 147 | 
 | 2023-01-05 | 437 | 147 | 
 | 2023-01-04 | 437 | 147 | 
 | 2023-01-03 | 437 | 147 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 436 | 147 | 
 | 2022-12-09 | 436 | 147 | 
 | 2022-12-08 | 434 | 147 | 
-| 2022-12-07 | 434 | 147 | 
 

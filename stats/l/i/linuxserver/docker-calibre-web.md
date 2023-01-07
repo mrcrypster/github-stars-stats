@@ -1,10 +1,10 @@
 # linuxserver/docker-calibre-web - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 96
 
-★ Stars: 580
+★ Stars: 582
 
 [Open repository](https://github.com/linuxserver/docker-calibre-web)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 582 | 96 | 
 | 2023-01-05 | 580 | 96 | 
 | 2023-01-04 | 578 | 96 | 
 | 2023-01-03 | 577 | 95 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 563 | 92 | 
 | 2022-12-09 | 563 | 92 | 
 | 2022-12-08 | 562 | 92 | 
-| 2022-12-07 | 562 | 92 | 
 

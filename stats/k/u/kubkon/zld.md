@@ -1,6 +1,6 @@
 # kubkon/zld - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 141 | 10 | 
 | 2023-01-05 | 141 | 10 | 
 | 2023-01-04 | 141 | 10 | 
 | 2023-01-03 | 141 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 141 | 10 | 
 | 2022-12-09 | 141 | 10 | 
 | 2022-12-08 | 141 | 10 | 
-| 2022-12-07 | 141 | 10 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 06
 
-☋ Forks: 31
+☋ Forks: 43
 
-★ Stars: 1162
+★ Stars: 1687
 
 [Open repository](https://github.com/sourcegraph/conc)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-06 | 1162 | 31 | 
+| 2023-01-06 | 1687 | 43 | 
 | 2023-01-05 | 1104 | 30 | 
 

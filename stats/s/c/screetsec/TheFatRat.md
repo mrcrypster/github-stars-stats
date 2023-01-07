@@ -1,10 +1,10 @@
 # screetsec/TheFatRat - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 2068
+☋ Forks: 2069
 
-★ Stars: 7235
+★ Stars: 7240
 
 [Open repository](https://github.com/screetsec/TheFatRat)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 7240 | 2069 | 
 | 2023-01-05 | 7235 | 2068 | 
 | 2023-01-04 | 7230 | 2066 | 
 | 2023-01-03 | 7227 | 2065 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 7157 | 2060 | 
 | 2022-12-09 | 7154 | 2057 | 
 | 2022-12-08 | 7152 | 2056 | 
-| 2022-12-07 | 7151 | 2056 | 
 

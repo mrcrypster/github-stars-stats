@@ -1,10 +1,10 @@
 # piotrwitek/react-redux-typescript-guide - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 1044
+☋ Forks: 1045
 
-★ Stars: 12840
+★ Stars: 12842
 
 [Open repository](https://github.com/piotrwitek/react-redux-typescript-guide)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 12842 | 1045 | 
 | 2023-01-05 | 12840 | 1044 | 
 | 2023-01-04 | 12841 | 1044 | 
 | 2023-01-03 | 12840 | 1044 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 12769 | 1033 | 
 | 2022-12-10 | 12768 | 1033 | 
 | 2022-12-08 | 12766 | 1032 | 
-| 2022-12-07 | 12762 | 1031 | 
 

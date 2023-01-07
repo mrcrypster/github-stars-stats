@@ -1,8 +1,8 @@
 # SilentSys/SLAM - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 118
+☋ Forks: 119
 
 ★ Stars: 354
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 354 | 119 | 
 | 2023-01-05 | 354 | 118 | 
 | 2023-01-04 | 354 | 118 | 
 | 2023-01-03 | 354 | 118 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 349 | 119 | 
 | 2022-12-09 | 348 | 119 | 
 | 2022-12-08 | 347 | 119 | 
-| 2022-12-07 | 347 | 119 | 
 

@@ -1,10 +1,10 @@
 # SeleniumHQ/selenium - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 7322
+☋ Forks: 7323
 
-★ Stars: 25479
+★ Stars: 25493
 
 [Open repository](https://github.com/SeleniumHQ/selenium)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 25493 | 7323 | 
 | 2023-01-05 | 25479 | 7322 | 
 | 2023-01-04 | 25475 | 7323 | 
 | 2023-01-03 | 25467 | 7323 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 25302 | 7294 | 
 | 2022-12-09 | 25300 | 7295 | 
 | 2022-12-08 | 25287 | 7290 | 
-| 2022-12-07 | 25279 | 7289 | 
 

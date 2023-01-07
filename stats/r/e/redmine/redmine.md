@@ -1,10 +1,10 @@
 # redmine/redmine - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 2234
+☋ Forks: 2235
 
-★ Stars: 4604
+★ Stars: 4607
 
 [Open repository](https://github.com/redmine/redmine)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 4607 | 2235 | 
 | 2023-01-05 | 4604 | 2234 | 
 | 2023-01-04 | 4604 | 2234 | 
 | 2023-01-03 | 4601 | 2234 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 4578 | 2225 | 
 | 2022-12-09 | 4577 | 2225 | 
 | 2022-12-08 | 4574 | 2225 | 
-| 2022-12-07 | 4572 | 2224 | 
 

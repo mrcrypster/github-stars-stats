@@ -1,6 +1,6 @@
 # felixhageloh/uebersicht - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 160
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 3952 | 160 | 
 | 2023-01-05 | 3952 | 160 | 
 | 2023-01-04 | 3950 | 160 | 
 | 2023-01-03 | 3947 | 160 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 3921 | 159 | 
 | 2022-12-10 | 3917 | 159 | 
 | 2022-12-09 | 3913 | 159 | 
-| 2022-12-07 | 3912 | 159 | 
 

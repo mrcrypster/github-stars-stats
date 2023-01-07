@@ -1,10 +1,10 @@
 # ko-build/ko - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 309
+☋ Forks: 311
 
-★ Stars: 5472
+★ Stars: 5473
 
 [Open repository](https://github.com/ko-build/ko)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 5473 | 311 | 
 | 2023-01-05 | 5472 | 309 | 
 | 2023-01-04 | 5469 | 309 | 
 | 2023-01-03 | 5466 | 309 | 

@@ -1,10 +1,10 @@
 # ZeframLou/create3-factory - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 17
 
-★ Stars: 190
+★ Stars: 191
 
 [Open repository](https://github.com/ZeframLou/create3-factory)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 191 | 17 | 
 | 2023-01-06 | 190 | 17 | 
 | 2023-01-04 | 190 | 17 | 
 | 2023-01-03 | 190 | 16 | 

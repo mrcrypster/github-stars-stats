@@ -1,6 +1,6 @@
 # rodit/SnapMod - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 141 | 18 | 
 | 2023-01-06 | 141 | 18 | 
 | 2023-01-04 | 139 | 18 | 
 | 2023-01-03 | 138 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 135 | 16 | 
 | 2022-12-10 | 135 | 16 | 
 | 2022-12-09 | 135 | 16 | 
-| 2022-12-07 | 134 | 16 | 
 

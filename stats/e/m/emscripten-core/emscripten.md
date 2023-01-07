@@ -1,10 +1,10 @@
 # emscripten-core/emscripten - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 2974
+☋ Forks: 2975
 
-★ Stars: 23136
+★ Stars: 23142
 
 [Open repository](https://github.com/emscripten-core/emscripten)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 23142 | 2975 | 
 | 2023-01-05 | 23136 | 2974 | 
 | 2023-01-04 | 23134 | 2974 | 
 | 2023-01-03 | 23126 | 2974 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 23040 | 2965 | 
 | 2022-12-09 | 23039 | 2965 | 
 | 2022-12-08 | 23036 | 2963 | 
-| 2022-12-07 | 23026 | 2962 | 
 

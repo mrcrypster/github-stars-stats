@@ -1,10 +1,10 @@
 # open-mmlab/mmaction2 - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 913
 
-★ Stars: 2731
+★ Stars: 2736
 
 [Open repository](https://github.com/open-mmlab/mmaction2)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 2736 | 913 | 
 | 2023-01-05 | 2731 | 913 | 
 | 2023-01-04 | 2729 | 912 | 
 | 2023-01-03 | 2729 | 912 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 2643 | 885 | 
 | 2022-12-09 | 2641 | 885 | 
 | 2022-12-08 | 2636 | 885 | 
-| 2022-12-07 | 2568 | 884 | 
 

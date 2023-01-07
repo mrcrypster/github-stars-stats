@@ -1,6 +1,6 @@
 # fangcun010/VulkanTutorialCN - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 392 | 68 | 
 | 2023-01-05 | 392 | 68 | 
 | 2023-01-04 | 392 | 68 | 
 | 2023-01-03 | 392 | 68 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 388 | 68 | 
 | 2022-12-10 | 388 | 68 | 
 | 2022-12-08 | 388 | 68 | 
-| 2022-12-07 | 389 | 68 | 
 

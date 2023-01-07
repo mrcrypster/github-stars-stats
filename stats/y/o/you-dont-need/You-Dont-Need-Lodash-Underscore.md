@@ -1,10 +1,10 @@
 # you-dont-need/You-Dont-Need-Lodash-Underscore - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 762
+☋ Forks: 763
 
-★ Stars: 15715
+★ Stars: 15718
 
 [Open repository](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 15718 | 763 | 
 | 2023-01-05 | 15715 | 762 | 
 | 2023-01-04 | 15710 | 761 | 
 | 2023-01-03 | 15712 | 761 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 15618 | 751 | 
 | 2022-12-09 | 15614 | 751 | 
 | 2022-12-08 | 15609 | 751 | 
-| 2022-12-07 | 15602 | 751 | 
 

@@ -1,10 +1,10 @@
 # DisplacedGamers/Emulation-Lua-Scripts - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 0
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/DisplacedGamers/Emulation-Lua-Scripts)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 28 | - | 
 | 2023-01-05 | 27 | - | 
 | 2023-01-04 | 27 | - | 
 | 2023-01-03 | 27 | - | 

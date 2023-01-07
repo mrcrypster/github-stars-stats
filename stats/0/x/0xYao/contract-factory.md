@@ -1,10 +1,10 @@
 # 0xYao/contract-factory - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 1
 
-★ Stars: 15
+★ Stars: 17
 
 [Open repository](https://github.com/0xYao/contract-factory)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 17 | 1 | 
 | 2023-01-05 | 15 | 1 | 
 | 2023-01-04 | 15 | 1 | 
 | 2023-01-03 | 15 | 1 | 

@@ -1,10 +1,10 @@
 # Dewalt-arch/pimpmykali - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 204
+☋ Forks: 205
 
-★ Stars: 1026
+★ Stars: 1028
 
 [Open repository](https://github.com/Dewalt-arch/pimpmykali)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 1028 | 205 | 
 | 2023-01-05 | 1026 | 204 | 
 | 2023-01-04 | 1023 | 203 | 
 | 2023-01-03 | 1023 | 202 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 989 | 197 | 
 | 2022-12-10 | 986 | 197 | 
 | 2022-12-08 | 984 | 197 | 
-| 2022-12-07 | 981 | 197 | 
 

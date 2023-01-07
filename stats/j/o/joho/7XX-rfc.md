@@ -1,10 +1,10 @@
 # joho/7XX-rfc - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 279
 
-★ Stars: 4294
+★ Stars: 4293
 
 [Open repository](https://github.com/joho/7XX-rfc)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 4293 | 279 | 
 | 2023-01-05 | 4294 | 279 | 
 | 2023-01-04 | 4294 | 279 | 
 | 2023-01-03 | 4293 | 279 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 4295 | 279 | 
 | 2022-12-10 | 4295 | 279 | 
 | 2022-12-09 | 4295 | 279 | 
-| 2022-12-07 | 4296 | 279 | 
 

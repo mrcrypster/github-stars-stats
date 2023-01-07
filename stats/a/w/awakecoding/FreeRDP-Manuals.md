@@ -1,8 +1,8 @@
 # awakecoding/FreeRDP-Manuals - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 1000
+☋ Forks: 1001
 
 ★ Stars: 109
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 109 | 1001 | 
 | 2023-01-05 | 109 | 1000 | 
 | 2023-01-04 | 109 | 999 | 
 | 2023-01-03 | 109 | 998 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 109 | 953 | 
 | 2022-12-09 | 109 | 952 | 
 | 2022-12-08 | 109 | 952 | 
-| 2022-12-07 | 109 | 952 | 
 

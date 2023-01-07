@@ -1,10 +1,10 @@
 # ibhagwan/smartyank.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 1
 
-★ Stars: 85
+★ Stars: 86
 
 [Open repository](https://github.com/ibhagwan/smartyank.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 86 | 1 | 
 | 2023-01-05 | 85 | 1 | 
 | 2023-01-04 | 83 | 1 | 
 | 2023-01-03 | 83 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 77 | 1 | 
 | 2022-12-09 | 76 | 1 | 
 | 2022-12-08 | 76 | 1 | 
-| 2022-12-07 | 76 | 1 | 
 

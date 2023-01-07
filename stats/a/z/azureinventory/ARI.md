@@ -1,10 +1,10 @@
 # azureinventory/ARI - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 190
 
-★ Stars: 474
+★ Stars: 475
 
 [Open repository](https://github.com/azureinventory/ARI)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 475 | 190 | 
 | 2023-01-05 | 474 | 190 | 
 | 2023-01-04 | 472 | 190 | 
 | 2023-01-03 | 470 | 189 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 461 | 187 | 
 | 2022-12-09 | 459 | 186 | 
 | 2022-12-08 | 456 | 186 | 
-| 2022-12-07 | 455 | 186 | 
 

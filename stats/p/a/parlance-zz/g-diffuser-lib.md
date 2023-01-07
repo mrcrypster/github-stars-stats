@@ -1,6 +1,6 @@
 # parlance-zz/g-diffuser-lib - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 238 | 19 | 
 | 2023-01-06 | 238 | 19 | 
 | 2023-01-05 | 237 | 18 | 
 | 2023-01-03 | 237 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 226 | 19 | 
 | 2022-12-10 | 225 | 19 | 
 | 2022-12-08 | 223 | 19 | 
-| 2022-12-07 | 223 | 19 | 
 

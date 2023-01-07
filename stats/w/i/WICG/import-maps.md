@@ -1,10 +1,10 @@
 # WICG/import-maps - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 59
 
-★ Stars: 2317
+★ Stars: 2318
 
 [Open repository](https://github.com/WICG/import-maps)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 2318 | 59 | 
 | 2023-01-05 | 2317 | 59 | 
 | 2023-01-04 | 2317 | 59 | 
 | 2023-01-03 | 2317 | 59 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 2296 | 59 | 
 | 2022-12-10 | 2296 | 59 | 
 | 2022-12-09 | 2296 | 59 | 
-| 2022-12-07 | 2294 | 59 | 
 

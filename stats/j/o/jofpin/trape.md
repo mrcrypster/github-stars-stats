@@ -1,10 +1,10 @@
 # jofpin/trape - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 1258
+☋ Forks: 1257
 
-★ Stars: 7309
+★ Stars: 7312
 
 [Open repository](https://github.com/jofpin/trape)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 7312 | 1257 | 
 | 2023-01-05 | 7309 | 1258 | 
 | 2023-01-04 | 7309 | 1257 | 
 | 2023-01-03 | 7309 | 1257 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 7290 | 1257 | 
 | 2022-12-10 | 7287 | 1257 | 
 | 2022-12-08 | 7286 | 1257 | 
-| 2022-12-07 | 7282 | 1259 | 
 

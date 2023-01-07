@@ -1,10 +1,10 @@
 # dennybritz/reinforcement-learning - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 5833
+☋ Forks: 5836
 
-★ Stars: 18622
+★ Stars: 18628
 
 [Open repository](https://github.com/dennybritz/reinforcement-learning)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 18628 | 5836 | 
 | 2023-01-05 | 18622 | 5833 | 
 | 2023-01-04 | 18618 | 5833 | 
 | 2023-01-03 | 18615 | 5832 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 18538 | 5824 | 
 | 2022-12-10 | 18533 | 5822 | 
 | 2022-12-09 | 18529 | 5821 | 
-| 2022-12-07 | 18524 | 5821 | 
 

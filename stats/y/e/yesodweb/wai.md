@@ -1,10 +1,10 @@
 # yesodweb/wai - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 251
 
-★ Stars: 764
+★ Stars: 765
 
 [Open repository](https://github.com/yesodweb/wai)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 765 | 251 | 
 | 2023-01-05 | 764 | 251 | 
 | 2023-01-04 | 764 | 251 | 
 | 2023-01-03 | 764 | 251 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 760 | 249 | 
 | 2022-12-10 | 760 | 249 | 
 | 2022-12-09 | 760 | 249 | 
-| 2022-12-07 | 760 | 249 | 
 

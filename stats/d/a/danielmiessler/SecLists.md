@@ -1,10 +1,10 @@
 # danielmiessler/SecLists - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 21891
+☋ Forks: 21904
 
-★ Stars: 44051
+★ Stars: 44074
 
 [Open repository](https://github.com/danielmiessler/SecLists)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 44074 | 21904 | 
 | 2023-01-05 | 44051 | 21891 | 
 | 2023-01-04 | 44027 | 21888 | 
 | 2023-01-03 | 44000 | 21877 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 43567 | 21715 | 
 | 2022-12-10 | 43533 | 21704 | 
 | 2022-12-08 | 43495 | 21698 | 
-| 2022-12-07 | 43470 | 21697 | 
 

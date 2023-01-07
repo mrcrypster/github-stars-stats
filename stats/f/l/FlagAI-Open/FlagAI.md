@@ -1,10 +1,10 @@
 # FlagAI-Open/FlagAI - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 91
 
-★ Stars: 792
+★ Stars: 795
 
 [Open repository](https://github.com/FlagAI-Open/FlagAI)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 795 | 91 | 
 | 2023-01-05 | 792 | 91 | 
 | 2023-01-04 | 789 | 91 | 
 | 2023-01-03 | 786 | 91 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 736 | 78 | 
 | 2022-12-10 | 722 | 73 | 
 | 2022-12-08 | 707 | 68 | 
-| 2022-12-07 | 705 | 68 | 
 

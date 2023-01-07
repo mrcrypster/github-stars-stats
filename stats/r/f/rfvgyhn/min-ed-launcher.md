@@ -1,6 +1,6 @@
 # rfvgyhn/min-ed-launcher - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 158 | 8 | 
 | 2023-01-05 | 158 | 8 | 
 | 2023-01-04 | 157 | 8 | 
 | 2023-01-03 | 156 | 8 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 151 | 9 | 
 | 2022-12-10 | 151 | 9 | 
 | 2022-12-09 | 151 | 9 | 
-| 2022-12-07 | 151 | 9 | 
 

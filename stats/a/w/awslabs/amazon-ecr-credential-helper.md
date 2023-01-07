@@ -1,10 +1,10 @@
 # awslabs/amazon-ecr-credential-helper - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 291
 
-★ Stars: 2111
+★ Stars: 2112
 
 [Open repository](https://github.com/awslabs/amazon-ecr-credential-helper)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 2112 | 291 | 
 | 2023-01-05 | 2111 | 291 | 
 | 2023-01-04 | 2110 | 291 | 
 | 2023-01-03 | 2110 | 291 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 2100 | 289 | 
 | 2022-12-09 | 2099 | 289 | 
 | 2022-12-08 | 2097 | 289 | 
-| 2022-12-07 | 2097 | 288 | 
 

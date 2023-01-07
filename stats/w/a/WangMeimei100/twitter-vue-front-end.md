@@ -1,6 +1,6 @@
 # WangMeimei100/twitter-vue-front-end - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | - | 4 | 
 | 2023-01-05 | - | 4 | 
 | 2023-01-04 | - | 4 | 
 | 2023-01-03 | - | 4 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | - | 4 | 
 | 2022-12-10 | - | 4 | 
 | 2022-12-09 | - | 4 | 
-| 2022-12-08 | - | 4 | 
 

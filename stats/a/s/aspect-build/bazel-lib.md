@@ -1,8 +1,8 @@
 # aspect-build/bazel-lib - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 17
+☋ Forks: 18
 
 ★ Stars: 64
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 64 | 18 | 
 | 2023-01-05 | 64 | 17 | 
 | 2023-01-04 | 63 | 17 | 
 | 2023-01-03 | 62 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 61 | 16 | 
 | 2022-12-10 | 60 | 16 | 
 | 2022-12-09 | 60 | 16 | 
-| 2022-12-07 | 59 | 16 | 
 

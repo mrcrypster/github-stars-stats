@@ -1,6 +1,6 @@
 # invertase/flutterfire_cli - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 100 | 30 | 
 | 2023-01-05 | 100 | 30 | 
 | 2023-01-04 | 100 | 30 | 
 | 2023-01-03 | 100 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 99 | 30 | 
 | 2022-12-09 | 99 | 29 | 
 | 2022-12-08 | 99 | 29 | 
-| 2022-12-07 | 99 | 29 | 
 

@@ -1,6 +1,6 @@
 # metarank/metarank - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 1639 | 61 | 
 | 2023-01-05 | 1639 | 61 | 
 | 2023-01-04 | 1639 | 61 | 
 | 2023-01-03 | 1638 | 61 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 1620 | 60 | 
 | 2022-12-10 | 1619 | 60 | 
 | 2022-12-08 | 1618 | 60 | 
-| 2022-12-07 | 1617 | 60 | 
 

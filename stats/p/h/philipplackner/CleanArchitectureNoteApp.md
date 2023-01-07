@@ -1,10 +1,10 @@
 # philipplackner/CleanArchitectureNoteApp - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 264
+☋ Forks: 263
 
-★ Stars: 405
+★ Stars: 406
 
 [Open repository](https://github.com/philipplackner/CleanArchitectureNoteApp)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 406 | 263 | 
 | 2023-01-05 | 405 | 264 | 
 | 2023-01-04 | 403 | 263 | 
 | 2023-01-03 | 402 | 262 | 

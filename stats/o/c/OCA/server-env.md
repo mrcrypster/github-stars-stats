@@ -1,6 +1,6 @@
 # OCA/server-env - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 115
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 41 | 115 | 
 | 2023-01-05 | 41 | 115 | 
 | 2023-01-04 | 41 | 115 | 
 | 2023-01-03 | 41 | 115 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 41 | 114 | 
 | 2022-12-10 | 41 | 114 | 
 | 2022-12-09 | 41 | 114 | 
-| 2022-12-07 | 41 | 114 | 
 

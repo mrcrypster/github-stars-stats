@@ -1,10 +1,10 @@
 # brightsign/BrightAuthor-Plugins - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 66
 
-★ Stars: 53
+★ Stars: 55
 
 [Open repository](https://github.com/brightsign/BrightAuthor-Plugins)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 55 | 66 | 
 | 2023-01-05 | 53 | 66 | 
 | 2023-01-04 | 53 | 66 | 
 | 2023-01-03 | 53 | 66 | 

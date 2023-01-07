@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 06
 
 ☋ Forks: 235
 
-★ Stars: 52
+★ Stars: 53
 
 [Open repository](https://github.com/the-mvm/the-mvm.github.io)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-06 | 52 | 235 | 
+| 2023-01-06 | 53 | 235 | 
 | 2023-01-05 | 52 | 235 | 
 | 2023-01-04 | 50 | 237 | 
 | 2023-01-03 | 50 | 233 | 
@@ -40,5 +40,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 46 | 230 | 
 | 2022-12-10 | 46 | 229 | 
 | 2022-12-09 | 46 | 229 | 
-| 2022-12-08 | 46 | 230 | 
 

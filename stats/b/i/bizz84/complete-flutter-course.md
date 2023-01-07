@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 06
 
 ☋ Forks: 108
 
-★ Stars: 487
+★ Stars: 488
 
 [Open repository](https://github.com/bizz84/complete-flutter-course)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-06 | 487 | 108 | 
+| 2023-01-06 | 488 | 108 | 
 | 2023-01-05 | 487 | 108 | 
 | 2023-01-04 | 485 | 108 | 
 | 2023-01-03 | 483 | 107 | 

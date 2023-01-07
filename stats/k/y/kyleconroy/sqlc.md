@@ -1,10 +1,10 @@
 # kyleconroy/sqlc - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 482
+☋ Forks: 483
 
-★ Stars: 7101
+★ Stars: 7105
 
 [Open repository](https://github.com/kyleconroy/sqlc)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 7105 | 483 | 
 | 2023-01-05 | 7101 | 482 | 
 | 2023-01-04 | 7094 | 482 | 
 | 2023-01-03 | 7082 | 482 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 6904 | 468 | 
 | 2022-12-09 | 6901 | 467 | 
 | 2022-12-08 | 6895 | 466 | 
-| 2022-12-07 | 6891 | 466 | 
 

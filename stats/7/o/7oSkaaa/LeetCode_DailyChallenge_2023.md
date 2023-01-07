@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 06
 
-☋ Forks: 49
+☋ Forks: 52
 
-★ Stars: 40
+★ Stars: 41
 
 [Open repository](https://github.com/7oSkaaa/LeetCode_DailyChallenge_2023)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-06 | 40 | 49 | 
+| 2023-01-06 | 41 | 52 | 
 | 2023-01-05 | 37 | 48 | 
 

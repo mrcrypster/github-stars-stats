@@ -1,10 +1,10 @@
 # subzerocloud/postgrest-starter-kit - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 69
 
-★ Stars: 729
+★ Stars: 730
 
 [Open repository](https://github.com/subzerocloud/postgrest-starter-kit)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 730 | 69 | 
 | 2023-01-05 | 729 | 69 | 
 | 2023-01-04 | 729 | 69 | 
 | 2023-01-03 | 729 | 69 | 

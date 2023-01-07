@@ -1,10 +1,10 @@
 # maykbrito/devlinks - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 47
+☋ Forks: 54
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/maykbrito/devlinks)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 22 | 54 | 
 | 2023-01-05 | 21 | 47 | 
 | 2023-01-04 | 17 | 45 | 
 | 2023-01-03 | 16 | 40 | 

@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 06
 
 ☋ Forks: 18
 
-★ Stars: 60
+★ Stars: 61
 
 [Open repository](https://github.com/wp-cli/scaffold-package-command)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-06 | 60 | 18 | 
+| 2023-01-06 | 61 | 18 | 
 | 2023-01-05 | 60 | 18 | 
 | 2023-01-04 | 60 | 18 | 
 | 2023-01-03 | 60 | 18 | 

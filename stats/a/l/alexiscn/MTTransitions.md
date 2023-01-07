@@ -1,10 +1,10 @@
 # alexiscn/MTTransitions - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 46
 
-★ Stars: 178
+★ Stars: 179
 
 [Open repository](https://github.com/alexiscn/MTTransitions)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 179 | 46 | 
 | 2023-01-05 | 178 | 46 | 
 | 2023-01-04 | 178 | 46 | 
 | 2023-01-03 | 178 | 46 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-10 | 172 | 44 | 
 | 2022-12-09 | 172 | 44 | 
 | 2022-12-08 | 172 | 44 | 
-| 2022-12-07 | 172 | 44 | 
 

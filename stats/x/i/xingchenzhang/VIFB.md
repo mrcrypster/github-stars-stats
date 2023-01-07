@@ -1,6 +1,6 @@
 # xingchenzhang/VIFB - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 229 | 58 | 
 | 2023-01-05 | 229 | 58 | 
 | 2023-01-04 | 228 | 58 | 
 | 2023-01-03 | 228 | 58 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 05
 | 2022-12-11 | 226 | 58 | 
 | 2022-12-10 | 226 | 58 | 
 | 2022-12-09 | 223 | 58 | 
-| 2022-12-08 | 223 | 58 | 
 

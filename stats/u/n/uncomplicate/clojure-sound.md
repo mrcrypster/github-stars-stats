@@ -1,10 +1,10 @@
 # uncomplicate/clojure-sound - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 1
 
-★ Stars: 51
+★ Stars: 52
 
 [Open repository](https://github.com/uncomplicate/clojure-sound)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 52 | 1 | 
 | 2023-01-05 | 51 | 1 | 
 | 2023-01-04 | 51 | 1 | 
 | 2023-01-03 | 51 | 1 | 

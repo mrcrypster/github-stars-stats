@@ -1,10 +1,10 @@
 # artf/grapesjs - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 3258
+☋ Forks: 3257
 
-★ Stars: 17113
+★ Stars: 17127
 
 [Open repository](https://github.com/artf/grapesjs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 17127 | 3257 | 
 | 2023-01-05 | 17113 | 3258 | 
 | 2023-01-04 | 17104 | 3259 | 
 | 2023-01-03 | 17097 | 3256 | 

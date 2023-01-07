@@ -1,10 +1,10 @@
 # AsYetUntitled/Framework - stars & forks statistics
 
-Stats updated on Jan 2023, 05
+Stats updated on Jan 2023, 06
 
-☋ Forks: 311
+☋ Forks: 312
 
-★ Stars: 232
+★ Stars: 231
 
 [Open repository](https://github.com/AsYetUntitled/Framework)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-06 | 231 | 312 | 
 | 2023-01-05 | 232 | 311 | 
 | 2023-01-04 | 232 | 311 | 
 | 2023-01-03 | 232 | 312 | 
