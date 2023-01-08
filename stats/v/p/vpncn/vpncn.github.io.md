@@ -1,10 +1,10 @@
 # vpncn/vpncn.github.io - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 1636
 
-★ Stars: 7863
+★ Stars: 7873
 
 [Open repository](https://github.com/vpncn/vpncn.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 7873 | 1636 | 
 | 2023-01-06 | 7863 | 1636 | 
 | 2023-01-05 | 7861 | 1635 | 
 | 2023-01-04 | 7849 | 1635 | 

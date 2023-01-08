@@ -1,10 +1,10 @@
 # GavinMendelGleason/blog - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 11
 
-★ Stars: 62
+★ Stars: 63
 
 [Open repository](https://github.com/GavinMendelGleason/blog)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 63 | 11 | 
 | 2023-01-06 | 62 | 11 | 
 | 2023-01-05 | 62 | 11 | 
 | 2023-01-04 | 62 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 63 | 11 | 
 | 2022-12-11 | 63 | 11 | 
 | 2022-12-10 | 63 | 11 | 
-| 2022-12-08 | 63 | 11 | 
 

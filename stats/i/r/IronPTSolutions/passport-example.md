@@ -1,6 +1,6 @@
 # IronPTSolutions/passport-example - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | - | 21 | 
 | 2023-01-06 | - | 21 | 
 | 2023-01-05 | - | 21 | 
 | 2023-01-04 | - | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | - | 21 | 
 | 2022-12-11 | - | 21 | 
 | 2022-12-09 | - | 21 | 
-| 2022-12-08 | - | 21 | 
 

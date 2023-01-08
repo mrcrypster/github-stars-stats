@@ -1,6 +1,6 @@
 # rubysherpas/paranoia - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 515
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 2764 | 515 | 
 | 2023-01-06 | 2764 | 515 | 
 | 2023-01-05 | 2763 | 515 | 
 | 2023-01-04 | 2763 | 515 | 

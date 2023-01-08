@@ -1,10 +1,10 @@
 # apache/cordova-plugin-statusbar - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 471
 
-★ Stars: 601
+★ Stars: 600
 
 [Open repository](https://github.com/apache/cordova-plugin-statusbar)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 600 | 471 | 
 | 2023-01-06 | 601 | 471 | 
 | 2023-01-05 | 601 | 471 | 
 | 2023-01-04 | 601 | 471 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 600 | 469 | 
 | 2022-12-11 | 600 | 469 | 
 | 2022-12-09 | 600 | 469 | 
-| 2022-12-08 | 600 | 468 | 
 

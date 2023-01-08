@@ -1,6 +1,6 @@
 # WilfredTA/formal-methods-curriculum - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 122 | 10 | 
 | 2023-01-07 | 122 | 10 | 
 | 2023-01-06 | 122 | 10 | 
 | 2023-01-04 | 122 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-11 | 119 | 9 | 
 | 2022-12-10 | 119 | 9 | 
 | 2022-12-09 | 118 | 9 | 
-| 2022-12-08 | 118 | 9 | 
 

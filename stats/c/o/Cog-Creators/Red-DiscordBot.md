@@ -1,10 +1,10 @@
 # Cog-Creators/Red-DiscordBot - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
-☋ Forks: 2023
+☋ Forks: 2021
 
-★ Stars: 3668
+★ Stars: 3672
 
 [Open repository](https://github.com/Cog-Creators/Red-DiscordBot)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 3672 | 2021 | 
 | 2023-01-06 | 3668 | 2023 | 
 | 2023-01-05 | 3665 | 2022 | 
 | 2023-01-04 | 3666 | 2021 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 3636 | 2021 | 
 | 2022-12-11 | 3633 | 2019 | 
 | 2022-12-10 | 3632 | 2017 | 
-| 2022-12-09 | 3628 | 2016 | 
 

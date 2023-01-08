@@ -1,10 +1,10 @@
 # ethz-asl/benchmark_catkin - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 1
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/ethz-asl/benchmark_catkin)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 1 | 1 | 
 | 2023-01-06 | - | 1 | 
 | 2023-01-05 | - | 1 | 
 | 2023-01-04 | - | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | - | 1 | 
 | 2022-12-10 | - | 1 | 
 | 2022-12-09 | - | 1 | 
-| 2022-12-08 | - | 1 | 
 

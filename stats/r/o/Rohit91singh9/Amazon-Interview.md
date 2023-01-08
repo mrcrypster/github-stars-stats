@@ -1,6 +1,6 @@
 # Rohit91singh9/Amazon-Interview - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 130
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 76 | 130 | 
 | 2023-01-07 | 76 | 130 | 
 | 2023-01-06 | 76 | 130 | 
 | 2023-01-04 | 76 | 130 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-12 | 75 | 131 | 
 | 2022-12-10 | 75 | 131 | 
 | 2022-12-09 | 75 | 131 | 
-| 2022-12-08 | 75 | 132 | 
 

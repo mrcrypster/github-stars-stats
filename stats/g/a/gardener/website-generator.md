@@ -1,6 +1,6 @@
 # gardener/website-generator - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 8 | 17 | 
 | 2023-01-06 | 8 | 17 | 
 | 2023-01-05 | 8 | 17 | 
 | 2023-01-04 | 8 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 8 | 18 | 
 | 2022-12-11 | 8 | 18 | 
 | 2022-12-10 | 8 | 18 | 
-| 2022-12-08 | 8 | 18 | 
 

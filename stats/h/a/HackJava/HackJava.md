@@ -1,10 +1,10 @@
 # HackJava/HackJava - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
-☋ Forks: 342
+☋ Forks: 344
 
-★ Stars: 1584
+★ Stars: 1593
 
 [Open repository](https://github.com/HackJava/HackJava)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 1593 | 344 | 
 | 2023-01-06 | 1584 | 342 | 
 | 2023-01-05 | 1551 | 335 | 
 | 2023-01-04 | 1547 | 334 | 

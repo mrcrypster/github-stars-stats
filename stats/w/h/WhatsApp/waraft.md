@@ -1,6 +1,6 @@
 # WhatsApp/waraft - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 475 | 20 | 
 | 2023-01-06 | 475 | 20 | 
 | 2023-01-05 | 473 | 19 | 
 | 2023-01-04 | 473 | 19 | 

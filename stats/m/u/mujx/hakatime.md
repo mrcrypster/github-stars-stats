@@ -1,10 +1,10 @@
 # mujx/hakatime - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 31
 
-★ Stars: 412
+★ Stars: 413
 
 [Open repository](https://github.com/mujx/hakatime)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 413 | 31 | 
 | 2023-01-06 | 412 | 31 | 
 | 2023-01-05 | 412 | 31 | 
 | 2023-01-04 | 411 | 31 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 404 | 30 | 
 | 2022-12-11 | 404 | 30 | 
 | 2022-12-10 | 402 | 29 | 
-| 2022-12-08 | 402 | 29 | 
 

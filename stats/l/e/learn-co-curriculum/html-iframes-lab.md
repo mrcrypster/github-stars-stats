@@ -1,8 +1,8 @@
 # learn-co-curriculum/html-iframes-lab - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
-☋ Forks: 797
+☋ Forks: 799
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 2 | 799 | 
 | 2023-01-06 | 2 | 797 | 
 | 2023-01-05 | 2 | 796 | 
 | 2023-01-04 | 2 | 796 | 

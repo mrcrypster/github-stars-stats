@@ -1,10 +1,10 @@
 # smy20011/dreambooth-gui - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 13
 
-★ Stars: 281
+★ Stars: 282
 
 [Open repository](https://github.com/smy20011/dreambooth-gui)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 282 | 13 | 
 | 2023-01-06 | 281 | 13 | 
 | 2023-01-05 | 280 | 13 | 
 | 2023-01-04 | 280 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 253 | 13 | 
 | 2022-12-10 | 250 | 13 | 
 | 2022-12-09 | 248 | 13 | 
-| 2022-12-08 | 245 | 13 | 
 

@@ -1,6 +1,6 @@
 # google-research/simclr - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 546
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 3332 | 546 | 
 | 2023-01-06 | 3332 | 546 | 
 | 2023-01-05 | 3331 | 546 | 
 | 2023-01-04 | 3328 | 546 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 3300 | 544 | 
 | 2022-12-11 | 3300 | 544 | 
 | 2022-12-10 | 3298 | 544 | 
-| 2022-12-08 | 3297 | 542 | 
 

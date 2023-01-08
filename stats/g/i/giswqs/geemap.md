@@ -1,10 +1,10 @@
 # giswqs/geemap - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 912
 
-★ Stars: 2458
+★ Stars: 2459
 
 [Open repository](https://github.com/giswqs/geemap)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 2459 | 912 | 
 | 2023-01-06 | 2458 | 912 | 
 | 2023-01-05 | 2455 | 911 | 
 | 2023-01-04 | 2447 | 910 | 

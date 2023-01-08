@@ -1,10 +1,10 @@
 # wesleyegberto/java-new-features - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 41
 
-★ Stars: 126
+★ Stars: 129
 
 [Open repository](https://github.com/wesleyegberto/java-new-features)
 
@@ -13,5 +13,6 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 129 | 41 | 
 | 2023-01-06 | 126 | 41 | 
 

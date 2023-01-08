@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 07
 
 ☋ Forks: 165
 
-★ Stars: 1119
+★ Stars: 1120
 
 [Open repository](https://github.com/bestguy/sveltestrap)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-07 | 1119 | 165 | 
+| 2023-01-07 | 1120 | 165 | 
 | 2023-01-06 | 1119 | 165 | 
 | 2023-01-05 | 1116 | 165 | 
 | 2023-01-04 | 1115 | 165 | 
@@ -41,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-12 | 1095 | 164 | 
 | 2022-12-10 | 1095 | 164 | 
 | 2022-12-09 | 1093 | 164 | 
-| 2022-12-08 | 1092 | 164 | 
 

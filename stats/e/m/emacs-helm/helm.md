@@ -1,10 +1,10 @@
 # emacs-helm/helm - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 397
 
-★ Stars: 3226
+★ Stars: 3228
 
 [Open repository](https://github.com/emacs-helm/helm)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 3228 | 397 | 
 | 2023-01-06 | 3226 | 397 | 
 | 2023-01-05 | 3227 | 397 | 
 | 2023-01-04 | 3227 | 397 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 3225 | 398 | 
 | 2022-12-10 | 3223 | 398 | 
 | 2022-12-09 | 3223 | 398 | 
-| 2022-12-08 | 3222 | 398 | 
 

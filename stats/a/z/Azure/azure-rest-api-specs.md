@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 07
 
 ☋ Forks: 4123
 
-★ Stars: 1932
+★ Stars: 1935
 
 [Open repository](https://github.com/Azure/azure-rest-api-specs)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-07 | 1932 | 4123 | 
+| 2023-01-07 | 1935 | 4123 | 
 | 2023-01-06 | 1930 | 4122 | 
 | 2023-01-05 | 1921 | 4117 | 
 | 2023-01-04 | 1922 | 4114 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-11 | 1895 | 4096 | 
 | 2022-12-10 | 1895 | 4096 | 
 | 2022-12-09 | 1895 | 4094 | 
-| 2022-12-08 | 1894 | 4095 | 
 

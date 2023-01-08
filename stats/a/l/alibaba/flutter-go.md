@@ -1,10 +1,10 @@
 # alibaba/flutter-go - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 3762
 
-★ Stars: 23214
+★ Stars: 23215
 
 [Open repository](https://github.com/alibaba/flutter-go)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 23215 | 3762 | 
 | 2023-01-06 | 23214 | 3762 | 
 | 2023-01-05 | 23215 | 3760 | 
 | 2023-01-04 | 23216 | 3760 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 23214 | 3756 | 
 | 2022-12-11 | 23217 | 3756 | 
 | 2022-12-10 | 23217 | 3756 | 
-| 2022-12-08 | 23217 | 3754 | 
 

@@ -1,6 +1,6 @@
 # pages-themes/modernist - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 192
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 103 | 192 | 
 | 2023-01-06 | 103 | 192 | 
 | 2023-01-05 | 103 | 192 | 
 | 2023-01-04 | 103 | 192 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 103 | 191 | 
 | 2022-12-10 | 103 | 191 | 
 | 2022-12-09 | 103 | 191 | 
-| 2022-12-08 | 103 | 191 | 
 

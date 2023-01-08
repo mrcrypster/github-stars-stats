@@ -1,6 +1,6 @@
 # fabiensanglard/gebbdoom - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 541 | 47 | 
 | 2023-01-07 | 541 | 47 | 
 | 2023-01-05 | 541 | 47 | 
 | 2023-01-04 | 540 | 47 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-11 | 538 | 46 | 
 | 2022-12-10 | 538 | 46 | 
 | 2022-12-09 | 538 | 46 | 
-| 2022-12-08 | 539 | 46 | 
 

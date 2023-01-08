@@ -1,10 +1,10 @@
 # ruby/net-imap - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 18
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/ruby/net-imap)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 25 | 18 | 
 | 2023-01-06 | 24 | 18 | 
 | 2023-01-05 | 24 | 18 | 
 | 2023-01-04 | 24 | 18 | 

@@ -1,6 +1,6 @@
 # adityastomar67/nvim-dots - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 28 | 2 | 
 | 2023-01-07 | 28 | 2 | 
 | 2023-01-05 | 28 | 2 | 
 | 2023-01-04 | 28 | 2 | 

@@ -1,10 +1,10 @@
 # powenn/ModMyIPA - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 10
 
-★ Stars: 149
+★ Stars: 150
 
 [Open repository](https://github.com/powenn/ModMyIPA)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 150 | 10 | 
 | 2023-01-06 | 149 | 10 | 
 | 2023-01-05 | 149 | 10 | 
 | 2023-01-04 | 149 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 144 | 10 | 
 | 2022-12-10 | 144 | 10 | 
 | 2022-12-09 | 144 | 10 | 
-| 2022-12-08 | 142 | 10 | 
 

@@ -1,6 +1,6 @@
 # advanced-security/codeql-workshops-staging - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 1 | 2 | 
 | 2023-01-06 | 1 | 2 | 
 | 2023-01-05 | 1 | 2 | 
 | 2023-01-04 | 1 | 2 | 

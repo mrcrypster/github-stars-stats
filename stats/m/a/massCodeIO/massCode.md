@@ -1,10 +1,10 @@
 # massCodeIO/massCode - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 118
+☋ Forks: 119
 
-★ Stars: 4293
+★ Stars: 4295
 
 [Open repository](https://github.com/massCodeIO/massCode)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 4295 | 119 | 
 | 2023-01-07 | 4293 | 118 | 
 | 2023-01-06 | 4282 | 118 | 
 | 2023-01-04 | 4278 | 117 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-11 | 4190 | 111 | 
 | 2022-12-10 | 4186 | 112 | 
 | 2022-12-09 | 4182 | 112 | 
-| 2022-12-08 | 4168 | 112 | 
 

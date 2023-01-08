@@ -1,6 +1,6 @@
 # byt3bl33d3r/SILENTTRINITY - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 393
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 1947 | 393 | 
 | 2023-01-06 | 1947 | 393 | 
 | 2023-01-05 | 1947 | 393 | 
 | 2023-01-04 | 1946 | 394 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 1936 | 395 | 
 | 2022-12-11 | 1935 | 394 | 
 | 2022-12-10 | 1934 | 394 | 
-| 2022-12-09 | 1934 | 394 | 
 

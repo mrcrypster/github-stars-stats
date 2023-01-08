@@ -1,10 +1,10 @@
 # sveinbjornt/Platypus - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 160
 
-★ Stars: 2139
+★ Stars: 2141
 
 [Open repository](https://github.com/sveinbjornt/Platypus)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 2141 | 160 | 
 | 2023-01-06 | 2139 | 160 | 
 | 2023-01-05 | 2140 | 160 | 
 | 2023-01-04 | 2136 | 160 | 

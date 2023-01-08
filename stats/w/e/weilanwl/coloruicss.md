@@ -1,8 +1,8 @@
 # weilanwl/coloruicss - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
-☋ Forks: 2143
+☋ Forks: 2142
 
 ★ Stars: 11577
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 11577 | 2142 | 
 | 2023-01-06 | 11577 | 2143 | 
 | 2023-01-05 | 11576 | 2143 | 
 | 2023-01-04 | 11576 | 2144 | 

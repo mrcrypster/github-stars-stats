@@ -1,6 +1,6 @@
 # mayconrfreitas/RevitAPISnippets - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 18 | 7 | 
 | 2023-01-06 | 18 | 7 | 
 | 2023-01-05 | 18 | 7 | 
 | 2023-01-04 | 18 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 17 | 6 | 
 | 2022-12-11 | 17 | 6 | 
 | 2022-12-10 | 17 | 6 | 
-| 2022-12-09 | 17 | 6 | 
 

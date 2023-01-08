@@ -1,6 +1,6 @@
 # prosapient/ecto_squash - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 24 | 2 | 
 | 2023-01-07 | 24 | 2 | 
 | 2023-01-06 | 24 | 2 | 
 | 2023-01-04 | 24 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-11 | 23 | 2 | 
 | 2022-12-10 | 22 | 2 | 
 | 2022-12-09 | 21 | 2 | 
-| 2022-12-08 | 19 | 2 | 
 

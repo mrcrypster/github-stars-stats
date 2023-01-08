@@ -1,10 +1,10 @@
 # jonas/tig - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 593
 
-★ Stars: 11427
+★ Stars: 11429
 
 [Open repository](https://github.com/jonas/tig)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 11429 | 593 | 
 | 2023-01-06 | 11427 | 593 | 
 | 2023-01-05 | 11425 | 593 | 
 | 2023-01-04 | 11420 | 593 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 11368 | 591 | 
 | 2022-12-10 | 11365 | 591 | 
 | 2022-12-09 | 11363 | 591 | 
-| 2022-12-08 | 11362 | 591 | 
 

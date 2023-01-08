@@ -1,10 +1,10 @@
 # sshiqiao/douyin-ios-objectc - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 627
 
-★ Stars: 2211
+★ Stars: 2213
 
 [Open repository](https://github.com/sshiqiao/douyin-ios-objectc)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 2213 | 627 | 
 | 2023-01-06 | 2211 | 627 | 
 | 2023-01-05 | 2211 | 627 | 
 | 2023-01-04 | 2210 | 627 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 2204 | 627 | 
 | 2022-12-10 | 2203 | 627 | 
 | 2022-12-09 | 2202 | 627 | 
-| 2022-12-08 | 2201 | 627 | 
 

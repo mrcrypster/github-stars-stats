@@ -1,10 +1,10 @@
 # a16z/evm-powers-of-tau - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
-☋ Forks: 2
+☋ Forks: 3
 
-★ Stars: 80
+★ Stars: 81
 
 [Open repository](https://github.com/a16z/evm-powers-of-tau)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 81 | 3 | 
 | 2023-01-06 | 80 | 2 | 
 | 2023-01-05 | 80 | 2 | 
 | 2023-01-04 | 80 | 1 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-13 | 79 | 1 | 
 | 2022-12-11 | 79 | 1 | 
 | 2022-12-10 | 79 | 1 | 
-| 2022-12-08 | 79 | 1 | 
 

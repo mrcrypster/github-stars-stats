@@ -1,6 +1,6 @@
 # AlexanderConnelly/BrainTree_SQL_Coding_Challenge_Data_Analyst - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 172 | 51 | 
 | 2023-01-06 | 172 | 51 | 
 | 2023-01-05 | 170 | 51 | 
 | 2023-01-04 | 170 | 50 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 158 | 46 | 
 | 2022-12-10 | 158 | 46 | 
 | 2022-12-09 | 158 | 46 | 
-| 2022-12-08 | 158 | 46 | 
 

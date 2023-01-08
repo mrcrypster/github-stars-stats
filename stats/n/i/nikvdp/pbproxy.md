@@ -1,10 +1,10 @@
 # nikvdp/pbproxy - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 5
 
-★ Stars: 213
+★ Stars: 215
 
 [Open repository](https://github.com/nikvdp/pbproxy)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 215 | 5 | 
 | 2023-01-06 | 213 | 5 | 
 | 2023-01-05 | 213 | 5 | 
 | 2023-01-04 | 211 | 5 | 

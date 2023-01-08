@@ -1,6 +1,6 @@
 # PilotLee/DingDongHelper - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 24 | 10 | 
 | 2023-01-06 | 24 | 10 | 
 | 2023-01-05 | 24 | 10 | 
 | 2023-01-04 | 24 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 24 | 10 | 
 | 2022-12-10 | 24 | 10 | 
 | 2022-12-09 | 24 | 10 | 
-| 2022-12-08 | 24 | 10 | 
 

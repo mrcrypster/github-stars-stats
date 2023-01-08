@@ -1,10 +1,10 @@
 # SamboyCoding/Cpp2IL - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 105
 
-★ Stars: 862
+★ Stars: 864
 
 [Open repository](https://github.com/SamboyCoding/Cpp2IL)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 864 | 105 | 
 | 2023-01-06 | 862 | 105 | 
 | 2023-01-05 | 862 | 105 | 
 | 2023-01-04 | 859 | 104 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 840 | 104 | 
 | 2022-12-10 | 839 | 103 | 
 | 2022-12-09 | 839 | 103 | 
-| 2022-12-08 | 838 | 102 | 
 

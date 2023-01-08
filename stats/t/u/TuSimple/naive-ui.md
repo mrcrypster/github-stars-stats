@@ -1,10 +1,10 @@
 # TuSimple/naive-ui - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
-☋ Forks: 1270
+☋ Forks: 1271
 
-★ Stars: 11313
+★ Stars: 11321
 
 [Open repository](https://github.com/TuSimple/naive-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 11321 | 1271 | 
 | 2023-01-06 | 11313 | 1270 | 
 | 2023-01-05 | 11293 | 1267 | 
 | 2023-01-04 | 11285 | 1264 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 11057 | 1223 | 
 | 2022-12-10 | 11051 | 1223 | 
 | 2022-12-09 | 11047 | 1224 | 
-| 2022-12-08 | 11031 | 1220 | 
 

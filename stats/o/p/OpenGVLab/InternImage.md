@@ -1,6 +1,6 @@
 # OpenGVLab/InternImage - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 302 | 15 | 
 | 2023-01-06 | 302 | 15 | 
 | 2023-01-05 | 300 | 15 | 
 | 2023-01-04 | 298 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 265 | 9 | 
 | 2022-12-10 | 264 | 9 | 
 | 2022-12-09 | 261 | 9 | 
-| 2022-12-08 | 256 | 9 | 
 

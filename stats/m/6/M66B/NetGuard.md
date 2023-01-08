@@ -1,6 +1,6 @@
 # M66B/NetGuard - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 77
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 607 | 77 | 
 | 2023-01-06 | 607 | 77 | 
 | 2023-01-05 | 607 | 77 | 
 | 2023-01-04 | 605 | 77 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 563 | 74 | 
 | 2022-12-10 | 561 | 74 | 
 | 2022-12-09 | 559 | 74 | 
-| 2022-12-08 | 556 | 74 | 
 

@@ -1,6 +1,6 @@
 # JuliaPy/PyCall.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 183
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 1300 | 183 | 
 | 2023-01-06 | 1300 | 183 | 
 | 2023-01-05 | 1299 | 183 | 
 | 2023-01-04 | 1299 | 183 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 1291 | 184 | 
 | 2022-12-10 | 1290 | 184 | 
 | 2022-12-09 | 1290 | 184 | 
-| 2022-12-08 | 1289 | 184 | 
 

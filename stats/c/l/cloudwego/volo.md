@@ -1,10 +1,10 @@
 # cloudwego/volo - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
-☋ Forks: 82
+☋ Forks: 83
 
-★ Stars: 1309
+★ Stars: 1310
 
 [Open repository](https://github.com/cloudwego/volo)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 1310 | 83 | 
 | 2023-01-06 | 1309 | 82 | 
 | 2023-01-05 | 1302 | 81 | 
 | 2023-01-04 | 1300 | 81 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 1235 | 77 | 
 | 2022-12-11 | 1236 | 76 | 
 | 2022-12-09 | 1235 | 76 | 
-| 2022-12-08 | 1233 | 76 | 
 

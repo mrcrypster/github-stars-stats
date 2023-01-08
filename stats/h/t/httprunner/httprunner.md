@@ -1,6 +1,6 @@
 # httprunner/httprunner - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 1160
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 3528 | 1160 | 
 | 2023-01-06 | 3528 | 1160 | 
 | 2023-01-05 | 3525 | 1160 | 
 | 2023-01-04 | 3524 | 1159 | 

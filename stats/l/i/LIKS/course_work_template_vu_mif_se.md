@@ -1,10 +1,10 @@
 # LIKS/course_work_template_vu_mif_se - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 16
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/LIKS/course_work_template_vu_mif_se)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 5 | 16 | 
 | 2023-01-06 | 4 | 16 | 
 | 2023-01-05 | 4 | 16 | 
 | 2023-01-04 | 4 | 16 | 

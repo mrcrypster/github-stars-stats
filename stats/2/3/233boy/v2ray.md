@@ -1,10 +1,10 @@
 # 233boy/v2ray - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
-☋ Forks: 14189
+☋ Forks: 14192
 
-★ Stars: 17538
+★ Stars: 17542
 
 [Open repository](https://github.com/233boy/v2ray)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 17542 | 14192 | 
 | 2023-01-06 | 17538 | 14189 | 
 | 2023-01-05 | 17535 | 14187 | 
 | 2023-01-04 | 17533 | 14189 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 17453 | 14134 | 
 | 2022-12-11 | 17431 | 14129 | 
 | 2022-12-10 | 17423 | 14128 | 
-| 2022-12-08 | 17411 | 14125 | 
 

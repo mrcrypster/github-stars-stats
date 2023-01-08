@@ -1,6 +1,6 @@
 # nattfsdfd/ngrok_rdp_main - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | - | 39 | 
 | 2023-01-06 | - | 39 | 
 | 2023-01-05 | - | 39 | 
 | 2023-01-04 | - | 38 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | - | 28 | 
 | 2022-12-11 | - | 28 | 
 | 2022-12-10 | - | 28 | 
-| 2022-12-09 | - | 28 | 
 

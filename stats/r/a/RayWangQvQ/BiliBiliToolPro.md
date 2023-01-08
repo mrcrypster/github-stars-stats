@@ -1,10 +1,10 @@
 # RayWangQvQ/BiliBiliToolPro - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
-☋ Forks: 1278
+☋ Forks: 1279
 
-★ Stars: 2196
+★ Stars: 2207
 
 [Open repository](https://github.com/RayWangQvQ/BiliBiliToolPro)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 2207 | 1279 | 
 | 2023-01-06 | 2196 | 1278 | 
 | 2023-01-05 | 2179 | 1277 | 
 | 2023-01-04 | 2166 | 1274 | 

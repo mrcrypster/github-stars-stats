@@ -1,10 +1,10 @@
 # Azure/azure-docs-bicep-samples - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 22
 
-★ Stars: 38
+★ Stars: 39
 
 [Open repository](https://github.com/Azure/azure-docs-bicep-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 39 | 22 | 
 | 2023-01-06 | 38 | 22 | 
 | 2023-01-05 | 38 | 22 | 
 | 2023-01-04 | 38 | 22 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 39 | 20 | 
 | 2022-12-10 | 39 | 20 | 
 | 2022-12-09 | 39 | 20 | 
-| 2022-12-08 | 39 | 20 | 
 

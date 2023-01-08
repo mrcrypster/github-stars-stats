@@ -1,6 +1,6 @@
 # boostorg/beast - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 604
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 3633 | 604 | 
 | 2023-01-06 | 3633 | 604 | 
 | 2023-01-05 | 3633 | 603 | 
 | 2023-01-03 | 3630 | 603 | 

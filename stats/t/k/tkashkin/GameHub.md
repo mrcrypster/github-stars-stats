@@ -1,6 +1,6 @@
 # tkashkin/GameHub - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 107
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 1954 | 107 | 
 | 2023-01-06 | 1954 | 107 | 
 | 2023-01-05 | 1953 | 107 | 
 | 2023-01-04 | 1952 | 107 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 1931 | 106 | 
 | 2022-12-10 | 1929 | 106 | 
 | 2022-12-09 | 1929 | 106 | 
-| 2022-12-08 | 1929 | 106 | 
 

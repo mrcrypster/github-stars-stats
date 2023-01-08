@@ -1,6 +1,6 @@
 # zhangchuangiie/SimpleKafka - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 287 | 21 | 
 | 2023-01-06 | 287 | 21 | 
 | 2023-01-05 | 287 | 21 | 
 | 2023-01-04 | 287 | 21 | 
@@ -39,5 +40,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 287 | 21 | 
 | 2022-12-11 | 287 | 21 | 
 | 2022-12-10 | 287 | 21 | 
-| 2022-12-09 | 287 | 21 | 
 

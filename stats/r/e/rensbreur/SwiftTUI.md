@@ -1,10 +1,10 @@
 # rensbreur/SwiftTUI - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 17
 
-★ Stars: 635
+★ Stars: 638
 
 [Open repository](https://github.com/rensbreur/SwiftTUI)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 638 | 17 | 
 | 2023-01-06 | 635 | 17 | 
 | 2023-01-05 | 635 | 17 | 
 | 2023-01-04 | 635 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 609 | 13 | 
 | 2022-12-10 | 608 | 13 | 
 | 2022-12-09 | 608 | 13 | 
-| 2022-12-08 | 604 | 13 | 
 

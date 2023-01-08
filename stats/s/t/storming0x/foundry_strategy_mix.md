@@ -1,8 +1,8 @@
 # storming0x/foundry_strategy_mix - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
-☋ Forks: 31
+☋ Forks: 32
 
 ★ Stars: 91
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 91 | 32 | 
 | 2023-01-06 | 91 | 31 | 
 | 2023-01-05 | 91 | 31 | 
 | 2023-01-04 | 91 | 31 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 89 | 29 | 
 | 2022-12-10 | 89 | 29 | 
 | 2022-12-09 | 89 | 29 | 
-| 2022-12-08 | 89 | 29 | 
 

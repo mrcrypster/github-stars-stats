@@ -1,10 +1,10 @@
 # prayogimhd/ppdb-ci4 - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
-☋ Forks: 11
+☋ Forks: 13
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/prayogimhd/ppdb-ci4)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 18 | 13 | 
 | 2023-01-06 | 17 | 11 | 
 | 2023-01-05 | 16 | 11 | 
 | 2023-01-04 | 16 | 11 | 

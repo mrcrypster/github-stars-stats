@@ -1,10 +1,10 @@
 # logseq/graph-validator - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 0
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/logseq/graph-validator)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 27 | - | 
 | 2023-01-06 | 26 | - | 
 | 2023-01-05 | 26 | - | 
 | 2023-01-04 | 26 | - | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 26 | - | 
 | 2022-12-11 | 26 | - | 
 | 2022-12-10 | 26 | - | 
-| 2022-12-08 | 26 | - | 
 

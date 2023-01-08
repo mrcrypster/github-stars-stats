@@ -1,10 +1,10 @@
 # MyCoRe-Org/mir - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 9
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/MyCoRe-Org/mir)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 9 | 9 | 
 | 2023-01-06 | 8 | 9 | 
 | 2023-01-05 | 8 | 9 | 
 | 2023-01-04 | 8 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 8 | 9 | 
 | 2022-12-10 | 8 | 9 | 
 | 2022-12-09 | 8 | 9 | 
-| 2022-12-08 | 8 | 9 | 
 

@@ -1,10 +1,10 @@
 # missuo/FuckSheepGame - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 24
 
-★ Stars: 61
+★ Stars: 60
 
 [Open repository](https://github.com/missuo/FuckSheepGame)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 60 | 24 | 
 | 2023-01-06 | 61 | 24 | 
 | 2023-01-05 | 61 | 24 | 
 | 2023-01-04 | 60 | 24 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 60 | 24 | 
 | 2022-12-11 | 60 | 24 | 
 | 2022-12-10 | 60 | 24 | 
-| 2022-12-08 | 60 | 24 | 
 

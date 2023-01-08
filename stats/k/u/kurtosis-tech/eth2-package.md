@@ -1,10 +1,10 @@
 # kurtosis-tech/eth2-package - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 2
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/kurtosis-tech/eth2-package)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 2 | 2 | 
 | 2023-01-06 | 1 | 2 | 
 | 2023-01-05 | 1 | 2 | 
 | 2023-01-04 | 1 | 2 | 

@@ -1,6 +1,6 @@
 # OnePlusOSS/android_kernel_msm-5.10_oneplus_sm8450 - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 28 | 14 | 
 | 2023-01-06 | 28 | 14 | 
 | 2023-01-05 | 28 | 14 | 
 | 2023-01-04 | 28 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 27 | 14 | 
 | 2022-12-10 | 27 | 14 | 
 | 2022-12-09 | 27 | 14 | 
-| 2022-12-08 | 27 | 14 | 
 

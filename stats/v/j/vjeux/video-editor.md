@@ -1,6 +1,6 @@
 # vjeux/video-editor - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 116 | 7 | 
 | 2023-01-06 | 116 | 7 | 
 | 2023-01-05 | 116 | 7 | 
 | 2023-01-04 | 114 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 88 | 5 | 
 | 2022-12-10 | 87 | 5 | 
 | 2022-12-09 | 86 | 5 | 
-| 2022-12-08 | 81 | 5 | 
 

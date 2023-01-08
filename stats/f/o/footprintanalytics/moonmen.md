@@ -1,6 +1,6 @@
 # footprintanalytics/moonmen - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 39 | - | 
 | 2023-01-06 | 39 | - | 
 | 2023-01-05 | 39 | - | 
 | 2023-01-04 | 39 | - | 

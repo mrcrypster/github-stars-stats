@@ -1,6 +1,6 @@
 # daweedkob/sorting_algos - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 304 | 15 | 
 | 2023-01-06 | 304 | 15 | 
 | 2023-01-05 | 302 | 14 | 
 | 2023-01-04 | 301 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 287 | 13 | 
 | 2022-12-10 | 285 | 13 | 
 | 2022-12-09 | 281 | 12 | 
-| 2022-12-08 | 277 | 12 | 
 

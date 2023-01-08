@@ -1,6 +1,6 @@
 # ocaml-flambda/flambda-backend - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 51 | 35 | 
 | 2023-01-06 | 51 | 35 | 
 | 2023-01-05 | 51 | 35 | 
 | 2023-01-04 | 51 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 51 | 35 | 
 | 2022-12-10 | 51 | 35 | 
 | 2022-12-09 | 50 | 35 | 
-| 2022-12-08 | 49 | 35 | 
 

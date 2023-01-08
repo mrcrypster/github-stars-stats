@@ -1,10 +1,10 @@
 # bitfield/script - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
-☋ Forks: 236
+☋ Forks: 235
 
-★ Stars: 3704
+★ Stars: 3708
 
 [Open repository](https://github.com/bitfield/script)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 3708 | 235 | 
 | 2023-01-06 | 3704 | 236 | 
 | 2023-01-05 | 3678 | 236 | 
 | 2023-01-04 | 3603 | 235 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 3487 | 231 | 
 | 2022-12-11 | 3483 | 230 | 
 | 2022-12-10 | 3475 | 230 | 
-| 2022-12-08 | 3470 | 230 | 
 

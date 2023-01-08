@@ -1,6 +1,6 @@
 # klmr/box - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 664 | 39 | 
 | 2023-01-06 | 664 | 39 | 
 | 2023-01-05 | 664 | 39 | 
 | 2023-01-04 | 663 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 661 | 39 | 
 | 2022-12-10 | 661 | 39 | 
 | 2022-12-09 | 661 | 39 | 
-| 2022-12-08 | 660 | 39 | 
 

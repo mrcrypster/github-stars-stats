@@ -1,10 +1,10 @@
 # ReactiveX/RxJava - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 7643
 
-★ Stars: 46755
+★ Stars: 46758
 
 [Open repository](https://github.com/ReactiveX/RxJava)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 46758 | 7643 | 
 | 2023-01-06 | 46755 | 7643 | 
 | 2023-01-05 | 46753 | 7644 | 
 | 2023-01-04 | 46752 | 7642 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 46701 | 7638 | 
 | 2022-12-11 | 46696 | 7637 | 
 | 2022-12-10 | 46695 | 7636 | 
-| 2022-12-08 | 46696 | 7635 | 
 

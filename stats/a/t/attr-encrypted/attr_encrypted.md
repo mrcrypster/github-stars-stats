@@ -1,8 +1,8 @@
 # attr-encrypted/attr_encrypted - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
-☋ Forks: 399
+☋ Forks: 400
 
 ★ Stars: 1937
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 1937 | 400 | 
 | 2023-01-06 | 1937 | 399 | 
 | 2023-01-05 | 1937 | 397 | 
 | 2023-01-04 | 1938 | 397 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 1939 | 390 | 
 | 2022-12-10 | 1939 | 390 | 
 | 2022-12-09 | 1939 | 390 | 
-| 2022-12-08 | 1939 | 390 | 
 

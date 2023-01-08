@@ -1,6 +1,6 @@
 # midnightmonster/activerecord-summarize - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 104 | 1 | 
 | 2023-01-06 | 104 | 1 | 
 | 2023-01-05 | 103 | 1 | 
 | 2023-01-04 | 103 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 101 | 1 | 
 | 2022-12-11 | 101 | 1 | 
 | 2022-12-10 | 101 | 1 | 
-| 2022-12-08 | 101 | 1 | 
 

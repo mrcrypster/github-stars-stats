@@ -1,10 +1,10 @@
 # heibaiying/BigData-Notes - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
-☋ Forks: 3803
+☋ Forks: 3805
 
-★ Stars: 13159
+★ Stars: 13166
 
 [Open repository](https://github.com/heibaiying/BigData-Notes)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 13166 | 3805 | 
 | 2023-01-06 | 13159 | 3803 | 
 | 2023-01-05 | 13150 | 3800 | 
 | 2023-01-04 | 13143 | 3799 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 12954 | 3741 | 
 | 2022-12-10 | 12951 | 3741 | 
 | 2022-12-09 | 12947 | 3741 | 
-| 2022-12-08 | 12940 | 3739 | 
 

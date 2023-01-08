@@ -1,10 +1,10 @@
 # recloudstream/cloudstream-extensions-multilingual - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 39
 
-★ Stars: 32
+★ Stars: 31
 
 [Open repository](https://github.com/recloudstream/cloudstream-extensions-multilingual)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 31 | 39 | 
 | 2023-01-06 | 32 | 39 | 
 | 2023-01-05 | 32 | 38 | 
 | 2023-01-04 | 32 | 38 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 27 | 34 | 
 | 2022-12-10 | 27 | 33 | 
 | 2022-12-09 | 25 | 33 | 
-| 2022-12-08 | 25 | 33 | 
 

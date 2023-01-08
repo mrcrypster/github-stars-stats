@@ -1,10 +1,10 @@
 # ssnhd/rime - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 198
 
-★ Stars: 1786
+★ Stars: 1788
 
 [Open repository](https://github.com/ssnhd/rime)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 1788 | 198 | 
 | 2023-01-06 | 1786 | 198 | 
 | 2023-01-05 | 1777 | 196 | 
 | 2023-01-04 | 1774 | 195 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 1718 | 191 | 
 | 2022-12-10 | 1717 | 190 | 
 | 2022-12-09 | 1715 | 189 | 
-| 2022-12-08 | 1708 | 188 | 
 

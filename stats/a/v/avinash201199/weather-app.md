@@ -1,6 +1,6 @@
 # avinash201199/weather-app - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 87
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 45 | 87 | 
 | 2023-01-06 | 45 | 87 | 
 | 2023-01-05 | 45 | 87 | 
 | 2023-01-04 | 45 | 87 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 47 | 86 | 
 | 2022-12-11 | 47 | 86 | 
 | 2022-12-09 | 46 | 86 | 
-| 2022-12-08 | 46 | 85 | 
 

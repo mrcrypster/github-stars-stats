@@ -1,6 +1,6 @@
 # rust-lang-cn/nomicon-zh-Hans - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 393 | 27 | 
 | 2023-01-06 | 393 | 27 | 
 | 2023-01-05 | 392 | 27 | 
 | 2023-01-04 | 392 | 27 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 387 | 27 | 
 | 2022-12-11 | 388 | 27 | 
 | 2022-12-10 | 388 | 27 | 
-| 2022-12-08 | 388 | 27 | 
 

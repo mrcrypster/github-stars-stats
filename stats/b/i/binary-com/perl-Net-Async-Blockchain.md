@@ -1,6 +1,6 @@
 # binary-com/perl-Net-Async-Blockchain - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 3 | 15 | 
 | 2023-01-07 | 3 | 15 | 
 | 2023-01-06 | 3 | 15 | 
 | 2023-01-04 | 3 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-11 | 3 | 15 | 
 | 2022-12-10 | 3 | 15 | 
 | 2022-12-09 | 3 | 15 | 
-| 2022-12-08 | 3 | 15 | 
 

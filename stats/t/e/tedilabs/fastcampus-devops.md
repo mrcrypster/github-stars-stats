@@ -1,10 +1,10 @@
 # tedilabs/fastcampus-devops - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 08
 
-☋ Forks: 166
+☋ Forks: 167
 
-★ Stars: 152
+★ Stars: 153
 
 [Open repository](https://github.com/tedilabs/fastcampus-devops)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 153 | 167 | 
 | 2023-01-06 | 152 | 166 | 
 | 2023-01-05 | 152 | 166 | 
 | 2023-01-04 | 152 | 166 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 144 | 153 | 
 | 2022-12-10 | 143 | 153 | 
 | 2022-12-09 | 143 | 153 | 
-| 2022-12-08 | 143 | 153 | 
 

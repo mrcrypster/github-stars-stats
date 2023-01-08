@@ -1,6 +1,6 @@
 # cucumber/cucumber-ruby-wire - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 6 | 8 | 
 | 2023-01-06 | 6 | 8 | 
 | 2023-01-05 | 6 | 8 | 
 | 2023-01-04 | 6 | 8 | 

@@ -1,6 +1,6 @@
 # google/docsy-example - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 600
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 337 | 600 | 
 | 2023-01-06 | 337 | 600 | 
 | 2023-01-05 | 336 | 599 | 
 | 2023-01-04 | 336 | 599 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 331 | 594 | 
 | 2022-12-11 | 331 | 593 | 
 | 2022-12-09 | 331 | 593 | 
-| 2022-12-08 | 331 | 593 | 
 

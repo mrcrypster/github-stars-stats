@@ -1,6 +1,6 @@
 # 42StudyGame/Unity_01 - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 3 | 3 | 
 | 2023-01-06 | 3 | 3 | 
 | 2023-01-05 | 3 | 3 | 
 | 2023-01-04 | 3 | 3 | 

@@ -1,10 +1,10 @@
 # savi-lang/savi - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 9
 
-★ Stars: 132
+★ Stars: 134
 
 [Open repository](https://github.com/savi-lang/savi)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 134 | 9 | 
 | 2023-01-06 | 132 | 9 | 
 | 2023-01-05 | 132 | 9 | 
 | 2023-01-04 | 132 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 131 | 9 | 
 | 2022-12-11 | 131 | 9 | 
 | 2022-12-10 | 131 | 9 | 
-| 2022-12-08 | 131 | 9 | 
 

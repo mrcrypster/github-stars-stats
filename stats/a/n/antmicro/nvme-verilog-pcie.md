@@ -1,6 +1,6 @@
 # antmicro/nvme-verilog-pcie - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 2 | 2 | 
 | 2023-01-07 | 2 | 2 | 
 | 2023-01-05 | 2 | 2 | 
 | 2023-01-04 | 2 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-11 | 2 | 1 | 
 | 2022-12-10 | 1 | 1 | 
 | 2022-12-09 | 1 | 1 | 
-| 2022-12-08 | 1 | 1 | 
 

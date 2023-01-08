@@ -1,10 +1,10 @@
 # cstack/db_tutorial - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
-☋ Forks: 832
+☋ Forks: 836
 
-★ Stars: 7812
+★ Stars: 7833
 
 [Open repository](https://github.com/cstack/db_tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 7833 | 836 | 
 | 2023-01-06 | 7812 | 832 | 
 | 2023-01-05 | 7758 | 826 | 
 | 2023-01-04 | 7757 | 825 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 7685 | 822 | 
 | 2022-12-10 | 7685 | 822 | 
 | 2022-12-09 | 7685 | 820 | 
-| 2022-12-08 | 7679 | 819 | 
 

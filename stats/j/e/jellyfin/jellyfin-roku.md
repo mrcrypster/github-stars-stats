@@ -1,10 +1,10 @@
 # jellyfin/jellyfin-roku - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
-☋ Forks: 95
+☋ Forks: 96
 
-★ Stars: 270
+★ Stars: 271
 
 [Open repository](https://github.com/jellyfin/jellyfin-roku)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 271 | 96 | 
 | 2023-01-06 | 270 | 95 | 
 | 2023-01-05 | 270 | 95 | 
 | 2023-01-04 | 270 | 95 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 263 | 89 | 
 | 2022-12-11 | 263 | 89 | 
 | 2022-12-09 | 263 | 89 | 
-| 2022-12-08 | 263 | 89 | 
 

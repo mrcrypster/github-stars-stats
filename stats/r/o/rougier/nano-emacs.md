@@ -1,6 +1,6 @@
 # rougier/nano-emacs - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 156
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 1948 | 156 | 
 | 2023-01-06 | 1948 | 156 | 
 | 2023-01-05 | 1946 | 156 | 
 | 2023-01-04 | 1944 | 156 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 1915 | 156 | 
 | 2022-12-10 | 1915 | 155 | 
 | 2022-12-09 | 1913 | 155 | 
-| 2022-12-08 | 1911 | 155 | 
 

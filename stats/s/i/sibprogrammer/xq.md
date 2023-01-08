@@ -1,6 +1,6 @@
 # sibprogrammer/xq - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 540 | 14 | 
 | 2023-01-06 | 540 | 14 | 
 | 2023-01-05 | 540 | 14 | 
 | 2023-01-04 | 538 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 526 | 12 | 
 | 2022-12-10 | 525 | 12 | 
 | 2022-12-09 | 524 | 12 | 
-| 2022-12-08 | 523 | 12 | 
 

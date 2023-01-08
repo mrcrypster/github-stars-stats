@@ -1,10 +1,10 @@
 # kudrykv/latex-yearly-planner - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 46
 
-★ Stars: 400
+★ Stars: 401
 
 [Open repository](https://github.com/kudrykv/latex-yearly-planner)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 401 | 46 | 
 | 2023-01-06 | 400 | 46 | 
 | 2023-01-05 | 399 | 46 | 
 | 2023-01-04 | 399 | 46 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 362 | 42 | 
 | 2022-12-11 | 362 | 42 | 
 | 2022-12-10 | 361 | 42 | 
-| 2022-12-09 | 361 | 42 | 
 

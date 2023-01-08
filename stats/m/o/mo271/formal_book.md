@@ -1,10 +1,10 @@
 # mo271/formal_book - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 2
+☋ Forks: 3
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/mo271/formal_book)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 16 | 3 | 
 | 2023-01-07 | 15 | 2 | 
 | 2023-01-05 | 15 | 2 | 
 | 2023-01-04 | 15 | 2 | 

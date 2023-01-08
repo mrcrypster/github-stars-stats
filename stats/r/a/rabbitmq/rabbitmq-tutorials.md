@@ -1,10 +1,10 @@
 # rabbitmq/rabbitmq-tutorials - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 3533
 
-★ Stars: 6147
+★ Stars: 6148
 
 [Open repository](https://github.com/rabbitmq/rabbitmq-tutorials)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 6148 | 3533 | 
 | 2023-01-06 | 6147 | 3533 | 
 | 2023-01-05 | 6145 | 3534 | 
 | 2023-01-04 | 6142 | 3534 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 6114 | 3522 | 
 | 2022-12-10 | 6113 | 3522 | 
 | 2022-12-09 | 6112 | 3522 | 
-| 2022-12-08 | 6112 | 3521 | 
 

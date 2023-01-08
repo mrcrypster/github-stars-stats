@@ -1,10 +1,10 @@
 # peninha/The-Perfect-Backboard - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 14
 
-★ Stars: 70
+★ Stars: 71
 
 [Open repository](https://github.com/peninha/The-Perfect-Backboard)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 71 | 14 | 
 | 2023-01-06 | 70 | 14 | 
 | 2023-01-05 | 70 | 14 | 
 | 2023-01-04 | 70 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 70 | 14 | 
 | 2022-12-10 | 70 | 14 | 
 | 2022-12-09 | 70 | 14 | 
-| 2022-12-08 | 70 | 14 | 
 

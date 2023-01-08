@@ -1,10 +1,10 @@
 # 351ELEC/351ELEC - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 120
 
-★ Stars: 866
+★ Stars: 868
 
 [Open repository](https://github.com/351ELEC/351ELEC)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 868 | 120 | 
 | 2023-01-06 | 866 | 120 | 
 | 2023-01-05 | 864 | 120 | 
 | 2023-01-04 | 865 | 120 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 847 | 118 | 
 | 2022-12-10 | 847 | 118 | 
 | 2022-12-09 | 847 | 118 | 
-| 2022-12-08 | 844 | 118 | 
 

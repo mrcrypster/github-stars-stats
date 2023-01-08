@@ -1,10 +1,10 @@
 # albfan/miraclecast - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 384
 
-★ Stars: 3142
+★ Stars: 3143
 
 [Open repository](https://github.com/albfan/miraclecast)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 3143 | 384 | 
 | 2023-01-06 | 3142 | 384 | 
 | 2023-01-05 | 3142 | 384 | 
 | 2023-01-04 | 3141 | 384 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 3076 | 378 | 
 | 2022-12-11 | 3048 | 374 | 
 | 2022-12-10 | 2822 | 373 | 
-| 2022-12-08 | 2821 | 373 | 
 

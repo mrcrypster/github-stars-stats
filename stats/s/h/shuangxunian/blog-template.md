@@ -1,10 +1,10 @@
 # shuangxunian/blog-template - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
-☋ Forks: 3
+☋ Forks: 4
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/shuangxunian/blog-template)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 4 | 4 | 
 | 2023-01-06 | 3 | 3 | 
 | 2023-01-05 | 3 | 3 | 
 | 2023-01-04 | 3 | 3 | 

@@ -1,6 +1,6 @@
 # code-423n4/2022-11-redactedcartel - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 3 | 10 | 
 | 2023-01-06 | 3 | 10 | 
 | 2023-01-05 | 3 | 10 | 
 | 2023-01-04 | 3 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 5 | 12 | 
 | 2022-12-11 | 5 | 12 | 
 | 2022-12-10 | 5 | 12 | 
-| 2022-12-08 | 5 | 12 | 
 

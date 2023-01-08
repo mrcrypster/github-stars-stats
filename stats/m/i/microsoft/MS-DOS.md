@@ -1,8 +1,8 @@
 # microsoft/MS-DOS - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
-☋ Forks: 2613
+☋ Forks: 2612
 
 ★ Stars: 16939
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 16939 | 2612 | 
 | 2023-01-06 | 16939 | 2613 | 
 | 2023-01-05 | 16927 | 2613 | 
 | 2023-01-04 | 16927 | 2613 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 16898 | 2613 | 
 | 2022-12-10 | 16896 | 2612 | 
 | 2022-12-09 | 16895 | 2612 | 
-| 2022-12-08 | 16897 | 2612 | 
 

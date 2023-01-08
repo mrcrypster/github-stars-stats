@@ -1,8 +1,8 @@
 # win11react/store - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
-☋ Forks: 81
+☋ Forks: 82
 
 ★ Stars: 53
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 53 | 82 | 
 | 2023-01-06 | 53 | 81 | 
 | 2023-01-05 | 53 | 81 | 
 | 2023-01-04 | 53 | 79 | 

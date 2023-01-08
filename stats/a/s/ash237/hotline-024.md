@@ -1,10 +1,10 @@
 # ash237/hotline-024 - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 4
 
-★ Stars: 7
+★ Stars: 6
 
 [Open repository](https://github.com/ash237/hotline-024)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 6 | 4 | 
 | 2023-01-06 | 7 | 4 | 
 | 2023-01-05 | 7 | 4 | 
 | 2023-01-04 | 7 | 4 | 

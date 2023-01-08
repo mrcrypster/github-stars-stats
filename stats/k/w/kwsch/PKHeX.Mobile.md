@@ -1,10 +1,10 @@
 # kwsch/PKHeX.Mobile - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 243
 
-★ Stars: 431
+★ Stars: 432
 
 [Open repository](https://github.com/kwsch/PKHeX.Mobile)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 432 | 243 | 
 | 2023-01-06 | 431 | 243 | 
 | 2023-01-05 | 431 | 243 | 
 | 2023-01-04 | 429 | 242 | 

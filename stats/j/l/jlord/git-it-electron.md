@@ -1,10 +1,10 @@
 # jlord/git-it-electron - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 1151
 
-★ Stars: 4216
+★ Stars: 4218
 
 [Open repository](https://github.com/jlord/git-it-electron)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 4218 | 1151 | 
+| 2023-01-07 | 4218 | 1151 | 
 | 2023-01-06 | 4216 | 1151 | 
 | 2023-01-05 | 4174 | 1148 | 
 | 2023-01-04 | 4173 | 1148 | 
@@ -40,5 +42,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 4161 | 1144 | 
 | 2022-12-11 | 4161 | 1144 | 
 | 2022-12-10 | 4161 | 1144 | 
-| 2022-12-08 | 4159 | 1144 | 
 

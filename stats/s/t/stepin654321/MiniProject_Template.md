@@ -1,10 +1,10 @@
 # stepin654321/MiniProject_Template - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 671
 
-★ Stars: 57
+★ Stars: 56
 
 [Open repository](https://github.com/stepin654321/MiniProject_Template)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 56 | 671 | 
 | 2023-01-06 | 57 | 671 | 
 | 2023-01-05 | 57 | 671 | 
 | 2023-01-04 | 57 | 671 | 

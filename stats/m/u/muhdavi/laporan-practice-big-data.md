@@ -1,10 +1,10 @@
 # muhdavi/laporan-practice-big-data - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 21
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/muhdavi/laporan-practice-big-data)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 4 | 21 | 
 | 2023-01-06 | 3 | 21 | 
 | 2023-01-05 | 3 | 20 | 
 | 2023-01-04 | 3 | 21 | 

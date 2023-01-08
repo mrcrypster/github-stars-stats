@@ -1,6 +1,6 @@
 # GeyserMC/GeyserWiki - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 10 | 55 | 
 | 2023-01-06 | 10 | 55 | 
 | 2023-01-05 | 10 | 54 | 
 | 2023-01-04 | 10 | 54 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 8 | 50 | 
 | 2022-12-11 | 8 | 50 | 
 | 2022-12-10 | 8 | 50 | 
-| 2022-12-09 | 8 | 50 | 
 

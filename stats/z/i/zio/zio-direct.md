@@ -1,8 +1,8 @@
 # zio/zio-direct - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
-☋ Forks: 2
+☋ Forks: 3
 
 ★ Stars: 108
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 108 | 3 | 
 | 2023-01-06 | 108 | 2 | 
 | 2023-01-05 | 108 | 2 | 
 | 2023-01-04 | 107 | 2 | 

@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 07
 
 ☋ Forks: 4
 
-★ Stars: 91
+★ Stars: 93
 
 [Open repository](https://github.com/aws/graph-explorer)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-07 | 91 | 4 | 
+| 2023-01-07 | 93 | 4 | 
 | 2023-01-06 | 89 | 4 | 
 

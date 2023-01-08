@@ -1,8 +1,8 @@
 # zurichat/zc_main - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 931
+☋ Forks: 930
 
 ★ Stars: 189
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 189 | 930 | 
 | 2023-01-07 | 189 | 931 | 
 | 2023-01-05 | 189 | 931 | 
 | 2023-01-04 | 189 | 931 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-11 | 189 | 936 | 
 | 2022-12-10 | 189 | 936 | 
 | 2022-12-09 | 189 | 935 | 
-| 2022-12-08 | 189 | 935 | 
 

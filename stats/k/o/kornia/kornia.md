@@ -1,10 +1,10 @@
 # kornia/kornia - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 762
 
-★ Stars: 7579
+★ Stars: 7581
 
 [Open repository](https://github.com/kornia/kornia)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 7581 | 762 | 
 | 2023-01-06 | 7579 | 762 | 
 | 2023-01-05 | 7574 | 762 | 
 | 2023-01-04 | 7571 | 762 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 7495 | 751 | 
 | 2022-12-11 | 7489 | 751 | 
 | 2022-12-10 | 7488 | 751 | 
-| 2022-12-08 | 7486 | 751 | 
 

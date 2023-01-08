@@ -1,6 +1,6 @@
 # JacquiM/CMPG-323-IOT-Device-Management - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 221
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 5 | 221 | 
 | 2023-01-06 | 5 | 221 | 
 | 2023-01-05 | 5 | 221 | 
 | 2023-01-04 | 5 | 221 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 5 | 222 | 
 | 2022-12-10 | 5 | 222 | 
 | 2022-12-09 | 5 | 222 | 
-| 2022-12-08 | 5 | 222 | 
 

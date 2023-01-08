@@ -1,6 +1,6 @@
 # mxe/mxe - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 490
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 1034 | 490 | 
 | 2023-01-06 | 1034 | 490 | 
 | 2023-01-05 | 1034 | 490 | 
 | 2023-01-04 | 1034 | 490 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 1025 | 492 | 
 | 2022-12-11 | 1026 | 492 | 
 | 2022-12-10 | 1026 | 492 | 
-| 2022-12-08 | 1026 | 492 | 
 

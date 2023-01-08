@@ -1,6 +1,6 @@
 # alikonuk1/Sirius - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 24 | 2 | 
 | 2023-01-07 | 24 | 2 | 
 | 2023-01-06 | 23 | 2 | 
 | 2023-01-05 | 23 | 2 | 

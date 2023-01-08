@@ -1,10 +1,10 @@
 # Azure/azure-functions-durable-extension - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 257
 
-★ Stars: 645
+★ Stars: 646
 
 [Open repository](https://github.com/Azure/azure-functions-durable-extension)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 646 | 257 | 
 | 2023-01-06 | 645 | 257 | 
 | 2023-01-05 | 645 | 257 | 
 | 2023-01-04 | 645 | 257 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 644 | 255 | 
 | 2022-12-10 | 643 | 255 | 
 | 2022-12-09 | 643 | 255 | 
-| 2022-12-08 | 643 | 255 | 
 

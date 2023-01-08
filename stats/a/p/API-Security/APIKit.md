@@ -1,10 +1,10 @@
 # API-Security/APIKit - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 92
 
-★ Stars: 971
+★ Stars: 973
 
 [Open repository](https://github.com/API-Security/APIKit)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 973 | 92 | 
 | 2023-01-06 | 971 | 92 | 
 | 2023-01-05 | 971 | 92 | 
 | 2023-01-04 | 967 | 92 | 

@@ -1,10 +1,10 @@
 # ml874/Data-Engineering-on-GCP-Cheatsheet - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 294
 
-★ Stars: 668
+★ Stars: 669
 
 [Open repository](https://github.com/ml874/Data-Engineering-on-GCP-Cheatsheet)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 669 | 294 | 
 | 2023-01-06 | 668 | 294 | 
 | 2023-01-05 | 668 | 294 | 
 | 2023-01-04 | 668 | 294 | 

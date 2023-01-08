@@ -1,10 +1,10 @@
 # Hammerspoon/hammerspoon - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
-☋ Forks: 520
+☋ Forks: 521
 
-★ Stars: 9918
+★ Stars: 9925
 
 [Open repository](https://github.com/Hammerspoon/hammerspoon)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 9925 | 521 | 
 | 2023-01-06 | 9918 | 520 | 
 | 2023-01-05 | 9916 | 521 | 
 | 2023-01-04 | 9914 | 521 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 9854 | 516 | 
 | 2022-12-10 | 9855 | 516 | 
 | 2022-12-09 | 9852 | 516 | 
-| 2022-12-08 | 9851 | 516 | 
 

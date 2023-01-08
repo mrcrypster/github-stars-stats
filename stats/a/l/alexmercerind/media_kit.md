@@ -1,10 +1,10 @@
 # alexmercerind/media_kit - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
-☋ Forks: 4
+☋ Forks: 5
 
-★ Stars: 66
+★ Stars: 69
 
 [Open repository](https://github.com/alexmercerind/media_kit)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 69 | 5 | 
 | 2023-01-06 | 66 | 4 | 
 | 2023-01-05 | 64 | 4 | 
 | 2023-01-04 | 62 | 4 | 

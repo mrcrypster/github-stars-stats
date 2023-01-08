@@ -1,10 +1,10 @@
 # emacsmirror/compat - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 1
+☋ Forks: 3
 
-★ Stars: 2
+★ Stars: 0
 
 [Open repository](https://github.com/emacsmirror/compat)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | - | 3 | 
 | 2023-01-07 | 2 | 1 | 
 | 2023-01-05 | 2 | 1 | 
 | 2023-01-04 | 2 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-12 | 3 | 1 | 
 | 2022-12-11 | 3 | 1 | 
 | 2022-12-10 | 3 | 1 | 
-| 2022-12-09 | 3 | 1 | 
 

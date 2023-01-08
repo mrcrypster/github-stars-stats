@@ -1,6 +1,6 @@
 # datasci-for-ecologists/climate - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | - | 16 | 
 | 2023-01-07 | - | 16 | 
 | 2023-01-06 | - | 16 | 
 | 2023-01-04 | - | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-12 | - | 16 | 
 | 2022-12-11 | - | 16 | 
 | 2022-12-10 | - | 16 | 
-| 2022-12-09 | - | 16 | 
 

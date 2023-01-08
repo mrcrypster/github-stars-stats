@@ -1,6 +1,6 @@
 # bertmiller/sMEV - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 98
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 432 | 98 | 
 | 2023-01-06 | 432 | 98 | 
 | 2023-01-05 | 432 | 98 | 
 | 2023-01-04 | 433 | 98 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 427 | 97 | 
 | 2022-12-11 | 427 | 97 | 
 | 2022-12-09 | 427 | 97 | 
-| 2022-12-08 | 426 | 97 | 
 

@@ -1,10 +1,10 @@
 # near/nearcore - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 414
 
-★ Stars: 1966
+★ Stars: 1967
 
 [Open repository](https://github.com/near/nearcore)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 1967 | 414 | 
 | 2023-01-06 | 1966 | 414 | 
 | 2023-01-05 | 1967 | 413 | 
 | 2023-01-04 | 1967 | 413 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 1946 | 412 | 
 | 2022-12-11 | 1945 | 411 | 
 | 2022-12-10 | 1944 | 411 | 
-| 2022-12-09 | 1943 | 410 | 
 

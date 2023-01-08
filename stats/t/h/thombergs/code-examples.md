@@ -1,6 +1,6 @@
 # thombergs/code-examples - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 2211
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 2075 | 2211 | 
 | 2023-01-06 | 2075 | 2211 | 
 | 2023-01-05 | 2072 | 2210 | 
 | 2023-01-04 | 2068 | 2206 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 2040 | 2183 | 
 | 2022-12-10 | 2038 | 2180 | 
 | 2022-12-09 | 2035 | 2179 | 
-| 2022-12-08 | 2033 | 2175 | 
 

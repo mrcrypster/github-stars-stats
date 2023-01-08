@@ -1,10 +1,10 @@
 # daliansky/OC-little - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 314
 
-★ Stars: 1494
+★ Stars: 1496
 
 [Open repository](https://github.com/daliansky/OC-little)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 1496 | 314 | 
 | 2023-01-06 | 1494 | 314 | 
 | 2023-01-05 | 1494 | 314 | 
 | 2023-01-04 | 1492 | 313 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 1486 | 311 | 
 | 2022-12-11 | 1483 | 311 | 
 | 2022-12-10 | 1483 | 311 | 
-| 2022-12-08 | 1483 | 311 | 
 

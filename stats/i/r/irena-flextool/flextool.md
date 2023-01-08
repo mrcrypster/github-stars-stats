@@ -1,6 +1,6 @@
 # irena-flextool/flextool - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 15 | 3 | 
 | 2023-01-06 | 15 | 3 | 
 | 2023-01-05 | 15 | 3 | 
 | 2023-01-04 | 15 | 3 | 

@@ -1,6 +1,6 @@
 # Simon-Hostettler/htyper - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 46 | - | 
 | 2023-01-06 | 46 | - | 
 | 2023-01-05 | 46 | - | 
 | 2023-01-04 | 46 | - | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 46 | - | 
 | 2022-12-11 | 46 | - | 
 | 2022-12-10 | 46 | - | 
-| 2022-12-08 | 45 | - | 
 

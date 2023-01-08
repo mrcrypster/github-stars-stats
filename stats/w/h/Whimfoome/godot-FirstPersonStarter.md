@@ -1,10 +1,10 @@
 # Whimfoome/godot-FirstPersonStarter - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 29
 
-★ Stars: 315
+★ Stars: 317
 
 [Open repository](https://github.com/Whimfoome/godot-FirstPersonStarter)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 317 | 29 | 
 | 2023-01-06 | 315 | 29 | 
 | 2023-01-05 | 315 | 29 | 
 | 2023-01-04 | 313 | 29 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 303 | 29 | 
 | 2022-12-11 | 303 | 29 | 
 | 2022-12-10 | 303 | 29 | 
-| 2022-12-09 | 303 | 29 | 
 

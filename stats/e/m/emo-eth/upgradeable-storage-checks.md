@@ -1,10 +1,10 @@
 # emo-eth/upgradeable-storage-checks - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 1
 
-★ Stars: 23
+★ Stars: 25
 
 [Open repository](https://github.com/emo-eth/upgradeable-storage-checks)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 25 | 1 | 
 | 2023-01-06 | 23 | 1 | 
 | 2023-01-05 | 23 | 1 | 
 | 2023-01-04 | 23 | 1 | 

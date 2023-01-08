@@ -1,6 +1,6 @@
 # insarlab/PySolid - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 36 | 8 | 
 | 2023-01-07 | 36 | 8 | 
 | 2023-01-05 | 36 | 8 | 
 | 2023-01-04 | 36 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-11 | 34 | 8 | 
 | 2022-12-10 | 33 | 8 | 
 | 2022-12-09 | 33 | 8 | 
-| 2022-12-08 | 33 | 8 | 
 

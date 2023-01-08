@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 07
 
 ☋ Forks: 733
 
-★ Stars: 17164
+★ Stars: 17166
 
 [Open repository](https://github.com/tj/n)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-07 | 17164 | 733 | 
+| 2023-01-07 | 17166 | 733 | 
 | 2023-01-06 | 17164 | 733 | 
 | 2023-01-05 | 17159 | 733 | 
 | 2023-01-04 | 17152 | 733 | 

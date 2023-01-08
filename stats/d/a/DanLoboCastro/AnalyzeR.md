@@ -1,10 +1,10 @@
 # DanLoboCastro/AnalyzeR - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 3
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/DanLoboCastro/AnalyzeR)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 22 | 3 | 
 | 2023-01-06 | 21 | 3 | 
 | 2023-01-05 | 20 | 3 | 
 | 2023-01-04 | 16 | 1 | 

@@ -1,6 +1,6 @@
 # pxlsspace/Pxls - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 104
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 137 | 104 | 
 | 2023-01-07 | 137 | 104 | 
 | 2023-01-05 | 137 | 104 | 
 | 2023-01-04 | 137 | 104 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-11 | 137 | 100 | 
 | 2022-12-10 | 137 | 100 | 
 | 2022-12-09 | 137 | 100 | 
-| 2022-12-08 | 137 | 100 | 
 

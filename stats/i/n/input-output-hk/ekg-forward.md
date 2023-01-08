@@ -1,10 +1,10 @@
 # input-output-hk/ekg-forward - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 6
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/input-output-hk/ekg-forward)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 4 | 6 | 
 | 2023-01-06 | 3 | 6 | 
 | 2023-01-05 | 3 | 6 | 
 | 2023-01-04 | 3 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 3 | 6 | 
 | 2022-12-10 | 3 | 6 | 
 | 2022-12-09 | 3 | 6 | 
-| 2022-12-08 | 3 | 6 | 
 

@@ -1,10 +1,10 @@
 # joshgerdes/jekyll-uno - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 579
 
-★ Stars: 597
+★ Stars: 598
 
 [Open repository](https://github.com/joshgerdes/jekyll-uno)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 598 | 579 | 
 | 2023-01-06 | 597 | 579 | 
 | 2023-01-05 | 597 | 579 | 
 | 2023-01-04 | 597 | 579 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 595 | 582 | 
 | 2022-12-10 | 595 | 582 | 
 | 2022-12-09 | 594 | 582 | 
-| 2022-12-08 | 593 | 582 | 
 

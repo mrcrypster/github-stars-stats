@@ -1,10 +1,10 @@
 # virginiakm1988/ML2022-Spring - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
-☋ Forks: 299
+☋ Forks: 301
 
-★ Stars: 1068
+★ Stars: 1071
 
 [Open repository](https://github.com/virginiakm1988/ML2022-Spring)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 1071 | 301 | 
 | 2023-01-06 | 1068 | 299 | 
 | 2023-01-05 | 1061 | 297 | 
 | 2023-01-04 | 1057 | 297 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 1002 | 292 | 
 | 2022-12-11 | 997 | 290 | 
 | 2022-12-10 | 995 | 289 | 
-| 2022-12-08 | 990 | 288 | 
 

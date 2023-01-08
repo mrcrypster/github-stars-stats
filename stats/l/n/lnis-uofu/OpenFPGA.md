@@ -1,6 +1,6 @@
 # lnis-uofu/OpenFPGA - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 106
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 524 | 106 | 
 | 2023-01-06 | 524 | 106 | 
 | 2023-01-05 | 521 | 106 | 
 | 2023-01-04 | 519 | 106 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 507 | 103 | 
 | 2022-12-10 | 507 | 103 | 
 | 2022-12-09 | 505 | 103 | 
-| 2022-12-08 | 505 | 103 | 
 

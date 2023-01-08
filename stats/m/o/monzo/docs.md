@@ -1,6 +1,6 @@
 # monzo/docs - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 99 | 48 | 
 | 2023-01-06 | 99 | 48 | 
 | 2023-01-05 | 99 | 48 | 
 | 2023-01-04 | 99 | 48 | 

@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 07
 
 ☋ Forks: 16
 
-★ Stars: 173
+★ Stars: 175
 
 [Open repository](https://github.com/EmberGL-org/EmberGL)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-07 | 173 | 16 | 
+| 2023-01-07 | 175 | 16 | 
 | 2023-01-06 | 173 | 16 | 
 

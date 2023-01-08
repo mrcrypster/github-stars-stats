@@ -1,10 +1,10 @@
 # chshersh/iris - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 17
 
-★ Stars: 89
+★ Stars: 90
 
 [Open repository](https://github.com/chshersh/iris)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 90 | 17 | 
 | 2023-01-06 | 89 | 17 | 
 | 2023-01-05 | 89 | 17 | 
 | 2023-01-04 | 89 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 87 | 17 | 
 | 2022-12-10 | 87 | 17 | 
 | 2022-12-09 | 87 | 17 | 
-| 2022-12-08 | 87 | 17 | 
 

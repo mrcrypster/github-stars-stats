@@ -1,6 +1,6 @@
 # apache/apisix-docker - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 326
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 470 | 326 | 
 | 2023-01-06 | 470 | 326 | 
 | 2023-01-05 | 469 | 325 | 
 | 2023-01-04 | 468 | 324 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 458 | 316 | 
 | 2022-12-11 | 457 | 316 | 
 | 2022-12-10 | 457 | 316 | 
-| 2022-12-08 | 457 | 316 | 
 

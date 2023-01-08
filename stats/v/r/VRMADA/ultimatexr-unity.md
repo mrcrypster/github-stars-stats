@@ -1,10 +1,10 @@
 # VRMADA/ultimatexr-unity - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 32
 
-★ Stars: 310
+★ Stars: 311
 
 [Open repository](https://github.com/VRMADA/ultimatexr-unity)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 311 | 32 | 
 | 2023-01-06 | 310 | 32 | 
 | 2023-01-05 | 310 | 32 | 
 | 2023-01-04 | 310 | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 295 | 31 | 
 | 2022-12-10 | 294 | 31 | 
 | 2022-12-09 | 294 | 31 | 
-| 2022-12-08 | 292 | 31 | 
 

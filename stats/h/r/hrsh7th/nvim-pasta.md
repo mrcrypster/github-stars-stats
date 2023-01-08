@@ -1,10 +1,10 @@
 # hrsh7th/nvim-pasta - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 2
 
-★ Stars: 73
+★ Stars: 74
 
 [Open repository](https://github.com/hrsh7th/nvim-pasta)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 74 | 2 | 
 | 2023-01-06 | 73 | 2 | 
 | 2023-01-05 | 73 | 2 | 
 | 2023-01-04 | 73 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 74 | 2 | 
 | 2022-12-10 | 74 | 2 | 
 | 2022-12-09 | 74 | 2 | 
-| 2022-12-08 | 74 | 2 | 
 

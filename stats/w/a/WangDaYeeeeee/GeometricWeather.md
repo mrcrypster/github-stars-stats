@@ -1,10 +1,10 @@
 # WangDaYeeeeee/GeometricWeather - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 156
 
-★ Stars: 1592
+★ Stars: 1594
 
 [Open repository](https://github.com/WangDaYeeeeee/GeometricWeather)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 1594 | 156 | 
 | 2023-01-06 | 1592 | 156 | 
 | 2023-01-05 | 1591 | 156 | 
 | 2023-01-04 | 1590 | 156 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 1540 | 155 | 
 | 2022-12-10 | 1539 | 155 | 
 | 2022-12-09 | 1536 | 155 | 
-| 2022-12-08 | 1536 | 155 | 
 

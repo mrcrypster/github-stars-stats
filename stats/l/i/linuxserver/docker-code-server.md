@@ -1,10 +1,10 @@
 # linuxserver/docker-code-server - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
-☋ Forks: 233
+☋ Forks: 234
 
-★ Stars: 991
+★ Stars: 993
 
 [Open repository](https://github.com/linuxserver/docker-code-server)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 993 | 234 | 
 | 2023-01-06 | 991 | 233 | 
 | 2023-01-05 | 988 | 232 | 
 | 2023-01-04 | 988 | 232 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 964 | 227 | 
 | 2022-12-10 | 963 | 226 | 
 | 2022-12-09 | 962 | 226 | 
-| 2022-12-08 | 961 | 227 | 
 

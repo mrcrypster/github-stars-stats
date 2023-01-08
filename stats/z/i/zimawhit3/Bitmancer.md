@@ -1,10 +1,10 @@
 # zimawhit3/Bitmancer - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 14
 
-★ Stars: 145
+★ Stars: 146
 
 [Open repository](https://github.com/zimawhit3/Bitmancer)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 146 | 14 | 
 | 2023-01-06 | 145 | 14 | 
 | 2023-01-05 | 145 | 14 | 
 | 2023-01-04 | 145 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 140 | 11 | 
 | 2022-12-10 | 140 | 11 | 
 | 2022-12-09 | 139 | 11 | 
-| 2022-12-08 | 133 | 9 | 
 

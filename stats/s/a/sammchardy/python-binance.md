@@ -1,6 +1,6 @@
 # sammchardy/python-binance - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 1994
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 5001 | 1994 | 
 | 2023-01-06 | 5001 | 1994 | 
 | 2023-01-05 | 5000 | 1992 | 
 | 2023-01-04 | 5000 | 1992 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 4975 | 1994 | 
 | 2022-12-10 | 4971 | 1994 | 
 | 2022-12-09 | 4969 | 1992 | 
-| 2022-12-08 | 4968 | 1991 | 
 

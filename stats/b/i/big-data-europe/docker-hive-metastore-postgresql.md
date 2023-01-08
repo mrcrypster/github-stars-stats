@@ -1,6 +1,6 @@
 # big-data-europe/docker-hive-metastore-postgresql - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 26 | 39 | 
 | 2023-01-06 | 26 | 39 | 
 | 2023-01-05 | 26 | 39 | 
 | 2023-01-04 | 26 | 39 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 24 | 38 | 
 | 2022-12-11 | 25 | 38 | 
 | 2022-12-10 | 25 | 38 | 
-| 2022-12-08 | 25 | 38 | 
 

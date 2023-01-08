@@ -1,10 +1,10 @@
 # wandb/wandb - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 402
 
-★ Stars: 5232
+★ Stars: 5236
 
 [Open repository](https://github.com/wandb/wandb)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 5236 | 402 | 
 | 2023-01-06 | 5232 | 402 | 
 | 2023-01-05 | 5224 | 402 | 
 | 2023-01-04 | 5216 | 399 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 5064 | 384 | 
 | 2022-12-10 | 5059 | 385 | 
 | 2022-12-09 | 5057 | 385 | 
-| 2022-12-08 | 5051 | 385 | 
 

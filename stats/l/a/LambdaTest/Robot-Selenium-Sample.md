@@ -1,6 +1,6 @@
 # LambdaTest/Robot-Selenium-Sample - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 19 | 24 | 
 | 2023-01-07 | 19 | 24 | 
 | 2023-01-06 | 19 | 24 | 
 | 2023-01-04 | 19 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-11 | 19 | 24 | 
 | 2022-12-10 | 19 | 24 | 
 | 2022-12-09 | 19 | 24 | 
-| 2022-12-08 | 19 | 24 | 
 

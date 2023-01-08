@@ -1,6 +1,6 @@
 # VernonGrant/emacs-keyboard-shortcuts - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 54 | 5 | 
 | 2023-01-07 | 54 | 5 | 
 | 2023-01-05 | 54 | 5 | 
 | 2023-01-04 | 54 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-11 | 53 | 5 | 
 | 2022-12-10 | 53 | 5 | 
 | 2022-12-09 | 53 | 5 | 
-| 2022-12-08 | 53 | 5 | 
 

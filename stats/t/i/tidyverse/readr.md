@@ -1,10 +1,10 @@
 # tidyverse/readr - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 279
 
-★ Stars: 933
+★ Stars: 934
 
 [Open repository](https://github.com/tidyverse/readr)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 934 | 279 | 
+| 2023-01-07 | 934 | 279 | 
 | 2023-01-06 | 933 | 279 | 
 | 2023-01-05 | 933 | 279 | 
 | 2023-01-04 | 932 | 279 | 
@@ -40,5 +42,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 931 | 278 | 
 | 2022-12-10 | 930 | 278 | 
 | 2022-12-09 | 930 | 278 | 
-| 2022-12-08 | 930 | 278 | 
 

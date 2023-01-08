@@ -1,8 +1,8 @@
 # vihangayt0/Astro-MD-V2 - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
-☋ Forks: 1424
+☋ Forks: 1429
 
 ★ Stars: 421
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 421 | 1429 | 
 | 2023-01-06 | 421 | 1424 | 
 | 2023-01-05 | 420 | 1422 | 
 | 2023-01-04 | 419 | 1423 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 403 | 1351 | 
 | 2022-12-10 | 399 | 1343 | 
 | 2022-12-09 | 399 | 1341 | 
-| 2022-12-08 | 400 | 1338 | 
 

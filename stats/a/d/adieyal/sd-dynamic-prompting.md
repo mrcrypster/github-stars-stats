@@ -1,6 +1,6 @@
 # adieyal/sd-dynamic-prompting - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 191 | 50 | 
 | 2023-01-06 | 191 | 50 | 
 | 2023-01-05 | 190 | 50 | 
 | 2023-01-04 | 189 | 50 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 155 | 40 | 
 | 2022-12-10 | 149 | 38 | 
 | 2022-12-09 | 146 | 38 | 
-| 2022-12-08 | 146 | 37 | 
 

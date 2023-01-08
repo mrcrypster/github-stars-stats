@@ -1,10 +1,10 @@
 # x-magus/ThesisUESTC - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 294
 
-★ Stars: 967
+★ Stars: 968
 
 [Open repository](https://github.com/x-magus/ThesisUESTC)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 968 | 294 | 
 | 2023-01-06 | 967 | 294 | 
 | 2023-01-05 | 966 | 294 | 
 | 2023-01-04 | 966 | 294 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 945 | 287 | 
 | 2022-12-10 | 945 | 287 | 
 | 2022-12-09 | 944 | 287 | 
-| 2022-12-08 | 944 | 287 | 
 

@@ -1,10 +1,10 @@
 # Automattic/pocket-casts-android - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 133
+☋ Forks: 135
 
-★ Stars: 2085
+★ Stars: 2086
 
 [Open repository](https://github.com/Automattic/pocket-casts-android)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 2086 | 135 | 
 | 2023-01-07 | 2085 | 133 | 
 | 2023-01-06 | 2085 | 132 | 
 | 2023-01-04 | 2085 | 132 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-12 | 2046 | 127 | 
 | 2022-12-11 | 2046 | 127 | 
 | 2022-12-09 | 2043 | 127 | 
-| 2022-12-08 | 2042 | 127 | 
 

@@ -1,10 +1,10 @@
 # Inbox-Design/bridge-status - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 0
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/Inbox-Design/bridge-status)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 2 | - | 
 | 2023-01-06 | 1 | - | 
 | 2023-01-05 | 1 | - | 
 | 2023-01-04 | 1 | - | 

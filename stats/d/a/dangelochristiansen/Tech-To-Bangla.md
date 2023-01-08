@@ -1,6 +1,6 @@
 # dangelochristiansen/Tech-To-Bangla - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 737
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 15 | 737 | 
 | 2023-01-06 | 15 | 737 | 
 | 2023-01-05 | 15 | 737 | 
 | 2023-01-04 | 15 | 737 | 

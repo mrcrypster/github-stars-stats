@@ -1,10 +1,10 @@
 # 5cover/WinClean - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
-☋ Forks: 6
+☋ Forks: 7
 
-★ Stars: 49
+★ Stars: 50
 
 [Open repository](https://github.com/5cover/WinClean)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 50 | 7 | 
 | 2023-01-06 | 49 | 6 | 
 | 2023-01-05 | 49 | 6 | 
 | 2023-01-04 | 49 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 44 | 5 | 
 | 2022-12-11 | 44 | 5 | 
 | 2022-12-09 | 44 | 5 | 
-| 2022-12-08 | 43 | 5 | 
 

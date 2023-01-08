@@ -1,10 +1,10 @@
 # morpho-dao/morpho-utils - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 2
 
-★ Stars: 61
+★ Stars: 62
 
 [Open repository](https://github.com/morpho-dao/morpho-utils)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 62 | 2 | 
 | 2023-01-06 | 61 | 2 | 
 | 2023-01-05 | 61 | 2 | 
 | 2023-01-04 | 59 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 55 | 1 | 
 | 2022-12-11 | 55 | 1 | 
 | 2022-12-10 | 54 | 1 | 
-| 2022-12-08 | 54 | 1 | 
 

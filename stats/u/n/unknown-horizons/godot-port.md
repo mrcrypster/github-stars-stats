@@ -1,10 +1,10 @@
 # unknown-horizons/godot-port - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 63
 
-★ Stars: 482
+★ Stars: 483
 
 [Open repository](https://github.com/unknown-horizons/godot-port)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 483 | 63 | 
 | 2023-01-06 | 482 | 63 | 
 | 2023-01-05 | 481 | 63 | 
 | 2023-01-04 | 481 | 63 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 477 | 62 | 
 | 2022-12-10 | 477 | 62 | 
 | 2022-12-09 | 476 | 62 | 
-| 2022-12-08 | 476 | 62 | 
 

@@ -1,6 +1,6 @@
 # FaztWeb/express-mongodb-crud - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 81
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 98 | 81 | 
 | 2023-01-06 | 98 | 81 | 
 | 2023-01-05 | 98 | 81 | 
 | 2023-01-04 | 98 | 81 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 97 | 81 | 
 | 2022-12-10 | 96 | 81 | 
 | 2022-12-09 | 96 | 81 | 
-| 2022-12-08 | 96 | 81 | 
 

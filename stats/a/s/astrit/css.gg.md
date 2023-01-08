@@ -1,10 +1,10 @@
 # astrit/css.gg - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
-☋ Forks: 446
+☋ Forks: 447
 
-★ Stars: 8921
+★ Stars: 8922
 
 [Open repository](https://github.com/astrit/css.gg)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 8922 | 447 | 
 | 2023-01-06 | 8921 | 446 | 
 | 2023-01-05 | 8920 | 447 | 
 | 2023-01-04 | 8920 | 447 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 8884 | 446 | 
 | 2022-12-11 | 8880 | 447 | 
 | 2022-12-10 | 8879 | 448 | 
-| 2022-12-09 | 8874 | 448 | 
 

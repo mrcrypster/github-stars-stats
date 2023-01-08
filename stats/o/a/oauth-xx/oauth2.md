@@ -1,10 +1,10 @@
 # oauth-xx/oauth2 - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 642
 
-★ Stars: 2107
+★ Stars: 2108
 
 [Open repository](https://github.com/oauth-xx/oauth2)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 2108 | 642 | 
 | 2023-01-06 | 2107 | 642 | 
 | 2023-01-05 | 2108 | 642 | 
 | 2023-01-04 | 2108 | 642 | 

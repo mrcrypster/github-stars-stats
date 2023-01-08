@@ -1,6 +1,6 @@
 # qbcore-framework/qb-hud - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 213
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 36 | 213 | 
 | 2023-01-06 | 36 | 213 | 
 | 2023-01-05 | 36 | 212 | 
 | 2023-01-04 | 36 | 212 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 34 | 213 | 
 | 2022-12-10 | 34 | 213 | 
 | 2022-12-09 | 34 | 213 | 
-| 2022-12-08 | 34 | 214 | 
 

@@ -1,6 +1,6 @@
 # elixir-ecto/postgrex - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 261
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 972 | 261 | 
 | 2023-01-06 | 972 | 261 | 
 | 2023-01-05 | 972 | 261 | 
 | 2023-01-04 | 972 | 261 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 968 | 260 | 
 | 2022-12-10 | 968 | 260 | 
 | 2022-12-09 | 967 | 260 | 
-| 2022-12-08 | 967 | 259 | 
 

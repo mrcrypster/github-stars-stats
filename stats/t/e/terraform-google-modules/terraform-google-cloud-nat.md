@@ -1,6 +1,6 @@
 # terraform-google-modules/terraform-google-cloud-nat - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 56 | 60 | 
 | 2023-01-06 | 56 | 60 | 
 | 2023-01-05 | 56 | 60 | 
 | 2023-01-04 | 56 | 60 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 56 | 60 | 
 | 2022-12-11 | 56 | 60 | 
 | 2022-12-10 | 56 | 60 | 
-| 2022-12-08 | 56 | 60 | 
 

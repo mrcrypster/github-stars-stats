@@ -1,10 +1,10 @@
 # reprise99/Sentinel-Queries - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
-☋ Forks: 189
+☋ Forks: 190
 
-★ Stars: 868
+★ Stars: 869
 
 [Open repository](https://github.com/reprise99/Sentinel-Queries)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 869 | 190 | 
 | 2023-01-06 | 868 | 189 | 
 | 2023-01-05 | 867 | 189 | 
 | 2023-01-04 | 867 | 189 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 851 | 184 | 
 | 2022-12-11 | 849 | 184 | 
 | 2022-12-10 | 848 | 183 | 
-| 2022-12-09 | 846 | 183 | 
 

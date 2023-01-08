@@ -1,10 +1,10 @@
 # LilDrippyMyFnf/Just-a-simple-game - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 3
 
-★ Stars: 1
+★ Stars: 0
 
 [Open repository](https://github.com/LilDrippyMyFnf/Just-a-simple-game)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | - | 3 | 
 | 2023-01-06 | 1 | 3 | 
 | 2023-01-05 | 1 | 3 | 
 | 2023-01-04 | 1 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 1 | 3 | 
 | 2022-12-11 | 1 | 3 | 
 | 2022-12-10 | 1 | 3 | 
-| 2022-12-08 | 1 | 3 | 
 

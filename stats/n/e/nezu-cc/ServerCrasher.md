@@ -1,6 +1,6 @@
 # nezu-cc/ServerCrasher - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 22 | 7 | 
 | 2023-01-07 | 22 | 7 | 
 | 2023-01-05 | 22 | 7 | 
 | 2023-01-04 | 22 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-12 | 22 | 7 | 
 | 2022-12-11 | 22 | 7 | 
 | 2022-12-10 | 22 | 7 | 
-| 2022-12-09 | 22 | 7 | 
 

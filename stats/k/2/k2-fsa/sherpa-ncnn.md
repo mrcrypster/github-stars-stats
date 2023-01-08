@@ -1,10 +1,10 @@
 # k2-fsa/sherpa-ncnn - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
-☋ Forks: 19
+☋ Forks: 20
 
-★ Stars: 94
+★ Stars: 97
 
 [Open repository](https://github.com/k2-fsa/sherpa-ncnn)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 97 | 20 | 
 | 2023-01-06 | 94 | 19 | 
 | 2023-01-05 | 94 | 19 | 
 | 2023-01-04 | 94 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 81 | 14 | 
 | 2022-12-10 | 81 | 14 | 
 | 2022-12-09 | 78 | 14 | 
-| 2022-12-08 | 72 | 13 | 
 

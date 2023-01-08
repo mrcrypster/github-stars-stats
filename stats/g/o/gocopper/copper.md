@@ -1,10 +1,10 @@
 # gocopper/copper - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 25
 
-★ Stars: 892
+★ Stars: 891
 
 [Open repository](https://github.com/gocopper/copper)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 891 | 25 | 
 | 2023-01-07 | 892 | 25 | 
 | 2023-01-06 | 892 | 25 | 
 | 2023-01-05 | 891 | 25 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-12 | 889 | 24 | 
 | 2022-12-11 | 889 | 24 | 
 | 2022-12-10 | 889 | 24 | 
-| 2022-12-09 | 889 | 24 | 
 

@@ -1,10 +1,10 @@
 # jwallet/spy-spotify - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 122
 
-★ Stars: 1710
+★ Stars: 1711
 
 [Open repository](https://github.com/jwallet/spy-spotify)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 1711 | 122 | 
 | 2023-01-06 | 1710 | 122 | 
 | 2023-01-05 | 1707 | 122 | 
 | 2023-01-04 | 1707 | 122 | 

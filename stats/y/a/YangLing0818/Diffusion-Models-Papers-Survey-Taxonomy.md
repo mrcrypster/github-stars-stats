@@ -1,10 +1,10 @@
 # YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 122
 
-★ Stars: 1258
+★ Stars: 1259
 
 [Open repository](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 1259 | 122 | 
 | 2023-01-06 | 1258 | 122 | 
 | 2023-01-05 | 1256 | 122 | 
 | 2023-01-04 | 1244 | 122 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 1169 | 115 | 
 | 2022-12-10 | 1164 | 115 | 
 | 2022-12-09 | 1159 | 115 | 
-| 2022-12-08 | 1152 | 115 | 
 

@@ -1,6 +1,6 @@
 # TrafeX/docker-php-nginx - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 620
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 1048 | 620 | 
 | 2023-01-06 | 1048 | 620 | 
 | 2023-01-05 | 1046 | 620 | 
 | 2023-01-04 | 1046 | 620 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 1033 | 611 | 
 | 2022-12-11 | 1030 | 611 | 
 | 2022-12-10 | 1030 | 609 | 
-| 2022-12-08 | 1028 | 610 | 
 

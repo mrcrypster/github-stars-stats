@@ -1,8 +1,8 @@
 # signalapp/Signal-Desktop - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
-☋ Forks: 2368
+☋ Forks: 2366
 
 ★ Stars: 12978
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 12978 | 2366 | 
 | 2023-01-06 | 12978 | 2368 | 
 | 2023-01-05 | 12978 | 2370 | 
 | 2023-01-04 | 12974 | 2371 | 

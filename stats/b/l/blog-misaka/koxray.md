@@ -1,6 +1,6 @@
 # blog-misaka/koxray - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 8 | 29 | 
 | 2023-01-06 | 8 | 29 | 
 | 2023-01-05 | 8 | 29 | 
 | 2023-01-04 | 8 | 28 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 7 | 26 | 
 | 2022-12-10 | 7 | 25 | 
 | 2022-12-09 | 7 | 25 | 
-| 2022-12-08 | 6 | 25 | 
 

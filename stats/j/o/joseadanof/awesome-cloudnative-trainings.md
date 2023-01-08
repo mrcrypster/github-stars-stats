@@ -1,10 +1,10 @@
 # joseadanof/awesome-cloudnative-trainings - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
-☋ Forks: 134
+☋ Forks: 136
 
-★ Stars: 860
+★ Stars: 863
 
 [Open repository](https://github.com/joseadanof/awesome-cloudnative-trainings)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 863 | 136 | 
 | 2023-01-06 | 860 | 134 | 
 | 2023-01-05 | 858 | 133 | 
 | 2023-01-04 | 853 | 131 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 806 | 116 | 
 | 2022-12-11 | 806 | 116 | 
 | 2022-12-10 | 806 | 116 | 
-| 2022-12-08 | 806 | 116 | 
 

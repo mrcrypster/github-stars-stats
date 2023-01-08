@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 07
 
-☋ Forks: 7
+☋ Forks: 9
 
-★ Stars: 28
+★ Stars: 34
 
 [Open repository](https://github.com/CN-Belief/MIUI-)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-07 | 28 | 7 | 
+| 2023-01-07 | 34 | 9 | 
 | 2023-01-06 | 28 | 7 | 
 

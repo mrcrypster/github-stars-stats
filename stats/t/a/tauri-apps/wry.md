@@ -1,10 +1,10 @@
 # tauri-apps/wry - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
-☋ Forks: 135
+☋ Forks: 137
 
-★ Stars: 2200
+★ Stars: 2204
 
 [Open repository](https://github.com/tauri-apps/wry)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 2204 | 137 | 
 | 2023-01-06 | 2200 | 135 | 
 | 2023-01-05 | 2199 | 135 | 
 | 2023-01-04 | 2196 | 135 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 2137 | 130 | 
 | 2022-12-11 | 2133 | 130 | 
 | 2022-12-10 | 2131 | 130 | 
-| 2022-12-08 | 2129 | 130 | 
 

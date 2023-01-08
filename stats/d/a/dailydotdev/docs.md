@@ -1,6 +1,6 @@
 # dailydotdev/docs - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 89
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 185 | 89 | 
 | 2023-01-06 | 185 | 89 | 
 | 2023-01-05 | 185 | 89 | 
 | 2023-01-04 | 185 | 89 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 182 | 89 | 
 | 2022-12-11 | 181 | 89 | 
 | 2022-12-10 | 181 | 89 | 
-| 2022-12-08 | 181 | 89 | 
 

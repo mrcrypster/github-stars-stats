@@ -1,6 +1,6 @@
 # Azure/azure-cosmosdb-spark - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 121
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 189 | 121 | 
 | 2023-01-06 | 189 | 121 | 
 | 2023-01-05 | 189 | 121 | 
 | 2023-01-04 | 189 | 121 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 189 | 121 | 
 | 2022-12-10 | 189 | 121 | 
 | 2022-12-09 | 189 | 120 | 
-| 2022-12-08 | 189 | 120 | 
 

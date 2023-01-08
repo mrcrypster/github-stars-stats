@@ -1,6 +1,6 @@
 # furiousg4m3r/Tales-of-Destiny-DC - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 139 | 38 | 
 | 2023-01-06 | 139 | 38 | 
 | 2023-01-05 | 138 | 38 | 
 | 2023-01-04 | 138 | 38 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 136 | 38 | 
 | 2022-12-11 | 136 | 38 | 
 | 2022-12-10 | 136 | 38 | 
-| 2022-12-08 | 136 | 38 | 
 

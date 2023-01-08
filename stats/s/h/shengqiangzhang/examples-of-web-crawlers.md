@@ -1,6 +1,6 @@
 # shengqiangzhang/examples-of-web-crawlers - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 3560
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 11736 | 3560 | 
 | 2023-01-06 | 11736 | 3560 | 
 | 2023-01-05 | 11734 | 3558 | 
 | 2023-01-04 | 11732 | 3558 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 11692 | 3546 | 
 | 2022-12-10 | 11690 | 3546 | 
 | 2022-12-09 | 11688 | 3544 | 
-| 2022-12-08 | 11685 | 3542 | 
 

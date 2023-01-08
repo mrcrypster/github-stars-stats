@@ -1,10 +1,10 @@
 # kode-team/mastodon.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 4
 
-★ Stars: 58
+★ Stars: 59
 
 [Open repository](https://github.com/kode-team/mastodon.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 59 | 4 | 
 | 2023-01-06 | 58 | 4 | 
 | 2023-01-05 | 58 | 4 | 
 | 2023-01-04 | 57 | 4 | 

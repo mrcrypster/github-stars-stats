@@ -1,10 +1,10 @@
 # hxu296/leetcode-company-wise-problems-2022 - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
-☋ Forks: 483
+☋ Forks: 484
 
-★ Stars: 1571
+★ Stars: 1583
 
 [Open repository](https://github.com/hxu296/leetcode-company-wise-problems-2022)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 1583 | 484 | 
 | 2023-01-06 | 1571 | 483 | 
 | 2023-01-05 | 1563 | 480 | 
 | 2023-01-04 | 1560 | 478 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 1498 | 448 | 
 | 2022-12-10 | 1495 | 446 | 
 | 2022-12-09 | 1491 | 447 | 
-| 2022-12-08 | 1488 | 446 | 
 

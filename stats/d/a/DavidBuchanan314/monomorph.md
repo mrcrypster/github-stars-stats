@@ -1,6 +1,6 @@
 # DavidBuchanan314/monomorph - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 706 | 55 | 
 | 2023-01-06 | 706 | 55 | 
 | 2023-01-05 | 705 | 55 | 
 | 2023-01-04 | 705 | 55 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 699 | 54 | 
 | 2022-12-10 | 699 | 54 | 
 | 2022-12-09 | 699 | 54 | 
-| 2022-12-08 | 699 | 54 | 
 

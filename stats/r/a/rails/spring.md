@@ -1,10 +1,10 @@
 # rails/spring - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 336
 
-★ Stars: 2747
+★ Stars: 2748
 
 [Open repository](https://github.com/rails/spring)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 2748 | 336 | 
 | 2023-01-06 | 2747 | 336 | 
 | 2023-01-05 | 2746 | 336 | 
 | 2023-01-04 | 2746 | 336 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 2747 | 336 | 
 | 2022-12-11 | 2747 | 336 | 
 | 2022-12-10 | 2747 | 336 | 
-| 2022-12-08 | 2747 | 336 | 
 

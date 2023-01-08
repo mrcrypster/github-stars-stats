@@ -1,6 +1,6 @@
 # ddurAdvisor/CreativeCoding2022Fall - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 5 | 13 | 
 | 2023-01-07 | 5 | 13 | 
 | 2023-01-05 | 5 | 13 | 
 | 2023-01-04 | 5 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-11 | 6 | 11 | 
 | 2022-12-10 | 6 | 11 | 
 | 2022-12-09 | 6 | 11 | 
-| 2022-12-08 | 6 | 11 | 
 

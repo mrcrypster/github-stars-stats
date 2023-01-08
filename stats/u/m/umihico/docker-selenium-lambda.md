@@ -1,10 +1,10 @@
 # umihico/docker-selenium-lambda - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 63
 
-★ Stars: 202
+★ Stars: 203
 
 [Open repository](https://github.com/umihico/docker-selenium-lambda)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 203 | 63 | 
 | 2023-01-06 | 202 | 63 | 
 | 2023-01-05 | 202 | 61 | 
 | 2023-01-04 | 202 | 61 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-11 | 194 | 60 | 
 | 2022-12-10 | 192 | 60 | 
 | 2022-12-09 | 191 | 60 | 
-| 2022-12-08 | 192 | 60 | 
 

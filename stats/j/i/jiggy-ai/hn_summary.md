@@ -1,10 +1,10 @@
 # jiggy-ai/hn_summary - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 15
 
-★ Stars: 182
+★ Stars: 183
 
 [Open repository](https://github.com/jiggy-ai/hn_summary)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 183 | 15 | 
 | 2023-01-06 | 182 | 15 | 
 | 2023-01-05 | 182 | 15 | 
 | 2023-01-04 | 182 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 179 | 15 | 
 | 2022-12-10 | 179 | 15 | 
 | 2022-12-09 | 178 | 15 | 
-| 2022-12-08 | 176 | 15 | 
 

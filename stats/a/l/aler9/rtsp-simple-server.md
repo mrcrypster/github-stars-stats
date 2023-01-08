@@ -1,10 +1,10 @@
 # aler9/rtsp-simple-server - stars & forks statistics
 
-Stats updated on Jan 2023, 06
+Stats updated on Jan 2023, 07
 
 ☋ Forks: 746
 
-★ Stars: 4824
+★ Stars: 4831
 
 [Open repository](https://github.com/aler9/rtsp-simple-server)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-07 | 4831 | 746 | 
 | 2023-01-06 | 4824 | 746 | 
 | 2023-01-05 | 4815 | 744 | 
 | 2023-01-04 | 4810 | 743 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 06
 | 2022-12-12 | 4452 | 705 | 
 | 2022-12-11 | 4441 | 706 | 
 | 2022-12-10 | 4438 | 706 | 
-| 2022-12-08 | 4431 | 705 | 
 
