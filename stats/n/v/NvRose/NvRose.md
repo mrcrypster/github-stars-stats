@@ -1,6 +1,6 @@
 # NvRose/NvRose - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 24 | - | 
 | 2023-01-07 | 24 | - | 
 | 2023-01-06 | 24 | - | 
 | 2023-01-05 | 24 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-12 | 24 | - | 
 | 2022-12-11 | 24 | - | 
 | 2022-12-10 | 24 | - | 
-| 2022-12-09 | 24 | - | 
 

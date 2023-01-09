@@ -1,6 +1,6 @@
 # AllYarnsAreBeautiful/allyarnsarebeautiful.github.io - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 10 | 4 | 
 | 2023-01-07 | 10 | 4 | 
 | 2023-01-06 | 10 | 4 | 
 | 2023-01-05 | 10 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 9 | 4 | 
 | 2022-12-11 | 9 | 4 | 
 | 2022-12-10 | 9 | 4 | 
-| 2022-12-09 | 9 | 4 | 
 

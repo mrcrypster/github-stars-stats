@@ -1,10 +1,10 @@
 # hertg/lightdm-neon - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 0
 
-★ Stars: 64
+★ Stars: 65
 
 [Open repository](https://github.com/hertg/lightdm-neon)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 65 | - | 
 | 2023-01-07 | 64 | - | 
 | 2023-01-06 | 64 | - | 
 | 2023-01-05 | 64 | - | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 61 | - | 
 | 2022-12-12 | 61 | - | 
 | 2022-12-11 | 59 | - | 
-| 2022-12-09 | 58 | - | 
 

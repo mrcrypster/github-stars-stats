@@ -1,10 +1,10 @@
 # jonashcroft/Nowify - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 166
 
-★ Stars: 153
+★ Stars: 154
 
 [Open repository](https://github.com/jonashcroft/Nowify)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 154 | 166 | 
 | 2023-01-07 | 153 | 166 | 
 | 2023-01-06 | 153 | 166 | 
 | 2023-01-05 | 153 | 166 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 151 | 164 | 
 | 2022-12-12 | 151 | 163 | 
 | 2022-12-11 | 151 | 162 | 
-| 2022-12-10 | 151 | 163 | 
 

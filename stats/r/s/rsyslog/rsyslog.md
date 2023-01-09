@@ -1,8 +1,8 @@
 # rsyslog/rsyslog - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 09
 
-☋ Forks: 602
+☋ Forks: 601
 
 ★ Stars: 1709
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 1709 | 601 | 
 | 2023-01-07 | 1709 | 602 | 
 | 2023-01-06 | 1709 | 602 | 
 | 2023-01-05 | 1708 | 602 | 

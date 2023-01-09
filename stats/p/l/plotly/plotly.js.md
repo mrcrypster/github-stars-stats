@@ -1,10 +1,10 @@
 # plotly/plotly.js - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 1739
 
-★ Stars: 15305
+★ Stars: 15307
 
 [Open repository](https://github.com/plotly/plotly.js)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 15307 | 1739 | 
 | 2023-01-08 | 15305 | 1739 | 
 | 2023-01-07 | 15305 | 1739 | 
 | 2023-01-05 | 15304 | 1737 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 15235 | 1729 | 
 | 2022-12-12 | 15234 | 1729 | 
 | 2022-12-10 | 15233 | 1729 | 
-| 2022-12-09 | 15229 | 1729 | 
 

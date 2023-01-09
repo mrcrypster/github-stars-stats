@@ -1,6 +1,6 @@
 # MordechaiHadad/bob - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 402 | 13 | 
 | 2023-01-07 | 402 | 13 | 
 | 2023-01-06 | 401 | 13 | 
 | 2023-01-05 | 398 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-12 | 372 | 13 | 
 | 2022-12-11 | 370 | 13 | 
 | 2022-12-10 | 368 | 13 | 
-| 2022-12-09 | 366 | 13 | 
 

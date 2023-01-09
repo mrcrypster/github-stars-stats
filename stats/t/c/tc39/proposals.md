@@ -1,10 +1,10 @@
 # tc39/proposals - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 719
 
-★ Stars: 16296
+★ Stars: 16295
 
 [Open repository](https://github.com/tc39/proposals)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 16295 | 719 | 
 | 2023-01-07 | 16296 | 719 | 
 | 2023-01-06 | 16295 | 719 | 
 | 2023-01-05 | 16289 | 719 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 16214 | 714 | 
 | 2022-12-12 | 16212 | 714 | 
 | 2022-12-11 | 16212 | 713 | 
-| 2022-12-09 | 16207 | 712 | 
 

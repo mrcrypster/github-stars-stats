@@ -1,10 +1,10 @@
 # EhPanda-Team/EhPanda - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 170
 
-★ Stars: 2022
+★ Stars: 2025
 
 [Open repository](https://github.com/EhPanda-Team/EhPanda)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 2025 | 170 | 
 | 2023-01-07 | 2022 | 170 | 
 | 2023-01-06 | 2019 | 170 | 
 | 2023-01-05 | 2015 | 170 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-12 | 1949 | 168 | 
 | 2022-12-11 | 1944 | 168 | 
 | 2022-12-10 | 1943 | 168 | 
-| 2022-12-09 | 1939 | 169 | 
 

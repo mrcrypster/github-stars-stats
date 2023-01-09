@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 08
 
-☋ Forks: 2
+☋ Forks: 3
 
-★ Stars: 342
+★ Stars: 404
 
 [Open repository](https://github.com/lxgw/LxgwNeoXiHei)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-08 | 342 | 2 | 
+| 2023-01-08 | 404 | 3 | 
 | 2023-01-07 | 340 | 2 | 
 | 2023-01-06 | 283 | 1 | 
 | 2023-01-05 | 233 | 1 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 201 | 1 | 
 | 2022-12-11 | 200 | 1 | 
 | 2022-12-10 | 199 | 1 | 
-| 2022-12-09 | 193 | 1 | 
 

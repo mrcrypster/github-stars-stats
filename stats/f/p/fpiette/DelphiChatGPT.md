@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 08
 
 ☋ Forks: 4
 
-★ Stars: 17
+★ Stars: 19
 
 [Open repository](https://github.com/fpiette/DelphiChatGPT)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-08 | 17 | 4 | 
+| 2023-01-08 | 19 | 4 | 
 | 2023-01-07 | 17 | 4 | 
 | 2023-01-06 | 15 | 4 | 
 

@@ -1,8 +1,8 @@
 # abrochard/kubel - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 37
+☋ Forks: 38
 
 ★ Stars: 228
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 228 | 38 | 
 | 2023-01-07 | 228 | 37 | 
 | 2023-01-06 | 228 | 37 | 
 | 2023-01-05 | 228 | 37 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 225 | 37 | 
 | 2022-12-11 | 225 | 37 | 
 | 2022-12-10 | 226 | 37 | 
-| 2022-12-09 | 226 | 37 | 
 

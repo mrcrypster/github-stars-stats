@@ -1,10 +1,10 @@
 # android/uamp - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 3709
+☋ Forks: 3710
 
-★ Stars: 12730
+★ Stars: 12732
 
 [Open repository](https://github.com/android/uamp)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 12732 | 3710 | 
 | 2023-01-07 | 12730 | 3709 | 
 | 2023-01-06 | 12727 | 3708 | 
 | 2023-01-05 | 12725 | 3707 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-12 | 12706 | 3707 | 
 | 2022-12-11 | 12706 | 3707 | 
 | 2022-12-10 | 12705 | 3708 | 
-| 2022-12-09 | 12706 | 3708 | 
 

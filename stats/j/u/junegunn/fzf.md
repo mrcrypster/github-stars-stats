@@ -1,10 +1,10 @@
 # junegunn/fzf - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 2099
+☋ Forks: 2102
 
-★ Stars: 49083
+★ Stars: 49094
 
 [Open repository](https://github.com/junegunn/fzf)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 49094 | 2102 | 
 | 2023-01-07 | 49083 | 2099 | 
 | 2023-01-06 | 49066 | 2098 | 
 | 2023-01-05 | 49043 | 2097 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-12 | 48644 | 2080 | 
 | 2022-12-11 | 48629 | 2076 | 
 | 2022-12-10 | 48612 | 2074 | 
-| 2022-12-09 | 48594 | 2074 | 
 

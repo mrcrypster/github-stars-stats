@@ -1,6 +1,6 @@
 # ddsjoberg/gtsummary - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 90
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 758 | 90 | 
 | 2023-01-07 | 758 | 90 | 
 | 2023-01-06 | 757 | 90 | 
 | 2023-01-05 | 756 | 90 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-14 | 750 | 87 | 
 | 2022-12-12 | 751 | 86 | 
 | 2022-12-11 | 751 | 86 | 
-| 2022-12-10 | 751 | 86 | 
 

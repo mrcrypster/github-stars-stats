@@ -1,10 +1,10 @@
 # stefanzweifel/git-auto-commit-action - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 173
+☋ Forks: 174
 
-★ Stars: 1178
+★ Stars: 1179
 
 [Open repository](https://github.com/stefanzweifel/git-auto-commit-action)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 1179 | 174 | 
 | 2023-01-07 | 1178 | 173 | 
 | 2023-01-06 | 1177 | 173 | 
 | 2023-01-05 | 1176 | 172 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-12 | 1140 | 170 | 
 | 2022-12-11 | 1138 | 170 | 
 | 2022-12-10 | 1137 | 170 | 
-| 2022-12-09 | 1137 | 170 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 08
 
-☋ Forks: 114
+☋ Forks: 115
 
-★ Stars: 813
+★ Stars: 818
 
 [Open repository](https://github.com/getActivity/AndroidIndex)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-08 | 813 | 114 | 
+| 2023-01-08 | 818 | 115 | 
 | 2023-01-07 | 813 | 114 | 
 

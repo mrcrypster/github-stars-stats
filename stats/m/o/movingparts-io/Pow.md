@@ -1,6 +1,6 @@
 # movingparts-io/Pow - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 887 | 17 | 
 | 2023-01-07 | 887 | 17 | 
 | 2023-01-06 | 886 | 17 | 
 | 2023-01-05 | 884 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 870 | 16 | 
 | 2022-12-11 | 868 | 16 | 
 | 2022-12-10 | 866 | 16 | 
-| 2022-12-09 | 864 | 16 | 
 

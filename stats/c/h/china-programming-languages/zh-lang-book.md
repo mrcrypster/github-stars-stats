@@ -1,10 +1,10 @@
 # china-programming-languages/zh-lang-book - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 23
 
-★ Stars: 179
+★ Stars: 184
 
 [Open repository](https://github.com/china-programming-languages/zh-lang-book)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 184 | 23 | 
 | 2023-01-07 | 179 | 23 | 
 | 2023-01-06 | 179 | 23 | 
 | 2023-01-05 | 179 | 23 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 175 | 23 | 
 | 2022-12-12 | 175 | 23 | 
 | 2022-12-11 | 175 | 23 | 
-| 2022-12-09 | 175 | 23 | 
 

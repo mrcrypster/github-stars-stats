@@ -1,6 +1,6 @@
 # EpicGames/ThirdParty - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 271
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 318 | 271 | 
 | 2023-01-07 | 318 | 271 | 
 | 2023-01-06 | 318 | 271 | 
 | 2023-01-05 | 318 | 271 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 317 | 271 | 
 | 2022-12-12 | 317 | 271 | 
 | 2022-12-11 | 317 | 271 | 
-| 2022-12-10 | 317 | 271 | 
 

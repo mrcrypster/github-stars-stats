@@ -1,10 +1,10 @@
 # daifiyum/halo-theme-MaterialYour - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 6
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/daifiyum/halo-theme-MaterialYour)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 27 | 6 | 
 | 2023-01-07 | 26 | 6 | 
 | 2023-01-06 | 26 | 6 | 
 | 2023-01-05 | 26 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 28 | 6 | 
 | 2022-12-12 | 27 | 6 | 
 | 2022-12-10 | 27 | 6 | 
-| 2022-12-09 | 27 | 6 | 
 

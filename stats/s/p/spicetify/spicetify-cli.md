@@ -1,10 +1,10 @@
 # spicetify/spicetify-cli - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 571
+☋ Forks: 572
 
-★ Stars: 13137
+★ Stars: 13145
 
 [Open repository](https://github.com/spicetify/spicetify-cli)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 13145 | 572 | 
 | 2023-01-07 | 13137 | 571 | 
 | 2023-01-06 | 13129 | 571 | 
 | 2023-01-05 | 13121 | 569 | 

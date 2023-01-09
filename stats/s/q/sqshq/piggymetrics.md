@@ -1,8 +1,8 @@
 # sqshq/piggymetrics - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 5790
+☋ Forks: 5789
 
 ★ Stars: 12092
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 12092 | 5789 | 
 | 2023-01-07 | 12092 | 5790 | 
 | 2023-01-06 | 12090 | 5790 | 
 | 2023-01-05 | 12090 | 5788 | 

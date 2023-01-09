@@ -1,6 +1,6 @@
 # wangzhiwubigdata/God-Of-BigData - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 2703
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 7702 | 2703 | 
 | 2023-01-07 | 7702 | 2703 | 
 | 2023-01-06 | 7701 | 2701 | 
 | 2023-01-05 | 7693 | 2700 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 7641 | 2684 | 
 | 2022-12-12 | 7635 | 2684 | 
 | 2022-12-10 | 7636 | 2683 | 
-| 2022-12-09 | 7634 | 2683 | 
 

@@ -1,6 +1,6 @@
 # BlueDude557/FNF-Void-Mod - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 8 | 21 | 
 | 2023-01-07 | 8 | 21 | 
 | 2023-01-06 | 9 | 21 | 
 | 2023-01-05 | 9 | 21 | 

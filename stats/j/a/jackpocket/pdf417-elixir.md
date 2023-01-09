@@ -1,6 +1,6 @@
 # jackpocket/pdf417-elixir - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 6 | - | 
 | 2023-01-07 | 6 | - | 
 | 2023-01-06 | 6 | - | 
 | 2023-01-05 | 6 | - | 

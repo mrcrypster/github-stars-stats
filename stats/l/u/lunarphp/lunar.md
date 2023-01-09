@@ -1,10 +1,10 @@
 # lunarphp/lunar - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 129
 
-★ Stars: 652
+★ Stars: 653
 
 [Open repository](https://github.com/lunarphp/lunar)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 653 | 129 | 
 | 2023-01-07 | 652 | 129 | 
 | 2023-01-06 | 651 | 130 | 
 | 2023-01-05 | 651 | 130 | 

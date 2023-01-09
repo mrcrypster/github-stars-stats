@@ -1,10 +1,10 @@
 # makdosx/mip22 - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 87
 
-★ Stars: 411
+★ Stars: 412
 
 [Open repository](https://github.com/makdosx/mip22)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 412 | 87 | 
 | 2023-01-07 | 411 | 87 | 
 | 2023-01-06 | 411 | 87 | 
 | 2023-01-05 | 411 | 87 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 403 | 85 | 
 | 2022-12-11 | 401 | 85 | 
 | 2022-12-10 | 402 | 85 | 
-| 2022-12-09 | 402 | 85 | 
 

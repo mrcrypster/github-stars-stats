@@ -1,6 +1,6 @@
 # kana/vim-textobj-indent - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 162 | 10 | 
 | 2023-01-08 | 162 | 10 | 
 | 2023-01-07 | 162 | 10 | 
 | 2023-01-05 | 162 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-12 | 163 | 10 | 
 | 2022-12-11 | 163 | 10 | 
 | 2022-12-10 | 163 | 10 | 
-| 2022-12-09 | 163 | 10 | 
 

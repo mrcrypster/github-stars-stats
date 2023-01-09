@@ -1,10 +1,10 @@
 # dsasaank-369/Pokemon - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 124
 
-★ Stars: 44
+★ Stars: 43
 
 [Open repository](https://github.com/dsasaank-369/Pokemon)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 43 | 124 | 
 | 2023-01-07 | 44 | 124 | 
 | 2023-01-06 | 44 | 124 | 
 | 2023-01-05 | 44 | 124 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 44 | 127 | 
 | 2022-12-12 | 45 | 127 | 
 | 2022-12-11 | 45 | 128 | 
-| 2022-12-10 | 45 | 128 | 
 

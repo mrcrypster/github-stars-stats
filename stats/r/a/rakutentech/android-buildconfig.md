@@ -1,6 +1,6 @@
 # rakutentech/android-buildconfig - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 21 | 24 | 
 | 2023-01-08 | 21 | 24 | 
 | 2023-01-06 | 21 | 24 | 
 | 2023-01-05 | 21 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 21 | 24 | 
 | 2022-12-11 | 21 | 24 | 
 | 2022-12-10 | 21 | 24 | 
-| 2022-12-09 | 21 | 24 | 
 

@@ -1,10 +1,10 @@
 # catchain/tonscan - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 25
 
-★ Stars: 169
+★ Stars: 170
 
 [Open repository](https://github.com/catchain/tonscan)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 170 | 25 | 
 | 2023-01-07 | 169 | 25 | 
 | 2023-01-06 | 169 | 25 | 
 | 2023-01-05 | 169 | 25 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 168 | 23 | 
 | 2022-12-12 | 168 | 22 | 
 | 2022-12-10 | 168 | 22 | 
-| 2022-12-09 | 167 | 22 | 
 

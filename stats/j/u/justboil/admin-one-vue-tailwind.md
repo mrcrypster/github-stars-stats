@@ -1,10 +1,10 @@
 # justboil/admin-one-vue-tailwind - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 188
 
-★ Stars: 1049
+★ Stars: 1054
 
 [Open repository](https://github.com/justboil/admin-one-vue-tailwind)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 1054 | 188 | 
+| 2023-01-08 | 1053 | 188 | 
 | 2023-01-07 | 1049 | 188 | 
 | 2023-01-06 | 1047 | 189 | 
 | 2023-01-05 | 1046 | 189 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-12 | 985 | 182 | 
 | 2022-12-11 | 982 | 181 | 
 | 2022-12-10 | 982 | 181 | 
-| 2022-12-09 | 980 | 181 | 
 

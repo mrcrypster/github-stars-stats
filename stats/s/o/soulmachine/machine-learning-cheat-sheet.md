@@ -1,10 +1,10 @@
 # soulmachine/machine-learning-cheat-sheet - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 1075
 
-★ Stars: 5668
+★ Stars: 5671
 
 [Open repository](https://github.com/soulmachine/machine-learning-cheat-sheet)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 5671 | 1075 | 
 | 2023-01-07 | 5668 | 1075 | 
 | 2023-01-06 | 5668 | 1076 | 
 | 2023-01-05 | 5668 | 1076 | 

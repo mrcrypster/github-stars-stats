@@ -1,10 +1,10 @@
 # styled-components/styled-components - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 2385
+☋ Forks: 2386
 
-★ Stars: 38015
+★ Stars: 38019
 
 [Open repository](https://github.com/styled-components/styled-components)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 38019 | 2386 | 
 | 2023-01-07 | 38015 | 2385 | 
 | 2023-01-06 | 38008 | 2385 | 
 | 2023-01-05 | 38009 | 2385 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 37892 | 2374 | 
 | 2022-12-12 | 37887 | 2373 | 
 | 2022-12-10 | 37880 | 2373 | 
-| 2022-12-09 | 37874 | 2374 | 
 

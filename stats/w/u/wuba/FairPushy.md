@@ -1,10 +1,10 @@
 # wuba/FairPushy - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 25
 
-★ Stars: 202
+★ Stars: 203
 
 [Open repository](https://github.com/wuba/FairPushy)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 203 | 25 | 
 | 2023-01-07 | 202 | 25 | 
 | 2023-01-06 | 202 | 25 | 
 | 2023-01-05 | 201 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-12 | 197 | 22 | 
 | 2022-12-11 | 194 | 22 | 
 | 2022-12-10 | 195 | 22 | 
-| 2022-12-09 | 194 | 22 | 
 

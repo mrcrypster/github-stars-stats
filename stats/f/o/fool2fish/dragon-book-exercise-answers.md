@@ -1,6 +1,6 @@
 # fool2fish/dragon-book-exercise-answers - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 1714
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 5582 | 1714 | 
 | 2023-01-07 | 5582 | 1714 | 
 | 2023-01-06 | 5581 | 1714 | 
 | 2023-01-05 | 5581 | 1714 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 5531 | 1709 | 
 | 2022-12-12 | 5532 | 1709 | 
 | 2022-12-10 | 5531 | 1708 | 
-| 2022-12-09 | 5530 | 1709 | 
 

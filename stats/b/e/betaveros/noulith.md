@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 08
 
 ☋ Forks: 16
 
-★ Stars: 916
+★ Stars: 918
 
 [Open repository](https://github.com/betaveros/noulith)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-08 | 916 | 16 | 
+| 2023-01-08 | 918 | 16 | 
 | 2023-01-07 | 915 | 16 | 
 | 2023-01-06 | 908 | 16 | 
 | 2023-01-05 | 896 | 14 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-12 | 324 | 6 | 
 | 2022-12-11 | 307 | 6 | 
 | 2022-12-10 | 290 | 7 | 
-| 2022-12-09 | 277 | 7 | 
 

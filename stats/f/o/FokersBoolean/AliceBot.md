@@ -1,10 +1,10 @@
 # FokersBoolean/AliceBot - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 11
 
-★ Stars: 72
+★ Stars: 73
 
 [Open repository](https://github.com/FokersBoolean/AliceBot)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 73 | 11 | 
 | 2023-01-07 | 72 | 11 | 
 | 2023-01-06 | 72 | 11 | 
 | 2023-01-05 | 71 | 11 | 

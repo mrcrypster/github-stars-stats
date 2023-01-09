@@ -1,10 +1,10 @@
 # olexale/flutter_roadmap - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 645
 
-★ Stars: 4308
+★ Stars: 4309
 
 [Open repository](https://github.com/olexale/flutter_roadmap)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 4309 | 645 | 
 | 2023-01-07 | 4308 | 645 | 
 | 2023-01-06 | 4305 | 646 | 
 | 2023-01-05 | 4296 | 646 | 

@@ -1,8 +1,8 @@
 # aquasecurity/tracee - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 288
+☋ Forks: 289
 
 ★ Stars: 2384
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 2384 | 289 | 
 | 2023-01-08 | 2384 | 288 | 
 | 2023-01-06 | 2383 | 288 | 
 | 2023-01-05 | 2382 | 287 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 2319 | 284 | 
 | 2022-12-12 | 2316 | 284 | 
 | 2022-12-10 | 2316 | 284 | 
-| 2022-12-09 | 2314 | 283 | 
 

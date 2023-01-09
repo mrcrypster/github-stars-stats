@@ -1,6 +1,6 @@
 # martymcmodding/qUINT - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 202
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 387 | 202 | 
 | 2023-01-07 | 387 | 202 | 
 | 2023-01-06 | 387 | 202 | 
 | 2023-01-05 | 387 | 202 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 384 | 200 | 
 | 2022-12-12 | 384 | 200 | 
 | 2022-12-11 | 384 | 200 | 
-| 2022-12-10 | 384 | 200 | 
 

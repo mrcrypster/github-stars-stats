@@ -1,6 +1,6 @@
 # prograd-org/lab-js-prograd-contacts - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 205
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 3 | 205 | 
 | 2023-01-08 | 3 | 205 | 
 | 2023-01-06 | 3 | 205 | 
 | 2023-01-05 | 3 | 205 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 3 | 205 | 
 | 2022-12-11 | 3 | 205 | 
 | 2022-12-10 | 3 | 205 | 
-| 2022-12-09 | 3 | 205 | 
 

@@ -1,6 +1,6 @@
 # MuddledBox/FlipperZeroSub-GHz - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 84
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 556 | 84 | 
 | 2023-01-07 | 556 | 84 | 
 | 2023-01-06 | 555 | 84 | 
 | 2023-01-05 | 554 | 84 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 495 | 78 | 
 | 2022-12-12 | 491 | 78 | 
 | 2022-12-11 | 488 | 78 | 
-| 2022-12-09 | 486 | 77 | 
 

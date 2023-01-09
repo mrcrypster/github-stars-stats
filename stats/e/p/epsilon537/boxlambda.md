@@ -1,10 +1,10 @@
 # epsilon537/boxlambda - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 0
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/epsilon537/boxlambda)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 16 | - | 
 | 2023-01-07 | 15 | - | 
 | 2023-01-06 | 15 | - | 
 | 2023-01-05 | 15 | - | 

@@ -1,8 +1,8 @@
 # youssefHosni/Efficient-Python-for-Data-Scientists - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 35
+☋ Forks: 36
 
 ★ Stars: 228
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 228 | 36 | 
 | 2023-01-07 | 228 | 35 | 
 | 2023-01-06 | 227 | 35 | 
 | 2023-01-05 | 222 | 35 | 

@@ -1,10 +1,10 @@
 # garredow/kaite - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 1
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/garredow/kaite)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 13 | 1 | 
 | 2023-01-07 | 12 | 1 | 
 | 2023-01-06 | 12 | 1 | 
 | 2023-01-05 | 12 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 12 | 1 | 
 | 2022-12-11 | 12 | 1 | 
 | 2022-12-10 | 12 | 1 | 
-| 2022-12-09 | 12 | 1 | 
 

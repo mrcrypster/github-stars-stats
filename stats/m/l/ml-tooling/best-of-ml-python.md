@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 08
 
-☋ Forks: 1888
+☋ Forks: 1890
 
-★ Stars: 12365
+★ Stars: 12373
 
 [Open repository](https://github.com/ml-tooling/best-of-ml-python)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-08 | 12365 | 1888 | 
+| 2023-01-08 | 12373 | 1890 | 
 | 2023-01-07 | 12362 | 1887 | 
 | 2023-01-06 | 12322 | 1884 | 
 | 2023-01-05 | 12168 | 1857 | 
@@ -41,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 12057 | 1849 | 
 | 2022-12-12 | 12049 | 1847 | 
 | 2022-12-10 | 12034 | 1846 | 
-| 2022-12-09 | 12024 | 1846 | 
 

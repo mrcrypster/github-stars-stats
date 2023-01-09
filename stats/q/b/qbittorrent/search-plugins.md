@@ -1,8 +1,8 @@
 # qbittorrent/search-plugins - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 417
+☋ Forks: 418
 
 ★ Stars: 2578
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 2578 | 418 | 
 | 2023-01-07 | 2578 | 417 | 
 | 2023-01-06 | 2576 | 416 | 
 | 2023-01-05 | 2575 | 416 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 2539 | 414 | 
 | 2022-12-11 | 2536 | 414 | 
 | 2022-12-10 | 2533 | 414 | 
-| 2022-12-09 | 2528 | 415 | 
 

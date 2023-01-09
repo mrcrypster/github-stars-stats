@@ -1,10 +1,10 @@
 # filecxx/FileCentipede - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 275
+☋ Forks: 276
 
-★ Stars: 3713
+★ Stars: 3719
 
 [Open repository](https://github.com/filecxx/FileCentipede)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 3719 | 276 | 
 | 2023-01-07 | 3713 | 275 | 
 | 2023-01-06 | 3703 | 275 | 
 | 2023-01-05 | 3691 | 275 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-12 | 3508 | 269 | 
 | 2022-12-11 | 3498 | 269 | 
 | 2022-12-10 | 3487 | 269 | 
-| 2022-12-09 | 3468 | 267 | 
 

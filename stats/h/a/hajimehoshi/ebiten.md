@@ -1,8 +1,8 @@
 # hajimehoshi/ebiten - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 508
+☋ Forks: 507
 
 ★ Stars: 7679
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 7679 | 507 | 
 | 2023-01-07 | 7679 | 508 | 
 | 2023-01-06 | 7675 | 509 | 
 | 2023-01-05 | 7670 | 510 | 

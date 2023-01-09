@@ -1,10 +1,10 @@
 # DeGatchi/mev-template-rs - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 61
 
-★ Stars: 403
+★ Stars: 404
 
 [Open repository](https://github.com/DeGatchi/mev-template-rs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 404 | 61 | 
 | 2023-01-07 | 403 | 61 | 
 | 2023-01-06 | 402 | 60 | 
 | 2023-01-05 | 402 | 60 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 382 | 56 | 
 | 2022-12-12 | 380 | 56 | 
 | 2022-12-11 | 378 | 55 | 
-| 2022-12-09 | 376 | 54 | 
 

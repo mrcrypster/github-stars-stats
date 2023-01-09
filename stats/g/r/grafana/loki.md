@@ -1,6 +1,6 @@
 # grafana/loki - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 2427
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 17996 | 2427 | 
 | 2023-01-08 | 17996 | 2427 | 
 | 2023-01-07 | 17993 | 2426 | 
 | 2023-01-05 | 17980 | 2424 | 

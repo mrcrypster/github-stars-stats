@@ -1,10 +1,10 @@
 # Dadoum/Provision - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 25
 
-★ Stars: 75
+★ Stars: 76
 
 [Open repository](https://github.com/Dadoum/Provision)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 76 | 25 | 
 | 2023-01-07 | 75 | 25 | 
 | 2023-01-06 | 75 | 25 | 
 | 2023-01-05 | 75 | 25 | 

@@ -1,6 +1,6 @@
 # fabrizioschiavi/pragmatapro - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 1167 | 35 | 
 | 2023-01-07 | 1167 | 35 | 
 | 2023-01-06 | 1167 | 35 | 
 | 2023-01-05 | 1167 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-12 | 1160 | 34 | 
 | 2022-12-11 | 1160 | 34 | 
 | 2022-12-10 | 1159 | 34 | 
-| 2022-12-09 | 1159 | 34 | 
 

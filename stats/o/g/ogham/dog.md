@@ -1,10 +1,10 @@
 # ogham/dog - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 119
 
-★ Stars: 4816
+★ Stars: 4821
 
 [Open repository](https://github.com/ogham/dog)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 4821 | 119 | 
 | 2023-01-07 | 4816 | 119 | 
 | 2023-01-06 | 4816 | 119 | 
 | 2023-01-05 | 4815 | 119 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 4782 | 120 | 
 | 2022-12-12 | 4777 | 120 | 
 | 2022-12-11 | 4776 | 120 | 
-| 2022-12-10 | 4776 | 120 | 
 

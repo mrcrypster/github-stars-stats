@@ -1,10 +1,10 @@
 # nnextdb/nnext - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 3
 
-★ Stars: 117
+★ Stars: 118
 
 [Open repository](https://github.com/nnextdb/nnext)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 118 | 3 | 
 | 2023-01-07 | 117 | 3 | 
 | 2023-01-06 | 117 | 3 | 
 | 2023-01-05 | 117 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 117 | 3 | 
 | 2022-12-12 | 117 | 3 | 
 | 2022-12-11 | 117 | 3 | 
-| 2022-12-09 | 117 | 3 | 
 

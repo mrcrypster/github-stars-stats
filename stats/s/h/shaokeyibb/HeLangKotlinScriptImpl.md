@@ -1,10 +1,10 @@
 # shaokeyibb/HeLangKotlinScriptImpl - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 0
 
-★ Stars: 46
+★ Stars: 47
 
 [Open repository](https://github.com/shaokeyibb/HeLangKotlinScriptImpl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 47 | - | 
 | 2023-01-07 | 46 | - | 
 | 2023-01-06 | 46 | - | 
 | 2023-01-05 | 46 | - | 

@@ -1,10 +1,10 @@
 # Fanael/highlight-quoted - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 3
 
-★ Stars: 38
+★ Stars: 39
 
 [Open repository](https://github.com/Fanael/highlight-quoted)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 39 | 3 | 
 | 2023-01-07 | 38 | 3 | 
 | 2023-01-06 | 38 | 3 | 
 | 2023-01-05 | 38 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 38 | 3 | 
 | 2022-12-12 | 38 | 3 | 
 | 2022-12-10 | 38 | 3 | 
-| 2022-12-09 | 38 | 3 | 
 

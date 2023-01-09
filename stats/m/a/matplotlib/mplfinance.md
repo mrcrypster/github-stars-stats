@@ -1,10 +1,10 @@
 # matplotlib/mplfinance - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 524
 
-★ Stars: 2502
+★ Stars: 2506
 
 [Open repository](https://github.com/matplotlib/mplfinance)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 2506 | 524 | 
 | 2023-01-07 | 2502 | 524 | 
 | 2023-01-06 | 2499 | 523 | 
 | 2023-01-05 | 2499 | 523 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 2460 | 511 | 
 | 2022-12-12 | 2458 | 511 | 
 | 2022-12-10 | 2455 | 511 | 
-| 2022-12-09 | 2456 | 511 | 
 

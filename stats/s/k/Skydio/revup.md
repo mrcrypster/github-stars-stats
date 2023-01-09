@@ -1,10 +1,10 @@
 # Skydio/revup - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 22
 
-★ Stars: 232
+★ Stars: 233
 
 [Open repository](https://github.com/Skydio/revup)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 233 | 22 | 
 | 2023-01-07 | 232 | 22 | 
 | 2023-01-06 | 232 | 22 | 
 | 2023-01-05 | 232 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 227 | 19 | 
 | 2022-12-11 | 227 | 19 | 
 | 2022-12-10 | 227 | 19 | 
-| 2022-12-09 | 227 | 19 | 
 

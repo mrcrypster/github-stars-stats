@@ -1,10 +1,10 @@
 # consul/consul - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 1055
+☋ Forks: 1056
 
-★ Stars: 1294
+★ Stars: 1295
 
 [Open repository](https://github.com/consul/consul)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 1295 | 1056 | 
 | 2023-01-07 | 1294 | 1055 | 
 | 2023-01-06 | 1294 | 1055 | 
 | 2023-01-05 | 1294 | 1055 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 1286 | 1048 | 
 | 2022-12-12 | 1286 | 1048 | 
 | 2022-12-11 | 1286 | 1048 | 
-| 2022-12-09 | 1286 | 1047 | 
 

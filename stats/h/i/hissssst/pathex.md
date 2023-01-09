@@ -1,6 +1,6 @@
 # hissssst/pathex - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 254 | 14 | 
 | 2023-01-07 | 254 | 14 | 
 | 2023-01-06 | 254 | 14 | 
 | 2023-01-05 | 254 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 250 | 14 | 
 | 2022-12-12 | 250 | 14 | 
 | 2022-12-11 | 250 | 14 | 
-| 2022-12-10 | 250 | 14 | 
 

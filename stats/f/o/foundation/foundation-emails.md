@@ -1,8 +1,8 @@
 # foundation/foundation-emails - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 1105
+☋ Forks: 1104
 
 ★ Stars: 7688
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 7688 | 1104 | 
 | 2023-01-07 | 7688 | 1105 | 
 | 2023-01-06 | 7685 | 1105 | 
 | 2023-01-04 | 7685 | 1105 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-12 | 7681 | 1101 | 
 | 2022-12-11 | 7679 | 1101 | 
 | 2022-12-10 | 7679 | 1101 | 
-| 2022-12-09 | 7678 | 1101 | 
 

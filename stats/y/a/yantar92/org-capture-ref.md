@@ -1,10 +1,10 @@
 # yantar92/org-capture-ref - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 4
 
-★ Stars: 50
+★ Stars: 51
 
 [Open repository](https://github.com/yantar92/org-capture-ref)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 51 | 4 | 
 | 2023-01-07 | 50 | 4 | 
 | 2023-01-06 | 48 | 4 | 
 | 2023-01-05 | 48 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 48 | 4 | 
 | 2022-12-12 | 48 | 4 | 
 | 2022-12-10 | 48 | 4 | 
-| 2022-12-09 | 48 | 4 | 
 

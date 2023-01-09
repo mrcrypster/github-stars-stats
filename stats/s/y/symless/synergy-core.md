@@ -1,10 +1,10 @@
 # symless/synergy-core - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 3214
 
-★ Stars: 9217
+★ Stars: 9218
 
 [Open repository](https://github.com/symless/synergy-core)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 9218 | 3214 | 
 | 2023-01-07 | 9217 | 3214 | 
 | 2023-01-06 | 9215 | 3215 | 
 | 2023-01-05 | 9214 | 3213 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 9195 | 3200 | 
 | 2022-12-12 | 9191 | 3198 | 
 | 2022-12-10 | 9189 | 3197 | 
-| 2022-12-09 | 9188 | 3195 | 
 

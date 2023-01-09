@@ -1,6 +1,6 @@
 # Yoshubs/Forever-1.0-Hybrid - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 15 | 10 | 
 | 2023-01-07 | 15 | 10 | 
 | 2023-01-06 | 16 | 10 | 
 | 2023-01-05 | 16 | 10 | 

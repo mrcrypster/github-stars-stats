@@ -1,6 +1,6 @@
 # bnjbvr/rouille - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 148
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 1077 | 148 | 
 | 2023-01-07 | 1077 | 148 | 
 | 2023-01-06 | 1075 | 148 | 
 | 2023-01-05 | 1074 | 148 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-12 | 1068 | 144 | 
 | 2022-12-11 | 1068 | 143 | 
 | 2022-12-10 | 1067 | 143 | 
-| 2022-12-09 | 1065 | 143 | 
 

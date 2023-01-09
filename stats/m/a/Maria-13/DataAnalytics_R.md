@@ -1,6 +1,6 @@
 # Maria-13/DataAnalytics_R - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 6 | 4 | 
 | 2023-01-07 | 6 | 4 | 
 | 2023-01-06 | 6 | 4 | 
 | 2023-01-05 | 6 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 7 | 4 | 
 | 2022-12-11 | 7 | 3 | 
 | 2022-12-10 | 7 | 2 | 
-| 2022-12-09 | 7 | 2 | 
 

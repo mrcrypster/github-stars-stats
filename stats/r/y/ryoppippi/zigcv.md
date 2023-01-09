@@ -1,6 +1,6 @@
 # ryoppippi/zigcv - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 59 | 5 | 
 | 2023-01-07 | 59 | 5 | 
 | 2023-01-06 | 58 | 5 | 
 | 2023-01-05 | 58 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-12 | 56 | 4 | 
 | 2022-12-11 | 56 | 4 | 
 | 2022-12-10 | 55 | 4 | 
-| 2022-12-09 | 55 | 4 | 
 

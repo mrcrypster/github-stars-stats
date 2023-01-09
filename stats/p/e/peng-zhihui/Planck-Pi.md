@@ -1,10 +1,10 @@
 # peng-zhihui/Planck-Pi - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 203
 
-★ Stars: 866
+★ Stars: 867
 
 [Open repository](https://github.com/peng-zhihui/Planck-Pi)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 867 | 203 | 
 | 2023-01-07 | 866 | 203 | 
 | 2023-01-06 | 866 | 203 | 
 | 2023-01-05 | 866 | 203 | 

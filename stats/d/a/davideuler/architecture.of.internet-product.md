@@ -1,8 +1,8 @@
 # davideuler/architecture.of.internet-product - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 4536
+☋ Forks: 4535
 
 ★ Stars: 19330
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 19330 | 4535 | 
 | 2023-01-07 | 19330 | 4536 | 
 | 2023-01-06 | 19329 | 4537 | 
 | 2023-01-05 | 19328 | 4537 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 19295 | 4531 | 
 | 2022-12-11 | 19289 | 4531 | 
 | 2022-12-10 | 19289 | 4530 | 
-| 2022-12-09 | 19287 | 4529 | 
 

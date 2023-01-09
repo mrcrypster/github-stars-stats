@@ -1,6 +1,6 @@
 # sheabunge/code-snippets - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 114
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 307 | 114 | 
 | 2023-01-07 | 307 | 114 | 
 | 2023-01-06 | 307 | 114 | 
 | 2023-01-05 | 307 | 114 | 

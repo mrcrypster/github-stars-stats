@@ -1,6 +1,6 @@
 # lubien/sorteios - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 27 | 11 | 
 | 2023-01-07 | 27 | 11 | 
 | 2023-01-06 | 27 | 11 | 
 | 2023-01-05 | 27 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 27 | 12 | 
 | 2022-12-12 | 27 | 12 | 
 | 2022-12-10 | 27 | 12 | 
-| 2022-12-09 | 27 | 12 | 
 

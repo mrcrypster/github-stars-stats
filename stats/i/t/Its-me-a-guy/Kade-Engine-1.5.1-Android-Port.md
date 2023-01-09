@@ -1,6 +1,6 @@
 # Its-me-a-guy/Kade-Engine-1.5.1-Android-Port - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 2 | 47 | 
 | 2023-01-07 | 2 | 47 | 
 | 2023-01-06 | 2 | 47 | 
 | 2023-01-05 | 2 | 47 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 2 | 41 | 
 | 2022-12-12 | 2 | 41 | 
 | 2022-12-11 | 2 | 41 | 
-| 2022-12-09 | 2 | 41 | 
 

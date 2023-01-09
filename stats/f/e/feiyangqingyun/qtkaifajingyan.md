@@ -1,10 +1,10 @@
 # feiyangqingyun/qtkaifajingyan - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 559
 
-★ Stars: 1995
+★ Stars: 1996
 
 [Open repository](https://github.com/feiyangqingyun/qtkaifajingyan)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 1996 | 559 | 
 | 2023-01-07 | 1995 | 559 | 
 | 2023-01-06 | 1992 | 558 | 
 | 2023-01-05 | 1990 | 557 | 

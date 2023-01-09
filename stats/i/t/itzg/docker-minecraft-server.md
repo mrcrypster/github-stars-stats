@@ -1,10 +1,10 @@
 # itzg/docker-minecraft-server - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 1166
 
-★ Stars: 5887
+★ Stars: 5897
 
 [Open repository](https://github.com/itzg/docker-minecraft-server)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 5897 | 1166 | 
 | 2023-01-07 | 5887 | 1166 | 
 | 2023-01-06 | 5883 | 1165 | 
 | 2023-01-05 | 5875 | 1162 | 

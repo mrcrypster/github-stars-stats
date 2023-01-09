@@ -1,6 +1,6 @@
 # scraly/developers-conferences-agenda - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 186
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 740 | 186 | 
 | 2023-01-07 | 740 | 186 | 
 | 2023-01-06 | 739 | 186 | 
 | 2023-01-05 | 738 | 186 | 

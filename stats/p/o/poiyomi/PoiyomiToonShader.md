@@ -1,10 +1,10 @@
 # poiyomi/PoiyomiToonShader - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 96
 
-★ Stars: 776
+★ Stars: 778
 
 [Open repository](https://github.com/poiyomi/PoiyomiToonShader)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 778 | 96 | 
 | 2023-01-07 | 776 | 96 | 
 | 2023-01-06 | 776 | 96 | 
 | 2023-01-05 | 776 | 96 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 766 | 92 | 
 | 2022-12-12 | 765 | 92 | 
 | 2022-12-11 | 764 | 92 | 
-| 2022-12-09 | 764 | 92 | 
 

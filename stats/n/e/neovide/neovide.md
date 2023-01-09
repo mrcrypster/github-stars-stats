@@ -1,10 +1,10 @@
 # neovide/neovide - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 362
+☋ Forks: 364
 
-★ Stars: 9327
+★ Stars: 9337
 
 [Open repository](https://github.com/neovide/neovide)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 9337 | 364 | 
 | 2023-01-07 | 9327 | 362 | 
 | 2023-01-06 | 9319 | 362 | 
 | 2023-01-05 | 9311 | 363 | 

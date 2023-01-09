@@ -1,10 +1,10 @@
 # katochojiro/svelte-google-map-api - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 0
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/katochojiro/svelte-google-map-api)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 17 | - | 
 | 2023-01-07 | 16 | - | 
 | 2023-01-06 | 16 | - | 
 | 2023-01-05 | 16 | - | 

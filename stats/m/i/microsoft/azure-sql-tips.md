@@ -1,10 +1,10 @@
 # microsoft/azure-sql-tips - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 43
 
-★ Stars: 128
+★ Stars: 129
 
 [Open repository](https://github.com/microsoft/azure-sql-tips)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 129 | 43 | 
 | 2023-01-07 | 128 | 43 | 
 | 2023-01-06 | 128 | 43 | 
 | 2023-01-05 | 128 | 43 | 

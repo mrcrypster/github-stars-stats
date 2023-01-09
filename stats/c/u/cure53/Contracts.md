@@ -1,6 +1,6 @@
 # cure53/Contracts - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 310 | 42 | 
 | 2023-01-07 | 310 | 42 | 
 | 2023-01-06 | 310 | 42 | 
 | 2023-01-05 | 308 | 42 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 307 | 41 | 
 | 2022-12-12 | 307 | 41 | 
 | 2022-12-11 | 307 | 41 | 
-| 2022-12-09 | 306 | 41 | 
 

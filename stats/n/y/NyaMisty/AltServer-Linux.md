@@ -1,10 +1,10 @@
 # NyaMisty/AltServer-Linux - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 55
 
-★ Stars: 581
+★ Stars: 582
 
 [Open repository](https://github.com/NyaMisty/AltServer-Linux)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 582 | 55 | 
 | 2023-01-07 | 581 | 55 | 
 | 2023-01-06 | 582 | 55 | 
 | 2023-01-05 | 581 | 55 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 555 | 53 | 
 | 2022-12-12 | 553 | 53 | 
 | 2022-12-10 | 552 | 53 | 
-| 2022-12-09 | 552 | 53 | 
 

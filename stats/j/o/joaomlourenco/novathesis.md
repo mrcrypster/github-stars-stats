@@ -1,10 +1,10 @@
 # joaomlourenco/novathesis - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 85
+☋ Forks: 86
 
-★ Stars: 477
+★ Stars: 479
 
 [Open repository](https://github.com/joaomlourenco/novathesis)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 479 | 86 | 
 | 2023-01-07 | 477 | 85 | 
 | 2023-01-06 | 477 | 85 | 
 | 2023-01-05 | 476 | 85 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 472 | 84 | 
 | 2022-12-12 | 471 | 84 | 
 | 2022-12-10 | 470 | 83 | 
-| 2022-12-09 | 468 | 83 | 
 

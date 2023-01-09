@@ -1,6 +1,6 @@
 # zentyal/zentyal - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 136
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 453 | 136 | 
 | 2023-01-07 | 453 | 136 | 
 | 2023-01-06 | 452 | 136 | 
 | 2023-01-05 | 452 | 136 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 452 | 136 | 
 | 2022-12-12 | 452 | 136 | 
 | 2022-12-11 | 452 | 136 | 
-| 2022-12-09 | 452 | 136 | 
 

@@ -1,10 +1,10 @@
 # 6dylan6/jdpro - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 903
+☋ Forks: 904
 
-★ Stars: 3030
+★ Stars: 3033
 
 [Open repository](https://github.com/6dylan6/jdpro)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 3033 | 904 | 
 | 2023-01-07 | 3030 | 903 | 
 | 2023-01-06 | 3025 | 903 | 
 | 2023-01-05 | 3015 | 903 | 

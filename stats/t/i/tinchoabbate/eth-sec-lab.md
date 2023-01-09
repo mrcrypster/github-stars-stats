@@ -1,10 +1,10 @@
 # tinchoabbate/eth-sec-lab - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 3
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/tinchoabbate/eth-sec-lab)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 29 | 3 | 
 | 2023-01-07 | 28 | 3 | 
 | 2023-01-06 | 28 | 3 | 
 | 2023-01-05 | 28 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 28 | 3 | 
 | 2022-12-11 | 28 | 3 | 
 | 2022-12-10 | 27 | 3 | 
-| 2022-12-09 | 27 | 3 | 
 

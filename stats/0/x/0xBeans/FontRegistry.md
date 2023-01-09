@@ -1,6 +1,6 @@
 # 0xBeans/FontRegistry - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 26 | 3 | 
 | 2023-01-07 | 26 | 3 | 
 | 2023-01-06 | 26 | 3 | 
 | 2023-01-05 | 26 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-14 | 25 | 3 | 
 | 2022-12-12 | 25 | 3 | 
 | 2022-12-11 | 25 | 3 | 
-| 2022-12-09 | 25 | 3 | 
 

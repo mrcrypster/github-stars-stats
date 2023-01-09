@@ -1,10 +1,10 @@
 # PlexPt/awesome-chatgpt-prompts-zh - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 159
+☋ Forks: 164
 
-★ Stars: 548
+★ Stars: 567
 
 [Open repository](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 567 | 164 | 
 | 2023-01-07 | 548 | 159 | 
 | 2023-01-06 | 534 | 154 | 
 | 2023-01-05 | 518 | 143 | 

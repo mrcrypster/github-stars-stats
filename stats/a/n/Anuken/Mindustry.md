@@ -1,10 +1,10 @@
 # Anuken/Mindustry - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 2341
 
-★ Stars: 16823
+★ Stars: 16836
 
 [Open repository](https://github.com/Anuken/Mindustry)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 16836 | 2341 | 
 | 2023-01-07 | 16823 | 2341 | 
 | 2023-01-06 | 16823 | 2339 | 
 | 2023-01-05 | 16818 | 2339 | 

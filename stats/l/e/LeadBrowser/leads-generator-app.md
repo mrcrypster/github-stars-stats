@@ -1,10 +1,10 @@
 # LeadBrowser/leads-generator-app - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 9
+☋ Forks: 10
 
-★ Stars: 54
+★ Stars: 55
 
 [Open repository](https://github.com/LeadBrowser/leads-generator-app)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 55 | 10 | 
 | 2023-01-07 | 54 | 9 | 
 | 2023-01-06 | 51 | 9 | 
 | 2023-01-05 | 50 | 9 | 

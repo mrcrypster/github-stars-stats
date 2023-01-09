@@ -1,10 +1,10 @@
 # hammerstonedev/fast-paginate - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 26
 
-★ Stars: 876
+★ Stars: 877
 
 [Open repository](https://github.com/hammerstonedev/fast-paginate)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 877 | 26 | 
 | 2023-01-07 | 876 | 26 | 
 | 2023-01-06 | 876 | 26 | 
 | 2023-01-05 | 877 | 26 | 

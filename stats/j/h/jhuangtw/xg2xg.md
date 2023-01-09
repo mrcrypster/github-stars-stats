@@ -1,10 +1,10 @@
 # jhuangtw/xg2xg - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 864
 
-★ Stars: 11892
+★ Stars: 11894
 
 [Open repository](https://github.com/jhuangtw/xg2xg)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 11894 | 864 | 
 | 2023-01-07 | 11892 | 864 | 
 | 2023-01-06 | 11892 | 864 | 
 | 2023-01-05 | 11891 | 864 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 11864 | 864 | 
 | 2022-12-12 | 11857 | 864 | 
 | 2022-12-10 | 11856 | 864 | 
-| 2022-12-09 | 11855 | 864 | 
 

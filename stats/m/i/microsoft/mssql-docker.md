@@ -1,6 +1,6 @@
 # microsoft/mssql-docker - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 689
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 1440 | 689 | 
 | 2023-01-07 | 1440 | 689 | 
 | 2023-01-06 | 1439 | 689 | 
 | 2023-01-05 | 1439 | 689 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-12 | 1424 | 687 | 
 | 2022-12-11 | 1424 | 687 | 
 | 2022-12-10 | 1424 | 685 | 
-| 2022-12-09 | 1423 | 685 | 
 

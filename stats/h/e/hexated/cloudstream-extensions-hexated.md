@@ -1,6 +1,6 @@
 # hexated/cloudstream-extensions-hexated - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 60 | 18 | 
 | 2023-01-07 | 60 | 18 | 
 | 2023-01-06 | 59 | 18 | 
 | 2023-01-05 | 59 | 18 | 

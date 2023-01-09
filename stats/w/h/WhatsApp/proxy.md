@@ -1,10 +1,10 @@
 # WhatsApp/proxy - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 61
+☋ Forks: 90
 
-★ Stars: 414
+★ Stars: 523
 
 [Open repository](https://github.com/WhatsApp/proxy)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-08 | 414 | 61 | 
+| 2023-01-09 | 523 | 90 | 
+| 2023-01-08 | 500 | 88 | 
 | 2023-01-07 | 386 | 56 | 
 

@@ -1,6 +1,6 @@
 # tweag/linear-base - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 295 | 32 | 
 | 2023-01-07 | 295 | 32 | 
 | 2023-01-06 | 295 | 32 | 
 | 2023-01-05 | 295 | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 294 | 32 | 
 | 2022-12-11 | 293 | 32 | 
 | 2022-12-10 | 293 | 32 | 
-| 2022-12-09 | 293 | 32 | 
 

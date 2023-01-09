@@ -1,10 +1,10 @@
 # awesome-css-group/awesome-css - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 396
 
-★ Stars: 4198
+★ Stars: 4200
 
 [Open repository](https://github.com/awesome-css-group/awesome-css)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 4200 | 396 | 
 | 2023-01-07 | 4198 | 396 | 
 | 2023-01-06 | 4193 | 396 | 
 | 2023-01-05 | 4190 | 396 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 4133 | 394 | 
 | 2022-12-12 | 4130 | 393 | 
 | 2022-12-11 | 4127 | 393 | 
-| 2022-12-09 | 4122 | 393 | 
 

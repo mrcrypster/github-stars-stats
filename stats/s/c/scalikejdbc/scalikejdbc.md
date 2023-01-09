@@ -1,10 +1,10 @@
 # scalikejdbc/scalikejdbc - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 225
 
-★ Stars: 1229
+★ Stars: 1230
 
 [Open repository](https://github.com/scalikejdbc/scalikejdbc)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 1230 | 225 | 
 | 2023-01-07 | 1229 | 225 | 
 | 2023-01-06 | 1228 | 225 | 
 | 2023-01-05 | 1228 | 225 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-12 | 1222 | 225 | 
 | 2022-12-11 | 1222 | 224 | 
 | 2022-12-10 | 1222 | 224 | 
-| 2022-12-09 | 1222 | 224 | 
 

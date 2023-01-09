@@ -1,10 +1,10 @@
 # huggingface/community-events - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 47
 
-★ Stars: 134
+★ Stars: 135
 
 [Open repository](https://github.com/huggingface/community-events)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 135 | 47 | 
 | 2023-01-07 | 134 | 47 | 
 | 2023-01-06 | 133 | 47 | 
 | 2023-01-04 | 133 | 47 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-12 | 125 | 40 | 
 | 2022-12-11 | 123 | 39 | 
 | 2022-12-10 | 123 | 37 | 
-| 2022-12-09 | 123 | 37 | 
 

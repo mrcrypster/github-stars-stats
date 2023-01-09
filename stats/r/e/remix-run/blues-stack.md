@@ -1,6 +1,6 @@
 # remix-run/blues-stack - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 177
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 677 | 177 | 
 | 2023-01-07 | 677 | 177 | 
 | 2023-01-06 | 677 | 178 | 
 | 2023-01-05 | 677 | 178 | 

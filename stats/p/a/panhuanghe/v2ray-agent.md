@@ -1,10 +1,10 @@
 # panhuanghe/v2ray-agent - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 225
+☋ Forks: 226
 
-★ Stars: 196
+★ Stars: 201
 
 [Open repository](https://github.com/panhuanghe/v2ray-agent)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 201 | 226 | 
 | 2023-01-07 | 196 | 225 | 
 | 2023-01-06 | 193 | 225 | 
 | 2023-01-05 | 191 | 222 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 129 | 170 | 
 | 2022-12-12 | 128 | 170 | 
 | 2022-12-11 | 120 | 166 | 
-| 2022-12-09 | 118 | 163 | 
 

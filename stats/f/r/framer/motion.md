@@ -1,10 +1,10 @@
 # framer/motion - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 537
 
-★ Stars: 17150
+★ Stars: 17162
 
 [Open repository](https://github.com/framer/motion)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 17162 | 537 | 
 | 2023-01-07 | 17150 | 537 | 
 | 2023-01-06 | 17137 | 536 | 
 | 2023-01-05 | 17128 | 534 | 

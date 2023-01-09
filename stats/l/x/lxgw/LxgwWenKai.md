@@ -1,10 +1,10 @@
 # lxgw/LxgwWenKai - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 337
 
-★ Stars: 9811
+★ Stars: 9824
 
 [Open repository](https://github.com/lxgw/LxgwWenKai)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 9824 | 337 | 
+| 2023-01-08 | 9824 | 337 | 
 | 2023-01-07 | 9811 | 337 | 
 | 2023-01-06 | 9790 | 336 | 
 | 2023-01-05 | 9774 | 335 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 9585 | 328 | 
 | 2022-12-11 | 9576 | 328 | 
 | 2022-12-10 | 9563 | 328 | 
-| 2022-12-09 | 9559 | 328 | 
 

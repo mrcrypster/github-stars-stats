@@ -1,10 +1,10 @@
 # Morganamilo/paru - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 173
 
-★ Stars: 3977
+★ Stars: 3981
 
 [Open repository](https://github.com/Morganamilo/paru)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 3981 | 173 | 
 | 2023-01-07 | 3977 | 173 | 
 | 2023-01-06 | 3975 | 173 | 
 | 2023-01-05 | 3970 | 173 | 

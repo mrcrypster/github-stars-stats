@@ -1,6 +1,6 @@
 # llsc12/ballpa1n - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 54 | 14 | 
 | 2023-01-07 | 54 | 14 | 
 | 2023-01-06 | 52 | 14 | 
 | 2023-01-05 | 52 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 49 | 13 | 
 | 2022-12-12 | 48 | 13 | 
 | 2022-12-10 | 47 | 13 | 
-| 2022-12-09 | 47 | 13 | 
 

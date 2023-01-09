@@ -1,6 +1,6 @@
 # krystal1110/MOView - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 43 | 8 | 
 | 2023-01-07 | 43 | 8 | 
 | 2023-01-06 | 43 | 8 | 
 | 2023-01-05 | 43 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 43 | 8 | 
 | 2022-12-12 | 43 | 8 | 
 | 2022-12-10 | 43 | 8 | 
-| 2022-12-09 | 43 | 8 | 
 

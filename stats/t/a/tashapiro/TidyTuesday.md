@@ -1,10 +1,10 @@
 # tashapiro/TidyTuesday - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 19
 
-★ Stars: 79
+★ Stars: 80
 
 [Open repository](https://github.com/tashapiro/TidyTuesday)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 80 | 19 | 
 | 2023-01-07 | 79 | 19 | 
 | 2023-01-06 | 78 | 19 | 
 | 2023-01-05 | 78 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 72 | 19 | 
 | 2022-12-12 | 71 | 19 | 
 | 2022-12-11 | 71 | 19 | 
-| 2022-12-09 | 71 | 19 | 
 

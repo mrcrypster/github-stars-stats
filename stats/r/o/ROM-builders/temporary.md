@@ -1,10 +1,10 @@
 # ROM-builders/temporary - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 783
+☋ Forks: 786
 
-★ Stars: 94
+★ Stars: 95
 
 [Open repository](https://github.com/ROM-builders/temporary)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 95 | 786 | 
 | 2023-01-07 | 94 | 783 | 
 | 2023-01-06 | 94 | 780 | 
 | 2023-01-05 | 94 | 780 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 93 | 760 | 
 | 2022-12-12 | 94 | 760 | 
 | 2022-12-11 | 94 | 763 | 
-| 2022-12-09 | 94 | 764 | 
 

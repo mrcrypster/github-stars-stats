@@ -1,10 +1,10 @@
 # ossf/package-analysis - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 40
 
-★ Stars: 561
+★ Stars: 562
 
 [Open repository](https://github.com/ossf/package-analysis)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 562 | 40 | 
 | 2023-01-07 | 561 | 40 | 
 | 2023-01-06 | 561 | 40 | 
 | 2023-01-05 | 561 | 40 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 556 | 39 | 
 | 2022-12-12 | 555 | 38 | 
 | 2022-12-10 | 555 | 37 | 
-| 2022-12-09 | 555 | 37 | 
 

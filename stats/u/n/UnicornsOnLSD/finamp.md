@@ -1,6 +1,6 @@
 # UnicornsOnLSD/finamp - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 735 | 54 | 
 | 2023-01-07 | 735 | 54 | 
 | 2023-01-06 | 731 | 54 | 
 | 2023-01-05 | 730 | 53 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 701 | 53 | 
 | 2022-12-12 | 700 | 53 | 
 | 2022-12-11 | 699 | 53 | 
-| 2022-12-10 | 698 | 53 | 
 

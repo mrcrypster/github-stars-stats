@@ -1,10 +1,10 @@
 # Oriyomi12/otp-bot - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 63
+☋ Forks: 65
 
-★ Stars: 119
+★ Stars: 121
 
 [Open repository](https://github.com/Oriyomi12/otp-bot)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 121 | 65 | 
 | 2023-01-07 | 119 | 63 | 
 | 2023-01-06 | 118 | 62 | 
 | 2023-01-05 | 118 | 61 | 

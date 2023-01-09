@@ -1,10 +1,10 @@
 # dragonflydb/dragonfly - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 548
+☋ Forks: 547
 
-★ Stars: 16561
+★ Stars: 16570
 
 [Open repository](https://github.com/dragonflydb/dragonfly)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 16570 | 547 | 
 | 2023-01-07 | 16561 | 548 | 
 | 2023-01-06 | 16550 | 547 | 
 | 2023-01-05 | 16541 | 546 | 

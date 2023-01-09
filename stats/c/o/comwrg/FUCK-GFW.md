@@ -1,6 +1,6 @@
 # comwrg/FUCK-GFW - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 748 | 51 | 
 | 2023-01-08 | 748 | 51 | 
 | 2023-01-06 | 748 | 51 | 
 | 2023-01-05 | 748 | 51 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-12 | 743 | 49 | 
 | 2022-12-11 | 742 | 49 | 
 | 2022-12-10 | 742 | 49 | 
-| 2022-12-09 | 742 | 49 | 
 

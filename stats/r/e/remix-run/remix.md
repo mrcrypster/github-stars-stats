@@ -1,10 +1,10 @@
 # remix-run/remix - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 1695
+☋ Forks: 1696
 
-★ Stars: 21485
+★ Stars: 21495
 
 [Open repository](https://github.com/remix-run/remix)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 21495 | 1696 | 
 | 2023-01-07 | 21485 | 1695 | 
 | 2023-01-06 | 21467 | 1692 | 
 | 2023-01-05 | 21452 | 1690 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 21152 | 1682 | 
 | 2022-12-12 | 21140 | 1681 | 
 | 2022-12-11 | 21124 | 1681 | 
-| 2022-12-10 | 21116 | 1680 | 
 

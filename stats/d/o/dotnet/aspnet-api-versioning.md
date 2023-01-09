@@ -1,10 +1,10 @@
 # dotnet/aspnet-api-versioning - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 674
 
-★ Stars: 2473
+★ Stars: 2474
 
 [Open repository](https://github.com/dotnet/aspnet-api-versioning)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 2474 | 674 | 
 | 2023-01-07 | 2473 | 674 | 
 | 2023-01-06 | 2471 | 674 | 
 | 2023-01-05 | 2471 | 674 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 2418 | 675 | 
 | 2022-12-11 | 2416 | 675 | 
 | 2022-12-10 | 2415 | 675 | 
-| 2022-12-09 | 2415 | 675 | 
 

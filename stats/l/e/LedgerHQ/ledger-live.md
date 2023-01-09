@@ -1,6 +1,6 @@
 # LedgerHQ/ledger-live - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 163
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 206 | 163 | 
 | 2023-01-07 | 206 | 163 | 
 | 2023-01-06 | 204 | 163 | 
 | 2023-01-05 | 203 | 163 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 181 | 153 | 
 | 2022-12-12 | 179 | 151 | 
 | 2022-12-11 | 178 | 151 | 
-| 2022-12-10 | 178 | 151 | 
 

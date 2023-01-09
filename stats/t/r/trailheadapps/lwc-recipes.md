@@ -1,10 +1,10 @@
 # trailheadapps/lwc-recipes - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 2604
+☋ Forks: 2606
 
-★ Stars: 1978
+★ Stars: 1980
 
 [Open repository](https://github.com/trailheadapps/lwc-recipes)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 1980 | 2606 | 
 | 2023-01-07 | 1978 | 2604 | 
 | 2023-01-06 | 1976 | 2603 | 
 | 2023-01-05 | 1975 | 2600 | 

@@ -1,6 +1,6 @@
 # NeverSinkDev/NeverSink-Filter - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 495
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 2289 | 495 | 
 | 2023-01-07 | 2289 | 495 | 
 | 2023-01-06 | 2289 | 495 | 
 | 2023-01-05 | 2289 | 494 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 2279 | 491 | 
 | 2022-12-12 | 2277 | 490 | 
 | 2022-12-11 | 2279 | 491 | 
-| 2022-12-10 | 2276 | 491 | 
 

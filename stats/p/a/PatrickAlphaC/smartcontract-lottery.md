@@ -1,8 +1,8 @@
 # PatrickAlphaC/smartcontract-lottery - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 101
+☋ Forks: 102
 
 ★ Stars: 63
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 63 | 102 | 
 | 2023-01-07 | 63 | 101 | 
 | 2023-01-06 | 62 | 101 | 
 | 2023-01-05 | 62 | 101 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 61 | 100 | 
 | 2022-12-11 | 61 | 100 | 
 | 2022-12-10 | 61 | 100 | 
-| 2022-12-09 | 61 | 100 | 
 

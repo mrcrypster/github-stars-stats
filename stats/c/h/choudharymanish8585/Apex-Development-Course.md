@@ -1,10 +1,10 @@
 # choudharymanish8585/Apex-Development-Course - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 109
 
-★ Stars: 144
+★ Stars: 146
 
 [Open repository](https://github.com/choudharymanish8585/Apex-Development-Course)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 146 | 109 | 
 | 2023-01-07 | 144 | 109 | 
 | 2023-01-06 | 144 | 109 | 
 | 2023-01-05 | 144 | 109 | 

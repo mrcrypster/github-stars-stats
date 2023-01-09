@@ -1,10 +1,10 @@
 # int128/gradle-swagger-generator-plugin - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 65
 
-★ Stars: 267
+★ Stars: 268
 
 [Open repository](https://github.com/int128/gradle-swagger-generator-plugin)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 268 | 65 | 
 | 2023-01-07 | 267 | 65 | 
 | 2023-01-06 | 267 | 65 | 
 | 2023-01-05 | 267 | 65 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-12 | 265 | 66 | 
 | 2022-12-11 | 265 | 66 | 
 | 2022-12-10 | 265 | 66 | 
-| 2022-12-09 | 265 | 66 | 
 

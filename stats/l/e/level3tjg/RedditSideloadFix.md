@@ -1,6 +1,6 @@
 # level3tjg/RedditSideloadFix - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 13 | 5 | 
 | 2023-01-07 | 13 | 5 | 
 | 2023-01-06 | 12 | 4 | 
 | 2023-01-05 | 12 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 11 | 4 | 
 | 2022-12-12 | 11 | 4 | 
 | 2022-12-10 | 11 | 4 | 
-| 2022-12-09 | 11 | 4 | 
 

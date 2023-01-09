@@ -1,10 +1,10 @@
 # TIHan/Oly - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 1
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/TIHan/Oly)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 31 | 1 | 
 | 2023-01-07 | 30 | 1 | 
 | 2023-01-06 | 30 | 1 | 
 | 2023-01-05 | 29 | 1 | 

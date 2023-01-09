@@ -1,6 +1,6 @@
 # atoptima/Coluna.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 154 | 36 | 
 | 2023-01-08 | 154 | 36 | 
 | 2023-01-06 | 154 | 36 | 
 | 2023-01-05 | 154 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-12 | 154 | 36 | 
 | 2022-12-11 | 154 | 36 | 
 | 2022-12-10 | 152 | 36 | 
-| 2022-12-09 | 152 | 36 | 
 

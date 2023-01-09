@@ -1,6 +1,6 @@
 # yeun/open-color - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 230
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 4866 | 230 | 
 | 2023-01-07 | 4866 | 230 | 
 | 2023-01-06 | 4861 | 230 | 
 | 2023-01-05 | 4861 | 230 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-12 | 4838 | 230 | 
 | 2022-12-11 | 4838 | 230 | 
 | 2022-12-10 | 4838 | 230 | 
-| 2022-12-09 | 4836 | 230 | 
 

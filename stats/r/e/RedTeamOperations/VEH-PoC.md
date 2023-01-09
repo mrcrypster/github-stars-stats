@@ -1,10 +1,10 @@
 # RedTeamOperations/VEH-PoC - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 16
 
-★ Stars: 76
+★ Stars: 75
 
 [Open repository](https://github.com/RedTeamOperations/VEH-PoC)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 75 | 16 | 
 | 2023-01-07 | 76 | 16 | 
 | 2023-01-06 | 76 | 16 | 
 | 2023-01-05 | 76 | 16 | 

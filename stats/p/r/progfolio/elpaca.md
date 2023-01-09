@@ -1,10 +1,10 @@
 # progfolio/elpaca - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 5
 
-★ Stars: 162
+★ Stars: 163
 
 [Open repository](https://github.com/progfolio/elpaca)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 163 | 5 | 
 | 2023-01-07 | 162 | 5 | 
 | 2023-01-06 | 162 | 5 | 
 | 2023-01-05 | 160 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 150 | 5 | 
 | 2022-12-12 | 150 | 5 | 
 | 2022-12-10 | 150 | 5 | 
-| 2022-12-09 | 148 | 5 | 
 

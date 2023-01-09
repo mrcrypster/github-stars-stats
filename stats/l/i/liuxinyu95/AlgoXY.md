@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 08
 
 ☋ Forks: 701
 
-★ Stars: 5492
+★ Stars: 5493
 
 [Open repository](https://github.com/liuxinyu95/AlgoXY)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-08 | 5492 | 701 | 
+| 2023-01-08 | 5493 | 701 | 
 | 2023-01-07 | 5492 | 701 | 
 | 2023-01-06 | 5492 | 701 | 
 | 2023-01-05 | 5490 | 701 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 5475 | 701 | 
 | 2022-12-11 | 5475 | 701 | 
 | 2022-12-10 | 5475 | 701 | 
-| 2022-12-09 | 5474 | 701 | 
 

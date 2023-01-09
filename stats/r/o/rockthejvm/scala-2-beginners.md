@@ -1,8 +1,8 @@
 # rockthejvm/scala-2-beginners - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 272
+☋ Forks: 271
 
 ★ Stars: 321
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 321 | 271 | 
 | 2023-01-07 | 321 | 272 | 
 | 2023-01-06 | 320 | 272 | 
 | 2023-01-05 | 320 | 272 | 

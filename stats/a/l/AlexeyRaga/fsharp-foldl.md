@@ -1,6 +1,6 @@
 # AlexeyRaga/fsharp-foldl - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 32 | 1 | 
 | 2023-01-08 | 32 | 1 | 
 | 2023-01-06 | 31 | 1 | 
 | 2023-01-05 | 31 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 22 | 1 | 
 | 2022-12-12 | 18 | 1 | 
 | 2022-12-10 | 18 | 1 | 
-| 2022-12-09 | 18 | 1 | 
 

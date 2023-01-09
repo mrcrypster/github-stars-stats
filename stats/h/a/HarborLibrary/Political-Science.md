@@ -1,8 +1,8 @@
 # HarborLibrary/Political-Science - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 67
+☋ Forks: 68
 
 ★ Stars: 272
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 272 | 68 | 
 | 2023-01-07 | 272 | 67 | 
 | 2023-01-06 | 270 | 66 | 
 | 2023-01-05 | 269 | 66 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-12 | 250 | 64 | 
 | 2022-12-11 | 248 | 64 | 
 | 2022-12-10 | 247 | 64 | 
-| 2022-12-09 | 246 | 62 | 
 

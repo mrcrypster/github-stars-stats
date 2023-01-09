@@ -1,10 +1,10 @@
 # tarcode-apps/BatteryMode - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 13
 
-★ Stars: 154
+★ Stars: 155
 
 [Open repository](https://github.com/tarcode-apps/BatteryMode)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 155 | 13 | 
 | 2023-01-07 | 154 | 13 | 
 | 2023-01-06 | 154 | 13 | 
 | 2023-01-05 | 154 | 13 | 

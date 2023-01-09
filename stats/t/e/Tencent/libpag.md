@@ -1,6 +1,6 @@
 # Tencent/libpag - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 277
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 2394 | 277 | 
 | 2023-01-07 | 2394 | 277 | 
 | 2023-01-06 | 2392 | 277 | 
 | 2023-01-05 | 2385 | 276 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 2316 | 267 | 
 | 2022-12-12 | 2315 | 266 | 
 | 2022-12-11 | 2314 | 265 | 
-| 2022-12-09 | 2314 | 265 | 
 

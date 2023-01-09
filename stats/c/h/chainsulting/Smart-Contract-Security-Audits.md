@@ -1,10 +1,10 @@
 # chainsulting/Smart-Contract-Security-Audits - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 1009
+☋ Forks: 1011
 
-★ Stars: 1158
+★ Stars: 1159
 
 [Open repository](https://github.com/chainsulting/Smart-Contract-Security-Audits)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 1159 | 1011 | 
 | 2023-01-07 | 1158 | 1009 | 
 | 2023-01-06 | 1158 | 1009 | 
 | 2023-01-05 | 1155 | 1009 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 1145 | 1005 | 
 | 2022-12-12 | 1144 | 1003 | 
 | 2022-12-11 | 1143 | 1002 | 
-| 2022-12-09 | 1142 | 1001 | 
 

@@ -1,10 +1,10 @@
 # openfoodfacts/smooth-app - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 112
+☋ Forks: 113
 
-★ Stars: 274
+★ Stars: 275
 
 [Open repository](https://github.com/openfoodfacts/smooth-app)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 275 | 113 | 
 | 2023-01-07 | 274 | 112 | 
 | 2023-01-06 | 275 | 112 | 
 | 2023-01-05 | 273 | 112 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-12 | 256 | 101 | 
 | 2022-12-11 | 256 | 99 | 
 | 2022-12-10 | 255 | 99 | 
-| 2022-12-09 | 253 | 99 | 
 

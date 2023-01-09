@@ -1,6 +1,6 @@
 # tipsy/javalin - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 510
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 6246 | 510 | 
 | 2023-01-07 | 6246 | 510 | 
 | 2023-01-06 | 6245 | 510 | 
 | 2023-01-05 | 6244 | 510 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 6200 | 503 | 
 | 2022-12-12 | 6196 | 503 | 
 | 2022-12-11 | 6195 | 502 | 
-| 2022-12-10 | 6194 | 502 | 
 

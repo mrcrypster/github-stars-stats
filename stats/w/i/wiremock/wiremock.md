@@ -1,10 +1,10 @@
 # wiremock/wiremock - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 1300
 
-★ Stars: 5303
+★ Stars: 5304
 
 [Open repository](https://github.com/wiremock/wiremock)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 5304 | 1300 | 
 | 2023-01-07 | 5303 | 1300 | 
 | 2023-01-06 | 5300 | 1300 | 
 | 2023-01-05 | 5297 | 1299 | 

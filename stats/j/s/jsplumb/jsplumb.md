@@ -1,10 +1,10 @@
 # jsplumb/jsplumb - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 1447
 
-★ Stars: 7261
+★ Stars: 7264
 
 [Open repository](https://github.com/jsplumb/jsplumb)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 7264 | 1447 | 
 | 2023-01-07 | 7261 | 1447 | 
 | 2023-01-06 | 7258 | 1447 | 
 | 2023-01-05 | 7256 | 1447 | 

@@ -1,6 +1,6 @@
 # anno-mods/Spice-it-Up - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 38 | 24 | 
 | 2023-01-08 | 38 | 24 | 
 | 2023-01-07 | 38 | 23 | 
 | 2023-01-05 | 36 | 23 | 

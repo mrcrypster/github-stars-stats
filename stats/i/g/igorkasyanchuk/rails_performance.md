@@ -1,6 +1,6 @@
 # igorkasyanchuk/rails_performance - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 603 | 37 | 
 | 2023-01-07 | 603 | 37 | 
 | 2023-01-06 | 603 | 36 | 
 | 2023-01-05 | 603 | 36 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 603 | 35 | 
 | 2022-12-11 | 603 | 35 | 
 | 2022-12-10 | 603 | 34 | 
-| 2022-12-09 | 603 | 34 | 
 

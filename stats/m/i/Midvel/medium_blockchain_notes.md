@@ -1,6 +1,6 @@
 # Midvel/medium_blockchain_notes - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 16 | 13 | 
 | 2023-01-08 | 16 | 13 | 
 | 2023-01-07 | 16 | 13 | 
 | 2023-01-05 | 16 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 16 | 13 | 
 | 2022-12-11 | 16 | 13 | 
 | 2022-12-10 | 16 | 13 | 
-| 2022-12-09 | 16 | 13 | 
 

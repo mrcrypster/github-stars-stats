@@ -1,10 +1,10 @@
 # apache/arrow-datafusion - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 09
 
-☋ Forks: 509
+☋ Forks: 511
 
-★ Stars: 2978
+★ Stars: 2991
 
 [Open repository](https://github.com/apache/arrow-datafusion)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 2991 | 511 | 
+| 2023-01-08 | 2991 | 510 | 
 | 2023-01-07 | 2978 | 509 | 
 | 2023-01-06 | 2971 | 505 | 
 | 2023-01-05 | 2967 | 505 | 

@@ -1,10 +1,10 @@
 # AbsInt/CompCert - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 191
 
-★ Stars: 1516
+★ Stars: 1517
 
 [Open repository](https://github.com/AbsInt/CompCert)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 1517 | 191 | 
 | 2023-01-07 | 1516 | 191 | 
 | 2023-01-06 | 1516 | 190 | 
 | 2023-01-05 | 1515 | 190 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 1504 | 189 | 
 | 2022-12-11 | 1504 | 189 | 
 | 2022-12-10 | 1504 | 189 | 
-| 2022-12-09 | 1503 | 188 | 
 

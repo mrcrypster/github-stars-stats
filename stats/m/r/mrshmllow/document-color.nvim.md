@@ -1,10 +1,10 @@
 # mrshmllow/document-color.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 3
 
-★ Stars: 163
+★ Stars: 164
 
 [Open repository](https://github.com/mrshmllow/document-color.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 164 | 3 | 
 | 2023-01-07 | 163 | 3 | 
 | 2023-01-06 | 163 | 3 | 
 | 2023-01-05 | 163 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 158 | 3 | 
 | 2022-12-12 | 158 | 3 | 
 | 2022-12-10 | 158 | 3 | 
-| 2022-12-09 | 158 | 3 | 
 

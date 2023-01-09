@@ -1,6 +1,6 @@
 # kokonior/PHP-Projects - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 350
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 87 | 350 | 
 | 2023-01-07 | 87 | 350 | 
 | 2023-01-06 | 87 | 350 | 
 | 2023-01-05 | 87 | 350 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 86 | 350 | 
 | 2022-12-12 | 86 | 350 | 
 | 2022-12-10 | 86 | 350 | 
-| 2022-12-09 | 86 | 350 | 
 

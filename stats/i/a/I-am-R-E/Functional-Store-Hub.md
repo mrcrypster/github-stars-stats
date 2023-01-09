@@ -1,10 +1,10 @@
 # I-am-R-E/Functional-Store-Hub - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 56
 
-★ Stars: 685
+★ Stars: 686
 
 [Open repository](https://github.com/I-am-R-E/Functional-Store-Hub)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 686 | 56 | 
 | 2023-01-07 | 685 | 56 | 
 | 2023-01-06 | 684 | 56 | 
 | 2023-01-05 | 684 | 56 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-12 | 665 | 53 | 
 | 2022-12-11 | 665 | 53 | 
 | 2022-12-10 | 671 | 52 | 
-| 2022-12-09 | 670 | 51 | 
 

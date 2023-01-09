@@ -1,10 +1,10 @@
 # testjavascript/nodejs-integration-tests-best-practices - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 153
 
-★ Stars: 2742
+★ Stars: 2743
 
 [Open repository](https://github.com/testjavascript/nodejs-integration-tests-best-practices)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 2743 | 153 | 
 | 2023-01-07 | 2742 | 153 | 
 | 2023-01-06 | 2739 | 152 | 
 | 2023-01-05 | 2735 | 152 | 

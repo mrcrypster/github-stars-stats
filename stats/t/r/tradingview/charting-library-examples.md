@@ -1,6 +1,6 @@
 # tradingview/charting-library-examples - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 611
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 995 | 611 | 
 | 2023-01-07 | 995 | 611 | 
 | 2023-01-06 | 995 | 611 | 
 | 2023-01-05 | 993 | 611 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 983 | 605 | 
 | 2022-12-12 | 982 | 605 | 
 | 2022-12-11 | 982 | 605 | 
-| 2022-12-09 | 981 | 604 | 
 

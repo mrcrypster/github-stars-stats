@@ -1,10 +1,10 @@
 # kalidao/keep - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 16
 
-★ Stars: 148
+★ Stars: 149
 
 [Open repository](https://github.com/kalidao/keep)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 149 | 16 | 
 | 2023-01-07 | 148 | 16 | 
 | 2023-01-06 | 148 | 16 | 
 | 2023-01-05 | 148 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 141 | 16 | 
 | 2022-12-12 | 141 | 16 | 
 | 2022-12-10 | 141 | 16 | 
-| 2022-12-09 | 141 | 16 | 
 

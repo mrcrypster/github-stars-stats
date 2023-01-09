@@ -1,6 +1,6 @@
 # chubin/awesome-console-services - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 293
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 4437 | 293 | 
 | 2023-01-07 | 4437 | 293 | 
 | 2023-01-06 | 4437 | 293 | 
 | 2023-01-05 | 4437 | 293 | 

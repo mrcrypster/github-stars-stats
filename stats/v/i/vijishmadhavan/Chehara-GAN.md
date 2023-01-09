@@ -1,10 +1,10 @@
 # vijishmadhavan/Chehara-GAN - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 10
 
-★ Stars: 140
+★ Stars: 141
 
 [Open repository](https://github.com/vijishmadhavan/Chehara-GAN)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 141 | 10 | 
 | 2023-01-07 | 140 | 10 | 
 | 2023-01-06 | 140 | 10 | 
 | 2023-01-05 | 140 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 140 | 10 | 
 | 2022-12-12 | 140 | 10 | 
 | 2022-12-10 | 140 | 10 | 
-| 2022-12-09 | 140 | 10 | 
 

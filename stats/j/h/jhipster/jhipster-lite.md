@@ -1,6 +1,6 @@
 # jhipster/jhipster-lite - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 124
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 255 | 124 | 
 | 2023-01-07 | 255 | 124 | 
 | 2023-01-06 | 255 | 124 | 
 | 2023-01-05 | 255 | 123 | 

@@ -1,6 +1,6 @@
 # plantuml-stdlib/C4-PlantUML - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 967
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 4782 | 967 | 
 | 2023-01-07 | 4782 | 967 | 
 | 2023-01-06 | 4780 | 967 | 
 | 2023-01-05 | 4771 | 966 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-12 | 4713 | 946 | 
 | 2022-12-11 | 4711 | 945 | 
 | 2022-12-10 | 4709 | 945 | 
-| 2022-12-09 | 4705 | 945 | 
 

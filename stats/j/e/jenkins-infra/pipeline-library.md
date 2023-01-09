@@ -1,10 +1,10 @@
 # jenkins-infra/pipeline-library - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 135
 
-★ Stars: 245
+★ Stars: 246
 
 [Open repository](https://github.com/jenkins-infra/pipeline-library)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 246 | 135 | 
 | 2023-01-07 | 245 | 135 | 
 | 2023-01-06 | 245 | 135 | 
 | 2023-01-05 | 245 | 135 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 244 | 135 | 
 | 2022-12-12 | 244 | 135 | 
 | 2022-12-11 | 244 | 135 | 
-| 2022-12-09 | 244 | 135 | 
 

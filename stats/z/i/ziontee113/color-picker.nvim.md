@@ -1,10 +1,10 @@
 # ziontee113/color-picker.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 4
 
-★ Stars: 168
+★ Stars: 167
 
 [Open repository](https://github.com/ziontee113/color-picker.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 167 | 4 | 
 | 2023-01-07 | 168 | 4 | 
 | 2023-01-06 | 168 | 4 | 
 | 2023-01-05 | 165 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 160 | 4 | 
 | 2022-12-12 | 160 | 4 | 
 | 2022-12-11 | 160 | 4 | 
-| 2022-12-09 | 160 | 4 | 
 

@@ -1,10 +1,10 @@
 # bmurmann/Book-on-gm-ID-design - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 0
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/bmurmann/Book-on-gm-ID-design)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 14 | - | 
 | 2023-01-07 | 13 | - | 
 | 2023-01-06 | 13 | - | 
 | 2023-01-05 | 12 | - | 

@@ -1,10 +1,10 @@
 # srid/emanote - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 54
 
-★ Stars: 527
+★ Stars: 528
 
 [Open repository](https://github.com/srid/emanote)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 528 | 54 | 
 | 2023-01-07 | 527 | 54 | 
 | 2023-01-06 | 526 | 54 | 
 | 2023-01-05 | 525 | 54 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 514 | 53 | 
 | 2022-12-12 | 514 | 53 | 
 | 2022-12-11 | 512 | 53 | 
-| 2022-12-09 | 511 | 52 | 
 

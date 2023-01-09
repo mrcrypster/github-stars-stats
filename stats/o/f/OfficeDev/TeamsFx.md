@@ -1,10 +1,10 @@
 # OfficeDev/TeamsFx - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 104
 
-★ Stars: 269
+★ Stars: 271
 
 [Open repository](https://github.com/OfficeDev/TeamsFx)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 271 | 104 | 
 | 2023-01-07 | 269 | 104 | 
 | 2023-01-06 | 269 | 102 | 
 | 2023-01-05 | 269 | 102 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 260 | 99 | 
 | 2022-12-11 | 259 | 99 | 
 | 2022-12-10 | 258 | 99 | 
-| 2022-12-09 | 258 | 99 | 
 

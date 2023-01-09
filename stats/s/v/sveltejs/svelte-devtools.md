@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 08
 
 ☋ Forks: 53
 
-★ Stars: 847
+★ Stars: 848
 
 [Open repository](https://github.com/sveltejs/svelte-devtools)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-08 | 847 | 53 | 
+| 2023-01-08 | 848 | 53 | 
 | 2023-01-07 | 847 | 53 | 
 | 2023-01-06 | 844 | 53 | 
 | 2023-01-05 | 844 | 53 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 819 | 52 | 
 | 2022-12-12 | 816 | 52 | 
 | 2022-12-11 | 816 | 52 | 
-| 2022-12-09 | 816 | 52 | 
 

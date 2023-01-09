@@ -1,10 +1,10 @@
 # koel/koel - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 1816
 
-★ Stars: 14307
+★ Stars: 14309
 
 [Open repository](https://github.com/koel/koel)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 14309 | 1816 | 
 | 2023-01-07 | 14307 | 1816 | 
 | 2023-01-06 | 14303 | 1816 | 
 | 2023-01-05 | 14302 | 1816 | 

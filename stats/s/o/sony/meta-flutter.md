@@ -1,6 +1,6 @@
 # sony/meta-flutter - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 49 | 14 | 
 | 2023-01-07 | 49 | 14 | 
 | 2023-01-06 | 49 | 14 | 
 | 2023-01-05 | 49 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 51 | 13 | 
 | 2022-12-12 | 51 | 13 | 
 | 2022-12-10 | 51 | 13 | 
-| 2022-12-09 | 51 | 13 | 
 

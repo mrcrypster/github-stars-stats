@@ -1,10 +1,10 @@
 # goncaloMagalhaes/erc20-low-level - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 2
 
-★ Stars: 37
+★ Stars: 39
 
 [Open repository](https://github.com/goncaloMagalhaes/erc20-low-level)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 39 | 2 | 
 | 2023-01-07 | 37 | 2 | 
 | 2023-01-06 | 36 | 2 | 
 | 2023-01-05 | 24 | 2 | 

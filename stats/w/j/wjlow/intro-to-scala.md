@@ -1,6 +1,6 @@
 # wjlow/intro-to-scala - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 79
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 65 | 79 | 
 | 2023-01-07 | 65 | 79 | 
 | 2023-01-06 | 65 | 79 | 
 | 2023-01-05 | 65 | 79 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-12 | 64 | 79 | 
 | 2022-12-11 | 64 | 79 | 
 | 2022-12-10 | 64 | 79 | 
-| 2022-12-09 | 64 | 79 | 
 

@@ -1,8 +1,8 @@
 # GSWXXN/RestoreSplashScreen - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 8
+☋ Forks: 7
 
 ★ Stars: 105
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 105 | 7 | 
 | 2023-01-07 | 105 | 8 | 
 | 2023-01-06 | 105 | 8 | 
 | 2023-01-05 | 105 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 91 | 8 | 
 | 2022-12-11 | 90 | 8 | 
 | 2022-12-10 | 88 | 8 | 
-| 2022-12-09 | 88 | 8 | 
 

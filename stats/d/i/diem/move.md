@@ -1,6 +1,6 @@
 # diem/move - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 107
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 253 | 107 | 
 | 2023-01-07 | 253 | 107 | 
 | 2023-01-06 | 253 | 107 | 
 | 2023-01-05 | 254 | 107 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 240 | 107 | 
 | 2022-12-12 | 239 | 107 | 
 | 2022-12-10 | 239 | 107 | 
-| 2022-12-09 | 239 | 107 | 
 

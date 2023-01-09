@@ -1,10 +1,10 @@
 # MAJigsaw77/QT-Psyched-Up-Edition - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 13
 
-★ Stars: 9
+★ Stars: 8
 
 [Open repository](https://github.com/MAJigsaw77/QT-Psyched-Up-Edition)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 8 | 13 | 
 | 2023-01-07 | 9 | 13 | 
 | 2023-01-06 | 9 | 13 | 
 | 2023-01-05 | 9 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-12 | 9 | 13 | 
 | 2022-12-11 | 9 | 13 | 
 | 2022-12-10 | 9 | 13 | 
-| 2022-12-09 | 9 | 13 | 
 

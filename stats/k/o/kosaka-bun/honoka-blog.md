@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 08
 
 ☋ Forks: 0
 
-★ Stars: 20
+★ Stars: 23
 
 [Open repository](https://github.com/kosaka-bun/honoka-blog)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-08 | 20 | - | 
+| 2023-01-08 | 23 | - | 
 | 2023-01-07 | 20 | - | 
 

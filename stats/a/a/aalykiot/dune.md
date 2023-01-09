@@ -1,10 +1,10 @@
 # aalykiot/dune - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 5
 
-★ Stars: 249
+★ Stars: 250
 
 [Open repository](https://github.com/aalykiot/dune)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 250 | 5 | 
 | 2023-01-08 | 249 | 5 | 
 | 2023-01-06 | 249 | 5 | 
 | 2023-01-05 | 249 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-12 | 247 | 5 | 
 | 2022-12-11 | 247 | 5 | 
 | 2022-12-10 | 247 | 5 | 
-| 2022-12-09 | 247 | 5 | 
 

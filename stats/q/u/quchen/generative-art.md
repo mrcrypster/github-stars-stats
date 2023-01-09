@@ -1,6 +1,6 @@
 # quchen/generative-art - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 134 | 6 | 
 | 2023-01-07 | 134 | 6 | 
 | 2023-01-06 | 133 | 6 | 
 | 2023-01-05 | 133 | 6 | 

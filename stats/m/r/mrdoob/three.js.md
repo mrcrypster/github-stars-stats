@@ -1,10 +1,10 @@
 # mrdoob/three.js - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 33680
+☋ Forks: 33684
 
-★ Stars: 88029
+★ Stars: 88036
 
 [Open repository](https://github.com/mrdoob/three.js)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 88036 | 33684 | 
 | 2023-01-07 | 88029 | 33680 | 
 | 2023-01-06 | 88013 | 33671 | 
 | 2023-01-05 | 87981 | 33671 | 

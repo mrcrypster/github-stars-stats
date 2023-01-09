@@ -1,6 +1,6 @@
 # alexfru/BootProg - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 77 | 12 | 
 | 2023-01-07 | 77 | 12 | 
 | 2023-01-06 | 77 | 12 | 
 | 2023-01-05 | 77 | 12 | 

@@ -1,6 +1,6 @@
 # purescript/purescript-tuples - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 26 | 18 | 
 | 2023-01-07 | 26 | 18 | 
 | 2023-01-06 | 26 | 18 | 
 | 2023-01-05 | 26 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-12 | 24 | 17 | 
 | 2022-12-11 | 24 | 17 | 
 | 2022-12-10 | 24 | 17 | 
-| 2022-12-09 | 24 | 17 | 
 

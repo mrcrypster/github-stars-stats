@@ -1,8 +1,8 @@
 # RivaanRanawat/flutter-whatsapp-clone - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 72
+☋ Forks: 71
 
 ★ Stars: 135
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 135 | 71 | 
 | 2023-01-07 | 135 | 72 | 
 | 2023-01-06 | 134 | 72 | 
 | 2023-01-04 | 134 | 72 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-12 | 126 | 66 | 
 | 2022-12-11 | 126 | 66 | 
 | 2022-12-10 | 126 | 66 | 
-| 2022-12-09 | 125 | 66 | 
 

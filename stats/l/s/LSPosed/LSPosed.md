@@ -1,10 +1,10 @@
 # LSPosed/LSPosed - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 1234
+☋ Forks: 1236
 
-★ Stars: 8067
+★ Stars: 8080
 
 [Open repository](https://github.com/LSPosed/LSPosed)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 8080 | 1236 | 
 | 2023-01-07 | 8067 | 1234 | 
 | 2023-01-06 | 8057 | 1233 | 
 | 2023-01-05 | 8044 | 1230 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 7815 | 1189 | 
 | 2022-12-12 | 7797 | 1185 | 
 | 2022-12-11 | 7783 | 1183 | 
-| 2022-12-10 | 7764 | 1181 | 
 

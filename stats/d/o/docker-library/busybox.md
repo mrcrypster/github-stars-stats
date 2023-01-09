@@ -1,6 +1,6 @@
 # docker-library/busybox - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 127
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 300 | 127 | 
 | 2023-01-08 | 300 | 127 | 
 | 2023-01-07 | 300 | 127 | 
 | 2023-01-05 | 298 | 127 | 

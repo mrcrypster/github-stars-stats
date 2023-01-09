@@ -1,6 +1,6 @@
 # fable-compiler/Fable.Solid - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 21 | 1 | 
 | 2023-01-08 | 21 | 1 | 
 | 2023-01-07 | 21 | 1 | 
 | 2023-01-05 | 21 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-12 | 16 | 1 | 
 | 2022-12-11 | 16 | 1 | 
 | 2022-12-10 | 16 | 1 | 
-| 2022-12-09 | 16 | 1 | 
 

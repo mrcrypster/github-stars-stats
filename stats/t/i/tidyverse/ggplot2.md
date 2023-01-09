@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 08
 
 ☋ Forks: 1919
 
-★ Stars: 5728
+★ Stars: 5729
 
 [Open repository](https://github.com/tidyverse/ggplot2)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-08 | 5728 | 1919 | 
+| 2023-01-08 | 5729 | 1919 | 
 | 2023-01-07 | 5728 | 1919 | 
 | 2023-01-06 | 5726 | 1919 | 
 | 2023-01-05 | 5722 | 1919 | 

@@ -1,10 +1,10 @@
 # cjh0613/tencent-sensitive-words - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 81
 
-★ Stars: 274
+★ Stars: 275
 
 [Open repository](https://github.com/cjh0613/tencent-sensitive-words)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 275 | 81 | 
 | 2023-01-07 | 274 | 81 | 
 | 2023-01-06 | 270 | 80 | 
 | 2023-01-05 | 262 | 80 | 

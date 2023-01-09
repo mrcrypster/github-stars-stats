@@ -1,6 +1,6 @@
 # moneyforward/rspecq - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 3 | 1 | 
 | 2023-01-08 | 3 | 1 | 
 | 2023-01-06 | 3 | 1 | 
 | 2023-01-05 | 3 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-12 | 4 | 1 | 
 | 2022-12-11 | 4 | 1 | 
 | 2022-12-10 | 4 | 1 | 
-| 2022-12-09 | 4 | 1 | 
 

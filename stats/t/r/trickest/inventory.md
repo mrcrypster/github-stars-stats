@@ -1,6 +1,6 @@
 # trickest/inventory - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 110
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 595 | 110 | 
 | 2023-01-08 | 595 | 110 | 
 | 2023-01-06 | 595 | 110 | 
 | 2023-01-05 | 595 | 110 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-12 | 573 | 98 | 
 | 2022-12-11 | 572 | 98 | 
 | 2022-12-10 | 572 | 98 | 
-| 2022-12-09 | 572 | 98 | 
 

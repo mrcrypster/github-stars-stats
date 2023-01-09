@@ -1,6 +1,6 @@
 # rubenmarcus/120-perguntas-frontend - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 94
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 977 | 94 | 
 | 2023-01-07 | 977 | 94 | 
 | 2023-01-06 | 977 | 94 | 
 | 2023-01-05 | 977 | 94 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 974 | 94 | 
 | 2022-12-12 | 974 | 94 | 
 | 2022-12-10 | 974 | 94 | 
-| 2022-12-09 | 974 | 94 | 
 

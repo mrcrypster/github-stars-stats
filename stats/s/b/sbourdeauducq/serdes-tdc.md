@@ -1,6 +1,6 @@
 # sbourdeauducq/serdes-tdc - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 13 | 7 | 
 | 2023-01-07 | 13 | 7 | 
 | 2023-01-06 | 13 | 7 | 
 | 2023-01-05 | 13 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 12 | 7 | 
 | 2022-12-12 | 12 | 7 | 
 | 2022-12-10 | 12 | 7 | 
-| 2022-12-09 | 12 | 7 | 
 

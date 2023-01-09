@@ -1,8 +1,8 @@
 # xingxing993/SimAssist - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 2
+☋ Forks: 3
 
 ★ Stars: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 13 | 3 | 
 | 2023-01-07 | 13 | 2 | 
 | 2023-01-06 | 13 | 2 | 
 

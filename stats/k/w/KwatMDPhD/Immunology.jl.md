@@ -1,10 +1,10 @@
 # KwatMDPhD/Immunology.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 0
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/KwatMDPhD/Immunology.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 6 | - | 
 | 2023-01-07 | 5 | - | 
 | 2023-01-06 | 5 | - | 
 | 2023-01-05 | 5 | - | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 6 | - | 
 | 2022-12-11 | 6 | - | 
 | 2022-12-10 | 6 | - | 
-| 2022-12-09 | 6 | - | 
 

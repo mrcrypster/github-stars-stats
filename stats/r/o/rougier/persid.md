@@ -1,10 +1,10 @@
 # rougier/persid - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 0
 
-★ Stars: 18
+★ Stars: 21
 
 [Open repository](https://github.com/rougier/persid)
 
@@ -13,5 +13,6 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 21 | - | 
 | 2023-01-07 | 18 | - | 
 

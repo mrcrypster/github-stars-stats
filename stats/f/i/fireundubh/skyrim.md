@@ -1,6 +1,6 @@
 # fireundubh/skyrim - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 192
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 33 | 192 | 
 | 2023-01-08 | 33 | 192 | 
 | 2023-01-07 | 33 | 192 | 
 | 2023-01-05 | 33 | 192 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 33 | 191 | 
 | 2022-12-12 | 33 | 191 | 
 | 2022-12-11 | 33 | 191 | 
-| 2022-12-09 | 33 | 191 | 
 

@@ -1,6 +1,6 @@
 # Shougo/vimproc.vim - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 133
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 1076 | 133 | 
 | 2023-01-07 | 1076 | 133 | 
 | 2023-01-06 | 1077 | 133 | 
 | 2023-01-05 | 1077 | 133 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 1074 | 132 | 
 | 2022-12-11 | 1074 | 132 | 
 | 2022-12-10 | 1074 | 132 | 
-| 2022-12-09 | 1074 | 132 | 
 

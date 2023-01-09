@@ -1,10 +1,10 @@
 # 0x36/weightBufs - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 16
 
-★ Stars: 216
+★ Stars: 218
 
 [Open repository](https://github.com/0x36/weightBufs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 218 | 16 | 
 | 2023-01-07 | 216 | 16 | 
 | 2023-01-06 | 216 | 16 | 
 | 2023-01-05 | 215 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 210 | 16 | 
 | 2022-12-12 | 211 | 16 | 
 | 2022-12-11 | 210 | 16 | 
-| 2022-12-09 | 210 | 16 | 
 

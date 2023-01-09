@@ -1,6 +1,6 @@
 # artempyanykh/marksman - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 692 | 13 | 
 | 2023-01-07 | 692 | 13 | 
 | 2023-01-06 | 689 | 13 | 
 | 2023-01-05 | 687 | 13 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-12 | 641 | 12 | 
 | 2022-12-11 | 638 | 12 | 
 | 2022-12-10 | 636 | 11 | 
-| 2022-12-09 | 634 | 11 | 
 

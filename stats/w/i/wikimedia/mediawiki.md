@@ -1,8 +1,8 @@
 # wikimedia/mediawiki - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 1252
+☋ Forks: 1251
 
 ★ Stars: 3272
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 3272 | 1251 | 
 | 2023-01-07 | 3272 | 1252 | 
 | 2023-01-06 | 3272 | 1252 | 
 | 2023-01-05 | 3270 | 1252 | 

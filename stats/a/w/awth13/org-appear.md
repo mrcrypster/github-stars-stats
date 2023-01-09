@@ -1,6 +1,6 @@
 # awth13/org-appear - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 271 | 17 | 
 | 2023-01-07 | 271 | 17 | 
 | 2023-01-06 | 270 | 17 | 
 | 2023-01-05 | 270 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 264 | 17 | 
 | 2022-12-12 | 264 | 17 | 
 | 2022-12-10 | 264 | 17 | 
-| 2022-12-09 | 264 | 17 | 
 

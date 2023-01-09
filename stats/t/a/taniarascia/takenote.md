@@ -1,8 +1,8 @@
 # taniarascia/takenote - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 1040
+☋ Forks: 1041
 
 ★ Stars: 6059
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 6059 | 1041 | 
 | 2023-01-07 | 6059 | 1040 | 
 | 2023-01-06 | 6057 | 1040 | 
 | 2023-01-05 | 6057 | 1039 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 6026 | 1030 | 
 | 2022-12-12 | 6022 | 1029 | 
 | 2022-12-10 | 6023 | 1027 | 
-| 2022-12-09 | 6023 | 1027 | 
 

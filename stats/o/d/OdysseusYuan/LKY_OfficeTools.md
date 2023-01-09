@@ -1,10 +1,10 @@
 # OdysseusYuan/LKY_OfficeTools - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 45
 
-★ Stars: 500
+★ Stars: 502
 
 [Open repository](https://github.com/OdysseusYuan/LKY_OfficeTools)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 502 | 45 | 
 | 2023-01-07 | 500 | 45 | 
 | 2023-01-06 | 498 | 44 | 
 | 2023-01-05 | 496 | 44 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 449 | 39 | 
 | 2022-12-12 | 445 | 39 | 
 | 2022-12-10 | 444 | 39 | 
-| 2022-12-09 | 443 | 39 | 
 

@@ -1,6 +1,6 @@
 # feenkcom/lepiter - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 17 | 1 | 
 | 2023-01-07 | 17 | 1 | 
 | 2023-01-06 | 17 | 1 | 
 | 2023-01-05 | 17 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-12 | 15 | 1 | 
 | 2022-12-11 | 15 | 1 | 
 | 2022-12-10 | 15 | 1 | 
-| 2022-12-09 | 15 | 1 | 
 

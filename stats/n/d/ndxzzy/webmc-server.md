@@ -1,6 +1,6 @@
 # ndxzzy/webmc-server - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 19 | 5 | 
 | 2023-01-07 | 19 | 5 | 
 | 2023-01-06 | 19 | 5 | 
 | 2023-01-05 | 19 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 19 | 4 | 
 | 2022-12-11 | 19 | 4 | 
 | 2022-12-10 | 19 | 4 | 
-| 2022-12-09 | 19 | 4 | 
 

@@ -1,10 +1,10 @@
 # cirosantilli/x86-bare-metal-examples - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 369
 
-★ Stars: 4314
+★ Stars: 4315
 
 [Open repository](https://github.com/cirosantilli/x86-bare-metal-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 4315 | 369 | 
 | 2023-01-07 | 4314 | 369 | 
 | 2023-01-06 | 4314 | 369 | 
 | 2023-01-05 | 4313 | 369 | 

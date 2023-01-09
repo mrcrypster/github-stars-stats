@@ -1,6 +1,6 @@
 # nhsuk/nhsuk-frontend - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 96
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 557 | 96 | 
 | 2023-01-07 | 557 | 96 | 
 | 2023-01-06 | 557 | 96 | 
 | 2023-01-05 | 557 | 97 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 557 | 97 | 
 | 2022-12-12 | 557 | 97 | 
 | 2022-12-10 | 557 | 97 | 
-| 2022-12-09 | 557 | 96 | 
 

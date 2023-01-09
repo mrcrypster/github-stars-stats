@@ -1,10 +1,10 @@
 # cyring/CoreFreq - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 111
 
-★ Stars: 1632
+★ Stars: 1633
 
 [Open repository](https://github.com/cyring/CoreFreq)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 1633 | 111 | 
 | 2023-01-07 | 1632 | 111 | 
 | 2023-01-06 | 1629 | 111 | 
 | 2023-01-05 | 1627 | 110 | 

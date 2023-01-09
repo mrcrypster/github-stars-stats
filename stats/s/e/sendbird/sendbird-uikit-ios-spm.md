@@ -1,6 +1,6 @@
 # sendbird/sendbird-uikit-ios-spm - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 3 | 1 | 
 | 2023-01-07 | 3 | 1 | 
 | 2023-01-06 | 3 | 1 | 
 | 2023-01-05 | 3 | 1 | 

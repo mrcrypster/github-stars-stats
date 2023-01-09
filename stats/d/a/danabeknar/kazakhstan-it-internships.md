@@ -1,6 +1,6 @@
 # danabeknar/kazakhstan-it-internships - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 327 | 22 | 
 | 2023-01-07 | 327 | 22 | 
 | 2023-01-06 | 327 | 22 | 
 | 2023-01-05 | 325 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 315 | 21 | 
 | 2022-12-12 | 315 | 21 | 
 | 2022-12-10 | 315 | 21 | 
-| 2022-12-09 | 315 | 21 | 
 

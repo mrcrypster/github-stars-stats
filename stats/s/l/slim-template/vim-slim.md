@@ -1,6 +1,6 @@
 # slim-template/vim-slim - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 71
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 325 | 71 | 
 | 2023-01-07 | 325 | 71 | 
 | 2023-01-06 | 325 | 71 | 
 | 2023-01-05 | 325 | 71 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 325 | 71 | 
 | 2022-12-11 | 325 | 71 | 
 | 2022-12-10 | 325 | 71 | 
-| 2022-12-09 | 325 | 71 | 
 

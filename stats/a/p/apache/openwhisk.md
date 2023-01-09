@@ -1,10 +1,10 @@
 # apache/openwhisk - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 1136
 
-★ Stars: 5895
+★ Stars: 5897
 
 [Open repository](https://github.com/apache/openwhisk)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 5897 | 1136 | 
 | 2023-01-07 | 5895 | 1136 | 
 | 2023-01-06 | 5894 | 1136 | 
 | 2023-01-05 | 5893 | 1136 | 

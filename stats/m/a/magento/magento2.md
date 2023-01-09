@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 08
 
-☋ Forks: 9110
+☋ Forks: 9109
 
-★ Stars: 10417
+★ Stars: 10416
 
 [Open repository](https://github.com/magento/magento2)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-08 | 10417 | 9110 | 
+| 2023-01-08 | 10416 | 9109 | 
 | 2023-01-07 | 10415 | 9109 | 
 | 2023-01-06 | 10412 | 9108 | 
 | 2023-01-05 | 10409 | 9107 | 

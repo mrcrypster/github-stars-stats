@@ -1,10 +1,10 @@
 # Normation/rudder-techniques - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 20
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/Normation/rudder-techniques)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 15 | 20 | 
 | 2023-01-07 | 14 | 20 | 
 | 2023-01-06 | 14 | 20 | 
 | 2023-01-05 | 14 | 20 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 14 | 20 | 
 | 2022-12-12 | 14 | 20 | 
 | 2022-12-11 | 14 | 20 | 
-| 2022-12-09 | 14 | 20 | 
 

@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 08
 
 ☋ Forks: 628
 
-★ Stars: 954
+★ Stars: 955
 
 [Open repository](https://github.com/simplesamlphp/simplesamlphp)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-08 | 954 | 628 | 
+| 2023-01-08 | 955 | 628 | 
 | 2023-01-07 | 954 | 628 | 
 | 2023-01-06 | 954 | 628 | 
 | 2023-01-05 | 954 | 628 | 
@@ -41,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 952 | 626 | 
 | 2022-12-12 | 950 | 626 | 
 | 2022-12-10 | 950 | 626 | 
-| 2022-12-09 | 950 | 626 | 
 

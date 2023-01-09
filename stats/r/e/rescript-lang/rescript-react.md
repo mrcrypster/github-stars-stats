@@ -1,10 +1,10 @@
 # rescript-lang/rescript-react - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 34
 
-★ Stars: 382
+★ Stars: 381
 
 [Open repository](https://github.com/rescript-lang/rescript-react)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 381 | 34 | 
 | 2023-01-08 | 382 | 34 | 
 | 2023-01-07 | 382 | 34 | 
 | 2023-01-05 | 382 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-12 | 375 | 32 | 
 | 2022-12-11 | 375 | 32 | 
 | 2022-12-10 | 376 | 32 | 
-| 2022-12-09 | 376 | 32 | 
 

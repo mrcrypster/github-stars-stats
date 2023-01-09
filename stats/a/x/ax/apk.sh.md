@@ -1,10 +1,10 @@
 # ax/apk.sh - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 82
 
-★ Stars: 1800
+★ Stars: 1805
 
 [Open repository](https://github.com/ax/apk.sh)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 1805 | 82 | 
 | 2023-01-07 | 1800 | 82 | 
 | 2023-01-06 | 1797 | 82 | 
 | 2023-01-05 | 1795 | 81 | 

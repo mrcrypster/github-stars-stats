@@ -1,6 +1,6 @@
 # paulbricman/dual-obsidian-client - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 228 | 9 | 
 | 2023-01-07 | 228 | 9 | 
 | 2023-01-06 | 228 | 9 | 
 | 2023-01-05 | 227 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 223 | 9 | 
 | 2022-12-11 | 223 | 9 | 
 | 2022-12-10 | 223 | 9 | 
-| 2022-12-09 | 223 | 9 | 
 

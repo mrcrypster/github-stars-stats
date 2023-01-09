@@ -1,6 +1,6 @@
 # Samueleonard/AIG-ModelMatching-For-MSFS - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 116 | 3 | 
 | 2023-01-07 | 116 | 3 | 
 | 2023-01-06 | 116 | 3 | 
 | 2023-01-05 | 116 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 117 | 3 | 
 | 2022-12-12 | 117 | 3 | 
 | 2022-12-11 | 117 | 3 | 
-| 2022-12-09 | 117 | 3 | 
 

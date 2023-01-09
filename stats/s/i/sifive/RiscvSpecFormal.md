@@ -1,6 +1,6 @@
 # sifive/RiscvSpecFormal - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 71 | 7 | 
 | 2023-01-07 | 71 | 7 | 
 | 2023-01-06 | 71 | 7 | 
 | 2023-01-05 | 71 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 70 | 7 | 
 | 2022-12-12 | 70 | 7 | 
 | 2022-12-10 | 70 | 7 | 
-| 2022-12-09 | 70 | 7 | 
 

@@ -1,6 +1,6 @@
 # abseil/abseil-cpp - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 2162
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 11523 | 2162 | 
 | 2023-01-07 | 11523 | 2162 | 
 | 2023-01-06 | 11519 | 2162 | 
 | 2023-01-05 | 11515 | 2161 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 11408 | 2143 | 
 | 2022-12-12 | 11401 | 2142 | 
 | 2022-12-11 | 11385 | 2139 | 
-| 2022-12-10 | 11382 | 2139 | 
 

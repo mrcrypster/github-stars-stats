@@ -1,6 +1,6 @@
 # helloflask/bootstrap-flask - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 152
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 810 | 152 | 
 | 2023-01-07 | 810 | 152 | 
 | 2023-01-06 | 810 | 152 | 
 | 2023-01-05 | 810 | 152 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 793 | 149 | 
 | 2022-12-12 | 791 | 149 | 
 | 2022-12-11 | 790 | 149 | 
-| 2022-12-10 | 790 | 149 | 
 

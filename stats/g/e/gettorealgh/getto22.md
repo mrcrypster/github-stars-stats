@@ -1,8 +1,8 @@
 # gettorealgh/getto22 - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 09
 
-☋ Forks: 199
+☋ Forks: 201
 
 ★ Stars: 3
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 3 | 201 | 
+| 2023-01-08 | 3 | 201 | 
 | 2023-01-07 | 3 | 199 | 
 | 2023-01-06 | 3 | 191 | 
 | 2023-01-05 | 3 | 189 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 2 | 93 | 
 | 2022-12-12 | 2 | 90 | 
 | 2022-12-10 | 2 | 85 | 
-| 2022-12-09 | 2 | 80 | 
 

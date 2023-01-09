@@ -1,10 +1,10 @@
 # abrahamcalf/programming-languages-logos - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 65
+☋ Forks: 66
 
-★ Stars: 288
+★ Stars: 289
 
 [Open repository](https://github.com/abrahamcalf/programming-languages-logos)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 289 | 66 | 
 | 2023-01-07 | 288 | 65 | 
 | 2023-01-06 | 288 | 65 | 
 | 2023-01-05 | 288 | 65 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 287 | 66 | 
 | 2022-12-12 | 287 | 66 | 
 | 2022-12-10 | 288 | 67 | 
-| 2022-12-09 | 288 | 66 | 
 

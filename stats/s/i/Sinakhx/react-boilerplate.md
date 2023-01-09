@@ -1,10 +1,10 @@
 # Sinakhx/react-boilerplate - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 3
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/Sinakhx/react-boilerplate)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 31 | 3 | 
 | 2023-01-07 | 30 | 3 | 
 | 2023-01-06 | 30 | 3 | 
 | 2023-01-05 | 30 | 3 | 

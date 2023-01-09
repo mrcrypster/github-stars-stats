@@ -1,6 +1,6 @@
 # fortio/fortio - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 216
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 2793 | 216 | 
 | 2023-01-07 | 2793 | 216 | 
 | 2023-01-06 | 2793 | 216 | 
 | 2023-01-05 | 2792 | 216 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 2771 | 214 | 
 | 2022-12-12 | 2771 | 215 | 
 | 2022-12-10 | 2769 | 215 | 
-| 2022-12-09 | 2768 | 214 | 
 

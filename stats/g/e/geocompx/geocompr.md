@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 08
 
-☋ Forks: 537
+☋ Forks: 538
 
-★ Stars: 1242
+★ Stars: 1247
 
 [Open repository](https://github.com/geocompx/geocompr)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-08 | 1242 | 537 | 
+| 2023-01-08 | 1247 | 538 | 
 | 2023-01-07 | 1241 | 536 | 
 

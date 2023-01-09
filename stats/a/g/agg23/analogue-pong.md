@@ -1,6 +1,6 @@
 # agg23/analogue-pong - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 53 | 1 | 
 | 2023-01-07 | 53 | 1 | 
 | 2023-01-06 | 53 | 1 | 
 | 2023-01-05 | 53 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 52 | 1 | 
 | 2022-12-12 | 51 | 1 | 
 | 2022-12-11 | 51 | 1 | 
-| 2022-12-09 | 51 | 1 | 
 

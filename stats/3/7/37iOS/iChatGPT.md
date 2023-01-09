@@ -1,10 +1,10 @@
 # 37iOS/iChatGPT - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 14
 
-★ Stars: 72
+★ Stars: 73
 
 [Open repository](https://github.com/37iOS/iChatGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 73 | 14 | 
 | 2023-01-07 | 72 | 14 | 
 | 2023-01-06 | 69 | 13 | 
 | 2023-01-05 | 64 | 12 | 

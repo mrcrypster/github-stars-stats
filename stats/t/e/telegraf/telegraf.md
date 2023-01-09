@@ -1,10 +1,10 @@
 # telegraf/telegraf - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 826
+☋ Forks: 827
 
-★ Stars: 6325
+★ Stars: 6330
 
 [Open repository](https://github.com/telegraf/telegraf)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 6330 | 827 | 
 | 2023-01-07 | 6325 | 826 | 
 | 2023-01-06 | 6326 | 826 | 
 | 2023-01-05 | 6321 | 826 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-14 | 6252 | 823 | 
 | 2022-12-12 | 6246 | 823 | 
 | 2022-12-11 | 6242 | 822 | 
-| 2022-12-10 | 6240 | 822 | 
 

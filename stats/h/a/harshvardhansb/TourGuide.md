@@ -1,10 +1,10 @@
 # harshvardhansb/TourGuide - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 82
 
-★ Stars: 34
+★ Stars: 33
 
 [Open repository](https://github.com/harshvardhansb/TourGuide)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 33 | 82 | 
 | 2023-01-07 | 34 | 82 | 
 | 2023-01-06 | 34 | 82 | 
 | 2023-01-05 | 34 | 83 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 33 | 85 | 
 | 2022-12-12 | 33 | 85 | 
 | 2022-12-11 | 33 | 85 | 
-| 2022-12-10 | 33 | 86 | 
 

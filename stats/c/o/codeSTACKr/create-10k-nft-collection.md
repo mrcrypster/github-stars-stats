@@ -1,8 +1,8 @@
 # codeSTACKr/create-10k-nft-collection - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 675
+☋ Forks: 676
 
 ★ Stars: 2002
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 2002 | 676 | 
 | 2023-01-07 | 2002 | 675 | 
 | 2023-01-06 | 2000 | 675 | 
 | 2023-01-05 | 2000 | 675 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 1979 | 667 | 
 | 2022-12-12 | 1978 | 665 | 
 | 2022-12-10 | 1976 | 664 | 
-| 2022-12-09 | 1974 | 662 | 
 

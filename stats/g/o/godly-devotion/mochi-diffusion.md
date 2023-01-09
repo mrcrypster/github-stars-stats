@@ -1,10 +1,10 @@
 # godly-devotion/mochi-diffusion - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 20
+☋ Forks: 22
 
-★ Stars: 409
+★ Stars: 414
 
 [Open repository](https://github.com/godly-devotion/mochi-diffusion)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 414 | 22 | 
 | 2023-01-07 | 409 | 20 | 
 | 2023-01-06 | 396 | 18 | 
 | 2023-01-05 | 382 | 18 | 

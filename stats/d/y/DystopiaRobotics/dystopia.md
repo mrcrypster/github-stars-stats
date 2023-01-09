@@ -1,6 +1,6 @@
 # DystopiaRobotics/dystopia - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 117 | - | 
 | 2023-01-07 | 117 | - | 
 | 2023-01-06 | 117 | - | 
 | 2023-01-05 | 117 | - | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 116 | - | 
 | 2022-12-12 | 115 | - | 
 | 2022-12-11 | 115 | - | 
-| 2022-12-09 | 115 | - | 
 

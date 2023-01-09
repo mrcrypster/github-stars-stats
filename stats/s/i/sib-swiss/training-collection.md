@@ -1,6 +1,6 @@
 # sib-swiss/training-collection - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 129
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 682 | 129 | 
 | 2023-01-08 | 682 | 129 | 
 | 2023-01-06 | 681 | 129 | 
 | 2023-01-05 | 680 | 129 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 667 | 124 | 
 | 2022-12-11 | 666 | 124 | 
 | 2022-12-10 | 666 | 124 | 
-| 2022-12-09 | 666 | 124 | 
 

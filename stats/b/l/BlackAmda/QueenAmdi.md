@@ -1,10 +1,10 @@
 # BlackAmda/QueenAmdi - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
-☋ Forks: 2478
+☋ Forks: 2491
 
-★ Stars: 223
+★ Stars: 222
 
 [Open repository](https://github.com/BlackAmda/QueenAmdi)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 222 | 2491 | 
 | 2023-01-07 | 223 | 2478 | 
 | 2023-01-06 | 224 | 2471 | 
 | 2023-01-05 | 224 | 2462 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 216 | 2055 | 
 | 2022-12-12 | 216 | 2010 | 
 | 2022-12-10 | 216 | 1964 | 
-| 2022-12-09 | 215 | 1917 | 
 

@@ -1,10 +1,10 @@
 # orzechowskid/tsi.el - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 4
 
-★ Stars: 42
+★ Stars: 41
 
 [Open repository](https://github.com/orzechowskid/tsi.el)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 41 | 4 | 
 | 2023-01-07 | 42 | 4 | 
 | 2023-01-06 | 41 | 4 | 
 | 2023-01-05 | 41 | 4 | 

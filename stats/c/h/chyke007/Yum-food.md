@@ -1,6 +1,6 @@
 # chyke007/Yum-food - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 52 | 12 | 
 | 2023-01-07 | 52 | 12 | 
 | 2023-01-06 | 52 | 12 | 
 | 2023-01-05 | 52 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 50 | 11 | 
 | 2022-12-12 | 50 | 11 | 
 | 2022-12-11 | 50 | 11 | 
-| 2022-12-09 | 50 | 11 | 
 

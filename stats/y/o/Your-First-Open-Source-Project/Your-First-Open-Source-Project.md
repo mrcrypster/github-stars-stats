@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 08
 
 ☋ Forks: 90
 
-★ Stars: 81
+★ Stars: 82
 
 [Open repository](https://github.com/Your-First-Open-Source-Project/Your-First-Open-Source-Project)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-08 | 81 | 90 | 
+| 2023-01-08 | 82 | 90 | 
 | 2023-01-07 | 81 | 89 | 
 | 2023-01-06 | 81 | 89 | 
 | 2023-01-05 | 81 | 88 | 
@@ -40,5 +40,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 79 | 86 | 
 | 2022-12-12 | 79 | 86 | 
 | 2022-12-11 | 79 | 83 | 
-| 2022-12-09 | 79 | 83 | 
 

@@ -1,10 +1,10 @@
 # studyzy/imewlconverter - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 565
 
-★ Stars: 5582
+★ Stars: 5586
 
 [Open repository](https://github.com/studyzy/imewlconverter)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 5586 | 565 | 
 | 2023-01-07 | 5582 | 565 | 
 | 2023-01-06 | 5580 | 565 | 
 | 2023-01-05 | 5578 | 565 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 07
 | 2022-12-13 | 5536 | 562 | 
 | 2022-12-12 | 5535 | 562 | 
 | 2022-12-11 | 5535 | 562 | 
-| 2022-12-09 | 5534 | 562 | 
 

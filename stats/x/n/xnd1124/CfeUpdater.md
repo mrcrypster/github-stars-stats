@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 08
 
 ☋ Forks: 4
 
-★ Stars: 25
+★ Stars: 27
 
 [Open repository](https://github.com/xnd1124/CfeUpdater)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-08 | 25 | 4 | 
+| 2023-01-08 | 27 | 4 | 
 | 2023-01-07 | 25 | 4 | 
 | 2023-01-06 | 25 | 3 | 
 | 2023-01-05 | 25 | 3 | 

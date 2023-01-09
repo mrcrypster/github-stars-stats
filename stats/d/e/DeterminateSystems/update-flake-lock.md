@@ -1,10 +1,10 @@
 # DeterminateSystems/update-flake-lock - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 08
 
 ☋ Forks: 12
 
-★ Stars: 87
+★ Stars: 88
 
 [Open repository](https://github.com/DeterminateSystems/update-flake-lock)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-08 | 88 | 12 | 
 | 2023-01-07 | 87 | 12 | 
 | 2023-01-06 | 87 | 12 | 
 | 2023-01-05 | 87 | 12 | 

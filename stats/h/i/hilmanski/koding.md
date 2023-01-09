@@ -1,10 +1,10 @@
 # hilmanski/koding - stars & forks statistics
 
-Stats updated on Jan 2023, 07
+Stats updated on Jan 2023, 09
 
-☋ Forks: 11
+☋ Forks: 12
 
-★ Stars: 63
+★ Stars: 64
 
 [Open repository](https://github.com/hilmanski/koding)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 64 | 12 | 
 | 2023-01-07 | 63 | 11 | 
 | 2023-01-06 | 63 | 11 | 
 | 2023-01-05 | 61 | 11 | 
