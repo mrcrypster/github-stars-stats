@@ -1,6 +1,6 @@
 # Burgerballs/remanifested-main - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 3 | 6 | 
 | 2023-01-08 | 3 | 6 | 
 | 2023-01-07 | 4 | 6 | 
 | 2023-01-05 | 4 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 4 | 6 | 
 | 2022-12-12 | 4 | 6 | 
 | 2022-12-11 | 4 | 6 | 
-| 2022-12-10 | 4 | 6 | 
 

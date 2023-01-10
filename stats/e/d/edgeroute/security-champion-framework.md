@@ -1,10 +1,10 @@
 # edgeroute/security-champion-framework - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 8
+☋ Forks: 9
 
-★ Stars: 50
+★ Stars: 51
 
 [Open repository](https://github.com/edgeroute/security-champion-framework)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 51 | 9 | 
 | 2023-01-08 | 50 | 8 | 
 | 2023-01-07 | 50 | 8 | 
 | 2023-01-06 | 46 | 8 | 

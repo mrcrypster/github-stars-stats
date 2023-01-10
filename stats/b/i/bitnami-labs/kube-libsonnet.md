@@ -1,10 +1,10 @@
 # bitnami-labs/kube-libsonnet - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 51
 
-★ Stars: 167
+★ Stars: 168
 
 [Open repository](https://github.com/bitnami-labs/kube-libsonnet)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 168 | 51 | 
+| 2023-01-09 | 168 | 51 | 
 | 2023-01-08 | 167 | 51 | 
 | 2023-01-07 | 167 | 51 | 
 | 2023-01-06 | 167 | 51 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 167 | 50 | 
 | 2022-12-12 | 167 | 50 | 
 | 2022-12-11 | 167 | 50 | 
-| 2022-12-10 | 167 | 50 | 
 

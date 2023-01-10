@@ -1,10 +1,10 @@
 # vletoux/pingcastle - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 222
 
-★ Stars: 1525
+★ Stars: 1526
 
 [Open repository](https://github.com/vletoux/pingcastle)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 1526 | 222 | 
 | 2023-01-08 | 1525 | 222 | 
 | 2023-01-07 | 1524 | 222 | 
 | 2023-01-06 | 1521 | 221 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 1507 | 218 | 
 | 2022-12-12 | 1504 | 218 | 
 | 2022-12-11 | 1503 | 218 | 
-| 2022-12-10 | 1502 | 218 | 
 

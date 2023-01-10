@@ -1,10 +1,10 @@
 # ShiranAbir/chaty - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 1
 
-★ Stars: 16
+★ Stars: 18
 
 [Open repository](https://github.com/ShiranAbir/chaty)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 18 | 1 | 
 | 2023-01-08 | 16 | 1 | 
 | 2023-01-07 | 16 | 1 | 
 | 2023-01-06 | 14 | 1 | 

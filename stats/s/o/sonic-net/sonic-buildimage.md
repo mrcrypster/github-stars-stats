@@ -1,10 +1,10 @@
 # sonic-net/sonic-buildimage - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 1104
+☋ Forks: 1105
 
-★ Stars: 481
+★ Stars: 482
 
 [Open repository](https://github.com/sonic-net/sonic-buildimage)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 482 | 1105 | 
 | 2023-01-08 | 481 | 1104 | 
 | 2023-01-07 | 481 | 1104 | 
 | 2023-01-06 | 480 | 1104 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 476 | 1092 | 
 | 2022-12-12 | 474 | 1089 | 
 | 2022-12-11 | 474 | 1088 | 
-| 2022-12-10 | 474 | 1088 | 
 

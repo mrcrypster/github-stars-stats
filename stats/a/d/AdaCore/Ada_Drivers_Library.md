@@ -1,10 +1,10 @@
 # AdaCore/Ada_Drivers_Library - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 134
 
-★ Stars: 205
+★ Stars: 206
 
 [Open repository](https://github.com/AdaCore/Ada_Drivers_Library)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 206 | 134 | 
 | 2023-01-08 | 205 | 134 | 
 | 2023-01-07 | 205 | 134 | 
 | 2023-01-06 | 205 | 134 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 203 | 134 | 
 | 2022-12-13 | 203 | 134 | 
 | 2022-12-12 | 203 | 134 | 
-| 2022-12-11 | 202 | 134 | 
 

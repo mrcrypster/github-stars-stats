@@ -1,10 +1,10 @@
 # PoomSmart/YouPiP - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 21
 
-★ Stars: 59
+★ Stars: 60
 
 [Open repository](https://github.com/PoomSmart/YouPiP)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 60 | 21 | 
 | 2023-01-08 | 59 | 21 | 
 | 2023-01-07 | 59 | 22 | 
 | 2023-01-06 | 59 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 58 | 22 | 
 | 2022-12-13 | 58 | 22 | 
 | 2022-12-11 | 58 | 22 | 
-| 2022-12-10 | 58 | 22 | 
 

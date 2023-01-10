@@ -1,10 +1,10 @@
 # lxgw/LxgwNewClearGothic - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 3
+☋ Forks: 4
 
-★ Stars: 404
+★ Stars: 455
 
 [Open repository](https://github.com/lxgw/LxgwNewClearGothic)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 455 | 4 | 
 | 2023-01-09 | 404 | 3 | 
 | 2023-01-07 | 341 | 2 | 
 | 2023-01-06 | 288 | 1 | 

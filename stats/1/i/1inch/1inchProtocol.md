@@ -1,6 +1,6 @@
 # 1inch/1inchProtocol - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 241
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 447 | 241 | 
 | 2023-01-08 | 447 | 241 | 
 | 2023-01-07 | 447 | 240 | 
 | 2023-01-06 | 447 | 240 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 447 | 236 | 
 | 2022-12-13 | 446 | 235 | 
 | 2022-12-11 | 446 | 235 | 
-| 2022-12-10 | 446 | 235 | 
 

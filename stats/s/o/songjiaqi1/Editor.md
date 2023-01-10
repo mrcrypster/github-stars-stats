@@ -1,6 +1,6 @@
 # songjiaqi1/Editor - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 49 | 9 | 
 | 2023-01-08 | 49 | 9 | 
 | 2023-01-07 | 49 | 9 | 
 | 2023-01-06 | 49 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 48 | 9 | 
 | 2022-12-13 | 48 | 9 | 
 | 2022-12-12 | 48 | 9 | 
-| 2022-12-11 | 48 | 9 | 
 

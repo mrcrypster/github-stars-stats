@@ -1,10 +1,10 @@
 # GaryOderNichts/UFDiine - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 1
 
-★ Stars: 37
+★ Stars: 38
 
 [Open repository](https://github.com/GaryOderNichts/UFDiine)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 38 | 1 | 
+| 2023-01-09 | 38 | 1 | 
 | 2023-01-08 | 37 | 1 | 
 | 2023-01-07 | 37 | 1 | 
 | 2023-01-06 | 37 | 1 | 
@@ -40,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-15 | 32 | 2 | 
 | 2022-12-13 | 31 | 2 | 
 | 2022-12-12 | 31 | 2 | 
-| 2022-12-10 | 30 | 2 | 
 

@@ -1,10 +1,10 @@
 # Gogh-Co/Gogh - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 533
 
-★ Stars: 7484
+★ Stars: 7490
 
 [Open repository](https://github.com/Gogh-Co/Gogh)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 7490 | 533 | 
 | 2023-01-08 | 7484 | 533 | 
 | 2023-01-07 | 7478 | 533 | 
 | 2023-01-06 | 7477 | 533 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 7429 | 534 | 
 | 2022-12-13 | 7424 | 533 | 
 | 2022-12-12 | 7422 | 533 | 
-| 2022-12-10 | 7420 | 532 | 
 

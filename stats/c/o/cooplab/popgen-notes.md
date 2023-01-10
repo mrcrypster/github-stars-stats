@@ -1,10 +1,10 @@
 # cooplab/popgen-notes - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 108
 
-★ Stars: 525
+★ Stars: 527
 
 [Open repository](https://github.com/cooplab/popgen-notes)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 527 | 108 | 
 | 2023-01-08 | 525 | 108 | 
 | 2023-01-07 | 525 | 108 | 
 | 2023-01-06 | 525 | 108 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 526 | 107 | 
 | 2022-12-12 | 525 | 107 | 
 | 2022-12-11 | 525 | 107 | 
-| 2022-12-10 | 525 | 107 | 
 

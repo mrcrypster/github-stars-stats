@@ -1,10 +1,10 @@
 # encode/django-rest-framework - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 6428
+☋ Forks: 6429
 
-★ Stars: 24745
+★ Stars: 24750
 
 [Open repository](https://github.com/encode/django-rest-framework)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 24750 | 6429 | 
 | 2023-01-08 | 24745 | 6428 | 
 | 2023-01-07 | 24742 | 6427 | 
 | 2023-01-06 | 24738 | 6427 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 24625 | 6407 | 
 | 2022-12-12 | 24614 | 6402 | 
 | 2022-12-11 | 24611 | 6403 | 
-| 2022-12-10 | 24609 | 6401 | 
 

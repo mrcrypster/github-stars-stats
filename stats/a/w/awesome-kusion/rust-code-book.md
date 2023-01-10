@@ -1,6 +1,6 @@
 # awesome-kusion/rust-code-book - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 186 | 8 | 
 | 2023-01-08 | 186 | 8 | 
 | 2023-01-07 | 186 | 8 | 
 | 2023-01-06 | 186 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 187 | 8 | 
 | 2022-12-12 | 187 | 8 | 
 | 2022-12-11 | 187 | 8 | 
-| 2022-12-10 | 187 | 8 | 
 

@@ -1,6 +1,6 @@
 # hansihe/live_data - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 54 | - | 
 | 2023-01-08 | 54 | - | 
 | 2023-01-07 | 54 | - | 
 | 2023-01-06 | 53 | - | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 30 | - | 
 | 2022-12-13 | 30 | - | 
 | 2022-12-12 | 30 | - | 
-| 2022-12-10 | 30 | - | 
 

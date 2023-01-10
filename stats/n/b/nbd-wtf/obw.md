@@ -1,6 +1,6 @@
 # nbd-wtf/obw - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 78 | 13 | 
 | 2023-01-09 | 78 | 13 | 
 | 2023-01-07 | 78 | 13 | 
 | 2023-01-06 | 77 | 13 | 

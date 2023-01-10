@@ -1,6 +1,6 @@
 # google/GoogleUtilities - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 71 | 34 | 
 | 2023-01-08 | 71 | 34 | 
 | 2023-01-07 | 71 | 34 | 
 | 2023-01-06 | 70 | 34 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 66 | 34 | 
 | 2022-12-12 | 66 | 34 | 
 | 2022-12-11 | 66 | 34 | 
-| 2022-12-10 | 65 | 34 | 
 

@@ -1,10 +1,10 @@
 # xolox/vim-session - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 89
 
-★ Stars: 955
+★ Stars: 954
 
 [Open repository](https://github.com/xolox/vim-session)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 954 | 89 | 
 | 2023-01-08 | 955 | 89 | 
 | 2023-01-07 | 955 | 89 | 
 | 2023-01-06 | 955 | 89 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 954 | 89 | 
 | 2022-12-12 | 954 | 89 | 
 | 2022-12-11 | 954 | 89 | 
-| 2022-12-10 | 954 | 89 | 
 

@@ -1,6 +1,6 @@
 # smartcontractkit/huff-starter-kit - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 66 | 5 | 
 | 2023-01-08 | 66 | 5 | 
 | 2023-01-07 | 66 | 5 | 
 | 2023-01-06 | 66 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 66 | 4 | 
 | 2022-12-13 | 66 | 4 | 
 | 2022-12-11 | 65 | 4 | 
-| 2022-12-10 | 65 | 4 | 
 

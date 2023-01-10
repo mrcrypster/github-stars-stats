@@ -1,10 +1,10 @@
 # YoshiCrafter29/CodenameEngine - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 38
 
-★ Stars: 70
+★ Stars: 72
 
 [Open repository](https://github.com/YoshiCrafter29/CodenameEngine)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 72 | 38 | 
+| 2023-01-09 | 72 | 39 | 
 | 2023-01-08 | 70 | 38 | 
 | 2023-01-07 | 65 | 36 | 
 | 2023-01-06 | 63 | 34 | 

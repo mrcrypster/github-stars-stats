@@ -1,8 +1,8 @@
 # paolosalvatori/ServiceBusExplorer - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 525
+☋ Forks: 526
 
 ★ Stars: 1744
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 1744 | 526 | 
 | 2023-01-08 | 1744 | 525 | 
 | 2023-01-07 | 1744 | 525 | 
 | 2023-01-06 | 1742 | 525 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 1740 | 521 | 
 | 2022-12-13 | 1738 | 521 | 
 | 2022-12-12 | 1738 | 521 | 
-| 2022-12-10 | 1738 | 521 | 
 

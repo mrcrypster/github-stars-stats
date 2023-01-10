@@ -1,10 +1,10 @@
 # RustScan/RustScan - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 10
 
-☋ Forks: 651
+☋ Forks: 652
 
-★ Stars: 8756
+★ Stars: 8806
 
 [Open repository](https://github.com/RustScan/RustScan)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 8806 | 652 | 
+| 2023-01-09 | 8805 | 652 | 
 | 2023-01-08 | 8756 | 651 | 
 | 2023-01-07 | 8748 | 649 | 
 | 2023-01-06 | 8742 | 649 | 
@@ -40,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 8613 | 644 | 
 | 2022-12-13 | 8605 | 645 | 
 | 2022-12-12 | 8594 | 645 | 
-| 2022-12-11 | 8587 | 646 | 
 

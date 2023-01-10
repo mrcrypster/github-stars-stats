@@ -1,10 +1,10 @@
 # thesephist/modelexicon - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 5
 
-★ Stars: 139
+★ Stars: 138
 
 [Open repository](https://github.com/thesephist/modelexicon)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 138 | 5 | 
 | 2023-01-08 | 139 | 5 | 
 | 2023-01-07 | 139 | 5 | 
 | 2023-01-06 | 139 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 139 | 5 | 
 | 2022-12-12 | 139 | 5 | 
 | 2022-12-11 | 139 | 5 | 
-| 2022-12-10 | 139 | 5 | 
 

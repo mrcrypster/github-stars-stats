@@ -1,10 +1,10 @@
 # oblador/react-native-vector-icons - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 2085
+☋ Forks: 2084
 
-★ Stars: 16341
+★ Stars: 16343
 
 [Open repository](https://github.com/oblador/react-native-vector-icons)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 16343 | 2084 | 
 | 2023-01-08 | 16341 | 2085 | 
 | 2023-01-07 | 16336 | 2086 | 
 | 2023-01-06 | 16334 | 2085 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 16275 | 2068 | 
 | 2022-12-13 | 16270 | 2067 | 
 | 2022-12-12 | 16269 | 2066 | 
-| 2022-12-11 | 16267 | 2067 | 
 

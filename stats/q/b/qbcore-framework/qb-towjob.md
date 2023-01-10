@@ -1,8 +1,8 @@
 # qbcore-framework/qb-towjob - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 141
+☋ Forks: 140
 
 ★ Stars: 18
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 18 | 140 | 
 | 2023-01-08 | 18 | 141 | 
 | 2023-01-07 | 18 | 141 | 
 | 2023-01-06 | 18 | 141 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 18 | 140 | 
 | 2022-12-13 | 18 | 140 | 
 | 2022-12-12 | 18 | 140 | 
-| 2022-12-10 | 18 | 140 | 
 

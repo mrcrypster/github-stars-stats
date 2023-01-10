@@ -1,10 +1,10 @@
 # mytechnotalent/Reverse-Engineering - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 754
+☋ Forks: 755
 
-★ Stars: 7828
+★ Stars: 7834
 
 [Open repository](https://github.com/mytechnotalent/Reverse-Engineering)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 7834 | 755 | 
 | 2023-01-08 | 7828 | 754 | 
 | 2023-01-07 | 7828 | 753 | 
 | 2023-01-06 | 7820 | 753 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 7578 | 734 | 
 | 2022-12-12 | 7575 | 734 | 
 | 2022-12-11 | 7575 | 734 | 
-| 2022-12-10 | 7573 | 734 | 
 

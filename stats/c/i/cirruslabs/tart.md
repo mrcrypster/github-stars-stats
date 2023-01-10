@@ -1,10 +1,10 @@
 # cirruslabs/tart - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 25
 
-★ Stars: 1517
+★ Stars: 1524
 
 [Open repository](https://github.com/cirruslabs/tart)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 1524 | 25 | 
 | 2023-01-09 | 1517 | 25 | 
 | 2023-01-08 | 1517 | 25 | 
 | 2023-01-06 | 1517 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 1453 | 24 | 
 | 2022-12-12 | 1450 | 24 | 
 | 2022-12-11 | 1448 | 24 | 
-| 2022-12-10 | 1441 | 24 | 
 

@@ -1,10 +1,10 @@
 # advplyr/audiobookshelf - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 131
+☋ Forks: 133
 
-★ Stars: 1973
+★ Stars: 1989
 
 [Open repository](https://github.com/advplyr/audiobookshelf)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 1989 | 133 | 
 | 2023-01-08 | 1973 | 131 | 
 | 2023-01-07 | 1972 | 131 | 
 | 2023-01-06 | 1968 | 131 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 1873 | 125 | 
 | 2022-12-13 | 1868 | 125 | 
 | 2022-12-12 | 1863 | 125 | 
-| 2022-12-10 | 1859 | 125 | 
 

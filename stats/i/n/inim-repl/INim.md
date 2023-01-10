@@ -1,10 +1,10 @@
 # inim-repl/INim - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 22
 
-★ Stars: 561
+★ Stars: 562
 
 [Open repository](https://github.com/inim-repl/INim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 562 | 22 | 
 | 2023-01-08 | 561 | 22 | 
 | 2023-01-07 | 561 | 22 | 
 | 2023-01-06 | 561 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 546 | 22 | 
 | 2022-12-13 | 546 | 22 | 
 | 2022-12-11 | 546 | 22 | 
-| 2022-12-10 | 546 | 22 | 
 

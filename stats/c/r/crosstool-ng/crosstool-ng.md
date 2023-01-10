@@ -1,6 +1,6 @@
 # crosstool-ng/crosstool-ng - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 591
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 1669 | 591 | 
 | 2023-01-08 | 1669 | 591 | 
 | 2023-01-07 | 1669 | 591 | 
 | 2023-01-06 | 1669 | 591 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 1657 | 589 | 
 | 2022-12-13 | 1657 | 588 | 
 | 2022-12-11 | 1655 | 588 | 
-| 2022-12-10 | 1655 | 588 | 
 

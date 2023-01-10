@@ -1,6 +1,6 @@
 # ultrajson/ultrajson - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 362
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 3932 | 362 | 
 | 2023-01-08 | 3932 | 362 | 
 | 2023-01-07 | 3931 | 362 | 
 | 2023-01-06 | 3929 | 362 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 3902 | 363 | 
 | 2022-12-13 | 3900 | 364 | 
 | 2022-12-11 | 3899 | 364 | 
-| 2022-12-10 | 3898 | 364 | 
 

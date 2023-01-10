@@ -1,6 +1,6 @@
 # Bnyro/WallYou - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 81 | 9 | 
 | 2023-01-08 | 81 | 9 | 
 | 2023-01-07 | 81 | 9 | 
 | 2023-01-06 | 78 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 70 | 7 | 
 | 2022-12-13 | 68 | 7 | 
 | 2022-12-12 | 66 | 7 | 
-| 2022-12-10 | 62 | 7 | 
 

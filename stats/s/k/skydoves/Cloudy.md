@@ -1,10 +1,10 @@
 # skydoves/Cloudy - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 9
 
-★ Stars: 397
+★ Stars: 400
 
 [Open repository](https://github.com/skydoves/Cloudy)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 400 | 9 | 
 | 2023-01-08 | 397 | 9 | 
 | 2023-01-07 | 397 | 9 | 
 | 2023-01-06 | 397 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 375 | 9 | 
 | 2022-12-12 | 373 | 9 | 
 | 2022-12-11 | 371 | 9 | 
-| 2022-12-10 | 370 | 9 | 
 

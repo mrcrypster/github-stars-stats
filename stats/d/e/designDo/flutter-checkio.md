@@ -1,10 +1,10 @@
 # designDo/flutter-checkio - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 117
 
-★ Stars: 536
+★ Stars: 537
 
 [Open repository](https://github.com/designDo/flutter-checkio)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 537 | 117 | 
 | 2023-01-08 | 536 | 117 | 
 | 2023-01-07 | 535 | 116 | 
 | 2023-01-06 | 535 | 116 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 529 | 114 | 
 | 2022-12-12 | 529 | 114 | 
 | 2022-12-11 | 527 | 114 | 
-| 2022-12-10 | 527 | 114 | 
 

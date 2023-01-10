@@ -1,6 +1,6 @@
 # YosysHQ/yosys - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 737
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 2492 | 737 | 
 | 2023-01-08 | 2492 | 737 | 
 | 2023-01-07 | 2491 | 737 | 
 | 2023-01-06 | 2490 | 736 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 2469 | 728 | 
 | 2022-12-12 | 2466 | 728 | 
 | 2022-12-11 | 2464 | 728 | 
-| 2022-12-10 | 2464 | 728 | 
 

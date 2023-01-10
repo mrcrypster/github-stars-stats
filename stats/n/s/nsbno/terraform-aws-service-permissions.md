@@ -1,6 +1,6 @@
 # nsbno/terraform-aws-service-permissions - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 1 | 2 | 
 | 2023-01-09 | 1 | 2 | 
 | 2023-01-08 | 1 | 2 | 
 | 2023-01-06 | 1 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-13 | 1 | 2 | 
 | 2022-12-12 | 1 | 2 | 
 | 2022-12-11 | 1 | 2 | 
-| 2022-12-10 | 1 | 2 | 
 

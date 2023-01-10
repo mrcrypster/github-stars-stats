@@ -1,10 +1,10 @@
 # JuliaApproximation/ApproxFun.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 70
 
-★ Stars: 461
+★ Stars: 462
 
 [Open repository](https://github.com/JuliaApproximation/ApproxFun.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 462 | 70 | 
 | 2023-01-08 | 461 | 70 | 
 | 2023-01-07 | 461 | 70 | 
 | 2023-01-06 | 461 | 70 | 

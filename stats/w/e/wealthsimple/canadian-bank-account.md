@@ -1,8 +1,8 @@
 # wealthsimple/canadian-bank-account - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 5
+☋ Forks: 4
 
 ★ Stars: 11
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 11 | 4 | 
 | 2023-01-09 | 11 | 5 | 
 | 2023-01-07 | 11 | 5 | 
 | 2023-01-06 | 11 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 11 | 5 | 
 | 2022-12-13 | 11 | 5 | 
 | 2022-12-11 | 11 | 5 | 
-| 2022-12-10 | 11 | 5 | 
 

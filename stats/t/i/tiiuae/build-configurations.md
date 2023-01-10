@@ -1,8 +1,8 @@
 # tiiuae/build-configurations - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 8
+☋ Forks: 9
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 1 | 9 | 
 | 2023-01-08 | 1 | 8 | 
 | 2023-01-07 | 1 | 8 | 
 | 2023-01-06 | 1 | 8 | 

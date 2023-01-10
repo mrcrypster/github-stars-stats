@@ -1,6 +1,6 @@
 # rockthejvm/scala-at-light-speed - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 196
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 163 | 196 | 
 | 2023-01-08 | 163 | 196 | 
 | 2023-01-07 | 163 | 195 | 
 | 2023-01-06 | 163 | 195 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 158 | 190 | 
 | 2022-12-12 | 156 | 190 | 
 | 2022-12-11 | 156 | 190 | 
-| 2022-12-10 | 156 | 190 | 
 

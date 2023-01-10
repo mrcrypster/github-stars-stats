@@ -1,6 +1,6 @@
 # Alexander-Miller/cfrs - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 51 | 4 | 
 | 2023-01-08 | 51 | 4 | 
 | 2023-01-07 | 50 | 4 | 
 | 2023-01-06 | 50 | 4 | 

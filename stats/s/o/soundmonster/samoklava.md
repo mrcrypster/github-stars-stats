@@ -1,10 +1,10 @@
 # soundmonster/samoklava - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 134
 
-★ Stars: 214
+★ Stars: 216
 
 [Open repository](https://github.com/soundmonster/samoklava)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 216 | 134 | 
 | 2023-01-08 | 214 | 134 | 
 | 2023-01-07 | 213 | 134 | 
 | 2023-01-06 | 213 | 134 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 209 | 131 | 
 | 2022-12-13 | 208 | 130 | 
 | 2022-12-12 | 208 | 130 | 
-| 2022-12-10 | 208 | 129 | 
 

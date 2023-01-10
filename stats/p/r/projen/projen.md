@@ -1,10 +1,10 @@
 # projen/projen - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 280
 
-★ Stars: 1827
+★ Stars: 1828
 
 [Open repository](https://github.com/projen/projen)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 1828 | 280 | 
 | 2023-01-08 | 1827 | 280 | 
 | 2023-01-07 | 1826 | 280 | 
 | 2023-01-06 | 1823 | 280 | 

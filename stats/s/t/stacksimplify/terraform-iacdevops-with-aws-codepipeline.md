@@ -1,6 +1,6 @@
 # stacksimplify/terraform-iacdevops-with-aws-codepipeline - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 721
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 77 | 721 | 
 | 2023-01-08 | 77 | 721 | 
 | 2023-01-07 | 77 | 721 | 
 | 2023-01-06 | 77 | 719 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 74 | 701 | 
 | 2022-12-13 | 74 | 700 | 
 | 2022-12-12 | 75 | 699 | 
-| 2022-12-10 | 75 | 697 | 
 

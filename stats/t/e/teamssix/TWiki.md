@@ -1,6 +1,6 @@
 # teamssix/TWiki - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 368 | 43 | 
 | 2023-01-08 | 368 | 43 | 
 | 2023-01-07 | 366 | 43 | 
 | 2023-01-06 | 363 | 43 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 347 | 41 | 
 | 2022-12-13 | 347 | 41 | 
 | 2022-12-11 | 347 | 41 | 
-| 2022-12-10 | 347 | 41 | 
 

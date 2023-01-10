@@ -1,6 +1,6 @@
 # themanoftalent/c_languageBanu - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 22 | 46 | 
 | 2023-01-08 | 22 | 46 | 
 | 2023-01-07 | 22 | 46 | 
 | 2023-01-06 | 22 | 45 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 21 | 43 | 
 | 2022-12-13 | 21 | 43 | 
 | 2022-12-11 | 19 | 43 | 
-| 2022-12-10 | 19 | 43 | 
 

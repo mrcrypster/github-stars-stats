@@ -1,6 +1,6 @@
 # vital987/vubuntu - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 150
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 46 | 150 | 
 | 2023-01-08 | 46 | 150 | 
 | 2023-01-07 | 46 | 150 | 
 | 2023-01-06 | 46 | 150 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 45 | 150 | 
 | 2022-12-13 | 45 | 150 | 
 | 2022-12-12 | 45 | 150 | 
-| 2022-12-10 | 45 | 150 | 
 

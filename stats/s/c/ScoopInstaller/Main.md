@@ -1,6 +1,6 @@
 # ScoopInstaller/Main - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 689
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 1064 | 689 | 
 | 2023-01-08 | 1064 | 689 | 
 | 2023-01-07 | 1062 | 688 | 
 | 2023-01-06 | 1061 | 690 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 1044 | 675 | 
 | 2022-12-12 | 1042 | 676 | 
 | 2022-12-11 | 1041 | 675 | 
-| 2022-12-10 | 1041 | 675 | 
 

@@ -1,8 +1,8 @@
 # SYSU-SCC/sysu-thesis - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 53
+☋ Forks: 54
 
 ★ Stars: 294
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 294 | 54 | 
 | 2023-01-09 | 294 | 53 | 
 | 2023-01-07 | 294 | 53 | 
 | 2023-01-06 | 293 | 53 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 287 | 52 | 
 | 2022-12-12 | 287 | 52 | 
 | 2022-12-11 | 286 | 52 | 
-| 2022-12-10 | 285 | 52 | 
 

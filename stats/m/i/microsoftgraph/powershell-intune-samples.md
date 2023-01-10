@@ -1,10 +1,10 @@
 # microsoftgraph/powershell-intune-samples - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 534
 
-★ Stars: 946
+★ Stars: 947
 
 [Open repository](https://github.com/microsoftgraph/powershell-intune-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 947 | 534 | 
 | 2023-01-08 | 946 | 534 | 
 | 2023-01-07 | 946 | 534 | 
 | 2023-01-06 | 946 | 534 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 933 | 527 | 
 | 2022-12-13 | 933 | 527 | 
 | 2022-12-12 | 931 | 526 | 
-| 2022-12-10 | 931 | 526 | 
 

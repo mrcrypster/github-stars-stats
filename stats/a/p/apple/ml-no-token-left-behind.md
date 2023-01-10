@@ -1,6 +1,6 @@
 # apple/ml-no-token-left-behind - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 126 | 13 | 
 | 2023-01-08 | 126 | 13 | 
 | 2023-01-07 | 126 | 13 | 
 | 2023-01-06 | 126 | 12 | 

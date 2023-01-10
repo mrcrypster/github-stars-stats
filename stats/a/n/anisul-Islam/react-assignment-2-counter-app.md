@@ -1,10 +1,10 @@
 # anisul-Islam/react-assignment-2-counter-app - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 94
 
-★ Stars: 68
+★ Stars: 69
 
 [Open repository](https://github.com/anisul-Islam/react-assignment-2-counter-app)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 69 | 94 | 
 | 2023-01-08 | 68 | 94 | 
 | 2023-01-07 | 68 | 94 | 
 | 2023-01-06 | 68 | 94 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 61 | 87 | 
 | 2022-12-12 | 61 | 87 | 
 | 2022-12-11 | 61 | 87 | 
-| 2022-12-10 | 60 | 87 | 
 

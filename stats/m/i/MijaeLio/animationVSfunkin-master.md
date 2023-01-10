@@ -1,6 +1,6 @@
 # MijaeLio/animationVSfunkin-master - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 3 | 9 | 
 | 2023-01-08 | 3 | 9 | 
 | 2023-01-07 | 3 | 8 | 
 | 2023-01-06 | 5 | 8 | 

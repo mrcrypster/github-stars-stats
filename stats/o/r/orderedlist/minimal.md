@@ -1,10 +1,10 @@
 # orderedlist/minimal - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 703
 
-★ Stars: 2069
+★ Stars: 2070
 
 [Open repository](https://github.com/orderedlist/minimal)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 2070 | 703 | 
 | 2023-01-08 | 2069 | 703 | 
 | 2023-01-07 | 2065 | 703 | 
 | 2023-01-06 | 2064 | 703 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 2063 | 700 | 
 | 2022-12-13 | 2063 | 700 | 
 | 2022-12-11 | 2063 | 699 | 
-| 2022-12-10 | 2062 | 699 | 
 

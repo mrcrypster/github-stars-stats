@@ -1,6 +1,6 @@
 # digital-asset/ghc-lib - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 150 | 11 | 
 | 2023-01-08 | 150 | 11 | 
 | 2023-01-07 | 150 | 11 | 
 | 2023-01-06 | 150 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 150 | 11 | 
 | 2022-12-13 | 150 | 11 | 
 | 2022-12-12 | 150 | 11 | 
-| 2022-12-10 | 150 | 11 | 
 

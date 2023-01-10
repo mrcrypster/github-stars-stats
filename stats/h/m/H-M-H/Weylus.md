@@ -1,10 +1,10 @@
 # H-M-H/Weylus - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 155
+☋ Forks: 156
 
-★ Stars: 4327
+★ Stars: 4335
 
 [Open repository](https://github.com/H-M-H/Weylus)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 4335 | 156 | 
 | 2023-01-08 | 4327 | 155 | 
 | 2023-01-07 | 4321 | 154 | 
 | 2023-01-06 | 4312 | 154 | 

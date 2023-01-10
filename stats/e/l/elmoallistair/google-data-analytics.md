@@ -1,10 +1,10 @@
 # elmoallistair/google-data-analytics - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 180
+☋ Forks: 181
 
-★ Stars: 327
+★ Stars: 329
 
 [Open repository](https://github.com/elmoallistair/google-data-analytics)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 329 | 181 | 
 | 2023-01-08 | 327 | 180 | 
 | 2023-01-07 | 327 | 180 | 
 | 2023-01-06 | 327 | 179 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 306 | 174 | 
 | 2022-12-12 | 306 | 175 | 
 | 2022-12-11 | 305 | 172 | 
-| 2022-12-10 | 305 | 171 | 
 

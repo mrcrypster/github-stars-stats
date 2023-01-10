@@ -1,6 +1,6 @@
 # thegeps/Freedom-Fighter - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 8 | - | 
 | 2023-01-08 | 8 | - | 
 | 2023-01-07 | 8 | - | 
 | 2023-01-06 | 8 | - | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 8 | - | 
 | 2022-12-13 | 8 | - | 
 | 2022-12-11 | 8 | - | 
-| 2022-12-10 | 8 | - | 
 

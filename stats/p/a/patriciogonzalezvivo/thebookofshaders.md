@@ -1,8 +1,8 @@
 # patriciogonzalezvivo/thebookofshaders - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 586
+☋ Forks: 588
 
 ★ Stars: 4865
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 4865 | 588 | 
 | 2023-01-08 | 4865 | 586 | 
 | 2023-01-07 | 4865 | 586 | 
 | 2023-01-06 | 4863 | 585 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 4829 | 581 | 
 | 2022-12-12 | 4828 | 581 | 
 | 2022-12-11 | 4825 | 581 | 
-| 2022-12-10 | 4823 | 581 | 
 

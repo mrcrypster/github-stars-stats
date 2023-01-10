@@ -1,6 +1,6 @@
 # ekknod/MouseClassServiceCallbackMeme - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 25 | 11 | 
 | 2023-01-09 | 25 | 11 | 
 | 2023-01-08 | 25 | 11 | 
 | 2023-01-06 | 25 | 11 | 

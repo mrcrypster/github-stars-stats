@@ -1,10 +1,10 @@
 # meow-edit/meow - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 92
 
-★ Stars: 689
+★ Stars: 691
 
 [Open repository](https://github.com/meow-edit/meow)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 691 | 92 | 
 | 2023-01-08 | 689 | 92 | 
 | 2023-01-07 | 688 | 92 | 
 | 2023-01-06 | 688 | 92 | 

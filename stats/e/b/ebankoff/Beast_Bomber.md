@@ -1,10 +1,10 @@
 # ebankoff/Beast_Bomber - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 176
+☋ Forks: 178
 
-★ Stars: 782
+★ Stars: 783
 
 [Open repository](https://github.com/ebankoff/Beast_Bomber)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 783 | 178 | 
 | 2023-01-08 | 782 | 176 | 
 | 2023-01-07 | 783 | 176 | 
 | 2023-01-06 | 780 | 174 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 762 | 170 | 
 | 2022-12-13 | 761 | 170 | 
 | 2022-12-11 | 760 | 170 | 
-| 2022-12-10 | 760 | 170 | 
 

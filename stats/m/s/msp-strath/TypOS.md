@@ -1,10 +1,10 @@
 # msp-strath/TypOS - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 1
 
-★ Stars: 92
+★ Stars: 93
 
 [Open repository](https://github.com/msp-strath/TypOS)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 93 | 1 | 
 | 2023-01-08 | 92 | 1 | 
 | 2023-01-07 | 92 | 1 | 
 | 2023-01-06 | 92 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 91 | 1 | 
 | 2022-12-13 | 91 | 1 | 
 | 2022-12-12 | 91 | 1 | 
-| 2022-12-10 | 91 | 1 | 
 

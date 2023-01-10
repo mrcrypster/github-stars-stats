@@ -1,10 +1,10 @@
 # peng-zhihui/ElectronBot - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 1450
+☋ Forks: 1453
 
-★ Stars: 5919
+★ Stars: 5922
 
 [Open repository](https://github.com/peng-zhihui/ElectronBot)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 5922 | 1453 | 
 | 2023-01-08 | 5919 | 1450 | 
 | 2023-01-07 | 5916 | 1449 | 
 | 2023-01-06 | 5914 | 1448 | 

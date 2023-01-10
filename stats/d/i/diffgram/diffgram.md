@@ -1,10 +1,10 @@
 # diffgram/diffgram - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 98
 
-★ Stars: 1605
+★ Stars: 1606
 
 [Open repository](https://github.com/diffgram/diffgram)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 1606 | 98 | 
 | 2023-01-08 | 1605 | 98 | 
 | 2023-01-07 | 1604 | 98 | 
 | 2023-01-06 | 1601 | 98 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 1596 | 98 | 
 | 2022-12-13 | 1591 | 98 | 
 | 2022-12-11 | 1588 | 98 | 
-| 2022-12-10 | 1587 | 98 | 
 

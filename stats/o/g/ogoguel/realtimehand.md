@@ -1,10 +1,10 @@
 # ogoguel/realtimehand - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 33
 
-★ Stars: 240
+★ Stars: 241
 
 [Open repository](https://github.com/ogoguel/realtimehand)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 241 | 33 | 
 | 2023-01-08 | 240 | 33 | 
 | 2023-01-07 | 240 | 33 | 
 | 2023-01-06 | 240 | 33 | 

@@ -1,10 +1,10 @@
 # rasbt/python-machine-learning-book - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 4422
+☋ Forks: 4423
 
-★ Stars: 11745
+★ Stars: 11746
 
 [Open repository](https://github.com/rasbt/python-machine-learning-book)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 11746 | 4423 | 
 | 2023-01-08 | 11745 | 4422 | 
 | 2023-01-07 | 11745 | 4422 | 
 | 2023-01-06 | 11744 | 4422 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 11734 | 4427 | 
 | 2022-12-12 | 11733 | 4426 | 
 | 2022-12-11 | 11730 | 4427 | 
-| 2022-12-10 | 11729 | 4427 | 
 

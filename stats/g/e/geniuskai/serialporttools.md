@@ -1,10 +1,10 @@
 # geniuskai/serialporttools - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 13
 
-★ Stars: 30
+★ Stars: 32
 
 [Open repository](https://github.com/geniuskai/serialporttools)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 32 | 13 | 
 | 2023-01-08 | 30 | 13 | 
 | 2023-01-07 | 30 | 13 | 
 | 2023-01-06 | 30 | 13 | 

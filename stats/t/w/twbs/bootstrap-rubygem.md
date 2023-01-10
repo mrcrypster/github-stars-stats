@@ -1,10 +1,10 @@
 # twbs/bootstrap-rubygem - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 438
 
-★ Stars: 1929
+★ Stars: 1930
 
 [Open repository](https://github.com/twbs/bootstrap-rubygem)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 1930 | 438 | 
 | 2023-01-08 | 1929 | 438 | 
 | 2023-01-07 | 1930 | 438 | 
 | 2023-01-06 | 1930 | 439 | 

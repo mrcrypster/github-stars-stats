@@ -1,10 +1,10 @@
 # AlmasB/FXGL - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 393
 
-★ Stars: 2980
+★ Stars: 2982
 
 [Open repository](https://github.com/AlmasB/FXGL)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 2982 | 393 | 
 | 2023-01-08 | 2980 | 393 | 
 | 2023-01-07 | 2980 | 393 | 
 | 2023-01-06 | 2978 | 393 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 2943 | 390 | 
 | 2022-12-12 | 2941 | 390 | 
 | 2022-12-11 | 2941 | 389 | 
-| 2022-12-10 | 2938 | 389 | 
 

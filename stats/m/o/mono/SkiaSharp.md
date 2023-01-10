@@ -1,10 +1,10 @@
 # mono/SkiaSharp - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 456
+☋ Forks: 457
 
-★ Stars: 3174
+★ Stars: 3175
 
 [Open repository](https://github.com/mono/SkiaSharp)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 3175 | 457 | 
 | 2023-01-08 | 3174 | 456 | 
 | 2023-01-07 | 3173 | 456 | 
 | 2023-01-06 | 3173 | 456 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 3135 | 455 | 
 | 2022-12-13 | 3130 | 455 | 
 | 2022-12-12 | 3128 | 454 | 
-| 2022-12-11 | 3129 | 454 | 
 

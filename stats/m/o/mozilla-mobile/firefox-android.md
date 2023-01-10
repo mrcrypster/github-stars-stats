@@ -1,10 +1,10 @@
 # mozilla-mobile/firefox-android - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 64
 
-★ Stars: 100
+★ Stars: 101
 
 [Open repository](https://github.com/mozilla-mobile/firefox-android)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 101 | 64 | 
 | 2023-01-08 | 100 | 64 | 
 | 2023-01-07 | 98 | 64 | 
 | 2023-01-06 | 95 | 64 | 

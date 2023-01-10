@@ -1,6 +1,6 @@
 # Foundry376/Mailspring-Theme-Starter - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 310
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 204 | 310 | 
 | 2023-01-08 | 204 | 310 | 
 | 2023-01-07 | 204 | 310 | 
 | 2023-01-06 | 204 | 310 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 205 | 310 | 
 | 2022-12-13 | 205 | 310 | 
 | 2022-12-12 | 205 | 310 | 
-| 2022-12-10 | 205 | 310 | 
 

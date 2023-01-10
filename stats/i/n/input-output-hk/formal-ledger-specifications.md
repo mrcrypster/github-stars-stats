@@ -1,10 +1,10 @@
 # input-output-hk/formal-ledger-specifications - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 10
 
-☋ Forks: 4
+☋ Forks: 5
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/input-output-hk/formal-ledger-specifications)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 8 | 5 | 
 | 2023-01-08 | 7 | 4 | 
 | 2023-01-07 | 7 | 4 | 
 | 2023-01-06 | 7 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 7 | 4 | 
 | 2022-12-12 | 7 | 4 | 
 | 2022-12-11 | 7 | 4 | 
-| 2022-12-10 | 7 | 4 | 
 

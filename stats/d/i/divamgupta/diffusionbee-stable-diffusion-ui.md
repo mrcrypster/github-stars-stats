@@ -1,10 +1,10 @@
 # divamgupta/diffusionbee-stable-diffusion-ui - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 287
 
-★ Stars: 7365
+★ Stars: 7382
 
 [Open repository](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 7382 | 287 | 
 | 2023-01-08 | 7365 | 287 | 
 | 2023-01-07 | 7346 | 286 | 
 | 2023-01-06 | 7335 | 287 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 6927 | 269 | 
 | 2022-12-13 | 6897 | 266 | 
 | 2022-12-11 | 6870 | 265 | 
-| 2022-12-10 | 6843 | 264 | 
 

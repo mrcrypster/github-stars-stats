@@ -1,6 +1,6 @@
 # Code-Pop/Vue-3-Forms - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 166
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 86 | 166 | 
 | 2023-01-08 | 86 | 166 | 
 | 2023-01-07 | 86 | 166 | 
 | 2023-01-06 | 86 | 166 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 86 | 164 | 
 | 2022-12-13 | 86 | 165 | 
 | 2022-12-12 | 86 | 165 | 
-| 2022-12-10 | 85 | 164 | 
 

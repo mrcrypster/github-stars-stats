@@ -1,10 +1,10 @@
 # uihaven/ui-buttons - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 206
+☋ Forks: 207
 
-★ Stars: 2709
+★ Stars: 2719
 
 [Open repository](https://github.com/uihaven/ui-buttons)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 2719 | 207 | 
 | 2023-01-08 | 2709 | 206 | 
 | 2023-01-07 | 2700 | 206 | 
 | 2023-01-06 | 2681 | 199 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 2573 | 189 | 
 | 2022-12-13 | 2573 | 188 | 
 | 2022-12-12 | 2565 | 188 | 
-| 2022-12-10 | 2565 | 188 | 
 

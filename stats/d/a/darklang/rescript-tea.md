@@ -1,6 +1,6 @@
 # darklang/rescript-tea - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 84 | 6 | 
 | 2023-01-08 | 84 | 6 | 
 | 2023-01-07 | 83 | 6 | 
 | 2023-01-06 | 83 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 76 | 6 | 
 | 2022-12-13 | 76 | 6 | 
 | 2022-12-12 | 76 | 6 | 
-| 2022-12-11 | 76 | 6 | 
 

@@ -1,10 +1,10 @@
 # LeelaChessZero/lc0 - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 429
+☋ Forks: 430
 
-★ Stars: 1984
+★ Stars: 1983
 
 [Open repository](https://github.com/LeelaChessZero/lc0)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 1983 | 430 | 
 | 2023-01-08 | 1984 | 429 | 
 | 2023-01-07 | 1982 | 428 | 
 | 2023-01-06 | 1982 | 428 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 1963 | 424 | 
 | 2022-12-12 | 1962 | 424 | 
 | 2022-12-11 | 1962 | 424 | 
-| 2022-12-10 | 1961 | 423 | 
 

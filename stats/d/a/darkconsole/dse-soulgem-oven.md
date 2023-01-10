@@ -1,10 +1,10 @@
 # darkconsole/dse-soulgem-oven - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 5
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/darkconsole/dse-soulgem-oven)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 27 | 5 | 
+| 2023-01-09 | 27 | 5 | 
 | 2023-01-08 | 26 | 5 | 
 | 2023-01-07 | 26 | 5 | 
 | 2023-01-06 | 26 | 5 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 25 | 5 | 
 | 2022-12-12 | 25 | 5 | 
 | 2022-12-11 | 25 | 5 | 
-| 2022-12-10 | 25 | 5 | 
 

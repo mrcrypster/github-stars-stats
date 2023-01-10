@@ -1,8 +1,8 @@
 # geohot/tinyxxx - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 7
+☋ Forks: 6
 
 ★ Stars: 49
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 49 | 6 | 
 | 2023-01-08 | 49 | 7 | 
 | 2023-01-07 | 48 | 7 | 
 | 2023-01-06 | 48 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 47 | 7 | 
 | 2022-12-12 | 47 | 7 | 
 | 2022-12-11 | 47 | 7 | 
-| 2022-12-10 | 47 | 7 | 
 

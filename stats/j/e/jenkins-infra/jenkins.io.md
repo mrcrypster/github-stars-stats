@@ -1,6 +1,6 @@
 # jenkins-infra/jenkins.io - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 978
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 254 | 978 | 
 | 2023-01-08 | 254 | 978 | 
 | 2023-01-07 | 253 | 978 | 
 | 2023-01-06 | 253 | 977 | 

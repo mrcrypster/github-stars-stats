@@ -1,6 +1,6 @@
 # rileytestut/SNESDeltaCore - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 6
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 21 | 6 | 
+| 2023-01-09 | 21 | 6 | 
 | 2023-01-08 | 21 | 6 | 
 | 2023-01-07 | 21 | 6 | 
 | 2023-01-06 | 21 | 6 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 21 | 6 | 
 | 2022-12-13 | 21 | 6 | 
 | 2022-12-11 | 21 | 6 | 
-| 2022-12-10 | 21 | 6 | 
 

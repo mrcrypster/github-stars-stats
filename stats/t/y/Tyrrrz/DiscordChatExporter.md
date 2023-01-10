@@ -1,10 +1,10 @@
 # Tyrrrz/DiscordChatExporter - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 482
+☋ Forks: 483
 
-★ Stars: 4705
+★ Stars: 4711
 
 [Open repository](https://github.com/Tyrrrz/DiscordChatExporter)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 4711 | 483 | 
 | 2023-01-08 | 4705 | 482 | 
 | 2023-01-07 | 4698 | 481 | 
 | 2023-01-06 | 4697 | 482 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 4616 | 473 | 
 | 2022-12-13 | 4610 | 473 | 
 | 2022-12-12 | 4605 | 474 | 
-| 2022-12-10 | 4600 | 474 | 
 

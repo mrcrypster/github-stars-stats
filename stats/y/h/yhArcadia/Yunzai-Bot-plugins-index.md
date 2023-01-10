@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 09
 
 ☋ Forks: 29
 
-★ Stars: 329
+★ Stars: 331
 
 [Open repository](https://github.com/yhArcadia/Yunzai-Bot-plugins-index)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-09 | 329 | 29 | 
+| 2023-01-09 | 331 | 29 | 
 | 2023-01-08 | 329 | 29 | 
 

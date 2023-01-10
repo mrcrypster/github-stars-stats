@@ -1,10 +1,10 @@
 # GrowingGit/GitHub-Chinese-Top-Charts - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 8275
+☋ Forks: 8290
 
-★ Stars: 56745
+★ Stars: 56832
 
 [Open repository](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 56832 | 8290 | 
 | 2023-01-08 | 56745 | 8275 | 
 | 2023-01-07 | 56685 | 8261 | 
 | 2023-01-06 | 56642 | 8252 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 52074 | 7523 | 
 | 2022-12-13 | 52058 | 7519 | 
 | 2022-12-11 | 52028 | 7515 | 
-| 2022-12-10 | 52010 | 7514 | 
 

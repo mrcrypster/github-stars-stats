@@ -1,10 +1,10 @@
 # alan2207/bulletproof-react - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 1393
+☋ Forks: 1400
 
-★ Stars: 16112
+★ Stars: 16150
 
 [Open repository](https://github.com/alan2207/bulletproof-react)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 16150 | 1400 | 
 | 2023-01-08 | 16112 | 1393 | 
 | 2023-01-07 | 16101 | 1393 | 
 | 2023-01-06 | 16068 | 1390 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 15545 | 1334 | 
 | 2022-12-12 | 15532 | 1330 | 
 | 2022-12-11 | 15520 | 1325 | 
-| 2022-12-10 | 15511 | 1323 | 
 

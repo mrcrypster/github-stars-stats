@@ -1,6 +1,6 @@
 # DiscoDurodeRoer/Database_pokemon - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 8 | 24 | 
 | 2023-01-08 | 8 | 24 | 
 | 2023-01-07 | 8 | 24 | 
 | 2023-01-06 | 8 | 24 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 8 | 25 | 
 | 2022-12-13 | 8 | 25 | 
 | 2022-12-12 | 8 | 25 | 
-| 2022-12-10 | 8 | 25 | 
 

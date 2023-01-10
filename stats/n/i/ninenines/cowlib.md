@@ -1,10 +1,10 @@
 # ninenines/cowlib - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 168
 
-★ Stars: 252
+★ Stars: 253
 
 [Open repository](https://github.com/ninenines/cowlib)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 253 | 168 | 
 | 2023-01-08 | 252 | 168 | 
 | 2023-01-07 | 252 | 168 | 
 | 2023-01-06 | 252 | 168 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 250 | 168 | 
 | 2022-12-12 | 250 | 168 | 
 | 2022-12-11 | 250 | 168 | 
-| 2022-12-10 | 250 | 168 | 
 

@@ -1,10 +1,10 @@
 # dromara/lamp-cloud - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 1536
 
-★ Stars: 4696
+★ Stars: 4699
 
 [Open repository](https://github.com/dromara/lamp-cloud)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 4699 | 1536 | 
 | 2023-01-08 | 4696 | 1536 | 
 | 2023-01-07 | 4695 | 1536 | 
 | 2023-01-06 | 4694 | 1535 | 

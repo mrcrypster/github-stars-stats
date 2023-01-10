@@ -1,10 +1,10 @@
 # TheHive-Project/TheHive - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 542
 
-★ Stars: 2753
+★ Stars: 2752
 
 [Open repository](https://github.com/TheHive-Project/TheHive)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 2752 | 542 | 
 | 2023-01-08 | 2753 | 542 | 
 | 2023-01-07 | 2751 | 542 | 
 | 2023-01-06 | 2750 | 542 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 2732 | 534 | 
 | 2022-12-12 | 2732 | 533 | 
 | 2022-12-11 | 2732 | 533 | 
-| 2022-12-10 | 2732 | 533 | 
 

@@ -1,10 +1,10 @@
 # ed-roh/mern-social-media - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 207
+☋ Forks: 212
 
-★ Stars: 195
+★ Stars: 198
 
 [Open repository](https://github.com/ed-roh/mern-social-media)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 198 | 212 | 
 | 2023-01-08 | 195 | 207 | 
 | 2023-01-07 | 189 | 202 | 
 | 2023-01-06 | 188 | 197 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 114 | 102 | 
 | 2022-12-13 | 111 | 99 | 
 | 2022-12-12 | 110 | 97 | 
-| 2022-12-10 | 107 | 94 | 
 

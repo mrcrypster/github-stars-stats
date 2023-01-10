@@ -1,6 +1,6 @@
 # openhwgroup/cvfpu - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 76
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 232 | 76 | 
 | 2023-01-08 | 232 | 76 | 
 | 2023-01-07 | 232 | 76 | 
 | 2023-01-06 | 232 | 76 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 232 | 77 | 
 | 2022-12-12 | 230 | 77 | 
 | 2022-12-11 | 230 | 77 | 
-| 2022-12-10 | 229 | 77 | 
 

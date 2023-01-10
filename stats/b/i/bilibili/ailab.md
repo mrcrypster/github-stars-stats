@@ -1,10 +1,10 @@
 # bilibili/ailab - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 516
+☋ Forks: 515
 
-★ Stars: 4744
+★ Stars: 4747
 
 [Open repository](https://github.com/bilibili/ailab)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 4747 | 515 | 
 | 2023-01-08 | 4744 | 516 | 
 | 2023-01-07 | 4740 | 516 | 
 | 2023-01-06 | 4739 | 516 | 

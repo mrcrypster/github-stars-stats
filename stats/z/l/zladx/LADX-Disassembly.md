@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 09
 
 ☋ Forks: 55
 
-★ Stars: 664
+★ Stars: 670
 
 [Open repository](https://github.com/zladx/LADX-Disassembly)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-09 | 664 | 55 | 
+| 2023-01-09 | 670 | 55 | 
 | 2023-01-08 | 663 | 55 | 
 | 2023-01-07 | 643 | 55 | 
 | 2023-01-06 | 523 | 54 | 

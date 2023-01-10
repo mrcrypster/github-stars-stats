@@ -1,10 +1,10 @@
 # exceljs/exceljs - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 1402
+☋ Forks: 1401
 
-★ Stars: 10535
+★ Stars: 10539
 
 [Open repository](https://github.com/exceljs/exceljs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 10539 | 1401 | 
 | 2023-01-08 | 10535 | 1402 | 
 | 2023-01-07 | 10533 | 1402 | 
 | 2023-01-06 | 10532 | 1402 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 10448 | 1380 | 
 | 2022-12-13 | 10445 | 1379 | 
 | 2022-12-12 | 10441 | 1378 | 
-| 2022-12-10 | 10436 | 1377 | 
 

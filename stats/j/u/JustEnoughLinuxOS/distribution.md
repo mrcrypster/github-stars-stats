@@ -1,6 +1,6 @@
 # JustEnoughLinuxOS/distribution - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 296 | 75 | 
 | 2023-01-08 | 296 | 75 | 
 | 2023-01-07 | 294 | 75 | 
 | 2023-01-06 | 296 | 76 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 270 | 60 | 
 | 2022-12-12 | 270 | 60 | 
 | 2022-12-11 | 268 | 58 | 
-| 2022-12-10 | 266 | 57 | 
 

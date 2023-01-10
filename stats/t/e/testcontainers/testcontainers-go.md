@@ -1,10 +1,10 @@
 # testcontainers/testcontainers-go - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 252
 
-★ Stars: 1822
+★ Stars: 1824
 
 [Open repository](https://github.com/testcontainers/testcontainers-go)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 1824 | 252 | 
 | 2023-01-08 | 1822 | 252 | 
 | 2023-01-07 | 1819 | 252 | 
 | 2023-01-06 | 1817 | 252 | 

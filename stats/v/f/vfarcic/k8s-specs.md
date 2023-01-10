@@ -1,6 +1,6 @@
 # vfarcic/k8s-specs - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 218
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 147 | 218 | 
 | 2023-01-08 | 147 | 218 | 
 | 2023-01-07 | 147 | 217 | 
 | 2023-01-06 | 147 | 217 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 145 | 217 | 
 | 2022-12-13 | 145 | 217 | 
 | 2022-12-11 | 145 | 217 | 
-| 2022-12-10 | 145 | 217 | 
 

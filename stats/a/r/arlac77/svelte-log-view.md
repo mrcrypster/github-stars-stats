@@ -1,6 +1,6 @@
 # arlac77/svelte-log-view - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 4 | 1 | 
 | 2023-01-08 | 4 | 1 | 
 | 2023-01-07 | 4 | 1 | 
 | 2023-01-06 | 4 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 5 | 1 | 
 | 2022-12-13 | 5 | 1 | 
 | 2022-12-11 | 5 | 1 | 
-| 2022-12-10 | 5 | 1 | 
 

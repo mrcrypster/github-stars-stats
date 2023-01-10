@@ -1,6 +1,6 @@
 # znah/deepdream_c - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 170 | 21 | 
 | 2023-01-08 | 170 | 21 | 
 | 2023-01-07 | 170 | 21 | 
 | 2023-01-06 | 169 | 21 | 

@@ -1,10 +1,10 @@
 # AstraaDev/Discord-All-Tools-In-One - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 181
 
-★ Stars: 489
+★ Stars: 490
 
 [Open repository](https://github.com/AstraaDev/Discord-All-Tools-In-One)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 490 | 181 | 
 | 2023-01-08 | 489 | 181 | 
 | 2023-01-07 | 489 | 181 | 
 | 2023-01-06 | 488 | 181 | 

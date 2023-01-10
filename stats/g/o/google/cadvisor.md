@@ -1,10 +1,10 @@
 # google/cadvisor - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 2165
 
-★ Stars: 14435
+★ Stars: 14440
 
 [Open repository](https://github.com/google/cadvisor)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 14440 | 2165 | 
 | 2023-01-08 | 14435 | 2165 | 
 | 2023-01-07 | 14427 | 2163 | 
 | 2023-01-06 | 14423 | 2163 | 

@@ -1,6 +1,6 @@
 # mttaggart/OffensiveNotion - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 95
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 858 | 95 | 
 | 2023-01-08 | 858 | 95 | 
 | 2023-01-07 | 857 | 95 | 
 | 2023-01-06 | 856 | 95 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-15 | 849 | 94 | 
 | 2022-12-13 | 848 | 93 | 
 | 2022-12-12 | 846 | 93 | 
-| 2022-12-10 | 844 | 93 | 
 

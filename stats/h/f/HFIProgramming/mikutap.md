@@ -1,10 +1,10 @@
 # HFIProgramming/mikutap - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 467
 
-★ Stars: 1509
+★ Stars: 1508
 
 [Open repository](https://github.com/HFIProgramming/mikutap)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 1508 | 467 | 
 | 2023-01-08 | 1509 | 467 | 
 | 2023-01-07 | 1508 | 467 | 
 | 2023-01-06 | 1508 | 467 | 

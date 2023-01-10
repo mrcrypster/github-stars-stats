@@ -1,6 +1,6 @@
 # geekyouth/SZT-bigdata - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 535
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 1725 | 535 | 
 | 2023-01-08 | 1725 | 535 | 
 | 2023-01-07 | 1724 | 535 | 
 | 2023-01-06 | 1723 | 535 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 1707 | 530 | 
 | 2022-12-12 | 1707 | 530 | 
 | 2022-12-11 | 1704 | 530 | 
-| 2022-12-10 | 1704 | 530 | 
 

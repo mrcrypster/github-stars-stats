@@ -1,10 +1,10 @@
 # ipfs/go-ipfs - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 2882
+☋ Forks: 2883
 
-★ Stars: 14607
+★ Stars: 14615
 
 [Open repository](https://github.com/ipfs/go-ipfs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 14615 | 2883 | 
 | 2023-01-08 | 14607 | 2882 | 
 | 2023-01-07 | 14600 | 2882 | 
 | 2023-01-06 | 14597 | 2880 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 14536 | 2858 | 
 | 2022-12-13 | 14527 | 2858 | 
 | 2022-12-12 | 14520 | 2853 | 
-| 2022-12-10 | 14515 | 2854 | 
 

@@ -1,10 +1,10 @@
 # polterguy/magic - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 94
 
-★ Stars: 697
+★ Stars: 698
 
 [Open repository](https://github.com/polterguy/magic)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 698 | 94 | 
 | 2023-01-08 | 697 | 94 | 
 | 2023-01-07 | 696 | 94 | 
 | 2023-01-06 | 695 | 94 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 686 | 93 | 
 | 2022-12-13 | 686 | 93 | 
 | 2022-12-11 | 686 | 93 | 
-| 2022-12-10 | 686 | 93 | 
 

@@ -1,6 +1,6 @@
 # pcsanwald/kaggle-titanic - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 130
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 12 | 130 | 
 | 2023-01-08 | 12 | 130 | 
 | 2023-01-07 | 12 | 130 | 
 | 2023-01-06 | 12 | 130 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 12 | 128 | 
 | 2022-12-13 | 12 | 128 | 
 | 2022-12-12 | 12 | 127 | 
-| 2022-12-11 | 12 | 127 | 
 

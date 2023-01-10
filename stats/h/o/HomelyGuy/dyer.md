@@ -1,6 +1,6 @@
 # HomelyGuy/dyer - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 124 | 12 | 
 | 2023-01-08 | 124 | 12 | 
 | 2023-01-07 | 124 | 12 | 
 | 2023-01-06 | 124 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 120 | 12 | 
 | 2022-12-12 | 120 | 12 | 
 | 2022-12-11 | 119 | 12 | 
-| 2022-12-10 | 119 | 12 | 
 

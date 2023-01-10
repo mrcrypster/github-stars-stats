@@ -1,10 +1,10 @@
 # angristan/docker-pleroma - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 65
 
-★ Stars: 294
+★ Stars: 295
 
 [Open repository](https://github.com/angristan/docker-pleroma)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 295 | 65 | 
 | 2023-01-08 | 294 | 65 | 
 | 2023-01-07 | 292 | 65 | 
 | 2023-01-06 | 291 | 64 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 284 | 66 | 
 | 2022-12-13 | 284 | 65 | 
 | 2022-12-11 | 284 | 64 | 
-| 2022-12-10 | 283 | 64 | 
 

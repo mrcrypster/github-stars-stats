@@ -1,10 +1,10 @@
 # fplll/fpylll - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 46
 
-★ Stars: 87
+★ Stars: 88
 
 [Open repository](https://github.com/fplll/fpylll)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 88 | 46 | 
 | 2023-01-08 | 87 | 46 | 
 | 2023-01-07 | 87 | 46 | 
 | 2023-01-06 | 87 | 46 | 

@@ -1,10 +1,10 @@
 # shelcia/dynamic-portfolio - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 22
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/shelcia/dynamic-portfolio)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 11 | 22 | 
 | 2023-01-08 | 10 | 22 | 
 | 2023-01-07 | 10 | 22 | 
 | 2023-01-06 | 10 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 10 | 20 | 
 | 2022-12-12 | 9 | 20 | 
 | 2022-12-11 | 9 | 20 | 
-| 2022-12-10 | 8 | 18 | 
 

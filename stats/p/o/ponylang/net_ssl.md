@@ -1,6 +1,6 @@
 # ponylang/net_ssl - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 6
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 4 | 6 | 
+| 2023-01-09 | 4 | 6 | 
 | 2023-01-08 | 4 | 6 | 
 | 2023-01-07 | 4 | 6 | 
 | 2023-01-06 | 4 | 6 | 

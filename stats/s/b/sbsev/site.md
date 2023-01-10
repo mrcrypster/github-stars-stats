@@ -1,6 +1,6 @@
 # sbsev/site - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 11 | 2 | 
 | 2023-01-08 | 11 | 2 | 
 | 2023-01-07 | 11 | 2 | 
 | 2023-01-06 | 11 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 12 | 2 | 
 | 2022-12-12 | 12 | 2 | 
 | 2022-12-11 | 12 | 2 | 
-| 2022-12-10 | 12 | 2 | 
 

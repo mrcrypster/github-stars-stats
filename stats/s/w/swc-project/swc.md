@@ -1,10 +1,10 @@
 # swc-project/swc - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 864
 
-★ Stars: 25462
+★ Stars: 25484
 
 [Open repository](https://github.com/swc-project/swc)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 25484 | 864 | 
 | 2023-01-08 | 25462 | 864 | 
 | 2023-01-07 | 25453 | 863 | 
 | 2023-01-06 | 25447 | 862 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 25183 | 851 | 
 | 2022-12-13 | 25149 | 851 | 
 | 2022-12-12 | 25110 | 851 | 
-| 2022-12-11 | 25092 | 851 | 
 

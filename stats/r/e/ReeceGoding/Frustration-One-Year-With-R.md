@@ -1,10 +1,10 @@
 # ReeceGoding/Frustration-One-Year-With-R - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 33
 
-★ Stars: 577
+★ Stars: 578
 
 [Open repository](https://github.com/ReeceGoding/Frustration-One-Year-With-R)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 578 | 33 | 
 | 2023-01-08 | 577 | 33 | 
 | 2023-01-07 | 577 | 33 | 
 | 2023-01-06 | 577 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 578 | 33 | 
 | 2022-12-12 | 578 | 33 | 
 | 2022-12-11 | 578 | 33 | 
-| 2022-12-10 | 578 | 33 | 
 

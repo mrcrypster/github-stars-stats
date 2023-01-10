@@ -1,10 +1,10 @@
 # focus-creative-games/luban - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 273
+☋ Forks: 274
 
-★ Stars: 1660
+★ Stars: 1669
 
 [Open repository](https://github.com/focus-creative-games/luban)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 1669 | 274 | 
 | 2023-01-08 | 1660 | 273 | 
 | 2023-01-07 | 1659 | 273 | 
 | 2023-01-06 | 1656 | 273 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 1608 | 265 | 
 | 2022-12-13 | 1606 | 265 | 
 | 2022-12-12 | 1601 | 263 | 
-| 2022-12-10 | 1600 | 263 | 
 

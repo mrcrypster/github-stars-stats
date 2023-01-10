@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 09
 
 ☋ Forks: 114
 
-★ Stars: 2023
+★ Stars: 2026
 
 [Open repository](https://github.com/Kareadita/Kavita)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-09 | 2023 | 114 | 
+| 2023-01-09 | 2026 | 114 | 
 | 2023-01-08 | 2023 | 114 | 
 | 2023-01-07 | 2011 | 114 | 
 | 2023-01-06 | 1999 | 113 | 
@@ -41,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 1906 | 108 | 
 | 2022-12-13 | 1901 | 108 | 
 | 2022-12-12 | 1899 | 108 | 
-| 2022-12-10 | 1895 | 108 | 
 

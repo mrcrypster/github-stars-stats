@@ -1,6 +1,6 @@
 # planet-cx330/v2board-Data - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 83 | 51 | 
 | 2023-01-09 | 83 | 51 | 
 | 2023-01-07 | 83 | 49 | 
 | 2023-01-06 | 83 | 49 | 

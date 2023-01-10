@@ -1,10 +1,10 @@
 # AdguardTeam/AdguardFilters - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 481
+☋ Forks: 482
 
-★ Stars: 1876
+★ Stars: 1878
 
 [Open repository](https://github.com/AdguardTeam/AdguardFilters)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 1878 | 482 | 
 | 2023-01-08 | 1876 | 481 | 
 | 2023-01-07 | 1875 | 481 | 
 | 2023-01-06 | 1874 | 481 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 1841 | 471 | 
 | 2022-12-12 | 1842 | 471 | 
 | 2022-12-11 | 1841 | 471 | 
-| 2022-12-10 | 1839 | 470 | 
 

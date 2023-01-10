@@ -1,10 +1,10 @@
 # fdehau/tui-rs - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 449
+☋ Forks: 450
 
-★ Stars: 9356
+★ Stars: 9362
 
 [Open repository](https://github.com/fdehau/tui-rs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 9362 | 450 | 
 | 2023-01-08 | 9356 | 449 | 
 | 2023-01-07 | 9349 | 449 | 
 | 2023-01-06 | 9342 | 449 | 

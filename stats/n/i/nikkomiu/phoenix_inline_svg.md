@@ -1,6 +1,6 @@
 # nikkomiu/phoenix_inline_svg - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 59 | 35 | 
 | 2023-01-08 | 59 | 35 | 
 | 2023-01-07 | 59 | 35 | 
 | 2023-01-06 | 59 | 35 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 60 | 34 | 
 | 2022-12-12 | 60 | 34 | 
 | 2022-12-11 | 60 | 34 | 
-| 2022-12-10 | 60 | 34 | 
 

@@ -1,6 +1,6 @@
 # vbenjs/vue-vben-admin-doc - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 262
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 201 | 262 | 
 | 2023-01-08 | 201 | 262 | 
 | 2023-01-07 | 201 | 262 | 
 | 2023-01-06 | 201 | 262 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 200 | 255 | 
 | 2022-12-12 | 200 | 255 | 
 | 2022-12-11 | 200 | 255 | 
-| 2022-12-10 | 200 | 255 | 
 

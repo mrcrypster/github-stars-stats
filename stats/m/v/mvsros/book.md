@@ -1,6 +1,6 @@
 # mvsros/book - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 14 | 31 | 
 | 2023-01-08 | 14 | 31 | 
 | 2023-01-07 | 14 | 31 | 
 | 2023-01-06 | 14 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 15 | 31 | 
 | 2022-12-12 | 14 | 31 | 
 | 2022-12-11 | 14 | 31 | 
-| 2022-12-10 | 14 | 30 | 
 

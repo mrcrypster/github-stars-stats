@@ -1,6 +1,6 @@
 # Nthily/KFC-Crazy-Thursday - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 251 | 17 | 
 | 2023-01-08 | 251 | 17 | 
 | 2023-01-07 | 251 | 17 | 
 | 2023-01-05 | 251 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 251 | 17 | 
 | 2022-12-13 | 251 | 17 | 
 | 2022-12-11 | 251 | 17 | 
-| 2022-12-10 | 251 | 17 | 
 

@@ -1,10 +1,10 @@
 # pbkompasz/search - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 3
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/pbkompasz/search)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 31 | 3 | 
 | 2023-01-08 | 30 | 3 | 
 | 2023-01-07 | 30 | 3 | 
 | 2023-01-06 | 30 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-15 | 30 | 3 | 
 | 2022-12-13 | 30 | 3 | 
 | 2022-12-12 | 30 | 3 | 
-| 2022-12-11 | 30 | 3 | 
 

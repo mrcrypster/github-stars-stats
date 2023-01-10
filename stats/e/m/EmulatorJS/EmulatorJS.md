@@ -1,10 +1,10 @@
 # EmulatorJS/EmulatorJS - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 187
+☋ Forks: 189
 
-★ Stars: 459
+★ Stars: 460
 
 [Open repository](https://github.com/EmulatorJS/EmulatorJS)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 460 | 189 | 
 | 2023-01-08 | 459 | 187 | 
 | 2023-01-07 | 458 | 186 | 
 | 2023-01-06 | 456 | 185 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 430 | 183 | 
 | 2022-12-13 | 425 | 180 | 
 | 2022-12-11 | 425 | 179 | 
-| 2022-12-10 | 423 | 177 | 
 

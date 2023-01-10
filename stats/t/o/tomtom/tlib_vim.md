@@ -1,6 +1,6 @@
 # tomtom/tlib_vim - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 163 | 42 | 
 | 2023-01-08 | 163 | 42 | 
 | 2023-01-07 | 163 | 42 | 
 | 2023-01-06 | 163 | 42 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-15 | 162 | 42 | 
 | 2022-12-13 | 162 | 42 | 
 | 2022-12-12 | 162 | 42 | 
-| 2022-12-11 | 162 | 42 | 
 

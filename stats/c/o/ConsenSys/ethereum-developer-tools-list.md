@@ -1,10 +1,10 @@
 # ConsenSys/ethereum-developer-tools-list - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 1041
+☋ Forks: 1042
 
-★ Stars: 4512
+★ Stars: 4513
 
 [Open repository](https://github.com/ConsenSys/ethereum-developer-tools-list)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 4513 | 1042 | 
 | 2023-01-08 | 4512 | 1041 | 
 | 2023-01-07 | 4510 | 1040 | 
 | 2023-01-06 | 4506 | 1040 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 4457 | 1027 | 
 | 2022-12-12 | 4449 | 1024 | 
 | 2022-12-11 | 4448 | 1024 | 
-| 2022-12-10 | 4444 | 1023 | 
 

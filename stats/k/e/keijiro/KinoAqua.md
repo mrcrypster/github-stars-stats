@@ -1,6 +1,6 @@
 # keijiro/KinoAqua - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 374 | 22 | 
 | 2023-01-09 | 374 | 22 | 
 | 2023-01-08 | 374 | 22 | 
 | 2023-01-07 | 374 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 367 | 22 | 
 | 2022-12-12 | 367 | 22 | 
 | 2022-12-11 | 367 | 22 | 
-| 2022-12-10 | 367 | 22 | 
 

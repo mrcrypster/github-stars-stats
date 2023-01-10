@@ -1,10 +1,10 @@
 # MorneVenter/godot-blueprint - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 2
 
-★ Stars: 46
+★ Stars: 47
 
 [Open repository](https://github.com/MorneVenter/godot-blueprint)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 47 | 2 | 
 | 2023-01-08 | 46 | 2 | 
 | 2023-01-07 | 46 | 2 | 
 | 2023-01-06 | 46 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 45 | 2 | 
 | 2022-12-12 | 45 | 2 | 
 | 2022-12-11 | 45 | 2 | 
-| 2022-12-10 | 45 | 2 | 
 

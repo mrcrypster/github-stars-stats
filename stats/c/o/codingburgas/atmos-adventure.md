@@ -1,10 +1,10 @@
 # codingburgas/atmos-adventure - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 0
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/codingburgas/atmos-adventure)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 16 | - | 
 | 2023-01-08 | 15 | - | 
 | 2023-01-07 | 15 | - | 
 | 2023-01-05 | 15 | - | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 15 | - | 
 | 2022-12-13 | 15 | - | 
 | 2022-12-11 | 15 | - | 
-| 2022-12-10 | 15 | - | 
 

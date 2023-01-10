@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 09
 
-☋ Forks: 20
+☋ Forks: 21
 
-★ Stars: 256
+★ Stars: 257
 
 [Open repository](https://github.com/sourcelocation/TrollTools)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-09 | 256 | 20 | 
+| 2023-01-09 | 257 | 21 | 
 | 2023-01-08 | 256 | 20 | 
 | 2023-01-07 | 251 | 20 | 
 | 2023-01-06 | 240 | 16 | 

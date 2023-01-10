@@ -1,10 +1,10 @@
 # spulec/moto - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 1780
+☋ Forks: 1779
 
-★ Stars: 6569
+★ Stars: 6572
 
 [Open repository](https://github.com/spulec/moto)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 6572 | 1779 | 
 | 2023-01-08 | 6569 | 1780 | 
 | 2023-01-07 | 6567 | 1780 | 
 | 2023-01-06 | 6561 | 1780 | 

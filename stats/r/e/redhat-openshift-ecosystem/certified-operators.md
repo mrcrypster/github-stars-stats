@@ -1,6 +1,6 @@
 # redhat-openshift-ecosystem/certified-operators - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 283
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 27 | 283 | 
 | 2023-01-08 | 27 | 283 | 
 | 2023-01-07 | 27 | 282 | 
 | 2023-01-06 | 27 | 282 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 28 | 276 | 
 | 2022-12-12 | 28 | 275 | 
 | 2022-12-11 | 27 | 274 | 
-| 2022-12-10 | 27 | 274 | 
 

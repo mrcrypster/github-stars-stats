@@ -1,6 +1,6 @@
 # cnlinxi/book-text-to-speech - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 419 | 62 | 
 | 2023-01-08 | 419 | 62 | 
 | 2023-01-07 | 419 | 62 | 
 | 2023-01-06 | 419 | 62 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-15 | 413 | 62 | 
 | 2022-12-13 | 413 | 62 | 
 | 2022-12-12 | 411 | 62 | 
-| 2022-12-10 | 410 | 62 | 
 

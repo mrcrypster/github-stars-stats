@@ -1,6 +1,6 @@
 # hypothesis/client - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 173
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 544 | 173 | 
 | 2023-01-08 | 544 | 173 | 
 | 2023-01-07 | 544 | 173 | 
 | 2023-01-06 | 543 | 174 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 542 | 173 | 
 | 2022-12-13 | 542 | 173 | 
 | 2022-12-11 | 542 | 172 | 
-| 2022-12-10 | 541 | 172 | 
 

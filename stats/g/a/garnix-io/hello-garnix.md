@@ -1,8 +1,8 @@
 # garnix-io/hello-garnix - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 10
 
-☋ Forks: 23
+☋ Forks: 24
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | - | 24 | 
 | 2023-01-08 | - | 23 | 
 | 2023-01-07 | - | 23 | 
 | 2023-01-06 | - | 23 | 

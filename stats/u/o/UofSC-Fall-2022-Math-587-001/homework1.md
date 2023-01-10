@@ -1,6 +1,6 @@
 # UofSC-Fall-2022-Math-587-001/homework1 - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | - | 3 | 
 | 2023-01-08 | - | 3 | 
 | 2023-01-07 | - | 3 | 
 | 2023-01-06 | - | 3 | 

@@ -1,10 +1,10 @@
 # lcobucci/jwt - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 577
 
-★ Stars: 6842
+★ Stars: 6843
 
 [Open repository](https://github.com/lcobucci/jwt)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 6843 | 577 | 
 | 2023-01-08 | 6842 | 577 | 
 | 2023-01-07 | 6842 | 577 | 
 | 2023-01-06 | 6842 | 577 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 6836 | 576 | 
 | 2022-12-13 | 6835 | 575 | 
 | 2022-12-11 | 6836 | 575 | 
-| 2022-12-10 | 6836 | 575 | 
 

@@ -1,6 +1,6 @@
 # electric-sql/electric - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 61 | 1 | 
 | 2023-01-08 | 61 | 1 | 
 | 2023-01-07 | 61 | 1 | 
 | 2023-01-06 | 61 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 52 | 1 | 
 | 2022-12-13 | 52 | 1 | 
 | 2022-12-11 | 52 | 1 | 
-| 2022-12-10 | 52 | 1 | 
 

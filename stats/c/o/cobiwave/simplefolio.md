@@ -1,10 +1,10 @@
 # cobiwave/simplefolio - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 10
 
-☋ Forks: 4599
+☋ Forks: 4604
 
-★ Stars: 11745
+★ Stars: 11756
 
 [Open repository](https://github.com/cobiwave/simplefolio)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 11756 | 4604 | 
+| 2023-01-09 | 11754 | 4603 | 
 | 2023-01-08 | 11745 | 4599 | 
 | 2023-01-07 | 11743 | 4593 | 
 | 2023-01-06 | 11739 | 4591 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 11662 | 4551 | 
 | 2022-12-12 | 11660 | 4546 | 
 | 2022-12-11 | 11658 | 4544 | 
-| 2022-12-10 | 11656 | 4542 | 
 

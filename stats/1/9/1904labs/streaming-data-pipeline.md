@@ -1,6 +1,6 @@
 # 1904labs/streaming-data-pipeline - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 1 | 47 | 
 | 2023-01-08 | 1 | 47 | 
 | 2023-01-07 | 1 | 47 | 
 | 2023-01-06 | 1 | 47 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 1 | 46 | 
 | 2022-12-12 | 1 | 46 | 
 | 2022-12-11 | 1 | 46 | 
-| 2022-12-10 | 1 | 46 | 
 

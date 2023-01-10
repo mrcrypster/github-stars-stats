@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 09
 
 ☋ Forks: 136
 
-★ Stars: 1177
+★ Stars: 1179
 
 [Open repository](https://github.com/lay295/TwitchDownloader)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-09 | 1177 | 136 | 
+| 2023-01-09 | 1179 | 136 | 
 | 2023-01-08 | 1175 | 136 | 
 | 2023-01-07 | 1162 | 136 | 
 | 2023-01-06 | 1157 | 136 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-13 | 1080 | 126 | 
 | 2022-12-12 | 1072 | 125 | 
 | 2022-12-11 | 1067 | 125 | 
-| 2022-12-10 | 1064 | 124 | 
 

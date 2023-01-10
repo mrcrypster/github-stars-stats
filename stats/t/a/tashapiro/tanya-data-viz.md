@@ -1,10 +1,10 @@
 # tashapiro/tanya-data-viz - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 35
 
-★ Stars: 242
+★ Stars: 244
 
 [Open repository](https://github.com/tashapiro/tanya-data-viz)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 244 | 35 | 
 | 2023-01-08 | 242 | 35 | 
 | 2023-01-07 | 240 | 35 | 
 | 2023-01-06 | 240 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 231 | 35 | 
 | 2022-12-12 | 231 | 35 | 
 | 2022-12-11 | 231 | 35 | 
-| 2022-12-10 | 226 | 35 | 
 

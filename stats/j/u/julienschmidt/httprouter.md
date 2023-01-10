@@ -1,10 +1,10 @@
 # julienschmidt/httprouter - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 1397
 
-★ Stars: 14831
+★ Stars: 14836
 
 [Open repository](https://github.com/julienschmidt/httprouter)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 14836 | 1397 | 
 | 2023-01-08 | 14831 | 1397 | 
 | 2023-01-07 | 14828 | 1396 | 
 | 2023-01-06 | 14825 | 1395 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 14750 | 1390 | 
 | 2022-12-13 | 14747 | 1389 | 
 | 2022-12-11 | 14740 | 1389 | 
-| 2022-12-10 | 14731 | 1389 | 
 

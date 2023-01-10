@@ -1,10 +1,10 @@
 # nomisRev/ktor-arrow-example - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 12
 
-★ Stars: 111
+★ Stars: 112
 
 [Open repository](https://github.com/nomisRev/ktor-arrow-example)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 112 | 12 | 
 | 2023-01-08 | 111 | 12 | 
 | 2023-01-07 | 111 | 12 | 
 | 2023-01-06 | 111 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 108 | 11 | 
 | 2022-12-13 | 108 | 11 | 
 | 2022-12-12 | 107 | 11 | 
-| 2022-12-10 | 107 | 11 | 
 

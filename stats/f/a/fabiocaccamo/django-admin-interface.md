@@ -1,10 +1,10 @@
 # fabiocaccamo/django-admin-interface - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 152
 
-★ Stars: 1292
+★ Stars: 1293
 
 [Open repository](https://github.com/fabiocaccamo/django-admin-interface)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 1293 | 152 | 
 | 2023-01-08 | 1292 | 152 | 
 | 2023-01-07 | 1292 | 152 | 
 | 2023-01-05 | 1292 | 152 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 1273 | 145 | 
 | 2022-12-12 | 1268 | 145 | 
 | 2022-12-11 | 1266 | 145 | 
-| 2022-12-10 | 1265 | 145 | 
 

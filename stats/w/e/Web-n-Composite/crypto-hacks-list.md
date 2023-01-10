@@ -1,6 +1,6 @@
 # Web-n-Composite/crypto-hacks-list - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 106
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 378 | 106 | 
 | 2023-01-08 | 378 | 106 | 
 | 2023-01-07 | 378 | 106 | 
 | 2023-01-06 | 378 | 106 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 107 | 105 | 
 | 2022-12-13 | 107 | 105 | 
 | 2022-12-11 | 107 | 105 | 
-| 2022-12-10 | 107 | 105 | 
 

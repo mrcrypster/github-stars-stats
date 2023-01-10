@@ -1,8 +1,8 @@
 # 100devs/todo-list-express - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 1036
+☋ Forks: 1037
 
 ★ Stars: 97
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 97 | 1037 | 
 | 2023-01-08 | 97 | 1036 | 
 | 2023-01-07 | 97 | 1036 | 
 | 2023-01-06 | 97 | 1036 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 96 | 1023 | 
 | 2022-12-13 | 95 | 1023 | 
 | 2022-12-12 | 94 | 1022 | 
-| 2022-12-10 | 94 | 1022 | 
 

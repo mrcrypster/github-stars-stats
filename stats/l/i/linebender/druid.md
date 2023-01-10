@@ -1,10 +1,10 @@
 # linebender/druid - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 538
 
-★ Stars: 8271
+★ Stars: 8276
 
 [Open repository](https://github.com/linebender/druid)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 8276 | 538 | 
 | 2023-01-08 | 8271 | 538 | 
 | 2023-01-07 | 8264 | 538 | 
 | 2023-01-06 | 8255 | 539 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 8086 | 530 | 
 | 2022-12-13 | 8076 | 530 | 
 | 2022-12-11 | 8072 | 528 | 
-| 2022-12-10 | 8062 | 528 | 
 

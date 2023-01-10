@@ -1,10 +1,10 @@
 # theboy181/switch-ptchtxt-mods - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 94
+☋ Forks: 95
 
-★ Stars: 410
+★ Stars: 411
 
 [Open repository](https://github.com/theboy181/switch-ptchtxt-mods)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 411 | 95 | 
 | 2023-01-09 | 410 | 94 | 
 | 2023-01-07 | 407 | 94 | 
 | 2023-01-06 | 407 | 94 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 374 | 81 | 
 | 2022-12-13 | 371 | 81 | 
 | 2022-12-12 | 370 | 79 | 
-| 2022-12-10 | 368 | 77 | 
 

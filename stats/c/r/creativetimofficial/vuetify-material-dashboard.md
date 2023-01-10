@@ -1,10 +1,10 @@
 # creativetimofficial/vuetify-material-dashboard - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 552
+☋ Forks: 551
 
-★ Stars: 1220
+★ Stars: 1221
 
 [Open repository](https://github.com/creativetimofficial/vuetify-material-dashboard)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 1221 | 551 | 
 | 2023-01-08 | 1220 | 552 | 
 | 2023-01-07 | 1220 | 552 | 
 | 2023-01-06 | 1220 | 551 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 1215 | 525 | 
 | 2022-12-12 | 1215 | 524 | 
 | 2022-12-11 | 1215 | 521 | 
-| 2022-12-10 | 1215 | 521 | 
 

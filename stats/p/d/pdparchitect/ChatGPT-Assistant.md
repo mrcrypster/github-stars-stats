@@ -1,6 +1,6 @@
 # pdparchitect/ChatGPT-Assistant - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 170 | 13 | 
 | 2023-01-08 | 170 | 13 | 
 | 2023-01-07 | 169 | 13 | 
 | 2023-01-06 | 168 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 146 | 12 | 
 | 2022-12-12 | 145 | 12 | 
 | 2022-12-11 | 144 | 11 | 
-| 2022-12-10 | 142 | 11 | 
 

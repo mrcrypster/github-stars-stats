@@ -1,6 +1,6 @@
 # ImpishCheats/Impishware - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 192
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 197 | 192 | 
 | 2023-01-08 | 197 | 192 | 
 | 2023-01-07 | 197 | 192 | 
 | 2023-01-06 | 197 | 192 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 197 | 192 | 
 | 2022-12-12 | 197 | 192 | 
 | 2022-12-11 | 141 | 155 | 
-| 2022-12-10 | 126 | 122 | 
 

@@ -1,10 +1,10 @@
 # Grasscutters/Cultivation - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 98
 
-★ Stars: 432
+★ Stars: 433
 
 [Open repository](https://github.com/Grasscutters/Cultivation)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 433 | 98 | 
 | 2023-01-08 | 432 | 98 | 
 | 2023-01-07 | 429 | 97 | 
 | 2023-01-06 | 423 | 95 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 394 | 91 | 
 | 2022-12-13 | 393 | 91 | 
 | 2022-12-11 | 389 | 91 | 
-| 2022-12-10 | 388 | 90 | 
 

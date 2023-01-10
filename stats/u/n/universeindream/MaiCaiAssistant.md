@@ -1,10 +1,10 @@
 # universeindream/MaiCaiAssistant - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 88
 
-★ Stars: 414
+★ Stars: 413
 
 [Open repository](https://github.com/universeindream/MaiCaiAssistant)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 413 | 88 | 
 | 2023-01-08 | 414 | 88 | 
 | 2023-01-07 | 414 | 88 | 
 | 2023-01-06 | 414 | 88 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 414 | 89 | 
 | 2022-12-13 | 414 | 89 | 
 | 2022-12-12 | 414 | 88 | 
-| 2022-12-10 | 414 | 88 | 
 

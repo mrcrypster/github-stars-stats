@@ -1,10 +1,10 @@
 # adrianhajdin/project_metaverse - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 88
+☋ Forks: 90
 
-★ Stars: 248
+★ Stars: 250
 
 [Open repository](https://github.com/adrianhajdin/project_metaverse)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 250 | 90 | 
 | 2023-01-08 | 248 | 88 | 
 | 2023-01-07 | 246 | 87 | 
 | 2023-01-06 | 244 | 84 | 

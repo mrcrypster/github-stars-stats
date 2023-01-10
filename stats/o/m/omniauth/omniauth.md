@@ -1,10 +1,10 @@
 # omniauth/omniauth - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 994
 
-★ Stars: 7626
+★ Stars: 7627
 
 [Open repository](https://github.com/omniauth/omniauth)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 7627 | 994 | 
 | 2023-01-08 | 7626 | 994 | 
 | 2023-01-07 | 7626 | 994 | 
 | 2023-01-06 | 7626 | 994 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 7620 | 992 | 
 | 2022-12-13 | 7620 | 992 | 
 | 2022-12-11 | 7621 | 992 | 
-| 2022-12-10 | 7621 | 992 | 
 

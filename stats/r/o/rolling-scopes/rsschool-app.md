@@ -1,10 +1,10 @@
 # rolling-scopes/rsschool-app - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 170
 
-★ Stars: 8068
+★ Stars: 8070
 
 [Open repository](https://github.com/rolling-scopes/rsschool-app)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 8070 | 170 | 
 | 2023-01-08 | 8068 | 170 | 
 | 2023-01-07 | 8072 | 170 | 
 | 2023-01-06 | 8069 | 170 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 8037 | 168 | 
 | 2022-12-13 | 8027 | 168 | 
 | 2022-12-12 | 8022 | 167 | 
-| 2022-12-10 | 7973 | 167 | 
 

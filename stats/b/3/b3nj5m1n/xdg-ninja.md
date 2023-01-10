@@ -1,10 +1,10 @@
 # b3nj5m1n/xdg-ninja - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 69
 
-★ Stars: 1158
+★ Stars: 1161
 
 [Open repository](https://github.com/b3nj5m1n/xdg-ninja)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 1161 | 69 | 
 | 2023-01-08 | 1158 | 69 | 
 | 2023-01-07 | 1158 | 69 | 
 | 2023-01-06 | 1157 | 69 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 1141 | 71 | 
 | 2022-12-12 | 1137 | 70 | 
 | 2022-12-11 | 1136 | 69 | 
-| 2022-12-10 | 1134 | 69 | 
 

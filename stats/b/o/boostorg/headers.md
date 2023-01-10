@@ -1,0 +1,17 @@
+# boostorg/headers - stars & forks statistics
+
+Stats updated on Jan 2023, 09
+
+☋ Forks: 10
+
+★ Stars: 2
+
+[Open repository](https://github.com/boostorg/headers)
+
+[Open detailed stats for boostorg/headers](https://reviewgithub.com/rep/boostorg/headers)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-01-09 | 2 | 10 | 
+

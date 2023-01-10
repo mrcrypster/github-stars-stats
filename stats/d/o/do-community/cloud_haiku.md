@@ -1,6 +1,6 @@
 # do-community/cloud_haiku - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 2686
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 205 | 2686 | 
 | 2023-01-08 | 205 | 2686 | 
 | 2023-01-07 | 205 | 2685 | 
 | 2023-01-05 | 204 | 2686 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 202 | 2693 | 
 | 2022-12-12 | 203 | 2693 | 
 | 2022-12-11 | 203 | 2695 | 
-| 2022-12-10 | 203 | 2696 | 
 

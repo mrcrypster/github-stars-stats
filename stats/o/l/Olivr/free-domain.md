@@ -1,8 +1,8 @@
 # Olivr/free-domain - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 206
+☋ Forks: 204
 
 ★ Stars: 274
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 274 | 204 | 
 | 2023-01-08 | 274 | 206 | 
 | 2023-01-07 | 273 | 205 | 
 | 2023-01-06 | 272 | 205 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 262 | 190 | 
 | 2022-12-13 | 261 | 189 | 
 | 2022-12-12 | 261 | 189 | 
-| 2022-12-11 | 261 | 186 | 
 

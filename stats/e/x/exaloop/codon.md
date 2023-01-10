@@ -1,10 +1,10 @@
 # exaloop/codon - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 159
+☋ Forks: 163
 
-★ Stars: 5180
+★ Stars: 5206
 
 [Open repository](https://github.com/exaloop/codon)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 5206 | 163 | 
 | 2023-01-08 | 5180 | 159 | 
 | 2023-01-07 | 5164 | 159 | 
 | 2023-01-06 | 5137 | 159 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 3347 | 93 | 
 | 2022-12-12 | 2645 | 67 | 
 | 2022-12-11 | 1989 | 39 | 
-| 2022-12-10 | 1658 | 32 | 
 

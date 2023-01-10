@@ -1,10 +1,10 @@
 # jonathanong/heroku-buildpack-ffmpeg-latest - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 623
 
-★ Stars: 325
+★ Stars: 327
 
 [Open repository](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 327 | 623 | 
 | 2023-01-08 | 325 | 623 | 
 | 2023-01-07 | 325 | 624 | 
 | 2023-01-06 | 324 | 623 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 322 | 618 | 
 | 2022-12-12 | 322 | 617 | 
 | 2022-12-11 | 321 | 617 | 
-| 2022-12-10 | 321 | 616 | 
 

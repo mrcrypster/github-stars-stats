@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 09
 
-☋ Forks: 330
+☋ Forks: 332
 
-★ Stars: 588
+★ Stars: 589
 
 [Open repository](https://github.com/SalesforceFoundation/NPSP)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-09 | 588 | 330 | 
+| 2023-01-09 | 589 | 332 | 
 | 2023-01-08 | 588 | 330 | 
 | 2023-01-07 | 588 | 330 | 
 | 2023-01-06 | 586 | 330 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 586 | 330 | 
 | 2022-12-13 | 586 | 330 | 
 | 2022-12-11 | 586 | 330 | 
-| 2022-12-10 | 585 | 330 | 
 

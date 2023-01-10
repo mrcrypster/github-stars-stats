@@ -1,10 +1,10 @@
 # microsoft/RoadDetections - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 18
+☋ Forks: 19
 
-★ Stars: 347
+★ Stars: 349
 
 [Open repository](https://github.com/microsoft/RoadDetections)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 349 | 19 | 
 | 2023-01-08 | 347 | 18 | 
 | 2023-01-07 | 345 | 18 | 
 | 2023-01-06 | 343 | 18 | 

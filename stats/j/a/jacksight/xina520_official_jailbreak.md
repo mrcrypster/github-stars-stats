@@ -1,10 +1,10 @@
 # jacksight/xina520_official_jailbreak - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 11
 
-★ Stars: 308
+★ Stars: 316
 
 [Open repository](https://github.com/jacksight/xina520_official_jailbreak)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 316 | 11 | 
 | 2023-01-09 | 308 | 11 | 
 | 2023-01-07 | 303 | 11 | 
 | 2023-01-06 | 303 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 159 | 6 | 
 | 2022-12-13 | 125 | 4 | 
 | 2022-12-11 | 115 | 4 | 
-| 2022-12-10 | 106 | 4 | 
 

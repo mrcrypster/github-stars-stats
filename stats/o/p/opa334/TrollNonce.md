@@ -1,10 +1,10 @@
 # opa334/TrollNonce - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 3
 
-★ Stars: 142
+★ Stars: 143
 
 [Open repository](https://github.com/opa334/TrollNonce)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 143 | 3 | 
 | 2023-01-08 | 142 | 3 | 
 | 2023-01-07 | 142 | 3 | 
 | 2023-01-06 | 140 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 139 | 3 | 
 | 2022-12-12 | 138 | 3 | 
 | 2022-12-11 | 138 | 3 | 
-| 2022-12-10 | 138 | 3 | 
 

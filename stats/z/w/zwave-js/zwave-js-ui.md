@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 09
 
 ☋ Forks: 146
 
-★ Stars: 672
+★ Stars: 673
 
 [Open repository](https://github.com/zwave-js/zwave-js-ui)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-09 | 672 | 146 | 
+| 2023-01-09 | 673 | 146 | 
 | 2023-01-08 | 672 | 146 | 
 | 2023-01-07 | 670 | 145 | 
 | 2023-01-06 | 670 | 145 | 
@@ -41,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 651 | 140 | 
 | 2022-12-13 | 652 | 140 | 
 | 2022-12-12 | 652 | 140 | 
-| 2022-12-10 | 652 | 140 | 
 

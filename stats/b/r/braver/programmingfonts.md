@@ -1,10 +1,10 @@
 # braver/programmingfonts - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 82
 
-★ Stars: 1132
+★ Stars: 1133
 
 [Open repository](https://github.com/braver/programmingfonts)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 1133 | 82 | 
 | 2023-01-08 | 1132 | 82 | 
 | 2023-01-07 | 1133 | 81 | 
 | 2023-01-06 | 1132 | 81 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 1125 | 80 | 
 | 2022-12-12 | 1125 | 79 | 
 | 2022-12-11 | 1125 | 79 | 
-| 2022-12-10 | 1125 | 79 | 
 

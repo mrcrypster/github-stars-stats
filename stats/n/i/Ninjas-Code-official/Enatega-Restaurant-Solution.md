@@ -1,10 +1,10 @@
 # Ninjas-Code-official/Enatega-Restaurant-Solution - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 16
+☋ Forks: 17
 
-★ Stars: 98
+★ Stars: 99
 
 [Open repository](https://github.com/Ninjas-Code-official/Enatega-Restaurant-Solution)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 99 | 17 | 
 | 2023-01-08 | 98 | 16 | 
 | 2023-01-07 | 98 | 16 | 
 | 2023-01-06 | 98 | 16 | 

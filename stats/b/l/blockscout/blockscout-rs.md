@@ -1,10 +1,10 @@
 # blockscout/blockscout-rs - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 18
 
-★ Stars: 45
+★ Stars: 46
 
 [Open repository](https://github.com/blockscout/blockscout-rs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 46 | 18 | 
 | 2023-01-08 | 45 | 18 | 
 | 2023-01-07 | 45 | 18 | 
 | 2023-01-06 | 45 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 43 | 14 | 
 | 2022-12-13 | 43 | 14 | 
 | 2022-12-12 | 43 | 14 | 
-| 2022-12-10 | 43 | 14 | 
 

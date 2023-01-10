@@ -1,6 +1,6 @@
 # Ben-love-zy/web-editor-markdown - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 69
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 295 | 69 | 
 | 2023-01-08 | 295 | 69 | 
 | 2023-01-07 | 295 | 69 | 
 | 2023-01-06 | 295 | 69 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 291 | 67 | 
 | 2022-12-13 | 290 | 67 | 
 | 2022-12-12 | 290 | 67 | 
-| 2022-12-10 | 289 | 67 | 
 

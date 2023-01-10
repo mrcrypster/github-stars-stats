@@ -1,10 +1,10 @@
 # arturo-lang/arturo - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 24
 
-★ Stars: 511
+★ Stars: 512
 
 [Open repository](https://github.com/arturo-lang/arturo)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 512 | 24 | 
 | 2023-01-09 | 511 | 24 | 
 | 2023-01-07 | 512 | 24 | 
 | 2023-01-06 | 512 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 508 | 25 | 
 | 2022-12-13 | 506 | 25 | 
 | 2022-12-11 | 506 | 25 | 
-| 2022-12-10 | 508 | 25 | 
 

@@ -1,6 +1,6 @@
 # boostorg/boostbook - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 7 | 24 | 
 | 2023-01-08 | 7 | 24 | 
 | 2023-01-07 | 7 | 24 | 
 | 2023-01-06 | 7 | 24 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 7 | 24 | 
 | 2022-12-12 | 7 | 24 | 
 | 2022-12-11 | 7 | 24 | 
-| 2022-12-10 | 7 | 24 | 
 

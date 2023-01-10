@@ -1,6 +1,6 @@
 # keebersecuritygroup/security-evaluation-workflow - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 2 | 21 | 
 | 2023-01-08 | 2 | 21 | 
 | 2023-01-07 | 2 | 21 | 
 | 2023-01-06 | 2 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 1 | 22 | 
 | 2022-12-12 | 1 | 22 | 
 | 2022-12-11 | 1 | 22 | 
-| 2022-12-10 | 1 | 22 | 
 

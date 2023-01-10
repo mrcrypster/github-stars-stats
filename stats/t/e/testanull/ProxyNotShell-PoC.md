@@ -1,10 +1,10 @@
 # testanull/ProxyNotShell-PoC - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 76
 
-★ Stars: 358
+★ Stars: 360
 
 [Open repository](https://github.com/testanull/ProxyNotShell-PoC)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 360 | 76 | 
 | 2023-01-09 | 358 | 76 | 
 | 2023-01-08 | 358 | 76 | 
 | 2023-01-07 | 358 | 76 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 332 | 72 | 
 | 2022-12-13 | 331 | 72 | 
 | 2022-12-11 | 331 | 72 | 
-| 2022-12-10 | 329 | 71 | 
 

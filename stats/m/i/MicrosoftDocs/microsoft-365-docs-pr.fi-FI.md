@@ -1,6 +1,6 @@
 # MicrosoftDocs/microsoft-365-docs-pr.fi-FI - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 2 | 1 | 
 | 2023-01-08 | 2 | 1 | 
 | 2023-01-07 | 2 | 1 | 
 | 2023-01-06 | 2 | 1 | 

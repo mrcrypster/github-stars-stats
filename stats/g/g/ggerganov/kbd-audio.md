@@ -1,10 +1,10 @@
 # ggerganov/kbd-audio - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 458
 
-★ Stars: 5786
+★ Stars: 5787
 
 [Open repository](https://github.com/ggerganov/kbd-audio)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 5787 | 458 | 
 | 2023-01-08 | 5786 | 458 | 
 | 2023-01-07 | 5786 | 458 | 
 | 2023-01-06 | 5787 | 458 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-15 | 5773 | 456 | 
 | 2022-12-13 | 5773 | 456 | 
 | 2022-12-12 | 5774 | 456 | 
-| 2022-12-10 | 5771 | 456 | 
 

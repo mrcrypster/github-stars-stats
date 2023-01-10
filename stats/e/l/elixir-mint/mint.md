@@ -1,10 +1,10 @@
 # elixir-mint/mint - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 84
 
-★ Stars: 1189
+★ Stars: 1190
 
 [Open repository](https://github.com/elixir-mint/mint)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 1190 | 84 | 
 | 2023-01-08 | 1189 | 84 | 
 | 2023-01-07 | 1189 | 84 | 
 | 2023-01-06 | 1189 | 84 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 1184 | 83 | 
 | 2022-12-12 | 1184 | 83 | 
 | 2022-12-11 | 1184 | 83 | 
-| 2022-12-10 | 1184 | 83 | 
 

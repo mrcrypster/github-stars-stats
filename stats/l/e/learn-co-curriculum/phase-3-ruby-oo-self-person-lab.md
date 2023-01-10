@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-3-ruby-oo-self-person-lab - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 2192
+☋ Forks: 2194
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | - | 2194 | 
 | 2023-01-09 | - | 2192 | 
 | 2023-01-07 | - | 2192 | 
 | 2023-01-06 | - | 2191 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | - | 2138 | 
 | 2022-12-12 | - | 2128 | 
 | 2022-12-11 | - | 2126 | 
-| 2022-12-10 | - | 2125 | 
 

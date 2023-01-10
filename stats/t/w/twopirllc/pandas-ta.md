@@ -1,10 +1,10 @@
 # twopirllc/pandas-ta - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 10
 
-☋ Forks: 695
+☋ Forks: 697
 
-★ Stars: 3213
+★ Stars: 3216
 
 [Open repository](https://github.com/twopirllc/pandas-ta)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 3216 | 697 | 
 | 2023-01-08 | 3213 | 695 | 
 | 2023-01-07 | 3204 | 694 | 
 | 2023-01-06 | 3202 | 694 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 3119 | 678 | 
 | 2022-12-13 | 3117 | 677 | 
 | 2022-12-12 | 3110 | 676 | 
-| 2022-12-10 | 3105 | 675 | 
 

@@ -1,10 +1,10 @@
 # cemu-project/Cemu - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 232
+☋ Forks: 233
 
-★ Stars: 4014
+★ Stars: 4019
 
 [Open repository](https://github.com/cemu-project/Cemu)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 4019 | 233 | 
 | 2023-01-08 | 4014 | 232 | 
 | 2023-01-07 | 4012 | 232 | 
 | 2023-01-06 | 4009 | 232 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 3877 | 231 | 
 | 2022-12-12 | 3867 | 231 | 
 | 2022-12-11 | 3853 | 231 | 
-| 2022-12-10 | 3842 | 230 | 
 

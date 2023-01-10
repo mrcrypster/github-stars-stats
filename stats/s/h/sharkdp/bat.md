@@ -1,10 +1,10 @@
 # sharkdp/bat - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 1027
 
-★ Stars: 38924
+★ Stars: 38942
 
 [Open repository](https://github.com/sharkdp/bat)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 38942 | 1027 | 
 | 2023-01-08 | 38924 | 1027 | 
 | 2023-01-07 | 38916 | 1026 | 
 | 2023-01-06 | 38900 | 1024 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 38543 | 1015 | 
 | 2022-12-12 | 38524 | 1014 | 
 | 2022-12-11 | 38510 | 1013 | 
-| 2022-12-10 | 38497 | 1012 | 
 

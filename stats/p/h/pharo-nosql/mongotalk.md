@@ -1,6 +1,6 @@
 # pharo-nosql/mongotalk - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 18 | 13 | 
 | 2023-01-08 | 18 | 13 | 
 | 2023-01-07 | 18 | 13 | 
 | 2023-01-06 | 18 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 18 | 13 | 
 | 2022-12-12 | 18 | 13 | 
 | 2022-12-11 | 18 | 13 | 
-| 2022-12-10 | 18 | 13 | 
 

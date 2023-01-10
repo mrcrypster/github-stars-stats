@@ -1,8 +1,8 @@
 # 00-Evan/shattered-pixel-dungeon - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 743
+☋ Forks: 745
 
 ★ Stars: 2466
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 2466 | 745 | 
 | 2023-01-08 | 2466 | 743 | 
 | 2023-01-07 | 2464 | 743 | 
 | 2023-01-06 | 2464 | 742 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 2442 | 735 | 
 | 2022-12-13 | 2439 | 734 | 
 | 2022-12-12 | 2439 | 733 | 
-| 2022-12-10 | 2437 | 731 | 
 

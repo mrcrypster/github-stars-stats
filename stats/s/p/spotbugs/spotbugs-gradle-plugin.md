@@ -1,10 +1,10 @@
 # spotbugs/spotbugs-gradle-plugin - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 62
 
-★ Stars: 140
+★ Stars: 141
 
 [Open repository](https://github.com/spotbugs/spotbugs-gradle-plugin)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 141 | 62 | 
 | 2023-01-08 | 140 | 62 | 
 | 2023-01-07 | 140 | 62 | 
 | 2023-01-06 | 139 | 62 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 138 | 62 | 
 | 2022-12-12 | 138 | 62 | 
 | 2022-12-11 | 138 | 62 | 
-| 2022-12-10 | 138 | 62 | 
 

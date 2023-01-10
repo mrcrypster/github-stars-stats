@@ -1,10 +1,10 @@
 # polarisobfuscation/polaris-crypter-fud-bypassing-windows-defender-with-startup - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 228
+☋ Forks: 244
 
-★ Stars: 239
+★ Stars: 257
 
 [Open repository](https://github.com/polarisobfuscation/polaris-crypter-fud-bypassing-windows-defender-with-startup)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 257 | 244 | 
 | 2023-01-08 | 239 | 228 | 
 | 2023-01-07 | 232 | 221 | 
 | 2023-01-06 | 207 | 197 | 

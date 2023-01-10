@@ -1,10 +1,10 @@
 # MahApps/MahApps.Metro - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 2416
+☋ Forks: 2417
 
-★ Stars: 8548
+★ Stars: 8549
 
 [Open repository](https://github.com/MahApps/MahApps.Metro)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 8549 | 2417 | 
 | 2023-01-08 | 8548 | 2416 | 
 | 2023-01-07 | 8548 | 2415 | 
 | 2023-01-06 | 8548 | 2416 | 

@@ -1,10 +1,10 @@
 # SHI-Labs/Versatile-Diffusion - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 50
 
-★ Stars: 911
+★ Stars: 917
 
 [Open repository](https://github.com/SHI-Labs/Versatile-Diffusion)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 917 | 50 | 
 | 2023-01-08 | 911 | 50 | 
 | 2023-01-07 | 908 | 50 | 
 | 2023-01-06 | 902 | 50 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 836 | 43 | 
 | 2022-12-13 | 832 | 43 | 
 | 2022-12-12 | 831 | 41 | 
-| 2022-12-10 | 830 | 41 | 
 

@@ -1,6 +1,6 @@
 # jack4818/Castryck-Decru-SageMath - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 83 | 14 | 
 | 2023-01-08 | 83 | 14 | 
 | 2023-01-07 | 83 | 14 | 
 | 2023-01-06 | 83 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 83 | 14 | 
 | 2022-12-13 | 83 | 14 | 
 | 2022-12-12 | 83 | 14 | 
-| 2022-12-10 | 83 | 14 | 
 

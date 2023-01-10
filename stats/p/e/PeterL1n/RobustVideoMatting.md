@@ -1,6 +1,6 @@
 # PeterL1n/RobustVideoMatting - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 860
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 6539 | 860 | 
 | 2023-01-08 | 6539 | 860 | 
 | 2023-01-07 | 6535 | 860 | 
 | 2023-01-06 | 6532 | 861 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 6432 | 844 | 
 | 2022-12-12 | 6429 | 844 | 
 | 2022-12-11 | 6425 | 844 | 
-| 2022-12-10 | 6422 | 844 | 
 

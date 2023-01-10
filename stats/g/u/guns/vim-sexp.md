@@ -1,6 +1,6 @@
 # guns/vim-sexp - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 560 | 28 | 
 | 2023-01-08 | 560 | 28 | 
 | 2023-01-07 | 558 | 28 | 
 | 2023-01-06 | 558 | 28 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 558 | 28 | 
 | 2022-12-13 | 558 | 28 | 
 | 2022-12-12 | 558 | 28 | 
-| 2022-12-10 | 558 | 28 | 
 

@@ -1,10 +1,10 @@
 # thelastflapjack/godot_open_target_shooter - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 1
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/thelastflapjack/godot_open_target_shooter)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 24 | 1 | 
 | 2023-01-08 | 23 | 1 | 
 | 2023-01-07 | 22 | 1 | 
 | 2023-01-06 | 22 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 21 | 1 | 
 | 2022-12-12 | 21 | 1 | 
 | 2022-12-11 | 21 | 1 | 
-| 2022-12-10 | 21 | 1 | 
 

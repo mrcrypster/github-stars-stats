@@ -1,10 +1,10 @@
 # teaxyz/white-paper - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 100
 
-★ Stars: 179
+★ Stars: 164
 
 [Open repository](https://github.com/teaxyz/white-paper)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 164 | 100 | 
 | 2023-01-08 | 179 | 100 | 
 | 2023-01-07 | 179 | 100 | 
 | 2023-01-06 | 196 | 100 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 139 | 92 | 
 | 2022-12-12 | 139 | 92 | 
 | 2022-12-11 | 139 | 90 | 
-| 2022-12-10 | 134 | 86 | 
 

@@ -1,10 +1,10 @@
 # mariorossi43438/FreeRDP-Remastered-main - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 2187
+☋ Forks: 2197
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/mariorossi43438/FreeRDP-Remastered-main)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 24 | 2197 | 
 | 2023-01-08 | 23 | 2187 | 
 | 2023-01-07 | 23 | 2178 | 
 | 2023-01-06 | 23 | 2164 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 22 | 1916 | 
 | 2022-12-13 | 22 | 1905 | 
 | 2022-12-12 | 22 | 1905 | 
-| 2022-12-10 | 20 | 1882 | 
 

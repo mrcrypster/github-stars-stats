@@ -1,6 +1,6 @@
 # huzongxiang/CrystalNetwork - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 64 | 11 | 
 | 2023-01-08 | 64 | 11 | 
 | 2023-01-07 | 64 | 11 | 
 | 2023-01-06 | 64 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 64 | 11 | 
 | 2022-12-13 | 64 | 11 | 
 | 2022-12-12 | 64 | 11 | 
-| 2022-12-10 | 65 | 11 | 
 

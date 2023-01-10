@@ -1,10 +1,10 @@
 # johno/pixyll - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 1371
 
-★ Stars: 2014
+★ Stars: 2016
 
 [Open repository](https://github.com/johno/pixyll)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 2016 | 1371 | 
 | 2023-01-08 | 2014 | 1371 | 
 | 2023-01-07 | 2014 | 1371 | 
 | 2023-01-06 | 2014 | 1371 | 

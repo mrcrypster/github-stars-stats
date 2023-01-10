@@ -1,6 +1,6 @@
 # hdgarrood/haskell-incremental-nix-example - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 20 | - | 
 | 2023-01-08 | 20 | - | 
 | 2023-01-07 | 20 | - | 
 | 2023-01-06 | 20 | - | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 19 | - | 
 | 2022-12-13 | 19 | - | 
 | 2022-12-12 | 19 | - | 
-| 2022-12-10 | 19 | - | 
 

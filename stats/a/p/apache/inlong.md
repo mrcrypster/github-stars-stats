@@ -1,10 +1,10 @@
 # apache/inlong - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 383
+☋ Forks: 384
 
-★ Stars: 1080
+★ Stars: 1082
 
 [Open repository](https://github.com/apache/inlong)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 1082 | 384 | 
 | 2023-01-08 | 1080 | 383 | 
 | 2023-01-07 | 1078 | 382 | 
 | 2023-01-06 | 1076 | 382 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 1059 | 377 | 
 | 2022-12-12 | 1061 | 377 | 
 | 2022-12-11 | 1062 | 378 | 
-| 2022-12-10 | 1062 | 378 | 
 

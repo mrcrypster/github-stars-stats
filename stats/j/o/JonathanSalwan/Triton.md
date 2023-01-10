@@ -1,6 +1,6 @@
 # JonathanSalwan/Triton - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 490
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 2658 | 490 | 
 | 2023-01-08 | 2658 | 490 | 
 | 2023-01-07 | 2656 | 490 | 
 | 2023-01-06 | 2654 | 490 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 2637 | 487 | 
 | 2022-12-13 | 2636 | 486 | 
 | 2022-12-11 | 2634 | 485 | 
-| 2022-12-10 | 2633 | 485 | 
 

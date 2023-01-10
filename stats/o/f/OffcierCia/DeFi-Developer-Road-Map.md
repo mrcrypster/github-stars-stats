@@ -1,10 +1,10 @@
 # OffcierCia/DeFi-Developer-Road-Map - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 1005
 
-★ Stars: 8052
+★ Stars: 8060
 
 [Open repository](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 8060 | 1005 | 
 | 2023-01-08 | 8052 | 1005 | 
 | 2023-01-07 | 8042 | 1002 | 
 | 2023-01-06 | 8036 | 1001 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 7907 | 982 | 
 | 2022-12-12 | 7890 | 977 | 
 | 2022-12-11 | 7887 | 977 | 
-| 2022-12-10 | 7886 | 977 | 
 

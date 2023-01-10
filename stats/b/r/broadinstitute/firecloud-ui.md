@@ -1,6 +1,6 @@
 # broadinstitute/firecloud-ui - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 19 | 8 | 
 | 2023-01-08 | 19 | 8 | 
 | 2023-01-07 | 19 | 8 | 
 | 2023-01-06 | 19 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-15 | 19 | 8 | 
 | 2022-12-13 | 19 | 8 | 
 | 2022-12-12 | 19 | 8 | 
-| 2022-12-11 | 19 | 8 | 
 

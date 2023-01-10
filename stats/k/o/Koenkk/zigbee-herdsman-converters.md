@@ -1,10 +1,10 @@
 # Koenkk/zigbee-herdsman-converters - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 2166
 
-★ Stars: 641
+★ Stars: 642
 
 [Open repository](https://github.com/Koenkk/zigbee-herdsman-converters)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 642 | 2166 | 
 | 2023-01-08 | 641 | 2166 | 
 | 2023-01-07 | 641 | 2160 | 
 | 2023-01-06 | 640 | 2158 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-15 | 627 | 2100 | 
 | 2022-12-13 | 625 | 2096 | 
 | 2022-12-12 | 623 | 2093 | 
-| 2022-12-10 | 622 | 2094 | 
 

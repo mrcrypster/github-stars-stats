@@ -1,6 +1,6 @@
 # JasonFruit/diatheke.el - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 9 | 5 | 
 | 2023-01-08 | 9 | 5 | 
 | 2023-01-07 | 9 | 5 | 
 | 2023-01-06 | 9 | 5 | 

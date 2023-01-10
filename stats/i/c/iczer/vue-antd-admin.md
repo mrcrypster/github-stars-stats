@@ -1,10 +1,10 @@
 # iczer/vue-antd-admin - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 871
 
-★ Stars: 3242
+★ Stars: 3241
 
 [Open repository](https://github.com/iczer/vue-antd-admin)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 3241 | 871 | 
 | 2023-01-08 | 3242 | 871 | 
 | 2023-01-07 | 3243 | 871 | 
 | 2023-01-06 | 3243 | 871 | 

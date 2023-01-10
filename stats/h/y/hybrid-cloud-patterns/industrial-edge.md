@@ -1,6 +1,6 @@
 # hybrid-cloud-patterns/industrial-edge - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 12 | 47 | 
 | 2023-01-08 | 12 | 47 | 
 | 2023-01-07 | 12 | 47 | 
 | 2023-01-06 | 12 | 47 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 13 | 47 | 
 | 2022-12-13 | 13 | 46 | 
 | 2022-12-11 | 13 | 46 | 
-| 2022-12-10 | 13 | 46 | 
 

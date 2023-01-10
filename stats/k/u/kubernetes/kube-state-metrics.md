@@ -1,8 +1,8 @@
 # kubernetes/kube-state-metrics - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 1586
+☋ Forks: 1587
 
 ★ Stars: 4220
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 4220 | 1587 | 
 | 2023-01-08 | 4220 | 1586 | 
 | 2023-01-07 | 4219 | 1586 | 
 | 2023-01-06 | 4219 | 1586 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 4180 | 1572 | 
 | 2022-12-13 | 4179 | 1570 | 
 | 2022-12-12 | 4173 | 1570 | 
-| 2022-12-10 | 4171 | 1571 | 
 

@@ -1,10 +1,10 @@
 # pharo-nosql/voyage - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 21
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/pharo-nosql/voyage)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 32 | 21 | 
 | 2023-01-08 | 31 | 21 | 
 | 2023-01-07 | 31 | 21 | 
 | 2023-01-06 | 31 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 31 | 21 | 
 | 2022-12-12 | 31 | 21 | 
 | 2022-12-11 | 31 | 21 | 
-| 2022-12-10 | 31 | 21 | 
 

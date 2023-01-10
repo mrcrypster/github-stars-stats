@@ -1,10 +1,10 @@
 # colineckert/obsidian-things - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 34
 
-★ Stars: 363
+★ Stars: 365
 
 [Open repository](https://github.com/colineckert/obsidian-things)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 365 | 34 | 
 | 2023-01-08 | 363 | 34 | 
 | 2023-01-07 | 363 | 34 | 
 | 2023-01-06 | 363 | 34 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 350 | 33 | 
 | 2022-12-13 | 348 | 33 | 
 | 2022-12-12 | 347 | 32 | 
-| 2022-12-10 | 345 | 32 | 
 

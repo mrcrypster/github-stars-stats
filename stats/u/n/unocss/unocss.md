@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 09
 
-☋ Forks: 388
+☋ Forks: 389
 
-★ Stars: 8272
+★ Stars: 8305
 
 [Open repository](https://github.com/unocss/unocss)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-09 | 8272 | 388 | 
+| 2023-01-09 | 8305 | 389 | 
 | 2023-01-08 | 8267 | 388 | 
 | 2023-01-07 | 8241 | 387 | 
 | 2023-01-06 | 8214 | 388 | 

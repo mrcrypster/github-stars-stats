@@ -1,6 +1,6 @@
 # rmosolgo/graphql-ruby - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 1293
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 5177 | 1293 | 
 | 2023-01-08 | 5177 | 1293 | 
 | 2023-01-07 | 5175 | 1293 | 
 | 2023-01-06 | 5173 | 1293 | 

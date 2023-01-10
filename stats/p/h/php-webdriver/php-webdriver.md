@@ -1,8 +1,8 @@
 # php-webdriver/php-webdriver - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 850
+☋ Forks: 851
 
 ★ Stars: 4745
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 4745 | 851 | 
 | 2023-01-08 | 4745 | 850 | 
 | 2023-01-07 | 4746 | 850 | 
 | 2023-01-06 | 4746 | 850 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 4727 | 849 | 
 | 2022-12-12 | 4727 | 849 | 
 | 2022-12-11 | 4727 | 849 | 
-| 2022-12-10 | 4725 | 848 | 
 

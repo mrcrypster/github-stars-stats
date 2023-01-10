@@ -1,10 +1,10 @@
 # firmai/industry-machine-learning - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 1119
 
-★ Stars: 6687
+★ Stars: 6689
 
 [Open repository](https://github.com/firmai/industry-machine-learning)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 6689 | 1119 | 
 | 2023-01-08 | 6687 | 1119 | 
 | 2023-01-07 | 6685 | 1119 | 
 | 2023-01-06 | 6684 | 1119 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 6650 | 1119 | 
 | 2022-12-13 | 6649 | 1119 | 
 | 2022-12-12 | 6648 | 1119 | 
-| 2022-12-10 | 6647 | 1120 | 
 

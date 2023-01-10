@@ -1,6 +1,6 @@
 # LOUSANPANG/lousanpang.github.io - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 447 | 7 | 
 | 2023-01-08 | 447 | 7 | 
 | 2023-01-07 | 447 | 7 | 
 | 2023-01-06 | 448 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-15 | 447 | 7 | 
 | 2022-12-13 | 449 | 7 | 
 | 2022-12-12 | 448 | 7 | 
-| 2022-12-10 | 449 | 7 | 
 

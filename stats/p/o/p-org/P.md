@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 09
 
 ☋ Forks: 155
 
-★ Stars: 2653
+★ Stars: 2655
 
 [Open repository](https://github.com/p-org/P)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-09 | 2653 | 155 | 
+| 2023-01-09 | 2655 | 155 | 
 | 2023-01-08 | 2653 | 155 | 
 

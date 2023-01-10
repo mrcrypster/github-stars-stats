@@ -1,8 +1,8 @@
 # akaunting/akaunting - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 1998
+☋ Forks: 1999
 
 ★ Stars: 5831
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 5831 | 1999 | 
 | 2023-01-08 | 5831 | 1998 | 
 | 2023-01-07 | 5831 | 1997 | 
 | 2023-01-06 | 5830 | 1994 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 5755 | 1982 | 
 | 2022-12-12 | 5753 | 1982 | 
 | 2022-12-11 | 5752 | 1981 | 
-| 2022-12-10 | 5753 | 1981 | 
 

@@ -1,10 +1,10 @@
 # yumata/lampa - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 55
 
-★ Stars: 184
+★ Stars: 185
 
 [Open repository](https://github.com/yumata/lampa)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 185 | 55 | 
 | 2023-01-08 | 184 | 55 | 
 | 2023-01-07 | 184 | 55 | 
 | 2023-01-06 | 183 | 55 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 176 | 54 | 
 | 2022-12-13 | 176 | 54 | 
 | 2022-12-12 | 176 | 54 | 
-| 2022-12-11 | 176 | 54 | 
 

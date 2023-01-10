@@ -1,6 +1,6 @@
 # purescript-contrib/purescript-arraybuffer-types - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 12
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 5 | 12 | 
+| 2023-01-09 | 5 | 12 | 
 | 2023-01-08 | 5 | 12 | 
 | 2023-01-07 | 5 | 12 | 
 | 2023-01-06 | 5 | 12 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 5 | 12 | 
 | 2022-12-12 | 5 | 12 | 
 | 2022-12-11 | 5 | 12 | 
-| 2022-12-10 | 5 | 12 | 
 

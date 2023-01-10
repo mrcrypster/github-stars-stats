@@ -1,10 +1,10 @@
 # ecosse3/nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 64
 
-★ Stars: 708
+★ Stars: 709
 
 [Open repository](https://github.com/ecosse3/nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 709 | 64 | 
 | 2023-01-08 | 708 | 64 | 
 | 2023-01-07 | 708 | 64 | 
 | 2023-01-06 | 708 | 64 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 682 | 61 | 
 | 2022-12-12 | 681 | 61 | 
 | 2022-12-11 | 680 | 61 | 
-| 2022-12-10 | 678 | 61 | 
 

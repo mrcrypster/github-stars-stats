@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 09
 
-☋ Forks: 5841
+☋ Forks: 5832
 
-★ Stars: 39160
+★ Stars: 39191
 
 [Open repository](https://github.com/mastodon/mastodon)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-09 | 39160 | 5841 | 
+| 2023-01-09 | 39191 | 5832 | 
 | 2023-01-08 | 39153 | 5841 | 
 | 2023-01-07 | 39123 | 5839 | 
 | 2023-01-06 | 39089 | 5836 | 

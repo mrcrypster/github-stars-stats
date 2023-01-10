@@ -1,8 +1,8 @@
 # code-423n4/2022-10-traderjoe - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 11
+☋ Forks: 12
 
 ★ Stars: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 6 | 12 | 
 | 2023-01-08 | 6 | 11 | 
 | 2023-01-07 | 6 | 11 | 
 | 2023-01-06 | 6 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 6 | 10 | 
 | 2022-12-12 | 6 | 10 | 
 | 2022-12-11 | 6 | 10 | 
-| 2022-12-10 | 6 | 10 | 
 

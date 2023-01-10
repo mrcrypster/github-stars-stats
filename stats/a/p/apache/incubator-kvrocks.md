@@ -1,10 +1,10 @@
 # apache/incubator-kvrocks - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 256
 
-★ Stars: 1890
+★ Stars: 1889
 
 [Open repository](https://github.com/apache/incubator-kvrocks)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 1889 | 256 | 
 | 2023-01-08 | 1890 | 256 | 
 | 2023-01-07 | 1890 | 256 | 
 | 2023-01-06 | 1889 | 256 | 

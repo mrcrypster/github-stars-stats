@@ -1,10 +1,10 @@
 # ramitsurana/awesome-kubernetes - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 10
 
-☋ Forks: 2120
+☋ Forks: 2122
 
-★ Stars: 13432
+★ Stars: 13440
 
 [Open repository](https://github.com/ramitsurana/awesome-kubernetes)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 13440 | 2122 | 
+| 2023-01-09 | 13441 | 2121 | 
 | 2023-01-08 | 13432 | 2120 | 
 | 2023-01-07 | 13411 | 2117 | 
 | 2023-01-06 | 13407 | 2116 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 13298 | 2111 | 
 | 2022-12-12 | 13294 | 2111 | 
 | 2022-12-11 | 13292 | 2113 | 
-| 2022-12-10 | 13288 | 2113 | 
 

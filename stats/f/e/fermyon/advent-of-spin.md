@@ -1,6 +1,6 @@
 # fermyon/advent-of-spin - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 35 | 9 | 
 | 2023-01-08 | 35 | 9 | 
 | 2023-01-07 | 35 | 9 | 
 | 2023-01-06 | 35 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 22 | 6 | 
 | 2022-12-13 | 22 | 6 | 
 | 2022-12-12 | 20 | 4 | 
-| 2022-12-10 | 20 | 3 | 
 

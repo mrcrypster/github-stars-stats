@@ -1,10 +1,10 @@
 # rktjmp/lush.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 32
 
-★ Stars: 925
+★ Stars: 926
 
 [Open repository](https://github.com/rktjmp/lush.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 926 | 32 | 
 | 2023-01-08 | 925 | 32 | 
 | 2023-01-07 | 925 | 32 | 
 | 2023-01-06 | 924 | 32 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-15 | 899 | 29 | 
 | 2022-12-13 | 897 | 29 | 
 | 2022-12-12 | 896 | 29 | 
-| 2022-12-10 | 893 | 29 | 
 

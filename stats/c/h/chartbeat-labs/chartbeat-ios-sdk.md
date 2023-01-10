@@ -1,6 +1,6 @@
 # chartbeat-labs/chartbeat-ios-sdk - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 3
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 3 | 3 | 
+| 2023-01-09 | 3 | 3 | 
 | 2023-01-08 | 3 | 3 | 
 | 2023-01-07 | 3 | 3 | 
 | 2023-01-06 | 3 | 3 | 

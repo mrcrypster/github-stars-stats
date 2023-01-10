@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 09
 
-☋ Forks: 250
+☋ Forks: 255
 
-★ Stars: 2138
+★ Stars: 2149
 
 [Open repository](https://github.com/palera1n/palera1n)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-09 | 2138 | 250 | 
+| 2023-01-09 | 2149 | 255 | 
 | 2023-01-08 | 2136 | 250 | 
 | 2023-01-07 | 2124 | 249 | 
 | 2023-01-06 | 2109 | 245 | 

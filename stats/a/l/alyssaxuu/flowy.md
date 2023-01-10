@@ -1,10 +1,10 @@
 # alyssaxuu/flowy - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 825
 
-★ Stars: 10036
+★ Stars: 10039
 
 [Open repository](https://github.com/alyssaxuu/flowy)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 10039 | 825 | 
 | 2023-01-08 | 10036 | 825 | 
 | 2023-01-07 | 10037 | 825 | 
 | 2023-01-06 | 10034 | 826 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 9979 | 824 | 
 | 2022-12-12 | 9975 | 822 | 
 | 2022-12-11 | 9973 | 822 | 
-| 2022-12-10 | 9968 | 821 | 
 

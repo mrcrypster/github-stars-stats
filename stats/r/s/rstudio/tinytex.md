@@ -1,10 +1,10 @@
 # rstudio/tinytex - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 102
 
-★ Stars: 826
+★ Stars: 824
 
 [Open repository](https://github.com/rstudio/tinytex)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 824 | 102 | 
 | 2023-01-08 | 826 | 102 | 
 | 2023-01-07 | 826 | 102 | 
 | 2023-01-06 | 826 | 102 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 823 | 101 | 
 | 2022-12-13 | 823 | 101 | 
 | 2022-12-12 | 823 | 101 | 
-| 2022-12-10 | 823 | 101 | 
 

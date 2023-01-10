@@ -1,10 +1,10 @@
 # matteobruni/tsparticles - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 587
+☋ Forks: 590
 
-★ Stars: 4690
+★ Stars: 4699
 
 [Open repository](https://github.com/matteobruni/tsparticles)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 4699 | 590 | 
 | 2023-01-08 | 4690 | 587 | 
 | 2023-01-07 | 4684 | 586 | 
 | 2023-01-06 | 4671 | 586 | 

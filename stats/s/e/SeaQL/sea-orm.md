@@ -1,10 +1,10 @@
 # SeaQL/sea-orm - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 281
+☋ Forks: 280
 
-★ Stars: 3487
+★ Stars: 3494
 
 [Open repository](https://github.com/SeaQL/sea-orm)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 3494 | 280 | 
 | 2023-01-08 | 3487 | 281 | 
 | 2023-01-07 | 3481 | 281 | 
 | 2023-01-06 | 3476 | 279 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 3354 | 275 | 
 | 2022-12-13 | 3344 | 275 | 
 | 2022-12-12 | 3337 | 276 | 
-| 2022-12-10 | 3334 | 275 | 
 

@@ -1,8 +1,8 @@
 # briancodex/react-website-v1 - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 1386
+☋ Forks: 1385
 
 ★ Stars: 664
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 664 | 1385 | 
 | 2023-01-08 | 664 | 1386 | 
 | 2023-01-07 | 663 | 1384 | 
 | 2023-01-06 | 663 | 1383 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 659 | 1370 | 
 | 2022-12-13 | 659 | 1369 | 
 | 2022-12-12 | 659 | 1368 | 
-| 2022-12-10 | 658 | 1368 | 
 

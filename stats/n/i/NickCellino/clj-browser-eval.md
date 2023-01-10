@@ -1,6 +1,6 @@
 # NickCellino/clj-browser-eval - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 18 | - | 
 | 2023-01-08 | 18 | - | 
 | 2023-01-07 | 18 | - | 
 | 2023-01-05 | 18 | - | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 18 | - | 
 | 2022-12-12 | 18 | - | 
 | 2022-12-11 | 18 | - | 
-| 2022-12-10 | 18 | - | 
 

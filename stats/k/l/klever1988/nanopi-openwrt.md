@@ -1,10 +1,10 @@
 # klever1988/nanopi-openwrt - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 2305
+☋ Forks: 2306
 
-★ Stars: 4275
+★ Stars: 4276
 
 [Open repository](https://github.com/klever1988/nanopi-openwrt)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 4276 | 2306 | 
 | 2023-01-08 | 4275 | 2305 | 
 | 2023-01-07 | 4272 | 2304 | 
 | 2023-01-06 | 4269 | 2302 | 

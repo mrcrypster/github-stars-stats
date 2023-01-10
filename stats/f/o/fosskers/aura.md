@@ -1,10 +1,10 @@
 # fosskers/aura - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 109
 
-★ Stars: 1466
+★ Stars: 1467
 
 [Open repository](https://github.com/fosskers/aura)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 1467 | 109 | 
 | 2023-01-08 | 1466 | 109 | 
 | 2023-01-07 | 1466 | 109 | 
 | 2023-01-06 | 1466 | 109 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 1459 | 109 | 
 | 2022-12-12 | 1457 | 109 | 
 | 2022-12-11 | 1457 | 109 | 
-| 2022-12-10 | 1457 | 109 | 
 

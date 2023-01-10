@@ -1,6 +1,6 @@
 # GStreamer/common - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 7 | 13 | 
 | 2023-01-08 | 7 | 13 | 
 | 2023-01-06 | 7 | 13 | 
 | 2023-01-05 | 7 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 7 | 13 | 
 | 2022-12-13 | 7 | 13 | 
 | 2022-12-11 | 7 | 13 | 
-| 2022-12-10 | 7 | 13 | 
 

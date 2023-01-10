@@ -1,6 +1,6 @@
 # toncenter/tonweb - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 225 | 54 | 
 | 2023-01-08 | 225 | 54 | 
 | 2023-01-07 | 225 | 53 | 
 | 2023-01-06 | 225 | 53 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 216 | 49 | 
 | 2022-12-13 | 216 | 49 | 
 | 2022-12-12 | 215 | 48 | 
-| 2022-12-10 | 215 | 48 | 
 

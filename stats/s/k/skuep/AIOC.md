@@ -1,10 +1,10 @@
 # skuep/AIOC - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 5
 
-★ Stars: 264
+★ Stars: 269
 
 [Open repository](https://github.com/skuep/AIOC)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 269 | 5 | 
 | 2023-01-08 | 264 | 5 | 
 | 2023-01-07 | 260 | 5 | 
 | 2023-01-06 | 255 | 5 | 

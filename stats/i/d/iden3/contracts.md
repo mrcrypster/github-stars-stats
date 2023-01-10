@@ -1,0 +1,18 @@
+# iden3/contracts - stars & forks statistics
+
+Stats updated on Jan 2023, 10
+
+☋ Forks: 6
+
+★ Stars: 34
+
+[Open repository](https://github.com/iden3/contracts)
+
+[Open detailed stats for iden3/contracts](https://reviewgithub.com/rep/iden3/contracts)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-01-10 | 34 | 6 | 
+| 2023-01-09 | 34 | 6 | 
+

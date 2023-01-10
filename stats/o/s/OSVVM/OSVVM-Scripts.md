@@ -1,8 +1,8 @@
 # OSVVM/OSVVM-Scripts - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 10
+☋ Forks: 11
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 3 | 11 | 
 | 2023-01-08 | 3 | 10 | 
 | 2023-01-07 | 3 | 10 | 
 | 2023-01-06 | 3 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 3 | 10 | 
 | 2022-12-13 | 3 | 10 | 
 | 2022-12-12 | 3 | 10 | 
-| 2022-12-10 | 3 | 10 | 
 

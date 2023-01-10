@@ -1,6 +1,6 @@
 # avelino/awesome-racket - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 372 | 14 | 
 | 2023-01-08 | 372 | 14 | 
 | 2023-01-07 | 372 | 14 | 
 | 2023-01-06 | 371 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 364 | 14 | 
 | 2022-12-12 | 364 | 14 | 
 | 2022-12-11 | 364 | 14 | 
-| 2022-12-10 | 364 | 14 | 
 

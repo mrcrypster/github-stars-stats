@@ -1,10 +1,10 @@
 # zulip/zulip - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 5825
+☋ Forks: 5829
 
-★ Stars: 16986
+★ Stars: 16993
 
 [Open repository](https://github.com/zulip/zulip)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 16993 | 5829 | 
 | 2023-01-08 | 16986 | 5825 | 
 | 2023-01-07 | 16983 | 5821 | 
 | 2023-01-06 | 16981 | 5814 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-15 | 16883 | 5769 | 
 | 2022-12-13 | 16882 | 5769 | 
 | 2022-12-12 | 16878 | 5761 | 
-| 2022-12-10 | 16874 | 5755 | 
 

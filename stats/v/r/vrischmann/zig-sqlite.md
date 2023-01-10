@@ -1,10 +1,10 @@
 # vrischmann/zig-sqlite - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 20
 
-★ Stars: 177
+★ Stars: 178
 
 [Open repository](https://github.com/vrischmann/zig-sqlite)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 178 | 20 | 
 | 2023-01-08 | 177 | 20 | 
 | 2023-01-07 | 177 | 20 | 
 | 2023-01-06 | 177 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 175 | 21 | 
 | 2022-12-12 | 175 | 21 | 
 | 2022-12-11 | 175 | 21 | 
-| 2022-12-10 | 175 | 21 | 
 

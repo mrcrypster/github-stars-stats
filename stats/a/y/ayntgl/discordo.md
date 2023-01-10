@@ -1,10 +1,10 @@
 # ayntgl/discordo - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 35
 
-★ Stars: 1002
+★ Stars: 1004
 
 [Open repository](https://github.com/ayntgl/discordo)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 1004 | 35 | 
 | 2023-01-08 | 1002 | 35 | 
 | 2023-01-07 | 1002 | 35 | 
 | 2023-01-06 | 1001 | 35 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 976 | 33 | 
 | 2022-12-13 | 974 | 33 | 
 | 2022-12-12 | 972 | 33 | 
-| 2022-12-11 | 970 | 32 | 
 

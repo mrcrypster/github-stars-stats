@@ -1,6 +1,6 @@
 # stsdc/monitor - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 257 | 41 | 
 | 2023-01-08 | 257 | 41 | 
 | 2023-01-07 | 257 | 41 | 
 | 2023-01-06 | 257 | 41 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 254 | 41 | 
 | 2022-12-13 | 254 | 41 | 
 | 2022-12-12 | 254 | 41 | 
-| 2022-12-10 | 254 | 41 | 
 

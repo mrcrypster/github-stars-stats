@@ -1,6 +1,6 @@
 # gigaSecure/Tech-Notes - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 127 | 8 | 
 | 2023-01-08 | 127 | 8 | 
 | 2023-01-07 | 127 | 8 | 
 | 2023-01-06 | 127 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 125 | 8 | 
 | 2022-12-12 | 125 | 8 | 
 | 2022-12-11 | 125 | 8 | 
-| 2022-12-10 | 125 | 8 | 
 

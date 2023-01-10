@@ -1,8 +1,8 @@
 # InPhyT/MultilayerGraphs.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 2
+☋ Forks: 3
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 3 | 3 | 
 | 2023-01-08 | 3 | 2 | 
 | 2023-01-07 | 2 | 2 | 
 | 2023-01-06 | 2 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 2 | 2 | 
 | 2022-12-13 | 2 | 2 | 
 | 2022-12-12 | 2 | 2 | 
-| 2022-12-10 | 2 | 2 | 
 

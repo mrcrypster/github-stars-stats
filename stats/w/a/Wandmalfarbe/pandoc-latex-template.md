@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 09
 
 ☋ Forks: 827
 
-★ Stars: 4751
+★ Stars: 4752
 
 [Open repository](https://github.com/Wandmalfarbe/pandoc-latex-template)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-09 | 4751 | 827 | 
+| 2023-01-09 | 4752 | 827 | 
 | 2023-01-08 | 4751 | 827 | 
 | 2023-01-07 | 4747 | 827 | 
 | 2023-01-06 | 4745 | 827 | 

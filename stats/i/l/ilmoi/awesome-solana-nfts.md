@@ -1,6 +1,6 @@
 # ilmoi/awesome-solana-nfts - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 177
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 875 | 177 | 
 | 2023-01-08 | 875 | 177 | 
 | 2023-01-07 | 874 | 177 | 
 | 2023-01-06 | 874 | 177 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 869 | 176 | 
 | 2022-12-12 | 869 | 176 | 
 | 2022-12-11 | 869 | 176 | 
-| 2022-12-10 | 867 | 176 | 
 

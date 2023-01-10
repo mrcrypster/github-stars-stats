@@ -1,6 +1,6 @@
 # intershop/helm-charts - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 8 | 4 | 
 | 2023-01-08 | 8 | 4 | 
 | 2023-01-07 | 8 | 4 | 
 | 2023-01-06 | 8 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 9 | 4 | 
 | 2022-12-12 | 9 | 4 | 
 | 2022-12-11 | 9 | 4 | 
-| 2022-12-10 | 9 | 4 | 
 

@@ -1,6 +1,6 @@
 # TuringLang/DynamicPPL.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 100 | 21 | 
 | 2023-01-08 | 100 | 21 | 
 | 2023-01-07 | 100 | 21 | 
 | 2023-01-06 | 100 | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 99 | 21 | 
 | 2022-12-13 | 98 | 21 | 
 | 2022-12-12 | 98 | 21 | 
-| 2022-12-10 | 98 | 21 | 
 

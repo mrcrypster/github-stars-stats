@@ -1,6 +1,6 @@
 # jaenfigueroa/JaenCraft - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 37 | 6 | 
 | 2023-01-08 | 37 | 6 | 
 | 2023-01-07 | 37 | 6 | 
 | 2023-01-06 | 37 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 37 | 6 | 
 | 2022-12-13 | 38 | 6 | 
 | 2022-12-11 | 38 | 6 | 
-| 2022-12-10 | 38 | 6 | 
 

@@ -1,6 +1,6 @@
 # pope/ob-go - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 101 | 29 | 
 | 2023-01-09 | 101 | 29 | 
 | 2023-01-08 | 101 | 29 | 
 | 2023-01-06 | 101 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-13 | 100 | 29 | 
 | 2022-12-12 | 100 | 29 | 
 | 2022-12-11 | 100 | 29 | 
-| 2022-12-10 | 100 | 29 | 
 

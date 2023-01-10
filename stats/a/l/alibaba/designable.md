@@ -1,10 +1,10 @@
 # alibaba/designable - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 471
+☋ Forks: 472
 
-★ Stars: 2478
+★ Stars: 2479
 
 [Open repository](https://github.com/alibaba/designable)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 2479 | 472 | 
 | 2023-01-08 | 2478 | 471 | 
 | 2023-01-07 | 2478 | 472 | 
 | 2023-01-06 | 2476 | 472 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 2461 | 467 | 
 | 2022-12-13 | 2459 | 467 | 
 | 2022-12-12 | 2456 | 467 | 
-| 2022-12-10 | 2457 | 467 | 
 

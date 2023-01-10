@@ -1,10 +1,10 @@
 # shashank-ineuron/Python-Class - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 40
 
-★ Stars: 49
+★ Stars: 50
 
 [Open repository](https://github.com/shashank-ineuron/Python-Class)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 50 | 40 | 
 | 2023-01-08 | 49 | 40 | 
 | 2023-01-07 | 48 | 40 | 
 | 2023-01-06 | 47 | 39 | 

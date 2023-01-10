@@ -1,8 +1,8 @@
 # fossasia/sciencehack-artwork - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 2
+☋ Forks: 3
 
 ★ Stars: 1482
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 1482 | 3 | 
 | 2023-01-08 | 1482 | 2 | 
 | 2023-01-07 | 1482 | 2 | 
 | 2023-01-06 | 1482 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 1484 | 2 | 
 | 2022-12-12 | 1484 | 2 | 
 | 2022-12-11 | 1484 | 2 | 
-| 2022-12-10 | 1485 | 2 | 
 

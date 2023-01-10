@@ -1,8 +1,8 @@
 # code-423n4/2022-07-fractional - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 10
 
-☋ Forks: 7
+☋ Forks: 6
 
 ★ Stars: 17
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 17 | 6 | 
 | 2023-01-08 | 17 | 7 | 
 | 2023-01-07 | 17 | 7 | 
 | 2023-01-06 | 17 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 17 | 7 | 
 | 2022-12-12 | 17 | 7 | 
 | 2022-12-11 | 17 | 7 | 
-| 2022-12-10 | 17 | 7 | 
 

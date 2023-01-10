@@ -1,6 +1,6 @@
 # riramar/Web-Attack-Cheat-Sheet - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 515
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 3453 | 515 | 
 | 2023-01-08 | 3453 | 515 | 
 | 2023-01-07 | 3451 | 515 | 
 | 2023-01-06 | 3451 | 515 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 3243 | 482 | 
 | 2022-12-13 | 3243 | 482 | 
 | 2022-12-12 | 3242 | 482 | 
-| 2022-12-10 | 3241 | 482 | 
 

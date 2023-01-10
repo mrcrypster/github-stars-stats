@@ -1,6 +1,6 @@
 # compiladores-lcc/compiladores2022 - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 4 | 10 | 
 | 2023-01-08 | 4 | 10 | 
 | 2023-01-07 | 4 | 10 | 
 | 2023-01-06 | 4 | 10 | 

@@ -1,6 +1,6 @@
 # kshenoy/vim-signature - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 1314 | 73 | 
 | 2023-01-08 | 1314 | 73 | 
 | 2023-01-07 | 1313 | 73 | 
 | 2023-01-06 | 1313 | 73 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 1303 | 71 | 
 | 2022-12-12 | 1301 | 71 | 
 | 2022-12-11 | 1301 | 71 | 
-| 2022-12-10 | 1301 | 71 | 
 

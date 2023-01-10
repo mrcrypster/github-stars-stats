@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 09
 
 ☋ Forks: 259
 
-★ Stars: 801
+★ Stars: 802
 
 [Open repository](https://github.com/jeffrey-xiao/papers)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-09 | 801 | 259 | 
+| 2023-01-09 | 802 | 259 | 
 | 2023-01-08 | 801 | 259 | 
 | 2023-01-07 | 799 | 258 | 
 | 2023-01-06 | 795 | 257 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 752 | 243 | 
 | 2022-12-13 | 751 | 241 | 
 | 2022-12-11 | 750 | 241 | 
-| 2022-12-10 | 749 | 241 | 
 

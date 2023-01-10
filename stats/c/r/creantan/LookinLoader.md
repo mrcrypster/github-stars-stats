@@ -1,6 +1,6 @@
 # creantan/LookinLoader - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 82
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 465 | 82 | 
 | 2023-01-08 | 465 | 82 | 
 | 2023-01-07 | 465 | 82 | 
 | 2023-01-06 | 465 | 81 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 462 | 80 | 
 | 2022-12-13 | 462 | 80 | 
 | 2022-12-12 | 461 | 81 | 
-| 2022-12-11 | 461 | 81 | 
 

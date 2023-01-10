@@ -1,10 +1,10 @@
 # alura-challenges/aluratube - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 57
 
-★ Stars: 249
+★ Stars: 248
 
 [Open repository](https://github.com/alura-challenges/aluratube)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 248 | 57 | 
 | 2023-01-09 | 249 | 57 | 
 | 2023-01-07 | 249 | 58 | 
 | 2023-01-06 | 249 | 58 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 248 | 59 | 
 | 2022-12-13 | 246 | 59 | 
 | 2022-12-11 | 246 | 59 | 
-| 2022-12-10 | 246 | 59 | 
 

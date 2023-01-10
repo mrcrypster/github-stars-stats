@@ -1,6 +1,6 @@
 # darkconsole/dse-display-model - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 18 | 3 | 
 | 2023-01-08 | 18 | 3 | 
 | 2023-01-07 | 18 | 3 | 
 | 2023-01-06 | 18 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 17 | 3 | 
 | 2022-12-12 | 17 | 3 | 
 | 2022-12-11 | 17 | 3 | 
-| 2022-12-10 | 17 | 3 | 
 

@@ -1,6 +1,6 @@
 # chipsalliance/f4pga-examples - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 221 | 68 | 
 | 2023-01-08 | 221 | 68 | 
 | 2023-01-07 | 221 | 68 | 
 | 2023-01-06 | 220 | 68 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 215 | 67 | 
 | 2022-12-12 | 215 | 67 | 
 | 2022-12-11 | 215 | 67 | 
-| 2022-12-10 | 215 | 67 | 
 

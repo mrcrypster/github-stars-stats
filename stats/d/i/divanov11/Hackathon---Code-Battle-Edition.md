@@ -1,6 +1,6 @@
 # divanov11/Hackathon---Code-Battle-Edition - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 46 | 5 | 
 | 2023-01-08 | 46 | 5 | 
 | 2023-01-07 | 46 | 5 | 
 | 2023-01-06 | 46 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 46 | 5 | 
 | 2022-12-13 | 46 | 5 | 
 | 2022-12-11 | 46 | 5 | 
-| 2022-12-10 | 46 | 5 | 
 

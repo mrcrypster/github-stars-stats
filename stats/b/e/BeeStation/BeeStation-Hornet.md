@@ -1,8 +1,8 @@
 # BeeStation/BeeStation-Hornet - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 585
+☋ Forks: 587
 
 ★ Stars: 160
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 160 | 587 | 
 | 2023-01-08 | 160 | 585 | 
 | 2023-01-07 | 160 | 583 | 
 | 2023-01-06 | 160 | 583 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 159 | 573 | 
 | 2022-12-12 | 159 | 571 | 
 | 2022-12-11 | 159 | 571 | 
-| 2022-12-10 | 159 | 570 | 
 

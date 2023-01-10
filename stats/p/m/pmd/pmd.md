@@ -1,6 +1,6 @@
 # pmd/pmd - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 1378
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 4108 | 1378 | 
 | 2023-01-08 | 4108 | 1378 | 
 | 2023-01-07 | 4106 | 1378 | 
 | 2023-01-06 | 4105 | 1378 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 4084 | 1375 | 
 | 2022-12-13 | 4083 | 1374 | 
 | 2022-12-12 | 4083 | 1373 | 
-| 2022-12-10 | 4083 | 1374 | 
 

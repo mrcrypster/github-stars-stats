@@ -1,10 +1,10 @@
 # Arnklit/Waterways - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 39
 
-★ Stars: 636
+★ Stars: 635
 
 [Open repository](https://github.com/Arnklit/Waterways)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 635 | 39 | 
 | 2023-01-08 | 636 | 39 | 
 | 2023-01-07 | 636 | 39 | 
 | 2023-01-06 | 636 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 625 | 38 | 
 | 2022-12-12 | 625 | 38 | 
 | 2022-12-11 | 624 | 38 | 
-| 2022-12-10 | 622 | 38 | 
 

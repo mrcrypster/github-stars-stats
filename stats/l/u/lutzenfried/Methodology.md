@@ -1,6 +1,6 @@
 # lutzenfried/Methodology - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 286 | 42 | 
 | 2023-01-08 | 286 | 42 | 
 | 2023-01-07 | 285 | 42 | 
 | 2023-01-06 | 284 | 42 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 274 | 42 | 
 | 2022-12-13 | 272 | 42 | 
 | 2022-12-12 | 271 | 42 | 
-| 2022-12-10 | 271 | 42 | 
 

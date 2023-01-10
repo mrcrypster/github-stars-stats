@@ -1,10 +1,10 @@
 # McMartin/FRUT - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 38
 
-★ Stars: 340
+★ Stars: 342
 
 [Open repository](https://github.com/McMartin/FRUT)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 342 | 38 | 
 | 2023-01-08 | 340 | 38 | 
 | 2023-01-07 | 340 | 38 | 
 | 2023-01-06 | 340 | 38 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 334 | 37 | 
 | 2022-12-12 | 334 | 37 | 
 | 2022-12-11 | 334 | 37 | 
-| 2022-12-10 | 334 | 37 | 
 

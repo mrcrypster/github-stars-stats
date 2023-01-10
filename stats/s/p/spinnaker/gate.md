@@ -1,8 +1,8 @@
 # spinnaker/gate - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 720
+☋ Forks: 721
 
 ★ Stars: 120
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 120 | 721 | 
 | 2023-01-08 | 120 | 720 | 
 | 2023-01-07 | 120 | 720 | 
 | 2023-01-06 | 120 | 719 | 

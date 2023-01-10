@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 09
 
-☋ Forks: 225
+☋ Forks: 226
 
-★ Stars: 1596
+★ Stars: 1605
 
 [Open repository](https://github.com/linhaojun857/aurora)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-09 | 1596 | 225 | 
+| 2023-01-09 | 1605 | 226 | 
 | 2023-01-08 | 1596 | 225 | 
 | 2023-01-07 | 1566 | 220 | 
 | 2023-01-06 | 1556 | 218 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 1415 | 195 | 
 | 2022-12-13 | 1400 | 191 | 
 | 2022-12-12 | 1396 | 191 | 
-| 2022-12-11 | 1374 | 188 | 
 

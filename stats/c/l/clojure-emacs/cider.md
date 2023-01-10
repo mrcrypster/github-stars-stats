@@ -1,6 +1,6 @@
 # clojure-emacs/cider - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 628
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 3395 | 628 | 
 | 2023-01-08 | 3395 | 628 | 
 | 2023-01-07 | 3395 | 628 | 
 | 2023-01-06 | 3395 | 628 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 3382 | 626 | 
 | 2022-12-12 | 3383 | 626 | 
 | 2022-12-11 | 3382 | 626 | 
-| 2022-12-10 | 3383 | 626 | 
 

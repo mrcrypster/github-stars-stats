@@ -1,10 +1,10 @@
 # TimDettmers/bitsandbytes - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 63
+☋ Forks: 64
 
-★ Stars: 676
+★ Stars: 681
 
 [Open repository](https://github.com/TimDettmers/bitsandbytes)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 681 | 64 | 
 | 2023-01-08 | 676 | 63 | 
 | 2023-01-07 | 671 | 61 | 
 | 2023-01-06 | 667 | 61 | 

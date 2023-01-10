@@ -1,10 +1,10 @@
 # fengyuanchen/cropperjs - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 2283
 
-★ Stars: 11397
+★ Stars: 11400
 
 [Open repository](https://github.com/fengyuanchen/cropperjs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 11400 | 2283 | 
 | 2023-01-08 | 11397 | 2283 | 
 | 2023-01-07 | 11395 | 2283 | 
 | 2023-01-06 | 11396 | 2283 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 11335 | 2280 | 
 | 2022-12-13 | 11331 | 2277 | 
 | 2022-12-12 | 11328 | 2276 | 
-| 2022-12-10 | 11317 | 2277 | 
 

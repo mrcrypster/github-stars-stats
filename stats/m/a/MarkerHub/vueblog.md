@@ -1,10 +1,10 @@
 # MarkerHub/vueblog - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 1079
 
-★ Stars: 2572
+★ Stars: 2576
 
 [Open repository](https://github.com/MarkerHub/vueblog)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 2576 | 1079 | 
 | 2023-01-08 | 2572 | 1079 | 
 | 2023-01-07 | 2572 | 1079 | 
 | 2023-01-06 | 2570 | 1079 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 2553 | 1076 | 
 | 2022-12-13 | 2552 | 1077 | 
 | 2022-12-12 | 2553 | 1078 | 
-| 2022-12-10 | 2551 | 1078 | 
 

@@ -1,6 +1,6 @@
 # appium/appium - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 5772
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 15856 | 5772 | 
 | 2023-01-08 | 15856 | 5772 | 
 | 2023-01-07 | 15854 | 5772 | 
 | 2023-01-06 | 15852 | 5772 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 15788 | 5769 | 
 | 2022-12-12 | 15784 | 5770 | 
 | 2022-12-11 | 15779 | 5770 | 
-| 2022-12-10 | 15776 | 5771 | 
 

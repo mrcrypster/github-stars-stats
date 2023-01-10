@@ -1,10 +1,10 @@
 # Tablane/tablane - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 4
 
-★ Stars: 234
+★ Stars: 239
 
 [Open repository](https://github.com/Tablane/tablane)
 
@@ -13,5 +13,6 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 239 | 4 | 
 | 2023-01-08 | 234 | 4 | 
 

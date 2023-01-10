@@ -1,6 +1,6 @@
 # upbound/build - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 43
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 50 | 43 | 
+| 2023-01-09 | 50 | 43 | 
 | 2023-01-08 | 50 | 43 | 
 | 2023-01-07 | 49 | 43 | 
 | 2023-01-06 | 49 | 43 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 49 | 42 | 
 | 2022-12-12 | 49 | 42 | 
 | 2022-12-11 | 49 | 42 | 
-| 2022-12-10 | 49 | 42 | 
 

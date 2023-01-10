@@ -1,6 +1,6 @@
 # oslabs-beta/Svve11 - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 67 | 4 | 
 | 2023-01-08 | 67 | 4 | 
 | 2023-01-07 | 67 | 4 | 
 | 2023-01-06 | 67 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 68 | 4 | 
 | 2022-12-13 | 68 | 4 | 
 | 2022-12-11 | 68 | 4 | 
-| 2022-12-10 | 68 | 4 | 
 

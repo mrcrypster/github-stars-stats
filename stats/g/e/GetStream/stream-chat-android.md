@@ -1,6 +1,6 @@
 # GetStream/stream-chat-android - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 203
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 1084 | 203 | 
 | 2023-01-08 | 1084 | 203 | 
 | 2023-01-07 | 1083 | 203 | 
 | 2023-01-06 | 1082 | 203 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 1066 | 199 | 
 | 2022-12-12 | 1061 | 199 | 
 | 2022-12-11 | 1060 | 198 | 
-| 2022-12-10 | 1060 | 198 | 
 

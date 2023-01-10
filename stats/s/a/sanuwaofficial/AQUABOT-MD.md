@@ -1,8 +1,8 @@
 # sanuwaofficial/AQUABOT-MD - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 799
+☋ Forks: 800
 
 ★ Stars: 103
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 103 | 800 | 
 | 2023-01-08 | 103 | 799 | 
 | 2023-01-07 | 103 | 794 | 
 | 2023-01-06 | 103 | 792 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 102 | 755 | 
 | 2022-12-12 | 102 | 750 | 
 | 2022-12-11 | 102 | 743 | 
-| 2022-12-10 | 102 | 739 | 
 

@@ -1,6 +1,6 @@
 # zendesk/sunshine-conversations-ios - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 121 | 41 | 
 | 2023-01-08 | 121 | 41 | 
 | 2023-01-07 | 121 | 41 | 
 | 2023-01-06 | 121 | 41 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 121 | 39 | 
 | 2022-12-13 | 121 | 39 | 
 | 2022-12-12 | 121 | 39 | 
-| 2022-12-10 | 121 | 39 | 
 

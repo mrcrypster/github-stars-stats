@@ -1,6 +1,6 @@
 # youssefHosni/Data-Science-Interview-Preperation-Resources - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 72 | 13 | 
 | 2023-01-08 | 72 | 13 | 
 | 2023-01-07 | 72 | 13 | 
 | 2023-01-06 | 72 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 61 | 11 | 
 | 2022-12-13 | 61 | 11 | 
 | 2022-12-12 | 55 | 11 | 
-| 2022-12-10 | 51 | 11 | 
 

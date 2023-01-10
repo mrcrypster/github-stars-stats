@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 09
 
 ☋ Forks: 370
 
-★ Stars: 1529
+★ Stars: 1531
 
 [Open repository](https://github.com/Chatterino/chatterino2)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-09 | 1529 | 370 | 
+| 2023-01-09 | 1531 | 370 | 
 | 2023-01-08 | 1529 | 370 | 
 | 2023-01-07 | 1522 | 370 | 
 | 2023-01-06 | 1520 | 370 | 

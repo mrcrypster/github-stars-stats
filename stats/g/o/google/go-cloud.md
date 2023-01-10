@@ -1,10 +1,10 @@
 # google/go-cloud - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 747
 
-★ Stars: 8794
+★ Stars: 8796
 
 [Open repository](https://github.com/google/go-cloud)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 8796 | 747 | 
 | 2023-01-08 | 8794 | 747 | 
 | 2023-01-07 | 8792 | 747 | 
 | 2023-01-06 | 8791 | 747 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 8729 | 741 | 
 | 2022-12-13 | 8729 | 740 | 
 | 2022-12-12 | 8729 | 740 | 
-| 2022-12-10 | 8728 | 740 | 
 

@@ -1,10 +1,10 @@
 # 33357/smartcontract-apps - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 193
 
-★ Stars: 746
+★ Stars: 747
 
 [Open repository](https://github.com/33357/smartcontract-apps)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 747 | 193 | 
 | 2023-01-08 | 746 | 193 | 
 | 2023-01-07 | 745 | 193 | 
 | 2023-01-06 | 745 | 193 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 660 | 170 | 
 | 2022-12-12 | 660 | 170 | 
 | 2022-12-11 | 659 | 170 | 
-| 2022-12-10 | 658 | 170 | 
 

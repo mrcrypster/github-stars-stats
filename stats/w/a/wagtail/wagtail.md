@@ -1,10 +1,10 @@
 # wagtail/wagtail - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
-☋ Forks: 2942
+☋ Forks: 2943
 
-★ Stars: 13792
+★ Stars: 13799
 
 [Open repository](https://github.com/wagtail/wagtail)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 13799 | 2943 | 
 | 2023-01-08 | 13792 | 2942 | 
 | 2023-01-07 | 13791 | 2941 | 
 | 2023-01-06 | 13788 | 2941 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 13668 | 2913 | 
 | 2022-12-12 | 13660 | 2913 | 
 | 2022-12-11 | 13657 | 2908 | 
-| 2022-12-10 | 13650 | 2907 | 
 

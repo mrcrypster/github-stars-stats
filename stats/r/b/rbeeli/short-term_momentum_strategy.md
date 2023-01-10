@@ -1,6 +1,6 @@
 # rbeeli/short-term_momentum_strategy - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 24 | 9 | 
 | 2023-01-09 | 24 | 9 | 
 | 2023-01-07 | 24 | 9 | 
 | 2023-01-06 | 24 | 9 | 

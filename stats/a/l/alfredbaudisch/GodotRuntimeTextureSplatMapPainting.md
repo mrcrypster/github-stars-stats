@@ -1,10 +1,10 @@
 # alfredbaudisch/GodotRuntimeTextureSplatMapPainting - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 2
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/alfredbaudisch/GodotRuntimeTextureSplatMapPainting)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 22 | 2 | 
 | 2023-01-08 | 21 | 2 | 
 | 2023-01-07 | 21 | 2 | 
 | 2023-01-06 | 21 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 21 | 2 | 
 | 2022-12-13 | 21 | 2 | 
 | 2022-12-11 | 21 | 2 | 
-| 2022-12-10 | 21 | 2 | 
 

@@ -1,10 +1,10 @@
 # ddclient/ddclient - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 254
 
-★ Stars: 1397
+★ Stars: 1399
 
 [Open repository](https://github.com/ddclient/ddclient)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 1399 | 254 | 
 | 2023-01-08 | 1397 | 254 | 
 | 2023-01-07 | 1396 | 255 | 
 | 2023-01-06 | 1395 | 254 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 1362 | 246 | 
 | 2022-12-12 | 1362 | 246 | 
 | 2022-12-11 | 1361 | 246 | 
-| 2022-12-10 | 1361 | 246 | 
 

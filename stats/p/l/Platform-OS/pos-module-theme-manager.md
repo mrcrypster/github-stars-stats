@@ -1,6 +1,6 @@
 # Platform-OS/pos-module-theme-manager - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 2
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | - | 2 | 
+| 2023-01-09 | - | 2 | 
 | 2023-01-08 | - | 2 | 
 | 2023-01-07 | - | 2 | 
 | 2023-01-06 | - | 2 | 

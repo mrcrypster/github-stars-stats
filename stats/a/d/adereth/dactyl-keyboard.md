@@ -1,6 +1,6 @@
 # adereth/dactyl-keyboard - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 753
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 2519 | 753 | 
 | 2023-01-08 | 2519 | 753 | 
 | 2023-01-07 | 2515 | 753 | 
 | 2023-01-06 | 2513 | 751 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-13 | 2489 | 744 | 
 | 2022-12-12 | 2488 | 744 | 
 | 2022-12-11 | 2487 | 744 | 
-| 2022-12-10 | 2487 | 743 | 
 

@@ -1,6 +1,6 @@
 # pagopa/cstar-infrastructure - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 6 | 2 | 
 | 2023-01-08 | 6 | 2 | 
 | 2023-01-07 | 6 | 2 | 
 | 2023-01-06 | 6 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 7 | 2 | 
 | 2022-12-13 | 7 | 2 | 
 | 2022-12-12 | 7 | 2 | 
-| 2022-12-10 | 7 | 2 | 
 

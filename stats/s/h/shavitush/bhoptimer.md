@@ -1,6 +1,6 @@
 # shavitush/bhoptimer - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 88
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 213 | 88 | 
 | 2023-01-08 | 213 | 88 | 
 | 2023-01-07 | 213 | 88 | 
 | 2023-01-06 | 212 | 88 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 08
 | 2022-12-14 | 211 | 85 | 
 | 2022-12-13 | 211 | 85 | 
 | 2022-12-12 | 211 | 85 | 
-| 2022-12-10 | 211 | 85 | 
 

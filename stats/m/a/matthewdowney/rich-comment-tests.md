@@ -1,10 +1,10 @@
 # matthewdowney/rich-comment-tests - stars & forks statistics
 
-Stats updated on Jan 2023, 08
+Stats updated on Jan 2023, 09
 
 ☋ Forks: 1
 
-★ Stars: 24
+★ Stars: 27
 
 [Open repository](https://github.com/matthewdowney/rich-comment-tests)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-09 | 27 | 1 | 
 | 2023-01-08 | 24 | 1 | 
 | 2023-01-07 | 22 | 1 | 
 
