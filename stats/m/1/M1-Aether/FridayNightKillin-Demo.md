@@ -1,6 +1,6 @@
 # M1-Aether/FridayNightKillin-Demo - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 2 | 11 | 
 | 2023-01-09 | 2 | 11 | 
 | 2023-01-08 | 2 | 11 | 
 | 2023-01-07 | 2 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 3 | 11 | 
 | 2022-12-13 | 3 | 11 | 
 | 2022-12-12 | 3 | 11 | 
-| 2022-12-11 | 3 | 11 | 
 

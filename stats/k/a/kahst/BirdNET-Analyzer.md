@@ -1,10 +1,10 @@
 # kahst/BirdNET-Analyzer - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 45
 
-★ Stars: 267
+★ Stars: 268
 
 [Open repository](https://github.com/kahst/BirdNET-Analyzer)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 268 | 45 | 
 | 2023-01-09 | 267 | 45 | 
 | 2023-01-08 | 266 | 45 | 
 | 2023-01-07 | 266 | 45 | 

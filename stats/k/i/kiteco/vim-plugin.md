@@ -1,6 +1,6 @@
 # kiteco/vim-plugin - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 294 | 49 | 
 | 2023-01-10 | 294 | 49 | 
 | 2023-01-08 | 294 | 48 | 
 | 2023-01-07 | 294 | 48 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 292 | 47 | 
 | 2022-12-14 | 292 | 47 | 
 | 2022-12-13 | 291 | 47 | 
-| 2022-12-11 | 290 | 46 | 
 

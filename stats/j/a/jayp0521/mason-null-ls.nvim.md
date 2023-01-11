@@ -1,10 +1,10 @@
 # jayp0521/mason-null-ls.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 11
 
-★ Stars: 178
+★ Stars: 179
 
 [Open repository](https://github.com/jayp0521/mason-null-ls.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 179 | 11 | 
 | 2023-01-09 | 178 | 11 | 
 | 2023-01-08 | 178 | 11 | 
 | 2023-01-07 | 176 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 144 | 12 | 
 | 2022-12-14 | 142 | 12 | 
 | 2022-12-12 | 138 | 12 | 
-| 2022-12-11 | 137 | 12 | 
 

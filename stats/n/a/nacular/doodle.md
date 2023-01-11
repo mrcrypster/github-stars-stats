@@ -1,10 +1,10 @@
 # nacular/doodle - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 16
 
-★ Stars: 411
+★ Stars: 413
 
 [Open repository](https://github.com/nacular/doodle)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 413 | 16 | 
 | 2023-01-09 | 411 | 16 | 
 | 2023-01-08 | 407 | 15 | 
 | 2023-01-07 | 404 | 15 | 

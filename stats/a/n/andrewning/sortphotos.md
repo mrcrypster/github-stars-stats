@@ -1,6 +1,6 @@
 # andrewning/sortphotos - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 292
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 907 | 292 | 
 | 2023-01-09 | 907 | 292 | 
 | 2023-01-08 | 907 | 292 | 
 | 2023-01-07 | 907 | 292 | 

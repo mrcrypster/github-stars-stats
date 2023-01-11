@@ -1,6 +1,6 @@
 # ljvmiranda921/prodigy-pdf-custom-recipe - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 186 | 18 | 
 | 2023-01-09 | 186 | 18 | 
 | 2023-01-08 | 186 | 18 | 
 | 2023-01-07 | 186 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 183 | 17 | 
 | 2022-12-14 | 183 | 17 | 
 | 2022-12-13 | 183 | 17 | 
-| 2022-12-11 | 183 | 17 | 
 

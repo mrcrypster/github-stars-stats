@@ -1,10 +1,10 @@
 # versatica/mediasoup - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 955
 
-★ Stars: 4997
+★ Stars: 4998
 
 [Open repository](https://github.com/versatica/mediasoup)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 4998 | 955 | 
 | 2023-01-09 | 4997 | 955 | 
 | 2023-01-08 | 4996 | 955 | 
 | 2023-01-07 | 4995 | 955 | 

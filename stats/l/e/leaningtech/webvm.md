@@ -1,10 +1,10 @@
 # leaningtech/webvm - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 99
 
-★ Stars: 1679
+★ Stars: 1681
 
 [Open repository](https://github.com/leaningtech/webvm)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 1681 | 99 | 
 | 2023-01-09 | 1679 | 99 | 
 | 2023-01-08 | 1679 | 99 | 
 | 2023-01-07 | 1677 | 99 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 1638 | 96 | 
 | 2022-12-13 | 1638 | 95 | 
 | 2022-12-12 | 1637 | 95 | 
-| 2022-12-11 | 1635 | 95 | 
 

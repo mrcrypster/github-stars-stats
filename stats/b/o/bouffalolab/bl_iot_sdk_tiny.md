@@ -1,6 +1,6 @@
 # bouffalolab/bl_iot_sdk_tiny - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | - | - | 
 | 2023-01-09 | - | - | 
 | 2023-01-08 | - | - | 
 | 2023-01-07 | - | - | 

@@ -1,10 +1,10 @@
 # igraph/rigraph - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 183
+☋ Forks: 184
 
-★ Stars: 456
+★ Stars: 457
 
 [Open repository](https://github.com/igraph/rigraph)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 457 | 184 | 
 | 2023-01-09 | 456 | 183 | 
 | 2023-01-08 | 456 | 183 | 
 | 2023-01-07 | 456 | 183 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 456 | 182 | 
 | 2022-12-14 | 456 | 181 | 
 | 2022-12-13 | 456 | 181 | 
-| 2022-12-11 | 456 | 181 | 
 

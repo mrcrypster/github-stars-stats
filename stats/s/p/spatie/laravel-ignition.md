@@ -1,8 +1,8 @@
 # spatie/laravel-ignition - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 37
+☋ Forks: 36
 
 ★ Stars: 265
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 265 | 36 | 
 | 2023-01-09 | 265 | 37 | 
 | 2023-01-08 | 265 | 37 | 
 | 2023-01-07 | 265 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 258 | 37 | 
 | 2022-12-13 | 258 | 37 | 
 | 2022-12-12 | 256 | 37 | 
-| 2022-12-11 | 257 | 37 | 
 

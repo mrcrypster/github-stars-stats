@@ -1,10 +1,10 @@
 # goq/telegram-list - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 768
 
-★ Stars: 3862
+★ Stars: 3863
 
 [Open repository](https://github.com/goq/telegram-list)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 3863 | 768 | 
 | 2023-01-09 | 3862 | 768 | 
 | 2023-01-08 | 3863 | 768 | 
 | 2023-01-07 | 3862 | 768 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 3842 | 765 | 
 | 2022-12-14 | 3839 | 764 | 
 | 2022-12-13 | 3837 | 764 | 
-| 2022-12-11 | 3835 | 764 | 
 

@@ -1,6 +1,6 @@
 # chenyuwangjs/A-tutorial-compiler-written-in-Java - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 181
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 1076 | 181 | 
 | 2023-01-09 | 1076 | 181 | 
 | 2023-01-08 | 1076 | 181 | 
 | 2023-01-07 | 1076 | 181 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 1072 | 181 | 
 | 2022-12-14 | 1072 | 181 | 
 | 2022-12-13 | 1072 | 181 | 
-| 2022-12-11 | 1073 | 181 | 
 

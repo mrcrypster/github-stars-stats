@@ -1,10 +1,10 @@
 # kassambara/ggpubr - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 152
+☋ Forks: 153
 
-★ Stars: 950
+★ Stars: 951
 
 [Open repository](https://github.com/kassambara/ggpubr)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 951 | 153 | 
 | 2023-01-09 | 950 | 152 | 
 | 2023-01-08 | 949 | 152 | 
 | 2023-01-07 | 949 | 152 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 934 | 151 | 
 | 2022-12-13 | 934 | 151 | 
 | 2022-12-12 | 932 | 151 | 
-| 2022-12-11 | 928 | 151 | 
 

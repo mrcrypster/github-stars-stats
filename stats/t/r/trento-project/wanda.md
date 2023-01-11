@@ -1,6 +1,6 @@
 # trento-project/wanda - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 6 | 8 | 
 | 2023-01-09 | 6 | 8 | 
 | 2023-01-08 | 6 | 8 | 
 | 2023-01-07 | 6 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 6 | 8 | 
 | 2022-12-14 | 7 | 8 | 
 | 2022-12-12 | 7 | 8 | 
-| 2022-12-11 | 7 | 8 | 
 

@@ -1,8 +1,8 @@
 # jigsaw-4277821/FNF-Porting-Stuff-Psych-Engine - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 52
+☋ Forks: 53
 
 ★ Stars: 45
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 45 | 53 | 
 | 2023-01-09 | 45 | 52 | 
 | 2023-01-08 | 45 | 51 | 
 | 2023-01-07 | 45 | 51 | 

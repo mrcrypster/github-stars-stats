@@ -1,10 +1,10 @@
 # Tinkoff/mockingbird - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 3
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/Tinkoff/mockingbird)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 24 | 3 | 
 | 2023-01-10 | 23 | 3 | 
 | 2023-01-09 | 23 | 3 | 
 | 2023-01-07 | 23 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 21 | 3 | 
 | 2022-12-14 | 22 | 3 | 
 | 2022-12-12 | 21 | 3 | 
-| 2022-12-11 | 21 | 3 | 
 

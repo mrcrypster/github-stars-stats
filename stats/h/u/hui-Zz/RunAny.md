@@ -1,6 +1,6 @@
 # hui-Zz/RunAny - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 77
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 758 | 77 | 
 | 2023-01-09 | 758 | 77 | 
 | 2023-01-08 | 758 | 76 | 
 | 2023-01-07 | 758 | 76 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 755 | 76 | 
 | 2022-12-13 | 757 | 76 | 
 | 2022-12-12 | 757 | 76 | 
-| 2022-12-11 | 757 | 76 | 
 

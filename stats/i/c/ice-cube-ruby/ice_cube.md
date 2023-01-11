@@ -1,6 +1,6 @@
 # ice-cube-ruby/ice_cube - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 325
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 2160 | 325 | 
 | 2023-01-09 | 2160 | 325 | 
 | 2023-01-08 | 2160 | 325 | 
 | 2023-01-07 | 2160 | 326 | 

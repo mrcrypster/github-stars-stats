@@ -1,8 +1,8 @@
 # edwardshturman/arc-boosts - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 19
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 19 | 2 | 
 | 2023-01-09 | 19 | 1 | 
 | 2023-01-08 | 18 | 1 | 
 | 2023-01-07 | 17 | 1 | 

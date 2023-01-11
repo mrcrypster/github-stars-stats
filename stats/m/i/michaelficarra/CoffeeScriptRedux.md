@@ -1,6 +1,6 @@
 # michaelficarra/CoffeeScriptRedux - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 117
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 1846 | 117 | 
 | 2023-01-09 | 1846 | 117 | 
 | 2023-01-08 | 1845 | 117 | 
 | 2023-01-07 | 1845 | 117 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 1845 | 118 | 
 | 2022-12-14 | 1845 | 118 | 
 | 2022-12-12 | 1845 | 118 | 
-| 2022-12-11 | 1845 | 118 | 
 

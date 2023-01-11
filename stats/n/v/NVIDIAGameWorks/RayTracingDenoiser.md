@@ -1,10 +1,10 @@
 # NVIDIAGameWorks/RayTracingDenoiser - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 19
 
-★ Stars: 230
+★ Stars: 231
 
 [Open repository](https://github.com/NVIDIAGameWorks/RayTracingDenoiser)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 231 | 19 | 
 | 2023-01-09 | 230 | 19 | 
 | 2023-01-08 | 230 | 19 | 
 | 2023-01-07 | 229 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 221 | 18 | 
 | 2022-12-14 | 220 | 18 | 
 | 2022-12-12 | 220 | 18 | 
-| 2022-12-11 | 219 | 18 | 
 

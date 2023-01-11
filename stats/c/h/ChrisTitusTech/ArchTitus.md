@@ -1,10 +1,10 @@
 # ChrisTitusTech/ArchTitus - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 880
+☋ Forks: 879
 
-★ Stars: 1444
+★ Stars: 1442
 
 [Open repository](https://github.com/ChrisTitusTech/ArchTitus)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 1442 | 879 | 
 | 2023-01-09 | 1444 | 880 | 
 | 2023-01-08 | 1445 | 881 | 
 | 2023-01-07 | 1445 | 883 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 1442 | 882 | 
 | 2022-12-14 | 1442 | 882 | 
 | 2022-12-13 | 1442 | 883 | 
-| 2022-12-12 | 1442 | 883 | 
 

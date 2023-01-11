@@ -1,6 +1,6 @@
 # V-Marco/public_intro_to_DS_mba_hse - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 79
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 8 | 79 | 
 | 2023-01-09 | 8 | 79 | 
 | 2023-01-08 | 8 | 79 | 
 | 2023-01-07 | 8 | 79 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 8 | 79 | 
 | 2022-12-13 | 8 | 79 | 
 | 2022-12-12 | 8 | 79 | 
-| 2022-12-11 | 8 | 79 | 
 

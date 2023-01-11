@@ -1,10 +1,10 @@
 # devsuperior/sds-dsmovie - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 251
 
-★ Stars: 449
+★ Stars: 448
 
 [Open repository](https://github.com/devsuperior/sds-dsmovie)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 448 | 251 | 
 | 2023-01-09 | 449 | 251 | 
 | 2023-01-08 | 449 | 251 | 
 | 2023-01-07 | 449 | 251 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 450 | 254 | 
 | 2022-12-14 | 450 | 254 | 
 | 2022-12-13 | 450 | 254 | 
-| 2022-12-12 | 450 | 254 | 
 

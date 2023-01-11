@@ -1,10 +1,10 @@
 # geoffrich/advent-of-sveltekit-2022 - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 4
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/geoffrich/advent-of-sveltekit-2022)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 31 | 4 | 
 | 2023-01-09 | 30 | 4 | 
 | 2023-01-08 | 28 | 4 | 
 | 2023-01-07 | 28 | 5 | 

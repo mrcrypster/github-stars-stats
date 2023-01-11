@@ -1,10 +1,10 @@
 # henrypp/simplewall - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 349
 
-★ Stars: 3553
+★ Stars: 3556
 
 [Open repository](https://github.com/henrypp/simplewall)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 3556 | 349 | 
 | 2023-01-09 | 3553 | 349 | 
 | 2023-01-08 | 3553 | 349 | 
 | 2023-01-07 | 3549 | 349 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 3483 | 345 | 
 | 2022-12-14 | 3479 | 344 | 
 | 2022-12-13 | 3473 | 344 | 
-| 2022-12-11 | 3468 | 343 | 
 

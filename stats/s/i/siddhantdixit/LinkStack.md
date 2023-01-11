@@ -1,6 +1,6 @@
 # siddhantdixit/LinkStack - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 6 | 11 | 
 | 2023-01-10 | 6 | 11 | 
 | 2023-01-08 | 6 | 11 | 
 | 2023-01-07 | 6 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 6 | 11 | 
 | 2022-12-14 | 6 | 11 | 
 | 2022-12-12 | 6 | 11 | 
-| 2022-12-11 | 5 | 11 | 
 

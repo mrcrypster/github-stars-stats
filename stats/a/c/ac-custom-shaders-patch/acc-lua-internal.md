@@ -1,8 +1,8 @@
 # ac-custom-shaders-patch/acc-lua-internal - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 158
+☋ Forks: 160
 
 ★ Stars: 25
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 25 | 160 | 
 | 2023-01-09 | 25 | 158 | 
 | 2023-01-08 | 24 | 155 | 
 | 2023-01-07 | 23 | 148 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 19 | 83 | 
 | 2022-12-13 | 19 | 77 | 
 | 2022-12-12 | 19 | 75 | 
-| 2022-12-11 | 19 | 75 | 
 

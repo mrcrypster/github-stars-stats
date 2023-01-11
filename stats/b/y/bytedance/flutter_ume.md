@@ -1,10 +1,10 @@
 # bytedance/flutter_ume - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 138
 
-★ Stars: 1755
+★ Stars: 1756
 
 [Open repository](https://github.com/bytedance/flutter_ume)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 1756 | 138 | 
 | 2023-01-09 | 1755 | 138 | 
 | 2023-01-08 | 1755 | 138 | 
 | 2023-01-07 | 1753 | 138 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 1732 | 137 | 
 | 2022-12-14 | 1732 | 136 | 
 | 2022-12-12 | 1732 | 136 | 
-| 2022-12-11 | 1732 | 136 | 
 

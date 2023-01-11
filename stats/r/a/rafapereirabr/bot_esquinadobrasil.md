@@ -1,10 +1,10 @@
 # rafapereirabr/bot_esquinadobrasil - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 2
 
-★ Stars: 22
+★ Stars: 25
 
 [Open repository](https://github.com/rafapereirabr/bot_esquinadobrasil)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 25 | 2 | 
 | 2023-01-09 | 22 | 2 | 
 | 2023-01-08 | 22 | 2 | 
 | 2023-01-07 | 21 | 2 | 

@@ -1,10 +1,10 @@
 # vueuse/vueuse - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 1592
+☋ Forks: 1595
 
-★ Stars: 13278
+★ Stars: 13300
 
 [Open repository](https://github.com/vueuse/vueuse)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 13300 | 1595 | 
 | 2023-01-09 | 13278 | 1592 | 
 | 2023-01-08 | 13265 | 1590 | 
 | 2023-01-07 | 13254 | 1590 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 12905 | 1525 | 
 | 2022-12-13 | 12879 | 1522 | 
 | 2022-12-12 | 12856 | 1518 | 
-| 2022-12-11 | 12844 | 1512 | 
 

@@ -1,10 +1,10 @@
 # github/feedback - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 1877
+☋ Forks: 1885
 
-★ Stars: 5145
+★ Stars: 5151
 
 [Open repository](https://github.com/github/feedback)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 5151 | 1885 | 
 | 2023-01-09 | 5145 | 1877 | 
 | 2023-01-08 | 5138 | 1876 | 
 | 2023-01-07 | 5140 | 1872 | 

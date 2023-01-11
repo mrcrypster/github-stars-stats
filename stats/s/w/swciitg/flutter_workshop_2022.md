@@ -1,6 +1,6 @@
 # swciitg/flutter_workshop_2022 - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 3 | 18 | 
 | 2023-01-09 | 3 | 18 | 
 | 2023-01-08 | 3 | 18 | 
 | 2023-01-07 | 3 | 18 | 

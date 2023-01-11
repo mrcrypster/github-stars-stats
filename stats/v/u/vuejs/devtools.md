@@ -1,10 +1,10 @@
 # vuejs/devtools - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 4028
 
-★ Stars: 23230
+★ Stars: 23234
 
 [Open repository](https://github.com/vuejs/devtools)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 23234 | 4028 | 
 | 2023-01-09 | 23230 | 4028 | 
 | 2023-01-08 | 23227 | 4026 | 
 | 2023-01-07 | 23223 | 4026 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 23174 | 4015 | 
 | 2022-12-14 | 23174 | 4015 | 
 | 2022-12-13 | 23171 | 4014 | 
-| 2022-12-11 | 23169 | 4013 | 
 

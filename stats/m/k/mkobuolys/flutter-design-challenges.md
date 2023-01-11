@@ -1,10 +1,10 @@
 # mkobuolys/flutter-design-challenges - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 136
+☋ Forks: 137
 
-★ Stars: 436
+★ Stars: 437
 
 [Open repository](https://github.com/mkobuolys/flutter-design-challenges)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 437 | 137 | 
 | 2023-01-09 | 436 | 136 | 
 | 2023-01-08 | 436 | 136 | 
 | 2023-01-07 | 436 | 136 | 

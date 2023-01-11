@@ -1,10 +1,10 @@
 # DawnFlame/POChouse - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 239
 
-★ Stars: 735
+★ Stars: 736
 
 [Open repository](https://github.com/DawnFlame/POChouse)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 736 | 239 | 
 | 2023-01-09 | 735 | 239 | 
 | 2023-01-08 | 734 | 239 | 
 | 2023-01-07 | 734 | 239 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 723 | 235 | 
 | 2022-12-13 | 723 | 235 | 
 | 2022-12-12 | 723 | 235 | 
-| 2022-12-11 | 723 | 235 | 
 

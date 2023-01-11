@@ -1,6 +1,6 @@
 # draios/sysdig - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 705
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 7133 | 705 | 
 | 2023-01-09 | 7133 | 705 | 
 | 2023-01-08 | 7131 | 705 | 
 | 2023-01-07 | 7131 | 705 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 7109 | 703 | 
 | 2022-12-14 | 7104 | 701 | 
 | 2022-12-13 | 7104 | 700 | 
-| 2022-12-11 | 7103 | 700 | 
 

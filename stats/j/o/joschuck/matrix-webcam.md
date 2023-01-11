@@ -1,10 +1,10 @@
 # joschuck/matrix-webcam - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 34
 
-★ Stars: 1326
+★ Stars: 1327
 
 [Open repository](https://github.com/joschuck/matrix-webcam)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 1327 | 34 | 
 | 2023-01-09 | 1326 | 34 | 
 | 2023-01-08 | 1327 | 34 | 
 | 2023-01-07 | 1326 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 1311 | 32 | 
 | 2022-12-13 | 1311 | 32 | 
 | 2022-12-12 | 1310 | 32 | 
-| 2022-12-11 | 1310 | 32 | 
 

@@ -1,6 +1,6 @@
 # harmony-one/horizon - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 35 | 30 | 
 | 2023-01-09 | 35 | 30 | 
 | 2023-01-08 | 35 | 30 | 
 | 2023-01-07 | 35 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 35 | 30 | 
 | 2022-12-14 | 35 | 30 | 
 | 2022-12-12 | 35 | 30 | 
-| 2022-12-11 | 35 | 30 | 
 

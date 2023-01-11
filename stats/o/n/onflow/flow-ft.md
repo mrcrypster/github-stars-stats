@@ -1,6 +1,6 @@
 # onflow/flow-ft - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 124 | 43 | 
 | 2023-01-09 | 124 | 43 | 
 | 2023-01-08 | 124 | 43 | 
 | 2023-01-07 | 124 | 43 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 125 | 42 | 
 | 2022-12-14 | 125 | 42 | 
 | 2022-12-13 | 125 | 42 | 
-| 2022-12-11 | 125 | 42 | 
 

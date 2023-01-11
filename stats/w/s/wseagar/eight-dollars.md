@@ -1,6 +1,6 @@
 # wseagar/eight-dollars - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 1075 | 52 | 
 | 2023-01-09 | 1075 | 52 | 
 | 2023-01-08 | 1078 | 52 | 
 | 2023-01-07 | 1077 | 52 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 1061 | 49 | 
 | 2022-12-13 | 1059 | 49 | 
 | 2022-12-12 | 1058 | 49 | 
-| 2022-12-11 | 1055 | 49 | 
 

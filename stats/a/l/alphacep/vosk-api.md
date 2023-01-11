@@ -1,10 +1,10 @@
 # alphacep/vosk-api - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 803
 
-★ Stars: 5019
+★ Stars: 5022
 
 [Open repository](https://github.com/alphacep/vosk-api)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 5022 | 803 | 
 | 2023-01-09 | 5019 | 803 | 
 | 2023-01-08 | 5018 | 802 | 
 | 2023-01-07 | 5014 | 800 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 4935 | 789 | 
 | 2022-12-13 | 4931 | 787 | 
 | 2022-12-12 | 4921 | 787 | 
-| 2022-12-11 | 4918 | 785 | 
 

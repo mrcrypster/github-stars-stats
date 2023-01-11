@@ -1,10 +1,10 @@
 # babashka/sci - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 70
 
-★ Stars: 1007
+★ Stars: 1008
 
 [Open repository](https://github.com/babashka/sci)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 1008 | 70 | 
 | 2023-01-09 | 1007 | 70 | 
 | 2023-01-08 | 1007 | 70 | 
 | 2023-01-07 | 1007 | 70 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 986 | 70 | 
 | 2022-12-13 | 986 | 70 | 
 | 2022-12-12 | 986 | 70 | 
-| 2022-12-11 | 985 | 70 | 
 

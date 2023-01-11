@@ -1,10 +1,10 @@
 # ParthJadhav/Verve - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 7
 
-★ Stars: 230
+★ Stars: 238
 
 [Open repository](https://github.com/ParthJadhav/Verve)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 238 | 7 | 
+| 2023-01-10 | 238 | 7 | 
 | 2023-01-09 | 230 | 7 | 
 | 2023-01-08 | 225 | 6 | 
 | 2023-01-07 | 221 | 6 | 

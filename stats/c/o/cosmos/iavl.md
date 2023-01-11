@@ -1,10 +1,10 @@
 # cosmos/iavl - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 195
 
-★ Stars: 347
+★ Stars: 349
 
 [Open repository](https://github.com/cosmos/iavl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 349 | 195 | 
 | 2023-01-09 | 347 | 195 | 
 | 2023-01-08 | 347 | 195 | 
 | 2023-01-07 | 347 | 195 | 

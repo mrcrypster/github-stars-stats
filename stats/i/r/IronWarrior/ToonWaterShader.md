@@ -1,6 +1,6 @@
 # IronWarrior/ToonWaterShader - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 113
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 607 | 113 | 
 | 2023-01-09 | 607 | 113 | 
 | 2023-01-08 | 607 | 113 | 
 | 2023-01-07 | 606 | 113 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 594 | 112 | 
 | 2022-12-14 | 593 | 112 | 
 | 2022-12-13 | 593 | 112 | 
-| 2022-12-11 | 592 | 112 | 
 

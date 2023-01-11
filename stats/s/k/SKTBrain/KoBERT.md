@@ -1,6 +1,6 @@
 # SKTBrain/KoBERT - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 304
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 1019 | 304 | 
 | 2023-01-09 | 1019 | 304 | 
 | 2023-01-08 | 1017 | 304 | 
 | 2023-01-07 | 1017 | 303 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 1009 | 298 | 
 | 2022-12-13 | 1009 | 298 | 
 | 2022-12-12 | 1009 | 298 | 
-| 2022-12-11 | 1009 | 299 | 
 

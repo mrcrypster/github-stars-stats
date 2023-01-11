@@ -1,6 +1,6 @@
 # Bio-protocol/Bayesian-regression-methods-for-genomic-prediction-and-genome-wide-association-studies - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | - | - | 
 | 2023-01-09 | - | - | 
 | 2023-01-08 | - | - | 
 | 2023-01-07 | - | - | 

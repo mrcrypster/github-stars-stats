@@ -1,10 +1,10 @@
 # hapifhir/hapi-fhir - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 1160
 
-★ Stars: 1606
+★ Stars: 1607
 
 [Open repository](https://github.com/hapifhir/hapi-fhir)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 1607 | 1160 | 
 | 2023-01-09 | 1606 | 1160 | 
 | 2023-01-08 | 1606 | 1160 | 
 | 2023-01-07 | 1606 | 1160 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 1598 | 1157 | 
 | 2022-12-14 | 1599 | 1157 | 
 | 2022-12-13 | 1597 | 1156 | 
-| 2022-12-11 | 1595 | 1156 | 
 

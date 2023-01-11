@@ -1,10 +1,10 @@
 # cosmtrek/air - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 594
 
-★ Stars: 8931
+★ Stars: 8943
 
 [Open repository](https://github.com/cosmtrek/air)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 8943 | 594 | 
 | 2023-01-09 | 8931 | 594 | 
 | 2023-01-08 | 8927 | 593 | 
 | 2023-01-07 | 8924 | 593 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 8748 | 581 | 
 | 2022-12-14 | 8741 | 581 | 
 | 2022-12-13 | 8724 | 581 | 
-| 2022-12-12 | 8713 | 582 | 
 

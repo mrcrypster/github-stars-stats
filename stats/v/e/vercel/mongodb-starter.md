@@ -1,10 +1,10 @@
 # vercel/mongodb-starter - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 69
+☋ Forks: 71
 
-★ Stars: 256
+★ Stars: 263
 
 [Open repository](https://github.com/vercel/mongodb-starter)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 263 | 71 | 
 | 2023-01-09 | 256 | 69 | 
 | 2023-01-08 | 256 | 69 | 
 | 2023-01-07 | 254 | 69 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 240 | 64 | 
 | 2022-12-13 | 239 | 64 | 
 | 2022-12-12 | 237 | 62 | 
-| 2022-12-11 | 236 | 62 | 
 

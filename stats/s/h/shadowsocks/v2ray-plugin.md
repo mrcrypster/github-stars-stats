@@ -1,10 +1,10 @@
 # shadowsocks/v2ray-plugin - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 528
 
-★ Stars: 2304
+★ Stars: 2305
 
 [Open repository](https://github.com/shadowsocks/v2ray-plugin)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 2305 | 528 | 
 | 2023-01-09 | 2304 | 528 | 
 | 2023-01-08 | 2304 | 528 | 
 | 2023-01-07 | 2304 | 528 | 

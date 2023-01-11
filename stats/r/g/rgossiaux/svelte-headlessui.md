@@ -1,6 +1,6 @@
 # rgossiaux/svelte-headlessui - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 69
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 1225 | 69 | 
 | 2023-01-09 | 1225 | 69 | 
 | 2023-01-08 | 1224 | 69 | 
 | 2023-01-07 | 1218 | 68 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 1158 | 59 | 
 | 2022-12-13 | 1154 | 59 | 
 | 2022-12-12 | 1153 | 59 | 
-| 2022-12-11 | 1153 | 58 | 
 

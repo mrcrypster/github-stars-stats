@@ -1,10 +1,10 @@
 # ant-media/Ant-Media-Server - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 530
 
-★ Stars: 3457
+★ Stars: 3458
 
 [Open repository](https://github.com/ant-media/Ant-Media-Server)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 3458 | 530 | 
 | 2023-01-09 | 3457 | 530 | 
 | 2023-01-08 | 3456 | 530 | 
 | 2023-01-07 | 3453 | 529 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 2988 | 501 | 
 | 2022-12-14 | 2987 | 500 | 
 | 2022-12-12 | 2985 | 498 | 
-| 2022-12-11 | 2981 | 498 | 
 

@@ -1,10 +1,10 @@
 # modrinth/knossos - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 76
 
-★ Stars: 255
+★ Stars: 256
 
 [Open repository](https://github.com/modrinth/knossos)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 256 | 76 | 
 | 2023-01-09 | 255 | 76 | 
 | 2023-01-08 | 255 | 76 | 
 | 2023-01-07 | 254 | 75 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 247 | 78 | 
 | 2022-12-13 | 247 | 77 | 
 | 2022-12-12 | 246 | 77 | 
-| 2022-12-11 | 246 | 77 | 
 

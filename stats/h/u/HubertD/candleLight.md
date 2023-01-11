@@ -1,6 +1,6 @@
 # HubertD/candleLight - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 99
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 192 | 99 | 
 | 2023-01-09 | 192 | 99 | 
 | 2023-01-08 | 192 | 99 | 
 | 2023-01-07 | 192 | 99 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 188 | 97 | 
 | 2022-12-14 | 188 | 97 | 
 | 2022-12-12 | 188 | 97 | 
-| 2022-12-11 | 188 | 97 | 
 

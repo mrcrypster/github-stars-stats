@@ -1,6 +1,6 @@
 # bufgix/website - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 23 | 4 | 
 | 2023-01-09 | 23 | 4 | 
 | 2023-01-08 | 23 | 4 | 
 | 2023-01-07 | 22 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 23 | 3 | 
 | 2022-12-13 | 23 | 3 | 
 | 2022-12-12 | 23 | 3 | 
-| 2022-12-11 | 23 | 3 | 
 

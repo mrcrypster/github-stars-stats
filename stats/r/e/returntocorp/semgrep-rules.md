@@ -1,10 +1,10 @@
 # returntocorp/semgrep-rules - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 256
 
-★ Stars: 471
+★ Stars: 472
 
 [Open repository](https://github.com/returntocorp/semgrep-rules)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 472 | 256 | 
 | 2023-01-09 | 471 | 256 | 
 | 2023-01-08 | 471 | 256 | 
 | 2023-01-07 | 471 | 256 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 467 | 255 | 
 | 2022-12-13 | 467 | 255 | 
 | 2022-12-12 | 467 | 255 | 
-| 2022-12-11 | 467 | 255 | 
 

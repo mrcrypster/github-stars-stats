@@ -1,6 +1,6 @@
 # ScalablyTyped/Converter - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 160 | 30 | 
 | 2023-01-09 | 160 | 30 | 
 | 2023-01-08 | 160 | 30 | 
 | 2023-01-07 | 160 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 154 | 30 | 
 | 2022-12-13 | 154 | 30 | 
 | 2022-12-12 | 153 | 30 | 
-| 2022-12-11 | 152 | 30 | 
 

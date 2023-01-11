@@ -1,10 +1,10 @@
 # cloudevents/spec - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 513
+☋ Forks: 512
 
-★ Stars: 3904
+★ Stars: 3911
 
 [Open repository](https://github.com/cloudevents/spec)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 3911 | 512 | 
 | 2023-01-09 | 3904 | 513 | 
 | 2023-01-08 | 3904 | 513 | 
 | 2023-01-07 | 3902 | 513 | 

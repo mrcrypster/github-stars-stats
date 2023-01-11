@@ -1,8 +1,8 @@
 # AgencyPMG/ProgrammingChallenges - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 143
+☋ Forks: 145
 
 ★ Stars: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 4 | 145 | 
 | 2023-01-09 | 4 | 143 | 
 | 2023-01-08 | 4 | 142 | 
 | 2023-01-07 | 4 | 142 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 4 | 138 | 
 | 2022-12-14 | 4 | 139 | 
 | 2022-12-13 | 4 | 138 | 
-| 2022-12-11 | 4 | 138 | 
 

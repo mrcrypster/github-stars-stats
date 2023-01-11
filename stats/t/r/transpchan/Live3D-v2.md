@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 10
 
 ☋ Forks: 3
 
-★ Stars: 115
+★ Stars: 120
 
 [Open repository](https://github.com/transpchan/Live3D-v2)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-10 | 115 | 3 | 
+| 2023-01-10 | 120 | 3 | 
 | 2023-01-09 | 115 | 3 | 
 | 2023-01-08 | 107 | 1 | 
 

@@ -1,10 +1,10 @@
 # Mee12345/gmod-infinite-map - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 26
 
-★ Stars: 130
+★ Stars: 131
 
 [Open repository](https://github.com/Mee12345/gmod-infinite-map)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 131 | 26 | 
 | 2023-01-09 | 130 | 26 | 
 | 2023-01-08 | 130 | 26 | 
 | 2023-01-07 | 130 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 106 | 22 | 
 | 2022-12-14 | 107 | 22 | 
 | 2022-12-13 | 107 | 22 | 
-| 2022-12-11 | 107 | 22 | 
 

@@ -1,10 +1,10 @@
 # Nigh/Genshin-fishing - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 22
 
-★ Stars: 244
+★ Stars: 245
 
 [Open repository](https://github.com/Nigh/Genshin-fishing)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 245 | 22 | 
 | 2023-01-09 | 244 | 22 | 
 | 2023-01-08 | 244 | 22 | 
 | 2023-01-07 | 244 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 237 | 21 | 
 | 2022-12-14 | 237 | 21 | 
 | 2022-12-12 | 237 | 21 | 
-| 2022-12-11 | 237 | 21 | 
 

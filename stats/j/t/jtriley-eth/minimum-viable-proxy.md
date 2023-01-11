@@ -1,10 +1,10 @@
 # jtriley-eth/minimum-viable-proxy - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 1
 
-★ Stars: 61
+★ Stars: 62
 
 [Open repository](https://github.com/jtriley-eth/minimum-viable-proxy)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 62 | 1 | 
 | 2023-01-09 | 61 | 1 | 
 | 2023-01-08 | 61 | 1 | 
 | 2023-01-07 | 61 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 61 | 1 | 
 | 2022-12-13 | 59 | 1 | 
 | 2022-12-12 | 59 | 1 | 
-| 2022-12-11 | 59 | 1 | 
 

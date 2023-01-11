@@ -1,10 +1,10 @@
 # ArizArmeidi/FlutterWeather - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 35
+☋ Forks: 40
 
-★ Stars: 130
+★ Stars: 133
 
 [Open repository](https://github.com/ArizArmeidi/FlutterWeather)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 133 | 40 | 
 | 2023-01-09 | 130 | 35 | 
 | 2023-01-08 | 128 | 35 | 
 | 2023-01-07 | 127 | 35 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 106 | 32 | 
 | 2022-12-14 | 103 | 31 | 
 | 2022-12-13 | 102 | 30 | 
-| 2022-12-11 | 102 | 30 | 
 

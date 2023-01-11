@@ -1,10 +1,10 @@
 # open-mmlab/mmyolo - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 151
+☋ Forks: 153
 
-★ Stars: 948
+★ Stars: 953
 
 [Open repository](https://github.com/open-mmlab/mmyolo)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 953 | 153 | 
 | 2023-01-09 | 948 | 151 | 
 | 2023-01-08 | 937 | 151 | 
 | 2023-01-07 | 937 | 150 | 

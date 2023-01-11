@@ -1,6 +1,6 @@
 # coding-boot-camp/friendly-parakeet - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 279
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 17 | 279 | 
 | 2023-01-10 | 17 | 279 | 
 | 2023-01-08 | 17 | 276 | 
 | 2023-01-07 | 17 | 276 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-14 | 16 | 264 | 
 | 2022-12-13 | 16 | 264 | 
 | 2022-12-12 | 16 | 262 | 
-| 2022-12-11 | 16 | 261 | 
 

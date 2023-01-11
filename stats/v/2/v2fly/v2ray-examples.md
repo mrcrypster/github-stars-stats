@@ -1,6 +1,6 @@
 # v2fly/v2ray-examples - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 633
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 1688 | 633 | 
 | 2023-01-09 | 1688 | 633 | 
 | 2023-01-08 | 1688 | 632 | 
 | 2023-01-07 | 1686 | 633 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 1647 | 629 | 
 | 2022-12-13 | 1645 | 628 | 
 | 2022-12-12 | 1642 | 628 | 
-| 2022-12-11 | 1639 | 628 | 
 

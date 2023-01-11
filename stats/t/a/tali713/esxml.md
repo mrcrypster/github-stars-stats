@@ -1,6 +1,6 @@
 # tali713/esxml - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 50 | 14 | 
 | 2023-01-09 | 50 | 14 | 
 | 2023-01-08 | 50 | 14 | 
 | 2023-01-07 | 50 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 51 | 15 | 
 | 2022-12-14 | 51 | 15 | 
 | 2022-12-12 | 51 | 15 | 
-| 2022-12-11 | 51 | 15 | 
 

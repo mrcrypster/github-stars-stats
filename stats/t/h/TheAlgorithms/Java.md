@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 10
 
-☋ Forks: 16406
+☋ Forks: 16408
 
-★ Stars: 49593
+★ Stars: 49600
 
 [Open repository](https://github.com/TheAlgorithms/Java)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-10 | 49593 | 16406 | 
+| 2023-01-10 | 49600 | 16408 | 
 | 2023-01-09 | 49594 | 16406 | 
 | 2023-01-08 | 49575 | 16399 | 
 | 2023-01-07 | 49562 | 16395 | 

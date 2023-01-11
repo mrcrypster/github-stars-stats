@@ -1,6 +1,6 @@
 # input-output-hk/smash - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 35 | 7 | 
 | 2023-01-09 | 35 | 7 | 
 | 2023-01-08 | 35 | 7 | 
 | 2023-01-07 | 35 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 35 | 7 | 
 | 2022-12-14 | 35 | 7 | 
 | 2022-12-12 | 35 | 7 | 
-| 2022-12-11 | 35 | 7 | 
 

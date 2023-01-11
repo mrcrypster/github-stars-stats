@@ -1,10 +1,10 @@
 # Reviewable/Reviewable - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 28
 
-★ Stars: 93
+★ Stars: 95
 
 [Open repository](https://github.com/Reviewable/Reviewable)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 95 | 28 | 
 | 2023-01-09 | 93 | 28 | 
 | 2023-01-08 | 93 | 28 | 
 | 2023-01-07 | 92 | 28 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 91 | 28 | 
 | 2022-12-14 | 92 | 28 | 
 | 2022-12-13 | 92 | 28 | 
-| 2022-12-11 | 91 | 28 | 
 

@@ -1,8 +1,8 @@
 # CrowdStrike/falcon-helm - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 33
+☋ Forks: 34
 
 ★ Stars: 42
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 42 | 34 | 
 | 2023-01-09 | 42 | 33 | 
 | 2023-01-08 | 42 | 33 | 
 | 2023-01-07 | 42 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 43 | 34 | 
 | 2022-12-13 | 43 | 34 | 
 | 2022-12-12 | 43 | 34 | 
-| 2022-12-11 | 43 | 34 | 
 

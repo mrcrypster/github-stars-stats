@@ -1,10 +1,10 @@
 # coccinelle/coccinelle - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 94
 
-★ Stars: 527
+★ Stars: 528
 
 [Open repository](https://github.com/coccinelle/coccinelle)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 528 | 94 | 
 | 2023-01-09 | 527 | 94 | 
 | 2023-01-08 | 527 | 94 | 
 | 2023-01-07 | 527 | 94 | 

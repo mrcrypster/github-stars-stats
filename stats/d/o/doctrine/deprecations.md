@@ -1,10 +1,10 @@
 # doctrine/deprecations - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 10
 
-★ Stars: 1185
+★ Stars: 1187
 
 [Open repository](https://github.com/doctrine/deprecations)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 1187 | 10 | 
 | 2023-01-09 | 1185 | 10 | 
 | 2023-01-08 | 1184 | 10 | 
 | 2023-01-07 | 1183 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 1165 | 10 | 
 | 2022-12-14 | 1165 | 10 | 
 | 2022-12-13 | 1163 | 10 | 
-| 2022-12-12 | 1161 | 10 | 
 

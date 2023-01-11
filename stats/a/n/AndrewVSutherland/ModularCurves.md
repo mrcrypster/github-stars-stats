@@ -1,6 +1,6 @@
 # AndrewVSutherland/ModularCurves - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 4 | 13 | 
 | 2023-01-09 | 4 | 13 | 
 | 2023-01-08 | 4 | 13 | 
 | 2023-01-07 | 4 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 4 | 13 | 
 | 2022-12-14 | 5 | 13 | 
 | 2022-12-13 | 5 | 13 | 
-| 2022-12-12 | 5 | 13 | 
 

@@ -1,6 +1,6 @@
 # coder-mike/microvium - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 494 | 14 | 
 | 2023-01-09 | 494 | 14 | 
 | 2023-01-08 | 494 | 14 | 
 | 2023-01-07 | 494 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 489 | 14 | 
 | 2022-12-14 | 489 | 14 | 
 | 2022-12-12 | 489 | 14 | 
-| 2022-12-11 | 488 | 14 | 
 

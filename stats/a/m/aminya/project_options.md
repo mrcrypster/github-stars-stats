@@ -1,10 +1,10 @@
 # aminya/project_options - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 38
+☋ Forks: 37
 
-★ Stars: 199
+★ Stars: 200
 
 [Open repository](https://github.com/aminya/project_options)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 200 | 37 | 
 | 2023-01-09 | 199 | 38 | 
 | 2023-01-08 | 198 | 38 | 
 | 2023-01-07 | 198 | 38 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 190 | 35 | 
 | 2022-12-14 | 190 | 35 | 
 | 2022-12-12 | 189 | 35 | 
-| 2022-12-11 | 189 | 35 | 
 

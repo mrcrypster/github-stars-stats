@@ -1,10 +1,10 @@
 # SaschaWillems/Vulkan - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 1526
+☋ Forks: 1527
 
-★ Stars: 8115
+★ Stars: 8117
 
 [Open repository](https://github.com/SaschaWillems/Vulkan)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 8117 | 1527 | 
 | 2023-01-09 | 8115 | 1526 | 
 | 2023-01-08 | 8107 | 1527 | 
 | 2023-01-07 | 8105 | 1527 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 8035 | 1521 | 
 | 2022-12-13 | 8035 | 1520 | 
 | 2022-12-12 | 8035 | 1520 | 
-| 2022-12-11 | 8034 | 1519 | 
 

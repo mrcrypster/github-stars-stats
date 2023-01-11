@@ -1,6 +1,6 @@
 # doomemacs/themes - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 351
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 1923 | 351 | 
 | 2023-01-09 | 1923 | 351 | 
 | 2023-01-08 | 1923 | 349 | 
 | 2023-01-07 | 1923 | 349 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 1914 | 347 | 
 | 2022-12-13 | 1914 | 346 | 
 | 2022-12-12 | 1914 | 346 | 
-| 2022-12-11 | 1913 | 345 | 
 

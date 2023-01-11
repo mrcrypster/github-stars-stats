@@ -1,10 +1,10 @@
 # Kramar1337/Tower-of-Fantasy-AHK-flex - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 11
 
-★ Stars: 38
+★ Stars: 39
 
 [Open repository](https://github.com/Kramar1337/Tower-of-Fantasy-AHK-flex)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 39 | 11 | 
 | 2023-01-09 | 38 | 11 | 
 | 2023-01-08 | 38 | 11 | 
 | 2023-01-07 | 38 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 34 | 11 | 
 | 2022-12-13 | 35 | 11 | 
 | 2022-12-12 | 34 | 11 | 
-| 2022-12-11 | 34 | 11 | 
 

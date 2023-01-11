@@ -1,6 +1,6 @@
 # anonystick/anonystick - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 77
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 284 | 77 | 
 | 2023-01-09 | 284 | 77 | 
 | 2023-01-08 | 283 | 75 | 
 | 2023-01-07 | 283 | 75 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 260 | 71 | 
 | 2022-12-13 | 259 | 71 | 
 | 2022-12-12 | 257 | 71 | 
-| 2022-12-11 | 255 | 72 | 
 

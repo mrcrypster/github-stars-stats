@@ -1,10 +1,10 @@
 # improsec/SharpEventPersist - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 47
 
-★ Stars: 316
+★ Stars: 317
 
 [Open repository](https://github.com/improsec/SharpEventPersist)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 317 | 47 | 
 | 2023-01-09 | 316 | 47 | 
 | 2023-01-08 | 316 | 47 | 
 | 2023-01-07 | 316 | 47 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 314 | 47 | 
 | 2022-12-14 | 314 | 47 | 
 | 2022-12-12 | 314 | 47 | 
-| 2022-12-11 | 314 | 47 | 
 

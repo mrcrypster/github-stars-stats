@@ -1,6 +1,6 @@
 # abbodi1406/BatUtil - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 192
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 571 | 192 | 
+| 2023-01-10 | 571 | 192 | 
 | 2023-01-09 | 571 | 192 | 
 | 2023-01-08 | 571 | 190 | 
 | 2023-01-07 | 570 | 190 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 556 | 184 | 
 | 2022-12-14 | 556 | 185 | 
 | 2022-12-13 | 555 | 185 | 
-| 2022-12-12 | 556 | 185 | 
 

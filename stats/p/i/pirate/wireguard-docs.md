@@ -1,10 +1,10 @@
 # pirate/wireguard-docs - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 266
 
-★ Stars: 3812
+★ Stars: 3813
 
 [Open repository](https://github.com/pirate/wireguard-docs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 3813 | 266 | 
 | 2023-01-10 | 3812 | 266 | 
 | 2023-01-08 | 3809 | 265 | 
 | 2023-01-07 | 3802 | 265 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 3768 | 264 | 
 | 2022-12-14 | 3766 | 264 | 
 | 2022-12-12 | 3765 | 264 | 
-| 2022-12-11 | 3765 | 264 | 
 

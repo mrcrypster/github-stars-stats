@@ -1,10 +1,10 @@
 # woctezuma/stable-diffusion-colab - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 23
+☋ Forks: 24
 
-★ Stars: 96
+★ Stars: 97
 
 [Open repository](https://github.com/woctezuma/stable-diffusion-colab)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 97 | 24 | 
 | 2023-01-09 | 96 | 23 | 
 | 2023-01-08 | 94 | 23 | 
 | 2023-01-07 | 94 | 23 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 83 | 17 | 
 | 2022-12-14 | 82 | 17 | 
 | 2022-12-13 | 81 | 17 | 
-| 2022-12-12 | 81 | 17 | 
 

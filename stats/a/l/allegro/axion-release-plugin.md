@@ -1,6 +1,6 @@
 # allegro/axion-release-plugin - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 136
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 488 | 136 | 
 | 2023-01-09 | 488 | 136 | 
 | 2023-01-08 | 488 | 136 | 
 | 2023-01-07 | 488 | 136 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 485 | 136 | 
 | 2022-12-14 | 486 | 136 | 
 | 2022-12-13 | 486 | 136 | 
-| 2022-12-12 | 486 | 136 | 
 

@@ -1,10 +1,10 @@
 # 0xAX/linux-insides - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 3136
 
-★ Stars: 27660
+★ Stars: 27666
 
 [Open repository](https://github.com/0xAX/linux-insides)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 27666 | 3136 | 
 | 2023-01-09 | 27660 | 3136 | 
 | 2023-01-08 | 27658 | 3136 | 
 | 2023-01-07 | 27659 | 3135 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 27588 | 3119 | 
 | 2022-12-13 | 27583 | 3116 | 
 | 2022-12-12 | 27577 | 3116 | 
-| 2022-12-11 | 27561 | 3116 | 
 

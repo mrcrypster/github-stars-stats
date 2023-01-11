@@ -1,10 +1,10 @@
 # muchobien/pocketbase-docker - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 22
 
-★ Stars: 89
+★ Stars: 91
 
 [Open repository](https://github.com/muchobien/pocketbase-docker)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 91 | 22 | 
 | 2023-01-09 | 89 | 22 | 
 | 2023-01-08 | 89 | 22 | 
 | 2023-01-07 | 88 | 22 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 72 | 18 | 
 | 2022-12-14 | 71 | 18 | 
 | 2022-12-13 | 70 | 18 | 
-| 2022-12-12 | 69 | 17 | 
 

@@ -1,10 +1,10 @@
 # Michael-OvO/Burn-Detection-Classification - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 11
 
-☋ Forks: 48
+☋ Forks: 49
 
-★ Stars: 208
+★ Stars: 209
 
 [Open repository](https://github.com/Michael-OvO/Burn-Detection-Classification)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 209 | 49 | 
 | 2023-01-09 | 208 | 48 | 
 | 2023-01-08 | 208 | 48 | 
 | 2023-01-07 | 207 | 47 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 196 | 47 | 
 | 2022-12-14 | 198 | 47 | 
 | 2022-12-12 | 198 | 46 | 
-| 2022-12-11 | 197 | 46 | 
 

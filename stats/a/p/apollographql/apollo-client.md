@@ -1,10 +1,10 @@
 # apollographql/apollo-client - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 2520
+☋ Forks: 2519
 
-★ Stars: 18358
+★ Stars: 18364
 
 [Open repository](https://github.com/apollographql/apollo-client)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 18364 | 2519 | 
 | 2023-01-09 | 18358 | 2520 | 
 | 2023-01-08 | 18356 | 2520 | 
 | 2023-01-07 | 18354 | 2520 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 18307 | 2503 | 
 | 2022-12-13 | 18305 | 2503 | 
 | 2022-12-12 | 18302 | 2501 | 
-| 2022-12-11 | 18295 | 2500 | 
 

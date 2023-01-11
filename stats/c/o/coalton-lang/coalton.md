@@ -1,8 +1,8 @@
 # coalton-lang/coalton - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 43
+☋ Forks: 44
 
 ★ Stars: 659
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 659 | 44 | 
 | 2023-01-09 | 659 | 43 | 
 | 2023-01-08 | 658 | 43 | 
 | 2023-01-07 | 658 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 641 | 41 | 
 | 2022-12-14 | 633 | 39 | 
 | 2022-12-12 | 632 | 39 | 
-| 2022-12-11 | 631 | 39 | 
 

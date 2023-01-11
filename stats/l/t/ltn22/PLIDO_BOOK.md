@@ -1,6 +1,6 @@
 # ltn22/PLIDO_BOOK - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 9 | 4 | 
 | 2023-01-09 | 9 | 4 | 
 | 2023-01-08 | 9 | 4 | 
 | 2023-01-07 | 9 | 4 | 

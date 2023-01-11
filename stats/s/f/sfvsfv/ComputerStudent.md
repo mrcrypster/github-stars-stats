@@ -1,6 +1,6 @@
 # sfvsfv/ComputerStudent - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 247
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 557 | 247 | 
 | 2023-01-09 | 557 | 247 | 
 | 2023-01-08 | 557 | 247 | 
 | 2023-01-07 | 556 | 247 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 537 | 243 | 
 | 2022-12-14 | 537 | 243 | 
 | 2022-12-13 | 537 | 243 | 
-| 2022-12-11 | 536 | 243 | 
 

@@ -1,10 +1,10 @@
 # reoreo-zyt/blog - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 0
 
-★ Stars: 33
+★ Stars: 34
 
 [Open repository](https://github.com/reoreo-zyt/blog)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 34 | - | 
 | 2023-01-09 | 33 | - | 
 | 2023-01-08 | 33 | - | 
 | 2023-01-07 | 33 | - | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 33 | - | 
 | 2022-12-14 | 33 | - | 
 | 2022-12-13 | 33 | - | 
-| 2022-12-12 | 33 | - | 
 

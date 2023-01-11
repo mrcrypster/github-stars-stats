@@ -1,10 +1,10 @@
 # FightingDesign/fighting-design - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 132
+☋ Forks: 133
 
-★ Stars: 351
+★ Stars: 352
 
 [Open repository](https://github.com/FightingDesign/fighting-design)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 352 | 133 | 
 | 2023-01-09 | 351 | 132 | 
 | 2023-01-08 | 350 | 132 | 
 | 2023-01-07 | 349 | 132 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 337 | 126 | 
 | 2022-12-14 | 338 | 127 | 
 | 2022-12-13 | 339 | 126 | 
-| 2022-12-11 | 339 | 126 | 
 

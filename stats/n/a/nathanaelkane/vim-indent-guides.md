@@ -1,8 +1,8 @@
 # nathanaelkane/vim-indent-guides - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 156
+☋ Forks: 157
 
 ★ Stars: 2538
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 2538 | 157 | 
 | 2023-01-09 | 2538 | 156 | 
 | 2023-01-08 | 2539 | 156 | 
 | 2023-01-07 | 2539 | 156 | 

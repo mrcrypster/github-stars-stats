@@ -1,6 +1,6 @@
 # vacuumlabs/persistent - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 18 | 3 | 
 | 2023-01-09 | 18 | 3 | 
 | 2023-01-08 | 18 | 3 | 
 | 2023-01-07 | 18 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 18 | 3 | 
 | 2022-12-14 | 18 | 3 | 
 | 2022-12-13 | 19 | 3 | 
-| 2022-12-11 | 19 | 3 | 
 

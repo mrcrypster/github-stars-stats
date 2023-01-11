@@ -1,6 +1,6 @@
 # aaronshaf/dynamodb-admin - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 121
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 1137 | 121 | 
 | 2023-01-09 | 1137 | 121 | 
 | 2023-01-08 | 1137 | 121 | 
 | 2023-01-07 | 1137 | 121 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 1126 | 121 | 
 | 2022-12-14 | 1125 | 121 | 
 | 2022-12-13 | 1125 | 121 | 
-| 2022-12-11 | 1124 | 121 | 
 

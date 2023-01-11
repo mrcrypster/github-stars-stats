@@ -1,10 +1,10 @@
 # FortAwesome/Font-Awesome - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 12274
+☋ Forks: 12276
 
-★ Stars: 70696
+★ Stars: 70700
 
 [Open repository](https://github.com/FortAwesome/Font-Awesome)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 70700 | 12276 | 
 | 2023-01-09 | 70696 | 12274 | 
 | 2023-01-08 | 70687 | 12272 | 
 | 2023-01-07 | 70681 | 12272 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 70606 | 12258 | 
 | 2022-12-14 | 70599 | 12259 | 
 | 2022-12-13 | 70591 | 12259 | 
-| 2022-12-11 | 70586 | 12258 | 
 

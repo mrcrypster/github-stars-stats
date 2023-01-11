@@ -1,10 +1,10 @@
 # swagger-api/swagger-editor - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 2115
 
-★ Stars: 7972
+★ Stars: 7973
 
 [Open repository](https://github.com/swagger-api/swagger-editor)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 7973 | 2115 | 
 | 2023-01-09 | 7972 | 2115 | 
 | 2023-01-08 | 7969 | 2115 | 
 | 2023-01-07 | 7968 | 2115 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 7941 | 2110 | 
 | 2022-12-14 | 7939 | 2110 | 
 | 2022-12-13 | 7937 | 2110 | 
-| 2022-12-11 | 7936 | 2109 | 
 

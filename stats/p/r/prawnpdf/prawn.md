@@ -1,10 +1,10 @@
 # prawnpdf/prawn - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 671
 
-★ Stars: 4394
+★ Stars: 4393
 
 [Open repository](https://github.com/prawnpdf/prawn)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 4393 | 671 | 
 | 2023-01-09 | 4394 | 671 | 
 | 2023-01-08 | 4394 | 671 | 
 | 2023-01-07 | 4394 | 671 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 4392 | 668 | 
 | 2022-12-14 | 4388 | 668 | 
 | 2022-12-13 | 4387 | 668 | 
-| 2022-12-12 | 4387 | 668 | 
 

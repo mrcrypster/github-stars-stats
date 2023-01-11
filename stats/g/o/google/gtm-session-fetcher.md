@@ -1,10 +1,10 @@
 # google/gtm-session-fetcher - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 171
 
-★ Stars: 197
+★ Stars: 198
 
 [Open repository](https://github.com/google/gtm-session-fetcher)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 198 | 171 | 
 | 2023-01-09 | 197 | 171 | 
 | 2023-01-08 | 197 | 171 | 
 | 2023-01-07 | 197 | 171 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 196 | 171 | 
 | 2022-12-13 | 196 | 171 | 
 | 2022-12-12 | 196 | 171 | 
-| 2022-12-11 | 195 | 171 | 
 

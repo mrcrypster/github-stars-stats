@@ -1,10 +1,10 @@
 # markriedl/transformer-walkthrough - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 11
 
-★ Stars: 185
+★ Stars: 187
 
 [Open repository](https://github.com/markriedl/transformer-walkthrough)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 187 | 11 | 
 | 2023-01-09 | 185 | 11 | 
 | 2023-01-08 | 181 | 11 | 
 | 2023-01-07 | 176 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 174 | 10 | 
 | 2022-12-13 | 174 | 10 | 
 | 2022-12-12 | 174 | 10 | 
-| 2022-12-11 | 174 | 10 | 
 

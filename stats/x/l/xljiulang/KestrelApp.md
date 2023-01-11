@@ -1,10 +1,10 @@
 # xljiulang/KestrelApp - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 19
+☋ Forks: 20
 
-★ Stars: 121
+★ Stars: 122
 
 [Open repository](https://github.com/xljiulang/KestrelApp)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 122 | 20 | 
 | 2023-01-09 | 121 | 19 | 
 | 2023-01-08 | 121 | 19 | 
 | 2023-01-07 | 121 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 102 | 14 | 
 | 2022-12-14 | 98 | 14 | 
 | 2022-12-12 | 91 | 11 | 
-| 2022-12-11 | 84 | 11 | 
 

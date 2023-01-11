@@ -1,6 +1,6 @@
 # ClaperCo/Claper - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 158 | 11 | 
 | 2023-01-09 | 158 | 11 | 
 | 2023-01-07 | 158 | 11 | 
 | 2023-01-06 | 158 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 155 | 11 | 
 | 2022-12-14 | 155 | 11 | 
 | 2022-12-12 | 154 | 11 | 
-| 2022-12-11 | 154 | 11 | 
 

@@ -1,6 +1,6 @@
 # DIVD-NL/sites - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 15 | 30 | 
 | 2023-01-09 | 15 | 30 | 
 | 2023-01-08 | 15 | 30 | 
 | 2023-01-07 | 15 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 14 | 31 | 
 | 2022-12-13 | 15 | 31 | 
 | 2022-12-12 | 15 | 31 | 
-| 2022-12-11 | 15 | 31 | 
 

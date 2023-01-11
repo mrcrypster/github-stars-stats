@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 10
 
 ☋ Forks: 394
 
-★ Stars: 898
+★ Stars: 899
 
 [Open repository](https://github.com/Slurmio/school-dev-k8s)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-10 | 898 | 394 | 
+| 2023-01-10 | 899 | 394 | 
 | 2023-01-09 | 898 | 394 | 
 | 2023-01-08 | 899 | 393 | 
 | 2023-01-07 | 899 | 394 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 898 | 385 | 
 | 2022-12-14 | 897 | 385 | 
 | 2022-12-12 | 897 | 385 | 
-| 2022-12-11 | 896 | 385 | 
 

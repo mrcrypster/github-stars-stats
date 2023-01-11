@@ -1,10 +1,10 @@
 # feline-nvim/feline.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 56
 
-★ Stars: 990
+★ Stars: 991
 
 [Open repository](https://github.com/feline-nvim/feline.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 991 | 56 | 
 | 2023-01-09 | 990 | 56 | 
 | 2023-01-08 | 989 | 56 | 
 | 2023-01-07 | 986 | 56 | 

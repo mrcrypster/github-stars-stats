@@ -1,6 +1,6 @@
 # AudioKit/AudioKit - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 1461
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 9549 | 1461 | 
 | 2023-01-09 | 9549 | 1461 | 
 | 2023-01-08 | 9540 | 1461 | 
 | 2023-01-07 | 9538 | 1461 | 

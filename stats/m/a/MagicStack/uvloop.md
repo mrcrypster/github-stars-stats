@@ -1,10 +1,10 @@
 # MagicStack/uvloop - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 529
 
-★ Stars: 9119
+★ Stars: 9120
 
 [Open repository](https://github.com/MagicStack/uvloop)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 9120 | 529 | 
 | 2023-01-09 | 9119 | 529 | 
 | 2023-01-08 | 9118 | 529 | 
 | 2023-01-07 | 9117 | 529 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 9063 | 523 | 
 | 2022-12-13 | 9064 | 523 | 
 | 2022-12-12 | 9061 | 523 | 
-| 2022-12-11 | 9058 | 522 | 
 

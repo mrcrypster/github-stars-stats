@@ -1,10 +1,10 @@
 # coolbutuseless/tickle - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 2
 
-★ Stars: 108
+★ Stars: 109
 
 [Open repository](https://github.com/coolbutuseless/tickle)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 109 | 2 | 
 | 2023-01-09 | 108 | 2 | 
 | 2023-01-08 | 108 | 2 | 
 | 2023-01-07 | 108 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 106 | 2 | 
 | 2022-12-14 | 106 | 2 | 
 | 2022-12-13 | 106 | 2 | 
-| 2022-12-12 | 106 | 2 | 
 

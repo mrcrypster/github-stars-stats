@@ -1,10 +1,10 @@
 # microsoftgraph/microsoft-graph-docs - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 1764
+☋ Forks: 1768
 
-★ Stars: 1019
+★ Stars: 1020
 
 [Open repository](https://github.com/microsoftgraph/microsoft-graph-docs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 1020 | 1768 | 
 | 2023-01-09 | 1019 | 1764 | 
 | 2023-01-08 | 1019 | 1764 | 
 | 2023-01-07 | 1018 | 1764 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 1008 | 1744 | 
 | 2022-12-13 | 1008 | 1744 | 
 | 2022-12-12 | 1006 | 1738 | 
-| 2022-12-11 | 1006 | 1738 | 
 

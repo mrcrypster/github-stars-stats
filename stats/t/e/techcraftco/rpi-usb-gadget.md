@@ -1,10 +1,10 @@
 # techcraftco/rpi-usb-gadget - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 12
+☋ Forks: 13
 
-★ Stars: 129
+★ Stars: 130
 
 [Open repository](https://github.com/techcraftco/rpi-usb-gadget)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 130 | 13 | 
 | 2023-01-09 | 129 | 12 | 
 | 2023-01-08 | 129 | 12 | 
 | 2023-01-07 | 129 | 12 | 

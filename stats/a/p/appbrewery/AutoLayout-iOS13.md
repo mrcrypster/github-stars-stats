@@ -1,8 +1,8 @@
 # appbrewery/AutoLayout-iOS13 - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 301
+☋ Forks: 304
 
 ★ Stars: 98
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 98 | 304 | 
 | 2023-01-09 | 98 | 301 | 
 | 2023-01-08 | 98 | 300 | 
 | 2023-01-07 | 98 | 300 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 97 | 292 | 
 | 2022-12-13 | 97 | 292 | 
 | 2022-12-12 | 97 | 292 | 
-| 2022-12-11 | 97 | 291 | 
 

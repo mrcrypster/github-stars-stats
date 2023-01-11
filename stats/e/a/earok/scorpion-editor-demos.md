@@ -1,6 +1,6 @@
 # earok/scorpion-editor-demos - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 117 | 6 | 
 | 2023-01-09 | 117 | 6 | 
 | 2023-01-08 | 117 | 6 | 
 | 2023-01-07 | 117 | 6 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 115 | 6 | 
 | 2022-12-14 | 115 | 6 | 
 | 2022-12-13 | 115 | 6 | 
-| 2022-12-11 | 115 | 6 | 
 

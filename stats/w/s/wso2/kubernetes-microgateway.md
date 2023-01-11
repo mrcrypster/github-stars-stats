@@ -1,6 +1,6 @@
 # wso2/kubernetes-microgateway - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 3 | 15 | 
 | 2023-01-09 | 3 | 15 | 
 | 2023-01-08 | 3 | 15 | 
 | 2023-01-07 | 3 | 15 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 3 | 15 | 
 | 2022-12-14 | 3 | 15 | 
 | 2022-12-13 | 3 | 15 | 
-| 2022-12-11 | 3 | 15 | 
 

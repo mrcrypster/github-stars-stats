@@ -1,10 +1,10 @@
 # prophesier/diff-svc - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 54
 
-★ Stars: 345
+★ Stars: 349
 
 [Open repository](https://github.com/prophesier/diff-svc)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 349 | 54 | 
 | 2023-01-09 | 345 | 54 | 
 | 2023-01-08 | 339 | 53 | 
 | 2023-01-07 | 334 | 52 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 222 | 35 | 
 | 2022-12-14 | 217 | 34 | 
 | 2022-12-13 | 216 | 34 | 
-| 2022-12-11 | 207 | 30 | 
 

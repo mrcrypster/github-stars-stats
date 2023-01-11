@@ -1,6 +1,6 @@
 # jyxjjj/Telegram-Bot - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 208 | 42 | 
 | 2023-01-09 | 208 | 42 | 
 | 2023-01-08 | 209 | 42 | 
 | 2023-01-07 | 208 | 42 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 208 | 42 | 
 | 2022-12-14 | 208 | 42 | 
 | 2022-12-13 | 208 | 42 | 
-| 2022-12-12 | 208 | 42 | 
 

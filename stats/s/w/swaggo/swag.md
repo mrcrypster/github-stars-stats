@@ -1,10 +1,10 @@
 # swaggo/swag - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 954
+☋ Forks: 956
 
-★ Stars: 7488
+★ Stars: 7491
 
 [Open repository](https://github.com/swaggo/swag)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 7491 | 956 | 
 | 2023-01-09 | 7488 | 954 | 
 | 2023-01-08 | 7485 | 954 | 
 | 2023-01-07 | 7479 | 954 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 7297 | 937 | 
 | 2022-12-14 | 7290 | 935 | 
 | 2022-12-12 | 7282 | 935 | 
-| 2022-12-11 | 7277 | 935 | 
 

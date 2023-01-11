@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 10
 
 ☋ Forks: 301
 
-★ Stars: 460
+★ Stars: 462
 
 [Open repository](https://github.com/monkeyWzr/hugo-theme-cactus)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-10 | 460 | 301 | 
+| 2023-01-10 | 462 | 301 | 
 | 2023-01-09 | 460 | 301 | 
 | 2023-01-08 | 460 | 300 | 
 | 2023-01-07 | 459 | 301 | 

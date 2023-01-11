@@ -1,6 +1,6 @@
 # Paramchoudhary/30-days-30-contracts - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 63 | 4 | 
 | 2023-01-09 | 63 | 4 | 
 | 2023-01-08 | 63 | 4 | 
 | 2023-01-07 | 63 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 62 | 4 | 
 | 2022-12-14 | 62 | 4 | 
 | 2022-12-12 | 62 | 4 | 
-| 2022-12-11 | 62 | 4 | 
 

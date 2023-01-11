@@ -1,6 +1,6 @@
 # SWI-Prolog/packages-cql - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 6 | 5 | 
 | 2023-01-09 | 6 | 5 | 
 | 2023-01-08 | 6 | 5 | 
 | 2023-01-07 | 6 | 5 | 

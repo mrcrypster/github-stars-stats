@@ -1,6 +1,6 @@
 # MetricsDAO/near_dbt - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 13 | 10 | 
 | 2023-01-09 | 13 | 10 | 
 | 2023-01-08 | 13 | 10 | 
 | 2023-01-07 | 13 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 13 | 10 | 
 | 2022-12-14 | 13 | 10 | 
 | 2022-12-13 | 13 | 10 | 
-| 2022-12-11 | 13 | 10 | 
 

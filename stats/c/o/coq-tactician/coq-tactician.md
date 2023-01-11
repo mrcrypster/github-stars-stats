@@ -1,6 +1,6 @@
 # coq-tactician/coq-tactician - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 38 | 7 | 
 | 2023-01-09 | 38 | 7 | 
 | 2023-01-08 | 38 | 7 | 
 | 2023-01-07 | 38 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 38 | 7 | 
 | 2022-12-14 | 38 | 7 | 
 | 2022-12-13 | 38 | 7 | 
-| 2022-12-11 | 38 | 7 | 
 

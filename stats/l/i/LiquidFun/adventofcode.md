@@ -1,10 +1,10 @@
 # LiquidFun/adventofcode - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 9
+☋ Forks: 8
 
-★ Stars: 41
+★ Stars: 42
 
 [Open repository](https://github.com/LiquidFun/adventofcode)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 42 | 8 | 
 | 2023-01-09 | 41 | 9 | 
 | 2023-01-08 | 41 | 9 | 
 | 2023-01-07 | 41 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 39 | 9 | 
 | 2022-12-13 | 39 | 9 | 
 | 2022-12-12 | 38 | 10 | 
-| 2022-12-11 | 38 | 10 | 
 

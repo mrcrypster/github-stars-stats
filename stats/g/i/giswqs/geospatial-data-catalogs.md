@@ -1,10 +1,10 @@
 # giswqs/geospatial-data-catalogs - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 28
+☋ Forks: 29
 
-★ Stars: 302
+★ Stars: 308
 
 [Open repository](https://github.com/giswqs/geospatial-data-catalogs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 308 | 29 | 
 | 2023-01-09 | 302 | 28 | 
 | 2023-01-08 | 298 | 26 | 
 | 2023-01-07 | 292 | 26 | 

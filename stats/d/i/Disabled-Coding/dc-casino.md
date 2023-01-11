@@ -1,10 +1,10 @@
 # Disabled-Coding/dc-casino - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 17
 
-★ Stars: 44
+★ Stars: 43
 
 [Open repository](https://github.com/Disabled-Coding/dc-casino)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 43 | 17 | 
 | 2023-01-09 | 44 | 17 | 
 | 2023-01-08 | 44 | 17 | 
 | 2023-01-07 | 43 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 41 | 14 | 
 | 2022-12-14 | 41 | 14 | 
 | 2022-12-13 | 41 | 14 | 
-| 2022-12-11 | 40 | 14 | 
 

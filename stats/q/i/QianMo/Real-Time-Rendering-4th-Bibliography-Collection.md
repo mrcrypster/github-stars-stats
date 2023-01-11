@@ -1,6 +1,6 @@
 # QianMo/Real-Time-Rendering-4th-Bibliography-Collection - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 889
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 2774 | 889 | 
 | 2023-01-09 | 2774 | 889 | 
 | 2023-01-08 | 2773 | 889 | 
 | 2023-01-07 | 2772 | 890 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 2750 | 882 | 
 | 2022-12-14 | 2748 | 881 | 
 | 2022-12-13 | 2747 | 881 | 
-| 2022-12-11 | 2744 | 880 | 
 

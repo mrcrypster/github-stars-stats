@@ -1,10 +1,10 @@
 # JuliaLang/julia - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 5076
+☋ Forks: 5075
 
-★ Stars: 41325
+★ Stars: 41336
 
 [Open repository](https://github.com/JuliaLang/julia)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 41336 | 5075 | 
 | 2023-01-09 | 41325 | 5076 | 
 | 2023-01-08 | 41320 | 5074 | 
 | 2023-01-07 | 41311 | 5072 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 41141 | 5051 | 
 | 2022-12-13 | 41132 | 5052 | 
 | 2022-12-12 | 41125 | 5051 | 
-| 2022-12-11 | 41120 | 5048 | 
 

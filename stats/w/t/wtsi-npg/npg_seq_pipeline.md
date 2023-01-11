@@ -1,6 +1,6 @@
 # wtsi-npg/npg_seq_pipeline - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 9 | 16 | 
 | 2023-01-09 | 9 | 16 | 
 | 2023-01-08 | 9 | 16 | 
 | 2023-01-06 | 9 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 9 | 16 | 
 | 2022-12-14 | 9 | 16 | 
 | 2022-12-12 | 9 | 16 | 
-| 2022-12-11 | 9 | 16 | 
 

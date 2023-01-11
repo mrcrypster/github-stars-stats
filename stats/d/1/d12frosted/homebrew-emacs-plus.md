@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 10
 
 ☋ Forks: 143
 
-★ Stars: 1703
+★ Stars: 1704
 
 [Open repository](https://github.com/d12frosted/homebrew-emacs-plus)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-10 | 1703 | 143 | 
+| 2023-01-10 | 1704 | 143 | 
 | 2023-01-09 | 1703 | 143 | 
 | 2023-01-08 | 1703 | 143 | 
 | 2023-01-07 | 1701 | 143 | 

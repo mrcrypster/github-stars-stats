@@ -1,10 +1,10 @@
 # ionic-team/stencil - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 726
 
-★ Stars: 11317
+★ Stars: 11318
 
 [Open repository](https://github.com/ionic-team/stencil)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 11318 | 726 | 
 | 2023-01-09 | 11317 | 726 | 
 | 2023-01-08 | 11313 | 726 | 
 | 2023-01-07 | 11312 | 727 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 11264 | 726 | 
 | 2022-12-14 | 11264 | 725 | 
 | 2022-12-13 | 11262 | 724 | 
-| 2022-12-11 | 11258 | 723 | 
 

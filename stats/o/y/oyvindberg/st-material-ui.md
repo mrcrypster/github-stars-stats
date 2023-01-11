@@ -1,10 +1,10 @@
 # oyvindberg/st-material-ui - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 2
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/oyvindberg/st-material-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 24 | 2 | 
 | 2023-01-09 | 23 | 2 | 
 | 2023-01-08 | 23 | 2 | 
 | 2023-01-07 | 23 | 2 | 

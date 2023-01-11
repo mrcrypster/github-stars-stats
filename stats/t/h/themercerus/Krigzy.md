@@ -1,10 +1,10 @@
 # themercerus/Krigzy - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 0
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/themercerus/Krigzy)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 24 | - | 
 | 2023-01-09 | 23 | - | 
 | 2023-01-08 | 23 | - | 
 | 2023-01-07 | 22 | - | 

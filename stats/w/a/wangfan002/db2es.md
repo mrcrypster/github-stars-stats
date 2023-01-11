@@ -1,6 +1,6 @@
 # wangfan002/db2es - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 229 | 45 | 
 | 2023-01-09 | 229 | 45 | 
 | 2023-01-08 | 229 | 45 | 
 | 2023-01-07 | 230 | 45 | 

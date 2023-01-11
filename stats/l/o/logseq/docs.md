@@ -1,8 +1,8 @@
 # logseq/docs - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 68
+☋ Forks: 67
 
 ★ Stars: 56
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 56 | 67 | 
 | 2023-01-09 | 56 | 68 | 
 | 2023-01-08 | 56 | 68 | 
 | 2023-01-07 | 56 | 68 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 51 | 65 | 
 | 2022-12-13 | 51 | 65 | 
 | 2022-12-12 | 51 | 65 | 
-| 2022-12-11 | 51 | 65 | 
 

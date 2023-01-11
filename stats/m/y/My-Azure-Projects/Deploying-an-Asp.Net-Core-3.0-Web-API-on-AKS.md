@@ -1,6 +1,6 @@
 # My-Azure-Projects/Deploying-an-Asp.Net-Core-3.0-Web-API-on-AKS - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 13 | 4 | 
 | 2023-01-09 | 13 | 4 | 
 | 2023-01-08 | 13 | 4 | 
 | 2023-01-07 | 13 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 13 | 4 | 
 | 2022-12-14 | 13 | 4 | 
 | 2022-12-12 | 13 | 4 | 
-| 2022-12-11 | 13 | 4 | 
 

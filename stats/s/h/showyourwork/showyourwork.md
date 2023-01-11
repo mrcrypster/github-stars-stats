@@ -1,6 +1,6 @@
 # showyourwork/showyourwork - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 376 | 25 | 
 | 2023-01-09 | 376 | 25 | 
 | 2023-01-08 | 376 | 25 | 
 | 2023-01-07 | 376 | 25 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 375 | 24 | 
 | 2022-12-14 | 375 | 24 | 
 | 2022-12-13 | 375 | 24 | 
-| 2022-12-11 | 373 | 24 | 
 

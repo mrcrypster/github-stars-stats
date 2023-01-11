@@ -1,6 +1,6 @@
 # Nican/Furland - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 256 | 13 | 
 | 2023-01-09 | 256 | 13 | 
 | 2023-01-08 | 257 | 13 | 
 | 2023-01-07 | 256 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 252 | 13 | 
 | 2022-12-14 | 252 | 13 | 
 | 2022-12-12 | 252 | 13 | 
-| 2022-12-11 | 252 | 13 | 
 

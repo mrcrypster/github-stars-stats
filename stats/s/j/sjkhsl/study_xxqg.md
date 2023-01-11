@@ -1,10 +1,10 @@
 # sjkhsl/study_xxqg - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 73
+☋ Forks: 74
 
-★ Stars: 92
+★ Stars: 96
 
 [Open repository](https://github.com/sjkhsl/study_xxqg)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 96 | 74 | 
 | 2023-01-09 | 92 | 73 | 
 | 2023-01-08 | 92 | 72 | 
 | 2023-01-07 | 88 | 71 | 

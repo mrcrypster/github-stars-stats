@@ -1,6 +1,6 @@
 # sifive/Kami - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 180 | 13 | 
 | 2023-01-09 | 180 | 13 | 
 | 2023-01-08 | 180 | 13 | 
 | 2023-01-07 | 180 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 180 | 13 | 
 | 2022-12-14 | 180 | 13 | 
 | 2022-12-13 | 180 | 13 | 
-| 2022-12-12 | 180 | 13 | 
 

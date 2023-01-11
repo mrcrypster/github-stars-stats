@@ -1,6 +1,6 @@
 # naraB/ElasticScroll - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 182 | 21 | 
 | 2023-01-09 | 182 | 21 | 
 | 2023-01-08 | 181 | 21 | 
 | 2023-01-07 | 181 | 21 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 179 | 21 | 
 | 2022-12-14 | 179 | 21 | 
 | 2022-12-13 | 179 | 21 | 
-| 2022-12-11 | 179 | 21 | 
 

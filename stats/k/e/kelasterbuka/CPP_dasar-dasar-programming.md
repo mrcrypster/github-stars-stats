@@ -1,6 +1,6 @@
 # kelasterbuka/CPP_dasar-dasar-programming - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 128
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 166 | 128 | 
 | 2023-01-09 | 166 | 128 | 
 | 2023-01-08 | 166 | 128 | 
 | 2023-01-07 | 167 | 127 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 165 | 125 | 
 | 2022-12-14 | 165 | 125 | 
 | 2022-12-12 | 165 | 125 | 
-| 2022-12-11 | 165 | 125 | 
 

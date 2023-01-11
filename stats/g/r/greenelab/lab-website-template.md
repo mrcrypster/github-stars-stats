@@ -1,8 +1,8 @@
 # greenelab/lab-website-template - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 149
+☋ Forks: 151
 
 ★ Stars: 135
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 135 | 151 | 
 | 2023-01-09 | 135 | 149 | 
 | 2023-01-08 | 135 | 149 | 
 | 2023-01-07 | 135 | 149 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 131 | 144 | 
 | 2022-12-13 | 131 | 144 | 
 | 2022-12-12 | 131 | 144 | 
-| 2022-12-11 | 131 | 144 | 
 

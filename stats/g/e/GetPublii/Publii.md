@@ -1,6 +1,6 @@
 # GetPublii/Publii - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 325
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 5209 | 325 | 
 | 2023-01-09 | 5209 | 325 | 
 | 2023-01-08 | 5207 | 325 | 
 | 2023-01-07 | 5202 | 325 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 5166 | 321 | 
 | 2022-12-13 | 5165 | 321 | 
 | 2022-12-12 | 5162 | 320 | 
-| 2022-12-11 | 5156 | 320 | 
 

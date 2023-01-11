@@ -1,10 +1,10 @@
 # 48d31kh413k/1337-Piscine-42 - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 128
+☋ Forks: 129
 
-★ Stars: 310
+★ Stars: 309
 
 [Open repository](https://github.com/48d31kh413k/1337-Piscine-42)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 309 | 129 | 
 | 2023-01-09 | 310 | 128 | 
 | 2023-01-08 | 312 | 128 | 
 | 2023-01-07 | 311 | 127 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 307 | 135 | 
 | 2022-12-13 | 305 | 134 | 
 | 2022-12-12 | 305 | 135 | 
-| 2022-12-11 | 305 | 135 | 
 

@@ -1,8 +1,8 @@
 # db0/Lucid-Creations - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 8
+☋ Forks: 9
 
 ★ Stars: 64
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 64 | 9 | 
 | 2023-01-09 | 64 | 8 | 
 | 2023-01-08 | 65 | 8 | 
 | 2023-01-07 | 65 | 8 | 

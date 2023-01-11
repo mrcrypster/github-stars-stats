@@ -1,10 +1,10 @@
 # fabricjs/fabric.js - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 3185
 
-★ Stars: 23655
+★ Stars: 23664
 
 [Open repository](https://github.com/fabricjs/fabric.js)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 23664 | 3185 | 
 | 2023-01-09 | 23655 | 3185 | 
 | 2023-01-08 | 23645 | 3186 | 
 | 2023-01-07 | 23642 | 3186 | 

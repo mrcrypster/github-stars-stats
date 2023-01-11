@@ -1,10 +1,10 @@
 # pablo-arantes/making-it-rain - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 61
+☋ Forks: 62
 
-★ Stars: 230
+★ Stars: 231
 
 [Open repository](https://github.com/pablo-arantes/making-it-rain)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 231 | 62 | 
 | 2023-01-09 | 230 | 61 | 
 | 2023-01-08 | 230 | 61 | 
 | 2023-01-07 | 230 | 61 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 226 | 60 | 
 | 2022-12-14 | 225 | 60 | 
 | 2022-12-13 | 225 | 60 | 
-| 2022-12-11 | 225 | 60 | 
 

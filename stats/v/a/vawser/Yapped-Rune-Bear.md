@@ -1,10 +1,10 @@
 # vawser/Yapped-Rune-Bear - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 61
 
-★ Stars: 209
+★ Stars: 210
 
 [Open repository](https://github.com/vawser/Yapped-Rune-Bear)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 210 | 61 | 
 | 2023-01-09 | 209 | 61 | 
 | 2023-01-08 | 209 | 61 | 
 | 2023-01-07 | 208 | 61 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 204 | 60 | 
 | 2022-12-14 | 204 | 60 | 
 | 2022-12-13 | 203 | 60 | 
-| 2022-12-12 | 203 | 60 | 
 

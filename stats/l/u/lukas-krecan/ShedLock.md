@@ -1,10 +1,10 @@
 # lukas-krecan/ShedLock - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 426
 
-★ Stars: 2760
+★ Stars: 2762
 
 [Open repository](https://github.com/lukas-krecan/ShedLock)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 2762 | 426 | 
 | 2023-01-09 | 2760 | 426 | 
 | 2023-01-08 | 2760 | 426 | 
 | 2023-01-07 | 2761 | 426 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 2737 | 422 | 
 | 2022-12-14 | 2738 | 422 | 
 | 2022-12-13 | 2736 | 422 | 
-| 2022-12-11 | 2731 | 422 | 
 

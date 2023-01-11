@@ -1,6 +1,6 @@
 # OpenDroneMap/WebODM - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 756
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 2082 | 756 | 
 | 2023-01-09 | 2082 | 756 | 
 | 2023-01-08 | 2082 | 756 | 
 | 2023-01-07 | 2082 | 756 | 

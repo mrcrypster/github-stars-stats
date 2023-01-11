@@ -1,10 +1,10 @@
 # karolsluszniak/ex_check - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 8
 
-★ Stars: 272
+★ Stars: 274
 
 [Open repository](https://github.com/karolsluszniak/ex_check)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 274 | 8 | 
 | 2023-01-09 | 272 | 8 | 
 | 2023-01-08 | 272 | 8 | 
 | 2023-01-07 | 272 | 8 | 

@@ -1,10 +1,10 @@
 # google-developer-training/android-basics-kotlin-words-app - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 377
 
-★ Stars: 143
+★ Stars: 144
 
 [Open repository](https://github.com/google-developer-training/android-basics-kotlin-words-app)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 144 | 377 | 
 | 2023-01-09 | 143 | 377 | 
 | 2023-01-08 | 143 | 377 | 
 | 2023-01-07 | 143 | 377 | 

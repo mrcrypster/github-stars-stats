@@ -1,6 +1,6 @@
 # kaplanelad/shellfirm - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 654 | 17 | 
 | 2023-01-09 | 654 | 17 | 
 | 2023-01-08 | 653 | 17 | 
 | 2023-01-07 | 653 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 650 | 16 | 
 | 2022-12-14 | 649 | 16 | 
 | 2022-12-13 | 648 | 16 | 
-| 2022-12-11 | 647 | 16 | 
 

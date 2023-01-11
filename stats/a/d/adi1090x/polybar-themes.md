@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 10
 
 ☋ Forks: 372
 
-★ Stars: 4752
+★ Stars: 4753
 
 [Open repository](https://github.com/adi1090x/polybar-themes)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-10 | 4752 | 372 | 
+| 2023-01-10 | 4753 | 372 | 
 | 2023-01-09 | 4753 | 372 | 
 | 2023-01-08 | 4749 | 371 | 
 | 2023-01-07 | 4745 | 371 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-14 | 4697 | 371 | 
 | 2022-12-13 | 4696 | 370 | 
 | 2022-12-12 | 4692 | 371 | 
-| 2022-12-11 | 4687 | 371 | 
 

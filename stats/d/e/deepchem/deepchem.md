@@ -1,10 +1,10 @@
 # deepchem/deepchem - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 1432
 
-★ Stars: 4060
+★ Stars: 4062
 
 [Open repository](https://github.com/deepchem/deepchem)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 4062 | 1432 | 
 | 2023-01-09 | 4060 | 1432 | 
 | 2023-01-08 | 4056 | 1433 | 
 | 2023-01-07 | 4053 | 1433 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 4019 | 1422 | 
 | 2022-12-13 | 4015 | 1422 | 
 | 2022-12-12 | 4012 | 1421 | 
-| 2022-12-11 | 4008 | 1420 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 10
 
-☋ Forks: 597
+☋ Forks: 594
 
-★ Stars: 4461
+★ Stars: 4466
 
 [Open repository](https://github.com/4ian/GDevelop)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-10 | 4461 | 597 | 
+| 2023-01-10 | 4466 | 594 | 
 | 2023-01-09 | 4461 | 597 | 
 | 2023-01-08 | 4451 | 596 | 
 | 2023-01-07 | 4438 | 595 | 
@@ -41,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 4406 | 589 | 
 | 2022-12-13 | 4402 | 590 | 
 | 2022-12-12 | 4397 | 591 | 
-| 2022-12-11 | 4393 | 590 | 
 

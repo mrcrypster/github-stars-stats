@@ -1,10 +1,10 @@
 # onwidget/astrowind - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 107
 
-★ Stars: 455
+★ Stars: 466
 
 [Open repository](https://github.com/onwidget/astrowind)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 466 | 107 | 
 | 2023-01-09 | 455 | 107 | 
 | 2023-01-08 | 450 | 106 | 
 | 2023-01-07 | 446 | 104 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 390 | 89 | 
 | 2022-12-13 | 385 | 89 | 
 | 2022-12-12 | 382 | 88 | 
-| 2022-12-11 | 377 | 88 | 
 

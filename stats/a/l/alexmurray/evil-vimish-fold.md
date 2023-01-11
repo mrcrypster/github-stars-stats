@@ -1,6 +1,6 @@
 # alexmurray/evil-vimish-fold - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 62 | 5 | 
 | 2023-01-09 | 62 | 5 | 
 | 2023-01-08 | 62 | 5 | 
 | 2023-01-07 | 62 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 61 | 5 | 
 | 2022-12-14 | 61 | 5 | 
 | 2022-12-12 | 61 | 5 | 
-| 2022-12-11 | 61 | 5 | 
 

@@ -1,8 +1,8 @@
 # xingfa-peng/UnityTextureLoader - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 4
+☋ Forks: 5
 
 ★ Stars: 20
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 20 | 5 | 
 | 2023-01-09 | 20 | 4 | 
 | 2023-01-08 | 20 | 4 | 
 | 2023-01-07 | 20 | 4 | 

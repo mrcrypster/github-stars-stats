@@ -1,10 +1,10 @@
 # brix/crypto-js - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 1993
 
-★ Stars: 13831
+★ Stars: 13839
 
 [Open repository](https://github.com/brix/crypto-js)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 13839 | 1993 | 
 | 2023-01-09 | 13831 | 1993 | 
 | 2023-01-08 | 13827 | 1992 | 
 | 2023-01-07 | 13826 | 1989 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 13770 | 1980 | 
 | 2022-12-13 | 13771 | 1981 | 
 | 2022-12-12 | 13769 | 1982 | 
-| 2022-12-11 | 13767 | 1981 | 
 

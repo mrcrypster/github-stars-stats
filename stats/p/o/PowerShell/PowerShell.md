@@ -1,10 +1,10 @@
 # PowerShell/PowerShell - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 6205
+☋ Forks: 6208
 
-★ Stars: 36698
+★ Stars: 36706
 
 [Open repository](https://github.com/PowerShell/PowerShell)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 36706 | 6208 | 
 | 2023-01-09 | 36698 | 6205 | 
 | 2023-01-08 | 36692 | 6204 | 
 | 2023-01-07 | 36690 | 6203 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 36448 | 6159 | 
 | 2022-12-13 | 36432 | 6158 | 
 | 2022-12-12 | 36418 | 6153 | 
-| 2022-12-11 | 36406 | 6152 | 
 

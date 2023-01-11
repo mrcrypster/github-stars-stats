@@ -1,8 +1,8 @@
 # neutrinolabs/xrdp - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 2434
+☋ Forks: 2435
 
 ★ Stars: 4275
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 4275 | 2435 | 
 | 2023-01-09 | 4275 | 2434 | 
 | 2023-01-08 | 4272 | 2434 | 
 | 2023-01-07 | 4272 | 2433 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 4218 | 2403 | 
 | 2022-12-14 | 4217 | 2403 | 
 | 2022-12-13 | 4215 | 2399 | 
-| 2022-12-12 | 4210 | 2396 | 
 

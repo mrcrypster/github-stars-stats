@@ -1,10 +1,10 @@
 # SciML/DiffEqDocs.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 222
 
-★ Stars: 218
+★ Stars: 219
 
 [Open repository](https://github.com/SciML/DiffEqDocs.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 219 | 222 | 
 | 2023-01-09 | 218 | 222 | 
 | 2023-01-08 | 218 | 222 | 
 | 2023-01-07 | 218 | 222 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 217 | 221 | 
 | 2022-12-13 | 215 | 222 | 
 | 2022-12-12 | 214 | 221 | 
-| 2022-12-11 | 214 | 221 | 
 

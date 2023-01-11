@@ -1,10 +1,10 @@
 # guardian/grid - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 123
 
-★ Stars: 1427
+★ Stars: 1428
 
 [Open repository](https://github.com/guardian/grid)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 1428 | 123 | 
 | 2023-01-09 | 1427 | 123 | 
 | 2023-01-08 | 1427 | 123 | 
 | 2023-01-07 | 1427 | 123 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 1428 | 123 | 
 | 2022-12-13 | 1428 | 123 | 
 | 2022-12-12 | 1427 | 123 | 
-| 2022-12-11 | 1427 | 123 | 
 

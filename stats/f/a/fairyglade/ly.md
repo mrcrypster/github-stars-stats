@@ -1,10 +1,10 @@
 # fairyglade/ly - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 248
 
-★ Stars: 3541
+★ Stars: 3542
 
 [Open repository](https://github.com/fairyglade/ly)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 3542 | 248 | 
 | 2023-01-09 | 3541 | 248 | 
 | 2023-01-08 | 3540 | 248 | 
 | 2023-01-07 | 3537 | 248 | 

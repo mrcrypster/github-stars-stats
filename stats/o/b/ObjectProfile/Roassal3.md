@@ -1,6 +1,6 @@
 # ObjectProfile/Roassal3 - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 83 | 44 | 
 | 2023-01-09 | 83 | 44 | 
 | 2023-01-08 | 83 | 44 | 
 | 2023-01-07 | 83 | 44 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 83 | 43 | 
 | 2022-12-13 | 83 | 43 | 
 | 2022-12-12 | 83 | 43 | 
-| 2022-12-11 | 83 | 43 | 
 

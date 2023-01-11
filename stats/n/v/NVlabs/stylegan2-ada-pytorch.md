@@ -1,10 +1,10 @@
 # NVlabs/stylegan2-ada-pytorch - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 943
+☋ Forks: 941
 
-★ Stars: 3178
+★ Stars: 3179
 
 [Open repository](https://github.com/NVlabs/stylegan2-ada-pytorch)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 3179 | 941 | 
 | 2023-01-09 | 3178 | 943 | 
 | 2023-01-08 | 3177 | 943 | 
 | 2023-01-07 | 3174 | 941 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 3151 | 935 | 
 | 2022-12-14 | 3151 | 934 | 
 | 2022-12-13 | 3148 | 934 | 
-| 2022-12-12 | 3147 | 934 | 
 

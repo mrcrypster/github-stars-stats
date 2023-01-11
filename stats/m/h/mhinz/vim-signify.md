@@ -1,6 +1,6 @@
 # mhinz/vim-signify - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 101
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 2579 | 101 | 
 | 2023-01-09 | 2579 | 101 | 
 | 2023-01-08 | 2576 | 101 | 
 | 2023-01-07 | 2576 | 101 | 

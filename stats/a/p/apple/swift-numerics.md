@@ -1,6 +1,6 @@
 # apple/swift-numerics - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 120
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 1463 | 120 | 
 | 2023-01-09 | 1463 | 120 | 
 | 2023-01-08 | 1462 | 120 | 
 | 2023-01-07 | 1462 | 120 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 1454 | 118 | 
 | 2022-12-13 | 1451 | 118 | 
 | 2022-12-12 | 1449 | 118 | 
-| 2022-12-11 | 1449 | 118 | 
 

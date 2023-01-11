@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 10
 
-☋ Forks: 65
+☋ Forks: 66
 
-★ Stars: 17
+★ Stars: 19
 
 [Open repository](https://github.com/afuu21/18CSL76-AIML-Programs)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-10 | 17 | 65 | 
+| 2023-01-10 | 19 | 66 | 
 | 2023-01-09 | 17 | 65 | 
 | 2023-01-08 | 15 | 59 | 
 | 2023-01-07 | 15 | 54 | 

@@ -1,10 +1,10 @@
 # werman/noise-suppression-for-voice - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 154
 
-★ Stars: 3154
+★ Stars: 3156
 
 [Open repository](https://github.com/werman/noise-suppression-for-voice)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 3156 | 154 | 
 | 2023-01-09 | 3154 | 154 | 
 | 2023-01-08 | 3153 | 154 | 
 | 2023-01-07 | 3149 | 154 | 

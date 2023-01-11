@@ -1,10 +1,10 @@
 # malerba118/scrollex - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 24
 
-★ Stars: 1321
+★ Stars: 1323
 
 [Open repository](https://github.com/malerba118/scrollex)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 1323 | 24 | 
 | 2023-01-09 | 1321 | 24 | 
 | 2023-01-08 | 1317 | 24 | 
 | 2023-01-07 | 1312 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 1148 | 22 | 
 | 2022-12-13 | 1148 | 22 | 
 | 2022-12-12 | 1147 | 22 | 
-| 2022-12-11 | 1146 | 22 | 
 

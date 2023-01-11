@@ -1,10 +1,10 @@
 # aquasecurity/cloudsploit - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 571
 
-★ Stars: 2447
+★ Stars: 2448
 
 [Open repository](https://github.com/aquasecurity/cloudsploit)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 2448 | 571 | 
 | 2023-01-09 | 2447 | 571 | 
 | 2023-01-08 | 2445 | 570 | 
 | 2023-01-07 | 2444 | 570 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 2430 | 562 | 
 | 2022-12-13 | 2428 | 561 | 
 | 2022-12-12 | 2427 | 561 | 
-| 2022-12-11 | 2426 | 561 | 
 

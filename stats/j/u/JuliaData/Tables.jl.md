@@ -1,6 +1,6 @@
 # JuliaData/Tables.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 252 | 44 | 
 | 2023-01-09 | 252 | 44 | 
 | 2023-01-08 | 252 | 44 | 
 | 2023-01-07 | 252 | 44 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 247 | 43 | 
 | 2022-12-14 | 247 | 43 | 
 | 2022-12-13 | 247 | 43 | 
-| 2022-12-11 | 248 | 43 | 
 

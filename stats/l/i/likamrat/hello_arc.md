@@ -1,6 +1,6 @@
 # likamrat/hello_arc - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 144
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 13 | 144 | 
 | 2023-01-09 | 13 | 144 | 
 | 2023-01-08 | 13 | 144 | 
 | 2023-01-07 | 13 | 144 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 12 | 145 | 
 | 2022-12-14 | 12 | 145 | 
 | 2022-12-13 | 12 | 145 | 
-| 2022-12-11 | 12 | 145 | 
 

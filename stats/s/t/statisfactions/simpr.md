@@ -1,10 +1,10 @@
 # statisfactions/simpr - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 7
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/statisfactions/simpr)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 35 | 7 | 
 | 2023-01-09 | 34 | 7 | 
 | 2023-01-08 | 32 | 7 | 
 | 2023-01-07 | 32 | 7 | 

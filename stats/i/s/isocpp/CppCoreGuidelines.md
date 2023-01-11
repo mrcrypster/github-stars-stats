@@ -1,10 +1,10 @@
 # isocpp/CppCoreGuidelines - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 4942
+☋ Forks: 4945
 
-★ Stars: 36636
+★ Stars: 36646
 
 [Open repository](https://github.com/isocpp/CppCoreGuidelines)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 36646 | 4945 | 
 | 2023-01-09 | 36636 | 4942 | 
 | 2023-01-08 | 36627 | 4943 | 
 | 2023-01-07 | 36621 | 4942 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 36422 | 4909 | 
 | 2022-12-13 | 36422 | 4905 | 
 | 2022-12-12 | 36412 | 4904 | 
-| 2022-12-11 | 36397 | 4904 | 
 

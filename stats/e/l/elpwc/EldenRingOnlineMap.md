@@ -1,10 +1,10 @@
 # elpwc/EldenRingOnlineMap - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 23
 
-★ Stars: 225
+★ Stars: 226
 
 [Open repository](https://github.com/elpwc/EldenRingOnlineMap)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 226 | 23 | 
 | 2023-01-09 | 225 | 23 | 
 | 2023-01-08 | 225 | 23 | 
 | 2023-01-07 | 225 | 23 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 219 | 23 | 
 | 2022-12-14 | 219 | 23 | 
 | 2022-12-13 | 219 | 23 | 
-| 2022-12-11 | 219 | 23 | 
 

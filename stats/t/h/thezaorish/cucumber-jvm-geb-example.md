@@ -1,6 +1,6 @@
 # thezaorish/cucumber-jvm-geb-example - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 4 | 5 | 
 | 2023-01-09 | 4 | 5 | 
 | 2023-01-08 | 4 | 5 | 
 | 2023-01-07 | 4 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 4 | 5 | 
 | 2022-12-14 | 4 | 5 | 
 | 2022-12-13 | 4 | 5 | 
-| 2022-12-11 | 4 | 5 | 
 

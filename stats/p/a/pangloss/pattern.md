@@ -1,10 +1,10 @@
 # pangloss/pattern - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 2
 
-★ Stars: 79
+★ Stars: 80
 
 [Open repository](https://github.com/pangloss/pattern)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 80 | 2 | 
 | 2023-01-09 | 79 | 2 | 
 | 2023-01-08 | 79 | 2 | 
 | 2023-01-07 | 79 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 78 | 2 | 
 | 2022-12-13 | 78 | 2 | 
 | 2022-12-12 | 78 | 2 | 
-| 2022-12-11 | 78 | 2 | 
 

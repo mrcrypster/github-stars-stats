@@ -1,6 +1,6 @@
 # exercism/haskell - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 165
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 421 | 165 | 
 | 2023-01-09 | 421 | 165 | 
 | 2023-01-08 | 421 | 165 | 
 | 2023-01-07 | 421 | 165 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 419 | 164 | 
 | 2022-12-14 | 419 | 164 | 
 | 2022-12-12 | 419 | 164 | 
-| 2022-12-11 | 419 | 164 | 
 

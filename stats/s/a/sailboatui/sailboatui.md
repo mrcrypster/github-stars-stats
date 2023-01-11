@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 10
 
 ☋ Forks: 10
 
-★ Stars: 407
+★ Stars: 411
 
 [Open repository](https://github.com/sailboatui/sailboatui)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-10 | 407 | 10 | 
+| 2023-01-10 | 411 | 10 | 
 | 2023-01-09 | 400 | 10 | 
 | 2023-01-08 | 338 | 8 | 
 | 2023-01-07 | 322 | 7 | 

@@ -1,6 +1,6 @@
 # umotif-public/terraform-aws-ecs-fargate-task-definition - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 20 | 11 | 
 | 2023-01-09 | 20 | 11 | 
 | 2023-01-08 | 20 | 11 | 
 | 2023-01-07 | 20 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 20 | 11 | 
 | 2022-12-14 | 20 | 11 | 
 | 2022-12-12 | 20 | 11 | 
-| 2022-12-11 | 20 | 11 | 
 

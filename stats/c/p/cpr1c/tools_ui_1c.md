@@ -1,6 +1,6 @@
 # cpr1c/tools_ui_1c - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 159
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 475 | 159 | 
 | 2023-01-09 | 475 | 159 | 
 | 2023-01-08 | 475 | 158 | 
 | 2023-01-07 | 475 | 158 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 468 | 154 | 
 | 2022-12-14 | 467 | 152 | 
 | 2022-12-13 | 466 | 152 | 
-| 2022-12-12 | 464 | 151 | 
 

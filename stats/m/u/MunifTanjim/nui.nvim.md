@@ -1,6 +1,6 @@
 # MunifTanjim/nui.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 717 | 19 | 
 | 2023-01-09 | 717 | 19 | 
 | 2023-01-08 | 716 | 19 | 
 | 2023-01-07 | 715 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 672 | 18 | 
 | 2022-12-13 | 671 | 18 | 
 | 2022-12-12 | 670 | 18 | 
-| 2022-12-11 | 669 | 18 | 
 

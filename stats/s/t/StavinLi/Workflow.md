@@ -1,6 +1,6 @@
 # StavinLi/Workflow - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 276
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 997 | 276 | 
 | 2023-01-09 | 997 | 276 | 
 | 2023-01-08 | 996 | 275 | 
 | 2023-01-07 | 996 | 275 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 990 | 273 | 
 | 2022-12-14 | 989 | 273 | 
 | 2022-12-13 | 988 | 273 | 
-| 2022-12-11 | 985 | 273 | 
 

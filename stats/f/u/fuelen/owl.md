@@ -1,10 +1,10 @@
 # fuelen/owl - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 5
 
-★ Stars: 281
+★ Stars: 291
 
 [Open repository](https://github.com/fuelen/owl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 291 | 5 | 
 | 2023-01-09 | 281 | 5 | 
 | 2023-01-08 | 234 | 5 | 
 | 2023-01-07 | 213 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 202 | 4 | 
 | 2022-12-13 | 202 | 4 | 
 | 2022-12-12 | 201 | 4 | 
-| 2022-12-11 | 201 | 4 | 
 

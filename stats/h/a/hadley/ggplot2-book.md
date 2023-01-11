@@ -1,10 +1,10 @@
 # hadley/ggplot2-book - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 615
 
-★ Stars: 1310
+★ Stars: 1312
 
 [Open repository](https://github.com/hadley/ggplot2-book)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 1312 | 615 | 
 | 2023-01-09 | 1310 | 615 | 
 | 2023-01-08 | 1310 | 615 | 
 | 2023-01-07 | 1310 | 615 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 1307 | 614 | 
 | 2022-12-13 | 1307 | 614 | 
 | 2022-12-12 | 1307 | 614 | 
-| 2022-12-11 | 1307 | 614 | 
 

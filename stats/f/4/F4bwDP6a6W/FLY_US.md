@@ -1,10 +1,10 @@
 # F4bwDP6a6W/FLY_US - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 742
 
-★ Stars: 2585
+★ Stars: 2586
 
 [Open repository](https://github.com/F4bwDP6a6W/FLY_US)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 2586 | 742 | 
 | 2023-01-09 | 2585 | 742 | 
 | 2023-01-08 | 2584 | 742 | 
 | 2023-01-07 | 2583 | 743 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 2564 | 741 | 
 | 2022-12-13 | 2564 | 741 | 
 | 2022-12-12 | 2564 | 741 | 
-| 2022-12-11 | 2561 | 741 | 
 

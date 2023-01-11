@@ -1,10 +1,10 @@
 # wechaty/python-wechaty-getting-started - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 46
 
-★ Stars: 128
+★ Stars: 129
 
 [Open repository](https://github.com/wechaty/python-wechaty-getting-started)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 129 | 46 | 
 | 2023-01-09 | 128 | 46 | 
 | 2023-01-08 | 128 | 46 | 
 | 2023-01-07 | 128 | 46 | 

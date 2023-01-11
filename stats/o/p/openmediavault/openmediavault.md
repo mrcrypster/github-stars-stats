@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 10
 
-☋ Forks: 404
+☋ Forks: 405
 
-★ Stars: 3492
+★ Stars: 3493
 
 [Open repository](https://github.com/openmediavault/openmediavault)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-10 | 3492 | 404 | 
+| 2023-01-10 | 3493 | 405 | 
 | 2023-01-09 | 3492 | 404 | 
 | 2023-01-08 | 3487 | 404 | 
 | 2023-01-07 | 3484 | 404 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-14 | 3447 | 399 | 
 | 2022-12-13 | 3445 | 399 | 
 | 2022-12-12 | 3444 | 400 | 
-| 2022-12-11 | 3438 | 400 | 
 

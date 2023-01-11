@@ -1,6 +1,6 @@
 # EL-BID/idbsocialdataR - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 11 | 9 | 
 | 2023-01-09 | 11 | 9 | 
 | 2023-01-08 | 11 | 9 | 
 | 2023-01-07 | 11 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 10 | 9 | 
 | 2022-12-13 | 10 | 9 | 
 | 2022-12-12 | 10 | 9 | 
-| 2022-12-11 | 10 | 9 | 
 

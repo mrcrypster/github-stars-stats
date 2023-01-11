@@ -1,8 +1,8 @@
 # javamelody/javamelody - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 11
 
-☋ Forks: 729
+☋ Forks: 728
 
 ★ Stars: 2750
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 2750 | 728 | 
 | 2023-01-09 | 2750 | 729 | 
 | 2023-01-08 | 2750 | 729 | 
 | 2023-01-07 | 2750 | 729 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 2738 | 724 | 
 | 2022-12-14 | 2737 | 723 | 
 | 2022-12-12 | 2736 | 724 | 
-| 2022-12-11 | 2735 | 724 | 
 

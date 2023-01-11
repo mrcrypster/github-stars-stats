@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 10
 
 ☋ Forks: 45
 
-★ Stars: 94
+★ Stars: 97
 
 [Open repository](https://github.com/tarampampam/free-domains)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-10 | 94 | 45 | 
+| 2023-01-10 | 97 | 45 | 
 | 2023-01-09 | 91 | 42 | 
 | 2023-01-07 | 91 | 42 | 
 | 2023-01-06 | 90 | 42 | 

@@ -1,6 +1,6 @@
 # mobile-dev-inc/dadb - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 796 | 51 | 
 | 2023-01-09 | 796 | 51 | 
 | 2023-01-08 | 795 | 51 | 
 | 2023-01-07 | 794 | 51 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 790 | 49 | 
 | 2022-12-14 | 790 | 49 | 
 | 2022-12-13 | 789 | 49 | 
-| 2022-12-11 | 788 | 49 | 
 

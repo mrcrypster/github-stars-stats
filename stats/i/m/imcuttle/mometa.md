@@ -1,10 +1,10 @@
 # imcuttle/mometa - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 519
 
-★ Stars: 3456
+★ Stars: 3457
 
 [Open repository](https://github.com/imcuttle/mometa)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 3457 | 519 | 
 | 2023-01-09 | 3456 | 519 | 
 | 2023-01-08 | 3456 | 518 | 
 | 2023-01-07 | 3456 | 518 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 3422 | 516 | 
 | 2022-12-13 | 3419 | 514 | 
 | 2022-12-12 | 3418 | 514 | 
-| 2022-12-11 | 3416 | 514 | 
 

@@ -1,10 +1,10 @@
 # osy/Jitterbug - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 54
 
-★ Stars: 650
+★ Stars: 651
 
 [Open repository](https://github.com/osy/Jitterbug)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 651 | 54 | 
 | 2023-01-09 | 650 | 54 | 
 | 2023-01-08 | 648 | 54 | 
 | 2023-01-07 | 645 | 54 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 619 | 51 | 
 | 2022-12-13 | 617 | 51 | 
 | 2022-12-12 | 616 | 51 | 
-| 2022-12-11 | 614 | 51 | 
 

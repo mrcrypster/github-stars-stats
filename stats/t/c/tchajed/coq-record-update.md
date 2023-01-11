@@ -1,10 +1,10 @@
 # tchajed/coq-record-update - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 13
 
-★ Stars: 38
+★ Stars: 37
 
 [Open repository](https://github.com/tchajed/coq-record-update)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 37 | 13 | 
 | 2023-01-09 | 38 | 13 | 
 | 2023-01-08 | 38 | 13 | 
 | 2023-01-07 | 38 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 38 | 13 | 
 | 2022-12-14 | 38 | 13 | 
 | 2022-12-13 | 38 | 13 | 
-| 2022-12-12 | 38 | 13 | 
 

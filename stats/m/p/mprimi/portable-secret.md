@@ -1,10 +1,10 @@
 # mprimi/portable-secret - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 85
+☋ Forks: 86
 
-★ Stars: 1463
+★ Stars: 1469
 
 [Open repository](https://github.com/mprimi/portable-secret)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 1469 | 86 | 
 | 2023-01-09 | 1463 | 85 | 
 | 2023-01-08 | 1461 | 84 | 
 | 2023-01-07 | 1459 | 84 | 

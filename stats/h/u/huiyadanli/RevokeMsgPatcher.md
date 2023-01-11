@@ -1,10 +1,10 @@
 # huiyadanli/RevokeMsgPatcher - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 2483
 
-★ Stars: 18732
+★ Stars: 18751
 
 [Open repository](https://github.com/huiyadanli/RevokeMsgPatcher)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 18751 | 2483 | 
 | 2023-01-10 | 18732 | 2483 | 
 | 2023-01-08 | 18717 | 2482 | 
 | 2023-01-07 | 18707 | 2481 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 18454 | 2460 | 
 | 2022-12-14 | 18435 | 2459 | 
 | 2022-12-13 | 18416 | 2457 | 
-| 2022-12-11 | 18409 | 2457 | 
 

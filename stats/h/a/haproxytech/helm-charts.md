@@ -1,6 +1,6 @@
 # haproxytech/helm-charts - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 98
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 111 | 98 | 
 | 2023-01-09 | 111 | 98 | 
 | 2023-01-08 | 111 | 98 | 
 | 2023-01-07 | 111 | 98 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 110 | 97 | 
 | 2022-12-14 | 110 | 97 | 
 | 2022-12-13 | 109 | 96 | 
-| 2022-12-11 | 109 | 96 | 
 

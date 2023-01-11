@@ -1,8 +1,8 @@
 # dataplat/dbatools - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 717
+☋ Forks: 716
 
 ★ Stars: 2057
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 2057 | 716 | 
 | 2023-01-09 | 2057 | 717 | 
 | 2023-01-08 | 2056 | 717 | 
 | 2023-01-07 | 2055 | 717 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 2051 | 717 | 
 | 2022-12-14 | 2051 | 717 | 
 | 2022-12-13 | 2051 | 717 | 
-| 2022-12-11 | 2050 | 717 | 
 

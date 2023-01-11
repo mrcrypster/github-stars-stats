@@ -1,8 +1,8 @@
 # toptal/gitignore.io - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 599
+☋ Forks: 600
 
 ★ Stars: 7451
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 7451 | 600 | 
 | 2023-01-09 | 7451 | 599 | 
 | 2023-01-08 | 7447 | 599 | 
 | 2023-01-07 | 7446 | 599 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 7405 | 594 | 
 | 2022-12-13 | 7405 | 594 | 
 | 2022-12-12 | 7402 | 594 | 
-| 2022-12-11 | 7401 | 594 | 
 

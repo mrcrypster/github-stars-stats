@@ -1,6 +1,6 @@
 # metafy-social/web3-smart-contracts - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 41 | 42 | 
 | 2023-01-09 | 41 | 42 | 
 | 2023-01-08 | 41 | 42 | 
 | 2023-01-07 | 41 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 40 | 40 | 
 | 2022-12-13 | 40 | 40 | 
 | 2022-12-12 | 40 | 40 | 
-| 2022-12-11 | 40 | 40 | 
 

@@ -1,10 +1,10 @@
 # qwerttvv/Beijing-IPTV - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 133
 
-★ Stars: 683
+★ Stars: 686
 
 [Open repository](https://github.com/qwerttvv/Beijing-IPTV)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 686 | 133 | 
 | 2023-01-09 | 683 | 133 | 
 | 2023-01-08 | 678 | 133 | 
 | 2023-01-07 | 678 | 133 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 626 | 128 | 
 | 2022-12-13 | 623 | 127 | 
 | 2022-12-12 | 619 | 127 | 
-| 2022-12-11 | 614 | 127 | 
 

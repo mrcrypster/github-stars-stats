@@ -1,8 +1,8 @@
 # D3VL/L3MON - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 964
+☋ Forks: 965
 
 ★ Stars: 1915
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 1915 | 965 | 
 | 2023-01-09 | 1915 | 964 | 
 | 2023-01-08 | 1916 | 963 | 
 | 2023-01-07 | 1917 | 963 | 

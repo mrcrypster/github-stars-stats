@@ -1,10 +1,10 @@
 # AutomatedLab/AutomatedLab - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 332
 
-★ Stars: 1681
+★ Stars: 1682
 
 [Open repository](https://github.com/AutomatedLab/AutomatedLab)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 1682 | 332 | 
 | 2023-01-09 | 1681 | 332 | 
 | 2023-01-08 | 1681 | 332 | 
 | 2023-01-07 | 1680 | 332 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 1667 | 328 | 
 | 2022-12-13 | 1666 | 327 | 
 | 2022-12-12 | 1666 | 327 | 
-| 2022-12-11 | 1664 | 327 | 
 

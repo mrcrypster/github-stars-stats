@@ -1,10 +1,10 @@
 # jupyter/docker-stacks - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 2823
 
-★ Stars: 7046
+★ Stars: 7048
 
 [Open repository](https://github.com/jupyter/docker-stacks)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 7048 | 2823 | 
 | 2023-01-09 | 7046 | 2823 | 
 | 2023-01-08 | 7043 | 2823 | 
 | 2023-01-07 | 7043 | 2821 | 

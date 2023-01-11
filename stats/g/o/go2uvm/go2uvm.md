@@ -1,6 +1,6 @@
 # go2uvm/go2uvm - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 12 | 19 | 
 | 2023-01-09 | 12 | 19 | 
 | 2023-01-08 | 12 | 19 | 
 | 2023-01-07 | 12 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 12 | 19 | 
 | 2022-12-13 | 12 | 19 | 
 | 2022-12-12 | 12 | 19 | 
-| 2022-12-11 | 12 | 19 | 
 

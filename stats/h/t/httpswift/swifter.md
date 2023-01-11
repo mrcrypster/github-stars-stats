@@ -1,10 +1,10 @@
 # httpswift/swifter - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 499
 
-★ Stars: 3635
+★ Stars: 3636
 
 [Open repository](https://github.com/httpswift/swifter)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 3636 | 499 | 
 | 2023-01-09 | 3635 | 499 | 
 | 2023-01-08 | 3634 | 499 | 
 | 2023-01-07 | 3634 | 499 | 

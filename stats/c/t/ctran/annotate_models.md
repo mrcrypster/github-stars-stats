@@ -1,6 +1,6 @@
 # ctran/annotate_models - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 555
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 4089 | 555 | 
 | 2023-01-09 | 4089 | 555 | 
 | 2023-01-08 | 4088 | 555 | 
 | 2023-01-07 | 4088 | 556 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 4078 | 554 | 
 | 2022-12-14 | 4078 | 553 | 
 | 2022-12-12 | 4077 | 553 | 
-| 2022-12-11 | 4076 | 553 | 
 

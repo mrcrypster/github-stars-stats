@@ -1,10 +1,10 @@
 # contino/docker-terraform - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 19
 
-★ Stars: 21
+★ Stars: 20
 
 [Open repository](https://github.com/contino/docker-terraform)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 20 | 19 | 
 | 2023-01-09 | 21 | 19 | 
 | 2023-01-08 | 21 | 19 | 
 | 2023-01-07 | 21 | 19 | 

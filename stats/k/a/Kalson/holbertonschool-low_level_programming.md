@@ -1,6 +1,6 @@
 # Kalson/holbertonschool-low_level_programming - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 4 | 35 | 
 | 2023-01-10 | 4 | 35 | 
 | 2023-01-08 | 4 | 35 | 
 | 2023-01-07 | 4 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 4 | 35 | 
 | 2022-12-14 | 4 | 35 | 
 | 2022-12-12 | 4 | 35 | 
-| 2022-12-11 | 4 | 35 | 
 

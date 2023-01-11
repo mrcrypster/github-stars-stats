@@ -1,10 +1,10 @@
 # roboll/helmfile - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 593
 
-★ Stars: 3955
+★ Stars: 3957
 
 [Open repository](https://github.com/roboll/helmfile)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 3957 | 593 | 
 | 2023-01-09 | 3955 | 593 | 
 | 2023-01-08 | 3955 | 593 | 
 | 2023-01-07 | 3956 | 593 | 

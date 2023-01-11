@@ -1,6 +1,6 @@
 # corona-warn-app/cwa-app-android - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 508
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 2489 | 508 | 
 | 2023-01-09 | 2489 | 508 | 
 | 2023-01-08 | 2489 | 508 | 
 | 2023-01-07 | 2490 | 508 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 2495 | 510 | 
 | 2022-12-14 | 2495 | 510 | 
 | 2022-12-13 | 2496 | 510 | 
-| 2022-12-12 | 2496 | 510 | 
 

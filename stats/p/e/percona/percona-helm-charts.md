@@ -1,8 +1,8 @@
 # percona/percona-helm-charts - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 87
+☋ Forks: 88
 
 ★ Stars: 68
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 68 | 88 | 
 | 2023-01-09 | 68 | 87 | 
 | 2023-01-08 | 68 | 87 | 
 | 2023-01-07 | 68 | 87 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 68 | 85 | 
 | 2022-12-14 | 67 | 85 | 
 | 2022-12-12 | 67 | 85 | 
-| 2022-12-11 | 67 | 85 | 
 

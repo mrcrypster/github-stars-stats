@@ -1,6 +1,6 @@
 # apple/ml-mobileone - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 331 | 31 | 
 | 2023-01-09 | 331 | 31 | 
 | 2023-01-08 | 331 | 31 | 
 | 2023-01-07 | 331 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 322 | 30 | 
 | 2022-12-14 | 321 | 30 | 
 | 2022-12-12 | 321 | 30 | 
-| 2022-12-11 | 321 | 30 | 
 

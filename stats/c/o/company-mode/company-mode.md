@@ -1,6 +1,6 @@
 # company-mode/company-mode - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 224
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 1993 | 224 | 
 | 2023-01-09 | 1993 | 224 | 
 | 2023-01-08 | 1993 | 224 | 
 | 2023-01-07 | 1993 | 224 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 1984 | 224 | 
 | 2022-12-14 | 1984 | 224 | 
 | 2022-12-13 | 1984 | 224 | 
-| 2022-12-12 | 1983 | 224 | 
 

@@ -1,10 +1,10 @@
 # cardano-foundation/dab - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 8
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/cardano-foundation/dab)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 35 | 8 | 
 | 2023-01-09 | 34 | 8 | 
 | 2023-01-08 | 34 | 8 | 
 | 2023-01-07 | 34 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 34 | 8 | 
 | 2022-12-14 | 34 | 8 | 
 | 2022-12-13 | 34 | 8 | 
-| 2022-12-12 | 34 | 8 | 
 

@@ -1,10 +1,10 @@
 # texstudio-org/texstudio - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 307
 
-★ Stars: 2016
+★ Stars: 2019
 
 [Open repository](https://github.com/texstudio-org/texstudio)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 2019 | 307 | 
 | 2023-01-09 | 2016 | 307 | 
 | 2023-01-08 | 2015 | 307 | 
 | 2023-01-07 | 2015 | 307 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 2001 | 301 | 
 | 2022-12-14 | 2000 | 301 | 
 | 2022-12-13 | 1997 | 301 | 
-| 2022-12-12 | 1994 | 301 | 
 

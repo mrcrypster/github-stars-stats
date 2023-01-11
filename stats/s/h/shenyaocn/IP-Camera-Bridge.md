@@ -1,10 +1,10 @@
 # shenyaocn/IP-Camera-Bridge - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 117
 
-★ Stars: 392
+★ Stars: 393
 
 [Open repository](https://github.com/shenyaocn/IP-Camera-Bridge)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 393 | 117 | 
 | 2023-01-10 | 392 | 117 | 
 | 2023-01-09 | 392 | 117 | 
 | 2023-01-07 | 393 | 117 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 393 | 117 | 
 | 2022-12-14 | 393 | 117 | 
 | 2022-12-12 | 393 | 117 | 
-| 2022-12-11 | 393 | 117 | 
 

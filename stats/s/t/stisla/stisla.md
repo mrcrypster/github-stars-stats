@@ -1,10 +1,10 @@
 # stisla/stisla - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 840
+☋ Forks: 841
 
-★ Stars: 3232
+★ Stars: 3235
 
 [Open repository](https://github.com/stisla/stisla)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 3235 | 841 | 
 | 2023-01-09 | 3232 | 840 | 
 | 2023-01-08 | 3232 | 840 | 
 | 2023-01-07 | 3231 | 840 | 

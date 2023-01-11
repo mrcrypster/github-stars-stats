@@ -1,10 +1,10 @@
 # blocoio/android-template - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 11
 
-☋ Forks: 107
+☋ Forks: 108
 
-★ Stars: 417
+★ Stars: 419
 
 [Open repository](https://github.com/blocoio/android-template)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 419 | 108 | 
 | 2023-01-09 | 417 | 107 | 
 | 2023-01-08 | 417 | 107 | 
 | 2023-01-07 | 417 | 106 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 404 | 104 | 
 | 2022-12-14 | 403 | 104 | 
 | 2022-12-12 | 401 | 104 | 
-| 2022-12-11 | 400 | 104 | 
 

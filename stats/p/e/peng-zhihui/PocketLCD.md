@@ -1,10 +1,10 @@
 # peng-zhihui/PocketLCD - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 965
 
-★ Stars: 5516
+★ Stars: 5519
 
 [Open repository](https://github.com/peng-zhihui/PocketLCD)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 5519 | 965 | 
 | 2023-01-10 | 5516 | 965 | 
 | 2023-01-08 | 5515 | 965 | 
 | 2023-01-07 | 5515 | 965 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 5479 | 962 | 
 | 2022-12-14 | 5478 | 962 | 
 | 2022-12-12 | 5476 | 962 | 
-| 2022-12-11 | 5476 | 962 | 
 

@@ -1,8 +1,8 @@
 # bedimcode/responsive-bottom-navigation - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 49
+☋ Forks: 50
 
 ★ Stars: 104
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 104 | 50 | 
 | 2023-01-09 | 104 | 49 | 
 | 2023-01-08 | 104 | 49 | 
 | 2023-01-07 | 104 | 49 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 101 | 47 | 
 | 2022-12-13 | 101 | 46 | 
 | 2022-12-12 | 101 | 46 | 
-| 2022-12-11 | 101 | 46 | 
 

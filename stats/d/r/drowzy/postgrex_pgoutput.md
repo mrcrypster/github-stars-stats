@@ -1,10 +1,10 @@
 # drowzy/postgrex_pgoutput - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 1
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/drowzy/postgrex_pgoutput)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 18 | 1 | 
 | 2023-01-09 | 17 | 1 | 
 | 2023-01-08 | 17 | 1 | 
 | 2023-01-07 | 17 | 1 | 

@@ -1,6 +1,6 @@
 # teaconmc/Puer - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 8 | 28 | 
 | 2023-01-09 | 8 | 28 | 
 | 2023-01-08 | 8 | 28 | 
 | 2023-01-07 | 8 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 8 | 29 | 
 | 2022-12-14 | 8 | 29 | 
 | 2022-12-12 | 8 | 29 | 
-| 2022-12-11 | 8 | 29 | 
 

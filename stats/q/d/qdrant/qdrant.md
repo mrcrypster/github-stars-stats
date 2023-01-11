@@ -1,10 +1,10 @@
 # qdrant/qdrant - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 11
 
-☋ Forks: 164
+☋ Forks: 166
 
-★ Stars: 3596
+★ Stars: 3611
 
 [Open repository](https://github.com/qdrant/qdrant)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 3611 | 166 | 
 | 2023-01-09 | 3596 | 164 | 
 | 2023-01-08 | 3582 | 163 | 
 | 2023-01-07 | 3576 | 163 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 3405 | 155 | 
 | 2022-12-14 | 3389 | 154 | 
 | 2022-12-13 | 3366 | 154 | 
-| 2022-12-11 | 3357 | 153 | 
 

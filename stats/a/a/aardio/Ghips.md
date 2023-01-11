@@ -1,8 +1,8 @@
 # aardio/Ghips - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 27
+☋ Forks: 28
 
 ★ Stars: 165
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 165 | 28 | 
 | 2023-01-09 | 165 | 27 | 
 | 2023-01-08 | 164 | 27 | 
 | 2023-01-07 | 163 | 27 | 

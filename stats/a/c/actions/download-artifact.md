@@ -1,10 +1,10 @@
 # actions/download-artifact - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 316
 
-★ Stars: 830
+★ Stars: 835
 
 [Open repository](https://github.com/actions/download-artifact)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 835 | 316 | 
 | 2023-01-09 | 830 | 316 | 
 | 2023-01-08 | 826 | 315 | 
 | 2023-01-07 | 822 | 314 | 

@@ -1,6 +1,6 @@
 # fox-it/dissect - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 582 | 36 | 
 | 2023-01-09 | 582 | 36 | 
 | 2023-01-08 | 582 | 36 | 
 | 2023-01-07 | 581 | 36 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 542 | 34 | 
 | 2022-12-14 | 540 | 34 | 
 | 2022-12-13 | 540 | 34 | 
-| 2022-12-11 | 540 | 34 | 
 

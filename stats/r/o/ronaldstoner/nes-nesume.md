@@ -1,6 +1,6 @@
 # ronaldstoner/nes-nesume - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 35 | - | 
 | 2023-01-09 | 35 | - | 
 | 2023-01-08 | 35 | - | 
 | 2023-01-07 | 35 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 35 | - | 
 | 2022-12-14 | 35 | - | 
 | 2022-12-13 | 35 | - | 
-| 2022-12-11 | 35 | - | 
 

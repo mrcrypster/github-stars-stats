@@ -1,6 +1,6 @@
 # syauqi/collegetivity - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 119 | 46 | 
 | 2023-01-09 | 119 | 46 | 
 | 2023-01-08 | 119 | 46 | 
 | 2023-01-07 | 119 | 46 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 119 | 46 | 
 | 2022-12-14 | 119 | 46 | 
 | 2022-12-13 | 119 | 46 | 
-| 2022-12-12 | 119 | 46 | 
 

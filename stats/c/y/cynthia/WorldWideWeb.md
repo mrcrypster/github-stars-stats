@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 10
 
 ☋ Forks: 63
 
-★ Stars: 372
+★ Stars: 376
 
 [Open repository](https://github.com/cynthia/WorldWideWeb)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-10 | 372 | 63 | 
+| 2023-01-10 | 376 | 63 | 
 | 2023-01-09 | 370 | 63 | 
 

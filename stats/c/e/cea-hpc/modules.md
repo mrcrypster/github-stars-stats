@@ -1,10 +1,10 @@
 # cea-hpc/modules - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 87
 
-★ Stars: 512
+★ Stars: 513
 
 [Open repository](https://github.com/cea-hpc/modules)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 513 | 87 | 
 | 2023-01-09 | 512 | 87 | 
 | 2023-01-08 | 512 | 87 | 
 | 2023-01-07 | 512 | 87 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 505 | 86 | 
 | 2022-12-13 | 505 | 86 | 
 | 2022-12-12 | 505 | 86 | 
-| 2022-12-11 | 503 | 86 | 
 

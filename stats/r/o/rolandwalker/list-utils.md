@@ -1,6 +1,6 @@
 # rolandwalker/list-utils - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 25 | 10 | 
 | 2023-01-09 | 25 | 10 | 
 | 2023-01-08 | 25 | 10 | 
 | 2023-01-07 | 25 | 10 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 25 | 10 | 
 | 2022-12-14 | 25 | 10 | 
 | 2022-12-12 | 25 | 10 | 
-| 2022-12-11 | 25 | 10 | 
 

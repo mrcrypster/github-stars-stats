@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 10
 
-☋ Forks: 10
+☋ Forks: 12
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/ravdy/RTP-03)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-10 | 1 | 10 | 
+| 2023-01-10 | 2 | 12 | 
 | 2023-01-09 | 1 | 10 | 
 

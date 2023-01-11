@@ -1,6 +1,6 @@
 # bartblast/hologram - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 126 | 1 | 
 | 2023-01-09 | 126 | 1 | 
 | 2023-01-08 | 126 | 1 | 
 | 2023-01-07 | 125 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 118 | 1 | 
 | 2022-12-14 | 119 | 1 | 
 | 2022-12-13 | 119 | 1 | 
-| 2022-12-12 | 119 | 1 | 
 

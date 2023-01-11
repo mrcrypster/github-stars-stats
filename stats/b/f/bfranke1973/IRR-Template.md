@@ -1,0 +1,18 @@
+# bfranke1973/IRR-Template - stars & forks statistics
+
+Stats updated on Jan 2023, 11
+
+☋ Forks: 85
+
+★ Stars: 23
+
+[Open repository](https://github.com/bfranke1973/IRR-Template)
+
+[Open detailed stats for bfranke1973/IRR-Template](https://reviewgithub.com/rep/bfranke1973/IRR-Template)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-01-11 | 23 | 85 | 
+| 2023-01-10 | 23 | 85 | 
+

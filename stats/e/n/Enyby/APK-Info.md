@@ -1,6 +1,6 @@
 # Enyby/APK-Info - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 295 | 45 | 
 | 2023-01-09 | 295 | 45 | 
 | 2023-01-08 | 295 | 45 | 
 | 2023-01-07 | 295 | 45 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 295 | 43 | 
 | 2022-12-14 | 295 | 43 | 
 | 2022-12-13 | 295 | 43 | 
-| 2022-12-11 | 295 | 43 | 
 

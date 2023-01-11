@@ -1,10 +1,10 @@
 # ethereum/go-ethereum - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 15706
+☋ Forks: 15717
 
-★ Stars: 40776
+★ Stars: 40791
 
 [Open repository](https://github.com/ethereum/go-ethereum)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 40791 | 15717 | 
 | 2023-01-09 | 40776 | 15706 | 
 | 2023-01-08 | 40765 | 15701 | 
 | 2023-01-07 | 40751 | 15695 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 40515 | 15558 | 
 | 2022-12-13 | 40498 | 15546 | 
 | 2022-12-12 | 40487 | 15536 | 
-| 2022-12-11 | 40473 | 15529 | 
 

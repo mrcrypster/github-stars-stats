@@ -1,6 +1,6 @@
 # tukui-org/ElvUI - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 85
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 230 | 85 | 
 | 2023-01-09 | 230 | 85 | 
 | 2023-01-08 | 229 | 85 | 
 | 2023-01-07 | 228 | 85 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 218 | 82 | 
 | 2022-12-13 | 219 | 81 | 
 | 2022-12-12 | 219 | 81 | 
-| 2022-12-11 | 219 | 81 | 
 

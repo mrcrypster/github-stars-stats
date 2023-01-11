@@ -1,8 +1,8 @@
 # apple/unityplugins - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 43
+☋ Forks: 44
 
 ★ Stars: 462
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 462 | 44 | 
 | 2023-01-09 | 462 | 43 | 
 | 2023-01-08 | 461 | 43 | 
 | 2023-01-07 | 461 | 42 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 455 | 43 | 
 | 2022-12-14 | 454 | 43 | 
 | 2022-12-12 | 455 | 43 | 
-| 2022-12-11 | 454 | 42 | 
 

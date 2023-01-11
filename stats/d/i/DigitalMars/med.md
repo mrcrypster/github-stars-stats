@@ -1,10 +1,10 @@
 # DigitalMars/med - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 14
 
-★ Stars: 80
+★ Stars: 81
 
 [Open repository](https://github.com/DigitalMars/med)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 81 | 14 | 
 | 2023-01-09 | 80 | 14 | 
 | 2023-01-08 | 80 | 14 | 
 | 2023-01-07 | 80 | 14 | 

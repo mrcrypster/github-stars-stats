@@ -1,10 +1,10 @@
 # wildfly/wildfly - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 2163
+☋ Forks: 2161
 
-★ Stars: 2812
+★ Stars: 2811
 
 [Open repository](https://github.com/wildfly/wildfly)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 2811 | 2161 | 
 | 2023-01-09 | 2812 | 2163 | 
 | 2023-01-08 | 2811 | 2163 | 
 | 2023-01-06 | 2811 | 2161 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 2804 | 2156 | 
 | 2022-12-14 | 2805 | 2157 | 
 | 2022-12-12 | 2805 | 2157 | 
-| 2022-12-11 | 2805 | 2156 | 
 

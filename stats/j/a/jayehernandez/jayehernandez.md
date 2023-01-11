@@ -1,8 +1,8 @@
 # jayehernandez/jayehernandez - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 106
+☋ Forks: 105
 
 ★ Stars: 53
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 53 | 105 | 
 | 2023-01-09 | 53 | 106 | 
 | 2023-01-08 | 53 | 106 | 
 | 2023-01-07 | 53 | 106 | 

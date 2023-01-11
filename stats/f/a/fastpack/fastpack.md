@@ -1,6 +1,6 @@
 # fastpack/fastpack - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 2266 | 46 | 
 | 2023-01-09 | 2266 | 46 | 
 | 2023-01-08 | 2266 | 46 | 
 | 2023-01-07 | 2266 | 46 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 2266 | 46 | 
 | 2022-12-13 | 2267 | 46 | 
 | 2022-12-12 | 2267 | 46 | 
-| 2022-12-11 | 2267 | 46 | 
 

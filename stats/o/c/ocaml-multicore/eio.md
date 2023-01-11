@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 10
 
 ☋ Forks: 33
 
-★ Stars: 344
+★ Stars: 345
 
 [Open repository](https://github.com/ocaml-multicore/eio)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-10 | 344 | 33 | 
+| 2023-01-10 | 345 | 33 | 
 | 2023-01-09 | 344 | 33 | 
 | 2023-01-08 | 340 | 33 | 
 | 2023-01-07 | 338 | 33 | 

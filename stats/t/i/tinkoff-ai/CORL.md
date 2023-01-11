@@ -1,10 +1,10 @@
 # tinkoff-ai/CORL - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 36
+☋ Forks: 37
 
-★ Stars: 470
+★ Stars: 471
 
 [Open repository](https://github.com/tinkoff-ai/CORL)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 471 | 37 | 
 | 2023-01-09 | 470 | 36 | 
 | 2023-01-08 | 467 | 36 | 
 | 2023-01-07 | 465 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 418 | 32 | 
 | 2022-12-13 | 417 | 32 | 
 | 2022-12-12 | 403 | 32 | 
-| 2022-12-11 | 401 | 32 | 
 

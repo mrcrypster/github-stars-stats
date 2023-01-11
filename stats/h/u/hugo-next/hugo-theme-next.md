@@ -1,10 +1,10 @@
 # hugo-next/hugo-theme-next - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 19
 
-★ Stars: 87
+★ Stars: 88
 
 [Open repository](https://github.com/hugo-next/hugo-theme-next)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 88 | 19 | 
 | 2023-01-09 | 87 | 19 | 
 | 2023-01-08 | 87 | 18 | 
 | 2023-01-07 | 86 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 76 | 14 | 
 | 2022-12-13 | 75 | 13 | 
 | 2022-12-12 | 75 | 13 | 
-| 2022-12-11 | 74 | 13 | 
 

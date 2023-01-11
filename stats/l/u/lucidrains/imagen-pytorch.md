@@ -1,10 +1,10 @@
 # lucidrains/imagen-pytorch - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 535
+☋ Forks: 537
 
-★ Stars: 5991
+★ Stars: 5996
 
 [Open repository](https://github.com/lucidrains/imagen-pytorch)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 5996 | 537 | 
 | 2023-01-10 | 5991 | 535 | 
 | 2023-01-08 | 5986 | 536 | 
 | 2023-01-07 | 5982 | 535 | 

@@ -1,6 +1,6 @@
 # pedrohdz/vim-yaml-folds - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 87 | 9 | 
 | 2023-01-09 | 87 | 9 | 
 | 2023-01-08 | 87 | 9 | 
 | 2023-01-07 | 87 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 87 | 9 | 
 | 2022-12-14 | 87 | 9 | 
 | 2022-12-13 | 87 | 9 | 
-| 2022-12-11 | 87 | 9 | 
 

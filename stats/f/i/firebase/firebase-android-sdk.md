@@ -1,10 +1,10 @@
 # firebase/firebase-android-sdk - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 522
+☋ Forks: 523
 
-★ Stars: 1996
+★ Stars: 1998
 
 [Open repository](https://github.com/firebase/firebase-android-sdk)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 1998 | 523 | 
 | 2023-01-09 | 1996 | 522 | 
 | 2023-01-08 | 1994 | 521 | 
 | 2023-01-07 | 1994 | 521 | 

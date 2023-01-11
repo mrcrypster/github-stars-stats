@@ -1,6 +1,6 @@
 # funwithflutter/google-docs-clone-flutter - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 81 | 16 | 
 | 2023-01-09 | 81 | 16 | 
 | 2023-01-08 | 81 | 16 | 
 | 2023-01-07 | 80 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 78 | 15 | 
 | 2022-12-14 | 78 | 15 | 
 | 2022-12-13 | 78 | 14 | 
-| 2022-12-12 | 78 | 14 | 
 

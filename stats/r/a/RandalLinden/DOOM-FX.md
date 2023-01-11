@@ -1,6 +1,6 @@
 # RandalLinden/DOOM-FX - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 106
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 1118 | 106 | 
 | 2023-01-10 | 1118 | 106 | 
 | 2023-01-08 | 1117 | 106 | 
 | 2023-01-07 | 1117 | 106 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 1115 | 107 | 
 | 2022-12-14 | 1115 | 107 | 
 | 2022-12-12 | 1115 | 107 | 
-| 2022-12-11 | 1115 | 107 | 
 

@@ -1,6 +1,6 @@
 # Team-Kujira/docs - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 6 | 35 | 
 | 2023-01-10 | 6 | 35 | 
 | 2023-01-08 | 6 | 35 | 
 | 2023-01-07 | 6 | 35 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-14 | 7 | 34 | 
 | 2022-12-13 | 7 | 34 | 
 | 2022-12-12 | 7 | 33 | 
-| 2022-12-11 | 7 | 31 | 
 

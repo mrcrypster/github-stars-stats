@@ -1,10 +1,10 @@
 # edemaine/hardness-book-site - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 0
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/edemaine/hardness-book-site)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 11 | - | 
 | 2023-01-09 | 10 | - | 
 | 2023-01-08 | 10 | - | 
 | 2023-01-07 | 10 | - | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 10 | - | 
 | 2022-12-14 | 10 | - | 
 | 2022-12-13 | 10 | - | 
-| 2022-12-11 | 10 | - | 
 

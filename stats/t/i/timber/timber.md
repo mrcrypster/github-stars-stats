@@ -1,10 +1,10 @@
 # timber/timber - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 498
 
-★ Stars: 5172
+★ Stars: 5174
 
 [Open repository](https://github.com/timber/timber)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 5174 | 498 | 
 | 2023-01-09 | 5172 | 498 | 
 | 2023-01-08 | 5173 | 498 | 
 | 2023-01-07 | 5172 | 499 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 5164 | 498 | 
 | 2022-12-14 | 5163 | 498 | 
 | 2022-12-13 | 5162 | 498 | 
-| 2022-12-11 | 5160 | 498 | 
 

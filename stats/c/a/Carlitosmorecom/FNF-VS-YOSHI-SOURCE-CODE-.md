@@ -1,6 +1,6 @@
 # Carlitosmorecom/FNF-VS-YOSHI-SOURCE-CODE- - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 3 | 24 | 
 | 2023-01-09 | 3 | 24 | 
 | 2023-01-08 | 3 | 24 | 
 | 2023-01-07 | 3 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 4 | 23 | 
 | 2022-12-14 | 4 | 22 | 
 | 2022-12-12 | 4 | 22 | 
-| 2022-12-11 | 4 | 22 | 
 

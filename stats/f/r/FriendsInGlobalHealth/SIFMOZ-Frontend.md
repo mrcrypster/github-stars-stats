@@ -1,10 +1,10 @@
 # FriendsInGlobalHealth/SIFMOZ-Frontend - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 5
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/FriendsInGlobalHealth/SIFMOZ-Frontend)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 3 | 5 | 
 | 2023-01-09 | 2 | 5 | 
 | 2023-01-08 | 2 | 5 | 
 | 2023-01-07 | 2 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | - | 5 | 
 | 2022-12-13 | - | 5 | 
 | 2022-12-12 | - | 5 | 
-| 2022-12-11 | - | 5 | 
 

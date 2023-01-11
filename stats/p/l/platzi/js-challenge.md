@@ -1,10 +1,10 @@
 # platzi/js-challenge - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 499
+☋ Forks: 498
 
-★ Stars: 44
+★ Stars: 45
 
 [Open repository](https://github.com/platzi/js-challenge)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 45 | 498 | 
 | 2023-01-09 | 44 | 499 | 
 | 2023-01-08 | 44 | 499 | 
 | 2023-01-07 | 44 | 499 | 

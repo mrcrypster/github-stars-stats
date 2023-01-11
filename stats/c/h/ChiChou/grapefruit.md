@@ -1,10 +1,10 @@
 # ChiChou/grapefruit - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 55
+☋ Forks: 56
 
-★ Stars: 633
+★ Stars: 634
 
 [Open repository](https://github.com/ChiChou/grapefruit)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 634 | 56 | 
 | 2023-01-09 | 633 | 55 | 
 | 2023-01-08 | 633 | 55 | 
 | 2023-01-07 | 633 | 55 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 631 | 55 | 
 | 2022-12-14 | 631 | 55 | 
 | 2022-12-12 | 630 | 55 | 
-| 2022-12-11 | 629 | 55 | 
 

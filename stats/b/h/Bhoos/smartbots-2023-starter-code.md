@@ -1,10 +1,10 @@
 # Bhoos/smartbots-2023-starter-code - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 34
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/Bhoos/smartbots-2023-starter-code)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 14 | 34 | 
 | 2023-01-09 | 13 | 34 | 
 | 2023-01-08 | 13 | 34 | 
 | 2023-01-07 | 13 | 34 | 

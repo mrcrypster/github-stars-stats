@@ -1,10 +1,10 @@
 # ruanyf/document-style-guide - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 2236
 
-★ Stars: 10503
+★ Stars: 10504
 
 [Open repository](https://github.com/ruanyf/document-style-guide)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 10504 | 2236 | 
 | 2023-01-09 | 10503 | 2236 | 
 | 2023-01-08 | 10501 | 2236 | 
 | 2023-01-07 | 10499 | 2235 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 10444 | 2223 | 
 | 2022-12-14 | 10441 | 2223 | 
 | 2022-12-13 | 10428 | 2219 | 
-| 2022-12-11 | 10402 | 2217 | 
 

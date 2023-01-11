@@ -1,6 +1,6 @@
 # soteria-security/365Inspect - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 274 | 49 | 
 | 2023-01-09 | 274 | 49 | 
 | 2023-01-08 | 274 | 49 | 
 | 2023-01-07 | 274 | 49 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 270 | 48 | 
 | 2022-12-13 | 269 | 48 | 
 | 2022-12-12 | 268 | 48 | 
-| 2022-12-11 | 268 | 48 | 
 

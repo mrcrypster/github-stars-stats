@@ -1,10 +1,10 @@
 # danielshervheim/unity-stylized-water - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 57
 
-★ Stars: 486
+★ Stars: 489
 
 [Open repository](https://github.com/danielshervheim/unity-stylized-water)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 489 | 57 | 
 | 2023-01-09 | 486 | 57 | 
 | 2023-01-08 | 486 | 57 | 
 | 2023-01-07 | 486 | 57 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 472 | 56 | 
 | 2022-12-14 | 471 | 56 | 
 | 2022-12-13 | 470 | 56 | 
-| 2022-12-12 | 470 | 56 | 
 

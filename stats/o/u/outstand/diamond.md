@@ -1,6 +1,6 @@
 # outstand/diamond - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 16 | - | 
 | 2023-01-09 | 16 | - | 
 | 2023-01-08 | 16 | - | 
 | 2023-01-07 | 16 | - | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 16 | - | 
 | 2022-12-14 | 16 | - | 
 | 2022-12-13 | 16 | - | 
-| 2022-12-11 | 16 | - | 
 

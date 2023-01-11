@@ -1,10 +1,10 @@
 # OWASP/owasp-masvs - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 388
 
-★ Stars: 1586
+★ Stars: 1587
 
 [Open repository](https://github.com/OWASP/owasp-masvs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 1587 | 388 | 
 | 2023-01-09 | 1586 | 388 | 
 | 2023-01-08 | 1586 | 388 | 
 | 2023-01-07 | 1585 | 388 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 1574 | 388 | 
 | 2022-12-13 | 1573 | 388 | 
 | 2022-12-12 | 1571 | 388 | 
-| 2022-12-11 | 1571 | 388 | 
 

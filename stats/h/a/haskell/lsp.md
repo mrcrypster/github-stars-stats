@@ -1,6 +1,6 @@
 # haskell/lsp - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 81
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 313 | 81 | 
 | 2023-01-09 | 313 | 81 | 
 | 2023-01-08 | 313 | 81 | 
 | 2023-01-07 | 313 | 81 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 311 | 80 | 
 | 2022-12-13 | 312 | 80 | 
 | 2022-12-12 | 312 | 80 | 
-| 2022-12-11 | 312 | 81 | 
 

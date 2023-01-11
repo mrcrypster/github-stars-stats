@@ -1,10 +1,10 @@
 # brenner-tobias/addon-cloudflared - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
 ☋ Forks: 20
 
-★ Stars: 268
+★ Stars: 271
 
 [Open repository](https://github.com/brenner-tobias/addon-cloudflared)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 271 | 20 | 
 | 2023-01-09 | 268 | 20 | 
 | 2023-01-08 | 267 | 19 | 
 | 2023-01-07 | 265 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 243 | 15 | 
 | 2022-12-14 | 242 | 15 | 
 | 2022-12-12 | 238 | 15 | 
-| 2022-12-11 | 237 | 15 | 
 

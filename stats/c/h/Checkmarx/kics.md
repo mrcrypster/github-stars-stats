@@ -1,10 +1,10 @@
 # Checkmarx/kics - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 222
+☋ Forks: 223
 
-★ Stars: 1379
+★ Stars: 1381
 
 [Open repository](https://github.com/Checkmarx/kics)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 1381 | 223 | 
 | 2023-01-09 | 1379 | 222 | 
 | 2023-01-08 | 1379 | 222 | 
 | 2023-01-07 | 1379 | 222 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-14 | 1352 | 215 | 
 | 2022-12-13 | 1350 | 215 | 
 | 2022-12-12 | 1348 | 215 | 
-| 2022-12-11 | 1348 | 215 | 
 

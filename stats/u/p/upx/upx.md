@@ -1,10 +1,10 @@
 # upx/upx - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 1114
+☋ Forks: 1116
 
-★ Stars: 10677
+★ Stars: 10682
 
 [Open repository](https://github.com/upx/upx)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 10682 | 1116 | 
 | 2023-01-09 | 10677 | 1114 | 
 | 2023-01-08 | 10668 | 1113 | 
 | 2023-01-07 | 10665 | 1112 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 09
 | 2022-12-15 | 10521 | 1106 | 
 | 2022-12-14 | 10518 | 1105 | 
 | 2022-12-13 | 10508 | 1103 | 
-| 2022-12-12 | 10501 | 1102 | 
 

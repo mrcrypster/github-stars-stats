@@ -1,10 +1,10 @@
 # kopia/kopia - stars & forks statistics
 
-Stats updated on Jan 2023, 09
+Stats updated on Jan 2023, 10
 
-☋ Forks: 174
+☋ Forks: 175
 
-★ Stars: 2751
+★ Stars: 2756
 
 [Open repository](https://github.com/kopia/kopia)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-10 | 2756 | 175 | 
 | 2023-01-09 | 2751 | 174 | 
 | 2023-01-08 | 2746 | 174 | 
 | 2023-01-07 | 2741 | 174 | 
