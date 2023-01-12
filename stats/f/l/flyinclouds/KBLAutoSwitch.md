@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 11
 
 ☋ Forks: 21
 
-★ Stars: 286
+★ Stars: 290
 
 [Open repository](https://github.com/flyinclouds/KBLAutoSwitch)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-11 | 286 | 21 | 
+| 2023-01-11 | 290 | 21 | 
 | 2023-01-10 | 286 | 21 | 
 | 2023-01-09 | 281 | 20 | 
 | 2023-01-08 | 278 | 20 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-15 | 255 | 19 | 
 | 2022-12-14 | 254 | 18 | 
 | 2022-12-13 | 254 | 18 | 
-| 2022-12-12 | 253 | 18 | 
 

@@ -1,10 +1,10 @@
 # tanyarajhans/LeetCode - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 191
 
-★ Stars: 875
+★ Stars: 874
 
 [Open repository](https://github.com/tanyarajhans/LeetCode)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 874 | 191 | 
 | 2023-01-10 | 875 | 191 | 
 | 2023-01-09 | 874 | 191 | 
 | 2023-01-08 | 871 | 189 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 872 | 186 | 
 | 2022-12-14 | 872 | 185 | 
 | 2022-12-13 | 872 | 185 | 
-| 2022-12-12 | 872 | 185 | 
 

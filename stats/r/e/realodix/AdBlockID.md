@@ -1,6 +1,6 @@
 # realodix/AdBlockID - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 125 | 17 | 
 | 2023-01-10 | 125 | 17 | 
 | 2023-01-09 | 125 | 17 | 
 | 2023-01-08 | 125 | 17 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 124 | 17 | 
 | 2022-12-14 | 125 | 17 | 
 | 2022-12-13 | 125 | 17 | 
-| 2022-12-12 | 124 | 17 | 
 

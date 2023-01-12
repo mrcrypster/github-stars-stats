@@ -1,6 +1,6 @@
 # sbousseaden/EVTX-ATTACK-SAMPLES - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 346
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 1809 | 346 | 
 | 2023-01-10 | 1809 | 346 | 
 | 2023-01-09 | 1809 | 346 | 
 | 2023-01-08 | 1809 | 346 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 1792 | 345 | 
 | 2022-12-14 | 1792 | 345 | 
 | 2022-12-13 | 1790 | 345 | 
-| 2022-12-12 | 1790 | 345 | 
 

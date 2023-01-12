@@ -1,10 +1,10 @@
 # tgbot-collection/YYeTsBot - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 1645
+☋ Forks: 1646
 
-★ Stars: 12321
+★ Stars: 12325
 
 [Open repository](https://github.com/tgbot-collection/YYeTsBot)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 12325 | 1646 | 
 | 2023-01-10 | 12321 | 1645 | 
 | 2023-01-09 | 12312 | 1646 | 
 | 2023-01-08 | 12308 | 1646 | 

@@ -1,10 +1,10 @@
 # D1rkMtr/UnhookingPatch - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 24
+☋ Forks: 26
 
-★ Stars: 140
+★ Stars: 145
 
 [Open repository](https://github.com/D1rkMtr/UnhookingPatch)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 145 | 26 | 
 | 2023-01-10 | 140 | 24 | 
 | 2023-01-09 | 135 | 23 | 
 

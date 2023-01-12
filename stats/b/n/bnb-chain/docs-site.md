@@ -1,6 +1,6 @@
 # bnb-chain/docs-site - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 223
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 334 | 223 | 
 | 2023-01-10 | 334 | 223 | 
 | 2023-01-09 | 334 | 223 | 
 | 2023-01-08 | 331 | 223 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 330 | 221 | 
 | 2022-12-15 | 330 | 221 | 
 | 2022-12-13 | 330 | 221 | 
-| 2022-12-12 | 330 | 221 | 
 

@@ -1,6 +1,6 @@
 # CScorza/OSINT-FORENSICS-MOBILE - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 86
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 254 | 86 | 
 | 2023-01-10 | 254 | 86 | 
 | 2023-01-09 | 254 | 86 | 
 | 2023-01-08 | 253 | 86 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 240 | 82 | 
 | 2022-12-15 | 238 | 82 | 
 | 2022-12-13 | 238 | 82 | 
-| 2022-12-12 | 237 | 82 | 
 

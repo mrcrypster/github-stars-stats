@@ -1,6 +1,6 @@
 # nibbula/lish - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 67 | 7 | 
 | 2023-01-10 | 67 | 7 | 
 | 2023-01-09 | 67 | 7 | 
 | 2023-01-08 | 67 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 67 | 7 | 
 | 2022-12-15 | 66 | 7 | 
 | 2022-12-14 | 66 | 7 | 
-| 2022-12-12 | 66 | 7 | 
 

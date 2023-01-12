@@ -1,10 +1,10 @@
 # EduardoPires/EquinoxProject - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 1507
 
-★ Stars: 5793
+★ Stars: 5795
 
 [Open repository](https://github.com/EduardoPires/EquinoxProject)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 5795 | 1507 | 
 | 2023-01-10 | 5793 | 1507 | 
 | 2023-01-09 | 5791 | 1507 | 
 | 2023-01-08 | 5789 | 1507 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 5766 | 1499 | 
 | 2022-12-15 | 5764 | 1495 | 
 | 2022-12-14 | 5764 | 1495 | 
-| 2022-12-12 | 5762 | 1494 | 
 

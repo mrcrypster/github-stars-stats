@@ -1,10 +1,10 @@
 # pusher/pusher-http-php - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 287
 
-★ Stars: 1304
+★ Stars: 1305
 
 [Open repository](https://github.com/pusher/pusher-http-php)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 1305 | 287 | 
 | 2023-01-10 | 1304 | 287 | 
 | 2023-01-09 | 1304 | 287 | 
 | 2023-01-08 | 1304 | 287 | 

@@ -1,6 +1,6 @@
 # JuliaSmoothOptimizers/LDLFactorizations.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 30 | 12 | 
 | 2023-01-11 | 30 | 12 | 
 | 2023-01-09 | 30 | 12 | 
 | 2023-01-08 | 30 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 30 | 12 | 
 | 2022-12-15 | 30 | 12 | 
 | 2022-12-14 | 30 | 12 | 
-| 2022-12-12 | 30 | 12 | 
 

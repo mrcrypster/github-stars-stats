@@ -1,10 +1,10 @@
 # Azure/reliability-workbook - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 7
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/Azure/reliability-workbook)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 10 | 7 | 
 | 2023-01-11 | 9 | 7 | 
 | 2023-01-09 | 9 | 7 | 
 | 2023-01-08 | 9 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 8 | 7 | 
 | 2022-12-15 | 8 | 7 | 
 | 2022-12-13 | 8 | 7 | 
-| 2022-12-12 | 7 | 7 | 
 

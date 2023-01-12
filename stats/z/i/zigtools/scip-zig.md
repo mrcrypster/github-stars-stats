@@ -1,10 +1,10 @@
 # zigtools/scip-zig - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 0
 
-★ Stars: 10
+★ Stars: 12
 
 [Open repository](https://github.com/zigtools/scip-zig)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 12 | - | 
 | 2023-01-10 | 10 | - | 
 | 2023-01-09 | 10 | - | 
 | 2023-01-08 | 10 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 10 | - | 
 | 2022-12-15 | 10 | - | 
 | 2022-12-14 | 10 | - | 
-| 2022-12-12 | 10 | - | 
 

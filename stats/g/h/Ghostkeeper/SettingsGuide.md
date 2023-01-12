@@ -1,10 +1,10 @@
 # Ghostkeeper/SettingsGuide - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 32
 
-★ Stars: 130
+★ Stars: 131
 
 [Open repository](https://github.com/Ghostkeeper/SettingsGuide)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 131 | 32 | 
 | 2023-01-10 | 130 | 32 | 
 | 2023-01-09 | 130 | 32 | 
 | 2023-01-08 | 129 | 32 | 

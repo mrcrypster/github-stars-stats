@@ -1,10 +1,10 @@
 # tzmax/V2RayXS - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 31
 
-★ Stars: 291
+★ Stars: 293
 
 [Open repository](https://github.com/tzmax/V2RayXS)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 293 | 31 | 
 | 2023-01-10 | 291 | 31 | 
 | 2023-01-09 | 286 | 29 | 
 | 2023-01-08 | 283 | 29 | 

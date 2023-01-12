@@ -1,8 +1,8 @@
 # ironhack-labs/lab-vue-tweets - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 127
+☋ Forks: 128
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | - | 128 | 
 | 2023-01-10 | - | 127 | 
 | 2023-01-09 | - | 127 | 
 | 2023-01-08 | - | 127 | 

@@ -1,6 +1,6 @@
 # HaodongMo/ARC-9 - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 73 | 38 | 
 | 2023-01-10 | 73 | 38 | 
 | 2023-01-09 | 73 | 37 | 
 | 2023-01-08 | 71 | 37 | 

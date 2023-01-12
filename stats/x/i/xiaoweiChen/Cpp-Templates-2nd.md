@@ -1,6 +1,6 @@
 # xiaoweiChen/Cpp-Templates-2nd - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 58 | 9 | 
 | 2023-01-10 | 58 | 9 | 
 | 2023-01-09 | 58 | 9 | 
 | 2023-01-08 | 58 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 45 | 7 | 
 | 2022-12-15 | 45 | 7 | 
 | 2022-12-14 | 45 | 7 | 
-| 2022-12-13 | 45 | 7 | 
 

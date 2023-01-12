@@ -1,6 +1,6 @@
 # HospitalRun/hospitalrun-frontend - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 2145
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 6710 | 2145 | 
 | 2023-01-10 | 6710 | 2145 | 
 | 2023-01-09 | 6709 | 2145 | 
 | 2023-01-08 | 6710 | 2145 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 6694 | 2143 | 
 | 2022-12-15 | 6694 | 2143 | 
 | 2022-12-13 | 6693 | 2143 | 
-| 2022-12-12 | 6693 | 2143 | 
 

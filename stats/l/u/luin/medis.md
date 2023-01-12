@@ -1,10 +1,10 @@
 # luin/medis - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 817
 
-★ Stars: 11140
+★ Stars: 11142
 
 [Open repository](https://github.com/luin/medis)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 11142 | 817 | 
 | 2023-01-10 | 11140 | 817 | 
 | 2023-01-09 | 11140 | 817 | 
 | 2023-01-08 | 11140 | 818 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 11125 | 816 | 
 | 2022-12-15 | 11124 | 816 | 
 | 2022-12-13 | 11122 | 816 | 
-| 2022-12-12 | 11121 | 816 | 
 

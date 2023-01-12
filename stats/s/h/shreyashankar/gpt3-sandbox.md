@@ -1,10 +1,10 @@
 # shreyashankar/gpt3-sandbox - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 817
+☋ Forks: 819
 
-★ Stars: 2690
+★ Stars: 2693
 
 [Open repository](https://github.com/shreyashankar/gpt3-sandbox)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 2693 | 819 | 
 | 2023-01-10 | 2690 | 817 | 
 | 2023-01-09 | 2689 | 816 | 
 | 2023-01-08 | 2685 | 814 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 2643 | 799 | 
 | 2022-12-15 | 2639 | 797 | 
 | 2022-12-13 | 2637 | 797 | 
-| 2022-12-12 | 2634 | 793 | 
 

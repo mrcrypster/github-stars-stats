@@ -1,8 +1,8 @@
 # Alexofp/BDCC - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 4
+☋ Forks: 5
 
 ★ Stars: 15
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 15 | 5 | 
 | 2023-01-10 | 15 | 4 | 
 | 2023-01-09 | 15 | 4 | 
 | 2023-01-08 | 16 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 10 | 3 | 
 | 2022-12-14 | 11 | 3 | 
 | 2022-12-13 | 11 | 3 | 
-| 2022-12-12 | 11 | 3 | 
 

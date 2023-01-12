@@ -1,6 +1,6 @@
 # muellerberndt/android_app_security_checklist - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 197
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 778 | 197 | 
 | 2023-01-10 | 778 | 197 | 
 | 2023-01-09 | 778 | 197 | 
 | 2023-01-08 | 778 | 197 | 

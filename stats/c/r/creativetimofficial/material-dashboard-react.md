@@ -1,10 +1,10 @@
 # creativetimofficial/material-dashboard-react - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 1753
+☋ Forks: 1761
 
-★ Stars: 2317
+★ Stars: 2318
 
 [Open repository](https://github.com/creativetimofficial/material-dashboard-react)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 2318 | 1761 | 
 | 2023-01-10 | 2317 | 1753 | 
 | 2023-01-09 | 2314 | 1750 | 
 | 2023-01-08 | 2313 | 1746 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 2293 | 1655 | 
 | 2022-12-15 | 2292 | 1648 | 
 | 2022-12-14 | 2289 | 1638 | 
-| 2022-12-13 | 2285 | 1630 | 
 

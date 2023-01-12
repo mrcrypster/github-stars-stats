@@ -1,10 +1,10 @@
 # ergoplatform/ergo - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 145
 
-★ Stars: 464
+★ Stars: 465
 
 [Open repository](https://github.com/ergoplatform/ergo)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 465 | 145 | 
 | 2023-01-10 | 464 | 145 | 
 | 2023-01-09 | 464 | 145 | 
 | 2023-01-08 | 464 | 145 | 

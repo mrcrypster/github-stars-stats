@@ -1,6 +1,6 @@
 # bitshares-cnvote/newbitshares-core - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 70
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 215 | 70 | 
 | 2023-01-10 | 215 | 70 | 
 | 2023-01-09 | 215 | 70 | 
 | 2023-01-08 | 215 | 70 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 215 | 70 | 
 | 2022-12-14 | 215 | 70 | 
 | 2022-12-13 | 215 | 70 | 
-| 2022-12-12 | 215 | 70 | 
 

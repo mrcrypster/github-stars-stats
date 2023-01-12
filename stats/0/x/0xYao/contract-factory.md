@@ -1,6 +1,6 @@
 # 0xYao/contract-factory - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 17 | 1 | 
 | 2023-01-11 | 17 | 1 | 
 | 2023-01-09 | 17 | 1 | 
 | 2023-01-08 | 17 | 1 | 

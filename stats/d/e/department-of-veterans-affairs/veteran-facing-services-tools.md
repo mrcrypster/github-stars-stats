@@ -1,6 +1,6 @@
 # department-of-veterans-affairs/veteran-facing-services-tools - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 22 | 10 | 
 | 2023-01-10 | 22 | 10 | 
 | 2023-01-09 | 22 | 10 | 
 | 2023-01-08 | 22 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 22 | 10 | 
 | 2022-12-15 | 22 | 10 | 
 | 2022-12-13 | 23 | 10 | 
-| 2022-12-12 | 23 | 10 | 
 

@@ -1,10 +1,10 @@
 # purusottam234/8th-semester - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 6
 
-★ Stars: 34
+★ Stars: 33
 
 [Open repository](https://github.com/purusottam234/8th-semester)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 33 | 6 | 
 | 2023-01-11 | 34 | 6 | 
 | 2023-01-09 | 34 | 6 | 
 | 2023-01-08 | 34 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 34 | 7 | 
 | 2022-12-15 | 34 | 7 | 
 | 2022-12-13 | 34 | 7 | 
-| 2022-12-12 | 34 | 7 | 
 

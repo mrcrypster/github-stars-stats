@@ -1,6 +1,6 @@
 # endeve/thornado - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 10 | 9 | 
 | 2023-01-10 | 10 | 9 | 
 | 2023-01-09 | 10 | 9 | 
 | 2023-01-07 | 10 | 9 | 

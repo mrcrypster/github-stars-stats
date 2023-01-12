@@ -1,6 +1,6 @@
 # W1lliam1337/digital-sdk - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 71 | 16 | 
 | 2023-01-10 | 71 | 16 | 
 | 2023-01-09 | 71 | 16 | 
 | 2023-01-08 | 70 | 16 | 

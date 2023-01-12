@@ -1,10 +1,10 @@
 # jseerden/IntuneBackupAndRestore - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 60
 
-★ Stars: 231
+★ Stars: 233
 
 [Open repository](https://github.com/jseerden/IntuneBackupAndRestore)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 233 | 60 | 
 | 2023-01-10 | 231 | 60 | 
 | 2023-01-09 | 230 | 60 | 
 | 2023-01-08 | 230 | 60 | 

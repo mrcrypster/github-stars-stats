@@ -1,10 +1,10 @@
 # practicalli/doom-emacs-config - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 1
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/practicalli/doom-emacs-config)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 5 | 1 | 
 | 2023-01-10 | 4 | 1 | 
 | 2023-01-09 | 4 | 1 | 
 | 2023-01-08 | 4 | 1 | 

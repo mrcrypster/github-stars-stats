@@ -1,6 +1,6 @@
 # playframework/play-scala-seed.g8 - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 106
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 68 | 106 | 
 | 2023-01-10 | 68 | 106 | 
 | 2023-01-09 | 68 | 106 | 
 | 2023-01-08 | 68 | 106 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 68 | 106 | 
 | 2022-12-15 | 68 | 106 | 
 | 2022-12-13 | 68 | 106 | 
-| 2022-12-12 | 68 | 106 | 
 

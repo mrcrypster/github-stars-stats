@@ -1,10 +1,10 @@
 # TheLastGimbus/GooglePhotosTakeoutHelper - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 111
+☋ Forks: 113
 
-★ Stars: 1557
+★ Stars: 1561
 
 [Open repository](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 1561 | 113 | 
 | 2023-01-10 | 1557 | 111 | 
 | 2023-01-09 | 1557 | 111 | 
 | 2023-01-08 | 1550 | 111 | 

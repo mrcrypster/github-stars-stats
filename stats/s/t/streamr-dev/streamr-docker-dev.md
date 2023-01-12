@@ -1,6 +1,6 @@
 # streamr-dev/streamr-docker-dev - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 10 | 3 | 
 | 2023-01-10 | 10 | 3 | 
 | 2023-01-09 | 10 | 3 | 
 | 2023-01-08 | 10 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 10 | 3 | 
 | 2022-12-14 | 11 | 3 | 
 | 2022-12-13 | 11 | 3 | 
-| 2022-12-12 | 11 | 3 | 
 

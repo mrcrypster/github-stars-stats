@@ -1,6 +1,6 @@
 # Xilinx/meta-jupyter - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 6 | 10 | 
 | 2023-01-10 | 6 | 10 | 
 | 2023-01-09 | 6 | 10 | 
 | 2023-01-08 | 6 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 5 | 10 | 
 | 2022-12-15 | 5 | 10 | 
 | 2022-12-13 | 5 | 10 | 
-| 2022-12-12 | 5 | 10 | 
 

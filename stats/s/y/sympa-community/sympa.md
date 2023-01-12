@@ -1,8 +1,8 @@
 # sympa-community/sympa - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 72
+☋ Forks: 73
 
 ★ Stars: 200
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 200 | 73 | 
 | 2023-01-11 | 200 | 72 | 
 | 2023-01-09 | 199 | 72 | 
 | 2023-01-08 | 199 | 73 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 194 | 73 | 
 | 2022-12-15 | 194 | 73 | 
 | 2022-12-13 | 193 | 73 | 
-| 2022-12-12 | 193 | 73 | 
 

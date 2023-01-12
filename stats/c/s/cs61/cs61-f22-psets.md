@@ -1,6 +1,6 @@
 # cs61/cs61-f22-psets - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 5 | 11 | 
 | 2023-01-10 | 5 | 11 | 
 | 2023-01-09 | 5 | 11 | 
 | 2023-01-08 | 5 | 11 | 

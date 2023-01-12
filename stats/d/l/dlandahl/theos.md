@@ -1,10 +1,10 @@
 # dlandahl/theos - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 0
 
-★ Stars: 44
+★ Stars: 45
 
 [Open repository](https://github.com/dlandahl/theos)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 45 | - | 
 | 2023-01-10 | 44 | - | 
 | 2023-01-09 | 42 | - | 
 | 2023-01-08 | 42 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 29 | - | 
 | 2022-12-14 | 30 | - | 
 | 2022-12-13 | 30 | - | 
-| 2022-12-12 | 30 | - | 
 

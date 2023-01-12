@@ -1,6 +1,6 @@
 # BugAlertDotOrg/bugalert - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 208 | 19 | 
 | 2023-01-10 | 208 | 19 | 
 | 2023-01-09 | 208 | 19 | 
 | 2023-01-08 | 208 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 208 | 19 | 
 | 2022-12-14 | 207 | 19 | 
 | 2022-12-13 | 207 | 19 | 
-| 2022-12-12 | 207 | 19 | 
 

@@ -1,8 +1,8 @@
 # vasanthv/talk - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 335
+☋ Forks: 334
 
 ★ Stars: 2445
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 2445 | 334 | 
 | 2023-01-10 | 2445 | 335 | 
 | 2023-01-09 | 2444 | 333 | 
 | 2023-01-08 | 2443 | 331 | 

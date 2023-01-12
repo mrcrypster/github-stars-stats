@@ -1,6 +1,6 @@
 # xioacd99/study-is-wonderful - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 126
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 1579 | 126 | 
 | 2023-01-11 | 1579 | 126 | 
 | 2023-01-09 | 1579 | 126 | 
 | 2023-01-08 | 1578 | 126 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 1578 | 125 | 
 | 2022-12-15 | 1578 | 125 | 
 | 2022-12-13 | 1578 | 125 | 
-| 2022-12-12 | 1577 | 125 | 
 

@@ -1,6 +1,6 @@
 # HaxeFlixel/flixel-addons - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 120
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 130 | 120 | 
 | 2023-01-10 | 130 | 120 | 
 | 2023-01-09 | 130 | 120 | 
 | 2023-01-08 | 130 | 120 | 

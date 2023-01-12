@@ -1,8 +1,8 @@
 # SmartThingsCommunity/SmartThingsEdgeDrivers - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 244
+☋ Forks: 245
 
 ★ Stars: 127
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 127 | 245 | 
 | 2023-01-10 | 127 | 244 | 
 | 2023-01-09 | 126 | 243 | 
 | 2023-01-08 | 126 | 241 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 120 | 226 | 
 | 2022-12-14 | 120 | 226 | 
 | 2022-12-13 | 120 | 225 | 
-| 2022-12-12 | 118 | 225 | 
 

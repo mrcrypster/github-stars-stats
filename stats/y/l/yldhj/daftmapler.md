@@ -1,6 +1,6 @@
 # yldhj/daftmapler - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 55 | 23 | 
 | 2023-01-10 | 55 | 23 | 
 | 2023-01-09 | 55 | 23 | 
 | 2023-01-08 | 55 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 55 | 23 | 
 | 2022-12-15 | 55 | 23 | 
 | 2022-12-13 | 55 | 23 | 
-| 2022-12-12 | 55 | 23 | 
 

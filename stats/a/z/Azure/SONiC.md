@@ -1,8 +1,8 @@
 # Azure/SONiC - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 934
+☋ Forks: 935
 
 ★ Stars: 1692
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 1692 | 935 | 
 | 2023-01-10 | 1692 | 934 | 
 | 2023-01-09 | 1691 | 933 | 
 | 2023-01-08 | 1691 | 932 | 

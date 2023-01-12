@@ -1,10 +1,10 @@
 # ashawkey/cubvh - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 2
 
-★ Stars: 71
+★ Stars: 72
 
 [Open repository](https://github.com/ashawkey/cubvh)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 72 | 2 | 
 | 2023-01-11 | 71 | 2 | 
 | 2023-01-09 | 71 | 2 | 
 | 2023-01-08 | 70 | 1 | 

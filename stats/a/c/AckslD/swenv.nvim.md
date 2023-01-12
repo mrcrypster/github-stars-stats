@@ -1,10 +1,10 @@
 # AckslD/swenv.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 1
 
-★ Stars: 67
+★ Stars: 66
 
 [Open repository](https://github.com/AckslD/swenv.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 66 | 1 | 
 | 2023-01-10 | 67 | 1 | 
 | 2023-01-09 | 67 | 1 | 
 | 2023-01-08 | 67 | 1 | 

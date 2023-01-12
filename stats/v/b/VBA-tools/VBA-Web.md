@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 11
 
 ☋ Forks: 459
 
-★ Stars: 1780
+★ Stars: 1781
 
 [Open repository](https://github.com/VBA-tools/VBA-Web)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-11 | 1780 | 459 | 
+| 2023-01-11 | 1781 | 459 | 
 | 2023-01-10 | 1780 | 459 | 
 | 2023-01-09 | 1780 | 458 | 
 | 2023-01-08 | 1779 | 458 | 

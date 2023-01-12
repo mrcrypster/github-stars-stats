@@ -1,6 +1,6 @@
 # emacs-php/php-mode - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 115
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 553 | 115 | 
 | 2023-01-10 | 553 | 115 | 
 | 2023-01-09 | 553 | 115 | 
 | 2023-01-08 | 553 | 115 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 550 | 115 | 
 | 2022-12-15 | 550 | 115 | 
 | 2022-12-14 | 550 | 115 | 
-| 2022-12-13 | 550 | 115 | 
 

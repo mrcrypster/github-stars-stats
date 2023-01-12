@@ -1,10 +1,10 @@
 # ichitaro/carla-trail - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 11
 
-★ Stars: 99
+★ Stars: 100
 
 [Open repository](https://github.com/ichitaro/carla-trail)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 100 | 11 | 
 | 2023-01-10 | 99 | 11 | 
 | 2023-01-09 | 99 | 11 | 
 | 2023-01-08 | 99 | 12 | 

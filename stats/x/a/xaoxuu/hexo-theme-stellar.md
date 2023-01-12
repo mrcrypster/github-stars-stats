@@ -1,8 +1,8 @@
 # xaoxuu/hexo-theme-stellar - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 151
+☋ Forks: 152
 
 ★ Stars: 344
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 344 | 152 | 
 | 2023-01-10 | 344 | 151 | 
 | 2023-01-09 | 344 | 150 | 
 | 2023-01-08 | 340 | 148 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 322 | 140 | 
 | 2022-12-15 | 322 | 140 | 
 | 2022-12-13 | 319 | 139 | 
-| 2022-12-12 | 320 | 139 | 
 

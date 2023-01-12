@@ -1,10 +1,10 @@
 # radarsh/gradle-test-logger-plugin - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 33
 
-★ Stars: 704
+★ Stars: 705
 
 [Open repository](https://github.com/radarsh/gradle-test-logger-plugin)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 705 | 33 | 
 | 2023-01-10 | 704 | 33 | 
 | 2023-01-09 | 704 | 33 | 
 | 2023-01-08 | 702 | 33 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 701 | 32 | 
 | 2022-12-15 | 700 | 32 | 
 | 2022-12-14 | 700 | 32 | 
-| 2022-12-13 | 700 | 32 | 
 

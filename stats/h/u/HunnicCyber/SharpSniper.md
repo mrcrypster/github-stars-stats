@@ -1,6 +1,6 @@
 # HunnicCyber/SharpSniper - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 356 | 53 | 
 | 2023-01-10 | 356 | 53 | 
 | 2023-01-09 | 356 | 53 | 
 | 2023-01-08 | 356 | 53 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 354 | 53 | 
 | 2022-12-14 | 354 | 53 | 
 | 2022-12-13 | 354 | 53 | 
-| 2022-12-12 | 354 | 53 | 
 

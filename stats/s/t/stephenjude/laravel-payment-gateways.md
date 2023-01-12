@@ -1,10 +1,10 @@
 # stephenjude/laravel-payment-gateways - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 8
 
-★ Stars: 65
+★ Stars: 66
 
 [Open repository](https://github.com/stephenjude/laravel-payment-gateways)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 66 | 8 | 
 | 2023-01-10 | 65 | 8 | 
 | 2023-01-09 | 64 | 7 | 
 | 2023-01-08 | 64 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 62 | 7 | 
 | 2022-12-14 | 61 | 6 | 
 | 2022-12-13 | 61 | 6 | 
-| 2022-12-12 | 61 | 6 | 
 

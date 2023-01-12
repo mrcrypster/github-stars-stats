@@ -1,10 +1,10 @@
 # Keyspace-cloud/android - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 4
 
-★ Stars: 61
+★ Stars: 62
 
 [Open repository](https://github.com/Keyspace-cloud/android)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 62 | 4 | 
 | 2023-01-11 | 61 | 4 | 
 | 2023-01-09 | 61 | 4 | 
 | 2023-01-08 | 61 | 4 | 

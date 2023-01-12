@@ -1,10 +1,10 @@
 # profmancusoa/profmancusoa.github.io - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 30
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/profmancusoa/profmancusoa.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 8 | 30 | 
 | 2023-01-10 | 7 | 30 | 
 | 2023-01-09 | 7 | 30 | 
 | 2023-01-08 | 7 | 30 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 7 | 30 | 
 | 2022-12-15 | 7 | 30 | 
 | 2022-12-14 | 7 | 30 | 
-| 2022-12-12 | 7 | 30 | 
 

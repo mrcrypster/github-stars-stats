@@ -1,10 +1,10 @@
 # sindresorhus/query-string - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 449
 
-★ Stars: 6230
+★ Stars: 6234
 
 [Open repository](https://github.com/sindresorhus/query-string)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 6234 | 449 | 
 | 2023-01-10 | 6230 | 449 | 
 | 2023-01-09 | 6230 | 449 | 
 | 2023-01-08 | 6228 | 448 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 6199 | 446 | 
 | 2022-12-15 | 6195 | 445 | 
 | 2022-12-13 | 6180 | 444 | 
-| 2022-12-12 | 6174 | 442 | 
 

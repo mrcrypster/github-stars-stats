@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 11
 
 ☋ Forks: 168
 
-★ Stars: 568
+★ Stars: 569
 
 [Open repository](https://github.com/bazelbuild/rules_foreign_cc)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-11 | 568 | 168 | 
+| 2023-01-11 | 569 | 168 | 
 | 2023-01-10 | 568 | 168 | 
 | 2023-01-09 | 568 | 168 | 
 | 2023-01-08 | 568 | 168 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 563 | 167 | 
 | 2022-12-15 | 563 | 167 | 
 | 2022-12-13 | 563 | 167 | 
-| 2022-12-12 | 563 | 167 | 
 

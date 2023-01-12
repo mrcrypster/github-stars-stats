@@ -1,10 +1,10 @@
 # ParthJadhav/Tkinter-Designer - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 483
 
-★ Stars: 5167
+★ Stars: 5172
 
 [Open repository](https://github.com/ParthJadhav/Tkinter-Designer)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 5172 | 483 | 
 | 2023-01-10 | 5167 | 483 | 
 | 2023-01-09 | 5163 | 482 | 
 | 2023-01-08 | 5155 | 482 | 

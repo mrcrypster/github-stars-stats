@@ -1,10 +1,10 @@
 # manoss96/pregex - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 18
 
-★ Stars: 662
+★ Stars: 664
 
 [Open repository](https://github.com/manoss96/pregex)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 664 | 18 | 
 | 2023-01-10 | 662 | 18 | 
 | 2023-01-09 | 662 | 18 | 
 | 2023-01-08 | 662 | 18 | 

@@ -1,10 +1,10 @@
 # xiaoweiChen/CMake-Best-Practices - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 5
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/xiaoweiChen/CMake-Best-Practices)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 29 | 5 | 
 | 2023-01-10 | 28 | 5 | 
 | 2023-01-09 | 28 | 5 | 
 | 2023-01-08 | 28 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 26 | 4 | 
 | 2022-12-15 | 26 | 4 | 
 | 2022-12-14 | 25 | 4 | 
-| 2022-12-12 | 25 | 4 | 
 

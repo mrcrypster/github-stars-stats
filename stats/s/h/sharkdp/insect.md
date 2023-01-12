@@ -1,6 +1,6 @@
 # sharkdp/insect - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 119
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 2894 | 119 | 
 | 2023-01-10 | 2894 | 119 | 
 | 2023-01-09 | 2894 | 119 | 
 | 2023-01-08 | 2893 | 119 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 2855 | 118 | 
 | 2022-12-14 | 2854 | 118 | 
 | 2022-12-13 | 2853 | 118 | 
-| 2022-12-12 | 2853 | 118 | 
 

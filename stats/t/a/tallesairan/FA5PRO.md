@@ -1,10 +1,10 @@
 # tallesairan/FA5PRO - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 134
 
-★ Stars: 164
+★ Stars: 165
 
 [Open repository](https://github.com/tallesairan/FA5PRO)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 165 | 134 | 
 | 2023-01-10 | 164 | 134 | 
 | 2023-01-08 | 161 | 132 | 
 | 2023-01-07 | 161 | 131 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 154 | 127 | 
 | 2022-12-15 | 154 | 127 | 
 | 2022-12-14 | 154 | 127 | 
-| 2022-12-12 | 154 | 127 | 
 

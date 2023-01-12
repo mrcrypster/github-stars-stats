@@ -1,10 +1,10 @@
 # grpc/grpc-web - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 714
 
-★ Stars: 7233
+★ Stars: 7236
 
 [Open repository](https://github.com/grpc/grpc-web)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 7236 | 714 | 
 | 2023-01-10 | 7233 | 714 | 
 | 2023-01-09 | 7229 | 713 | 
 | 2023-01-08 | 7226 | 711 | 

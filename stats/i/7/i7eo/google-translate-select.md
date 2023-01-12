@@ -1,10 +1,10 @@
 # i7eo/google-translate-select - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 44
+☋ Forks: 47
 
-★ Stars: 195
+★ Stars: 204
 
 [Open repository](https://github.com/i7eo/google-translate-select)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 204 | 47 | 
 | 2023-01-10 | 195 | 44 | 
 | 2023-01-09 | 175 | 41 | 
 | 2023-01-08 | 172 | 40 | 

@@ -1,6 +1,6 @@
 # preservim/vim-pencil - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 1430 | 37 | 
 | 2023-01-10 | 1430 | 37 | 
 | 2023-01-09 | 1430 | 37 | 
 | 2023-01-08 | 1430 | 37 | 

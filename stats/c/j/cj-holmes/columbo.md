@@ -1,6 +1,6 @@
 # cj-holmes/columbo - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 11 | 1 | 
 | 2023-01-11 | 11 | 1 | 
 | 2023-01-09 | 11 | 1 | 
 | 2023-01-08 | 11 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 11 | 1 | 
 | 2022-12-15 | 11 | 1 | 
 | 2022-12-13 | 11 | 1 | 
-| 2022-12-12 | 11 | 1 | 
 

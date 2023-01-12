@@ -1,6 +1,6 @@
 # BeTR-biogeochemistry-modeling/sbetr - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 7 | 13 | 
 | 2023-01-10 | 7 | 13 | 
 | 2023-01-09 | 7 | 13 | 
 | 2023-01-08 | 7 | 13 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 5 | 13 | 
 | 2022-12-14 | 5 | 13 | 
 | 2022-12-13 | 5 | 13 | 
-| 2022-12-12 | 5 | 13 | 
 

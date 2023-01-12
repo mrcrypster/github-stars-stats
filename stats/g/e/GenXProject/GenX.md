@@ -1,8 +1,8 @@
 # GenXProject/GenX - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 12
 
-☋ Forks: 67
+☋ Forks: 68
 
 ★ Stars: 147
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 147 | 68 | 
+| 2023-01-11 | 147 | 68 | 
 | 2023-01-10 | 147 | 67 | 
 | 2023-01-09 | 147 | 66 | 
 | 2023-01-08 | 147 | 66 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 145 | 65 | 
 | 2022-12-15 | 145 | 64 | 
 | 2022-12-13 | 145 | 64 | 
-| 2022-12-12 | 145 | 64 | 
 

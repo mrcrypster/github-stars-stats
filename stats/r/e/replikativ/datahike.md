@@ -1,6 +1,6 @@
 # replikativ/datahike - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 83
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 1481 | 83 | 
 | 2023-01-10 | 1481 | 83 | 
 | 2023-01-09 | 1480 | 83 | 
 | 2023-01-08 | 1480 | 83 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 1470 | 80 | 
 | 2022-12-15 | 1470 | 80 | 
 | 2022-12-14 | 1469 | 80 | 
-| 2022-12-13 | 1470 | 80 | 
 

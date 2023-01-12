@@ -1,6 +1,6 @@
 # lichess-org/kaladin - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 32 | 6 | 
 | 2023-01-10 | 32 | 6 | 
 | 2023-01-09 | 32 | 6 | 
 | 2023-01-08 | 32 | 6 | 

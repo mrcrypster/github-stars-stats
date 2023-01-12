@@ -1,6 +1,6 @@
 # Azure/prometheus-collector - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 22 | 5 | 
 | 2023-01-10 | 22 | 5 | 
 | 2023-01-09 | 22 | 5 | 
 | 2023-01-08 | 22 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 20 | 3 | 
 | 2022-12-14 | 20 | 3 | 
 | 2022-12-13 | 19 | 3 | 
-| 2022-12-12 | 18 | 2 | 
 

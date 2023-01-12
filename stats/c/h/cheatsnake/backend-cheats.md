@@ -1,10 +1,10 @@
 # cheatsnake/backend-cheats - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 83
+☋ Forks: 84
 
-★ Stars: 875
+★ Stars: 876
 
 [Open repository](https://github.com/cheatsnake/backend-cheats)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 876 | 84 | 
 | 2023-01-10 | 875 | 83 | 
 | 2023-01-09 | 873 | 82 | 
 | 2023-01-08 | 867 | 82 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 809 | 73 | 
 | 2022-12-14 | 810 | 73 | 
 | 2022-12-13 | 804 | 73 | 
-| 2022-12-12 | 797 | 72 | 
 

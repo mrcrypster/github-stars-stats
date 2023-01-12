@@ -1,10 +1,10 @@
 # ludovic-tech/buildand-push-jenkins - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 57
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/ludovic-tech/buildand-push-jenkins)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 2 | 57 | 
 | 2023-01-10 | 1 | 57 | 
 | 2023-01-09 | 1 | 57 | 
 | 2023-01-07 | 1 | 57 | 

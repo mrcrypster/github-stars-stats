@@ -1,10 +1,10 @@
 # Madelena/hass-config-public - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 18
 
-★ Stars: 166
+★ Stars: 167
 
 [Open repository](https://github.com/Madelena/hass-config-public)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 167 | 18 | 
 | 2023-01-10 | 166 | 18 | 
 | 2023-01-09 | 165 | 18 | 
 | 2023-01-08 | 165 | 18 | 

@@ -1,6 +1,6 @@
 # ongardie/dissertation - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 118
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 852 | 118 | 
 | 2023-01-10 | 852 | 118 | 
 | 2023-01-09 | 852 | 118 | 
 | 2023-01-07 | 852 | 118 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 845 | 118 | 
 | 2022-12-15 | 845 | 118 | 
 | 2022-12-14 | 845 | 118 | 
-| 2022-12-12 | 844 | 118 | 
 

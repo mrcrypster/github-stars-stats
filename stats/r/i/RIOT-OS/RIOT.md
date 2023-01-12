@@ -1,6 +1,6 @@
 # RIOT-OS/RIOT - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 1857
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 4340 | 1857 | 
 | 2023-01-10 | 4340 | 1857 | 
 | 2023-01-09 | 4340 | 1856 | 
 | 2023-01-08 | 4340 | 1855 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 4326 | 1853 | 
 | 2022-12-14 | 4326 | 1853 | 
 | 2022-12-13 | 4326 | 1854 | 
-| 2022-12-12 | 4325 | 1854 | 
 

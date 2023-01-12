@@ -1,6 +1,6 @@
 # naaive/orange - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 95
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 1231 | 95 | 
 | 2023-01-10 | 1231 | 95 | 
 | 2023-01-09 | 1229 | 95 | 
 | 2023-01-08 | 1227 | 95 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 1209 | 94 | 
 | 2022-12-14 | 1209 | 94 | 
 | 2022-12-13 | 1207 | 94 | 
-| 2022-12-12 | 1206 | 94 | 
 

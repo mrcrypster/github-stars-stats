@@ -1,10 +1,10 @@
 # urbanadventurer/Android-PIN-Bruteforce - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 528
+☋ Forks: 529
 
-★ Stars: 2746
+★ Stars: 2749
 
 [Open repository](https://github.com/urbanadventurer/Android-PIN-Bruteforce)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 2749 | 529 | 
 | 2023-01-10 | 2746 | 528 | 
 | 2023-01-09 | 2741 | 527 | 
 | 2023-01-08 | 2732 | 526 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 2675 | 513 | 
 | 2022-12-15 | 2671 | 513 | 
 | 2022-12-13 | 2667 | 513 | 
-| 2022-12-12 | 2666 | 513 | 
 

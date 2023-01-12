@@ -1,6 +1,6 @@
 # immutable/imx-contracts - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 72
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 116 | 72 | 
 | 2023-01-10 | 116 | 72 | 
 | 2023-01-09 | 116 | 72 | 
 | 2023-01-08 | 116 | 72 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 114 | 70 | 
 | 2022-12-15 | 113 | 70 | 
 | 2022-12-13 | 113 | 70 | 
-| 2022-12-12 | 113 | 70 | 
 

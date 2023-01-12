@@ -1,10 +1,10 @@
 # LearningOS/rust-based-os-comp2022 - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 166
 
-★ Stars: 1730
+★ Stars: 1729
 
 [Open repository](https://github.com/LearningOS/rust-based-os-comp2022)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 1729 | 166 | 
 | 2023-01-10 | 1730 | 166 | 
 | 2023-01-09 | 1723 | 166 | 
 | 2023-01-08 | 1722 | 166 | 

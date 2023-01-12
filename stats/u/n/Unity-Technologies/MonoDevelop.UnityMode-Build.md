@@ -1,6 +1,6 @@
 # Unity-Technologies/MonoDevelop.UnityMode-Build - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 4 | 2 | 
 | 2023-01-10 | 4 | 2 | 
 | 2023-01-08 | 4 | 2 | 
 | 2023-01-07 | 4 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 4 | 2 | 
 | 2022-12-15 | 4 | 2 | 
 | 2022-12-13 | 4 | 2 | 
-| 2022-12-12 | 4 | 2 | 
 

@@ -1,10 +1,10 @@
 # xianhu/LearnPython - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 3725
 
-★ Stars: 6612
+★ Stars: 6613
 
 [Open repository](https://github.com/xianhu/LearnPython)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 6613 | 3725 | 
 | 2023-01-10 | 6612 | 3725 | 
 | 2023-01-09 | 6609 | 3725 | 
 | 2023-01-08 | 6609 | 3725 | 

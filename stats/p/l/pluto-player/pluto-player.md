@@ -1,10 +1,10 @@
 # pluto-player/pluto-player - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 73
 
-★ Stars: 200
+★ Stars: 201
 
 [Open repository](https://github.com/pluto-player/pluto-player)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 201 | 73 | 
 | 2023-01-10 | 200 | 73 | 
 | 2023-01-09 | 199 | 73 | 
 | 2023-01-08 | 199 | 73 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 191 | 73 | 
 | 2022-12-14 | 191 | 72 | 
 | 2022-12-13 | 191 | 72 | 
-| 2022-12-12 | 190 | 72 | 
 

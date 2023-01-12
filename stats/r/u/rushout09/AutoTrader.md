@@ -1,6 +1,6 @@
 # rushout09/AutoTrader - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 96 | 12 | 
 | 2023-01-10 | 96 | 12 | 
 | 2023-01-09 | 96 | 12 | 
 | 2023-01-08 | 96 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 94 | 12 | 
 | 2022-12-15 | 94 | 12 | 
 | 2022-12-13 | 95 | 12 | 
-| 2022-12-12 | 94 | 12 | 
 

@@ -1,6 +1,6 @@
 # material-motion/motion-interchange-objc - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 17 | 13 | 
 | 2023-01-10 | 17 | 13 | 
 | 2023-01-09 | 17 | 13 | 
 | 2023-01-08 | 17 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 16 | 12 | 
 | 2022-12-15 | 16 | 12 | 
 | 2022-12-13 | 16 | 12 | 
-| 2022-12-12 | 16 | 12 | 
 

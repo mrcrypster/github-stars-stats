@@ -1,10 +1,10 @@
 # LeoNatan/LNPopupController - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 336
 
-★ Stars: 2895
+★ Stars: 2896
 
 [Open repository](https://github.com/LeoNatan/LNPopupController)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 2896 | 336 | 
 | 2023-01-10 | 2895 | 336 | 
 | 2023-01-09 | 2895 | 336 | 
 | 2023-01-08 | 2895 | 336 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 2893 | 335 | 
 | 2022-12-15 | 2893 | 335 | 
 | 2022-12-14 | 2894 | 335 | 
-| 2022-12-13 | 2895 | 335 | 
 

@@ -1,10 +1,10 @@
 # HMBSbige/ShadowsocksR-Windows - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 1079
 
-★ Stars: 6225
+★ Stars: 6227
 
 [Open repository](https://github.com/HMBSbige/ShadowsocksR-Windows)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 6227 | 1079 | 
 | 2023-01-10 | 6225 | 1079 | 
 | 2023-01-09 | 6226 | 1079 | 
 | 2023-01-08 | 6224 | 1079 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 6180 | 1073 | 
 | 2022-12-14 | 6178 | 1073 | 
 | 2022-12-13 | 6174 | 1072 | 
-| 2022-12-12 | 6164 | 1071 | 
 

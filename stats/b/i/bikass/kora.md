@@ -1,10 +1,10 @@
 # bikass/kora - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 24
 
-★ Stars: 433
+★ Stars: 434
 
 [Open repository](https://github.com/bikass/kora)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 434 | 24 | 
 | 2023-01-11 | 433 | 24 | 
 | 2023-01-09 | 431 | 24 | 
 | 2023-01-08 | 429 | 24 | 

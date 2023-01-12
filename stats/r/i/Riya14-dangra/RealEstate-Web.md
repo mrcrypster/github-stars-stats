@@ -1,10 +1,10 @@
 # Riya14-dangra/RealEstate-Web - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 12
 
-★ Stars: 5
+★ Stars: 4
 
 [Open repository](https://github.com/Riya14-dangra/RealEstate-Web)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 4 | 12 | 
 | 2023-01-10 | 5 | 12 | 
 | 2023-01-09 | 5 | 13 | 
 | 2023-01-08 | 5 | 13 | 

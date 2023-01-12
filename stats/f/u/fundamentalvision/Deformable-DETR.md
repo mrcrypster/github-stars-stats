@@ -1,10 +1,10 @@
 # fundamentalvision/Deformable-DETR - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 354
+☋ Forks: 355
 
-★ Stars: 2033
+★ Stars: 2036
 
 [Open repository](https://github.com/fundamentalvision/Deformable-DETR)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 2036 | 355 | 
 | 2023-01-10 | 2033 | 354 | 
 | 2023-01-09 | 2032 | 354 | 
 | 2023-01-08 | 2031 | 354 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 1998 | 347 | 
 | 2022-12-15 | 1995 | 347 | 
 | 2022-12-13 | 1995 | 346 | 
-| 2022-12-12 | 1995 | 346 | 
 

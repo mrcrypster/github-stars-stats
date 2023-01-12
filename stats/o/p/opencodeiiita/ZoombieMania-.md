@@ -1,6 +1,6 @@
 # opencodeiiita/ZoombieMania- - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 2 | 6 | 
 | 2023-01-10 | 2 | 6 | 
 | 2023-01-09 | 2 | 6 | 
 | 2023-01-08 | 2 | 6 | 

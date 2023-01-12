@@ -1,6 +1,6 @@
 # treeform/pixie - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 605 | 27 | 
 | 2023-01-10 | 605 | 27 | 
 | 2023-01-09 | 604 | 27 | 
 | 2023-01-08 | 603 | 28 | 

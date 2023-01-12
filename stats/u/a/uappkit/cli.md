@@ -1,6 +1,6 @@
 # uappkit/cli - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 120
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 692 | 120 | 
 | 2023-01-10 | 692 | 120 | 
 | 2023-01-09 | 692 | 120 | 
 | 2023-01-08 | 692 | 120 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 691 | 120 | 
 | 2022-12-14 | 691 | 120 | 
 | 2022-12-13 | 690 | 120 | 
-| 2022-12-12 | 690 | 120 | 
 

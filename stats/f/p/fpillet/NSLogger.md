@@ -1,8 +1,8 @@
 # fpillet/NSLogger - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 584
+☋ Forks: 583
 
 ★ Stars: 4964
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 4964 | 583 | 
 | 2023-01-10 | 4964 | 584 | 
 | 2023-01-09 | 4964 | 584 | 
 | 2023-01-08 | 4964 | 584 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 4961 | 584 | 
 | 2022-12-15 | 4959 | 584 | 
 | 2022-12-14 | 4958 | 584 | 
-| 2022-12-13 | 4958 | 583 | 
 

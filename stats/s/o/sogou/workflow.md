@@ -1,10 +1,10 @@
 # sogou/workflow - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 1923
+☋ Forks: 1924
 
-★ Stars: 9795
+★ Stars: 9803
 
 [Open repository](https://github.com/sogou/workflow)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 9803 | 1924 | 
 | 2023-01-10 | 9795 | 1923 | 
 | 2023-01-09 | 9788 | 1921 | 
 | 2023-01-08 | 9773 | 1918 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 9644 | 1905 | 
 | 2022-12-14 | 9634 | 1901 | 
 | 2022-12-13 | 9629 | 1899 | 
-| 2022-12-12 | 9623 | 1896 | 
 

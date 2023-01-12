@@ -1,6 +1,6 @@
 # macrozheng/mall-learning - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 8095
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 11673 | 8095 | 
 | 2023-01-10 | 11673 | 8095 | 
 | 2023-01-09 | 11669 | 8093 | 
 | 2023-01-08 | 11669 | 8090 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 11624 | 8066 | 
 | 2022-12-15 | 11622 | 8067 | 
 | 2022-12-14 | 11619 | 8062 | 
-| 2022-12-12 | 11612 | 8056 | 
 

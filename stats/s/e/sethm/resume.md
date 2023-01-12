@@ -1,6 +1,6 @@
 # sethm/resume - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 19 | 4 | 
 | 2023-01-10 | 19 | 4 | 
 | 2023-01-09 | 19 | 4 | 
 | 2023-01-08 | 19 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 19 | 4 | 
 | 2022-12-15 | 19 | 4 | 
 | 2022-12-13 | 19 | 4 | 
-| 2022-12-12 | 19 | 4 | 
 

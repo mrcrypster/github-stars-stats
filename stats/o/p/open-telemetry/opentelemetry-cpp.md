@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 11
 
-☋ Forks: 227
+☋ Forks: 228
 
-★ Stars: 410
+★ Stars: 413
 
 [Open repository](https://github.com/open-telemetry/opentelemetry-cpp)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-11 | 410 | 227 | 
+| 2023-01-11 | 413 | 228 | 
 | 2023-01-10 | 409 | 227 | 
 | 2023-01-09 | 408 | 227 | 
 | 2023-01-08 | 408 | 226 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-15 | 400 | 221 | 
 | 2022-12-14 | 400 | 221 | 
 | 2022-12-13 | 400 | 221 | 
-| 2022-12-12 | 400 | 221 | 
 

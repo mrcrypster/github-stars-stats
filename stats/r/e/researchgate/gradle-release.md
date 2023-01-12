@@ -1,6 +1,6 @@
 # researchgate/gradle-release - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 218
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 802 | 218 | 
 | 2023-01-10 | 802 | 218 | 
 | 2023-01-09 | 802 | 218 | 
 | 2023-01-08 | 802 | 218 | 

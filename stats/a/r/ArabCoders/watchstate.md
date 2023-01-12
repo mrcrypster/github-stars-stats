@@ -1,10 +1,10 @@
 # ArabCoders/watchstate - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 5
 
-★ Stars: 161
+★ Stars: 162
 
 [Open repository](https://github.com/ArabCoders/watchstate)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 162 | 5 | 
 | 2023-01-10 | 161 | 5 | 
 | 2023-01-09 | 160 | 5 | 
 | 2023-01-08 | 160 | 5 | 

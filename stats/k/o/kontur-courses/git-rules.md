@@ -1,6 +1,6 @@
 # kontur-courses/git-rules - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 492
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 1 | 492 | 
 | 2023-01-10 | 1 | 492 | 
 | 2023-01-09 | 1 | 492 | 
 | 2023-01-08 | 1 | 492 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 1 | 493 | 
 | 2022-12-15 | 1 | 493 | 
 | 2022-12-13 | 1 | 494 | 
-| 2022-12-12 | 1 | 494 | 
 

@@ -1,8 +1,8 @@
 # capofficial/protocol - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 7
+☋ Forks: 6
 
 ★ Stars: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 6 | 6 | 
 | 2023-01-10 | 6 | 7 | 
 | 2023-01-09 | 6 | 7 | 
 | 2023-01-08 | 6 | 7 | 

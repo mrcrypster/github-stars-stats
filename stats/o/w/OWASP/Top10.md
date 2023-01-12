@@ -1,10 +1,10 @@
 # OWASP/Top10 - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 704
 
-★ Stars: 3341
+★ Stars: 3342
 
 [Open repository](https://github.com/OWASP/Top10)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 3342 | 704 | 
 | 2023-01-10 | 3341 | 704 | 
 | 2023-01-09 | 3341 | 703 | 
 | 2023-01-08 | 3339 | 702 | 

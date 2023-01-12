@@ -1,10 +1,10 @@
 # Kong/kubernetes-ingress-controller - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 540
 
-★ Stars: 1833
+★ Stars: 1835
 
 [Open repository](https://github.com/Kong/kubernetes-ingress-controller)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 1835 | 540 | 
 | 2023-01-10 | 1833 | 540 | 
 | 2023-01-09 | 1833 | 540 | 
 | 2023-01-08 | 1833 | 540 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 1819 | 541 | 
 | 2022-12-14 | 1820 | 541 | 
 | 2022-12-13 | 1820 | 540 | 
-| 2022-12-12 | 1820 | 540 | 
 

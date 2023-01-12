@@ -1,6 +1,6 @@
 # swagkarna/Defeat-Defender-V1.2.0 - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 258
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 975 | 258 | 
 | 2023-01-10 | 975 | 258 | 
 | 2023-01-09 | 974 | 258 | 
 | 2023-01-08 | 974 | 258 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 961 | 257 | 
 | 2022-12-14 | 961 | 256 | 
 | 2022-12-13 | 959 | 256 | 
-| 2022-12-12 | 958 | 256 | 
 

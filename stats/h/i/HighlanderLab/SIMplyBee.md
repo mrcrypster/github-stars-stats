@@ -1,10 +1,10 @@
 # HighlanderLab/SIMplyBee - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 4
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/HighlanderLab/SIMplyBee)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 2 | 4 | 
 | 2023-01-10 | 1 | 4 | 
 | 2023-01-09 | 1 | 4 | 
 | 2023-01-08 | 1 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 1 | 4 | 
 | 2022-12-15 | 1 | 4 | 
 | 2022-12-13 | 2 | 4 | 
-| 2022-12-12 | 2 | 4 | 
 

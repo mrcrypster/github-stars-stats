@@ -1,10 +1,10 @@
 # cuber-cloud/cuber-gem - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 7
 
-★ Stars: 159
+★ Stars: 160
 
 [Open repository](https://github.com/cuber-cloud/cuber-gem)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 160 | 7 | 
 | 2023-01-10 | 159 | 7 | 
 | 2023-01-09 | 159 | 7 | 
 | 2023-01-08 | 159 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 148 | 6 | 
 | 2022-12-14 | 148 | 6 | 
 | 2022-12-13 | 148 | 6 | 
-| 2022-12-12 | 148 | 6 | 
 

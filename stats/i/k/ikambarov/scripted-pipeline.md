@@ -1,6 +1,6 @@
 # ikambarov/scripted-pipeline - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 106
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 2 | 106 | 
 | 2023-01-10 | 2 | 106 | 
 | 2023-01-09 | 2 | 106 | 
 | 2023-01-08 | 2 | 106 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 2 | 107 | 
 | 2022-12-14 | 2 | 107 | 
 | 2022-12-13 | 2 | 107 | 
-| 2022-12-12 | 2 | 107 | 
 

@@ -1,6 +1,6 @@
 # LaurentMazare/tch-rs - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 191
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 2300 | 191 | 
 | 2023-01-10 | 2300 | 191 | 
 | 2023-01-09 | 2293 | 190 | 
 | 2023-01-08 | 2290 | 190 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 2215 | 186 | 
 | 2022-12-14 | 2212 | 184 | 
 | 2022-12-13 | 2208 | 183 | 
-| 2022-12-12 | 2206 | 183 | 
 

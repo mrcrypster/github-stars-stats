@@ -1,10 +1,10 @@
 # vooidzero/B23Downloader - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 315
+☋ Forks: 316
 
-★ Stars: 2438
+★ Stars: 2442
 
 [Open repository](https://github.com/vooidzero/B23Downloader)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 2442 | 316 | 
 | 2023-01-10 | 2438 | 315 | 
 | 2023-01-09 | 2439 | 315 | 
 | 2023-01-08 | 2438 | 316 | 

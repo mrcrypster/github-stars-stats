@@ -1,8 +1,8 @@
 # Ningstyle/mzlui-react - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 28
+☋ Forks: 27
 
 ★ Stars: 20
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 20 | 27 | 
 | 2023-01-10 | 20 | 28 | 
 | 2023-01-09 | 20 | 28 | 
 | 2023-01-08 | 20 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 20 | 29 | 
 | 2022-12-14 | 20 | 28 | 
 | 2022-12-13 | 20 | 28 | 
-| 2022-12-12 | 20 | 28 | 
 

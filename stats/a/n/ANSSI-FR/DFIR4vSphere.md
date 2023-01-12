@@ -1,6 +1,6 @@
 # ANSSI-FR/DFIR4vSphere - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 100 | 13 | 
 | 2023-01-10 | 100 | 13 | 
 | 2023-01-09 | 99 | 13 | 
 | 2023-01-08 | 98 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 97 | 13 | 
 | 2022-12-15 | 97 | 13 | 
 | 2022-12-14 | 97 | 13 | 
-| 2022-12-12 | 96 | 13 | 
 

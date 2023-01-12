@@ -1,6 +1,6 @@
 # IEEE-NITK/blog - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 1 | 47 | 
 | 2023-01-10 | 1 | 47 | 
 | 2023-01-09 | 1 | 47 | 
 | 2023-01-08 | 1 | 47 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 1 | 47 | 
 | 2022-12-15 | 1 | 47 | 
 | 2022-12-14 | 1 | 47 | 
-| 2022-12-13 | 1 | 47 | 
 

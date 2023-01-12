@@ -1,6 +1,6 @@
 # idealista/bitbucket_role - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 4 | 8 | 
 | 2023-01-10 | 4 | 8 | 
 | 2023-01-09 | 4 | 8 | 
 | 2023-01-08 | 4 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 4 | 9 | 
 | 2022-12-14 | 4 | 9 | 
 | 2022-12-13 | 4 | 9 | 
-| 2022-12-12 | 4 | 9 | 
 

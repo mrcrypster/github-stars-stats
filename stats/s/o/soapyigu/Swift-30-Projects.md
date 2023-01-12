@@ -1,10 +1,10 @@
 # soapyigu/Swift-30-Projects - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 1763
 
-★ Stars: 7461
+★ Stars: 7462
 
 [Open repository](https://github.com/soapyigu/Swift-30-Projects)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 7462 | 1763 | 
 | 2023-01-10 | 7461 | 1763 | 
 | 2023-01-09 | 7459 | 1763 | 
 | 2023-01-08 | 7459 | 1760 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 7439 | 1755 | 
 | 2022-12-14 | 7437 | 1755 | 
 | 2022-12-13 | 7436 | 1755 | 
-| 2022-12-12 | 7434 | 1755 | 
 

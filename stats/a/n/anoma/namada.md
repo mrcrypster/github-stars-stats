@@ -1,10 +1,10 @@
 # anoma/namada - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 89
 
-★ Stars: 148
+★ Stars: 149
 
 [Open repository](https://github.com/anoma/namada)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 149 | 89 | 
 | 2023-01-10 | 148 | 89 | 
 | 2023-01-09 | 147 | 85 | 
 | 2023-01-08 | 147 | 83 | 

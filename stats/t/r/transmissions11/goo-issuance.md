@@ -1,6 +1,6 @@
 # transmissions11/goo-issuance - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 123 | 12 | 
 | 2023-01-10 | 123 | 12 | 
 | 2023-01-09 | 123 | 12 | 
 | 2023-01-08 | 123 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 121 | 12 | 
 | 2022-12-15 | 121 | 12 | 
 | 2022-12-14 | 121 | 12 | 
-| 2022-12-12 | 121 | 12 | 
 

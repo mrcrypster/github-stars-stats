@@ -1,10 +1,10 @@
 # vinceliuice/Colloid-icon-theme - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 15
 
-★ Stars: 277
+★ Stars: 280
 
 [Open repository](https://github.com/vinceliuice/Colloid-icon-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 280 | 15 | 
 | 2023-01-10 | 277 | 15 | 
 | 2023-01-09 | 277 | 17 | 
 | 2023-01-08 | 275 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 259 | 14 | 
 | 2022-12-15 | 259 | 14 | 
 | 2022-12-13 | 257 | 14 | 
-| 2022-12-12 | 257 | 14 | 
 

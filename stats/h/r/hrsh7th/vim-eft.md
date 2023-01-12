@@ -1,6 +1,6 @@
 # hrsh7th/vim-eft - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 64 | 3 | 
 | 2023-01-10 | 64 | 3 | 
 | 2023-01-09 | 64 | 3 | 
 | 2023-01-08 | 64 | 3 | 

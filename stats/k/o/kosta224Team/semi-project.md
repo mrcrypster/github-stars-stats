@@ -1,10 +1,10 @@
 # kosta224Team/semi-project - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 2
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/kosta224Team/semi-project)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 4 | 2 | 
 | 2023-01-10 | 3 | 2 | 
 | 2023-01-09 | 3 | 2 | 
 | 2023-01-08 | 3 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 3 | 2 | 
 | 2022-12-15 | 3 | 2 | 
 | 2022-12-13 | 3 | 2 | 
-| 2022-12-12 | 3 | 2 | 
 

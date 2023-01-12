@@ -1,10 +1,10 @@
 # tdrhq/easy-macros - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 0
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/tdrhq/easy-macros)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 17 | - | 
 | 2023-01-10 | 16 | - | 
 | 2023-01-09 | 14 | - | 
 | 2023-01-08 | 14 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 14 | - | 
 | 2022-12-14 | 14 | - | 
 | 2022-12-13 | 14 | - | 
-| 2022-12-12 | 14 | - | 
 

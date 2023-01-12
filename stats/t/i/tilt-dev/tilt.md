@@ -1,10 +1,10 @@
 # tilt-dev/tilt - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 242
 
-★ Stars: 6279
+★ Stars: 6281
 
 [Open repository](https://github.com/tilt-dev/tilt)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 6281 | 242 | 
 | 2023-01-10 | 6279 | 242 | 
 | 2023-01-09 | 6277 | 242 | 
 | 2023-01-08 | 6278 | 242 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 6240 | 240 | 
 | 2022-12-15 | 6238 | 240 | 
 | 2022-12-14 | 6232 | 239 | 
-| 2022-12-12 | 6227 | 239 | 
 

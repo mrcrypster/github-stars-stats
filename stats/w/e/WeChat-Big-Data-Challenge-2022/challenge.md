@@ -1,6 +1,6 @@
 # WeChat-Big-Data-Challenge-2022/challenge - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 66
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 240 | 66 | 
 | 2023-01-10 | 240 | 66 | 
 | 2023-01-09 | 240 | 65 | 
 | 2023-01-08 | 240 | 65 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 238 | 65 | 
 | 2022-12-15 | 238 | 65 | 
 | 2022-12-13 | 238 | 65 | 
-| 2022-12-12 | 238 | 65 | 
 

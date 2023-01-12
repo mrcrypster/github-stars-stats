@@ -1,8 +1,8 @@
 # LandmakTechnology/terraform-vpc-rdsdb - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 140
+☋ Forks: 141
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 1 | 141 | 
 | 2023-01-10 | 1 | 140 | 
 | 2023-01-09 | 1 | 140 | 
 | 2023-01-08 | 1 | 140 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 1 | 135 | 
 | 2022-12-14 | 1 | 135 | 
 | 2022-12-13 | 1 | 133 | 
-| 2022-12-12 | 1 | 132 | 
 

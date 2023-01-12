@@ -1,6 +1,6 @@
 # lucidrains/DALLE-pytorch - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 570
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 4972 | 570 | 
 | 2023-01-10 | 4972 | 570 | 
 | 2023-01-09 | 4970 | 570 | 
 | 2023-01-08 | 4969 | 570 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 4960 | 564 | 
 | 2022-12-14 | 4960 | 563 | 
 | 2022-12-13 | 4962 | 563 | 
-| 2022-12-12 | 4960 | 561 | 
 

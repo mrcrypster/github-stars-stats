@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 11
 
-☋ Forks: 554
+☋ Forks: 552
 
-★ Stars: 517
+★ Stars: 518
 
 [Open repository](https://github.com/zerostaticthemes/jekyll-serif-theme)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-11 | 517 | 554 | 
+| 2023-01-11 | 518 | 552 | 
 | 2023-01-10 | 517 | 554 | 
 | 2023-01-09 | 517 | 550 | 
 | 2023-01-08 | 516 | 550 | 

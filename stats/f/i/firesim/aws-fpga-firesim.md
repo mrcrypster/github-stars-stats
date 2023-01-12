@@ -1,6 +1,6 @@
 # firesim/aws-fpga-firesim - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 8 | 8 | 
 | 2023-01-10 | 8 | 8 | 
 | 2023-01-09 | 8 | 8 | 
 | 2023-01-08 | 8 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 8 | 8 | 
 | 2022-12-14 | 8 | 8 | 
 | 2022-12-13 | 8 | 8 | 
-| 2022-12-12 | 8 | 8 | 
 

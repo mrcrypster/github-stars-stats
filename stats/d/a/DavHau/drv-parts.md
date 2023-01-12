@@ -1,6 +1,6 @@
 # DavHau/drv-parts - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 93 | 3 | 
 | 2023-01-10 | 93 | 3 | 
 | 2023-01-08 | 92 | 3 | 
 | 2023-01-07 | 91 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 57 | - | 
 | 2022-12-15 | 51 | - | 
 | 2022-12-14 | 51 | - | 
-| 2022-12-12 | 51 | - | 
 

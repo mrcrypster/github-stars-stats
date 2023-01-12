@@ -1,10 +1,10 @@
 # joddie/macrostep - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 21
 
-★ Stars: 193
+★ Stars: 194
 
 [Open repository](https://github.com/joddie/macrostep)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 194 | 21 | 
 | 2023-01-10 | 193 | 21 | 
 | 2023-01-09 | 193 | 21 | 
 | 2023-01-08 | 193 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 193 | 21 | 
 | 2022-12-15 | 193 | 21 | 
 | 2022-12-13 | 192 | 21 | 
-| 2022-12-12 | 192 | 21 | 
 

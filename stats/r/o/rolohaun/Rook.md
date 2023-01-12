@@ -1,6 +1,6 @@
 # rolohaun/Rook - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 224 | 29 | 
 | 2023-01-10 | 224 | 29 | 
 | 2023-01-09 | 223 | 29 | 
 | 2023-01-08 | 220 | 29 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 195 | 25 | 
 | 2022-12-14 | 196 | 25 | 
 | 2022-12-13 | 196 | 25 | 
-| 2022-12-12 | 195 | 24 | 
 

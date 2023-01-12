@@ -1,6 +1,6 @@
 # Unidata/netcdf-c - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 223
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 414 | 223 | 
 | 2023-01-10 | 414 | 223 | 
 | 2023-01-09 | 414 | 223 | 
 | 2023-01-08 | 414 | 223 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 411 | 222 | 
 | 2022-12-14 | 411 | 222 | 
 | 2022-12-13 | 411 | 222 | 
-| 2022-12-12 | 411 | 222 | 
 

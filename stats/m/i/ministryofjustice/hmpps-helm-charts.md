@@ -1,6 +1,6 @@
 # ministryofjustice/hmpps-helm-charts - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 1 | 3 | 
 | 2023-01-10 | 1 | 3 | 
 | 2023-01-09 | - | 2 | 
 | 2023-01-08 | - | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | - | 2 | 
 | 2022-12-15 | - | 2 | 
 | 2022-12-13 | - | 2 | 
-| 2022-12-12 | - | 2 | 
 

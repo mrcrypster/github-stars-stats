@@ -1,6 +1,6 @@
 # vim-scripts/indentpython.vim - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 80 | 24 | 
 | 2023-01-10 | 80 | 24 | 
 | 2023-01-09 | 80 | 24 | 
 | 2023-01-08 | 80 | 24 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 80 | 24 | 
 | 2022-12-15 | 80 | 24 | 
 | 2022-12-14 | 80 | 24 | 
-| 2022-12-12 | 80 | 24 | 
 

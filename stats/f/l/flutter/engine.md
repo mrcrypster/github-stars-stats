@@ -1,8 +1,8 @@
 # flutter/engine - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 4923
+☋ Forks: 4931
 
 ★ Stars: 6327
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 6327 | 4931 | 
 | 2023-01-10 | 6327 | 4923 | 
 | 2023-01-09 | 6325 | 4921 | 
 | 2023-01-08 | 6322 | 4920 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 6277 | 4891 | 
 | 2022-12-14 | 6275 | 4894 | 
 | 2022-12-13 | 6273 | 4889 | 
-| 2022-12-12 | 6272 | 4885 | 
 

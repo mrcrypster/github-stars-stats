@@ -1,6 +1,6 @@
 # terraform-google-modules/terraform-google-project-factory - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 485
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 692 | 485 | 
 | 2023-01-10 | 692 | 485 | 
 | 2023-01-09 | 690 | 484 | 
 | 2023-01-08 | 690 | 484 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 688 | 484 | 
 | 2022-12-14 | 687 | 484 | 
 | 2022-12-13 | 687 | 484 | 
-| 2022-12-12 | 687 | 482 | 
 

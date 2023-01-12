@@ -1,6 +1,6 @@
 # JuliaSmoothOptimizers/LinearOperators.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 126 | 23 | 
 | 2023-01-10 | 126 | 23 | 
 | 2023-01-09 | 126 | 23 | 
 | 2023-01-08 | 126 | 23 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 125 | 23 | 
 | 2022-12-15 | 125 | 23 | 
 | 2022-12-14 | 125 | 23 | 
-| 2022-12-12 | 125 | 23 | 
 

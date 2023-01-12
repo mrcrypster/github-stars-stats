@@ -1,6 +1,6 @@
 # JuliaLang/PackageCompiler.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 158
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 1219 | 158 | 
 | 2023-01-10 | 1219 | 158 | 
 | 2023-01-08 | 1218 | 158 | 
 | 2023-01-07 | 1218 | 158 | 

@@ -1,10 +1,10 @@
 # kffl/speedbump - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 18
 
-★ Stars: 560
+★ Stars: 562
 
 [Open repository](https://github.com/kffl/speedbump)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 562 | 18 | 
 | 2023-01-10 | 560 | 18 | 
 | 2023-01-09 | 560 | 18 | 
 | 2023-01-08 | 560 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 553 | 18 | 
 | 2022-12-15 | 552 | 17 | 
 | 2022-12-14 | 546 | 17 | 
-| 2022-12-12 | 546 | 17 | 
 

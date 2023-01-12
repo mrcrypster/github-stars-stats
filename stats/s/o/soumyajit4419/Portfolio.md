@@ -1,8 +1,8 @@
 # soumyajit4419/Portfolio - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 817
+☋ Forks: 818
 
 ★ Stars: 1629
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 1629 | 818 | 
 | 2023-01-10 | 1629 | 817 | 
 | 2023-01-09 | 1623 | 812 | 
 | 2023-01-08 | 1618 | 809 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 1533 | 758 | 
 | 2022-12-14 | 1528 | 757 | 
 | 2022-12-13 | 1524 | 751 | 
-| 2022-12-12 | 1522 | 750 | 
 

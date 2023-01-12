@@ -1,8 +1,8 @@
 # jevajs/Jeva - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 1411
+☋ Forks: 1413
 
 ★ Stars: 186
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 186 | 1413 | 
 | 2023-01-10 | 186 | 1411 | 
 | 2023-01-09 | 186 | 1410 | 
 | 2023-01-08 | 186 | 1408 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 186 | 1405 | 
 | 2022-12-14 | 186 | 1404 | 
 | 2022-12-13 | 186 | 1403 | 
-| 2022-12-12 | 186 | 1401 | 
 

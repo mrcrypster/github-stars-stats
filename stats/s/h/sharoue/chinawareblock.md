@@ -1,6 +1,6 @@
 # sharoue/chinawareblock - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 88
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 813 | 88 | 
 | 2023-01-10 | 813 | 88 | 
 | 2023-01-09 | 812 | 88 | 
 | 2023-01-08 | 812 | 88 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 804 | 89 | 
 | 2022-12-14 | 804 | 89 | 
 | 2022-12-13 | 802 | 89 | 
-| 2022-12-12 | 802 | 89 | 
 

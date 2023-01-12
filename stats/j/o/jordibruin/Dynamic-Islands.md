@@ -1,10 +1,10 @@
 # jordibruin/Dynamic-Islands - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 17
 
-★ Stars: 342
+★ Stars: 343
 
 [Open repository](https://github.com/jordibruin/Dynamic-Islands)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 343 | 17 | 
 | 2023-01-10 | 342 | 17 | 
 | 2023-01-09 | 342 | 17 | 
 | 2023-01-08 | 342 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 337 | 16 | 
 | 2022-12-15 | 337 | 16 | 
 | 2022-12-13 | 337 | 16 | 
-| 2022-12-12 | 337 | 16 | 
 

@@ -1,10 +1,10 @@
 # Azure-Samples/cognitive-services-speech-sdk - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 1378
+☋ Forks: 1377
 
-★ Stars: 1454
+★ Stars: 1455
 
 [Open repository](https://github.com/Azure-Samples/cognitive-services-speech-sdk)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 1455 | 1377 | 
 | 2023-01-10 | 1454 | 1378 | 
 | 2023-01-09 | 1452 | 1378 | 
 | 2023-01-08 | 1452 | 1377 | 

@@ -1,10 +1,10 @@
 # alirezadir/machine-learning-interview-enlightener - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 333
 
-★ Stars: 1613
+★ Stars: 1615
 
 [Open repository](https://github.com/alirezadir/machine-learning-interview-enlightener)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 1615 | 333 | 
 | 2023-01-10 | 1613 | 333 | 
 | 2023-01-09 | 1611 | 333 | 
 | 2023-01-08 | 1609 | 333 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 1571 | 327 | 
 | 2022-12-14 | 1569 | 326 | 
 | 2022-12-13 | 1562 | 326 | 
-| 2022-12-12 | 1561 | 326 | 
 

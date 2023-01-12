@@ -1,10 +1,10 @@
 # lucidrains/flamingo-pytorch - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 31
 
-★ Stars: 650
+★ Stars: 651
 
 [Open repository](https://github.com/lucidrains/flamingo-pytorch)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 651 | 31 | 
 | 2023-01-10 | 650 | 31 | 
 | 2023-01-09 | 647 | 31 | 
 | 2023-01-08 | 645 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 620 | 29 | 
 | 2022-12-15 | 618 | 29 | 
 | 2022-12-13 | 614 | 29 | 
-| 2022-12-12 | 606 | 29 | 
 

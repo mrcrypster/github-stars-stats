@@ -1,6 +1,6 @@
 # geoschem/GCHP - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 11 | 10 | 
 | 2023-01-10 | 11 | 10 | 
 | 2023-01-08 | 11 | 10 | 
 | 2023-01-07 | 11 | 10 | 

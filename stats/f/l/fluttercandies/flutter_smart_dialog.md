@@ -1,10 +1,10 @@
 # fluttercandies/flutter_smart_dialog - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 121
 
-★ Stars: 751
+★ Stars: 750
 
 [Open repository](https://github.com/fluttercandies/flutter_smart_dialog)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 750 | 121 | 
 | 2023-01-10 | 751 | 121 | 
 | 2023-01-09 | 749 | 121 | 
 | 2023-01-08 | 747 | 120 | 

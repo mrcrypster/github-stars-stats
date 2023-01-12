@@ -1,10 +1,10 @@
 # elixir-nx/explorer - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 59
+☋ Forks: 60
 
-★ Stars: 657
+★ Stars: 658
 
 [Open repository](https://github.com/elixir-nx/explorer)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 658 | 60 | 
 | 2023-01-10 | 657 | 59 | 
 | 2023-01-09 | 656 | 59 | 
 | 2023-01-08 | 656 | 59 | 
@@ -41,6 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 635 | 58 | 
 | 2022-12-15 | 632 | 58 | 
 | 2022-12-14 | 632 | 58 | 
-| 2022-12-13 | 627 | 58 | 
-| 2022-12-12 | 628 | 58 | 
 

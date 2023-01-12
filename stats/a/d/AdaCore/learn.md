@@ -1,10 +1,10 @@
 # AdaCore/learn - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 37
 
-★ Stars: 80
+★ Stars: 81
 
 [Open repository](https://github.com/AdaCore/learn)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 81 | 37 | 
 | 2023-01-10 | 80 | 37 | 
 | 2023-01-09 | 80 | 37 | 
 | 2023-01-08 | 80 | 37 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 79 | 36 | 
 | 2022-12-15 | 79 | 36 | 
 | 2022-12-14 | 80 | 36 | 
-| 2022-12-12 | 80 | 36 | 
 

@@ -1,6 +1,6 @@
 # elastic/terraform-okta-aws - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 7 | 5 | 
 | 2023-01-10 | 7 | 5 | 
 | 2023-01-09 | 7 | 5 | 
 | 2023-01-08 | 7 | 5 | 

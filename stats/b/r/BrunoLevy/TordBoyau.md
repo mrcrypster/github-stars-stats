@@ -1,10 +1,10 @@
 # BrunoLevy/TordBoyau - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 1
 
-★ Stars: 14
+★ Stars: 13
 
 [Open repository](https://github.com/BrunoLevy/TordBoyau)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 13 | 1 | 
 | 2023-01-10 | 14 | 1 | 
 | 2023-01-09 | 14 | 1 | 
 | 2023-01-08 | 14 | 1 | 

@@ -1,10 +1,10 @@
 # texmacs/texmacs - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 55
 
-★ Stars: 515
+★ Stars: 516
 
 [Open repository](https://github.com/texmacs/texmacs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 516 | 55 | 
 | 2023-01-10 | 515 | 55 | 
 | 2023-01-09 | 515 | 55 | 
 | 2023-01-08 | 515 | 55 | 

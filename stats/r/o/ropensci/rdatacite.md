@@ -1,6 +1,6 @@
 # ropensci/rdatacite - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 24 | 2 | 
 | 2023-01-10 | 24 | 2 | 
 | 2023-01-09 | 23 | 2 | 
 | 2023-01-08 | 23 | 2 | 

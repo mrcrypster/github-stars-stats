@@ -1,10 +1,10 @@
 # davidfowl/TriviaR - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 7
 
-★ Stars: 145
+★ Stars: 146
 
 [Open repository](https://github.com/davidfowl/TriviaR)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 146 | 7 | 
 | 2023-01-10 | 145 | 7 | 
 | 2023-01-09 | 142 | 7 | 
 | 2023-01-08 | 136 | 6 | 

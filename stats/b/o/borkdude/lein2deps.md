@@ -1,10 +1,10 @@
 # borkdude/lein2deps - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 2
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/borkdude/lein2deps)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 37 | 2 | 
 | 2023-01-10 | 36 | 2 | 
 | 2023-01-09 | 36 | 2 | 
 | 2023-01-08 | 36 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 35 | 2 | 
 | 2022-12-14 | 35 | 2 | 
 | 2022-12-13 | 35 | 2 | 
-| 2022-12-12 | 35 | 1 | 
 

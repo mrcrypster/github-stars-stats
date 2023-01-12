@@ -1,10 +1,10 @@
 # Manawyrm/Gigaset-Debug-Adapter - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 2
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/Manawyrm/Gigaset-Debug-Adapter)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 21 | 2 | 
 | 2023-01-10 | 20 | 2 | 
 | 2023-01-09 | 20 | 2 | 
 | 2023-01-08 | 20 | 1 | 

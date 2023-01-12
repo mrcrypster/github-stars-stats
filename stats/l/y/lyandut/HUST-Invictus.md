@@ -1,8 +1,8 @@
 # lyandut/HUST-Invictus - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 115
+☋ Forks: 116
 
 ★ Stars: 402
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 402 | 116 | 
 | 2023-01-10 | 402 | 115 | 
 | 2023-01-09 | 401 | 115 | 
 | 2023-01-08 | 402 | 115 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 401 | 113 | 
 | 2022-12-14 | 402 | 113 | 
 | 2022-12-13 | 402 | 113 | 
-| 2022-12-12 | 402 | 113 | 
 

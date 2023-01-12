@@ -1,10 +1,10 @@
 # actix/examples - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 727
 
-★ Stars: 2924
+★ Stars: 2926
 
 [Open repository](https://github.com/actix/examples)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 2926 | 727 | 
 | 2023-01-10 | 2924 | 727 | 
 | 2023-01-09 | 2921 | 727 | 
 | 2023-01-08 | 2919 | 727 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 2858 | 723 | 
 | 2022-12-15 | 2857 | 723 | 
 | 2022-12-14 | 2856 | 723 | 
-| 2022-12-12 | 2855 | 722 | 
 

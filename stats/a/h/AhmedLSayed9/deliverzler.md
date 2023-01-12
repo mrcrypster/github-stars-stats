@@ -1,10 +1,10 @@
 # AhmedLSayed9/deliverzler - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 77
 
-★ Stars: 260
+★ Stars: 262
 
 [Open repository](https://github.com/AhmedLSayed9/deliverzler)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 262 | 77 | 
 | 2023-01-10 | 260 | 77 | 
 | 2023-01-09 | 257 | 77 | 
 | 2023-01-08 | 257 | 77 | 

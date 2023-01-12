@@ -1,10 +1,10 @@
 # Kamigami55/awesome-chatgpt - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 30
 
-★ Stars: 335
+★ Stars: 339
 
 [Open repository](https://github.com/Kamigami55/awesome-chatgpt)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 339 | 30 | 
 | 2023-01-10 | 335 | 30 | 
 | 2023-01-09 | 330 | 30 | 
 | 2023-01-08 | 325 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 260 | 17 | 
 | 2022-12-14 | 254 | 15 | 
 | 2022-12-13 | 236 | 10 | 
-| 2022-12-12 | 228 | 8 | 
 

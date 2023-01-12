@@ -1,6 +1,6 @@
 # duetosymmetry/orcidlink-LaTeX-command - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 68 | 41 | 
 | 2023-01-10 | 68 | 41 | 
 | 2023-01-09 | 68 | 41 | 
 | 2023-01-08 | 68 | 42 | 

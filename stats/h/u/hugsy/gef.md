@@ -1,10 +1,10 @@
 # hugsy/gef - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 635
 
-★ Stars: 5262
+★ Stars: 5264
 
 [Open repository](https://github.com/hugsy/gef)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 5264 | 635 | 
 | 2023-01-10 | 5262 | 635 | 
 | 2023-01-09 | 5258 | 635 | 
 | 2023-01-08 | 5256 | 635 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 5226 | 631 | 
 | 2022-12-15 | 5222 | 630 | 
 | 2022-12-13 | 5219 | 630 | 
-| 2022-12-12 | 5212 | 630 | 
 

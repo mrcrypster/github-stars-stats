@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 11
 
 ☋ Forks: 8
 
-★ Stars: 101
+★ Stars: 104
 
 [Open repository](https://github.com/AuroraEditor/auroraeditor.com)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-11 | 101 | 8 | 
+| 2023-01-11 | 104 | 8 | 
 | 2023-01-10 | 103 | 8 | 
 

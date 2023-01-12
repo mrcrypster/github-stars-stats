@@ -1,8 +1,8 @@
 # wormtql/yas - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 12
 
-☋ Forks: 105
+☋ Forks: 106
 
 ★ Stars: 738
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 738 | 106 | 
 | 2023-01-10 | 738 | 105 | 
 | 2023-01-09 | 736 | 103 | 
 | 2023-01-08 | 734 | 102 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 693 | 91 | 
 | 2022-12-15 | 692 | 90 | 
 | 2022-12-14 | 692 | 90 | 
-| 2022-12-13 | 691 | 90 | 
 

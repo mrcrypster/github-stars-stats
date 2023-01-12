@@ -1,10 +1,10 @@
 # facebook/prophet - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 4354
 
-★ Stars: 15359
+★ Stars: 15370
 
 [Open repository](https://github.com/facebook/prophet)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 15370 | 4354 | 
 | 2023-01-10 | 15359 | 4354 | 
 | 2023-01-09 | 15355 | 4353 | 
 | 2023-01-08 | 15356 | 4353 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 15269 | 4339 | 
 | 2022-12-14 | 15269 | 4338 | 
 | 2022-12-13 | 15266 | 4340 | 
-| 2022-12-12 | 15262 | 4339 | 
 

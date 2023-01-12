@@ -1,10 +1,10 @@
 # paul-buerkner/brms - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 154
 
-★ Stars: 1073
+★ Stars: 1074
 
 [Open repository](https://github.com/paul-buerkner/brms)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 1074 | 154 | 
 | 2023-01-10 | 1073 | 154 | 
 | 2023-01-09 | 1073 | 154 | 
 | 2023-01-08 | 1073 | 154 | 

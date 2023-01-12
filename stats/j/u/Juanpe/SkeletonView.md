@@ -1,10 +1,10 @@
 # Juanpe/SkeletonView - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 1016
+☋ Forks: 1015
 
-★ Stars: 11662
+★ Stars: 11668
 
 [Open repository](https://github.com/Juanpe/SkeletonView)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 11668 | 1015 | 
 | 2023-01-10 | 11662 | 1016 | 
 | 2023-01-09 | 11660 | 1014 | 
 | 2023-01-08 | 11658 | 1013 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 11626 | 1011 | 
 | 2022-12-15 | 11626 | 1011 | 
 | 2022-12-14 | 11622 | 1011 | 
-| 2022-12-12 | 11619 | 1012 | 
 

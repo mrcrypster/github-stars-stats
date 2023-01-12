@@ -1,6 +1,6 @@
 # UtkuJS/botclub-website - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 33 | 23 | 
 | 2023-01-10 | 33 | 23 | 
 | 2023-01-09 | 33 | 23 | 
 | 2023-01-07 | 33 | 23 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 31 | 21 | 
 | 2022-12-15 | 31 | 21 | 
 | 2022-12-14 | 31 | 21 | 
-| 2022-12-12 | 31 | 21 | 
 

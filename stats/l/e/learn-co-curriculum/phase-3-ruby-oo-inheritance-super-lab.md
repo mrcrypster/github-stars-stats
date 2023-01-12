@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-3-ruby-oo-inheritance-super-lab - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 1520
+☋ Forks: 1522
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 3 | 1522 | 
 | 2023-01-10 | 3 | 1520 | 
 | 2023-01-09 | 3 | 1518 | 
 | 2023-01-08 | 3 | 1518 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 3 | 1489 | 
 | 2022-12-15 | 3 | 1478 | 
 | 2022-12-14 | 3 | 1474 | 
-| 2022-12-12 | 3 | 1470 | 
 

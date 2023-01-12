@@ -1,10 +1,10 @@
 # phaazon/mind.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 31
 
-★ Stars: 557
+★ Stars: 559
 
 [Open repository](https://github.com/phaazon/mind.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 559 | 31 | 
 | 2023-01-10 | 557 | 31 | 
 | 2023-01-09 | 557 | 31 | 
 | 2023-01-08 | 550 | 31 | 

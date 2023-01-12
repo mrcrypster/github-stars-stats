@@ -1,10 +1,10 @@
 # acl2/acl2 - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 95
 
-★ Stars: 276
+★ Stars: 277
 
 [Open repository](https://github.com/acl2/acl2)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 277 | 95 | 
 | 2023-01-10 | 276 | 95 | 
 | 2023-01-09 | 276 | 95 | 
 | 2023-01-08 | 276 | 95 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 275 | 95 | 
 | 2022-12-15 | 275 | 93 | 
 | 2022-12-13 | 274 | 92 | 
-| 2022-12-12 | 274 | 92 | 
 

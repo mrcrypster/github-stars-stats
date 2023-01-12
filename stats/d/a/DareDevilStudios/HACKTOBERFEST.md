@@ -1,10 +1,10 @@
 # DareDevilStudios/HACKTOBERFEST - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 9
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/DareDevilStudios/HACKTOBERFEST)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 2 | 9 | 
 | 2023-01-10 | 1 | 9 | 
 | 2023-01-09 | 1 | 9 | 
 | 2023-01-08 | 1 | 9 | 

@@ -1,10 +1,10 @@
 # symfony/polyfill-intl-idn - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 7
 
-★ Stars: 3043
+★ Stars: 3045
 
 [Open repository](https://github.com/symfony/polyfill-intl-idn)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 3045 | 7 | 
 | 2023-01-10 | 3043 | 7 | 
 | 2023-01-09 | 3043 | 7 | 
 | 2023-01-08 | 3043 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 3028 | 7 | 
 | 2022-12-15 | 3028 | 7 | 
 | 2022-12-14 | 3028 | 7 | 
-| 2022-12-12 | 3028 | 7 | 
 

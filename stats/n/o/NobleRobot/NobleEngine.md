@@ -1,10 +1,10 @@
 # NobleRobot/NobleEngine - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 13
 
-★ Stars: 211
+★ Stars: 213
 
 [Open repository](https://github.com/NobleRobot/NobleEngine)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 213 | 13 | 
 | 2023-01-10 | 211 | 13 | 
 | 2023-01-09 | 211 | 13 | 
 | 2023-01-08 | 211 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 203 | 13 | 
 | 2022-12-15 | 203 | 13 | 
 | 2022-12-13 | 203 | 13 | 
-| 2022-12-12 | 203 | 13 | 
 

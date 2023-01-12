@@ -1,10 +1,10 @@
 # momo0853/kkndme - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 228
 
-★ Stars: 791
+★ Stars: 792
 
 [Open repository](https://github.com/momo0853/kkndme)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 792 | 228 | 
 | 2023-01-10 | 791 | 228 | 
 | 2023-01-09 | 791 | 228 | 
 | 2023-01-08 | 790 | 228 | 

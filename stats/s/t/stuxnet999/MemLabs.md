@@ -1,10 +1,10 @@
 # stuxnet999/MemLabs - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 169
 
-★ Stars: 1250
+★ Stars: 1249
 
 [Open repository](https://github.com/stuxnet999/MemLabs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 1249 | 169 | 
 | 2023-01-10 | 1250 | 169 | 
 | 2023-01-09 | 1250 | 169 | 
 | 2023-01-08 | 1248 | 170 | 

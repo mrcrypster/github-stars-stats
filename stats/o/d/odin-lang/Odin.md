@@ -1,10 +1,10 @@
 # odin-lang/Odin - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 287
+☋ Forks: 286
 
-★ Stars: 3504
+★ Stars: 3505
 
 [Open repository](https://github.com/odin-lang/Odin)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 3505 | 286 | 
 | 2023-01-10 | 3504 | 287 | 
 | 2023-01-09 | 3500 | 288 | 
 | 2023-01-08 | 3500 | 287 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 3434 | 275 | 
 | 2022-12-14 | 3431 | 275 | 
 | 2022-12-13 | 3428 | 274 | 
-| 2022-12-12 | 3424 | 272 | 
 

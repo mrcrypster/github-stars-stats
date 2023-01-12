@@ -1,6 +1,6 @@
 # bonfire-networks/bonfire-app - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 296 | 23 | 
 | 2023-01-10 | 296 | 23 | 
 | 2023-01-09 | 296 | 23 | 
 | 2023-01-08 | 296 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 283 | 22 | 
 | 2022-12-14 | 282 | 22 | 
 | 2022-12-13 | 282 | 22 | 
-| 2022-12-12 | 282 | 22 | 
 

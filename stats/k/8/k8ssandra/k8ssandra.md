@@ -1,10 +1,10 @@
 # k8ssandra/k8ssandra - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 118
 
-★ Stars: 396
+★ Stars: 397
 
 [Open repository](https://github.com/k8ssandra/k8ssandra)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 397 | 118 | 
 | 2023-01-10 | 396 | 118 | 
 | 2023-01-09 | 396 | 118 | 
 | 2023-01-08 | 396 | 118 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 394 | 115 | 
 | 2022-12-15 | 394 | 114 | 
 | 2022-12-13 | 394 | 114 | 
-| 2022-12-12 | 394 | 114 | 
 

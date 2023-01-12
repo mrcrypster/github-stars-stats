@@ -1,6 +1,6 @@
 # DoctorMcKay/sourcemod-plugins - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 21 | 60 | 
 | 2023-01-10 | 21 | 60 | 
 | 2023-01-09 | 21 | 60 | 
 | 2023-01-08 | 21 | 60 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 21 | 59 | 
 | 2022-12-15 | 21 | 59 | 
 | 2022-12-14 | 21 | 59 | 
-| 2022-12-13 | 21 | 59 | 
 

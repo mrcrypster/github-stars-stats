@@ -1,6 +1,6 @@
 # pages-themes/tactile - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 276
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 84 | 276 | 
 | 2023-01-10 | 84 | 276 | 
 | 2023-01-09 | 85 | 276 | 
 | 2023-01-08 | 85 | 275 | 

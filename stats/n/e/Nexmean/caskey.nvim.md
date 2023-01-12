@@ -1,10 +1,10 @@
 # Nexmean/caskey.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 1
 
-★ Stars: 51
+★ Stars: 52
 
 [Open repository](https://github.com/Nexmean/caskey.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 52 | 1 | 
 | 2023-01-10 | 51 | 1 | 
 | 2023-01-09 | 51 | 1 | 
 | 2023-01-08 | 49 | 1 | 

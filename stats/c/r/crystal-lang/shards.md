@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 11
 
 ☋ Forks: 97
 
-★ Stars: 718
+★ Stars: 719
 
 [Open repository](https://github.com/crystal-lang/shards)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-11 | 718 | 97 | 
+| 2023-01-11 | 719 | 97 | 
 | 2023-01-10 | 718 | 97 | 
 | 2023-01-09 | 718 | 97 | 
 | 2023-01-08 | 718 | 97 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-15 | 717 | 96 | 
 | 2022-12-14 | 717 | 96 | 
 | 2022-12-13 | 717 | 97 | 
-| 2022-12-12 | 717 | 97 | 
 

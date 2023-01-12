@@ -1,10 +1,10 @@
 # YGYOOO/WeChat-Shelter - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 128
 
-★ Stars: 857
+★ Stars: 858
 
 [Open repository](https://github.com/YGYOOO/WeChat-Shelter)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 858 | 128 | 
 | 2023-01-10 | 857 | 128 | 
 | 2023-01-09 | 857 | 128 | 
 | 2023-01-08 | 857 | 128 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 855 | 128 | 
 | 2022-12-14 | 855 | 128 | 
 | 2022-12-13 | 855 | 127 | 
-| 2022-12-12 | 855 | 127 | 
 

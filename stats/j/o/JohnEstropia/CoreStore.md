@@ -1,10 +1,10 @@
 # JohnEstropia/CoreStore - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 234
 
-★ Stars: 3661
+★ Stars: 3662
 
 [Open repository](https://github.com/JohnEstropia/CoreStore)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 3662 | 234 | 
 | 2023-01-10 | 3661 | 234 | 
 | 2023-01-09 | 3662 | 234 | 
 | 2023-01-08 | 3660 | 234 | 

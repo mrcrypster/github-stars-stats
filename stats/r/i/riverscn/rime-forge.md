@@ -1,10 +1,10 @@
 # riverscn/rime-forge - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 7
 
-★ Stars: 107
+★ Stars: 106
 
 [Open repository](https://github.com/riverscn/rime-forge)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 106 | 7 | 
 | 2023-01-10 | 107 | 7 | 
 | 2023-01-09 | 107 | 7 | 
 | 2023-01-08 | 107 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 106 | 7 | 
 | 2022-12-15 | 106 | 7 | 
 | 2022-12-13 | 106 | 7 | 
-| 2022-12-12 | 106 | 7 | 
 

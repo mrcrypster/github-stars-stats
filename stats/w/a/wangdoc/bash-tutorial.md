@@ -1,10 +1,10 @@
 # wangdoc/bash-tutorial - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 951
+☋ Forks: 952
 
-★ Stars: 3791
+★ Stars: 3796
 
 [Open repository](https://github.com/wangdoc/bash-tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 3796 | 952 | 
 | 2023-01-10 | 3791 | 951 | 
 | 2023-01-09 | 3790 | 950 | 
 | 2023-01-08 | 3791 | 951 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 3775 | 949 | 
 | 2022-12-15 | 3773 | 948 | 
 | 2022-12-13 | 3772 | 947 | 
-| 2022-12-12 | 3772 | 947 | 
 

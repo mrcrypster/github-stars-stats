@@ -1,6 +1,6 @@
 # dashbitco/nimble_options - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 342 | 26 | 
 | 2023-01-10 | 342 | 26 | 
 | 2023-01-09 | 342 | 26 | 
 | 2023-01-08 | 342 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 341 | 25 | 
 | 2022-12-14 | 341 | 25 | 
 | 2022-12-13 | 341 | 25 | 
-| 2022-12-12 | 340 | 25 | 
 

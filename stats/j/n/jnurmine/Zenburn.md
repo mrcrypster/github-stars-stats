@@ -1,6 +1,6 @@
 # jnurmine/Zenburn - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 151
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 826 | 151 | 
 | 2023-01-10 | 826 | 151 | 
 | 2023-01-09 | 826 | 151 | 
 | 2023-01-08 | 825 | 150 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 821 | 150 | 
 | 2022-12-14 | 821 | 150 | 
 | 2022-12-13 | 821 | 150 | 
-| 2022-12-12 | 821 | 150 | 
 

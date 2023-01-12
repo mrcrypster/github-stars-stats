@@ -1,10 +1,10 @@
 # OpenGVLab/InternImage - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 15
 
-★ Stars: 304
+★ Stars: 305
 
 [Open repository](https://github.com/OpenGVLab/InternImage)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 305 | 15 | 
 | 2023-01-10 | 304 | 15 | 
 | 2023-01-09 | 304 | 15 | 
 | 2023-01-08 | 303 | 15 | 

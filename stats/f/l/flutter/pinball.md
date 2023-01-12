@@ -1,10 +1,10 @@
 # flutter/pinball - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 197
+☋ Forks: 199
 
-★ Stars: 1907
+★ Stars: 1908
 
 [Open repository](https://github.com/flutter/pinball)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 1908 | 199 | 
 | 2023-01-10 | 1907 | 197 | 
 | 2023-01-09 | 1908 | 197 | 
 | 2023-01-08 | 1907 | 197 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 1897 | 195 | 
 | 2022-12-15 | 1897 | 195 | 
 | 2022-12-14 | 1896 | 194 | 
-| 2022-12-12 | 1896 | 194 | 
 

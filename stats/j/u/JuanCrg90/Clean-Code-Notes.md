@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 11
 
-☋ Forks: 446
+☋ Forks: 495
 
-★ Stars: 2980
+★ Stars: 3414
 
 [Open repository](https://github.com/JuanCrg90/Clean-Code-Notes)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-11 | 2980 | 446 | 
+| 2023-01-11 | 3414 | 495 | 
 | 2023-01-10 | 2913 | 437 | 
 | 2023-01-09 | 2399 | 369 | 
 

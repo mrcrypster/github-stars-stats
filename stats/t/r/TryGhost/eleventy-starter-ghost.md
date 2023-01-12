@@ -1,6 +1,6 @@
 # TryGhost/eleventy-starter-ghost - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 144
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 304 | 144 | 
 | 2023-01-10 | 304 | 144 | 
 | 2023-01-09 | 304 | 145 | 
 | 2023-01-08 | 302 | 145 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 302 | 145 | 
 | 2022-12-15 | 302 | 145 | 
 | 2022-12-13 | 302 | 145 | 
-| 2022-12-12 | 302 | 145 | 
 

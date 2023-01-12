@@ -1,10 +1,10 @@
 # jeecgboot/jeecgboot-vue3 - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 594
+☋ Forks: 597
 
-★ Stars: 989
+★ Stars: 991
 
 [Open repository](https://github.com/jeecgboot/jeecgboot-vue3)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 991 | 597 | 
 | 2023-01-10 | 989 | 594 | 
 | 2023-01-09 | 987 | 593 | 
 | 2023-01-08 | 985 | 589 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 931 | 555 | 
 | 2022-12-14 | 930 | 553 | 
 | 2022-12-13 | 929 | 553 | 
-| 2022-12-12 | 926 | 551 | 
 

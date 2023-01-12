@@ -1,10 +1,10 @@
 # doctrine/cache - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 219
 
-★ Stars: 7570
+★ Stars: 7571
 
 [Open repository](https://github.com/doctrine/cache)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 7571 | 219 | 
 | 2023-01-10 | 7570 | 219 | 
 | 2023-01-09 | 7568 | 219 | 
 | 2023-01-08 | 7567 | 217 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 7556 | 215 | 
 | 2022-12-15 | 7556 | 214 | 
 | 2022-12-13 | 7555 | 214 | 
-| 2022-12-12 | 7555 | 214 | 
 

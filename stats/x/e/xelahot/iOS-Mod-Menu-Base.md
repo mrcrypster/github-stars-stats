@@ -1,6 +1,6 @@
 # xelahot/iOS-Mod-Menu-Base - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 58 | 16 | 
 | 2023-01-10 | 58 | 16 | 
 | 2023-01-09 | 58 | 16 | 
 | 2023-01-08 | 58 | 16 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 56 | 15 | 
 | 2022-12-15 | 56 | 15 | 
 | 2022-12-14 | 56 | 15 | 
-| 2022-12-13 | 56 | 15 | 
 

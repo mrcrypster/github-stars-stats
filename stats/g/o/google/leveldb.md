@@ -1,10 +1,10 @@
 # google/leveldb - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 7017
+☋ Forks: 7020
 
-★ Stars: 31594
+★ Stars: 31602
 
 [Open repository](https://github.com/google/leveldb)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 31602 | 7020 | 
 | 2023-01-10 | 31594 | 7017 | 
 | 2023-01-09 | 31585 | 7015 | 
 | 2023-01-08 | 31576 | 7014 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 31438 | 6988 | 
 | 2022-12-15 | 31433 | 6986 | 
 | 2022-12-13 | 31427 | 6985 | 
-| 2022-12-12 | 31415 | 6983 | 
 

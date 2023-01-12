@@ -1,8 +1,8 @@
 # gleam-lang/gleam - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 229
+☋ Forks: 230
 
 ★ Stars: 4413
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 4413 | 230 | 
 | 2023-01-10 | 4413 | 229 | 
 | 2023-01-09 | 4410 | 229 | 
 | 2023-01-08 | 4408 | 229 | 

@@ -1,6 +1,6 @@
 # termux/termux-styling - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 210
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 691 | 210 | 
 | 2023-01-10 | 691 | 210 | 
 | 2023-01-09 | 691 | 210 | 
 | 2023-01-08 | 690 | 210 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 673 | 206 | 
 | 2022-12-14 | 672 | 206 | 
 | 2022-12-13 | 672 | 206 | 
-| 2022-12-12 | 670 | 206 | 
 

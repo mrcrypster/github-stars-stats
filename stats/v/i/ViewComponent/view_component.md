@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 11
 
 ☋ Forks: 353
 
-★ Stars: 2767
+★ Stars: 2768
 
 [Open repository](https://github.com/ViewComponent/view_component)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-11 | 2767 | 353 | 
+| 2023-01-11 | 2768 | 353 | 
 | 2023-01-09 | 2767 | 353 | 
 | 2023-01-08 | 2766 | 352 | 
 | 2023-01-07 | 2766 | 352 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-15 | 2750 | 351 | 
 | 2022-12-14 | 2750 | 350 | 
 | 2022-12-13 | 2750 | 350 | 
-| 2022-12-12 | 2750 | 349 | 
 

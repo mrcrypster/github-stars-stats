@@ -1,10 +1,10 @@
 # open-telemetry/opentelemetry-js - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 524
+☋ Forks: 527
 
-★ Stars: 1697
+★ Stars: 1699
 
 [Open repository](https://github.com/open-telemetry/opentelemetry-js)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 1699 | 527 | 
 | 2023-01-11 | 1697 | 524 | 
 | 2023-01-09 | 1696 | 523 | 
 | 2023-01-08 | 1694 | 521 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 1608 | 512 | 
 | 2022-12-15 | 1608 | 512 | 
 | 2022-12-14 | 1607 | 511 | 
-| 2022-12-12 | 1603 | 510 | 
 

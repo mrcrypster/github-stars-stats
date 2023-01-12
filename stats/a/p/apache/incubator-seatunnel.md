@@ -1,10 +1,10 @@
 # apache/incubator-seatunnel - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 849
+☋ Forks: 852
 
-★ Stars: 4459
+★ Stars: 4466
 
 [Open repository](https://github.com/apache/incubator-seatunnel)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 4466 | 852 | 
 | 2023-01-10 | 4459 | 849 | 
 | 2023-01-09 | 4455 | 848 | 
 | 2023-01-08 | 4452 | 847 | 

@@ -1,10 +1,10 @@
 # carrierwaveuploader/carrierwave - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 1640
+☋ Forks: 1639
 
-★ Stars: 8749
+★ Stars: 8750
 
 [Open repository](https://github.com/carrierwaveuploader/carrierwave)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 8750 | 1639 | 
 | 2023-01-10 | 8749 | 1640 | 
 | 2023-01-09 | 8748 | 1640 | 
 | 2023-01-08 | 8748 | 1640 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 8739 | 1637 | 
 | 2022-12-14 | 8739 | 1637 | 
 | 2022-12-13 | 8739 | 1637 | 
-| 2022-12-12 | 8739 | 1636 | 
 

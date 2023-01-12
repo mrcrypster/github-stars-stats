@@ -1,6 +1,6 @@
 # alphagov/govuk-infrastructure - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 86 | 18 | 
 | 2023-01-10 | 86 | 18 | 
 | 2023-01-09 | 86 | 18 | 
 | 2023-01-08 | 86 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 86 | 18 | 
 | 2022-12-15 | 86 | 18 | 
 | 2022-12-14 | 86 | 18 | 
-| 2022-12-12 | 86 | 18 | 
 

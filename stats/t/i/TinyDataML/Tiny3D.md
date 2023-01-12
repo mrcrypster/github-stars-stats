@@ -1,6 +1,6 @@
 # TinyDataML/Tiny3D - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 598 | 61 | 
 | 2023-01-10 | 598 | 61 | 
 | 2023-01-09 | 598 | 61 | 
 | 2023-01-08 | 599 | 61 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 599 | 60 | 
 | 2022-12-14 | 599 | 60 | 
 | 2022-12-13 | 599 | 60 | 
-| 2022-12-12 | 599 | 60 | 
 

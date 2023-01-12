@@ -1,10 +1,10 @@
 # RNCryptor/RNCryptor-objc - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 64
 
-★ Stars: 241
+★ Stars: 242
 
 [Open repository](https://github.com/RNCryptor/RNCryptor-objc)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 242 | 64 | 
 | 2023-01-10 | 241 | 64 | 
 | 2023-01-09 | 241 | 64 | 
 | 2023-01-08 | 241 | 64 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 241 | 64 | 
 | 2022-12-15 | 241 | 64 | 
 | 2022-12-13 | 241 | 64 | 
-| 2022-12-12 | 241 | 64 | 
 

@@ -1,10 +1,10 @@
 # The-OpenROAD-Project/OpenROAD-flow-scripts - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 98
 
-★ Stars: 126
+★ Stars: 127
 
 [Open repository](https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 127 | 98 | 
 | 2023-01-10 | 126 | 98 | 
 | 2023-01-09 | 126 | 97 | 
 | 2023-01-08 | 125 | 97 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 121 | 93 | 
 | 2022-12-14 | 122 | 93 | 
 | 2022-12-13 | 122 | 93 | 
-| 2022-12-12 | 122 | 93 | 
 

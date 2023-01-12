@@ -1,10 +1,10 @@
 # OkGoDoIt/OpenAI-API-dotnet - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 84
 
-★ Stars: 329
+★ Stars: 332
 
 [Open repository](https://github.com/OkGoDoIt/OpenAI-API-dotnet)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 332 | 84 | 
 | 2023-01-10 | 329 | 84 | 
 | 2023-01-09 | 328 | 83 | 
 | 2023-01-08 | 327 | 83 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 268 | 74 | 
 | 2022-12-15 | 267 | 73 | 
 | 2022-12-14 | 262 | 73 | 
-| 2022-12-12 | 256 | 69 | 
 

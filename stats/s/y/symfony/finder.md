@@ -1,10 +1,10 @@
 # symfony/finder - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 56
 
-★ Stars: 8121
+★ Stars: 8122
 
 [Open repository](https://github.com/symfony/finder)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 8122 | 56 | 
 | 2023-01-10 | 8121 | 56 | 
 | 2023-01-09 | 8118 | 56 | 
 | 2023-01-08 | 8117 | 56 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 8098 | 56 | 
 | 2022-12-15 | 8098 | 56 | 
 | 2022-12-13 | 8098 | 56 | 
-| 2022-12-12 | 8098 | 56 | 
 

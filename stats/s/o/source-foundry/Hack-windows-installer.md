@@ -1,6 +1,6 @@
 # source-foundry/Hack-windows-installer - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 69
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 671 | 69 | 
 | 2023-01-10 | 671 | 69 | 
 | 2023-01-09 | 671 | 69 | 
 | 2023-01-08 | 671 | 69 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 669 | 69 | 
 | 2022-12-15 | 669 | 69 | 
 | 2022-12-13 | 669 | 69 | 
-| 2022-12-12 | 669 | 69 | 
 

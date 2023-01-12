@@ -1,10 +1,10 @@
 # jfedor2/hid-remapper - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 23
+☋ Forks: 24
 
-★ Stars: 256
+★ Stars: 259
 
 [Open repository](https://github.com/jfedor2/hid-remapper)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 259 | 24 | 
 | 2023-01-10 | 256 | 23 | 
 | 2023-01-09 | 253 | 23 | 
 | 2023-01-08 | 252 | 22 | 

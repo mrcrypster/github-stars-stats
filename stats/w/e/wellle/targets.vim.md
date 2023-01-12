@@ -1,6 +1,6 @@
 # wellle/targets.vim - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 2362 | 48 | 
 | 2023-01-10 | 2362 | 48 | 
 | 2023-01-09 | 2362 | 48 | 
 | 2023-01-08 | 2360 | 48 | 

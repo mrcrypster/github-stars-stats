@@ -1,6 +1,6 @@
 # karolsluszniak/ex_check - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 274 | 8 | 
 | 2023-01-10 | 274 | 8 | 
 | 2023-01-09 | 272 | 8 | 
 | 2023-01-08 | 272 | 8 | 

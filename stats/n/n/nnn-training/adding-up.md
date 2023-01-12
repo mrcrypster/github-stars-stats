@@ -1,6 +1,6 @@
 # nnn-training/adding-up - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 701
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | - | 701 | 
 | 2023-01-10 | - | 701 | 
 | 2023-01-09 | - | 700 | 
 | 2023-01-08 | - | 700 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | - | 691 | 
 | 2022-12-14 | - | 691 | 
 | 2022-12-13 | - | 691 | 
-| 2022-12-12 | - | 690 | 
 

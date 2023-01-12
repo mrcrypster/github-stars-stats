@@ -1,10 +1,10 @@
 # go-git/go-git - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 525
+☋ Forks: 526
 
-★ Stars: 4172
+★ Stars: 4179
 
 [Open repository](https://github.com/go-git/go-git)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 4179 | 526 | 
 | 2023-01-10 | 4172 | 525 | 
 | 2023-01-09 | 4169 | 522 | 
 | 2023-01-08 | 4166 | 522 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 4105 | 513 | 
 | 2022-12-14 | 4103 | 514 | 
 | 2022-12-13 | 4100 | 514 | 
-| 2022-12-12 | 4095 | 513 | 
 

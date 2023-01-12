@@ -1,6 +1,6 @@
 # cloudtechmasters/springboot-maven-course-micro-svc - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 98
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 1 | 98 | 
 | 2023-01-10 | 1 | 98 | 
 | 2023-01-09 | 1 | 98 | 
 | 2023-01-08 | 1 | 98 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 1 | 90 | 
 | 2022-12-15 | 1 | 90 | 
 | 2022-12-13 | 1 | 90 | 
-| 2022-12-12 | 1 | 90 | 
 

@@ -1,8 +1,8 @@
 # SkidderMC/FDPClient - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 101
+☋ Forks: 103
 
 ★ Stars: 166
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 166 | 103 | 
 | 2023-01-10 | 166 | 101 | 
 | 2023-01-09 | 166 | 101 | 
 | 2023-01-08 | 165 | 101 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 154 | 99 | 
 | 2022-12-15 | 152 | 98 | 
 | 2022-12-13 | 151 | 97 | 
-| 2022-12-12 | 150 | 97 | 
 

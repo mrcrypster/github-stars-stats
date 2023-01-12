@@ -1,10 +1,10 @@
 # code-423n4/2022-12-gogopool - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 20
 
-★ Stars: 11
+★ Stars: 10
 
 [Open repository](https://github.com/code-423n4/2022-12-gogopool)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 10 | 20 | 
 | 2023-01-10 | 11 | 20 | 
 | 2023-01-09 | 11 | 20 | 
 | 2023-01-08 | 11 | 20 | 

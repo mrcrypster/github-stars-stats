@@ -1,10 +1,10 @@
 # supabase/supabase - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 2840
+☋ Forks: 2843
 
-★ Stars: 43886
+★ Stars: 43920
 
 [Open repository](https://github.com/supabase/supabase)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 43920 | 2843 | 
 | 2023-01-10 | 43886 | 2840 | 
 | 2023-01-09 | 43810 | 2829 | 
 | 2023-01-08 | 43763 | 2823 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 42455 | 2688 | 
 | 2022-12-14 | 42426 | 2687 | 
 | 2022-12-13 | 42352 | 2680 | 
-| 2022-12-12 | 42262 | 2671 | 
 

@@ -1,6 +1,6 @@
 # nim-lang/virus_checker - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 22 | 1 | 
 | 2023-01-10 | 22 | 1 | 
 | 2023-01-09 | 22 | 1 | 
 | 2023-01-08 | 22 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 22 | 1 | 
 | 2022-12-15 | 22 | 1 | 
 | 2022-12-14 | 22 | 1 | 
-| 2022-12-12 | 22 | 1 | 
 

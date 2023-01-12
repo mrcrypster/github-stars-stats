@@ -1,6 +1,6 @@
 # purescript/purescript-transformers - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 68 | 46 | 
 | 2023-01-10 | 68 | 46 | 
 | 2023-01-09 | 68 | 46 | 
 | 2023-01-08 | 68 | 46 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 66 | 45 | 
 | 2022-12-14 | 66 | 45 | 
 | 2022-12-13 | 66 | 45 | 
-| 2022-12-12 | 66 | 45 | 
 

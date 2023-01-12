@@ -1,10 +1,10 @@
 # apple/swift-docc-plugin - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 32
 
-★ Stars: 226
+★ Stars: 228
 
 [Open repository](https://github.com/apple/swift-docc-plugin)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 228 | 32 | 
 | 2023-01-10 | 226 | 32 | 
 | 2023-01-09 | 226 | 32 | 
 | 2023-01-08 | 226 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 225 | 30 | 
 | 2022-12-15 | 225 | 30 | 
 | 2022-12-13 | 224 | 30 | 
-| 2022-12-12 | 224 | 30 | 
 

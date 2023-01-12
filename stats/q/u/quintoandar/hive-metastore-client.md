@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 11
 
 ☋ Forks: 16
 
-★ Stars: 35
+★ Stars: 36
 
 [Open repository](https://github.com/quintoandar/hive-metastore-client)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-11 | 35 | 16 | 
+| 2023-01-11 | 36 | 16 | 
 | 2023-01-10 | 35 | 16 | 
 | 2023-01-09 | 35 | 16 | 
 | 2023-01-08 | 35 | 16 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 34 | 15 | 
 | 2022-12-15 | 34 | 15 | 
 | 2022-12-13 | 34 | 15 | 
-| 2022-12-12 | 34 | 15 | 
 

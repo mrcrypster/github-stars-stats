@@ -1,6 +1,6 @@
 # mrjones2014/smart-splits.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 233 | 6 | 
 | 2023-01-10 | 233 | 6 | 
 | 2023-01-09 | 232 | 6 | 
 | 2023-01-08 | 231 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 218 | 6 | 
 | 2022-12-14 | 218 | 6 | 
 | 2022-12-13 | 216 | 6 | 
-| 2022-12-12 | 213 | 6 | 
 

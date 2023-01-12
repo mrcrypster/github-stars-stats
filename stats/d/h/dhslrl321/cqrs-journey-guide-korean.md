@@ -1,10 +1,10 @@
 # dhslrl321/cqrs-journey-guide-korean - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 31
 
-★ Stars: 206
+★ Stars: 210
 
 [Open repository](https://github.com/dhslrl321/cqrs-journey-guide-korean)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 210 | 31 | 
 | 2023-01-10 | 206 | 31 | 
 | 2023-01-09 | 206 | 31 | 
 | 2023-01-08 | 205 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 197 | 29 | 
 | 2022-12-15 | 197 | 29 | 
 | 2022-12-13 | 195 | 28 | 
-| 2022-12-12 | 195 | 28 | 
 

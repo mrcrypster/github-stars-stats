@@ -1,10 +1,10 @@
 # flutterfocus/development_nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 7
 
-★ Stars: 93
+★ Stars: 94
 
 [Open repository](https://github.com/flutterfocus/development_nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 94 | 7 | 
 | 2023-01-11 | 93 | 7 | 
 | 2023-01-09 | 92 | 7 | 
 | 2023-01-08 | 91 | 7 | 

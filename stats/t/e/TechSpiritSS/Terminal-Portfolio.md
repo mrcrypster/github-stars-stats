@@ -1,8 +1,8 @@
 # TechSpiritSS/Terminal-Portfolio - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 63
+☋ Forks: 65
 
 ★ Stars: 38
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 38 | 65 | 
 | 2023-01-10 | 38 | 63 | 
 | 2023-01-09 | 38 | 62 | 
 | 2023-01-08 | 37 | 59 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 27 | 38 | 
 | 2022-12-15 | 27 | 38 | 
 | 2022-12-13 | 27 | 38 | 
-| 2022-12-12 | 27 | 38 | 
 

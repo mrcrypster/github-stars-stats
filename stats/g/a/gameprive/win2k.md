@@ -1,6 +1,6 @@
 # gameprive/win2k - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 64 | 36 | 
 | 2023-01-10 | 64 | 36 | 
 | 2023-01-09 | 64 | 36 | 
 | 2023-01-08 | 64 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 64 | 36 | 
 | 2022-12-15 | 64 | 36 | 
 | 2022-12-13 | 64 | 36 | 
-| 2022-12-12 | 64 | 36 | 
 

@@ -1,6 +1,6 @@
 # genabdulrehman/shakes-ui - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 71 | 31 | 
 | 2023-01-10 | 71 | 31 | 
 | 2023-01-09 | 71 | 31 | 
 | 2023-01-08 | 71 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 67 | 30 | 
 | 2022-12-14 | 67 | 29 | 
 | 2022-12-13 | 67 | 29 | 
-| 2022-12-12 | 67 | 29 | 
 

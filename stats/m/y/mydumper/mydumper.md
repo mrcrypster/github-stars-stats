@@ -1,10 +1,10 @@
 # mydumper/mydumper - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 384
 
-★ Stars: 1856
+★ Stars: 1857
 
 [Open repository](https://github.com/mydumper/mydumper)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 1857 | 384 | 
 | 2023-01-10 | 1856 | 384 | 
 | 2023-01-09 | 1852 | 384 | 
 | 2023-01-08 | 1852 | 384 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 1839 | 381 | 
 | 2022-12-15 | 1837 | 381 | 
 | 2022-12-14 | 1837 | 380 | 
-| 2022-12-12 | 1834 | 380 | 
 

@@ -1,6 +1,6 @@
 # sunym1993/computer-all - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 324 | 51 | 
 | 2023-01-10 | 324 | 51 | 
 | 2023-01-09 | 324 | 51 | 
 | 2023-01-08 | 324 | 51 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 319 | 50 | 
 | 2022-12-14 | 318 | 50 | 
 | 2022-12-13 | 317 | 49 | 
-| 2022-12-12 | 317 | 49 | 
 

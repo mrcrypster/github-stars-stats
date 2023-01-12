@@ -1,6 +1,6 @@
 # the-nix-way/dev-templates - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 85 | 8 | 
 | 2023-01-10 | 85 | 8 | 
 | 2023-01-09 | 85 | 8 | 
 | 2023-01-08 | 84 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 70 | 6 | 
 | 2022-12-15 | 70 | 6 | 
 | 2022-12-14 | 70 | 6 | 
-| 2022-12-13 | 70 | 6 | 
 

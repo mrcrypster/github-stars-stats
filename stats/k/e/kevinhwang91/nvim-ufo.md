@@ -1,10 +1,10 @@
 # kevinhwang91/nvim-ufo - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 12
 
-★ Stars: 884
+★ Stars: 887
 
 [Open repository](https://github.com/kevinhwang91/nvim-ufo)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 887 | 12 | 
 | 2023-01-10 | 884 | 12 | 
 | 2023-01-09 | 875 | 12 | 
 | 2023-01-08 | 874 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 836 | 12 | 
 | 2022-12-15 | 835 | 12 | 
 | 2022-12-13 | 834 | 12 | 
-| 2022-12-12 | 832 | 12 | 
 

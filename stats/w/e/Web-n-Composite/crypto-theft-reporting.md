@@ -1,10 +1,10 @@
 # Web-n-Composite/crypto-theft-reporting - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 107
+☋ Forks: 108
 
-★ Stars: 386
+★ Stars: 387
 
 [Open repository](https://github.com/Web-n-Composite/crypto-theft-reporting)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 387 | 108 | 
 | 2023-01-10 | 386 | 107 | 
 | 2023-01-09 | 386 | 107 | 
 | 2023-01-08 | 386 | 107 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 102 | 105 | 
 | 2022-12-15 | 102 | 105 | 
 | 2022-12-14 | 102 | 105 | 
-| 2022-12-12 | 102 | 105 | 
 

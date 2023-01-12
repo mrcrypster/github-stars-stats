@@ -1,8 +1,8 @@
 # libffi/libffi - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 617
+☋ Forks: 618
 
 ★ Stars: 2684
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 2684 | 618 | 
 | 2023-01-10 | 2684 | 617 | 
 | 2023-01-09 | 2684 | 617 | 
 | 2023-01-07 | 2682 | 617 | 

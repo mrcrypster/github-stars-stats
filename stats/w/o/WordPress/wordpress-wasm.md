@@ -1,10 +1,10 @@
 # WordPress/wordpress-wasm - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 49
 
-★ Stars: 937
+★ Stars: 942
 
 [Open repository](https://github.com/WordPress/wordpress-wasm)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 942 | 49 | 
 | 2023-01-10 | 937 | 49 | 
 | 2023-01-09 | 936 | 49 | 
 | 2023-01-08 | 935 | 49 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 873 | 41 | 
 | 2022-12-15 | 864 | 41 | 
 | 2022-12-14 | 859 | 41 | 
-| 2022-12-13 | 853 | 40 | 
 

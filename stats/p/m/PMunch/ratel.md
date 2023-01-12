@@ -1,6 +1,6 @@
 # PMunch/ratel - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 92 | 3 | 
 | 2023-01-11 | 92 | 3 | 
 | 2023-01-09 | 92 | 3 | 
 | 2023-01-08 | 92 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 88 | 2 | 
 | 2022-12-15 | 88 | 2 | 
 | 2022-12-14 | 88 | 2 | 
-| 2022-12-12 | 88 | 2 | 
 

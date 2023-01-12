@@ -1,10 +1,10 @@
 # isovalent/cilium-grafana-observability-demo - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 14
 
-★ Stars: 54
+★ Stars: 55
 
 [Open repository](https://github.com/isovalent/cilium-grafana-observability-demo)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 55 | 14 | 
 | 2023-01-10 | 54 | 14 | 
 | 2023-01-09 | 53 | 14 | 
 | 2023-01-08 | 53 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 52 | 12 | 
 | 2022-12-14 | 52 | 12 | 
 | 2022-12-13 | 52 | 12 | 
-| 2022-12-12 | 52 | 12 | 
 

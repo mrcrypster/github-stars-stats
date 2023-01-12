@@ -1,6 +1,6 @@
 # EtheaDev/DelphiGoogleMap - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 50 | 14 | 
 | 2023-01-10 | 50 | 14 | 
 | 2023-01-09 | 50 | 14 | 
 | 2023-01-08 | 50 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 50 | 14 | 
 | 2022-12-15 | 50 | 14 | 
 | 2022-12-13 | 51 | 14 | 
-| 2022-12-12 | 51 | 14 | 
 

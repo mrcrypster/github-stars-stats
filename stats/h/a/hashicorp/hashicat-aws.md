@@ -1,8 +1,8 @@
 # hashicorp/hashicat-aws - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 2044
+☋ Forks: 2058
 
 ★ Stars: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 12 | 2058 | 
 | 2023-01-10 | 12 | 2044 | 
 | 2023-01-09 | 12 | 2026 | 
 | 2023-01-08 | 12 | 2026 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 11 | 2008 | 
 | 2022-12-14 | 11 | 2006 | 
 | 2022-12-13 | 11 | 2003 | 
-| 2022-12-12 | 11 | 2002 | 
 

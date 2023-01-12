@@ -1,10 +1,10 @@
 # deliveryhero/helm-charts - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 207
 
-★ Stars: 312
+★ Stars: 313
 
 [Open repository](https://github.com/deliveryhero/helm-charts)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 313 | 207 | 
 | 2023-01-11 | 312 | 207 | 
 | 2023-01-09 | 312 | 207 | 
 | 2023-01-08 | 312 | 207 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 304 | 205 | 
 | 2022-12-15 | 303 | 205 | 
 | 2022-12-14 | 304 | 206 | 
-| 2022-12-12 | 304 | 206 | 
 

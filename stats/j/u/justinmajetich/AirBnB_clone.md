@@ -1,8 +1,8 @@
 # justinmajetich/AirBnB_clone - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 2584
+☋ Forks: 2590
 
 ★ Stars: 39
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 39 | 2590 | 
 | 2023-01-10 | 39 | 2584 | 
 | 2023-01-09 | 39 | 2566 | 
 | 2023-01-08 | 39 | 2554 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 35 | 2243 | 
 | 2022-12-15 | 35 | 2243 | 
 | 2022-12-13 | 35 | 2241 | 
-| 2022-12-12 | 34 | 2239 | 
 

@@ -1,10 +1,10 @@
 # DavHau/nix-portable - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 12
 
-★ Stars: 388
+★ Stars: 389
 
 [Open repository](https://github.com/DavHau/nix-portable)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 389 | 12 | 
 | 2023-01-10 | 388 | 12 | 
 | 2023-01-09 | 387 | 12 | 
 | 2023-01-08 | 387 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 381 | 12 | 
 | 2022-12-14 | 381 | 12 | 
 | 2022-12-13 | 381 | 12 | 
-| 2022-12-12 | 381 | 12 | 
 

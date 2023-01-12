@@ -1,6 +1,6 @@
 # borkdude/deps.clj - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 208 | 16 | 
 | 2023-01-10 | 208 | 16 | 
 | 2023-01-09 | 208 | 16 | 
 | 2023-01-08 | 208 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 203 | 15 | 
 | 2022-12-14 | 202 | 15 | 
 | 2022-12-13 | 202 | 15 | 
-| 2022-12-12 | 202 | 15 | 
 

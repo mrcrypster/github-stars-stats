@@ -1,10 +1,10 @@
 # weitieda/bottom-sheet - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 48
+☋ Forks: 47
 
-★ Stars: 601
+★ Stars: 600
 
 [Open repository](https://github.com/weitieda/bottom-sheet)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 600 | 47 | 
 | 2023-01-10 | 601 | 48 | 
 | 2023-01-09 | 601 | 48 | 
 | 2023-01-08 | 601 | 48 | 

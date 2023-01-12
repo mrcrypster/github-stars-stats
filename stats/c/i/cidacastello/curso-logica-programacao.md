@@ -1,10 +1,10 @@
 # cidacastello/curso-logica-programacao - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 7
 
-★ Stars: 137
+★ Stars: 138
 
 [Open repository](https://github.com/cidacastello/curso-logica-programacao)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 138 | 7 | 
 | 2023-01-10 | 137 | 7 | 
 | 2023-01-09 | 136 | 7 | 
 | 2023-01-08 | 135 | 7 | 

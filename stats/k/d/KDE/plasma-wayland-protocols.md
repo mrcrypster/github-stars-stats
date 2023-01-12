@@ -1,10 +1,10 @@
 # KDE/plasma-wayland-protocols - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 4
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/KDE/plasma-wayland-protocols)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 13 | 4 | 
 | 2023-01-10 | 12 | 4 | 
 | 2023-01-09 | 12 | 4 | 
 | 2023-01-08 | 12 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 12 | 4 | 
 | 2022-12-15 | 12 | 4 | 
 | 2022-12-14 | 12 | 4 | 
-| 2022-12-12 | 12 | 4 | 
 

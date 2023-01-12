@@ -1,10 +1,10 @@
 # boost-ext/mp - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 9
 
-★ Stars: 129
+★ Stars: 130
 
 [Open repository](https://github.com/boost-ext/mp)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 130 | 9 | 
 | 2023-01-10 | 129 | 9 | 
 | 2023-01-09 | 129 | 9 | 
 | 2023-01-08 | 128 | 9 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 122 | 8 | 
 | 2022-12-15 | 122 | 8 | 
 | 2022-12-14 | 122 | 8 | 
-| 2022-12-13 | 122 | 8 | 
 

@@ -1,6 +1,6 @@
 # jones2000/HQChart - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 609
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 2239 | 609 | 
 | 2023-01-10 | 2239 | 609 | 
 | 2023-01-09 | 2238 | 609 | 
 | 2023-01-08 | 2238 | 609 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 2165 | 600 | 
 | 2022-12-15 | 2162 | 600 | 
 | 2022-12-13 | 2159 | 600 | 
-| 2022-12-12 | 2156 | 598 | 
 

@@ -1,6 +1,6 @@
 # missuo/Telegraph-Image-Hosting - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 102 | 40 | 
 | 2023-01-10 | 102 | 40 | 
 | 2023-01-09 | 102 | 40 | 
 | 2023-01-08 | 102 | 40 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 100 | 40 | 
 | 2022-12-14 | 100 | 39 | 
 | 2022-12-13 | 100 | 39 | 
-| 2022-12-12 | 100 | 39 | 
 

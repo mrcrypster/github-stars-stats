@@ -1,10 +1,10 @@
 # Rivaill/CryptoVulhub - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 69
 
-★ Stars: 307
+★ Stars: 308
 
 [Open repository](https://github.com/Rivaill/CryptoVulhub)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 308 | 69 | 
 | 2023-01-10 | 307 | 69 | 
 | 2023-01-09 | 307 | 69 | 
 | 2023-01-08 | 307 | 69 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 292 | 66 | 
 | 2022-12-15 | 291 | 66 | 
 | 2022-12-13 | 291 | 66 | 
-| 2022-12-12 | 291 | 66 | 
 

@@ -1,6 +1,6 @@
 # kimmobrunfeldt/eink-weather-display - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 236 | 13 | 
 | 2023-01-10 | 236 | 13 | 
 | 2023-01-09 | 236 | 12 | 
 | 2023-01-08 | 236 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 223 | 10 | 
 | 2022-12-14 | 224 | 10 | 
 | 2022-12-13 | 222 | 10 | 
-| 2022-12-12 | 222 | 10 | 
 

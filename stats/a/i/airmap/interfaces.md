@@ -1,6 +1,6 @@
 # airmap/interfaces - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 8 | 5 | 
 | 2023-01-10 | 8 | 5 | 
 | 2023-01-09 | 8 | 5 | 
 | 2023-01-08 | 8 | 5 | 

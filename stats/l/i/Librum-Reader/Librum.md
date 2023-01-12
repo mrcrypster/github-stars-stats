@@ -1,6 +1,6 @@
 # Librum-Reader/Librum - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 176 | 3 | 
 | 2023-01-10 | 176 | 3 | 
 | 2023-01-08 | 174 | 3 | 
 | 2023-01-07 | 174 | 3 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 170 | 2 | 
 | 2022-12-15 | 168 | 2 | 
 | 2022-12-14 | 167 | 2 | 
-| 2022-12-12 | 167 | 2 | 
 

@@ -1,6 +1,6 @@
 # Nuku/Flexible-Survival - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 280
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 163 | 280 | 
 | 2023-01-10 | 163 | 280 | 
 | 2023-01-09 | 162 | 279 | 
 | 2023-01-08 | 162 | 279 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 161 | 280 | 
 | 2022-12-14 | 161 | 280 | 
 | 2022-12-13 | 161 | 280 | 
-| 2022-12-12 | 161 | 280 | 
 

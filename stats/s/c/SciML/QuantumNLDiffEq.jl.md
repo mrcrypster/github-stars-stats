@@ -1,6 +1,6 @@
 # SciML/QuantumNLDiffEq.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 18 | 2 | 
 | 2023-01-10 | 18 | 2 | 
 | 2023-01-09 | 18 | 2 | 
 | 2023-01-08 | 18 | 2 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 18 | 2 | 
 | 2022-12-15 | 18 | 2 | 
 | 2022-12-14 | 18 | 2 | 
-| 2022-12-13 | 18 | 2 | 
 

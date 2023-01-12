@@ -1,10 +1,10 @@
 # pta2002/nixvim - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 21
 
-★ Stars: 162
+★ Stars: 171
 
 [Open repository](https://github.com/pta2002/nixvim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 171 | 21 | 
 | 2023-01-10 | 162 | 21 | 
 | 2023-01-09 | 161 | 21 | 
 | 2023-01-08 | 153 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 113 | 16 | 
 | 2022-12-14 | 113 | 16 | 
 | 2022-12-13 | 113 | 16 | 
-| 2022-12-12 | 113 | 16 | 
 

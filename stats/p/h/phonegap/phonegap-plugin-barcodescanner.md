@@ -1,8 +1,8 @@
 # phonegap/phonegap-plugin-barcodescanner - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 1280
+☋ Forks: 1281
 
 ★ Stars: 1270
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 1270 | 1281 | 
 | 2023-01-10 | 1270 | 1280 | 
 | 2023-01-09 | 1270 | 1280 | 
 | 2023-01-08 | 1270 | 1280 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 1272 | 1268 | 
 | 2022-12-14 | 1272 | 1266 | 
 | 2022-12-13 | 1272 | 1265 | 
-| 2022-12-12 | 1272 | 1265 | 
 

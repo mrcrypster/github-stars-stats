@@ -1,6 +1,6 @@
 # material-motion/motion-animator-objc - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 48 | 19 | 
 | 2023-01-10 | 48 | 19 | 
 | 2023-01-09 | 48 | 19 | 
 | 2023-01-08 | 48 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 47 | 18 | 
 | 2022-12-15 | 47 | 18 | 
 | 2022-12-13 | 47 | 18 | 
-| 2022-12-12 | 47 | 18 | 
 

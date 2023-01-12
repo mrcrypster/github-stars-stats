@@ -1,10 +1,10 @@
 # qax-os/excelize - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 12
 
-☋ Forks: 1395
+☋ Forks: 1397
 
-★ Stars: 13988
+★ Stars: 14078
 
 [Open repository](https://github.com/qax-os/excelize)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 14078 | 1397 | 
+| 2023-01-11 | 14078 | 1397 | 
 | 2023-01-10 | 13988 | 1395 | 
 | 2023-01-09 | 13898 | 1393 | 
 | 2023-01-08 | 13832 | 1390 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 13681 | 1375 | 
 | 2022-12-15 | 13677 | 1375 | 
 | 2022-12-14 | 13660 | 1375 | 
-| 2022-12-12 | 13645 | 1374 | 
 

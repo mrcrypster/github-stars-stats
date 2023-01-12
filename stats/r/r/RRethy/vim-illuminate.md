@@ -1,10 +1,10 @@
 # RRethy/vim-illuminate - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 36
 
-★ Stars: 1415
+★ Stars: 1418
 
 [Open repository](https://github.com/RRethy/vim-illuminate)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 1418 | 36 | 
 | 2023-01-10 | 1415 | 36 | 
 | 2023-01-09 | 1408 | 36 | 
 | 2023-01-08 | 1406 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 1367 | 36 | 
 | 2022-12-14 | 1366 | 36 | 
 | 2022-12-13 | 1364 | 36 | 
-| 2022-12-12 | 1363 | 36 | 
 

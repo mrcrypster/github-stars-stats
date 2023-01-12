@@ -1,8 +1,8 @@
 # StefMa/hugo-fresh - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 282
+☋ Forks: 281
 
 ★ Stars: 449
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 449 | 281 | 
 | 2023-01-10 | 449 | 282 | 
 | 2023-01-09 | 449 | 282 | 
 | 2023-01-08 | 449 | 282 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 443 | 279 | 
 | 2022-12-14 | 443 | 279 | 
 | 2022-12-13 | 443 | 279 | 
-| 2022-12-12 | 441 | 279 | 
 

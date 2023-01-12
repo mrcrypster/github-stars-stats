@@ -1,6 +1,6 @@
 # matsui528/math_writing - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 80 | 1 | 
 | 2023-01-10 | 80 | 1 | 
 | 2023-01-09 | 79 | 1 | 
 | 2023-01-08 | 79 | 1 | 

@@ -1,10 +1,10 @@
 # Kozea/WeasyPrint - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 587
+☋ Forks: 586
 
-★ Stars: 5396
+★ Stars: 5399
 
 [Open repository](https://github.com/Kozea/WeasyPrint)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 5399 | 586 | 
 | 2023-01-10 | 5396 | 587 | 
 | 2023-01-09 | 5393 | 587 | 
 | 2023-01-08 | 5391 | 587 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 5353 | 585 | 
 | 2022-12-15 | 5352 | 584 | 
 | 2022-12-13 | 5351 | 585 | 
-| 2022-12-12 | 5347 | 585 | 
 

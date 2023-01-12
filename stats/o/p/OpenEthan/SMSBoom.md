@@ -1,10 +1,10 @@
 # OpenEthan/SMSBoom - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 2603
+☋ Forks: 2615
 
-★ Stars: 10316
+★ Stars: 10386
 
 [Open repository](https://github.com/OpenEthan/SMSBoom)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 10386 | 2615 | 
 | 2023-01-10 | 10316 | 2603 | 
 | 2023-01-09 | 10243 | 2585 | 
 | 2023-01-08 | 10223 | 2579 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 9987 | 2534 | 
 | 2022-12-15 | 9944 | 2528 | 
 | 2022-12-14 | 9931 | 2524 | 
-| 2022-12-13 | 9827 | 2506 | 
 

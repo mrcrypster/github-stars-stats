@@ -1,10 +1,10 @@
 # migueldeicaza/gui.cs - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 585
+☋ Forks: 584
 
-★ Stars: 7824
+★ Stars: 7827
 
 [Open repository](https://github.com/migueldeicaza/gui.cs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 7827 | 584 | 
 | 2023-01-10 | 7824 | 585 | 
 | 2023-01-09 | 7819 | 585 | 
 | 2023-01-08 | 7815 | 584 | 

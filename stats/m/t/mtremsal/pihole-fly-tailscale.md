@@ -1,10 +1,10 @@
 # mtremsal/pihole-fly-tailscale - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 2
 
-★ Stars: 96
+★ Stars: 97
 
 [Open repository](https://github.com/mtremsal/pihole-fly-tailscale)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 97 | 2 | 
 | 2023-01-10 | 96 | 2 | 
 | 2023-01-09 | 96 | 2 | 
 | 2023-01-08 | 96 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 94 | 2 | 
 | 2022-12-14 | 94 | 2 | 
 | 2022-12-13 | 94 | 2 | 
-| 2022-12-12 | 94 | 2 | 
 

@@ -1,10 +1,10 @@
 # himanshugarg08/flutter_give_collect_money - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 65
 
-★ Stars: 180
+★ Stars: 181
 
 [Open repository](https://github.com/himanshugarg08/flutter_give_collect_money)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 181 | 65 | 
 | 2023-01-10 | 180 | 65 | 
 | 2023-01-09 | 180 | 65 | 
 | 2023-01-08 | 180 | 65 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 181 | 65 | 
 | 2022-12-15 | 181 | 65 | 
 | 2022-12-14 | 181 | 65 | 
-| 2022-12-12 | 181 | 65 | 
 

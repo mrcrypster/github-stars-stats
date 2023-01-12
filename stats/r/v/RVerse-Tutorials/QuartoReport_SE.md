@@ -1,10 +1,10 @@
 # RVerse-Tutorials/QuartoReport_SE - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 14
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/RVerse-Tutorials/QuartoReport_SE)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 10 | 14 | 
 | 2023-01-10 | 9 | 14 | 
 | 2023-01-09 | 9 | 14 | 
 | 2023-01-08 | 9 | 14 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 9 | 14 | 
 | 2022-12-15 | 9 | 14 | 
 | 2022-12-14 | 9 | 14 | 
-| 2022-12-12 | 9 | 14 | 
 

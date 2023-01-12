@@ -1,6 +1,6 @@
 # ombharatiya/FAANG-Coding-Interview-Questions - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 455
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 1278 | 455 | 
 | 2023-01-10 | 1278 | 455 | 
 | 2023-01-09 | 1276 | 454 | 
 | 2023-01-08 | 1272 | 452 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 1239 | 444 | 
 | 2022-12-15 | 1239 | 444 | 
 | 2022-12-13 | 1239 | 443 | 
-| 2022-12-12 | 1239 | 442 | 
 

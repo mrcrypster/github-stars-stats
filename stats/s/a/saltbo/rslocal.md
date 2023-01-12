@@ -1,10 +1,10 @@
 # saltbo/rslocal - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 12
 
-★ Stars: 221
+★ Stars: 222
 
 [Open repository](https://github.com/saltbo/rslocal)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 222 | 12 | 
 | 2023-01-10 | 221 | 12 | 
 | 2023-01-09 | 220 | 12 | 
 | 2023-01-08 | 220 | 12 | 

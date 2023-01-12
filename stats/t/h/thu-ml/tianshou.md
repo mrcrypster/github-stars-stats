@@ -1,10 +1,10 @@
 # thu-ml/tianshou - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 882
 
-★ Stars: 5559
+★ Stars: 5564
 
 [Open repository](https://github.com/thu-ml/tianshou)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 5564 | 882 | 
 | 2023-01-10 | 5559 | 882 | 
 | 2023-01-09 | 5559 | 881 | 
 | 2023-01-08 | 5555 | 881 | 

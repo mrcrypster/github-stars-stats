@@ -1,6 +1,6 @@
 # jtlandis/ggside - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 266 | 8 | 
 | 2023-01-10 | 266 | 8 | 
 | 2023-01-09 | 265 | 8 | 
 | 2023-01-08 | 265 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 264 | 8 | 
 | 2022-12-14 | 264 | 8 | 
 | 2022-12-13 | 264 | 8 | 
-| 2022-12-12 | 263 | 8 | 
 

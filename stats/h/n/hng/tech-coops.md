@@ -1,6 +1,6 @@
 # hng/tech-coops - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 155
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 1674 | 155 | 
 | 2023-01-10 | 1674 | 155 | 
 | 2023-01-09 | 1673 | 155 | 
 | 2023-01-08 | 1673 | 155 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 1664 | 155 | 
 | 2022-12-15 | 1664 | 155 | 
 | 2022-12-14 | 1664 | 154 | 
-| 2022-12-13 | 1664 | 154 | 
 

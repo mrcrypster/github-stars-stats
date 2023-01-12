@@ -1,8 +1,8 @@
 # urbit/urbit - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 335
+☋ Forks: 336
 
 ★ Stars: 3299
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 3299 | 336 | 
 | 2023-01-10 | 3299 | 335 | 
 | 2023-01-09 | 3299 | 335 | 
 | 2023-01-08 | 3298 | 335 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 3290 | 332 | 
 | 2022-12-14 | 3290 | 332 | 
 | 2022-12-13 | 3290 | 332 | 
-| 2022-12-12 | 3289 | 332 | 
 

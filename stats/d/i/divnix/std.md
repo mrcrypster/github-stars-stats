@@ -1,6 +1,6 @@
 # divnix/std - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 22
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 179 | 22 | 
+| 2023-01-11 | 179 | 22 | 
 | 2023-01-10 | 179 | 22 | 
 | 2023-01-09 | 179 | 22 | 
 | 2023-01-08 | 178 | 22 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 164 | 21 | 
 | 2022-12-14 | 162 | 21 | 
 | 2022-12-13 | 162 | 21 | 
-| 2022-12-12 | 162 | 21 | 
 

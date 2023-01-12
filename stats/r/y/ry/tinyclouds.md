@@ -1,10 +1,10 @@
 # ry/tinyclouds - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 46
 
-★ Stars: 219
+★ Stars: 221
 
 [Open repository](https://github.com/ry/tinyclouds)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 221 | 46 | 
 | 2023-01-10 | 219 | 46 | 
 | 2023-01-09 | 219 | 45 | 
 | 2023-01-08 | 219 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 217 | 45 | 
 | 2022-12-14 | 216 | 45 | 
 | 2022-12-13 | 216 | 45 | 
-| 2022-12-12 | 216 | 45 | 
 

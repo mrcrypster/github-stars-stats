@@ -1,6 +1,6 @@
 # H4kor/graph-force - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 159 | - | 
 | 2023-01-10 | 159 | - | 
 | 2023-01-09 | 159 | - | 
 | 2023-01-08 | 159 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 159 | - | 
 | 2022-12-15 | 157 | - | 
 | 2022-12-13 | 157 | - | 
-| 2022-12-12 | 157 | - | 
 

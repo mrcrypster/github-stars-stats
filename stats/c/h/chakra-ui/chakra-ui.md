@@ -1,10 +1,10 @@
 # chakra-ui/chakra-ui - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 2738
 
-★ Stars: 30601
+★ Stars: 30635
 
 [Open repository](https://github.com/chakra-ui/chakra-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 30635 | 2738 | 
 | 2023-01-10 | 30601 | 2738 | 
 | 2023-01-09 | 30579 | 2739 | 
 | 2023-01-08 | 30557 | 2739 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 30196 | 2706 | 
 | 2022-12-15 | 30177 | 2704 | 
 | 2022-12-14 | 30169 | 2704 | 
-| 2022-12-12 | 30119 | 2698 | 
 

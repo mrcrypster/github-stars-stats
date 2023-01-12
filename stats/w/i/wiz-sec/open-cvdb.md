@@ -1,6 +1,6 @@
 # wiz-sec/open-cvdb - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 205 | 31 | 
 | 2023-01-10 | 205 | 31 | 
 | 2023-01-09 | 205 | 31 | 
 | 2023-01-08 | 205 | 31 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 202 | 29 | 
 | 2022-12-15 | 202 | 29 | 
 | 2022-12-14 | 201 | 27 | 
-| 2022-12-12 | 201 | 27 | 
 

@@ -1,10 +1,10 @@
 # lxgw/LxgwNeoXiHei - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 5
+☋ Forks: 6
 
-★ Stars: 498
+★ Stars: 528
 
 [Open repository](https://github.com/lxgw/LxgwNeoXiHei)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 528 | 6 | 
 | 2023-01-10 | 498 | 5 | 
 | 2023-01-09 | 451 | 4 | 
 | 2023-01-08 | 404 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 203 | 1 | 
 | 2022-12-15 | 203 | 1 | 
 | 2022-12-14 | 203 | 1 | 
-| 2022-12-13 | 201 | 1 | 
 

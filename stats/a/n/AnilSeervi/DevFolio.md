@@ -1,10 +1,10 @@
 # AnilSeervi/DevFolio - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 51
 
-★ Stars: 156
+★ Stars: 157
 
 [Open repository](https://github.com/AnilSeervi/DevFolio)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 157 | 51 | 
 | 2023-01-10 | 156 | 51 | 
 | 2023-01-09 | 156 | 51 | 
 | 2023-01-08 | 155 | 51 | 

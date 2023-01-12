@@ -1,6 +1,6 @@
 # Jarvis-Ank/Re-Vanced - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 87 | 16 | 
 | 2023-01-10 | 87 | 16 | 
 | 2023-01-09 | 87 | 16 | 
 | 2023-01-08 | 87 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 86 | 15 | 
 | 2022-12-14 | 86 | 15 | 
 | 2022-12-13 | 85 | 15 | 
-| 2022-12-12 | 85 | 15 | 
 

@@ -1,6 +1,6 @@
 # SteveSandersonMS/dotnet-wasi-sdk - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 406 | 33 | 
 | 2023-01-10 | 406 | 33 | 
 | 2023-01-09 | 405 | 33 | 
 | 2023-01-08 | 404 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 386 | 30 | 
 | 2022-12-14 | 386 | 30 | 
 | 2022-12-13 | 384 | 30 | 
-| 2022-12-12 | 384 | 29 | 
 

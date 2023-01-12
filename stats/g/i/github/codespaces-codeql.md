@@ -1,6 +1,6 @@
 # github/codespaces-codeql - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 20 | 1 | 
 | 2023-01-10 | 20 | 1 | 
 | 2023-01-09 | 20 | 1 | 
 | 2023-01-08 | 20 | 1 | 

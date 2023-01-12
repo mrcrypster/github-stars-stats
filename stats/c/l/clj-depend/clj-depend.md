@@ -1,6 +1,6 @@
 # clj-depend/clj-depend - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 30 | 5 | 
 | 2023-01-10 | 30 | 5 | 
 | 2023-01-09 | 29 | 5 | 
 | 2023-01-08 | 29 | 5 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 28 | 5 | 
 | 2022-12-15 | 28 | 5 | 
 | 2022-12-14 | 28 | 5 | 
-| 2022-12-12 | 28 | 5 | 
 

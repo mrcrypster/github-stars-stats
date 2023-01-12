@@ -1,6 +1,6 @@
 # AzureAD/microsoft-authentication-library-for-objc - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 131
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 206 | 131 | 
 | 2023-01-10 | 206 | 131 | 
 | 2023-01-09 | 206 | 131 | 
 | 2023-01-08 | 206 | 131 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 204 | 131 | 
 | 2022-12-14 | 204 | 131 | 
 | 2022-12-13 | 204 | 131 | 
-| 2022-12-12 | 203 | 131 | 
 

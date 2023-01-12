@@ -1,10 +1,10 @@
 # membraneframework/membrane_core - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 21
 
-★ Stars: 901
+★ Stars: 902
 
 [Open repository](https://github.com/membraneframework/membrane_core)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 902 | 21 | 
 | 2023-01-10 | 901 | 21 | 
 | 2023-01-09 | 900 | 21 | 
 | 2023-01-08 | 898 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 888 | 22 | 
 | 2022-12-14 | 888 | 22 | 
 | 2022-12-13 | 888 | 22 | 
-| 2022-12-12 | 888 | 22 | 
 

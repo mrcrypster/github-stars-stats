@@ -1,10 +1,10 @@
 # GoogleChrome/developer.chrome.com - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 1204
+☋ Forks: 1205
 
-★ Stars: 1145
+★ Stars: 1147
 
 [Open repository](https://github.com/GoogleChrome/developer.chrome.com)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 1147 | 1205 | 
 | 2023-01-10 | 1145 | 1204 | 
 | 2023-01-09 | 1142 | 1202 | 
 | 2023-01-08 | 1141 | 1201 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 1100 | 1159 | 
 | 2022-12-14 | 1098 | 1155 | 
 | 2022-12-13 | 1091 | 1155 | 
-| 2022-12-12 | 1089 | 1151 | 
 

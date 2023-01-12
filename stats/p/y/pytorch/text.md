@@ -1,10 +1,10 @@
 # pytorch/text - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 768
 
-★ Stars: 3178
+★ Stars: 3181
 
 [Open repository](https://github.com/pytorch/text)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 3181 | 768 | 
 | 2023-01-10 | 3178 | 768 | 
 | 2023-01-09 | 3178 | 768 | 
 | 2023-01-08 | 3178 | 768 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 3163 | 763 | 
 | 2022-12-15 | 3163 | 763 | 
 | 2022-12-13 | 3163 | 763 | 
-| 2022-12-12 | 3161 | 762 | 
 

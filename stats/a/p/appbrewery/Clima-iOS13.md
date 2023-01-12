@@ -1,8 +1,8 @@
 # appbrewery/Clima-iOS13 - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 394
+☋ Forks: 395
 
 ★ Stars: 57
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 57 | 395 | 
 | 2023-01-10 | 57 | 394 | 
 | 2023-01-09 | 57 | 394 | 
 | 2023-01-08 | 57 | 394 | 

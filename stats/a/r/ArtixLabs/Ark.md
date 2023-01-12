@@ -1,10 +1,10 @@
 # ArtixLabs/Ark - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 0
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/ArtixLabs/Ark)
 
@@ -13,5 +13,6 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 7 | - | 
 | 2023-01-10 | 6 | - | 
 

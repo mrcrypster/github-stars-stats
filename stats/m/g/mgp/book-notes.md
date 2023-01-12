@@ -1,10 +1,10 @@
 # mgp/book-notes - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 648
 
-★ Stars: 3207
+★ Stars: 3208
 
 [Open repository](https://github.com/mgp/book-notes)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 3208 | 648 | 
 | 2023-01-10 | 3207 | 648 | 
 | 2023-01-08 | 3205 | 646 | 
 | 2023-01-07 | 3202 | 646 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 3162 | 639 | 
 | 2022-12-15 | 3159 | 637 | 
 | 2022-12-13 | 3153 | 635 | 
-| 2022-12-12 | 3152 | 635 | 
 

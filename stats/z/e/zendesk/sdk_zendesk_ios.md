@@ -1,10 +1,10 @@
 # zendesk/sdk_zendesk_ios - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 6
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/zendesk/sdk_zendesk_ios)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 4 | 6 | 
 | 2023-01-10 | 3 | 6 | 
 | 2023-01-09 | 3 | 6 | 
 | 2023-01-08 | 3 | 6 | 

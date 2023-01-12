@@ -1,6 +1,6 @@
 # binary-com/perl-Mojo-WebSocketProxy - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 1 | 30 | 
 | 2023-01-10 | 1 | 30 | 
 | 2023-01-09 | 1 | 30 | 
 | 2023-01-08 | 1 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 1 | 30 | 
 | 2022-12-14 | 1 | 30 | 
 | 2022-12-13 | 1 | 30 | 
-| 2022-12-12 | 1 | 30 | 
 

@@ -1,6 +1,6 @@
 # AdaCore/templates-parser - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 4 | 18 | 
 | 2023-01-11 | 4 | 18 | 
 | 2023-01-09 | 4 | 18 | 
 | 2023-01-08 | 4 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 4 | 18 | 
 | 2022-12-15 | 4 | 18 | 
 | 2022-12-14 | 5 | 18 | 
-| 2022-12-12 | 5 | 18 | 
 

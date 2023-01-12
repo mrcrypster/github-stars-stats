@@ -1,10 +1,10 @@
 # mhkeller/layercake - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 27
 
-★ Stars: 727
+★ Stars: 730
 
 [Open repository](https://github.com/mhkeller/layercake)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 730 | 27 | 
 | 2023-01-10 | 727 | 27 | 
 | 2023-01-09 | 727 | 27 | 
 | 2023-01-08 | 727 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 711 | 25 | 
 | 2022-12-14 | 710 | 25 | 
 | 2022-12-13 | 709 | 25 | 
-| 2022-12-12 | 708 | 25 | 
 

@@ -1,6 +1,6 @@
 # teunbrand/ggh4x - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 380 | 25 | 
 | 2023-01-10 | 380 | 25 | 
 | 2023-01-09 | 380 | 25 | 
 | 2023-01-08 | 379 | 25 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 372 | 25 | 
 | 2022-12-15 | 372 | 25 | 
 | 2022-12-14 | 372 | 25 | 
-| 2022-12-12 | 372 | 25 | 
 

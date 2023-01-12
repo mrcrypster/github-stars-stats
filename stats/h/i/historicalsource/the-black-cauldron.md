@@ -1,10 +1,10 @@
 # historicalsource/the-black-cauldron - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 0
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/historicalsource/the-black-cauldron)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 12 | - | 
 | 2023-01-10 | 11 | - | 
 | 2023-01-09 | 11 | - | 
 | 2023-01-08 | 11 | - | 

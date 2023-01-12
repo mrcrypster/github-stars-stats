@@ -1,6 +1,6 @@
 # Bogdanp/racket-lua - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 48 | 3 | 
 | 2023-01-10 | 48 | 3 | 
 | 2023-01-09 | 48 | 3 | 
 | 2023-01-08 | 48 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 47 | 3 | 
 | 2022-12-15 | 47 | 3 | 
 | 2022-12-13 | 48 | 3 | 
-| 2022-12-12 | 48 | 3 | 
 

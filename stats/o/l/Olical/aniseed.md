@@ -1,10 +1,10 @@
 # Olical/aniseed - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 26
 
-★ Stars: 490
+★ Stars: 492
 
 [Open repository](https://github.com/Olical/aniseed)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 492 | 26 | 
 | 2023-01-10 | 490 | 26 | 
 | 2023-01-09 | 490 | 26 | 
 | 2023-01-08 | 490 | 26 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 489 | 26 | 
 | 2022-12-15 | 490 | 26 | 
 | 2022-12-14 | 490 | 26 | 
-| 2022-12-12 | 490 | 26 | 
 

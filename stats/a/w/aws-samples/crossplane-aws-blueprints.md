@@ -1,6 +1,6 @@
 # aws-samples/crossplane-aws-blueprints - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 158 | 44 | 
 | 2023-01-10 | 158 | 44 | 
 | 2023-01-09 | 158 | 42 | 
 | 2023-01-08 | 157 | 41 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 149 | 41 | 
 | 2022-12-15 | 149 | 41 | 
 | 2022-12-14 | 149 | 41 | 
-| 2022-12-12 | 148 | 40 | 
 

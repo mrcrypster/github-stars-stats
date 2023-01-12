@@ -1,6 +1,6 @@
 # palantir/gradle-npm-run-plugin - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 9
 
@@ -13,5 +13,6 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 20 | 9 | 
 | 2023-01-10 | 20 | 9 | 
 

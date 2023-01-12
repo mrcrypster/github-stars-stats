@@ -1,10 +1,10 @@
 # CadeEvs/FrostyToolsuite - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 58
 
-★ Stars: 186
+★ Stars: 187
 
 [Open repository](https://github.com/CadeEvs/FrostyToolsuite)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 187 | 58 | 
 | 2023-01-10 | 186 | 58 | 
 | 2023-01-09 | 186 | 58 | 
 | 2023-01-08 | 186 | 58 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 171 | 53 | 
 | 2022-12-14 | 171 | 53 | 
 | 2022-12-13 | 171 | 53 | 
-| 2022-12-12 | 170 | 53 | 
 

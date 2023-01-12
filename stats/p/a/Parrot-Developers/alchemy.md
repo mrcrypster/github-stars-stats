@@ -1,0 +1,18 @@
+# Parrot-Developers/alchemy - stars & forks statistics
+
+Stats updated on Jan 2023, 12
+
+☋ Forks: 16
+
+★ Stars: 16
+
+[Open repository](https://github.com/Parrot-Developers/alchemy)
+
+[Open detailed stats for Parrot-Developers/alchemy](https://reviewgithub.com/rep/Parrot-Developers/alchemy)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-01-12 | 16 | 16 | 
+| 2023-01-11 | 16 | 16 | 
+

@@ -1,6 +1,6 @@
 # intel/linux-sgx - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 490
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 1084 | 490 | 
 | 2023-01-10 | 1084 | 490 | 
 | 2023-01-09 | 1084 | 491 | 
 | 2023-01-08 | 1083 | 491 | 

@@ -1,10 +1,10 @@
 # webrtc/samples - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 5616
+☋ Forks: 5615
 
-★ Stars: 12503
+★ Stars: 12502
 
 [Open repository](https://github.com/webrtc/samples)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 12502 | 5615 | 
 | 2023-01-10 | 12503 | 5616 | 
 | 2023-01-09 | 12499 | 5617 | 
 | 2023-01-08 | 12496 | 5619 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 12437 | 5611 | 
 | 2022-12-14 | 12430 | 5609 | 
 | 2022-12-13 | 12429 | 5610 | 
-| 2022-12-12 | 12429 | 5608 | 
 

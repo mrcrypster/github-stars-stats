@@ -1,8 +1,8 @@
 # DevCloudFE/vue-devui - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 12
 
-☋ Forks: 239
+☋ Forks: 238
 
 ★ Stars: 631
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 631 | 238 | 
 | 2023-01-10 | 631 | 239 | 
 | 2023-01-09 | 630 | 239 | 
 | 2023-01-08 | 630 | 239 | 

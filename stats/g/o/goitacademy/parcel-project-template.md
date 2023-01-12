@@ -1,10 +1,10 @@
 # goitacademy/parcel-project-template - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 1326
+☋ Forks: 1327
 
-★ Stars: 285
+★ Stars: 288
 
 [Open repository](https://github.com/goitacademy/parcel-project-template)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 288 | 1327 | 
 | 2023-01-10 | 285 | 1326 | 
 | 2023-01-09 | 282 | 1322 | 
 | 2023-01-08 | 282 | 1321 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 269 | 1287 | 
 | 2022-12-14 | 268 | 1287 | 
 | 2022-12-13 | 268 | 1287 | 
-| 2022-12-12 | 268 | 1287 | 
 

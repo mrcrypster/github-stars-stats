@@ -1,10 +1,10 @@
 # ihub-pub/plugins - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 6
 
-★ Stars: 268
+★ Stars: 269
 
 [Open repository](https://github.com/ihub-pub/plugins)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 269 | 6 | 
 | 2023-01-10 | 268 | 6 | 
 | 2023-01-09 | 266 | 6 | 
 | 2023-01-08 | 266 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 235 | 6 | 
 | 2022-12-14 | 235 | 6 | 
 | 2022-12-13 | 234 | 6 | 
-| 2022-12-12 | 230 | 6 | 
 

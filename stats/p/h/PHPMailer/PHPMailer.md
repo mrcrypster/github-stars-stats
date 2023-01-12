@@ -1,10 +1,10 @@
 # PHPMailer/PHPMailer - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 9521
 
-★ Stars: 19077
+★ Stars: 19079
 
 [Open repository](https://github.com/PHPMailer/PHPMailer)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 19079 | 9521 | 
 | 2023-01-10 | 19077 | 9521 | 
 | 2023-01-09 | 19076 | 9525 | 
 | 2023-01-08 | 19067 | 9519 | 

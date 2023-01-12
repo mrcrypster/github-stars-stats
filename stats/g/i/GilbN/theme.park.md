@@ -1,6 +1,6 @@
 # GilbN/theme.park - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 566
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 1660 | 566 | 
 | 2023-01-10 | 1660 | 566 | 
 | 2023-01-09 | 1658 | 566 | 
 | 2023-01-08 | 1655 | 563 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 1631 | 552 | 
 | 2022-12-15 | 1631 | 552 | 
 | 2022-12-14 | 1631 | 552 | 
-| 2022-12-13 | 1629 | 552 | 
 

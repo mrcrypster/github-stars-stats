@@ -1,10 +1,10 @@
 # chklovski/CheckM2 - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 8
 
-★ Stars: 68
+★ Stars: 71
 
 [Open repository](https://github.com/chklovski/CheckM2)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 71 | 8 | 
 | 2023-01-10 | 68 | 8 | 
 | 2023-01-09 | 66 | 8 | 
 | 2023-01-08 | 64 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 57 | 7 | 
 | 2022-12-14 | 57 | 7 | 
 | 2022-12-13 | 57 | 7 | 
-| 2022-12-12 | 57 | 7 | 
 

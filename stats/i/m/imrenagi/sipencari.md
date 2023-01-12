@@ -1,6 +1,6 @@
 # imrenagi/sipencari - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 234 | 29 | 
 | 2023-01-10 | 234 | 29 | 
 | 2023-01-09 | 234 | 29 | 
 | 2023-01-08 | 234 | 29 | 

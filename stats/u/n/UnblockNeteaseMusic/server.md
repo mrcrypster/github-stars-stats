@@ -1,10 +1,10 @@
 # UnblockNeteaseMusic/server - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 370
 
-★ Stars: 3125
+★ Stars: 3127
 
 [Open repository](https://github.com/UnblockNeteaseMusic/server)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 3127 | 370 | 
 | 2023-01-10 | 3125 | 370 | 
 | 2023-01-09 | 3117 | 369 | 
 | 2023-01-08 | 3112 | 369 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 3035 | 363 | 
 | 2022-12-14 | 3028 | 362 | 
 | 2022-12-13 | 3019 | 361 | 
-| 2022-12-12 | 3012 | 361 | 
 

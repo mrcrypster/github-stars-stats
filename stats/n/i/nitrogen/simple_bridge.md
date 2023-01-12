@@ -1,6 +1,6 @@
 # nitrogen/simple_bridge - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 74
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 106 | 74 | 
 | 2023-01-10 | 106 | 74 | 
 | 2023-01-09 | 106 | 74 | 
 | 2023-01-07 | 106 | 74 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 106 | 74 | 
 | 2022-12-15 | 106 | 74 | 
 | 2022-12-14 | 106 | 74 | 
-| 2022-12-13 | 106 | 74 | 
 

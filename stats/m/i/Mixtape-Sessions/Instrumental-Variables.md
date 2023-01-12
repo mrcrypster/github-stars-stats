@@ -1,6 +1,6 @@
 # Mixtape-Sessions/Instrumental-Variables - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 55 | 68 | 
 | 2023-01-10 | 55 | 68 | 
 | 2023-01-09 | 55 | 68 | 
 | 2023-01-08 | 55 | 68 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 52 | 67 | 
 | 2022-12-15 | 52 | 67 | 
 | 2022-12-13 | 52 | 67 | 
-| 2022-12-12 | 52 | 67 | 
 

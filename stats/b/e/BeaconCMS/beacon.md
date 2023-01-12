@@ -1,10 +1,10 @@
 # BeaconCMS/beacon - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 27
 
-★ Stars: 342
+★ Stars: 343
 
 [Open repository](https://github.com/BeaconCMS/beacon)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 343 | 27 | 
 | 2023-01-10 | 342 | 27 | 
 | 2023-01-09 | 342 | 27 | 
 | 2023-01-08 | 341 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 319 | 25 | 
 | 2022-12-15 | 319 | 25 | 
 | 2022-12-14 | 317 | 25 | 
-| 2022-12-12 | 317 | 25 | 
 

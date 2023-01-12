@@ -1,6 +1,6 @@
 # zendesk/zendesk_jwt_sso_examples - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 83
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 137 | 83 | 
 | 2023-01-10 | 137 | 83 | 
 | 2023-01-09 | 137 | 83 | 
 | 2023-01-08 | 137 | 83 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 137 | 83 | 
 | 2022-12-15 | 137 | 83 | 
 | 2022-12-13 | 137 | 83 | 
-| 2022-12-12 | 137 | 83 | 
 

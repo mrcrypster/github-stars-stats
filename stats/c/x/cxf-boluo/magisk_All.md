@@ -1,6 +1,6 @@
 # cxf-boluo/magisk_All - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 298 | 75 | 
 | 2023-01-10 | 298 | 75 | 
 | 2023-01-09 | 298 | 75 | 
 | 2023-01-08 | 298 | 75 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 292 | 74 | 
 | 2022-12-15 | 292 | 74 | 
 | 2022-12-14 | 291 | 74 | 
-| 2022-12-13 | 290 | 73 | 
 

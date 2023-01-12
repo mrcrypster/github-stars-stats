@@ -1,10 +1,10 @@
 # skylot/jadx - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 12
 
-☋ Forks: 4145
+☋ Forks: 4148
 
-★ Stars: 32889
+★ Stars: 32898
 
 [Open repository](https://github.com/skylot/jadx)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 32898 | 4148 | 
 | 2023-01-10 | 32889 | 4145 | 
 | 2023-01-09 | 32882 | 4145 | 
 | 2023-01-08 | 32866 | 4144 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 32553 | 4125 | 
 | 2022-12-15 | 32550 | 4123 | 
 | 2022-12-14 | 32536 | 4120 | 
-| 2022-12-12 | 32528 | 4120 | 
 

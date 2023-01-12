@@ -1,10 +1,10 @@
 # whitenois3/ctf - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 0
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/whitenois3/ctf)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 14 | - | 
 | 2023-01-10 | 13 | - | 
 | 2023-01-09 | 13 | - | 
 | 2023-01-08 | 13 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 13 | - | 
 | 2022-12-15 | 13 | - | 
 | 2022-12-13 | 13 | - | 
-| 2022-12-12 | 13 | - | 
 

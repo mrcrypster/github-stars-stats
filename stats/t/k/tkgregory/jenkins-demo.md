@@ -1,6 +1,6 @@
 # tkgregory/jenkins-demo - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 157
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 28 | 157 | 
 | 2023-01-10 | 28 | 157 | 
 | 2023-01-09 | 28 | 157 | 
 | 2023-01-08 | 28 | 156 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 27 | 155 | 
 | 2022-12-15 | 27 | 155 | 
 | 2022-12-13 | 27 | 155 | 
-| 2022-12-12 | 27 | 155 | 
 

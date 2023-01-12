@@ -1,6 +1,6 @@
 # status-im/clj-rn - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 56 | 8 | 
 | 2023-01-10 | 56 | 8 | 
 | 2023-01-09 | 56 | 8 | 
 | 2023-01-08 | 56 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 56 | 8 | 
 | 2022-12-15 | 56 | 8 | 
 | 2022-12-13 | 56 | 8 | 
-| 2022-12-12 | 56 | 8 | 
 

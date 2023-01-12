@@ -1,6 +1,6 @@
 # linuxserver/docker-transmission - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 163
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 397 | 163 | 
 | 2023-01-10 | 397 | 163 | 
 | 2023-01-09 | 397 | 163 | 
 | 2023-01-08 | 396 | 163 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 393 | 164 | 
 | 2022-12-15 | 392 | 164 | 
 | 2022-12-13 | 392 | 164 | 
-| 2022-12-12 | 392 | 164 | 
 

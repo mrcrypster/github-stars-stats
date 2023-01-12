@@ -1,6 +1,6 @@
 # YorCreative/Laravel-UrlShortener - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 54 | 4 | 
 | 2023-01-10 | 54 | 4 | 
 | 2023-01-09 | 54 | 4 | 
 | 2023-01-08 | 54 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 50 | 4 | 
 | 2022-12-14 | 50 | 4 | 
 | 2022-12-13 | 50 | 4 | 
-| 2022-12-12 | 50 | 4 | 
 

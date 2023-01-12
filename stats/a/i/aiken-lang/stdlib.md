@@ -1,8 +1,8 @@
 # aiken-lang/stdlib - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 4
+☋ Forks: 5
 
 ★ Stars: 16
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 16 | 5 | 
 | 2023-01-11 | 16 | 4 | 
 | 2023-01-09 | 15 | 4 | 
 | 2023-01-08 | 15 | 3 | 

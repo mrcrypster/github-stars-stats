@@ -1,6 +1,6 @@
 # ArrowOS/android_bionic - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | - | 8 | 
 | 2023-01-10 | - | 8 | 
 | 2023-01-09 | - | 8 | 
 | 2023-01-08 | - | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | - | 12 | 
 | 2022-12-15 | - | 12 | 
 | 2022-12-14 | - | 12 | 
-| 2022-12-13 | - | 11 | 
 

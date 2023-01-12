@@ -1,6 +1,6 @@
 # damelang/nile - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 691 | 52 | 
 | 2023-01-10 | 691 | 52 | 
 | 2023-01-09 | 691 | 52 | 
 | 2023-01-08 | 691 | 52 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 687 | 52 | 
 | 2022-12-14 | 686 | 52 | 
 | 2022-12-13 | 686 | 52 | 
-| 2022-12-12 | 685 | 52 | 
 

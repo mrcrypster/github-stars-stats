@@ -1,6 +1,6 @@
 # victor-gp/cmd-help-sublime-syntax - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 10 | 2 | 
 | 2023-01-10 | 10 | 2 | 
 | 2023-01-09 | 10 | 2 | 
 | 2023-01-08 | 10 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 10 | 2 | 
 | 2022-12-15 | 10 | 2 | 
 | 2022-12-14 | 11 | 2 | 
-| 2022-12-13 | 11 | 2 | 
 

@@ -1,6 +1,6 @@
 # slyd0g/DLLHijackTest - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 290 | 53 | 
 | 2023-01-10 | 290 | 53 | 
 | 2023-01-09 | 290 | 53 | 
 | 2023-01-08 | 289 | 53 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 287 | 53 | 
 | 2022-12-15 | 287 | 53 | 
 | 2022-12-13 | 287 | 53 | 
-| 2022-12-12 | 287 | 53 | 
 

@@ -1,10 +1,10 @@
 # chieund/golang_learning - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 12
 
-☋ Forks: 56
+☋ Forks: 57
 
-★ Stars: 180
+★ Stars: 181
 
 [Open repository](https://github.com/chieund/golang_learning)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 181 | 57 | 
 | 2023-01-10 | 180 | 56 | 
 | 2023-01-09 | 179 | 56 | 
 | 2023-01-08 | 178 | 56 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 157 | 52 | 
 | 2022-12-15 | 155 | 51 | 
 | 2022-12-13 | 149 | 49 | 
-| 2022-12-12 | 143 | 46 | 
 

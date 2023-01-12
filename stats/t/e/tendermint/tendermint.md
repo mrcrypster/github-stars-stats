@@ -1,10 +1,10 @@
 # tendermint/tendermint - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 1924
+☋ Forks: 1926
 
-★ Stars: 5358
+★ Stars: 5361
 
 [Open repository](https://github.com/tendermint/tendermint)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 5361 | 1926 | 
 | 2023-01-10 | 5358 | 1924 | 
 | 2023-01-09 | 5356 | 1921 | 
 | 2023-01-08 | 5356 | 1921 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 5324 | 1884 | 
 | 2022-12-14 | 5323 | 1884 | 
 | 2022-12-13 | 5321 | 1881 | 
-| 2022-12-12 | 5316 | 1879 | 
 

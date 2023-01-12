@@ -1,10 +1,10 @@
 # gitlabhq/gitlabhq - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 5723
+☋ Forks: 5722
 
-★ Stars: 23117
+★ Stars: 23119
 
 [Open repository](https://github.com/gitlabhq/gitlabhq)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 23119 | 5722 | 
 | 2023-01-10 | 23117 | 5723 | 
 | 2023-01-09 | 23117 | 5723 | 
 | 2023-01-08 | 23117 | 5724 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 23101 | 5723 | 
 | 2022-12-15 | 23100 | 5721 | 
 | 2022-12-13 | 23101 | 5721 | 
-| 2022-12-12 | 23100 | 5722 | 
 

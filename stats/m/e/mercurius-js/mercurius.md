@@ -1,6 +1,6 @@
 # mercurius-js/mercurius - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 218
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 2005 | 218 | 
 | 2023-01-10 | 2005 | 218 | 
 | 2023-01-09 | 2003 | 218 | 
 | 2023-01-08 | 1997 | 218 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 1983 | 216 | 
 | 2022-12-15 | 1983 | 216 | 
 | 2022-12-13 | 1983 | 216 | 
-| 2022-12-12 | 1982 | 215 | 
 

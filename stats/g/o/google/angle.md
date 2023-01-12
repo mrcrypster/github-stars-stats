@@ -1,10 +1,10 @@
 # google/angle - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 522
 
-★ Stars: 2725
+★ Stars: 2726
 
 [Open repository](https://github.com/google/angle)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 2726 | 522 | 
 | 2023-01-10 | 2725 | 522 | 
 | 2023-01-09 | 2723 | 522 | 
 | 2023-01-08 | 2722 | 521 | 

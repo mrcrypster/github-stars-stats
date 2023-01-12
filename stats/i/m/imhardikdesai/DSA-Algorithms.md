@@ -1,6 +1,6 @@
 # imhardikdesai/DSA-Algorithms - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 71
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 26 | 71 | 
 | 2023-01-10 | 26 | 71 | 
 | 2023-01-09 | 26 | 71 | 
 | 2023-01-08 | 26 | 71 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 28 | 71 | 
 | 2022-12-15 | 28 | 71 | 
 | 2022-12-13 | 28 | 71 | 
-| 2022-12-12 | 28 | 71 | 
 

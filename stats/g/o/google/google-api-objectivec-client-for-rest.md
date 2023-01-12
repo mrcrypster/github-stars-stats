@@ -1,6 +1,6 @@
 # google/google-api-objectivec-client-for-rest - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 342
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 665 | 342 | 
 | 2023-01-10 | 665 | 342 | 
 | 2023-01-09 | 665 | 342 | 
 | 2023-01-08 | 665 | 342 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 659 | 341 | 
 | 2022-12-14 | 659 | 341 | 
 | 2022-12-13 | 659 | 341 | 
-| 2022-12-12 | 659 | 341 | 
 

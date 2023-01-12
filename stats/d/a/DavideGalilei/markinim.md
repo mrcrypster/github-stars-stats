@@ -1,10 +1,10 @@
 # DavideGalilei/markinim - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 10
 
-★ Stars: 45
+★ Stars: 46
 
 [Open repository](https://github.com/DavideGalilei/markinim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 46 | 10 | 
 | 2023-01-10 | 45 | 10 | 
 | 2023-01-09 | 45 | 10 | 
 | 2023-01-08 | 45 | 10 | 

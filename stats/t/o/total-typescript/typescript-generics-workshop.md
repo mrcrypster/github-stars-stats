@@ -1,10 +1,10 @@
 # total-typescript/typescript-generics-workshop - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 110
+☋ Forks: 111
 
-★ Stars: 1104
+★ Stars: 1107
 
 [Open repository](https://github.com/total-typescript/typescript-generics-workshop)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 1107 | 111 | 
 | 2023-01-10 | 1104 | 110 | 
 | 2023-01-09 | 1103 | 111 | 
 | 2023-01-08 | 1104 | 110 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-16 | 1074 | 98 | 
 | 2022-12-15 | 1074 | 98 | 
 | 2022-12-14 | 1072 | 98 | 
-| 2022-12-12 | 1071 | 97 | 
 

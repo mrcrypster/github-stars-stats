@@ -1,10 +1,10 @@
 # dtm-labs/dtm - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 874
+☋ Forks: 877
 
-★ Stars: 8156
+★ Stars: 8162
 
 [Open repository](https://github.com/dtm-labs/dtm)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 8162 | 877 | 
 | 2023-01-10 | 8156 | 874 | 
 | 2023-01-09 | 8147 | 873 | 
 | 2023-01-08 | 8145 | 873 | 

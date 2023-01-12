@@ -1,6 +1,6 @@
 # Ed-Fi-Alliance-OSS/Ed-Fi-Analytics-Middle-Tier - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 5 | 6 | 
 | 2023-01-10 | 5 | 6 | 
 | 2023-01-09 | 5 | 6 | 
 | 2023-01-08 | 5 | 6 | 

@@ -1,10 +1,10 @@
 # bigscience-workshop/bigscience - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 45
 
-★ Stars: 490
+★ Stars: 492
 
 [Open repository](https://github.com/bigscience-workshop/bigscience)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 492 | 45 | 
 | 2023-01-10 | 490 | 45 | 
 | 2023-01-09 | 489 | 45 | 
 | 2023-01-08 | 488 | 45 | 

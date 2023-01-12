@@ -1,6 +1,6 @@
 # FuseIsHere813/VsDave - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
 ☋ Forks: 104
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 34 | 104 | 
 | 2023-01-10 | 34 | 104 | 
 | 2023-01-09 | 34 | 104 | 
 | 2023-01-08 | 34 | 104 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 35 | 106 | 
 | 2022-12-14 | 35 | 106 | 
 | 2022-12-13 | 35 | 106 | 
-| 2022-12-12 | 35 | 106 | 
 

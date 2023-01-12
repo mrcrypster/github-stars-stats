@@ -1,10 +1,10 @@
 # i2Nav-WHU/Wheel-SLAM - stars & forks statistics
 
-Stats updated on Jan 2023, 10
+Stats updated on Jan 2023, 11
 
-☋ Forks: 6
+☋ Forks: 7
 
-★ Stars: 57
+★ Stars: 58
 
 [Open repository](https://github.com/i2Nav-WHU/Wheel-SLAM)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-11 | 58 | 7 | 
 | 2023-01-10 | 57 | 6 | 
 | 2023-01-09 | 57 | 6 | 
 | 2023-01-07 | 57 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 10
 | 2022-12-15 | 52 | 5 | 
 | 2022-12-14 | 53 | 5 | 
 | 2022-12-13 | 52 | 5 | 
-| 2022-12-12 | 51 | 5 | 
 
