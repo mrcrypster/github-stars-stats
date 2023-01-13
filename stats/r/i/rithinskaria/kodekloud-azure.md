@@ -1,8 +1,8 @@
 # rithinskaria/kodekloud-azure - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 61
+☋ Forks: 63
 
 ★ Stars: 24
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 24 | 63 | 
 | 2023-01-11 | 24 | 61 | 
 | 2023-01-10 | 24 | 61 | 
 | 2023-01-09 | 24 | 61 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 23 | 56 | 
 | 2022-12-15 | 23 | 56 | 
 | 2022-12-14 | 23 | 56 | 
-| 2022-12-13 | 23 | 55 | 
 

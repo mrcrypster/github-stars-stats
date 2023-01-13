@@ -1,6 +1,6 @@
 # ArztSamuel/Applying_EANNs - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 325
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 1257 | 325 | 
 | 2023-01-11 | 1257 | 325 | 
 | 2023-01-10 | 1257 | 325 | 
 | 2023-01-09 | 1257 | 325 | 

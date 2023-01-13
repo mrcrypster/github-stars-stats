@@ -1,8 +1,8 @@
 # Advent-Of-Vue/2022-gift-search-bar - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 25
+☋ Forks: 24
 
 ★ Stars: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 9 | 24 | 
 | 2023-01-12 | 9 | 25 | 
 | 2023-01-10 | 9 | 25 | 
 | 2023-01-09 | 9 | 25 | 

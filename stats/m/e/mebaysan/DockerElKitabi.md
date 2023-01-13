@@ -1,10 +1,10 @@
 # mebaysan/DockerElKitabi - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 37
 
-★ Stars: 231
+★ Stars: 233
 
 [Open repository](https://github.com/mebaysan/DockerElKitabi)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 233 | 37 | 
 | 2023-01-11 | 231 | 37 | 
 | 2023-01-10 | 231 | 37 | 
 | 2023-01-09 | 230 | 37 | 

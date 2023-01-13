@@ -1,8 +1,8 @@
 # ArrowOS/android_device_arrow_sepolicy - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 9
+☋ Forks: 8
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 1 | 8 | 
 | 2023-01-11 | 1 | 9 | 
 | 2023-01-10 | 1 | 9 | 
 | 2023-01-09 | 1 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 1 | 9 | 
 | 2022-12-16 | 1 | 9 | 
 | 2022-12-15 | 1 | 9 | 
-| 2022-12-13 | 1 | 9 | 
 

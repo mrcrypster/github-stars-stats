@@ -1,6 +1,6 @@
 # tier4/autoware_auto_msgs - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 8 | 10 | 
 | 2023-01-11 | 8 | 10 | 
 | 2023-01-10 | 8 | 10 | 
 | 2023-01-08 | 8 | 9 | 

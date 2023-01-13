@@ -1,10 +1,10 @@
 # chaossocial/about - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 11
 
-★ Stars: 104
+★ Stars: 103
 
 [Open repository](https://github.com/chaossocial/about)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 103 | 11 | 
 | 2023-01-11 | 104 | 11 | 
 | 2023-01-10 | 104 | 11 | 
 | 2023-01-09 | 104 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 104 | 11 | 
 | 2022-12-15 | 104 | 11 | 
 | 2022-12-14 | 105 | 11 | 
-| 2022-12-13 | 105 | 11 | 
 

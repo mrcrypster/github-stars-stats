@@ -1,8 +1,8 @@
 # cyrildiagne/ar-cptext - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 179
+☋ Forks: 180
 
 ★ Stars: 707
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 707 | 180 | 
 | 2023-01-12 | 707 | 179 | 
 | 2023-01-10 | 704 | 179 | 
 | 2023-01-09 | 698 | 178 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 699 | 178 | 
 | 2022-12-16 | 699 | 178 | 
 | 2022-12-15 | 699 | 178 | 
-| 2022-12-13 | 699 | 178 | 
 

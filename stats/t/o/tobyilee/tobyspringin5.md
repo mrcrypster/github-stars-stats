@@ -1,6 +1,6 @@
 # tobyilee/tobyspringin5 - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 67 | 20 | 
 | 2023-01-11 | 67 | 20 | 
 | 2023-01-10 | 67 | 20 | 
 | 2023-01-09 | 66 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 64 | 19 | 
 | 2022-12-15 | 64 | 19 | 
 | 2022-12-14 | 64 | 19 | 
-| 2022-12-13 | 64 | 19 | 
 

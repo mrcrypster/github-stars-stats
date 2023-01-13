@@ -1,10 +1,10 @@
 # askfiy/nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 23
 
-★ Stars: 159
+★ Stars: 160
 
 [Open repository](https://github.com/askfiy/nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 160 | 23 | 
 | 2023-01-11 | 159 | 23 | 
 | 2023-01-10 | 158 | 23 | 
 | 2023-01-09 | 158 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 155 | 24 | 
 | 2022-12-15 | 155 | 24 | 
 | 2022-12-14 | 156 | 24 | 
-| 2022-12-13 | 156 | 24 | 
 

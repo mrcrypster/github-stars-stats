@@ -1,6 +1,6 @@
 # starknet-edu/starknet-messaging-bridge - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 68 | 35 | 
 | 2023-01-11 | 68 | 35 | 
 | 2023-01-10 | 68 | 35 | 
 | 2023-01-09 | 68 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 66 | 33 | 
 | 2022-12-15 | 66 | 33 | 
 | 2022-12-14 | 66 | 33 | 
-| 2022-12-13 | 66 | 33 | 
 

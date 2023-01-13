@@ -1,10 +1,10 @@
 # CodingGay/BlackDex - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 954
 
-★ Stars: 4358
+★ Stars: 4362
 
 [Open repository](https://github.com/CodingGay/BlackDex)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 4362 | 954 | 
 | 2023-01-11 | 4358 | 954 | 
 | 2023-01-10 | 4356 | 953 | 
 | 2023-01-09 | 4350 | 954 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 4284 | 944 | 
 | 2022-12-16 | 4284 | 942 | 
 | 2022-12-15 | 4279 | 940 | 
-| 2022-12-13 | 4274 | 938 | 
 

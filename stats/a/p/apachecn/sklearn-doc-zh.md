@@ -1,6 +1,6 @@
 # apachecn/sklearn-doc-zh - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 1448
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 4790 | 1448 | 
 | 2023-01-11 | 4790 | 1448 | 
 | 2023-01-10 | 4790 | 1448 | 
 | 2023-01-09 | 4789 | 1448 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 4780 | 1447 | 
 | 2022-12-15 | 4778 | 1447 | 
 | 2022-12-14 | 4778 | 1448 | 
-| 2022-12-13 | 4778 | 1448 | 
 

@@ -1,6 +1,6 @@
 # shesek/trello-hide-lists - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 12 | 7 | 
 | 2023-01-11 | 12 | 7 | 
 | 2023-01-10 | 12 | 7 | 
 | 2023-01-09 | 12 | 7 | 
@@ -40,6 +41,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 12 | 7 | 
 | 2022-12-16 | 12 | 7 | 
 | 2022-12-15 | 12 | 7 | 
-| 2022-12-14 | 12 | 7 | 
-| 2022-12-13 | 12 | 7 | 
 

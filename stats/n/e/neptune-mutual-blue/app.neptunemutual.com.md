@@ -1,10 +1,10 @@
 # neptune-mutual-blue/app.neptunemutual.com - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 33
 
-★ Stars: 628
+★ Stars: 627
 
 [Open repository](https://github.com/neptune-mutual-blue/app.neptunemutual.com)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 627 | 33 | 
 | 2023-01-11 | 628 | 33 | 
 | 2023-01-10 | 628 | 33 | 
 | 2023-01-09 | 628 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 627 | 33 | 
 | 2022-12-15 | 627 | 33 | 
 | 2022-12-14 | 628 | 32 | 
-| 2022-12-13 | 628 | 32 | 
 

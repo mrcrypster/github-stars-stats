@@ -1,10 +1,10 @@
 # Kubulambula/Godot-GDShell - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 3
 
-★ Stars: 62
+★ Stars: 64
 
 [Open repository](https://github.com/Kubulambula/Godot-GDShell)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 64 | 3 | 
 | 2023-01-11 | 62 | 3 | 
 | 2023-01-10 | 62 | 3 | 
 | 2023-01-09 | 62 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 49 | - | 
 | 2022-12-16 | 48 | - | 
 | 2022-12-15 | 47 | - | 
-| 2022-12-13 | 47 | - | 
 

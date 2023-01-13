@@ -1,6 +1,6 @@
 # pjones/plasma-manager - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 80 | 5 | 
 | 2023-01-11 | 80 | 5 | 
 | 2023-01-10 | 80 | 5 | 
 | 2023-01-09 | 78 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 70 | 5 | 
 | 2022-12-15 | 67 | 4 | 
 | 2022-12-14 | 67 | 4 | 
-| 2022-12-13 | 67 | 4 | 
 

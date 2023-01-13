@@ -1,10 +1,10 @@
 # salvo-rs/salvo - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 72
 
-★ Stars: 1208
+★ Stars: 1213
 
 [Open repository](https://github.com/salvo-rs/salvo)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 1213 | 72 | 
 | 2023-01-11 | 1208 | 72 | 
 | 2023-01-09 | 1206 | 72 | 
 | 2023-01-08 | 1204 | 72 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 1119 | 67 | 
 | 2022-12-16 | 1117 | 67 | 
 | 2022-12-15 | 1113 | 66 | 
-| 2022-12-14 | 1112 | 66 | 
 

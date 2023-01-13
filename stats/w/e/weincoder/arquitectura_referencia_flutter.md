@@ -1,10 +1,10 @@
 # weincoder/arquitectura_referencia_flutter - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 19
 
-★ Stars: 101
+★ Stars: 102
 
 [Open repository](https://github.com/weincoder/arquitectura_referencia_flutter)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 102 | 19 | 
 | 2023-01-11 | 101 | 19 | 
 | 2023-01-10 | 101 | 19 | 
 | 2023-01-08 | 100 | 19 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 94 | 14 | 
 | 2022-12-16 | 94 | 14 | 
 | 2022-12-15 | 94 | 14 | 
-| 2022-12-14 | 95 | 14 | 
 

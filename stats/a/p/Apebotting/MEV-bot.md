@@ -1,8 +1,8 @@
 # Apebotting/MEV-bot - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 55
+☋ Forks: 56
 
 ★ Stars: 208
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 208 | 56 | 
 | 2023-01-11 | 208 | 55 | 
 | 2023-01-10 | 208 | 55 | 
 | 2023-01-09 | 207 | 55 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 207 | 55 | 
 | 2022-12-15 | 207 | 55 | 
 | 2022-12-14 | 206 | 55 | 
-| 2022-12-13 | 206 | 55 | 
 

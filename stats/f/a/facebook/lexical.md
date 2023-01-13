@@ -1,10 +1,10 @@
 # facebook/lexical - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 738
+☋ Forks: 739
 
-★ Stars: 12820
+★ Stars: 12843
 
 [Open repository](https://github.com/facebook/lexical)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 12843 | 739 | 
 | 2023-01-11 | 12820 | 738 | 
 | 2023-01-10 | 12813 | 736 | 
 | 2023-01-09 | 12791 | 732 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 12527 | 666 | 
 | 2022-12-15 | 12520 | 665 | 
 | 2022-12-14 | 12513 | 662 | 
-| 2022-12-13 | 12496 | 661 | 
 

@@ -1,6 +1,6 @@
 # ARMmbed/mbed-os-example-blinky - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 154
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 39 | 154 | 
 | 2023-01-11 | 39 | 154 | 
 | 2023-01-10 | 39 | 153 | 
 | 2023-01-09 | 39 | 153 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 39 | 152 | 
 | 2022-12-16 | 39 | 152 | 
 | 2022-12-15 | 39 | 152 | 
-| 2022-12-13 | 39 | 153 | 
 

@@ -1,10 +1,10 @@
 # Zack-Dx/Mini-TODO - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 63
 
-★ Stars: 40
+★ Stars: 41
 
 [Open repository](https://github.com/Zack-Dx/Mini-TODO)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 41 | 63 | 
 | 2023-01-11 | 40 | 63 | 
 | 2023-01-10 | 40 | 63 | 
 | 2023-01-09 | 40 | 63 | 

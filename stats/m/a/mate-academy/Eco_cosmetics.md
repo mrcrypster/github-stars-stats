@@ -1,8 +1,8 @@
 # mate-academy/Eco_cosmetics - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 225
+☋ Forks: 224
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 1 | 224 | 
 | 2023-01-11 | 1 | 225 | 
 | 2023-01-10 | 1 | 224 | 
 | 2023-01-09 | 1 | 224 | 

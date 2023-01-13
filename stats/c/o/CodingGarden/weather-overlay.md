@@ -1,6 +1,6 @@
 # CodingGarden/weather-overlay - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 4 | 5 | 
 | 2023-01-11 | 4 | 5 | 
 | 2023-01-10 | 4 | 5 | 
 | 2023-01-09 | 4 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 4 | 5 | 
 | 2022-12-16 | 4 | 5 | 
 | 2022-12-15 | 4 | 5 | 
-| 2022-12-13 | 4 | 5 | 
 

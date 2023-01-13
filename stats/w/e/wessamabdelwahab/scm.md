@@ -1,6 +1,6 @@
 # wessamabdelwahab/scm - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 93
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | - | 93 | 
 | 2023-01-11 | - | 93 | 
 | 2023-01-10 | - | 93 | 
 | 2023-01-09 | - | 93 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | - | 94 | 
 | 2022-12-15 | - | 94 | 
 | 2022-12-14 | - | 94 | 
-| 2022-12-13 | - | 94 | 
 

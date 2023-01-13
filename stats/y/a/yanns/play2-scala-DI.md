@@ -1,6 +1,6 @@
 # yanns/play2-scala-DI - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 3
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 8 | 3 | 
+| 2023-01-12 | 8 | 3 | 
 | 2023-01-11 | 8 | 3 | 
 | 2023-01-10 | 8 | 3 | 
 | 2023-01-09 | 8 | 3 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 8 | 3 | 
 | 2022-12-16 | 8 | 3 | 
 | 2022-12-15 | 8 | 3 | 
-| 2022-12-13 | 8 | 3 | 
 

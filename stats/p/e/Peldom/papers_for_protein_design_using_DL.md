@@ -1,10 +1,10 @@
 # Peldom/papers_for_protein_design_using_DL - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 54
 
-★ Stars: 350
+★ Stars: 351
 
 [Open repository](https://github.com/Peldom/papers_for_protein_design_using_DL)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 351 | 54 | 
 | 2023-01-11 | 350 | 54 | 
 | 2023-01-10 | 347 | 54 | 
 | 2023-01-09 | 346 | 54 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 320 | 51 | 
 | 2022-12-15 | 319 | 50 | 
 | 2022-12-14 | 318 | 50 | 
-| 2022-12-13 | 317 | 49 | 
 

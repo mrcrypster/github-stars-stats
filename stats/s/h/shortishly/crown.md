@@ -1,6 +1,6 @@
 # shortishly/crown - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 1 | 1 | 
 | 2023-01-11 | 1 | 1 | 
 | 2023-01-10 | 1 | 1 | 
 | 2023-01-09 | 1 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 1 | 1 | 
 | 2022-12-15 | 1 | 1 | 
 | 2022-12-14 | 1 | 1 | 
-| 2022-12-13 | 1 | 1 | 
 

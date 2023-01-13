@@ -1,8 +1,8 @@
 # jpmonettas/hansel - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 15
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 15 | 2 | 
 | 2023-01-11 | 15 | 1 | 
 | 2023-01-10 | 15 | 1 | 
 | 2023-01-09 | 15 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 12 | - | 
 | 2022-12-15 | 12 | - | 
 | 2022-12-14 | 13 | - | 
-| 2022-12-13 | 13 | - | 
 

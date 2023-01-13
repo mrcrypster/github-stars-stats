@@ -1,6 +1,6 @@
 # learn-co-curriculum/hs-zhw-shoes-layout - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 122
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | - | 122 | 
 | 2023-01-11 | - | 122 | 
 | 2023-01-10 | - | 122 | 
 | 2023-01-09 | - | 122 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | - | 123 | 
 | 2022-12-15 | - | 123 | 
 | 2022-12-14 | - | 123 | 
-| 2022-12-13 | - | 123 | 
 

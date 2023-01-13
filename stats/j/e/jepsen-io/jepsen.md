@@ -1,10 +1,10 @@
 # jepsen-io/jepsen - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 672
 
-★ Stars: 5940
+★ Stars: 5942
 
 [Open repository](https://github.com/jepsen-io/jepsen)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 5942 | 672 | 
 | 2023-01-11 | 5940 | 672 | 
 | 2023-01-10 | 5937 | 672 | 
 | 2023-01-09 | 5937 | 672 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 5920 | 671 | 
 | 2022-12-16 | 5919 | 671 | 
 | 2022-12-15 | 5919 | 671 | 
-| 2022-12-13 | 5919 | 671 | 
 

@@ -1,6 +1,6 @@
 # 12Knocksinna/Office365itpros - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 372
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 709 | 372 | 
 | 2023-01-11 | 709 | 372 | 
 | 2023-01-10 | 709 | 371 | 
 | 2023-01-09 | 709 | 370 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 693 | 368 | 
 | 2022-12-15 | 693 | 367 | 
 | 2022-12-14 | 691 | 368 | 
-| 2022-12-13 | 690 | 365 | 
 

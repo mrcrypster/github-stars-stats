@@ -1,10 +1,10 @@
 # apache/ambari - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 1536
+☋ Forks: 1537
 
-★ Stars: 1818
+★ Stars: 1820
 
 [Open repository](https://github.com/apache/ambari)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 1820 | 1537 | 
 | 2023-01-11 | 1818 | 1536 | 
 | 2023-01-10 | 1818 | 1534 | 
 | 2023-01-09 | 1817 | 1534 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 1797 | 1523 | 
 | 2022-12-15 | 1797 | 1523 | 
 | 2022-12-14 | 1794 | 1523 | 
-| 2022-12-13 | 1792 | 1522 | 
 

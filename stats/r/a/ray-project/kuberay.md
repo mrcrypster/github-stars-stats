@@ -1,10 +1,10 @@
 # ray-project/kuberay - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 95
 
-★ Stars: 242
+★ Stars: 243
 
 [Open repository](https://github.com/ray-project/kuberay)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 243 | 95 | 
 | 2023-01-11 | 242 | 95 | 
 | 2023-01-10 | 241 | 95 | 
 | 2023-01-09 | 240 | 95 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 229 | 90 | 
 | 2022-12-16 | 229 | 90 | 
 | 2022-12-15 | 226 | 88 | 
-| 2022-12-13 | 227 | 87 | 
 

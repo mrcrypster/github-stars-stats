@@ -1,6 +1,6 @@
 # othree/html5.vim - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 79
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 928 | 79 | 
 | 2023-01-11 | 928 | 79 | 
 | 2023-01-10 | 928 | 79 | 
 | 2023-01-09 | 928 | 79 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 928 | 79 | 
 | 2022-12-16 | 928 | 79 | 
 | 2022-12-15 | 928 | 79 | 
-| 2022-12-14 | 928 | 79 | 
 

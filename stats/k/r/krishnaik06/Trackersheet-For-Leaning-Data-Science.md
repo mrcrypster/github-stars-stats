@@ -1,10 +1,10 @@
 # krishnaik06/Trackersheet-For-Leaning-Data-Science - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 22
 
-★ Stars: 48
+★ Stars: 49
 
 [Open repository](https://github.com/krishnaik06/Trackersheet-For-Leaning-Data-Science)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 49 | 22 | 
 | 2023-01-11 | 48 | 22 | 
 | 2023-01-10 | 48 | 22 | 
 | 2023-01-09 | 48 | 22 | 

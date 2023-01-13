@@ -1,6 +1,6 @@
 # KadeDev/Hex-The-Weekend-Update - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 19 | 37 | 
 | 2023-01-12 | 19 | 37 | 
 | 2023-01-10 | 19 | 37 | 
 | 2023-01-09 | 19 | 37 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-16 | 20 | 36 | 
 | 2022-12-15 | 20 | 36 | 
 | 2022-12-14 | 20 | 36 | 
-| 2022-12-13 | 20 | 36 | 
 

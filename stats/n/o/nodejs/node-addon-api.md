@@ -1,10 +1,10 @@
 # nodejs/node-addon-api - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 438
 
-★ Stars: 1676
+★ Stars: 1679
 
 [Open repository](https://github.com/nodejs/node-addon-api)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 1679 | 438 | 
 | 2023-01-11 | 1676 | 438 | 
 | 2023-01-10 | 1674 | 438 | 
 | 2023-01-09 | 1675 | 438 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 1655 | 436 | 
 | 2022-12-15 | 1655 | 436 | 
 | 2022-12-14 | 1654 | 436 | 
-| 2022-12-13 | 1653 | 436 | 
 

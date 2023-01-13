@@ -1,10 +1,10 @@
 # whitequark/parser - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 192
 
-★ Stars: 1456
+★ Stars: 1457
 
 [Open repository](https://github.com/whitequark/parser)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 1457 | 192 | 
 | 2023-01-11 | 1456 | 192 | 
 | 2023-01-10 | 1456 | 192 | 
 | 2023-01-09 | 1456 | 192 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 1449 | 187 | 
 | 2022-12-15 | 1448 | 187 | 
 | 2022-12-14 | 1448 | 187 | 
-| 2022-12-13 | 1449 | 187 | 
 

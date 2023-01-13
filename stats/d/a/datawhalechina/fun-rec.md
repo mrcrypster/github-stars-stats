@@ -1,10 +1,10 @@
 # datawhalechina/fun-rec - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 543
 
-★ Stars: 2084
+★ Stars: 2088
 
 [Open repository](https://github.com/datawhalechina/fun-rec)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 2088 | 543 | 
 | 2023-01-11 | 2084 | 543 | 
 | 2023-01-10 | 2082 | 542 | 
 | 2023-01-09 | 2078 | 541 | 

@@ -1,10 +1,10 @@
 # izelnakri/paper_trail - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 81
 
-★ Stars: 506
+★ Stars: 508
 
 [Open repository](https://github.com/izelnakri/paper_trail)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 508 | 81 | 
 | 2023-01-11 | 506 | 81 | 
 | 2023-01-10 | 506 | 81 | 
 | 2023-01-09 | 506 | 81 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 504 | 80 | 
 | 2022-12-16 | 503 | 80 | 
 | 2022-12-15 | 503 | 80 | 
-| 2022-12-13 | 503 | 80 | 
 

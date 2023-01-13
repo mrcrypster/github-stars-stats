@@ -1,10 +1,10 @@
 # koekeishiya/skhd - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 154
 
-★ Stars: 3512
+★ Stars: 3514
 
 [Open repository](https://github.com/koekeishiya/skhd)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 3514 | 154 | 
 | 2023-01-11 | 3512 | 154 | 
 | 2023-01-10 | 3512 | 154 | 
 | 2023-01-09 | 3510 | 154 | 

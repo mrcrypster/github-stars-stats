@@ -1,10 +1,10 @@
 # suman-shah/How-To-create-some-common-stuff-in-web - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 53
+☋ Forks: 52
 
-★ Stars: 50
+★ Stars: 49
 
 [Open repository](https://github.com/suman-shah/How-To-create-some-common-stuff-in-web)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 49 | 52 | 
 | 2023-01-11 | 50 | 53 | 
 | 2023-01-10 | 50 | 53 | 
 | 2023-01-09 | 50 | 53 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 50 | 53 | 
 | 2022-12-15 | 50 | 53 | 
 | 2022-12-14 | 50 | 53 | 
-| 2022-12-13 | 50 | 53 | 
 

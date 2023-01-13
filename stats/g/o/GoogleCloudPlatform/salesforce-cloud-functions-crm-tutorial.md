@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/salesforce-cloud-functions-crm-tutorial - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 8
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 10 | 8 | 
+| 2023-01-12 | 10 | 8 | 
 | 2023-01-11 | 10 | 8 | 
 | 2023-01-10 | 10 | 8 | 
 | 2023-01-09 | 10 | 8 | 

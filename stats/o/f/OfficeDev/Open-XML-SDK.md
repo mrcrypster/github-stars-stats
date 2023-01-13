@@ -1,10 +1,10 @@
 # OfficeDev/Open-XML-SDK - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 520
 
-★ Stars: 3388
+★ Stars: 3390
 
 [Open repository](https://github.com/OfficeDev/Open-XML-SDK)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 3390 | 520 | 
 | 2023-01-11 | 3388 | 520 | 
 | 2023-01-10 | 3385 | 520 | 
 | 2023-01-09 | 3384 | 520 | 

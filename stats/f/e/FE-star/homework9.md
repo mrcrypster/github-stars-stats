@@ -1,6 +1,6 @@
 # FE-star/homework9 - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | - | 29 | 
 | 2023-01-11 | - | 29 | 
 | 2023-01-10 | - | 29 | 
 | 2023-01-09 | - | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | - | 30 | 
 | 2022-12-16 | - | 30 | 
 | 2022-12-15 | - | 30 | 
-| 2022-12-13 | - | 30 | 
 

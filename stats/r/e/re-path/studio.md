@@ -1,6 +1,6 @@
 # re-path/studio - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 31 | - | 
 | 2023-01-11 | 31 | - | 
 | 2023-01-10 | 31 | - | 
 | 2023-01-09 | 31 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 30 | - | 
 | 2022-12-15 | 30 | - | 
 | 2022-12-14 | 30 | - | 
-| 2022-12-13 | 30 | - | 
 

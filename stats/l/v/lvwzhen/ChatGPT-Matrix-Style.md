@@ -1,8 +1,8 @@
 # lvwzhen/ChatGPT-Matrix-Style - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 13
 
-☋ Forks: 7
+☋ Forks: 8
 
 ★ Stars: 66
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 66 | 8 | 
 | 2023-01-11 | 66 | 7 | 
 | 2023-01-10 | 65 | 7 | 
 | 2023-01-09 | 64 | 7 | 

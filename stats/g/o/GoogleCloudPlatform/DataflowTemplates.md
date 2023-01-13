@@ -1,10 +1,10 @@
 # GoogleCloudPlatform/DataflowTemplates - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 739
+☋ Forks: 740
 
-★ Stars: 935
+★ Stars: 934
 
 [Open repository](https://github.com/GoogleCloudPlatform/DataflowTemplates)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 934 | 740 | 
 | 2023-01-11 | 935 | 739 | 
 | 2023-01-10 | 935 | 738 | 
 | 2023-01-09 | 935 | 738 | 

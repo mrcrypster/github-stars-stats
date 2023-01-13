@@ -1,6 +1,6 @@
 # Fnoberz/COD-Spoofer - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 18 | 7 | 
 | 2023-01-11 | 18 | 7 | 
 | 2023-01-10 | 17 | 7 | 
 | 2023-01-09 | 16 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 16 | 5 | 
 | 2022-12-15 | 16 | 5 | 
 | 2022-12-14 | 17 | 5 | 
-| 2022-12-13 | 17 | 5 | 
 

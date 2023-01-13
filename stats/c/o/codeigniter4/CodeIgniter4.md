@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 12
 
-☋ Forks: 1709
+☋ Forks: 1710
 
-★ Stars: 4498
+★ Stars: 4499
 
 [Open repository](https://github.com/codeigniter4/CodeIgniter4)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-12 | 4498 | 1709 | 
+| 2023-01-12 | 4499 | 1710 | 
 | 2023-01-11 | 4497 | 1709 | 
 | 2023-01-10 | 4496 | 1705 | 
 | 2023-01-09 | 4497 | 1704 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 4461 | 1702 | 
 | 2022-12-16 | 4459 | 1702 | 
 | 2022-12-15 | 4459 | 1702 | 
-| 2022-12-13 | 4460 | 1702 | 
 

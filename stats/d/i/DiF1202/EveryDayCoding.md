@@ -1,10 +1,10 @@
 # DiF1202/EveryDayCoding - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 8
 
-★ Stars: 72
+★ Stars: 75
 
 [Open repository](https://github.com/DiF1202/EveryDayCoding)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 75 | 8 | 
 | 2023-01-11 | 72 | 8 | 
 | 2023-01-10 | 72 | 8 | 
 | 2023-01-09 | 72 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 68 | 8 | 
 | 2022-12-16 | 68 | 8 | 
 | 2022-12-15 | 68 | 8 | 
-| 2022-12-13 | 68 | 8 | 
 

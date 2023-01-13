@@ -1,10 +1,10 @@
 # elementor/elementor - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 1192
 
-★ Stars: 4889
+★ Stars: 4888
 
 [Open repository](https://github.com/elementor/elementor)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 4888 | 1192 | 
 | 2023-01-11 | 4889 | 1192 | 
 | 2023-01-10 | 4889 | 1192 | 
 | 2023-01-09 | 4884 | 1190 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 4857 | 1182 | 
 | 2022-12-15 | 4853 | 1182 | 
 | 2022-12-14 | 4844 | 1182 | 
-| 2022-12-13 | 4834 | 1181 | 
 

@@ -1,8 +1,8 @@
 # qbcore-framework/qb-vehiclesales - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 168
+☋ Forks: 167
 
 ★ Stars: 19
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 19 | 167 | 
 | 2023-01-11 | 19 | 168 | 
 | 2023-01-10 | 19 | 168 | 
 | 2023-01-09 | 19 | 167 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 16 | 165 | 
 | 2022-12-16 | 16 | 164 | 
 | 2022-12-15 | 16 | 164 | 
-| 2022-12-13 | 16 | 163 | 
 

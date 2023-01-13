@@ -1,8 +1,8 @@
 # exercism/elixir - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 338
+☋ Forks: 339
 
 ★ Stars: 530
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 530 | 339 | 
 | 2023-01-11 | 530 | 338 | 
 | 2023-01-10 | 530 | 338 | 
 | 2023-01-09 | 530 | 338 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 528 | 335 | 
 | 2022-12-15 | 528 | 335 | 
 | 2022-12-14 | 529 | 335 | 
-| 2022-12-13 | 528 | 333 | 
 

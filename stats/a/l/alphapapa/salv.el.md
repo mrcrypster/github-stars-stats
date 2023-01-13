@@ -1,6 +1,6 @@
 # alphapapa/salv.el - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 29 | 2 | 
 | 2023-01-11 | 29 | 2 | 
 | 2023-01-10 | 29 | 2 | 
 | 2023-01-09 | 29 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 29 | 2 | 
 | 2022-12-15 | 29 | 2 | 
 | 2022-12-14 | 29 | 2 | 
-| 2022-12-13 | 29 | 2 | 
 

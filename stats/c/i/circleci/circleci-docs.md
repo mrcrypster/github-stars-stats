@@ -1,8 +1,8 @@
 # circleci/circleci-docs - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 1317
+☋ Forks: 1319
 
 ★ Stars: 705
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 705 | 1319 | 
 | 2023-01-11 | 705 | 1317 | 
 | 2023-01-10 | 705 | 1317 | 
 | 2023-01-09 | 707 | 1316 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 704 | 1312 | 
 | 2022-12-15 | 704 | 1311 | 
 | 2022-12-14 | 704 | 1309 | 
-| 2022-12-13 | 704 | 1309 | 
 

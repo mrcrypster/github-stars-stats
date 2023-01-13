@@ -1,6 +1,6 @@
 # OmniSharp/omnisharp-vim - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 164
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 1523 | 164 | 
 | 2023-01-11 | 1523 | 164 | 
 | 2023-01-10 | 1523 | 164 | 
 | 2023-01-09 | 1523 | 164 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 1514 | 164 | 
 | 2022-12-15 | 1513 | 164 | 
 | 2022-12-14 | 1513 | 164 | 
-| 2022-12-13 | 1513 | 164 | 
 

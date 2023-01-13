@@ -1,6 +1,6 @@
 # feenkcom/gt4changes - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 0
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | - | - | 
+| 2023-01-12 | - | - | 
 | 2023-01-11 | - | - | 
 | 2023-01-10 | - | - | 
 | 2023-01-09 | - | - | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | - | - | 
 | 2022-12-16 | - | - | 
 | 2022-12-15 | - | - | 
-| 2022-12-13 | - | - | 
 

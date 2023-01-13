@@ -1,10 +1,10 @@
 # nezavisimost/liberty-ios - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 4
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/nezavisimost/liberty-ios)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 37 | 4 | 
 | 2023-01-11 | 36 | 4 | 
 | 2023-01-10 | 36 | 4 | 
 | 2023-01-09 | 34 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 32 | 3 | 
 | 2022-12-15 | 32 | 3 | 
 | 2022-12-14 | 32 | 3 | 
-| 2022-12-13 | 32 | 3 | 
 

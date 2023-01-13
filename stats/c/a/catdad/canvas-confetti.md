@@ -1,8 +1,8 @@
 # catdad/canvas-confetti - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 216
+☋ Forks: 217
 
 ★ Stars: 4631
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 4631 | 217 | 
 | 2023-01-11 | 4631 | 216 | 
 | 2023-01-10 | 4629 | 216 | 
 | 2023-01-09 | 4623 | 217 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 4481 | 208 | 
 | 2022-12-16 | 4480 | 208 | 
 | 2022-12-15 | 4477 | 208 | 
-| 2022-12-14 | 4467 | 208 | 
 

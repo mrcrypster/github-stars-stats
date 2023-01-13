@@ -1,10 +1,10 @@
 # tjhorner/upsy-desky - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 6
 
-★ Stars: 259
+★ Stars: 261
 
 [Open repository](https://github.com/tjhorner/upsy-desky)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 261 | 6 | 
 | 2023-01-11 | 259 | 6 | 
 | 2023-01-10 | 258 | 6 | 
 | 2023-01-09 | 257 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 232 | 6 | 
 | 2022-12-15 | 232 | 6 | 
 | 2022-12-14 | 231 | 6 | 
-| 2022-12-13 | 231 | 6 | 
 

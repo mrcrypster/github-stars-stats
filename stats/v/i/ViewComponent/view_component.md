@@ -1,6 +1,6 @@
 # ViewComponent/view_component - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 353
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 2768 | 353 | 
 | 2023-01-11 | 2768 | 353 | 
 | 2023-01-09 | 2767 | 353 | 
 | 2023-01-08 | 2766 | 352 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 2750 | 350 | 
 | 2022-12-15 | 2750 | 351 | 
 | 2022-12-14 | 2750 | 350 | 
-| 2022-12-13 | 2750 | 350 | 
 

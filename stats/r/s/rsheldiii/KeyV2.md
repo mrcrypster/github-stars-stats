@@ -1,6 +1,6 @@
 # rsheldiii/KeyV2 - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 154
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 1134 | 154 | 
 | 2023-01-11 | 1134 | 154 | 
 | 2023-01-10 | 1134 | 154 | 
 | 2023-01-09 | 1134 | 154 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 1115 | 152 | 
 | 2022-12-15 | 1114 | 152 | 
 | 2022-12-14 | 1114 | 152 | 
-| 2022-12-13 | 1114 | 152 | 
 

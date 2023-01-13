@@ -1,6 +1,6 @@
 # doocs/md - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 493
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 3625 | 493 | 
 | 2023-01-11 | 3625 | 493 | 
 | 2023-01-10 | 3617 | 491 | 
 | 2023-01-08 | 3615 | 491 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 3586 | 490 | 
 | 2022-12-15 | 3584 | 490 | 
 | 2022-12-14 | 3583 | 491 | 
-| 2022-12-13 | 3582 | 490 | 
 

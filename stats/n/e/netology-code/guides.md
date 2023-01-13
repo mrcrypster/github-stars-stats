@@ -1,10 +1,10 @@
 # netology-code/guides - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 332
 
-★ Stars: 150
+★ Stars: 151
 
 [Open repository](https://github.com/netology-code/guides)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 151 | 332 | 
 | 2023-01-11 | 150 | 332 | 
 | 2023-01-10 | 149 | 330 | 
 | 2023-01-09 | 149 | 330 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 148 | 316 | 
 | 2022-12-16 | 147 | 317 | 
 | 2022-12-15 | 147 | 317 | 
-| 2022-12-13 | 147 | 317 | 
 

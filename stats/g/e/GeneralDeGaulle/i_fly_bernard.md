@@ -1,6 +1,6 @@
 # GeneralDeGaulle/i_fly_bernard - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 88 | 7 | 
 | 2023-01-11 | 88 | 7 | 
 | 2023-01-10 | 87 | 7 | 
 | 2023-01-09 | 87 | 7 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 87 | 7 | 
 | 2022-12-16 | 87 | 7 | 
 | 2022-12-15 | 87 | 7 | 
-| 2022-12-14 | 87 | 7 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 12
 
-☋ Forks: 1742
+☋ Forks: 1746
 
-★ Stars: 11548
+★ Stars: 11562
 
 [Open repository](https://github.com/openai/CLIP)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-12 | 11548 | 1742 | 
+| 2023-01-12 | 11562 | 1746 | 
 | 2023-01-11 | 11547 | 1741 | 
 | 2023-01-10 | 11531 | 1736 | 
 | 2023-01-09 | 11510 | 1736 | 

@@ -1,10 +1,10 @@
 # bedimcode/responsive-portfolio-website-Alexa - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 1083
+☋ Forks: 1084
 
-★ Stars: 1291
+★ Stars: 1292
 
 [Open repository](https://github.com/bedimcode/responsive-portfolio-website-Alexa)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 1292 | 1084 | 
 | 2023-01-11 | 1291 | 1083 | 
 | 2023-01-10 | 1290 | 1083 | 
 | 2023-01-09 | 1290 | 1083 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 1261 | 1064 | 
 | 2022-12-15 | 1261 | 1064 | 
 | 2022-12-14 | 1259 | 1062 | 
-| 2022-12-13 | 1257 | 1060 | 
 

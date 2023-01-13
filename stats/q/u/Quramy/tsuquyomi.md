@@ -1,6 +1,6 @@
 # Quramy/tsuquyomi - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 1373 | 73 | 
 | 2023-01-12 | 1373 | 73 | 
 | 2023-01-10 | 1374 | 73 | 
 | 2023-01-09 | 1374 | 73 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 1371 | 73 | 
 | 2022-12-16 | 1371 | 73 | 
 | 2022-12-15 | 1371 | 73 | 
-| 2022-12-14 | 1371 | 73 | 
 

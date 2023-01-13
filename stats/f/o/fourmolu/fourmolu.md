@@ -1,10 +1,10 @@
 # fourmolu/fourmolu - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 38
 
-★ Stars: 226
+★ Stars: 229
 
 [Open repository](https://github.com/fourmolu/fourmolu)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 229 | 38 | 
 | 2023-01-11 | 226 | 38 | 
 | 2023-01-10 | 226 | 38 | 
 | 2023-01-09 | 226 | 38 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 219 | 37 | 
 | 2022-12-15 | 219 | 37 | 
 | 2022-12-14 | 219 | 37 | 
-| 2022-12-13 | 219 | 36 | 
 

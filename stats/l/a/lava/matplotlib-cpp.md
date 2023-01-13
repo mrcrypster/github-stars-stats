@@ -1,10 +1,10 @@
 # lava/matplotlib-cpp - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 956
+☋ Forks: 958
 
-★ Stars: 3580
+★ Stars: 3583
 
 [Open repository](https://github.com/lava/matplotlib-cpp)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 3583 | 958 | 
 | 2023-01-11 | 3580 | 956 | 
 | 2023-01-10 | 3578 | 957 | 
 | 2023-01-09 | 3575 | 957 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 3544 | 949 | 
 | 2022-12-15 | 3544 | 949 | 
 | 2022-12-14 | 3542 | 949 | 
-| 2022-12-13 | 3541 | 947 | 
 

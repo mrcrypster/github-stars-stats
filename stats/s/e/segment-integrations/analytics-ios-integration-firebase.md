@@ -1,6 +1,6 @@
 # segment-integrations/analytics-ios-integration-firebase - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 82
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 12 | 82 | 
 | 2023-01-11 | 12 | 82 | 
 | 2023-01-10 | 12 | 82 | 
 | 2023-01-09 | 12 | 82 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 12 | 82 | 
 | 2022-12-15 | 12 | 82 | 
 | 2022-12-14 | 12 | 82 | 
-| 2022-12-13 | 12 | 82 | 
 

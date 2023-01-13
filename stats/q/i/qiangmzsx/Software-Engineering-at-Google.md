@@ -1,10 +1,10 @@
 # qiangmzsx/Software-Engineering-at-Google - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 389
+☋ Forks: 391
 
-★ Stars: 3136
+★ Stars: 3141
 
 [Open repository](https://github.com/qiangmzsx/Software-Engineering-at-Google)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 3141 | 391 | 
 | 2023-01-11 | 3136 | 389 | 
 | 2023-01-10 | 3133 | 389 | 
 | 2023-01-09 | 3132 | 388 | 

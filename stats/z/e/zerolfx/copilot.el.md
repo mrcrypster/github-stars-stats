@@ -1,10 +1,10 @@
 # zerolfx/copilot.el - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 26
 
-★ Stars: 534
+★ Stars: 537
 
 [Open repository](https://github.com/zerolfx/copilot.el)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 537 | 26 | 
 | 2023-01-11 | 534 | 26 | 
 | 2023-01-10 | 533 | 26 | 
 | 2023-01-09 | 532 | 26 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 502 | 21 | 
 | 2022-12-15 | 498 | 21 | 
 | 2022-12-14 | 493 | 21 | 
-| 2022-12-13 | 493 | 21 | 
 

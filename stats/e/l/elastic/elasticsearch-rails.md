@@ -1,6 +1,6 @@
 # elastic/elasticsearch-rails - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 773
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 2984 | 773 | 
 | 2023-01-12 | 2984 | 773 | 
 | 2023-01-10 | 2985 | 773 | 
 | 2023-01-09 | 2985 | 773 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 2983 | 774 | 
 | 2022-12-16 | 2982 | 775 | 
 | 2022-12-15 | 2981 | 775 | 
-| 2022-12-13 | 2980 | 775 | 
 

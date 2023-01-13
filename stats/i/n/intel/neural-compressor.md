@@ -1,10 +1,10 @@
 # intel/neural-compressor - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 139
 
-★ Stars: 867
+★ Stars: 871
 
 [Open repository](https://github.com/intel/neural-compressor)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 871 | 139 | 
 | 2023-01-11 | 867 | 139 | 
 | 2023-01-10 | 866 | 139 | 
 | 2023-01-09 | 864 | 138 | 

@@ -1,10 +1,10 @@
 # darold/pgbadger - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 306
 
-★ Stars: 2874
+★ Stars: 2875
 
 [Open repository](https://github.com/darold/pgbadger)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 2875 | 306 | 
 | 2023-01-11 | 2874 | 306 | 
 | 2023-01-10 | 2873 | 306 | 
 | 2023-01-09 | 2870 | 307 | 

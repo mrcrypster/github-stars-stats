@@ -1,10 +1,10 @@
 # Quorafind/Obsidian-Memos - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 37
 
-★ Stars: 559
+★ Stars: 562
 
 [Open repository](https://github.com/Quorafind/Obsidian-Memos)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 562 | 37 | 
 | 2023-01-11 | 559 | 37 | 
 | 2023-01-10 | 557 | 37 | 
 | 2023-01-09 | 554 | 36 | 

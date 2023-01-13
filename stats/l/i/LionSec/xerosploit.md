@@ -1,6 +1,6 @@
 # LionSec/xerosploit - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 643
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 1759 | 643 | 
 | 2023-01-11 | 1759 | 643 | 
 | 2023-01-10 | 1758 | 643 | 
 | 2023-01-09 | 1758 | 643 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 1745 | 642 | 
 | 2022-12-16 | 1745 | 642 | 
 | 2022-12-15 | 1742 | 643 | 
-| 2022-12-13 | 1741 | 643 | 
 

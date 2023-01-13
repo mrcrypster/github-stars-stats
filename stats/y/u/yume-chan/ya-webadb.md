@@ -1,10 +1,10 @@
 # yume-chan/ya-webadb - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 157
 
-★ Stars: 1004
+★ Stars: 1005
 
 [Open repository](https://github.com/yume-chan/ya-webadb)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 1005 | 157 | 
 | 2023-01-11 | 1004 | 157 | 
 | 2023-01-10 | 1001 | 157 | 
 | 2023-01-09 | 1000 | 157 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 967 | 152 | 
 | 2022-12-15 | 967 | 152 | 
 | 2022-12-14 | 964 | 152 | 
-| 2022-12-13 | 963 | 151 | 
 

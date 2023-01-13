@@ -1,6 +1,6 @@
 # home-assistant/operating-system - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 738
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 2931 | 738 | 
 | 2023-01-11 | 2931 | 738 | 
 | 2023-01-10 | 2927 | 738 | 
 | 2023-01-09 | 2923 | 738 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 2880 | 736 | 
 | 2022-12-15 | 2875 | 734 | 
 | 2022-12-14 | 2874 | 734 | 
-| 2022-12-13 | 2863 | 735 | 
 

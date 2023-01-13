@@ -1,6 +1,6 @@
 # katiejolly/nationalparkcolors - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 202 | 15 | 
 | 2023-01-11 | 202 | 15 | 
 | 2023-01-10 | 202 | 15 | 
 | 2023-01-09 | 202 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 202 | 15 | 
 | 2022-12-15 | 202 | 15 | 
 | 2022-12-14 | 202 | 15 | 
-| 2022-12-13 | 202 | 15 | 
 

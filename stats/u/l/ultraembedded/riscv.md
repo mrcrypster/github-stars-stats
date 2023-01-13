@@ -1,8 +1,8 @@
 # ultraembedded/riscv - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 160
+☋ Forks: 159
 
 ★ Stars: 702
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 702 | 159 | 
 | 2023-01-11 | 702 | 160 | 
 | 2023-01-10 | 702 | 160 | 
 | 2023-01-09 | 702 | 159 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 694 | 158 | 
 | 2022-12-15 | 695 | 158 | 
 | 2022-12-14 | 695 | 158 | 
-| 2022-12-13 | 694 | 158 | 
 

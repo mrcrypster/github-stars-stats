@@ -1,6 +1,6 @@
 # vercel/beginner-sveltekit - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 66 | 9 | 
 | 2023-01-11 | 66 | 9 | 
 | 2023-01-10 | 66 | 9 | 
 | 2023-01-09 | 65 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 63 | 5 | 
 | 2022-12-15 | 63 | 5 | 
 | 2022-12-14 | 61 | 5 | 
-| 2022-12-13 | 61 | 5 | 
 

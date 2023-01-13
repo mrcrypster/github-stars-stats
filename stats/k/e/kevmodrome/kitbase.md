@@ -1,10 +1,10 @@
 # kevmodrome/kitbase - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 3
 
-★ Stars: 40
+★ Stars: 41
 
 [Open repository](https://github.com/kevmodrome/kitbase)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 41 | 3 | 
 | 2023-01-11 | 40 | 3 | 
 | 2023-01-10 | 39 | 3 | 
 | 2023-01-08 | 39 | 3 | 

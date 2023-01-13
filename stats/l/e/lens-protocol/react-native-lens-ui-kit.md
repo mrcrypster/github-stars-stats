@@ -1,6 +1,6 @@
 # lens-protocol/react-native-lens-ui-kit - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 326 | 30 | 
 | 2023-01-11 | 326 | 30 | 
 | 2023-01-10 | 325 | 30 | 
 | 2023-01-09 | 325 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 287 | 20 | 
 | 2022-12-15 | 283 | 19 | 
 | 2022-12-14 | 280 | 19 | 
-| 2022-12-13 | 270 | 18 | 
 

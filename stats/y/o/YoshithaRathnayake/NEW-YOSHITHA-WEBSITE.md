@@ -1,10 +1,10 @@
 # YoshithaRathnayake/NEW-YOSHITHA-WEBSITE - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 28
+☋ Forks: 27
 
-★ Stars: 11
+★ Stars: 10
 
 [Open repository](https://github.com/YoshithaRathnayake/NEW-YOSHITHA-WEBSITE)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 10 | 27 | 
 | 2023-01-11 | 11 | 28 | 
 | 2023-01-10 | 11 | 28 | 
 | 2023-01-09 | 11 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 8 | 26 | 
 | 2022-12-16 | 8 | 26 | 
 | 2022-12-15 | 8 | 26 | 
-| 2022-12-13 | 9 | 26 | 
 

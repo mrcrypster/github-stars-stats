@@ -1,10 +1,10 @@
 # SunWeb3Sec/DeFiVulnLabs - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 115
 
-★ Stars: 752
+★ Stars: 755
 
 [Open repository](https://github.com/SunWeb3Sec/DeFiVulnLabs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 755 | 115 | 
 | 2023-01-11 | 752 | 115 | 
 | 2023-01-10 | 749 | 114 | 
 | 2023-01-09 | 749 | 114 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 668 | 95 | 
 | 2022-12-15 | 665 | 95 | 
 | 2022-12-14 | 660 | 95 | 
-| 2022-12-13 | 658 | 94 | 
 

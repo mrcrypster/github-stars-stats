@@ -1,8 +1,8 @@
 # pingcap/docs-cn - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 1152
+☋ Forks: 1151
 
 ★ Stars: 1754
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 1754 | 1151 | 
 | 2023-01-11 | 1754 | 1152 | 
 | 2023-01-10 | 1754 | 1153 | 
 | 2023-01-09 | 1754 | 1152 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 1751 | 1148 | 
 | 2022-12-15 | 1751 | 1148 | 
 | 2022-12-14 | 1752 | 1148 | 
-| 2022-12-13 | 1752 | 1148 | 
 

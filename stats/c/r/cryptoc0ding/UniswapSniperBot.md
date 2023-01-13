@@ -1,10 +1,10 @@
 # cryptoc0ding/UniswapSniperBot - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 83
 
-★ Stars: 100
+★ Stars: 102
 
 [Open repository](https://github.com/cryptoc0ding/UniswapSniperBot)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 102 | 83 | 
 | 2023-01-11 | 100 | 83 | 
 | 2023-01-10 | 99 | 83 | 
 | 2023-01-09 | 99 | 83 | 

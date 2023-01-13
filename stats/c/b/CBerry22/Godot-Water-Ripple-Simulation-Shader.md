@@ -1,6 +1,6 @@
 # CBerry22/Godot-Water-Ripple-Simulation-Shader - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 22 | 1 | 
 | 2023-01-11 | 22 | 1 | 
 | 2023-01-10 | 22 | 1 | 
 | 2023-01-09 | 22 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 20 | 1 | 
 | 2022-12-15 | 20 | 1 | 
 | 2022-12-14 | 20 | 1 | 
-| 2022-12-13 | 20 | 1 | 
 

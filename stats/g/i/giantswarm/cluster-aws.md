@@ -1,10 +1,10 @@
 # giantswarm/cluster-aws - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 0
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/giantswarm/cluster-aws)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 2 | - | 
 | 2023-01-12 | 1 | - | 
 | 2023-01-10 | - | - | 
 | 2023-01-09 | - | - | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-16 | - | - | 
 | 2022-12-15 | - | - | 
 | 2022-12-14 | - | - | 
-| 2022-12-13 | - | - | 
 

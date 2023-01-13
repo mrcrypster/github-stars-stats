@@ -1,10 +1,10 @@
 # coral-xyz/backpack - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 94
+☋ Forks: 96
 
-★ Stars: 403
+★ Stars: 407
 
 [Open repository](https://github.com/coral-xyz/backpack)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 407 | 96 | 
 | 2023-01-11 | 403 | 94 | 
 | 2023-01-10 | 403 | 93 | 
 | 2023-01-09 | 401 | 91 | 

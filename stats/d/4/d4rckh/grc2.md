@@ -1,6 +1,6 @@
 # d4rckh/grc2 - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 315 | 33 | 
 | 2023-01-11 | 315 | 33 | 
 | 2023-01-10 | 316 | 33 | 
 | 2023-01-09 | 315 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 314 | 33 | 
 | 2022-12-15 | 314 | 33 | 
 | 2022-12-14 | 314 | 33 | 
-| 2022-12-13 | 314 | 34 | 
 

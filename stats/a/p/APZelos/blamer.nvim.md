@@ -1,6 +1,6 @@
 # APZelos/blamer.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 596 | 30 | 
 | 2023-01-11 | 596 | 30 | 
 | 2023-01-10 | 595 | 30 | 
 | 2023-01-09 | 595 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 590 | 30 | 
 | 2022-12-15 | 590 | 30 | 
 | 2022-12-14 | 591 | 30 | 
-| 2022-12-13 | 591 | 30 | 
 

@@ -1,8 +1,8 @@
 # ossf/package-analysis - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 40
+☋ Forks: 39
 
 ★ Stars: 563
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 563 | 39 | 
 | 2023-01-11 | 563 | 40 | 
 | 2023-01-10 | 563 | 40 | 
 | 2023-01-09 | 563 | 40 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 558 | 40 | 
 | 2022-12-15 | 558 | 40 | 
 | 2022-12-14 | 558 | 39 | 
-| 2022-12-13 | 556 | 39 | 
 

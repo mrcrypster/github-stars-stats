@@ -1,10 +1,10 @@
 # ranyitz/qnm - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 29
 
-★ Stars: 877
+★ Stars: 878
 
 [Open repository](https://github.com/ranyitz/qnm)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 878 | 29 | 
 | 2023-01-11 | 877 | 29 | 
 | 2023-01-10 | 872 | 29 | 
 | 2023-01-09 | 872 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 869 | 29 | 
 | 2022-12-15 | 869 | 29 | 
 | 2022-12-14 | 870 | 29 | 
-| 2022-12-13 | 870 | 29 | 
 

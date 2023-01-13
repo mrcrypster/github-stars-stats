@@ -1,6 +1,6 @@
 # Olivia5k/vim-supervisor - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 7 | - | 
 | 2023-01-11 | 7 | - | 
 | 2023-01-10 | 7 | - | 
 | 2023-01-09 | 7 | - | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 7 | - | 
 | 2022-12-16 | 7 | - | 
 | 2022-12-15 | 7 | - | 
-| 2022-12-14 | 7 | - | 
 

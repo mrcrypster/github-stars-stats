@@ -1,10 +1,10 @@
 # HeiSir2014/M3U8-Downloader - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 353
 
-★ Stars: 2177
+★ Stars: 2180
 
 [Open repository](https://github.com/HeiSir2014/M3U8-Downloader)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 2180 | 353 | 
 | 2023-01-11 | 2177 | 353 | 
 | 2023-01-10 | 2176 | 353 | 
 | 2023-01-09 | 2176 | 353 | 

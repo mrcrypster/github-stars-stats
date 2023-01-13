@@ -1,8 +1,8 @@
 # MicrosoftDocs/ATADocs - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 89
+☋ Forks: 88
 
 ★ Stars: 54
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 54 | 88 | 
 | 2023-01-11 | 54 | 89 | 
 | 2023-01-10 | 54 | 89 | 
 | 2023-01-09 | 54 | 89 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 54 | 90 | 
 | 2022-12-16 | 54 | 90 | 
 | 2022-12-15 | 54 | 90 | 
-| 2022-12-13 | 54 | 91 | 
 

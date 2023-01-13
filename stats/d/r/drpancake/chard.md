@@ -1,6 +1,6 @@
 # drpancake/chard - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 200 | 3 | 
 | 2023-01-12 | 200 | 3 | 
 | 2023-01-10 | 200 | 3 | 
 | 2023-01-09 | 200 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 200 | 3 | 
 | 2022-12-16 | 200 | 3 | 
 | 2022-12-15 | 200 | 3 | 
-| 2022-12-13 | 200 | 3 | 
 

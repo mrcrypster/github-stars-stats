@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 12
 
-☋ Forks: 641
+☋ Forks: 642
 
-★ Stars: 1582
+★ Stars: 1583
 
 [Open repository](https://github.com/Ayatans/Machine-Learning-homework)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-12 | 1582 | 641 | 
+| 2023-01-12 | 1583 | 642 | 
 | 2023-01-11 | 1582 | 641 | 
 | 2023-01-10 | 1579 | 640 | 
 | 2023-01-09 | 1577 | 639 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 1549 | 632 | 
 | 2022-12-16 | 1548 | 633 | 
 | 2022-12-15 | 1544 | 634 | 
-| 2022-12-14 | 1544 | 632 | 
 

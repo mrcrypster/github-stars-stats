@@ -1,10 +1,10 @@
 # Perl/perl5 - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 478
+☋ Forks: 477
 
-★ Stars: 1557
+★ Stars: 1558
 
 [Open repository](https://github.com/Perl/perl5)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 1558 | 477 | 
 | 2023-01-11 | 1557 | 478 | 
 | 2023-01-10 | 1557 | 477 | 
 | 2023-01-09 | 1556 | 478 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 1540 | 472 | 
 | 2022-12-15 | 1540 | 472 | 
 | 2022-12-14 | 1539 | 472 | 
-| 2022-12-13 | 1540 | 472 | 
 

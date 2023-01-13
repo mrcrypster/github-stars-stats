@@ -1,10 +1,10 @@
 # pystardust/ani-cli - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 440
+☋ Forks: 439
 
-★ Stars: 4530
+★ Stars: 4529
 
 [Open repository](https://github.com/pystardust/ani-cli)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 4529 | 439 | 
 | 2023-01-11 | 4530 | 440 | 
 | 2023-01-10 | 4527 | 439 | 
 | 2023-01-09 | 4529 | 439 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 4476 | 437 | 
 | 2022-12-15 | 4475 | 435 | 
 | 2022-12-14 | 4472 | 435 | 
-| 2022-12-13 | 4472 | 435 | 
 

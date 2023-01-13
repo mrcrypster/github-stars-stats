@@ -1,10 +1,10 @@
 # kowainik/relude - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 76
 
-★ Stars: 638
+★ Stars: 639
 
 [Open repository](https://github.com/kowainik/relude)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 639 | 76 | 
 | 2023-01-11 | 638 | 76 | 
 | 2023-01-10 | 638 | 76 | 
 | 2023-01-09 | 638 | 76 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 635 | 75 | 
 | 2022-12-15 | 635 | 75 | 
 | 2022-12-14 | 635 | 75 | 
-| 2022-12-13 | 635 | 75 | 
 

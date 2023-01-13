@@ -1,6 +1,6 @@
 # zotroneneis/machine_learning_basics - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 787
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 3882 | 787 | 
 | 2023-01-11 | 3882 | 787 | 
 | 2023-01-10 | 3882 | 786 | 
 | 2023-01-09 | 3881 | 786 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 3843 | 781 | 
 | 2022-12-15 | 3840 | 781 | 
 | 2022-12-14 | 3837 | 781 | 
-| 2022-12-13 | 3833 | 781 | 
 

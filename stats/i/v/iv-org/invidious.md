@@ -1,10 +1,10 @@
 # iv-org/invidious - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 831
+☋ Forks: 832
 
-★ Stars: 9230
+★ Stars: 9225
 
 [Open repository](https://github.com/iv-org/invidious)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 9225 | 832 | 
 | 2023-01-11 | 9230 | 831 | 
 | 2023-01-10 | 9223 | 831 | 
 | 2023-01-09 | 9212 | 830 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 9048 | 813 | 
 | 2022-12-15 | 9044 | 813 | 
 | 2022-12-14 | 9025 | 813 | 
-| 2022-12-13 | 9022 | 812 | 
 

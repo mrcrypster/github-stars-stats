@@ -1,10 +1,10 @@
 # PSAppDeployToolkit/PSAppDeployToolkit - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 13
 
-☋ Forks: 298
+☋ Forks: 299
 
-★ Stars: 1237
+★ Stars: 1245
 
 [Open repository](https://github.com/PSAppDeployToolkit/PSAppDeployToolkit)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 1245 | 299 | 
+| 2023-01-12 | 1245 | 299 | 
 | 2023-01-11 | 1237 | 298 | 
 | 2023-01-10 | 1233 | 297 | 
 | 2023-01-09 | 1232 | 297 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 1222 | 296 | 
 | 2022-12-15 | 1221 | 296 | 
 | 2022-12-14 | 1220 | 296 | 
-| 2022-12-13 | 1220 | 296 | 
 

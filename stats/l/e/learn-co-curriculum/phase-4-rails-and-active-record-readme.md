@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-4-rails-and-active-record-readme - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 2032
+☋ Forks: 2034
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 1 | 2034 | 
 | 2023-01-11 | 1 | 2032 | 
 | 2023-01-10 | 1 | 2028 | 
 | 2023-01-09 | 1 | 2006 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 1 | 1978 | 
 | 2022-12-15 | 1 | 1977 | 
 | 2022-12-14 | 1 | 1975 | 
-| 2022-12-13 | 1 | 1961 | 
 

@@ -1,6 +1,6 @@
 # Tencent/lemon-cleaner - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 655
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 4436 | 655 | 
 | 2023-01-12 | 4436 | 655 | 
 | 2023-01-10 | 4436 | 656 | 
 | 2023-01-09 | 4437 | 655 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 4394 | 652 | 
 | 2022-12-16 | 4392 | 652 | 
 | 2022-12-15 | 4391 | 651 | 
-| 2022-12-13 | 4391 | 651 | 
 

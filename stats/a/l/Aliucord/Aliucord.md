@@ -1,6 +1,6 @@
 # Aliucord/Aliucord - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 107
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 2030 | 107 | 
 | 2023-01-11 | 2030 | 107 | 
 | 2023-01-10 | 2027 | 107 | 
 | 2023-01-08 | 2027 | 107 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 1954 | 107 | 
 | 2022-12-16 | 1953 | 107 | 
 | 2022-12-15 | 1952 | 107 | 
-| 2022-12-14 | 1951 | 107 | 
 

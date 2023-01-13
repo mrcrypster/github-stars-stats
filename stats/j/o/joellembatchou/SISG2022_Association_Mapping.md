@@ -1,10 +1,10 @@
 # joellembatchou/SISG2022_Association_Mapping - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 4
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/joellembatchou/SISG2022_Association_Mapping)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 1 | 4 | 
 | 2023-01-11 | - | 4 | 
 | 2023-01-10 | - | 4 | 
 | 2023-01-09 | - | 4 | 

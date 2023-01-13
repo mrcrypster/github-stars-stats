@@ -1,6 +1,6 @@
 # Joshua-Ashton/riscv-vscript - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 39 | - | 
 | 2023-01-11 | 39 | - | 
 | 2023-01-10 | 39 | - | 
 | 2023-01-09 | 39 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 38 | - | 
 | 2022-12-15 | 37 | - | 
 | 2022-12-14 | 37 | - | 
-| 2022-12-13 | 37 | - | 
 

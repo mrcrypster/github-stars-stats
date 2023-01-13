@@ -1,6 +1,6 @@
 # rwema3/shecanhack - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 26 | - | 
 | 2023-01-11 | 26 | - | 
 | 2023-01-10 | 26 | - | 
 | 2023-01-09 | 26 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 26 | - | 
 | 2022-12-15 | 26 | - | 
 | 2022-12-14 | 26 | - | 
-| 2022-12-13 | 26 | - | 
 

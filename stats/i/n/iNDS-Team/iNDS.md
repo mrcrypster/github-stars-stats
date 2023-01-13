@@ -1,10 +1,10 @@
 # iNDS-Team/iNDS - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 77
 
-★ Stars: 431
+★ Stars: 432
 
 [Open repository](https://github.com/iNDS-Team/iNDS)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 432 | 77 | 
 | 2023-01-11 | 431 | 77 | 
 | 2023-01-10 | 430 | 78 | 
 | 2023-01-09 | 429 | 78 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 427 | 78 | 
 | 2022-12-15 | 427 | 78 | 
 | 2022-12-14 | 426 | 78 | 
-| 2022-12-13 | 426 | 78 | 
 

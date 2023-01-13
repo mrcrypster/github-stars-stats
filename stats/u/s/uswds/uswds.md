@@ -1,10 +1,10 @@
 # uswds/uswds - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 931
+☋ Forks: 930
 
-★ Stars: 6281
+★ Stars: 6282
 
 [Open repository](https://github.com/uswds/uswds)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 6282 | 930 | 
 | 2023-01-11 | 6281 | 931 | 
 | 2023-01-10 | 6281 | 931 | 
 | 2023-01-09 | 6280 | 931 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 6271 | 927 | 
 | 2022-12-15 | 6270 | 927 | 
 | 2022-12-14 | 6270 | 927 | 
-| 2022-12-13 | 6270 | 927 | 
 

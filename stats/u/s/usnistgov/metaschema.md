@@ -1,6 +1,6 @@
 # usnistgov/metaschema - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 9
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 17 | 9 | 
+| 2023-01-12 | 17 | 9 | 
 | 2023-01-11 | 17 | 9 | 
 | 2023-01-10 | 17 | 9 | 
 | 2023-01-09 | 17 | 9 | 

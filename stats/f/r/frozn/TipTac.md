@@ -1,6 +1,6 @@
 # frozn/TipTac - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 99 | 15 | 
 | 2023-01-11 | 99 | 15 | 
 | 2023-01-10 | 99 | 15 | 
 | 2023-01-09 | 100 | 15 | 

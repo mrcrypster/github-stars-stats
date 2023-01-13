@@ -1,8 +1,8 @@
 # VREMSoftwareDevelopment/WiFiAnalyzer - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 499
+☋ Forks: 500
 
 ★ Stars: 1941
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 1941 | 500 | 
 | 2023-01-11 | 1941 | 499 | 
 | 2023-01-10 | 1940 | 499 | 
 | 2023-01-09 | 1938 | 499 | 

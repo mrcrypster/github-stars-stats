@@ -1,10 +1,10 @@
 # FiloSottile/age - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 394
 
-★ Stars: 12624
+★ Stars: 12631
 
 [Open repository](https://github.com/FiloSottile/age)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 12631 | 394 | 
 | 2023-01-11 | 12624 | 394 | 
 | 2023-01-10 | 12615 | 393 | 
 | 2023-01-09 | 12606 | 394 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 12229 | 388 | 
 | 2022-12-16 | 12223 | 387 | 
 | 2022-12-15 | 12218 | 386 | 
-| 2022-12-13 | 12212 | 385 | 
 

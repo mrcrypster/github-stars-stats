@@ -1,6 +1,6 @@
 # kashtechtips/office2021 - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 27 | 2 | 
 | 2023-01-11 | 27 | 2 | 
 | 2023-01-10 | 27 | 2 | 
 | 2023-01-09 | 27 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 27 | 2 | 
 | 2022-12-15 | 27 | 2 | 
 | 2022-12-14 | 27 | 2 | 
-| 2022-12-13 | 27 | 2 | 
 

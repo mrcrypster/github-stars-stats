@@ -1,6 +1,6 @@
 # scipy/PROPACK - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 7 | 2 | 
 | 2023-01-12 | 7 | 2 | 
 | 2023-01-10 | 7 | 2 | 
 | 2023-01-09 | 7 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-16 | 7 | 2 | 
 | 2022-12-15 | 7 | 2 | 
 | 2022-12-14 | 7 | 2 | 
-| 2022-12-13 | 7 | 2 | 
 

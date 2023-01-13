@@ -1,6 +1,6 @@
 # future-architect/vuls - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 1083
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 9717 | 1083 | 
 | 2023-01-11 | 9717 | 1083 | 
 | 2023-01-10 | 9716 | 1082 | 
 | 2023-01-09 | 9716 | 1082 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 9686 | 1081 | 
 | 2022-12-15 | 9681 | 1081 | 
 | 2022-12-14 | 9678 | 1081 | 
-| 2022-12-13 | 9673 | 1079 | 
 

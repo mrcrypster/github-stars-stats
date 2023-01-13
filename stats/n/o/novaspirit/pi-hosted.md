@@ -1,10 +1,10 @@
 # novaspirit/pi-hosted - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 248
+☋ Forks: 249
 
-★ Stars: 777
+★ Stars: 778
 
 [Open repository](https://github.com/novaspirit/pi-hosted)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 778 | 249 | 
 | 2023-01-11 | 777 | 248 | 
 | 2023-01-10 | 776 | 248 | 
 | 2023-01-09 | 776 | 248 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 754 | 237 | 
 | 2022-12-16 | 754 | 236 | 
 | 2022-12-15 | 753 | 234 | 
-| 2022-12-13 | 752 | 233 | 
 

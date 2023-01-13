@@ -1,6 +1,6 @@
 # BohdanOrlov/iOS-Developer-Roadmap - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 1345
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 6027 | 1345 | 
 | 2023-01-11 | 6027 | 1345 | 
 | 2023-01-10 | 6027 | 1344 | 
 | 2023-01-09 | 6029 | 1344 | 

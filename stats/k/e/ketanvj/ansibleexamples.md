@@ -1,6 +1,6 @@
 # ketanvj/ansibleexamples - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 1 | 34 | 
 | 2023-01-11 | 1 | 34 | 
 | 2023-01-10 | 1 | 34 | 
 | 2023-01-09 | 1 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 1 | 34 | 
 | 2022-12-16 | 1 | 34 | 
 | 2022-12-15 | 1 | 34 | 
-| 2022-12-13 | 1 | 34 | 
 

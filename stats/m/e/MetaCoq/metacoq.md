@@ -1,8 +1,8 @@
 # MetaCoq/metacoq - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 67
+☋ Forks: 66
 
 ★ Stars: 265
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 265 | 66 | 
 | 2023-01-11 | 265 | 67 | 
 | 2023-01-10 | 265 | 67 | 
 | 2023-01-09 | 265 | 67 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 264 | 66 | 
 | 2022-12-15 | 264 | 66 | 
 | 2022-12-14 | 265 | 66 | 
-| 2022-12-13 | 265 | 66 | 
 

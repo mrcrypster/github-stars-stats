@@ -1,10 +1,10 @@
 # null-dev/firefox-profile-switcher - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 13
 
-★ Stars: 198
+★ Stars: 199
 
 [Open repository](https://github.com/null-dev/firefox-profile-switcher)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 199 | 13 | 
 | 2023-01-11 | 198 | 13 | 
 | 2023-01-10 | 197 | 12 | 
 | 2023-01-08 | 197 | 12 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 188 | 11 | 
 | 2022-12-16 | 188 | 11 | 
 | 2022-12-15 | 188 | 11 | 
-| 2022-12-14 | 187 | 11 | 
 

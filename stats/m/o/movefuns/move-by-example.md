@@ -1,6 +1,6 @@
 # movefuns/move-by-example - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 121 | 2 | 
 | 2023-01-11 | 121 | 2 | 
 | 2023-01-10 | 121 | 2 | 
 | 2023-01-09 | 121 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 121 | 2 | 
 | 2022-12-15 | 121 | 2 | 
 | 2022-12-14 | 121 | 2 | 
-| 2022-12-13 | 121 | 2 | 
 

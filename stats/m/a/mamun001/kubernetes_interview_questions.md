@@ -1,10 +1,10 @@
 # mamun001/kubernetes_interview_questions - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 109
+☋ Forks: 110
 
-★ Stars: 87
+★ Stars: 88
 
 [Open repository](https://github.com/mamun001/kubernetes_interview_questions)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 88 | 110 | 
 | 2023-01-11 | 87 | 109 | 
 | 2023-01-10 | 86 | 109 | 
 | 2023-01-09 | 86 | 108 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 64 | 98 | 
 | 2022-12-15 | 64 | 98 | 
 | 2022-12-14 | 64 | 98 | 
-| 2022-12-13 | 64 | 98 | 
 

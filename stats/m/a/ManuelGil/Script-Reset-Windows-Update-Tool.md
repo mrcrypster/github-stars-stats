@@ -1,6 +1,6 @@
 # ManuelGil/Script-Reset-Windows-Update-Tool - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 150 | 46 | 
 | 2023-01-11 | 150 | 46 | 
 | 2023-01-10 | 151 | 46 | 
 | 2023-01-09 | 151 | 46 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 149 | 46 | 
 | 2022-12-15 | 149 | 46 | 
 | 2022-12-14 | 149 | 46 | 
-| 2022-12-13 | 148 | 45 | 
 

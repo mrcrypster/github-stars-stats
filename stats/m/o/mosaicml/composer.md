@@ -1,10 +1,10 @@
 # mosaicml/composer - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 186
 
-★ Stars: 2851
+★ Stars: 2855
 
 [Open repository](https://github.com/mosaicml/composer)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 2855 | 186 | 
 | 2023-01-12 | 2851 | 186 | 
 | 2023-01-10 | 2850 | 185 | 
 | 2023-01-09 | 2849 | 184 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-16 | 2772 | 174 | 
 | 2022-12-15 | 2761 | 173 | 
 | 2022-12-14 | 2761 | 173 | 
-| 2022-12-13 | 2761 | 171 | 
 

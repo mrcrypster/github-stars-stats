@@ -1,10 +1,10 @@
 # Jonghakseo/chrome-extension-boilerplate-react-vite - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 13
 
-☋ Forks: 50
+☋ Forks: 51
 
-★ Stars: 318
+★ Stars: 320
 
 [Open repository](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 320 | 51 | 
 | 2023-01-11 | 318 | 50 | 
 | 2023-01-10 | 316 | 50 | 
 | 2023-01-09 | 314 | 51 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 269 | 44 | 
 | 2022-12-16 | 267 | 43 | 
 | 2022-12-15 | 266 | 43 | 
-| 2022-12-13 | 261 | 40 | 
 

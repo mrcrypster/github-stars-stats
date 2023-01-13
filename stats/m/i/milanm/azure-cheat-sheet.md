@@ -1,6 +1,6 @@
 # milanm/azure-cheat-sheet - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 271 | 41 | 
 | 2023-01-11 | 271 | 41 | 
 | 2023-01-10 | 270 | 41 | 
 | 2023-01-09 | 269 | 41 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 264 | 41 | 
 | 2022-12-16 | 264 | 41 | 
 | 2022-12-15 | 264 | 41 | 
-| 2022-12-13 | 263 | 40 | 
 

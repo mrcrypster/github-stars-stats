@@ -1,10 +1,10 @@
 # mehdiirh/LazyHelper - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 8
 
-★ Stars: 117
+★ Stars: 116
 
 [Open repository](https://github.com/mehdiirh/LazyHelper)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 116 | 8 | 
 | 2023-01-11 | 117 | 8 | 
 | 2023-01-10 | 117 | 8 | 
 | 2023-01-09 | 117 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 117 | 8 | 
 | 2022-12-15 | 117 | 8 | 
 | 2022-12-14 | 117 | 8 | 
-| 2022-12-13 | 117 | 8 | 
 

@@ -1,6 +1,6 @@
 # PixelExperience/device_custom_sepolicy - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 4 | 29 | 
 | 2023-01-11 | 4 | 29 | 
 | 2023-01-10 | 4 | 29 | 
 | 2023-01-09 | 4 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 4 | 31 | 
 | 2022-12-15 | 4 | 31 | 
 | 2022-12-14 | 4 | 31 | 
-| 2022-12-13 | 4 | 31 | 
 

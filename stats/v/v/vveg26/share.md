@@ -1,10 +1,10 @@
 # vveg26/share - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 6
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/vveg26/share)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 6 | 6 | 
 | 2023-01-11 | 5 | 6 | 
 | 2023-01-10 | 5 | 5 | 
 | 2023-01-09 | 5 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 3 | 5 | 
 | 2022-12-16 | 3 | 5 | 
 | 2022-12-15 | 3 | 5 | 
-| 2022-12-13 | 4 | 5 | 
 

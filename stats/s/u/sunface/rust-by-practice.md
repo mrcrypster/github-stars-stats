@@ -1,10 +1,10 @@
 # sunface/rust-by-practice - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 460
 
-★ Stars: 7085
+★ Stars: 7091
 
 [Open repository](https://github.com/sunface/rust-by-practice)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 7091 | 460 | 
 | 2023-01-11 | 7085 | 460 | 
 | 2023-01-10 | 7074 | 460 | 
 | 2023-01-09 | 7067 | 459 | 

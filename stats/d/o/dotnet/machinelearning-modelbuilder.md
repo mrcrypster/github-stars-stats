@@ -1,10 +1,10 @@
 # dotnet/machinelearning-modelbuilder - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 37
 
-★ Stars: 211
+★ Stars: 212
 
 [Open repository](https://github.com/dotnet/machinelearning-modelbuilder)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 212 | 37 | 
 | 2023-01-11 | 211 | 37 | 
 | 2023-01-10 | 211 | 37 | 
 | 2023-01-09 | 211 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 207 | 37 | 
 | 2022-12-15 | 207 | 37 | 
 | 2022-12-14 | 207 | 37 | 
-| 2022-12-13 | 207 | 37 | 
 

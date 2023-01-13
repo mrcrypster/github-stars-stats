@@ -1,8 +1,8 @@
 # macrozheng/mall-swarm - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 4538
+☋ Forks: 4543
 
 ★ Stars: 9743
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 9743 | 4543 | 
 | 2023-01-11 | 9743 | 4538 | 
 | 2023-01-10 | 9737 | 4537 | 
 | 2023-01-09 | 9731 | 4538 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 9662 | 4507 | 
 | 2022-12-15 | 9661 | 4508 | 
 | 2022-12-14 | 9658 | 4503 | 
-| 2022-12-13 | 9652 | 4501 | 
 

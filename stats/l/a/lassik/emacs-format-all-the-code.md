@@ -1,10 +1,10 @@
 # lassik/emacs-format-all-the-code - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 101
 
-★ Stars: 487
+★ Stars: 485
 
 [Open repository](https://github.com/lassik/emacs-format-all-the-code)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 485 | 101 | 
 | 2023-01-11 | 487 | 101 | 
 | 2023-01-10 | 487 | 101 | 
 | 2023-01-09 | 487 | 101 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 481 | 100 | 
 | 2022-12-16 | 481 | 100 | 
 | 2022-12-15 | 481 | 100 | 
-| 2022-12-13 | 482 | 100 | 
 

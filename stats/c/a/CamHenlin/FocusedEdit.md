@@ -1,6 +1,6 @@
 # CamHenlin/FocusedEdit - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 50 | 1 | 
 | 2023-01-12 | 50 | 1 | 
 | 2023-01-10 | 50 | 1 | 
 | 2023-01-09 | 50 | 1 | 

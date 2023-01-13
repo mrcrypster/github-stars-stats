@@ -1,10 +1,10 @@
 # typicode/husky - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 1005
 
-★ Stars: 28492
+★ Stars: 28507
 
 [Open repository](https://github.com/typicode/husky)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 28507 | 1005 | 
 | 2023-01-11 | 28492 | 1005 | 
 | 2023-01-10 | 28487 | 1006 | 
 | 2023-01-09 | 28481 | 1006 | 

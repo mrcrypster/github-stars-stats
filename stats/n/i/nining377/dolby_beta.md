@@ -1,10 +1,10 @@
 # nining377/dolby_beta - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 121
 
-★ Stars: 2700
+★ Stars: 2702
 
 [Open repository](https://github.com/nining377/dolby_beta)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 2702 | 121 | 
 | 2023-01-11 | 2700 | 121 | 
 | 2023-01-10 | 2696 | 121 | 
 | 2023-01-09 | 2695 | 121 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 2648 | 119 | 
 | 2022-12-15 | 2647 | 119 | 
 | 2022-12-14 | 2645 | 119 | 
-| 2022-12-13 | 2644 | 119 | 
 

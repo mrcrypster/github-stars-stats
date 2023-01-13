@@ -1,8 +1,8 @@
 # lgallard/terraform-aws-secrets-manager - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 34
+☋ Forks: 35
 
 ★ Stars: 42
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 42 | 35 | 
 | 2023-01-11 | 42 | 34 | 
 | 2023-01-10 | 42 | 34 | 
 | 2023-01-09 | 42 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 42 | 33 | 
 | 2022-12-16 | 42 | 33 | 
 | 2022-12-15 | 42 | 33 | 
-| 2022-12-13 | 42 | 33 | 
 

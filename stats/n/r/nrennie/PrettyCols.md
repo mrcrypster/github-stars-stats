@@ -1,6 +1,6 @@
 # nrennie/PrettyCols - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 24 | 1 | 
 | 2023-01-11 | 24 | 1 | 
 | 2023-01-10 | 24 | 1 | 
 | 2023-01-09 | 23 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 22 | 1 | 
 | 2022-12-15 | 22 | 1 | 
 | 2022-12-14 | 22 | 1 | 
-| 2022-12-13 | 22 | 1 | 
 

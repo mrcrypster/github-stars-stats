@@ -1,8 +1,8 @@
 # projectdiscovery/naabu - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 369
+☋ Forks: 370
 
 ★ Stars: 2939
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 2939 | 370 | 
 | 2023-01-11 | 2939 | 369 | 
 | 2023-01-10 | 2932 | 369 | 
 | 2023-01-09 | 2931 | 369 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 2869 | 360 | 
 | 2022-12-15 | 2865 | 358 | 
 | 2022-12-14 | 2861 | 357 | 
-| 2022-12-13 | 2861 | 356 | 
 

@@ -1,10 +1,10 @@
 # reactjs/reactjs.org - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 6746
+☋ Forks: 6751
 
-★ Stars: 8368
+★ Stars: 8374
 
 [Open repository](https://github.com/reactjs/reactjs.org)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 8374 | 6751 | 
 | 2023-01-11 | 8368 | 6746 | 
 | 2023-01-10 | 8359 | 6746 | 
 | 2023-01-09 | 8349 | 6743 | 

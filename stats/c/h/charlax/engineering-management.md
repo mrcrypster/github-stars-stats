@@ -1,10 +1,10 @@
 # charlax/engineering-management - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 449
+☋ Forks: 450
 
-★ Stars: 5575
+★ Stars: 5578
 
 [Open repository](https://github.com/charlax/engineering-management)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 5578 | 450 | 
 | 2023-01-11 | 5575 | 449 | 
 | 2023-01-10 | 5569 | 449 | 
 | 2023-01-09 | 5564 | 449 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 5396 | 439 | 
 | 2022-12-15 | 5383 | 437 | 
 | 2022-12-14 | 5368 | 437 | 
-| 2022-12-13 | 5354 | 431 | 
 

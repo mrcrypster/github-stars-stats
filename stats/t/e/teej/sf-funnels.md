@@ -1,6 +1,6 @@
 # teej/sf-funnels - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 64 | 6 | 
 | 2023-01-11 | 64 | 6 | 
 | 2023-01-10 | 64 | 6 | 
 | 2023-01-09 | 64 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 63 | 6 | 
 | 2022-12-15 | 63 | 6 | 
 | 2022-12-14 | 63 | 6 | 
-| 2022-12-13 | 63 | 6 | 
 

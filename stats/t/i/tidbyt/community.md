@@ -1,10 +1,10 @@
 # tidbyt/community - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 218
+☋ Forks: 219
 
-★ Stars: 172
+★ Stars: 173
 
 [Open repository](https://github.com/tidbyt/community)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 173 | 219 | 
 | 2023-01-11 | 172 | 218 | 
 | 2023-01-10 | 172 | 218 | 
 | 2023-01-09 | 172 | 217 | 

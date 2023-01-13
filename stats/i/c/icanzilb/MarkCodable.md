@@ -1,10 +1,10 @@
 # icanzilb/MarkCodable - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 9
 
-★ Stars: 300
+★ Stars: 301
 
 [Open repository](https://github.com/icanzilb/MarkCodable)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 301 | 9 | 
 | 2023-01-11 | 300 | 9 | 
 | 2023-01-10 | 301 | 9 | 
 | 2023-01-09 | 301 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 298 | 9 | 
 | 2022-12-15 | 298 | 9 | 
 | 2022-12-14 | 298 | 9 | 
-| 2022-12-13 | 298 | 9 | 
 

@@ -1,6 +1,6 @@
 # iCyris/Magia - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 46 | 4 | 
 | 2023-01-11 | 46 | 4 | 
 | 2023-01-10 | 46 | 4 | 
 | 2023-01-09 | 46 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 44 | 4 | 
 | 2022-12-15 | 44 | 4 | 
 | 2022-12-14 | 44 | 4 | 
-| 2022-12-13 | 44 | 4 | 
 

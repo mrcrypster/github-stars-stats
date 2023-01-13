@@ -1,6 +1,6 @@
 # mrd0x/WebView2-Cookie-Stealer - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 191 | 40 | 
 | 2023-01-11 | 191 | 40 | 
 | 2023-01-10 | 189 | 39 | 
 | 2023-01-09 | 189 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 188 | 39 | 
 | 2022-12-15 | 188 | 39 | 
 | 2022-12-14 | 188 | 39 | 
-| 2022-12-13 | 188 | 40 | 
 

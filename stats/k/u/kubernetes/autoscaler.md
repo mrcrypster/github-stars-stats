@@ -1,6 +1,6 @@
 # kubernetes/autoscaler - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 3219
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 6430 | 3219 | 
 | 2023-01-11 | 6430 | 3219 | 
 | 2023-01-10 | 6429 | 3216 | 
 | 2023-01-09 | 6426 | 3215 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 6358 | 3178 | 
 | 2022-12-15 | 6346 | 3174 | 
 | 2022-12-14 | 6343 | 3172 | 
-| 2022-12-13 | 6339 | 3168 | 
 

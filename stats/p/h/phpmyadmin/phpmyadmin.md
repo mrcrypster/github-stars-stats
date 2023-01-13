@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 12
 
 ☋ Forks: 3266
 
-★ Stars: 6370
+★ Stars: 6369
 
 [Open repository](https://github.com/phpmyadmin/phpmyadmin)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-12 | 6370 | 3266 | 
+| 2023-01-12 | 6369 | 3266 | 
 | 2023-01-11 | 6370 | 3266 | 
 | 2023-01-09 | 6364 | 3265 | 
 | 2023-01-08 | 6361 | 3264 | 
@@ -41,5 +41,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-16 | 6322 | 3262 | 
 | 2022-12-15 | 6321 | 3262 | 
 | 2022-12-14 | 6321 | 3261 | 
-| 2022-12-13 | 6318 | 3261 | 
 

@@ -1,8 +1,8 @@
 # bailicangdu/vue2-elm - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 12454
+☋ Forks: 12455
 
 ★ Stars: 39579
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 39579 | 12455 | 
 | 2023-01-11 | 39579 | 12454 | 
 | 2023-01-10 | 39579 | 12454 | 
 | 2023-01-09 | 39580 | 12453 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 39497 | 12443 | 
 | 2022-12-15 | 39495 | 12442 | 
 | 2022-12-14 | 39491 | 12442 | 
-| 2022-12-13 | 39485 | 12440 | 
 

@@ -1,6 +1,6 @@
 # revery-ui/revery - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 203
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 7990 | 203 | 
 | 2023-01-11 | 7990 | 203 | 
 | 2023-01-10 | 7989 | 203 | 
 | 2023-01-09 | 7988 | 203 | 

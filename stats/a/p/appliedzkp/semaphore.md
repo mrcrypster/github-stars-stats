@@ -1,10 +1,10 @@
 # appliedzkp/semaphore - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 103
 
-★ Stars: 585
+★ Stars: 587
 
 [Open repository](https://github.com/appliedzkp/semaphore)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 587 | 103 | 
 | 2023-01-11 | 585 | 103 | 
 | 2023-01-10 | 585 | 103 | 
 | 2023-01-09 | 584 | 103 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 570 | 102 | 
 | 2022-12-16 | 568 | 102 | 
 | 2022-12-15 | 566 | 102 | 
-| 2022-12-13 | 562 | 101 | 
 

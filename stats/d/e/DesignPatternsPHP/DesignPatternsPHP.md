@@ -1,10 +1,10 @@
 # DesignPatternsPHP/DesignPatternsPHP - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 4495
+☋ Forks: 4497
 
-★ Stars: 21023
+★ Stars: 21027
 
 [Open repository](https://github.com/DesignPatternsPHP/DesignPatternsPHP)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 21027 | 4497 | 
 | 2023-01-11 | 21023 | 4495 | 
 | 2023-01-10 | 21021 | 4495 | 
 | 2023-01-09 | 21020 | 4495 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 20983 | 4499 | 
 | 2022-12-15 | 20980 | 4499 | 
 | 2022-12-14 | 20974 | 4499 | 
-| 2022-12-13 | 20970 | 4497 | 
 

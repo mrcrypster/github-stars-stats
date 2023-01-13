@@ -1,8 +1,8 @@
 # Card-Forge/forge - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 135
+☋ Forks: 136
 
 ★ Stars: 152
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 152 | 136 | 
 | 2023-01-11 | 152 | 135 | 
 | 2023-01-10 | 152 | 134 | 
 | 2023-01-08 | 152 | 134 | 

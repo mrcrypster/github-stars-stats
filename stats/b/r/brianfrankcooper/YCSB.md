@@ -1,10 +1,10 @@
 # brianfrankcooper/YCSB - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 2102
+☋ Forks: 2105
 
-★ Stars: 4371
+★ Stars: 4372
 
 [Open repository](https://github.com/brianfrankcooper/YCSB)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 4372 | 2105 | 
 | 2023-01-11 | 4371 | 2102 | 
 | 2023-01-10 | 4370 | 2102 | 
 | 2023-01-09 | 4364 | 2102 | 

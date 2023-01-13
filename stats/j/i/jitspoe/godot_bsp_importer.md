@@ -1,10 +1,10 @@
 # jitspoe/godot_bsp_importer - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 1
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/jitspoe/godot_bsp_importer)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 24 | 1 | 
 | 2023-01-11 | 23 | 1 | 
 | 2023-01-10 | 23 | 1 | 
 | 2023-01-09 | 22 | 1 | 

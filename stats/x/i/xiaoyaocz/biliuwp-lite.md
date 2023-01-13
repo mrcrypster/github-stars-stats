@@ -1,6 +1,6 @@
 # xiaoyaocz/biliuwp-lite - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 124
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 1361 | 124 | 
 | 2023-01-11 | 1361 | 124 | 
 | 2023-01-10 | 1360 | 125 | 
 | 2023-01-09 | 1361 | 125 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 1351 | 117 | 
 | 2022-12-15 | 1351 | 117 | 
 | 2022-12-14 | 1351 | 117 | 
-| 2022-12-13 | 1345 | 116 | 
 

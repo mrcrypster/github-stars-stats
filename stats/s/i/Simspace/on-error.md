@@ -1,6 +1,6 @@
 # Simspace/on-error - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 38 | 2 | 
 | 2023-01-11 | 38 | 2 | 
 | 2023-01-10 | 38 | 2 | 
 | 2023-01-09 | 38 | 2 | 

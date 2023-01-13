@@ -1,10 +1,10 @@
 # devxoul/UITextView-Placeholder - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 247
 
-★ Stars: 1434
+★ Stars: 1433
 
 [Open repository](https://github.com/devxoul/UITextView-Placeholder)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 1433 | 247 | 
 | 2023-01-11 | 1434 | 247 | 
 | 2023-01-10 | 1434 | 247 | 
 | 2023-01-09 | 1434 | 247 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 1431 | 247 | 
 | 2022-12-15 | 1431 | 247 | 
 | 2022-12-14 | 1431 | 247 | 
-| 2022-12-13 | 1431 | 247 | 
 

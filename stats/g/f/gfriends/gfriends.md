@@ -1,10 +1,10 @@
 # gfriends/gfriends - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 282
+☋ Forks: 281
 
-★ Stars: 1317
+★ Stars: 1318
 
 [Open repository](https://github.com/gfriends/gfriends)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 1318 | 281 | 
 | 2023-01-11 | 1317 | 282 | 
 | 2023-01-10 | 1316 | 282 | 
 | 2023-01-09 | 1313 | 282 | 

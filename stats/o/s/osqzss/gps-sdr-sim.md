@@ -1,10 +1,10 @@
 # osqzss/gps-sdr-sim - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 662
 
-★ Stars: 1988
+★ Stars: 1989
 
 [Open repository](https://github.com/osqzss/gps-sdr-sim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 1989 | 662 | 
 | 2023-01-11 | 1988 | 662 | 
 | 2023-01-10 | 1987 | 661 | 
 | 2023-01-09 | 1985 | 661 | 

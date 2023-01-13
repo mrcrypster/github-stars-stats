@@ -1,10 +1,10 @@
 # cockroachdb/cockroach - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 3339
+☋ Forks: 3341
 
-★ Stars: 26371
+★ Stars: 26378
 
 [Open repository](https://github.com/cockroachdb/cockroach)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 26378 | 3341 | 
 | 2023-01-11 | 26371 | 3339 | 
 | 2023-01-10 | 26367 | 3337 | 
 | 2023-01-09 | 26357 | 3336 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 26245 | 3318 | 
 | 2022-12-15 | 26238 | 3317 | 
 | 2022-12-14 | 26232 | 3317 | 
-| 2022-12-13 | 26223 | 3316 | 
 

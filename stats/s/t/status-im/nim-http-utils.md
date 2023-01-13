@@ -1,6 +1,6 @@
 # status-im/nim-http-utils - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 23 | 8 | 
 | 2023-01-11 | 23 | 8 | 
 | 2023-01-10 | 23 | 8 | 
 | 2023-01-08 | 23 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 23 | 8 | 
 | 2022-12-16 | 23 | 8 | 
 | 2022-12-15 | 23 | 8 | 
-| 2022-12-13 | 23 | 8 | 
 

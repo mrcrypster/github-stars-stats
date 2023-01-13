@@ -1,6 +1,6 @@
 # kivra/sftp_utils - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 9 | 4 | 
 | 2023-01-11 | 9 | 4 | 
 | 2023-01-10 | 9 | 4 | 
 | 2023-01-08 | 9 | 4 | 

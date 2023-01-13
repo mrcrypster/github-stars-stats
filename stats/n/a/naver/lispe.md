@@ -1,10 +1,10 @@
 # naver/lispe - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 6
 
-★ Stars: 284
+★ Stars: 286
 
 [Open repository](https://github.com/naver/lispe)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 286 | 6 | 
 | 2023-01-11 | 284 | 6 | 
 | 2023-01-10 | 284 | 6 | 
 | 2023-01-09 | 284 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 279 | 6 | 
 | 2022-12-15 | 279 | 6 | 
 | 2022-12-14 | 280 | 6 | 
-| 2022-12-13 | 280 | 6 | 
 

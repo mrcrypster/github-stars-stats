@@ -1,8 +1,8 @@
 # Azure-Samples/dotNET-Frontend-AB-Testing-on-Azure-Container-Apps - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 26
+☋ Forks: 28
 
 ★ Stars: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 12 | 28 | 
 | 2023-01-11 | 12 | 26 | 
 | 2023-01-10 | 12 | 26 | 
 | 2023-01-09 | 12 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 13 | 25 | 
 | 2022-12-16 | 13 | 25 | 
 | 2022-12-15 | 13 | 25 | 
-| 2022-12-13 | 13 | 25 | 
 

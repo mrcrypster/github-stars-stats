@@ -1,10 +1,10 @@
 # ruilisi/fortune-sheet - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 115
+☋ Forks: 116
 
-★ Stars: 1633
+★ Stars: 1635
 
 [Open repository](https://github.com/ruilisi/fortune-sheet)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 1635 | 116 | 
 | 2023-01-11 | 1633 | 115 | 
 | 2023-01-10 | 1632 | 115 | 
 | 2023-01-09 | 1627 | 115 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 1598 | 108 | 
 | 2022-12-15 | 1597 | 108 | 
 | 2022-12-14 | 1597 | 107 | 
-| 2022-12-13 | 1596 | 107 | 
 

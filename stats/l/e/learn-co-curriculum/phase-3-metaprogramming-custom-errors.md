@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-3-metaprogramming-custom-errors - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 1592
+☋ Forks: 1602
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 1 | 1602 | 
 | 2023-01-11 | 1 | 1592 | 
 | 2023-01-10 | 1 | 1587 | 
 | 2023-01-09 | 1 | 1585 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 1 | 1557 | 
 | 2022-12-15 | 1 | 1553 | 
 | 2022-12-14 | 1 | 1543 | 
-| 2022-12-13 | 1 | 1539 | 
 

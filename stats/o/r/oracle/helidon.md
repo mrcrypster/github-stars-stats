@@ -1,8 +1,8 @@
 # oracle/helidon - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 514
+☋ Forks: 515
 
 ★ Stars: 2917
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 2917 | 515 | 
 | 2023-01-11 | 2917 | 514 | 
 | 2023-01-10 | 2917 | 514 | 
 | 2023-01-09 | 2917 | 513 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 2896 | 510 | 
 | 2022-12-15 | 2895 | 508 | 
 | 2022-12-14 | 2894 | 507 | 
-| 2022-12-13 | 2891 | 507 | 
 

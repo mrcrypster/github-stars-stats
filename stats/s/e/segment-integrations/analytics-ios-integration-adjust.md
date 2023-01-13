@@ -1,8 +1,8 @@
 # segment-integrations/analytics-ios-integration-adjust - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 18
+☋ Forks: 19
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 1 | 19 | 
 | 2023-01-11 | 1 | 18 | 
 | 2023-01-10 | 1 | 18 | 
 | 2023-01-09 | 1 | 18 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 1 | 18 | 
 | 2022-12-16 | 1 | 18 | 
 | 2022-12-15 | 1 | 18 | 
-| 2022-12-14 | 1 | 18 | 
 

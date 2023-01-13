@@ -1,6 +1,6 @@
 # blaze-init/blaze - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 327 | 36 | 
 | 2023-01-11 | 327 | 36 | 
 | 2023-01-10 | 327 | 35 | 
 | 2023-01-09 | 326 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 323 | 35 | 
 | 2022-12-16 | 323 | 35 | 
 | 2022-12-15 | 321 | 35 | 
-| 2022-12-13 | 321 | 35 | 
 

@@ -1,6 +1,6 @@
 # Digilent/digilent-xdc - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 526
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 329 | 526 | 
 | 2023-01-11 | 329 | 526 | 
 | 2023-01-10 | 329 | 526 | 
 | 2023-01-09 | 329 | 526 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 320 | 521 | 
 | 2022-12-15 | 320 | 520 | 
 | 2022-12-14 | 320 | 516 | 
-| 2022-12-13 | 320 | 515 | 
 

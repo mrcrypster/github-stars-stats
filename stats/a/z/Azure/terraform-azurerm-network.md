@@ -1,6 +1,6 @@
 # Azure/terraform-azurerm-network - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 1042
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 79 | 1042 | 
 | 2023-01-11 | 79 | 1042 | 
 | 2023-01-10 | 78 | 1042 | 
 | 2023-01-09 | 78 | 1041 | 

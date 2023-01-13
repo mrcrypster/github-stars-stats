@@ -1,10 +1,10 @@
 # cmullaparthi/ibrowse - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 194
 
-★ Stars: 516
+★ Stars: 515
 
 [Open repository](https://github.com/cmullaparthi/ibrowse)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 515 | 194 | 
 | 2023-01-11 | 516 | 194 | 
 | 2023-01-10 | 516 | 194 | 
 | 2023-01-09 | 516 | 194 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 518 | 194 | 
 | 2022-12-16 | 518 | 194 | 
 | 2022-12-15 | 518 | 194 | 
-| 2022-12-13 | 518 | 194 | 
 

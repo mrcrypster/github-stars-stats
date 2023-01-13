@@ -1,10 +1,10 @@
 # Asabeneh/30-Days-Of-React - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 4759
+☋ Forks: 4758
 
-★ Stars: 18540
+★ Stars: 18561
 
 [Open repository](https://github.com/Asabeneh/30-Days-Of-React)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 18561 | 4758 | 
 | 2023-01-11 | 18540 | 4759 | 
 | 2023-01-10 | 18521 | 4757 | 
 | 2023-01-09 | 18501 | 4752 | 
@@ -41,6 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 18018 | 4623 | 
 | 2022-12-16 | 18012 | 4621 | 
 | 2022-12-15 | 17996 | 4618 | 
-| 2022-12-14 | 17980 | 4612 | 
-| 2022-12-13 | 17977 | 4612 | 
 

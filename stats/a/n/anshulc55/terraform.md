@@ -1,10 +1,10 @@
 # anshulc55/terraform - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 246
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/anshulc55/terraform)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 16 | 246 | 
 | 2023-01-11 | 15 | 246 | 
 | 2023-01-10 | 15 | 246 | 
 | 2023-01-09 | 15 | 246 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 14 | 241 | 
 | 2022-12-15 | 14 | 239 | 
 | 2022-12-14 | 14 | 238 | 
-| 2022-12-13 | 14 | 237 | 
 

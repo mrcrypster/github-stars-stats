@@ -1,6 +1,6 @@
 # mwerezak/sphinx-lang - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 286 | 11 | 
 | 2023-01-11 | 286 | 11 | 
 | 2023-01-10 | 286 | 11 | 
 | 2023-01-09 | 286 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 285 | 11 | 
 | 2022-12-16 | 285 | 11 | 
 | 2022-12-15 | 285 | 11 | 
-| 2022-12-13 | 285 | 11 | 
 

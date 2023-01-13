@@ -1,6 +1,6 @@
 # geocaml/ocaml-geojson - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 32 | 8 | 
 | 2023-01-11 | 32 | 8 | 
 | 2023-01-10 | 32 | 8 | 
 | 2023-01-09 | 32 | 8 | 

@@ -1,6 +1,6 @@
 # oVirt/ovirt-site - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 300
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 79 | 300 | 
 | 2023-01-11 | 79 | 300 | 
 | 2023-01-10 | 79 | 301 | 
 | 2023-01-09 | 79 | 302 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 79 | 301 | 
 | 2022-12-16 | 79 | 301 | 
 | 2022-12-15 | 79 | 301 | 
-| 2022-12-14 | 79 | 302 | 
 

@@ -1,10 +1,10 @@
 # doums/suit.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 1
 
-★ Stars: 42
+★ Stars: 41
 
 [Open repository](https://github.com/doums/suit.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 41 | 1 | 
 | 2023-01-11 | 42 | 1 | 
 | 2023-01-10 | 42 | 1 | 
 | 2023-01-09 | 42 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 41 | 1 | 
 | 2022-12-15 | 41 | 1 | 
 | 2022-12-14 | 41 | 1 | 
-| 2022-12-13 | 41 | 1 | 
 

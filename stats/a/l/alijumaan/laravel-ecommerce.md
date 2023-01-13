@@ -1,10 +1,10 @@
 # alijumaan/laravel-ecommerce - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 62
 
-★ Stars: 112
+★ Stars: 113
 
 [Open repository](https://github.com/alijumaan/laravel-ecommerce)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 113 | 62 | 
 | 2023-01-11 | 112 | 62 | 
 | 2023-01-10 | 112 | 62 | 
 | 2023-01-09 | 111 | 62 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 105 | 57 | 
 | 2022-12-16 | 105 | 57 | 
 | 2022-12-15 | 103 | 56 | 
-| 2022-12-13 | 103 | 56 | 
 

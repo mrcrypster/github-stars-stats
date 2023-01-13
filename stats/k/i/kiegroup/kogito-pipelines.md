@@ -1,6 +1,6 @@
 # kiegroup/kogito-pipelines - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 8 | 31 | 
 | 2023-01-11 | 8 | 31 | 
 | 2023-01-10 | 8 | 31 | 
 | 2023-01-09 | 8 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 8 | 31 | 
 | 2022-12-16 | 8 | 31 | 
 | 2022-12-15 | 8 | 31 | 
-| 2022-12-13 | 9 | 31 | 
 

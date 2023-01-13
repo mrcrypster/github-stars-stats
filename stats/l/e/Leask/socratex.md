@@ -1,6 +1,6 @@
 # Leask/socratex - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 222 | 21 | 
 | 2023-01-11 | 222 | 21 | 
 | 2023-01-10 | 222 | 21 | 
 | 2023-01-09 | 222 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 220 | 21 | 
 | 2022-12-15 | 219 | 21 | 
 | 2022-12-14 | 219 | 21 | 
-| 2022-12-13 | 219 | 21 | 
 

@@ -1,6 +1,6 @@
 # jekip/naive-ui-admin - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 647
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 3259 | 647 | 
 | 2023-01-11 | 3259 | 647 | 
 | 2023-01-10 | 3255 | 646 | 
 | 2023-01-09 | 3252 | 643 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 3208 | 634 | 
 | 2022-12-15 | 3207 | 634 | 
 | 2022-12-14 | 3203 | 633 | 
-| 2022-12-13 | 3204 | 633 | 
 

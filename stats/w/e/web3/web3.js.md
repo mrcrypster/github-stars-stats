@@ -1,10 +1,10 @@
 # web3/web3.js - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 4362
+☋ Forks: 4361
 
-★ Stars: 16749
+★ Stars: 16755
 
 [Open repository](https://github.com/web3/web3.js)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 16755 | 4361 | 
 | 2023-01-11 | 16749 | 4362 | 
 | 2023-01-10 | 16742 | 4361 | 
 | 2023-01-09 | 16735 | 4356 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 16634 | 4344 | 
 | 2022-12-15 | 16631 | 4344 | 
 | 2022-12-14 | 16623 | 4342 | 
-| 2022-12-13 | 16622 | 4337 | 
 

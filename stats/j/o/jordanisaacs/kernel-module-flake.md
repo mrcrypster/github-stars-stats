@@ -1,6 +1,6 @@
 # jordanisaacs/kernel-module-flake - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 64 | 1 | 
 | 2023-01-11 | 64 | 1 | 
 | 2023-01-09 | 63 | 1 | 
 | 2023-01-08 | 63 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 61 | 1 | 
 | 2022-12-16 | 61 | 1 | 
 | 2022-12-15 | 60 | 1 | 
-| 2022-12-13 | 47 | 1 | 
 

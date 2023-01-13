@@ -1,6 +1,6 @@
 # cocoxu/CS4650_projects_sp2022 - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | - | 6 | 
 | 2023-01-11 | - | 6 | 
 | 2023-01-09 | - | 6 | 
 | 2023-01-08 | - | 6 | 

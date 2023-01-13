@@ -1,6 +1,6 @@
 # bkeepers/dotenv - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 499
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 6227 | 499 | 
 | 2023-01-11 | 6227 | 499 | 
 | 2023-01-10 | 6226 | 499 | 
 | 2023-01-09 | 6225 | 499 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 6217 | 494 | 
 | 2022-12-15 | 6215 | 494 | 
 | 2022-12-14 | 6214 | 494 | 
-| 2022-12-13 | 6213 | 494 | 
 

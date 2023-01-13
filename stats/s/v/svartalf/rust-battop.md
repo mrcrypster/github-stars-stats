@@ -1,6 +1,6 @@
 # svartalf/rust-battop - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 377 | 14 | 
 | 2023-01-11 | 377 | 14 | 
 | 2023-01-10 | 377 | 14 | 
 | 2023-01-09 | 377 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 377 | 12 | 
 | 2022-12-15 | 377 | 12 | 
 | 2022-12-14 | 377 | 12 | 
-| 2022-12-13 | 376 | 12 | 
 

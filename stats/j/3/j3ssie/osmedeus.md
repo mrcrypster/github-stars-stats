@@ -1,8 +1,8 @@
 # j3ssie/osmedeus - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 798
+☋ Forks: 799
 
 ★ Stars: 4253
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 4253 | 799 | 
 | 2023-01-11 | 4253 | 798 | 
 | 2023-01-10 | 4253 | 798 | 
 | 2023-01-09 | 4253 | 798 | 

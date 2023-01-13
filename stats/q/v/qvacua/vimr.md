@@ -1,10 +1,10 @@
 # qvacua/vimr - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 209
+☋ Forks: 208
 
-★ Stars: 6161
+★ Stars: 6163
 
 [Open repository](https://github.com/qvacua/vimr)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 6163 | 208 | 
 | 2023-01-11 | 6161 | 209 | 
 | 2023-01-10 | 6159 | 209 | 
 | 2023-01-09 | 6153 | 209 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 6131 | 208 | 
 | 2022-12-16 | 6129 | 208 | 
 | 2022-12-15 | 6128 | 208 | 
-| 2022-12-13 | 6128 | 208 | 
 

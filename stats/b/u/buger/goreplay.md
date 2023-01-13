@@ -1,10 +1,10 @@
 # buger/goreplay - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 1691
 
-★ Stars: 16668
+★ Stars: 16671
 
 [Open repository](https://github.com/buger/goreplay)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 16671 | 1691 | 
 | 2023-01-11 | 16668 | 1691 | 
 | 2023-01-10 | 16664 | 1691 | 
 | 2023-01-09 | 16661 | 1690 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 16506 | 1677 | 
 | 2022-12-16 | 16503 | 1675 | 
 | 2022-12-15 | 16501 | 1675 | 
-| 2022-12-13 | 16498 | 1674 | 
 

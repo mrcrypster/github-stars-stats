@@ -1,10 +1,10 @@
 # CCob/Volumiser - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 25
+☋ Forks: 26
 
-★ Stars: 258
+★ Stars: 259
 
 [Open repository](https://github.com/CCob/Volumiser)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 259 | 26 | 
 | 2023-01-11 | 258 | 25 | 
 | 2023-01-10 | 258 | 25 | 
 | 2023-01-09 | 258 | 25 | 

@@ -1,10 +1,10 @@
 # sparksp/elm-review-camelcase - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 0
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/sparksp/elm-review-camelcase)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 3 | - | 
 | 2023-01-11 | 2 | - | 
 | 2023-01-10 | 2 | - | 
 | 2023-01-09 | 2 | - | 

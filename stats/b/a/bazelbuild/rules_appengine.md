@@ -1,6 +1,6 @@
 # bazelbuild/rules_appengine - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 29 | 47 | 
 | 2023-01-11 | 29 | 47 | 
 | 2023-01-10 | 29 | 47 | 
 | 2023-01-09 | 29 | 47 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 28 | 47 | 
 | 2022-12-15 | 28 | 47 | 
 | 2022-12-14 | 28 | 47 | 
-| 2022-12-13 | 28 | 47 | 
 

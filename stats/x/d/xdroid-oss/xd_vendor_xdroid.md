@@ -1,6 +1,6 @@
 # xdroid-oss/xd_vendor_xdroid - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | - | 22 | 
 | 2023-01-11 | - | 22 | 
 | 2023-01-10 | - | 22 | 
 | 2023-01-09 | - | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | - | 21 | 
 | 2022-12-15 | - | 21 | 
 | 2022-12-14 | - | 21 | 
-| 2022-12-13 | - | 21 | 
 

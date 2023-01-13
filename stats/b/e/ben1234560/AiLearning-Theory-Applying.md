@@ -1,10 +1,10 @@
 # ben1234560/AiLearning-Theory-Applying - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 322
 
-★ Stars: 2011
+★ Stars: 2016
 
 [Open repository](https://github.com/ben1234560/AiLearning-Theory-Applying)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 2016 | 322 | 
 | 2023-01-11 | 2011 | 322 | 
 | 2023-01-10 | 2006 | 321 | 
 | 2023-01-09 | 2000 | 321 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 1882 | 305 | 
 | 2022-12-16 | 1873 | 304 | 
 | 2022-12-15 | 1868 | 303 | 
-| 2022-12-13 | 1861 | 302 | 
 

@@ -1,6 +1,6 @@
 # fnapi/fnapi - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 381 | 4 | 
 | 2023-01-11 | 381 | 4 | 
 | 2023-01-10 | 381 | 4 | 
 | 2023-01-09 | 381 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 381 | 4 | 
 | 2022-12-15 | 381 | 4 | 
 | 2022-12-14 | 380 | 4 | 
-| 2022-12-13 | 380 | 4 | 
 

@@ -1,10 +1,10 @@
 # open-mmlab/mmgeneration - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 189
 
-★ Stars: 1286
+★ Stars: 1290
 
 [Open repository](https://github.com/open-mmlab/mmgeneration)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 1290 | 189 | 
 | 2023-01-11 | 1286 | 189 | 
 | 2023-01-10 | 1285 | 189 | 
 | 2023-01-09 | 1284 | 189 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 1268 | 182 | 
 | 2022-12-15 | 1267 | 182 | 
 | 2022-12-14 | 1265 | 182 | 
-| 2022-12-13 | 1262 | 181 | 
 

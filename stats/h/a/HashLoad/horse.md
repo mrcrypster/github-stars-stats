@@ -1,10 +1,10 @@
 # HashLoad/horse - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 166
+☋ Forks: 167
 
-★ Stars: 819
+★ Stars: 820
 
 [Open repository](https://github.com/HashLoad/horse)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 820 | 167 | 
 | 2023-01-11 | 819 | 166 | 
 | 2023-01-10 | 819 | 165 | 
 | 2023-01-09 | 817 | 165 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 807 | 165 | 
 | 2022-12-15 | 807 | 165 | 
 | 2022-12-14 | 805 | 165 | 
-| 2022-12-13 | 804 | 165 | 
 

@@ -1,10 +1,10 @@
 # SmartIDE/SmartIDE - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 40
 
-★ Stars: 337
+★ Stars: 338
 
 [Open repository](https://github.com/SmartIDE/SmartIDE)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 338 | 40 | 
 | 2023-01-11 | 337 | 40 | 
 | 2023-01-10 | 337 | 40 | 
 | 2023-01-09 | 336 | 40 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 332 | 40 | 
 | 2022-12-15 | 332 | 40 | 
 | 2022-12-14 | 332 | 40 | 
-| 2022-12-13 | 332 | 40 | 
 

@@ -1,10 +1,10 @@
 # RioChndr/jaksel-language - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 87
+☋ Forks: 88
 
-★ Stars: 824
+★ Stars: 825
 
 [Open repository](https://github.com/RioChndr/jaksel-language)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 825 | 88 | 
 | 2023-01-11 | 824 | 87 | 
 | 2023-01-10 | 824 | 87 | 
 | 2023-01-09 | 823 | 87 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 816 | 86 | 
 | 2022-12-15 | 817 | 86 | 
 | 2022-12-14 | 817 | 86 | 
-| 2022-12-13 | 816 | 86 | 
 

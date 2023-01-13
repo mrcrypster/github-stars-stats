@@ -1,6 +1,6 @@
 # simple-login/app - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 302
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 3307 | 302 | 
 | 2023-01-11 | 3307 | 302 | 
 | 2023-01-10 | 3303 | 302 | 
 | 2023-01-09 | 3302 | 302 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 3209 | 299 | 
 | 2022-12-15 | 3207 | 298 | 
 | 2022-12-14 | 3207 | 298 | 
-| 2022-12-13 | 3198 | 297 | 
 

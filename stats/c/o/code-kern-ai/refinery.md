@@ -1,6 +1,6 @@
 # code-kern-ai/refinery - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 1079 | 43 | 
 | 2023-01-11 | 1079 | 43 | 
 | 2023-01-10 | 1079 | 43 | 
 | 2023-01-09 | 1078 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 1063 | 42 | 
 | 2022-12-15 | 1061 | 42 | 
 | 2022-12-14 | 1062 | 42 | 
-| 2022-12-13 | 1052 | 41 | 
 

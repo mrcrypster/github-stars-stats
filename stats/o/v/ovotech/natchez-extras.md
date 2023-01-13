@@ -1,10 +1,10 @@
 # ovotech/natchez-extras - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 11
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/ovotech/natchez-extras)
 
@@ -13,5 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 22 | 11 | 
+| 2023-01-12 | 21 | 11 | 
 | 2023-01-11 | 21 | 11 | 
 

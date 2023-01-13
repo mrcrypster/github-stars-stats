@@ -1,6 +1,6 @@
 # 34306/TrollStoreiPA - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 637 | 34 | 
 | 2023-01-11 | 637 | 34 | 
 | 2023-01-10 | 635 | 34 | 
 | 2023-01-09 | 635 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 610 | 33 | 
 | 2022-12-16 | 610 | 33 | 
 | 2022-12-15 | 604 | 33 | 
-| 2022-12-13 | 600 | 33 | 
 

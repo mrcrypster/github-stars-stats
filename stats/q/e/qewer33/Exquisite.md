@@ -1,6 +1,6 @@
 # qewer33/Exquisite - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 131 | 4 | 
 | 2023-01-12 | 131 | 4 | 
 | 2023-01-10 | 132 | 4 | 
 | 2023-01-09 | 132 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 116 | 3 | 
 | 2022-12-16 | 114 | 3 | 
 | 2022-12-15 | 113 | 3 | 
-| 2022-12-13 | 113 | 3 | 
 

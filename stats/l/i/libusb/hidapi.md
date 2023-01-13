@@ -1,10 +1,10 @@
 # libusb/hidapi - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 295
 
-★ Stars: 1044
+★ Stars: 1047
 
 [Open repository](https://github.com/libusb/hidapi)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 1047 | 295 | 
 | 2023-01-11 | 1044 | 295 | 
 | 2023-01-10 | 1041 | 295 | 
 | 2023-01-09 | 1040 | 295 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 1020 | 292 | 
 | 2022-12-15 | 1020 | 292 | 
 | 2022-12-14 | 1021 | 292 | 
-| 2022-12-13 | 1020 | 292 | 
 

@@ -1,10 +1,10 @@
 # pyca/cryptography - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 1113
+☋ Forks: 1114
 
-★ Stars: 5263
+★ Stars: 5265
 
 [Open repository](https://github.com/pyca/cryptography)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 5265 | 1114 | 
 | 2023-01-11 | 5263 | 1113 | 
 | 2023-01-10 | 5259 | 1113 | 
 | 2023-01-09 | 5256 | 1113 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 5218 | 1102 | 
 | 2022-12-15 | 5216 | 1102 | 
 | 2022-12-14 | 5215 | 1101 | 
-| 2022-12-13 | 5214 | 1101 | 
 

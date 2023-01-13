@@ -1,6 +1,6 @@
 # litherum/http-conduit-browser - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | - | 4 | 
 | 2023-01-11 | - | 4 | 
 | 2023-01-10 | - | 4 | 
 | 2023-01-09 | - | 4 | 

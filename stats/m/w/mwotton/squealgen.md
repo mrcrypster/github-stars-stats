@@ -1,6 +1,6 @@
 # mwotton/squealgen - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 23 | 3 | 
 | 2023-01-11 | 23 | 3 | 
 | 2023-01-10 | 23 | 3 | 
 | 2023-01-09 | 23 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 24 | 3 | 
 | 2022-12-15 | 24 | 3 | 
 | 2022-12-14 | 24 | 3 | 
-| 2022-12-13 | 24 | 3 | 
 

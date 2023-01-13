@@ -1,10 +1,10 @@
 # FormidableLabs/victory - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 534
 
-★ Stars: 10119
+★ Stars: 10122
 
 [Open repository](https://github.com/FormidableLabs/victory)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 10122 | 534 | 
 | 2023-01-11 | 10119 | 534 | 
 | 2023-01-10 | 10117 | 534 | 
 | 2023-01-09 | 10115 | 533 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 10077 | 532 | 
 | 2022-12-15 | 10074 | 532 | 
 | 2022-12-14 | 10071 | 532 | 
-| 2022-12-13 | 10068 | 532 | 
 

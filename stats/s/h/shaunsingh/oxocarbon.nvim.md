@@ -1,10 +1,10 @@
 # shaunsingh/oxocarbon.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 20
 
-★ Stars: 543
+★ Stars: 545
 
 [Open repository](https://github.com/shaunsingh/oxocarbon.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 545 | 20 | 
 | 2023-01-11 | 543 | 20 | 
 | 2023-01-10 | 540 | 20 | 
 | 2023-01-09 | 539 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 485 | 19 | 
 | 2022-12-16 | 475 | 19 | 
 | 2022-12-15 | 471 | 19 | 
-| 2022-12-13 | 470 | 19 | 
 

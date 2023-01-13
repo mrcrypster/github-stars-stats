@@ -1,10 +1,10 @@
 # Noble-Mushtak/Advent-of-Code - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 1
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/Noble-Mushtak/Advent-of-Code)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 5 | 1 | 
 | 2023-01-11 | 4 | 1 | 
 | 2023-01-10 | 4 | 1 | 
 | 2023-01-09 | 4 | 1 | 

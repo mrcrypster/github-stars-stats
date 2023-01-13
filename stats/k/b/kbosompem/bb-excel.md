@@ -1,6 +1,6 @@
 # kbosompem/bb-excel - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 23 | 1 | 
 | 2023-01-12 | 23 | 1 | 
 | 2023-01-10 | 23 | 1 | 
 | 2023-01-09 | 23 | 1 | 

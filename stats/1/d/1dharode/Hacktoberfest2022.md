@@ -1,8 +1,8 @@
 # 1dharode/Hacktoberfest2022 - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 1880
+☋ Forks: 1878
 
 ★ Stars: 290
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 290 | 1878 | 
 | 2023-01-11 | 290 | 1880 | 
 | 2023-01-10 | 290 | 1881 | 
 | 2023-01-09 | 290 | 1882 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 297 | 1904 | 
 | 2022-12-15 | 297 | 1906 | 
 | 2022-12-14 | 297 | 1906 | 
-| 2022-12-13 | 297 | 1908 | 
 

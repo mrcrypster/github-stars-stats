@@ -1,10 +1,10 @@
 # microsoft/Windows-universal-samples - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 8057
+☋ Forks: 8058
 
-★ Stars: 8961
+★ Stars: 8962
 
 [Open repository](https://github.com/microsoft/Windows-universal-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 8962 | 8058 | 
 | 2023-01-11 | 8961 | 8057 | 
 | 2023-01-10 | 8960 | 8058 | 
 | 2023-01-09 | 8958 | 8057 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 8935 | 8051 | 
 | 2022-12-15 | 8933 | 8051 | 
 | 2022-12-14 | 8932 | 8050 | 
-| 2022-12-13 | 8931 | 8048 | 
 

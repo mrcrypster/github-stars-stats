@@ -1,6 +1,6 @@
 # MrcJkb/telescope-manix - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 30 | - | 
 | 2023-01-12 | 30 | - | 
 | 2023-01-10 | 30 | - | 
 | 2023-01-09 | 30 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 29 | - | 
 | 2022-12-16 | 29 | - | 
 | 2022-12-15 | 29 | - | 
-| 2022-12-14 | 29 | - | 
 

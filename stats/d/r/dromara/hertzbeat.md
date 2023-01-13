@@ -1,10 +1,10 @@
 # dromara/hertzbeat - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 350
+☋ Forks: 353
 
-★ Stars: 2120
+★ Stars: 2123
 
 [Open repository](https://github.com/dromara/hertzbeat)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 2123 | 353 | 
 | 2023-01-11 | 2120 | 350 | 
 | 2023-01-10 | 2116 | 350 | 
 | 2023-01-09 | 2111 | 349 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 2048 | 329 | 
 | 2022-12-15 | 2044 | 328 | 
 | 2022-12-14 | 2041 | 328 | 
-| 2022-12-13 | 2038 | 329 | 
 

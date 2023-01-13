@@ -1,8 +1,8 @@
 # mavlink/qgroundcontrol - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 2857
+☋ Forks: 2858
 
 ★ Stars: 2362
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 2362 | 2858 | 
 | 2023-01-11 | 2362 | 2857 | 
 | 2023-01-10 | 2359 | 2856 | 
 | 2023-01-09 | 2358 | 2854 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 2344 | 2842 | 
 | 2022-12-15 | 2343 | 2841 | 
 | 2022-12-14 | 2341 | 2841 | 
-| 2022-12-13 | 2341 | 2841 | 
 

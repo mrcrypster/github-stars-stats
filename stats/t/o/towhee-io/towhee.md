@@ -1,10 +1,10 @@
 # towhee-io/towhee - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 187
 
-★ Stars: 1741
+★ Stars: 1749
 
 [Open repository](https://github.com/towhee-io/towhee)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 1749 | 187 | 
 | 2023-01-11 | 1741 | 187 | 
 | 2023-01-10 | 1741 | 187 | 
 | 2023-01-09 | 1739 | 187 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 1697 | 182 | 
 | 2022-12-15 | 1696 | 181 | 
 | 2022-12-14 | 1692 | 181 | 
-| 2022-12-13 | 1687 | 181 | 
 

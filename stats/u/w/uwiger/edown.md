@@ -1,6 +1,6 @@
 # uwiger/edown - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 83
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 50 | 83 | 
 | 2023-01-11 | 50 | 83 | 
 | 2023-01-10 | 50 | 83 | 
 | 2023-01-09 | 50 | 83 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 50 | 83 | 
 | 2022-12-15 | 49 | 83 | 
 | 2022-12-14 | 48 | 82 | 
-| 2022-12-13 | 48 | 82 | 
 

@@ -1,10 +1,10 @@
 # z0ccc/Vytal - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 70
 
-★ Stars: 1467
+★ Stars: 1466
 
 [Open repository](https://github.com/z0ccc/Vytal)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 1466 | 70 | 
 | 2023-01-11 | 1467 | 70 | 
 | 2023-01-10 | 1467 | 70 | 
 | 2023-01-09 | 1467 | 70 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 1458 | 69 | 
 | 2022-12-15 | 1458 | 69 | 
 | 2022-12-14 | 1458 | 68 | 
-| 2022-12-13 | 1458 | 68 | 
 

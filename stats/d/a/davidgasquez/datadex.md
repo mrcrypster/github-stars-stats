@@ -1,6 +1,6 @@
 # davidgasquez/datadex - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 81 | 5 | 
 | 2023-01-11 | 81 | 5 | 
 | 2023-01-10 | 81 | 5 | 
 | 2023-01-09 | 81 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 79 | 4 | 
 | 2022-12-16 | 78 | 4 | 
 | 2022-12-15 | 78 | 4 | 
-| 2022-12-13 | 77 | 4 | 
 

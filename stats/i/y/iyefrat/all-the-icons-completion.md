@@ -1,6 +1,6 @@
 # iyefrat/all-the-icons-completion - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 72 | 6 | 
 | 2023-01-12 | 72 | 6 | 
 | 2023-01-10 | 72 | 6 | 
 | 2023-01-09 | 72 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 69 | 6 | 
 | 2022-12-16 | 69 | 6 | 
 | 2022-12-15 | 69 | 6 | 
-| 2022-12-13 | 69 | 6 | 
 

@@ -1,8 +1,8 @@
 # romeojeremiah/javascript-projects-for-beginners - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 148
+☋ Forks: 149
 
 ★ Stars: 435
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 435 | 149 | 
 | 2023-01-11 | 435 | 148 | 
 | 2023-01-10 | 435 | 147 | 
 | 2023-01-09 | 433 | 147 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 425 | 147 | 
 | 2022-12-15 | 425 | 147 | 
 | 2022-12-14 | 424 | 147 | 
-| 2022-12-13 | 423 | 147 | 
 

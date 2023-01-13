@@ -1,10 +1,10 @@
 # vitest-dev/vscode - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 39
 
-★ Stars: 453
+★ Stars: 454
 
 [Open repository](https://github.com/vitest-dev/vscode)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 454 | 39 | 
 | 2023-01-11 | 453 | 39 | 
 | 2023-01-10 | 452 | 37 | 
 | 2023-01-09 | 451 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 441 | 36 | 
 | 2022-12-15 | 440 | 36 | 
 | 2022-12-14 | 440 | 36 | 
-| 2022-12-13 | 440 | 35 | 
 

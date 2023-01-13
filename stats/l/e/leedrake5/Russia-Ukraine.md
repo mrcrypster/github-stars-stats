@@ -1,10 +1,10 @@
 # leedrake5/Russia-Ukraine - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 19
 
-★ Stars: 349
+★ Stars: 357
 
 [Open repository](https://github.com/leedrake5/Russia-Ukraine)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 357 | 19 | 
 | 2023-01-11 | 349 | 19 | 
 | 2023-01-10 | 348 | 19 | 
 | 2023-01-09 | 347 | 19 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 324 | 17 | 
 | 2022-12-15 | 324 | 17 | 
 | 2022-12-14 | 324 | 17 | 
-| 2022-12-13 | 323 | 17 | 
 

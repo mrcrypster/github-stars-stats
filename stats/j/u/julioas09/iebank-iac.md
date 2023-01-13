@@ -1,6 +1,6 @@
 # julioas09/iebank-iac - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | - | 11 | 
 | 2023-01-11 | - | 11 | 
 | 2023-01-10 | - | 11 | 
 | 2023-01-09 | - | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | - | 12 | 
 | 2022-12-15 | - | 12 | 
 | 2022-12-14 | - | 8 | 
-| 2022-12-13 | - | 8 | 
 

@@ -1,6 +1,6 @@
 # liaocp666/halo-theme-daisy - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 43 | 12 | 
 | 2023-01-11 | 43 | 12 | 
 | 2023-01-10 | 43 | 12 | 
 | 2023-01-09 | 43 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 39 | 10 | 
 | 2022-12-15 | 39 | 10 | 
 | 2022-12-14 | 40 | 10 | 
-| 2022-12-13 | 40 | 10 | 
 

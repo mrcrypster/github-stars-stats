@@ -1,10 +1,10 @@
 # mob-sakai/SoftMaskForUGUI - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 201
 
-★ Stars: 1356
+★ Stars: 1358
 
 [Open repository](https://github.com/mob-sakai/SoftMaskForUGUI)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 1358 | 201 | 
 | 2023-01-11 | 1356 | 201 | 
 | 2023-01-10 | 1354 | 201 | 
 | 2023-01-09 | 1350 | 201 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 1319 | 199 | 
 | 2022-12-15 | 1319 | 199 | 
 | 2022-12-14 | 1319 | 199 | 
-| 2022-12-13 | 1318 | 199 | 
 

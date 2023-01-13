@@ -1,8 +1,8 @@
 # ROYALEPRO/soni-main-public - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 9
+☋ Forks: 10
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 1 | 10 | 
 | 2023-01-11 | 1 | 9 | 
 | 2023-01-10 | 1 | 9 | 
 | 2023-01-09 | 1 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 2 | 9 | 
 | 2022-12-15 | 2 | 9 | 
 | 2022-12-14 | 2 | 9 | 
-| 2022-12-13 | 2 | 9 | 
 

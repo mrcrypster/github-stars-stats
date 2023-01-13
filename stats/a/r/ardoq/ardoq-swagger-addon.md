@@ -1,6 +1,6 @@
 # ardoq/ardoq-swagger-addon - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 3 | - | 
 | 2023-01-11 | 3 | - | 
 | 2023-01-09 | 3 | - | 
 | 2023-01-08 | 3 | - | 

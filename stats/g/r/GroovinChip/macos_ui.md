@@ -1,10 +1,10 @@
 # GroovinChip/macos_ui - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 96
 
-★ Stars: 1141
+★ Stars: 1143
 
 [Open repository](https://github.com/GroovinChip/macos_ui)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 1143 | 96 | 
 | 2023-01-11 | 1141 | 96 | 
 | 2023-01-10 | 1137 | 96 | 
 | 2023-01-09 | 1134 | 96 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 1112 | 94 | 
 | 2022-12-15 | 1112 | 92 | 
 | 2022-12-14 | 1111 | 92 | 
-| 2022-12-13 | 1111 | 92 | 
 

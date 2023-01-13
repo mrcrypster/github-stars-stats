@@ -1,10 +1,10 @@
 # eclarke/ggbeeswarm - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 27
 
-★ Stars: 473
+★ Stars: 474
 
 [Open repository](https://github.com/eclarke/ggbeeswarm)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 474 | 27 | 
 | 2023-01-11 | 473 | 27 | 
 | 2023-01-10 | 473 | 27 | 
 | 2023-01-09 | 473 | 27 | 

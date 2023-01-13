@@ -1,10 +1,10 @@
 # libffi/libffi - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 618
 
-★ Stars: 2684
+★ Stars: 2686
 
 [Open repository](https://github.com/libffi/libffi)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 2686 | 618 | 
 | 2023-01-11 | 2684 | 618 | 
 | 2023-01-10 | 2684 | 617 | 
 | 2023-01-09 | 2684 | 617 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 2665 | 613 | 
 | 2022-12-15 | 2665 | 613 | 
 | 2022-12-14 | 2664 | 613 | 
-| 2022-12-13 | 2663 | 613 | 
 

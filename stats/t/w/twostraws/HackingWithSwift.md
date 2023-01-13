@@ -1,10 +1,10 @@
 # twostraws/HackingWithSwift - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 3125
+☋ Forks: 3126
 
-★ Stars: 4886
+★ Stars: 4885
 
 [Open repository](https://github.com/twostraws/HackingWithSwift)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 4885 | 3126 | 
 | 2023-01-11 | 4886 | 3125 | 
 | 2023-01-10 | 4884 | 3120 | 
 | 2023-01-09 | 4881 | 3116 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 4850 | 3085 | 
 | 2022-12-15 | 4848 | 3084 | 
 | 2022-12-14 | 4848 | 3084 | 
-| 2022-12-13 | 4845 | 3083 | 
 

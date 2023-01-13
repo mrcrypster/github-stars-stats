@@ -1,6 +1,6 @@
 # jonathanpaulson/AdventOfCode - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 195 | 55 | 
 | 2023-01-11 | 195 | 55 | 
 | 2023-01-10 | 195 | 55 | 
 | 2023-01-09 | 195 | 55 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 161 | 53 | 
 | 2022-12-15 | 160 | 51 | 
 | 2022-12-14 | 155 | 52 | 
-| 2022-12-13 | 151 | 49 | 
 

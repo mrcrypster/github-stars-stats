@@ -1,6 +1,6 @@
 # Zeal8bit/Zeal-8-bit-OS - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 346 | 28 | 
 | 2023-01-11 | 346 | 28 | 
 | 2023-01-10 | 346 | 28 | 
 | 2023-01-09 | 345 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 336 | 27 | 
 | 2022-12-15 | 336 | 27 | 
 | 2022-12-14 | 336 | 27 | 
-| 2022-12-13 | 336 | 27 | 
 

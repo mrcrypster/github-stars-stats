@@ -1,10 +1,10 @@
 # SkywalkerJi/mdt - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 94
 
-★ Stars: 715
+★ Stars: 716
 
 [Open repository](https://github.com/SkywalkerJi/mdt)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 716 | 94 | 
 | 2023-01-11 | 715 | 94 | 
 | 2023-01-10 | 715 | 94 | 
 | 2023-01-09 | 715 | 94 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 708 | 94 | 
 | 2022-12-15 | 708 | 93 | 
 | 2022-12-14 | 708 | 93 | 
-| 2022-12-13 | 708 | 93 | 
 

@@ -1,10 +1,10 @@
 # rougier/sideframe - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 1
 
-★ Stars: 85
+★ Stars: 86
 
 [Open repository](https://github.com/rougier/sideframe)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 86 | 1 | 
 | 2023-01-11 | 85 | 1 | 
 | 2023-01-10 | 85 | 1 | 
 | 2023-01-09 | 84 | 1 | 

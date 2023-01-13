@@ -1,6 +1,6 @@
 # someengineering/resoto - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 1255 | 59 | 
 | 2023-01-11 | 1255 | 59 | 
 | 2023-01-10 | 1254 | 59 | 
 | 2023-01-09 | 1253 | 59 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 1234 | 58 | 
 | 2022-12-16 | 1233 | 58 | 
 | 2022-12-15 | 1233 | 57 | 
-| 2022-12-13 | 1234 | 57 | 
 

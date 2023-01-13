@@ -1,6 +1,6 @@
 # RobertBorghese/reflaxe - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 35 | - | 
 | 2023-01-11 | 35 | - | 
 | 2023-01-10 | 35 | - | 
 | 2023-01-09 | 35 | - | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 21 | - | 
 | 2022-12-15 | 21 | - | 
 | 2022-12-14 | 20 | - | 
-| 2022-12-13 | 19 | - | 
 

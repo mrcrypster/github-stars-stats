@@ -1,6 +1,6 @@
 # ocsigen/tyxml - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 138 | 51 | 
 | 2023-01-11 | 138 | 51 | 
 | 2023-01-10 | 138 | 51 | 
 | 2023-01-09 | 138 | 51 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 138 | 51 | 
 | 2022-12-16 | 138 | 51 | 
 | 2022-12-15 | 138 | 51 | 
-| 2022-12-13 | 138 | 51 | 
 

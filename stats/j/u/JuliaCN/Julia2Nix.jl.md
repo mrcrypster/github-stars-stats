@@ -1,10 +1,10 @@
 # JuliaCN/Julia2Nix.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 5
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/JuliaCN/Julia2Nix.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 22 | 5 | 
 | 2023-01-11 | 21 | 5 | 
 | 2023-01-10 | 21 | 5 | 
 | 2023-01-09 | 21 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 21 | 3 | 
 | 2022-12-15 | 21 | 3 | 
 | 2022-12-14 | 21 | 3 | 
-| 2022-12-13 | 21 | 3 | 
 

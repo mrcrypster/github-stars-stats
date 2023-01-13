@@ -1,6 +1,6 @@
 # haishanh/cherry - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 174 | 7 | 
 | 2023-01-11 | 174 | 7 | 
 | 2023-01-10 | 174 | 7 | 
 | 2023-01-09 | 174 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 168 | 7 | 
 | 2022-12-15 | 167 | 7 | 
 | 2022-12-14 | 167 | 7 | 
-| 2022-12-13 | 166 | 7 | 
 

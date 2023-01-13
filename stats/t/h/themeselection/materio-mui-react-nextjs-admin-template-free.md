@@ -1,10 +1,10 @@
 # themeselection/materio-mui-react-nextjs-admin-template-free - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 193
+☋ Forks: 194
 
-★ Stars: 597
+★ Stars: 599
 
 [Open repository](https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 599 | 194 | 
 | 2023-01-11 | 597 | 193 | 
 | 2023-01-10 | 595 | 191 | 
 | 2023-01-09 | 592 | 190 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 557 | 176 | 
 | 2022-12-15 | 557 | 176 | 
 | 2022-12-14 | 555 | 174 | 
-| 2022-12-13 | 552 | 173 | 
 

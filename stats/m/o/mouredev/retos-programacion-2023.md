@@ -1,10 +1,10 @@
 # mouredev/retos-programacion-2023 - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 741
+☋ Forks: 758
 
-★ Stars: 1007
+★ Stars: 1052
 
 [Open repository](https://github.com/mouredev/retos-programacion-2023)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 1052 | 758 | 
 | 2023-01-11 | 1007 | 741 | 
 | 2023-01-10 | 976 | 714 | 
 | 2023-01-09 | 917 | 663 | 

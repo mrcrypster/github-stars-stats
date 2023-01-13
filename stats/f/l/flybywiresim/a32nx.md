@@ -1,10 +1,10 @@
 # flybywiresim/a32nx - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 13
 
-☋ Forks: 895
+☋ Forks: 894
 
-★ Stars: 4543
+★ Stars: 4546
 
 [Open repository](https://github.com/flybywiresim/a32nx)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 4546 | 894 | 
 | 2023-01-11 | 4543 | 895 | 
 | 2023-01-10 | 4542 | 895 | 
 | 2023-01-09 | 4541 | 895 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 4506 | 889 | 
 | 2022-12-15 | 4506 | 889 | 
 | 2022-12-14 | 4506 | 889 | 
-| 2022-12-13 | 4505 | 888 | 
 

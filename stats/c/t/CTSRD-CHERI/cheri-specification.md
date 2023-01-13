@@ -1,10 +1,10 @@
 # CTSRD-CHERI/cheri-specification - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 5
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/CTSRD-CHERI/cheri-specification)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 6 | 5 | 
 | 2023-01-11 | 5 | 5 | 
 | 2023-01-10 | 5 | 5 | 
 | 2023-01-09 | 5 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 5 | 5 | 
 | 2022-12-16 | 5 | 5 | 
 | 2022-12-15 | 5 | 5 | 
-| 2022-12-13 | 5 | 5 | 
 

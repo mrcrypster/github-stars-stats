@@ -1,10 +1,10 @@
 # towfiqi/serpbear - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 35
+☋ Forks: 37
 
-★ Stars: 689
+★ Stars: 690
 
 [Open repository](https://github.com/towfiqi/serpbear)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 690 | 37 | 
 | 2023-01-11 | 689 | 35 | 
 | 2023-01-10 | 687 | 35 | 
 | 2023-01-09 | 687 | 35 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 431 | 20 | 
 | 2022-12-15 | 414 | 20 | 
 | 2022-12-14 | 414 | 20 | 
-| 2022-12-13 | 404 | 18 | 
 

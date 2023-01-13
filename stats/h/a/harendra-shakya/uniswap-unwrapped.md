@@ -1,6 +1,6 @@
 # harendra-shakya/uniswap-unwrapped - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 81 | 16 | 
 | 2023-01-11 | 81 | 16 | 
 | 2023-01-10 | 81 | 16 | 
 | 2023-01-09 | 81 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 68 | 14 | 
 | 2022-12-16 | 66 | 14 | 
 | 2022-12-15 | 65 | 14 | 
-| 2022-12-13 | 65 | 14 | 
 

@@ -1,10 +1,10 @@
 # grindrllc/erl-tr39 - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 0
 
-★ Stars: 5
+★ Stars: 4
 
 [Open repository](https://github.com/grindrllc/erl-tr39)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 4 | - | 
 | 2023-01-11 | 5 | - | 
 | 2023-01-10 | 5 | - | 
 | 2023-01-09 | 4 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 4 | - | 
 | 2022-12-15 | 4 | - | 
 | 2022-12-14 | 4 | - | 
-| 2022-12-13 | 4 | - | 
 

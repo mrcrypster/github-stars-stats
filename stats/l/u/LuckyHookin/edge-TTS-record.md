@@ -1,10 +1,10 @@
 # LuckyHookin/edge-TTS-record - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 125
 
-★ Stars: 802
+★ Stars: 805
 
 [Open repository](https://github.com/LuckyHookin/edge-TTS-record)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 805 | 125 | 
 | 2023-01-11 | 802 | 125 | 
 | 2023-01-10 | 802 | 125 | 
 | 2023-01-09 | 801 | 125 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 788 | 124 | 
 | 2022-12-15 | 788 | 124 | 
 | 2022-12-14 | 788 | 124 | 
-| 2022-12-13 | 787 | 124 | 
 

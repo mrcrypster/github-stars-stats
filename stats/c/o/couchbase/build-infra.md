@@ -1,6 +1,6 @@
 # couchbase/build-infra - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 5 | 11 | 
 | 2023-01-11 | 5 | 11 | 
 | 2023-01-10 | 5 | 11 | 
 | 2023-01-08 | 5 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 4 | 11 | 
 | 2022-12-16 | 4 | 11 | 
 | 2022-12-15 | 4 | 11 | 
-| 2022-12-13 | 5 | 11 | 
 

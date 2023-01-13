@@ -1,6 +1,6 @@
 # kizitonwose/CalendarView - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 408
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 3437 | 408 | 
 | 2023-01-11 | 3437 | 408 | 
 | 2023-01-10 | 3434 | 407 | 
 | 2023-01-09 | 3432 | 407 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 3388 | 406 | 
 | 2022-12-16 | 3388 | 405 | 
 | 2022-12-15 | 3387 | 405 | 
-| 2022-12-13 | 3385 | 404 | 
 

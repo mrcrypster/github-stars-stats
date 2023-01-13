@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 12
 
 ☋ Forks: 11
 
-★ Stars: 26
+★ Stars: 28
 
 [Open repository](https://github.com/status-im/nim-codex)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-12 | 26 | 11 | 
+| 2023-01-12 | 28 | 11 | 
 | 2023-01-11 | 26 | 11 | 
 | 2023-01-10 | 26 | 11 | 
 | 2023-01-08 | 26 | 11 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-16 | 25 | 11 | 
 | 2022-12-15 | 25 | 11 | 
 | 2022-12-14 | 25 | 11 | 
-| 2022-12-13 | 25 | 11 | 
 

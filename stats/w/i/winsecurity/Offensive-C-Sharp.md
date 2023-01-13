@@ -1,10 +1,10 @@
 # winsecurity/Offensive-C-Sharp - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 36
 
-★ Stars: 127
+★ Stars: 129
 
 [Open repository](https://github.com/winsecurity/Offensive-C-Sharp)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 129 | 36 | 
 | 2023-01-11 | 127 | 36 | 
 | 2023-01-10 | 125 | 34 | 
 | 2023-01-09 | 125 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 121 | 31 | 
 | 2022-12-15 | 121 | 31 | 
 | 2022-12-14 | 121 | 31 | 
-| 2022-12-13 | 121 | 31 | 
 

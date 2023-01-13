@@ -1,10 +1,10 @@
 # zeldaret/oot - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 505
+☋ Forks: 504
 
-★ Stars: 3952
+★ Stars: 3957
 
 [Open repository](https://github.com/zeldaret/oot)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 3957 | 504 | 
 | 2023-01-11 | 3952 | 505 | 
 | 2023-01-10 | 3951 | 505 | 
 | 2023-01-09 | 3951 | 505 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 3924 | 505 | 
 | 2022-12-16 | 3924 | 504 | 
 | 2022-12-15 | 3925 | 502 | 
-| 2022-12-13 | 3925 | 502 | 
 

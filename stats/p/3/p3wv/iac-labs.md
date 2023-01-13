@@ -1,8 +1,8 @@
 # p3wv/iac-labs - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 51
+☋ Forks: 49
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | - | 49 | 
 | 2023-01-11 | - | 51 | 
 | 2023-01-10 | - | 51 | 
 | 2023-01-09 | - | 51 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | - | 54 | 
 | 2022-12-15 | - | 54 | 
 | 2022-12-14 | - | 54 | 
-| 2022-12-13 | - | 54 | 
 

@@ -1,10 +1,10 @@
 # StephenGrider/ElixirCode - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 320
 
-★ Stars: 977
+★ Stars: 978
 
 [Open repository](https://github.com/StephenGrider/ElixirCode)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 978 | 320 | 
 | 2023-01-11 | 977 | 320 | 
 | 2023-01-10 | 976 | 320 | 
 | 2023-01-09 | 975 | 320 | 

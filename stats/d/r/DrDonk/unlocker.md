@@ -1,10 +1,10 @@
 # DrDonk/unlocker - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 198
+☋ Forks: 199
 
-★ Stars: 1418
+★ Stars: 1426
 
 [Open repository](https://github.com/DrDonk/unlocker)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 1426 | 199 | 
 | 2023-01-12 | 1418 | 198 | 
 | 2023-01-10 | 1412 | 197 | 
 | 2023-01-09 | 1405 | 196 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 1316 | 185 | 
 | 2022-12-16 | 1310 | 185 | 
 | 2022-12-15 | 1305 | 185 | 
-| 2022-12-13 | 1297 | 185 | 
 

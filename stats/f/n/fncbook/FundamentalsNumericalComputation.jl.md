@@ -1,10 +1,10 @@
 # fncbook/FundamentalsNumericalComputation.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 9
 
-★ Stars: 43
+★ Stars: 44
 
 [Open repository](https://github.com/fncbook/FundamentalsNumericalComputation.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 44 | 9 | 
 | 2023-01-11 | 43 | 9 | 
 | 2023-01-10 | 43 | 9 | 
 | 2023-01-09 | 43 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 42 | 8 | 
 | 2022-12-15 | 40 | 8 | 
 | 2022-12-14 | 39 | 8 | 
-| 2022-12-13 | 39 | 8 | 
 

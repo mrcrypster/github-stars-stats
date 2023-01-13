@@ -1,10 +1,10 @@
 # SignalR/SignalR - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 2298
 
-★ Stars: 8802
+★ Stars: 8801
 
 [Open repository](https://github.com/SignalR/SignalR)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 8801 | 2298 | 
 | 2023-01-11 | 8802 | 2298 | 
 | 2023-01-10 | 8802 | 2298 | 
 | 2023-01-09 | 8802 | 2298 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 8790 | 2298 | 
 | 2022-12-16 | 8790 | 2297 | 
 | 2022-12-15 | 8789 | 2297 | 
-| 2022-12-13 | 8787 | 2297 | 
 

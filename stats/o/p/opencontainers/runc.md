@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 12
 
-☋ Forks: 1884
+☋ Forks: 1883
 
-★ Stars: 9913
+★ Stars: 9914
 
 [Open repository](https://github.com/opencontainers/runc)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-12 | 9913 | 1884 | 
+| 2023-01-12 | 9914 | 1883 | 
 | 2023-01-11 | 9912 | 1884 | 
 | 2023-01-10 | 9910 | 1883 | 
 | 2023-01-09 | 9907 | 1879 | 

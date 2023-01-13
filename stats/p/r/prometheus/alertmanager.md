@@ -1,10 +1,10 @@
 # prometheus/alertmanager - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 1923
+☋ Forks: 1922
 
-★ Stars: 5420
+★ Stars: 5421
 
 [Open repository](https://github.com/prometheus/alertmanager)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 5421 | 1922 | 
 | 2023-01-11 | 5420 | 1923 | 
 | 2023-01-10 | 5419 | 1923 | 
 | 2023-01-09 | 5415 | 1921 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 5368 | 1905 | 
 | 2022-12-15 | 5365 | 1904 | 
 | 2022-12-14 | 5363 | 1905 | 
-| 2022-12-13 | 5359 | 1904 | 
 

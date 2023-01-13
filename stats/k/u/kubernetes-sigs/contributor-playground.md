@@ -1,10 +1,10 @@
 # kubernetes-sigs/contributor-playground - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 713
 
-★ Stars: 142
+★ Stars: 143
 
 [Open repository](https://github.com/kubernetes-sigs/contributor-playground)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 143 | 713 | 
 | 2023-01-11 | 142 | 713 | 
 | 2023-01-10 | 142 | 713 | 
 | 2023-01-09 | 142 | 713 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 141 | 711 | 
 | 2022-12-15 | 141 | 711 | 
 | 2022-12-14 | 141 | 711 | 
-| 2022-12-13 | 140 | 698 | 
 

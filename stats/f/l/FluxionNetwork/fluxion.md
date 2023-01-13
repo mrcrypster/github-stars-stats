@@ -1,6 +1,6 @@
 # FluxionNetwork/fluxion - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 1321
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 3863 | 1321 | 
 | 2023-01-11 | 3863 | 1321 | 
 | 2023-01-10 | 3860 | 1320 | 
 | 2023-01-09 | 3858 | 1320 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 3831 | 1308 | 
 | 2022-12-16 | 3828 | 1308 | 
 | 2022-12-15 | 3827 | 1306 | 
-| 2022-12-13 | 3826 | 1306 | 
 

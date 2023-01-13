@@ -1,10 +1,10 @@
 # n0k0m3/revanced-build-template - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 145
+☋ Forks: 146
 
-★ Stars: 124
+★ Stars: 126
 
 [Open repository](https://github.com/n0k0m3/revanced-build-template)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 126 | 146 | 
 | 2023-01-11 | 124 | 145 | 
 | 2023-01-10 | 124 | 146 | 
 | 2023-01-09 | 125 | 146 | 

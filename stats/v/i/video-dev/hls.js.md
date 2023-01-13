@@ -1,10 +1,10 @@
 # video-dev/hls.js - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 2367
 
-★ Stars: 12325
+★ Stars: 12328
 
 [Open repository](https://github.com/video-dev/hls.js)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 12328 | 2367 | 
 | 2023-01-11 | 12325 | 2367 | 
 | 2023-01-10 | 12322 | 2367 | 
 | 2023-01-09 | 12320 | 2367 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 12257 | 2354 | 
 | 2022-12-16 | 12250 | 2354 | 
 | 2022-12-15 | 12248 | 2354 | 
-| 2022-12-13 | 12244 | 2354 | 
 

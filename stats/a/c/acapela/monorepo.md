@@ -1,6 +1,6 @@
 # acapela/monorepo - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 122 | 12 | 
 | 2023-01-11 | 122 | 12 | 
 | 2023-01-10 | 122 | 12 | 
 | 2023-01-09 | 122 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 121 | 12 | 
 | 2022-12-16 | 121 | 12 | 
 | 2022-12-15 | 121 | 12 | 
-| 2022-12-13 | 121 | 12 | 
 

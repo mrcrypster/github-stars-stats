@@ -1,8 +1,8 @@
 # microsoft/AL-Go-PTE - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 24
+☋ Forks: 25
 
 ★ Stars: 36
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 36 | 25 | 
 | 2023-01-11 | 36 | 24 | 
 | 2023-01-10 | 36 | 23 | 
 | 2023-01-09 | 36 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 35 | 23 | 
 | 2022-12-15 | 35 | 23 | 
 | 2022-12-14 | 35 | 22 | 
-| 2022-12-13 | 35 | 22 | 
 

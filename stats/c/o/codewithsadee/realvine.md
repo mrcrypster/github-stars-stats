@@ -1,6 +1,6 @@
 # codewithsadee/realvine - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 33 | 8 | 
 | 2023-01-11 | 33 | 8 | 
 | 2023-01-10 | 33 | 8 | 
 | 2023-01-09 | 33 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 32 | 8 | 
 | 2022-12-15 | 32 | 8 | 
 | 2022-12-14 | 32 | 8 | 
-| 2022-12-13 | 32 | 8 | 
 

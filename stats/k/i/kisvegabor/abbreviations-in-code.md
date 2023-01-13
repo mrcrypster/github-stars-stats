@@ -1,6 +1,6 @@
 # kisvegabor/abbreviations-in-code - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 176 | 33 | 
 | 2023-01-11 | 176 | 33 | 
 | 2023-01-10 | 176 | 33 | 
 | 2023-01-09 | 175 | 33 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 162 | 30 | 
 | 2022-12-15 | 162 | 30 | 
 | 2022-12-14 | 161 | 30 | 
-| 2022-12-13 | 161 | 30 | 
 

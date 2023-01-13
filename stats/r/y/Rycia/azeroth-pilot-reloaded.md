@@ -1,10 +1,10 @@
 # Rycia/azeroth-pilot-reloaded - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 4
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/Rycia/azeroth-pilot-reloaded)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 20 | 4 | 
 | 2023-01-11 | 19 | 4 | 
 | 2023-01-10 | 19 | 4 | 
 | 2023-01-09 | 19 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 15 | 3 | 
 | 2022-12-15 | 15 | 3 | 
 | 2022-12-14 | 16 | 3 | 
-| 2022-12-13 | 16 | 3 | 
 

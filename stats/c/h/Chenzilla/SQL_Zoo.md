@@ -1,6 +1,6 @@
 # Chenzilla/SQL_Zoo - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 92
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 105 | 92 | 
 | 2023-01-11 | 105 | 92 | 
 | 2023-01-10 | 105 | 92 | 
 | 2023-01-09 | 105 | 92 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 106 | 92 | 
 | 2022-12-15 | 106 | 92 | 
 | 2022-12-14 | 106 | 93 | 
-| 2022-12-13 | 106 | 93 | 
 

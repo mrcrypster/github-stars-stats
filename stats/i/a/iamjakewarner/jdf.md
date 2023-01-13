@@ -1,8 +1,8 @@
 # iamjakewarner/jdf - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 138
+☋ Forks: 139
 
 ★ Stars: 103
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 103 | 139 | 
 | 2023-01-12 | 103 | 138 | 
 | 2023-01-10 | 102 | 138 | 
 | 2023-01-09 | 101 | 136 | 

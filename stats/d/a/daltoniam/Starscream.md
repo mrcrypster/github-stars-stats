@@ -1,10 +1,10 @@
 # daltoniam/Starscream - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 1069
 
-★ Stars: 7554
+★ Stars: 7555
 
 [Open repository](https://github.com/daltoniam/Starscream)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 7555 | 1069 | 
 | 2023-01-11 | 7554 | 1069 | 
 | 2023-01-10 | 7554 | 1069 | 
 | 2023-01-09 | 7550 | 1070 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 7533 | 1063 | 
 | 2022-12-15 | 7532 | 1063 | 
 | 2022-12-14 | 7532 | 1063 | 
-| 2022-12-13 | 7532 | 1063 | 
 

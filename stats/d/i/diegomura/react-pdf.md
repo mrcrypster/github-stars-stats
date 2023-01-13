@@ -1,10 +1,10 @@
 # diegomura/react-pdf - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 974
 
-★ Stars: 11602
+★ Stars: 11610
 
 [Open repository](https://github.com/diegomura/react-pdf)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 11610 | 974 | 
 | 2023-01-11 | 11602 | 974 | 
 | 2023-01-10 | 11600 | 974 | 
 | 2023-01-09 | 11593 | 973 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 11520 | 963 | 
 | 2022-12-15 | 11516 | 962 | 
 | 2022-12-14 | 11513 | 960 | 
-| 2022-12-13 | 11506 | 960 | 
 

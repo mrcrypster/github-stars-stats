@@ -1,6 +1,6 @@
 # unjs/fontaine - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 832 | 11 | 
 | 2023-01-11 | 832 | 11 | 
 | 2023-01-10 | 832 | 11 | 
 | 2023-01-09 | 831 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 814 | 11 | 
 | 2022-12-15 | 814 | 11 | 
 | 2022-12-14 | 810 | 11 | 
-| 2022-12-13 | 808 | 11 | 
 

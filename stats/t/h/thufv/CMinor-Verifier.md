@@ -1,6 +1,6 @@
 # thufv/CMinor-Verifier - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 120 | 12 | 
 | 2023-01-11 | 120 | 12 | 
 | 2023-01-10 | 120 | 11 | 
 | 2023-01-09 | 121 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 120 | 11 | 
 | 2022-12-15 | 120 | 11 | 
 | 2022-12-14 | 120 | 11 | 
-| 2022-12-13 | 120 | 11 | 
 

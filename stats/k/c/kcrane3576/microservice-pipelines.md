@@ -1,6 +1,6 @@
 # kcrane3576/microservice-pipelines - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 2 | 44 | 
 | 2023-01-11 | 2 | 44 | 
 | 2023-01-10 | 2 | 44 | 
 | 2023-01-09 | 2 | 44 | 

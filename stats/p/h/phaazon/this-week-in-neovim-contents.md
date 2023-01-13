@@ -1,6 +1,6 @@
 # phaazon/this-week-in-neovim-contents - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 200 | 51 | 
 | 2023-01-11 | 200 | 51 | 
 | 2023-01-10 | 198 | 51 | 
 | 2023-01-09 | 198 | 51 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 175 | 41 | 
 | 2022-12-16 | 175 | 41 | 
 | 2022-12-15 | 175 | 41 | 
-| 2022-12-13 | 174 | 41 | 
 

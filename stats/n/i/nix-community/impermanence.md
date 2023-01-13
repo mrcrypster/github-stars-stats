@@ -1,6 +1,6 @@
 # nix-community/impermanence - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 402 | 33 | 
 | 2023-01-11 | 402 | 33 | 
 | 2023-01-10 | 402 | 33 | 
 | 2023-01-09 | 401 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 392 | 33 | 
 | 2022-12-15 | 392 | 33 | 
 | 2022-12-14 | 391 | 33 | 
-| 2022-12-13 | 391 | 33 | 
 

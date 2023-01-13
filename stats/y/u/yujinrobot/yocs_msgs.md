@@ -1,6 +1,6 @@
 # yujinrobot/yocs_msgs - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 4 | 15 | 
 | 2023-01-11 | 4 | 15 | 
 | 2023-01-10 | 4 | 15 | 
 | 2023-01-09 | 4 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 4 | 15 | 
 | 2022-12-15 | 4 | 15 | 
 | 2022-12-14 | 4 | 15 | 
-| 2022-12-13 | 4 | 15 | 
 

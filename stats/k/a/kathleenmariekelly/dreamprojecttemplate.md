@@ -1,6 +1,6 @@
 # kathleenmariekelly/dreamprojecttemplate - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | - | 29 | 
 | 2023-01-12 | - | 29 | 
 | 2023-01-10 | - | 29 | 
 | 2023-01-09 | - | 29 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-16 | - | 28 | 
 | 2022-12-15 | - | 28 | 
 | 2022-12-14 | - | 28 | 
-| 2022-12-13 | - | 28 | 
 

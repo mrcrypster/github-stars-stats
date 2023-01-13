@@ -1,10 +1,10 @@
 # sql-js/sql.js - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 1013
 
-★ Stars: 11027
+★ Stars: 11032
 
 [Open repository](https://github.com/sql-js/sql.js)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 11032 | 1013 | 
 | 2023-01-11 | 11027 | 1013 | 
 | 2023-01-10 | 11024 | 1013 | 
 | 2023-01-09 | 11022 | 1013 | 

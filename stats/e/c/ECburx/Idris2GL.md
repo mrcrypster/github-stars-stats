@@ -1,10 +1,10 @@
 # ECburx/Idris2GL - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 7
 
-★ Stars: 61
+★ Stars: 62
 
 [Open repository](https://github.com/ECburx/Idris2GL)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 62 | 7 | 
 | 2023-01-11 | 61 | 7 | 
 | 2023-01-10 | 61 | 7 | 
 | 2023-01-09 | 61 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 59 | 7 | 
 | 2022-12-16 | 59 | 7 | 
 | 2022-12-15 | 59 | 7 | 
-| 2022-12-13 | 58 | 7 | 
 

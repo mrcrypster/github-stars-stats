@@ -1,6 +1,6 @@
 # 0xsp-SRD/mortar - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 183
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 1072 | 183 | 
 | 2023-01-11 | 1072 | 183 | 
 | 2023-01-10 | 1071 | 183 | 
 | 2023-01-09 | 1071 | 183 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 1055 | 182 | 
 | 2022-12-15 | 1055 | 182 | 
 | 2022-12-14 | 1054 | 182 | 
-| 2022-12-13 | 1054 | 182 | 
 

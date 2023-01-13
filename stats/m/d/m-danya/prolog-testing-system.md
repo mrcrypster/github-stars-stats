@@ -1,10 +1,10 @@
 # m-danya/prolog-testing-system - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 6
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/m-danya/prolog-testing-system)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 23 | 6 | 
+| 2023-01-12 | 23 | 6 | 
 | 2023-01-11 | 22 | 6 | 
 | 2023-01-10 | 21 | 5 | 
 | 2023-01-09 | 21 | 5 | 

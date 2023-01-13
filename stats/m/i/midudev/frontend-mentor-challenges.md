@@ -1,10 +1,10 @@
 # midudev/frontend-mentor-challenges - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 1
 
-★ Stars: 56
+★ Stars: 57
 
 [Open repository](https://github.com/midudev/frontend-mentor-challenges)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 57 | 1 | 
 | 2023-01-11 | 56 | 1 | 
 | 2023-01-10 | 56 | 1 | 
 | 2023-01-09 | 56 | 1 | 

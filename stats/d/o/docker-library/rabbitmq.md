@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 12
 
 ☋ Forks: 399
 
-★ Stars: 680
+★ Stars: 681
 
 [Open repository](https://github.com/docker-library/rabbitmq)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-12 | 680 | 399 | 
+| 2023-01-12 | 681 | 399 | 
 | 2023-01-11 | 680 | 399 | 
 | 2023-01-10 | 680 | 399 | 
 | 2023-01-09 | 680 | 399 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-16 | 676 | 397 | 
 | 2022-12-15 | 676 | 397 | 
 | 2022-12-14 | 676 | 395 | 
-| 2022-12-13 | 676 | 395 | 
 

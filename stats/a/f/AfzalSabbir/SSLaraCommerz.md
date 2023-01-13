@@ -1,6 +1,6 @@
 # AfzalSabbir/SSLaraCommerz - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 20 | 4 | 
 | 2023-01-11 | 20 | 4 | 
 | 2023-01-10 | 20 | 4 | 
 | 2023-01-09 | 20 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 19 | 4 | 
 | 2022-12-16 | 19 | 4 | 
 | 2022-12-15 | 19 | 4 | 
-| 2022-12-13 | 19 | 4 | 
 

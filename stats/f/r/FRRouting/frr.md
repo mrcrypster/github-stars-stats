@@ -1,6 +1,6 @@
 # FRRouting/frr - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 990
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 2415 | 990 | 
 | 2023-01-11 | 2415 | 990 | 
 | 2023-01-10 | 2412 | 990 | 
 | 2023-01-09 | 2410 | 989 | 

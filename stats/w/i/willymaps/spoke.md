@@ -1,6 +1,6 @@
 # willymaps/spoke - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 37 | 11 | 
 | 2023-01-11 | 37 | 11 | 
 | 2023-01-10 | 37 | 11 | 
 | 2023-01-09 | 37 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 37 | 11 | 
 | 2022-12-15 | 37 | 11 | 
 | 2022-12-14 | 37 | 11 | 
-| 2022-12-13 | 37 | 11 | 
 

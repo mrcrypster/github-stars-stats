@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 12
 
 ☋ Forks: 94
 
-★ Stars: 223
+★ Stars: 224
 
 [Open repository](https://github.com/istio/client-go)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-12 | 223 | 94 | 
+| 2023-01-12 | 224 | 94 | 
 | 2023-01-11 | 223 | 94 | 
 

@@ -1,10 +1,10 @@
 # avestura/PhotoFiremark - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 8
 
-★ Stars: 162
+★ Stars: 163
 
 [Open repository](https://github.com/avestura/PhotoFiremark)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 163 | 8 | 
 | 2023-01-11 | 162 | 8 | 
 | 2023-01-10 | 162 | 8 | 
 | 2023-01-09 | 162 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 163 | 8 | 
 | 2022-12-16 | 163 | 8 | 
 | 2022-12-15 | 163 | 8 | 
-| 2022-12-13 | 163 | 8 | 
 

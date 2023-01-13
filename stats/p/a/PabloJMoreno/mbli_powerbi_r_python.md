@@ -1,8 +1,8 @@
 # PabloJMoreno/mbli_powerbi_r_python - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 6
+☋ Forks: 7
 
 ★ Stars: 31
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 31 | 7 | 
 | 2023-01-11 | 31 | 6 | 
 | 2023-01-10 | 31 | 6 | 
 | 2023-01-09 | 31 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 31 | 4 | 
 | 2022-12-16 | 31 | 4 | 
 | 2022-12-15 | 31 | 4 | 
-| 2022-12-13 | 31 | 4 | 
 

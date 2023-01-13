@@ -1,6 +1,6 @@
 # ciao-lang/ciao - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 190 | 14 | 
 | 2023-01-11 | 190 | 14 | 
 | 2023-01-10 | 190 | 14 | 
 | 2023-01-09 | 190 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 185 | 13 | 
 | 2022-12-16 | 185 | 13 | 
 | 2022-12-15 | 185 | 13 | 
-| 2022-12-13 | 185 | 13 | 
 

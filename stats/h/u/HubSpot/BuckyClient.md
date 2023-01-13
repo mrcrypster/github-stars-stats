@@ -1,6 +1,6 @@
 # HubSpot/BuckyClient - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 99
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 1748 | 99 | 
 | 2023-01-11 | 1748 | 99 | 
 | 2023-01-10 | 1748 | 99 | 
 | 2023-01-09 | 1748 | 99 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 1748 | 99 | 
 | 2022-12-15 | 1748 | 99 | 
 | 2022-12-14 | 1748 | 99 | 
-| 2022-12-13 | 1748 | 99 | 
 

@@ -1,6 +1,6 @@
 # fullstack-development/developers-roadmap - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 252
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 1074 | 252 | 
 | 2023-01-11 | 1074 | 252 | 
 | 2023-01-10 | 1074 | 252 | 
 | 2023-01-09 | 1072 | 252 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 1069 | 252 | 
 | 2022-12-15 | 1069 | 252 | 
 | 2022-12-14 | 1068 | 252 | 
-| 2022-12-13 | 1068 | 252 | 
 

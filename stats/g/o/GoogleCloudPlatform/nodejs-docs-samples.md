@@ -2,7 +2,7 @@
 
 Stats updated on Jan 2023, 12
 
-☋ Forks: 1867
+☋ Forks: 1868
 
 ★ Stars: 2521
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-12 | 2521 | 1867 | 
+| 2023-01-12 | 2521 | 1868 | 
 | 2023-01-11 | 2521 | 1867 | 
 

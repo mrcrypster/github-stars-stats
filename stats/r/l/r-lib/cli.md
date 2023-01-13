@@ -1,10 +1,10 @@
 # r-lib/cli - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
 ☋ Forks: 49
 
-★ Stars: 507
+★ Stars: 508
 
 [Open repository](https://github.com/r-lib/cli)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 508 | 49 | 
 | 2023-01-11 | 507 | 49 | 
 | 2023-01-10 | 507 | 49 | 
 | 2023-01-09 | 507 | 49 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-17 | 496 | 47 | 
 | 2022-12-16 | 496 | 47 | 
 | 2022-12-15 | 496 | 46 | 
-| 2022-12-13 | 496 | 46 | 
 

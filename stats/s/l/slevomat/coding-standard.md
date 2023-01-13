@@ -1,10 +1,10 @@
 # slevomat/coding-standard - stars & forks statistics
 
-Stats updated on Jan 2023, 11
+Stats updated on Jan 2023, 12
 
-☋ Forks: 156
+☋ Forks: 157
 
-★ Stars: 1191
+★ Stars: 1192
 
 [Open repository](https://github.com/slevomat/coding-standard)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-12 | 1192 | 157 | 
 | 2023-01-11 | 1191 | 156 | 
 | 2023-01-10 | 1191 | 156 | 
 | 2023-01-09 | 1191 | 156 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 11
 | 2022-12-16 | 1179 | 153 | 
 | 2022-12-15 | 1177 | 153 | 
 | 2022-12-14 | 1177 | 153 | 
-| 2022-12-13 | 1178 | 153 | 
 
