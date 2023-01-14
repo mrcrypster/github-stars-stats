@@ -1,10 +1,10 @@
 # NLog/NLog - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 1343
+☋ Forks: 1344
 
-★ Stars: 5723
+★ Stars: 5725
 
 [Open repository](https://github.com/NLog/NLog)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 5725 | 1344 | 
 | 2023-01-12 | 5723 | 1343 | 
 | 2023-01-11 | 5722 | 1342 | 
 | 2023-01-10 | 5722 | 1342 | 

@@ -1,10 +1,10 @@
 # vega/svelte-vega - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 2
 
-★ Stars: 49
+★ Stars: 50
 
 [Open repository](https://github.com/vega/svelte-vega)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 50 | 2 | 
 | 2023-01-12 | 49 | 2 | 
 | 2023-01-11 | 49 | 2 | 
 | 2023-01-10 | 49 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 49 | 2 | 
 | 2022-12-16 | 49 | 2 | 
 | 2022-12-15 | 49 | 2 | 
-| 2022-12-14 | 49 | 2 | 
 

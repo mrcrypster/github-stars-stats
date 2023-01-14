@@ -1,10 +1,10 @@
 # google/fully-homomorphic-encryption - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 217
 
-★ Stars: 2853
+★ Stars: 2854
 
 [Open repository](https://github.com/google/fully-homomorphic-encryption)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 2854 | 217 | 
 | 2023-01-12 | 2853 | 217 | 
 | 2023-01-11 | 2854 | 217 | 
 | 2023-01-10 | 2853 | 217 | 

@@ -1,8 +1,8 @@
 # AndroidIDEOfficial/AndroidIDE - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 116
+☋ Forks: 115
 
 ★ Stars: 647
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 647 | 115 | 
 | 2023-01-13 | 647 | 116 | 
 | 2023-01-11 | 645 | 116 | 
 | 2023-01-10 | 644 | 116 | 

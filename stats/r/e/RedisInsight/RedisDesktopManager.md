@@ -1,8 +1,8 @@
 # RedisInsight/RedisDesktopManager - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 3222
+☋ Forks: 3223
 
 ★ Stars: 21353
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 21353 | 3223 | 
 | 2023-01-12 | 21353 | 3222 | 
 | 2023-01-11 | 21343 | 3222 | 
 | 2023-01-10 | 21339 | 3222 | 

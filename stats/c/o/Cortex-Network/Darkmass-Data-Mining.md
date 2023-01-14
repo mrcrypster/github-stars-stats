@@ -1,10 +1,10 @@
 # Cortex-Network/Darkmass-Data-Mining - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 1
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/Cortex-Network/Darkmass-Data-Mining)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 10 | 1 | 
 | 2023-01-12 | 9 | 1 | 
 | 2023-01-11 | 8 | 1 | 
 | 2023-01-10 | 8 | 1 | 

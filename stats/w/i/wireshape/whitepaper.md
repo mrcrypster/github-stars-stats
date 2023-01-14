@@ -1,10 +1,10 @@
 # wireshape/whitepaper - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 1
 
-★ Stars: 776
+★ Stars: 775
 
 [Open repository](https://github.com/wireshape/whitepaper)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 775 | 1 | 
 | 2023-01-12 | 776 | 1 | 
 | 2023-01-11 | 776 | 1 | 
 | 2023-01-10 | 777 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 777 | 1 | 
 | 2022-12-16 | 777 | 1 | 
 | 2022-12-15 | 777 | 1 | 
-| 2022-12-14 | 778 | 1 | 
 

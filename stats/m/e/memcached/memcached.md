@@ -1,10 +1,10 @@
 # memcached/memcached - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 3145
+☋ Forks: 3147
 
-★ Stars: 12363
+★ Stars: 12371
 
 [Open repository](https://github.com/memcached/memcached)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 12371 | 3147 | 
 | 2023-01-12 | 12363 | 3145 | 
 | 2023-01-11 | 12355 | 3145 | 
 | 2023-01-10 | 12352 | 3144 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 12318 | 3142 | 
 | 2022-12-16 | 12318 | 3142 | 
 | 2022-12-15 | 12315 | 3142 | 
-| 2022-12-14 | 12313 | 3142 | 
 

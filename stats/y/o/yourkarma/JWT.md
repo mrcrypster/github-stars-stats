@@ -1,6 +1,6 @@
 # yourkarma/JWT - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 105
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 339 | 105 | 
 | 2023-01-12 | 339 | 105 | 
 | 2023-01-11 | 339 | 105 | 
 | 2023-01-10 | 339 | 105 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 338 | 104 | 
 | 2022-12-16 | 338 | 104 | 
 | 2022-12-15 | 338 | 104 | 
-| 2022-12-14 | 337 | 104 | 
 

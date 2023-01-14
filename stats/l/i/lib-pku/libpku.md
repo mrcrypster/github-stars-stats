@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 13
 
 ☋ Forks: 8148
 
-★ Stars: 28195
+★ Stars: 28202
 
 [Open repository](https://github.com/lib-pku/libpku)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-13 | 28195 | 8148 | 
+| 2023-01-13 | 28202 | 8148 | 
 | 2023-01-12 | 28194 | 8148 | 
 | 2023-01-11 | 28179 | 8147 | 
 | 2023-01-10 | 28170 | 8146 | 

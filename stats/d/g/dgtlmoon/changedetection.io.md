@@ -1,10 +1,10 @@
 # dgtlmoon/changedetection.io - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 417
+☋ Forks: 420
 
-★ Stars: 7399
+★ Stars: 7416
 
 [Open repository](https://github.com/dgtlmoon/changedetection.io)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 7416 | 420 | 
 | 2023-01-12 | 7399 | 417 | 
 | 2023-01-11 | 7387 | 415 | 
 | 2023-01-10 | 7383 | 416 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 7057 | 399 | 
 | 2022-12-16 | 7044 | 396 | 
 | 2022-12-15 | 7037 | 395 | 
-| 2022-12-14 | 7016 | 394 | 
 

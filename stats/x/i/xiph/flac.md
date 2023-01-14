@@ -1,6 +1,6 @@
 # xiph/flac - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 230
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 1070 | 230 | 
 | 2023-01-12 | 1070 | 230 | 
 | 2023-01-11 | 1069 | 230 | 
 | 2023-01-10 | 1069 | 230 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 1047 | 230 | 
 | 2022-12-16 | 1047 | 230 | 
 | 2022-12-15 | 1046 | 230 | 
-| 2022-12-14 | 1045 | 230 | 
 

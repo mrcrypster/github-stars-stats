@@ -1,6 +1,6 @@
 # hakluke/hakoriginfinder - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 390 | 48 | 
 | 2023-01-12 | 390 | 48 | 
 | 2023-01-11 | 389 | 48 | 
 | 2023-01-10 | 387 | 48 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 384 | 47 | 
 | 2022-12-16 | 383 | 47 | 
 | 2022-12-15 | 383 | 47 | 
-| 2022-12-14 | 384 | 47 | 
 

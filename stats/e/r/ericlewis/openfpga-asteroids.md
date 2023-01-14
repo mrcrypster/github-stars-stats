@@ -1,6 +1,6 @@
 # ericlewis/openfpga-asteroids - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 30 | - | 
 | 2023-01-12 | 30 | - | 
 | 2023-01-11 | 30 | - | 
 | 2023-01-10 | 30 | - | 

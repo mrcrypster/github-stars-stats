@@ -1,6 +1,6 @@
 # danboo/Godot-Tracker2D-Plugin - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 7 | - | 
 | 2023-01-12 | 7 | - | 
 | 2023-01-11 | 7 | - | 
 | 2023-01-10 | 7 | - | 

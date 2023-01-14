@@ -1,10 +1,10 @@
 # bastibe/org-journal - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 119
 
-★ Stars: 1078
+★ Stars: 1079
 
 [Open repository](https://github.com/bastibe/org-journal)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 1079 | 119 | 
 | 2023-01-12 | 1078 | 119 | 
 | 2023-01-11 | 1078 | 118 | 
 | 2023-01-10 | 1078 | 118 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 1072 | 118 | 
 | 2022-12-16 | 1072 | 118 | 
 | 2022-12-15 | 1072 | 118 | 
-| 2022-12-14 | 1072 | 118 | 
 

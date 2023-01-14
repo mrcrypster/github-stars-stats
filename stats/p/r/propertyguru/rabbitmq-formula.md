@@ -1,6 +1,6 @@
 # propertyguru/rabbitmq-formula - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | - | - | 
 | 2023-01-12 | - | - | 
 | 2023-01-11 | - | - | 
 | 2023-01-10 | - | - | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | - | - | 
 | 2022-12-16 | - | - | 
 | 2022-12-15 | - | - | 
-| 2022-12-14 | - | - | 
 

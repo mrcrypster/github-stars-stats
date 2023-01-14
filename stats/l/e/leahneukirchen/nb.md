@@ -1,6 +1,6 @@
 # leahneukirchen/nb - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 0
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 20 | - | 
+| 2023-01-13 | 20 | - | 
 | 2023-01-12 | 20 | - | 
 | 2023-01-11 | 20 | - | 
 | 2023-01-10 | 20 | - | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 20 | - | 
 | 2022-12-16 | 20 | - | 
 | 2022-12-15 | 20 | - | 
-| 2022-12-14 | 20 | - | 
 

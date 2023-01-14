@@ -1,10 +1,10 @@
 # MoralisWeb3/youtube-tutorials - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 1284
+☋ Forks: 1283
 
-★ Stars: 498
+★ Stars: 497
 
 [Open repository](https://github.com/MoralisWeb3/youtube-tutorials)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 497 | 1283 | 
 | 2023-01-13 | 498 | 1284 | 
 | 2023-01-12 | 499 | 1283 | 
 | 2023-01-10 | 498 | 1282 | 

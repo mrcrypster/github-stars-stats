@@ -1,10 +1,10 @@
 # harrybournis/org-fancy-priorities - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 6
 
-★ Stars: 111
+★ Stars: 112
 
 [Open repository](https://github.com/harrybournis/org-fancy-priorities)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 112 | 6 | 
 | 2023-01-12 | 111 | 6 | 
 | 2023-01-11 | 111 | 6 | 
 | 2023-01-10 | 111 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 110 | 6 | 
 | 2022-12-16 | 109 | 6 | 
 | 2022-12-15 | 109 | 6 | 
-| 2022-12-14 | 109 | 6 | 
 

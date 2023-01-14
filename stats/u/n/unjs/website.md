@@ -1,6 +1,6 @@
 # unjs/website - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 28 | 5 | 
 | 2023-01-12 | 28 | 5 | 
 | 2023-01-11 | 28 | 5 | 
 | 2023-01-09 | 28 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 29 | 6 | 
 | 2022-12-16 | 29 | 6 | 
 | 2022-12-15 | 29 | 6 | 
-| 2022-12-14 | 30 | 6 | 
 

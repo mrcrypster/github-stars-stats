@@ -1,10 +1,10 @@
 # The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 127
 
-★ Stars: 450
+★ Stars: 451
 
 [Open repository](https://github.com/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 451 | 127 | 
 | 2023-01-12 | 450 | 127 | 
 | 2023-01-11 | 450 | 127 | 
 | 2023-01-10 | 450 | 127 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 445 | 126 | 
 | 2022-12-16 | 445 | 126 | 
 | 2022-12-15 | 445 | 126 | 
-| 2022-12-14 | 444 | 126 | 
 

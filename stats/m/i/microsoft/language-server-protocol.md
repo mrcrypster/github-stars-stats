@@ -1,10 +1,10 @@
 # microsoft/language-server-protocol - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 711
 
-★ Stars: 9112
+★ Stars: 9115
 
 [Open repository](https://github.com/microsoft/language-server-protocol)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 9115 | 711 | 
 | 2023-01-12 | 9112 | 711 | 
 | 2023-01-11 | 9108 | 711 | 
 | 2023-01-10 | 9103 | 711 | 

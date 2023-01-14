@@ -1,6 +1,6 @@
 # mobile-dev-inc/maestro - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 86
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 2953 | 86 | 
 | 2023-01-12 | 2953 | 86 | 
 | 2023-01-11 | 2941 | 86 | 
 | 2023-01-10 | 2940 | 86 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 2816 | 78 | 
 | 2022-12-16 | 2815 | 78 | 
 | 2022-12-15 | 2801 | 76 | 
-| 2022-12-14 | 2775 | 73 | 
 

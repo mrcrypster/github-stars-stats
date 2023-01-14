@@ -1,6 +1,6 @@
 # rejetto/hfs2 - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 111
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 508 | 111 | 
 | 2023-01-12 | 508 | 111 | 
 | 2023-01-11 | 508 | 111 | 
 | 2023-01-10 | 508 | 111 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 495 | 108 | 
 | 2022-12-16 | 495 | 108 | 
 | 2022-12-15 | 495 | 107 | 
-| 2022-12-14 | 495 | 107 | 
 

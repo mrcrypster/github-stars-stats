@@ -1,10 +1,10 @@
 # hectorqin/reader - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 4055
 
-★ Stars: 3809
+★ Stars: 3812
 
 [Open repository](https://github.com/hectorqin/reader)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 3812 | 4055 | 
 | 2023-01-12 | 3809 | 4055 | 
 | 2023-01-11 | 3800 | 4049 | 
 | 2023-01-10 | 3783 | 4047 | 

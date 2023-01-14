@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 13
 
 ☋ Forks: 543
 
-★ Stars: 2757
+★ Stars: 2758
 
 [Open repository](https://github.com/TheHive-Project/TheHive)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-13 | 2757 | 543 | 
+| 2023-01-13 | 2758 | 543 | 
 | 2023-01-12 | 2757 | 543 | 
 | 2023-01-11 | 2757 | 543 | 
 | 2023-01-10 | 2755 | 542 | 

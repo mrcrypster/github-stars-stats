@@ -1,6 +1,6 @@
 # doublecmd/doublecmd - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 126
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 1383 | 126 | 
 | 2023-01-12 | 1383 | 126 | 
 | 2023-01-11 | 1382 | 126 | 
 | 2023-01-10 | 1379 | 126 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 1351 | 121 | 
 | 2022-12-16 | 1347 | 121 | 
 | 2022-12-15 | 1346 | 121 | 
-| 2022-12-14 | 1347 | 120 | 
 

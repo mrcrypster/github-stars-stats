@@ -1,8 +1,8 @@
 # yihong0618/Kindle_download_helper - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 123
+☋ Forks: 124
 
 ★ Stars: 1322
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 1322 | 124 | 
 | 2023-01-12 | 1322 | 123 | 
 | 2023-01-11 | 1321 | 123 | 
 | 2023-01-10 | 1317 | 123 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 1255 | 119 | 
 | 2022-12-16 | 1255 | 119 | 
 | 2022-12-15 | 1253 | 119 | 
-| 2022-12-14 | 1253 | 119 | 
 

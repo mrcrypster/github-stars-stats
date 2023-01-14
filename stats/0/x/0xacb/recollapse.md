@@ -1,10 +1,10 @@
 # 0xacb/recollapse - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 26
 
-★ Stars: 326
+★ Stars: 327
 
 [Open repository](https://github.com/0xacb/recollapse)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 327 | 26 | 
 | 2023-01-12 | 326 | 26 | 
 | 2023-01-11 | 325 | 26 | 
 | 2023-01-10 | 325 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 295 | 26 | 
 | 2022-12-16 | 292 | 25 | 
 | 2022-12-15 | 292 | 25 | 
-| 2022-12-14 | 291 | 25 | 
 

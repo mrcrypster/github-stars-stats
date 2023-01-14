@@ -1,10 +1,10 @@
 # apriya-ram/AXI_FIFO_BFM - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 34
+☋ Forks: 35
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/apriya-ram/AXI_FIFO_BFM)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 5 | 35 | 
 | 2023-01-12 | 4 | 34 | 
 | 2023-01-11 | 4 | 34 | 
 | 2023-01-10 | 4 | 34 | 

@@ -1,10 +1,10 @@
 # rollbar/rollbar-apple - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 6
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/rollbar/rollbar-apple)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 16 | 6 | 
 | 2023-01-12 | 15 | 6 | 
 | 2023-01-11 | 15 | 6 | 
 | 2023-01-10 | 15 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 14 | 6 | 
 | 2022-12-16 | 14 | 6 | 
 | 2022-12-15 | 14 | 6 | 
-| 2022-12-14 | 14 | 6 | 
 

@@ -1,6 +1,6 @@
 # sjtug/SJTUBeamer - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 367 | 30 | 
 | 2023-01-12 | 367 | 30 | 
 | 2023-01-11 | 366 | 29 | 
 | 2023-01-10 | 366 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 355 | 29 | 
 | 2022-12-16 | 352 | 29 | 
 | 2022-12-15 | 351 | 29 | 
-| 2022-12-14 | 351 | 29 | 
 

@@ -1,6 +1,6 @@
 # freebasic/fbc - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 124
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 579 | 124 | 
 | 2023-01-12 | 579 | 124 | 
 | 2023-01-11 | 579 | 124 | 
 | 2023-01-10 | 579 | 124 | 

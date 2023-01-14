@@ -1,6 +1,6 @@
 # dsrkafuu/hugo-theme-fuji - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 93
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 327 | 93 | 
 | 2023-01-12 | 327 | 93 | 
 | 2023-01-11 | 327 | 93 | 
 | 2023-01-10 | 327 | 93 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 324 | 93 | 
 | 2022-12-16 | 323 | 93 | 
 | 2022-12-15 | 323 | 93 | 
-| 2022-12-14 | 323 | 93 | 
 

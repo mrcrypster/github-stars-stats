@@ -1,10 +1,10 @@
 # sharanyaa/grok_sdi_educative - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 554
 
-★ Stars: 1112
+★ Stars: 1114
 
 [Open repository](https://github.com/sharanyaa/grok_sdi_educative)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 1114 | 554 | 
 | 2023-01-12 | 1112 | 554 | 
 | 2023-01-11 | 1112 | 554 | 
 | 2023-01-10 | 1112 | 554 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 1085 | 545 | 
 | 2022-12-16 | 1085 | 545 | 
 | 2022-12-15 | 1085 | 545 | 
-| 2022-12-14 | 1082 | 545 | 
 

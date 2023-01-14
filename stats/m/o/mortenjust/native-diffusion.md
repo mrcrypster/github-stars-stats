@@ -1,10 +1,10 @@
 # mortenjust/native-diffusion - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 27
 
-★ Stars: 429
+★ Stars: 430
 
 [Open repository](https://github.com/mortenjust/native-diffusion)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 430 | 27 | 
 | 2023-01-12 | 429 | 27 | 
 | 2023-01-11 | 428 | 27 | 
 | 2023-01-10 | 428 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 413 | 25 | 
 | 2022-12-16 | 413 | 25 | 
 | 2022-12-15 | 412 | 25 | 
-| 2022-12-14 | 410 | 25 | 
 

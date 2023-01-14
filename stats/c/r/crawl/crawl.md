@@ -1,10 +1,10 @@
 # crawl/crawl - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 1009
 
-★ Stars: 1890
+★ Stars: 1891
 
 [Open repository](https://github.com/crawl/crawl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 1891 | 1009 | 
 | 2023-01-12 | 1890 | 1009 | 
 | 2023-01-11 | 1887 | 1010 | 
 | 2023-01-10 | 1886 | 1010 | 

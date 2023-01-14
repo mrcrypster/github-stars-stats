@@ -1,8 +1,8 @@
 # cncf/gitdm - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 983
+☋ Forks: 984
 
 ★ Stars: 158
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 158 | 984 | 
 | 2023-01-12 | 158 | 983 | 
 | 2023-01-11 | 158 | 980 | 
 | 2023-01-10 | 157 | 979 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 154 | 971 | 
 | 2022-12-16 | 154 | 970 | 
 | 2022-12-15 | 154 | 969 | 
-| 2022-12-14 | 155 | 969 | 
 

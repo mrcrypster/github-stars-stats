@@ -1,10 +1,10 @@
 # ersanKolay/sensor_image_demo - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 45
 
-★ Stars: 313
+★ Stars: 312
 
 [Open repository](https://github.com/ersanKolay/sensor_image_demo)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 312 | 45 | 
 | 2023-01-12 | 313 | 45 | 
 | 2023-01-11 | 313 | 45 | 
 | 2023-01-10 | 313 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 310 | 46 | 
 | 2022-12-16 | 310 | 46 | 
 | 2022-12-15 | 310 | 46 | 
-| 2022-12-14 | 310 | 46 | 
 

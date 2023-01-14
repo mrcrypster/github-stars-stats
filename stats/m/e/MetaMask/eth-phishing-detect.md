@@ -1,10 +1,10 @@
 # MetaMask/eth-phishing-detect - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 672
+☋ Forks: 674
 
-★ Stars: 601
+★ Stars: 603
 
 [Open repository](https://github.com/MetaMask/eth-phishing-detect)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 603 | 674 | 
 | 2023-01-12 | 601 | 672 | 
 | 2023-01-11 | 599 | 671 | 
 | 2023-01-10 | 598 | 669 | 

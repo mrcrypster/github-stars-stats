@@ -1,6 +1,6 @@
 # kevmodrome/kitbase - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 41 | 3 | 
 | 2023-01-12 | 41 | 3 | 
 | 2023-01-11 | 40 | 3 | 
 | 2023-01-10 | 39 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 35 | 3 | 
 | 2022-12-16 | 34 | 3 | 
 | 2022-12-15 | 33 | 3 | 
-| 2022-12-14 | 33 | 3 | 
 

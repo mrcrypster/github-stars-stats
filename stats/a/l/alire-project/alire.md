@@ -1,6 +1,6 @@
 # alire-project/alire - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 199 | 33 | 
 | 2023-01-12 | 199 | 33 | 
 | 2023-01-11 | 199 | 33 | 
 | 2023-01-10 | 199 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 193 | 32 | 
 | 2022-12-16 | 193 | 32 | 
 | 2022-12-15 | 193 | 32 | 
-| 2022-12-14 | 193 | 32 | 
 

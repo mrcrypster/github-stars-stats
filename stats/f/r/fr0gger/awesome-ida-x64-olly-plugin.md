@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 13
 
 ☋ Forks: 115
 
-★ Stars: 838
+★ Stars: 839
 
 [Open repository](https://github.com/fr0gger/awesome-ida-x64-olly-plugin)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-13 | 838 | 115 | 
+| 2023-01-13 | 839 | 115 | 
 | 2023-01-12 | 837 | 115 | 
 

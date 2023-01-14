@@ -1,10 +1,10 @@
 # Runnrairu/Machine-Learning-text - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 2
 
-★ Stars: 125
+★ Stars: 126
 
 [Open repository](https://github.com/Runnrairu/Machine-Learning-text)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 126 | 2 | 
 | 2023-01-12 | 125 | 2 | 
 | 2023-01-11 | 125 | 2 | 
 | 2023-01-10 | 125 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 125 | 2 | 
 | 2022-12-16 | 125 | 2 | 
 | 2022-12-15 | 125 | 2 | 
-| 2022-12-14 | 125 | 2 | 
 

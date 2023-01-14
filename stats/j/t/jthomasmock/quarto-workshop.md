@@ -1,6 +1,6 @@
 # jthomasmock/quarto-workshop - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 71 | 38 | 
 | 2023-01-12 | 71 | 38 | 
 | 2023-01-11 | 71 | 38 | 
 | 2023-01-10 | 71 | 38 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 68 | 35 | 
 | 2022-12-16 | 68 | 35 | 
 | 2022-12-15 | 68 | 35 | 
-| 2022-12-14 | 68 | 35 | 
 

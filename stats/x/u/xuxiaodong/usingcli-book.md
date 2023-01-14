@@ -1,6 +1,6 @@
 # xuxiaodong/usingcli-book - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 1223 | 73 | 
 | 2023-01-12 | 1223 | 73 | 
 | 2023-01-11 | 1223 | 73 | 
 | 2023-01-10 | 1217 | 73 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 1153 | 72 | 
 | 2022-12-16 | 1149 | 72 | 
 | 2022-12-15 | 1142 | 72 | 
-| 2022-12-14 | 1141 | 72 | 
 

@@ -1,6 +1,6 @@
 # Nemo1870/sql-parse - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 60 | 13 | 
 | 2023-01-12 | 60 | 13 | 
 | 2023-01-11 | 60 | 13 | 
 | 2023-01-09 | 60 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 59 | 12 | 
 | 2022-12-16 | 59 | 12 | 
 | 2022-12-15 | 59 | 12 | 
-| 2022-12-14 | 59 | 12 | 
 

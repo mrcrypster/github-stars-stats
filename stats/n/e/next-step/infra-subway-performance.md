@@ -1,6 +1,6 @@
 # next-step/infra-subway-performance - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 227
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 5 | 227 | 
 | 2023-01-12 | 5 | 227 | 
 | 2023-01-11 | 5 | 227 | 
 | 2023-01-10 | 5 | 227 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 4 | 207 | 
 | 2022-12-16 | 4 | 202 | 
 | 2022-12-15 | 3 | 202 | 
-| 2022-12-14 | 4 | 194 | 
 

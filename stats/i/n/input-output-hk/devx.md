@@ -1,8 +1,8 @@
 # input-output-hk/devx - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 3
+☋ Forks: 4
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 5 | 4 | 
 | 2023-01-12 | 5 | 3 | 
 | 2023-01-11 | 4 | 3 | 
 | 2023-01-10 | 4 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 4 | 3 | 
 | 2022-12-16 | 4 | 3 | 
 | 2022-12-15 | 4 | 3 | 
-| 2022-12-14 | 3 | 3 | 
 

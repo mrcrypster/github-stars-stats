@@ -1,6 +1,6 @@
 # iree-org/iree - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 355
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 1552 | 355 | 
 | 2023-01-12 | 1552 | 355 | 
 | 2023-01-11 | 1550 | 354 | 
 | 2023-01-10 | 1548 | 354 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-18 | 1516 | 347 | 
 | 2022-12-17 | 1516 | 347 | 
 | 2022-12-16 | 1514 | 346 | 
-| 2022-12-15 | 1512 | 345 | 
 

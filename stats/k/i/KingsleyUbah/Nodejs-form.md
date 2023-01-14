@@ -1,6 +1,6 @@
 # KingsleyUbah/Nodejs-form - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 2 | 7 | 
 | 2023-01-12 | 2 | 7 | 
 | 2023-01-11 | 2 | 7 | 
 | 2023-01-10 | 2 | 7 | 

@@ -1,6 +1,6 @@
 # advanced-security/custom-codeql-bundle - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 27 | 2 | 
 | 2023-01-12 | 27 | 2 | 
 | 2023-01-11 | 27 | 2 | 
 | 2023-01-10 | 27 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 27 | 2 | 
 | 2022-12-16 | 27 | 2 | 
 | 2022-12-15 | 27 | 2 | 
-| 2022-12-14 | 27 | 2 | 
 

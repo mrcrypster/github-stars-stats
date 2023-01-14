@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-waf - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 16 | 26 | 
 | 2023-01-12 | 16 | 26 | 
 | 2023-01-11 | 16 | 26 | 
 | 2023-01-10 | 16 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 16 | 24 | 
 | 2022-12-16 | 16 | 24 | 
 | 2022-12-15 | 16 | 24 | 
-| 2022-12-14 | 16 | 24 | 
 

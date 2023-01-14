@@ -1,6 +1,6 @@
 # AI4Finance-Foundation/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020 - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 522
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 1284 | 522 | 
 | 2023-01-12 | 1284 | 522 | 
 | 2023-01-11 | 1282 | 521 | 
 | 2023-01-10 | 1279 | 521 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 1260 | 519 | 
 | 2022-12-16 | 1258 | 519 | 
 | 2022-12-15 | 1257 | 519 | 
-| 2022-12-14 | 1257 | 519 | 
 

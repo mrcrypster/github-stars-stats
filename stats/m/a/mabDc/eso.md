@@ -1,10 +1,10 @@
 # mabDc/eso - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 118
 
-★ Stars: 700
+★ Stars: 701
 
 [Open repository](https://github.com/mabDc/eso)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 701 | 118 | 
 | 2023-01-12 | 700 | 118 | 
 | 2023-01-11 | 700 | 118 | 
 | 2023-01-10 | 700 | 118 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 697 | 118 | 
 | 2022-12-16 | 697 | 118 | 
 | 2022-12-15 | 697 | 117 | 
-| 2022-12-14 | 697 | 117 | 
 

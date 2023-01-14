@@ -1,10 +1,10 @@
 # HolographicHat/YaeAchievement - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 37
+☋ Forks: 39
 
-★ Stars: 525
+★ Stars: 526
 
 [Open repository](https://github.com/HolographicHat/YaeAchievement)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 526 | 39 | 
 | 2023-01-12 | 525 | 37 | 
 | 2023-01-11 | 523 | 37 | 
 | 2023-01-10 | 521 | 37 | 

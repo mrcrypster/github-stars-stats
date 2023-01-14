@@ -1,10 +1,10 @@
 # aunefyren/wrapperr - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 22
 
-★ Stars: 195
+★ Stars: 196
 
 [Open repository](https://github.com/aunefyren/wrapperr)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 196 | 22 | 
 | 2023-01-12 | 195 | 22 | 
 | 2023-01-11 | 195 | 22 | 
 | 2023-01-10 | 195 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 158 | 21 | 
 | 2022-12-16 | 158 | 21 | 
 | 2022-12-15 | 157 | 21 | 
-| 2022-12-14 | 157 | 21 | 
 

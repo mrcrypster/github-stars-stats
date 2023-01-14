@@ -1,8 +1,8 @@
 # katalon-studio-samples/web-service-tests - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 15
+☋ Forks: 16
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 2 | 16 | 
 | 2023-01-12 | 2 | 15 | 
 | 2023-01-11 | 2 | 14 | 
 | 2023-01-10 | 2 | 14 | 

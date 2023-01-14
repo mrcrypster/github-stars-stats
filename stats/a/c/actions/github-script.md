@@ -1,10 +1,10 @@
 # actions/github-script - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 316
 
-★ Stars: 2964
+★ Stars: 2965
 
 [Open repository](https://github.com/actions/github-script)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 2965 | 316 | 
 | 2023-01-13 | 2964 | 316 | 
 | 2023-01-11 | 2962 | 316 | 
 | 2023-01-10 | 2958 | 317 | 

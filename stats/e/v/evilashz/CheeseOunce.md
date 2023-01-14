@@ -1,6 +1,6 @@
 # evilashz/CheeseOunce - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 127 | 15 | 
 | 2023-01-12 | 127 | 15 | 
 | 2023-01-11 | 127 | 15 | 
 | 2023-01-10 | 126 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 124 | 14 | 
 | 2022-12-16 | 124 | 14 | 
 | 2022-12-15 | 124 | 14 | 
-| 2022-12-14 | 124 | 14 | 
 

@@ -1,6 +1,6 @@
 # opensource-f2f/website - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 32 | 12 | 
 | 2023-01-12 | 32 | 12 | 
 | 2023-01-11 | 33 | 13 | 
 | 2023-01-10 | 33 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 32 | 13 | 
 | 2022-12-16 | 32 | 13 | 
 | 2022-12-15 | 32 | 13 | 
-| 2022-12-14 | 32 | 13 | 
 

@@ -1,10 +1,10 @@
 # StartBootstrap/startbootstrap-resume - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 2476
 
-★ Stars: 1827
+★ Stars: 1829
 
 [Open repository](https://github.com/StartBootstrap/startbootstrap-resume)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 1829 | 2476 | 
 | 2023-01-12 | 1827 | 2476 | 
 | 2023-01-11 | 1826 | 2475 | 
 | 2023-01-10 | 1826 | 2476 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 1818 | 2470 | 
 | 2022-12-16 | 1817 | 2470 | 
 | 2022-12-15 | 1815 | 2469 | 
-| 2022-12-14 | 1814 | 2469 | 
 

@@ -1,10 +1,10 @@
 # python019/scroll-js-ui.ux - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 0
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/python019/scroll-js-ui.ux)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 29 | - | 
 | 2023-01-12 | 28 | - | 
 | 2023-01-11 | 28 | - | 
 | 2023-01-10 | 28 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 28 | - | 
 | 2022-12-16 | 28 | - | 
 | 2022-12-15 | 28 | - | 
-| 2022-12-14 | 28 | - | 
 

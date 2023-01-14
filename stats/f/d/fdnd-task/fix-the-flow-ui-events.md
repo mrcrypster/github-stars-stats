@@ -1,8 +1,8 @@
 # fdnd-task/fix-the-flow-ui-events - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 68
+☋ Forks: 69
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | - | 69 | 
 | 2023-01-12 | - | 68 | 
 | 2023-01-11 | - | 68 | 
 | 2023-01-10 | - | 68 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | - | 63 | 
 | 2022-12-16 | - | 63 | 
 | 2022-12-15 | - | 62 | 
-| 2022-12-14 | - | 56 | 
 

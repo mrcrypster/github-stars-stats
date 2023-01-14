@@ -1,10 +1,10 @@
 # kongruksiamza/programmer-class-room - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 123
 
-★ Stars: 377
+★ Stars: 378
 
 [Open repository](https://github.com/kongruksiamza/programmer-class-room)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 378 | 123 | 
 | 2023-01-12 | 377 | 123 | 
 | 2023-01-11 | 375 | 124 | 
 | 2023-01-10 | 373 | 123 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 367 | 119 | 
 | 2022-12-16 | 360 | 119 | 
 | 2022-12-15 | 357 | 118 | 
-| 2022-12-14 | 356 | 118 | 
 

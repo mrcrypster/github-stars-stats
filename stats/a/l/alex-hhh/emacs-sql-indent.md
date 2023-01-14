@@ -1,10 +1,10 @@
 # alex-hhh/emacs-sql-indent - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 15
 
-★ Stars: 106
+★ Stars: 107
 
 [Open repository](https://github.com/alex-hhh/emacs-sql-indent)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 107 | 15 | 
 | 2023-01-12 | 106 | 15 | 
 | 2023-01-11 | 106 | 15 | 
 | 2023-01-10 | 106 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 105 | 15 | 
 | 2022-12-16 | 105 | 15 | 
 | 2022-12-15 | 105 | 15 | 
-| 2022-12-14 | 105 | 15 | 
 

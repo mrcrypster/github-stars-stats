@@ -1,10 +1,10 @@
 # jamaljm/Carbon-footprint-calculator - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 7
 
-★ Stars: 1
+★ Stars: 0
 
 [Open repository](https://github.com/jamaljm/Carbon-footprint-calculator)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | - | 7 | 
 | 2023-01-13 | 1 | 7 | 
 | 2023-01-11 | 1 | 7 | 
 | 2023-01-10 | 1 | 7 | 

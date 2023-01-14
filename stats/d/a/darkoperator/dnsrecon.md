@@ -1,8 +1,8 @@
 # darkoperator/dnsrecon - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 486
+☋ Forks: 485
 
 ★ Stars: 2096
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 2096 | 485 | 
 | 2023-01-12 | 2096 | 486 | 
 | 2023-01-11 | 2094 | 486 | 
 | 2023-01-10 | 2094 | 486 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 2072 | 484 | 
 | 2022-12-16 | 2072 | 484 | 
 | 2022-12-15 | 2072 | 484 | 
-| 2022-12-14 | 2072 | 484 | 
 

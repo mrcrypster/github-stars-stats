@@ -1,10 +1,10 @@
 # mvr/at - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 1
 
-★ Stars: 55
+★ Stars: 56
 
 [Open repository](https://github.com/mvr/at)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 56 | 1 | 
 | 2023-01-12 | 55 | 1 | 
 | 2023-01-11 | 55 | 1 | 
 | 2023-01-10 | 55 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 53 | 1 | 
 | 2022-12-16 | 53 | 1 | 
 | 2022-12-15 | 53 | 1 | 
-| 2022-12-14 | 53 | 1 | 
 

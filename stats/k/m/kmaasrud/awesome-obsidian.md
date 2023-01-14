@@ -1,10 +1,10 @@
 # kmaasrud/awesome-obsidian - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 216
+☋ Forks: 217
 
-★ Stars: 4060
+★ Stars: 4065
 
 [Open repository](https://github.com/kmaasrud/awesome-obsidian)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 4065 | 217 | 
 | 2023-01-12 | 4060 | 216 | 
 | 2023-01-11 | 4057 | 216 | 
 | 2023-01-10 | 4046 | 217 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 3919 | 204 | 
 | 2022-12-16 | 3916 | 204 | 
 | 2022-12-15 | 3912 | 204 | 
-| 2022-12-14 | 3908 | 202 | 
 

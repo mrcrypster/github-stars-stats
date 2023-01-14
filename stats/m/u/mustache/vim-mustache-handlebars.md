@@ -1,6 +1,6 @@
 # mustache/vim-mustache-handlebars - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 435 | 54 | 
 | 2023-01-12 | 435 | 54 | 
 | 2023-01-11 | 435 | 54 | 
 | 2023-01-10 | 435 | 54 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 435 | 54 | 
 | 2022-12-16 | 435 | 54 | 
 | 2022-12-15 | 435 | 54 | 
-| 2022-12-14 | 435 | 54 | 
 

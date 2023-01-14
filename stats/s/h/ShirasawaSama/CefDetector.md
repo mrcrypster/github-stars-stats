@@ -1,10 +1,10 @@
 # ShirasawaSama/CefDetector - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 6
 
-★ Stars: 544
+★ Stars: 548
 
 [Open repository](https://github.com/ShirasawaSama/CefDetector)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 548 | 6 | 
 | 2023-01-12 | 544 | 6 | 
 | 2023-01-11 | 540 | 6 | 
 | 2023-01-10 | 535 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 413 | 4 | 
 | 2022-12-16 | 410 | 4 | 
 | 2022-12-15 | 409 | 4 | 
-| 2022-12-14 | 405 | 4 | 
 

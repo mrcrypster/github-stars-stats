@@ -1,8 +1,8 @@
 # Lerist/FakeLocation - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 266
+☋ Forks: 267
 
 ★ Stars: 2971
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 2971 | 267 | 
 | 2023-01-12 | 2971 | 266 | 
 | 2023-01-11 | 2968 | 265 | 
 | 2023-01-10 | 2966 | 265 | 

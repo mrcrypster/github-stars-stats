@@ -1,10 +1,10 @@
 # Redocly/redoc - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 2099
 
-★ Stars: 19298
+★ Stars: 19307
 
 [Open repository](https://github.com/Redocly/redoc)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 19307 | 2099 | 
 | 2023-01-12 | 19298 | 2099 | 
 | 2023-01-11 | 19295 | 2099 | 
 | 2023-01-10 | 19291 | 2100 | 

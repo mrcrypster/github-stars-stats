@@ -1,6 +1,6 @@
 # shellfeel/Ant-AntV - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 43 | 12 | 
 | 2023-01-12 | 43 | 12 | 
 | 2023-01-11 | 43 | 12 | 
 | 2023-01-10 | 43 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 38 | 9 | 
 | 2022-12-16 | 38 | 9 | 
 | 2022-12-15 | 37 | 9 | 
-| 2022-12-14 | 37 | 9 | 
 

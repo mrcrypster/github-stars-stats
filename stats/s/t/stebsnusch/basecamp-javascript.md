@@ -1,6 +1,6 @@
 # stebsnusch/basecamp-javascript - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 661
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 758 | 661 | 
 | 2023-01-12 | 758 | 661 | 
 | 2023-01-11 | 757 | 662 | 
 | 2023-01-10 | 757 | 663 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 757 | 661 | 
 | 2022-12-16 | 758 | 661 | 
 | 2022-12-15 | 757 | 660 | 
-| 2022-12-14 | 757 | 661 | 
 

@@ -1,6 +1,6 @@
 # tablelandnetwork/evm-tableland - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 18 | 1 | 
 | 2023-01-12 | 18 | 1 | 
 | 2023-01-11 | 18 | 1 | 
 | 2023-01-10 | 18 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 17 | 1 | 
 | 2022-12-16 | 17 | 1 | 
 | 2022-12-15 | 17 | 1 | 
-| 2022-12-14 | 16 | 1 | 
 

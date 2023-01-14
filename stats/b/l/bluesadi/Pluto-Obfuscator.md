@@ -1,8 +1,8 @@
 # bluesadi/Pluto-Obfuscator - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 125
+☋ Forks: 126
 
 ★ Stars: 523
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 523 | 126 | 
 | 2023-01-12 | 523 | 125 | 
 | 2023-01-11 | 523 | 125 | 
 | 2023-01-10 | 523 | 125 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 513 | 122 | 
 | 2022-12-16 | 513 | 121 | 
 | 2022-12-15 | 513 | 121 | 
-| 2022-12-14 | 511 | 120 | 
 

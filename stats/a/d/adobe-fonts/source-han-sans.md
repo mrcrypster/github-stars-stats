@@ -1,10 +1,10 @@
 # adobe-fonts/source-han-sans - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 1216
 
-★ Stars: 11926
+★ Stars: 11932
 
 [Open repository](https://github.com/adobe-fonts/source-han-sans)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 11932 | 1216 | 
 | 2023-01-12 | 11926 | 1216 | 
 | 2023-01-11 | 11922 | 1216 | 
 | 2023-01-10 | 11918 | 1216 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 11810 | 1208 | 
 | 2022-12-16 | 11803 | 1208 | 
 | 2022-12-15 | 11795 | 1207 | 
-| 2022-12-14 | 11790 | 1206 | 
 

@@ -1,10 +1,10 @@
 # TykTechnologies/tyk - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 976
+☋ Forks: 977
 
-★ Stars: 8067
+★ Stars: 8069
 
 [Open repository](https://github.com/TykTechnologies/tyk)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 8069 | 977 | 
 | 2023-01-12 | 8067 | 976 | 
 | 2023-01-11 | 8059 | 975 | 
 | 2023-01-10 | 8052 | 975 | 

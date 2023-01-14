@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 13
 
-☋ Forks: 70
+☋ Forks: 84
 
-★ Stars: 250
+★ Stars: 483
 
 [Open repository](https://github.com/cloudflare/wildebeest)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-13 | 250 | 70 | 
+| 2023-01-13 | 483 | 84 | 
 | 2023-01-12 | 234 | 67 | 
 | 2023-01-11 | 89 | 55 | 
 

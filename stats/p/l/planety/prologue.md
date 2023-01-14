@@ -1,6 +1,6 @@
 # planety/prologue - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 1045 | 41 | 
 | 2023-01-12 | 1045 | 41 | 
 | 2023-01-11 | 1044 | 41 | 
 | 2023-01-10 | 1044 | 41 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-18 | 1031 | 39 | 
 | 2022-12-17 | 1030 | 39 | 
 | 2022-12-16 | 1030 | 39 | 
-| 2022-12-15 | 1030 | 39 | 
 

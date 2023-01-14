@@ -1,6 +1,6 @@
 # trento-project/web - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 9
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 11 | 9 | 
+| 2023-01-13 | 11 | 9 | 
 | 2023-01-12 | 11 | 9 | 
 | 2023-01-11 | 11 | 9 | 
 | 2023-01-09 | 11 | 9 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 11 | 9 | 
 | 2022-12-16 | 11 | 9 | 
 | 2022-12-15 | 11 | 9 | 
-| 2022-12-14 | 12 | 9 | 
 

@@ -1,10 +1,10 @@
 # open-mmlab/mmediting - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 711
+☋ Forks: 712
 
-★ Stars: 3926
+★ Stars: 3935
 
 [Open repository](https://github.com/open-mmlab/mmediting)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 3935 | 712 | 
 | 2023-01-13 | 3926 | 711 | 
 | 2023-01-11 | 3922 | 711 | 
 | 2023-01-10 | 3919 | 711 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-17 | 3866 | 697 | 
 | 2022-12-16 | 3864 | 696 | 
 | 2022-12-15 | 3861 | 694 | 
-| 2022-12-14 | 3855 | 692 | 
 

@@ -1,10 +1,10 @@
 # VKCOM/VKUI - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 14
 
-☋ Forks: 168
+☋ Forks: 169
 
-★ Stars: 725
+★ Stars: 726
 
 [Open repository](https://github.com/VKCOM/VKUI)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 726 | 169 | 
 | 2023-01-12 | 725 | 168 | 
 | 2023-01-11 | 725 | 168 | 
 | 2023-01-10 | 725 | 168 | 

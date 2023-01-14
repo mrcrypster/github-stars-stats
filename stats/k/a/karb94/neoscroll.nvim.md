@@ -1,6 +1,6 @@
 # karb94/neoscroll.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 781 | 26 | 
 | 2023-01-12 | 781 | 26 | 
 | 2023-01-11 | 780 | 25 | 
 | 2023-01-09 | 778 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 743 | 25 | 
 | 2022-12-16 | 737 | 25 | 
 | 2022-12-15 | 731 | 25 | 
-| 2022-12-14 | 731 | 25 | 
 

@@ -1,6 +1,6 @@
 # ChrisTitusTech/ubuntu-titus - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 33 | 16 | 
 | 2023-01-13 | 33 | 16 | 
 | 2023-01-11 | 33 | 16 | 
 | 2023-01-10 | 33 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-17 | 23 | 11 | 
 | 2022-12-16 | 23 | 11 | 
 | 2022-12-15 | 23 | 11 | 
-| 2022-12-14 | 23 | 11 | 
 

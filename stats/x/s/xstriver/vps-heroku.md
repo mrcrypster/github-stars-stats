@@ -1,8 +1,8 @@
 # xstriver/vps-heroku - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 281
+☋ Forks: 280
 
 ★ Stars: 26
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 26 | 280 | 
 | 2023-01-13 | 26 | 281 | 
 | 2023-01-11 | 26 | 281 | 
 | 2023-01-10 | 26 | 281 | 

@@ -1,6 +1,6 @@
 # getlantern/download - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 3059
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 16382 | 3059 | 
 | 2023-01-12 | 16382 | 3059 | 
 | 2023-01-11 | 16379 | 3059 | 
 | 2023-01-10 | 16375 | 3058 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 16342 | 3055 | 
 | 2022-12-16 | 16341 | 3055 | 
 | 2022-12-15 | 16341 | 3057 | 
-| 2022-12-14 | 16339 | 3057 | 
 

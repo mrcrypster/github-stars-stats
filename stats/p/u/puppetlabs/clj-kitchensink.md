@@ -1,6 +1,6 @@
 # puppetlabs/clj-kitchensink - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 19 | 37 | 
 | 2023-01-12 | 19 | 37 | 
 | 2023-01-11 | 19 | 37 | 
 | 2023-01-10 | 19 | 37 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 19 | 37 | 
 | 2022-12-16 | 19 | 37 | 
 | 2022-12-15 | 19 | 37 | 
-| 2022-12-14 | 20 | 37 | 
 

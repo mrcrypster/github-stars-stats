@@ -1,6 +1,6 @@
 # anushkachauhxn/dbms_studentfeedback - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 6 | 21 | 
 | 2023-01-12 | 6 | 21 | 
 | 2023-01-11 | 6 | 20 | 
 | 2023-01-10 | 6 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 7 | 16 | 
 | 2022-12-16 | 7 | 16 | 
 | 2022-12-15 | 7 | 16 | 
-| 2022-12-14 | 7 | 16 | 
 

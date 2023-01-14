@@ -1,6 +1,6 @@
 # TryGhost/Journal - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 29 | 58 | 
 | 2023-01-12 | 29 | 58 | 
 | 2023-01-11 | 29 | 58 | 
 | 2023-01-10 | 29 | 58 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 29 | 57 | 
 | 2022-12-16 | 29 | 57 | 
 | 2022-12-15 | 29 | 57 | 
-| 2022-12-14 | 29 | 57 | 
 

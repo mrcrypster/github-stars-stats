@@ -1,6 +1,6 @@
 # Urban-Coalition/ArcCW_UD - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 29 | 16 | 
 | 2023-01-12 | 29 | 16 | 
 | 2023-01-11 | 29 | 16 | 
 | 2023-01-10 | 29 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 26 | 16 | 
 | 2022-12-16 | 25 | 16 | 
 | 2022-12-15 | 25 | 16 | 
-| 2022-12-14 | 25 | 16 | 
 

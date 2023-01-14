@@ -1,10 +1,10 @@
 # wsdjeg/vim-galore-zh_cn - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 1412
 
-★ Stars: 9477
+★ Stars: 9478
 
 [Open repository](https://github.com/wsdjeg/vim-galore-zh_cn)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 9478 | 1412 | 
 | 2023-01-12 | 9477 | 1412 | 
 | 2023-01-11 | 9475 | 1412 | 
 | 2023-01-10 | 9470 | 1412 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 9437 | 1408 | 
 | 2022-12-16 | 9437 | 1408 | 
 | 2022-12-15 | 9434 | 1408 | 
-| 2022-12-14 | 9430 | 1408 | 
 

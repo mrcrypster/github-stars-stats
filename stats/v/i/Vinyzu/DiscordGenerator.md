@@ -1,8 +1,8 @@
 # Vinyzu/DiscordGenerator - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 117
+☋ Forks: 118
 
 ★ Stars: 109
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 109 | 118 | 
 | 2023-01-12 | 109 | 117 | 
 | 2023-01-11 | 108 | 117 | 
 | 2023-01-09 | 108 | 117 | 

@@ -1,10 +1,10 @@
 # wy580477/replit-trojan - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 129
+☋ Forks: 130
 
-★ Stars: 130
+★ Stars: 135
 
 [Open repository](https://github.com/wy580477/replit-trojan)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 135 | 130 | 
 | 2023-01-12 | 130 | 129 | 
 | 2023-01-11 | 128 | 129 | 
 | 2023-01-10 | 128 | 124 | 

@@ -1,10 +1,10 @@
 # quadratichq/quadratic - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 25
 
-★ Stars: 620
+★ Stars: 622
 
 [Open repository](https://github.com/quadratichq/quadratic)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 622 | 25 | 
 | 2023-01-12 | 620 | 25 | 
 | 2023-01-11 | 619 | 25 | 
 | 2023-01-10 | 619 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 599 | 20 | 
 | 2022-12-16 | 599 | 20 | 
 | 2022-12-15 | 599 | 20 | 
-| 2022-12-14 | 598 | 20 | 
 

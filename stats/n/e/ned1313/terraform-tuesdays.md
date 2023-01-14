@@ -1,6 +1,6 @@
 # ned1313/terraform-tuesdays - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 395
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 302 | 395 | 
 | 2023-01-12 | 302 | 395 | 
 | 2023-01-11 | 301 | 393 | 
 | 2023-01-10 | 300 | 392 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 290 | 382 | 
 | 2022-12-16 | 290 | 381 | 
 | 2022-12-15 | 290 | 381 | 
-| 2022-12-14 | 289 | 382 | 
 

@@ -1,6 +1,6 @@
 # openvswitch/ovs - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 1772
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 3065 | 1772 | 
 | 2023-01-12 | 3065 | 1772 | 
 | 2023-01-11 | 3065 | 1772 | 
 | 2023-01-10 | 3063 | 1772 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 3049 | 1767 | 
 | 2022-12-16 | 3049 | 1768 | 
 | 2022-12-15 | 3049 | 1767 | 
-| 2022-12-14 | 3049 | 1767 | 
 

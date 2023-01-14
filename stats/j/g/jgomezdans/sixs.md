@@ -1,6 +1,6 @@
 # jgomezdans/sixs - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 12 | 5 | 
 | 2023-01-13 | 12 | 5 | 
 | 2023-01-12 | 12 | 5 | 
 | 2023-01-10 | 12 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-17 | 12 | 5 | 
 | 2022-12-16 | 12 | 5 | 
 | 2022-12-15 | 12 | 5 | 
-| 2022-12-14 | 12 | 5 | 
 

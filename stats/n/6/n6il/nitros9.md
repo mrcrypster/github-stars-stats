@@ -1,10 +1,10 @@
 # n6il/nitros9 - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 3
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/n6il/nitros9)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 14 | 3 | 
 | 2023-01-12 | 13 | 3 | 
 | 2023-01-11 | 13 | 3 | 
 | 2023-01-10 | 13 | 3 | 

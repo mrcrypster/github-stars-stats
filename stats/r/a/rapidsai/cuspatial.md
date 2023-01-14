@@ -1,6 +1,6 @@
 # rapidsai/cuspatial - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 110
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 406 | 110 | 
 | 2023-01-12 | 406 | 110 | 
 | 2023-01-11 | 406 | 110 | 
 | 2023-01-10 | 405 | 110 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 398 | 110 | 
 | 2022-12-16 | 398 | 110 | 
 | 2022-12-15 | 398 | 110 | 
-| 2022-12-14 | 398 | 110 | 
 

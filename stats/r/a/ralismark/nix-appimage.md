@@ -1,10 +1,10 @@
 # ralismark/nix-appimage - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 1
 
-★ Stars: 59
+★ Stars: 60
 
 [Open repository](https://github.com/ralismark/nix-appimage)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 60 | 1 | 
 | 2023-01-12 | 59 | 1 | 
 | 2023-01-11 | 59 | 1 | 
 | 2023-01-10 | 59 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 56 | 1 | 
 | 2022-12-16 | 56 | 1 | 
 | 2022-12-15 | 56 | 1 | 
-| 2022-12-14 | 55 | 1 | 
 

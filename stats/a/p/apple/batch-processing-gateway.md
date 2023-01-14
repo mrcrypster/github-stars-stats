@@ -1,6 +1,6 @@
 # apple/batch-processing-gateway - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 131 | 25 | 
 | 2023-01-12 | 131 | 25 | 
 | 2023-01-11 | 131 | 24 | 
 | 2023-01-10 | 131 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 126 | 22 | 
 | 2022-12-16 | 126 | 22 | 
 | 2022-12-15 | 125 | 22 | 
-| 2022-12-14 | 125 | 22 | 
 

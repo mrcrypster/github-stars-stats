@@ -1,6 +1,6 @@
 # andrewheiss/bayesf22.classes.andrewheiss.com - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 36 | 1 | 
 | 2023-01-12 | 36 | 1 | 
 | 2023-01-11 | 36 | 1 | 
 | 2023-01-10 | 35 | 1 | 

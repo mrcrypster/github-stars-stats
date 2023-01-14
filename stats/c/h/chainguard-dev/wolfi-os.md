@@ -1,10 +1,10 @@
 # chainguard-dev/wolfi-os - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 28
 
-★ Stars: 190
+★ Stars: 192
 
 [Open repository](https://github.com/chainguard-dev/wolfi-os)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 192 | 28 | 
 | 2023-01-12 | 190 | 28 | 
 | 2023-01-11 | 188 | 28 | 
 | 2023-01-10 | 185 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 158 | 24 | 
 | 2022-12-16 | 157 | 23 | 
 | 2022-12-15 | 155 | 23 | 
-| 2022-12-14 | 155 | 23 | 
 

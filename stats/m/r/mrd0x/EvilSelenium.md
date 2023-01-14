@@ -1,6 +1,6 @@
 # mrd0x/EvilSelenium - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 85
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 539 | 85 | 
 | 2023-01-12 | 539 | 85 | 
 | 2023-01-11 | 539 | 85 | 
 | 2023-01-10 | 538 | 84 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 536 | 84 | 
 | 2022-12-16 | 536 | 84 | 
 | 2022-12-15 | 535 | 84 | 
-| 2022-12-14 | 535 | 84 | 
 

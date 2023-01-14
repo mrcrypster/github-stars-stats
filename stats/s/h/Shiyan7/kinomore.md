@@ -1,6 +1,6 @@
 # Shiyan7/kinomore - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 212 | 31 | 
 | 2023-01-12 | 212 | 31 | 
 | 2023-01-11 | 212 | 31 | 
 | 2023-01-10 | 212 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 206 | 30 | 
 | 2022-12-16 | 206 | 30 | 
 | 2022-12-15 | 206 | 30 | 
-| 2022-12-14 | 206 | 30 | 
 

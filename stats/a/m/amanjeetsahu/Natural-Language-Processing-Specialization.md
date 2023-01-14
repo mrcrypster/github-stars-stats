@@ -1,10 +1,10 @@
 # amanjeetsahu/Natural-Language-Processing-Specialization - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 535
 
-★ Stars: 523
+★ Stars: 527
 
 [Open repository](https://github.com/amanjeetsahu/Natural-Language-Processing-Specialization)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 527 | 535 | 
 | 2023-01-12 | 523 | 535 | 
 | 2023-01-11 | 523 | 534 | 
 | 2023-01-10 | 523 | 533 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 517 | 523 | 
 | 2022-12-16 | 517 | 523 | 
 | 2022-12-15 | 517 | 523 | 
-| 2022-12-14 | 517 | 522 | 
 

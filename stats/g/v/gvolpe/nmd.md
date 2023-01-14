@@ -1,10 +1,10 @@
 # gvolpe/nmd - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 0
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/gvolpe/nmd)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 13 | - | 
 | 2023-01-12 | 12 | - | 
 | 2023-01-11 | 12 | - | 
 | 2023-01-10 | 12 | - | 

@@ -1,10 +1,10 @@
 # probml/dynamax - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 23
 
-★ Stars: 322
+★ Stars: 326
 
 [Open repository](https://github.com/probml/dynamax)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 326 | 23 | 
 | 2023-01-12 | 322 | 23 | 
 | 2023-01-11 | 318 | 23 | 
 | 2023-01-10 | 311 | 23 | 

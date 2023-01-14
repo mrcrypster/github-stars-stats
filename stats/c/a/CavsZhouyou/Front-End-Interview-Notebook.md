@@ -1,10 +1,10 @@
 # CavsZhouyou/Front-End-Interview-Notebook - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 1445
+☋ Forks: 1444
 
-★ Stars: 6161
+★ Stars: 6163
 
 [Open repository](https://github.com/CavsZhouyou/Front-End-Interview-Notebook)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 6163 | 1444 | 
 | 2023-01-12 | 6161 | 1445 | 
 | 2023-01-11 | 6156 | 1444 | 
 | 2023-01-10 | 6150 | 1444 | 

@@ -1,6 +1,6 @@
 # BlackTimber-Labs/Portfolio-Website - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 192
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 75 | 192 | 
 | 2023-01-12 | 75 | 192 | 
 | 2023-01-11 | 75 | 192 | 
 | 2023-01-10 | 75 | 192 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 75 | 196 | 
 | 2022-12-16 | 75 | 196 | 
 | 2022-12-15 | 75 | 196 | 
-| 2022-12-14 | 75 | 196 | 
 

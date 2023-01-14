@@ -1,6 +1,6 @@
 # AppsFlyer/pronto - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 69 | 5 | 
 | 2023-01-12 | 69 | 5 | 
 | 2023-01-11 | 69 | 5 | 
 | 2023-01-10 | 69 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-18 | 66 | 5 | 
 | 2022-12-17 | 66 | 5 | 
 | 2022-12-16 | 66 | 5 | 
-| 2022-12-15 | 66 | 5 | 
 

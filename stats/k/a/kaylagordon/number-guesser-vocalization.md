@@ -1,8 +1,8 @@
 # kaylagordon/number-guesser-vocalization - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 74
+☋ Forks: 82
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 1 | 82 | 
 | 2023-01-12 | 1 | 74 | 
 | 2023-01-11 | 1 | 74 | 
 | 2023-01-10 | 1 | 74 | 

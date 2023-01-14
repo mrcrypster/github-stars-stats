@@ -1,8 +1,8 @@
 # qrrk/Catapult - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 31
+☋ Forks: 32
 
 ★ Stars: 169
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 169 | 32 | 
 | 2023-01-13 | 169 | 31 | 
 | 2023-01-11 | 169 | 31 | 
 | 2023-01-10 | 169 | 31 | 

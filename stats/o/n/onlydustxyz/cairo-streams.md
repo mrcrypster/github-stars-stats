@@ -1,6 +1,6 @@
 # onlydustxyz/cairo-streams - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 57 | 6 | 
 | 2023-01-12 | 57 | 6 | 
 | 2023-01-11 | 57 | 6 | 
 | 2023-01-10 | 57 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 57 | 6 | 
 | 2022-12-16 | 57 | 6 | 
 | 2022-12-15 | 57 | 6 | 
-| 2022-12-14 | 57 | 6 | 
 

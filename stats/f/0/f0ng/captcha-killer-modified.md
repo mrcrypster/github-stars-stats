@@ -1,10 +1,10 @@
 # f0ng/captcha-killer-modified - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 78
+☋ Forks: 79
 
-★ Stars: 582
+★ Stars: 583
 
 [Open repository](https://github.com/f0ng/captcha-killer-modified)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 583 | 79 | 
 | 2023-01-13 | 582 | 78 | 
 | 2023-01-12 | 581 | 78 | 
 | 2023-01-10 | 579 | 78 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-17 | 561 | 77 | 
 | 2022-12-16 | 560 | 77 | 
 | 2022-12-15 | 555 | 77 | 
-| 2022-12-14 | 552 | 77 | 
 

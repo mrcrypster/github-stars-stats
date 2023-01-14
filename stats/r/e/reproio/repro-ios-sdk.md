@@ -1,6 +1,6 @@
 # reproio/repro-ios-sdk - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 27 | 1 | 
 | 2023-01-13 | 27 | 1 | 
 | 2023-01-11 | 27 | 1 | 
 | 2023-01-10 | 27 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-17 | 26 | 1 | 
 | 2022-12-16 | 26 | 1 | 
 | 2022-12-15 | 26 | 1 | 
-| 2022-12-14 | 26 | 1 | 
 

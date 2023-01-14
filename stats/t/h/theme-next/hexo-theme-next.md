@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 13
 
 ☋ Forks: 2064
 
-★ Stars: 7824
+★ Stars: 7826
 
 [Open repository](https://github.com/theme-next/hexo-theme-next)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-13 | 7824 | 2064 | 
+| 2023-01-13 | 7826 | 2064 | 
 | 2023-01-12 | 7824 | 2064 | 
 | 2023-01-11 | 7823 | 2064 | 
 | 2023-01-10 | 7821 | 2063 | 

@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 13
 
 ☋ Forks: 291
 
-★ Stars: 4771
+★ Stars: 4774
 
 [Open repository](https://github.com/aws/containers-roadmap)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-13 | 4771 | 291 | 
+| 2023-01-13 | 4774 | 291 | 
 | 2023-01-12 | 4771 | 291 | 
 | 2023-01-11 | 4766 | 291 | 
 | 2023-01-10 | 4766 | 291 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-17 | 4738 | 290 | 
 | 2022-12-16 | 4737 | 290 | 
 | 2022-12-15 | 4735 | 290 | 
-| 2022-12-14 | 4735 | 290 | 
 

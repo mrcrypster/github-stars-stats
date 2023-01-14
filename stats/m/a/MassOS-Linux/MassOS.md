@@ -1,6 +1,6 @@
 # MassOS-Linux/MassOS - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 96 | 7 | 
 | 2023-01-12 | 96 | 7 | 
 | 2023-01-11 | 96 | 7 | 
 | 2023-01-09 | 96 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 96 | 7 | 
 | 2022-12-16 | 96 | 7 | 
 | 2022-12-15 | 96 | 7 | 
-| 2022-12-14 | 96 | 7 | 
 

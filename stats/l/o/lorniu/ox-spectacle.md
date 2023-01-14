@@ -1,8 +1,8 @@
 # lorniu/ox-spectacle - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 4
+☋ Forks: 5
 
 ★ Stars: 51
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 51 | 5 | 
 | 2023-01-12 | 51 | 4 | 
 | 2023-01-11 | 50 | 4 | 
 | 2023-01-10 | 48 | 4 | 

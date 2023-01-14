@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 13
 
 ☋ Forks: 83
 
-★ Stars: 351
+★ Stars: 353
 
 [Open repository](https://github.com/jongpie/NebulaLogger)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-13 | 351 | 83 | 
+| 2023-01-13 | 353 | 83 | 
 | 2023-01-12 | 345 | 82 | 
 | 2023-01-10 | 334 | 82 | 
 | 2023-01-09 | 334 | 82 | 

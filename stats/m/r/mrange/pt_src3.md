@@ -1,6 +1,6 @@
 # mrange/pt_src3 - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 12 | 1 | 
 | 2023-01-12 | 12 | 1 | 
 | 2023-01-11 | 12 | 1 | 
 | 2023-01-10 | 12 | 1 | 

@@ -1,6 +1,6 @@
 # cucumber/gherkin-perl - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 3 | 3 | 
 | 2023-01-12 | 3 | 3 | 
 | 2023-01-11 | 3 | 3 | 
 | 2023-01-10 | 3 | 3 | 

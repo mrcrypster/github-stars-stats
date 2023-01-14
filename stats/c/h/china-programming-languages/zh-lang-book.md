@@ -1,6 +1,6 @@
 # china-programming-languages/zh-lang-book - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 195 | 24 | 
 | 2023-01-12 | 195 | 24 | 
 | 2023-01-11 | 195 | 24 | 
 | 2023-01-10 | 194 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 175 | 23 | 
 | 2022-12-16 | 175 | 23 | 
 | 2022-12-15 | 175 | 23 | 
-| 2022-12-14 | 175 | 23 | 
 

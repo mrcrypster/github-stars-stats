@@ -1,6 +1,6 @@
 # Cocoanetics/DTFoundation - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 236
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 800 | 236 | 
 | 2023-01-12 | 800 | 236 | 
 | 2023-01-11 | 800 | 236 | 
 | 2023-01-10 | 800 | 236 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 800 | 237 | 
 | 2022-12-16 | 800 | 237 | 
 | 2022-12-15 | 800 | 237 | 
-| 2022-12-14 | 800 | 237 | 
 

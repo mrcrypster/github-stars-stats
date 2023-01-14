@@ -1,6 +1,6 @@
 # theos/nic - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 9 | 3 | 
 | 2023-01-12 | 9 | 3 | 
 | 2023-01-11 | 9 | 3 | 
 | 2023-01-10 | 9 | 3 | 

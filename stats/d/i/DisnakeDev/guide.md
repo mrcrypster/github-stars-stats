@@ -1,8 +1,8 @@
 # DisnakeDev/guide - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 26
+☋ Forks: 27
 
 ★ Stars: 21
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 21 | 27 | 
 | 2023-01-12 | 21 | 26 | 
 | 2023-01-11 | 21 | 26 | 
 | 2023-01-10 | 21 | 26 | 

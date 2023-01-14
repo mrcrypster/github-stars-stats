@@ -1,6 +1,6 @@
 # macs-lab/arb-adaptive-regulation-benchmark-lv2-training - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 2 | 11 | 
 | 2023-01-12 | 2 | 11 | 
 | 2023-01-11 | 2 | 11 | 
 | 2023-01-10 | 2 | 11 | 

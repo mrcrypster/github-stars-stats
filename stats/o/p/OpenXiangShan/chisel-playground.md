@@ -1,6 +1,6 @@
 # OpenXiangShan/chisel-playground - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 25 | 7 | 
 | 2023-01-12 | 25 | 7 | 
 | 2023-01-11 | 25 | 7 | 
 | 2023-01-10 | 25 | 7 | 

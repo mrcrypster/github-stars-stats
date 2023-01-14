@@ -1,10 +1,10 @@
 # shinchiro/mpv-winbuild-cmake - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 50
 
-★ Stars: 227
+★ Stars: 228
 
 [Open repository](https://github.com/shinchiro/mpv-winbuild-cmake)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 228 | 50 | 
 | 2023-01-12 | 227 | 50 | 
 | 2023-01-11 | 227 | 50 | 
 | 2023-01-10 | 227 | 50 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 219 | 49 | 
 | 2022-12-16 | 218 | 49 | 
 | 2022-12-15 | 218 | 49 | 
-| 2022-12-14 | 219 | 49 | 
 

@@ -1,6 +1,6 @@
 # Processus-Thief/ETWMonitor - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 97 | 9 | 
 | 2023-01-12 | 97 | 9 | 
 | 2023-01-11 | 97 | 9 | 
 | 2023-01-10 | 97 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 95 | 9 | 
 | 2022-12-16 | 93 | 9 | 
 | 2022-12-15 | 91 | 9 | 
-| 2022-12-14 | 92 | 9 | 
 

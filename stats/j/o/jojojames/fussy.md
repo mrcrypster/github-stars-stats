@@ -1,6 +1,6 @@
 # jojojames/fussy - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 79 | 6 | 
 | 2023-01-12 | 79 | 6 | 
 | 2023-01-11 | 79 | 6 | 
 | 2023-01-10 | 79 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 77 | 6 | 
 | 2022-12-16 | 77 | 6 | 
 | 2022-12-15 | 77 | 6 | 
-| 2022-12-14 | 77 | 6 | 
 

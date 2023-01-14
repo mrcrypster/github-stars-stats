@@ -1,10 +1,10 @@
 # Lojemiru/Chameleon - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 0
+☋ Forks: 1
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/Lojemiru/Chameleon)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 15 | 1 | 
 | 2023-01-12 | 14 | - | 
 | 2023-01-11 | 13 | - | 
 | 2023-01-10 | 13 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 13 | - | 
 | 2022-12-16 | 13 | - | 
 | 2022-12-15 | 13 | - | 
-| 2022-12-14 | 13 | - | 
 

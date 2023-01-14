@@ -1,8 +1,8 @@
 # stefanprodan/flux-aio - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 14
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 21
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 21 | 2 | 
 | 2023-01-12 | 21 | 1 | 
 | 2023-01-11 | 21 | 1 | 
 | 2023-01-10 | 21 | 1 | 

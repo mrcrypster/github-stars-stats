@@ -1,10 +1,10 @@
 # chokcoco/CSS-Inspiration - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 815
+☋ Forks: 816
 
-★ Stars: 8520
+★ Stars: 8528
 
 [Open repository](https://github.com/chokcoco/CSS-Inspiration)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 8528 | 816 | 
 | 2023-01-12 | 8520 | 815 | 
 | 2023-01-11 | 8519 | 815 | 
 | 2023-01-09 | 8511 | 814 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 8475 | 808 | 
 | 2022-12-16 | 8474 | 807 | 
 | 2022-12-15 | 8475 | 807 | 
-| 2022-12-14 | 8473 | 808 | 
 

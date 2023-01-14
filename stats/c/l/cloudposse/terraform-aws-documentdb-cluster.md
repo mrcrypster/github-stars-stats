@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-documentdb-cluster - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 45 | 68 | 
 | 2023-01-12 | 45 | 68 | 
 | 2023-01-11 | 45 | 68 | 
 | 2023-01-10 | 45 | 68 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 42 | 67 | 
 | 2022-12-16 | 42 | 65 | 
 | 2022-12-15 | 42 | 65 | 
-| 2022-12-14 | 42 | 65 | 
 

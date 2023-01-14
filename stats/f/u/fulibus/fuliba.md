@@ -1,6 +1,6 @@
 # fulibus/fuliba - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 123 | 9 | 
 | 2023-01-12 | 123 | 9 | 
 | 2023-01-11 | 123 | 9 | 
 | 2023-01-10 | 123 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 122 | 9 | 
 | 2022-12-16 | 122 | 9 | 
 | 2022-12-15 | 122 | 9 | 
-| 2022-12-14 | 122 | 9 | 
 

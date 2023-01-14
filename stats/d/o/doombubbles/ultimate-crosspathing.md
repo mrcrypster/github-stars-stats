@@ -1,10 +1,10 @@
 # doombubbles/ultimate-crosspathing - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 130
 
-★ Stars: 75
+★ Stars: 76
 
 [Open repository](https://github.com/doombubbles/ultimate-crosspathing)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 76 | 130 | 
 | 2023-01-12 | 75 | 130 | 
 | 2023-01-11 | 75 | 130 | 
 | 2023-01-10 | 74 | 130 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 68 | 127 | 
 | 2022-12-16 | 68 | 127 | 
 | 2022-12-15 | 68 | 127 | 
-| 2022-12-14 | 68 | 126 | 
 

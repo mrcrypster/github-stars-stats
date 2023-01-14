@@ -1,8 +1,8 @@
 # Manta-Network/manta-signer - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 33
+☋ Forks: 34
 
 ★ Stars: 60
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 60 | 34 | 
 | 2023-01-12 | 60 | 33 | 
 | 2023-01-11 | 60 | 33 | 
 | 2023-01-10 | 60 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 60 | 33 | 
 | 2022-12-16 | 60 | 33 | 
 | 2022-12-15 | 60 | 33 | 
-| 2022-12-14 | 60 | 33 | 
 

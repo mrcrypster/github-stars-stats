@@ -1,10 +1,10 @@
 # boundary/folsom - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 163
 
-★ Stars: 586
+★ Stars: 587
 
 [Open repository](https://github.com/boundary/folsom)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 587 | 163 | 
 | 2023-01-12 | 586 | 163 | 
 | 2023-01-11 | 586 | 163 | 
 | 2023-01-10 | 586 | 163 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 588 | 162 | 
 | 2022-12-16 | 588 | 162 | 
 | 2022-12-15 | 588 | 162 | 
-| 2022-12-14 | 588 | 162 | 
 

@@ -1,10 +1,10 @@
 # NightscoutFoundation/xDrip - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 999
+☋ Forks: 1000
 
-★ Stars: 1032
+★ Stars: 1031
 
 [Open repository](https://github.com/NightscoutFoundation/xDrip)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 1031 | 1000 | 
 | 2023-01-12 | 1032 | 999 | 
 | 2023-01-11 | 1029 | 999 | 
 | 2023-01-10 | 1028 | 999 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 1024 | 993 | 
 | 2022-12-16 | 1024 | 993 | 
 | 2022-12-15 | 1023 | 993 | 
-| 2022-12-14 | 1022 | 993 | 
 

@@ -1,10 +1,10 @@
 # scipopt/PySCIPOpt - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 217
 
-★ Stars: 590
+★ Stars: 591
 
 [Open repository](https://github.com/scipopt/PySCIPOpt)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 591 | 217 | 
 | 2023-01-12 | 590 | 217 | 
 | 2023-01-11 | 589 | 217 | 
 | 2023-01-09 | 586 | 217 | 

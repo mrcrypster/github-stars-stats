@@ -1,10 +1,10 @@
 # tefkah/zotero-night - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 14
 
-★ Stars: 921
+★ Stars: 928
 
 [Open repository](https://github.com/tefkah/zotero-night)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 928 | 14 | 
 | 2023-01-12 | 921 | 14 | 
 | 2023-01-11 | 920 | 14 | 
 | 2023-01-10 | 917 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 845 | 13 | 
 | 2022-12-16 | 844 | 13 | 
 | 2022-12-15 | 843 | 13 | 
-| 2022-12-14 | 838 | 13 | 
 

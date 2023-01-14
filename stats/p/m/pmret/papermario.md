@@ -1,10 +1,10 @@
 # pmret/papermario - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 68
 
-★ Stars: 386
+★ Stars: 388
 
 [Open repository](https://github.com/pmret/papermario)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 388 | 68 | 
 | 2023-01-12 | 386 | 68 | 
 | 2023-01-11 | 385 | 68 | 
 | 2023-01-10 | 384 | 68 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 365 | 67 | 
 | 2022-12-16 | 365 | 67 | 
 | 2022-12-15 | 363 | 67 | 
-| 2022-12-14 | 361 | 67 | 
 

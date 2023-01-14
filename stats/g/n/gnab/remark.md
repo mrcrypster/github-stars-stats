@@ -1,10 +1,10 @@
 # gnab/remark - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 871
 
-★ Stars: 12167
+★ Stars: 12171
 
 [Open repository](https://github.com/gnab/remark)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 12171 | 871 | 
 | 2023-01-12 | 12167 | 871 | 
 | 2023-01-11 | 12164 | 871 | 
 | 2023-01-10 | 12165 | 871 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 12154 | 871 | 
 | 2022-12-16 | 12154 | 871 | 
 | 2022-12-15 | 12154 | 871 | 
-| 2022-12-14 | 12154 | 871 | 
 

@@ -1,6 +1,6 @@
 # teticio/audio-diffusion - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 249 | 24 | 
 | 2023-01-12 | 249 | 24 | 
 | 2023-01-11 | 247 | 24 | 
 | 2023-01-10 | 247 | 24 | 

@@ -1,6 +1,6 @@
 # borti4938/n64adv2_fw - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 17 | 1 | 
 | 2023-01-12 | 17 | 1 | 
 | 2023-01-11 | 17 | 1 | 
 | 2023-01-09 | 17 | 1 | 

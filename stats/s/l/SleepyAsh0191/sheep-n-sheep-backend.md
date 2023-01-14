@@ -1,6 +1,6 @@
 # SleepyAsh0191/sheep-n-sheep-backend - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 54 | 49 | 
 | 2023-01-12 | 54 | 49 | 
 | 2023-01-11 | 54 | 49 | 
 | 2023-01-10 | 54 | 49 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-18 | 54 | 48 | 
 | 2022-12-17 | 54 | 48 | 
 | 2022-12-16 | 54 | 48 | 
-| 2022-12-15 | 54 | 48 | 
 

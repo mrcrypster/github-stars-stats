@@ -1,10 +1,10 @@
 # QNetITQ/WaveFox - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 27
 
-★ Stars: 482
+★ Stars: 488
 
 [Open repository](https://github.com/QNetITQ/WaveFox)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 488 | 27 | 
 | 2023-01-12 | 482 | 27 | 
 | 2023-01-11 | 481 | 27 | 
 | 2023-01-10 | 478 | 27 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 450 | 24 | 
 | 2022-12-16 | 448 | 24 | 
 | 2022-12-15 | 446 | 24 | 
-| 2022-12-14 | 444 | 23 | 
 

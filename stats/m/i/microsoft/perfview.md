@@ -1,10 +1,10 @@
 # microsoft/perfview - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 648
 
-★ Stars: 3419
+★ Stars: 3418
 
 [Open repository](https://github.com/microsoft/perfview)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 3418 | 648 | 
 | 2023-01-12 | 3419 | 648 | 
 | 2023-01-11 | 3418 | 648 | 
 | 2023-01-10 | 3417 | 647 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 3399 | 640 | 
 | 2022-12-16 | 3398 | 639 | 
 | 2022-12-15 | 3397 | 638 | 
-| 2022-12-14 | 3395 | 638 | 
 

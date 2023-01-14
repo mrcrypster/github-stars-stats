@@ -1,10 +1,10 @@
 # nkallen/plasticity - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 143
 
-★ Stars: 2017
+★ Stars: 2018
 
 [Open repository](https://github.com/nkallen/plasticity)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 2018 | 143 | 
 | 2023-01-12 | 2017 | 143 | 
 | 2023-01-11 | 2017 | 143 | 
 | 2023-01-10 | 2016 | 143 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 2006 | 141 | 
 | 2022-12-16 | 2003 | 141 | 
 | 2022-12-15 | 2001 | 140 | 
-| 2022-12-14 | 1999 | 140 | 
 

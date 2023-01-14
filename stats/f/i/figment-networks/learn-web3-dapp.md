@@ -1,10 +1,10 @@
 # figment-networks/learn-web3-dapp - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 403
+☋ Forks: 404
 
-★ Stars: 1086
+★ Stars: 1089
 
 [Open repository](https://github.com/figment-networks/learn-web3-dapp)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 1089 | 404 | 
 | 2023-01-12 | 1086 | 403 | 
 | 2023-01-11 | 1087 | 402 | 
 | 2023-01-10 | 1087 | 402 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 1076 | 394 | 
 | 2022-12-16 | 1076 | 394 | 
 | 2022-12-15 | 1074 | 393 | 
-| 2022-12-14 | 1074 | 393 | 
 

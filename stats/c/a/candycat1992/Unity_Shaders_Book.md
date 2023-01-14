@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 13
 
-☋ Forks: 1482
+☋ Forks: 1483
 
-★ Stars: 4356
+★ Stars: 4359
 
 [Open repository](https://github.com/candycat1992/Unity_Shaders_Book)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-13 | 4356 | 1482 | 
+| 2023-01-13 | 4359 | 1483 | 
 | 2023-01-12 | 4356 | 1482 | 
 | 2023-01-11 | 4354 | 1481 | 
 | 2023-01-10 | 4351 | 1478 | 

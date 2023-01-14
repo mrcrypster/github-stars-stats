@@ -1,10 +1,10 @@
 # R2Northstar/Northstar - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 125
 
-★ Stars: 1549
+★ Stars: 1550
 
 [Open repository](https://github.com/R2Northstar/Northstar)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 1550 | 125 | 
 | 2023-01-12 | 1549 | 125 | 
 | 2023-01-11 | 1550 | 125 | 
 | 2023-01-10 | 1550 | 125 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 1536 | 124 | 
 | 2022-12-16 | 1534 | 124 | 
 | 2022-12-15 | 1534 | 124 | 
-| 2022-12-14 | 1533 | 124 | 
 

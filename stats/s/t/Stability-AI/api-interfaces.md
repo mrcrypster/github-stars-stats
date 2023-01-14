@@ -1,10 +1,10 @@
 # Stability-AI/api-interfaces - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 28
+☋ Forks: 30
 
-★ Stars: 61
+★ Stars: 62
 
 [Open repository](https://github.com/Stability-AI/api-interfaces)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 62 | 30 | 
 | 2023-01-12 | 61 | 28 | 
 | 2023-01-11 | 61 | 27 | 
 | 2023-01-10 | 61 | 26 | 

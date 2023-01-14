@@ -1,10 +1,10 @@
 # mpv-android/mpv-android - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 170
 
-★ Stars: 1149
+★ Stars: 1150
 
 [Open repository](https://github.com/mpv-android/mpv-android)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 1150 | 170 | 
 | 2023-01-12 | 1149 | 170 | 
 | 2023-01-11 | 1149 | 170 | 
 | 2023-01-10 | 1147 | 170 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 1122 | 163 | 
 | 2022-12-16 | 1121 | 163 | 
 | 2022-12-15 | 1120 | 162 | 
-| 2022-12-14 | 1119 | 162 | 
 

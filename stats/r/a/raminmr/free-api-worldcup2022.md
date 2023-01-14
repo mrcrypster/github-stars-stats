@@ -1,10 +1,10 @@
 # raminmr/free-api-worldcup2022 - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 37
 
-★ Stars: 261
+★ Stars: 260
 
 [Open repository](https://github.com/raminmr/free-api-worldcup2022)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 260 | 37 | 
 | 2023-01-12 | 261 | 37 | 
 | 2023-01-11 | 261 | 37 | 
 | 2023-01-10 | 261 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 255 | 36 | 
 | 2022-12-16 | 256 | 36 | 
 | 2022-12-15 | 254 | 36 | 
-| 2022-12-14 | 255 | 36 | 
 

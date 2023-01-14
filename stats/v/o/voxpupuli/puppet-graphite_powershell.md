@@ -1,6 +1,6 @@
 # voxpupuli/puppet-graphite_powershell - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 2 | 7 | 
 | 2023-01-12 | 2 | 7 | 
 | 2023-01-11 | 2 | 7 | 
 | 2023-01-10 | 2 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 2 | 7 | 
 | 2022-12-16 | 2 | 7 | 
 | 2022-12-15 | 2 | 7 | 
-| 2022-12-14 | 2 | 7 | 
 

@@ -1,10 +1,10 @@
 # JuliaLogging/LoggingExtras.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 15
 
-★ Stars: 115
+★ Stars: 116
 
 [Open repository](https://github.com/JuliaLogging/LoggingExtras.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 116 | 15 | 
 | 2023-01-12 | 115 | 15 | 
 | 2023-01-11 | 115 | 15 | 
 | 2023-01-10 | 115 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 113 | 15 | 
 | 2022-12-16 | 113 | 15 | 
 | 2022-12-15 | 113 | 15 | 
-| 2022-12-14 | 113 | 15 | 
 

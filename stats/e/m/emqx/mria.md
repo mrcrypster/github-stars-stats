@@ -1,6 +1,6 @@
 # emqx/mria - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 61 | 12 | 
 | 2023-01-12 | 61 | 12 | 
 | 2023-01-11 | 61 | 13 | 
 | 2023-01-10 | 61 | 13 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 59 | 13 | 
 | 2022-12-16 | 59 | 13 | 
 | 2022-12-15 | 59 | 13 | 
-| 2022-12-14 | 59 | 13 | 
 

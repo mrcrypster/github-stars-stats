@@ -1,10 +1,10 @@
 # editso/fuso - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 149
 
-★ Stars: 1307
+★ Stars: 1308
 
 [Open repository](https://github.com/editso/fuso)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 1308 | 149 | 
 | 2023-01-12 | 1307 | 149 | 
 | 2023-01-11 | 1306 | 149 | 
 | 2023-01-10 | 1306 | 149 | 

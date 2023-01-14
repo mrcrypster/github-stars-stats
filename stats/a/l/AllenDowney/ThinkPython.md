@@ -1,6 +1,6 @@
 # AllenDowney/ThinkPython - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 633
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 890 | 633 | 
 | 2023-01-12 | 890 | 633 | 
 | 2023-01-11 | 888 | 633 | 
 | 2023-01-10 | 887 | 633 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 882 | 631 | 
 | 2022-12-16 | 882 | 631 | 
 | 2022-12-15 | 881 | 631 | 
-| 2022-12-14 | 881 | 631 | 
 

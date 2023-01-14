@@ -1,10 +1,10 @@
 # deezer/spleeter - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 2345
+☋ Forks: 2346
 
-★ Stars: 21306
+★ Stars: 21371
 
 [Open repository](https://github.com/deezer/spleeter)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 21371 | 2346 | 
 | 2023-01-12 | 21306 | 2345 | 
 | 2023-01-11 | 21285 | 2344 | 
 | 2023-01-10 | 21269 | 2342 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 21043 | 2329 | 
 | 2022-12-16 | 21033 | 2328 | 
 | 2022-12-15 | 21021 | 2326 | 
-| 2022-12-14 | 21011 | 2325 | 
 

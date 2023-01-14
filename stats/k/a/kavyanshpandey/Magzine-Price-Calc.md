@@ -1,8 +1,8 @@
 # kavyanshpandey/Magzine-Price-Calc - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 53
+☋ Forks: 52
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 5 | 52 | 
 | 2023-01-12 | 5 | 53 | 
 | 2023-01-11 | 5 | 53 | 
 | 2023-01-10 | 5 | 53 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 5 | 53 | 
 | 2022-12-16 | 5 | 53 | 
 | 2022-12-15 | 5 | 53 | 
-| 2022-12-14 | 5 | 53 | 
 

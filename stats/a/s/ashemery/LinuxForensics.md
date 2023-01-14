@@ -1,6 +1,6 @@
 # ashemery/LinuxForensics - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 78
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 551 | 78 | 
 | 2023-01-12 | 551 | 78 | 
 | 2023-01-11 | 550 | 78 | 
 | 2023-01-10 | 548 | 78 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 475 | 69 | 
 | 2022-12-16 | 473 | 69 | 
 | 2022-12-15 | 473 | 68 | 
-| 2022-12-14 | 473 | 68 | 
 

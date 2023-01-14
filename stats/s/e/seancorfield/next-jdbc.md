@@ -1,6 +1,6 @@
 # seancorfield/next-jdbc - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 82
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 633 | 82 | 
 | 2023-01-12 | 633 | 82 | 
 | 2023-01-11 | 631 | 82 | 
 | 2023-01-10 | 630 | 81 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 623 | 82 | 
 | 2022-12-16 | 623 | 82 | 
 | 2022-12-15 | 623 | 82 | 
-| 2022-12-14 | 623 | 82 | 
 

@@ -1,10 +1,10 @@
 # omxmo/qg - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 40
 
-★ Stars: 258
+★ Stars: 259
 
 [Open repository](https://github.com/omxmo/qg)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 259 | 40 | 
 | 2023-01-12 | 258 | 40 | 
 | 2023-01-11 | 257 | 40 | 
 | 2023-01-10 | 256 | 40 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 245 | 39 | 
 | 2022-12-16 | 245 | 39 | 
 | 2022-12-15 | 245 | 39 | 
-| 2022-12-14 | 245 | 39 | 
 

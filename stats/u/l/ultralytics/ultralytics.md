@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 13
 
-☋ Forks: 157
+☋ Forks: 217
 
-★ Stars: 1495
+★ Stars: 1961
 
 [Open repository](https://github.com/ultralytics/ultralytics)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-13 | 1495 | 157 | 
+| 2023-01-13 | 1961 | 217 | 
 | 2023-01-12 | 1437 | 154 | 
 

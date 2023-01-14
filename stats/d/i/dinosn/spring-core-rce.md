@@ -1,6 +1,6 @@
 # dinosn/spring-core-rce - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 60 | 30 | 
 | 2023-01-13 | 60 | 30 | 
 | 2023-01-12 | 60 | 30 | 
 | 2023-01-10 | 60 | 30 | 

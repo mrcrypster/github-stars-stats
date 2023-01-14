@@ -1,8 +1,8 @@
 # LindaEng/swe2.0-workshop-sample-code - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 16
+☋ Forks: 17
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | - | 17 | 
 | 2023-01-12 | - | 16 | 
 | 2023-01-11 | - | 16 | 
 | 2023-01-10 | - | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-18 | - | 15 | 
 | 2022-12-17 | - | 15 | 
 | 2022-12-16 | - | 12 | 
-| 2022-12-15 | - | 12 | 
 

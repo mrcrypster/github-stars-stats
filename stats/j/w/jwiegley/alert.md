@@ -1,6 +1,6 @@
 # jwiegley/alert - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 415 | 63 | 
 | 2023-01-12 | 415 | 63 | 
 | 2023-01-11 | 415 | 63 | 
 | 2023-01-10 | 415 | 63 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 414 | 61 | 
 | 2022-12-16 | 414 | 61 | 
 | 2022-12-15 | 414 | 61 | 
-| 2022-12-14 | 414 | 61 | 
 

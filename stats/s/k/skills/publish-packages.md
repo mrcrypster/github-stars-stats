@@ -1,8 +1,8 @@
 # skills/publish-packages - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 17
+☋ Forks: 18
 
 ★ Stars: 106
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 106 | 18 | 
 | 2023-01-12 | 106 | 17 | 
 | 2023-01-11 | 106 | 17 | 
 | 2023-01-10 | 106 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 102 | 16 | 
 | 2022-12-16 | 103 | 16 | 
 | 2022-12-15 | 103 | 16 | 
-| 2022-12-14 | 103 | 16 | 
 

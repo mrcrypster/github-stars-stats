@@ -1,6 +1,6 @@
 # yinwang0/tinyKanren - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 48 | 22 | 
 | 2023-01-12 | 48 | 22 | 
 | 2023-01-11 | 48 | 22 | 
 | 2023-01-10 | 48 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 48 | 22 | 
 | 2022-12-16 | 48 | 22 | 
 | 2022-12-15 | 48 | 22 | 
-| 2022-12-14 | 48 | 22 | 
 

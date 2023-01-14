@@ -1,10 +1,10 @@
 # MiaPepsi/DeckCleaner - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 4
 
-★ Stars: 101
+★ Stars: 102
 
 [Open repository](https://github.com/MiaPepsi/DeckCleaner)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 102 | 4 | 
 | 2023-01-12 | 101 | 4 | 
 | 2023-01-11 | 100 | 4 | 
 | 2023-01-10 | 99 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 84 | 4 | 
 | 2022-12-16 | 83 | 4 | 
 | 2022-12-15 | 82 | 4 | 
-| 2022-12-14 | 82 | 4 | 
 

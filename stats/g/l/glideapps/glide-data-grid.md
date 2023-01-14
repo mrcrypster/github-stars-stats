@@ -1,10 +1,10 @@
 # glideapps/glide-data-grid - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 171
 
-★ Stars: 2384
+★ Stars: 2382
 
 [Open repository](https://github.com/glideapps/glide-data-grid)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 2382 | 171 | 
 | 2023-01-12 | 2384 | 171 | 
 | 2023-01-11 | 2381 | 171 | 
 | 2023-01-10 | 2378 | 171 | 

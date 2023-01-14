@@ -1,10 +1,10 @@
 # n8n-io/n8n - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 3237
+☋ Forks: 3240
 
-★ Stars: 27513
+★ Stars: 27569
 
 [Open repository](https://github.com/n8n-io/n8n)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 27569 | 3240 | 
 | 2023-01-12 | 27513 | 3237 | 
 | 2023-01-10 | 27490 | 3237 | 
 | 2023-01-09 | 27470 | 3234 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 27032 | 3178 | 
 | 2022-12-16 | 27028 | 3178 | 
 | 2022-12-15 | 26987 | 3174 | 
-| 2022-12-14 | 26973 | 3172 | 
 

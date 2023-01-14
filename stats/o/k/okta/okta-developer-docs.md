@@ -1,6 +1,6 @@
 # okta/okta-developer-docs - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 484
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 99 | 484 | 
 | 2023-01-12 | 99 | 484 | 
 | 2023-01-11 | 99 | 484 | 
 | 2023-01-10 | 99 | 484 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 97 | 476 | 
 | 2022-12-16 | 97 | 476 | 
 | 2022-12-15 | 97 | 473 | 
-| 2022-12-14 | 98 | 471 | 
 

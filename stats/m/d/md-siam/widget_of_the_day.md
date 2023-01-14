@@ -1,10 +1,10 @@
 # md-siam/widget_of_the_day - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 14
 
-☋ Forks: 83
+☋ Forks: 84
 
-★ Stars: 372
+★ Stars: 379
 
 [Open repository](https://github.com/md-siam/widget_of_the_day)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 379 | 84 | 
 | 2023-01-12 | 372 | 83 | 
 | 2023-01-11 | 365 | 79 | 
 | 2023-01-10 | 365 | 79 | 

@@ -1,6 +1,6 @@
 # bstabler/TransportationNetworks - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 385
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 543 | 385 | 
 | 2023-01-12 | 543 | 385 | 
 | 2023-01-11 | 542 | 385 | 
 | 2023-01-10 | 542 | 385 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 533 | 384 | 
 | 2022-12-16 | 532 | 384 | 
 | 2022-12-15 | 532 | 384 | 
-| 2022-12-14 | 532 | 384 | 
 

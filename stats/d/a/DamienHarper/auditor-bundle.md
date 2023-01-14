@@ -1,10 +1,10 @@
 # DamienHarper/auditor-bundle - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 100
 
-★ Stars: 316
+★ Stars: 317
 
 [Open repository](https://github.com/DamienHarper/auditor-bundle)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 317 | 100 | 
 | 2023-01-12 | 316 | 100 | 
 | 2023-01-11 | 316 | 100 | 
 | 2023-01-10 | 316 | 100 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 314 | 98 | 
 | 2022-12-16 | 314 | 98 | 
 | 2022-12-15 | 314 | 98 | 
-| 2022-12-14 | 314 | 98 | 
 

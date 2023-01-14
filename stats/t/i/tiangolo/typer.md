@@ -1,10 +1,10 @@
 # tiangolo/typer - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 405
 
-★ Stars: 10186
+★ Stars: 10198
 
 [Open repository](https://github.com/tiangolo/typer)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 10198 | 405 | 
 | 2023-01-12 | 10186 | 405 | 
 | 2023-01-11 | 10172 | 404 | 
 | 2023-01-10 | 10164 | 404 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 9985 | 399 | 
 | 2022-12-16 | 9979 | 399 | 
 | 2022-12-15 | 9971 | 397 | 
-| 2022-12-14 | 9958 | 396 | 
 

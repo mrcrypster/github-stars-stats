@@ -1,10 +1,10 @@
 # rod-trent/MustLearnKQL - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 115
 
-★ Stars: 579
+★ Stars: 581
 
 [Open repository](https://github.com/rod-trent/MustLearnKQL)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 581 | 115 | 
 | 2023-01-12 | 579 | 115 | 
 | 2023-01-11 | 577 | 114 | 
 | 2023-01-10 | 574 | 114 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 546 | 109 | 
 | 2022-12-16 | 543 | 109 | 
 | 2022-12-15 | 541 | 108 | 
-| 2022-12-14 | 540 | 108 | 
 

@@ -1,6 +1,6 @@
 # mgsweet/Apex-NoRecoil-2021 - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 122
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 338 | 122 | 
 | 2023-01-12 | 338 | 122 | 
 | 2023-01-11 | 337 | 122 | 
 | 2023-01-10 | 334 | 122 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 320 | 120 | 
 | 2022-12-16 | 320 | 120 | 
 | 2022-12-15 | 320 | 120 | 
-| 2022-12-14 | 320 | 121 | 
 

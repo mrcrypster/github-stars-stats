@@ -1,10 +1,10 @@
 # GoergPflug/AttinyStreamGfxApi - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 5
 
-★ Stars: 121
+★ Stars: 122
 
 [Open repository](https://github.com/GoergPflug/AttinyStreamGfxApi)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 122 | 5 | 
 | 2023-01-12 | 121 | 5 | 
 | 2023-01-11 | 121 | 5 | 
 | 2023-01-10 | 121 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 119 | 4 | 
 | 2022-12-16 | 119 | 4 | 
 | 2022-12-15 | 119 | 4 | 
-| 2022-12-14 | 119 | 4 | 
 

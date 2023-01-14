@@ -1,10 +1,10 @@
 # GhostPack/Seatbelt - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 534
+☋ Forks: 535
 
-★ Stars: 2669
+★ Stars: 2672
 
 [Open repository](https://github.com/GhostPack/Seatbelt)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 2672 | 535 | 
 | 2023-01-12 | 2669 | 534 | 
 | 2023-01-11 | 2669 | 533 | 
 | 2023-01-10 | 2667 | 533 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 2638 | 530 | 
 | 2022-12-16 | 2637 | 530 | 
 | 2022-12-15 | 2635 | 530 | 
-| 2022-12-14 | 2635 | 530 | 
 

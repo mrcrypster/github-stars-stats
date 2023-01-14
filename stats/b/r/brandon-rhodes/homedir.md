@@ -1,10 +1,10 @@
 # brandon-rhodes/homedir - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 21
 
-★ Stars: 198
+★ Stars: 199
 
 [Open repository](https://github.com/brandon-rhodes/homedir)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 199 | 21 | 
 | 2023-01-12 | 198 | 21 | 
 | 2023-01-11 | 198 | 21 | 
 | 2023-01-10 | 198 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 197 | 21 | 
 | 2022-12-16 | 197 | 21 | 
 | 2022-12-15 | 197 | 21 | 
-| 2022-12-14 | 197 | 21 | 
 

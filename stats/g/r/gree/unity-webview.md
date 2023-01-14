@@ -1,6 +1,6 @@
 # gree/unity-webview - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 632
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 1906 | 632 | 
 | 2023-01-12 | 1906 | 632 | 
 | 2023-01-11 | 1905 | 632 | 
 | 2023-01-10 | 1903 | 632 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 1890 | 629 | 
 | 2022-12-16 | 1890 | 629 | 
 | 2022-12-15 | 1889 | 629 | 
-| 2022-12-14 | 1889 | 628 | 
 

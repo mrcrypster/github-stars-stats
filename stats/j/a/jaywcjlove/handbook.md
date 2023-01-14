@@ -1,10 +1,10 @@
 # jaywcjlove/handbook - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 1042
 
-★ Stars: 4000
+★ Stars: 4001
 
 [Open repository](https://github.com/jaywcjlove/handbook)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 4001 | 1042 | 
 | 2023-01-12 | 4000 | 1042 | 
 | 2023-01-11 | 3997 | 1042 | 
 | 2023-01-10 | 3995 | 1042 | 

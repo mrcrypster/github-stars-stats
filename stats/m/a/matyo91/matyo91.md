@@ -1,8 +1,8 @@
 # matyo91/matyo91 - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 246
+☋ Forks: 244
 
 ★ Stars: 67
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 67 | 244 | 
 | 2023-01-12 | 67 | 246 | 
 | 2023-01-11 | 67 | 247 | 
 | 2023-01-10 | 67 | 246 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 67 | 235 | 
 | 2022-12-16 | 67 | 235 | 
 | 2022-12-15 | 67 | 234 | 
-| 2022-12-14 | 67 | 234 | 
 

@@ -1,10 +1,10 @@
 # Planetable/Planet - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 42
 
-★ Stars: 989
+★ Stars: 990
 
 [Open repository](https://github.com/Planetable/Planet)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 990 | 42 | 
 | 2023-01-12 | 989 | 42 | 
 | 2023-01-11 | 988 | 42 | 
 | 2023-01-10 | 988 | 42 | 

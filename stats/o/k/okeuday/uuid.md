@@ -1,6 +1,6 @@
 # okeuday/uuid - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 205 | 68 | 
 | 2023-01-12 | 205 | 68 | 
 | 2023-01-11 | 205 | 68 | 
 | 2023-01-10 | 205 | 68 | 

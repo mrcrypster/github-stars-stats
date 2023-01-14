@@ -1,10 +1,10 @@
 # archibaldmilton/Girellu - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 173
+☋ Forks: 174
 
-★ Stars: 250
+★ Stars: 252
 
 [Open repository](https://github.com/archibaldmilton/Girellu)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 252 | 174 | 
 | 2023-01-12 | 250 | 173 | 
 | 2023-01-11 | 250 | 173 | 
 | 2023-01-10 | 248 | 174 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 238 | 171 | 
 | 2022-12-16 | 238 | 171 | 
 | 2022-12-15 | 238 | 171 | 
-| 2022-12-14 | 237 | 171 | 
 

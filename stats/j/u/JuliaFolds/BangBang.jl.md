@@ -1,6 +1,6 @@
 # JuliaFolds/BangBang.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 95 | 11 | 
 | 2023-01-12 | 95 | 11 | 
 | 2023-01-11 | 95 | 11 | 
 | 2023-01-10 | 95 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-18 | 95 | 11 | 
 | 2022-12-17 | 95 | 11 | 
 | 2022-12-16 | 95 | 11 | 
-| 2022-12-15 | 95 | 11 | 
 

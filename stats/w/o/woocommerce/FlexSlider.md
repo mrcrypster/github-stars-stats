@@ -1,6 +1,6 @@
 # woocommerce/FlexSlider - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 1761
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 4941 | 1761 | 
 | 2023-01-12 | 4941 | 1761 | 
 | 2023-01-11 | 4941 | 1761 | 
 | 2023-01-10 | 4941 | 1761 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 4940 | 1761 | 
 | 2022-12-16 | 4940 | 1761 | 
 | 2022-12-15 | 4940 | 1761 | 
-| 2022-12-14 | 4939 | 1761 | 
 

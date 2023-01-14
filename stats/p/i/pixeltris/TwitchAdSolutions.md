@@ -1,10 +1,10 @@
 # pixeltris/TwitchAdSolutions - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 305
 
-★ Stars: 3939
+★ Stars: 3943
 
 [Open repository](https://github.com/pixeltris/TwitchAdSolutions)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 3943 | 305 | 
 | 2023-01-12 | 3939 | 305 | 
 | 2023-01-11 | 3937 | 305 | 
 | 2023-01-10 | 3935 | 305 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 3845 | 298 | 
 | 2022-12-16 | 3841 | 299 | 
 | 2022-12-15 | 3829 | 299 | 
-| 2022-12-14 | 3815 | 298 | 
 

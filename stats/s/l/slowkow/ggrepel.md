@@ -1,6 +1,6 @@
 # slowkow/ggrepel - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 89
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 1059 | 89 | 
 | 2023-01-12 | 1059 | 89 | 
 | 2023-01-11 | 1059 | 89 | 
 | 2023-01-10 | 1059 | 89 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 1053 | 89 | 
 | 2022-12-16 | 1053 | 89 | 
 | 2022-12-15 | 1053 | 89 | 
-| 2022-12-14 | 1053 | 89 | 
 

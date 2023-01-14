@@ -1,6 +1,6 @@
 # BalintCsala/VanillaPuddingTart - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 133 | 1 | 
 | 2023-01-12 | 133 | 1 | 
 | 2023-01-11 | 133 | 1 | 
 | 2023-01-10 | 133 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 132 | 1 | 
 | 2022-12-16 | 132 | 1 | 
 | 2022-12-15 | 132 | 1 | 
-| 2022-12-14 | 132 | 1 | 
 

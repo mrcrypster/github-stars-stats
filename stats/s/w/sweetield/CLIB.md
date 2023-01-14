@@ -1,6 +1,6 @@
 # sweetield/CLIB - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | - | 23 | 
 | 2023-01-12 | - | 23 | 
 | 2023-01-11 | - | 23 | 
 | 2023-01-10 | - | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | - | 19 | 
 | 2022-12-16 | - | 19 | 
 | 2022-12-15 | - | 19 | 
-| 2022-12-14 | - | 19 | 
 

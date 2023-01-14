@@ -1,10 +1,10 @@
 # max-sixty/aoc-gpt - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 26
 
-★ Stars: 428
+★ Stars: 429
 
 [Open repository](https://github.com/max-sixty/aoc-gpt)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 429 | 26 | 
 | 2023-01-12 | 428 | 26 | 
 | 2023-01-11 | 428 | 26 | 
 | 2023-01-10 | 428 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 423 | 25 | 
 | 2022-12-16 | 421 | 25 | 
 | 2022-12-15 | 421 | 25 | 
-| 2022-12-14 | 419 | 25 | 
 

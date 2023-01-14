@@ -1,6 +1,6 @@
 # chundermike/rpi-fruitbox-v2 - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 45 | - | 
 | 2023-01-12 | 45 | - | 
 | 2023-01-11 | 44 | - | 
 | 2023-01-10 | 44 | - | 

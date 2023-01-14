@@ -1,10 +1,10 @@
 # helium/miner - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 261
 
-★ Stars: 591
+★ Stars: 592
 
 [Open repository](https://github.com/helium/miner)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 592 | 261 | 
 | 2023-01-12 | 591 | 261 | 
 | 2023-01-11 | 591 | 261 | 
 | 2023-01-10 | 591 | 261 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-18 | 590 | 260 | 
 | 2022-12-17 | 590 | 260 | 
 | 2022-12-16 | 590 | 260 | 
-| 2022-12-15 | 590 | 259 | 
 

@@ -1,10 +1,10 @@
 # LinkedInLearning/terraform-azure-2453108 - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 43
+☋ Forks: 44
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/LinkedInLearning/terraform-azure-2453108)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 26 | 44 | 
 | 2023-01-13 | 25 | 43 | 
 | 2023-01-11 | 25 | 41 | 
 | 2023-01-10 | 25 | 41 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-17 | 24 | 35 | 
 | 2022-12-16 | 24 | 35 | 
 | 2022-12-15 | 24 | 34 | 
-| 2022-12-14 | 24 | 34 | 
 

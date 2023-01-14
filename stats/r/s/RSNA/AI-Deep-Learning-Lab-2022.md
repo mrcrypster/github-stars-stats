@@ -1,6 +1,6 @@
 # RSNA/AI-Deep-Learning-Lab-2022 - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 47 | 21 | 
 | 2023-01-12 | 47 | 21 | 
 | 2023-01-11 | 46 | 21 | 
 | 2023-01-10 | 46 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 43 | 21 | 
 | 2022-12-16 | 43 | 21 | 
 | 2022-12-15 | 42 | 21 | 
-| 2022-12-14 | 42 | 21 | 
 

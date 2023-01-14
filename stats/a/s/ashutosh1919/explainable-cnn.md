@@ -1,6 +1,6 @@
 # ashutosh1919/explainable-cnn - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 183 | 23 | 
 | 2023-01-12 | 183 | 23 | 
 | 2023-01-11 | 183 | 24 | 
 | 2023-01-10 | 183 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 183 | 24 | 
 | 2022-12-16 | 183 | 24 | 
 | 2022-12-15 | 183 | 24 | 
-| 2022-12-14 | 183 | 24 | 
 

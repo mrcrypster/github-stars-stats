@@ -1,6 +1,6 @@
 # IIC2413/Syllabus-2022-2 - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 108 | 37 | 
 | 2023-01-12 | 108 | 37 | 
 | 2023-01-11 | 108 | 37 | 
 | 2023-01-10 | 109 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 108 | 37 | 
 | 2022-12-16 | 108 | 37 | 
 | 2022-12-15 | 107 | 37 | 
-| 2022-12-14 | 107 | 37 | 
 

@@ -1,6 +1,6 @@
 # CapitaineJSparrow/emusak-ui - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 136
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 996 | 136 | 
 | 2023-01-12 | 996 | 136 | 
 | 2023-01-11 | 995 | 136 | 
 | 2023-01-10 | 997 | 136 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 988 | 123 | 
 | 2022-12-16 | 986 | 123 | 
 | 2022-12-15 | 985 | 121 | 
-| 2022-12-14 | 985 | 121 | 
 

@@ -1,10 +1,10 @@
 # commercetools/commercetools-docs-kit - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 5
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/commercetools/commercetools-docs-kit)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 15 | 5 | 
 | 2023-01-12 | 14 | 5 | 
 | 2023-01-11 | 14 | 5 | 
 | 2023-01-10 | 14 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 14 | 4 | 
 | 2022-12-16 | 14 | 4 | 
 | 2022-12-15 | 14 | 4 | 
-| 2022-12-14 | 15 | 4 | 
 

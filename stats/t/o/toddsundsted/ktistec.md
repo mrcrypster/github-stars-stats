@@ -1,10 +1,10 @@
 # toddsundsted/ktistec - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 15
 
-★ Stars: 250
+★ Stars: 251
 
 [Open repository](https://github.com/toddsundsted/ktistec)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 251 | 15 | 
 | 2023-01-12 | 250 | 15 | 
 | 2023-01-11 | 250 | 15 | 
 | 2023-01-10 | 249 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 226 | 15 | 
 | 2022-12-16 | 225 | 15 | 
 | 2022-12-15 | 224 | 15 | 
-| 2022-12-14 | 224 | 14 | 
 

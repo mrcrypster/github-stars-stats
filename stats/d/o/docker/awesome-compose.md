@@ -1,10 +1,10 @@
 # docker/awesome-compose - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 3481
+☋ Forks: 3490
 
-★ Stars: 20567
+★ Stars: 20588
 
 [Open repository](https://github.com/docker/awesome-compose)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 20588 | 3490 | 
 | 2023-01-12 | 20567 | 3481 | 
 | 2023-01-11 | 20553 | 3475 | 
 | 2023-01-10 | 20529 | 3467 | 

@@ -1,10 +1,10 @@
 # mescroll/mescroll - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 894
 
-★ Stars: 4079
+★ Stars: 4080
 
 [Open repository](https://github.com/mescroll/mescroll)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 4080 | 894 | 
 | 2023-01-12 | 4079 | 894 | 
 | 2023-01-11 | 4079 | 894 | 
 | 2023-01-10 | 4079 | 894 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 4069 | 894 | 
 | 2022-12-16 | 4069 | 894 | 
 | 2022-12-15 | 4068 | 894 | 
-| 2022-12-14 | 4068 | 894 | 
 

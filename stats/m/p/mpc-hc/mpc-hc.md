@@ -1,10 +1,10 @@
 # mpc-hc/mpc-hc - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 1711
+☋ Forks: 1715
 
-★ Stars: 3969
+★ Stars: 3971
 
 [Open repository](https://github.com/mpc-hc/mpc-hc)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 3971 | 1715 | 
 | 2023-01-12 | 3969 | 1711 | 
 | 2023-01-11 | 3966 | 1711 | 
 | 2023-01-10 | 3967 | 1710 | 

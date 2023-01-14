@@ -1,10 +1,10 @@
 # lukes/ISO-3166-Countries-with-Regional-Codes - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 3189
+☋ Forks: 3193
 
-★ Stars: 1813
+★ Stars: 1814
 
 [Open repository](https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 1814 | 3193 | 
 | 2023-01-12 | 1813 | 3189 | 
 | 2023-01-11 | 1812 | 3190 | 
 | 2023-01-10 | 1811 | 3188 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 1792 | 3166 | 
 | 2022-12-16 | 1791 | 3167 | 
 | 2022-12-15 | 1791 | 3164 | 
-| 2022-12-14 | 1791 | 3162 | 
 

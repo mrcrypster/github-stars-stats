@@ -1,10 +1,10 @@
 # BluePointLilac/ContextMenuManager - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 379
+☋ Forks: 381
 
-★ Stars: 6375
+★ Stars: 6384
 
 [Open repository](https://github.com/BluePointLilac/ContextMenuManager)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 6384 | 381 | 
 | 2023-01-12 | 6375 | 379 | 
 | 2023-01-11 | 6371 | 377 | 
 | 2023-01-10 | 6356 | 376 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 6202 | 370 | 
 | 2022-12-16 | 6198 | 370 | 
 | 2022-12-15 | 6195 | 370 | 
-| 2022-12-14 | 6188 | 369 | 
 

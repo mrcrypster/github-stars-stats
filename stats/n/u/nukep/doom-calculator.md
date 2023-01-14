@@ -1,10 +1,10 @@
 # nukep/doom-calculator - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 2
 
-★ Stars: 44
+★ Stars: 45
 
 [Open repository](https://github.com/nukep/doom-calculator)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 45 | 2 | 
 | 2023-01-12 | 44 | 2 | 
 | 2023-01-11 | 42 | 2 | 
 | 2023-01-10 | 41 | 2 | 

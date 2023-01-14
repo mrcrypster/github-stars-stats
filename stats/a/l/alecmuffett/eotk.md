@@ -1,10 +1,10 @@
 # alecmuffett/eotk - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 93
 
-★ Stars: 716
+★ Stars: 717
 
 [Open repository](https://github.com/alecmuffett/eotk)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 717 | 93 | 
 | 2023-01-12 | 716 | 93 | 
 | 2023-01-11 | 716 | 93 | 
 | 2023-01-10 | 716 | 93 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 711 | 93 | 
 | 2022-12-16 | 711 | 93 | 
 | 2022-12-15 | 711 | 92 | 
-| 2022-12-14 | 711 | 92 | 
 

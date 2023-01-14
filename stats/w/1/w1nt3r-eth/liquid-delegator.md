@@ -1,8 +1,8 @@
 # w1nt3r-eth/liquid-delegator - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 0
+☋ Forks: 1
 
 ★ Stars: 24
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 24 | 1 | 
 | 2023-01-12 | 24 | - | 
 | 2023-01-11 | 23 | - | 
 | 2023-01-09 | 19 | - | 

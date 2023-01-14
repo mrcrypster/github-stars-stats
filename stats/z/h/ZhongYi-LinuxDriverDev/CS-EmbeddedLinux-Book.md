@@ -1,6 +1,6 @@
 # ZhongYi-LinuxDriverDev/CS-EmbeddedLinux-Book - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 203
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 931 | 203 | 
 | 2023-01-12 | 931 | 203 | 
 | 2023-01-11 | 931 | 203 | 
 | 2023-01-10 | 931 | 203 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 935 | 202 | 
 | 2022-12-16 | 935 | 202 | 
 | 2022-12-15 | 935 | 202 | 
-| 2022-12-14 | 935 | 202 | 
 

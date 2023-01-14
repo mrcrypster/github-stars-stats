@@ -1,6 +1,6 @@
 # lukechilds/dockerpi - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 136
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 1481 | 136 | 
 | 2023-01-12 | 1481 | 136 | 
 | 2023-01-11 | 1480 | 135 | 
 | 2023-01-09 | 1480 | 135 | 

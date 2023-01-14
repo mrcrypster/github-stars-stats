@@ -1,8 +1,8 @@
 # szvone/vmqphp - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 530
+☋ Forks: 531
 
 ★ Stars: 1117
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 1117 | 531 | 
 | 2023-01-12 | 1117 | 530 | 
 | 2023-01-11 | 1116 | 529 | 
 | 2023-01-10 | 1113 | 528 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 1091 | 523 | 
 | 2022-12-16 | 1091 | 523 | 
 | 2022-12-15 | 1090 | 523 | 
-| 2022-12-14 | 1089 | 523 | 
 

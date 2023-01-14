@@ -1,8 +1,8 @@
 # guoyingtao/Mantis - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 100
+☋ Forks: 101
 
 ★ Stars: 547
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 547 | 101 | 
 | 2023-01-12 | 547 | 100 | 
 | 2023-01-11 | 546 | 100 | 
 | 2023-01-10 | 545 | 100 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 536 | 96 | 
 | 2022-12-16 | 536 | 96 | 
 | 2022-12-15 | 536 | 96 | 
-| 2022-12-14 | 536 | 96 | 
 

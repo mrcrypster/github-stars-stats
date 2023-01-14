@@ -1,6 +1,6 @@
 # nettitude/SharpWSUS - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 351 | 54 | 
 | 2023-01-12 | 351 | 54 | 
 | 2023-01-11 | 351 | 54 | 
 | 2023-01-10 | 351 | 54 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 346 | 51 | 
 | 2022-12-16 | 346 | 51 | 
 | 2022-12-15 | 345 | 51 | 
-| 2022-12-14 | 344 | 51 | 
 

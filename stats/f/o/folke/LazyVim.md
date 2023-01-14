@@ -1,10 +1,10 @@
 # folke/LazyVim - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 32
+☋ Forks: 35
 
-★ Stars: 392
+★ Stars: 410
 
 [Open repository](https://github.com/folke/LazyVim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 410 | 35 | 
 | 2023-01-12 | 392 | 32 | 
 | 2023-01-11 | 368 | 28 | 
 | 2023-01-10 | 318 | 26 | 

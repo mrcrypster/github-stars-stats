@@ -1,10 +1,10 @@
 # bazelbuild/rules_docker - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 669
 
-★ Stars: 1004
+★ Stars: 1003
 
 [Open repository](https://github.com/bazelbuild/rules_docker)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 1003 | 669 | 
 | 2023-01-12 | 1004 | 669 | 
 | 2023-01-11 | 1004 | 669 | 
 | 2023-01-10 | 1003 | 669 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 993 | 664 | 
 | 2022-12-16 | 993 | 664 | 
 | 2022-12-15 | 993 | 663 | 
-| 2022-12-14 | 993 | 663 | 
 

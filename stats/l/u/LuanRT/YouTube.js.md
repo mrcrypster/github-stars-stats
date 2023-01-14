@@ -1,6 +1,6 @@
 # LuanRT/YouTube.js - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 129
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 2450 | 129 | 
 | 2023-01-12 | 2450 | 129 | 
 | 2023-01-11 | 2450 | 129 | 
 | 2023-01-10 | 2448 | 129 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 2433 | 127 | 
 | 2022-12-16 | 2433 | 126 | 
 | 2022-12-15 | 2432 | 125 | 
-| 2022-12-14 | 2430 | 125 | 
 

@@ -1,6 +1,6 @@
 # systems-cs-pub-ro/iocla - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 107
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 9 | 107 | 
 | 2023-01-12 | 9 | 107 | 
 | 2023-01-11 | 9 | 107 | 
 | 2023-01-10 | 9 | 107 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 9 | 107 | 
 | 2022-12-16 | 9 | 107 | 
 | 2022-12-15 | 9 | 107 | 
-| 2022-12-14 | 9 | 107 | 
 

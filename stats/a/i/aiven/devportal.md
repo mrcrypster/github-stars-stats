@@ -1,8 +1,8 @@
 # aiven/devportal - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 45
+☋ Forks: 47
 
 ★ Stars: 41
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 41 | 47 | 
 | 2023-01-12 | 41 | 45 | 
 | 2023-01-11 | 41 | 45 | 
 | 2023-01-10 | 41 | 45 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 41 | 44 | 
 | 2022-12-16 | 41 | 44 | 
 | 2022-12-15 | 41 | 44 | 
-| 2022-12-14 | 42 | 44 | 
 

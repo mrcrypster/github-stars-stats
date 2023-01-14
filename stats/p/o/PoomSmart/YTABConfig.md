@@ -1,10 +1,10 @@
 # PoomSmart/YTABConfig - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 16
 
-★ Stars: 33
+★ Stars: 34
 
 [Open repository](https://github.com/PoomSmart/YTABConfig)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 34 | 16 | 
 | 2023-01-12 | 33 | 16 | 
 | 2023-01-11 | 33 | 16 | 
 | 2023-01-10 | 33 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 28 | 17 | 
 | 2022-12-16 | 28 | 17 | 
 | 2022-12-15 | 28 | 17 | 
-| 2022-12-14 | 28 | 17 | 
 

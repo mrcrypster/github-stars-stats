@@ -1,10 +1,10 @@
 # Aniket-Engg/solidity-school - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 59
+☋ Forks: 60
 
-★ Stars: 224
+★ Stars: 227
 
 [Open repository](https://github.com/Aniket-Engg/solidity-school)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 227 | 60 | 
 | 2023-01-12 | 224 | 59 | 
 | 2023-01-11 | 224 | 59 | 
 | 2023-01-10 | 224 | 59 | 

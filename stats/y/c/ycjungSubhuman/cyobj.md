@@ -1,10 +1,10 @@
 # ycjungSubhuman/cyobj - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 2
+☋ Forks: 3
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/ycjungSubhuman/cyobj)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 17 | 3 | 
 | 2023-01-12 | 16 | 2 | 
 | 2023-01-11 | 16 | 2 | 
 | 2023-01-10 | 16 | 2 | 

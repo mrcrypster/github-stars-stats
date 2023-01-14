@@ -1,6 +1,6 @@
 # devins2518/zig-dis-aarch64 - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 9 | - | 
 | 2023-01-12 | 9 | - | 
 | 2023-01-11 | 9 | - | 
 | 2023-01-10 | 9 | - | 

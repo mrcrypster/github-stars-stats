@@ -1,10 +1,10 @@
 # prakhar1989/docker-curriculum - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 1984
+☋ Forks: 1985
 
-★ Stars: 4959
+★ Stars: 4958
 
 [Open repository](https://github.com/prakhar1989/docker-curriculum)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 4958 | 1985 | 
 | 2023-01-12 | 4959 | 1984 | 
 | 2023-01-11 | 4958 | 1984 | 
 | 2023-01-10 | 4957 | 1984 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 4930 | 1978 | 
 | 2022-12-16 | 4930 | 1978 | 
 | 2022-12-15 | 4927 | 1977 | 
-| 2022-12-14 | 4924 | 1975 | 
 

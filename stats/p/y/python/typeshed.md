@@ -1,10 +1,10 @@
 # python/typeshed - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 1461
 
-★ Stars: 3351
+★ Stars: 3353
 
 [Open repository](https://github.com/python/typeshed)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 3353 | 1461 | 
 | 2023-01-12 | 3351 | 1461 | 
 | 2023-01-11 | 3349 | 1461 | 
 | 2023-01-10 | 3347 | 1459 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 3308 | 1446 | 
 | 2022-12-16 | 3307 | 1445 | 
 | 2022-12-15 | 3304 | 1446 | 
-| 2022-12-14 | 3304 | 1446 | 
 

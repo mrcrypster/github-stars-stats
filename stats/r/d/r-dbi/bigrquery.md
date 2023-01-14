@@ -1,6 +1,6 @@
 # r-dbi/bigrquery - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 175
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 479 | 175 | 
 | 2023-01-12 | 479 | 175 | 
 | 2023-01-11 | 479 | 175 | 
 | 2023-01-10 | 479 | 175 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 480 | 176 | 
 | 2022-12-16 | 480 | 176 | 
 | 2022-12-15 | 480 | 176 | 
-| 2022-12-14 | 480 | 175 | 
 

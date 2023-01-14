@@ -1,10 +1,10 @@
 # bookwyrm-social/bookwyrm - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 165
 
-★ Stars: 1437
+★ Stars: 1439
 
 [Open repository](https://github.com/bookwyrm-social/bookwyrm)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 1439 | 165 | 
 | 2023-01-12 | 1437 | 165 | 
 | 2023-01-11 | 1432 | 165 | 
 | 2023-01-10 | 1430 | 164 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 1325 | 153 | 
 | 2022-12-16 | 1319 | 153 | 
 | 2022-12-15 | 1318 | 151 | 
-| 2022-12-14 | 1315 | 151 | 
 

@@ -1,10 +1,10 @@
 # buildingSMART/Sample-Test-Files - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 88
 
-★ Stars: 153
+★ Stars: 154
 
 [Open repository](https://github.com/buildingSMART/Sample-Test-Files)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 154 | 88 | 
 | 2023-01-12 | 153 | 88 | 
 | 2023-01-11 | 153 | 87 | 
 | 2023-01-10 | 153 | 87 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 147 | 85 | 
 | 2022-12-16 | 147 | 85 | 
 | 2022-12-15 | 147 | 85 | 
-| 2022-12-14 | 147 | 85 | 
 

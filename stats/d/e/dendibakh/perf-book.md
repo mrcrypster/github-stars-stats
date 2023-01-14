@@ -1,6 +1,6 @@
 # dendibakh/perf-book - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 77
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 1021 | 77 | 
 | 2023-01-12 | 1021 | 77 | 
 | 2023-01-11 | 1021 | 77 | 
 | 2023-01-10 | 1021 | 77 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 994 | 76 | 
 | 2022-12-16 | 993 | 75 | 
 | 2022-12-15 | 991 | 75 | 
-| 2022-12-14 | 992 | 75 | 
 

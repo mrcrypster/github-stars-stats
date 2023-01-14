@@ -1,8 +1,8 @@
 # jkrumbiegel/JuliaCon2022Makie - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 7
+☋ Forks: 6
 
 ★ Stars: 17
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 17 | 6 | 
 | 2023-01-12 | 17 | 7 | 
 | 2023-01-11 | 17 | 7 | 
 | 2023-01-10 | 17 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 17 | 7 | 
 | 2022-12-16 | 17 | 7 | 
 | 2022-12-15 | 16 | 7 | 
-| 2022-12-14 | 16 | 7 | 
 

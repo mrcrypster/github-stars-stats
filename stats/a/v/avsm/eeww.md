@@ -1,10 +1,10 @@
 # avsm/eeww - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 3
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/avsm/eeww)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 21 | 3 | 
 | 2023-01-12 | 20 | 3 | 
 | 2023-01-11 | 20 | 3 | 
 | 2023-01-10 | 20 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 13 | 2 | 
 | 2022-12-16 | 13 | 2 | 
 | 2022-12-15 | 13 | 2 | 
-| 2022-12-14 | 14 | 2 | 
 

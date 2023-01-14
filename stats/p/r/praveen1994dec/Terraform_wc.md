@@ -1,6 +1,6 @@
 # praveen1994dec/Terraform_wc - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 2 | 24 | 
 | 2023-01-12 | 2 | 24 | 
 | 2023-01-11 | 2 | 23 | 
 | 2023-01-10 | 2 | 22 | 

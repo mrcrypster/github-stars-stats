@@ -1,10 +1,10 @@
 # anatolbogun/godot-smoother-node - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 1
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/anatolbogun/godot-smoother-node)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 30 | 1 | 
 | 2023-01-12 | 29 | 1 | 
 | 2023-01-11 | 28 | 1 | 
 | 2023-01-10 | 28 | 1 | 

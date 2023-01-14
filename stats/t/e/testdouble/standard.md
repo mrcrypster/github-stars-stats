@@ -1,10 +1,10 @@
 # testdouble/standard - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 167
 
-★ Stars: 2104
+★ Stars: 2105
 
 [Open repository](https://github.com/testdouble/standard)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 2105 | 167 | 
 | 2023-01-12 | 2104 | 167 | 
 | 2023-01-10 | 2103 | 167 | 
 | 2023-01-09 | 2101 | 167 | 

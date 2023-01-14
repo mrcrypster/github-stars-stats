@@ -1,10 +1,10 @@
 # Charca/astro-movies - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 14
 
-★ Stars: 78
+★ Stars: 79
 
 [Open repository](https://github.com/Charca/astro-movies)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 79 | 14 | 
 | 2023-01-12 | 78 | 14 | 
 | 2023-01-11 | 78 | 14 | 
 | 2023-01-10 | 78 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 78 | 14 | 
 | 2022-12-16 | 77 | 14 | 
 | 2022-12-15 | 77 | 14 | 
-| 2022-12-14 | 76 | 14 | 
 

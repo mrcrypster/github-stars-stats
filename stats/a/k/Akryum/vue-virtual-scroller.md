@@ -1,10 +1,10 @@
 # Akryum/vue-virtual-scroller - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 735
+☋ Forks: 736
 
-★ Stars: 7586
+★ Stars: 7593
 
 [Open repository](https://github.com/Akryum/vue-virtual-scroller)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 7593 | 736 | 
 | 2023-01-12 | 7586 | 735 | 
 | 2023-01-11 | 7579 | 735 | 
 | 2023-01-10 | 7576 | 735 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 7485 | 729 | 
 | 2022-12-16 | 7478 | 728 | 
 | 2022-12-15 | 7476 | 728 | 
-| 2022-12-14 | 7471 | 727 | 
 

@@ -1,6 +1,6 @@
 # dzhang314/YouTubeDrive - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 1705 | 40 | 
 | 2023-01-12 | 1705 | 40 | 
 | 2023-01-11 | 1705 | 39 | 
 | 2023-01-10 | 1705 | 39 | 

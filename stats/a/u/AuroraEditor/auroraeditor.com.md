@@ -1,10 +1,10 @@
 # AuroraEditor/auroraeditor.com - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 8
 
-★ Stars: 21
+★ Stars: 33
 
 [Open repository](https://github.com/AuroraEditor/auroraeditor.com)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 33 | 8 | 
+| 2023-01-13 | 33 | 8 | 
 | 2023-01-12 | 21 | 8 | 
 | 2023-01-11 | 104 | 8 | 
 | 2023-01-10 | 103 | 8 | 

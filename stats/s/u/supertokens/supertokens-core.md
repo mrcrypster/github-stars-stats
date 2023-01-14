@@ -1,10 +1,10 @@
 # supertokens/supertokens-core - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 273
 
-★ Stars: 7850
+★ Stars: 7855
 
 [Open repository](https://github.com/supertokens/supertokens-core)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 7855 | 273 | 
 | 2023-01-12 | 7850 | 273 | 
 | 2023-01-11 | 7842 | 271 | 
 | 2023-01-10 | 7836 | 271 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 7697 | 266 | 
 | 2022-12-16 | 7692 | 266 | 
 | 2022-12-15 | 7689 | 264 | 
-| 2022-12-14 | 7682 | 264 | 
 

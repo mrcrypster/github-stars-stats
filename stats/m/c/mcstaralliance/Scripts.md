@@ -1,10 +1,10 @@
 # mcstaralliance/Scripts - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 11
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/mcstaralliance/Scripts)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 11 | 11 | 
 | 2023-01-12 | 10 | 11 | 
 | 2023-01-11 | 10 | 11 | 
 | 2023-01-10 | 10 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 10 | 11 | 
 | 2022-12-16 | 10 | 11 | 
 | 2022-12-15 | 10 | 11 | 
-| 2022-12-14 | 10 | 11 | 
 

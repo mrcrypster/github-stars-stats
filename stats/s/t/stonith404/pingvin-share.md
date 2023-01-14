@@ -1,10 +1,10 @@
 # stonith404/pingvin-share - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 14
+☋ Forks: 15
 
-★ Stars: 359
+★ Stars: 360
 
 [Open repository](https://github.com/stonith404/pingvin-share)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 360 | 15 | 
 | 2023-01-12 | 359 | 14 | 
 | 2023-01-11 | 359 | 14 | 
 | 2023-01-10 | 358 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 287 | 10 | 
 | 2022-12-16 | 286 | 10 | 
 | 2022-12-15 | 282 | 9 | 
-| 2022-12-14 | 274 | 9 | 
 

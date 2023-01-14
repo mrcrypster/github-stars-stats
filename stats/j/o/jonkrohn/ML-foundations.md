@@ -1,10 +1,10 @@
 # jonkrohn/ML-foundations - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 893
+☋ Forks: 897
 
-★ Stars: 1857
+★ Stars: 1858
 
 [Open repository](https://github.com/jonkrohn/ML-foundations)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 1858 | 897 | 
 | 2023-01-12 | 1857 | 893 | 
 | 2023-01-11 | 1853 | 894 | 
 | 2023-01-10 | 1851 | 892 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 1784 | 862 | 
 | 2022-12-16 | 1782 | 862 | 
 | 2022-12-15 | 1781 | 861 | 
-| 2022-12-14 | 1779 | 860 | 
 

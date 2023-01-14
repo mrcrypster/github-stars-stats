@@ -1,6 +1,6 @@
 # a2nk/xrdp - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 113
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 17 | 113 | 
 | 2023-01-12 | 17 | 113 | 
 | 2023-01-11 | 17 | 112 | 
 | 2023-01-10 | 17 | 112 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 15 | 110 | 
 | 2022-12-16 | 15 | 110 | 
 | 2022-12-15 | 16 | 110 | 
-| 2022-12-14 | 17 | 110 | 
 

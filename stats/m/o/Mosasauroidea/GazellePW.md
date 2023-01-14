@@ -1,6 +1,6 @@
 # Mosasauroidea/GazellePW - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 146 | 39 | 
 | 2023-01-12 | 146 | 39 | 
 | 2023-01-11 | 145 | 39 | 
 | 2023-01-10 | 145 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 137 | 38 | 
 | 2022-12-16 | 136 | 38 | 
 | 2022-12-15 | 136 | 38 | 
-| 2022-12-14 | 136 | 38 | 
 

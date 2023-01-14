@@ -1,8 +1,8 @@
 # mate-academy/layout_dia - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 641
+☋ Forks: 643
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 2 | 643 | 
 | 2023-01-12 | 2 | 641 | 
 | 2023-01-11 | 2 | 639 | 
 | 2023-01-10 | 2 | 637 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 1 | 620 | 
 | 2022-12-16 | 1 | 619 | 
 | 2022-12-15 | 1 | 619 | 
-| 2022-12-14 | 1 | 619 | 
 

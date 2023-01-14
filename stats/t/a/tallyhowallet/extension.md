@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 13
 
-☋ Forks: 191
+☋ Forks: 194
 
-★ Stars: 1824
+★ Stars: 1996
 
 [Open repository](https://github.com/tallyhowallet/extension)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-13 | 1824 | 191 | 
+| 2023-01-13 | 1996 | 194 | 
 | 2023-01-12 | 1790 | 191 | 
 

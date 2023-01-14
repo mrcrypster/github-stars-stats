@@ -1,10 +1,10 @@
 # mjansen4857/pathplanner - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 32
 
-★ Stars: 159
+★ Stars: 160
 
 [Open repository](https://github.com/mjansen4857/pathplanner)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 160 | 32 | 
+| 2023-01-13 | 160 | 32 | 
 | 2023-01-12 | 159 | 32 | 
 | 2023-01-11 | 156 | 32 | 
 | 2023-01-10 | 155 | 32 | 

@@ -1,10 +1,10 @@
 # ekzhang/dispict - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 0
 
-★ Stars: 40
+★ Stars: 39
 
 [Open repository](https://github.com/ekzhang/dispict)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 39 | - | 
 | 2023-01-12 | 40 | - | 
 | 2023-01-11 | 40 | - | 
 | 2023-01-10 | 40 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 17 | - | 
 | 2022-12-16 | 17 | - | 
 | 2022-12-15 | 17 | - | 
-| 2022-12-14 | 17 | - | 
 

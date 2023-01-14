@@ -1,8 +1,8 @@
 # xcad2k/videos - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 100
+☋ Forks: 102
 
 ★ Stars: 220
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 220 | 102 | 
 | 2023-01-12 | 220 | 100 | 
 | 2023-01-11 | 218 | 100 | 
 | 2023-01-10 | 215 | 100 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 178 | 77 | 
 | 2022-12-16 | 176 | 77 | 
 | 2022-12-15 | 174 | 75 | 
-| 2022-12-14 | 171 | 75 | 
 

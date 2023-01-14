@@ -1,10 +1,10 @@
 # kube-hetzner/kube-hetzner - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 140
+☋ Forks: 143
 
-★ Stars: 670
+★ Stars: 671
 
 [Open repository](https://github.com/kube-hetzner/kube-hetzner)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 671 | 143 | 
 | 2023-01-12 | 670 | 140 | 
 | 2023-01-11 | 665 | 140 | 
 | 2023-01-10 | 663 | 139 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 578 | 132 | 
 | 2022-12-16 | 577 | 131 | 
 | 2022-12-15 | 573 | 131 | 
-| 2022-12-14 | 572 | 131 | 
 

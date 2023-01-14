@@ -1,6 +1,6 @@
 # ReScience/MLRC - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 95
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 13 | 95 | 
 | 2023-01-12 | 13 | 95 | 
 | 2023-01-11 | 13 | 95 | 
 | 2023-01-10 | 13 | 95 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 13 | 95 | 
 | 2022-12-16 | 13 | 95 | 
 | 2022-12-15 | 13 | 95 | 
-| 2022-12-14 | 13 | 95 | 
 

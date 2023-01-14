@@ -1,6 +1,6 @@
 # acantril/aws-sa-associate-saac02 - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 827
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 1130 | 827 | 
 | 2023-01-12 | 1130 | 827 | 
 | 2023-01-11 | 1129 | 827 | 
 | 2023-01-10 | 1128 | 827 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 1118 | 822 | 
 | 2022-12-16 | 1118 | 822 | 
 | 2022-12-15 | 1118 | 822 | 
-| 2022-12-14 | 1117 | 822 | 
 

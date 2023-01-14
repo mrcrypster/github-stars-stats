@@ -1,6 +1,6 @@
 # vbmithr/breakbot - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 50 | 13 | 
 | 2023-01-12 | 50 | 13 | 
 | 2023-01-11 | 50 | 13 | 
 | 2023-01-10 | 50 | 13 | 

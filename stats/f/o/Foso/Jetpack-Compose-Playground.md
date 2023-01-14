@@ -1,6 +1,6 @@
 # Foso/Jetpack-Compose-Playground - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 216
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 2555 | 216 | 
 | 2023-01-13 | 2555 | 216 | 
 | 2023-01-11 | 2551 | 216 | 
 | 2023-01-10 | 2549 | 216 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-17 | 2498 | 212 | 
 | 2022-12-16 | 2494 | 211 | 
 | 2022-12-15 | 2491 | 211 | 
-| 2022-12-14 | 2489 | 211 | 
 

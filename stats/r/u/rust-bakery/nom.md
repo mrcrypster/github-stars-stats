@@ -1,10 +1,10 @@
 # rust-bakery/nom - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 737
 
-★ Stars: 7577
+★ Stars: 7582
 
 [Open repository](https://github.com/rust-bakery/nom)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 7582 | 737 | 
 | 2023-01-12 | 7577 | 737 | 
 | 2023-01-11 | 7575 | 737 | 
 | 2023-01-10 | 7574 | 737 | 

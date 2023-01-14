@@ -1,6 +1,6 @@
 # j-michaliszyn/quicksort17 - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 286
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | - | 286 | 
 | 2023-01-12 | - | 286 | 
 | 2023-01-11 | - | 286 | 
 | 2023-01-10 | - | 285 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | - | 284 | 
 | 2022-12-16 | - | 284 | 
 | 2022-12-15 | - | 283 | 
-| 2022-12-14 | - | 283 | 
 

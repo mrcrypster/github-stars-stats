@@ -1,6 +1,6 @@
 # TheGuyDangerous/FoodCoders - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 23 | 43 | 
 | 2023-01-12 | 23 | 43 | 
 | 2023-01-11 | 23 | 43 | 
 | 2023-01-10 | 23 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-18 | 23 | 44 | 
 | 2022-12-17 | 23 | 44 | 
 | 2022-12-16 | 23 | 45 | 
-| 2022-12-15 | 23 | 45 | 
 

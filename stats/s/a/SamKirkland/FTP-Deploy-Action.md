@@ -1,10 +1,10 @@
 # SamKirkland/FTP-Deploy-Action - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 258
+☋ Forks: 259
 
-★ Stars: 2229
+★ Stars: 2231
 
 [Open repository](https://github.com/SamKirkland/FTP-Deploy-Action)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 2231 | 259 | 
 | 2023-01-12 | 2229 | 258 | 
 | 2023-01-11 | 2222 | 258 | 
 | 2023-01-10 | 2216 | 258 | 

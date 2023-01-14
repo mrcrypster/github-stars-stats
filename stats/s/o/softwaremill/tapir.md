@@ -1,6 +1,6 @@
 # softwaremill/tapir - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 318
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 1147 | 318 | 
 | 2023-01-12 | 1147 | 318 | 
 | 2023-01-11 | 1145 | 319 | 
 | 2023-01-10 | 1144 | 319 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-18 | 1135 | 318 | 
 | 2022-12-16 | 1135 | 318 | 
 | 2022-12-15 | 1135 | 317 | 
-| 2022-12-14 | 1135 | 317 | 
 

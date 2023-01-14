@@ -1,6 +1,6 @@
 # MauriceNino/dashdot - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 1031 | 47 | 
 | 2023-01-12 | 1031 | 47 | 
 | 2023-01-11 | 1027 | 46 | 
 | 2023-01-10 | 1023 | 46 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 978 | 40 | 
 | 2022-12-16 | 976 | 40 | 
 | 2022-12-15 | 971 | 40 | 
-| 2022-12-14 | 955 | 40 | 
 

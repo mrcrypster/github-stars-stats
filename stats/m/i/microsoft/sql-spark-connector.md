@@ -1,6 +1,6 @@
 # microsoft/sql-spark-connector - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 92
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 208 | 92 | 
 | 2023-01-12 | 208 | 92 | 
 | 2023-01-11 | 208 | 92 | 
 | 2023-01-10 | 208 | 92 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 207 | 91 | 
 | 2022-12-16 | 207 | 91 | 
 | 2022-12-15 | 207 | 91 | 
-| 2022-12-14 | 206 | 91 | 
 

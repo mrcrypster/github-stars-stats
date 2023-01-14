@@ -1,10 +1,10 @@
 # davidbombal/ssh_bruteforcing - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 31
+☋ Forks: 32
 
-★ Stars: 132
+★ Stars: 133
 
 [Open repository](https://github.com/davidbombal/ssh_bruteforcing)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 133 | 32 | 
 | 2023-01-12 | 132 | 31 | 
 | 2023-01-11 | 133 | 31 | 
 | 2023-01-10 | 133 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 106 | 28 | 
 | 2022-12-16 | 101 | 26 | 
 | 2022-12-15 | 92 | 25 | 
-| 2022-12-14 | 86 | 24 | 
 

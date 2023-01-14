@@ -1,10 +1,10 @@
 # pytest-dev/pytest - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 2227
+☋ Forks: 2228
 
-★ Stars: 9677
+★ Stars: 9681
 
 [Open repository](https://github.com/pytest-dev/pytest)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 9681 | 2228 | 
 | 2023-01-12 | 9677 | 2227 | 
 | 2023-01-11 | 9674 | 2227 | 
 | 2023-01-10 | 9662 | 2225 | 

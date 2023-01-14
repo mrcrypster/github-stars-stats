@@ -1,10 +1,10 @@
 # zendesk/classic_asp_jwt - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 18
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/zendesk/classic_asp_jwt)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 29 | 18 | 
 | 2023-01-12 | 28 | 18 | 
 | 2023-01-11 | 28 | 18 | 
 | 2023-01-10 | 28 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 28 | 18 | 
 | 2022-12-16 | 28 | 18 | 
 | 2022-12-15 | 28 | 18 | 
-| 2022-12-14 | 28 | 18 | 
 

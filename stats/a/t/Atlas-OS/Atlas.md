@@ -1,10 +1,10 @@
 # Atlas-OS/Atlas - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 153
+☋ Forks: 152
 
-★ Stars: 3599
+★ Stars: 3609
 
 [Open repository](https://github.com/Atlas-OS/Atlas)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 3609 | 152 | 
 | 2023-01-12 | 3599 | 153 | 
 | 2023-01-11 | 3575 | 152 | 
 | 2023-01-10 | 3573 | 151 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 2466 | 114 | 
 | 2022-12-16 | 2462 | 113 | 
 | 2022-12-15 | 2451 | 113 | 
-| 2022-12-14 | 2435 | 112 | 
 

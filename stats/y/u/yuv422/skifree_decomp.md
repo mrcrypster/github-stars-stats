@@ -1,10 +1,10 @@
 # yuv422/skifree_decomp - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 1
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/yuv422/skifree_decomp)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 18 | 1 | 
 | 2023-01-12 | 17 | 1 | 
 | 2023-01-11 | 17 | 1 | 
 | 2023-01-10 | 17 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 15 | - | 
 | 2022-12-16 | 14 | - | 
 | 2022-12-15 | 14 | - | 
-| 2022-12-14 | 15 | - | 
 

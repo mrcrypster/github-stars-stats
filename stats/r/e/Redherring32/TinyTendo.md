@@ -1,6 +1,6 @@
 # Redherring32/TinyTendo - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 76 | 1 | 
 | 2023-01-12 | 76 | 1 | 
 | 2023-01-11 | 76 | 1 | 
 | 2023-01-10 | 76 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 72 | 1 | 
 | 2022-12-16 | 72 | 1 | 
 | 2022-12-15 | 72 | 1 | 
-| 2022-12-14 | 71 | 1 | 
 

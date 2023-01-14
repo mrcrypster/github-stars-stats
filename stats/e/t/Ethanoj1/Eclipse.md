@@ -1,10 +1,10 @@
 # Ethanoj1/Eclipse - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 26
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/Ethanoj1/Eclipse)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 12 | 26 | 
 | 2023-01-13 | 11 | 26 | 
 | 2023-01-12 | 11 | 26 | 
 | 2023-01-10 | 11 | 26 | 

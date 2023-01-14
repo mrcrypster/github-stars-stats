@@ -1,8 +1,8 @@
 # paulov-t/Tarkov-Server - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 31
+☋ Forks: 32
 
 ★ Stars: 133
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 133 | 32 | 
 | 2023-01-12 | 133 | 31 | 
 | 2023-01-11 | 133 | 29 | 
 | 2023-01-10 | 131 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 126 | 27 | 
 | 2022-12-16 | 126 | 27 | 
 | 2022-12-15 | 126 | 27 | 
-| 2022-12-14 | 126 | 26 | 
 

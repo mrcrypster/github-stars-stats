@@ -1,6 +1,6 @@
 # fallingcat/HomebrewGPU - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 82 | 4 | 
 | 2023-01-12 | 82 | 4 | 
 | 2023-01-11 | 82 | 4 | 
 | 2023-01-10 | 82 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 79 | 3 | 
 | 2022-12-16 | 79 | 3 | 
 | 2022-12-15 | 79 | 3 | 
-| 2022-12-14 | 79 | 3 | 
 

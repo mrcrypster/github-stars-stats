@@ -1,6 +1,6 @@
 # ericmj/decimal - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 98
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 412 | 98 | 
 | 2023-01-12 | 412 | 98 | 
 | 2023-01-11 | 412 | 98 | 
 | 2023-01-10 | 412 | 98 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 412 | 98 | 
 | 2022-12-16 | 412 | 98 | 
 | 2022-12-15 | 412 | 98 | 
-| 2022-12-14 | 412 | 98 | 
 

@@ -1,10 +1,10 @@
 # discourse/discourse - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 7854
+☋ Forks: 7855
 
-★ Stars: 37137
+★ Stars: 37166
 
 [Open repository](https://github.com/discourse/discourse)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 37166 | 7855 | 
 | 2023-01-12 | 37137 | 7854 | 
 | 2023-01-11 | 37132 | 7852 | 
 | 2023-01-10 | 37129 | 7851 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 37002 | 7842 | 
 | 2022-12-16 | 36996 | 7843 | 
 | 2022-12-15 | 36988 | 7843 | 
-| 2022-12-14 | 36989 | 7842 | 
 

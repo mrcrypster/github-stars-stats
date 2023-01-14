@@ -1,8 +1,8 @@
 # Franiac/TwitchLeecher - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 398
+☋ Forks: 397
 
 ★ Stars: 2856
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 2856 | 397 | 
 | 2023-01-12 | 2856 | 398 | 
 | 2023-01-11 | 2856 | 398 | 
 | 2023-01-10 | 2857 | 398 | 

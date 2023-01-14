@@ -1,10 +1,10 @@
 # madler/zlib - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 2079
+☋ Forks: 2080
 
-★ Stars: 4105
+★ Stars: 4107
 
 [Open repository](https://github.com/madler/zlib)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 4107 | 2080 | 
 | 2023-01-12 | 4105 | 2079 | 
 | 2023-01-11 | 4101 | 2078 | 
 | 2023-01-09 | 4096 | 2077 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 4053 | 2054 | 
 | 2022-12-16 | 4053 | 2054 | 
 | 2022-12-15 | 4054 | 2054 | 
-| 2022-12-14 | 4051 | 2051 | 
 

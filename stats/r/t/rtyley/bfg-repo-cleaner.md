@@ -1,10 +1,10 @@
 # rtyley/bfg-repo-cleaner - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 501
 
-★ Stars: 9243
+★ Stars: 9258
 
 [Open repository](https://github.com/rtyley/bfg-repo-cleaner)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 9258 | 501 | 
 | 2023-01-12 | 9243 | 501 | 
 | 2023-01-11 | 9243 | 501 | 
 | 2023-01-10 | 9238 | 501 | 

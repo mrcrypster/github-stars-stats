@@ -1,10 +1,10 @@
 # microsoft/PowerPlatformConnectors - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 887
+☋ Forks: 888
 
-★ Stars: 595
+★ Stars: 596
 
 [Open repository](https://github.com/microsoft/PowerPlatformConnectors)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 596 | 888 | 
 | 2023-01-12 | 595 | 887 | 
 | 2023-01-11 | 595 | 886 | 
 | 2023-01-10 | 594 | 884 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 590 | 879 | 
 | 2022-12-16 | 590 | 879 | 
 | 2022-12-15 | 589 | 878 | 
-| 2022-12-14 | 587 | 877 | 
 

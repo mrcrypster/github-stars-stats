@@ -1,8 +1,8 @@
 # SmiLeYre/SS13-BlueMoon - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 5
+☋ Forks: 4
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 1 | 4 | 
 | 2023-01-12 | 1 | 5 | 
 | 2023-01-11 | 1 | 5 | 
 | 2023-01-10 | 1 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 1 | 4 | 
 | 2022-12-16 | 1 | 6 | 
 | 2022-12-15 | 1 | 6 | 
-| 2022-12-14 | 2 | 6 | 
 

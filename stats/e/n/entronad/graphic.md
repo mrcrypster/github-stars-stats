@@ -1,10 +1,10 @@
 # entronad/graphic - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 107
 
-★ Stars: 919
+★ Stars: 918
 
 [Open repository](https://github.com/entronad/graphic)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 918 | 107 | 
 | 2023-01-12 | 919 | 107 | 
 | 2023-01-11 | 916 | 107 | 
 | 2023-01-10 | 914 | 107 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 891 | 103 | 
 | 2022-12-16 | 891 | 103 | 
 | 2022-12-15 | 888 | 103 | 
-| 2022-12-14 | 887 | 103 | 
 

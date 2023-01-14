@@ -1,10 +1,10 @@
 # CannyLab/tsne-cuda - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 118
 
-★ Stars: 1489
+★ Stars: 1490
 
 [Open repository](https://github.com/CannyLab/tsne-cuda)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 1490 | 118 | 
 | 2023-01-12 | 1489 | 118 | 
 | 2023-01-11 | 1489 | 118 | 
 | 2023-01-10 | 1488 | 118 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 1482 | 116 | 
 | 2022-12-16 | 1482 | 116 | 
 | 2022-12-15 | 1481 | 116 | 
-| 2022-12-14 | 1481 | 116 | 
 

@@ -1,10 +1,10 @@
 # omnilaboratory/OBAndroid - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 5
 
-★ Stars: 932
+★ Stars: 929
 
 [Open repository](https://github.com/omnilaboratory/OBAndroid)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 929 | 5 | 
 | 2023-01-12 | 932 | 5 | 
 | 2023-01-11 | 932 | 5 | 
 | 2023-01-10 | 933 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 928 | 4 | 
 | 2022-12-16 | 929 | 4 | 
 | 2022-12-15 | 929 | 4 | 
-| 2022-12-14 | 929 | 4 | 
 

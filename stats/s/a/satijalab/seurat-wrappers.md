@@ -1,8 +1,8 @@
 # satijalab/seurat-wrappers - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
-☋ Forks: 97
+☋ Forks: 98
 
 ★ Stars: 191
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 191 | 98 | 
 | 2023-01-12 | 191 | 97 | 
 | 2023-01-10 | 191 | 97 | 
 | 2023-01-09 | 191 | 97 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 189 | 94 | 
 | 2022-12-16 | 188 | 94 | 
 | 2022-12-15 | 188 | 94 | 
-| 2022-12-14 | 188 | 94 | 
 

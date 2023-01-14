@@ -1,6 +1,6 @@
 # Shopify/twine - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 111 | 8 | 
 | 2023-01-12 | 111 | 8 | 
 | 2023-01-11 | 111 | 8 | 
 | 2023-01-10 | 111 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 110 | 8 | 
 | 2022-12-16 | 110 | 8 | 
 | 2022-12-15 | 110 | 8 | 
-| 2022-12-14 | 110 | 8 | 
 

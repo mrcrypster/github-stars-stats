@@ -1,6 +1,6 @@
 # LizardByte/build-deps - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 4
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 2 | 4 | 
+| 2023-01-13 | 2 | 4 | 
 | 2023-01-12 | 2 | 4 | 
 | 2023-01-11 | 2 | 4 | 
 | 2023-01-10 | 2 | 3 | 

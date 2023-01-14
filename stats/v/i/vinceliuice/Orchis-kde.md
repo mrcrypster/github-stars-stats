@@ -1,6 +1,6 @@
 # vinceliuice/Orchis-kde - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 131 | 15 | 
 | 2023-01-13 | 131 | 15 | 
 | 2023-01-12 | 131 | 15 | 
 | 2023-01-10 | 131 | 15 | 

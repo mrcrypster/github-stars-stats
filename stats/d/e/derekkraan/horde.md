@@ -1,10 +1,10 @@
 # derekkraan/horde - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 93
 
-★ Stars: 1115
+★ Stars: 1116
 
 [Open repository](https://github.com/derekkraan/horde)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 1116 | 93 | 
 | 2023-01-12 | 1115 | 93 | 
 | 2023-01-11 | 1114 | 93 | 
 | 2023-01-10 | 1114 | 93 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 1109 | 93 | 
 | 2022-12-16 | 1109 | 93 | 
 | 2022-12-15 | 1109 | 93 | 
-| 2022-12-14 | 1108 | 93 | 
 

@@ -1,10 +1,10 @@
 # openwrt/telephony - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 159
 
-★ Stars: 91
+★ Stars: 92
 
 [Open repository](https://github.com/openwrt/telephony)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 92 | 159 | 
 | 2023-01-12 | 91 | 159 | 
 | 2023-01-11 | 91 | 159 | 
 | 2023-01-10 | 91 | 159 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 91 | 158 | 
 | 2022-12-16 | 91 | 158 | 
 | 2022-12-15 | 91 | 158 | 
-| 2022-12-14 | 92 | 158 | 
 

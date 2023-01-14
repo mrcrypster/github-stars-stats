@@ -1,6 +1,6 @@
 # EasyCrypt/easycrypt - stars & forks statistics
 
-Stats updated on Jan 2023, 12
+Stats updated on Jan 2023, 13
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-13 | 178 | 38 | 
 | 2023-01-12 | 178 | 38 | 
 | 2023-01-11 | 178 | 38 | 
 | 2023-01-10 | 178 | 38 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 12
 | 2022-12-17 | 175 | 38 | 
 | 2022-12-16 | 174 | 38 | 
 | 2022-12-15 | 174 | 38 | 
-| 2022-12-14 | 174 | 38 | 
 
