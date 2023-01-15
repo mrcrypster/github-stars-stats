@@ -1,10 +1,10 @@
 # microsoft/dotnet-podcasts - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 537
 
-★ Stars: 2033
+★ Stars: 2035
 
 [Open repository](https://github.com/microsoft/dotnet-podcasts)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 2035 | 537 | 
 | 2023-01-13 | 2033 | 537 | 
 | 2023-01-12 | 2027 | 535 | 
 | 2023-01-11 | 2019 | 533 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 1909 | 517 | 
 | 2022-12-17 | 1908 | 517 | 
 | 2022-12-16 | 1906 | 516 | 
-| 2022-12-15 | 1904 | 514 | 
 

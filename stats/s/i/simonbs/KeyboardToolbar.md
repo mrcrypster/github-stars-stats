@@ -1,6 +1,6 @@
 # simonbs/KeyboardToolbar - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 200 | 8 | 
 | 2023-01-13 | 200 | 8 | 
 | 2023-01-12 | 199 | 8 | 
 | 2023-01-11 | 198 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 196 | 8 | 
 | 2022-12-17 | 196 | 8 | 
 | 2022-12-16 | 196 | 8 | 
-| 2022-12-15 | 196 | 8 | 
 

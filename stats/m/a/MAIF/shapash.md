@@ -1,6 +1,6 @@
 # MAIF/shapash - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 257
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 2091 | 257 | 
 | 2023-01-13 | 2091 | 257 | 
 | 2023-01-11 | 2088 | 257 | 
 | 2023-01-10 | 2088 | 257 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-19 | 2053 | 253 | 
 | 2022-12-18 | 2053 | 253 | 
 | 2022-12-17 | 2052 | 253 | 
-| 2022-12-16 | 2051 | 252 | 
 

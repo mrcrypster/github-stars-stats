@@ -1,6 +1,6 @@
 # o1-labs/snarky - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 432 | 68 | 
 | 2023-01-13 | 432 | 68 | 
 | 2023-01-12 | 433 | 68 | 
 | 2023-01-11 | 433 | 68 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 429 | 68 | 
 | 2022-12-17 | 429 | 68 | 
 | 2022-12-16 | 429 | 68 | 
-| 2022-12-15 | 429 | 68 | 
 

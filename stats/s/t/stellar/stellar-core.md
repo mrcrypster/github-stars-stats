@@ -1,6 +1,6 @@
 # stellar/stellar-core - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 1006
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 3024 | 1006 | 
 | 2023-01-13 | 3024 | 1006 | 
 | 2023-01-12 | 3024 | 1006 | 
 | 2023-01-11 | 3024 | 1006 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 3021 | 1001 | 
 | 2022-12-17 | 3021 | 1001 | 
 | 2022-12-16 | 3021 | 1001 | 
-| 2022-12-15 | 3021 | 1001 | 
 

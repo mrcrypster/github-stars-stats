@@ -1,6 +1,6 @@
 # capt-meelo/NtCreateUserProcess - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 107 | 21 | 
 | 2023-01-13 | 107 | 21 | 
 | 2023-01-12 | 107 | 21 | 
 | 2023-01-11 | 107 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 107 | 21 | 
 | 2022-12-17 | 107 | 21 | 
 | 2022-12-16 | 107 | 21 | 
-| 2022-12-15 | 107 | 21 | 
 

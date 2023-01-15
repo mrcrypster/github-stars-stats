@@ -1,6 +1,6 @@
 # loreabad6/R-CV - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 34 | 23 | 
 | 2023-01-13 | 34 | 23 | 
 | 2023-01-12 | 34 | 23 | 
 | 2023-01-11 | 34 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 33 | 19 | 
 | 2022-12-17 | 33 | 19 | 
 | 2022-12-16 | 33 | 19 | 
-| 2022-12-15 | 33 | 19 | 
 

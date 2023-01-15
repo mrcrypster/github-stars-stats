@@ -1,10 +1,10 @@
 # terminusdb/terminusdb - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 90
 
-★ Stars: 2135
+★ Stars: 2137
 
 [Open repository](https://github.com/terminusdb/terminusdb)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 2137 | 90 | 
 | 2023-01-13 | 2135 | 90 | 
 | 2023-01-12 | 2135 | 90 | 
 | 2023-01-11 | 2136 | 90 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 2110 | 90 | 
 | 2022-12-17 | 2106 | 90 | 
 | 2022-12-16 | 2105 | 90 | 
-| 2022-12-15 | 2104 | 90 | 
 

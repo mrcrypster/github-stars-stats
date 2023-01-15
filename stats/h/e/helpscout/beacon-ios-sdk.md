@@ -1,6 +1,6 @@
 # helpscout/beacon-ios-sdk - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 19 | 11 | 
 | 2023-01-13 | 19 | 11 | 
 | 2023-01-12 | 19 | 11 | 
 | 2023-01-11 | 19 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-19 | 19 | 11 | 
 | 2022-12-18 | 19 | 11 | 
 | 2022-12-17 | 19 | 11 | 
-| 2022-12-16 | 19 | 11 | 
 

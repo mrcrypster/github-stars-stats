@@ -1,6 +1,6 @@
 # zio/zio-json - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 105
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 367 | 105 | 
 | 2023-01-13 | 367 | 105 | 
 | 2023-01-12 | 367 | 105 | 
 | 2023-01-11 | 367 | 105 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 366 | 105 | 
 | 2022-12-17 | 366 | 105 | 
 | 2022-12-16 | 365 | 105 | 
-| 2022-12-15 | 365 | 105 | 
 

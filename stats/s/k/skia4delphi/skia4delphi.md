@@ -1,6 +1,6 @@
 # skia4delphi/skia4delphi - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 84
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 486 | 84 | 
 | 2023-01-13 | 486 | 84 | 
 | 2023-01-12 | 486 | 84 | 
 | 2023-01-11 | 485 | 84 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 476 | 81 | 
 | 2022-12-17 | 476 | 81 | 
 | 2022-12-16 | 474 | 80 | 
-| 2022-12-15 | 473 | 79 | 
 

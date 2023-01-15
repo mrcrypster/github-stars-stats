@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 14
 
 ☋ Forks: 1381
 
-★ Stars: 1731
+★ Stars: 1733
 
 [Open repository](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-14 | 1731 | 1381 | 
+| 2023-01-14 | 1733 | 1381 | 
 | 2023-01-13 | 1731 | 1381 | 
 | 2023-01-12 | 1724 | 1377 | 
 | 2023-01-11 | 1716 | 1372 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 1629 | 1291 | 
 | 2022-12-18 | 1626 | 1290 | 
 | 2022-12-17 | 1616 | 1278 | 
-| 2022-12-15 | 1612 | 1275 | 
 

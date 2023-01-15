@@ -1,6 +1,6 @@
 # JuliaFolds/FLoops.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 269 | 4 | 
 | 2023-01-13 | 269 | 4 | 
 | 2023-01-12 | 269 | 4 | 
 | 2023-01-11 | 269 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 267 | 4 | 
 | 2022-12-17 | 267 | 4 | 
 | 2022-12-16 | 267 | 4 | 
-| 2022-12-15 | 267 | 4 | 
 

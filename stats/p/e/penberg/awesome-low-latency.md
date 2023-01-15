@@ -1,6 +1,6 @@
 # penberg/awesome-low-latency - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 295 | 6 | 
 | 2023-01-13 | 295 | 6 | 
 | 2023-01-12 | 295 | 6 | 
 | 2023-01-11 | 294 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 293 | 6 | 
 | 2022-12-17 | 293 | 6 | 
 | 2022-12-16 | 293 | 6 | 
-| 2022-12-15 | 293 | 6 | 
 

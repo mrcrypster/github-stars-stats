@@ -1,6 +1,6 @@
 # ahutsunshine/dingdong-grabber - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 158 | 49 | 
 | 2023-01-13 | 158 | 49 | 
 | 2023-01-12 | 158 | 49 | 
 | 2023-01-11 | 158 | 49 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 158 | 49 | 
 | 2022-12-17 | 158 | 49 | 
 | 2022-12-16 | 158 | 49 | 
-| 2022-12-15 | 158 | 49 | 
 

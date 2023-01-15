@@ -1,10 +1,10 @@
 # GreptimeTeam/helm-charts - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 4
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/GreptimeTeam/helm-charts)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 14 | 4 | 
 | 2023-01-14 | 13 | 4 | 
 | 2023-01-13 | 13 | 4 | 
 | 2023-01-12 | 13 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-18 | 13 | 4 | 
 | 2022-12-17 | 13 | 4 | 
 | 2022-12-16 | 13 | 4 | 
-| 2022-12-15 | 13 | 3 | 
 

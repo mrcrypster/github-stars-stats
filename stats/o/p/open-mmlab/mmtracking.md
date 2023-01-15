@@ -1,8 +1,8 @@
 # open-mmlab/mmtracking - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 466
+☋ Forks: 467
 
 ★ Stars: 2732
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 2732 | 467 | 
 | 2023-01-13 | 2732 | 466 | 
 | 2023-01-12 | 2732 | 466 | 
 | 2023-01-11 | 2731 | 464 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 2702 | 458 | 
 | 2022-12-17 | 2698 | 458 | 
 | 2022-12-16 | 2696 | 458 | 
-| 2022-12-15 | 2695 | 457 | 
 

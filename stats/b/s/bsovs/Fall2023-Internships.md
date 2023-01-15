@@ -1,10 +1,10 @@
 # bsovs/Fall2023-Internships - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 90
+☋ Forks: 89
 
-★ Stars: 645
+★ Stars: 649
 
 [Open repository](https://github.com/bsovs/Fall2023-Internships)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 649 | 89 | 
 | 2023-01-13 | 645 | 90 | 
 | 2023-01-12 | 639 | 89 | 
 | 2023-01-11 | 635 | 88 | 

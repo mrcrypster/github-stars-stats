@@ -1,10 +1,10 @@
 # juliansteenbakker/mobile_scanner - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 203
 
-★ Stars: 339
+★ Stars: 341
 
 [Open repository](https://github.com/juliansteenbakker/mobile_scanner)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 341 | 203 | 
 | 2023-01-13 | 339 | 203 | 
 | 2023-01-12 | 338 | 203 | 
 | 2023-01-11 | 337 | 203 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 320 | 194 | 
 | 2022-12-17 | 319 | 194 | 
 | 2022-12-16 | 317 | 193 | 
-| 2022-12-15 | 314 | 193 | 
 

@@ -1,10 +1,10 @@
 # xtaci/kcptun - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 2517
+☋ Forks: 2519
 
-★ Stars: 13170
+★ Stars: 13172
 
 [Open repository](https://github.com/xtaci/kcptun)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 13172 | 2519 | 
 | 2023-01-13 | 13170 | 2517 | 
 | 2023-01-12 | 13167 | 2517 | 
 | 2023-01-11 | 13166 | 2517 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 13133 | 2517 | 
 | 2022-12-17 | 13133 | 2517 | 
 | 2022-12-16 | 13131 | 2516 | 
-| 2022-12-15 | 13129 | 2515 | 
 

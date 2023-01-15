@@ -1,10 +1,10 @@
 # 88250/solo - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 389
 
-★ Stars: 1221
+★ Stars: 1222
 
 [Open repository](https://github.com/88250/solo)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 1222 | 389 | 
 | 2023-01-13 | 1221 | 389 | 
 | 2023-01-12 | 1220 | 389 | 
 | 2023-01-11 | 1220 | 389 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 1208 | 388 | 
 | 2022-12-17 | 1208 | 388 | 
 | 2022-12-16 | 1207 | 388 | 
-| 2022-12-15 | 1207 | 388 | 
 

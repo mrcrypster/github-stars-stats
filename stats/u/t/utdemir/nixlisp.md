@@ -1,6 +1,6 @@
 # utdemir/nixlisp - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 40 | 1 | 
 | 2023-01-13 | 40 | 1 | 
 | 2023-01-12 | 40 | 1 | 
 | 2023-01-11 | 41 | 1 | 

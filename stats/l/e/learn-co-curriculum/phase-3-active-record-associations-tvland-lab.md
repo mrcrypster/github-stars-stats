@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-3-active-record-associations-tvland-lab - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
-☋ Forks: 1909
+☋ Forks: 1910
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 3 | 1910 | 
 | 2023-01-14 | 3 | 1909 | 
 | 2023-01-12 | 3 | 1895 | 
 | 2023-01-11 | 3 | 1892 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-18 | 2 | 1848 | 
 | 2022-12-17 | 2 | 1846 | 
 | 2022-12-16 | 2 | 1842 | 
-| 2022-12-15 | 2 | 1839 | 
 

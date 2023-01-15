@@ -1,10 +1,10 @@
 # avinassh/py-caskdb - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 55
 
-★ Stars: 892
+★ Stars: 893
 
 [Open repository](https://github.com/avinassh/py-caskdb)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 893 | 55 | 
 | 2023-01-13 | 892 | 55 | 
 | 2023-01-12 | 892 | 55 | 
 | 2023-01-11 | 892 | 55 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 873 | 54 | 
 | 2022-12-17 | 872 | 53 | 
 | 2022-12-16 | 864 | 53 | 
-| 2022-12-15 | 863 | 53 | 
 

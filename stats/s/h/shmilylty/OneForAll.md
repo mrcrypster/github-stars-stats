@@ -1,10 +1,10 @@
 # shmilylty/OneForAll - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 1053
 
-★ Stars: 5844
+★ Stars: 5849
 
 [Open repository](https://github.com/shmilylty/OneForAll)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 5849 | 1053 | 
 | 2023-01-13 | 5844 | 1053 | 
 | 2023-01-12 | 5837 | 1053 | 
 | 2023-01-11 | 5834 | 1053 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 5759 | 1041 | 
 | 2022-12-17 | 5756 | 1041 | 
 | 2022-12-16 | 5754 | 1040 | 
-| 2022-12-15 | 5750 | 1040 | 
 

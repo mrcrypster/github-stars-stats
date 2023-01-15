@@ -1,10 +1,10 @@
 # EdOverflow/bugbounty-cheatsheet - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 1436
 
-★ Stars: 4737
+★ Stars: 4740
 
 [Open repository](https://github.com/EdOverflow/bugbounty-cheatsheet)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 4740 | 1436 | 
 | 2023-01-13 | 4737 | 1436 | 
 | 2023-01-12 | 4735 | 1436 | 
 | 2023-01-11 | 4736 | 1436 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 4703 | 1425 | 
 | 2022-12-17 | 4703 | 1425 | 
 | 2022-12-16 | 4702 | 1424 | 
-| 2022-12-15 | 4699 | 1420 | 
 

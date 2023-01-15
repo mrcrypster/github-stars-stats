@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 14
 
 ☋ Forks: 0
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/starforgelabs/shift-register-test-one-7-seg-diplay)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-14 | - | - | 
+| 2023-01-14 | 1 | - | 
 | 2023-01-13 | - | - | 
 | 2023-01-12 | - | - | 
 | 2023-01-11 | - | - | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-18 | - | - | 
 | 2022-12-17 | - | - | 
 | 2022-12-16 | - | - | 
-| 2022-12-15 | - | - | 
 

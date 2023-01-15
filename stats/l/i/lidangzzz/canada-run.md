@@ -1,6 +1,6 @@
 # lidangzzz/canada-run - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 219 | 11 | 
 | 2023-01-13 | 219 | 11 | 
 | 2023-01-12 | 219 | 11 | 
 | 2023-01-11 | 219 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 216 | 11 | 
 | 2022-12-17 | 216 | 11 | 
 | 2022-12-16 | 216 | 11 | 
-| 2022-12-15 | 216 | 11 | 
 

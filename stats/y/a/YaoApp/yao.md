@@ -1,10 +1,10 @@
 # YaoApp/yao - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 464
 
-★ Stars: 5041
+★ Stars: 5046
 
 [Open repository](https://github.com/YaoApp/yao)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 5046 | 464 | 
 | 2023-01-13 | 5041 | 464 | 
 | 2023-01-12 | 5040 | 464 | 
 | 2023-01-11 | 5033 | 464 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 4966 | 457 | 
 | 2022-12-17 | 4965 | 457 | 
 | 2022-12-16 | 4963 | 456 | 
-| 2022-12-15 | 4959 | 455 | 
 

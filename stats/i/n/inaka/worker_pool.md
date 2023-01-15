@@ -1,6 +1,6 @@
 # inaka/worker_pool - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 80
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 260 | 80 | 
 | 2023-01-13 | 260 | 80 | 
 | 2023-01-12 | 260 | 80 | 
 | 2023-01-11 | 260 | 80 | 

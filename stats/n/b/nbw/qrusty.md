@@ -1,10 +1,10 @@
 # nbw/qrusty - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 3
 
-★ Stars: 23
+★ Stars: 22
 
 [Open repository](https://github.com/nbw/qrusty)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 22 | 3 | 
 | 2023-01-13 | 23 | 3 | 
 | 2023-01-12 | 23 | 3 | 
 | 2023-01-11 | 23 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 23 | 3 | 
 | 2022-12-17 | 23 | 3 | 
 | 2022-12-16 | 23 | 3 | 
-| 2022-12-15 | 23 | 3 | 
 

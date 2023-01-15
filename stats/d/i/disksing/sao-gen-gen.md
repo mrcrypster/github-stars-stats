@@ -1,10 +1,10 @@
 # disksing/sao-gen-gen - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 32
 
-★ Stars: 580
+★ Stars: 581
 
 [Open repository](https://github.com/disksing/sao-gen-gen)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 581 | 32 | 
 | 2023-01-13 | 580 | 32 | 
 | 2023-01-12 | 580 | 32 | 
 | 2023-01-11 | 580 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 577 | 32 | 
 | 2022-12-17 | 577 | 32 | 
 | 2022-12-16 | 577 | 32 | 
-| 2022-12-15 | 577 | 32 | 
 

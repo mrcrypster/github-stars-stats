@@ -1,6 +1,6 @@
 # tezc/sc - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 176
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 1854 | 176 | 
 | 2023-01-13 | 1854 | 176 | 
 | 2023-01-12 | 1852 | 176 | 
 | 2023-01-11 | 1851 | 176 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 1816 | 169 | 
 | 2022-12-17 | 1816 | 168 | 
 | 2022-12-16 | 1813 | 167 | 
-| 2022-12-15 | 1813 | 167 | 
 

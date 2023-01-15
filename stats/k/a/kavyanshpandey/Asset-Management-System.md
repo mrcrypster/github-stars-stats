@@ -1,6 +1,6 @@
 # kavyanshpandey/Asset-Management-System - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 3 | 31 | 
 | 2023-01-13 | 3 | 31 | 
 | 2023-01-12 | 3 | 32 | 
 | 2023-01-11 | 3 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 2 | 32 | 
 | 2022-12-17 | 2 | 32 | 
 | 2022-12-16 | 2 | 32 | 
-| 2022-12-15 | 2 | 32 | 
 

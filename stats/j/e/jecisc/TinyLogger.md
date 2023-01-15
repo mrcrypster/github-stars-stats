@@ -1,6 +1,6 @@
 # jecisc/TinyLogger - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 13 | 6 | 
 | 2023-01-13 | 13 | 6 | 
 | 2023-01-12 | 13 | 6 | 
 | 2023-01-11 | 13 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-19 | 13 | 6 | 
 | 2022-12-18 | 13 | 6 | 
 | 2022-12-17 | 13 | 6 | 
-| 2022-12-16 | 13 | 6 | 
 

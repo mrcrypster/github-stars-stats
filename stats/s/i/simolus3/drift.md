@@ -1,8 +1,8 @@
 # simolus3/drift - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 242
+☋ Forks: 243
 
 ★ Stars: 1824
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 1824 | 243 | 
 | 2023-01-13 | 1824 | 242 | 
 | 2023-01-12 | 1824 | 242 | 
 | 2023-01-11 | 1822 | 241 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 1798 | 237 | 
 | 2022-12-17 | 1797 | 237 | 
 | 2022-12-16 | 1796 | 237 | 
-| 2022-12-15 | 1795 | 237 | 
 

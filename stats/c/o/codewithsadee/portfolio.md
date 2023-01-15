@@ -1,10 +1,10 @@
 # codewithsadee/portfolio - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 26
 
-★ Stars: 136
+★ Stars: 135
 
 [Open repository](https://github.com/codewithsadee/portfolio)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 135 | 26 | 
 | 2023-01-13 | 136 | 26 | 
 | 2023-01-12 | 135 | 26 | 
 | 2023-01-11 | 134 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 125 | 23 | 
 | 2022-12-17 | 125 | 23 | 
 | 2022-12-16 | 124 | 23 | 
-| 2022-12-15 | 124 | 23 | 
 

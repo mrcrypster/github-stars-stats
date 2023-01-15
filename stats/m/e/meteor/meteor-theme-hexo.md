@@ -1,6 +1,6 @@
 # meteor/meteor-theme-hexo - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 63 | 26 | 
 | 2023-01-13 | 63 | 26 | 
 | 2023-01-12 | 63 | 26 | 
 | 2023-01-11 | 63 | 26 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 63 | 26 | 
 | 2022-12-17 | 63 | 26 | 
 | 2022-12-16 | 63 | 26 | 
-| 2022-12-15 | 63 | 26 | 
 

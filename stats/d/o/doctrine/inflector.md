@@ -1,6 +1,6 @@
 # doctrine/inflector - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 119
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 10961 | 119 | 
 | 2023-01-13 | 10961 | 119 | 
 | 2023-01-12 | 10960 | 119 | 
 | 2023-01-11 | 10955 | 118 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-19 | 10940 | 117 | 
 | 2022-12-18 | 10939 | 117 | 
 | 2022-12-17 | 10939 | 117 | 
-| 2022-12-16 | 10937 | 118 | 
 

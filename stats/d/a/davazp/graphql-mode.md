@@ -1,6 +1,6 @@
 # davazp/graphql-mode - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 144 | 28 | 
 | 2023-01-13 | 144 | 28 | 
 | 2023-01-12 | 144 | 28 | 
 | 2023-01-11 | 144 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 144 | 28 | 
 | 2022-12-17 | 144 | 28 | 
 | 2022-12-16 | 144 | 28 | 
-| 2022-12-15 | 144 | 28 | 
 

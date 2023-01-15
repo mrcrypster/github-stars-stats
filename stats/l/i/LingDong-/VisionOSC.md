@@ -1,10 +1,10 @@
 # LingDong-/VisionOSC - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 1
 
-★ Stars: 65
+★ Stars: 66
 
 [Open repository](https://github.com/LingDong-/VisionOSC)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 66 | 1 | 
 | 2023-01-13 | 65 | 1 | 
 | 2023-01-12 | 65 | 1 | 
 | 2023-01-11 | 65 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 65 | 1 | 
 | 2022-12-17 | 65 | 1 | 
 | 2022-12-16 | 65 | 1 | 
-| 2022-12-15 | 65 | 1 | 
 

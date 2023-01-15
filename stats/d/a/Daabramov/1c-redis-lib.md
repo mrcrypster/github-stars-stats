@@ -1,6 +1,6 @@
 # Daabramov/1c-redis-lib - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 18 | 1 | 
 | 2023-01-13 | 18 | 1 | 
 | 2023-01-12 | 18 | 1 | 
 | 2023-01-11 | 18 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 15 | 1 | 
 | 2022-12-17 | 15 | 1 | 
 | 2022-12-16 | 14 | 1 | 
-| 2022-12-15 | 14 | 1 | 
 

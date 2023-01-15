@@ -1,10 +1,10 @@
 # littlefs-project/littlefs - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 619
 
-★ Stars: 3715
+★ Stars: 3716
 
 [Open repository](https://github.com/littlefs-project/littlefs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 3716 | 619 | 
 | 2023-01-13 | 3715 | 619 | 
 | 2023-01-12 | 3711 | 617 | 
 | 2023-01-11 | 3709 | 617 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 3686 | 612 | 
 | 2022-12-17 | 3684 | 612 | 
 | 2022-12-16 | 3682 | 612 | 
-| 2022-12-15 | 3683 | 611 | 
 

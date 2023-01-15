@@ -1,10 +1,10 @@
 # dotnet/csharp-notebooks - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 167
+☋ Forks: 168
 
-★ Stars: 460
+★ Stars: 461
 
 [Open repository](https://github.com/dotnet/csharp-notebooks)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 461 | 168 | 
 | 2023-01-13 | 460 | 167 | 
 | 2023-01-12 | 457 | 167 | 
 | 2023-01-11 | 455 | 166 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 419 | 161 | 
 | 2022-12-17 | 418 | 160 | 
 | 2022-12-16 | 418 | 159 | 
-| 2022-12-15 | 418 | 159 | 
 

@@ -1,10 +1,10 @@
 # DarkFlippers/unleashed-firmware - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 408
+☋ Forks: 410
 
-★ Stars: 4626
+★ Stars: 4662
 
 [Open repository](https://github.com/DarkFlippers/unleashed-firmware)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 4662 | 410 | 
 | 2023-01-13 | 4626 | 408 | 
 | 2023-01-12 | 4578 | 405 | 
 | 2023-01-11 | 4536 | 400 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 3270 | 296 | 
 | 2022-12-17 | 3227 | 295 | 
 | 2022-12-16 | 3190 | 292 | 
-| 2022-12-15 | 3143 | 291 | 
 

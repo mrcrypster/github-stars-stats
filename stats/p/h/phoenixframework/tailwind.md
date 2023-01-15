@@ -1,8 +1,8 @@
 # phoenixframework/tailwind - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 42
+☋ Forks: 43
 
 ★ Stars: 416
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 416 | 43 | 
 | 2023-01-13 | 416 | 42 | 
 | 2023-01-12 | 416 | 42 | 
 | 2023-01-11 | 416 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 415 | 41 | 
 | 2022-12-17 | 415 | 41 | 
 | 2022-12-16 | 413 | 40 | 
-| 2022-12-15 | 412 | 40 | 
 

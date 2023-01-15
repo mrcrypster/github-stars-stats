@@ -1,6 +1,6 @@
 # Pegah-Ardehkhani/Statistics-and-Probability-in-Python - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 57 | 13 | 
 | 2023-01-13 | 57 | 13 | 
 | 2023-01-12 | 57 | 13 | 
 | 2023-01-11 | 57 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-19 | 54 | 12 | 
 | 2022-12-18 | 54 | 12 | 
 | 2022-12-17 | 54 | 12 | 
-| 2022-12-16 | 54 | 12 | 
 

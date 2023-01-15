@@ -1,6 +1,6 @@
 # apache/rocketmq-site - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 153
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 42 | 153 | 
 | 2023-01-13 | 42 | 153 | 
 | 2023-01-12 | 42 | 154 | 
 | 2023-01-11 | 41 | 150 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 41 | 145 | 
 | 2022-12-17 | 41 | 144 | 
 | 2022-12-16 | 41 | 143 | 
-| 2022-12-15 | 41 | 143 | 
 

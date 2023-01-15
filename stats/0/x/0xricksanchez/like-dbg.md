@@ -1,10 +1,10 @@
 # 0xricksanchez/like-dbg - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 49
 
-★ Stars: 656
+★ Stars: 658
 
 [Open repository](https://github.com/0xricksanchez/like-dbg)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 658 | 49 | 
 | 2023-01-13 | 656 | 49 | 
 | 2023-01-12 | 656 | 49 | 
 | 2023-01-11 | 656 | 49 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 602 | 46 | 
 | 2022-12-17 | 602 | 46 | 
 | 2022-12-16 | 602 | 46 | 
-| 2022-12-15 | 599 | 44 | 
 

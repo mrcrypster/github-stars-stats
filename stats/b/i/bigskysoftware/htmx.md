@@ -1,10 +1,10 @@
 # bigskysoftware/htmx - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 385
 
-★ Stars: 10304
+★ Stars: 10315
 
 [Open repository](https://github.com/bigskysoftware/htmx)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 10315 | 385 | 
 | 2023-01-13 | 10304 | 385 | 
 | 2023-01-12 | 10290 | 385 | 
 | 2023-01-11 | 10279 | 385 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 10040 | 380 | 
 | 2022-12-17 | 10026 | 380 | 
 | 2022-12-16 | 10019 | 381 | 
-| 2022-12-15 | 9988 | 380 | 
 

@@ -1,10 +1,10 @@
 # bilibili/flv.js - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 3345
 
-★ Stars: 21872
+★ Stars: 21873
 
 [Open repository](https://github.com/bilibili/flv.js)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 21873 | 3345 | 
 | 2023-01-13 | 21872 | 3345 | 
 | 2023-01-12 | 21868 | 3346 | 
 | 2023-01-11 | 21868 | 3347 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 21814 | 3342 | 
 | 2022-12-17 | 21812 | 3343 | 
 | 2022-12-16 | 21808 | 3343 | 
-| 2022-12-15 | 21803 | 3343 | 
 

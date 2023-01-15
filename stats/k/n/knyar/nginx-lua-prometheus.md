@@ -1,6 +1,6 @@
 # knyar/nginx-lua-prometheus - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 209
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 1238 | 209 | 
 | 2023-01-13 | 1238 | 209 | 
 | 2023-01-12 | 1238 | 209 | 
 | 2023-01-11 | 1235 | 209 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 1229 | 207 | 
 | 2022-12-17 | 1229 | 207 | 
 | 2022-12-16 | 1229 | 207 | 
-| 2022-12-15 | 1227 | 207 | 
 

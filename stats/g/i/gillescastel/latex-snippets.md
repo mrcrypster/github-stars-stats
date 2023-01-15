@@ -1,6 +1,6 @@
 # gillescastel/latex-snippets - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 175
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 788 | 175 | 
 | 2023-01-13 | 788 | 175 | 
 | 2023-01-12 | 787 | 175 | 
 | 2023-01-11 | 787 | 175 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-19 | 777 | 176 | 
 | 2022-12-18 | 775 | 176 | 
 | 2022-12-17 | 774 | 176 | 
-| 2022-12-16 | 774 | 176 | 
 

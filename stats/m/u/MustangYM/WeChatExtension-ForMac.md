@@ -1,8 +1,8 @@
 # MustangYM/WeChatExtension-ForMac - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 3445
+☋ Forks: 3446
 
 ★ Stars: 20298
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 20298 | 3446 | 
 | 2023-01-13 | 20298 | 3445 | 
 | 2023-01-12 | 20292 | 3444 | 
 | 2023-01-11 | 20282 | 3444 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 20226 | 3431 | 
 | 2022-12-17 | 20225 | 3431 | 
 | 2022-12-16 | 20223 | 3430 | 
-| 2022-12-15 | 20220 | 3430 | 
 

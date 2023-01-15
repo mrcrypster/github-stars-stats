@@ -1,6 +1,6 @@
 # daliansky/XiaoMi-Pro-Hackintosh - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 491
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 2487 | 491 | 
 | 2023-01-13 | 2487 | 491 | 
 | 2023-01-12 | 2485 | 491 | 
 | 2023-01-11 | 2484 | 491 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 2478 | 490 | 
 | 2022-12-17 | 2478 | 490 | 
 | 2022-12-16 | 2477 | 490 | 
-| 2022-12-15 | 2476 | 490 | 
 

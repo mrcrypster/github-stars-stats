@@ -1,10 +1,10 @@
 # crazy-max/diun - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 81
 
-★ Stars: 1701
+★ Stars: 1702
 
 [Open repository](https://github.com/crazy-max/diun)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 1702 | 81 | 
 | 2023-01-13 | 1701 | 81 | 
 | 2023-01-12 | 1700 | 81 | 
 | 2023-01-11 | 1698 | 81 | 

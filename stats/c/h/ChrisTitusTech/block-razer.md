@@ -1,10 +1,10 @@
 # ChrisTitusTech/block-razer - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 4
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/ChrisTitusTech/block-razer)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 31 | 4 | 
 | 2023-01-13 | 30 | 4 | 
 | 2023-01-12 | 30 | 4 | 
 | 2023-01-11 | 30 | 4 | 

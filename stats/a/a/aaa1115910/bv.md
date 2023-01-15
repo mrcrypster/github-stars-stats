@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 14
 
-☋ Forks: 25
+☋ Forks: 31
 
-★ Stars: 389
+★ Stars: 393
 
 [Open repository](https://github.com/aaa1115910/bv)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-14 | 389 | 25 | 
+| 2023-01-14 | 393 | 31 | 
 | 2023-01-13 | 389 | 25 | 
 | 2023-01-12 | 378 | 23 | 
 | 2023-01-11 | 362 | 21 | 

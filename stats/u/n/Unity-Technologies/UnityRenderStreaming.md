@@ -1,10 +1,10 @@
 # Unity-Technologies/UnityRenderStreaming - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 275
 
-★ Stars: 972
+★ Stars: 974
 
 [Open repository](https://github.com/Unity-Technologies/UnityRenderStreaming)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 974 | 275 | 
 | 2023-01-13 | 972 | 275 | 
 | 2023-01-12 | 972 | 274 | 
 | 2023-01-11 | 971 | 274 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 964 | 272 | 
 | 2022-12-17 | 964 | 272 | 
 | 2022-12-16 | 962 | 272 | 
-| 2022-12-15 | 960 | 270 | 
 

@@ -1,8 +1,8 @@
 # kautukkundan/Awesome-Profile-README-templates - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 7185
+☋ Forks: 7183
 
 ★ Stars: 9789
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 9789 | 7183 | 
 | 2023-01-13 | 9789 | 7185 | 
 | 2023-01-12 | 9788 | 7187 | 
 | 2023-01-11 | 9788 | 7186 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 9724 | 7106 | 
 | 2022-12-17 | 9723 | 7104 | 
 | 2022-12-16 | 9721 | 7102 | 
-| 2022-12-15 | 9722 | 7099 | 
 

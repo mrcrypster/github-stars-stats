@@ -1,6 +1,6 @@
 # saha-rajdeep/kubernetescode - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 290
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 28 | 290 | 
 | 2023-01-13 | 28 | 290 | 
 | 2023-01-11 | 28 | 289 | 
 | 2023-01-10 | 28 | 287 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 28 | 264 | 
 | 2022-12-17 | 28 | 263 | 
 | 2022-12-16 | 28 | 263 | 
-| 2022-12-15 | 28 | 262 | 
 

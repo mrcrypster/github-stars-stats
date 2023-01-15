@@ -1,10 +1,10 @@
 # t3l3machus/Villain - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 375
+☋ Forks: 378
 
-★ Stars: 2218
+★ Stars: 2230
 
 [Open repository](https://github.com/t3l3machus/Villain)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 2230 | 378 | 
 | 2023-01-13 | 2218 | 375 | 
 | 2023-01-12 | 2216 | 374 | 
 | 2023-01-11 | 2213 | 373 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 1939 | 330 | 
 | 2022-12-17 | 1922 | 327 | 
 | 2022-12-16 | 1903 | 324 | 
-| 2022-12-15 | 1887 | 322 | 
 

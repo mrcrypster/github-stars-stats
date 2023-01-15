@@ -1,10 +1,10 @@
 # open5gs/open5gs - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 475
+☋ Forks: 476
 
-★ Stars: 1046
+★ Stars: 1047
 
 [Open repository](https://github.com/open5gs/open5gs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 1047 | 476 | 
 | 2023-01-13 | 1046 | 475 | 
 | 2023-01-12 | 1045 | 475 | 
 | 2023-01-11 | 1045 | 475 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 1030 | 468 | 
 | 2022-12-17 | 1029 | 468 | 
 | 2022-12-16 | 1029 | 468 | 
-| 2022-12-15 | 1029 | 467 | 
 

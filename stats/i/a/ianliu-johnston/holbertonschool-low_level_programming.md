@@ -1,10 +1,10 @@
 # ianliu-johnston/holbertonschool-low_level_programming - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 92
 
-★ Stars: 23
+★ Stars: 25
 
 [Open repository](https://github.com/ianliu-johnston/holbertonschool-low_level_programming)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 25 | 92 | 
 | 2023-01-13 | 23 | 92 | 
 | 2023-01-12 | 23 | 92 | 
 | 2023-01-11 | 23 | 91 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-19 | 21 | 89 | 
 | 2022-12-17 | 21 | 89 | 
 | 2022-12-16 | 21 | 89 | 
-| 2022-12-15 | 21 | 89 | 
 

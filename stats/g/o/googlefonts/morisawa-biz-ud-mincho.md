@@ -1,10 +1,10 @@
 # googlefonts/morisawa-biz-ud-mincho - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 10
 
-★ Stars: 415
+★ Stars: 416
 
 [Open repository](https://github.com/googlefonts/morisawa-biz-ud-mincho)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 416 | 10 | 
 | 2023-01-13 | 415 | 10 | 
 | 2023-01-12 | 415 | 10 | 
 | 2023-01-10 | 415 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 408 | 10 | 
 | 2022-12-17 | 407 | 10 | 
 | 2022-12-16 | 406 | 10 | 
-| 2022-12-15 | 404 | 10 | 
 

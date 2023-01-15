@@ -1,10 +1,10 @@
 # openai/improved-diffusion - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 210
+☋ Forks: 211
 
-★ Stars: 1253
+★ Stars: 1255
 
 [Open repository](https://github.com/openai/improved-diffusion)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 1255 | 211 | 
 | 2023-01-13 | 1253 | 210 | 
 | 2023-01-12 | 1247 | 209 | 
 | 2023-01-11 | 1242 | 209 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-19 | 1158 | 198 | 
 | 2022-12-17 | 1155 | 198 | 
 | 2022-12-16 | 1153 | 198 | 
-| 2022-12-15 | 1150 | 198 | 
 

@@ -1,10 +1,10 @@
 # zesterer/openmw-shaders - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 3
 
-★ Stars: 44
+★ Stars: 46
 
 [Open repository](https://github.com/zesterer/openmw-shaders)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 46 | 3 | 
 | 2023-01-13 | 44 | 3 | 
 | 2023-01-12 | 44 | 3 | 
 | 2023-01-11 | 42 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 39 | 2 | 
 | 2022-12-17 | 39 | 2 | 
 | 2022-12-16 | 39 | 2 | 
-| 2022-12-15 | 39 | 2 | 
 

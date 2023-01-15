@@ -1,10 +1,10 @@
 # console-rs/indicatif - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 192
 
-★ Stars: 3228
+★ Stars: 3229
 
 [Open repository](https://github.com/console-rs/indicatif)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 3229 | 192 | 
 | 2023-01-13 | 3228 | 192 | 
 | 2023-01-12 | 3225 | 193 | 
 | 2023-01-11 | 3223 | 193 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 3175 | 191 | 
 | 2022-12-17 | 3173 | 191 | 
 | 2022-12-16 | 3171 | 191 | 
-| 2022-12-15 | 3170 | 192 | 
 

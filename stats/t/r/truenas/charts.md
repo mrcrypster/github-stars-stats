@@ -1,10 +1,10 @@
 # truenas/charts - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 110
 
-★ Stars: 89
+★ Stars: 90
 
 [Open repository](https://github.com/truenas/charts)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 90 | 110 | 
 | 2023-01-13 | 89 | 110 | 
 | 2023-01-12 | 89 | 109 | 
 | 2023-01-11 | 89 | 109 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 86 | 102 | 
 | 2022-12-17 | 86 | 102 | 
 | 2022-12-16 | 86 | 101 | 
-| 2022-12-15 | 85 | 101 | 
 

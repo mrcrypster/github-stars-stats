@@ -1,10 +1,10 @@
 # facebookresearch/dino - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 652
+☋ Forks: 651
 
-★ Stars: 4236
+★ Stars: 4238
 
 [Open repository](https://github.com/facebookresearch/dino)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 4238 | 651 | 
 | 2023-01-13 | 4236 | 652 | 
 | 2023-01-12 | 4236 | 650 | 
 | 2023-01-11 | 4232 | 649 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 4181 | 643 | 
 | 2022-12-17 | 4181 | 642 | 
 | 2022-12-16 | 4179 | 641 | 
-| 2022-12-15 | 4177 | 640 | 
 

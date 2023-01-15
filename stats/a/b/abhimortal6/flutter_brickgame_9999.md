@@ -1,10 +1,10 @@
 # abhimortal6/flutter_brickgame_9999 - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 8
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/abhimortal6/flutter_brickgame_9999)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 27 | 8 | 
 | 2023-01-13 | 26 | 8 | 
 | 2023-01-12 | 26 | 8 | 
 | 2023-01-11 | 26 | 8 | 

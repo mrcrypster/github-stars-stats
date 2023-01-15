@@ -1,10 +1,10 @@
 # theninthsky/client-side-rendering - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 29
 
-★ Stars: 538
+★ Stars: 540
 
 [Open repository](https://github.com/theninthsky/client-side-rendering)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 540 | 29 | 
 | 2023-01-13 | 538 | 29 | 
 | 2023-01-12 | 538 | 29 | 
 | 2023-01-11 | 532 | 29 | 

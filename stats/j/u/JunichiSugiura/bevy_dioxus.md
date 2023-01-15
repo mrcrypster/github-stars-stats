@@ -1,10 +1,10 @@
 # JunichiSugiura/bevy_dioxus - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 6
 
-★ Stars: 274
+★ Stars: 275
 
 [Open repository](https://github.com/JunichiSugiura/bevy_dioxus)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 275 | 6 | 
 | 2023-01-13 | 274 | 6 | 
 | 2023-01-12 | 273 | 6 | 
 | 2023-01-11 | 273 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 260 | 5 | 
 | 2022-12-17 | 260 | 5 | 
 | 2022-12-16 | 260 | 5 | 
-| 2022-12-15 | 259 | 5 | 
 

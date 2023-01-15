@@ -1,10 +1,10 @@
 # H4kor/graph-force - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 0
 
-★ Stars: 159
+★ Stars: 160
 
 [Open repository](https://github.com/H4kor/graph-force)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 160 | - | 
 | 2023-01-13 | 159 | - | 
 | 2023-01-12 | 159 | - | 
 | 2023-01-11 | 159 | - | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 159 | - | 
 | 2022-12-17 | 159 | - | 
 | 2022-12-16 | 159 | - | 
-| 2022-12-15 | 157 | - | 
 

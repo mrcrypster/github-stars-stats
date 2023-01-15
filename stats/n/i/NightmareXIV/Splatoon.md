@@ -1,8 +1,8 @@
 # NightmareXIV/Splatoon - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 40
+☋ Forks: 41
 
 ★ Stars: 122
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 122 | 41 | 
 | 2023-01-13 | 122 | 40 | 
 | 2023-01-12 | 121 | 40 | 
 | 2023-01-11 | 119 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 102 | 34 | 
 | 2022-12-17 | 102 | 34 | 
 | 2022-12-16 | 102 | 34 | 
-| 2022-12-15 | 102 | 34 | 
 

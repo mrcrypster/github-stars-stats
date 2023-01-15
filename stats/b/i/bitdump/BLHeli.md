@@ -1,10 +1,10 @@
 # bitdump/BLHeli - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 988
+☋ Forks: 991
 
-★ Stars: 1527
+★ Stars: 1529
 
 [Open repository](https://github.com/bitdump/BLHeli)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 1529 | 991 | 
 | 2023-01-13 | 1527 | 988 | 
 | 2023-01-12 | 1529 | 988 | 
 | 2023-01-11 | 1529 | 988 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 1520 | 987 | 
 | 2022-12-17 | 1520 | 987 | 
 | 2022-12-16 | 1520 | 987 | 
-| 2022-12-15 | 1520 | 987 | 
 

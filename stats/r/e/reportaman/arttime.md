@@ -1,6 +1,6 @@
 # reportaman/arttime - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 511 | 9 | 
 | 2023-01-13 | 511 | 9 | 
 | 2023-01-12 | 501 | 9 | 
 | 2023-01-11 | 496 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 475 | 9 | 
 | 2022-12-17 | 473 | 9 | 
 | 2022-12-16 | 471 | 9 | 
-| 2022-12-15 | 467 | 9 | 
 

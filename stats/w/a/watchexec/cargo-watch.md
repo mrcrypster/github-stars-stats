@@ -1,6 +1,6 @@
 # watchexec/cargo-watch - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 71
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 2033 | 71 | 
 | 2023-01-13 | 2033 | 71 | 
 | 2023-01-12 | 2032 | 71 | 
 | 2023-01-11 | 2026 | 71 | 

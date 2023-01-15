@@ -1,10 +1,10 @@
 # sebaxakerhtc/rdpwrap.ini - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 673
+☋ Forks: 672
 
-★ Stars: 1184
+★ Stars: 1185
 
 [Open repository](https://github.com/sebaxakerhtc/rdpwrap.ini)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 1185 | 672 | 
 | 2023-01-13 | 1184 | 673 | 
 | 2023-01-12 | 1184 | 672 | 
 | 2023-01-11 | 1180 | 672 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 1153 | 665 | 
 | 2022-12-17 | 1152 | 665 | 
 | 2022-12-16 | 1150 | 664 | 
-| 2022-12-15 | 1149 | 663 | 
 

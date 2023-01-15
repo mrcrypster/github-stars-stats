@@ -1,10 +1,10 @@
 # adobe-research/custom-diffusion - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 43
 
-★ Stars: 953
+★ Stars: 955
 
 [Open repository](https://github.com/adobe-research/custom-diffusion)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 955 | 43 | 
 | 2023-01-14 | 953 | 43 | 
 | 2023-01-13 | 945 | 43 | 
 | 2023-01-11 | 929 | 42 | 

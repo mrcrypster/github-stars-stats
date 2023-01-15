@@ -1,10 +1,10 @@
 # kboghdady/youTube_ads_4_pi-hole - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 240
 
-★ Stars: 2052
+★ Stars: 2053
 
 [Open repository](https://github.com/kboghdady/youTube_ads_4_pi-hole)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 2053 | 240 | 
 | 2023-01-13 | 2052 | 240 | 
 | 2023-01-12 | 2051 | 240 | 
 | 2023-01-11 | 2049 | 240 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 2013 | 238 | 
 | 2022-12-17 | 2012 | 238 | 
 | 2022-12-16 | 2011 | 237 | 
-| 2022-12-15 | 2011 | 237 | 
 

@@ -1,10 +1,10 @@
 # colmap/colmap - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 1160
 
-★ Stars: 4731
+★ Stars: 4735
 
 [Open repository](https://github.com/colmap/colmap)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 4735 | 1160 | 
 | 2023-01-13 | 4731 | 1160 | 
 | 2023-01-12 | 4730 | 1160 | 
 | 2023-01-11 | 4727 | 1159 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 4675 | 1156 | 
 | 2022-12-17 | 4671 | 1156 | 
 | 2022-12-16 | 4670 | 1155 | 
-| 2022-12-15 | 4668 | 1155 | 
 

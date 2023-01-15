@@ -1,10 +1,10 @@
 # jamii/hytradboi-jam-2022 - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 0
 
-★ Stars: 178
+★ Stars: 179
 
 [Open repository](https://github.com/jamii/hytradboi-jam-2022)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 179 | - | 
 | 2023-01-13 | 178 | - | 
 | 2023-01-12 | 178 | - | 
 | 2023-01-11 | 178 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 178 | - | 
 | 2022-12-17 | 178 | - | 
 | 2022-12-16 | 178 | - | 
-| 2022-12-15 | 178 | - | 
 

@@ -1,6 +1,6 @@
 # Fredtoby/trajectoryprediction - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 95 | 18 | 
 | 2023-01-14 | 95 | 18 | 
 | 2023-01-13 | 95 | 18 | 
 | 2023-01-11 | 95 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-18 | 95 | 17 | 
 | 2022-12-17 | 95 | 17 | 
 | 2022-12-16 | 95 | 17 | 
-| 2022-12-15 | 95 | 17 | 
 

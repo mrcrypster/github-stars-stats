@@ -1,10 +1,10 @@
 # kean/Get - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 54
 
-★ Stars: 746
+★ Stars: 747
 
 [Open repository](https://github.com/kean/Get)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 747 | 54 | 
 | 2023-01-13 | 746 | 54 | 
 | 2023-01-12 | 746 | 54 | 
 | 2023-01-11 | 746 | 54 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 734 | 54 | 
 | 2022-12-17 | 733 | 54 | 
 | 2022-12-16 | 733 | 54 | 
-| 2022-12-15 | 733 | 53 | 
 

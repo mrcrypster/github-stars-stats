@@ -1,10 +1,10 @@
 # esokolov/ml-course-hse - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
-☋ Forks: 988
+☋ Forks: 990
 
-★ Stars: 2247
+★ Stars: 2249
 
 [Open repository](https://github.com/esokolov/ml-course-hse)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 2249 | 990 | 
 | 2023-01-14 | 2247 | 988 | 
 | 2023-01-12 | 2247 | 988 | 
 | 2023-01-11 | 2247 | 987 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-18 | 2205 | 972 | 
 | 2022-12-17 | 2202 | 971 | 
 | 2022-12-16 | 2202 | 970 | 
-| 2022-12-15 | 2202 | 970 | 
 

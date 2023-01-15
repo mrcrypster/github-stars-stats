@@ -1,6 +1,6 @@
 # mochman/Bypass_CGNAT - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 312 | 27 | 
 | 2023-01-13 | 312 | 27 | 
 | 2023-01-12 | 312 | 25 | 
 | 2023-01-11 | 310 | 25 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 288 | 25 | 
 | 2022-12-17 | 288 | 24 | 
 | 2022-12-16 | 288 | 24 | 
-| 2022-12-15 | 288 | 24 | 
 

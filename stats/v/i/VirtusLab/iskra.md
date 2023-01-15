@@ -1,6 +1,6 @@
 # VirtusLab/iskra - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 103 | 6 | 
 | 2023-01-13 | 103 | 6 | 
 | 2023-01-12 | 102 | 6 | 
 | 2023-01-11 | 102 | 6 | 

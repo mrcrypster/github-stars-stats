@@ -1,6 +1,6 @@
 # davidprowe/BadBlood - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 224
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 1493 | 224 | 
 | 2023-01-13 | 1493 | 224 | 
 | 2023-01-12 | 1493 | 224 | 
 | 2023-01-11 | 1491 | 222 | 

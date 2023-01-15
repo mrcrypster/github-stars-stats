@@ -1,10 +1,10 @@
 # ichord/At.js - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 699
 
-★ Stars: 5295
+★ Stars: 5296
 
 [Open repository](https://github.com/ichord/At.js)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 5296 | 699 | 
 | 2023-01-13 | 5295 | 699 | 
 | 2023-01-12 | 5295 | 699 | 
 | 2023-01-11 | 5295 | 699 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 5295 | 699 | 
 | 2022-12-17 | 5295 | 699 | 
 | 2022-12-16 | 5295 | 699 | 
-| 2022-12-15 | 5295 | 699 | 
 

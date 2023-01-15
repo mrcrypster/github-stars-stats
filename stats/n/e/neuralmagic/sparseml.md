@@ -1,6 +1,6 @@
 # neuralmagic/sparseml - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 108
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 1469 | 108 | 
 | 2023-01-13 | 1469 | 108 | 
 | 2023-01-12 | 1469 | 108 | 
 | 2023-01-11 | 1467 | 106 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 1454 | 104 | 
 | 2022-12-17 | 1449 | 104 | 
 | 2022-12-16 | 1447 | 104 | 
-| 2022-12-15 | 1446 | 103 | 
 

@@ -1,6 +1,6 @@
 # grame-cncm/faustlibraries - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 48
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 140 | 48 | 
+| 2023-01-14 | 140 | 48 | 
 | 2023-01-13 | 140 | 48 | 
 | 2023-01-12 | 140 | 48 | 
 | 2023-01-11 | 138 | 48 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-19 | 136 | 48 | 
 | 2022-12-18 | 136 | 48 | 
 | 2022-12-17 | 136 | 48 | 
-| 2022-12-16 | 136 | 48 | 
 

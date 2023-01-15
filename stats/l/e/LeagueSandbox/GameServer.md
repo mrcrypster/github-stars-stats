@@ -1,6 +1,6 @@
 # LeagueSandbox/GameServer - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 394
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 921 | 394 | 
 | 2023-01-13 | 921 | 394 | 
 | 2023-01-12 | 921 | 394 | 
 | 2023-01-11 | 921 | 394 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 917 | 394 | 
 | 2022-12-17 | 917 | 393 | 
 | 2022-12-16 | 917 | 393 | 
-| 2022-12-15 | 917 | 392 | 
 

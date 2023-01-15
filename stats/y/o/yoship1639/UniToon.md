@@ -1,6 +1,6 @@
 # yoship1639/UniToon - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 439 | 27 | 
 | 2023-01-13 | 439 | 27 | 
 | 2023-01-12 | 439 | 27 | 
 | 2023-01-11 | 438 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 435 | 26 | 
 | 2022-12-17 | 435 | 26 | 
 | 2022-12-16 | 435 | 26 | 
-| 2022-12-15 | 435 | 26 | 
 

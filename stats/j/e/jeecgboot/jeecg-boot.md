@@ -1,10 +1,10 @@
 # jeecgboot/jeecg-boot - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 12943
+☋ Forks: 12945
 
-★ Stars: 33075
+★ Stars: 33081
 
 [Open repository](https://github.com/jeecgboot/jeecg-boot)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 33081 | 12945 | 
 | 2023-01-13 | 33075 | 12943 | 
 | 2023-01-12 | 33071 | 12942 | 
 | 2023-01-11 | 33053 | 12940 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 32804 | 12862 | 
 | 2022-12-17 | 32798 | 12859 | 
 | 2022-12-16 | 32787 | 12856 | 
-| 2022-12-15 | 32778 | 12851 | 
 

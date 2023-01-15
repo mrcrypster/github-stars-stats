@@ -1,10 +1,10 @@
 # opa334/TrollStore - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 392
+☋ Forks: 394
 
-★ Stars: 5909
+★ Stars: 5933
 
 [Open repository](https://github.com/opa334/TrollStore)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 5933 | 394 | 
 | 2023-01-13 | 5909 | 392 | 
 | 2023-01-12 | 5904 | 392 | 
 | 2023-01-11 | 5883 | 392 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 5497 | 384 | 
 | 2022-12-17 | 5481 | 384 | 
 | 2022-12-16 | 5471 | 384 | 
-| 2022-12-15 | 5459 | 382 | 
 

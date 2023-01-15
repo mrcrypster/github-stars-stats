@@ -1,6 +1,6 @@
 # JoshuaTrujillo15/loopinator - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 107 | 5 | 
 | 2023-01-13 | 107 | 5 | 
 | 2023-01-12 | 107 | 5 | 
 | 2023-01-11 | 106 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 105 | 5 | 
 | 2022-12-17 | 104 | 5 | 
 | 2022-12-16 | 104 | 5 | 
-| 2022-12-15 | 104 | 5 | 
 

@@ -1,6 +1,6 @@
 # moodymudskipper/unglue - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 145 | 3 | 
 | 2023-01-13 | 145 | 3 | 
 | 2023-01-12 | 145 | 3 | 
 | 2023-01-11 | 145 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 143 | 3 | 
 | 2022-12-17 | 143 | 3 | 
 | 2022-12-16 | 143 | 3 | 
-| 2022-12-15 | 142 | 3 | 
 

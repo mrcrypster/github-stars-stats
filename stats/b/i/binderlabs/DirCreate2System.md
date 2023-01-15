@@ -1,10 +1,10 @@
 # binderlabs/DirCreate2System - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 27
 
-★ Stars: 212
+★ Stars: 213
 
 [Open repository](https://github.com/binderlabs/DirCreate2System)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 213 | 27 | 
 | 2023-01-13 | 212 | 27 | 
 | 2023-01-12 | 212 | 27 | 
 | 2023-01-11 | 212 | 27 | 

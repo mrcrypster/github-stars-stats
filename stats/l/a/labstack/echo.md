@@ -1,10 +1,10 @@
 # labstack/echo - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 2088
 
-★ Stars: 24678
+★ Stars: 24682
 
 [Open repository](https://github.com/labstack/echo)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 24682 | 2088 | 
 | 2023-01-14 | 24678 | 2088 | 
 | 2023-01-13 | 24670 | 2087 | 
 | 2023-01-11 | 24661 | 2088 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 24488 | 2080 | 
 | 2022-12-18 | 24484 | 2080 | 
 | 2022-12-17 | 24478 | 2080 | 
-| 2022-12-16 | 24467 | 2079 | 
 

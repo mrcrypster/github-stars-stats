@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 14
 
-☋ Forks: 904
+☋ Forks: 903
 
-★ Stars: 13347
+★ Stars: 13355
 
 [Open repository](https://github.com/RustPython/RustPython)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-14 | 13347 | 904 | 
+| 2023-01-14 | 13355 | 903 | 
 | 2023-01-12 | 13335 | 902 | 
 | 2023-01-11 | 13327 | 901 | 
 | 2023-01-10 | 13316 | 899 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-18 | 12926 | 886 | 
 | 2022-12-17 | 12921 | 886 | 
 | 2022-12-16 | 12916 | 885 | 
-| 2022-12-15 | 12907 | 884 | 
 

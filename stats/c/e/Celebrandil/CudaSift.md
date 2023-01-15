@@ -1,6 +1,6 @@
 # Celebrandil/CudaSift - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 264
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 729 | 264 | 
 | 2023-01-13 | 729 | 264 | 
 | 2023-01-12 | 728 | 264 | 
 | 2023-01-11 | 727 | 264 | 

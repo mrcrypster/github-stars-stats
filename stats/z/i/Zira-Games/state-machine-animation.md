@@ -1,10 +1,10 @@
 # Zira-Games/state-machine-animation - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 0
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/Zira-Games/state-machine-animation)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 22 | - | 
 | 2023-01-13 | 21 | - | 
 | 2023-01-12 | 21 | - | 
 | 2023-01-11 | 21 | - | 

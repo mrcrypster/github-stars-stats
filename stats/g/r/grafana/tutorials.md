@@ -1,10 +1,10 @@
 # grafana/tutorials - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 27
+☋ Forks: 28
 
-★ Stars: 102
+★ Stars: 103
 
 [Open repository](https://github.com/grafana/tutorials)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 103 | 28 | 
 | 2023-01-13 | 102 | 27 | 
 | 2023-01-12 | 102 | 27 | 
 | 2023-01-11 | 102 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 101 | 27 | 
 | 2022-12-17 | 101 | 27 | 
 | 2022-12-16 | 101 | 27 | 
-| 2022-12-15 | 101 | 27 | 
 

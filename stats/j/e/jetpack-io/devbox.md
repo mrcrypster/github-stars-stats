@@ -1,10 +1,10 @@
 # jetpack-io/devbox - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 61
 
-★ Stars: 4697
+★ Stars: 4706
 
 [Open repository](https://github.com/jetpack-io/devbox)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 4706 | 61 | 
 | 2023-01-14 | 4697 | 61 | 
 | 2023-01-12 | 4687 | 61 | 
 | 2023-01-11 | 4684 | 61 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-18 | 4305 | 56 | 
 | 2022-12-17 | 4301 | 56 | 
 | 2022-12-16 | 4298 | 56 | 
-| 2022-12-15 | 4294 | 55 | 
 

@@ -1,10 +1,10 @@
 # MagneticResonanceImaging/MRIReco.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 21
 
-★ Stars: 50
+★ Stars: 51
 
 [Open repository](https://github.com/MagneticResonanceImaging/MRIReco.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 51 | 21 | 
 | 2023-01-13 | 50 | 21 | 
 | 2023-01-12 | 50 | 21 | 
 | 2023-01-11 | 50 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 50 | 20 | 
 | 2022-12-17 | 50 | 20 | 
 | 2022-12-16 | 50 | 20 | 
-| 2022-12-15 | 50 | 20 | 
 

@@ -1,10 +1,10 @@
 # TGX-Android/Telegram-X - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 201
+☋ Forks: 202
 
-★ Stars: 1893
+★ Stars: 1897
 
 [Open repository](https://github.com/TGX-Android/Telegram-X)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 1897 | 202 | 
 | 2023-01-13 | 1893 | 201 | 
 | 2023-01-12 | 1888 | 201 | 
 | 2023-01-11 | 1888 | 200 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 1824 | 190 | 
 | 2022-12-17 | 1822 | 190 | 
 | 2022-12-16 | 1819 | 189 | 
-| 2022-12-15 | 1816 | 188 | 
 

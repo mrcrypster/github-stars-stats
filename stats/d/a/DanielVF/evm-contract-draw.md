@@ -1,6 +1,6 @@
 # DanielVF/evm-contract-draw - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 122 | 13 | 
 | 2023-01-13 | 122 | 13 | 
 | 2023-01-12 | 122 | 13 | 
 | 2023-01-11 | 122 | 13 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 122 | 13 | 
 | 2022-12-17 | 122 | 13 | 
 | 2022-12-16 | 122 | 13 | 
-| 2022-12-15 | 122 | 13 | 
 

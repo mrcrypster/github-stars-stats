@@ -1,6 +1,6 @@
 # coder-nguoi-tay/datn_tkw19 - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 2 | 5 | 
 | 2023-01-13 | 2 | 5 | 
 | 2023-01-12 | 2 | 5 | 
 | 2023-01-11 | 2 | 5 | 

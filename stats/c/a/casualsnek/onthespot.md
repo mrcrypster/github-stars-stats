@@ -1,10 +1,10 @@
 # casualsnek/onthespot - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 18
 
-★ Stars: 185
+★ Stars: 184
 
 [Open repository](https://github.com/casualsnek/onthespot)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 184 | 18 | 
 | 2023-01-13 | 185 | 18 | 
 | 2023-01-12 | 183 | 18 | 
 | 2023-01-11 | 183 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 173 | 17 | 
 | 2022-12-17 | 174 | 17 | 
 | 2022-12-16 | 173 | 17 | 
-| 2022-12-15 | 173 | 17 | 
 

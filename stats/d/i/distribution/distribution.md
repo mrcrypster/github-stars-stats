@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 14
 
 ☋ Forks: 2212
 
-★ Stars: 7194
+★ Stars: 7198
 
 [Open repository](https://github.com/distribution/distribution)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-14 | 7194 | 2212 | 
+| 2023-01-14 | 7198 | 2212 | 
 | 2023-01-13 | 7194 | 2212 | 
 | 2023-01-12 | 7188 | 2209 | 
 | 2023-01-11 | 7186 | 2208 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-18 | 7143 | 2200 | 
 | 2022-12-17 | 7140 | 2200 | 
 | 2022-12-16 | 7139 | 2200 | 
-| 2022-12-15 | 7132 | 2199 | 
 

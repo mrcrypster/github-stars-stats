@@ -1,10 +1,10 @@
 # vinceliuice/grub2-themes - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 187
+☋ Forks: 188
 
-★ Stars: 2278
+★ Stars: 2282
 
 [Open repository](https://github.com/vinceliuice/grub2-themes)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 2282 | 188 | 
 | 2023-01-13 | 2278 | 187 | 
 | 2023-01-12 | 2273 | 187 | 
 | 2023-01-11 | 2270 | 186 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 2216 | 182 | 
 | 2022-12-17 | 2216 | 182 | 
 | 2022-12-16 | 2216 | 183 | 
-| 2022-12-15 | 2215 | 183 | 
 

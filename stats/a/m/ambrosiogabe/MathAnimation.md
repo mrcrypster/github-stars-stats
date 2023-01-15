@@ -1,10 +1,10 @@
 # ambrosiogabe/MathAnimation - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 28
+☋ Forks: 29
 
-★ Stars: 725
+★ Stars: 742
 
 [Open repository](https://github.com/ambrosiogabe/MathAnimation)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 742 | 29 | 
 | 2023-01-13 | 725 | 28 | 
 | 2023-01-12 | 705 | 28 | 
 | 2023-01-11 | 682 | 28 | 

@@ -1,10 +1,10 @@
 # lucaszischka/BottomSheet - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 81
 
-★ Stars: 641
+★ Stars: 642
 
 [Open repository](https://github.com/lucaszischka/BottomSheet)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 642 | 81 | 
 | 2023-01-13 | 641 | 81 | 
 | 2023-01-12 | 641 | 81 | 
 | 2023-01-11 | 641 | 81 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 628 | 79 | 
 | 2022-12-17 | 628 | 79 | 
 | 2022-12-16 | 628 | 79 | 
-| 2022-12-15 | 628 | 78 | 
 

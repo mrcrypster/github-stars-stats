@@ -1,6 +1,6 @@
 # Leoksu/mogenius-ultroid - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 10 | 24 | 
 | 2023-01-13 | 10 | 24 | 
 | 2023-01-12 | 10 | 24 | 
 | 2023-01-11 | 10 | 24 | 

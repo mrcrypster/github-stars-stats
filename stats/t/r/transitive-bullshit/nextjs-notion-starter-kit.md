@@ -1,10 +1,10 @@
 # transitive-bullshit/nextjs-notion-starter-kit - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 15
 
-☋ Forks: 3296
+☋ Forks: 3297
 
-★ Stars: 3725
+★ Stars: 3728
 
 [Open repository](https://github.com/transitive-bullshit/nextjs-notion-starter-kit)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 3728 | 3297 | 
 | 2023-01-13 | 3725 | 3296 | 
 | 2023-01-12 | 3722 | 3296 | 
 | 2023-01-11 | 3714 | 3291 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 3571 | 3163 | 
 | 2022-12-17 | 3566 | 3157 | 
 | 2022-12-16 | 3564 | 3154 | 
-| 2022-12-15 | 3559 | 3153 | 
 

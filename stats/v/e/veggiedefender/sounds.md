@@ -1,6 +1,6 @@
 # veggiedefender/sounds - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 90 | 4 | 
 | 2023-01-13 | 90 | 4 | 
 | 2023-01-12 | 90 | 4 | 
 | 2023-01-11 | 90 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 87 | 4 | 
 | 2022-12-17 | 87 | 4 | 
 | 2022-12-16 | 87 | 4 | 
-| 2022-12-15 | 86 | 4 | 
 

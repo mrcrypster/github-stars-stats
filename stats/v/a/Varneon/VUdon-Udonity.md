@@ -1,10 +1,10 @@
 # Varneon/VUdon-Udonity - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 0
 
-★ Stars: 18
+★ Stars: 20
 
 [Open repository](https://github.com/Varneon/VUdon-Udonity)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 20 | - | 
 | 2023-01-13 | 18 | - | 
 | 2023-01-12 | 18 | - | 
 | 2023-01-11 | 18 | - | 

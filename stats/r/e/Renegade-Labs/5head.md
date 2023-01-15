@@ -1,6 +1,6 @@
 # Renegade-Labs/5head - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 74 | 6 | 
 | 2023-01-13 | 74 | 6 | 
 | 2023-01-12 | 74 | 6 | 
 | 2023-01-11 | 74 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 74 | 6 | 
 | 2022-12-17 | 74 | 6 | 
 | 2022-12-16 | 74 | 6 | 
-| 2022-12-15 | 74 | 6 | 
 

@@ -1,10 +1,10 @@
 # microsoft/Windows-appsample-customers-orders-database - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 204
 
-★ Stars: 466
+★ Stars: 467
 
 [Open repository](https://github.com/microsoft/Windows-appsample-customers-orders-database)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 467 | 204 | 
 | 2023-01-13 | 466 | 204 | 
 | 2023-01-12 | 466 | 204 | 
 | 2023-01-11 | 466 | 204 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 464 | 203 | 
 | 2022-12-17 | 463 | 203 | 
 | 2022-12-16 | 463 | 203 | 
-| 2022-12-15 | 463 | 203 | 
 

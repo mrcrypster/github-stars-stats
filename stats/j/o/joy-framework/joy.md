@@ -1,6 +1,6 @@
 # joy-framework/joy - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 465 | 24 | 
 | 2023-01-13 | 465 | 24 | 
 | 2023-01-12 | 465 | 24 | 
 | 2023-01-11 | 465 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 464 | 24 | 
 | 2022-12-17 | 464 | 24 | 
 | 2022-12-16 | 464 | 24 | 
-| 2022-12-15 | 464 | 24 | 
 

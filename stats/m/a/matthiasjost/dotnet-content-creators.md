@@ -1,10 +1,10 @@
 # matthiasjost/dotnet-content-creators - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 132
 
-★ Stars: 913
+★ Stars: 916
 
 [Open repository](https://github.com/matthiasjost/dotnet-content-creators)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 916 | 132 | 
 | 2023-01-13 | 913 | 132 | 
 | 2023-01-12 | 911 | 132 | 
 | 2023-01-11 | 909 | 132 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 877 | 129 | 
 | 2022-12-17 | 872 | 129 | 
 | 2022-12-16 | 871 | 129 | 
-| 2022-12-15 | 868 | 129 | 
 

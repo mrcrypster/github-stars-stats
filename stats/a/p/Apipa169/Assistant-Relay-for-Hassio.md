@@ -1,10 +1,10 @@
 # Apipa169/Assistant-Relay-for-Hassio - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 87
 
-★ Stars: 216
+★ Stars: 217
 
 [Open repository](https://github.com/Apipa169/Assistant-Relay-for-Hassio)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 217 | 87 | 
 | 2023-01-13 | 216 | 87 | 
 | 2023-01-12 | 216 | 87 | 
 | 2023-01-11 | 216 | 87 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 215 | 84 | 
 | 2022-12-17 | 215 | 84 | 
 | 2022-12-16 | 215 | 84 | 
-| 2022-12-15 | 214 | 84 | 
 

@@ -1,10 +1,10 @@
 # apache/jmeter - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 1823
+☋ Forks: 1825
 
-★ Stars: 6697
+★ Stars: 6701
 
 [Open repository](https://github.com/apache/jmeter)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 6701 | 1825 | 
 | 2023-01-13 | 6697 | 1823 | 
 | 2023-01-12 | 6695 | 1822 | 
 | 2023-01-11 | 6692 | 1822 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 6651 | 1809 | 
 | 2022-12-17 | 6650 | 1808 | 
 | 2022-12-16 | 6648 | 1807 | 
-| 2022-12-15 | 6647 | 1806 | 
 

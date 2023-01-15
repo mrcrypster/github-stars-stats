@@ -1,10 +1,10 @@
 # hashicorp/terraform-docs-common - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 67
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/hashicorp/terraform-docs-common)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 13 | 67 | 
 | 2023-01-13 | 12 | 67 | 
 | 2023-01-12 | 12 | 66 | 
 | 2023-01-11 | 12 | 65 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 12 | 58 | 
 | 2022-12-17 | 11 | 58 | 
 | 2022-12-16 | 10 | 58 | 
-| 2022-12-15 | 10 | 58 | 
 

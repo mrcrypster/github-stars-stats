@@ -1,6 +1,6 @@
 # Azure/azure-synapse-analytics-end2end - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 83
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 162 | 83 | 
 | 2023-01-13 | 162 | 83 | 
 | 2023-01-12 | 162 | 83 | 
 | 2023-01-11 | 162 | 83 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-19 | 159 | 81 | 
 | 2022-12-18 | 159 | 81 | 
 | 2022-12-17 | 159 | 81 | 
-| 2022-12-16 | 159 | 80 | 
 

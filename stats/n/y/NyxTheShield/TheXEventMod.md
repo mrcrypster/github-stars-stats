@@ -1,6 +1,6 @@
 # NyxTheShield/TheXEventMod - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 5 | 10 | 
 | 2023-01-13 | 5 | 10 | 
 | 2023-01-12 | 5 | 10 | 
 | 2023-01-11 | 5 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 6 | 9 | 
 | 2022-12-17 | 6 | 9 | 
 | 2022-12-16 | 6 | 9 | 
-| 2022-12-15 | 6 | 9 | 
 

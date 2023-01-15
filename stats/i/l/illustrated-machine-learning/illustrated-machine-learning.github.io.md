@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 14
 
 ☋ Forks: 8
 
-★ Stars: 129
+★ Stars: 130
 
 [Open repository](https://github.com/illustrated-machine-learning/illustrated-machine-learning.github.io)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-14 | 129 | 8 | 
+| 2023-01-14 | 130 | 8 | 
 | 2023-01-13 | 129 | 8 | 
 

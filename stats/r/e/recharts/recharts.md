@@ -1,10 +1,10 @@
 # recharts/recharts - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 1488
+☋ Forks: 1489
 
-★ Stars: 19559
+★ Stars: 19564
 
 [Open repository](https://github.com/recharts/recharts)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 19564 | 1489 | 
 | 2023-01-13 | 19559 | 1488 | 
 | 2023-01-12 | 19550 | 1487 | 
 | 2023-01-11 | 19545 | 1486 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 19329 | 1470 | 
 | 2022-12-17 | 19327 | 1470 | 
 | 2022-12-16 | 19323 | 1469 | 
-| 2022-12-15 | 19319 | 1468 | 
 

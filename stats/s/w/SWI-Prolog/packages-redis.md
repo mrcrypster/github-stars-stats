@@ -1,10 +1,10 @@
 # SWI-Prolog/packages-redis - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 3
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/SWI-Prolog/packages-redis)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 4 | 3 | 
 | 2023-01-13 | 3 | 3 | 
 | 2023-01-12 | 3 | 3 | 
 | 2023-01-11 | 3 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 3 | 3 | 
 | 2022-12-17 | 3 | 3 | 
 | 2022-12-16 | 3 | 3 | 
-| 2022-12-15 | 3 | 3 | 
 

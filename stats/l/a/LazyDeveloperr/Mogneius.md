@@ -1,6 +1,6 @@
 # LazyDeveloperr/Mogneius - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 2 | 9 | 
 | 2023-01-14 | 2 | 9 | 
 | 2023-01-12 | 2 | 8 | 
 | 2023-01-11 | 2 | 7 | 

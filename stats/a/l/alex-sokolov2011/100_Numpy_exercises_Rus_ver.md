@@ -1,10 +1,10 @@
 # alex-sokolov2011/100_Numpy_exercises_Rus_ver - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 27
 
-★ Stars: 114
+★ Stars: 115
 
 [Open repository](https://github.com/alex-sokolov2011/100_Numpy_exercises_Rus_ver)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 115 | 27 | 
 | 2023-01-13 | 114 | 27 | 
 | 2023-01-12 | 114 | 27 | 
 | 2023-01-11 | 114 | 27 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 111 | 26 | 
 | 2022-12-17 | 110 | 26 | 
 | 2022-12-16 | 110 | 26 | 
-| 2022-12-15 | 110 | 26 | 
 

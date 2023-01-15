@@ -1,10 +1,10 @@
 # DeimosC2/DeimosC2 - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 143
 
-★ Stars: 883
+★ Stars: 884
 
 [Open repository](https://github.com/DeimosC2/DeimosC2)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 884 | 143 | 
 | 2023-01-13 | 883 | 143 | 
 | 2023-01-12 | 883 | 143 | 
 | 2023-01-11 | 883 | 143 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 857 | 140 | 
 | 2022-12-17 | 857 | 140 | 
 | 2022-12-16 | 856 | 140 | 
-| 2022-12-15 | 856 | 140 | 
 

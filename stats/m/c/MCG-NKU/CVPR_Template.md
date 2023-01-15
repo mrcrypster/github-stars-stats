@@ -1,6 +1,6 @@
 # MCG-NKU/CVPR_Template - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 302 | 50 | 
 | 2023-01-13 | 302 | 50 | 
 | 2023-01-12 | 302 | 50 | 
 | 2023-01-11 | 302 | 50 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 299 | 50 | 
 | 2022-12-17 | 299 | 50 | 
 | 2022-12-16 | 299 | 50 | 
-| 2022-12-15 | 299 | 50 | 
 

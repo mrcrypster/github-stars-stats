@@ -1,6 +1,6 @@
 # eloimoliner/audio-inpainting-diffusion - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 26 | 4 | 
 | 2023-01-13 | 26 | 4 | 
 | 2023-01-12 | 26 | 4 | 
 | 2023-01-11 | 25 | 4 | 

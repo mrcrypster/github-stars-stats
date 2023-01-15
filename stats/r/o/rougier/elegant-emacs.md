@@ -1,6 +1,6 @@
 # rougier/elegant-emacs - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 74
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 1236 | 74 | 
 | 2023-01-13 | 1236 | 74 | 
 | 2023-01-12 | 1236 | 74 | 
 | 2023-01-11 | 1236 | 74 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 1228 | 74 | 
 | 2022-12-17 | 1228 | 74 | 
 | 2022-12-16 | 1228 | 74 | 
-| 2022-12-15 | 1228 | 74 | 
 

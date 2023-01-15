@@ -1,10 +1,10 @@
 # jina-ai/jina - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
-☋ Forks: 2011
+☋ Forks: 2012
 
-★ Stars: 17114
+★ Stars: 17123
 
 [Open repository](https://github.com/jina-ai/jina)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 17123 | 2012 | 
 | 2023-01-14 | 17114 | 2011 | 
 | 2023-01-12 | 17109 | 2011 | 
 | 2023-01-11 | 17092 | 2010 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-18 | 16911 | 2000 | 
 | 2022-12-17 | 16891 | 2000 | 
 | 2022-12-16 | 16881 | 1999 | 
-| 2022-12-15 | 16874 | 1999 | 
 

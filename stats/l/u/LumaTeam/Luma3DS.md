@@ -1,10 +1,10 @@
 # LumaTeam/Luma3DS - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 511
 
-★ Stars: 3939
+★ Stars: 3941
 
 [Open repository](https://github.com/LumaTeam/Luma3DS)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 3941 | 511 | 
 | 2023-01-13 | 3939 | 511 | 
 | 2023-01-12 | 3934 | 511 | 
 | 2023-01-11 | 3931 | 511 | 

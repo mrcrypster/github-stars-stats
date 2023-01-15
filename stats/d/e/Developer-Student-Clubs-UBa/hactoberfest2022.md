@@ -1,8 +1,8 @@
 # Developer-Student-Clubs-UBa/hactoberfest2022 - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 385
+☋ Forks: 384
 
 ★ Stars: 66
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 66 | 384 | 
 | 2023-01-13 | 66 | 385 | 
 | 2023-01-11 | 66 | 385 | 
 | 2023-01-10 | 66 | 385 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 67 | 390 | 
 | 2022-12-17 | 67 | 390 | 
 | 2022-12-16 | 67 | 390 | 
-| 2022-12-15 | 67 | 390 | 
 

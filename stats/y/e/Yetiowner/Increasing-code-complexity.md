@@ -1,6 +1,6 @@
 # Yetiowner/Increasing-code-complexity - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 250 | 10 | 
 | 2023-01-13 | 250 | 10 | 
 | 2023-01-12 | 251 | 10 | 
 | 2023-01-11 | 251 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 254 | 10 | 
 | 2022-12-17 | 254 | 10 | 
 | 2022-12-16 | 254 | 10 | 
-| 2022-12-15 | 254 | 10 | 
 

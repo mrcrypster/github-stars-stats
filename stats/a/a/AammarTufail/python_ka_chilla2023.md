@@ -1,10 +1,10 @@
 # AammarTufail/python_ka_chilla2023 - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 75
+☋ Forks: 77
 
-★ Stars: 84
+★ Stars: 89
 
 [Open repository](https://github.com/AammarTufail/python_ka_chilla2023)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 89 | 77 | 
 | 2023-01-13 | 84 | 75 | 
 | 2023-01-12 | 82 | 72 | 
 | 2023-01-11 | 80 | 71 | 

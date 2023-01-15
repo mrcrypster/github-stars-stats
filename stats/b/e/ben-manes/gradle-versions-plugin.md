@@ -1,8 +1,8 @@
 # ben-manes/gradle-versions-plugin - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 195
+☋ Forks: 196
 
 ★ Stars: 3498
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 3498 | 196 | 
 | 2023-01-13 | 3498 | 195 | 
 | 2023-01-12 | 3497 | 195 | 
 | 2023-01-11 | 3496 | 195 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 3482 | 195 | 
 | 2022-12-17 | 3481 | 195 | 
 | 2022-12-16 | 3481 | 195 | 
-| 2022-12-15 | 3479 | 195 | 
 

@@ -1,10 +1,10 @@
 # harendra-shakya/smart-contract-attack-vectors - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 34
+☋ Forks: 35
 
-★ Stars: 238
+★ Stars: 242
 
 [Open repository](https://github.com/harendra-shakya/smart-contract-attack-vectors)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 242 | 35 | 
 | 2023-01-13 | 238 | 34 | 
 | 2023-01-12 | 236 | 34 | 
 | 2023-01-11 | 236 | 34 | 

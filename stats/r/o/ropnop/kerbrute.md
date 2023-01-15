@@ -1,10 +1,10 @@
 # ropnop/kerbrute - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 316
 
-★ Stars: 1798
+★ Stars: 1797
 
 [Open repository](https://github.com/ropnop/kerbrute)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 1797 | 316 | 
 | 2023-01-13 | 1798 | 316 | 
 | 2023-01-12 | 1795 | 315 | 
 | 2023-01-11 | 1793 | 315 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 1756 | 313 | 
 | 2022-12-17 | 1754 | 313 | 
 | 2022-12-16 | 1749 | 313 | 
-| 2022-12-15 | 1747 | 313 | 
 

@@ -1,10 +1,10 @@
 # devsecops/awesome-devsecops - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 811
 
-★ Stars: 3502
+★ Stars: 3503
 
 [Open repository](https://github.com/devsecops/awesome-devsecops)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 3503 | 811 | 
 | 2023-01-13 | 3502 | 811 | 
 | 2023-01-12 | 3500 | 811 | 
 | 2023-01-11 | 3496 | 811 | 

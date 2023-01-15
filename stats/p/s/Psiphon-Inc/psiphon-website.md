@@ -1,10 +1,10 @@
 # Psiphon-Inc/psiphon-website - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 11
 
-★ Stars: 13
+★ Stars: 12
 
 [Open repository](https://github.com/Psiphon-Inc/psiphon-website)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 12 | 11 | 
 | 2023-01-13 | 13 | 11 | 
 | 2023-01-12 | 13 | 11 | 
 | 2023-01-11 | 13 | 11 | 

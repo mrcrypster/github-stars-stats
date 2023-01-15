@@ -1,6 +1,6 @@
 # Idov31/Nidhogg - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 96
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 652 | 96 | 
 | 2023-01-13 | 652 | 96 | 
 | 2023-01-12 | 645 | 96 | 
 | 2023-01-11 | 643 | 96 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 602 | 95 | 
 | 2022-12-17 | 601 | 95 | 
 | 2022-12-16 | 600 | 95 | 
-| 2022-12-15 | 599 | 95 | 
 

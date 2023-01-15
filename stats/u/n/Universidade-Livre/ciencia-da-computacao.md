@@ -1,10 +1,10 @@
 # Universidade-Livre/ciencia-da-computacao - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 612
+☋ Forks: 613
 
-★ Stars: 7892
+★ Stars: 7894
 
 [Open repository](https://github.com/Universidade-Livre/ciencia-da-computacao)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 7894 | 613 | 
 | 2023-01-13 | 7892 | 612 | 
 | 2023-01-12 | 7890 | 613 | 
 | 2023-01-11 | 7889 | 613 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 7750 | 603 | 
 | 2022-12-17 | 7749 | 603 | 
 | 2022-12-16 | 7744 | 602 | 
-| 2022-12-15 | 7742 | 602 | 
 

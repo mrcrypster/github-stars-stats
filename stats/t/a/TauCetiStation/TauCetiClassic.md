@@ -1,10 +1,10 @@
 # TauCetiStation/TauCetiClassic - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 374
 
-★ Stars: 114
+★ Stars: 115
 
 [Open repository](https://github.com/TauCetiStation/TauCetiClassic)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 115 | 374 | 
 | 2023-01-14 | 114 | 374 | 
 | 2023-01-12 | 114 | 374 | 
 | 2023-01-11 | 114 | 374 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-18 | 113 | 369 | 
 | 2022-12-17 | 113 | 369 | 
 | 2022-12-16 | 113 | 369 | 
-| 2022-12-15 | 113 | 369 | 
 

@@ -1,6 +1,6 @@
 # input-output-hk/nothunks - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 40 | 9 | 
 | 2023-01-13 | 40 | 9 | 
 | 2023-01-12 | 40 | 9 | 
 | 2023-01-11 | 40 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 40 | 9 | 
 | 2022-12-17 | 40 | 9 | 
 | 2022-12-16 | 40 | 9 | 
-| 2022-12-15 | 40 | 9 | 
 

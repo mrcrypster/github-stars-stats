@@ -1,6 +1,6 @@
 # statisfactions/simpr - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 36 | 7 | 
 | 2023-01-13 | 36 | 7 | 
 | 2023-01-12 | 36 | 7 | 
 | 2023-01-11 | 36 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 33 | 7 | 
 | 2022-12-17 | 33 | 7 | 
 | 2022-12-16 | 33 | 7 | 
-| 2022-12-15 | 33 | 7 | 
 

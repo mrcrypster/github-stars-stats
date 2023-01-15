@@ -1,10 +1,10 @@
 # haskell-hvr/HsYAML - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 14
 
-★ Stars: 51
+★ Stars: 52
 
 [Open repository](https://github.com/haskell-hvr/HsYAML)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 52 | 14 | 
 | 2023-01-13 | 51 | 14 | 
 | 2023-01-12 | 51 | 14 | 
 | 2023-01-11 | 51 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 51 | 14 | 
 | 2022-12-17 | 51 | 14 | 
 | 2022-12-16 | 51 | 14 | 
-| 2022-12-15 | 51 | 14 | 
 

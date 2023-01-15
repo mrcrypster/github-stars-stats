@@ -1,8 +1,8 @@
 # yinwang0/historical - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 21
+☋ Forks: 23
 
 ★ Stars: 20
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 20 | 23 | 
 | 2023-01-13 | 20 | 21 | 
 | 2023-01-12 | 20 | 21 | 
 | 2023-01-11 | 20 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 19 | 20 | 
 | 2022-12-17 | 19 | 20 | 
 | 2022-12-16 | 19 | 20 | 
-| 2022-12-15 | 19 | 20 | 
 

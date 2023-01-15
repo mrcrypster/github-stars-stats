@@ -1,6 +1,6 @@
 # uraninite/win32-stuxnet - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 22 | 12 | 
 | 2023-01-13 | 22 | 12 | 
 | 2023-01-12 | 22 | 12 | 
 | 2023-01-11 | 22 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 19 | 12 | 
 | 2022-12-17 | 19 | 12 | 
 | 2022-12-16 | 19 | 12 | 
-| 2022-12-15 | 19 | 12 | 
 

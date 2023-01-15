@@ -1,10 +1,10 @@
 # Pawdroid/Free-servers - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 157
 
-★ Stars: 2109
+★ Stars: 2119
 
 [Open repository](https://github.com/Pawdroid/Free-servers)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 2119 | 157 | 
 | 2023-01-13 | 2109 | 157 | 
 | 2023-01-12 | 2101 | 155 | 
 | 2023-01-11 | 2082 | 154 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 1825 | 135 | 
 | 2022-12-17 | 1816 | 135 | 
 | 2022-12-16 | 1811 | 135 | 
-| 2022-12-15 | 1794 | 135 | 
 

@@ -1,10 +1,10 @@
 # pointfreeco/isowords - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 168
 
-★ Stars: 2080
+★ Stars: 2081
 
 [Open repository](https://github.com/pointfreeco/isowords)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 2081 | 168 | 
 | 2023-01-14 | 2080 | 168 | 
 | 2023-01-12 | 2079 | 168 | 
 | 2023-01-11 | 2075 | 168 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-18 | 2058 | 167 | 
 | 2022-12-17 | 2059 | 167 | 
 | 2022-12-16 | 2057 | 167 | 
-| 2022-12-15 | 2056 | 167 | 
 

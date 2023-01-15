@@ -1,6 +1,6 @@
 # YuLab-SMU/clusterProfiler - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 220
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 720 | 220 | 
 | 2023-01-13 | 720 | 220 | 
 | 2023-01-12 | 720 | 220 | 
 | 2023-01-11 | 720 | 220 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 706 | 220 | 
 | 2022-12-17 | 706 | 220 | 
 | 2022-12-16 | 706 | 220 | 
-| 2022-12-15 | 704 | 220 | 
 

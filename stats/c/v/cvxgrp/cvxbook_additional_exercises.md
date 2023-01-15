@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 14
 
 ☋ Forks: 29
 
-★ Stars: 120
+★ Stars: 121
 
 [Open repository](https://github.com/cvxgrp/cvxbook_additional_exercises)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-14 | 120 | 29 | 
+| 2023-01-14 | 121 | 29 | 
 | 2023-01-13 | 120 | 29 | 
 | 2023-01-12 | 119 | 29 | 
 | 2023-01-11 | 119 | 29 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-18 | 103 | 27 | 
 | 2022-12-17 | 103 | 27 | 
 | 2022-12-16 | 102 | 27 | 
-| 2022-12-15 | 102 | 27 | 
 

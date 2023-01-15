@@ -1,6 +1,6 @@
 # crivotz/nv-ide - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 416 | 56 | 
 | 2023-01-13 | 416 | 56 | 
 | 2023-01-12 | 416 | 56 | 
 | 2023-01-11 | 415 | 56 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 405 | 52 | 
 | 2022-12-17 | 405 | 52 | 
 | 2022-12-16 | 405 | 53 | 
-| 2022-12-15 | 405 | 53 | 
 

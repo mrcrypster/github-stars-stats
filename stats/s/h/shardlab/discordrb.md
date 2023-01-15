@@ -1,10 +1,10 @@
 # shardlab/discordrb - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 65
 
-★ Stars: 367
+★ Stars: 368
 
 [Open repository](https://github.com/shardlab/discordrb)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 368 | 65 | 
 | 2023-01-13 | 367 | 65 | 
 | 2023-01-12 | 367 | 65 | 
 | 2023-01-11 | 367 | 65 | 

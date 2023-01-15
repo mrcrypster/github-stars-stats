@@ -1,10 +1,10 @@
 # dracula/metatrader5 - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 1
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/dracula/metatrader5)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 8 | 1 | 
 | 2023-01-13 | 7 | 1 | 
 | 2023-01-11 | 7 | 1 | 
 | 2023-01-10 | 7 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 7 | 1 | 
 | 2022-12-17 | 7 | 1 | 
 | 2022-12-16 | 7 | 1 | 
-| 2022-12-15 | 7 | 1 | 
 

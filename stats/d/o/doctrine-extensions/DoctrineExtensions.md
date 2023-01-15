@@ -1,6 +1,6 @@
 # doctrine-extensions/DoctrineExtensions - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 1255
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 3848 | 1255 | 
 | 2023-01-13 | 3848 | 1255 | 
 | 2023-01-12 | 3847 | 1253 | 
 | 2023-01-11 | 3847 | 1253 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 3842 | 1247 | 
 | 2022-12-17 | 3842 | 1248 | 
 | 2022-12-16 | 3842 | 1249 | 
-| 2022-12-15 | 3842 | 1248 | 
 

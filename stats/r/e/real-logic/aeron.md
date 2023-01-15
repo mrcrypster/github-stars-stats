@@ -1,6 +1,6 @@
 # real-logic/aeron - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 787
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 6300 | 787 | 
 | 2023-01-13 | 6300 | 787 | 
 | 2023-01-12 | 6299 | 786 | 
 | 2023-01-11 | 6299 | 786 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 6263 | 784 | 
 | 2022-12-17 | 6261 | 784 | 
 | 2022-12-16 | 6261 | 784 | 
-| 2022-12-15 | 6260 | 784 | 
 

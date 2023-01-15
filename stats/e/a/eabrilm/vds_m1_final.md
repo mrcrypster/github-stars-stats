@@ -1,6 +1,6 @@
 # eabrilm/vds_m1_final - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 67
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | - | 67 | 
 | 2023-01-13 | - | 67 | 
 | 2023-01-12 | - | 66 | 
 | 2023-01-11 | - | 66 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | - | 66 | 
 | 2022-12-17 | - | 66 | 
 | 2022-12-16 | - | 66 | 
-| 2022-12-15 | - | 66 | 
 

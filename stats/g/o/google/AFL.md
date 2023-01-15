@@ -1,6 +1,6 @@
 # google/AFL - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 520
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 3002 | 520 | 
 | 2023-01-13 | 3002 | 520 | 
 | 2023-01-12 | 3000 | 520 | 
 | 2023-01-11 | 2997 | 521 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-19 | 2975 | 519 | 
 | 2022-12-18 | 2977 | 519 | 
 | 2022-12-17 | 2977 | 519 | 
-| 2022-12-16 | 2976 | 519 | 
 

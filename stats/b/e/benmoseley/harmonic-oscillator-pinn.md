@@ -1,6 +1,6 @@
 # benmoseley/harmonic-oscillator-pinn - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 82
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 285 | 82 | 
 | 2023-01-13 | 285 | 82 | 
 | 2023-01-12 | 284 | 82 | 
 | 2023-01-11 | 283 | 82 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-19 | 278 | 81 | 
 | 2022-12-18 | 277 | 81 | 
 | 2022-12-17 | 277 | 81 | 
-| 2022-12-16 | 275 | 81 | 
 

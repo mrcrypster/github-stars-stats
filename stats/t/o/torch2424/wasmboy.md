@@ -1,6 +1,6 @@
 # torch2424/wasmboy - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 1234 | 56 | 
 | 2023-01-13 | 1234 | 56 | 
 | 2023-01-12 | 1234 | 56 | 
 | 2023-01-11 | 1234 | 56 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 1232 | 54 | 
 | 2022-12-17 | 1232 | 54 | 
 | 2022-12-16 | 1231 | 54 | 
-| 2022-12-15 | 1231 | 54 | 
 

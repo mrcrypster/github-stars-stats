@@ -1,8 +1,8 @@
 # liantze/AltaCV - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 286
+☋ Forks: 287
 
 ★ Stars: 980
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 980 | 287 | 
 | 2023-01-13 | 980 | 286 | 
 | 2023-01-12 | 979 | 286 | 
 | 2023-01-11 | 978 | 286 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 964 | 284 | 
 | 2022-12-17 | 963 | 283 | 
 | 2022-12-16 | 963 | 283 | 
-| 2022-12-15 | 963 | 283 | 
 

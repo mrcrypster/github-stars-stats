@@ -1,6 +1,6 @@
 # matiasinsaurralde/facebook-tunnel - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 85
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 1267 | 85 | 
 | 2023-01-13 | 1267 | 85 | 
 | 2023-01-12 | 1267 | 85 | 
 | 2023-01-11 | 1267 | 85 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 1265 | 85 | 
 | 2022-12-17 | 1265 | 85 | 
 | 2022-12-16 | 1265 | 85 | 
-| 2022-12-15 | 1265 | 85 | 
 

@@ -1,10 +1,10 @@
 # sass/dart-sass - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 327
 
-★ Stars: 3386
+★ Stars: 3387
 
 [Open repository](https://github.com/sass/dart-sass)
 
@@ -13,7 +13,8 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-14 | 3386 | 327 | 
+| 2023-01-15 | 3387 | 327 | 
+| 2023-01-14 | 3387 | 327 | 
 | 2023-01-13 | 3386 | 327 | 
 | 2023-01-12 | 3381 | 328 | 
 | 2023-01-11 | 3379 | 328 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-18 | 3364 | 330 | 
 | 2022-12-17 | 3364 | 330 | 
 | 2022-12-16 | 3362 | 331 | 
-| 2022-12-15 | 3359 | 331 | 
 

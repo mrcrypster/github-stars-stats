@@ -1,10 +1,10 @@
 # raspberrypi/pico-examples - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 488
+☋ Forks: 490
 
-★ Stars: 1676
+★ Stars: 1680
 
 [Open repository](https://github.com/raspberrypi/pico-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 1680 | 490 | 
 | 2023-01-13 | 1676 | 488 | 
 | 2023-01-12 | 1671 | 486 | 
 | 2023-01-11 | 1667 | 486 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 1613 | 468 | 
 | 2022-12-17 | 1612 | 466 | 
 | 2022-12-16 | 1610 | 466 | 
-| 2022-12-15 | 1607 | 466 | 
 

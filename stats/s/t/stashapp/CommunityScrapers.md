@@ -1,6 +1,6 @@
 # stashapp/CommunityScrapers - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 286
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 357 | 286 | 
 | 2023-01-13 | 357 | 286 | 
 | 2023-01-12 | 356 | 286 | 
 | 2023-01-11 | 356 | 286 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 343 | 276 | 
 | 2022-12-17 | 343 | 276 | 
 | 2022-12-16 | 343 | 274 | 
-| 2022-12-15 | 341 | 273 | 
 

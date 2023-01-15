@@ -1,8 +1,8 @@
 # meain/dotfiles - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 9
+☋ Forks: 10
 
 ★ Stars: 195
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 195 | 10 | 
 | 2023-01-13 | 195 | 9 | 
 | 2023-01-12 | 195 | 9 | 
 | 2023-01-11 | 195 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 191 | 9 | 
 | 2022-12-17 | 191 | 9 | 
 | 2022-12-16 | 190 | 9 | 
-| 2022-12-15 | 190 | 9 | 
 

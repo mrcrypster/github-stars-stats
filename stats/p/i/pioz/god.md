@@ -1,6 +1,6 @@
 # pioz/god - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 207 | 11 | 
 | 2023-01-13 | 207 | 11 | 
 | 2023-01-12 | 207 | 11 | 
 | 2023-01-11 | 207 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-19 | 206 | 11 | 
 | 2022-12-18 | 206 | 11 | 
 | 2022-12-17 | 206 | 11 | 
-| 2022-12-16 | 206 | 11 | 
 

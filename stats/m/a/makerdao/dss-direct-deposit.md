@@ -1,6 +1,6 @@
 # makerdao/dss-direct-deposit - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 47 | 13 | 
 | 2023-01-13 | 47 | 13 | 
 | 2023-01-12 | 47 | 13 | 
 | 2023-01-11 | 47 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-19 | 46 | 13 | 
 | 2022-12-18 | 46 | 13 | 
 | 2022-12-17 | 46 | 13 | 
-| 2022-12-16 | 46 | 13 | 
 

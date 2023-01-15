@@ -1,6 +1,6 @@
 # this-is-bennyk/FNF-Benjine - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 29 | 6 | 
 | 2023-01-13 | 29 | 6 | 
 | 2023-01-12 | 29 | 6 | 
 | 2023-01-11 | 29 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-19 | 29 | 6 | 
 | 2022-12-18 | 29 | 6 | 
 | 2022-12-17 | 29 | 6 | 
-| 2022-12-16 | 29 | 6 | 
 

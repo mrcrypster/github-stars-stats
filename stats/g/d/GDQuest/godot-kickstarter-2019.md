@@ -1,6 +1,6 @@
 # GDQuest/godot-kickstarter-2019 - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 280
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 233 | 280 | 
 | 2023-01-13 | 233 | 280 | 
 | 2023-01-12 | 233 | 280 | 
 | 2023-01-11 | 233 | 280 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 233 | 281 | 
 | 2022-12-17 | 233 | 281 | 
 | 2022-12-16 | 233 | 281 | 
-| 2022-12-15 | 233 | 281 | 
 

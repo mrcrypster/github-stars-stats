@@ -1,6 +1,6 @@
 # amzn/style-dictionary - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 443
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 2966 | 443 | 
 | 2023-01-13 | 2966 | 443 | 
 | 2023-01-12 | 2966 | 443 | 
 | 2023-01-11 | 2965 | 443 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 2923 | 444 | 
 | 2022-12-17 | 2923 | 444 | 
 | 2022-12-16 | 2919 | 444 | 
-| 2022-12-15 | 2915 | 443 | 
 

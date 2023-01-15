@@ -1,6 +1,6 @@
 # gravitee-io/helm-charts - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 87
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 45 | 87 | 
 | 2023-01-13 | 45 | 87 | 
 | 2023-01-12 | 45 | 87 | 
 | 2023-01-11 | 45 | 87 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 45 | 87 | 
 | 2022-12-17 | 45 | 87 | 
 | 2022-12-16 | 45 | 87 | 
-| 2022-12-15 | 45 | 87 | 
 

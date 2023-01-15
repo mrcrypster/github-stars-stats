@@ -1,10 +1,10 @@
 # Evavic44/portfolio-ideas - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 322
+☋ Forks: 323
 
-★ Stars: 1750
+★ Stars: 1756
 
 [Open repository](https://github.com/Evavic44/portfolio-ideas)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 1756 | 323 | 
 | 2023-01-13 | 1750 | 322 | 
 | 2023-01-12 | 1746 | 321 | 
 | 2023-01-11 | 1745 | 321 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 1641 | 312 | 
 | 2022-12-17 | 1640 | 313 | 
 | 2022-12-16 | 1631 | 311 | 
-| 2022-12-15 | 1625 | 308 | 
 

@@ -1,8 +1,8 @@
 # Aaronliu2016/css-tricks - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 17
+☋ Forks: 18
 
 ★ Stars: 72
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 72 | 18 | 
 | 2023-01-13 | 72 | 17 | 
 | 2023-01-12 | 72 | 17 | 
 | 2023-01-11 | 72 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 71 | 18 | 
 | 2022-12-17 | 71 | 18 | 
 | 2022-12-16 | 71 | 18 | 
-| 2022-12-15 | 72 | 18 | 
 

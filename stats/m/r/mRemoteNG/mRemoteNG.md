@@ -1,6 +1,6 @@
 # mRemoteNG/mRemoteNG - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 1297
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 7104 | 1297 | 
 | 2023-01-13 | 7104 | 1297 | 
 | 2023-01-12 | 7100 | 1297 | 
 | 2023-01-11 | 7100 | 1297 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 7035 | 1294 | 
 | 2022-12-17 | 7034 | 1294 | 
 | 2022-12-16 | 7033 | 1294 | 
-| 2022-12-15 | 7031 | 1294 | 
 

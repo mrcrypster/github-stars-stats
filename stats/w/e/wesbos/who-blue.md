@@ -1,10 +1,10 @@
 # wesbos/who-blue - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 31
 
-★ Stars: 366
+★ Stars: 367
 
 [Open repository](https://github.com/wesbos/who-blue)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 367 | 31 | 
 | 2023-01-13 | 366 | 31 | 
 | 2023-01-12 | 366 | 31 | 
 | 2023-01-11 | 366 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 365 | 31 | 
 | 2022-12-17 | 365 | 31 | 
 | 2022-12-16 | 365 | 31 | 
-| 2022-12-15 | 366 | 31 | 
 

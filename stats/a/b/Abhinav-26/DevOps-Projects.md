@@ -1,8 +1,8 @@
 # Abhinav-26/DevOps-Projects - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 334
+☋ Forks: 337
 
 ★ Stars: 297
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 297 | 337 | 
 | 2023-01-13 | 297 | 334 | 
 | 2023-01-12 | 297 | 334 | 
 | 2023-01-11 | 297 | 334 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 275 | 310 | 
 | 2022-12-17 | 273 | 309 | 
 | 2022-12-16 | 273 | 308 | 
-| 2022-12-15 | 273 | 308 | 
 

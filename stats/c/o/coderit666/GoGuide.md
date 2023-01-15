@@ -1,8 +1,8 @@
 # coderit666/GoGuide - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 222
+☋ Forks: 221
 
 ★ Stars: 1451
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 1451 | 221 | 
 | 2023-01-13 | 1451 | 222 | 
 | 2023-01-12 | 1445 | 221 | 
 | 2023-01-11 | 1443 | 221 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 1402 | 214 | 
 | 2022-12-17 | 1401 | 214 | 
 | 2022-12-16 | 1401 | 214 | 
-| 2022-12-15 | 1399 | 214 | 
 

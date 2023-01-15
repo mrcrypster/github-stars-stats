@@ -1,10 +1,10 @@
 # PierfrancescoSoffritti/android-youtube-player - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 662
 
-★ Stars: 2898
+★ Stars: 2899
 
 [Open repository](https://github.com/PierfrancescoSoffritti/android-youtube-player)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 2899 | 662 | 
 | 2023-01-13 | 2898 | 662 | 
 | 2023-01-12 | 2898 | 662 | 
 | 2023-01-11 | 2896 | 662 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 2875 | 662 | 
 | 2022-12-17 | 2875 | 662 | 
 | 2022-12-16 | 2875 | 662 | 
-| 2022-12-15 | 2875 | 662 | 
 

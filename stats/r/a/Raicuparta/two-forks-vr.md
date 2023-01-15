@@ -1,6 +1,6 @@
 # Raicuparta/two-forks-vr - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 78 | 3 | 
 | 2023-01-13 | 78 | 3 | 
 | 2023-01-12 | 77 | 3 | 
 | 2023-01-11 | 77 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 76 | 3 | 
 | 2022-12-17 | 76 | 3 | 
 | 2022-12-16 | 76 | 3 | 
-| 2022-12-15 | 76 | 3 | 
 

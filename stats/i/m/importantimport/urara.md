@@ -1,8 +1,8 @@
 # importantimport/urara - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 35
+☋ Forks: 34
 
 ★ Stars: 286
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 286 | 34 | 
 | 2023-01-13 | 286 | 35 | 
 | 2023-01-12 | 288 | 34 | 
 | 2023-01-11 | 288 | 34 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 262 | 35 | 
 | 2022-12-17 | 262 | 35 | 
 | 2022-12-16 | 262 | 35 | 
-| 2022-12-15 | 262 | 35 | 
 

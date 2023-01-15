@@ -1,6 +1,6 @@
 # NTBBloodbath/doom-nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 106
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 817 | 106 | 
 | 2023-01-13 | 817 | 106 | 
 | 2023-01-12 | 816 | 106 | 
 | 2023-01-11 | 816 | 106 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 807 | 103 | 
 | 2022-12-17 | 806 | 103 | 
 | 2022-12-16 | 806 | 103 | 
-| 2022-12-15 | 806 | 103 | 
 

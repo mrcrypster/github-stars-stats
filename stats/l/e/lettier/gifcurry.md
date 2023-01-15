@@ -1,6 +1,6 @@
 # lettier/gifcurry - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 1161 | 52 | 
 | 2023-01-13 | 1161 | 52 | 
 | 2023-01-12 | 1161 | 52 | 
 | 2023-01-11 | 1161 | 52 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 1154 | 51 | 
 | 2022-12-17 | 1153 | 51 | 
 | 2022-12-16 | 1153 | 51 | 
-| 2022-12-15 | 1152 | 51 | 
 

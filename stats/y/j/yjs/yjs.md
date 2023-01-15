@@ -1,10 +1,10 @@
 # yjs/yjs - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 398
 
-★ Stars: 10100
+★ Stars: 10104
 
 [Open repository](https://github.com/yjs/yjs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 10104 | 398 | 
 | 2023-01-13 | 10100 | 398 | 
 | 2023-01-12 | 10093 | 398 | 
 | 2023-01-11 | 10078 | 398 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 9866 | 385 | 
 | 2022-12-17 | 9857 | 385 | 
 | 2022-12-16 | 9852 | 385 | 
-| 2022-12-15 | 9842 | 385 | 
 

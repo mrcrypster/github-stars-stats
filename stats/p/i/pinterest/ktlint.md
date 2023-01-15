@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 14
 
 ☋ Forks: 454
 
-★ Stars: 5341
+★ Stars: 5342
 
 [Open repository](https://github.com/pinterest/ktlint)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-14 | 5341 | 454 | 
+| 2023-01-14 | 5342 | 454 | 
 | 2023-01-13 | 5341 | 454 | 
 | 2023-01-12 | 5335 | 453 | 
 | 2023-01-11 | 5336 | 453 | 

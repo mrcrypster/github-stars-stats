@@ -1,10 +1,10 @@
 # bakpakin/Fennel - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 102
 
-★ Stars: 1901
+★ Stars: 1902
 
 [Open repository](https://github.com/bakpakin/Fennel)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 1902 | 102 | 
 | 2023-01-13 | 1901 | 102 | 
 | 2023-01-12 | 1899 | 102 | 
 | 2023-01-11 | 1899 | 102 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 1878 | 100 | 
 | 2022-12-17 | 1876 | 100 | 
 | 2022-12-16 | 1872 | 100 | 
-| 2022-12-15 | 1870 | 100 | 
 

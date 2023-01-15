@@ -1,8 +1,8 @@
 # actions/cache - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 876
+☋ Forks: 877
 
 ★ Stars: 3367
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 3367 | 877 | 
 | 2023-01-13 | 3367 | 876 | 
 | 2023-01-12 | 3367 | 876 | 
 | 2023-01-11 | 3364 | 875 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 3312 | 860 | 
 | 2022-12-17 | 3311 | 860 | 
 | 2022-12-16 | 3310 | 860 | 
-| 2022-12-15 | 3307 | 858 | 
 

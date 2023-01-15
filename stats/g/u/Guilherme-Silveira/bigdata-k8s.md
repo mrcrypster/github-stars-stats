@@ -1,10 +1,10 @@
 # Guilherme-Silveira/bigdata-k8s - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 16
 
-★ Stars: 49
+★ Stars: 50
 
 [Open repository](https://github.com/Guilherme-Silveira/bigdata-k8s)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 50 | 16 | 
 | 2023-01-13 | 49 | 16 | 
 | 2023-01-12 | 49 | 16 | 
 | 2023-01-11 | 49 | 16 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 49 | 15 | 
 | 2022-12-17 | 49 | 15 | 
 | 2022-12-16 | 49 | 15 | 
-| 2022-12-15 | 49 | 15 | 
 

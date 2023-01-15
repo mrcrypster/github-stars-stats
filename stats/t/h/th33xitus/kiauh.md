@@ -1,10 +1,10 @@
 # th33xitus/kiauh - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 253
 
-★ Stars: 1446
+★ Stars: 1454
 
 [Open repository](https://github.com/th33xitus/kiauh)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 1454 | 253 | 
 | 2023-01-13 | 1446 | 253 | 
 | 2023-01-12 | 1443 | 252 | 
 | 2023-01-11 | 1439 | 251 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 1374 | 239 | 
 | 2022-12-17 | 1372 | 237 | 
 | 2022-12-16 | 1371 | 236 | 
-| 2022-12-15 | 1369 | 237 | 
 

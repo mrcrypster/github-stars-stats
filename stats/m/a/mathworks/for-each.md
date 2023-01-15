@@ -1,10 +1,10 @@
 # mathworks/for-each - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 0
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/mathworks/for-each)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 3 | - | 
 | 2023-01-13 | 2 | - | 
 | 2023-01-12 | 2 | - | 
 | 2023-01-11 | 2 | - | 

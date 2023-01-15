@@ -1,6 +1,6 @@
 # 0x2XPx/2Take1-script-Archive - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 25 | 43 | 
 | 2023-01-13 | 25 | 43 | 
 | 2023-01-12 | 25 | 43 | 
 | 2023-01-11 | 25 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 24 | 40 | 
 | 2022-12-17 | 24 | 40 | 
 | 2022-12-16 | 24 | 40 | 
-| 2022-12-15 | 24 | 40 | 
 

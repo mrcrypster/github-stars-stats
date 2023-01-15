@@ -1,6 +1,6 @@
 # easychen/awesome-checkchan - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 76 | 7 | 
 | 2023-01-13 | 76 | 7 | 
 | 2023-01-12 | 76 | 7 | 
 | 2023-01-11 | 76 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 76 | 7 | 
 | 2022-12-17 | 76 | 7 | 
 | 2022-12-16 | 76 | 7 | 
-| 2022-12-15 | 75 | 7 | 
 

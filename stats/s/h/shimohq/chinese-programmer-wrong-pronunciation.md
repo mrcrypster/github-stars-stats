@@ -1,10 +1,10 @@
 # shimohq/chinese-programmer-wrong-pronunciation - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
-☋ Forks: 1485
+☋ Forks: 1486
 
-★ Stars: 19628
+★ Stars: 19630
 
 [Open repository](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 19630 | 1486 | 
 | 2023-01-14 | 19628 | 1485 | 
 | 2023-01-12 | 19624 | 1485 | 
 | 2023-01-11 | 19624 | 1485 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-18 | 19557 | 1477 | 
 | 2022-12-17 | 19554 | 1477 | 
 | 2022-12-16 | 19546 | 1479 | 
-| 2022-12-15 | 19541 | 1478 | 
 

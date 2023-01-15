@@ -1,6 +1,6 @@
 # Sk05062003/APClubIITP - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 7 | 15 | 
 | 2023-01-13 | 7 | 15 | 
 | 2023-01-12 | 7 | 15 | 
 | 2023-01-10 | 7 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 7 | 12 | 
 | 2022-12-17 | 7 | 13 | 
 | 2022-12-16 | 7 | 13 | 
-| 2022-12-15 | 7 | 14 | 
 

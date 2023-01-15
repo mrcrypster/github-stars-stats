@@ -1,10 +1,10 @@
 # jcubic/chat-gpt - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 11
+☋ Forks: 12
 
-★ Stars: 90
+★ Stars: 93
 
 [Open repository](https://github.com/jcubic/chat-gpt)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 93 | 12 | 
 | 2023-01-13 | 90 | 11 | 
 | 2023-01-11 | 84 | 10 | 
 | 2023-01-10 | 84 | 9 | 

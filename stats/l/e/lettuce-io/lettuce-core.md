@@ -1,6 +1,6 @@
 # lettuce-io/lettuce-core - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 875
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 4849 | 875 | 
 | 2023-01-13 | 4849 | 875 | 
 | 2023-01-12 | 4848 | 875 | 
 | 2023-01-11 | 4847 | 875 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-19 | 4816 | 876 | 
 | 2022-12-18 | 4815 | 876 | 
 | 2022-12-17 | 4815 | 876 | 
-| 2022-12-16 | 4815 | 875 | 
 

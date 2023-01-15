@@ -1,8 +1,8 @@
 # SYSU-HI-LAB/Introduction_to_multi_agent_control - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
-☋ Forks: 8
+☋ Forks: 10
 
 ★ Stars: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-14 | 13 | 8 | 
+| 2023-01-15 | 13 | 10 | 
+| 2023-01-14 | 13 | 10 | 
 | 2023-01-13 | 13 | 8 | 
 

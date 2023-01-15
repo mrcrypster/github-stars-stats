@@ -1,10 +1,10 @@
 # winitzki/sofp - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 86
 
-★ Stars: 1186
+★ Stars: 1187
 
 [Open repository](https://github.com/winitzki/sofp)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 1187 | 86 | 
 | 2023-01-13 | 1186 | 86 | 
 | 2023-01-12 | 1186 | 86 | 
 | 2023-01-11 | 1186 | 86 | 

@@ -1,10 +1,10 @@
 # ialberquilla/aave-liquidation - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 88
 
-★ Stars: 354
+★ Stars: 355
 
 [Open repository](https://github.com/ialberquilla/aave-liquidation)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 355 | 88 | 
 | 2023-01-13 | 354 | 88 | 
 | 2023-01-12 | 354 | 88 | 
 | 2023-01-11 | 354 | 88 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 352 | 88 | 
 | 2022-12-17 | 353 | 88 | 
 | 2022-12-16 | 353 | 88 | 
-| 2022-12-15 | 353 | 88 | 
 

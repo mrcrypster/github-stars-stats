@@ -1,10 +1,10 @@
 # ThalesGroup/cva6-softcore-contest - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 16
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/ThalesGroup/cva6-softcore-contest)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 24 | 16 | 
 | 2023-01-13 | 23 | 16 | 
 | 2023-01-12 | 23 | 16 | 
 | 2023-01-11 | 23 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 22 | 16 | 
 | 2022-12-17 | 22 | 16 | 
 | 2022-12-16 | 22 | 16 | 
-| 2022-12-15 | 22 | 16 | 
 

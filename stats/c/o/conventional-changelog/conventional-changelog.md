@@ -1,10 +1,10 @@
 # conventional-changelog/conventional-changelog - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 677
+☋ Forks: 678
 
-★ Stars: 6796
+★ Stars: 6797
 
 [Open repository](https://github.com/conventional-changelog/conventional-changelog)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 6797 | 678 | 
 | 2023-01-13 | 6796 | 677 | 
 | 2023-01-12 | 6794 | 677 | 
 | 2023-01-11 | 6791 | 677 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 6751 | 673 | 
 | 2022-12-17 | 6748 | 673 | 
 | 2022-12-16 | 6747 | 673 | 
-| 2022-12-15 | 6745 | 673 | 
 

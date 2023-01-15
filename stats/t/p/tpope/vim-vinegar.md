@@ -1,10 +1,10 @@
 # tpope/vim-vinegar - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 85
 
-★ Stars: 2035
+★ Stars: 2037
 
 [Open repository](https://github.com/tpope/vim-vinegar)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 2037 | 85 | 
 | 2023-01-13 | 2035 | 85 | 
 | 2023-01-12 | 2034 | 85 | 
 | 2023-01-11 | 2034 | 85 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 2012 | 85 | 
 | 2022-12-17 | 2013 | 85 | 
 | 2022-12-16 | 2013 | 85 | 
-| 2022-12-15 | 2013 | 85 | 
 

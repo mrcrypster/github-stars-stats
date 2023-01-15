@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 14
 
 ☋ Forks: 4
 
-★ Stars: 40
+★ Stars: 41
 
 [Open repository](https://github.com/nelhage/elisp)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-14 | 40 | 4 | 
+| 2023-01-14 | 41 | 4 | 
 | 2023-01-13 | 40 | 4 | 
 | 2023-01-12 | 40 | 4 | 
 | 2023-01-11 | 40 | 4 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-18 | 40 | 4 | 
 | 2022-12-17 | 40 | 4 | 
 | 2022-12-16 | 40 | 4 | 
-| 2022-12-15 | 40 | 4 | 
 

@@ -1,6 +1,6 @@
 # JideGuru/animation_playground - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 86 | 4 | 
 | 2023-01-13 | 86 | 4 | 
 | 2023-01-12 | 86 | 4 | 
 | 2023-01-11 | 86 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 49 | 1 | 
 | 2022-12-17 | 48 | 1 | 
 | 2022-12-16 | 47 | 1 | 
-| 2022-12-15 | 24 | 1 | 
 

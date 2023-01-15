@@ -1,10 +1,10 @@
 # L-codes/pwcrack-framework - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 41
 
-★ Stars: 345
+★ Stars: 346
 
 [Open repository](https://github.com/L-codes/pwcrack-framework)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 346 | 41 | 
 | 2023-01-13 | 345 | 41 | 
 | 2023-01-12 | 345 | 41 | 
 | 2023-01-11 | 346 | 41 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 344 | 41 | 
 | 2022-12-17 | 344 | 41 | 
 | 2022-12-16 | 344 | 41 | 
-| 2022-12-15 | 344 | 41 | 
 

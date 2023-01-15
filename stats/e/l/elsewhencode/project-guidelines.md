@@ -1,10 +1,10 @@
 # elsewhencode/project-guidelines - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 3239
 
-★ Stars: 28401
+★ Stars: 28402
 
 [Open repository](https://github.com/elsewhencode/project-guidelines)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 28402 | 3239 | 
 | 2023-01-13 | 28401 | 3239 | 
 | 2023-01-12 | 28402 | 3238 | 
 | 2023-01-11 | 28402 | 3238 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 28261 | 3223 | 
 | 2022-12-17 | 28257 | 3223 | 
 | 2022-12-16 | 28256 | 3222 | 
-| 2022-12-15 | 28254 | 3220 | 
 

@@ -1,6 +1,6 @@
 # Yidadaa/shuangpin - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 88 | 2 | 
 | 2023-01-13 | 88 | 2 | 
 | 2023-01-12 | 87 | 2 | 
 | 2023-01-11 | 87 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-19 | 79 | 2 | 
 | 2022-12-18 | 79 | 2 | 
 | 2022-12-17 | 79 | 2 | 
-| 2022-12-16 | 79 | 2 | 
 

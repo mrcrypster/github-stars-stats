@@ -1,10 +1,10 @@
 # awcodes/filament-table-repeater - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 4
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/awcodes/filament-table-repeater)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 21 | 4 | 
 | 2023-01-13 | 20 | 4 | 
 | 2023-01-12 | 20 | 4 | 
 | 2023-01-11 | 20 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 13 | 3 | 
 | 2022-12-17 | 13 | 3 | 
 | 2022-12-16 | 13 | 3 | 
-| 2022-12-15 | 13 | 3 | 
 

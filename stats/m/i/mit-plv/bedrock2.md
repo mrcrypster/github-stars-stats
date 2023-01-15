@@ -1,8 +1,8 @@
 # mit-plv/bedrock2 - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 47
+☋ Forks: 48
 
 ★ Stars: 207
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 207 | 48 | 
 | 2023-01-13 | 207 | 47 | 
 | 2023-01-11 | 207 | 47 | 
 | 2023-01-10 | 207 | 46 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-19 | 204 | 46 | 
 | 2022-12-18 | 204 | 46 | 
 | 2022-12-17 | 204 | 46 | 
-| 2022-12-16 | 204 | 46 | 
 

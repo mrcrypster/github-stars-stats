@@ -1,6 +1,6 @@
 # xutaosjtu/COPD - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | - | - | 
 | 2023-01-13 | - | - | 
 | 2023-01-11 | - | - | 
 | 2023-01-10 | - | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | - | - | 
 | 2022-12-17 | - | - | 
 | 2022-12-16 | - | - | 
-| 2022-12-15 | - | - | 
 

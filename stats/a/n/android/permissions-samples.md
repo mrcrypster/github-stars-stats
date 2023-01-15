@@ -1,8 +1,8 @@
 # android/permissions-samples - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 288
+☋ Forks: 289
 
 ★ Stars: 543
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 543 | 289 | 
 | 2023-01-13 | 543 | 288 | 
 | 2023-01-12 | 543 | 288 | 
 | 2023-01-10 | 543 | 288 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 537 | 282 | 
 | 2022-12-17 | 537 | 282 | 
 | 2022-12-16 | 537 | 282 | 
-| 2022-12-15 | 537 | 283 | 
 

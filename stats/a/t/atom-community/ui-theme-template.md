@@ -1,6 +1,6 @@
 # atom-community/ui-theme-template - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 587
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 98 | 587 | 
 | 2023-01-13 | 98 | 587 | 
 | 2023-01-12 | 98 | 587 | 
 | 2023-01-11 | 98 | 587 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 98 | 588 | 
 | 2022-12-17 | 98 | 588 | 
 | 2022-12-16 | 98 | 589 | 
-| 2022-12-15 | 98 | 589 | 
 

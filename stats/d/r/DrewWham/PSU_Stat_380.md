@@ -1,10 +1,10 @@
 # DrewWham/PSU_Stat_380 - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 39
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/DrewWham/PSU_Stat_380)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 17 | 39 | 
 | 2023-01-13 | 16 | 39 | 
 | 2023-01-12 | 16 | 38 | 
 | 2023-01-11 | 16 | 38 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 16 | 38 | 
 | 2022-12-17 | 16 | 38 | 
 | 2022-12-16 | 16 | 38 | 
-| 2022-12-15 | 16 | 38 | 
 

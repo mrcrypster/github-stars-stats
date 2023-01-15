@@ -1,6 +1,6 @@
 # hnrwagner/UMAT_Lecture_1 - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 30 | 20 | 
 | 2023-01-13 | 30 | 20 | 
 | 2023-01-12 | 30 | 19 | 
 | 2023-01-11 | 30 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-19 | 30 | 19 | 
 | 2022-12-18 | 30 | 19 | 
 | 2022-12-16 | 30 | 19 | 
-| 2022-12-15 | 30 | 19 | 
 

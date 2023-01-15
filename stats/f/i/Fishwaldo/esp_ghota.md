@@ -1,6 +1,6 @@
 # Fishwaldo/esp_ghota - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 296 | 16 | 
 | 2023-01-13 | 296 | 16 | 
 | 2023-01-12 | 296 | 16 | 
 | 2023-01-11 | 295 | 16 | 

@@ -1,6 +1,6 @@
 # McbeEringi/esbe-2g - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 124 | 9 | 
 | 2023-01-13 | 124 | 9 | 
 | 2023-01-12 | 124 | 9 | 
 | 2023-01-11 | 124 | 9 | 

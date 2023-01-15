@@ -1,10 +1,10 @@
 # m-demare/hlargs.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 7
 
-★ Stars: 253
+★ Stars: 254
 
 [Open repository](https://github.com/m-demare/hlargs.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 254 | 7 | 
 | 2023-01-13 | 253 | 7 | 
 | 2023-01-12 | 252 | 7 | 
 | 2023-01-11 | 251 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 241 | 5 | 
 | 2022-12-17 | 239 | 5 | 
 | 2022-12-16 | 238 | 5 | 
-| 2022-12-15 | 238 | 5 | 
 

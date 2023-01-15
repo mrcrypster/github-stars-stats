@@ -1,10 +1,10 @@
 # orwagodfather/WordList - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 154
 
-★ Stars: 301
+★ Stars: 302
 
 [Open repository](https://github.com/orwagodfather/WordList)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 302 | 154 | 
 | 2023-01-13 | 301 | 154 | 
 | 2023-01-11 | 301 | 153 | 
 | 2023-01-10 | 301 | 153 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 293 | 146 | 
 | 2022-12-17 | 292 | 144 | 
 | 2022-12-16 | 291 | 144 | 
-| 2022-12-15 | 290 | 144 | 
 

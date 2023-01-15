@@ -1,6 +1,6 @@
 # ccfddl/ccf-deadlines - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 184
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 2348 | 184 | 
 | 2023-01-13 | 2348 | 184 | 
 | 2023-01-12 | 2347 | 184 | 
 | 2023-01-11 | 2345 | 184 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 2294 | 179 | 
 | 2022-12-17 | 2292 | 179 | 
 | 2022-12-16 | 2290 | 179 | 
-| 2022-12-15 | 2288 | 179 | 
 

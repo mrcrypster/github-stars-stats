@@ -1,6 +1,6 @@
 # enfein/mieru - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 472 | 65 | 
 | 2023-01-13 | 472 | 65 | 
 | 2023-01-12 | 471 | 65 | 
 | 2023-01-11 | 471 | 65 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 454 | 64 | 
 | 2022-12-17 | 448 | 64 | 
 | 2022-12-16 | 447 | 64 | 
-| 2022-12-15 | 445 | 64 | 
 

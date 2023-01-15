@@ -1,6 +1,6 @@
 # phpmyadmin/phpmyadmin - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 3265
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 6371 | 3265 | 
 | 2023-01-13 | 6371 | 3265 | 
 | 2023-01-12 | 6369 | 3266 | 
 | 2023-01-11 | 6370 | 3266 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 6325 | 3263 | 
 | 2022-12-17 | 6323 | 3263 | 
 | 2022-12-16 | 6322 | 3262 | 
-| 2022-12-15 | 6321 | 3262 | 
 

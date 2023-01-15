@@ -1,10 +1,10 @@
 # ThomasFKJorna/zotero-night - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 14
 
-★ Stars: 928
+★ Stars: 931
 
 [Open repository](https://github.com/ThomasFKJorna/zotero-night)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 931 | 14 | 
 | 2023-01-13 | 928 | 14 | 
 | 2023-01-12 | 921 | 14 | 
 | 2023-01-11 | 919 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 850 | 13 | 
 | 2022-12-17 | 848 | 13 | 
 | 2022-12-16 | 844 | 13 | 
-| 2022-12-15 | 843 | 13 | 
 

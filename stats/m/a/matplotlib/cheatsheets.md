@@ -1,8 +1,8 @@
 # matplotlib/cheatsheets - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 840
+☋ Forks: 839
 
 ★ Stars: 6706
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 6706 | 839 | 
 | 2023-01-13 | 6706 | 840 | 
 | 2023-01-12 | 6705 | 840 | 
 | 2023-01-11 | 6703 | 840 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 6675 | 838 | 
 | 2022-12-17 | 6673 | 837 | 
 | 2022-12-16 | 6673 | 836 | 
-| 2022-12-15 | 6669 | 833 | 
 

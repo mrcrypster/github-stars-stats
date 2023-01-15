@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 14
 
 ☋ Forks: 17
 
-★ Stars: 120
+★ Stars: 121
 
 [Open repository](https://github.com/sonyxperiadev/dataflow)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-14 | 120 | 17 | 
+| 2023-01-14 | 121 | 17 | 
 | 2023-01-13 | 120 | 17 | 
 

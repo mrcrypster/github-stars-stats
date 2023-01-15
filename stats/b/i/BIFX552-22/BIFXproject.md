@@ -1,6 +1,6 @@
 # BIFX552-22/BIFXproject - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | - | 11 | 
 | 2023-01-13 | - | 11 | 
 | 2023-01-12 | - | 11 | 
 | 2023-01-11 | - | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-19 | - | 11 | 
 | 2022-12-17 | - | 11 | 
 | 2022-12-16 | - | 11 | 
-| 2022-12-15 | - | 11 | 
 

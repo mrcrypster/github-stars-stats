@@ -1,8 +1,8 @@
 # ricpelo/tienda2223 - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 7
+☋ Forks: 8
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | - | 8 | 
 | 2023-01-13 | - | 7 | 
 | 2023-01-12 | - | 7 | 
 | 2023-01-11 | - | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | - | 8 | 
 | 2022-12-17 | - | 8 | 
 | 2022-12-16 | - | 8 | 
-| 2022-12-15 | - | 8 | 
 

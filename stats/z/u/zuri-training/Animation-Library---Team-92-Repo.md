@@ -1,6 +1,6 @@
 # zuri-training/Animation-Library---Team-92-Repo - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 2 | 8 | 
 | 2023-01-13 | 2 | 8 | 
 | 2023-01-11 | 2 | 8 | 
 | 2023-01-10 | 2 | 8 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-19 | 2 | 8 | 
 | 2022-12-18 | 2 | 8 | 
 | 2022-12-17 | 2 | 8 | 
-| 2022-12-16 | 2 | 8 | 
 

@@ -1,10 +1,10 @@
 # kubesphere/kubeeye - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 112
 
-★ Stars: 663
+★ Stars: 664
 
 [Open repository](https://github.com/kubesphere/kubeeye)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 664 | 112 | 
 | 2023-01-13 | 663 | 112 | 
 | 2023-01-12 | 663 | 112 | 
 | 2023-01-11 | 662 | 112 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 645 | 111 | 
 | 2022-12-17 | 645 | 111 | 
 | 2022-12-16 | 644 | 111 | 
-| 2022-12-15 | 644 | 110 | 
 

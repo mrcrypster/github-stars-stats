@@ -1,6 +1,6 @@
 # view-design/ViewUI - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 800
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 2624 | 800 | 
 | 2023-01-13 | 2624 | 800 | 
 | 2023-01-12 | 2623 | 799 | 
 | 2023-01-11 | 2622 | 799 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-19 | 2621 | 798 | 
 | 2022-12-18 | 2621 | 798 | 
 | 2022-12-17 | 2621 | 798 | 
-| 2022-12-16 | 2621 | 799 | 
 

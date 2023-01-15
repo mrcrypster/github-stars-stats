@@ -1,10 +1,10 @@
 # deepjavalibrary/djl - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 493
+☋ Forks: 494
 
-★ Stars: 2947
+★ Stars: 2951
 
 [Open repository](https://github.com/deepjavalibrary/djl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 2951 | 494 | 
 | 2023-01-13 | 2947 | 493 | 
 | 2023-01-12 | 2945 | 492 | 
 | 2023-01-11 | 2941 | 492 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 2918 | 485 | 
 | 2022-12-17 | 2917 | 486 | 
 | 2022-12-16 | 2914 | 486 | 
-| 2022-12-15 | 2912 | 485 | 
 

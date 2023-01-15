@@ -1,10 +1,10 @@
 # tomasz-lisowski/swsim - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 12
 
-★ Stars: 189
+★ Stars: 190
 
 [Open repository](https://github.com/tomasz-lisowski/swsim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 190 | 12 | 
 | 2023-01-13 | 189 | 12 | 
 | 2023-01-12 | 188 | 12 | 
 | 2023-01-11 | 188 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 152 | 10 | 
 | 2022-12-17 | 152 | 10 | 
 | 2022-12-16 | 151 | 10 | 
-| 2022-12-15 | 151 | 10 | 
 

@@ -1,6 +1,6 @@
 # daviwil/emacs-from-scratch - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 291
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 1375 | 291 | 
 | 2023-01-13 | 1375 | 291 | 
 | 2023-01-12 | 1374 | 291 | 
 | 2023-01-11 | 1372 | 291 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 1362 | 288 | 
 | 2022-12-17 | 1358 | 286 | 
 | 2022-12-16 | 1357 | 286 | 
-| 2022-12-15 | 1356 | 285 | 
 

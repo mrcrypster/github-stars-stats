@@ -1,6 +1,6 @@
 # rackspace-infrastructure-automation/aws-terraform-s3 - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 2 | 12 | 
 | 2023-01-13 | 2 | 12 | 
 | 2023-01-12 | 2 | 12 | 
 | 2023-01-11 | 2 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 2 | 12 | 
 | 2022-12-17 | 2 | 12 | 
 | 2022-12-16 | 2 | 12 | 
-| 2022-12-15 | 2 | 12 | 
 

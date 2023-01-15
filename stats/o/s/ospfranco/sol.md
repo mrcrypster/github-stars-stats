@@ -1,10 +1,10 @@
 # ospfranco/sol - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 31
 
-★ Stars: 1432
+★ Stars: 1433
 
 [Open repository](https://github.com/ospfranco/sol)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 1433 | 31 | 
 | 2023-01-13 | 1432 | 31 | 
 | 2023-01-12 | 1431 | 31 | 
 | 2023-01-11 | 1431 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 1415 | 31 | 
 | 2022-12-17 | 1414 | 31 | 
 | 2022-12-16 | 1414 | 31 | 
-| 2022-12-15 | 1411 | 31 | 
 

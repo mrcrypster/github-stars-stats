@@ -1,6 +1,6 @@
 # neal-zhu/batcher - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 49 | 23 | 
 | 2023-01-13 | 49 | 23 | 
 | 2023-01-12 | 49 | 23 | 
 | 2023-01-11 | 49 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-19 | 47 | 23 | 
 | 2022-12-17 | 47 | 23 | 
 | 2022-12-16 | 47 | 23 | 
-| 2022-12-15 | 47 | 23 | 
 

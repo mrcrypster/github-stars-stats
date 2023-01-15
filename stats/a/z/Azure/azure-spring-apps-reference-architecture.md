@@ -1,6 +1,6 @@
 # Azure/azure-spring-apps-reference-architecture - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 61 | 34 | 
 | 2023-01-14 | 61 | 34 | 
 | 2023-01-13 | 61 | 34 | 
 | 2023-01-11 | 60 | 34 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-18 | 59 | 34 | 
 | 2022-12-17 | 59 | 34 | 
 | 2022-12-16 | 59 | 34 | 
-| 2022-12-15 | 59 | 34 | 
 

@@ -1,6 +1,6 @@
 # Dashibase/dashibase - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 523 | 39 | 
 | 2023-01-13 | 523 | 39 | 
 | 2023-01-12 | 523 | 39 | 
 | 2023-01-11 | 522 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 506 | 38 | 
 | 2022-12-17 | 505 | 38 | 
 | 2022-12-16 | 504 | 38 | 
-| 2022-12-15 | 504 | 38 | 
 

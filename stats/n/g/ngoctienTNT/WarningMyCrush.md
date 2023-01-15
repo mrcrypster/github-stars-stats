@@ -1,8 +1,8 @@
 # ngoctienTNT/WarningMyCrush - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 71
+☋ Forks: 72
 
 ★ Stars: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 13 | 72 | 
 | 2023-01-13 | 13 | 71 | 
 | 2023-01-12 | 13 | 71 | 
 | 2023-01-11 | 13 | 71 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 12 | 71 | 
 | 2022-12-17 | 12 | 71 | 
 | 2022-12-16 | 12 | 71 | 
-| 2022-12-15 | 12 | 71 | 
 

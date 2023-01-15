@@ -1,6 +1,6 @@
 # smjonas/live-command.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 284 | 1 | 
 | 2023-01-13 | 284 | 1 | 
 | 2023-01-12 | 284 | 1 | 
 | 2023-01-11 | 284 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-19 | 273 | - | 
 | 2022-12-18 | 272 | - | 
 | 2022-12-17 | 271 | - | 
-| 2022-12-16 | 271 | - | 
 

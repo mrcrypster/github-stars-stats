@@ -1,10 +1,10 @@
 # telegramdesktop/tdesktop - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 4335
+☋ Forks: 4334
 
-★ Stars: 20806
+★ Stars: 20815
 
 [Open repository](https://github.com/telegramdesktop/tdesktop)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 20815 | 4334 | 
 | 2023-01-13 | 20806 | 4335 | 
 | 2023-01-12 | 20796 | 4336 | 
 | 2023-01-11 | 20802 | 4335 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 20595 | 4305 | 
 | 2022-12-17 | 20591 | 4305 | 
 | 2022-12-16 | 20591 | 4306 | 
-| 2022-12-15 | 20585 | 4304 | 
 

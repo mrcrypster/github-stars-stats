@@ -1,10 +1,10 @@
 # NoneMeme/NoneMeme - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 12
 
-★ Stars: 33
+★ Stars: 35
 
 [Open repository](https://github.com/NoneMeme/NoneMeme)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 35 | 12 | 
 | 2023-01-13 | 33 | 12 | 
 | 2023-01-12 | 32 | 11 | 
 | 2023-01-11 | 31 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 28 | 11 | 
 | 2022-12-17 | 28 | 11 | 
 | 2022-12-16 | 28 | 11 | 
-| 2022-12-15 | 28 | 11 | 
 

@@ -1,10 +1,10 @@
 # mvasigh/sveltekit-mdsvex-blog - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 26
 
-★ Stars: 106
+★ Stars: 107
 
 [Open repository](https://github.com/mvasigh/sveltekit-mdsvex-blog)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 107 | 26 | 
 | 2023-01-13 | 106 | 26 | 
 | 2023-01-12 | 105 | 26 | 
 | 2023-01-11 | 105 | 25 | 

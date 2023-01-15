@@ -1,6 +1,6 @@
 # MakeContributions/ideahub - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 90
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 114 | 90 | 
 | 2023-01-13 | 114 | 90 | 
 | 2023-01-12 | 114 | 90 | 
 | 2023-01-11 | 114 | 90 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 112 | 90 | 
 | 2022-12-17 | 112 | 90 | 
 | 2022-12-16 | 112 | 90 | 
-| 2022-12-15 | 112 | 90 | 
 

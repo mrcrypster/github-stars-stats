@@ -1,6 +1,6 @@
 # rottytooth/Olympus - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 25 | 2 | 
 | 2023-01-13 | 25 | 2 | 
 | 2023-01-12 | 25 | 2 | 
 | 2023-01-11 | 25 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 25 | 2 | 
 | 2022-12-17 | 25 | 2 | 
 | 2022-12-16 | 25 | 2 | 
-| 2022-12-15 | 25 | 2 | 
 

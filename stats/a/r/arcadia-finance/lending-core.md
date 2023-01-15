@@ -1,6 +1,6 @@
 # arcadia-finance/lending-core - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 41 | 1 | 
 | 2023-01-13 | 41 | 1 | 
 | 2023-01-12 | 41 | 1 | 
 | 2023-01-11 | 41 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 33 | 1 | 
 | 2022-12-17 | 32 | 1 | 
 | 2022-12-16 | 32 | 1 | 
-| 2022-12-15 | 32 | 1 | 
 

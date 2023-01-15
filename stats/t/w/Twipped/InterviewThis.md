@@ -1,6 +1,6 @@
 # Twipped/InterviewThis - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 404
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 6384 | 404 | 
 | 2023-01-13 | 6384 | 404 | 
 | 2023-01-12 | 6383 | 404 | 
 | 2023-01-11 | 6383 | 403 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 6359 | 403 | 
 | 2022-12-17 | 6359 | 403 | 
 | 2022-12-16 | 6358 | 402 | 
-| 2022-12-15 | 6357 | 402 | 
 

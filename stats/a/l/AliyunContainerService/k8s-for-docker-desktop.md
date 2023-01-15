@@ -1,10 +1,10 @@
 # AliyunContainerService/k8s-for-docker-desktop - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 1070
 
-★ Stars: 4570
+★ Stars: 4571
 
 [Open repository](https://github.com/AliyunContainerService/k8s-for-docker-desktop)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 4571 | 1070 | 
 | 2023-01-13 | 4570 | 1070 | 
 | 2023-01-12 | 4569 | 1070 | 
 | 2023-01-11 | 4568 | 1069 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 4549 | 1063 | 
 | 2022-12-17 | 4549 | 1063 | 
 | 2022-12-16 | 4548 | 1063 | 
-| 2022-12-15 | 4547 | 1063 | 
 

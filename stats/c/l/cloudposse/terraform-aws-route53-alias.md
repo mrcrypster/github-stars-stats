@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-route53-alias - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 47 | 52 | 
 | 2023-01-13 | 47 | 52 | 
 | 2023-01-12 | 47 | 52 | 
 | 2023-01-11 | 47 | 52 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 46 | 52 | 
 | 2022-12-17 | 46 | 52 | 
 | 2022-12-16 | 46 | 52 | 
-| 2022-12-15 | 46 | 52 | 
 

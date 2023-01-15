@@ -1,10 +1,10 @@
 # coryodaniel/bonny - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 23
 
-★ Stars: 279
+★ Stars: 280
 
 [Open repository](https://github.com/coryodaniel/bonny)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 280 | 23 | 
 | 2023-01-13 | 279 | 23 | 
 | 2023-01-12 | 279 | 23 | 
 | 2023-01-11 | 279 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 274 | 23 | 
 | 2022-12-17 | 274 | 23 | 
 | 2022-12-16 | 274 | 23 | 
-| 2022-12-15 | 274 | 23 | 
 

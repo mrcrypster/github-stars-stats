@@ -1,10 +1,10 @@
 # lilmayofuksu/animepython - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 69
 
-★ Stars: 86
+★ Stars: 87
 
 [Open repository](https://github.com/lilmayofuksu/animepython)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 87 | 69 | 
 | 2023-01-13 | 86 | 69 | 
 | 2023-01-12 | 86 | 69 | 
 | 2023-01-11 | 86 | 69 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 86 | 70 | 
 | 2022-12-17 | 86 | 70 | 
 | 2022-12-16 | 85 | 70 | 
-| 2022-12-15 | 85 | 70 | 
 

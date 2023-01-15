@@ -1,10 +1,10 @@
 # fwbrasil/kyo - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 4
 
-★ Stars: 75
+★ Stars: 76
 
 [Open repository](https://github.com/fwbrasil/kyo)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 76 | 4 | 
 | 2023-01-13 | 75 | 4 | 
 | 2023-01-12 | 75 | 4 | 
 | 2023-01-11 | 75 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 66 | 4 | 
 | 2022-12-17 | 66 | 4 | 
 | 2022-12-16 | 66 | 4 | 
-| 2022-12-15 | 66 | 4 | 
 

@@ -1,6 +1,6 @@
 # cypress-io/cypress-docker-images - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 355
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 888 | 355 | 
 | 2023-01-13 | 888 | 355 | 
 | 2023-01-12 | 886 | 355 | 
 | 2023-01-11 | 885 | 353 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 875 | 349 | 
 | 2022-12-17 | 875 | 349 | 
 | 2022-12-16 | 875 | 349 | 
-| 2022-12-15 | 875 | 346 | 
 

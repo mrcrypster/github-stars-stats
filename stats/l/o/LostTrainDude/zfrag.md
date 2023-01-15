@@ -1,6 +1,6 @@
 # LostTrainDude/zfrag - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 86 | 2 | 
 | 2023-01-13 | 86 | 2 | 
 | 2023-01-12 | 86 | 2 | 
 | 2023-01-11 | 86 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 84 | 1 | 
 | 2022-12-17 | 84 | 1 | 
 | 2022-12-16 | 84 | 1 | 
-| 2022-12-15 | 84 | 1 | 
 

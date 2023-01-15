@@ -1,6 +1,6 @@
 # anyswap/multichain-smart-contracts - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 30 | 24 | 
 | 2023-01-13 | 30 | 24 | 
 | 2023-01-12 | 30 | 24 | 
 | 2023-01-11 | 30 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 28 | 22 | 
 | 2022-12-17 | 28 | 22 | 
 | 2022-12-16 | 27 | 22 | 
-| 2022-12-15 | 27 | 22 | 
 

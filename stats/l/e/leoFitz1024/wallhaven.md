@@ -1,6 +1,6 @@
 # leoFitz1024/wallhaven - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 595 | 58 | 
 | 2023-01-13 | 595 | 58 | 
 | 2023-01-12 | 595 | 59 | 
 | 2023-01-11 | 594 | 59 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 584 | 60 | 
 | 2022-12-17 | 584 | 60 | 
 | 2022-12-16 | 584 | 60 | 
-| 2022-12-15 | 584 | 60 | 
 

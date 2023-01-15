@@ -1,10 +1,10 @@
 # xHak9x/finduser - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 67
+☋ Forks: 68
 
-★ Stars: 228
+★ Stars: 229
 
 [Open repository](https://github.com/xHak9x/finduser)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 229 | 68 | 
 | 2023-01-13 | 228 | 67 | 
 | 2023-01-12 | 228 | 67 | 
 | 2023-01-11 | 228 | 67 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 217 | 67 | 
 | 2022-12-17 | 217 | 67 | 
 | 2022-12-16 | 216 | 67 | 
-| 2022-12-15 | 216 | 67 | 
 

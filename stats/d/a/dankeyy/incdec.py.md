@@ -1,6 +1,6 @@
 # dankeyy/incdec.py - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 126 | 2 | 
 | 2023-01-13 | 126 | 2 | 
 | 2023-01-12 | 126 | 2 | 
 | 2023-01-11 | 125 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 119 | 2 | 
 | 2022-12-17 | 119 | 2 | 
 | 2022-12-16 | 119 | 2 | 
-| 2022-12-15 | 119 | 2 | 
 

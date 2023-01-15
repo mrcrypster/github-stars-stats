@@ -1,6 +1,6 @@
 # tihmstar/jbinit - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 154 | 28 | 
 | 2023-01-13 | 154 | 28 | 
 | 2023-01-12 | 154 | 28 | 
 | 2023-01-11 | 153 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 152 | 29 | 
 | 2022-12-17 | 152 | 29 | 
 | 2022-12-16 | 152 | 29 | 
-| 2022-12-15 | 152 | 29 | 
 

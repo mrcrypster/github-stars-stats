@@ -1,10 +1,10 @@
 # datacharmer/test_db - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 2304
+☋ Forks: 2305
 
-★ Stars: 3307
+★ Stars: 3309
 
 [Open repository](https://github.com/datacharmer/test_db)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 3309 | 2305 | 
 | 2023-01-13 | 3307 | 2304 | 
 | 2023-01-12 | 3305 | 2303 | 
 | 2023-01-11 | 3302 | 2303 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 3288 | 2291 | 
 | 2022-12-17 | 3287 | 2291 | 
 | 2022-12-16 | 3286 | 2290 | 
-| 2022-12-15 | 3284 | 2289 | 
 

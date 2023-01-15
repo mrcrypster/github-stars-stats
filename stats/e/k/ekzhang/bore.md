@@ -1,6 +1,6 @@
 # ekzhang/bore - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 195
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 6250 | 195 | 
 | 2023-01-13 | 6250 | 195 | 
 | 2023-01-12 | 6241 | 194 | 
 | 2023-01-11 | 6239 | 194 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 6145 | 186 | 
 | 2022-12-17 | 6142 | 186 | 
 | 2022-12-16 | 6141 | 186 | 
-| 2022-12-15 | 6140 | 185 | 
 

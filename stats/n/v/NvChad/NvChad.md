@@ -1,10 +1,10 @@
 # NvChad/NvChad - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 923
 
-★ Stars: 13852
+★ Stars: 13854
 
 [Open repository](https://github.com/NvChad/NvChad)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 13854 | 923 | 
 | 2023-01-13 | 13852 | 923 | 
 | 2023-01-12 | 13828 | 923 | 
 | 2023-01-11 | 13827 | 922 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 13577 | 913 | 
 | 2022-12-17 | 13554 | 909 | 
 | 2022-12-16 | 13541 | 909 | 
-| 2022-12-15 | 13528 | 908 | 
 

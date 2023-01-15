@@ -1,6 +1,6 @@
 # MiSTer-devel/Arcade-Cave_MiSTer - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 67 | 18 | 
 | 2023-01-13 | 67 | 18 | 
 | 2023-01-12 | 67 | 18 | 
 | 2023-01-11 | 67 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-18 | 66 | 17 | 
 | 2022-12-17 | 66 | 17 | 
 | 2022-12-16 | 66 | 17 | 
-| 2022-12-15 | 66 | 17 | 
 

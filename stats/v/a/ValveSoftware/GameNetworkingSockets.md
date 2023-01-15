@@ -1,10 +1,10 @@
 # ValveSoftware/GameNetworkingSockets - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 14
 
-☋ Forks: 484
+☋ Forks: 485
 
-★ Stars: 6402
+★ Stars: 6405
 
 [Open repository](https://github.com/ValveSoftware/GameNetworkingSockets)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-14 | 6405 | 485 | 
 | 2023-01-13 | 6402 | 484 | 
 | 2023-01-12 | 6402 | 484 | 
 | 2023-01-11 | 6400 | 484 | 

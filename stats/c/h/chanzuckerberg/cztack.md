@@ -1,6 +1,6 @@
 # chanzuckerberg/cztack - stars & forks statistics
 
-Stats updated on Jan 2023, 13
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 58 | 24 | 
 | 2023-01-13 | 58 | 24 | 
 | 2023-01-12 | 58 | 24 | 
 | 2023-01-11 | 58 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 13
 | 2022-12-19 | 57 | 24 | 
 | 2022-12-18 | 57 | 24 | 
 | 2022-12-17 | 57 | 24 | 
-| 2022-12-16 | 57 | 24 | 
 
