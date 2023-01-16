@@ -1,10 +1,10 @@
 # 99designs/gqlgen - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
-☋ Forks: 997
+☋ Forks: 999
 
-★ Stars: 8528
+★ Stars: 8529
 
 [Open repository](https://github.com/99designs/gqlgen)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 8529 | 999 | 
 | 2023-01-14 | 8528 | 997 | 
 | 2023-01-13 | 8519 | 998 | 
 | 2023-01-12 | 8514 | 996 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 8416 | 983 | 
 | 2022-12-18 | 8415 | 982 | 
 | 2022-12-17 | 8414 | 981 | 
-| 2022-12-16 | 8411 | 981 | 
 

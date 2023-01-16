@@ -1,10 +1,10 @@
 # owlman/markdown_guide - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 6
 
-★ Stars: 63
+★ Stars: 66
 
 [Open repository](https://github.com/owlman/markdown_guide)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 66 | 6 | 
 | 2023-01-14 | 63 | 6 | 
 | 2023-01-13 | 63 | 6 | 
 | 2023-01-12 | 62 | 6 | 

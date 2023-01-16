@@ -1,8 +1,8 @@
 # ddneves/awesome-azure-learning - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
-☋ Forks: 273
+☋ Forks: 274
 
 ★ Stars: 725
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 725 | 274 | 
 | 2023-01-14 | 725 | 273 | 
 | 2023-01-13 | 724 | 273 | 
 | 2023-01-12 | 723 | 273 | 

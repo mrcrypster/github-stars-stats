@@ -1,10 +1,10 @@
 # Slackes/HWID-Spoofer - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 35
 
-★ Stars: 129
+★ Stars: 130
 
 [Open repository](https://github.com/Slackes/HWID-Spoofer)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 130 | 35 | 
 | 2023-01-14 | 129 | 35 | 
 | 2023-01-13 | 128 | 34 | 
 | 2023-01-12 | 127 | 34 | 

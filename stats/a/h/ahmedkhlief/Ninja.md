@@ -1,10 +1,10 @@
 # ahmedkhlief/Ninja - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
-☋ Forks: 149
+☋ Forks: 148
 
-★ Stars: 656
+★ Stars: 657
 
 [Open repository](https://github.com/ahmedkhlief/Ninja)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 657 | 148 | 
 | 2023-01-14 | 656 | 149 | 
 | 2023-01-13 | 656 | 149 | 
 | 2023-01-12 | 656 | 149 | 

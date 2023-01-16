@@ -1,6 +1,6 @@
 # emeryberger/CSrankings - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 2269
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 2109 | 2269 | 
 | 2023-01-15 | 2109 | 2269 | 
 | 2023-01-13 | 2104 | 2269 | 
 | 2023-01-12 | 2100 | 2265 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-19 | 2034 | 2233 | 
 | 2022-12-18 | 2034 | 2232 | 
 | 2022-12-17 | 2033 | 2231 | 
-| 2022-12-16 | 2032 | 2231 | 
 

@@ -1,10 +1,10 @@
 # davidwernhart/AlDente-Charge-Limiter - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 233
 
-★ Stars: 5827
+★ Stars: 5829
 
 [Open repository](https://github.com/davidwernhart/AlDente-Charge-Limiter)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 5829 | 233 | 
 | 2023-01-14 | 5827 | 233 | 
 | 2023-01-13 | 5824 | 233 | 
 | 2023-01-12 | 5819 | 233 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 5727 | 228 | 
 | 2022-12-18 | 5723 | 228 | 
 | 2022-12-17 | 5719 | 228 | 
-| 2022-12-16 | 5714 | 228 | 
 

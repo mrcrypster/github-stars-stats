@@ -1,10 +1,10 @@
 # facebook/flow - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 1866
 
-★ Stars: 21931
+★ Stars: 21933
 
 [Open repository](https://github.com/facebook/flow)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 21933 | 1866 | 
 | 2023-01-14 | 21931 | 1866 | 
 | 2023-01-13 | 21929 | 1864 | 
 | 2023-01-12 | 21926 | 1864 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 21908 | 1860 | 
 | 2022-12-18 | 21908 | 1860 | 
 | 2022-12-17 | 21907 | 1860 | 
-| 2022-12-16 | 21907 | 1858 | 
 

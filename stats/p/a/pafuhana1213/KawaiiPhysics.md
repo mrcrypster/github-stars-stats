@@ -1,10 +1,10 @@
 # pafuhana1213/KawaiiPhysics - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 186
 
-★ Stars: 1077
+★ Stars: 1079
 
 [Open repository](https://github.com/pafuhana1213/KawaiiPhysics)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 1079 | 186 | 
 | 2023-01-14 | 1077 | 186 | 
 | 2023-01-13 | 1077 | 186 | 
 | 2023-01-12 | 1075 | 186 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 1031 | 182 | 
 | 2022-12-18 | 1029 | 182 | 
 | 2022-12-17 | 1027 | 182 | 
-| 2022-12-16 | 1025 | 182 | 
 

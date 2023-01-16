@@ -1,6 +1,6 @@
 # RomanHotsiy/commitgpt - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 809 | 21 | 
 | 2023-01-14 | 809 | 21 | 
 | 2023-01-13 | 807 | 21 | 
 | 2023-01-12 | 806 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 711 | 15 | 
 | 2022-12-18 | 701 | 15 | 
 | 2022-12-17 | 681 | 15 | 
-| 2022-12-16 | 670 | 15 | 
 

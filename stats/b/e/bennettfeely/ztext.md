@@ -1,10 +1,10 @@
 # bennettfeely/ztext - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 16
 
-★ Stars: 276
+★ Stars: 278
 
 [Open repository](https://github.com/bennettfeely/ztext)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 278 | 16 | 
 | 2023-01-14 | 276 | 16 | 
 | 2023-01-13 | 276 | 16 | 
 | 2023-01-12 | 276 | 16 | 

@@ -1,10 +1,10 @@
 # sprintcube/docker-compose-lamp - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 1169
 
-★ Stars: 2059
+★ Stars: 2060
 
 [Open repository](https://github.com/sprintcube/docker-compose-lamp)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 2060 | 1169 | 
 | 2023-01-14 | 2059 | 1169 | 
 | 2023-01-13 | 2059 | 1169 | 
 | 2023-01-12 | 2055 | 1168 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 2031 | 1147 | 
 | 2022-12-18 | 2030 | 1147 | 
 | 2022-12-17 | 2032 | 1148 | 
-| 2022-12-16 | 2031 | 1148 | 
 

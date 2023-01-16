@@ -1,10 +1,10 @@
 # Pyxus/fray - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 2
 
-★ Stars: 49
+★ Stars: 54
 
 [Open repository](https://github.com/Pyxus/fray)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 54 | 2 | 
+| 2023-01-15 | 54 | 2 | 
 | 2023-01-14 | 49 | 2 | 
 | 2023-01-13 | 44 | 2 | 
 | 2023-01-12 | 44 | 2 | 

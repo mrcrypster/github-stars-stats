@@ -1,6 +1,6 @@
 # tpope/vim-endwise - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 101
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 1042 | 101 | 
 | 2023-01-14 | 1042 | 101 | 
 | 2023-01-13 | 1042 | 101 | 
 | 2023-01-12 | 1042 | 101 | 

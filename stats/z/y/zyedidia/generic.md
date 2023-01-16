@@ -1,10 +1,10 @@
 # zyedidia/generic - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
-☋ Forks: 56
+☋ Forks: 57
 
-★ Stars: 989
+★ Stars: 991
 
 [Open repository](https://github.com/zyedidia/generic)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 991 | 57 | 
 | 2023-01-14 | 989 | 56 | 
 | 2023-01-13 | 989 | 56 | 
 | 2023-01-12 | 988 | 56 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 970 | 53 | 
 | 2022-12-18 | 970 | 52 | 
 | 2022-12-17 | 970 | 52 | 
-| 2022-12-16 | 970 | 52 | 
 

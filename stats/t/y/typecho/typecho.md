@@ -1,10 +1,10 @@
 # typecho/typecho - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 1863
 
-★ Stars: 9643
+★ Stars: 9647
 
 [Open repository](https://github.com/typecho/typecho)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 9647 | 1863 | 
 | 2023-01-14 | 9643 | 1863 | 
 | 2023-01-13 | 9639 | 1863 | 
 | 2023-01-12 | 9638 | 1863 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 9572 | 1871 | 
 | 2022-12-18 | 9569 | 1870 | 
 | 2022-12-17 | 9570 | 1869 | 
-| 2022-12-16 | 9567 | 1869 | 
 

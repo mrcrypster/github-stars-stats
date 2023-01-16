@@ -1,10 +1,10 @@
 # ElemeFE/element - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
-☋ Forks: 14408
+☋ Forks: 14409
 
-★ Stars: 53002
+★ Stars: 53003
 
 [Open repository](https://github.com/ElemeFE/element)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 53003 | 14409 | 
 | 2023-01-14 | 53002 | 14408 | 
 | 2023-01-13 | 53000 | 14407 | 
 | 2023-01-12 | 52991 | 14406 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 52948 | 14366 | 
 | 2022-12-18 | 52945 | 14365 | 
 | 2022-12-17 | 52945 | 14365 | 
-| 2022-12-16 | 52944 | 14365 | 
 

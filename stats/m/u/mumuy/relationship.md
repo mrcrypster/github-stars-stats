@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 15
 
 ☋ Forks: 258
 
-★ Stars: 1828
+★ Stars: 1833
 
 [Open repository](https://github.com/mumuy/relationship)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-15 | 1828 | 258 | 
+| 2023-01-15 | 1833 | 258 | 
 | 2023-01-14 | 1828 | 258 | 
 | 2023-01-13 | 1797 | 257 | 
 | 2023-01-12 | 1647 | 250 | 

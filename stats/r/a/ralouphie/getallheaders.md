@@ -1,10 +1,10 @@
 # ralouphie/getallheaders - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 30
 
-★ Stars: 3517
+★ Stars: 3518
 
 [Open repository](https://github.com/ralouphie/getallheaders)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 3518 | 30 | 
 | 2023-01-14 | 3517 | 30 | 
 | 2023-01-13 | 3516 | 30 | 
 | 2023-01-12 | 3514 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 3497 | 30 | 
 | 2022-12-18 | 3497 | 30 | 
 | 2022-12-17 | 3497 | 30 | 
-| 2022-12-16 | 3496 | 30 | 
 

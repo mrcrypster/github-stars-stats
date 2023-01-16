@@ -1,6 +1,6 @@
 # deep-generative-models-AIM5036/deep-generative-models-AIM5036.github.io - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 2 | 17 | 
 | 2023-01-14 | 2 | 17 | 
 | 2023-01-13 | 2 | 17 | 
 | 2023-01-12 | 2 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 2 | 17 | 
 | 2022-12-18 | 2 | 17 | 
 | 2022-12-17 | 2 | 17 | 
-| 2022-12-16 | 2 | 17 | 
 

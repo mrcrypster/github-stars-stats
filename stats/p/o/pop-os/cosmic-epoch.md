@@ -1,10 +1,10 @@
 # pop-os/cosmic-epoch - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 7
 
-★ Stars: 260
+★ Stars: 259
 
 [Open repository](https://github.com/pop-os/cosmic-epoch)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 259 | 7 | 
 | 2023-01-14 | 260 | 7 | 
 | 2023-01-13 | 257 | 7 | 
 | 2023-01-12 | 257 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 230 | 7 | 
 | 2022-12-18 | 230 | 7 | 
 | 2022-12-17 | 230 | 7 | 
-| 2022-12-16 | 228 | 7 | 
 

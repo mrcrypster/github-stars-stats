@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 15
 
 ☋ Forks: 13
 
-★ Stars: 24
+★ Stars: 26
 
 [Open repository](https://github.com/MeewPunk/Alert-Memory-CPU)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-15 | 24 | 13 | 
+| 2023-01-15 | 26 | 13 | 
 | 2023-01-14 | 24 | 13 | 
 

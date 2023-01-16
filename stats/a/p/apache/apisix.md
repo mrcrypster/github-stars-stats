@@ -1,10 +1,10 @@
 # apache/apisix - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 2047
 
-★ Stars: 11044
+★ Stars: 11045
 
 [Open repository](https://github.com/apache/apisix)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 11045 | 2047 | 
 | 2023-01-14 | 11044 | 2047 | 
 | 2023-01-13 | 11038 | 2047 | 
 | 2023-01-12 | 11032 | 2046 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 10905 | 2021 | 
 | 2022-12-18 | 10892 | 2021 | 
 | 2022-12-17 | 10889 | 2023 | 
-| 2022-12-16 | 10888 | 2022 | 
 

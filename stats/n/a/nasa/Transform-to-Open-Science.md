@@ -1,10 +1,10 @@
 # nasa/Transform-to-Open-Science - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
-☋ Forks: 74
+☋ Forks: 75
 
-★ Stars: 392
+★ Stars: 394
 
 [Open repository](https://github.com/nasa/Transform-to-Open-Science)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 394 | 75 | 
 | 2023-01-14 | 392 | 74 | 
 | 2023-01-13 | 392 | 74 | 
 | 2023-01-12 | 388 | 74 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 381 | 73 | 
 | 2022-12-18 | 381 | 73 | 
 | 2022-12-17 | 381 | 73 | 
-| 2022-12-16 | 381 | 73 | 
 

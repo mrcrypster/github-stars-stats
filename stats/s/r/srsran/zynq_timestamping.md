@@ -1,6 +1,6 @@
 # srsran/zynq_timestamping - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 37 | 10 | 
 | 2023-01-14 | 37 | 10 | 
 | 2023-01-13 | 37 | 10 | 
 | 2023-01-12 | 36 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 34 | 7 | 
 | 2022-12-18 | 34 | 7 | 
 | 2022-12-17 | 34 | 7 | 
-| 2022-12-16 | 33 | 7 | 
 

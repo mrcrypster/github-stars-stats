@@ -1,10 +1,10 @@
 # ivanceras/sakila - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 117
 
-★ Stars: 114
+★ Stars: 115
 
 [Open repository](https://github.com/ivanceras/sakila)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 115 | 117 | 
 | 2023-01-14 | 114 | 117 | 
 | 2023-01-13 | 114 | 117 | 
 | 2023-01-12 | 114 | 117 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 114 | 116 | 
 | 2022-12-18 | 114 | 116 | 
 | 2022-12-17 | 114 | 116 | 
-| 2022-12-16 | 114 | 116 | 
 

@@ -1,10 +1,10 @@
 # CorsixTH/CorsixTH - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 290
 
-★ Stars: 2667
+★ Stars: 2668
 
 [Open repository](https://github.com/CorsixTH/CorsixTH)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 2668 | 290 | 
 | 2023-01-14 | 2667 | 290 | 
 | 2023-01-13 | 2667 | 289 | 
 | 2023-01-12 | 2667 | 289 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 2652 | 289 | 
 | 2022-12-18 | 2652 | 289 | 
 | 2022-12-17 | 2652 | 289 | 
-| 2022-12-16 | 2652 | 289 | 
 

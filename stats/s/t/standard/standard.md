@@ -1,8 +1,8 @@
 # standard/standard - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
-☋ Forks: 2359
+☋ Forks: 2361
 
 ★ Stars: 27844
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 27844 | 2361 | 
 | 2023-01-14 | 27844 | 2359 | 
 | 2023-01-13 | 27843 | 2359 | 
 | 2023-01-12 | 27840 | 2358 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 27764 | 2351 | 
 | 2022-12-18 | 27762 | 2351 | 
 | 2022-12-17 | 27756 | 2352 | 
-| 2022-12-16 | 27755 | 2350 | 
 

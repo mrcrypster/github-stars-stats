@@ -1,6 +1,6 @@
 # R0GGER/public-iperf3-servers - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 82 | 9 | 
 | 2023-01-14 | 82 | 9 | 
 | 2023-01-13 | 82 | 9 | 
 | 2023-01-12 | 82 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 79 | 8 | 
 | 2022-12-18 | 79 | 8 | 
 | 2022-12-17 | 79 | 8 | 
-| 2022-12-16 | 79 | 8 | 
 

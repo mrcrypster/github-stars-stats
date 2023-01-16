@@ -1,8 +1,8 @@
 # KOP-XIAO/QuantumultX - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
-☋ Forks: 548
+☋ Forks: 547
 
 ★ Stars: 1791
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 1791 | 547 | 
 | 2023-01-14 | 1791 | 548 | 
 | 2023-01-13 | 1789 | 548 | 
 | 2023-01-12 | 1787 | 548 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 1744 | 548 | 
 | 2022-12-18 | 1741 | 548 | 
 | 2022-12-17 | 1741 | 547 | 
-| 2022-12-16 | 1739 | 547 | 
 

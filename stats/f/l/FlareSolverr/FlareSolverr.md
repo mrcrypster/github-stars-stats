@@ -1,10 +1,10 @@
 # FlareSolverr/FlareSolverr - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 177
 
-★ Stars: 1831
+★ Stars: 1835
 
 [Open repository](https://github.com/FlareSolverr/FlareSolverr)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 1835 | 177 | 
 | 2023-01-14 | 1831 | 177 | 
 | 2023-01-13 | 1825 | 177 | 
 | 2023-01-12 | 1820 | 176 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 1715 | 164 | 
 | 2022-12-18 | 1712 | 165 | 
 | 2022-12-17 | 1707 | 165 | 
-| 2022-12-16 | 1705 | 165 | 
 

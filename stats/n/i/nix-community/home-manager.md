@@ -1,10 +1,10 @@
 # nix-community/home-manager - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
-☋ Forks: 1138
+☋ Forks: 1141
 
-★ Stars: 3608
+★ Stars: 3613
 
 [Open repository](https://github.com/nix-community/home-manager)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 3613 | 1141 | 
 | 2023-01-14 | 3608 | 1138 | 
 | 2023-01-13 | 3604 | 1138 | 
 | 2023-01-12 | 3601 | 1138 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 3478 | 1106 | 
 | 2022-12-18 | 3476 | 1105 | 
 | 2022-12-17 | 3475 | 1105 | 
-| 2022-12-16 | 3472 | 1104 | 
 

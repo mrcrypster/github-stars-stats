@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 15
 
-☋ Forks: 5
+☋ Forks: 6
 
-★ Stars: 59
+★ Stars: 64
 
 [Open repository](https://github.com/Apipost-Team/runnerGo)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-15 | 59 | 5 | 
+| 2023-01-15 | 64 | 6 | 
 | 2023-01-14 | 57 | 5 | 
 

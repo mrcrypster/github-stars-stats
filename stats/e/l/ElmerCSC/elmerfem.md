@@ -1,10 +1,10 @@
 # ElmerCSC/elmerfem - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 252
 
-★ Stars: 815
+★ Stars: 816
 
 [Open repository](https://github.com/ElmerCSC/elmerfem)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 816 | 252 | 
 | 2023-01-14 | 815 | 252 | 
 | 2023-01-13 | 814 | 252 | 
 | 2023-01-12 | 811 | 252 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 788 | 248 | 
 | 2022-12-18 | 788 | 248 | 
 | 2022-12-17 | 788 | 248 | 
-| 2022-12-16 | 788 | 248 | 
 

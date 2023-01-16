@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 15
 
 ☋ Forks: 4057
 
-★ Stars: 13596
+★ Stars: 13599
 
 [Open repository](https://github.com/sudheerj/javascript-interview-questions)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-15 | 13596 | 4057 | 
+| 2023-01-15 | 13599 | 4057 | 
 | 2023-01-14 | 13596 | 4055 | 
 | 2023-01-13 | 13581 | 4048 | 
 | 2023-01-12 | 13552 | 4040 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 13205 | 3934 | 
 | 2022-12-19 | 13189 | 3934 | 
 | 2022-12-17 | 13182 | 3930 | 
-| 2022-12-16 | 13176 | 3924 | 
 

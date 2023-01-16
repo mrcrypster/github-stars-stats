@@ -1,10 +1,10 @@
 # SDWebImage/SDWebImageSwiftUI - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 149
 
-★ Stars: 1580
+★ Stars: 1582
 
 [Open repository](https://github.com/SDWebImage/SDWebImageSwiftUI)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 1582 | 149 | 
 | 2023-01-14 | 1580 | 149 | 
 | 2023-01-13 | 1580 | 149 | 
 | 2023-01-12 | 1580 | 149 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 1559 | 148 | 
 | 2022-12-18 | 1559 | 148 | 
 | 2022-12-17 | 1559 | 148 | 
-| 2022-12-16 | 1558 | 147 | 
 

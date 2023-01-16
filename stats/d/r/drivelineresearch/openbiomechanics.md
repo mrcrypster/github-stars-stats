@@ -1,10 +1,10 @@
 # drivelineresearch/openbiomechanics - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 17
 
-★ Stars: 109
+★ Stars: 110
 
 [Open repository](https://github.com/drivelineresearch/openbiomechanics)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 110 | 17 | 
 | 2023-01-14 | 109 | 17 | 
 | 2023-01-13 | 109 | 17 | 
 | 2023-01-12 | 109 | 17 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 75 | 4 | 
 | 2022-12-18 | 73 | 2 | 
 | 2022-12-17 | 72 | 2 | 
-| 2022-12-16 | 71 | 2 | 
 

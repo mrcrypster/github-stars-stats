@@ -1,10 +1,10 @@
 # abbodi1406/C2R-R2V-AIO - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 68
 
-★ Stars: 361
+★ Stars: 362
 
 [Open repository](https://github.com/abbodi1406/C2R-R2V-AIO)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 362 | 68 | 
 | 2023-01-14 | 361 | 68 | 
 | 2023-01-13 | 359 | 68 | 
 | 2023-01-12 | 358 | 68 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 353 | 66 | 
 | 2022-12-18 | 353 | 66 | 
 | 2022-12-17 | 352 | 66 | 
-| 2022-12-16 | 352 | 66 | 
 

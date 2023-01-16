@@ -1,10 +1,10 @@
 # Z3BRO/FzDumps - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
-☋ Forks: 6
+☋ Forks: 7
 
-★ Stars: 35
+★ Stars: 39
 
 [Open repository](https://github.com/Z3BRO/FzDumps)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 39 | 7 | 
 | 2023-01-14 | 35 | 6 | 
 | 2023-01-13 | 32 | 5 | 
 | 2023-01-12 | 31 | 5 | 

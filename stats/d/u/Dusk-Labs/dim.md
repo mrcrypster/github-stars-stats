@@ -1,10 +1,10 @@
 # Dusk-Labs/dim - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 125
 
-★ Stars: 3146
+★ Stars: 3147
 
 [Open repository](https://github.com/Dusk-Labs/dim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 3147 | 125 | 
 | 2023-01-14 | 3146 | 125 | 
 | 2023-01-13 | 3146 | 125 | 
 | 2023-01-12 | 3143 | 125 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 3101 | 124 | 
 | 2022-12-18 | 3100 | 124 | 
 | 2022-12-17 | 3096 | 124 | 
-| 2022-12-16 | 3096 | 123 | 
 

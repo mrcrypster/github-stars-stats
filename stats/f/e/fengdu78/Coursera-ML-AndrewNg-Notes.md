@@ -1,10 +1,10 @@
 # fengdu78/Coursera-ML-AndrewNg-Notes - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
-☋ Forks: 9982
+☋ Forks: 9983
 
-★ Stars: 26796
+★ Stars: 26797
 
 [Open repository](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 26797 | 9983 | 
 | 2023-01-14 | 26796 | 9982 | 
 | 2023-01-13 | 26791 | 9977 | 
 | 2023-01-12 | 26782 | 9975 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 26672 | 9950 | 
 | 2022-12-18 | 26671 | 9948 | 
 | 2022-12-17 | 26669 | 9949 | 
-| 2022-12-16 | 26665 | 9947 | 
 

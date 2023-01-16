@@ -1,8 +1,8 @@
 # zealvora/terraform-beginner-to-advanced-resource - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
-☋ Forks: 3230
+☋ Forks: 3231
 
 ★ Stars: 1110
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 1110 | 3231 | 
 | 2023-01-14 | 1110 | 3230 | 
 | 2023-01-13 | 1109 | 3227 | 
 | 2023-01-12 | 1106 | 3221 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 1068 | 3112 | 
 | 2022-12-18 | 1068 | 3107 | 
 | 2022-12-17 | 1068 | 3107 | 
-| 2022-12-16 | 1065 | 3106 | 
 

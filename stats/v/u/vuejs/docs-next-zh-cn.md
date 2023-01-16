@@ -1,6 +1,6 @@
 # vuejs/docs-next-zh-cn - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 909
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 971 | 909 | 
 | 2023-01-14 | 971 | 909 | 
 | 2023-01-13 | 971 | 909 | 
 | 2023-01-12 | 971 | 909 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-20 | 971 | 915 | 
 | 2022-12-19 | 971 | 915 | 
 | 2022-12-18 | 971 | 915 | 
-| 2022-12-17 | 971 | 916 | 
 

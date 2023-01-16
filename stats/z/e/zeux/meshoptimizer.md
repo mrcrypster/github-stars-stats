@@ -1,10 +1,10 @@
 # zeux/meshoptimizer - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 331
 
-★ Stars: 3878
+★ Stars: 3881
 
 [Open repository](https://github.com/zeux/meshoptimizer)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 3881 | 331 | 
 | 2023-01-14 | 3878 | 331 | 
 | 2023-01-13 | 3876 | 331 | 
 | 2023-01-12 | 3876 | 331 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-20 | 3834 | 324 | 
 | 2022-12-18 | 3832 | 324 | 
 | 2022-12-17 | 3832 | 323 | 
-| 2022-12-16 | 3831 | 323 | 
 

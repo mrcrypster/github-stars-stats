@@ -1,6 +1,6 @@
 # mlocati/docker-php-extension-installer - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 284
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 2816 | 284 | 
 | 2023-01-15 | 2816 | 284 | 
 | 2023-01-13 | 2812 | 284 | 
 | 2023-01-12 | 2807 | 282 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 2753 | 278 | 
 | 2022-12-19 | 2751 | 277 | 
 | 2022-12-18 | 2750 | 278 | 
-| 2022-12-17 | 2749 | 278 | 
 

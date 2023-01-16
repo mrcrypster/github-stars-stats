@@ -1,6 +1,6 @@
 # hujie-frank/SENet - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 821
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 3066 | 821 | 
 | 2023-01-14 | 3066 | 821 | 
 | 2023-01-13 | 3066 | 821 | 
 | 2023-01-12 | 3065 | 821 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 3055 | 822 | 
 | 2022-12-18 | 3055 | 822 | 
 | 2022-12-17 | 3055 | 822 | 
-| 2022-12-16 | 3054 | 822 | 
 

@@ -1,10 +1,10 @@
 # mapbox/mapbox-gl-js - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 2052
 
-★ Stars: 9465
+★ Stars: 9467
 
 [Open repository](https://github.com/mapbox/mapbox-gl-js)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 9467 | 2052 | 
 | 2023-01-14 | 9465 | 2052 | 
 | 2023-01-13 | 9463 | 2052 | 
 | 2023-01-12 | 9460 | 2050 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 9407 | 2040 | 
 | 2022-12-18 | 9407 | 2040 | 
 | 2022-12-17 | 9404 | 2040 | 
-| 2022-12-16 | 9404 | 2040 | 
 

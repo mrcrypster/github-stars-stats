@@ -1,10 +1,10 @@
 # Duan-JM/awesome-papers-fewshot - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 130
 
-★ Stars: 844
+★ Stars: 845
 
 [Open repository](https://github.com/Duan-JM/awesome-papers-fewshot)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 845 | 130 | 
 | 2023-01-14 | 844 | 130 | 
 | 2023-01-13 | 844 | 130 | 
 | 2023-01-12 | 844 | 130 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 842 | 129 | 
 | 2022-12-18 | 842 | 129 | 
 | 2022-12-17 | 842 | 129 | 
-| 2022-12-16 | 842 | 129 | 
 

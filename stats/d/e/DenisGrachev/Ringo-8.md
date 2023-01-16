@@ -1,6 +1,6 @@
 # DenisGrachev/Ringo-8 - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 31 | 2 | 
 | 2023-01-14 | 31 | 2 | 
 | 2023-01-13 | 31 | 2 | 
 | 2023-01-12 | 31 | 2 | 

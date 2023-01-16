@@ -1,10 +1,10 @@
 # OpenKore/openkore - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 1001
 
-★ Stars: 1105
+★ Stars: 1107
 
 [Open repository](https://github.com/OpenKore/openkore)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 1107 | 1001 | 
 | 2023-01-14 | 1105 | 1001 | 
 | 2023-01-13 | 1105 | 1001 | 
 | 2023-01-12 | 1105 | 1001 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 1100 | 1001 | 
 | 2022-12-18 | 1100 | 1001 | 
 | 2022-12-17 | 1100 | 1001 | 
-| 2022-12-16 | 1100 | 1001 | 
 

@@ -1,10 +1,10 @@
 # Sank6/YouTube-Wrapped - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 2
 
-★ Stars: 14
+★ Stars: 13
 
 [Open repository](https://github.com/Sank6/YouTube-Wrapped)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 13 | 2 | 
 | 2023-01-14 | 14 | 2 | 
 | 2023-01-13 | 14 | 2 | 
 | 2023-01-12 | 14 | 2 | 

@@ -1,10 +1,10 @@
 # metatube-community/jellyfin-plugin-metatube - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
-☋ Forks: 132
+☋ Forks: 131
 
-★ Stars: 1129
+★ Stars: 1133
 
 [Open repository](https://github.com/metatube-community/jellyfin-plugin-metatube)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 1133 | 131 | 
 | 2023-01-14 | 1129 | 132 | 
 | 2023-01-13 | 1125 | 132 | 
 | 2023-01-12 | 1123 | 131 | 

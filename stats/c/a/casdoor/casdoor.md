@@ -1,10 +1,10 @@
 # casdoor/casdoor - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 582
 
-★ Stars: 4908
+★ Stars: 4907
 
 [Open repository](https://github.com/casdoor/casdoor)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 4907 | 582 | 
 | 2023-01-15 | 4908 | 582 | 
 | 2023-01-14 | 4901 | 582 | 
 | 2023-01-12 | 4890 | 580 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-19 | 4757 | 566 | 
 | 2022-12-18 | 4754 | 565 | 
 | 2022-12-17 | 4752 | 564 | 
-| 2022-12-16 | 4750 | 563 | 
 

@@ -1,10 +1,10 @@
 # iamadamdev/bypass-paywalls-chrome - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
-☋ Forks: 2399
+☋ Forks: 2400
 
-★ Stars: 32627
+★ Stars: 32651
 
 [Open repository](https://github.com/iamadamdev/bypass-paywalls-chrome)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 32651 | 2400 | 
 | 2023-01-14 | 32627 | 2399 | 
 | 2023-01-13 | 32603 | 2393 | 
 | 2023-01-12 | 32582 | 2389 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 31974 | 2346 | 
 | 2022-12-18 | 31936 | 2344 | 
 | 2022-12-17 | 31906 | 2342 | 
-| 2022-12-16 | 31879 | 2341 | 
 

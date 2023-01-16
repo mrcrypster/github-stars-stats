@@ -1,10 +1,10 @@
 # Rimmuru/Rimurus-2T1-Scripts - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 7
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/Rimmuru/Rimurus-2T1-Scripts)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 23 | 7 | 
 | 2023-01-14 | 22 | 7 | 
 | 2023-01-13 | 21 | 7 | 
 | 2023-01-12 | 21 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 20 | 6 | 
 | 2022-12-18 | 19 | 6 | 
 | 2022-12-17 | 19 | 6 | 
-| 2022-12-16 | 19 | 6 | 
 

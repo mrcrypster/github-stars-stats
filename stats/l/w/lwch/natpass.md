@@ -1,6 +1,6 @@
 # lwch/natpass - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 366
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 3156 | 366 | 
 | 2023-01-14 | 3156 | 366 | 
 | 2023-01-13 | 3153 | 366 | 
 | 2023-01-12 | 3150 | 366 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 3053 | 360 | 
 | 2022-12-18 | 3053 | 360 | 
 | 2022-12-17 | 3052 | 359 | 
-| 2022-12-16 | 3050 | 359 | 
 

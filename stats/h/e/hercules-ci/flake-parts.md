@@ -1,10 +1,10 @@
 # hercules-ci/flake-parts - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 15
 
-★ Stars: 187
+★ Stars: 191
 
 [Open repository](https://github.com/hercules-ci/flake-parts)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 191 | 15 | 
 | 2023-01-14 | 187 | 15 | 
 | 2023-01-13 | 187 | 15 | 
 | 2023-01-12 | 187 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 150 | 12 | 
 | 2022-12-18 | 149 | 12 | 
 | 2022-12-17 | 148 | 11 | 
-| 2022-12-16 | 147 | 11 | 
 

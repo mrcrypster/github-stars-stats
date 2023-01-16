@@ -1,0 +1,18 @@
+# hmcts/azure-platform-terraform - stars & forks statistics
+
+Stats updated on Jan 2023, 16
+
+☋ Forks: 10
+
+★ Stars: 6
+
+[Open repository](https://github.com/hmcts/azure-platform-terraform)
+
+[Open detailed stats for hmcts/azure-platform-terraform](https://reviewgithub.com/rep/hmcts/azure-platform-terraform)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-01-16 | 6 | 10 | 
+| 2023-01-15 | 6 | 10 | 
+

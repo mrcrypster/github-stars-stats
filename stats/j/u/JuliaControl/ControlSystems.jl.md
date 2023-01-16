@@ -1,6 +1,6 @@
 # JuliaControl/ControlSystems.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 82
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 413 | 82 | 
 | 2023-01-15 | 413 | 82 | 
 | 2023-01-13 | 413 | 82 | 
 | 2023-01-12 | 413 | 82 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-19 | 408 | 79 | 
 | 2022-12-18 | 408 | 79 | 
 | 2022-12-17 | 406 | 79 | 
-| 2022-12-16 | 405 | 79 | 
 

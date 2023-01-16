@@ -1,6 +1,6 @@
 # chipsalliance/Cores-SweRV - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 178
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 652 | 178 | 
 | 2023-01-14 | 652 | 178 | 
 | 2023-01-13 | 652 | 178 | 
 | 2023-01-12 | 651 | 178 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 642 | 178 | 
 | 2022-12-18 | 642 | 177 | 
 | 2022-12-17 | 641 | 177 | 
-| 2022-12-16 | 641 | 177 | 
 

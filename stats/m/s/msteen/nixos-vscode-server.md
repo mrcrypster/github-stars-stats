@@ -1,10 +1,10 @@
 # msteen/nixos-vscode-server - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 42
 
-★ Stars: 162
+★ Stars: 163
 
 [Open repository](https://github.com/msteen/nixos-vscode-server)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 163 | 42 | 
 | 2023-01-14 | 162 | 42 | 
 | 2023-01-13 | 162 | 42 | 
 | 2023-01-12 | 162 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 155 | 42 | 
 | 2022-12-18 | 154 | 42 | 
 | 2022-12-17 | 154 | 42 | 
-| 2022-12-16 | 154 | 42 | 
 

@@ -1,8 +1,8 @@
 # sunflower-land/sunflower-land - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
-☋ Forks: 449
+☋ Forks: 450
 
 ★ Stars: 1419
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 1419 | 450 | 
 | 2023-01-14 | 1419 | 449 | 
 | 2023-01-13 | 1418 | 449 | 
 | 2023-01-12 | 1416 | 449 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 1404 | 448 | 
 | 2022-12-18 | 1404 | 448 | 
 | 2022-12-17 | 1402 | 448 | 
-| 2022-12-16 | 1401 | 447 | 
 

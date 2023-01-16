@@ -1,6 +1,6 @@
 # SDWebImage/SDWebImageWebPCoder - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 71
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 162 | 71 | 
 | 2023-01-14 | 162 | 71 | 
 | 2023-01-13 | 162 | 71 | 
 | 2023-01-12 | 162 | 71 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 159 | 71 | 
 | 2022-12-18 | 159 | 71 | 
 | 2022-12-17 | 159 | 71 | 
-| 2022-12-16 | 159 | 71 | 
 

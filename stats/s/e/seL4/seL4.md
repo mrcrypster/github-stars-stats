@@ -1,10 +1,10 @@
 # seL4/seL4 - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 566
 
-★ Stars: 4044
+★ Stars: 4045
 
 [Open repository](https://github.com/seL4/seL4)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 4045 | 566 | 
 | 2023-01-14 | 4044 | 566 | 
 | 2023-01-13 | 4041 | 565 | 
 | 2023-01-12 | 4040 | 565 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 4027 | 559 | 
 | 2022-12-18 | 4027 | 558 | 
 | 2022-12-17 | 4024 | 558 | 
-| 2022-12-16 | 4024 | 558 | 
 

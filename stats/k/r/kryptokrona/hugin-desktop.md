@@ -1,6 +1,6 @@
 # kryptokrona/hugin-desktop - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 15 | 10 | 
 | 2023-01-14 | 15 | 10 | 
 | 2023-01-13 | 15 | 10 | 
 | 2023-01-12 | 15 | 10 | 

@@ -1,10 +1,10 @@
 # Rdmo1/Neptune - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 79
 
-★ Stars: 105
+★ Stars: 108
 
 [Open repository](https://github.com/Rdmo1/Neptune)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 108 | 79 | 
 | 2023-01-14 | 105 | 79 | 
 | 2023-01-13 | 105 | 78 | 
 | 2023-01-12 | 104 | 78 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 92 | 75 | 
 | 2022-12-18 | 91 | 75 | 
 | 2022-12-17 | 89 | 74 | 
-| 2022-12-16 | 89 | 74 | 
 

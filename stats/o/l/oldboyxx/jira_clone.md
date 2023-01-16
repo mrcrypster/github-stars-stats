@@ -1,10 +1,10 @@
 # oldboyxx/jira_clone - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
-☋ Forks: 1662
+☋ Forks: 1664
 
-★ Stars: 9437
+★ Stars: 9441
 
 [Open repository](https://github.com/oldboyxx/jira_clone)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 9441 | 1664 | 
 | 2023-01-14 | 9437 | 1662 | 
 | 2023-01-13 | 9435 | 1663 | 
 | 2023-01-12 | 9432 | 1663 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-20 | 9365 | 1632 | 
 | 2022-12-18 | 9364 | 1630 | 
 | 2022-12-17 | 9363 | 1628 | 
-| 2022-12-16 | 9362 | 1628 | 
 

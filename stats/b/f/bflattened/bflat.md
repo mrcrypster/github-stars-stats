@@ -1,10 +1,10 @@
 # bflattened/bflat - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 50
 
-★ Stars: 2449
+★ Stars: 2456
 
 [Open repository](https://github.com/bflattened/bflat)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 2456 | 50 | 
 | 2023-01-14 | 2449 | 50 | 
 | 2023-01-13 | 2443 | 50 | 
 | 2023-01-12 | 2425 | 50 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 1556 | 34 | 
 | 2022-12-18 | 1555 | 34 | 
 | 2022-12-17 | 1553 | 34 | 
-| 2022-12-16 | 1553 | 34 | 
 

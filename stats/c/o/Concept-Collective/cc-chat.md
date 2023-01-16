@@ -1,6 +1,6 @@
 # Concept-Collective/cc-chat - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 40 | 26 | 
 | 2023-01-14 | 40 | 26 | 
 | 2023-01-13 | 40 | 26 | 
 | 2023-01-12 | 40 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-20 | 35 | 23 | 
 | 2022-12-18 | 35 | 23 | 
 | 2022-12-17 | 34 | 23 | 
-| 2022-12-16 | 34 | 23 | 
 

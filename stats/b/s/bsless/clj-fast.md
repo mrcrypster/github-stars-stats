@@ -1,10 +1,10 @@
 # bsless/clj-fast - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 1
 
-★ Stars: 209
+★ Stars: 210
 
 [Open repository](https://github.com/bsless/clj-fast)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 210 | 1 | 
 | 2023-01-14 | 209 | 1 | 
 | 2023-01-13 | 209 | 1 | 
 | 2023-01-12 | 209 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 206 | 1 | 
 | 2022-12-18 | 206 | 1 | 
 | 2022-12-17 | 206 | 1 | 
-| 2022-12-16 | 206 | 1 | 
 

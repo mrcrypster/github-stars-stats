@@ -1,10 +1,10 @@
 # Nik-Potokar/XIVSlothCombo - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
-☋ Forks: 124
+☋ Forks: 130
 
-★ Stars: 125
+★ Stars: 128
 
 [Open repository](https://github.com/Nik-Potokar/XIVSlothCombo)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 128 | 130 | 
 | 2023-01-14 | 125 | 124 | 
 | 2023-01-13 | 125 | 124 | 
 | 2023-01-12 | 125 | 124 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 116 | 116 | 
 | 2022-12-18 | 116 | 116 | 
 | 2022-12-17 | 116 | 116 | 
-| 2022-12-16 | 116 | 117 | 
 

@@ -1,10 +1,10 @@
 # etiennestuder/gradle-jooq-plugin - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 75
 
-★ Stars: 436
+★ Stars: 437
 
 [Open repository](https://github.com/etiennestuder/gradle-jooq-plugin)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 437 | 75 | 
 | 2023-01-14 | 436 | 75 | 
 | 2023-01-13 | 436 | 74 | 
 | 2023-01-12 | 436 | 74 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-20 | 433 | 75 | 
 | 2022-12-18 | 433 | 75 | 
 | 2022-12-17 | 433 | 75 | 
-| 2022-12-16 | 433 | 75 | 
 

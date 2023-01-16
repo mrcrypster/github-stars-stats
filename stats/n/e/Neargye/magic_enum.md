@@ -1,6 +1,6 @@
 # Neargye/magic_enum - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 320
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 3324 | 320 | 
 | 2023-01-14 | 3324 | 320 | 
 | 2023-01-13 | 3322 | 320 | 
 | 2023-01-12 | 3321 | 320 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 3277 | 313 | 
 | 2022-12-18 | 3272 | 311 | 
 | 2022-12-17 | 3272 | 311 | 
-| 2022-12-16 | 3271 | 311 | 
 

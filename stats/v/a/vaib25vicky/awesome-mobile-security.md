@@ -1,10 +1,10 @@
 # vaib25vicky/awesome-mobile-security - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 285
 
-★ Stars: 2306
+★ Stars: 2308
 
 [Open repository](https://github.com/vaib25vicky/awesome-mobile-security)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 2308 | 285 | 
 | 2023-01-14 | 2306 | 285 | 
 | 2023-01-12 | 2305 | 285 | 
 | 2023-01-11 | 2305 | 285 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 2287 | 284 | 
 | 2022-12-18 | 2287 | 284 | 
 | 2022-12-17 | 2287 | 284 | 
-| 2022-12-16 | 2286 | 284 | 
 

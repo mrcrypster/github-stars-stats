@@ -1,6 +1,6 @@
 # firesim/icenet - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 9 | 18 | 
 | 2023-01-14 | 9 | 18 | 
 | 2023-01-13 | 9 | 18 | 
 | 2023-01-12 | 9 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 8 | 18 | 
 | 2022-12-18 | 8 | 18 | 
 | 2022-12-17 | 8 | 18 | 
-| 2022-12-16 | 8 | 18 | 
 

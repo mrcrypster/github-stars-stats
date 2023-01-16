@@ -1,10 +1,10 @@
 # perazz/fitpack - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 3
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/perazz/fitpack)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 24 | 3 | 
 | 2023-01-14 | 23 | 3 | 
 | 2023-01-13 | 23 | 3 | 
 | 2023-01-12 | 23 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 22 | 2 | 
 | 2022-12-18 | 22 | 2 | 
 | 2022-12-17 | 22 | 2 | 
-| 2022-12-16 | 22 | 2 | 
 

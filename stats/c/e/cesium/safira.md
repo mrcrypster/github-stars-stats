@@ -1,6 +1,6 @@
 # cesium/safira - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 37 | 3 | 
 | 2023-01-14 | 37 | 3 | 
 | 2023-01-13 | 37 | 3 | 
 | 2023-01-12 | 37 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 37 | 3 | 
 | 2022-12-18 | 37 | 3 | 
 | 2022-12-17 | 37 | 3 | 
-| 2022-12-16 | 37 | 3 | 
 

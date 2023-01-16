@@ -1,10 +1,10 @@
 # learntocloud/learn-to-cloud - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
-☋ Forks: 680
+☋ Forks: 682
 
-★ Stars: 3872
+★ Stars: 3875
 
 [Open repository](https://github.com/learntocloud/learn-to-cloud)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 3875 | 682 | 
 | 2023-01-14 | 3872 | 680 | 
 | 2023-01-13 | 3870 | 679 | 
 | 2023-01-12 | 3867 | 676 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 3735 | 641 | 
 | 2022-12-18 | 3735 | 641 | 
 | 2022-12-17 | 3730 | 641 | 
-| 2022-12-16 | 3700 | 633 | 
 

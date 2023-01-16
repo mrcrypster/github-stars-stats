@@ -1,10 +1,10 @@
 # mkawalec/deluge - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 5
 
-★ Stars: 297
+★ Stars: 298
 
 [Open repository](https://github.com/mkawalec/deluge)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 298 | 5 | 
 | 2023-01-14 | 297 | 5 | 
 | 2023-01-13 | 297 | 5 | 
 | 2023-01-12 | 297 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 294 | 5 | 
 | 2022-12-18 | 294 | 5 | 
 | 2022-12-17 | 294 | 5 | 
-| 2022-12-16 | 294 | 5 | 
 

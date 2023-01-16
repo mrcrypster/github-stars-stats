@@ -1,8 +1,8 @@
 # ucb-bar/chipyard - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
-☋ Forks: 433
+☋ Forks: 432
 
 ★ Stars: 983
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 983 | 432 | 
 | 2023-01-14 | 983 | 433 | 
 | 2023-01-13 | 981 | 434 | 
 | 2023-01-12 | 978 | 434 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 955 | 425 | 
 | 2022-12-18 | 954 | 424 | 
 | 2022-12-17 | 953 | 424 | 
-| 2022-12-16 | 951 | 424 | 
 

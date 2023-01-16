@@ -1,10 +1,10 @@
 # jina-ai/discoart - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 207
 
-★ Stars: 3470
+★ Stars: 3471
 
 [Open repository](https://github.com/jina-ai/discoart)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 3471 | 207 | 
 | 2023-01-14 | 3470 | 207 | 
 | 2023-01-13 | 3469 | 208 | 
 | 2023-01-12 | 3469 | 208 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 3429 | 204 | 
 | 2022-12-18 | 3429 | 204 | 
 | 2022-12-17 | 3427 | 204 | 
-| 2022-12-16 | 3424 | 204 | 
 

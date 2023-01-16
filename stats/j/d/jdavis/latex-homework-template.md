@@ -1,6 +1,6 @@
 # jdavis/latex-homework-template - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 395
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 951 | 395 | 
 | 2023-01-14 | 951 | 395 | 
 | 2023-01-13 | 951 | 395 | 
 | 2023-01-12 | 950 | 395 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 946 | 396 | 
 | 2022-12-18 | 946 | 396 | 
 | 2022-12-17 | 946 | 397 | 
-| 2022-12-16 | 946 | 397 | 
 

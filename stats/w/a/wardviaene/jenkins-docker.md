@@ -1,8 +1,8 @@
 # wardviaene/jenkins-docker - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
-☋ Forks: 845
+☋ Forks: 844
 
 ★ Stars: 82
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 82 | 844 | 
 | 2023-01-14 | 82 | 845 | 
 | 2023-01-13 | 82 | 845 | 
 | 2023-01-12 | 81 | 845 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 79 | 839 | 
 | 2022-12-18 | 79 | 838 | 
 | 2022-12-17 | 79 | 838 | 
-| 2022-12-16 | 79 | 837 | 
 

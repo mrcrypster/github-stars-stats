@@ -1,6 +1,6 @@
 # didi/nightingale - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 980
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 5764 | 980 | 
 | 2023-01-15 | 5764 | 980 | 
 | 2023-01-13 | 5762 | 980 | 
 | 2023-01-12 | 5761 | 979 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-19 | 5700 | 968 | 
 | 2022-12-18 | 5694 | 968 | 
 | 2022-12-17 | 5694 | 968 | 
-| 2022-12-16 | 5694 | 967 | 
 

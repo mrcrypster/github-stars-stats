@@ -1,10 +1,10 @@
 # oleiade/lane - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 73
 
-★ Stars: 834
+★ Stars: 835
 
 [Open repository](https://github.com/oleiade/lane)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 835 | 73 | 
 | 2023-01-14 | 834 | 73 | 
 | 2023-01-13 | 833 | 73 | 
 | 2023-01-12 | 833 | 73 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 833 | 73 | 
 | 2022-12-18 | 833 | 73 | 
 | 2022-12-17 | 833 | 73 | 
-| 2022-12-16 | 833 | 73 | 
 

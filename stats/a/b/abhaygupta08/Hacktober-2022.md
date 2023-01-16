@@ -1,10 +1,10 @@
 # abhaygupta08/Hacktober-2022 - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
-☋ Forks: 209
+☋ Forks: 208
 
-★ Stars: 115
+★ Stars: 116
 
 [Open repository](https://github.com/abhaygupta08/Hacktober-2022)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 116 | 208 | 
 | 2023-01-14 | 115 | 209 | 
 | 2023-01-13 | 115 | 209 | 
 | 2023-01-12 | 115 | 209 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 116 | 213 | 
 | 2022-12-18 | 116 | 213 | 
 | 2022-12-17 | 116 | 214 | 
-| 2022-12-16 | 116 | 214 | 
 

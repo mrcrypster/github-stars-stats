@@ -1,10 +1,10 @@
 # aalmiray/java-champions - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 135
 
-★ Stars: 301
+★ Stars: 302
 
 [Open repository](https://github.com/aalmiray/java-champions)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 302 | 135 | 
 | 2023-01-14 | 301 | 135 | 
 | 2023-01-13 | 300 | 135 | 
 | 2023-01-12 | 300 | 135 | 

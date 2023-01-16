@@ -1,10 +1,10 @@
 # huanghongxun/HMCL - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 519
 
-★ Stars: 4743
+★ Stars: 4748
 
 [Open repository](https://github.com/huanghongxun/HMCL)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 4748 | 519 | 
 | 2023-01-14 | 4743 | 519 | 
 | 2023-01-13 | 4741 | 522 | 
 | 2023-01-12 | 4738 | 522 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 4617 | 515 | 
 | 2022-12-18 | 4610 | 515 | 
 | 2022-12-17 | 4604 | 515 | 
-| 2022-12-16 | 4598 | 515 | 
 

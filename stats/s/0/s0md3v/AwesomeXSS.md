@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 15
 
 ☋ Forks: 713
 
-★ Stars: 4177
+★ Stars: 4179
 
 [Open repository](https://github.com/s0md3v/AwesomeXSS)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-15 | 4177 | 713 | 
+| 2023-01-15 | 4179 | 713 | 
 | 2023-01-14 | 4176 | 713 | 
 

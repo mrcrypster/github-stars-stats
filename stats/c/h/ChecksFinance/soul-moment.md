@@ -1,6 +1,6 @@
 # ChecksFinance/soul-moment - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 38 | - | 
 | 2023-01-14 | 38 | - | 
 | 2023-01-13 | 38 | - | 
 | 2023-01-12 | 38 | - | 

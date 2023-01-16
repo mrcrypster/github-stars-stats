@@ -1,10 +1,10 @@
 # react-grid-layout/react-grid-layout - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 2297
 
-★ Stars: 16983
+★ Stars: 16987
 
 [Open repository](https://github.com/react-grid-layout/react-grid-layout)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 16987 | 2297 | 
 | 2023-01-14 | 16983 | 2297 | 
 | 2023-01-13 | 16978 | 2296 | 
 | 2023-01-12 | 16975 | 2296 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 16840 | 2282 | 
 | 2022-12-18 | 16834 | 2282 | 
 | 2022-12-17 | 16831 | 2281 | 
-| 2022-12-16 | 16826 | 2281 | 
 

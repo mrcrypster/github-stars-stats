@@ -1,10 +1,10 @@
 # ProstoSanja/place-2022 - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 5
 
-★ Stars: 157
+★ Stars: 156
 
 [Open repository](https://github.com/ProstoSanja/place-2022)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 156 | 5 | 
 | 2023-01-14 | 157 | 5 | 
 | 2023-01-13 | 157 | 5 | 
 | 2023-01-12 | 157 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 157 | 5 | 
 | 2022-12-18 | 157 | 5 | 
 | 2022-12-17 | 157 | 5 | 
-| 2022-12-16 | 158 | 5 | 
 

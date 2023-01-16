@@ -1,10 +1,10 @@
 # fireship-io/fireship.io - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
-☋ Forks: 987
+☋ Forks: 989
 
-★ Stars: 2541
+★ Stars: 2546
 
 [Open repository](https://github.com/fireship-io/fireship.io)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 2546 | 989 | 
 | 2023-01-14 | 2541 | 987 | 
 | 2023-01-13 | 2541 | 987 | 
 | 2023-01-12 | 2540 | 988 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 2496 | 967 | 
 | 2022-12-18 | 2493 | 965 | 
 | 2022-12-17 | 2493 | 965 | 
-| 2022-12-16 | 2489 | 964 | 
 

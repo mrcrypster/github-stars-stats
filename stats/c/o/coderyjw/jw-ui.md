@@ -1,10 +1,10 @@
 # coderyjw/jw-ui - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 5
 
-★ Stars: 68
+★ Stars: 71
 
 [Open repository](https://github.com/coderyjw/jw-ui)
 
@@ -13,5 +13,6 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 71 | 5 | 
 | 2023-01-14 | 68 | 5 | 
 

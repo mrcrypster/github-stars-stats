@@ -1,10 +1,10 @@
 # metersphere/metersphere - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 2071
 
-★ Stars: 8689
+★ Stars: 8691
 
 [Open repository](https://github.com/metersphere/metersphere)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 8691 | 2071 | 
 | 2023-01-14 | 8689 | 2071 | 
 | 2023-01-13 | 8687 | 2070 | 
 | 2023-01-12 | 8684 | 2069 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 8613 | 2051 | 
 | 2022-12-18 | 8610 | 2051 | 
 | 2022-12-17 | 8610 | 2051 | 
-| 2022-12-16 | 8609 | 2050 | 
 

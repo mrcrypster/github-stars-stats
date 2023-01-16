@@ -1,10 +1,10 @@
 # mitchspano/apex-trigger-actions-framework - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 98
 
-★ Stars: 324
+★ Stars: 325
 
 [Open repository](https://github.com/mitchspano/apex-trigger-actions-framework)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 325 | 98 | 
 | 2023-01-14 | 324 | 98 | 
 | 2023-01-13 | 324 | 98 | 
 | 2023-01-12 | 324 | 98 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 315 | 92 | 
 | 2022-12-18 | 315 | 92 | 
 | 2022-12-17 | 315 | 92 | 
-| 2022-12-16 | 315 | 92 | 
 

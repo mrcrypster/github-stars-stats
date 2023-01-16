@@ -1,8 +1,8 @@
 # Acensti/Voidcrew-LRP - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
-☋ Forks: 9
+☋ Forks: 11
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 2 | 11 | 
 | 2023-01-14 | 2 | 9 | 
 | 2023-01-13 | 2 | 9 | 
 | 2023-01-12 | 2 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 2 | 8 | 
 | 2022-12-18 | 2 | 8 | 
 | 2022-12-17 | 2 | 6 | 
-| 2022-12-16 | 2 | 6 | 
 

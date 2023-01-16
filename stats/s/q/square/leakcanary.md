@@ -1,10 +1,10 @@
 # square/leakcanary - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 3921
 
-★ Stars: 28149
+★ Stars: 28148
 
 [Open repository](https://github.com/square/leakcanary)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 28148 | 3921 | 
 | 2023-01-14 | 28149 | 3921 | 
 | 2023-01-13 | 28146 | 3921 | 
 | 2023-01-12 | 28142 | 3921 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 28091 | 3923 | 
 | 2022-12-18 | 28088 | 3923 | 
 | 2022-12-17 | 28088 | 3923 | 
-| 2022-12-16 | 28085 | 3923 | 
 

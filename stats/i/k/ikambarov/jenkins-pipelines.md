@@ -1,6 +1,6 @@
 # ikambarov/jenkins-pipelines - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | - | 8 | 
 | 2023-01-15 | - | 8 | 
 | 2023-01-14 | - | 8 | 
 | 2023-01-12 | - | 8 | 

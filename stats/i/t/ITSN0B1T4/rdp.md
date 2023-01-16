@@ -1,6 +1,6 @@
 # ITSN0B1T4/rdp - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 2 | 36 | 
 | 2023-01-14 | 2 | 36 | 
 | 2023-01-13 | 2 | 36 | 
 | 2023-01-12 | 2 | 34 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 2 | 22 | 
 | 2022-12-18 | 2 | 22 | 
 | 2022-12-17 | 2 | 22 | 
-| 2022-12-16 | 2 | 22 | 
 

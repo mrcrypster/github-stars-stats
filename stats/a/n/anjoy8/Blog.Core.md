@@ -1,10 +1,10 @@
 # anjoy8/Blog.Core - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 1211
 
-★ Stars: 4150
+★ Stars: 4151
 
 [Open repository](https://github.com/anjoy8/Blog.Core)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 4151 | 1211 | 
 | 2023-01-14 | 4150 | 1211 | 
 | 2023-01-13 | 4150 | 1211 | 
 | 2023-01-12 | 4151 | 1211 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 4122 | 1209 | 
 | 2022-12-18 | 4122 | 1209 | 
 | 2022-12-17 | 4123 | 1209 | 
-| 2022-12-16 | 4120 | 1209 | 
 

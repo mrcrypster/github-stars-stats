@@ -1,6 +1,6 @@
 # Apipa169/Assistant-Relay-for-Hassio - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 87
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 217 | 87 | 
 | 2023-01-14 | 217 | 87 | 
 | 2023-01-13 | 216 | 87 | 
 | 2023-01-12 | 216 | 87 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 215 | 85 | 
 | 2022-12-18 | 215 | 84 | 
 | 2022-12-17 | 215 | 84 | 
-| 2022-12-16 | 215 | 84 | 
 

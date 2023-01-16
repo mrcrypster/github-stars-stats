@@ -1,6 +1,6 @@
 # avinash-nonholonomy/olin-cafe-f22 - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 5 | 26 | 
 | 2023-01-15 | 5 | 26 | 
 | 2023-01-14 | 5 | 26 | 
 | 2023-01-12 | 5 | 26 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-19 | 4 | 26 | 
 | 2022-12-18 | 4 | 26 | 
 | 2022-12-17 | 4 | 26 | 
-| 2022-12-16 | 4 | 26 | 
 

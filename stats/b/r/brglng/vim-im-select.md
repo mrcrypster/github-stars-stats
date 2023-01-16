@@ -1,10 +1,10 @@
 # brglng/vim-im-select - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 10
 
-★ Stars: 89
+★ Stars: 90
 
 [Open repository](https://github.com/brglng/vim-im-select)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 90 | 10 | 
 | 2023-01-14 | 89 | 10 | 
 | 2023-01-13 | 89 | 10 | 
 | 2023-01-12 | 89 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 88 | 10 | 
 | 2022-12-18 | 88 | 10 | 
 | 2022-12-17 | 88 | 10 | 
-| 2022-12-16 | 88 | 10 | 
 

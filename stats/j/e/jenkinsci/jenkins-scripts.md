@@ -1,8 +1,8 @@
 # jenkinsci/jenkins-scripts - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
-☋ Forks: 502
+☋ Forks: 503
 
 ★ Stars: 842
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 842 | 503 | 
 | 2023-01-14 | 842 | 502 | 
 | 2023-01-13 | 842 | 502 | 
 | 2023-01-12 | 842 | 502 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 841 | 500 | 
 | 2022-12-18 | 841 | 500 | 
 | 2022-12-17 | 841 | 500 | 
-| 2022-12-16 | 841 | 500 | 
 

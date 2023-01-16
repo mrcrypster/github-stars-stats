@@ -1,6 +1,6 @@
 # byrnexu/betterquant - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 89 | 36 | 
 | 2023-01-14 | 89 | 36 | 
 | 2023-01-13 | 88 | 36 | 
 | 2023-01-12 | 88 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 78 | 31 | 
 | 2022-12-18 | 78 | 31 | 
 | 2022-12-17 | 78 | 31 | 
-| 2022-12-16 | 77 | 30 | 
 

@@ -1,10 +1,10 @@
 # Live-Charts/Live-Charts - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
-☋ Forks: 1372
+☋ Forks: 1373
 
-★ Stars: 5288
+★ Stars: 5290
 
 [Open repository](https://github.com/Live-Charts/Live-Charts)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 5290 | 1373 | 
 | 2023-01-14 | 5288 | 1372 | 
 | 2023-01-13 | 5287 | 1372 | 
 | 2023-01-12 | 5287 | 1372 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 5283 | 1376 | 
 | 2022-12-18 | 5283 | 1376 | 
 | 2022-12-17 | 5283 | 1376 | 
-| 2022-12-16 | 5283 | 1375 | 
 

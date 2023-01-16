@@ -1,10 +1,10 @@
 # eeriedusk/knockles - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 13
 
-★ Stars: 196
+★ Stars: 197
 
 [Open repository](https://github.com/eeriedusk/knockles)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 197 | 13 | 
 | 2023-01-14 | 196 | 13 | 
 | 2023-01-13 | 196 | 13 | 
 | 2023-01-11 | 196 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 194 | 13 | 
 | 2022-12-18 | 194 | 13 | 
 | 2022-12-17 | 194 | 13 | 
-| 2022-12-16 | 194 | 13 | 
 

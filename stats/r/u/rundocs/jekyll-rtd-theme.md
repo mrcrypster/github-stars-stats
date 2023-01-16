@@ -1,10 +1,10 @@
 # rundocs/jekyll-rtd-theme - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 387
 
-★ Stars: 233
+★ Stars: 234
 
 [Open repository](https://github.com/rundocs/jekyll-rtd-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 234 | 387 | 
 | 2023-01-14 | 233 | 387 | 
 | 2023-01-13 | 233 | 387 | 
 | 2023-01-12 | 234 | 388 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 229 | 390 | 
 | 2022-12-18 | 229 | 390 | 
 | 2022-12-17 | 229 | 390 | 
-| 2022-12-16 | 229 | 390 | 
 

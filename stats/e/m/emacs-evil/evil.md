@@ -1,10 +1,10 @@
 # emacs-evil/evil - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
-☋ Forks: 248
+☋ Forks: 247
 
-★ Stars: 2734
+★ Stars: 2738
 
 [Open repository](https://github.com/emacs-evil/evil)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 2738 | 247 | 
 | 2023-01-14 | 2734 | 248 | 
 | 2023-01-13 | 2731 | 248 | 
 | 2023-01-12 | 2729 | 248 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 2697 | 244 | 
 | 2022-12-18 | 2696 | 244 | 
 | 2022-12-17 | 2695 | 244 | 
-| 2022-12-16 | 2695 | 244 | 
 

@@ -1,8 +1,8 @@
 # qingsongedu/time-series-transformers-review - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
-☋ Forks: 97
+☋ Forks: 98
 
 ★ Stars: 857
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 857 | 98 | 
 | 2023-01-14 | 857 | 97 | 
 | 2023-01-13 | 857 | 97 | 
 | 2023-01-12 | 857 | 96 | 

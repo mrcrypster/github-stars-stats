@@ -1,6 +1,6 @@
 # rougier/org-agenda-conflict - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 13 | 2 | 
 | 2023-01-15 | 13 | 2 | 
 | 2023-01-13 | 13 | 2 | 
 | 2023-01-12 | 13 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-19 | 12 | 2 | 
 | 2022-12-18 | 12 | 2 | 
 | 2022-12-17 | 12 | 2 | 
-| 2022-12-16 | 12 | 2 | 
 

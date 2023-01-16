@@ -1,10 +1,10 @@
 # m3n0sd0n4ld/GooFuzz - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
-☋ Forks: 86
+☋ Forks: 87
 
-★ Stars: 734
+★ Stars: 735
 
 [Open repository](https://github.com/m3n0sd0n4ld/GooFuzz)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 735 | 87 | 
 | 2023-01-14 | 734 | 86 | 
 | 2023-01-13 | 731 | 86 | 
 | 2023-01-11 | 729 | 86 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 714 | 85 | 
 | 2022-12-18 | 714 | 85 | 
 | 2022-12-17 | 712 | 85 | 
-| 2022-12-16 | 709 | 85 | 
 

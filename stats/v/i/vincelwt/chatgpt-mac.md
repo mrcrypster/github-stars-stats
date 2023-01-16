@@ -1,10 +1,10 @@
 # vincelwt/chatgpt-mac - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
-☋ Forks: 183
+☋ Forks: 184
 
-★ Stars: 2947
+★ Stars: 2969
 
 [Open repository](https://github.com/vincelwt/chatgpt-mac)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 2969 | 184 | 
 | 2023-01-14 | 2947 | 183 | 
 | 2023-01-13 | 2933 | 182 | 
 | 2023-01-12 | 2916 | 180 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 2530 | 146 | 
 | 2022-12-18 | 2501 | 143 | 
 | 2022-12-17 | 2474 | 140 | 
-| 2022-12-16 | 2430 | 136 | 
 

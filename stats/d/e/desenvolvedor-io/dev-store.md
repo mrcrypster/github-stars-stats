@@ -1,10 +1,10 @@
 # desenvolvedor-io/dev-store - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
-☋ Forks: 137
+☋ Forks: 138
 
-★ Stars: 810
+★ Stars: 814
 
 [Open repository](https://github.com/desenvolvedor-io/dev-store)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 814 | 138 | 
 | 2023-01-14 | 810 | 137 | 
 | 2023-01-13 | 808 | 137 | 
 | 2023-01-12 | 807 | 136 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 799 | 131 | 
 | 2022-12-18 | 798 | 131 | 
 | 2022-12-17 | 798 | 131 | 
-| 2022-12-16 | 798 | 131 | 
 

@@ -1,6 +1,6 @@
 # Affirm/affirm-merchant-sdk-ios - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 3 | 9 | 
 | 2023-01-14 | 3 | 9 | 
 | 2023-01-13 | 3 | 9 | 
 | 2023-01-12 | 3 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 3 | 9 | 
 | 2022-12-18 | 3 | 9 | 
 | 2022-12-17 | 3 | 9 | 
-| 2022-12-16 | 3 | 9 | 
 

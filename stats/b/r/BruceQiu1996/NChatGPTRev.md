@@ -1,10 +1,10 @@
 # BruceQiu1996/NChatGPTRev - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
-☋ Forks: 12
+☋ Forks: 13
 
-★ Stars: 43
+★ Stars: 44
 
 [Open repository](https://github.com/BruceQiu1996/NChatGPTRev)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 44 | 13 | 
 | 2023-01-14 | 43 | 12 | 
 | 2023-01-13 | 43 | 12 | 
 | 2023-01-12 | 42 | 12 | 

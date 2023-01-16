@@ -1,10 +1,10 @@
 # cloudamqp/lavinmq - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 7
 
-★ Stars: 107
+★ Stars: 110
 
 [Open repository](https://github.com/cloudamqp/lavinmq)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 110 | 7 | 
 | 2023-01-14 | 107 | 7 | 
 | 2023-01-13 | 106 | 7 | 
 | 2023-01-11 | 105 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 91 | 6 | 
 | 2022-12-18 | 91 | 6 | 
 | 2022-12-17 | 90 | 6 | 
-| 2022-12-16 | 90 | 6 | 
 

@@ -1,8 +1,8 @@
 # immortalwrt/immortalwrt - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
-☋ Forks: 892
+☋ Forks: 895
 
 ★ Stars: 1912
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 1912 | 895 | 
 | 2023-01-15 | 1912 | 892 | 
 | 2023-01-14 | 1910 | 890 | 
 | 2023-01-12 | 1906 | 885 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-19 | 1836 | 858 | 
 | 2022-12-18 | 1832 | 858 | 
 | 2022-12-17 | 1830 | 858 | 
-| 2022-12-16 | 1826 | 858 | 
 

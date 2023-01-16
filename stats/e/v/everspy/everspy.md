@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 15
 
-☋ Forks: 2
+☋ Forks: 3
 
-★ Stars: 99
+★ Stars: 103
 
 [Open repository](https://github.com/everspy/everspy)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-15 | 99 | 2 | 
+| 2023-01-15 | 103 | 3 | 
 | 2023-01-14 | 99 | 2 | 
 

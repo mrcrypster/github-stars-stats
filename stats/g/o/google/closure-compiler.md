@@ -1,6 +1,6 @@
 # google/closure-compiler - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 1152
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 6724 | 1152 | 
 | 2023-01-14 | 6724 | 1152 | 
 | 2023-01-13 | 6724 | 1152 | 
 | 2023-01-12 | 6722 | 1152 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 6705 | 1148 | 
 | 2022-12-18 | 6704 | 1148 | 
 | 2022-12-17 | 6702 | 1148 | 
-| 2022-12-16 | 6702 | 1148 | 
 

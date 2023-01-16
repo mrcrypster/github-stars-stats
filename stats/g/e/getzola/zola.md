@@ -1,10 +1,10 @@
 # getzola/zola - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
-☋ Forks: 724
+☋ Forks: 725
 
-★ Stars: 10133
+★ Stars: 10141
 
 [Open repository](https://github.com/getzola/zola)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 10141 | 725 | 
 | 2023-01-14 | 10133 | 724 | 
 | 2023-01-13 | 10125 | 722 | 
 | 2023-01-12 | 10115 | 721 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 9920 | 706 | 
 | 2022-12-18 | 9910 | 706 | 
 | 2022-12-17 | 9908 | 706 | 
-| 2022-12-16 | 9901 | 705 | 
 

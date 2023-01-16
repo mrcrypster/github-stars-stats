@@ -1,8 +1,8 @@
 # mrcrypster/github-stars-stats - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
-☋ Forks: 62
+☋ Forks: 65
 
 ★ Stars: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 12 | 65 | 
 | 2023-01-14 | 12 | 62 | 
 | 2023-01-13 | 12 | 62 | 
 | 2023-01-12 | 12 | 59 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 10 | 18 | 
 | 2022-12-18 | 10 | 18 | 
 | 2022-12-17 | 10 | 18 | 
-| 2022-12-16 | 10 | 16 | 
 

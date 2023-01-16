@@ -1,10 +1,10 @@
 # fossasia/lxlauncher-vala - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 1
 
-★ Stars: 1493
+★ Stars: 1492
 
 [Open repository](https://github.com/fossasia/lxlauncher-vala)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 1492 | 1 | 
 | 2023-01-14 | 1493 | 1 | 
 | 2023-01-13 | 1493 | 1 | 
 | 2023-01-12 | 1493 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 1495 | 1 | 
 | 2022-12-18 | 1495 | 1 | 
 | 2022-12-17 | 1495 | 1 | 
-| 2022-12-16 | 1495 | 1 | 
 

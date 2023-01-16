@@ -1,10 +1,10 @@
 # fernandoleonid/speed-code-css-html - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 151
 
-★ Stars: 83
+★ Stars: 84
 
 [Open repository](https://github.com/fernandoleonid/speed-code-css-html)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 84 | 151 | 
 | 2023-01-14 | 83 | 151 | 
 | 2023-01-13 | 83 | 151 | 
 | 2023-01-12 | 83 | 151 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 80 | 145 | 
 | 2022-12-18 | 80 | 145 | 
 | 2022-12-17 | 80 | 145 | 
-| 2022-12-16 | 79 | 145 | 
 

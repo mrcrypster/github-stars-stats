@@ -1,6 +1,6 @@
 # tpoisot/ScientificComputingForTheRestOfUs - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 109 | 12 | 
 | 2023-01-14 | 109 | 12 | 
 | 2023-01-13 | 109 | 12 | 
 | 2023-01-12 | 109 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 108 | 12 | 
 | 2022-12-18 | 108 | 12 | 
 | 2022-12-17 | 108 | 12 | 
-| 2022-12-16 | 108 | 12 | 
 

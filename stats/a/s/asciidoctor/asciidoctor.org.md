@@ -1,6 +1,6 @@
 # asciidoctor/asciidoctor.org - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 817
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 308 | 817 | 
 | 2023-01-14 | 308 | 817 | 
 | 2023-01-13 | 308 | 817 | 
 | 2023-01-12 | 308 | 816 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 307 | 816 | 
 | 2022-12-18 | 307 | 817 | 
 | 2022-12-17 | 307 | 817 | 
-| 2022-12-16 | 307 | 817 | 
 

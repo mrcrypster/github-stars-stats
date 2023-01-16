@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 15
 
 ☋ Forks: 252
 
-★ Stars: 2850
+★ Stars: 2851
 
 [Open repository](https://github.com/lixin4ever/Conference-Acceptance-Rate)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-15 | 2850 | 252 | 
+| 2023-01-15 | 2851 | 252 | 
 | 2023-01-14 | 2849 | 252 | 
 | 2023-01-13 | 2843 | 252 | 
 | 2023-01-12 | 2841 | 252 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-19 | 2799 | 247 | 
 | 2022-12-18 | 2798 | 246 | 
 | 2022-12-17 | 2797 | 246 | 
-| 2022-12-16 | 2796 | 245 | 
 

@@ -1,10 +1,10 @@
 # JosefNemec/Playnite - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 365
 
-★ Stars: 4843
+★ Stars: 4847
 
 [Open repository](https://github.com/JosefNemec/Playnite)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 4847 | 365 | 
 | 2023-01-14 | 4843 | 365 | 
 | 2023-01-13 | 4839 | 365 | 
 | 2023-01-12 | 4833 | 365 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 4721 | 360 | 
 | 2022-12-18 | 4717 | 360 | 
 | 2022-12-17 | 4711 | 360 | 
-| 2022-12-16 | 4709 | 360 | 
 

@@ -1,6 +1,6 @@
 # schmidtjonathan/PhDSE.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 8 | - | 
 | 2023-01-14 | 8 | - | 
 | 2023-01-13 | 8 | - | 
 | 2023-01-12 | 8 | - | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 8 | - | 
 | 2022-12-18 | 8 | - | 
 | 2022-12-17 | 8 | - | 
-| 2022-12-16 | 8 | - | 
 

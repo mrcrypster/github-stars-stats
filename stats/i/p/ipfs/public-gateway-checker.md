@@ -1,8 +1,8 @@
 # ipfs/public-gateway-checker - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
-☋ Forks: 229
+☋ Forks: 230
 
 ★ Stars: 730
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 730 | 230 | 
 | 2023-01-15 | 730 | 229 | 
 | 2023-01-13 | 727 | 229 | 
 | 2023-01-12 | 724 | 229 | 

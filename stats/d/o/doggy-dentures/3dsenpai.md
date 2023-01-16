@@ -1,6 +1,6 @@
 # doggy-dentures/3dsenpai - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 13 | 14 | 
 | 2023-01-14 | 13 | 14 | 
 | 2023-01-13 | 13 | 14 | 
 | 2023-01-12 | 13 | 14 | 

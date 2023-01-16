@@ -1,10 +1,10 @@
 # ahyatt/triples - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 5
 
-★ Stars: 45
+★ Stars: 46
 
 [Open repository](https://github.com/ahyatt/triples)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 46 | 5 | 
 | 2023-01-14 | 45 | 5 | 
 | 2023-01-13 | 45 | 5 | 
 | 2023-01-12 | 45 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 42 | 4 | 
 | 2022-12-18 | 42 | 4 | 
 | 2022-12-17 | 42 | 4 | 
-| 2022-12-16 | 42 | 4 | 
 

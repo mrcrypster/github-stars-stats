@@ -1,8 +1,8 @@
 # inspiradanacomputacao/tecnologistas-contra-bolsonaro - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 16
 
-☋ Forks: 172
+☋ Forks: 171
 
 ★ Stars: 179
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 179 | 171 | 
 | 2023-01-14 | 179 | 172 | 
 | 2023-01-13 | 179 | 172 | 
 | 2023-01-12 | 179 | 173 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-20 | 177 | 173 | 
 | 2022-12-19 | 177 | 173 | 
 | 2022-12-17 | 177 | 173 | 
-| 2022-12-16 | 177 | 173 | 
 

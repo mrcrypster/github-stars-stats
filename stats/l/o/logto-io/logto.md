@@ -1,10 +1,10 @@
 # logto-io/logto - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 172
 
-★ Stars: 5137
+★ Stars: 5139
 
 [Open repository](https://github.com/logto-io/logto)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 5139 | 172 | 
 | 2023-01-14 | 5137 | 172 | 
 | 2023-01-13 | 5135 | 172 | 
 | 2023-01-12 | 5133 | 173 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 5027 | 166 | 
 | 2022-12-18 | 5025 | 166 | 
 | 2022-12-17 | 5023 | 166 | 
-| 2022-12-16 | 5022 | 166 | 
 

@@ -1,10 +1,10 @@
 # eunomia-bpf/bpf-developer-tutorial - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
-☋ Forks: 8
+☋ Forks: 9
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/eunomia-bpf/bpf-developer-tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 29 | 9 | 
 | 2023-01-14 | 28 | 8 | 
 | 2023-01-13 | 28 | 8 | 
 | 2023-01-12 | 28 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-20 | 25 | 7 | 
 | 2022-12-18 | 24 | 7 | 
 | 2022-12-17 | 24 | 7 | 
-| 2022-12-16 | 24 | 7 | 
 

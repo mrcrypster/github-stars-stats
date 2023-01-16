@@ -1,10 +1,10 @@
 # shuttle-hq/shuttle - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 83
 
-★ Stars: 1623
+★ Stars: 1634
 
 [Open repository](https://github.com/shuttle-hq/shuttle)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 1634 | 83 | 
 | 2023-01-14 | 1623 | 83 | 
 | 2023-01-13 | 1616 | 83 | 
 | 2023-01-12 | 1607 | 83 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 1476 | 72 | 
 | 2022-12-18 | 1460 | 71 | 
 | 2022-12-17 | 1459 | 71 | 
-| 2022-12-16 | 1457 | 71 | 
 

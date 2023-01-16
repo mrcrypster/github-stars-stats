@@ -1,6 +1,6 @@
 # parallax/jsPDF - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 4423
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 25813 | 4423 | 
 | 2023-01-14 | 25813 | 4423 | 
 | 2023-01-13 | 25808 | 4423 | 
 | 2023-01-12 | 25802 | 4424 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 25670 | 4416 | 
 | 2022-12-18 | 25663 | 4416 | 
 | 2022-12-17 | 25658 | 4416 | 
-| 2022-12-16 | 25656 | 4416 | 
 

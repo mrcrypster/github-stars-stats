@@ -1,10 +1,10 @@
 # RavenSystem/esp-homekit-devices - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 321
 
-★ Stars: 2109
+★ Stars: 2113
 
 [Open repository](https://github.com/RavenSystem/esp-homekit-devices)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 2113 | 321 | 
 | 2023-01-14 | 2109 | 321 | 
 | 2023-01-13 | 2107 | 321 | 
 | 2023-01-12 | 2106 | 321 | 

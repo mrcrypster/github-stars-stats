@@ -1,6 +1,6 @@
 # foone/BRender-v1.3.2 - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 480 | 33 | 
 | 2023-01-14 | 480 | 33 | 
 | 2023-01-13 | 482 | 33 | 
 | 2023-01-12 | 482 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 480 | 33 | 
 | 2022-12-18 | 480 | 33 | 
 | 2022-12-17 | 480 | 33 | 
-| 2022-12-16 | 480 | 33 | 
 

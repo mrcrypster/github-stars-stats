@@ -1,6 +1,6 @@
 # garyb/purescript-debug - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 26 | 16 | 
 | 2023-01-14 | 26 | 16 | 
 | 2023-01-13 | 26 | 16 | 
 | 2023-01-12 | 26 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 26 | 16 | 
 | 2022-12-18 | 26 | 16 | 
 | 2022-12-17 | 26 | 16 | 
-| 2022-12-16 | 26 | 16 | 
 

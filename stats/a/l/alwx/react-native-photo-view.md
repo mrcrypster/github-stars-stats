@@ -1,6 +1,6 @@
 # alwx/react-native-photo-view - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 415
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 794 | 415 | 
 | 2023-01-14 | 794 | 415 | 
 | 2023-01-13 | 794 | 414 | 
 | 2023-01-12 | 794 | 413 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 792 | 411 | 
 | 2022-12-18 | 792 | 411 | 
 | 2022-12-17 | 792 | 411 | 
-| 2022-12-16 | 792 | 411 | 
 

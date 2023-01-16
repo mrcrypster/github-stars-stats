@@ -1,10 +1,10 @@
 # m1guelpf/yt-whisper - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
-☋ Forks: 64
+☋ Forks: 66
 
-★ Stars: 793
+★ Stars: 798
 
 [Open repository](https://github.com/m1guelpf/yt-whisper)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 798 | 66 | 
 | 2023-01-14 | 793 | 64 | 
 | 2023-01-13 | 793 | 64 | 
 | 2023-01-12 | 791 | 64 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 664 | 58 | 
 | 2022-12-18 | 651 | 58 | 
 | 2022-12-17 | 648 | 57 | 
-| 2022-12-16 | 647 | 57 | 
 

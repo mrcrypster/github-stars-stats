@@ -1,10 +1,10 @@
 # jonstephens85/instantngp-batch - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 2
 
-★ Stars: 17
+★ Stars: 19
 
 [Open repository](https://github.com/jonstephens85/instantngp-batch)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 19 | 2 | 
 | 2023-01-14 | 17 | 2 | 
 | 2023-01-13 | 17 | 2 | 
 | 2023-01-12 | 15 | 2 | 

@@ -1,6 +1,6 @@
 # HubSpot/facewall - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 139 | 38 | 
 | 2023-01-14 | 139 | 38 | 
 | 2023-01-13 | 139 | 38 | 
 | 2023-01-12 | 139 | 38 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 139 | 38 | 
 | 2022-12-18 | 139 | 38 | 
 | 2022-12-17 | 139 | 38 | 
-| 2022-12-16 | 139 | 38 | 
 

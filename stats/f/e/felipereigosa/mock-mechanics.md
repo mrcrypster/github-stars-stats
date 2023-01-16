@@ -1,10 +1,10 @@
 # felipereigosa/mock-mechanics - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 6
 
-★ Stars: 142
+★ Stars: 143
 
 [Open repository](https://github.com/felipereigosa/mock-mechanics)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 143 | 6 | 
 | 2023-01-14 | 142 | 6 | 
 | 2023-01-13 | 142 | 6 | 
 | 2023-01-12 | 142 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 142 | 6 | 
 | 2022-12-18 | 142 | 6 | 
 | 2022-12-17 | 142 | 6 | 
-| 2022-12-16 | 142 | 6 | 
 

@@ -1,6 +1,6 @@
 # liveviewnative/elixirconf_chat - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 78 | 9 | 
 | 2023-01-15 | 78 | 9 | 
 | 2023-01-14 | 77 | 9 | 
 | 2023-01-13 | 76 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-19 | 75 | 9 | 
 | 2022-12-18 | 75 | 9 | 
 | 2022-12-17 | 75 | 9 | 
-| 2022-12-16 | 75 | 9 | 
 

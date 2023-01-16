@@ -1,10 +1,10 @@
 # spectreconsole/spectre.console - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
-☋ Forks: 297
+☋ Forks: 298
 
-★ Stars: 6448
+★ Stars: 6451
 
 [Open repository](https://github.com/spectreconsole/spectre.console)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 6451 | 298 | 
 | 2023-01-14 | 6448 | 297 | 
 | 2023-01-13 | 6445 | 297 | 
 | 2023-01-12 | 6438 | 297 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 6338 | 295 | 
 | 2022-12-18 | 6333 | 294 | 
 | 2022-12-17 | 6330 | 294 | 
-| 2022-12-16 | 6327 | 294 | 
 

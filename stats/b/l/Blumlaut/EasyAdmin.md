@@ -1,10 +1,10 @@
 # Blumlaut/EasyAdmin - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 146
 
-★ Stars: 120
+★ Stars: 121
 
 [Open repository](https://github.com/Blumlaut/EasyAdmin)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 121 | 146 | 
 | 2023-01-14 | 120 | 146 | 
 | 2023-01-13 | 120 | 145 | 
 | 2023-01-12 | 120 | 145 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 118 | 142 | 
 | 2022-12-18 | 117 | 142 | 
 | 2022-12-17 | 116 | 142 | 
-| 2022-12-16 | 114 | 142 | 
 

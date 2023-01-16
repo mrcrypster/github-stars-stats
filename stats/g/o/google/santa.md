@@ -1,10 +1,10 @@
 # google/santa - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
-☋ Forks: 280
+☋ Forks: 281
 
-★ Stars: 3974
+★ Stars: 3977
 
 [Open repository](https://github.com/google/santa)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 3977 | 281 | 
 | 2023-01-14 | 3974 | 280 | 
 | 2023-01-13 | 3972 | 280 | 
 | 2023-01-12 | 3971 | 280 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 3962 | 279 | 
 | 2022-12-18 | 3961 | 279 | 
 | 2022-12-17 | 3961 | 278 | 
-| 2022-12-16 | 3961 | 278 | 
 

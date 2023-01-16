@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 15
 
 ☋ Forks: 226
 
-★ Stars: 489
+★ Stars: 490
 
 [Open repository](https://github.com/microsoft/appcenter-sdk-apple)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-15 | 489 | 226 | 
+| 2023-01-15 | 490 | 226 | 
 | 2023-01-14 | 489 | 226 | 
 | 2023-01-13 | 489 | 226 | 
 | 2023-01-12 | 488 | 226 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-19 | 484 | 225 | 
 | 2022-12-18 | 484 | 225 | 
 | 2022-12-17 | 484 | 225 | 
-| 2022-12-16 | 484 | 225 | 
 

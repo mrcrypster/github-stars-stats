@@ -1,6 +1,6 @@
 # tidyverse/lubridate - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 196
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 672 | 196 | 
 | 2023-01-14 | 672 | 196 | 
 | 2023-01-13 | 672 | 196 | 
 | 2023-01-12 | 672 | 196 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 668 | 195 | 
 | 2022-12-18 | 668 | 195 | 
 | 2022-12-17 | 668 | 195 | 
-| 2022-12-16 | 669 | 195 | 
 

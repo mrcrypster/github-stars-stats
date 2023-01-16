@@ -1,6 +1,6 @@
 # Deen0X/DNXDOScript - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 36 | 8 | 
 | 2023-01-14 | 36 | 8 | 
 | 2023-01-13 | 36 | 8 | 
 | 2023-01-12 | 36 | 8 | 

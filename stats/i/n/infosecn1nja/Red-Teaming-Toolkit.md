@@ -1,10 +1,10 @@
 # infosecn1nja/Red-Teaming-Toolkit - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 1929
 
-★ Stars: 7069
+★ Stars: 7073
 
 [Open repository](https://github.com/infosecn1nja/Red-Teaming-Toolkit)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 7073 | 1929 | 
 | 2023-01-14 | 7069 | 1929 | 
 | 2023-01-13 | 7065 | 1928 | 
 | 2023-01-12 | 7064 | 1927 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 6988 | 1909 | 
 | 2022-12-18 | 6984 | 1908 | 
 | 2022-12-17 | 6981 | 1907 | 
-| 2022-12-16 | 6979 | 1906 | 
 

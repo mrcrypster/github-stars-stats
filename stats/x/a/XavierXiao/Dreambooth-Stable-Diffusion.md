@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 15
 
 ☋ Forks: 556
 
-★ Stars: 5145
+★ Stars: 5148
 
 [Open repository](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-15 | 5145 | 556 | 
+| 2023-01-15 | 5148 | 556 | 
 | 2023-01-14 | 5145 | 555 | 
 | 2023-01-13 | 5118 | 549 | 
 | 2023-01-12 | 5106 | 546 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-19 | 4808 | 522 | 
 | 2022-12-18 | 4797 | 521 | 
 | 2022-12-17 | 4783 | 519 | 
-| 2022-12-16 | 4759 | 516 | 
 

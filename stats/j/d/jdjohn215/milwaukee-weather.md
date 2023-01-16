@@ -1,10 +1,10 @@
 # jdjohn215/milwaukee-weather - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 12
 
-★ Stars: 51
+★ Stars: 50
 
 [Open repository](https://github.com/jdjohn215/milwaukee-weather)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 50 | 12 | 
 | 2023-01-14 | 51 | 12 | 
 | 2023-01-13 | 51 | 12 | 
 | 2023-01-12 | 51 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 51 | 12 | 
 | 2022-12-18 | 51 | 12 | 
 | 2022-12-17 | 51 | 12 | 
-| 2022-12-16 | 51 | 12 | 
 

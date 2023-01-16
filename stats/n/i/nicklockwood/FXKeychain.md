@@ -1,6 +1,6 @@
 # nicklockwood/FXKeychain - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 79
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 558 | 79 | 
 | 2023-01-14 | 558 | 79 | 
 | 2023-01-13 | 558 | 79 | 
 | 2023-01-11 | 558 | 79 | 

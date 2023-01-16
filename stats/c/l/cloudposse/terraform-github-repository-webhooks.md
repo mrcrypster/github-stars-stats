@@ -1,6 +1,6 @@
 # cloudposse/terraform-github-repository-webhooks - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 24 | 26 | 
 | 2023-01-15 | 24 | 26 | 
 | 2023-01-14 | 24 | 26 | 
 | 2023-01-12 | 24 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 23 | 26 | 
 | 2022-12-19 | 23 | 26 | 
 | 2022-12-18 | 23 | 26 | 
-| 2022-12-17 | 23 | 26 | 
 

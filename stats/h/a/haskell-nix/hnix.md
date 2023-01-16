@@ -1,10 +1,10 @@
 # haskell-nix/hnix - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 116
 
-★ Stars: 701
+★ Stars: 700
 
 [Open repository](https://github.com/haskell-nix/hnix)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 700 | 116 | 
 | 2023-01-14 | 701 | 116 | 
 | 2023-01-13 | 701 | 116 | 
 | 2023-01-12 | 701 | 116 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 703 | 115 | 
 | 2022-12-18 | 703 | 115 | 
 | 2022-12-17 | 703 | 115 | 
-| 2022-12-16 | 703 | 115 | 
 

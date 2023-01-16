@@ -1,10 +1,10 @@
 # onnx/models - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 1138
 
-★ Stars: 5423
+★ Stars: 5424
 
 [Open repository](https://github.com/onnx/models)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 5424 | 1138 | 
 | 2023-01-14 | 5423 | 1138 | 
 | 2023-01-13 | 5423 | 1137 | 
 | 2023-01-12 | 5419 | 1138 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 5360 | 1126 | 
 | 2022-12-18 | 5355 | 1126 | 
 | 2022-12-17 | 5352 | 1127 | 
-| 2022-12-16 | 5351 | 1126 | 
 

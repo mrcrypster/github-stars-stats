@@ -1,10 +1,10 @@
 # taichi-dev/cheatsheet - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 3
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/taichi-dev/cheatsheet)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 22 | 3 | 
 | 2023-01-14 | 21 | 3 | 
 | 2023-01-13 | 21 | 3 | 
 | 2023-01-12 | 21 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 20 | 3 | 
 | 2022-12-18 | 20 | 3 | 
 | 2022-12-17 | 20 | 3 | 
-| 2022-12-16 | 20 | 3 | 
 

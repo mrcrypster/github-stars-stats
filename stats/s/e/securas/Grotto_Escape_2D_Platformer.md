@@ -1,6 +1,6 @@
 # securas/Grotto_Escape_2D_Platformer - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 15 | 1 | 
 | 2023-01-14 | 15 | 1 | 
 | 2023-01-13 | 15 | 1 | 
 | 2023-01-12 | 14 | 1 | 

@@ -1,10 +1,10 @@
 # samdze/playdate-nim - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 0
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/samdze/playdate-nim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 17 | - | 
 | 2023-01-14 | 16 | - | 
 | 2023-01-13 | 16 | - | 
 | 2023-01-12 | 16 | - | 

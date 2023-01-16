@@ -1,10 +1,10 @@
 # marcel-dempers/docker-development-youtube-series - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
-☋ Forks: 3055
+☋ Forks: 3056
 
-★ Stars: 3796
+★ Stars: 3797
 
 [Open repository](https://github.com/marcel-dempers/docker-development-youtube-series)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 3797 | 3056 | 
 | 2023-01-14 | 3796 | 3055 | 
 | 2023-01-12 | 3794 | 3051 | 
 | 2023-01-11 | 3791 | 3048 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 3732 | 3006 | 
 | 2022-12-18 | 3732 | 3004 | 
 | 2022-12-17 | 3728 | 3001 | 
-| 2022-12-16 | 3727 | 3001 | 
 

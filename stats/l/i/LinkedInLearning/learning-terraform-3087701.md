@@ -1,8 +1,8 @@
 # LinkedInLearning/learning-terraform-3087701 - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
-☋ Forks: 609
+☋ Forks: 614
 
 ★ Stars: 14
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 14 | 614 | 
 | 2023-01-14 | 14 | 609 | 
 | 2023-01-13 | 14 | 594 | 
 | 2023-01-12 | 14 | 583 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 11 | 390 | 
 | 2022-12-18 | 11 | 385 | 
 | 2022-12-17 | 11 | 378 | 
-| 2022-12-16 | 11 | 371 | 
 

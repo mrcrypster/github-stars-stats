@@ -1,6 +1,6 @@
 # Fantasy-Studio/Paint-by-Example - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 387 | 29 | 
 | 2023-01-14 | 387 | 29 | 
 | 2023-01-13 | 385 | 29 | 
 | 2023-01-12 | 382 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 323 | 20 | 
 | 2022-12-18 | 322 | 20 | 
 | 2022-12-17 | 322 | 20 | 
-| 2022-12-16 | 320 | 18 | 
 

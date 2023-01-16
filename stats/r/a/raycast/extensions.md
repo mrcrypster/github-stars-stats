@@ -1,10 +1,10 @@
 # raycast/extensions - stars & forks statistics
 
-Stats updated on Jan 2023, 14
+Stats updated on Jan 2023, 15
 
-☋ Forks: 1161
+☋ Forks: 1166
 
-★ Stars: 2878
+★ Stars: 2889
 
 [Open repository](https://github.com/raycast/extensions)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-15 | 2889 | 1166 | 
 | 2023-01-14 | 2878 | 1161 | 
 | 2023-01-13 | 2873 | 1159 | 
 | 2023-01-12 | 2868 | 1154 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 14
 | 2022-12-19 | 2750 | 1079 | 
 | 2022-12-18 | 2748 | 1078 | 
 | 2022-12-17 | 2745 | 1078 | 
-| 2022-12-16 | 2738 | 1074 | 
 
