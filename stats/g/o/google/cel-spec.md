@@ -1,10 +1,10 @@
 # google/cel-spec - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 191
 
-★ Stars: 1664
+★ Stars: 1665
 
 [Open repository](https://github.com/google/cel-spec)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 1665 | 191 | 
 | 2023-01-15 | 1664 | 191 | 
 | 2023-01-14 | 1662 | 190 | 
 | 2023-01-13 | 1659 | 190 | 

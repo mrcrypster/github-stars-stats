@@ -1,10 +1,10 @@
 # Natram1zh/Apex-Legends-Config-And-Tweaks - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 29
 
-★ Stars: 129
+★ Stars: 130
 
 [Open repository](https://github.com/Natram1zh/Apex-Legends-Config-And-Tweaks)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 130 | 29 | 
 | 2023-01-16 | 129 | 29 | 
 | 2023-01-15 | 127 | 29 | 
 | 2023-01-13 | 126 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-20 | 118 | 27 | 
 | 2022-12-19 | 118 | 27 | 
 | 2022-12-18 | 119 | 27 | 
-| 2022-12-17 | 118 | 26 | 
 

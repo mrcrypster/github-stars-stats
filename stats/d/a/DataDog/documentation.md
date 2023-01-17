@@ -1,6 +1,6 @@
 # DataDog/documentation - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 722
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 267 | 722 | 
 | 2023-01-15 | 267 | 722 | 
 | 2023-01-14 | 267 | 722 | 
 | 2023-01-13 | 267 | 721 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 261 | 715 | 
 | 2022-12-19 | 261 | 714 | 
 | 2022-12-18 | 261 | 713 | 
-| 2022-12-17 | 261 | 713 | 
 

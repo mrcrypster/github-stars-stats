@@ -1,6 +1,6 @@
 # wangdaoo/atools - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 130 | 18 | 
 | 2023-01-15 | 130 | 18 | 
 | 2023-01-14 | 130 | 18 | 
 | 2023-01-12 | 130 | 18 | 

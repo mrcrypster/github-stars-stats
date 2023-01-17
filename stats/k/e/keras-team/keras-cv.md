@@ -1,6 +1,6 @@
 # keras-team/keras-cv - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 156
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 540 | 156 | 
 | 2023-01-15 | 540 | 156 | 
 | 2023-01-14 | 539 | 155 | 
 | 2023-01-13 | 538 | 155 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 511 | 146 | 
 | 2022-12-19 | 510 | 146 | 
 | 2022-12-18 | 508 | 146 | 
-| 2022-12-17 | 508 | 146 | 
 

@@ -1,8 +1,8 @@
 # cjohansen/m1p - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
-☋ Forks: 1
+☋ Forks: 3
 
 ★ Stars: 16
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 16 | 3 | 
 | 2023-01-15 | 16 | 1 | 
 | 2023-01-14 | 16 | 1 | 
 | 2023-01-13 | 16 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 16 | 1 | 
 | 2022-12-19 | 16 | 1 | 
 | 2022-12-18 | 16 | 1 | 
-| 2022-12-17 | 16 | 1 | 
 

@@ -1,6 +1,6 @@
 # OCamlPro/ocplib-endian - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 14 | 24 | 
 | 2023-01-16 | 14 | 24 | 
 | 2023-01-14 | 14 | 24 | 
 | 2023-01-13 | 14 | 24 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-20 | 14 | 24 | 
 | 2022-12-19 | 14 | 24 | 
 | 2022-12-18 | 14 | 24 | 
-| 2022-12-17 | 14 | 24 | 
 

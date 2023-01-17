@@ -1,10 +1,10 @@
 # objectionary/dejump - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 2
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/objectionary/dejump)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 12 | 2 | 
 | 2023-01-15 | 11 | 2 | 
 | 2023-01-14 | 11 | 2 | 
 | 2023-01-13 | 11 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 9 | 2 | 
 | 2022-12-19 | 9 | 2 | 
 | 2022-12-18 | 9 | 2 | 
-| 2022-12-17 | 9 | 2 | 
 

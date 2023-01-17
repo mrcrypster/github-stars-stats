@@ -1,10 +1,10 @@
 # upupming/new-grad-positions - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 37
 
-★ Stars: 824
+★ Stars: 823
 
 [Open repository](https://github.com/upupming/new-grad-positions)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 823 | 37 | 
 | 2023-01-15 | 824 | 37 | 
 | 2023-01-14 | 825 | 37 | 
 | 2023-01-13 | 824 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 816 | 37 | 
 | 2022-12-19 | 814 | 37 | 
 | 2022-12-18 | 813 | 37 | 
-| 2022-12-17 | 813 | 37 | 
 

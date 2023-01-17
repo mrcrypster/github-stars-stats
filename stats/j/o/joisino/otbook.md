@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 16
 
 ☋ Forks: 5
 
-★ Stars: 35
+★ Stars: 38
 
 [Open repository](https://github.com/joisino/otbook)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-16 | 35 | 5 | 
+| 2023-01-16 | 38 | 5 | 
 | 2023-01-15 | 35 | 5 | 
 

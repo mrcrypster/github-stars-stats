@@ -1,6 +1,6 @@
 # jamie-mh/AuthenticatorPro - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 121
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 1021 | 121 | 
 | 2023-01-15 | 1021 | 121 | 
 | 2023-01-14 | 1020 | 121 | 
 | 2023-01-13 | 1017 | 121 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-21 | 990 | 120 | 
 | 2022-12-20 | 989 | 120 | 
 | 2022-12-18 | 989 | 120 | 
-| 2022-12-17 | 989 | 120 | 
 

@@ -1,10 +1,10 @@
 # ourzora/nouns-protocol - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
-☋ Forks: 10
+☋ Forks: 11
 
-★ Stars: 53
+★ Stars: 55
 
 [Open repository](https://github.com/ourzora/nouns-protocol)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 55 | 11 | 
 | 2023-01-15 | 53 | 10 | 
 | 2023-01-14 | 53 | 10 | 
 | 2023-01-13 | 53 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 48 | 9 | 
 | 2022-12-19 | 48 | 9 | 
 | 2022-12-18 | 48 | 9 | 
-| 2022-12-17 | 47 | 9 | 
 

@@ -1,10 +1,10 @@
 # 1milligram/1loc - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 495
 
-★ Stars: 6365
+★ Stars: 6367
 
 [Open repository](https://github.com/1milligram/1loc)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 6367 | 495 | 
 | 2023-01-15 | 6365 | 495 | 
 | 2023-01-14 | 6364 | 495 | 
 | 2023-01-13 | 6362 | 495 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 6347 | 495 | 
 | 2022-12-19 | 6346 | 495 | 
 | 2022-12-18 | 6345 | 495 | 
-| 2022-12-17 | 6345 | 495 | 
 

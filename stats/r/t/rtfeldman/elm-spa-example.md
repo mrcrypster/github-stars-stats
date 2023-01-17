@@ -1,10 +1,10 @@
 # rtfeldman/elm-spa-example - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 533
 
-★ Stars: 3244
+★ Stars: 3245
 
 [Open repository](https://github.com/rtfeldman/elm-spa-example)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 3245 | 533 | 
 | 2023-01-15 | 3244 | 533 | 
 | 2023-01-14 | 3244 | 533 | 
 | 2023-01-13 | 3245 | 533 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 3237 | 534 | 
 | 2022-12-19 | 3237 | 534 | 
 | 2022-12-18 | 3238 | 534 | 
-| 2022-12-17 | 3237 | 534 | 
 

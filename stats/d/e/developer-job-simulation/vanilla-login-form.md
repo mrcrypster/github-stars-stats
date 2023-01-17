@@ -1,6 +1,6 @@
 # developer-job-simulation/vanilla-login-form - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 209
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 154 | 209 | 
 | 2023-01-15 | 154 | 209 | 
 | 2023-01-14 | 154 | 208 | 
 | 2023-01-13 | 154 | 208 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 149 | 206 | 
 | 2022-12-19 | 149 | 205 | 
 | 2022-12-18 | 149 | 205 | 
-| 2022-12-17 | 149 | 205 | 
 

@@ -1,10 +1,10 @@
 # microsoft/FHIR-Converter - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 132
 
-★ Stars: 276
+★ Stars: 277
 
 [Open repository](https://github.com/microsoft/FHIR-Converter)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 277 | 132 | 
 | 2023-01-15 | 276 | 132 | 
 | 2023-01-14 | 276 | 132 | 
 | 2023-01-13 | 276 | 132 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 273 | 128 | 
 | 2022-12-19 | 273 | 128 | 
 | 2022-12-18 | 273 | 128 | 
-| 2022-12-17 | 273 | 128 | 
 

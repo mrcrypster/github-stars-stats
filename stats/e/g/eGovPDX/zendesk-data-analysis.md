@@ -1,10 +1,10 @@
 # eGovPDX/zendesk-data-analysis - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
-☋ Forks: 0
+☋ Forks: 1
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/eGovPDX/zendesk-data-analysis)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 1 | 1 | 
 | 2023-01-15 | - | - | 
 | 2023-01-14 | - | - | 
 | 2023-01-13 | - | - | 

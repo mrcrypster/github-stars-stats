@@ -1,6 +1,6 @@
 # babashka/babashka.nrepl - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 45 | 13 | 
 | 2023-01-15 | 45 | 13 | 
 | 2023-01-14 | 45 | 13 | 
 | 2023-01-13 | 45 | 13 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-21 | 45 | 13 | 
 | 2022-12-20 | 45 | 13 | 
 | 2022-12-19 | 45 | 13 | 
-| 2022-12-18 | 45 | 13 | 
 

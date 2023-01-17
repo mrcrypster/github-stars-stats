@@ -1,6 +1,6 @@
 # devofspine/spine - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 229 | 4 | 
 | 2023-01-16 | 229 | 4 | 
 | 2023-01-15 | 229 | 4 | 
 | 2023-01-13 | 229 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-20 | 213 | 4 | 
 | 2022-12-19 | 213 | 4 | 
 | 2022-12-18 | 212 | 4 | 
-| 2022-12-17 | 212 | 4 | 
 

@@ -1,10 +1,10 @@
 # SocialSisterYi/bilibili-API-collect - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 1044
 
-★ Stars: 8066
+★ Stars: 8072
 
 [Open repository](https://github.com/SocialSisterYi/bilibili-API-collect)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 8072 | 1044 | 
 | 2023-01-15 | 8066 | 1044 | 
 | 2023-01-14 | 8062 | 1045 | 
 | 2023-01-13 | 8051 | 1046 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 7852 | 1025 | 
 | 2022-12-19 | 7846 | 1022 | 
 | 2022-12-18 | 7839 | 1022 | 
-| 2022-12-17 | 7831 | 1022 | 
 

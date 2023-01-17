@@ -1,10 +1,10 @@
 # JuliaStats/StatsBase.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 188
 
-★ Stars: 502
+★ Stars: 504
 
 [Open repository](https://github.com/JuliaStats/StatsBase.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 504 | 188 | 
 | 2023-01-16 | 502 | 188 | 
 | 2023-01-15 | 502 | 188 | 
 | 2023-01-13 | 502 | 188 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-20 | 501 | 186 | 
 | 2022-12-19 | 501 | 186 | 
 | 2022-12-18 | 501 | 185 | 
-| 2022-12-17 | 501 | 185 | 
 

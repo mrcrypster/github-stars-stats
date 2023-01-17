@@ -1,6 +1,6 @@
 # minicli/minicli - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 794 | 44 | 
 | 2023-01-15 | 794 | 44 | 
 | 2023-01-14 | 794 | 44 | 
 | 2023-01-13 | 794 | 44 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 788 | 42 | 
 | 2022-12-19 | 788 | 42 | 
 | 2022-12-18 | 788 | 42 | 
-| 2022-12-17 | 788 | 42 | 
 

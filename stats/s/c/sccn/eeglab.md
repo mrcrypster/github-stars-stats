@@ -1,10 +1,10 @@
 # sccn/eeglab - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 214
 
-★ Stars: 404
+★ Stars: 405
 
 [Open repository](https://github.com/sccn/eeglab)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 405 | 214 | 
 | 2023-01-15 | 404 | 214 | 
 | 2023-01-14 | 403 | 214 | 
 | 2023-01-13 | 403 | 213 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 400 | 213 | 
 | 2022-12-19 | 399 | 213 | 
 | 2022-12-18 | 399 | 212 | 
-| 2022-12-17 | 399 | 212 | 
 

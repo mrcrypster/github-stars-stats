@@ -1,10 +1,10 @@
 # sysnet4admin/_Book_k8sInfra - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 132
 
-★ Stars: 289
+★ Stars: 290
 
 [Open repository](https://github.com/sysnet4admin/_Book_k8sInfra)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 290 | 132 | 
 | 2023-01-16 | 289 | 132 | 
 | 2023-01-15 | 289 | 132 | 
 | 2023-01-14 | 289 | 132 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-20 | 275 | 128 | 
 | 2022-12-19 | 274 | 127 | 
 | 2022-12-18 | 274 | 127 | 
-| 2022-12-17 | 273 | 127 | 
 

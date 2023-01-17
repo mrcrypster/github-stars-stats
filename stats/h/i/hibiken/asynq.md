@@ -1,10 +1,10 @@
 # hibiken/asynq - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 370
+☋ Forks: 371
 
-★ Stars: 5186
+★ Stars: 5208
 
 [Open repository](https://github.com/hibiken/asynq)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 5208 | 371 | 
 | 2023-01-16 | 5186 | 370 | 
 | 2023-01-15 | 5173 | 369 | 
 | 2023-01-14 | 5165 | 369 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 4942 | 349 | 
 | 2022-12-20 | 4934 | 349 | 
 | 2022-12-18 | 4923 | 349 | 
-| 2022-12-17 | 4916 | 348 | 
 

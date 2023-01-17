@@ -1,10 +1,10 @@
 # iptv-org/iptv - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
-☋ Forks: 10457
+☋ Forks: 10466
 
-★ Stars: 61139
+★ Stars: 61187
 
 [Open repository](https://github.com/iptv-org/iptv)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 61187 | 10466 | 
 | 2023-01-15 | 61139 | 10457 | 
 | 2023-01-14 | 61079 | 10452 | 
 | 2023-01-13 | 61032 | 10440 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 59767 | 10253 | 
 | 2022-12-19 | 59739 | 10248 | 
 | 2022-12-18 | 59701 | 10244 | 
-| 2022-12-17 | 59655 | 10235 | 
 

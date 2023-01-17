@@ -1,10 +1,10 @@
 # Zygahedron/Starbecue - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 7
 
-★ Stars: 28
+★ Stars: 27
 
 [Open repository](https://github.com/Zygahedron/Starbecue)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 27 | 7 | 
 | 2023-01-15 | 28 | 7 | 
 | 2023-01-14 | 27 | 7 | 
 | 2023-01-13 | 27 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 25 | 7 | 
 | 2022-12-19 | 25 | 7 | 
 | 2022-12-18 | 25 | 7 | 
-| 2022-12-17 | 25 | 7 | 
 

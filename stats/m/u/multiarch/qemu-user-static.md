@@ -1,10 +1,10 @@
 # multiarch/qemu-user-static - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 187
 
-★ Stars: 1765
+★ Stars: 1767
 
 [Open repository](https://github.com/multiarch/qemu-user-static)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 1767 | 187 | 
 | 2023-01-15 | 1765 | 187 | 
 | 2023-01-14 | 1761 | 187 | 
 | 2023-01-13 | 1760 | 187 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 1732 | 185 | 
 | 2022-12-19 | 1729 | 186 | 
 | 2022-12-18 | 1729 | 186 | 
-| 2022-12-17 | 1728 | 186 | 
 

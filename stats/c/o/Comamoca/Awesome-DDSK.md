@@ -1,10 +1,10 @@
 # Comamoca/Awesome-DDSK - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 15
 
-★ Stars: 38
+★ Stars: 37
 
 [Open repository](https://github.com/Comamoca/Awesome-DDSK)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 37 | 15 | 
 | 2023-01-15 | 38 | 15 | 
 | 2023-01-14 | 38 | 15 | 
 | 2023-01-13 | 38 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-21 | 38 | 16 | 
 | 2022-12-20 | 38 | 16 | 
 | 2022-12-19 | 38 | 16 | 
-| 2022-12-17 | 38 | 16 | 
 

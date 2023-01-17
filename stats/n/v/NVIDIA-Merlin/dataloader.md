@@ -1,10 +1,10 @@
 # NVIDIA-Merlin/dataloader - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 14
 
-★ Stars: 346
+★ Stars: 347
 
 [Open repository](https://github.com/NVIDIA-Merlin/dataloader)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 347 | 14 | 
 | 2023-01-15 | 346 | 14 | 
 | 2023-01-14 | 346 | 14 | 
 | 2023-01-13 | 346 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 335 | 12 | 
 | 2022-12-19 | 335 | 12 | 
 | 2022-12-18 | 335 | 12 | 
-| 2022-12-17 | 336 | 12 | 
 

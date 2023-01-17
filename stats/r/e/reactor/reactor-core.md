@@ -1,6 +1,6 @@
 # reactor/reactor-core - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 1087
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 4394 | 1087 | 
 | 2023-01-16 | 4394 | 1087 | 
 | 2023-01-14 | 4393 | 1086 | 
 | 2023-01-13 | 4393 | 1086 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 4377 | 1080 | 
 | 2022-12-20 | 4376 | 1080 | 
 | 2022-12-19 | 4376 | 1079 | 
-| 2022-12-17 | 4376 | 1078 | 
 

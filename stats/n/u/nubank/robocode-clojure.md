@@ -1,6 +1,6 @@
 # nubank/robocode-clojure - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 2 | 1 | 
 | 2023-01-15 | 2 | 1 | 
 | 2023-01-14 | 2 | 1 | 
 | 2023-01-13 | 2 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 2 | 1 | 
 | 2022-12-19 | 3 | 1 | 
 | 2022-12-18 | 3 | 1 | 
-| 2022-12-17 | 3 | 1 | 
 

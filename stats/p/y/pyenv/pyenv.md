@@ -1,10 +1,10 @@
 # pyenv/pyenv - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
-☋ Forks: 2678
+☋ Forks: 2681
 
-★ Stars: 30209
+★ Stars: 30234
 
 [Open repository](https://github.com/pyenv/pyenv)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 30234 | 2681 | 
 | 2023-01-15 | 30209 | 2678 | 
 | 2023-01-14 | 30207 | 2678 | 
 | 2023-01-13 | 30199 | 2678 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 29910 | 2660 | 
 | 2022-12-19 | 29899 | 2656 | 
 | 2022-12-18 | 29880 | 2653 | 
-| 2022-12-17 | 29875 | 2653 | 
 

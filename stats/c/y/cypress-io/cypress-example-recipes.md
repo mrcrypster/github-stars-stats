@@ -1,8 +1,8 @@
 # cypress-io/cypress-example-recipes - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
-☋ Forks: 1206
+☋ Forks: 1207
 
 ★ Stars: 3050
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 3050 | 1207 | 
 | 2023-01-15 | 3050 | 1206 | 
 | 2023-01-14 | 3049 | 1206 | 
 | 2023-01-13 | 3046 | 1206 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 3022 | 1196 | 
 | 2022-12-19 | 3022 | 1196 | 
 | 2022-12-18 | 3020 | 1196 | 
-| 2022-12-17 | 3020 | 1196 | 
 

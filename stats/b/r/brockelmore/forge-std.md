@@ -1,10 +1,10 @@
 # brockelmore/forge-std - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 111
 
-★ Stars: 480
+★ Stars: 481
 
 [Open repository](https://github.com/brockelmore/forge-std)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 481 | 111 | 
 | 2023-01-15 | 480 | 111 | 
 | 2023-01-14 | 479 | 112 | 
 | 2023-01-13 | 478 | 111 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 455 | 106 | 
 | 2022-12-19 | 454 | 105 | 
 | 2022-12-18 | 453 | 104 | 
-| 2022-12-17 | 452 | 104 | 
 

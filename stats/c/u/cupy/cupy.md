@@ -1,6 +1,6 @@
 # cupy/cupy - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 650
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 6600 | 650 | 
 | 2023-01-15 | 6600 | 650 | 
 | 2023-01-14 | 6596 | 648 | 
 | 2023-01-13 | 6585 | 648 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 6534 | 642 | 
 | 2022-12-19 | 6531 | 642 | 
 | 2022-12-18 | 6528 | 642 | 
-| 2022-12-17 | 6528 | 642 | 
 

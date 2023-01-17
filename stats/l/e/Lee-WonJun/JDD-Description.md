@@ -1,10 +1,10 @@
 # Lee-WonJun/JDD-Description - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 82
 
-★ Stars: 1266
+★ Stars: 1269
 
 [Open repository](https://github.com/Lee-WonJun/JDD-Description)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 1269 | 82 | 
 | 2023-01-15 | 1266 | 82 | 
 | 2023-01-14 | 1265 | 82 | 
 | 2023-01-13 | 1265 | 82 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 1172 | 78 | 
 | 2022-12-19 | 1172 | 78 | 
 | 2022-12-18 | 1172 | 78 | 
-| 2022-12-17 | 1167 | 77 | 
 

@@ -1,10 +1,10 @@
 # Aesthetikx/openai_pipe - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 4
 
-★ Stars: 135
+★ Stars: 137
 
 [Open repository](https://github.com/Aesthetikx/openai_pipe)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 137 | 4 | 
 | 2023-01-15 | 135 | 4 | 
 | 2023-01-14 | 132 | 4 | 
 | 2023-01-13 | 130 | 4 | 

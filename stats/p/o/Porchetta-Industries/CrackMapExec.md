@@ -1,10 +1,10 @@
 # Porchetta-Industries/CrackMapExec - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 1435
 
-★ Stars: 6826
+★ Stars: 6832
 
 [Open repository](https://github.com/Porchetta-Industries/CrackMapExec)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 6832 | 1435 | 
 | 2023-01-15 | 6826 | 1435 | 
 | 2023-01-14 | 6823 | 1435 | 
 | 2023-01-13 | 6824 | 1434 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 6763 | 1419 | 
 | 2022-12-19 | 6759 | 1419 | 
 | 2022-12-18 | 6755 | 1418 | 
-| 2022-12-17 | 6752 | 1418 | 
 

@@ -1,6 +1,6 @@
 # jackpot51/hackinthebox - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 41 | 4 | 
 | 2023-01-15 | 41 | 4 | 
 | 2023-01-14 | 41 | 4 | 
 | 2023-01-13 | 41 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 41 | 4 | 
 | 2022-12-19 | 41 | 4 | 
 | 2022-12-18 | 41 | 4 | 
-| 2022-12-17 | 41 | 4 | 
 

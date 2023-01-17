@@ -1,10 +1,10 @@
 # rafaqz/DimensionalData.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 21
 
-★ Stars: 192
+★ Stars: 193
 
 [Open repository](https://github.com/rafaqz/DimensionalData.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 193 | 21 | 
 | 2023-01-15 | 192 | 21 | 
 | 2023-01-14 | 192 | 21 | 
 | 2023-01-13 | 192 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 191 | 21 | 
 | 2022-12-19 | 191 | 21 | 
 | 2022-12-18 | 191 | 21 | 
-| 2022-12-17 | 191 | 21 | 
 

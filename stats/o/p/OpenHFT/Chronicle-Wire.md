@@ -1,6 +1,6 @@
 # OpenHFT/Chronicle-Wire - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 106
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 348 | 106 | 
 | 2023-01-15 | 348 | 106 | 
 | 2023-01-14 | 348 | 106 | 
 | 2023-01-13 | 348 | 106 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 345 | 107 | 
 | 2022-12-19 | 345 | 107 | 
 | 2022-12-18 | 344 | 107 | 
-| 2022-12-17 | 344 | 107 | 
 

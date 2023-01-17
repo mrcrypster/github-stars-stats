@@ -1,10 +1,10 @@
 # proper-testing/proper - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 164
 
-★ Stars: 845
+★ Stars: 846
 
 [Open repository](https://github.com/proper-testing/proper)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 846 | 164 | 
 | 2023-01-15 | 845 | 164 | 
 | 2023-01-14 | 845 | 164 | 
 | 2023-01-13 | 845 | 164 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 847 | 163 | 
 | 2022-12-19 | 846 | 163 | 
 | 2022-12-18 | 846 | 163 | 
-| 2022-12-17 | 846 | 163 | 
 

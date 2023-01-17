@@ -1,10 +1,10 @@
 # shashank88/system_design - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 2359
 
-★ Stars: 8052
+★ Stars: 8054
 
 [Open repository](https://github.com/shashank88/system_design)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 8054 | 2359 | 
 | 2023-01-15 | 8052 | 2359 | 
 | 2023-01-14 | 8049 | 2359 | 
 | 2023-01-13 | 8048 | 2359 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 8012 | 2351 | 
 | 2022-12-19 | 8011 | 2351 | 
 | 2022-12-18 | 8010 | 2350 | 
-| 2022-12-17 | 8010 | 2349 | 
 

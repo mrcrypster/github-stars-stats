@@ -1,6 +1,6 @@
 # valhalla/valhalla - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 486
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 2294 | 486 | 
 | 2023-01-15 | 2294 | 486 | 
 | 2023-01-14 | 2291 | 487 | 
 | 2023-01-13 | 2289 | 487 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 2259 | 484 | 
 | 2022-12-19 | 2259 | 484 | 
 | 2022-12-18 | 2259 | 484 | 
-| 2022-12-17 | 2259 | 484 | 
 

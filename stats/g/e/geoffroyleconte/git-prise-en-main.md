@@ -1,10 +1,10 @@
 # geoffroyleconte/git-prise-en-main - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 11
+☋ Forks: 14
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/geoffroyleconte/git-prise-en-main)
 
@@ -13,7 +13,8 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-16 | - | 11 | 
+| 2023-01-17 | 1 | 14 | 
+| 2023-01-16 | 1 | 13 | 
 | 2023-01-15 | - | 11 | 
 | 2023-01-14 | - | 8 | 
 | 2023-01-13 | - | 8 | 

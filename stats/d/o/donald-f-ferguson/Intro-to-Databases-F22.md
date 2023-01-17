@@ -1,6 +1,6 @@
 # donald-f-ferguson/Intro-to-Databases-F22 - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 38 | 27 | 
 | 2023-01-15 | 38 | 27 | 
 | 2023-01-14 | 38 | 27 | 
 | 2023-01-13 | 38 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 38 | 27 | 
 | 2022-12-19 | 38 | 26 | 
 | 2022-12-18 | 38 | 26 | 
-| 2022-12-17 | 38 | 26 | 
 

@@ -1,6 +1,6 @@
 # styled-components/styled-components - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 2390
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 38067 | 2390 | 
 | 2023-01-15 | 38067 | 2390 | 
 | 2023-01-14 | 38066 | 2390 | 
 | 2023-01-13 | 38055 | 2387 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-21 | 37929 | 2374 | 
 | 2022-12-19 | 37925 | 2375 | 
 | 2022-12-18 | 37920 | 2374 | 
-| 2022-12-17 | 37917 | 2374 | 
 

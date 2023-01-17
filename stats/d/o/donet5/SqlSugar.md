@@ -1,8 +1,8 @@
 # donet5/SqlSugar - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
-☋ Forks: 1224
+☋ Forks: 1225
 
 ★ Stars: 4275
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 4275 | 1225 | 
 | 2023-01-15 | 4275 | 1224 | 
 | 2023-01-14 | 4274 | 1224 | 
 | 2023-01-13 | 4271 | 1224 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 4255 | 1220 | 
 | 2022-12-19 | 4255 | 1220 | 
 | 2022-12-18 | 4252 | 1220 | 
-| 2022-12-17 | 4252 | 1220 | 
 

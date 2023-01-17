@@ -1,10 +1,10 @@
 # shadow1ng/fscan - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
-☋ Forks: 943
+☋ Forks: 944
 
-★ Stars: 5141
+★ Stars: 5145
 
 [Open repository](https://github.com/shadow1ng/fscan)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 5145 | 944 | 
 | 2023-01-15 | 5141 | 943 | 
 | 2023-01-14 | 5141 | 943 | 
 | 2023-01-13 | 5139 | 943 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 5029 | 932 | 
 | 2022-12-19 | 5026 | 931 | 
 | 2022-12-18 | 5023 | 930 | 
-| 2022-12-17 | 5020 | 930 | 
 

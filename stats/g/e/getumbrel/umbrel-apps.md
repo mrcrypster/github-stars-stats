@@ -1,10 +1,10 @@
 # getumbrel/umbrel-apps - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 156
 
-★ Stars: 195
+★ Stars: 196
 
 [Open repository](https://github.com/getumbrel/umbrel-apps)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 196 | 156 | 
 | 2023-01-15 | 195 | 156 | 
 | 2023-01-14 | 195 | 155 | 
 | 2023-01-13 | 194 | 154 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 182 | 145 | 
 | 2022-12-19 | 182 | 144 | 
 | 2022-12-18 | 182 | 144 | 
-| 2022-12-17 | 182 | 144 | 
 

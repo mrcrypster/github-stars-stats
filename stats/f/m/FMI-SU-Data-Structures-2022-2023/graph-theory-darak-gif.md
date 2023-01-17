@@ -1,6 +1,6 @@
 # FMI-SU-Data-Structures-2022-2023/graph-theory-darak-gif - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | - | - | 
 | 2023-01-15 | - | - | 
 | 2023-01-14 | - | - | 
 | 2023-01-13 | - | - | 

@@ -1,6 +1,6 @@
 # badtuxx/DescomplicandoHelm - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 126
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 244 | 126 | 
 | 2023-01-15 | 244 | 126 | 
 | 2023-01-14 | 244 | 126 | 
 | 2023-01-13 | 244 | 126 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 243 | 126 | 
 | 2022-12-19 | 243 | 126 | 
 | 2022-12-18 | 243 | 126 | 
-| 2022-12-17 | 243 | 126 | 
 

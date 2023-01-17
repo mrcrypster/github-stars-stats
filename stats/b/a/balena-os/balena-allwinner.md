@@ -1,6 +1,6 @@
 # balena-os/balena-allwinner - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 19 | 16 | 
 | 2023-01-15 | 19 | 16 | 
 | 2023-01-14 | 19 | 16 | 
 | 2023-01-13 | 19 | 16 | 

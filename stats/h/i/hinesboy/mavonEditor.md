@@ -1,10 +1,10 @@
 # hinesboy/mavonEditor - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 897
 
-★ Stars: 5883
+★ Stars: 5885
 
 [Open repository](https://github.com/hinesboy/mavonEditor)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 5885 | 897 | 
 | 2023-01-15 | 5883 | 897 | 
 | 2023-01-14 | 5883 | 897 | 
 | 2023-01-13 | 5882 | 897 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 5859 | 887 | 
 | 2022-12-19 | 5859 | 887 | 
 | 2022-12-18 | 5857 | 887 | 
-| 2022-12-17 | 5856 | 887 | 
 

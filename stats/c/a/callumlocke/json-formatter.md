@@ -1,6 +1,6 @@
 # callumlocke/json-formatter - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 772
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 3225 | 772 | 
 | 2023-01-15 | 3225 | 772 | 
 | 2023-01-14 | 3224 | 772 | 
 | 2023-01-13 | 3222 | 772 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 3199 | 767 | 
 | 2022-12-19 | 3197 | 767 | 
 | 2022-12-18 | 3197 | 767 | 
-| 2022-12-17 | 3195 | 767 | 
 

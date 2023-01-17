@@ -1,10 +1,10 @@
 # YDHCUI/manjusaka - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 101
 
-★ Stars: 455
+★ Stars: 456
 
 [Open repository](https://github.com/YDHCUI/manjusaka)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 456 | 101 | 
 | 2023-01-15 | 455 | 101 | 
 | 2023-01-14 | 455 | 101 | 
 | 2023-01-13 | 455 | 101 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 443 | 98 | 
 | 2022-12-19 | 443 | 98 | 
 | 2022-12-18 | 443 | 98 | 
-| 2022-12-17 | 441 | 98 | 
 

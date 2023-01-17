@@ -1,10 +1,10 @@
 # RayeRen/acad-homepage.github.io - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
-☋ Forks: 318
+☋ Forks: 317
 
-★ Stars: 227
+★ Stars: 228
 
 [Open repository](https://github.com/RayeRen/acad-homepage.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 228 | 317 | 
 | 2023-01-15 | 227 | 318 | 
 | 2023-01-14 | 226 | 312 | 
 | 2023-01-13 | 226 | 311 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 216 | 285 | 
 | 2022-12-19 | 216 | 287 | 
 | 2022-12-18 | 216 | 287 | 
-| 2022-12-17 | 215 | 287 | 
 

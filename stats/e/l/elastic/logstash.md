@@ -1,8 +1,8 @@
 # elastic/logstash - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
-☋ Forks: 3379
+☋ Forks: 3380
 
 ★ Stars: 13232
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 13232 | 3380 | 
 | 2023-01-15 | 13232 | 3379 | 
 | 2023-01-14 | 13229 | 3379 | 
 | 2023-01-13 | 13227 | 3379 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 13192 | 3372 | 
 | 2022-12-19 | 13191 | 3373 | 
 | 2022-12-18 | 13191 | 3372 | 
-| 2022-12-17 | 13191 | 3372 | 
 

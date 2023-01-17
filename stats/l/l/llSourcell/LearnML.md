@@ -1,6 +1,6 @@
 # llSourcell/LearnML - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 287 | 53 | 
 | 2023-01-15 | 287 | 53 | 
 | 2023-01-14 | 285 | 53 | 
 | 2023-01-13 | 282 | 53 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 175 | 30 | 
 | 2022-12-19 | 170 | 28 | 
 | 2022-12-18 | 161 | 25 | 
-| 2022-12-17 | 152 | 25 | 
 

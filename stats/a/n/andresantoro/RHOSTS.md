@@ -1,10 +1,10 @@
 # andresantoro/RHOSTS - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
-☋ Forks: 2
+☋ Forks: 3
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/andresantoro/RHOSTS)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 20 | 3 | 
 | 2023-01-15 | 19 | 2 | 
 | 2023-01-14 | 19 | 2 | 
 | 2023-01-13 | 18 | 2 | 

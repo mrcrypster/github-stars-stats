@@ -1,6 +1,6 @@
 # turingschool-examples/b2-mid-mod - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | - | 33 | 
 | 2023-01-15 | - | 33 | 
 | 2023-01-14 | - | 33 | 
 | 2023-01-13 | - | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 1 | 23 | 
 | 2022-12-19 | 1 | 22 | 
 | 2022-12-18 | 1 | 22 | 
-| 2022-12-17 | 1 | 22 | 
 

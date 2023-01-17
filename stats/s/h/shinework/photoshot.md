@@ -1,10 +1,10 @@
 # shinework/photoshot - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 125
 
-★ Stars: 1549
+★ Stars: 1558
 
 [Open repository](https://github.com/shinework/photoshot)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 1558 | 125 | 
 | 2023-01-15 | 1549 | 125 | 
 | 2023-01-14 | 1545 | 124 | 
 | 2023-01-13 | 1542 | 124 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 1118 | 71 | 
 | 2022-12-19 | 1104 | 70 | 
 | 2022-12-18 | 1095 | 66 | 
-| 2022-12-17 | 1085 | 63 | 
 

@@ -1,6 +1,6 @@
 # MikaCybertron/Mod-PlayerPrefs - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 11 | 2 | 
 | 2023-01-16 | 11 | 2 | 
 | 2023-01-14 | 11 | 2 | 
 | 2023-01-13 | 11 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-20 | 8 | 1 | 
 | 2022-12-19 | 8 | 1 | 
 | 2022-12-18 | 8 | 1 | 
-| 2022-12-17 | 8 | 1 | 
 

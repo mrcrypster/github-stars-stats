@@ -1,6 +1,6 @@
 # pyjarrett/septum - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 356 | 6 | 
 | 2023-01-15 | 356 | 6 | 
 | 2023-01-14 | 356 | 6 | 
 | 2023-01-13 | 356 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 354 | 6 | 
 | 2022-12-19 | 354 | 6 | 
 | 2022-12-18 | 353 | 6 | 
-| 2022-12-17 | 353 | 6 | 
 

@@ -1,10 +1,10 @@
 # dotnet/runtime - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
-☋ Forks: 3657
+☋ Forks: 3661
 
-★ Stars: 11021
+★ Stars: 11033
 
 [Open repository](https://github.com/dotnet/runtime)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 11033 | 3661 | 
 | 2023-01-15 | 11021 | 3657 | 
 | 2023-01-14 | 11017 | 3657 | 
 | 2023-01-13 | 11009 | 3653 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 10827 | 3611 | 
 | 2022-12-19 | 10821 | 3610 | 
 | 2022-12-18 | 10817 | 3608 | 
-| 2022-12-17 | 10805 | 3610 | 
 

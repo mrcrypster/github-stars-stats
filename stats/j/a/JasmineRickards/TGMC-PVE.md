@@ -1,10 +1,10 @@
 # JasmineRickards/TGMC-PVE - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 10
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/JasmineRickards/TGMC-PVE)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 2 | 10 | 
 | 2023-01-15 | 1 | 10 | 
 | 2023-01-14 | 1 | 9 | 
 | 2023-01-13 | 1 | 9 | 

@@ -1,10 +1,10 @@
 # GoogleCloudPlatform/google-analytics-premium-bigquery-statistics - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 48
 
-★ Stars: 113
+★ Stars: 115
 
 [Open repository](https://github.com/GoogleCloudPlatform/google-analytics-premium-bigquery-statistics)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 115 | 48 | 
 | 2023-01-15 | 113 | 48 | 
 | 2023-01-14 | 113 | 48 | 
 | 2023-01-13 | 113 | 48 | 

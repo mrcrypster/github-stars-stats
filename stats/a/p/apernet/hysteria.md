@@ -1,10 +1,10 @@
 # apernet/hysteria - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 628
 
-★ Stars: 4808
+★ Stars: 4816
 
 [Open repository](https://github.com/apernet/hysteria)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 4816 | 628 | 
 | 2023-01-15 | 4808 | 628 | 
 | 2023-01-14 | 4799 | 628 | 
 | 2023-01-13 | 4794 | 629 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 4636 | 611 | 
 | 2022-12-19 | 4626 | 609 | 
 | 2022-12-18 | 4618 | 608 | 
-| 2022-12-17 | 4611 | 608 | 
 

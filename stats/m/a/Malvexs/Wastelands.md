@@ -1,10 +1,10 @@
 # Malvexs/Wastelands - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 5
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/Malvexs/Wastelands)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 3 | 5 | 
 | 2023-01-15 | 2 | 5 | 
 | 2023-01-14 | 1 | 5 | 
 | 2023-01-13 | 1 | 5 | 

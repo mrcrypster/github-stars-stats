@@ -1,10 +1,10 @@
 # apache/avro - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 1431
 
-★ Stars: 2365
+★ Stars: 2366
 
 [Open repository](https://github.com/apache/avro)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 2366 | 1431 | 
 | 2023-01-15 | 2365 | 1431 | 
 | 2023-01-14 | 2365 | 1431 | 
 | 2023-01-13 | 2360 | 1432 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 2341 | 1425 | 
 | 2022-12-19 | 2341 | 1425 | 
 | 2022-12-18 | 2339 | 1424 | 
-| 2022-12-17 | 2339 | 1422 | 
 

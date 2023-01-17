@@ -1,6 +1,6 @@
 # twitter/scalding - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 694
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 3398 | 694 | 
 | 2023-01-15 | 3398 | 694 | 
 | 2023-01-14 | 3398 | 695 | 
 | 2023-01-13 | 3398 | 695 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 3391 | 695 | 
 | 2022-12-19 | 3391 | 695 | 
 | 2022-12-18 | 3391 | 695 | 
-| 2022-12-17 | 3391 | 695 | 
 

@@ -1,10 +1,10 @@
 # Unity-Technologies/unity_web_research - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 0
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/Unity-Technologies/unity_web_research)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 8 | - | 
+| 2023-01-16 | 8 | - | 
 | 2023-01-15 | 7 | - | 
 | 2023-01-14 | 7 | - | 
 | 2023-01-13 | 7 | - | 

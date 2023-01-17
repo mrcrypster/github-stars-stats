@@ -1,6 +1,6 @@
 # mrshmllow/document-color.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 163 | 3 | 
 | 2023-01-15 | 163 | 3 | 
 | 2023-01-14 | 163 | 3 | 
 | 2023-01-13 | 163 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 161 | 3 | 
 | 2022-12-19 | 160 | 3 | 
 | 2022-12-18 | 160 | 3 | 
-| 2022-12-17 | 160 | 3 | 
 

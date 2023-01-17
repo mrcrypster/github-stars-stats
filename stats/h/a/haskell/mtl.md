@@ -1,10 +1,10 @@
 # haskell/mtl - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 60
 
-★ Stars: 340
+★ Stars: 341
 
 [Open repository](https://github.com/haskell/mtl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 341 | 60 | 
 | 2023-01-15 | 340 | 60 | 
 | 2023-01-14 | 340 | 60 | 
 | 2023-01-13 | 340 | 59 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 337 | 58 | 
 | 2022-12-19 | 337 | 58 | 
 | 2022-12-18 | 337 | 58 | 
-| 2022-12-17 | 337 | 58 | 
 

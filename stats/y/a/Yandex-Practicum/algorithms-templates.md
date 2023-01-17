@@ -1,8 +1,8 @@
 # Yandex-Practicum/algorithms-templates - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
-☋ Forks: 183
+☋ Forks: 186
 
 ★ Stars: 110
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 110 | 186 | 
 | 2023-01-15 | 110 | 183 | 
 | 2023-01-14 | 110 | 182 | 
 | 2023-01-12 | 110 | 180 | 

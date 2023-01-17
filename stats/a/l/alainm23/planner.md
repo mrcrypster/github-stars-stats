@@ -1,6 +1,6 @@
 # alainm23/planner - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 143
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 2147 | 143 | 
 | 2023-01-15 | 2147 | 143 | 
 | 2023-01-14 | 2147 | 143 | 
 | 2023-01-13 | 2147 | 143 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 2125 | 142 | 
 | 2022-12-19 | 2124 | 142 | 
 | 2022-12-18 | 2123 | 142 | 
-| 2022-12-17 | 2123 | 142 | 
 

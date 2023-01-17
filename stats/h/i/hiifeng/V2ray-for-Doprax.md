@@ -1,10 +1,10 @@
 # hiifeng/V2ray-for-Doprax - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
-☋ Forks: 1182
+☋ Forks: 1499
 
-★ Stars: 724
+★ Stars: 933
 
 [Open repository](https://github.com/hiifeng/V2ray-for-Doprax)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 933 | 1499 | 
 | 2023-01-15 | 724 | 1182 | 
 | 2023-01-14 | 492 | 851 | 
 | 2023-01-13 | 170 | 398 | 

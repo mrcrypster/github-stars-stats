@@ -1,10 +1,10 @@
 # elipapa/markdown-cv - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
-☋ Forks: 2618
+☋ Forks: 2621
 
-★ Stars: 1053
+★ Stars: 1054
 
 [Open repository](https://github.com/elipapa/markdown-cv)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 1054 | 2621 | 
 | 2023-01-15 | 1053 | 2618 | 
 | 2023-01-14 | 1053 | 2620 | 
 | 2023-01-13 | 1053 | 2616 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 1039 | 2607 | 
 | 2022-12-19 | 1039 | 2603 | 
 | 2022-12-18 | 1039 | 2603 | 
-| 2022-12-17 | 1039 | 2603 | 
 

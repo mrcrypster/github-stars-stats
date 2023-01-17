@@ -1,10 +1,10 @@
 # ArtanisInc/Post-Tweaks - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 18
 
-★ Stars: 161
+★ Stars: 163
 
 [Open repository](https://github.com/ArtanisInc/Post-Tweaks)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 163 | 18 | 
 | 2023-01-15 | 161 | 18 | 
 | 2023-01-14 | 160 | 18 | 
 | 2023-01-13 | 160 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-21 | 158 | 17 | 
 | 2022-12-20 | 152 | 17 | 
 | 2022-12-19 | 152 | 17 | 
-| 2022-12-17 | 152 | 17 | 
 

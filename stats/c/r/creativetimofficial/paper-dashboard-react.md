@@ -1,8 +1,8 @@
 # creativetimofficial/paper-dashboard-react - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
-☋ Forks: 176
+☋ Forks: 178
 
 ★ Stars: 181
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 181 | 178 | 
 | 2023-01-15 | 181 | 176 | 
 | 2023-01-14 | 181 | 175 | 
 | 2023-01-13 | 181 | 174 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 177 | 166 | 
 | 2022-12-19 | 177 | 165 | 
 | 2022-12-18 | 177 | 165 | 
-| 2022-12-17 | 177 | 165 | 
 

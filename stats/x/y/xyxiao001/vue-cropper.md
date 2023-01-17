@@ -1,10 +1,10 @@
 # xyxiao001/vue-cropper - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
-☋ Forks: 651
+☋ Forks: 652
 
-★ Stars: 3630
+★ Stars: 3631
 
 [Open repository](https://github.com/xyxiao001/vue-cropper)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 3631 | 652 | 
 | 2023-01-15 | 3630 | 651 | 
 | 2023-01-14 | 3628 | 651 | 
 | 2023-01-13 | 3627 | 651 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 3610 | 651 | 
 | 2022-12-19 | 3610 | 651 | 
 | 2022-12-18 | 3608 | 651 | 
-| 2022-12-17 | 3607 | 651 | 
 

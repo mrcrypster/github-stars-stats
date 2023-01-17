@@ -1,6 +1,6 @@
 # TangSY/echarts-map-demo - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 254
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 1082 | 254 | 
 | 2023-01-15 | 1082 | 254 | 
 | 2023-01-14 | 1082 | 254 | 
 | 2023-01-12 | 1079 | 254 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 1064 | 253 | 
 | 2022-12-19 | 1064 | 253 | 
 | 2022-12-18 | 1064 | 253 | 
-| 2022-12-17 | 1064 | 253 | 
 

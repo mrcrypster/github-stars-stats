@@ -1,10 +1,10 @@
 # jupyterhub/jupyterhub - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
-☋ Forks: 1867
+☋ Forks: 1868
 
-★ Stars: 7030
+★ Stars: 7031
 
 [Open repository](https://github.com/jupyterhub/jupyterhub)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 7031 | 1868 | 
 | 2023-01-15 | 7030 | 1867 | 
 | 2023-01-14 | 7031 | 1867 | 
 | 2023-01-13 | 7029 | 1866 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 7012 | 1861 | 
 | 2022-12-19 | 7011 | 1861 | 
 | 2022-12-18 | 7010 | 1860 | 
-| 2022-12-17 | 7010 | 1860 | 
 

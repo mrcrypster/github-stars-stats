@@ -1,8 +1,8 @@
 # AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
-☋ Forks: 342
+☋ Forks: 343
 
 ★ Stars: 907
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 907 | 343 | 
 | 2023-01-15 | 907 | 342 | 
 | 2023-01-14 | 907 | 342 | 
 | 2023-01-13 | 907 | 342 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 903 | 339 | 
 | 2022-12-19 | 902 | 339 | 
 | 2022-12-18 | 902 | 339 | 
-| 2022-12-17 | 902 | 339 | 
 

@@ -1,6 +1,6 @@
 # pion/opus - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 292 | 10 | 
 | 2023-01-15 | 292 | 10 | 
 | 2023-01-14 | 292 | 10 | 
 | 2023-01-13 | 292 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 245 | 8 | 
 | 2022-12-19 | 245 | 8 | 
 | 2022-12-18 | 244 | 8 | 
-| 2022-12-17 | 244 | 8 | 
 

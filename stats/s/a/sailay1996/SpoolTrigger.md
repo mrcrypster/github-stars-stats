@@ -1,6 +1,6 @@
 # sailay1996/SpoolTrigger - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 122 | 21 | 
 | 2023-01-15 | 122 | 21 | 
 | 2023-01-14 | 122 | 21 | 
 | 2023-01-13 | 122 | 21 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 122 | 21 | 
 | 2022-12-19 | 122 | 21 | 
 | 2022-12-18 | 122 | 21 | 
-| 2022-12-17 | 122 | 21 | 
 

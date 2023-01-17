@@ -1,6 +1,6 @@
 # nf-core/mag - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 64
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 111 | 64 | 
 | 2023-01-15 | 111 | 64 | 
 | 2023-01-14 | 111 | 64 | 
 | 2023-01-13 | 111 | 64 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-21 | 109 | 65 | 
 | 2022-12-20 | 109 | 65 | 
 | 2022-12-18 | 109 | 65 | 
-| 2022-12-17 | 109 | 65 | 
 

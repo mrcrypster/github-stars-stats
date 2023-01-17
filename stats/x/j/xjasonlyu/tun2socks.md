@@ -1,6 +1,6 @@
 # xjasonlyu/tun2socks - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 226
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 1453 | 226 | 
 | 2023-01-15 | 1453 | 226 | 
 | 2023-01-14 | 1448 | 226 | 
 | 2023-01-13 | 1447 | 226 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 1392 | 220 | 
 | 2022-12-19 | 1389 | 220 | 
 | 2022-12-18 | 1387 | 220 | 
-| 2022-12-17 | 1381 | 221 | 
 

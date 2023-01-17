@@ -1,10 +1,10 @@
 # tpope/vim-abolish - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 76
 
-★ Stars: 2401
+★ Stars: 2403
 
 [Open repository](https://github.com/tpope/vim-abolish)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 2403 | 76 | 
 | 2023-01-15 | 2401 | 76 | 
 | 2023-01-14 | 2401 | 75 | 
 | 2023-01-13 | 2400 | 75 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 2383 | 75 | 
 | 2022-12-19 | 2382 | 75 | 
 | 2022-12-18 | 2382 | 75 | 
-| 2022-12-17 | 2382 | 74 | 
 

@@ -1,6 +1,6 @@
 # tpope/vim-sexp-mappings-for-regular-people - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 395 | 17 | 
 | 2023-01-15 | 395 | 17 | 
 | 2023-01-14 | 395 | 17 | 
 | 2023-01-13 | 395 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 385 | 17 | 
 | 2022-12-19 | 385 | 17 | 
 | 2022-12-18 | 385 | 17 | 
-| 2022-12-17 | 385 | 17 | 
 

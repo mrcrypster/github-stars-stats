@@ -1,6 +1,6 @@
 # BornToBeRoot/NETworkManager - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 452
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 3361 | 452 | 
 | 2023-01-15 | 3361 | 452 | 
 | 2023-01-14 | 3363 | 452 | 
 | 2023-01-13 | 3360 | 450 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 3286 | 443 | 
 | 2022-12-19 | 3283 | 443 | 
 | 2022-12-18 | 3282 | 443 | 
-| 2022-12-17 | 3280 | 443 | 
 

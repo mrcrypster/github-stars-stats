@@ -1,10 +1,10 @@
 # megadose/holehe - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 433
 
-★ Stars: 3857
+★ Stars: 3862
 
 [Open repository](https://github.com/megadose/holehe)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 3862 | 433 | 
 | 2023-01-15 | 3857 | 433 | 
 | 2023-01-14 | 3850 | 432 | 
 | 2023-01-13 | 3844 | 433 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 3707 | 419 | 
 | 2022-12-19 | 3702 | 418 | 
 | 2022-12-18 | 3700 | 418 | 
-| 2022-12-17 | 3695 | 417 | 
 

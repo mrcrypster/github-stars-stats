@@ -1,6 +1,6 @@
 # riffusion/riffusion-app - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 104
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 1943 | 104 | 
 | 2023-01-15 | 1943 | 104 | 
 | 2023-01-14 | 1938 | 104 | 
 | 2023-01-13 | 1932 | 103 | 

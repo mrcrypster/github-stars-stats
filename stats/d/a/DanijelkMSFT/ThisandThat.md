@@ -1,10 +1,10 @@
 # DanijelkMSFT/ThisandThat - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 14
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/DanijelkMSFT/ThisandThat)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 11 | 14 | 
 | 2023-01-15 | 10 | 14 | 
 | 2023-01-14 | 10 | 14 | 
 | 2023-01-13 | 10 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-21 | 9 | 9 | 
 | 2022-12-20 | 9 | 9 | 
 | 2022-12-18 | 9 | 9 | 
-| 2022-12-17 | 9 | 9 | 
 

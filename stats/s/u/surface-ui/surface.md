@@ -1,10 +1,10 @@
 # surface-ui/surface - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 125
 
-★ Stars: 1798
+★ Stars: 1799
 
 [Open repository](https://github.com/surface-ui/surface)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 1799 | 125 | 
 | 2023-01-15 | 1798 | 125 | 
 | 2023-01-14 | 1798 | 125 | 
 | 2023-01-13 | 1798 | 125 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 1783 | 124 | 
 | 2022-12-19 | 1782 | 124 | 
 | 2022-12-18 | 1780 | 124 | 
-| 2022-12-17 | 1780 | 124 | 
 

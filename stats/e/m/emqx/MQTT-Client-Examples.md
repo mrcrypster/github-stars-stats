@@ -1,8 +1,8 @@
 # emqx/MQTT-Client-Examples - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
-☋ Forks: 445
+☋ Forks: 446
 
 ★ Stars: 370
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 370 | 446 | 
 | 2023-01-15 | 370 | 445 | 
 | 2023-01-14 | 369 | 444 | 
 | 2023-01-13 | 368 | 444 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 358 | 437 | 
 | 2022-12-19 | 358 | 435 | 
 | 2022-12-18 | 357 | 435 | 
-| 2022-12-17 | 355 | 435 | 
 

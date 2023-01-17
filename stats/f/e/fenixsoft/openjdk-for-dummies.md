@@ -1,6 +1,6 @@
 # fenixsoft/openjdk-for-dummies - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 94 | 26 | 
 | 2023-01-15 | 94 | 26 | 
 | 2023-01-14 | 94 | 26 | 
 | 2023-01-13 | 94 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-21 | 95 | 25 | 
 | 2022-12-20 | 95 | 25 | 
 | 2022-12-19 | 95 | 25 | 
-| 2022-12-18 | 95 | 25 | 
 

@@ -1,10 +1,10 @@
 # nhost/nhost - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
-☋ Forks: 299
+☋ Forks: 303
 
-★ Stars: 5663
+★ Stars: 5699
 
 [Open repository](https://github.com/nhost/nhost)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 5699 | 303 | 
 | 2023-01-15 | 5663 | 299 | 
 | 2023-01-13 | 5584 | 294 | 
 | 2023-01-12 | 5561 | 294 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 5360 | 285 | 
 | 2022-12-19 | 5356 | 285 | 
 | 2022-12-18 | 5355 | 284 | 
-| 2022-12-17 | 5352 | 284 | 
 

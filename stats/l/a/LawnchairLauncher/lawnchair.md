@@ -1,10 +1,10 @@
 # LawnchairLauncher/lawnchair - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
-☋ Forks: 944
+☋ Forks: 943
 
-★ Stars: 6676
+★ Stars: 6679
 
 [Open repository](https://github.com/LawnchairLauncher/lawnchair)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 6679 | 943 | 
 | 2023-01-15 | 6676 | 944 | 
 | 2023-01-14 | 6672 | 945 | 
 | 2023-01-13 | 6666 | 945 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 6567 | 935 | 
 | 2022-12-19 | 6566 | 935 | 
 | 2022-12-18 | 6565 | 935 | 
-| 2022-12-17 | 6561 | 932 | 
 

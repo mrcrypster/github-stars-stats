@@ -1,10 +1,10 @@
 # remotion-dev/github-unwrapped-2022 - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 65
 
-★ Stars: 1195
+★ Stars: 1199
 
 [Open repository](https://github.com/remotion-dev/github-unwrapped-2022)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 1199 | 65 | 
 | 2023-01-16 | 1195 | 65 | 
 | 2023-01-15 | 1190 | 65 | 
 | 2023-01-14 | 1184 | 65 | 

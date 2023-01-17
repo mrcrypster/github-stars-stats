@@ -1,10 +1,10 @@
 # qq8e/qq - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 358
 
-★ Stars: 1460
+★ Stars: 1462
 
 [Open repository](https://github.com/qq8e/qq)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 1462 | 358 | 
 | 2023-01-15 | 1460 | 358 | 
 | 2023-01-14 | 1455 | 358 | 
 | 2023-01-13 | 1451 | 359 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-21 | 1313 | 344 | 
 | 2022-12-20 | 1310 | 344 | 
 | 2022-12-18 | 1309 | 344 | 
-| 2022-12-17 | 1307 | 344 | 
 

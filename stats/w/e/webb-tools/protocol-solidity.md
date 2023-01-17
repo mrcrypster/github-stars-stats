@@ -1,10 +1,10 @@
 # webb-tools/protocol-solidity - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 6
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/webb-tools/protocol-solidity)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 29 | 6 | 
 | 2023-01-15 | 28 | 6 | 
 | 2023-01-14 | 28 | 6 | 
 | 2023-01-13 | 28 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 23 | 6 | 
 | 2022-12-19 | 23 | 6 | 
 | 2022-12-18 | 23 | 6 | 
-| 2022-12-17 | 23 | 6 | 
 

@@ -1,10 +1,10 @@
 # oconnor663/sha256_project - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 23
 
-★ Stars: 512
+★ Stars: 513
 
 [Open repository](https://github.com/oconnor663/sha256_project)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 513 | 23 | 
 | 2023-01-15 | 512 | 23 | 
 | 2023-01-14 | 512 | 23 | 
 | 2023-01-13 | 512 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 510 | 23 | 
 | 2022-12-19 | 510 | 23 | 
 | 2022-12-18 | 510 | 23 | 
-| 2022-12-17 | 510 | 23 | 
 

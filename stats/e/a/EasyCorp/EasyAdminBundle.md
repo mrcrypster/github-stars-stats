@@ -1,10 +1,10 @@
 # EasyCorp/EasyAdminBundle - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 17
 
-☋ Forks: 940
+☋ Forks: 941
 
-★ Stars: 3698
+★ Stars: 3703
 
 [Open repository](https://github.com/EasyCorp/EasyAdminBundle)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 3703 | 941 | 
+| 2023-01-16 | 3702 | 941 | 
 | 2023-01-15 | 3698 | 940 | 
 | 2023-01-14 | 3698 | 939 | 
 | 2023-01-13 | 3697 | 939 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 3675 | 934 | 
 | 2022-12-19 | 3675 | 934 | 
 | 2022-12-18 | 3675 | 934 | 
-| 2022-12-17 | 3674 | 934 | 
 

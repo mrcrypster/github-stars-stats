@@ -1,10 +1,10 @@
 # home-assistant/intents - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
-☋ Forks: 217
+☋ Forks: 218
 
-★ Stars: 200
+★ Stars: 201
 
 [Open repository](https://github.com/home-assistant/intents)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 201 | 218 | 
 | 2023-01-15 | 200 | 217 | 
 | 2023-01-14 | 200 | 216 | 
 | 2023-01-13 | 199 | 214 | 

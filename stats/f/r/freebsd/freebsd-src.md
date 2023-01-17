@@ -1,10 +1,10 @@
 # freebsd/freebsd-src - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
-☋ Forks: 2500
+☋ Forks: 2504
 
-★ Stars: 6714
+★ Stars: 6713
 
 [Open repository](https://github.com/freebsd/freebsd-src)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 6713 | 2504 | 
 | 2023-01-15 | 6714 | 2500 | 
 | 2023-01-14 | 6714 | 2501 | 
 | 2023-01-13 | 6713 | 2502 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 6678 | 2488 | 
 | 2022-12-19 | 6676 | 2485 | 
 | 2022-12-18 | 6676 | 2485 | 
-| 2022-12-17 | 6674 | 2487 | 
 

@@ -1,10 +1,10 @@
 # PacktPublishing/SQL-for-Data-Analytics-Third-Edition - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 22
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/PacktPublishing/SQL-for-Data-Analytics-Third-Edition)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 22 | 22 | 
 | 2023-01-15 | 21 | 22 | 
 | 2023-01-14 | 21 | 22 | 
 | 2023-01-13 | 21 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 18 | 22 | 
 | 2022-12-19 | 18 | 22 | 
 | 2022-12-18 | 18 | 22 | 
-| 2022-12-17 | 16 | 22 | 
 

@@ -1,6 +1,6 @@
 # steveteuber/kubectl-graph - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 390 | 16 | 
 | 2023-01-15 | 390 | 16 | 
 | 2023-01-14 | 390 | 16 | 
 | 2023-01-13 | 390 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 376 | 15 | 
 | 2022-12-19 | 375 | 15 | 
 | 2022-12-18 | 372 | 14 | 
-| 2022-12-17 | 372 | 14 | 
 

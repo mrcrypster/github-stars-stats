@@ -1,10 +1,10 @@
 # openai/retro - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 422
 
-★ Stars: 2841
+★ Stars: 2843
 
 [Open repository](https://github.com/openai/retro)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 2843 | 422 | 
 | 2023-01-15 | 2841 | 422 | 
 | 2023-01-14 | 2838 | 421 | 
 | 2023-01-13 | 2836 | 421 | 

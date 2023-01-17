@@ -1,6 +1,6 @@
 # saharmor/dalle-playground - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 562
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 2532 | 562 | 
 | 2023-01-15 | 2532 | 562 | 
 | 2023-01-14 | 2533 | 563 | 
 | 2023-01-13 | 2532 | 564 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 2502 | 562 | 
 | 2022-12-19 | 2501 | 562 | 
 | 2022-12-18 | 2500 | 558 | 
-| 2022-12-17 | 2496 | 557 | 
 

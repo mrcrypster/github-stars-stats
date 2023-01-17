@@ -1,6 +1,6 @@
 # cyberbuddy-io/open-source-contribution-for-beginners - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 135
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 74 | 135 | 
 | 2023-01-15 | 74 | 135 | 
 | 2023-01-14 | 74 | 135 | 
 | 2023-01-13 | 74 | 135 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 75 | 132 | 
 | 2022-12-19 | 75 | 132 | 
 | 2022-12-18 | 75 | 132 | 
-| 2022-12-17 | 75 | 132 | 
 

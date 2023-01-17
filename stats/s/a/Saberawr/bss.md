@@ -1,10 +1,10 @@
 # Saberawr/bss - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 2
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/Saberawr/bss)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 12 | 2 | 
 | 2023-01-15 | 11 | 2 | 
 | 2023-01-14 | 11 | 2 | 
 | 2023-01-13 | 11 | 2 | 

@@ -1,6 +1,6 @@
 # gmamaladze/trienet - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 380 | 62 | 
 | 2023-01-15 | 380 | 62 | 
 | 2023-01-14 | 380 | 62 | 
 | 2023-01-13 | 380 | 62 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 379 | 62 | 
 | 2022-12-19 | 379 | 62 | 
 | 2022-12-18 | 379 | 62 | 
-| 2022-12-17 | 379 | 62 | 
 

@@ -1,10 +1,10 @@
 # yangzongzhuan/RuoYi - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 1125
 
-★ Stars: 3398
+★ Stars: 3402
 
 [Open repository](https://github.com/yangzongzhuan/RuoYi)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 3402 | 1125 | 
 | 2023-01-15 | 3398 | 1125 | 
 | 2023-01-14 | 3395 | 1126 | 
 | 2023-01-13 | 3392 | 1126 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 3306 | 1102 | 
 | 2022-12-19 | 3302 | 1101 | 
 | 2022-12-18 | 3297 | 1102 | 
-| 2022-12-17 | 3294 | 1102 | 
 

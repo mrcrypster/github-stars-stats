@@ -1,6 +1,6 @@
 # ITV/domed-city - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 9 | 9 | 
 | 2023-01-15 | 9 | 9 | 
 | 2023-01-14 | 9 | 9 | 
 | 2023-01-13 | 9 | 9 | 

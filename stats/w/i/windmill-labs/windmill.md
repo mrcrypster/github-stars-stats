@@ -1,10 +1,10 @@
 # windmill-labs/windmill - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
-☋ Forks: 56
+☋ Forks: 59
 
-★ Stars: 1610
+★ Stars: 1614
 
 [Open repository](https://github.com/windmill-labs/windmill)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 1614 | 59 | 
 | 2023-01-15 | 1610 | 56 | 
 | 2023-01-14 | 1602 | 55 | 
 | 2023-01-13 | 1598 | 55 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 1523 | 47 | 
 | 2022-12-19 | 1521 | 47 | 
 | 2022-12-18 | 1521 | 47 | 
-| 2022-12-17 | 1521 | 47 | 
 

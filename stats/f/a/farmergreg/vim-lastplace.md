@@ -1,6 +1,6 @@
 # farmergreg/vim-lastplace - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 430 | 24 | 
 | 2023-01-15 | 430 | 24 | 
 | 2023-01-14 | 430 | 24 | 
 | 2023-01-13 | 430 | 24 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 422 | 24 | 
 | 2022-12-19 | 421 | 24 | 
 | 2022-12-18 | 420 | 24 | 
-| 2022-12-17 | 420 | 24 | 
 

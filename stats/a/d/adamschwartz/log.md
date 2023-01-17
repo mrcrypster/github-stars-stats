@@ -1,6 +1,6 @@
 # adamschwartz/log - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 152
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 2969 | 152 | 
 | 2023-01-15 | 2969 | 152 | 
 | 2023-01-14 | 2969 | 152 | 
 | 2023-01-13 | 2969 | 152 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 2960 | 152 | 
 | 2022-12-19 | 2960 | 152 | 
 | 2022-12-18 | 2960 | 152 | 
-| 2022-12-17 | 2960 | 152 | 
 

@@ -1,10 +1,10 @@
 # BigWigsMods/BigWigs - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 154
 
-★ Stars: 211
+★ Stars: 210
 
 [Open repository](https://github.com/BigWigsMods/BigWigs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 210 | 154 | 
 | 2023-01-15 | 211 | 154 | 
 | 2023-01-14 | 211 | 153 | 
 | 2023-01-13 | 211 | 153 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-21 | 206 | 151 | 
 | 2022-12-20 | 205 | 151 | 
 | 2022-12-19 | 205 | 150 | 
-| 2022-12-18 | 205 | 150 | 
 

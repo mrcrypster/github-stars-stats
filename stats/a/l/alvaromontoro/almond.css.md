@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 16
 
 ☋ Forks: 29
 
-★ Stars: 1022
+★ Stars: 1029
 
 [Open repository](https://github.com/alvaromontoro/almond.css)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-16 | 1022 | 29 | 
+| 2023-01-16 | 1029 | 29 | 
 | 2023-01-15 | 1019 | 29 | 
 | 2023-01-14 | 1009 | 29 | 
 | 2023-01-13 | 997 | 28 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-20 | 983 | 26 | 
 | 2022-12-19 | 983 | 26 | 
 | 2022-12-18 | 983 | 26 | 
-| 2022-12-17 | 983 | 26 | 
 

@@ -1,6 +1,6 @@
 # abelzhou/PHP-TrieTree - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 214 | 57 | 
 | 2023-01-15 | 214 | 57 | 
 | 2023-01-14 | 214 | 57 | 
 | 2023-01-13 | 214 | 57 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 212 | 57 | 
 | 2022-12-19 | 212 | 57 | 
 | 2022-12-18 | 212 | 57 | 
-| 2022-12-17 | 212 | 57 | 
 

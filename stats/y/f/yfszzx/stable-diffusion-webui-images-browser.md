@@ -1,10 +1,10 @@
 # yfszzx/stable-diffusion-webui-images-browser - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 38
 
-★ Stars: 138
+★ Stars: 139
 
 [Open repository](https://github.com/yfszzx/stable-diffusion-webui-images-browser)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 139 | 38 | 
 | 2023-01-15 | 138 | 38 | 
 | 2023-01-14 | 138 | 37 | 
 | 2023-01-13 | 138 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 121 | 24 | 
 | 2022-12-19 | 121 | 24 | 
 | 2022-12-18 | 120 | 24 | 
-| 2022-12-17 | 120 | 24 | 
 

@@ -1,10 +1,10 @@
 # bscan/PerlNavigator - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 19
 
-★ Stars: 96
+★ Stars: 97
 
 [Open repository](https://github.com/bscan/PerlNavigator)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 97 | 19 | 
 | 2023-01-15 | 96 | 19 | 
 | 2023-01-14 | 95 | 19 | 
 | 2023-01-13 | 95 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 90 | 19 | 
 | 2022-12-19 | 90 | 19 | 
 | 2022-12-18 | 90 | 19 | 
-| 2022-12-17 | 90 | 19 | 
 

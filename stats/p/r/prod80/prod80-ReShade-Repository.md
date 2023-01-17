@@ -1,10 +1,10 @@
 # prod80/prod80-ReShade-Repository - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 34
 
-★ Stars: 85
+★ Stars: 86
 
 [Open repository](https://github.com/prod80/prod80-ReShade-Repository)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 86 | 34 | 
 | 2023-01-15 | 85 | 34 | 
 | 2023-01-14 | 85 | 34 | 
 | 2023-01-13 | 84 | 34 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 82 | 31 | 
 | 2022-12-19 | 82 | 31 | 
 | 2022-12-18 | 82 | 31 | 
-| 2022-12-17 | 82 | 31 | 
 

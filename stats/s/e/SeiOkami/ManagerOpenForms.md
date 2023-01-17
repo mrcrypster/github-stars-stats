@@ -1,10 +1,10 @@
 # SeiOkami/ManagerOpenForms - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 2
 
-★ Stars: 10
+★ Stars: 9
 
 [Open repository](https://github.com/SeiOkami/ManagerOpenForms)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 9 | 2 | 
 | 2023-01-15 | 10 | 2 | 
 | 2023-01-14 | 10 | 2 | 
 | 2023-01-13 | 10 | 2 | 

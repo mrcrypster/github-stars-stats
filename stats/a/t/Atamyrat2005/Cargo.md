@@ -1,10 +1,10 @@
 # Atamyrat2005/Cargo - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 0
 
-★ Stars: 17
+★ Stars: 21
 
 [Open repository](https://github.com/Atamyrat2005/Cargo)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 21 | - | 
 | 2023-01-15 | 17 | - | 
 | 2023-01-14 | 17 | - | 
 | 2023-01-13 | 17 | - | 

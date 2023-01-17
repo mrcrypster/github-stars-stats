@@ -1,6 +1,6 @@
 # AppsFlyerSDK/appsflyer-flutter-plugin - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 84
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 103 | 84 | 
 | 2023-01-15 | 103 | 84 | 
 | 2023-01-14 | 103 | 84 | 
 | 2023-01-13 | 103 | 84 | 

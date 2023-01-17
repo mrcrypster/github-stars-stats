@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/distributed-load-testing-using-kubernetes - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 252
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 425 | 252 | 
 | 2023-01-15 | 425 | 252 | 
 | 2023-01-14 | 425 | 252 | 
 | 2023-01-13 | 425 | 252 | 

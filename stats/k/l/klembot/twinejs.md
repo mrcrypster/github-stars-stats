@@ -1,10 +1,10 @@
 # klembot/twinejs - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
-☋ Forks: 219
+☋ Forks: 220
 
-★ Stars: 1317
+★ Stars: 1318
 
 [Open repository](https://github.com/klembot/twinejs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 1318 | 220 | 
 | 2023-01-15 | 1317 | 219 | 
 | 2023-01-14 | 1316 | 219 | 
 | 2023-01-13 | 1314 | 219 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 1294 | 218 | 
 | 2022-12-19 | 1293 | 218 | 
 | 2022-12-18 | 1293 | 218 | 
-| 2022-12-17 | 1292 | 218 | 
 

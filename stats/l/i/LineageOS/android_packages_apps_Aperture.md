@@ -1,10 +1,10 @@
 # LineageOS/android_packages_apps_Aperture - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
-☋ Forks: 21
+☋ Forks: 22
 
-★ Stars: 45
+★ Stars: 46
 
 [Open repository](https://github.com/LineageOS/android_packages_apps_Aperture)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 46 | 22 | 
 | 2023-01-15 | 45 | 21 | 
 | 2023-01-14 | 44 | 22 | 
 | 2023-01-13 | 44 | 21 | 

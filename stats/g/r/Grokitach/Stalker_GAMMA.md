@@ -1,10 +1,10 @@
 # Grokitach/Stalker_GAMMA - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 61
 
-★ Stars: 286
+★ Stars: 291
 
 [Open repository](https://github.com/Grokitach/Stalker_GAMMA)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 291 | 61 | 
 | 2023-01-15 | 286 | 61 | 
 | 2023-01-14 | 281 | 59 | 
 | 2023-01-13 | 280 | 58 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 255 | 57 | 
 | 2022-12-19 | 254 | 57 | 
 | 2022-12-18 | 254 | 57 | 
-| 2022-12-17 | 252 | 57 | 
 

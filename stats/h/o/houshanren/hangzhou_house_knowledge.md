@@ -1,10 +1,10 @@
 # houshanren/hangzhou_house_knowledge - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 5433
 
-★ Stars: 26576
+★ Stars: 26575
 
 [Open repository](https://github.com/houshanren/hangzhou_house_knowledge)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 26575 | 5433 | 
 | 2023-01-15 | 26576 | 5433 | 
 | 2023-01-14 | 26575 | 5433 | 
 | 2023-01-13 | 26572 | 5433 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 26560 | 5434 | 
 | 2022-12-19 | 26560 | 5434 | 
 | 2022-12-18 | 26560 | 5434 | 
-| 2022-12-17 | 26559 | 5434 | 
 

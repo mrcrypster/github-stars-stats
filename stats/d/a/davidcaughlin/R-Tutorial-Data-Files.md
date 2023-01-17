@@ -1,6 +1,6 @@
 # davidcaughlin/R-Tutorial-Data-Files - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 15 | 62 | 
 | 2023-01-15 | 15 | 62 | 
 | 2023-01-14 | 15 | 61 | 
 | 2023-01-13 | 15 | 61 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 14 | 60 | 
 | 2022-12-19 | 14 | 59 | 
 | 2022-12-18 | 14 | 59 | 
-| 2022-12-17 | 14 | 59 | 
 

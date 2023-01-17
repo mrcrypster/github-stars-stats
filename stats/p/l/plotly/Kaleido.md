@@ -1,6 +1,6 @@
 # plotly/Kaleido - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 258 | 20 | 
 | 2023-01-15 | 258 | 20 | 
 | 2023-01-14 | 258 | 20 | 
 | 2023-01-13 | 258 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 256 | 20 | 
 | 2022-12-19 | 256 | 20 | 
 | 2022-12-18 | 256 | 20 | 
-| 2022-12-17 | 255 | 20 | 
 

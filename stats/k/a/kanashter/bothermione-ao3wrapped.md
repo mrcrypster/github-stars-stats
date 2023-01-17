@@ -1,8 +1,8 @@
 # kanashter/bothermione-ao3wrapped - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
-☋ Forks: 6
+☋ Forks: 7
 
 ★ Stars: 16
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 16 | 7 | 
 | 2023-01-15 | 16 | 6 | 
 | 2023-01-14 | 15 | 6 | 
 | 2023-01-13 | 15 | 6 | 

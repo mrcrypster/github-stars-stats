@@ -1,6 +1,6 @@
 # ahyatt/triples - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 46 | 5 | 
 | 2023-01-15 | 46 | 5 | 
 | 2023-01-14 | 45 | 5 | 
 | 2023-01-13 | 45 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 43 | 4 | 
 | 2022-12-19 | 42 | 4 | 
 | 2022-12-18 | 42 | 4 | 
-| 2022-12-17 | 42 | 4 | 
 

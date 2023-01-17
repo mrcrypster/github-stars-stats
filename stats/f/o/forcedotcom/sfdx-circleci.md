@@ -1,6 +1,6 @@
 # forcedotcom/sfdx-circleci - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 148
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 24 | 148 | 
 | 2023-01-15 | 24 | 148 | 
 | 2023-01-14 | 24 | 148 | 
 | 2023-01-13 | 24 | 148 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-21 | 24 | 149 | 
 | 2022-12-20 | 24 | 149 | 
 | 2022-12-19 | 24 | 149 | 
-| 2022-12-18 | 24 | 149 | 
 

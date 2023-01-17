@@ -1,6 +1,6 @@
 # vinhphunguyen/maths_julia - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 31 | 12 | 
 | 2023-01-16 | 31 | 12 | 
 | 2023-01-14 | 31 | 12 | 
 | 2023-01-13 | 31 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 28 | 12 | 
 | 2022-12-20 | 28 | 12 | 
 | 2022-12-19 | 28 | 12 | 
-| 2022-12-17 | 28 | 12 | 
 

@@ -1,10 +1,10 @@
 # diddledani/macOS-Linux-VM-with-Rosetta - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
-☋ Forks: 15
+☋ Forks: 16
 
-★ Stars: 213
+★ Stars: 214
 
 [Open repository](https://github.com/diddledani/macOS-Linux-VM-with-Rosetta)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 214 | 16 | 
 | 2023-01-15 | 213 | 15 | 
 | 2023-01-14 | 213 | 15 | 
 | 2023-01-13 | 213 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 204 | 15 | 
 | 2022-12-19 | 201 | 15 | 
 | 2022-12-18 | 201 | 15 | 
-| 2022-12-17 | 200 | 15 | 
 

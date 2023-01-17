@@ -1,10 +1,10 @@
 # Celthi/effective-debugging-zh - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 45
 
-★ Stars: 419
+★ Stars: 418
 
 [Open repository](https://github.com/Celthi/effective-debugging-zh)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 418 | 45 | 
 | 2023-01-15 | 419 | 45 | 
 | 2023-01-14 | 419 | 45 | 
 | 2023-01-13 | 419 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-21 | 416 | 44 | 
 | 2022-12-19 | 416 | 44 | 
 | 2022-12-18 | 416 | 44 | 
-| 2022-12-17 | 416 | 44 | 
 

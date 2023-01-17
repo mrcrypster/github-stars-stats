@@ -1,6 +1,6 @@
 # RocketRobz/TWiLightMenu-Updater - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 272 | 26 | 
 | 2023-01-15 | 272 | 26 | 
 | 2023-01-14 | 273 | 26 | 
 | 2023-01-13 | 273 | 26 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 272 | 27 | 
 | 2022-12-19 | 272 | 27 | 
 | 2022-12-18 | 272 | 27 | 
-| 2022-12-17 | 272 | 27 | 
 

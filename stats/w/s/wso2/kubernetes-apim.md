@@ -1,8 +1,8 @@
 # wso2/kubernetes-apim - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
-☋ Forks: 190
+☋ Forks: 191
 
 ★ Stars: 63
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 63 | 191 | 
 | 2023-01-15 | 63 | 190 | 
 | 2023-01-14 | 63 | 190 | 
 | 2023-01-13 | 63 | 190 | 

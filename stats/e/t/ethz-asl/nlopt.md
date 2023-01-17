@@ -1,6 +1,6 @@
 # ethz-asl/nlopt - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 10 | 10 | 
 | 2023-01-15 | 10 | 10 | 
 | 2023-01-14 | 10 | 10 | 
 | 2023-01-13 | 10 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 10 | 10 | 
 | 2022-12-19 | 10 | 10 | 
 | 2022-12-18 | 10 | 10 | 
-| 2022-12-17 | 10 | 10 | 
 

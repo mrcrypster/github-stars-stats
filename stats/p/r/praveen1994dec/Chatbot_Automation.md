@@ -1,6 +1,6 @@
 # praveen1994dec/Chatbot_Automation - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 3 | 30 | 
 | 2023-01-15 | 3 | 30 | 
 | 2023-01-14 | 3 | 30 | 
 | 2023-01-13 | 3 | 29 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 2 | 19 | 
 | 2022-12-19 | 2 | 18 | 
 | 2022-12-18 | 2 | 17 | 
-| 2022-12-17 | 2 | 16 | 
 

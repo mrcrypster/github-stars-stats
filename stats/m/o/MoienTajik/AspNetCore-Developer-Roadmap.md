@@ -1,10 +1,10 @@
 # MoienTajik/AspNetCore-Developer-Roadmap - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
-☋ Forks: 2003
+☋ Forks: 2004
 
-★ Stars: 13955
+★ Stars: 13964
 
 [Open repository](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 13964 | 2004 | 
 | 2023-01-15 | 13955 | 2003 | 
 | 2023-01-14 | 13950 | 2002 | 
 | 2023-01-13 | 13948 | 2002 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 13741 | 1986 | 
 | 2022-12-19 | 13734 | 1986 | 
 | 2022-12-18 | 13724 | 1984 | 
-| 2022-12-17 | 13718 | 1984 | 
 

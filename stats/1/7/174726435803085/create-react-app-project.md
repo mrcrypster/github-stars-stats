@@ -1,6 +1,6 @@
 # 174726435803085/create-react-app-project - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 54 | 23 | 
 | 2023-01-15 | 54 | 23 | 
 | 2023-01-14 | 54 | 23 | 
 | 2023-01-13 | 54 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 54 | 23 | 
 | 2022-12-19 | 54 | 23 | 
 | 2022-12-18 | 54 | 23 | 
-| 2022-12-17 | 54 | 23 | 
 

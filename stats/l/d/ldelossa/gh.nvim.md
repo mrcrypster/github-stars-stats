@@ -1,10 +1,10 @@
 # ldelossa/gh.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 11
 
-★ Stars: 328
+★ Stars: 329
 
 [Open repository](https://github.com/ldelossa/gh.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 329 | 11 | 
 | 2023-01-15 | 328 | 11 | 
 | 2023-01-14 | 328 | 11 | 
 | 2023-01-13 | 326 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 314 | 11 | 
 | 2022-12-19 | 312 | 11 | 
 | 2022-12-18 | 311 | 11 | 
-| 2022-12-17 | 310 | 11 | 
 

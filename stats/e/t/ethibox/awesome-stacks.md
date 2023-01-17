@@ -1,6 +1,6 @@
 # ethibox/awesome-stacks - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 96
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 500 | 96 | 
 | 2023-01-15 | 500 | 96 | 
 | 2023-01-14 | 498 | 96 | 
 | 2023-01-13 | 498 | 96 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-21 | 489 | 91 | 
 | 2022-12-19 | 488 | 90 | 
 | 2022-12-18 | 488 | 90 | 
-| 2022-12-17 | 488 | 90 | 
 

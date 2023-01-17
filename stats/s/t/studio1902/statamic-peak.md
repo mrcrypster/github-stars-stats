@@ -1,10 +1,10 @@
 # studio1902/statamic-peak - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 90
 
-★ Stars: 417
+★ Stars: 418
 
 [Open repository](https://github.com/studio1902/statamic-peak)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 418 | 90 | 
 | 2023-01-15 | 417 | 90 | 
 | 2023-01-14 | 417 | 90 | 
 | 2023-01-13 | 417 | 90 | 

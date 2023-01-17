@@ -1,10 +1,10 @@
 # luno-lang/luno - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 1
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/luno-lang/luno)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 19 | 1 | 
 | 2023-01-15 | 18 | 1 | 
 | 2023-01-14 | 18 | 1 | 
 | 2023-01-13 | 18 | 1 | 

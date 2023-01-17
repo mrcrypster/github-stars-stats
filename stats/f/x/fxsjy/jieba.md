@@ -1,10 +1,10 @@
 # fxsjy/jieba - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 6621
 
-★ Stars: 29827
+★ Stars: 29833
 
 [Open repository](https://github.com/fxsjy/jieba)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 29833 | 6621 | 
 | 2023-01-15 | 29827 | 6621 | 
 | 2023-01-14 | 29822 | 6621 | 
 | 2023-01-13 | 29816 | 6622 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 29715 | 6624 | 
 | 2022-12-19 | 29711 | 6623 | 
 | 2022-12-18 | 29703 | 6622 | 
-| 2022-12-17 | 29700 | 6621 | 
 

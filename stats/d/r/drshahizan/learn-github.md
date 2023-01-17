@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 16
 
 ☋ Forks: 19
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/drshahizan/learn-github)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-16 | 13 | 19 | 
+| 2023-01-16 | 14 | 19 | 
 | 2023-01-15 | 13 | 19 | 
 

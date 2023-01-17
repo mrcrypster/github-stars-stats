@@ -1,6 +1,6 @@
 # seancorfield/usermanager-example - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 249 | 28 | 
 | 2023-01-15 | 249 | 28 | 
 | 2023-01-14 | 250 | 28 | 
 | 2023-01-13 | 250 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 245 | 29 | 
 | 2022-12-19 | 245 | 29 | 
 | 2022-12-18 | 245 | 29 | 
-| 2022-12-17 | 245 | 29 | 
 

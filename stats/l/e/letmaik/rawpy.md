@@ -1,10 +1,10 @@
 # letmaik/rawpy - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 47
 
-★ Stars: 405
+★ Stars: 406
 
 [Open repository](https://github.com/letmaik/rawpy)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 406 | 47 | 
 | 2023-01-15 | 405 | 47 | 
 | 2023-01-14 | 405 | 47 | 
 | 2023-01-13 | 404 | 47 | 

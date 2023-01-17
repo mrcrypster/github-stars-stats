@@ -1,10 +1,10 @@
 # binsec/xyntia - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 2
 
-★ Stars: 49
+★ Stars: 50
 
 [Open repository](https://github.com/binsec/xyntia)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 50 | 2 | 
 | 2023-01-15 | 49 | 2 | 
 | 2023-01-14 | 49 | 2 | 
 | 2023-01-13 | 49 | 2 | 

@@ -1,10 +1,10 @@
 # ytdl-org/youtube-dl - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
-☋ Forks: 8522
+☋ Forks: 8524
 
-★ Stars: 116578
+★ Stars: 116609
 
 [Open repository](https://github.com/ytdl-org/youtube-dl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 116609 | 8524 | 
 | 2023-01-15 | 116578 | 8522 | 
 | 2023-01-14 | 116554 | 8520 | 
 | 2023-01-13 | 116528 | 8519 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-21 | 115940 | 8462 | 
 | 2022-12-20 | 115905 | 8461 | 
 | 2022-12-19 | 115876 | 8461 | 
-| 2022-12-18 | 115813 | 8451 | 
 

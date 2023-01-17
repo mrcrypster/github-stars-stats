@@ -1,6 +1,6 @@
 # olivierlacan/keep-a-changelog - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 3696
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 5524 | 3696 | 
 | 2023-01-15 | 5524 | 3696 | 
 | 2023-01-14 | 5524 | 3696 | 
 | 2023-01-13 | 5524 | 3697 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 5507 | 3686 | 
 | 2022-12-19 | 5507 | 3686 | 
 | 2022-12-18 | 5506 | 3686 | 
-| 2022-12-17 | 5505 | 3684 | 
 

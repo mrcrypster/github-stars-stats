@@ -1,10 +1,10 @@
 # dl2811/loginform - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 24
 
-★ Stars: 95
+★ Stars: 96
 
 [Open repository](https://github.com/dl2811/loginform)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 96 | 24 | 
 | 2023-01-15 | 95 | 24 | 
 | 2023-01-14 | 95 | 24 | 
 | 2023-01-13 | 95 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 94 | 24 | 
 | 2022-12-19 | 94 | 24 | 
 | 2022-12-18 | 94 | 24 | 
-| 2022-12-17 | 94 | 24 | 
 

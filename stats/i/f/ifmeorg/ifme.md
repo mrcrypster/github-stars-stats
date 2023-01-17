@@ -1,6 +1,6 @@
 # ifmeorg/ifme - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 729
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 1358 | 729 | 
 | 2023-01-15 | 1358 | 729 | 
 | 2023-01-14 | 1358 | 729 | 
 | 2023-01-13 | 1356 | 729 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-21 | 1356 | 728 | 
 | 2022-12-20 | 1354 | 728 | 
 | 2022-12-19 | 1354 | 728 | 
-| 2022-12-18 | 1354 | 728 | 
 

@@ -1,10 +1,10 @@
 # emacscollective/no-littering - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 57
 
-★ Stars: 489
+★ Stars: 490
 
 [Open repository](https://github.com/emacscollective/no-littering)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 490 | 57 | 
 | 2023-01-15 | 489 | 57 | 
 | 2023-01-14 | 488 | 57 | 
 | 2023-01-13 | 488 | 57 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-21 | 483 | 57 | 
 | 2022-12-19 | 483 | 57 | 
 | 2022-12-18 | 483 | 57 | 
-| 2022-12-17 | 483 | 57 | 
 

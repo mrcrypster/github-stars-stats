@@ -1,6 +1,6 @@
 # lars-berger/GlazeWM - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 1087 | 28 | 
 | 2023-01-15 | 1087 | 28 | 
 | 2023-01-14 | 1087 | 28 | 
 | 2023-01-13 | 1086 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 1017 | 27 | 
 | 2022-12-19 | 1019 | 24 | 
 | 2022-12-18 | 1016 | 24 | 
-| 2022-12-17 | 1016 | 24 | 
 

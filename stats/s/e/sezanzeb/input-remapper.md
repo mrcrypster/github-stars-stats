@@ -1,10 +1,10 @@
 # sezanzeb/input-remapper - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
-☋ Forks: 112
+☋ Forks: 113
 
-★ Stars: 2022
+★ Stars: 2025
 
 [Open repository](https://github.com/sezanzeb/input-remapper)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 2025 | 113 | 
 | 2023-01-15 | 2022 | 112 | 
 | 2023-01-14 | 2018 | 110 | 
 | 2023-01-13 | 2014 | 110 | 

@@ -1,10 +1,10 @@
 # baidu/amis - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
-☋ Forks: 1825
+☋ Forks: 1826
 
-★ Stars: 12829
+★ Stars: 12838
 
 [Open repository](https://github.com/baidu/amis)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 12838 | 1826 | 
 | 2023-01-15 | 12829 | 1825 | 
 | 2023-01-14 | 12828 | 1825 | 
 | 2023-01-13 | 12827 | 1824 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-21 | 12699 | 1807 | 
 | 2022-12-19 | 12695 | 1807 | 
 | 2022-12-18 | 12689 | 1806 | 
-| 2022-12-17 | 12681 | 1806 | 
 

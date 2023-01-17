@@ -1,10 +1,10 @@
 # github/entitlements-app - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 15
 
-★ Stars: 358
+★ Stars: 357
 
 [Open repository](https://github.com/github/entitlements-app)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 357 | 15 | 
 | 2023-01-15 | 358 | 15 | 
 | 2023-01-14 | 358 | 15 | 
 | 2023-01-13 | 358 | 15 | 

@@ -1,6 +1,6 @@
 # liyupi/code-nav - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 499
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 2301 | 499 | 
 | 2023-01-15 | 2301 | 499 | 
 | 2023-01-14 | 2299 | 499 | 
 | 2023-01-13 | 2299 | 499 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 2281 | 490 | 
 | 2022-12-19 | 2281 | 490 | 
 | 2022-12-18 | 2281 | 490 | 
-| 2022-12-17 | 2279 | 488 | 
 

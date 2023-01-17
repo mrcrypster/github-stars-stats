@@ -1,6 +1,6 @@
 # Dinesh-Sowndar/flutter-iot-app-ui - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 64
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 233 | 64 | 
 | 2023-01-15 | 233 | 64 | 
 | 2023-01-14 | 233 | 64 | 
 | 2023-01-13 | 233 | 64 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 232 | 63 | 
 | 2022-12-19 | 232 | 63 | 
 | 2022-12-18 | 232 | 62 | 
-| 2022-12-17 | 230 | 62 | 
 

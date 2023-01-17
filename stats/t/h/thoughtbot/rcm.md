@@ -1,6 +1,6 @@
 # thoughtbot/rcm - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 129
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 2908 | 129 | 
 | 2023-01-15 | 2908 | 129 | 
 | 2023-01-14 | 2908 | 129 | 
 | 2023-01-13 | 2909 | 129 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 2895 | 129 | 
 | 2022-12-19 | 2891 | 129 | 
 | 2022-12-18 | 2890 | 129 | 
-| 2022-12-17 | 2890 | 129 | 
 

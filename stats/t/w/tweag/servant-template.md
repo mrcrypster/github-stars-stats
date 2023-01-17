@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 16
 
 ☋ Forks: 3
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/tweag/servant-template)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-16 | 26 | 3 | 
+| 2023-01-16 | 27 | 3 | 
 | 2023-01-15 | 26 | 3 | 
 | 2023-01-14 | 26 | 3 | 
 

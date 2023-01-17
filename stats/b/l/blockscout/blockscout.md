@@ -1,8 +1,8 @@
 # blockscout/blockscout - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
-☋ Forks: 1362
+☋ Forks: 1364
 
 ★ Stars: 2216
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 2216 | 1364 | 
 | 2023-01-15 | 2216 | 1362 | 
 | 2023-01-14 | 2216 | 1362 | 
 | 2023-01-13 | 2216 | 1362 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 2169 | 1327 | 
 | 2022-12-19 | 2169 | 1327 | 
 | 2022-12-18 | 2169 | 1326 | 
-| 2022-12-17 | 2167 | 1326 | 
 

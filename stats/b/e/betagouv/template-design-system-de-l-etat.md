@@ -1,6 +1,6 @@
 # betagouv/template-design-system-de-l-etat - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 33 | 3 | 
 | 2023-01-15 | 33 | 3 | 
 | 2023-01-14 | 33 | 3 | 
 | 2023-01-13 | 33 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 33 | 4 | 
 | 2022-12-19 | 33 | 4 | 
 | 2022-12-18 | 33 | 4 | 
-| 2022-12-17 | 33 | 4 | 
 

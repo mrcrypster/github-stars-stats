@@ -1,10 +1,10 @@
 # tiredofit/docker-freescout - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 56
 
-★ Stars: 111
+★ Stars: 112
 
 [Open repository](https://github.com/tiredofit/docker-freescout)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 112 | 56 | 
 | 2023-01-15 | 111 | 56 | 
 | 2023-01-14 | 111 | 56 | 
 | 2023-01-13 | 111 | 56 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 110 | 56 | 
 | 2022-12-19 | 109 | 56 | 
 | 2022-12-18 | 108 | 56 | 
-| 2022-12-17 | 108 | 56 | 
 

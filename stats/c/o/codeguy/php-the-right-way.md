@@ -1,10 +1,10 @@
 # codeguy/php-the-right-way - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 3254
 
-★ Stars: 8681
+★ Stars: 8682
 
 [Open repository](https://github.com/codeguy/php-the-right-way)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 8682 | 3254 | 
 | 2023-01-16 | 8681 | 3254 | 
 | 2023-01-14 | 8677 | 3254 | 
 | 2023-01-13 | 8674 | 3255 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 8662 | 3250 | 
 | 2022-12-20 | 8660 | 3251 | 
 | 2022-12-18 | 8657 | 3251 | 
-| 2022-12-17 | 8657 | 3252 | 
 

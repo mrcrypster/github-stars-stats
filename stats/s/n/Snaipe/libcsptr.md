@@ -1,10 +1,10 @@
 # Snaipe/libcsptr - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 133
 
-★ Stars: 1287
+★ Stars: 1289
 
 [Open repository](https://github.com/Snaipe/libcsptr)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 1289 | 133 | 
 | 2023-01-15 | 1287 | 133 | 
 | 2023-01-14 | 1287 | 133 | 
 | 2023-01-13 | 1287 | 133 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 1280 | 133 | 
 | 2022-12-19 | 1278 | 133 | 
 | 2022-12-18 | 1278 | 133 | 
-| 2022-12-17 | 1277 | 133 | 
 

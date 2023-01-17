@@ -1,6 +1,6 @@
 # bigtreetech/BIGTREETECH-SKR-mini-E3 - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 1866
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 1649 | 1866 | 
 | 2023-01-15 | 1649 | 1866 | 
 | 2023-01-14 | 1648 | 1862 | 
 | 2023-01-13 | 1647 | 1860 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 1615 | 1842 | 
 | 2022-12-19 | 1614 | 1841 | 
 | 2022-12-18 | 1612 | 1842 | 
-| 2022-12-17 | 1612 | 1843 | 
 

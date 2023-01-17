@@ -1,10 +1,10 @@
 # meterscao/Speechless - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 18
 
-★ Stars: 262
+★ Stars: 261
 
 [Open repository](https://github.com/meterscao/Speechless)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 261 | 18 | 
 | 2023-01-15 | 262 | 18 | 
 | 2023-01-14 | 262 | 18 | 
 | 2023-01-13 | 262 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-21 | 235 | 16 | 
 | 2022-12-20 | 235 | 16 | 
 | 2022-12-19 | 233 | 16 | 
-| 2022-12-18 | 233 | 16 | 
 

@@ -1,10 +1,10 @@
 # goncy/interview-challenges - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 290
 
-★ Stars: 820
+★ Stars: 822
 
 [Open repository](https://github.com/goncy/interview-challenges)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 822 | 290 | 
 | 2023-01-15 | 820 | 290 | 
 | 2023-01-14 | 819 | 290 | 
 | 2023-01-13 | 818 | 290 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-21 | 790 | 276 | 
 | 2022-12-20 | 790 | 276 | 
 | 2022-12-18 | 790 | 276 | 
-| 2022-12-17 | 790 | 276 | 
 

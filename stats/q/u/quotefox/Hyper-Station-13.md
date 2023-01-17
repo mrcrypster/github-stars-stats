@@ -1,8 +1,8 @@
 # quotefox/Hyper-Station-13 - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 17
 
-☋ Forks: 158
+☋ Forks: 157
 
 ★ Stars: 22
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 22 | 157 | 
 | 2023-01-15 | 22 | 158 | 
 | 2023-01-14 | 22 | 158 | 
 | 2023-01-13 | 22 | 158 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-21 | 22 | 158 | 
 | 2022-12-20 | 22 | 158 | 
 | 2022-12-18 | 22 | 158 | 
-| 2022-12-17 | 22 | 158 | 
 

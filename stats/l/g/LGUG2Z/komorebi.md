@@ -1,10 +1,10 @@
 # LGUG2Z/komorebi - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 55
 
-★ Stars: 2668
+★ Stars: 2673
 
 [Open repository](https://github.com/LGUG2Z/komorebi)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 2673 | 55 | 
 | 2023-01-15 | 2668 | 55 | 
 | 2023-01-14 | 2664 | 55 | 
 | 2023-01-13 | 2658 | 55 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 2540 | 50 | 
 | 2022-12-19 | 2535 | 50 | 
 | 2022-12-18 | 2528 | 50 | 
-| 2022-12-17 | 2525 | 50 | 
 

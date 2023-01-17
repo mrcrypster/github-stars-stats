@@ -1,10 +1,10 @@
 # fmtlib/fmt - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
-☋ Forks: 1950
+☋ Forks: 1949
 
-★ Stars: 16000
+★ Stars: 16010
 
 [Open repository](https://github.com/fmtlib/fmt)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 16010 | 1949 | 
 | 2023-01-15 | 16000 | 1950 | 
 | 2023-01-14 | 15998 | 1950 | 
 | 2023-01-13 | 15990 | 1948 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 15844 | 1933 | 
 | 2022-12-19 | 15836 | 1934 | 
 | 2022-12-18 | 15833 | 1933 | 
-| 2022-12-17 | 15831 | 1933 | 
 

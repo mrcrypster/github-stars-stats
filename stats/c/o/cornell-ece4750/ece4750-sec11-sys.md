@@ -1,6 +1,6 @@
 # cornell-ece4750/ece4750-sec11-sys - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | - | 1 | 
 | 2023-01-16 | - | 1 | 
 | 2023-01-14 | - | 1 | 
 | 2023-01-13 | - | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-20 | - | 1 | 
 | 2022-12-19 | - | 1 | 
 | 2022-12-18 | - | 1 | 
-| 2022-12-17 | - | 1 | 
 

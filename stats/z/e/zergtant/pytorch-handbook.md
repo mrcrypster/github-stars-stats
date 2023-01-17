@@ -1,10 +1,10 @@
 # zergtant/pytorch-handbook - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
-☋ Forks: 5162
+☋ Forks: 5161
 
-★ Stars: 17678
+★ Stars: 17680
 
 [Open repository](https://github.com/zergtant/pytorch-handbook)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 17680 | 5161 | 
 | 2023-01-15 | 17678 | 5162 | 
 | 2023-01-14 | 17674 | 5160 | 
 | 2023-01-13 | 17675 | 5162 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 17612 | 5161 | 
 | 2022-12-19 | 17613 | 5161 | 
 | 2022-12-18 | 17611 | 5161 | 
-| 2022-12-17 | 17610 | 5160 | 
 

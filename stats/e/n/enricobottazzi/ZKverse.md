@@ -1,6 +1,6 @@
 # enricobottazzi/ZKverse - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 203 | 18 | 
 | 2023-01-15 | 203 | 18 | 
 | 2023-01-14 | 202 | 18 | 
 | 2023-01-13 | 202 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 200 | 18 | 
 | 2022-12-19 | 200 | 18 | 
 | 2022-12-18 | 200 | 18 | 
-| 2022-12-17 | 200 | 18 | 
 

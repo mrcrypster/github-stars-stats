@@ -1,6 +1,6 @@
 # jsonnet-libs/k8s - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 120 | 55 | 
 | 2023-01-15 | 120 | 55 | 
 | 2023-01-14 | 120 | 55 | 
 | 2023-01-13 | 119 | 55 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 116 | 54 | 
 | 2022-12-19 | 116 | 53 | 
 | 2022-12-18 | 116 | 53 | 
-| 2022-12-17 | 116 | 53 | 
 

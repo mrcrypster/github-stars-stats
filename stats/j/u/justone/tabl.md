@@ -1,10 +1,10 @@
 # justone/tabl - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 0
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/justone/tabl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 32 | - | 
 | 2023-01-15 | 31 | - | 
 | 2023-01-14 | 31 | - | 
 | 2023-01-13 | 31 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 30 | - | 
 | 2022-12-19 | 30 | - | 
 | 2022-12-18 | 30 | - | 
-| 2022-12-17 | 30 | - | 
 

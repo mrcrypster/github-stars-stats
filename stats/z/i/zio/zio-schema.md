@@ -1,10 +1,10 @@
 # zio/zio-schema - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 103
 
-★ Stars: 105
+★ Stars: 106
 
 [Open repository](https://github.com/zio/zio-schema)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 106 | 103 | 
 | 2023-01-15 | 105 | 103 | 
 | 2023-01-14 | 105 | 103 | 
 | 2023-01-13 | 105 | 103 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 103 | 101 | 
 | 2022-12-19 | 103 | 101 | 
 | 2022-12-18 | 103 | 101 | 
-| 2022-12-17 | 103 | 101 | 
 

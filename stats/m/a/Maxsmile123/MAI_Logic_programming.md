@@ -1,8 +1,8 @@
 # Maxsmile123/MAI_Logic_programming - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
-☋ Forks: 4
+☋ Forks: 3
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | - | 3 | 
 | 2023-01-15 | - | 4 | 
 | 2023-01-14 | - | 4 | 
 | 2023-01-13 | - | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | - | 5 | 
 | 2022-12-19 | - | 5 | 
 | 2022-12-18 | - | 5 | 
-| 2022-12-17 | - | 5 | 
 

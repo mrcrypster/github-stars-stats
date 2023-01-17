@@ -1,6 +1,6 @@
 # AndrewRadev/id3.vim - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 48 | 1 | 
 | 2023-01-15 | 48 | 1 | 
 | 2023-01-14 | 48 | 1 | 
 | 2023-01-13 | 48 | 1 | 

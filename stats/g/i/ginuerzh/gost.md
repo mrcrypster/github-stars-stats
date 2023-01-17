@@ -1,10 +1,10 @@
 # ginuerzh/gost - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
-☋ Forks: 1923
+☋ Forks: 1924
 
-★ Stars: 10384
+★ Stars: 10389
 
 [Open repository](https://github.com/ginuerzh/gost)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 10389 | 1924 | 
 | 2023-01-15 | 10384 | 1923 | 
 | 2023-01-14 | 10380 | 1924 | 
 | 2023-01-13 | 10378 | 1923 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 10264 | 1913 | 
 | 2022-12-19 | 10258 | 1913 | 
 | 2022-12-18 | 10255 | 1912 | 
-| 2022-12-17 | 10253 | 1912 | 
 

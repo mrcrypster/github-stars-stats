@@ -1,6 +1,6 @@
 # code-423n4/2022-10-3xcalibur - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 1 | 6 | 
 | 2023-01-15 | 1 | 6 | 
 | 2023-01-14 | 1 | 6 | 
 | 2023-01-13 | 1 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-21 | 1 | 6 | 
 | 2022-12-19 | 1 | 6 | 
 | 2022-12-18 | 1 | 6 | 
-| 2022-12-17 | 1 | 6 | 
 

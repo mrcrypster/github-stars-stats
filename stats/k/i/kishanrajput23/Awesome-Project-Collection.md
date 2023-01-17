@@ -1,8 +1,8 @@
 # kishanrajput23/Awesome-Project-Collection - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
-☋ Forks: 82
+☋ Forks: 81
 
 ★ Stars: 56
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 56 | 81 | 
 | 2023-01-15 | 56 | 82 | 
 | 2023-01-14 | 56 | 82 | 
 | 2023-01-13 | 56 | 82 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 54 | 83 | 
 | 2022-12-19 | 54 | 83 | 
 | 2022-12-18 | 54 | 83 | 
-| 2022-12-17 | 54 | 83 | 
 

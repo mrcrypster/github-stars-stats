@@ -1,8 +1,8 @@
 # mashcard/mashcard - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
-☋ Forks: 36
+☋ Forks: 35
 
 ★ Stars: 210
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 210 | 35 | 
 | 2023-01-15 | 210 | 36 | 
 | 2023-01-14 | 210 | 36 | 
 | 2023-01-13 | 210 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 210 | 36 | 
 | 2022-12-19 | 210 | 36 | 
 | 2022-12-18 | 210 | 36 | 
-| 2022-12-17 | 210 | 36 | 
 

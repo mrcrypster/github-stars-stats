@@ -1,10 +1,10 @@
 # tensorflow/rust - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
-☋ Forks: 375
+☋ Forks: 376
 
-★ Stars: 4155
+★ Stars: 4157
 
 [Open repository](https://github.com/tensorflow/rust)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 4157 | 376 | 
 | 2023-01-15 | 4155 | 375 | 
 | 2023-01-14 | 4155 | 375 | 
 | 2023-01-13 | 4154 | 375 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 4089 | 368 | 
 | 2022-12-19 | 4089 | 368 | 
 | 2022-12-18 | 4086 | 368 | 
-| 2022-12-17 | 4085 | 368 | 
 

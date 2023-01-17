@@ -1,10 +1,10 @@
 # memphisdev/memphis-broker - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 131
 
-★ Stars: 2096
+★ Stars: 2101
 
 [Open repository](https://github.com/memphisdev/memphis-broker)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 2101 | 131 | 
 | 2023-01-15 | 2096 | 131 | 
 | 2023-01-14 | 2093 | 131 | 
 | 2023-01-13 | 2086 | 132 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 2016 | 125 | 
 | 2022-12-19 | 2016 | 125 | 
 | 2022-12-18 | 2015 | 125 | 
-| 2022-12-17 | 2012 | 125 | 
 

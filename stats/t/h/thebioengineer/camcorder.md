@@ -1,6 +1,6 @@
 # thebioengineer/camcorder - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 150 | 4 | 
 | 2023-01-15 | 150 | 4 | 
 | 2023-01-14 | 150 | 4 | 
 | 2023-01-13 | 149 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 144 | 4 | 
 | 2022-12-19 | 144 | 4 | 
 | 2022-12-18 | 144 | 4 | 
-| 2022-12-17 | 144 | 4 | 
 

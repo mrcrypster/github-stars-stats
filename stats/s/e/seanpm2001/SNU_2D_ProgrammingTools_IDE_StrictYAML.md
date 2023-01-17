@@ -1,6 +1,6 @@
 # seanpm2001/SNU_2D_ProgrammingTools_IDE_StrictYAML - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 3 | 1 | 
 | 2023-01-16 | 3 | 1 | 
 | 2023-01-14 | 3 | 1 | 
 | 2023-01-13 | 3 | 1 | 

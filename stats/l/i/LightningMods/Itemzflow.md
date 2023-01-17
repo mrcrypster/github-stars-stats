@@ -1,10 +1,10 @@
 # LightningMods/Itemzflow - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 3
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/LightningMods/Itemzflow)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 29 | 3 | 
 | 2023-01-15 | 28 | 3 | 
 | 2023-01-14 | 28 | 3 | 
 | 2023-01-12 | 28 | 3 | 

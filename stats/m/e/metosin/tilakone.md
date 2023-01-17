@@ -1,6 +1,6 @@
 # metosin/tilakone - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 182 | 19 | 
 | 2023-01-15 | 182 | 19 | 
 | 2023-01-14 | 182 | 19 | 
 | 2023-01-13 | 182 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-21 | 180 | 20 | 
 | 2022-12-20 | 180 | 20 | 
 | 2022-12-18 | 180 | 20 | 
-| 2022-12-17 | 180 | 20 | 
 

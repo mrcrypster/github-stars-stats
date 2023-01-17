@@ -1,6 +1,6 @@
 # D1rkMtr/DumpThatLSASS - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 76
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 480 | 76 | 
 | 2023-01-15 | 480 | 76 | 
 | 2023-01-14 | 480 | 76 | 
 | 2023-01-13 | 480 | 76 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-21 | 443 | 72 | 
 | 2022-12-19 | 442 | 70 | 
 | 2022-12-18 | 442 | 70 | 
-| 2022-12-17 | 441 | 70 | 
 

@@ -1,6 +1,6 @@
 # christianhaitian/PortMaster - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 190 | 45 | 
 | 2023-01-15 | 190 | 45 | 
 | 2023-01-14 | 190 | 45 | 
 | 2023-01-13 | 189 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 176 | 39 | 
 | 2022-12-19 | 176 | 39 | 
 | 2022-12-18 | 176 | 39 | 
-| 2022-12-17 | 176 | 39 | 
 

@@ -1,6 +1,6 @@
 # coilhq/tigerbeetle - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 77
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 1606 | 77 | 
 | 2023-01-15 | 1606 | 77 | 
 | 2023-01-14 | 1606 | 77 | 
 | 2023-01-13 | 1604 | 77 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 1558 | 75 | 
 | 2022-12-19 | 1555 | 75 | 
 | 2022-12-18 | 1552 | 75 | 
-| 2022-12-17 | 1550 | 75 | 
 

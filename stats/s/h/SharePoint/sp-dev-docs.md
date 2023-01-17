@@ -1,6 +1,6 @@
 # SharePoint/sp-dev-docs - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 940
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 1138 | 940 | 
 | 2023-01-15 | 1138 | 940 | 
 | 2023-01-14 | 1138 | 940 | 
 | 2023-01-13 | 1137 | 939 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-20 | 1133 | 939 | 
 | 2022-12-19 | 1134 | 939 | 
 | 2022-12-18 | 1134 | 939 | 
-| 2022-12-17 | 1134 | 939 | 
 

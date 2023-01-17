@@ -1,10 +1,10 @@
 # pulsejet/memories - stars & forks statistics
 
-Stats updated on Jan 2023, 15
+Stats updated on Jan 2023, 16
 
 ☋ Forks: 16
 
-★ Stars: 334
+★ Stars: 336
 
 [Open repository](https://github.com/pulsejet/memories)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-16 | 336 | 16 | 
 | 2023-01-15 | 334 | 16 | 
 | 2023-01-14 | 331 | 16 | 
 | 2023-01-13 | 327 | 17 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 15
 | 2022-12-21 | 301 | 12 | 
 | 2022-12-19 | 298 | 12 | 
 | 2022-12-18 | 293 | 12 | 
-| 2022-12-17 | 290 | 12 | 
 
