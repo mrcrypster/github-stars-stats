@@ -1,10 +1,10 @@
 # chen-rn/CUA - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 25
+☋ Forks: 26
 
-★ Stars: 470
+★ Stars: 477
 
 [Open repository](https://github.com/chen-rn/CUA)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 477 | 26 | 
 | 2023-01-16 | 470 | 25 | 
 | 2023-01-15 | 458 | 25 | 
 | 2023-01-14 | 446 | 22 | 

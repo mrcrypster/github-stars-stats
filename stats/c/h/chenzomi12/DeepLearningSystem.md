@@ -1,10 +1,10 @@
 # chenzomi12/DeepLearningSystem - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 34
+☋ Forks: 35
 
-★ Stars: 199
+★ Stars: 210
 
 [Open repository](https://github.com/chenzomi12/DeepLearningSystem)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 210 | 35 | 
 | 2023-01-16 | 199 | 34 | 
 | 2023-01-15 | 196 | 32 | 
 | 2023-01-14 | 195 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 89 | 17 | 
 | 2022-12-20 | 85 | 17 | 
 | 2022-12-19 | 82 | 17 | 
-| 2022-12-18 | 79 | 17 | 
 

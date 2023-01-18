@@ -1,10 +1,10 @@
 # livebook-dev/kino_bumblebee - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 2
 
-★ Stars: 56
+★ Stars: 57
 
 [Open repository](https://github.com/livebook-dev/kino_bumblebee)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 57 | 2 | 
 | 2023-01-16 | 56 | 2 | 
 | 2023-01-15 | 56 | 2 | 
 | 2023-01-14 | 56 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 49 | 2 | 
 | 2022-12-20 | 48 | 2 | 
 | 2022-12-19 | 47 | 2 | 
-| 2022-12-18 | 47 | 2 | 
 

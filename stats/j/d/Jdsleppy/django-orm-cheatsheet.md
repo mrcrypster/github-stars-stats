@@ -1,6 +1,6 @@
 # Jdsleppy/django-orm-cheatsheet - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 373 | 22 | 
 | 2023-01-16 | 373 | 22 | 
 | 2023-01-15 | 373 | 22 | 
 | 2023-01-14 | 373 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 370 | 22 | 
 | 2022-12-20 | 370 | 22 | 
 | 2022-12-19 | 370 | 22 | 
-| 2022-12-18 | 369 | 22 | 
 

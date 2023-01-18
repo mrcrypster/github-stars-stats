@@ -1,10 +1,10 @@
 # CVCUDA/CV-CUDA - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 92
+☋ Forks: 93
 
-★ Stars: 1001
+★ Stars: 1015
 
 [Open repository](https://github.com/CVCUDA/CV-CUDA)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 1015 | 93 | 
 | 2023-01-16 | 1001 | 92 | 
 | 2023-01-15 | 996 | 91 | 
 | 2023-01-14 | 990 | 91 | 

@@ -1,10 +1,10 @@
 # mathiasbynens/dotfiles - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 8823
+☋ Forks: 8818
 
-★ Stars: 28646
+★ Stars: 28648
 
 [Open repository](https://github.com/mathiasbynens/dotfiles)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 28648 | 8818 | 
 | 2023-01-16 | 28646 | 8823 | 
 | 2023-01-15 | 28640 | 8823 | 
 | 2023-01-14 | 28637 | 8822 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 28551 | 8826 | 
 | 2022-12-20 | 28549 | 8826 | 
 | 2022-12-19 | 28548 | 8824 | 
-| 2022-12-18 | 28546 | 8823 | 
 

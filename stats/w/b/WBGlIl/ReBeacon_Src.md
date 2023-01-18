@@ -1,10 +1,10 @@
 # WBGlIl/ReBeacon_Src - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 62
 
-★ Stars: 202
+★ Stars: 203
 
 [Open repository](https://github.com/WBGlIl/ReBeacon_Src)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 203 | 62 | 
 | 2023-01-16 | 202 | 62 | 
 | 2023-01-15 | 202 | 61 | 
 | 2023-01-14 | 202 | 61 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 194 | 59 | 
 | 2022-12-20 | 194 | 58 | 
 | 2022-12-19 | 194 | 58 | 
-| 2022-12-18 | 194 | 58 | 
 

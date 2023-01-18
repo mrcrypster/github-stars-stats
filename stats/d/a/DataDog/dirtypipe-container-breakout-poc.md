@@ -1,6 +1,6 @@
 # DataDog/dirtypipe-container-breakout-poc - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 76 | 12 | 
 | 2023-01-16 | 76 | 12 | 
 | 2023-01-15 | 76 | 12 | 
 | 2023-01-14 | 76 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 76 | 12 | 
 | 2022-12-20 | 76 | 12 | 
 | 2022-12-19 | 76 | 12 | 
-| 2022-12-18 | 76 | 12 | 
 

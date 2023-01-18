@@ -1,6 +1,6 @@
 # Wilfred/deadgrep - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 594 | 46 | 
 | 2023-01-16 | 594 | 46 | 
 | 2023-01-15 | 594 | 45 | 
 | 2023-01-14 | 594 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 592 | 45 | 
 | 2022-12-20 | 592 | 45 | 
 | 2022-12-19 | 592 | 45 | 
-| 2022-12-18 | 592 | 45 | 
 

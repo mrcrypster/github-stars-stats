@@ -1,6 +1,6 @@
 # IllustratedMan-code/make-help - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 45 | 1 | 
 | 2023-01-17 | 45 | 1 | 
 | 2023-01-16 | 45 | 1 | 
 | 2023-01-14 | 45 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-21 | 45 | 1 | 
 | 2022-12-20 | 45 | 1 | 
 | 2022-12-19 | 45 | 1 | 
-| 2022-12-18 | 45 | 1 | 
 

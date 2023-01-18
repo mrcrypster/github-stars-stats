@@ -1,10 +1,10 @@
 # CharlyKeleb/Animations - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 40
 
-★ Stars: 105
+★ Stars: 106
 
 [Open repository](https://github.com/CharlyKeleb/Animations)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 106 | 40 | 
 | 2023-01-16 | 105 | 40 | 
 | 2023-01-15 | 105 | 40 | 
 | 2023-01-14 | 105 | 40 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 101 | 40 | 
 | 2022-12-20 | 101 | 40 | 
 | 2022-12-19 | 101 | 40 | 
-| 2022-12-18 | 101 | 40 | 
 

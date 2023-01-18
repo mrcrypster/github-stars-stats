@@ -1,8 +1,8 @@
 # firebase/firebase-ios-sdk - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 1179
+☋ Forks: 1180
 
 ★ Stars: 4223
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 4223 | 1180 | 
 | 2023-01-16 | 4223 | 1179 | 
 | 2023-01-15 | 4222 | 1178 | 
 | 2023-01-14 | 4219 | 1178 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 4160 | 1163 | 
 | 2022-12-20 | 4159 | 1163 | 
 | 2022-12-19 | 4158 | 1161 | 
-| 2022-12-18 | 4156 | 1161 | 
 

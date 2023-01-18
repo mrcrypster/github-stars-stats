@@ -1,6 +1,6 @@
 # RedK0d/CLICKABLE-FC3 - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 128 | 21 | 
 | 2023-01-16 | 128 | 21 | 
 | 2023-01-15 | 127 | 21 | 
 | 2023-01-14 | 127 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 125 | 21 | 
 | 2022-12-20 | 125 | 21 | 
 | 2022-12-19 | 125 | 21 | 
-| 2022-12-18 | 125 | 21 | 
 

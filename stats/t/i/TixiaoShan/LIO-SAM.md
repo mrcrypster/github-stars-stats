@@ -1,10 +1,10 @@
 # TixiaoShan/LIO-SAM - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 901
 
-★ Stars: 2173
+★ Stars: 2174
 
 [Open repository](https://github.com/TixiaoShan/LIO-SAM)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 2174 | 901 | 
 | 2023-01-16 | 2173 | 901 | 
 | 2023-01-15 | 2171 | 900 | 
 | 2023-01-14 | 2170 | 899 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 2145 | 891 | 
 | 2022-12-20 | 2143 | 892 | 
 | 2022-12-19 | 2140 | 893 | 
-| 2022-12-18 | 2138 | 893 | 
 

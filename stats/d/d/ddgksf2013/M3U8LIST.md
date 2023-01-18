@@ -1,6 +1,6 @@
 # ddgksf2013/M3U8LIST - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 131 | 12 | 
 | 2023-01-16 | 131 | 12 | 
 | 2023-01-15 | 131 | 12 | 
 | 2023-01-14 | 129 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 98 | 9 | 
 | 2022-12-20 | 98 | 9 | 
 | 2022-12-19 | 97 | 9 | 
-| 2022-12-18 | 96 | 9 | 
 

@@ -1,6 +1,6 @@
 # PaulRBerg/prb-contracts - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 100 | 22 | 
 | 2023-01-16 | 100 | 22 | 
 | 2023-01-15 | 100 | 22 | 
 | 2023-01-14 | 100 | 22 | 

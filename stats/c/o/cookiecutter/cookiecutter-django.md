@@ -1,10 +1,10 @@
 # cookiecutter/cookiecutter-django - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 2547
+☋ Forks: 2548
 
-★ Stars: 10106
+★ Stars: 10110
 
 [Open repository](https://github.com/cookiecutter/cookiecutter-django)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 10110 | 2548 | 
 | 2023-01-16 | 10106 | 2547 | 
 | 2023-01-15 | 10105 | 2547 | 
 | 2023-01-14 | 10099 | 2548 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 9998 | 2536 | 
 | 2022-12-20 | 9993 | 2535 | 
 | 2022-12-19 | 9989 | 2533 | 
-| 2022-12-18 | 9986 | 2532 | 
 

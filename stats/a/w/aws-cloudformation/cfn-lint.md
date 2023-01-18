@@ -1,10 +1,10 @@
 # aws-cloudformation/cfn-lint - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 492
 
-★ Stars: 2079
+★ Stars: 2081
 
 [Open repository](https://github.com/aws-cloudformation/cfn-lint)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 2081 | 492 | 
 | 2023-01-16 | 2079 | 492 | 
 | 2023-01-15 | 2079 | 492 | 
 | 2023-01-14 | 2078 | 492 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 2057 | 486 | 
 | 2022-12-20 | 2057 | 486 | 
 | 2022-12-19 | 2056 | 486 | 
-| 2022-12-18 | 2056 | 486 | 
 

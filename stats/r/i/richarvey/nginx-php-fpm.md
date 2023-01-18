@@ -1,10 +1,10 @@
 # richarvey/nginx-php-fpm - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 832
 
-★ Stars: 1521
+★ Stars: 1522
 
 [Open repository](https://github.com/richarvey/nginx-php-fpm)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 1522 | 832 | 
 | 2023-01-16 | 1521 | 832 | 
 | 2023-01-15 | 1521 | 832 | 
 | 2023-01-14 | 1521 | 832 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 1514 | 836 | 
 | 2022-12-20 | 1514 | 836 | 
 | 2022-12-19 | 1514 | 836 | 
-| 2022-12-18 | 1514 | 836 | 
 

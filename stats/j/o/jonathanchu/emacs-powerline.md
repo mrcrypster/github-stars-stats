@@ -1,10 +1,10 @@
 # jonathanchu/emacs-powerline - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 39
 
-★ Stars: 381
+★ Stars: 384
 
 [Open repository](https://github.com/jonathanchu/emacs-powerline)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 384 | 39 | 
 | 2023-01-16 | 381 | 39 | 
 | 2023-01-15 | 381 | 39 | 
 | 2023-01-14 | 381 | 39 | 

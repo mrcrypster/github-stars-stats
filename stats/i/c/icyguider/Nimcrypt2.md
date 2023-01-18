@@ -1,10 +1,10 @@
 # icyguider/Nimcrypt2 - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 92
 
-★ Stars: 532
+★ Stars: 533
 
 [Open repository](https://github.com/icyguider/Nimcrypt2)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 533 | 92 | 
 | 2023-01-16 | 532 | 92 | 
 | 2023-01-15 | 532 | 92 | 
 | 2023-01-14 | 531 | 92 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 518 | 90 | 
 | 2022-12-20 | 518 | 90 | 
 | 2022-12-19 | 517 | 90 | 
-| 2022-12-18 | 516 | 90 | 
 

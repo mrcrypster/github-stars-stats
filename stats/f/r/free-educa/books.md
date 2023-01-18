@@ -1,10 +1,10 @@
 # free-educa/books - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 313
 
-★ Stars: 1493
+★ Stars: 1497
 
 [Open repository](https://github.com/free-educa/books)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 1497 | 313 | 
 | 2023-01-16 | 1493 | 313 | 
 | 2023-01-15 | 1487 | 312 | 
 | 2023-01-14 | 1486 | 312 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 1424 | 299 | 
 | 2022-12-20 | 1422 | 298 | 
 | 2022-12-19 | 1419 | 297 | 
-| 2022-12-18 | 1419 | 298 | 
 

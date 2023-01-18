@@ -1,6 +1,6 @@
 # xiyaowong/nvim-transparent - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 292 | 10 | 
 | 2023-01-16 | 292 | 10 | 
 | 2023-01-15 | 291 | 10 | 
 | 2023-01-14 | 291 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 258 | 9 | 
 | 2022-12-20 | 256 | 9 | 
 | 2022-12-19 | 256 | 9 | 
-| 2022-12-18 | 254 | 9 | 
 

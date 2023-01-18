@@ -1,10 +1,10 @@
 # alex-xu-system/bytebytego - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 290
 
-★ Stars: 1135
+★ Stars: 1138
 
 [Open repository](https://github.com/alex-xu-system/bytebytego)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 1138 | 290 | 
 | 2023-01-16 | 1135 | 290 | 
 | 2023-01-15 | 1134 | 290 | 
 | 2023-01-14 | 1130 | 290 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 1092 | 271 | 
 | 2022-12-20 | 1090 | 269 | 
 | 2022-12-19 | 1089 | 269 | 
-| 2022-12-18 | 1087 | 269 | 
 

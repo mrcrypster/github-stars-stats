@@ -1,10 +1,10 @@
 # dwcoder/QuantitativePrimer - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 97
+☋ Forks: 101
 
-★ Stars: 613
+★ Stars: 620
 
 [Open repository](https://github.com/dwcoder/QuantitativePrimer)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 620 | 101 | 
 | 2023-01-16 | 613 | 97 | 
 | 2023-01-15 | 613 | 97 | 
 | 2023-01-14 | 613 | 97 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 583 | 95 | 
 | 2022-12-20 | 582 | 94 | 
 | 2022-12-19 | 581 | 93 | 
-| 2022-12-18 | 581 | 93 | 
 

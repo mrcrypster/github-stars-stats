@@ -1,10 +1,10 @@
 # sainnhe/everforest - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 94
 
-★ Stars: 1585
+★ Stars: 1586
 
 [Open repository](https://github.com/sainnhe/everforest)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 1586 | 94 | 
 | 2023-01-16 | 1585 | 94 | 
 | 2023-01-15 | 1582 | 94 | 
 | 2023-01-14 | 1579 | 93 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 1520 | 87 | 
 | 2022-12-20 | 1521 | 87 | 
 | 2022-12-19 | 1520 | 88 | 
-| 2022-12-18 | 1519 | 88 | 
 

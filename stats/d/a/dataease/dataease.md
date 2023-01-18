@@ -1,10 +1,10 @@
 # dataease/dataease - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 1717
+☋ Forks: 1719
 
-★ Stars: 8640
+★ Stars: 8646
 
 [Open repository](https://github.com/dataease/dataease)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 8646 | 1719 | 
 | 2023-01-16 | 8640 | 1717 | 
 | 2023-01-15 | 8635 | 1716 | 
 | 2023-01-14 | 8636 | 1716 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 8483 | 1675 | 
 | 2022-12-20 | 8477 | 1673 | 
 | 2022-12-19 | 8470 | 1671 | 
-| 2022-12-18 | 8465 | 1671 | 
 

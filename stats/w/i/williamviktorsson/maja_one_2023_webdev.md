@@ -1,8 +1,8 @@
 # williamviktorsson/maja_one_2023_webdev - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 29
+☋ Forks: 37
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | - | 37 | 
 | 2023-01-16 | - | 29 | 
 | 2023-01-15 | - | 29 | 
 | 2023-01-14 | - | 28 | 

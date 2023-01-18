@@ -1,10 +1,10 @@
 # peng-zhihui/HDMI-PI - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 785
 
-★ Stars: 5124
+★ Stars: 5125
 
 [Open repository](https://github.com/peng-zhihui/HDMI-PI)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 5125 | 785 | 
 | 2023-01-16 | 5124 | 785 | 
 | 2023-01-15 | 5124 | 786 | 
 | 2023-01-14 | 5121 | 786 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 5094 | 782 | 
 | 2022-12-20 | 5094 | 782 | 
 | 2022-12-19 | 5094 | 782 | 
-| 2022-12-18 | 5093 | 782 | 
 

@@ -1,10 +1,10 @@
 # xlc520/MaoTV - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 156
 
-★ Stars: 670
+★ Stars: 671
 
 [Open repository](https://github.com/xlc520/MaoTV)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 671 | 156 | 
 | 2023-01-16 | 670 | 156 | 
 | 2023-01-15 | 670 | 156 | 
 | 2023-01-14 | 671 | 156 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 668 | 156 | 
 | 2022-12-20 | 668 | 156 | 
 | 2022-12-19 | 666 | 156 | 
-| 2022-12-18 | 666 | 156 | 
 

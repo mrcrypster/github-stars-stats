@@ -1,10 +1,10 @@
 # rawleyfowler/Humming-Bird - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 2
+☋ Forks: 3
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/rawleyfowler/Humming-Bird)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 12 | 3 | 
 | 2023-01-16 | 11 | 2 | 
 | 2023-01-15 | 11 | 2 | 
 | 2023-01-14 | 11 | 2 | 

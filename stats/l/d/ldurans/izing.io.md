@@ -1,10 +1,10 @@
 # ldurans/izing.io - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 89
+☋ Forks: 91
 
-★ Stars: 125
+★ Stars: 126
 
 [Open repository](https://github.com/ldurans/izing.io)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 126 | 91 | 
 | 2023-01-16 | 125 | 89 | 
 | 2023-01-15 | 125 | 88 | 
 | 2023-01-14 | 124 | 87 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 105 | 72 | 
 | 2022-12-20 | 103 | 72 | 
 | 2022-12-19 | 103 | 72 | 
-| 2022-12-18 | 103 | 70 | 
 

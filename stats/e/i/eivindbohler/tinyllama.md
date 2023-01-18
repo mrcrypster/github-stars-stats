@@ -1,10 +1,10 @@
 # eivindbohler/tinyllama - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 2
 
-★ Stars: 227
+★ Stars: 228
 
 [Open repository](https://github.com/eivindbohler/tinyllama)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 228 | 2 | 
 | 2023-01-16 | 227 | 2 | 
 | 2023-01-15 | 227 | 2 | 
 | 2023-01-14 | 226 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-22 | 221 | 2 | 
 | 2022-12-21 | 218 | 2 | 
 | 2022-12-19 | 217 | 2 | 
-| 2022-12-18 | 217 | 2 | 
 

@@ -1,10 +1,10 @@
 # donnemartin/system-design-primer - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 37374
+☋ Forks: 37390
 
-★ Stars: 208642
+★ Stars: 208723
 
 [Open repository](https://github.com/donnemartin/system-design-primer)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 208723 | 37390 | 
 | 2023-01-16 | 208642 | 37374 | 
 | 2023-01-15 | 208560 | 37363 | 
 | 2023-01-14 | 208502 | 37348 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 206007 | 37022 | 
 | 2022-12-20 | 205935 | 37013 | 
 | 2022-12-19 | 205917 | 37010 | 
-| 2022-12-18 | 205837 | 37000 | 
 

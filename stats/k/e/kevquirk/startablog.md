@@ -1,10 +1,10 @@
 # kevquirk/startablog - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 32
 
-★ Stars: 59
+★ Stars: 61
 
 [Open repository](https://github.com/kevquirk/startablog)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 61 | 32 | 
 | 2023-01-16 | 59 | 32 | 
 | 2023-01-15 | 59 | 32 | 
 | 2023-01-14 | 59 | 32 | 

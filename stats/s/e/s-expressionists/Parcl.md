@@ -1,10 +1,10 @@
 # s-expressionists/Parcl - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 0
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/s-expressionists/Parcl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 1 | - | 
 | 2023-01-16 | - | - | 
 | 2023-01-15 | - | - | 
 | 2023-01-14 | - | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-22 | - | - | 
 | 2022-12-21 | - | - | 
 | 2022-12-20 | - | - | 
-| 2022-12-19 | - | - | 
 

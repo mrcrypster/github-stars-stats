@@ -1,10 +1,10 @@
 # q601333824/xray_crack - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 81
 
-★ Stars: 237
+★ Stars: 239
 
 [Open repository](https://github.com/q601333824/xray_crack)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 239 | 81 | 
 | 2023-01-16 | 237 | 81 | 
 | 2023-01-15 | 237 | 81 | 
 | 2023-01-14 | 237 | 81 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 238 | 81 | 
 | 2022-12-20 | 238 | 81 | 
 | 2022-12-19 | 238 | 81 | 
-| 2022-12-18 | 238 | 81 | 
 

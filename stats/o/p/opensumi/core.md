@@ -1,10 +1,10 @@
 # opensumi/core - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 260
 
-★ Stars: 2240
+★ Stars: 2244
 
 [Open repository](https://github.com/opensumi/core)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 2244 | 260 | 
 | 2023-01-17 | 2240 | 260 | 
 | 2023-01-15 | 2237 | 260 | 
 | 2023-01-14 | 2237 | 261 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-21 | 2207 | 259 | 
 | 2022-12-20 | 2205 | 259 | 
 | 2022-12-19 | 2203 | 259 | 
-| 2022-12-18 | 2203 | 260 | 
 

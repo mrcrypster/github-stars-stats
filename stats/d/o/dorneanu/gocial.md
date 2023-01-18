@@ -1,6 +1,6 @@
 # dorneanu/gocial - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 39 | 4 | 
 | 2023-01-16 | 39 | 4 | 
 | 2023-01-15 | 39 | 4 | 
 | 2023-01-14 | 39 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 37 | 4 | 
 | 2022-12-20 | 36 | 3 | 
 | 2022-12-19 | 36 | 3 | 
-| 2022-12-18 | 36 | 3 | 
 

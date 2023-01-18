@@ -1,10 +1,10 @@
 # yeyintminthuhtut/Awesome-Red-Teaming - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 1464
 
-★ Stars: 5256
+★ Stars: 5258
 
 [Open repository](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 5258 | 1464 | 
 | 2023-01-16 | 5256 | 1464 | 
 | 2023-01-15 | 5255 | 1464 | 
 | 2023-01-14 | 5252 | 1464 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 5191 | 1454 | 
 | 2022-12-20 | 5187 | 1454 | 
 | 2022-12-19 | 5182 | 1455 | 
-| 2022-12-18 | 5180 | 1455 | 
 

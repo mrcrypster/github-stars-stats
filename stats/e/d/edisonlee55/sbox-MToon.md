@@ -1,10 +1,10 @@
 # edisonlee55/sbox-MToon - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 2
 
-★ Stars: 20
+★ Stars: 22
 
 [Open repository](https://github.com/edisonlee55/sbox-MToon)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 22 | 2 | 
 | 2023-01-16 | 20 | 2 | 
 | 2023-01-15 | 20 | 2 | 
 | 2023-01-14 | 20 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 17 | - | 
 | 2022-12-20 | 16 | - | 
 | 2022-12-19 | 16 | - | 
-| 2022-12-18 | 16 | - | 
 

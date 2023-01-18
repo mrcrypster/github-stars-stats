@@ -1,10 +1,10 @@
 # RaiMan/SikuliX1 - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 286
 
-★ Stars: 2105
+★ Stars: 2106
 
 [Open repository](https://github.com/RaiMan/SikuliX1)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 2106 | 286 | 
 | 2023-01-16 | 2105 | 286 | 
 | 2023-01-15 | 2102 | 286 | 
 | 2023-01-14 | 2102 | 286 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-22 | 2082 | 282 | 
 | 2022-12-20 | 2081 | 282 | 
 | 2022-12-19 | 2080 | 282 | 
-| 2022-12-18 | 2080 | 282 | 
 

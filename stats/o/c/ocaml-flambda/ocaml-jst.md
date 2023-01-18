@@ -1,10 +1,10 @@
 # ocaml-flambda/ocaml-jst - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 12
 
-★ Stars: 33
+★ Stars: 32
 
 [Open repository](https://github.com/ocaml-flambda/ocaml-jst)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 32 | 12 | 
 | 2023-01-16 | 33 | 12 | 
 | 2023-01-15 | 32 | 12 | 
 | 2023-01-14 | 32 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 25 | 12 | 
 | 2022-12-20 | 25 | 12 | 
 | 2022-12-19 | 25 | 12 | 
-| 2022-12-18 | 25 | 12 | 
 

@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-4-rails-practice-challenge-gym - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 966
+☋ Forks: 972
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 3 | 972 | 
 | 2023-01-16 | 3 | 966 | 
 | 2023-01-15 | 3 | 965 | 
 | 2023-01-14 | 3 | 964 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 3 | 935 | 
 | 2022-12-20 | 3 | 927 | 
 | 2022-12-19 | 1 | 924 | 
-| 2022-12-18 | 1 | 915 | 
 

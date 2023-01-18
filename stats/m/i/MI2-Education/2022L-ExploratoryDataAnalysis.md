@@ -1,6 +1,6 @@
 # MI2-Education/2022L-ExploratoryDataAnalysis - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 12 | 29 | 
 | 2023-01-16 | 12 | 29 | 
 | 2023-01-15 | 12 | 29 | 
 | 2023-01-14 | 12 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 12 | 29 | 
 | 2022-12-20 | 12 | 29 | 
 | 2022-12-19 | 12 | 29 | 
-| 2022-12-18 | 12 | 29 | 
 

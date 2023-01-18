@@ -1,8 +1,8 @@
 # RetroMusicPlayer/Paisa - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 24
+☋ Forks: 25
 
 ★ Stars: 157
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 157 | 25 | 
 | 2023-01-16 | 157 | 24 | 
 | 2023-01-15 | 154 | 24 | 
 | 2023-01-14 | 151 | 23 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 92 | 20 | 
 | 2022-12-20 | 91 | 20 | 
 | 2022-12-19 | 89 | 20 | 
-| 2022-12-18 | 89 | 20 | 
 

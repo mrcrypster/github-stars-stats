@@ -1,6 +1,6 @@
 # mmaaz60/EdgeNeXt - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 242 | 27 | 
 | 2023-01-16 | 242 | 27 | 
 | 2023-01-15 | 242 | 27 | 
 | 2023-01-14 | 241 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-22 | 236 | 27 | 
 | 2022-12-21 | 236 | 27 | 
 | 2022-12-20 | 236 | 27 | 
-| 2022-12-18 | 236 | 27 | 
 

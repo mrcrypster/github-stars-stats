@@ -1,10 +1,10 @@
 # vulhub/vulhub - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 3920
+☋ Forks: 3921
 
-★ Stars: 13285
+★ Stars: 13290
 
 [Open repository](https://github.com/vulhub/vulhub)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 13290 | 3921 | 
 | 2023-01-16 | 13285 | 3920 | 
 | 2023-01-15 | 13282 | 3918 | 
 | 2023-01-14 | 13274 | 3919 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 13160 | 3885 | 
 | 2022-12-20 | 13160 | 3885 | 
 | 2022-12-19 | 13154 | 3884 | 
-| 2022-12-18 | 13150 | 3882 | 
 

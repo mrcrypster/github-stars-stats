@@ -1,10 +1,10 @@
 # neoclide/coc.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 902
+☋ Forks: 903
 
-★ Stars: 22081
+★ Stars: 22087
 
 [Open repository](https://github.com/neoclide/coc.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 22087 | 903 | 
 | 2023-01-16 | 22081 | 902 | 
 | 2023-01-15 | 22078 | 902 | 
 | 2023-01-14 | 22066 | 903 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 21911 | 901 | 
 | 2022-12-20 | 21901 | 900 | 
 | 2022-12-19 | 21900 | 900 | 
-| 2022-12-18 | 21888 | 900 | 
 

@@ -1,10 +1,10 @@
 # intel-analytics/BigDL - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 1067
 
-★ Stars: 4137
+★ Stars: 4136
 
 [Open repository](https://github.com/intel-analytics/BigDL)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 4136 | 1067 | 
 | 2023-01-16 | 4137 | 1067 | 
 | 2023-01-15 | 4137 | 1067 | 
 | 2023-01-14 | 4137 | 1067 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 4122 | 1063 | 
 | 2022-12-20 | 4120 | 1062 | 
 | 2022-12-19 | 4120 | 1062 | 
-| 2022-12-18 | 4120 | 1062 | 
 

@@ -1,10 +1,10 @@
 # Demian101/Move-Colearn-Camp-Seeshore - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 1
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/Demian101/Move-Colearn-Camp-Seeshore)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 10 | 1 | 
 | 2023-01-16 | 9 | 1 | 
 | 2023-01-15 | 9 | 1 | 
 

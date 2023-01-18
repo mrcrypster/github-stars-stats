@@ -1,10 +1,10 @@
 # D1rkMtr/FilelessNtdllReflection - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 27
 
-★ Stars: 167
+★ Stars: 168
 
 [Open repository](https://github.com/D1rkMtr/FilelessNtdllReflection)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 168 | 27 | 
 | 2023-01-16 | 167 | 27 | 
 | 2023-01-15 | 166 | 27 | 
 | 2023-01-14 | 165 | 27 | 

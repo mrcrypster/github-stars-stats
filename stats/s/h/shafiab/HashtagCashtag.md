@@ -1,10 +1,10 @@
 # shafiab/HashtagCashtag - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 87
 
-★ Stars: 291
+★ Stars: 293
 
 [Open repository](https://github.com/shafiab/HashtagCashtag)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 293 | 87 | 
 | 2023-01-17 | 291 | 87 | 
 | 2023-01-15 | 290 | 87 | 
 | 2023-01-14 | 290 | 87 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 283 | 84 | 
 | 2022-12-21 | 283 | 84 | 
 | 2022-12-19 | 282 | 84 | 
-| 2022-12-18 | 282 | 84 | 
 

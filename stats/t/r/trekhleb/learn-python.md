@@ -1,10 +1,10 @@
 # trekhleb/learn-python - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 2263
+☋ Forks: 2262
 
-★ Stars: 13911
+★ Stars: 13912
 
 [Open repository](https://github.com/trekhleb/learn-python)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 13912 | 2262 | 
 | 2023-01-16 | 13911 | 2263 | 
 | 2023-01-15 | 13905 | 2263 | 
 | 2023-01-14 | 13900 | 2265 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 13785 | 2243 | 
 | 2022-12-20 | 13774 | 2241 | 
 | 2022-12-19 | 13740 | 2233 | 
-| 2022-12-18 | 13717 | 2228 | 
 

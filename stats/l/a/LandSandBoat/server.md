@@ -1,10 +1,10 @@
 # LandSandBoat/server - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 281
+☋ Forks: 282
 
-★ Stars: 156
+★ Stars: 157
 
 [Open repository](https://github.com/LandSandBoat/server)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 157 | 282 | 
 | 2023-01-16 | 156 | 281 | 
 | 2023-01-15 | 155 | 281 | 
 | 2023-01-14 | 155 | 281 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 143 | 264 | 
 | 2022-12-20 | 143 | 264 | 
 | 2022-12-19 | 144 | 262 | 
-| 2022-12-18 | 143 | 261 | 
 

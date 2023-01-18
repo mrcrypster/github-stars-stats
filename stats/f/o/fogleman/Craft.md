@@ -1,6 +1,6 @@
 # fogleman/Craft - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 1286
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 9563 | 1286 | 
 | 2023-01-16 | 9563 | 1286 | 
 | 2023-01-15 | 9562 | 1285 | 
 | 2023-01-14 | 9563 | 1285 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-22 | 9524 | 1282 | 
 | 2022-12-21 | 9524 | 1282 | 
 | 2022-12-19 | 9523 | 1280 | 
-| 2022-12-18 | 9522 | 1278 | 
 

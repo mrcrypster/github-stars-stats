@@ -1,10 +1,10 @@
 # big-data-europe/docker-hadoop - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 1017
+☋ Forks: 1018
 
-★ Stars: 1846
+★ Stars: 1847
 
 [Open repository](https://github.com/big-data-europe/docker-hadoop)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 1847 | 1018 | 
 | 2023-01-16 | 1846 | 1017 | 
 | 2023-01-15 | 1846 | 1017 | 
 | 2023-01-14 | 1845 | 1017 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 1833 | 1007 | 
 | 2022-12-20 | 1833 | 1007 | 
 | 2022-12-19 | 1832 | 1007 | 
-| 2022-12-18 | 1831 | 1006 | 
 

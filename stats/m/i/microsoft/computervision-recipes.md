@@ -1,10 +1,10 @@
 # microsoft/computervision-recipes - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 1101
 
-★ Stars: 8802
+★ Stars: 8804
 
 [Open repository](https://github.com/microsoft/computervision-recipes)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 8804 | 1101 | 
 | 2023-01-16 | 8802 | 1101 | 
 | 2023-01-15 | 8802 | 1101 | 
 | 2023-01-14 | 8801 | 1102 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-22 | 8772 | 1101 | 
 | 2022-12-21 | 8772 | 1101 | 
 | 2022-12-19 | 8772 | 1101 | 
-| 2022-12-18 | 8770 | 1101 | 
 

@@ -1,10 +1,10 @@
 # kaityo256/github - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 14
 
-★ Stars: 496
+★ Stars: 497
 
 [Open repository](https://github.com/kaityo256/github)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 497 | 14 | 
 | 2023-01-16 | 496 | 14 | 
 | 2023-01-15 | 496 | 14 | 
 | 2023-01-14 | 494 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 489 | 14 | 
 | 2022-12-20 | 488 | 14 | 
 | 2022-12-19 | 488 | 14 | 
-| 2022-12-18 | 488 | 14 | 
 

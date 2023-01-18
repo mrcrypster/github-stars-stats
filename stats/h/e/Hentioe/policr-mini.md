@@ -1,6 +1,6 @@
 # Hentioe/policr-mini - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 83
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 713 | 83 | 
 | 2023-01-16 | 713 | 83 | 
 | 2023-01-15 | 712 | 83 | 
 | 2023-01-14 | 707 | 83 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 689 | 81 | 
 | 2022-12-20 | 689 | 81 | 
 | 2022-12-19 | 690 | 81 | 
-| 2022-12-18 | 690 | 81 | 
 

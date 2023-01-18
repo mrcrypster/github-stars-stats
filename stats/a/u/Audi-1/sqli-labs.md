@@ -1,6 +1,6 @@
 # Audi-1/sqli-labs - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 1441
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 4334 | 1441 | 
 | 2023-01-16 | 4334 | 1441 | 
 | 2023-01-15 | 4334 | 1439 | 
 | 2023-01-14 | 4334 | 1439 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 4316 | 1435 | 
 | 2022-12-20 | 4314 | 1435 | 
 | 2022-12-19 | 4313 | 1435 | 
-| 2022-12-18 | 4313 | 1435 | 
 

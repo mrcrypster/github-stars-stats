@@ -1,10 +1,10 @@
 # openai/openai-openapi - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 37
 
-★ Stars: 79
+★ Stars: 81
 
 [Open repository](https://github.com/openai/openai-openapi)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 81 | 37 | 
 | 2023-01-16 | 79 | 37 | 
 | 2023-01-15 | 77 | 36 | 
 | 2023-01-14 | 77 | 35 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 46 | 19 | 
 | 2022-12-20 | 40 | 18 | 
 | 2022-12-19 | 38 | 18 | 
-| 2022-12-18 | 37 | 18 | 
 

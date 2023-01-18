@@ -1,10 +1,10 @@
 # dotnet/intro-to-dotnet-web-dev - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 344
 
-★ Stars: 281
+★ Stars: 285
 
 [Open repository](https://github.com/dotnet/intro-to-dotnet-web-dev)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 285 | 344 | 
 | 2023-01-16 | 281 | 344 | 
 | 2023-01-15 | 279 | 342 | 
 | 2023-01-14 | 278 | 342 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 255 | 304 | 
 | 2022-12-20 | 255 | 304 | 
 | 2022-12-19 | 252 | 301 | 
-| 2022-12-18 | 250 | 298 | 
 

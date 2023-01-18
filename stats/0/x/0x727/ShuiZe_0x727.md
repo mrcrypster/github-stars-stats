@@ -1,10 +1,10 @@
 # 0x727/ShuiZe_0x727 - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 478
 
-★ Stars: 2663
+★ Stars: 2665
 
 [Open repository](https://github.com/0x727/ShuiZe_0x727)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 2665 | 478 | 
 | 2023-01-17 | 2663 | 478 | 
 | 2023-01-16 | 2663 | 478 | 
 | 2023-01-14 | 2663 | 478 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-21 | 2633 | 475 | 
 | 2022-12-20 | 2630 | 475 | 
 | 2022-12-19 | 2629 | 475 | 
-| 2022-12-18 | 2625 | 474 | 
 

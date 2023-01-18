@@ -1,10 +1,10 @@
 # basho/riak_pb - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 113
 
-★ Stars: 69
+★ Stars: 70
 
 [Open repository](https://github.com/basho/riak_pb)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 70 | 113 | 
 | 2023-01-17 | 69 | 113 | 
 | 2023-01-16 | 69 | 113 | 
 | 2023-01-14 | 69 | 113 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-21 | 69 | 113 | 
 | 2022-12-20 | 69 | 113 | 
 | 2022-12-19 | 69 | 113 | 
-| 2022-12-18 | 69 | 113 | 
 

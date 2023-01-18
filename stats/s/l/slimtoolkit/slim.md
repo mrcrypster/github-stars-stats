@@ -1,10 +1,10 @@
 # slimtoolkit/slim - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 602
 
-★ Stars: 15974
+★ Stars: 15977
 
 [Open repository](https://github.com/slimtoolkit/slim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 15977 | 602 | 
 | 2023-01-16 | 15974 | 602 | 
 | 2023-01-15 | 15967 | 602 | 
 | 2023-01-14 | 15959 | 602 | 

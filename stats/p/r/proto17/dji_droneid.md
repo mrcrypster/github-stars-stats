@@ -1,10 +1,10 @@
 # proto17/dji_droneid - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 36
 
-★ Stars: 135
+★ Stars: 137
 
 [Open repository](https://github.com/proto17/dji_droneid)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 137 | 36 | 
 | 2023-01-16 | 135 | 36 | 
 | 2023-01-15 | 135 | 36 | 
 | 2023-01-14 | 135 | 36 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 127 | 37 | 
 | 2022-12-20 | 127 | 37 | 
 | 2022-12-19 | 127 | 37 | 
-| 2022-12-18 | 127 | 37 | 
 

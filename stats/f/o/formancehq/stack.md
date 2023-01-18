@@ -1,10 +1,10 @@
 # formancehq/stack - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 1
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/formancehq/stack)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 29 | 1 | 
 | 2023-01-16 | 28 | 1 | 
 | 2023-01-15 | 26 | 1 | 
 | 2023-01-14 | 26 | 1 | 

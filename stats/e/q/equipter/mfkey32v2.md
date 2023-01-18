@@ -1,6 +1,6 @@
 # equipter/mfkey32v2 - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 369 | 21 | 
 | 2023-01-16 | 369 | 21 | 
 | 2023-01-15 | 367 | 21 | 
 | 2023-01-14 | 366 | 21 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 300 | 16 | 
 | 2022-12-20 | 299 | 16 | 
 | 2022-12-19 | 299 | 16 | 
-| 2022-12-18 | 295 | 15 | 
 

@@ -1,10 +1,10 @@
 # RylanSchaeffer/Stanford-LaTeX-Poster-Template - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 17
 
-★ Stars: 60
+★ Stars: 61
 
 [Open repository](https://github.com/RylanSchaeffer/Stanford-LaTeX-Poster-Template)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 61 | 17 | 
 | 2023-01-16 | 60 | 17 | 
 | 2023-01-15 | 60 | 17 | 
 | 2023-01-14 | 60 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 59 | 18 | 
 | 2022-12-20 | 59 | 18 | 
 | 2022-12-19 | 59 | 18 | 
-| 2022-12-18 | 59 | 18 | 
 

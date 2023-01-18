@@ -1,10 +1,10 @@
 # E3SM-Project/scream - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 27
 
-★ Stars: 35
+★ Stars: 36
 
 [Open repository](https://github.com/E3SM-Project/scream)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 36 | 27 | 
 | 2023-01-16 | 35 | 27 | 
 | 2023-01-15 | 35 | 27 | 
 | 2023-01-14 | 35 | 27 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 35 | 26 | 
 | 2022-12-20 | 35 | 26 | 
 | 2022-12-19 | 36 | 26 | 
-| 2022-12-18 | 36 | 26 | 
 

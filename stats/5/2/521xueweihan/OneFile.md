@@ -1,6 +1,6 @@
 # 521xueweihan/OneFile - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 110
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 896 | 110 | 
 | 2023-01-16 | 896 | 110 | 
 | 2023-01-15 | 895 | 110 | 
 | 2023-01-14 | 894 | 110 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 875 | 105 | 
 | 2022-12-20 | 875 | 105 | 
 | 2022-12-19 | 874 | 105 | 
-| 2022-12-18 | 873 | 105 | 
 

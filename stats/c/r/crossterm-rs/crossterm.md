@@ -1,10 +1,10 @@
 # crossterm-rs/crossterm - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 190
 
-★ Stars: 2088
+★ Stars: 2091
 
 [Open repository](https://github.com/crossterm-rs/crossterm)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 2091 | 190 | 
 | 2023-01-16 | 2088 | 190 | 
 | 2023-01-15 | 2085 | 190 | 
 | 2023-01-14 | 2082 | 190 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 2034 | 191 | 
 | 2022-12-20 | 2032 | 191 | 
 | 2022-12-19 | 2030 | 190 | 
-| 2022-12-18 | 2028 | 190 | 
 

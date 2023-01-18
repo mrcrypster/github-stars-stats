@@ -1,10 +1,10 @@
 # btkrausen/hashicorp - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 512
+☋ Forks: 515
 
-★ Stars: 487
+★ Stars: 488
 
 [Open repository](https://github.com/btkrausen/hashicorp)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 488 | 515 | 
 | 2023-01-16 | 487 | 512 | 
 | 2023-01-15 | 485 | 508 | 
 | 2023-01-14 | 485 | 508 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 466 | 477 | 
 | 2022-12-20 | 466 | 476 | 
 | 2022-12-19 | 464 | 473 | 
-| 2022-12-18 | 463 | 472 | 
 

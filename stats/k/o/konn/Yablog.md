@@ -1,10 +1,10 @@
 # konn/Yablog - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 0
 
-★ Stars: 13
+★ Stars: 12
 
 [Open repository](https://github.com/konn/Yablog)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 12 | - | 
 | 2023-01-17 | 13 | - | 
 | 2023-01-15 | 13 | - | 
 | 2023-01-14 | 13 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 13 | - | 
 | 2022-12-21 | 13 | - | 
 | 2022-12-20 | 13 | - | 
-| 2022-12-18 | 13 | - | 
 

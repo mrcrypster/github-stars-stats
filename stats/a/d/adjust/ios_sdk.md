@@ -1,10 +1,10 @@
 # adjust/ios_sdk - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 283
 
-★ Stars: 549
+★ Stars: 550
 
 [Open repository](https://github.com/adjust/ios_sdk)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 550 | 283 | 
 | 2023-01-16 | 549 | 283 | 
 | 2023-01-15 | 549 | 282 | 
 | 2023-01-14 | 549 | 282 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 542 | 284 | 
 | 2022-12-20 | 542 | 284 | 
 | 2022-12-19 | 542 | 284 | 
-| 2022-12-18 | 542 | 284 | 
 

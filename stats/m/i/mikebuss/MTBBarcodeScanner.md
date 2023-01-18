@@ -1,10 +1,10 @@
 # mikebuss/MTBBarcodeScanner - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 190
 
-★ Stars: 1093
+★ Stars: 1094
 
 [Open repository](https://github.com/mikebuss/MTBBarcodeScanner)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 1094 | 190 | 
 | 2023-01-16 | 1093 | 190 | 
 | 2023-01-15 | 1093 | 190 | 
 | 2023-01-14 | 1093 | 190 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-22 | 1093 | 189 | 
 | 2022-12-21 | 1094 | 189 | 
 | 2022-12-20 | 1094 | 189 | 
-| 2022-12-19 | 1094 | 189 | 
 

@@ -1,10 +1,10 @@
 # KristofferC/OhMyREPL.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 50
+☋ Forks: 51
 
-★ Stars: 639
+★ Stars: 640
 
 [Open repository](https://github.com/KristofferC/OhMyREPL.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 640 | 51 | 
 | 2023-01-16 | 639 | 50 | 
 | 2023-01-15 | 639 | 50 | 
 | 2023-01-14 | 638 | 50 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 632 | 48 | 
 | 2022-12-20 | 632 | 48 | 
 | 2022-12-19 | 632 | 48 | 
-| 2022-12-18 | 632 | 48 | 
 

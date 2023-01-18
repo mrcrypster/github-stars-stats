@@ -1,6 +1,6 @@
 # NotLuksus/nft-art-generator - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 517
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 1539 | 517 | 
 | 2023-01-16 | 1539 | 517 | 
 | 2023-01-15 | 1539 | 517 | 
 | 2023-01-14 | 1539 | 517 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 1530 | 517 | 
 | 2022-12-20 | 1530 | 518 | 
 | 2022-12-19 | 1529 | 518 | 
-| 2022-12-18 | 1529 | 517 | 
 

@@ -1,10 +1,10 @@
 # vector-im/element-web - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 1587
 
-★ Stars: 9258
+★ Stars: 9261
 
 [Open repository](https://github.com/vector-im/element-web)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 9261 | 1587 | 
 | 2023-01-16 | 9258 | 1587 | 
 | 2023-01-15 | 9254 | 1587 | 
 | 2023-01-14 | 9252 | 1588 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 9176 | 1583 | 
 | 2022-12-20 | 9174 | 1581 | 
 | 2022-12-19 | 9173 | 1580 | 
-| 2022-12-18 | 9165 | 1580 | 
 

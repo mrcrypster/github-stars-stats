@@ -1,6 +1,6 @@
 # Kinkkujuustovoileipa/uh-60l - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 163 | 20 | 
 | 2023-01-16 | 163 | 20 | 
 | 2023-01-15 | 163 | 20 | 
 | 2023-01-14 | 163 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 157 | 20 | 
 | 2022-12-20 | 157 | 20 | 
 | 2022-12-19 | 157 | 20 | 
-| 2022-12-18 | 157 | 20 | 
 

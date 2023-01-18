@@ -1,10 +1,10 @@
 # NVIDIA/nvidia-container-runtime - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 161
 
-★ Stars: 939
+★ Stars: 940
 
 [Open repository](https://github.com/NVIDIA/nvidia-container-runtime)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 940 | 161 | 
 | 2023-01-16 | 939 | 161 | 
 | 2023-01-15 | 940 | 161 | 
 | 2023-01-14 | 940 | 161 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 935 | 162 | 
 | 2022-12-20 | 935 | 162 | 
 | 2022-12-19 | 934 | 162 | 
-| 2022-12-18 | 934 | 162 | 
 

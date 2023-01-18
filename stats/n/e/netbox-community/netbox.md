@@ -1,10 +1,10 @@
 # netbox-community/netbox - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 2040
+☋ Forks: 2042
 
-★ Stars: 11826
+★ Stars: 11833
 
 [Open repository](https://github.com/netbox-community/netbox)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 11833 | 2042 | 
 | 2023-01-16 | 11826 | 2040 | 
 | 2023-01-15 | 11820 | 2040 | 
 | 2023-01-14 | 11818 | 2040 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 11709 | 2033 | 
 | 2022-12-20 | 11705 | 2030 | 
 | 2022-12-19 | 11699 | 2029 | 
-| 2022-12-18 | 11694 | 2029 | 
 

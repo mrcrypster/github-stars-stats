@@ -1,10 +1,10 @@
 # MvsCode/frps-onekey - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 668
 
-★ Stars: 2140
+★ Stars: 2141
 
 [Open repository](https://github.com/MvsCode/frps-onekey)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 2141 | 668 | 
 | 2023-01-16 | 2140 | 668 | 
 | 2023-01-15 | 2134 | 669 | 
 | 2023-01-14 | 2132 | 668 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 2108 | 657 | 
 | 2022-12-20 | 2107 | 656 | 
 | 2022-12-19 | 2107 | 655 | 
-| 2022-12-18 | 2108 | 655 | 
 

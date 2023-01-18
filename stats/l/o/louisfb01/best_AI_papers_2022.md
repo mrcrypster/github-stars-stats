@@ -1,10 +1,10 @@
 # louisfb01/best_AI_papers_2022 - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 184
 
-★ Stars: 2853
+★ Stars: 2861
 
 [Open repository](https://github.com/louisfb01/best_AI_papers_2022)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 2861 | 184 | 
 | 2023-01-16 | 2853 | 184 | 
 | 2023-01-15 | 2842 | 184 | 
 | 2023-01-14 | 2840 | 184 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 659 | 76 | 
 | 2022-12-20 | 657 | 76 | 
 | 2022-12-19 | 656 | 76 | 
-| 2022-12-18 | 656 | 75 | 
 

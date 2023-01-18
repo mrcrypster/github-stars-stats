@@ -1,10 +1,10 @@
 # microsoft/reverse-proxy - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 599
+☋ Forks: 600
 
-★ Stars: 6184
+★ Stars: 6187
 
 [Open repository](https://github.com/microsoft/reverse-proxy)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 6187 | 600 | 
 | 2023-01-16 | 6184 | 599 | 
 | 2023-01-15 | 6180 | 599 | 
 | 2023-01-14 | 6180 | 599 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 6117 | 591 | 
 | 2022-12-20 | 6113 | 591 | 
 | 2022-12-19 | 6110 | 588 | 
-| 2022-12-18 | 6104 | 588 | 
 

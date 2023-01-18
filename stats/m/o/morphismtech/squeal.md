@@ -1,6 +1,6 @@
 # morphismtech/squeal - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 331 | 30 | 
 | 2023-01-16 | 331 | 30 | 
 | 2023-01-15 | 331 | 30 | 
 | 2023-01-14 | 331 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 331 | 30 | 
 | 2022-12-20 | 331 | 30 | 
 | 2022-12-19 | 331 | 30 | 
-| 2022-12-18 | 330 | 30 | 
 

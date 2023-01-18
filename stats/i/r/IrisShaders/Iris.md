@@ -1,10 +1,10 @@
 # IrisShaders/Iris - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 511
+☋ Forks: 510
 
-★ Stars: 2556
+★ Stars: 2557
 
 [Open repository](https://github.com/IrisShaders/Iris)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 2557 | 510 | 
 | 2023-01-16 | 2556 | 511 | 
 | 2023-01-15 | 2555 | 512 | 
 | 2023-01-14 | 2551 | 513 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 2508 | 511 | 
 | 2022-12-20 | 2506 | 510 | 
 | 2022-12-19 | 2506 | 511 | 
-| 2022-12-18 | 2505 | 511 | 
 

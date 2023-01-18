@@ -1,10 +1,10 @@
 # trustedsec/CS-Remote-OPs-BOF - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 75
 
-★ Stars: 438
+★ Stars: 439
 
 [Open repository](https://github.com/trustedsec/CS-Remote-OPs-BOF)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 439 | 75 | 
 | 2023-01-16 | 438 | 75 | 
 | 2023-01-15 | 438 | 75 | 
 | 2023-01-14 | 438 | 75 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 432 | 74 | 
 | 2022-12-20 | 432 | 74 | 
 | 2022-12-19 | 432 | 74 | 
-| 2022-12-18 | 432 | 74 | 
 

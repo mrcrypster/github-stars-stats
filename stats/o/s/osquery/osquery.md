@@ -1,10 +1,10 @@
 # osquery/osquery - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 2393
 
-★ Stars: 19895
+★ Stars: 19897
 
 [Open repository](https://github.com/osquery/osquery)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 19897 | 2393 | 
 | 2023-01-16 | 19895 | 2393 | 
 | 2023-01-15 | 19895 | 2393 | 
 | 2023-01-14 | 19892 | 2392 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 19760 | 2382 | 
 | 2022-12-20 | 19751 | 2382 | 
 | 2022-12-19 | 19748 | 2382 | 
-| 2022-12-18 | 19745 | 2382 | 
 

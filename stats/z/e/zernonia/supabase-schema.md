@@ -1,6 +1,6 @@
 # zernonia/supabase-schema - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 438 | 28 | 
 | 2023-01-16 | 438 | 28 | 
 | 2023-01-15 | 437 | 28 | 
 | 2023-01-14 | 437 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 423 | 29 | 
 | 2022-12-20 | 423 | 29 | 
 | 2022-12-19 | 422 | 29 | 
-| 2022-12-18 | 422 | 27 | 
 

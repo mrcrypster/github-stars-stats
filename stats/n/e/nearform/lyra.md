@@ -1,10 +1,10 @@
 # nearform/lyra - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 121
 
-★ Stars: 5185
+★ Stars: 5197
 
 [Open repository](https://github.com/nearform/lyra)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 5197 | 121 | 
 | 2023-01-16 | 5185 | 121 | 
 | 2023-01-15 | 5177 | 121 | 
 | 2023-01-14 | 5153 | 119 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 5002 | 115 | 
 | 2022-12-20 | 4984 | 115 | 
 | 2022-12-19 | 4956 | 114 | 
-| 2022-12-18 | 4932 | 113 | 
 

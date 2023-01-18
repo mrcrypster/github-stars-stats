@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 17
 
 ☋ Forks: 21
 
-★ Stars: 110
+★ Stars: 111
 
 [Open repository](https://github.com/saveweb/review-2022)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-17 | 110 | 21 | 
+| 2023-01-17 | 111 | 21 | 
 | 2023-01-16 | 110 | 21 | 
 | 2023-01-15 | 107 | 21 | 
 | 2023-01-14 | 105 | 21 | 

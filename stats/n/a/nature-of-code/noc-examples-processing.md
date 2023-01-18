@@ -1,10 +1,10 @@
 # nature-of-code/noc-examples-processing - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 934
 
-★ Stars: 2415
+★ Stars: 2416
 
 [Open repository](https://github.com/nature-of-code/noc-examples-processing)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 2416 | 934 | 
 | 2023-01-16 | 2415 | 934 | 
 | 2023-01-15 | 2417 | 934 | 
 | 2023-01-14 | 2417 | 934 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 2405 | 930 | 
 | 2022-12-20 | 2403 | 930 | 
 | 2022-12-19 | 2403 | 930 | 
-| 2022-12-18 | 2403 | 929 | 
 

@@ -1,10 +1,10 @@
 # devicekit/DeviceKit - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 407
 
-★ Stars: 3922
+★ Stars: 3925
 
 [Open repository](https://github.com/devicekit/DeviceKit)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 3925 | 407 | 
 | 2023-01-16 | 3922 | 407 | 
 | 2023-01-15 | 3921 | 407 | 
 | 2023-01-14 | 3920 | 406 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 3894 | 406 | 
 | 2022-12-20 | 3892 | 406 | 
 | 2022-12-19 | 3892 | 406 | 
-| 2022-12-18 | 3891 | 406 | 
 

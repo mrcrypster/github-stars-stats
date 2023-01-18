@@ -1,10 +1,10 @@
 # quickwit-oss/tantivy - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 447
 
-★ Stars: 7488
+★ Stars: 7493
 
 [Open repository](https://github.com/quickwit-oss/tantivy)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 7493 | 447 | 
 | 2023-01-16 | 7488 | 447 | 
 | 2023-01-15 | 7487 | 447 | 
 | 2023-01-14 | 7485 | 447 | 

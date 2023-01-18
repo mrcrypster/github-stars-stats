@@ -1,10 +1,10 @@
 # PintaProject/Pinta - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 237
 
-★ Stars: 1383
+★ Stars: 1385
 
 [Open repository](https://github.com/PintaProject/Pinta)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 1385 | 237 | 
 | 2023-01-16 | 1383 | 237 | 
 | 2023-01-15 | 1381 | 237 | 
 | 2023-01-14 | 1381 | 237 | 

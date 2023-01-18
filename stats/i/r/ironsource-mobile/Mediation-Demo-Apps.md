@@ -1,10 +1,10 @@
 # ironsource-mobile/Mediation-Demo-Apps - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 21
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/ironsource-mobile/Mediation-Demo-Apps)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 25 | 21 | 
 | 2023-01-16 | 24 | 21 | 
 | 2023-01-15 | 24 | 21 | 
 | 2023-01-14 | 24 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 24 | 19 | 
 | 2022-12-20 | 23 | 19 | 
 | 2022-12-19 | 23 | 19 | 
-| 2022-12-18 | 23 | 19 | 
 

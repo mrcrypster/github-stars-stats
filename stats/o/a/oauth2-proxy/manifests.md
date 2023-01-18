@@ -1,6 +1,6 @@
 # oauth2-proxy/manifests - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 106
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 102 | 106 | 
 | 2023-01-16 | 102 | 106 | 
 | 2023-01-15 | 101 | 106 | 
 | 2023-01-14 | 101 | 106 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 96 | 106 | 
 | 2022-12-20 | 96 | 106 | 
 | 2022-12-19 | 96 | 106 | 
-| 2022-12-18 | 96 | 106 | 
 

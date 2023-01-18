@@ -1,8 +1,8 @@
 # JuliaDataScience/JuliaDataScience - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 75
+☋ Forks: 76
 
 ★ Stars: 360
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 360 | 76 | 
 | 2023-01-16 | 360 | 75 | 
 | 2023-01-15 | 360 | 75 | 
 | 2023-01-14 | 359 | 75 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 347 | 74 | 
 | 2022-12-20 | 346 | 74 | 
 | 2022-12-19 | 345 | 74 | 
-| 2022-12-18 | 345 | 74 | 
 

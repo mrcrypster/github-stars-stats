@@ -1,8 +1,8 @@
 # kraj/meta-clang - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 146
+☋ Forks: 147
 
 ★ Stars: 113
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 113 | 147 | 
 | 2023-01-16 | 113 | 146 | 
 | 2023-01-15 | 113 | 146 | 
 | 2023-01-14 | 113 | 146 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 112 | 144 | 
 | 2022-12-20 | 112 | 144 | 
 | 2022-12-19 | 112 | 144 | 
-| 2022-12-18 | 112 | 143 | 
 

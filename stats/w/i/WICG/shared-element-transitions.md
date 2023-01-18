@@ -1,6 +1,6 @@
 # WICG/shared-element-transitions - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 691 | 32 | 
 | 2023-01-16 | 691 | 32 | 
 | 2023-01-15 | 690 | 32 | 
 | 2023-01-14 | 690 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-22 | 682 | 32 | 
 | 2022-12-21 | 681 | 32 | 
 | 2022-12-20 | 681 | 32 | 
-| 2022-12-19 | 681 | 32 | 
 

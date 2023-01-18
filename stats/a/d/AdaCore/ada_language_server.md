@@ -1,6 +1,6 @@
 # AdaCore/ada_language_server - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 179 | 52 | 
 | 2023-01-16 | 179 | 52 | 
 | 2023-01-15 | 179 | 52 | 
 | 2023-01-14 | 179 | 52 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 177 | 51 | 
 | 2022-12-20 | 177 | 51 | 
 | 2022-12-19 | 176 | 51 | 
-| 2022-12-18 | 176 | 51 | 
 

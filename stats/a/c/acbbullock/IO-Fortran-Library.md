@@ -1,6 +1,6 @@
 # acbbullock/IO-Fortran-Library - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 10 | - | 
 | 2023-01-16 | 10 | - | 
 | 2023-01-15 | 10 | - | 
 | 2023-01-14 | 10 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 9 | - | 
 | 2022-12-20 | 9 | - | 
 | 2022-12-19 | 9 | - | 
-| 2022-12-18 | 9 | - | 
 

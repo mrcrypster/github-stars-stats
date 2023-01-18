@@ -1,10 +1,10 @@
 # nicehorse06/se-job - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 41
 
-★ Stars: 420
+★ Stars: 421
 
 [Open repository](https://github.com/nicehorse06/se-job)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 421 | 41 | 
 | 2023-01-16 | 420 | 41 | 
 | 2023-01-15 | 420 | 41 | 
 | 2023-01-14 | 419 | 41 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 415 | 41 | 
 | 2022-12-20 | 414 | 41 | 
 | 2022-12-19 | 414 | 41 | 
-| 2022-12-18 | 414 | 41 | 
 

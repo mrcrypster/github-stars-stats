@@ -1,10 +1,10 @@
 # oshi/oshi - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 778
 
-★ Stars: 3534
+★ Stars: 3537
 
 [Open repository](https://github.com/oshi/oshi)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 3537 | 778 | 
 | 2023-01-16 | 3534 | 778 | 
 | 2023-01-15 | 3532 | 778 | 
 | 2023-01-14 | 3532 | 778 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 3500 | 775 | 
 | 2022-12-20 | 3496 | 772 | 
 | 2022-12-19 | 3496 | 772 | 
-| 2022-12-18 | 3494 | 771 | 
 

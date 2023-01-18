@@ -1,6 +1,6 @@
 # Unity-Technologies/uaal-example - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 187
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 549 | 187 | 
 | 2023-01-16 | 549 | 187 | 
 | 2023-01-15 | 549 | 187 | 
 | 2023-01-14 | 548 | 187 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-22 | 542 | 184 | 
 | 2022-12-21 | 542 | 184 | 
 | 2022-12-19 | 542 | 184 | 
-| 2022-12-18 | 542 | 184 | 
 

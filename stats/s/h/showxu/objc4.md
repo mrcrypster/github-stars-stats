@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 17
 
 ☋ Forks: 86
 
-★ Stars: 506
+★ Stars: 507
 
 [Open repository](https://github.com/showxu/objc4)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-17 | 506 | 86 | 
+| 2023-01-17 | 507 | 86 | 
 | 2023-01-16 | 506 | 86 | 
 | 2023-01-15 | 506 | 86 | 
 

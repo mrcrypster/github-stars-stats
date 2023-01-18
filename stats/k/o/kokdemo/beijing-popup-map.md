@@ -1,6 +1,6 @@
 # kokdemo/beijing-popup-map - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 62 | 8 | 
 | 2023-01-16 | 62 | 8 | 
 | 2023-01-15 | 62 | 8 | 
 | 2023-01-14 | 62 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-22 | 63 | 8 | 
 | 2022-12-21 | 63 | 8 | 
 | 2022-12-20 | 63 | 8 | 
-| 2022-12-18 | 63 | 8 | 
 

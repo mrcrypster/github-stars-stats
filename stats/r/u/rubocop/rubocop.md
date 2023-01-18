@@ -1,10 +1,10 @@
 # rubocop/rubocop - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 2978
+☋ Forks: 2979
 
-★ Stars: 12116
+★ Stars: 12112
 
 [Open repository](https://github.com/rubocop/rubocop)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 12112 | 2979 | 
 | 2023-01-16 | 12116 | 2978 | 
 | 2023-01-15 | 12116 | 2978 | 
 | 2023-01-14 | 12117 | 2977 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 12085 | 2964 | 
 | 2022-12-20 | 12085 | 2962 | 
 | 2022-12-19 | 12081 | 2960 | 
-| 2022-12-18 | 12080 | 2960 | 
 

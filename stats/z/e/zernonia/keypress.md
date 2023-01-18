@@ -1,6 +1,6 @@
 # zernonia/keypress - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 134 | 4 | 
 | 2023-01-16 | 134 | 4 | 
 | 2023-01-15 | 134 | 4 | 
 | 2023-01-14 | 134 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 130 | 4 | 
 | 2022-12-20 | 129 | 4 | 
 | 2022-12-19 | 129 | 4 | 
-| 2022-12-18 | 129 | 4 | 
 

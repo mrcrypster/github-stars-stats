@@ -1,10 +1,10 @@
 # wingo/fibers - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 28
 
-★ Stars: 254
+★ Stars: 253
 
 [Open repository](https://github.com/wingo/fibers)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 253 | 28 | 
 | 2023-01-16 | 254 | 28 | 
 | 2023-01-15 | 254 | 28 | 
 | 2023-01-14 | 254 | 28 | 

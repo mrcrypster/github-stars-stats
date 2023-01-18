@@ -1,10 +1,10 @@
 # SkriptLang/Skript - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 306
 
-★ Stars: 765
+★ Stars: 766
 
 [Open repository](https://github.com/SkriptLang/Skript)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 766 | 306 | 
 | 2023-01-17 | 765 | 306 | 
 | 2023-01-15 | 765 | 307 | 
 | 2023-01-14 | 765 | 307 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-21 | 744 | 300 | 
 | 2022-12-20 | 744 | 301 | 
 | 2022-12-19 | 744 | 300 | 
-| 2022-12-18 | 744 | 301 | 
 

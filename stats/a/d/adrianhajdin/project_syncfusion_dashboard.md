@@ -1,10 +1,10 @@
 # adrianhajdin/project_syncfusion_dashboard - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 786
+☋ Forks: 787
 
-★ Stars: 2088
+★ Stars: 2093
 
 [Open repository](https://github.com/adrianhajdin/project_syncfusion_dashboard)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 2093 | 787 | 
 | 2023-01-16 | 2088 | 786 | 
 | 2023-01-15 | 2087 | 786 | 
 | 2023-01-14 | 2084 | 786 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 2016 | 749 | 
 | 2022-12-20 | 2009 | 749 | 
 | 2022-12-19 | 2009 | 749 | 
-| 2022-12-18 | 2007 | 751 | 
 

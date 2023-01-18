@@ -1,8 +1,8 @@
 # sobinge/shadow2 - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 142
+☋ Forks: 143
 
 ★ Stars: 341
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 341 | 143 | 
 | 2023-01-16 | 341 | 142 | 
 | 2023-01-15 | 341 | 142 | 
 | 2023-01-14 | 341 | 142 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-22 | 343 | 142 | 
 | 2022-12-20 | 343 | 142 | 
 | 2022-12-19 | 343 | 142 | 
-| 2022-12-18 | 343 | 142 | 
 

@@ -1,6 +1,6 @@
 # AppGyver/steroids-js - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 92 | 19 | 
 | 2023-01-16 | 92 | 19 | 
 | 2023-01-15 | 92 | 19 | 
 | 2023-01-14 | 92 | 19 | 

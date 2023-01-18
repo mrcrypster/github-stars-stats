@@ -1,10 +1,10 @@
 # agda/agda-stdlib - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 214
 
-★ Stars: 486
+★ Stars: 487
 
 [Open repository](https://github.com/agda/agda-stdlib)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 487 | 214 | 
 | 2023-01-16 | 486 | 214 | 
 | 2023-01-15 | 486 | 214 | 
 | 2023-01-14 | 486 | 214 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 482 | 214 | 
 | 2022-12-20 | 481 | 214 | 
 | 2022-12-19 | 481 | 214 | 
-| 2022-12-18 | 481 | 214 | 
 

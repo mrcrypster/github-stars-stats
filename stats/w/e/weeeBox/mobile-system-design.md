@@ -1,10 +1,10 @@
 # weeeBox/mobile-system-design - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 256
 
-★ Stars: 2490
+★ Stars: 2492
 
 [Open repository](https://github.com/weeeBox/mobile-system-design)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 2492 | 256 | 
 | 2023-01-16 | 2490 | 256 | 
 | 2023-01-15 | 2487 | 257 | 
 | 2023-01-14 | 2485 | 257 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 2399 | 250 | 
 | 2022-12-20 | 2397 | 250 | 
 | 2022-12-19 | 2395 | 250 | 
-| 2022-12-18 | 2390 | 250 | 
 

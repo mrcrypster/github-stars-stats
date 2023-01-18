@@ -1,6 +1,6 @@
 # facebookresearch/multiface - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 531 | 37 | 
 | 2023-01-16 | 531 | 37 | 
 | 2023-01-15 | 531 | 37 | 
 | 2023-01-14 | 530 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-22 | 517 | 35 | 
 | 2022-12-20 | 516 | 34 | 
 | 2022-12-19 | 516 | 34 | 
-| 2022-12-18 | 512 | 34 | 
 

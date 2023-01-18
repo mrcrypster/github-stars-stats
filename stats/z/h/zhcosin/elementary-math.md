@@ -1,6 +1,6 @@
 # zhcosin/elementary-math - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 105 | 23 | 
 | 2023-01-16 | 105 | 23 | 
 | 2023-01-15 | 105 | 23 | 
 | 2023-01-14 | 105 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 104 | 23 | 
 | 2022-12-20 | 104 | 23 | 
 | 2022-12-19 | 104 | 23 | 
-| 2022-12-18 | 104 | 23 | 
 

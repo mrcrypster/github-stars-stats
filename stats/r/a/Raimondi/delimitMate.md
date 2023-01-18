@@ -1,6 +1,6 @@
 # Raimondi/delimitMate - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 120
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 1942 | 120 | 
 | 2023-01-16 | 1942 | 120 | 
 | 2023-01-15 | 1941 | 120 | 
 | 2023-01-14 | 1940 | 120 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 1942 | 120 | 
 | 2022-12-20 | 1942 | 120 | 
 | 2022-12-19 | 1940 | 120 | 
-| 2022-12-18 | 1938 | 120 | 
 

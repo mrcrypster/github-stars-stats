@@ -1,6 +1,6 @@
 # DrFlower/TowerDefense-GameFramework-Demo - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 162
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 627 | 162 | 
 | 2023-01-16 | 627 | 162 | 
 | 2023-01-15 | 626 | 161 | 
 | 2023-01-14 | 625 | 161 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 583 | 155 | 
 | 2022-12-20 | 570 | 153 | 
 | 2022-12-19 | 567 | 152 | 
-| 2022-12-18 | 566 | 152 | 
 

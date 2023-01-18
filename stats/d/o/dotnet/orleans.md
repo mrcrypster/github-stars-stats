@@ -1,10 +1,10 @@
 # dotnet/orleans - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 1956
+☋ Forks: 1955
 
-★ Stars: 9067
+★ Stars: 9068
 
 [Open repository](https://github.com/dotnet/orleans)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 9068 | 1955 | 
 | 2023-01-16 | 9067 | 1956 | 
 | 2023-01-15 | 9067 | 1956 | 
 | 2023-01-14 | 9068 | 1956 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-22 | 9037 | 1952 | 
 | 2022-12-21 | 9036 | 1950 | 
 | 2022-12-20 | 9034 | 1951 | 
-| 2022-12-19 | 9032 | 1951 | 
 

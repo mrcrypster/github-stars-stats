@@ -1,10 +1,10 @@
 # witchcrafters/witchcraft - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 55
 
-★ Stars: 1133
+★ Stars: 1134
 
 [Open repository](https://github.com/witchcrafters/witchcraft)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 1134 | 55 | 
 | 2023-01-16 | 1133 | 55 | 
 | 2023-01-15 | 1133 | 55 | 
 | 2023-01-14 | 1133 | 55 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 1124 | 55 | 
 | 2022-12-20 | 1123 | 55 | 
 | 2022-12-19 | 1123 | 55 | 
-| 2022-12-18 | 1123 | 55 | 
 

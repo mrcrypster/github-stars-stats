@@ -1,6 +1,6 @@
 # Eventual-Inc/Daft - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 456 | 13 | 
 | 2023-01-16 | 456 | 13 | 
 | 2023-01-15 | 456 | 13 | 
 | 2023-01-14 | 456 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 437 | 12 | 
 | 2022-12-20 | 437 | 12 | 
 | 2022-12-19 | 437 | 12 | 
-| 2022-12-18 | 437 | 12 | 
 

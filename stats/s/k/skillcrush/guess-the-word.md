@@ -1,8 +1,8 @@
 # skillcrush/guess-the-word - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 476
+☋ Forks: 477
 
 ★ Stars: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 9 | 477 | 
 | 2023-01-16 | 9 | 476 | 
 | 2023-01-15 | 9 | 476 | 
 | 2023-01-14 | 9 | 476 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 8 | 462 | 
 | 2022-12-20 | 8 | 462 | 
 | 2022-12-19 | 8 | 462 | 
-| 2022-12-18 | 8 | 461 | 
 

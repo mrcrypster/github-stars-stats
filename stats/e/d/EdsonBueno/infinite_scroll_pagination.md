@@ -1,6 +1,6 @@
 # EdsonBueno/infinite_scroll_pagination - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 134
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 435 | 134 | 
 | 2023-01-16 | 435 | 134 | 
 | 2023-01-15 | 436 | 134 | 
 | 2023-01-14 | 436 | 134 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 425 | 133 | 
 | 2022-12-20 | 425 | 132 | 
 | 2022-12-19 | 425 | 132 | 
-| 2022-12-18 | 425 | 132 | 
 

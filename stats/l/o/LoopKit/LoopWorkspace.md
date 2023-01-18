@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 17
 
-☋ Forks: 441
+☋ Forks: 447
 
-★ Stars: 73
+★ Stars: 74
 
 [Open repository](https://github.com/LoopKit/LoopWorkspace)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-17 | 73 | 441 | 
+| 2023-01-17 | 74 | 447 | 
 | 2023-01-16 | 73 | 435 | 
 

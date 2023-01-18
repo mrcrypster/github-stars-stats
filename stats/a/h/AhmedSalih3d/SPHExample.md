@@ -1,10 +1,10 @@
 # AhmedSalih3d/SPHExample - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 1
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/AhmedSalih3d/SPHExample)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 17 | 1 | 
 | 2023-01-16 | 16 | 1 | 
 | 2023-01-15 | 15 | 1 | 
 | 2023-01-14 | 15 | 1 | 

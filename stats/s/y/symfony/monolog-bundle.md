@@ -1,10 +1,10 @@
 # symfony/monolog-bundle - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 220
 
-★ Stars: 2710
+★ Stars: 2712
 
 [Open repository](https://github.com/symfony/monolog-bundle)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 2712 | 220 | 
 | 2023-01-16 | 2710 | 220 | 
 | 2023-01-15 | 2709 | 220 | 
 | 2023-01-14 | 2709 | 220 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 2695 | 220 | 
 | 2022-12-20 | 2693 | 220 | 
 | 2022-12-19 | 2693 | 220 | 
-| 2022-12-18 | 2693 | 220 | 
 

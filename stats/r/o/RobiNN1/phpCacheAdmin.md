@@ -1,6 +1,6 @@
 # RobiNN1/phpCacheAdmin - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 249 | 3 | 
 | 2023-01-17 | 249 | 3 | 
 | 2023-01-15 | 249 | 3 | 
 | 2023-01-14 | 249 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 248 | 3 | 
 | 2022-12-20 | 248 | 3 | 
 | 2022-12-19 | 248 | 3 | 
-| 2022-12-18 | 248 | 3 | 
 

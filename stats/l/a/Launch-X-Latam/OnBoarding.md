@@ -1,6 +1,6 @@
 # Launch-X-Latam/OnBoarding - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 119
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 436 | 119 | 
 | 2023-01-16 | 436 | 119 | 
 | 2023-01-15 | 436 | 119 | 
 | 2023-01-14 | 436 | 120 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 437 | 121 | 
 | 2022-12-20 | 437 | 121 | 
 | 2022-12-19 | 437 | 121 | 
-| 2022-12-18 | 437 | 121 | 
 

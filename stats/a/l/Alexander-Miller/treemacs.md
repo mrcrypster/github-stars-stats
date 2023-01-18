@@ -1,6 +1,6 @@
 # Alexander-Miller/treemacs - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 144
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 1754 | 144 | 
 | 2023-01-16 | 1754 | 144 | 
 | 2023-01-15 | 1754 | 144 | 
 | 2023-01-14 | 1754 | 143 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 1739 | 145 | 
 | 2022-12-20 | 1738 | 145 | 
 | 2022-12-19 | 1737 | 145 | 
-| 2022-12-18 | 1736 | 145 | 
 

@@ -1,6 +1,6 @@
 # sgillespie/lambda-calculus - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 67 | 15 | 
 | 2023-01-16 | 67 | 15 | 
 | 2023-01-15 | 63 | 15 | 
 | 2023-01-14 | 63 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-22 | 63 | 15 | 
 | 2022-12-21 | 63 | 15 | 
 | 2022-12-20 | 63 | 15 | 
-| 2022-12-18 | 63 | 15 | 
 

@@ -1,6 +1,6 @@
 # RalfJung/minirust - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 633 | 18 | 
 | 2023-01-16 | 633 | 18 | 
 | 2023-01-15 | 632 | 18 | 
 | 2023-01-14 | 632 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 629 | 20 | 
 | 2022-12-20 | 629 | 20 | 
 | 2022-12-19 | 629 | 20 | 
-| 2022-12-18 | 629 | 20 | 
 

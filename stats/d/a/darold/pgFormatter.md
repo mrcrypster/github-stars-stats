@@ -1,10 +1,10 @@
 # darold/pgFormatter - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 94
 
-★ Stars: 1392
+★ Stars: 1393
 
 [Open repository](https://github.com/darold/pgFormatter)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 1393 | 94 | 
 | 2023-01-16 | 1392 | 94 | 
 | 2023-01-15 | 1392 | 94 | 
 | 2023-01-14 | 1392 | 94 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 1388 | 93 | 
 | 2022-12-20 | 1387 | 93 | 
 | 2022-12-19 | 1387 | 93 | 
-| 2022-12-18 | 1387 | 93 | 
 

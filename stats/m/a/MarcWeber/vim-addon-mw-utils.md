@@ -1,6 +1,6 @@
 # MarcWeber/vim-addon-mw-utils - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 103 | 23 | 
 | 2023-01-16 | 103 | 23 | 
 | 2023-01-15 | 103 | 23 | 
 | 2023-01-14 | 103 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 103 | 23 | 
 | 2022-12-20 | 102 | 23 | 
 | 2022-12-19 | 102 | 23 | 
-| 2022-12-18 | 102 | 23 | 
 

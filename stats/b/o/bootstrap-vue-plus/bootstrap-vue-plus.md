@@ -1,6 +1,6 @@
 # bootstrap-vue-plus/bootstrap-vue-plus - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 219 | 1 | 
 | 2023-01-16 | 219 | 1 | 
 | 2023-01-15 | 219 | 1 | 
 | 2023-01-14 | 219 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 219 | 1 | 
 | 2022-12-20 | 219 | 1 | 
 | 2022-12-19 | 219 | 1 | 
-| 2022-12-18 | 219 | 1 | 
 

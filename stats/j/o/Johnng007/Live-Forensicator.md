@@ -1,10 +1,10 @@
 # Johnng007/Live-Forensicator - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 56
 
-★ Stars: 328
+★ Stars: 329
 
 [Open repository](https://github.com/Johnng007/Live-Forensicator)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 329 | 56 | 
 | 2023-01-16 | 328 | 56 | 
 | 2023-01-15 | 327 | 56 | 
 | 2023-01-14 | 327 | 56 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 323 | 56 | 
 | 2022-12-20 | 323 | 56 | 
 | 2022-12-19 | 323 | 56 | 
-| 2022-12-18 | 322 | 56 | 
 

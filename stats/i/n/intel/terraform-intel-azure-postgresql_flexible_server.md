@@ -1,6 +1,6 @@
 # intel/terraform-intel-azure-postgresql_flexible_server - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 7 | 1 | 
 | 2023-01-16 | 7 | 1 | 
 | 2023-01-15 | 7 | 1 | 
 | 2023-01-13 | 7 | 1 | 

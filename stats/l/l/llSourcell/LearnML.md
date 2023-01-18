@@ -1,10 +1,10 @@
 # llSourcell/LearnML - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 53
 
-★ Stars: 287
+★ Stars: 293
 
 [Open repository](https://github.com/llSourcell/LearnML)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 293 | 53 | 
 | 2023-01-16 | 287 | 53 | 
 | 2023-01-15 | 287 | 53 | 
 | 2023-01-14 | 285 | 53 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 182 | 30 | 
 | 2022-12-20 | 175 | 30 | 
 | 2022-12-19 | 170 | 28 | 
-| 2022-12-18 | 161 | 25 | 
 

@@ -1,10 +1,10 @@
 # minimaxir/big-list-of-naughty-strings - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 2107
+☋ Forks: 2106
 
-★ Stars: 44350
+★ Stars: 44354
 
 [Open repository](https://github.com/minimaxir/big-list-of-naughty-strings)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 44354 | 2106 | 
 | 2023-01-16 | 44350 | 2107 | 
 | 2023-01-15 | 44350 | 2108 | 
 | 2023-01-14 | 44348 | 2108 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 44268 | 2107 | 
 | 2022-12-20 | 44265 | 2107 | 
 | 2022-12-19 | 44260 | 2106 | 
-| 2022-12-18 | 44259 | 2106 | 
 

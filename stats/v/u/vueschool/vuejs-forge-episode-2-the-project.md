@@ -1,6 +1,6 @@
 # vueschool/vuejs-forge-episode-2-the-project - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 87
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 73 | 87 | 
 | 2023-01-17 | 73 | 87 | 
 | 2023-01-15 | 73 | 87 | 
 | 2023-01-14 | 73 | 87 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 72 | 87 | 
 | 2022-12-21 | 72 | 87 | 
 | 2022-12-20 | 72 | 87 | 
-| 2022-12-19 | 72 | 87 | 
 

@@ -1,10 +1,10 @@
 # bashbunni/dotfiles - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 19
+☋ Forks: 20
 
-★ Stars: 225
+★ Stars: 228
 
 [Open repository](https://github.com/bashbunni/dotfiles)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 228 | 20 | 
 | 2023-01-16 | 225 | 19 | 
 | 2023-01-15 | 224 | 19 | 
 | 2023-01-14 | 223 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 213 | 20 | 
 | 2022-12-20 | 212 | 20 | 
 | 2022-12-19 | 212 | 20 | 
-| 2022-12-18 | 211 | 20 | 
 

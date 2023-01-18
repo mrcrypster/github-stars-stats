@@ -1,10 +1,10 @@
 # AammarTufail/pythonkachilla_version2 - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 242
 
-★ Stars: 441
+★ Stars: 439
 
 [Open repository](https://github.com/AammarTufail/pythonkachilla_version2)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 439 | 242 | 
 | 2023-01-16 | 441 | 242 | 
 | 2023-01-15 | 441 | 242 | 
 | 2023-01-14 | 442 | 243 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 437 | 245 | 
 | 2022-12-20 | 442 | 245 | 
 | 2022-12-19 | 442 | 245 | 
-| 2022-12-18 | 442 | 245 | 
 

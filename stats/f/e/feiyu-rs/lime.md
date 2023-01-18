@@ -1,10 +1,10 @@
 # feiyu-rs/lime - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 25
 
-★ Stars: 166
+★ Stars: 167
 
 [Open repository](https://github.com/feiyu-rs/lime)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 167 | 25 | 
 | 2023-01-16 | 166 | 25 | 
 | 2023-01-15 | 166 | 25 | 
 | 2023-01-14 | 166 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-22 | 163 | 25 | 
 | 2022-12-21 | 163 | 25 | 
 | 2022-12-19 | 163 | 25 | 
-| 2022-12-18 | 163 | 25 | 
 

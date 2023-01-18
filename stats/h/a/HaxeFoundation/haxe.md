@@ -1,6 +1,6 @@
 # HaxeFoundation/haxe - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 635
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 5297 | 635 | 
 | 2023-01-16 | 5297 | 635 | 
 | 2023-01-15 | 5295 | 635 | 
 | 2023-01-14 | 5296 | 635 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 5258 | 634 | 
 | 2022-12-20 | 5258 | 633 | 
 | 2022-12-19 | 5258 | 632 | 
-| 2022-12-18 | 5255 | 632 | 
 

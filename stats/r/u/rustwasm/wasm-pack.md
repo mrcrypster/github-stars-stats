@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 17
 
 ☋ Forks: 333
 
-★ Stars: 4834
+★ Stars: 4838
 
 [Open repository](https://github.com/rustwasm/wasm-pack)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-17 | 4834 | 333 | 
+| 2023-01-17 | 4838 | 333 | 
 | 2023-01-16 | 4834 | 333 | 
 | 2023-01-15 | 4822 | 333 | 
 

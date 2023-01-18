@@ -1,10 +1,10 @@
 # gurucomputing/headscale-ui - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 42
 
-★ Stars: 594
+★ Stars: 595
 
 [Open repository](https://github.com/gurucomputing/headscale-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 595 | 42 | 
 | 2023-01-16 | 594 | 42 | 
 | 2023-01-15 | 594 | 42 | 
 | 2023-01-14 | 594 | 42 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 537 | 38 | 
 | 2022-12-20 | 538 | 38 | 
 | 2022-12-19 | 535 | 38 | 
-| 2022-12-18 | 530 | 38 | 
 

@@ -1,10 +1,10 @@
 # nschurmann/configs - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 129
 
-★ Stars: 393
+★ Stars: 392
 
 [Open repository](https://github.com/nschurmann/configs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 392 | 129 | 
 | 2023-01-16 | 393 | 129 | 
 | 2023-01-15 | 393 | 128 | 
 | 2023-01-14 | 394 | 128 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 393 | 127 | 
 | 2022-12-20 | 393 | 127 | 
 | 2022-12-19 | 393 | 127 | 
-| 2022-12-18 | 393 | 127 | 
 

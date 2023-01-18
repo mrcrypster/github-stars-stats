@@ -1,6 +1,6 @@
 # susam/mathb - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 249 | 20 | 
 | 2023-01-16 | 249 | 20 | 
 | 2023-01-15 | 249 | 20 | 
 | 2023-01-14 | 249 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 248 | 20 | 
 | 2022-12-20 | 248 | 20 | 
 | 2022-12-19 | 244 | 20 | 
-| 2022-12-18 | 244 | 20 | 
 

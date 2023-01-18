@@ -1,10 +1,10 @@
 # eradman/entr - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 78
 
-★ Stars: 2747
+★ Stars: 2749
 
 [Open repository](https://github.com/eradman/entr)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 2749 | 78 | 
 | 2023-01-16 | 2747 | 78 | 
 | 2023-01-15 | 2747 | 78 | 
 | 2023-01-14 | 2746 | 78 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-22 | 2698 | 77 | 
 | 2022-12-21 | 2697 | 77 | 
 | 2022-12-20 | 2698 | 77 | 
-| 2022-12-19 | 2696 | 77 | 
 

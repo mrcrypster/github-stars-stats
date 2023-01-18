@@ -1,10 +1,10 @@
 # mautic/mautic - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 2066
 
-★ Stars: 5591
+★ Stars: 5594
 
 [Open repository](https://github.com/mautic/mautic)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 5594 | 2066 | 
 | 2023-01-16 | 5591 | 2066 | 
 | 2023-01-15 | 5591 | 2066 | 
 | 2023-01-14 | 5590 | 2066 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 5556 | 2060 | 
 | 2022-12-20 | 5555 | 2059 | 
 | 2022-12-19 | 5554 | 2057 | 
-| 2022-12-18 | 5551 | 2057 | 
 

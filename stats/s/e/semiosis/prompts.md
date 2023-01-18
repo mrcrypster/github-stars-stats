@@ -1,8 +1,8 @@
 # semiosis/prompts - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 35
+☋ Forks: 36
 
 ★ Stars: 313
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 313 | 36 | 
 | 2023-01-16 | 313 | 35 | 
 | 2023-01-15 | 312 | 35 | 
 | 2023-01-14 | 312 | 35 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 295 | 32 | 
 | 2022-12-20 | 294 | 32 | 
 | 2022-12-19 | 289 | 32 | 
-| 2022-12-18 | 288 | 32 | 
 

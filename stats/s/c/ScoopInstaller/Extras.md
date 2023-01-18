@@ -1,10 +1,10 @@
 # ScoopInstaller/Extras - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 1051
+☋ Forks: 1050
 
-★ Stars: 1456
+★ Stars: 1457
 
 [Open repository](https://github.com/ScoopInstaller/Extras)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 1457 | 1050 | 
 | 2023-01-16 | 1456 | 1051 | 
 | 2023-01-15 | 1454 | 1051 | 
 | 2023-01-14 | 1453 | 1049 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 1444 | 1033 | 
 | 2022-12-20 | 1443 | 1027 | 
 | 2022-12-19 | 1441 | 1026 | 
-| 2022-12-18 | 1440 | 1026 | 
 

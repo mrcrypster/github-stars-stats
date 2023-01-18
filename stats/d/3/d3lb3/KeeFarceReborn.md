@@ -1,10 +1,10 @@
 # d3lb3/KeeFarceReborn - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 20
+☋ Forks: 21
 
-★ Stars: 230
+★ Stars: 231
 
 [Open repository](https://github.com/d3lb3/KeeFarceReborn)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 231 | 21 | 
 | 2023-01-16 | 230 | 20 | 
 | 2023-01-15 | 230 | 20 | 
 | 2023-01-14 | 230 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 217 | 19 | 
 | 2022-12-20 | 217 | 19 | 
 | 2022-12-19 | 217 | 19 | 
-| 2022-12-18 | 217 | 19 | 
 

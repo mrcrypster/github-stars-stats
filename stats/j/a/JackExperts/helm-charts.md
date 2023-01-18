@@ -1,10 +1,10 @@
 # JackExperts/helm-charts - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 7
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/JackExperts/helm-charts)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 4 | 7 | 
 | 2023-01-16 | 3 | 7 | 
 | 2023-01-15 | 3 | 7 | 
 | 2023-01-14 | 3 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-22 | 3 | 7 | 
 | 2022-12-21 | 3 | 7 | 
 | 2022-12-19 | 3 | 7 | 
-| 2022-12-18 | 3 | 7 | 
 

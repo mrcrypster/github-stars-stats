@@ -1,6 +1,6 @@
 # PetoiCamp/OpenCat - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 199
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 933 | 199 | 
 | 2023-01-16 | 933 | 199 | 
 | 2023-01-15 | 933 | 198 | 
 | 2023-01-14 | 933 | 197 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-22 | 909 | 190 | 
 | 2022-12-21 | 906 | 190 | 
 | 2022-12-20 | 906 | 190 | 
-| 2022-12-18 | 905 | 190 | 
 

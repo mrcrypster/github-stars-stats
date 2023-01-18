@@ -1,6 +1,6 @@
 # haesbaert/ocaml-processor - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 34 | - | 
 | 2023-01-17 | 34 | - | 
 | 2023-01-15 | 34 | - | 
 | 2023-01-14 | 34 | - | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-21 | 34 | - | 
 | 2022-12-20 | 34 | - | 
 | 2022-12-19 | 34 | - | 
-| 2022-12-18 | 34 | - | 
 

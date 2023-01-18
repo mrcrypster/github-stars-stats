@@ -1,10 +1,10 @@
 # colinhacks/zod - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 586
+☋ Forks: 589
 
-★ Stars: 17109
+★ Stars: 17216
 
 [Open repository](https://github.com/colinhacks/zod)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 17216 | 589 | 
 | 2023-01-16 | 17109 | 586 | 
 | 2023-01-15 | 17007 | 583 | 
 | 2023-01-14 | 16970 | 581 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 15843 | 555 | 
 | 2022-12-20 | 15781 | 552 | 
 | 2022-12-19 | 15714 | 550 | 
-| 2022-12-18 | 15644 | 549 | 
 

@@ -1,10 +1,10 @@
 # JuliaDiff/TaylorDiff.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 0
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/JuliaDiff/TaylorDiff.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 27 | - | 
 | 2023-01-16 | 26 | - | 
 | 2023-01-15 | 26 | - | 
 | 2023-01-14 | 26 | - | 

@@ -1,6 +1,6 @@
 # Azure-Samples/todo-python-mongo-aca - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 24 | 8 | 
 | 2023-01-16 | 24 | 8 | 
 | 2023-01-15 | 24 | 8 | 
 | 2023-01-14 | 24 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-22 | 24 | 8 | 
 | 2022-12-21 | 24 | 8 | 
 | 2022-12-20 | 24 | 7 | 
-| 2022-12-19 | 24 | 7 | 
 

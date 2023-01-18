@@ -1,10 +1,10 @@
 # SagerNet/sing-box - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 271
 
-★ Stars: 2228
+★ Stars: 2230
 
 [Open repository](https://github.com/SagerNet/sing-box)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 2230 | 271 | 
 | 2023-01-16 | 2228 | 271 | 
 | 2023-01-15 | 2223 | 269 | 
 | 2023-01-14 | 2217 | 269 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 2129 | 261 | 
 | 2022-12-20 | 2126 | 260 | 
 | 2022-12-19 | 2116 | 259 | 
-| 2022-12-18 | 2109 | 259 | 
 

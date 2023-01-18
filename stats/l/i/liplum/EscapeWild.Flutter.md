@@ -1,10 +1,10 @@
 # liplum/EscapeWild.Flutter - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 4
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/liplum/EscapeWild.Flutter)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 14 | 4 | 
 | 2023-01-16 | 13 | 4 | 
 | 2023-01-15 | 11 | 4 | 
 

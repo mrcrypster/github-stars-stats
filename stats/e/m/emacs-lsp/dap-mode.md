@@ -1,6 +1,6 @@
 # emacs-lsp/dap-mode - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 160
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 1108 | 160 | 
 | 2023-01-16 | 1108 | 160 | 
 | 2023-01-15 | 1108 | 160 | 
 | 2023-01-14 | 1106 | 160 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 1096 | 159 | 
 | 2022-12-20 | 1095 | 159 | 
 | 2022-12-19 | 1095 | 159 | 
-| 2022-12-18 | 1094 | 159 | 
 

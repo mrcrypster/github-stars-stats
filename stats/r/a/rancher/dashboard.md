@@ -1,10 +1,10 @@
 # rancher/dashboard - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 157
 
-★ Stars: 244
+★ Stars: 243
 
 [Open repository](https://github.com/rancher/dashboard)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 243 | 157 | 
 | 2023-01-16 | 244 | 157 | 
 | 2023-01-15 | 243 | 157 | 
 | 2023-01-14 | 243 | 157 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 237 | 155 | 
 | 2022-12-20 | 237 | 155 | 
 | 2022-12-19 | 237 | 156 | 
-| 2022-12-18 | 237 | 156 | 
 

@@ -1,10 +1,10 @@
 # hasherezade/pe-bear - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 100
 
-★ Stars: 1593
+★ Stars: 1594
 
 [Open repository](https://github.com/hasherezade/pe-bear)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 1594 | 100 | 
 | 2023-01-16 | 1593 | 100 | 
 | 2023-01-15 | 1591 | 100 | 
 | 2023-01-14 | 1589 | 100 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 1556 | 98 | 
 | 2022-12-20 | 1556 | 98 | 
 | 2022-12-19 | 1555 | 98 | 
-| 2022-12-18 | 1554 | 98 | 
 

@@ -1,8 +1,8 @@
 # beards-lab/Phys520 - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 29
+☋ Forks: 31
 
 ★ Stars: 1
 
@@ -13,7 +13,8 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-17 | 1 | 29 | 
+| 2023-01-18 | 1 | 31 | 
+| 2023-01-17 | 1 | 31 | 
 | 2023-01-16 | 1 | 27 | 
 | 2023-01-15 | 1 | 25 | 
 

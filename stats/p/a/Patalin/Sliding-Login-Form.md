@@ -1,10 +1,10 @@
 # Patalin/Sliding-Login-Form - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 6
 
-★ Stars: 40
+★ Stars: 39
 
 [Open repository](https://github.com/Patalin/Sliding-Login-Form)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 39 | 6 | 
 | 2023-01-17 | 40 | 6 | 
 | 2023-01-15 | 40 | 6 | 
 | 2023-01-14 | 40 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 39 | 6 | 
 | 2022-12-21 | 39 | 6 | 
 | 2022-12-20 | 39 | 6 | 
-| 2022-12-19 | 39 | 6 | 
 

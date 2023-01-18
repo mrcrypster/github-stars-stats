@@ -1,8 +1,8 @@
 # oneliey/BUPT-SCS-Courses - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 78
+☋ Forks: 79
 
 ★ Stars: 409
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 409 | 79 | 
 | 2023-01-16 | 409 | 78 | 
 | 2023-01-15 | 409 | 78 | 
 | 2023-01-14 | 409 | 78 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 381 | 74 | 
 | 2022-12-20 | 380 | 74 | 
 | 2022-12-19 | 380 | 74 | 
-| 2022-12-18 | 379 | 74 | 
 

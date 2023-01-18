@@ -1,6 +1,6 @@
 # dpraimeyuu/Falco.Htmx - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 26 | 1 | 
 | 2023-01-16 | 26 | 1 | 
 | 2023-01-15 | 26 | 1 | 
 | 2023-01-14 | 26 | 1 | 

@@ -1,10 +1,10 @@
 # doitsujin/dxvk - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 613
+☋ Forks: 614
 
-★ Stars: 9323
+★ Stars: 9330
 
 [Open repository](https://github.com/doitsujin/dxvk)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 9330 | 614 | 
 | 2023-01-16 | 9323 | 613 | 
 | 2023-01-15 | 9319 | 613 | 
 | 2023-01-14 | 9310 | 612 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 9208 | 604 | 
 | 2022-12-20 | 9206 | 601 | 
 | 2022-12-19 | 9201 | 600 | 
-| 2022-12-18 | 9194 | 599 | 
 

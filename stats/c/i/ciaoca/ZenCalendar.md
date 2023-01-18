@@ -1,6 +1,6 @@
 # ciaoca/ZenCalendar - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 82 | 7 | 
 | 2023-01-16 | 82 | 7 | 
 | 2023-01-15 | 82 | 7 | 
 | 2023-01-14 | 82 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 81 | 7 | 
 | 2022-12-20 | 81 | 7 | 
 | 2022-12-19 | 81 | 7 | 
-| 2022-12-18 | 81 | 7 | 
 

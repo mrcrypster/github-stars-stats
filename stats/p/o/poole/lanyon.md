@@ -1,10 +1,10 @@
 # poole/lanyon - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 2871
 
-★ Stars: 3077
+★ Stars: 3075
 
 [Open repository](https://github.com/poole/lanyon)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 3075 | 2871 | 
 | 2023-01-16 | 3077 | 2871 | 
 | 2023-01-15 | 3077 | 2869 | 
 | 2023-01-14 | 3077 | 2868 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 3069 | 2862 | 
 | 2022-12-20 | 3069 | 2863 | 
 | 2022-12-19 | 3068 | 2862 | 
-| 2022-12-18 | 3067 | 2862 | 
 

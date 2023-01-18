@@ -1,8 +1,8 @@
 # brewchetta/phase-3-ar-practice-karaoke-mania - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 59
+☋ Forks: 60
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | - | 60 | 
 | 2023-01-16 | - | 59 | 
 | 2023-01-15 | - | 59 | 
 | 2023-01-14 | - | 59 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | - | 58 | 
 | 2022-12-20 | - | 58 | 
 | 2022-12-19 | - | 57 | 
-| 2022-12-18 | - | 57 | 
 

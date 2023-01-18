@@ -1,10 +1,10 @@
 # creativetimofficial/argon-flutter - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 106
+☋ Forks: 107
 
-★ Stars: 63
+★ Stars: 64
 
 [Open repository](https://github.com/creativetimofficial/argon-flutter)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 64 | 107 | 
 | 2023-01-16 | 63 | 106 | 
 | 2023-01-15 | 63 | 105 | 
 | 2023-01-14 | 63 | 103 | 

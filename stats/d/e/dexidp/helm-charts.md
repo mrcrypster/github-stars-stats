@@ -1,8 +1,8 @@
 # dexidp/helm-charts - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 60
+☋ Forks: 61
 
 ★ Stars: 32
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 32 | 61 | 
 | 2023-01-16 | 32 | 60 | 
 | 2023-01-15 | 32 | 60 | 
 | 2023-01-14 | 32 | 60 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 29 | 61 | 
 | 2022-12-20 | 29 | 60 | 
 | 2022-12-19 | 29 | 60 | 
-| 2022-12-18 | 29 | 60 | 
 

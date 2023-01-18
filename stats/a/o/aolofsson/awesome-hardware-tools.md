@@ -1,8 +1,8 @@
 # aolofsson/awesome-hardware-tools - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 74
+☋ Forks: 75
 
 ★ Stars: 1123
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 1123 | 75 | 
 | 2023-01-16 | 1123 | 74 | 
 | 2023-01-15 | 1123 | 74 | 
 | 2023-01-14 | 1123 | 73 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 1071 | 66 | 
 | 2022-12-20 | 1071 | 66 | 
 | 2022-12-19 | 1071 | 66 | 
-| 2022-12-18 | 1071 | 66 | 
 

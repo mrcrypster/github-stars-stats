@@ -1,6 +1,6 @@
 # Waeara/Python-Automated-WhatsApp-Message-Sender - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 24 | 9 | 
 | 2023-01-16 | 24 | 9 | 
 | 2023-01-15 | 24 | 9 | 
 | 2023-01-14 | 24 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 23 | 9 | 
 | 2022-12-20 | 23 | 9 | 
 | 2022-12-19 | 23 | 9 | 
-| 2022-12-18 | 23 | 9 | 
 

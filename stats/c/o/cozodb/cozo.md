@@ -1,10 +1,10 @@
 # cozodb/cozo - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 27
 
-★ Stars: 1938
+★ Stars: 1940
 
 [Open repository](https://github.com/cozodb/cozo)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 1940 | 27 | 
 | 2023-01-16 | 1938 | 27 | 
 | 2023-01-15 | 1938 | 27 | 
 | 2023-01-14 | 1933 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 1801 | 27 | 
 | 2022-12-20 | 1797 | 27 | 
 | 2022-12-19 | 1795 | 27 | 
-| 2022-12-18 | 1792 | 27 | 
 

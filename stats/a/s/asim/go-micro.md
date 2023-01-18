@@ -1,10 +1,10 @@
 # asim/go-micro - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 2219
 
-★ Stars: 19943
+★ Stars: 19944
 
 [Open repository](https://github.com/asim/go-micro)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 19944 | 2219 | 
 | 2023-01-16 | 19943 | 2219 | 
 | 2023-01-15 | 19934 | 2219 | 
 | 2023-01-14 | 19934 | 2218 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 19827 | 2211 | 
 | 2022-12-20 | 19825 | 2210 | 
 | 2022-12-19 | 19822 | 2210 | 
-| 2022-12-18 | 19802 | 2210 | 
 

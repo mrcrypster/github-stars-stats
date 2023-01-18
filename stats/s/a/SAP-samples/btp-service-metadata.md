@@ -1,10 +1,10 @@
 # SAP-samples/btp-service-metadata - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 3
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/SAP-samples/btp-service-metadata)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 28 | 3 | 
 | 2023-01-16 | 27 | 3 | 
 | 2023-01-15 | 27 | 3 | 
 | 2023-01-14 | 27 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 26 | 3 | 
 | 2022-12-20 | 26 | 3 | 
 | 2022-12-19 | 26 | 3 | 
-| 2022-12-18 | 26 | 3 | 
 

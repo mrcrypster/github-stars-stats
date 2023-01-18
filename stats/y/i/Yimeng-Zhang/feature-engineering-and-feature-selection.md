@@ -1,10 +1,10 @@
 # Yimeng-Zhang/feature-engineering-and-feature-selection - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 344
 
-★ Stars: 981
+★ Stars: 984
 
 [Open repository](https://github.com/Yimeng-Zhang/feature-engineering-and-feature-selection)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 984 | 344 | 
 | 2023-01-16 | 981 | 344 | 
 | 2023-01-15 | 980 | 344 | 
 | 2023-01-14 | 979 | 344 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 953 | 341 | 
 | 2022-12-20 | 953 | 341 | 
 | 2022-12-19 | 952 | 341 | 
-| 2022-12-18 | 949 | 341 | 
 

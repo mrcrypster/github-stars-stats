@@ -1,10 +1,10 @@
 # agg23/openfpga-SNES - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 5
 
-★ Stars: 247
+★ Stars: 248
 
 [Open repository](https://github.com/agg23/openfpga-SNES)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 248 | 5 | 
 | 2023-01-16 | 247 | 5 | 
 | 2023-01-15 | 247 | 5 | 
 | 2023-01-14 | 245 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 234 | 5 | 
 | 2022-12-20 | 234 | 5 | 
 | 2022-12-19 | 235 | 5 | 
-| 2022-12-18 | 235 | 5 | 
 

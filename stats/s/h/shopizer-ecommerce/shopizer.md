@@ -1,10 +1,10 @@
 # shopizer-ecommerce/shopizer - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 2578
+☋ Forks: 2579
 
-★ Stars: 2936
+★ Stars: 2938
 
 [Open repository](https://github.com/shopizer-ecommerce/shopizer)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 2938 | 2579 | 
 | 2023-01-16 | 2936 | 2578 | 
 | 2023-01-15 | 2935 | 2575 | 
 | 2023-01-14 | 2928 | 2573 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 2881 | 2553 | 
 | 2022-12-20 | 2881 | 2552 | 
 | 2022-12-19 | 2881 | 2552 | 
-| 2022-12-18 | 2881 | 2552 | 
 

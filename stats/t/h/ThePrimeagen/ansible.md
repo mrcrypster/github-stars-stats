@@ -1,8 +1,8 @@
 # ThePrimeagen/ansible - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 45
+☋ Forks: 44
 
 ★ Stars: 105
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 105 | 44 | 
 | 2023-01-16 | 105 | 45 | 
 | 2023-01-15 | 105 | 44 | 
 | 2023-01-14 | 104 | 44 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 98 | 40 | 
 | 2022-12-20 | 98 | 40 | 
 | 2022-12-19 | 98 | 40 | 
-| 2022-12-18 | 98 | 40 | 
 

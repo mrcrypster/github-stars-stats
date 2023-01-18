@@ -1,10 +1,10 @@
 # Tencent/libpag - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 278
+☋ Forks: 279
 
-★ Stars: 2414
+★ Stars: 2417
 
 [Open repository](https://github.com/Tencent/libpag)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 2417 | 279 | 
 | 2023-01-17 | 2414 | 278 | 
 | 2023-01-15 | 2411 | 278 | 
 | 2023-01-14 | 2411 | 278 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-21 | 2328 | 269 | 
 | 2022-12-20 | 2324 | 269 | 
 | 2022-12-19 | 2322 | 269 | 
-| 2022-12-18 | 2321 | 269 | 
 

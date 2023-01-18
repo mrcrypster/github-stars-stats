@@ -1,10 +1,10 @@
 # Azure/terraform-azurerm-postgresql - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 45
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/Azure/terraform-azurerm-postgresql)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 23 | 45 | 
 | 2023-01-16 | 22 | 45 | 
 | 2023-01-15 | 22 | 45 | 
 | 2023-01-14 | 22 | 45 | 

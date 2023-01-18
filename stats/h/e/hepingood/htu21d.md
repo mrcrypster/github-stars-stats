@@ -1,6 +1,6 @@
 # hepingood/htu21d - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 62 | 30 | 
 | 2023-01-16 | 62 | 30 | 
 | 2023-01-15 | 62 | 30 | 
 | 2023-01-14 | 62 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 61 | 30 | 
 | 2022-12-20 | 58 | 29 | 
 | 2022-12-19 | 58 | 29 | 
-| 2022-12-18 | 55 | 28 | 
 

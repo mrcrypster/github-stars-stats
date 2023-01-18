@@ -1,6 +1,6 @@
 # phantomics/april - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 462 | 28 | 
 | 2023-01-16 | 462 | 28 | 
 | 2023-01-15 | 459 | 28 | 
 | 2023-01-14 | 458 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 443 | 28 | 
 | 2022-12-20 | 441 | 28 | 
 | 2022-12-19 | 439 | 28 | 
-| 2022-12-18 | 439 | 28 | 
 

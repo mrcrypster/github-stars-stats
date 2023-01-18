@@ -1,8 +1,8 @@
 # HT944/MadRabbit - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 52
+☋ Forks: 53
 
 ★ Stars: 171
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 171 | 53 | 
 | 2023-01-16 | 171 | 52 | 
 | 2023-01-15 | 171 | 52 | 
 | 2023-01-14 | 171 | 52 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 159 | 48 | 
 | 2022-12-20 | 160 | 48 | 
 | 2022-12-19 | 158 | 48 | 
-| 2022-12-18 | 158 | 48 | 
 

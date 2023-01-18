@@ -1,10 +1,10 @@
 # SwiftyBeaver/SwiftyBeaver - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 448
 
-★ Stars: 5613
+★ Stars: 5614
 
 [Open repository](https://github.com/SwiftyBeaver/SwiftyBeaver)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 5614 | 448 | 
 | 2023-01-16 | 5613 | 448 | 
 | 2023-01-15 | 5613 | 448 | 
 | 2023-01-14 | 5612 | 447 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 5596 | 443 | 
 | 2022-12-20 | 5596 | 443 | 
 | 2022-12-19 | 5596 | 443 | 
-| 2022-12-18 | 5595 | 443 | 
 

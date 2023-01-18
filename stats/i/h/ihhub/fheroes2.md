@@ -1,10 +1,10 @@
 # ihhub/fheroes2 - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 246
 
-★ Stars: 1860
+★ Stars: 1861
 
 [Open repository](https://github.com/ihhub/fheroes2)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 1861 | 246 | 
 | 2023-01-16 | 1860 | 246 | 
 | 2023-01-15 | 1860 | 246 | 
 | 2023-01-14 | 1857 | 246 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 1675 | 229 | 
 | 2022-12-20 | 1664 | 229 | 
 | 2022-12-19 | 1664 | 230 | 
-| 2022-12-18 | 1663 | 230 | 
 

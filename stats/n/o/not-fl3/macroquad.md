@@ -1,8 +1,8 @@
 # not-fl3/macroquad - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 194
+☋ Forks: 195
 
 ★ Stars: 1911
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 1911 | 195 | 
 | 2023-01-16 | 1911 | 194 | 
 | 2023-01-15 | 1904 | 194 | 
 | 2023-01-14 | 1899 | 194 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 1848 | 192 | 
 | 2022-12-20 | 1842 | 192 | 
 | 2022-12-19 | 1840 | 192 | 
-| 2022-12-18 | 1837 | 193 | 
 

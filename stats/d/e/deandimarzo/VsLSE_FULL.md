@@ -1,10 +1,10 @@
 # deandimarzo/VsLSE_FULL - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 13
+☋ Forks: 14
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/deandimarzo/VsLSE_FULL)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 5 | 14 | 
 | 2023-01-16 | 4 | 13 | 
 | 2023-01-15 | 4 | 13 | 
 | 2023-01-14 | 4 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-22 | 5 | 13 | 
 | 2022-12-21 | 5 | 13 | 
 | 2022-12-20 | 5 | 13 | 
-| 2022-12-18 | 5 | 13 | 
 

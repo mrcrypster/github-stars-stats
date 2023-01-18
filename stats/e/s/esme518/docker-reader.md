@@ -1,10 +1,10 @@
 # esme518/docker-reader - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 5
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/esme518/docker-reader)
 
@@ -13,5 +13,6 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 1 | 5 | 
 | 2023-01-16 | - | 5 | 
 

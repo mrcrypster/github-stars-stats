@@ -1,10 +1,10 @@
 # espressif/esp-csi - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 63
 
-★ Stars: 318
+★ Stars: 321
 
 [Open repository](https://github.com/espressif/esp-csi)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 321 | 63 | 
 | 2023-01-16 | 318 | 63 | 
 | 2023-01-15 | 318 | 63 | 
 | 2023-01-14 | 317 | 63 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 306 | 60 | 
 | 2022-12-20 | 306 | 60 | 
 | 2022-12-19 | 306 | 60 | 
-| 2022-12-18 | 306 | 60 | 
 

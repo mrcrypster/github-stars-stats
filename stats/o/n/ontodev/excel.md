@@ -1,6 +1,6 @@
 # ontodev/excel - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 10 | 7 | 
 | 2023-01-16 | 10 | 7 | 
 | 2023-01-15 | 10 | 7 | 
 | 2023-01-14 | 10 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 10 | 7 | 
 | 2022-12-20 | 10 | 7 | 
 | 2022-12-19 | 10 | 7 | 
-| 2022-12-18 | 10 | 7 | 
 

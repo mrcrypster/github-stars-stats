@@ -1,6 +1,6 @@
 # pawn-lang/YSI-Includes - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 99
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 169 | 99 | 
 | 2023-01-16 | 169 | 99 | 
 | 2023-01-15 | 168 | 99 | 
 | 2023-01-14 | 168 | 99 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 168 | 97 | 
 | 2022-12-20 | 168 | 97 | 
 | 2022-12-19 | 169 | 97 | 
-| 2022-12-18 | 169 | 97 | 
 

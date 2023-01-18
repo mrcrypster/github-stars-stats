@@ -1,6 +1,6 @@
 # haxiomic/GPU-Fluid-Experiments - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 338
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 2788 | 338 | 
 | 2023-01-16 | 2788 | 338 | 
 | 2023-01-15 | 2787 | 338 | 
 | 2023-01-14 | 2786 | 337 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-22 | 2778 | 337 | 
 | 2022-12-21 | 2776 | 336 | 
 | 2022-12-20 | 2776 | 336 | 
-| 2022-12-19 | 2776 | 336 | 
 

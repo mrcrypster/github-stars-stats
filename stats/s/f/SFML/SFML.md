@@ -1,10 +1,10 @@
 # SFML/SFML - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 1513
+☋ Forks: 1514
 
-★ Stars: 8294
+★ Stars: 8297
 
 [Open repository](https://github.com/SFML/SFML)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 8297 | 1514 | 
 | 2023-01-16 | 8294 | 1513 | 
 | 2023-01-15 | 8293 | 1512 | 
 | 2023-01-14 | 8293 | 1512 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 8240 | 1502 | 
 | 2022-12-20 | 8235 | 1503 | 
 | 2022-12-19 | 8233 | 1501 | 
-| 2022-12-18 | 8228 | 1502 | 
 

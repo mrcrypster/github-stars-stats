@@ -1,10 +1,10 @@
 # kubernetes/enhancements - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 1239
+☋ Forks: 1242
 
-★ Stars: 2646
+★ Stars: 2647
 
 [Open repository](https://github.com/kubernetes/enhancements)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 2647 | 1242 | 
 | 2023-01-16 | 2646 | 1239 | 
 | 2023-01-15 | 2643 | 1238 | 
 | 2023-01-14 | 2638 | 1238 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 2560 | 1225 | 
 | 2022-12-20 | 2557 | 1225 | 
 | 2022-12-19 | 2555 | 1221 | 
-| 2022-12-18 | 2554 | 1221 | 
 

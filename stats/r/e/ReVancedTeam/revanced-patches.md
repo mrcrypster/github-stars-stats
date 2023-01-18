@@ -1,10 +1,10 @@
 # ReVancedTeam/revanced-patches - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 18
 
-☋ Forks: 110
+☋ Forks: 111
 
-★ Stars: 2405
+★ Stars: 2408
 
 [Open repository](https://github.com/ReVancedTeam/revanced-patches)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 2408 | 111 | 
 | 2023-01-16 | 2405 | 110 | 
 | 2023-01-15 | 2398 | 110 | 
 | 2023-01-14 | 2395 | 107 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-22 | 2265 | 66 | 
 | 2022-12-21 | 2255 | 65 | 
 | 2022-12-20 | 2247 | 64 | 
-| 2022-12-19 | 2238 | 67 | 
 

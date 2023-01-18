@@ -1,6 +1,6 @@
 # thoughtbot/dotfiles - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 1857
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 7504 | 1857 | 
 | 2023-01-16 | 7504 | 1857 | 
 | 2023-01-15 | 7503 | 1857 | 
 | 2023-01-14 | 7501 | 1856 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 7482 | 1857 | 
 | 2022-12-20 | 7481 | 1859 | 
 | 2022-12-19 | 7481 | 1859 | 
-| 2022-12-18 | 7478 | 1858 | 
 

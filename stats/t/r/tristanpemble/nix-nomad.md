@@ -1,10 +1,10 @@
 # tristanpemble/nix-nomad - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 2
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/tristanpemble/nix-nomad)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 35 | 2 | 
 | 2023-01-16 | 34 | 2 | 
 | 2023-01-15 | 34 | 2 | 
 | 2023-01-14 | 34 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 32 | - | 
 | 2022-12-20 | 32 | - | 
 | 2022-12-19 | 32 | - | 
-| 2022-12-18 | 32 | - | 
 

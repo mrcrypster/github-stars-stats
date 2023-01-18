@@ -1,6 +1,6 @@
 # laminas/laminas-diactoros - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 343 | 48 | 
 | 2023-01-16 | 343 | 48 | 
 | 2023-01-15 | 343 | 48 | 
 | 2023-01-14 | 343 | 48 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 342 | 48 | 
 | 2022-12-20 | 341 | 48 | 
 | 2022-12-19 | 341 | 48 | 
-| 2022-12-18 | 341 | 48 | 
 

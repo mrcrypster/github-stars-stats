@@ -1,10 +1,10 @@
 # nl-design-system/denhaag - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 4
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/nl-design-system/denhaag)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 11 | 4 | 
 | 2023-01-16 | 10 | 4 | 
 | 2023-01-15 | 10 | 4 | 
 | 2023-01-14 | 10 | 4 | 

@@ -1,10 +1,10 @@
 # DIYgod/DPlayer - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 2289
+☋ Forks: 2290
 
-★ Stars: 13656
+★ Stars: 13659
 
 [Open repository](https://github.com/DIYgod/DPlayer)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 13659 | 2290 | 
 | 2023-01-17 | 13656 | 2289 | 
 | 2023-01-15 | 13654 | 2289 | 
 | 2023-01-14 | 13652 | 2290 | 

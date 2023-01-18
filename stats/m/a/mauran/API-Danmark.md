@@ -1,10 +1,10 @@
 # mauran/API-Danmark - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 41
 
-★ Stars: 404
+★ Stars: 405
 
 [Open repository](https://github.com/mauran/API-Danmark)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 405 | 41 | 
 | 2023-01-16 | 404 | 41 | 
 | 2023-01-15 | 403 | 41 | 
 | 2023-01-14 | 402 | 41 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 398 | 41 | 
 | 2022-12-20 | 398 | 41 | 
 | 2022-12-19 | 397 | 41 | 
-| 2022-12-18 | 396 | 41 | 
 

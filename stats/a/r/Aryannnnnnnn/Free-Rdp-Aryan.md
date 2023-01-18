@@ -1,8 +1,8 @@
 # Aryannnnnnnn/Free-Rdp-Aryan - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
-☋ Forks: 93
+☋ Forks: 96
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | - | 96 | 
 | 2023-01-16 | - | 93 | 
 | 2023-01-15 | - | 93 | 
 | 2023-01-14 | - | 93 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | - | 71 | 
 | 2022-12-20 | - | 71 | 
 | 2022-12-19 | - | 70 | 
-| 2022-12-18 | - | 69 | 
 

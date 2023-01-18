@@ -1,6 +1,6 @@
 # smallrye/smallrye-mutiny - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 103
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 614 | 103 | 
 | 2023-01-16 | 614 | 103 | 
 | 2023-01-15 | 613 | 103 | 
 | 2023-01-14 | 613 | 103 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-22 | 599 | 103 | 
 | 2022-12-21 | 599 | 103 | 
 | 2022-12-20 | 600 | 103 | 
-| 2022-12-18 | 600 | 103 | 
 

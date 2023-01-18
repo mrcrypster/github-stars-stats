@@ -1,10 +1,10 @@
 # nrepl/nrepl - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 92
 
-★ Stars: 645
+★ Stars: 646
 
 [Open repository](https://github.com/nrepl/nrepl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 646 | 92 | 
 | 2023-01-16 | 645 | 92 | 
 | 2023-01-15 | 643 | 92 | 
 | 2023-01-14 | 643 | 92 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 641 | 92 | 
 | 2022-12-20 | 641 | 91 | 
 | 2022-12-19 | 640 | 91 | 
-| 2022-12-18 | 640 | 91 | 
 

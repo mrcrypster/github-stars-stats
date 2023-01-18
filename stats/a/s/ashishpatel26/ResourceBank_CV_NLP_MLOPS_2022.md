@@ -1,6 +1,6 @@
 # ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022 - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 80
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 396 | 80 | 
 | 2023-01-16 | 396 | 80 | 
 | 2023-01-15 | 397 | 80 | 
 | 2023-01-14 | 397 | 80 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 394 | 79 | 
 | 2022-12-20 | 394 | 79 | 
 | 2022-12-19 | 394 | 79 | 
-| 2022-12-18 | 394 | 79 | 
 

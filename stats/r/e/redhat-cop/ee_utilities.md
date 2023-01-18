@@ -1,6 +1,6 @@
 # redhat-cop/ee_utilities - stars & forks statistics
 
-Stats updated on Jan 2023, 16
+Stats updated on Jan 2023, 17
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-17 | 19 | 15 | 
 | 2023-01-16 | 19 | 15 | 
 | 2023-01-15 | 19 | 15 | 
 | 2023-01-14 | 19 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 16
 | 2022-12-21 | 17 | 15 | 
 | 2022-12-20 | 17 | 15 | 
 | 2022-12-19 | 17 | 15 | 
-| 2022-12-18 | 17 | 15 | 
 
