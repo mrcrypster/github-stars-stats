@@ -1,8 +1,8 @@
 # aws-samples/eks-blueprints-workloads - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 625
+☋ Forks: 632
 
 ★ Stars: 36
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 36 | 632 | 
 | 2023-01-17 | 36 | 625 | 
 | 2023-01-16 | 36 | 616 | 
 | 2023-01-15 | 36 | 614 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 31 | 590 | 
 | 2022-12-21 | 31 | 591 | 
 | 2022-12-20 | 31 | 580 | 
-| 2022-12-19 | 31 | 579 | 
 

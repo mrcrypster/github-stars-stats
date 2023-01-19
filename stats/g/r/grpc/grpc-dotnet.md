@@ -1,6 +1,6 @@
 # grpc/grpc-dotnet - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 689
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 3491 | 689 | 
 | 2023-01-17 | 3491 | 689 | 
 | 2023-01-16 | 3489 | 689 | 
 | 2023-01-15 | 3488 | 689 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-23 | 3456 | 685 | 
 | 2022-12-21 | 3453 | 685 | 
 | 2022-12-20 | 3450 | 685 | 
-| 2022-12-19 | 3449 | 685 | 
 

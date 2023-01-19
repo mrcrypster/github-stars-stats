@@ -1,10 +1,10 @@
 # mob-sakai/UIEffect - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 625
 
-★ Stars: 4285
+★ Stars: 4289
 
 [Open repository](https://github.com/mob-sakai/UIEffect)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 4289 | 625 | 
 | 2023-01-17 | 4285 | 625 | 
 | 2023-01-16 | 4284 | 625 | 
 | 2023-01-15 | 4282 | 625 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-23 | 4238 | 620 | 
 | 2022-12-21 | 4236 | 620 | 
 | 2022-12-20 | 4236 | 620 | 
-| 2022-12-19 | 4233 | 620 | 
 

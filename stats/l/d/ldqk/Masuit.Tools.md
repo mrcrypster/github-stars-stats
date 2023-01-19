@@ -1,10 +1,10 @@
 # ldqk/Masuit.Tools - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 891
 
-★ Stars: 3693
+★ Stars: 3697
 
 [Open repository](https://github.com/ldqk/Masuit.Tools)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 3697 | 891 | 
 | 2023-01-17 | 3693 | 891 | 
 | 2023-01-16 | 3687 | 891 | 
 | 2023-01-15 | 3684 | 891 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 3595 | 866 | 
 | 2022-12-21 | 3590 | 865 | 
 | 2022-12-20 | 3588 | 865 | 
-| 2022-12-19 | 3583 | 865 | 
 

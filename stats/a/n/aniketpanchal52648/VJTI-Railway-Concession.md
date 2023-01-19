@@ -1,10 +1,10 @@
 # aniketpanchal52648/VJTI-Railway-Concession - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 5
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/aniketpanchal52648/VJTI-Railway-Concession)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 1 | 5 | 
 | 2023-01-17 | - | 5 | 
 | 2023-01-16 | - | 5 | 
 | 2023-01-15 | - | 5 | 

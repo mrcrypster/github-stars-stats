@@ -1,10 +1,10 @@
 # bradtraversy/laragigs - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 19
 
-☋ Forks: 246
+☋ Forks: 248
 
-★ Stars: 356
+★ Stars: 359
 
 [Open repository](https://github.com/bradtraversy/laragigs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 359 | 248 | 
 | 2023-01-17 | 356 | 246 | 
 | 2023-01-16 | 355 | 246 | 
 | 2023-01-15 | 354 | 246 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 339 | 235 | 
 | 2022-12-21 | 338 | 235 | 
 | 2022-12-20 | 338 | 236 | 
-| 2022-12-19 | 338 | 235 | 
 

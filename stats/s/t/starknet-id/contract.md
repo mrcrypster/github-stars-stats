@@ -1,10 +1,10 @@
 # starknet-id/contract - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 40
 
-★ Stars: 82
+★ Stars: 85
 
 [Open repository](https://github.com/starknet-id/contract)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 85 | 40 | 
 | 2023-01-17 | 82 | 40 | 
 | 2023-01-16 | 82 | 40 | 
 | 2023-01-15 | 82 | 40 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 82 | 40 | 
 | 2022-12-21 | 82 | 40 | 
 | 2022-12-20 | 82 | 40 | 
-| 2022-12-19 | 81 | 40 | 
 

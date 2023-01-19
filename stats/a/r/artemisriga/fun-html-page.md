@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 18
 
 ☋ Forks: 9
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/artemisriga/fun-html-page)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-18 | 18 | 9 | 
+| 2023-01-18 | 19 | 9 | 
 | 2023-01-17 | 18 | 9 | 
 

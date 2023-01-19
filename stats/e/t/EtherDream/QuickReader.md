@@ -1,10 +1,10 @@
 # EtherDream/QuickReader - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 4
 
-★ Stars: 156
+★ Stars: 155
 
 [Open repository](https://github.com/EtherDream/QuickReader)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 155 | 4 | 
 | 2023-01-17 | 156 | 4 | 
 | 2023-01-16 | 156 | 4 | 
 | 2023-01-15 | 156 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-23 | 156 | 4 | 
 | 2022-12-21 | 156 | 4 | 
 | 2022-12-20 | 156 | 4 | 
-| 2022-12-19 | 156 | 4 | 
 

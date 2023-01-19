@@ -1,10 +1,10 @@
 # jdiaz97/Harbest.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 0
 
-★ Stars: 21
+★ Stars: 23
 
 [Open repository](https://github.com/jdiaz97/Harbest.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 23 | - | 
 | 2023-01-17 | 21 | - | 
 | 2023-01-16 | 21 | - | 
 | 2023-01-15 | 21 | - | 

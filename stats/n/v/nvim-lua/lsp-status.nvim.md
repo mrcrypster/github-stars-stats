@@ -1,10 +1,10 @@
 # nvim-lua/lsp-status.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 43
 
-★ Stars: 544
+★ Stars: 546
 
 [Open repository](https://github.com/nvim-lua/lsp-status.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 546 | 43 | 
 | 2023-01-17 | 544 | 43 | 
 | 2023-01-16 | 543 | 43 | 
 | 2023-01-15 | 543 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 541 | 44 | 
 | 2022-12-21 | 541 | 44 | 
 | 2022-12-20 | 541 | 44 | 
-| 2022-12-19 | 541 | 44 | 
 

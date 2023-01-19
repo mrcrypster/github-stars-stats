@@ -1,6 +1,6 @@
 # PrimLabs/Bucket - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 28 | 7 | 
 | 2023-01-17 | 28 | 7 | 
 | 2023-01-16 | 28 | 7 | 
 | 2023-01-15 | 28 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 29 | 7 | 
 | 2022-12-21 | 30 | 7 | 
 | 2022-12-20 | 30 | 7 | 
-| 2022-12-19 | 30 | 7 | 
 

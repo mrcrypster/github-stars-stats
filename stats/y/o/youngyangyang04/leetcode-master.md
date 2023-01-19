@@ -1,10 +1,10 @@
 # youngyangyang04/leetcode-master - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 8702
+☋ Forks: 8708
 
-★ Stars: 34715
+★ Stars: 34737
 
 [Open repository](https://github.com/youngyangyang04/leetcode-master)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 34737 | 8708 | 
 | 2023-01-17 | 34715 | 8702 | 
 | 2023-01-16 | 34701 | 8697 | 
 | 2023-01-15 | 34675 | 8695 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 34179 | 8598 | 
 | 2022-12-21 | 34159 | 8596 | 
 | 2022-12-20 | 34137 | 8592 | 
-| 2022-12-19 | 34102 | 8585 | 
 

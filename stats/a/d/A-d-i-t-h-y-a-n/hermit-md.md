@@ -1,8 +1,8 @@
 # A-d-i-t-h-y-a-n/hermit-md - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 3090
+☋ Forks: 3093
 
 ★ Stars: 223
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 223 | 3093 | 
 | 2023-01-17 | 223 | 3090 | 
 | 2023-01-16 | 222 | 3087 | 
 | 2023-01-15 | 222 | 3084 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 216 | 3010 | 
 | 2022-12-21 | 216 | 3005 | 
 | 2022-12-20 | 214 | 3003 | 
-| 2022-12-19 | 214 | 2992 | 
 

@@ -1,10 +1,10 @@
 # v2ray/domain-list-community - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 372
+☋ Forks: 374
 
-★ Stars: 1669
+★ Stars: 1671
 
 [Open repository](https://github.com/v2ray/domain-list-community)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 1671 | 374 | 
 | 2023-01-17 | 1669 | 372 | 
 | 2023-01-16 | 1664 | 372 | 
 | 2023-01-15 | 1662 | 371 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 1590 | 362 | 
 | 2022-12-21 | 1588 | 361 | 
 | 2022-12-20 | 1586 | 361 | 
-| 2022-12-19 | 1582 | 360 | 
 

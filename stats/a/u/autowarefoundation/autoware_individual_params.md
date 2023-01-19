@@ -1,8 +1,8 @@
 # autowarefoundation/autoware_individual_params - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 19
 
-☋ Forks: 7
+☋ Forks: 8
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 2 | 8 | 
 | 2023-01-17 | 2 | 7 | 
 | 2023-01-16 | 2 | 7 | 
 | 2023-01-15 | 2 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 1 | 6 | 
 | 2022-12-21 | 1 | 6 | 
 | 2022-12-20 | 1 | 6 | 
-| 2022-12-19 | 1 | 6 | 
 

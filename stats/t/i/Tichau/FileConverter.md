@@ -1,10 +1,10 @@
 # Tichau/FileConverter - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 19
 
-☋ Forks: 254
+☋ Forks: 255
 
-★ Stars: 2251
+★ Stars: 2253
 
 [Open repository](https://github.com/Tichau/FileConverter)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 2253 | 255 | 
 | 2023-01-17 | 2251 | 254 | 
 | 2023-01-16 | 2247 | 254 | 
 | 2023-01-15 | 2244 | 253 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 2131 | 246 | 
 | 2022-12-21 | 2127 | 245 | 
 | 2022-12-20 | 2128 | 245 | 
-| 2022-12-19 | 2124 | 244 | 
 

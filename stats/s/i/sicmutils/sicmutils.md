@@ -1,10 +1,10 @@
 # sicmutils/sicmutils - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 62
 
-★ Stars: 665
+★ Stars: 666
 
 [Open repository](https://github.com/sicmutils/sicmutils)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 666 | 62 | 
 | 2023-01-17 | 665 | 62 | 
 | 2023-01-16 | 664 | 62 | 
 | 2023-01-15 | 664 | 62 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 655 | 61 | 
 | 2022-12-21 | 655 | 61 | 
 | 2022-12-20 | 655 | 61 | 
-| 2022-12-19 | 655 | 61 | 
 

@@ -1,10 +1,10 @@
 # thedevdojo/wave - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 525
 
-★ Stars: 4199
+★ Stars: 4198
 
 [Open repository](https://github.com/thedevdojo/wave)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 4198 | 525 | 
 | 2023-01-17 | 4199 | 525 | 
 | 2023-01-16 | 4196 | 522 | 
 | 2023-01-15 | 4195 | 521 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 4150 | 506 | 
 | 2022-12-21 | 4150 | 506 | 
 | 2022-12-20 | 4150 | 506 | 
-| 2022-12-19 | 4149 | 505 | 
 

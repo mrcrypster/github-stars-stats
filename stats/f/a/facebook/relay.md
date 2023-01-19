@@ -1,10 +1,10 @@
 # facebook/relay - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 1774
+☋ Forks: 1773
 
-★ Stars: 17542
+★ Stars: 17541
 
 [Open repository](https://github.com/facebook/relay)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 17541 | 1773 | 
 | 2023-01-17 | 17542 | 1774 | 
 | 2023-01-16 | 17540 | 1774 | 
 | 2023-01-15 | 17540 | 1774 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 17482 | 1760 | 
 | 2022-12-21 | 17477 | 1760 | 
 | 2022-12-20 | 17476 | 1760 | 
-| 2022-12-19 | 17473 | 1760 | 
 

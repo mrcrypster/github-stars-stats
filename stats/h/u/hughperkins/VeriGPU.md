@@ -1,6 +1,6 @@
 # hughperkins/VeriGPU - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 307 | 27 | 
 | 2023-01-17 | 307 | 27 | 
 | 2023-01-16 | 303 | 27 | 
 | 2023-01-15 | 301 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 295 | 26 | 
 | 2022-12-21 | 295 | 26 | 
 | 2022-12-20 | 295 | 26 | 
-| 2022-12-19 | 295 | 26 | 
 

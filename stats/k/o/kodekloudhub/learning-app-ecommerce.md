@@ -1,8 +1,8 @@
 # kodekloudhub/learning-app-ecommerce - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 721
+☋ Forks: 723
 
 ★ Stars: 184
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 184 | 723 | 
 | 2023-01-17 | 184 | 721 | 
 | 2023-01-16 | 184 | 721 | 
 | 2023-01-15 | 183 | 720 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 180 | 705 | 
 | 2022-12-21 | 180 | 703 | 
 | 2022-12-20 | 180 | 703 | 
-| 2022-12-19 | 180 | 702 | 
 

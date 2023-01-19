@@ -1,10 +1,10 @@
 # fpiette/DelphiChatGPT - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 8
+☋ Forks: 9
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/fpiette/DelphiChatGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 25 | 9 | 
 | 2023-01-17 | 24 | 8 | 
 | 2023-01-16 | 24 | 8 | 
 | 2023-01-15 | 24 | 7 | 

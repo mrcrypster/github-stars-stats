@@ -1,8 +1,8 @@
 # Feartheyc/freerdp - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 34
+☋ Forks: 33
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | - | 33 | 
 | 2023-01-17 | - | 34 | 
 | 2023-01-16 | - | 34 | 
 | 2023-01-15 | - | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | - | 26 | 
 | 2022-12-21 | - | 24 | 
 | 2022-12-20 | - | 24 | 
-| 2022-12-19 | - | 24 | 
 

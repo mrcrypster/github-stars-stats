@@ -1,10 +1,10 @@
 # haproxy/haproxy - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 643
 
-★ Stars: 3415
+★ Stars: 3414
 
 [Open repository](https://github.com/haproxy/haproxy)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 3414 | 643 | 
 | 2023-01-17 | 3415 | 643 | 
 | 2023-01-16 | 3412 | 641 | 
 | 2023-01-15 | 3410 | 641 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 3357 | 636 | 
 | 2022-12-21 | 3354 | 636 | 
 | 2022-12-20 | 3349 | 635 | 
-| 2022-12-19 | 3347 | 634 | 
 

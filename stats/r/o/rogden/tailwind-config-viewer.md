@@ -1,10 +1,10 @@
 # rogden/tailwind-config-viewer - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 78
+☋ Forks: 79
 
-★ Stars: 1557
+★ Stars: 1560
 
 [Open repository](https://github.com/rogden/tailwind-config-viewer)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 1560 | 79 | 
 | 2023-01-17 | 1557 | 78 | 
 | 2023-01-16 | 1555 | 78 | 
 | 2023-01-15 | 1552 | 78 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 1529 | 77 | 
 | 2022-12-21 | 1528 | 77 | 
 | 2022-12-20 | 1524 | 77 | 
-| 2022-12-19 | 1522 | 77 | 
 

@@ -1,8 +1,8 @@
 # academind/react-native-practical-guide-code - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 696
+☋ Forks: 702
 
 ★ Stars: 474
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 474 | 702 | 
 | 2023-01-17 | 474 | 696 | 
 | 2023-01-16 | 474 | 695 | 
 | 2023-01-15 | 474 | 691 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 437 | 630 | 
 | 2022-12-21 | 435 | 627 | 
 | 2022-12-20 | 434 | 625 | 
-| 2022-12-19 | 431 | 627 | 
 

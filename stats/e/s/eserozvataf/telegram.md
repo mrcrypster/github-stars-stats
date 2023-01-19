@@ -1,10 +1,10 @@
 # eserozvataf/telegram - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 15
+☋ Forks: 16
 
-★ Stars: 112
+★ Stars: 116
 
 [Open repository](https://github.com/eserozvataf/telegram)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 116 | 16 | 
 | 2023-01-17 | 112 | 15 | 
 | 2023-01-16 | 112 | 15 | 
 | 2023-01-15 | 111 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 106 | 15 | 
 | 2022-12-21 | 106 | 15 | 
 | 2022-12-20 | 107 | 15 | 
-| 2022-12-19 | 107 | 15 | 
 

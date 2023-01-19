@@ -1,6 +1,6 @@
 # WebPlatformForEmbedded/meta-wpe - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 77
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 70 | 77 | 
 | 2023-01-17 | 70 | 77 | 
 | 2023-01-16 | 70 | 77 | 
 | 2023-01-15 | 70 | 77 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 70 | 77 | 
 | 2022-12-21 | 70 | 77 | 
 | 2022-12-20 | 70 | 77 | 
-| 2022-12-19 | 70 | 77 | 
 

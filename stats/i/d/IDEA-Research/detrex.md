@@ -1,8 +1,8 @@
 # IDEA-Research/detrex - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 19
 
-☋ Forks: 89
+☋ Forks: 91
 
 ★ Stars: 941
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 941 | 91 | 
 | 2023-01-17 | 941 | 89 | 
 | 2023-01-16 | 940 | 89 | 
 | 2023-01-15 | 938 | 89 | 

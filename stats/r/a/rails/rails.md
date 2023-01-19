@@ -1,10 +1,10 @@
 # rails/rails - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 20858
+☋ Forks: 20864
 
-★ Stars: 52142
+★ Stars: 52156
 
 [Open repository](https://github.com/rails/rails)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 52156 | 20864 | 
 | 2023-01-17 | 52142 | 20858 | 
 | 2023-01-16 | 52136 | 20856 | 
 | 2023-01-15 | 52132 | 20855 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 51978 | 20830 | 
 | 2022-12-21 | 51967 | 20826 | 
 | 2022-12-20 | 51963 | 20829 | 
-| 2022-12-19 | 51954 | 20824 | 
 

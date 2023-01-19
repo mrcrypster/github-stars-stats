@@ -1,10 +1,10 @@
 # jotson/ridiculous_coding - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 18
 
-★ Stars: 597
+★ Stars: 596
 
 [Open repository](https://github.com/jotson/ridiculous_coding)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 596 | 18 | 
 | 2023-01-17 | 597 | 18 | 
 | 2023-01-16 | 597 | 18 | 
 | 2023-01-15 | 597 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 591 | 18 | 
 | 2022-12-21 | 590 | 18 | 
 | 2022-12-20 | 590 | 18 | 
-| 2022-12-19 | 589 | 18 | 
 

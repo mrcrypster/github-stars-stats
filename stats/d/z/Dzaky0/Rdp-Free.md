@@ -1,8 +1,8 @@
 # Dzaky0/Rdp-Free - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 141
+☋ Forks: 143
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | - | 143 | 
 | 2023-01-17 | - | 141 | 
 | 2023-01-16 | - | 137 | 
 | 2023-01-15 | - | 136 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | - | 109 | 
 | 2022-12-21 | - | 107 | 
 | 2022-12-20 | - | 106 | 
-| 2022-12-19 | - | 102 | 
 

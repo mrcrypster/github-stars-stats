@@ -1,10 +1,10 @@
 # angular/angularfire - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 2208
+☋ Forks: 2207
 
-★ Stars: 7371
+★ Stars: 7372
 
 [Open repository](https://github.com/angular/angularfire)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 7372 | 2207 | 
 | 2023-01-17 | 7371 | 2208 | 
 | 2023-01-16 | 7369 | 2207 | 
 | 2023-01-15 | 7368 | 2207 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 7344 | 2194 | 
 | 2022-12-21 | 7344 | 2195 | 
 | 2022-12-20 | 7344 | 2195 | 
-| 2022-12-19 | 7344 | 2195 | 
 

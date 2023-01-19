@@ -1,6 +1,6 @@
 # Azure/CCOInsights - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 179
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 593 | 179 | 
 | 2023-01-17 | 593 | 179 | 
 | 2023-01-16 | 593 | 179 | 
 | 2023-01-15 | 593 | 179 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 589 | 176 | 
 | 2022-12-21 | 589 | 176 | 
 | 2022-12-20 | 588 | 176 | 
-| 2022-12-19 | 588 | 176 | 
 

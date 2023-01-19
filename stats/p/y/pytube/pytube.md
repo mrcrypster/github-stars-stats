@@ -1,10 +1,10 @@
 # pytube/pytube - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 1650
+☋ Forks: 1653
 
-★ Stars: 7953
+★ Stars: 7955
 
 [Open repository](https://github.com/pytube/pytube)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 7955 | 1653 | 
 | 2023-01-17 | 7953 | 1650 | 
 | 2023-01-16 | 7951 | 1649 | 
 | 2023-01-15 | 7949 | 1649 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 7882 | 1626 | 
 | 2022-12-21 | 7879 | 1624 | 
 | 2022-12-20 | 7873 | 1623 | 
-| 2022-12-19 | 7867 | 1622 | 
 

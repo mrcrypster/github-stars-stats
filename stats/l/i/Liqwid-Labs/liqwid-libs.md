@@ -1,10 +1,10 @@
 # Liqwid-Labs/liqwid-libs - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 1
 
-★ Stars: 6
+★ Stars: 8
 
 [Open repository](https://github.com/Liqwid-Labs/liqwid-libs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 8 | 1 | 
 | 2023-01-17 | 6 | 1 | 
 | 2023-01-16 | 6 | - | 
 | 2023-01-15 | 6 | - | 

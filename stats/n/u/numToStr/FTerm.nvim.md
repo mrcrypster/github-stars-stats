@@ -1,6 +1,6 @@
 # numToStr/FTerm.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 543 | 21 | 
 | 2023-01-17 | 543 | 21 | 
 | 2023-01-16 | 542 | 21 | 
 | 2023-01-15 | 541 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-23 | 529 | 20 | 
 | 2022-12-21 | 528 | 20 | 
 | 2022-12-20 | 528 | 20 | 
-| 2022-12-19 | 529 | 20 | 
 

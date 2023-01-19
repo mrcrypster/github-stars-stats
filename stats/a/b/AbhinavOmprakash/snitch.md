@@ -1,6 +1,6 @@
 # AbhinavOmprakash/snitch - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 65 | 1 | 
 | 2023-01-17 | 65 | 1 | 
 | 2023-01-16 | 65 | 1 | 
 | 2023-01-15 | 65 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-23 | 50 | 1 | 
 | 2022-12-22 | 50 | 1 | 
 | 2022-12-21 | 49 | 1 | 
-| 2022-12-20 | 46 | 1 | 
 

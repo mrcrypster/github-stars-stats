@@ -1,6 +1,6 @@
 # mbredel/thesis-template - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 67
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 64 | 67 | 
 | 2023-01-17 | 64 | 67 | 
 | 2023-01-16 | 65 | 67 | 
 | 2023-01-15 | 65 | 67 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 63 | 66 | 
 | 2022-12-21 | 63 | 66 | 
 | 2022-12-20 | 63 | 66 | 
-| 2022-12-19 | 63 | 66 | 
 

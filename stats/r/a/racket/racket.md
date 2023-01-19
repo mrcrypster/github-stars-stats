@@ -1,10 +1,10 @@
 # racket/racket - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 625
+☋ Forks: 626
 
-★ Stars: 4431
+★ Stars: 4432
 
 [Open repository](https://github.com/racket/racket)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 4432 | 626 | 
 | 2023-01-17 | 4431 | 625 | 
 | 2023-01-16 | 4431 | 625 | 
 | 2023-01-15 | 4430 | 625 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 4424 | 622 | 
 | 2022-12-21 | 4423 | 622 | 
 | 2022-12-20 | 4423 | 622 | 
-| 2022-12-19 | 4423 | 622 | 
 

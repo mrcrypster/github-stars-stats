@@ -1,10 +1,10 @@
 # akhansari/FSharp.OpenApi - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 2
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/akhansari/FSharp.OpenApi)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 37 | 2 | 
 | 2023-01-17 | 36 | 2 | 
 | 2023-01-16 | 36 | 2 | 
 | 2023-01-15 | 36 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 32 | 2 | 
 | 2022-12-21 | 32 | 2 | 
 | 2022-12-20 | 32 | 2 | 
-| 2022-12-19 | 32 | 2 | 
 

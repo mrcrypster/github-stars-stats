@@ -1,10 +1,10 @@
 # JeanHuguesdeRaigniac/effects-landscape - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 3
 
-★ Stars: 51
+★ Stars: 52
 
 [Open repository](https://github.com/JeanHuguesdeRaigniac/effects-landscape)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 52 | 3 | 
 | 2023-01-17 | 51 | 3 | 
 | 2023-01-16 | 50 | 3 | 
 | 2023-01-15 | 50 | 3 | 

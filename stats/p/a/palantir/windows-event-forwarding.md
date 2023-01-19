@@ -1,10 +1,10 @@
 # palantir/windows-event-forwarding - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 256
 
-★ Stars: 1108
+★ Stars: 1109
 
 [Open repository](https://github.com/palantir/windows-event-forwarding)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 1109 | 256 | 
 | 2023-01-17 | 1108 | 256 | 
 | 2023-01-16 | 1108 | 256 | 
 | 2023-01-15 | 1108 | 256 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 1103 | 256 | 
 | 2022-12-21 | 1102 | 256 | 
 | 2022-12-20 | 1102 | 255 | 
-| 2022-12-19 | 1101 | 255 | 
 

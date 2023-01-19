@@ -1,6 +1,6 @@
 # phpbrew/phpbrew - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 365
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 5013 | 365 | 
 | 2023-01-17 | 5013 | 365 | 
 | 2023-01-16 | 5013 | 365 | 
 | 2023-01-15 | 5013 | 365 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 5000 | 366 | 
 | 2022-12-21 | 4999 | 366 | 
 | 2022-12-20 | 4999 | 366 | 
-| 2022-12-19 | 4997 | 366 | 
 

@@ -1,10 +1,10 @@
 # babashka/cli - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 9
 
-★ Stars: 133
+★ Stars: 135
 
 [Open repository](https://github.com/babashka/cli)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 135 | 9 | 
 | 2023-01-17 | 133 | 9 | 
 | 2023-01-16 | 133 | 9 | 
 | 2023-01-15 | 133 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 128 | 9 | 
 | 2022-12-21 | 128 | 9 | 
 | 2022-12-20 | 128 | 9 | 
-| 2022-12-19 | 128 | 9 | 
 

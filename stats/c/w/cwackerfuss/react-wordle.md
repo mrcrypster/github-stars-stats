@@ -1,10 +1,10 @@
 # cwackerfuss/react-wordle - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 1943
 
-★ Stars: 2401
+★ Stars: 2400
 
 [Open repository](https://github.com/cwackerfuss/react-wordle)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 2400 | 1943 | 
 | 2023-01-17 | 2401 | 1943 | 
 | 2023-01-16 | 2400 | 1943 | 
 | 2023-01-15 | 2399 | 1944 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-23 | 2378 | 1932 | 
 | 2022-12-22 | 2378 | 1932 | 
 | 2022-12-21 | 2376 | 1931 | 
-| 2022-12-20 | 2375 | 1932 | 
 

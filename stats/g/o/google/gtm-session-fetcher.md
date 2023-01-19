@@ -1,8 +1,8 @@
 # google/gtm-session-fetcher - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 171
+☋ Forks: 170
 
 ★ Stars: 198
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 198 | 170 | 
 | 2023-01-17 | 198 | 171 | 
 | 2023-01-16 | 198 | 171 | 
 | 2023-01-15 | 198 | 171 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 196 | 171 | 
 | 2022-12-21 | 196 | 171 | 
 | 2022-12-20 | 196 | 171 | 
-| 2022-12-19 | 196 | 171 | 
 

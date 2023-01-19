@@ -1,10 +1,10 @@
 # m1guelpf/chatgpt-discord - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 35
+☋ Forks: 36
 
-★ Stars: 186
+★ Stars: 188
 
 [Open repository](https://github.com/m1guelpf/chatgpt-discord)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 188 | 36 | 
 | 2023-01-17 | 186 | 35 | 
 | 2023-01-16 | 184 | 35 | 
 | 2023-01-15 | 181 | 32 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 108 | 18 | 
 | 2022-12-21 | 105 | 17 | 
 | 2022-12-20 | 103 | 16 | 
-| 2022-12-19 | 101 | 16 | 
 

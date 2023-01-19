@@ -1,10 +1,10 @@
 # StaPH-B/docker-builds - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 60
+☋ Forks: 61
 
-★ Stars: 123
+★ Stars: 124
 
 [Open repository](https://github.com/StaPH-B/docker-builds)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 124 | 61 | 
 | 2023-01-17 | 123 | 60 | 
 | 2023-01-16 | 123 | 60 | 
 | 2023-01-15 | 123 | 60 | 

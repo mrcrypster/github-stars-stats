@@ -1,10 +1,10 @@
 # directus/examples - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 72
 
-★ Stars: 148
+★ Stars: 149
 
 [Open repository](https://github.com/directus/examples)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 149 | 72 | 
 | 2023-01-17 | 148 | 72 | 
 | 2023-01-16 | 147 | 72 | 
 | 2023-01-15 | 147 | 72 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 136 | 68 | 
 | 2022-12-21 | 135 | 69 | 
 | 2022-12-20 | 135 | 67 | 
-| 2022-12-19 | 134 | 65 | 
 

@@ -1,10 +1,10 @@
 # getbem/getbem.github.io - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 216
+☋ Forks: 217
 
-★ Stars: 5516
+★ Stars: 5517
 
 [Open repository](https://github.com/getbem/getbem.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 5517 | 217 | 
 | 2023-01-17 | 5516 | 216 | 
 | 2023-01-16 | 5517 | 216 | 
 | 2023-01-15 | 5516 | 216 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 5511 | 214 | 
 | 2022-12-21 | 5511 | 214 | 
 | 2022-12-20 | 5511 | 214 | 
-| 2022-12-19 | 5511 | 214 | 
 

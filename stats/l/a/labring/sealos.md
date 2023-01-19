@@ -1,6 +1,6 @@
 # labring/sealos - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 1652
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 9916 | 1652 | 
 | 2023-01-17 | 9916 | 1652 | 
 | 2023-01-16 | 9912 | 1651 | 
 | 2023-01-15 | 9910 | 1652 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 9866 | 1642 | 
 | 2022-12-21 | 9864 | 1641 | 
 | 2022-12-20 | 9862 | 1641 | 
-| 2022-12-19 | 9860 | 1641 | 
 

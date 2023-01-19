@@ -1,6 +1,6 @@
 # mohamedhaloka/todo_app_tdd - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 50 | 4 | 
 | 2023-01-17 | 50 | 4 | 
 | 2023-01-16 | 50 | 4 | 
 | 2023-01-15 | 50 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 50 | 4 | 
 | 2022-12-21 | 50 | 4 | 
 | 2022-12-20 | 50 | 4 | 
-| 2022-12-19 | 50 | 4 | 
 

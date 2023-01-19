@@ -1,10 +1,10 @@
 # liuchengxu/vim-which-key - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 59
 
-★ Stars: 1798
+★ Stars: 1797
 
 [Open repository](https://github.com/liuchengxu/vim-which-key)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 1797 | 59 | 
 | 2023-01-17 | 1798 | 59 | 
 | 2023-01-16 | 1795 | 59 | 
 | 2023-01-15 | 1795 | 59 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 1785 | 60 | 
 | 2022-12-21 | 1785 | 60 | 
 | 2022-12-20 | 1785 | 60 | 
-| 2022-12-19 | 1785 | 60 | 
 

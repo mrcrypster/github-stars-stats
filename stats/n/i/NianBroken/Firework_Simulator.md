@@ -1,10 +1,10 @@
 # NianBroken/Firework_Simulator - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 79
+☋ Forks: 80
 
-★ Stars: 192
+★ Stars: 196
 
 [Open repository](https://github.com/NianBroken/Firework_Simulator)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 196 | 80 | 
 | 2023-01-17 | 192 | 79 | 
 | 2023-01-16 | 188 | 78 | 
 | 2023-01-15 | 187 | 78 | 

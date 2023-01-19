@@ -1,6 +1,6 @@
 # AISIN-TRC/E2Pose - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 110 | 10 | 
 | 2023-01-17 | 110 | 10 | 
 | 2023-01-16 | 110 | 10 | 
 | 2023-01-15 | 110 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 90 | 7 | 
 | 2022-12-21 | 90 | 7 | 
 | 2022-12-20 | 90 | 7 | 
-| 2022-12-19 | 89 | 7 | 
 

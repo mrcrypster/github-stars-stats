@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 18
 
-☋ Forks: 20
+☋ Forks: 22
 
-★ Stars: 184
+★ Stars: 205
 
 [Open repository](https://github.com/the-teacher/rails7-startkit)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-18 | 184 | 20 | 
+| 2023-01-18 | 205 | 22 | 
 | 2023-01-17 | 180 | 19 | 
 | 2023-01-16 | 127 | 18 | 
 | 2023-01-15 | 127 | 17 | 

@@ -1,6 +1,6 @@
 # newrelic/newrelic-ruby-agent - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 588
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 1163 | 588 | 
 | 2023-01-17 | 1163 | 588 | 
 | 2023-01-16 | 1163 | 587 | 
 | 2023-01-15 | 1163 | 587 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 1160 | 585 | 
 | 2022-12-21 | 1160 | 585 | 
 | 2022-12-20 | 1160 | 585 | 
-| 2022-12-19 | 1160 | 585 | 
 

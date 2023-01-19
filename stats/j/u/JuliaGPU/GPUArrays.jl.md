@@ -1,10 +1,10 @@
 # JuliaGPU/GPUArrays.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 64
 
-★ Stars: 256
+★ Stars: 255
 
 [Open repository](https://github.com/JuliaGPU/GPUArrays.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 255 | 64 | 
 | 2023-01-17 | 256 | 64 | 
 | 2023-01-16 | 256 | 64 | 
 | 2023-01-15 | 256 | 64 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 255 | 64 | 
 | 2022-12-21 | 255 | 64 | 
 | 2022-12-20 | 255 | 64 | 
-| 2022-12-19 | 255 | 64 | 
 

@@ -1,10 +1,10 @@
 # cyberdefenders/email-header-analyzer - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 139
 
-★ Stars: 514
+★ Stars: 513
 
 [Open repository](https://github.com/cyberdefenders/email-header-analyzer)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 513 | 139 | 
 | 2023-01-17 | 514 | 139 | 
 | 2023-01-16 | 514 | 138 | 
 | 2023-01-15 | 513 | 138 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 504 | 138 | 
 | 2022-12-21 | 504 | 138 | 
 | 2022-12-20 | 504 | 138 | 
-| 2022-12-19 | 504 | 138 | 
 

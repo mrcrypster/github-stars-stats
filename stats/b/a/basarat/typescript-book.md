@@ -1,10 +1,10 @@
 # basarat/typescript-book - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 2356
+☋ Forks: 2359
 
-★ Stars: 18744
+★ Stars: 18752
 
 [Open repository](https://github.com/basarat/typescript-book)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 18752 | 2359 | 
 | 2023-01-17 | 18744 | 2356 | 
 | 2023-01-16 | 18737 | 2356 | 
 | 2023-01-15 | 18733 | 2357 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 18626 | 2344 | 
 | 2022-12-21 | 18620 | 2345 | 
 | 2022-12-20 | 18617 | 2345 | 
-| 2022-12-19 | 18612 | 2343 | 
 

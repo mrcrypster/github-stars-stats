@@ -1,10 +1,10 @@
 # QasimWani/LeetHub - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 856
+☋ Forks: 858
 
-★ Stars: 2852
+★ Stars: 2856
 
 [Open repository](https://github.com/QasimWani/LeetHub)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 2856 | 858 | 
 | 2023-01-17 | 2852 | 856 | 
 | 2023-01-16 | 2848 | 853 | 
 | 2023-01-15 | 2843 | 850 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 2742 | 828 | 
 | 2022-12-21 | 2742 | 825 | 
 | 2022-12-20 | 2739 | 824 | 
-| 2022-12-19 | 2738 | 823 | 
 

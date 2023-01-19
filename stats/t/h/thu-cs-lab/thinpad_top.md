@@ -1,6 +1,6 @@
 # thu-cs-lab/thinpad_top - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 40 | 23 | 
 | 2023-01-17 | 40 | 23 | 
 | 2023-01-16 | 40 | 23 | 
 | 2023-01-15 | 40 | 23 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 39 | 23 | 
 | 2022-12-21 | 39 | 23 | 
 | 2022-12-20 | 39 | 23 | 
-| 2022-12-19 | 39 | 23 | 
 

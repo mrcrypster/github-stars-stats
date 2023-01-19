@@ -1,6 +1,6 @@
 # musaprg/runzigc - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 11 | 1 | 
 | 2023-01-17 | 11 | 1 | 
 | 2023-01-16 | 11 | 1 | 
 | 2023-01-15 | 11 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-23 | 10 | 1 | 
 | 2022-12-22 | 10 | 1 | 
 | 2022-12-21 | 10 | 1 | 
-| 2022-12-20 | 10 | 1 | 
 

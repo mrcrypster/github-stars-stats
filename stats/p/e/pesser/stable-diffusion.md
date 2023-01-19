@@ -1,10 +1,10 @@
 # pesser/stable-diffusion - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 286
+☋ Forks: 288
 
-★ Stars: 903
+★ Stars: 905
 
 [Open repository](https://github.com/pesser/stable-diffusion)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 905 | 288 | 
 | 2023-01-17 | 903 | 286 | 
 | 2023-01-16 | 903 | 284 | 
 | 2023-01-15 | 903 | 283 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 886 | 263 | 
 | 2022-12-21 | 885 | 261 | 
 | 2022-12-20 | 884 | 261 | 
-| 2022-12-19 | 884 | 261 | 
 

@@ -1,10 +1,10 @@
 # soulwire/Plasmatic-Isosurface - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 32
 
-★ Stars: 133
+★ Stars: 134
 
 [Open repository](https://github.com/soulwire/Plasmatic-Isosurface)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 134 | 32 | 
 | 2023-01-17 | 133 | 32 | 
 | 2023-01-16 | 133 | 32 | 
 | 2023-01-15 | 133 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 133 | 32 | 
 | 2022-12-21 | 133 | 32 | 
 | 2022-12-20 | 133 | 32 | 
-| 2022-12-19 | 133 | 32 | 
 

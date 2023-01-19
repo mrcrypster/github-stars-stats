@@ -1,8 +1,8 @@
 # ZeframLou/bagholder - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 5
+☋ Forks: 6
 
 ★ Stars: 45
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 45 | 6 | 
 | 2023-01-17 | 45 | 5 | 
 | 2023-01-16 | 45 | 5 | 
 | 2023-01-15 | 45 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 45 | 3 | 
 | 2022-12-21 | 45 | 3 | 
 | 2022-12-20 | 45 | 3 | 
-| 2022-12-19 | 45 | 3 | 
 

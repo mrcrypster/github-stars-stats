@@ -1,10 +1,10 @@
 # youzan/vant-weapp - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 3428
 
-★ Stars: 16490
+★ Stars: 16492
 
 [Open repository](https://github.com/youzan/vant-weapp)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 16492 | 3428 | 
 | 2023-01-17 | 16490 | 3428 | 
 | 2023-01-16 | 16488 | 3429 | 
 | 2023-01-15 | 16488 | 3429 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 16452 | 3420 | 
 | 2022-12-21 | 16450 | 3421 | 
 | 2022-12-20 | 16449 | 3420 | 
-| 2022-12-19 | 16445 | 3419 | 
 

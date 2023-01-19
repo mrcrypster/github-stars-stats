@@ -1,6 +1,6 @@
 # vinceliuice/Graphite-gtk-theme - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 528 | 39 | 
 | 2023-01-17 | 528 | 39 | 
 | 2023-01-16 | 523 | 38 | 
 | 2023-01-15 | 523 | 38 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 503 | 37 | 
 | 2022-12-21 | 501 | 37 | 
 | 2022-12-20 | 501 | 37 | 
-| 2022-12-19 | 501 | 37 | 
 

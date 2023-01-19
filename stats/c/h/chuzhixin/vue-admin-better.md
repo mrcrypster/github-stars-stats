@@ -1,10 +1,10 @@
 # chuzhixin/vue-admin-better - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 3181
 
-★ Stars: 13489
+★ Stars: 13495
 
 [Open repository](https://github.com/chuzhixin/vue-admin-better)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 13495 | 3181 | 
 | 2023-01-17 | 13489 | 3181 | 
 | 2023-01-16 | 13486 | 3181 | 
 | 2023-01-15 | 13483 | 3180 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 13408 | 3161 | 
 | 2022-12-21 | 13402 | 3160 | 
 | 2022-12-20 | 13402 | 3159 | 
-| 2022-12-19 | 13391 | 3157 | 
 

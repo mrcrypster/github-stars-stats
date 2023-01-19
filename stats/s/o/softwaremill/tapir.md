@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 18
 
 ☋ Forks: 318
 
-★ Stars: 1149
+★ Stars: 1150
 
 [Open repository](https://github.com/softwaremill/tapir)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-18 | 1149 | 318 | 
+| 2023-01-18 | 1150 | 318 | 
 | 2023-01-17 | 1149 | 318 | 
 | 2023-01-16 | 1147 | 318 | 
 | 2023-01-15 | 1147 | 318 | 
@@ -41,5 +41,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 1137 | 320 | 
 | 2022-12-22 | 1137 | 319 | 
 | 2022-12-21 | 1137 | 319 | 
-| 2022-12-20 | 1135 | 318 | 
 

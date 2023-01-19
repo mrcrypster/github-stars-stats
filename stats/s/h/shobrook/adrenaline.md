@@ -1,10 +1,10 @@
 # shobrook/adrenaline - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 81
+☋ Forks: 82
 
-★ Stars: 1121
+★ Stars: 1153
 
 [Open repository](https://github.com/shobrook/adrenaline)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 1153 | 82 | 
 | 2023-01-17 | 1121 | 81 | 
 | 2023-01-16 | 1091 | 79 | 
 | 2023-01-15 | 984 | 71 | 

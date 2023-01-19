@@ -1,10 +1,10 @@
 # l1mey112/jitcalc - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 0
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/l1mey112/jitcalc)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 16 | - | 
 | 2023-01-17 | 15 | - | 
 | 2023-01-16 | 15 | - | 
 

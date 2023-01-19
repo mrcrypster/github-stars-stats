@@ -1,10 +1,10 @@
 # 7thSamurai/steganography - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 36
+☋ Forks: 37
 
-★ Stars: 825
+★ Stars: 827
 
 [Open repository](https://github.com/7thSamurai/steganography)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 827 | 37 | 
 | 2023-01-17 | 825 | 36 | 
 | 2023-01-16 | 819 | 36 | 
 | 2023-01-15 | 818 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 683 | 28 | 
 | 2022-12-21 | 683 | 28 | 
 | 2022-12-20 | 683 | 28 | 
-| 2022-12-19 | 685 | 28 | 
 

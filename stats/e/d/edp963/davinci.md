@@ -1,6 +1,6 @@
 # edp963/davinci - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 1773
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 4539 | 1773 | 
 | 2023-01-17 | 4539 | 1773 | 
 | 2023-01-16 | 4538 | 1773 | 
 | 2023-01-15 | 4536 | 1772 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 4524 | 1772 | 
 | 2022-12-21 | 4524 | 1772 | 
 | 2022-12-20 | 4523 | 1772 | 
-| 2022-12-19 | 4523 | 1772 | 
 

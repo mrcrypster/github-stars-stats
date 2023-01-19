@@ -1,6 +1,6 @@
 # smartcontractkit/LinkToken - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 122 | 68 | 
 | 2023-01-17 | 122 | 68 | 
 | 2023-01-16 | 122 | 68 | 
 | 2023-01-15 | 121 | 68 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 120 | 68 | 
 | 2022-12-21 | 120 | 68 | 
 | 2022-12-20 | 120 | 68 | 
-| 2022-12-19 | 120 | 68 | 
 

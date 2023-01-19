@@ -1,6 +1,6 @@
 # OE4T/meta-tegra - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 177
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 281 | 177 | 
 | 2023-01-17 | 281 | 177 | 
 | 2023-01-16 | 281 | 176 | 
 | 2023-01-15 | 281 | 176 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 279 | 175 | 
 | 2022-12-21 | 279 | 174 | 
 | 2022-12-20 | 279 | 174 | 
-| 2022-12-19 | 279 | 174 | 
 

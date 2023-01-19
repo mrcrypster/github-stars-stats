@@ -1,10 +1,10 @@
 # gcc-mirror/gcc - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 3818
 
-★ Stars: 7203
+★ Stars: 7206
 
 [Open repository](https://github.com/gcc-mirror/gcc)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 7206 | 3818 | 
 | 2023-01-17 | 7203 | 3818 | 
 | 2023-01-16 | 7194 | 3817 | 
 | 2023-01-15 | 7190 | 3815 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-23 | 7095 | 3774 | 
 | 2022-12-21 | 7093 | 3768 | 
 | 2022-12-20 | 7091 | 3768 | 
-| 2022-12-19 | 7088 | 3768 | 
 

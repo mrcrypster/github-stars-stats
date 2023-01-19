@@ -1,6 +1,6 @@
 # vuejs/theme - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 145 | 62 | 
 | 2023-01-17 | 145 | 62 | 
 | 2023-01-16 | 145 | 62 | 
 | 2023-01-15 | 144 | 62 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 140 | 59 | 
 | 2022-12-21 | 140 | 59 | 
 | 2022-12-20 | 140 | 59 | 
-| 2022-12-19 | 139 | 59 | 
 

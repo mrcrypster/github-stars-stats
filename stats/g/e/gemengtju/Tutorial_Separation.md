@@ -1,10 +1,10 @@
 # gemengtju/Tutorial_Separation - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 87
 
-★ Stars: 339
+★ Stars: 340
 
 [Open repository](https://github.com/gemengtju/Tutorial_Separation)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 340 | 87 | 
 | 2023-01-17 | 339 | 87 | 
 | 2023-01-16 | 339 | 87 | 
 | 2023-01-15 | 339 | 87 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 334 | 87 | 
 | 2022-12-21 | 334 | 87 | 
 | 2022-12-20 | 334 | 87 | 
-| 2022-12-19 | 334 | 87 | 
 

@@ -1,10 +1,10 @@
 # FRRouting/frr - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 992
+☋ Forks: 993
 
-★ Stars: 2420
+★ Stars: 2424
 
 [Open repository](https://github.com/FRRouting/frr)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 2424 | 993 | 
 | 2023-01-17 | 2420 | 992 | 
 | 2023-01-16 | 2420 | 992 | 
 | 2023-01-15 | 2419 | 992 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 2395 | 980 | 
 | 2022-12-21 | 2395 | 979 | 
 | 2022-12-20 | 2394 | 979 | 
-| 2022-12-19 | 2395 | 978 | 
 

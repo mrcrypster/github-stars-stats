@@ -1,6 +1,6 @@
 # xmos/lib_spi - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 2 | 8 | 
 | 2023-01-17 | 2 | 8 | 
 | 2023-01-16 | 2 | 8 | 
 | 2023-01-15 | 2 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-23 | 2 | 8 | 
 | 2022-12-22 | 2 | 8 | 
 | 2022-12-20 | 2 | 8 | 
-| 2022-12-19 | 2 | 8 | 
 

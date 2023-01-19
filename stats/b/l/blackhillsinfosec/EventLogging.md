@@ -1,10 +1,10 @@
 # blackhillsinfosec/EventLogging - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 60
 
-★ Stars: 403
+★ Stars: 404
 
 [Open repository](https://github.com/blackhillsinfosec/EventLogging)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 404 | 60 | 
 | 2023-01-17 | 403 | 60 | 
 | 2023-01-16 | 403 | 60 | 
 | 2023-01-15 | 403 | 60 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 397 | 59 | 
 | 2022-12-21 | 397 | 59 | 
 | 2022-12-20 | 397 | 59 | 
-| 2022-12-19 | 397 | 59 | 
 

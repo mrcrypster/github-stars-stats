@@ -1,10 +1,10 @@
 # erikbackman/mindre-theme - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 5
 
-★ Stars: 75
+★ Stars: 76
 
 [Open repository](https://github.com/erikbackman/mindre-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 76 | 5 | 
 | 2023-01-17 | 75 | 5 | 
 | 2023-01-16 | 75 | 5 | 
 | 2023-01-15 | 75 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 73 | 5 | 
 | 2022-12-21 | 73 | 5 | 
 | 2022-12-20 | 73 | 5 | 
-| 2022-12-19 | 73 | 5 | 
 

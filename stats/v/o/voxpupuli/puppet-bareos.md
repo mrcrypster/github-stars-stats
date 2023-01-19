@@ -1,6 +1,6 @@
 # voxpupuli/puppet-bareos - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 12 | 35 | 
 | 2023-01-18 | 12 | 35 | 
 | 2023-01-17 | 12 | 35 | 
 | 2023-01-15 | 12 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 12 | 35 | 
 | 2022-12-21 | 12 | 35 | 
 | 2022-12-20 | 12 | 35 | 
-| 2022-12-19 | 12 | 35 | 
 

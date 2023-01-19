@@ -1,6 +1,6 @@
 # Yaxser/Backstab - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 187
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 1082 | 187 | 
 | 2023-01-17 | 1082 | 187 | 
 | 2023-01-16 | 1081 | 187 | 
 | 2023-01-15 | 1080 | 186 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 1069 | 185 | 
 | 2022-12-21 | 1069 | 185 | 
 | 2022-12-20 | 1069 | 185 | 
-| 2022-12-19 | 1068 | 185 | 
 

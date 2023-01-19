@@ -1,10 +1,10 @@
 # pointfreeco/swift-dependencies - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 21
+☋ Forks: 24
 
-★ Stars: 565
+★ Stars: 579
 
 [Open repository](https://github.com/pointfreeco/swift-dependencies)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 579 | 24 | 
 | 2023-01-17 | 565 | 21 | 
 | 2023-01-16 | 524 | 21 | 
 | 2023-01-15 | 502 | 21 | 

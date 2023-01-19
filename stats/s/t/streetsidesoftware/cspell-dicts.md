@@ -1,8 +1,8 @@
 # streetsidesoftware/cspell-dicts - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 142
+☋ Forks: 143
 
 ★ Stars: 148
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 148 | 143 | 
 | 2023-01-17 | 148 | 142 | 
 | 2023-01-16 | 148 | 142 | 
 | 2023-01-15 | 148 | 142 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 143 | 139 | 
 | 2022-12-21 | 142 | 140 | 
 | 2022-12-20 | 142 | 140 | 
-| 2022-12-19 | 142 | 140 | 
 

@@ -1,10 +1,10 @@
 # mysql/mysql-server - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 3297
 
-★ Stars: 8665
+★ Stars: 8667
 
 [Open repository](https://github.com/mysql/mysql-server)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 8667 | 3297 | 
 | 2023-01-17 | 8665 | 3297 | 
 | 2023-01-16 | 8660 | 3298 | 
 | 2023-01-15 | 8658 | 3296 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-23 | 8584 | 3281 | 
 | 2022-12-22 | 8582 | 3279 | 
 | 2022-12-21 | 8578 | 3277 | 
-| 2022-12-19 | 8577 | 3277 | 
 

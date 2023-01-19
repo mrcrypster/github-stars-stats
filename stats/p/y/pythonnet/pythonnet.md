@@ -1,10 +1,10 @@
 # pythonnet/pythonnet - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 619
 
-★ Stars: 3474
+★ Stars: 3475
 
 [Open repository](https://github.com/pythonnet/pythonnet)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 3475 | 619 | 
 | 2023-01-17 | 3474 | 619 | 
 | 2023-01-16 | 3472 | 619 | 
 | 2023-01-15 | 3470 | 620 | 

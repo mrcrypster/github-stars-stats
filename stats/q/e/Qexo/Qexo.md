@@ -1,10 +1,10 @@
 # Qexo/Qexo - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 94
 
-★ Stars: 322
+★ Stars: 324
 
 [Open repository](https://github.com/Qexo/Qexo)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 324 | 94 | 
 | 2023-01-17 | 322 | 94 | 
 | 2023-01-16 | 322 | 94 | 
 | 2023-01-15 | 321 | 93 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 292 | 90 | 
 | 2022-12-21 | 291 | 90 | 
 | 2022-12-20 | 289 | 90 | 
-| 2022-12-19 | 289 | 90 | 
 

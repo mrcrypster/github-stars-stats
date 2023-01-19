@@ -1,6 +1,6 @@
 # mkobuolys/flutter-design-patterns - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 284
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 1320 | 284 | 
 | 2023-01-17 | 1320 | 284 | 
 | 2023-01-16 | 1319 | 284 | 
 | 2023-01-15 | 1319 | 284 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 1293 | 271 | 
 | 2022-12-21 | 1291 | 270 | 
 | 2022-12-20 | 1291 | 270 | 
-| 2022-12-19 | 1290 | 270 | 
 

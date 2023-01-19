@@ -1,10 +1,10 @@
 # LunarVim/bigfile.nvim - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 3
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/LunarVim/bigfile.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 35 | 3 | 
 | 2023-01-17 | 34 | 3 | 
 | 2023-01-16 | 34 | 3 | 
 | 2023-01-15 | 34 | 3 | 

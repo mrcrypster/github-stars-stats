@@ -1,10 +1,10 @@
 # TanStack/virtual - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 192
 
-★ Stars: 3791
+★ Stars: 3793
 
 [Open repository](https://github.com/TanStack/virtual)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 3793 | 192 | 
 | 2023-01-17 | 3791 | 192 | 
 | 2023-01-16 | 3785 | 192 | 
 | 2023-01-15 | 3782 | 192 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 3713 | 190 | 
 | 2022-12-21 | 3705 | 189 | 
 | 2022-12-20 | 3701 | 189 | 
-| 2022-12-19 | 3701 | 187 | 
 

@@ -1,10 +1,10 @@
 # ChuckerTeam/chucker - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 257
 
-★ Stars: 2954
+★ Stars: 2958
 
 [Open repository](https://github.com/ChuckerTeam/chucker)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 2958 | 257 | 
 | 2023-01-17 | 2954 | 257 | 
 | 2023-01-16 | 2954 | 257 | 
 | 2023-01-15 | 2953 | 256 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 2887 | 254 | 
 | 2022-12-21 | 2887 | 254 | 
 | 2022-12-20 | 2886 | 254 | 
-| 2022-12-19 | 2884 | 254 | 
 

@@ -1,10 +1,10 @@
 # yaoyao-liu/minimal-light - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 104
+☋ Forks: 105
 
-★ Stars: 136
+★ Stars: 137
 
 [Open repository](https://github.com/yaoyao-liu/minimal-light)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 137 | 105 | 
 | 2023-01-17 | 136 | 104 | 
 | 2023-01-16 | 137 | 104 | 
 | 2023-01-15 | 137 | 103 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 133 | 101 | 
 | 2022-12-21 | 133 | 100 | 
 | 2022-12-20 | 131 | 100 | 
-| 2022-12-19 | 131 | 99 | 
 

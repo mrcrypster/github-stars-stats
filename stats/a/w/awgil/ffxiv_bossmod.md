@@ -1,10 +1,10 @@
 # awgil/ffxiv_bossmod - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 35
 
-★ Stars: 119
+★ Stars: 122
 
 [Open repository](https://github.com/awgil/ffxiv_bossmod)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 122 | 35 | 
 | 2023-01-17 | 119 | 35 | 
 | 2023-01-16 | 119 | 35 | 
 | 2023-01-15 | 119 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 106 | 32 | 
 | 2022-12-21 | 106 | 32 | 
 | 2022-12-20 | 106 | 32 | 
-| 2022-12-19 | 106 | 30 | 
 

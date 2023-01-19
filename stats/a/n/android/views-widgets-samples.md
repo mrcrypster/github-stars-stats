@@ -1,10 +1,10 @@
 # android/views-widgets-samples - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 2901
+☋ Forks: 2899
 
-★ Stars: 4565
+★ Stars: 4566
 
 [Open repository](https://github.com/android/views-widgets-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 4566 | 2899 | 
 | 2023-01-17 | 4565 | 2901 | 
 | 2023-01-16 | 4564 | 2900 | 
 | 2023-01-15 | 4562 | 2897 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 4548 | 2881 | 
 | 2022-12-21 | 4548 | 2878 | 
 | 2022-12-20 | 4548 | 2878 | 
-| 2022-12-19 | 4546 | 2878 | 
 

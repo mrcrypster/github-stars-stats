@@ -1,10 +1,10 @@
 # AobingJava/JavaFamily - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 7440
+☋ Forks: 7442
 
-★ Stars: 32791
+★ Stars: 32800
 
 [Open repository](https://github.com/AobingJava/JavaFamily)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 32800 | 7442 | 
 | 2023-01-17 | 32791 | 7440 | 
 | 2023-01-16 | 32788 | 7438 | 
 | 2023-01-15 | 32782 | 7436 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 32639 | 7404 | 
 | 2022-12-21 | 32636 | 7404 | 
 | 2022-12-20 | 32631 | 7403 | 
-| 2022-12-19 | 32626 | 7402 | 
 

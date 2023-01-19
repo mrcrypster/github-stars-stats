@@ -1,10 +1,10 @@
 # ultrafunkamsterdam/undetected-chromedriver - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 579
+☋ Forks: 580
 
-★ Stars: 3720
+★ Stars: 3726
 
 [Open repository](https://github.com/ultrafunkamsterdam/undetected-chromedriver)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 3726 | 580 | 
 | 2023-01-17 | 3720 | 579 | 
 | 2023-01-16 | 3713 | 579 | 
 | 2023-01-15 | 3701 | 578 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-23 | 3438 | 558 | 
 | 2022-12-22 | 3430 | 556 | 
 | 2022-12-20 | 3422 | 556 | 
-| 2022-12-19 | 3417 | 555 | 
 

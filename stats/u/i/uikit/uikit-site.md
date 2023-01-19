@@ -1,6 +1,6 @@
 # uikit/uikit-site - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 332
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 357 | 332 | 
 | 2023-01-17 | 357 | 332 | 
 | 2023-01-16 | 357 | 332 | 
 | 2023-01-15 | 357 | 332 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 355 | 334 | 
 | 2022-12-21 | 355 | 334 | 
 | 2022-12-20 | 355 | 334 | 
-| 2022-12-19 | 355 | 334 | 
 

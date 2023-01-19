@@ -1,10 +1,10 @@
 # tj-actions/changed-files - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 108
+☋ Forks: 109
 
-★ Stars: 805
+★ Stars: 808
 
 [Open repository](https://github.com/tj-actions/changed-files)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 808 | 109 | 
 | 2023-01-17 | 805 | 108 | 
 | 2023-01-16 | 805 | 108 | 
 | 2023-01-15 | 804 | 108 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 779 | 101 | 
 | 2022-12-21 | 779 | 101 | 
 | 2022-12-20 | 778 | 101 | 
-| 2022-12-19 | 774 | 100 | 
 

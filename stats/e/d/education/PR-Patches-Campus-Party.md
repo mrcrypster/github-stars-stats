@@ -1,6 +1,6 @@
 # education/PR-Patches-Campus-Party - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 166
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 26 | 166 | 
 | 2023-01-17 | 26 | 166 | 
 | 2023-01-16 | 26 | 166 | 
 | 2023-01-15 | 26 | 166 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 26 | 166 | 
 | 2022-12-21 | 26 | 166 | 
 | 2022-12-20 | 26 | 166 | 
-| 2022-12-19 | 26 | 166 | 
 

@@ -1,10 +1,10 @@
 # corail-research/SeaPearl.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 5
 
-★ Stars: 120
+★ Stars: 123
 
 [Open repository](https://github.com/corail-research/SeaPearl.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 123 | 5 | 
 | 2023-01-17 | 120 | 5 | 
 | 2023-01-16 | 120 | 5 | 
 | 2023-01-15 | 120 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 120 | 5 | 
 | 2022-12-21 | 119 | 5 | 
 | 2022-12-20 | 119 | 5 | 
-| 2022-12-19 | 119 | 5 | 
 

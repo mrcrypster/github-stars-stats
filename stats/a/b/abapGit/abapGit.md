@@ -1,6 +1,6 @@
 # abapGit/abapGit - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 463
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 1123 | 463 | 
 | 2023-01-17 | 1123 | 463 | 
 | 2023-01-16 | 1123 | 463 | 
 | 2023-01-15 | 1123 | 463 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 1114 | 462 | 
 | 2022-12-21 | 1113 | 462 | 
 | 2022-12-20 | 1112 | 462 | 
-| 2022-12-19 | 1112 | 462 | 
 

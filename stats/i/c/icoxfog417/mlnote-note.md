@@ -1,10 +1,10 @@
 # icoxfog417/mlnote-note - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 6
 
-★ Stars: 190
+★ Stars: 191
 
 [Open repository](https://github.com/icoxfog417/mlnote-note)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 191 | 6 | 
 | 2023-01-17 | 190 | 6 | 
 | 2023-01-16 | 190 | 6 | 
 | 2023-01-15 | 190 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-23 | 185 | 5 | 
 | 2022-12-22 | 186 | 5 | 
 | 2022-12-21 | 185 | 5 | 
-| 2022-12-19 | 184 | 5 | 
 

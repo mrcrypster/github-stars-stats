@@ -1,10 +1,10 @@
 # wangshusen/DRL - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 363
+☋ Forks: 364
 
-★ Stars: 1662
+★ Stars: 1663
 
 [Open repository](https://github.com/wangshusen/DRL)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 1663 | 364 | 
 | 2023-01-17 | 1662 | 363 | 
 | 2023-01-16 | 1655 | 363 | 
 | 2023-01-15 | 1652 | 363 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 1595 | 353 | 
 | 2022-12-21 | 1592 | 353 | 
 | 2022-12-20 | 1590 | 352 | 
-| 2022-12-19 | 1588 | 352 | 
 

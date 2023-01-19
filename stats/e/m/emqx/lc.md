@@ -1,6 +1,6 @@
 # emqx/lc - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 5 | 4 | 
 | 2023-01-18 | 5 | 4 | 
 | 2023-01-16 | 5 | 4 | 
 | 2023-01-15 | 5 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-22 | 5 | 4 | 
 | 2022-12-21 | 4 | 3 | 
 | 2022-12-20 | 4 | 3 | 
-| 2022-12-19 | 4 | 3 | 
 

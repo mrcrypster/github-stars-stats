@@ -1,10 +1,10 @@
 # dcblogdev/laravel-db-sync - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 16
 
-★ Stars: 253
+★ Stars: 252
 
 [Open repository](https://github.com/dcblogdev/laravel-db-sync)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 252 | 16 | 
 | 2023-01-17 | 253 | 16 | 
 | 2023-01-16 | 252 | 16 | 
 | 2023-01-15 | 250 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 247 | 16 | 
 | 2022-12-21 | 247 | 16 | 
 | 2022-12-20 | 247 | 16 | 
-| 2022-12-19 | 247 | 16 | 
 

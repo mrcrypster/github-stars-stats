@@ -1,10 +1,10 @@
 # nshen/learn-neovim-lua - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 159
 
-★ Stars: 804
+★ Stars: 805
 
 [Open repository](https://github.com/nshen/learn-neovim-lua)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 805 | 159 | 
 | 2023-01-17 | 804 | 159 | 
 | 2023-01-16 | 796 | 159 | 
 | 2023-01-15 | 792 | 159 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 751 | 153 | 
 | 2022-12-21 | 749 | 153 | 
 | 2022-12-20 | 749 | 153 | 
-| 2022-12-19 | 749 | 153 | 
 

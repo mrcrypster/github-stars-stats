@@ -1,10 +1,10 @@
 # karpathy/nanoGPT - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 369
+☋ Forks: 408
 
-★ Stars: 7877
+★ Stars: 8194
 
 [Open repository](https://github.com/karpathy/nanoGPT)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 8194 | 408 | 
 | 2023-01-17 | 7877 | 369 | 
 | 2023-01-16 | 7722 | 356 | 
 | 2023-01-15 | 7532 | 347 | 

@@ -1,10 +1,10 @@
 # sebastianruder/NLP-progress - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 3544
+☋ Forks: 3545
 
-★ Stars: 21253
+★ Stars: 21256
 
 [Open repository](https://github.com/sebastianruder/NLP-progress)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 21256 | 3545 | 
 | 2023-01-18 | 21253 | 3544 | 
 | 2023-01-17 | 21246 | 3545 | 
 | 2023-01-16 | 21237 | 3546 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-22 | 21169 | 3544 | 
 | 2022-12-21 | 21165 | 3544 | 
 | 2022-12-20 | 21163 | 3542 | 
-| 2022-12-19 | 21157 | 3542 | 
 

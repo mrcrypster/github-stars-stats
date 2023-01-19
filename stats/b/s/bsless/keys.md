@@ -1,10 +1,10 @@
 # bsless/keys - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 1
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/bsless/keys)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 17 | 1 | 
 | 2023-01-17 | 16 | 1 | 
 | 2023-01-16 | 16 | 1 | 
 | 2023-01-15 | 16 | 1 | 

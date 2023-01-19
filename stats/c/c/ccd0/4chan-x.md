@@ -1,6 +1,6 @@
 # ccd0/4chan-x - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 112
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 851 | 112 | 
 | 2023-01-17 | 851 | 112 | 
 | 2023-01-16 | 851 | 112 | 
 | 2023-01-15 | 850 | 112 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 850 | 112 | 
 | 2022-12-21 | 850 | 112 | 
 | 2022-12-20 | 850 | 112 | 
-| 2022-12-19 | 850 | 112 | 
 

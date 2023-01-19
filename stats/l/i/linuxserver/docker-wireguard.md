@@ -1,10 +1,10 @@
 # linuxserver/docker-wireguard - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 221
 
-★ Stars: 1536
+★ Stars: 1544
 
 [Open repository](https://github.com/linuxserver/docker-wireguard)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 1544 | 221 | 
 | 2023-01-17 | 1536 | 221 | 
 | 2023-01-16 | 1535 | 221 | 
 | 2023-01-15 | 1531 | 220 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 1475 | 214 | 
 | 2022-12-21 | 1470 | 214 | 
 | 2022-12-20 | 1468 | 214 | 
-| 2022-12-19 | 1468 | 213 | 
 

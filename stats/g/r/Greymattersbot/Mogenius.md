@@ -1,6 +1,6 @@
 # Greymattersbot/Mogenius - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 8 | 25 | 
 | 2023-01-17 | 8 | 25 | 
 | 2023-01-16 | 8 | 26 | 
 | 2023-01-15 | 8 | 26 | 

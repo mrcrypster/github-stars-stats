@@ -1,10 +1,10 @@
 # gofireflyio/aiac - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 19
 
-☋ Forks: 30
+☋ Forks: 43
 
-★ Stars: 674
+★ Stars: 737
 
 [Open repository](https://github.com/gofireflyio/aiac)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 737 | 43 | 
+| 2023-01-18 | 723 | 42 | 
 | 2023-01-17 | 674 | 30 | 
 | 2023-01-16 | 659 | 30 | 
 | 2023-01-15 | 655 | 30 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 352 | 16 | 
 | 2022-12-21 | 338 | 16 | 
 | 2022-12-20 | 331 | 16 | 
-| 2022-12-19 | 324 | 15 | 
 

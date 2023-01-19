@@ -1,10 +1,10 @@
 # create-go-app/cli - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 221
 
-★ Stars: 1787
+★ Stars: 1786
 
 [Open repository](https://github.com/create-go-app/cli)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 1786 | 221 | 
 | 2023-01-17 | 1787 | 221 | 
 | 2023-01-16 | 1785 | 221 | 
 | 2023-01-15 | 1782 | 220 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 1680 | 215 | 
 | 2022-12-21 | 1680 | 215 | 
 | 2022-12-20 | 1680 | 215 | 
-| 2022-12-19 | 1680 | 214 | 
 

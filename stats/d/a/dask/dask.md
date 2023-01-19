@@ -1,10 +1,10 @@
 # dask/dask - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 1582
+☋ Forks: 1583
 
-★ Stars: 10670
+★ Stars: 10674
 
 [Open repository](https://github.com/dask/dask)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 10674 | 1583 | 
 | 2023-01-17 | 10670 | 1582 | 
 | 2023-01-16 | 10669 | 1582 | 
 | 2023-01-15 | 10662 | 1583 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 10597 | 1576 | 
 | 2022-12-21 | 10593 | 1576 | 
 | 2022-12-20 | 10583 | 1576 | 
-| 2022-12-19 | 10580 | 1576 | 
 

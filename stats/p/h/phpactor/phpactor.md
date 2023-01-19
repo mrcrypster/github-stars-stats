@@ -1,8 +1,8 @@
 # phpactor/phpactor - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 82
+☋ Forks: 83
 
 ★ Stars: 889
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 889 | 83 | 
 | 2023-01-17 | 889 | 82 | 
 | 2023-01-16 | 888 | 82 | 
 | 2023-01-15 | 887 | 82 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-23 | 877 | 79 | 
 | 2022-12-22 | 876 | 79 | 
 | 2022-12-21 | 876 | 79 | 
-| 2022-12-20 | 872 | 79 | 
 

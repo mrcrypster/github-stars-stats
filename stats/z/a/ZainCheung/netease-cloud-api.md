@@ -1,6 +1,6 @@
 # ZainCheung/netease-cloud-api - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 3363
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 1249 | 3363 | 
 | 2023-01-17 | 1249 | 3363 | 
 | 2023-01-16 | 1248 | 3363 | 
 | 2023-01-15 | 1248 | 3362 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-23 | 1240 | 3354 | 
 | 2022-12-22 | 1241 | 3355 | 
 | 2022-12-20 | 1240 | 3356 | 
-| 2022-12-19 | 1240 | 3355 | 
 

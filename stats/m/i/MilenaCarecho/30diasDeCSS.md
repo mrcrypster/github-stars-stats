@@ -1,10 +1,10 @@
 # MilenaCarecho/30diasDeCSS - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 282
+☋ Forks: 283
 
-★ Stars: 2576
+★ Stars: 2575
 
 [Open repository](https://github.com/MilenaCarecho/30diasDeCSS)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 2575 | 283 | 
 | 2023-01-18 | 2576 | 282 | 
 | 2023-01-16 | 2575 | 282 | 
 | 2023-01-15 | 2575 | 282 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 2547 | 281 | 
 | 2022-12-22 | 2546 | 281 | 
 | 2022-12-21 | 2545 | 281 | 
-| 2022-12-19 | 2544 | 282 | 
 

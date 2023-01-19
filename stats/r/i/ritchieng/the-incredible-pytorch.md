@@ -1,10 +1,10 @@
 # ritchieng/the-incredible-pytorch - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 1844
 
-★ Stars: 9263
+★ Stars: 9266
 
 [Open repository](https://github.com/ritchieng/the-incredible-pytorch)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 9266 | 1844 | 
 | 2023-01-17 | 9263 | 1844 | 
 | 2023-01-16 | 9262 | 1843 | 
 | 2023-01-15 | 9256 | 1843 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 9223 | 1838 | 
 | 2022-12-21 | 9222 | 1838 | 
 | 2022-12-20 | 9222 | 1838 | 
-| 2022-12-19 | 9221 | 1839 | 
 

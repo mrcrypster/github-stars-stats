@@ -1,10 +1,10 @@
 # ppooll-dev/ppooll - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 1
+☋ Forks: 0
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/ppooll-dev/ppooll)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-18 | 13 | 1 | 
+| 2023-01-19 | 14 | - | 
+| 2023-01-18 | 14 | - | 
 | 2023-01-17 | 12 | 1 | 
 

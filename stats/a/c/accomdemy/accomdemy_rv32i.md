@@ -1,6 +1,6 @@
 # accomdemy/accomdemy_rv32i - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 7 | 8 | 
 | 2023-01-17 | 7 | 8 | 
 | 2023-01-16 | 7 | 8 | 
 | 2023-01-15 | 7 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 5 | 8 | 
 | 2022-12-21 | 5 | 8 | 
 | 2022-12-20 | 5 | 8 | 
-| 2022-12-19 | 5 | 8 | 
 

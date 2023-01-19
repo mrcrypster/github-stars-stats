@@ -1,8 +1,8 @@
 # quangctkm9207/template-files - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 1787
+☋ Forks: 1796
 
 ★ Stars: 40
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 40 | 1796 | 
 | 2023-01-17 | 40 | 1787 | 
 | 2023-01-16 | 40 | 1786 | 
 | 2023-01-15 | 40 | 1784 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 39 | 1725 | 
 | 2022-12-21 | 39 | 1719 | 
 | 2022-12-20 | 39 | 1718 | 
-| 2022-12-19 | 39 | 1719 | 
 

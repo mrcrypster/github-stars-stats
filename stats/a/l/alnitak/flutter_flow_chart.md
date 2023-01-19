@@ -1,10 +1,10 @@
 # alnitak/flutter_flow_chart - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 18
 
-★ Stars: 115
+★ Stars: 117
 
 [Open repository](https://github.com/alnitak/flutter_flow_chart)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 117 | 18 | 
 | 2023-01-17 | 115 | 18 | 
 | 2023-01-16 | 114 | 18 | 
 | 2023-01-15 | 113 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-23 | 48 | 10 | 
 | 2022-12-22 | 48 | 10 | 
 | 2022-12-21 | 48 | 10 | 
-| 2022-12-20 | 48 | 10 | 
 

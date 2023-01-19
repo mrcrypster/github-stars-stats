@@ -1,6 +1,6 @@
 # MikeSchulze/gdUnit4 - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 52 | 1 | 
 | 2023-01-17 | 52 | 1 | 
 | 2023-01-16 | 52 | 1 | 
 | 2023-01-15 | 51 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 42 | 1 | 
 | 2022-12-21 | 42 | 1 | 
 | 2022-12-20 | 41 | - | 
-| 2022-12-19 | 41 | - | 
 

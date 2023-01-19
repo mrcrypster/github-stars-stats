@@ -1,10 +1,10 @@
 # gtworek/PSBits - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 353
 
-★ Stars: 1828
+★ Stars: 1829
 
 [Open repository](https://github.com/gtworek/PSBits)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 1829 | 353 | 
 | 2023-01-17 | 1828 | 353 | 
 | 2023-01-16 | 1824 | 353 | 
 | 2023-01-15 | 1817 | 353 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 1791 | 346 | 
 | 2022-12-21 | 1791 | 345 | 
 | 2022-12-20 | 1790 | 345 | 
-| 2022-12-19 | 1789 | 345 | 
 

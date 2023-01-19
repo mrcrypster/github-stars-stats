@@ -1,10 +1,10 @@
 # ajaxorg/ace - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 5239
+☋ Forks: 5240
 
-★ Stars: 25277
+★ Stars: 25280
 
 [Open repository](https://github.com/ajaxorg/ace)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 25280 | 5240 | 
 | 2023-01-17 | 25277 | 5239 | 
 | 2023-01-16 | 25275 | 5238 | 
 | 2023-01-15 | 25272 | 5237 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 25200 | 5235 | 
 | 2022-12-21 | 25200 | 5236 | 
 | 2022-12-20 | 25193 | 5237 | 
-| 2022-12-19 | 25190 | 5236 | 
 

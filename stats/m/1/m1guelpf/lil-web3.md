@@ -1,10 +1,10 @@
 # m1guelpf/lil-web3 - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 96
 
-★ Stars: 1112
+★ Stars: 1113
 
 [Open repository](https://github.com/m1guelpf/lil-web3)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 1113 | 96 | 
 | 2023-01-17 | 1112 | 96 | 
 | 2023-01-16 | 1112 | 96 | 
 | 2023-01-15 | 1111 | 96 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-23 | 1089 | 94 | 
 | 2022-12-22 | 1089 | 94 | 
 | 2022-12-21 | 1089 | 94 | 
-| 2022-12-19 | 1089 | 94 | 
 

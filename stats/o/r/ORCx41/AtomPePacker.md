@@ -1,6 +1,6 @@
 # ORCx41/AtomPePacker - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 98
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 552 | 98 | 
 | 2023-01-17 | 552 | 98 | 
 | 2023-01-16 | 552 | 98 | 
 | 2023-01-15 | 551 | 98 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-23 | 544 | 96 | 
 | 2022-12-22 | 542 | 96 | 
 | 2022-12-21 | 542 | 96 | 
-| 2022-12-20 | 542 | 96 | 
 

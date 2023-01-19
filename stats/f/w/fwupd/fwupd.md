@@ -1,10 +1,10 @@
 # fwupd/fwupd - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 330
+☋ Forks: 332
 
-★ Stars: 1998
+★ Stars: 2000
 
 [Open repository](https://github.com/fwupd/fwupd)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 2000 | 332 | 
 | 2023-01-17 | 1998 | 330 | 
 | 2023-01-16 | 1998 | 330 | 
 | 2023-01-15 | 1995 | 330 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 1969 | 326 | 
 | 2022-12-21 | 1968 | 325 | 
 | 2022-12-20 | 1966 | 325 | 
-| 2022-12-19 | 1965 | 325 | 
 

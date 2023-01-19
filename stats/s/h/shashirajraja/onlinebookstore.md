@@ -1,8 +1,8 @@
 # shashirajraja/onlinebookstore - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 1007
+☋ Forks: 1008
 
 ★ Stars: 205
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 205 | 1008 | 
 | 2023-01-18 | 205 | 1007 | 
 | 2023-01-16 | 204 | 1003 | 
 | 2023-01-15 | 203 | 993 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 198 | 953 | 
 | 2022-12-22 | 198 | 951 | 
 | 2022-12-21 | 198 | 949 | 
-| 2022-12-19 | 197 | 949 | 
 

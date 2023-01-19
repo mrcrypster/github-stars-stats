@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-4-active-model-serializer-lab - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 1757
+☋ Forks: 1758
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 1 | 1758 | 
 | 2023-01-17 | 1 | 1757 | 
 | 2023-01-16 | 1 | 1752 | 
 | 2023-01-15 | 1 | 1746 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-23 | 1 | 1704 | 
 | 2022-12-22 | 1 | 1704 | 
 | 2022-12-21 | 1 | 1702 | 
-| 2022-12-20 | 1 | 1699 | 
 

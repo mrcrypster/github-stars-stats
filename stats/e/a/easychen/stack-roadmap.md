@@ -1,10 +1,10 @@
 # easychen/stack-roadmap - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 82
+☋ Forks: 83
 
-★ Stars: 1262
+★ Stars: 1266
 
 [Open repository](https://github.com/easychen/stack-roadmap)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 1266 | 83 | 
 | 2023-01-17 | 1262 | 82 | 
 | 2023-01-16 | 1251 | 81 | 
 | 2023-01-15 | 1247 | 80 | 

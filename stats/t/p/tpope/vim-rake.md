@@ -1,6 +1,6 @@
 # tpope/vim-rake - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 236 | 20 | 
 | 2023-01-18 | 236 | 20 | 
 | 2023-01-17 | 236 | 20 | 
 | 2023-01-16 | 236 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 236 | 20 | 
 | 2022-12-22 | 236 | 20 | 
 | 2022-12-21 | 236 | 20 | 
-| 2022-12-20 | 236 | 20 | 
 

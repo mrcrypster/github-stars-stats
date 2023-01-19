@@ -1,8 +1,8 @@
 # binary-com/perl-Math-Business-BlackScholesMerton - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 11
+☋ Forks: 12
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 1 | 12 | 
 | 2023-01-17 | 1 | 11 | 
 | 2023-01-16 | 1 | 11 | 
 | 2023-01-14 | 1 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-23 | 1 | 11 | 
 | 2022-12-22 | 1 | 11 | 
 | 2022-12-21 | 1 | 11 | 
-| 2022-12-20 | 1 | 11 | 
 

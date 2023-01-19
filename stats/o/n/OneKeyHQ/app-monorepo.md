@@ -1,10 +1,10 @@
 # OneKeyHQ/app-monorepo - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 200
+☋ Forks: 199
 
-★ Stars: 1309
+★ Stars: 1310
 
 [Open repository](https://github.com/OneKeyHQ/app-monorepo)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 1310 | 199 | 
 | 2023-01-17 | 1309 | 200 | 
 | 2023-01-16 | 1309 | 199 | 
 | 2023-01-15 | 1309 | 199 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 1286 | 191 | 
 | 2022-12-21 | 1285 | 190 | 
 | 2022-12-20 | 1285 | 190 | 
-| 2022-12-19 | 1283 | 189 | 
 

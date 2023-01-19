@@ -1,6 +1,6 @@
 # coingaming/moon-design - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 201 | 14 | 
 | 2023-01-17 | 201 | 14 | 
 | 2023-01-16 | 195 | 14 | 
 | 2023-01-15 | 195 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 184 | 13 | 
 | 2022-12-21 | 184 | 13 | 
 | 2022-12-20 | 183 | 13 | 
-| 2022-12-19 | 183 | 13 | 
 

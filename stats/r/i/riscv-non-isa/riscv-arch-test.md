@@ -1,10 +1,10 @@
 # riscv-non-isa/riscv-arch-test - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 140
 
-★ Stars: 349
+★ Stars: 348
 
 [Open repository](https://github.com/riscv-non-isa/riscv-arch-test)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 348 | 140 | 
 | 2023-01-17 | 349 | 140 | 
 | 2023-01-16 | 349 | 140 | 
 | 2023-01-15 | 349 | 140 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 341 | 142 | 
 | 2022-12-21 | 341 | 142 | 
 | 2022-12-20 | 341 | 142 | 
-| 2022-12-19 | 341 | 142 | 
 

@@ -1,10 +1,10 @@
 # VSoftTechnologies/DUnitX - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 182
 
-★ Stars: 348
+★ Stars: 349
 
 [Open repository](https://github.com/VSoftTechnologies/DUnitX)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 349 | 182 | 
 | 2023-01-17 | 348 | 182 | 
 | 2023-01-16 | 348 | 182 | 
 | 2023-01-15 | 348 | 182 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 347 | 181 | 
 | 2022-12-21 | 347 | 181 | 
 | 2022-12-20 | 347 | 181 | 
-| 2022-12-19 | 347 | 181 | 
 

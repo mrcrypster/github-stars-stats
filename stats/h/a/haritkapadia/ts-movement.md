@@ -1,0 +1,18 @@
+# haritkapadia/ts-movement - stars & forks statistics
+
+Stats updated on Jan 2023, 19
+
+☋ Forks: 0
+
+★ Stars: 21
+
+[Open repository](https://github.com/haritkapadia/ts-movement)
+
+[Open detailed stats for haritkapadia/ts-movement](https://reviewgithub.com/rep/haritkapadia/ts-movement)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-01-19 | 21 | - | 
+| 2023-01-18 | 20 | - | 
+

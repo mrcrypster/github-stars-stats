@@ -1,10 +1,10 @@
 # LeDragoX/Win-10-Smart-Debloat-Tools - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 120
 
-★ Stars: 1824
+★ Stars: 1830
 
 [Open repository](https://github.com/LeDragoX/Win-10-Smart-Debloat-Tools)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 1830 | 120 | 
 | 2023-01-17 | 1824 | 120 | 
 | 2023-01-16 | 1823 | 119 | 
 | 2023-01-15 | 1816 | 119 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 1718 | 115 | 
 | 2022-12-21 | 1714 | 114 | 
 | 2022-12-20 | 1713 | 114 | 
-| 2022-12-19 | 1708 | 114 | 
 

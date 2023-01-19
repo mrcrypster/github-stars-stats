@@ -1,10 +1,10 @@
 # alessandropellegrini/risultati-asn - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 5
 
-★ Stars: 45
+★ Stars: 46
 
 [Open repository](https://github.com/alessandropellegrini/risultati-asn)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 46 | 5 | 
 | 2023-01-17 | 45 | 5 | 
 | 2023-01-16 | 45 | 5 | 
 | 2023-01-15 | 45 | 5 | 

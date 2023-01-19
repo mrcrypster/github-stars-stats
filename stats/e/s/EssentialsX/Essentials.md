@@ -1,8 +1,8 @@
 # EssentialsX/Essentials - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 868
+☋ Forks: 869
 
 ★ Stars: 1550
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 1550 | 869 | 
 | 2023-01-17 | 1550 | 868 | 
 | 2023-01-16 | 1550 | 868 | 
 | 2023-01-15 | 1548 | 867 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 1513 | 864 | 
 | 2022-12-21 | 1512 | 864 | 
 | 2022-12-20 | 1512 | 863 | 
-| 2022-12-19 | 1512 | 863 | 
 

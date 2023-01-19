@@ -1,10 +1,10 @@
 # bedimcode/portfolio-responsive-complete - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 603
 
-★ Stars: 669
+★ Stars: 670
 
 [Open repository](https://github.com/bedimcode/portfolio-responsive-complete)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 670 | 603 | 
 | 2023-01-17 | 669 | 603 | 
 | 2023-01-16 | 669 | 603 | 
 | 2023-01-15 | 668 | 601 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 655 | 600 | 
 | 2022-12-21 | 655 | 600 | 
 | 2022-12-20 | 654 | 600 | 
-| 2022-12-19 | 653 | 598 | 
 

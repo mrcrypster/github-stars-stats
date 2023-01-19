@@ -1,6 +1,6 @@
 # digital-asset/ex-bond-issuance - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 18 | 7 | 
 | 2023-01-17 | 18 | 7 | 
 | 2023-01-16 | 18 | 7 | 
 | 2023-01-15 | 18 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 18 | 7 | 
 | 2022-12-21 | 18 | 7 | 
 | 2022-12-20 | 19 | 7 | 
-| 2022-12-19 | 19 | 7 | 
 

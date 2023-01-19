@@ -1,10 +1,10 @@
 # schism-dev/schism - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 57
 
-★ Stars: 56
+★ Stars: 57
 
 [Open repository](https://github.com/schism-dev/schism)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 57 | 57 | 
 | 2023-01-17 | 56 | 57 | 
 | 2023-01-16 | 56 | 57 | 
 | 2023-01-15 | 56 | 57 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 55 | 57 | 
 | 2022-12-21 | 55 | 57 | 
 | 2022-12-20 | 55 | 57 | 
-| 2022-12-19 | 55 | 57 | 
 

@@ -1,0 +1,17 @@
+# Azure-Samples/containerapps-dapralbums - stars & forks statistics
+
+Stats updated on Jan 2023, 18
+
+☋ Forks: 39
+
+★ Stars: 2
+
+[Open repository](https://github.com/Azure-Samples/containerapps-dapralbums)
+
+[Open detailed stats for Azure-Samples/containerapps-dapralbums](https://reviewgithub.com/rep/Azure-Samples/containerapps-dapralbums)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2023-01-18 | 2 | 39 | 
+

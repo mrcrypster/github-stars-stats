@@ -1,10 +1,10 @@
 # spences10/sveltekit-vendure-commerce - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 2
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/spences10/sveltekit-vendure-commerce)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 20 | 2 | 
 | 2023-01-17 | 19 | 2 | 
 | 2023-01-16 | 19 | 2 | 
 | 2023-01-15 | 19 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 16 | 2 | 
 | 2022-12-21 | 16 | 2 | 
 | 2022-12-20 | 16 | 2 | 
-| 2022-12-19 | 16 | 2 | 
 

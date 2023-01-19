@@ -1,10 +1,10 @@
 # suljot/shellphish - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 1146
+☋ Forks: 1145
 
-★ Stars: 826
+★ Stars: 827
 
 [Open repository](https://github.com/suljot/shellphish)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 827 | 1145 | 
 | 2023-01-17 | 826 | 1146 | 
 | 2023-01-16 | 826 | 1147 | 
 | 2023-01-15 | 825 | 1148 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-23 | 810 | 1146 | 
 | 2022-12-22 | 811 | 1146 | 
 | 2022-12-21 | 810 | 1145 | 
-| 2022-12-19 | 810 | 1145 | 
 

@@ -1,10 +1,10 @@
 # Ferada/cl-tuples-old - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 0
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/Ferada/cl-tuples-old)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 2 | - | 
+| 2023-01-18 | 1 | - | 
 | 2023-01-17 | 1 | - | 
 | 2023-01-16 | 1 | - | 
 | 2023-01-15 | 1 | - | 

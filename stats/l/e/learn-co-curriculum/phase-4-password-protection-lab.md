@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-4-password-protection-lab - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 1592
+☋ Forks: 1597
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | - | 1597 | 
 | 2023-01-17 | - | 1592 | 
 | 2023-01-16 | - | 1592 | 
 | 2023-01-15 | - | 1590 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | - | 1544 | 
 | 2022-12-21 | - | 1534 | 
 | 2022-12-20 | - | 1533 | 
-| 2022-12-19 | - | 1533 | 
 

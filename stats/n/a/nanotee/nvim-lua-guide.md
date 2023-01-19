@@ -1,10 +1,10 @@
 # nanotee/nvim-lua-guide - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 180
 
-★ Stars: 5074
+★ Stars: 5077
 
 [Open repository](https://github.com/nanotee/nvim-lua-guide)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 5077 | 180 | 
 | 2023-01-17 | 5074 | 180 | 
 | 2023-01-16 | 5069 | 179 | 
 | 2023-01-15 | 5065 | 179 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 4995 | 174 | 
 | 2022-12-21 | 4989 | 174 | 
 | 2022-12-20 | 4988 | 174 | 
-| 2022-12-19 | 4979 | 174 | 
 

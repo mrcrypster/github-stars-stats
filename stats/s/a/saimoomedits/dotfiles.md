@@ -1,10 +1,10 @@
 # saimoomedits/dotfiles - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 45
 
-★ Stars: 758
+★ Stars: 759
 
 [Open repository](https://github.com/saimoomedits/dotfiles)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 759 | 45 | 
 | 2023-01-17 | 758 | 45 | 
 | 2023-01-16 | 757 | 44 | 
 | 2023-01-15 | 754 | 44 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 723 | 41 | 
 | 2022-12-21 | 723 | 41 | 
 | 2022-12-20 | 722 | 41 | 
-| 2022-12-19 | 722 | 41 | 
 

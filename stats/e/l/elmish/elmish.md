@@ -1,10 +1,10 @@
 # elmish/elmish - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 82
 
-★ Stars: 733
+★ Stars: 734
 
 [Open repository](https://github.com/elmish/elmish)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 734 | 82 | 
 | 2023-01-17 | 733 | 82 | 
 | 2023-01-16 | 733 | 82 | 
 | 2023-01-15 | 733 | 82 | 

@@ -1,8 +1,8 @@
 # Clozure/ccl - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 98
+☋ Forks: 97
 
 ★ Stars: 705
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 705 | 97 | 
 | 2023-01-17 | 705 | 98 | 
 | 2023-01-16 | 705 | 98 | 
 | 2023-01-15 | 703 | 98 | 

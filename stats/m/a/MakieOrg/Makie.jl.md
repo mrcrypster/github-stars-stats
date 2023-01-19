@@ -1,10 +1,10 @@
 # MakieOrg/Makie.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 192
 
-★ Stars: 1827
+★ Stars: 1828
 
 [Open repository](https://github.com/MakieOrg/Makie.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 1828 | 192 | 
 | 2023-01-17 | 1827 | 192 | 
 | 2023-01-16 | 1825 | 192 | 
 | 2023-01-15 | 1826 | 192 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 1804 | 185 | 
 | 2022-12-21 | 1803 | 185 | 
 | 2022-12-20 | 1801 | 184 | 
-| 2022-12-19 | 1801 | 184 | 
 

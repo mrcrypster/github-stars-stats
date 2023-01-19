@@ -1,6 +1,6 @@
 # theos/theos - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
 ☋ Forks: 1037
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 3950 | 1037 | 
 | 2023-01-17 | 3950 | 1037 | 
 | 2023-01-16 | 3950 | 1037 | 
 | 2023-01-15 | 3950 | 1037 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 3935 | 1031 | 
 | 2022-12-21 | 3935 | 1031 | 
 | 2022-12-20 | 3936 | 1031 | 
-| 2022-12-19 | 3935 | 1031 | 
 

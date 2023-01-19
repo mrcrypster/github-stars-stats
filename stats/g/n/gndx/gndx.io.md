@@ -1,10 +1,10 @@
 # gndx/gndx.io - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 47
+☋ Forks: 48
 
-★ Stars: 65
+★ Stars: 66
 
 [Open repository](https://github.com/gndx/gndx.io)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 66 | 48 | 
 | 2023-01-17 | 65 | 47 | 
 | 2023-01-16 | 65 | 47 | 
 | 2023-01-15 | 65 | 47 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 63 | 46 | 
 | 2022-12-21 | 63 | 46 | 
 | 2022-12-20 | 63 | 46 | 
-| 2022-12-19 | 63 | 46 | 
 

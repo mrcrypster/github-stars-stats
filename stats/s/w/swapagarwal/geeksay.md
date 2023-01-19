@@ -1,8 +1,8 @@
 # swapagarwal/geeksay - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 311
+☋ Forks: 310
 
 ★ Stars: 196
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 196 | 310 | 
 | 2023-01-17 | 196 | 311 | 
 | 2023-01-16 | 196 | 311 | 
 | 2023-01-15 | 196 | 311 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 195 | 311 | 
 | 2022-12-21 | 195 | 311 | 
 | 2022-12-20 | 195 | 311 | 
-| 2022-12-19 | 195 | 310 | 
 

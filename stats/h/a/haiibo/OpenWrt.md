@@ -1,10 +1,10 @@
 # haiibo/OpenWrt - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 19
 
-☋ Forks: 186
+☋ Forks: 189
 
-★ Stars: 310
+★ Stars: 311
 
 [Open repository](https://github.com/haiibo/OpenWrt)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 311 | 189 | 
 | 2023-01-17 | 310 | 186 | 
 | 2023-01-16 | 310 | 187 | 
 | 2023-01-15 | 307 | 185 | 

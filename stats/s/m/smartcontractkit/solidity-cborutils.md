@@ -1,8 +1,8 @@
 # smartcontractkit/solidity-cborutils - stars & forks statistics
 
-Stats updated on Jan 2023, 17
+Stats updated on Jan 2023, 18
 
-☋ Forks: 11
+☋ Forks: 12
 
 ★ Stars: 61
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-18 | 61 | 12 | 
 | 2023-01-17 | 61 | 11 | 
 | 2023-01-16 | 61 | 11 | 
 | 2023-01-15 | 61 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 17
 | 2022-12-22 | 61 | 11 | 
 | 2022-12-21 | 61 | 11 | 
 | 2022-12-20 | 61 | 11 | 
-| 2022-12-19 | 61 | 11 | 
 
