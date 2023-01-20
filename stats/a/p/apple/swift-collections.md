@@ -1,6 +1,6 @@
 # apple/swift-collections - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 209
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 2729 | 209 | 
 | 2023-01-18 | 2729 | 209 | 
 | 2023-01-17 | 2728 | 209 | 
 | 2023-01-16 | 2728 | 210 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 2694 | 207 | 
 | 2022-12-22 | 2693 | 207 | 
 | 2022-12-21 | 2693 | 207 | 
-| 2022-12-20 | 2692 | 207 | 
 

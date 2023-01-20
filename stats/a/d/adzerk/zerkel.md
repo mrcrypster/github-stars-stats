@@ -1,6 +1,6 @@
 # adzerk/zerkel - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 13 | 3 | 
 | 2023-01-19 | 13 | 3 | 
 | 2023-01-17 | 13 | 3 | 
 | 2023-01-16 | 13 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-23 | 13 | 3 | 
 | 2022-12-22 | 13 | 3 | 
 | 2022-12-21 | 13 | 3 | 
-| 2022-12-20 | 13 | 3 | 
 

@@ -1,10 +1,10 @@
 # AllanCameron/geomtextpath - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 21
 
-★ Stars: 544
+★ Stars: 545
 
 [Open repository](https://github.com/AllanCameron/geomtextpath)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 545 | 21 | 
 | 2023-01-18 | 544 | 21 | 
 | 2023-01-17 | 544 | 21 | 
 | 2023-01-16 | 542 | 21 | 

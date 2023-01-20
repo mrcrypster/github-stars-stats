@@ -1,10 +1,10 @@
 # dotnet/spa-templates - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 31
 
-★ Stars: 47
+★ Stars: 48
 
 [Open repository](https://github.com/dotnet/spa-templates)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 48 | 31 | 
 | 2023-01-19 | 47 | 31 | 
 | 2023-01-17 | 47 | 31 | 
 | 2023-01-16 | 47 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 43 | 29 | 
 | 2022-12-23 | 43 | 29 | 
 | 2022-12-22 | 43 | 29 | 
-| 2022-12-21 | 43 | 29 | 
 

@@ -1,10 +1,10 @@
 # ThereforeGames/txt2mask - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 33
 
-★ Stars: 408
+★ Stars: 409
 
 [Open repository](https://github.com/ThereforeGames/txt2mask)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 409 | 33 | 
 | 2023-01-18 | 408 | 33 | 
 | 2023-01-17 | 407 | 33 | 
 | 2023-01-16 | 407 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 399 | 34 | 
 | 2022-12-22 | 399 | 34 | 
 | 2022-12-21 | 398 | 34 | 
-| 2022-12-20 | 397 | 34 | 
 

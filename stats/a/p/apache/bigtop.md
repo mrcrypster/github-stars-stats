@@ -1,6 +1,6 @@
 # apache/bigtop - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 430
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 462 | 430 | 
 | 2023-01-18 | 462 | 430 | 
 | 2023-01-17 | 462 | 430 | 
 | 2023-01-16 | 462 | 430 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-24 | 459 | 427 | 
 | 2022-12-23 | 459 | 427 | 
 | 2022-12-22 | 459 | 427 | 
-| 2022-12-21 | 459 | 427 | 
 

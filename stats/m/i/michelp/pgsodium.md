@@ -1,10 +1,10 @@
 # michelp/pgsodium - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 22
 
-★ Stars: 391
+★ Stars: 392
 
 [Open repository](https://github.com/michelp/pgsodium)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 392 | 22 | 
 | 2023-01-18 | 391 | 22 | 
 | 2023-01-17 | 391 | 22 | 
 | 2023-01-16 | 391 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 386 | 22 | 
 | 2022-12-22 | 385 | 21 | 
 | 2022-12-21 | 385 | 21 | 
-| 2022-12-20 | 381 | 21 | 
 

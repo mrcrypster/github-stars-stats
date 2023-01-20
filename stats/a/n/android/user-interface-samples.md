@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 19
 
-☋ Forks: 1557
+☋ Forks: 1558
 
-★ Stars: 3751
+★ Stars: 3754
 
 [Open repository](https://github.com/android/user-interface-samples)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-19 | 3751 | 1557 | 
+| 2023-01-19 | 3754 | 1558 | 
 | 2023-01-18 | 3751 | 1557 | 
 | 2023-01-17 | 3746 | 1555 | 
 | 2023-01-16 | 3744 | 1554 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-23 | 3705 | 1548 | 
 | 2022-12-22 | 3705 | 1548 | 
 | 2022-12-21 | 3704 | 1548 | 
-| 2022-12-20 | 3700 | 1548 | 
 

@@ -1,10 +1,10 @@
 # MinecraftForge/MinecraftForge - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 2466
+☋ Forks: 2465
 
-★ Stars: 5929
+★ Stars: 5933
 
 [Open repository](https://github.com/MinecraftForge/MinecraftForge)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 5933 | 2465 | 
 | 2023-01-18 | 5929 | 2466 | 
 | 2023-01-17 | 5929 | 2468 | 
 | 2023-01-16 | 5924 | 2467 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 5886 | 2454 | 
 | 2022-12-22 | 5884 | 2450 | 
 | 2022-12-21 | 5881 | 2450 | 
-| 2022-12-20 | 5879 | 2448 | 
 

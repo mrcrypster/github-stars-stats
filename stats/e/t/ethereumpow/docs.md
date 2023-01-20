@@ -1,10 +1,10 @@
 # ethereumpow/docs - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 17
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/ethereumpow/docs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 27 | 17 | 
 | 2023-01-18 | 26 | 17 | 
 | 2023-01-17 | 26 | 17 | 
 | 2023-01-16 | 26 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 27 | 17 | 
 | 2022-12-22 | 27 | 17 | 
 | 2022-12-21 | 27 | 17 | 
-| 2022-12-20 | 27 | 17 | 
 

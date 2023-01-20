@@ -1,6 +1,6 @@
 # shawwn/wiki - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 44 | 10 | 
 | 2023-01-18 | 44 | 10 | 
 | 2023-01-17 | 44 | 10 | 
 | 2023-01-16 | 44 | 10 | 

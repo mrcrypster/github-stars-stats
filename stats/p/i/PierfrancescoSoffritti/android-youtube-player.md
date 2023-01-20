@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 19
 
-☋ Forks: 661
+☋ Forks: 662
 
-★ Stars: 2907
+★ Stars: 2909
 
 [Open repository](https://github.com/PierfrancescoSoffritti/android-youtube-player)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-19 | 2907 | 661 | 
+| 2023-01-19 | 2909 | 662 | 
 | 2023-01-18 | 2906 | 661 | 
 | 2023-01-17 | 2903 | 661 | 
 | 2023-01-16 | 2902 | 662 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-23 | 2878 | 660 | 
 | 2022-12-22 | 2877 | 660 | 
 | 2022-12-21 | 2876 | 660 | 
-| 2022-12-20 | 2875 | 660 | 
 

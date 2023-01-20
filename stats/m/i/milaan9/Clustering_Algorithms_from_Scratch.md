@@ -1,6 +1,6 @@
 # milaan9/Clustering_Algorithms_from_Scratch - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 168
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 170 | 168 | 
 | 2023-01-18 | 170 | 168 | 
 | 2023-01-17 | 171 | 169 | 
 | 2023-01-16 | 171 | 169 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 170 | 169 | 
 | 2022-12-22 | 170 | 169 | 
 | 2022-12-21 | 170 | 169 | 
-| 2022-12-20 | 170 | 169 | 
 

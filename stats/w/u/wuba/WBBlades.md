@@ -1,10 +1,10 @@
 # wuba/WBBlades - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 158
 
-★ Stars: 1116
+★ Stars: 1117
 
 [Open repository](https://github.com/wuba/WBBlades)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 1117 | 158 | 
 | 2023-01-18 | 1116 | 158 | 
 | 2023-01-17 | 1114 | 158 | 
 | 2023-01-16 | 1112 | 157 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 1069 | 150 | 
 | 2022-12-22 | 1068 | 150 | 
 | 2022-12-21 | 1065 | 149 | 
-| 2022-12-20 | 1062 | 149 | 
 

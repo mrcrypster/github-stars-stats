@@ -1,6 +1,6 @@
 # wilsomwong/Asus-TUF-FX504GE-Hackintosh - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 11 | 6 | 
 | 2023-01-18 | 11 | 6 | 
 | 2023-01-17 | 11 | 6 | 
 | 2023-01-15 | 11 | 6 | 

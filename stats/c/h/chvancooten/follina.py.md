@@ -1,10 +1,10 @@
 # chvancooten/follina.py - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 249
 
-★ Stars: 1071
+★ Stars: 1073
 
 [Open repository](https://github.com/chvancooten/follina.py)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 1073 | 249 | 
 | 2023-01-18 | 1071 | 249 | 
 | 2023-01-17 | 1071 | 249 | 
 | 2023-01-15 | 1070 | 249 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 1064 | 248 | 
 | 2022-12-22 | 1063 | 248 | 
 | 2022-12-21 | 1062 | 248 | 
-| 2022-12-20 | 1062 | 248 | 
 

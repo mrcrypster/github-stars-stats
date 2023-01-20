@@ -1,6 +1,6 @@
 # minitest/minitest - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 528
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 3098 | 528 | 
 | 2023-01-18 | 3098 | 528 | 
 | 2023-01-17 | 3099 | 528 | 
 | 2023-01-16 | 3099 | 528 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-24 | 3095 | 527 | 
 | 2022-12-23 | 3095 | 527 | 
 | 2022-12-21 | 3096 | 527 | 
-| 2022-12-20 | 3096 | 527 | 
 

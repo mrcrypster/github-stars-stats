@@ -1,6 +1,6 @@
 # Tim-ats-d/Macron - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 10 | - | 
 | 2023-01-18 | 10 | - | 
 | 2023-01-17 | 10 | - | 
 | 2023-01-16 | 10 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 8 | - | 
 | 2022-12-22 | 8 | - | 
 | 2022-12-21 | 8 | - | 
-| 2022-12-20 | 8 | - | 
 

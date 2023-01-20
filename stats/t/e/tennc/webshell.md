@@ -1,10 +1,10 @@
 # tennc/webshell - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 5508
+☋ Forks: 5509
 
-★ Stars: 8734
+★ Stars: 8736
 
 [Open repository](https://github.com/tennc/webshell)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 8736 | 5509 | 
 | 2023-01-18 | 8734 | 5508 | 
 | 2023-01-17 | 8734 | 5507 | 
 | 2023-01-16 | 8732 | 5504 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 8684 | 5485 | 
 | 2022-12-22 | 8679 | 5481 | 
 | 2022-12-21 | 8678 | 5480 | 
-| 2022-12-20 | 8671 | 5479 | 
 

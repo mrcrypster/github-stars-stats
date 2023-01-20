@@ -1,6 +1,6 @@
 # treeform/fidget - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 685 | 32 | 
 | 2023-01-18 | 685 | 32 | 
 | 2023-01-17 | 685 | 31 | 
 | 2023-01-16 | 684 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 676 | 31 | 
 | 2022-12-22 | 675 | 30 | 
 | 2022-12-21 | 673 | 30 | 
-| 2022-12-20 | 672 | 30 | 
 

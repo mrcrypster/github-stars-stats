@@ -1,8 +1,8 @@
 # open-mpi/oac - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 5
+☋ Forks: 4
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 1 | 4 | 
 | 2023-01-18 | 1 | 5 | 
 | 2023-01-17 | 1 | 5 | 
 | 2023-01-16 | 1 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 1 | 5 | 
 | 2022-12-22 | 1 | 5 | 
 | 2022-12-21 | 1 | 5 | 
-| 2022-12-20 | 1 | 5 | 
 

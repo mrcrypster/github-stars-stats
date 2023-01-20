@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 19
 
 ☋ Forks: 562
 
-★ Stars: 248
+★ Stars: 247
 
 [Open repository](https://github.com/reduxjs/redux-essentials-example-app)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-19 | 248 | 562 | 
+| 2023-01-19 | 247 | 562 | 
 | 2023-01-18 | 248 | 562 | 
 | 2023-01-16 | 247 | 558 | 
 | 2023-01-15 | 246 | 558 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-23 | 244 | 544 | 
 | 2022-12-22 | 244 | 545 | 
 | 2022-12-21 | 244 | 545 | 
-| 2022-12-20 | 244 | 545 | 
 

@@ -1,10 +1,10 @@
 # meshtastic/firmware - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 398
+☋ Forks: 399
 
-★ Stars: 1864
+★ Stars: 1869
 
 [Open repository](https://github.com/meshtastic/firmware)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 1869 | 399 | 
 | 2023-01-18 | 1864 | 398 | 
 | 2023-01-17 | 1861 | 398 | 
 | 2023-01-16 | 1859 | 396 | 

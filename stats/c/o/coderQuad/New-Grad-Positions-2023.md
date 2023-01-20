@@ -1,10 +1,10 @@
 # coderQuad/New-Grad-Positions-2023 - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 789
 
-★ Stars: 5648
+★ Stars: 5657
 
 [Open repository](https://github.com/coderQuad/New-Grad-Positions-2023)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 5657 | 789 | 
 | 2023-01-18 | 5648 | 789 | 
 | 2023-01-17 | 5639 | 785 | 
 | 2023-01-16 | 5637 | 785 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 5440 | 761 | 
 | 2022-12-22 | 5439 | 761 | 
 | 2022-12-21 | 5438 | 760 | 
-| 2022-12-20 | 5435 | 758 | 
 

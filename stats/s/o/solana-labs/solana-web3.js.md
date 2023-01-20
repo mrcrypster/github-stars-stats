@@ -1,10 +1,10 @@
 # solana-labs/solana-web3.js - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 465
 
-★ Stars: 1358
+★ Stars: 1357
 
 [Open repository](https://github.com/solana-labs/solana-web3.js)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 1357 | 465 | 
 | 2023-01-18 | 1358 | 465 | 
 | 2023-01-17 | 1358 | 465 | 
 | 2023-01-16 | 1358 | 465 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 1352 | 460 | 
 | 2022-12-22 | 1352 | 460 | 
 | 2022-12-21 | 1351 | 460 | 
-| 2022-12-20 | 1350 | 460 | 
 

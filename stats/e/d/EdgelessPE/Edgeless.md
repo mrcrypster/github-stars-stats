@@ -1,10 +1,10 @@
 # EdgelessPE/Edgeless - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 45
 
-★ Stars: 649
+★ Stars: 652
 
 [Open repository](https://github.com/EdgelessPE/Edgeless)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 652 | 45 | 
 | 2023-01-18 | 649 | 45 | 
 | 2023-01-17 | 649 | 45 | 
 | 2023-01-16 | 649 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 628 | 44 | 
 | 2022-12-22 | 626 | 44 | 
 | 2022-12-21 | 627 | 44 | 
-| 2022-12-20 | 626 | 44 | 
 

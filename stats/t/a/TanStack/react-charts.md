@@ -1,10 +1,10 @@
 # TanStack/react-charts - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 202
 
-★ Stars: 2349
+★ Stars: 2351
 
 [Open repository](https://github.com/TanStack/react-charts)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 2351 | 202 | 
 | 2023-01-18 | 2349 | 202 | 
 | 2023-01-17 | 2347 | 202 | 
 | 2023-01-16 | 2344 | 202 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 2317 | 199 | 
 | 2022-12-22 | 2316 | 199 | 
 | 2022-12-21 | 2315 | 198 | 
-| 2022-12-20 | 2314 | 198 | 
 

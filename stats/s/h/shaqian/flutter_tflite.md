@@ -1,8 +1,8 @@
 # shaqian/flutter_tflite - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 333
+☋ Forks: 334
 
 ★ Stars: 586
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 586 | 334 | 
 | 2023-01-18 | 586 | 333 | 
 | 2023-01-17 | 586 | 332 | 
 | 2023-01-16 | 586 | 331 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 583 | 325 | 
 | 2022-12-22 | 583 | 324 | 
 | 2022-12-21 | 583 | 324 | 
-| 2022-12-20 | 583 | 324 | 
 

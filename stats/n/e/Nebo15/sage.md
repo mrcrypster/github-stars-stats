@@ -1,6 +1,6 @@
 # Nebo15/sage - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 797 | 37 | 
 | 2023-01-18 | 797 | 37 | 
 | 2023-01-17 | 797 | 37 | 
 | 2023-01-16 | 797 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 792 | 36 | 
 | 2022-12-22 | 791 | 36 | 
 | 2022-12-21 | 791 | 36 | 
-| 2022-12-20 | 791 | 36 | 
 

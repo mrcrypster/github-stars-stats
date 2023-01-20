@@ -1,8 +1,8 @@
 # kellydevops/Meterials - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 144
+☋ Forks: 145
 
 ★ Stars: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 4 | 145 | 
 | 2023-01-18 | 4 | 144 | 
 | 2023-01-17 | 4 | 144 | 
 | 2023-01-16 | 4 | 144 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 4 | 136 | 
 | 2022-12-22 | 4 | 135 | 
 | 2022-12-21 | 4 | 133 | 
-| 2022-12-20 | 4 | 133 | 
 

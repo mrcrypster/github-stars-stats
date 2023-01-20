@@ -1,6 +1,6 @@
 # HelixLauncher/HelixLauncher - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 38 | - | 
 | 2023-01-18 | 38 | - | 
 | 2023-01-17 | 38 | - | 
 | 2023-01-16 | 38 | - | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 36 | - | 
 | 2022-12-22 | 36 | - | 
 | 2022-12-21 | 34 | - | 
-| 2022-12-20 | 34 | - | 
 

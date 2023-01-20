@@ -1,10 +1,10 @@
 # faker-ruby/faker - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 3036
+☋ Forks: 3040
 
-★ Stars: 10564
+★ Stars: 10567
 
 [Open repository](https://github.com/faker-ruby/faker)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 10567 | 3040 | 
 | 2023-01-18 | 10564 | 3036 | 
 | 2023-01-17 | 10561 | 3036 | 
 | 2023-01-16 | 10559 | 3036 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 10543 | 3036 | 
 | 2022-12-22 | 10541 | 3037 | 
 | 2022-12-21 | 10539 | 3037 | 
-| 2022-12-20 | 10538 | 3035 | 
 

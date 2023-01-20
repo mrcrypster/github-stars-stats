@@ -1,8 +1,8 @@
 # JetBrains/intellij-community - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 4748
+☋ Forks: 4747
 
 ★ Stars: 14810
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 14810 | 4747 | 
 | 2023-01-18 | 14810 | 4748 | 
 | 2023-01-17 | 14805 | 4747 | 
 | 2023-01-16 | 14796 | 4746 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 14723 | 4733 | 
 | 2022-12-22 | 14719 | 4733 | 
 | 2022-12-21 | 14716 | 4732 | 
-| 2022-12-20 | 14712 | 4732 | 
 

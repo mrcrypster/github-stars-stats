@@ -1,10 +1,10 @@
 # hapijs/joi - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 1526
+☋ Forks: 1528
 
-★ Stars: 19617
+★ Stars: 19627
 
 [Open repository](https://github.com/hapijs/joi)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 19627 | 1528 | 
 | 2023-01-18 | 19617 | 1526 | 
 | 2023-01-17 | 19609 | 1526 | 
 | 2023-01-16 | 19605 | 1526 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 19546 | 1524 | 
 | 2022-12-22 | 19543 | 1524 | 
 | 2022-12-21 | 19537 | 1524 | 
-| 2022-12-20 | 19535 | 1523 | 
 

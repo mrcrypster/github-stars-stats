@@ -1,8 +1,8 @@
 # argoflow/argoflow - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 227
+☋ Forks: 228
 
 ★ Stars: 123
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 123 | 228 | 
 | 2023-01-18 | 123 | 227 | 
 | 2023-01-17 | 123 | 226 | 
 | 2023-01-16 | 123 | 226 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 123 | 225 | 
 | 2022-12-22 | 122 | 225 | 
 | 2022-12-21 | 122 | 225 | 
-| 2022-12-20 | 122 | 225 | 
 

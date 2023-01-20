@@ -1,10 +1,10 @@
 # zotroneneis/machine_learning_basics - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 787
 
-★ Stars: 3888
+★ Stars: 3889
 
 [Open repository](https://github.com/zotroneneis/machine_learning_basics)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 3889 | 787 | 
 | 2023-01-18 | 3888 | 787 | 
 | 2023-01-17 | 3887 | 786 | 
 | 2023-01-16 | 3887 | 786 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 3852 | 784 | 
 | 2022-12-22 | 3851 | 784 | 
 | 2022-12-21 | 3850 | 784 | 
-| 2022-12-20 | 3850 | 784 | 
 

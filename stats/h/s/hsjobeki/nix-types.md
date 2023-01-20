@@ -1,10 +1,10 @@
 # hsjobeki/nix-types - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 0
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/hsjobeki/nix-types)
 
@@ -13,5 +13,6 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 28 | - | 
 | 2023-01-18 | 27 | - | 
 

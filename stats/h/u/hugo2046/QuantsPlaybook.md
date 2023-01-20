@@ -1,10 +1,10 @@
 # hugo2046/QuantsPlaybook - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 266
+☋ Forks: 268
 
-★ Stars: 815
+★ Stars: 818
 
 [Open repository](https://github.com/hugo2046/QuantsPlaybook)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 818 | 268 | 
 | 2023-01-18 | 815 | 266 | 
 | 2023-01-17 | 808 | 265 | 
 | 2023-01-16 | 804 | 264 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 764 | 258 | 
 | 2022-12-22 | 763 | 258 | 
 | 2022-12-21 | 761 | 258 | 
-| 2022-12-20 | 759 | 257 | 
 

@@ -1,6 +1,6 @@
 # gsasansol/GirlScript-Asansol - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 78
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 57 | 78 | 
 | 2023-01-19 | 57 | 78 | 
 | 2023-01-18 | 57 | 79 | 
 | 2023-01-16 | 57 | 79 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-23 | 58 | 79 | 
 | 2022-12-22 | 58 | 79 | 
 | 2022-12-21 | 58 | 79 | 
-| 2022-12-20 | 58 | 79 | 
 

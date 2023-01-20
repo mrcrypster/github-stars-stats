@@ -1,8 +1,8 @@
 # fr0gger/IATelligence - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 31
+☋ Forks: 32
 
 ★ Stars: 295
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 295 | 32 | 
 | 2023-01-18 | 295 | 31 | 
 | 2023-01-17 | 293 | 31 | 
 | 2023-01-16 | 288 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 253 | 27 | 
 | 2022-12-22 | 250 | 27 | 
 | 2022-12-21 | 249 | 23 | 
-| 2022-12-20 | 241 | 22 | 
 

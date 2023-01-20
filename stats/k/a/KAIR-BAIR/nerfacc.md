@@ -1,10 +1,10 @@
 # KAIR-BAIR/nerfacc - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 60
+☋ Forks: 59
 
-★ Stars: 767
+★ Stars: 771
 
 [Open repository](https://github.com/KAIR-BAIR/nerfacc)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 771 | 59 | 
 | 2023-01-18 | 767 | 60 | 
 | 2023-01-17 | 765 | 60 | 
 | 2023-01-16 | 765 | 59 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 727 | 54 | 
 | 2022-12-22 | 725 | 54 | 
 | 2022-12-21 | 721 | 53 | 
-| 2022-12-20 | 720 | 53 | 
 

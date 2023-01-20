@@ -1,10 +1,10 @@
 # bpmn-io/bpmn-js - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 1122
+☋ Forks: 1124
 
-★ Stars: 6848
+★ Stars: 6850
 
 [Open repository](https://github.com/bpmn-io/bpmn-js)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 6850 | 1124 | 
 | 2023-01-18 | 6848 | 1122 | 
 | 2023-01-17 | 6848 | 1122 | 
 | 2023-01-16 | 6844 | 1121 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 6805 | 1113 | 
 | 2022-12-22 | 6805 | 1113 | 
 | 2022-12-21 | 6804 | 1112 | 
-| 2022-12-20 | 6803 | 1112 | 
 

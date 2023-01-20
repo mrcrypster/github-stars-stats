@@ -1,10 +1,10 @@
 # RivaanRanawat/flutter-google-docs-clone - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 33
 
-★ Stars: 85
+★ Stars: 84
 
 [Open repository](https://github.com/RivaanRanawat/flutter-google-docs-clone)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 84 | 33 | 
 | 2023-01-18 | 85 | 33 | 
 | 2023-01-17 | 85 | 33 | 
 | 2023-01-16 | 85 | 33 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 81 | 31 | 
 | 2022-12-22 | 81 | 31 | 
 | 2022-12-21 | 81 | 31 | 
-| 2022-12-20 | 81 | 31 | 
 

@@ -1,6 +1,6 @@
 # dagolden/Path-Tiny - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 40 | 55 | 
 | 2023-01-18 | 40 | 55 | 
 | 2023-01-17 | 40 | 55 | 
 | 2023-01-16 | 40 | 55 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 40 | 54 | 
 | 2022-12-22 | 40 | 54 | 
 | 2022-12-21 | 40 | 54 | 
-| 2022-12-20 | 40 | 54 | 
 

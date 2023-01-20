@@ -1,10 +1,10 @@
 # MikeSchulze/gdUnit3 - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 19
 
-★ Stars: 253
+★ Stars: 254
 
 [Open repository](https://github.com/MikeSchulze/gdUnit3)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 254 | 19 | 
 | 2023-01-18 | 253 | 19 | 
 | 2023-01-17 | 253 | 19 | 
 | 2023-01-16 | 253 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 245 | 19 | 
 | 2022-12-22 | 245 | 19 | 
 | 2022-12-21 | 245 | 19 | 
-| 2022-12-20 | 245 | 19 | 
 

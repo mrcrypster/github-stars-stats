@@ -1,6 +1,6 @@
 # komrad36/FastArrayOps - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 30 | 1 | 
 | 2023-01-18 | 30 | 1 | 
 | 2023-01-17 | 30 | 1 | 
 | 2023-01-16 | 30 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-24 | 29 | 1 | 
 | 2022-12-23 | 28 | 1 | 
 | 2022-12-21 | 28 | 1 | 
-| 2022-12-20 | 28 | 1 | 
 

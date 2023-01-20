@@ -1,10 +1,10 @@
 # borglab/gtsam - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 603
 
-★ Stars: 1783
+★ Stars: 1785
 
 [Open repository](https://github.com/borglab/gtsam)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 1785 | 603 | 
 | 2023-01-18 | 1783 | 603 | 
 | 2023-01-17 | 1783 | 603 | 
 | 2023-01-16 | 1780 | 603 | 

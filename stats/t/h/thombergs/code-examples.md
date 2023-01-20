@@ -1,10 +1,10 @@
 # thombergs/code-examples - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 2239
+☋ Forks: 2241
 
-★ Stars: 2093
+★ Stars: 2095
 
 [Open repository](https://github.com/thombergs/code-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 2095 | 2241 | 
 | 2023-01-18 | 2093 | 2239 | 
 | 2023-01-17 | 2090 | 2234 | 
 | 2023-01-16 | 2088 | 2233 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 2057 | 2196 | 
 | 2022-12-22 | 2055 | 2195 | 
 | 2022-12-21 | 2050 | 2193 | 
-| 2022-12-20 | 2048 | 2192 | 
 

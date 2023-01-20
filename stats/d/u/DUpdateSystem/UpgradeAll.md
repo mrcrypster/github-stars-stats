@@ -1,10 +1,10 @@
 # DUpdateSystem/UpgradeAll - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 18
 
-★ Stars: 586
+★ Stars: 587
 
 [Open repository](https://github.com/DUpdateSystem/UpgradeAll)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 587 | 18 | 
 | 2023-01-18 | 586 | 18 | 
 | 2023-01-17 | 586 | 18 | 
 | 2023-01-16 | 585 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 572 | 17 | 
 | 2022-12-22 | 572 | 17 | 
 | 2022-12-21 | 573 | 17 | 
-| 2022-12-20 | 572 | 17 | 
 

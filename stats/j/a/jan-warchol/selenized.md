@@ -1,10 +1,10 @@
 # jan-warchol/selenized - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 43
 
-★ Stars: 564
+★ Stars: 565
 
 [Open repository](https://github.com/jan-warchol/selenized)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 565 | 43 | 
 | 2023-01-18 | 564 | 43 | 
 | 2023-01-17 | 564 | 43 | 
 | 2023-01-15 | 564 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 556 | 44 | 
 | 2022-12-22 | 556 | 44 | 
 | 2022-12-21 | 556 | 44 | 
-| 2022-12-20 | 556 | 44 | 
 

@@ -1,6 +1,6 @@
 # rap2hpoutre/fast-excel - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 208
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 1749 | 208 | 
 | 2023-01-18 | 1749 | 208 | 
 | 2023-01-17 | 1749 | 208 | 
 | 2023-01-16 | 1749 | 208 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 1726 | 205 | 
 | 2022-12-22 | 1726 | 205 | 
 | 2022-12-21 | 1724 | 204 | 
-| 2022-12-20 | 1721 | 204 | 
 

@@ -1,6 +1,6 @@
 # Azure/Service-Fabric-Troubleshooting-Guides - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 98
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 108 | 98 | 
 | 2023-01-18 | 108 | 98 | 
 | 2023-01-17 | 108 | 98 | 
 | 2023-01-16 | 108 | 98 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 105 | 96 | 
 | 2022-12-22 | 104 | 96 | 
 | 2022-12-21 | 104 | 96 | 
-| 2022-12-20 | 104 | 96 | 
 

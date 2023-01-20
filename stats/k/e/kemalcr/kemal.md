@@ -1,10 +1,10 @@
 # kemalcr/kemal - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 169
+☋ Forks: 170
 
-★ Stars: 3421
+★ Stars: 3422
 
 [Open repository](https://github.com/kemalcr/kemal)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 3422 | 170 | 
 | 2023-01-18 | 3421 | 169 | 
 | 2023-01-17 | 3418 | 169 | 
 | 2023-01-16 | 3417 | 169 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 3413 | 169 | 
 | 2022-12-22 | 3412 | 169 | 
 | 2022-12-21 | 3412 | 169 | 
-| 2022-12-20 | 3412 | 169 | 
 

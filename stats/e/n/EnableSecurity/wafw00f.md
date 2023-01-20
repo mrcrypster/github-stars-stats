@@ -1,10 +1,10 @@
 # EnableSecurity/wafw00f - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 822
+☋ Forks: 823
 
-★ Stars: 3890
+★ Stars: 3891
 
 [Open repository](https://github.com/EnableSecurity/wafw00f)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 3891 | 823 | 
 | 2023-01-19 | 3890 | 822 | 
 | 2023-01-17 | 3887 | 823 | 
 | 2023-01-16 | 3886 | 821 | 

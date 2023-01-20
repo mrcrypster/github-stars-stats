@@ -1,8 +1,8 @@
 # mackstann/tinywm - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 143
+☋ Forks: 144
 
 ★ Stars: 1329
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 1329 | 144 | 
 | 2023-01-18 | 1329 | 143 | 
 | 2023-01-17 | 1329 | 143 | 
 | 2023-01-16 | 1328 | 142 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 1323 | 141 | 
 | 2022-12-22 | 1323 | 141 | 
 | 2022-12-21 | 1322 | 141 | 
-| 2022-12-20 | 1322 | 141 | 
 

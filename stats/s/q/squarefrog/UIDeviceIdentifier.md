@@ -1,6 +1,6 @@
 # squarefrog/UIDeviceIdentifier - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 238 | 56 | 
 | 2023-01-18 | 238 | 56 | 
 | 2023-01-17 | 238 | 56 | 
 | 2023-01-16 | 238 | 56 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 238 | 56 | 
 | 2022-12-22 | 238 | 56 | 
 | 2022-12-21 | 238 | 56 | 
-| 2022-12-20 | 238 | 56 | 
 

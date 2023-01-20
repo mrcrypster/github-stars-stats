@@ -1,10 +1,10 @@
 # FastVM/Web49 - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 9
 
-★ Stars: 262
+★ Stars: 263
 
 [Open repository](https://github.com/FastVM/Web49)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 263 | 9 | 
+| 2023-01-19 | 263 | 9 | 
 | 2023-01-18 | 262 | 9 | 
 | 2023-01-17 | 243 | 8 | 
 | 2023-01-16 | 232 | 7 | 

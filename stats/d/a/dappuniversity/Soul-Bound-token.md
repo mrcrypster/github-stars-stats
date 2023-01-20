@@ -1,10 +1,10 @@
 # dappuniversity/Soul-Bound-token - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 8
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/dappuniversity/Soul-Bound-token)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 28 | 8 | 
 | 2023-01-19 | 27 | 8 | 
 | 2023-01-17 | 27 | 8 | 
 | 2023-01-16 | 27 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-23 | 27 | 8 | 
 | 2022-12-22 | 27 | 8 | 
 | 2022-12-21 | 27 | 8 | 
-| 2022-12-20 | 27 | 8 | 
 

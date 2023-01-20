@@ -1,6 +1,6 @@
 # feelfreelinux/octo4a - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 96
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 1069 | 96 | 
 | 2023-01-18 | 1069 | 96 | 
 | 2023-01-17 | 1068 | 96 | 
 | 2023-01-16 | 1063 | 96 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 1030 | 95 | 
 | 2022-12-22 | 1030 | 94 | 
 | 2022-12-21 | 1030 | 93 | 
-| 2022-12-20 | 1029 | 93 | 
 

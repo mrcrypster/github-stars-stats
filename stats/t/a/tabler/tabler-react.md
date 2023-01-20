@@ -1,10 +1,10 @@
 # tabler/tabler-react - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 509
 
-★ Stars: 2112
+★ Stars: 2113
 
 [Open repository](https://github.com/tabler/tabler-react)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 2113 | 509 | 
 | 2023-01-18 | 2112 | 509 | 
 | 2023-01-17 | 2111 | 509 | 
 | 2023-01-16 | 2111 | 509 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 2104 | 507 | 
 | 2022-12-22 | 2104 | 506 | 
 | 2022-12-21 | 2103 | 506 | 
-| 2022-12-20 | 2103 | 506 | 
 

@@ -1,8 +1,8 @@
 # woodongwong/tvfix - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 34
+☋ Forks: 35
 
 ★ Stars: 98
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 98 | 35 | 
 | 2023-01-18 | 98 | 34 | 
 | 2023-01-17 | 98 | 33 | 
 | 2023-01-16 | 98 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 96 | 32 | 
 | 2022-12-22 | 96 | 32 | 
 | 2022-12-21 | 95 | 32 | 
-| 2022-12-20 | 95 | 32 | 
 

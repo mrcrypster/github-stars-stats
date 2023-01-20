@@ -1,6 +1,6 @@
 # NiclasEriksen/game-of-leif - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 28 | 4 | 
 | 2023-01-18 | 28 | 4 | 
 | 2023-01-17 | 28 | 4 | 
 | 2023-01-16 | 28 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 27 | 4 | 
 | 2022-12-22 | 27 | 4 | 
 | 2022-12-21 | 27 | 4 | 
-| 2022-12-20 | 27 | 4 | 
 

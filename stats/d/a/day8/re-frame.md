@@ -1,10 +1,10 @@
 # day8/re-frame - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 728
 
-★ Stars: 5226
+★ Stars: 5227
 
 [Open repository](https://github.com/day8/re-frame)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 5227 | 728 | 
 | 2023-01-18 | 5226 | 728 | 
 | 2023-01-17 | 5226 | 728 | 
 | 2023-01-16 | 5224 | 728 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 5215 | 728 | 
 | 2022-12-22 | 5216 | 728 | 
 | 2022-12-21 | 5215 | 728 | 
-| 2022-12-20 | 5214 | 728 | 
 

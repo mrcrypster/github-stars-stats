@@ -1,6 +1,6 @@
 # traderjoe-xyz/joe-core - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 74
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 117 | 74 | 
 | 2023-01-18 | 117 | 74 | 
 | 2023-01-17 | 117 | 74 | 
 | 2023-01-15 | 117 | 74 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 116 | 71 | 
 | 2022-12-22 | 116 | 71 | 
 | 2022-12-21 | 116 | 71 | 
-| 2022-12-20 | 116 | 71 | 
 

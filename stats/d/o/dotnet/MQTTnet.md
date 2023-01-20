@@ -4,7 +4,7 @@ Stats updated on Jan 2023, 19
 
 ☋ Forks: 857
 
-★ Stars: 3328
+★ Stars: 3329
 
 [Open repository](https://github.com/dotnet/MQTTnet)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-19 | 3328 | 857 | 
+| 2023-01-19 | 3329 | 857 | 
 | 2023-01-18 | 3327 | 857 | 
 | 2023-01-17 | 3324 | 856 | 
 | 2023-01-16 | 3323 | 855 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-23 | 3289 | 845 | 
 | 2022-12-22 | 3288 | 846 | 
 | 2022-12-21 | 3285 | 846 | 
-| 2022-12-20 | 3281 | 846 | 
 

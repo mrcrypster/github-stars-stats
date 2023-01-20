@@ -1,10 +1,10 @@
 # extrawurst/gitui - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 368
+☋ Forks: 369
 
-★ Stars: 11910
+★ Stars: 11921
 
 [Open repository](https://github.com/extrawurst/gitui)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 11921 | 369 | 
 | 2023-01-18 | 11910 | 368 | 
 | 2023-01-17 | 11903 | 367 | 
 | 2023-01-16 | 11893 | 367 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 11694 | 361 | 
 | 2022-12-22 | 11688 | 360 | 
 | 2022-12-21 | 11683 | 360 | 
-| 2022-12-20 | 11673 | 358 | 
 

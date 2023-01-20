@@ -1,6 +1,6 @@
 # deathau/sliding-panes-obsidian - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 612 | 28 | 
 | 2023-01-18 | 612 | 28 | 
 | 2023-01-17 | 612 | 28 | 
 | 2023-01-16 | 612 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 605 | 28 | 
 | 2022-12-22 | 605 | 28 | 
 | 2022-12-21 | 605 | 28 | 
-| 2022-12-20 | 605 | 28 | 
 

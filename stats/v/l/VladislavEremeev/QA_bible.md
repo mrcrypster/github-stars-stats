@@ -1,10 +1,10 @@
 # VladislavEremeev/QA_bible - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 552
 
-★ Stars: 1500
+★ Stars: 1503
 
 [Open repository](https://github.com/VladislavEremeev/QA_bible)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 1503 | 552 | 
 | 2023-01-18 | 1500 | 552 | 
 | 2023-01-17 | 1497 | 552 | 
 | 2023-01-16 | 1497 | 549 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 1475 | 542 | 
 | 2022-12-22 | 1474 | 542 | 
 | 2022-12-21 | 1472 | 542 | 
-| 2022-12-20 | 1472 | 542 | 
 

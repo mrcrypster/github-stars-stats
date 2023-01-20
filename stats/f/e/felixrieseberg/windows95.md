@@ -1,10 +1,10 @@
 # felixrieseberg/windows95 - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 1264
 
-★ Stars: 21665
+★ Stars: 21666
 
 [Open repository](https://github.com/felixrieseberg/windows95)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 21666 | 1264 | 
 | 2023-01-18 | 21665 | 1264 | 
 | 2023-01-17 | 21665 | 1264 | 
 | 2023-01-16 | 21663 | 1265 | 

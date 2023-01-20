@@ -1,8 +1,8 @@
 # Relento/lego_release - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 9
+☋ Forks: 10
 
 ★ Stars: 200
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 200 | 10 | 
 | 2023-01-18 | 200 | 9 | 
 | 2023-01-17 | 200 | 9 | 
 | 2023-01-16 | 200 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 198 | 9 | 
 | 2022-12-22 | 198 | 9 | 
 | 2022-12-21 | 198 | 9 | 
-| 2022-12-20 | 198 | 9 | 
 

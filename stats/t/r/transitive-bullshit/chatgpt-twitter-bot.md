@@ -1,10 +1,10 @@
 # transitive-bullshit/chatgpt-twitter-bot - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 26
+☋ Forks: 27
 
-★ Stars: 319
+★ Stars: 324
 
 [Open repository](https://github.com/transitive-bullshit/chatgpt-twitter-bot)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 324 | 27 | 
 | 2023-01-18 | 319 | 26 | 
 | 2023-01-17 | 315 | 27 | 
 | 2023-01-16 | 310 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 220 | 17 | 
 | 2022-12-22 | 218 | 17 | 
 | 2022-12-21 | 211 | 13 | 
-| 2022-12-20 | 206 | 11 | 
 

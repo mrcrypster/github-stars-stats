@@ -1,6 +1,6 @@
 # GDSC-IIIT-Kalyani/playground - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 163
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 5 | 163 | 
 | 2023-01-18 | 5 | 163 | 
 | 2023-01-17 | 5 | 164 | 
 | 2023-01-16 | 5 | 163 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-24 | 4 | 136 | 
 | 2022-12-23 | 4 | 136 | 
 | 2022-12-22 | 4 | 136 | 
-| 2022-12-21 | 4 | 136 | 
 

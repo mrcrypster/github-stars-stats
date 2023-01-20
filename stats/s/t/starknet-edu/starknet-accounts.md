@@ -1,8 +1,8 @@
 # starknet-edu/starknet-accounts - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 15
+☋ Forks: 16
 
 ★ Stars: 52
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 52 | 16 | 
 | 2023-01-18 | 52 | 15 | 
 | 2023-01-17 | 51 | 14 | 
 | 2023-01-16 | 51 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 49 | 14 | 
 | 2022-12-22 | 49 | 13 | 
 | 2022-12-21 | 49 | 13 | 
-| 2022-12-20 | 49 | 13 | 
 

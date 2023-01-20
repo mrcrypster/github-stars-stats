@@ -1,10 +1,10 @@
 # hlky/sd-enable-textual-inversion - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 28
 
-★ Stars: 740
+★ Stars: 739
 
 [Open repository](https://github.com/hlky/sd-enable-textual-inversion)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 739 | 28 | 
 | 2023-01-18 | 740 | 28 | 
 | 2023-01-17 | 740 | 28 | 
 | 2023-01-16 | 740 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 737 | 28 | 
 | 2022-12-22 | 737 | 28 | 
 | 2022-12-21 | 736 | 28 | 
-| 2022-12-20 | 736 | 28 | 
 

@@ -1,10 +1,10 @@
 # radareorg/radare2 - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 2808
 
-★ Stars: 17403
+★ Stars: 17414
 
 [Open repository](https://github.com/radareorg/radare2)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 17414 | 2808 | 
 | 2023-01-18 | 17403 | 2808 | 
 | 2023-01-17 | 17399 | 2810 | 
 | 2023-01-16 | 17394 | 2810 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 17306 | 2797 | 
 | 2022-12-22 | 17302 | 2797 | 
 | 2022-12-21 | 17298 | 2796 | 
-| 2022-12-20 | 17297 | 2795 | 
 

@@ -1,10 +1,10 @@
 # fscarmen/warp - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 854
 
-★ Stars: 2590
+★ Stars: 2595
 
 [Open repository](https://github.com/fscarmen/warp)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 2595 | 854 | 
 | 2023-01-18 | 2590 | 854 | 
 | 2023-01-17 | 2587 | 853 | 
 | 2023-01-16 | 2584 | 851 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 2475 | 827 | 
 | 2022-12-22 | 2474 | 827 | 
 | 2022-12-21 | 2472 | 824 | 
-| 2022-12-20 | 2469 | 824 | 
 

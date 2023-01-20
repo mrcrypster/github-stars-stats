@@ -1,10 +1,10 @@
 # opa334/SafariPlus - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 74
 
-★ Stars: 275
+★ Stars: 276
 
 [Open repository](https://github.com/opa334/SafariPlus)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 276 | 74 | 
 | 2023-01-18 | 275 | 74 | 
 | 2023-01-17 | 275 | 74 | 
 | 2023-01-16 | 274 | 74 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 268 | 72 | 
 | 2022-12-22 | 268 | 72 | 
 | 2022-12-21 | 268 | 72 | 
-| 2022-12-20 | 268 | 72 | 
 

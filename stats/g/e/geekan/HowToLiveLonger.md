@@ -1,10 +1,10 @@
 # geekan/HowToLiveLonger - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 1327
+☋ Forks: 1328
 
-★ Stars: 20130
+★ Stars: 20134
 
 [Open repository](https://github.com/geekan/HowToLiveLonger)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 20134 | 1328 | 
 | 2023-01-18 | 20130 | 1327 | 
 | 2023-01-17 | 20125 | 1328 | 
 | 2023-01-16 | 20115 | 1326 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 20031 | 1322 | 
 | 2022-12-22 | 20028 | 1323 | 
 | 2022-12-21 | 20029 | 1324 | 
-| 2022-12-20 | 20022 | 1323 | 
 

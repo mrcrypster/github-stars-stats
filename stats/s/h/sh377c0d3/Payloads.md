@@ -1,10 +1,10 @@
 # sh377c0d3/Payloads - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 147
 
-★ Stars: 658
+★ Stars: 661
 
 [Open repository](https://github.com/sh377c0d3/Payloads)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 661 | 147 | 
 | 2023-01-18 | 658 | 147 | 
 | 2023-01-17 | 658 | 148 | 
 | 2023-01-16 | 658 | 148 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 610 | 138 | 
 | 2022-12-22 | 605 | 135 | 
 | 2022-12-21 | 604 | 135 | 
-| 2022-12-20 | 604 | 135 | 
 

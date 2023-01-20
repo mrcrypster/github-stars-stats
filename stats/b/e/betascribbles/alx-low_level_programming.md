@@ -1,10 +1,10 @@
 # betascribbles/alx-low_level_programming - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 162
+☋ Forks: 163
 
-★ Stars: 71
+★ Stars: 72
 
 [Open repository](https://github.com/betascribbles/alx-low_level_programming)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 72 | 163 | 
 | 2023-01-18 | 71 | 162 | 
 | 2023-01-17 | 71 | 162 | 
 | 2023-01-16 | 71 | 161 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 67 | 150 | 
 | 2022-12-22 | 67 | 149 | 
 | 2022-12-21 | 67 | 149 | 
-| 2022-12-20 | 68 | 149 | 
 

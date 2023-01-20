@@ -1,10 +1,10 @@
 # fluent/helm-charts - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 325
+☋ Forks: 326
 
-★ Stars: 243
+★ Stars: 244
 
 [Open repository](https://github.com/fluent/helm-charts)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 244 | 326 | 
 | 2023-01-18 | 243 | 325 | 
 | 2023-01-17 | 242 | 324 | 
 | 2023-01-16 | 242 | 324 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 235 | 320 | 
 | 2022-12-22 | 235 | 320 | 
 | 2022-12-21 | 235 | 320 | 
-| 2022-12-20 | 235 | 317 | 
 

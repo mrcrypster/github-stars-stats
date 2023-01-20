@@ -1,10 +1,10 @@
 # mailcow/mailcow-dockerized - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 908
+☋ Forks: 910
 
-★ Stars: 5984
+★ Stars: 5987
 
 [Open repository](https://github.com/mailcow/mailcow-dockerized)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 5987 | 910 | 
 | 2023-01-18 | 5984 | 908 | 
 | 2023-01-17 | 5982 | 908 | 
 | 2023-01-16 | 5971 | 908 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 5849 | 895 | 
 | 2022-12-22 | 5846 | 895 | 
 | 2022-12-21 | 5842 | 895 | 
-| 2022-12-20 | 5839 | 896 | 
 

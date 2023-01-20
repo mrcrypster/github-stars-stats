@@ -1,10 +1,10 @@
 # jeffheaton/present - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 119
 
-★ Stars: 156
+★ Stars: 157
 
 [Open repository](https://github.com/jeffheaton/present)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 157 | 119 | 
 | 2023-01-18 | 156 | 119 | 
 | 2023-01-17 | 156 | 119 | 
 | 2023-01-16 | 156 | 119 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 152 | 117 | 
 | 2022-12-22 | 152 | 117 | 
 | 2022-12-21 | 152 | 117 | 
-| 2022-12-20 | 152 | 117 | 
 

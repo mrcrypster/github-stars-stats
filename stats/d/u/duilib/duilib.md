@@ -1,10 +1,10 @@
 # duilib/duilib - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 1895
+☋ Forks: 1894
 
-★ Stars: 5175
+★ Stars: 5176
 
 [Open repository](https://github.com/duilib/duilib)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 5176 | 1894 | 
 | 2023-01-18 | 5175 | 1895 | 
 | 2023-01-17 | 5175 | 1895 | 
 | 2023-01-16 | 5174 | 1895 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 5140 | 1901 | 
 | 2022-12-22 | 5138 | 1901 | 
 | 2022-12-21 | 5138 | 1901 | 
-| 2022-12-20 | 5137 | 1901 | 
 

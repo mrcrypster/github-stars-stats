@@ -1,10 +1,10 @@
 # cdnjs/cdnjs - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 4542
 
-★ Stars: 9764
+★ Stars: 9766
 
 [Open repository](https://github.com/cdnjs/cdnjs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 9766 | 4542 | 
 | 2023-01-18 | 9764 | 4542 | 
 | 2023-01-17 | 9764 | 4543 | 
 | 2023-01-16 | 9764 | 4543 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 9737 | 4540 | 
 | 2022-12-22 | 9733 | 4539 | 
 | 2022-12-21 | 9731 | 4538 | 
-| 2022-12-20 | 9727 | 4537 | 
 

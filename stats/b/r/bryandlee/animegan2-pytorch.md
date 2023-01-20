@@ -1,6 +1,6 @@
 # bryandlee/animegan2-pytorch - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 571
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 3992 | 571 | 
 | 2023-01-18 | 3992 | 571 | 
 | 2023-01-17 | 3992 | 571 | 
 | 2023-01-16 | 3991 | 571 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-24 | 3956 | 567 | 
 | 2022-12-23 | 3955 | 566 | 
 | 2022-12-22 | 3955 | 566 | 
-| 2022-12-20 | 3956 | 565 | 
 

@@ -1,8 +1,8 @@
 # in-toto/attestation - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 20
 
-☋ Forks: 24
+☋ Forks: 25
 
 ★ Stars: 93
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 93 | 25 | 
 | 2023-01-18 | 93 | 24 | 
 | 2023-01-17 | 93 | 24 | 
 | 2023-01-16 | 93 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-24 | 88 | 23 | 
 | 2022-12-23 | 88 | 23 | 
 | 2022-12-22 | 88 | 23 | 
-| 2022-12-20 | 88 | 23 | 
 

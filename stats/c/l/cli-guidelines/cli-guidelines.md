@@ -1,10 +1,10 @@
 # cli-guidelines/cli-guidelines - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 71
 
-★ Stars: 2040
+★ Stars: 2039
 
 [Open repository](https://github.com/cli-guidelines/cli-guidelines)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 2039 | 71 | 
 | 2023-01-18 | 2040 | 71 | 
 | 2023-01-17 | 2040 | 71 | 
 | 2023-01-16 | 2041 | 71 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 2020 | 71 | 
 | 2022-12-22 | 2020 | 71 | 
 | 2022-12-21 | 2018 | 71 | 
-| 2022-12-20 | 2018 | 71 | 
 

@@ -1,6 +1,6 @@
 # lorenzoh/Invariants.jl - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 24 | - | 
 | 2023-01-19 | 24 | - | 
 | 2023-01-17 | 24 | - | 
 | 2023-01-16 | 24 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-23 | 20 | - | 
 | 2022-12-22 | 20 | - | 
 | 2022-12-21 | 20 | - | 
-| 2022-12-20 | 20 | - | 
 

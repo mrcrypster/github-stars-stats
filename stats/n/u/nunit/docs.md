@@ -1,10 +1,10 @@
 # nunit/docs - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 135
 
-★ Stars: 603
+★ Stars: 602
 
 [Open repository](https://github.com/nunit/docs)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 602 | 135 | 
 | 2023-01-18 | 603 | 135 | 
 | 2023-01-17 | 603 | 135 | 
 | 2023-01-16 | 603 | 135 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 601 | 136 | 
 | 2022-12-22 | 601 | 136 | 
 | 2022-12-21 | 601 | 136 | 
-| 2022-12-20 | 601 | 136 | 
 

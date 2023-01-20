@@ -1,10 +1,10 @@
 # GetStream/stream-chat-swift - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 167
 
-★ Stars: 695
+★ Stars: 697
 
 [Open repository](https://github.com/GetStream/stream-chat-swift)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 697 | 167 | 
 | 2023-01-18 | 695 | 167 | 
 | 2023-01-17 | 695 | 167 | 
 | 2023-01-16 | 695 | 167 | 

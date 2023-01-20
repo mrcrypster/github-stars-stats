@@ -1,10 +1,10 @@
 # riggraz/no-style-please - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 365
+☋ Forks: 366
 
-★ Stars: 680
+★ Stars: 681
 
 [Open repository](https://github.com/riggraz/no-style-please)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 681 | 366 | 
 | 2023-01-18 | 680 | 365 | 
 | 2023-01-17 | 680 | 364 | 
 | 2023-01-16 | 678 | 363 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 655 | 354 | 
 | 2022-12-22 | 653 | 353 | 
 | 2022-12-21 | 651 | 352 | 
-| 2022-12-20 | 649 | 352 | 
 

@@ -1,6 +1,6 @@
 # FGA-GCES/Trabalho-Individual-2021-2 - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | - | 59 | 
 | 2023-01-18 | - | 59 | 
 | 2023-01-16 | - | 59 | 
 | 2023-01-15 | - | 59 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-24 | - | 59 | 
 | 2022-12-23 | - | 59 | 
 | 2022-12-22 | - | 59 | 
-| 2022-12-21 | - | 59 | 
 

@@ -1,8 +1,8 @@
 # google/automl - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 1389
+☋ Forks: 1390
 
 ★ Stars: 5237
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 5237 | 1390 | 
 | 2023-01-18 | 5237 | 1389 | 
 | 2023-01-17 | 5237 | 1389 | 
 | 2023-01-16 | 5238 | 1389 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 5217 | 1384 | 
 | 2022-12-22 | 5216 | 1383 | 
 | 2022-12-21 | 5212 | 1384 | 
-| 2022-12-20 | 5212 | 1384 | 
 

@@ -1,10 +1,10 @@
 # monkeytypegame/monkeytype - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 1355
 
-★ Stars: 9002
+★ Stars: 9019
 
 [Open repository](https://github.com/monkeytypegame/monkeytype)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 9019 | 1355 | 
 | 2023-01-19 | 9002 | 1355 | 
 | 2023-01-17 | 8990 | 1354 | 
 | 2023-01-16 | 8984 | 1351 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-23 | 8781 | 1327 | 
 | 2022-12-22 | 8777 | 1327 | 
 | 2022-12-21 | 8769 | 1326 | 
-| 2022-12-20 | 8759 | 1325 | 
 

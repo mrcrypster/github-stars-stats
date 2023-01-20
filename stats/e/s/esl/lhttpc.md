@@ -1,10 +1,10 @@
 # esl/lhttpc - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 141
 
-★ Stars: 127
+★ Stars: 126
 
 [Open repository](https://github.com/esl/lhttpc)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 126 | 141 | 
 | 2023-01-18 | 127 | 141 | 
 | 2023-01-17 | 127 | 141 | 
 | 2023-01-16 | 127 | 141 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 127 | 141 | 
 | 2022-12-22 | 127 | 141 | 
 | 2022-12-21 | 127 | 141 | 
-| 2022-12-20 | 127 | 141 | 
 

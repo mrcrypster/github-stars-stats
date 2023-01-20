@@ -1,10 +1,10 @@
 # Textualize/textual - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 507
 
-★ Stars: 17288
+★ Stars: 17300
 
 [Open repository](https://github.com/Textualize/textual)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 17300 | 507 | 
 | 2023-01-18 | 17288 | 507 | 
 | 2023-01-17 | 17277 | 506 | 
 | 2023-01-16 | 17266 | 504 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 16814 | 484 | 
 | 2022-12-22 | 16661 | 479 | 
 | 2022-12-21 | 16653 | 479 | 
-| 2022-12-20 | 16640 | 477 | 
 

@@ -1,10 +1,10 @@
 # advanced-threat-research/DotDumper - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 22
 
-★ Stars: 173
+★ Stars: 174
 
 [Open repository](https://github.com/advanced-threat-research/DotDumper)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 174 | 22 | 
 | 2023-01-18 | 173 | 22 | 
 | 2023-01-17 | 170 | 22 | 
 | 2023-01-16 | 170 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 140 | 18 | 
 | 2022-12-22 | 140 | 18 | 
 | 2022-12-21 | 140 | 18 | 
-| 2022-12-20 | 140 | 18 | 
 

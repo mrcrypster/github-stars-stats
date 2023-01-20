@@ -1,10 +1,10 @@
 # gherrada22/Encriptador_de_texto - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 13
+☋ Forks: 12
 
-★ Stars: 31
+★ Stars: 34
 
 [Open repository](https://github.com/gherrada22/Encriptador_de_texto)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 34 | 12 | 
 | 2023-01-18 | 31 | 13 | 
 | 2023-01-17 | 30 | 12 | 
 | 2023-01-16 | 28 | 12 | 

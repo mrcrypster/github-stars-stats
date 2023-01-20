@@ -1,10 +1,10 @@
 # betaflight/betaflight - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 2440
+☋ Forks: 2443
 
-★ Stars: 6420
+★ Stars: 6424
 
 [Open repository](https://github.com/betaflight/betaflight)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 6424 | 2443 | 
 | 2023-01-18 | 6420 | 2440 | 
 | 2023-01-17 | 6414 | 2439 | 
 | 2023-01-16 | 6410 | 2439 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 6345 | 2413 | 
 | 2022-12-22 | 6343 | 2412 | 
 | 2022-12-21 | 6342 | 2412 | 
-| 2022-12-20 | 6341 | 2412 | 
 

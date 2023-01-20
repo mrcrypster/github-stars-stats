@@ -1,10 +1,10 @@
 # telekom-security/tpotce - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 773
 
-★ Stars: 4286
+★ Stars: 4289
 
 [Open repository](https://github.com/telekom-security/tpotce)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 4289 | 773 | 
 | 2023-01-18 | 4286 | 773 | 
 | 2023-01-17 | 4284 | 773 | 
 | 2023-01-16 | 4282 | 773 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 4230 | 767 | 
 | 2022-12-22 | 4230 | 767 | 
 | 2022-12-21 | 4226 | 766 | 
-| 2022-12-20 | 4224 | 766 | 
 

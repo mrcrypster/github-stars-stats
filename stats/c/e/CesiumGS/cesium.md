@@ -1,8 +1,8 @@
 # CesiumGS/cesium - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 3099
+☋ Forks: 3100
 
 ★ Stars: 9794
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 9794 | 3100 | 
 | 2023-01-18 | 9794 | 3099 | 
 | 2023-01-17 | 9788 | 3097 | 
 | 2023-01-16 | 9785 | 3095 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 9691 | 3085 | 
 | 2022-12-22 | 9690 | 3084 | 
 | 2022-12-21 | 9682 | 3083 | 
-| 2022-12-20 | 9675 | 3084 | 
 

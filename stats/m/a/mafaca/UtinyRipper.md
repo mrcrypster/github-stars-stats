@@ -1,10 +1,10 @@
 # mafaca/UtinyRipper - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 406
 
-★ Stars: 2351
+★ Stars: 2352
 
 [Open repository](https://github.com/mafaca/UtinyRipper)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 2352 | 406 | 
 | 2023-01-18 | 2351 | 406 | 
 | 2023-01-17 | 2350 | 406 | 
 | 2023-01-16 | 2350 | 406 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-24 | 2327 | 406 | 
 | 2022-12-22 | 2326 | 405 | 
 | 2022-12-21 | 2325 | 405 | 
-| 2022-12-20 | 2324 | 405 | 
 

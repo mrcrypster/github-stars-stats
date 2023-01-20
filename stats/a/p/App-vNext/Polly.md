@@ -1,10 +1,10 @@
 # App-vNext/Polly - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 1031
 
-★ Stars: 11478
+★ Stars: 11487
 
 [Open repository](https://github.com/App-vNext/Polly)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 11487 | 1031 | 
+| 2023-01-19 | 11487 | 1031 | 
 | 2023-01-18 | 11478 | 1031 | 
 | 2023-01-17 | 11470 | 1030 | 
 | 2023-01-16 | 11467 | 1029 | 
@@ -41,5 +43,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 11410 | 1023 | 
 | 2022-12-22 | 11408 | 1023 | 
 | 2022-12-21 | 11406 | 1023 | 
-| 2022-12-20 | 11404 | 1023 | 
 

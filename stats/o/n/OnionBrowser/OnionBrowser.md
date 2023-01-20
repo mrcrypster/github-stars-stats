@@ -1,8 +1,8 @@
 # OnionBrowser/OnionBrowser - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
-☋ Forks: 441
+☋ Forks: 440
 
 ★ Stars: 1974
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 1974 | 440 | 
 | 2023-01-19 | 1974 | 441 | 
 | 2023-01-18 | 1974 | 440 | 
 | 2023-01-16 | 1973 | 439 | 

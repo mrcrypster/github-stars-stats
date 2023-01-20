@@ -1,10 +1,10 @@
 # HC200ok/vue3-easy-data-table - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 37
 
-★ Stars: 239
+★ Stars: 241
 
 [Open repository](https://github.com/HC200ok/vue3-easy-data-table)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 241 | 37 | 
 | 2023-01-18 | 239 | 37 | 
 | 2023-01-17 | 236 | 37 | 
 | 2023-01-16 | 235 | 37 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 220 | 34 | 
 | 2022-12-22 | 220 | 34 | 
 | 2022-12-21 | 220 | 33 | 
-| 2022-12-20 | 218 | 33 | 
 

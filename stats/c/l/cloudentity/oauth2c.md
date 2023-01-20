@@ -1,10 +1,10 @@
 # cloudentity/oauth2c - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 11
 
-★ Stars: 629
+★ Stars: 630
 
 [Open repository](https://github.com/cloudentity/oauth2c)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 630 | 11 | 
 | 2023-01-18 | 629 | 11 | 
 | 2023-01-17 | 629 | 11 | 
 | 2023-01-16 | 629 | 11 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-24 | 610 | 11 | 
 | 2022-12-23 | 607 | 11 | 
 | 2022-12-22 | 605 | 11 | 
-| 2022-12-21 | 604 | 11 | 
 

@@ -1,6 +1,6 @@
 # cognitect-labs/test-runner - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 239 | 28 | 
 | 2023-01-18 | 239 | 28 | 
 | 2023-01-17 | 239 | 28 | 
 | 2023-01-16 | 239 | 28 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 237 | 28 | 
 | 2022-12-22 | 236 | 28 | 
 | 2022-12-21 | 236 | 28 | 
-| 2022-12-20 | 236 | 28 | 
 

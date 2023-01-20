@@ -1,10 +1,10 @@
 # thoughtbot/shoulda-matchers - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 899
+☋ Forks: 900
 
-★ Stars: 3354
+★ Stars: 3356
 
 [Open repository](https://github.com/thoughtbot/shoulda-matchers)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 3356 | 900 | 
 | 2023-01-18 | 3354 | 899 | 
 | 2023-01-17 | 3353 | 899 | 
 | 2023-01-16 | 3353 | 899 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 3340 | 900 | 
 | 2022-12-22 | 3340 | 900 | 
 | 2022-12-21 | 3340 | 900 | 
-| 2022-12-20 | 3340 | 900 | 
 

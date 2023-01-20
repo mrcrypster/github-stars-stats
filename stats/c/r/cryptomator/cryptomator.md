@@ -1,10 +1,10 @@
 # cryptomator/cryptomator - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 709
 
-★ Stars: 8720
+★ Stars: 8724
 
 [Open repository](https://github.com/cryptomator/cryptomator)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 8724 | 709 | 
 | 2023-01-18 | 8720 | 709 | 
 | 2023-01-17 | 8716 | 709 | 
 | 2023-01-15 | 8712 | 708 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 8594 | 699 | 
 | 2022-12-22 | 8586 | 699 | 
 | 2022-12-21 | 8583 | 699 | 
-| 2022-12-20 | 8580 | 698 | 
 

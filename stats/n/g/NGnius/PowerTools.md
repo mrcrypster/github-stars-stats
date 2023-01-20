@@ -1,6 +1,6 @@
 # NGnius/PowerTools - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 268 | 15 | 
 | 2023-01-18 | 268 | 15 | 
 | 2023-01-17 | 268 | 15 | 
 | 2023-01-16 | 268 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 254 | 10 | 
 | 2022-12-22 | 254 | 10 | 
 | 2022-12-21 | 253 | 10 | 
-| 2022-12-20 | 252 | 10 | 
 

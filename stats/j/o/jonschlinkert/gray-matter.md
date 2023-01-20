@@ -1,6 +1,6 @@
 # jonschlinkert/gray-matter - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 127
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 2973 | 127 | 
 | 2023-01-18 | 2973 | 127 | 
 | 2023-01-17 | 2970 | 126 | 
 | 2023-01-16 | 2967 | 126 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-24 | 2931 | 124 | 
 | 2022-12-23 | 2931 | 124 | 
 | 2022-12-22 | 2930 | 124 | 
-| 2022-12-20 | 2927 | 124 | 
 

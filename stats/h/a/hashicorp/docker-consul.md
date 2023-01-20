@@ -1,8 +1,8 @@
 # hashicorp/docker-consul - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 252
+☋ Forks: 251
 
 ★ Stars: 393
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 393 | 251 | 
 | 2023-01-18 | 393 | 252 | 
 | 2023-01-17 | 393 | 252 | 
 | 2023-01-16 | 393 | 252 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 390 | 252 | 
 | 2022-12-22 | 390 | 252 | 
 | 2022-12-21 | 390 | 252 | 
-| 2022-12-20 | 390 | 253 | 
 

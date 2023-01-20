@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 19
 
-☋ Forks: 1883
+☋ Forks: 1884
 
-★ Stars: 9091
+★ Stars: 9107
 
 [Open repository](https://github.com/google/go-github)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-19 | 9091 | 1883 | 
+| 2023-01-19 | 9107 | 1884 | 
 | 2023-01-18 | 9087 | 1882 | 
 | 2023-01-17 | 9073 | 1880 | 
 | 2023-01-16 | 9069 | 1878 | 

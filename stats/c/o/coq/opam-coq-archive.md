@@ -1,6 +1,6 @@
 # coq/opam-coq-archive - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 135
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 105 | 135 | 
 | 2023-01-18 | 105 | 135 | 
 | 2023-01-17 | 105 | 135 | 
 | 2023-01-16 | 105 | 135 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 102 | 135 | 
 | 2022-12-22 | 102 | 135 | 
 | 2022-12-21 | 102 | 135 | 
-| 2022-12-20 | 102 | 135 | 
 

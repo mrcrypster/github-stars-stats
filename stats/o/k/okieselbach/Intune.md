@@ -1,6 +1,6 @@
 # okieselbach/Intune - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 143
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 281 | 143 | 
 | 2023-01-18 | 281 | 143 | 
 | 2023-01-17 | 279 | 142 | 
 | 2023-01-16 | 278 | 141 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 273 | 138 | 
 | 2022-12-22 | 273 | 138 | 
 | 2022-12-21 | 273 | 138 | 
-| 2022-12-20 | 273 | 138 | 
 

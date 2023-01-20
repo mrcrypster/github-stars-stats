@@ -1,6 +1,6 @@
 # bazelbuild/rules_swift - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 113
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 254 | 113 | 
 | 2023-01-18 | 254 | 113 | 
 | 2023-01-17 | 254 | 113 | 
 | 2023-01-16 | 253 | 113 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 252 | 112 | 
 | 2022-12-22 | 251 | 112 | 
 | 2022-12-21 | 251 | 112 | 
-| 2022-12-20 | 251 | 112 | 
 

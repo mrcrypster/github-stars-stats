@@ -1,6 +1,6 @@
 # jswny/edgybot - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 5 | 1 | 
 | 2023-01-18 | 5 | 1 | 
 | 2023-01-17 | 5 | 1 | 
 | 2023-01-16 | 5 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-24 | 5 | - | 
 | 2022-12-23 | 5 | - | 
 | 2022-12-22 | 5 | - | 
-| 2022-12-20 | 5 | - | 
 

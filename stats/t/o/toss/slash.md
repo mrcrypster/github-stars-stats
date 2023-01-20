@@ -1,8 +1,8 @@
 # toss/slash - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 20
 
-☋ Forks: 129
+☋ Forks: 130
 
 ★ Stars: 1793
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 1793 | 130 | 
 | 2023-01-18 | 1793 | 129 | 
 | 2023-01-17 | 1791 | 128 | 
 | 2023-01-16 | 1788 | 128 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 1760 | 118 | 
 | 2022-12-22 | 1757 | 118 | 
 | 2022-12-21 | 1757 | 118 | 
-| 2022-12-20 | 1751 | 119 | 
 

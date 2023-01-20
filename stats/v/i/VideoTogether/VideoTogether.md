@@ -1,6 +1,6 @@
 # VideoTogether/VideoTogether - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 66
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 669 | 66 | 
 | 2023-01-18 | 669 | 66 | 
 | 2023-01-17 | 669 | 66 | 
 | 2023-01-16 | 665 | 66 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 623 | 61 | 
 | 2022-12-22 | 621 | 61 | 
 | 2022-12-21 | 621 | 61 | 
-| 2022-12-20 | 620 | 61 | 
 

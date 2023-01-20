@@ -1,10 +1,10 @@
 # dotnet-architecture/eShopOnWeb - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 4261
+☋ Forks: 4262
 
-★ Stars: 8362
+★ Stars: 8366
 
 [Open repository](https://github.com/dotnet-architecture/eShopOnWeb)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 8366 | 4262 | 
 | 2023-01-18 | 8362 | 4261 | 
 | 2023-01-17 | 8361 | 4259 | 
 | 2023-01-16 | 8356 | 4260 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 8285 | 4234 | 
 | 2022-12-22 | 8282 | 4235 | 
 | 2022-12-21 | 8279 | 4235 | 
-| 2022-12-20 | 8277 | 4230 | 
 

@@ -1,10 +1,10 @@
 # ImranR98/Obtainium - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 15
 
-★ Stars: 618
+★ Stars: 619
 
 [Open repository](https://github.com/ImranR98/Obtainium)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 619 | 15 | 
 | 2023-01-18 | 618 | 15 | 
 | 2023-01-17 | 614 | 15 | 
 | 2023-01-16 | 614 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 526 | 15 | 
 | 2022-12-22 | 523 | 15 | 
 | 2022-12-21 | 520 | 15 | 
-| 2022-12-20 | 515 | 15 | 
 

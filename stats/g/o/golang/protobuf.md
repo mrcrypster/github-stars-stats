@@ -1,10 +1,10 @@
 # golang/protobuf - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 1582
+☋ Forks: 1581
 
-★ Stars: 8875
+★ Stars: 8873
 
 [Open repository](https://github.com/golang/protobuf)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 8873 | 1581 | 
 | 2023-01-18 | 8875 | 1582 | 
 | 2023-01-17 | 8872 | 1582 | 
 | 2023-01-16 | 8869 | 1582 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 8853 | 1578 | 
 | 2022-12-22 | 8852 | 1578 | 
 | 2022-12-21 | 8852 | 1578 | 
-| 2022-12-20 | 8850 | 1579 | 
 

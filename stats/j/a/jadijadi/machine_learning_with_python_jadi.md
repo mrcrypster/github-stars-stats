@@ -1,10 +1,10 @@
 # jadijadi/machine_learning_with_python_jadi - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 229
 
-★ Stars: 390
+★ Stars: 391
 
 [Open repository](https://github.com/jadijadi/machine_learning_with_python_jadi)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 391 | 229 | 
 | 2023-01-18 | 390 | 229 | 
 | 2023-01-17 | 388 | 228 | 
 | 2023-01-16 | 388 | 228 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 365 | 213 | 
 | 2022-12-22 | 361 | 211 | 
 | 2022-12-21 | 361 | 210 | 
-| 2022-12-20 | 357 | 208 | 
 

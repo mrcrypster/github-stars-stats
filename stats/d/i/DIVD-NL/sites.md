@@ -1,10 +1,10 @@
 # DIVD-NL/sites - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 31
+☋ Forks: 32
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/DIVD-NL/sites)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 16 | 32 | 
 | 2023-01-18 | 15 | 31 | 
 | 2023-01-17 | 15 | 31 | 
 | 2023-01-16 | 15 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 14 | 31 | 
 | 2022-12-22 | 14 | 31 | 
 | 2022-12-21 | 14 | 31 | 
-| 2022-12-20 | 14 | 31 | 
 

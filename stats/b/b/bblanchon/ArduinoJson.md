@@ -1,10 +1,10 @@
 # bblanchon/ArduinoJson - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 1051
+☋ Forks: 1053
 
-★ Stars: 5994
+★ Stars: 5997
 
 [Open repository](https://github.com/bblanchon/ArduinoJson)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 5997 | 1053 | 
 | 2023-01-18 | 5994 | 1051 | 
 | 2023-01-17 | 5994 | 1051 | 
 | 2023-01-16 | 5993 | 1051 | 

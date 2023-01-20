@@ -1,6 +1,6 @@
 # lazywinadmin/PowerShell - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 639
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 1990 | 639 | 
 | 2023-01-18 | 1990 | 639 | 
 | 2023-01-17 | 1989 | 639 | 
 | 2023-01-16 | 1989 | 639 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 1970 | 639 | 
 | 2022-12-22 | 1966 | 638 | 
 | 2022-12-21 | 1963 | 638 | 
-| 2022-12-20 | 1964 | 637 | 
 

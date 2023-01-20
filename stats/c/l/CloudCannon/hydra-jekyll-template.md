@@ -1,8 +1,8 @@
 # CloudCannon/hydra-jekyll-template - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 351
+☋ Forks: 352
 
 ★ Stars: 376
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 376 | 352 | 
 | 2023-01-18 | 376 | 351 | 
 | 2023-01-17 | 376 | 351 | 
 | 2023-01-16 | 375 | 351 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 369 | 348 | 
 | 2022-12-22 | 369 | 348 | 
 | 2022-12-21 | 369 | 349 | 
-| 2022-12-20 | 369 | 349 | 
 

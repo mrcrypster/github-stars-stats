@@ -1,10 +1,10 @@
 # brendangregg/perf-tools - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 1544
 
-★ Stars: 8814
+★ Stars: 8817
 
 [Open repository](https://github.com/brendangregg/perf-tools)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 8817 | 1544 | 
 | 2023-01-18 | 8814 | 1544 | 
 | 2023-01-17 | 8812 | 1544 | 
 | 2023-01-16 | 8812 | 1544 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 8776 | 1532 | 
 | 2022-12-22 | 8774 | 1531 | 
 | 2022-12-21 | 8773 | 1530 | 
-| 2022-12-20 | 8773 | 1530 | 
 

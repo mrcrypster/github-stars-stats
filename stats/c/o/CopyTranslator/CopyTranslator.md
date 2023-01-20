@@ -1,10 +1,10 @@
 # CopyTranslator/CopyTranslator - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 1831
+☋ Forks: 1833
 
-★ Stars: 15093
+★ Stars: 15099
 
 [Open repository](https://github.com/CopyTranslator/CopyTranslator)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 15099 | 1833 | 
 | 2023-01-18 | 15093 | 1831 | 
 | 2023-01-16 | 15090 | 1831 | 
 | 2023-01-15 | 15086 | 1830 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-24 | 14983 | 1829 | 
 | 2022-12-23 | 14981 | 1830 | 
 | 2022-12-22 | 14979 | 1830 | 
-| 2022-12-21 | 14978 | 1829 | 
 

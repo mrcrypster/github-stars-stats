@@ -1,6 +1,6 @@
 # iamtorsten/libfintx - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 135
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 176 | 135 | 
 | 2023-01-18 | 176 | 135 | 
 | 2023-01-17 | 176 | 135 | 
 | 2023-01-16 | 176 | 135 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 202 | 134 | 
 | 2022-12-22 | 201 | 134 | 
 | 2022-12-21 | 201 | 134 | 
-| 2022-12-20 | 201 | 134 | 
 

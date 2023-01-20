@@ -1,10 +1,10 @@
 # Stellarium/stellarium - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 619
 
-★ Stars: 4458
+★ Stars: 4459
 
 [Open repository](https://github.com/Stellarium/stellarium)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 4459 | 619 | 
 | 2023-01-18 | 4458 | 619 | 
 | 2023-01-17 | 4457 | 618 | 
 | 2023-01-16 | 4454 | 618 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 4395 | 616 | 
 | 2022-12-22 | 4394 | 615 | 
 | 2022-12-21 | 4391 | 615 | 
-| 2022-12-20 | 4388 | 615 | 
 

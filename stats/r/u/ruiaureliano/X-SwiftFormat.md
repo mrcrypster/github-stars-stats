@@ -1,10 +1,10 @@
 # ruiaureliano/X-SwiftFormat - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 23
 
-★ Stars: 706
+★ Stars: 705
 
 [Open repository](https://github.com/ruiaureliano/X-SwiftFormat)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 705 | 23 | 
 | 2023-01-18 | 706 | 23 | 
 | 2023-01-17 | 706 | 23 | 
 | 2023-01-16 | 706 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 706 | 23 | 
 | 2022-12-22 | 706 | 23 | 
 | 2022-12-21 | 706 | 22 | 
-| 2022-12-20 | 706 | 22 | 
 

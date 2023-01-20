@@ -1,8 +1,8 @@
 # martinthomson/i-d-template - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 169
+☋ Forks: 170
 
 ★ Stars: 170
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 170 | 170 | 
 | 2023-01-18 | 170 | 169 | 
 | 2023-01-17 | 170 | 169 | 
 | 2023-01-16 | 170 | 169 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 168 | 168 | 
 | 2022-12-22 | 168 | 168 | 
 | 2022-12-21 | 168 | 168 | 
-| 2022-12-20 | 168 | 168 | 
 

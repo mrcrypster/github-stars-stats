@@ -1,6 +1,6 @@
 # xream/scripts - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 333 | 65 | 
 | 2023-01-18 | 333 | 65 | 
 | 2023-01-17 | 333 | 65 | 
 | 2023-01-16 | 332 | 65 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 322 | 63 | 
 | 2022-12-22 | 322 | 63 | 
 | 2022-12-21 | 322 | 63 | 
-| 2022-12-20 | 322 | 63 | 
 

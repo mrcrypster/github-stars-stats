@@ -1,10 +1,10 @@
 # simonmichael/hledger - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 274
 
-★ Stars: 2280
+★ Stars: 2281
 
 [Open repository](https://github.com/simonmichael/hledger)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 2281 | 274 | 
 | 2023-01-18 | 2280 | 274 | 
 | 2023-01-17 | 2278 | 274 | 
 | 2023-01-16 | 2277 | 274 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 2246 | 267 | 
 | 2022-12-22 | 2246 | 267 | 
 | 2022-12-21 | 2246 | 267 | 
-| 2022-12-20 | 2246 | 267 | 
 

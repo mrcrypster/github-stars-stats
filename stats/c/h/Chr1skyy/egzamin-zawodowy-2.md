@@ -1,10 +1,10 @@
 # Chr1skyy/egzamin-zawodowy-2 - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 111
+☋ Forks: 112
 
-★ Stars: 42
+★ Stars: 43
 
 [Open repository](https://github.com/Chr1skyy/egzamin-zawodowy-2)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 43 | 112 | 
 | 2023-01-18 | 42 | 111 | 
 | 2023-01-17 | 40 | 102 | 
 | 2023-01-16 | 40 | 102 | 

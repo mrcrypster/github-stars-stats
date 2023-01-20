@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 19
 
-☋ Forks: 330
+☋ Forks: 331
 
-★ Stars: 848
+★ Stars: 849
 
 [Open repository](https://github.com/cjbi/admin3)
 
@@ -13,6 +13,6 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-19 | 848 | 330 | 
+| 2023-01-19 | 849 | 331 | 
 | 2023-01-18 | 848 | 330 | 
 

@@ -1,10 +1,10 @@
 # andrewrk/zig-wasi - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 1
 
-★ Stars: 70
+★ Stars: 71
 
 [Open repository](https://github.com/andrewrk/zig-wasi)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 71 | 1 | 
 | 2023-01-18 | 70 | 1 | 
 | 2023-01-17 | 69 | 1 | 
 | 2023-01-16 | 69 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 68 | 1 | 
 | 2022-12-22 | 67 | 1 | 
 | 2022-12-21 | 67 | 1 | 
-| 2022-12-20 | 67 | 1 | 
 

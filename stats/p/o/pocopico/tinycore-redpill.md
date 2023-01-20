@@ -1,10 +1,10 @@
 # pocopico/tinycore-redpill - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 480
 
-★ Stars: 1406
+★ Stars: 1415
 
 [Open repository](https://github.com/pocopico/tinycore-redpill)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 1415 | 480 | 
 | 2023-01-18 | 1406 | 480 | 
 | 2023-01-17 | 1405 | 479 | 
 | 2023-01-16 | 1401 | 477 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 1338 | 461 | 
 | 2022-12-22 | 1336 | 459 | 
 | 2022-12-21 | 1336 | 458 | 
-| 2022-12-20 | 1336 | 457 | 
 

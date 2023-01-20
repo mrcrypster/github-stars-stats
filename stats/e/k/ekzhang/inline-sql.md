@@ -1,6 +1,6 @@
 # ekzhang/inline-sql - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 387 | 9 | 
 | 2023-01-18 | 387 | 9 | 
 | 2023-01-17 | 387 | 9 | 
 | 2023-01-16 | 387 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 384 | 9 | 
 | 2022-12-22 | 384 | 9 | 
 | 2022-12-21 | 384 | 9 | 
-| 2022-12-20 | 384 | 9 | 
 

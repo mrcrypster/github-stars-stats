@@ -1,6 +1,6 @@
 # SAP-samples/abap-cheat-sheets - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 143 | 28 | 
 | 2023-01-18 | 143 | 28 | 
 | 2023-01-17 | 142 | 27 | 
 | 2023-01-16 | 141 | 26 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 109 | 20 | 
 | 2022-12-22 | 105 | 20 | 
 | 2022-12-21 | 95 | 19 | 
-| 2022-12-20 | 87 | 14 | 
 

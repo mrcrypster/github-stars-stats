@@ -1,10 +1,10 @@
 # softwaremill/tapir - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 318
 
-★ Stars: 1150
+★ Stars: 1152
 
 [Open repository](https://github.com/softwaremill/tapir)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 1152 | 318 | 
 | 2023-01-18 | 1150 | 318 | 
 | 2023-01-17 | 1149 | 318 | 
 | 2023-01-16 | 1147 | 318 | 

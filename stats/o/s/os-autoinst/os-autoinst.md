@@ -1,6 +1,6 @@
 # os-autoinst/os-autoinst - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 186
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 130 | 186 | 
 | 2023-01-18 | 130 | 186 | 
 | 2023-01-17 | 130 | 186 | 
 | 2023-01-16 | 130 | 186 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 129 | 184 | 
 | 2022-12-22 | 128 | 184 | 
 | 2022-12-21 | 127 | 183 | 
-| 2022-12-20 | 127 | 183 | 
 

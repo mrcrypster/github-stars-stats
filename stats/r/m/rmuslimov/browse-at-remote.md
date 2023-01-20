@@ -1,6 +1,6 @@
 # rmuslimov/browse-at-remote - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 206 | 49 | 
 | 2023-01-18 | 206 | 49 | 
 | 2023-01-17 | 206 | 49 | 
 | 2023-01-16 | 206 | 49 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-24 | 204 | 48 | 
 | 2022-12-23 | 204 | 48 | 
 | 2022-12-22 | 203 | 48 | 
-| 2022-12-20 | 203 | 48 | 
 

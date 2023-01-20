@@ -1,10 +1,10 @@
 # shinyorg/shiny - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 191
 
-★ Stars: 1160
+★ Stars: 1161
 
 [Open repository](https://github.com/shinyorg/shiny)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 1161 | 191 | 
 | 2023-01-18 | 1160 | 191 | 
 | 2023-01-17 | 1159 | 190 | 
 | 2023-01-16 | 1157 | 190 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 1143 | 189 | 
 | 2022-12-22 | 1143 | 189 | 
 | 2022-12-21 | 1141 | 189 | 
-| 2022-12-20 | 1141 | 189 | 
 

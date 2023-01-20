@@ -1,10 +1,10 @@
 # guolifu/evil-php - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 11
 
-★ Stars: 214
+★ Stars: 219
 
 [Open repository](https://github.com/guolifu/evil-php)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 219 | 11 | 
 | 2023-01-18 | 214 | 11 | 
 | 2023-01-17 | 211 | 11 | 
 | 2023-01-16 | 204 | 10 | 

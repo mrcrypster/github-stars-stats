@@ -1,10 +1,10 @@
 # groue/GRDB.swift - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 594
 
-★ Stars: 5598
+★ Stars: 5599
 
 [Open repository](https://github.com/groue/GRDB.swift)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 5599 | 594 | 
 | 2023-01-18 | 5598 | 594 | 
 | 2023-01-17 | 5596 | 594 | 
 | 2023-01-16 | 5595 | 594 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 5551 | 585 | 
 | 2022-12-22 | 5550 | 585 | 
 | 2022-12-21 | 5546 | 584 | 
-| 2022-12-20 | 5546 | 584 | 
 

@@ -1,10 +1,10 @@
 # dannye/pokered-gbc - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 39
 
-★ Stars: 102
+★ Stars: 103
 
 [Open repository](https://github.com/dannye/pokered-gbc)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 103 | 39 | 
 | 2023-01-18 | 102 | 39 | 
 | 2023-01-17 | 102 | 39 | 
 | 2023-01-16 | 102 | 39 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 103 | 39 | 
 | 2022-12-22 | 103 | 39 | 
 | 2022-12-21 | 103 | 39 | 
-| 2022-12-20 | 103 | 39 | 
 

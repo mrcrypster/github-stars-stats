@@ -1,6 +1,6 @@
 # prometheus/docs - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 911
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 542 | 911 | 
 | 2023-01-18 | 542 | 911 | 
 | 2023-01-17 | 543 | 910 | 
 | 2023-01-16 | 542 | 910 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 540 | 907 | 
 | 2022-12-22 | 540 | 906 | 
 | 2022-12-21 | 540 | 906 | 
-| 2022-12-20 | 540 | 905 | 
 

@@ -1,10 +1,10 @@
 # xiph/opus - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 503
 
-★ Stars: 1648
+★ Stars: 1649
 
 [Open repository](https://github.com/xiph/opus)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 1649 | 503 | 
 | 2023-01-18 | 1648 | 503 | 
 | 2023-01-17 | 1648 | 503 | 
 | 2023-01-16 | 1648 | 504 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 1634 | 501 | 
 | 2022-12-22 | 1634 | 501 | 
 | 2022-12-21 | 1633 | 501 | 
-| 2022-12-20 | 1633 | 501 | 
 

@@ -1,6 +1,6 @@
 # iwomm/VMware-CodeHouse-2022 - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 2 | 15 | 
 | 2023-01-19 | 2 | 15 | 
 | 2023-01-17 | 2 | 15 | 
 | 2023-01-16 | 2 | 15 | 

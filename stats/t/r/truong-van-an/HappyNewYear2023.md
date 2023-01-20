@@ -1,8 +1,8 @@
 # truong-van-an/HappyNewYear2023 - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 19
+☋ Forks: 18
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 1 | 18 | 
 | 2023-01-18 | 1 | 19 | 
 | 2023-01-17 | 1 | 17 | 
 | 2023-01-16 | - | 17 | 

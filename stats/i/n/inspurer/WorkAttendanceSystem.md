@@ -1,10 +1,10 @@
 # inspurer/WorkAttendanceSystem - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 204
 
-★ Stars: 463
+★ Stars: 464
 
 [Open repository](https://github.com/inspurer/WorkAttendanceSystem)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 464 | 204 | 
 | 2023-01-18 | 463 | 204 | 
 | 2023-01-17 | 463 | 204 | 
 | 2023-01-16 | 462 | 204 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 460 | 203 | 
 | 2022-12-22 | 460 | 203 | 
 | 2022-12-21 | 459 | 203 | 
-| 2022-12-20 | 459 | 203 | 
 

@@ -1,10 +1,10 @@
 # Moriafly/SaltPlayerSource - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 50
 
-★ Stars: 1236
+★ Stars: 1239
 
 [Open repository](https://github.com/Moriafly/SaltPlayerSource)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 1239 | 50 | 
 | 2023-01-18 | 1236 | 50 | 
 | 2023-01-17 | 1234 | 50 | 
 | 2023-01-16 | 1230 | 50 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 1144 | 47 | 
 | 2022-12-22 | 1142 | 47 | 
 | 2022-12-21 | 1138 | 47 | 
-| 2022-12-20 | 1130 | 46 | 
 

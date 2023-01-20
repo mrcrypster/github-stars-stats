@@ -1,6 +1,6 @@
 # INotGreen/Gllllnimloader - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 79
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 290 | 79 | 
 | 2023-01-19 | 290 | 79 | 
 | 2023-01-18 | 290 | 79 | 
 | 2023-01-16 | 291 | 79 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 263 | 78 | 
 | 2022-12-23 | 258 | 78 | 
 | 2022-12-21 | 254 | 74 | 
-| 2022-12-20 | 254 | 74 | 
 

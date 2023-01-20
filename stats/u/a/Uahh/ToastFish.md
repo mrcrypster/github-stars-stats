@@ -1,10 +1,10 @@
 # Uahh/ToastFish - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 271
 
-★ Stars: 2798
+★ Stars: 2799
 
 [Open repository](https://github.com/Uahh/ToastFish)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 2799 | 271 | 
 | 2023-01-18 | 2798 | 271 | 
 | 2023-01-17 | 2795 | 270 | 
 | 2023-01-16 | 2793 | 270 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 2699 | 266 | 
 | 2022-12-22 | 2695 | 264 | 
 | 2022-12-21 | 2693 | 264 | 
-| 2022-12-20 | 2691 | 264 | 
 

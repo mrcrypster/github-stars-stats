@@ -1,10 +1,10 @@
 # ex-aws/ex_aws - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 480
 
-★ Stars: 1181
+★ Stars: 1180
 
 [Open repository](https://github.com/ex-aws/ex_aws)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 1180 | 480 | 
 | 2023-01-18 | 1181 | 480 | 
 | 2023-01-17 | 1178 | 480 | 
 | 2023-01-16 | 1178 | 479 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 1175 | 477 | 
 | 2022-12-22 | 1175 | 477 | 
 | 2022-12-21 | 1175 | 477 | 
-| 2022-12-20 | 1175 | 476 | 
 

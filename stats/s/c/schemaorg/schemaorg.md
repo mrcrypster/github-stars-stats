@@ -1,10 +1,10 @@
 # schemaorg/schemaorg - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 837
 
-★ Stars: 4802
+★ Stars: 4804
 
 [Open repository](https://github.com/schemaorg/schemaorg)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 4804 | 837 | 
 | 2023-01-18 | 4802 | 837 | 
 | 2023-01-17 | 4803 | 836 | 
 | 2023-01-16 | 4803 | 835 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 4780 | 837 | 
 | 2022-12-22 | 4777 | 837 | 
 | 2022-12-21 | 4777 | 837 | 
-| 2022-12-20 | 4775 | 837 | 
 

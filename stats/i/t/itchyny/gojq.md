@@ -1,6 +1,6 @@
 # itchyny/gojq - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 79
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 2416 | 79 | 
 | 2023-01-18 | 2416 | 79 | 
 | 2023-01-17 | 2410 | 80 | 
 | 2023-01-16 | 2409 | 80 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 2377 | 76 | 
 | 2022-12-22 | 2377 | 76 | 
 | 2022-12-21 | 2376 | 76 | 
-| 2022-12-20 | 2374 | 76 | 
 

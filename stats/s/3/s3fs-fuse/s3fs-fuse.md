@@ -1,10 +1,10 @@
 # s3fs-fuse/s3fs-fuse - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 920
+☋ Forks: 922
 
-★ Stars: 6783
+★ Stars: 6786
 
 [Open repository](https://github.com/s3fs-fuse/s3fs-fuse)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 6786 | 922 | 
 | 2023-01-18 | 6783 | 920 | 
 | 2023-01-17 | 6776 | 920 | 
 | 2023-01-16 | 6775 | 920 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 6712 | 919 | 
 | 2022-12-22 | 6712 | 918 | 
 | 2022-12-21 | 6709 | 918 | 
-| 2022-12-20 | 6707 | 918 | 
 

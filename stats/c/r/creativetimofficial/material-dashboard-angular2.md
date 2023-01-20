@@ -1,8 +1,8 @@
 # creativetimofficial/material-dashboard-angular2 - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 1037
+☋ Forks: 1038
 
 ★ Stars: 930
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 930 | 1038 | 
 | 2023-01-18 | 930 | 1037 | 
 | 2023-01-17 | 930 | 1035 | 
 | 2023-01-16 | 930 | 1026 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 927 | 981 | 
 | 2022-12-22 | 928 | 979 | 
 | 2022-12-21 | 927 | 973 | 
-| 2022-12-20 | 926 | 967 | 
 

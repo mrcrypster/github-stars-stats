@@ -1,10 +1,10 @@
 # ziesha-network/rewards - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 20
 
-☋ Forks: 39
+☋ Forks: 41
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/ziesha-network/rewards)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 22 | 41 | 
 | 2023-01-18 | 21 | 39 | 
 | 2023-01-17 | 21 | 39 | 
 | 2023-01-16 | 20 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-24 | 18 | 34 | 
 | 2022-12-23 | 18 | 34 | 
 | 2022-12-22 | 18 | 34 | 
-| 2022-12-21 | 18 | 33 | 
 

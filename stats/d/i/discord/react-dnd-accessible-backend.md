@@ -1,6 +1,6 @@
 # discord/react-dnd-accessible-backend - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 571 | 37 | 
 | 2023-01-18 | 571 | 37 | 
 | 2023-01-17 | 571 | 37 | 
 | 2023-01-16 | 571 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 570 | 36 | 
 | 2022-12-22 | 570 | 36 | 
 | 2022-12-21 | 570 | 36 | 
-| 2022-12-20 | 570 | 35 | 
 

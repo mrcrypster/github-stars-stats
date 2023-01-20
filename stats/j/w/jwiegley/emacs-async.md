@@ -1,10 +1,10 @@
 # jwiegley/emacs-async - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 67
 
-★ Stars: 710
+★ Stars: 712
 
 [Open repository](https://github.com/jwiegley/emacs-async)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 712 | 67 | 
 | 2023-01-18 | 710 | 67 | 
 | 2023-01-17 | 708 | 67 | 
 | 2023-01-16 | 708 | 67 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 699 | 67 | 
 | 2022-12-22 | 699 | 66 | 
 | 2022-12-21 | 699 | 66 | 
-| 2022-12-20 | 698 | 66 | 
 

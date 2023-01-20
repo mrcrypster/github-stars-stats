@@ -1,10 +1,10 @@
 # cleanlock/VideoAdBlockForTwitch - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 121
 
-★ Stars: 1519
+★ Stars: 1522
 
 [Open repository](https://github.com/cleanlock/VideoAdBlockForTwitch)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 1522 | 121 | 
 | 2023-01-18 | 1519 | 121 | 
 | 2023-01-17 | 1519 | 121 | 
 | 2023-01-16 | 1518 | 121 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 1486 | 119 | 
 | 2022-12-22 | 1484 | 119 | 
 | 2022-12-21 | 1481 | 119 | 
-| 2022-12-20 | 1478 | 119 | 
 

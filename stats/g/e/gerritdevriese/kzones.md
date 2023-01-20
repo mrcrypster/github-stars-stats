@@ -1,10 +1,10 @@
 # gerritdevriese/kzones - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 7
 
-★ Stars: 62
+★ Stars: 64
 
 [Open repository](https://github.com/gerritdevriese/kzones)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 64 | 7 | 
 | 2023-01-18 | 62 | 7 | 
 | 2023-01-17 | 61 | 7 | 
 | 2023-01-16 | 61 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 52 | 5 | 
 | 2022-12-22 | 51 | 5 | 
 | 2022-12-21 | 51 | 5 | 
-| 2022-12-20 | 51 | 5 | 
 

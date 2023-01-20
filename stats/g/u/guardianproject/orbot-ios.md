@@ -1,10 +1,10 @@
 # guardianproject/orbot-ios - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 15
 
-★ Stars: 98
+★ Stars: 99
 
 [Open repository](https://github.com/guardianproject/orbot-ios)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 99 | 15 | 
 | 2023-01-18 | 98 | 15 | 
 | 2023-01-17 | 98 | 15 | 
 | 2023-01-16 | 98 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-24 | 94 | 13 | 
 | 2022-12-23 | 94 | 13 | 
 | 2022-12-21 | 94 | 13 | 
-| 2022-12-20 | 94 | 13 | 
 

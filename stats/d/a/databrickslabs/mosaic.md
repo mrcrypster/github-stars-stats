@@ -1,8 +1,8 @@
 # databrickslabs/mosaic - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 26
+☋ Forks: 27
 
 ★ Stars: 135
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 135 | 27 | 
 | 2023-01-18 | 135 | 26 | 
 | 2023-01-17 | 135 | 26 | 
 | 2023-01-16 | 135 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 130 | 25 | 
 | 2022-12-22 | 130 | 25 | 
 | 2022-12-21 | 127 | 25 | 
-| 2022-12-20 | 127 | 25 | 
 

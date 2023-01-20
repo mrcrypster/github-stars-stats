@@ -1,6 +1,6 @@
 # ruesandora/ExordeLabs - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 150
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 78 | 150 | 
 | 2023-01-18 | 78 | 150 | 
 | 2023-01-17 | 78 | 150 | 
 | 2023-01-16 | 78 | 150 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 73 | 146 | 
 | 2022-12-22 | 73 | 145 | 
 | 2022-12-21 | 73 | 145 | 
-| 2022-12-20 | 72 | 145 | 
 

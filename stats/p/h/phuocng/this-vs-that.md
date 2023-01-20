@@ -1,10 +1,10 @@
 # phuocng/this-vs-that - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 94
 
-★ Stars: 1341
+★ Stars: 1343
 
 [Open repository](https://github.com/phuocng/this-vs-that)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 1343 | 94 | 
 | 2023-01-18 | 1341 | 94 | 
 | 2023-01-17 | 1341 | 94 | 
 | 2023-01-16 | 1342 | 94 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-24 | 1333 | 94 | 
 | 2022-12-23 | 1332 | 94 | 
 | 2022-12-22 | 1331 | 94 | 
-| 2022-12-21 | 1329 | 93 | 
 

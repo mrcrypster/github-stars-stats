@@ -1,6 +1,6 @@
 # AutoHotkey/AutoHotkey - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 765
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 6257 | 765 | 
 | 2023-01-18 | 6257 | 765 | 
 | 2023-01-17 | 6253 | 765 | 
 | 2023-01-16 | 6248 | 764 | 

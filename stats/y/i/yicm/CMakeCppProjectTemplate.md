@@ -1,10 +1,10 @@
 # yicm/CMakeCppProjectTemplate - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 24
 
-★ Stars: 77
+★ Stars: 79
 
 [Open repository](https://github.com/yicm/CMakeCppProjectTemplate)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 79 | 24 | 
 | 2023-01-18 | 77 | 24 | 
 | 2023-01-17 | 77 | 24 | 
 | 2023-01-16 | 77 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 76 | 24 | 
 | 2022-12-22 | 76 | 24 | 
 | 2022-12-21 | 76 | 24 | 
-| 2022-12-20 | 76 | 24 | 
 

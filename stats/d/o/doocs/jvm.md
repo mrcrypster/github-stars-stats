@@ -1,10 +1,10 @@
 # doocs/jvm - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 2115
+☋ Forks: 2114
 
-★ Stars: 9209
+★ Stars: 9211
 
 [Open repository](https://github.com/doocs/jvm)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 9211 | 2114 | 
 | 2023-01-18 | 9209 | 2115 | 
 | 2023-01-17 | 9206 | 2115 | 
 | 2023-01-16 | 9205 | 2113 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 9170 | 2106 | 
 | 2022-12-22 | 9167 | 2107 | 
 | 2022-12-21 | 9165 | 2107 | 
-| 2022-12-20 | 9163 | 2106 | 
 

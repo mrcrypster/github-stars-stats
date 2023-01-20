@@ -1,6 +1,6 @@
 # FeeiCN/Security-PPT - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 772
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 2984 | 772 | 
 | 2023-01-18 | 2984 | 772 | 
 | 2023-01-17 | 2982 | 772 | 
 | 2023-01-16 | 2982 | 772 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 2950 | 765 | 
 | 2022-12-22 | 2948 | 765 | 
 | 2022-12-21 | 2949 | 765 | 
-| 2022-12-20 | 2949 | 765 | 
 

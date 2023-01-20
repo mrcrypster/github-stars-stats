@@ -1,10 +1,10 @@
 # gpwwjr/LISA - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 3
 
-★ Stars: 11
+★ Stars: 10
 
 [Open repository](https://github.com/gpwwjr/LISA)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 10 | 3 | 
 | 2023-01-18 | 11 | 3 | 
 | 2023-01-17 | 11 | 3 | 
 | 2023-01-16 | 11 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 10 | 3 | 
 | 2022-12-22 | 10 | 3 | 
 | 2022-12-21 | 10 | 3 | 
-| 2022-12-20 | 10 | 3 | 
 

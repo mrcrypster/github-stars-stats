@@ -1,10 +1,10 @@
 # fugue/regula - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 93
 
-★ Stars: 811
+★ Stars: 810
 
 [Open repository](https://github.com/fugue/regula)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 810 | 93 | 
 | 2023-01-18 | 811 | 93 | 
 | 2023-01-17 | 810 | 93 | 
 | 2023-01-16 | 808 | 93 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 803 | 92 | 
 | 2022-12-22 | 802 | 92 | 
 | 2022-12-21 | 802 | 92 | 
-| 2022-12-20 | 802 | 92 | 
 

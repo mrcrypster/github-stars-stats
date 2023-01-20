@@ -1,10 +1,10 @@
 # DeterminateSystems/nix-github-actions - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 0
 
-★ Stars: 17
+★ Stars: 16
 
 [Open repository](https://github.com/DeterminateSystems/nix-github-actions)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 16 | - | 
 | 2023-01-18 | 17 | - | 
 | 2023-01-17 | 17 | - | 
 | 2023-01-16 | 17 | - | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 17 | - | 
 | 2022-12-22 | 17 | - | 
 | 2022-12-21 | 17 | - | 
-| 2022-12-20 | 17 | - | 
 

@@ -1,10 +1,10 @@
 # ogham/exa - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 606
 
-★ Stars: 20354
+★ Stars: 20363
 
 [Open repository](https://github.com/ogham/exa)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 20363 | 606 | 
 | 2023-01-18 | 20354 | 606 | 
 | 2023-01-17 | 20347 | 606 | 
 | 2023-01-16 | 20337 | 605 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 20159 | 603 | 
 | 2022-12-22 | 20154 | 603 | 
 | 2022-12-21 | 20151 | 603 | 
-| 2022-12-20 | 20142 | 604 | 
 

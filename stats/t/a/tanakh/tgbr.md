@@ -1,6 +1,6 @@
 # tanakh/tgbr - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 90 | 2 | 
 | 2023-01-18 | 90 | 2 | 
 | 2023-01-17 | 90 | 2 | 
 | 2023-01-16 | 90 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-24 | 89 | 2 | 
 | 2022-12-22 | 89 | 2 | 
 | 2022-12-21 | 89 | 2 | 
-| 2022-12-20 | 89 | 2 | 
 

@@ -1,10 +1,10 @@
 # frontend-joe/css-navbars - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 41
 
-★ Stars: 46
+★ Stars: 49
 
 [Open repository](https://github.com/frontend-joe/css-navbars)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 49 | 41 | 
 | 2023-01-18 | 46 | 41 | 
 | 2023-01-17 | 46 | 41 | 
 | 2023-01-16 | 46 | 41 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-24 | 36 | 35 | 
 | 2022-12-22 | 36 | 35 | 
 | 2022-12-21 | 36 | 35 | 
-| 2022-12-20 | 36 | 34 | 
 

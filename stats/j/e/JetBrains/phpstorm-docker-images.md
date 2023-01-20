@@ -1,8 +1,8 @@
 # JetBrains/phpstorm-docker-images - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 50
+☋ Forks: 51
 
 ★ Stars: 151
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 151 | 51 | 
 | 2023-01-18 | 151 | 50 | 
 | 2023-01-17 | 151 | 50 | 
 | 2023-01-16 | 151 | 50 | 

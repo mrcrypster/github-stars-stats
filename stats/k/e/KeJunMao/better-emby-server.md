@@ -1,10 +1,10 @@
 # KeJunMao/better-emby-server - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 14
 
-★ Stars: 195
+★ Stars: 194
 
 [Open repository](https://github.com/KeJunMao/better-emby-server)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 194 | 14 | 
 | 2023-01-18 | 195 | 14 | 
 | 2023-01-17 | 194 | 14 | 
 | 2023-01-16 | 193 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 195 | 14 | 
 | 2022-12-22 | 195 | 14 | 
 | 2022-12-21 | 195 | 14 | 
-| 2022-12-20 | 195 | 14 | 
 

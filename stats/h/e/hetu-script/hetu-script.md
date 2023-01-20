@@ -1,6 +1,6 @@
 # hetu-script/hetu-script - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 172 | 17 | 
 | 2023-01-19 | 172 | 17 | 
 | 2023-01-17 | 172 | 17 | 
 | 2023-01-16 | 171 | 17 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-23 | 165 | 17 | 
 | 2022-12-22 | 165 | 17 | 
 | 2022-12-21 | 165 | 17 | 
-| 2022-12-20 | 165 | 17 | 
 

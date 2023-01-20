@@ -1,6 +1,6 @@
 # litex-hub/pythondata-cpu-serv - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 4 | 2 | 
 | 2023-01-18 | 4 | 2 | 
 | 2023-01-17 | 4 | 2 | 
 | 2023-01-16 | 4 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-24 | 3 | 2 | 
 | 2022-12-22 | 3 | 2 | 
 | 2022-12-21 | 3 | 2 | 
-| 2022-12-20 | 3 | 2 | 
 

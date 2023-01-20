@@ -1,8 +1,8 @@
 # qbcore-framework/qb-clothing - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 231
+☋ Forks: 230
 
 ★ Stars: 25
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 25 | 230 | 
 | 2023-01-18 | 25 | 231 | 
 | 2023-01-17 | 25 | 232 | 
 | 2023-01-16 | 25 | 232 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 25 | 231 | 
 | 2022-12-22 | 25 | 228 | 
 | 2022-12-21 | 25 | 226 | 
-| 2022-12-20 | 25 | 226 | 
 

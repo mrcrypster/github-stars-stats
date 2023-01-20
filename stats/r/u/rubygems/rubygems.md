@@ -1,10 +1,10 @@
 # rubygems/rubygems - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 1690
+☋ Forks: 1693
 
-★ Stars: 3249
+★ Stars: 3248
 
 [Open repository](https://github.com/rubygems/rubygems)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 3248 | 1693 | 
 | 2023-01-18 | 3249 | 1690 | 
 | 2023-01-17 | 3250 | 1689 | 
 | 2023-01-16 | 3249 | 1687 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 3226 | 1679 | 
 | 2022-12-22 | 3226 | 1678 | 
 | 2022-12-21 | 3223 | 1676 | 
-| 2022-12-20 | 3225 | 1675 | 
 

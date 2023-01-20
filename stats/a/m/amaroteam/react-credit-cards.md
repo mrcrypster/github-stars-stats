@@ -1,10 +1,10 @@
 # amaroteam/react-credit-cards - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 283
 
-★ Stars: 2420
+★ Stars: 2422
 
 [Open repository](https://github.com/amaroteam/react-credit-cards)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 2422 | 283 | 
 | 2023-01-18 | 2420 | 283 | 
 | 2023-01-17 | 2420 | 283 | 
 | 2023-01-16 | 2420 | 283 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 2408 | 283 | 
 | 2022-12-22 | 2408 | 283 | 
 | 2022-12-21 | 2408 | 283 | 
-| 2022-12-20 | 2408 | 282 | 
 

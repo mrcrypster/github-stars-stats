@@ -1,6 +1,6 @@
 # nathanhoad/godot_input_helper - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 213 | 11 | 
 | 2023-01-18 | 213 | 11 | 
 | 2023-01-17 | 213 | 11 | 
 | 2023-01-16 | 213 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 206 | 11 | 
 | 2022-12-22 | 206 | 11 | 
 | 2022-12-21 | 205 | 11 | 
-| 2022-12-20 | 204 | 11 | 
 

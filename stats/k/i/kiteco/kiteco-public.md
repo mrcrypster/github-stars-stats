@@ -1,8 +1,8 @@
 # kiteco/kiteco-public - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 20
 
-☋ Forks: 126
+☋ Forks: 127
 
 ★ Stars: 571
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 571 | 127 | 
 | 2023-01-18 | 571 | 126 | 
 | 2023-01-17 | 569 | 126 | 
 | 2023-01-16 | 568 | 126 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-24 | 537 | 115 | 
 | 2022-12-23 | 535 | 114 | 
 | 2022-12-22 | 533 | 113 | 
-| 2022-12-20 | 528 | 113 | 
 

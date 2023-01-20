@@ -1,10 +1,10 @@
 # opencypher/openCypher - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 139
 
-★ Stars: 718
+★ Stars: 719
 
 [Open repository](https://github.com/opencypher/openCypher)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 719 | 139 | 
 | 2023-01-18 | 718 | 139 | 
 | 2023-01-17 | 718 | 139 | 
 | 2023-01-16 | 718 | 139 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 709 | 138 | 
 | 2022-12-22 | 709 | 138 | 
 | 2022-12-21 | 709 | 138 | 
-| 2022-12-20 | 709 | 139 | 
 

@@ -1,10 +1,10 @@
 # bumptech/glide - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 6031
+☋ Forks: 6030
 
-★ Stars: 33274
+★ Stars: 33278
 
 [Open repository](https://github.com/bumptech/glide)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 33278 | 6030 | 
 | 2023-01-18 | 33274 | 6031 | 
 | 2023-01-17 | 33271 | 6031 | 
 | 2023-01-16 | 33268 | 6031 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 33214 | 6021 | 
 | 2022-12-22 | 33209 | 6021 | 
 | 2022-12-21 | 33207 | 6020 | 
-| 2022-12-20 | 33207 | 6022 | 
 

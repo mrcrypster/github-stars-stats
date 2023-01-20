@@ -1,6 +1,6 @@
 # rouge8/neotest-rust - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 25 | 8 | 
 | 2023-01-19 | 25 | 8 | 
 | 2023-01-17 | 25 | 8 | 
 | 2023-01-16 | 25 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 23 | 8 | 
 | 2022-12-23 | 23 | 8 | 
 | 2022-12-22 | 23 | 8 | 
-| 2022-12-21 | 23 | 8 | 
 

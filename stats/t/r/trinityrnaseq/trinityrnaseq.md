@@ -1,10 +1,10 @@
 # trinityrnaseq/trinityrnaseq - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 304
 
-★ Stars: 694
+★ Stars: 695
 
 [Open repository](https://github.com/trinityrnaseq/trinityrnaseq)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 695 | 304 | 
 | 2023-01-18 | 694 | 304 | 
 | 2023-01-17 | 694 | 304 | 
 | 2023-01-16 | 692 | 304 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 683 | 301 | 
 | 2022-12-22 | 682 | 301 | 
 | 2022-12-21 | 681 | 301 | 
-| 2022-12-20 | 681 | 301 | 
 

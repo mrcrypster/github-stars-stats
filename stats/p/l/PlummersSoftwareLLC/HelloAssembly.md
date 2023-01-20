@@ -1,10 +1,10 @@
 # PlummersSoftwareLLC/HelloAssembly - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 10
 
-★ Stars: 64
+★ Stars: 65
 
 [Open repository](https://github.com/PlummersSoftwareLLC/HelloAssembly)
 
@@ -13,6 +13,8 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 65 | 10 | 
+| 2023-01-19 | 65 | 10 | 
 | 2023-01-18 | 64 | 10 | 
 | 2023-01-17 | 63 | 9 | 
 | 2023-01-16 | 62 | 9 | 

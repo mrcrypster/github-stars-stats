@@ -1,6 +1,6 @@
 # Aizener/hexo-theme-cola - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 8 | 1 | 
 | 2023-01-18 | 8 | 1 | 
 | 2023-01-17 | 8 | 1 | 
 | 2023-01-15 | 8 | 1 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-24 | 8 | 1 | 
 | 2022-12-23 | 8 | 1 | 
 | 2022-12-22 | 8 | 1 | 
-| 2022-12-21 | 8 | 1 | 
 

@@ -1,10 +1,10 @@
 # CyberSecurityUP/Cloud-Security-Attacks - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 142
 
-★ Stars: 699
+★ Stars: 700
 
 [Open repository](https://github.com/CyberSecurityUP/Cloud-Security-Attacks)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 700 | 142 | 
 | 2023-01-18 | 699 | 142 | 
 | 2023-01-17 | 694 | 141 | 
 | 2023-01-16 | 691 | 140 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 606 | 118 | 
 | 2022-12-22 | 599 | 117 | 
 | 2022-12-21 | 595 | 115 | 
-| 2022-12-20 | 586 | 114 | 
 

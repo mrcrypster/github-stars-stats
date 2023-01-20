@@ -1,10 +1,10 @@
 # sudleyplace/DPMIONE - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 4
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/sudleyplace/DPMIONE)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 37 | 4 | 
 | 2023-01-18 | 36 | 4 | 
 | 2023-01-17 | 36 | 4 | 
 | 2023-01-15 | 36 | 4 | 
@@ -40,5 +41,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-24 | 36 | 4 | 
 | 2022-12-23 | 36 | 4 | 
 | 2022-12-22 | 36 | 4 | 
-| 2022-12-21 | 36 | 4 | 
 

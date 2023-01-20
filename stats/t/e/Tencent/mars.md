@@ -1,6 +1,6 @@
 # Tencent/mars - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 3528
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 16630 | 3528 | 
 | 2023-01-18 | 16630 | 3528 | 
 | 2023-01-17 | 16626 | 3528 | 
 | 2023-01-16 | 16623 | 3528 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 16596 | 3526 | 
 | 2022-12-22 | 16596 | 3526 | 
 | 2022-12-21 | 16594 | 3525 | 
-| 2022-12-20 | 16592 | 3525 | 
 

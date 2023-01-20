@@ -1,10 +1,10 @@
 # dbuenzli/rel - stars & forks statistics
 
-Stats updated on Jan 2023, 19
+Stats updated on Jan 2023, 20
 
 ☋ Forks: 2
 
-★ Stars: 35
+★ Stars: 36
 
 [Open repository](https://github.com/dbuenzli/rel)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 36 | 2 | 
 | 2023-01-19 | 35 | 2 | 
 | 2023-01-17 | 35 | 2 | 
 | 2023-01-16 | 35 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 35 | 2 | 
 | 2022-12-23 | 35 | 2 | 
 | 2022-12-22 | 35 | 2 | 
-| 2022-12-21 | 35 | 2 | 
 

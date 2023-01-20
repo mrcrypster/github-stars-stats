@@ -1,10 +1,10 @@
 # mcanouil/awesome-quarto - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 34
+☋ Forks: 35
 
-★ Stars: 680
+★ Stars: 686
 
 [Open repository](https://github.com/mcanouil/awesome-quarto)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 686 | 35 | 
 | 2023-01-18 | 680 | 34 | 
 | 2023-01-17 | 677 | 34 | 
 | 2023-01-16 | 676 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 630 | 33 | 
 | 2022-12-22 | 629 | 33 | 
 | 2022-12-21 | 627 | 33 | 
-| 2022-12-20 | 624 | 33 | 
 

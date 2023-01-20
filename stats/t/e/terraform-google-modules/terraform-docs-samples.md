@@ -1,10 +1,10 @@
 # terraform-google-modules/terraform-docs-samples - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 95
+☋ Forks: 97
 
-★ Stars: 110
+★ Stars: 113
 
 [Open repository](https://github.com/terraform-google-modules/terraform-docs-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 113 | 97 | 
 | 2023-01-18 | 110 | 95 | 
 | 2023-01-17 | 110 | 95 | 
 | 2023-01-16 | 109 | 95 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-24 | 102 | 88 | 
 | 2022-12-23 | 102 | 88 | 
 | 2022-12-22 | 102 | 88 | 
-| 2022-12-21 | 99 | 87 | 
 

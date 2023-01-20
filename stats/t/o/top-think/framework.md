@@ -1,6 +1,6 @@
 # top-think/framework - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 1023
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 2535 | 1023 | 
 | 2023-01-18 | 2535 | 1023 | 
 | 2023-01-17 | 2533 | 1024 | 
 | 2023-01-16 | 2533 | 1024 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 2522 | 1028 | 
 | 2022-12-22 | 2522 | 1028 | 
 | 2022-12-21 | 2522 | 1027 | 
-| 2022-12-20 | 2520 | 1027 | 
 

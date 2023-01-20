@@ -1,10 +1,10 @@
 # grafana/oncall - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 132
+☋ Forks: 134
 
-★ Stars: 2489
+★ Stars: 2494
 
 [Open repository](https://github.com/grafana/oncall)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 2494 | 134 | 
 | 2023-01-18 | 2489 | 132 | 
 | 2023-01-17 | 2489 | 131 | 
 | 2023-01-16 | 2487 | 130 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 2445 | 126 | 
 | 2022-12-22 | 2440 | 126 | 
 | 2022-12-21 | 2440 | 126 | 
-| 2022-12-20 | 2439 | 126 | 
 

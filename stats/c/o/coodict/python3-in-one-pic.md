@@ -1,6 +1,6 @@
 # coodict/python3-in-one-pic - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 968
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 4743 | 968 | 
 | 2023-01-18 | 4743 | 968 | 
 | 2023-01-17 | 4743 | 968 | 
 | 2023-01-15 | 4745 | 968 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 4731 | 966 | 
 | 2022-12-22 | 4729 | 966 | 
 | 2022-12-21 | 4728 | 966 | 
-| 2022-12-20 | 4728 | 966 | 
 

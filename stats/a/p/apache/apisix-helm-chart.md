@@ -1,6 +1,6 @@
 # apache/apisix-helm-chart - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 135
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 146 | 135 | 
 | 2023-01-18 | 146 | 135 | 
 | 2023-01-17 | 146 | 135 | 
 | 2023-01-16 | 145 | 135 | 
@@ -42,5 +43,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 143 | 130 | 
 | 2022-12-22 | 143 | 130 | 
 | 2022-12-21 | 143 | 130 | 
-| 2022-12-20 | 142 | 130 | 
 

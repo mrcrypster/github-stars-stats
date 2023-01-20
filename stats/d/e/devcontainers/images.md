@@ -1,10 +1,10 @@
 # devcontainers/images - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 103
+☋ Forks: 104
 
-★ Stars: 246
+★ Stars: 249
 
 [Open repository](https://github.com/devcontainers/images)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 249 | 104 | 
 | 2023-01-18 | 246 | 103 | 
 | 2023-01-17 | 243 | 104 | 
 | 2023-01-16 | 243 | 103 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 202 | 79 | 
 | 2022-12-22 | 202 | 77 | 
 | 2022-12-21 | 202 | 77 | 
-| 2022-12-20 | 202 | 74 | 
 

@@ -1,10 +1,10 @@
 # labring/laf - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 266
+☋ Forks: 267
 
-★ Stars: 2983
+★ Stars: 2985
 
 [Open repository](https://github.com/labring/laf)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 2985 | 267 | 
 | 2023-01-18 | 2983 | 266 | 
 | 2023-01-17 | 2981 | 266 | 
 | 2023-01-16 | 2970 | 266 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 2905 | 260 | 
 | 2022-12-22 | 2903 | 260 | 
 | 2022-12-21 | 2900 | 259 | 
-| 2022-12-20 | 2897 | 259 | 
 

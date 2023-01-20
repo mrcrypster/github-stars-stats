@@ -1,10 +1,10 @@
 # treeform/webby - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 3
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/treeform/webby)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 18 | 3 | 
 | 2023-01-18 | 17 | 3 | 
 | 2023-01-17 | 17 | 3 | 
 | 2023-01-16 | 16 | 3 | 

@@ -1,6 +1,6 @@
 # russellventura/HomeAssistant - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 32 | 6 | 
 | 2023-01-18 | 32 | 6 | 
 | 2023-01-17 | 32 | 6 | 
 | 2023-01-16 | 32 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 30 | 6 | 
 | 2022-12-22 | 28 | 5 | 
 | 2022-12-21 | 26 | 5 | 
-| 2022-12-20 | 26 | 5 | 
 

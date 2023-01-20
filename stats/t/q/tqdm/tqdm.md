@@ -1,10 +1,10 @@
 # tqdm/tqdm - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 1208
 
-★ Stars: 23780
+★ Stars: 23786
 
 [Open repository](https://github.com/tqdm/tqdm)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 23786 | 1208 | 
 | 2023-01-18 | 23780 | 1208 | 
 | 2023-01-17 | 23773 | 1208 | 
 | 2023-01-16 | 23765 | 1208 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 23618 | 1203 | 
 | 2022-12-22 | 23611 | 1203 | 
 | 2022-12-21 | 23601 | 1203 | 
-| 2022-12-20 | 23591 | 1201 | 
 

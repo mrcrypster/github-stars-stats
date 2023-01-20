@@ -1,10 +1,10 @@
 # facebookresearch/mae - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 803
 
-★ Stars: 4889
+★ Stars: 4892
 
 [Open repository](https://github.com/facebookresearch/mae)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 4892 | 803 | 
 | 2023-01-18 | 4889 | 803 | 
 | 2023-01-17 | 4884 | 801 | 
 | 2023-01-16 | 4880 | 800 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-24 | 4805 | 781 | 
 | 2022-12-23 | 4803 | 783 | 
 | 2022-12-22 | 4802 | 782 | 
-| 2022-12-21 | 4799 | 782 | 
 

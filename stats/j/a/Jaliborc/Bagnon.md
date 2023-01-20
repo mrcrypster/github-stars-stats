@@ -2,9 +2,9 @@
 
 Stats updated on Jan 2023, 19
 
-☋ Forks: 92
+☋ Forks: 96
 
-★ Stars: 174
+★ Stars: 175
 
 [Open repository](https://github.com/Jaliborc/Bagnon)
 
@@ -13,7 +13,7 @@ Stats updated on Jan 2023, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2023-01-19 | 174 | 92 | 
+| 2023-01-19 | 175 | 96 | 
 | 2023-01-18 | 174 | 92 | 
 | 2023-01-17 | 174 | 92 | 
 | 2023-01-16 | 173 | 92 | 
@@ -42,5 +42,4 @@ Stats updated on Jan 2023, 19
 | 2022-12-24 | 174 | 92 | 
 | 2022-12-22 | 174 | 92 | 
 | 2022-12-21 | 174 | 92 | 
-| 2022-12-20 | 174 | 92 | 
 

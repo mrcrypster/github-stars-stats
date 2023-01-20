@@ -1,10 +1,10 @@
 # azat-io/you-dont-know-js-ru - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 2466
+☋ Forks: 2469
 
-★ Stars: 6979
+★ Stars: 6986
 
 [Open repository](https://github.com/azat-io/you-dont-know-js-ru)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 6986 | 2469 | 
 | 2023-01-18 | 6979 | 2466 | 
 | 2023-01-17 | 6976 | 2466 | 
 | 2023-01-16 | 6970 | 2468 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 6905 | 2450 | 
 | 2022-12-22 | 6901 | 2446 | 
 | 2022-12-21 | 6899 | 2445 | 
-| 2022-12-20 | 6893 | 2443 | 
 

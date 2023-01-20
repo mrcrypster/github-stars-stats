@@ -1,8 +1,8 @@
 # astrosites/template - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 399
+☋ Forks: 400
 
 ★ Stars: 7
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 7 | 400 | 
 | 2023-01-18 | 7 | 399 | 
 | 2023-01-17 | 7 | 399 | 
 | 2023-01-16 | 7 | 399 | 

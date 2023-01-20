@@ -1,6 +1,6 @@
 # strengejacke/sjPlot - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 88
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 570 | 88 | 
 | 2023-01-18 | 570 | 88 | 
 | 2023-01-17 | 570 | 88 | 
 | 2023-01-16 | 570 | 88 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 564 | 88 | 
 | 2022-12-22 | 564 | 88 | 
 | 2022-12-21 | 564 | 88 | 
-| 2022-12-20 | 561 | 88 | 
 

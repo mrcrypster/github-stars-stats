@@ -1,10 +1,10 @@
 # trusttoken/contracts-pre22 - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 119
 
-★ Stars: 302
+★ Stars: 303
 
 [Open repository](https://github.com/trusttoken/contracts-pre22)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 303 | 119 | 
 | 2023-01-18 | 302 | 119 | 
 | 2023-01-17 | 302 | 119 | 
 | 2023-01-16 | 302 | 119 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 300 | 117 | 
 | 2022-12-22 | 300 | 117 | 
 | 2022-12-21 | 300 | 117 | 
-| 2022-12-20 | 300 | 117 | 
 

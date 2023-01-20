@@ -1,10 +1,10 @@
 # lsmor/snake-fury - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 5
 
-★ Stars: 58
+★ Stars: 59
 
 [Open repository](https://github.com/lsmor/snake-fury)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 59 | 5 | 
 | 2023-01-18 | 58 | 5 | 
 | 2023-01-17 | 57 | 5 | 
 | 2023-01-16 | 56 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 43 | 5 | 
 | 2022-12-22 | 43 | 5 | 
 | 2022-12-21 | 43 | 5 | 
-| 2022-12-20 | 43 | 5 | 
 

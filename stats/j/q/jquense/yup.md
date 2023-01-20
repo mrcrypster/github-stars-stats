@@ -1,10 +1,10 @@
 # jquense/yup - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
-☋ Forks: 819
+☋ Forks: 821
 
-★ Stars: 19352
+★ Stars: 19361
 
 [Open repository](https://github.com/jquense/yup)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 19361 | 821 | 
 | 2023-01-18 | 19352 | 819 | 
 | 2023-01-17 | 19339 | 819 | 
 | 2023-01-16 | 19314 | 818 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 19117 | 813 | 
 | 2022-12-22 | 19109 | 813 | 
 | 2022-12-21 | 19104 | 815 | 
-| 2022-12-20 | 19098 | 816 | 
 

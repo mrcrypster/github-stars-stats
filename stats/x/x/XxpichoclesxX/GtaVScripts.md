@@ -1,8 +1,8 @@
 # XxpichoclesxX/GtaVScripts - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 20
 
-☋ Forks: 45
+☋ Forks: 46
 
 ★ Stars: 33
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-20 | 33 | 46 | 
 | 2023-01-18 | 33 | 45 | 
 | 2023-01-17 | 33 | 45 | 
 | 2023-01-16 | 32 | 44 | 

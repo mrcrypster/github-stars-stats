@@ -1,10 +1,10 @@
 # laravel-shift/curl-converter - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 7
 
-★ Stars: 66
+★ Stars: 67
 
 [Open repository](https://github.com/laravel-shift/curl-converter)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 67 | 7 | 
 | 2023-01-18 | 66 | 7 | 
 | 2023-01-17 | 66 | 7 | 
 | 2023-01-16 | 66 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 66 | 7 | 
 | 2022-12-22 | 66 | 7 | 
 | 2022-12-21 | 66 | 7 | 
-| 2022-12-20 | 66 | 7 | 
 

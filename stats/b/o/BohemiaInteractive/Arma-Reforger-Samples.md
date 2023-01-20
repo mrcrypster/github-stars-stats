@@ -1,10 +1,10 @@
 # BohemiaInteractive/Arma-Reforger-Samples - stars & forks statistics
 
-Stats updated on Jan 2023, 18
+Stats updated on Jan 2023, 19
 
 ☋ Forks: 47
 
-★ Stars: 204
+★ Stars: 205
 
 [Open repository](https://github.com/BohemiaInteractive/Arma-Reforger-Samples)
 
@@ -13,6 +13,7 @@ Stats updated on Jan 2023, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2023-01-19 | 205 | 47 | 
 | 2023-01-18 | 204 | 47 | 
 | 2023-01-16 | 204 | 47 | 
 | 2023-01-15 | 204 | 47 | 
@@ -41,5 +42,4 @@ Stats updated on Jan 2023, 18
 | 2022-12-23 | 203 | 46 | 
 | 2022-12-22 | 203 | 46 | 
 | 2022-12-21 | 202 | 46 | 
-| 2022-12-20 | 201 | 46 | 
 
